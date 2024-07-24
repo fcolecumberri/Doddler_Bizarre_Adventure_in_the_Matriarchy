@@ -1,0 +1,1092 @@
+"character";"jap text";"Eng";"Esp"
+"__system__??";"{麦 = 1:";"";""
+"__system__??";"{☆アエン = 10:";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆アエン > 11:";"";""
+"__system__??";"{(☆アエン３Ｐ = 0) * (D12 \ 0) * (B忠誠タイプ[D12] = 3):";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 2:";"";""
+"__system__??";"{☆アエン = 11:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(B忠誠タイプ = 3) * (B忠誠心 > 70):";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 3:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 4:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 5:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(麦 = 10) + (麦 = 11):";"";""
+"__system__??";"{H捕虜期間 = 1:";"";""
+"__system__??";"}";"";""
+"__system__??";"{H捕虜期間 = 2:";"";""
+"__system__??";"}";"";""
+"__system__??";"{H捕虜期間 = 3:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"Yamamoto Akuji (talking)";"………………
+っ……おっせぇな……";"………………
+You're so slow, ……!";"………………
+Eres muy lento……"
+"Chinpira (talking)";"す、すみません、悪司さん。 遅くなっちまって。";"Sorry, Akuji. I'm sorry I'm late.";"Lo siento, lo siento, Akuji. Siento llegar tarde."
+"Yamamoto Akuji (talking)";"連れてこれたのかい？";"Did you bring him in?";"¿Pudiste traerlo?"
+"Chinpira (talking)";"は、はい。 こら、さっさとこっちにこいや！";"Ha, yes. Hey, get your ass over here!";"Ja, sí. ¡Oye, trae tu trasero aquí!"
+"Hasekura Aen (talking)";"何言ってんだい。 また私から一発、くらいたいのかい？";"What are you saying? Do you want to get another Ippatsu from me?";"¿Qué estás diciendo? ¿Quieres otro Ippatsu de mi parte?"
+"Yamamoto Akuji (talking)";"なーるほどねぇ。 こりゃ、連れてくるのに時間かかるわ。";"I see what you mean. It's going to take a while to bring him in.";"Ya veo. Esto va a llevar mucho tiempo."
+"Hasekura Aen (talking)";"ハン、何スカしてんだか。
+それより、いつまでこんなトコ 閉じこめておく気なの？ さっさと出してよ。";"Han, I don't know what you're doing.
+How long are you going to keep me cooped up in here? Get me the hell out of here.";"Han, no sé por qué estás merodeando.
+ ¿Cuánto tiempo me vas a tener encerrado aquí? Sólo sácame de aquí."
+"Yamamoto Akuji (talking)";"なんだ、ホームシックか。";"What's that, homesickness?";"¿Qué, nostalgia?"
+"Hasekura Aen (talking)";"そんなもの、誰がかかるもんですか。 家もイヤだけど、ここもイヤなの。 だから、出しなさい。";"Who would take such a thing? I don't like the house, but I don't like it here either. So, let me out.";"¿Quién aceptaría una cosa así? No me gusta la casa, pero tampoco me gusta esto. Así que déjame salir."
+"Yamamoto Akuji (talking)";"そーはいかねぇ。 お前さん強いからな。 俺の部下になってもらいたいんだが。";"That's not going to happen. You're strong. I want you to be my subordinate.";"Eso no va a suceder. Eres fuerte. Quiero que seas mi subordinado."
+"Hasekura Aen (talking)";"イヤ。";"No.";"Sí."
+"Yamamoto Akuji (talking)";"だったら出せねえ。";"Then, I can't give it out.";"Entonces no lo voy a servir."
+"Hasekura Aen (talking)";"あっそ、フンっ！";"Oh, yeah, poof!";"Oh, sí, ¡puf!"
+"narrator";"アエンは踵を返し、 さっさと牢屋に戻ってしまった。";"Aen turned on his heel and quickly returned to jail.";"Aen giró sobre sus talones y regresó rápidamente a la prisión."
+"Chinpira (talking)";"こ、こら、待たねぇか！！";"Hey, hey, wait for Tane!";"¡Oye, oye, espera Tane!"
+"Yamamoto Akuji (talking)";"かまわねぇよ。";"I don't care.";"No me importa."
+"Chinpira (talking)";"でも、悪司さん…";"But Akuji…";"Pero Akuji…"
+"Yamamoto Akuji (talking)";"あーいうのは、時間がかかるんだ。 まーのんびりやるさ。";"That kind of thing takes time. I'll take my time.";"Ese tipo de cosas lleva tiempo. Bueno, me tomaré mi tiempo."
+"Yamamoto Akuji (talking)";"フン　フフ~ン♪";"Hmph, hmph, hmph… ♪";"Hmph hmph hmph hmph hmph hmph hmph hmph hmph hmph hmph hmph hmph hmph hmph"
+"narrator";"悪司は鉄のヤスリで爪を砥ぎながら、 鼻歌を歌っている。";"Akuji is humming as he grinds his nails with an iron file.";"Akuji tararea mientras se afila las uñas con una lima de hierro."
+"Chinpira (talking)";"す、すみません… お待たせしました……";"Sorry, sorry… sorry for the wait: ……";"Perdón, perdón… Perdón por la espera……"
+"narrator";"ボロボロになった部下が、アエンを連れてきた。";"A battered subordinate brought Aen.";"Un subordinado maltratado trajo a Aen."
+"Yamamoto Akuji (talking)";"男が女の身だしなみを整える時間を 待つぐらい、なんともねーよ。";"I don't care if a man waits for a woman to groom herself.";"No hay nada malo en que un hombre espere a que una mujer se acierte a sí misma."
+"Hasekura Aen (talking)";"なんで私があんたの為に、身だしなみを 整えなくちゃいけないのよ。";"Why should I have to groom myself for you?";"¿Por qué tengo que arreglarme para ti?"
+"Yamamoto Akuji (talking)";"おや。 俺に会うんで、綺麗にしてて、くるのに 時間がかかってると思ってたんだがな。";"Oh. I thought you were taking your time coming to see me, all cleaned up and everything.";"Oy. Pensé que te tomabas tu tiempo para entrar y limpiar porque ibas a verme."
+"Hasekura Aen (talking)";"真逆。";"Quite the opposite.";"Todo lo contrario."
+"Yamamoto Akuji (talking)";"まーそれはそれ、これはこれとして。
+この前も言ったが。 俺の部下になんねー？";"Well, that's that and this is that.
+Like I said the other day. You're gonna be my guy, right?";"Bueno, eso es todo y esto es todo.
+Te lo dije el otro día. ¿No quieres ser mi hombre?"
+"Hasekura Aen (talking)";"は？";"Huh?";"¿Ja?"
+"Yamamoto Akuji (talking)";"だから、俺の部下。";"So, my man.";"Así que, mi hombre."
+"Hasekura Aen (talking)";"前にも思ったんだけど、 ニホン脳炎にでもかかったの？";"I've wondered before, did you get a case of the Nihon BrainHonoo?";"Me preguntaba antes, ¿tienes un caso de Nihon BrainHonoo?"
+"Yamamoto Akuji (talking)";"いやいや。 マラリヤにも勝った男が、そーいう もんにはビクともしねーよ。";"No, no, no. A man who has beaten Malaria is not going to be intimidated by something like that.";"No, no, no. Un hombre que ha vencido a la malaria no se va a dejar intimidar por algo así."
+"Hasekura Aen (talking)";"だったら、腐ってんのね。 そんな事にＹＥＳと言うはずないでしょ。 私はＰＭの人間よ。
+それより、さっさと出して。 辛気臭いったら、ありゃしない。";"Then you're corrupt. I would never say yes to that. I'm a PM.
+Just get it out of here. You're being a pain in the ass.";"Entonces eres corrupto. Nunca dirías que sí a eso. Soy un PM.
+Sólo sácame de aquí. Estás siendo un grano en el culo."
+"Yamamoto Akuji (talking)";"駄目だ。";"No.";"No."
+"Hasekura Aen (talking)";"ふん、つまんないっ。";"Hmm, boring.";"Hmm, aburrido."
+"narrator";"アエンはそう言うと、さっと帰って行った。";"Aen said so and quickly left.";"Aen dijo esto y se fue rápidamente."
+"Chinpira (talking)";"ホンット、口の減らねぇアマですね！";"You really are a foul-mouthed bitch!";"¡Eres una verdadera perra tonta!"
+"Yamamoto Akuji (talking)";"まーまー。 これからだ。";"Maw-maw. It's just the beginning.";"Ma-ma-ma. Es sólo el principio."
+"narrator";"悪司はプロレス雑誌を読んでいる。";"Akuji is reading a wrestling magazine.";"Akuji lee revistas de lucha libre."
+"Chinpira (talking)";"す、すみません……";"Sorry, sorry……";"Lo siento, lo siento……"
+"Yamamoto Akuji (talking)";"今日は一段と時間がかかったな。";"It took me even longer today.";"Hoy ha tardado aún más."
+"Hasekura Aen (talking)";"まーね。 長い事、こんなとこに閉じこめられてちゃ ウサ晴らしにも時間かけなくっちゃね。";"Well, you know. I've been cooped up in this place for so long, I need to take some time to get away from it all.";"Bueno, ya sabes. He estado encerrado en este lugar durante mucho tiempo, necesito tomarme un tiempo libre."
+"Yamamoto Akuji (talking)";"さーて、前の続きだ。 あんた、俺の部下になる気ねぇ？";"Well, let's pick up where we left off. You're not going to be my man, are you?";"Ahora, continuemos donde lo dejamos. No quieres ser mi hombre, ¿verdad?"
+"Hasekura Aen (talking)";"イヤだっつってんでしょ。";"I told you I don't like it.";"Te he dicho que no quiero."
+"Yamamoto Akuji (talking)";"なんで？";"Why?";"¿Por qué?"
+"Hasekura Aen (talking)";"イヤだからよ。";"Because I don't want to.";"Porque no quiero."
+"Yamamoto Akuji (talking)";"はっきりした理由言わねーって事は、 あんた弱いからか？";"You don't give me a clear reason why, because you're weak?";"¿No me das una razón clara, porque eres débil?"
+"Hasekura Aen (talking)";"なんですってぇ！？";"What the hell?";"¿Qué demonios?"
+"Yamamoto Akuji (talking)";"弱いから、俺の部下になっても、 役にたつかわかんねーから、 部下になりたくねんだろ？";"You don't want to work for me because you're weak and you don't know how useful you'd be to me.";"No quieres trabajar para mí porque eres débil y no sabes lo útil que me serías."
+"Hasekura Aen (talking)";"ちょっと、ふざけないでよ！ 誰がいつ、そんな臆病風に吹かれたって 言ったの！？";"Hey, don't be silly! When did anyone ever tell you that you were blowing in the wind with such cowardice!";"¡Oye, no seas tonto! ¿Cuándo te han dicho que soplas con el viento de la cobardía de esa manera?"
+"Yamamoto Akuji (talking)";"自分で言ってんじゃん。";"You said it yourself.";"Tú mismo lo has dicho."
+"Hasekura Aen (talking)";"言ってない！";"I didn't say that!";"¡Yo no he dicho eso!"
+"Yamamoto Akuji (talking)";"言った。";"He said.";"Ella dijo."
+"Hasekura Aen (talking)";"言ってなーーーい！！";"I didn't say that!";"¡Yo no he dicho eso!"
+"Yamamoto Akuji (talking)";"じゃあ、俺の部下になって、 弱くないって、証明してみせな。";"Then be my man and prove you're not weak.";"Entonces sé mi hombre y demuestra que no eres débil."
+"Hasekura Aen (talking)";"わかったわ！ なってやろうじゃないのっ！！
+ ……………
+っ…………あっ……";"I get it! Let's be!!!!
+ ……………………… and ……";"¡Muy bien! ¡Vamos!
+ ……………………… y ……"
+"Yamamoto Akuji (talking)";"くくっ……";"Kukuku……";"Kukuku……"
+"Hasekura Aen (talking)";"こ、この……";"This, this ……";"Aquí, este ……"
+"Yamamoto Akuji (talking)";"決定だ。 あんたは俺の部下だ。";"It's decided. You're my man.";"Decisión. Eres mi hombre."
+"Hasekura Aen (talking)";"なんて事をっ……！！";"Oh my god, ……!";"¡Oh, Dios mío, ……!"
+"Yamamoto Akuji (talking)";"さあ、このせまっ苦しいところから 解放してやるぜ。
+但し、自由になったからって すぐに逃げんなよ。
+逃げたのは弱虫だからって、 オオサカ中に言いふらしてやっからな。";"Come on, I'm going to free you from this tight spot.
+But don't run away just because you're free.
+I'll tell the whole of Osaka that you ran away because you're a weakling.";"Ahora, voy a liberarte de este lugar de esclavitud.
+Pero no huyas en cuanto seas libre.
+Le diré a todo Osakan que te escapaste porque eres un pelele."
+"Hasekura Aen (talking)";"逃げるもんですか！！ わかったわよ、見せてやろーじゃ ないのさ。
+これでも、支倉の跡取りよ。 そこいらの男よりずっと鍛えてきたんだ。";"I'm not running away! All right, I'll show you.
+I'm still the heir to Hasekura. I've trained harder than most men.";"¡No voy a huir! Muy bien, te mostraré.
+Aun así, soy el heredero de la familia Hasekura. He entrenado más duro que la mayoría de los hombres."
+"Yamamoto Akuji (talking)";"期待してるぜ、アエンちゃん。";"I'm counting on you, Aen.";"Cuento contigo, Aen."
+"Hasekura Aen (talking)";"人をちゃんづけしないでよねっ！！";"Don't call people “chan”!";"¡No llames a la gente 'chan'!"
+"Yamamoto Akuji (talking)";"…ぐう………ぐう……";"…gu……… gu ……";"…gu……… gu ……"
+"narrator";"悪司は顔の上に雑誌を載せ、居眠りしている。";"Akuji is dozing off with a magazine over his face.";"Akuji está dormitando con una revista sobre su cara."
+"Hasekura Aen (talking)";"人を呼び出しといて、居眠り ぶっこいてるなんて、 いいコンジョーしてるわね。";"You're a good conjoiner, calling people out and then falling asleep at the wheel.";"Eres un buen conciliador, llamando a la gente y luego quedándote dormido al volante."
+"Yamamoto Akuji (talking)";"そんだけお前さんが俺を待たせてたって 事じゃねーか、アエンちゃん。";"That's how long you've been keeping me waiting, isn't it, Aen?";"Así es como me has hecho esperar, ¿no es así, Aen?"
+"Hasekura Aen (talking)";"だから、私の事をちゃんづけ するなってば！";"So don't call me “chan”!";"¡Así que no me llames “chan”!"
+"Yamamoto Akuji (talking)";"可愛いねー。 照れ屋なんだな。";"You're cute. You're so shy.";"Eres muy lindo. Eres muy tímido."
+"Hasekura Aen (talking)";"ガキ扱いがイヤなだけよ！";"I just don't like being treated like a kid!";"¡No me gusta que me traten como a un niño!"
+"Hasekura Aen (talking)";"………何よ……";"……… what's ……";"……… ¿Qué es eso? ……"
+"Yamamoto Akuji (talking)";"…………目、潤んでねぇか？ 期待してきたのか？";"………… eyes, aren't they moist? Have you been expecting me?";"………… ojos, ¿no están húmedos? ¿Me has estado esperando?"
+"Hasekura Aen (talking)";"だっ…誰がっ……！";"Who the… ……!";"Es… ¡que es ……!"
+"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
+"Hasekura Aen (talking)";"何？　呼んだ？";"What?　You called me?";"¿Qué?　¿Me has llamado?"
+"Yamamoto Akuji (talking)";"ちょっとこっちにきてくれっかな？";"Can you come over here for a minute?";"¿Puedes venir aquí un minuto?"
+"Hasekura Aen (talking)";"？";"？";"？"
+"Yamamoto Akuji (talking)";"いーから、くるくる。";"I'm going to go to the next level.";"Voy a entrar en razón, porque es bueno."
+"Hasekura Aen (talking)";"あ、ちょっ…何よ？";"Oh, wait… what?";"Oh, espera… ¿qué?"
+"Yamamoto Akuji (talking)";"お前さんにいつもひっついてたアレな。";"That thing that was always clinging to you.";"Esa cosa que siempre estuvo pegada a ti."
+"Hasekura Aen (talking)";"アレ？";"Oh?";"¿Ale?"
+"Yamamoto Akuji (talking)";"大男。";"Big man.";"Hombre grande."
+"Hasekura Aen (talking)";"ああ、盾の事？";"Oh, you mean Tate?";"Oh, ¿te refieres a Tate?"
+"Yamamoto Akuji (talking)";"アレは、お前さんの男かい？ それとも、ペットかい？";"Is that your man? Or is he your pet?";"¿Es tu hombre? ¿O es su mascota?"
+"Hasekura Aen (talking)";"盾は盾よ。 なんであいつをペットに しなくちゃいけないのよ。";"Tate is Tate. Why should I make him my pet?";"Tate es Tate. ¿Por qué debería convertirlo en mi mascota?"
+"Yamamoto Akuji (talking)";"つー事は、やっぱお前さん処女か。";"So you're a virgin, huh?";"Así que eres virgen."
+"Hasekura Aen (talking)";"なっ……！！";"Hey ……!!!!!!!";"¡¡¡¡¡¡¡Nah ……!!!!!!!"
+"Yamamoto Akuji (talking)";"はすっぱなフリしててても、 名家のおじょー様だ。
+貞淑さに関しては、びっちり 教育受けてるだろう？";"She may be pretending to be a simple woman, but she's still a woman from a prominent family.
+As for chastity, you must be well educated, right?";"Puede que se haga pasar por una mujer sencilla, pero sigue siendo una mujer de una familia famosa.
+En cuanto a la castidad, estás bien educado, ¿no?"
+"Hasekura Aen (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"俺が初めてか。 嬉しいねー。";"I'm the first, huh? I'm glad to hear that.";"Soy el primero, ¿eh? No estoy contento con ello."
+"Hasekura Aen (talking)";"誰が……お前に抱かれると言ったのよ！！ 絶対、嫌！！";"Who said…… you would hold me! Absolutely not!!!!!!!!!!!!!!!!!!!!!!!!!!!";"¡Quién dijo que…… me aguantaría! ¡¡¡¡Absolutamente, no!!!!"
+"narrator";"アエンはそばにあった電話の受話器を掴むと、 それを悪司の頭めがけ、叩きつけた。";"Aen grabbed the telephone receiver that was nearby and slammed it down on Akuji's head.";"Aen agarró el auricular del teléfono que estaba cerca y lo golpeó contra la cabeza de Akuji."
+"Yamamoto Akuji (talking)";"おおっと。";"Oops.";"Uy."
+"narrator";"それをなんなく受け止める悪司。";"Akuji accepts it easily.";"Akuji lo acepta fácilmente."
+"Yamamoto Akuji (talking)";"さーて、それじゃあ、 料理にかかるとすっか。";"Well, then, let's get to cooking.";"Muy bien, entonces, vamos a cocinar."
+"Hasekura Aen (talking)";"っ…！！";"Ah…!";"¡Oh!"
+"narrator";"悪司はアエンの手を掴むと、 手にしていた電話を引っ張り、 そのコードで縛めた。";"Akuji grabbed Aen's hand, pulled the phone from his hand, and tied it with its cord.";"Akuji agarró la mano de Aen, le quitó el teléfono de la mano y lo ató con su cordón."
+"cg narrator";"「離しなさいよ！！ 　何考えてんのよ！！」
+ 「まー、たまには気の荒いおじょーさんも 　食べたいなと」
+ 「あたしの意思は！？」
+ 「さあ……」
+ 「くっ……！！」
+アエンは自分の舌を噛もうとした。
+ 「おっと」
+悪司は素早くシーツを裂くと、 それをアエンの口に巻いた。";"Let go of me! 　What were you thinking?
+Well, I thought you might like to have a piece of my rough old man once in a while.
+What do you think I want?
+Come on, ……
+Damn ……!
+Aen tried to bite his tongue.
+Oops.”
+Akuji quickly ripped open the sheet and wrapped it around Aen's mouth.";"¡Suéltame! 　¿En qué estabas pensando?
+Bueno, pensé en tener un poco de vieja ruda de vez en cuando.
+ ¿Cuál es mi intención?
+Vamos, …….
+ ¡Maldito ……!
+Aen trató de morderse la lengua.
+ 'Oops'.
+Akuji abrió rápidamente la sábana y la envolvió alrededor de la boca de Aen."
+"cg narrator";"「残念だったな。 　場慣れしてんでな、こっちは」
+ 「んんんーーーーー！！！！！」
+ 「まあまあ、そういきり立つな。 　俺のはこんなになっちまってるがよ」
+悪司はそう言って笑うと、股間で膨らんで いるものを、アエンの尻に擦りつけた。
+ 「んんーーーーーー！！！！」
+嫌悪にアエンは声をあげ、身を竦ませる。
+ 「そう嫌がるなよ。 　初めてで怖いのはわかるけど、なーに、 　誰もが一度は通る儀式みたいなもんだ」
+悪司の手が、アエンの乳房に伸びた。
+ 「んんっ、んーーー！！！！」
+ 「おっと、暴れるなよ。 　俺はいい気持ちになってんだからよ。 　お前さんもつきあいな」
+悪司の指が、服の上からアエンの乳首を 軽く摘まんだ。
+ 「んんっ！！！」
+アエンの躰が緊張で固くなる。
+ 「そう固くなるなよ。 　固くすんのはこっちの方がいいって言ったら、 　親父くせーかな」
+悪司はそう言いながら、そのままアエンの 乳首を摘まみ、ゆっくりと指の腹で擦る。
+ 「んっ……ううっ……！！」
+ 「初めてにしては感度いいな。 　ほら、尖ってきてんの、わかるだろ？ 　さわられてる感覚が違ってきたろ？」
+悪司の指の中で執拗にこすられた為、 アエンの乳首が固く尖ってくる。
+悪司はそれを軽く引っ張った。
+ 「んっ…んんっ……！！」
+ 「ほら、こっちがこんな風にさわられてる 　もんだから、さわられてない方も 　立ってきちまってるぜ、アエンちゃん」
+悪司は顎と頬を器用にアエンの頭に添わせ、 アエンの目がそこを見えるようにした。
+ 「っ…………！！」
+アエンは自分の躰の反応を見たくないかのように、 目を閉じる。
+ 「そーそ、目閉じてた方が、 　俺の愛撫に集中出来るぜ」
+悪司はアエンの退路を塞ぐように、次から次へと、 アエンを辱めるような事を言い、そして実行する。
+ 「んっ……！！！」
+悪司の片方の手は、アエン自身そんな風に ふれた事のない彼女の乳首を愛撫する。
+そして、悪司のもう片方の手は、 アエンの腹、腰をまさぐっていた。
+ 「んっ……んんんっ……！」
+ 「そんな風に暴れられると、 　男は燃えるって知ってるかい？ 　躰は男知らずのアエンちゃん」
+悪司の言葉にアエンの頬が朱に染まる。
+腹や腰をまさぐっていた悪司の手が、 綺麗に張った太股に伸びた。
+ 「んーーーっ………！！！」
+その手の行方を見て、アエンが声をあげる。
+ 「自分でここ、さわった事あるのかい？」
+ 「んっ……んんっ……んーーーっ……！！」
+アエンは未知の恐怖に躰を竦め、 首を左右に振る。
+その左右に振られた首の意味は、 悪司の問いに対しての否定なのか、 抵抗なのか、本人しかわからない。
+ 「綺麗な足だな。均整も取れてる。 　お前さんにやましい感情抱く男、 　ＰＭにごまんといるんじゃねーのか？」
+悪司はそう言って、ゆっくり、膝から内腿、 そして外側へとアエンの足をまさぐっていく。
+ 「んっ……んんんっ……！！」
+アエンはそれから逃れようとするが、 どんどん躰に力が入らなくなってきた。
+ 「んっ……？ 　んっ……んんっーー……！！！」
+ 「躰はショージキだな、アエンちゃん」
+悪司はアエンの足の間に足を入れ、いつの間にか 降ろしたジッパーの向こうから、いきり勃っている ものを出し、アエンの尻に擦りつけた。
+ 「んんっ……！！！」
+アエンの短いスカートを、間に入れた太股で 器用にたくしあげると、白いショーツに一物を 擦りつける。
+ 「ん、ん、んーーーっ……！！！」
+アエンは激しく首を左右に振った。 しかし、どんどん躰に力が入らなくなっていく。
+ 「俺に躰を撫で回されてんだから、 　これからどんどん、力が入らなくなってくぜ」
+悪司の一物が、白く頼りない布の中に入ってくる。 アエンの尻に、直に悪司の粘膜が擦りつけられた。
+ 「っ………！！！」
+尻に当たる初めての感触に、 アエンが息を飲み、身を竦ませる。
+ 「さーて……」
+アエンの足をまさぐっていた手が、 スカートの中に入った。
+ 「んっ……！！！」
+悪司は足の付け根に手を伸ばし、 ショーツの縁を掴むと、脇に寄せた。
+ 「んっ…んんっ……」
+アエンの間に入れられた悪司の足がさらに大きく、 アエンの足を開かせる。
+ 「っ………！！！」
+悪司はショーツをよけ、 露になったアエンの花弁に一物を宛った。
+ 「んっ……ううぅっ…！！」
+悪司はゆっくり、腰を出し入れした。 悪司の一物の粘膜が、うっすらと湿っている アエンの花弁に纏わりつく。
+ 「んっ……んんっ……んっ…！！」
+アエンの様子が変わってきた。 猿轡の向こうから響く声に甘さが混じる。
+そして、ぴくぴくと僅かだが、 腰が震え始めた。
+ 「俺のが濡れてきてんの、わかるかい？ 　あんたのと擦ってたら、あんたの方から 　湿らせてきてんだぜ」
+悪司の言う通り、徐々に開き出した花弁からは、 細く蜜が滴り始めていた。
+ 「っ………！！」
+アエンは恥辱に頬を染めるが、 抵抗する事が出来ない。 悪司の手管に落ちてしまっていた。
+ 「痛くねーよぅにしてやるからさ… 　そのまま足を開いてな」
+ 「っ……！！」
+悪司の先端が、 アエンの開きかかった蕾に宛われた。
+ 「んっ……う！！」
+悪司の粘膜が、ゆっくり、 アエンのものに絡んでいく。
+ 「んっ……んっ……んーーっ……！！！」
+アエンは自分の躰の中で、 肉がゆっくり裂ける音を聞いた。";"I'm sorry to hear that. 　I'm used to it.
+Mmmmmm… ！！！！！
+Well, well, well, don't be so hasty. 　Mine's all over the place.”
+The Akuji laughed and rubbed his bulging crotch against Aen's buttocks.
+ 'Nnooooooooooooooo ！！！！'
+Aen cries out in disgust and cowering.
+ 'Don't be so disgusted. 　I know it's your first time and you're scared, but hey, it's like a ritual that everyone goes through at least once.”
+Akuji's hand reached for Aen's breast.
+ 'Mmmm, mmmm…' Akuji said.
+Oops, don't get violent. 　I'm feeling good, you know. 　I'm feeling good.
+The fingers of Akuji lightly pinched Aen's nipples on the top of her clothes.
+Nnnn!!!!!!!
+Aen's body became hard with tension.
+Don't get so hard. 　I wonder if it would be fatherly if I told you that it's better to get hard this way.
+The first time I saw this, I was so excited.
+ “Nnnn……Ughhhh……!
+It's very sensitive for a first time. 　The first time you do this, you'll feel the sensitivity of the nipples. 　You can see how different it feels to be touched.
+The nipples of Aen become hard and sharp because of the persistent rubbing in Akuji's fingers.
+Akuji pulled it lightly.
+ 'Mmmm…mmmm………!
+Look, since we are being touched like this, the one who is not being touched is starting to stand up, Aen-chan.
+Akuji dexterously rested his chin and cheek against Aen's head so that Aen's eyes could look there.
+ 'Oh, Aen!!!!
+Aen closes his eyes as if he doesn't want to see his body's reaction.
+Aen closes his eyes as if he doesn't want to see his own body's reaction.
+Akuji says and does one humiliating thing after another to block Aen's retreat.
+ 'Nn……!!!!
+One of Akuji's hands caresses her nipples, which Aen herself has never touched in such a way.
+And Akuji's other hand was fondling Aen's belly and waist.
+ 'Nn…… nn……!
+Do you know how a man burns when he's roughed up like that? 　The body is a man's unknown Aen.”
+The first thing you need to do is to make sure that you have a good understanding of what you are doing and how to do it.
+Akuji's hands, which had been groping her belly and waist, reached out to her beautifully stretched thighs.
+ 'Nnooooooo ………!!!!
+Seeing where his hand went, Aen shouted.
+Have you ever touched this place yourself?”
+I've never touched it myself?
+Aen cowered in fear of the unknown and shook her head from side to side.
+The meaning of that shaking of the head from side to side, whether it is a denial of Akuji's question or a resistance, only he knows.
+She has beautiful legs. They are well-proportioned. 　I'm sure there are plenty of guys in PM who have feelings for you, right?”
+Akuji said so, and slowly moved from her knees to her inner thighs and outward.
+ 'Nn…… nn……!!!'
+Aen tried to escape from it, but his body was getting weaker and weaker.
+He was trying to get away from it, but his body was getting more and more weak. 　Nnnn……nnnn……!!!!”
+The body is a showjiki, Aen-chan.”
+The first thing that Akuji did was to put his foot between Aen's legs, and from behind the zipper that he had pulled down some time ago, he pulled out his erection and rubbed it against Aen's buttocks.
+ “Nnnn……!!!!!!!!”
+She dexterously pulls up Aen's short skirt between her thighs and rubs her shorts against Haku's. “Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh!
+ “Nnnnooooooooooooooooo ……!!!!!!”
+Aen shook her head violently from side to side. However, the body is becoming less and less strong.
+The most important thing to remember is that you should not be afraid of the fact that you are not the only one who can do this.
+Akuji's cock entered into Haku's unreliable cloth. Akuji's mucous membrane rubbed directly against Aen's ass.
+I'm so excited!!!!!!”
+The first time he felt Aen's ass, Aen gulped and cowered.
+ “Now ……!”
+The hand that had been groping Aen's leg slipped inside her skirt.
+ 'Nn……!!!!!!!
+Akuji reached down to the base of her legs, grabbed the edge of her shorts, and pulled them aside.
+ 'Mmmm…mmmm………!!!'
+Akuji's leg, placed between Aen's, is even wider, forcing Aen's legs open.
+I'm so excited!!!!!!”
+Akuji shoved off her shorts, and placed one of her cocks on Aen's exposed petals.
+ “Nn……uuuuuuu!!!!!!!”
+Akuji slowly moved her hips in and out. The mucous membrane of Akuji's penis clung to Aen's petals, which were slightly moist.
+ 'Nnnn……nnn…!
+Aen's appearance has changed. The voice echoing from behind the gag is laced with sweetness.
+And then, her hips trembled and Hajime.
+Can you feel how wet mine is getting? 　I'm rubbing it with yours, and you're making it wetter.
+As Akuji said, honey was dripping thinly from the petals that were gradually opening.
+I'll be right back!
+Aen's cheeks were stained with shame, but she could not resist. He had fallen into Akuji's clutches.
+I'll make it so it won't hurt… just keep your legs open.
+ “Oh, ……!!!!”
+The tip of Akuji was on Aen's open bud.
+ “Nn……u!!!!”
+Akuji's mucous membrane slowly entwined with Aen's.
+Nn……n……n……n……!!!”
+Aen heard the sound of flesh slowly splitting inside his body.";"Lamento escuchar eso. 　Estamos acostumbrados a este tipo de cosas”.
+Nnooooooooo ！！！！！
+Oh, vamos, no seas tan tenso. 　El mío está por todas partes”.
+La primera vez que vi a una mujer en bikini, pensé: 'Nunca la había visto así'.
+ 'Nnooooooooo ！！！！'
+Aen grita de asco y se acobarda.
+ 'No estés tan disgustado. 　Sé que es tu primera vez y tienes miedo, pero oye, es como un ritual por el que todo el mundo pasa al menos una vez'.
+La mano de Aen buscó el pecho de Aen.
+ 'Mmmm, mmmm… ！！！！'
+ 'Uy, no te pongas violento. 　Me siento bien. 　Acompáñame”.
+Los dedos del Akuji pellizcaron ligeramente los pezones de Aen por encima de su ropa.
+ ¡¡¡¡'Nngh!!!!
+El cuerpo de Aen se endurece por la tensión.
+No te pongas tan duro. 　Si te dijera que es mejor endurecerse de esta manera, ¿sonaría como mi padre?
+Lo más importante que debes recordar es que no debes tener miedo de pedir ayuda a tus padres.
+ '¡Nnnn……Ughh……!
+ 'Eres muy sensible para ser la primera vez. 　La primera vez que lo hagas, sentirás la sensibilidad de los pezones. 　Se siente diferente al ser tocado, ¿no?”
+Los pezones de Aen se ponen duros y puntiagudos por el persistente roce de los dedos de Akuji.
+Akuji tiró ligeramente de él.
+ 'Nnnn…nnnn……!!'
+Mira, ya que nos tocan así, el que no está tocado empieza a levantarse también, Aen-chan.
+Akuji apoyó con destreza su barbilla y su mejilla contra la cabeza de Aen, para que los ojos de Aen pudieran mirar allí.
+ 'Oh, ¡¡¡Aen!!!'
+Aen cierra los ojos, como si no quisiera ver la reacción de su cuerpo.
+ 'Sí, puedes concentrarte en mis caricias si mantienes los ojos cerrados'.
+Akuji dice y hace una cosa humillante tras otra para bloquear la retirada de Aen.
+ ¡¡¡¡'Nn……!!!!
+Una de las manos de Akuji acaricia sus pezones, que la propia Aen nunca ha tocado así.
+Y la otra mano de Akuji acariciaba el vientre y la cintura de Aen.
+ '¡Nnnn…… nnnn……!
+ '¿Sabías que un hombre se quema cuando se le da una paliza así? 　El cuerpo no conoce a un hombre, Aen-chan'.
+Las mejillas de Aen se vuelven bermellón ante las palabras de Akuji.
+Las manos de Akuji, que habían estado manoseando su vientre y su cintura, se dirigieron a sus hermosos muslos estirados.
+ 'Nnooooooo ………!!!!'
+Al ver dónde iba esa mano, Aen gritó.
+ '¿Has tocado alguna vez este lugar tú mismo?
+ 'Nnooooooooooooooooooo ……!!!'
+Aen se encogió de miedo ante lo desconocido y movió la cabeza de un lado a otro.
+El significado de ese movimiento de cabeza de lado a lado, si es una negación a la pregunta de Akuji o una resistencia, sólo él lo sabe.
+El cuerpo es un hermoso pie. Están bien proporcionados. 　¿No hay muchos chicos en la PM que sienten celos por ti?”
+Lo primero que hay que hacer es asegurarse de que se entiende bien lo que se hace, y de que no se hace de forma ofensiva.
+ '¡Nn…… nn……!!'
+Aen intenta escapar de ella, pero su cuerpo se debilita cada vez más.
+ ¿N……? 　¡¡¡Nnnn……nnn……!!!
+ 'El cuerpo es un showjiki, Aen-chan.'
+Akuji puso su pie entre las piernas de Aen, y desde detrás de la cremallera que había bajado de alguna manera, sacó su erección y la frotó contra el trasero de Aen.
+ ¡¡¡¡'Nnnn……!!!!
+Sube con destreza la corta falda de Aen entre sus muslos y la frota contra los pantalones cortos de Haku.
+ 'Nnnn, nnooooooo ……!!'
+Aen sacudió la cabeza violentamente de un lado a otro. Sin embargo, el cuerpo es cada vez menos poderoso.
+ 'Desde que tienes tu cuerpo acariciado por mí, vas a perder más y más fuerza a partir de ahora'.
+La polla de Akuji entra en la tela poco fiable de Haku. La mucosa de Akuji se frotó directamente contra las nalgas de Aen.
+ 'Haku!!!!!!!'
+Al sentir por primera vez su culo, Aen traga y se acobarda.
+ 'Ahora ………'
+La mano que había estado manoseando la pierna de Aen se deslizó dentro de su falda.
+ ¡¡¡¡'Nn……!!!!
+Akuji bajó la mano hasta la base de sus piernas, agarró el borde de sus pantalones cortos y los apartó.
+ 'Mmmm…mmmm ……!!'
+La pierna de Akuji, colocada entre las de Aen, es aún más ancha, forzando la pierna de Aen a abrirse.
+ 'Oh, ………!!!!'
+Akuji se encoge de hombros y dirige uno de sus objetos a los pétalos expuestos de Aen.
+ 'Nn……uuuuu…!!!'
+Akuji movía lentamente sus caderas hacia dentro y hacia fuera. La mucosa del pene de Akuji se aferraba a los pétalos de Aen, que estaban ligeramente húmedos.
+ '¡¡¡Nnnn……nnn…!!!
+La apariencia de Aen está cambiando. La voz que resuena detrás de la mordaza está impregnada de dulzura.
+Y, aunque conmovida y ligera, sus caderas temblaban y Hajime.
+ “¿Puedes sentir lo húmedo que se está poniendo el mío? 　Lo estaba frotando con el tuyo y lo estás mojando más”.
+Los pétalos se fueron abriendo poco a poco, como dijo Akuji, y un fino goteo de miel goteaba de Hajime.
+ “¡Oh, ………!
+Las mejillas de Aen estaban manchadas de vergüenza, pero no pudo resistirse. Había caído en las garras de Akuji.
+ 'Lo haré para que no duela… sólo mantén las piernas abiertas.
+ “¡Oh, ……!
+La punta de Akuji se dirigió al capullo abierto de Aen.
+ 'Nn……u!!!'
+La mucosa de Akuji se entrelazó lentamente con la de Aen.
+ “¡N……n……n……n……!
+Aen escuchó el sonido de la carne partiéndose lentamente dentro de su cuerpo."
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"Hasekura Aen (talking)";"……………";"……………";"……………"
+"Yamamoto Akuji (talking)";"どーだった？";"How was it?";"¿Cómo fue?"
+"Hasekura Aen (talking)";"………何……が…？";"……… Ho ……が…?";"……… Ho ……が…?"
+"Yamamoto Akuji (talking)";"んな悪いモンじゃなかったろ？";"It wasn't that bad, was it?";"No fue tan malo, ¿verdad?"
+"Hasekura Aen (talking)";"………………
+女の子達の間で、なんだか妙な空気が 流れてると思ったら… こういう事だったんだ…";"………………
+I thought there was a strange vibe going on among the girls… and this is what it was about…";"………………
+Me pareció que había una vibración extraña entre las chicas… y esto es lo que era…"
+"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
+"Hasekura Aen (talking)";"あんた…こうやって、他の女の子も、 自分の言いなりになるようにしてたんだ…";"You… this is how you get other girls to do your bidding…";"Tú… así es como conseguiste que las otras chicas hicieran tu voluntad…"
+"Yamamoto Akuji (talking)";"さぁねぇ。";"I don't know.";"No lo sé."
+"Hasekura Aen (talking)";"…………ふ…ふふ……
+ ……ふふふ……";"………… f…f…f…f…f…f…f…f…f…………… fufufu……";"………… fufu… fufu………… fufufu……"
+"Yamamoto Akuji (talking)";"どうした？";"What's up?";"¿Qué pasa?"
+"Hasekura Aen (talking)";"あたしもその一人に なっちゃったのかっ…てさ…… 馬鹿みたい……
+ …自分が望まないで、こんな風に 蹂躪されるんだったら…… ………こんな事なら、初めては……
+ ……………
+ ………まあ…それも叶わない…けどさ…";"I feel like I'm one of them……… I feel like an idiot……
+ …If I didn't want to be violated like this…… ………, this would be the first time… …
+ …………………… well… that won't happen either… but you know…";"Me siento como uno de ellos……… Me siento como un idiota……… si no quería ser violado así,…… ……… si es la primera vez que me… …
+ …………………… Bueno… eso tampoco ocurrirá… pero ya sabes…"
+"Yamamoto Akuji (talking)";"好きな男でもいたのか？";"Did you have a guy you liked?";"¿Había un hombre que te gustaba?"
+"Hasekura Aen (talking)";"…………さぁねぇ…
+でもまあ…これで目出度く、あたしも あんたのものって訳なのかな…";"…………
+But, well… now I guess I'm yours, too, happily…";"…………
+Pero, bueno… ahora también soy tuyo, felizmente…"
+"Yamamoto Akuji (talking)";"さぁなぁ…";"I don't know…";"No sé…"
+"Hasekura Aen (talking)";"…ふふ…… ………なんだかなぁ~……";"…heh…… ……… I wonder what it is… ……";"…uf……… ……… Me pregunto de qué se trata… ……"
+"Yamamoto Akuji (talking)";"さーてと。";"Well, let's see.";"Bueno, veamos."
+"Hasekura Aen (talking)";"っ……！";"I'm at ……!";"¡……!"
+"Yamamoto Akuji (talking)";"まだまだ俺の躰が恋しいーって状態じゃあ ないとは思うけど、まあ、可愛がって やるよ。";"I don't think she's in a state where she misses my body yet, but I'll take good care of her.";"No creo que todavía esté en un estado en el que eche de menos mi cuerpo, pero la cuidaré bien."
+"Hasekura Aen (talking)";"だったら、いらない… これ以上、私に余計な事をしないでっ…！";"Then I don't want it… Don't do anything more unnecessary to me…!";"Entonces no… no me hagas nada más innecesario…"
+"Yamamoto Akuji (talking)";"そーいうのって、可愛いぜ。 そそる。";"That's so cute. It's intriguing.";"Ese tipo de cosas son bonitas. Intrigante."
+"Hasekura Aen (talking)";"だからっ……！！";"That's why ……!";"Así que, ¡……!"
+"cg narrator";"「強情はるからこーいう状態になるんだぜ、 　アエンちゃん」
+ 「んっ……んんっ……！」
+ 「大分、手間かけなくても濡れるように 　なってきたな。 　いい子だ」
+ 「っ……んっ……っ……！！」
+ 「お前さん、足が弱いのな。 　ここをこうされると……」
+ 「んんっ…！！」
+ 「濡れ方変わったぜ。 　本気になってきたみてぇだな」
+ 「っ………」
+ 「さぁて……入れてやるよ……」
+ 「んっ……」
+ 「んっ…んんっ……んっ…！」
+ 「んんんぅっ………ーーっ……！！」";"”You're in this situation because you're stubborn, Aen.”
+Oh, ……, oh, ……!
+You're getting wet without a lot of work. 　Good boy.
+Oh, ……, ……, ……, ……, ……!
+You have weak legs. 　You've got weak legs, you know.
+ “Mmm…!
+ “The way you get wet has changed. 　I think he's getting serious.
+Oh, ……….
+Now ……, I'm going to put it in you……
+Mmm… ……
+ “Mmm…mmm…………!”
+ “Mmmm………-……!";"”Esto es lo que pasa cuando eres terco, Aen”.
+ ¡Oh, ……, oh, ……!
+Te mojas sin mucho esfuerzo. 　Buena chica”.
+ ¡Oh, ……, ……, ……, ……, ……!
+Tienes las piernas débiles, ¿no? 　Tienes las piernas débiles, ¿no?
+ “¡Mmm…!
+La forma de mojarse ha cambiado. 　Creo que te estás poniendo serio.
+Oh, ……….
+Vale, ……, voy a ponerlo……
+Mmm… ……
+ “Mmm… mmm……… mmm…!”
+ 'Mmmm………-……!!'"
+"Yamamoto Akuji (talking)";"待たせたな。 ちと、色々と野暮用が入っちまってよ。";"Sorry for the wait. I've had to take care of some personal matters.";"Siento haberle hecho esperar. He tenido muchos asuntos personales que atender."
+"Hasekura Aen (talking)";"………他に、あたしと同じ手で 繋ぎ止めてる女が多いからね…";"……… because so many other women are tied up with the same hands I am…";"……… porque muchas otras mujeres están atadas con las mismas manos que yo…"
+"Yamamoto Akuji (talking)";"妬いてんのか？";"Are you jealous?";"¿Estás celoso?"
+"Hasekura Aen (talking)";"…………ふんっ…";"………… Hmmm…";"………… Hmmm…"
+"Yamamoto Akuji (talking)";"そんな目で男見てたら、 後ろから前から犯して下さいって 言ってるようなもんだぜ。";"If you look at a guy like that, it's like asking him to fuck you from behind or in front.";"Si miras a un hombre así, es como pedirle que te coja de atrás para adelante."
+"Hasekura Aen (talking)";"ひ、人を、淫乱みたいにっ……！！";"You're a whore, ……!";"¡Eres una puta, ……!"
+"Yamamoto Akuji (talking)";"ああ、違う、違う。 アエンちゃんは可愛い女の子だ。";"Oh, no, no. Aen is a pretty girl.";"Oh, no, no. Aen es una chica bonita."
+"Hasekura Aen (talking)";"だ、だから、そーいうのやめてっ… あっ……！！";"I know, so don't be like that… Oh, ……!";"Así que no seas así… ¡Oh, ……!"
+"Hasekura Aen (talking)";"アエンは、悪司に抱かれた。";"Aen was embraced by Akuji.";"Aen fue abrazado por Akuji."
+"Yamamoto Akuji (talking)";"ほれ、小遣いだ。 これで機嫌直せや。";"Here, here's your allowance. Take this and put yourself in a good mood.";"Toma, aquí tienes tu dinero de bolsillo. Utilízalo para ponerte de buen humor."
+"Hasekura Aen (talking)";"いらないわ。 こんなはした金。";"I don't want it. Such a small amount of money.";"No lo quiero. Una cantidad tan pequeña de dinero."
+"narrator";"アエンは、悪司が机の上に置いた金の入った 封筒をペチンと指で弾いた。";"Aen petted the envelope containing the money that Akuji had placed on the desk with his finger Dan.";"Aen acarició con el dedo el sobre que contenía el dinero que Akuji había colocado sobre el escritorio Dan."
+"Hasekura Aen (talking)";"………………";"………………";"………………"
+"narrator";"どっかりと椅子に躰を預け、足を机の上に乗せ アエンは窓の外を見つめている。";"Leaning back in his chair, his feet on the desk, Aen stares out the window.";"Recostado en su silla, con los pies sobre el escritorio, Aen mira por la ventana."
+"narrator";"その後ろを守るように、盾が石像の如く 微動だにせず、立っていた。";"Behind him, Tate stood motionless as if he were a stone statue.";"Detrás de él, Tate permanecía inmóvil como una estatua de piedra, como si lo protegiera."
+"Hasekura Aen (talking)";"盾。";"Tate.";"Tate."
+"narrator";"返事はない。 だが、アエンはそんな事気にせず、 独り言のように、盾に言う。";"There is no reply. But Aen doesn't care about that, and says to Tate, as if talking to himself.";"No hay respuesta. Pero a Aen no le importa, y le dice a Tate, como si hablara consigo mismo."
+"Hasekura Aen (talking)";"父様からここを守れって言われたけど… 思った以上に退屈ね。";"Father told me to protect this place… but it's even more boring than I thought it would be.";"Padre me dijo que cuidara este lugar… pero es más aburrido de lo que pensaba."
+"Tate (talking)";"………………";"………………";"………………"
+"narrator";"盾は黙って、アエンの足元に跪く。";"Tate silently kneels at Aen's feet.";"Tate se arrodilla en silencio a los pies de Aen."
+"Hasekura Aen (talking)";"行くわよ…… どこに行くかは、わかっているわよね？";"Let's go to…… We know where we're going, don't we?";"Vamos…… Sabemos a dónde vamos, ¿no?"
+"narrator";"薄く笑い、机から足を下ろすアエン。
+その靴の踵を、盾は自分の掌で恭しく 受け止め、そっと床に降ろした。";"Laughing thinly, Aen lowers his foot from the desk.
+Tate reverently accepted the heel of his shoe with his palm and gently lowered it to the floor.";"Riendo finamente, Aen baja el pie del escritorio.
+El tacón de su zapato fue aceptado reverentemente por Tate con la palma de la mano y bajado suavemente al suelo."
+"Hasekura Aen (talking)";"父様から電話って本当！？";"It's true that Father called!";"¡Es cierto que el Padre llamó!"
+"Peach Maid (talking)";"はい、こちらに……";"Yes, here: ……";"Sí, aquí: ……"
+"narrator";"そっとメイドが差し出した受話器を、 アエンは乱暴に奪い取った。";"Gently the maid held out the receiver, which Aen roughly snatched away.";"Con delicadeza, la criada le tendió el auricular, que Aen arrebató con brusquedad."
+"Hasekura Aen (talking)";"もしもし、父様！？ 私――";"Hello, Father! I--";"¡Hola, padre! I--"
+"narrator";"「出るのに随分と時間がかかったな」";"It took you a long time to get out.”";"Tardaste mucho en salir”."
+"Hasekura Aen (talking)";"それは…… ちょっと、外に……";"It's…… just a little, outside ……";"Es…… sólo un poco, fuera ……"
+"narrator";"「その場所の主であるお前が、そのような 　浮ついた事をしていてどうする」";"”How can you, the master of the place, be so frivolous?”";"”¿Cómo puede usted, el dueño del lugar, hacer cosas tan frívolas?"
+"Hasekura Aen (talking)";"父様…";"Father…";"Padre…"
+"narrator";"「アエン、奉仕青年団に、 　茶々を入れているそうだな」";"”Aen, I hear you're giving the Service Youth League a hard time.”";"Aen, he oído que has estado dando al Cuerpo de Jóvenes de Servicio una carrera por su dinero”."
+"Hasekura Aen (talking)";"……………";"……………";"……………"
+"narrator";"「さっきも言ったが、お前はそこの主だ。 　そのお前が先導して命令違反などすれば、 　いずれ規律が乱れてしまう」
+ 「そのような事は、我がＰＭには 　許されない事だ。 　わかっているな？」";"As I said before, you are the master of this place. 　If you lead the way and violate orders, discipline will eventually break down.
+Such a thing will not be tolerated in my PM. 　Do you understand?";"Como he dicho antes, eres el amo de este lugar. 　Si se lidera y se violan las órdenes, la disciplina acabará por romperse.
+Esas cosas no serán toleradas en mi PM. 　¿Entiendes?”"
+"Hasekura Aen (talking)";"………………";"………………";"………………"
+"narrator";"「よいか、父ではなく、 　支倉家当主の厳命だ」
+ 「お前はそこを死守するのが指名。 　それを――」";"”Remember, these are the strict orders of the head of the Hasekura family, not my father.
+You are appointed to defend it to the death. 　That's--”";"'Recuerda que son órdenes estrictas del jefe de la familia Hasekura, no de mi padre.
+Estás designado para defenderla hasta la muerte. 　Eso es…”"
+"Hasekura Aen (talking)";"ぴんぽんぱんぽーん。 この電話は現在使われて おりまっせーん。";"Ping-pong, ping-pong, ping-pong. This phone is currently not in use.";"Ping pong pong pong. Este teléfono no está actualmente en uso."
+"narrator";"「アエン――」";"Aen--”";"Aen”"
+"Hasekura Aen (talking)";"んだから、電話は切れてしまいまーす。";"So, the phone is disconnected.";"Entonces, el teléfono está desconectado."
+"narrator";"「アエン、待ちなさ――――
+父の言葉を最後まで聞く事なく、 アエンは受話器をそっと置いた。";"”Aen, wait for me. ----
+Without hearing his father's last words, Aen gently put down the receiver.";"'Aen, espérame ----'
+Sin escuchar las últimas palabras de su padre, Aen colgó suavemente el auricular."
+"Hasekura Aen (thinking)";"………そーやって… 怒ってばっか…
+ ……どーしてなのよ… もう少し、優しくしてくれたって いいじゃない……
+キリカには…… キリカには、いつも、あんなに…
+ ………………";"……… so… all you do is get angry…
+ ……Why don't you just… be a little nicer to me……
+You've always been so……… Kirika…
+ ………………";"……… así que… lo único que haces es enfadarte…
+ ……¿Por qué no… eres un poco más amable conmigo? ……
+Siempre has sido tan……… Kirika…
+ ………………"
+"Hasekura Aen (talking)";"~~~~~~~~~！！！
+盾、行くよ！！";"~~~~~~~~~!!!!
+Tate, I'm coming!";"¡¡¡¡~~~~~~~~~!!!!
+ ¡Tate, ya voy!"
+"Peach Maid (talking)";"ア、アエン様、どこに。";"A, Dear Aen, where.";"A, Estimado Aen, donde."
+"Hasekura Aen (talking)";"どこだっていいでしょ！！";"It doesn't matter where!";"No importa dónde estés."
+"narrator";"アエンは無言の盾を連れ、姿を消した。";"Aen disappeared, accompanied by a mute Tate.";"Aen desapareció, acompañada de un mudo Tate."
+"Peach Maid (talking)";"そんな… ここの長は、アエン様なのに、 どうしてこう、プラプラなさるの……";"Oh no… why are you so plasticy when the head of this place is Mr. Aen ……";"¿Por qué eres tan plástico cuando el jefe de este lugar es el Sr. Aen ……"
+"Hasekura Aen (talking)";"盾、行くわよ。 憂さ晴らしに、暴れるわ。";"Tate, let's go. I'm going to go on a binge.";"Tate, vamos. Me voy a ir de cañas, para sacarme las penas de encima."
+"Tate (talking)";"………………";"………………";"………………"
+"narrator";"二人は持ち場であるコウシエンを離れた。";"They left the koushien at their posts.";"Dejaron sus puestos koushien."
+"narrator";"アエンと盾は、";"Aen and Tate are the";"Aen y Tate son."
+"narrator";"地域を 奇襲攻撃してきた。";"The company has been conducting surprise attacks on the region.";"Han llevado a cabo ataques sorpresa en la región."
+"__system__??";"{RND = 0:";"";""
+"Hasekura Aen (talking)";"むっ。";"Mwah.";"Mmm."
+"Tate (talking)";"………………";"………………";"………………"
+"Hasekura Aen (talking)";"何よ、これ。 奉仕青年団の奴ら、 まったくいないじゃない。
+ ……逃げたのかしら？ どう思う？";"What's this? The Youth Service Corps guys are totally gone.…… think they got away? What do you think?";"¿Qué es esto? Esos chicos del grupo de jóvenes del servicio, se han ido totalmente.…… ¿crees que se han escapado? ¿Qué te parece?"
+"Tate (talking)";"……………";"……………";"……………"
+"Hasekura Aen (talking)";"このあたしのムシャクシャを どこに持ってけっていうのよー… ったくー…";"I don't know where to take my frustration… you know…";"¿Dónde quieres que tome mis bocadillos, ya sabes… ya sabes…"
+"__system__??";"}";"";""
+"__system__??";"{D11 \ 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{D12 \ 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(D11 \ 0) * (D12 \ 0):";"";""
+"Hasekura Aen (talking)";"ふふん。 どう、盾？ いい感じでしょ？";"Hmmm. How's that, Tate? Pretty good, huh?";"Hmmm. ¿Cómo es eso, Tate? Es bonito, ¿verdad?"
+"Tate (talking)";"……………";"……………";"……………"
+"Hasekura Aen (talking)";"あー、すっきりした。 今日はこれぐらいにしておきましょ。 帰るわよ、盾。";"Ah, I feel refreshed. That's enough for today. Let's go home, Tate.";"Ah, me siento renovado. Es suficiente por hoy. Vamos a casa, Tate."
+"Tate (talking)";"………………";"………………";"………………"
+"__system__??";"}";"";""
+"Hasekura Aen (talking)";"何さ、呼び出して。";"What? Call them up.";"Qué demonios, llámalos."
+"Kohara Koharu (talking)";"２時間の遅刻。";"Two hours late.";"2 horas de retraso."
+"Hasekura Aen (talking)";"え？";"Huh?";"¿Eh?"
+"Kohara Koharu (talking)";"私が呼び出して、２時間経っていますわ。 何をしていらしたのか知りませんけど。";"It's been two hours since I called you. I don't know what you were doing.";"Han pasado dos horas desde que te llamé. No sé qué has estado haciendo."
+"Hasekura Aen (talking)";"私が何してようと、勝手じゃないさ。";"Whatever I'm doing, it's not up to me.";"Lo que haga, no depende de mí."
+"Kohara Koharu (talking)";"ですけど、人から呼び出されていたら、 遅刻するにも一言あるのが礼儀というもの ではありませんこと？";"However, if you have been summoned by someone, isn't it polite to say a few words even if you are late?";"Pero si te ha citado alguien, ¿no es de buena educación decir unas palabras aunque llegues tarde?"
+"Hasekura Aen (talking)";"人の都合を考えずに呼び出すのも、 礼儀違反じゃないの？";"Isn't it also a breach of etiquette to call someone without considering their convenience?";"¿No es también una falta de decoro llamar a alguien sin tener en cuenta su disponibilidad?"
+"Kohara Koharu (talking)";"ああそう。 そういう事ですの。";"Oh, yeah. That's what I mean.";"Ah, sí. Eso es lo que quiero decir."
+"Hasekura Aen (talking)";"………何よ…";"……… What the…";"……… Lo que el…"
+"Kohara Koharu (talking)";"躾のなっていないメイドには、 お仕置きが必要ですわね。";"A maid with no discipline needs to be spanked.";"Una criada indisciplinada necesita ser castigada."
+"Hasekura Aen (talking)";"だ、誰がメイドなのよっ！ 大体っ…";"Who's the maid? Of course…";"¿Quién es la criada? Ya sabes…"
+"Kohara Koharu (talking)";"遅くてよ、アエンさん… もう、始まっているの……";"You're late, Aen… I'm already Hajime waiting ……";"Llegas tarde, Aen… Ya estoy Hajime esperando ……"
+"narrator";"そう言った小春の瞳は艶に染まっている。";"The eyes of Koharu, who said so, are dyed with gloss.";"Los ojos de Koharu que lo dijo se tiñen de brillo."
+"Hasekura Aen (talking)";"ま…さか…";"Well…maybe…";"Bueno… es…"
+"Kohara Koharu (talking)";"もう……遅い……のよ…… くす…くす…";"It's already…… too late…… Kusu… kusu…";"Ya es…… demasiado tarde…… a…… Kusu… kusu…"
+"narrator";"小春がそう笑うと、何人もの男が現れ、 一気にアエンに向かった。";"When Koharu laughed, several men appeared and headed for Aen at once.";"Cuando Koharu se rió de eso, aparecieron varios hombres y se dirigieron a Aen de inmediato."
+"Kohara Koharu (talking)";"さあ、準備を整えて差し上げて。";"Come on, get him ready.";"Vamos, prepáralo."
+"Hasekura Aen (talking)";"くっ…！！";"Damn…!";"¡Kuh…!"
+"narrator";"多勢に無勢。 アエンの抵抗は無駄に終わった。";"Outnumbered. Aen's resistance was in vain.";"En inferioridad de condiciones. La resistencia de Aen fue en vano."
+"cg narrator";"「くっ……ううっ……」
+ 「さあ、何をしているの？ 　グズグズしないで。 　ここがまだ汚れていてよ！」
+ 　　［どすっ］
+アエンのものとはまた違ったメイド服を身に纏い だて眼鏡をかけた小春が、モップの柄でアエンの尻を ついた。
+ 「あっ…！！」
+痛みに眉根を寄せるアエン。
+ 「っ……くっ…ぅっ……」
+力の入らない躰で、何とか床を拭こうとするが、 その手は震えるばかりだった。
+ 「どうしたのかしら？ 　ここに入っているコレが、 　そんなに気持ちよいの？」
+ 「あっ……！！」
+小春はそう言って、アエンのスカートを モップの柄で捲った。
+頼りない面積の下着の向こう。 花弁の中に小刻みに震えるバイブが入っている。
+もう何時間もそれを入れられているかのように、 そこから雫が滴り、床に落ちる。
+ 「あっ…ああっ……」
+アエンはモーターの繰り出す快楽に震える手で、 なんとかスカートを押さえようとするが。
+ 「そんな事を気にしている暇があったら、 　さっさと掃除なさいと言ってますでしょう！？」
+小春はそう言って、手にしているバイブの コントローラーのスイッチを強くした。
+ 「あああっ……ぁ！！」
+アエンは大きく背をのけぞらせ、 びくびくと腰を震わせる。
+ 「あら、よいお声。 　このメイドは、そういうところばかり 　飲み込みの早い淫乱ですこと」
+妖しく笑い、小春はスイッチを弱に戻した。
+ 「あっ………くっ…！」
+かくん、と、糸の切れた人形のように、 床に倒れるアエン。
+ 「ほら、倒れている暇はありせんわ。 　さっさと手を動かして！」
+小春は再び、モップでアエンの尻を突く。
+ 「っ……くっ……」
+アエンは震える手をぞうきんに伸ばす。
+ 「…………ふふっ……」
+その姿が健気に見えたのか、 小春が唇の端を釣り上げた。 バイブのスイッチに手をかけて。
+ 　　［ヴヴヴっ……］
+アエンの中でまた、バイブが暴れる。
+ 「あっ……！！」
+アエンの躰がまた跳ね上がり、 アエンは膝で立ったまま、躰をしならせる。
+ 「本当に、コレが好きね。 　そんなに気持ちがいいの？」
+小春は笑いながらさらにバイブの強さをあげていく。
+ 「あ、あ、あっ！！」
+アエンは息を飲むのも忘れ、 バイブのなすがままにされる。
+ 「うあっ……あ！！」
+アエンは躰をしならせながら、 中に埋められているバイブをぎゅっと 絞め上げる。
+そのあまりの強さにバイブがアエンの中から 出そうになる。
+ 「ほら、しっかり飲み込んでいないと、 　あなたの大好きなものが飛び出して 　しまいますわよ！」
+小春は手にしていたモップの柄を、アエンの ショーツの中に入れた。
+モップの柄はショーツのウエスト部分から足の部分に 抜け、絞められた為、飛び出しそうになっている バイブがその為に、薄い布で固定された。
+ 「あっ…ああっ…あ！」
+激しく振動するバイブにモップの柄が当たり、 アエンの中に響かせる振動の種類がまた変化する。
+ 「あら、こんな微弱な変化にも躰を震わせて…」
+小春は嬉しそうにモップの柄を掴む。 そしてアエンの尻に押し付けるように、 動かした。
+ 「あかっ…はっ……うぁぁっ……！」
+アエンは自分の躰を自分で抱きしめるように 手を回し、大きく震えた。
+ 「ふふっ……軽くイッちゃったわね… 　可愛らしい子…」
+小春はそう言いながら、アエンを責める手管を 緩めようとはしない。
+ 「もっともっと、イきたくない？」
+そう言って、さらに激しくモップの柄を 動かした。
+ 「あ、あ、あっ…！！」
+それを直で手に持ち操縦するかのように、 アエンの中にバイブがピストンされる。
+ 「あっ…うあっ、あっ~~……！」
+すべてが敏感になってしまっているアエンの中は、 その快楽を素直に受け取り、花弁からさらに 蜜を滴らせる。
+蜜はバイブに滴り、モップの柄にも滴った。
+ 「さあ、もっと感じて、もっと声をあげて… 　もっと夢中になって…そうしたら、もっともっと 　いいところに連れてって差し上げるから……」
+艶に染まった小春の声が、アエンを誘う。
+ 「あっ…ああっ…あっ…！」
+ 「メイドとしては失格だけど、娼婦としては、 　最高だわ…その気位に合わない、可愛らしい喘ぎ… 　あなたは最高の娼婦だわ…」
+そう言いながら、小春の手はずっと動き続けている。
+ 「うあっ……あっ…あっ……」
+ 「さあ……いい子ね……そのまま虜に 　なってしまいなさいな…」
+小春の手が、素早く何度も何度も動いた。
+ 「あ、ああ、あ~~っ！！」
+一際大きく、何度も何度もアエンの顎が、 腰が、足が。 躰全体が、快楽のすべてを飲み込んだ。
+ 「うあっ…あっ…あっ……！」
+そして、床に倒れる。
+ 「本当……いい子ね…」
+小春は床に倒れているアエンの頬に手を添えると、 唇を重ねた。";"”Kkk…… ugh ……”
+ 'Come on, what are you doing? 　Don't goof off. 　This place is still filthy!”
+ 　　[Dosu!]
+The Koharu, wearing a maid's uniform different from Aen's and wearing glasses, poked Aen's buttocks with the handle of a mop.
+Ah…!
+Aen's brow furrowed in pain.
+Aen's body was not strong enough to move, but he managed to move his body on the floor.
+ 
+  　I'm not sure what's wrong with me, but I'm not sure what I'm supposed to do.
+Oh, ……!
+Koharu said and rolled up Aen's skirt with a mop.
+Beyond the unreliable area of underwear. There is a vibrator that quivers in the petals.
+As if it had been in there for hours, drops dripped from it and fell to the floor.
+Ah…ah…ah………”
+The motor is making her tremble with pleasure, and she tries to hold her skirt down with her trembling hands.
+The Koharu is not a good person to be worried about such things.
+Aen said and turned on the controller of the vibrator in her hand.
+ “Aaahh……aaa!!!”
+Aen arched her back and shook her hips.
+Oh, my goodness, what a nice voice. 　This maid is a fast-thinking whore in that way.
+Laughing wickedly, Koharu flipped the switch back to the low position.
+ “Oh,……… damn…!”
+Aen collapsed to the floor like a broken doll.
+Look, there is no time to fall down. 　Move your hands quickly!
+Koharu pokes Aen's ass again with a mop.
+Koharu shakes his head and says, “K……kkk……!”
+Aen stretches his shaking hands out to the mop.
+ '…………fuhu…….'
+The end of Koharu's lip quirked up, as if he thought that appearance was healthy. Putting his hand on the vibrator switch.
+ 　　[vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv ……]
+The vibrator goes wild again inside Aen.
+ 'Oh ……!!!'
+Aen's body jumps up again, and Aen stands on her knees and flexes her body.
+Aen's body jumped again, and she stood on her knees and wriggled. 　Does it feel so good?
+Koharu laughed and increased the intensity of the vibrator.
+Aen gasped, “Ah, ah, ah!
+Aen forgets to take a breath and is at the mercy of the vibrator.
+ “Ahh!
+Aen squeezes the vibrator that is buried inside her body, making her body squirm.
+The vibrator almost comes out from inside of Aen by its too much strength.
+Look, if you don't swallow it properly, your favorite thing will pop out!
+Koharu puts the handle of the mop in her hand into Aen's shorts.
+The mop handle slipped through the waistband of the shorts and into the legs, where it was squeezed so that the vibrator, which was about to pop out, was held in place by a thin strip of fabric.
+Ah… ah… ah!”
+The mop handle hits the vibrating vibrator, and the type of vibration that resonates inside Aen changes again.
+Oh my, even such a slight change can make your body tremble…”
+Koharu grabs the handle of the mop happily. The first time I saw him, I was so excited.
+Aen shuddered and shuddered, and then he moved the mop handle so that it was pressed against Aen's buttocks.
+Aen put her hands around her own body as if she was hugging herself, and trembled greatly.
+ 'Phew…… you came lightly… pretty girl…'
+The Koharu said so, but he would not loosen his hand to blame Aen.
+Don't you want to come even more, even more?”
+Saying so, he moved the handle of the mop even harder.
+ “Ah, ah, ah…!
+As if Misao was holding it directly in his hand and Aen was vertical, the vibrator was pistoned inside Aen.
+ “Ah…ah, ah~~ ……!
+Everything inside of Aen, which has become so sensitive, receives the pleasure and drips more nectar from the petals.
+The nectar dripped onto the vibrator and onto the mop handle.
+ 'Come on, feel more, scream more… get more into it… and I'll take you to even better places……
+The voice of Koharu, dyed in gloss, invites Aen.
+Aen is not a good maid, but she is a good woman.
+As a maid, you're not good enough, but as a whore, you're the best… your lovely moaning doesn't match your dignity… you're the best whore I've ever seen…”
+Saying this, Koharu's hand keeps moving all the time.
+ 'Oh…… oh… oh ………'
+ “Come on,…… good girl,…… you'll be a captive as it is…”
+Koharu's hand moved quickly and again and again.
+Oh, oh, oh, oh~!
+Aen's jaw, her waist, her legs, her whole body was filled with pleasure. His whole body swallowed up all of the pleasure.
+Oh…oh…oh…oh………!”
+And then he collapsed to the floor.
+You're a real…… good boy…”
+Koharu put his hand on Aen's cheek, who was lying on the floor, and put his lips on hers.";"'Kkk…… ugh ……'
+ 'Vamos, ¿qué estás haciendo? 　Deja de reírte. 　Este lugar sigue estando sucio'.
+ 　　[Thud.]
+La Koharu, que vestía un uniforme de sirvienta diferente al de Aen y llevaba gafas, pinchó las nalgas de Aen con el mango de una fregona.
+ ¡Ah…!
+Aen levanta las cejas con dolor.
+ '¡Oh…….……!
+Lo más importante es recordar que la mejor manera de obtener lo mejor de su coche es obtener lo mejor de su coche.
+Lo más importante es recordar que no puedes tomarte unos minutos y sentarte a disfrutar del momento. 　¿Esta cosa de aquí realmente se siente tan bien?”
+ ¡Oh, ……!
+Diciendo eso, Koharu se arremangó la falda de Aen con el mango de la fregona.
+Más allá de la zona poco fiable de la ropa interior. Hay un vibrador que tiembla ligeramente en los pétalos.
+Como si llevara horas allí, las gotas gotean de él y caen al suelo.
+ 'Ah… ah… ……'
+El placer del motor hace que a Aen le tiemblen las manos y consiga sujetar la falda.
+ '¡Si tienes tiempo para preocuparte por esas cosas, te he dicho que te pongas a limpiar!
+Aen lo dijo, y encendió el mando del vibrador que tenía en la mano.
+ “¡Aaahh……aaa!
+Aen arqueó la espalda y agitó las caderas.
+ 'Oh, Dios mío, qué voz tan bonita. 　Esta criada es una zorra de pensamiento rápido.
+Riendo con maldad, Koharu volvió a poner el interruptor en posición baja.
+ '¡Oh……… maldita sea…!
+El Aen se desploma en el suelo como una marioneta con los hilos rotos.
+ 'Mira, no hay tiempo para caerse. 　¡Mueve tus manos rápidamente!
+Koharu vuelve a pinchar el trasero de Aen con una fregona.
+ '¡Maldita sea, Koharu!
+Aen estira sus manos temblorosas hacia la fregona.
+ '………… ffff…….'
+El borde de los labios de Koharu se levantó, tal vez porque vio su aspecto saludable. Poniendo su mano en el interruptor del vibrador.
+ 　　[vvvvvvvvvvvvvvvvvvvvvvvvvvvv ……]
+El vibrador se vuelve a desbocar dentro de Aen.
+ “¡Oh ……!
+El cuerpo de Aen vuelve a saltar, y Aen se pone de rodillas, con el cuerpo retorciéndose.
+El cuerpo de Aen vuelve a saltar y se pone de rodillas y se retuerce. 　¿Se siente tan bien?”
+Koharu se rió y aumentó la fuerza del vibrador.
+Aen jadeó.
+Aen se olvida de tomar aire y queda a merced del vibrador.
+ “¡Ah, ah, ah, ah!
+El vibrador está enterrado dentro de ella y lo aprieta, haciendo que su cuerpo se retuerza.
+Lo más importante que hay que recordar es que no hay que tener miedo de pedir ayuda al médico.
+ '¡Mira, si no te lo tragas bien, se te saldrá lo que más te gusta!
+Koharu mete el mango de la fregona en su mano en los pantalones cortos de Aen.
+El mango de la fregona se deslizó a través de la cintura de los pantalones cortos y se introdujo en las piernas, donde se apretó, de modo que el vibrador, que estaba a punto de salir, se mantuvo en su sitio gracias a un fino trozo de tela.
+ “¡Ah… ah… ah!
+El mango de la fregona golpea el vibrador, que vibra violentamente, y el tipo de vibración que resuena en el interior de Aen vuelve a cambiar.
+ 'Oh, incluso un cambio tan ligero hace que tu cuerpo tiemble…'
+Koharu agarra el mango de la fregona con alegría. Lo más importante es que usted debe ser capaz de ver la diferencia entre los dos.
+ “¡Akk… hah…… ahhh……!
+Aen se rodeó el cuerpo con las manos, como para abrazarse a sí misma, y tembló fuertemente.
+ 'Phew…… has venido a la ligera… chica guapa…'
+La Koharu lo dijo, pero no quiso soltar las manos para culpar a Aen.
+ '¿No quieres correrte aún más, aún más?'
+Aen lo dijo, y movió el mango de la fregona con más fuerza.
+ '¡Ah, ah, ah…!
+Como si Misao lo sostuviera en vertical directamente en su mano, un vibrador se introduce en el interior de Aen.
+ '¡Ah… ah, ah~~ ……!
+Todo el interior de Aen, que se ha vuelto tan sensible, recibe el placer con honestidad y gotea más néctar de los pétalos.
+El néctar goteaba en el vibrador y en el mango de la fregona.
+ 'Vamos, siente más, haz más ruido… métete más en ello… y te llevaré a lugares aún mejores……
+La voz de Koharu, teñida de brillo, invita a Aen.
+ '¡Ah… ah… ah…!
+ 'Como doncella, no eres digna, pero como puta, eres la mejor… tus encantadores gemidos no se corresponden con tu nobleza… eres la mejor puta que he visto nunca…'
+Diciendo esto, las manos de Koharu siguen moviéndose.
+ 'Oh…… oh… oh ………'
+ 'Vamos,…… buena chica,…… deberías convertirte en una cautiva como es…'
+La mano de Koharu se movió rápidamente y una y otra vez.
+ '¡Ah, ah, ah~!
+Todo su cuerpo se llenó de placer. El cuerpo entero se tragó todo el placer.
+ 'Ahh… ah… ah ……!'
+Luego se desplomó en el suelo.
+ 'Realmente…… eres una buena chica…'
+Koharu puso su mano en la mejilla de Aen, que estaba tumbada en el suelo, y puso sus labios en ella."
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"Yamamoto Akuji (talking)";"あいかわらず、くるのがおせーなー。";"As usual, it's taking a long time to come.";"Como siempre, tardas en venir."
+"Hasekura Aen (talking)";"きてるんだから、文句言わないでよ。";"I'm here, so don't complain.";"Estoy aquí, así que no te quejes."
+"Yamamoto Akuji (talking)";"そーいう訳には……
+おう、誰か。 俺の部屋にくるようキリカに言ってくれ。";"For that reason: ……
+Oh, somebody. Tell Kirika to come to my room.";"Para ello, véase ……
+Oh, alguien. Dile a Kirika que venga a mi habitación."
+"Hasekura Aen (talking)";"キリカ？ 妹が何よ。";"Kirika? What's with the sister?";"¿Kirika? Mi hermana es qué."
+"Yamamoto Akuji (talking)";"まーまー。 それはきてからのお楽しみだ。";"Well, well, well. That's something you'll have to wait and see.";"Bueno, bueno, bueno. Eso es algo que tendrá que esperar cuando llegue aquí."
+"Hasekura Aen (talking)";"で？";"And?";"¿Y?"
+"Yamamoto Akuji (talking)";"おう、きたか。";"Oh, here you are.";"Oh, aquí está."
+"Hasekura Aen (talking)";"…………";"…………";"…………"
+"Hasekura Kirika (talking)";"アエン姉様？";"Aen sister?";"¿Germana?"
+"Yamamoto Akuji (talking)";"よーし、じゃ二人共、服を脱げ。";"All right, then, both of you, take off your clothes.";"Muy bien, entonces, los dos, quítense la ropa."
+"Hasekura Kirika (talking)";"え……";"Eh ……";"Eh ……"
+"Hasekura Aen (talking)";"何よ、それ！ 一体…";"What the hell is that? What the…";"¿Qué demonios es eso? ¿Qué…?"
+"Yamamoto Akuji (talking)";"悪い子には、お仕置きが必要だからな。 俺がお前さん達のボスだって事、 わからせてやるよ。";"Bad boys need to be punished. I'll show them that I'm your boss.";"Los chicos malos necesitan ser castigados. Les mostraré que soy tu jefe."
+"Hasekura Kirika (talking)";"そういう事でしたら。";"If that's the case.";"Si ese es el caso."
+"Hasekura Aen (talking)";"キリカ！？";"Kirika!";"¡Kirika!"
+"Hasekura Kirika (talking)";"アエン姉様も、この方に 抱かれたのでしょう？";"Sister Aen was also embraced by this man, wasn't she?";"La hermana Aen también fue retenida por esta persona, ¿no es así?"
+"Hasekura Aen (talking)";"っ………";"You can find out more at ………";"………"
+"Hasekura Kirika (talking)";"わたくし…この方の技に翻弄 されましたの。 アエン姉様もそうではありませんの？";"I…was at the mercy of this man's skills. I think you are too, sister.";"Estaba… a merced de sus habilidades. A mí también me tocó esta mujer."
+"Hasekura Aen (talking)";"キリカ…あなた……";"Kirika…you ……";"Kirika… tú ……"
+"Hasekura Kirika (talking)";"同じ殿方に抱かれた双子が、 どういう反応をするのか…
+わたくし、自分の目で見てみたいと いう気もいたしましたから…
+さあ……アエン姉様……";"I wanted to see how the twins would react to being held by the same man.
+I also wanted to see for myself how the twins would react to being held by the same gentleman.
+Come on ……AenSister ……";"Quería ver cómo reaccionarían los gemelos al ser sostenidos por el mismo hombre.
+También quería ver por mí mismo…
+Vamos ……AenSister ……"
+"Hasekura Aen (talking)";"ちょっ…キリカ、あんた、 そーいう子だったの？";"Wait… Kirika, you're that kind of girl?";"Espera… Kirika, ¿eres ese tipo de chica?"
+"Hasekura Kirika (talking)";"ええ…この方が、そういうわたくしを 目覚めさせて下さいましたの…
+ …………さあ…";"Well… this is the one who woke me up…
+ …………";"Bueno… este es el que me despertó a eso…
+ ……………"
+"Hasekura Aen (talking)";"キリカっ…！！";"Kirika!";"Kirika…"
+"cg narrator";"「さあて、アエン、こっちきな」
+ 「いっ……いやっ…！！」
+悪司はアエンの手首を掴むと、 自分の胸に引き寄せた。
+ 「キリカ、お前はどーするよ？ 　好き勝手動くか？」
+ 「それを許して頂けるのでしたら」
+ 「かまわねーぜ。 　その代わり、俺を悦ばせてくれよ」
+ 「ええ、それはもう……」
+ 「ちょっ……キリカ！ 　あんた、ほんとっ…んっ……んぅ！」
+悪司はアエンの頭を掴むと、アエンの唇を吸った。
+ 「んっ…んんっ…うっ…！！」
+口を広げさせ、奥に縮こまっている舌を吸い出し、 絡め、愛撫する。
+ 「んんんっ…うっ…んんっ…！！」
+ 「いつも抵抗するから、こーいう風に 　愛してやる事は少なかったな、アエンちゃん」
+ 「まあ…抵抗するなんて… 　悪司さんの技巧は素晴らしいものなのに…」
+キリカはうっとりとした目でそう言って、 悪司の屹立したものに唇を寄せた。
+ 「んっ……」
+悪司が接吻する時、悪司がそのように舌を動かす だろう同じ動きをトレースし、キリカは悪司の 男根を舌で、唇で愛撫する。
+ 「巧いじゃねーか、キリカ」
+ 「ふふふ……」
+そう言われてキリカはさらに舌を深く、 悪司に絡ませていく。
+ 「さーて、こっちの強情なお姫様は、 　どーすっかなー」
+悪司は自分の施した接吻でとろんとしている アエンを見る。
+ 「うっ……」
+悪司のその視線に気づき、アエンはなんとか 理性を取り戻した。
+ 「いっ…いやよ、誰が、あんたの 　言いなりなんかっ…あっ…んっ…！」
+悪司のものを舐めていたはずのキリカの舌が、 アエンのそこを愛撫していた。
+ 「キっ……キリカ！！」
+ 「アエン姉様が、素直でないから 　いけないんですわよ」
+ 「だっ…だからって、私のそんなっ、あ、あ！」
+キリカの舌は巧みにアエンの弱い場所に滑りこんでいき、 アエンから力を奪い取っていく。
+ 「ふーん、両方イケるくちだったか、キリカ」
+ 「ふふ…そのようですわ……さあ…アエン姉様…」
+ 「いやぁっ…！！ 　あ、あっ………んんっ！！」
+上の口を悪司に、下の口をキリカに。 それぞれの舌が、それぞれの粘膜を刺激する。
+ 「は…うっ、んっ…んんっ！！」
+アエンの腰がびくりと跳ねる。
+ 「……アエン姉様の準備、そろそろ出来ましてよ、 　悪司さん…」
+ 「俺の方、お前さんに準備万端にされてるし… 　それじゃあ、いくとすっか」
+失神寸前のアエンの腰を掴むと、悪司は自分のものの 先端を宛った。
+ 「あっ……」
+アエンはピクリと反応し、指先を唇に宛う。
+ 「あっ……あっ……！！」
+ゆっくりと下から上へと入りこんでくる 悪司のものに、アエンは高い声をあげ、 唇を指で愛撫する。
+ 「よぉし……いい声じゃねぇか…」
+ 「あ、ああっ…あぅっ…！」
+アエンは悪司にいいように揺さぶられ、 とうとう、我を失った。
+ 「悪司さん…わたくしは、 　あぶれてしまうのですかしら？」
+キリカはそう言って、 悪司の肩に豊満な乳房を置いた。
+ 「だったら、自分で考えて動いてみな」
+ 「……そうですわね……」
+キリカはそう言うと、悪司とアエンが 結合している部分に鼻先を寄せた。
+ 「あ、ああっ…？ 　っ………ぁっ……っ……ぅぁっ…！！」
+きゅっと尖らせたキリカの舌が、 悪司とアエンの結合している部分に伸びる。
+ 「うあっ…ああっ…あっ…！」
+狂ったように、高い声をあげるアエン。
+ 「気持ちよい？ 　アエン姉様…悪司さん…」
+ 「ああ、いい感じだ」
+ 「それはよろしゅうございますわ…」
+キリカの指が伸びる。 アエンのクリトリスに。
+ 「は……ぁ！！」
+キリカの細く形のよい指先が、 アエンの尖ったそこを、ゆっくり愛撫し始めた。
+ 「あっ…かっ…っはっ……ああっ…！！」
+アエンの声は、声にならず、吐く息に混じる。
+ 「はっ……うぁっ…ぁっ…！！」
+不規則に動くキリカの指と、激しく突いてくる 悪司のそれに、アエンの頭の中が、どんどん、 真っ白になっていく。
+ 「っ………っ………~~~~……！！！」
+アエンは躰を何度も何度も大きく震わせると、 そのまま悪司の胸の上に倒れた。
+ 「おやおや……気絶しちまったみたいだぜ。 　お前のおねーちゃん」
+ 「………これからだと思いましたのに…」
+ 「お前さんは、物足りねーのか」
+ 「ええ…それ程、悪司さんにも 　愛されていませんし…」
+ 「そーかい、わかった。 　きな」
+ 「………うふふ……」";"Come on, Aen, come here.
+ “I…… didn't…!!!”
+Akuji grabbed Aen's wrist and pulled her to his chest.
+The first thing that comes to my mind is that I'm not sure what to do with the rest of my life. 　Will you move as you please?”
+If you'll allow me to do so.
+I don't care. 　But in return, you're going to have to pleasure me.
+Yeah, that's already on …….
+Hey, ……Kirika! 　You're really….uh………. nn!
+Akuji grabbed Aen's head and sucked Aen's lips.
+ 'Nnnn…nnnn…ugh…!
+I let her widen her mouth, suck out her shrinking tongue, twirl it, and caress it.
+I suck, entwine, and caress her tongue, which is shrinking back.
+ “You always resist, so I haven't had the chance to make love to you like this, Aen-chan.
+ “Well… to resist… Akuji's skill is wonderful…”
+Kirika said with enraptured eyes and put her lips on Akuji's towering one.
+ 'Mmmm… ……'
+Kirika caresses Akuji's manhood with her tongue and lips, tracing the same movements that Akuji would make with her tongue when she kisses him.
+It's very good, isn't it, Kirika?”
+ “Fufufu…….”
+Kirika's tongue goes deeper and deeper into Akuji's mouth.
+Now, what about this stubborn princess over here?
+Akuji looks at Aen, who is slumbering from the kiss she gave him.
+Ugh……”
+The first time I saw him, I thought he was a good guy, but he was not.
+I…no, who is at your beck and call…ah…nnnn…!
+Kirika's tongue, which should have been licking Akuji's, was caressing Aen's.
+ “Kkk ……Kirika!!!!”
+It's because Aen sister isn't being honest with me that it's wrong.
+I'm not going to let you do that to me!”
+Kirika's tongue skillfully slid into Aen's weak spots, taking the power away from Aen.
+Hmmm, both of them can cum, can't they, Kirika?”
+ “Hmm… it seems so,……… Aen sister…”
+Oh, no…! 　Ah, ah……… nn!
+The upper mouth to Akuji and the lower mouth to Kirika. Each tongue stimulates each mucous membrane.
+ 'Ha…ugh, mmm…nnnn!!!'
+Aen's hips jerk and bounce.
+I'm ready for you, Aen sister, Akuji-san…”
+I've been made ready by you….
+The most important thing to do is to make sure that you have a good understanding of what you are doing and how to do it.
+Oh, …….”
+Akuji reacted with a jerk and placed the tip of his finger on her lips.
+Oh……!
+Aen screamed out in a high voice as Akuji slowly entered her from the bottom to the top, and caressed her lips with her fingers.
+ “Yo, Aen, that's a nice voice…”
+Aen's voice is very high and he caresses his lips with his fingers.
+The Aen was shaken by Akuji in a good way, and at last, he lost himself.
+Akuji-san…do you think I'm going to fall over?
+Kirika said and placed her ample breasts on Akuji's shoulders.
+Then you'll have to think for yourself and move on.
+ 'Kirika, you're right,Akuji.
+Kirika said and put the tip of her nose on the part where Akuji and Aen were joined.
+I'm not sure if it's a good idea or not,” she said. 　Oh, ah…!
+Kirika's tongue, which had been pointed out tightly, extended to the part where Akuji and Aen were joined.
+Ahh…ah…ah…!”
+Aen screams like a madman.
+Does it feel good? 　Sister Aen…Akuji-san…”
+ 'Yes, it feels good.'
+ 'It is good…'
+Kirika's fingers extend. Aen's clit.
+ “Ha……aah!
+Kirika's slender and well-shaped fingertips slowly caressed Aen's sharp pointy spot and made a Hajime.
+Aen's voice was so loud that it was almost audible.
+Aen's voice was inaudible and mingled with her exhale.
+ “Hah…… ahhh…!!!”
+Kirika's fingers move erratically, and Akuji thrusts hard, Aen's head becomes more and more like a pure Haku.
+ “………………~~~~……!!!!!!!”
+Aen shook his body again and again, and fell on Akuji's chest.
+ “Oh,…… I think I've fainted. 　Your girl.
+ “I thought……… we were just getting started…”
+You're not getting enough, are you?
+Well, Akuji doesn't love me that much either.
+I see. 　I'll be back.
+ “………ufufu……”";"Vamos, Aen, ven aquí.
+ 'I…… no…!!'
+Akuji agarró la muñeca de Aen y la atrajo hacia su pecho.
+ 'Kirika, ¿y tú? 　Muévete como quieras”.
+ 'Si me permite hacerlo.
+No me importa. 　A cambio, me vas a dar placer.
+Sí, eso ya es …….
+ ¡Oye, ……Kirika! 　Eres realmente… mmm……… mmm!”
+Akuji agarró la cabeza de Aen y chupó los labios de Aen.
+ '¡Nnnn…nnnn…ugh…!
+Dejo que ensanche la boca, que succione su lengua encogida hasta el fondo, que la haga girar, que la acaricie.
+ '¡Nnnn…ugh…nnnn…!
+ 'Siempre te resistes, así que no he tenido la oportunidad de hacerte el amor así muy a menudo, Aen-chan.
+ 'Bueno… para resistir… la habilidad de Akuji es increíble…'
+Kirika dijo esto con los ojos embelesados y puso sus labios en la cosa de Akuji.
+ 'Mmmm ……'
+Trazando los mismos movimientos que Akuji hacía con su lengua cuando la besaba, Kirika acaricia la hombría de Akuji con su lengua y sus labios.
+ '¿No es inteligente, Kirika?
+ 'Fufufu ……'
+Dicho esto, Kirika entrelaza aún más su lengua con la de Akuji.
+ 'Bueno, me pregunto qué hará esta princesa testaruda de aquí…'
+Akuji mira a Aen, que se adormece bajo su propio beso.
+ 'Ugh ……'
+Aen se dio cuenta de la mirada de Akuji y consiguió recuperar la razón.
+Lo primero que se me ocurre es que tengo que tener un poco más de cuidado con lo que digo.
+La lengua de Kirika, que debería estar lamiendo la de Akuji, estaba acariciando la de Aen.
+ “¡Ki……Kirika!
+ 'Aen hermana, no es bueno porque no estás siendo honesta.
+ 'Pero… eso no significa que no esté, ¡ah, ah!'
+La lengua de la Kirika se desliza hábilmente en los puntos débiles de Aen, quitándole la fuerza.
+ 'Hmmm… los dos pueden correrse, Kirika'.
+ 'Hmm… ese parece ser el caso ……, entonces… Aen hermana…'
+ ¡No! 　¡Ah, ah……… nn!
+La boca superior a Akuji y la inferior a Kirika. Cada lengua estimula su propia mucosa.
+ ¡'Ha…ugh, nn…nn!
+Las caderas de Aen saltan.
+ '……Aen la hermana ya está lista, Akuji-san…'
+ 'Me están preparando por ti… Bueno entonces, vamos…'
+ 
+ 'Oh, ……'
+Aen reaccionó con un respingo y se llevó la punta del dedo a los labios.
+ 'Oh…… oh ……!!'
+Aen grita en voz alta mientras Akuji la penetra lentamente de abajo a arriba, y le acaricia los labios con los dedos.
+ 'Yo, Akuji, esa es una bonita voz…'
+ “¡Ah, ah… ah…!
+La primera vez que la vi, pensé que era un poco perra, pero era una persona muy agradable.
+ 'Akuji-san… ¿crees que me voy a caer?
+Kirika dijo esto y puso sus amplios pechos sobre los hombros de Akuji.
+ 'Entonces piensa por ti mismo y haz tu jugada.
+ 'Kirika, tienes razón, Akuji.
+Kirika lo dijo y puso la punta de su nariz en la parte donde Akuji y Aen estaban unidos.
+ ¿Ah, ah…? 　¡Oh, oh…!
+La lengua de Kirika, que había sido señalada con fuerza, se extendió hasta la parte en la que Akuji y Aen se unían.
+ 'Ahh… ah… ah…
+Aen grita como un loco.
+ ¿Se siente bien? 　Hermana Aen… Akuji-san…'
+ “Sí, se siente bien”.
+ 'Se siente bien…'
+Los dedos de Kirika se extienden. El clítoris de Aen.
+ '¡Ha……aah!
+Las finas y torneadas yemas de los dedos de Kirika acariciaron lentamente el punto de Aen y Hajime.
+ '¡Ah…ka…haha…… ah…!
+La voz de Aen era inaudible y se mezclaba con su exhalación.
+ 'Hah…… ah…!!'
+Los dedos de Kirika se mueven erráticamente y Akuji empuja con fuerza, la cabeza de Aen se vuelve cada vez más puro Haku.
+ '………………~~~~……!!!!'
+El cuerpo de Aen tembló fuertemente una y otra vez, y cayó sobre el pecho de Akuji tal como estaba.
+ 'Aw,…… parece que se ha desmayado. 　Tu chica”.
+ '……… Pensé que estábamos empezando…'
+No tienes suficiente, ¿verdad?
+Sí… ni siquiera Akuji me quiere tanto…
+Ya veo. 　Volveré.
+ “………ufufu……”"
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"Hasekura Aen (talking)";"……………
+ ……っ……
+ …っ……うっ……";"……………
+ ……ts……
+ …ts……uuh……";"……………
+ ……ts……
+ …ts……uuh……"
+"Yamamoto Akuji (talking)";"気がついたかい？";"Did you notice that?";"¿Te has dado cuenta?"
+"Hasekura Aen (talking)";"っ……！！";"I'm at ……!!!!!!!";"¡¡¡¡……!!!!"
+"Yamamoto Akuji (talking)";"キリカはもう、自分の部屋に戻ったぜ。";"Kirika has already gone back to her room.";"Kirika ya está de vuelta en su habitación."
+"Hasekura Aen (talking)";"……………";"……………";"……………"
+"Yamamoto Akuji (talking)";"しかし、見た目と正反対な双子だな。 清楚に見えるキリカの方が、旺盛だな。";"But they're twins who are the exact opposite of what they look like. Kirika, who looks so neat and clean, is more vigorous.";"Pero son gemelos que son lo contrario de lo que parecen. Kirika, que tiene un aspecto tan ordenado y limpio, es más vigorosa."
+"Hasekura Aen (talking)";"………あんたのせいじゃない……
+あんたが… 私達を……";"It's not your fault……… It's not your fault……
+It's… you… that made us ……";"No es tu culpa……… No es tu culpa……
+Es… usted… que nos hizo ……"
+"Yamamoto Akuji (talking)";"それも、あんた達が望んだ事だ。";"That's what you wanted, too.";"Eso es lo que tú también querías."
+"Hasekura Aen (talking)";"……………";"……………";"……………"
+"Hasekura Aen (talking)";"あ……";"A……";"A……"
+"Hasekura Kirika (talking)";"どうなさいました？ アエン姉様。";"How may I help you? Aen sister.";"¿En qué puedo ayudarle? Hermana."
+"Hasekura Aen (talking)";"今、ヒバリが飛んでった。 そーいうのが見えるのってさ、 空に少し、明るさ戻ってきたのかなって。";"A lark just flew over. When you see something like that, you wonder if the sky is getting a little brighter.";"Acaba de sobrevolar una alondra. Cuando ves algo así, te preguntas si el cielo se está iluminando un poco más."
+"Hasekura Kirika (talking)";"そうですわね。";"Yes, it is.";"Sí."
+"Hasekura Aen (talking)";"………キリカ…";"………Kirika…";"………Kirika…"
+"Hasekura Kirika (talking)";"はい？";"Yes?";"¿Sí?"
+"Hasekura Aen (talking)";"私達がこーやって二人で並んで 歩いてるとこ、父様が見たら なんて言うかしらね。";"I wonder what my father would say if he saw us walking side by side like this.";"Me pregunto qué diría papá si nos viera caminando así, uno al lado del otro."
+"Hasekura Kirika (talking)";"お喜びになられるかと。";"I thought you would be pleased.";"Pensé que estarías contento."
+"Hasekura Aen (talking)";"……そーかなー……";"……I guess so……";"…… No sé……"
+"Hasekura Kirika (talking)";"ええ、きっと……";"Yeah, I'm sure ……";"Sí, estoy seguro de que ……"
+"Hasekura Aen (talking)";"さーてと… 退屈凌ぎになって貰うわよ。";"Well… you're going to be bored out of your mind.";"Bueno… te vas a aburrir como una ostra."
+"Hasekura Kirika (talking)";"あれれ~？ ど~して、アエン様が~？";"Oh, no~? Why is Mr. Aen here?";"¿Ah, no? ¿Por qué está Aen aquí?"
+"Hasekura Kirika (talking)";"アエン姉様…";"Aen sister…";"Aen Hermana…"
+"Hasekura Kirika (talking)";"そうですか、そのような事に なっていたのですが。 遠慮しません、アエン様。";"I see, that's what was supposed to happen. I will not hesitate, Mr. Aen.";"Ya veo, eso es lo que tenía que pasar. No dudaré, señor Aen."
+"Hasekura Kirika (talking)";"うそ…うそだ… こんな…";"No… no… this…";"No… no… esto…"

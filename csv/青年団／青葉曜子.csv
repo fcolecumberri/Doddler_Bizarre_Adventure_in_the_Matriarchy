@@ -1,0 +1,695 @@
+"character";"jap text";"Eng";"Esp"
+"__system__??";"{麦 = 1:";"";""
+"__system__??";"{☆青葉イベント = 2:";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆青葉イベント > 2:";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆青葉 = 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆青葉 = 1:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 2:";"";""
+"__system__??";"{☆青葉イベント > 2:";"";""
+"__system__??";"}";"";""
+"__system__??";"{B忠誠心 > 70:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 3:";"";""
+"__system__??";"{☆青葉イベント > 2:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 4:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 5:";"";""
+"__system__??";"}";"";""
+"Yamamoto Akuji (talking)";"おお、青葉――
+ ……誰だ、それ。";"Oh, Aoba--…… who's that?";"Oh, Aoba--…… ¿Quién es ese, ese."
+"narrator";"悪司に指を指された男は、ぺこりと会釈した。";"The man pointed his finger at Akuji and bailed out with a bow.";"El hombre que fue señalado por Akuji se retiró con un arco."
+"Aoba Youko (talking)";"私の夫の青葉一郎です。 生きて…再会出来たんです。
+紹介しておいた方がいいと思って 同行させました。";"This is my husband, Aoba Ichiro. He's alive… and we were able to meet again.
+I thought it would be a good idea to introduce him, so I let him accompany me.";"Mi marido, Aoba Ichiro. Está vivo… y pudimos reunirnos de nuevo.
+Pensé que sería una buena idea presentarlo, así que dejé que me acompañara."
+"Elite Yakuza (talking)";"青葉一郎です。 はじめまして。";"My name is Ichiro Aoba. Nice to meet you.";"Aoba Ichiro. Encantado de conocerte."
+"Yamamoto Akuji (talking)";"ああ。";"Oh.";"Oh."
+"Aoba Youko (talking)";"あの、一郎さん……";"Um, Ichiro: ……";"Um, Ichiro: ……"
+"Elite Yakuza (talking)";"ああ、仕事の話をするのか。 わかった、挨拶も一応済ませたし、 先に帰っておくよ。
+それでは悪司さん、これからよろしく お願いします。";"Oh, you want to talk business? Okay, I've already said hello, so I'll go home first.
+Well then, Akuji, please take care of me from now on.";"¿Quieres hablar de trabajo? Bien, ya he saludado, así que me iré a casa primero.
+Entonces, Akuji, por favor, cuida de mí a partir de ahora."
+"Yamamoto Akuji (talking)";"ああ、こちらこそ。";"Oh, it's my pleasure.";"Es un placer."
+"Elite Yakuza (talking)";"失礼します。";"Excuse me.";"Disculpen."
+"narrator";"会釈すると、一郎は出て行った。 完全に一郎の姿が消えてから、 青葉が切り出した。";"After bailing out, Ichiro left. After Ichiro had completely disappeared, Aoba cut him off.";"Después de abandonar, Ichiro se fue. Después de que Ichiro desapareciera por completo, Aoba le cortó el paso."
+"Aoba Youko (talking)";"悪司さん…その… あなたと私に……肉体関係があった事… あの人には…";"Mr. Akuji… that… you and I had a…… physical relationship… that man…";"Señor Akuji… que… que usted y yo tuvimos…… relaciones físicas… que él…"
+"Yamamoto Akuji (talking)";"わかってる。 秘密だろ。";"I know. It's a secret.";"Lo sé. Es un secreto, ¿no?"
+"Aoba Youko (talking)";"はい。";"Yes.";"Sí."
+"Yamamoto Akuji (talking)";"俺より、旦那の味の方があったって訳だ。";"That's how I knew my husband's taste was better than mine.";"Eso significa que tenía más gusto por mi marido que yo."
+"Aoba Youko (talking)";"そ、そんな言い方… やめて下さい……";"Oh, don't talk like that… Please don't do that……";"Así no se habla… Por favor, no hagas eso……"
+"Yamamoto Akuji (talking)";"その件は了解だ。 でだな、夫婦で俺の元で働いてくれよ。";"I'll Ryou solve that one. So, you and your wife should work for me.";"Yo Ryou resolveré eso. Entonces, tú y tu esposa deberían trabajar para mí."
+"Aoba Youko (talking)";"え？";"Huh?";"¿Eh?"
+"Yamamoto Akuji (talking)";"あんたの旦那も、戦えるんだろ？ だったら、俺の部下にくわえる。 文句はないな？";"Your husband can fight, right? Then I'll put him under my command. You don't have a problem with that, do you?";"Tu marido también puede luchar, ¿verdad? Entonces lo pondré bajo mi mando. No tienes ningún problema con eso, ¿verdad?"
+"Aoba Youko (talking)";"そ、それは… お給金も頂けますし……";"Well, that's… And you'll get paid……";"Bueno, eso es… Y te pagan por ello……"
+"Yamamoto Akuji (talking)";"だったら商談成立だ。 夫婦で俺の為に働いてもらうぜ。";"Then we have a deal. You and your wife will work for me.";"Entonces tenemos un trato. Usted y su esposa trabajarán para mí."
+"__system__??";"{★結婚 = 1:";"";""
+"Aoba Youko (talking)";"はい…ありがとうございます… 一郎さんも、喜ぶと思います。";"Yes… thank you… Ichiro will be pleased.";"Sí… gracias… Ichiro-san estará encantado."
+"__system__??";"}";"";""
+"__system__??";"{★結婚 \ 1:";"";""
+"Aoba Youko (talking)";"あ、あの…… その…一郎さんが帰ってきたので… 私……";"Oh, um,…… well… Ichiro-san came back… I ……";"Oh, um,…… bueno… Ichiro ha vuelto, así que… ……"
+"Yamamoto Akuji (talking)";"俺にはもう抱かれないってか？";"You don't want me to hold you anymore?";"¿No quieres que te abrace más?"
+"Aoba Youko (talking)";"はい。";"Yes.";"Sí."
+"Yamamoto Akuji (talking)";"そーいう返事はきっぱりしてくれるのな。 なーんか傷ついちまうな。";"You give me a firm reply like that, don't you? I'm kind of hurt.";"Me das una respuesta firme como esa, ¿no? Estoy un poco dolido."
+"Aoba Youko (talking)";"だって…… 私は一郎さんの妻ですから…";"Because…… I am Ichiro's wife…";"Porque…… soy la esposa de Ichiro…"
+"Yamamoto Akuji (talking)";"ＯＫＯＫ。 残念だけど、もうあんたを抱く事はなし。 約束するよ。";"OK, OK. I'm sorry, but I won't hold you anymore. I promise.";"Vale, vale, lo siento, pero no te voy a retener más. Lo prometo."
+"Aoba Youko (talking)";"ありがとう、悪司さん。";"Thanks, Akuji.";"Gracias, Akuji."
+"Yamamoto Akuji (talking)";"そっちからお願いしてくれたら、 いつでもしてやるぜ。";"If you ask me to do it, I'll do it anytime.";"Si me pides que lo haga por ti, lo haré cuando quieras."
+"Aoba Youko (talking)";"そ、それはもうないです。";"Well, that is no longer the case.";"Eso, ya no es el caso."
+"Yamamoto Akuji (talking)";"つれねー人妻だ。";"She's a very pretty married woman.";"Es una mujer casada y desagradable."
+"Aoba Youko (talking)";"くす……";"Kusu……";"Kusu……"
+"__system__??";"}";"";""
+"narrator";"悪司が青葉を待っていると。";"Akuji is waiting for Aoba.";"Ese Akuji está esperando a Aoba."
+" (talking)";"…から……";"…from ……";"… de ……"
+"Aoba Youko (talking)";"ほら、おべんとついてる。 あんなに慌てて食べるから…";"Look, it's got a bento on it. You eat in such a hurry…";"Mira, llevas un pañal. Comes con tanta prisa…"
+"Elite Yakuza (talking)";"そりゃ、慌てるだろう。 大将に呼ばれたんだから。";"Of course, you would be upset. The general called me.";"Así es, estarías molesto. El general me llamó."
+"Aoba Youko (talking)";"だけど……";"But ……";"Pero ……"
+"Yamamoto Akuji (talking)";"おいおい、仕事で呼んだんだぜ。 公私の区別つけてくんねーと困るなー。";"Hey, hey, I called you here on business. You'd better make a distinction between public and private matters.";"Oye, oye, te llamé aquí por negocios. Hay que distinguir entre la vida pública y la privada."
+"Elite Yakuza (talking)";"申し訳ありません。 それでは、自分はこれで。";"My apologies. Well, I'll leave it at that.";"Disculpas. Lo dejaré así, entonces."
+"Aoba Youko (talking)";"あ、ごめんね、一郎さん。";"Oh, sorry, Ichiro.";"Oh, lo siento, Ichiro."
+"Yamamoto Akuji (talking)";"おあついこって。";"I'm so tired of being tired of being tired.";"Oatsuko."
+"Aoba Youko (talking)";"か、からかわないで下さい！";"Please don't make fun of me!";"¡No te burles de mí!"
+"Yamamoto Akuji (talking)";"そろそろ、一本主義に飽きた頃じゃ ねーか？";"Isn't it about time you got tired of being a one-trick pony?";"¿No es hora de que te canses de ser un poni de un solo truco?"
+"Aoba Youko (talking)";"一本…？";"One…?";"¿Una…?"
+"Yamamoto Akuji (talking)";"一郎のナニだけじゃ、飽きてきたんじゃ ねーかって聞いたんだよ。";"I asked her if she was getting bored with Ichiro's penis alone.";"Le pregunté si se estaba cansando sólo de la polla de Ichiro."
+"Aoba Youko (talking)";"そ、そんな、不謹慎な……";"Oh, no, that's so inappropriate ……";"Oh, no, eso es tan inapropiado ……"
+"Yamamoto Akuji (talking)";"なんなら俺が刺激になってやろうか？";"If you want, I can be an inspiration.";"Si quieres, puedo ser una inspiración."
+"Aoba Youko (talking)";"結構ですっ！";"No, thank you!";"No, gracias."
+"Yamamoto Akuji (talking)";"多分、俺のがあんたを 気持ちよくさせてやれるぜ。";"Maybe I can make you feel better.";"Tal vez pueda hacerte sentir mejor."
+"Aoba Youko (talking)";"そういう問題じゃないです！";"That's not the point!";"No se trata de eso."
+"narrator";"悪司はいくらか、青葉に包んでやった。";"Akuji wrapped some money in Aoba.";"Akuji envuelto en Aoba."
+" (talking)";"ありがとうございます。 いつか一郎さんと住むマンションの 購入資金にします。";"Thank you very much. I will use the money to purchase an apartment to live with Ichiro someday.";"Muchas gracias. Usaré el dinero para comprar un piso para que Ichiro y yo vivamos algún día."
+"narrator";"青葉は少しはにかんでそれを受け取った。";"Aoba took it with a bit of a grin.";"Aoba lo recibió con una pequeña sonrisa."
+" (talking)";"まあ、好きなよーに。";"Well, whatever you like.";"Bueno, lo que quieras."
+"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
+"Aoba Youko (talking)";"意見していいですか？";"Can I give my opinion?";"¿Puedo opinar?"
+"Yamamoto Akuji (talking)";"なんだい？";"What is it?";"¿Qué es?"
+"Aoba Youko (talking)";"あなたのやり方は酷すぎます。";"Your way is too much.";"Tu manera es demasiado dura."
+"Yamamoto Akuji (talking)";"ほほぅ。";"Hoho.";"Hoho."
+"Aoba Youko (talking)";"地域管理組合というものは、もっと ボランティアとして地域の人の安全を守る べきです。";"Local management associations should be more like volunteers to protect the safety of local people.";"Las asociaciones de gestión comunitaria deberían ser más bien voluntarios para mantener la seguridad de la población local."
+"Yamamoto Akuji (talking)";"おいおい、おこちゃまな事 言ってんじゃねぇよ。
+ボランティアだろうが、ヤクザだろうが、 まず金がなくっちゃ行動出来ないだろ？";"Hey, hey, hey. Don't talk nonsense.
+Whether you're a volunteer or a yakuza, you can't do anything without money, right?";"Oye, oye, oye, no digas tonterías.
+Tanto si eres un voluntario como un yakuza, no puedes hacer nada sin dinero, ¿verdad?"
+"Aoba Youko (talking)";"でも……";"But ……";"Pero ……"
+"Yamamoto Akuji (talking)";"実際、恵まれない奴らに手を差し伸べても 自分が文無しじゃあ、お互いのたれ死に だろうが。
+人の事の前に、自分の事だ。 基本だろ？";"In fact, if you reach out to the disadvantaged and you're broke, you'll both end up dying.
+You have to take care of yourself before you take care of others. Isn't that basic?";"De hecho, si te acercas a los desfavorecidos y estás en la ruina, los dos vais a morir.
+Hay que cuidar de uno mismo antes de cuidar de los demás. ¿No es eso básico?"
+"Aoba Youko (talking)";"ですが……";"But ……";"Pero ……"
+"Yamamoto Akuji (talking)";"はいはい、これはいつまでたっても 平行線だ。 俺は、別件でお前を呼んだんだからよ。";"Yes, yes, this will always be a parallel. I called you on a different matter, you know.";"Sí, sí, esto siempre será un paralelo. Te llamé por otro asunto, sabes."
+"Aoba Youko (talking)";"悪司さん、お話が…";"Akuji, we need to talk…";"Akuji, me gustaría hablar contigo…"
+"Yamamoto Akuji (talking)";"んー？";"Hmm?";"¿Hmm?"
+"Aoba Youko (talking)";"……私以外の女子にも… 手を出しているんですね…";"…… You're messing with girls… other than me…";"…… Te estás metiendo con las chicas… aparte de mí…"
+"Yamamoto Akuji (talking)";"なんだ、妬いてんのか？";"What, are you jealous?";"¿Qué, estás celoso?"
+"Aoba Youko (talking)";"違います！！
+わ、私はここのリーダー……でした… ですから、私が何をされても しかたないとは思っています…
+だけど… 他の女子には、それは関係ありません。
+だから、私以外の女子に、 みだりに手を出さないで下さい…
+だって……愛している訳でなく、 抱いているのでしょう？ アンモラルです……";"No, sir!
+Wow, I was the leader here at……… so I know I have no choice in what they do to me…
+But… it doesn't matter to the other girls.
+So, please don't touch other girls without my permission…
+Because…… you don't love them, you hold them. It's amoral……";"¡No, señor!
+Vaya, yo era el líder aquí……… así que sé que no tuve elección en lo que me hicieron…
+Pero… eso no les importa a las otras chicas.
+Así que por favor no toques a otras chicas sin mi permiso…
+Porque…… no los amas, los sostienes. Es amoral……"
+"Yamamoto Akuji (talking)";"仕事だからなー。";"It's my job…";"Es mi trabajo."
+"Aoba Youko (talking)";"し、仕事っ…！？";"Work…!";"¡Shhh, trabajo…!"
+"Yamamoto Akuji (talking)";"そーだ。 俺は愛を持って抱く女は 今生でただ一人と決めてるんでな。
+それ以外は、俺の為に働いてくれる 女への報酬だったり、色々だ。";"That's right. I've decided that there is only one woman in this life that I will love and hold in my arms.
+Other than that, it's a reward for the woman who works for me, and many other things.";"Así es. He decidido que sólo hay una mujer en esta vida con la que voy a hacer el amor.
+Aparte de eso, es una recompensa para las mujeres que trabajan para mí, y todo tipo de cosas."
+"Aoba Youko (talking)";"なっ…ななっ…";"What… what… what… what…";"No… no… no…"
+"Yamamoto Akuji (talking)";"ななな？";"What's up?";"¿Pana?"
+"Aoba Youko (talking)";"ま、間違っています！ そんな考え……おかしいです！";"Well, you are wrong! That idea…… is wrong!";"Pues se equivoca. Esa idea…… es errónea."
+"Yamamoto Akuji (talking)";"どこが？";"Where?";"Dónde."
+"Aoba Youko (talking)";"ど、どこがって……";"Which is ……";"Que es ……"
+"Yamamoto Akuji (talking)";"俺が間違ってんだったら、女達は自然と 離れていくだろうさ。
+だけど現実はどうだ？ 俺を間違ってると言うあんたも、 俺から離れないじゃねーか。";"If I were wrong, the women would naturally leave.
+But what's the reality? You who say I'm wrong, you won't leave me either.";"Si me equivocara, las mujeres naturalmente me dejarían.
+ ¿Pero cuál es la realidad? Tú que dices que me equivoco, tampoco me dejas."
+"Aoba Youko (talking)";"そ、それは……";"Well, that's ……";"Bueno, eso es ……"
+"Yamamoto Akuji (talking)";"そーいう訳だ。";"That's why.";"Por eso."
+"Aoba Youko (talking)";"くっ……";"Kuku……";"Kuku……"
+"Aoba Youko (talking)";"呼びました？";"Did you call for me?";"¿Los llamaste?"
+"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
+"Yamamoto Akuji (talking)";"おい、青葉、いつもそんな目で、 男を見るのかい？";"Hey, Aoba, do you always look at guys like that?";"Oye, Aoba, ¿siempre miras así a los hombres?"
+"Aoba Youko (talking)";"え……？";"What, ……?";"¿Qué? ……?"
+"Yamamoto Akuji (talking)";"潤んでるぜ。 熱でもあるのか？";"You're all moist. Do you have a fever?";"Estás húmedo, hombre. ¿Tienes fiebre?"
+"Aoba Youko (talking)";"い、いえ…私は……";"No, no…I'm ……";"No, no… Soy ……"
+"Yamamoto Akuji (talking)";"……………";"……………";"……………"
+"Aoba Youko (talking)";"あっ…！";"Ah…!";"¡Ah…!"
+"narrator";"悪司が軽く力を入れて青葉を引き寄せると、 なんなく青葉は悪司の胸の中におさまった。";"When Akuji pulled Aoba with light force, Aoba settled into Akuji's chest without any difficulty.";"Cuando Akuji tiró de Aoba para acercarla con una ligera fuerza, Aoba se acomodó sin esfuerzo en el pecho de Akuji."
+"Yamamoto Akuji (talking)";"いけねーなー。 人妻がそんな目で男を見ちゃ。";"I shouldn't do that. A married woman shouldn't look at a man like that.";"No debería hacer eso. Una mujer casada no debería mirar a un hombre así."
+"Aoba Youko (talking)";"わ、私は……";"Wow, I'm ……";"Wow, soy ……"
+"Yamamoto Akuji (talking)";"それとも… 俺だから、そんな目で見てるのか？";"Or… are you looking at me like that because it's me?";"O… ¿me estás mirando así porque soy yo?"
+"Aoba Youko (talking)";"えっ……！";"Eh ……!";"¡Eh, ……!"
+"Yamamoto Akuji (talking)";"可愛いな、青葉…";"That's cute, Aoba…";"Qué bonito, Aoba…"
+"Aoba Youko (talking)";"い、いや… そんな事、耳元で言わないで……";"No, no… don't say that in my ear……";"No, no… no me digas eso al oído……"
+"Yamamoto Akuji (talking)";"気にしなくていいんだぜ… お前は俺にメロメロってるクセに、 まだまだ、お固い方だ。";"Don't worry about it… you're still a hard-ass even though you're all over me.";"No te preocupes por eso… sigues siendo un duro cuando se trata de mí."
+"Aoba Youko (talking)";"いっ…いやっ……";"I…no……";"Yo… no……"
+"Yamamoto Akuji (talking)";"こいよ… 天国に連れてってやるぜ…";"Come on… I'll take you to heaven…";"Vamos… te llevaré al cielo…"
+"Aoba Youko (talking)";"あ……っ…ああっ……";"Oh……… oh ……";"Ah……… ah……"
+"narrator";"青葉は寄せられる悪司の唇を 止められなかった。";"Aoba could not stop Akuji's lips from coming close.";"Aoba no pudo evitar que los labios de Akuji se acercaran."
+"cg narrator";"「はっ……あっ……ああっ……~~！！」
+青葉自身、これで何度達したか、覚えていない。 突き出した舌で自身の指を愛撫し、躰を何度も何度も 震わせる。
+ 「あくっ…はっ…ああ！」
+達して、達して、達して―― 痛くなる程敏感になっている青葉の花芯は、 まだ悪司の舌によってなぞられている。
+ 「いっ…いやっ…もういや…… 　やめて……悪司さっ………あ……っ…！！」
+悪司は尖ったそこに軽く歯をたてた。
+ 「何が嫌なんだい？ 　ここばかりさわられて、飽きてきたか？ 　それとも……」
+悪司は怒張したそれを、青葉の掌におさめる。 それは熱く、青葉の掌で脈打っていた。 その感覚に青葉は軽い目眩を覚える。
+ 「これが欲しくなったか？」
+ 「うっ…あうっ……」
+左右にかすかに振られた青葉の首。
+ 「わかんねーぜ。 　ちゃんと言葉にしてみな、青葉。 　どうして欲しい？」
+ 「うっ……ううっ…」
+青葉は、さっきよりも大きく、首を左右に振った。 その度、シャラシャラと金鎖が鳴る。
+その金鎖のひっかかっているロケットの中には 夫の写真がおさまっていた。
+ 「言葉も喋れなくなる程、ラリってきたのか。 　人妻は感じやすくていけねーな」
+ 「っ…！」
+青葉の中にある夫への罪悪感を、 悪司が言葉で煽った。
+今の青葉にとって、それさえも劣情を煽る 材料になっているが……
+ 「うっ…ああっ…」
+青葉が自分の中から垂れた感情の蜜に、 足をピクリと震わせる。
+ 「入れてやるよ…… 　待ってたんだろ？」
+ 「いっ…いやっ…うあっ…」
+ 「あっ…………っ…~~っ……！！」
+ゆっくり、まるで肉塊を切る包丁のように、 悪司のそれが青葉の中に入りこんできた。
+ 「あっ……あああっ…！！」
+その衝撃に、青葉の顎が宙で泳ぐ。
+ 「びっしょりなのに、痛いぐらい、 　お前の肉が俺に絡んでくるぜ、青葉」
+悪司は青葉の足を掴むと、さらに奥に入り込んだ。
+ 「あっ…！！」
+ゆっくりと動き出した腰に合わせ、 青葉の腰が自分の意志とは関係なく動く。
+ （私……私…どんどん、この人に 　侵食されていってるの…？）
+一瞬冷めた部分で青葉はそう思うが、次の瞬間には それはどうでもいい感情になっていた。
+ 「ああっ…！！」
+軽いストロークを打ち出した悪司の腰の 動きに、青葉は染まっていく。
+ 「ああっ…あ、あ、あ！」
+夫のものとは違うその感触が、今では青葉に馴染み、 青葉の躰の芯がそれを待ち焦がれている。
+ 「はっ…ああっ…！」
+早く、遅く、浅く、深く。 悪司は青葉の中をからっぽにするように、 動き、侵食していく。
+ 「っ…うあっ…はっ…ああっ！」
+シャラリと、青葉の耳元で金鎖が鳴り続けている。
+ 「あっ…あなたっ……あっ…！」
+その音に一郎を思い出すが、次の瞬間、 悪司の深いストロークにかき消される。
+ 「はっ……あ！」
+深くねじ込まれた悪司のそれが、 不規則に動く腰に合わせ、青葉の中を侵していく。
+ 「うっ……っ！」
+悪司のその動きに、青葉の中で白く小さなものが ぷちぷちと弾けて、消えて、生まれてはまた消える。
+ 「あっ…はあっ…！」
+その瞬間、青葉はその小さな光を求め、 我を忘れた。
+ 「ああっ…あっ、あ、あ！」
+激しく揺れ動く悪司の腰に合わせ、 青葉のそれも揺れる。
+ 「あ、あ、あ、あ！」
+艶に染まった目は、もう何も見ていない。 深くかき乱される快楽に溺れている。
+ 「あっ……~~~つ………！！！」
+青葉はきつく悪司の腰に腰をすりつけ、 何度も何度も、大きく腰を、足を、腕を震わせた。";"Haha…… oh…… oh ……~!”
+Aoba herself does not remember how many times she has reached this point. The tongue caresses his own fingers and makes his body tremble over and over again.
+ “Ahh…hah…ah!”
+The core of Aoba, which has become so sensitive that it hurts, is still being traced by Akuji's tongue.
+ “I…no…no…no more…… stop……Akujisuck…… …Oh ………!!!”
+Akuji lightly bristled at the sharp point.
+What's wrong with you? 　Are you getting tired of being touched here all the time? 　Or maybe it's ………!
+Akuji puts it in Aoba's palm.  The sensation made Aoba feel a slight dizziness.
+Did you want this?”
+Ugh… ahhh… ……”
+Aoba's head shook faintly from side to side.
+I don't get it. 　The most important thing is that you should be able to express yourself in words, Aoba. 　What do you want me to do?
+ “Ugh…… ugh…”
+Aoba shook her head from side to side, louder than before. The most important thing to remember is that the gold chain is not a “one size fits all” kind of chain.
+The locket that the gold chain is hooked to has a picture of her husband in it.
+I was so excited that I couldn't even speak. 　Married women are so sensitive.
+What?
+Akuji was the one who stirred up the guilt inside Aoba toward her husband with his words.
+For Aoba now, even that is material to fuel her inferiority complex, but ……
+ “Ugh…ah…”
+The Aoba's legs trembled with the nectar of emotion dripping from inside her.
+ 'I'll let you in,…… you've been waiting, haven't you?
+I…no…oh…”
+Oh ……………~~~~……!
+Slowly, like a knife cutting a block of meat, Akuji's Aoba entered.
+ “Oh,…… ah…!!!”
+The impact made Aoba's jaw swim in the air.
+I'm soaking wet, but it hurts so much, your flesh is twisting around me, Aoba.”
+Akuji grabbed Aoba's legs and went even deeper.
+Ah…!!!”
+The Aoba's hips move regardless of her will, in accordance with the hips that started moving slowly.
+ (I…… I… am getting more and more invaded by this person…?)
+For a moment a cold part of Aoba thinks so, but in the next moment it becomes an unimportant emotion.
+Ah…!”
+Aoba is dyed by the movement of Akuji's hips as she launches out light strokes.
+Ahh… ah, ah!
+The feeling, different from her husband's, is now familiar to Aoba, and the core of Aoba's body is waiting impatiently for it.
+ “Ha…ah…!”
+Quickly, slowly, shallowly, deeply. Akuji moves and invades inside of Aoba to make it empty.
+Ahh…ah…hah…ah!”
+Sharari, the golden chain continues to ring in Aoba's ear.
+ 'Ah…ah…ah…ah…ah…ah…!'
+The sound reminds me of Ichiro, but the next moment it is drowned out by Akuji's deep strokes.
+ “Ha…… ah!”
+The deep strokes of Akuji invade Aoba as he moves his hips erratically.
+ “Ugh……!”
+The little Haku inside of Aoba popped, disappeared, was born, and disappeared again.
+Ah…haaaa…!”
+At that moment, Aoba lost herself, seeking that small light.
+Ah…ah, ah, ah!
+In accordance with Akuji's hips, which were shaking violently, Aoba's also shook.
+Ah, ah, ah, ah!
+The eyes, stained with glamour, are no longer looking at anything. The pleasure of being stirred up deeply is drowned.
+ 'Oh ……~~~tsu………!!!'
+Aoba tightly grinded her hips against Akuji's waist, and again and again, her hips, legs, and arms trembled loudly.";"'Ha…… oh…… oh…… oh ……~!'
+La propia Aoba no recuerda cuántas veces ha llegado a este punto. La lengua que sobresale acaricia sus propios dedos y hace temblar el cuerpo una y otra vez.
+ ¡Ahh… hah… ah!
+El núcleo de la flor de Aoba, que se ha vuelto tan sensible que duele, sigue siendo rastreado por la lengua de Akuji.
+ 'Yo… no… no… no más…… parar……Akujichupar……… ah………!!!
+Akuji se erizó ligeramente ante la punta afilada.
+Lo primero que me viene a la cabeza es que quiero poder volver a hacerlo. 　¿Te estás cansando de que te toquen aquí todo el tiempo? 　O ………”.
+Akuji lo coge en la palma de la mano, que se ha enfadado. Estaba caliente y latía en la palma de Aoba. La sensación hace que Aoba se sienta mareado.
+ “¿Querías esto?
+ 'Ugh… ahhh ……'
+La cabeza de Aoba se agitó débilmente de un lado a otro.
+No lo entiendo. 　'Intenta ponerlo en palabras correctamente, Aoba. 　¿Qué quieres que haga?”
+ 'Ugh…… ugh…'
+Aoba sacudió la cabeza de lado a lado, más fuerte que antes. La cadena de oro suena cada vez que lo hace.
+Dentro del relicario al que estaba enganchada la cadena de oro había una fotografía de su marido.
+ '¿Te has vuelto tan desaliñado que no puedes ni hablar? 　Las mujeres casadas son muy sensibles.
+ '…!”
+El sentimiento de culpa de Aoba hacia su marido se vio alimentado por las palabras de Akuji.
+Para Aoba ahora, incluso eso es material para alimentar su complejo de inferioridad, pero ……
+ 'Ugh… ah…'
+Las piernas de Aoba tiemblan ante el néctar de emoción que gotea de su interior.
+ 'Te dejaré entrar,…… has estado esperando, ¿no?'
+ 'Yo… no… oh…'
+ ¡Oh ……………~~~~……!
+Lentamente, como un cuchillo que corta un bloque de carne, el Aoba de Akuji entró en ella.
+ 'Oh ……aahhh…!!'
+El impacto hizo que la mandíbula de Aoba nadara en el aire.
+ 'Aunque estoy empapado, me duele mucho, tu carne se retuerce a mi alrededor, Aoba'.
+Akuji se agarró a las piernas de Aoba y se adentró más.
+ ¡Ah…!
+Al igual que las caderas que empezaron a moverse lentamente, las de Aoba se mueven al margen de su propia voluntad.
+ (I…… Yo… estoy siendo invadido por esta persona cada vez más…)
+Por un momento una parte fría de Aoba lo piensa, pero al momento siguiente se convierte en una emoción sin importancia.
+ “¡Ah…!
+El movimiento de las caderas de Aoba, que lanzaba ligeras caricias, tiñó a Aoba.
+ '¡Ah… ah, ah!
+La sensación, que es diferente a la de su marido, es ahora familiar para Aoba, y el núcleo del cuerpo de Aoba lo espera con impaciencia.
+ “¡Ja… ah…!
+Rápido, lento, superficial, profundo. Akuji se mueve e invade, como si quisiera vaciar el interior de Aoba.
+ '¡Ah… ah… hah… ah!'
+Sharari, la cadena de oro sigue sonando en el oído de Aoba.
+ '¡Ah… ah… ah… ah……… ah…!'
+El sonido le recuerda a Ichiro, pero al momento siguiente queda ahogado por las profundas caricias de Akuji.
+ 'Hah…… ah!'
+Las profundas caricias de Akuji invaden el interior de Aoba, al compás de sus irregulares movimientos de cadera.
+ “¡Ugh……!
+El pequeño Haku dentro de Aoba se asoma, desaparece, nace y vuelve a desaparecer.
+ “¡Ah… haaah…!
+En ese momento, Aoba buscó esa pequeña luz y se olvidó de sí misma.
+Ah… ¡ah, ah, ah!”
+De acuerdo con las caderas de Akuji, que se agitaban violentamente, las de Aoba también temblaban.
+ “¡Ah, ah, ah, ah!
+Los ojos teñidos de esmalte ya no miran nada. Se ahoga en el placer de estar profundamente agitada.
+ “¡Oh ……~~tsu ………!
+Aoba apretó con fuerza sus caderas contra la cintura de Akuji, y una y otra vez, sus caderas, piernas y brazos temblaron enormemente."
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"Aoba Youko (talking)";"……………";"……………";"……………"
+"Aoba Youko (thinking)";"……また…こんな… 夢中になって…… 何もかも忘れて……
+ ………怖い……
+私、この人にこんな躰にされてしまって… 怖い……";"…… again… like this… I got carried away…… and forgot everything …………… I'm scared……
+I've been made into this body by this man… I'm scared……";"…… también… así… me dejé llevar…… y me olvidé de todo …………… scared……
+Este hombre me ha metido en este cuerpo… Tengo miedo……"
+"Yamamoto Akuji (talking)";"よかったぜ。";"Good for you.";"Bien por ti."
+"Aoba Youko (talking)";"えっ……？";"What, ……?";"¿Qué, ……?"
+"Yamamoto Akuji (talking)";"あんた、俺にちゃんと合わせて くれるから、楽でいいよ。";"You're so easy to get along with.";"Es tan fácil llevarse bien contigo, eres tan bueno conmigo."
+"Aoba Youko (talking)";"っ……";"You can find out more at ……";"……"
+"Yamamoto Akuji (talking)";"何、恥ずかしがってんだよ。 誉めてんだぜ。 旦那がうらやましいや。";"What, you're shy? I'm complimenting you. I'm jealous of your husband.";"¿Qué, eres tímido? Te estoy felicitando. Estoy celoso de tu marido."
+"Aoba Youko (talking)";"……うっ……";"…… ugh ……";"…… ugh ……"
+"Yamamoto Akuji (talking)";"思い出しちまったか…… 早く帰ってくるといいな。";"I guess you remembered…… I hope you come home soon.";"Te has acordado…… Espero que vuelvas pronto a casa."
+"Aoba Youko (talking)";"ち…が…そうじゃない… 私…私……";"Chi… but… not… me… me ……";"Chi… pero… no… yo… yo ……"
+"Yamamoto Akuji (talking)";"旦那が帰ってきたら、あんたも 俺の呪縛から、解放されるってのにな。";"When he comes back, you'll be free of my curse, too.";"Cuando vuelva a casa, tú también estarás libre de mi maldición."
+"Aoba Youko (talking)";"え……";"Eh ……";"Eh ……"
+"Yamamoto Akuji (talking)";"あんたがそれを望むなら……だがな。";"If that's what you want, though, go to …….";"Pero si eso es lo que quiere, vaya a ……."
+"Aoba Youko (talking)";"それは……";"It can be found at ……";"Se puede encontrar en ……"
+"Yamamoto Akuji (talking)";"……ふふっ…ん…";"…… Hmmm…";"…… Hmm… hmm…"
+"Yamamoto Akuji (talking)";"青葉。";"Aoba.";"Aoba."
+"Aoba Youko (talking)";"なっ…なんですか！？";"What…what?";"¿Qué… qué es?"
+"Yamamoto Akuji (talking)";"こいよ。 抱いてやるよ。";"Come here. I'll hold you.";"Vamos. Yo te sostengo."
+"Aoba Youko (talking)";"そ、そんな… 前にも言いました… 私は、夫がある身で……";"Oh, no… I've said it before… I have a husband……";"Oh, no… Te lo dije antes… Tengo un marido……"
+"Yamamoto Akuji (talking)";"死んでるかもしれない奴にたてる 操なんざ、今は捨てていいんだよ。
+もし帰ってきたら、その時には 俺も何もしねー。 くだんねーメンドーはいらねーからな。";"You can throw away Misao for now, who might be dead.
+If he comes back, I won't do anything then. I don't want any of your stupid mendouche.";"Ya puedes tirar a Misao, que puede estar muerto.
+Si vuelve, tampoco haré nada entonces. No quiero ninguno de tus estúpidos mendou."
+"narrator";"青葉の手を掴んでいる悪司の指が、 青葉の指に絡まる。";"Akuji's fingers, which are holding Aoba's hand, are entwined with Aoba's fingers.";"Los dedos de Akuji se entrelazan con los de Aoba, cogiendo la mano de Aoba."
+"Aoba Youko (talking)";"あっ……";"Oh, ……";"Ah: ……"
+"narrator";"それだけで、青葉は躰を僅かに竦ませた。";"With that, Aoba cowered slightly.";"Sólo eso hizo que Aoba se encogiera ligeramente de cuerpo."
+"Yamamoto Akuji (talking)";"そのつまんねー寂しさ、 俺が忘れさせてやるよ。 さあ、今は俺に溺れな。";"I'll make you forget about that boring loneliness. Now, drown yourself in me.";"Te haré olvidar esa aburrida soledad. Vamos, ahora, ahógate en mí."
+"Aoba Youko (talking)";"悪司さっ…やっ…やめっ…あっ…！";"AkujiS…don't…don't…oh…!";"Akuji S… no… no… ah…"
+"Aoba Youko (talking)";"悪司は、青葉曜子をこました。";"Akuji has Komedo Aoba Youko.";"Akuji ha sido Komed Aoba Youko."
+"Yamamoto Akuji (talking)";"生活のたしにでもしてくんな。";"Don't make a living off of it.";"No lo conviertas en tu medio de vida."
+"Aoba Youko (talking)";"これ…お金ですか？";"Is this… money?";"¿Esto es… dinero?"
+"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
+"Aoba Youko (talking)";"……………";"……………";"……………"
+"Yamamoto Akuji (talking)";"どーすんだい？";"What are you going to do?";"¿Qué vas a hacer?"
+"Aoba Youko (talking)";"結構です。";"No, thank you.";"No, gracias."
+"Yamamoto Akuji (talking)";"あっそ。";"Oh, yeah.";"Ah, sí."
+"Ishihara Senju (talking)";"あーおば。";"Aww, aunt.";"Ah, tía."
+"Aoba Youko (talking)";"千手君… …な、何？";"Senju you… …what?";"Senju tú… …¿qué, qué?"
+"Ishihara Senju (talking)";"ついてきて欲しいとこがあるんだ。 今すぐ。";"I need you to follow me somewhere. Now.";"Hay un lugar donde quiero que me sigas. Ahora."
+"Aoba Youko (talking)";"でも、外は雨で…";"But it was raining outside…";"Pero estaba lloviendo afuera…"
+"Ishihara Senju (talking)";"だからいいんだよ。 いつ人がくるかわかんないって いうのがいいんだ。";"That's why it's good. It's good that we don't know when people will come.";"Por eso es bueno. Es bueno que nunca se sepa cuándo va a venir la gente."
+"Aoba Youko (talking)";"どういう事？";"What do you mean?";"¿Qué quieres decir?"
+"Ishihara Senju (talking)";"いいから、早くきてよ。 ほら！";"Just come on, come on. Come on, come on!";"Vamos, vamos. ¡Vamos, vamos, vamos!"
+"Aoba Youko (talking)";"あっ…！！";"Ah…!";"¡Ah…!"
+"narrator";"千手は強引に青葉を外に連れ出した。";"Senju forcefully took Aoba outside.";"Senju se llevó a la fuerza a Aoba fuera."
+"Aoba Youko (talking)";"森になんか連れてきて、どういう…";"What kind of…";"¿Qué tipo de…"
+"Ishihara Senju (talking)";"脱いでよ、青葉。";"Take it off, Aoba.";"Quítatelo, Aoba."
+"Aoba Youko (talking)";"えっ…！？";"What…!";"¡Eh…!"
+"Ishihara Senju (talking)";"早く。 ここで調教するんだ、青葉を。";"Quickly. Train here, Aoba.";"Rápido. Entrena aquí, Aoba."
+"Aoba Youko (talking)";"なっ…
+いっ…いやよ！！ どうして、こんな…";"No…
+No! Why did you do this to me?";"No…
+No… ¡no! ¿Por qué me has hecho esto?"
+"Ishihara Senju (talking)";"うるさいなー。 ボクがしたいんだから、早くしてよー。 グズグズしないでさー。";"Shut up! I want to do it, so hurry up! Don't be so lazy.";"¡Cállate! Quiero hacerlo, así que date prisa. No seas perezoso."
+"Aoba Youko (talking)";"っ……！";"I'm at ……!";"¡……!"
+"Ishihara Senju (talking)";"逃げるな！！";"Don't run away!";"¡No huyas!"
+"narrator";"　　［ばちんっっ］
+千手は逃げた青葉めがけ、 ビー玉鉄砲を撃った。";"[Bachin!]
+Senju fired his marble gun at the fleeing Aoba.";"[¡Bachin!]
+Senju disparó una pistola de mármol a la huidiza Aoba."
+"Aoba Youko (talking)";"あうっ！？";"Aaah!";"¡Aaah!"
+"narrator";"それが、青葉の後ろ首筋に命中し、 青葉は意識を失った。";"It hit Aoba in the back of the neck, and Aoba lost consciousness.";"Golpeó a Aoba en la nuca y Aoba perdió el conocimiento."
+"Ishihara Senju (talking)";"もう…世話がやけるんだから。";"I'm already…taken care of.";"Ya me he ocupado de ti."
+"narrator";"千手は青葉に手を伸ばした。";"Senju reached out to Aoba.";"Senju se acercó a Aoba."
+"cg narrator";"雨の音がしている。
+ 『………て……』
+ 『………きて……』
+ 『起きて、青葉……』
+子供の声が、青葉を呼ぶ。
+ 「っ……ん…？」";"The sound of rain.
+ “……… come ……”
+Come……… and ……
+ 'Wake up, Aoba ……'
+A child's voice calls Aoba.
+ '¡Go to ………?'";"El sonido de la lluvia.
+ '……… venga ……'
+ 'Ven……… y ……'
+ 'Despierta, Aoba……'
+La voz de un niño llama a Aoba.
+ “¿Qué diablos ……n…?"
+"cg narrator";"「…………？」
+青葉はゆっくり、意識を取り戻す。
+ 『見てごらんよ、青葉。 　自分の姿……クスクス』
+子供の声は千手だった。 青葉の視界に入る場所に姿が見えない。 どこかで彼女の様子を伺っているようだ。
+ 「……わ……たし……？」
+ 「………？！」
+ 『いい恰好だね、青葉……』
+ 「いっ……いやっ……」
+青葉は身じろいだが、千手の縛めはゆるまる どころか、逆にきつくなっていく。
+ 「いやっ…誰……か…」
+ 『そんな恰好で、人を呼ぶの？』
+ 「っ……うっ…！」
+ 『そんな恰好で縛られて、股間から、そんなもの 　ぶらさげてさ…ただの変態じゃん』
+ 「ちっ…ちがっ…」
+ 『でも青葉、股間のそれ、結構簡単に入ったよ。 　ちょっと、ボクがさわっただけでさ、青葉 　ぬれぬれになっちゃったんだよ、気絶してたのに』
+ 「うっ……うそっ…いやっ…」
+ 『嘘じゃないよ。 　ボクの指に、青葉の匂いが残ってるよ… 　ちゃんとお風呂、入ってるの？』
+千手の侮蔑に、青葉はさらに頬を火照らせる。
+ 『ここってね…とーきどき、思い出したように人が 　通るんだよ』
+ 『雨の日なんかは、傘がいらないぐらい、 　木がしげっていたりするからね』
+ 『今の青葉のかっこ、誰が見るか、わかんないよ…』
+ 「うっ…ううっ……」
+ 『それなのに、青葉、また濡れてるでしょ？ 　股間のそれ、雨のせいじゃないでしょ？』
+ 「ちがっ…ちが…」
+ 『どうしてだよ、ぬるぬるじゃないか。 　雨に溶けないよ、そんなに濃かったらさ』
+ 「うっ……」
+ 『あ、人が……』
+ 「えっ…！？」
+ 『嘘だよーアハハハハ』
+ 「くっ…うう……」
+ 『ボク知ってるよ…こういう時、どうすればいいか』
+ 『何もかも、解放しちゃうんだよ、青葉』
+ 「か…いほう…？」
+ 『そうだよ。 　解放しちゃえばいいんだよ。 　そうすれば、恥ずかしくなんかないよ』
+ 「うっ……」
+ 『ほら、足をもじもじさせてごらんよ。 　中、こすれていい気持ちでしょ？』
+ 「うっ…あうっ…」
+ 『もうイキたいんでしょ？ 　人がきたって聞いて、青葉少し、イッたでしょ？』
+ 「うっ…うあっ……」
+ 『そうそう、もっと動かして… 　イッちゃえ、人がいつくるかわかんないここでさ』
+ 「うっ…あっ……」
+ 『乳首、すっごくたっちゃってるよ、青葉。 　恥ずかしいなー』
+ 「うっ…うあっ…あっ……ああっ……」
+ 『青葉、今は理性なんかいらないんだから… 　ほら、イッちゃいなよ。 　もったいないじゃないか』
+ 「あっ…んんっ…あっ…あっ…あっ」
+ 「っ……~~~~~っ……あっ…… 　あーーっ……！！」
+ 『クスっ……クスクスクスっ……』
+青葉の内腿に、雨とも蜜とも違う体液が伝った。";"…………?”
+Aoba slowly regains consciousness.
+ 'Look at you, Aoba. 　Your own appearance…… couscous.'
+The child's voice was Senju. I can't see the figure in Aoba's field of vision. It seems that he is somewhere asking her how she is.
+ “Was it Senju and Senju?
+ '………?
+ “Nice outfit, Aoba …….”
+ “I…… don't …….”
+The Aoba shrugged, but Senju's bindings not only loosened but, on the contrary, tightened.
+I don't know who…… you are…”
+You call people dressed like that?
+I'm not tied up like that.
+I'm not a pervert, tied up like that, with that thing dangling from my crotch.
+ “No…no…”
+But Aoba, that thing between my legs went in pretty easily. 　I just touched it and it got all wet, even though I passed out.
+ “Ugh………… no…”
+I'm not lying. 　I can still smell Aoba on my fingers… Are you sure you're taking a bath?
+Aoba's cheeks flushed even more at Senju's contempt.
+People pass by here every once in a while, as if they remembered something.
+On rainy days, the trees are so thick that you don't need an umbrella.
+ “I don't know who will see me in my current Aoba outfit…”
+ “Ugh…ugh………”
+And yet, Aoba, you're wet again, aren't you? 　That thing between your legs, it's not from the rain, is it?”
+ “No…no…”
+ 'Why, it's soaking wet. 　It won't dissolve in the rain if it's that thick.
+Ugh……
+Oh, there's a man at …….
+ “What…?
+ “It's a lie!
+ “Ugh… ……”
+I know what to do in a situation like this.
+ “You have to let everything go, Aoba.
+ “Kai…eihou…?”
+ 'Yes, that's right. 　You should just let it go. 　Then you won't be ashamed of it.
+ “Ugh……”
+I'm not going to tell you what to do. 　It feels good to rub inside, doesn't it?
+ “Uhhhhh…” “You want to cum already, don't you?
+I know you want to cum already, don't you? 　When you heard that someone came, you came a little, didn't you?
+ 'Ugh… ahhh… ……'
+ “Yes, yes, move it more… come here, you never know when someone will come.”
+ “Oh… oh, ……”
+The nipples are really poking out, Aoba. 　It's embarrassing.
+ “Oh…oh…oh…oh…… oh ……”
+I'm not going to say that I'm not a good person, but I'm a very good person. 　It's a waste of time.
+ “Ah…mmm…ah…ah…ah…ah…ah…ah…”
+Oh, ……~~~~~, ……, ……, ah……, ah……!
+ 'Kusu…… kusu kusu kusu kusu ……'
+Fluid that was neither rain nor honey trickled down Aoba's inner thighs.";"…………?”
+Aoba recupera lentamente la conciencia.
+ 'Mírate, Aoba. 　Mírate…… couscous'.
+La voz del niño era Senju. La figura no se ve en el campo de visión de Aoba. Parece estar en algún lugar observándola.
+ '¿Fue ……?
+ ¡'………?!
+ 'Bonito conjunto, Aoba …….'
+ 'I…… no …….'
+El Aoba se estremeció, pero las ataduras de Senju no se aflojaron, al contrario, se hicieron más fuertes.
+ 'No… quién…… eres tú…'
+ '¿Llamas a la gente vestida así?
+ 'No……… ¡Uf…!
+ 'Atado así, con esa cosa colgando de entre las piernas… no eres más que un pervertido.
+No… no…
+La primera vez que fui a la playa, vi a un hombre con un gran sombrero negro. 　Sólo lo toqué y se mojó todo, aunque estaba desmayado”.
+ “Ugh……… Joder… no…”
+No estoy mintiendo. 　Todavía puedo oler Aoba en mis dedos… ¿Te estás bañando bien?”
+Ante el desprecio de Senju, las mejillas de Aoba se encienden aún más.
+ 'Sabes… de vez en cuando, la gente pasa por aquí como si recordara algo.
+En los días de lluvia, los árboles son tan espesos que no se necesita paraguas.
+Nunca sabes quién te va a ver con ese traje de Aoba”.
+ “Ugh… ugh… ……”
+ 'Y sin embargo, Aoba, estás mojada de nuevo, ¿no? 　Esa cosa entre tus piernas, no es de la lluvia, ¿verdad?'
+ “No… no…
+ 'Por qué, está empapado. 　No se disolverá en la lluvia si es tan gruesa'.
+Ugh……
+Oh, hay un hombre en …….
+ ¿Qué…?
+Es una mentira.
+ “Ugh… ugh… ……”
+Sé lo que hay que hacer en una situación así.
+ “Tienes que dejarlo todo, Aoba”.
+ “¿Kai… eihou…?”
+Así es. 　'Así es, déjalo ir. 　Entonces no te avergonzarás'.
+ 'Ugh……'
+ 'Vamos, retuerce los pies. 　Se siente bien al frotarlo por dentro, ¿no es así?'
+ 'Ugh… ahh…'
+ 'Ya quieres correrte, ¿no? 　Cuando oíste que venía alguien, Aoba, te corriste un poco, ¿no?”
+ 'Ugh… ahhh… ……'
+ 'Sí, sí, muévete más… ven aquí, nunca se sabe cuándo va a venir alguien'.
+ 'Uhhh… oh ……'.
+ 'Tus pezones están realmente reventados, Aoba. 　Es vergonzoso.
+ 'Ugh… ah… ah…… ah ……'.
+ 'Aoba, no necesitas la razón ahora mismo… Vamos, vamos. 　Es un desperdicio”.
+ 'Ah… mmm… ah… ah… ah… ah… ah… ah… ah… ah… ah… ah… ah…
+ '¡Ah……~~~~~ Ahh…… Ahh……!
+ 'Kusu…… kusu kusu kusu ……'
+El líquido, que no era ni lluvia ni miel, resbalaba por el interior de los muslos de Aoba."
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"Ishihara Senju (talking)";"えっ……
+いっ……一郎……さん…？";"Eh……
+Ichiro Ichiro ………?";"Eh……
+I…… ¿Ichiro………?"
+" (talking)";"……………";"……………";"……………"
+"Ishihara Senju (talking)";"一郎さん、そうでしょう？";"Ichiro, isn't that right?";"Ichiro, ¿no es así?"
+" (talking)";"…………";"…………";"…………"
+"Ishihara Senju (talking)";"どうして、返事してくれないの！？ 私の顔を忘れたの？ 曜子よ！！";"Why won't you answer me! Have you forgotten what I look like? It's Youko!";"¿Por qué no me respondes? ¿Has olvidado cómo soy? ¡Es Youko!"
+" (talking)";"………誰の事だ…？";"……… Who are you talking about…?";"……… ¿De quién estás hablando…?"
+"Ishihara Senju (talking)";"一郎さん！？";"Ichiro!";"¡Ichiro!"
+" (talking)";"――人違いだ……";"-- wrong person……";"-- persona equivocada……"
+"Ishihara Senju (talking)";"ううん、そんな事はないわ！ 私が一郎さんを見間違えるはずないもの！";"No, you wouldn't! There is no way I would have mistaken you for Ichiro!";"¡No, no lo harías! ¡No hay manera de que te haya confundido con Ichiro!"
+" (talking)";"……違う…… 俺はそんな名前でも、 君の知っている男でもない……";"…… different…… I'm not that name, nor am I the man you know ……";"…… diferente…… No soy ese nombre, no soy ese hombre que conoces ……"
+"Ishihara Senju (talking)";"どうして…どうして、そんな事言うの？ 一郎さん……！";"Why…why do you say that? Ichiro, ……!";"¿Por qué… por qué dices eso? ¡Ichiro, ……!"
+"Ishihara Senju (talking)";"一郎さん…";"Ichiro…";"Ichiro…"
+" (talking)";"……………";"……………";"……………"
+"Ishihara Senju (talking)";"お願い、返事をして……";"Please, respond to me at ……";"Por favor, respóndame: ……"
+" (talking)";"……………";"……………";"……………"
+"Ishihara Senju (talking)";"どうして、戦わなくちゃいけないのよ…";"Why do we have to fight…";"¿Por qué tenemos que luchar…"
+" (talking)";"……………";"……………";"……………"
+"narrator";"曜子は一人、コウシエンを訪れていた。 戦闘中に見た、夫、一郎を探す為に。";"Youko was visiting Koushien alone. She was looking for her husband Ichiro, whom she saw during the battle.";"Youko había visitado Koushien solo. Para buscar a su marido Ichiro, al que vio durante la batalla."
+"Aoba Youko (thinking)";"ここにいなかったら、ＰＭの支配地の もっと奥を探さなくちゃいけない…
+この辺りで見つかってくれたら よいのだけど…";"If they're not here, we'll have to look deeper into PM's territory…
+I hope they find us around here.";"Si no están aquí, tendremos que buscar más en el territorio de la PM…
+Esperemos que nos encuentren en algún lugar por aquí."
+" (talking)";"……曜子……";"……Youko……";"……Youko……"
+"Aoba Youko (talking)";"えっ……";"Eh ……";"Eh ……"
+"Aoba Youko (talking)";"一郎さん…！！";"Ichiro…!";"¡Ichiro…!"
+"Elite Yakuza (talking)";"お前、ここがどこかわかっているのか！？";"You, you know where you are!";"¡Tú, tú sabes dónde estás!"
+"Aoba Youko (talking)";"ＰＭの支配地……";"PM's domicile: ……";"Domicilio del PM: ……"
+"Elite Yakuza (talking)";"だったら…";"Then…";"Entonces…"
+"Aoba Youko (talking)";"……うっ……";"…… ugh ……";"…… ugh ……"
+"Elite Yakuza (talking)";"曜子…？";"Youko…?";"¿ Youko…?"
+"Aoba Youko (talking)";"……夢…じゃないわよね…？";"…… dream… not a dream… right?";"…… Sueños… ¿no son…?"
+"Elite Yakuza (talking)";"…………";"…………";"…………"
+"Aoba Youko (talking)";"やっぱり、一郎さん……";"I knew it, Ichiro……";"Lo sabía, Ichiro……"
+"Peach Maid (talking)";"あ……！！";"Ah ……!";"¡Ah ……!"
+"Aoba Youko (talking)";"えっ…！？";"What…!";"¡Eh…!"
+"Peach Maid (talking)";"奉仕青年団！！ こんなところまで！！";"Service Youth Group!!!! All this way!!!!";"¡¡¡Servicio al grupo de jóvenes!!! ¡¡Todo por aquí!!"
+"Aoba Youko (talking)";"っ…あっ…しまった……";"Oh… oh… shoot… ……";"Oh… oh… mierda……"
+"narrator";"おたついている曜子の手を、一郎が掴む。";"Ichiro grabs Youko's tucked-in hand.";"Ichiro agarra la mano de Youko mientras la arropa."
+"Aoba Youko (talking)";"えっ……";"Eh ……";"Eh ……"
+"Elite Yakuza (talking)";"走れ！";"Run!";"¡Corre!"
+"Peach Maid (talking)";"こら、その女をどこに連れて行く！ 待て、裏切り者！！";"Hey, where are you taking that woman! Wait, traitor!";"¡Oye, a dónde llevas a esa mujer! ¡Espera, traidor!"
+"narrator";"二人は声を振り払い、走り去った。";"They shook off the voices and ran off.";"Se sacudieron las voces y salieron corriendo."
+"Aoba Youko (talking)";"はあ…はあっ…！";"Haa…haa…!";"Haa… haa…"
+"Elite Yakuza (talking)";"ここまでくれば、もう追われる事も ないだろう…";"Now that we've made it this far, we won't be chased anymore…";"Si han llegado tan lejos, ya no nos perseguirán…"
+"Aoba Youko (talking)";"………くす……";"……… and ……";"……… aburrido ……"
+"Elite Yakuza (talking)";"なんだ？";"What is it?";"¿Qué es?"
+"Aoba Youko (talking)";"今のであなた…ＰＭを裏切っちゃったね…";"Now you… betrayed PM Tane…";"Ahora tú… traicionaste al PM Tane…"
+"Elite Yakuza (talking)";"……………";"……………";"……………"
+"Aoba Youko (talking)";"もう…私の前から消えないで… 戦争は終わったんですもの… もう…いなくならないで……";"Don't… disappear from me… the war is over… don't… disappear anymore: ……";"No… desaparezcas de mí… la guerra ha terminado… no… desaparezcas más: ……"
+"Elite Yakuza (talking)";"俺が…何をしていたのか、 聞かないのか？";"You don't… ask me what I've been doing?";"¿No… me preguntas qué he estado haciendo?"
+"Aoba Youko (talking)";"今はそんな事より… あなたが帰ってきてくれた事の方が 大事だもの…
+これから…いくらでも話が出来る でしょう？ 私達は、夫婦なんだから…";"Right now, the most important thing is that you're back.
+We can talk as much as we want from now on, can't we? We're a couple.";"Ahora mismo… lo más importante es que has vuelto.
+A partir de ahora… podemos hablar todo lo que queramos, ¿no? Somos una pareja…"
+"Elite Yakuza (talking)";"……………
+ああ…ああ、そうだな……";"……………
+Oh…yeah, right: ……";"……………
+Oh… sí……"
+"Aoba Youko (talking)";"……おかえりなさい…";"Welcome back to ………";"…… Bienvenido de nuevo…"
+"Elite Yakuza (talking)";"ああ…ただいま……";"Oh…I'm home: ……";"Oh… estamos en casa: ……"
+"narrator";"まだ街灯など整っていない街を、 青葉は一人、歩いている。";"Aoba is walking alone in a town where streetlights are not yet in place.";"Aoba camina sola por una ciudad que aún no está bien iluminada."
+"Aoba Youko (talking)";"………………";"………………";"………………"
+"narrator";"その足取りはおぼつかなかった。";"His gait was dazed.";"Su andar era aturdido."
+"Aoba Youko (thinking)";"私……何してたんだろう… 目の前に、一郎さんがいたのに… ……死なせてしまった……
+私は……今まで、一郎さんに会う為に… その為だけに生きてきたというのに…
+どうして……
+どうして、こんな……";"I…… don't know what I was doing… Ichiro was right in front of me……… I let him die… …
+I…… have lived all this time just to see Ichiro… just for that…
+Why ……
+Why did you do this ……";"Yo…… no sé lo que estaba haciendo… Ichiro estaba justo delante de mí……… lo dejé morir… …
+Yo…… he vivido todo este tiempo sólo para ver a Ichiro… sólo para eso…
+Por qué ……
+ ¿Por qué has hecho esto? ……"
+"Aoba Youko (talking)";"……ふっ……
+ふふふっ… くっ…はっ…ははっ……
+馬鹿……
+馬鹿な……曜子……";"…… Huh……
+ 
+Idiot……
+Idiot……Youko ……";"…… Huh……
+Hmmm… hmmm… hmmm… hmmm… hahaha……
+Idiota……
+Idiota……Youko ……"
+"narrator";"その日以来、青葉曜子の姿を見た者は いなかった。";"Since that day, no one had seen Aoba Youko.";"Nadie había visto a Aoba Youko desde aquel día."
+"Aoba Youko (talking)";"……はあ……はあ……";"…… is ah…… is ah…… is ah……";"…… ha…… ha ……"
+"narrator";"青葉は息をきらし、電柱にもたれた。";"Aoba gasped and leaned against a telephone pole.";"Aoba jadeó y se apoyó en un poste."
+"Aoba Youko (thinking)";"も、もういや… あんなところにいたくない……";"Oh no more… I don't want to be in that place ……";"Oh no más… No quiero estar en ese lugar……"
+"narrator";"青葉は、タマネギの調教の館から 脱走したのだった。";"Aoba had escaped from Tamanegi's training house.";"Aoba había escapado de la sala de entrenamiento de Tamanegi."
+"Aoba Youko (thinking)";"あんなところにずっといたら、 駄目になってしまう…
+私はそんな事の為に生きてるんじゃない… 生きて…一郎さんに会って… そして……";"If I stay in that place forever, I'll never make it…
+I don't live for that… I live… to see Ichiro… and ……";"Si me quedo en ese lugar para siempre, nunca lo lograré…
+No vivo para eso… vivo… para ver a Ichiro… y ……"
+"narrator";"　　［ビリリッ……］";"[Billiric ……]";"[Billerić, ……]"
+"Aoba Youko (talking)";"はぅっ……！？
+っ……うっ……あっ……";"Huh……!
+Oh…… ugh…… ah……";"¡Huh……!
+ ¡Ahh…… ugh…… ah……!"
+"narrator";"突然の電気ショックに、 青葉はその場で気絶した。";"The sudden electric shock caused Aoba to pass out on the spot.";"La repentina descarga eléctrica hizo que Aoba se desmayara en el acto."
+"Ishihara Senju (talking)";"本気で逃げられると思ったのかな~。";"I wonder if he really thought he could get away with it!";"Me pregunto si realmente pensaron que podrían salirse con la suya."
+"narrator";"青葉の後ろに、音もなく千手が立っていた。 手にはスタンガンがある。";"Behind Aoba stood Senju without a sound. In his hand is a stun gun.";"Detrás de Aoba estaba Senju sin hacer ruido. En su mano hay una pistola eléctrica."
+"Ishihara Senju (talking)";"もっと、お仕置きが必要なんだね。 大丈夫、すぐに逃げたくないって 思わせてあげるから。
+もっと色々して欲しいっていうぐらい…… ムチャクチャにしてあげるよ、青葉。
+くすっ……くすくすくすっ……";"You need more spanking, don't you? Don't worry, I'll make you not want to run away so soon.
+I'll mess you up so much…… that you want me to do more things to you, Aoba.
+Smooch…… smooch…… smooch ……";"Necesitas más azotes, ¿no? No te preocupes, te haré sentir que no quieres huir de inmediato.
+Te voy a liar tanto…… que querrás que te haga más cosas, Aoba.
+Smooch…… smooch…… smooch ……"
+"narrator";"悪司が新聞を読んでいる。";"Akuji is reading the newspaper.";"Akuji está leyendo el periódico."
+"Yamamoto Akuji (talking)";"んん~……政治家の足の引っ張りあいって どーしてこう、グローバルでないっ ちゅかー、なんちゅーか…";"Hmmm~……Why is it that politicians are dragging each other down, and why is it that they don't seem to be global, or something…?";"Hmmm……… Por qué los políticos se arrastran unos a otros, no es global, es como…"
+"Aoba Youko (talking)";"何してるんですか？";"What are you doing?";"¿Qué estás haciendo?"
+"Yamamoto Akuji (talking)";"新聞読んで、賢くなろうと。";"He read the newspaper and tried to be smart.";"Leía los periódicos y trataba de ser inteligente."
+"Aoba Youko (talking)";"そんな場合じゃないでしょう？";"That's not the time, is it?";"No es el momento, ¿verdad?"
+"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
+"Aoba Youko (talking)";"わかめ組が、喧嘩をしかけて きているんですよ。
+早く、市議会に苦情申し立てを……";"The Wakame group is trying to pick a fight with us.
+Quick, file a complaint with the City Council at ……";"El grupo Wakame está tratando de buscar pelea contigo.
+Rápido, presenta una queja al ayuntamiento……"
+"Yamamoto Akuji (talking)";"ムダムダムダァァ。";"Mudum dum dum dum dum dum dum.";"Mudam dum dum dum dum dum dum dum dum dum dum."
+"Aoba Youko (talking)";"そんなっ……";"Sonnenna ……";"Sonnenna: ……"
+"Yamamoto Akuji (talking)";"お前さんさー、俺達の仕事がなんなのか まだわかってねーんだな。";"You still don't know what our job is, do you?";"Tú, todavía no sabes cuál es nuestro trabajo, ¿verdad?"
+"Aoba Youko (talking)";"うっ……";"Ugh……";"Ugh……"
+"Yamamoto Akuji (talking)";"さぁて、じゃあ行くか。";"All right, let's go then.";"Muy bien, vamos entonces."
+"Aoba Youko (talking)";"え、あ、あの…市議会にですか？";"Uh, uh…to the city council?";"Eh, eh… ¿al Ayuntamiento?"
+"Yamamoto Akuji (talking)";"何言ってんだ。 喧嘩だよけーんーか。 ほれ、キリキリ動け。";"What are you talking about? It's a fight, kenka. Come on, move your ass.";"¿De qué estás hablando? Es una pelea, ken-ka. Vamos, mueve el culo."
+"Aoba Youko (talking)";"………………";"………………";"………………"
+"Aoba Youko (talking)";"お待たせ、一郎さん。";"Sorry to keep you waiting, Ichiro.";"Siento haberte hecho esperar, Ichiro."
+"Elite Yakuza (talking)";"福引券はあったかい？";"Did you find a gift certificate?";"¿Has encontrado algún cheque regalo?"
+"Aoba Youko (talking)";"ええ。 ちゃぶ台の上に。
+当たったら、カネシタの温泉旅行ね。 頑張って当てましょう。";"Yes. On the table.
+If I win, it's a trip to the hot springs in Kaneshita. Let's do our best to win.";"Sí. En la mesa.
+Si gano, un viaje a las aguas termales de Kaneshita. Hagamos todo lo posible por ganarla."
+"Elite Yakuza (talking)";"お前の方がクジ運がいいから。 お前が引きなさい。";"Because you're luckier than me. You draw.";"Porque tienes más suerte en la lotería. Tú dibujas."
+"Aoba Youko (talking)";"ん~…二枚あるから、 一枚ずつにしましょう。";"Hmmm… since we have two sheets, let's take one at a time.";"Hmmm… tenemos dos, así que tomemos uno a la vez."
+"Elite Yakuza (talking)";"……………";"……………";"……………"
+"Aoba Youko (talking)";"どうしたの？";"What's wrong?";"¿Qué pasa?"
+"Elite Yakuza (talking)";"いや…幸せだなと思って…";"No… just happy…";"No… sólo estamos contentos…"
+"Aoba Youko (talking)";"そうね…幸せね…";"Well… happy…";"Bueno… feliz…"

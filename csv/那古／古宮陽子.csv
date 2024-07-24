@@ -1,0 +1,2185 @@
+"character";"jap text";"Eng";"Esp"
+"__system__??";"{(☆陽子捕虜 > 5) * (☆陽子捕虜 < 10):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(☆陽子捕虜 > 10) * (☆陽子捕虜 < 15):";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆陽子捕虜 > 15:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 1:";"";""
+"__system__??";"{☆由女／イハビーラ = 1:";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆古宮 = 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆古宮 = 3:";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆古宮 > 1:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 2:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 3:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 4:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 5:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 10:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 11:";"";""
+"__system__??";"{☆由女／死亡 = 1:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 12:";"";""
+"__system__??";"{H愛欲 = 1:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(H物欲 \ 0) * (H愛欲 \ 0) * (RND \ 0):";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 13:";"";""
+"__system__??";"{H物欲 = 1:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(H物欲 \ 0) * (H愛欲 \ 0) * (RND \ 0):";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 15:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 16:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 17:";"";""
+"__system__??";"{H拷問抵抗 < H拷問:";"";""
+"__system__??";"{☆那古Ａ = 3:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{H拷問 = 1:";"";""
+"__system__??";"{☆那古Ａ \ 3:";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆那古Ａ = 3:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆那古Ａ \ 3:";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆那古Ａ = 3:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 18:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 19:";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆由女／イハビーラ = 1:";"";""
+"?? (thinking)";"んー…… ＧＡＬバーガーに送り込みたい とこなんだが……
+由女が見つかるまでは、 客商売に不可欠な作り笑いとか できそうにねーよな、こいつ……
+今だって、なあ。 背中に背負ったオーラが 暗いったらねえし……
+ ……やめとくか。 今のまま働かせとく方が多分トクだな。";"I would send him to…… GAL Burger, but ……
+Until we find Yume, I don't think he's going to be able to do the fake laughs that are essential for customer service……
+Even now, you know. The aura on his back is dark as hell……
+I think I'll stop ……. It's probably better to let him work as he is now.";"Me gustaría enviarlo a…… GAL Burger, pero ……
+Hasta que no encontremos a Yume, no va a poder hacer las risas falsas que son esenciales para el servicio al cliente……
+Incluso ahora, lo sabes. El aura de su espalda es muy oscura………… Será mejor que me detenga. Probablemente sea mejor dejarle trabajar como hasta ahora."
+"__system__??";"}";"";""
+"Komiya Youko (talking)";"私を呼んでいると訊いたけど……";"I asked you if you wanted me: ……";"Te pregunté si me querías……"
+"Yamamoto Akuji (talking)";"おう、実はな…………";"Oh, actually…………";"Oh, en realidad…………"
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"……やっぱ元気ねえな。";"…… I knew you weren't well.";"…… Sabía que no estabas bien."
+"Komiya Youko (talking)";"………っ………
+ごめんなさい、顔に出ないよう 気を付けてはいるんだけど……";"………………
+I'm sorry, I'm trying to keep it from showing on my face……";"………………
+Lo siento, intento que no se me note en la cara……"
+"Yamamoto Akuji (talking)";"まあ、ムリすんな。
+ヒマな奴にちょいと頼んで 由女を時々捜させてっからよ。 いずれ手がかりも見つかるさ。";"Well, don't be too hard on yourself.
+I'll ask someone who has time to look for Yume from time to time. He'll find a clue sooner or later.";"Bueno, no te lo tomes con calma.
+Le pediré a alguien que esté libre que busque a Yume de vez en cuando. Tarde o temprano encontrarás una pista."
+"Komiya Youko (talking)";"……本当にありがとう、恩に着るわ。";"Thank you so much ……, I owe you a debt of gratitude.";"…… Muchas gracias, se lo debemos."
+"Yamamoto Akuji (talking)";"礼はいらねえよ。 部下を一人引き留めるための 小さな手間に過ぎねーからな。";"No need to thank me. It's just a small effort to keep one of my men.";"No hace falta que me des las gracias. Es un pequeño precio a pagar por mantener a uno de mis hombres cerca."
+"Yamamoto Akuji (talking)";"さ~て……たしか今、 あいつは事務所に来てたはずだが……
+ ……こっちか？ おお、居た居た………………";"Well,…… I'm pretty sure he's at the office right now………… this way? Oh, there he is, there he is………………";"Bueno,…… Estoy bastante seguro de que está en la oficina ahora mismo………… por aquí? Oh, ahí está, ahí está………………"
+"narrator";"──陽子は、事務所の隅に居た。
+毛糸と編み棒を持って、慣れた手つきで マフラーらしきものを編み上げている──";"Youko was in the corner of the office.
+She was knitting what looked like a scarf with her familiar hands, holding a woolen yarn and a knitting stick.";"─ ─ Youko estaba en el rincón del despacho.
+Estaba tejiendo lo que parecía una bufanda con un hilo de lana y un palo de tejer en una mano familiar…"
+"Yamamoto Akuji (talking)";"…………珍しいもん見たな。";"I've seen some unusual things at ………….";"………… Es inusual ver algo tan inusual."
+"Komiya Youko (talking)";"……？ 私に何か用でも？";"……? You wanted to see me?";"……? ¿Querías verme?"
+"Yamamoto Akuji (talking)";"……ああ、用があるんだけどよ……
+ …………何やってんだ、おめー。";"……Yeah, I'm here for you……………… What are you doing, man?";"…… Sí, tengo algo para ti……………… ¿Qué estás haciendo, hombre?"
+"Komiya Youko (talking)";"何って……見れば解ると思うけど。";"I think you can figure out what it is by looking at …….";"Qué es eso, creo que se puede averiguar en ……."
+"Yamamoto Akuji (talking)";"いや、そりゃ解るけどよ。
+ ……古宮ってよ、 そんな真似、できたんだな。";"No, that's understandable.
+I don't know how ……Komiya could do such a thing.";"No, es comprensible.
+ ……Komiya, podrías haber hecho eso."
+"Komiya Youko (talking)";"これでも女ですからね、 その位の趣味は持ってるわ。
+ ……と言っても、編み方の手順もコツも ほとんど忘れていたんだけど。
+那古教が発足してから 仕事に忙殺されていたから、 編み棒なんて一度も持たなかったし…
+でも、今は結構時間に余裕があるから、 何となく始めてみたのよ。";"But then again, I'm a woman, and I do have that many hobbies.
+I have been working so much since Nakokyou was launched that I have almost forgotten how to knit.
+Since Nakokyou started, I've been so busy with work that I've never had a knitting needle…
+But now I have some spare time, so I decided to try Hajime.";"Al fin y al cabo, sigue siendo una mujer y tengo aficiones de ese calibre.
+Casi he olvidado cómo hacer punto, aunque he estado …….
+Desde que empezó Nakokyou, he estado tan ocupada Satsu con el trabajo que nunca he tenido un alfiler de punto…
+Pero ahora tengo mucho tiempo libre, así que decidí probar Hajime de alguna manera."
+"Yamamoto Akuji (talking)";"………………";"………………";"………………"
+"Komiya Youko (talking)";"……ねえ、意外なのは解ったから、 そろそろその顔、やめてくれない？";"…… Hey, I know it's unexpected, so can you stop making that face?";"…… Oye, sé que es inesperado, así que ¿puedes dejar de poner esa cara?"
+"Yamamoto Akuji (talking)";"……ん、顔？ なんか変な顔してたか？";"…… hmm, face? What's wrong with your face?";"…… Hmm, ¿cara? ¿Qué te pasa en la cara?"
+"Komiya Youko (talking)";"ええ、物珍しそうな顔をね。";"Yes, the curious looks.";"Sí, las miradas curiosas."
+"Yamamoto Akuji (talking)";"……あ、いや、わりィ。 もし顔に出てたんなら、 これは編み物の件とは別だ。
+おめーの女らしい言葉遣い、 初めて聞いたような気がしてな。";"…… Oh, no, sorry. If it was on your face, this is not about the knitting.
+I've never heard you use feminine language before.";"…… Oh, no, lo siento. Si estaba en tu cara, esto no es por el tejido.
+Creo que nunca te he oído utilizar un lenguaje femenino."
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"前から思ってたんだが…… おめー、キリッとしたのと今みたいのと どっちが地なんだ？";"I've been wondering for a while now…… You, you, which is more grounded, the crispy one or the one like now?";"Siempre me he preguntado,…… Tú, tú, ¿cuál es más castigado, el crujiente o el de ahora?"
+"Komiya Youko (talking)";"……訊かれても困る。 これまで気にしたこともないしな。
+第一、どっちが地だろうと 貴様には関係ないだろう。";"I don't want to be asked ……. I've never cared about it.
+First of all, it doesn't matter to you which side is the land.";"…… No quiero ni que me lo pregunten. Nunca me he molestado en hacerlo.
+En primer lugar, no es de tu incumbencia de qué lado está la tierra."
+"Yamamoto Akuji (talking)";"ま、そうなんだけどよ。";"Well, that's true.";"Bueno, sí, es cierto."
+"Yamamoto Akuji (talking)";"さて、そろそろ 古宮のねーちゃんが来る筈だが。
+ ……お、来た来た。";"Well, Komiya-chan should be here by now.…… Oh, here she comes.";"Bueno, Komiya-chan ya debería estar aquí.…… Oh, aquí viene."
+"__system__??";"{RND = 1:";"";""
+"Komiya Youko (talking)";"呼ばれた通りに来たが、 何か用なのか？";"I'm here as called. What can I do for you?";"Estoy aquí como se llama. ¿Qué puedo hacer por usted?"
+"Yamamoto Akuji (talking)";"……今日はツンツンだな。";"…… is twangy today.";"…… Hoy en día es twangy."
+"Komiya Youko (talking)";"何のことだ？";"What are you talking about?";"¿Qué es?"
+"Yamamoto Akuji (talking)";"いや、なんでもねぇ。";"No, it ain't nothing.";"No, no es nada."
+"__system__??";"}";"";""
+"__system__??";"{RND = 2:";"";""
+"Komiya Youko (talking)";"それは来るわよ、 雇い主に呼ばれたらね。
+ ……で、何か用なの？";"It will come, if my employer calls me.
+What can I do for you at ……?";"Vendrá, si mi empleador me llama.
+ ¿Qué puedo hacer por usted en ……?"
+"Yamamoto Akuji (talking)";"……今日は丸いな。 何かいいことでもあったか？";"…… is round today. Anything good happen to you?";"…… ronda hoy. ¿Cuál es la buena noticia?"
+"Komiya Youko (talking)";"丸い……って何のこと？";"What does the round…… mean?";"¿Qué significa la ronda ……?"
+"Yamamoto Akuji (talking)";"あ、いや、別にいいんだが。";"Oh, no, I don't mind.";"Oh, no, no me importa."
+"__system__??";"}";"";""
+"Yamamoto Akuji (talking)";"えーとっと、 たしか古宮のねーちゃんは、ここに……";"Let's see, I think Komiya's girl is here: ……";"Veamos, creo que Komiya-neechan está aquí: ……"
+"Komiya Youko (talking)";"……居るわよ。何か用？";"…… I'm here. What can I do for you?";"…… Estoy aquí. ¿Qué puedo hacer por usted?"
+"Yamamoto Akuji (talking)";"おお、そんなトコにいたのか。 実はな…………";"Oh, I didn't know you were in a place like that. As a matter of fact…………";"Oh, no sabía que estabas en un lugar así. De hecho, …………"
+"narrator";"悪司は、ソファに座った古宮陽子の側に 歩み寄ろうとしたが──";"Akuji tried to walk over to Komiya Youko on the couch, but…";"Akuji intentó acercarse a Komiya Youko en el sofá, pero…"
+"Yamamoto Akuji (talking)";"……………………なあ、古宮。 なんで由女がお前の膝枕で寝てんだ？";"…………………… Hey, Komiya. Why is Yume sleeping in your lap?";"…………………… Hey, Komiya. ¿Por qué Yume duerme en tu regazo?"
+"Komiya Youko (talking)";"ああ、気分が悪いと言うから、 楽になるまでな。
+ ……このままでは話し辛いか？";"Yeah, you say you don't feel well, just until you feel better.…… hard to talk at this point?";"Sí, dices que no te sientes bien, sólo hasta que te mejores.…… difícil hablar así?"
+"Yamamoto Akuji (talking)";"さすがに、ちょっとな。";"That's a bit of a stretch.";"Eso es un poco exagerado, de hecho."
+"Komiya Youko (talking)";"…………そうか。
+ごめん、由女。ちょっと……";"………… I see.
+Sorry, Yume. Just ……";"………… Ya veo.
+Lo siento, Yume. Sólo ……"
+"Yume (talking)";"……ん、むにゃ……
+あれ……悪司さ……ん……？";"……n, mnya……
+Is that ……Akuji-Sa…… n……?";"Eso……n, mnya……
+Que……Akuji-sa…… n……?"
+"Yamamoto Akuji (talking)";"おう、おはようさん。";"Oh, good morning.";"Oh, buenos días."
+"Komiya Youko (talking)";"ごめん由女、ちょっと用があって…… 向こうの部屋で寝ていてくれる？";"Sorry Yume, I have some business to attend to:…… Can you sleep in the room over there?";"Lo siento Yume, tengo algunos asuntos que atender…… ¿Puedes dormir en la habitación de allí?"
+"Yume (talking)";"…………あー…… うん、解った………………";"………… uh…… yeah, I get it ………………";"………… Uh…… Sí, lo entiendo ………………"
+"Yamamoto Akuji (talking)";"………………
+悪かったな、仲の良さそうなとこを 邪魔しちまってよ。";"………………
+Sorry, I didn't mean to interrupt what seemed to be a friendly rapport.";"………………
+Lo siento, lo siento, no quería interrumpir lo que parecía una buena relación."
+"Komiya Youko (talking)";"……ああ、確かにな。";"…… Yeah, sure.";"…… Sí, claro."
+"Yamamoto Akuji (talking)";"そんな怒る事かよ、古宮… 目つき怖ぇぞ。";"Don't get so mad at me, Komiya… you're scaring me with your eyes.";"No te enfades tanto, Komiya… me estás asustando con tus ojos."
+"Komiya Youko (talking)";"解っている、仕事だからな。 半分は冗談だ。";"I know, I know, it's my job. I'm only half joking.";"Lo sé, lo sé, es mi trabajo. La mitad es una broma."
+"Yamamoto Akuji (talking)";"…………んじゃ残り半分は何だよ。";"What's the other half if it's …………?";"………… Entonces, ¿cuál es la otra mitad?"
+"Yamamoto Akuji (talking)";"さーて、そろそろ 古宮のねーちゃんが来る筈だが。
+ ……お、来たな。";"Well, Komiya should be here by now.…… Oh, she's here.";"Bueno, la chica de Komiya ya debería estar aquí.…… Oh, está aquí."
+"Komiya Youko (talking)";"………山本、悪司っ………";"………Yamamoto, Akuji………";"………Yamamoto, Akuji………"
+"Yamamoto Akuji (talking)";"何だよ、怖ぇ顔して。 なんかあったのか？";"What's with the scary face? What's wrong?";"¿Por qué esa cara de miedo? ¿Qué está pasando?"
+"Komiya Youko (talking)";"貴様、由女に……何をした。 答えろっ……";"What did you…… do to Yume? Answer me! ……";"¿Qué has hecho…… a Yume? ¡Respóndeme! ……"
+"Yamamoto Akuji (talking)";"別に何にもしてねぇぞ？";"I didn't do anything.";"No he hecho nada, ¿de acuerdo?"
+"Komiya Youko (talking)";"とぼけるな……！
+私が貴様の部下になったのも、 由女の無事を保証すると言ったからだ！ なのに……なのにっ！";"Don't play dumb with me ……!
+I only became your subordinate because you said you would guarantee Yume's safety! And yet ……!";"¡No te hagas el tonto conmigo, ……!
+ ¡Sólo me convertí en tu subordinado porque dijiste que garantizarías la seguridad de Yume! ¡Y sin embargo ……!"
+"Yamamoto Akuji (talking)";"だーかーらーよー。 何を怒ってんのか知らねぇが、 マジで俺は何もしてないってばさ。";"I don't know what you're upset about, but seriously, I didn't do anything. I don't know what you're upset about, but seriously, I didn't do anything.";"Eso es todo lo que digo. No sé por qué estás molesto, pero en serio, no hice nada."
+"Komiya Youko (talking)";"由女を慰み者にした件まで 知らんと言うのか、貴様っ……！";"Don't you even know that you made Yume your consolation prize? ……!";"¿Ni siquiera sabes que has hecho de Yume un consuelo, ……?"
+"Yamamoto Akuji (talking)";"慰み者ってよ、 要するにセックスか？
+なら、した。当然。";"Comforter. What's the point of having sex?
+Then yes, I did. Of course I did.";"Consolador, en otras palabras, ¿sexo?
+Entonces lo hice. Por supuesto que sí."
+"Komiya Youko (talking)";"………………っ！";"………………っ!";"¡………………っ!"
+"Yamamoto Akuji (talking)";"殺気立つなよ、古宮。 あれは必要だからしてる事で、 俺に悪意はこれっぽっちもねぇぞ。";"Don't get all mushy on me, Komiya. I'm doing this because it's necessary, and I don't have any ill will towards you.";"Satsu No te pongas nervioso, Komiya. Lo hago porque es necesario, y no tengo mala voluntad hacia ti."
+"Komiya Youko (talking)";"貴様という男は……！";"Your man is ……!";"¡Tu hombre es ……!"
+"narrator";"激昂した陽子は、悪司の胸ぐらに掴みかかった。";"Enraged, Youko grabbed Akuji by the chest.";"Con rabia, Youko agarró a Akuji por el pecho."
+"Yamamoto Akuji (talking)";"……おい、こりゃ何の真似だよ、古宮。";"…… Hey, what's this imitating, Komiya.";"…… Oye, ¿qué es esta imitación de, Komiya."
+"Komiya Youko (talking)";"黙れ！　それだけのことをしてのけて、 よくもいけしゃあしゃあとっ！！";"Shut up!　How dare you!";"¡Cállate!　¡Cómo te atreves, después de todo lo que has hecho!"
+"Yamamoto Akuji (talking)";"あんなぁ、はっきり言っとくが、 俺が抱いてんのは由女だけじゃねぇぞ？
+ここに出入りしてる女のうち、 俺との関係を報酬として望んでるヤツは みんなヤってらー。";"Hey, let me make this clear. I'm not just having Yume.
+All the girls who come in and out of here, who want to have a relationship with me as a reward, I'm having sex with them.";"Que quede claro, no sólo me gusta Yume.
+Todas las mujeres que entran y salen de aquí que quieren tener relaciones conmigo como recompensa, me acuesto con ellas."
+"Komiya Youko (talking)";"由女が貴様との関係を 望んでいるものかっ！";"Yume wants to be in a relationship with you!";"¿Qué quiere Yume contigo?"
+"Yamamoto Akuji (talking)";"望んでっから、 俺みたいなヤツの言うことを ハイハイって聞いてんだろ？";"You listen to guys like me because you want to, don't you?";"Escuchas a tipos como yo porque quieres, ¿no?"
+"Komiya Youko (talking)";"…………っ、く……！";"………… and ……!";"¡…………, ku ……!"
+"Yamamoto Akuji (talking)";"……おっと、愛や恋と セックスを一緒にすんなよ？
+堅っ苦しく考えんなよ、古宮。 人間、欲を満足させてくれるヤツには 従うもんだろ。
+同じ女の知り合いがよ、 どの男とセックスしてようが自由だろ。 おめーが気にする筋合いか？
+ ……ま、由女はちと普通と違うけどな。";"…… Oops, don't mix love and romance with sex, okay?
+Don't be so uptight, Komiya. People follow the one who satisfies their desires, right?
+You're free to have sex with whomever you want. You care about that?…… Well, Yume is a little different from the norm.";"…… Oops, ¿no mezclas amor, romance y sexo?
+No seas tan tenso, Komiya. La gente sigue al tipo que satisface sus deseos, ¿verdad?
+Depende de ti con qué hombres se acuestan tus conocidas. ¿Te importa eso?…… Bueno, Yume es un poco diferente a la norma."
+"Komiya Youko (talking)";"由女は特別なんだっ！ 貴様の基準で簡単に片付けるな！";"Yume is special! Don't simply put it away according to your standards!";"¡Yume es especial! No se limite a dejarlo de lado según sus criterios."
+"Yamamoto Akuji (talking)";"なんだそりゃ。 てめーの信じる教祖様だからか？
+ははん、それとも レズの相手でらぶらぶな恋人だとか──";"What's that? Is it because he's a guru you believe in?
+Or is it because she's a lesbian and you're her lover?";"¿Qué demonios es eso? ¿Es porque es una gurú en la que crees?
+ ¿O es porque está con una lesbiana y tú eres su amante?"
+"narrator";"　　［──ぱあんっ！］";"［Pow!]";"［Pow!]"
+"Komiya Youko (talking)";"……黙れ、貴様っ……";"……Shut up, you! ……";"…… ¡Cállate! ……"
+"Yamamoto Akuji (talking)";"ほー……いきなり人の頬叩くかよ。
+なるほどね、そういう訳か。 こっちは冗談のつもりだったんだがな。";"Ho…… you suddenly slap someone on the cheek?
+I see. That's why. I thought it was a joke.";"¿Ho…… de repente abofetea a alguien en la mejilla?
+Ya veo, así que es por eso. Pensé que era una broma."
+"narrator";"──そう言い終わらぬ内に、 悪司の目つきががらりと変わる。
+手加減など一切なく、陽子の腕を掴んで捻り上げ、 躰の自由を完全に封じ込めた。";"─ ─ Before he could finish saying that, Akuji's eyes changed drastically.
+Without any restraint, he grabbed Youko's arm and twisted it up, completely sealing off her body.";"─ ─ Antes de que terminara de decir eso, los ojos de Akuji cambiaron drásticamente.
+Sin ningún esfuerzo, agarró el brazo de Youko y lo retorció hacia arriba, sellando completamente la libertad de su cuerpo."
+"Komiya Youko (talking)";"……ぐ……う、うああっ……！";"……gu…… ugh, ugh ……!";"¡……gu…… u, ah……!"
+"Yamamoto Akuji (talking)";"だいたいなぁ、 由女の気持ちがわかんねぇから こんな真似するんだよ、おめーは。
+ ……一回、徹底的にイッてみろ。 手加減無し、小細工無しで 俺の本気をくれてやる。
+そーすりゃ、俺の言うことが解らあ。";"You don't know how Yume feels, that's why you're doing this.…… Come on once, thoroughly. I'll give you my true feelings, without any restraint or tricks.
+Then you'll understand what I'm saying.";"No sabes cómo se siente Yume, por eso haces esto.…… Ven una vez, a fondo. Te daré mis verdaderos sentimientos, sin tapujos, sin trucos.
+Entonces entenderás lo que digo."
+"narrator";"そして悪司は、抵抗し続ける陽子を 力尽くで抑え込み、自室へと連れ込んだ──";"Akuji then restrained Youko, who continued to resist, with all his might, and took her into his room…";"Akuji utilizó entonces toda su fuerza para sujetar a Youko, que seguía resistiéndose, y la llevó a su habitación…"
+"narrator";"陽子の躰は、悪司に逆らえなかった。";"The body of Youko could not resist Akuji.";"El cuerpo de Youko no pudo desafiar a Akuji."
+"narrator";"そして──数時間後。
+茫然自失の陽子は、悪司の放った精と 自らの淫水でぐずぐずになった秘裂もそのままに、 ベッドの上で荒い息を繰り返していた。
+そこに、既に着替えを済ませた悪司が 陽子の着物とタオルを掴んで放り投げる。";"And then… a few hours later.
+Stupefied, Youko was breathing heavily on the bed, with her secret opening soggy from the sperm released by Akuji and her own lewd water still intact.
+There, Akuji, who had already changed her clothes, grabbed Youko's kimono and towel and tossed them to her.";"Y entonces… unas horas después.
+Aturdida, Youko respiraba repetidamente con dificultad sobre la cama, con su hendidura secreta empapada por el esperma liberado por Akuji y su propia agua lasciva aún intacta.
+Allí, Akuji, que ya se había cambiado de ropa, cogió el kimono y la toalla de Youko y se los echó por encima."
+"Yamamoto Akuji (talking)";"いつまでもヘバってないで、 ぼちぼち着替えたらどーだ。";"Why don't you change your clothes soon?";"No te quedes con la ropa puesta para siempre."
+"Komiya Youko (talking)";"………ぅ、ぁ………";"………oo, ah………";"………oo, ah………"
+"Yamamoto Akuji (talking)";"…………声も出ねーか。
+だがまあ、これで解ったろ。 最後はてめーだって、 俺に脚絡ませてきただろ？
+ただ、由女はちいっとだけ おめーより意志が弱いかもしれん。 だから拒めないのかもな。
+ ……おっと、 だからって、由女を責めんなよ。
+何度も言うが、こいつは仕事だ。 働いた部下に給料やるのと同じだ。 それ以上でもそれ以下でもねぇ。
+惚れた腫れたなんざ俺は要らん。 由女と好き合ってんなら勝手にしろ。
+俺の下できっちり働いてる限りは、 生活はきっちり保証してやる。
+ ……で、俺の下に居る以上は 俺のやり方に口出すんじゃねぇ。
+解ったな。";"………… can't even speak up, can you?
+But now you know what I'm talking about. You even got your legs in a knot with me at the end, didn't you?
+Only Yume might be a little less strong-willed than you. Maybe that's why he can't refuse.…… Oh, but don't blame Yume for that.
+I've said it many times, he's a job. It's the same as giving a salary to a subordinate who worked. Nothing more, nothing less.
+I don't need to be in love with him. If you're in love with Yume, go ahead.
+As long as you're working for me, I'll guarantee you a good life.
+As long as you work for me at ……, don't interfere with my ways.
+Understood?";"………… Ni siquiera puedes hablar.
+Pero, bueno, ahora ya lo sabes. Hasta a ti se te anudaron las piernas conmigo al final, ¿no?
+Sólo que Yume podría ser un poco más débil de voluntad que tú. Tal vez por eso no puede negarse.…… Oops, no culpes a Yume por eso.
+Lo he dicho muchas veces, es un trabajo. Es como dar un sueldo a un subordinado que ha trabajado. Nada más y nada menos.
+No necesito lo del amor y la hinchazón. Si estás enamorado de Yume, haz lo que quieras.
+Mientras trabajes para mí correctamente, te garantizaré una buena vida.
+Mientras trabajes para mí en ……, no interfieras en mis costumbres.
+ ¿Entendido?"
+"narrator";"──そして、悪司は部屋を出た。
+一人きりになった部屋の中、陽子はのろのろと 躰を動かし、少しずつ着物をまとっていく。";"Then Akuji left the room.
+In the room alone, Youko moved her body lazily and put on the kimono little by little.";"─ ─ Y entonces Akuji salió de la habitación.
+En la habitación, sola, Youko movía su cuerpo perezosamente y se ponía el kimono poco a poco."
+"Komiya Youko (talking)";"………………
+ ……う、っ…… うう…………
+ …………ううっ…………";"…………………… uu, uu…… uu …………………… uu…………";"…………………… uu, uu…… uu…………………… uu,uu…………"
+"narrator";"惨めで無力な自分に、陽子は涙する。 ──血の滲むほど、唇を噛み締めて。";"Youko weeps at her miserable, helpless self. Youko bites her lip so hard that it bleeds.";"Youko llora a su miserable e indefenso ser. ─ ─ Morderse el labio con tanta fuerza que le sangre."
+" (talking)";"俺の部屋に行くぞ。";"We're going to my room.";"Vamos a mi habitación."
+" (talking)";"……何をする気だ。";"…… what are you going to do.";"…… ¿Qué estás haciendo?"
+" (talking)";"働きに対する報酬をくれてやろう。";"Let me give you a reward for your work.";"Dame una recompensa por mi trabajo."
+" (talking)";"報酬ならここで渡してくれ。 わざわざ貴様の部屋へ行く必要が どこにある。";"If it's a reward, give it here. Why should I go all the way to your room?";"Si se trata de una recompensa, désela aquí. ¿Por qué tengo que ir hasta tu habitación?"
+" (talking)";"気持ちいい思いをしたくないのか？";"Don't you want to feel good?";"¿No quieres sentirte bien?"
+" (talking)";"…………貴様、 言っていて恥ずかしくないのか？";"………… You are not ashamed to say it, are you?";"………… Tú, ¿no te da vergüenza decirlo?"
+" (talking)";"………………";"………………";"………………"
+" (talking)";"まさかとは思うが、貴様、 捕虜だけでは飽きたらずに 団員の女たちにまで……";"I don't believe it, but you're not satisfied with just prisoners of war, but you're also trying to get the women of the group to ……";"Pero no se conforman con los prisioneros de guerra, sino que han decidido llegar hasta las mujeres de la Orden……"
+" (talking)";"…………んなわきゃねぇだろ。 冗談だ、冗談。";"You can't be …………. Just kidding, just kidding.";"………… ¿Cómo diablos puede ser eso? Estoy bromeando, estoy bromeando."
+" (talking)";"……全く、下品な冗談だ。";"……Totally, it's a crude joke.";"…… Es una broma totalmente vil."
+"__system__??";"{☆由女／イハビーラ = 0:";"";""
+" (thinking)";"…………ま、そっか。 こいつは別に抱く必要ねぇもんな。
+由女が奉仕青年団に居る限り、 裏切るってこともないだろうし…
+ま、その代わり由女とはヤりまくって しっかり繋ぎ止めておかなきゃ なんないけどな。";"………… Well, that's right. He doesn't need to be held.
+As long as Yume is in the Youth Service League, he won't betray us…
+But instead, we have to fuck around with Yume and hold on to her tightly.";"………… Bueno, así es. No necesita ser retenido por separado.
+Mientras Yume esté en la Liga de Servicio Juvenil, no nos traicionará…
+Pero en lugar de eso, tienes que joder con Yume y agarrarte a ella con fuerza."
+"__system__??";"}";"";""
+" (talking)";"ほれ、特別ボーナス。";"See, special bonus.";"Ves, bonos especiales."
+"narrator";"言って、悪司は札束の入った封筒を 陽子の前に置いた。";"Saying this, Akuji placed an envelope containing a wad of bills in front of Youko.";"Al decir esto, Akuji colocó un sobre con un fajo de billetes delante de Youko."
+" (talking)";"……これほどの金額を貰うような仕事、 私はした憶えはないが？";"…… I don't recall ever having a job where I was paid this much money.";"…… No recuerdo haber tenido nunca un trabajo en el que me pagaran tanto dinero…"
+" (talking)";"まあ、ボーナスだと思え。 今後もバリバリ働いてくれや。";"Well, consider it a bonus. Keep up the good work.";"Bueno, considérelo una bonificación. Sigue trabajando duro en el futuro."
+" (talking)";"……そうか、なら頂いておく。";"…… Well, I'll take it.";"…… Bueno, lo tomaré entonces."
+" (talking)";"……………… そんだけか？";"……………… That's all you got?";"……………… ¿Eso es todo?"
+" (talking)";"私に何を期待してるんだ？";"What do you expect me to do?";"¿Qué esperas de mí?"
+" (talking)";"いや、素っ気ないなーと思ってよ。";"No, I just thought it was bare bones.";"No, sólo me pareció que era poco."
+" (talking)";"貴様に媚びなど売るつもりはない。";"I have no intention of flattering you.";"No tengo intención de adularte."
+" (talking)";"あっそ。";"Oh, yeah.";"Ah, sí."
+"__system__??";"{☆由女／イハビーラ = 1:";"";""
+" (thinking)";"んー…… 調教の館に送り込みたい とこなんだが……
+ストレートに行けっつっても、 こいつの性格だと多分暴れるよなー……
+由女さえ居ればなー、 うまく利用して丸め込む手が いくつか思いつくんだが……
+ …………やめとくか。 何かと鬱陶しいし、 このまんま働かせとこう。";"I'm about to send him to the training hall ……
+Even if I told him to go straight, he'd probably go ballistic with his personality……
+If only Yume were here, I can think of a few ways to use him and round him up……
+I'll stop …………. I'll just let him work.";"Estoy a punto de enviarlo al centro de formación……
+Incluso si le dijera que fuera recto, probablemente se pondría furioso con su personalidad……
+Si sólo Yume estuviera aquí, podría pensar en algunas formas de utilizarlo para acorralarlo……
+Voy a dejar de …………. Lo dejaré trabajar."
+"__system__??";"}";"";""
+" (talking)";"ちーとついてきてくれや。";"Follow me, please.";"Sígueme, por favor."
+" (talking)";"……どこへ行く気だ？";"…… Where are you going?";"…… ¿A dónde vas?"
+" (talking)";"着いてから説明する。";"I'll explain when we get there.";"Te lo explicaré cuando lleguemos."
+" (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"さ、ここだ。入ってこい。";"Here we are. Come on in.";"Bueno, aquí estamos. Entra."
+"Komiya Youko (talking)";"…………何の施設だ、ここは……
+私に……何をさせるつもりだ？";"What kind of………… facility is this, this is ……
+What do you want me to…… do?";"………… qué instalación, qué es este lugar ……
+ ¿Qué quieres que haga ……?"
+"Yamamoto Akuji (talking)";"大したことじゃねぇさ。 ……おーい、タマネギ。";"It's no big deal…… Hey, Tamanegi.";"No es gran cosa…… Hey, Tamanegi."
+"Tamanegi (talking)";"おや、これは若。";"Oh, this is young.";"Oh, esto es joven."
+"Komiya Youko (talking)";"……何だ、この男……";"……What the hell, this guy ……";"…… Qué demonios, este tipo: ……"
+"Yamamoto Akuji (talking)";"実はな…… ……ひそひそぼそぼそ…… という女なんだが、頼めるか？";"Actually, I'm a woman named…… …… whispering whispering whispering ……, can you help me out?";"En realidad,…… …… es una mujer llamada Whispering Whispering ……, ¿puede ayudarme?"
+"Tamanegi (talking)";"それはいい……
+たとえ聖女と呼ばれようと、 これだけ美しい女性なら 下々の憧れは強かったことでしょう。
+そういう人々には、 例えよく似ている別人だと言っても 高く売れる筈です。";"That's good ……
+Even if she was called a saint, a woman as beautiful as she is would have been highly admired by the people below.
+Even if she was a different person who looked very much like her, she would have sold well to such people.";"Eso es bueno ……
+Aunque la llamaran santa, una mujer tan bella como ella habría sido muy codiciada por sus sirvientes.
+Para esa gente, aunque fuera una persona diferente que se pareciera mucho a ellos, se habría vendido por mucho."
+"Komiya Youko (talking)";"………………
+まさか、娼館なのか？　ここは……";"………………
+No way, is it a whorehouse?　This place is ……";"………………
+De ninguna manera, ¿es un burdel?　Este lugar es ……"
+"Yamamoto Akuji (talking)";"おー、よく解ったな。ご名答だ。
+今日から奉仕青年団の構成員じゃなく、 娼婦になって躰で稼いでくれ。 よろしくな。";"Oh, you've got it all figured out. You've got a good answer.
+From now on, you will not be a member of the Youth Service League, but a prostitute, and you will earn your living from your body. Good luck.";"Oh, lo tienes todo resuelto. Esa es una buena respuesta.
+A partir de hoy, no serás miembro del Cuerpo de Servicio Juvenil, sino que te prostituirás y ganarás dinero con tu cuerpo. Estoy deseando trabajar con usted."
+"Komiya Youko (talking)";"ばっ……馬鹿な！ 正気なのか山本悪司！";"Bak……Are you nuts! Are you insaneYamamoto Akuji!";"Baka……¡Eres un estúpido! ¿Estás locoYamamoto Akuji?"
+"Yamamoto Akuji (talking)";"正気だぜ、当然。 由女の身が惜しけりゃ頑張って働け。";"I'm sane, of course. Work hard if you want to spare Yume's life.";"Estoy cuerdo, por supuesto. Trabaja duro si quieres salvar la vida de Yume."
+"Komiya Youko (talking)";"由女を盾に脅す気か、貴様っ……";"You're threatening Yume with Tate, you ……";"Estás amenazando a Yume con Tate, tú ……"
+"Yamamoto Akuji (talking)";"あー、そりゃ違うぜ。 そういう意味で言ったんじゃねぇ。
+組織の中で、由女一人を特別扱いして 無事を保証すんのは難しいんだよ。 手間もそうだが金がかかる。
+特に、護衛や警備につけてる連中の 人件費がかさむ訳だ。";"Oh, that's not right. That's not what I meant.
+It's difficult to guarantee the safety of one person in an organization by giving special treatment to Yume. It takes time and money.
+Especially, the labor cost of those who are assigned to escort and guard is high.";"Oh, eso no está bien. No es eso lo que quería decir.
+Es difícil garantizar la seguridad de una persona en una organización señalando a Yume. Se necesita tiempo y dinero.
+En particular, los costes laborales de las personas asignadas a la escolta y la seguridad son elevados."
+"Komiya Youko (talking)";"……言うことは、解るが……";"I know what…… says, but ……";"…… Entiendo lo que dices, pero ……"
+"Yamamoto Akuji (talking)";"お、解ってくれるか。";"Oh, you understand.";"Oh, lo entiendes."
+"Yamamoto Akuji (thinking)";"……半分以上は適当な嘘だけどな。";"More than half of…… are proper lies, though.";"…… Aunque más de la mitad son verdaderas mentiras."
+"Yamamoto Akuji (talking)";"つーわけで、苦渋の末の判断なんだよ。 なんとか自力で稼いでくれ。";"So, it's a hard decision. You'll have to earn it on your own somehow.";"Así que es una decisión difícil. Tienes que ganar tu propio dinero de alguna manera."
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"心配すんな、 由女とはプライベートで会えや。
+この娼館は、タマネギの指示で 娼婦のプライバシーはバッチリ守ってる。
+つまり、だ。 お前が黙ってりゃ済むことだ。";"Don't worry, you can meet Yume in private.
+This whorehouse, under the direction of Tamanegi, protects the privacy of its prostitutes.
+In other words. All you have to do is keep your mouth shut.";"No te preocupes, puedes conocer a Yume en privado.
+Este prostíbulo, bajo la dirección de Tamanegi, protege la privacidad de sus prostitutas.
+En otras palabras. Todo lo que tienes que hacer es mantener la boca cerrada."
+"Komiya Youko (talking)";"確かに私は、 由女の無事を保証するなら 何でもするとは言ったが……
+ ………………
+貴様の言葉、偽りではないな？";"I did say that I would do anything to ensure Yume's safety ……
+ ………………
+Your words are not false, are they?";"Dije que haría cualquier cosa para garantizar la seguridad de Yume……
+ ………………
+Tus palabras, no son falsas, ¿verdad?"
+"Yamamoto Akuji (talking)";"プライバシーか？";"Privacy?";"¿Privacidad?"
+"Komiya Youko (talking)";"違う、由女に関する保証だ。";"No, it's a guarantee regarding Yume.";"No. Garantía en Yume."
+"Yamamoto Akuji (talking)";"おう、当然。";"Oh, of course.";"Oh, por supuesto."
+"Komiya Youko (talking)";"…………解った、 貴様の言う通りにしよう……";"………… Okay, I'll do as you say: ……";"………… De acuerdo, haré lo que dices: ……"
+"narrator";"──こうして、古宮陽子は娼婦になった。";"─ ─ Thus, Komiya Youko became a prostitute.";"─ ─ Así, Komiya Youko se convirtió en prostituta."
+"Yamamoto Akuji (talking)";"……いよお、 大人しくしてっか？　聖女様。";"…… Hey yo, you want to be a big girl?　Saint.";"…… Yo yo, ¿vas a ser una chica grande?　Santo."
+"Komiya Youko (talking)";"……！　貴様っ……";"……!　You! ……";"¡……!　¡Tú! ……"
+"Yamamoto Akuji (talking)";"おっと、暴れるだけ無駄だぞ。 おめーが痛い目見るだけだ、やめとけ。";"Oops, don't get violent. You'll only hurt yourself. Don't do it.";"Uy, no puedes arremeter así como así. Sólo te harás daño, no lo hagas."
+"Komiya Youko (talking)";"くっ……";"Kuku……";"Kuku……"
+"Yamamoto Akuji (talking)";"ふーん、なるほどな。 おめーがあの宗教の聖女様なんだな。
+何かこう、聖女ってよりは 女武道とか言う方がしっくりくんなあ。";"Hmmm, I see. So you are the saint of that religion.
+I think it would be more appropriate to call you a woman martial artist rather than a saint.";"Hmm, ya veo. Así que usted es el santo de esa religión.
+Prefiero que me llamen mujer artista marcial que santa, ¿tú no?"
+"Komiya Youko (talking)";"……貴様こそ、 奉仕青年団の頭目ではないのか？
+まさに典型的な悪人面だな。 見ていて吐き気がする……！";"…… Are you not the head of the Service Youth League?
+You are just a typical bad guy face. It makes me want to vomit to look at you ……!";"…… ¿No es usted el jefe de la Liga Juvenil de Servicio?
+Eres la típica cara de malo. Me da náuseas mirarte. ¡……!"
+"Yamamoto Akuji (talking)";"だろーな、実は俺も毎朝、 顔洗う度にゲーゲー吐いてんだよ。";"I know, I actually throw up every morning every time I wash my face.";"Lo sé, de hecho vomito cada mañana, cada vez que me lavo la cara."
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"しっかし、 割と整った綺麗な顔してるくせによ、 そーいう言葉遣い似合わねぇぞ。";"But, even though you have a relatively well-shaped and beautiful face, that kind of language doesn't suit you.";"Pero tienes una cara bonita, y ese tipo de lenguaje no te conviene."
+"Komiya Youko (talking)";"貴様に選ぶ言葉などあるかっ ……クソ外道！";"You don't get to choose the words you want to use…… Fuck you!";"No tienes palabras para elegir…… ¡Maldito paria!"
+"Yamamoto Akuji (talking)";"……おー、こわ。";"…… Oh, scary.";"…… Oh, qué miedo."
+"__system__??";"{☆那古Ａ = 3:";"";""
+"Yamamoto Akuji (talking)";"まあ、てめーんとこの教団が潰れて 苛立つ気持ちも分かるけどな。";"Well, I can understand your frustration at the collapse of your cult.";"Bueno, puedo entender tu frustración por el hundimiento de tu secta."
+"Komiya Youko (talking)";"…………何……？";"………… HO ……?";"………… HO ……?"
+"Yamamoto Akuji (talking)";"ん、あそっか、まだ言ってなかったな。
+要するに俺が勝ったんだよ。 もうてめーんとこの組織力は ゼロに等しいぜ。";"Hmm, oh I see, I haven't told you yet.
+The point is, I won. Your company's organizational strength is now zero.";"Hmm, oh, ya veo, no te lo he dicho todavía.
+La cuestión es que he ganado. La fuerza de su organización es ahora cero."
+"Komiya Youko (talking)";"……っ、く…………";"…… and …………";"…… y …………"
+"Yamamoto Akuji (talking)";"ところが、問題は教祖様でな。
+一度は捕まえたんだが、 この捕虜部屋へ送る最中に 誰かの手引きで逃げられてよ。
+八方手を尽くして探したんだが、 どうにもこうにも見つからねえ。
+かくまった場所の心当たり、あんだろ？ スパッと言ってくれると ヒジョーに大助かりなんだが。";"But the problem was Oyasama.
+We caught her once, but while we were taking her to the POW room, she escaped with the help of someone.
+I've tried everything to find her, but I can't find her.
+Do you have any idea where they're being held? It would be a great help to me if you could tell me right away.";"Pero el problema era Oyasama.
+La atrapamos una vez, pero mientras la llevábamos a esta sala de prisioneros, se escapó con la ayuda de otra persona.
+He intentado todo para encontrarla, pero no puedo encontrarla.
+ ¿Tienes idea de dónde se esconden? Sería de gran ayuda que me lo dijeras."
+"Komiya Youko (talking)";"……くくくっ……馬鹿か貴様は。 たとえ知っていても言うと思うのか？";"You think I would tell you even if I knew?";"¿Crees que te lo diría aunque lo supiera?"
+"Yamamoto Akuji (talking)";"いや、全然。";"No, not at all.";"No, en absoluto."
+"Komiya Youko (talking)";"なら、聞くな。";"Then don't ask.";"Entonces no preguntes."
+"Yamamoto Akuji (talking)";"そーもいかねぇんだよ、 いろいろ事情があってよ。";"It doesn't work like that. There are various reasons.";"No funciona así, hay mucho que hacer."
+"Komiya Youko (talking)";"貴様の事情など知ったことではない！";"I don't give a damn about your situation!";"¡Me importa un bledo tu situación!"
+"Yamamoto Akuji (talking)";"……おーこわ、おーーーこわ。";"";"…… Oooooooooooooooooooooooooooo."
+"__system__??";"}";"";""
+"__system__??";"{(☆那古Ａ < 3) * (☆陽子捕虜 < 5) + (☆那古Ａ = 4):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(☆那古Ａ < 3) * (☆陽子捕虜 > 4):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(☆那古Ａ > 2) * (☆那古Ａ = 3) * (☆陽子捕虜 \ 10):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(☆那古Ａ > 2) * (☆那古Ａ = 3) * (☆陽子捕虜 = 10):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(☆那古Ａ = 5) * (☆イハビーラ命令 = 10) * (☆陽子捕虜 \ 15):";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆陽子捕虜 = 15:";"";""
+"__system__??";"}";"";""
+"narrator";"陽子汎用すっぽぬけ。 これ出たら上田まで報告頼みます。";"Youko generic shippo. Please report to Ueda if you get this.";"Youko Cargadores de uso general. Si lo consigues, por favor informa a Ueda."
+"Yamamoto Akuji (talking)";"よお、凛々しいねーちゃん。 元気か？";"Hey there, dignified onee-chan. How are you?";"Yo, digno hey. ¿Cómo te va?"
+"Komiya Youko (talking)";"……何の用だ。";"……What's the deal?";"…… ¿Qué quieres?"
+"Yamamoto Akuji (talking)";"ずいぶんな態度だなー。 ま、話しでもしようや。";"That's quite an attitude. Well, let's talk about it.";"Esa es una buena actitud. Bueno, vamos a tener una charla."
+"Komiya Youko (talking)";"貴様と話すことなど何もない。";"I have nothing to say to you.";"No tengo nada que decirte."
+"Yamamoto Akuji (talking)";"おめーになくても俺にはあんだよ。";"If you don't have it, I do.";"Si no lo tienes, yo sí."
+"Yamamoto Akuji (talking)";"よお、聖女のねーちゃん。 ちょいと話しようぜ。";"Hey there, saint girl. Let's have a little chat.";"Oye, chica santa. Vamos a tener una pequeña charla."
+"Komiya Youko (talking)";"貴様と話すことなど何もない。 ……何度も言わせるなっ！";"I have nothing to say to you…… Don't make me say it again!";"No tengo nada que decirte…… ¡No me hagas repetirlo una y otra vez!"
+"Yamamoto Akuji (thinking)";"……ちっ、こうも頑なだと どうしようもねえな……
+何とか教祖を押さえるまでは 会話すら成立しそうにないぜ……";"……Crap, I can't help it if you're this stubborn……
+I don't think we can even have a conversation until we somehow get a hold of the guru……";"…… Maldita sea, no puedo evitar que seas así de terco……
+Creo que ni siquiera vamos a tener una conversación hasta que consigamos hacernos con el gurú……"
+"Yamamoto Akuji (talking)";"よお、那古教の凛々しいねーちゃん。";"Yo, Nakokyou's dignified nee-chan.";"Yo, Nakokyou digna nee-chan."
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"シカトすんなよ。 今日はどーしても話さなきゃ なんない事があんだから。
+実はな、俺の奉仕青年団が ようやくてめーんとこの組織を 潰してな。";"Don't be shy. There's something I have to tell you today.
+Actually, my youth league finally took down your organization.";"No seas tímido. Hay algo que tengo que decirte hoy.
+En realidad, mi Cuerpo de Servicio a la Juventud acabó con su organización."
+"Komiya Youko (talking)";"……っ、な…………？";"…… or …………?";"……, na …………?"
+"Yamamoto Akuji (talking)";"ところが、問題は教祖様でなー。
+一度は捕まえたんだが、 この捕虜部屋へ送る最中に 誰かの手引きで逃げられてよ。
+八方手を尽くして探したんだが、 どうにもこうにも見つからねえ。
+匿った場所の心当たり、あんだろ？ 素直にゲロしてくれると ヒジョーに大助かりなんだが。";"But the problem was Oyasama.
+We caught her once, but while we were taking her to the POW room, she escaped with the help of someone.
+I tried everything to find her, but I couldn't find her at all.
+Do you have any idea where you hid him? It would be a great help to me if you could just tell me where you hid him.";"Pero el problema era Oyasama.
+La atrapamos una vez, pero mientras la llevábamos a esta sala de prisioneros de guerra, se escapó con la ayuda de otra persona.
+He intentado todo para encontrarla, pero no puedo encontrarla.
+ ¿Tienes idea de dónde lo escondiste? Me sería de gran ayuda que me lo dijeras."
+"Komiya Youko (talking)";"……馬鹿か貴様は。 たとえ知っていても言うと思うか？";"…… Are you an idiot? You think I would tell you even if I knew?";"…… ¿Eres idiota? ¿Crees que te lo diría aunque lo supiera?"
+"Yamamoto Akuji (talking)";"いや、ぜーんぜん。";"No, zilch.";"No, nada."
+"Komiya Youko (talking)";"なら、無駄なことを言うな。";"Then don't waste your time.";"Entonces no pierdas el tiempo."
+"Yamamoto Akuji (talking)";"人生の真理は 無駄の中にこそあるんだぞ？
+ …………と、事務所に張ってある 人生訓カレンダーに書いてあった。";"You know, the truth of life is in the futility of it all, right?………… and a calendar of life lessons posted in my office.";"La verdad de la vida está en la inutilidad, ¿sabes?………… y en el calendario de lecciones de vida que está colgado en mi despacho."
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (thinking)";"……つっても喋らんわな。 カレンダーの嘘つきめ。";"I'm not going to talk when I say ……. You're a calendar liar.";"No hablaré si vas a ……. Eres un mentiroso de calendario."
+"Yamamoto Akuji (talking)";"なあ、凛々しいねーちゃん。 教祖の居場所、吐いてくんねーか？";"Hey, dignified lady. Can you tell me where Oyasama is?";"Hola, digna dama. ¿Puede decirme dónde está Oyasama?"
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"やれやれ、しゃあねーな……";"Oh dear, that's a shoo-in: ……";"Oh, vaya, esto es un desastre……"
+"Yamamoto Akuji (talking)";"よお、凛々しいねーちゃん。 今日はいい話があるぜ。";"Hey there, dignified girl. I've got some good news for you today.";"Hola, digna dama. Hoy tengo buenas noticias para ti."
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"実はな、ついにおめーんとこの 教祖を捕まえたんだよ。";"As a matter of fact, we finally caught your guru.";"En realidad, finalmente atrapamos a tu gurú."
+"Komiya Youko (talking)";"……嘘が下手だな、貴様。";"…… You're a terrible liar, you.";"…… Eres un mal mentiroso."
+"Yamamoto Akuji (talking)";"嘘だと思うか？
+今、教祖もこの地下室に放り込んでる。 声くらいなら聞かせてやるぜ？";"You think I'm lying?
+Now they're throwing Oyasama in this basement, too. I'll at least let you hear her voice, huh?";"¿Crees que estoy mintiendo?
+Ahora también echan al gurú en este sótano. Al menos podía escuchar su voz, ¿sabes?"
+"Komiya Youko (talking)";"………………
+ほ、本当なのか…………";"………………
+Ho, it's true: …………";"………………
+Ho, es cierto: …………"
+"Yamamoto Akuji (talking)";"残念ながらマジのマジでーす。";"Unfortunately, I'm serious.";"Desgraciadamente, es de verdad, de verdad."
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"これでまあ、 おめーを生かしておく必要も なくなった訳だが……
+ま、そりゃ教祖も一緒か。";"Now, well, there is no need to keep you alive……
+Well, that's the same for Oyasama, isn't it?";"Ahora, bueno, no hay necesidad de mantenerte vivo……
+Bueno, eso es lo mismo para el gurú, ¿no?"
+"Komiya Youko (talking)";"な……何よ、 由女に何をする気！？
+お願い、あの子には手を出さないで、 私はどうなっても構わないからっ……";"What are you…… doing to Yume?
+Please, leave her alone, I don't care what happens to me……";"¿Qué…… estás haciendo a Yume?
+Por favor, déjala en paz, no me importa lo que me pase……"
+"Yamamoto Akuji (talking)";"ほ。 そんな女らしい口がきけるんだな。 声音まで別人みたいだぜ。
+そんな態度でお願いするほど、 教祖抑えりゃ余裕ナシって訳だ。 ケッコーケッコー。";"Ho. You can talk like a woman. Even your voice sounds like a different person.
+I guess Oyasama can't afford to be so demeaning.";"Ho. Puedes hablar como una mujer así. Incluso tu voz suena como una persona diferente.
+Supongo que Oyasama no puede permitirse el lujo de ser tan denigrante. Kekko-kekko-kekko."
+"Komiya Youko (talking)";"……っ……";"…………";"…………"
+"Yamamoto Akuji (talking)";"よお、凛々しいねーちゃん。";"Yo, dignified nee-chan.";"Yo, digna nee-chan."
+"Komiya Youko (talking)";"……教えろ………… 由女は……由女は無事なのか？";"Tell me…… ………… Yume is…… Yume safe?";"Dile a…… ………… Yume ¿es…… Yume seguro?"
+"Yamamoto Akuji (talking)";"さあな。 おめーの態度次第なんじゃねえか？";"I don't know. Depends on your attitude, doesn't it?";"No lo sé. Depende de tu actitud, ¿no?"
+"Komiya Youko (talking)";"………………くっ……";"……………………";"……………………"
+"Hikage Mitsuko (talking)";"……あの…… 悪司さん…………";"…… that…… Akuji …………";"…… que…… Akuji …………"
+"Yamamoto Akuji (talking)";"？　どうかしたかい、日陰さん。";"What's wrong, Mr. Hikage?　What's wrong, Mr. Hikage?";"?　Qué pasa, Hikage."
+"Hikage Mitsuko (talking)";"実は……次の捕虜さん…… 古宮陽子さん……ですけど…………
+昨晩……舌を噛み切って ……死んでしまって…………";"Actually,…… the next POW…… Komiya Youko, but… ………
+Last night…… I bit my tongue out…… and died …………";"De hecho,…… el próximo POW…… Komiya Youko…… pero… ………
+Anoche…… me mordí la lengua…… y morí …………"
+"Yamamoto Akuji (talking)";"……なぬーーーー？";"…… noooooo?";"…… ¿Nanoooooo?"
+"Hikage Mitsuko (talking)";"那古教の……教祖さんのこと、 どこかで、聞いたらしくて……
+他の、捕虜さんとか…… チンピラさんとか……の、雑談を…… …………多分……
+それで…… ごめん、とか……許して、とか…… 昨日、ずっと……泣いてて……
+で……夜、静かに……なって、 泣き疲れて……寝たの……かと …………そう思ったら……";"He heard about…… guru of Nakokyou from somewhere ……
+I heard about other POWs and…… goons and…… chit-chat about…… ………… maybe ……
+So,…… sorry,…… forgive me,…… I was crying all…… yesterday……
+And then…… at night, it got quiet…… and I thought I was tired of crying…… and went to bed…… I thought………… so, and then I ……";"Oyó hablar de…… gurú de Nakokyou en algún lugar ……
+Otros, cautivos y…… matones y…… chit-chat sobre…… ………… tal vez ……
+Así que,…… lo siento, o…… perdóname, o…… estuve llorando todo…… ayer……
+Y entonces…… por la noche, se quedó en silencio…… y pensé que estaba cansado de llorar y…… se fue a la cama…… Pensé que………… así que ……"
+"Yamamoto Akuji (talking)";"……おっ死んでたってか。";"…… Oh, I heard you were dead.";"…… Oh, escuché que habías muerto."
+"Hikage Mitsuko (talking)";"…………あの…… 古宮さんの……亡骸…………";"………… that…… corpse of Komiya's ……";"………… que…… …… cadáver de Komiya…………"
+"Yamamoto Akuji (talking)";"別に見たくねーよ。 いつもの部下に連絡して 処理させといてくれ。";"I don't want to see it. Just call your regular guy and have him take care of it.";"Realmente no quiero verlo. Llama a tu chico de siempre y que se encargue él."
+"Hikage Mitsuko (talking)";"……はい…………";"…… yes …………";"…… sí …………"
+"Yamamoto Akuji (talking)";"………… 教祖が死んだら生きていられません、 ってか。
+ケッ、宗教ってのはこれだからよ……";"………… If the guru dies, he can't live, huh?
+Keh, that's what religion is all about……";"………… Si el gurú muere, no puede vivir, ¿eh?
+Keh, esto es lo que es la religión……"
+"Yamamoto Akuji (talking)";"しゃあねーな、 気の強い女は面倒だから嫌いなんだが…";"I don't like strong-willed women because they're a pain in the ass…";"No te culpo, no me gustan las mujeres de mentalidad fuerte, son un coñazo, pero…"
+"narrator";"言いながら、悪司は陽子の手を取って 軽く後ろ手に捻り上げ、躰の自由を奪う。";"While saying this, Akuji takes Youko's hand and twists it lightly behind her back, taking away her body's freedom.";"Mientras dice esto, Akuji coge la mano de Youko y la retuerce ligeramente por la espalda, quitándole la libertad al cuerpo."
+" (talking)";"……っつ…………！ な、何をする気だっ……";"What are you…… doing? What are you doing? ……";"……! …………! ¿Qué estás haciendo? ……"
+"Yamamoto Akuji (talking)";"ま、黙って歩け。";"Well, shut up and walk.";"Bueno, cállate y camina."
+"Yamamoto Akuji (talking)";"それ、入れ。";"That's it, get in.";"Eso, entra."
+"Komiya Youko (talking)";"な、何だ、ここは……";"Hey, what's this place ……";"Oye, qué es este lugar: ……"
+"Yamamoto Akuji (talking)";"天国に通じる部屋さ。";"It's a room that leads to heaven.";"Es una habitación que lleva al cielo."
+"narrator";"言って、悪司は背後から陽子に抱きつき、 いきなり愛撫をし始めた。";"Saying this, Akuji hugged Youko from behind and suddenly caressed her and Hajime.";"Diciendo esto, Akuji abrazó a Youko por detrás, la acarició de repente y Hajime."
+"Komiya Youko (talking)";"……っ！？　きっ、貴様何を……
+何……何を…… っ、く、っひぁ……っ！？";"……!　What are you ……
+What…… what…… what ……?";"¡……!　¿Qué es ……?
+ ¿Qué…… qué…… qué…… qué ……?"
+"Yamamoto Akuji (talking)";"お。感度はいい方だと見たぞ。";"Oh. I see you have good sensitivity.";"Oh. Veo que tienes buena sensibilidad."
+"Komiya Youko (talking)";"き、さ……貴様っ……！ その汚らわしい手を放せっ……！";"You, you, ……! Get your filthy hands off me!";"¡Tú, tú, ……! ¡Quita tus asquerosas manos de encima! ¡……!"
+"Yamamoto Akuji (talking)";"ま、そう毛嫌いすんなよ。 その汚い手でいい思いさせてやっから。";"Well, don't hate me so much. I'll let you have a good time with your dirty hands.";"Bueno, no seas tan peludo. Te haré pasar un buen rato con tus manos sucias."
+"narrator";"悪司は、本格的に陽子の躰をまさぐり始めた──";"Akuji began to grope Youko's body in earnest and Hajime…";"Akuji comenzó a manosear el cuerpo de Youko en serio y Hajime…"
+"narrator";"陽子は、悪司にこまされた。";"Youko is now Akuji.";"Youko fue Komedoed por Akuji."
+"narrator";"──どれほど時間が経っただろう。
+悪司は、様々な体位と性技を駆使して 陽子を犯し続けていた。
+ベッドの上は汗と淫水で濡れつくし、 陽子はもう、五度──いや、もっとだろうか、 悦楽の頂点を強いられ続けていた。
+だが、悪司自身はまだ一度も精を吐いていない。";"How much time had passed?
+Akuji continued to fuck Youko, using various positions and sexual techniques.
+The bed was drenched with sweat and water, and Youko had already been forced to the peak of pleasure five times - or perhaps more.
+However, Akuji herself had not yet cum even once.";"─ ─ ¿Cuánto tiempo ha pasado?
+Akuji siguió follando con Youko, utilizando varias posiciones y técnicas sexuales.
+La cama estaba empapada de sudor y agua de la guarra, y Youko ya había sido forzada hasta la cúspide del placer cinco veces… o quizás más.
+Sin embargo, la propia Akuji no se había corrido ni una sola vez."
+"Yamamoto Akuji (talking)";"……ぷー、どーだよねーちゃん。 女に生まれた悦びを満喫してるか？";"……Pooh, how's that, girl? Are you enjoying the joys of being born a woman?";"…… Pooh, ¿cómo estás? ¿Disfrutas de las alegrías de haber nacido mujer?"
+"Komiya Youko (talking)";"……ぜ、は……う、っ、は……";"…… ze, ha…… u, u, ha ……";"…… ze, ha…… u, ha ……"
+"Yamamoto Akuji (talking)";"声もなし、か？ どれ、額の汗でも拭いてやろうか。";"No voice, huh? Which, let me wipe the sweat off your forehead.";"Sin voz, ¿eh? Lo cual, déjame limpiar el sudor de tu frente."
+"Komiya Youko (talking)";"………………く、そっ…… この……けだもの…………っ……";"……………… damn it…… this…… beast …………";"………………, maldita sea…… esta…… bestias…………"
+"Yamamoto Akuji (talking)";"手足動かないくせに口は動くのな。 まだ屈服してません、ってか。
+ ……よっしゃ、もいっちょ行くか？";"You can't move your arms and legs, but you can move your mouth. You haven't given in yet, huh?…… Okay, let's go again, shall we?";"No puedes mover los brazos ni las piernas, pero puedes mover la boca. Todavía no has cedido, ¿eh?…… Bien, vamos de nuevo, ¿de acuerdo?"
+"Komiya Youko (talking)";"………………っあ…………！！";"………………っあ……… …!!!";"………………っあ……… ¡¡¡…!!!"
+"Yamamoto Akuji (talking)";"おうおう、綺麗なアソコが充血しきって ぐちゃぐちゃのズルズルだな。 擦り切れてんじゃないだろな？
+ま、それならそれでやりようはあらぁ。 そーら、指だけでも……";"Oh, my, your beautiful pussy is all bloodshot and soggy and slippery. You're not chafing, are you?
+Well, there's always a way. There you go, even if it's just a finger……";"Oh, oh, tu hermoso coño está todo ensangrentado y empapado y descuidado. No está rozado, ¿verdad?
+Bueno, siempre hay una manera de hacerlo. Ahí tienes, aunque sea un dedo……"
+"Komiya Youko (talking)";"………ぅ………";"………ぅ………";"……… Filipinas ………"
+"Yamamoto Akuji (talking)";"お……ツルッと入ったぜ。 締めてくる元気もナシか？";"Oh, ……, it's slipping in. No energy to go tighten it up?";"Oh…… me estoy colando. ¿No hay energía para ir a apretarlo?"
+"Komiya Youko (talking)";"………… もう…………
+もう、やめて…… ……許して…………";"No more………… No more …………
+Stop it already…… …… forgive me …………";"No más………… No más …………
+Basta ya…… …… Perdóname …………"
+"Yamamoto Akuji (talking)";"んだよ、演技か？ 女らしい声でお願いされても……";"What, are you acting? Even if you ask me to do it in a feminine voice: ……";"¿Qué, estás actuando? Incluso si me pides que lo haga con voz femenina: ……"
+"Komiya Youko (talking)";"………………う、っう…………
+ ……う、うっ………… ううっ……っく、う…………！";"……………… ugh, ugh……… ……… uu, uu………… uu, uu…… uu, uu… ………!";"……………… u, u……… ……… u, uu………… u, uu…… u, u… ¡………!"
+"Yamamoto Akuji (talking)";"……今度は泣き落としか？
+似合わねぇぞ、そんなの。 いかにも女の子でござい、って 泣き方はよ。";"…… Now you're crying wolf?
+That doesn't suit you. You should not cry like a girl.";"…… ¿Ahora estás gritando lobo?
+Eso no te conviene. Deberías llorar como una niña."
+"Komiya Youko (talking)";"ああっ……あああっ……！ うああああっ…………！！";"Ohhhhhh…… ohhhh ……! Aaaaahhhh…………!!!";"Ahhhh…… Ahhhh ……! ¡¡¡Aaaaahhhh…………!!!"
+"Yamamoto Akuji (talking)";"…………
+こりゃ、どう見ても本気泣きだな……
+つーか、まさか……そっちが地か？
+やべ、だとすりゃ責め方間違えたぜ… ちいっと優しくやるべきだったか？";"…………
+This is a real cry, no matter how you look at it: ……
+I mean, don't tell me…… you're the one on the ground?
+I'm sorry, if that's the case, I was wrong… should I have been a little gentler with her?";"…………
+Esto es un verdadero grito, se mire como se mire: ……
+Quiero decir, ¿no crees que…… es el suelo?
+No sé si debería haber sido más suave con él…"
+"narrator";"悪司の呟きなど、陽子に聞こえてはいない。 もうひたすら涙を流し続けている。";"Youko doesn't hear Akuji's mutterings. She is already shedding tears.";"Youko no escucha los murmullos de Akuji. Ya está derramando lágrimas."
+"Yamamoto Akuji (talking)";"………………
+今日はこのくらいにしとこう。";"………………
+That's enough for today.";"………………
+Es suficiente por hoy."
+"Yamamoto Akuji (talking)";"さて、ついてこいや。";"Now, follow me.";"Ahora, sígueme."
+"Komiya Youko (talking)";"……何をする気だ。";"…… what are you going to do.";"…… ¿Qué estás haciendo?"
+"Yamamoto Akuji (talking)";"決まってんだろ？";"It's obvious, isn't it?";"Es obvio, ¿no?"
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"そんな顔すんなよ。 優しくしてやっから。";"Don't make that face. I'll be nice to you.";"No pongas esa cara. Seré amable contigo."
+"narrator";"そして、陽子は悪司の部屋に連れ込まれて 結局はなすがままに犯されてしまう──";"Then Youko is taken to Akuji's room, where she is eventually raped at his mercy…";"Entonces Youko es llevada a la habitación de Akuji, donde finalmente es violada a su merced…"
+"narrator";"陽子は、悪司にこまされた。";"Youko is now Akuji.";"Youko fue Komedoed por Akuji."
+"Yamamoto Akuji (talking)";"……よお、起きてるか？ 気絶してんのか？";"…… Hey, you awake? Are you passed out?";"…… Oye, ¿estás despierto? ¿Te has desmayado?"
+"narrator";"悪司は、 ベッドの上でぐったりとなった陽子に話しかける。";"Akuji talks to Youko, who has gone limp on the bed.";"Akuji habla con Youko, que se ha quedado sin fuerzas en la cama."
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"かなり優しくしてやったんだ。 割と素直に感じられたハズだぜ？";"I was pretty gentle with her. I'm sure you could feel it, you know?";"Fui muy amable con ella. Estoy seguro de que podrías sentirlo bastante honestamente, ¿sabes?"
+"Komiya Youko (talking)";"何が…… 優しく、だ……
+こんなことで…… 私の心まで好きにできると思うな……";"What's…… gentle,……
+Don't think you can like my heart too…… by doing this……";"Lo que es…… suave, ……
+No creas que te puede gustar mi corazón por esto……"
+"Yamamoto Akuji (talking)";"やれやれ、元気なもんだ。";"Goodness, you are so energetic.";"Oh, querida, lo estás haciendo bien."
+"Yamamoto Akuji (talking)";"ほれ。";"See.";"Ver."
+"narrator";"悪司は陽子の目の前に札束を置いた。";"Akuji placed a wad of bills in front of Youko.";"Akuji colocó un fajo de billetes delante de Youko."
+"Komiya Youko (talking)";"……何のつもりだ。";"…… what are you trying to do.";"…… ¿Qué estás haciendo?"
+"Yamamoto Akuji (talking)";"プレゼントだよ。 今俺の部下になると もれなくついてくるぜ。";"It's a gift. If you work for me now, you'll get it.";"Presente. Si trabajas para mí ahora, tendrás uno."
+"Komiya Youko (talking)";"私を金で買うつもりか？ 馬鹿にするなっ！";"Are you trying to buy me with money? Don't be a fool!";"¿Intentas comprarme con dinero? ¡No seas estúpido!"
+"narrator";"陽子は札束を掴むと、悪司に思い切り投げつける。
+澄まし顔の悪司と、殺気に満ちた陽子の間を、 宙に散った札束がひらひらと舞い落ちていった。";"Youko grabs a wad of bills and throws them at Akuji as hard as she can.
+The wad of bills scattered in the air fluttered and fell Mai between the clear-faced Akuji and the Satsu-filled Youko.";"Youko coge un fajo de billetes y se los lanza a Akuji con toda la fuerza que puede.
+Entre la Akuji de rostro claro y la Youko llena de Satsu, el fajo de billetes dispersos en el aire revoloteaba y caía Mai."
+"Yamamoto Akuji (talking)";"……また来るわ。";"I'll be back at …….";"…… Volveré."
+"__system__??";"{RND = 1:";"";""
+"Yamamoto Akuji (talking)";"ほれ、おめーはこういうの嫌いか？";"Come on, you don't like this kind of thing?";"Ves, no te gustan estas cosas, ¿verdad?"
+"narrator";"悪司は陽子の前に、 高価なアクセサリーを差し出した。";"Akuji held out an expensive accessory in front of Youko.";"Akuji sostuvo un costoso accesorio frente a Youko."
+"Komiya Youko (talking)";"……一つ訊いておく。 貴様は毎度毎度、何を思って こんな品を持ってくる？";"…… I will ask you one question. What do you think you are doing bringing this kind of thing to us every time?";"…… Permítame hacerle una pregunta. ¿Qué crees que haces cada vez que nos traes estas cosas?"
+"Yamamoto Akuji (talking)";"ま、素直に答えるなら買収だ。";"Well, the honest answer is acquisition.";"Bueno, la respuesta directa es la toma de posesión."
+"Komiya Youko (talking)";"……素直すぎて声も出ないな。
+ならこちらもはっきり言おう。 その気はない。全くない。だから帰れ。";"…… You're too honest to speak up.
+Then I'll make it clear too. I have no intention of doing so. Not at all. So go home.";"…… Eres demasiado honesto para hablar.
+Entonces yo también lo diré claramente. No tengo intención de hacerlo. En absoluto. Así que vete a casa."
+"Yamamoto Akuji (talking)";"あらま。";"Oh dear.";"Oh, Dios."
+"__system__??";"}";"";""
+"__system__??";"{RND = 2:";"";""
+"Yamamoto Akuji (talking)";"なぁ、俺の兵隊になる気はないか？";"Hey, are you interested in being my soldier?";"Oye, ¿estás interesado en ser mi soldado?"
+"Komiya Youko (talking)";"……前にも言ったぞ。お断りだ。";"I told you before ……. No thanks.";"Te lo dije antes ……. No, gracias."
+"Yamamoto Akuji (talking)";"それなりに使える腕してるしよ、お前。 いい給料出すぜ？";"And you've got some useful skills, you know. I'll pay you well.";"Tienes unos brazos muy útiles. Te pagaré bien, ¿de acuerdo?"
+"Komiya Youko (talking)";"金には執着がない。";"I have no attachment to money.";"El dinero no es una obsesión."
+"Yamamoto Akuji (talking)";"いいセックスもしてやるぜ？";"I'll even give you some good sex, okay?";"Incluso te daré algo de buen sexo, ¿de acuerdo?"
+"Komiya Youko (talking)";"……っ、下品なっ……！";"……, you vile ……!";"¡……, vil ……!"
+"Yamamoto Akuji (talking)";"うーむ、 どうしても部下になる気ねぇのか？";"Hmmm, you're not going to be my subordinate by any means, are you?";"Hmm, no quieres realmente ser un subordinado, ¿verdad?"
+"Komiya Youko (talking)";"くどい！";"That's terrible!";"¡Es tan malo!"
+"Yamamoto Akuji (talking)";"……怒んなよ。";"Don't get mad at …….";"…… No te enfades."
+"__system__??";"}";"";""
+"Yamamoto Akuji (talking)";"なあ、もういいだろ？ 俺の兵隊になってくれや。";"Hey, enough of this, okay? I want you to be my soldier.";"Oye, vamos, basta de esto, ¿de acuerdo? Quiero que seas mi soldado."
+"Komiya Youko (talking)";"……何度同じ事を言わせれば気が済む。
+貴様の下で働くくらいなら死を選ぶ。 早く処分なりすればどうだ。";"……How many times do I have to tell you the same thing?
+I would rather die than work for you. Why don't you get rid of them as soon as possible?";"…… ¿Cuántas veces tengo que decir lo mismo?
+Preferiría morir antes que trabajar para ti. ¿Por qué no te deshaces de ellos cuanto antes?"
+"Yamamoto Akuji (talking)";"やれやれ……
+てめーんとこの教祖はもう 俺の部下になるって承諾したんだぜ？ いつまでも意地張ってんじゃねえよ。";"Oh dear……
+Your guru has already agreed to be my subordinate. Don't be so stubborn.";"Oh, Dios……
+Tu gurú ya ha aceptado ser mi subordinado. No te obstines para siempre."
+"Komiya Youko (talking)";"由女が貴様の部下だと……？ 何を言っている、そんなでたらめ……";"You think Yume is your man ……? What are you talking about, that's bullshit……";"¿Crees que Yume es tu hombre ……? ¿De qué estás hablando, semejante gilipollez? ……"
+"Yamamoto Akuji (talking)";"でたらめなもんかよ。
+ホレ、これ。 あいつが先週提出した仕事の報告書。 筆跡で大体解るよな？
+ついでに写真もつけよーか？ 言っとくが合成じゃねえぞ。";"It's not bullshit.
+Here. This is the work report he submitted last week. You can tell from the handwriting, right?
+And I'll add a picture, too, shall I? I'm telling you, it's not a composite.";"No es una tontería.
+Aquí, aquí. El informe de trabajo que presentó la semana pasada. Se puede saber más o menos por la letra, ¿verdad?
+ ¿Debo añadir también una fotografía? Te digo que no es un compuesto."
+"Komiya Youko (talking)";"…………な……
+き、貴様っ…… 由女に何をしたっ…………！";"………… and ……
+What have you done to…… Yume…………!";"………… y ……
+ ¿Qué has hecho a…… Yume…………!"
+"Yamamoto Akuji (talking)";"何って言われてもな。 別にひでぇことはしてないぜ。";"I don't know what you're talking about. I didn't do anything terrible.";"No sé de qué estás hablando. No he hecho nada terrible."
+"Yamamoto Akuji (thinking)";"──ま、世間様の基準じゃ どうだか知らんけど。";"Well, I don't know how it is by other people's standards.";"Bueno, no sé cómo es según los estándares de otras personas."
+"Komiya Youko (talking)";"由女が無事だと言うなら……会わせろ！ できないことではないだろう！";"If you say Yume is safe, then let me see him at ……! It's not something you can't do!";"Si dices que Yume es seguro, ¡déjame ver ……! No es que no se pueda."
+"Yamamoto Akuji (talking)";"やだね。 捕虜の要求なんかいちいち 聞いてらんねーしな。";"I don't like it. I don't want to listen to every single request of the POWs.";"No me gusta. No quiero escuchar todas las peticiones de los prisioneros de guerra."
+"Komiya Youko (talking)";"…………";"…………";"…………"
+"Yamamoto Akuji (talking)";"あいつに会いたきゃ、部下になれ。
+お前の腕はそれなりに使える。 悪いようにはしねぇよ。";"If you want to see him, be his man.
+You're good at what you do. I won't make you look bad.";"Si quieres verlo, sé su hombre.
+Tienes una buena oportunidad. No te haré quedar mal."
+"Komiya Youko (talking)";"………………
+一つ、訊いてもいいか。";"………………
+May I ask one thing?";"………………
+ ¿Puedo preguntarte una cosa?"
+"Yamamoto Akuji (talking)";"質問にもよるけどな、言ってみな。";"Depends on the question. Say it.";"Depende de la pregunta, digamos."
+"Komiya Youko (talking)";"由女の無事を……保証できるか？";"Can you guarantee…… that Yume is safe?";"¿Puedes garantizar la seguridad de Yume en ……?"
+"Yamamoto Akuji (talking)";"無事っつってもいろいろあるぞ。 命のことか？";"There are many things to be safe. You mean life?";"Hay mucho que decir sobre la seguridad. ¿Te refieres a la vida?"
+"Komiya Youko (talking)";"もっと広い意味でだ。 普通に捉えろ。";"I mean it in a broader sense. Take it in the normal sense.";"En un sentido más amplio. Tómalo en el sentido normal."
+"Yamamoto Akuji (talking)";"何かよくわかんねぇが、 俺は一応、仲間には優しいつもりだ。
+ ……んー、たぶんな。";"I don't know what's going on, but I'm trying to be nice to my friends.…… hmmm, maybe.";"No sé qué está pasando, pero estoy tratando de ser amable con mis compañeros, para variar.…… hmm, quizás."
+"Komiya Youko (talking)";"………………
+なら……取引だ。";"………………
+Then it's a…… deal.";"………………
+Entonces es un trato de ……."
+"Yamamoto Akuji (talking)";"あ？　取引？";"Oh?　Deal?";"¿Oh?　¿Trato?"
+"Komiya Youko (talking)";"由女の無事を保証してくれるなら… 貴様の部下になろう。
+他には何も求めん。 殺し合いでも汚い仕事でもする。
+ただ、由女の事だけ……保証してくれ。";"If you guarantee the safety of Yume I'll be your man.
+I want nothing else. I'll do your dirty work and Satsu each other.
+Just guarantee me…… that Yume is safe.";"Si garantizas la seguridad de Yume seré tu hombre.
+No quiero nada más. Yo haré tu trabajo sucio y Satsu el uno al otro.
+Sólo garantízame…… que Yume está a salvo."
+"Yamamoto Akuji (talking)";"よし、解った。じゃ契約成立な。";"Okay, I understand. Then we have a contract.";"Muy bien, entendido. Entonces tenemos un contrato."
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"ほれ、これ自分で填めてくれや。";"Here, fill this up yourself.";"Aquí puede rellenarla usted mismo."
+"narrator";"言って、悪司は手錠を差し出した。";"Saying this, Akuji held out the handcuffs.";"Dicho esto, Akuji le tendió las esposas."
+"Komiya Youko (talking)";"……何だ、何をする気だ？";"…… What, what are you doing?";"…… ¿Qué, qué estás haciendo?"
+"Yamamoto Akuji (talking)";"いや、今から地下室を出てもらうんでな、 自由なまんまだと困るんだよ。";"No, I'm going to have to ask you to leave the basement now, and I don't want you to remain free.";"No, voy a tener que pedirte que abandones la bodega ahora, no quiero que te quedes libre."
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"渋るようなら無理矢理填めるぞ？";"If you're reluctant, I'll force you to fill it, okay?";"Si son reacios, les obligaremos a llenarlo."
+"Komiya Youko (talking)";"……それには及ばん。";"…… doesn't even come close to that.";"…… no va tan lejos."
+"narrator";"陽子は言って、自らの手に手錠をかけた。";"Youko said and cuffed his own hands.";"Youko dijo y esposó sus propias manos."
+"Komiya Youko (talking)";"それで…… 私に、何をさせるつもりだ？";"So…… me, what are you going to make me do?";"Así que ……, ¿qué me vas a obligar a hacer?"
+"Yamamoto Akuji (talking)";"大したことじゃないさ。 ……おーいタマネギ、来てくれ。";"It's no big deal…… Oh Tamanegi, come on.";"No es gran cosa…… Oh Tamanegi, vamos."
+"Tamanegi (talking)";"はい。";"Yes.";"Sí."
+"Komiya Youko (talking)";"……何だ、この男……";"……What the hell, this guy ……";"…… Qué demonios, este tipo: ……"
+"Yamamoto Akuji (talking)";"実はな…… ……ひそひそぼそぼそ…… という女なんだが、頼めるか？";"Actually, I'm a woman named…… …… whispering whispering whispering ……, can you help me out?";"En realidad,…… …… es una mujer llamada Whispering Whispering ……, ¿puede ayudarme?"
+"Tamanegi (talking)";"それはいい……
+たとえ聖女と呼ばれようと、 これだけ美しい女性なら 下々の憧れは強かったことでしょう。
+そういう人々には、 例えよく似ている別人だと言っても 高く売れる筈です。";"That's good ……
+Even if she was called a saint, a woman as beautiful as she is would have been highly admired by the people below.
+Even if she was a different person who looked very much like her, she would have sold well to such people.";"Eso es bueno ……
+Aunque la llamaran santa, una mujer tan bella como ella habría sido muy codiciada por sus sirvientes.
+Para esa gente, aunque fuera una persona diferente que se pareciera mucho a ellos, se habría vendido por mucho."
+"Komiya Youko (talking)";"………………
+ ……くくっ、はははっ……！
+なるほど、 私を娼婦にしようと言うのか？ 那古教の元信徒に売ろうと言うのか！？";"…………………… Kukk, hahaha ……!
+I see. You want to turn me into a whore? Are you trying to sell me to Nakokyou's former congregation?";"…………………… ¡Kukk, ja, ja, ja!
+Ya veo, ¿quieres convertirme en una puta? ¡Quieres venderme a la antigua congregación de Nakokyou!"
+"Yamamoto Akuji (talking)";"何もんなこたぁ言ってねぇぞ。";"I'm not talking about anything.";"No estoy hablando de nada."
+"Komiya Youko (talking)";"白々しいっ……！ そこの男は調教師か何かだろうが、 違うか！";"Haku I've been around ……! That guy over there must be a trainer or something, no?";"¡Haku ¡Estoy tan emocionada! ……! El hombre de allí debe ser un entrenador o algo así, ¿no?"
+"Yamamoto Akuji (talking)";"あれま、よく解ったな。 まともな育ちかたしてねぇんだな、 おめー。
+そんなら、隠してもしゃあないな。 目一杯稼げよ。";"How did you figure that out? You didn't have a normal upbringing, did you, boy?
+Then it's no wonder you're hiding it. Earn as much as you can.";"Bueno, ¿cómo lo has averiguado? No tuviste una educación adecuada, ¿verdad, muchacho?
+Entonces no tiene sentido ocultarlo. Gana todo lo que puedas."
+"Komiya Youko (talking)";"………………馬鹿にするなよ、貴様。";"Don't be a……………… fool, you.";"……………… No seas tonto."
+"narrator";"──止める間もなかった。 陽子は躊躇いもせずに舌を噛み切る。";"He didn't even have time to stop. Youko bites off her tongue without hesitation.";"─ ─ No hubo tiempo de parar. Youko se muerde la lengua sin dudarlo."
+"Yamamoto Akuji (talking)";"……うお！？ おいこら冗談じゃねぇぞ馬鹿がっ！
+ ………………ち、この…… 顔が青くなってきやがった……！
+タマネギ、医者呼べ！　急げ！";"…… Whoa! Hey, you've got to be kidding me, you idiot!
+ ………………, you…… are turning blue in the face! ……!
+Tamanegi, call a doctor!　Hurry up!";"…… ¡Guau! ¡Oye, tienes que estar bromeando, idiota!
+ ………………, ¡tú…… te estás poniendo azul en la cara! ¡……!
+Tamanegi, ¡llama a un médico!　¡Deprisa!"
+"Tamanegi (talking)";"…………";"…………";"…………"
+"Yamamoto Akuji (talking)";"タマネギっ！";"Tamanegi!";"¡Tamanegi!"
+"Tamanegi (talking)";"若……もう間に合いません。
+良い娼婦になれたでしょうに… 残念です。";"Young…… can no longer make it.
+She would have made a good hooker… Too bad.";"El joven…… ya no puede hacerlo.
+Habría sido una buena prostituta… Qué pena."
+"Yamamoto Akuji (talking)";"………… ちっ、クソ女がっ……";"………… Damn, bitch……";"………… Vete a la mierda, perra……"
+"narrator";"──悪司は、抱え上げていた陽子の躰を 無造作に床へ落とした。
+陽子の躰はもう、ぴくりとも動かなかった。";"Akuji dropped Youko's body, which he was holding up, carelessly on the floor.
+Youko's body didn't move even a twitch anymore.";"─ ─ Akuji dejó caer al suelo, en un descuido, el cuerpo de Youko que sostenía.
+El cuerpo de Youko ya no se movió ni un ápice."
+"Yamamoto Akuji (talking)";"おめーがダンマリ決め込む気なら 拷問にかけてでも 居場所を吐いてもらうぜ？";"If you're going to keep your mouth shut, I'm going to have to torture you to get you to tell me where you are.";"Si vas a mantener la boca cerrada, voy a tener que torturarte para que me digas dónde estás."
+"Tamanegi (talking)";"……………………";"……………………";"……………………"
+"Yamamoto Akuji (talking)";"……ちっ。 おい、拷問係のとこに連れてけ。";"…… damn. Hey, take him to the torturer.";"…… Maldita sea. Oye, llévalo a los torturadores."
+"Hikage Mitsuko (talking)";"……………はい………";"…………… yes ………";"…………… sí ………"
+"narrator";"に対する 拷問が行われた。";"The torture of the “Mere Old Man” was carried out.";"La tortura se llevó a cabo contra el"
+" (talking)";"さっさと吐けよー、教祖の居場所。 また拷問カマしちまうぞ？";"Get off your ass and tell me where the guru is. I'm going to torture you again, aren't I?";"Ponte manos a la obra y dinos dónde está el gurú. Te voy a torturar de nuevo, ¿no?"
+" (talking)";"…………好きにするといい。";"You can do whatever you want with ………….";"………… Puedes hacer lo que quieras."
+" (talking)";"やれやれ。 おい、拷問係のとこに連れてけ。";"Oh, dear. Hey, take him to the torturer.";"Oh, Dios. Oye, llévalo a los torturadores."
+"Hikage Mitsuko (talking)";"……………はい………";"…………… yes ………";"…………… sí ………"
+"narrator";"に対する 拷問が行われた。";"The torture of the “Mere Old Man” was carried out.";"La tortura se llevó a cabo contra el"
+" (talking)";"さーて、 今日も元気に拷問といくか？";"Well, let's go out and torture ourselves again today, shall we?";"Bueno, sigamos con la tortura de hoy, ¿de acuerdo?"
+" (talking)";"…………無駄な事を。";"………… useless.";"………… Pérdida de tiempo."
+" (talking)";"無駄でも何でも、 教祖の居場所を吐かせない限り こっちは枕高くして眠れねぇんだよ。";"No matter if it's useless or not, I can't sleep with my pillow up high unless you tell me where Oyasama is.";"No importa si es inútil o no, no podemos dormir con la almohada levantada a menos que nos diga dónde está nuestro gurú."
+" (talking)";"好きにしろ。結果は同じだ。";"Suit yourself. The result is the same.";"Como quieras. El resultado es el mismo."
+" (talking)";"強がってられんのも 今のうちだと思うけどな。";"I think the time to be strong is now.";"Creo que es uno de esos momentos en los que no se puede ser fuerte."
+" (talking)";"…………ふん……";"………… and ……";"………… y ……"
+"narrator";"そして、悪司は陽子を牢に戻した。";"Then Akuji put Youko back in jail.";"Akuji entonces devolvió a Youko a la cárcel."
+" (talking)";"…………日陰さん。";"…………Hikage.";"…………Hikage."
+"Hikage Mitsuko (talking)";"……はい…………何か……";"…… yes………… something……";"…… sí………… algo……"
+" (talking)";"あの女、拷問にかけるぜ。 拷問担当のヤツに連絡取ってくれ。";"I'm going to torture that woman. Get me the guy in charge of torture.";"Voy a torturar a esa mujer. Contacta con el responsable de la tortura."
+"Hikage Mitsuko (talking)";"…………それは…… 構いません……けど…………";"………… it's…… fine…… but …………";"………… es…… bien…… pero …………"
+" (talking)";"何だよ、煮え切らねー顔してんな。";"What's with the simmering look on your face?";"Qué demonios, parece que estás hirviendo."
+"Hikage Mitsuko (talking)";"あの、前の時に…… 拷問を……している人から ……聞いたんですけど……
+あの人……普通の方法では、 口を割りそうにない……とか……";"You know, the last time I heard…… from someone who is…… torturing ……
+That person…… is not likely to talk in the usual way, like…… or ……";"Sabes, escuché…… de un tipo que…… torturó a…… en la época anterior.
+Esa persona…… no suele hablar de la forma habitual, como…… o ……"
+" (talking)";"通常の手段って、 拷問に通常もへったくれもあんのか？";"What is there to be normal about torture?";"¿Qué significa normal? ¿Hay algo normal en la tortura?"
+"Hikage Mitsuko (talking)";"確か……聞いた話だと………… 身体や、心に……苦痛を、与えるか…… ……あと、薬物使用か…………
+おおまかに……その、二つが、 普通の手段……だそうです…………
+ ……でも、苦痛を与えるのは………… どうやっても、効果がなくて………
+でも、薬を使うと…… 効いてくるより……先に、 すぐ……舌を、噛み切るらしくて……
+実際に……あの人、 何度か、死にかけてて……";"I'm sure…… I've heard of………… inflicting…… pain to the body or the mind, or………… ………… and drug use or …………
+Roughly…… those are the two usual ways…… to do it……………… but inflicting pain is………… ineffective no matter how you do it and…… …
+But if you use drugs, they seem to bite off…… their tongues right before…… they take effect… …
+In fact,…… he almost died a few times,……";"Estoy seguro de que…… he oído hablar de………… que inflige dolor o angustia al cuerpo o a la mente………… y consumo de drogas o …………
+A grandes rasgos…… esas son las dos formas habituales de hacerlo……………… pero infligir dolor es………… ineficaz, no importa cómo lo hagas…… …
+Pero si usas drogas, parece que se muerden…… la lengua justo antes de que…… haga efecto… …
+De hecho,…… estuvo a punto de morir varias veces……"
+" (talking)";"……えらい根性の据わった話だな。";"…… That's a very gutsy story.";"…… Es una historia muy valiente."
+"Hikage Mitsuko (talking)";"あの……根性じゃなくて…… 生きるつもり、ないみたいです……
+私、そんな気がします……";"It's not that…… guts, it's…… not going to live, it's like I'm not going to live ……
+I feel like I am……";"Ya sabes, no estoy…… destripado, no voy a…… vivo, no creo que vaya a…… vivo.
+Siento que soy……"
+" (talking)";"死にたくねぇと思わない限り、 自白は望めやしねぇ……か。";"Unless you don't want to die, you can't hope to Haku yourself……";"No puedes esperar Haku a menos que no quieras morir……"
+"Hikage Mitsuko (talking)";"よっぽど……教祖さん、とか…… 教団が……大事、って、 そういう事…………みたいです……
+すごい……ですね、人間って…… そこまで、信じ込めるんですね…";"It's very…… important that the guru or the…… cult is…… important, that kind of thing…… It's like ……
+It's amazing how much…… people can believe in something…";"Es muy…… importante que el gurú o…… culto es…… importante, ese tipo de cosas…… Es como ……
+Es increíble lo mucho que la gente de…… puede creer en algo…"
+" (talking)";"そりゃつまり、いくら拷問しても 無駄でお手上げって事か？";"Does that mean that no amount of torture will help?";"¿Significa eso que no hay ninguna tortura que sirva de algo?"
+"Hikage Mitsuko (talking)";"いえ、そうじゃなくて…………
+ ……あの、ウィミィから……渡ってきた、 絶対に確実な方法が……あるとか……";"No, not that… ……………… Well, you know, I've been…… across from Wime, and there's an absolutely surefire way to……… …";"No, no es eso, es ……………… Um, he cruzado…… de Wime, y me han dicho que hay una forma absolutamente fiable de……… …"
+" (talking)";"……ほー、どんなんだ、そりゃ。";"……Ho, what's that like?";"…… Ho, cómo es, eso es."
+"Hikage Mitsuko (talking)";"その……頭蓋骨を……開いて…… 脳に、電極を刺して……";"Open that…… skull…… and stick electrodes into the…… brain and ……";"Ese…… cráneo se abre…… y se introduce un electrodo en el cerebro, en el…… cerebro."
+" (talking)";"……日陰さん、もういい。 何となく解った。";"……Hikage, that's enough. I've somehow figured it out.";"……Hikage, es suficiente. De alguna manera lo he descubierto."
+"Hikage Mitsuko (talking)";"その……とにかく………… あの人を、殺していいなら…… ……大丈夫だそうです…………";"That…… anyway………… If you can Satsu that person, he says…… …… it's okay …………";"Que…… de todos modos………… Si usted puede Satsu esa persona, dice…… …… está bien …………"
+" (talking)";"……なるほどな。 しゃあねーや、やっちまうか。";"…… I see. I guess I'll just have to do it.";"…… Ya veo. Oh, bueno, lo haré."
+"Hikage Mitsuko (talking)";"……いいんですか…………？";"Are you sure about…… or …………?";"…… ¿Estás seguro …………?"
+" (talking)";"それっきゃ手がねぇんだろ？ このままやってて死んじまうなら 情報だけでも引きずり出すさ。
+ ……あ、日陰さん。 今回、拷問経過の報告は要らねぇから 拷問手にそう伝えといてくれ。
+結果が出たらそれだけ教えろ、ってな。";"That's the only way, right? If we're going to die doing this, I'll at least drag out the information.…… Oh, Mr. Hikage. Tell the torturer that we don't need a report on the torture process this time.
+Just let me know when you get the results.";"Es la única manera, ¿no? Si seguimos haciendo esto y vamos a morir, voy a arrastrar la información.…… Ah, Hikage. Esta vez, no necesito un informe sobre el proceso de tortura, así que díselo a los torturadores.
+Avísame cuando tengas los resultados."
+"Hikage Mitsuko (talking)";"…………はい……";"………… yes ……";"………… sí ……"
+"Hikage Mitsuko (talking)";"……悪司さん……";"……Akuji……";"……Akuji……"
+"Yamamoto Akuji (talking)";"おう、どうだった？";"Oh, how did it go?";"¿Cómo ha ido?"
+"Hikage Mitsuko (talking)";"情報……取れたそうです………… これ……拷問係の人がくれた書類……";"They got the information…… They got the information………… This…… The document that the torture officer gave me ……";"Información:…… Se lo llevaron:………… Esto:…… Documentos que me dio el oficial de tortura: ……"
+"Yamamoto Akuji (talking)";"報告書か。んーとっと……
+ ……シキナの元那古教本部ぅ？ 何だよ、あそこに隠し部屋でも 作ってたってのか？
+チッ、とっくにどっか別のところに 逃げたと思ってたが、こりゃ盲点だぜ…";"Report. Hmmm… ………… Shikina's former Nakokyou headquarters? What, they built a hidden room there?
+Damn, I thought they'd run off somewhere else long ago, but that's a blind spot…";"Informe. Hmmm… ………… ¿La antigua sede de Nakokyou en Sikina? ¿Qué? ¿Construyeron una habitación oculta allí?
+Maldita sea, pensé que se habían escapado a otro lugar hace tiempo, pero eso es un punto ciego…"
+"Hikage Mitsuko (talking)";"…………それで、あの…… 古宮陽子さん…………";"…………So, that…… Komiya Youko Ms…………";"………… Así que…… Komiya Youko Ms…………"
+"Yamamoto Akuji (talking)";"…………やっぱ死んだ？";"………… dead after all?";"………… ¿Sabía que estaba muerto?"
+"Hikage Mitsuko (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"だろうな…… んでも、実際よく頑張ったわな、あの女。
+まあ、後は頼むわ。 闇から闇へって事でヨロシク。";"I'm sure you're right…… But you actually did a good job, that woman.
+Well, I'll leave the rest to you. From darkness to darkness, I guess.";"Estoy seguro de que tienes razón…… Pero realmente hiciste un buen trabajo, esa mujer.
+Bueno, tú te encargarás del resto. Me refiero a Darkness to Darkness."
+"Hikage Mitsuko (talking)";"……………………はい……";"…………………… yes ……";"…………………… sí ……"
+"??";"ナコ教本部・・、青年団がどんどん攻め込んできた。 少しピンチな状態。陽子と部下の話。 部下の情報から・・悪司がウィミィとつるんで由女をさらって ウィミィに渡そうとしていると聞く。 私たちの由女を渡してなるものか、怒る陽子。 全てのナコ教使徒に連絡、山本悪司を誅殺せよ。 どうしたの・・陽子って由女が来る、大丈夫ですよ。
+ ＊＊＊上田注 　　　これ、ボツイベントなんでしょうか？";"Naco-kyo headquarters…the youth group is attacking more and more. In a bit of a pinch. The story of Youko and his subordinates. From the information of the subordinate… We heard that Akuji is working with Wime and trying to kidnap Yume and give it to Wime. Youko is furious that we can't let them have our Yume. Contact all Nako apostles and Yamamoto Akuji to Satsu. What's wrong…Youko is coming Yume, it's okay.
+ **Ueda Note: Is this a rejected event?";"Sede de la Iglesia de Naco - el grupo de jóvenes ha estado atacando cada vez más. En un pequeño apuro. Youko y sus subordinados. Por la información de los subordinados… nos enteramos de que Akuji andaba con Wime y trataba de secuestrar a Yume y entregársela a Wime. Youko está enfadado porque no podemos darles nuestro Yume. Contacta con todos los apóstoles Nako y Yamamoto Akuji a Satsu. Qué pasa… Youko viene Yume, está bien.
+ *** Nota de Ueda ¿Es un evento rechazado?"
+"narrator";"寧々が倒れ、行方不明になった事は その日のうちに全ての那古教信者に知れ渡った。
+そして、聖女の間でも──";"The news of Nene's collapse and disappearance became known to all Nakokyou followers that day.
+And even among the saints…";"La noticia del colapso y la desaparición de Nene llegó a oídos de todos los seguidores de Nakokyou aquel día.
+E incluso entre los santos…"
+"Komiya Youko (talking)";"戯れ言も大概にしろっ！ 聖女寧々が……ふざけるなっ！！";"Enough of this nonsense!!! Saint Nene is a…… fuck you!!!!!!!!";"¡Basta de tonterías! ¡San Nene es un chiste de ……!"
+"nakokyou  otoko (talking)";"まことに……まことに、 申し訳ございませんっ……！";"Very…… very, very sorry ……!";"¡Muy…… muy, muy apenado ……!"
+"Komiya Youko (talking)";"これが申し訳ないで済むことかっ！ 貴様らは何をしていたのだ！
+聖女が危ないとなれば命を賭して守り、 代わりに死んで見せて当然……
+ …………っ……";"This is what you get for being sorry! What have you done!
+If a saint is in danger, you risked your lives to protect her, and you deserve to die for her……………… ……";"Esto es lo que te pasa por lamentarte. ¿Qué has hecho?
+Si una santa está en peligro, ustedes arriesgaron sus vidas para protegerla, y en cambio merecían morir……………… ……"
+"nakokyou  otoko (talking)";"陽子様…";"Dear Youko…";"Querido Youko…"
+"Komiya Youko (talking)";"すまない。 失言だ、許せ……
+代わりに死ね、などと…… 頼む、忘れてくれ……";"Sorry. I misspoke, forgive me……
+Die instead, etc…… Please, forget it……";"Lo siento. Es una metedura de pata, perdóname……
+Muere en su lugar, etc…… Por favor, olvídalo……"
+"nakokyou  otoko (talking)";"いえ、心中お察しします…
+我ら信徒も、そうできなかったことが 悔やまれてなりません……！";"No, I'm sorry for your loss…
+We, the congregation, are sorry that we could not do so……!";"No, siento su pérdida…
+ ¡Nosotros, la congregación, también lamentamos no haber podido hacerlo……!"
+"Komiya Youko (talking)";"……とにかく、報告ご苦労だった。 下がって良い。";"…… Anyway, thanks for the report. Good to go back down.";"…… De todos modos, gracias por el informe. Es bueno volver."
+"__system__??";"{RND \ 0:";"";""
+"Komiya Youko (talking)";"前線を離れられない聖女遙にも、 よろしく伝えてくれ。";"Give my regards to Haruka, the saint who can't leave the front line.";"Saluda de mi parte a Haruka, el santo que no puede abandonar el frente."
+"__system__??";"}";"";""
+"Komiya Youko (talking)";"……しばらく、一人にしてくれるか。";"Can you leave me alone at…… for a while?";"…… ¿Puedes dejarme solo un rato?"
+"nakokyou  otoko (talking)";"はっ……";"Haha ……";"Haha ……"
+"Komiya Youko (talking)";"……………… 嘘よね、寧々……
+私たち、戦後のあんな滅茶苦茶な時さえ 乗り越えてきたのに……
+あなたが居たから、私、 今、こうして生きてるのに……
+ねえ、寧々…… あなたが作ったのよ、この教団… あなたがいたから、今まで……
+聖女だって言ったって… 私だけじゃ、何も……何も……
+ …………
+友達……だったのに……
+いなくなるなんて… 想像もしてなかったのに……
+どうして……っ…
+ …………
+これから、どうすれば…
+どうすればいいのよ…… 私一人じゃ、何も……
+ …………寧々……";"……………… It's a lie, Nene ……
+We even made it through the post-war mess……
+You're the reason I'm alive today……
+Hey, Nene…… you made this cult… it's only because of you that we've been able to ……
+You said I'm a saint… but I'm nothing…… nothing……
+ …………
+You were my friend…… and now you're gone……
+I never thought I'd lose you… I never imagined you'd be gone… ……
+How could you ………
+ …………
+What do I do now…
+What do I do now……… I can't do anything on my own……
+ …………Nene……";"……………… Es mentira, Nene ……
+Incluso sobrevivimos a ese lío de la posguerra……
+Tú eres la razón por la que estoy vivo hoy……
+Oye, Nene…… tú construiste este culto… y sólo gracias a ti hemos podido ……
+Has dicho que soy un santo… pero no soy nada…… nada……
+ …………
+Eras mi amigo…… y luego ……
+Nunca imaginé que te irías… Nunca imaginé que te irías……
+ ¿Cómo puedes ………
+ …………
+Qué hago ahora…
+ ¿Qué hago ahora?…… No puedo hacer nada por mi cuenta……
+ …………Nene……"
+"narrator";"──そして、暫し後。
+陽子は寧々の件を伝えるため、 由女の私室を訪れていたのだが──
+扉を開けることができず、 そこでしばし立ち尽くしていた。";"…and a while later.
+Youko had visited Yume's private room to tell him about Nene.
+She stood there for a while, unable to open the door.";"─ ─ Y un rato después.
+Youko había visitado la habitación privada de Yume para hablarle de Nene, pero…
+No pudo abrir la puerta y se quedó allí un rato."
+"Komiya Youko (talking)";"………………
+いつまでもここに居たって… 伝えない訳にはいかないんだし…";"………………
+You can't stay here forever… and not tell them about it…";"………………
+No puedes quedarte aquí para siempre… y no puedo no contarlo…"
+"narrator";"──意を決して、陽子は部屋の扉を開けた。";"Youko opened the door to her room.";"─ ─ Con su voluntad, Youko abrió la puerta de su habitación."
+"Yume (talking)";"あれ……陽子さん？ どうしたの、こんな時間に…";"Is that ……Youko? What's wrong, at this hour…";"¿Es eso ……Youko? Qué pasa, a estas horas…"
+"Komiya Youko (talking)";"………… あのね、由女……";"………… You know, Yume ……";"………… Ya sabes, Yume ……"
+"Yume (talking)";"……？";"……？";"……？"
+"Komiya Youko (talking)";"……その、寧々が……";"…… that,…… that,…… that,…… that,…… that,…… that,…… that,…… that,…… that,…… that,…… that";"…… que,…… que,…… que,…… que,…… que,…… que,…… que,…… que,…… que,…… que,…… que, ……"
+"Yume (talking)";"寧々さん？ 寧々さんがどうかしたの？";"Mr. Nene? What about Nene?";"¿Sr. Nene? ¿Qué pasa con Nene?"
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Yume (talking)";"………… まさか、寧々さんに何か……";"………… No way, something for Nene ……";"………… Ni hablar, algo para Nene ……"
+"Komiya Youko (talking)";"………… 抗争中の、奉仕青年団に……
+こっちは、逃げるのに精一杯で、 倒れた寧々の躰が持ち去られて…
+死んでいれば……闇から闇へ、 生きていたとしても………";"………… in the middle of a conflict, by a service youth group ……
+We were too busy trying to escape, and the body of Nene, who had fallen, was taken away…
+If dead,…… they will go from darkness to darkness, and if alive,………";"………… En medio del conflicto, el grupo de jóvenes del servicio ……
+Este estaba demasiado ocupado huyendo, y el cuerpo del Nene caído se lo llevaron…
+Si estuviera muerto, habría pasado de…… a la oscuridad, y si estuviera vivo, habría ………"
+"Yume (talking)";"う……嘘… 冗談だよね？　陽子さ……";"U…… lie… you're kidding, right?　You're Youko……";"U…… mentira… Estás bromeando, ¿verdad?　Sa……"
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Yume (talking)";"そ……そんなっ… そんな、そんなっ……！";"So…… you're not… Oh, no, you're not……!";"Ese…… hijo de… ¡Oh, no, no, no, no……!"
+"Komiya Youko (talking)";"大丈夫。 ……大丈夫よ、由女。";"It's okay…… It's okay, Yume.";"No pasa nada…… Está bien, Yume."
+"Yume (talking)";"大丈夫って…… そんな、大丈夫な訳っ……！";"It's not okay…… It's not okay……!";"No está bien…… No puede estar bien……"
+"Komiya Youko (talking)";"……大丈夫よ。
+寧々が作ってくれた那古教は、 まだ充分、組織として働いてるし…";"…… It's okay.
+Nene created Nakokyou and it's still working well enough as an organization…";"…… Está bien.
+Nene creó Nakokyou y sigue funcionando bastante bien como organización…"
+"__system__??";"{RND \ 0:";"";""
+"Komiya Youko (talking)";"そう……遙だって、 遙だってまだ居るんだし……";"Yes, ……Haruka, even Haruka is still here……";"Sí, ……Haruka, incluso Haruka sigue aquí……"
+"__system__??";"}";"";""
+"Komiya Youko (talking)";"たとえ、私一人になっても… 守ってみせる……
+由女は、絶対…… 守ってみせるから……";"Even if it's just me… I will protect you……
+I will protect Yume even if it's just me ……";"Aunque sólo sea yo… te protegeré……
+Yume definitivamente…… te protegerá ……"
+"narrator";"呆然と立ち尽くす由女に歩み寄り、 陽子はその小さな躰を抱きしめる。
+その時、由女は初めて気付いた。";"Youko walks up to Yume, who stands there stunned, and hugs her small body.
+At that moment, Yume realized for the first time.";"Acercándose a Yume, que permanecía atónita, Youko abrazó su pequeño cuerpo.
+En ese momento, Yume se dio cuenta por primera vez."
+"Yume (talking)";"陽子……さん…………？";"Youko…… Mr…………?";"¿Gracias a la ayuda de los padres?"
+"narrator";"──陽子の躰が、小刻みに震えていた。";"Youko's body was trembling slightly.";"── El cuerpo de Youko temblaba ligeramente."
+"Yume (thinking)";"陽子さん…… 寧々さんが居なくなって…
+ずっと、一緒だったのに…… 友達だったのに……
+辛いはずなのに……";"I've been missing Youko…… Nene…
+All these years, we were together…… We were friends ……
+It should be hard for you……";"He perdido Youko…… Nene…
+Toda mi vida, estuvimos juntos…… Fuimos amigos ……
+Debe haber sido difícil para ti……"
+"narrator";"由女は、陽子を強く抱き返す。
+ ──躊躇いながら、口を開く。";"Yume hugs Youko back tightly.
+ ─ ─ Hesitantly, she opens her mouth.";"Yume abraza a Youko con fuerza.
+ ─ ─ Vacilante, abre la boca."
+"Yume (talking)";"陽子さん…
+私じゃ… 寧々さんの代わりなんて、無理だけど…
+これから、頑張るから…
+陽子さんの負担にならないように、 もっと、頑張るから…… だから……
+ ………………
+お願い……だから、陽子さん…… もう、泣かないで……
+陽子……さ……
+ ………………
+ごめん…… 私、何もできなくて……何も……
+何も……
+ごめん、陽子さん…………";"Youko…
+I can't… replace Nene, but…
+I'll do my best from now on…
+I'll do my best so that I won't be a burden to Youko…… So ……
+ ………………
+Please…… don't cry anymore, Youko……
+Please…… don't cry anymore……
+ ………………
+I'm sorry…… I couldn't do anything…… nothing……
+Nothing……
+Sorry,Youko…………";"Youko…
+No puedo… sustituir a Nene, pero…
+Haré todo lo posible a partir de ahora…
+Trabajaré más duro para no ser una carga para Youko…… Así que ……
+ ………………
+Por favor…… así, Youko,…… no llores más……
+Por favor…… no llores más……
+ ………………
+Lo siento…… no pude hacer nada…… nada……
+Nada……
+Lo siento, Youko…………"
+"narrator";"──もう、二人は向き合うしかなかった。
+互いに向き合い、寄り添い、 支え合っていくしかなかった──";"They had no choice but to face each other.
+They had to face each other, cuddle, support each other…";"No tuvieron más remedio que enfrentarse.
+Tenían que enfrentarse, abrazarse, apoyarse…"
+"narrator";"──夜も更けた頃。
+教団本部内、古宮陽子の私室前に 由女の姿があった。
+陽子は──部屋の主は、まだ帰っていない。
+だから由女は、部屋の外で陽子を待ち続けた。";"─ ─ It was late at night.
+In front of Komiya Youko's private room in the Order's headquarters, Yume was seen.
+Youko, the owner of the room, had not yet returned home.
+So Yume continued to wait for Youko outside the room.";"─ ─ Era tarde en la noche.
+En el cuartel general de la Orden, Yume fue vista frente a la habitación privada de Komiya Youko.
+Youko - el dueño de la habitación aún no había regresado.
+Así que Yume siguió esperando a Youko fuera de la habitación."
+"Yume (talking)";"……遅いな… 陽子さん…………………… まさか、何かあって……";"…… You're late……… by Youko.……………… No way, something happened ……";"…… Llegas tarde… Youko…………………… No puede ser, algo pasó ……"
+"Komiya Youko (talking)";"…………っ、由女？ 何してるの、こんな所で…";"…………, Yume? What are you doing here?";"…………, Yume? ¿Qué estás haciendo aquí, en un lugar como…"
+"Yume (talking)";"あ、陽子さん……
+ ……良かった、 帰ってこないかと思った……";"Oh, Youko, ……
+ ……Good, I was afraid you wouldn't come back……";"Oh, Youko, ……
+ ……Bien, pensé que no ibas a volver……"
+"Komiya Youko (talking)";"……もう、 それはこっちの台詞よ…";"……, that's our line…";"……, esa es nuestra línea…"
+"Yume (talking)";"……えっ？";"…… eh?";"…… ¿eh?"
+"Komiya Youko (talking)";"仕事済ませて由女の部屋へ行ったら、 明かりは落ちてるし、あなたは居ないし…
+今まで私、 本部の中を探し回ってたのよ？";"I finished my work, I went to Yume's room, the lights were out, you weren't there…
+I've been looking all over headquarters for you, you know?";"Terminé mi trabajo y fui a la habitación de Yume, las luces estaban apagadas, no estabas allí…
+He buscado por toda la sede, ¿sabes?"
+"Yume (talking)";"探し回ってたって… 私に何か用事でもあったの？";"I heard you were looking for me… Did you need something from me?";"Dijo que te buscaba… ¿querías algo de mí?"
+"Komiya Youko (talking)";"それは……
+ ……いえ、私の前に由女よ。 あなたこそ私の部屋の前で何してたの？";"It's ………… No, it's Yume before me. What were you doing in front of my room?";"Es ………… No, es Yume frente a mí. ¿Qué hacías frente a mi habitación?"
+"Yume (talking)";"……えっ、私？ あ、私は……だから…………… 別に、用事はないんだけど…";"…… eh, me? Oh, I'm…… so…………… I don't really have any business…";"…… ¿Qué, yo? Oh, soy…… así que…………… Realmente no tengo ningún negocio…"
+"Komiya Youko (talking)";"何よ、歯切れ悪いのね。 隠し事？";"What, you're bristling. Are you hiding something?";"Qué, estás erizado. ¿Me estás ocultando algo?"
+"Yume (talking)";"………………
+せめて、夜くらい……
+昼間は、仕事だし… 今は特に、大変なときだし…
+でも、せめて夜は…… 陽子さんも、本部に帰ってくるし…
+ ……その…
+一緒に、居られたらって… 居てあげられたら、って……";"………………
+At least at night: ……
+I'm working during the day… and these are especially hard times…
+But at least at night…… Youko will be back at HQ……… that…
+I wish I could be with you… I wish I could be there for you……";"………………
+Al menos por la noche: ……
+Durante el día, tengo que trabajar… especialmente ahora, cuando es tan difícil…
+Pero al menos por la noche…… Youko estará de vuelta en el cuartel general……… que…
+Ojalá pudiera estar contigo… Ojalá pudiera estar ahí para ti……"
+"Komiya Youko (talking)";"由女……";"Yume……";"Yume……"
+"Yume (talking)";"…………ごめん、陽子さん…";"………… Sorry, Youko…";"………… Lo siento, Youko…"
+"Komiya Youko (talking)";"……何よ、別にそんな、 謝るようなことじゃないでしょうに…";"……What, nothing to apologize for…";"…… Qué, no tienes que… No tienes que disculparte por…"
+"Yume (talking)";"そう……だけど…";"So…… but…";"Así que…… pero…"
+"Komiya Youko (talking)";"……もう。
+それなら、私の方だって 由女に謝らなきゃいけないのよ？";"…… already.
+Then I owe Yume an apology too, don't I?";"…… ya.
+Entonces también le debo a Yume una disculpa, ¿no?"
+"Yume (talking)";"……えっ？";"…… eh?";"…… ¿eh?"
+"Komiya Youko (talking)";"私が、あなたを探していた理由…
+あなたが私を待っていたのと 同じだから。";"I was looking for you because…
+The same reason you were waiting for me.";"Te estaba buscando porque…
+Porque eres el mismo que me esperó."
+"Yume (talking)";"…………陽子さん……";"……………………Youko……";"…………Youko ……"
+"Komiya Youko (talking)";"さ、入って。 それとも、由女の部屋に行く？";"Come on in. Or do you want to go to Yume's room?";"Vamos, entra. ¿O quieres ir a la habitación de Yume?"
+"Yume (talking)";"あ……ううん、ここで…… ……ここがいい。";"Oh…… no, I like it here…… …… here.";"Oh…… no, me gusta aquí…… …… aquí."
+"Komiya Youko (talking)";"そう。じゃあ……";"Right. Okay, let's go to ……";"Sí. A continuación, vaya a ……"
+"narrator";"──そうして、二人の時間が過ぎる。
+今日は何があった、明日はきっとこうだ、 そういえば昔──等々、 とりとめのない話が続いていた。
+それで、楽しかった。 陽子にしても由女にしても、それで充分だった。
+けれど、お互いに一番話したい事、 話さなければいけない事は、避け続けて──";"And so time passes between the two of them.
+We talked about what happened today, what will happen tomorrow, how things used to be… and so on, and so on.
+So, it was fun. It was enough for both Youko and Yume.
+But they kept avoiding what they wanted to talk about the most, what they needed to talk about…";"Y así pasa el tiempo entre los dos.
+Hablamos de lo que ha pasado hoy, de lo que pasará mañana, de cómo eran las cosas antes… y así sucesivamente.
+Así que fue divertido. Eso fue suficiente para Youko y Yume.
+Pero seguimos evitando las cosas de las que más queríamos hablar, las cosas de las que necesitábamos hablar…"
+"Komiya Youko (talking)";"……あ… もう、こんな時間になってるのね。";"…… Ah… I can't believe it's already this late.";"…… Ah… No puedo creer que ya sea tan tarde."
+"Yume (talking)";"えっ？ あ、うん……そうだね。";"Eh? Oh, yeah…… I guess so.";"¿Eh? Ah, sí…… Sí, eso es."
+"Komiya Youko (talking)";"……そろそろ、寝なくちゃね。 部屋まで送ろうか？";"…… I should probably get to bed. Do you need a ride to your room?";"…… Probablemente debería ir a la cama. ¿Necesita un ascensor para llegar a su habitación?"
+"Yume (talking)";"あ、うん……
+ ……ねえ、陽子さん。 お願いがあるんだけど……";"Oh, yeah………… Hey, Youko. Can you do me a favor? ……";"Oh, sí………… Hey, Youko. ¿Puedes hacerme un favor? ……"
+"Komiya Youko (talking)";"お願い？　何？";"Please?　What?";"¿Por favor?　¿Qué?"
+"Yume (talking)";"…………泊まっちゃ、だめかな。 陽子さんの部屋に……";"………… I don't think I should stay at……………… in Youko's room.";"………… No debería quedarme en……………… en la habitación de Youko."
+"Komiya Youko (talking)";"……泊まって、って……";"…… Stay at…… and say “stay at ……";"…… Alojarse en…… dice ……"
+"Yume (talking)";"………………";"………………";"………………"
+"Komiya Youko (talking)";"……別に、いいわよ。 女同士なんだし、ね。
+那古教が形になる前以来ね。 昔はよく、私の家や寧々の家で…";"…… Nothing, I don't mind. We're both women, you know.
+Since before Nakokyou took shape. We used to hang out at my house and Nene's house…";"…… En realidad no, de acuerdo. Somos mujeres juntas, ya sabes.
+Desde antes de que Nakokyou tomara forma. Solíamos pasar el rato en mi casa y en la de Nene…"
+"Yume (talking)";"……女同士、か。 そうだよね……
+陽子さんにとっては… そうなんだよね……";"…… women together, huh? Yes, that's right……
+For Youko… I guess so……";"…… mujeres juntas, ¿eh? Sí, así es……
+Para Youko… sí……"
+"Komiya Youko (talking)";"何……どういう、事？";"What…… what, thing?";"¿Qué…… qué, cosa?"
+"Yume (talking)";"…………お願い、陽子さん。 怒らないで聞いてね…
+私、寧々さんが居なくなってから、 いろいろ……考えたんだ。
+今まで、寧々さんがいなくなるなんて 夢にも思わなくて……
+でも、違うんだよね。 誰だって、いなくなる時は…… いなくなるんだよね。
+私だって…… 陽子さんだって……";"………… Please, Youko. Don't get mad at me, please listen…
+I've been thinking a lot…… since Nene disappeared.
+Until now, I never dreamed that Nene would be gone……
+But it's different. When anyone disappears,…… they disappear too.
+Even me,…… and Youko, too,……";"………… Por favor, Youko. No te enfades conmigo, por favor, escucha…
+He estado pensando mucho…… desde que Nene desapareció.
+Hasta ahora, nunca soñé que Nene se iría……
+Pero es diferente. Todo el mundo desaparece cuando…… desaparece, ¿no?
+Incluso yo,…… incluso Youko, ……"
+"Komiya Youko (talking)";"……私は、居なくなったりしないわ。";"…… I'm not going away.";"…… No me voy a ir."
+"Yume (talking)";"…………無理だよ。 どんなに言ってみても…
+戦時中、昨日笑ってた人が 今日はもう冷たくなってるって… たくさん、たくさん見てきたし……
+だから、 生きてる間は頑張らなきゃって、 今までも、私……
+自分なりに、頑張ってきたつもりで…
+今だって、寧々さんが居なくなった分、 もっと頑張らなきゃって思うし……";"You can't …………. No matter how much I try to tell you…
+During the war, I've seen many, many people who were laughing yesterday are already cold today… and I've seen many, many ……
+That's why I've been trying to do my best while I'm still alive.
+I've been trying to do my best in my own way…
+Even now, I think I have to work harder because Nene is gone……";"………… No puedes. No importa cuánto intente decirte…
+Durante la guerra, he visto a mucha, mucha gente que ayer se reía y hoy ya tiene frío… y he visto a muchos, muchos ……
+Por eso siempre he dicho que tengo que hacerlo lo mejor posible mientras esté vivo, incluso hasta ahora……
+Lo he intentado a mi manera…
+Incluso ahora, creo que tengo que trabajar más duro porque Nene se ha ido……"
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Yume (talking)";"でも……でもね、でも……
+仮に、陽子さんが 私の側から居なくなったら……
+ ……想像、できないんだ。 何も……
+寧々さんみたいに…… 陽子さんがある日突然帰ってこなくて…
+そんなの、考えるだけで…… 辛くて、泣きそうになって……";"But…… but but ……
+If Youko were to disappear from my side of the ………… imagine, I can't. Nothing ……
+Like Nene,…… Youko doesn't come back one day…
+Just thinking about such a thing is so…… painful that I feel like crying……";"Pero…… pero, pero ……
+Supongamos que Youko ya no es de mi lado,………… imaginar, no puedo. Nada ……
+como Nene…… Youko no volvió un día…
+Sólo pensar en eso, es tan…… difícil, me dan ganas de llorar……"
+"Komiya Youko (talking)";"由女……";"Yume……";"Yume……"
+"Yume (talking)";"私、女だから…… 女のつもりだから、こんな筈ないって ずっと思ってて……
+陽子さんは、私の家族みたいなもので、 だから……そういう想いなんだって、 ずっと思ってて……
+でも、同じようにそう思ってた 寧々さんが居なくなって……
+絶対、違うって……気付いて……";"I'm a woman,…… so I always thought it couldn't be like this because I'm a woman,……
+I always thought that Youko was like my family and that's why…… she felt the way she did……
+But when Nene, who also felt the same way, disappeared,……
+I realized…… that it was definitely not the same……";"Soy una mujer,…… así que siempre pensé que no podía ser así porque soy una mujer, ……
+Youko es como mi familia, así que…… siempre pensé que así te sentías……
+Pero cuando Nene, que sentía lo mismo, desapareció,……
+Me di cuenta de que definitivamente no es lo mismo ……"
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Yume (talking)";"……お願い、気持ち悪いと思う。 こんな話聞くの嫌だと思う。
+でも、今だけ…… もう少しだけ聞いてて……
+私、こんな……化物だから、 女じゃないから、だから……
+だから、こんな想い…… 陽子さんに……
+ ………………
+ごめん、陽子さん…… …………好きなの……
+どうしようもないんだ…… 側にいて欲しいの……
+ごめん…… ごめん、陽子さん……
+ ……ごめん……";"Please ……, I think it's disgusting. I know you don't like to hear this kind of talk.
+But just for now,…… just listen to me for a little while longer,……
+I'm such a…… monster, I'm not a woman, so ……
+So, I'd like to share these thoughts with…… Youko……
+ ………………
+I'm sorry, Youko, I like…… …………
+I can't help it…… I want you to stay by my side……
+I'm sorry…… I'm sorry,Youko Mr…….
+I'm sorry…… I'm sorry……";"…… Por favor, creo que es asqueroso. No quiero escuchar estas historias.
+Pero por ahora,…… sólo escúchame un poco más, ……
+Soy un monstruo ……, no soy una mujer, así que ……
+Así que, tengo estos pensamientos…… para Youko……
+ ………………
+Lo siento, Youko, me gusta…… …………
+No puedo evitarlo…… Te quiero a mi lado……
+Lo siento…… Lo siento, Youko, ……
+Lo siento…… Lo siento……"
+"Komiya Youko (talking)";"由女……";"Yume……";"Yume……"
+"Yume (talking)";"………………";"………………";"………………"
+"Komiya Youko (talking)";"……寝衣、部屋に戻って取ってくる？ それとも、私のを……貸しましょうか。";"Do you want to go back to your room and get your…… nightgown, or do you want me to go back to my room and get it? Or do you want to borrow mine from ……?";"…… ropa de dormir, ¿quieres volver a tu habitación y cogerla? ¿O puedo prestarte el mío ……?"
+"Yume (talking)";"え……っ？";"What? ……?";"¿Qué? ……?"
+"Komiya Youko (talking)";"正直……私もね、 今は何時死ぬか解らないし…
+ ……もう、素直になるわ。 後悔なんて、したくないから。";"I'll be honest ……, I don't know when I'm going to die now either…
+I don't know when I'm going to die……… I'm going to be honest now. I don't want to have any regrets.";"Voy a ser honesto…… Yo tampoco sé cuándo voy a morir ahora……… Voy a ser honesto ahora. No quiero arrepentirme de nada."
+"Yume (talking)";"陽子……さん…";"Youko ………";"El sistema de gestión de la calidad de los productos de la empresa es el mismo que el de los productos de la empresa."
+"Komiya Youko (talking)";"ありがとう、由女。 私なんかを、そんなに……
+ ……嬉しかった。";"Thank you, Yume. It was such a pleasure to see you so ……
+I was so…… happy.";"Gracias, Yume. Me hiciste sentir tan ……
+Estaba…… feliz."
+"narrator";"陽子が、由女の側に歩み寄る。 一歩ずつ、近付いていく。
+そして、どちらからともなく伸ばされた腕が絡み、 二人の距離が無になった。
+ ──躰だけでなく、心の距離も。
+寄り添った二人は、やがて、 無になった距離をさらに縮めていき──
+一つになろうと、互いを求め合った。";"Youko steps closer to Yume's side. One step at a time, they moved closer.
+And then, their arms, which were extended from either side, intertwined, and the distance between them became nothing.
+Not only the distance between their bodies, but also the distance between their hearts.
+The distance between the two, now that they are no longer together, shrinks further and further…
+They sought each other to become one.";"Youko se acerca al lado de Yume. Paso a paso, se fueron acercando.
+Entonces, los brazos extendidos de ambos lados se entrelazan, y la distancia entre ambos se convierte en nada.
+No sólo la distancia entre sus cuerpos, sino también la distancia entre sus corazones.
+Los dos, que se habían acercado tanto el uno al otro, pronto acortaron la distancia que se había reducido a nada…
+Se buscaron mutuamente para convertirse en uno."
+"cg narrator";"──陽子の手が、舌が、由女の躰を這う。
+緊張する由女の躰を解きほぐすように、 反応を見ながら、あくまで優しく行為を進めていく。
+ ──由女の手が、舌が、陽子の躰を這う。
+どうすれば良いのか解らず、戸惑いながら、 それでも懸命に行為を続けていく。
+ 「……っ、ああ……ッ、んっ…… 　陽子さ……ん、っう……あ、や…………」
+ 「由女……うん、そこっ、ア……っ…… 　い……い、すごく……気持ち、いっ…………」
+二人の声が重なり、確実に高まっていく。
+性の技巧など二の次だった。 そんなものは二人に関係なかった。
+禁忌と思い、ずっと抑え続けてきた気持ちが、 堰を切ったように溢れ出し、 触れている場所から相手に流れ込んでいく。
+唇でも、指先でも──灼けるほどに熱かった。 抱き合うだけで気持ちよかったし、感じ合えた。
+ただ、陽子は一つだけ迷っていたのだが──
+ 「……ん、むく……っ、ちゅ……っ……」
+由女の秘裂を指でくじりつつ、 屹立したものを唇で愛撫していた陽子が、 ふいに行為を止めた。
+ 「……っ、あっ…… 　え、あ……？　陽子さ……」
+ 「ねえ、由女…… 　恥ずかしいと思うけど、一つだけ答えて…… 　……どっちが……いい？」
+ 「え……どっち、って……」
+ 「その……私と、こっちの、硬い方で……するのと、 　指とか、挿れて……してあげるのと……」
+由女の顔が、火でもついたように赤くなる。
+ 「え、えっと……私、その………………」
+しばらくの間、沈黙があった。 由女にとっては、即答できる事ではないから。
+ ──けれど、目を閉じ、顔を伏せて、 由女はようやく口を開く。
+ 「陽子、さんと……したい…………」
+陽子は微笑んで、解った、という答えの代わりに 由女の頬に軽く口付けた。
+そして、仰向けに寝かせた由女の腰をまたいで 屹立するものを手で導きながら──
+ ──陽子はゆっくりと、腰を沈めていった。";"─ ─ Youko's hands and tongue crawled on Yume's body.
+As if to relax Yume's tense body, she proceeds with the action gently, watching her reaction.
+Yume's hands and tongue crawled on Youko's body.
+Youko was puzzled and didn't know what to do, but she still continued the action with great effort.
+She said, “……, ah……, nn…… Youko's…… nn,ugh! ……Ah, ya……………… feeling, I…………”
+Their voices overlap and steadily increase.
+Sexual skill was of secondary importance. It was not about them.
+The feelings that they have been suppressing for so long, thinking it forbidden, overflowed like a dam and flowed into the other person from where they were touching.
+Even my lips and fingertips were scorching hot. It felt good just to hold each other, to feel each other.
+But Youko had one thing on her mind…
+ “……n, swell……, chuu……!”
+Youko, who had been squeezing Yume's cleft with her fingers and caressing the towering thing with her lips, suddenly stopped what she was doing.
+She stopped suddenly, “……, ah……?　Youko is …….”
+ “Hey, Yume…… I know it's embarrassing, but just answer me one thing…… …… which one is……okay?”
+ “Which…… is…… better?”
+ “Well, I mean, either me and this one, the hard one, or a finger or something that I can put in and…… you… …”
+Yume's face turns red as if on fire.
+I, uh,…… I, that …………………”
+There was silence for a while. The first thing to do is to make sure that you have a good idea of what you are looking for.
+But, closing her eyes and keeping her face down, Yume finally opens her mouth.
+ “Youko, I want to…… with you ………….”
+Youko smiled and kissed Yume lightly on the cheek instead of answering “I understand.
+And then, straddling Yume's hips as she lay on her back, guiding the towering thing with her hand…
+ ─ ─ Youko slowly sank her hips down.";"─ ─ Las manos y la lengua de Youko se arrastran por el cuerpo de Yume.
+Como para relajar el cuerpo tenso de Yume, procede a la acción con suavidad, observando su reacción.
+ ─ ─ Las manos y la lengua de Yume se arrastraron por el cuerpo de Youko.
+El cuerpo de Youko se arrastra con las manos y la lengua de Yume.
+ '……, ah……, nn…… Youko's…… nn,ugh! ……Ah, ya…………”…… sentimiento, I…………”
+Sus voces se superponen y aumentan constantemente.
+La habilidad sexual tenía una importancia secundaria. No les importaba.
+Los sentimientos que creían prohibidos y que habían estado reprimiendo durante mucho tiempo se desbordaron como una presa, fluyendo hacia la otra persona desde el lugar donde se tocaban.
+Incluso con los labios, incluso con las yemas de los dedos, estaba abrasador. Se sentía bien simplemente abrazarse, sentirse el uno al otro.
+Pero Youko tenía una cosa en mente…
+ '……n, swell……, chu……, chu…….'
+Youko, que había estado apretando la hendidura de Yume con los dedos y acariciando la imponente cosa con los labios, dejó de repente lo que estaba haciendo.
+ '……, ah…… eh, ah……?　Youko es …….”
+ 'Hey, Yume…… Sé que es embarazoso, pero sólo contéstame una cosa…… …… cuál… …¿de acuerdo?”
+ “¿Qué…… es mejor?”
+ “Bueno,…… yo y este, el duro, o un dedo o algo para poner y……… …”
+La cara de Yume se pone roja como si estuviera en llamas.
+ 'Bueno, uh,…… Yo, que …………………'
+Se hizo el silencio durante un rato. Para Yume, no es algo que pueda responder inmediatamente.
+Pero, cerrando los ojos y manteniendo la cara baja, Yume finalmente abre la boca.
+ 'Youko, quiero…… contigo …………'
+Youko sonrió, y en lugar de responder que lo entendía, besó ligeramente a Yume en la mejilla.
+Entonces, sentándose a horcajadas en la cintura de Yume, que estaba tumbada de espaldas, y guiando la cosa altísima con la mano, Youko dijo
+ ─ ─ Youko hundió lentamente sus caderas."
+"cg narrator";"「あ……っア…………あああっ…………！」
+由女のものが自分の中を進んでくる感覚に震え、 堪えきれずに陽子が声を上げた。
+そして、由女も。
+ 「あ、や……っ…………！」
+悦楽に息を呑み、呻いて、躰を強張らせる。
+いや、由女に限って言うなら、 その反応には一種の怯えが見てとれた。
+ （陽子さんが……陽子さんが、私……私を…… 　や、やだ……呑み込んで……いく、っ…………）
+それは、 由女がかつて経験したことのない感覚だった。
+自分を包み込んでくる陽子の躰に隙間はなく、 それなのに狭くない。 ぴたりと合わさって優しく絡みついてくる。
+ 「や、な……何、なに……っ！？」
+陽子の躰がこうだとは知らなかった。 陽子にこんな面があるとは思わなかった。
+自分の知らない陽子が、 自分の弱い部分を呑み込んでいく──
+だから、身震いする。 声が上がる。
+ 「う、うあ……っ、ひっ…………！」
+ ──由女のものが、その付け根まで完全に 陽子の中に収まった。
+陽子の中に、溶けていくようだった。
+少なくとも由女は、痛いほどに張り詰めていた 自分の先端が消え失せたように感じていた。
+ ──なのに。
+自分のものの感覚が消えているのに、 暖かさと気持ちよさだけが 繋がっている場所から止めどなく流れ込む。
+ 「や、な……何、な…… 　ああ、あ……ああああっ…………！」
+由女は、自分でも解った。 女の部分までもが、悦楽に反応し始めた。
+まるで別の生き物のように、 淫らな蜜を吐き出し、ひくひくと蠢いている。
+ ──狂いそうなほど、悦楽が増していく。 熱い塊になって、背筋を這い上がってくる。
+ 「や、やっ……や……ふあ……あ……！ 　陽子、陽子さ…………！」
+由女は心細くなって、陽子を求めて名を呼ぶ。 自分に覆い被さる躰にしがみつく。
+ 「ゆ、め……由女…… 　お願い、一つ……お願いがあるの……」
+しがみついた由女の耳元で、陽子がぽつりと呟いた。
+その声は弱々しく、 荒い息づかいの中に埋もれそうなほど微かだった。
+ 「……よ、うこ……さん……？」
+ 「ご、めん……私、力……入らなくて……」
+由女は、陽子に言われて初めて気付いた。
+自分の腰をまたぐ陽子の両の腿が、 躰を支えきれずに震えていることに──
+ 「ごめん……恥ずかしい、けど、私…… 　力、入らなくて……」
+ 「あ……」
+由女は、自分を犯す未知の感覚に怯えて、 それで陽子にすがりついたのに──
+陽子の躰は、自分以上に震えていた。 陽子の声は、自分以上に細かった。
+それで、思い至った。
+自分にもある、女の部分。 柔らかくて、敏感で、弱い場所。
+そこに今──自分の、硬くなったものがある。
+陽子の敏感な場所が、 自分のあんなものに貫かれている──
+ （私だけじゃ、ないの………？）
+ ──自分だけが、 怯えている訳にはいかなかった。
+ 「全部、してあげたかったんだけど…… 　お願い、由女……動いて……… 　私も、動くから……」
+ 「で、でも……でも、私……」
+ 「お願い、もっと由女を感じていたいから…… 　もっと由女に感じて欲しいから……」
+言って、陽子が静かに動き始める。
+ 「……あ……っ……」
+甘い痺れが、 由女の躰に波を打ちながら広がっていく。
+じっとしては、いられなかった。
+ 「ふぁ……あ……！　ああっ…………！」
+由女が動き始めて、
+それと同時に陽子の声が上がる。
+ 「由女……あ、いっ……っは……」
+切なそうな声。 けれど、自分を求めてくれている声。
+それに応えたくて、由女は精一杯動く。
+ 「あ……や、陽子、さ……あああッ……！ 　っ、う……うあっ……あァ、っん…………！」
+全身に広がっていく悦楽に、 由女の口からも止めどなく喘ぎが漏れる。
+ 　　［……ちゅ、くちゅ、くちゃ……］
+腰をつかう度、淫水が立てる重い水音が耳に届く。 ──淫猥なその響きが、耳を犯す。
+怖かった。 自分がどうにかなりそうで怖かった。
+けれど、由女はもう怯えてはいなかった。
+今、自分と肌を重ねているのは、 ずっと好きだったひとだから。
+だから、怯えてはいられない。
+どうにかなりそうなら、なればいい。 ──乱れてしまえばいい。
+好きな人とこうしていて、 どうにかならない方がおかしいのだから──
+ 「う、あ……ああっ、やは……ああっ……！ 　やあ、あ…………っあ……アっ……！」
+ 「ひあ……っああああっ……！ 　ああ……っ、うぅ……っく……い……！！」
+二人の声が、だんだん高くなっていく。
+個々の動きは決して激しくはなかったが、
+相手を思い合って続ける行為は、 確実に互いを頂点へと導いていった。
+ 「よ、うこ、さん……も、う、だめ…… 　ち、ちから……はいらな────っ…… 　……い、く……も、私……っ……！！」
+ 「……い……いの……ゆ、め、わたし……も、 　…………っ、あ……ああっ……あ……！ 　お、ねが……いっ、しょに……っ────！」
+ 「…………っ、あ……………………！」
+ 「…………ふ、ぁ……………………！」
+ ──二人が、同時に達する。
+ 　　［……びゅく、びゅ──っ、どく……］
+陽子の中に、由女が精を放つ。 躰を強張らせ、背を反り、やがて──脱力する。
+そして陽子も、胎の奥を叩く迸りに 背筋を震わせて──静かに、身体を横たえる。";"”Oh ……, ah………… ah……… …!”
+Youko trembled at the sensation of Yume's stuff moving inside her, and unable to hold back, she raised her voice.
+And Yume too.
+Oh, my …………………!”
+Gasping with pleasure, she moaned, her body tensing up.
+No, if we limit ourselves to Yume, we can see a kind of fright in her reaction.
+ (Youko is…… Youko is…… me…… me…… Oh, no……swallow me…… and go, damn it …………)
+It was a feeling Yume had never experienced before.
+The body of Youko, which enveloped her, had no gaps, and yet it was not narrow. The two of them are not only the same, but they are also very close to each other.
+What, what, what is ……?
+I didn't know Youko's body was like this. The most important thing to remember is that you can't just take a look at the actual product or service and expect it to be just as good as it was before.
+The Youko that I didn't know existed swallowed up the weak part of me…
+That's why I tremble. My voice rises.
+ “Uh-uh ……, hihi …………!”
+Yume's thing, up to the base of it, was completely inside Youko.
+The most important thing to remember is that you should not be afraid to ask for help from your friends and family.
+At least Yume felt as if the tip of her painfully tense self had vanished.
+ ─ ─ And yet.
+The feeling of belonging has vanished, but only warmth and pleasantness flowed unstoppably from the place where they were connected.
+ “No, no…… what, no…… ah…… ah…… ah…… ah……! ……!”
+Yume found out for herself. The woman's part also reacted to the pleasure and Hajime.
+It was as if she was a different creature, spitting out lewd nectar and twitching and wriggling.
+The pleasure increased to the point of insanity. It crawls up my spine in a hot mass.
+I'm like, “Ya, ya ……, ……, ah ……, ah ……! 　Youko, Youko Sa…………!”
+Yume is inconsolable and calls out her name, seeking Youko. He clings to the body that covers him.
+Yume Yume……, please, I have one Yume Concern .”
+In the ear of Yume who clung to her, Youko muttered a few words.
+The voice was weak and so faint that it seemed to be buried in the rough breathing.
+I'm ……, Youko, ……?”
+I'm sorry…… I couldn't…… get in there.
+Yume realized only when Youko told her.
+The actual “I'm sorry,, I'm ashamed,, I'm ashamed,, I'm ashamed,, I'm ashamed,, I'm ashamed,, I'm ashamed,.
+ “I'm sorry ……, I'm embarrassed, but I…… couldn't hold myself up ……”
+ “Oh ……”
+Yume was terrified of the unknown sensation of being violated, so he clung to Youko…
+Youko's body was trembling more than she was. Youko's voice was thinner than her own.
+Then, I realized.
+I also have a female part. A soft, sensitive, weak place.
+That's where my hardened part is now.
+Youko's sensitive spot was being penetrated by something of mine.
+ （I'm not the only one………?)
+I couldn't be the only one freaking out.
+ “I wanted to do everything for you,…… but please,Yume…… move,……… I'll move, too…….”
+ 'So, but…… but I ……
+Please, I want to feel more Yume……, because I want Yume…… to feel more ……
+I say, and Youko quietly moves Hajime.
+ “Youko, I want you to feel more Yume.”
+A sweet numbness spread through Yume's body in waves.
+I couldn't stay still.
+ “Oh……Ah……!　Ahh…………!
+Yume moved and Hajime moved.
+At the same time, Youko's voice rises.
+ “Yume ……Ah, ah, ah……!”
+The voice sounds sad. But it's a voice that wants you.
+The most important thing to remember is that you should not be afraid to ask for help.
+The voice is “Ah……, Youko, sa…… ahhh……! 　Oh, oh…… oh…… ah, nn…………!”
+The pleasure spreading throughout her entire body, Yume's mouth also leaks out an unstoppable gasp.
+ 　　[……Suck, squeak, squeak……]
+Every time she grabs her hips, the heavy sound of the water reaches her ears. The sound of the water is obscene, and it assaults my ears.
+I was scared. I was afraid that I was going to be killed.
+But Yume was no longer frightened.
+Because the person whose skin she is laying on top of hers right now is the person she has always loved.
+So, I can't be scared.
+If it seems like it's going to happen, then it will. If it seems like it's going to happen, then let it happen.
+It would be strange if things didn't get out of control with the person you love.
+ “Uh, ah…… ah, ya ha…… ah…… ah! 　”Hi, ah…………, ah……, ah……!”
+ “Hi ah…… ah……! 　Ah……, ah……, ah……, ah……, ah……, ah……!
+Their voices were getting higher and higher.
+Although their individual movements were not intense, the act of continuing to think of each other was.
+The act of continuing to think of the other person was surely leading each other to the top.
+The two were not moving too hard, but their continued actions, in consideration of each other, were sure to bring them to the top……… I, u…… too, I…… too……!
+ “……Yi,……No,……Yu,me,…… too,… ………, ah…… ah…… ah……! 　I'm…… with you…… and I'm ──── with you!
+ ……………, ah…………… ………!
+ “…………, ah…………… ………!”
+ ─ ─ Two people reach at the same time.
+ 　　[……Byuuk, byuu───doku……]
+Yume releases his sperm into Youko. She tenses her body, arches her back, and then… she weakens.
+And Youko also shudders as the gusher strikes the depths of her womb, and she quietly lays her body down.";"”Ah…… ah………… ah……… …!”
+Temblando ante la sensación de que las cosas de Yume avanzaban dentro de ella, Youko, incapaz de contenerse, alzó la voz.
+Y Yume también.
+ “¡Ah, ya……… …………!
+Jadeando y gimiendo de placer, su cuerpo se tensó.
+No, si nos limitamos a Yume, podemos ver una especie de susto en su reacción.
+ (Youko es…… Youko es…… Youko es…… Youko es…… Youko es…… Youko es…… me…… No, no… …trágame…… y vete, oh …………)
+Era una sensación que Yume nunca había experimentado.
+No había ningún hueco en el cuerpo de Youko que la envolviera, y sin embargo no era estrecho. Es un entrelazamiento suave y gentil.
+ ¿Qué, qué, qué es ……?
+No sabía que el cuerpo de Youko era así. Lo más importante que debes recordar es que no debes tener miedo de pedir ayuda a tus amigos y familiares.
+El Youko que no conocía se tragó mi parte débil…
+Por eso tiemblo. Mi voz se eleva.
+ “Uh-uh ……, ¡hola …………!”
+ ─ ─ La cosa de Yume, hasta la base de la misma, estaba completamente dentro de Youko.
+Parecía fundirse en Youko.
+Al menos Yume sintió como si la punta de su yo dolorosamente tenso hubiera desaparecido.
+ ─ ─ Y sin embargo.
+La sensación de sus propias cosas había desaparecido, pero sólo la calidez y el placer fluían imparables desde el lugar donde estaban conectados.
+ 'No, na…… qué, na…… ah, ah…… ah ah ah ah…… ……!”
+Yume lo descubrió por sí misma. Las partes de la mujer también reaccionaron al placer y Hajime.
+Como una criatura diferente, escupía miel lasciva y se retorcía.
+El placer aumenta hasta la locura. Se arrastra por mi columna vertebral en una masa caliente.
+ '¡Ya, ya ……, ya…… fu…… fu…… a…… a……! 　Youko, Youko sa …………!”
+Yume está inconsolable y grita su nombre en busca de Youko. Se aferra al cuerpo que la cubre.
+ 'Yume ……Yume…… por favor, tengo una petición Yume ……'.
+Al oído de la aferrada Yume, Youko murmuró unas palabras.
+La voz era débil, tan tenue que parecía enterrada en la áspera respiración.
+ “……, Youko, ……?
+ 'Lo siento, lo siento…… no pude entrar en…… con mi fuerza …….'
+Yume sólo se dio cuenta de esto cuando Youko se lo dijo.
+Estaba temblando porque sus muslos estaban a horcajadas sobre su cintura, incapaces de sostener su cuerpo…
+ 'Lo siento…… Estoy avergonzado, pero yo…… no podía mantener mi fuerza ……'
+Oh ……”
+A Yume le aterraba la sensación desconocida de ser violada, así que se aferró a Youko, pero…
+El cuerpo de Youko temblaba más que ella. La voz de Youko era más fina que la suya.
+Entonces entré en razón.
+La parte de mujer que yo también tengo. Un lugar suave, sensible y débil.
+Ahí es donde está ahora lo mío, endurecido.
+El punto sensible de Youko está siendo penetrado por mi propia cosa…
+ （No soy el único………?)
+No podía ser el único que se asustara.
+ “Quería hacerlo todo por ti…… Por favor, Yume…… muévete……… Yo también me moveré……”
+ 'Entonces, pero…… pero yo …….'
+ 'Por favor, quiero sentir más Yume…… porque quiero sentir más Yume……
+Diciendo esto, Youko mueve tranquilamente a Hajime.
+ 'Youko, quiero sentir más Yume.'
+Un dulce entumecimiento se extendió por el cuerpo de Yume en oleadas.
+No podía quedarme quieto.
+ '¡Hu……Ah……!　Ahh…………!”
+Yume se movió y Hajime se movió.
+Al mismo tiempo, la voz de Youko se eleva.
+ “¡Yume, yo… Hajime…!
+Una voz que suena triste. Pero es una voz que te quiere.
+Para responder a ella, Yume se mueve todo lo que puede.
+ '¡Ah……ya, Youko, sa…… ah……! 　¡Oh, ah…… ah…… ah, nn…………!”
+El placer se extiende por todo su cuerpo, la boca de Yume también deja escapar un jadeo imparable.
+ 　　[……Chupa, chupa, chupa……]
+Cada vez que se agarra a las caderas, el pesado sonido del agua llega a sus oídos. El sonido del agua es obsceno y asalta mis oídos.
+Tenía miedo. Tenía miedo de perder el control.
+Pero Yume ya no tenía miedo.
+En este momento, la persona cuya piel se superpone a la suya es la persona a la que ama desde hace mucho tiempo.
+Por eso no puedo tener miedo.
+Si parece que va a suceder de alguna manera, entonces debe hacerlo. Si parece que va a ocurrir, entonces que ocurra.
+Es extraño estar así con alguien a quien quieres y no poder hacer nada al respecto.
+ ¡”Uh, ah…… ah, ya ha…… ah…… ah! 　¡Hola, ah…………, ah……, ah……!
+ “¡Hola ah…… ah……! 　¡Ah……, ah…… ah…… ah…… ah…… ah…… ah……!”
+Sus voces eran cada vez más altas.
+Sus movimientos individuales no fueron en absoluto intensos.
+Las voces de los dos hombres se elevaron cada vez más.
+ 'Yo, uko, san……, u, no……, chi, chikara……, yarana────…… …… Yo, u…… también, yo…… también ……!!
+ '……I,……I,……Tú,yo,……,también,……,también… ¡………, ah…… ah…… ah……! 　¡Estoy…… con usted…… y estoy ──── con usted!… …………, ah…………… ………!”
+ “…………, ah…………… ………!”
+ ─ ─ Dos personas llegan al mismo tiempo.
+ 　　[…… Byuk, byuk──doku……]
+Yume libera su esperma en Youko. Su cuerpo se tensa, arquea la espalda y, finalmente, se debilita.
+Y Youko, también, se estremece en su espina dorsal por el chorro que golpea las profundidades de su vientre, y -silenciosamente- se recuesta."
+"cg narrator";"二人は、そのままで──寄り添ったままで、 安らぐ温みの中で眠りに落ちていった。";"They remained there, snuggled together, falling asleep in the comforting warmth of the room.";"Se quedaron quietos, acurrucados, y se durmieron en el reconfortante calor."
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"narrator";"そして──翌朝。";"And then - the next morning.";"Y - a la mañana siguiente."
+"Komiya Youko (talking)";"じゃあ……行ってくるわ。";"I'll go to…… then.";"Entonces iré a ……."
+"Yume (talking)";"……うん。";"…… yeah.";"…… Sí."
+"Komiya Youko (talking)";"………… 必ず、帰ってくるから。
+明日も、明後日も……ずっと。
+もう、由女を一人にはしないから。";"………… I'll be back, I promise.
+Tomorrow, the day after tomorrow and all the way to…….
+I won't leave Yume alone anymore.";"………… Siempre volveré.
+Mañana, pasado mañana y todo el camino hasta……
+Ya no dejaré sola a Yume."
+"Yume (talking)";"うん。 ……信じてる。";"Yeah. I believe …….";"Sí. Creo en ……."
+"Komiya Youko (talking)";"…………行ってきます。";"I'm off to ………….";"Ir a …………."
+"Yume (talking)";"………… 信じてるから……";"………… because I believe in it ……";"………… Porque creo en ello……"
+"Yume (talking)";"ええと…… あとはむこうの通りを一軒一軒回れば 巡回は終了、と。
+陽子さん、それでいいんだよね？";"Let's see,…… And then we'll go door to door on the other side of the street, and then our patrol is over Ryou, and so on.
+That's all right, isn't it, Youko?";"Veamos,…… Y luego iremos de puerta en puerta por la calle de allí, y la patrulla estará sobre Ryou, y…
+Youko, está bien, ¿no?"
+"Komiya Youko (talking)";"……………………あ…… ごめん由女、聞いてなかった……";"…………………… Oh…… sorry Yume, I didn't hear you ……";"…………………… Oh…… Lo siento Yume, no estaba escuchando ……"
+"Yume (talking)";"もう……仕事中なのに。 ぼんやりしてたら悪司さんに怒られるよ？";"I'm already at…… work. If I'm dawdling, Akuji will get mad at me, okay?";"Ya estoy en…… trabajo. Si me entretengo, Akuji se enfadará conmigo, ¿vale?"
+"Komiya Youko (talking)";"…………山本悪司、か。
+ねえ、由女…… あの男、どういうつもりなのかしらね。";"…………Yamamoto Akuji, huh?
+Hey, Yume…… I wonder what that guy is up to.";"…………Yamamoto Akuji, ¿eh?
+Hey, Yume…… Me pregunto qué está haciendo ese hombre."
+"Yume (talking)";"？　どういうつもり……って？";"What do you mean?　What do you mean ……?";"¿Qué está pasando?　¿Qué quiere decir ……?"
+"Komiya Youko (talking)";"仮にも、元は敵だった者を… しかも由女と私を、こうして 一緒に働かせる神経が解らないのよ。
+私たち、 那古教のトップと幹部だったのよ？
+もし私が悪司なら、 こんなこと絶対にしないわ。";"I just don't understand the nerve of letting a former enemy of mine, Yume, and I work together like this.
+We were the head and the executive of Nakokyou, remember?
+If I were Akuji, I would never do this.";"No entiendo el descaro de dejar que un antiguo enemigo… y Yume y yo, trabajemos juntos así.
+Éramos el jefe y el ejecutivo de Nakokyou, ¿recuerdas?
+Si yo fuera Akuji, nunca haría esto."
+"Yume (talking)";"…………えーと…… ごめん、何言ってるかよく解んない…";"………… er,…… Sorry, I don't know what you're talking about…";"………… er,…… Lo siento, no entiendo lo que dices…"
+"Komiya Youko (talking)";"たとえばね、私なり由女なりが 元信者たちに声をかければ それなりの組織はすぐ作れるわ。
+しかも今だって、 私たちは見張りもなしで……
+これじゃあ、私たちに 手を組んで裏切れって 言ってるようなものじゃない。
+何か、裏でもありそうで… 気味悪くない？";"For example, if I or Yume call on ex-believers, we can easily create an organization of our own.
+And even now, we're not even on the lookout for ……
+This is like asking us to join hands and betray you.
+It's kind of creepy, don't you think?";"Por ejemplo, si yo, o Yume, o cualquier otra persona, podemos hablar con los ex-creyentes, podemos organizarlos de forma razonable.
+E incluso ahora, podemos hacerlo sin ninguna supervisión ……
+Esto es como pedirnos que unamos fuerzas y te traicionemos.
+Es como si hubiera algo a nuestras espaldas, y es… es espeluznante, ¿no?"
+"Yume (talking)";"どうかなあ…… 別に裏なんてないと思うけど……";"I don't know…… I don't think there's anything behind it……";"No lo sé…… No creo que haya nada detrás……"
+"Komiya Youko (talking)";"どうして？";"Why?";"¿Por qué?"
+"Yume (talking)";"どうして、って……
+ ……なんとなく。";"Why, you ask? ………… somehow.";"Por qué, ………… algo."
+"Komiya Youko (talking)";"何よそれ…… あの男を信用してるみたいな言い方ね。";"What's that…… You sound like you trust the guy.";"¿Qué es eso?…… Parece que confías en el hombre."
+"Yume (talking)";"べっ、別にそんな、 信用なんて……してないよ。
+でも今、プライベートとかで 陽子さんと会ったりするのは 完全に許してもらってるし……
+そういう意味では、 信用って言うか……感謝くらいは しててもいいんじゃないかな……
+陽子さんも言ったけど、 私たち、悪司さんの敵だったんだし…";"No, I don't trust …….
+But now, I have your complete permission to meet with Youko in private and so on……
+In that sense, I think you should at least trust…… me, or at least be grateful ……
+Like Youko said, we were Akuji's enemies…";"No, no confío en …….
+Pero ahora, estoy completamente autorizado a ver a Youko en privado y esas cosas……
+En ese sentido, creo que está bien confiar en…… o al menos estar agradecido ……
+Como dijo Youko, éramos enemigos de Akuji…"
+"Komiya Youko (talking)";"…………
+度量が広いのか、何も考えてないのか… どっちなのかしらね。";"…………
+Either you have a big heart or you have no idea… I don't know which it is.";"…………
+O tienen un amplio grado de tolerancia o no le dan importancia… sea lo que sea."
+"Yume (talking)";"……ねえ、陽子さん。 今、待遇とか……不満あるの？";"…… Hey, Youko. Are you complaining about your treatment or…… right now?";"…… Hey, Youko. ¿Se queja ahora de su tratamiento o de ……?"
+"Komiya Youko (talking)";"えっ？ いいえ、別にないけれど。";"Eh? No, not really.";"¿Eh? No, no realmente, pero…"
+"Yume (talking)";"なら、いいじゃない。 変に疑うと、きりがないし……";"If that's the case, that's fine. There's no end to the weird doubts……";"Entonces eso es bueno. Si lo duda, no tiene fin……"
+"Komiya Youko (talking)";"………………そう、ね。 それは、由女の言う通りね。";"………………Yeah, right. That's what Yume said.";"……………… Sí, claro. Eso es lo que dijo Yume."
+"Yume (talking)";"あと……話、変わるんだけど。
+陽子さんのとこに、今夜… 遊びにいっても、いい？";"Also, ……, I'm going to change the story.
+Can I come over to Youko's place tonight?";"Y…… historia, está cambiando.
+ ¿Puedo ir a casa de Youko… esta noche?"
+"Komiya Youko (talking)";"……訊く必要あるの？ いつでも勝手に遊びに来ていいのよ。";"Do you need to ask ……? You can always come visit me on your own.";"…… ¿Tienes que preguntar? Siempre puede venir a visitarnos por su cuenta."
+"__system__??";"{☆那古Ｂ \ 2:";"";""
+"Komiya Youko (talking)";"由女が来てくれるの、 私だって嬉しいんだから……";"I'm so happy that Yume is here……";"Me alegro de que Yume también esté aquí……"
+"Yume (talking)";"……うんっ。";"…… Yeah.";"…… Sí."
+"__system__??";"}";"";""
+"__system__??";"{☆那古Ｂ = 2:";"";""
+"Yume (talking)";"それとも、いっそ……一緒に住む？ 昔みたいに。";"Or, better yet, move in with ……? Like in the old days.";"O, mejor aún, ¿vivir con ……? Como en el pasado."
+"Yume (talking)";"えっ……？ いいの？　ほんとに？";"What, ……? Are you sure?　Are you sure?";"¿Qué, ……? ¿Está seguro?　¿Está seguro?"
+"Komiya Youko (talking)";"いいも何も、由女が嫌じゃなければね。 今は、その方が自然かもしれないし…";"Fine or not, as long as Yume doesn't mind. Now, that might be more natural…";"Bueno o nada, siempre que a Yume no le importe. Ahora, eso podría ser más natural…"
+"Yume (talking)";"あ…………
+う……うん、そうだね………";"A…………
+U……Yeah, that's right………";"A…………
+U……Sí, así es………"
+"Komiya Youko (talking)";"…………何よ由女、 別に、照れることじゃ……";"…………What's with the Yume, it's nothing to be embarrassed about……";"………… Qué Yume, no es nada para avergonzarse……"
+"Yume (talking)";"てっ、照れてないってばっ。";"I'm not embarrassed.";"No estoy avergonzado."
+"__system__??";"}";"";""
+"narrator";"地域の巡回中、古宮陽子と由女が 冷えたラムネを片手に小休止をとっていた。";"While on patrol in the area, Komiya Youko and Yume were taking a short break with a cold glass of rumune in hand.";"Durante una patrulla en la zona, Komiya Youko y Yume se tomaban un pequeño descanso con un rumney frío en la mano."
+"Yume (talking)";"……街の復興って、 思ったより進んでるんだね。
+私……那古教に居た時は、 本部からほとんど動かなかったから 解らなかったけど……";"……The recovery of the city is progressing better than I thought.
+When I was at ……Nakokyou, I hardly moved from the headquarters, so I didn't understand……";"…… la reconstrucción de la ciudad avanza mejor de lo que pensaba.
+Cuando estaba en ……Nakokyou, apenas me movía de la sede, así que no lo entendía……"
+"Komiya Youko (talking)";"ああ……そうね、 一時期に比べたら、随分と。
+でも、どうして突然そんな事を？";"Ahh…… yes, much more so than at one time.
+But why all of a sudden?";"Oh,…… sí, mucho más que en una época.
+Pero, ¿por qué de repente?"
+"Yume (talking)";"最近、仕事の巡回で 陽子さんとよく街を歩くでしょ？
+それで、那古教の発足前を 思い出してたんだ。
+ほら、あの頃はこんな風に ラムネなんて売ってなかったし…";"Lately, you and Youko have been walking around town a lot on your work rounds, right?
+That made me think back to before the inception of Nakokyou.
+You see, back then, they didn't sell Ramune like this…";"Últimamente, tú y Youko habéis paseado mucho por la ciudad en vuestras rondas de trabajo, ¿verdad?
+Eso me hizo pensar en antes de que se fundara Nakokyou.
+Verás, en aquel entonces no vendían Ramune así…"
+"Komiya Youko (talking)";"ああ…… ラムネどころじゃなかったものね。 食べ物だって全然なかったし。
+まあ、寧々が闇市でうまく手にいれて くれてたから、飢えずには済んだけど…";"Oh,…… It was more than just ramune, wasn't it? We didn't have any food at all.
+Well, Nene did a good job of getting things on the black market, so we didn't starve…";"Oh…… Era algo más que el ramune, ¿no? No teníamos nada de comida.
+Bueno, Nene había conseguido algo en el mercado negro, así que no nos morimos de hambre…"
+"__system__??";"{(☆那古Ｂ \ 2) * (☆那古Ｂ \ 12):";"";""
+"Yume (talking)";"そうだね……寧々さんや遙さんも 無事ならよかったのに……";"Yes, I hope ……Nene and Haruka are safe too ……";"Sí, me gustaría que ……Nene y Haruka estuvieran a salvo ……"
+"__system__??";"}";"";""
+"__system__??";"{☆那古Ｂ = 2:";"";""
+"Yume (talking)";"そうだね……寧々さんや遙さんも 無事ならよかったのに……";"Yes, I hope ……Nene and Haruka are safe too ……";"Sí, me gustaría que ……Nene y Haruka estuvieran a salvo ……"
+"__system__??";"}";"";""
+"__system__??";"{☆那古Ｂ = 12:";"";""
+"Yume (talking)";"………あ、うん…… 寧々さん、ね……";"……… Oh, yeah…… Nene, right ……";"……… Oh, sí…… Nene, cierto ……"
+"Komiya Youko (talking)";"……？　由女？";"……?　Yume?";"……?　¿ Yume?"
+"Yume (talking)";"あ……何でもないよ。 忘れたいことまで、思い出して…
+ ……お願い、気にしないで。";"Oh…… it's nothing. Even the things you want to forget, remember…
+ ……Please, don't worry about it.";"Oh,…… no es nada. Incluso las cosas que quieres olvidar, las recuerdas……… Por favor, no te preocupes."
+"Komiya Youko (talking)";"ええ、別に気にはしないけど… 私の知らない事で、寧々と何かあったの？";"Yeah, I don't really care… but did something happen with Nene that I don't know about?";"Sí, realmente no me importa, pero… ¿pasó algo con Nene que no sé?"
+"Yume (talking)";"……………… 何も、ないよ……";"……………… Nothing, nothing……";"……………… Nada, nada……"
+"Komiya Youko (talking)";"……そう。";"…… so.";"…… Sí."
+"Yume (talking)";"………………";"………………";"………………"
+"__system__??";"}";"";""
+"Komiya Youko (talking)";"でも、寧々が居ないのも仕方ないのよね。 遙だってそうだけど……
+山本悪司もきっと同じだろうけど、 抗争中は相手への殺意が確かにあったし…
+それを考えたら、 由女と私が無事だっただけで、 奇跡みたいなものですからね。";"But it's no wonder Nene isn't there. Even Haruka is the same……
+Yamamoto Akuji would have been the same, but he certainly had Satsu feelings for his opponent during the conflict…
+Considering that, it is a miracle that Yume and I are safe.";"Pero no es de extrañar que Nene no esté aquí. Incluso Haruka es igual……
+Yamamoto Akuji probablemente sería lo mismo, pero durante el conflicto, definitivamente había una intención de Satsu hacia la otra parte…
+Considerando eso, es un milagro que Yume y yo estemos a salvo."
+"Yume (talking)";"そう……だね。";"Yes …….";"Sí……."
+"Komiya Youko (talking)";"私だって、由女が無事だって 聞かされてなかったら、きっと……
+その、あの男と……そう、取引。 取引さえしてなければ、 多分、こんなところには……";"If I hadn't been told that Yume was safe, I'm sure I would have ……
+That, that man and…… well, the deal. If I hadn't made the deal, maybe I wouldn't be here ……";"Estoy seguro de que si no me hubieran dicho que Yume era seguro, habría ……
+Eso, ese hombre y…… bueno, el trato. Si no hubiera hecho el trato, quizás no estaría aquí ……"
+"Yume (talking)";"えっ……？ 陽子さん、取引って……
+ ……ま、さか……まさか、 まさか陽子さんも、悪司さんと……";"What, ……? Mr.Youko, what's the deal with ……
+ ……Well, I don't think ……Youko, you don't think ……Youko, you don't think ……Youko, you don't think ……Youko, you don't think Akuji and ……";"¿Qué, ……? Sr. Youko, ¿qué pasa con ……
+ ……Bueno, yo no ……pienso, no creo que Youko y Akuji sean también ……"
+"Komiya Youko (talking)";"えっ……？";"What, ……?";"¿Qué, ……?"
+"Yume (talking)";"そんな、そんなっ……！ 私だけだと、思ってたのに……
+そんな、陽子さんまで……！";"Oh, no, no, no, no……! I thought I was the only one……
+Oh no, even Youko ……!";"¡Oh, no, no, no, no……! Pensé que era el único……
+ ¡Oh no, incluso Youko ……!"
+"Komiya Youko (talking)";"……………… 由女、まさかあの男と……";"……………… Yume, no way with that guy ……";"……………… Yume, nunca pensé que estaría con ese tipo ……"
+"Yume (talking)";"………………
+私、最初は…… 最初は、無理矢理……
+でも、みんなの消息、 どうしても知りたくて……
+ごめん……陽子さん、ごめん…… 騙すつもりはなかったけど、でも……
+言え……なくて……";"………………
+I started out…… at first, forcing myself to go to ……
+But I really wanted to know what happened to everyone……
+I'm sorry……Youko, I'm sorry…… I didn't mean to cheat you, but ……
+I couldn't tell you…… and I didn't want to ……";"………………
+Empecé…… al principio, obligándome a ……
+Pero realmente quería saber en qué andaba todo el mundo……
+Lo siento……Youko, lo siento…… No quise engañarte, pero ……
+No podría…… decirte, no podría ……"
+"Komiya Youko (talking)";"………………
+何が……何が無事を保証する、だ…… あの外道っ……！";"………………
+What…… guarantees your safety,…… that outcast ……!";"………………
+ ¡Lo que…… te asegura que estás a salvo,…… ese paria ……!"
+"Chinpira (talking)";"あの……若、いいですかい？";"Um,…… young man, okay?";"Um,…… joven, ¿de acuerdo?"
+"Yamamoto Akuji (talking)";"どーした、なんかあったのか？";"What's up? What's going on?";"¿Qué pasa, qué ocurre?"
+"Chinpira (talking)";"古宮陽子さんと由女さんですがね、 今日、まだ来てないんすよ、朝から。";"Komiya Youko and Yume haven't arrived yet today, since this morning.";"Komiya Youko y Yume no han llegado aún hoy, desde esta mañana."
+"Yamamoto Akuji (talking)";"……あのな。 んなもんわざわざ俺に言う事か。
+どうせ寝坊でもしてんだろ。 それともズル休みとかよ。";"…… You know what? You don't have to go out of your way to tell me that, do you?
+You probably overslept or something. Or maybe you cheated on work.";"…… ¿Sabes qué? No te vas a molestar en decírmelo, ¿verdad?
+De todos modos, probablemente te hayas quedado dormido. O tal vez seas un tramposo."
+"Chinpira (talking)";"いや、それが今日だけじゃなくて、 昨日もなんスよ。
+それでさっき、二人が今住んでる 詰所の自室まで行ってみたんスけど……";"No, not only today, but also yesterday.
+So I just went to their room at the Tsumesho where they are living now……";"No, no es sólo hoy, también fue ayer.
+Así que antes, fui a su habitación en el bloque donde viven ahora……"
+"Yamamoto Akuji (talking)";"居ねぇのか？";"You there?";"¿No estás aquí?"
+"Chinpira (talking)";"へい。 部屋の荷物もスッカラカンで。";"Hey. I've got no luggage in my room.";"Hola. El equipaje de la habitación también está vacío."
+"Yamamoto Akuji (talking)";"………………
+やべえ。";"………………
+Yikes.";"Disponible en: ………………
+Oh, no."
+"Chinpira (talking)";"はい？";"Yes?";"¿Sí?"
+"Yamamoto Akuji (talking)";"おい、今すぐ子分どもをかき集めろ。 街中探し回って二人を見つけてこい。
+引っ越し屋で手がかりがなければ 元那古教のシマだったあたりを 虱潰しに当たれ。
+あの二人が頼るとなりゃあ、 昔の組織しか無いはずだ。";"Hey, gather your henchmen now. Scour the city and find these two.
+If the movers don't lead you to them, you can go to the former territory of Nakokyou and comb it out.
+The only place these two can turn is to their old organization.";"Oye, revuelve a los esbirros ahora. Recorre la ciudad y encuéntralos.
+Si los mozos no te llevan hasta ellos, sondea el antiguo territorio de Nakokyou.
+El único lugar al que pueden recurrir estos dos es a su antigua organización."
+"Chinpira (talking)";"まさか、あの二人っ…… 断りもなくこの組抜けたんですかい！？";"Don't tell me those two…… left this group without saying no!";"¡No me digas que esos dos…… dejaron este grupo sin decir que no!"
+"Yamamoto Akuji (talking)";"抜けさせる訳にいくか、バカ。 だから捕まえろって言うんだよ。
+ほれ急げ、手遅れになる前によ。";"I can't let you get away with this, you idiot. That's why I told you to catch him.
+Come on, hurry up, before it's too late.";"No puedo dejar que te vayas, idiota. Por eso te digo que lo atrapes.
+Vamos, date prisa, antes de que sea demasiado tarde."
+"Chinpira (talking)";"へっ、へいっ！";"Heh, heh!";"¡Je, je!"
+"Yamamoto Akuji (talking)";"ちっ、二人一緒にしたまま 放っておきすぎたって事か……
+捕まりゃいいんだが、 んー、捕まえたとして……
+ ……どうオトシマエつけてやろうかね。";"Damn, I guess I left them together too long……
+I hope they catch them, but, hmmm, if they do, how do we ……
+I wonder how I'll put the…… on him.";"Maldición, los dejaste juntos demasiado tiempo……
+Espero que los atrapen, pero, hmm, si lo hacen, ………… ¿cómo les haremos pasar un buen rato?"
+"narrator";"──由女と陽子は、 那古教の元出家信者の家に身を隠していた。";"─ ─ Yume and Youko were hiding in the house of a former ordained follower of Nakokyou.";"─ ─ Yume y Youko se escondían en la casa de un antiguo seguidor ordenado de Nakokyou."
+"Komiya Youko (talking)";"……どうだ、街の状況は。";"…… How's the situation in the city?";"…… ¿Cómo está la situación en la ciudad?"
+"nakokyou  onna (talking)";"…………陽子様、もう大丈夫です。 追っ手がかかる心配はないでしょう。
+奉仕青年団の動きが鈍かったお陰で、 昔、寧々様の下で働いていた者たちと 連絡が取れましたから……
+完璧に安全な逃走路が用意できました。 ご安心下さい。";"Dear …………Youko, you are safe now. You don't have to worry about them coming after you.
+Thanks to the slow movement of the Youth Service Corps, we have been able to get in touch with some of the people who used to work for Nene……
+We have prepared a perfectly safe escape route. Please rest assured.";"Querido …………Youko, ahora estás a salvo. No tienes que preocuparte de que te persigan.
+Gracias al lento movimiento del Cuerpo de Jóvenes de Servicio, hemos podido ponernos en contacto con algunas de las personas que solían trabajar para el Maestro Nene……
+Hemos preparado una ruta de escape perfectamente segura. Por favor, esté tranquilo."
+"Komiya Youko (talking)";"寧々の……
+ …………本当にすまない。 世話になった。";"…… of Nene.
+I'm really sorry about …………. I've taken care of you.";"…… de Nene.………… Lo siento mucho. Me han atendido."
+"nakokyou  onna (talking)";"何を仰います。 我々信徒は、聖女様や那古神様に 返しきれない恩を受けた身です。
+むしろ、声をかけて頂けること…… お待ちしておりました。";"What do you say? We, the laity, are the ones who have received a debt of gratitude from the saints and Nakojin that we cannot repay.
+Rather, we have been waiting for…… to hear from you.";"¿Qué dices? Nosotros, los laicos, somos los que hemos recibido una deuda de gratitud que no se puede pagar a los santos y a la Diosa Nako.
+Más bien, hemos estado esperando a que nos llamen ……."
+"Komiya Youko (talking)";"…………ありがとう、本当に……";"Thanks …………, really ……";"………… Gracias, realmente ……"
+"nakokyou  onna (talking)";"では、私はこれで…… お二人のご無事、お祈りしております。";"Well, I will now go to…… I wish you both the best of luck.";"Ahora iré a…… y les deseo lo mejor a ambos."
+"Komiya Youko (talking)";"……………… 由女、出てきていいわよ。";"……………… Yume, you can come on out.";"……………… Yume, puedes salir."
+"Yume (talking)";"……うん。 よっこいしょ……っと。
+結局、元那古教の人たちに すっかり助けられちゃったね……";"…… yeah. I'm going to try to get back to …….
+In the end, the former Nakokyou people helped me out a lot Tane ……";"…… sí. Yoyo koisho…….
+Al final, los antiguos Nakokyou me ayudaron mucho Tane ……"
+"Komiya Youko (talking)";"……？";"……？";"……？"
+"Yume (talking)";"だってみんな、 今はそれぞれの生活があって、 毎日大変だと思うし……";"Because we all have our own lives right now, and I think every day is hard……";"Porque ahora todos tenemos nuestras propias vidas, y creo que es difícil cada día……"
+"Komiya Youko (talking)";"くすっ……優しいんだから。
+由女がみんなにかけた情けが、 形になって返ってきただけよ。 今は、素直に感謝しましょう。";"Kusshu…… is so kind.
+The kindness Yume has shown to everyone has just been returned in the form of a gift. Now, let's be honest and thankful.";"Maldita sea…… por ser tan amable.
+La amabilidad que Yume ha mostrado a todos sólo ha sido devuelta en forma de amabilidad. Ahora, seamos sinceros y démosles las gracias."
+"Yume (talking)";"……うん。
+ねえ、陽子さん…… 何もかも棄てて逃げて、 私たち、幸せになれるのかな……";"…… Yeah.
+Hey, Youko,…… I wonder if we can be happy if we abandon everything and run away……";"…… Sí.
+Oye, Youko,…… Si abandonamos todo y huimos, ¿seremos felices? ……"
+"Komiya Youko (talking)";"……さあ、 やってみなくちゃ判らないわ。";"…… Well, you never know until you try.";"…… Bueno, nunca se sabe hasta que se intenta."
+"Yume (talking)";"やってみなくちゃ、って……";"I had to try……";"Tengo que intentarlo……"
+"Komiya Youko (talking)";"大丈夫よ、きっと。
+少なくとも私は、 由女さえ側に居てくれたら、 少しくらい辛くても平気だけど。";"I'm sure you'll be fine.
+At least for me, as long as Yume is by my side, I don't mind even if it's a little painful.";"Estarás bien, estoy seguro.
+Al menos para mí, mientras Yume esté a mi lado, no me importa que sea un poco doloroso."
+"Yume (talking)";"あ……そ、そんなの、私だって……
+ ………………
+そうだよね…… 精一杯生きなきゃ駄目だよね。 遙さんや、寧々さんの分まで……";"Oh…… that's not true, I'm not even ……
+ ………………
+That's right…… you have to live life to the fullest. Even for Haruka and Nene……";"Oh…… eso no es cierto, ni siquiera soy ……
+ ………………
+Así es…… hay que vivir la vida al máximo. Incluso para Haruka y Nene……"
+"Komiya Youko (talking)";"……ええ。";"…… yeah.";"…… Sí."
+"narrator";"──そして二人は、オオサカから姿を消した。";"And then they both disappeared from Osaka.";"─ y ambos desaparecieron de Osaka."
+"narrator";"由女はそのころ、中部山地の 小さな村に身を隠していた。";"Yume was hiding in a small village in the central mountains at the time.";"Yume se escondía en un pequeño pueblo de las montañas centrales en ese momento."
+"Yume (talking)";"えーっと………… 一つ繰り上がって、そこから引いて……";"Let's see…………… One forward and then subtract from there… ……";"Veamos:………… Uno hacia adelante y luego restarle: ……"
+"Komiya Youko (talking)";"……ただいま、由女。 川下の人に野菜分けて貰っ……
+ …………？ 何してるの、算盤なんか弾いて。";"……I'm home, Yume. The people downstream shared their vegetables with me ……
+ …………? What are you doing, Dan with your arithmetic.";"…… Estoy en casa, Yume. La gente de abajo compartió sus verduras conmigo……
+ …………? ¿Qué estás haciendo, haciendo matemáticas Dan."
+"Yume (talking)";"あ、おかえりなさいっ。 逃げてくる時に信者さんから貰った お金の余りを計算してたんだ。";"Oh, welcome back. I was counting the extra money I got from my followers on my escape.";"Ah, bienvenido de nuevo. Contaba el dinero extra que recibía de mis seguidores en mi escapada."
+"Komiya Youko (talking)";"……何のために？ まだかなり余裕あるんじゃないの？";"…… for what? Don't you still have quite a bit of leeway?";"…… ¿Para qué? ¿No tienes todavía bastante tiempo libre?"
+"Yume (talking)";"うん、これ元手にして、 小さな民宿とか作れないかなって。";"I was thinking that we could use the money to build a small guest house or something like that.";"Sí, pensé que podríamos usarlo para construir una pequeña casa de huéspedes o algo así."
+"Komiya Youko (talking)";"民宿？";"A guest house?";"¿Casa de huéspedes?"
+"Yume (talking)";"この村、登山の人とか時々来るでしょ？ それで思いついて。
+どうせもう、オオサカに住んでた時の 私たちを知ってる人なんて居ないし。
+少しでも人のためになるような事、 なにかできたらいいなーって。";"You know, people sometimes come to this village, mountain climbers and such. That's how I came up with the idea.
+No one knows us from when we lived in Osakan anymore.
+I thought it would be nice if we could do something to help people.";"Ya sabes, la gente viene a este pueblo de vez en cuando, como los escaladores, ¿verdad? Así es como se me ocurrió la idea.
+Ya nadie nos conoce de cuando vivíamos en Osakan.
+Pensé que sería bueno que pudiéramos hacer algo para ayudar a la gente."
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Yume (talking)";"あ……考えてただけだから、 別にその、ホントにしたい訳じゃ……
+ ………………やっぱり、反対……？";"Oh,…… I was just thinking, I mean, I don't really want to …………………… still, you're against it ……?";"Oh,…… Estaba pensando en ello, es decir, no quiero realmente …………………… todavía, estoy en contra……?"
+"Komiya Youko (talking)";"くすっ、別にいいわよ。 いい加減、こそこそ生活するのにも 飽きてきたしね。";"Darn it, I don't mind. I'm getting tired of sneaking around.";"Maldita sea, no me importa. Me estoy cansando de vivir en la sombra."
+"Yume (talking)";"……さっすが陽子さん、話解る~！ じゃあね、これ見てこれこれ、 こっちが小屋の改造プランで……";"…… You're so right, Youko, I know what you're talking about! Okay, look at this one, and this one, and this one, and these are the plans for remodeling the shed: ……";"…… ¡Eres el mejor, Youko, sabes de lo que hablo! Vale, mira este, y este, y este, y estos son los planos de la remodelación del cobertizo: ……"
+"Komiya Youko (talking)";"………… すっかりやる気なんじゃない……
+まあ、時間はあるものね。 ふたりで色々、考えていきましょうか。 これからの生き方とか……ね。";"………… You're totally motivated……
+Well, we have time, don't we? Let's think about things together, shall we? Let's think about how we should live our lives from now on……";"………… Estás totalmente motivado……
+Bueno, tenemos tiempo, ¿no? Pensemos juntos en las cosas, ¿de acuerdo? Como la forma en que vamos a vivir nuestras vidas……"
+"Yume (talking)";"……でね、こっち調理場に取ったら 自家製のお味噌とか作れないかな~とか 思っちゃったりして、それでね……";"I was thinking about how I could make homemade miso when I get to the kitchen……";"…… y empecé a pensar que tal vez podría hacer miso casero o algo así aquí en la cocina, así que… ……"
+"Komiya Youko (talking)";"ふふ……はいはい、 ほんとにもう…………";"I'm really just going to go to ………….";"Hmmm……… Sí, sí, realmente… …………"
+"narrator";"──由女と陽子は、 那古教の元出家信者の家に身を隠していた。";"─ ─ Yume and Youko were hiding in the house of a former ordained follower of Nakokyou.";"─ ─ Yume y Youko se escondían en la casa de un antiguo seguidor ordenado de Nakokyou."
+"nakokyou  onna (talking)";"さ、聖女様、これを…… 元信者に声をかけて集めたものです。";"Sa, saints, this is what I have collected from…… by talking to former believers.";"Sa, santo, esto es lo que he recogido de…… hablando con antiguos creyentes."
+"Komiya Youko (talking)";"重いな…… この封筒の中身、幾らあるんだ？";"It's heavy…… How much is in this envelope?";"Es pesado…… ¿Cuánto hay en este sobre?"
+"nakokyou  onna (talking)";"数えてはいませんが、 おそらく数百万は……
+僻地で身を隠すにしろ、 ウィミィの信者を頼るにしろ、 これだけあれば充分かと……";"I haven't counted, but probably in the millions: ……
+Whether you're hiding out in the middle of nowhere or relying on the followers of Wime, this should be enough ……";"No he contado, pero probablemente varios millones ……
+Tanto si te escondes en medio de la nada como si confías en los seguidores de Wime, esto debería ser suficiente ……"
+"Komiya Youko (talking)";"……すまない、世話になった。";"…… sorry, I'm indebted to you.";"…… lo siento, ya está solucionado."
+"nakokyou  onna (talking)";"何を仰います。 我々信徒は、聖女様や那古神様に 返しきれない恩を受けた身です。
+むしろ、声をかけて頂けること…… お待ちしておりました。";"What do you say? We, the laity, are the ones who have received a debt of gratitude from the saints and Nakojin that we cannot repay.
+Rather, we have been waiting for…… to hear from you.";"¿Qué dices? Nosotros, los laicos, somos los que hemos recibido una deuda de gratitud que no se puede pagar a los santos y a la Diosa Nako.
+Más bien, hemos estado esperando a que nos llamen ……."
+"Komiya Youko (talking)";"…………ありがとう、本当に……";"Thanks …………, really ……";"………… Gracias, realmente ……"
+"nakokyou  onna (talking)";"では、私はこれで…… お二人のご無事、お祈りしております。";"Well, I will now go to…… I wish you both the best of luck.";"Ahora iré a…… y les deseo lo mejor a ambos."
+"Komiya Youko (talking)";"……………… 由女、出てきていいわよ。";"……………… Yume, you can come on out.";"……………… Yume, puedes salir."
+"Yume (talking)";"ねえ、陽子さん…… こんな事頼んで、本当によかったの…？
+確かにもう、私も陽子さんも、 悪司さ……悪司のところには 居たくないけど……
+元信者のみんなだって、 今はそれぞれ生活もあるのに……";"Hey, Youko,…… were you really happy to ask me to do this…?
+It's true that neither Youko nor I want to stay with Akuji…… any longer.
+All of us ex-believers have our own lives now……";"Oye, Youko,…… ¿te alegraste mucho de pedirme que hiciera esto…?
+Es cierto que ni Youko ni yo queremos seguir con Akuji o ……Akuji.
+Incluso todos los ex-creyentes tienen ahora su propia vida……"
+"Komiya Youko (talking)";"…由女がみんなにかけた情けが、 形になって返ってきただけよ。
+今は、素直に感謝しましょう。";"…The mercy that Yume has shown to everyone has just been returned in the form of a gift.
+Now, let's be honest and thankful.";"…la misericordia que Yume ha mostrado a todos acaba de ser devuelta en forma de regalo.
+Ahora, seamos sinceros y démosles las gracias."
+"Yume (talking)";"…………うん。";"………… yeah.";"………… Sí."
+"Komiya Youko (talking)";"さ、行くわよ。 今夜中にミヤコへ抜けないと……";"Come on, let's go. I have to get out to Myako tonight……";"Venga, vamos. Tenemos que ir a Miyako esta noche……"
+"narrator";"そして二人は、 夜の闇に紛れて隠れ家の外へ出た。
+昼間ですら滅多に人の通らぬ小道を、 息を殺して進み続ける。
+ ──だが。";"Then, the two of them went out of the hiding place in the darkness of the night.
+They continued on their way, breathing Satsu, along a path rarely traveled, even during the daytime.
+But…";"La pareja salió entonces del piso franco en la oscuridad de la noche.
+Siguieron su camino, respirando Satsu, por un sendero poco transitado, incluso durante el día.
+Pero…"
+"Komiya Youko (talking)";"…………？　誰かいる……";"…………?　Anyone here: ……";"…………?　Alguien está aquí: ……"
+"Yamamoto Akuji (talking)";"おう、居るとも。";"Oh, I'm here.";"Oh, yo también estoy aquí."
+"Komiya Youko (talking)";"なっ……山本悪司！";"Nなっ……Yamamoto Akuji!";"¡Nなっ……Yamamoto Akuji!"
+"Yamamoto Akuji (talking)";"悪いが通せんぼさせて貰うぜ。 逃がす訳にゃいかないんでな。";"I'm sorry, but I'm going to have to block your way. We can't let you go.";"Lo siento, pero vamos a tener que dejarte pasar. No podemos dejar que te vayas."
+"Yume (talking)";"ど、どうしてここにっ……";"How did you get here? ……";"¿Cómo has acabado aquí? ……"
+"Yamamoto Akuji (talking)";"裏切りモン相手に 説明する必要はねーな。";"I don't need to explain myself to a traitor.";"No necesito darle explicaciones a un traidor."
+"Yume (talking)";"……悪司さん、お願いです。 もう私たちをそっとしておいて……！
+私たち、悪司さんに迷惑かけません。 もうオオサカにも帰ってきませんから…
+私たち、何も喋りませんっ…… 約束しますからっ……！";"……Akuji, please. Leave us alone already ……!
+We won't bother you, Akuji. We won't even come back to Osaca…
+We won't say a word……… We promise… ……!";"……Akuji, por favor. ¡Déjanos en paz ya ……!
+No te molestaremos, Akuji. Ni siquiera volveremos a Osaca…
+ ¡No diremos nada…… porque prometemos ……!"
+"Yamamoto Akuji (talking)";"わりぃが信用できねえ。 他の連中にも示しがつかんし。";"I'm sorry, but I don't trust you. I can't show the other guys what I can do.";"Lo siento, pero no confío en ti. No puedo mostrar a los demás lo que puedo hacer."
+"Komiya Youko (talking)";"……くそっ…………！";"…… Damn …………!";"…… ¡Que se joda …………!"
+"Yamamoto Akuji (talking)";"はー、槍を構えるってか。
+やめとけ、古宮。 俺が一人で来てると思うか？
+今からどこに逃げるか知らんが、 そこいらじゅうの手下全部、 斃して、逃げて……
+ ……んで、このシキナから出られたら 許してやらんこともないけどよ。
+まあ、それ以前に 俺はおめーに絶対負けねぇけど。";"Ha, you're going to hold up a spear?
+Don't do it, Komiya. You think I'm coming alone?
+I don't know where you're going to run now, but you're going to have to kill all of my men out there and run ………… and get out of this shikina, I'll forgive you.
+Well, before that, I'll never lose to you.";"Ja, ¿vas a sostener una lanza?
+No lo hagas, Komiya. ¿Crees que voy a venir solo?
+No sé a dónde vas a correr ahora, pero vas a tener que matar a todos esos hombres ahí fuera y correr ………… y sal de esta shikina, entonces te perdonaré.
+Bueno, antes de eso, nunca perderé contra ti."
+"Komiya Youko (talking)";"…………っ……
+ ……お願い、 私はどうなってもいいから……
+お願い、由女だけは……お願い……";"………………
+Please, ……, I don't care what happens to me ……
+Please, just Yume please ……";"………………
+Por favor,…… por favor, no me importa lo que me pase ……
+Por favor, sólo Yume por favor…… por favor ……"
+"Yamamoto Akuji (talking)";"…………
+おめー、よっぽど教祖……というか、 由女が大事なんだなー。
+だが駄目だ。";"…………
+You must really care about your guru…… or rather Yume…
+But no.";"…………
+Debes preocuparte mucho por tu gurú ……, o más bien Yume…
+Pero no."
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"諦めろ。";"Give it up.";"Ríndete."
+"narrator";"──言うと、悪司の背後から数人の部下が現れ、 失意に項垂れる二人を捕え、手足を縛り始めた。";"As he said this, several of his men appeared from behind Akuji, seized the two men as they hung in disappointment, tied them hand and foot, and Hajime them.";"Mientras decía esto, varios de sus hombres aparecieron detrás de Akuji, agarraron a los dos hombres mientras colgaban decepcionados, los ataron de pies y manos y los Hajime."
+"Yamamoto Akuji (thinking)";"さて……捕まえたはいいが、 どうしたもんかね、この二人……
+また部下にする訳にゃいかんし、 だからって殺すのもなぁ。
+ …………おお、すげえ。 ちょっとだけ同情してんな、俺。
+うーん、困った。 困ったぞー。";"Well,…… we got them, but what are we going to do with them ……
+I can't make them my subordinates again, but that doesn't mean I can't Satsu them.………… Oh, wow. I'm feeling a little sympathy for them.
+Well, I'm in trouble. I'm in trouble.";"Bueno,…… es bueno que los tengamos, pero qué vamos a hacer con ellos ……
+No puedo hacer que vuelvan a ser mis hombres, pero eso no significa que no pueda Satsu de ellos.………… Oh, wow. Me dan un poco de pena, ¿no?
+Bueno, estoy en problemas. Estoy en problemas."
+"narrator";"──数日後、青年団本部。";"A few days later, Youth Group Headquarters.";"Unos días después, la sede del Grupo de Jóvenes."
+"Henry Ru (talking)";"アロハ・フジヤーマ。 アクジはいらっしゃいマスかー？";"Aloha Fujiyama. Is Akuji here?";"Aloha fujiyama. ¿Está Akuji aquí?"
+"Yamamoto Akuji (talking)";"何だよ、ヘンリーじゃねぇか。 どうかしたか？";"What the hell, it's Henry, isn't it? What's wrong?";"Qué demonios, es Henry, ¿no? ¿Qué pasa?"
+"Henry Ru (talking)";"はいハーイ、今日はデすネ、 アナタにお礼言いにきまシタ。
+先日買っタ二人の牝奴隷、最高ネ！ レズでフタナーリ、もうベリグー！
+アレでたった二億エン、やっすイねー。 早速、クニに連れて帰りマース。";"Hi, I'm here today to thank you for the two bitches I bought the other day.
+I just bought two bitches the other day and I love them! They are lesbians, they are all lovey-dovey, and they are so good!
+And for only 200 million yen, that's pretty good. I'm going to take them back to my country right away.";"Hola, hoy vengo a daros las gracias por las dos perras que compré el otro día.
+Las dos perras que compré el otro día, ¡me encantan! Lesbianas y con la barriga llena, ¡son perfectas!
+Sólo cuestan 200 millones de yenes, ¡es genial! Los llevaré a mi país de inmediato."
+"Yamamoto Akuji (talking)";"そうか、そりゃよかった。 こっちこそおめーに買ってもらえて 大助かりだぜ。";"Well, that's great. I'm glad you bought it for me, too.";"Bueno, eso es genial. Me alegro de que me lo hayas comprado."
+"Henry Ru (talking)";"とにカクー、今日はお礼だけネー。 ワタシ今日は忙シーので、これデ。";"I'm busy today, so I'll just leave it at that. I'm busy today, so I'll leave it at that.";"Hoy estoy ocupado, así que sólo diré gracias. Hoy estoy ocupado, así que aquí."
+"Yamamoto Akuji (talking)";"おっと、ちょい待ちヘンリー。
+あの二人を買ってった時の約束、 ちゃんと守ってくれてるか？";"Whoa, wait a minute.
+Did you keep your promise when you bought them?";"Whoa, espera un minuto. Henry.
+ ¿Cumpliste tu promesa cuando compraste esos dos?"
+"Henry Ru (talking)";"どっちモ傷つけナイって事ですネー？ 守ってマース、守ってマース。
+実はワターシ、手も出してないネ。 あの二人は、見物するノが 一番楽しいデーす。
+ランチやディナーにスマートフードや 媚薬混ぜたりすルのデーす。 当然あの二人勝手に盛り上がりマーす。
+そこを、部屋中に監視キャメラつけて、 二人がチョメチョメしてるの見ながら ミーは別の大和撫子とヤるのデーす。
+これもう興奮度１２０％デーす！ 愚息のパワーが段違いネ！";"Which means you can't hurt them either, right? I'm protecting you, I'm protecting you.
+Actually, I don't even touch them. The two of them are the most fun to watch.
+They eat smart food and aphrodisiacs for lunch and dinner. Naturally, they get excited on their own.
+Then, I would set up surveillance cameras all over the room and watch them making love while I fucked another Japanese girl.
+The excitement level is 120%! The power of my breath is so much more powerful!";"Lo que significa que no puedes hacerles daño, ¿verdad? Te protejo, te protejo.
+En realidad, ni siquiera los toco. Esos dos son los más divertidos de ver.
+La comida y la cena se mezclan con comida inteligente y afrodisíaca. Naturalmente, se excitan por sí mismos.
+Luego, ponen cámaras de vigilancia por toda la habitación y ven a los dos haciendo el amor, mientras yo me follo a otra Yamato Nadeshiko.
+ ¡Esto ya es 120% emocionante! El poder de mi respiración es mucho más poderoso."
+"Yamamoto Akuji (talking)";"…………そうか、良かったな。";"………… Well, good for you.";"………… Bueno, me alegro por ti."
+"Henry Ru (talking)";"ほんトに、アクジには感謝してマス。 アリガトー、アリガトーねー！";"I really appreciate Akuji. Arigato, arigato!";"Realmente aprecio a Akuji. ¡Arigato, arigato ne!"
+"Yamamoto Akuji (talking)";"あいつらにとっちゃあ、 あの変態野郎に監視されてるだけで 不幸かもしれんが……
+ま、これが同情の精一杯か。 二人で居られるだけまだマシだろ。";"For them, it might be unfortunate that they are being watched by that pervert……
+Well, that's the best I can do for sympathy. It's still good that they can be together.";"Para ellos, puede ser lamentable que los observe ese pervertido……
+Bueno, eso es lo mejor que puedes hacer por simpatía. Sigue siendo bueno que podáis estar juntos."
+"Kohara Koharu (talking)";"ふふっ…… ごきげんよう、古宮さん。";"Hmmm……… Have a nice day, Komiya.";"Uf…… Que tengas un buen día, Komiya."
+"Komiya Youko (talking)";"………………何の用だ。";"………………What's the deal?";"……………… ¿Qué quieres?"
+"Kohara Koharu (talking)";"あら、言うまでもなく 解ってらっしゃるでしょう？
+もっとも、まだ時間があるから…… これでもどうかしら、と思って。";"Oh, well, needless to say, you know what I mean.
+But since there's still time, I thought…… this might work.";"Oh, no hace falta decir que sabes lo que quiero decir.
+Pero todavía hay tiempo para ir a…… así que pensé que esto podría funcionar."
+"narrator";"──そう言う小春の手には、 二本のコーヒー缶が握られていた。";"In Koharu's hand, there were two coffee cans.";"─ ─ En las manos de Koharu que lo dijo, había dos latas de café."
+"Komiya Youko (talking)";"……頂こう。 厚意を無下に断る訳にもいかないしな。";"Let's take ……. We can't turn down their kindness.";"Tomemos ……. No podemos rechazar su amabilidad."
+"Kohara Koharu (talking)";"………………
+ふふっ、 ああ、飲んじゃった。";"………………
+Phew, yeah, I drank.";"………………
+Uf, ah, me he tomado un trago."
+"Komiya Youko (talking)";"何だ、その言い方は…… まさかコーヒーに何か……";"What's that word…… Don't tell me there's something in the coffee ……";"¿Cuál es esa palabra?…… No me digas que hay algo en el café……"
+"Kohara Koharu (talking)";"いいえ、何も？
+ただ、コーヒーって気持ちが高揚する 成分……カフェインが入ってるでしょ？
+これは、私の経験則だけど… エッチな事の前にコーヒーって 結構イイのよ……";"No, nothing?
+It's just, you know, coffee has that uplifting ingredient…… caffeine in it, right?
+This is just my rule of thumb, but… coffee before sex is pretty good……";"No, ¿nada?
+Es que, ya sabes, el café tiene el ingrediente edificante…… cafeína, ¿verdad?
+Esta es sólo mi regla general, pero… el café antes del sexo es bastante bueno……"
+"Komiya Youko (talking)";"………………";"………………";"………………"
+"Kohara Koharu (talking)";"特にね……淫乱なコだったら、 もう全然違ってくるの。
+古宮さんは、どうかしらね？";"Especially if she's a…… slut, it's a whole different story.
+How about you, Komiya?";"Especialmente si es una zorra de ……, es una historia completamente diferente.
+ ¿Y tú, Komiya?"
+"Komiya Youko (talking)";"……馬鹿馬鹿しい。 たかが缶コーヒー程度で……";"It's…… ridiculous. It's only a can of coffee……";"…… Ridículo. Es sólo una lata de café……"
+"narrator";"陽子は小春への反抗心もあって、 缶コーヒーの中身を一気に喉へと流し込む。";"Youko, in defiance of Koharu, pours the contents of a can of coffee down her throat in one gulp.";"Youko, desafiando a Koharu, se sirve el contenido de una lata de café de un solo trago."
+"Komiya Youko (talking)";"……こんな物で、人が変わるものか。";"…… I don't see how something like this can change a person's life.";"…… ¿Cómo puede algo así cambiar a la gente?"
+"Kohara Koharu (talking)";"……ふ、ふふふ………… どうかしらね。
+じゃあ早速、試しに行きましょうか？";"…… Hmmm…hmmm…………… I don't know about that.
+Well, let's go ahead and give it a try, shall we?";"…… Hmm, hmmm…………… No lo sé.
+ ¿Vamos a probarlo entonces?"
+"Komiya Youko (talking)";"始めるのか、また……
+正直、私はそれなりに 働いているつもりだ。 もう調教は必要ないと思うが…";"HajimeMeru or also ……
+Honestly, I think I'm working my way up to it. I don't think I need any more training…";"Hajime Meru kuru, también ……
+Sinceramente, creo que estoy trabajando en ello. No creo que necesite más entrenamiento, pero…"
+"Kohara Koharu (talking)";"まだまだ、これから。
+それに、これも仕事ですもの。 仕方ありませんでしょ？";"It's just the beginning.
+Besides, it's my job. It can't be helped, can it?";"Todavía es un trabajo en curso.
+Además, también es mi trabajo. No tenemos elección, ¿verdad?"
+"Komiya Youko (talking)";"別に拒むつもりはない。 私はもう諦め…………
+ ………………っ、う……";"I'm not refusing to do anything. I've already given up …………
+ ………………, u……";"No voy a negarme a hacer nada. Ya he renunciado a …………
+ ………………, u……"
+"Kohara Koharu (talking)";"あら、どうしたの？";"Oh, my God, what's wrong?";"Dios mío, ¿qué pasa?"
+"Komiya Youko (talking)";"いや、今、胸の奥が……
+ ……何でもない。";"No, my heart is in my chest right now……
+It's…… nothing.";"No, ya me he desahogado………… No es nada."
+"Kohara Koharu (talking)";"…そう。 ふふふっ……
+私の“コーヒー”の効き目…… 楽しみにしているわ……";"…yeah. Hmmm… ……
+I'm looking forward to seeing how my “coffee” works: ……";"…Sí. Hmmm… ……
+Estoy deseando ver cómo funciona mi “café” …………"
+"cg narrator";"「私ね……ずっと古宮さんを見てきたけれど、 　今までずっと、何か物足りなかったの」
+ ──微笑みながら、小春が言う。
+ 「古宮さんって、ここで働く覚悟もあるし 　私たち調教師の言うこともよく聞くわ」
+ 「普段は男の人みたいな言葉遣いだけど、 　お仕事のときはきちんと女の子になる…… 　……そう、娼婦としてとっても優等生」
+ 「でも、どこか違うの。 　きっと娼婦を演じてるのね」
+ 「でも、演じてちゃ駄目。 　心の底から、淫らな娼婦にならなくちゃ…」
+ 「だから、気付いて欲しかったの。 　あなたの中に、とても淫らな牝が居るって…」
+ 「……ふふっ、私には解ってたわ。 　本当のあなたはとっても女の子らしくて……」
+ 「……そして、とっても淫ら……」
+ 「いつもいつも、それを押し殺して……」
+ 「ね、隠すことなんてないのよ。 　楽しんでお仕事できれば、一番良いのだから。 　ふふっ、ふふふっ……」
+ ──だが、その小春の言葉は、 もはや陽子に届いてはいなかった。";"I've been watching Komiya for a long time, but all this time, something has been missing.”
+ ─ ─ I've been watching Koharu for a long time, but all this time I've been missing something,” says Koharu, smiling.
+Mr. Komiya is ready to work here, and he listens to us trainers very well.
+She usually speaks like a man, but when she's working, she's a girl………… Yes, as a prostitute, she's an excellent student.
+But there is something different about her. 　She must be playing the part of a whore.
+But you can't play the part. 　You have to be a whore from the bottom of your heart.
+That's why I wanted you to notice. 　I wanted you to realize that there's a very dirty bitch inside of you…”
+I knew it. 　The real you is very girly ……
+ “…… and very slutty ……
+ “Always, always, always pushing it Satsu ……
+You know, you have nothing to hide. 　It's best if you enjoy your work. 　Hmmm, hmmm… ……”
+The Koharu's words, however, were no longer reaching Youko.";"'He estado observando a Komiya durante mucho tiempo ……, pero todo este tiempo, algo ha faltado'.
+ ── Koharu dice, sonriendo.
+ 'El señor Komiya está dispuesto a trabajar aquí, y nos escucha muy bien a los formadores.
+Suele hablar como un hombre, pero cuando trabaja, es una chica correcta………… Sí, como prostituta, es muy buena estudiante”.
+Pero hay algo diferente en ella. 　Debe estar haciendo el papel de una puta.
+Pero no puedes hacer el papel. 　En el fondo, tienes que ser una puta…
+Por eso quería que te dieras cuenta. 　Quería que te dieras cuenta de que tienes una perra muy sucia dentro de ti…”
+ '…… Lo sabía. 　La verdadera tú es muy femenina …….”
+ “…… y muy guarra ……”
+ “Siempre, siempre, siempre empuja Satsu ……
+ 'Oye, no tengo nada que ocultar. 　Lo mejor es que disfrutes de tu trabajo. 　Hmmm, hmmm… ……”
+ ─ ─ Pero las palabras de Koharu ya no llegaron a Youko."
+"cg narrator";"「ああアっ────ッやはあっ！！ 　また、また…入ってくるう……っ……！」
+犯され始めて、どれほどの時間が経ったろう。 ──今、陽子の秘裂を貫く男は何人目なのだろう。
+陽子は、小春がどこからか雇ってきた 複数の男たちに、代わる代わる犯され続けていた。
+ 「や、も……こわ、れ……壊れるうっ…………！ 　熱い、あつ……いっ、やあああっ！ 　突、い……突いてるぅっ！　ま、待っ…！」
+陽子が哀願したところで、男たちは聞き入れない。 情欲に憑かれた目で腰をつかい続ける。
+ 「────やあああンっ！ 　ああっ、ア……っんうううっ……ひああッ！！」
+ 「くすっ……無駄よ、古宮さん。 　みんなにはあなたと同じ“コーヒー”を 　飲んでもらっているのだから……」
+恍惚とした顔で小春が呟く。 彼女は少し離れた場所で椅子に座り、 輪姦の様子を見物し続けていた。
+実は、その小春の手にもコーヒーの缶があって、 僅かではあるがすでに口もつけている。
+ 「……本当に、よく効くコーヒーですこと……。 　躰が……胸の奥が、灼けてくる……」
+小春は、自分がコーヒーに混ぜた催淫薬の効果を 自分の躰で確かめていた。
+ ──いや、違う。
+小春はただ、犯され続ける陽子の姿を見て、 自分自身も悦楽を感じたかっただけだ。
+そのために、催淫薬を口にして 自分の躰も昴らせたのである。
+ 「くすくす……そう、そうなの古宮さん…… 　こんなに躰が熱いのね…… 　これよりもっと、もっと熱いのよね……」
+焦点の定まりきらぬ目を陽子に向けて、 座ったままの小春が脚を組み替える。
+ ──微妙に、内腿を擦り合わせながら。
+ 「う……うくっ……！」
+急に、陽子を犯す男が低く呻いた。
+秘裂の順番を待ちきれず、陽子に口での奉仕を 強いていた男が射精したようだ。
+ 「……う、かは……げほっ、げほっ……！ 　あ、うああ……ああっ……」
+陽子がむせ返る。 吐き出した男のものの先端から、顔へ、髪へと 迸る白濁が散っていく。
+ 　　［びゅ、びゅく……ごぷっ……］
+催淫薬の作用なのだろうか、その男にしても 今日何度目かの射精である筈なのに、 その量は多く、そして濃かった。
+男たちの射精は、これが初めてではない。
+もはや陽子の躰はあちこち白濁にまみれ、 汗や淫水と混じり合い、ぽた、ぽたと滴り落ちる。
+ 「……あっ……ああっ…… 　また、出てくる……汚れて……く……ぅ……」
+陽子が、震えながら呟いた。 もう、体力も気力も限界に近いのだろう
+だが、決して──やめろ、嫌、とは言わなかった。
+ 「あ……そう、そうよ、古宮さん…… 　それでいいの……」
+小春は、陽子の小さな変化に気付いていた。 ──思わず、椅子から立ち上がる。
+ 「躰が熱いでしょう？　もっと欲しいでしょう？ 　……あなたの気持ちはよく解るわ、 　もう虚飾なんか捨て去りなさい。……ね？」
+話しかけてくる小春に気付いたのだろうか。 陽子が、男たちに犯されながらも小春の方を向く。
+ 「……え、っア……！　んっ、う……」
+ 「もう、いいの。もういいのよ。 　あなたを狂わせたのは私。 　淫らになる薬を飲ませたのは私……」
+小春が、哀れみの目を陽子に向ける。
+ 「恨むなら、私を恨んで。構わないから。 　私のせいなの、今のあなたは………」
+乱れているのは、自分のせいではない。 ──自分のせいではない。
+小春のその言葉が、陽子の理性を消し去った。
+ 「……うはあアっ！！　やあっ、ア……あ───！ 　ひうぅっ……ひあっ、やはあっ！　ああ……！」
+陽子が小春から目を逸らす。 同時に、一際高い喘ぎ声が上がった。
+ 「ああンっ、ふあ……ああああ……ああッ！！ 　んア、ッあ、はっ……ア……っ……ふぁ…… 　……ッ、ひゃあああああああアっ────！！」
+陽子が、なりふり構わず悦楽の声を上げ始める。
+小春のせいだと彼女を恨みながら、 小春の与えた薬が与えてくる悦楽に身を委ねる。
+ ──いや。 所詮、薬は薬だ。きっかけにすぎない。
+本人の躰に、悦楽を感じられる素地があるからこそ 薬は効きもする。小春はその事を知っている。
+ 「思った通り…… 　こんなにも乱れられるんじゃない、あなた……」
+小春が、また、妖しく笑う。
+ 「やあっ、ア……うはあアっ！！ 　ひうぅっ……ひううぅっ……！　あっ……！」
+ 「そうよ、解き放って…… 　綺麗よ……淫らよ、古宮さん…… 　もっと、もっと……もっとっ……！！」
+椅子から立ち上がったまま、 小春は我を忘れて乱れる陽子の姿を見続ける。
+陽子が感じているはずの悦楽を想像するだけで、 小春も同じように悦楽を感じていた。
+ ──その小春の、目の前で。
+ 「────────ぁ…………っあアーっ！！」
+陽子は、何度目かの絶頂に達した証を 躊躇うことなく声にした。";"”Ahh────! 　It's coming in again………!
+How much time has passed since Hajime was raped? How many men have penetrated Youko's secret crack now?
+Youko was being fucked by several men that Koharu had hired from somewhere, one after the other.
+ “Oh no,…… it's scary,…… it's going to break,…………! 　Hot, hot,……, oh, oh, oh, oh! 　It's poking…… me!　Wait, wait…!
+Even though Youko pleaded, the men would not listen to her. The men will not listen to her pleas.
+ “────Yaaaahn! 　Oh, a……nghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!
+ “You're wasting your…… time, Komiya. 　I'm having the same “coffee” as you are, ……”.
+The most important thing to remember is that you can't just take a cup of coffee and go to a coffee shop. She sat in a chair a little further away and continued to watch the gang rape.
+In fact, Koharu also has a can of coffee in her hand, which she has already sipped, albeit only a little.
+He was already sipping, albeit slightly, from a can of coffee in his Koharu hand. 　My body…… is burning…… deep in my chest.
+The Koharu was checking the effects of the aphrodisiac he had mixed into the coffee with his own body.
+The actuality is, it's not really a good idea to be a part of the group.
+The only thing Koharu wanted to do was to watch Youko continue to be raped and feel the pleasure of it himself.
+That's why he made his own body pleasure itself by taking the aphrodisiac.
+ “Giggle…… so, so Komiya, so Komiya, your body is so hot ……, it's even hotter than this……”
+The Koharu, who is still seated, crosses her legs, turning her unfocused eyes toward Youko.
+ 
+ “Uu……!”
+Suddenly, the man who fucked Youko moaned lowly.
+The man who couldn't wait for his turn in the cleft and was forcing Youko to serve him with his mouth seems to have ejaculated.
+ “……Uh, Kaa……Geeh, Geeh……! 　Oh, ah…… ah……!”
+Youko swallows. The man spits out a gush of Haku muck from the tip of his thing, into his face, and into his hair.
+ 　　[Bew, bewk…… gopu ……]
+The amount of ejaculation was large and thick, even though it was the first ejaculation of the day for the man.
+This was not the first time the men had ejaculated.
+Youko's body was now covered with Haku muddiness everywhere, mixed with sweat and lewd water, and dripping, dripping, dripping.
+It is also coming out…… dirty. Oh…… oh…… oh …….”
+Youko muttered, shivering. I'm sure you're near the limit of your strength and energy.
+But he never said - stop, no, no.
+ “Oh…… yes, that's right, Komiya, that's…… fine.”
+Koharu had noticed a small change in Youko. He stood up from his chair without thinking.
+I'm sure your body is hot, isn't it?　You want more, don't you? 　……I know exactly how you feel, now get rid of your pretense…… right?”
+I wonder if he noticed Koharu talking to him. The most important thing to remember is that the best way to get the most out of your money is to be a good person.
+ “Koharu!　Unh-uh-…….”
+It's okay. I'm not going to let you do it again. 　I'm the one who drove you crazy. 　I'm the one who drugged you to become a whore……”
+Koharu turns her pitying eyes to Youko.
+If you want to hate me, hate me. I don't care. 　It's my fault you are now ………”
+It's not my fault that I'm disorganized. ─ ─ It is not my fault.
+The words of Koharu erased Youko's reason.
+ “……Uhahah!　Oh no, a……a──! 　Hiuuuuuuh……hi aaaaah!　Oh ……!”
+Youko turns away from Koharu. At the same time, a high pitched gasp went up.
+The first thing that comes to my mind is the fact that I am not a fan of the “Koharu”. 　Nn-Ah, ah, hah……a……a……a……a……a……a……a… …¡h,hhhhhhhhhhhhhhh────!!!!”
+Youko screams out in pleasure and Hajime without any regard to her appearance.
+Youko gives in to the pleasure that the drug given by Koharu gives her, while resenting her for Koharu's fault.
+No… no. After all, a drug is just a drug. It is only a trigger.
+The medicine is effective only when the person has the foundation to feel pleasure in his or her body. Koharu knows that.
+ “Just as I thought…… you could be so promiscuous, you ……”
+Koharu laughs again, bewitchingly.
+ 'Yaaaah, a…… ughhhh! 　Hiuuuuh…… hiuuuuh ……!　Ah……!”
+ “Yes, unleash,…… it's beautiful,…… it's lewd,…… Mr. Komiya,…… more,…… more… …more……!”
+Standing up from the chair, Koharu continues to watch Youko's disorderly figure, forgetting about herself.
+Just by imagining the pleasure Youko must be feeling, Koharu was feeling the same pleasure.
+ ─ ─ Right in front of Koharu's eyes.
+ “────────aa…………!
+Youko voiced without hesitation the proof that she had reached her climax for the first time in several times.";"”¡Ahh────tttttt! 　Está entrando… otra vez… ¡……!”
+ ¿Cuánto tiempo ha pasado desde que Hajime fue violado? ¿Cuántos hombres han penetrado ya en la grieta secreta de Youko?
+Youko estaba siendo follada por varios hombres que Koharu había contratado de alguna parte, uno tras otro.
+ “¡Oh, no,…… da miedo,…… está roto,…… está roto, …………! 　Caliente, caliente, ……, ¡oh, sí! 　¡Me está pinchando ……!　Espera, espera…
+Cuando Youko suplica, los hombres no escuchan. Los hombres siguen usando sus caderas con ojos poseídos por la lujuria.
+ ¡'──── hey ah! 　Ahh, a……nghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh”.
+ “Está perdiendo su tiempo ……, Sr. Komiya. 　Todos tomamos el mismo “café” que tú, …….”
+Lo más importante es recordar que la mejor manera de aprovechar al máximo tu tiempo en el mundo es ser una buena persona. Se sentó en una silla un poco más alejada y siguió observando la violación en grupo.
+De hecho, la Koharu también tiene una lata de café en la mano, a la que ya ha dado un sorbo, aunque sólo un poco.
+ '……Es realmente un café que funciona bien,……' dijo. 　Mi cuerpo es…… arde en el pecho……
+Koharu comprobaba el efecto del afrodisíaco que mezclaba en el café con su propio cuerpo.
+Lo más importante es recordar que no puedes tomarte unos minutos para hacerlo.
+Koharu sólo quería sentir el placer de ver a Youko seguir siendo violada.
+Por eso, también hizo que su propio cuerpo se diera placer a sí mismo llevándose el afrodisíaco a la boca.
+ 'Giggle…… sí, eso es Komiya, tu cuerpo es tan caliente ……, es incluso más caliente que esto, incluso más caliente que esto……”
+La Koharu, aún sentada, cruza las piernas mientras dirige sus ojos desenfocados hacia Youko.
+Youko, que sigue sentada, cruza las piernas, frotando sutilmente el interior de sus muslos.
+ “¡Uu……!”
+De repente, el hombre que se follaba a Youko gimió por lo bajo.
+El hombre que no podía esperar su turno en la hendidura y obligaba a Youko a servirle con la boca parece haber eyaculado.
+ ¡'……Uh, Kaa……geh, geeh……! 　Ah, ah…… ah…….”
+Youko se está ahogando. El barro Haku que brota de la punta de la saliva del hombre en su cara y en su pelo se dispersa.
+ 　　[Bew, bewk…… gopu ……]
+La eyaculación del hombre fue grande y espesa, aunque era su primera eyaculación del día.
+No era la primera vez que los hombres eyaculaban.
+El cuerpo de Youko estaba ahora cubierto de barro Haku por todas partes, mezclado con sudor y agua lasciva, y goteando, goteando, goteando.
+ '…… Oh,…… Oh,…… Oh, está saliendo de nuevo,…… sucio…… oh…… oh …….”
+Youko murmuró, temblando. Estoy seguro de que está cerca del límite de su fuerza y energía.
+Pero nunca dijo - para, no, no.
+ 'Oh…… sí, sí, Komiya-san…… eso está bien …….'
+Koharu había notado un pequeño cambio en Youko. ─ ─ Inesperadamente, se levantó de la silla.
+ 'Tu cuerpo está caliente, ¿verdad?　Quieres más, ¿no? 　Sé cómo te sientes ……, deberías deshacerte de tus pretensiones ahora……?”
+ ¿Se dio cuenta de que Koharu le hablaba? La Youko se vuelve hacia Koharu mientras es violada por los hombres.
+ ¡'Koharu, eres Koharu, eres Koharu, eres Koharu!　Un, u…….”
+ 'Está bien, está bien. Ya está bien. 　Yo soy el que te volvió loco. 　Yo soy el que te drogó para que te convirtieras en una puta……”
+Koharu dirige sus ojos de compasión a Youko.
+ 'Si quieres odiarme, ódiame'. No me importa. 　Es mi culpa, ahora eres ……….”
+No es culpa tuya que seas desorganizado. ─ ─ No es tu culpa.
+Las palabras de Koharu borraron la razón de Youko.
+ ¡'……Uhahahah!　¡Yaaaah, a……aah──! 　¡Hiuuuuuuh ……hi ah, yaaaaah!　¡Oh ……!”
+Youko se aleja de Koharu. Al mismo tiempo, se elevó un resuello excepcionalmente alto.
+ '¡Ah, ah, ah…… ah…… ah! 　Nn-aa-aa, haa……a……a……a……a……a……… …¡h,hh,aaaaaaaaaa────!!!!”
+Youko grita de placer incontrolado y Hajime.
+Mientras se resiente por la culpa de Koharu, se entrega al placer que le proporciona la droga que le dio Koharu.
+ ─ ─ No. Al fin y al cabo, las drogas son sólo drogas. Es sólo un disparador.
+El medicamento sólo es eficaz cuando la persona tiene la base para sentir placer en su propio cuerpo. Koharu lo sabe.
+ “Tal y como pensaba…… puedes ser muy promiscuo, ¿no es así ……?”
+Koharu se ríe de nuevo, de forma hechizante.
+ '¡Yaah, ah…… ah! 　¡Hiuuuuh…… hiuuuuh ……!　Ah ……!”
+ 'Sí, desata,…… es hermoso,…… es lascivo, Komiya, es lascivo, Komiya,…… más, más…' …Lema ……!”
+Levantándose de la silla, Koharu sigue observando la desordenada figura de Youko, olvidándose de sí misma.
+Sólo con imaginar el placer que debía sentir Youko, Koharu sentía el mismo placer.
+ ─ ─ Frente a los ojos de ese Koharu.
+ “────────aa…………
+Youko expresó sin titubeos la prueba de que había alcanzado el clímax por primera vez."
+"cg narrator";"陽子の絶叫と同時に、男たちがまた精を吐いた。
+陽子の胎に、背に、腹に、そして顔に。 散った雫が、また陽子の躰を伝って床に落ちる。
+ ──陽子はもう、絶頂の衝撃に耐えられなかった。 意識が遠のき、がくがくと震えて──気絶する。
+そして──小春も。
+糸を引く淫水が、小春の足下に ぽつ、ぽつと落ちて──
+もはや小春は立っていられず、 自らがこぼした淫水の雫の上に座り込んだ。";"At the same time as Youko screamed, the men spewed their sperm again.
+The drops of sperm fell on Youko's womb, back, belly, and face. The scattered drops of sperm fell down Youko's body and onto the floor again.
+Youko could no longer bear the shock of her climax. Her consciousness faded away, and she shuddered and trembled, and then……she fainted.
+And then…Koharu too.
+The water of lewdness that was stringing fell down to the bottom of Koharu's feet in drops.
+Unable to stand any longer, Koharu sat down on the drop of lewd water spilled by himself.";"Al mismo tiempo que Youko gritaba, los hombres volvieron a vomitar su esperma.
+En el vientre de Youko, en su espalda, en su vientre y en su cara. Las gotas dispersas volvieron a caer por el cuerpo de Youko hasta el suelo.
+Youko no pudo soportar más el impacto de su clímax. Su conciencia se desvaneció, y tembló y se estremeció ── y se desmayó.
+Y entonces… Koharu también.
+El agua de la lascivia, que se ensartó, cayó a los pies de Koharu en gotas y gotas…
+Koharu ya no pudo mantenerse en pie y se sentó sobre las gotas de agua lasciva derramadas por él mismo."
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"Yamamoto Akuji (talking)";"…………ありゃ……？ っかしーな……";"………… what the hell is ……? That's so funny ……";"………… ¿qué demonios es ……? Eso es raro: ……"
+"Kanbara Yuuko (talking)";"どうしたの？　あーくん。 朝からあちこちウロウロして~……";"What's wrong?　A-kun. Wandering around here and there in the morning~……";"¿Qué pasa?　Ah-kun. Has estado vagando toda la mañana~……"
+"Yamamoto Akuji (talking)";"いや、古宮陽子が出てねえんだよ。 詰所の自室にもいねえし。 サボったか？";"No, Komiya Youko isn't out there. She's not even in her room at the Tsumesho. Did you skip it?";"No, Komiya Youko no está ahí fuera. Ni siquiera está en su habitación en el Tsumesho. ¿Te lo has saltado?"
+"Kanbara Yuuko (talking)";"あ~……古宮さんなら……";"Ahhh ……Komiya would be ……";"Ahhh ……Komiya puede ……"
+"narrator";"夕子は、悪司に一通の書簡を手渡した。";"Yuuko handed a letter to Akuji.";"Yuuko entregó una carta a Akuji."
+"Yamamoto Akuji (talking)";"？　なんだこれ。";"?　What is this?";"?　¿Qué es esto?"
+"Kanbara Yuuko (talking)";"その古宮さんが朝一番に来て、 あーくんにこれを渡してって。";"This Komiya came first thing in the morning and gave this to Ah-kun.";"Este Komiya vino a primera hora de la mañana y le dio esto a Ah-kun."
+"Yamamoto Akuji (talking)";"？";"？";"？"
+"narrator";"悪司は、夕子の目の前で手紙を広げてみた。";"Akuji unfolded the letter in front of Yuuko.";"Akuji desdobló la carta frente a Yuuko."
+"Yamamoto Akuji (talking)";"うわ……すげー達筆。 筆でスラスラ書いてあるぜ。 古宮って字上手いのなー。
+ ……ただまあ、 達筆すぎてさっぱり読めんけど。";"Wow,…… is soooo expertly written. It's written so smoothly with a brush. I can't believe Komiya is such a good writer.…… but I can't read it at all because it's written too neatly.";"Wow…… Wow, eso es una escritura seria. Se escribe tan suavemente con un pincel. Komiya es un buen escritor.…… Pero, bueno, está demasiado bien escrito como para leerlo del todo."
+"Kanbara Yuuko (talking)";"…………";"…………";"…………"
+"Yamamoto Akuji (talking)";"夕子さん、コレ読めるか？";"Yuuko, can you read this?";"Yuuko, ¿puedes leer esto?"
+"Kanbara Yuuko (talking)";"ん~……内容だけは、なんとな~く……";"Hmmm… only…… content is somewhat ……";"Hmmm - sólo el contenido de…… es algo ……"
+"Yamamoto Akuji (talking)";"何て書いてあるんだ？";"What does it say?";"¿Qué dice?"
+"Kanbara Yuuko (talking)";"……………… 今は無理だけど、いつか必ず 約束を破った事を後悔させてやるって。";"……………… He said he can't do it now, but someday I'll make sure he regrets breaking his promise.";"……………… Dijo que no podía hacerlo ahora, pero que un día se aseguraría de lamentar haber roto su promesa."
+"Yamamoto Akuji (talking)";"へっ？";"Huh?";"¿Eh?"
+"Kanbara Yuuko (talking)";"ええと、要するに……
+ ……古宮さん、奉仕青年団を 辞めちゃったみたい。 あーくんをすっごく恨んで。
+心当たり、ないの？";"Well, in short, ……
+ ……Komiya seems to have quit the Youth Service League. She's really upset with Akun.
+Do you have any idea why?";"Bueno, en resumen: ……
+ ……Komiya parece haber abandonado la organización del servicio juvenil. Estaba muy enfadada con él.
+ ¿Tiene alguna idea de por qué?"
+"Yamamoto Akuji (talking)";"…………………………いや、ある。";"………………………… No, there is.";"………………………… No, lo hay."
+"Kanbara Yuuko (talking)";"……あらま~……";"…… Oh my goodness - ……";"…… Oh dear - ……"
+"Yamamoto Akuji (talking)";"まあ、予想はしてたけどな…… しゃあねえか。";"Well, I expected that…… I guess it's to be expected.";"Bueno, me lo esperaba…… Supongo que no puedo evitarlo."
+"Kanbara Yuuko (talking)";"教団の勢力が減じれば、 それだけ由女が危険に晒される。 ……ここは死守してみせる！";"The less power the cult has, the more danger Yume is in…… will defend this place to the death!";"Cuanto menor sea el poder de la Orden, mayor será el riesgo de Yume…… ¡Defenderemos este lugar hasta la muerte!"
+"__system__??";"{☆由女／イハビーラ = 1:";"";""
+"Yamamoto Akuji (talking)";"山本悪司への恩もある…… 今はただ戦うしかないっ……";"I owe a debt of gratitude to Yamamoto Akuji and now I just have to fight……";"Yamamoto Akuji tiene una deuda de gratitud conmigo…… y ahora sólo tengo que luchar……"
+"__system__??";"}";"";""
+"__system__??";"{☆由女／イハビーラ = 0:";"";""
+"Yamamoto Akuji (talking)";"必死で戦い、点数を稼ぎ、生きて帰る。 全て由女のためだと思えば……！！";"Fight hard, score points, and leave alive. If you think it's all for Yume ……!";"Lucha duro, gana puntos y sal con vida. Si crees que todo es por Yume, ¡……!"
+"__system__??";"}";"";""
+"Yamamoto Akuji (talking)";"由女……！ 私が判らないの？！　陽子よ！ お願いだから目を覚まして！！";"Yume ……! Don't you recognize me?　It's Youko! Please wake up!";"¡Una vez más, el equipo de la empresa se ha puesto en marcha! ¿No me reconoces?　¡Es Youko! ¡Por favor, despierta!"
+"Kanbara Yuuko (talking)";"……？ この女の人、どこかで……";"……? This woman, somewhere ……";"……? Esta mujer, en algún lugar ……"
+"Yamamoto Akuji (talking)";"由女っ……！";"Yume! ……!";"¡Yume! ……"
+"Kanbara Yuuko (talking)";"……ゆめ…………由女…… 聞き覚えが……あれ、気のせいかな……
+ ……………気のせいだよね。 見覚えないもん、こんな女の人……";"……Yume…………Yume…… sounds familiar ……That's just my imagination……
+ ……………It's just my imagination. I don't recognize her, she's such a woman……";"……Yume…………Yume…… me suena ……Eso es sólo mi imaginación……
+Es sólo mi imaginación…………… No la reconozco, es una mujer……"
+"Yamamoto Akuji (talking)";"由女……お願い、思い出して！ 考えることをやめないで！！";"Yume…… Please, remember! Don't stop to think!!!!!!!!!!!!!!!!!!!!!!!!";"Por favor, ¡recuerda! ¡¡¡No dejes de pensar!!!"
+"Kanbara Yuuko (talking)";"……ああもう、イライラする…… うるさいなあ、この人っ………！";"…… Oh my god, he's so irritating…… Shut up, he's so annoying ………!";"…… Oh Dios, es tan irritante…… ¡Cállate, es tan molesto ………!"

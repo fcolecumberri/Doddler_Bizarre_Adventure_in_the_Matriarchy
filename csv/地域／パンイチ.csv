@@ -1,0 +1,350 @@
+"character";"jap text";"Eng";"Esp"
+"__system__??";"{麦 = 1:";"";""
+"__system__??";"{☆パンイチ = 10:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(☆パンイチ = 11) * (RND \ 0):";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 3:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 10:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 11:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 13:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 15:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 16:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 17:";"";""
+"__system__??";"{H拷問抵抗 < H拷問:";"";""
+"__system__??";"}";"";""
+"__system__??";"{H拷問 = 1:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"Panichi (talking)";"オレを呼び出すという事は、 あんただけの為に 踊って欲しいという事かい？";"By calling me up, you mean you want me to dance just for you?";"Al llamarme, ¿quieres decir que quieres que baile sólo para ti?"
+"Yamamoto Akuji (talking)";"いらねって。 俺は時々、こーして部下の誰とでも 喋りたいだけだからよ。";"I don't need it. I just like to have a chat with any of my guys from time to time.";"No lo quiero. Me gusta tener una charla con cualquiera de mis hombres de vez en cuando."
+"Panichi (talking)";"そうか、残念だな。";"Well, that's too bad.";"Pues es una pena."
+"Yamamoto Akuji (talking)";"で、ここでもおひねり貰ってんのか。";"So, you're getting a bribe here, too?";"Entonces, ¿también estás recibiendo un soborno aquí?"
+"Panichi (talking)";"オレは朝顔のものでも、オレの舞いは、 客のものだからな。";"I may belong to Asagao, but my Maii belongs to you.";"Puedo pertenecer a Asagao, pero mi Maii pertenece al cliente."
+"Panichi (talking)";"朝顔、オレの可愛いハニー。 そろそろオレは、悪司の元に 行かなくてはいけない。
+そんな悲しい顔をしないでくれ。 暫しの別れだ。";"Asagao, my sweet Hanny. I have to go to Akuji soon.
+Don't look so sad. It's just for a while.";"Asagao, mi dulce Hanny. Es hora de que vaya a Akuji.
+No estés tan triste. Es sólo un adiós temporal."
+"Tsutsui Asagao (talking)";"………いや… 離れたくないの…";"……… No… I don't want to leave…";"……… No… no quiero irme…"
+"Panichi (talking)";"可愛い女だ…オレの朝顔は。";"She's a lovely woman…my Asagao.";"Es una mujer encantadora… mi Asagao."
+"Tsutsui Asagao (talking)";"パンイチ……";"Panichi……";"Panichi……"
+"Yamamoto Akuji (talking)";"やめんか、バカップル。 朝顔、おめーさっさと部屋戻れ。";"Stop it, you couple of idiots. Asagao, go back to your room.";"Basta, par de idiotas. Asagao, vuelve a tu habitación."
+"Panichi (talking)";"ヤキモチは、可愛くないぜ。";"Jealousy ain't cute, man.";"Los celos no son bonitos, tío."
+"Yamamoto Akuji (talking)";"男に可愛いなんざ言われたくねっての。";"I don't want a man to tell me I'm cute.";"No quiero que un hombre me diga que soy bonita."
+"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
+"Panichi (talking)";"ご指名かい？";"You wanted to see me?";"¿Querías verme?"
+"Yamamoto Akuji (talking)";"相変わらず、パンツの中は 札まみれか。";"Still covered in bills in your pants, huh?";"Como siempre, tus calzoncillos están cubiertos de notas."
+"Panichi (talking)";"一枚わけてやろうか？";"I'll give you a piece of it.";"¿Quieres que comparta uno contigo?"
+"Yamamoto Akuji (talking)";"いらね。";"I don't want it.";"No es necesario."
+"Yamamoto Akuji (talking)";"これは、俺からのおひねりだ。 好きなように使ってくんな。";"This is my endowment. Use it as you like.";"Aquí hay algo de mi parte. Utilízalo como quieras."
+"narrator";"悪司はまとまった金を パンイチに渡した。";"Akuji gave a sum of money to Panichi.";"Akuji dio una suma de dinero a Panichi."
+"Panichi (talking)";"すまねぇな。 使わせて貰うとすよ。";"Sorry about that. I'll take it.";"Lo siento. Te dejaré usarlo."
+"Yamamoto Akuji (talking)";"きたな。 パンイチ。";"KITANA. Panichi.";"Kitsuna. Panichi."
+"Panichi (talking)";"やれやれだぜ。";"Good grief, man.";"Por Dios, hombre."
+"__system__??";"{RND \ 0:";"";""
+"__system__??";"}";"";""
+"Panichi (talking)";"で、オレをどうするつもりだい？";"So what are you going to do with me?";"¿Y qué vas a hacer conmigo?"
+"Yamamoto Akuji (talking)";"……その魅惑の黒パンツの中にある金は どーした？";"…… what happened to the money in those seductive black pants?";"…… ¿Qué pasó con el dinero de esos seductores pantalones negros?"
+"Panichi (talking)";"フフン。 客がいれば、その場はステージに 早変わりさ。";"Hmph. If there are guests, the place turns into a stage.";"Hmph. Si hay invitados, el lugar se transforma en un escenario."
+"__system__??";"{RND \ 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆パンイチと朝顔 = 1:";"";""
+"Tsutsui Asagao (talking)";"……………";"……………";"……………"
+"Yamamoto Akuji (talking)";"なんだ、朝顔。 こんなとこまできて。";"What the heck, Asagao. You came all the way here.";"Qué demonios, Asagao. Has venido hasta aquí."
+"Panichi (talking)";"オレがわざと捕まったのは、 あの女の為だ。";"I got caught on purpose because of that woman.";"Me atraparon a propósito por culpa de esa mujer."
+"Yamamoto Akuji (talking)";"へっ！？";"Heh!";"¡Ja!"
+"Panichi (talking)";"あの女とオレは、 同じもので繋がっている。";"She and I are connected by the same thing.";"Ella y yo estamos conectados por lo mismo."
+"Yamamoto Akuji (talking)";"………見せたがりって事か…？";"You mean you want to show …………?";"¿Quiere decir que quiere mostrar …………?"
+"Panichi (talking)";"オレは、あの女と共に時間を過ごす為に、 オフクロの墓であり、オレの聖域である 毛ガニ劇場を捨てた。
+悪司。 オレをお前の部下にして、あの女と共に 生きる事を許してくれ。";"I abandoned my sanctuary, the hairy crab theater, the grave of Okuro, to spend time with that woman.
+Akuji. Make me your subordinate, and allow me to live with her.";"Abandoné el teatro del cangrejo peludo, mi santuario y tumba de Okuro, para pasar tiempo con esa mujer.
+Akuji. Hazme tu hombre y déjame vivir con ella."
+"__system__??";"}";"";""
+"__system__??";"{☆パンイチと朝顔 = 0:";"";""
+"Tsutsui Asagao (talking)";"……………";"……………";"……………"
+"Yamamoto Akuji (talking)";"なんだ、朝顔。 こんなとこまできて。";"What the heck, Asagao. You came all the way here.";"Qué demonios, Asagao. Has venido hasta aquí."
+"Panichi (talking)";"っ…！！";"Ah…!";"¡Oh!"
+"Tsutsui Asagao (talking)";"………やっぱり…私と…";"………I knew… me and…";"……… Lo sabía… yo y…"
+"Panichi (talking)";"オレと…同じ匂いがする！！";"You smell just like me!";"Tú y yo… ¡olemos igual!"
+"Yamamoto Akuji (talking)";"なんなんだ、お前ら。";"What the hell, guys?";"¿Qué demonios, chicos?"
+"Panichi (talking)";"あの女とオレは、 同じもので繋がっている。";"She and I are connected by the same thing.";"Ella y yo estamos conectados por lo mismo."
+"Yamamoto Akuji (talking)";"………見せたがりって事か…？";"You mean you want to show …………?";"¿Quiere decir que quiere mostrar …………?"
+"Panichi (talking)";"オレは、オフクロの墓であり、 オレの聖域である毛ガニ劇場を捨てる。
+悪司。 オレをお前の部下にして、あの女と共に 生きる事を許してくれ。";"I will abandon the hairy crab theater that is my sanctuary and my wife's grave.
+Akuji. Make me your man and let me live with her.";"Abandonaré el teatro del cangrejo peludo que es mi santuario y la tumba de mi descendencia.
+Akuji… Hazme tu hombre y permíteme vivir con ella."
+"__system__??";"}";"";""
+"__system__??";"{RETURN = 1:";"";""
+"Yamamoto Akuji (talking)";"そーかそーか。 だったら、脱衣コンビで仲良く 俺の為に働いてくれ。";"I see. Well, then, you and your undressing duo should get along and work for me.";"Ya veo. Entonces ponte a ello y trabaja para mí como un dúo de desvestidos."
+"Panichi (talking)";"ありがとう、悪司。 いい男だぜ。";"Thanks, Akuji. You're a good man.";"Gracias, Akuji. Eres un buen hombre."
+"Yamamoto Akuji (talking)";"へっ、そーかい。";"Heh, okay.";"Vale."
+"__system__??";"}";"";""
+"Yamamoto Akuji (talking)";"ダメだ。 今はそーいう気分じゃねぇ。";"No. I'm not in the mood. I'm not in the mood for this.";"No, no. No estoy de humor para esto."
+"Panichi (talking)";"……そうか、残念だな。";"…… Well, that's too bad.";"…… Bueno, es una pena."
+"Yamamoto Akuji (talking)";"朝顔も、そーいう訳だ。 諦めろ。";"That's why Asagao too. Give it up.";"Por eso Asagao también. Déjalo."
+"Tsutsui Asagao (talking)";"………………
+ ……いぢわる……";"…………………… teasing ……";"…………………… burlas……"
+"Panichi (talking)";"可愛い奴だな……";"Cute guy……";"Es un tío muy guapo……"
+"Yamamoto Akuji (talking)";"ほら、こんだけやるよ。 だから俺の部下になりな。";"Here, I'll give you this much. So be my man.";"Mira, te concedo esto. Así que sé mi hombre."
+"narrator";"と言って、悪司はいくらかの金を、 パンイチに見せた。";"Then Akuji showed some money to Panichi.";"Y Akuji mostró algo de dinero a Panichi."
+"__system__??";"{RND \ 0:";"";""
+"Panichi (talking)";"毛ガニ劇場を見捨てた俺は、 今、欲しいのは金じゃない。
+あの女と共にいる事だ。 そんな無粋なものは さっさとしまってくれ。";"I abandoned the hairy crab theater. What I want now is not money.
+I want to be with that woman. So put that tactless thing away.";"He abandonado el teatro del cangrejo peludo, y lo que quiero ahora no es dinero.
+Quiero estar con esa mujer. Quita esa falta de tacto de mi camino."
+"__system__??";"}";"";""
+"__system__??";"{RND = 0:";"";""
+"Panichi (talking)";"こんなものはいらない。 オレにひつようなのは、ステージと客だ。";"I don't need these things. All I need is a stage and an audience.";"No necesito estas cosas. Todo lo que necesito es un escenario y un público."
+"__system__??";"}";"";""
+"Yamamoto Akuji (thinking)";"戦地に向かう前まで、 ここには世話になったなー。
+ガキん頃は、裏からこっそり入って ステージを見たもんだ。
+今はどーなってるのか…";"I used to go to this place before I left for the war.
+When I was a kid, I used to sneak in from the back to watch the stage.
+I don't know what's going on now…";"Antes de irme a la guerra, este lugar se ocupó de mí.
+Cuando era niño, solía colarme por la parte de atrás y ver el escenario.
+No sé qué está pasando ahora…"
+"narrator";"悪司は劇場の扉に手をかけた。";"Akuji put his hand on the theater door.";"Akuji puso la mano en la puerta del teatro."
+" (talking)";"珍しいな…ニホン人、しかも男の客かい？";"How rare… a Japanese, and a male guest?";"Es raro… ¿un japonés, y un invitado masculino?"
+"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
+"Yamamoto Akuji (talking)";"………………
+ …………ぱんいち…";"………………
+ …………Panichi…";"………………
+ …………Panichi…"
+"Panichi (talking)";"ほう。 オレの名をよく知っているな。
+そう。オレの名は、パンイチ。 ここの責任者であり… 看板ストリッパーだ。";"Well, you know my name very well. You know my name well.
+Yes, I do. My name is Panichi. I'm the manager of this place and the signature stripper.";"Hoh. Ya conoces mi nombre.
+Sí, lo sé. Me llamo  Panichi. Yo estoy a cargo aquí… y soy la stripper de la firma."
+"Yamamoto Akuji (talking)";"ちょっ……
+ちょっと待て、ここは女のストリッパーが ゴロゴロいたんじゃあ…";"Hey, ……
+Wait a minute, I thought this place was full of female strippers…";"Hola, ……
+Espera un minuto, pensé que este lugar estaba lleno de strippers femeninas…"
+"Panichi (talking)";"それはもう、過去の話。 知ってるだろうが、 今はウィミィ統治の時代。
+性的娯楽はすべて、 女性を楽しませるものだけしか、 表に出る事は出来なくなったろう？";"That's all in the past. You see, this is the age of Wime rule.
+All sexual entertainment, only that which pleases women, is now off the table, right?";"Eso ya es cosa del pasado. Como sabes, esta es la era de la regla del Wime.
+Todo el entretenimiento sexual, sólo el que complace a las mujeres, puede salir ahora, ¿no es así?"
+"Yamamoto Akuji (talking)";"……ああ、そっか… そーいやそうだったな…
+お前さんのぱんいち姿に毒気抜かれて、 記憶の向こうにふっとんでたさ。";"…… Oh, yeah… yeah, that's right…
+I was so taken aback by the sight of you in your pampas that it's all been lost in the shadows of my memory.";"…… Oh, sí… sí, sí, sí…
+Me sorprendió tanto verte en bikini que todo se ha perdido en las sombras de mi memoria."
+"Panichi (talking)";"それは誉め言葉と受け取っておこう。
+もうすぐ、ステージの時間だ。 オレ達の華麗な舞いを、 堪能していくかい？";"I'll take that as a compliment.
+It's almost time for the stage. Would you like to enjoy our splendid Mai-Yi?";"Lo tomaré como un cumplido.
+Es casi la hora de salir al escenario. ¿Quiere disfrutar de nuestro magnífico Mai i-yi?"
+"Yamamoto Akuji (talking)";"俺達って事は、お前さんみたいなのが 何人もステージに並ぶって事か。";"By “we,” you mean a bunch of people like you on stage.";"Por “nosotros”, te refieres a un grupo de personas como tú en el escenario."
+"Panichi (talking)";"ああ、そうさ。 オレ達の華麗な技に、女性達の黄色い声は やむ事がなく、ステージを包む。
+夢のひとときを与えてやるぜ。";"Yes, that's right. The women's yellowing voices never cease as we perform our spectacular tricks, and the stage is filled with them.
+I'm going to give you a dream moment.";"Sí, eso es. Los gritos amarillistas de las mujeres no cesan mientras envolvemos el escenario con nuestras espectaculares habilidades.
+Te voy a dar un momento de sueño."
+"narrator";"パンイチはそう言って、手にしている シルクハットの鍔をキュッと鳴らした。";"Panichi said this and snapped the brim of the silk hat in his hand.";"Panichi entonces encajó el ala del sombrero de seda en su mano."
+"Yamamoto Akuji (talking)";"…………
+それは将来の楽しみにとっとくよ。 それじゃあ、頑張ってな。";"…………
+I'll save that for future fun. Good luck to you then.";"…………
+Lo dejaré para el futuro. Buena suerte con eso entonces."
+"Panichi (talking)";"ああ、あんたもな。";"Yeah, you too.";"Sí, tú también."
+"narrator";"悪司は毛ガニ劇場の出入り口を閉めた。";"Akuji closed the doorway to the hairy crab theater.";"Akuji cerró la puerta del teatro del cangrejo peludo."
+"uimiionnaheishi (talking)";"早く、早く！ もうすぐパンイチさんのステージ 始まっちゃうわよ！";"Come on, come on! We're almost at Panichi's stage Hajime!";"¡Vamos, vamos! ¡Ya casi llegamos a la etapa de Panichi Hajime!"
+"uimiionnaheishi (talking)";"あん、待ってよ！ 今日こそあたしが、パンイチさんのキス権 買い取るんだからっ！";"Oh, wait! Today is the day I'm going to buy Panichi's kissing rights!";"¡Espera! ¡Hoy es el día en que voy a comprar los derechos de beso de Panichi!"
+"joseishikan (talking)";"ふん。 ＶＩＰ席のチケットなしでキス権が 貰えると思っているのか。";"Hmm. You think you can get kissing privileges without a VIP ticket.";"Hm. Crees que puedes tener privilegios de besos sin una entrada VIP."
+"joseishikan (talking)";"まったく…下層兵が見苦しい。 あのようにはしゃいでは、ウィミィ女性の 恥ですね。";"Totally…the lowly soldier is not a good look. Shame on Wime women for flailing around like that.";"Es totalmente… indecoroso para un soldado de bajo rango. Es una vergüenza que una mujer Wime se exhiba así."
+"Lover (talking)";"お前はここで待ってな。";"You wait here.";"Espera aquí."
+"Chinpira (talking)";"へい、姐さん！！";"Hey, Miss!";"¡Oiga, señorita!"
+"Lover (talking)";"…どれだけお金を積んでも、 いい席はウィミィのもの…たまんないよ…
+ああ……パンイチさん… ニクイ人だよ、ほんと…";"…no matter how much money you put up, the best seats are for Wime….
+Oh, ……Panichi… he's a nice guy, really…";"…no importa cuánto dinero pongas, los mejores asientos son para Wime…
+Oh, ……Panichi… es un buen tipo, realmente…"
+"wakaishufu (talking)";"ほら、お母さん、早く！ 始まっちゃうったら。";"Come on, mom, come on! HajimeMa'am, I'm so tired.";"¡Vamos, mamá, vamos! Hajime, vamos."
+"ten'in (talking)";"あーでもねー、Ｚ席じゃあねー。 パンイチさんの姿がリカちゃん人形 サイズじゃあねぇー。";"But, you know, in the Z seat. I can't see Panichi's figure in the size of Rika-chan doll.";"Pero, pero, pero, pero, pero, pero, pero, pero, pero, pero, pero, pero, pero, pero, pero, pero, pero, pero. Si la figura de Panichi es del tamaño de una muñeca Rica-chan…"
+"wakaishufu (talking)";"大丈夫よ！ パンイチさん、こっちにもサービスしに きてくれるかもしれないじゃない！
+それに、そんな事がなくても、 パンイチさんのステキさはかわんないわ。 早く、早く。";"It's okay! Maybe Panichi will come to serve us too!
+And even if you don't, Panichi will still be very nice. Come on, come on.";"¡No pasa nada! ¡Tal vez Panichi venga a servirnos también!
+Además, aunque no lo hagas, Panichi seguirá siendo agradable. Vamos, vamos."
+"narrator";"どの女達も目をキラキラさせ、大慌てで、 客席に向かって行った。";"All the women, eyes twinkling, rushed toward the auditorium.";"Todas las mujeres, con los ojos brillantes y con mucha prisa, se dirigieron al auditorio."
+"Yamamoto Akuji (talking)";"……………
+えらい時代になったモンだ……";"……………
+What a time we live in: ……";"……………
+Es un tiempo infernal……"
+"narrator";"悪司はこっそり裏から入っていた。";"Akuji had sneaked in through the back.";"Akuji se había colado por la parte de atrás."
+"Yamamoto Akuji (thinking)";"こっちからは、相変わらず簡単に入る事が 出来るな… さーて、制圧するのに使えそうなネタは…";"It's as easy as ever to get in from here… now, for something we can use to take control of the situation…";"Desde aquí, es tan fácil como siempre entrar… ahora, por algo que podamos usar para tomar el control…"
+"Yamamoto Akuji (talking)";"ん…？";"Hmm…?";"¿Hmm…?"
+"narrator";"楽屋の廊下には、歴代の女ストリッパーの 黄金時代の写真が並べてあった。";"In the hallway of the dressing room were photos of the golden age of female strippers of the past.";"El pasillo del camerino estaba forrado con fotografías de la época dorada de las strippers del pasado."
+"Yamamoto Akuji (talking)";"お、あ、この辺り知ってる顔だな。 いやー、なっつかしいなー。";"Oh, oh, you look familiar around here. Oh, no, it's so nostalgic.";"Oh, oh, me resultas familiar por aquí. Oh, no, es tan nostálgico."
+" (talking)";"その左のが、オレのオフクロだ。";"The one on the left is my wife.";"La de la izquierda es mi cosecha de fuera."
+"Yamamoto Akuji (talking)";"ん……";"N……";"N……"
+"Panichi (talking)";"珍客のお出ましか。";"A rare guest.";"¿Hay algún invitado raro en la casa?"
+"Yamamoto Akuji (talking)";"おう、パンイチ。 この人が、お前さんのお袋さんかよ。";"Oh, Panichi. So this is your mother, huh?";"Oh, Panichi. Esta es tu madre, ¿no?"
+"Panichi (talking)";"ああ……";"Oh……";"Oh……"
+"cg narrator";"「オフクロは俺の知る限り、 　最高のストリッパーだ」
+ 「自分がどんなにつらい時でも、 　ステージでは華やかで、艶やかで、 　サービス精神を忘れない」
+ 「つらい事があって、小屋に逃避してくる男達が 　すべて忘れられるように、その瞬間だけでも 　晴れやかな気分でいられるように」
+ 「そう願ってステージに立つ、 　最高のストリッパーだった」
+ 「で、そのお袋さんは今は隠居かい？」
+ 「戦争が終わる頃……結核で死んだよ。 　この劇場を最後まで心配してね。 　なんせ跡継ぎが男のオレだったからな」
+ 「敗戦した為に、男が継ぐ事になろうなんて、 　お釈迦様でもびっくりだけどな」
+ 「ああ、本当にその通りだ。 　オレには、幸運だったがな」
+ 「この小屋はいわばオフクロの墓。 　オレにとっては聖域だ」
+ 「なるほどな…」
+ 「だから…」";"She's the best stripper I've ever known.
+ “No matter how hard I'm going through, I'm still glamorous, glamorous, and serviceable on stage.
+ “I hope that all the men who come to the cabin after a hard time can forget it all, just for a moment, and feel better.
+ “She was the best stripper who ever went onstage.
+So, is your mother retired now?
+She died of tuberculosis at the end of the war. 　She died of tuberculosis at the end of the war. 　I was the male heir, after all.
+Even the Buddha was surprised that a man should take over because of the war.
+ “Yes, that's true. 　I was lucky, though.
+This hut is my wife's grave. 　It's my sanctuary.
+I see.
+So…";"”Okuro es el mejor stripper que he conocido.
+ “Por muy duro que sea lo que estoy pasando, sigo siendo glamuroso, glamuroso y servicial en el escenario.
+ “Espero que todos los hombres que vienen a la cabaña después de un duro día de trabajo puedan olvidarlo todo, sólo por un momento, y sentirse mejor.
+ “Era la mejor bailarina de striptease que subía al escenario esperando eso”.
+Entonces, ¿tu madre está jubilada ahora?
+Murió de tuberculosis al final de la guerra ……. 　Se preocupó por este teatro hasta el final. 　Después de todo, yo era el heredero varón.
+Incluso el Buda se sorprendió de que un hombre tomara el mando por haber perdido la guerra.
+Sí, es cierto. 　Sin embargo, tuve suerte.
+Esta cabaña es la tumba de mi esposa. 　Es mi santuario.
+Ya veo…
+Así que…"
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"Panichi (talking)";"このステージを台無しにする奴は、 このオレが許さねぇ。
+オレはオフクロの遺志を継ぎ、 ここで踊る事を、 ここで人を癒す事を決めた。
+このオレがいる限り、 ここの平穏は守ってみせる。
+俺達に酔うつもりのない野暮な奴は 用なしだ。";"I will not allow anyone to ruin this stage.
+I have decided to dance here and heal people here, following Okuro's will.
+As long as I am here, I will keep the peace here.
+I have no use for a boorish person who doesn't want to get drunk with us.";"No permitiré que nadie arruine esta etapa.
+He decidido continuar el legado de Okuro, bailar aquí y curar a la gente aquí.
+Mientras esté aquí, mantendré la paz aquí.
+No nos sirven los groseros que no quieren emborracharse con nosotros."
+"Yamamoto Akuji (talking)";"……俺が誰だかわかってるのか。";"You know who I am, …….";"…… ¿Sabes quién soy?"
+"Panichi (talking)";"そうだな… 奉仕青年団の影番さんよ。";"Yes… Mr. Shadow Watch of the Service Youth League.";"Sí… el Sr. Reloj de Sombra de la Liga Juvenil de Servicio."
+"Yamamoto Akuji (talking)";"そこまでわかってんだったら、 隠し事はナシだな。";"If you know that much, you have nothing to hide.";"Si sabes tanto, entonces no tienes nada que ocultar."
+"Panichi (talking)";"そうだな。";"Yes.";"Sí."
+"narrator";"パンイチが手にしているシルクハットの 鍔が鈍く光り、きゅっと鳴った。";"The brim of the silk hat Panichi was holding glowed dully and squeaked.";"El ala del sombrero de seda en la mano de Panichi brilló con fuerza y chirrió."
+"Yamamoto Akuji (talking)";"今日は退散だ。 またくるよ。";"I'm out for the day. I'll be back.";"Me voy hoy. Volveré."
+"Panichi (talking)";"その時は是非、オレ達のステージを 楽しむ為にきてくれ。
+本来、男客は入れねぇが、 こっそり舞台裏で見せてやるよ。";"Please come and enjoy our stage then.
+We don't normally allow male guests, but we'll secretly show you behind the Mai stand.";"Ven a disfrutar de nuestro escenario entonces.
+Normalmente, los invitados masculinos no están permitidos, pero te mostraremos en secreto detrás del puesto de Mai."
+"Yamamoto Akuji (talking)";"そりゃどーも。";"That's no big deal.";"Eso es una cagada."
+"__system__??";"{RND \ 0:";"";""
+"Kako Mirai (talking)";"こ、ここは！？";"This is the place!";"¡Este es el lugar!"
+"Yamamoto Akuji (talking)";"どした？";"What's up?";"¿Qué pasa?"
+"Kako Mirai (talking)";"知ってるにゃりよ！ 男ストリップのお店にゃり！";"I know you! It's a male strip joint!";"¡Te conozco! ¡Es un local de striptease masculino!"
+"Yamamoto Akuji (talking)";"ご名答ー。";"Good answer.";"Buena respuesta."
+"Kako Mirai (talking)";"ににに、にーちゃん、 見せてくれるにゃりか！？ 連れてってくれるにゃりか！？
+ここの入場券、１ヶ月待ちでも、 Ｚ席しか買えないにゃりよ！！
+それ、持ってるにゃりか！？ 持ってるんだったら、未来ちゃんに よこしやがれにゃりよー！！";"Ni, ni, ni, ni, will you show me? Will you take me there?
+You can wait a month for a ticket, but you can only buy Z seats!
+Do you have those? If you have it, give it to Mirai!";"Ni ni ni, ni ni ni, ¡me lo vas a enseñar! ¿Me llevarás allí?
+Puedes esperar un mes para conseguir una entrada, pero sólo puedes comprar asientos Z.
+ ¿Los tienes? ¡Si lo tienes, dáselo a Mirai!"
+"Yamamoto Akuji (talking)";"ない。";"No.";"No."
+"Kako Mirai (talking)";"にゃーーーー！！";"Meow!";"¡¡Miau!!"
+"Yamamoto Akuji (talking)";"お前が嬉しそうにしてるの見たら、 意地悪したくなった。 さー、帰る帰る。";"When I saw you looking so happy, I felt like being mean to you. Well, I'm going home.";"Cuando te vi tan feliz, me dieron ganas de ser malo. Bueno, me voy, me voy."
+"Kako Mirai (talking)";"ぎにゃーーーーーーーーーーー！！！！ このすっとこどっこいーー！！！！ サドーー！！！！　むきーーー！！！！";"Geeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee ！！！！You little shithead！！！！Sadoooooooooooooooooooooooooooooooooooooooooooooooooooo ！！！！　Muki-oooooooo ！！！！";"Geeeeeeeeeeeeeeeeeeeeeeeeeee ！！！！Este sddoooooooooooooooooooo ！！！！Sadoooooooooooooooooooooooo ！！！！　Muki-oooooooooooooooooooooooooooooo ！！！！"
+"narrator";"悪司達は毛ガニ劇場を後にした。";"Akuji and his friends left the hairy crab theater.";"Akuji y sus compañeros abandonaron el teatro del cangrejo peludo."
+"__system__??";"}";"";""
+"__system__??";"{RND = 0:";"";""
+"Takega Satsu (talking)";"そういう趣味があったのか。";"That's the kind of hobby you had.";"¿Tenías esa afición?"
+"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
+"Takega Satsu (talking)";"ここは、男の裸を見る場所だろうが。";"I know this is the place to see men naked.";"Sé que este es el lugar para ver hombres desnudos."
+"Yamamoto Akuji (talking)";"なんで知ってんだよ。";"How do you know?";"¿Cómo lo sabes?"
+"Takega Satsu (talking)";"有名だぞ。 ここのチケットが闇でいくらで 売られているか、知っているか？";"It's famous. Do you know how much tickets to this place sell for in the dark?";"Es famoso. ¿Sabes a cuánto se venden las entradas aquí en la oscuridad?"
+"Yamamoto Akuji (talking)";"ふーん………";"Hmmm ………";"Hmmm ………"
+"Takega Satsu (talking)";"なんだ。 男の尻には興味ないのか。";"What the hell. You're not interested in men's butts?";"Qué demonios. ¿No te interesan los culos de los hombres?"
+"Yamamoto Akuji (talking)";"そーだなー……";"I guess so……";"Bien……"
+"__system__??";"{★愛 = 5:";"";""
+"Takega Satsu (talking)";"まあ、妻としてこれ以上性的興味対象を 広げられるのもどうかと思っていたから 丁度良いがな。";"Well, as a wife, I wasn't sure if I could expand my sexual interests any further, so I guess it's just as well.";"Menos mal, porque como esposa no estaba segura de poder ampliar más mis intereses sexuales."
+"__system__??";"}";"";""
+"__system__??";"{★愛 \ 5:";"";""
+"Takega Satsu (talking)";"まあ、叔母としてこれ以上性的興味対象を 広げられるのもどうかと思っていたから 丁度良いがな。";"Well, as an aunt, I wasn't sure if I could expand my sexual interests any further, so I guess it's just as well.";"Pues menos mal, porque como tía no estaba segura de poder ampliar más mis intereses sexuales."
+"__system__??";"}";"";""
+"Yamamoto Akuji (talking)";"人を性獣みたいに……";"People like sex animals: ……";"A la gente le gustan los animales sexuales……"
+"narrator";"悪司達は毛ガニ劇場を後にした。";"Akuji and his friends left the hairy crab theater.";"Akuji y sus compañeros abandonaron el teatro del cangrejo peludo."
+"__system__??";"}";"";""
+"narrator";"悪司がその前でぼんやりしていると、 ウィミィ女兵士達が歩いてきた。";"As Akuji was standing idly in front of it, Wime female soldiers walked up.";"Mientras Akuji se quedaba de brazos cruzados frente a ella, un grupo de mujeres soldado Wime se acercó."
+"uimiionnaheishi (talking)";"あ~……やっぱり、パンイチさん、 出演していないみたいでね……";"Oh~……I guess Panichi isn't on the show after all……";"Oh~……Parece que Panichi no está en el programa después de todo……"
+"joseishikan (talking)";"ジーザス。
+どうして出演しないのかわからないが、 ニホンでの楽しみがひとつ減って しまったな。";"Jesus.
+I don't know why they don't perform, but it's one less thing to look forward to in Japan.";"Jesús.
+No sé por qué no estoy en el programa, pero es una cosa menos que esperar en Japón."
+"uimiionnaheishi (talking)";"ただでさえ、本国に比べて娯楽が 少ないっていうのに、迷惑な話 ですよねぇ…";"It's a nuisance when there's so little entertainment compared to back home…";"Es un fastidio cuando hay tan poco entretenimiento comparado con el de casa…"
+"joseishikan (talking)";"しかたない。 コウシエンの方にでも行くとするか。";"Well, there's nothing we can do. Let's go to Koushien.";"No se puede evitar. Vamos a Kohshien o algo así."
+"uimiionnaheishi (talking)";"はい、わかりました。";"Yes, I understand.";"Sí, lo entiendo."
+"narrator";"ウィミィ女兵士達は、一通りぶつぶつ言った後、 車に乗り、コウベ方面に向かって行った。";"The Wime women soldiers, after a round of mumbling, got into their cars and headed in the direction of Koubé.";"Tras una ronda de murmullos, los soldados subieron a un coche y se marcharon en dirección a Koubé."
+"Yamamoto Akuji (talking)";"ホントに、看板スターだったんだな…";"Really, he was a signature star…";"Realmente, eras una estrella de la cartelera…"
+"narrator";"割れんばかりの拍手が、惜しみなくステージに 降り注いでいる。";"The applause was thunderous.";"Los aplausos fueron estruendosos y profusos."
+"joseishikan (talking)";"ブラボー、パンイチー！！";"Bravo, Panichi!";"¡Bravo, Panichi!"
+"uimiionnaheishi (talking)";"オーマイガーーッ！！";"Oh my god!";"¡Oh, Dios mío!"
+"wakaishufu (talking)";"きゃーーーーーー！！！！ パンイチさん、ステキー！！！！";"Kyaaaahhh ！！！！Panichi, Steki ！！！！";"Kyaaaahhh ！！！！Panichi, Steky！！！！"
+"ten'in (talking)";"ああもう、あんたの芸で、 あたしゃ１０年、若返ったよーー！！";"Oh my God, your art has made me ten years younger!";"¡Dios mío, tu arte me ha hecho diez años más joven!"
+"narrator";"その絶賛を、パンイチは舞台の袖で 聞いていた。
+パンイチの芸術的に鍛えられあげた筋肉は、 うっすらとした汗で魅力的に輝いていた。";"Panichi was listening to this praise from the sleeve of Mai's stand.
+Panichi's artfully toned muscles were glistening attractively with a light sheen of sweat.";"Panichi escuchaba ese elogio desde la manga del puesto de Mai.
+Los músculos artísticamente tonificados de Panichi brillaban atractivamente con un ligero brillo de sudor."
+"Panichi (thinking)";"この絶賛……ここの事を心配しながら 死んでいったオフクロに聞いて 貰いたかったな…
+いや、つまらない感傷だな。 舞台を見る事を望んでいる者がいる。 それに応える者がいる。
+その関係が続いているだけで充分だ。";"I wish this rave…… would have been heard by the offcroft who died worrying about this place…
+Nah, boring sentimentality. There are those who wish to see the Mai platform. There are those who respond to that.
+It's enough that the relationship continues.";"Me gustaría que hubieras podido escuchar este aclamado…… offcroft que murió preocupándose por este lugar…
+No, es un sentimiento aburrido. Hay quienes quieren ver la plataforma Mai. Hay quienes responden a eso.
+Basta con que la relación continúe."
+"Panichi (talking)";"さあ、カーテンコールだ。";"Now for the curtain call.";"Ahora, el telón."
+"narrator";"パンイチはそう逸て、シルクハットの鍔を、 指でキュッと鳴らした。";"Panichi then snapped the brim of his silk hat with his finger.";"Panichi entonces se encajó el ala de su sombrero de seda con el dedo."
+"Yamamoto Akuji (talking)";"よし。 ここを制圧するぞ。";"All right. Let's get this place under control.";"DE ACUERDO. Vamos a tomar el control de este lugar."
+" (talking)";"待ちな。";"Wait for it.";"Espera."
+"Panichi (talking)";"聞き捨てならない事を言う奴だな。";"You're a guy who says things that are unheard of.";"Es un hombre que dice cosas inauditas."
+"Yamamoto Akuji (talking)";"……なんか奇妙なのが出てきたな… ああそうか、ここはウィミィ女の為の 男ストリッパーの店になったんだったな。
+という事は、お前は――";"…… something weird just came up… oh yeah, this place has become a male stripper store for Wime women.
+So that means you're a--";"…… Acaba de aparecer algo raro… Oh sí, este lugar se ha convertido en una tienda de striptease masculino para mujeres.
+Así que eso significa que eres un…"
+"Panichi (talking)";"そう。";"Yes.";"Sí."
+"narrator";"シルクハットの鍔を持つ指が、キュッと鳴った。";"The fingers holding the brim of his silk hat snapped.";"Los dedos que sujetaban el ala del sombrero de seda chirriaron."
+"Panichi (talking)";"この毛ガニ劇場の看板スター。 パンイチ。";"The signature star of this hairy crab theater. Panichi.";"La estrella de este teatro del cangrejo peludo. Panichi."
+"Yamamoto Akuji (talking)";"大層なご登場だな。 それだけ腕っぷしに自信があるってか？";"You've made a grand entrance. You have that much confidence in your skills?";"Has hecho una gran entrada. ¿Así de seguro estás de tus habilidades?"
+"Panichi (talking)";"さあな。 それは自分の躰で試してみたらどうだ？";"I don't know. Why don't you try that on your own body?";"No lo sé. ¿Por qué no pruebas eso en tu propio cuerpo?"
+"Yamamoto Akuji (talking)";"よし。 ここを制圧するぞ。";"All right. Let's get this place under control.";"DE ACUERDO. Vamos a tomar el control de este lugar."
+" (talking)";"待ちな。";"Wait for it.";"Espera."
+"Panichi (talking)";"そいつは聞き捨てならねぇな。 奉仕青年団の旦那。";"That's not a good thing to hear. The husband of a service youth group.";"Ese tipo es un hombre difícil de escuchar. El marido de un grupo juvenil de servicio."
+"Yamamoto Akuji (talking)";"俺が誰だか知ってたのかい、パンイチ。";"Did you know who I was, Panichi?";"¿Sabías quién era yo, Panichi?"
+"Panichi (talking)";"あんたもオレと違った意味で 有名人だからな。";"You're a celebrity in a different way than I am.";"Eres una celebridad de una manera diferente a la mía."
+"Yamamoto Akuji (talking)";"だったら話は早い。 ここは頂くぜ。";"Well, that's a quick story. I'll take it.";"Entonces es una historia rápida. Lo tomaremos."
+"Panichi (talking)";"そいつは無理な相談だ。
+ステージは、俺達の聖域。 どうしてもというのなら、 まずこのオレと戦っていく事だ。";"That's impossible.
+The stage is our sanctuary. If you must, you must fight me first.";"Es una propuesta imposible.
+El escenario es nuestro santuario. Si debes hacerlo, primero debes luchar contra mí."
+"Yamamoto Akuji (talking)";"そうこなくっちゃな。";"That's the way it should be.";"Así es como debe ser."
+"Panichi (talking)";"夢をひとときを与えてやるぜ。";"I'll give you a moment to dream.";"Te daré un momento para soñar."
+"Yamamoto Akuji (talking)";"よし。 ここを制圧するぞ。";"All right. Let's get this place under control.";"DE ACUERDO. Vamos a tomar el control de este lugar."
+" (talking)";"待ちな。";"Wait for it.";"Espera."
+"Panichi (talking)";"そいつは聞き捨てならねぇな。 奉仕青年団の旦那。";"That's not a good thing to hear. The husband of a service youth group.";"Ese tipo es un hombre difícil de escuchar. El marido de un grupo juvenil de servicio."
+"Yamamoto Akuji (talking)";"よう、パンイチ。 ちゅー訳で、ここも頂くぜ。";"Hey, Panichi. So, I'll take this one too.";"Oye, Panichi. Así que nos quedaremos con esta también."
+"Panichi (talking)";"前に言ったな。 ここは、俺の聖域だと。";"You said it before. This is my sanctuary.";"Ya lo has dicho antes. Este es mi santuario."
+"Yamamoto Akuji (talking)";"それを承知でやってきたぜ。";"I'm aware of that, man.";"He venido aquí sabiendo eso."
+"Panichi (talking)";"ふん。";"Hm.";"Hm."
+"narrator";"パンイチのシルクハットの鍔が、 キュッと鳴った。";"The brim of Panichi's silk hat snapped.";"El ala del sombrero de seda de Panichi se movió."
+"Panichi (talking)";"夢をひとときを与えてやるぜ。";"I'll give you a moment to dream.";"Te daré un momento para soñar."
+"Yamamoto Akuji (talking)";"よぅし、行くぞ。 次こそ、オトすぜ。";"All right, here we go. Next time, I'll get you.";"Muy bien, aquí vamos. La próxima vez, te atraparé."
+" (talking)";"やれやれ、懲りない男だぜ。";"Good grief, I'm a man who never learns.";"Por Dios, es un hombre que nunca aprende."
+"Yamamoto Akuji (talking)";"出たな、パンイチ野郎。";"There you go, Panichi bastard.";"Ahí tienes, Panichi bastardo."
+"Panichi (talking)";"フフン。 オレ達のステージにようこそ。";"Hmph. Welcome to our stage.";"Hmph. Bienvenido a nuestro escenario."
+"narrator";"　　［キュッ］";"[squeak]";"[ahuecado]."
+"Panichi (talking)";"夢をひとときを与えてやるぜ。";"I'll give you a moment to dream.";"Te daré un momento para soñar."
+"Tsutsui Asagao (talking)";"あっ……";"Oh, ……";"Ah: ……"
+"Panichi (talking)";"っ…！";"Ah…!";"¡Ah…!"
+"Tsutsui Asagao (talking)";"あっ……あの人……";"Oh…… that person ……";"Oh,…… esa persona ……"
+"Panichi (talking)";"あの女……";"That woman: ……";"Esa mujer: ……"
+"narrator";"「オレと同じ匂いがする」 「私と同じ匂いがする……」";"Smells just like me.” “Smells just like me……”";"'Huele como yo'……"
+"Panichi (talking)";"……………";"……………";"……………"
+"narrator";"パンイチがすっと両手を上にあげた。";"Panichi quickly raised his hands above his head.";"Panichi levantó rápidamente las manos por encima de su cabeza."
+"Panichi (talking)";"降伏する。";"Surrender.";"Ríndete."
+"Tsutsui Asagao (talking)";"夢をひとときを与えてやるぜ。";"I'll give you a moment to dream.";"Te daré un momento para soñar."
+"narrator";"パンイチのオーラに、相手は戦闘意欲を失った。";"The aura of Panichi made the opponent lose his will to fight.";"El aura de Panichi hizo que el oponente perdiera las ganas de luchar."

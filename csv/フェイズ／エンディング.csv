@@ -1,0 +1,938 @@
+"character";"jap text";"Eng";"Esp"
+"__system__??";"{☆簡単 = 1:";"";""
+"__system__??";"}";"";""
+"__system__??";"{★愛 \ 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(D11 \ 0) * (D12 \ 0):";"";""
+"__system__??";"}";"";""
+"__system__??";"{RND \ 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(D11 \ 0) * (D12 \ 0):";"";""
+"__system__??";"}";"";""
+"__system__??";"{B性別 = 1:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(D11 \ 0) * (D01 < 5):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(D11 \ 0) * (S売り回数[RND] > 499):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (☆ＷＷ > 12):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (☆長崎 = 7):";"";""
+"__system__??";"}";"";""
+"__system__??";"{★★猿田 = 4:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(D11 \ 0) * (D12 \ 0) * (☆野比 = 2) * (☆大谷 = 2):";"";""
+"__system__??";"}";"";""
+"__system__??";"{D11 \ 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆クロモン = 10:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (☆コンディ > 4):";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆キリカ = 50:";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆明里 = 5:";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆加古 = 50:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (☆金田 > 20):";"";""
+"__system__??";"}";"";""
+"__system__??";"{RND \ 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{RND \ 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (☆ギガフロート = 0) * (●ウィミィ = 0):";"";""
+"__system__??";"}";"";""
+"__system__??";"{RND \ 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{RND \ 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{RND \ 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{RND \ 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (☆衣笠 = 20):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (☆浪梅清 > 1):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (☆かなみ > 3):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (☆どん子 > 12):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (☆明 > 12):";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆古宮 = 10:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (☆遙 > 4):";"";""
+"__system__??";"}";"";""
+"__system__??";"{RND \ 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(D11 \ 0) * (D12 \ 0) * (☆アエン３Ｐ = 1):";"";""
+"__system__??";"}";"";""
+"__system__??";"{RND \ 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(D11 \ 0) * (D12 \ 0) * (☆鹿の子 = 10):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (☆森／戦闘 > 19):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(☆イルラカムイ = 18) + (☆イルラカムイ = 28):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(☆高山 = 99) * (☆リクペチ = 99):";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆ハイネ = 50:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(D11 \ 0) * (D12 \ 0) * (☆山沢 > 60):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (☆調教／友引 = 4):";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆羽黒 = 31:";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆苺 = 9:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(D11 \ 0) * (D12 \ 0) * (☆朝顔 > 19):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (☆吹雪 > 13):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (☆弾白 > 2) * (★調教 > 1):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (☆めぐる > 11) * (★愛 \ 1):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(D11 \ 0) * (D13 > D14 + 20) * (☆鬼門 > 9):";"";""
+"__system__??";"}";"";""
+"__system__??";"{RND \ 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (☆失恋 \ 0):";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆電波 = 1:";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆つかさ = 3:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(☆たね = 99) * (☆たねＡ = 1):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(☆小松 < 5) * (☆小松 > 0):";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆ギャルバーガー \ 0:";"";""
+"__system__??";"{D01 > 299:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (★調教 > 1) * (S売り回数[RND] > 500):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (S売り回数[RND] > 200):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(RND \ 0) * (☆海音 > 21):";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆夜空 = 5:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(D11 \ 0) * (D12 \ 0) * (☆寧々 > 11):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(☆ギガフロート = 0) * (●ウィミィ = 0) * (★愛 \ 5):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(●ウィミィ = 0) * (★愛 \ 0):";"";""
+"__system__??";"}";"";""
+"Seanel Br (talking)";"はぁ……";"Huh……";"Huh……"
+"narrator";"シーネルは恋する女の目をして ため息をついている。";"Seanel sighs with the eyes of a woman in love.";"Seanel suspira con los ojos de una mujer enamorada."
+"Seanel Br (thinking)";"寝ても醒めても、悪司の事しか 考えられなくなってしまっている… これが恋なのかしら…？
+ ………会いたいな……
+ ………………
+ ………確か…ニホンには夜這いとかいう、 都合のいいシステムがあると聞いたわ…
+ ……………それだわ、それをするのよ！";"I can't sleep or wake up without thinking about Akuji… I wonder if this is love………… I want to meet him…………………… ……… I heard that… there's a convenient system in Japan called night crawling……………… that's it, do it!";"No puedo dormir ni despertarme sin pensar en Akuji… Me pregunto si esto es amor………… Quiero conocerlo…………………… ……… He oído que… hay un sistema conveniente en Japón llamado “night crawling”……………… ¡Eso es, hazlo!"
+"joseishikan (talking)";"あっ…どこに行かれるのですか？ シーネル司令官。";"Ah… where are you going, Commander Seanel?";"Ah… ¿a dónde va, Comandante Seanel?"
+"Seanel Br (talking)";"夜這いよ。";"Night crawlers.";"Rutas nocturnas."
+"joseishikan (talking)";"よ、よばい？？ ど、どこですか、それは…";"Where is it?";"Que, donde, es…"
+"Seanel Br (talking)";"いいでしょう、どこ掴んでるのよ。 離してちょうだいっ。";"All right, where are you holding me? Let go of me.";"Muy bien, ¿dónde me tienes? ¡Suéltame!"
+"joseishikan (talking)";"駄目です、この書類を早急に 見て貰わないと…";"No, we need to get these documents looked at as soon as possible…";"No, necesito ver estos documentos lo antes posible…"
+"Seanel Br (talking)";"はーなーしーてーっっ！！";"Ha-ha-ha-ha!";"¡Hahneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!"
+"__system__??";"{RND = 1:";"";""
+"Yamamoto Akuji (talking)";"おかえりー、さっちゃん。";"Welcome back, Sacchan.";"Bienvenido, Sacchan."
+"Takega Satsu (talking)";"うむ。";"Mm.";"Mm."
+"Yamamoto Akuji (talking)";"さっき、市議会からプリントが 届いてたぜ。 定例議会だとさ。";"I just got a printout from the city council saying it's a regular meeting.";"Acabo de recibir una impresión del ayuntamiento diciendo que es una reunión regular."
+"Takega Satsu (talking)";"面倒だな。";"It's a pain in the ass.";"Engorroso."
+"Yamamoto Akuji (talking)";"んでも、さっちゃんに行って 貰わねぇとなー。";"But I'll have to ask Sacchan to go.";"Pero tendré que hacer que Sacchan vaya."
+"Takega Satsu (talking)";"……………";"……………";"……………"
+"Yamamoto Akuji (talking)";"何考えてんだい？";"What are you thinking?";"¿En qué estás pensando?"
+"Takega Satsu (talking)";"いや…お前に影番でいられるより 表番になって貰った方が私が楽 出来るなと。
+だから、親父殿を呼んで、ニホン駐屯の ウィミィ軍を撃破して貰うというのは どうかと。";"I thought it'd be easier for me to be the front guard than for you to be the shadow guard, so how about I call my father and have him destroy the Japanese garrison at Wime's?";"No… sería más fácil para mí ser la guardia del frente que para ti ser la guardia de la sombra, así que ¿qué tal si llamo a mi padre y le pido que destruya el ejército Wime estacionado en Japón?"
+"Yamamoto Akuji (talking)";"お前さん、自分が楽したいからって、 もっぺん世界大戦起こそうっての かい…";"You want to start another world war just for your own amusement…";"Quieres empezar otra guerra mundial sólo porque quieres divertirte…"
+"__system__??";"}";"";""
+"Takega Satsu (talking)";"今帰った。";"I just left.";"Acabo de salir."
+"Elite Yakuza (talking)";"おかえりなさいませ、殺様。";"Welcome back, Mr. Satsu.";"Bienvenido, señor Satsu."
+"Takega Satsu (talking)";"悪司は？";"What about Akuji?";"¿Qué hay de Akuji?"
+"Elite Yakuza (talking)";"はい、本日はハルセに寄ってから、 帰宅するとの事です。";"Yes, he's going to stop by the Halse today, and then he's going home.";"Sí, hoy pasarán por Halse antes de volver a casa."
+"Takega Satsu (talking)";"帰宅…か。 そうだな…悪司の家は、 もうあそこだからな。";"I guess so… since Akuji's house is already over there.";"Bueno, la casa de Akuji ya está allí."
+"Elite Yakuza (talking)";"それでですね、殺様。 市議会からの回覧板が 回ってきているのですが…";"So, Mr. Satsu, a circular from the city council has been circulated…";"Así que, querido Satsu, ha circulado una circular del Ayuntamiento…"
+"Takega Satsu (talking)";"悪司では駄目なのか？";"Why not Akuji?";"¿Por qué no Akuji?"
+"Elite Yakuza (talking)";"悪司様が、殺様にお任せ するようにとの事で…";"Master Akuji asked me to leave this to you…";"El Sr. Akuji ha pedido al Sr. Satsu que se encargue de ello…"
+"Takega Satsu (talking)";"押しつけていきおったのか。 まあよい、貸してみろ。";"You were going to push me? Well, go ahead, lend it to me.";"Los apartaste. Pues préstamelos."
+"Elite Yakuza (talking)";"はい、お願います。";"Yes, please.";"Sí, por favor."
+"Takega Satsu (talking)";"やれやれ……困った甥っ子だ。";"Good grief,…… he's a nephew in trouble.";"Oh, querido…… Es un sobrino en problemas."
+"Yamamoto Akuji (talking)";"どうだい？ 市長の仕事、少しは楽になったかい？";"How's it going? Mayor's job getting any easier?";"¿Cómo le va, alcalde? ¿Es su trabajo un poco más fácil?"
+"Kanbara Yuuko (talking)";"そうね~。 ウィミィから無理難題言われなくなった分 だいぶ楽になったわ~。";"Yeah… It's a lot easier now that Wime doesn't make me feel so unreasonable.";"Sí, es mucho más fácil ahora que Wime no me hace sentir tan poco razonable."
+"Yamamoto Akuji (talking)";"そいつはよかった。 夕子さんの綺麗な顔がやつれるのは 見たくねーからなー。";"That's good to hear. I don't want to see Yuuko's beautiful face get all worn out.";"Me alegro de oírlo, porque no quiero ver cómo se desgasta el hermoso rostro de Yuuko."
+"Kanbara Yuuko (talking)";"で、買ってきてくれた？";"So, did you get it?";"¿Y lo has comprado?"
+"Yamamoto Akuji (talking)";"おう、はいよ。 リリアンの糸。 ピンクから白、緑のグラデ。";"Oh, yes, yes. Lillian's thread. Pink to Haku, green gradient.";"Oh, sí, sí. El hilo de Lillian. rosa a Haku, gradiente verde."
+"Kanbara Yuuko (talking)";"ありがと、あーくん。";"Thanks, ah.";"Gracias, ah-kun."
+"Yamamoto Akuji (talking)";"どーいたしまして。 じゃあ、俺、これで帰るからよ。";"You're welcome. Well, I'm leaving now.";"De nada. Bueno, ya me voy."
+"Kanbara Yuuko (talking)";"うっふっふ~~。";"Woohoo~.";"Woohoo~."
+"Yamamoto Akuji (talking)";"いやらしい笑い方すんじゃねーよ。";"Don't laugh at me like that.";"No te rías de forma asquerosa."
+"Kanbara Yuuko (talking)";"あら~…嬉しい笑い方だったのに~…";"Oh my… that was a happy laugh…";"Oh, Dios… eso fue una risa feliz…"
+"narrator";"悪司は家路につく。";"Akuji heads home.";"Akuji se dirige a casa."
+"Yamamoto Akuji (talking)";"狭いながらも、楽しい我が家~。 るーるーんーんーんーんーんー… ふんふんふんふんふ~ん♪";"";""
+"karasuba  tsuki (talking)";"おや、お帰り中？";"Oh, you're on your way home?";"Oh, ¿estás de camino a casa?"
+"Yamamoto Akuji (talking)";"おう。 愛妻が待ってっからな。";"Oh, my loving wife is waiting for me.";"Oh, mi amada esposa me está esperando."
+"karasuba  tsuki (talking)";"ひゅーひゅー。";"Whee-hee-hee.";"Hola-hyhyhy."
+"Yamamoto Akuji (talking)";"おうおう、もっとひやかしてくれ。";"Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh.";"Oh, oh, oh, más tics."
+"Yamamoto Akuji (talking)";"たっだいまー。";"I'm home!";"Tadaima."
+"Haku Minka (talking)";"おかえりー。";"Welcome back.";"Bienvenido de nuevo."
+"Yamamoto Akuji (talking)";"あー、腹減った。 今日はなんだい？";"Oh, I'm starving. What's up today?";"Ah, me muero de hambre. ¿Qué pasa hoy?"
+"Haku Minka (talking)";"民華スペシャルだよ。 食べて食べて。";"Minka special. Eat and eat.";"Especial: Comer y comer."
+"Yamamoto Akuji (talking)";"お、いっただっきまーす。";"Oh, I'll be right back.";"Oh, volveré."
+"Haku Minka (talking)";"…………";"…………";"…………"
+"Yamamoto Akuji (talking)";"なんだい？ 人の顔じっと見てよ。 いつもいつも、食ってる時、見てるなー。";"What's up? Stare at people's faces. You're always staring at me when I'm eating.";"¿Qué es? Mirar la cara de la gente. Siempre, siempre los miras cuando están comiendo."
+"Haku Minka (talking)";"………へへへ… いい食べっぷりの旦那様持つと、 女房冥利につきるねー。";"……… hehehe… Having a husband who eats well is a blessing in disguise.";"……… jejeje… Tener un marido que coma bien es lo mejor de la vida para una esposa."
+"Yamamoto Akuji (talking)";"そーかい。 そりゃ、死んでも全部、 食うっきゃねーなー。";"I see. Well, I guess I'll just have to eat it all even if I die.";"Bueno, supongo que tendremos que comerlo todo, aunque muramos."
+"Haku Minka (talking)";"その調子で、ニンジンも食べよーね。";"Keep it up, and let's eat Ninjin too!";"¡Sigue así y come Ninjin también!"
+"Yamamoto Akuji (talking)";"おう、みじん切りなら 克服出来るよーになったしよ。
+そーだ、メシ食ったらよ、 散歩に出ねぇか？";"Oh, I can get over chopping now. Hey, after we eat, why don't we go for a walk?";"Oh, ya puedo dejar de picar, así que después de la cena, ¿por qué no vamos a dar un paseo?"
+"Haku Minka (talking)";"うん、いーよ。";"Yeah, okay.";"Sí, de acuerdo."
+"cg narrator";"二人はゆっくり、草村を歩いている。
+ 「夕日が見れるようになってきたね」
+ 「そうだな…大気汚染が、 　マシになってきたのかね」
+ 「…………………」
+ 「どした？」
+ 「穏やかだなーと思って」
+ 「そーだなー……」
+二人はそのまま黙ってしまう。 でも、居心地の悪い沈黙ではなかった。
+ 「………民華……」
+ 「ん？」
+ 「幸せか？」
+ 「うん」
+ 「そっか…」
+ 「悪司さんは？」
+ 「俺か…？ 　俺は…そーだなー……」
+ 「何よ、幸せでないっての？」
+ 「どーかなー？」
+ 「むきーっ！」
+民華は繋いでいない方の手を、 悪司に振り回す。
+悪司は握っている民華の手をさらにきつく握った。
+ 「幸せだよ」
+ 「ほんと？」
+ 「ああ」
+ 「………………へへへ……」
+ 「ふ……」
+二人はそのままのんびりと、 草村の中を歩き出した。";"二人はゆっくり、草村を歩いている。
+ 「夕日が見れるようになってきTane」
+ 「そうだな…大気汚染が、 　マシになってきたのかね」
+ 「…………………」
+ 「どした？」
+ 「穏やかだなーと思って」
+ 「そーだなー……」
+二人はそのまま黙ってしまう。 でも、居心地の悪い沈黙ではなかった。
+ 「………Minka……」
+ 「ん？」
+ 「幸せか？」
+ 「うん」
+ 「そっか…」
+ 「Akujiさんは？」
+ 「俺か…？ 　俺は…そーだなー……」
+ 「何よ、幸せでないっての？」
+ 「どーかなー？」
+ 「むきーっ！」
+Minkaは繋いでいない方の手を、 Akujiに振り回す。
+Akujiは握っているMinkaの手をさらにきつく握った。
+ 「幸せだよ」
+ 「ほんと？」
+ 「ああ」
+ 「………………へへへ……」
+ 「ふ……」
+二人はそのままのんびりと、 草村の中を歩き出した。";"二人はゆっくり、草村を歩いている。 「夕日が見れるようになってきTane」 」…「そうだな、 大気汚染が マシになってきたのかね」「」………………… 「どした？」 「穏やかだなーと思って」 「そーだなー…… でも、二人はそのまま黙ってしまう。 マシになってきたのかね」居心地の悪い沈黙ではなかった。Minka 「そーだなー……… 「ん？」 「幸せか？」 「うん」…」 マシになってきたのかね」Akuji「そっか さんは？」…？ 俺は…そーだなー 「そーだなー 「何よ、幸せでないっての？」 「どーかなー？」 「むきーっ！」 Minkaは繋いでいない方の手を、 Akujiに振り回す。 Akujiは握っているMinkaの手をさらにきつく握った。 「幸せだよ」 「ほんと？」 「ああ」 マシになってきたのかね」……………… 「そーだなー 「ふ 「そーだなー へへへ、 二人はそのままのんびりと"
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"shigikaishokuin (talking)";"……神原市長、お手紙が届いています。";"……Mayor Kanbara, I have received your letter.";"……Alcalde Kanbara, carta recibida."
+"Kanbara Yuuko (talking)";"あ、ありがとう~。 差出人はだあれ？";"Oh, thank you. Who is it from?";"Oh, gracias - ¿De quién es?"
+"shigikaishokuin (talking)";"はい、北はホッカイドウのサホロ市と、 南はオキナワのナハ市からです。";"Yes, from Sahoro City in Hokkaido to the north and Naha City in Okinawa to the south.";"Sí, desde las ciudades de Sakhoro en Hokkaido al norte y Naha en Okinawa al sur."
+"Kanbara Yuuko (talking)";"……ふふ、 手紙の中身、もう想像 ついちゃったわね~。";"…… You've already guessed what's in the letter, haven't you?";"…… ¡Ya has adivinado lo que hay en la carta, no es así!"
+"shigikaishokuin (talking)";"……また我々オオサカとの 友好都市協約願いですか？
+いえ、友好都市が増えれば増えるほど 災害などの非常時は助かりますが、 いくら何でもここ数年多すぎます。
+第一、どれもこれも 無償の助け合いを確約しているなんて ……こんな事、普通ありえませんよ。";"……Are you asking for another Friendship City Agreement with Osaka? No, the more Friendship Cities we have, the more we can help in times of disaster and other emergencies, but there have been too many in the past few years. First of all, none of them have pledged to help each other without compensation……This is not normal.";"……¿Están pidiendo otro acuerdo de amistad con nosotros en Osaka? No, cuantas más ciudades amigas tengamos, más podremos ayudar en tiempos de catástrofe y otras emergencias, pero ha habido demasiadas en los últimos años. En primer lugar, ninguna de ellas ha prometido ayudarse mutuamente sin compensación……Eso no es normal."
+"Kanbara Yuuko (talking)";"あら。 いいことなんだから 気にしない気にしない~。
+ ……はい、ＯＫですっていう書類。 ハンコついてすぐ送ってあげて。";"Oh, since it's a good thing, I don't mind, I don't mind~…… a document that says yes, it's OK. Send it to him right away with a stamp.";"Oh, es algo bueno, así que no te preocupes, no te preocupes~…… Un documento que dice que sí, que está bien. Envíalo enseguida con un sello."
+"shigikaishokuin (talking)";"は、はあ…………";"Ha, ha …………";"Ja, ja: …………"
+"Kanbara Yuuko (talking)";"……ふふっ。
+トウホク、カントウ、フジ、ホクリク、 オワリ、ヒロシマ、シコク、 キュウシュウ……
+それに加えて、サホロとナハ……
+すごーい、もうニホンの主要地域は ほとんど支配下なんだ~……
+ ……くすくすくす。 頑張ってるのね、 あーくんとトコちゃん……";"…… hmmm… Tohoku, Kanto, Fuji, Hokuriku, Owari, Hiroshima, Shikoku, Kyushyu……… plus Sahoro and Naha……… Wow, they control most of the major regions of Japan now……… …… giggle… You are doing great, Akun and Toko-chan… ……";"…… Hmmm… Tohoku, Kantou, Fuji, Hokuriku, Owari, Hiroshima, Shikoku, Kyushuu…… además de Sahoro y Naha…… Wow, ya controlan la mayoría de las regiones principales de Japón~………… risa… Lo estás haciendo muy bien, Akun y Toko-chan……"
+"cg narrator";"──頬を血に濡らした男が一人、裸同然の格好で オキナワの熱帯雨林の中を進んでいた。
+ 「ケッ……どこの鉄砲玉か知らねえが、 　俺ら夫婦のジャマしよーなんざ、 　三兆とんで八千万年早ぇんだよ」
+血に濡れた男が呟く。 男は──言うまでもなく、悪司だ。
+もちろん、悪司を濡らしている赤い血は、 悪司自身のものではない。返り血である。
+ 「しっかし、こっから半径二十キロは 　ネズミ一匹通すなっつったのによ。 　警備隊は後で説教だな」
+言いつつ、悪司は熱帯雨林を抜けた。";"The man with the blood on his cheeks was walking through the Okinawan rainforest, looking as naked as a man can be. “Kek…… don't know who the hell you are, but you're three trillion and eighty million years too early to be messing with us,” the man with the blood on his cheeks muttered. The man was Akuji, of course. The red blood soaking Akuji was not his own, but the return blood. “I told you not a mouse could pass within a twenty kilometer radius of here, the guards will give you a lecture later,” he said, and Akuji left the rainforest.";"Un hombre con sangre en las mejillas caminaba desnudo por la selva tropical de Okinawa. “Kett…… no sé quién demonios eres, pero llegas tres trillones y ochenta millones de años antes de tiempo para meterte con mi mujer y conmigo”, murmuró el hombre empapado de sangre. El hombre -no hace falta decir que era Akuji. La sangre roja que empapaba a Akuji no era suya, por supuesto, sino sangre de un regreso. “Te dije que ni un ratón podía pasar de un radio de 20 km de aquí. Los guardias me van a dar un sermón más tarde”. Dicho esto, Akuji salió de la selva."
+"cg narrator";"──輝く太陽が、視界を白く染める。
+足元には白い砂浜、そしてその先には──
+ 「……おぉーい、トコ。終わったぞー。 　そっちはどーだーーーーーーーー？」
+悪司は、白浜の向こうの青い海に声を投げた。";"The sun is shining, and the vision is dyed Haku. The beach is Haku at the foot of the foot, and beyond that is── “……Oh hey, Toko, it's over. How about you?";"─ ─ El sol brillante tiñó mi visión de Haku. A mis pies hay una playa de arena Haku, y más allá ─ ─ “Oh, oye, Toko, se acabó. ¿Cómo va por ahí?” Akuji lanzó su voz al mar azul más allá de la playa Haku."
+"cg narrator";"「……おかえりなさい、悪司」
+ 「おう。 　その様子だと、異常なかったみてーだな」
+ 「ええ。 　熱帯魚の餌になる人肉が、五十キロほど 　先の珊瑚礁に沈んだだけよ」
+ 「そっかそっか」
+ 「あ……悪司。 　こっちへ来て。顔拭いてあげる」
+元子は、自分の足元から透き通った海水を すくい上げると、悪司の顔から血を洗い落とした。
+ 「サンキュ。 　……しっかし、このプライベートビーチは 　やっぱゲットして大正解だったな」
+ 「そうね。 　この一週間で初めての刺客、しかも二人だけ」
+ 「信じられねえ平穏さだぜ。 　人間、休日はやっぱこうでないとな」
+呟きながら、悪司は海の水面に歩を進めていく。 元子もその後に続いた。
+ 「……案外簡単だったな」
+傍らの元子を抱き寄せて、悪司が呟く。 元子は小首を傾げて愛する夫の顔を見上げた。
+ 「今居るオキナワも、もう俺たちがシメた。 　ここの基地に駐留してるウィミィ兵も 　ほとんど俺らの言いなりだしよ」
+ 「ああ……ニホン征服の事ね」
+ 「おう、俺らの傀儡にしちまったヤツを 　次の選挙で全国から国会に送り込んだら、 　あっという間に総理大臣も言いなりにできるぜ」
+ 「……するの？」
+ 「いや、やんねぇ。 　あんま面白そうじゃねえしな」
+ 「くすっ……言うと思った」
+そして、言葉が絶える。
+聞こえてくるのは、足元を撫でる波の音だけ。
+ ──その中で、抱き合った二人はいつまでも 口付けを交わしていた。
+ 「……やっぱ、潮の味がちょっとするな」
+久しぶりに悪司が呟く。 応えて、元子が微笑む。
+ 「……ねえ、悪司。 　そろそろ、目指しましょうか。 　子供の頃、二人で言い合ってた夢」
+ 「そうだな…… 　よっしゃ、この浜を起点にして始めるか」
+ 「ここを？」
+ 「おう、向こうの崖の上にリゾートホテル張りの 　でけえ事務所をおっ建ててよ」
+ 「くすっ……楽しそう」
+ 「ああ。トコと二人だったら絶対やりきれるさ。 　…………世界制覇の一度や二度くれえな」";"”Welcome back to ……, Akuji.”
+ “Oh. 　From the looks of it, everything's fine.
+Yes. 　It's just that some human flesh, used as food for tropical fish, sank on a coral reef about 50 kilometers away.
+I see.
+Oh, ……Akuji. 　Come here. I'll wipe your face.
+Motoko scooped up the clear seawater from under her feet and washed the blood from Akuji's face.
+I'm not sure what to do with it, but I'm sure it will work. 　……It's a good thing we got this private beach after all.
+I guess so. 　First assassins in a week, and there's only two of them.
+It's unbelievable how peaceful it is. 　It's unbelievable how peaceful it is.
+Muttering, Akuji walked to the surface of the sea. Motoko followed suit.
+ ……It was easier than I thought.”
+Akuji muttered, hugging Motoko beside him. Akuji looked up at her beloved husband, tilting her head.
+We've already sized up Okinawa, where you are now,” Akuji said. 　The Wime soldiers stationed at the base here are mostly at our beck and call.
+Oh, you mean the…… conquest of Japan.
+Oh, and if we send our puppets to the national assembly in the next election, we'll have the prime minister at our beck and call in no time.
+Are you going to ……?
+ “No, I don't. 　”No, I won't. He doesn't look like much of a Haku.”
+I thought you were going to say …….”
+And then the words cease.
+The only thing you can hear is the sound of the waves caressing your feet.
+The actual “I'm not a fan of the way you do it, but I'm not a fan of the way you do it.
+ ……I knew it tastes a little like the tide.
+The first time in a long time, Akuji muttered. The two of them are now in the same room.
+ ……Hey, Akuji. 　Let's go for it, shall we? 　It's the dream we used to talk about when we were kids.”
+ “Well, ……, let's use this beach as a starting point for Hajime.
+Here?
+ “Oh, and build a big office like a resort hotel on top of the cliff over there.”
+Sounds fun……
+Yeah. The most important thing to remember is that you can't just go out and get a good deal on a new car or truck. 　Give me a………… world domination once or twice.";"'Bienvenido de nuevo a ……, Akuji.'
+ “Oh. 　Por lo que parece, todo está bien.
+Sí. 　Se trata de carne humana para peces tropicales que se hundió en un arrecife de coral a unos 50 kilómetros de distancia.
+Ya veo.
+Ah, ……Akuji. 　Ven aquí. Te limpiaré la cara”.
+Motoko recogió un poco de agua de mar clara de debajo de sus pies y lavó la sangre de la cara de Akuji.
+Gracias. 　……Es bueno que tengamos esta playa privada después de todo.
+Sí, lo fue. 　Los primeros asesinos en una semana, y sólo son dos.
+Es increíble lo tranquilo que es. 　La gente debería estar de vacaciones.
+Por primera vez en una semana, sólo ha habido dos asesinos. El Motoko siguió su ejemplo.
+ '…… fue más fácil de lo que pensaba'.
+Akuji murmura, abrazando a Motoko a su lado. Motoko inclinó la cabeza y miró el rostro de su amado esposo.
+ 'Ya hemos evaluado Okinawa, donde estás ahora. 　Los soldados de Wime destinados aquí en la base están en su mayoría a nuestra disposición.
+Oh, te refieres a la conquista de Japón en …….
+Ah, y si enviamos a nuestros títeres a la Asamblea Nacional en las próximas elecciones, podemos tener al Primer Ministro a nuestra merced en poco tiempo.
+ ¿Vas a ……?
+No, no lo haré. 　No parece un gran Haku.
+Pensé que ibas a decir …….”
+Y entonces las palabras cesan.
+Lo único que se oye es el sonido de las olas acariciando los pies.…… Sabía que sabe un poco a marea”.
+Akuji murmuró después de un largo rato. Lo primero que nos viene a la mente es el hecho de que los dos no sólo están en la misma habitación, sino que están en la misma habitación al mismo tiempo.
+ '……Hey, Akuji. 　¿Empezamos a apuntar? 　El sueño del que hablábamos cuando éramos niños”.
+ 'Bueno, ……, usemos esta playa como punto de partida y Hajime.
+ ¿Aquí?
+Ah, y construye una gran oficina en los acantilados de allí, como un hotel resort.
+Suena divertido……
+Sí. Lo más importante es que tienes que ser capaz de sacarle el máximo partido.………… nos da el dominio del mundo una o dos veces”."
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"narrator";"──エデン攻略から数年後、春。";"Spring, several years after the attack on Eden.";"─ ─ Primavera, varios años después del ataque del Edén."
+"shigikaishokuin (talking)";"……神原市長、 再選おめでとうございます。";"Congratulations on your re-election, Mayor ……Kanbara.";"……Kanbara Alcalde, enhorabuena por su reelección."
+"Kanbara Yuuko (talking)";"くすっ、ありがとう~。 またしばらくよろしくね~。";"Kusshu, thank you~. I look forward to working with you again for a while~.";"Kusshu, gracias~. Te veré de nuevo en un tiempo~."
+"shigikaishokuin (talking)";"はい。";"Yes.";"Sí."
+"Kanbara Yuuko (talking)";"もっとも、もう市長なんて居なくても 街は全然平和になっちゃってるから 大丈夫だと思うけど~。";"But I think the city is totally peaceful without the mayor anymore, so I think it will be fine.";"Pero la ciudad es totalmente pacífica sin alcalde, así que creo que estará bien."
+"shigikaishokuin (talking)";"また市長、そんな事を仰る……";"Mayor, you say that again: ……";"Alcalde, repite eso: ……"
+"Kanbara Yuuko (talking)";"ふふふふ~。 冗談よ、冗談。
+あ、関係部署へ挨拶した後だけど~、 午後からスケジュール空いてた？";"Mmm-hmm~. Just kidding, just kidding.
+Oh, after greeting the relevant departments, are you free this afternoon?";"Mmm-hmm~. Es una broma, es una broma.
+Oh, después de saludar a los departamentos correspondientes, ¿estás libre por la tarde?"
+"shigikaishokuin (talking)";"あ、はい、一応。 ……何か予定でも？";"Ah, yes, just in case…… any plans?";"Ah, sí, por si acaso…… ¿Algún plan?"
+"Kanbara Yuuko (talking)";"身内で、市長再選おめでとうパーティと お花見会があるの。 そっち出ても大丈夫？";"My family is having a party to congratulate the mayor on his re-election and a cherry blossom viewing party. Is it okay if I go to that one?";"Mi familia celebra una fiesta para felicitar al alcalde por su reelección y una fiesta para ver los cerezos en flor. ¿Está bien si voy a esa?"
+"shigikaishokuin (talking)";"はい、大丈夫です。
+しかし、花見ですか……いいですね。 最近はやっと四季も戻ってきましたし。";"Yes, it is ok.
+But hanami, or cherry blossom viewing,…… is nice. The four seasons have finally returned recently.";"Sí, está bien.
+ ¿Pero ver los cerezos en flor?…… es bonito. Las cuatro estaciones han vuelto por fin recientemente."
+"Kanbara Yuuko (talking)";"くすくす、楽しみなのは 桜だけじゃないけど~。
+毒奈ちゃんや邪美ちゃん、切華ちゃんも みんな元気でやってるかな~。";"Giggle, it's not only Sakura I'm looking forward to seeing.
+I hope everyone is doing well~, including Toxina, Evil Bi, and Kirika.";"Ríete, no sólo tengo ganas de ver los cerezos en flor~.
+Espero que todos estén bien, incluyendo a Toxina, Evil Bi y Kirika~."
+"shigikaishokuin (talking)";"……？？？ ドクナ？　ヤミ？　セッカ？";"……?? Dokna?　Yami?　Sekka?";"……?? ¿Dokna?　¿Yami?　¿Sekka?"
+"cg narrator";"「……かあさま、ずるい~」
+ 「あっ、あたしも！ 　とおさまといっしょに~……」
+ 「こらこら、ケンカするな。 　俺の膝の上はきっこかーさんの指定席だ。 　邪美はこっち、腿に座れ。切華は肩だ」
+ 「あ、あの……旦那様、重くないですか？ 　何でしたら私、退きますけど……」
+ 「はは……心配すんなよきっこ。 　幸せを重さに変換したらこんなもんだよ」
+ 「………ねえ、母様………」
+ 「……あら、毒奈も父様と？」
+ 「あ……違うの、わたしはいい。 　もう小学生だし……」
+ 「別にいいのよ、こっちにいらっしゃい。 　お客様が来るまでまだ時間はあるし。 　父様も喜ぶから、ね？」
+ 「…………うん……」";"”……Mama, it's not fair!
+ “Oh, me too! 　Together with Too-Sama~……
+ “Hey, hey, don't fight. 　I'm not going to be able to do that. 　The most important thing is that you should be able to see the difference between the two. Kirika, sit on my shoulder.
+ “Oh, um,…… sir, aren't you heavy? 　If you want, I can move out of the way,…….
+ “Haha…… don't worry about it, Kikko. 　If you convert happiness into weight, this is what it's like.
+ “……… hey, mother………”
+ “…… Oh, is Busuna with Father, too?”
+I'm not…… with my father. 　I'm already in elementary school……
+It's okay, come here. 　I'm not sure how much time we have left before the guests arrive. 　Father will be happy to see you, right?………… and ……";"”…… ¡Señora, no es justo!”
+ “¡Ah, yo también! 　Junto con Too-Sama~……
+ 'Oye, oye, no te pelees. 　No voy a ser capaz de hacerlo. 　Lo más importante es asegurarse de que no está en una posición en la que no pueda ser visto. Kirika, siéntate en mi hombro.
+ 'Oh, um,…… maestro, ¿no eres pesado? 　Si quieres, me retiro……
+ 'Haha…… no te preocupes, Kikko. 　Si conviertes la felicidad en peso, esto es lo que hay”.
+ “……… Ahora, madre, ………”
+ “…… Oh, ¿también está Busuna con papá?”
+ 'Oh…… no, no lo estoy, estoy bien. 　Ya estoy en la escuela primaria……
+ 'Está bien, ven aquí. 　Todavía hay tiempo antes de que lleguen los invitados. 　Papá estará contento, ¿no?”………… y ……"
+"cg narrator";"「……しかし、今日はみんな来るのか。 　にぎやかになるなー」";"…… But Hami is coming today? 　It's going to be so lively!”";"'…… ¿Pero Hamina venido hoy? 　Va a ser muy animado”."
+"__system__??";"{●ウィミィ = 0:";"";""
+"cg narrator";"「はい。 　神原さんも、殺叔母様も……」
+ 「さっちゃんかー、去年だかに別居して以後 　当分会ってねえよなー……」
+ 「娘たちが増えたせいで、 　みなさんご遠慮なさって、お気軽には 　いらっしゃらなくなりましたからね」
+ 「そうだよなー、さっちゃん受験生だしなあ。 　こんなやかましいチビどもと一緒にゃ 　ちょっと住めねえわな」
+ 「長女の毒奈はともかく…… 　まさか次女の邪美と三女の切華が 　双子だなんて思いませんものね……」
+ 「ああ、さっちゃんは最高の 　ベビーシッターだったんだけどなー」";"Yes. 　Both Kanbara and Aunt Satsu are ……
+Sacchan, I haven't seen you for a while since we separated last year or so……
+ “Since my daughters have grown up, they've become more reserved and don't come by as often as they'd like.
+I'm sure you're right, Sacha is a student preparing for an entrance exam. 　I can't live here with such a noisy bunch of little girls.
+I don't think that the second daughter, Jyumi, and the third daughter, Kirika, are twins, even though the eldest daughter, Busuna, is ……
+ “Oh, Sacchan was the best babysitter I ever had…”";"Sí. 　Tanto Kanbara como Satsu tía ……”
+Sacchan, hace tiempo que no te veo desde que nos separamos el año pasado, más o menos……
+ “Desde que mis hijas han crecido, todas se han vuelto más reservadas y no vienen tan a la ligera como antes”.
+No estoy seguro de que sea cierto, pero Sachan es un estudiante que se prepara para sus exámenes. 　No puedo vivir aquí con esta gente ruidosa.
+Aparte de la hija mayor, Busuna,…… no esperaría que la segunda hija, Jyumi, y la tercera, Kirika, fueran gemelas……
+Sí, Sacchan fue la mejor niñera que he tenido."
+"__system__??";"}";"";""
+"__system__??";"{●ウィミィ = 1:";"";""
+"cg narrator";"「はい。 　神原さんからも、今ご連絡が」
+ 「夕子さんかー、 　なんかもう当分会ってねえよなー……」
+ 「娘たちが増えたせいで、 　みなさんご遠慮なさって、お気軽には 　いらっしゃらなくなりましたからね」
+ 「そうだよなー、特に夕子さんは忙しいしな。 　こんなやかましいチビどもと一緒にゃ 　ちょっと住めねえわな」
+ 「長女の毒奈はともかく…… 　まさか次女の邪美と三女の切華が 　双子だなんて思いませんものね……」
+ 「ああ、夕子さんは最高の 　ベビーシッターだったんだけどなー」";"Yes, sir. 　Mr. Kanbara also contacted me just now.
+ “Yuuko, I haven't seen you for a while… ……
+With the addition of my daughters, everyone has become more reserved, and they don't come as casually as they used to.
+  　I can't live here with such a noisy bunch of little people.
+Aside from the eldest daughter, Busuna,…… I wouldn't expect the second daughter, Jyumi, and the third daughter, Kirika, to be twins,…….
+Oh, Yuuko was the best babysitter I've ever had.";"Sí. 　El señor Kanbara también acaba de ponerse en contacto con nosotros.
+Yuuko, hace tiempo que no te veo… ……
+Con la incorporación de mis hijas, todo el mundo se ha vuelto más reservado y menos dispuesto a pasarse por allí.
+Lo más importante es que tienes que tener cuidado con tus propios hijos. 　No puedo vivir aquí con gente tan ruidosa.
+Aparte de la hija mayor, Busuna,…… no esperaría que la segunda hija, Jyumi, y la tercera, Kirika, fueran gemelas……
+Oh, Yuuko fue la mejor niñera que he tenido."
+"__system__??";"}";"";""
+"cg narrator";"「さすがにこれだけ子供が居ると、 　予習復習もままなりませんから……」
+ 「…………とうさま…… 　あたしたち、うるさいの……？」
+ 「あー、邪美、心配すんな。 　世間一般のおこちゃまから比べたら 　お前はずーっといい子で静かだよ」
+ 「とうさま……あたしも……」
+ 「おう、切華もな。 　もちろん毒奈も…………」
+ 「……大丈夫、父様。 　わたしは解ってるから」
+ 「そっか、さすがお姉ちゃんだな」
+ 「……それにしても、旦那様。 　今年は綺麗に咲きましたね」
+ 「ああ、去年から晴れの日が多くなったからな。 　今日なんて見てみろ、雲一つねえ快晴だぞ」
+ 「………………お爺様が、夢見ていたんです」
+ 「ん？　……乃木さんか？」
+ 「新型爆弾が作った雲で被われた空と、 　戦争で荒んだ人の心が晴れ渡るのはいつの日かと 　……常々、仰っていました」
+ 「……乃木さん、喜んでくれてっかな」
+ 「きっと。 　もう、オオサカの街も静かになりましたし」
+ 「ああ、喧嘩も当分起きてねえしな。 　手段を選ばねえでガンガン突き進んだ昔とは 　もう違ってきてる」
+ 「……もっとも、 　今のところ平和なのはオオサカだけですが……」
+ 「…………そういや、きっこ。 　キョウの地域管理組合が 　うちに協力を頼んで来てた件だが……」
+ 「ふふ……旦那様のお好きになさいませ。 　私たちが今感じている平穏、 　キョウの方々にも分けてさしあげれば……」
+ 「そうか、助かる。 　またちょいと忙しくなるが……」
+ 「覚悟しています。ただ…… 　旦那様、今お腹にいる子が生まれたら……」
+ 「心配すんな、スッ飛んで帰ってくる。 　……次も娘だと思うか？」
+ 「私はそろそろ息子が欲しいですけど……」
+ 「わはは。 　ま、ダメだったらもう一人こさえるさ」
+ 「……………… 　いつまでも、幸せな時が続くといいですね……」
+ 「続かせるさ。 　うちのガキどものためにもな」
+ 「……はい」";"As you can imagine, with so many kids, it's hard to keep up with review and preparation……
+ “………… sir,…… are we being too loud,……?”
+ “Oh, don't worry, Evil Beauty. 　You're a much nicer and quieter kid than most kids.
+ “Dear ……, I am also …….”
+I'm sure you'll be fine. 　And of course, Busuna, too…………
+ “Don't worry, Father. 　I understand.
+I see. That's why you're my big sister.
+I'm sure you're a great big sister. 　It bloomed beautifully this year.
+ “Yeah, we've had a lot of sunny days since last year. 　Look at today, not a cloud in the sky.
+ “……………… Grandfather was dreaming about it.”
+Hmm?…… Mr. Nogi?
+ “He always said that the sky covered with clouds made by the new bomb Dan and the hearts of the war-torn people would be cleared…… one day.”
+I hope ……Nogi is pleased.
+I'm sure. 　I'm sure he's happy. - I'm sure he is.
+Yeah, there hasn't been any fights for a while. 　It's different from the old days, when we just went ahead and did whatever we had to do.…… but so far only Ossaka is peaceful……………… Well, Kikko. 　The local management association in Kyou has asked for our help……
+ “Hmmm……… your choice, mister. 　The peace we are feeling right now, we can share it with the people of Kyou……
+ “Well, that would be great. 　I'll be a little busy again……
+I'm prepared for that. It's just that…… Mister, when the baby I'm carrying is born, ……
+I'm not worried, I'll be back in a flash. 　Do you think…… you'll have another daughter?”
+ 'I'd like to have a son soon, but ……
+I'm not sure I'll be able to do it. 　If it doesn't work out, I'll get another one.
+ “I hope……………… the happy time will last forever……
+I'll make it last. 　For the sake of my kids.
+ “…… yes.”";"Como puedes imaginar, con tantos niños, no es fácil preparar y revisar……
+ “………… señor,…… ¿estamos siendo demasiado ruidosos ……?”
+ 'Oh, belleza malvada, no te preocupes. 　Eres un niño mucho más agradable y tranquilo que la mayoría de los niños”.
+Querido ……, yo también soy …….
+No te lo voy a decir. 　Y por supuesto, Busuna también…………
+No se preocupe, padre. 　Lo entiendo.
+Ya veo, eres una gran hermana mayor”.
+ '……Pero aún así, Maestro. 　Este año ha florecido maravillosamente.
+ 'Sí, hemos tenido muchos días de sol desde el año pasado. 　Mira hoy, ni una nube en el cielo.
+ “……………… El abuelo soñaba con ello”.
+ ¿Hmm?　……Nogi?”
+ “Siempre decía…… que un día el cielo se cubriría de nubes hechas por la nueva bomba Dan y los corazones de la gente destrozada por la guerra se despejarían”.
+Espero que ……Nogi esté contento.
+Estoy seguro. 　Ahora todo está tranquilo en Osakan.
+Sí, hace tiempo que no hay peleas. 　Es diferente de los viejos tiempos, cuando seguíamos adelante con todo, sin importar los medios.…… pero de momento sólo Ossaka está en paz……………… Bueno, Kikko. 　La asociación de gestión local de Keogh nos ha pedido ayuda……
+ 'Hmmm……… Haga lo que quiera, señor. 　La paz que sentimos ahora, podemos compartirla con la gente de Keogh……
+ 'Bueno, gracias a Dios. 　Estaré un poco ocupado de nuevo……
+Estoy preparado para ello. Es sólo…… Señor, cuando el bebé que estoy esperando nazca, ……”
+No te preocupes, volaré a casa. 　¿Crees que…… tendrá otra hija?”
+ 'Me gustaría tener un hijo pronto, pero ……
+ 'Wahaha. 　Bueno, si no funciona, conseguiré otro”.
+ '……………… Espero que los tiempos felices duren para siempre……
+Lo haré durar. 　Por el bien de mis hijos.…… sí."
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"shigikaishokuin (talking)";"……神原市長、お手紙が届いています。";"……Mayor Kanbara, I have received your letter.";"……Alcalde Kanbara, carta recibida."
+"Kanbara Yuuko (talking)";"あ、ありがとう~。 差出人はだあれ？";"Oh, thank you. Who is it from?";"Oh, gracias - ¿De quién es?"
+"shigikaishokuin (talking)";"それが不明なんです…… ウィミィ本国からの エアメールなんですが……";"That's unclear…… …… Air mail from the Wime home country……";"Eso no está claro………… Es un correo aéreo del país de origen de Wime……"
+"Kanbara Yuuko (talking)";"………………！！
+今すぐ開けて、読んでみて。";"………………!!!
+Open it now and read it.";"¡¡¡………………!!!
+Ábrelo ahora y léelo."
+"shigikaishokuin (talking)";"あ……は、はい。
+ …………？　中身はニホン語だ……
+ “ぼちぼち終わる”
+ ……これだけ？";"Oh ……, yes.
+ …………?　It's in Nihongo……
+ “It's all over in a blur.”…… is that all?";"Ah ……, sí.
+ …………?　Está en nihongo……
+ “Todo ha pasado de golpe”.…… ¿eso es todo?"
+"Kanbara Yuuko (talking)";"………………
+ ……ふふっ、もうじきね。 くすくすくすくす…… 楽しみ~……";"…………………… phew, soon. Giggle giggle…… Fun~……";"…………………… uf, pronto. Giggle giggle…… Fun~……"
+"shigikaishokuin (talking)";"し、市長？";"Shi-Mayor?";"¿Vamos, señor alcalde?"
+"Kanbara Yuuko (talking)";"もうじきウィミィで、世界を揺るがす 大事件が起きるわよ~……";"Soon there will be a big event at Wime that will shake the world~ ……";"Pronto habrá un gran evento en Wime que sacudirá el mundo - ……"
+"cg narrator";"──ウィミィの田舎町。安モーテルの一室。
+すえた臭いのするベッド、薄汚れた壁紙。 そして、暗い照明。";"A small town in the countryside of Wime. A cheap motel room.
+A bed that smells of stale air, dirty wallpaper. And dark lighting.";"Pueblo rural de Wime. Una habitación en un motel barato.
+Una cama que huele a papel pintado rancio y sucio. Y una iluminación oscura."
+"cg narrator";"「……来たぜ、プリシラ。 　今、ハイウェイを横切ってったぞ。 　用意しな」";"”…… here I come, Priscilla. 　He just crossed the highway. 　Get ready.”";"'…… allá vamos, Priscilla. 　Acaba de cruzar la autopista. 　Prepárate”."
+"cg narrator";"窓の側にいる悪司が、 ベッドで眠っていたプリシラに声を投げた。";"Akuji, by the window, threw a voice to Priscilla, who was asleep in bed.";"Akuji junto a la ventana lanzó una voz a Priscilla, que estaba dormida en la cama."
+"cg narrator";"「……来た……？　目標が……」
+ 「ああ、のうのうとお忍び旅行にやってきたぜ。 　官房長官のジェシィちゃんがくれた情報は 　間違いなかったって訳だ」
+ 「そう……」";"”…… came ……?　My target is …….
+ “Oh, I've been on a sneaky little trip. 　The information given to me by the Chief Cabinet Secretary, Jessie, was correct.
+So …….”";"'…… vienen ……?　Mi objetivo es …….”
+ 'Oh, he estado en un pequeño viaje a escondidas. 　La información que me dio el Secretario Jefe del Gabinete, Jessie, fue acertada.
+Así que …….”"
+"cg narrator";"拳銃を握ったプリシラがのそりと身を起こした。";"Priscilla, holding a pistol, slumped down.";"Priscilla, sosteniendo una pistola, se desplomó."
+"cg narrator";"「……気怠い…… 　こんなに早いなら、明日まで我慢したのに……」";"”I'm…… feeling lazy…… If it had been this early, I would have held out until tomorrow……”";"'Estoy…… sintiendo pereza…… Si hubiera sido tan temprano, habría aguantado hasta mañana ……'"
+"cg narrator";"つい今まで悪司と肌を重ねていたせいで、 プリシラの躰にはまだ悦楽の余韻が残っていた。
+だが、そんな事に構ってはいられない。";"Because she and Akuji had been laying on each other's skin until just now, Priscilla's body still had a lingering feeling of pleasure.
+However, she couldn't care less about such things.";"Como ella y Akuji habían estado tumbados uno encima del otro hasta ahora, el cuerpo de Priscilla aún tenía sensaciones de placer persistentes.
+Sin embargo, eso no le importa."
+"cg narrator";"「……これが最後だものね。気を締めないと」
+ 「そーいうこった。 　何せ今度のターゲットは大統領だからな」
+ 「……どう攻めるの？」
+ 「決まってる事訊くなよ。 　大統領は三十路前だ、充分俺の守備範囲だぜ」
+ 「…………………………また、こますの……」
+ 「そんな顔すんなよ。 　まともに説得しに行ったって、 　一言も話聞いてくれねえんだからよ」
+ 「……解ってる。 　少し拗ねてみたかっただけ」
+ 「んじゃま、後は手筈通りに。 　辺りに潜伏させてる連中の指示は頼むぜ」
+ 「ええ、それは任せ…………」
+ 「……シッ。プリシラ、ちと静かにしてろ」";"”…… this is the last time I'm going to do this. I need to tighten up.”
+ “That's right. 　After all, this time the target is the president.
+How do you plan to attack ……?
+Don't ask the obvious. 　The president is 30 years old. That's my target.……………………… …and you're going to rub it in my face again……
+Don't look at me like that. 　If I go to him and try to convince him, he won't even listen to a word I say.
+I know, I know. 　I just wanted to sulk a little.
+So, follow the plan. 　You'll direct me to the guys you've got holed up around here, right?
+Yeah, I'll take care of that……………… shh. Priscilla, keep it down.";"'…… este es el último. Tengo que apretar”.
+Así es. 　Después de todo, esta vez el objetivo es el Presidente.…… ¿Cómo piensas atacarlo?
+No preguntes lo obvio. 　El Presidente tiene 30 años, ese es mi objetivo.……………………… …y vas a restregarlo en…… de nuevo.
+No me mires así. 　Si me dirijo a él y trato de convencerle, no escuchará ni una palabra de lo que le diga.…… Lo sé. 　Sólo quería enfadarme un poco.
+Entonces, sigue el plan. 　Tú me dirás qué hacer con la gente que tengo escondida en la zona, ¿sí?
+Sí, me encargaré de eso…………
+ ……. Priscilla, baja la voz."
+"cg narrator";"悪司は急に言って、再び窓の側に張り付いた。";"Akuji said suddenly and stuck to the side of the window again.";"Akuji dijo de repente y se pegó de nuevo al lado de la ventana."
+"cg narrator";"「……チッ、国防総省のバカども、 　どうやらこっちの計画を嗅ぎつけたらしいな。 　取り囲まれてんぞ」
+ 「……？！」
+ 「連中、俺たちが議会で影響力持ち始めた 　モンだから、相当焦ってきてるらしいな」
+ 「じゃ……じゃあ、もしかして周囲の仲間は……」
+ 「レナちゃんやゲルタ姉ぇが簡単に死ぬタマか。 　グリーンベレーとネイビーの精鋭だぜ？ 　……とりあえず、今はココ突破すんぞ」
+ 「……………………」
+ 「……どうかしたか？　プリシラ」
+ 「ねえ、悪司……」
+ 「ん？」
+ 「今、幸せ？」
+ 「おう、毎日楽しいぜ」
+ 「私と一緒になって、後悔してない……？」
+ 「さっぱり」
+ 「………………そう……」
+ 「………… 　なあ、プリシラ」
+ 「？」
+ 「これ終わったら結婚式挙げるか？ 　カタチだけでもいいけどよ、 　一区切りつけとこうぜ、俺たち」
+ 「悪司……」
+ 「んで、そのあとはスイスの山奥にでも 　ひっこんでよ、ゆっくり静かに暮らそうや。 　二人きりでな」
+ 「……本気、なの？」
+ 「俺たちゃあと数時間で世界を変えちまうんだ。 　残る一生ずっと長期休暇にしても、 　バチはあたんねえだろ」
+ 「…………そうね。 　そうと決まれば…………」
+ 「ああ、今は闘争の時を駆け抜けるぜ！」
+ 「ええ、なんとしても大統領を 　私たちの仲間に引き入れるために！」
+ 「こましてこましてこましまくるぜ！」
+ 「………………………………」
+ 「……だから拗ねんなってば」";"”……, those idiots at the Pentagon, it seems they've sniffed out our plan. 　We're surrounded.
+ ……?
+They're getting pretty nervous now that we've become so influential in Congress, Hajime.
+So, then, are you sure your friends around here are ……?
+The most important thing to remember is that the best way to get the most out of your own home is to be a good friend. 　The actual “I'm not a fan of the newest technology, but I'm not a fan of the newest technology,” he said. 　……, let's just get through here for now.
+ ……………………
+ “…… what's wrong?　Priscilla”
+Hey, Akuji ……
+Hmm?
+Are you happy now?
+ “Oh, I'm happy every day.
+Do you regret…… being with me?
+ “No regrets.”
+No………………, that's right…….
+ “…………. Hey,  Priscilla?
+Priscilla?
+When this is over, you wanna get married? 　Just for form's sake, let's get this over with, shall we?
+ “Akuji ……”
+ “And after that, we can go hide out in the mountains of Switzerland and live a quiet life together. 　Just the two of us.
+Are you serious, ……?
+We can change the world in a few hours. 　We could go on a long vacation for the rest of our lives and not get busted.
+ …………, I agree. 　Once we decide that, we'll go to ………….
+Yeah, we're going through a time of struggle!
+Yes, we will do everything in our power to bring the president into our fold.
+We're gonna rub it in, rub it in, rub it in, rub it in, rub it in!……………………… ………
+Don't sulk because it's ……";"'…… Maldición, esos idiotas del Pentágono, aparentemente han olfateado nuestros planes. 　Estamos rodeados.
+ ……?
+Se están poniendo muy nerviosos ahora que tenemos cierta influencia en el Congreso, Hajime.
+Entonces, ……, ¿estás seguro de que tus amigos de aquí son ……?
+Lo más importante es recordar que las personas que te rodean son las que morirán fácilmente. 　Lo mejor de los Boinas Verdes y de la Marina, ¿sabes? 　……, pasemos por aquí por ahora.
+ ……………………
+ “…… ¿qué pasa?　Priscilla”
+Hey, Akuji ……
+ ¿Hmm?
+ ¿Eres feliz ahora?”
+ “Sí, soy feliz todos los días”.
+ ¿Te arrepientes de estar conmigo, ……?
+No.
+ ………………, sí…….………… Hola, Priscilla.
+ ¿Priscila?
+Cuando esto termine, ¿tendremos una boda? 　Sólo por la forma, vamos a terminar con esto, ¿de acuerdo?
+ “Akuji ……”
+ “Y después, podemos ir a escondernos en las montañas suizas y vivir en paz y tranquilidad. 　Sólo nosotros dos”.…… ¿Hablas en serio?
+Podemos cambiar el mundo en unas horas. 　Podrías tomarte unas largas vacaciones durante el resto de tu vida y no te pillarían.
+ …………, sí. 　Una vez que hayamos decidido eso, iremos a ………….
+Sí, ¡estamos atravesando un período de lucha ahora!
+ ¡Sí, para traer al Presidente a nuestro redil a toda costa!
+ ¡Vamos a restregarlo, restregarlo, restregarlo, restregarlo!
+ “……………………… ………”
+No te enfades porque es ……."
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"Yamamoto Ippatsu (talking)";"ふっ…幸せそうな顔をしおって… よかったの、殺… お前の夢、叶う事があって…
+では行くとするか。 ハイヨー、シルバー！！";"Well… you look so happy… I'm happy for you, Satsu… that your dream has come true…
+Well, let's get going. Hi-yo, Silver!";"Pareces tan feliz… Me alegro por ti, Satsu… de que tu sueño se haya hecho realidad…
+Bueno, vamos a empezar. ¡Hola, Silver!"
+"cg narrator";"「………………つ……………」
+ 「……ちゃん………」
+ 「さっちゃ~ん…お寝坊さん…」
+ 「起きなさ~い…」";"……………… and……… ……”
+ “……chan………”
+Sleepyhead…
+Wake up, wake up…”";"'……………… y……… ……”
+ “……chan………”
+Dormilón…
+Despierta…”"
+"cg narrator";"「今日は少し晴れてるから、梅干し作ろうか~」
+ 「……よ……ははっ……」
+ 「悪司さーん、待って下さいよー」
+ 「おう、行くぞ」
+ 「へい！」
+ 「………だからさー、……で、…… 　……それは、ないっしょー」
+ 「……ふふ……あはは……」
+ ………………
+ ……………
+ …………
+ ………";"It's a little sunny today, so let's make some dried plums.
+ “I'm ……,…… haha ……”
+ “Akuji, please wait!
+ “Oh, let's go.”
+Hey!
+ “………, so ……, so ……, so ……, so ……, so ……, so ……, so ……, so ……, so ……, so ……, so ……, so ……. No, it's not.
+ “…… haha…… haha ……”
+ ………………
+ ……………
+ …………
+ ………";"'Hoy hace un poco de sol, ¡vamos a hacer ciruelas secas!
+ 'Akuji,…… haha ……'
+ “¡Akuji-san, por favor espera!”
+ “Oh, vamos.”
+ ¡Oye!
+ “Es ………, así que es ……, ……, ……, es ……, es ………, es ……, es ……, es……… No, no lo es.
+ “…… haha…… haha ……”
+ ………………
+ ……………
+ …………
+ ………"
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"Yamamoto Akuji (talking)";"どうだい？ 市長の仕事、少しは楽になったかい？";"How's it going? Mayor's job getting any easier?";"¿Cómo le va, alcalde? ¿Es su trabajo un poco más fácil?"
+"Kanbara Yuuko (talking)";"そうね~。 ウィミィから無理難題言われなくなった分 だいぶ楽になったわ~。";"Yeah… It's a lot easier now that Wime doesn't make me feel so unreasonable.";"Sí, es mucho más fácil ahora que Wime no me hace sentir tan poco razonable."
+"Yamamoto Akuji (talking)";"そいつはよかった。 夕子さんの綺麗な顔がやつれるのは 見たくねーからなー。";"That's good to hear. I don't want to see Yuuko's beautiful face get all worn out.";"Me alegro de oírlo, porque no quiero ver cómo se desgasta el hermoso rostro de Yuuko."
+"Kanbara Yuuko (talking)";"で、買ってきてくれた？";"So, did you get it?";"¿Y lo has comprado?"
+"Yamamoto Akuji (talking)";"おう、はいよ。 リリアンの糸。 ピンクから白、緑のグラデ。";"Oh, yes, yes. Lillian's thread. Pink to Haku, green gradient.";"Oh, sí, sí. El hilo de Lillian. rosa a Haku, gradiente verde."
+"Kanbara Yuuko (talking)";"ありがと、あーくん。";"Thanks, ah.";"Gracias, ah-kun."
+"Yamamoto Akuji (talking)";"どーいたしまして。 じゃあ、俺、これで帰るからよ。";"You're welcome. Well, I'm leaving now.";"De nada. Bueno, ya me voy."
+"Kanbara Yuuko (talking)";"うっふっふ~~。";"Woohoo~.";"Woohoo~."
+"Yamamoto Akuji (talking)";"いやらしい笑い方すんじゃねーよ。";"Don't laugh at me like that.";"No te rías de forma asquerosa."
+"Kanbara Yuuko (talking)";"あら~…嬉しい笑い方だったのに~… でも、あーくん、ご飯はうちで食べてった 方がいいんじゃない？";"Oh my…….you had a happy laugh…….but, ah-kun, shouldn't you eat your dinner at home?";"Vaya… te reías tan alegremente… pero, Akun, ¿no deberías cenar en casa?"
+"Yamamoto Akuji (talking)";"気持ちだけ貰っとくよ。 じゃあな。";"I'll just take it. See you later.";"Me quedo con la sensación. Hasta luego."
+"Yamamoto Akuji (talking)";"今、帰ったぞー。";"I'm home now!";"¡Ya estoy en casa!"
+"Henri Pe (talking)";"………………お帰り…悪司…";"Welcome back to …………………Akuji…";"……………… Bienvenido de nuevo…Akuji…"
+"Yamamoto Akuji (talking)";"おーう、ただいま。 あー腹減った。";"Oooh, I'm home. Ah, I'm hungry.";"Oooh, estoy en casa. Ah, tengo hambre."
+"Henri Pe (talking)";"ご飯……出来てる……";"Rice…… is ready ……";"El arroz…… está listo ……"
+"Yamamoto Akuji (talking)";"今日は、なんだい？";"What's up today?";"¿Qué es hoy?"
+"Henri Pe (talking)";"冷奴と……豚汁……";"Chilled tofu and…… pork miso soup ……";"Sopa de miso fría de tofu y cerdo ……"
+"Yamamoto Akuji (talking)";"え、和食かよ？ うれしーなー。";"What, Japanese food? I'm so happy.";"¿Qué, comida japonesa? Estoy muy feliz."
+"Henri Pe (talking)";"……悪司の…国の事も 理解しようと思って…";"I'm trying to understand ……Akuji's… country…";"También estoy tratando de entender el país de ……Akuji…"
+"Yamamoto Akuji (talking)";"あんがとさんよ。 でも、無理すんなよ。 お前さん、身重なんだから。";"Thanks for your help. But don't overdo it. You're very heavy.";"Muchas gracias. Pero no te lo tomes con calma. Eres un hombre pesado."
+"Henri Pe (talking)";"………うん……";"………うん ……";"………うん ……"
+"Yamamoto Akuji (talking)";"早く、生まれてこねーかねー。";"I can't wait to see them born.";"No puedo esperar a nacer."
+"Henri Pe (talking)";"…………うん……そうだね……";"………… yeah…… yeah……";"………… sí…… sí……"
+"Yamamoto Akuji (talking)";"………アンリ……";"………Henri……";"………Henri……"
+"Henri Pe (talking)";"……ん？";"…… hmm?";"…… ¿hmm?"
+"Yamamoto Akuji (talking)";"豚汁に、ミートソースが入ってる…";"Pork miso soup with meat sauce…";"Sopa de miso de cerdo con salsa de carne…"
+"Henri Pe (talking)";"……………美味しいと…思ったんだけど…";"I thought…………… was delicious…";"…………… Me pareció delicioso…"
+"cg narrator";"数年後……
+ 「…………………」
+ 「っ……」
+ 「なっ……」
+ 「なっ………」
+ 「なんじゃ、こりゃー！！」";"A few years later ……
+ “…………………”
+ “¡……”
+ “n……”
+ “What the ………”
+What the hell!";"Unos años más tarde ……
+ “…………………”
+ “¡……”
+ “Nat……”
+ “Nat………”
+ “¡Qué demonios!"
+"cg narrator";"「……………似合う…悪司……」
+ 「こりゃ、お前さんの仕業か！！ 　俺が寝ている間に、こんな髪型に……」
+ 「……だって…悪司は、これから魔界の王様だもん… 　髪型もそれらしくしないと……」
+ 「だけどよ~……」
+ 「とうたま、かっこい~。 　いかす~」
+ 「……ほら、";"”…………… suits you…Akuji ……”
+ 'This is your doing! 　While I was sleeping, you got this kind of hair …….”
+ “…… because…Akuji is about to become king of the demon world…Akuji 's hair has to look like that too……
+But you know what? ……
+ “Tou-tama, you're so cool! 　I'm gonna look good!
+ “…… see?";"”…………… te conviene…Akuji ……”
+ '¡Esto es obra tuya! 　Mientras yo dormía, te cortaste el pelo así……”
+ '…… porque… Akuji está a punto de convertirse en el rey del mundo de los demonios… y su pelo tiene que lucir así……'
+Pero, pero… ……
+ “¡Tou-tama, genial~! 　¡Estoy caliente!
+ '…… ¿ves?"
+"cg narrator";"も、ああ言っているじゃない」
+ 「……ったく……しゃーねぇなぁ……」
+ 「お似合いですよ、悪司」
+ 「エルベヘスまでよぅ……」
+ 「悪司……」
+ 「ん？」
+ 「……怒った…？」
+ 「………いいや」
+ 「……うふ……」
+アンリは嬉しそうに、悪司に躰を擦り寄せる。
+ 「ここで、このまま……… 　ずっと一緒に暮らそうね…悪司…」
+ 「はいはい。 　まったく、困った奥さんだぜ…」
+ 「………うふふふ……」";"I'm saying, “Oh, my God!”
+ “Akuji, you're so Akuji.”
+You're a good match, Akuji.
+ “Until Arbehess, ah……”
+Akuji ……
+ “Hmm?”
+ “…… angry…?”
+ “……… no.
+ “……Ugh……”
+Henri rubs her body against Akuji happily.
+I'll stay here and……… live with you forever…Akuji…”
+Akuji…” “Yes, yes, yes. 　I'm sure you'll be able to find a way to get a good deal on it.
+ “……… Ummmmm… ……”";"Estoy diciendo, “¡Oh, Dios mío!”
+ “Akuji, eres un buen hombre, Akuji.”
+Eres un buen partido, Akuji.
+ “Arbehess hasta Akuji……”
+Akuji……
+ ¿Hmm?”
+ “…… ¿enfadado…?”
+ “……… no.”
+ 'Henri está a la altura de Henri……'
+Henri frota alegremente su cuerpo contra Akuji.
+ 'Aquí, quedémonos así……… y vivamos juntos para siempre…Akuji…'
+Sí, sí, sí. 　'Soy una esposa muy problemática…'
+ '……… uuhuhuhu ……'"
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"karasuba  tsuki (talking)";"しーちょう。 お疲れ様です。 お茶でっすよ。";"Shi-chou. Thank you for your hard work. It's tea.";"Shichou. Gracias por su duro trabajo. Es té."
+"Kanbara Yuuko (talking)";"あら~。 ありがと~、つっくん。
+はぁ~~… つっくん、お茶淹れるの上手ね~。";"Oh my~. Thanks~, Tsukkun.
+You're so good at making tea, Tsukkun~.";"Oh mi~. Gracias~, Tsukkun.
+Eres muy bueno haciendo té, Tsukkun."
+"karasuba  tsuki (talking)";"ありがとうございます。";"Thank you very much.";"Gracias."
+"Kanbara Yuuko (talking)";"やっぱり、アレ~？ 女の子ひっかける為の体技~？";"I knew it. A physical trick to hook a girl?";"¡Lo sabía! ¿Un truco físico para enganchar a una chica?"
+"karasuba  tsuki (talking)";"へへへへへ。";"Heh heh heh.";"Je, je, je."
+"Kanbara Yuuko (talking)";"うふふふふ~。";"Mmmmmmmmm~.";"Mmmmmmmm~."
+"shigikaishokuin (talking)";"失礼します、市長。 エデンから連絡が。";"Excuse me, Mr. Mayor. Eden called.";"Disculpe, Sr. Alcalde. Eden se puso en contacto conmigo."
+"Kanbara Yuuko (talking)";"はいはい、どうしました~？";"Yes, yes, what's up~?";"Sí, sí, ¿qué pasa -?"
+"shigikaishokuin (talking)";"シーネル司令官が任期切れの為、 新しい司令官が赴任されるそうです。";"The Seanel commander's term is expiring and a new commander will be assigned.";"El mandato del comandante de Seanel expira y se va a nombrar un nuevo comandante."
+"Kanbara Yuuko (talking)";"あら~。";"Oh dear.";"Oh, Dios."
+"shigikaishokuin (talking)";"で、ですね…その為のパーティ費用を こちらに…";"And, sir… we're going to have to charge you for the party.";"Y, señor… los gastos del partido para eso están aquí…"
+"Kanbara Yuuko (talking)";"その必要、ないない~。";"That's not necessary~.";"No es necesario, no."
+"shigikaishokuin (talking)";"えっ？";"What?";"¿Qué?"
+"Kanbara Yuuko (talking)";"もうちょっとしたら、向こうの方から いらないって言ってくるもん~。";"In a little while, they will tell me they don't want it.";"Dentro de poco, me dirán que no lo quieren."
+"shigikaishokuin (talking)";"そ、そう言えば、最近、ウィミィからの 風当たりがマシになったような…";"Come to think of it, I've been getting a lot less flak from Wime lately…";"Ahora que lo pienso, últimamente me da mucho más viento Wime…"
+"karasuba  tsuki (talking)";"へへへへへ。";"Heh heh heh.";"Je, je, je."
+"Kanbara Yuuko (talking)";"うふふふふ~。";"Mmmmmmmmm~.";"Mmmmmmmm~."
+"shigikaishokuin (talking)";"？？？";"？？？";"？？？"
+"uimiiheishi (talking)";"止まれ！";"Stop!";"¡Para!"
+"uimiiheishi (talking)";"ここを通るのには、パスポートが必要だ。 提示しろ。";"You need your passport to get through here. Show it.";"Necesita su pasaporte para pasar por aquí. Muéstralo."
+"narrator";"悪司は黙ってパスポートを見せた。";"Akuji silently showed his passport.";"Akuji mostró en silencio su pasaporte."
+"uimiiheishi (talking)";"こ、これは、特別パスポート… どう見ても、ゴロツキジャップなのに…";"This is a special passport… even though it looks like a rag-tag Jap…";"Este, este es un pasaporte especial… para lo que parece, un japonés de pacotilla…"
+"Yamamoto Akuji (talking)";"それだけ、ここに貢献してる奴って訳さ。 まあ、これからよろしくな。";"That's how much he contributes to this place. Well, I'm looking forward to working with you.";"Eso es lo que aporta aquí. Bueno, estoy deseando trabajar con usted."
+"uimiiheishi (talking)";"ふ、ふん… 金で我が国に媚びを売る、 ジャップが……";"Hmmm… the Japs who flatter our country with money……";"Hmmm… los japoneses que adulan a nuestro país con dinero……"
+"Seanel Br (talking)";"悪司っ…！";"Akuji…!";"¡Akuji…!"
+"Yamamoto Akuji (talking)";"おう、シーネル。";"Oh, Seanel.";"Oh, Seanel."
+"Seanel Br (talking)";"待っていたわ…";"I've been waiting for you…";"He estado esperando…"
+"Yamamoto Akuji (talking)";"なんだい、もう目、潤ませてよ。";"What's the matter, moisten your eyes already.";"Qué pasa, tus ojos, humedécelos ya."
+"Seanel Br (talking)";"だって…";"Because…";"Porque…"
+"Yamamoto Akuji (talking)";"夕子さんから連絡受けてな。
+新しい司令官の赴任パーティ費用を、 市議会から捻出しろって 言ってきたらしいぞ。";"I got a call from Yuuko.
+He said he wants the city council to cover the cost of the new commander's new assignment party.";"He recibido una llamada de Yuuko.
+Está pidiendo dinero al ayuntamiento para pagar la fiesta de envío del nuevo comandante."
+"Seanel Br (talking)";"あん……ごめんなさい… でもそれ、新しい司令官に命令 取り消しさせなくちゃ…";"I'm sorry……… but I'll have to get the new commander to rescind that order…";"Un…… lo siento… pero tendré que hacer que el nuevo comandante anule esa orden…"
+"Yamamoto Akuji (talking)";"で、そいつは？";"And that guy?";"¿Y ese tipo?"
+"Seanel Br (talking)";"さっき、私のとこに挨拶にきたから… 隣りの部屋に待たせてあるわ。";"He came over to my place earlier to say hi… I have him waiting for you in the next room.";"Vino antes a mi casa a saludar… Le tengo esperando en la habitación de al lado."
+"Yamamoto Akuji (talking)";"ふ……ん…";"Fu………";"Fu………"
+"narrator";"シーネルは嬉しそうに奥の扉の取っ手を掴むと、 悪司に見えるように開いた。";"Seanel happily grabbed the handle of the back door and opened it so Akuji could see.";"Seanel agarró alegremente el pomo de la puerta trasera y la abrió para que Akuji pudiera ver."
+"cg narrator";"そこには、ガムテープで縛められている ウィミィの女兵士がいた。";"There was a Wime female soldier tied up with duct tape.";"Había una mujer soldado Wime allí, atada con cinta adhesiva."
+"cg narrator";"「な、なんの真似だ、これは！ 　シーネル！！」
+ 「お黙り」";"What the hell is this? 　Seanel!
+Shut up.”";"'¡Eh, qué imitación, esto! 　¡Seanel!
+Cállate”."
+"cg narrator";"シーネルはそう言うと、兵士の尻を踏みつけた。";"Seanel said and stomped on the soldier's buttocks.";"Seanel entonces pisó las nalgas del soldado."
+"cg narrator";"「彼女が新しいこのエデンの司令官よ……」
+ 「……どうして、エデンの駐屯に 　任期なんかあるのかしら…」
+ 「ここにいなくちゃ、悪司…私の事なんか、 　かまってくれなくなるだろうし…」
+ 「それはしかたないな… 　お前さんは、遠い海の向こうに 　行っちまうんだからよ…」
+ 「まあ、それまでは可愛がってやるよ。 　いやっちゅー程な。 　すねた顔も可愛いぜ」
+ 「やだ、もう……」
+ 「さーて、じゃあ一足早い赴任記念パーティを 　三人でやるとするか」
+ 「………………………」
+ 「どうした？」
+ 「この子を…悪司が抱くのが… 　ちょっと悔しい……」
+ 「心配すんなよ。 　お前さんも可愛がってやるよ。 　たっぷりとな……」
+ 「あんっ…その言葉だけで、私…」";"She is the new commander of this Eden ……
+ “…… why does there have to be a term of office for a garrison in Eden…”
+If I don't stay here, Akuji won't be able to take care of me.
+Well, that's a good thing, because you're going to be a long way across the sea.
+Well, I'll take good care of you until then. 　I'll take good care of you until then. 　You're so cute when you sulk.
+Oh, my God……
+Well, I guess we'll have to throw an early anniversary party for the three of us.
+ ………………………
+What's up?
+I'm a little disappointed that Akuji is holding her.
+Don't worry. 　I'll take good care of you, too. 　Plenty of it……
+I'm not sure what to do with that.";"Es la nueva comandante de este Edén……
+ “…… por qué la guarnición de Eden tiene un mandato…”
+Si no me quedo aquí, Akuji ni siquiera se molestará conmigo.
+Bueno, eso es algo bueno, porque vas a ir muy lejos en el mar…
+Bueno, cuidaré de ti hasta entonces. 　Mientras tanto, te tendré mucho cariño. 　Tú también tienes una cara bastante enfurruñada.
+Oh, Dios, …….
+Bueno, supongo que haremos una fiesta de aniversario anticipada para los tres.
+ ………………………
+ ¿Qué pasa?
+ “Esta chica… que Akuji está sosteniendo… es un poco frustrante……”
+No te preocupes. 　Yo también cuidaré de ti. 　Mucho……
+ “Ahh… sólo con esas palabras, yo…”"
+"cg narrator";"シーネルは陶然とした瞳で新しい司令官を見、 囁いた。";"Seanel looked at her new commander with euphoric eyes and whispered.";"Seanel miró a su nuevo comandante con ojos eufóricos y susurró."
+"cg narrator";"「この人がね、このオオサカの影の支配者なの…」
+ 「あなたもね、このエデンにきたからには 　この人に従わなくちゃいけないのよ」
+ 「白いものも、この人が黒といえば、 　黒になるの。 　私達はその為に働くのよ」
+ 「大丈夫…怖いのは、最初だけ…」
+ 「………ふふ…とっても、 　気持ちよくして下さるのよ…」
+ 「さあ…いい子ね… 　ふふ……ふふふ……」";"This is the shadowy ruler of Osaca.
+ “He is the shadowy ruler of this Eden, and you, too, must obey him now that you are here.
+Even Haku things become black when he says they are black. 　That's what we work for.”
+ “Don't worry…it's only the beginning that scares you…”
+ “………… he makes you feel very, very good…”
+ “Come on… you're a good girl… ……";"Este es el sombrío gobernante de Osaca…
+Debes obedecerlo porque has venido a este Edén.
+Incluso Haku las cosas se vuelven negras cuando él dice que son negras. 　Para eso trabajamos”.
+ 'No te preocupes… es sólo el principio lo que da miedo…'
+ “………… te hace sentir muy, muy bien…”
+ “Vamos… buena chica… hmmm… hmmm……… hmmm… ……”"
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"Yamamoto Akuji (talking)";"……よう、夕子さん。 元気でやってっか？";"Hi ……, Yuuko. How are you doing?";"Querido ……, Yuuko. ¿Cómo te va?"
+"Kanbara Yuuko (talking)";"あら、あーくん。 突然どうしたの？";"Oh, my God, Akun. What's wrong all of a sudden?";"Oh, Dios mío, ah-kun. ¿Qué pasa de repente?"
+"Yamamoto Akuji (talking)";"エデンが潰れた後の様子見さ。";"We'll see what happens after Eden goes under.";"Veremos qué pasa después de que Eden se hunda."
+"Kanbara Yuuko (talking)";"ああ、そうね~…… 全然静かになっちゃったわ。
+キョウの進駐軍本部が 直接市議会に手を出すことなんか ないから……";"Oh, yeah -…… It's gone totally quiet.
+The Occupy headquarters in Ky. doesn't have direct access to the city council……";"Oh, sí -…… Se ha vuelto totalmente silencioso.
+El cuartel general del ejército de ocupación en Keogh no tiene acceso directo al ayuntamiento……"
+"Yamamoto Akuji (talking)";"そっか。ならいい。";"I see. That's good.";"Ya veo. Bien."
+"Kanbara Yuuko (talking)";"……？　もう帰っちゃうの？ お茶くらい飲んでいけば~？";"……?　Are you leaving already? Why don't you at least drink some tea?";"……?　¿Ya te vas? ¿Por qué no te tomas al menos una taza de té?"
+"Yamamoto Akuji (talking)";"いや、いーんだ。 またアソビに来るよ。";"No, it's okay. I'll come back to Asobi.";"No, está bien. Volveré a Asobi."
+"Kanbara Yuuko (talking)";"…………
+あーくん、少し変わったかも……？";"…………
+Ah-kun, maybe a little different ……?";"…………
+Ah-kun, tal vez un poco diferente: ……?"
+"narrator";"悪司は市議会からの帰り際、 ふらりと街に出ていた。";"Akuji was on his way home from the city council meeting when he wandered into town.";"Akuji volvía de una reunión del ayuntamiento cuando entró en la ciudad."
+"Yamamoto Akuji (talking)";"………………
+エデンがなくなっただけで、 えらく平和になっちまったな。
+イハビーラのバカが居なくなっただけで どんだけの人間が助かったんかなー。
+ ……さっちゃん、見てるか？ おめぇさん、すげえことやったんだぜ。";"………………
+Just the loss of Eden has made things a lot more peaceful.
+I wonder how many people have been saved just because Ehavilla's idiots are gone.…… Satchan, are you watching? You did a great job.";"………………
+Es mucho más tranquilo ahora que Eden se ha ido.
+Me pregunto cuántas personas se han salvado sólo porque los idiotas de Ehavilla se han ido.…… Satchan, ¿estás mirando? Has hecho un gran trabajo."
+"narrator";"　　「……キャーーー！　いやーーー！」";"”…… Cahhh!　Noooooo!”";"'…… ¡Cahhh!　¡Nooooo!”"
+"Yamamoto Akuji (talking)";"…………？　何だ？";"…………?　What's the point?";"…………?　¿Cuál es la palabra?"
+"Elite Yakuza (talking)";"……急げ、早くしろ！ 被害を広げるな！";"…… Hurry, hurry! Don't spread the damage!";"…… ¡Deprisa, deprisa! ¡No extiendas el daño!"
+"Yamamoto Akuji (talking)";"よお、おめーうちの組の人間じゃねえか。 何かあったのか？";"Hey, you're from our group, aren't you? What's going on?";"Eres de nuestra banda, ¿no? ¿Qué está pasando?"
+"Elite Yakuza (talking)";"あっ……若！ この先でドスを持ったヤツが 暴れているという通報があって……";"Oh,…… young man! We got a report of a guy with a doss up ahead……";"¡Oh,…… joven! Recibimos un informe de un tipo con un dos por delante……"
+"Yamamoto Akuji (talking)";"なーるへそ。 よっしゃ、俺も行くぜ。";"I'll be there. Okay, I'll be there.";"Na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na. Muy bien, voy contigo."
+"Elite Yakuza (talking)";"若が直々に？！ お願いします、助かります！";"Young in person? ! Please, that would be a big help!";"¿Joven en persona? Por favor, ¡sería de gran ayuda!"
+"Yamamoto Akuji (talking)";"……さーて、仕事仕事。
+せっかく平和になった“俺たちの街”だ、 ひっかき回すヤツぁタダじゃおかねえ！
+うおりゃ、どけどけどけーーー！ 奉仕青年団のお通りだーーーーーっ！！";"……Well, work, work, work.
+Our town has been pacified, and anyone who stirs up trouble is in for a world of hurt!
+Get out of the way, get out of the way, get out of the way! The Youth Service Corps is coming through!";"…… Ahora, trabajo, trabajo, trabajo.
+Nuestra ciudad ha sido pacificada, y cualquiera que provoque problemas se verá perjudicado.
+ ¡Apártate, apártate, apártate! ¡El Cuerpo de Servicio de la Juventud se está abriendo paso!"

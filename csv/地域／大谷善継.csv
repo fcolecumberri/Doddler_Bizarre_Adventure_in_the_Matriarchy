@@ -1,0 +1,363 @@
+"character";"jap text";"Eng";"Esp"
+"__system__??";"{麦 = 1:";"";""
+"__system__??";"{☆大谷 = 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(☆大谷 = 1) * (★愛 = 3):";"";""
+"__system__??";"}";"";""
+"__system__??";"{☆大谷 > 49:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 3:";"";""
+"__system__??";"{B忠誠タイプ = 1:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 10:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 11:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 13:";"";""
+"__system__??";"{H物欲抵抗 <= H物欲:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 15:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 16:";"";""
+"__system__??";"}";"";""
+"Ootani Yoshitsugu (talking)";"…………？
+ ……呼ばれてきたと言うのに、 あの男は居ないのか。";"…………?…… you say you've been called, but that guy isn't here.";"…………?…… Digo que me han llamado, pero el hombre no está aquí?"
+"Nogi Kikuko (talking)";"…………あっ。 大谷様じゃないですか？ ご無沙汰しております。";"………… Oh. Is it not Mr. Ootani? It's been a while.";"………… Oh. ¿No es ese el señor Ootani? Ha pasado un tiempo."
+"Ootani Yoshitsugu (talking)";"おお……喜久子お嬢様。
+こちらこそ、同じ組織に居るというのに、 すれ違いばかりで恐縮です。";"Oh ……Madam Kikuko.
+I'm sorry for all the misunderstandings we've had, even though we're in the same organization.";"Oh ……Madam Kikuko.
+Lamento que sigamos cruzando caminos, aunque estemos en la misma organización."
+"Nogi Kikuko (talking)";"いえ、大谷さんがお忙しい身だという事、 私は悪司の妻として 重々承知しておりますから。";"No, as Akuji's wife, I am well aware of your busy schedule.";"No, como esposa de Akuji, soy consciente de que Ootani está muy ocupado."
+"Ootani Yoshitsugu (talking)";"ああ……そうでした。 ご結婚なさったとかで。
+どうですか、生活が変わって。 何かと大変かとは思いますが……";"Oh…… it was. I heard you got married.
+How is your life now? I know it must be difficult for you……";"Oh,…… fue. He oído que te has casado.
+ ¿Cómo está cambiando tu vida? Sé que es mucho para tratar……"
+"Nogi Kikuko (talking)";"いえ、全く。 お陰様で幸せな日々を過ごしております。";"No, not at all. Thanks to you, I am spending happy days.";"No, en absoluto. Somos felices gracias a usted."
+"Ootani Yoshitsugu (talking)";"良かった、それは何より。";"Good, that's good to know.";"Bien, es bueno saberlo."
+"Yamamoto Akuji (talking)";"…………何だよ。 えらい堅苦しい会話だと思ったら きっこと大谷だったのか。";"What's with …………? I thought it was a very formal conversation, but it was Kikkoto Ootani.";"………… ¿Qué demonios? Pensé que era una conversación muy formal, pero era Kikkoto Ootani."
+"Nogi Kikuko (talking)";"まあ、旦那様。お聞きでしたか？";"Well, sir. Did you hear that?";"Bien, señor. ¿Te has enterado?"
+"Ootani Yoshitsugu (talking)";"……今すぐ来いと人を呼びつけて、 席を外しているとは、随分だな。";"…… You call someone to come over right now and then you're out of your seat, how dare you.";"…… Es todo un acontecimiento llamar a alguien para que venga ahora, y que luego abandone su asiento."
+"Yamamoto Akuji (talking)";"こらえてくれ、ションベンだ。";"Hold it, I'm pissing.";"Espera, es una meada."
+"Ootani Yoshitsugu (talking)";"………………
+いや、乃木大将もお嬢様も、 お前のそういう所に 惹かれたのだとは思うが。";"………………
+No, I'm sure both General Nogi and the lady were attracted to that part of you.";"………………
+No, estoy seguro de que tanto el general Nogi como la señora se sintieron atraídos por eso de usted."
+"Yamamoto Akuji (talking)";"んあ？";"Hmm?";"¿Eh?"
+"Ootani Yoshitsugu (talking)";"……まあいい、早く用件を言え。";"……Well, come on, just tell me what you want.";"…… Bueno, vamos, dime lo que quieres."
+"Yamamoto Akuji (talking)";"……お、来たな大谷。 こっちだ、こっちー。";"…… Oh, here you are Ootani. This way, this way.";"…… Oh, estás aquí Ootani. Por aquí, por aquí."
+"Ootani Yoshitsugu (talking)";"何の用だか知らないが、手短に頼む。";"I don't know what you want, but make it quick.";"No sé lo que quieres, pero por favor, sé breve."
+"Yamamoto Akuji (talking)";"何だよ、いきなり手短にって。
+まあゆっくり茶でも飲めよ。 それとも今急いでんのか？";"What's the matter?
+Well, take your time and have a cup of tea. Or are you in a hurry?";"¿Qué te pasa, de repente quieres ser breve?
+Bueno, tómate tu tiempo y toma una taza de té. ¿O tienes prisa ahora?"
+"Ootani Yoshitsugu (talking)";"……別に、急いではいない。
+だが、私がここに居ると迷惑になる。 お前のために言っているのだ。";"……Not that I'm in a hurry.
+But my presence here would be a nuisance. I'm saying this for your own good.";"…… No es que tenga prisa.
+Pero mi presencia aquí sería una molestia. Lo digo por tu bien."
+"Yamamoto Akuji (talking)";"何だよ、迷惑って……";"What a nuisance……";"Qué molestia……"
+"__system__??";"{RND \ 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{RND = 0:";"";""
+"__system__??";"}";"";""
+"Kako Mirai (talking)";"……おかしいにゃりね~…… 事務所に入ったと思ったにゃりが……";"…… funny nyari ne~…… nyari thought she had joined an office ……";"…… Funny Nyari Ne -…… Nyari pensó que había entrado en una oficina ……"
+"Yamamoto Akuji (talking)";"……？　何やってんだ、未来。";"……?　What are you doing, Mirai?";"……?　¿Qué estás haciendo, Mirai."
+"Kako Mirai (talking)";"にーちゃん、さっきこっちに 怪しい覆面男が来なかったにゃりか？
+未来ちゃんから目を逸らして、 逃げるようにこっち来たにゃり。 あいつ絶対変にゃり。";"Nya-chan, did you see a suspicious masked man coming this way just now?
+He turned away from Mirai and came this way to run away. That guy is definitely weird.";"Nychan, ¿has visto a un misterioso hombre enmascarado venir por aquí antes?
+Apartó la mirada de Mirai y vino hacia aquí para escapar. Definitivamente es raro."
+"Yamamoto Akuji (talking)";"変かどーかは知らねぇが、 覆面男ならここに居るぞ。";"I don't know if it's weird or not, but the masked man is here.";"No sé si es raro o no, pero el hombre enmascarado está aquí."
+"Ootani Yoshitsugu (talking)";"……………………";"……………………";"……………………"
+"Kako Mirai (talking)";"げ。 こいつにゃりよ、こいつ！";"I'm sorry, I'm sorry, I'm sorry. It's him. It's him!";"Gee. ¡Es él, es él!"
+"Yamamoto Akuji (talking)";"げ、って何だおめー。 失礼なやっちゃな。";"What are you talking about? You're so rude.";"¿Qué quieres decir con “ge”? Eres muy grosero."
+"Kako Mirai (talking)";"だってその覆面、ヤバいオーラが 漂いまくってるにゃりよ！？
+覆面の目の穴から見えてる皮膚も すんごい色が変にゃり。 絶対病気持ちにゃりよー……";"Because that mask has an aura of something bad!
+The skin that you can see through the eye holes of the mask has a very strange color. I'm sure he has a disease……";"¡Porque esa máscara tiene un aura de peligro por todas partes!
+La piel que se ve a través de los agujeros de los ojos de la máscara tiene un color muy extraño. Está definitivamente enfermo……"
+"Yamamoto Akuji (talking)";"滅茶苦茶ぬかすな。";"Don't be absurd.";"No seas un desastre."
+"Ootani Yoshitsugu (talking)";"……仕方あるまい、 私を初めて見たのなら、 その娘のような反応が普通だろう。";"If this is the first time you've seen me, it's normal to react like that girl.";"…… no puede evitarlo, si no me ha visto nunca, es normal que reaccione como esa chica."
+"Yamamoto Akuji (talking)";"あー、気にすんなよ。 こいつ基本的にバカだから。";"Oh, don't worry about it. He's basically an idiot.";"Ah, no te preocupes. Es básicamente un idiota."
+"Kako Mirai (talking)";"ば、バカって何にゃりかー！！";"What do you mean, “idiot”?";"¿Qué quieres decir con “idiota”?"
+"Yamamoto Akuji (talking)";"つーか、大谷ってさ、 別に病気って訳じゃねぇだろ？
+たしか乃木さんは、 火傷がどうとか言ってたが……";"I mean, Ootani isn't really sick, is he?
+I think Nogi said something about burns……";"Quiero decir, Ootani no está realmente enfermo, ¿verdad?
+Creo que Nogi dijo algo sobre las quemaduras……"
+"Kako Mirai (talking)";"火傷なんて嘘にゃり！ この人病院みたいな臭いするにゃり！ 絶対何かのヤバい病気にゃりよ！！";"No way! He smells like a hospital! He's definitely got some kind of bad disease!";"¡Las quemaduras son una mentira! ¡Huele como un hospital! ¡Definitivamente tiene alguna enfermedad grave!"
+"Ootani Yoshitsugu (talking)";"……別に、私は病気などではない。 今言われた通り、戦時中の空襲で 大火傷を負っただけだ。
+そのせいで、顔の形が変わってしまった。 この覆面はそのせいだ。
+あと、時々は膿も出るのでな。 消毒液や皮膚薬もよく使うが。";"…… I am not sick. As you just said, I was just severely burned in an air raid during the war.
+It changed the shape of my face. That's why I have this mask.
+I also get pus from time to time. I often use antiseptic and skin medicine.";"…… No es que esté enfermo ni nada por el estilo. Como acabas de decir, me quemé gravemente en un ataque aéreo en tiempos de guerra.
+Cambió la forma de mi cara. Por eso tengo esta máscara.
+Además, de vez en cuando me sale pus. Suelo utilizar soluciones antisépticas y medicamentos para la piel."
+"Kako Mirai (talking)";"なら証明して欲しいにゃり！ その覆面取るにゃりよ！！";"Then I want you to prove it! Take off that mask!";"¡Entonces quiero que lo demuestres! ¡Quítate esa máscara!"
+"Ootani Yoshitsugu (talking)";"…………………… 仕方ない。";"…………………… No choice.";"…………………… No hay opción."
+"narrator";"大谷は、被っている覆面を 顎から口元の辺りまでそっと持ち上げた。";"Ootani gently lifted the mask he was wearing from his chin to around his mouth.";"Ootani levantó suavemente la máscara que llevaba desde la barbilla hasta alrededor de la boca."
+"Kako Mirai (talking)";"…………………………ひぅ。";"…………………………Hi ~u.";"…………………………Hi ~u."
+"Yamamoto Akuji (talking)";"ありゃー、こりゃひでえ。 ほっぺたが原形留めてねーな、 歯が見えてるぜ……";"Oh my, this is terrible. His cheeks are not in their original shape. You can see his teeth……";"Oh, Dios mío, eso es terrible. Tus mejillas no tienen su forma original, se te ven los dientes……"
+"Kako Mirai (talking)";"…………み、未来ちゃん退場にゃり。 気分悪くなってきたにゃり……";"…………Mi, Mirai-chan is leaving. I'm starting to feel sick……";"…………Mi, Mirai-chan se fue. Estoy empezando a sentirme mal……"
+"Yamamoto Akuji (talking)";"あ……おいこら未来。
+ったく、勝手なやっちゃなー。 ……気にすんなよ、大谷。";"Oh,…… Hey there, Mirai.
+You're so selfish. Don't worry about ……, Ootani.";"Oh,…… Hey, vamos, Mirai.
+Eres muy egoísta…… No te preocupes, Ootani."
+"Seinendan Jyoshi (talking)";"……あ、あれ…… 事務所に入ったと思ったのに……";"…… Oh, that…… I thought I was in an office……";"…… Oh, eso…… Pensé que estaba en una oficina……"
+"Yamamoto Akuji (talking)";"……？　おう、どーかしたか？";"……?　Oh, what's up?";"……?　¿Qué pasa?"
+"Seinendan Jyoshi (talking)";"……あの、悪司さん。 覆面をした怪しい人を見ませんでしたか？";"…… Um, Akuji. Have you seen a suspicious masked person?";"…… Um, Akuji. ¿Ha visto a alguna persona sospechosa con máscaras?"
+"Yamamoto Akuji (talking)";"怪しいかどーかは知らねぇが、 覆面男ならここに居るぞ。";"I don't know if it's suspicious or not, but the masked man is here.";"No sé si es sospechoso o no, pero el hombre enmascarado está aquí."
+"Ootani Yoshitsugu (talking)";"……………………";"……………………";"……………………"
+"Seinendan Jyoshi (talking)";"ひっ……";"(a) ……";"(copia) ……"
+"Yamamoto Akuji (talking)";"ひっ、って何だおめー。 失礼だぞー？";"What are you talking about? You're being rude!";"¿Qué quieres decir con “hic”? Estás siendo grosero, ¿no?"
+"Seinendan Jyoshi (talking)";"す、すみません…… でも、あの……";"Sorry, sorry…… but that ……";"Lo siento, lo siento…… Pero, um, ……"
+"Ootani Yoshitsugu (talking)";"……仕方あるまい、 私を初めて見たのなら、 その娘のような反応が普通だろう。
+マスクの隙間から私の爛れた皮膚を見て、 顔をしかめぬ者はまず居ないからな。";"If this is the first time you've seen me, it's normal to react like that girl.
+There is no one who can look through the mask and see my sore skin and not frown.";"Si…… no me ha visto nunca, es normal que reaccione como esa chica.
+No hay una sola persona que no frunza el ceño cuando ve mi piel dolorida a través de la máscara."
+"Yamamoto Akuji (talking)";"爛れた皮膚？
+あ……そうだ、たしか乃木さん、 火傷がどうとか言ってたな。 おめーの覆面って……";"Sore skin?
+Oh…… yeah, I think Nogi said something about burns. Your mask is ……";"¿Dolor de piel?
+Oh…… sí, creo que Nogi dijo algo sobre las quemaduras. Su máscara es ……"
+"Ootani Yoshitsugu (talking)";"その通りだ。 大火傷で生死の境を彷徨った。
+お陰で、顔の形が すっかり変わってしまってな。 覆面はそのためにつけている。";"That's right. I was on the verge of life and death due to a serious burn.
+It changed the shape of my face completely. That's why I wear the mask.";"Así es. Me quemé mucho y estuve a punto de morir.
+Cambió la forma de mi cara por completo. Por eso llevo la máscara."
+"Yamamoto Akuji (talking)";"？";"？";"？"
+"Ootani Yoshitsugu (talking)";"……仕方ないか。 見てもらうしかあるまい。";"…… I don't have a choice. You'll just have to see it.";"…… ¿No hay otra opción? Tendrás que dejar que lo vean."
+"narrator";"大谷は、被っている覆面を 顎から口元の辺りまでそっと持ち上げた。";"Ootani gently lifted the mask he was wearing from his chin to around his mouth.";"Ootani levantó suavemente la máscara que llevaba desde la barbilla hasta alrededor de la boca."
+"Seinendan Jyoshi (talking)";"…………………………ひぅ。";"…………………………Hi ~u.";"…………………………Hi ~u."
+"Ootani Yoshitsugu (talking)";"傷から時折、膿が出るのだ。 少し臭うかもしれん。 ……今は幾分ましだと思うが。";"The wound occasionally produces pus. Might smell a little…… I think it's somewhat better now, though.";"La herida produce ocasionalmente pus. Podría oler un poco…… Creo que ahora está algo mejor."
+"Yamamoto Akuji (talking)";"ありゃー、こりゃひでえ。 ほっぺたが原形留めてねーな、 歯が見えてるぜ……";"Oh my, this is terrible. His cheeks are not in their original shape. You can see his teeth……";"Oh, Dios mío, eso es terrible. Tus mejillas no tienen su forma original, se te ven los dientes……"
+"Seinendan Jyoshi (talking)";"…………す、すみません。 私、ちょっと……";"………… Sorry, I'm sorry. I'm just a little ……";"………… Lo siento, lo siento. Sólo soy ……"
+"Yamamoto Akuji (talking)";"あ……おいこら。
+ったく、失礼なやっちゃなー。 ……気にすんなよ、大谷。";"Oh,…… Hey, hey, hey.
+You're so rude! Don't worry about ……, Ootani.";"Oh,…… Hey, vamos.
+Eres muy grosero…… No te preocupes, Ootani."
+"Ootani Yoshitsugu (talking)";"…………いつもの事だ、慣れている。
+お前とて、私と長話など したくはあるまい。 さ、早く用件を言え。";"…………It happens all the time, I'm used to it.
+You don't want to have a long talk with me either. Now, come on, tell me what you want.";"………… Pasa todo el tiempo, estoy acostumbrado.
+Tampoco quieres tener una larga charla conmigo. Ahora, vamos, dime lo que quieres."
+"Yamamoto Akuji (talking)";"ああ、あんたもしかして、 そんなこと気にしてたのか？
+心配すんな、俺はんなこと 気にしねえ方だからよ。";"Oh, you're worried about that?
+Don't worry, I don't care about such things.";"Oh, ¿te preocupa eso?
+No te preocupes, no me importan esas cosas."
+"Ootani Yoshitsugu (talking)";"気休めはいい。";"I don't need to feel at ease.";"No te preocupes por la comodidad."
+"__system__??";"{☆ギガフロート \ 0:";"";""
+"__system__??";"}";"";""
+"Takega Satsu (talking)";"……悪司、今学校から戻ったぞ。 そちらは客人か？";"……Akuji, I just got back from school. Are you a guest over there?";"……Akuji, ya he vuelto de la escuela. ¿Eres un invitado allí?"
+"Yamamoto Akuji (talking)";"ああ、いや、部下の大谷だよ。 ほれ、乃木さんのとこの。";"Oh, no, it's my subordinate Ootani. Look, from Nogi's place.";"Oh, no, es mi subordinado Ootani. Mira, desde el lugar de Nogi."
+"Ootani Yoshitsugu (talking)";"………………";"………………";"………………"
+"Takega Satsu (talking)";"ああ、存じ上げている。 あまり姿を見たことはないが……";"Yes, I know who you are. I haven't seen much of you, though: ……";"Sí, sé quién eres. Sin embargo, no te he visto mucho……"
+"Ootani Yoshitsugu (talking)";"私は、人を避けてしまう性でな。 ……話すのは初めてだと思う。";"I have a tendency to avoid people. I don't think I've ever talked to…… before.";"Soy de la naturaleza de evitar a la gente. Creo que nunca había hablado con ……."
+"Takega Satsu (talking)";"では大谷どの、一応は初めましてと 言わせてもらおう。";"Well, Ootani, let me just say it's nice to meet you.";"Bueno, Ootani, permíteme decir que es un placer conocerte al menos."
+"__system__??";"{★愛 \ 5:";"";""
+"Takega Satsu (talking)";"悪司の叔母、岳画殺だ。";"This is Akuji's aunt, Takega Satsu.";"La tía de Akuji, Takega Satsu."
+"__system__??";"}";"";""
+"__system__??";"{★愛 = 5:";"";""
+"Takega Satsu (talking)";"悪司の妻、殺だ。以後よろしく。";"I'm Satsu, wife of Akuji. Please take care of me from now on.";"Soy Satsu, esposa de Akuji. Por favor, cuida de mí a partir de ahora."
+"__system__??";"}";"";""
+"narrator";"殺は、大谷へごく自然に右手を差し出した。";"Satsu naturally held out his right hand to Ootani.";"Satsu con mucha naturalidad le tendió la mano derecha a Ootani."
+"Ootani Yoshitsugu (talking)";"……握手をするのか、この私と。";"…… you shake hands with me, here.";"…… Me das la mano, aquí."
+"Takega Satsu (talking)";"そのつもりだが。 何か問題でも？";"I intend to. What's the problem?";"Tengo la intención de hacerlo. ¿Cuál es el problema?"
+"Ootani Yoshitsugu (talking)";"私が怖くはないのか。";"Are you not afraid of me?";"¿No tienes miedo de mí?"
+"Takega Satsu (talking)";"それはもしや、 そなたの覆面の下の事か？";"Is that, by any chance, what's under your mask?";"¿Es eso, por casualidad, lo que hay bajo tu cubierta?"
+"Ootani Yoshitsugu (talking)";"……見ていたのか。";"You've been watching …….";"Has estado viendo ……."
+"Takega Satsu (talking)";"玄関先から、遠目にはな。";"From the front porch, from a distance.";"Desde la puerta, desde la distancia."
+"Ootani Yoshitsugu (talking)";"………………";"………………";"………………"
+"Takega Satsu (talking)";"別に握手を無理強いする気はない。 嫌なら手を収めるが……";"I'm not trying to force you to shake my hand. If you don't like it, I'll put my hand away……";"No estoy tratando de forzarte a estrechar mi mano. Si no te gusta, apartaré la mano……"
+"Ootani Yoshitsugu (talking)";"……いや。 こちらこそ、よろしく頼む。";"…… No. Nice to meet you too.";"…… No. Encantado de conocerte también."
+"Takega Satsu (talking)";"うむ。
+ ……では私は、 茶でも淹れてこよう。";"Mm.
+I'll go make myself a cup of tea at …….";"Mm.
+En…… iré a prepararme una taza de té."
+"Yamamoto Akuji (talking)";"ああ、よろしく頼むぜ、さっちゃん。";"Yeah, nice to meet you, Sacchan.";"Sí, encantado de conocerte, Sacchan."
+"Takega Satsu (talking)";"では大谷どの、失礼する。";"Now, Ootani which, excuse me.";"Ahora, Ootani que, perdón."
+"Ootani Yoshitsugu (talking)";"……肝の据わった娘だ。";"…… She's a girl with a lot of heart.";"…… Es una chica con muchas agallas."
+"Yamamoto Akuji (talking)";"うちの家系だからかねー、 変なヤツに耐性があんのかもな。
+だからおめーも、あんま気にしないで ここじゃ自然にしてるこった。
+うちにゃ変なヤツも結構いるしよ、 おめー自身も、人間的に破綻してるとか そういう訳じゃねえだろ？
+そのうち、みんな慣れてくるさ。";"Maybe it's because you come from my family. Maybe we have a high tolerance for weirdos.
+That's why you don't worry too much about it and act naturally here.
+There are a lot of strange people in my family, and you yourself are not a broken person or anything like that, right?
+Everyone will get used to it in time.";"Tal vez sea porque vienes de mi familia, tal vez tengas una alta tolerancia a los bichos raros.
+Por eso no debes preocuparte demasiado por ello y actuar con naturalidad.
+Hay mucha gente extraña en mi casa, y tú mismo no eres una persona rota ni nada por el estilo, ¿verdad?
+Con el tiempo, todo el mundo se acostumbrará."
+"Ootani Yoshitsugu (talking)";"………………
+乃木大将がお前を認めた理由、 解ったような気がする。";"………………
+Nogi I think I understand why the general recognized you.";"………………
+Nogi Creo que entiendo por qué el General te reconoció."
+"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
+"Ootani Yoshitsugu (talking)";"……いや、何でもない。";"…… No, it's nothing.";"…… No, no es nada."
+"Yamamoto Akuji (talking)";"……よう、大谷。 調子はどうだ？";"…… Yo, Ootani. How's it going?";"…… Yo, Ootani. ¿Cómo va todo?"
+"Ootani Yoshitsugu (talking)";"悪くはない。 それで、今日呼ばれた用は何だ。";"Not bad. So, what is it that I'm here for today?";"No está mal. Entonces, ¿para qué querías verme hoy?"
+"Yamamoto Akuji (talking)";"よう、大谷。 ちゃんと仕事してっか？";"Hey, Ootani. Are you doing a good job?";"Oye, Ootani. ¿Estás haciendo bien tu trabajo?"
+"Ootani Yoshitsugu (talking)";"勿論だ。
+しかし、側で見れば見るほど お前と乃木大将には 通じるものを感じるな。";"Of course.
+But the more I watch from the side, the more I feel something in common between you and General Nogi.";"Por supuesto.
+Pero cuanto más te miro de reojo, más siento que tú y el general Nogi tenéis algo en común."
+"Yamamoto Akuji (talking)";"ん？　どーいうこった？";"Hmm?　What do you mean?";"¿Hmm?　¿Qué quieres decir?"
+"Ootani Yoshitsugu (talking)";"……いや。 我々が戦わずに済んだ方法が あったような気がするのだ。";"…… No. I have a feeling there was a way we could have avoided fighting.";"…… No. Siento que había una forma de evitar las peleas."
+"Yamamoto Akuji (talking)";"んー、たとえそうだとしても 過去を振り返ったってしゃあねーぜ？ 前向いていこうや。";"Well, even if that's true, it's no use looking back, right? Let's look forward.";"Bueno, aunque sea así, no sirve de nada mirar al pasado, ¿verdad? Miremos hacia adelante."
+"Ootani Yoshitsugu (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"えーっとな、あんたに 臨時ボーナスを出そうかと 思ってよ。";"Well, I thought I'd give you an extra bonus.";"Bueno, pensé en darte un bono extra."
+"Ootani Yoshitsugu (talking)";"充分な給与は頂いている。 賞与など受け取れぬ。";"I am paid enough. I do not receive any bonuses.";"Recibo un salario adecuado. No recibo ninguna bonificación."
+"Yamamoto Akuji (talking)";"いや、ボーナスは一応、 その給与の一部なんだけどよ。";"No, the bonus is part of the salary.";"No, la bonificación forma parte del salario."
+"Ootani Yoshitsugu (talking)";"私は、乃木大将の命で この組織に入っているのだ。
+私が立ち働くのは お前との雇用契約でなく、 乃木大将との約束に依るのだ。
+故に、余計な気は使わなくていい。 その金は別の事のためにとっておけ。";"I am in this organization by order of General Nogi.
+My standing and working is not based on an employment contract with you, but on my promise to General Nogi.
+Therefore, you don't have to worry about me. Save that money for something else.";"Estoy en esta organización por orden del General Nogi.
+Mi posición y mi trabajo no se basan en un contrato de trabajo con usted, sino en una promesa que hice al general Nogi.
+Por lo tanto, no tienes que prestarme ninguna atención extra. Guarda ese dinero para otra cosa."
+"Yamamoto Akuji (talking)";"そう言ってくれんなら、 イロイロと有り難いんだけどよー……";"I'd appreciate it a lot if you would say so……";"Te agradecería mucho que lo dijeras……"
+"Ootani Yoshitsugu (talking)";"案ずるな、金や待遇の事で 私は決して裏切ったりはしない。";"Don't worry, I would never betray you for money or treatment.";"No te preocupes, nunca te traicionaría por dinero o tratamiento."
+"Yamamoto Akuji (talking)";"………………ふーむ。 その言葉、今は一応信じておくぜ。";"……………… Hmmm. I'll take your word for it for now.";"……………… Hmmm. Ahora, para variar, te tomaré la palabra."
+"Yamamoto Akuji (talking)";"ほれ、特別ボーナス。";"See, special bonus.";"Ves, bonos especiales."
+"narrator";"悪司は、札束の入った封筒を 大谷にいくつか手渡した。";"Akuji handed some envelopes containing wads of bills to Ootani.";"Akuji entregó unos sobres con fajos de billetes a Ootani."
+"Ootani Yoshitsugu (talking)";"……随分多いようだが。
+これは、私の働きに対する 正当な報酬だと思っていいのか。";"…… seems like a lot.
+Am I correct in assuming that this is a just reward for my work?";"…… parece mucho.
+ ¿Puedo suponer que es una justa recompensa por mi trabajo?"
+"Yamamoto Akuji (talking)";"ああ、構わないぜ。";"Yeah, no problem.";"Sí, no hay problema."
+"Ootani Yoshitsugu (talking)";"……では、遠慮なく頂いておく。";"At ……, I'll take it without reservation.";"En ……, lo acepto sin reservas."
+"Yamamoto Akuji (talking)";"覆面の下の火傷とか膿とか、 気になるようなら病院行けよ。 そのカネでがっちり治せや。";"If you are concerned about the burns and pus under the mask, go to the hospital. Use the money to get it all fixed up.";"Si te preocupan las quemaduras o el pus bajo la mascarilla, acude al hospital. Usa el dinero para ponerte bien."
+"Ootani Yoshitsugu (talking)";"……………… 余計なお世話だ、と言いたいところだが。
+その気遣いも、有り難く頂いておく。";"……………… I would say it's none of my business.
+I would say it is none of my business, but I appreciate your concern.";"……………… Diría que no es asunto mío.
+Agradezco su preocupación."
+"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
+"Yamamoto Akuji (talking)";"……ふふん、乃木大将の手下だった 覆面野郎の登場だな。";"…… hmmm, here comes the masked bastard who used to work for General Nogi.";"…… Hmmm, aquí viene el tipo encubierto que solía trabajar para el General Nogi."
+"Ootani Yoshitsugu (talking)";"………………早く殺せ。 どうせそのつもりなのだろう。";"……………… soonSatsuse. That's the plan anyway.";"……………… rápidamenteSatsuse. Ese es el plan de todos modos."
+"Yamamoto Akuji (talking)";"いんや、そうとも限らねえさ。
+ところでよ、ずっと気になってたんだが おめーのその覆面って一体何なんだ？";"No, that's not necessarily true.
+By the way, I've always wondered what that mask of yours is all about.";"No, no necesariamente.
+Por cierto, me he estado preguntando de qué va esa máscara tuya."
+"Ootani Yoshitsugu (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"この地下室、結構ムレねぇか？ 取っちまえよ、いっそ。";"Isn't this basement pretty stuffy? Take it out, for God's sake.";"¿No está este sótano bastante cargado? Sácalo, por el amor de Dios."
+"Ootani Yoshitsugu (talking)";"やめておけ、見ない方がいい。";"Don't do it, don't look at it.";"No lo hagas, no lo mires."
+"Yamamoto Akuji (talking)";"は？";"Huh?";"¿Ja?"
+"Ootani Yoshitsugu (talking)";"戦時中、私は空襲に遭ってな。 大火傷をした。
+ ……この覆面の下の顔は、 今では化け物同然だ。
+私の素顔を見てなお、 人間扱いしてくれたのは 乃木大将だけだ。";"During the war, I was in an air raid. I was badly burned.…… face under this mask is like a monster now.
+Only General Nogi saw my true face and still treated me like a human being.";"Durante la guerra estuve en un ataque aéreo. Estaba muy quemado.…… cara bajo esta máscara es ahora como un monstruo.
+Sólo el general Nogi vio mi verdadero rostro y aún así me trató como un ser humano."
+"Yamamoto Akuji (talking)";"そーなのか？ 俺はそういうの、あんまし 気にしねえ方だが……
+どっちかって言うと、 あんた自身が嫌なんじゃねえのか？ 素顔晒すのがよ。";"Is that so? I don't really care about that kind of thing……
+If anything, you don't like it yourself, do you? You don't like to show your true face, do you?";"¿Es así? Realmente no me importan esas cosas……
+En todo caso, a ti mismo no te gusta, ¿verdad? Mostrando tu verdadera cara."
+"Ootani Yoshitsugu (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"うちはな、捕虜にしたヤツは一応 身元を調べたりしてるんだけどよ。
+大谷善継…… 戦前は銀幕の二枚目活劇スター。 すんげえ有名人じゃねえか。
+容貌も声も変わっちゃってっから さっぱり気が付かなかったが、 俺、あんたのファンだったんだぜ。";"I've been trying to find out the identities of the people we've taken prisoner.
+Ootani Yoshitsugu…… was a second movie star on the silver screen before the war. He's a very famous person.
+I didn't recognize you at all because you've changed your look and voice, but I used to be a fan of yours.";"Comprobamos los antecedentes de los que tomamos prisioneros.
+Ootani Yoshitsugu…… antes de la guerra, era una segunda estrella de cine en la pantalla grande. Es un gran nombre, ¿no?
+No te reconocí del todo porque has cambiado de look y de voz, pero antes era fan tuyo."
+"Ootani Yoshitsugu (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"やっぱ、元役者としては 自分の醜い顔に我慢ならないのかい？";"As a former actor, you can't stand your own ugly face?";"Como antiguo actor, ¿no puedes soportar tu propia cara fea?"
+"Ootani Yoshitsugu (talking)";"貴様の知ったことか。";"It is none of your business.";"No es de su incumbencia."
+"Yamamoto Akuji (talking)";"……怒んなよ。 こっちは別に悪気はねえんだぜ？";"Don't get mad at ……. We don't take offense.";"…… No te enfades. No nos ofendemos."
+"Ootani Yoshitsugu (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"ふー。やれやれ。";"Whew. Oh dear.";"Uf. Oh, Dios."
+"Yamamoto Akuji (talking)";"よう、覆面にーちゃん。";"Hey there, masked man.";"Oye, chica enmascarada."
+"Ootani Yoshitsugu (talking)";"……………… いつまで私をここに置いておくのだ。";"……………… How long will you keep me here?";"……………… ¿Cuánto tiempo me tendrás aquí?"
+"Yamamoto Akuji (talking)";"さー、いつまでかな。";"Well, I wonder how long it will be.";"Ahora, ¿cuánto crees que durará?"
+"Ootani Yoshitsugu (talking)";"ここは湿気が多い。 膿が止まらなくて困る。
+火傷の痕が膿むのだ。 免疫力が落ちているせいかも知れんがな。
+ここでは躰を清められんから、 どうしようもない。 お前の方まで臭うだろう。";"It is very humid here. I have a problem with pus that won't stop.
+The scars from the burns are suppurating. Maybe it's because my immune system is weak.
+I can't do anything about it because I can't cleanse my body here. It's going to stink up your side of the room.";"Aquí hay mucha humedad. Tengo un problema de pus que no para.
+Las cicatrices de las quemaduras supuran. Tal vez sea porque mi sistema inmunológico está debilitado.
+No puedo hacer nada al respecto porque no puedo limpiar mi cuerpo aquí. También lo olerás en tu lado."
+"Yamamoto Akuji (talking)";"……ま、ちょっとだけどな。";"…… Well, sort of.";"…… Bueno, más o menos."
+"Yamamoto Akuji (talking)";"なあ、あんた。 俺の部下になる気はねえか？";"Hey, you. You wanna be my man?";"Oye, tú. ¿No vas a ser mi hombre?"
+"Ootani Yoshitsugu (talking)";"……戯言を。";"…… nonsense.";"…… tonterías."
+"Yamamoto Akuji (talking)";"俺はマジで言ってんだぜ？
+あんたはそれなりに使える男だ。 良かったら俺の下についてくれよ。
+それとも……なんつーか、 乃木大将を裏切りたくないかい？";"I'm serious, okay?
+You're a good man in your own right. You can work for me if you want.
+Or ……, what do you say, you don't want to betray General Nogi?";"Lo digo en serio.
+Eres un hombre razonablemente útil. Puedes trabajar para mí si quieres.
+ ¿O quiere traicionar a…… algo, General Nogi?"
+"Ootani Yoshitsugu (talking)";"その気持ちは確かにある。
+だが乃木大将は、いついかなる時も 自分の生き方は自分で決めろと 仰っていた。
+私がアシヤに居たのも、 自分でそうしようと決めたからだ。 それ以外に理由はない。";"I certainly have that feeling.
+However, General Nogi told me to decide my own way of life at any time.
+I stayed in Asiya because I decided to do so. There is no other reason.";"Ese sentimiento está ciertamente presente.
+Pero el general Nogi me dijo que en cualquier momento debía decidir por mí mismo cómo vivir mi vida.
+Estuve en Asiya porque lo decidí por mi cuenta. No hay otra razón."
+"Yamamoto Akuji (talking)";"おお、そんじゃ……";"Oh, so it's ……";"Oh, sonya: ……"
+"Ootani Yoshitsugu (talking)";"勘違いするな。 貴様の部下になどなる気はない。";"Don't get me wrong. I have no intention of becoming your subordinate.";"No me malinterpreten. No tengo intención de convertirme en tu subordinado."
+"Yamamoto Akuji (talking)";"……あれま、やっぱし。";"…… That's it, I knew it.";"…… Eso es, lo sabía."
+"Ootani Yoshitsugu (talking)";"……しかし、私を部下にしたいなどと。
+酔狂な男だな、貴様は。";"…… But you want to make me your subordinate.
+You are a drunken man, you are.";"…… Pero quieres convertirme en tu subordinado.
+Eres un borracho, lo eres."
+"Yamamoto Akuji (talking)";"酔狂なつもりはねえけどな。 これでもきっちり算段してるんだぜ。";"I don't mean to be a drunk. I'm still doing the math.";"No quiero ser un borracho. Todavía estoy haciendo las cuentas."
+"Ootani Yoshitsugu (talking)";"……同じ事だ。";"…… same thing.";"…… Lo mismo."
+"Yamamoto Akuji (talking)";"なあ、ぼちぼち心変わりしたかい？ 部下になってくんねぇか？";"Hey, have you changed your mind yet? Will you be my subordinate?";"Oye, ¿ya has cambiado de opinión? ¿Te gustaría ser mi subordinado?"
+"Ootani Yoshitsugu (talking)";"………………
+正直に言うと、心変わりは起きつつある。";"………………
+To be honest, a change of heart is in the process of happening.";"………………
+Para ser sinceros, se está produciendo un cambio de opinión."
+"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
+"Ootani Yoshitsugu (talking)";"貴様の事は、戦後のどさくさに紛れて 権力を拡大しようとする馬鹿だとしか 思っていなかった。
+だから私は、捕まってしまえば すぐに殺されると思っていたのだが。
+ ……貴様の腹の中は、 単純に欲望だけでもなさそうだ。";"I thought of you only as a fool trying to expand your power in the throes of the postwar years.
+So I thought you would be Satsu as soon as you were caught.
+ ……It seems that you have more than just a desire for Jun in your heart.";"Sólo pensé en ti como un tonto que intentaba expandir su poder en los años de la posguerra.
+Por eso pensé que me Satsu en cuanto te atraparan.…… Parece que tienes algo más que un deseo de Jun en tu corazón."
+"Yamamoto Akuji (talking)";"欲望っつーよりかは、 愛を目一杯つめこんで動いてるつもりだ。 ま、自称だけどよ。";"I'm not saying it's a desire, but I'm working with all the love I can muster. Well, I call myself that.";"No me muevo tanto por el deseo como por el amor. Bueno, así es como me llamo a mí mismo."
+"Ootani Yoshitsugu (talking)";"自称だけにしておくべきだな。
+愛などと、その顔にこれほど 似合わぬ台詞はないぞ。";"You should only call yourself that.
+Love is such an unflattering word on your face.";"Sólo deberías llamarte así.
+El amor es una palabra que no se ajusta a tu cara."
+"Yamamoto Akuji (talking)";"はっきり言うねー。";"I'm not going to say it clearly.";"No voy a decirlo claramente."
+"Ootani Yoshitsugu (talking)";"………………
+部下になってやってもいい。";"………………
+You can be my subordinate and do it.";"………………
+Puedes hacerlo como subordinado."
+"Yamamoto Akuji (talking)";"お、マジか！？";"Oh, seriously?";"¿En serio?"
+"Ootani Yoshitsugu (talking)";"ただし、条件がある。";"However, there are conditions.";"Sin embargo, hay condiciones."
+"narrator";"大谷は覆面に手をかけ、悪司に素顔を見せた。
+焼け爛れ、溶け落ちた顔の皮膚。 鼻骨や歯が剥き出しになった、その顔を──";"Ootani put his hand on his mask and showed his true face to Akuji.
+The skin of his face was burned and melted away. The face, with its exposed nasal bones and teeth…";"Ootani puso las manos en su máscara y mostró su verdadero rostro a Akuji.
+La piel de su cara estaba quemada y derretida. Su cara, con los huesos nasales y los dientes expuestos…"
+"Yamamoto Akuji (talking)";"……うわ、すげーなおい。 自分で化け物面って言うだけあらぁ……";"…… Wow, that's awesome. You just call yourself a monster face……";"…… Wow, eso es increíble, hombre. Sólo te llamas a ti mismo cara de monstruo……"
+"Ootani Yoshitsugu (talking)";"……ふ。 そういう言葉を吐くと思っていた。
+この素顔を見た後で、私と握手できれば 貴様の部下になってやろう。
+だが無理に決まっている、そんな事は……";"…… Huh. I knew you would say those words.
+If you can shake my hand after seeing my true face, I will become your subordinate.
+But that's impossible, of course……";"…… Huh. Sabía que dirías esas palabras.
+Si puedes estrechar mi mano después de ver mi verdadero rostro, me convertiré en tu subordinado.
+Pero por supuesto que es imposible, eso no es posible……"
+"Yamamoto Akuji (talking)";"……へっ？ 何だよ、そんな簡単な事でいいのか？
+握手するする、シェイクハンドＯＫＯＫ。 じゃこれで契約成立な。";"…… heh? What, you sure it's that simple?
+Shake hands, shake hands, shake hands OK OK. Then we have a deal.";"…… ¿Eh? ¿Qué, es así de simple?
+Estrechar la mano, estrechar la mano OK. Entonces tenemos un trato."
+"narrator";"悪司は言い、大谷の両手を取って固く握りしめた。";"Akuji said, taking both of Ootani's hands and holding them tightly.";"dijo Akuji y tomó las dos manos de Ootani y las sujetó con fuerza."
+"Ootani Yoshitsugu (talking)";"……………………
+貴様……私が気持ち悪くないのか。";"……………………
+You…… are not sick of me?";"……………………
+Ustedes…… no están hartos de mí?"
+"Yamamoto Akuji (talking)";"ただの火傷だろ？ そこまで気にすんなよ。
+第一、俺は戦場に居たからな。 もっとひでぇ死体とかも見てきたしよ。
+ ……おっと、 死体と一緒にしちゃ、あんたに悪いな。 すまねえ。";"It's just a burn, right? Don't worry about it that much.
+First of all, I was in the battlefield. I've seen worse corpses.
+I've seen worse corpses…… Oh, I feel bad for you with the corpses. Sorry.";"Es sólo una quemadura, ¿verdad? No te preocupes tanto por eso.
+En primer lugar, estaba en el campo de batalla. He visto cadáveres peores.…… Oops, me siento mal por ti con los cadáveres. Lo siento."
+"Ootani Yoshitsugu (talking)";"………………いや、気にしていない。";"……………… No, I don't care.";"……………… No, no me importa."
+"Yamamoto Akuji (talking)";"普段は覆面被ってくれてんだしさ、 もうそれで充分。ぜーんぜんＯＫだぜ。
+そうやって、必要以上に周囲を 怖がらせないようにしてんだろ？ ハナっから解ってるさ。";"They usually wear masks, and that's enough for me. I'm totally fine with it.
+You're trying not to scare people more than you have to, aren't you? I know what I'm doing.";"Suelen llevar máscaras, y con eso me basta. Me parece muy bien.
+Así no asustas a la gente más de lo necesario, ¿no? Sé lo que estoy haciendo."
+"Ootani Yoshitsugu (talking)";"………………";"………………";"………………"
+"Yamamoto Akuji (talking)";"いやー、俺の周囲ってよ、 見た目はまともでも中身がヘンなのとか 結構多くてなー。
+あんたは逆に、 中身がすんげーまともそうで 何かとホッとするよ。";"Well, I'm surrounded by a lot of people who look normal on the outside but are weird on the inside.
+You, on the other hand, seem so sane on the inside, which is a relief.";"Bueno, estoy rodeado de mucha gente que parece normal por fuera pero que es rara por dentro.
+Tú, en cambio, pareces tan cuerdo por dentro que es un alivio."
+"Ootani Yoshitsugu (talking)";"……………… 自分では、何とも言えないが……";"……………… I can't say for myself, but ……";"……………… No puedo decirlo por mí mismo, pero ……"
+"Yamamoto Akuji (talking)";"さて、一応再確認するぜ。 あんたは俺の部下になってくれたって そう思っていいのかい？";"Now, just to reconfirm. Am I correct in assuming that you've become my employee?";"Ahora, sólo para reconfirmar. ¿Estoy en lo cierto al suponer que ahora eres mi hombre?"
+"Ootani Yoshitsugu (talking)";"……ああ、お前を信用することにしよう。";"…… Yeah, I'll give you credit.";"…… Sí, voy a confiar en ti."
+"Yamamoto Akuji (talking)";"……そこを退け。 さもなくば後悔することになるぞ。";"…… retreat there. Or you will regret it.";"…… Retiro allí. O lo lamentarás."

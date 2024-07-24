@@ -1,0 +1,1813 @@
+"character";"jap text";"Eng";"Esp"
+"__system__??";"{麦 = 1:";"";""
+"__system__??";"{☆吹雪 = 10:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 2:";"";""
+"__system__??";"{B忠誠タイプ = 3:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 3:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 4:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 10:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 11:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 12:";"";""
+"__system__??";"{H愛欲抵抗 <= H愛欲:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 13:";"";""
+"__system__??";"{H物欲抵抗 <= H物欲:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 15:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 16:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 18:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 5:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 19:";"";""
+"__system__??";"}";"";""
+"narrator";"山林吹雪　こましでるかい？ 　　デバッグ（";"Sanrin Fubuki Komashidarou ka? 　　Debugging (";"Sanrin Fubuki Komashidekas de komanai? 　　Depuración ("
+"narrator";"）";"）";"）"
+"Yamamoto Akuji (talking)";"………………
+ ……ったく、やっと来やがったか。";"…………………… Oh, man, you're finally here.";"…………………… Oh, querida, por fin estás aquí."
+"Sanrin Fubuki (talking)";"………………ぜーはー、ぜぇ……";"……………… ze ha, ze ……";"……………… ze ha, ze ……"
+"Yamamoto Akuji (talking)";"おいコラ、おせーぞ吹雪。 呼び出しかけてから どんだけ経ったと思ってんだ？";"Hey, hey, hey, hey, Fubuki. Do you know how long it's been since I called you out?";"¡Oye, oye, oye, oye! ¿Cuánto tiempo crees que ha pasado desde que te llamé?"
+"Sanrin Fubuki (talking)";"すみません、ちょ……ちょっと、 ちょっとだけ……遅れました……
+ …………っく、う…… ぜぇ、ぜぇっ……";"I'm sorry, I'm a little…… bit, just a little…… late ……
+ …………kkk, ugh…… zzzz, zzzz……";"Lo siento, estoy un poco ……, un poco…… tarde……
+ …………kkk, u…… ze, ze ……"
+"Yamamoto Akuji (talking)";"……？ 何でそんな息切らしてんだ、おめー。";"……? Why are you so out of breath, dude?";"……? ¿Por qué te quedas sin aliento, mierdecilla?"
+"Sanrin Fubuki (talking)";"せ、折角ですから……そ、その、 少し……と、遠回りして、 ランニングして……こようかと…………";"Well, I thought I'd take a little…… detour and go for a…… run …………";"He pensado en desviarme un poco de…… y salir a correr y…… …………"
+"Yamamoto Akuji (talking)";"……んっだよ、情けねーのな。 ランニング程度でゼハゼハ言うな。";"……, you're pathetic. Don't be soppy about running.";"……… Eres patético. No zecha por correr."
+"Sanrin Fubuki (talking)";"……りょ、両手に……その、 五キロのパワーリストつけて……
+あ、足は……十キロの、鉄ゲタで……
+そ、それで…… ぜ……全力疾走、したのが…… ま、間違いでした…………
+ …………おえっ……";"……Li, in both hands ……, you put on a five-kilogram power wrist ……
+And my feet were…… ten kilos of steel gaiters……
+I ran as fast as I could with that,…… and it was a mistake,…… ……………… oh……";"……Li, en cada mano…… llevas una muñeca de cinco kilos de potencia ……
+Y mis pies eran…… polainas de acero de diez kilos……
+Corrí tan rápido como pude con eso,…… y fue un error,…… ……………… oh……"
+"Yamamoto Akuji (talking)";"……………… アホか、おめー。";"……………… You're an idiot, dude.";"……………… Idiota, tú."
+"Sanrin Fubuki (talking)";"そ、そんな事……言われても、 私、ランニングの時は……いつも、 こんな、感じ……ですから……
+ ……げほっ、げほげほっ………… うー、喉の奥で血の味がするぅ……";"Well, even if you…… say that, I always…… feel like this…… when I go running, so… …
+I'm always like this when I'm running,…… and I can taste the blood in the back of my throat,…………";"Bueno, no sé si tú…… me puedes decir eso, pero yo siempre…… me siento así…… cuando estoy corriendo… ……… gee, gee, gee………… oooh, puedo saborear la sangre en la parte posterior de mi garganta……"
+"Yamamoto Akuji (talking)";"………………
+おめーさあ、こんだけ鍛錬してて 何であんなに弱いんだ？";"………………
+You know, you train so hard, how come you're so weak?";"………………
+Sabes, entrenas tan duro, ¿cómo es que eres tan débil?"
+"Sanrin Fubuki (talking)";"そ、そんなの…… 私なんか、まだまだですから……";"Oh, no. I'm not ready for that…… I'm not ready for that……";"Oh, no…… No estoy preparado para eso……"
+"Yamamoto Akuji (talking)";"……謎すぎる…………";"…… too mysterious …………";"…… demasiado misterioso …………"
+"Yamamoto Akuji (talking)";"……おう、来たな。 時間ピッタリだ。";"…… Oh, you're here. You're right on time.";"…… Oh, estás aquí. Llegas justo a tiempo."
+"Sanrin Fubuki (talking)";"………ぜーはー、ぜぇ…… す、すっ飛ばして来ましたから……";"……… ze ha, ze…… ze…… ze ha, ze…… ze ha, ze…… ze ha, ze…… ze ha, ze…… ze ha, ze ……";"……… ze ha, ze…… ze…… ze ha, ze…… ze ha, ze…… ze ha, ze…… ze ha, ze…… ze ha, ze ……"
+"Yamamoto Akuji (talking)";"汗だくだもんな、見りゃ解るよ。";"You're all sweaty, I can see that.";"Estás todo sudado, ya lo veo."
+"Yamamoto Akuji (talking)";"ほれ吹雪、俺の部屋へ行くぞ。";"Here Fubuki, let's go to my room.";"Aquí Fubuki, vamos a mi habitación."
+"Sanrin Fubuki (talking)";"えっ、あ…………
+ …………もぉ…… もっとロマンチックに 言ってくれてもいいのに……";"What, oh…………
+ …………Moh…… you could have said it more romantically……";"Eh, oh…………………… también…… podrías haberlo dicho de una manera más romántica……"
+"Yamamoto Akuji (talking)";"ロマンチックに言わなきゃダメか？";"Do I have to say it romantically?";"¿Tengo que decirlo románticamente?"
+"Sanrin Fubuki (talking)";"ううん、そんな事ない…… ……抱いて下さい…………";"No, not at all…… …… Please hold me …………";"No, en absoluto………… Por favor, abrázame…………"
+"Yamamoto Akuji (talking)";"よしよし。
+柔軟体操の代わりになるくらい、 すんげー体位でヤってやるからな。";"Okay, okay, okay, okay.
+I'll fuck you in positions so amazing that you'll be able to replace Misao in flexibility.";"Vale, vale.
+Te voy a follar en una posición tan buena que ocupará el lugar de la flexibilidad de Misao."
+"Sanrin Fubuki (talking)";"……やだもう、悪司さんのエッチ……";"…… Oh my god, Akuji's sex……";"…… Oh no, Akuji's sex……"
+"Sanrin Fubuki (talking)";"山林吹雪は、悪司に抱かれた。";"Sanrin Fubuki was embraced by Akuji.";"Sanrin Fubuki fue abrazado por Akuji."
+"Yamamoto Akuji (talking)";"しっかし、修行ばっかやってて面白いか？ 人生、他にも楽しみあんだろ。";"But, are you a Haku? There are other things to do in life.";"Shikkari, ¿no haces más que entrenar o eres un Haku enmascarado? Tienes otras cosas que hacer en la vida."
+"Sanrin Fubuki (talking)";"？　例えば何が？";"What?　Like what?";"?　Por ejemplo, ¿qué?"
+"Yamamoto Akuji (talking)";"セックス。";"Sex.";"El sexo."
+"Sanrin Fubuki (talking)";"うわっ最低。";"Wow, that sucks.";"Vaya, eso apesta."
+"Yamamoto Akuji (talking)";"それを最低という根性が解らん。 何なら天国見せてやろうか？";"I don't understand the guts to call it the worst. If you want, I can show you heaven.";"No entiendo las agallas para llamarlo lo peor. Si quieres, puedo mostrarte el cielo."
+"Sanrin Fubuki (talking)";"遠慮しますっ。
+人として、安易に快楽を得ようだなんて そもそも間違ってるんです！
+エッチしてる小一時間の時間があれば、 腕立てや腹筋が何回できますか？ マラソン何キロ走れますか？";"I'll pass.
+As a human being, it is wrong to try to get pleasure so easily in the first place!
+How many push-ups and sit-ups can you do in an hour while having sex? How many marathons can you run?";"Yo paso.
+ ¡Como ser humano, es un error tratar de obtener placer tan fácilmente en primer lugar!
+ ¿Cuántas flexiones y abdominales puedes hacer en una hora mientras tienes sexo? ¿Cuántos maratones puede correr?"
+"Yamamoto Akuji (talking)";"……セックスの快楽を、 ランナーズ・ハイで 代用しようってのか……";"……Substitute the pleasures of sex for a runner's high: ……";"…… ¿Intentas sustituir los placeres del sexo por un subidón de corredor? ……"
+"Sanrin Fubuki (talking)";"私はもっともっと 強くならなきゃいけないんだから！ 色事に溺れている暇はないんです！";"Because I have to be more than that, I have to be stronger than that! I don't have time to drown myself in colorful affairs!";"Tengo que ser más que eso, tengo que ser más fuerte que eso. No tengo tiempo para detenerme en cosas de color."
+"Yamamoto Akuji (talking)";"…………ま、頑張れや。";"………… Well, good luck with that.";"………… Bueno, buena suerte con eso."
+"Yamamoto Akuji (talking)";"ほれ、ボーナスだ。 好きに使え。";"Here's your bonus. Use it as you like.";"Toma, aquí está tu bono. Gástalo como quieras."
+"Sanrin Fubuki (talking)";"わっ………… こ、こんなにいっぱい……
+こ、これ、 本当に好きに使っていいんですか？";"Wow!………… So many! ……
+Can I really use this as I like?";"Wow………… Tantos……
+ ¿Estás seguro de que puedes usar esto como quieras?"
+"Yamamoto Akuji (talking)";"おめーにやった金だ、とーぜん。";"It's the money I gave you.";"Es el dinero que te di, y - y - y - y - y - y."
+"__system__??";"{RND = 1:";"";""
+"Sanrin Fubuki (talking)";"よ……良かった！ 腹筋マシーンとベンチプレスと 新しいサンドバッグが欲しかったの~！";"Good thing I have ……! I needed an abdominal machine, a bench press, and a new sandbag~!";"¡Yo…… bueno! ¡Necesitaba una máquina de abdominales, un press de banca y un nuevo saco de arena~!"
+"__system__??";"}";"";""
+"__system__??";"{RND = 2:";"";""
+"Sanrin Fubuki (talking)";"あ……ありがとうございます！ これでランニングシューズとグローブと 空手家養成ギブスが買える~！";"Oh, thank you ……! Now I can buy running shoes, gloves, and a karate trainer's cast~!";"¡Oh, gracias por ……! ¡Ahora podré comprarme zapatillas de correr, guantes y gibas de entrenamiento de karate~!"
+"__system__??";"}";"";""
+"__system__??";"{RND = 3:";"";""
+"Sanrin Fubuki (talking)";"ふ……ふふふふ………… 二泊三日のロッコウ修行登山ツアーに これで参加できるわ！！";"I'm going to be on a three-day, two-night Rokko training mountaineering tour with this one!";"Hmmm……… Hmmm…………… ¡Ahora puedo ir a un tour de escalada de entrenamiento de tres días y dos noches de Rocco Rocco!"
+"__system__??";"}";"";""
+"Yamamoto Akuji (talking)";"……………… 全部、躰鍛える事に使う気か……";"……………… You're going to spend it all on bodywork: ……";"……………… Lo vas a gastar todo en entrenamiento corporal……"
+"Sanrin Fubuki (talking)";"そうですけど、それが何か？";"Yes, but so what?";"Sí, pero ¿y qué?"
+"__system__??";"{☆吹雪 < 12:";"";""
+"Yamamoto Akuji (talking)";"無駄遣いだ…… 無駄遣い以外の何でもねぇ……";"It's a waste of money…… It's nothing but a waste of money……";"Es una pérdida de dinero…… No es más que una pérdida de dinero……"
+"__system__??";"}";"";""
+"__system__??";"{☆吹雪 > 11:";"";""
+"Yamamoto Akuji (talking)";"まあ、成果出てるみたいだしな。 頑張れや。";"Well, it looks like it's paying off. Keep up the good work.";"Bueno, parece que está dando sus frutos. Sigan con el buen trabajo."
+"__system__??";"}";"";""
+"Yamamoto Akuji (talking)";"よう、激弱ねーちゃん。 地下に閉じこめられた気分はどう……";"Hey there, weakling. How does it feel to be trapped underground? ……";"Oye, pequeño debilucho. ¿Qué se siente al estar atrapado bajo tierra? ……"
+"Sanrin Fubuki (talking)";"死ねーーー悪漢めーーーーーー！！";"Die you evil thug!!!!!!!!!!!!!!!!!!!!!!!!!!!";"¡¡¡¡Muere - matón malvado!!!!"
+"narrator";"連れて来られると同時に、 吹雪は悪司に向かって飛びかかった！";"As soon as he was brought in, Fubuki leapt at Akuji!";"En cuanto lo trajeron, Fubuki se abalanzó sobre Akuji."
+"Sanrin Fubuki (talking)";"くらえーーーーー！！ じゃぶ、じゃぶ、りばーぶろー！ かかとおとしーーーーーーー！！
+ずつき、ずつき、ずつきーーーーー！ うちまたすかし、かいなひねり、 ろっこうざんおろしーーーーーー！！";"Kuraeeeeeee!!!! Jabu, jabu, river bathoooooooooooooooooooooooooooooooooooo! Heel drop!
+Zutsuki, zutsuki, zutsuki! Uchimata-sukashi, kaina-hiki, rokkozan-oshiroshi!";"¡¡¡Kuraeeeeeeeee!!! ¡Jabu, jabu, ri-ba-ba-ba! ¡Caída de tacón!
+ ¡Zutsuki, zutsuki, zutsuki! ¡Uchimata sukashi, kaina hiki, rokkozan oroshiroshi!"
+"Yamamoto Akuji (talking)";"やかましい。";"Noisy.";"Ruidoso."
+"narrator";"　　［ぺちっ］";"[snip]";"[snip]"
+"Sanrin Fubuki (talking)";"はうあっ…………しおしおしお……";"Hauah………… Shishioshishio ……";"Hauah…………Shishioshishio……"
+"Yamamoto Akuji (talking)";"頭を一発しばいただけで よくもそんなに効くなぁ……
+この弱さ、マジで天然記念物級だな。 ……ほれ、しっかりしろ、立て。";"How can you be so effective just by Ippatsu shivving your head ……
+This weakness, you're a real natural treasure……Here, get a grip, get up.";"¿Cómo puedes ser tan eficaz sólo con Ippatsu en la cabeza? ……
+Esta debilidad, es un verdadero tesoro natural…… Aquí, agárrate, levántate."
+"Sanrin Fubuki (talking)";"うっ…………うううっ…… うううううううっ…………
+ ……うえええええええん………… うえええええええええええん………";"Ugh………… ugh…… ugh…… ………… uuuuuuuu………… uuuuuuuuuuuuuuuu…… …";"Ugh………… ugh…… ugh…… ……
+  …"
+"Yamamoto Akuji (talking)";"……武道家みたいなカッコしたまま 泣くんじゃねぇ。ハズいから。";"…… Don't cry while dressed like a martial artist. It's not funny.";"…… No llores mientras pareces un artista marcial. Porque no es divertido."
+"Sanrin Fubuki (talking)";"ひ……ひっく、ひっく………… もう帰して……帰してよぉ…………！
+私は道場に戻って、 お父様の跡を継ぐんだからぁ……！";"Hi…… hiccup, hiccup………… let me go home already…… let me go home! …………!
+I'm going back to the dojo to follow in your father's footsteps……!";"Hola……hikk, hikk………… ¡mándame a casa ya…… mándame a casa! ¡…………!
+Vuelvo al dojo y sigo los pasos de tu padre……"
+"Yamamoto Akuji (talking)";"はーやれやれ。";"Ha, dear.";"Ja, ja, buen rollo."
+"Yamamoto Akuji (thinking)";"しかしこいつ、どうしたもんかね……
+普通はこういう武道家みたいなヤツは 戦力になって重宝するんだが……
+ ……………………ならんな、戦力には。
+まあ、元気だけは人一倍ありそうだが ……うーん、どうしてくれよう。";"But what's up with this guy? ……
+Usually, guys like this martial artist are useful in the war effort……
+I don't think he's a good fighter……………………
+Well, he seems to have more energy than most people…… Well, what should we do with him?";"¿Pero qué le pasa a este tipo? ……
+Normalmente los tipos como este artista marcial son útiles en la fuerza……
+No es…………………… una fuerza a tener en cuenta.
+Bueno, parece que tiene más energía que la mayoría de la gente…… Hmm, ¿qué debería hacer con él?"
+"Yamamoto Akuji (talking)";"よう、激弱ねーちゃん。 今日は飛びかかってこねぇのか？";"Hey there, you weakling. You didn't jump on me today, did you?";"Oye, debilucho. Hoy no has saltado sobre mí, ¿verdad?"
+"Sanrin Fubuki (talking)";"悔しいけど……今の私じゃ あなたに勝てないから……
+でも……でもきっと、 あなたを斃してみせるんだから！";"I'm sorry, but…… I can't beat you right now……
+But…… I'm sure I can still beat you!";"Lo siento, pero…… no puedo ganarte ahora……
+Pero…… ¡Estoy seguro de que voy a morirte!"
+"Yamamoto Akuji (talking)";"叶わぬ夢だと思うぞー。";"I think it's a dream that's not going to come true!";"Creo que es un sueño que no se va a hacer realidad."
+"Yamamoto Akuji (talking)";"あんまり益はないかもしれねぇが…… ま、ヤることヤっとくか。";"It may not do much good…… Well, let's just do what we have to do.";"Puede que no sirva de mucho…… Bueno, sigamos con ello."
+"Sanrin Fubuki (talking)";"？？？ な、なに言ってるのよ……";"What are you talking about? What are you talking about? ……";"???? ¿De qué estás hablando? ……"
+"Yamamoto Akuji (talking)";"まあ気にするな。";"Well, never mind.";"Bueno, no importa."
+"Sanrin Fubuki (talking)";"ち、ちっ……近寄らないでよ…… ちょ、ちょっとちょっと……";"Hey, hey, hey…… don't come near me…… Hey, hey, hey……";"Hey, hey…… no te acerques a mí…… Hey, hey, hey ……"
+"Yamamoto Akuji (talking)";"まあいいから。まあまあ。";"Well, that's okay. Well, well, well.";"Bueno, sólo está bien. Oh, bueno."
+"Sanrin Fubuki (talking)";"や…………やだちょ……やあああっ？！ 何してるのよおおおおおっ！！";"Ya………… yadacho…… yaaaah? What are you doing?";"Ya………… yadacho…… yaaaah? ¿Qué estás haciendo?"
+"Yamamoto Akuji (talking)";"まーまー、まーまーまー。 いいからいいからじっとしとけ。";"Ma-ma-ma-ma-ma. Just hold still, just hold still.";"Ma-ma-ma-ma. Sólo, sólo, sólo quédate quieto."
+"Sanrin Fubuki (talking)";"あ………………ああっ………… ………………ぁ…………
+ …………あン…………☆";"a………………aa………… ………………a…………
+ …………an…………☆";"a………………aa………… ………………a…………
+ …………an…………☆"
+"Sanrin Fubuki (talking)";"山林吹雪は、こまされた。";"Sanrin Fubuki was Komedo.";"Sanrin Fubuki fue Komed."
+"Yamamoto Akuji (talking)";"なあ、おめーなんか 欲しいもんとかあんのか？";"Hey, is there anything you want?";"Oye, ¿quieres algo?"
+"Sanrin Fubuki (talking)";"？？？";"？？？";"？？？"
+"Yamamoto Akuji (talking)";"服でも宝石でも金塊でもいいぜ、 そいつを都合してやるから、 俺の部下に…………
+ ……いや、待て。
+こいつ相手に、何百万、いや何十万、 いやいや数万円かかっただけでも 俺的には赤字だよなー……";"I don't care if it's clothes, jewelry, or gold, I'll get it to you, and you'll get it to my guy……………… No, wait.
+I'll get you the clothes, the jewelry, the gold, I'll get you the guy, I'll get you the guy, I'll get you my guy.";"No me importa si es ropa, joyas u oro, yo te lo daré, y tú se lo darás a mi hombre……………… No, espera.
+Incluso si me cuesta millones, o cientos de miles, o incluso decenas de miles de dólares para hacer frente a este tipo, sigue siendo una pérdida para mí… ……"
+"Sanrin Fubuki (talking)";"ど……どういう意味よ。";"What do you mean by ……?";"¿Qué significa ……?"
+"Yamamoto Akuji (talking)";"人間の価値は相対的なんだ。 俺個人の判断だから気にするな。";"Human value is relative. It's my personal judgment, so don't worry about it.";"El valor humano es relativo. Es mi decisión personal, no te preocupes."
+"Sanrin Fubuki (talking)";"………………………… 何だか、バカにされてる気がする……";"………………………… I feel like I'm being made fun of……";"………………………… Me siento un poco estúpido……"
+"Yamamoto Akuji (talking)";"なあ、おめーは結局、 強くなりたいってのが目的な訳だよな？";"You know, in the end, you just want to be strong, right?";"Mira, después de todo quieres ser fuerte, ¿verdad?"
+"Sanrin Fubuki (talking)";"そうだけど……それが何よ。";"Yes, but…… so what.";"Sí, pero…… y qué."
+"Yamamoto Akuji (talking)";"だったらおめー、 俺の部下になってここで働け。";"Then you'll be my subordinate and work here.";"Entonces trabajarás para mí aquí."
+"Sanrin Fubuki (talking)";"どっ、どうしてそうなるのよおっ！ 誰があなたみたいな悪漢の下で……";"How could you do that? Who would want to be under the thumb of a scoundrel like you ……";"¿Cómo pudiste hacer eso? ¿Quién querría estar bajo el pulgar de un sinvergüenza como tú ……"
+"Yamamoto Akuji (talking)";"強くなるには、 実戦重ねるのが一番はえぇからな。
+今みたいな情勢不安のオオサカで 管理組合に入れば、闘う相手に 不自由しねぇぜ。どうよ？";"The best way to get stronger is to fight more fights.
+If you join a management association in an unstable country like Osaka, you'll have no shortage of opponents to fight with. What do you think?";"La mejor manera de hacerse más fuerte es librar más combates.
+Si te unes a una asociación de gestión en un país inestable como el que tenemos ahora, no te faltarán adversarios contra los que luchar. ¿Qué te parece?"
+"Sanrin Fubuki (talking)";"な、なるほど……一理あるかも。
+う~ん…………うう~ん…… うううううううう~~~~ん…………
+ ……解ったわ、部下になる。 ここで強くなって、道場主として ふさわしい実力を身につけるんだから！";"Oh, I see…… You may have a point.
+Ummm…………… Ummm……… Ummm… ~~~~ Ummm……… ………… I get it, I'll be your man. I'm going to get stronger here, and I'm going to be competent enough to be a dojo master!";"Oh, ya veo…… Puede que tengas razón.
+Ummm………… Ummm…… Ummm…… Ummm ~~~~ Ummm…… ………… Lo entiendo, seré tu subordinado. Me haré más fuerte aquí, ¡me volveré lo suficientemente competente para ser un maestro de dojo!"
+"Yamamoto Akuji (talking)";"よしよし、いいガッツだ。 頑張れよー。";"Okay, okay, good guts. Good luck!";"Muy bien, muy bien, buenas agallas. Buena suerte."
+"Sanrin Fubuki (talking)";"ええ、バリバリ闘うんだから！";"Yes, I'm fighting like a fighter!";"¡Sí, vamos a luchar como locos!"
+"Yamamoto Akuji (thinking)";"……なーんつっても、 戦力としては全然アテにしてねぇけどな。
+当面は事務処理でもやらせよう。 給料分だけ働かせりゃＯＫだしな。
+で、それすら使えなかったら……
+ ……まあ、 途中で捨てりゃいいわな。";"I don't rely on…… as an asset at all, though.
+For the time being, I'll let them do paperwork. I'm OK with it as long as they work for their paycheck.
+And if I can't even use them, I'll just dump them on the way to ………… Well, we can throw them away on the way.";"……, pero no contamos con ellos como fuerza de combate en absoluto.
+De momento, que hagan el papeleo. Me parece bien que sólo trabajen por su sueldo.
+Y si ni siquiera pueden usar eso, ………… Bueno, puedes tirarlos por el camino."
+"Yamamoto Akuji (talking)";"…………吹雪、こっち来い。";"…………Fubuki, come here.";"…………Fubuki, ven aquí."
+"Sanrin Fubuki (talking)";"えっ、な……何で…………";"What, what…… why …………";"Qué, na…… por qué …………"
+"Yamamoto Akuji (talking)";"来たくないのか？";"Don't you want to come?";"¿No quieres venir?"
+"Sanrin Fubuki (talking)";"…………
+意地悪……";"…………
+Yiji悪 ……";"…………
+Yiddishkeit ……"
+"narrator";"吹雪が歩み寄ってくると、 悪司は彼女の躰をぎゅっと抱きしめた。";"When Fubuki walked up to her, Akuji hugged her body tightly.";"Cuando Fubuki se acercó a ella, Akuji se abrazó a su cuerpo con fuerza."
+"Sanrin Fubuki (talking)";"あ…………";"As …………";"Como …………"
+"Yamamoto Akuji (talking)";"……吹雪、俺の女になれ。 いいな？
+そして、俺のために働いてくれ。";"……Fubuki, be my woman. Okay?
+And work for me.";"……Fubuki, sé mi mujer. ¿De acuerdo?
+Y trabajar para mí."
+"Sanrin Fubuki (talking)";"…………はい…… 悪司さんが望むなら……
+ああ、私……女に生まれた悦びを 今この時感じています……";"If………… yes…… Akuji you want ……
+Oh, I…… feel the pleasure of being born a woman at this moment……";"Si………… sí…… Akuji quiere ……
+Oh, yo…… siento el placer de haber nacido mujer en este momento……"
+"Yamamoto Akuji (talking)";"うんうん、そーかそーか。";"Yeah, yeah, yeah, yeah.";"Sí, sí, sí, sí."
+"Sanrin Fubuki (talking)";"武道家である前に、 私も一人の女だったんです……
+ああ、もう離れられない…… 悪司さん…………";"Before I was a martial artist, I was a woman too……
+Oh, I can't stay away anymore………… Akuji …………";"Antes de ser un artista marcial, era una mujer también……
+Oh, no puedo irme ahora………… Akuji …………"
+"Yamamoto Akuji (talking)";"よしよし、んじゃ事務所に行くぞ。 まずは給与明細の整理を手伝ってくれ。";"All right, all right, then I'm going to the office. First, help me sort out the payroll.";"Muy bien, muy bien, entonces iremos a la oficina. Primero, ayúdame a ordenar la nómina."
+"Sanrin Fubuki (talking)";"………………はい？
+あ、あの、抱いてくれないんですか？ 私もう準備ＯＫなんですけど……";"……………… Yes?
+Oh, um, won't you hold me? I'm already ready……";"……………… ¿Sí?
+Oh, um, ¿no me abrazas? Ya estoy listo……"
+"Yamamoto Akuji (talking)";"ちゃんと働いてくれたらな。 ご褒美で抱いてやる。";"If you work hard. I'll hold you as a reward.";"Si trabajas bien. Te retendré como recompensa."
+"Sanrin Fubuki (talking)";"………………うう、ちょっと不満……";"……………… ugh, I'm a little frustrated ……";"……………… ugh, un poco frustrante ……"
+"narrator";"オオサカ最強と唱われた熱拳流格闘術、 その総本山がここ、熱拳道場である。
+最盛期には四つの支部を持ち、三百名を下らない 大勢の門下生たちが日々汗を流していた。
+支部はもう残っていないのだが、 幸いにもこの本部だけは戦火を免れていて、 今も武を志す者たちに対し門戸が開かれている。
+ ──だが。";"The headquarter of the Ateken style of fighting, which is considered the strongest in Osaka, is here at the Ateken Dojo.
+At its peak, the dojo had four branches and a large number of students, not less than 300, who worked hard every day.
+The branches no longer exist, but fortunately, this headquarters has been spared from the war and is still open to those who aspire to become martial arts fighters.
+But…";"La sede del arte de lucha Nekken-ryu, considerado el más fuerte de Osaka, se encuentra aquí, en el Nekken Dojo.
+En su apogeo, el dojo contaba con cuatro sucursales y un gran número de alumnos, no menos de 300, que trabajaban duro cada día.
+Ya no quedan sucursales, pero afortunadamente esta sede se salvó de la guerra y sigue abierta a quienes deseen convertirse en luchadores de artes marciales.
+Lo único es que…"
+"seinen (talking)";"それじゃ……お世話になりました。 お嬢さんもお元気で。";"Well then, thank you for your help at ……. Take care and good luck to your daughter.";"Pues bien, gracias por su ayuda en ……. Cuida también de tu hija."
+"Sanrin Fubuki (talking)";"ちょ、ちょっと……！ ちょっと待ってってば！
+お願い、考え直して！ あなたが最後の門下生なのよ！？ 今辞められたら…………";"Hey, hey, hey, ……! Wait a minute!
+Please, think again! You're my last student! If you quit now, …………";"¡Oye, oye, oye, ……! ¡Un momento!
+Por favor, piénsalo de nuevo. ¡Eres mi último alumno! Si lo dejas ahora, …………"
+"seinen (talking)";"……これでも僕は、 我慢し続けてきたんですよ。
+あなたのお父さんが…… 山林風雪（さんりん・ふうせつ）先生が 戦地で玉砕して………………
+そして、師範や師範代も 同じように帰らぬ人に……
+事実上、熱拳道場は 戦時中に終わっていたんです。
+先生や師範への恩義だけで 今まで居残っていましたけど、もう…";"…… even in this, I have continued to endure.
+Your father was…… Sanrin Fusetsu sensei was crushed on the battlefield and………… ……
+And Shihan and Shihanjo never returned as well……
+In effect, the Ateken Dojo ended during the war.
+I stayed until now only because of my indebtedness to Sensei and Shihan, but now…";"…… incluso en esto, he seguido aguantando.
+Tu padre…… Sanrin Fusetsu sensei fue aplastado en el campo de batalla y………… ……
+Y Shihan y Shihanjo nunca volvieron de la misma manera……
+Efectivamente, el Dojo Ateken se acabó durante la guerra.
+Me quedé hasta ahora sólo por mi deuda con Sensei y Shihan, pero ahora…"
+"Sanrin Fubuki (talking)";"そんな哀しいこと言わないでよぉ！
+お願い、私もっと頑張るから、 昔みたいにお弟子さんが来てくれるように 一生懸命修行して強くなるからっ……
+お願いだから……行かないで…………";"Don't be so sad!
+Please, I'll work harder, I'll train hard and become stronger so that you can come to me like you did in the past……
+Please don't go to…… …………";"¡No estés tan triste!
+Por favor, me esforzaré más, entrenaré duro y me haré más fuerte para que puedas venir a mí como antes……
+Por favor, no vayas a…… …………"
+"seinen (talking)";"………………
+あぁもう泣くなってこの、 ここまで来たらウゼーだけだってば。 いっそはっきり言ってやろっか？";"………………
+I'm just so sick of this crying. I'm not going to say it out loud and clear.";"………………
+He llegado hasta aquí y soy un gran idiota. Voy a decirlo alto y claro."
+"Sanrin Fubuki (talking)";"………………ほ、ほへ……？";"………………ho, ho, hohe……?";"………………ho, hohe……?"
+"seinen (talking)";"あんたなー、弱すぎんだよ。 ほんとに風雪先生の娘さんなのか？ ぜんっぜん信じられねぇよ。
+悪いこと言わねぇからさあ、 武道なんかやめちまいなって。 才能ゼロなんだからさー。";"You know, you are too weak. Are you really Mr. Fuyuki's daughter? I don't believe you at all.
+I don't say anything bad about you, you should quit martial arts. You have zero talent.";"Tú… eres demasiado débil. ¿Eres realmente la hija de Fūyuki-sensei? No te creo en absoluto.
+No diré nada malo de ti, sólo que dejes las artes marciales. Tienes cero talento."
+"Sanrin Fubuki (talking)";"……あ…………あう……";"……Ah…………a……";"…… a………… a ……"
+"seinen (talking)";"要するにな、 俺みたく一度でもマジメに 武道を志した身だとな……
+あんたみたいなヤツの下で 稽古しなきゃなんないこと自体が すんげー恥なわけ。解る？";"In short, for someone like me who once seriously aspired to become a martial artist, ……
+It's a shame that I have to train under a guy like you. Do you understand?";"La cuestión es que, para alguien como yo que una vez quiso seriamente convertirse en un artista marcial, ……
+Tener que entrenar a las órdenes de un tipo como tú es una vergüenza en sí misma. ¿Lo entiendes?"
+"Sanrin Fubuki (talking)";"………………が~~~~ん………………";"………………Ga~~~~n……… ………";"………………Ga~~~~n……… ………"
+"seinen (talking)";"“お願い響君っ！ 　お父様の道場を潰したくないのぉ！”
+ ……だけでやっていけるほど、 世の中甘くねぇんだからさっ。ね？
+な、いい男みっけて家庭にでも入れって。 ウィミィ的に自立した女目指すにしても 他にいくらでも職業あるしさ。";"”Please, Hibiki-kun! 　I don't want to ruin your father's dojo!”
+The world isn't so sweet that you can get by on…… alone, you know. Right?
+You should find a good man and go into a family. Even if you want to be an independent woman, there are plenty of other jobs out there.";"”¡Por favor, Hibiki! 　¡No quiero arruinar el dojo de tu padre!”
+El mundo no es tan fácil como para salir adelante sólo con ……. ¿Verdad?
+Deberías encontrar un buen hombre y unirte a una familia. Incluso si quieres ser una mujer independiente, hay muchos otros trabajos ahí fuera."
+"Sanrin Fubuki (talking)";"ああああ…………だあああああ……";"Ohhhh it's………… ohhhh it's ……";"Ahhhh …………. ahhhhh ……"
+"seinen (talking)";"んじゃっ、そういう事で。 元気でやんなよ~、吹雪ちゃ~ん。";"Well, I guess that's that then. Take care, Fubuki-chan~.";"Pues bien, eso es todo. Que estés bien, Fubuki-chan~."
+"Sanrin Fubuki (talking)";"………………
+ど、どうしよう…… ほんとに私だけになっちゃった……
+ぐすっ……ううっ、ひっく………… どうしよう、どーしたらいいんだろう……
+ ………………
+ …………ま……負けないもん、 私はお父様の娘なんだもん、 へこたれたりしないんだからっ。
+たとえ独りきりになったって、 熱拳道場は続けていくんだからっ！
+ ………………
+ ……うえええええええん………… 続けていくんだからぁ…………";"………………
+Oh my god…… it's really just me ……
+Gosh…… ugh, hiccup………… what should I do, what should I do… …
+ ………………
+I won't lose,………… or…… I'm your father's daughter, I won't give in.
+Even if I'm all alone, I'll keep the dojo going!
+ ………………
+  ……";"………………
+ ¿Qué debo hacer?…… En realidad soy yo ……
+Gosh…… Ugh, hipo………… Qué debo hacer, qué debo hacer… …
+ ………………
+No voy a perder, soy la hija de tu padre, no voy a ceder.
+Incluso si estoy solo, ¡mantendré el Dojo del Puño Caliente en marcha!
+ ………………
+  ……"
+"narrator";"彼女──山林吹雪は、 その場にへたり込んで大声で泣き始めた。
+そして、泣きながら思う。 私の人生にドン底の時期があるというのなら、 今がその時に違いない、と。
+同時に彼女は、なけなしのガッツを振り絞る。 ドン底にまで落ちたのなら、 あとは上がっていく一方なんだから、と。
+だが、彼女の人生のドン底には、 まだまだ、まだまだ、 深く暗い先があったのだった──";"She Sanrin Fubuki slumped down on the spot and cried loudlyHajime.
+And as she cried, she thought. If there was ever a time in my life when I was at the bottom, this must be it.
+At the same time, she also squeezes what little guts she has left. If I've hit rock bottom, there's only one way left to go, she thought.
+But the bottom of her life still had a long, deep, dark way to go…";"Ella ─ Sanrin Fubuki se desplomó en el lugar y lloró con fuerza Hajime.
+Entonces, mientras llora, piensa. Si alguna vez hubo un momento en mi vida en el que toqué fondo, debe ser ahora.
+Al mismo tiempo, también sacude las pocas agallas que le quedan. Si he tocado fondo, sólo hay una forma de subir.
+Pero el fondo de su vida aún está por delante, más profundo y oscuro que nunca…"
+"Sanrin Fubuki (talking)";"……よおし、ランニングを兼ねた 新聞配達と牛乳配達のアルバイト、 とりあえず終わり！
+さあ、稽古よ稽古、修行よ、特訓よ！ たとえ独りでも、一日たりとも サボったりしないんだから！
+たあ！　正拳突き！　せあ！　裏拳！ ハイキック、ローキックーーーー！！";"…… Okay, I'm done with my running, newspaper delivery and milk delivery jobs for now!
+Now, practice, practice, practice, practice! Even if I'm alone, I won't skip a single day!
+Taa!　Shokken-dori!　Seah!　Urafist! High kick, low kick!";"…… ¡Bueno, por ahora he terminado con mis trabajos a tiempo parcial de corredor, repartidor de periódicos y de leche!
+Ahora, ¡practica, practica, practica, practica! Aunque esté solo, no me saltaré ningún día.
+ ¡Taa!　¡Shokkunjutsu!　¡Sea!　¡Urafista! ¡Patada alta, patada baja!"
+"tattooed yakuza (talking)";"…………御免。";"………… imperial exemption.";"………… Exención real."
+"Sanrin Fubuki (talking)";"えっ……あ、はーい。 どちらさまで…………";"What?…… Oh, yes. Which is …………";"¿Qué?…… Oh, sí. Que es …………"
+"tattooed yakuza (talking)";"……何と、若い娘が一人きりか。 今日はこの道場、稽古を休んでいるのか？";"…… What, a young girl all alone? Is this dojo, today, closed for training?";"…… ¿Qué, una chica joven sola? ¿Este dojo, hoy, está cerrado para entrenar?"
+"Sanrin Fubuki (talking)";"むっ、失礼な！　休んでませんっ！";"Mwah, that's rude!　I'm not resting!";"¡Mamá, eso es grosero!　¡No estoy descansando!"
+"tattooed yakuza (talking)";"休んでいないのなら好都合。
+我の名は山田太郎と申す。 年齢三十二歳、好きな食べ物はババロア。 趣味は道場破りだ。";"If you're not resting, that's good.
+My name is Yamada Tarou. I am 32 years old, and my favorite food is Bavarois. My hobby is breaking into dojos.";"Si no estás descansando, es conveniente.
+Me llamo Yamada Tarou. Tengo 32 años y mi comida favorita es el bavarois. Mi afición es entrar en los dojos."
+"Sanrin Fubuki (talking)";"…………趣味悪いんですね、おじさん。";"………… You have bad taste, uncle.";"………… Tienes mal gusto, tío."
+"tattooed yakuza (talking)";"おじさんって言うな！
+とにかく、遠方で山林風雪どのの 高名を耳にし、是非一度手合わせをと 七泊八日の旅を経て参った次第。
+という訳で。 道場主の山林風雪どのはいずこに？";"Don't call me uncle!
+Anyway, I had heard of the fame of Sanrin Fuyuki-dono from afar, and I was eager to have a meeting with him.
+So, here I am. Where is the master of the dojo, Sanrin Kazeyuki?";"¡No me llames tío!
+De todos modos, había oído hablar de la fama de Sanrin Fusetsu-dono desde lejos, y vine aquí tras un viaje de siete noches y ocho días para tener un encuentro con él.
+Así que, por esta razón. ¿Dónde está el maestro del dojo, Sanrin Fuyuki-dono?"
+"Sanrin Fubuki (talking)";"……あ、お父様なら、 出征先で頭の上に爆雷おっこちてきて 死んじゃったんですけど……";"……If you're talking about your father, he was killed when a mine exploded on his head while he was away on a tour of duty……";"…… Oh, si es tu padre, murió cuando le explotó una mina en la cabeza mientras servía en la guerra……"
+"tattooed yakuza (talking)";"なんとーーーーーーーーーーーー！？";"Howooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!";"¡¡¡¡¡¡¡Oh, Dios mío!!!!!!!"
+"Sanrin Fubuki (talking)";"でも立派な最期だったんですよっ、 現地の子供を守ろうとして 盾になったんですからっ！";"But it was a noble end, because he became Tate to protect the local children!";"¡Pero fue un final noble, porque se convirtió en un Tate tratando de proteger a los niños locales!"
+"tattooed yakuza (talking)";"む、むう……そうか。 それはお悔やみ申し上げる……
+では、この道場で最も強い者を 呼んで頂きたい。";"Mm, mmm……… I see. I am sorry to hear that……
+Now, I would like you to call upon the strongest person in this Dojo.";"Mmm, mmm…… Ya veo. Lamento escuchar eso……
+Ahora, me gustaría que llamaras a la persona más fuerte de este Dojo."
+"Sanrin Fubuki (talking)";"…………どうして？";"…………Why?";"………… ¿Por qué?"
+"tattooed yakuza (talking)";"どうしてってあんた、 さっき趣味は道場破りって言ったの 聞いとらんかったのか？";"Why, didn't you hear what I said earlier about my hobby being a dojo-breaker?";"¿Por qué, no me escuchaste cuando dije que mi pasatiempo era irrumpir en los dojos?"
+"Sanrin Fubuki (talking)";"………………
+どっ、どどどどど道場破りーーーー！？ うっそーーーーーーーー！！";"………………
+Do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do! Noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!";"………………
+Do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do! ¡¡¡Woooooooooooooooooooooooooooooooooooo!!!"
+"tattooed yakuza (talking)";"嘘って言われても…… 名高い熱拳道場なら道場破りくらい しょっちゅう来るだろうに…………
+まあ、いいから、ほれ。 早く道場で一番強い奴連れてこい。";"Even if they say it's a lie,…… a renowned hot fist dojo would probably get dojo break-ins all the time…………
+Well, just go ahead. Bring the strongest guy in the dojo.";"Aunque digan que es mentira,…… un dojo de renombre de nudillos calientes probablemente obtendría dojo-breakers todo el tiempo…………
+Bueno, adelante, aquí. Trae al tipo más fuerte del dojo."
+"Sanrin Fubuki (talking)";"………………私よ。";"……………… It's me.";"……………… privado."
+"tattooed yakuza (talking)";"何？";"What?";"¿Qué?"
+"Sanrin Fubuki (talking)";"だって、 道場で一番強い人って言われても、 私だけなんだもん。";"I'm the only one who is the strongest in the dojo.";"Porque soy la única persona en el dojo que es la más fuerte."
+"tattooed yakuza (talking)";"む……小娘と思っていたが、 何という自信よ……！";"I thought you were a…… little girl, but what confidence you have ……!";"Pensaba que eras una niña de ……, pero ¡qué confianza tienes ……!"
+"Sanrin Fubuki (talking)";"自信……？";"Confidence ……?";"Confianza ……?"
+"tattooed yakuza (talking)";"他の門下生をさしおいて、 “最強と言えば私しかいない”と こうも胸を張って言い切るとは！";"I am the only one who can say “I am the strongest” in front of all the other students!";"¡Soy el único que puede decir que soy el más fuerte!"
+"Sanrin Fubuki (talking)";"あ、あの……あのね、そうじゃなくて、 私しかいないって言うのは、 単に事実を述べたまでで…………";"Oh, uh,…… you know, it's not that, it's not that, it's just that I'm the only one, I'm simply stating a fact…………";"Oh, um,…… ya sabes, no es eso, no es eso, es sólo que soy el único, simplemente estoy afirmando un hecho…………"
+"tattooed yakuza (talking)";"事実を述べたまでだと……！？ そこまで己が腕に 覚えがあると言うのか、娘よ！";"You think I'm just stating a fact ……? You're that good at what you do, girl!";"¡Dices que sólo estás constatando un hecho ……! ¡Eres así de buena en lo que haces, chica!"
+"Sanrin Fubuki (talking)";"いや、だから、そのぉ……
+ ……ええいもう、面倒臭いなぁ。 あなたと勝負すればいいのよね？";"No, so, you know… ………… Eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee! I should just play you, right?";"No, así que, ya sabes, oh ………… ¡Eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee! Sólo tengo que jugar contigo, ¿verdad?"
+"tattooed yakuza (talking)";"その通りよ、娘！
+ ……ときに、 勝負前の作法として聞いておく。 お主の名は何と申す？";"That's right, girl!
+When you are at ……, I'll ask you a few questions as a pre-game etiquette. What is your name?";"¡Eso es, chica!
+Cuando estés en ……, te haré algunas preguntas como etiqueta previa al combate. ¿Cómo te llamas?"
+"Sanrin Fubuki (talking)";"えっ？　山林吹雪だけど……";"What?　I'm Fubuki……";"¿Qué?　Fubuki pero ……"
+"tattooed yakuza (talking)";"なるほど、そうか……！ 風雪どのの娘子という訳か！
+面白い、ならば風雪どのの血脈たる証、 とくと見せてもらおうではないか！
+いざ、勝負！";"I see… I see… ……! So you are the daughter of Lord Fusetsu!
+Haku, then let's just see the proof of Fuyuki's bloodline!
+Let's play!";"Ya veo… ya veo… ¡……! ¡Así que eres la hija del Señor Fusetsu!
+ ¡Entonces veamos la prueba del linaje de Fuyuki!
+ ¡Luchemos!"
+"Sanrin Fubuki (talking)";"応っ！！";"Yes!";"¡Oui!"
+"tattooed yakuza (talking)";"まずは小手調べ！ 空手チョーーーーーーーーーップ！";"First, a little hand search! Karate chooooop!";"Primero, un pequeño control de manos. ¡Karate chooooop!"
+"narrator";"　　［びしいいいいいっ！！］";"[screaming]";""
+"Sanrin Fubuki (talking)";"…………………………きゅう……ばたん。";"…………………………yu…… batan.";"…………………………yu…… batan."
+"tattooed yakuza (talking)";"………………
+勝った……のか？
+ちょ、ちょっと待てーーーい！ 勝負開始から三秒も経って おらんではないかーーーーーーー！！
+こ、これで最強か…… こんな奴と闘いたくて、 七泊八日の旅をしてきた訳では……
+ ……あほらしい、田舎へ帰ろう…………";"………………
+You won ……?
+Wait a minute! It hasn't even been three seconds since Hajime opened the match!
+This is the strongest…… I didn't travel for 7 nights and 8 days to fight with this guy ………… I'll go back to the countryside…………";"………………
+ ¿Has ganado ……?
+ ¡Un momento! ¡No han pasado ni tres segundos desde que Hajime empezó la pelea!
+Este es el más fuerte…… No viajé durante siete noches y ocho días para luchar contra este tipo………… Es una estupidez, volvamos al campo…………"
+"narrator";"──数時間後。
+気絶し、ぴくりとも動かなかった吹雪が、 ようやく両の目を開けた。";"Several hours later, Fubuki, who had fainted, finally opened both of his eyes.
+Fubuki, who had fainted and was not moving at all, finally opened both eyes.";"─ ─ Unas horas más tarde.
+Fubuki, que se había desmayado y no se movía en absoluto, finalmente abrió los dos ojos."
+"Sanrin Fubuki (talking)";"あ……あいたたたたた………………
+あっ、あれっ？ 道場破りは！？
+ ………………
+そ、そうか…… 私、負けちゃったんだ……
+ああっ、お父様ごめんなさい…… 私、道場の看板に泥を塗っちゃった……！
+くそー！　くそーーーーー！！ くそおおおおおおおおおおーーーー！！
+ ………………
+ ……うえええええええん………… 負けちゃったよおおお………… うえええええええええええん………";"Ah…… ah ah ah ah ah ah ah ah ah ………………
+Oh, that? The dojo breaker!
+ ………………
+Oh, I see…… I lost……
+Oh, I'm sorry father…… I've tarnished the dojo's sign……!
+Damn!　Damn! Damn oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh!!!
+ ………………";"Ah…… ah ah ah ah ah ………………
+Ah, ¿qué es eso? ¡El rompehielos!
+ ………………
+Oh, ya veo…… he perdido……
+Lo siento, padre…… He manchado el cartel del dojo……
+ ¡Joder!　¡¡Carajo!! ¡Joder!
+ ………………"
+"narrator";"──その日も道場では、 山林吹雪が無駄な稽古を繰り返していた。";"─ ─ That day, too, Sanrin Fubuki was practicing in vain in the dojo.";"─ ─ Ese día, Sanrin Fubuki también estaba practicando en vano en el dojo."
+"Sanrin Fubuki (talking)";"せいっ、せいっ、せいいいいいっ！ 破！　破っ！　はああっ！
+ ………………ぜえ、ぜえっ…… つ、疲れた、ちょっと休憩……";"Come on, come on, come on, come on, come on! Break!　Break!　Aaah!
+ ………………Zee, zee…… Tired, I'm tired, take a break! ……";"¡Vamos, vamos, vamos, vamos, vamos! ¡Rompan!　¡Rompan!　¡Aaah!
+ ………………Zee, zee…… tsa, estoy cansado, ¡toma un descanso! ……"
+"Yume's Manservant (talking)";"……おや？　お嬢さん。";"…… Oh?　Miss.";"…… ¿Oh?　Señorita."
+"Sanrin Fubuki (talking)";"………………？";"………………？";"………………？"
+"Yume's Manservant (talking)";"まだ稽古を続けていらしたのですか？ あれほど無駄だと申しましたのに……";"You are still practicing? I told you it was useless……";"¿Sigues practicando? Te dije que era inútil……"
+"Sanrin Fubuki (talking)";"…………きっ……きっさまーーーーーー！ 熱拳七人衆！　この裏切り者ーーーーっ！";"…………kkk……kissamaaaa! Seven hot fists!　You traitors!";"¡…………kkk……kissamaaaa! ¡Siete puños calientes!　¡Traidores!"
+"Yume's Manservant (talking)";"裏切り者とは言いがかりですよ。 我ら七人はきちんと断ってから辞めて、 こうして各人けじめをつけて顔を……";"Calling us traitors is a false accusation. We seven properly refused and then quit, and thus each of us can put a face to a face with a clear conscience……";"Llamarnos traidores es una acusación. Los siete nos negamos debidamente y luego renunciamos, y así cada uno de nosotros puede ponerle cara a un rostro de forma clara……"
+"Sanrin Fubuki (talking)";"うるさーーーーーいっ！！";"Shut up!";"¡Cállate la boca!"
+"Yume's Manservant (talking)";"あと、私はもう 熱拳七人衆ではありません。 那古神様の僕その四です。";"Also, I am no longer one of the Seven of Hot Fist. I am Nako God's servant No. 4.";"Además, ya no soy uno de los siete de Hot Fist. Soy el siervo de Dios Nako nº 4."
+"Sanrin Fubuki (talking)";"うるさいうるさいうるさいうるさい、 うーーるーーさーーーーーーーいっ！！
+あなたたちねえ、そこまで強くなったのは 誰のお陰だと思ってるのよっ！ お父様のお陰でしょうに！
+その上、戦地で生き残って 何とか帰ってきてくれた たった七人だけの高弟だったのにいっ！
+あなたたちが中心になってくれたら 道場の再興なんてすぐだったのにいっ！
+これが……これがっ、 裏切り者でなくって何なのよおっ！";"Shut up, shut up, shut up, shut up, shut up!
+Who do you think made you so strong? It's because of your father!
+Besides, you were the only seven high disciples who survived the war and managed to come back!
+If you had taken the lead, the dojo would have been rebuilt in no time!
+If this…… isn't a traitor, what is?";"¡Cállate, cállate, cállate, cállate, cállate!
+ ¿Quién crees que te hizo tan fuerte? ¡Es gracias a tu padre!
+Además, ¡ustedes fueron los únicos siete altos discípulos que sobrevivieron a la guerra y lograron regresar!
+Si hubieras tomado la iniciativa, el Dojo habría sido reconstruido en poco tiempo.
+Si este…… no es un traidor, ¿qué es?"
+"Yume's Manservant (talking)";"そんなこと言われたって……ねえ。 那古神様が大事なんですから 仕方ないじゃないですか。";"Even if you say that,…… ain't it. Nakojin is very important to us, so it can't be helped.";"Incluso si dices eso,…… hey. Nako Dios es importante, así que no se puede evitar."
+"Sanrin Fubuki (talking)";"あーもう！　那古教、那古教、 由女だの聖女だのって、何よっ！
+いらいらするー！　ムカつくー！！ あんなイカサマ宗教なんかーーー！！";"Oh, my God!　Nakokyou, Nakokyou, Yume, what a saint!
+It's so irritating!　They piss me off! That cheating religion!";"¡Oh, Dios mío!　Nakokyou, Nakokyou, Yume, ¿qué eres, una santa?
+ ¡Es tan irritante!　¡Me cabrean! ¡Esa religión tramposa!"
+"Yume's Manservant (talking)";"……那古神様のお教えを馬鹿にしたり、 軽々しくご尊名を口にしないで下さい。 いくらお嬢さんでも怒りますよ？";"……Do not mock the teachings of Nakojin and do not speak his name lightly. Even if you are a young lady, you will get angry.";"……No te burles de las enseñanzas de la Diosa Nako ni pronuncies su nombre a la ligera. Incluso la joven se sentirá ofendida."
+"Sanrin Fubuki (talking)";"何が怒りますよ、よっ！ それこそこっちの台詞よ！！
+だいたい、裏切り者が今更、 この熱拳道場に何の用なのよっ！";"What are you mad at me for, yo! That's exactly what I'm talking about!
+What the hell do traitors want with this hot fist dojo?";"¿Por qué estás enfadado? ¡Eso es exactamente de lo que estoy hablando!
+ ¿Qué demonios quiere un traidor con este dojo caliente después de todo este tiempo?"
+"Yume's Manservant (talking)";"ああ、ロッカーの上の方に、 ポンカンアメが隠したままだったのを 思い出しまして。
+那古神様は時々お菓子を口になさるので 差し上げたらお喜びになるかなあ、と。";"Oh, I remembered that I had left some ponkan candy hidden in the top of my locker.
+Nako-sama sometimes likes to eat sweets, so I thought it would make him happy if I gave it to him.";"Oh, me acordé de que tenía algunos caramelos ponkan escondidos en la parte superior de mi casillero.
+A Nako-sama a veces le gusta comer dulces, así que pensé que le haría feliz si te lo daba."
+"Sanrin Fubuki (talking)";"そっ……その程度のことで、 よくもノコノコと！
+その態度、ぜーーーったい許せないっ！ 今は亡きお父様に代わって 私が教育し直してやるーーーーーっ！！";"That…… is the least you can do!
+That attitude is unforgivable! I will educate you again on behalf of your late father!!!!!!!!!!!!!!!!";"Eso…… es todo lo que hay.
+ ¡Esa actitud es imperdonable! ¡En nombre de tu difunto padre, te educaré de nuevo!"
+"narrator";"吹雪は、由女の僕その四に飛びかかった。";"Fubuki jumped on Yume's Manservant its four.";"Fubuki saltó sobre Yume's Manservant sus cuatro."
+"Sanrin Fubuki (talking)";"…………むんずと胸ぐらを掴んで！
+くらえっ、背負い投げ！";"………… grab him by the chest!
+Kurae, backstrap!";"………… ¡mecaniza y agárralo por el pecho!
+ ¡Kurae, a la espalda!"
+"Yume's Manservant (talking)";"…………………………";"…………………………";"…………………………"
+"Sanrin Fubuki (talking)";"あ……あれ？ こ、この……びくとも……
+なんの、諦めないんだから！ せおいなげ、せおいなげっ、 せおいなげーーーーーーーーっ！！";"Oh…… that? This…… is a little ……
+I'm not giving up! Seoi nage, seoi nage, seoi nage!";"Oh…… ¿eso? Este…… es un poco ……
+ ¡No me voy a rendir! ¡Seoi nage, seoi nage, seoi nage!"
+"Yume's Manservant (talking)";"…………………………";"…………………………";"…………………………"
+"Sanrin Fubuki (talking)";"ぜえっ、ぜえっ……この、 攻め方を変える必要がありそうね！
+たあっ！ おおそとがり、からてちょっぷ！ きっく、きっく、きっくーーーーー！！";"Geez, geez,…… this, I guess we need to change up the offense!
+Taaah! Oh, that's right! Kikkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk!";"¡Caray, caray, ……, creo que tenemos que cambiar la forma de atacar esta cosa!
+ ¡Taaah! ¡Oh, no, no, no, no! ¡Kikku, kikku, kikkuoooo!"
+"Yume's Manservant (talking)";"…………………………
+ ……吹雪お嬢さん。 あなたのお父上の風雪師匠は そりゃもう本当に、鬼のように強かった。
+でも、あんた弱すぎ。";"…………………………
+ ……Madam Fubuki. Your father, Master Fuyuki, was really strong like a demon.
+But you are too weak.";"…………………………
+ ……Fubuki Señorita. Tu padre, el maestro Fuyuki, era muy, muy fuerte como un demonio.
+Pero eres demasiado débil."
+"narrator";"由女の僕その四は、 飛んでいる蚊でもしばき落とすように 吹雪の頭をペチッと叩いた。";"Yume's Manservant, the fourth, slapped Fubuki on the head as if he were a flying mosquito.";"Los cuatro sirvientes de Yume golpearon a Fubuki en la cabeza, como si quisieran ahuyentar a un mosquito."
+"Sanrin Fubuki (talking)";"…………………………きゅう……ばたん。";"…………………………yu…… batan.";"…………………………yu…… batan."
+"Yume's Manservant (talking)";"はぁ…… ダメすぎて何も言えん…………";"Huh…… Too bad I can't say anything …………";"Huh…… Lástima que no pueda decir nada al respecto…………"
+"narrator";"──数時間後。 気絶し、ぴくりとも動かなかった吹雪が、 ようやく両の目を開けた。";"Several hours later, Fubuki, who had fainted, finally opened both of his eyes. Fubuki, who had fainted and was not moving at all, finally opened both eyes.";"─ ─ Unas horas más tarde. Fubuki, que se había desmayado y no se movía en absoluto, finalmente abrió los dos ojos."
+"Sanrin Fubuki (talking)";"あ……あいたたたたた………………
+ ………………
+ま、また……また負けちゃった…………
+うえ…………うええええええええん。 うえええええええええええええん……
+口惜しい……口惜しいよぉ………… もっと、もっと強かったら…………
+ ……ひっく、ひっく………… どうして、どうしてよぉ………… 私、お父様の娘なのにいぃ………………
+うええええええええん…… うえええええええええええええん……";"A……Atta-ta-ta-ta-ta ………………
+ ………………
+Well, I lost again…… again…………
+Ue…………ueeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee. 
+I'm sorry I'm sorry I'm sorry I'm sorry I'm sorry I'm sorry I'm sorry I'm sorry I'm sorry I'm sorry…… I wish I was stronger………… I wish I was stronger…… ………… Hiccup, hiccup………… Why, why oh why………… I'm your father's daughter………………";"A……AttaTaTaTaTaTa………………
+ ………………
+Bueno, he perdido de nuevo…… He perdido de nuevo …………
+Ue…………ueeeeeeeeeeeeeeeeeeeeeeeeeeee. 
+Siento decirlo…… Siento decirlo………… Me gustaría ser más fuerte…… ………… Hipo, hipo………… Por qué, por qué oh por qué………… Soy la hija de tu padre………………"
+"narrator";"山林吹雪はその日、額に薄汗をにじませて、 一人懸命に広い道場へ雑巾をかけていた。";"Sanrin Fubuki, with a light sweat on his forehead, was working hard that day to put a rag over the large dojo.";"Sanrin Fubuki, con un ligero sudor en la frente, se afanaba aquel día en poner un trapo sobre el gran dojo."
+"Sanrin Fubuki (talking)";"…………ふう、ふう…… や、やっと半分……
+私一人しかいないし、 モップにしたら楽だと思うけど……
+ ……お父様、吹雪はきちんと お父様の言いつけを守っています。 モップなんか絶対使いません。
+掃除も、稽古の内なんだから。 正しい心と真の強さは 綺麗な道場でないと育まれないんだから…
+ふう、ふう…………ふう…… よいしょ、よいしょ………………";"………… Fuu, Fuu…… Ya, barely half ……
+I'm the only one here, and I think it would be easier to mop up the mess………… father, Fubuki is obeying your father's words. He never uses a mop.
+Cleaning is part of the training. A right mind and true strength can only be nurtured in a clean dojo…
+Fu, Fu………… Fu…… Good, good, good…… …………";"………… Fuu, fuu…… ya, apenas medio ……
+Soy el único aquí, y creo que sería más fácil limpiar el desorden………… padre, Fubuki obedece las órdenes de su padre. Nunca usa una fregona.
+La limpieza forma parte de la formación. Una mente correcta y una verdadera fuerza sólo pueden ser alimentadas en un dojo limpio…
+Fu, fu…………fu…… bueno, bueno…… …………"
+" (talking)";"……へっへっへ。 美味そうなケツがゆらゆら揺れてらぁ……";"…… heh heh heh. My delicious ass is shaking……";"…… heh heh heh. Mi delicioso culo está temblando……"
+"Sanrin Fubuki (talking)";"………ひえっ！？　きゃあっ……！";"……… Hee!　Yikes ……!";"……… ¡Hee!　¡Kyah! ¡……!"
+"narrator";"突然どこからか声をかけられて、 驚いた吹雪はすってんころりと転んでしまった。
+慌てて周囲を見渡すと、いつからそこに居たのか 掃除したばかりの道場の隅に チンピラが土足で上がり込んでいた。";"Suddenly, a voice called out to him from somewhere, and the startled Fubuki fell down.
+Looking around in a panic, he saw a punk with his feet in the corner of the dojo, which had just been cleaned.";"De repente, una voz le llamó desde algún lugar, y el sorprendido Fubuki cayó al suelo.
+Miró a su alrededor, asustado, y vio que un matón se había metido en un rincón del dojo que acababa de limpiar con los pies."
+"Chinpira (talking)";"おいおいねぇちゃん、どんくさいね。 綺麗なケツに傷がつくぞ？";"Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey. You're gonna scratch my beautiful ass, aren't you?";"Oye, oye, oye, oye, oye, oye, oye, oye, oye, oye, oye, oye, oye, oye, oye, oye, oye, oye. Vas a rascar mi hermoso trasero, ¿no?"
+"Sanrin Fubuki (talking)";"こっ、こらああああああああっ！ 神聖な道場に土足で入っちゃダメーっ！ うんこ座りもやめなさーーーーい！！";"Hey, hey, hey, hey! You can't enter the sacred dojo with your feet in the dirt! And don't sit on your feces!";"¡Oye, oye, oye, oye! ¡No entres en el dojo sagrado con los pies en la tierra! ¡Y deja de sentarte en tu caca!"
+"Chinpira (talking)";"おっと、そりゃ失礼。 注意書きも何もなかったんでね。";"Oops, my bad. I didn't see any warning.";"Oops, eso es grosero. No vi ninguna señal de advertencia ni nada."
+"Sanrin Fubuki (talking)";"そんなの常識でしょーーーーーが！ 学校で武道の授業やったときに 習うでしょーーー！！";"That's common sense! You learn that in martial arts class at school!";"Es de sentido común. ¡Eso se aprende en la clase de artes marciales en la escuela…!"
+"Chinpira (talking)";"へへ、俺よぉ、 学校行ってなかったからよ。";"Hehe, I haven't been going to school.";"Heh, he estado fuera de la escuela."
+"Sanrin Fubuki (talking)";"あーーもう！　ああ言えばこう言う！ 早く出ていってよ、ジャマなんだから！";"Oh, God!　I say, I do, I do, I do! Get out of my way!";"¡Oh, Dios!　¡Yo digo esto, tú dices aquello! ¡Fuera de aquí, me estorbas!"
+"Chinpira (talking)";"…………なあ、ねぇちゃん。 あんたの噂を聞いて来たんだけどよ、 いっちょ俺と勝負しようぜ。";"………… Hey, girl. I've heard rumors about you, so I thought I'd come over and have a game with you.";"………… Hey, hey, hey, hey, hey. He oído rumores sobre ti, así que he pensado en venir a echar una partida contigo."
+"Sanrin Fubuki (talking)";"勝負って……な、何よ突然！";"What's a match?…… What the hell, all of a sudden!";"Un partido es…… ¡qué, de repente!"
+"Chinpira (talking)";"へへへ…… ねぇちゃんが勝ったら 素直に出ていくからさ。";"Hehehe…… If Nee-chan wins, I'll leave honestly.";"Hehehe…… Si Nee-chan gana, me iré honestamente."
+"Sanrin Fubuki (talking)";"勝手なこと言ってないで！ あーもう、早く出ていって！";"Don't be selfish! Oh, my God, get out of here!";"¡No seas egoísta! ¡Dios mío, sal de aquí!"
+"Chinpira (talking)";"何だよ、道場主のくせに 勝負するのが怖いのか？
+こりゃおかしーや、 道場主ってのは臆病者でも務まんのか？";"What, you're a dojo owner and you're afraid to compete?
+Is it possible for a dojo owner to be a coward?";"¿Qué, eres un maestro de dojo y tienes miedo de pelear?
+ ¿Es posible que un maestro de dojo sea un cobarde?"
+"Sanrin Fubuki (talking)";"…………かちんっ。
+上等じゃない、素人のくせに！ あんたなんかに負けるもんですか！";"………… Kachin.
+You're no better than me, you amateur! I will not be defeated by you!";"………… Kachin.
+ ¡No eres mejor, aficionado! ¡No me dejaré vencer por ti!"
+"Chinpira (talking)";"おうおう、そう来なくっちゃな。";"Oh, oh, I should have come to you.";"Oh, oh, debería haber venido por ahí."
+"Sanrin Fubuki (thinking)";"そうよ、今までは私より 強い人ばっかりだっただけ。 こんなチンピラなんかにっ……";"Yes, they've all been stronger than me. To these punks……";"Sí, sólo han sido más fuertes que yo. A estos gamberros……"
+"narrator";"──そのチンピラに、 吹雪は一方的に殴られ続けてしまった。
+どう拳を突き出しても、どう蹴りを繰り出しても、 吹雪の攻撃は全て空を切った。
+そして、吹雪はがくりと膝を折る──";"Fubuki was beaten up by the thug.
+No matter how he thrust out his fists or how he kicked, all of Fubuki's attacks came up empty.
+And then, Fubuki collapsed to his knees…";"─ ─ Ese matón seguía golpeando a Fubuki de forma unilateral.
+No importaba cómo sacara los puños o cómo pateara, todos los ataques de Fubuki se quedaban en blanco.
+Y entonces, Fubuki se desplomó de rodillas…"
+"Sanrin Fubuki (talking)";"な…………何で……？ どうして、私………………";"Why do I………… have to go to ……? Why do I ………………";"¿Por qué………… tiene que ir a ……? Por qué, yo ………………"
+"Chinpira (talking)";"どうしても何も、 弱いからに決まってんだろ？
+ねぇちゃん、同じ躰を使うんだったら 武道なんかとっとと辞めて、 娼婦になった方がいいぜ？
+おっと……娼婦になるんだったら 顔は殴んねぇ方がよかったか。 悪いな、痣だらけにしちまってよ。";"Why would I do that? It's because you're weak, right?
+Hey, if you're going to use the same body, you might as well quit the martial arts and become a whore.
+Oops……… If you're going to be a whore, you shouldn't have punched me in the face. I'm sorry I left you all bruised up.";"¿Por qué? Porque eres débil, por eso.
+Oye, si vas a usar el mismo cuerpo, mejor deja las artes marciales y hazte puta.
+Oops…… Si vas a ser una puta, no deberías haberme golpeado en la cara. Lo siento, estás cubierto de moretones."
+"Sanrin Fubuki (talking)";"ぶっ……侮辱したなああっ…………！";"You insulted ………oh …………!";"¡Has insultado a……… …………!"
+"Chinpira (talking)";"どうせ立ち上がる気力もないんだろ？ イキがってんじゃねぇよ。
+さーて、じゃ一つあんたのために、 娼婦としての適性があるかどうか 俺が調べてやるよ。
+へへっ、楽しもうぜ、ねぇちゃん……";"You don't even have the energy to get up, do you? Don't be a pussy.
+Well, I'll do one thing for you, I'll see if you're fit to be a hooker.
+Heh, have fun, girl……";"De todos modos, no tienes energía para levantarte, ¿verdad? No seas marica.
+Bueno, haré una cosa por ti, veré si eres apta para ser una prostituta.
+Je, vamos a divertirnos, eh, chica……"
+"Sanrin Fubuki (talking)";"い、嫌っ……近寄らないでよ、 ちょっと、嫌だってばっ…………
+ ……いやああああああああああっ！！！";"I don't want to…… get close to you, I don't want to …………
+ ……No!";"No quiero…… acercarme a ti, no quiero ……………… ¡No, no, no, no, no, no!"
+"cg narrator";"「へへっ……おらねぇちゃん、入ったぜ。 　どうよ、俺のナニはパンチよか効くだろ？」
+ 「い……いやあっ、やだあああっ……！ 　やめ……やめてよおっ……！　やああっ……！」
+ 「そう嫌がらずにノってくれよ……な？ 　俺のツバだけじゃいずれ乾いてくるしよ……」
+必死で暴れようとする吹雪の躰を押さえ込んで、 チンピラは問答無用の抽挿を始める。
+ 「……っ、あ！　ひぐっ……！　うああっ！ 　ああっ、うあああっ！　ひうっ…………！！」
+ずっ、ずっ、と勢いをつけて強く突かれる度に、 吹雪の口から悲鳴に近い声が上がる。
+ 「……ありゃ？　ちょいと血が滲んでるな…… 　よお、ねぇちゃん。初めてだったのか？」
+ 「うっ……うううっ、ひぐううっ……！ 　は、初めてで……悪かったわねっ…………！」
+ 「いやー、悪かねえよ、悪くなんかねえさ。 　へへっ、そうかい、俺があんたの最初の男かあ」
+ 「うぅ……呪ってやるうっ、祟ってやるうっ……！ 　お、女の祟りは三代先まで続くんだからっ……」
+ 「は。ちゃんちゃらおかしいぜ。 　仮にも武道家が、敵討ちとか言う前に 　呪いや祟りにすがっちまうのか？」
+ 「……うぐ………………」
+吹雪は心底、自分の弱さを実感してしまった。
+ 「へへっ、可愛いもんだ。 　何もできねえ無力な女の典型だよな。 　へ、へへ、へへへへっ……」
+ 「う……うるさいっ……うるさいいいっ……！ 　……ひぐっ、ううっ…………！！」
+ ──吹雪は強がろうとしたが、 言葉の最後が涙にむせいで濁ってしまう。
+ 「へへっ……いいねいいね、その悔しそうな顔。 　いかにも俺が勝ったって気になるぜ」
+チンピラは吹雪の腰に手をかけた。 そして強引に、自分が動きやすい姿勢を 吹雪に強いる。
+ 「あっ……ひっ！　っう…………」
+ 「……まあ、そんなに絶望的な顔すんなよ。 　無力で可愛い女にゃ優しくしたくなるもんだ」
+ 「…………なによお……何なのよおっ……！ 　馬鹿にしないでよおっ……！」
+ 「馬鹿になんかしちゃいねえって。 　そら、精一杯優しくしてやるからさ……」
+言って、チンピラは小さく軽く腰を揺する。
+ 「…………っ、う………………っく…………」
+ 「へへっ……どうだいねぇちゃん。 　痛くねえだろ、辛くねえだろ？」
+ 「……き、気持ち悪いっ…………！ 　気色悪いのっ…………！ 　……私の中で……動くなあああっ…………！」
+ 「へへっ、その気持ち悪さが、 　いずれ気持ちよくなってくんだよ…………」
+チンピラは、黙って腰を揺すり続ける。
+吹雪の躰を、重なり合う襞の奥までを、 突き入れた自分のもので隅々まで確認するように。
+ 「…………っう、うあ…………ああっ………… 　ん…………っく、う…………っ、う……」
+吹雪は目を閉じ、奥歯を噛み締める。 そして、自分を犯すチンピラの感触に 必死で耐えようとする。
+ （こ……こんなの、永遠に続く訳……ないっ…… 　我慢しなきゃ、終わるまで…………）
+そう思って、必死で自分を励ます。
+けれど、その励ましが“どうせ自分は このチンピラに勝てっこない”という諦めから 来ていると思うと、情けなくて涙が出る。
+ （こ、の………この屈辱、忘れないんだから…… 　絶対、絶対忘れないんだからっ……）
+そして吹雪は、屈辱をバネにして強くなって、 必ずこの仇を取るのだと心に誓った。
+ ──誓ったのだが。
+ 「…………っ、あ…………っひ…………う…… 　うう、っう…………あ…………」
+あくまで優しく、 吹雪の中をほぐすように動き続けるチンピラに 成熟した吹雪の躰が反応を始めていた。
+敏感ないりぐちが擦られて、 本能を揺り起こす子宮口を繰り返し刺激されて。
+ ──屈辱を感じる自我や、強くなろうという決意が 悦楽の白い霞の中に消えていく。
+ 「ひ、あ…………ああっ、ふあっ………… 　うあ……あああッ…………ああっ…………」
+奥歯を噛み締め、引き結んでいた唇は いつしか解けて、甘い喘ぎ声を漏らし始める。
+ 「はあ、はあっ…………あ、う………… 　……っ、あ…………ああっ、っア…………」
+心臓が煩いほどに脈打ち、息が上がってくる。
+呼吸するために口が閉じられず、 開いたままの口から一筋の涎が伝い落ちる。
+そして、じっとりと肌が汗ばんでくる──
+ 「……へっ、その気になってきたな。 　俺のにもヌメヌメしたのが絡んできたぜ……」
+チンピラは、 ほんの少しだけ抽挿のペースを上げる。
+ 「……ひっ、っううッ…………！ 　ああっ、ああああっ…………ひアあっ……！」
+その、わずかな刺激の変化に、 吹雪の躰は敏感に反応する。
+強さには全く繋がっていないが、修行を通して ずっと健康を維持してきた吹雪の躰は、 女として正常に、そして充分に成熟していた。
+ ──たとえ初めてでも、牡が与えてくる悦楽に 牝として反応してしまう──
+内腿を伝うほどに溢れてきた淫水に、 もう、吹雪の破瓜の血は流れてしまっていた。
+ 「へへっ……もう充分だろ。 　……さあて、じゃあ本気で行くかあ……！！」
+チンピラが大きく腰を引く。 ──そして、吹雪の尻に自分の腰を叩きつける。
+ 「──────っひあアアアっ！！ 　うあああっ、あああっ……あハアあっ……！！」";"Hehehe…… Ola girl, I'm in. 　How's my dick work better than a punch?”
+ “No ……, no, no, no, no! 　Stop ……, stop it!　Oh, hey, ……!
+ “Don't be so reluctant to go for it, ……, okay? 　My spit is going to dry up eventually……
+The goon holds down the body of Fubuki, who tries desperately to go berserk, and the goon makes a no-questions-asked insertion of Hajime.
+ “……, ah!　Higgly ……!　Aaah! 　Aaahh!　Hiu…………!
+Every time Fubuki is thrusted strongly with a thrusting force, a voice close to a scream rises from her mouth.
+The first thing that comes to mind is that the blood is a little bit soaked.　The first time you see a woman, you'll know that she's a little bloody…… Hey there, girl. Was this your first time?”
+ “Ugh…… ugh, huuuuuuggghhhh ……! 　I'm…… sorry it was your first time, …………!
+No, it's not bad. It's not bad at all. 　Heh, well, I'm your first guy, huh?
+ “Ugh…… I'll curse you, I'll haunt you ……! 　A woman's curse lasts for three generations……
+I'll curse you, I'll curse you, I'll curse you, I'll curse you! The actuality is, it's not really a good idea to be a part of a group that is not.…… ugg………………
+Fubuki truly realized how weak he was.
+  　The most typical example of a helpless woman who can't do anything. 　Heh, heh, heh, heh ……”
+ “Shut up…… up, shut up…… up, shut up…… up!…… higg, ugh …………!!!”
+Fubuki tried to be strong, but the last part of his words were muddled by tears.
+The most important thing to remember is that you can't just go to the store and ask for a discount on a new product or service. 　It makes me feel like I'm winning.
+The thug put his hands on Fubuki's waist. 
+ “Oh, ……!　Oh …………!”
+ ……Well, don't look so hopeless. 　You want to be nice to a helpless, pretty woman.
+ “…………What's with the ……? 　Don't make fun of me, ……!
+I'm not making fun of you. 　I'll be as nice to you as I can……
+The thug shook his hips lightly.
+  …ugh ………….”
+  　It doesn't hurt, doesn't hurt, does it?
+ “……, you're disgusting …………! 　It's disgusting…………! 　Don't…… move…… inside me!
+ “Heh, that creepy feeling will eventually get better ………….”
+The goons continue to rock their hips without saying a word.
+The actual “I'm not a fan of the way you do it, but I'm not a fan of the way you do it, either.
+The first time I saw her, I thought, “I'm not going to be able to do that……… n…………… u………… ， u……”
+Fubuki closes his eyes and bites his back teeth. And he tries desperately to bear the feel of the thug who raped him.
+ (This…… can't go on forever,……, you have to endure,……, until it's over…) (………)
+ ) With this in mind, I try desperately to cheer myself up.
+But when I think that this encouragement comes from the resignation that “I can't win against this thug anyway,” I cry out of pity.
+ (This……… humiliation, I'll never forget it…… I'll never, ever forget it……)
+And Fubuki swore in his heart that he would use his humiliation as a springboard to become stronger, and he would surely take revenge.
+He swore to himself that he would be strong enough to use his humiliation as a springboard to take revenge.
+ “…………, ah………… hihi………… u…… uu,u………… ah ………….”
+The body of the matured Fubuki was reacting Hajime to the thug who kept moving gently to loosen Fubuki's inside.
+Her sensitive mouth was rubbed and her cervix, which aroused her instincts, was repeatedly stimulated.
+The humiliated ego and the determination to be strong disappear in a Haku haze of pleasure.
+ “Hi, ah………… ah ah ah ah ah ah ah ah……ah ah ah………… ah ah ………….”
+The lips that had been biting the back teeth and tied up will soon be untied, and a sweet moan will leak out and Hajime.
+  …ah, ah………… ah, ah………….”
+My heart pulses annoyingly and my breath comes in.
+My mouth is unable to close for breathing, and a single line of drool trickles down from my open mouth.
+And my skin is sweating…
+I'm starting to get into the mood. 　I've got some slimey stuff mixed in with mine……”
+The thug increases the pace of insertion just a little.
+ “……, ohhhhhh! 　Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!
+Fubuki's body reacts sensitively to this slight change in stimulation.
+The body of Fubuki, which has maintained its health through training, is normal and matured enough as a woman, although it is not connected to strength at all.
+Even if it is the first time, she reacts as a woman to the pleasure that a male gives her.
+Fubuki's broken blood was already flowing from the lewd water that was overflowing down her inner thighs.
+Hehehe…… has had enough. 　I'm going to go for real then,……!
+The thug pulls back heavily. The girl's ass was slammed against Fubuki's buttocks.
+ “────── hiaaaaaaaa! 　Uhhhh, ahhh, ahhh,…… ahhh, ……!!!”";"'Heh heh…… Ola girl, me apunto. 　Cómo está mi polla, es mejor que un puñetazo, ¿no?”
+ “¡No ……, no, no, no, no, no, no! 　Detente ……, ¡detente!　¡Eh, oh, ……!
+ “No seas tan reacio a ir a por ello, ……, ¿vale? 　Mi saliva se va a secar tarde o temprano……”
+Los matones sujetan el cuerpo de Fubuki, que trata desesperadamente de enloquecer, y el matón hace una inserción sin preguntas Hajime.
+ “……, ¡ah!　¡Higg ……!　¡Aaah! 　¡Aaahh!　Hiu…………!!!!”
+Cada vez que la boca de Fubuki es empujada con fuerza, una voz cercana a un grito sale de su boca.
+Lo primero que nos viene a la mente es el hecho de que la sangre se filtre por el ojo.　Lo primero que me viene a la mente es el hecho de que la primera vez que ves a una mujer en la misma habitación que tú es cuando la ves. ¿Fue tu primera vez?”
+  　¡Siento…… que sea tu primera vez, …………!
+No, no está mal, no está mal. 　Je, bueno, soy tu primer hombre.
+ ¡”Ugh…… te maldigo, te maldigo, te maldigo ……! 　Las mujeres están malditas por tres generaciones, …….”
+ 'Ja. La primera es la más bella. 　Aunque seas un artista marcial, antes de decir que vas a vengar a tus enemigos, ¿vas a recurrir a las maldiciones y a los embrujos?”…… ugu………………
+Fubuki sintió realmente su propia debilidad.
+ 'Je je, es una cosa linda. 　Lo más importante es que seas capaz de ver el mundo desde un ángulo diferente. 　Je, je, je, je ……”
+ '¡U…… cállate,…… cállate,…… cállate, ……!…… higg, ugh …………!!”
+La última parte de sus palabras está confundida por las lágrimas.
+La última parte de sus palabras fue confundida por las lágrimas. 　Me hace sentir que he ganado”.
+El matón puso sus manos en la cintura de Fubuki. Lo más importante que debes recordar es que nunca debes tener miedo de pedir ayuda a tus amigos y familiares.
+ '¡Oh,…… hihi!　Ugh………….”
+ '……Bueno, no parezcas tan desesperado. 　Quieres ser amable con una mujer indefensa y bonita”.
+ '………… ¿qué…… qué coño es eso? 　¡No te burles de mí, ……!
+No me estoy burlando de ti. 　Vamos, seré tan amable como pueda …….”
+El matón agitó las caderas ligeramente y con ligereza.
+Lo primero que hay que hacer es ver bien el sitio web…ugh ………….”
+ 'Hehehe…… como va, hey chica. 　No duele, no duele, ¿verdad?”
+ ¡”……, eres asqueroso …………! 　¡Es un asco …………! 　¡No…… mover…… dentro de mí!
+ “Heh, esa espeluznante situación mejorará eventualmente ………….”
+El matón sigue moviendo las caderas en silencio.
+Lo más importante es recordar que la mejor manera de sacar el máximo partido a tu coche es asegurarte de que está en el lugar adecuado en el momento adecuado.
+ '………… uu, ua………… ah………… n…………… u…………… ， u………”
+Fubuki cierra los ojos y se muerde los dientes posteriores. Y trata desesperadamente de soportar el sentimiento del matón que lo violó.
+ (Este…… no puede seguir así para siempre ……, tengo que soportarlo, hasta que se acabe…) (………)
+Con esto en mente, intentan desesperadamente animarse.
+Pero cuando pienso que este ánimo viene de la resignación de que “de todas formas no puedo ganar contra este matón”, lloro de pena.
+ (Esta……… humillación, nunca la olvidaré…… Nunca, nunca la olvidaré……)
+Y Fubuki juró en su corazón que utilizaría su humillación como trampolín para hacerse más fuerte y seguramente vengarse.
+Me juré que me vengaría por esto.
+ “…………, ah …………, hola………… u…… uu,u………… a ………….”
+El cuerpo de la madura Fubuki tuvo la reacción de Hajime ante el matón que seguía moviéndose para aflojar el interior de Fubuki, pero sólo suavemente.
+Se frotó su sensible iriguchi y se estimuló repetidamente su cuello uterino, que despertaba sus instintos.
+El ego humillado y la determinación de ser fuerte desaparecen en una bruma de placer Haku.
+ 'Hola, ah………… ah ah ah ah ah…'… ah ah ah………… ah ah ………….”
+Los labios, que habían estado mordiendo los dientes traseros y atados con fuerza, se desatan pronto, y se deja escapar una dulce voz quejumbrosa Hajime.
+ 'Haa, haa ah………… ah, ah………… … …ah, ah………… ah, ah………….”
+Su corazón late con molestia y su respiración se eleva.
+Su boca no puede cerrarse para respirar, y una sola línea de baba gotea de su boca abierta.
+Y mi piel está sudando…
+ '…… Heh, te estás metiendo en esto, ¿no? 　Yo también tengo un baboso enredado en el mío …….”
+El matón aumenta un poco el ritmo de inserción.
+ ¡'…… ohhhhhh …………! 　Ahhhhhhhhhh………… hhhhhhhh ……!”
+El cuerpo de Fubuki reacciona con sensibilidad al más mínimo cambio de estimulación.
+Lo más importante es recordar que el cuerpo de una mujer no es un cuerpo de mujer, es un cuerpo de mujer.
+Aunque sea la primera vez, reacciona como una mujer ante el placer que le proporciona un hombre…
+El agua que se desbordaba tanto que corría por el interior de sus muslos ya fluía con la sangre del melón roto de Fubuki.
+ 'Hehehe…… ha tenido suficiente.…… ¡Entonces, vamos a por ello ……!
+El matón se retira con fuerza. Luego golpeó sus caderas contra las nalgas de Fubuki.
+ ¡'────── hiaaaaaaaa! 　Uaaaah, aaaaah, aaaaah,…… ahaaaaah, ……!”"
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"Chinpira (talking)";"……ひー、ふー…… 三発か四発はヤったか。 ふー、久しぶりに満足したぜ……
+おう、喜べやねぇちゃん。 娼婦になるんならそこそこ稼げるぜ。 初めてにしちゃ感度バツグンだよ。
+へ、へへ…… へへへへへへへ……
+ ……じゃあな。";"……Hey, whew…… I must have fucked three or four times. Whew, I'm satisfied for the first time in a long time……
+Oh, you should be happy, girl. If you're going to be a hooker, you can make a lot of money. It's very sensitive for a first time.
+Heh heh heh heh heh heh heh heh ……
+See you at …….";"Me he follado a tres o cuatro…… hee, hoo…… me he follado a tres o cuatro? Uf, estoy satisfecho por primera vez en mucho tiempo……
+Oh, deberías estar feliz, chica. Si vas a ser una puta, puedes ganar mucho dinero. Para ser la primera vez, es muy sensible.
+Heh, heh…… heh, heh, heh, heh, heh ……
+Nos vemos en ……."
+"Sanrin Fubuki (talking)";"な、何て…………何て事……
+素人に……素人なんかに こんな辱めを受けるなんて…………
+お父様にあわせる顔がないよ…… …………私、駄目だ…………
+ …………うっ、うううっ……
+うええええええええん…… うえええええええええええええん……";"Oh, my God………… Oh, my God……
+I can't believe I'm being humiliated like this by an amateur…… amateur …………
+I can't face your father…… ………… I can't…… ……
+ …………Ugh, ugh……
+Uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh ……";"Oh, Dios mío………… Oh, Dios mío……
+No puedo creer que me humille así un aficionado ………………
+No puedo enfrentarme a tu padre……………… No puedo…… ……
+ …………Ugh, ugh……"
+"narrator";"道場主の山林吹雪は正座をして目を閉じ、 瞑想にふけっていた。";"The owner of the dojo, Sanrin Fubuki, was sitting in seiza, eyes closed, in meditation.";"El dueño del dojo, Sanrin Fubuki, estaba sentado erguido, con los ojos cerrados, en meditación."
+"Sanrin Fubuki (thinking)";"………………
+道場破りに負けて……
+元門下生にも負けて……
+挙げ句の果てにちんぴらにも負けた……
+こんなので、 道場主なんか務まる訳がない……
+ ………………";"………………
+Lost to a dojo breaker: ……
+Lost to a former student of mine ……
+To top it all off, he lost to Chinpira……
+How can he be a dojo master if he is like this ……
+ ………………";"………………
+Perdido por un rompedor dojo: ……
+Perdido por un antiguo alumno ……
+Y para colmo, perdió contra Chinpira……
+ ¿Cómo puede ser un maestro de dojo si es así? ……
+ ………………"
+"Sanrin Fubuki (talking)";"……特訓よ！　特訓あるのみ！ 強くなるしかないんだから！";"…… Training!　You have to train! We have to get stronger!";"…… ¡Entrenamiento!　Hay que entrenar. ¡Tenemos que hacernos más fuertes!"
+"narrator";"吹雪は立ち上がって、人を模した練習台を用意し、 それに向かって攻撃の構えを取った。";"Fubuki stood up, prepared a practice table in the shape of a person, and prepared to attack it.";"Fubuki se levantó, preparó una mesa de prácticas con forma de persona y se dispuso a atacarla."
+"Sanrin Fubuki (talking)";"まずは基本よ、基本から叩き直す！
+正拳突き三千本、始め！ せえのっ…………………………
+ ……？　誰、あの子たち……";"Let's start with the basics. Let's start over!
+3,000 Shoken-tsuki, Hajime! Seeno……………………… …
+ ……?　Who are those kids? ……";"Primero, lo básico. ¡Empecemos por lo básico!
+ ¡3.000 Shoken-tsuki, Hajime! Seeno……………………… …
+ ……?　¿Quiénes son esos niños? ……"
+"shoujo (talking)";"うわー、すごいよお姉ちゃん！ まるで体育館みたい。ひろーい！";"Wow, that's great, sis! It's like a gymnasium. It's so spacious!";"¡Vaya, eso es genial, hermana! Es como un gimnasio. ¡Es enorme!"
+"joshigakusei (talking)";"でしょう？ しかもここ、ずっと無人なの。 遊び場には丁度いいと思って。";"Right? And this place has been uninhabited for a long time. I thought it would be a good place to play.";"¿No es así? Y este lugar ha estado deshabitado durante mucho tiempo. Pensé que sería un buen lugar para jugar."
+"shoujo (talking)";"こんな立派な建物なのに、 誰も使ってないのかなあ？";"I wonder if anyone uses this magnificent building?";"Me pregunto si alguien utiliza este magnífico edificio."
+"joshigakusei (talking)";"うん、誰も居ないのは 何度も確認したんだもん、 好きに使っていいよ。";"Yes, I've checked many times to make sure no one is home, so you can do what you want.";"Sí, he comprobado muchas veces que no hay nadie en casa, así que puedes hacer lo que quieras con ella."
+"shoujo (talking)";"よおーし！　それじゃお姉ちゃん、 バスケする？　それともテニス…………";"All right!　So, sis, do you want to play basketball?　Or do you want to play tennis …………";"¡Muy bien!　Entonces, hermana, ¿quieres jugar al baloncesto?　O quieres jugar al tenis …………"
+"Sanrin Fubuki (talking)";"こっ……こらこらこらこらーーー！！";"Kokoku…… ko la ko la ko la!!!!!!!";"¡¡¡¡Kok…… ko la ko la ko la!!!!"
+"joshigakusei (talking)";"……？　あなた誰？
+ああ、私たちと一緒で、 この廃墟でスポーツしに来たんだ。";"……?　Who are you?
+Oh, he's with us. We're here to play sports in this abandoned place.";"……?　¿Quién es usted?
+Oh, está con nosotros, está aquí para hacer algo de deporte en estas ruinas."
+"Sanrin Fubuki (talking)";"違う違う、ちっがーーーーーーう！！
+ここは由緒正しい拳法道場なの！ 遊び半分のスポーツなんかに 使っちゃダメ！
+ ……って言うか、 土足で神聖な道場に上がるなーーーー！！";"No, no, no, no, no, no, no, no!
+This is a legitimate kung-fu dojo! You can't use this place for some kind of sport just for fun!…… or you can't go up to the sacred dojo with your feet on the ground!";"¡No, no, no, no, no, no, no, no!
+ ¡Esto es un verdadero dojo de kung-fu! ¡No se puede utilizar para un deporte sólo por diversión!…… o mejor dicho, ¡no subas al dojo sagrado con los pies en el suelo!"
+"shoujo (talking)";"……何、このヒステリババァ。 あたしのお姉ちゃんが先に見つけたのよ、 偉そうなこと言わないでよ~だ。";"…… What, you hysterical old hag? My sister found it first, don't you dare talk to me like that.";"…… ¿Qué, vieja histérica? Mi hermana te encontró primero, no te atrevas a hablarme así."
+"Sanrin Fubuki (talking)";"だれがババァなのよーーーーーーー！！ うら若い乙女をつかまえてーーーー！！";"Who's the old lady! Grab the young maiden!";"¿Quién es la anciana? ¡Agarra a la joven doncella!"
+"joshigakusei (talking)";"あの、あなたが誰だか知りませんけど、 言いがかりつけるのやめてくれませんか？
+この道場の先生、 戦争中に死んじゃったって聞いたし、 お弟子さんもいないじゃないですか。
+ここ、もう立派な廃墟なんですから、 誰がどう使おうと…………";"Well, I don't know who you are, but can you stop making accusations?
+I heard that the sensei of this dojo died during the war, and he has no students.
+This place is already in ruins, no matter who uses it…………";"Mira, no sé quién eres, pero ¿puedes dejar de hacer acusaciones?
+He oído que el sensei de este dojo murió durante la guerra, y que no tiene alumnos.
+Este lugar está en ruinas, no importa quién lo use…………"
+"Sanrin Fubuki (talking)";"何が廃墟よーーーーーーーーー！！！";"What ruins!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!";"¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡Qué ruina!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+"shoujo (talking)";"お、お姉ちゃん…… このババァ、頭おかしいんだよ、 きっと……";"Oh, sis…… This old lady must be crazy……";"Oh, hermana…… Esta anciana debe estar loca……"
+"joshigakusei (talking)";"そうだね……なるべく離れて、 とにかく無視して遊ぼっか。";"I agree…… Let's just ignore them and play anyway.";"Sí…… Mantengámonos lo más lejos posible de ellos e ignorémoslos de todos modos."
+"narrator";"言いながら、女学生二人はバスケットボールを ドリブルさせながら、吹雪に背中を向けた。";"With that said, the two female students turned their backs to Fubuki as they dribbled the basketball.";"Mientras decían esto, las dos alumnas daban la espalda a Fubuki mientras regateaban el baloncesto."
+"Sanrin Fubuki (talking)";"こらああああああああああああっ！ 道場の床にそんなボールを ドムドム叩きつけるなーーーー！！";"Hey! Don't slam that ball on the floor of the dojo!";"¡Oye, oye, oye, oye! ¡No golpees esa bola dom-dom-dom en el suelo del dojo!"
+"narrator";"吹雪は女学生に飛びかかって、 その手からバスケットボールを叩き落とす。";"Fubuki jumps on the female student and knocks the basketball out of her hand.";"Fubuki salta sobre una alumna y le quita una pelota de baloncesto de la mano."
+"joshigakusei (talking)";"あっ、痛い……！ この人、手叩いた……！";"Oh, ouch ……! This guy slapped his hand……!";"¡Oh, ouch ……! ¡Este tipo abofeteó su mano……!"
+"shoujo (talking)";"お姉ちゃんに何するのよ！ 馬鹿阿呆変態、野蛮人！　ババァ！";"What are you doing to my sister! You stupid pervert, you savage!　Baba!";"¿Qué le estás haciendo a mi hermana? ¡Estúpido pervertido, salvaje!　¡Baba!"
+"Sanrin Fubuki (talking)";"ええーいもう黙って聞いていれば！ 好き勝手なこと言ってーーーーーー！！
+こうなったら道場主として 礼儀知らずな人は腕ずくでも 叩き出すんだから！
+ちょっと痛いわよ、覚悟なさいっ！！";"Eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee! You can say whatever you want!
+If this happens, as a dojo master, I'll kick out anyone who doesn't have the decency to be polite, even if it means taking them by the arm!
+This is going to hurt a little, so get ready for it!";"¡Eeeeeeeeeeeeeeeeeeeeeeeeeeee! Puedes decir lo que quieras.
+Si esto ocurre, como maestro de Dojo echaré a quien no tenga modales, ¡aunque sea por la fuerza de las armas!
+Esto va a doler un poco, así que prepárate."
+"shoujo (talking)";"えっ…………あ、きゃあああああ！！";"What?………… Oh, my gosh!";"¿Qué?………… ¡Dios mío!"
+"narrator";"　　［べき！　ばき！　どか！　どげし！］";"［I should!　Baki!　Doka!　Dodekeshi!]";"［¡Debería!　¡Baki!　¡Doka!　¡Dodekeshi!]"
+"Sanrin Fubuki (talking)";"……………………きゅう…………こてん。";"……………………yu………… koten.";"……………………yu………… coten."
+"shoujo (talking)";"………………あ、あれ？";"……………… Oh, that?";"……………… Oh, ¿qué?"
+"joshigakusei (talking)";"だ、大丈夫？　怪我しなかった！？";"Hey, are you okay?　Did you hurt yourself?";"Oye, ¿estás bien?　¡No te has hecho daño!"
+"shoujo (talking)";"う、うん……怪我する暇もなかった…… 腕振り回したら勝手に倒れて……
+お姉ちゃん、私、そんなに強かったっけ？ 学校の授業でやった武道の成績、 クラスの中間くらいなんだけど……";"Umm, yeah…… I didn't even have time to get hurt…… I swung my arm around and it fell over on its own……
+Sis, was I really that strong? I'm in the middle of my class in martial arts in school……";"Umm, sí…… No tuve tiempo de hacerme daño…… Giré el brazo y se cayó solo……
+Hermana, ¿realmente fui tan fuerte? Hice artes marciales en la escuela, y estoy en la mitad de mi clase……"
+"joshigakusei (talking)";"……多分、この人が弱すぎるのね。 きっと、学生時代の武道の成績は ずっと“不可”だったのよ。";"…… Maybe he's too weak. I bet his grades in martial arts were “not acceptable” all through his school years.";"…… Tal vez sea demasiado débil. Apuesto a que sus calificaciones en artes marciales siempre fueron “no aceptables” cuando estaba en la escuela."
+"shoujo (talking)";"あー、なるほど。";"Ah, I see.";"Ah, ya veo."
+"joshigakusei (talking)";"そのくせして、道場主とか嘘ついて…… 本当に気が触れてるのかしら、この人。";"Even then, he lied about being a dojo owner or something…… I wonder if he's really out of his mind.";"Incluso entonces, mintió sobre ser propietario de un dojo o algo así…… Me pregunto si realmente está loco."
+"shoujo (talking)";"ねえ、おねえちゃん……帰ろうよ。 こんな人がいる所、なんか嫌だもん……";"Hey, girl, let's go back to ……. I don't like being in a place with people like this……";"Oye, chica, volvamos a ……. No me gusta estar en un lugar con gente así……"
+"joshigakusei (talking)";"そうね、この廃墟はもったいないけど……";"Yes, this ruin is a waste, but ……";"Sí, esta ruina es un desperdicio, pero ……"
+"shoujo (talking)";"…………このバーカ、ババァ。 そのまま死んぢゃえ！";"………… You old fool, you old hag. Just let her die!";"………… Idiota, vieja bruja. ¡Sigue muriendo!"
+"narrator";"──道場の床に、倒れ伏して。
+吹雪は別に怪我などしていなかったが、 情けなくて哀しくて、起きあがれずにいた。";"He collapsed on the floor of the dojo.
+Fubuki was not injured, but he was so pitiful and sad that he could not get up.";"─ ─ En el suelo del dojo, se desplomó.
+Fubuki no estaba herido, pero estaba tan lamentable y triste que no podía levantarse."
+"Sanrin Fubuki (talking)";"うっ…………ううううっ…………！ しくしくしく……うええええん……！！
+あんな、 あんな弱そうな子にまで負けた……
+うええええええええん……！ うええええええええええええん……！！";"Ugh………… ugh …………! 
+Such a, such a weak looking girl even beat me……
+Yeah yeah yeah yeah ……!";"¡Ugh………… ugh …………! ¡Shhhh shhhh shhhh…… yeah yeah yeah ……!
+Una chica de aspecto tan débil incluso me ganó……"
+"Seinendan Jyoshi (talking)";"悪司さん、こちらです。";"Akuji, this way.";"Akuji, aquí."
+"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
+"Seinendan Jyoshi (talking)";"……立派な道場ですね。 流石は有名な熱拳道場です。";"……It is a magnificent dojo. It is a famous hot fist dojo.";"…… Es un magnífico dojo. Es un dojo de puño caliente famoso por excelencia."
+"Yamamoto Akuji (talking)";"ん？　おめーココの事知ってんのか？";"Hmm?　You know about this place?";"¿Hmm?　¿Conoces este lugar?"
+"Seinendan Jyoshi (talking)";"オオサカに住んでる人なら 誰だって噂くらいは聞いてますよ。
+オオサカ最強の熱拳道場…… 私には縁のない場所だと 思ってましたけど。
+ここの門下生さんが 仲間になって下さったら、 きっと私たち大助かりですね。";"Everyone who lives in Osakans have at least heard of it.
+The strongest hot fist dojo in Osakan…… I thought it was a place I had no connection to.
+I'm sure it would be a great help to us if one of the students from here could join us.";"Todos los que viven en Osaka han oído al menos rumores.
+Osakas strongest hot fist dojo…… pensé que era un lugar con el que no tenía relación.
+Si un estudiante de aquí se une a nosotros, estoy seguro de que estaremos muy agradecidos."
+"Yamamoto Akuji (talking)";"そうだなー、強い奴なら いくらでも欲しいからな。
+ ……でもよ、有名な道場の割に なんか妙に寂れてねぇか？ 気配っつーか何つーか。";"Well, I want as many strong guys as I can get.
+Even though…… is a famous dojo, isn't it strangely deserted? I don't know if it's the atmosphere or what.";"Sí, quiero tantos tipos fuertes como pueda conseguir.
+Incluso en ……, para ser un dojo famoso, ¿no está extrañamente desierto? No sé, es como una atmósfera o algo así."
+"Seinendan Jyoshi (talking)";"えっ……そうでしょうか？ 床とかよく掃除されてて綺麗ですけど。";"What?…… I don't think so. It's clean, though, with well-cleaned floors and such.";"¿Qué?…… ¿Es así? Sin embargo, está limpio, con los suelos bien limpios y demás."
+"Yamamoto Akuji (talking)";"ま、とにかく交渉してくるぜ。 おめーはここで待ってろ。";"Well, I'm going to go negotiate anyway. You wait here.";"Bueno, voy a negociar de todos modos. Espera aquí."
+"Seinendan Jyoshi (talking)";"はい。";"Yes.";"Sí."
+"Yamamoto Akuji (talking)";"たのもーーーーーー。 誰かいるかーーーーーーー？";"TAMOoooooooooooooooooooooooo. Is anyone thereooooooooooooooooooooooooooooooooooooooooooooooooooo?";"TAMOoooooooooooooooooo. ¿Quién está ahí - quién está ahí - quién está ahí - quién está ahí - quién está ahí?"
+"Sanrin Fubuki (talking)";"…………はーーーーーーい。 どちらさまーーーー？";"………… haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaay. Who are you?";"………… Hooooooooooooooo. ¿Cuál de ustedes?"
+"Yamamoto Akuji (talking)";"おう、 なかなか可愛らしいねーちゃんだな。
+な、ねーちゃん。 ここの責任者に会いたいんだがよ、 取り次いでくんねぇか？";"Oh, you're quite a pretty girl, aren't you?
+Hey, girl. I'd like to meet the person in charge of this place.";"Eres una chica muy guapa, ¿verdad?
+Oye, chica. Me gustaría conocer a la persona que está a cargo aquí, ¿puede comunicarme?"
+"Sanrin Fubuki (talking)";"責任者、私ですけど。";"I'm in charge, though.";"Pero el responsable soy yo."
+"Yamamoto Akuji (talking)";"………………
+嘘つけ、天下の熱拳道場の責任者が おめーみてぇに弱っちそうな奴で たまるかっての。";"………………
+You are a liar! How can the head of a hot fist dojo be a weak looking guy like you?";"………………
+Estás mintiendo, ¿cómo puede el jefe de un dojo de puño caliente ser un debilucho como tú?"
+"Sanrin Fubuki (talking)";"弱っちそうで悪かったですね！";"Sorry for looking so weak!";"¡Perdón por parecer tan débil!"
+"Yamamoto Akuji (talking)";"……まぁいいや、 嘘でねぇなら好都合だ。
+俺は地域管理組合の 奉仕青年団で働いている者なんだが。";"…… Well, if it's not a lie, it's a good one.
+I work for the local management association's service youth group.";"…… Bueno, si no estás mintiendo, eso es bueno.
+Trabajo para el Grupo de Jóvenes de Servicios de la Asociación de Gestión Comunitaria."
+"Sanrin Fubuki (talking)";"……はあ。";"…… haha.";"…… jaja."
+"Yamamoto Akuji (talking)";"で、まあその、 この周辺はうちのシマになったんだ。
+ねーちゃん、地域の巡回警護とか いざって時の相談先とか 欲しくねぇか？";"So, well, this area became our territory.
+Hey, don't you want a patrol in the area, or a place to consult in case of emergencies?";"Así que, bueno, ya ves, esta zona es ahora nuestro territorio.
+ ¿No quieres una patrulla para la zona, o un lugar al que acudir en caso de emergencia?"
+"Sanrin Fubuki (talking)";"あ……す、すごく欲しいです！ 最近うちの道場、 子供にまで荒らされて……";"Oh ……, I want one so bad! Recently, my dojo has been vandalized by kids……";"Oh ……, ¡quiero tanto uno! Recientemente, nuestro dojo ha sido incluso vandalizado por niños……"
+"Yamamoto Akuji (talking)";"んじゃ、うちの管理下に入れ。 寄付金とか上納金とか警護費とかも バリバリ出してもらおうか。";"Then put them under our control. I'll ask you to pay donations, contributions, security fees, and so on.";"Entonces ponlo bajo nuestro control. Te pediré que pagues donaciones, contribuciones, tasas de seguridad, etc."
+"Sanrin Fubuki (talking)";"へっ？";"Huh?";"¿Eh?"
+"Yamamoto Akuji (talking)";"つーか、この道場だけ非支配下って そんな面倒臭ぇことしてらんねぇんだよ。
+ここに住む限り、うちの管理下には 強制的に入ってもらうぜ。 異論はねぇな？　さあカネを出せ。";"I mean, this Dojo is not under my control. I can't do such a troublesome thing.
+As long as you live here, you are forced to be under our control. You have no objection to that?　Come on, give me the money.";"Este Dojo es el único que no está bajo nuestro control, así que no podemos hacer nada molesto como eso.
+Mientras vivas aquí, estás obligado a estar bajo nuestro control. ¿No tienes ninguna objeción?　Vamos, dame el dinero."
+"Sanrin Fubuki (talking)";"いっ、嫌です！ 今はうち、お金ないんだから！";"No, I don't want to! We don't have any money right now!";"¡No, no quiero! ¡Ahora no tenemos dinero!"
+"Yamamoto Akuji (talking)";"あァ？　ナメたマネぬかしてっと ケツの穴から手ぇ突っ込んで 奥歯ガタガタ言わせるぞ、コラ。
+ここは天下の熱拳道場なんだろうが。 門下生からの会費とかで 儲かりまくってんじゃねぇのか、え？";"Yeah?　If you keep on acting like a fool, I'm going to shove your hand up your ass and make your back teeth rattle.
+This is a hot fist dojo, right? Aren't you making a lot of money from membership fees from your students, huh?";"¿Sí?　Si sigues haciéndote el tonto, te meteré la mano por el culo y te haré sonar los dientes de atrás.
+Este es el dojo de puños más caliente del mundo, ¿verdad? ¿No estáis ganando mucho dinero con las cuotas de los alumnos, eh?"
+"Sanrin Fubuki (talking)";"……い、今は門下生いないから……";"……Yes, I don't have any students right now, so ……";"……Sí, porque no tengo alumnos en este momento……"
+"Yamamoto Akuji (talking)";"はいはい。 ドヘタな嘘かましてんじゃねぇや。";"Yes, yes, yes. Don't tell me a bad lie.";"Sí, sí, sí. No me digas una mala mentira."
+"Sanrin Fubuki (talking)";"嘘じゃありませんっ！
+も、門下生は……もうすぐ…… もうすぐしたらいっぱい増えますけど…… 今はほんとに居ないんです！";"I'm not lying!
+I have a lot more students coming…… soon…… but right now I really don't have any!";"¡No estoy mintiendo!
+Pronto tendremos muchos más estudiantes ……, pero ahora mismo no tenemos ninguno."
+"Yamamoto Akuji (talking)";"カネ入るアテがあんなら 今出した方がいいぞ、ねーちゃん。
+どうしても出さねぇっつーなら 腕ずくででも出させることになるぜ？";"If you have the money, you'd better get it out now, girl.
+If they won't give it to you, I'll make them give it to you by force of arms.";"Si tienes el dinero, será mejor que lo saques ahora, chica.
+Si no te dejan salir, haremos que lo hagan por la fuerza."
+"Sanrin Fubuki (talking)";"………………
+あの、これ、 もしかして脅迫？　恐喝？";"………………
+Um, could this be blackmail?　Blackmail?";"………………
+ ¿Podría ser esto un chantaje?　¿Chantaje?"
+"Yamamoto Akuji (talking)";"カネ出しゃあキッチリ仕事するんだ、 そんなカネだけが目当てのモロ犯罪と 一緒にすんじゃねぇ。
+まあ、脅してるっつーのは否定せんけど。";"Don't compare me with the criminals who are only after your money.
+Well, I don't deny that they are threatening me.";"Si nos pagas, haremos nuestro trabajo correctamente, no nos pongas en la misma categoría que los delincuentes que sólo buscan tu dinero.
+Bueno, no niego que me estén amenazando."
+"Sanrin Fubuki (talking)";"この熱拳道場を見くびらないで！ どんなに落ちぶれたって、 脅しなんかに屈するもんですか！
+出てけ、悪漢！ きーーーーーーーーーーっく！！";"Don't underestimate this hot fist dojo! No matter how low we fall, we will not be intimidated!
+Get out of here, you rascal! Keeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!";"¡No subestimes a este Dojo del Puño de la Fiebre! No importa lo bajo que caigamos, ¡no nos dejaremos intimidar!
+ ¡Fuera, bribón! ¡Keeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!"
+"Yamamoto Akuji (talking)";"ひょいっとな。";"In a jiffy.";"En un santiamén."
+"Sanrin Fubuki (talking)";"……がーーーーーーーーーーーーん。 せっかく不意打ちしたのに躱された！";"…… is soooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo. I went to all the trouble to surprise him, but he just lost it!";"Fui hasta el final para sorprenderte, ¡pero te agachaste!"
+"Yamamoto Akuji (talking)";"……今のどこが不意打ちだったんだ？
+まあいいや、攻撃されたんだから 正当防衛成立な。 それ、こっちも軽く反撃きっーく。";"…… What part of that was a surprise attack now?
+Well, since he was attacked, it was self-defense. I'm going to hit back with a light kick.";"…… ¿Qué parte de eso fue un ataque sorpresa ahora?
+Bueno, te atacaron, así que fue en defensa propia. Eso es todo, sólo voy a contraatacar ligeramente aquí."
+"narrator";"　　［どげし！　ばきぼきごき……］";"[Dodogeshi!　Baki Boki Goki ……]";"[¡Dodogeshi!　Baki Boki Goki ……]"
+"Sanrin Fubuki (talking)";"あ、あぅ……げはっ…………きゅう。";"Oh, ah……geha………… Kyu.";"Oh, ah……geha………… Kyu."
+"Yamamoto Akuji (talking)";"………………何じゃこりゃ。 看板より貧弱な奴だな。
+ま、とりあえず捕虜にしとこう。
+んで、金目のものとか 他の弟子の名簿とかは……
+ ………………
+マジかおい……何にもねぇぞ。 せっかく支配下に置いたのに 見返りナシかぁ？
+やれやれ、来なきゃ良かったぜ…… 帰ろ。";"……………… What the heck is this? He's poorer than a billboard.
+Well, let's take him prisoner for now.
+So, what's in it for the money and a list of other disciples: ……
+ ………………
+Seriously, hey, there's nothing at ……. We put him under our control and now he gives us nothing in return?
+I shouldn't have come at all…… Go home.";"……………… ¿Qué es esto? Es más pobre que una valla publicitaria.
+Bueno, tomémoslo prisionero por ahora.
+Por lo tanto, para el dinero y una lista de otros discípulos, por favor vaya a ……
+ ………………
+En serio, oye, no hay nada en ……. Nos hemos hecho con su control, ¿y ahora no recibimos nada a cambio?
+Oh, querida, no debería haber venido aquí…… Vete a casa."
+"narrator";"こうして、熱拳道場はついに無人となり、 ついに本当の廃墟と化したのである──";"Thus, the dojo was finally uninhabited, and finally became a real ruin…";"Así, el Dojo del Puño de la Fiebre quedó finalmente deshabitado y se convirtió en una verdadera ruina…"
+"Sanrin Fubuki (talking)";"………………
+あれ……？ ここ、どこ……？
+私、いつこんなところに来たんだっけ。 側に誰もいないし……
+ ……あ、嘘。女の子がいる。 ねぇ、ちょっといい？";"………………
+Is that ……? Where am I here ……?
+When did I come to this place? There's no one by my side………… Oh, no. There's a girl. Hey, can I have a word?";"………………
+ ¿Es eso ……? ¿Dónde estoy aquí ……?
+ ¿Cuándo llegué a este lugar? No hay nadie a mi lado………… Oh, no. Hay una chica. Oye, ¿podemos hablar?"
+"shoujo (talking)";"………………";"………………";"………………"
+"Sanrin Fubuki (talking)";"あのね、 お姉ちゃん道に迷ったみたいなの。 ここはどこなのかな？";"Listen, sis, I think we've lost our way. Where are we?";"Escucha, hermana, creo que hemos perdido el rumbo. ¿Dónde estamos?"
+"shoujo (talking)";"………………";"………………";"………………"
+"Sanrin Fubuki (talking)";"……ねえ、ねえってば。 聞こえてる？";"…… Hey, hey, hey. Can you hear me?";"…… Hey, hey, hey. ¿Puedes oírme?"
+"shoujo (talking)";"………………";"………………";"………………"
+"Sanrin Fubuki (talking)";"……うーん、遊びに集中してるのかな。
+そうやって縦に河原の石積み上げるの、 そんなに面白いの？";"…… Hmmm, I wonder if they are concentrating on play.
+Is it so Haku to pile up Kawahara stones vertically like that?";"…… Bueno, supongo que me estoy concentrando en el juego.
+ ¿Es tan grande la superficie Haku para apilar piedras Kawahara verticalmente de esa manera?"
+"shoujo (talking)";"………………";"………………";"………………"
+"Sanrin Fubuki (talking)";"…………シカトしないでよぉ。";"………… Don't be a deer-in-the-headlights.";"………… No seas un cazador de ciervos."
+"narrator";"　　　「……吹雪………………吹雪よ……」";"”……Fubuki ………………Fubuki Yo ……”";"”……Fubuki ………………Fubuki Yo ……”"
+"Sanrin Fubuki (talking)";"……？　えっ？";"……?　What?";"……?　¿Eh?"
+"narrator";"　　「……吹雪よ、聞こえるか……吹雪……」";"”……Fubuki, do you hear me, ……Fubuki ……?”";"'……Fubuki yo, puedes oírme ……Fubuki ……'"
+"Sanrin Fubuki (talking)";"誰か呼んでる……？ 声に聞き覚えがあるけど、誰……
+ …………あ、ま、まま……まさか……！";"Who's calling ……? Your voice sounds familiar, but who……
+ …………Ah, no way, just as it is……!";"¿Quién llama a ……? Reconozco la voz, pero who……………… ¡Oh, no, de ninguna manera, tal como es……!"
+"narrator";"吹雪は慌てて周囲を見渡した。
+すると、彼女の側を流れる川の向こう岸に 誰かの人影を見つけることができた。";"Fubuki looked around in a panic.
+Then, she could spot someone's figure on the other side of the river flowing by her side.";"Fubuki miró a su alrededor con pánico.
+Entonces pudo divisar la figura de alguien al otro lado del río que fluía a su lado."
+"Sanrin Fubuki (talking)";"……あ、ああっ……！ お父様？　お父様よね！？
+ああっ、嘘みたい！ お父様が生きてたなんて！
+お父様ーーーー！！　吹雪ですーーー！ 吹雪はここにいますーーーーー！！
+ ……ああもう、近くに橋とかないの？ 向こうに行きたいのにーーーー！！
+お父様、こっちに来られないんですか？ どこかに橋とかないんですか！？
+ ……………………あー、もう！ 私、金槌じゃないんだからいっそ…… そうよ、泳ぐのも修行のうちよ！";"…… Oh, oh, oh, ……! Father?　It's your father!
+Oh, I can't believe it! I can't believe he's alive!
+Father!　It's Fubuki! Fubuki is here!…… Oh my god, isn't there a bridge or something nearby? I want to go over there!
+Father, can't you come over here? Isn't there a bridge or something somewhere!…………………… Oh, God! I'm not a hammer, so I'll just go to…… that's right, swimming is part of my training!";"…… ¡Oh, oh, oh, ……! ¿Padre?　Es tu padre, ¿verdad?
+ ¡Dios mío, no es cierto! ¡No puedo creer que esté vivo!
+ ¡Padre!　¡Es Fubuki! ¡Fubuki está aquí!…… Dios mío, ¿no hay un puente o algo cerca? ¡Quiero ir allí!
+Padre, ¿no puede venir aquí? ¿No hay un puente o algo en alguna parte?…………………… ¡Oh, Dios! No soy un martillo, así que voy a ir a…… es cierto, ¡la natación es parte de mi entrenamiento!"
+"narrator";"そう決めて、吹雪は川の中に歩を進める。";"Deciding so, Fubuki walks into the river.";"Decidido a hacerlo, Fubuki se adentra en el río."
+"Sanrin Fubuki (talking)";"……………… えっ……？
+お父様……？ 川に入るなってことですか……？
+ ……何で？　どうして！？ どうして会っちゃだめなんですか！？ 吹雪はお父様に会いたい……
+あ……あああっ……！ 待って、いかないで！ お父様…………！
+おとうさまああああああああああっ！！";"……………… What ……?
+Father ……? Are you telling me not to go in the river ……?…… Why?　Why? Why can't I see him? Fubuki wants to see his father……
+Ah……oh……! Wait, don't go! Father…………!
+Oh, Father!";"……………… ¿Qué ……?
+ ¿Padre ……? ¿Me estás diciendo que no me meta en el río ……?…… ¿Por qué?　¿Por qué? ¿Por qué no puedo verlo? Fubuki quiere ver a su padre……
+ ¡Oh,…… ah……! ¡Espera, no te vayas! ¡Padre…………!
+ ¡Oh, Padre!"
+"Sanrin Fubuki (talking)";"……おとうさまああああああああっ！！
+ ………………あ、あれ？ ここは…………";"…… Oh, my goodness!……………… Oh, what is that? This is …………";"…… ¡Dios mío!……………… Oh, ¿qué? Esto es …………"
+"kangofu (talking)";"ああ、良かった…… 吹雪さん、気が付きましたか？";"Oh, good,…… …… Fubuki, did you notice?";"Oh, gracias a Dios………… Fubuki, ¿te has dado cuenta?"
+"Sanrin Fubuki (talking)";"あれ、看護婦さん？ あの、私……";"Oh, is that the nurse? Um, I'm ……";"Oh, ¿es esa la enfermera? Um, yo ……"
+"kangofu (talking)";"あなた、ひどい怪我をして 意識不明のままここに運び込まれて……
+ここ数日、一度も目を 覚まさなかったんですよ。";"You were badly injured and brought here unconscious to……
+You haven't woken up once in the last few days.";"Te hirieron gravemente y te trajeron inconsciente a……
+No te has despertado ni una vez en los últimos días."
+"Sanrin Fubuki (talking)";"そ……そうなんですか？";"So…… is that right?";"Así que…… ¿es así?"
+"kangofu (talking)";"ええ、一時は生死の境をさまよって。
+あ、体温計りますね。 はい、体温計を脇に……";"Yes, at one point he was on the verge of life and death.
+Oh, I'll take your temperature. Yes, please put the thermometer aside: ……";"Sí, en un momento dado estuve al borde de la vida y la muerte.
+Oh, te tomaré la temperatura. Sí, pon el termómetro a un lado……"
+"Sanrin Fubuki (talking)";"…………
+ああ……私、また負けちゃったんだ…… ……ううっ、うううっ…………";"…………
+Oh…… I lost again…… …… ugh, ugh, ugh…… ……";"…………
+Oh…… He perdido de nuevo…… …… ugh, ugh, ugh…… ……"
+"kangofu (talking)";"ど、どうしたんですか？ お躰、泣くほど痛いんですか？";"What's the matter? Does it hurt so much that you cry?";"¿Qué pasa? ¿Te duele tanto el cuerpo que lloras?"
+"Sanrin Fubuki (talking)";"…………あ、い、いえ…… 躰は全然……
+ …………？ っていうか、なんかすごい調子いい…… 私じゃないみたい…………";"………… Oh, yes, no…… body at all……
+ …………? I mean, I feel like I'm in great shape…… I don't think it's me…………";"………… Oh, sí, no…… cuerpo en absoluto……
+ …………? Quiero decir, siento que estoy en gran forma…… No creo que sea yo …………"
+"kangofu (talking)";"……は？";"What about ……?";"¿Qué hay de ……?"
+"Sanrin Fubuki (talking)";"そうだ、あの時、お父様が最後に 何か……すごく大切なことを 言ってくれて……
+ああっ、何だったかな…… 思い出せない……
+ああっもう、私の馬鹿っ！";"Yes, at that time, your father said something…… very important to me at the end……
+Oh, what was it?…… I can't remember……
+Oh my god, I'm such an idiot!";"Sí, aquella vez, tu padre dijo algo…… muy importante para mí al final ……
+Oh, ¿qué era?…… No lo recuerdo……
+ ¡Oh, Dios mío, soy un idiota!"
+"narrator";"吹雪が苛立ち紛れに、 手渡された体温計を持つ手に力を込めると──
+ 　　［……びしっ……！］";"Fubuki, in frustration, put pressure on the hand holding the thermometer he was handed…
+ 　　[…… shhhh ……!]";"Fubuki, con frustración, presionó la mano que sostenía el termómetro que le entregaron…
+ 　　[…… shh……!]"
+"Sanrin Fubuki (talking)";"……うわっ、わ、割れちゃった……";"……Wow, wow, I cracked it……";"…… Guau, guau, lo he descifrado……"
+"kangofu (talking)";"きゃっ、だ、大丈夫ですか？";"Geez, are you okay?";"Cielos, ¿estás bien?"
+"Sanrin Fubuki (talking)";"え、あ、はい……全然。";"Eh, uh, yes…… at all.";"Eh, oh, sí…… en absoluto."
+"kangofu (talking)";"良かった、手の傷に水銀でもついたら 大変でしたよ…… すぐに代わりを持ってきますね。
+でも、おかしいわねぇ…… 強化ガラスだからそう簡単に 割れないと思うんだけど…………";"Good, I would have been in trouble if I got mercury on the wound on my hand…… I'll get you a replacement right away.
+But that's funny…… It's tempered glass, so I don't think it would break that easily…………";"Bien, me habría metido en un lío si me hubiera tocado el mercurio en la herida de la mano…… Te conseguiré un reemplazo enseguida.
+Pero es gracioso…… Es vidrio templado, así que no creo que se rompa tan fácilmente…………"
+"Sanrin Fubuki (talking)";"………………
+私、今まで片手じゃ お箸すら折ったことないのに……
+お父様……";"………………
+I've never even broken a chopstick with one hand in my life……
+Your father: ……";"………………
+Nunca había roto un par de palillos con una mano……
+Su padre……"
+"narrator";"──死の淵を彷徨った吹雪は、父の教えを 無意識下に擦り込んでパワーアップしたようだ。";"─ It seems that Fubuki, who wandered on the edge of death, rubbed his father's teachings into his subconscious and became more empowered.";"─ ─ Parece que Fubuki, que vagaba al borde de la muerte, ha frotado inconscientemente las enseñanzas de su padre en su mente, y se ha vuelto más poderoso."
+"Sanrin Fubuki (talking)";"………………
+あれ……？ また、あの河原に来ちゃった……
+ということは、私…… また、誰かにひどくやっつけられて……
+ ………………
+せ、せっかく……せっかく、 お父様のおかげで強くなれたのにぃ……
+うええええええええん…… うえええええええええええん……";"………………
+Oh, that ……? I'm in that Kawahara again……
+Which means I'm…… getting beat up badly again by someone ……
+ ………………
+After all the trouble…… your father made me strong… ……
+Uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!";"………………
+ ¿Ese ……? Estoy en ese Kawahara de nuevo……
+Lo que significa que yo…… también fue muy golpeado por alguien ……
+ ………………
+Después de todo el…… he podido hacerme fuerte gracias a tu padre… ……"
+"narrator";"　 「……吹雪よ、泣くな………吹雪よ……」";"”……Fubuki yo, don't cry ………Fubuki yo ……”";"'……Fubuki yo, no llores ………Fubuki yo ……'"
+"Sanrin Fubuki (talking)";"………………えっ？ あっ、お、お父様！？　お父様、どこ？
+ああっ、また川の向こうに……！ お父様、お父様ああああっ！";"……………… eh? Oh, oh, father!　Father, where are you?
+Ah, across the river again……! Father, Father ah!";"……………… ¿Eh? ¡Oh, oh, padre!　Padre, ¿dónde estás?
+ ¡Ah, sobre el río de nuevo……! ¡Padre, Padre ah!"
+"narrator";"　　　　　　 「……………………」";"　　　　　　 「……………………」";"　　　　　　 「……………………」"
+"Sanrin Fubuki (talking)";"…………？　え、あの……何です……？
+ …………ど、どうして泣くのかって そんなこと言われても……
+だって、負けるの悔しいもん！ 私、お父様の娘なのにっ…………
+ ……へっ？　大事？ 強くなるのに必要なの？　負けず嫌いが？
+な、何だかよく解らないけど……
+ ……えっ？　えええっ！？ また嘘ばっかり…… 私、素質なんてないから弱くて……
+ …………お、お父様？ それ、どういう意味ですか？
+躰の素質は目覚めたから、 次は心の問題だって……
+そ、そんなこと言われても、私……";"…………?　Oh, um,…… what is it ……?
+ …………, why are you crying? I don't know why you're saying that……
+Because I'm so disappointed to lose! I'm your father's daughter!
+ ……?　Is it important? Is it necessary to be strong?　To hate to lose?
+I don't know what it is, but ………… Eh?　What? You're lying again…… I'm weak because I don't have any qualities……………… father? What do you mean by that?
+He said that I have awakened the qualities of my body, and now it's a matter of my mind……
+Well, even if you say that, I'm ……";"…………?　Oh, um,…… ¿qué es ……?
+ …………, ¿por qué lloras? No sé por qué dices eso……
+ ¡Porque estoy muy decepcionado de perder! ¡Soy la hija de tu padre! ……………… ¿Qué?　¿Es eso importante? ¿Es necesario ser fuerte?　¿Odiar perder?
+No sé lo que es………… ¿Eh?　¿Qué? Estás mintiendo de nuevo…… Soy débil porque no tengo cualidades……………… Oh, ¿padre? ¿Qué quieres decir con eso?
+Dice que mis cualidades físicas se han despertado, así que ahora es cuestión de mi mente……
+Bueno, aunque digas eso, soy ……"
+"narrator";"　　　　　　 「……………………」";"　　　　　　 「……………………」";"　　　　　　 「……………………」"
+"Sanrin Fubuki (talking)";"……ま、待って下さい！　お父様！！ 行かないで、行っちゃ嫌です！ 吹雪の側に居て下さい！
+お父様、お父様っ！ おとうさまああああああああああっ！！";"…… Well, wait!　Father! Don't go, I don't want you to go! Stay with Fubuki!
+Father, Father! Oh, Father!";"…… Bueno, ¡espera!　¡Padre! ¡No vayas, no vayas! ¡Quédate con Fubuki!
+ ¡Padre, padre! ¡Oh, Padre!"
+"Sanrin Fubuki (talking)";"……おとうさまああああああああっ！！
+ ………………あ、あれ？ ここは…………";"…… Oh, my goodness!……………… Oh, what is that? This is …………";"…… ¡Dios mío!……………… Oh, ¿qué? Esto es …………"
+"kangofu (talking)";"ああ、良かった…… 吹雪さん、気が付きましたか？";"Oh, good,…… …… Fubuki, did you notice?";"Oh, gracias a Dios………… Fubuki, ¿te has dado cuenta?"
+"Sanrin Fubuki (talking)";"あ……そ、そうか、また病院に……";"Oh,…… well, I'll see you at the hospital ……";"Oh,…… bueno, nos vemos en el hospital: ……"
+"kangofu (talking)";"前の時もそうですけど…… 吹雪さん、お躰を大事にしないと……";"Like before…… Fubuki, you have to take care of your body ……";"Como antes,…… Fubuki, tienes que cuidar tu cuerpo: ……"
+"Sanrin Fubuki (talking)";"あ、は……はい、すみません……
+ ………………
+どういう意味なんだろう…… お父様が私の中に居るって……";"Oh, ha…… yes, sorry ……
+ ………………
+What does it mean…… that your father is in me ……";"Oh, ha…… Sí, lo siento ……
+ ………………
+ ¿Qué significa…… que tu padre está dentro de mí……"
+"kangofu (talking)";"は？　何か？";"Huh?　What is it?";"¿Eh?　¿Qué es?"
+"Sanrin Fubuki (talking)";"あ……ううん、何でもないんです……";"Oh…… nah, it's nothing……";"Oh…… no, no es nada……"
+"kangofu (talking)";"それじゃあ、点滴替えますね。 しばらく横になっていて下さい。";"I'll change the IV then. Please lie down for a while.";"Entonces cambiaré el goteo. Por favor, túmbate un rato."
+"Sanrin Fubuki (talking)";"あ、はい……";"Ah, yes……";"Ah, sí: ……"
+"narrator";"呟きながら、吹雪は再度ベッドに横たわる。";"Muttering, Fubuki lies down on the bed again.";"Murmurando, Fubuki se tumba de nuevo en la cama."
+"Sanrin Fubuki (thinking)";"お父様は…… 私が優しすぎるって言った……
+自分の素質を知っているから、 無意識に力を抑えてるんだって……";"Your father told…… me I was too kind……
+He said I subconsciously suppress my power because I know my predisposition ……";"Tu padre dijo…… que yo era demasiado amable……
+Dijo que reprimo inconscientemente mi poder porque conozco mis cualidades……"
+"narrator";"──ふと、手の先に、ベッドを構成する 太い鉄パイプの一部が触れた。
+吹雪は、それをぎゅっと握りしめる。";"Suddenly, a part of the thick iron pipe that makes up the bed touches the tip of his hand.
+Fubuki squeezes it tightly.";"─ ─ De repente, un trozo de la gruesa tubería de hierro que compone la cama tocó la punta de su mano.
+Fubuki lo aprieta con fuerza."
+"Sanrin Fubuki (thinking)";"それが本当なら……うん、試してみよう。
+この鉄パイプは……敵だから……！ 心を鬼にして……壊すっ……………！！";"If that's true,…… yeah, let's give it a try.
+This iron pipe is…… an enemy, so ……! I'll break…… your heart ……………!";"Si eso es cierto,…… sí, vamos a intentarlo.
+ ¡Este tubo de hierro es…… un enemigo, así que ……! ¡Voy a romper…… tu corazón ……………!"
+"narrator";"　　［み、みしっ……びきびきっ……！！］";"[Mish mish mish…… yibiki yibiki ……!!!]";"[¡Mi, mishi…… yibiki yibiki ……!]"
+"kangofu (talking)";"えっ……これ、何の音かしら…………
+ …………きゃああっ！";"What's…… what's that sound …………
+ …………Yaaaah!";"¿Qué?…… ¿Qué es ese sonido? …………
+ ¡…………Yaaaah!"
+"Sanrin Fubuki (talking)";"…………っ、えっ？　あ、あれ……";"What's that …………, eh?　Oh, that ……";"¿Qué es eso de …………, eh?　Oh, esa: ……"
+"kangofu (talking)";"べっ、ベッドの鉄パイプが、 割れて……歪んで…………！";"Bek, the iron pipes of the bed cracked…… and warped …………!";"¡Bek, los tubos de hierro de la cama se agrietan…… y se deforman …………!"
+"Sanrin Fubuki (talking)";"……ほ…………ほんとだ…… 壊すつもりなかったのに…………";"…… Ho………… really…… I didn't mean to break it…………";"…… Ho………… realmente…… no quise romperlo…………"
+"kangofu (talking)";"ごっ、ごめんなさい吹雪さん、 このベッド、金属疲労か何かで…… すぐ取り替えるよう手配しますから！";"Gosh, sorry Fubuki, this bed has metal fatigue or something…… I'll arrange to replace it right away!";"Cielos, lo siento Fubuki, esta cama tiene fatiga metálica o algo así…… ¡Me encargaré de reemplazarla de inmediato!"
+"Sanrin Fubuki (talking)";"あ、いやあの、看護婦さん、これは……";"Oh, no, um, nurse, this is ……";"Oh, no, um, enfermera, esto es ……"
+"kangofu (talking)";"やだもう、ベッドが傾いじゃって…… ごめんなさい吹雪さん、本当に……";"Oh my god, the bed is tilted…… sorry Fubuki, really ……";"Oh, Dios mío, la cama se inclina…… Lo siento Fubuki, realmente ……"
+"Sanrin Fubuki (talking)";"……………… 看護婦さんに悪いことしちゃったな……
+でも……そうか、うん。 あれでいいんだ、ああすれば……
+あれが、私のほんとの力なんだ……
+ ………………
+お父様の強い力が、私の中にも……
+そうか、そうなんだ……
+そういうことですよね、お父様……";"……………… I'm sorry I did that to the nurse: ……
+But…… well, yeah. That was okay, if I did that……
+That's my real power……
+ ………………
+Your father's strong power is also in me……
+Oh, yeah, that's right……
+That's what I mean, isn't it, Father? ……";"……………… Le he hecho algo malo a la enfermera……
+Pero…… bueno, sí. Está bien, si hago eso……
+Ese es mi verdadero poder……
+ ………………
+El fuerte poder de tu padre también está en mí……
+Oh, sí, eso es……
+Eso es lo que quiero decir, ¿no es así, Padre……"
+"narrator";"──死の淵を彷徨った吹雪は、潜在能力を 引き出す術に気付いて、さらにパワーアップした。";"After wandering on the edge of death, Fubuki realized how to draw out his latent abilities and became even more powerful.";"Después de vagar al borde de la muerte, Fubuki se dio cuenta de cómo sacar sus habilidades latentes y se volvió aún más poderoso."
+"Sanrin Fubuki (talking)";"………………
+あれ……？ まただ、またあの河原に……
+ ………………という事は。
+あーーーーーもーーーーーー！ また私やっつけられたのぉ！？ 修行が足りないなぁ、もうっ！
+あそこであの攻撃を ちゃんと見切って躱していたら……！";"………………
+Is that ……? Again, I'm just going to go back to that Kawahara and ……
+That means ……………….
+Ohhhhhhhhh! Did he beat me up again? I don't have enough training.
+If only I had seen through that attack and avoided it ……!";"………………
+ ¿Es eso ……? Otra vez, otra vez, que Kawahara tiene …………………… significa.
+ ¡Ohhhhhhh! ¿Me golpeó de nuevo? No tengo suficiente entrenamiento.
+ ¡Si sólo hubiera visto ese ataque allí y lo hubiera evitado ……!"
+"narrator";"　 「……吹雪よ…………………吹雪よ……」";"”……Fubuki uu………………… Fubuki uu……”";"”……Fubuki uu………………… Fubuki uu……”"
+"Sanrin Fubuki (talking)";"………………あっ。 お父様？　お父様ですよね！？";"……………… Oh. Father?　It's your father, isn't it!";"……………… Oh. ¿Tu padre?　Es tu padre, ¿verdad?"
+"narrator";"　　　　　　 「……………………」";"　　　　　　 「……………………」";"　　　　　　 「……………………」"
+"Sanrin Fubuki (talking)";"すみません、お父様…… たくさん教えて頂いたのに、 吹雪が未熟だったばっかりに……
+でも、 どうすればいいのかは解っています！ 次はきっと、もっと強くなって…………";"I'm sorry, Father,…… you taught me so much, but Fubuki was just too inexperienced ……
+But I know what to do! Next time, I'm sure I'll be stronger …………";"Lo siento, padre,…… me enseñaste mucho, pero Fubuki era demasiado inexperta……
+ ¡Pero ya sé lo que hay que hacer! La próxima vez, estoy seguro de que seré más fuerte y …………"
+"narrator";"　　　　　　 「……………………」";"　　　　　　 「……………………」";"　　　　　　 「……………………」"
+"Sanrin Fubuki (talking)";"…………えっ？ これが、最後……なんですか？
+私が強くなったから、 心残りがなくなった……？
+成仏しなきゃいけないから、 熱拳流の奥義を託す、って…………
+ ……あ、はい、解りました！ 目に焼き付けて覚えればいいんですね？
+心配しないで、任せて下さい！ ここで生き写しに繰り返してみせます、 お父様に心配なんかかけません！
+吹雪はきっと、もっともっと強くなって お父様の名に恥じない格闘家になります！
+ ………………
+泣いて……泣いてなんかいません！ ちょっとだけ、 目にゴミが入っただけです！
+お父様に会えなくなっても、 吹雪は寂しくなんかありません！
+だから……だから…………
+ ………………
+心配なんか、しないで下さい…………
+吹雪は、お父様の娘に生まれたこと、 本当に誇りに思っています……
+きっと……後を継いでみせます…………
+お父様、どうか……安らかに…………
+ …………おとう……さま…………";"………… eh? Is this the last ……?
+Now that I am stronger, I have no regrets……?
+I have to go to Buddha, so I entrust the secrets of Nekken-ryu to you……………… Oh, yes, I understand! I have to learn it by heart, right?
+Don't worry, I'll take care of it! I'll repeat it here, I won't let your father worry!
+I'm sure Fubuki will become even stronger and become a fighter worthy of your father's name!
+ ………………
+I'm not crying ……! Just a little bit of dust in my eyes!
+Even if I don't see your father, Fubuki won't miss him!
+That's why…… so …………
+ ………………
+Don't worry, …………
+Fubuki is really proud to be born your father's daughter……
+I'm sure…… I will succeed him…………
+Father, please…… be at peace…………
+ …………Otou……sama……… …";"………… ¿eh? ¿Es este el último ……?
+Ahora que soy más fuerte, ya no me arrepiento……?
+Tengo que convertirme en un Buda, así que te confío los secretos de la escuela Nekken……………… ¡Oh, sí, lo entiendo! Tengo que aprenderlo de memoria, ¿no?
+No te preocupes, me encargaré de ello. Lo repetiré aquí, ¡no voy a preocupar a tu padre!
+ ¡Fubuki se hará aún más fuerte y se convertirá en un luchador digno del nombre de su padre!
+ ………………
+ ¡No estoy llorando ……! ¡Sólo un poco de polvo en mis ojos!
+ ¡Aunque no vea a tu padre, Fubuki no se sentirá sola!
+Por eso…… por eso …………
+ ………………
+No te preocupes, …………
+Fubuki está muy orgullosa de haber nacido hija de su padre……
+Estoy seguro de que…… le sucederá…………
+Padre, por favor…… esté en paz…………
+ …………Otou……sama……… …"
+"Sanrin Fubuki (talking)";"……お父様っ…………！
+あ、ここ……また病院…………";"…… Father! …………!
+Oh, here…… is the hospital again …………";"¡…… ¡Padre! …………!
+Oh, aquí…… es el hospital de nuevo …………"
+"kangofu (talking)";"ふ、吹雪さん……大丈夫ですか？ 躰、どこも悪くありませんか？
+ずっとうなされて…… 手足が時折ばたばた動いて、 しまいには泣き始めて……
+こんな状態の患者さん、 見たことなかったから……";"Fu, Fubuki,…… are you all right? Is there anything wrong with your body?
+He kept groaning and…… his arms and legs would occasionally flail about, and eventually he would cry andHajime and ……
+I had never seen a patient in this condition before……";"Fu, Fubuki,…… ¿estás bien? ¿Le pasa algo a su cuerpo?
+Siguió gimiendo,…… sus brazos y piernas se agitaban de vez en cuando, y finalmente gritó,Hajime, y luego se detuvo,……
+Nunca había visto a un paciente en este estado……"
+"Sanrin Fubuki (talking)";"……ごめんなさい、看護婦さん。 もう大丈夫です。
+もう二度と、 こんなことはありませんから……
+そう、二度と……ありませんから。";"……Sorry, nurse. It's all right now.
+This will never happen again……
+Yes, it will never…… happen again.";"…… Lo siento, enfermera. Todo está bien ahora.
+Porque esto no volverá a ocurrir……
+Sí, porque nunca…… volverá a suceder."
+"kangofu (talking)";"あ、は……はい。";"Oh, ha…… yes.";"Ah, ja…… Sí."
+"Sanrin Fubuki (talking)";"それじゃあ私、奉仕青年団に戻ります。 いろいろと有り難うございました。";"Well, I'm going to go back to the service youth group. Thank you for everything.";"Ahora volveré al Grupo de Jóvenes del Servicio. Gracias por todo."
+"kangofu (talking)";"……えっ？　あ、だめですよ吹雪さん！ まだ立ち上がっちゃ…………！";"…… eh?　Oh, no, Mr. Fubuki! Don't get up yet…………!";"…… ¿eh?　¡Oh, no, señor Fubuki! ¡No te levantes todavía, …………!"
+"Sanrin Fubuki (talking)";"大丈夫ですよ、もう治りましたから。";"Don't worry, I'm cured now.";"Está bien, ya estoy curado."
+"kangofu (talking)";"そ、それは主治医が判断するんです！ あなたは重傷の患者さんで………………";"Well, that's for your doctor to decide! You are a seriously injured patient and ………………";"Bueno, ¡eso lo tiene que decidir tu médico! Usted es un paciente gravemente herido y ………………"
+"Sanrin Fubuki (talking)";"………………
+じゃあ、どこも躰が悪くないっていう 証拠をお見せしますね。";"………………
+Okay, I'll show you the proof that there is nothing wrong with the body anywhere.";"………………
+Bien, te mostraré la evidencia de que el cuerpo no está mal en ningún lado."
+"kangofu (talking)";"………………へっ？";"……………… heh?";"……………… ¿eh?"
+"Sanrin Fubuki (talking)";"熱拳流格闘術奥義！ 超激烈豪華絢爛壮絶猛火爆撃拳っ！！";"The secrets of Nekken-ryu fighting techniques! Super fierce, gorgeous, gorgeous, fierce, fierce fire bombing fist!";"¡Los secretos internos del arte marcial Nekken-ryu! ¡Puños superintensos, magníficos, espectaculares, fieros, que bombardean!"
+"kangofu (talking)";"……な、何が……起きたの…………？
+ …………あーーーーーーーーー！？ とっ、扉がコナゴナになってるーー！！";"…… Hey, what…… happened …………?
+ …………Ahhhhhh! The door is konagona!";"…… Hey, ¿qué…… pasó …………?
+ ¡…………Ahhhhhh! ¡La puerta se ha vuelto konagona!"
+"Sanrin Fubuki (talking)";"…………ふう。 もう、入院なんて不要ですよね？";"………… wind. No need for hospitalization anymore, right?";"………… Wind. Ya no hay necesidad de hospitalización, ¿verdad?"
+"kangofu (talking)";"……あ、あああ……あうあうあうあ……";"…… ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ……";"…… ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ……"
+"Sanrin Fubuki (talking)";"修理費は奉仕青年団に回して下さいね。 私のポケットマネーで払いますから。
+じゃあ、看護婦さん。お元気で。";"Please pass the cost of the repairs on to the service youth group. I will pay for it with my pocket money.
+Okay, nurse. Take care.";"Se ruega que los costes de reparación se repercutan en el grupo de jóvenes del servicio. Lo pagaré con mi dinero de bolsillo.
+Bien, entonces, enfermera. Tengan cuidado."
+"kangofu (talking)";"お……お元気で………………";"Oh…… take care ………………";"Oh…… cuídate ………………"
+"Sanrin Fubuki (talking)";"………………
+見ていて下さい、お父様。 私、頑張りますっ！";"………………
+Watch me, Father. I'll do my best!";"………………
+Míreme, padre. Haré lo que pueda."
+"narrator";"──死の淵を彷徨った吹雪は、 父の霊から熱拳流格闘術の奥義を託され、 最後のパワーアップを遂げたのだった。";"Fubuki, who wandered on the verge of death, was entrusted by his father's spirit with the secrets of the Nekken-ryu fighting technique, and achieved his final power-up.";"Fubuki, que había estado vagando al borde de la muerte, recibió del espíritu de su padre los secretos de la técnica de lucha Nekken-ryu, y consiguió su último poder."
+"Tamanegi (talking)";"さて、山林吹雪さん。";"Well, Sanrin Fubuki.";"Ahora, Sanrin Fubuki."
+"Sanrin Fubuki (talking)";"…………何よハゲ。";"………… What the heck, Baldy.";"………… ¿Qué pasa, Calvo?"
+"Tamanegi (talking)";"……………… レディが何という口の利き方を……";"……………… What a mouthful of a lady ……";"……………… Qué bocaza la de la señora ……"
+"Sanrin Fubuki (talking)";"なんであなたみたいな変態調教師に 女の子らしい口を利かなきゃ いけないのよっ！
+あーーーもう、早く帰してーーーー！ 道場に戻って稽古しないと 躰が鈍っちゃうのにーーーー！！！！";"Why should I talk like a girl to a pervert trainer like you!
+Ohhhhh, please let me go home soon! I have to go back to the dojo to practice or my body will get slow… ！！！！";"¿Por qué debería hablar como una chica con un entrenador pervertido como tú?
+ ¡Oh, Dios, déjame ir a casa ya! Tengo que volver al dojo a practicar o mi cuerpo se pondrá lento… ！！！！"
+"Tamanegi (talking)";"やれやれ……あなたの場合、 何よりその性格を何とかしなくては いけませんね……
+さあ、こちらへ来なさい。";"Good grief…… you need to do something about your personality more than anything else……
+Come on, come here.";"Dios…… necesitas hacer algo con esa personalidad más que nada en tu caso……
+Vamos, ven aquí."
+"Sanrin Fubuki (talking)";"え、な……何よ、何する気っ？！";"What are you doing at ……?";"¿Qué estás haciendo, ……?"
+"Tamanegi (talking)";"言って解らない人には 折檻するまでです。";"If they don't understand what I say, I will chastise them.";"Si alguien no entiende lo que le digo, tengo que reprenderlo."
+"Sanrin Fubuki (talking)";"あ……きゃっ…………！";"Oh…… kyak …………!";"¡Oh…… kya …………!"
+"cg narrator";"「あ……うぁ、っく…………」
+吹雪が苦痛に身を捩る。
+額から伝い落ちた汗が目に入ったが、 それを拭うことすらできずにいた。
+躰を麻縄で縛られ、冷たい石の床に座り続ける。 ──タマネギはこれを“折檻”だと言ったが、 それが始まってからすでに一時間が経っていた。
+ 「どうです、 　自分の置かれた境遇が身に染みましたか？」
+吹雪の傍らに立ったタマネギが言う。 ──肩口の縄を持って、左右に揺さぶりながら。
+ 「ひぅ……ぐ……！　い、痛いっ……！」
+たまらず吹雪が声を上げる。
+吹雪を縛る縄は彼女の躰のあちこちを鬱血させ、 もはや痛みを通り越して痺れに変わっていた。
+それより、吹雪にとって最も辛いのは、 股間に回された縄だった。
+躰を揺すられる度──自分が身を捩る度、 縄は吹雪の秘裂に食い込み、柔肉を苛み続ける。
+ 「こんな……こんな事して、何になるのよ……！ 　こんな事されたって、私の意志は、絶対…… 　絶対に変わらないんだからっ……」
+ 「こんな事をされても変わらない……ですか」
+タマネギが苦笑する。
+ 「吹雪さん、 　あなたは大変な勘違いをしているようですね」
+言いながら、身動きできない吹雪の躰を揺さぶる。 ──縄が、彼女の躰へ更に食い込む。
+ 「ひうっ……！　っ、うああっ……」
+ 「この責めは、あなたの態度が変わるまで、 　何度でも、いつまででも、延々と続くのです。 　それに……」
+それに、の後に続く言葉をタマネギは呑み込んだ。 そして、心の中で言う。
+ （……わたくしの見たところ、あなたは本質的に 　マゾの素養を持っているはずですからね……）
+ ──果たして、 そのタマネギの眼力に狂いはなかった。
+ 「う……あ、っく…………ああっ……」
+よく見れば、吹雪の肌一面に朱が差し、 じっとりと汗が浮いてきている。
+ ──いや、肌だけではない。
+吹雪自身ですら気付いていなかったが、 この時、縄によって苛まれ続けている吹雪の秘裂は 淫らな雫で湿りつつあった。
+ （クク……見えていますよ、吹雪さん。 　乱れたサラシの下にある乳房の頂点が、 　ツンと立ってきているのがね……）
+タマネギは吹雪の躰の変化に気付いていた。 ──静かに、ほくそ笑む。
+ （躰の変化を指摘して、言葉責めにするのも手ですが 　……いや、それはまだ時期尚早でしょうかね）
+タマネギは吹雪の反応を見ながら、目の前の女を 性奴隷に仕立て上げるための最短距離を シミュレートし続ける。
+ （今はまだ、躰に刺激を加えられれば反応する、 　人の躰の機械的な部分が発露しただけかも 　しれません……）
+そう、問題なのは吹雪の心の方だった。
+ （あらゆる責めと悦楽を受け入れる心…… 　まず作るべきはそちらの方ですからね）
+だから、タマネギは無言で待ち続けた。 吹雪が、自分の方から折れてくるその時を。
+ ──そして。
+ 「はあっ、は…………あ、うっ………… 　う、く……あ、っう……うぅ…………」
+いよいよ、吹雪の我慢も限界に達しつつあった。
+ （も、もう嫌…… 　こんなの、ずっと続けられたら…………）
+吹雪は、どうすれば自分が楽になるのかを 考え始めていた。
+仮に躰が壊れてしまっても、自分の意志を貫く ──そういう考えは出てこない。
+あとは、楽になりたいと思う心が、 耐え抜こうとする心を浸食していく──
+ 「あ、く……っん…………」
+吹雪が、何度も、何度も、躰を捩る。
+ 「ん…………っむ、う………………」
+苦痛とも悦楽とも知れない、 鼻にかかった声を口から漏らしながら、 上目遣いにタマネギの顔を見る。
+そう、上目遣いの目。 人に媚びる目。
+ 「おね、がい……お願いです…… 　もう……ゆる、して……許して下さい……」
+ ──屈服。
+その瞬間、自分の夢もプライドも捨て、 目の前の調教師に屈した吹雪の背筋には、 甘く恍惚としたものが確かに広がっていた。
+だが、それが被虐の悦楽だと吹雪は知らない。
+そしてまた、タマネギもそう諭しはしない。
+ 「そう……素直になれば良いのです。 　ご苦労でしたね、吹雪さん……」
+言って、タマネギは涙ぐむ吹雪を抱き寄せ、 その頭を優しく撫でてやる。
+ （言うとおりにすれば、優しくしてくれる…… 　夢や希望を奪い去った後で、この娘には 　その信頼関係を植え付けてやれば良い……）
+そうすれば、あとは簡単に悦楽に堕していく。 タマネギはそう確信していた。
+現に今、吹雪の顔に──喜悦の色が浮かんでいる。
+ （やっと、やっと許してくれた…… 　素直になれば許してくれるんだ…… 　言うとおりにすれば楽になれるんだ……）
+それが堕落への第一歩だと言うことを、 吹雪はまだ、気付かずにいた──";"”Ah…… ugh, ck …………”
+Fubuki twists in pain.
+The sweat dripping from his forehead was in his eyes, but he couldn't even wipe it away.
+The body is bound with hemp rope and continues to sit on the cold stone floor. Tamanegi called this “chastisement,” but it had already been an hour since Hajime had been in this situation.
+How about you, have you felt your situation?”
+Tamanegi, standing beside Fubuki, said. The Tamanegi stood beside Fubuki, holding the rope at his shoulder and swaying it from side to side.
+ “Oh,……gu……!　It hurts ……!”
+Unable to resist, Fubuki shouts out.
+The rope that binds Fubuki is making her body bleed all over the place, and it has gone beyond pain to numbness.
+More than that, the most painful thing for Fubuki was the rope around her crotch.
+Every time her body was shaken - every time she twisted herself, the noose bit into Fubuki's cleft and continued to torment her soft flesh.
+I was so afraid of what this…… would do to me! 　Even if you do this to me, my will will never…… ever…… change!”
+ “Even if they do this to me, it won't change……?”
+Tamanegi laughs bitterly.
+I'm afraid you are very much mistaken, Fubuki.
+The rope is now in her body, and she can't move. The rope bites further into her body.
+ “Hiuuh ……!　Ohhhhhh… ……
+The torture will go on and on and on and on until you change your attitude. 　And …….”
+And,” Tamanegi swallowed the words that followed the “And,” and said in his mind, “I'm not going to let you go. And then, he said in his mind.
+ (……I see that you must have masochistic tendencies in your nature……)
+ ─ ─ Indeed, that Tamanegi's eyesight was not crazy.
+ “U……Ah, kk…………Ah……”
+If you look closely, you can see that Fubuki's skin is covered in vermillion, and sweat is floating on it.
+The actuality that the actuality is that you can't get a lot of these things.
+ 
+ (Kuku…… can see it, Fubuki. 　The apexes of her breasts under the disheveled sarashi are standing out……)
+Tamanegi had noticed the change in Fubuki's body. (He pointed out the change in her body, and said, “I've noticed a change in her body.
+ (It is also possible to point out the changes in her body and use verbal abuse,…… but I think that would be too early to do that.)
+Tamanegi watches Fubuki's reaction and continues to simulate the shortest way to turn the woman in front of him into a sex slave.
+ (At the moment, it may just be the mechanical part of the human body that reacts to any stimulation applied to the body……)
+Yes, the problem was Fubuki's mind.
+ (A mind that accepts all kinds of blame and pleasure ……).
+So Tamanegi kept waiting silently. The time when Fubuki would break from her side.
+And then.
+ “Ah, ah, ah………… ah, ah………… ah, ugh… …ah, ugh…… ugh…………”
+Finally, Fubuki's patience was reaching its limit.
+ (I don't want to do this anymore…… if this keeps on going on and on…………)
+Fubuki was Hajime thinking about what he could do to make himself comfortable.
+Even if his body were to break down, he would not be able to think of doing what he wanted to do.
+The rest of the time, the mind that wanted to be comfortable eroded the mind that was trying to endure…
+ “Oh, shit… ……
+Fubuki twisted his body over and over again.
+ “N…………, mmm, u…………… I'm not sure if it's pain or pleasure, but I'm sure it's pleasure.
+ 
+Yes, eyes looking up. Eyes that flirt with people.
+ “Please, please…… forgive me ……, please forgive me…… already ……! ……”
+ ─ ─ Give in.
+At that moment, he threw away his dreams and pride and gave in to the trainer in front of him, and a sweet ecstasy certainly spread down his spine.
+However, Fubuki does not know that this is the pleasure of being subjected.
+And also Tamanegi does not tell him so.
+ “So…… you should be honest. 　Thank you Tane and Fubuki for your hard work …….”
+Saying this, Tamanegi hugs the tearful Fubuki and pats his head gently.
+ (If you do as I say, she will be kind to you…… After taking away your dreams and hopes, you can instill that trust in this girl……)
+Then the rest will easily fall into pleasure. Tamanegi was convinced of this.
+In fact, right now, on Fubuki's face, the color of pleasure is on display.
+ (At last, at last, he forgives me…… If I'm honest, he'll forgive me…… If I do as he says, I'll be at ease……)
+Fubuki had yet to realize that this was the first step to corruption…";"'Oh…… ugh, ck …………'
+Fubuki se retuerce de dolor.
+Le llamó la atención el sudor que resbalaba por su frente, pero no pudo ni siquiera limpiarlo.
+Su cuerpo está atado con una cuerda de cáñamo y sigue sentado en el frío suelo de piedra. Tamanegi llamó a esto “castigo”, pero ya había pasado una hora desde que Hajime comenzó.
+Y tú, ¿te has dado cuenta de lo que te han hecho pasar?”
+Tamanegi, de pie junto a Fubuki, dijo. ─ ─ Sujetando la cuerda por el hombro, la agitó de un lado a otro.
+ '¡Hola, ……gu, ……!　Me duele ……”.
+Incapaz de resistirse, Fubuki grita.
+La cuerda que ata a Fubuki se congestiona aquí y allá en su cuerpo, y ya ha pasado el dolor y se ha convertido en entumecimiento.
+Lo más doloroso para Fubuki fue la cuerda alrededor de su entrepierna.
+Cada vez que su cuerpo se agitaba, cada vez que se retorcía, el lazo mordía la hendidura de Fubuki y seguía atormentando su suave carne.
+ '¿De qué sirve que…… me haga esto? 　Aunque me hagas esto, mi voluntad nunca…… jamás cambiará.
+ “Aunque me hagan esto, no cambiará……”.
+Tamanegi se ríe.
+ 'Fubuki, parece que estás muy equivocada'.
+Lo más importante es recordar que la cuerda no es una parte de tu cuerpo, es una parte de tu cuerpo. La cuerda muerde aún más su cuerpo.
+ '¡Hiuuh ……!　Ohhhh, …….”
+Esta tortura continuará, una y otra vez, para siempre, hasta que tu actitud cambie. 　Y …….”
+Tamanegi se tragó las palabras que seguían a la “y”. Entonces dijo en su mente.
+ (……Veo que debes tener una vena inherentemente masoquista en ti……)
+ ─ ─ Efectivamente, esa vista de Tamanegi no estaba loca.
+ “U……Ah, kk…………Ah……”
+Si te fijas bien, puedes ver el bermellón por toda la piel de Fubuki, y el sudor flota en ella.
+No, no es sólo su piel.
+Incluso la propia Fubuki no se dio cuenta, pero en ese momento, la hendidura secreta de Fubuki, continuamente atormentada por la cuerda, se estaba humedeciendo con gotas lascivas.
+ (Kuku…… puede verlo, Fubuki. 　Los vértices de sus pechos, bajo el desaliñado sarasi, se levantan con estrépito……)
+Tamanegi había notado el cambio en el cuerpo de Fubuki. ─ ─ En silencio, se ríe.
+ (También es posible señalar los cambios en su cuerpo y utilizar el abuso verbal, pero…… no, probablemente es demasiado pronto para hacer eso).
+Tamanegi sigue simulando la distancia más corta para convertir a la mujer que tiene delante en una esclava sexual mientras observa la reacción de Fubuki.
+ (Por el momento, puede que sólo se haya expuesto la parte mecánica del cuerpo humano que reacciona cuando se le aplican estímulos……)
+Sí, el problema era la mente de Fubuki.
+ (Una mente que acepta todo tipo de culpa y placer……) Lo primero que hay que crear es ese lado.
+Así que Tamanegi siguió esperando en silencio. El momento en que Fubuki se separó de su lado.
+ ─ ─ Y entonces.
+ 'Ah, ah, ah………… ah, ugh………… ugh, ugh… …ah, uu…… uu…………”
+Finalmente, la paciencia de Fubuki estaba llegando a su límite.
+ （No quiero seguir haciendo esto…… si me sigues haciendo esto…………)
+Fubuki estaba Hajime pensando en cómo podía ponerse cómoda.
+Incluso si su cuerpo se rompiera, no sería capaz de pensar en hacer lo que quería hacer.
+El resto del tiempo, la mente que quería estar cómoda erosionaba la mente que intentaba aguantar…
+ “A… ku………… …………”
+Fubuki retorció su cuerpo una y otra vez.
+ 'N…………, mmm, u……………… …”
+ 
+Sí, los ojos mirando hacia arriba. Ojos que coquetean con la gente.
+ ¡'O-negai…… por favor ……, no más ……, déjame ir ……, por favor perdóname ……! …….”
+ ─ ─ Ceder.
+En ese momento, habiendo abandonado sus sueños y su orgullo, Fubuki, que se rindió ante el entrenador que tenía delante, tuvo algo dulce y extático que ciertamente se extendió por su columna vertebral.
+Sin embargo, Fubuki no sabe que esto es el placer de ser sometido.
+Y además Tamanegi no se lo dice.
+ 'Así que…… ser honesto. 　Gracias Tane y Fubuki por su duro trabajo …….”
+Al decir esto, Tamanegi abraza a la llorosa Fubuki y le acaricia suavemente la cabeza.
+ (Si haces lo que te digo, ella será amable contigo…… Después de quitarte tus sueños y esperanzas, puedes infundir esa confianza en esta chica……)
+Entonces el resto caerá fácilmente en el placer. Tamanegi estaba convencido de ello.
+De hecho, ahora mismo, en la cara de Fubuki flota el color del placer.
+ (Por fin, por fin me perdona…… Si soy sincero, me perdonará…… Si hago lo que dice, será más fácil……)
+Fubuki aún no se había dado cuenta de que este es el primer paso hacia la corrupción…"
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"Yamamoto Akuji (talking)";"ふらっと寄ってみたが…… なるほど、ここが熱拳道場か。
+オオサカ最強だっつって 噂だけは昔から聞いてたんだよな。
+門下生の一人や二人、何とか 部下にスカウトしてぇところだが ……ま、当たって砕けろだな。
+おーい、たのもー。 誰か居ないかー？
+ ……………………
+ ……おーい。
+ ……………………
+何だよ、誰もいねぇのか？
+いや、こんなでけぇ道場なら、 下っ端の門下生がソッコーで 飛んできそうなモンだが。
+ …………………まさか、今日は休みとか。
+ちっ、だとしたら 無駄な時間を過ごしちまったぜ……
+面白くねーな、帰ろう。";"I wandered over to…… I see, so this is the Hot Fist Dojo.
+I've heard rumors that this is the strongest dojo in Osaka for a long time.
+I'd like to recruit one or two of his students to be my subordinates, but I'm not sure how to go about it…… Well, you'll just have to take your chances.
+Hey, come on! Anybody here?
+ ……………………
+ ……
+ ……………………
+What, no one here?
+I'm not sure if it's a big dojo like this, but I'm sure some of the lower level students would fly in immediately.………………… No way, they're closed today.
+Damn, if that's the case, I've wasted my time……
+I don't feel like Haku, let's go home.";"Me dirigí a…… veo, así que este es el Dojo del Puño Caliente.
+Había oído rumores de que era el más fuerte de Osaka desde hacía mucho tiempo.
+Me gustaría reclutar a uno o dos estudiantes para que fueran mis subordinados,…… pero supongo que tendré que arriesgarme.
+ ¡Eh, vamos! ¿Hay alguien aquí?
+ ……………………
+ ……
+ ……………………
+ ¿Qué, no hay nadie aquí?
+No, en un gran dojo como este, los estudiantes de menor nivel habrían volado inmediatamente.………………… ¿No me digas que hoy están cerrados?
+Maldita sea, si ese es el caso, he perdido mi tiempo……
+No tengo ganas de Haku, vamos a casa."
+"narrator";"──そうして悪司が去った、わずか数分後。";"─ ─ Just a few minutes after Akuji left in that way.";"─ ─ Y así Akuji se fue, sólo unos minutos después."
+" (talking)";"……………………………… …………えっちら……おっちら……
+えっちら、おっちら……おっとっと……";"……………………………… …………Eh-chira……Oh-chira……
+Ehchira and Ochira……Otto……";"………………………………………… echira…… ootchira……
+Ehchira y Ochira…… Ootto……"
+"Sanrin Fubuki (talking)";"……んいよっこい、しょっ、と。 ふー、やっと到着…………うぅ。
+ふう、空手家養成ギプスをつけて 山の滝壺まで水汲みに行くのは 楽じゃないなあ…………
+ ……なんて弱音吐いちゃダメよ私！ 今から聖なる山のお水で雑巾がけして 稽古するんだから！
+さあ、道場主として 門下生に手本を示すのよ、私！ ふぁいと、おーーーーっ！";"…… nyet, shoo, shoo. Phew, finally arrived at………… ugh.
+Phew, it's not easy to fetch water from a waterfall in the mountains wearing a karate training cast…………
+Don't…… be so wimpy, me! I'm going to practice with water from the holy mountain now!
+Now, as dojo master, you must set an example for your students, me! Woot, woot!";"…… Nyi yo, shoo, shoo. Uf, por fin he llegado a………… ugh.
+Uf, no es fácil ir a buscar agua a una cascada en las montañas con un yeso de entrenamiento de karate…………
+ ¡No…… ser tan débil, yo! ¡Voy a practicar ahora con agua de la montaña sagrada!
+Ahora, como maestro de dojo, debes dar ejemplo a tus alumnos, ¡a mí! ¡Whoo-hoo!"
+"narrator";"その娘は、足腰をガタガタフラフラさせながら 広い道場へ懸命に雑巾をかけ始めたのだった。";"The girl, with her legs and back shaky and dizzy, was working hard Hajime to put a rag on the large dojo.";"La muchacha, con las piernas y los pies tambaleantes y mareados, se afanaba en Hajime en pasar un trapo por el gran dojo."
+"Sanrin Fubuki (talking)";"……腕立て二百回、終わり。 次、腹筋運動、始めっ。
+おいっちに、おいっちに……
+ ………………
+こんな事、やるだけ無駄かなあ…… もう、私なんて………………
+ ……ううん、ここで頑張って働いて、 いっぱいお金ためて、 いつかきっと道場を再建するんだから……
+それに……ね、 お仕事楽だし、結構気持ちい…………
+ …………ぶるぶるぶる。 と、トレーニング中は 雑念抱いちゃダメっ！";"…… 200 pushups, done. Next, sit-ups, Hajime meh.
+Hey, to you, to you……
+ ………………
+I wonder if it's worth it to do this…… I can't believe I'm …………………… No, I'm going to work hard here, save a lot of money, and one day I'm going to rebuild the dojo……
+Besides,…… it's easy to work and it feels pretty good…………………… blah blah blah. And don't have any thoughts while you're training!";"…… Doscientas flexiones, hecho. A continuación, sentadillas, Hajime meh.
+Oye, a ti, a ti……
+ ………………
+Me pregunto si tiene sentido hacer esto…… No puedo creer que esté haciendo esto …………………… No, voy a trabajar duro aquí, ahorrar mucho dinero, y un día voy a reconstruir el dojo……
+Y…… ya sabes, es fácil de trabajar y se siente bastante bien …………………… blah blah blah. ¡Y no tengas ningún pensamiento mientras te entrenas!"
+"Chinpira (talking)";"吹雪ちゃーん、お客さんだよ。 出てくれ………………
+ ………うわ、吹雪ちゃん汗だくじゃない。 どうしたのさ、それ…………";"Fubuki chan, you have a visitor. Come on out of there………………
+ ………Wow, Fubuki-chan, you're all sweaty. What's wrong with that…………";"Fubuki chan, tienes una visita. Sal de ahí………………
+ ………Wow, Fubuki-chan, estás todo sudado. Qué pasa con eso…………"
+"Sanrin Fubuki (talking)";"あ、ご、ごめんなさい…… ちょっとトレーニングしてて……
+ …………今日、ヒマだと思ったから…… すみません……";"Oh, I'm sorry, I'm sorry…… I've been training for a bit ……………… I thought I'd be free today…… Sorry ……";"Oh, lo siento, lo siento…… estaba entrenando un poco ……………… Pensé que estaría libre hoy…… Lo siento ……"
+"Chinpira (talking)";"困るなー、仕事時間中に そんな勝手されちゃあ……";"I don't like it when people do that during work hours……";"No me gusta que la gente haga eso en horas de trabajo……"
+"Sanrin Fubuki (talking)";"とにかく、すぐにシャワー浴びてきます。 お客さんに少し待っててもらって……";"Anyway, I'm off to take a shower soon. I'll have a customer wait a bit for me……";"En fin, me voy a dar una ducha rápida. Haré que un cliente me espere un poco……"
+"Chinpira (talking)";"ああ、いいって。 もうそのまま出ちゃいな。";"Oh, it's okay. Just get out of here.";"Sí, está bien. Sólo vete de aquí."
+"Sanrin Fubuki (talking)";"……へっ？ だって今の私、シャレになんないくらい 汗くさいですよ？";"…… huh? Because right now I'm sweating like crazy.";"…… ¿Eh? Porque estoy sudando como un loco ahora mismo."
+"Chinpira (talking)";"あー、今日の客、うちの会員でさ。 そういうの好きな人なんだよ。
+指名の理由からして、化粧ッ気のない 健康な躰の持ち主を……だからね。 ぜーんぜんＯＫ、ノープロブレム。";"Oh, today's guest is a member of our club. He likes that kind of thing.
+The reason for the nomination is that I'm looking for a healthy body with no make-up ……. It's totally OK, no problem.";"Ah, el invitado de hoy es un miembro de nuestro club. Le gusta ese tipo de cosas.
+El motivo de la nominación es que busco un cuerpo sano y sin maquillaje ……. Está bien, no hay problema."
+"Sanrin Fubuki (talking)";"………………？？？";"………………？？？";"………………？？？"
+"cg narrator";"「や、やだっ……！　ちょ、やめて…………！ 　やめてよおっ…………！！」
+客の一人に羽交い締めにされた吹雪は、 手足をじたばたさせて抵抗してみたのだが──
+ 「……そうそう、そうやって嫌がっててくれ。 　少し抵抗してくれた方が、体温が上がって 　いい匂いがするからさ……」
+客たちはそう言って、むしろ喜びさえする。
+ 「ふ、二人同時にされるなんて 　私、聞いてないのにいっ…………！」
+ 「何だよ、この売春宿って、 　強姦のイメージプレイもＯＫだって聞いたのに 　こんなのは初めてだってのか？」
+ 「だっ……だって、こんな事望む人、 　今までいなかったから……」
+ 「へっ、悪かったな、変な客でよ。 　何にせよこっちはもう金払ってんだ、 　諦めてもらうしかないけどな……」
+そして、客の一人が吹雪の下半身に取り付いて、 下腹の翳りに鼻を押しつける。
+そして客は──鼻から思い切り息を吸い込む。
+ 「へへっ……いい匂いがするぜ。 　たまんねえな、甘酸っぱい女の匂い………」
+ 「やっ……嫌だもうっ…………！ 　こんなの嫌あっ……！！」
+吹雪は男たちを振り解いて、 この責めから一旦逃げようとした。
+だが、背後から吹雪の自由を奪う客は 驚くほどの膂力の持ち主で、 少し暴れた程度ならびくともしなかった。
+ 「へへっ……元気なオモチャだな。 　そう嫌がんなって、 　始まったばっかりなんだからよ」
+そう言って、 客は吹雪を更に強く締め付ける。
+ ──吹雪の躰が、軋む。
+ 「い、痛っ………………！」
+ 「へ、へへ…… 　とてもイメージプレイだと思えないな。 　本当に強姦してるみたいだ……」
+嬉しそうに言って、 二人の客がにやにやと笑う。
+ （ほ、本当に強姦してるんだってばっ…… 　こっちが娼婦だからって 　何でも許されると思わないでよっ……！）
+吹雪は、そう言ってやろうかと本気で思った。
+だが、喉まで出かかったその言葉を、 吹雪はぐっと呑み込んだ。
+ （お……お客さんなんだから、こんな奴でも…… 　機嫌損ねちゃいけない…………）
+そして、客の行為を黙って受け入れる。
+ （ど、どうせ……することさえしてくれたら…… 　こっちも、多少は……き、気持ちよくなって…… 　……うん、我慢、我慢………………）
+そう、自分に言い聞かせて。
+ ──だが、いつまで経っても 吹雪は気持ちよくなれなかった。
+背後の客は、吹雪の躰をまさぐりながら 頭に顔を押しつけ、髪の匂いを嗅いでいる。
+そして、下半身に取り付いた客は、 じっとりと汗ばんだ内腿に舌を這わせながら、 くんくんとしきりに汗の匂いを嗅いでいる。
+この客たちにとって、愛撫はおまけのような物で、 主な目的は吹雪の匂いを嗅ぐ事らしかった。
+ （なっ、何よこの人たちっ…… 　もしかして変態さん………………！？）
+そう思うと、吹雪の背筋が少し寒くなった。
+ 「はあ…………ああっ…… 　いいねえ…………堪らないよ…………」
+急に、下半身へ取り付いている客が、 恍惚とした声で呟いた。
+何をうっとりしているのか理解できないから、 吹雪はもう、ぞっとして震えるしかなかった。
+ （ああああ……だああああ………… 　やだもう、普通に可愛がってよぉ…………）
+不気味だったり、困り果てたりで、 吹雪は泣きたくなってきた。
+ （………………ひっ……！？）
+そんな時、背中から尻の辺りに 何か硬い物が押しつけられて、 吹雪はびくりと躰を震わせた。
+背中側にいる客の、勃起した男根だった。
+ （わ、私の匂いだけで、 　そんなに興奮できるのぉ！？ 　う、うっそお……………………………）
+ ──だが、そう思う一方で。
+ （……そんなに、興奮できるものなのかな……）
+心の片隅で、その気持ちを知りたいとも思う。
+ （汗くさいだけじゃないのかな…… 　自分だから、そう思うだけかな…………）
+そう考えた時、ふと気がついた。
+ （私、も……あまり、きつくなかったら………… 　男の人の、匂いって……嫌いじゃ、ないけど）
+その延長線上に、この客たちの行為があるのなら、 まったく想像できないものではない、と思う。
+ （…………ちょっと、変だけど…… 　変態さんって訳でもないか…………）
+すうっと、客への嫌悪感が無くなっていった。
+ （…………でも、どうせだったら…… 　普通に可愛がって欲しいなあ…………）
+そして、吹雪は意識する。 ──背中に押しつけられた、硬いものを。
+ （…………せっかく…… 　そんなになってるのに………………）
+ 「…………匂いが変わった……」
+吹雪の下半身に取り付いていた客が、 急にそう呟いた。
+ 「へ、へへ…………スケベな女だな、 　さっきまで嫌がってたくせに、 　もう濡れてきてんのか……」
+ 「え…………ええっ！？ 　わ、私、そんなっ……………………」
+吹雪自信は、全く解らなかった。 だが、客が吹雪の秘裂に指をしのばせると──
+ 　　［ちゅく、ぬ…………］
+ ──客の指先は、乾いた状態で擦れたりせず、 かすかな潤みでぬるりと滑った。
+ 「あんた……いいよ、すごくいい………… 　ここの滴の匂いまで心地いいよ…… 　よほど生命力に溢れた躰してるんだな…………」
+ 「あ、あああ…………あ、あの、 　わ、私、あああああああの………………」
+ 「…………さて、今度は、 　こっちも堪能させてもらうか…………」
+その客は秘裂を指先で押し広げて、 吹雪の躰のいりぐちへ鼻の頭を押しつけてきた。
+ 「………………ひぅ……！！」
+吹雪の敏感な部分を、客の鼻が這い回る。
+胎へと繋がる道に、襞に、 客の荒い呼吸が吹き込まれる──
+ 「やっ…………やだあああっ！ 　やめ、やめてよそんな…………やあああっ！」
+ 「………………」
+ 「お願い……だから………… 　普通にしてよお………………」
+ 「こんな…………生殺しみたいなの…… 　拷問よりひどいよお…………」
+ 「ひ、うっ……………… 　ううっ、うあああっ………………」";"No, no, no……!　No, no, no, …………! 　Stop it!
+Fubuki, who was pinned down by one of the customers, tried to resist by flailing his arms and legs…
+ ……Yes, yes, you should resist like that. 　It's better if you resist a little, because it raises your body temperature and makes you smell good……
+The guests were even rather pleased when I said that.
+ “I didn't know they were going to do it to both of us at the same time…………
+What, I heard this whorehouse is open to rape imagery, and you've never seen anything like this before?”
+ “No,…… because no one's ever wanted to do this before……
+I'm sorry I'm such a strange customer. 　I'm sorry, I'm a strange customer.
+One of the customers then attached himself to Fubuki's lower body and pressed his nose against the fading of his lower abdomen.
+And then the guest - he breathes in through his nose as hard as he can.
+Hehehe…… smells good. 　I can't get enough of the sweet and sour smell of women………
+ “No……, I hate it! 　I don't like this ……!
+Fubuki shook off the men and tried to escape from this torture for a while.
+The customer who takes away Fubuki's freedom from behind has amazingly strong muscles.
+Hehehe…… is a cheerful toy, isn't he? 　Don't be so disgusted, I just got back from Hajime.
+Saying that, the customer squeezes Fubuki even harder.
+The body of Fubuki creaks.
+ “Ow, ouch ………………!
+ “Heh, heh…… can't believe it's an imaginary play. 　It's like you're really raping…… them.”
+The two guests giggle, saying happily, “Oh, it's really rape.
+ (Oh, we're really raping them!…… Don't think that just because we're prostitutes, we're allowed to do anything……!)
+Fubuki was seriously thinking of saying so.
+But Fubuki swallowed the words that were about to come out of her throat.
+ (He is a…… customer, so he shouldn't be in a bad mood…… even if he is such a guy …………) …)
+Then, he silently accepts the customer's act.
+ (If they would only do…… what they do anyway, we would feel a little…… better…)……… yeah, patience, patience ………………)
+That's what I told myself.
+But no matter how long it took, Fubuki could not become comfortable.
+The customer behind him was rubbing Fubuki's body, pressing his face against her head and smelling her hair.
+And the one on the lower half of his body was running his tongue over his sweaty inner thighs, smelling his sweat.
+For them, caressing was just an added bonus, and their main purpose seemed to be to smell Fubuki.
+ (What is it with these people?…… Could it be that they are perverts ………………?)
+Thinking about it, Fubuki's spine felt a little chill.
+ 'Haa………… ah…… good……… …I can't stand it…………”
+Suddenly, the guest attached to the lower half of the body muttered in an ecstatic voice.
+Because he did not understand what he was entranced by, Fubuki could not help but shiver in horror.
+ (Ahhhh ……, ahhhh………… Oh my God, just be cute like a normal person…… (……)
+Creeped out and confused, Fubuki felt like crying.
+ (……………… hihi ……!?)
+At that time, something hard pressed against his back and buttocks, and Fubuki's body trembled.
+It was the erect penis of the customer on her back.
+ （Wow, just the smell of me turns you on so much! 　(Ugh, oh no……………………… ……)
+But on the other hand, I thought, “How can you get so excited?
+ (…… can it be that exciting? ……)
+In a corner of my mind, I also want to know how it feels.
+ (I wonder if it's just sweaty…… I wonder if I just feel that way because it's me …………)
+When I thought about that, I suddenly realized.
+ (If I wasn't too…… tight, I might be able to get a better sense of how a man smells …………. I don't mind it.)
+ ) If this is an extension of what these guests are doing, it is not at all unimaginable, I think.
+ (………… a little bit weird, but…… not perverted, either…… (……)
+I was gradually losing my dislike for the guests.
+ (………… but I'd like them to be…… cute and normal anyway…… (……)
+And Fubuki becomes aware. He was aware of something hard pressed against his back.
+ (………… even though…… it has become so much…… (…………)
+ “………… the smell has changed……”
+The customer who was attached to Fubuki's lower body suddenly muttered that.
+ “Heh, heh………… dirty girl, you didn't like it earlier, but you're already getting wet…….”
+ “What………… eh? 　I, I, I, I don't…………………… think so.”
+Fubukiconfidence was not at all clear. But when the customer put his finger in Fubuki's secret crack…
+ 　　［”Chukuku, nun………….]
+The client's fingertip slid smoothly with a hint of moisture, not rubbing dry.
+You…… are good, very good………… Even the smell of the drops here is pleasant…… you must have a very vital body ………….”
+ “Oh, ah…………, ah, um, I, I, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah…….”
+ “………… Well, now I'm going to enjoy this one as well…………
+The customer pushed her cleft open with her fingertips and pressed the head of her nose against the entrance of Fubuki's body.
+ “………………Hi……!
+The visitor's nose crawled around Fubuki's sensitive parts.
+The guest's rough breathing blew into the folds, into the path that led to the womb…
+No …………, no! 　Stop it, stop it, don't………… like that!
+ “No, no, no, no, no, no, no, no, no, no, no, no, no, no!
+ “Please…… so………… normal, please…… …………”
+ “This………… is worse than torture… ………”
+ “Hi, ugh……………… ugh, ughhhh…… …………”";"No, no, no. ¡……!　¡No, no, no, …………! 　¡Basta! ¡Basta! …………!
+Fubuki, que estaba inmovilizado por uno de los clientes, intentó resistirse agitando los brazos y las piernas…
+ '……Sí, sí, debes resistirte así. 　Es mejor que te resistas un poco, te sube la temperatura corporal y te hace oler bien……”
+Los invitados incluso se mostraron bastante satisfechos cuando dijeron.
+ “No te oí decir que ibas a hacérnoslo a los dos al mismo tiempo…………
+ “¿Qué, he oído que este burdel está abierto a las imágenes de violación, pero nunca has visto nada como esto?”
+Porque…… Nunca he tenido a nadie que quiera hacer esto…… antes.
+Lo siento, soy un cliente raro. 　De todas formas ya lo he pagado, así que tendrás que dejarlo……
+Lo primero que se me ocurre es que la primera vez que vea a una mujer en el mercado, se sorprenderá de la cantidad de gente que la mira.
+A continuación, el cliente inspira por la nariz con toda la fuerza que puede.
+ 'Hehehe…… huele bien. 　Me encanta el olor de las mujeres agridulces………
+ 'No ……, ¡lo odio! 　¡No me gusta este ……!
+La Fubuki se sacudió a los hombres y trató de escapar de esta tortura durante un rato.
+El cliente que le quita la libertad a Fubuki por la espalda tiene una musculatura sorprendentemente fuerte, y ni siquiera un poco de violencia le sacudirá.
+ 'Hehe…… es un juguete alegre, ¿no? 　No estés tan disgustado, sólo he Hajime”.
+Al decir esto, el cliente aprieta aún más a Fubuki.
+El cuerpo de Fubuki cruje.
+ “¡Ay, ay ………………!”
+ “Heh, heh…… no puede creer que sea una obra de imagen. 　Es como si realmente estuvieras violando…… ellos”.
+Los dos invitados se ríen, diciendo alegremente.
+ (Ho, realmente la estoy violando…… No creas que puedes salirte con la tuya sólo porque somos prostitutas……)
+Fubuki estaba pensando seriamente en decir eso.
+Pero Fubuki se tragó las palabras que estaban a punto de subir a su garganta.
+ (Es un cliente de ……, así que no debería estar de mal humor…… aunque sea un tipo así……… …)
+Y acepta en silencio la acción del cliente.
+ (Si tan sólo lo hicieran…… de todos modos, nos sentiríamos un poco…… mejor…)……… sí, paciencia, paciencia ………………)
+Eso es lo que me dije.
+ ─ ─ Pero por mucho tiempo que pasara, Fubuki no podía ponerse cómoda.
+La clienta que estaba detrás de ella estaba frotando el cuerpo de Fubuki, apretando su cara contra su cabeza y oliendo su pelo.
+Y el cliente que estaba pegado a la mitad inferior de su cuerpo olfateaba con la lengua la parte interior de sus muslos sudados, oliendo su sudor.
+El objetivo principal de estos clientes es oler Fubuki.
+ (Oye, ¿qué pasa con esta gente?…… ¿Será que son pervertidos ………………?)
+Cuando pensó en eso, un pequeño escalofrío recorrió la columna vertebral de Fubuki.
+ 'Haa………… ah…… bueno……… …no puedo soportarlo, ………….'
+De repente, el invitado unido a la mitad inferior de su cuerpo murmuró con voz exaltada.
+Como no podía entender qué era lo que le atraía, Fubuki sólo pudo estremecerse de horror.
+ (Aaaaah…… es aaaaah………… oh mi dios, solo se lindo como un normal…… (……)
+Asustada y angustiada, Fubuki tuvo ganas de llorar.
+ (……………… hihi ……!?)
+En ese momento, algo duro le presionó la espalda y las nalgas, y el cuerpo de Fubuki se estremeció con una sacudida.
+Era el pene erecto del cliente en su trasero.
+ （Lo primero que hay que hacer es observar bien el cuerpo de la otra persona. 　(Ugh, oh no……………………… ……)
+Pero por otro lado, pensé.
+ (…… ¿puedes emocionarte tanto? ……)
+En un rincón de mi mente, también quiero saber cómo se siente.
+ (¿No es sólo sudoroso?…… Me pregunto si sólo lo pienso porque soy yo…………)
+Cuando pensé en esto, me di cuenta de repente.
+ (Si no fuera demasiado…… apretado, sería capaz de oler………… el olor de un hombre…… No lo odio).
+ ) Si, como una extensión de eso, el comportamiento de estos invitados no es en absoluto inimaginable, creo.
+ (………… un poco raro, pero…… nada pervertido…… (……)
+Cada vez sentía menos aversión por los invitados.
+ (………… pero de todos modos me gustaría que fueran…… normales y adorables…… (……)
+Y Fubuki toma conciencia. ──Algo duro presionó contra su espalda.
+ (………… aunque…… se ha vuelto tan…… (…………)
+ “………… el olor ha cambiado ……”
+El cliente que estaba pegado a la parte inferior del cuerpo de Fubuki murmuró de repente.
+ 'Heh, heh………… mujer sucia, no te gustó antes, pero ya te estás mojando…….'
+ ¡'Eh………… eh! 　Yo, yo, yo no quiero ………………………”
+La confianza de Fubuki no se entiende en absoluto. Sin embargo, cuando un cliente puso su dedo en la hendidura de Fubuki…
+ 　　[Chukuku, monja …………]
+Las yemas de los dedos del cliente no se resecaron, sino que se deslizaron suavemente con un toque de humedad.
+ 'Vosotros…… sois buenos, muy buenos………… incluso el olor de las gotas aquí es agradable…… debes tener un cuerpo tan vital ………….”
+ 'Oh, oh………… oh, um, yo… yo… oh mi… oh mi…………… …….”
+ “………… Bueno, ahora voy a disfrutar de este también…………”
+La clienta abrió su hendidura con la punta de los dedos y presionó la cabeza de su nariz contra la entrada del cuerpo de Fubuki.
+ ¡'………………Hi……!
+La nariz del visitante recorrió las partes sensibles de Fubuki.
+La áspera respiración del huésped sopla en los pliegues, en el camino que lleva al vientre…
+ “¡No, …………, no! 　Para, para, no hagas eso.
+ “……………….”
+Por favor,…… para que………… lo normalice…… …………”
+ 'Este………… es peor que la tortura, es como…… tortura…' ………”
+ “Hola, ugh……………… ugh, ughhhh…… …………”"
+"cg narrator";"──吹雪は、最後にとうとう泣き始めた。
+けれど、客たちは一向に構わず、 自分たちの好む事しか吹雪に求めない。
+吹雪の秘裂がひくひくと蠢き、 こぼれおちた潤みが脚を伝って床に落ちても。
+躰を昴らせた吹雪が、 自分から客に秘裂を擦り付けていっても。
+吹雪の、女としての欲求は 叶えられなかった。";"Fubuki finally cried and Hajime at the end.
+But the guests didn't care, they only wanted what they wanted from Fubuki.
+Even as Fubuki's cleft twitched, and the moisture spilled down her legs and onto the floor.
+Even if Fubuki, who has been subdued, rubs her cleft against the customer herself.
+Fubuki's desire as a woman was not fulfilled.";"Fubuki finalmente lloró y Hajime al final.
+Pero a los invitados no les importaba, sólo querían lo que les gustaba de Fubuki.
+Incluso cuando la grieta secreta de Fubuki se agitó y la humedad se derramó por sus piernas y cayó al suelo.
+Incluso si Fubuki, que ha sido sometida, frota su hendidura contra el propio cliente.
+El deseo de Fubuki como mujer no se pudo cumplir."
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"Sanrin Fubuki (talking)";"………………
+ひぐっ…………ううっ…… うええええん…………";"………………
+Higg………… ugh…… ughhhhhhhhhhhh……… …";"………………
+Higg………… ugh…… ugh……… …"
+"Chinpira (talking)";"やあ、吹雪ちゃん、おつかれー。
+ ……って、どうしたの？ さっきの客にひどいことされたとか……";"Hey there, Fubuki-chan!
+What's wrong with ……? I heard that the customer who just came in did something terrible to you……";"¡Hola, Fubuki-chan!
+ ¿Qué pasa con ……? He oído que el cliente que acaba de entrar te ha hecho algo terrible……"
+"Sanrin Fubuki (talking)";"………………
+抱いて。";"………………
+Hugs.";"Disponible en: ………………
+Abrazos."
+"Chinpira (talking)";"へっ？";"Huh?";"¿Eh?"
+"Sanrin Fubuki (talking)";"お願いだから抱いてーーーーーーーー！！";"";"¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡Por favor, abrázame, por favor abrázame !!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+"narrator";"殺気立った吹雪が、 店番のチンピラに猛然と襲いかかった！";"The impetuous Satsu Fubuki attacked the store keeper's thugs with a vengeance!";"Satsu, una Fubuki encendida, atacó con ferocidad a los matones del tendero."
+"Chinpira (talking)";"ふっ、吹雪ちゃ………… うわああああああああっ！！";"Phew, Fubuki cha………… Wow!";"Huh, Fubuki cha………… ¡Guau!"
+"narrator";"　　［どたばたどたばた……］";"[slap, slap, slap: ……]";"[bofetada bofetada bofetada: ……]"
+" (talking)";"………………
+ ……ああン………………☆";"………………
+ ……aan………………☆";"………………
+ ……aan………………☆"
+"narrator";"──吹雪の、女としての欲求は 叶えられたようだ。";"It seems that Fubuki's desire as a woman has been fulfilled.";"─ ─ Los deseos de Fubuki como mujer parecen haberse cumplido."
+" (talking)";"命を削り合う実戦を経験してこそ 本当の武道家たりうるのよ！ さあ、かかってらっしゃいっ！！";"Only by experiencing real combat, by fighting for your life, can you become a true martial artist! Come on, let's go!";"Sólo cuando hayas experimentado el combate real, en el que hay vidas en juego, podrás convertirte en un verdadero artista marcial. ¡Vamos, vamos!"
+" (talking)";"な……何で吹雪お嬢様が実戦に…… あんな弱い人が……";"What is Fubuki missus doing in a real battle…… with such a weak person ……?";"¿Por qué la señora Fubuki entró en combate real…… con un…… tan débil"
+" (talking)";"この裏切り者ーーーーーっ！！ ここで会ったが百年目！ 裏切りの代償、その血で償えーー！！";"You traitor! We have met here for the hundredth year! You will pay for your treachery with your blood!";"¡Traidor! ¡Nos encontramos aquí desde hace cien años! ¡Pagarás tu traición con tu sangre!"
+" (talking)";"……参ったな、一応師匠の娘だし、 怪我させたくないんだけど…………";"…… I'm stumped, she's a master's daughter in case you're wondering, and I don't want to hurt her…………";"…… Estoy perplejo, es la hija de un maestro, por si te lo preguntas, y no quiero que se haga daño…………"
+"narrator";"吹雪は、道場の中央に座して 一人座禅を組んでいた。";"Fubuki was sitting in the center of the dojo doing zazen by himself.";"Fubuki estaba sentado en el centro del dojo haciendo zazen él solo."
+"Sanrin Fubuki (thinking)";"……悪司さんから貰ったお給料で 道場も綺麗になった…………
+私も、以前よりは 少しだけ強くなれたと思う……
+ …………でも…… まだまだ、私の武には先がある……
+もう少し、悪司さんのところで 修行を続けて……
+ ………………
+お父様……もう少しです。 もう少しだけ待っていて下さい……
+吹雪は近い内に、必ず、 この道場を再建してみせます……！";"With the salary I got from ……Akuji, the dojo has been cleaned …………
+I think I'm a little stronger than before too……
+I still have a long way to go in my martial arts…… even …………
+I will continue my training at Akuji's place a little longer……
+ ………………
+Father,…… a little more. Please wait a little longer……
+Fubuki will surely rebuild this dojo in the near future……!";"Con el sueldo que he conseguido de ……Akuji, el dojo se ha limpiado …………
+Creo que soy un poco más fuerte que antes también……
+Todavía tengo un largo camino por recorrer en mis artes marciales…… incluso …………
+Continuaré mi entrenamiento en casa de Akuji durante un poco más de tiempo……
+ ………………
+Padre,…… un poco más. Por favor, espere un poco más……
+ ¡Fubuki seguramente reconstruirá este dojo en un futuro próximo……!"
+"narrator";"吹雪はすっくと立ち上がって、 日課である熱拳流拳術の“型”を遣い始めた。
+ ──見とれるほど流麗に、そして力強く。";"Fubuki stood up quickly, and used his daily “kata” of Ateken-ryu kenjutsu, Hajime.
+He did it with such fluidity and power that it was almost impossible to watch.";"Fubuki se levantó rápidamente, y utilizó el “kata” de su rutina diaria, el Ateken-ryu kenjutsu, sobre Hajime.
+Lo hizo con tal fluidez y potencia que era casi imposible de mirar."

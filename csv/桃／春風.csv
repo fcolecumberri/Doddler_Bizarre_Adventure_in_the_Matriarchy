@@ -1,0 +1,1099 @@
+"character";"jap text";"Eng";"Esp"
+"__system__??";"{麦 = 1:";"";""
+"__system__??";"{☆春風 < 10:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(☆春風 = 10) * (I装備[2] = 99):";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 2:";"";""
+"__system__??";"{B忠誠心 > 70:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 3:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 4:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 5:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 10:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 11:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 12:";"";""
+"__system__??";"{H愛欲 = 1:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(H愛欲抵抗 <= H愛欲) * (D11 = 0):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(H愛欲抵抗 <= H愛欲) * (D11 \ 0):";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 13:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 15:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 16:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 17:";"";""
+"__system__??";"{H拷問抵抗 < H拷問:";"";""
+"__system__??";"}";"";""
+"__system__??";"{H拷問 = 1:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 18:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 19:";"";""
+"__system__??";"}";"";""
+"Harukaze (talking)";"なんだよ。";"What is it?";"Qué es."
+"Yamamoto Akuji (talking)";"春風…春風……";"Harukaze…Harukaze……";"Harukaze…Harukaze……"
+"Harukaze (talking)";"何、人の名前、連呼してんだよ。";"What are you calling people's names?";"¿Por qué llamas a la gente por su nombre?"
+"Yamamoto Akuji (talking)";"おう。 これってさ、名前か名字、 どっちかなっと思ってよ。";"Oh. I was wondering if this is a first name or a last name.";"Oh. Me preguntaba si es un nombre o un apellido."
+"Harukaze (talking)";"春風の名前は、春風だ。";"The name of Harukaze is Harukaze.";"El nombre de Harukaze es Harukaze."
+"Yamamoto Akuji (talking)";"なんで？";"Why?";"¿Por qué?"
+"Harukaze (talking)";"……つけて貰った。 春風、オオアナのそばで座ってたん だって。
+その時、視察にきていて、 拾って下さった人が、 名前をつけてくれたんだ。";"I got it from ……. Harukaze, he was sitting by Oana.
+The person who came to visit and picked him up gave him his name.";"Me pusieron en ……. Harukaze, estaba sentado junto a Oana.
+La persona que vino a inspeccionar el lugar y lo recogió le dio un nombre."
+"Yamamoto Akuji (talking)";"お前さん、戦災孤児か。";"Are you a war orphan?";"¿Es usted un huérfano de guerra?"
+"Harukaze (talking)";"そーなんじゃないのかな。 春風、知らない。";"I guess so. Harukaze, I don't know.";"Creo que eso es correcto. Harukaze, no lo sé."
+"Yamamoto Akuji (talking)";"ふーん。";"Hmmm.";"Hmmm."
+"Harukaze (talking)";"悪司。";"Akuji.";"Akuji."
+"Yamamoto Akuji (talking)";"んー？";"Hmm?";"¿Hmm?"
+"Harukaze (talking)";"机の下で拾ったんだ。 春風いらないから、悪司にあげる。";"I picked it up under my desk. I don't want Harukaze, so I'll give it to Akuji.";"Lo recogí bajo mi escritorio. No quiero Harukaze, así que se lo daré a Akuji."
+"Yamamoto Akuji (talking)";"ん~？";"Hmm?";"¿Hmm?"
+"narrator";"春風はニヤッと笑うと、悪司の手の上に 拾ったものを置いた。";"Harukaze smirked and placed the found object on Akuji's hand.";"Harukaze sonrió y colocó el objeto encontrado en la mano de Akuji."
+"Yamamoto Akuji (talking)";"なんだ、死んだ小鳥の死体じゃねーか。";"What's that, it's the corpse of a dead little bird.";"¿Qué es eso, un pajarito muerto?"
+"Harukaze (talking)";"………………あれ？";"……………… Huh?";"……………… ¿Eh?"
+"Yamamoto Akuji (talking)";"なんだ？";"What is it?";"¿Qué es?"
+"Harukaze (talking)";"それ、気持ち悪くないの？";"Isn't that sickening?";"¿No es asqueroso?"
+"Yamamoto Akuji (talking)";"別に。";"Separately.";"Por separado."
+"Harukaze (talking)";"ちっ。 ぎゃーとか言うかと思ったのに。
+それよりさー、変。";"Damn. I thought you were going to say something like, “Oh, no!
+But it's more than that, it's weird.";"Maldita sea. Pensé que ibas a decir algo como “oh no”.
+Pero es más que eso, es raro."
+"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
+"Harukaze (talking)";"死んだ小鳥の死体って、言葉が変。";"Dead little bird corpse is a strange word.";"Los pajaritos muertos son una palabra extraña para un pajarito muerto."
+"Yamamoto Akuji (talking)";"んだけど、そーいう名前だからなー。";"But that's the name of the game.";"Pero así se llama."
+"Harukaze (talking)";"納得出来ないってば。";"I'm not convinced.";"No me convence."
+"Yamamoto Akuji (talking)";"さーて。";"Well.";"Bueno."
+"Harukaze (talking)";"……な、なんだよ、その顔…";"…… Hey, what's with the face…";"…… Oye, ¿qué pasa con esa cara…"
+"Yamamoto Akuji (talking)";"可愛い春風を拝みましょうかねーって いう顔さ。";"I'd like to see the pretty face of Harukaze.";"La mirada en su rostro dice: “Veamos a la encantadora Harukaze”."
+"Harukaze (talking)";"なんだよ、それ…っ…いっ… いやだ、春風……";"";"Qué demonios es eso…….. No, Harukaze ……"
+"Yamamoto Akuji (talking)";"なんで？ いーじゃねぇか。 恥ずかしくないってよ。";"Why not? Why not? I'm not ashamed of it.";"¿Por qué no? ¿Por qué no? Dice que no está avergonzado."
+"Harukaze (talking)";"や、やだやだ… もう…あんな……";"Oh no, no, no… not anymore… like that ……";"Oh no, no, no… no más… así ……"
+"Yamamoto Akuji (talking)";"あんな？";"Oh, my God?";"¿Ah, no?"
+"Harukaze (talking)";"あ、だ、だから…その…";"Oh, so… so… so…";"Oh, tan… tan… tan…"
+"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
+"Harukaze (talking)";"や、やだよ、悪司…… 春風……";"Oh no, no, no. Akuji…… Harukaze ……";"No, no, no, Akuji…… Harukaze ……"
+"Yamamoto Akuji (talking)";"すぐにいやじゃなくなるさ。";"Soon you won't hate it.";"Pronto no lo odiarás."
+"Harukaze (talking)";"う、あ、あっ…！";"Uh, ah…!";"Uh, ah, ah…"
+"cg narrator";"「うっ……あああっ……！！」
+ 「さあ、入れるぜ。 　春風、ゆっくり入ってくんの、 　好きだったよな」
+ 「うっ……うんっ……」
+ 「お望み通りにしてやるよ」
+ 「あっ……あううっ…あ、あ！」
+ 「可愛いぜ、春風。 　いい顔だ」
+ 「やっ……やだ…やだっ……もっ…あっ…」
+ 「もう動いて欲しいのか？」
+ 「うっ……うん……」
+ 「どんな風に？」
+ 「……たくさんっ……たくさん…動いて…」
+ 「よーし、わかった。 　お前さんが気絶するまで動いてやるよ」
+ 「んっ……あっ…あううっ……！！」";"”Ugh…… ohhhh ……!!!”
+ “Come on, let's go in. 　Harukaze, you liked it when you went in slowly, didn't you?”
+ “Ugh…… yeah……”
+ “I'll do whatever you want.”
+ “Oh,…… ahh… ahh!”
+ “You're cute, Harukaze. 　You have a nice face.”
+ “No… no… no… no… no… no… no… no… no… no… no… no… no… no… no… no…
+You want me to move already?
+Ugh,…… yeah,……
+Like what?
+ “…… a lot,…… a lot… move…”
+ “Okay, okay. 　I'm going to move you until you pass out.
+I'm going to move you until you pass out.";"¡'Ugh…… ohhhh ……!
+ “Vamos, entremos. 　Harukaze, te gustaba cuando entrabas despacio, ¿no?”
+Ugh…… si ……
+Haré lo que quieras.
+ “¡Oh,…… ahh… ahh!”
+ “Eres lindo, Harukaze. 　Bonita cara”.
+No… no… no… no… no… no… no… no…
+ ¿Quieres que me mueva ya?”
+Ugh,…… sí, ……
+ ¿Cómo qué?
+ “…… mucho,…… mucho… muévete…”
+Vale, vale. 　Me moveré hasta que te desmayes”.
+ 'Oh……… ah… ah… ah… ……!"
+"Yamamoto Akuji (talking)";"さて、待たせたな。";"Well, thanks for the wait.";"Bueno, te he hecho esperar."
+"Harukaze (talking)";"…何が？";"…What?";"…¿qué?"
+"Yamamoto Akuji (talking)";"わかってんだろ？ ほれ、向こうの部屋行くぞ。
+それともここで、だれかれ構わず 見られながらする方が好きか？";"You know what I'm talking about. Come on, let's go to the other room.
+Or do you prefer to do it here, where anyone can watch you?";"Ya sabes lo que quiero decir. Venga, vamos a la otra habitación.
+ ¿O prefieres hacerlo aquí, donde cualquiera puede observarte?"
+"Harukaze (talking)";"そんな変態さんみたいな事、 春風きらいだ。";"I don't like that kind of perverted thing, Harukaze.";"No me gusta ese tipo de cosas pervertidas, Harukaze."
+"Yamamoto Akuji (talking)";"だったらこい。 ほれほれ。";"Then come on. Come on, come on.";"Entonces ven. Aquí, aquí."
+"Harukaze (talking)";"襟首摘ままないでよ！ 服、伸びちゃうだろっ！！";"Don't pick at my collar! You're stretching my clothes!";"¡No me toques el cuello! ¡Estás estirando mi ropa!"
+"Harukaze (talking)";"春風は、悪司に抱かれた。";"Harukaze was embraced by Akuji.";"Harukaze fue abrazado por Akuji."
+"Yamamoto Akuji (talking)";"遠慮しなくても、 もっと声あげていいんだぞ。";"Don't be afraid to speak up.";"No seas tímido, puedes hablar más."
+"Harukaze (talking)";"うるさいなぁ…春風の勝手だろ。";"Shut up…it's up to Harukaze.";"Cállate… depende de Harukaze."
+"Yamamoto Akuji (talking)";"そーかそーか。 恥ずかしいのか。";"I see. Are you ashamed?";"Ya veo. ¿Te da vergüenza?"
+"Harukaze (talking)";"何も言ってないだろ、馬鹿！";"I didn't say anything, idiot!";"¡No he dicho nada, idiota!"
+"Yamamoto Akuji (talking)";"ほれ、小遣いやるよ。";"Here, I'll give you some money.";"Toma, te daré algo de dinero de bolsillo."
+"Harukaze (talking)";"お金…";"Money…";"Dinero …"
+"Yamamoto Akuji (talking)";"いらねぇか？";"Don't you want it?";"¿No lo quieres?"
+"Harukaze (talking)";"……もらっとく…… でもこれ使って、いつかあんたを 裏切ってやるからな。";"I'll take…… but I'll use it to rat you out someday.";"Lo tomaré…… pero lo usaré para delatarte un día."
+"Yamamoto Akuji (talking)";"そーかそーか。";"Oh, yeah.";"Ah, sí."
+"Harukaze (talking)";"頭撫でないでよっ！";"Don't pet my head!";"¡No me des palmaditas en la cabeza!"
+"Yamamoto Akuji (talking)";"ふーん。";"Hmmm.";"Hmmm."
+"Harukaze (talking)";"…………………";"…………………";"…………………"
+"narrator";"挑むような目で、悪司を睨んでいる春風。";"Harukaze glares at Akuji with challenging eyes.";"Harukaze mira a Akuji con ojos desafiantes."
+"Yamamoto Akuji (talking)";"いい目つきしてんな、お前。";"You've got a good eye, you know that?";"Tienes buen ojo."
+"Harukaze (talking)";"春風は春風だ！ お前なんて名前じゃない！";"Harukaze is Harukaze! You're not a name!";"¡Harukaze es Harukaze! ¡No eres un nombre!"
+"Yamamoto Akuji (talking)";"そーかそーか。 落ち着け、春風。";"Oh, yeah. Calm down, Harukaze.";"Ah, sí. Cálmate, Harukaze."
+"narrator";"悪司は春風の頭を撫でようとして、 手を出した。
+その手を、春風は噛もうとした。";"Akuji put out his hand to pat Harukaze on the head.
+Harukaze tried to bite his hand.";"Akuji extendió la mano para acariciar la cabeza de Harukaze.
+Harukaze intentó morder esa mano."
+"Yamamoto Akuji (talking)";"おっ！？";"Whoa!";"¡Vaya!"
+"narrator";"　　［がきっっ］
+春風の歯と歯が激しくぶつかる音が 部屋に響く。";"[click]
+The sound of Harukaze's teeth clashing violently against each other echoes through the room.";"[clic].
+El sonido de los dientes de Harukaze chocando violentamente entre sí resuena en la habitación."
+"Harukaze (talking)";"春風にさわるな！！ さわっていいのは、一人だけだ！！";"Don't touch Harukaze! Only one person is allowed to touch Harukaze!";"¡No toques a Harukaze! ¡Sólo una persona puede tocarlo!"
+"Yamamoto Akuji (talking)";"おー……犬みてーだな。";"Oh, ……, you look like a dog.";"Oh, mira…… perro."
+"narrator";"春風は部屋に連れられてきてからずっと、 悪司から目を逸らさない。";"Harukaze has not looked away from Akuji since he was brought into the room.";"Harukaze no ha dejado de mirar a Akuji desde que lo trajeron a la habitación."
+"Yamamoto Akuji (talking)";"元気そーじゃねぇか。 あいかわらずいい目だ。";"You look fine. Your eyes are as good as ever.";"Te ves bien. Tus ojos son tan buenos como siempre."
+"Harukaze (talking)";"さわるな！！";"Don't touch me!";"¡No me toques!"
+"Yamamoto Akuji (talking)";"おおっと。";"Oops.";"Uy."
+"narrator";"春風は回し蹴りを入れたが、 悪司はそれをなんなく避けた。";"Harukaze throws a spinning kick, but Akuji avoids it easily.";"Harukaze lanzó una patada giratoria, pero Akuji la evitó fácilmente."
+"Yamamoto Akuji (talking)";"でよー、春風。";"Deyo, Harukaze.";"De yo, Harukaze."
+"Harukaze (talking)";"なんだよ。";"What is it?";"Qué es."
+"Yamamoto Akuji (talking)";"おめー、男に抱かれた事あっか？";"Have you ever been hugged by a man?";"¿Alguna vez te ha abrazado un hombre?"
+"Harukaze (talking)";"なんだよ、それ、やらしーなー。";"What the hell, that's so yucky.";"Qué demonios, eso es tan asqueroso."
+"Yamamoto Akuji (talking)";"そーいう反応みせるって事は、 した事なしか。";"If you react like that, then you've never done it before.";"Si reaccionas así, es que no lo has hecho nunca."
+"Harukaze (talking)";"どっちでもいいだろ、そんな事。";"Either way, it doesn't matter.";"No importa de ninguna manera, esa es la cuestión."
+"Yamamoto Akuji (talking)";"そーだな、抱かれた事があっても なくっても、俺がお前さんの中で 一番の男になる。";"Well, I'll be the best man you've ever had, whether I've ever been held or not.";"Sí, seré el mejor hombre que hayas tenido en tu vida, tanto si me han abrazado como si no."
+"Harukaze (talking)";"は？";"Huh?";"¿Ja?"
+"Yamamoto Akuji (talking)";"さーて、行くぞ。";"Well, here we go.";"Muy bien, vamos."
+"narrator";"悪司は春風を肩に担いだ。";"Akuji carried Harukaze on his shoulder.";"Akuji llevaba a Harukaze sobre sus hombros."
+"Harukaze (talking)";"は、離せよ、何すんだよ、 どこ行くんだよー！";"Get off me! What are you doing? Where are you going?";"¡Suéltame! ¿Qué haces? ¿Adónde vas?"
+"cg narrator";"「やっ……やだよ、こんな恰好…恥ずかしいよ… 　な、何すんだよ…」
+ 「………あっ……」
+ 「……あ、ああっ……」
+ 「……んっ……あああっ……！！」";"”Oh ……, no, I'm so embarrassed to be dressed like this… what are you doing…”
+ “……… oh ……”
+ “…… oh, oh, ……”
+ “…… oh…… oh ……!";"'Oh ……, no, estoy vestida así… es vergonzoso… qué estás haciendo…'
+ “……… oh ……”
+ “…… oh, oh, ……”
+ ¡”…… oh…… oh ……!"
+"cg narrator";"しとどに濡れた春風の中に、屹立し、 節くれ脈打つ悪司のものがゆっくり入り込んでいく。
+ 「あっ……ああっ……ん！！」
+それがずぶずぶと奥へ奥へと滑りこんでくる 感触に、春風が甘い声をあげた。
+薄く小さな花弁はそれを受け入れる為、 大きく痛々しい程、広がっている。
+春風は、入れられるまでに、もう指と舌とだけで 何度気をやらされたか、数えきれない。
+ 「あうっ…ぁっ……あああっ……んんっっ！」
+春風は舌を戦慄かせ、見ていて痛い程に足先まで 力をこめ、快楽にぴくぴくと震えている。
+ 「そーら、全部入った。 　どーだい？ 　気持ちいいだろ？」
+ 「うっ……うんっ……」
+春風は潤みきった目で悪司を見つめ、頷いた。
+ 「ベッドの中では、やけに素直だな」
+ 「だっ…だってぇっ…… 　……はっ……春風……こんなの… 　こんなの知らない…」
+ 「俺の舌と指だけでも、結構なモンだったろ？」
+ 「うっ…うん…すっごい……」
+春風の指が、悪司の足に伸びる。
+ 「……すっ…ごい…春風…知らないよっ… 　だっ……誰も教えてくんなかっ…た…」
+春風はそう言って、根元まで入りきっていない 悪司の一物をたどたどしく指でなぞる。
+ 「そーか、そーか。 　だったら今からたっぷりと教えてやるよ」
+ 「あっ…！！」
+悪司は春風の腿を掴むと、さらに足を広げさせた。 悪司のものをすっぽり飲み込んでいる春風の 花弁が露になる。
+ 「このカッコだったら、 　お前にも見えるだろ、春風」
+ 「うっ…うん……」
+悪司はゆっくり、腰を引いた。 春風の花弁から、薄く濁った蜜に塗れた 悪司の一物がゆっくり出てくる。
+春風はその淫猥な光景を、瞬きもせず、 潤んだ瞳で見つめている。
+ 「っ………」
+春風はその光景に小さく喉を鳴らした。
+ 「どーなってる？」
+ 「っ…あっ…悪司のが…… 　出たり入った…してる…」
+ 「どこから？」
+ 「はっ……春風の……中から…」
+ 「中って？」
+ 「……やっ…やだっ…恥ずかしいよ…… 　言えないよっ……」
+ 「ふーん」
+悪司はずぶっと一物を沈めた。 雫が摩擦部分から溢れる。
+ 「はっ……ぅぅっん！」
+悪司は何度かゆっくりゆっくり、 そうして春風の中を行き来しやすいようにした。
+ 「は、あう、あっ、う！！」
+悪司の腰が動くのに合わせ、 春風は躰中の筋肉を使い、合わせてくる。
+それは、体験から生まれるものではなく、 本能のままの動作だった。
+ 「あっ悪司っ…あ、あうっあ！」
+春風は悪司の腕を掴み、悪司が繰り出す快楽に、 ぎっと爪をたてる。
+ 「あ、あは、あ、あ！」
+快楽の虜になったように笑みを浮かべ、 春風は腰を使う。
+ 「飲み込みが早いぜ、春風。 　いい子だな」
+ 「ほっ……んと……？ 　春風……いい子？」
+ 「ああ、いい子だ」
+悪司はそう言うと、春風の中に 深く入りこんで、腰を不規則に揺らした。
+ 「は、あ、う！！」
+春風は息をするのも忘れ口を大きく開く、 舌を戦慄かせる。
+ 「あっ……あうっ……あっ！」
+びくびくと震える躰は悪司の繰り出す すべてに悦びを現し、花弁の奥の筋肉は、 きつく悪司を締めつけた。
+ 「いい子って言われるの、好きか」
+ 「うっ……うん…大好き…」
+ 「そうか」
+悪司はニッと笑うと、春風の耳に顔を近づけた。 そのまま、小さな春風の躰を上から下へ、 腰を使って愛撫する。
+ 「いい子だな、春風」
+ 「はぅぅっ……！！」
+悪司の低く、よく通る声に春風が 躰中で反応する。
+ 「いい子だ」
+ 「う、あ、あう！！」
+春風の腰が大きく震え、開脚されていた足が、 悪司の腰に絡んでくる。
+ 「本当にいい子だ…」
+ 「あ、あ、あ！！」
+春風はそのまま、悪司の腰に腰を押し付ける。
+悪司は春風の尻に手を回すと、ゆっくり 愛撫しながら、短いストロークを繰り出した。
+ 「うあっ……あ！！」
+ 「いい子だ…そのまま感じてろ」
+ 「い、いやっ…あっ…はっ……春風…… 　春風、おかしくなるっ…！！」
+ 「いい子だから、おかしくなってもいいんだぜ、 　春風……」
+ 「ふあっ……」
+春風の躰が大きく震える。
+ 「あっ…………あっ……？ 　う、あ、っ……あっ……！！！」
+悪司の胸の中で、小さな春風の躰が 何度も何度も震えた。";"The towering, knotty, pulsating Akuji slowly entered the soaking wet Harukaze.
+ “Oh,…… ah,…… ah,…… ah!
+The thin, small petals were not designed to accept it.
+The thin little petals spread wide and painfully to accommodate it.
+Harukaze lost count of the number of times she was made to cum with just her fingers and tongue before she was allowed to enter.
+ “Ahhh…ahhh…… ahhh…… nnnnggg!”
+The Harukaze shuddered with her tongue, and even her toes were shaking with pleasure.
+There you go, I'm all in. 　How's that feel? 　Feels good, doesn't it?”
+ “Ugh…… yeah ……”
+Harukaze looked at Akuji with moistened eyes and nodded.
+ 
+I'm not sure I'm going to be able to do this,” Harukaze said. I don't know anything like this… I don't know anything like this…”
+ “My tongue and fingers alone were pretty good, weren't they?”
+ “Ugh… yeah… it's amazing …….”
+The fingers of Harukaze extend to Akuji's legs.
+ “…… amazing… Harukaze… don't know… Harukaze! No one told me…”
+The Harukaze said and trailed her finger falteringly over Akuji's ligament, which was not fully penetrated to the base.
+I see, I see. 　If that's the case, I'll teach you a lot from now on.
+Ah…!
+Akuji grabbed Harukaze's thighs and made her spread her legs further apart. The petals of Harukaze, which are completely swallowing Akuji's stuff, are exposed.
+In this pose, you can see it too, can't you, Harukaze?”
+ “Ugh…yeah……”
+Akuji slowly backed away. The Akuji, coated with a thin, muddy honey, slowly emerges from the petals of the Harukaze.
+Harukaze stared at this obscene scene with moist eyes, without blinking.
+ ………”
+Harukaze clears her throat at the sight.
+What's going on?”
+Oh…oh…Akuji's…… in and out…”
+Where did it come from?
+From inside ……Harukaze's ………
+Inside what?
+ “…… I… no… it's embarrassing…… I can't tell you……
+ “Hmm.”
+Akuji sank his dick down. The drops overflowed from the friction area.
+I'm so embarrassed to tell you……
+Akuji slowly, slowly, several times, so that it was easier to move in and out of Harukaze.
+Hah, ah, ah, ugh!”
+As Akuji's hips moved, Harukaze used every muscle in his body to match.
+It is not something that comes from experience, but from instinct.
+ “Oh, Akuji…ah, ah!
+Harukaze grabs Akuji's arm and clenches her claws tightly against the pleasure that Akuji is giving her.
+ “Ah, ah, ah, ah!
+Smiling as if captivated by the pleasure, Harukaze uses her hips.
+You swallow fast, Harukaze. 　You're a good boy.”
+ 'Hoho…… and ……? 　Harukaze…… good boy?
+Yes, he's a good boy.
+The Akuji then went deep into the Harukaze and rocked his hips erratically.
+ “Ha, ah, ugh!
+Harukaze forgets to breathe and opens her mouth wide, her tongue shivering.
+ “Ah, ah, ah, ah, ah!”
+The muscles behind the petals tightened around Akuji.
+Do you like being called a good girl?
+ “Ugh……… yeah…I love it…”
+I see.”
+The most important thing to remember is that you can't just take a look at the pictures of the people you've met and then go back and look at them. 
+I was so good, Harukaze.”
+ “Hahhh ……!!!”
+Harukaze responds to Akuji's low and clear voice all over her body.
+Good boy.
+Ah, ah, ah!
+Harukaze's hips trembled and her spread legs were entwined with Akuji's hips.
+I'm really a good girl…”
+Ah, ah, ah!
+Harukaze continues to press her hips against Akuji's hips.
+Akuji put his hands around Harukaze's hips and slowly caresses her, giving her short strokes.
+ 'Ohhhhhh ……ah!
+Good girl…keep feeling it.”
+I'm going crazy! I'm going crazy!
+ “You're a good boy, you can go crazy, Harukaze ……
+ “Oh, ……”
+The body of Harukaze trembled greatly.
+  　Oh, ah, ah…… ah……!
+In Akuji's chest, little Harukaze's body trembled again and again.";"El imponente, nudoso y palpitante Akuji entró lentamente en el empapado Harukaze.
+ '¡Oh…… ah…… nn!
+El Harukaze emitió dulces ruidos al sentir que se deslizaba más y más dentro de ella.
+Los delgados pétalos se extienden amplia y dolorosamente para acomodarlo.
+Harukaze perdió la cuenta del número de veces que la hicieron correrse sólo con los dedos y la lengua antes de que la dejaran entrar.
+ 'Ahhh… ahhh…… ahhh…… nnnn!'
+La Harukaze se estremecía con la lengua y ponía tanto empeño en los dedos de los pies que era doloroso verlo, y temblaba de placer.
+ 'Eso es, está todo dentro. 　¿Cómo se siente? 　Se siente bien, ¿no?”
+ 'Ugh…… sí ……'
+Harukaze miró a Akuji con los ojos humedecidos y asintió.
+Lo más importante es recordar que no eres el único que puede hacerlo.
+ 'Porque…'……  Harukaze No sé… no conozco nada de esto…'
+Mi lengua y mis dedos solos eran bastante buenos, ¿no?”
+Ugh… sí… es increíble……
+Los dedos del Harukaze se extienden hasta las piernas de Akuji.
+ '…… increíble… Harukaze… no sé… Harukaze… ¡Ja! Nadie me dijo…”
+El Harukaze dice esto, y traza un dedo vacilante sobre el ligamento de Akuji, que no está completamente penetrado hasta la base.
+ 'Ya veo, ya veo. 　Si es así, te enseñaré mucho a partir de ahora.
+ ¡Ah…!
+Akuji agarró los muslos de Harukaze y la hizo separar más las piernas. Los pétalos de Harukaze, que se están tragando por completo las cosas de Akuji, quedan al descubierto.
+ 'Si es de este estilo, tú también puedes verlo, Harukaze.
+ 'Ugh… sí……'
+Akuji retrocedió lentamente. El Akuji, recubierto de miel fina y turbia, emerge lentamente de los pétalos del Harukaze.
+Harukaze se queda mirando esa escena obscena con los ojos húmedos, sin pestañear.
+ 'Oh, ………'
+Harukaze emitió un pequeño sonido gutural al verlo.
+ ¿Qué pasa?
+ 'Ah… ah… Akuji's…… entrando y saliendo…'
+ ¿De dónde viene?
+Desde el interior de…… Harukaze's ………
+ ¿Dentro de qué?
+ “…… Yo… no… no… es embarazoso…… No puedo decírtelo……”
+ “Hmm.”
+Akuji mojó su polla en ella. Una gota se desborda de la zona de fricción.
+ 'Hah…… ooooh!'
+Akuji despacio, lentamente, varias veces, para que fuera más fácil entrar y salir de Harukaze.
+ “¡Ah, ah, ah, ah!
+Mientras las caderas de Akuji se movían, Harukaze utilizaba todos los músculos de su cuerpo para estar a la altura.
+No es algo que nazca de la experiencia, sino un movimiento del instinto.
+ “¡Ah Akuji… ah, ah ah!”
+La Harukaze se agarró al brazo de Akuji y apretó con fuerza sus garras contra el placer que le estaba dando Akuji.
+ “¡Ah, ah, ah, ah!
+Sonriendo como una prisionera del placer, Harukaze utiliza sus caderas.
+Eres un estudio rápido, Harukaze. 　Eres una buena chica”.
+ ¿Ho-…… y Harukaze? 　Harukaze…… ¿buen chico?”
+Sí, es un buen chico.
+La Akuji dijo esto y se adentró en el Harukaze, moviendo sus caderas erráticamente.
+ ¡Ha, ah, ugh!
+Harukaze se olvida de respirar y abre mucho la boca, con la lengua temblando.
+ '¡Ah,…… ah, ah, ah!
+El cuerpo que tiembla y se estremece revela su placer ante todo lo que hace Akuji, y los músculos detrás de los pétalos se tensan con fuerza.
+ ¿Te gusta que te llamen buena chica?
+Ugh…… sí… me encanta…”
+Ya veo”.
+La Akuji sonrió y acercó su cara al oído de Harukaze. 
+ 'Eres una buena chica, Harukaze.
+ 'Hahhh ……!!'
+La voz baja y clara de Akuji hace que Harukaze reaccione en todo su cuerpo.
+Buena chica”.
+ ¡Ah, ah, ah!
+Las caderas de la Harukaze temblaron mucho, y sus piernas, que estaban abiertas, se enredaron en las caderas de la Akuji.
+ 'Es una chica muy buena…'
+ '¡Ah, ah, ah!
+Harukaze sigue presionando sus caderas contra las de Akuji.
+Akuji pone sus manos alrededor de las caderas de Harukaze y la acaricia lentamente, dando pequeñas caricias.
+ “¡Ohhh, Akuji!
+Buena chica… sigue sintiéndolo.
+ 'No, no… ah… ha……Harukaze…… Harukaze , ¡te estás volviendo loco! ¡Me estoy volviendo loco…!
+Eres una buena chica, puedes volverte loca, Harukaze ……
+ “Oh, ……”
+El cuerpo de Harukaze tiembla mucho.
+ 'Ah………… ah ……? 　¡Uh, ah, ah…… ah……!
+Dentro del pecho de Akuji, el cuerpo del pequeño Harukaze temblaba una y otra vez."
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"Yamamoto Akuji (talking)";"さーて。";"Well.";"Bueno."
+"Harukaze (talking)";"なんだよ。";"What is it?";"Qué es."
+"Yamamoto Akuji (talking)";"いい事してやろう。";"Let's do something good.";"Hagamos algo bueno."
+"Harukaze (talking)";"な、なんだよ、その手…は、離せよ…";"What, what the hell, your hand… get off me…";"Oye, qué demonios, tu mano… suéltame…"
+"Yamamoto Akuji (talking)";"何言ってんだい。 これから何されるかわかってんのか、 目、うるうるしてんぞ、春風。";"What are you saying? Do you know what they're going to do to you? Your eyes are shining, Harukaze.";"¿Qué estás diciendo? ¿Sabes lo que te van a hacer? Tus ojos brillan, Harukaze."
+"Harukaze (talking)";"そ、そんな事ないやい！ 何やらしい事言ってんだよ！ 信じられない！";"No, no, no, no, no, no, no, no, no, no, no! What are you talking about? I can't believe you!";"¡No, no, no, no, no! ¿De qué demonios estás hablando? ¡No puedo creerlo!"
+"Yamamoto Akuji (talking)";"まー、ぎゃいぎゃい言うのは、 後って事でな。";"Well, we'll see about that later.";"Tendremos que esperar hasta más adelante para saberlo."
+"Harukaze (talking)";"え、あ、あうっ……！";"Eh, ah, ah, ah ……!";"¡Eh, ah, ah ……!"
+"Harukaze (talking)";"春風は、悪司に抱かれた。";"Harukaze was embraced by Akuji.";"Harukaze fue abrazado por Akuji."
+"Yamamoto Akuji (talking)";"なんか欲しいモンあるか？";"What do you want?";"¿Qué quieres?"
+"Harukaze (talking)";"あんたなんかから施してもらいたい モンなんてないよ！
+それよりこっから出せよっ！ 春風、ここにいる暇なんかないんだから！";"I don't want anything from you!
+Get me out of here! I don't have time for this, Harukaze!";"¡No quiero nada de ti!
+ ¡Sácame de aquí! Harukaze, ¡no tengo tiempo para esto!"
+"Yamamoto Akuji (talking)";"これでお前さんも、アエンと一緒にいる事 出来るしな。";"And now you can be with Aen.";"Y ahora puedes estar con Aen."
+"Harukaze (talking)";"っ……いっ……今…… なんて……？";"I'm…… and I'm…… now…… What ……?";"Yo…… ahora…… ¿qué……?"
+"Yamamoto Akuji (talking)";"ん？ アエンと一緒に戦えるなって言ったんだ。";"Hm? I said I could fight with Aen.";"¿Eh? Dije que podía luchar con Aen."
+"Harukaze (talking)";"アっ……アエン様っ…… ここにいる……の？";"A……Aen sir,…… here ……?";"A……Aen señor,…… de…… aquí?"
+"Yamamoto Akuji (talking)";"ああ。 俺の部下で、バリバリやってるぜ。";"Yeah, he's my guy. He's my guy. He's doing a great job.";"Sí. Es mi hombre, y está haciendo un gran trabajo."
+"Harukaze (talking)";"そっ……そんなっ…！！";"That…… is so wrong…!!!!";"¡Eso es…… lo que está pasando…!"
+"Yamamoto Akuji (talking)";"なんだ、嬉しくないのか？";"What, you're not happy?";"¿Qué, no estás contento?"
+"Harukaze (talking)";"うっ……
+うわぁぁっ……！！";"Ugh ……
+Wow ……!!!";"¡Uf! ……
+ ¡Ugh ……!"
+"narrator";"春風はボロボロと大粒の涙を流し始めた。";"Harukaze shed tears, and Hajime.";"Harukaze derramó unas grandes lágrimas y Hajime."
+"Yamamoto Akuji (talking)";"おい、どーしたんだよ……";"Hey, what's up ……";"Oye, ¿qué pasa? ……"
+"Harukaze (talking)";"春風、悪司の部下になれない！";"Harukaze, you can't be Akuji's man!";"Harukaze, ¡no puedes ser el hombre de Akuji!"
+"Yamamoto Akuji (talking)";"なんでだよ。";"Why not?";"Por qué."
+"Harukaze (talking)";"アエン様が、部下になってる！";"Master Aen has his man!";"¡El maestro Aen está bajo su mando!"
+"Yamamoto Akuji (talking)";"だから、一緒に遊べるようになって いーじゃねぇか。";"So it's nice to be able to play together.";"Así que es agradable poder jugar juntos."
+"Harukaze (talking)";"はっ……春風は、アエン様のもの だったんだ！
+今はっ……今は、悪司のせいで、 悪司のせいで、悪司のものに なってしまったんだ！";"Ha……Harukaze used to belong to Aen!
+Now ha…… now belongs to Akuji because of Akuji!";"¡Ha……Harukaze solía pertenecer a Aen!
+Ahora ha……, por culpa de Akuji, ¡pertenece a Akuji!"
+"Yamamoto Akuji (talking)";"あ~……";"Oh~……";"Ah~……"
+"Harukaze (talking)";"春風、アエン様裏切った！！ だからもう、二度とアエン様の 目の前に姿現せないんだもん！
+うっ…ううっ…うわーーっ……！";"Harukaze, you betrayed Aen! That's why I can never appear in front of Aen again!
+Ugh…ugh…ugh…ugh………!";"Harukaze, ¡traicionaste a Aen! ¡Por eso nunca más podré aparecer frente a Aen!
+Ugh… ugh… ugh… ……!"
+"Yamamoto Akuji (talking)";"なるほどね~…… 前の飼い主に忠義がたたないから、 会いたくない……
+だから、俺の部下にはなれねぇか…… やっかいなワンコロだぜ……";"I see……… I don't want to see him because he's not loyal to his former owner……
+So I guess you can't be my man…… You're a tough little dog……";"Ya veo……… No quiero verlo porque no es leal a su antiguo dueño……
+Así que no puedes ser mi hombre…… Eres un perro problemático……"
+"Harukaze (talking)";"うっ…うえっ…うえっ……";"Ugh…ugh…ugh…ugh ……";"Ugh… ugh… ugh… ……"
+"Yamamoto Akuji (talking)";"春風よぉ、そろそろ俺の部下に なる気になったか？";"Harukaze, are you ready to be my man now?";"Harukaze, ¿estás listo para ser mi hombre ahora?"
+"Harukaze (talking)";"……………
+春風には……もう帰るとこはないんだ…";"……………
+There's no place to go back to…… for Harukaze…";"……………
+No hay lugar para volver a…… para Harukaze…"
+"Yamamoto Akuji (talking)";"そーなのか？";"Is that so?";"¿Es así?"
+"Harukaze (talking)";"春風……裏切っちゃった… 悪司に好きな事、させてしまった…";"Harukaze…… betrayed me… I let Akuji do what he wanted…";"Harukaze…… me traicionó… Dejé que Akuji hiciera lo que quería…"
+"Yamamoto Akuji (talking)";"ああ……ＳＥＸの事か。 俺の味を覚えたんだから、そりゃー並みの 男じゃあ、太刀打ち出来ねぇぜ。";"Oh, you mean ……sex. Now that you've had a taste of me, you'll never be able to compete with the average guy.";"Oh, te refieres a ……sex. Ahora que me has probado, nunca podrás competir con el hombre medio."
+"Harukaze (talking)";"………春風……ここにいるしかないの…";"………Harukaze ……I have no choice but to stay…";"………Harukaze ……No tengo más remedio que quedarme aquí…"
+"Yamamoto Akuji (talking)";"そりゃ、部下になるって事か？";"Does that mean you'll be my subordinate?";"¿Significa eso que serás mi subordinado?"
+"narrator";"春風は黙ってこくんと頷いた。";"Harukaze nodded silently.";"Harukaze asintió en silencio."
+"Yamamoto Akuji (talking)";"よし、いい子だ。 今日から俺の部下だ、春風。";"Okay, good boy. You're my man from today, Harukaze.";"Bien, buen chico. Eres mi hombre de hoy, Harukaze."
+"narrator";"悪司は春風の頭をくしゃりと撫でた。";"Akuji crumpled Harukaze's head and patted it.";"Akuji arrugó la cabeza de Harukaze."
+"Harukaze (thinking)";"……そうしていいのは…… アエン様と盾だけだった……
+ ………でも今は…
+春風、自分でも駄目なんだ…… 躰が…悪司を見ると、変になる……
+ごめんなさい……
+ごめんなさい。 ごめんなさい、ごめんなさい、 アエン様……
+春風……アエン様のものだったのに… ごめんなさい……";"Only…… Aen and Tate were allowed to do so…………… but now…
+Harukaze, I can't even do it myself…… The body…Akuji makes me weird……
+I'm sorry……
+I'm sorry, I'm sorry, I'm sorry. I'm sorry, I'm sorry, Dear Aen……
+It was Harukaze ……Aen's… I'm sorry……";"Sólo…… Aen y Tate pudieron hacerlo…………… pero ahora…
+Harukaze, ni siquiera puedo hacerlo yo mismo…… El cuerpo…Akuji me hace raro……
+Lo siento……
+Lo siento. Lo siento, lo siento, querido Aen……
+Fue Harukaze……Aen's… Lo siento……"
+"narrator";"どこまでも田んぼが広がっている、 広大な農地。
+緑豊かな土地だが、市街地と違い、 戦略的価値が低い。 その為、のどかだった。";"A vast agricultural area with endless rice paddies.
+The land was lush and green, but unlike urban areas, it had little strategic value. Therefore, it was tranquil.";"Grandes extensiones de tierra de cultivo con interminables arrozales.
+El terreno es exuberante y verde, pero a diferencia de las zonas urbanas, su valor estratégico es bajo. Por lo tanto, estaba tranquilo."
+"Harukaze (talking)";"………………";"………………";"………………"
+"narrator";"その土地を任されているのは、 アエンの部下である春風。
+春風は田んぼがよく見える小高い丘に一人、 座っていた。";"The person in charge of the land is Harukaze, a subordinate of Aen.
+Harukaze was sitting alone on a small hill with a clear view of the rice paddies.";"El hombre a cargo de la tierra es Harukaze, un subordinado de Aen.
+Harukaze estaba sentado solo en una pequeña colina con una clara vista de los campos de arroz."
+"Harukaze (talking)";"…はーるのー…ゆうひーにー…… ……あるーく……ふたーりー……";"…Halloooooo…Yuuhi ni……… …… aruku…… futari ……";"…haru no… yuhi ni……… …… aruku…… futari ……"
+"narrator";"そっと歌を呟くように歌ってから、 両腕で抱えている膝に、額をつける。";"After singing softly and murmuring a song, I put my forehead on my knees, which I hold with both arms.";"Canta en voz baja, como si murmurara una canción, y luego apoya la frente en sus rodillas, que sostiene con ambos brazos."
+"Harukaze (talking)";"寂しくても……我慢しなくちゃ… アエン様のそばにいる事が出来なくても… 我慢しなくちゃ……";"Even though I miss you…… I have to be patient… even though I can't be near you Aen I have to be patient ……";"Aunque te eche de menos…… tengo que ser paciente… aunque no pueda estar cerca de ti Aen… tengo que ser paciente ……"
+"narrator";"土地の管理を任される事は大抜擢であり、 本来喜ばしい事であるが、春風にとっては 違った。
+春風にとって、アエンのそばにいる事が 一番幸せだった。
+だけど今は、ロッコウに一人いる。";"Being entrusted with the management of the land was a great promotion and a joyous thing by nature, but it was different for Harukaze.
+For Harukaze, being by Aen's side was the happiest thing.
+But now, he is alone in Rokko.";"Que te confíen la gestión de la tierra es un gran ascenso y algo alegre por naturaleza, pero para Harukaze era diferente.
+Para Harukaze, estar al lado de Aen era lo más feliz.
+Pero ahora está sola en Rokko."
+"Harukaze (talking)";"ここで……ちゃんと見張っているのが… アエン様の為になるから…… 一人でも、頑張れるもん……";"I'm here…… to keep an eye on you… because it's for Aen's sake…… I can do my best, even if I'm alone……";"Estoy aquí para vigilar…… y vigilarte a ti… porque es por el bien de Aen-sama…… Puedo hacer lo que pueda, aunque esté solo……"
+"narrator";"春風は一人、部屋でぼんやりしていた。";"Harukaze was alone in his room in a daze.";"Harukaze estaba solo en su habitación aturdido."
+"Peach boy (talking)";"失礼します、春風様。";"Excuse me, Mr. Harukaze.";"Disculpe, señor Harukaze."
+"Harukaze (talking)";"様づけやめてよ。 恥ずかしいから。";"Don't call me “like. It's embarrassing.";"No pongas “me gusta” delante de mí. Es vergonzoso."
+"Peach boy (talking)";"そういう訳にはいきませんよ……
+あ、そうそう、大変なんです。";"It doesn't work that way……
+Oh, yes, it's hard work.";"No funciona así……
+Ah, sí, es un trabajo duro."
+"Harukaze (talking)";"何？";"What?";"¿Qué?"
+"Peach boy (talking)";"アエン様が行方不明になられたと、 報告があったんですよ！";"We received a report that Master Aen had gone missing!";"¡Recibimos un informe de que el Maestro Aen había desaparecido!"
+"Harukaze (talking)";"っ……えっ…？";"I'm not sure what you mean…?";"¿Qué…?"
+"Peach boy (talking)";"例の奉仕青年団と戦闘していた事までは 判明しているのですが、その後が……";"We know that he was fighting with the service youth group, but then we know that he was fighting with the service youth group……";"Sabemos que se peleaba con el grupo de jóvenes de servicio, pero luego sabemos que se peleaba con el grupo de jóvenes de servicio……"
+"Harukaze (talking)";"っ………";"You can find out more at ………";"………"
+"Peach boy (talking)";"水の性質の者達は、これでキリカ様が 支倉の跡取りになるのかなんて、 勝手な事言ってて……";"Those of a water nature were so self-satisfied that they were wondering if Kirika would be the heir to Hasekura……";"Los de naturaleza acuática estaban tan satisfechos de sí mismos que esto convertiría a Kirika en el heredero de Hasekura……"
+"Harukaze (talking)";"ホント、勝手な事言ってるね。";"Really, you're being selfish.";"Estás siendo realmente egoísta."
+"Peach boy (talking)";"は、はい……";"is, yes ……";"Ja, sí ……"
+"Harukaze (talking)";"アエン様が死ぬはずないじゃないか。 あんだけ強くて、カッコよくて…
+ ……っ………
+絶対……死ぬはずない……
+きっと、繁華街の方に行ってるんだ。 あそこには、アエン様の大好きな お店がいっぱいあるもん……
+絶対……絶対、そうだよ……";"How could Aen-sama die? He was so strong and cool…
+ ……………
+He can't die……
+He must be going downtown. There are so many stores there that Aen loves……
+Definitely…… definitely, yes……";"¿Cómo pudo morir el Maestro Aen? Era tan fuerte, tan genial…
+ ……………
+Nunca…… va a morir……
+Debe ir al centro. Hay muchas tiendas allí que le encantan a Aen……
+Absolutamente…… absolutamente, sí……"
+"Peach boy (talking)";"春風様……";"Like Harukaze ……";"Harukaze como ……"
+"Harukaze (talking)";"そう思うよねっ！？";"You think so!";"Eso crees, ¿no?"
+"Peach boy (talking)";"は、はい！";"Ha, yes!";"¡Ja, sí!"
+"Harukaze (talking)";"そうだよ……
+絶対、そうだよ……
+アエン様が死ぬなんて… ありえない……っ！！
+ひょっこり戻ってきて…… また、春風の頭、撫でてくれたり 遊んでくれたりするもんっ……";"Absolutely, yes……
+Absolutely, yes……
+There's no way Aen would die… ……!
+He'll come back and…… pet my Harukaze head and play with me again ……";"Absolutamente……
+Absolutamente, sí……
+No hay manera de que Aen muera… ……!
+Volverá y…… acariciar la cabeza de Harukaze y jugar con él de nuevo ……"
+"narrator";"春風は膝の上で拳をぎゅっと握った。";"Harukaze clenched her fists in her lap.";"Harukaze apretó los puños en su regazo."
+"Harukaze (talking)";"すみませーん。";"Sorry.";"Lo siento."
+"narrator";"春風がおつかいを頼まれて、 悪司の元を訪れた。";"Harukaze visited Akuji to ask for help.";"Harukaze visitó a Akuji con la petición de un regalo."
+" (talking)";"はーい、何ー？";"Yes, what?";"Sí, ¿qué?"
+"Hasekura Aen (talking)";"あら。";"Oops.";"Uy."
+"Harukaze (talking)";"っ…………
+アっ……アエン……様……？";"Aen Aen …………
+A……Aen Aen…… Mr……?";"Aen…………
+A……Aen…… ¿Sr……?"
+"Hasekura Aen (talking)";"春風！ あんた、ここにいたの？";"Harukaze! You're here?";"¡¡¡Harukaze!!! ¿Estás aquí?"
+"Harukaze (talking)";"ア、アエン様こ…そ……
+生きてらっしゃって… よっ…よかっ……たっ…";"A, Mr. Aen here… so……
+I'm so glad you're alive….";"Querida Aen, eres… eres… eres ……
+Me alegro mucho de que estés vivo… y me alegro mucho de que seas ………"
+"narrator";"アエンの胸に飛び込もうとしたが、 春風は躊躇する。";"He tries to jump into Aen's chest, but Harukaze hesitates.";"Intenta saltar al pecho de Aen, pero Harukaze duda."
+"Hasekura Aen (talking)";"春風？";"Harukaze?";"¿ Harukaze?"
+"Harukaze (talking)";"あっ…春風…春風は……";"Oh…Harukaze…Harukaze is ……";"Oh…Harukaze…Harukaze es ……"
+"Harukaze (thinking)";"……そーだよ……
+春風、アエン様を裏切ったんだ……
+それなのに…
+ ………それなのに……";"……Yes, ……
+I betrayed Harukaze and Aen……
+And yet………… And yet… ……";"…… Sí, Harukaze, Aen.
+Traicioné a Harukaze y a Aen……
+Y sin embargo………… Y sin embargo… ……"
+"Hasekura Aen (talking)";"どうしたの？ 春風……";"What's wrong? Harukaze……";"¿Qué pasa? Harukaze……"
+"Harukaze (talking)";"うっ……！！";"Ugh ……!";"¡Ugh ……!"
+"Hasekura Aen (talking)";"春風！？";"Harukaze!";"¡¡¡Harukaze!!!"
+"narrator";"春風は奉仕青年団を飛び出した。";"Harukaze jumped out of the service youth group.";"Harukaze saltó del grupo juvenil de servicio."
+"Harukaze (thinking)";"そーだよ…… 春風、アエン様を裏切ったのに……
+ホントは、アエン様の前に 顔も出せないはずなのにっ……！
+ごめんなさい、ごめんなさい！ ごめんなさい、アエン様っ……！";"That's right…… Harukaze, you betrayed Aen, but ……
+You really can't even show your face in front of Aen……
+I'm sorry. I'm sorry! I'm sorry, I'm sorry, I'm sorry, Aen-sama,……!";"Así es:…… Harukaze, traicionaste a Aen, pero ……
+ ¡Realmente no pudiste ni siquiera mostrar tu cara frente a Aen, ……!
+ ¡Lo siento, lo siento! ¡Lo siento, lo siento, lo siento, Aen-sama, ……!"
+"narrator";"その日から、春風は姿を消した。";"From that day on, Harukaze disappeared.";"A partir de ese día, Harukaze desapareció."
+"Chinpira (talking)";"はーい、ご希望通りまーす。
+小柄で、やんちゃなタイプを お好み。
+そんなあなたにピッタリの 春風ちゃん、はりきっていきましょー！ さー、ハッスルハッスルー！";"Yes, you may request.
+You like a petite, mischievous type.
+Harukaze is perfect for you. Let's get going! Let's hustle hustle hustle!";"Sí, como quieras.
+Es menuda, traviesa y un poco picarona.
+La chica perfecta para ti, Harukaze, ¡continuemos! ¡Vamos a hacer un esfuerzo, un esfuerzo, un esfuerzo!"
+"cg narrator";"もう一時間。 春風はこのような状態でいたぶられていた。
+ 「んぶっ………んんんっ……」
+ギャグからは涎が滴り、春風の胸に染みていた。
+ 「じゃあ……こっちのスイッチを入れようかな…」
+春風をいたぶっている男は嬉しそうに 菊座の奥に詰め込まれたローターの スイッチを押した。
+ 「んうっ…！！」
+春風の腰がびくりと大きく一度、震えた。
+ 「んぶっ……んっ…んんっ……」
+言葉が発せないので、春風は首を左右に振る。
+ 「こっちも開発されているんだね… 　……なんていやらしい匂いを 　させてるんだろう…」
+男は嬉しそうに目を細める。
+ 「君みたいな小柄な子を、こういう風に 　いたぶるのが大好きでさ… 　入れるより…こうして……」
+男は別のスイッチを手に取った。
+ 　　［ブーーーーーーー………］
+ 「んんんっ…！！」
+中途半端に春風の中に入っているローターが 唸りをあげ始めた。
+ 「んっ…んんっ…んっ…！」
+春風の中で、ローターの振動がぶつかりあい、 腰から背中に振動が絡まり、登ってくる。
+ 「んっ……んんっ……んっ…！」
+ 「足は閉じちゃ駄目だよ… 　せっかくのいい光景が、見れなくなっちまう…」
+ 「んっ……ぶっ……んんんっ…！！」
+男はそう言って、春風に足を閉じる事を許さず、 振動の為にそこから蜜を噴き出す光景を 見つめていた。
+ 「ホント、いやらしい躰だよなぁ… 　こんなもので、こんなに濡らして……」
+男の手が、春風の勃起しているクリトリスに伸びた。
+ 「んうっ…！！」
+春風の躰がさらに大きく震える。
+ 「ここ……充血してる。 　こんなに充血したら、痛いんじゃないかい？」
+男はそう言って、春風の肉蕾を指で弾いた。
+ 「んんんっ！！」
+痛みを伴った快楽に、春風は涙を流す。
+ 「こんなのでも感じちゃうんだ… 　すごいね、貪欲だね」
+ 「んっ……んんんっ…」
+ 「じゃあ、これだったらどうかな？」
+男の指が、優しく、春風の尖りにふれる。
+ 「んっ……」
+男の指が、優しく、ゆっくりと、そこを愛撫する。
+ 「んぶっ…んっ……ううっ……！」
+機械の振動とはまったく違う、肉の、血の、 人間の温もりを持つものの愛撫。
+ 「んっ……はぅっ……んっ……」
+春風はさらに涎を滴らせ、蜜を零し、 その愛撫を受ける。
+ 「んっ…うっ…ふはっ…んっ……~~！！」
+この男と個室に入ってから、何度目か数える事が 出来ない程、春風は達していた。
+目の前で春風が達しているのを見ていても、 男の愛撫の手は止まらず、執拗にそこを 撫で回していた。
+ 「んぅっ……ばっ……ぶっ…！」
+春風は尖るような痛みを伴った 乱暴に脳を刺激する愛撫に、 首を大きく左右に振る。
+ 「ぼくのも、こんな風にさわってくれるかい？」
+男はそう言って、初めて自分の勃起したものを 春風に提示してみせた。
+少し小振りだが、赤黒く脈打つそれに、 春風は震える手を伸ばす。
+その時、男は春風のクリトリスを きつくしごいた。
+ 「んっ……うう！！」
+春風の手が止まる。
+ 「どうしたの？ 　さあ、早くさわってよ…」
+ 「んっ……ううっ…」
+春風は男の悪戯に頭をくらくらさせながら、 それでも懸命に男のものを掴んだ。
+ 「んっ……んぶっ…んっ……」
+ゆっくりと、しかし的確に男が少しでも 反応した部分に重点を置き、愛撫していく春風。
+ 「じょうずだね。 　そのまま続けてくれる？」
+男はそう言って体勢を変える。 男は春風の股間に顔を埋めた。
+ 「んっ……ふっ！！」
+ふたつの振動で敏感になっているそこを 男の舌がなぞり出した。
+ 「んっは、はぅっ……ぶっ…！」
+春風は興奮に涙を流し、腰を激しく震わせる。
+ 「んっ……んっ……ふっ……」
+それでも仕事を忘れる事なく、 大事な宝物にふれるように、男のものを 掌で擦りあげていく。
+ 「んっ…ぶっ……ふっ……っんん！！」
+クリトリスを根元から上に舌でなぞられた。 それと同じようにタイミングを合わせ、 春風の手が、男の股間の付け根から上へと滑る。
+ 「んぶっ…んっ……んぐっ……！」
+春風の指に、水っぽい体液が絡まり出した。
+ 「じょうずだね…… 　少し滲み出てきたみたいだ…」
+男はそう言うと、さらに舌を動かす速度をあげた。
+春風の中に中途半端に埋まっていたローターを 手にすると、それを擬似男根にして、出し入れを 始める。
+ 「んんっ！！」
+快楽の深さに強く握りしめかけた男のものを なんとか適度に絞める程度に加減して、そのまま 春風の手が上下に動く。
+ 「ん、ん、んっ」
+ 「いい感じだよ…… 　少し、強く握ってくれ…」
+ 「んっ…ううっ……」
+ 「んっ……！」
+男の声が僅かに高くなった。
+ 「んん、んっ…んっ…！！」
+男は自分から腰を振り、春風に合わせる。
+ 「んっ……んんっ…！！」
+春風が大きく腰を震わせる。 男の舌は、蜜に溢れる。
+そして、春風の手も、男の体液に 白く染まった。";"Another hour. Harukaze was being played with like this.
+ 'Nbuh……… nnnn…….'
+Drool was dripping from the gag and seeping into Harukaze's chest.
+ 'Well then…… let's turn this one on…'
+The man who was torturing Harukaze happily pressed the switch of the rotor stuffed deep inside the chrysanthemum seat.
+ “Nngh…!!!!”
+The man who was eating Harukaze happily pushed the switch of the rotor that was stuffed in the back of the chrysanthemum.
+ “Nbutt………nnnn…nnnn………”
+Since no words could be uttered, Harukaze shook her head from side to side.
+ 'So this one is being developed too……… what a disgusting smell it gives off…'
+The man squints happily.
+I love to fuck a petite girl like you like this… instead of letting you in… like this …….”
+The man picked up another switch.
+ 　　[boooooooooo ………]
+Nnnn…!!!!!!”
+The rotor that was halfway inside Harukaze roared and Hajime.
+Nnnn….nnnn…!
+Inside Harukaze, the vibrations of the rotors collide with each other, and the vibrations entwine and climb up from my waist to my back.
+ “Nnnn……nnn…!”
+ “Don't close your legs… you'll miss the best part of the show…”
+ “Oh, ……, that's ……, that's ……, that's ……, that's ……, that's ……, that's ……, that's ………!”
+The man said, not allowing Harukaze to close her legs, and stared at the sight of honey spurting out of them due to the vibration.
+The man's hand was on Harukaze's leg, but he didn't allow her to close her leg, and he was staring at the sight of her nectar spurting out of it due to the vibration.
+The man's hand reached for Harukaze's erect clit.
+The man's hand reached for Harukaze's erect clitoris.
+The body of Harukaze shakes even louder.
+It's so bloodshot here ……. 　If it's this bloodshot, it must hurt, right?”
+The man said so, and Dan his finger on Harukaze's flesh bud.
+Nnnn!!!!”
+The man then Harukaze cried out in pleasure accompanied by pain.
+I can't believe you can feel such a thing… Amazing, you're so greedy.”
+ “Oh,…… nnnnnn…”
+Then how about this?”
+The man's finger gently touches the tip of Harukaze.
+ “Mmm………”
+The man's finger caresses there gently and slowly.
+ “Nnnngggghh…nnggg…… ughhh ……!”
+The caress of flesh, of blood, of something with human warmth, completely different from the vibrations of a machine.
+ “Nnghhhh……!”
+The Harukaze drools more, spills honey, and receives its caresses.
+ 'Nn…ugh…hh…nnnn………~~!
+After entering a private room with this man, Harukaze had reached a point where she could not count the number of times she had done so.
+ 
+ “Nnghh……butt…!”
+The man's caresses were accompanied by a sharp pain that violently stimulated her brain, and she shook her head widely from side to side.
+The man said, “Can you touch mine like this too?”
+The man said and presented his erection to Harukaze for the first time.
+It was a little small, but it pulsated reddish-black, and Harukaze reached out with a trembling hand.
+At that moment, the man squeezed Harukaze's clit tightly.
+ “Nnnn……uuuu!!!!”
+Harukaze's hand stops.
+What's wrong? 　Come on, touch it…”
+Nnnn……uuuu…!”
+The man's mischief was making Harukaze's head dizzy, but she still grabbed his thing as hard as she could.
+Nnnngggghhhh……nnggg……”
+The man's reaction to the part of the body that the man responds to is focused on and caressed slowly, but precisely.
+  　I'm not sure if I'm going to be able to do that.
+The man changes his position saying so. The man buried his face in Harukaze's crotch.
+ “Nnnn……f!
+The man's tongue began to trace there, which had become sensitive due to the two vibrations.
+The man's tongue began to trace over the sensitive area caused by the two vibrations.
+Harukaze cried out in excitement and shook her hips violently.
+She was so excited that she was shaking her hips violently.
+Still not forgetting her work, she rubs her palm up and down the man's thing as if she were touching a precious treasure.
+I'm going to get it!”
+He traced his clitoris with his tongue from the base up. In the same way, Harukaze's hand slides from the base of the man's crotch to the top.
+ “Nbut…nnnnggg……!”
+The man's fingers began to get entangled in the watery fluid.
+The man said, “You're good at it,……, it seems to have oozed out a little…”
+The man said this and increased the speed at which he moved his tongue.
+The man then said, “You're good at it.” He picked up the rotor that was halfway buried inside Harukaze and used it as a pseudo-phallic device, moving it in and out of Hajime.
+Unh!!!!”
+The man's hand moves up and down, squeezing the man's penis just enough to make it clench in the depths of pleasure.
+ “Nnnn, nnnn, nnnn!”
+It feels good…… Squeeze a little harder…”
+ “Nn…ugh……!”
+ 'Nnnn……!'
+The man's voice rose slightly higher.
+ 'Nnnn…nnnn…!!!'
+The man shook his hips on his own and matched Harukaze.
+ “Nnnn, nnnn…!!!!”
+Harukaze's hips tremble loudly. The man's tongue is overflowing with honey.
+And Harukaze's hand was also stained Haku by the man's body fluid.";"Otra hora. Harukaze estaba siendo jugado así.
+ 'Nbut……… nnnn…….'
+Las babas goteaban de la mordaza y se filtraban en el pecho de Harukaze.
+ 'Bueno, entonces…… vamos a encender este…'
+El hombre que estaba torturando a Harukaze pulsó alegremente el interruptor del rotor metido en lo más profundo del asiento del crisantemo.
+ ¡¡¡'Nngh…!!!
+Las caderas de Harukaze se sacudieron y temblaron fuertemente una vez.
+ 'Nbutt……… nnnn… nnnn……'
+Al no poder pronunciar palabras, Harukaze sacudió la cabeza de lado a lado.
+ 'Este se está desarrollando también……… Qué olor tan desagradable tienes…'
+El hombre entrecierra los ojos alegremente.
+ 'Me encanta follar a una chica menuda como tú así… en vez de dejarte entrar… así …….'
+El hombre cogió otro interruptor.
+ 　　[boooooooooo ………]
+ ¡¡¡'Nnnn…!!!
+El rotor que estaba a medio camino dentro de Harukaze rugió y Hajime.
+ '¡Nn… nn… nn…!
+Dentro de Harukaze, las vibraciones de los rotores chocan entre sí, y las vibraciones se entrelazan y suben desde su cintura hasta su espalda.
+ '¡Nnnn……nnn…!
+ 'No cierres las piernas… te perderás toda la buena vista…'
+ '¡Oh, ……, eso es ……, eso es ………!
+El hombre lo dijo, sin permitir que Harukaze cerrara las piernas, y contemplando el espectáculo de la miel que brotaba de ellas a causa de la vibración.
+ 'Realmente, tienes un cuerpo desagradable… estás tan mojado…… con tal cosa'.
+La mano del hombre alcanzó el clítoris erecto de Harukaze.
+ '¡Nngh…!
+El cuerpo de Harukaze tiembla aún más fuerte.
+ 'Aquí…… está ensangrentado. 　Si está así de inyectada en sangre, ¿no le dolerá?”.
+El hombre lo dijo y Dan Harukaze los brotes de carne con sus dedos.
+ ¡¡¡¡'Nnnn!!!!
+El placer acompañado del dolor hizo que Harukaze derramara lágrimas.
+ 'Puedes sentir incluso esto… increíble, eres tan codicioso.
+ 'Nnnn……nnnn…'
+ “Entonces, ¿qué te parece esto?
+Los dedos del hombre tocan suavemente la afilada punta del Harukaze.
+ 'Mmm………'
+Los dedos del hombre acarician allí suave y lentamente.
+ “¡Pero… nnnn……Ughhh……!
+La caricia de la carne, de la sangre, de algo con calor humano, completamente diferente a las vibraciones de una máquina.
+ “¡Nnghh……h……!
+Harukaze babea más, derrama miel y recibe sus caricias.
+ 'Nn…ugh…fuhh…nn……~!'
+La primera vez que entró en una habitación privada con este hombre, Harukaze había llegado a un punto en el que no podía contar el número de veces que lo había hecho.
+Las manos acariciadoras del hombre no se detuvieron aunque vio que Harukaze se acercaba a él, y acarició la zona sin descanso.
+ “¡Nnghh……butt…!
+Las caricias del hombre iban acompañadas de un dolor agudo que estimulaba violentamente su cerebro, y ella sacudía ampliamente la cabeza de un lado a otro.
+El hombre dijo: “¿Puedes tocar el mío así también?”.
+El hombre lo dijo, presentando su erección a Harukaze por primera vez.
+El hombre presenta su erección por primera vez a Harukaze, que extiende una mano temblorosa hacia ella, que es un poco pequeña pero que late de color negro rojizo.
+En ese momento, el hombre apretó con fuerza el clítoris de Harukaze.
+ 'Nnnn……uuuu!!!'
+La mano de Harukaze se detiene.
+ ¿Qué pasa? 　Vamos, tócame rápido…”
+ “¡Nnnn……uuu…!
+La picardía del hombre estaba mareando la cabeza de Harukaze, pero aún así se aferró a la cosa del hombre con todas sus fuerzas.
+ 'Nnnn……mbh… nnnn………'
+El cuerpo del hombre es una parte muy importante del cuerpo, y es la parte más importante del cuerpo.
+Lo más importante es recordar que no hay que tener miedo de pedir ayuda. 　¿Puedes seguir así?”
+El hombre lo dice y cambia de posición. El hombre enterró su cara en la entrepierna de Harukaze.
+ '¡Nnnn……fuh!
+La lengua del hombre comenzó a rastrear allí, que se había vuelto sensible debido a las dos vibraciones.
+ '¡Nnghhhhhh…… blah blah blah…!'
+La lengua del hombre recorrió la zona sensible entre las dos vibraciones.
+ '¡Nnghh…… nnghh…… fh………!'
+Aun así, sin olvidar su trabajo, frota la cosa del hombre de arriba abajo con la palma de la mano, como si tocara un tesoro precioso.
+ 'Nnn….blah…… hh…… hnn!'
+El clítoris se recorrió con la lengua desde la base hacia arriba. De la misma manera y con el mismo ritmo, la mano de Harukaze se desliza desde la base de la entrepierna del hombre hacia arriba.
+ 'Nbut… nnnnggg ……!'
+Los dedos del hombre comenzaron a enredarse en el líquido acuoso.
+ 'Eres bueno,…… parece que está empezando a rezumar un poco…'
+El hombre dijo esto y aumentó la velocidad a la que movía su lengua.
+El hombre dijo, la velocidad del movimiento de la lengua aumentó aún más.
+Nngh!!!”
+La cosa del hombre, que estaba casi apretada por la profundidad del placer, se ajusta de alguna manera hasta el punto de que se aprieta moderadamente, y la mano de Harukaze se mueve hacia arriba y hacia abajo como está.
+ 'Nn, nn, nn.
+ 'Se siente bien,…… sólo aprieta un poco más…'
+ 'Nn…ugh …….'
+ “¡Nnnn……!
+La voz del hombre se elevó ligeramente.
+ '¡¡¡Nnnn…nnnn…!!!
+El hombre agitó las caderas por su cuenta e igualó a Harukaze.
+ '¡¡¡Nnnn……nnn…!!!
+La lengua del hombre está llena de néctar. La lengua del hombre está rebosante de miel.
+Y la mano de Harukaze también estaba manchada Haku por los fluidos corporales del hombre."
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"Tamanegi (talking)";"ここにいたのですか。 春風。";"Were you here? Harukaze.";"Usted está aquí. Harukaze."
+"Harukaze (talking)";"タマネギ……";"Tamanegi……";"Tamanegi……"
+"Tamanegi (talking)";"さあ、今日も始めましょうか。";"Let's get back to Hajime today, shall we?";"Ahora, vamos a Hajime de nuevo hoy, ¿de acuerdo?"
+"Harukaze (talking)";"や、やだよ… あんな事…もうしたくないよ…";"No, no, no… I don't want to do that… anymore…";"No, no, no… eso… eso es algo que no quiero hacer más…"
+"Tamanegi (talking)";"おや……
+そう言いつつも、始めると、 あんなにいい声をあげるというのに。";"Oyah ……
+I've been saying that, but when I see Hajime, he makes such a nice voice.";"Oya ……
+Aunque lo diga, hace una voz tan bonita cuando Hajime mera."
+"Harukaze (talking)";"っ………";"You can find out more at ………";"………"
+"Tamanegi (talking)";"あなたは、罪悪感を感じる必要は ありません。
+罪悪があるのだとしたら、 あなたのその才覚を見極めた、 わたくしにあるのですから。";"You do not need to feel guilty.
+If there is any guilt, it lies with me, for I have identified your genius.";"No tienes que sentirte culpable.
+Si hay alguna culpa, es mía, porque he reconocido tu genio."
+"Harukaze (talking)";"わ、わかんないよ、 そんな難しい事言われても…";"I don't know. It's not that hard to understand…";"No lo sé. No es tan difícil…"
+"Tamanegi (talking)";"だったら……
+何も考えなくていいんですよ。 ただ、わたくしの言う事に 身を任せていれば…";"Then go to ……
+You don't have to think about anything. Just surrender to what I say…";"A continuación, vaya a ……
+No tienes que pensar en nada. Sólo ríndete a lo que digo y…"
+"Harukaze (talking)";"……………";"……………";"……………"
+"Tamanegi (talking)";"さあ……";"Come on, ……";"Vamos, ……"
+"cg narrator";"「あっ…あああっ……」
+タマネギに優しく愛撫され、頬を染めた春風は、 映写機の前にいた。
+ 「さあ…視覚から興奮する訓練を始めましょう」
+ 「タ……タマネギ…」
+ 「さあ……わたくしより、映写機から 　流れる映像をご覧なさい」
+タマネギの指の通り、春風の首が動く。
+ 「あっ……」
+そこには、スクリーンに大写しで、 無修正のポルノが流れていた。
+ 「こっ……れ……」
+ 「そうです。 　あなたの先輩がお仕事にはげんでいる 　ところを撮影したものですよ」
+ 「あっ……」
+春風は、その光景に心奪われる。
+何人もの男の手が伸び、女の躰を愛撫する。
+ 「あっ……」
+既に出来あがっている春風は、 その手がスクリーンから伸びてきて、 自分の躰を愛撫されているような錯覚に陥っていく。
+ 「あっ……あぅっ…」
+春風の声に、甘いものが急速に濃くなっていく。
+女の口が、大きく開かれた。
+ 「あっ…！」
+その口に、怒張した男のものが差し込まれた。 女はうっとりとした目で、それをしゃぶり、 口をすぼめ、吸う。
+ 「あっ……ああっ……」
+春風は知らず、息を飲んだ。
+無意識に指が動いている。 快楽を求める為に。
+ 「あっ……ぁっ…んっ……」
+春風はスクリーンを見ながら、 自慰に耽り出した。
+バイブをぐっと掴むと、ゆっくり自分の敏感な部分を 機械でまさぐっていく。 中にはまだ入れない。
+ 「っ…んっ……ぁっ……」
+春風はそれだけの刺激で腰を小さく跳ねさせる。
+ 「どうですか？ 　人のを見るのは初めてでしょう？」
+ 「うっ…うんっ…」
+春風はタマネギの声にも生返事で、 スクリーンに見入り、指を動かしている。
+ 「あなたと同じように、こういう事をされて 　悦んでいる女がいる事に、ほっとしているの 　ですか、春風」
+ 「うっ…うんっ…そっ…だっね……あっ……」
+ 「だったら…そのスクリーンに映っている 　女に負けないぐらい、快楽を貪って 　いいんですよ」
+ 「ほっ……んと……？」
+春風の頬の紅潮がさらに増し、 瞳が、花弁と同じように潤み始めた。
+ 「嘘は言いません。 　さあ…その手を動かしてごらんなさい」
+タマネギは、スクリーンを指さした。 そこに映っている女もまた、バイブを手にしていた。
+ 「あ……ああ……っ…」
+春風は、スクリーンに同調する。
+女の手が、バイブをしっかり握り、 花弁に宛われた。
+ 「あっ……はぁっ……」
+春風は荒い息をつき、女と同じように、 自分が手にしているものを、そこに宛う。
+女の口が、大きく開かれた。 快楽の声をあげている。
+ 「あっ……」
+女が、喉をのけぞらせ、快楽にうち震えている。
+ 「ああっ…あっ……！！」
+春風の中にもまた、スクリーンの上と同じそれが、 入りこんできた。
+ 「あ、あ、あ！」
+春風は夢中になってそれを出し入れする。
+スクリーンと同調するように湿った音が部屋に響き、 その音をたてている体液が、床にぽたぽたと 落ちている。
+ 「あっ…こんなっ…あっ…」
+ 「駄目ですよ、春風。 　そこで理性を出しては」
+ 「んっ…だっ…だってぇっ…… 　だってぇっ…」
+ 「それのスイッチを入れなさい。 　あなたに今、一番必要なものはそれですよ」
+ 「あっ……あううっ……」
+春風は片手でバイブの出し入れを続け、 片手でそれのスイッチを握る。
+ 「さあ……スイッチを入れてごらんなさい…」
+ 「あっ…ぅっ……うぅっ……んっ……あっ…！！」
+低いモーターの音が、花弁の奥から背中を抜け、 春風の中を駆け巡る。
+ 「あっ……ああっ……！！」
+春風はスイッチを最強にして、 貪るようにバイブを出し入れし始めた。
+ 「あっ……ああうっ…んっ……あはっ…！」
+舌を突き出し、腰を大きく使い、バイブの動きと 振動に身を任せる。
+ 「あっ……んんっ…ん~~っ……！！」
+本体と同じように振動している突起を、春風は 尖っている肉蕾に宛った。
+ 「あ、あああ、あっ！！」
+それが荒く息を吐く音なのか、喘ぎなのか わからない響きを出しながら、春風は己の手で、 己の躰から快楽を引き出していく。
+ 「あんっ、あっ……ああ、あ！！」
+春風は我を忘れて手を、腰を使う。
+ 「あううっ…んっ…んんっ……！！」
+春風の躰がふるっと震えた。
+ 「あくっ……うっ……」
+腰の動きが強く、不規則になっていく。
+ 「あっ……んんっ…うっ…！！」
+春風は強く目を閉じた。
+ 「あっ……あっ……んっ……ん~~っ……！！！」
+春風は深くバイブを自分の中に突き入れると 床に額をなすりつけ、躰を丸め、びくびくと 大きく何度も何度も震えた。";"Ah…ah… ……”
+The Tamanegi caressed her gently, and the Harukaze, her cheeks tinted, was in front of the projector.
+The Tamanegi was in front of the projector, her cheeks tinted with a hint of color.
+ “Ta……Tamanegi…”
+ “Now, ……, watch the images coming from the projector.
+The head of Harukaze moves as Tamanegi's finger moves.
+Oh, …….”
+There, on the screen, was a large screen showing uncensored pornography.
+ “Koko-……re…….”
+Yes,” he said. 　That's right. It's a video of your senior going about his business.
+Oh, ……
+Harukaze was entranced by the scene.
+The most important thing to remember is that you can't just take a picture of a woman's body.
+Oh, ……
+The woman's body is already ready, Harukaze, and her hands reach out from the screen, and she falls into the illusion that her own body is being caressed.
+ “Oh…… ahh…”
+The sweetness rapidly thickens at the sound of Harukaze's voice.
+The woman's mouth was opened wide.
+Ah…!
+Into that mouth, an angry man's cock was inserted. The woman sucks it with fascinated eyes, squeezes her mouth, and sucks it.
+ “Oh…… oh ……”
+Harukaze gulped, unknowingly.
+The fingers are unconsciously moving. 
+ “Ahh…… ah…mmm……”
+Harukaze masturbated while watching the screen.
+He grabbed the vibrator and slowly started to play with the machine on his sensitive parts. I don't put it inside yet.
+I'm going to…mmmm……… ahhh………”
+Harukaze's hips bounced a little with just that much stimulation.
+I'm not sure if this is the first time you've seen someone else's. 　It's your first time to see someone else's, isn't it?”
+ “Ugh…yeah…”
+Harukaze replies to Tamanegi's voice, looking at the screen and moving her fingers.
+Is it a relief to know that there are women out there who take pleasure in this kind of thing, just like you, Harukaze?
+ “Ugh…yeah…yeah…yeah…yeah………
+Then… you can take as much pleasure as the woman on the screen.
+ “Oh,…… and ……?”
+The redness of Harukaze's cheeks became even more flushed, and her eyes became as moist and Hajime as the petals of a flower.
+I won't tell you a lie. 　Now… move your hand.”
+Tamanegi pointed at the screen. The woman on the screen was also holding a vibrator.
+Oh ……oh ………”
+Harukaze tuned in to the screen.
+The woman's hand gripped the vibrator tightly, and she addressed the petals.
+ “Oh…… ah………”
+Harukaze breathes heavily and, like the woman, addresses the object in her hand.
+The woman's mouth was opened wide. The woman's mouth was opened wide, and she was screaming with pleasure.
+Oh, …….”
+The woman's throat is rolled down, and she is trembling with pleasure.
+Ah…ah……!
+The same thing that was on the screen also entered Harukaze.
+Oh, oh, oh!
+Harukaze was so engrossed that she was sliding it in and out of her.
+A wet sound echoed in the room in sync with the screen, and the bodily fluids making that sound dribbled onto the floor.
+Oh…oh…oh…”
+No, Harukaze. 　You can't be rational there.
+ “Nn…d…d…d…d…d…d…d…d…d…d…d…d…d…
+ “Turn it on. 　That's what you need most right now.
+ “Oh…… ahhh……”
+Harukaze continues to move the vibrator in and out with one hand, while holding the switch with the other.
+ “Now…… turn it on…”
+Oh…ooohhh…… oooh…… mmmm…!”
+A low motor sound travels through Harukaze, from behind the petals, down her back.
+ “Ahh…… ah……!!!!”
+Harukaze flipped the switch to the highest setting, and the vibrator slid in and out of Hajime as if it were a ravenous appetite.
+He thrust his tongue in and out, using his hips in and out of the vibrator in a big, loud motion.
+I thrust my tongue out, used my hips widely, and let the vibrations and movement of the vibrator take control of me.
+ “Ahh…… nnnn…nn~~~……!
+The vibrating prongs, just like the main body, Harukaze addressed the pointed buds of her flesh.
+ “Ah, ah, ah, ah!
+ 
+ “Ah, ah, ah, ah!
+Harukaze forgets himself and uses his hands and hips.
+The body of Harukaze forgets itself and uses its hands and hips.
+The body of Harukaze trembled.
+ “Ackh……Ugh……!”
+The movement of her hips became stronger and more erratic.
+The body of Harukaze shook and trembled.
+Harukaze closed her eyes tightly.
+ 'Ahh…… ah…… nn~~!!!'
+Harukaze thrust the vibrator deep inside her, and then she rubbed her forehead against the floor, curled her body up, and trembled loudly and repeatedly.";"Ah… ah… ……”
+El Tamanegi la acariciaba suavemente, y la Harukaze, con las mejillas teñidas, estaba frente al proyector.
+ 'Ahora… vamos a Hajime a entrenarte para que te excites visualmente'.
+Ta……Tamanegi…”
+ “Ahora, ……, mira las imágenes que salen del proyector”.
+La cabeza de Harukaze se mueve de acuerdo con el dedo de Tamanegi.
+Ah, …….”
+Allí, en la pantalla, en pantalla grande, había una película pornográfica sin censura.
+ 'Koko…… es …….'
+Sí, señor. 　Es una película de su personal superior haciendo sus cosas.
+Oh, …….
+Harukaze estaba embelesado con la escena.
+El primer dato que nos viene a la mente es el hecho de que el cuerpo de la mujer está siendo utilizado como herramienta para que la policía investigue la situación.
+Oh, …….”
+La ya preparada Harukaze cae en la ilusión de que las manos salen de la pantalla y acarician su propio cuerpo.
+ 'Oh…… ahhh…'
+La dulzura se espesa rápidamente al oír la voz de Harukaze.
+La boca de la mujer se abrió de par en par.
+Ah…”
+En esa boca se introdujo una cosa de hombre enfadado. La mujer lo chupa con ojos fascinados, aprieta la boca y lo chupa.
+ 'Oh…… oh ……'
+Harukaze tragó saliva, sin darse cuenta.
+Los dedos se mueven inconscientemente. Buscar el placer.
+ 'Ahh…… ah… mmmm……'
+Harukaze comenzó a masturbarse mientras miraba la pantalla.
+La primera vez que la vi, estaba un poco nerviosa, pero no lo estaba. Todavía no lo pone dentro.
+ 'Oh… mmmm……… ah… ……'
+Harukaze hace un pequeño rebote en sus caderas con tanta estimulación.
+ ¿Cómo es? 　Es la primera vez que ves el de otra persona, ¿no?”
+ 'Ugh… sí…'
+Harukaze responde a la voz de Tamanegi, mirando la pantalla y moviendo los dedos.
+ '¿Te alivia saber que hay otras mujeres que se complacen en este tipo de cosas, como tú, Harukaze?
+ 'Ugh… sí… sí… así es… ………'
+Entonces… está bien tomar tanto placer como la mujer en la pantalla.
+ “¿Ho-…… y ……?”
+El enrojecimiento de las mejillas de Harukaze aumentó aún más, y sus ojos, como los pétalos, se humedecieron y Hajime.
+ 'No te diré una mentira. 　Ahora… mueve la mano”.
+Tamanegi señaló la pantalla. La mujer que estaba en él también sostenía un vibrador.
+ 'Oh…… oh ………'
+Harukaze sintoniza la pantalla.
+La mano de la mujer agarra firmemente el vibrador, dirigiéndose a los pétalos.
+ 'Oh…… ah………'
+Harukaze respira con fuerza y, al igual que la mujer, se dirige al objeto que tiene en la mano.
+La boca de la mujer se abrió de par en par. Grita de placer.
+Oh, …….”
+La mujer tiene la garganta en blanco y tiembla de placer.
+Ahh… ¡ah……!
+Lo mismo que aparecía en la pantalla también entraba Harukaze.
+ ¡Oh, oh, oh!
+Harukaze lo mete y lo saca, embelesado.
+El sonido de la humedad resuena en la habitación en sincronía con la pantalla, y los fluidos que están haciendo ese sonido están goteando en el suelo.
+ 'Oh… konnna… oh…'
+ 'No, Harukaze. 　No debes razonar conmigo en eso.
+ 'Nn…d…d…d…d…d…d…d…d…d…d…d…d…d…
+Enciéndelo. 　Eso es lo que más necesitas ahora”.
+Oh,…… ahhh ……
+Harukaze sigue moviendo el vibrador hacia dentro y hacia fuera con una mano y sujeta el interruptor del mismo con la otra.
+ 'Ahora…… enciéndelo…'
+ '¡Ah… oooh…… oooh…… mmmm…!'
+Un sonido de motor bajo recorre Harukaze, desde detrás de los pétalos y bajando por su espalda.
+ “¡Ah…… ah……!
+Harukaze puso el interruptor en la posición más fuerte, y el vibrador se deslizó dentro y fuera de Hajime como si se estuviera atiborrando.
+ 'Oh…… ahhh… mmmm…… ahah…'
+Saca la lengua, usa sus caderas a lo grande y se deja llevar por las vibraciones y el movimiento del vibrador.
+ ¡'Ah……nnn… nn~~~……!
+El Harukaze dirigió las púas, que vibraban del mismo modo que el cuerpo principal, a los brotes puntiagudos de su carne.
+ '¡Ah, ah, ah!
+ 
+ '¡Ah, ah,…… ah, ah!
+El Harukaze se olvida de sí mismo y utiliza sus manos y caderas.
+ ¡'Ahhh… nnnn… nnnn……!
+El cuerpo de Harukaze tembló.
+ “Ackkkuu……Uh……!
+El movimiento de sus caderas se hizo más fuerte y errático.
+ 'Ah……nnn… ugh…
+Harukaze cerró los ojos con fuerza.
+ “Ahh…… ah…… nn~~!!!
+Harukaze introdujo el vibrador en lo más profundo de su ser, y entonces se frotó la frente contra el suelo, encorvó su cuerpo y se estremeció con fuerza una y otra vez."
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"narrator";"そこには、奉仕青年団の一員となっている春風が 警備についていた。";"There was Harukaze, who is now a member of the Youth Service Corps, standing guard.";"Allí, Harukaze, que ahora es miembro de la Liga Juvenil de Servicio, estaba de guardia."
+"Harukaze (talking)";"奉仕青年団になっても、ロッコウかー… でも、ここすきだから、別にいっかー。
+ ………………
+あ！ 田んぼを荒らす猪発見！ やっつけちゃうぞー！！";"I'm not sure if I'll ever be a member of a service youth group, Rocco… But I love it here, so I don't mind.
+ ………………
+Oh! I found a wild boar tearing up the rice paddies! I'm going to kill it!";"Aunque estoy en un grupo juvenil de servicio, sigo siendo un Rocco… Pero me gusta estar aquí, así que no me importa.
+ ………………
+ ¡Ah! ¡Hemos encontrado un jabalí que está destruyendo los arrozales! ¡Voy a matarlo!"
+"narrator";"春風は、猪を追いかけた。";"Harukaze chased the boar.";"Harukaze persiguió al jabalí."
+"narrator";"春風は、猪を退治した。";"Harukaze killed a boar.";"Harukaze mató a un jabalí."
+" (talking)";"あんた達に怨みないけど、 春風、やっちゃうよ。";"I have nothing against you guys, but Harukaze, I'm gonna do it.";"No tengo nada en contra de ustedes, pero Harukaze, voy a hacerlo."
+" (talking)";"だっ…駄目、戦えない… 春風、アエン様と、戦う事なんか できないよぉっ…！";"I can't fight… I can't fight Harukaze and Aen…!";"No puedo luchar… ¡No puedo luchar contra Harukaze y Aen!"

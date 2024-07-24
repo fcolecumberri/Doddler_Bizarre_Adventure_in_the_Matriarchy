@@ -1,0 +1,611 @@
+"character";"jap text";"Eng";"Esp"
+"__system__??";"{麦 = 1:";"";""
+"__system__??";"{☆加古 = 0:";"";""
+"__system__??";"}";"";""
+"__system__??";"{(☆加古 = 2) * (☆ＤＡＴＥ > 4):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(☆加古 = 3) * (☆ＤＡＴＥ > 9):";"";""
+"__system__??";"}";"";""
+"__system__??";"{(☆加古 = 4) * (☆ＤＡＴＥ > 14):";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 2:";"";""
+"__system__??";"{B忠誠心 > 70:";"";""
+"__system__??";"{☆加古 = 1:";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 3:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 4:";"";""
+"__system__??";"}";"";""
+"__system__??";"{麦 = 5:";"";""
+"__system__??";"}";"";""
+"Kako Mirai (talking)";"にーちゃん、やっちゃんイカ 食うにゃりか？";"Ni-chan, Yacchan, do you want to eat squid?";"Ni-chan, ¿Yacchan ika come calamares?"
+"Yamamoto Akuji (talking)";"いらねー。";"I don't want it.";"No lo quiero."
+"Kako Mirai (talking)";"あっそにゃりか。 んじゃあ、未来ちゃん一人で 食うにゃり。うまうま。";"Oh, that's right. Well, I'll eat alone with Mirai. Yummmm.";"¿Ah, sí? Bueno, lo comeré solo con Mirai. Yum yum."
+"Yamamoto Akuji (talking)";"よし、そこで人間養老の滝だ…";"Okay, there you have it, the Human Yoro Falls…";"Bien, ahí lo tienes, las Cataratas Humanas de Yoro…"
+"Kako Mirai (talking)";"にーちゃん、何してるにゃりか？";"Niichan, what are you doing?";"Niichan, ¿qué estás haciendo?"
+"Yamamoto Akuji (talking)";"読書。";"Reading.";"La lectura."
+"Kako Mirai (talking)";"漫画にゃり。 漫画は読書に入らないって、 智子ちゃんに言われたにゃりよ。";"Manga. Tomoko told me that manga doesn't count as reading.";"Manga. Tomoko me dijo que el manga no cuenta como lectura."
+"Yamamoto Akuji (talking)";"どっちでもいいって。 今、いいとこだから、 邪魔しねーでくれ。";"I don't care either way. I'm in a good place right now, so don't bother me.";"No importa cuál. Estoy en un buen momento, así que no me interrumpas."
+"Kako Mirai (talking)";"アスナロ球団にゃり。 おもしろいにゃりか？";"Asnaro Ball Team Nyari. Is it interesting?";"Equipo de pelota de Asnarro Nyari. ¿Es interesante?"
+"Yamamoto Akuji (talking)";"おもしろい、おもしろい。";"Interesting, interesting.";"Interesante, interesante."
+"Kako Mirai (talking)";"ぅもーーー。 テキトーにゃり。";"Oooooooooo. Texanari.";"Ooooooooo. Tekito-yari."
+"narrator";"未来は悪司の足元に座った。";"Mirai sat at the feet of Akuji.";"Mirai se sentó a los pies de Akuji."
+"Kako Mirai (talking)";"未来ちゃん、テキトーに遊ぶにゃり。";"Mirai-chan, play with Tex.";"Mirai-chan, jugando con los tejanos."
+"narrator";"未来は悪司のズボンのジッパーを 勝手に降ろした。";"Mirai took the liberty of unzipping Akuji's pants.";"Mirai se tomó la libertad de bajar la cremallera de los pantalones de Akuji."
+"Kako Mirai (talking)";"つんつくつーん。 つんつくつーん。";"Ping-pong, ping-pong, ping-pong. Tap, tap, tap, tap, tap.";"Tang-tang-tang-tang. Tang-tang-tang-tang."
+"Yamamoto Akuji (talking)";"………おっし…… 死ぬな…死ぬな…";"……… ossi…… don't die… don't die…";"……… oss…… No te mueras… no te mueras…"
+"Kako Mirai (talking)";"つんつくつーん。 つんつくつーん。";"Ping-pong, ping-pong, ping-pong. Tap, tap, tap, tap, tap.";"Tang-tang-tang-tang. Tang-tang-tang-tang."
+"Yamamoto Akuji (talking)";"よーしよし…逆転…";"All right, all right… reversal…";"Muy bien, muy bien… inversión…"
+"Kako Mirai (talking)";"ふにゃちんにゃりー！ つまんないにゃりー！";"Boring! Boring!";"¡Aburrido! ¡Aburrido!"
+"Yamamoto Akuji (talking)";"人の股間で叫ぶなー！！";"Don't scream between people's legs!";"¡No grites entre las piernas de la gente!"
+"Chinpira (talking)";"おい、未来。 茶ぁ入れてくれよ。";"Hey, Mirai. Make me a cup of tea.";"Oye, Mirai. Hazme una taza de té."
+"Kako Mirai (talking)";"なんでにゃり。 それに未来、あんたなんかに 命令される覚えないにゃりよ。";"Why not? And Mirai, I don't take orders from you.";"¿Por qué no? Y Mirai, no acepto órdenes tuyas."
+"Chinpira (talking)";"なんだと？ 一度やってやったっていうのに、 なんだ、その態度は。";"What? I did it once. What's with that attitude?";"¿Qué? Lo hice una vez. ¿Por qué esa actitud?"
+"Kako Mirai (talking)";"やってやった~~？？？
+それはこっちのセリフにゃり！
+俺のちゃんぽこ、破壊マシーンって いうから、やったのに、うそうそ だったにゃりよ！
+短い、皮ダブリ、細い、白い、 早いなんて破壊マシーン、未来ちゃん 初めてにゃり！
+おまけに前戯もへなちょこで、 こっちの気分おかまいなしの腰ふり だったにゃり！！
+やり損だったにゃり！ 返せ、一回分！";"I did it~?
+That's my line!
+I did it because you said my pussy was a destruction machine, but you were wrong!
+Short, flabby, skinny, thin, Haku-ish, fast, destruction machine, Mirai, you've never done that before!
+And she was so bad at foreplay that she didn't even care what I was feeling, she was just swinging her hips around!
+You missed out! Give me back my money!";"¡Lo hice!
+ ¡Esa es mi línea!
+Dijiste que mi coño era una máquina de destrucción, así que lo hice, ¡pero estabas mintiendo!
+Bajita, flaca, delgada, parecida a Haku, rápida, máquina de destrucción, Mirai, ¡eres la primera!
+Y era tan mala en los preliminares, que no le importaba lo que yo sentía, ¡sólo movía las caderas!
+Te lo has perdido. ¡Devuélveme mi dinero!"
+"Chinpira (talking)";"なっ……なななっ……！！
+お、俺を馬鹿にするのか！！";"Nah…… nah ……!
+Oh, you're mocking me!";"¡Nah…… nah ……!
+ ¡Oh, te estás burlando de mí!"
+"Kako Mirai (talking)";"馬鹿にしてるのはそっちにゃり！ このダブル馬鹿！！";"You're the one making fun of me! You double idiot!";"¡Tú eres el que se burla de mí! ¡Idiota!"
+"Chinpira (talking)";"このクソアマー！！！";"You fucking amer!!!!!!!!!!!!!!!!!!!!!!!!!!!!";"¡¡¡¡¡¡¡Maldito ammer!!!!!!!"
+"Kako Mirai (talking)";"やるにゃりか！？ いいにゃりよ！！";"You want to do it? Yes!";"¿Quieres hacerlo? ¡Sí!"
+"Yamamoto Akuji (talking)";"何やってんだ、未来。";"What are you doing, Mirai?";"¿Qué estás haciendo, Mirai."
+"Kako Mirai (talking)";"にーちゃん！
+にーちゃん、こいつひどいにゃり！
+短い、皮ダブリ、細い、白い、 早い、くちゃいで、女が喜ぶと 思ってるにゃり！
+前戯もへなちょこ、一発出したらタバコ 吸っちゃう、だめだめなのに、 未来ちゃんが悪いって言うにゃり！
+しかも、一回やっただけで、 恋人気取りで、命令して、 ずうずうしーにゃりよー！";"Nee-chan!
+Nyari, he's terrible!
+He thinks he can please the ladies with his short, flabby, skinny, Haku-like, fast and messy cock!
+He's a sucker for foreplay, smokes when he puts out his Ippatsu, and says it's Mirai's fault even though he's a total mess!
+And after just one try, he's acting like a lover, ordering her around and being so shameless!";"¡Nee-chan!
+ ¡Nyari, es terrible!
+Bajito, fofo, delgado, Haku, rápido y desordenado, ¡piensa que está complaciendo a las mujeres!
+Le gustan los juegos preliminares, fuma cuando saca su Ippatsu, y dice que la culpa es de Mirai, ¡aunque ella es un auténtico desastre!
+Y después de un solo intento, actúas como si fueras su amante, dándole órdenes y siendo tan descarado."
+"Chinpira (talking)";"あ、悪司さん…俺…俺……";"Oh, Akuji… me… me ……";"Oh, Akuji… yo… yo ……"
+"Yamamoto Akuji (talking)";"……………";"……………";"……………"
+"Chinpira (talking)";"あの…俺……";"Um… me ……";"Um… yo ……"
+"Yamamoto Akuji (talking)";"わりぃな。 俺、そーいう男の気持ち、 わかんないんで。";"Sorry. I don't know how guys like that feel.";"Lo siento. No sé cómo se sienten los hombres así."
+"Chinpira (talking)";"うっ……
+うわーーーん！！ ちくしょーーー！！ 女なんてーー！！";"Ugh ……
+Wooooooo!!! Damn!!! Women!";"Ugh……
+ ¡¡¡Wooooooooo!!! ¡Maldita sea! ¡Mujeres!"
+"Kako Mirai (talking)";"あーあー。 泣いちゃったにゃり。 逃げちゃったにゃり。
+にーちゃん、ひどいにゃりねー。";"Ahhhh… I cried. I ran away.
+Nyari, you're terrible.";"Aww. Lloré. Salí corriendo.
+Nyari, eres terrible."
+"Yamamoto Akuji (talking)";"お前の方が、酷い事、 連発してたじゃねーか。";"You're the one who's been saying a lot of terrible things.";"Has dicho cosas peores que yo."
+"Kako Mirai (talking)";"にーちゃん。 みずあめ作ったにゃりよ。 食べるにゃりか？";"Nya-chan. I made you some water candy. Do you want some?";"Nya-chan. Te he hecho un caramelo. ¿Quieres un poco?"
+"Yamamoto Akuji (talking)";"おう、ひとつくれ。";"Oh, give me one.";"Oh, dame una."
+"Kako Mirai (talking)";"はいにゃり。 ぐるぐるして、美味しくしなくちゃ だめにゃりよ。";"Yes, yes, yes, yes. You have to make it taste good.";"Sí, sí, sí. Hay que hacerla redonda y redonda, y tiene que saber bien."
+"Yamamoto Akuji (talking)";"手作りって… これ、買ったんじゃなくって、 自分で作ったって事か？";"Handmade… you mean you didn't buy this, you made it yourself?";"Hecho a mano… ¿quieres decir que no has comprado esto, que lo has hecho tú mismo?"
+"Kako Mirai (talking)";"そうにゃり。 ぐつぐつ煮たにゃりよ。";"That's right. It's boiled.";"Sí, así es. Lo herví."
+"Yamamoto Akuji (talking)";"思ったより女っぽいとこあるんだな、 お前。";"You're more feminine than I thought.";"Eres un poco más femenina de lo que pensaba, ¿no?"
+"Kako Mirai (talking)";"未来ちゃんはコシノタマ 狙ってるから、家事得意にゃり。";"Mirai is aiming for Koshinotama, so she is good at housework.";"Mirai aspira a Koshinotama, por lo que es buena en las tareas domésticas."
+"Yamamoto Akuji (talking)";"それを言うなら、玉の輿だ。";"That's a ball-buster, if you ask me.";"En mi opinión, eso es un golpe de efecto."
+"Kako Mirai (talking)";"はにゃ。 間違えたにゃり。 ぐるぐーるぐる。";"I made a mistake. I made a mistake. Guruguruguru.";"Ha nya. Por error. Guruguruguru."
+"Yamamoto Akuji (talking)";"玉の輿に乗ってどーすんだ？";"What are you going to do with your ball and chain?";"¿Qué vas a hacer con tus pelotas?"
+"Kako Mirai (talking)";"お金持ちだと、徴兵されないにゃり。";"If you are rich, you will not be drafted.";"Si eres rico, no serás reclutado."
+"Yamamoto Akuji (talking)";"そーだなー。";"I guess so.";"Sí."
+"Kako Mirai (talking)";"だから、戦争になっても、家族が バラバラにならないにゃり。";"So, even if there is a war, the family will not be torn apart.";"Así, incluso en caso de guerra, la familia no se verá desgarrada."
+"Yamamoto Akuji (talking)";"……そーだなー…";"…… I guess so…";"…… Ya veo…"
+"Kako Mirai (talking)";"未来ちゃんのとーちゃん、帰って こないから、さびしーにゃり。
+だから、お金持ちと結婚して、 家族バラバラになるの、防ぐにゃり。";"I'll miss Mirai's family since they won't come back.
+So I'm going to marry a rich man and prevent my family from being split up.";"Echo de menos a la familia de Mirai porque no vuelven.
+Así que voy a casarme con un hombre rico y evitar que mi familia se separe."
+"Yamamoto Akuji (talking)";"お前でも、ちゃんと考えてんだなー…";"Even you're thinking straight…";"Incluso tú estás pensando bien…"
+"Kako Mirai (talking)";"ふふん、すごいにゃり？";"Hmmm, great nyari?";"Hmmm, ¿gran nyari?"
+"Yamamoto Akuji (talking)";"お前のみずあめの方が白いな。 交換してくれよ。";"Your water candy is more Haku. You'll have to trade me.";"Tu caramelo de agua es más Haku. Tendrás que reemplazarlo."
+"Kako Mirai (talking)";"いやにゃり。";"No, thank you.";"Nyanari."
+"Kako Mirai (talking)";"にーちゃん、お願いがあるにゃりよ。";"Nyari, I have a favor to ask you.";"Niichan, tengo que pedirte un favor."
+"Yamamoto Akuji (talking)";"んー？ なんだー？";"Hmm? What's that?";"¿Hmm? ¿Qué es eso?"
+"Kako Mirai (talking)";"駄菓子屋さん、やんない？";"Candy store, won't you do it?";"Tienda de caramelos, ¿no lo harás?"
+"Yamamoto Akuji (talking)";"は？";"Huh?";"¿Ja?"
+"Kako Mirai (talking)";"未来ちゃん、駄菓子好きにゃり。 だから、駄菓子屋さんしたいにゃり。";"Mirai, you like candy. That's why I want to work in a candy shop.";"Mirai, te gustan los dulces. Por eso quiero trabajar en una tienda de dulces."
+"Yamamoto Akuji (talking)";"もうかんねーだろーが。";"I don't think I can do it anymore.";"No creo que pueda hacerlo más."
+"Kako Mirai (talking)";"２４時間営業の駄菓子屋さんにゃり。 ずっと、お金がもうかるにゃりよー。";"A 24-hour candy shop. You can make money all the time.";"Tienda de caramelos 24 horas. Puedes ganar dinero todo el tiempo."
+"Yamamoto Akuji (talking)";"だーめ。";"Duh.";"Duh."
+"Kako Mirai (talking)";"意地悪言わないにゃりよー。";"I don't say mean things, Nyariyo.";"Nyariyo que no diga cosas malas."
+"Yamamoto Akuji (talking)";"だめったら、だめ。";"No, no, no, no.";"No, no, no."
+"Kako Mirai (talking)";"ぶーーーー！！！";"Booooo!";"¡¡¡Boooo!!!"
+"Yamamoto Akuji (talking)";"未来、自分で脱げ。";"Mirai, take it off yourself.";"Mirai, quítatelo de encima."
+"Kako Mirai (talking)";"おぉう！ やるにゃりか！？";"Oh! You're going to do it!";"¡Oh! ¡Lo vas a hacer!"
+"Yamamoto Akuji (talking)";"ムードもへったくれもねーな、お前は。 まー楽だけど、こっちは。";"You're in no mood, you know that? Well, it's easy for me.";"No estás de humor, no estás de humor. Bueno, para mí es fácil."
+"Kako Mirai (talking)";"ムードも砂糖も欲しい時に 入れたらいいにゃりよ。";"If you want mood and sugar, you can put it in.";"Puedes ponerlo cuando quieras tanto el humor como el azúcar."
+"Yamamoto Akuji (talking)";"スゲー例えだな……";"That's a great analogy: ……";"Es una gran analogía……"
+"Kako Mirai (talking)";"あーうーもー、服、ちゃんと脱ぐの ウザイにゃり！ いくにゃりよ、にーちゃん！";"Aaahhh, mooooo, take your clothes off properly, you douchebag! Come on, baby!";"¡Aaahhh, mooo, quítate la ropa como es debido, imbécil! ¡Quítate la ropa, imbécil!"
+"Yamamoto Akuji (talking)";"よーしよし。 こいこい。";"All right, all right. Come on, come on.";"De acuerdo, de acuerdo. Vamos, vamos."
+"cg narrator";"「どうにゃりっ…気持ちいい……？」
+ 「ああ…お前のここ、ぐちゃぐちゃだから、 　スンゲー滑るし、絡まってきて、最高だよ」
+悪司は未来のクリトリスに指を伸ばすと、 ゆっくりと指の腹で転がし始めた。
+ 「はっ……ぅううっ！」
+未来の躰がびくりと伸び、力を込められた 内腿が悪司のものを締めつける。
+ 「おいおい……そんなに気持ちよかったか？」
+ 「う、うんっ…あっ…あふっ……ん！」
+未来は自分から腰を柔軟にくねらせ、 自分で自分の弱い部分を擦りあげている。
+ 「あっ……にーちゃんのここ…… 　凄い…凄いよぅっ… 　改造されてないのにっ…どして……」
+ 「天賦の才能ってヤツだろ」
+悪司は顔色を変えず、未来を突き上げる。
+ 「あくっ…あ、あああ！」
+それに合わせて未来は舌を出し、腰をくねらせる。
+ 「っ…あ…だめっ…だめっ…… 　だめっっ…んっ……ん……~~っ……！！」
+未来は悪司のものをぎゅっと締めつけながら、 腰から上を震わせた後、足をびくりびくりと 大きく震わせた。
+ 「相変わらず、イクのが上手だな、未来。 　すんげー…俺の足伝って、お前の蜜がシーツに 　流れてってるぜ」
+ 「だって…だって…気持ちいいもん…… 　凄いんだっ…もん…… 　……んっ…もっ……と……」
+未来は悪司のふぐりに指を伸ばし、 ゆっくりと愛撫し始めた。
+ 「入れながらさ…こーやると… 　男の人、気持ちいいんでしょ…？」
+ 「人それぞれさ……」
+ 「……気持ちよくなってね…にーちゃん… 　んっ…あふっ…！」
+未来は腰を動かしながら、悪司の袋を、 爪をたてないように、くにくにと愛撫する。
+ 「んっ……これの感触好き…… 　柔らかくて……冷たくて気持ちいいっ… 　……あっ……あっ…！」
+未来の指が、少しきつく、悪司のそれを愛撫しだす。
+ 「……どう……痛くない……？」
+ 「もっときつくしても平気だぜ。 　爪をたてるのは、勘弁だけどな」
+悪司は未来の胸を揉みながら、 腰を上下に押し出した。
+ 「はぅっ…んっ… 　んんっ……じゃっ…あ……これぐ…らい……？」
+未来は少し力を込め、女の乳房を揉むように、 ふぐりを愛撫する。
+ 「ああ………いい気持ちだ……」
+悪司は未来の乳房を両手で包むと、 未来の上下に合わせ、指を動かす。
+ 「あっ……くあっ…あ！」
+悪司の指の腹が、未来の乳首にふれる。 上下される腰の動きに合わせ、その腹の下で 尖った乳首がこねられる。
+ 「はっ…あうっ……！！ 　勝手に腰、動いちゃうっ…！」
+ 「いーじゃねぇか。 　もっと激しくしたっていいんだぜ」
+ 「んっ……あっ……~……うっ…！！」
+未来は腰を押し出すように悪司の腹に擦りつけ、 深く深く、貫いているそれを飲み込んだ。
+ 「にーちゃあっ……ん…… 　未来……もう駄目…… 　もう……気絶しそうぅっ…」
+ 「そーかそーか、じゃあ、イっちまいな。 　俺が見てる前でさ」
+乳首を、クリトリスを、悪司の指が愛撫する。
+ 「はっ……あうっ！！ 　にーちゃんっ……も… 　一緒……一緒がいいよぅっ……」
+ふぐりを愛撫していない方の未来の指が、 悪司の一物のつけ根に滑ってくる。 指は花弁と同じ動きで、悪司のそれを擦った。
+未来は、言動のすべてで、 悪司にも達成をねだっている。
+ 「いい子だな、未来。 　じゃあ、イカせてくれや」
+その指と花弁を愛撫する悪司。
+ 「ん、んんっ…んっ…！！」
+未来は悪司の言葉に薄く笑うと、 さらに腰をきつくゆすり始めた。
+悪司のふぐりをさらに複雑に、不規則に 力を込めたり、緩めたりして愛撫する。
+ 「あっ……ああっ……あっ……」
+未来の躰が小刻みに震え出す。
+ 「んっ……くるっ…んんっ…… 　にーちゃっ……一緒にっぃっ……」
+ 「わかったよ……そらっ……」
+ 「あっ……~~っ……！」
+悪司は下から未来を激しくかき回す。
+ 「あっ、あ、あっ…！」
+未来はそれに揺さぶられながら、 悪司のものを花弁で摩擦し、 蜜を噴き出させる。
+ 「んっ…あっ…もっ…だめっ… 　未来…未来…」
+ 「合わせてやるよ……そら…」
+悪司はさらに、未来の中を 激しく行き来しだした。
+ 「あ、あ、あ！」
+未来の中が、悪司の一物をきつく締め上げる。
+ 「あっ………~~っ……んんんーーっ…！！」
+未来の躰が大きく震える。 悪司は素早く未来の中から一物を滑り出させると、 未来の胸に白濁の体液を浴びせかけた。";"”How does… that feel good ……?”
+Oh…you're so slippery and tangled up in this mess, it feels so good.”
+Akuji reached for Mirai's clitoris and slowly rolled it around with his finger, making it Hajime.
+ “Ha……uuh!”
+The Mirai's body stretched and her inner thighs tightened around Akuji's. “Hey, hey, hey,  it feels so good!
+The Mirai's body twitches and her inner thighs tighten around Akuji's. “Hey, hey ……, did it feel that good?”
+ “Uh-huh…ah…ah…ah…ah…ah…ah…ah…ah…ah…ah!”
+Mirai flexes and wiggles her hips, rubbing herself up and down on her weak spot.
+She was not modified, but she was still a little bit of a mess………”
+It's called natural talent, right?”
+Akuji doesn't change color and pushes up Mirai.
+The Akuji does not change color and thrusts at Mirai.
+In response, Mirai sticks out her tongue and wiggles her hips.
+She says, “Oh…oh…no…no…no…no…no…no…no…no…no…no…no…no…no…no…no…no……… ……~~~……!!!”
+Mirai squeezed Akuji's cock and shook it from the waist up, and then shook her legs.
+You're good at cumming as always, Mirai. 　Your honey is running down my legs and onto the sheets.
+ “Because… because… it feels so good……… It's amazing… mon……… … …mmm…mmm…mmm…mmm……… and ……
+Mirai reached a finger into Akuji's vagina and slowly caressed Hajime.
+The first thing that comes to mind is the fact that the man is a man who has been in a relationship for a long time.
+ “To each his own……
+ “…… make me feel good… niichan… nnnn… ahhh…!”
+The Mirai caresses Akuji's pouch with her hips, not touching it with her fingernails.
+I like the feeling of this…… soft and…… cool and nice……… ah…… ah…!”
+Mirai's fingers start caressing Akuji's, a little tighter.
+ “How…… does that hurt ……?”
+I don't mind if you make it tighter. 　I don't want you to claw at it, though.
+Akuji squeezes Mirai's breasts and pushes her hips up and down.
+I'm not sure if this is a good idea or not, but I'm sure it's a good idea……?”
+Mirai caresses the fugu with a little more force, as if she is rubbing the woman's breast.
+ “Oh……… that feels good …….”
+Akuji wraps both hands around Mirai's breast and moves her fingers up and down as Mirai goes up and down.
+ “Oh Akuji!”
+Akuji's fingers touch Mirai's nipples. The nipples are kneaded under the belly in accordance with the up and down movement of the hips.
+ “Ha…ahhh………! 　My hips are moving on their own…!
+It's fine. 　I don't care if you do it harder.
+ “Oh, ……~……~…… Ugh…!
+Mirai rubbed her hips against Akuji's belly as if to push it out, and swallowed it deep and penetratingly.
+ 'Ni-chaaaaahhhh…… nn…… Mirai…… no more…… I can't take it any more! I'm going to pass out…”
+I'm about to pass out…” “Oh yeah, well, go ahead and cum. 　You can do it right here in front of me.
+The nipples and clitoris are caressed by Akuji's fingers.
+ “Haha…… ah! 　Ni-chan,…… we should be together…… together!
+The one not caressing Fuguri, Mirai's finger slides to the base of Akuji's one thing. The finger rubbed it of Akuji with the same movement as the petals.
+With everything he says and does, Mirai begs for achievement from Akuji as well.
+She said, “You're a good girl, Mirai. 　Then make me cum.”
+Akuji caresses her fingers and petals.
+ “Nnnn…nnnn…!!!!”
+Mirai smiled thinly at Akuji's words, and shook her hips even tighter to Hajime.
+She caresses Akuji's vagina more intricately and irregularly, with more and more force and loosening.
+ “Oh…… oh…… oh…… oh ……!”
+The body of Mirai begins to tremble in small tremors.
+The first thing to do is to take a look at the following information…”
+I got it,…… Sora,………”
+ “Oh ……~~~……!”
+Akuji stirs Mirai hard from below.
+Oh, oh, oh…!”
+Mirai rubs Akuji's petals and spurts nectar as she is rocked by it.
+Akuji rubbed his petals against Akuji's, making the nectar spurt out.
+ “I'll match you…… Sora…”
+Akuji began to move back and forth inside of Mirai more intensely.
+I'm going to match you.
+The inside of Mirai tightens up on Akuji's penis.
+ “Oh ………~~~~…… nn~~~…!
+Mirai's body shakes loudly. Akuji quickly slides out of Mirai and showers Mirai's breasts with Haku's fluids.";"”¿Cómo… se siente bien ……?”
+ 'Oh… eres tan desordenado aquí, es tan resbaladizo y enredado, es genial'.
+Akuji acercó un dedo al clítoris de Mirai y lo hizo rodar lentamente con el vientre de su dedo a Hajime.
+ “¡Ha……uuuuu!
+El cuerpo de la Mirai se estiró y el interior de sus muslos se apretó alrededor del de Akuji.
+ “Hey, hey ……, ¿se siente tan bien?
+ 'Uh-huh… ah… ah… ah… ah……… nn!'
+Mirai flexiona sus caderas y se frota contra su punto débil.
+ 'Oh…… Nii-chan está aquí…… es increíble… es increíble… aunque no haya sido modificado… por qué…' ……”
+Se llama talento natural, ¿no?”
+Akuji no cambia de color, y empuja hacia arriba a Mirai.
+ 'Ack… ¡ah, ah!'
+En respuesta, Mirai saca la lengua y mueve las caderas.
+ 'Ah… ah… no… no……… no… nnnn… ……~~~……!!!'
+Mirai apretó la polla de Akuji, sacudiéndola de cintura para arriba, y luego agitando sus piernas.
+ 'Eres tan bueno para correrte como siempre, Mirai. 　'Wow… tu miel está corriendo por mi pierna y en las sábanas.
+ 'Porque… porque… se siente tan bien……… Es increíble… mon……… …… mmm… mmm… mmm……… y …….”
+Mirai metió un dedo en la vagina de Akuji, la acarició lentamente y Hajime.
+ 'Cuando haces esto… mientras la metes… se siente bien para un hombre, ¿no es así…?'
+ “A cada uno lo suyo”……
+ '…… te hace sentir bien… nii-chan… nn… ah…'
+La primera vez que la vi, pensé que era un poco perra, pero era una persona muy agradable, y se portó muy bien conmigo.
+ 'Me gusta la sensación de este…… suave y…… frío y agradable… … oh…… oh…”
+Los dedos de Mirai comienzan a acariciar los de Akuji, un poco más apretados.
+ '¿Cómo…… es…… que no duele ……?'
+ 'No me importa si lo haces más apretado. 　Pero no quiero que lo arañes”.
+Akuji apretó los pechos de Mirai y empujó sus caderas hacia arriba y hacia abajo.
+  ……?”
+Mirai acaricia el fugu con un poco más de fuerza, como si estuviera frotando el pecho de la mujer.
+ 'Oh……… eso se siente bien …….'
+Akuji rodea con ambas manos los pechos de Mirai y mueve los dedos al ritmo de las subidas y bajadas de Mirai.
+ 'Oh Akuji, voy a… ¡ah!'
+Los dedos de Akuji tocan los pezones de Mirai. Los pezones se amasan bajo el vientre de acuerdo con el movimiento de las caderas, que suben y bajan.
+ ¡Ha… ahhh, ……! 　¡Mis caderas se mueven solas!
+No voy a dejar que me hagas esto. 　No pasa nada si lo haces con más fuerza.
+ “¡Nnnn……~……~……Uh…!”
+Mirai frotó sus caderas contra el vientre de Akuji como para empujarla, y la tragó profunda y penetrantemente.
+ '¡Niicha ah…… nn…… Mirai…… no más! Me voy a desmayar…
+ 'Oh, sí, bueno, sigue adelante y córrete. 　Me voy a desmayar…”
+Los pezones y el clítoris son acariciados por los dedos de Akuji.
+ ¡'Haha…… ah! 　Ni-chan,…… también… juntos…… juntos es bueno……… juntos es bueno……… juntos es bueno…”
+Los dedos de Mirai, la que no acaricia a Fuguri, se deslizan hasta la base del único objeto de Akuji. El dedo lo frotó de Akuji con el mismo movimiento que los pétalos.
+Con todo lo que dice y hace, Mirai también está rogando a Akuji que lo consiga.
+ 'Eres una buena chica, Mirai. 　Entonces haz que me corra”.
+Akuji acaricia sus dedos y pétalos.
+ 'Nn, nn… nn…
+Mirai sonrió con poco entusiasmo ante las palabras de Akuji y agitó aún más sus caderas, Hajime.
+El Mirai acaricia la vagina de Akuji de forma más intrincada y errática, cada vez con más fuerza y aflojando.
+ 'Oh Akuji, oh Akuji, oh Akuji.'
+El cuerpo de Mirai comienza a temblar ligeramente.
+ 'Nn…… Kuru… nn…… nicha…… nicha…… juntos… …”
+ “Muy bien,…… Sora, ………
+Oh ……~~~~……!”
+Akuji agita a Mirai con fuerza desde abajo.
+ “¡Ah, ah…!
+Mientras Mirai se agita por ello, frota la cosa de Akuji con sus pétalos y hace que chorree miel.
+ 'Oh… oh… oh… no… Mirai… Mirai…'
+ 'Te igualaré…… Sora…'
+Akuji comenzó a moverse de un lado a otro dentro de Mirai con mayor intensidad.
+ ¡Ah, ah, ah!”
+El interior de Mirai se tensó sobre la polla de Akuji.
+ ¡'Oh ………~~~~…… nn~~…!
+El cuerpo de Mirai tiembla fuertemente. Akuji se desliza rápidamente fuera de Mirai y baña los pechos de Mirai con los fluidos turbios de Haku."
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"Kako Mirai (talking)";"ふにゃ~~……";"Hmmm~~……";"Hmmm~~……"
+"Yamamoto Akuji (talking)";"満足したか？";"Satisfied?";"¿Satisfecho?"
+"Kako Mirai (talking)";"うんっ！ サイッコーにゃり！！ にーちゃんワザ師にゃり！";"Yes! That was awesome! Nyari, you're a wizard!";"¡Sí! ¡Eso es genial! ¡Nyah! ¡Nyah, eres un mago!"
+"Yamamoto Akuji (talking)";"そーだなー。";"I guess so.";"Sí."
+"Kako Mirai (talking)";"はふ~~ん…… おなかいっぱいにゃり……";"Hafu~n…… hungry ……";"Hafu~n…… hambriento……"
+"Yamamoto Akuji (talking)";"おーし。";"Osh.";"Oooh."
+"Kako Mirai (talking)";"やるにゃりか！？ 咥えていいにゃりか！？";"Can I suck it? Can I suck it?";"¿Puedo chuparla? ¿Puedo chuparla?"
+"Yamamoto Akuji (talking)";"おーしおし。 いくらでもしゃぶってくんな。";"Oh, shi-shi-shi. Suck me off as much as you want.";"Oh shh shh shh. Chúpame todo lo que quieras."
+"Kako Mirai (talking)";"上の口でも下の口でも、 バリバリいくにゃりよー！！ ぃやっふーー！！";"Whether it's the upper or lower mouth, I'm going for it! Yee-hoo!";"Boca arriba o boca abajo, ¡voy a por ello! ¡Yee-hoo!"
+"Kako Mirai (talking)";"加古未来は、たっぷりと抱かれた。";"Kako Mirai was held plenty.";"Kako Mirai se celebró en abundancia."
+"Kako Mirai (talking)";"ごちそーさまでしたニャリよ！";"Thank you for the food, Nyali!";"¡Gracias por la comida, Nyali!"
+"Yamamoto Akuji (talking)";"おいよ、お粗末さまー。";"Hey, yo, lousy!";"¡Oye, tú, pésimo!"
+"Yamamoto Akuji (talking)";"未来、小遣いやるわ。";"Mirai, I'll give you some money.";"Mirai, te daré algo de dinero."
+"Kako Mirai (talking)";"え、いいにゃりか！？";"Eh, good nyari!";"¡Eh, buen nyanari!"
+"Yamamoto Akuji (talking)";"おうおう。 大事に使うんだぞ。";"Oh, oh, oh. Take good care of it.";"Oh, oh, oh. Cuídalo bien."
+"Kako Mirai (talking)";"ありがとにゃり。 えーと、モナカアイス買って、 まんじゅう買ってー。";"Thanks, Nyari. Let's see, I bought some monaka ice cream and some manju.";"Gracias, Nyari. Veamos, compré un helado de monaka, y luego compré un manju."
+"Yamamoto Akuji (talking)";"俺は今、大事に使えっつったろ。";"I told you to take good care of it now.";"Sólo te dije que lo usaras con cuidado."
+"Kohara Koharu (talking)";"こっちよ。 未来さん。";"This way. Mirai.";"Por aquí. Mirai."
+"Kako Mirai (talking)";"げ☆";"Geh☆";"Geh☆"
+"Kohara Koharu (talking)";"人の顔を見るなり、げ☆って、何よ…";"As soon as he saw someone's face you say 'Geh☆'?";"En cuanto ves la cara de alguien, dices 'Geh☆'?"
+"Kako Mirai (talking)";"だって、小春酷いにゃり。 タマネギの方が気持ちいいにゃり。";"Because Koharu is terrible. I feel better about Tamanegi.";"Porque Koharu es terrible. Tamanegi es más agradable."
+"Kohara Koharu (talking)";"あら、随分ね…… まだ本気になってはいないですわよ？";"Oh, very much so…… I haven't gotten serious yet, have I?";"Oh, mucho…… Todavía no te he tomado en serio, ¿verdad?"
+"Kako Mirai (talking)";"ならなくていいにゃりよ。";"You don't have to be.";"No hace falta que lo seas."
+"Kohara Koharu (talking)";"そう…そう言われるとね… 私、駄目なの……
+ ……………
+ ……なんだか… 火がついちゃった……";"Well… if you say so… I'm no good ……
+ ………………… I feel like… I'm on fire……";"Bueno… cuando lo pones así… no soy bueno……
+ ………………… Me siento como… Estoy en el fuego……"
+"Kako Mirai (talking)";"う……おえ…あ……";"U……oe… ah……";"U……oe… a……"
+"Kohara Koharu (talking)";"……小春のお相手して下さるでしょ…？ 未来さん……";"Would you be willing to deal with ……Koharu…? …………";"……Koharu ¿estarías dispuesto a tratar con…? Mirai ……"
+"Kako Mirai (talking)";"み、未来ちゃん、用事思い出したにゃり。 ばいばいきーん！";"Mi, Mirai-chan, I just remembered something. Bai-bai-bai-bai-bai-bai-bai!";"Mi, Mirai-chan, he recordado algo que hacer. ¡Bai-bai-bai-bai-bai-bai!"
+"Kohara Koharu (talking)";"逃がさないで。";"Don't let them get away.";"No dejes que se escapen."
+"narrator";"小春がそう言うと、小春の部下が、 未来を捕まえる。";"When Koharu says so, Koharu's men catch Mirai.";"Cuando Koharu dice esto, los hombres de Koharu atrapan a Mirai."
+"Kako Mirai (talking)";"ぎにゃーーー！！";"Gneeeeeee!";"¡¡¡Gneeeeeeeee!!!"
+"Kohara Koharu (talking)";"そのまま、縛りつけてさしあげて…";"Just tie him up like that…";"Adelante, átalo…"
+"Kako Mirai (talking)";"こ、小春ーー！！ やめるにゃりー！";"Koharu! I'm quitting!";"¡Koharu! ¡Ya basta!"
+"Kohara Koharu (talking)";"そんな言葉、聞きたくないの……";"I don't want to hear those words……";"No quiero oír esas palabras……"
+"cg narrator";"未来の鉢巻きを取ると、 器用に猿轡にしてみせる小春。
+ 「んんっーーー！！」
+ 「そう…足は固定して、広げて。 　それから……」
+小春は爪を引っ掛けると、未来のタイツを ピリピリと裂いた。
+次にはさみを取り出し、ショーツも切ると、 スルリとはずした。
+ 「早くから、殿方のものをくわえこんでいたと 　いうのに、綺麗なここね、未来さん」
+小春の指が、未来の襞の上を、虫のようになぞる。
+ 「んんんっ……！！」
+ 「あのね、未来さん… 　妊婦さんとしたいっていうお客様が 　いらっしゃるの…」
+ 「んんっ……！」
+ 「臨月に近い時にね……胎児に雁先が当たる感触が 　たまらないのですって。 　変な事が好きな人もいるのね」
+ 「でも、小春も、金髪のハーフの女の子、育てたいと 　思っていたから…ちょうどいいなって、思って…」
+小春が首をめぐらせた方に、部下が立っている。 銀のトレーの上に置かれたものは、使用済みの コンドームだった。
+ 「さっきいらした、金髪のウィミィ人の精液よ。 　出し立てのほやほや。 　まだ死んでいない、ぴちぴちの精子よ」
+ 「んーーー！！！！」
+ 「あ……小春、そんなもの持つの嫌だから… 　あなた、かけてさしあげて」
+ 「んんんーーーー！！！！！」";"Koharu takes off Mirai's headband and dexterously gagged her.
+ “Nnooooooo!
+So…legs fixed and spread apart. 　Then ……”
+Koharu hooked her fingernails and ripped at Mirai's tights.
+The next step is to take out a pair of scissors and cut the shorts as well, and then remove them.
+Mirai was so beautiful, even though she had been sucking on the gentleman's cock since early on.
+Koharu's fingers traced over the folds of Mirai like an insect.
+ “Nnnn……!
+You see, Mirai, we have a customer who wants to fuck a pregnant woman…”
+ “Nn……!
+When she's close to the last month of pregnancy, she can't get enough of the feeling of…… the goose's tip against her unborn child. 　Some people like strange things.
+But Koharu also wanted to raise a half-blonde girl, so I thought it would be perfect…”
+The one on the silver tray was placed on the table. On a silver tray was a used condom.
+It's the semen of the blonde Wime who just came in. 　It's freshly cummed. 　It's not dead yet, it's still sperm.
+ “Mmmm… ！！！！”
+ “Oh ……Koharu, I don't want to hold that… You, pour it over him.”
+ “Nnooooo！！！！！”";"Koharu le quita la diadema a Mirai y la amordaza con destreza.
+ ¡Nooooo!
+ 'Así que… piernas fijas y separadas. 　Entonces …….”
+Koharu enganchó sus uñas y rasgó las mallas de Mirai con un cosquilleo.
+A continuación, sacó unas tijeras y le cortó también los calzoncillos, para luego quitárselos.
+ 'A pesar de que has estado chupando las cosas del caballero desde el principio, sigues siendo hermosa aquí, ¿no es así, Mirai?
+Los dedos de Koharu recorrieron los pliegues de Mirai como un insecto.
+ '¡Nnnn……!
+Los dedos de la mujer se pasean por los pliegues del cuerpo de Mirai.
+ “¡Nnnn……!”
+Cuando se acerca al último mes de embarazo, no se cansa de ver en…… la sensación de su piel de gallina contra el feto. 　A algunas personas les gustan las cosas extrañas.
+Pero Koharu también quería criar a una niña medio rubia, así que pensé que sería perfecto…”
+Lo más importante es recordar que la mejor manera de sacar lo mejor de tu coche es sacar lo mejor de tu coche. El de la bandeja de plata era un condón usado.
+ 'Es el semen de la rubia Wime que acaba de llegar. 　Recién dado de alta. 　Todavía no está muerto, sólo es esperma fresco”.
+Mmmm… ！！！！”
+ “Oh ……Koharu, no quiero tener eso… tú, viértelo encima”.
+ 'Nnoooooo ！！！！！'"
+"cg narrator";"「ふふ……いい恰好… 　ほら、わかる……？ 　中に、とろとろ、流れこんでいくのが……」
+ 「んんんっ、んんーー！！！」
+ 「妊娠したら、四肢を落としてあげる。 　ダルマっていうの。 　おなかが膨らんでいくから」
+ 「んんっ…んんん！！」
+未来は首を左右に振る。
+ 「あん、駄目よ。 　零れちゃう……」
+といいながら、未来の乳首をきゅっとつねる小春。
+ 「んんっ！！」
+ 「さて…このウィミィ人の精子がどれだけ 　元気かわからないから…… 　仕上げをしなくてはね」
+部下が、小春にディルドーを手渡す。
+ 「んんんっ…！！」
+ 「これだけ、精子で湿っているんだから… 　もう、前戯も必要ないわね？」
+ 「んっ…！ 　…………んんんっ~~っ……！！」";"”Hmm…… nice outfit… see, you know ……? 　It's just flowing inside of you… ……
+Mmm, mmm, mmm!
+If you get pregnant, I'll drop a limb for you. 　It's called dharma. 　My belly is going to expand.
+Mmmm….mmmm!”
+Mirai shook her head from side to side.
+The first thing you need to do is to get a good look at the pictures. 　I'm going to spill it……”
+Koharu pinches Mirai's nipples while saying, “Oh, no, you're going to spill it.
+ “Nngh!
+Well…I don't know how healthy this Wime man's sperm is, so I have to…… finish up.”
+A subordinate hands a dildo to Koharu.
+ “Mmmm…!!!
+Since it's so wet with sperm, we don't need any more foreplay, do we?”
+Mmmm…! 　…………nnn~~~……!";"'Hmm…… bonito conjunto… ves, ¿conoces ……? 　En el interior, suave y fluido ……”
+ ¡Mmm, mmm, mmm!
+ 'Si te quedas embarazada, se te caerán los miembros. 　Se llama Dharma. 　Mi barriga se hinchará”.
+ “¡Nnnn… nnnn!
+Mirai mueve la cabeza de un lado a otro.
+ 'An, no. 　Se va a derramar……”
+Mientras dice eso, Koharu pellizca con fuerza los pezones de Mirai.
+ ¡Uh!
+ 'Bueno… no sabemos cómo de sano es el esperma de este Wime, así que tenemos que…… dar los últimos retoques.
+Un subordinado le entrega un consolador a Koharu.
+ '¡Mmmm…!
+Ya que está tan húmeda de esperma no necesitas más juegos previos, ¿verdad?”
+ '¡Mmm…! 　¡…………nnn~~~……!"
+"cg narrator";"小春はディルドーをペロリと舐めると、 精液を絡め、ゆっくりと未来の中に埋める。
+ 「んっ…んんんっ…！！」
+ 「未来さん、確かここが敏感でしたわね？」
+小春はディルドーの雁で、未来の膣の内側を擦る。
+ 「んんっ！！」
+未来の腰が跳ね、ディルドーと襞の間から ぷくりと小さな泡がたつ。
+ 「ふふ……気持ちいい？ 　いっぱいの精液、中に落とされて、こんな張り型で 　擦られるのが、気持ちいいの？」
+ 「んっ……んんんっ……」
+ 「ねえ、感じる…？ 　こんな事されて…感じているの？」
+艶に染まった甘い鼻声で、 小春は未来を責め続ける。
+ 「んっ、んんっ、んっ……！！」
+猿轡をされている未来からも、甘い声が響き出す。
+ 「ああ……すてき、すてきだわ… 　小春、あなたみたいないやらしい子、大好きよ！」
+ 「んんっ…！！」
+ 「さあ、いって… 　ウィミィ人の精液に塗れて、いって頂戴っ…！」
+小春のディルドーを持つ手の動きが早く、 乱暴になっていく。
+ 「んっ……んんんんっ……！！！」
+未来は足先がつりそうな程力をこめ、 腰をびくびくと震わせた。";"Koharu licks the dildo with Pelori, twirls his cum and slowly fills Mirai.
+Nnnn…nnnn…!!!”
+Mirai, you're sensitive here, aren't you?”
+Koharu rubs the inside of Mirai's vagina with the dildo's goose.
+Nnnn!!!!!!”
+Mirai's hips bounced, and small bubbles appeared between the dildo and the folds of her vagina.
+The dildo and the folds of the dildo bubbled and bubbled. 　The first thing that comes to mind is the fact that the dildo is so tight that it's hard to move.
+ “Mmmm……mmm……”
+ “Hey, does it feel…? 　Does it feel good to be rubbed in such a taut shape?
+With a sweet nasal voice dyed in gloss, Koharu continues to torture Mirai.
+ “Nnnn, nnnn, nnnn, ……!
+The sweet voice echoes out from the gagged Mirai.
+Oh ……, it's so nice, so nice… Koharu, I love such a nasty girl like you!
+Nnnn…!
+Come on, come on… get covered in Wime's semen and fuck me…!
+Koharu's hand holding the dildo moves faster and more violently.
+ “Nnnngggghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!!!!”
+Mirai put so much strength into her hips that her toes felt as if they were going to get caught, and her hips shook and trembled.";"Koharu lame el consolador con Pelori, hace girar su semen y llena lentamente a Mirai.
+ ¡¡¡'Nn…nn…!!!
+ “Señor Mirai, según recuerdo, usted es sensible aquí, ¿no?
+Koharu frota el interior de la vagina de Mirai con el ganso del consolador.
+ “¡¡¡Nngh!!!
+Las caderas de Mirai rebotaron, y pequeñas burbujas surgieron entre el consolador y los pliegues de su vagina.
+ 'Hmmm……… se siente bien? 　Lo primero que se me ocurre es que el consolador está tan apretado que es difícil moverlo.
+ 'Mmmm……mmm………'
+ “Oye, ¿se siente…? 　¿Sientes… esto?”
+Con una dulce voz nasal teñida de brillo, Koharu sigue torturando a Mirai.
+ 'Nnnn, nnnn, nnnn ……!!'
+La dulce voz también resuena en la amordazada Mirai.
+ 'Oh ……, es tan bonito, tan bonito… Koharu, ¡me encanta una chica tan desagradable como tú!
+ '¡Nngh…!
+Vamos, vamos… ¡cúbrete de semen de Wime y sigue…!
+El movimiento de la mano de Koharu que sostiene el consolador se vuelve más rápido y violento.
+ 'Nn……nnn……!!!!'
+La Mirai hizo tanta fuerza que sintió que los dedos de sus pies se iban a enganchar, y sus caderas temblaron."
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"Kako Mirai (talking)";"うう……酷いにゃり… 本人の意志と関係なしに、 妊娠させるなんて……";"Uu…… is terrible… to get a woman pregnant regardless of her own will……";"Uu…… terrible… embarazar a una mujer sin tener en cuenta su voluntad……"
+"Kohara Koharu (talking)";"しないわよ。";"I won't.";"No lo haré."
+"Kako Mirai (talking)";"へ？？ でも、金髪ウィミィの子種……";"Heh? But, I'm a blonde Wime child ……";"¿Eh? Pero la descendencia rubia de Wime: ……"
+"Kohara Koharu (talking)";"ここ何日か、渡しておいた お薬は飲んでいた？";"Have you been taking the medications I gave you for the past few days?";"¿Has estado tomando la medicación que te di en los últimos días?"
+"Kako Mirai (talking)";"うん……";"Yeah ……";"Sí……"
+"Kohara Koharu (talking)";"あれは、妊娠抑制剤。 だから、どれだけ元気な精子を 注ぎこまれても、妊娠しないわ。";"It's a pregnancy suppressant. So no matter how much healthy sperm they inject into you, you won't get pregnant.";"Son supresores del embarazo. Así que, por mucho esperma sano que se le inyecte, no se quedará embarazada."
+"Kako Mirai (talking)";"にゃ、にゃんですと~~！！？？";"Meow, meow, meow~!";"¡Miau, miau, miau~!"
+"Kohara Koharu (talking)";"妊婦としたいっていう方はいらっしゃる けど、いないからといって作るような事は いたしませんわよ。";"There are people who want to be with pregnant women, but we don't make them just because they aren't there.";"Hay personas que quieren estar con mujeres embarazadas, pero no las hacemos porque no están."
+"Kako Mirai (talking)";"騙したにゃりかぁ！？";"You cheated me!";"¡Me estás engañando!"
+"Kohara Koharu (talking)";"そうですわね…予行演習とでも 言っておきましょうか？
+ ――お客様に粗相をした時は、 いつでも、孕ませてさしあげますわよ。 色んな方法で……";"Well… let's just call it a rehearsal, shall we?
+ --I'm always willing to impregnate you if you misbehave with me. In a variety of ways: ……";"Bueno… llamémoslo un simulacro, ¿de acuerdo?
+ -Si alguna vez te equivocas, te embarazaré cuando quieras. En muchos sentidos……"
+"Kako Mirai (talking)";"……うう…怖いにゃり… 怖いねーちゃんにゃり……";"……Uuu… scary nyari… scary nyari… scary nyari……";"……Uuu… nyari de miedo… nyari de miedo… nyari de miedo… ……"
+"Kohara Koharu (talking)";"頑張りましょうね、未来さん。";"Good luck, Mirai.";"Buena suerte, Mirai."
+"Kako Mirai (talking)";"うううー。 なんて事にゃり。 未来ちゃん、玉の輿になれるにゃりか…";"Uhhhh. Oh my god. I wonder if Mirai-chan is going to be a ball-buster…";"Uh-uh. Oh, Dios mío. Mirai, ¿puedes convertirte en un rompebolas…"
+"Kako Mirai (talking)";"きゅ~~~☆ うまいにゃり、うまいにゃりよ~~！！";"Kyu~~~☆ nice nyari, nice nyari yo~!";"Kyu~~☆ ¡Bien nyari, bien nyari yo~!"
+"narrator";"未来は職権乱用に近い「つまみ食い」に 精を出している。";"Mirai is devoted to “snatching and eating,” which is close to abuse of authority.";"Mirai se dedica a “mordisquear”, lo que se acerca al abuso de autoridad."
+"Kako Mirai (talking)";"やめらんないにゃりよ~~☆ 腹いっぱいにゃりよ~~☆
+あ、でもでも、新製品発見にゃり！ 食べるにゃりよ~~！！
+奉仕青年団の見回りにゃりー！
+その新製品、衛生管理が行き届いている 商品かどうか、食べさせてもらう にゃりよー！！
+むほーーー！！ うまい！ うまいにゃりーーー！！！";"I can't stop!☆ I'm so hungry!☆
+Oh, but I found a new product! I'll eat it~!
+Nyan~yan~yan!
+I'm going to try this new product to see if it's sanitized enough!
+Muhooooo! Yum! Yummy!";"¡No puedo parar!☆ ¡Tengo mucha hambre!☆
+ ¡Oh, pero he encontrado un nuevo producto! ¡Me lo voy a comer!
+ ¡Nyan~yan~yan!
+ ¡Voy a probar ese nuevo producto para ver si es un producto higiénico!
+ ¡Muhooooo! ¡Una delicia! ¡Qué rico!"
+"Yamamoto Akuji (talking)";"………へぁ？？
+なんだ、そりゃー……";"……… huh?
+What's that ……";"……… ¿Eh?
+ ¿Qué es eso? ……"
+"__system__??";"{☆ギガフロート \ 0:";"";""
+"__system__??";"}";"";""
+"Takega Satsu (talking)";"事実は小説より奇なりを 体現したようだ。
+加古未来は、クロモン商店街で 命を落としたぞ。";"Fact is stranger than fiction, it seems.
+Kako Mirai lost his life in the Kromon shopping arcade.";"Parece que la realidad supera a la ficción.
+Kako Mirai perdió la vida en la galería comercial de Kromon."
+"Yamamoto Akuji (talking)";"その…それはわかったんだけど… その原因がなんだって？？";"Well… that's… that's what I'm getting at, but… what's the cause of that?";"Bueno, quiero decir… lo sabemos, pero… ¿cuál es la causa de eso?"
+"Takega Satsu (talking)";"お前は、いつからそんなに 耳が遠くなったんだ。
+もう一度言うぞ。
+加古未来は、クロモン商店街で 巡回中、食い過ぎで死亡。";"When did you become so deaf?
+I'll say it again.
+Kako Mirai died of overeating while patrolling in the Kromon shopping district.";"¿Cuándo te volviste tan sordo?
+Lo diré de nuevo.
+Kako Mirai murió por comer en exceso mientras patrullaba en la galería comercial de Kromon."
+"Yamamoto Akuji (talking)";"……………
+さっさゃんが嘘つく訳ねーし… あいつだと、そーいう死に方しても、 不思議じゃねーけど…
+なんつーか…まあ…… この世に残っている奴に、感傷を与えん 死に方だなー……";"……………
+I don't think Sassan would lie… It's no wonder he died the way he did…
+Well… well… it's not a sentimental way to die for those who are left in this world… ……";"……………
+No creo que Sassan mienta… no es de extrañar que muriera como lo hizo…
+Bueno… bueno……… es una forma de morir que no hará que nadie que quede en este mundo se sienta mejor… ……"
+"Takega Satsu (talking)";"それでも、線香の一本ぐらいは備えて やらんとな。";"Still, we should at least have a stick of incense ready.";"Aun así, deberíamos tener al menos una barrita de incienso."
+"Yamamoto Akuji (talking)";"あー……そーだなー… そっかー…死んだかー……";"Oh…… I see… I see… he's dead… ……";"Ah…… Ya veo… ya veo… estás muerto……"
+"narrator";"おばさんが道端に花を備えている。";"A lady is equipping the roadside with flowers.";"Una señora equipa el borde del camino con flores."
+"shoujo (talking)";"おばちゃん、何してるの？";"Auntie, what are you doing?";"Tía, ¿qué estás haciendo?"
+"ten'in (talking)";"ああ、元気で沢山食べる子がいてね。 未来ちゃんていうんだ。
+食べ過ぎでここで死んだんだよ。 でも、きっと幸せだったんだろうね。 死ぬ程、食べる事が出来て…";"Oh, there is a girl who is healthy and eats a lot. Her name was Mirai.
+She died here because she ate too much. But I'm sure she was happy. She could eat to death…";"Sí, hay una chica que es sana y come mucho. Su nombre era Mirai.
+Murió aquí porque comió demasiado. Pero estoy seguro de que era feliz. Podría comer hasta morir…"
+"ten'in (talking)";"いくにゃりよ、やるにゃりよ、 ぶっ殺すにゃりよーっ！！";"I'm going to do it, I'm going to do it, I'm going to do it, I'm going to do it, I'm going to do it, I'm going to do it, I'm going to do it!";"¡Ikuyariyo, yarunyariyo, baisuSatsuSunyariyo!"
+"narrator";"未来がキラキラした目で くりりぷを見つめていた。";"Mirai looked at Kuriripu with sparkling eyes.";"Mirai miró a Kuriripu con ojos brillantes."
+"Kako Mirai (talking)";"くりりりりりぷぷぷぷぷぷぷー！！！ 至高のお菓子、スプーン一杯で家が 三軒建つ、くりりぷーーー！！！
+未来ちゃんのものにゃり、これぜーんぶ、 ぜーんぶ、未来ちゃんのものーーー！！！
+んじゃあ、栄光の一口目！！ 頂くにゃりよーーーーーー！！！！！！！
+ぱくーーーーーーーーん！！！！
+っ………………
+うっ………
+うううううっ………
+うーーーーーーーーーーーーーーー！！
+うーーーーーーーーーーーーーーーーーー まーーーーーーーーーーーーーーーーーー いーーーーーーーーーーーーーーーーー！
+美味いにゃりーーーーー！！！！！！！！ うまーーーーーーーーーーーい！！！！！ むきゅーーーーーーーーーーー！！！！！";"The best candy, a spoonful builds three houses, krillipoooooooo!
+All of this, all of this, all of this, all of this, all of this, all of this belongs to Mirai!
+Well, then, the first bite of glory! I'm going to take it! ！！！！！！！
+Pooooooooooooooooooooooooooooooooo！！！！
+oooooh………………
+Ugh………
+ 
+Woooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!
+ 
+Yummyyyyyyyyyyyy！！！！！！！！";"El dulce supremo, una cucharada construirá tres casas, ¡krillipoooooooooooooooooooooooooooooooooooooooo!
+ ¡Todo esto, todo esto, todo esto, todo esto, todo esto pertenece a Mirai!
+Pues bien, ¡el primer bocado de gloria! ¡Voy a cogerlo! ！！！！！！！
+Pooooooooooooooo ！！！！
+ ¡Voy a darle un mordisco!
+Ugh………
+ 
+ 
+ 
+Yummyyyyyyyy！！！！！！！！"
+"narrator";"その時。
+ 　　［きらーーーーーーーーーーん］
+未来の躰に星が走った。";"Then.
+ 　　[kirarooooooooooooooooooooooooooooooooooooooooooooooooooooo!]
+A star ran through Mirai's body.";"Entonces.
+ 　　[¡Kiraaaaahhhhh!]
+Una estrella recorrió el cuerpo de Mirai."
+"Kako Mirai (talking)";"にゃ！！！！！！
+み、未来ちゃん、 必殺技を思いついたにゃりよ！！
+すぐにでも発射出来るにゃりよ！！ よーし、次の戦闘で試すにゃりよー！！！";"Nya！！！！！！
+My Mirai, I've come up with the must-have Satsu technique!
+You can fire it right away! Okay, I'll try it in the next battle!";"Nya！！！！！！
+Mi, Mirai-chan, ¡he dado con la técnica imprescindible de Satsu!
+Puedes despedirlo de inmediato. De acuerdo, ¡lo intentaré en la próxima batalla!"
+"narrator";"こうして、未来は必殺技を覚えた。";"Thus, Mirai learned the necessary Satsu technique.";"Así, Mirai ha aprendido la técnica necesaria de Satsu."

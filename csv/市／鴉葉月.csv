@@ -1,0 +1,936 @@
+"character";"jap text";"Eng";"Esp"
+"Yamamoto Akuji (talking)";"さぁて、ついた。";"Well, here we are.";"Bueno, aquí estamos."
+"__system__??";"{RND \ 0:";"";""
+"Aoba Youko (talking)";"何度かきた事があるんですか？";"Have you been here a few times?";"¿Has estado aquí varias veces?"
+"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
+"Aoba Youko (talking)";"そういう口ぶりでしたから。";"That's what he said.";"Así es como habló de ello."
+"Yamamoto Akuji (talking)";"ああ、親父の付き添いとか。 地域管理組合と市議会は、切っても 切れない関係だからな。";"Yeah, like chaperoning my dad. The local management association and the city council are inseparable.";"Sí, como acompañar a mi padre. Porque la asociación de gestión de la comunidad y el ayuntamiento están inextricablemente unidos."
+"Aoba Youko (talking)";"ああ…";"Oh…";"Oh…"
+"Yamamoto Akuji (talking)";"なんだ、冷めた納得のしかただな。";"What a cold way to be convinced.";"Qué manera tan fría de ser convencido."
+"Aoba Youko (talking)";"私の感情を説明しても、多分、 悪司さんにはわからないと思うので。";"I could explain my feelings, but Akuji probably wouldn't understand.";"Podría explicar mis sentimientos, pero Akuji probablemente no lo entendería."
+"Yamamoto Akuji (talking)";"どーだかなー。";"I don't know.";"Me pregunto cómo."
+"Aoba Youko (talking)";"とにかく、今、あなたは 私の付き添いです。 勝手に行動しないで下さい。";"Anyway, you are now my chaperone. Please do not act on your own.";"De todos modos, ahora eres mi acompañante. Por favor, no actúe por su cuenta."
+"Yamamoto Akuji (talking)";"はいはーい。";"Yes, yes, yes.";"Sí y no."
+"Yamamoto Akuji (thinking)";"嘘だけど。";"It's a lie.";"Mentiras."
+"narrator";"悪司達は中に入り、窓口へと向かった。";"Akuji and the others went inside and headed for the window.";"Akuji y sus compañeros entraron y se acercaron a la ventana."
+"Aoba Youko (talking)";"ミドリガオカを任されている 奉仕青年団の者ですが、今後のご指導を 伺いたくまいりました。
+担当の監督官の鴉葉さんは おられますか？";"I am a member of the Youth Service Corps in charge of Midorigaoka, and I am here to ask for your guidance for the future.
+Is there a supervisor in charge, Mr. Karasuba?";"Soy un miembro del Cuerpo de Servicio de la Juventud a cargo de Midorigaoka, y estoy aquí para pedir su orientación para el futuro.
+ ¿Hay un supervisor a cargo, señor Karasuba?"
+"narrator";"青葉がそう言うと、職員は鴉葉を 呼びに行った。";"When Aoba said so, the staff went to call Karasuba.";"Cuando Aoba dijo esto, el funcionario fue a llamar a Karasuba."
+"karasuba  tsuki (talking)";"あーごめんごめん。 おっまたせー。";"Oh, sorry, sorry. Sorry.";"Oh, lo siento, lo siento. Lo siento, lo siento."
+"Yamamoto Akuji (talking)";"軽ぅーーー！";"Light!";"¡La luz!"
+"Yamamoto Akuji (thinking)";"しかも若いな。 戦争後で、市議会も人手不足って事 なのか？
+ …それとも、こっちが軽く 見られてるっていう事かもなー…
+ ……ま、古狸相手にするよりか、 話が早いかもしんねーな…";"And they are young. Is it because the city council is shorthanded after the war?
+Or is it that we are being taken lightly……… Well, maybe it's easier to talk to them than to deal with the old raccoon…";"Y son jóvenes. ¿Se debe a que el ayuntamiento está escaso de personal después de la guerra?
+O quizás es que piensan menos en nosotros……… Bueno, tal vez sea más fácil hablar con ellos que con el viejo mapache…"
+"karasuba  tsuki (talking)";"あれ？ こっちのＧＵＹは？ 新顔？";"Huh? Where's the GUY over here? New face?";"¿Eh? ¿Dónde está el tipo por aquí? ¿Es una cara nueva?"
+"Aoba Youko (talking)";"あ…こちらは…";"Uh… this is…";"Uh… esto es…"
+"Yamamoto Akuji (talking)";"青葉が表番だとすると、 俺は奉仕青年団の裏番だ。";"If Aoba is the front man, I'm the back man of the Youth Service Corps.";"Si Aoba es el número delantero, yo soy el número trasero del grupo juvenil de servicio."
+"karasuba  tsuki (talking)";"……………
+ぷっ……
+ぷーーっ！！ イッカスー！ 裏の番長さんかー！
+じゃあ、今は、青葉さんってより、 あんたが、ミドリガオカの奉仕青年団を 動かしてるって訳？";"……………
+Pfft! ……
+Pfft!!! Ikkasoo!!! You're the watchdog behind the scenes!
+So, now you're the one running Midorigaoka's service youth group, rather than Aoba?";"……………
+ ¡Pfft! ……
+ ¡¡¡Uf!!! ¡¡Ikkasoo!! Eres el perro guardián entre bastidores.
+ ¿Así que ahora, en lugar de Aoba, diriges la Liga Juvenil de Servicios de Midorigaoka?"
+"Yamamoto Akuji (talking)";"ああ。";"Oh.";"Oh."
+"karasuba  tsuki (talking)";"んでー。 青葉さんと、そーいうアレ？";"So… Aoba and that kind of thing?";"Así que. Aoba y esa cosa?"
+"Yamamoto Akuji (talking)";"何が？";"What?";"¿Qué?"
+"karasuba  tsuki (talking)";"とっぼけちゃってー。 ヤルなー。 青葉さん、既婚者なのに。";"I'm so stupid. What a jerk. Aoba, you're a married man.";"Soy tan estúpido. Eres muy malo. Aoba, estás casado."
+"Yamamoto Akuji (talking)";"さーどーだかな。";"I'll see how it goes.";"Sah, no lo sé."
+"Aoba Youko (talking)";"わ、私は！";"Wow, I am!";"¡Vaya que sí!"
+"Yamamoto Akuji (talking)";"青葉。";"Aoba.";"Aoba."
+"Aoba Youko (talking)";"な、何…？";"What the…?";"¿Qué…?"
+"Yamamoto Akuji (talking)";"少し黙ってろ。 いいな。";"Shut up for a minute. All right?";"Cállate un poco. Muy bien."
+"Aoba Youko (talking)";"……山本さん？";"……Yamamoto?";"……Yamamoto?"
+"__system__??";"}";"";""
+"__system__??";"{RND = 0:";"";""
+"Seinendan Jyoshi (talking)";"何度かきた事があるんですか？";"Have you been here a few times?";"¿Has estado aquí varias veces?"
+"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
+"Seinendan Jyoshi (talking)";"そんな感じが…";"It feels like that…";"Se siente como…"
+"Yamamoto Akuji (talking)";"ああ、親父の付き添いとか。 地域管理組合と市議会は、切っても 切れない関係だからな。";"Yeah, like chaperoning my dad. The local management association and the city council are inseparable.";"Sí, como acompañar a mi padre. Porque la asociación de gestión de la comunidad y el ayuntamiento están inextricablemente unidos."
+"Seinendan Jyoshi (talking)";"そうだったんですか。
+じゃあ、入りますけど、 いいですか？";"I didn't realize that.
+Okay, I'll go in. Is that okay?";"Ya veo.
+Bien, entonces entraré, ¿está bien?"
+"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
+"narrator";"悪司達は中に入り、窓口へと向かった。";"Akuji and the others went inside and headed for the window.";"Akuji y sus compañeros entraron y se acercaron a la ventana."
+"Seinendan Jyoshi (talking)";"ミドリガオカを任されている 奉仕青年団の者ですが、今後のご指導を 伺いたくまいりました。
+担当の監督官の鴉葉様はおられますか？";"I am a member of the Youth Service Corps in charge of Midorigaoka, and I am here to ask for your guidance for the future.
+Is there a supervisor in charge, Mr. Karasuba?";"Soy un miembro del Cuerpo de Servicio de la Juventud a cargo de Midorigaoka, y estoy aquí para pedir su orientación para el futuro.
+ ¿Hay un supervisor a cargo, señor Karasuba?"
+"narrator";"職員は鴉葉を呼びに行った。";"The official went to call Karasuba.";"El funcionario fue a llamar a Karasuba."
+"karasuba  tsuki (talking)";"あーごめんごめん。 おっまたせー。";"Oh, sorry, sorry. Sorry.";"Oh, lo siento, lo siento. Lo siento, lo siento."
+"Yamamoto Akuji (talking)";"軽ぅーーー！";"Light!";"¡La luz!"
+"Yamamoto Akuji (thinking)";"しかも、若いな。 戦争後で、市議会も人手不足って 事なのか？
+ …それとも、こっちが軽く 見られてるっていう事かもなー…
+ ……古狸相手にするよりか、 話が早いかもしんねーな…";"And they are young. Is it because the city council is shorthanded after the war?
+Or maybe it's just that they think less of us……… might be easier to talk to than to deal with an old raccoon…";"Y son jóvenes. ¿Se debe a que el ayuntamiento está escaso de personal después de la guerra?
+O tal vez es que nos están subestimando……… podría ser más fácil de hablar que el viejo mapache…"
+"karasuba  tsuki (talking)";"あれ？ こっちのＧＵＹは？ 新顔？";"Huh? Where's the GUY over here? New face?";"¿Eh? ¿Dónde está el tipo por aquí? ¿Es una cara nueva?"
+"Seinendan Jyoshi (talking)";"あ…こちらは…";"Uh… this is…";"Uh… esto es…"
+"Yamamoto Akuji (talking)";"俺は、山本悪司。 奉仕青年団の裏番だ。";"I'm Yamamoto Akuji. I'm the back number of the Youth Service Corps.";"Soy Yamamoto Akuji. Soy el guardia de apoyo de la Liga Juvenil de Servicio."
+"karasuba  tsuki (talking)";"……………
+ぷっ……
+ぷーーっ！！ イッカスー！ 裏の番長さんかー！
+じゃあ、今は、青葉さんってより、 あんたが、ミドリガオカの奉仕青年団を 動かしてるって訳？";"……………
+Pfft! ……
+Pfft!!! Ikkasoo!!! You're the watchdog behind the scenes!
+So, now you're the one running Midorigaoka's service youth group, rather than Aoba?";"……………
+ ¡Pfft! ……
+ ¡¡¡Uf!!! ¡¡Ikkasoo!! Eres el perro guardián entre bastidores.
+ ¿Así que ahora, en lugar de Aoba, diriges la Liga Juvenil de Servicios de Midorigaoka?"
+"Yamamoto Akuji (talking)";"ああ。";"Oh.";"Oh."
+"__system__??";"}";"";""
+"karasuba  tsuki (talking)";"やまもと…
+ひょっとして、あんた、わかめ組に いなかった？ どこかで見たと思ったら。";"Yamamoto…
+By any chance, weren't you in the Wakame group? I thought I saw you somewhere.";"Yamamoto…
+Por casualidad, ¿no estabas en el grupo Wakame? Me pareció verte en alguna parte."
+"Yamamoto Akuji (talking)";"ああ、そうだ。 俺は、わかめ組の跡取りだ。
+何回かここにきていた事があるから、 その時にでも顔を見てるんだろ。";"Yes, that's right. I am the heir to the Wakame clan.
+I've been here a few times, so you've probably seen me around.";"Oh, sí. Soy el heredero del clan Wakame.
+He estado aquí unas cuantas veces, así que probablemente me hayas visto por aquí."
+"karasuba  tsuki (talking)";"わかめ組の跡取りが、どうして 慈善事業の奉仕青年団の代表さんと つるんでるの？";"Why is the heir to the Wakame clan hanging out with the head of a charitable service youth organization?";"¿Por qué el heredero del clan Wakame se junta con el jefe de una organización juvenil de servicios benéficos?"
+"Yamamoto Akuji (talking)";"俺が、お国の為に戦っている間に、 馬鹿に好き勝手されちまってな。
+馬鹿から組を奪い返す為には、 色々とな。";"While I was fighting for my country, some idiots had their way with me.
+I've had to do a lot of things to get my gang back from those idiots.";"Mientras yo luchaba por mi país, los idiotas se salían con la suya.
+Tengo muchas cosas que hacer para recuperar mi banda de esos idiotas."
+"karasuba  tsuki (talking)";"あー、なるほどー。 それで、奉仕青年団にー。";"Oh, I see. So, you're in a service youth group.";"Ah, ya veo. Por lo tanto, para el grupo de jóvenes de servicio."
+"Yamamoto Akuji (talking)";"そういう事だ。
+俺が青葉と一緒にここへきたのは、 あんただったら色々と話が早いと 思ってな。";"That's what I mean.
+I came here with Aoba because I thought you'd be quicker to talk about things.";"Eso es lo que quiero decir.
+Vine aquí con Aoba porque pensé que serías rápido en la toma de decisiones."
+"karasuba  tsuki (talking)";"どーいう事？";"What do you mean?";"¿Qué quieres decir?"
+"Yamamoto Akuji (talking)";"私腹を肥やしてるのは、どうしてだ？";"How is it that you are lining your own pockets?";"¿Por qué te llenas los bolsillos?"
+"karasuba  tsuki (talking)";"んー？";"Hmm?";"¿Hmm?"
+"Yamamoto Akuji (talking)";"とぼけるなよ。 地域管理組合の跡取りなんだぜ、俺は。";"Don't play dumb with me. I'm the heir to the local management association.";"No te hagas el tonto. Soy el heredero de la asociación de gestión local."
+"karasuba  tsuki (talking)";"早かったなー。 もーちょっと、お小遣いに困らない 生活が出来ると思ったのにー。";"That was fast. I thought I would be able to live a little longer without worrying about spending money.";"Eso fue rápido. Pensé que podría vivir un poco más de tiempo sin tener que preocuparme por gastar dinero."
+"Yamamoto Akuji (talking)";"全部返せとは言わねーよ。";"I'm not asking you to give it all back.";"No te pido que lo devuelvas todo."
+"karasuba  tsuki (talking)";"へ？";"Heh?";"¿Eh?"
+"Yamamoto Akuji (talking)";"その代わり、見て見ぬフリが 出来るとこはしといてくれって事だ。 ５分と５分でいこうや。";"Instead, I'm asking you to keep it where you can turn a blind eye. Let's take five minutes and five minutes.";"En cambio, te pido que te vayas donde puedas hacer la vista gorda. Vamos por cinco minutos y cinco minutos."
+"karasuba  tsuki (talking)";"……へえ… さすが、跡取り。 お金の使い方、知ってるって事かー。";"……Hey… As expected of an heir. You mean you know how to spend money.";"…… Heh… Como se espera de un heredero. Así que ya sabes cómo gastar el dinero."
+"Yamamoto Akuji (talking)";"青葉よりはな。";"More than Aoba.";"Que Aoba."
+"karasuba  tsuki (talking)";"青葉さんもねー。
+いい人だとは思うけど、もうちょっと、 世間知った方がいいかなーとか 思ったり。";"You are a good person, but I think you should know more about the world.
+I think you are a nice person, but I think you should know more about the world.";"Eres una buena persona, pero creo que deberías saber más sobre el mundo.
+Creo que es una buena persona, pero creo que debería conocer un poco más el mundo."
+"Yamamoto Akuji (talking)";"それを利用してた奴のセリフじゃあ ねぇな。";"That's not the line of someone who took advantage of it.";"Esa no es la línea de alguien que se aprovechó."
+"karasuba  tsuki (talking)";"そりゃそーだ。
+僕、あんたの事、好きだなー。 仲良くやってきたいな。";"That's right.
+I like you. I want to be friends with you.";"Así es.
+Me gustas. Quiero ser amigo tuyo."
+"Yamamoto Akuji (talking)";"じゃあ、さっそく、好きってのを態度で 示してもらうとすっかな。";"Then, I'll ask him to show me how much he likes me.";"Bueno, haré que me muestre lo mucho que le gusto."
+"karasuba  tsuki (talking)";"へ？ いや、肉体的には、ちょっと…";"Heh? No, physically, it's just…";"¿Eh? No, físicamente, es un poco…"
+"Yamamoto Akuji (talking)";"そりゃこっちだってごめんだ。
+補助金だよ。 さっきも言ったろ？";"That's something we don't want either.
+It's a subsidy. I told you that before.";"Eso tampoco es suficiente para nosotros.
+Es una subvención. Te lo dije antes, ¿no?"
+"karasuba  tsuki (talking)";"あー… そっかー…";"Uh… I see…";"Uh… Ya veo…"
+"Yamamoto Akuji (talking)";"補助金の全額、本当はいくらだい？";"How much is the full amount of the grant, really?";"¿A cuánto asciende realmente la subvención total?"
+"karasuba  tsuki (talking)";"２００万ですよ。";"2 million.";"2 millones."
+"Yamamoto Akuji (talking)";"おいおい。 おめーは、好きな相手に嘘つくのかい？";"Oh, come on. You lie to the person you love?";"Hey, hey, hey. ¿Mientes a la persona que amas?"
+"karasuba  tsuki (talking)";"んんーー… ホント、まいったなー。
+正直に言うよ。 ４５０万。 これは、嘘ついてない。";"Hmmm… I'm really bummed out.
+I'll be honest. 4.5 million. I'm not lying.";"Mmmm… Estoy realmente desconcertado.
+Voy a ser honesto. 4,5 millones de euros. No estoy mintiendo sobre esto."
+"Yamamoto Akuji (talking)";"じゃあ４００、奉仕青年団に回せ。";"Then 400, turn it over to the service youth group.";"Entonces, 400, se dirigen al grupo de jóvenes de servicio."
+"karasuba  tsuki (talking)";"えっ？ 全額、いらないの？";"What? You don't want the full amount?";"¿Eh? ¿No quieres la cantidad completa?"
+"Yamamoto Akuji (talking)";"欲しいが、それだとあんたは、 俺の事、好きでい続ける事は 出来ねーだろ？
+もちつもたれつ。 美しい利害関係じゃねーか。";"I want you to, but that's not going to keep you from liking me, is it?
+It's a win-win. It's a beautiful conflict of interest.";"Quiero que lo hagas, pero eso no evitará que te guste, ¿verdad?
+Es un beneficio para todos. Es un hermoso conflicto de intereses."
+"karasuba  tsuki (talking)";"それでも、手取りは減っちゃうん だよねー。";"Even so, the take-home pay is still reduced.";"Aun así, el salario neto se reduce."
+"Yamamoto Akuji (talking)";"今はそれで我慢しときな。 いずれでっかい小遣いが入る様に してやるよ。";"Just be patient with that for now. I'll make sure you get a big allowance sooner or later.";"Tendrás que aguantar eso por ahora. Me aseguraré de que recibas una gran paga antes o después."
+"karasuba  tsuki (talking)";"え、ほんと！？";"Oh, really!";"¡Oh, de verdad!"
+"Yamamoto Akuji (talking)";"ああ。";"Oh.";"Oh."
+"karasuba  tsuki (talking)";"んじゃー、その辺りで手をうつかな。 僕も、後ろ暗い事してる訳だし。";"Well, I guess I'll just leave it at that. I'm doing something shady too.";"Bueno, supongo que haré un movimiento por ahí. Yo también estoy haciendo algo turbio."
+"Yamamoto Akuji (talking)";"それじゃあ、納得ってことだな？";"So, I guess that makes sense then, huh?";"Entonces, ¿estás convencido?"
+"karasuba  tsuki (talking)";"はいはい。 これからもよろしく、悪司さん。
+あーそーそー。
+さっきの見て見ぬフリだけど、 僕程度だと限界があるから、 うまくやってね。
+お金で口封じするにも、人間多いと 資金かさむし、お金じゃ動かない つまんない人とかもいるんだ。
+でっかいケンカ始まって、人死にとかが たくさん出ると、僕もどこまで押さえこむ 事が出来るかどーか…";"Yes, yes, yes. Keep up the good work, Akuji.
+Oh, yeah, yeah.
+I know I pretended to ignore you earlier, but there's a limit to what I can do, so you'll have to do better.
+I'm not going to use money to stop you from talking, but if you have a lot of people, it's going to cost you a lot of money, and there are some boring people who can't be moved by money.
+I don't know how much I can hold them back if there's a big fight and a lot of deaths…";"Sí y no. Sigue con el buen trabajo, Akuji.
+Oh, sí, sí.
+Sé que has fingido no verme antes, pero hay un límite a lo que puedo hacer, así que tendrás que hacerlo mejor.
+No voy a utilizar el dinero para callar, pero si tienes mucha gente, tendrás que gastar mucho dinero, y también hay gente aburrida a la que no le mueve el dinero.
+Si hay una gran pelea Hajime y muere mucha gente, no sé hasta dónde puedo llegar para contenerlos…"
+"Yamamoto Akuji (talking)";"ああ、わかった。 そん時ゃそん時って事だ。
+あんたが動きやすいように 金を用意してやるよ。";"Oh, I get it. I'll see you then.
+I'll get you some money to make your life easier.";"Sí, lo entiendo. Así tiene que ser.
+Te conseguiré algo de dinero para hacer tu mudanza."
+"karasuba  tsuki (talking)";"あ、それ助かるなー。 じゃあその時は、ラブレター出すんで、 ちゃんと読んで下さいね。
+それじゃ、よろしくー。 バイバーイ。";"Oh, that's very helpful. I'll send you a love letter then, so please read it properly.
+Okay, bye-bye. Bye bye.";"Eso es muy útil. Te enviaré una carta de amor entonces, así que por favor léela bien.
+Bueno, entonces, hola. Adiós."
+"narrator";"鴉葉は明るく手を振って、 職場に戻っていった。";"Karasuba waved cheerfully back to her workplace.";"Karasuba saludó alegremente de vuelta a su lugar de trabajo."
+"__system__??";"{RND \ 0:";"";""
+"Aoba Youko (talking)";"４５０って…４５０って…！！";"450… 450…!";"450… 450…!"
+"Yamamoto Akuji (talking)";"ああ。 そんなモンだろうと思ってたけど、 ドンピシャだったな。";"Yeah. I thought it would be something like that, but you hit the nail on the head.";"Sí, pensé que sería así. Pensé que sería algo así, pero has dado en el clavo."
+"Aoba Youko (talking)";"なっ…なんて人！ こんな事、許されると…";"What… what a man! You can't do this.";"¡Qué… qué hombre! No puedes hacer esto…"
+"Yamamoto Akuji (talking)";"………………";"………………";"………………"
+"narrator";"　　［ぴしっっ］";"[shhhh]";"[shhhh]"
+"Aoba Youko (talking)";"きゃん！？";"Kyan!";"¡Kyan!"
+"narrator";"悪司は青葉の額を指で弾いた。";"Akuji Dan Aoba's forehead with his finger.";"Akuji Dan Aoba la frente con su dedo."
+"Aoba Youko (talking)";"何するんですか！！";"What are you doing!";"¿Qué estás haciendo?"
+"Yamamoto Akuji (talking)";"さっきもあいつと俺が言ってたろ。 世間ってのをしらねー奴が 悪いんだよ。";"You heard what he and I said earlier. It's the fault of those who don't know anything about the world.";"Eso es lo que él y yo estábamos diciendo antes. La culpa es de los que no saben nada del mundo."
+"Aoba Youko (talking)";"なんですって！？";"What?";"¿Qué demonios?"
+"Yamamoto Akuji (talking)";"これが現実だ。 おめー、もーちょっとスレた方が いいぜ。";"This is reality. You guys need to get a little more relaxed.";"Esta es la realidad. Tú, tienes que tener un poco de holgura."
+"Aoba Youko (talking)";"ほ、ほっといて下さい！";"Please leave me alone!";"¡Por favor, déjame en paz!"
+"__system__??";"}";"";""
+"narrator";"　☆☆　　補助金　４００万　　☆☆ 　　市議会からの補助金が大幅に増えた。";"　☆☆　　Subsidy　４００万　　☆☆ 　　Subsidies from the City Council increased significantly.";"　☆☆　　Subvención　４００万　　☆☆ 　　Las subvenciones del ayuntamiento aumentaron considerablemente."
+"narrator";"悪司は一人、市議会の様子を 偵察にやってきた。
+市議会の中は、悪司との戦争が始まった為、 職員達が右往左往して、慌ただしい雰囲気に 包まれている。";"Akuji came alone to scout the city council.
+Inside the city council, the atmosphere is hectic, as the war with Akuji has started Hajime, and staff members are moving to the left and right.";"Akuji ha venido solo a explorar el ayuntamiento.
+Dentro del ayuntamiento, la guerra con Akuji ha comenzado Hajime, por lo que el personal se mueve a diestro y siniestro, y el ambiente es agitado."
+"shigikaishokuin (talking)";"最悪だ！ どうしてこんな事に！";"This sucks! How did this happen?";"¡Esto apesta! ¡Cómo pudiste dejar que esto sucediera!"
+"shigikaishokuin (talking)";"は、早くなんとかしないと、 またくるぞ！";"If you don't do something soon, they'll be back!";"¡Si no hacemos algo pronto, volverán!"
+"shigikaishokuin (talking)";"怖い… やっと、ウィミィとの戦争が終わって、 ほっとしていられると思ったのに…";"I'm scared… I thought I could finally relax now that the war with Wime is over…";"Tengo miedo… Pensé que por fin estaría aliviado de que la guerra con Wime había terminado…"
+"shigikaishokuin (talking)";"どーして、市長は、俺達がこんな目に あっているってのに、懲罰警察を 呼んでくれないんだよ！";"Why doesn't the mayor call the NYPD to punish us for what we're going through?";"¿Por qué el alcalde no llama a la policía disciplinaria cuando se nos somete a esto?"
+"karasuba  tsuki (talking)";"おいおい、ヒス起こしてる暇あったら、 こっちの資材、運ん…で…あ… あーーーーーーーーーーーーー！！！！";"Hey, if you've got time to hiss, you can move our materials… ah… ah… ah… ah… ah… ah… ah… ah… ！！！！";"Oye, oye, si tienes tiempo para sisear, puedes llevar nuestros materiales… ah… ah… ah… ah… ah… ！！！！"
+"shigikaishokuin (talking)";"鴉葉君？";"Karasuba you?";"¿Karasuba tú?"
+"karasuba  tsuki (talking)";"ーーーあーーきのゆーうーーひーーにー てーーるーーやーーまーーーーーーーー もみじまんじゅー！";"I'll be back in a few days….";"Voy a volver en unos días…"
+"shigikaishokuin (talking)";"君こそ、ふざけている間があるん だったら、外の肉体労働組、 手伝ってこい！";"If you've got time to joke around, go help the manual laborers outside!";"Si tienes tiempo para bromear, ve a ayudar a los trabajadores manuales de fuera."
+"karasuba  tsuki (talking)";"は、は~~~い！";"Ha-ha-ha!";"¡Ja, ja, ja!"
+"narrator";"鴉葉は慌てて、玄関に向かい、そして、 柱の影にいる悪司の腕を掴むと、 人のいない物陰に突っ込んだ。";"Karasuba rushed to the front door, grabbed Akuji by the arm in the shadow of a pillar, and plunged into the empty shadows.";"Karasuba se precipitó hacia la puerta, luego agarró a Akuji por el brazo a la sombra de un pilar y se sumergió en las sombras vacías."
+"Yamamoto Akuji (talking)";"おいおい、こんなとこに連れ込んで、 どーする気だ？";"Hey, hey, hey, what are you doing bringing him in here?";"Oye, oye, oye, ¿qué estás haciendo, trayéndolo aquí?"
+"karasuba  tsuki (talking)";"どっ…
+どーしたもこーしたも！ あんた今、ここにきていいはず ないでしょ！";"What the…
+Whatever you do, do! You can't be here right now!";"¿Qué…?
+ ¡Lo que sea, lo que sea! ¡No puedes estar aquí ahora mismo!"
+"Yamamoto Akuji (talking)";"状況視察だよ。 敵を知る為のな。";"It's a situation observation. To know the enemy.";"Es una observación de la situación. Conocer al enemigo."
+"karasuba  tsuki (talking)";"も~~…何、ノンキな事 言ってるんですか。
+み~んな、殺気立ってんですよ。 あんたのとこのせいです。";"What~…what are you talking about?
+Everyone's all upset about Satsu. It's your fault.";"¿De qué estás hablando?
+Todo el mundo está en un frenesí de Matsu. La culpa es tuya."
+"Yamamoto Akuji (talking)";"そーみたいだな。";"Sounds like it.";"Parece que sí."
+"karasuba  tsuki (talking)";"だったら…";"Then…";"Entonces…"
+"Yamamoto Akuji (talking)";"わかった、そろそろ帰るよ。 ああ、そうだ。
+俺達がきたら、絶対安全なとこに うまく逃げろよ。 怪我すんな。";"All right, I'm going to go home now. Yeah, yeah, yeah.
+When we come back, make sure you get to a safe place. Don't get hurt.";"Muy bien, ahora me voy a casa. Sí, sí.
+Cuando lleguemos, asegúrate de estar en un lugar absolutamente seguro. No te hagas daño."
+"karasuba  tsuki (talking)";"はいはい、だいじょーぶです。 金と女絡みは、引き際が大事 ですからね。";"Yes, yes, it's all right. When it comes to money and women, it's important to know when to quit.";"Sí, sí, está bien. Cuando se trata de dinero y mujeres, es importante saber cuándo hay que dejarlo."
+"Yamamoto Akuji (talking)";"じゃーなー。";"See you later.";"Hasta luego."
+"karasuba  tsuki (talking)";"お気をつけてー。";"Take care!";"Cuídate -."
+"Yamamoto Akuji (talking)";"ん……？ なんで誰もいないんだ？";"Hmm ……? Why is no one here?";"Hmm ……? ¿Por qué no hay nadie allí?"
+"karasuba  tsuki (talking)";"あっれー？ どうしたんですか、悪司さん。";"Oh, no? What's the matter, Akuji?";"¿Aaargh? ¿Qué pasa, Akuji?"
+"Yamamoto Akuji (talking)";"おう、お前こそ。";"Oh, you're the one.";"Oh, eres tú."
+"karasuba  tsuki (talking)";"僕は、忘れ物取りに。";"I went to pick up something I had forgotten.";"Fui a recoger mis objetos perdidos."
+"Yamamoto Akuji (talking)";"なんで誰もいねーんだ？";"Why ain't anybody here?";"¿Por qué no hay nadie aquí?"
+"karasuba  tsuki (talking)";"市長不在で、封鎖中なんですよ。";"The mayor is not there, and it's on lockdown.";"El alcalde no está presente y la zona está bloqueada."
+"Yamamoto Akuji (talking)";"あ、そっか。";"Oh, I see.";"Ah, ya veo."
+"karasuba  tsuki (talking)";"僕達、公務員は、市長が決定されるまで 自宅待機なんですよ。
+それでもお給料がちゃんと支給される あたり、ビバ公務員って感じですよね。
+でもそれも、新しい市長が 決定するまで…
+そうなったら、また忙しい日々の 再開ですよ。";"We, civil servants, have to stay at home until the mayor's decision is made.
+We civil servants are still paid our salaries, which makes us feel like viva civil servants, right?
+But until the new mayor is decided…
+Then, we will be back to our busy days again.";"Los funcionarios tenemos que quedarnos en casa hasta que se decida el alcalde.
+Aun así, seguimos cobrando nuestros sueldos, lo que nos hace sentirnos como vivos funcionarios, ¿no es así?
+Pero eso es sólo hasta que se elija un nuevo alcalde…
+Luego vuelve a haber días de mucho trabajo."
+"Yamamoto Akuji (talking)";"忙しい方が、楽しいじゃねーか。";"The busier you are, the more fun you'll have.";"Cuanto más ocupado estés, más te diviertes."
+"karasuba  tsuki (talking)";"だけど、凄いですねー。 ほんとに市議会潰すなんて 思ってなかった。";"But it's great! I really didn't think they would destroy the city council.";"¡Pero es genial! Realmente no esperaba que destruyeran el ayuntamiento."
+"Yamamoto Akuji (talking)";"不要な嘘はつかないよーにしてる もんでね。";"I try not to tell unnecessary lies.";"Intento no decir mentiras innecesarias."
+"karasuba  tsuki (talking)";"僕、女だったら、間違いなく、 悪司さんにムチャ惚れしてるよ。";"If I were a woman, I would be crazy in love with Akuji for sure.";"Si yo fuera una mujer, definitivamente estaría enamorada de Akuji."
+"Yamamoto Akuji (talking)";"そりゃ残念だ。 女だったら、その愛、 受け止めてやったのに。
+それじゃーな。";"That's a shame. If you were a woman, I would have accepted your love.
+See you later.";"Es una pena. Si fueras una mujer, habría aceptado tu amor.
+Bien, entonces."
+"karasuba  tsuki (talking)";"はい、また。";"Yes, again.";"Sí, también."
+"Yamamoto Akuji (talking)";"へっ……";"Heh ……";"Heh: ……"
+"shigikaishokuin (talking)";"申し訳ありません。 鴉葉は、来客があって、外に……";"Sorry, we are not able to answer your questions. Karasuba had a visitor and was outside ……";"Disculpas. Karasuba tuvo una visita y estuvo fuera ……"
+"Yamamoto Akuji (talking)";"わかった。 手数かけたな。";"I understand. You took a lot of work.";"Lo entiendo. Te costó mucho trabajo."
+"shigikaishokuin (talking)";"いえ、そんな。 またよろしくお願いします。";"No, not at all. Please come again.";"No, no. Por favor, vuelve a verme."
+"Yamamoto Akuji (thinking)";"せっかく、賄賂持ってきたってのに、 留守だったとはなー……
+ここまできたんだし、 ちとぷらぷらしてから帰るとすっか…";"I brought a bribe, but they weren't home… ……
+I've come all this way, I might as well go for a little stroll and then go home…";"Traje un soborno, pero no estabas en casa… ……
+Ahora que he llegado hasta aquí, creo que voy a deambular un poco y luego volver a casa…"
+"narrator";"そう思い、悪司は市議会の近所にある公園を 散歩する事にした。";"With this in mind, Akuji decided to take a walk in a park in the neighborhood of the city council.";"Con esto en mente, Akuji decidió dar un paseo por un parque del barrio del ayuntamiento."
+"Yamamoto Akuji (talking)";"……………
+ ……何やってんだ、お前さんは。";"………………… What are you doing, man?";"………………… ¿Qué estás haciendo, tú?"
+"cg narrator";"「あっ…あああっ…んっ……！！」
+ 「あ……」
+鴉葉は交尾を目撃された猫のように、悪司を見る。
+ 「人が用事あって、きてやったら、コレか」
+ 「ごめんねー。 　今、取り込ちゅーー」
+と、鴉葉は行為を見られている事など お構いなしに、腰を振る。
+ 「あ、いや、そんなっ…ひっ…人が見てっ… 　あ、ああ、あっ！！」
+女は悪司が見ている事を知り、 鴉葉の腰の動きを止めようとする。
+ 「だーいじょうぶだって。 　この人、そんな事気にするよーな人じゃいから」
+と、言いながら、鴉葉は女の尖った乳首を きゅっと指で潰した。
+ 「あ、あ、あんっ！」
+女の腰が、それだけでビクリと震える。
+ 「アケミちゃん、こーなったらもう、 　イクっきゃないでしょ？」
+ 「あっ…ああっ……」
+ 「このまま途中でやめちゃったら、 　躰がほてって、どうしようもなくなっちゃうよ？」
+と、言いながら、アケミの耳を噛む鴉葉。
+ 「あっ…あんっ！！」
+ 「つー訳で、ちょっと待ってて頂けますかー？ 　悪司さん」
+ 「あーかまわねぇぜ。 　たっぷりと目で犯すのに参加してやるよ」
+と言いながら、悪司は煙草に火をつけた。
+ 「いっ…いやっ… 　こんなトコ見ないでっ…見ないでぇっ…！！」
+アケミは羞恥に首を左右に振る。
+ 「何言ってんだ。 　俺が見てるってわかっただけで、ヌルヌルが 　２割増しになってるぜ、アケミちゃん」
+と、悪司が言う。
+ 「うっ…あっ…ああぅんっ…！」
+その声に、アケミが反応し、高い声をあげた。
+ 「という訳でー、頑張ってイカせちゃうからね。 　見られてると、また違うよー」
+ 「いっ……いや、そんな事言わないでっ… 　あっ…嘘っ…あんっ！」
+鴉葉のワードマジックにはまったように、 悪司の視線を浴び、アケミの声が艶を増す。
+ 「あ、いや、こんなっ… 　あ、あ、あっ！」
+ 「さーてと、じゃあ、ばーっといっちゃうよ。 　アケミちゃん、ここいじられながらイクの 　好きだったよねー」
+鴉葉の指が、アケミのクリトリスにふれる。
+ 「ひっ……！！」
+アケミが高い、息を飲む声をあげる。
+ 「あっ……だ、だめっ…だめぇっ…！！」
+下から上へ、自分の一物を刺激するように、 鴉葉の指が動く。
+ 「あ、あ、あうぅ~っ…！！」
+アケミは下唇を噛み、鴉葉の愛撫を、 一物の摩擦を受け入れる。
+ 「もっ…だめっ…あっああっ……！ 　鴉葉さぁっ…！」
+ 「わかってるよ。 　遠慮しないで」
+鴉葉の甘い声に、アケミの躰が震えた。
+ 「……ぅっ……ぁっ…あっ……ぁ~~っ…！！」
+アケミは限界まで躰をくの字に折り、 足指先まで力を入れ、躰を大きく震わせ 低い声をあげた。";"Ah… ah… mmm… ……!
+Ah……!”
+Karasuba looks at Akuji like a cat that has witnessed mating.
+I'm sorry,” she said.
+I'm sorry. 　I'm taking it in now.
+The Karasuba shakes her hips without regard to the fact that she is being watched.
+The woman said, “Oh, no, no, no, no, no, no, no…….people are watching……ah, ah, ah!
+The woman knows that Akuji is watching and tries to stop Karasuba's hip movement.
+It's all right,” she said. 　She's not the kind of person who cares about that kind of thing.
+Saying that, Karasuba squeezed her pointed nipples with her fingers.
+Ah, ah, ah, ah!
+The woman's hips trembled at that.
+The woman's hips shuddered and trembled at that.
+Ah…ah…ah………
+If you stop halfway through, you'll get so hot that you won't be able to do anything about it.
+ 
+ “Ah…ah!
+I'm not sure if this is a good idea or not. 　Mr. Akuji.
+ “Oh, I don't mind. 　I'll join you in a lot of eye-fucking.
+Saying that, Akuji lit up a cigarette.
+Akuji said, and lit up a cigarette.
+Akuji shook his head in shame.
+What are you talking about? 　Just because you know I'm watching you, you're becoming 20% more slippery, Akemi.
+Akuji says.
+Akuji said, “Oh…ah…ahh…!”
+Akuji said, and Akuji said, “Oh…oh…oh…oh…!
+I'm going to make you cum as hard as I can,” she said. 　It's different when you're watching me.
+I…… don't say that… ah… no… ah… ah… ah!”
+The most important thing to do is to make sure that you have a good understanding of what you are doing and how to do it.
+Akuji's voice becomes more glamorous as she is caught in Karasuba's word magic.
+Then, I'm going to do it again. 　The most important thing to remember is that you should not be afraid to ask for help from your friends and family.
+The fingers of Karasuba touch Akemi's clitoris.
+ “Hiccup ……!!!”
+Akemi makes a high, gasping sound.
+Oh ……, no…no…no…!
+From the bottom to the top, Karasuba's fingers move to stimulate her own penis.
+Akemi bites her lower lip.
+Akemi bites her lower lip and accepts Karasuba's caress and friction.
+She bites her lower lip and accepts Karasuba's caresses and the friction of a single object, “Oh…no…ohhhh! 　Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no…!
+I know. 　Don't be shy.
+The sweet voice of Karasuba made Akemi's body tremble.
+The first thing to do is to make sure that you have a good time with your partner.
+Akemi's body was bent over to the limit, and her toes were strained, her body trembled greatly, and she screamed low.";"Ah… ah… mmm… ……!
+Ah ……!”
+Karasuba mira a Akuji como a un gato al que han visto aparearse.
+La gente tenía asuntos que hacer, así que vine y lo hice, ¿y esto es todo?
+Lo siento. 　Lo estoy llevando ahora.
+ 
+La mujer dijo: “Lo siento, lo siento, lo siento, lo siento, lo siento.
+La mujer sabe que Akuji está mirando e intenta detener el movimiento de las caderas de Karasuba.
+Está bien. 　No es el tipo de persona que se preocupa por ese tipo de cosas”.
+Los puntiagudos pezones de la mujer fueron aplastados por los dedos de Karasuba, diciendo: '¡Oh, oh, oh, oh!
+ ¡Ah, ah, ah, ah!”
+Las caderas de la mujer temblaron sólo con eso.
+Las caderas de la mujer temblaban precisamente por eso.
+Ah… ah… ah… ……
+Lo más importante que debes recordar es que no debes tener miedo de pedir ayuda a tus amigos y familiares.
+Lo más importante es recordar que la mejor manera de sacar el máximo partido a tu coche es asegurarte de que es uno bueno.
+ “¡Ah… ah!
+ 'Entonces, ¿puedes esperar un momento? 　Akuji-san.
+ 'Oh, no hay problema. 　Me uniré a ti para cogerte con los ojos.
+Lo más importante es recordar que nunca hay que tener miedo de pedir ayuda.
+ 'No… no… no me mires así… no me mires así…
+Akuji sacudió la cabeza avergonzado.
+ ¿De qué estás hablando? 　Sólo porque sabes que te estoy observando, te vuelves un 20% más escurridiza, Akemi.
+Akuji dice.
+ 'Ugh… ah… ahhhh…'
+Akemi reaccionó a esa voz y alzó la voz.
+ 'Por eso - voy a hacer que te corras tan fuerte como pueda. 　Es diferente cuando me estás viendo.
+ 'I…… no digas tal cosa… ah… ah… ah… ah… ah… ah… ah… ah… ah… ah… ah'
+Lo más importante es asegurarse de que se entiende bien lo que se hace y cómo se hace.
+ 'Ah, no, no puedes… ¡ah, ah, ah!
+Muy bien, entonces, voy a ir a por todas. 　Lo más importante que debes recordar es que no debes tener miedo de pedir ayuda a tus amigos y familiares.
+La primera vez que veas el clítoris de una mujer, verás su clítoris.
+ 'Hipo ……!!'
+Akemi emite un sonido agudo y jadeante.
+ '¡Oh ……, no… no…!
+De abajo a arriba, los dedos de Karasuba se mueven para estimular a la suya.
+Akemi se muerde el labio inferior.
+Akemi se muerde el labio inferior y acepta las caricias de Karasuba y el roce de una cosa.
+ 'Oh… no… ohhhh… ……! 　Oh, no… oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no…
+Lo sé. 　No seas tímido”.
+El cuerpo de Akemi se estremeció al escuchar la dulce voz de Karasuba.
+ ¡'……oooooooo… ah……aaaah~…!
+La primera vez que la vi, pensé que era un poco perra, pero era una persona muy agradable, y era muy simpática."
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"karasuba  tsuki (talking)";"ごめんなさーい。 お待たせしちゃってー。";"I'm sorry. I'm sorry for keeping you waiting.";"Lo siento. Te he hecho esperar."
+"Yamamoto Akuji (talking)";"で、こーいうトコでするのが趣味なのか？ しかも、仕事中。";"So, is it your hobby to do it in a place like this? And while I'm at work.";"Entonces, ¿es un hobby hacerlo en estos lugares? Y en el trabajo."
+"karasuba  tsuki (talking)";"んー……非常事態だったんで。 あの子、僕の行き着けの飲み屋で 働いている子でー。
+たまってるツケの請求に きてたんですよー。
+で、ごまかしてる間に、な~んかそーいう 気分になっちゃってー。";"Well,…… it was an emergency situation. She works at my favorite bar.
+I had to bill her for some bills that were piling up.
+And while I was covering it up, I kind of got in the mood.";"Bueno,…… era una situación de emergencia. Trabaja en mi bar favorito.
+Vino a verme por una factura que se había acumulado.
+Y mientras lo tapaba, me puse a tono."
+"Yamamoto Akuji (talking)";"で、仕事フケて、ここでナニしてたと。";"So, you quit your job and stayed here to do your thing.";"Así que, saliste del trabajo y has estado durmiendo la siesta aquí."
+"karasuba  tsuki (talking)";"へっへっへっ。";"Heh heh heh.";"Je, je, je."
+"Yamamoto Akuji (talking)";"ニヤけてんじゃねーよ。 この税金ドロボーが。";"Don't grin. You tax dodger.";"No te hagas el remolón. Evasor de impuestos."
+"karasuba  tsuki (talking)";"で、その税金ドロボーに、 なんか用なんですか？";"So, what do you want with this tax dodger?";"Entonces, ¿qué quieres con este evasor de impuestos?"
+"Yamamoto Akuji (talking)";"ああ。 賄賂の金の補充にきたんだけどな。";"Oh. I'm here to replenish the bribe money.";"Oh. Estoy aquí para reponer el dinero del soborno."
+"karasuba  tsuki (talking)";"ん~~……";"Hmmm~~……";"Hmmm~……"
+"narrator";"鴉葉はメモをぺらぺら捲って、 思案顔をしてから言った。";"Karasuba flipped through the memo, looked thoughtful, and then said, “I'm not sure what to do.";"Karasuba hojeó sus notas, se quedó pensativa y luego dijo."
+"karasuba  tsuki (talking)";"今んとこ、大丈夫ですよ。 お金、足りてます。";"So far, so good. We have enough money.";"De momento, me va bien. Tenemos suficiente dinero."
+"Yamamoto Akuji (talking)";"そーかい。";"Oh, yeah.";"Ah, sí."
+"karasuba  tsuki (talking)";"あ、でも僕にお小遣いくれるんだったら、 いくらでもＯＫ！";"Oh, but if you're going to give me an allowance, I'll take it however much you want!";"Oh, pero si me vas a dar dinero de bolsillo, ¡lo cogeré por mucho que quieras!"
+"Yamamoto Akuji (talking)";"誰がやるか。";"Who will do it.";"Quién lo hará."
+"karasuba  tsuki (talking)";"ちえっ。";"Chie.";"Chie."
+"Yamamoto Akuji (talking)";"用事が空振りで済んだって事は、 俺はただのお邪魔虫だったって訳か。";"I guess I was just an intruder if my errand turned out to be an empty one.";"Si mis recados han sido un completo vacío, significa que he sido un intruso."
+"karasuba  tsuki (talking)";"いんえいえ。
+あのままだったら、何回僕突っ込まされて いたかわかんなかったから、大助かり でしたよ。";"I was very grateful for your help.
+I don't know how many times I would have had to go through that, so it was a big help.";"No, no, no.
+No sé cuántas veces habría tenido que pasar por eso, así que fue un gran alivio."
+"narrator";"アケミは悪司の前で盛大にイカされた 恥ずかしさから、コトが終わると、 逃げてしまったのだった。";"Akemi was so embarrassed to be made to cum so hard in front of Akuji that she ran away when she finished what she was doing.";"Akemi estaba tan avergonzada de que la hicieran correrse tan fuerte delante de Akuji que salió corriendo cuando terminó."
+"Yamamoto Akuji (talking)";"おめーさんも、 あんまツケ溜めるんじゃねぇぞ。";"Don't accumulate a bill too much.";"No acumules demasiada factura, tú también."
+"karasuba  tsuki (talking)";"そーですね。 次の給料日には、 ちゃんと払う事にします。";"That's right. I'll pay you on my next payday.";"Así es. Te pagaré adecuadamente en tu próximo día de pago."
+"Yamamoto Akuji (talking)";"それじゃーな。";"See you then.";"Nos vemos entonces."
+"karasuba  tsuki (talking)";"はーい、お気をつけて。";"Yes, take care.";"Sí, ten cuidado."
+"karasuba  tsuki (talking)";"どーもー。";"Hello.";"Domo."
+"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
+"karasuba  tsuki (talking)";"うまくいったですかねー？";"Did it work?";"¿Ha ido bien?"
+"Yamamoto Akuji (talking)";"そーだなー… 中山多恵子もこれでおだぶつだ。";"Well… Nakayama Taeko is now also a Dabutsu.";"Bueno… Nakayama Taeko es ahora también un dabutsu."
+"karasuba  tsuki (talking)";"う~~……ん……";"U~~……n……";"U~~……n……"
+"Yamamoto Akuji (talking)";"どうした？";"What's up?";"¿Qué pasa?"
+"karasuba  tsuki (talking)";"ちょっと、かわいそーな事 したかなーって。";"I felt a little sorry for him.";"Me dio un poco de pena."
+"Yamamoto Akuji (talking)";"おめーさんのせいで、 おだぶつだからなー。";"I'm a big shot because of you.";"Eres un pez gordo gracias a ti."
+"karasuba  tsuki (talking)";"しろって言ったの、悪司さんじゃないか。";"I think it was Akuji who told you to do it.";"Creía que era Akuji quien te decía que lo hicieras."
+"__system__??";"{★結婚 = 6:";"";""
+"Henri Pe (talking)";"………………";"………………";"………………"
+"karasuba  tsuki (talking)";"あ、奥さん、こんちわ。";"Oh, ma'am, hello.";"Ah, señora, hola."
+"Henri Pe (talking)";"………ハーブティ……飲みますか？";"Do you drink……… herbal tea ……?";"………Té de hierbas……¿Lo bebes?"
+"karasuba  tsuki (talking)";"あ、すみません、いただきまーす。";"Oh, sorry, I'll take it.";"Oh, lo siento, lo tomaré."
+"__system__??";"}";"";""
+"narrator";"廊下で鴉葉が、職員と話をしている。";"In the hallway, Karasuba is talking with a staff member.";"En el pasillo, Karasuba está hablando con un empleado."
+"karasuba  tsuki (talking)";"んん~~……";"mmm~~……";"mmm~~……"
+"shigikaishokuin (talking)";"という訳で、奉仕青年団の面々の 各種違反は、どうしたもんかと…";"So, I'm not sure what to make of the various violations on the part of the youth in the service corps…";"Entonces, ¿cuáles son las diversas violaciones por parte del Cuerpo de Jóvenes de Servicio…"
+"karasuba  tsuki (talking)";"わかってるんだけど~… そこはこう、ね？";"I know, but… it's like this, you know?";"Lo sé, pero… está esto, ¿sabes?"
+"shigikaishokuin (talking)";"ですが…";"But…";"Sin embargo…"
+"karasuba  tsuki (talking)";"っていう訳でさ… これ、取っといてよ。";"So… keep this.";"Por eso… guarda esto."
+"narrator";"と、鴉葉は職員にそっとお金を握らせた。";"And Karasuba gently grabbed the money from the official.";"Y Karasuba sostuvo suavemente el dinero para el funcionario."
+"shigikaishokuin (talking)";"ん~…… まいったなー、鴉葉さんには…";"Hmmm……… I'm so mad at you, Karasuba…";"Hmmm……… Lo siento, Karasuba…"
+"karasuba  tsuki (talking)";"そーそー、それでいーのよ。 僕にまいっといてよ。";"That's right, that's right, that's right. I'll take care of it.";"Sí, sí, está bien. Déjalo en mis manos."
+"shigikaishokuin (talking)";"わかりしました… ボクもモメ事は嫌いなんで… 見なかった事にします。";"I understand… I don't like controversy either… so I'll pretend I didn't see it.";"Lo entiendo… y tampoco me gustan los problemas, así que… haré como si no lo hubiera visto."
+"karasuba  tsuki (talking)";"ありがとー、恩にきるよー。";"Thanks, I'm in your debt.";"Gracias, estoy en deuda con usted."
+"karasuba  tsuki (thinking)";"悪司さーん、僕、頑張ってるよーん。 だからもっとオイシー目にあわせてねー。";"Akuji, I'm doing my best. So don't make me feel worse.";"Akuji, hago lo que puedo. Así que no me hagas sentir aún peor."
+"narrator";"鴉葉は頑張っていた。";"Karasuba worked hard.";"Karasuba trabajó mucho."
+"karasuba  tsuki (thinking)";"やーれやれ。 今日も一日ごくろーさん、僕。 晩ご飯何にしよっかなー。";"Oh dear. Thanks for all your hard work today, me. What shall we have for dinner?";"Oh, Dios. Gracias por todo tu trabajo de hoy, yo. ¿Qué voy a cenar?"
+"shigikaishokuin (talking)";"ちょっと待って下さい、鴉葉さん。";"Wait a minute, Mr. Karasuba.";"Un momento, señor Karasuba."
+"karasuba  tsuki (talking)";"え~、何？ 今日のお仕事時間終わったじゃ~ん。 公務員に残業はナシでしょ~？";"Eh~ what? Today's work hours are over. Civil servants don't work overtime, right?";"Eh~, ¿qué? Las horas de trabajo de hoy han terminado~. Los funcionarios no hacen horas extras, ¿verdad?"
+"shigikaishokuin (talking)";"そんな場合じゃないです。 奉仕青年団の事です。";"It's not about that. It's about service youth groups.";"No se trata de eso. Se trata de grupos juveniles de servicio."
+"karasuba  tsuki (talking)";"え？";"Huh?";"¿Eh?"
+"shigikaishokuin (talking)";"あなたの管理地域でしょう？ なんですか、この書類！";"It's your administrative area, isn't it? What is this document!";"Es su área administrativa, ¿no? ¿Qué es este documento?"
+"narrator";"職員が鴉葉に突き出したのは、 奉仕青年団についての偽造書類だった。";"The official turned over to Karasuba a forged document about the Service Youth Corps.";"Los funcionarios entregaron a Karasuba documentos falsos sobre el Cuerpo de Jóvenes de Servicio."
+"shigikaishokuin (talking)";"まったくデタラメだらけです。 市長に報告して、すぐに取り潰して 貰います。";"It is full of total bullshit. I will report this to the mayor and have it taken down immediately.";"Está lleno de tonterías. Lo denunciaré al alcalde y haré que lo retiren inmediatamente."
+"karasuba  tsuki (talking)";"書類が嘘っぱちなんて、そんなの、 日常茶飯事じゃないの。";"It's not every day that a document is a lie.";"No todos los días hay documentos falsos."
+"shigikaishokuin (talking)";"鴉葉さん？";"Karasuba?";"¿Karasuba?"
+"karasuba  tsuki (talking)";"そんな事よりさ。 高級バーに呑みに行かない？";"I don't care about that. How about going for a drink at a fancy bar?";"No me refiero a eso. ¿Por qué no vamos a tomar una copa a un bar de lujo?"
+"shigikaishokuin (talking)";"は？？";"Huh?";"¿Eh?"
+"karasuba  tsuki (talking)";"コネがあるんだ。 高官っきゃいけないとこなんだけど、 特別に僕、入る事が出来るんだ。";"I have connections. I have a special connection to a place where you have to be a high-ranking official to get in.";"Tengo contactos. Tengo acceso especial a lugares donde hay que ser un funcionario de alto rango para entrar."
+"shigikaishokuin (talking)";"そ、それは……";"Well, that's ……";"Bueno, eso es ……"
+"karasuba  tsuki (talking)";"そーいう事だよ。 あ、お金の方がいい？";"That's what I mean. Oh, you prefer money?";"Eso es lo que quiero decir. Oh, ¿prefieres dinero?"
+"shigikaishokuin (talking)";"そ、そんな、あからさまな…";"Oh, no, it's not that blatant…";"Oh, no, no es tan evidente…"
+"karasuba  tsuki (talking)";"僕達、公務員ってさ、薄給じゃない。 だからさ、こーいう特権はおおいに 利用した方が人生の勝ち組だと思うけど？
+っていうか、何するにしても、 楽しい方がいいじゃん。";"We, civil servants, don't get paid very much. So, I think it's better to take advantage of such privileges to win in life, don't you?
+I mean, whatever you do, it's better to have fun.";"Los funcionarios no cobramos mucho. Así que creo que en la vida se gana si se aprovechan estos privilegios, ¿no?
+Hagas lo que hagas, es mejor divertirse."
+"shigikaishokuin (talking)";"そ、それは、その…あの…";"Well, that's, uh… that's… that's… that's… that's… that's…";"Bueno, eso es… eso es… eso es…"
+"karasuba  tsuki (talking)";"君だけがしてる事じゃないって。 みんなやってるよ。";"You're not the only one doing it. Everyone is doing it.";"Que no eres el único que lo hace. Todo el mundo lo hace."
+"shigikaishokuin (talking)";"それは……";"It can be found at ……";"Se puede encontrar en ……"
+"karasuba  tsuki (talking)";"さ、どっちにする？
+ここで君が奉仕青年団を槍玉にあげて、 免許剥奪しても、次にくる管理団体が クリーンだとは限らないよ？
+もっと酷いのがくる可能性だって、 かんなり高い確率で発生するよ？";"So, which is it?
+Even if you revoke their license, it doesn't mean that the next group that comes along will be clean, does it?
+There is a very high probability that something worse will come along.";"Entonces, ¿cuál es?
+Aunque encabeces una organización de servicios a la juventud aquí y les revoques la licencia, eso no significa que el siguiente órgano de gobierno que venga esté limpio, ¿verdad?
+Hay muchas posibilidades de que aparezca algo peor, ¿sabes?"
+"shigikaishokuin (talking)";"う……";"U……";"U……"
+"karasuba  tsuki (talking)";"だったら、今あるところをよりよく する為に指導する方が、 僕達の為にもなるんじゃない？";"So, wouldn't it be better for us to teach them how to improve what they have?";"Entonces, ¿no sería mejor para nosotros si les enseñamos a mejorar lo que tienen?"
+"shigikaishokuin (talking)";"う……";"U……";"U……"
+"karasuba  tsuki (talking)";"はい、決まり。 さ、呑みに行こうか？";"Yes, it's decided. Shall we go for a drink?";"Sí, está decidido. Ahora, ¿vamos a tomar una copa?"
+"narrator";"鴉葉はにっこり笑った。";"Karasuba chuckled.";"Karasuba sonrió."
+"karasuba  tsuki (talking)";"こんっちゃーん。";"Konnichiwa.";"Konchan."
+"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
+"karasuba  tsuki (talking)";"これ、おみやげのお寿司でーす。 さっちゃんとお二人で食べて下さいなー。";"This is a souvenir sushi. Please eat it with Sacchan.";"Esto es un sushi de recuerdo. Por favor, cómelo con Sacchan."
+"Yamamoto Akuji (talking)";"さっちゃんにまで手を出そうってか？";"Are you even going to touch Sacchan?";"¿Estás tratando de llegar a Sacchan?"
+"__system__??";"{★愛 = 5:";"";""
+"karasuba  tsuki (talking)";"何言ってんですか。 さっちゃんは、悪司さんの お嫁さんでしょ。
+僕、身の程をわきまえるって言葉 知ってますから。";"What are you talking about? Sacchan is your wife, isn't she?
+I know the word “know your place”.";"¿De qué estás hablando? Eres la mujer de Akuji, ¿no?
+Conozco la palabra “conoce tu lugar”."
+"__system__??";"}";"";""
+"__system__??";"{★愛 \ 5:";"";""
+"karasuba  tsuki (talking)";"大丈夫ですって。 僕、身の程をわきまえるって言葉 知ってますから。";"It's okay. I know the word “know your place”.";"No pasa nada. Conozco la palabra “conoce tu lugar”."
+"__system__??";"}";"";""
+"Yamamoto Akuji (talking)";"で、なんだ。 また賄賂資金か？";"So, what is it? Another bribe fund?";"Entonces, ¿qué es? ¿Otro fondo de sobornos?"
+"karasuba  tsuki (talking)";"ぶっぶ~~~~~。
+それはもう必要ないんですよ~。";"Bubu ~~~~~.
+That's not necessary anymore!";"Bubu ~~~~~.
+Eso ya no es necesario."
+"Yamamoto Akuji (talking)";"へ？";"Heh?";"¿Eh?"
+"karasuba  tsuki (talking)";"神原さんが市長になってから、 市議会組織も一新されました。
+そのおかげで、僕も出世する事が 出来ました~いやっほー。
+悪司さんが後押ししてくれたんでしょ？ だからこのお寿司、そのお礼。 ありがと、悪司さん。";"Since Mr. Kanbara became mayor, the city council organization has been revamped.
+Thanks to that, I was able to rise in the ranks~ yay!
+Akuji gave you a boost, didn't he? So this sushi, I thank you for that. Thanks, Akuji.";"Desde que Kanbara es alcalde, la organización del ayuntamiento se ha renovado por completo.
+Gracias a ello, pude ascender en el escalafón, ¡yupi!
+Akuji te dio un empujón, ¿no? Así que este sushi, te lo agradezco. Gracias, Akuji."
+"Yamamoto Akuji (talking)";"そー思うんだったら、 俺に便宜はかってくれよ。";"If you feel that way, do me a favor.";"Si te sientes así, hazme un favor."
+"karasuba  tsuki (talking)";"わかってますって、心配ご無用。 もう賄賂なしでも、僕の地位で 人を黙らせる事が出来ちゃうから。
+やっぱし、人間、地位とお金ですね~。 名誉って邪魔かな？";"I know, don't worry. I can silence people with my position without a bribe.
+After all, people are all about status and money. Is honor a hindrance?";"Lo sé, no te preocupes. Puedo silenciar a la gente con mi posición sin sobornos.
+Al fin y al cabo, a la gente le interesa el estatus y el dinero. ¿Es el honor un obstáculo?"
+"Yamamoto Akuji (talking)";"人それぞれだろ。";"It's every man for himself.";"Sálvese quien pueda."
+"karasuba  tsuki (talking)";"ですよね。 悪司さんの影番っぷり見てると納得。
+あ、ごめん、僕これからデートだから もう帰るね。
+それじゃまた~。";"I know, right? I can see why Akuji's shadow guard.
+Oh, sorry, I have a date, so I'm going home.
+See you~.";"Sí. Ver a la guardia de la sombra de Akuji tiene sentido.
+Ah, lo siento, ahora tengo una cita, así que me voy a casa.
+Nos vemos entonces~."
+"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
+"narrator";"館内に終業を知らせるチャイムが鳴った。";"A chime rang in the building, signaling the end of the workday.";"Una campanada indica el fin del trabajo en el edificio."
+"Kanbara Yuuko (talking)";"あ~っ……んっんん~~… つっかれた~~… 今日も働いたわ~……";"Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh… I'm tired… I worked hard today… ……";"Ahhhhhhhhhhhhhhh… Estoy cansado… He trabajado mucho hoy… ……"
+"karasuba  tsuki (talking)";"疲れため息も色っぽいですね。 はい、お茶です。";"Even a tired sigh is sexy. Yes, tea.";"Los suspiros cansados también son sexy. Sí, té."
+"Kanbara Yuuko (talking)";"あら~、ありがと~。
+あら、おいし。";"Oh, thank you!
+Oh, yummy.";"¡Oh, gracias!
+Oh, qué rico."
+"karasuba  tsuki (talking)";"そうっすか。";"Is that so?";"¿Es así?"
+"Kanbara Yuuko (talking)";"うふふ~。 幸せね~~。";"Mmmmmm~. So happy~~.";"Mmmmm~. Eres tan feliz~."
+"narrator";"と、夕子が笑った。";"And Yuuko laughed.";"Y Yuuko se rió."
+"karasuba  tsuki (talking)";"……………";"……………";"……………"
+"Kanbara Yuuko (talking)";"なぁに？";"What is it?";"¿Qué es?"
+"karasuba  tsuki (talking)";"い、いえ、何も。";"No, no, nothing.";"No, no, nada."
+"karasuba  tsuki (thinking)";"色っぺーよなー。 デートとか誘って、もっと笑った顔 見てたいよなー。
+でも…どうしてかなー… 悪司さんのお手つきってのも あるのかもしれないけど……
+ …………それ以上に…
+この人に手を出すと、なんかこう、 ヤバイっていう気がすんだよなー、 なんでだろー。";"I wish I could ask her out on a date or something and see her smiling face more. I wish I could ask her out on a date and see her smiling face more.
+But…I don't know why…maybe it's because of Akuji's touch… ……………… but more than that…
+I feel like I'm in trouble if I mess with this person… I don't know why…";"Eres muy colorido. Me gustaría poder invitarla a salir y ver más su cara sonriente.
+Pero… no sé por qué… quizás sea porque Akuji tiene una mano en esto, pero… ……………… pero más que eso…
+Cuando toco a esta persona, siento que estoy en problemas, no sé por qué…"
+"Kanbara Yuuko (talking)";"つっくんは、危機管理能力の高さで、 世渡ってるから~。";"Tsukkun is a man who has made his way in the world with his crisis management skills.";"Tsutskun es un hombre que se ha abierto camino en el mundo gracias a su capacidad de gestión de crisis."
+"karasuba  tsuki (talking)";"え？";"Huh?";"¿Eh?"
+"Kanbara Yuuko (talking)";"ううん。 なんでもないな~い♪ うふふ~。";"Nah, it's nothing~. It's nothing~~~ Ufufu~~.";"No, no es nada~. No es nada… ♪ Ufufu~."
+"karasuba  tsuki (thinking)";"取り敢えず…このぐらいの距離でも この人といると楽しいから、まっいっか。 気にしないでおこっと。";"Anyway… even at this distance, it's fun to be with this person, so I'll let it go. I don't mind.";"De todos modos… incluso a esta distancia, es divertido estar con esta persona, así que me parece bien. No me importa."
+" (talking)";"月。";"Month.";"Lun."
+"karasuba  tsuki (talking)";"あ、おかえり。 パトロールお疲れ様。";"Oh, welcome back. Thanks for patrolling.";"Ah, bienvenido de nuevo. Gracias por patrullar."
+"chiankashokuin (talking)";"……あのさ……";"…… you know… ……";"…… ya sabes……"
+"karasuba  tsuki (talking)";"ん？";"Hmm?";"¿Eh?"
+"chiankashokuin (talking)";"あたし、お母さんからせっつかれてるの。 お見合いしろとかさ…";"I'm being pestered by my mom. She wants me to go on an arranged marriage…";"Mi madre me está molestando. Ella quiere que vaya a un matrimonio arreglado…"
+"karasuba  tsuki (talking)";"あ、そーなんだ。";"Oh, I see.";"Oh, ya veo."
+"chiankashokuin (talking)";"あたし達の事、いつまで隠してたら いいの？";"How long do I have to keep this from you?";"¿Cuánto tiempo tengo que ocultarte esto?"
+"karasuba  tsuki (talking)";"ごめんね、今、僕、もっと自分の仕事に 打ち込みたいんだ。
+もっと安定した場所に落ち着く事が 出来たら、君との事、きちんとしたいと 思ってるんだ。";"I'm sorry, but right now I need to focus more on my work.
+I'd like to make things right with you when I get settled in a more stable place.";"Lo siento, pero ahora mismo necesito centrarme más en mi trabajo.
+Me gustaría arreglar las cosas contigo cuando me haya establecido en un lugar más estable."
+"chiankashokuin (talking)";"月……";"May ……";"Mayo ……"
+"karasuba  tsuki (talking)";"じゃあ、これから我が儘女高官さんとの 接待なんだ。";"Well then, I'm going to entertain a selfish female dignitary now.";"Bueno, entonces, voy a ser agasajado por mi propia dignataria."
+"chiankashokuin (talking)";"そう…頑張って…";"Well… good luck…";"Bueno… buena suerte con eso…"
+"karasuba  tsuki (talking)";"うん、ありがと。 じゃあねー。";"Yeah, thanks. Bye.";"Sí, gracias. Hasta luego."
+"karasuba  tsuki (thinking)";"セーフ、セーフ。 僕、結婚には興味ないんだよねー。 家庭持つってタイプでもないし。";"Safe, safe. I'm not interested in marriage. I'm not the type to have a family.";"Seguro, seguro. No me interesa el matrimonio. No soy de los que tienen familia."
+"uimiionnaheishi (talking)";"ツキ！";"Tuki!";"¡Tuki!"
+"karasuba  tsuki (talking)";"おっまたせー。 ごめんね。 レディを待たせちゃって。";"Sorry to keep you waiting. I'm sorry. I made the lady wait.";"Siento haberle hecho esperar. Lo siento. Hice esperar a la señora."
+"uimiionnaheishi (talking)";"いいんだよ。 仕事、忙しいんだろ？
+ウィミィも上の女は 人使いが荒くていやんなっちゃう。";"It's okay. You're busy at work, right?
+The woman above Wime is so rude to me, I get sick of it.";"No pasa nada. Estás ocupado en el trabajo, ¿no?
+La mujer que está encima de Wime también es muy grosera conmigo."
+"karasuba  tsuki (talking)";"その疲れ、僕が今から癒してあげるよ。";"I'll take care of that fatigue for you now.";"Ahora me encargaré de ese cansancio por ti."
+"uimiionnaheishi (talking)";"ありがとう。 そう言ってくれると思って、 もうホテルの部屋、取ってあるよ。";"Thank you. I already got you a hotel room.";"Gracias. Pensé que dirías eso. Ya te he reservado una habitación de hotel."
+"karasuba  tsuki (talking)";"よし、行こう行こう。";"Okay, let's go, let's go.";"Bien, vamos, vamos."
+"uimiionnaheishi (talking)";"あん、もう… ウタマロなんだから。";"Oh, my God… it's a sea slug.";"Oh, Dios mío… eres una babosa de mar."
+"Nakayama Akari (talking)";"~~~~~~~~~~~~~~~~~。";"~~~~~~~~~~~~~~~~~。";"~~~~~~~~~~~~~~~~~。"
+"narrator";"明里はうんざりした顔で机の上の書類の山を 見つめていた。
+職員や関係部門からのもので、 すべて奉仕青年団に対する苦情だった。";"Akari stared at the stack of papers on his desk with a disgusted look on his face.
+They were from staff and related departments, all complaining about the Service Youth League.";"Akari se quedó mirando la pila de papeles que había sobre su mesa con cara de asco.
+Eran del personal y de los departamentos correspondientes, todas las quejas contra la Organización de la Juventud del Servicio."
+"Nakayama Akari (talking)";"どうしたらいいのかしら…？";"I don't know what to do…?";"¿Cómo puedo ayudar…?"
+"shigikaishokuin (talking)";"奉仕青年団は、鴉葉君の管轄ですね。";"The Service Youth Group is under your jurisdiction, isn't it, Karasuba?";"El Cuerpo Juvenil de Servicio está bajo su jurisdicción, Karasuba."
+"Nakayama Akari (talking)";"呼んでちょーだい。";"Please call me.";"Por favor, llámame."
+"shigikaishokuin (talking)";"はい、わかりました。";"Yes, I understand.";"Sí, lo entiendo."
+"karasuba  tsuki (talking)";"はーい、呼びましたかー？";"Yes, did you call?";"Sí, ¿me llamaste?"
+"Nakayama Akari (talking)";"この書類見て。";"Look at this document.";"Consulte este documento."
+"karasuba  tsuki (talking)";"うわ、なんですか、これ？";"Wow, what is this?";"Vaya, ¿qué es esto?"
+"karasuba  tsuki (thinking)";"わかってるけど。";"I know, but.";"Lo sé, pero."
+"Nakayama Akari (talking)";"君の管理する奉仕青年団に対しての 苦情の書類です。";"Here is a documented complaint against the service youth group you administer.";"Se trata de una queja documentada contra la organización juvenil de servicios que gestiona."
+"karasuba  tsuki (talking)";"あ~~~……";"Oh~~~……";"Ah~~~……"
+"karasuba  tsuki (thinking)";"絶対、そうだと思ったけど。";"I'm pretty sure that's what I thought.";"Pensé con seguridad que era así."
+"Nakayama Akari (talking)";"こんな事では、奉仕青年団の免許を 取り上げなくては駄目になります。
+一通り目を通してみたけど、違法行為 ばかりじゃないですか。 監督官としてどう思っているのですか？";"This is the kind of thing that will make us have to take away the license of the service youth corps.
+I have read through all of this and I see a lot of illegal activities. What are your thoughts as a supervisor?";"Este es el tipo de cosas que arruinarán la licencia del cuerpo de jóvenes de servicio.
+Lo he revisado y todo es ilegal. ¿Qué opina de esto como supervisor?"
+"karasuba  tsuki (talking)";"駄目な事だと思います。";"I think it's a bad idea.";"No es una buena idea."
+"Nakayama Akari (talking)";"わかってるわね？";"You know what I'm talking about, don't you?";"Lo entiendes, ¿verdad?"
+"karasuba  tsuki (talking)";"はい、申し訳有りません。 これからもっと、監督します。";"Yes, I am sorry. I will supervise more from now on.";"Sí, lo siento. Le supervisaremos más en el futuro."
+"Nakayama Akari (talking)";"私も極端な事はしたくないので、 今回はペルティを与えます。
+とりあえず、奉仕青年団に対する 補助金は半分カット。";"I don't want to go to extremes either, so I will give you a perty this time.
+For now, we are cutting the subsidy for the service youth corps in half.";"Tampoco quiero ir a los extremos, así que esta vez le daré a Pertti.
+Por ahora, la subvención para los grupos de jóvenes de servicios se reduce a la mitad."
+"karasuba  tsuki (talking)";"はい。";"Yes.";"Sí."
+"karasuba  tsuki (thinking)";"あーあ……";"Ahhhh ……";"Ahhh ……"
+"Nakayama Akari (talking)";"そう、奉仕青年団代表に伝えておいて ちょうだいね。";"Yes, please tell your service youth group representative that.";"Sí, dígaselo al representante de su grupo juvenil de servicio."
+"karasuba  tsuki (talking)";"はい、わかりました。";"Yes, I understand.";"Sí, lo entiendo."
+"karasuba  tsuki (thinking)";"悪司さ~ん……ちゃんと賄賂を 送ってくれないから、こんな事に なるんだよ~…もー…";"Akujisan ,…… you'll end up like this if you don't bribe us properly………………………………….";"Sr. Akuji,…… se meterá en este lío si no nos soborna como es debido~… oh mi…"
+"narrator";"　☆☆　　補助金　";"☆☆　　Subsidies";"☆☆　　Subvenciones"
+"narrator";"０万　　☆☆ 　　市議会からの補助金が減額された。";"０万　　☆☆ 　　The subsidy from the City Council was reduced.";"０万　　☆☆ 　　La subvención del ayuntamiento se redujo."
+"Yamamoto Akuji (thinking)";"さーて、鴉葉に賄賂の支度金を……
+ …………
+しまったぞー… 金がねーじゃねーか…
+まいったな、出直しか…";"Now, let's prepare a bribe to Karasuba: ……
+ …………
+Oh no… I don't have any money…
+Oh well, I guess I'll have to start over…";"Ahora, vamos a preparar un soborno a Karasuba: ……
+ …………
+Oh no… no hay dinero…
+Oh, Dios, tendré que volver…"
+"narrator";"悪司は賄賂を支払う為に、 市議会へとやってきた。";"Akuji came to the city council to pay the bribe.";"Akuji acudió al ayuntamiento para pagar el soborno."
+"__system__??";"{RND \ 0:";"";""
+"Aoba Youko (talking)";"やはり駄目です、悪司さん。 賄賂なんて……";"It's still no good, Akuji. Bribes are not a good idea……";"Sigue sin ser bueno, Akuji. Los sobornos no son una buena idea……"
+"Yamamoto Akuji (talking)";"……………";"……………";"……………"
+"narrator";"　　［ぐしゃ　ぐしゃっっ］
+悪司は青葉の髪をぐしゃぐしゃにした。";"[Gush, gush, gush]
+Akuji mussed Aoba's hair.";"[Gush, gush, gush].
+Akuji despeinó el pelo de Aoba."
+"Aoba Youko (talking)";"きゃーー！？";"Kyaaa!";"¡Kyaaa!"
+"Yamamoto Akuji (talking)";"黙ってなって。";"Shut up.";"Cállate y calla."
+"Aoba Youko (talking)";"…………";"…………";"…………"
+"__system__??";"}";"";""
+"karasuba  tsuki (talking)";"どーもー。";"Hello.";"Domo."
+"Yamamoto Akuji (talking)";"おう。 持ってきたぜ。";"Oh. I brought it.";"Oh. Lo he traído."
+"karasuba  tsuki (talking)";"わかりました。 ここじゃーアレなんで、奥へどーぞ。";"I understand. This is not the right place, so please go to the back.";"Vale, lo entiendo. Este no es el lugar adecuado, así que por favor vaya al fondo."
+"Yamamoto Akuji (talking)";"ああ。";"Oh.";"Oh."
+"karasuba  tsuki (talking)";"それじゃーさっそく。 各種担当者に渡す口止め料ですがー…";"Well then, let's get started. Here's the hush money to be given to the various personnel…";"Bueno, entonces, sigamos con ello. El dinero que le damos a los distintos funcionarios…"
+"Yamamoto Akuji (talking)";"ああ、用意している。";"Yeah, I'm prepared.";"Sí, estoy preparado."
+"karasuba  tsuki (talking)";"それじゃあ、お預かりしておきますね。
+あーそれとー。
+悪司さん。 こーいうものが必要な言動は、 出来るだけ避けた方がいいですよ。
+僕も、西に東に、悪司さんの キレーなお尻の始末に、精一杯で…";"I'll leave it with you then.
+Oh, and, uh…
+Akuji. You should avoid saying or doing anything that requires this kind of thing as much as possible.
+I, too, am doing my best to get to the end of Mr. Akuji's beautiful ass, Hajime, in the west and the east…";"Lo dejaré con usted entonces.
+Oh, y, uh…
+Akuji. Debes evitar en lo posible las palabras y los hechos que requieren este tipo de cosas.
+Yo también estoy haciendo todo lo posible para llegar al final del hermoso culo del Sr. Akuji, Hajime…"
+"Yamamoto Akuji (talking)";"幸せそうじゃねーか。";"You look happy, don't you?";"Te ves feliz, ¿no?"
+"karasuba  tsuki (talking)";"はははははは。";"Ha ha ha ha.";"Ja, ja, ja."
+"Yamamoto Akuji (talking)";"まったく、大した役人だぜ。";"What a great official, indeed.";"Qué gran funcionario, ciertamente."
+"karasuba  tsuki (talking)";"いやー、それほどでも。";"Oh no, not so much.";"Oh no, no tanto."
+"narrator";"悪司は賄賂を支払う為に、 市議会へとやってきた。";"Akuji came to the city council to pay the bribe.";"Akuji acudió al ayuntamiento para pagar el soborno."
+"karasuba  tsuki (talking)";"~~~~………";"~~~~………";"~~~~………"
+"Yamamoto Akuji (talking)";"なんだ？ ショボイ顔して。";"What the hell? You look shabby.";"¿Qué es eso? Tienes un aspecto lamentable."
+"karasuba  tsuki (talking)";"きつい~~。";"Tight~~.";"Apretado~."
+"Yamamoto Akuji (talking)";"何が？ ベルトがか？";"What? The belt?";"¿Qué? ¿El cinturón?"
+"karasuba  tsuki (talking)";"違います！ 悪司さん、今回は無理です。
+金だろーが、僕だろーが、 どーにもなりまっせ~ん。
+ちょうど中央からやってきた代議士先生が 知ってしまって、もうカンカンになって 怒っているんですよ。
+なまいきで~す。 潰しますよ~って……";"No, sir! Mr. Akuji, I can't do it this time.
+Money or not, I can't help you.
+The delegate who just came from the center of the country knows about it, and he's already furious.
+He's just pissed off. I'm going to crush you……";"¡No, señor! Señor Akuji, esta vez es imposible.
+Con dinero o sin él, no puedo ayudarte.
+El delegado del centro se acaba de enterar y está furioso.
+Sólo está cabreado. Te voy a aplastar……"
+"Yamamoto Akuji (talking)";"なんだ、女か。";"What, a woman?";"¿Qué, una mujer?"
+"karasuba  tsuki (talking)";"頭にタマネギつけたババアです。";"I'm an old lady with Tamanegi on my head.";"Soy una anciana con Tamanegi en la cabeza."
+"Yamamoto Akuji (talking)";"………まあ……電気消しゃ、 なんとかなるけどな。 俺がいくか？";"……… Well,…… if you turn off the lights, we can manage. You want me to go?";"……… Bueno,…… si apagas las luces, podemos arreglarnos. ¿Quieres que me vaya?"
+"karasuba  tsuki (talking)";"それも駄目です。 だって、青葉さんが話し合いに参加する ならいいって言ってるから……";"That's no good either. Because Aoba says she's willing to participate in the discussion: ……";"Eso tampoco es bueno. Porque Aoba dice que está dispuesta a participar en la discusión……"
+"Yamamoto Akuji (talking)";"なんだ？ ウーマンリブって奴か？";"What's that? Is this some kind of women's lib thing?";"¿Qué es eso? ¿Es una especie de liberación de la mujer?"
+"karasuba  tsuki (talking)";"ババーレズです。";"Babarez.";"Babarez."
+"Yamamoto Akuji (talking)";"あ~…… めんどくせ、殺すか？";"Oh~…… is it a pain in the ass, Satsu?";"Ah~…… ¿Es una molestia, Satsu?"
+"karasuba  tsuki (talking)";"どーしてそう、極論にいくかな~。
+向こうが青葉さんって名指ししてん だったら、彼女に特別接待させりゃ いいじゃないですか。";"Why do you go to such extremes?
+If they call her Aoba, why don't they give her a special reception?";"¿Por qué llegan a esos extremos?
+Si la otra parte se refiere a ella como Aoba, ¿por qué no darle una recepción especial?"
+"Yamamoto Akuji (talking)";"そうだな、そーするか。 青葉、行け。";"Yeah, let's do that. Aoba, go.";"Bien, hagamos eso. Aoba, ve."
+"Aoba Youko (talking)";"そ、そんなっ……";"Oh, no, no, no……";"Oh, no……"
+"Yamamoto Akuji (talking)";"取って食われるような事は ねーだろ。 相手は年寄りだし。";"It's not like they're going to take it and eat it. They are old people.";"No es que vayan a cogerlo y comérselo. Son personas mayores."
+"Aoba Youko (talking)";"……でも……";"…… but also ……";"…… pero también ……"
+"Yamamoto Akuji (talking)";"行け。";"Go.";"Ir a."
+"Aoba Youko (talking)";"……わかったわ… やればいいんでしょう…… ………もう………";"…… Okay… I know you can do it…… ……… already ………";"…… Vale… sólo tienes que hacerlo…… ……… ya ………"
+"cg narrator";"「先生、本日はお疲れ様でした。 　さあどうぞ、お呑み下さい。 　さあ、曜子さん、お酌して差し上げて」
+ 「っ………っ~っ……」
+曜子は、徳利を手に固まり、震えている。
+ 「曜子さん」
+ 「っ……はっ……」
+ 「あら、曜子さん、どうしたのかしら？ 　お酌して頂けないの？」
+ 「っ…はっ……はい…い、いいえ… 　す、すみません…どうぞ…」
+ 「あら、可愛らしい手。 　嬉しいわぁ、こんな手でお酌されて」
+ 「はっ…はい……」
+ 「あなた、人妻なんですって？」
+ 「はっ…はい……」
+ 「まー、とてもそうには見えないわぁ。 　夜の生活が、あなたをそうさせているのかしら？ 　まーー」
+ 「っ……」
+代議士の言葉に、青葉はかっと頬を朱に染める。
+ 「ところで、先生。 　さっきの件なんですが……」
+ 「ああ、見てみぬフリをしろって 　言われていたのでしたっけ？」
+そう言いながら、代議士は青葉の手に、 しわくちゃの手を重ねた。
+ （ひっ……！）
+青葉は、怪物にふれられたかのように、息を飲む。
+ 「そーねー、どうしましょうかしらねー。 　知ってしまったものを、知らんぷりはねー」
+と、言葉を続け、青葉の手をすりすりと 掌で愛撫する。
+ （な、何っ……この人……）
+青葉は恐怖に固まって動けない。
+ 「青葉さんからもお願いして下さいよ。 　君は、あの奉仕青年団の団長でしょ？」
+ 「わっ……私は……」
+ 「あらまあ、そうだったの！」
+代議士はぐっと青葉の手を掴む。
+ 「は、はい……」
+ 「彼女はまったく、右も左もわからない状態で、 　あの団をあそこまで大きくしたんですよ」
+ 「まー、すごいじゃない！ 　立派だわー」
+ 「っ…そ、そんな…私……」
+ 「青葉さん、その団を潰したくはないですよね？」
+鴉葉の言葉に、青葉が当惑する。
+ 「そ、それは……」
+ 「あら、それは大変ね。 　自分の団を守らなくてはいけないって事よね」
+ 「っ……それ……は……」
+ 「自分の団の為ですから…… 　しかたないですよね？」
+ 「鴉葉さん……？」
+鴉葉は、机の上にホテルのキーを置いた。
+ 「この上の最上階に、お部屋を取っておきました」
+ 「あらまあ、気のきくボーヤだこと。 　あなた、見込みあるわ~」
+ 「ありがとうございます」
+ 「鴉葉さん、これって……」
+ 「青葉さん、君も大人なんだから、 　わかってるよね？」
+ 「っ…………」
+ 「それでは、青葉さん。 　どういたしましょうかしら？」
+ 「えっ……」
+ 「わたくし、このまま帰って処分を決定して 　もいいんですのよ？」
+ 「そんな……」
+ 「でもねえ、青葉さんの行動ひとつで、 　わたくし、見て見ぬフリも出来ますのよ？」
+ 「…………………」
+ 「さあ、青葉さん……」
+鴉葉は青葉の手から、徳利を取った。
+ 「私…」
+ 「早く決めて頂けないかしら？ 　わたくし、これでも忙しい身なんですよ」
+ 「………………」
+青葉は震える手を、代議士の方に差し出した。";"Thank you for your hard work today, doctor. 　Please drink. 　Come on, Youko, pour him a drink.”
+ “Oh, ………~~~…….”
+Youko froze and trembled with the sake cup in her hand.
+ 'Youko-san.
+ 'Youko is …….'
+Oh, Youko, what's wrong? 　Can't you pour me a drink?”
+ “Yes… ha…… yes… no… no… sorry… please…”
+Oh, my, what lovely hands. 　I'm so happy to be served by such hands.
+ “Ha… yes……”
+You're married, aren't you?
+ “Ha…yes……”
+ “Well, you don't look very much like one. 　I wonder if it is your night life that makes you so? 　Well…
+ …….”
+The delegate's words made Aoba's cheeks turn vermilion.
+The first thing that comes to mind is that the first thing that comes to mind is that you are a good person. 　By the way, sir, about the matter you just mentioned,…….
+The actuality of the fact that the particulars are not really a problem, it's just a matter of time before they'll be available.
+ 
+ (Hiccup! ……!)
+Aoba gulped as if she had been touched by a monster.
+I don't know what to do. 　I can't just ignore what I already know.
+He continues his words and caresses Aoba's hand with his palm.
+ (What is…… this person ……?)
+Aoba was frozen in fear and couldn't move.
+Please, Aoba, do me a favor. 　You're the head of that service youth group, right?”
+ 'Wow…… I'm …….'
+Oh my goodness, you are!”
+The delegate firmly grabs Aoba's hand.
+ “Yes, yes …….”
+She made that group that big with absolutely no idea what she was doing.
+ “Wow, that's amazing! 　That's great.
+ “Oh, no, no, no, I'm ………”
+Mr. Aoba, you don't want to destroy the group, do you?
+Aoba is perplexed by Karasuba's words.
+That's …….”
+Oh, that's tough. 　I have to protect my group, don't I?
+That's…… for ……'s ……'s ……'s ……'s …….
+ “It's for your own group, ……, can't you do anything about it?”
+ “Karasuba, ……?”
+Karasuba put the hotel key on the desk.
+I've saved you a room on the top floor above this one.
+Oh, my, you're a very thoughtful boya. 　You've got potential.
+Thank you.
+Mr. Karasuba, this is …….
+Mr. Aoba, you're a grown man, you know that, don't you?
+ …………
+Okay, Mr. Aoba. 　How can I help you?
+What ……
+I can go home and decide what to do with it, can't I?
+Oh, no……
+ “But, you know, I could turn a blind eye to your actions, Mr. Aoba.
+ …………………
+Now, Mr. Aoba, ……
+The Karasuba took the cup from Aoba's hand.
+I…”
+I'm not sure how long it will take you to decide. 　I'm still a very busy man.
+ ………………”
+Aoba held out her trembling hand toward the delegate.";"'Gracias por su duro trabajo de hoy, doctor. 　Aquí tienes, por favor, bebe. 　Vamos, Youko, sírvele un trago”.
+ '………~~……'
+Youko está congelada y temblando con la copa de sake en la mano.
+ 'Youko-san.
+ 'Youko ha…….'
+ 'Oh, Youko-san, ¿qué pasa? 　¿No puedes servirme un trago?”
+ 'H… ha…… sí… no… lo siento… por favor…'
+ 'Oh, qué manos más bonitas. 　Estoy muy contento de ser atendido por tales manos.
+Ja… sí……
+Estás casado, ¿no?
+Ja… sí……
+ 'Bueno, no te pareces mucho a uno. 　Me pregunto si es tu vida nocturna la que te hace ser así. 　Bueno…
+Sí…….”
+Las palabras del delegado hicieron que las mejillas de Aoba se volvieran de color bermellón.
+ 'Por cierto, señor. 　Por cierto, señor, sobre el asunto que acaba de mencionar, …….”
+ “Oh, ¿te han dicho que finjas que no lo has visto?
+El rostro de la mujer también estaba un poco enrojecido.
+ (¡Hic ……!)
+Aoba traga saliva, como si le tocara un monstruo.
+ 'Bueno, no sé qué hacer. 　'Bueno, no sé, no puedo ignorar lo que sé ahora'.
+La mujer continúa con sus palabras y acaricia la mano de Aoba con la palma.
+ (¿Qué?…… esta persona ……)
+Aoba se quedó helada de miedo y no pudo moverse.
+ 'Por favor, Aoba, hazme un favor. 　Usted es el jefe de ese grupo juvenil de servicio, ¿verdad?”
+ 'Wow…… soy …….'
+ “¡Oh, Dios mío, lo eres!
+El delegado agarra con firmeza la mano de Aoba.
+ “Sí, sí …….
+Ha hecho el grupo tan grande sin tener la menor idea de lo que estaba haciendo.
+ ¡Vaya, eso es increíble! 　Eso es genial.
+Oh, no, no, no, estoy ………
+Señor Aoba, no querrá destruir esa compañía, ¿verdad?”
+El Aoba se queda perplejo ante las palabras de Karasuba.
+ 'Bueno, eso es …….'
+ 'Oh, eso es duro. 　Significa que tienes que proteger a tu propio grupo.
+ 'Oh, eso es ……, eso es ……, eso es …….'
+Es para tu propia compañía, así que…… no puedes evitarlo, ¿verdad?”
+Karasuba, ……?
+Karasuba puso las llaves del hotel en el escritorio.
+ 'Te he guardado una habitación en el piso superior de aquí.
+ 'Oh, Dios, eres un chico inteligente. 　Tienes potencial.
+Gracias.
+Sr. Karasuba, este es …….
+Aoba, eres un adulto, lo sabes, ¿no?
+ …………
+Bien, Sr. Aoba. 　¿En qué puedo ayudarle?
+Qué ……
+Puedo ir a casa y decidir qué hacer contigo, ¿no?
+Oh, no……
+Pero podría hacer la vista gorda ante su comportamiento, señor Aoba.
+ …………………
+Vamos, Aoba, ……
+Karasuba tomó la copa de la mano de Aoba.
+ 'I…
+ ¿Podría decidirse rápidamente? 　Soy un hombre muy ocupado.
+ '………………'
+Aoba extendió su mano temblorosa hacia el delegado."
+"__system__??";"{CG_MODE = 1:";"";""
+"__system__??";"}";"";""
+"Aoba Youko (talking)";"……………";"……………";"……………"
+"Yamamoto Akuji (talking)";"おう、おはよーさん。 聞いたぜ、うまくやってくれた そーじゃねーか。";"Oh, good morning. I heard you did good.";"Oh, buenos días. Lo he oído, lo has hecho bien."
+"Aoba Youko (talking)";"…………悪司さん……";"…………Akuji Mr……";"…………Akuji ……"
+"Yamamoto Akuji (talking)";"ん~？";"Hmm?";"¿Hmm?"
+"Aoba Youko (talking)";"こういう事は、もう二度と 引き受けませんからね！！";"I will never take on something like this again!";"¡No volveré a aceptar estas cosas!"
+"Yamamoto Akuji (talking)";"孕まされるような事、されなかったろ。 女相手なんだからよ。 いーじゃねーか。";"You didn't do anything to me that would get me impregnated. You're dealing with a woman. That's fine.";"No me hiciste nada que me impregnara. Estás tratando con una mujer. Eso es bueno, ¿no?"
+"Aoba Youko (talking)";"よくないです！！ まだエロジジイの方がマシだったわ！！";"Not good! I'd still rather have been an elodie!";"¡No es bueno! ¡Sigue siendo mejor con Elodie!"
+"Yamamoto Akuji (talking)";"どんな事されたんだ？";"What did they do to you?";"¿Qué te han hecho?"
+"Aoba Youko (talking)";"うっ……
+っ………っ……
+うわーーっ……！！";"U……
+Wow! ………! ……
+Woohoo ……!";"U……
+Ugh……… y ……
+ ¡¡¡Wooo……!!!"
+"Yamamoto Akuji (talking)";"……泣く程の事か……";"…… Is it enough to cry about? ……";"…… ¿Merece la pena llorar? ……"
+"narrator";"　このラベルは無くなりました。";"This label is no longer available.";"Esta etiqueta ya no está disponible."
+" (talking)";"さて……
+悪司さーん、今回は少し骨が 折れますよ。
+ちょっと計算してみたんですけどね… 色々、溜まってて……
+はい。 各方面の先生方に送る額は、計算したら （☆賄賂）０万です。";"Well, ……
+Dear Akuji, this time it will be a bit more difficult.
+I've been doing some calculations… and I've accumulated a lot of things……
+I've been working on it for a while now. I calculated the amount of money to be sent to the professors in each area is (☆ bribe).";"Ahora ……
+Señor Akuji, esta vez va a ser un poco más difícil.
+He hecho algunos cálculos… y se acumulan muchas cosas……
+Sí, he hecho los cálculos. He calculado la cantidad a enviar a los profesores de cada zona, y es de (☆ soborno)."
+"Yamamoto Akuji (talking)";"ほら。 工面してきた。";"See? I've been working on it.";"Voilà. He estado trabajando en ello."
+" (talking)";"はい、お疲れさまでした。
+後ですねー… 言いにくいんですが……
+さすがに、これだけ事件が起こると 市議会の人間の見解だと、「犠牲者」が 必要かなーと。";"Yes, thank you for your time.
+After… I hate to say it, but ……
+As I said, with this many incidents, I'm wondering if, in the view of those on the City Council, we need a “victim.”";"Sí, gracias por su tiempo.
+Después de… odio decirlo……
+Como es de esperar, cuando se producen tantos incidentes, a juicio de los responsables del ayuntamiento, me pregunto si necesitamos una “víctima”."
+"Yamamoto Akuji (talking)";"ムショ行きか。 しかたねーな……";"Going to jail, huh? ShikaTane-na ……";"Ir a la cárcel. ShikaTane-na……"
+"narrator";"（部下を選ぶコマンド・・）";"(Commands to select subordinates…)";"(Comando para seleccionar a los subordinados…)"
+"karasuba  tsuki (talking)";"ＸＸＸＸＸさんですね、分かりました。 近日中に事件の責任者って事で 出頭させといて下さいね。";"You must be Mr. XXXXXXXX, I understand. Please have him appear before me in the near future as the person responsible for the incident.";"Debes ser XXXXXXXX, lo entiendo. Le ruego que comparezca ante mí en los próximos días como responsable del incidente."
+"Yamamoto Akuji (talking)";"わかった。";"I understand.";"Entendido."
+"__system__??";"{RND \ 0:";"";""
+"Aoba Youko (talking)";"悪司さん、今のは、あんまりかと…";"Akuji, I don't think that was too much…";"Akuji, no creo que haya sido demasiado…"
+"Yamamoto Akuji (talking)";"じゃあ、お前が代わってやるか？";"So you want me to take over for you?";"¿Así que quieres hacerte cargo?"
+"Aoba Youko (talking)";"うっ……";"Ugh……";"Ugh……"
+"Yamamoto Akuji (talking)";"いい子だな、青葉。 だからだまっとけ。";"You're a good girl, Aoba. So shut up.";"Eres una buena chica, Aoba. Así que cállate."
+"Aoba Youko (talking)";"……………";"……………";"……………"
+"__system__??";"}";"";""
+"Aoba Youko (talking)";"それでですねー… もーー困りますよ、悪司さーーん。
+お金で事件をもみ消すといっても 限度があるんですよ。
+今のままだと、市議会なんてちっちゃい とこだけじゃなくって、中央のお役所の 面々から文句つけられちゃいますよー。";"So… I'm in trouble, Mr. Akuji.
+There is a limit to how much money you can use to cover up a case.
+If things continue as they are now, not only a small city council but also the central bureaucracy will complain about it.";"Así que… es un problema, señor Akuji.
+Hay un límite a la cantidad de dinero que se puede utilizar para cubrir un caso.
+Si las cosas siguen como hasta ahora, recibirás quejas no sólo del pequeño ayuntamiento, sino también de la burocracia central."
+"Yamamoto Akuji (talking)";"悪い悪い。";"Sorry, sorry.";"Mal, mal, mal."
+"Aoba Youko (talking)";"はぁー… ちっとも反省してる顔じゃない。";"Huh… You don't look remorseful at all.";"Huh… no pareces arrepentido en absoluto."
+"Yamamoto Akuji (talking)";"なんとかしてくれよ。";"Do something about it.";"Haz algo al respecto."
+"Aoba Youko (talking)";"わかってます…わかってますけどねー…
+でも今回は高くつきますよ。 各方面の先生方には （☆賄賂）０万円支払ってもらいます。";"I know…I know…but…
+But it's going to be expensive this time. We will ask all the teachers to pay (☆ bribe) .";"Lo sé… lo sé… pero…
+Pero esta vez va a ser caro. Haremos que los profesores de todas las partes paguen (☆ soborno) 0 millones de yenes."
+"Yamamoto Akuji (talking)";"わかった。";"I understand.";"Entendido."
+"Aoba Youko (talking)";"それから、ある程度、地位のある人を 出して下さい。 全てその人の責任にしますので。";"Also, please send a person of some standing. We will make that person responsible for everything.";"Entonces, por favor, envíe a alguien con alguna posición. Haremos a esa persona responsable de todo."
+"Yamamoto Akuji (talking)";"さて、誰にまずいメシを食って もらうかな…";"Now, let's see who's going to give me a bad meal…";"Ahora vamos a ver quién me va a dar una mala comida…"
+"narrator";"（部下を選ぶコマンド）";"(command to select subordinate)";"(Mando para seleccionar a los subordinados)."
+"__system__??";"{Bキャラ > 499:";"";""
+"karasuba  tsuki (talking)";"ＸＸＸＸさんですか。 駄目です、こんな小物じゃ。 向こうは納得してくれませんよ。
+もっと偉い人を選んで下さいよ。";"Are you Mr. XXXX? No, not with such a small thing. They won't be convinced.
+Please choose someone more important.";"¿Es usted XXXX? No, no con una cosa tan pequeña. No se convencerán.
+Por favor, elige a alguien más importante."
+"__system__??";"}";"";""
+"karasuba  tsuki (talking)";"ＸＸＸＸさんですか、 わかりました。 それでは近日中に出頭させて下さい。";"Mr. XXXX, yes. Then please allow me to appear before you in the near future.";"Sr. XXXX, sí. Entonces, por favor, déjeme comparecer ante usted en breve."
+"Yamamoto Akuji (talking)";"わかった。 後はよろしく頼む。";"Okay, I'll take care of the rest. Take care of the rest.";"De acuerdo, me encargaré del resto. Ocúpate del resto."
+"karasuba  tsuki (talking)";"ほんと、こんな大規模な処理は 困りますよ。 次から気をつけて下さいよ。";"Really, we can't afford this kind of large-scale processing. Please be careful next time.";"Realmente, este tipo de procesamiento a gran escala es preocupante. Tengan cuidado la próxima vez, por favor."
+"Yamamoto Akuji (talking)";"ああ。";"Oh.";"Oh."
+"Yamamoto Akuji (thinking)";"さーて、じゃあドンパチを……
+と、待てよ。 その前にハルセの市議会に行って、 監督官に会ってねーじゃねぇか。
+裏から手ぇ回してない状態でドンパチ 始めたら、あっという間に、懲罰警察の エジキじゃねぇか。
+うーん…メンドクセェけど、 ハルセに行ってからだなぁ。";"Alright, then, let's have a don't-miss: ……
+And wait a minute. Before that, you didn't go to the city council meeting in Halse to meet with the supervisor, did you?
+If we go to Hajime without any backstage help, we'll be a punitive police force in no time.
+Well…it's a pain in the ass, but I guess I'll just have to wait until I get to Halse.";"Muy bien, entonces, vamos a tener un golpe de burro: ……
+Y espera un momento. Antes de eso, no ibas al ayuntamiento de Halse y te reunías con el supervisor.
+Si vas a Hajime Hajime sin ninguna ayuda entre bastidores, en poco tiempo serás un saco de boxeo para la policía disciplinaria.
+Bueno… es un fastidio, pero supongo que tendré que ir a Halse primero."
