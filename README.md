@@ -44,7 +44,7 @@ The 1st field indicate who is talking, assuming my python script could figure it
 
 The 2nd field is the Japanese text, the 3rd is English, the 4th is Spanish.
 
-Text get's automatically wrapped on the recompilation process so there is no need to worry about text length (However if the text is too long it might exceed the 3 lines of the text block, it's not a big issue, since those get automatically wrap into a new text block, but it would be better not to).
+Text gets automatically wrapped on the recompilation process so there is no need to worry about text length (However if the text is too long it might exceed the 3 lines of the text block, it's not a big issue, since those get automatically wrap into a new text block, but it would be better not to).
 in each cell, line breaks are treated as block breaks. For example in `プロローグ.csv` at the begging Akuji says:
 
 ```
