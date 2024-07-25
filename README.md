@@ -14,7 +14,7 @@ There has been a lot of MTL errors already fixed and I know there are still a lo
 
 Since the text generated here is made with UTF-8, to play this game, you need kichikou's implementation of system3 virtual machine: [xsystem35-sdl2](https://github.com/kichikuou/xsystem35-sdl2)(Tested) or [system35-sdl2](https://github.com/kichikuou/system3-sdl2)(Not tested).
 
-In order to play the game you should acquire a legal copy of the game, downloads the `.tar.gz` files from the Releases, extract them and copy the files
+In order to play the game you should acquire a legal copy of the game, downloads the `.tar.gz` files from [the Releases](https://github.com/fcolecumberri/Doddler_Bizarre_Adventure_in_the_Matriarchy/releases), extract them and copy the files
 `大悪司WA.ALD`,
 `大悪司DA.ALD`,
 `大悪司BA.ald`,
