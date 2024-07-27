@@ -1,279 +1,279 @@
-"character";"jap text";"Eng";"Esp"
-"__system__??";"{麦 = 10:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 11:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 12:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 13:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 15:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 16:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 18:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 19:";"";""
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"よう。";"Yo.";"Yo."
-"Komatsu Mai (talking)";"あああ！！ あの時の非国民！！";"Aaah! The unpatriotic at that time!";"¡Aaah! ¡La gente antipatriótica de esa época!"
-"Yamamoto Akuji (talking)";"今は俺がボスで、あんたは捕虜だがな。";"I'm the boss now, and you're my prisoner.";"Ahora soy el jefe, y tú eres mi prisionero."
-"Komatsu Mai (talking)";"は？？";"Huh?";"¿Eh?"
-"Yamamoto Akuji (talking)";"俺は市議会の依頼で、 あんたを捕まえた。
-市議会の方から引き渡し命令が なかったので、捕虜にしている。";"I captured you at the request of the city council.
-The city council didn't give me an extradition order, so I'm holding you prisoner.";"Te capturé a petición del ayuntamiento.
+"character","jap text","Eng","Esp"
+"__system__??","{麦 = 10:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 11:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 12:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 13:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 15:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 16:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 18:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 19:","",""
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","よう。","Yo.","Yo."
+"Komatsu Mai (talking)","あああ！！ あの時の非国民！！","Aaah! The unpatriotic at that time!","¡Aaah! ¡La gente antipatriótica de esa época!"
+"Yamamoto Akuji (talking)","今は俺がボスで、あんたは捕虜だがな。","I'm the boss now, and you're my prisoner.","Ahora soy el jefe, y tú eres mi prisionero."
+"Komatsu Mai (talking)","は？？","Huh?","¿Eh?"
+"Yamamoto Akuji (talking)","俺は市議会の依頼で、 あんたを捕まえた。
+市議会の方から引き渡し命令が なかったので、捕虜にしている。","I captured you at the request of the city council.
+The city council didn't give me an extradition order, so I'm holding you prisoner.","Te capturé a petición del ayuntamiento.
 El ayuntamiento no me dio una orden de extradición, así que te tengo preso."
-"Komatsu Mai (talking)";"だったら、さっさと釈放するっす！ あたしには大事な使命があるっす！";"Then I'll let you go right now! I have an important mission!";"¡Entonces te dejaré ir de inmediato! ¡Tengo una misión importante!"
-"Yamamoto Akuji (talking)";"反対運動か？ そのせいで、ここに捕まっちまってる のに？";"A counter-protest? That's why you're stuck here.";"¿La contraprotesta? ¿Por eso estás atrapado aquí?"
-"Komatsu Mai (talking)";"苦ぅぅ！！
-市議会も、お前も、アレもソレも、 ナニもかも、みんな、みんな、みんな、 非国民っす！";"Bitter!
-The City Council, you, that thing, that thing, that thing, that thing, that thing, that thing, that thing, everyone, everyone, everyone, is unpatriotic!";"¡Amargo!
+"Komatsu Mai (talking)","だったら、さっさと釈放するっす！ あたしには大事な使命があるっす！","Then I'll let you go right now! I have an important mission!","¡Entonces te dejaré ir de inmediato! ¡Tengo una misión importante!"
+"Yamamoto Akuji (talking)","反対運動か？ そのせいで、ここに捕まっちまってる のに？","A counter-protest? That's why you're stuck here.","¿La contraprotesta? ¿Por eso estás atrapado aquí?"
+"Komatsu Mai (talking)","苦ぅぅ！！
+市議会も、お前も、アレもソレも、 ナニもかも、みんな、みんな、みんな、 非国民っす！","Bitter!
+The City Council, you, that thing, that thing, that thing, that thing, that thing, that thing, that thing, everyone, everyone, everyone, is unpatriotic!","¡Amargo!
  ¡El Ayuntamiento, tú, esa cosa, esa cosa, esa cosa, todo, todos, todos, todos, son antipatriotas!"
-"Yamamoto Akuji (talking)";"非国民ばんざーい。";"Hurrah for the unpatriotic.";"Hurra por los antipatriotas."
-"Komatsu Mai (talking)";"馬鹿にするっすかーーー！！！！！ ま、負けないっすよーー！！！";"You're making fun of me… ！！！！！Well, I won't lose!";"Te vas a burlar de mí… ！！！！！¡No voy a perder!"
-"Yamamoto Akuji (talking)";"おう。 ちっとはおとなしくするつもりに なったか？";"Oh. You're going to be a little quiet now, aren't you?";"Oh. Vas a estar un poco más tranquilo ahora, ¿no?"
-"Komatsu Mai (talking)";"さっさと、ここから出すっす！ このままだとエデンが完成して しまうっす！";"Let's get this thing out of here! If we don't, Eden will be complete!";"¡Sácame de aquí! ¡Si no lo hacemos, el Edén estará completo!"
-"Yamamoto Akuji (talking)";"さっさと完成した方が、物資がニホン側に 回ってきていーじゃねーか。";"The sooner it is completed, the better it will be for the Japanese side to get supplies.";"Cuanto antes se complete, mejor será para la parte japonesa el abastecimiento."
-"Komatsu Mai (talking)";"そんな事じゃないっす！ ウィミィは、あたしの両親を 殺した敵国っす！
-敵国の人間が、このニホンでのうのうと しているのは、許せないっす！";"That's not what I'm talking about! Wime is the enemy country that Satsu my parents!
-I can't allow people from an enemy country to live here in Japan!";"¡No estoy hablando de eso! ¡Wime es el país enemigo que Satsu a mis padres!
+"Yamamoto Akuji (talking)","非国民ばんざーい。","Hurrah for the unpatriotic.","Hurra por los antipatriotas."
+"Komatsu Mai (talking)","馬鹿にするっすかーーー！！！！！ ま、負けないっすよーー！！！","You're making fun of me… ！！！！！Well, I won't lose!","Te vas a burlar de mí… ！！！！！¡No voy a perder!"
+"Yamamoto Akuji (talking)","おう。 ちっとはおとなしくするつもりに なったか？","Oh. You're going to be a little quiet now, aren't you?","Oh. Vas a estar un poco más tranquilo ahora, ¿no?"
+"Komatsu Mai (talking)","さっさと、ここから出すっす！ このままだとエデンが完成して しまうっす！","Let's get this thing out of here! If we don't, Eden will be complete!","¡Sácame de aquí! ¡Si no lo hacemos, el Edén estará completo!"
+"Yamamoto Akuji (talking)","さっさと完成した方が、物資がニホン側に 回ってきていーじゃねーか。","The sooner it is completed, the better it will be for the Japanese side to get supplies.","Cuanto antes se complete, mejor será para la parte japonesa el abastecimiento."
+"Komatsu Mai (talking)","そんな事じゃないっす！ ウィミィは、あたしの両親を 殺した敵国っす！
+敵国の人間が、このニホンでのうのうと しているのは、許せないっす！","That's not what I'm talking about! Wime is the enemy country that Satsu my parents!
+I can't allow people from an enemy country to live here in Japan!","¡No estoy hablando de eso! ¡Wime es el país enemigo que Satsu a mis padres!
  ¡No puedo permitir que gente de un país enemigo viva aquí en Japón!"
-"Yamamoto Akuji (talking)";"結構、ヘビーな話だなー…";"That's a pretty hefty story…";"Es una historia bastante fuerte…"
-"Komatsu Mai (talking)";"だから、解放するっすー！";"So, I'll let you go!";"¡Así que te dejaré ir!"
-"Yamamoto Akuji (talking)";"さーて、足、開いてもらおうか。";"Now, let's get your legs open.";"Ahora, vamos a abrir las piernas."
-"Komatsu Mai (talking)";"な、なんすか、それーー！";"What is that?";"¿Qué demonios es eso?"
-"Yamamoto Akuji (talking)";"天国に連れてってやるよ。";"I'll take you to heaven.";"Te llevaré al cielo."
-"Komatsu Mai (talking)";"さ、最悪っす！！ 大体、えっちは天国なんかじゃないっす！ 我慢、辛抱、闘争っす！！
+"Yamamoto Akuji (talking)","結構、ヘビーな話だなー…","That's a pretty hefty story…","Es una historia bastante fuerte…"
+"Komatsu Mai (talking)","だから、解放するっすー！","So, I'll let you go!","¡Así que te dejaré ir!"
+"Yamamoto Akuji (talking)","さーて、足、開いてもらおうか。","Now, let's get your legs open.","Ahora, vamos a abrir las piernas."
+"Komatsu Mai (talking)","な、なんすか、それーー！","What is that?","¿Qué demonios es eso?"
+"Yamamoto Akuji (talking)","天国に連れてってやるよ。","I'll take you to heaven.","Te llevaré al cielo."
+"Komatsu Mai (talking)","さ、最悪っす！！ 大体、えっちは天国なんかじゃないっす！ 我慢、辛抱、闘争っす！！
 あたしは、ウィミィ人５人に集団レイプ されても、負けなかったっすー！
-たかが摩擦行為で、あたしの鉄の意志は 破壊されないっすよー！！";"That's the worst! In general, sex is not heaven! It's about endurance, patience, and struggle!
+たかが摩擦行為で、あたしの鉄の意志は 破壊されないっすよー！！","That's the worst! In general, sex is not heaven! It's about endurance, patience, and struggle!
 I was gang raped by 5 Wime men and I didn't lose!
-My iron will will not be destroyed by a mere act of friction!";"¡Eso es lo peor! En general, ¡el sexo no es el cielo! Es la paciencia, la perseverancia y la lucha.
+My iron will will not be destroyed by a mere act of friction!","¡Eso es lo peor! En general, ¡el sexo no es el cielo! Es la paciencia, la perseverancia y la lucha.
  ¡Fui violado en grupo por cinco Wime men y no perdí!
  ¡Mi voluntad de hierro no será destruida por un simple acto de fricción!"
-"Yamamoto Akuji (talking)";"そーか、そーか。";"Oh, yeah.";"Ah, sí."
-"Komatsu Mai (talking)";"だーかーらー！！";"That's all I'm saying!";"¡No estoy hablando de eso!"
-"Komatsu Mai (talking)";"小松舞の意志は、豆腐のようだった。";"The will of Komatsu Mai was like tofu.";"La voluntad de Komatsu Mai era como el tofu."
-"Komatsu Mai (talking)";"…………はわわわ~……";"………… is wow~ ……";"………… wow~ ……"
-"Yamamoto Akuji (talking)";"さーて、ごっそーさん。";"Well, Gosso-san.";"Muy bien, Gosso-san."
-"Komatsu Mai (talking)";"え、も、もう終わ――";"Oh, no, I'm done--";"Oh, Dios mío, se acabó…"
-"Yamamoto Akuji (talking)";"ん~？";"Hmm?";"¿Hmm?"
-"Komatsu Mai (talking)";"うぐっ！！";"Ugh!";"¡¡¡Uf!!!"
-"Yamamoto Akuji (talking)";"鉄の意志は、どーなったんだい？";"What happened to the iron will?";"¿Qué pasó con la voluntad de hierro?"
-"Komatsu Mai (talking)";"あ、あたしは何も言ってないっす！";"Oh, I didn't say anything!";"¡Oh, no he dicho nada!"
-"Yamamoto Akuji (talking)";"これをやるから、おとなしくしてな。";"I'm going to give you this, so just be quiet.";"Te voy a dar esto, así que cállate."
-"narrator";"と、悪司が舞に差し出したのは、 さくら餅だった。";"Akuji offered Mai a cherry blossom cake.";"Y Akuji le ofreció a Mai un pastel de flores de cerezo."
-"Komatsu Mai (talking)";"………ごくっ……";"………Great ……";"……… muy……"
-"Yamamoto Akuji (talking)";"ホンマモンのあんこと、もち米だぜ。";"It's real red bean paste and glutinous rice.";"Auténtica pasta de judías rojas y arroz glutinoso."
-"Komatsu Mai (talking)";"………………
+"Yamamoto Akuji (talking)","そーか、そーか。","Oh, yeah.","Ah, sí."
+"Komatsu Mai (talking)","だーかーらー！！","That's all I'm saying!","¡No estoy hablando de eso!"
+"Komatsu Mai (talking)","小松舞の意志は、豆腐のようだった。","The will of Komatsu Mai was like tofu.","La voluntad de Komatsu Mai era como el tofu."
+"Komatsu Mai (talking)","…………はわわわ~……","………… is wow~ ……","………… wow~ ……"
+"Yamamoto Akuji (talking)","さーて、ごっそーさん。","Well, Gosso-san.","Muy bien, Gosso-san."
+"Komatsu Mai (talking)","え、も、もう終わ――","Oh, no, I'm done--","Oh, Dios mío, se acabó…"
+"Yamamoto Akuji (talking)","ん~？","Hmm?","¿Hmm?"
+"Komatsu Mai (talking)","うぐっ！！","Ugh!","¡¡¡Uf!!!"
+"Yamamoto Akuji (talking)","鉄の意志は、どーなったんだい？","What happened to the iron will?","¿Qué pasó con la voluntad de hierro?"
+"Komatsu Mai (talking)","あ、あたしは何も言ってないっす！","Oh, I didn't say anything!","¡Oh, no he dicho nada!"
+"Yamamoto Akuji (talking)","これをやるから、おとなしくしてな。","I'm going to give you this, so just be quiet.","Te voy a dar esto, así que cállate."
+"narrator","と、悪司が舞に差し出したのは、 さくら餅だった。","Akuji offered Mai a cherry blossom cake.","Y Akuji le ofreció a Mai un pastel de flores de cerezo."
+"Komatsu Mai (talking)","………ごくっ……","………Great ……","……… muy……"
+"Yamamoto Akuji (talking)","ホンマモンのあんこと、もち米だぜ。","It's real red bean paste and glutinous rice.","Auténtica pasta de judías rojas y arroz glutinoso."
+"Komatsu Mai (talking)","………………
  ……ぱく……
- ……甘いっす… 美味いっす……";"………………
+ ……甘いっす… 美味いっす……","………………
  ……paku……
- ……Sweet… Delicious… ……";"………………
+ ……Sweet… Delicious… ……","………………
  ……paku……
  ……Dulce… Delicioso……"
-"Yamamoto Akuji (talking)";"茶、いるかい？";"Tea, you want some?";"Té, ¿estás ahí?"
-"Komatsu Mai (talking)";"はいっす。";"Yes, sir.";"Sí, señor."
-"Yamamoto Akuji (talking)";"ほらよ。";"There you go.";"Ver."
-"Komatsu Mai (talking)";"ずず……はぁ~~… しみるっすね~… 美味いっすね~~……";"Zuzu…… hah~… it stings… it's delicious… ……";"Zuzu…… haa~… pica… sabe bien… ……"
-"Yamamoto Akuji (talking)";"よかったな。";"Good for you.";"Bien por ti."
-"Komatsu Mai (talking)";"………………";"………………";"………………"
-"Komatsu Mai (thinking)";"ひょっとして…… この人、いい人っすか？";"By any chance, is…… this guy a good guy?";"Por casualidad…… ¿Es esta persona una buena persona?"
-"Yamamoto Akuji (talking)";"………おい。";"……… Hey.";"……… Hey."
-"Komatsu Mai (talking)";"なんすか？";"What is it?";"¿Qué es?"
-"Yamamoto Akuji (talking)";"喧嘩とかは、得意か？";"Are you good at fighting or something?";"¿Eres bueno en las peleas y demás?"
-"Komatsu Mai (talking)";"体力勝負はだめっす。 話し合いのがいいっす。";"Physical competition is no good. Talking is better.";"La competencia física no es buena. Hablar es mejor."
-"Yamamoto Akuji (talking)";"そっか……";"I see: ……";"Ya veo: ……"
-"Yamamoto Akuji (thinking)";"つー事は、戦闘で使う部下には 出来ねーって事だな。";"This means that my men can't be used in combat.";"Lo que significa que no pueden ser utilizados por sus subordinados en combate."
-" (talking)";"はんたーーい、はんたーーい！！";"HANTAI, HANTAI!!!";"¡Hantaaa, hantaaa, hantaaa!"
-"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
-"Komatsu Mai (talking)";"はんたーーいっす！！ エデン建設はんたーーい！！
-出てけ、外国人ー！！ 田舎帰れーー！！ おとといこーーいっす！！";"Eden Construction is soooo cool! Eden Construction is soooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!
-Get out, foreigners! Go back to the country! Come back day after day!";"¡Eden Construction Hantaaaa! ¡Oposición a la construcción de Eden!
+"Yamamoto Akuji (talking)","茶、いるかい？","Tea, you want some?","Té, ¿estás ahí?"
+"Komatsu Mai (talking)","はいっす。","Yes, sir.","Sí, señor."
+"Yamamoto Akuji (talking)","ほらよ。","There you go.","Ver."
+"Komatsu Mai (talking)","ずず……はぁ~~… しみるっすね~… 美味いっすね~~……","Zuzu…… hah~… it stings… it's delicious… ……","Zuzu…… haa~… pica… sabe bien… ……"
+"Yamamoto Akuji (talking)","よかったな。","Good for you.","Bien por ti."
+"Komatsu Mai (talking)","………………","………………","………………"
+"Komatsu Mai (thinking)","ひょっとして…… この人、いい人っすか？","By any chance, is…… this guy a good guy?","Por casualidad…… ¿Es esta persona una buena persona?"
+"Yamamoto Akuji (talking)","………おい。","……… Hey.","……… Hey."
+"Komatsu Mai (talking)","なんすか？","What is it?","¿Qué es?"
+"Yamamoto Akuji (talking)","喧嘩とかは、得意か？","Are you good at fighting or something?","¿Eres bueno en las peleas y demás?"
+"Komatsu Mai (talking)","体力勝負はだめっす。 話し合いのがいいっす。","Physical competition is no good. Talking is better.","La competencia física no es buena. Hablar es mejor."
+"Yamamoto Akuji (talking)","そっか……","I see: ……","Ya veo: ……"
+"Yamamoto Akuji (thinking)","つー事は、戦闘で使う部下には 出来ねーって事だな。","This means that my men can't be used in combat.","Lo que significa que no pueden ser utilizados por sus subordinados en combate."
+" (talking)","はんたーーい、はんたーーい！！","HANTAI, HANTAI!!!","¡Hantaaa, hantaaa, hantaaa!"
+"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
+"Komatsu Mai (talking)","はんたーーいっす！！ エデン建設はんたーーい！！
+出てけ、外国人ー！！ 田舎帰れーー！！ おとといこーーいっす！！","Eden Construction is soooo cool! Eden Construction is soooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!
+Get out, foreigners! Go back to the country! Come back day after day!","¡Eden Construction Hantaaaa! ¡Oposición a la construcción de Eden!
  ¡Fuera, extranjeros! ¡Vuelve al campo! ¡Vuelve al campo!"
-"narrator";"女の子が一人でプラカードを持ち、 大声でエデン建設反対を訴えている。
-その子と悪司の目が合った。";"A girl was holding a placard and loudly protesting against the construction of Eden.
-The girl and Akuji's eyes met.";"Una chica sola, con una pancarta en la mano, protesta en voz alta contra la construcción del Edén.
+"narrator","女の子が一人でプラカードを持ち、 大声でエデン建設反対を訴えている。
+その子と悪司の目が合った。","A girl was holding a placard and loudly protesting against the construction of Eden.
+The girl and Akuji's eyes met.","Una chica sola, con una pancarta en la mano, protesta en voz alta contra la construcción del Edén.
 Los ojos de la chica y de Akuji se encontraron."
-"Komatsu Mai (talking)";"あなたは、ニホン人っすね！？";"You are a Japanese, aren't you!";"Eres un japonés, ¿verdad?"
-"Yamamoto Akuji (talking)";"ああ。";"Oh.";"Oh."
-"Komatsu Mai (talking)";"だったら、はいっす。 一緒に反対運動を！";"Then, yes. Together, we will campaign against it!";"Entonces, sí. Juntos hacemos campaña contra ella."
-"Yamamoto Akuji (talking)";"おいおい、ここまで出来ているのに、 反対運動をしたって無駄だろう。 なんてったってニホンは敗戦国だしな。";"Come on, it's no use campaigning against the project when it's already this far along. After all, Japan is a defeated country.";"Vamos, no sirve de nada hacer una campaña en contra cuando está tan avanzada. Después de todo, Japón es un país derrotado."
-"Komatsu Mai (talking)";"そんな事を言っているからっ……っ…
-こほっ… こほっこほっ…";"Because I say so… ………
-Ho-ho-ho…";"Porque tú lo dices………
+"Komatsu Mai (talking)","あなたは、ニホン人っすね！？","You are a Japanese, aren't you!","Eres un japonés, ¿verdad?"
+"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
+"Komatsu Mai (talking)","だったら、はいっす。 一緒に反対運動を！","Then, yes. Together, we will campaign against it!","Entonces, sí. Juntos hacemos campaña contra ella."
+"Yamamoto Akuji (talking)","おいおい、ここまで出来ているのに、 反対運動をしたって無駄だろう。 なんてったってニホンは敗戦国だしな。","Come on, it's no use campaigning against the project when it's already this far along. After all, Japan is a defeated country.","Vamos, no sirve de nada hacer una campaña en contra cuando está tan avanzada. Después de todo, Japón es un país derrotado."
+"Komatsu Mai (talking)","そんな事を言っているからっ……っ…
+こほっ… こほっこほっ…","Because I say so… ………
+Ho-ho-ho…","Porque tú lo dices………
 Ho-ho-ho…"
-"Yamamoto Akuji (talking)";"おいおい、大丈夫か？";"Hey, hey, hey. You okay?";"Oye, oye, oye, ¿estás bien?"
-"Komatsu Mai (talking)";"平気っす！！";"I'm fine!";"¡Estoy bien!"
-"narrator";"その時。 エデンの方から、ウィミィ語が けたたましく響いた。";"At that time. The Wime language rang out loudly from Eden.";"En ese momento. La lengua Wime sonó con fuerza desde el Edén."
-"Komatsu Mai (talking)";"やばいっす！ 逃げるっす！！";"Oh no! I've got to get out of here!";"¡Oh, no! ¡Tenemos que salir de aquí!"
-"narrator";"女の子は、素早く逃げ出した。";"The girl ran away quickly.";"La chica hizo una rápida huida."
-"uimiiheishi (talking)";"そこの奴！！ ここで叫んでたガキ、どこ行った？";"Hey, you there! The kid who was yelling here, where'd he go?";"¡Oye, tú! El chico que gritaba aquí, ¿a dónde fue?"
-"Yamamoto Akuji (talking)";"逃げちゃいましたぜ。";"I've run away, you know.";"Me he escapado, tío."
-"narrator";"酷いスラングのウィミィ語で 悪司は答えた。";"In the terrible slang Wime language Akuji replied.";"En el terrible lenguaje de la jerga Wime contestó Akuji."
-"uimiiheishi (talking)";"ったく！！ いつもいつも、うるさい蠅だ！！
-次にきたら、またつっこんでやる！ 今度は、ガキの生めない躰にしてやるぜ！";"Damn! Always, always, always, a fly in the ointment!
-Next time you come back, I'm going to put you back in! This time, I'm gonna make you a bastard!";"¡Oh, por el amor de Dios! ¡Siempre has sido una mosca ruidosa!
+"Yamamoto Akuji (talking)","おいおい、大丈夫か？","Hey, hey, hey. You okay?","Oye, oye, oye, ¿estás bien?"
+"Komatsu Mai (talking)","平気っす！！","I'm fine!","¡Estoy bien!"
+"narrator","その時。 エデンの方から、ウィミィ語が けたたましく響いた。","At that time. The Wime language rang out loudly from Eden.","En ese momento. La lengua Wime sonó con fuerza desde el Edén."
+"Komatsu Mai (talking)","やばいっす！ 逃げるっす！！","Oh no! I've got to get out of here!","¡Oh, no! ¡Tenemos que salir de aquí!"
+"narrator","女の子は、素早く逃げ出した。","The girl ran away quickly.","La chica hizo una rápida huida."
+"uimiiheishi (talking)","そこの奴！！ ここで叫んでたガキ、どこ行った？","Hey, you there! The kid who was yelling here, where'd he go?","¡Oye, tú! El chico que gritaba aquí, ¿a dónde fue?"
+"Yamamoto Akuji (talking)","逃げちゃいましたぜ。","I've run away, you know.","Me he escapado, tío."
+"narrator","酷いスラングのウィミィ語で 悪司は答えた。","In the terrible slang Wime language Akuji replied.","En el terrible lenguaje de la jerga Wime contestó Akuji."
+"uimiiheishi (talking)","ったく！！ いつもいつも、うるさい蠅だ！！
+次にきたら、またつっこんでやる！ 今度は、ガキの生めない躰にしてやるぜ！","Damn! Always, always, always, a fly in the ointment!
+Next time you come back, I'm going to put you back in! This time, I'm gonna make you a bastard!","¡Oh, por el amor de Dios! ¡Siempre has sido una mosca ruidosa!
  ¡La próxima vez que vuelvas, te pondré de nuevo! ¡Esta vez, te voy a convertir en un bastardo!"
-"narrator";"ウィミィの男は唾を吐くと、 そこから去った。";"The Wime man spit and left.";"El hombre Wime le escupió y se fue."
-"Yamamoto Akuji (thinking)";"あの嬢ちゃん、強姦されても 反対運動やってんのか。 結構、根性入ってんな…";"That little girl is still campaigning against rape? She's got a lot of guts…";"Esa niña, ¿fue violada y todavía hace campaña contra ella? Eso es muy valiente…"
-" (talking)";"はんたーーい、はんたーーい！！";"HANTAI, HANTAI!!!";"¡Hantaaa, hantaaa, hantaaa!"
-"Yamamoto Akuji (talking)";"どっかで聞いたよーな…";"I heard that somewhere…";"He oído eso en alguna parte…"
-"Komatsu Mai (talking)";"はんたーーーいっす！！ エデン建設、はんたーーい！！";"Eden Construction, Hantaaaayyyy! Eden Construction, Hantaaaay!";"¡¡¡Hantaaaayyy!!! Construcciones Eden, ¡Hantaaaayyyy!"
-"Yamamoto Akuji (talking)";"やっぱし、あの嬢ちゃんか。";"I knew it, that young lady.";"Lo sabía, esa jovencita."
-"Komatsu Mai (talking)";"造るなー！ 外人に住居を造る前に、 我々国民の家を建てろっすーー！！
-非国民っすーー！！ ウィミィの犬ーー！！ 最低っすーー！！";"Don't build it! Before you build houses for foreigners, build houses for us, the people!
-You are unpatriotic! Dog of Wime! You are disgusting!";"¡No lo construyas! Antes de construir casas para los extranjeros, construyan casas para nosotros, el pueblo.
+"narrator","ウィミィの男は唾を吐くと、 そこから去った。","The Wime man spit and left.","El hombre Wime le escupió y se fue."
+"Yamamoto Akuji (thinking)","あの嬢ちゃん、強姦されても 反対運動やってんのか。 結構、根性入ってんな…","That little girl is still campaigning against rape? She's got a lot of guts…","Esa niña, ¿fue violada y todavía hace campaña contra ella? Eso es muy valiente…"
+" (talking)","はんたーーい、はんたーーい！！","HANTAI, HANTAI!!!","¡Hantaaa, hantaaa, hantaaa!"
+"Yamamoto Akuji (talking)","どっかで聞いたよーな…","I heard that somewhere…","He oído eso en alguna parte…"
+"Komatsu Mai (talking)","はんたーーーいっす！！ エデン建設、はんたーーい！！","Eden Construction, Hantaaaayyyy! Eden Construction, Hantaaaay!","¡¡¡Hantaaaayyy!!! Construcciones Eden, ¡Hantaaaayyyy!"
+"Yamamoto Akuji (talking)","やっぱし、あの嬢ちゃんか。","I knew it, that young lady.","Lo sabía, esa jovencita."
+"Komatsu Mai (talking)","造るなー！ 外人に住居を造る前に、 我々国民の家を建てろっすーー！！
+非国民っすーー！！ ウィミィの犬ーー！！ 最低っすーー！！","Don't build it! Before you build houses for foreigners, build houses for us, the people!
+You are unpatriotic! Dog of Wime! You are disgusting!","¡No lo construyas! Antes de construir casas para los extranjeros, construyan casas para nosotros, el pueblo.
  ¡Eres un antipatriota! ¡Perros de Wime! ¡Son los perros de Wime!"
-"haniidobokushain (talking)";"や、やめて下さい！ 迷惑です！";"No, please don't! You're bothering me!";"¡No, por favor, no! ¡Me estás molestando!"
-"Komatsu Mai (talking)";"いやっすー！ やめないっすー！！ はんたーーい！！";"No! I won't stop! I won't stop!";"¡No! ¡No voy a parar! ¡No voy a parar!"
-"Yamamoto Akuji (talking)";"そのぐらいにしてあげな。 この人達も、商売しなきゃ、 生活かかってんだからさ。";"That's enough. These people have to do business. Their livelihood depends on it.";"Es suficiente. Estas personas tienen que hacer negocios, su sustento depende de ello."
-"Komatsu Mai (talking)";"あれ、あんた、この前の…";"Hey, you, the other day…";"Oye, tú, la última vez…"
-"Yamamoto Akuji (talking)";"元気だねー。 色んなとこで。";"You're doing well. In many places.";"Lo estás haciendo bien. En muchos lugares."
-"Komatsu Mai (talking)";"あんたは、いいんっすか！？ このままじゃあ、ウィミィがニホンを 乗っ取ってしまうっすよ！？";"Are you okay with this? If this continues, Wime will take over Japan!";"¿Seguro que estás de acuerdo con esto? ¡Si esto continúa, el Wime se apoderará de Japón!"
-"Yamamoto Akuji (talking)";"その時はアレだ。 ナニがソレで。";"That's it then. It's the thing.";"Esa es la cuestión entonces. Nani es la cosa."
-"Komatsu Mai (talking)";"わかんないっすー！";"I don't know!";"¡No lo sé!"
-"Yamamoto Akuji (talking)";"わかったわかった。 ほら、おとなしく帰りなさい。 市議会から怖い人達がくるぞー。";"All right, all right. Now, go home quietly. Scary people from the city council are coming.";"Muy bien, muy bien. Toma, vete a casa tranquilamente. Viene gente del ayuntamiento que da miedo."
-"Komatsu Mai (talking)";"くーー！！ あんたも非国民っすーー！！";"Damn it! You are also a non-patriot!";"¡Eres un no-patriota! ¡También eres un no-patriota!"
-"Yamamoto Akuji (talking)";"非国民ねー…… もう流行らないぜ、その言葉。";"Unpatriotic nee…… It's not trendy anymore, that word.";"Unpatriotic nee…… Ya no está de moda esa palabra."
-"Komatsu Mai (talking)";"むきーー！！ はらたつっすーー！！ 正義は勝つっすよー！！";"Muki! I'm so hungry! Justice will prevail!";"¡Muki-oo! ¡Tengo mucha hambre! La justicia prevalecerá."
-"narrator";"女の子は、プリプリと怒って立ち去った。";"The girl walked away, prissy and angry.";"La chica se alejó, preñada y enfadada."
-" (talking)";"だから、あなたではだめっす！！ 市長に会わせて下さい！！";"So, not you! I need to see the mayor!";"¡Así que no puedes ser tú! ¡Necesito ver al alcalde!"
-"Yamamoto Akuji (talking)";"んー？";"Hmm?";"¿Hmm?"
-"Komatsu Mai (talking)";"エデンはだめっす！ あれはニホンに害しか もたらさないっす！";"No Eden! It will bring nothing but harm to Japan!";"¡Nada de Edén! No traerá más que daño a Japón."
-"shigikaishokuin (talking)";"そんな事、言われてもね~…";"That's not what they told me~…";"Eso no es lo que me dijeron…"
-"Komatsu Mai (talking)";"あたし、集めてきたっす！ エデン建設反対署名っす！ ２３名分っす！";"I've been collecting signatures! Signatures against the construction of Eden! 23 signatures!";"¡Los he estado coleccionando! Firmas contra la construcción del Edén ¡23 firmas!"
-"shigikaishokuin (talking)";"２３…";"２３…";"２３…"
-"Komatsu Mai (talking)";"小数でも、貴重な市民の意見っす！ これを、市長のとこに持っていかせて 下さい！
-これを持って、即行でエデン建設中止を お願いするっす！";"It may be a small number, but it's valuable citizen opinion! Let me take this to the mayor!
-I request you to stop the construction of Eden immediately with this!";"Aunque sólo sea una fracción, es una opinión pública valiosa. ¡Déjame llevarle esto al alcalde!
+"haniidobokushain (talking)","や、やめて下さい！ 迷惑です！","No, please don't! You're bothering me!","¡No, por favor, no! ¡Me estás molestando!"
+"Komatsu Mai (talking)","いやっすー！ やめないっすー！！ はんたーーい！！","No! I won't stop! I won't stop!","¡No! ¡No voy a parar! ¡No voy a parar!"
+"Yamamoto Akuji (talking)","そのぐらいにしてあげな。 この人達も、商売しなきゃ、 生活かかってんだからさ。","That's enough. These people have to do business. Their livelihood depends on it.","Es suficiente. Estas personas tienen que hacer negocios, su sustento depende de ello."
+"Komatsu Mai (talking)","あれ、あんた、この前の…","Hey, you, the other day…","Oye, tú, la última vez…"
+"Yamamoto Akuji (talking)","元気だねー。 色んなとこで。","You're doing well. In many places.","Lo estás haciendo bien. En muchos lugares."
+"Komatsu Mai (talking)","あんたは、いいんっすか！？ このままじゃあ、ウィミィがニホンを 乗っ取ってしまうっすよ！？","Are you okay with this? If this continues, Wime will take over Japan!","¿Seguro que estás de acuerdo con esto? ¡Si esto continúa, el Wime se apoderará de Japón!"
+"Yamamoto Akuji (talking)","その時はアレだ。 ナニがソレで。","That's it then. It's the thing.","Esa es la cuestión entonces. Nani es la cosa."
+"Komatsu Mai (talking)","わかんないっすー！","I don't know!","¡No lo sé!"
+"Yamamoto Akuji (talking)","わかったわかった。 ほら、おとなしく帰りなさい。 市議会から怖い人達がくるぞー。","All right, all right. Now, go home quietly. Scary people from the city council are coming.","Muy bien, muy bien. Toma, vete a casa tranquilamente. Viene gente del ayuntamiento que da miedo."
+"Komatsu Mai (talking)","くーー！！ あんたも非国民っすーー！！","Damn it! You are also a non-patriot!","¡Eres un no-patriota! ¡También eres un no-patriota!"
+"Yamamoto Akuji (talking)","非国民ねー…… もう流行らないぜ、その言葉。","Unpatriotic nee…… It's not trendy anymore, that word.","Unpatriotic nee…… Ya no está de moda esa palabra."
+"Komatsu Mai (talking)","むきーー！！ はらたつっすーー！！ 正義は勝つっすよー！！","Muki! I'm so hungry! Justice will prevail!","¡Muki-oo! ¡Tengo mucha hambre! La justicia prevalecerá."
+"narrator","女の子は、プリプリと怒って立ち去った。","The girl walked away, prissy and angry.","La chica se alejó, preñada y enfadada."
+" (talking)","だから、あなたではだめっす！！ 市長に会わせて下さい！！","So, not you! I need to see the mayor!","¡Así que no puedes ser tú! ¡Necesito ver al alcalde!"
+"Yamamoto Akuji (talking)","んー？","Hmm?","¿Hmm?"
+"Komatsu Mai (talking)","エデンはだめっす！ あれはニホンに害しか もたらさないっす！","No Eden! It will bring nothing but harm to Japan!","¡Nada de Edén! No traerá más que daño a Japón."
+"shigikaishokuin (talking)","そんな事、言われてもね~…","That's not what they told me~…","Eso no es lo que me dijeron…"
+"Komatsu Mai (talking)","あたし、集めてきたっす！ エデン建設反対署名っす！ ２３名分っす！","I've been collecting signatures! Signatures against the construction of Eden! 23 signatures!","¡Los he estado coleccionando! Firmas contra la construcción del Edén ¡23 firmas!"
+"shigikaishokuin (talking)","２３…","２３…","２３…"
+"Komatsu Mai (talking)","小数でも、貴重な市民の意見っす！ これを、市長のとこに持っていかせて 下さい！
+これを持って、即行でエデン建設中止を お願いするっす！","It may be a small number, but it's valuable citizen opinion! Let me take this to the mayor!
+I request you to stop the construction of Eden immediately with this!","Aunque sólo sea una fracción, es una opinión pública valiosa. ¡Déjame llevarle esto al alcalde!
 Lleva esto al alcalde y pídele que detenga la construcción de Edén inmediatamente."
-"shigikaishokuin (talking)";"いや、だから~。";"No, so~.";"No, así que…"
-"Yamamoto Akuji (talking)";"その辺にしときな、嬢ちゃん。";"You leave it at that, girl.";"Sigue así, chica."
-"Komatsu Mai (talking)";"あーー！！ あんたは、非国民の仲間ー！！";"Aah! You're one of the unpatriotic ones!";"¡Ah! ¡Eres uno de los antipatriotas!"
-"Yamamoto Akuji (talking)";"今、人に迷惑かけてんのは、 嬢ちゃんの方だぜ。 ほれ、後ろ。";"You're the one who's getting people in trouble right now. Here, behind you.";"Ahora eres tú el que está metiendo a la gente en problemas. Aquí, detrás de ti."
-"Komatsu Mai (talking)";"えっ……";"Eh ……";"Eh ……"
-"narrator";"女の子が後ろを見ると、受け付け前に たくさんの人が待っていた。";"When the girl looked behind her, she saw many people waiting in front of the reception desk.";"Cuando la chica miró detrás de ella, vio un montón de gente esperando delante de la recepción."
-"Yamamoto Akuji (talking)";"あんたがグダグダ言ってる間に、 こんだけの人が待つ事になっちまってん だけどな。";"While you've been yammering on and on, we've had to wait for more people.";"Mientras tú has estado parloteando, un montón de gente ha estado esperando."
-"Komatsu Mai (talking)";"くっ…くぅぅ~~~！
+"shigikaishokuin (talking)","いや、だから~。","No, so~.","No, así que…"
+"Yamamoto Akuji (talking)","その辺にしときな、嬢ちゃん。","You leave it at that, girl.","Sigue así, chica."
+"Komatsu Mai (talking)","あーー！！ あんたは、非国民の仲間ー！！","Aah! You're one of the unpatriotic ones!","¡Ah! ¡Eres uno de los antipatriotas!"
+"Yamamoto Akuji (talking)","今、人に迷惑かけてんのは、 嬢ちゃんの方だぜ。 ほれ、後ろ。","You're the one who's getting people in trouble right now. Here, behind you.","Ahora eres tú el que está metiendo a la gente en problemas. Aquí, detrás de ti."
+"Komatsu Mai (talking)","えっ……","Eh ……","Eh ……"
+"narrator","女の子が後ろを見ると、受け付け前に たくさんの人が待っていた。","When the girl looked behind her, she saw many people waiting in front of the reception desk.","Cuando la chica miró detrás de ella, vio un montón de gente esperando delante de la recepción."
+"Yamamoto Akuji (talking)","あんたがグダグダ言ってる間に、 こんだけの人が待つ事になっちまってん だけどな。","While you've been yammering on and on, we've had to wait for more people.","Mientras tú has estado parloteando, un montón de gente ha estado esperando."
+"Komatsu Mai (talking)","くっ…くぅぅ~~~！
 きょっ…今日のところは、 これぐらいにしておいてあげるっす！
-またくるっす！ その時は、市長と会わせるっすよ！！";"K…ku~~~!
+またくるっす！ その時は、市長と会わせるっすよ！！","K…ku~~~!
 That's enough for today!
-I'll be back! And when I do, I'll take you to see the mayor!";"¡Kuh… kuh~~!
+I'll be back! And when I do, I'll take you to see the mayor!","¡Kuh… kuh~~!
  ¡Ya es suficiente por hoy!
  ¡Volveré! ¡Y cuando lo haga, te llevaré a ver al alcalde!"
-"Yamamoto Akuji (talking)";"元気な嬢ちゃんだなー。
-おっと。 鴉葉さんに会わせてくんないかい？";"You're a very energetic young lady.
-Oops. Can you take me to see Mr. Karasuba?";"¡Eres una joven alegre!
+"Yamamoto Akuji (talking)","元気な嬢ちゃんだなー。
+おっと。 鴉葉さんに会わせてくんないかい？","You're a very energetic young lady.
+Oops. Can you take me to see Mr. Karasuba?","¡Eres una joven alegre!
 Uy. ¿Puedes llevarme a ver Karasuba?"
-"shigikaishokuin (talking)";"あ、はい、わかりました。";"Ah, yes, I understand.";"Ah, sí, lo entiendo."
-"Mori Kaoru (talking)";"失礼します、市長。";"Excuse me, Mr. Mayor.";"Disculpe, Sr. Alcalde."
-"Nakayama Akari (talking)";"はい、どうしました？";"Yes, how can I help you?";"Sí, ¿cómo puedo ayudarle?"
-"Mori Kaoru (talking)";"ウィミィ――エデン建設関係者より 苦情が入っています。
-エデン建設反対を唱え続けている少女を 処分して欲しいとの旨です。";"Wime--We have received a complaint from Eden Construction officials.
-They want the girl who has been speaking out against the construction of Eden to be destroyed.";"Hemos recibido una queja de los funcionarios de Eden Construction.
+"shigikaishokuin (talking)","あ、はい、わかりました。","Ah, yes, I understand.","Ah, sí, lo entiendo."
+"Mori Kaoru (talking)","失礼します、市長。","Excuse me, Mr. Mayor.","Disculpe, Sr. Alcalde."
+"Nakayama Akari (talking)","はい、どうしました？","Yes, how can I help you?","Sí, ¿cómo puedo ayudarle?"
+"Mori Kaoru (talking)","ウィミィ――エデン建設関係者より 苦情が入っています。
+エデン建設反対を唱え続けている少女を 処分して欲しいとの旨です。","Wime--We have received a complaint from Eden Construction officials.
+They want the girl who has been speaking out against the construction of Eden to be destroyed.","Hemos recibido una queja de los funcionarios de Eden Construction.
 Quieren que se destruya a la chica que ha estado hablando en contra de la construcción del Edén."
-"Nakayama Akari (talking)";"あ~~… 小松舞さんの事ね。
-そういえば彼女、エデン建設現場 だけでなく、ハニー土木の方にも 反対運動活動しているらしいわね。";"Oh~…you mean Komatsu Mai.
-By the way, I heard that she is not only working for Eden construction site, but also for Hanny civil engineering company.";"Oh~… te refieres a Komatsu Mai.
+"Nakayama Akari (talking)","あ~~… 小松舞さんの事ね。
+そういえば彼女、エデン建設現場 だけでなく、ハニー土木の方にも 反対運動活動しているらしいわね。","Oh~…you mean Komatsu Mai.
+By the way, I heard that she is not only working for Eden construction site, but also for Hanny civil engineering company.","Oh~… te refieres a Komatsu Mai.
 He oído que está haciendo campaña no sólo contra la obra de Edén, sino también contra Hanny Ingeniería Civil."
-"Mori Kaoru (talking)";"ハニー土木の方からはこれといった 苦情は届いてません。";"We have not received any complaints from Hanny Civil Engineering.";"No se ha recibido ninguna queja de este tipo por parte de Hanny Civil Engineering."
-"Nakayama Akari (talking)";"頑張り屋さんねー、彼女。";"You're a hard worker, girl.";"Eres un gran trabajador - ella."
-"Mori Kaoru (talking)";"市長。 あなたがそのような反応では 困ります。
+"Mori Kaoru (talking)","ハニー土木の方からはこれといった 苦情は届いてません。","We have not received any complaints from Hanny Civil Engineering.","No se ha recibido ninguna queja de este tipo por parte de Hanny Civil Engineering."
+"Nakayama Akari (talking)","頑張り屋さんねー、彼女。","You're a hard worker, girl.","Eres un gran trabajador - ella."
+"Mori Kaoru (talking)","市長。 あなたがそのような反応では 困ります。
 ニホンは敗戦国であり、ウィミィの 支配下にあります。
-よって、私達がウィミィに逆らう事は 出来ないのですよ。";"Mayor. I find it troubling that you would react that way.
+よって、私達がウィミィに逆らう事は 出来ないのですよ。","Mayor. I find it troubling that you would react that way.
 Japan is a defeated country and under the control of Wime.
-Therefore, we cannot go against Wime.";"Alcalde. Me parece preocupante que reaccione de esa manera.
+Therefore, we cannot go against Wime.","Alcalde. Me parece preocupante que reaccione de esa manera.
 Japón es un país derrotado y está bajo el control de Wime.
 Por lo tanto, no podemos ir en contra de Wime."
-"Nakayama Akari (talking)";"わかってますよ。 でも私、小松さんの気持ち、 ちょっとわかってしまうから…
-それに、彼女は反対を唱えているだけで、 法にふれるような事はしてないわ。";"I understand. But I kind of understand how you feel.
-Besides, she's just speaking out against it, she's not breaking any laws.";"Lo entiendo. Pero entiendo un poco cómo se siente Komatsu…
+"Nakayama Akari (talking)","わかってますよ。 でも私、小松さんの気持ち、 ちょっとわかってしまうから…
+それに、彼女は反対を唱えているだけで、 法にふれるような事はしてないわ。","I understand. But I kind of understand how you feel.
+Besides, she's just speaking out against it, she's not breaking any laws.","Lo entiendo. Pero entiendo un poco cómo se siente Komatsu…
 Además, sólo está hablando en contra, no está infringiendo ninguna ley."
-"Mori Kaoru (talking)";"それではウィミィが黙っていません。 罪状など、こちらでつければいい事です。";"Wime will not be silent on this. We can add the charges, etc. here.";"Entonces Wime no se callará. Podemos poner los cargos y demás aquí."
-"Nakayama Akari (talking)";"乱暴じゃない？";"Isn't that a little rough?";"¿No es demasiado duro?"
-"Mori Kaoru (talking)";"そうしなければ、市議会にウィミィの 矛先が回ってくる事になりますよ。";"If you don't, the City Council will have to bear the brunt of the Wime.";"Si no lo hace, el Ayuntamiento tendrá que cargar con el peso del Wime."
-"Nakayama Akari (talking)";"でもー…";"But…";"Pero…"
-"Mori Kaoru (talking)";"わかりました。 この件は、私が処理します。";"Understood. I will handle this matter.";"Entendido. Yo me encargaré de este asunto."
-"Nakayama Akari (talking)";"森さ~ん。";"Mori.";"Mori."
-"karasuba  tsuki (talking)";"てな訳で、僕がお使いを頼まれちゃって。";"That's why I was asked to run an errand.";"Por eso me pidieron que hiciera un recado."
-"Yamamoto Akuji (talking)";"ふーん。";"Hmmm.";"Hmmm."
-"karasuba  tsuki (talking)";"なんとか出来る？ あの、小松って子。";"Can you manage it? Um, a girl named Komatsu.";"¿Puede usted manejarlo? Um, una chica llamada Komatsu."
-"Yamamoto Akuji (talking)";"ひでー話だねー。 あんな小娘の戯言に、ウィミィがピリピリ して、市議会まで動かすなんざー。";"It's a terrible story, isn't it? Wime is so upset over that little girl's nonsense that they even moved the city council.";"Es una historia terrible. Wime está tan molesto por las tonterías de esa niña que incluso tiene al ayuntamiento en el punto de mira."
-"karasuba  tsuki (talking)";"ほんっと、大人げないよね。 そんな事してる暇があったら、ニホンに 遊園地でも作ってくれた方がいいよねー。
+"Mori Kaoru (talking)","それではウィミィが黙っていません。 罪状など、こちらでつければいい事です。","Wime will not be silent on this. We can add the charges, etc. here.","Entonces Wime no se callará. Podemos poner los cargos y demás aquí."
+"Nakayama Akari (talking)","乱暴じゃない？","Isn't that a little rough?","¿No es demasiado duro?"
+"Mori Kaoru (talking)","そうしなければ、市議会にウィミィの 矛先が回ってくる事になりますよ。","If you don't, the City Council will have to bear the brunt of the Wime.","Si no lo hace, el Ayuntamiento tendrá que cargar con el peso del Wime."
+"Nakayama Akari (talking)","でもー…","But…","Pero…"
+"Mori Kaoru (talking)","わかりました。 この件は、私が処理します。","Understood. I will handle this matter.","Entendido. Yo me encargaré de este asunto."
+"Nakayama Akari (talking)","森さ~ん。","Mori.","Mori."
+"karasuba  tsuki (talking)","てな訳で、僕がお使いを頼まれちゃって。","That's why I was asked to run an errand.","Por eso me pidieron que hiciera un recado."
+"Yamamoto Akuji (talking)","ふーん。","Hmmm.","Hmmm."
+"karasuba  tsuki (talking)","なんとか出来る？ あの、小松って子。","Can you manage it? Um, a girl named Komatsu.","¿Puede usted manejarlo? Um, una chica llamada Komatsu."
+"Yamamoto Akuji (talking)","ひでー話だねー。 あんな小娘の戯言に、ウィミィがピリピリ して、市議会まで動かすなんざー。","It's a terrible story, isn't it? Wime is so upset over that little girl's nonsense that they even moved the city council.","Es una historia terrible. Wime está tan molesto por las tonterías de esa niña que incluso tiene al ayuntamiento en el punto de mira."
+"karasuba  tsuki (talking)","ほんっと、大人げないよね。 そんな事してる暇があったら、ニホンに 遊園地でも作ってくれた方がいいよねー。
  ――なんて事、言ってらんないんだよ、 僕も。
-悪司さーん、うんって言ってよー。 でないと僕、市議会帰れないんだよー。 森さん、すんげーこえーんだよー。";"It's really not very mature, is it? If they have time to do that, they should build an amusement park in Japan.
+悪司さーん、うんって言ってよー。 でないと僕、市議会帰れないんだよー。 森さん、すんげーこえーんだよー。","It's really not very mature, is it? If they have time to do that, they should build an amusement park in Japan.
  --I can't even say that.
-Akuji, please say yes. Otherwise, I can't go back to the city council. Mr. Mori, you're so scary!";"Realmente no es muy maduro. Si tienen tiempo para eso, deberían construir un parque de atracciones en Japón.
+Akuji, please say yes. Otherwise, I can't go back to the city council. Mr. Mori, you're so scary!","Realmente no es muy maduro. Si tienen tiempo para eso, deberían construir un parque de atracciones en Japón.
  --ni siquiera puedo decir eso.
 Sr. Akuji, diga que sí. De lo contrario, ¡no puedo volver al ayuntamiento! Sr. Mori, ¡usted sí que da miedo!"
-"Yamamoto Akuji (talking)";"よしよし、そんな嘆くなよ。 あの嬢ちゃん…小松舞を捕まえて、 お前さんに渡したらいいんだろ。";"All right, don't be so sad. Just grab that little girl…Komatsu Mai and hand her over to you.";"Muy bien, no estés tan triste. Agarra a esa niña… Komatsu Mai y entrégala."
-"karasuba  tsuki (talking)";"引き受けてくれる？";"Will you take care of it?";"¿Lo aceptarías?"
-"Yamamoto Akuji (talking)";"ああ。 で、どんな罰則で？";"Oh. And with what penalty?";"Oh. ¿Y con qué sanciones?"
-"karasuba  tsuki (talking)";"うーん……行方不明になって もらった方がいいかなー。";"Hmmm…… I'd better ask her to go missing…";"Hmmm…… Mejor le pido que desaparezca…"
-"Yamamoto Akuji (talking)";"どうしてだ？";"Why?";"¿Por qué?"
-"karasuba  tsuki (talking)";"だって、罪状つけて逮捕して、 ウィミィの方がよこせっつってきたら、 彼女何されるか、わかんないもん。";"I don't know what they will do to her if they charge her with a crime and arrest her and Wime demands that she give it to them.";"Porque si la acusamos de un delito y la detenemos y Wime nos la quiere dar, no sé qué le harán."
-"Yamamoto Akuji (talking)";"女にはやさしー月ちゃんってか。";"You're easy on women, Tsuki?";"¿Eres fácil con las mujeres, Tsuki?"
-"karasuba  tsuki (talking)";"だってねー。 彼女は何も悪い事してないから。";"Because, you know. Because she hasn't done anything wrong.";"Porque sí. Porque no ha hecho nada malo."
-"Yamamoto Akuji (talking)";"んじゃまー状況次第って事で。";"Well, it depends on the situation.";"Bueno, depende de la situación."
-"karasuba  tsuki (talking)";"ＯＫＯＫ。 頼んだよ、悪司さん。";"OK OK. I'm counting on you, Akuji.";"Vale, vale. Cuento contigo, Akuji."
-"Komatsu Mai (talking)";"はんたーーーい！！ 反対ーーーっす！！ ウィミィ出てけーー！！！";"I'm against it! I'm against it! Wime get out!";"¡¡¡¡Oposiciónoooooooooooooooooooooooooooooooooooooooooo!!!! ¡¡¡Oposición!!! ¡Wime sal de ahí!"
-"uimiiheishi (talking)";"シーーット！！ またお前かーー！！！";"Shht! You again!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!";"¡Shht! ¡Otra vez tú!"
-"Komatsu Mai (talking)";"やばいっす！！ 逃げるっす！！";"Oh no! I've got to get out of here!";"¡Oh, no! ¡Tenemos que salir de aquí!"
-"uimiiheishi (talking)";"待て、こらーーーー！！！！";"Wait, c'mon… ！！！！";"Espera, vamos… ！！！！"
-"Komatsu Mai (talking)";"ふう…ふう…こほっ… こほっ　こほっっ。";"Fu…fu…fu…koho…koho…koho…koho…koho…koho…koho…koho…";"Fu… fu… koho… koho… koho."
-" (talking)";"つらそうだな。 水いるかい？";"You look like you're having a hard time. You want some water?";"Parece que lo estás pasando mal. ¿Quieres agua?"
-"Komatsu Mai (talking)";"あっ…ありがとっす… んっ…んくっ……
+"Yamamoto Akuji (talking)","よしよし、そんな嘆くなよ。 あの嬢ちゃん…小松舞を捕まえて、 お前さんに渡したらいいんだろ。","All right, don't be so sad. Just grab that little girl…Komatsu Mai and hand her over to you.","Muy bien, no estés tan triste. Agarra a esa niña… Komatsu Mai y entrégala."
+"karasuba  tsuki (talking)","引き受けてくれる？","Will you take care of it?","¿Lo aceptarías?"
+"Yamamoto Akuji (talking)","ああ。 で、どんな罰則で？","Oh. And with what penalty?","Oh. ¿Y con qué sanciones?"
+"karasuba  tsuki (talking)","うーん……行方不明になって もらった方がいいかなー。","Hmmm…… I'd better ask her to go missing…","Hmmm…… Mejor le pido que desaparezca…"
+"Yamamoto Akuji (talking)","どうしてだ？","Why?","¿Por qué?"
+"karasuba  tsuki (talking)","だって、罪状つけて逮捕して、 ウィミィの方がよこせっつってきたら、 彼女何されるか、わかんないもん。","I don't know what they will do to her if they charge her with a crime and arrest her and Wime demands that she give it to them.","Porque si la acusamos de un delito y la detenemos y Wime nos la quiere dar, no sé qué le harán."
+"Yamamoto Akuji (talking)","女にはやさしー月ちゃんってか。","You're easy on women, Tsuki?","¿Eres fácil con las mujeres, Tsuki?"
+"karasuba  tsuki (talking)","だってねー。 彼女は何も悪い事してないから。","Because, you know. Because she hasn't done anything wrong.","Porque sí. Porque no ha hecho nada malo."
+"Yamamoto Akuji (talking)","んじゃまー状況次第って事で。","Well, it depends on the situation.","Bueno, depende de la situación."
+"karasuba  tsuki (talking)","ＯＫＯＫ。 頼んだよ、悪司さん。","OK OK. I'm counting on you, Akuji.","Vale, vale. Cuento contigo, Akuji."
+"Komatsu Mai (talking)","はんたーーーい！！ 反対ーーーっす！！ ウィミィ出てけーー！！！","I'm against it! I'm against it! Wime get out!","¡¡¡¡Oposiciónoooooooooooooooooooooooooooooooooooooooooo!!!! ¡¡¡Oposición!!! ¡Wime sal de ahí!"
+"uimiiheishi (talking)","シーーット！！ またお前かーー！！！","Shht! You again!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!","¡Shht! ¡Otra vez tú!"
+"Komatsu Mai (talking)","やばいっす！！ 逃げるっす！！","Oh no! I've got to get out of here!","¡Oh, no! ¡Tenemos que salir de aquí!"
+"uimiiheishi (talking)","待て、こらーーーー！！！！","Wait, c'mon… ！！！！","Espera, vamos… ！！！！"
+"Komatsu Mai (talking)","ふう…ふう…こほっ… こほっ　こほっっ。","Fu…fu…fu…koho…koho…koho…koho…koho…koho…koho…koho…","Fu… fu… koho… koho… koho."
+" (talking)","つらそうだな。 水いるかい？","You look like you're having a hard time. You want some water?","Parece que lo estás pasando mal. ¿Quieres agua?"
+"Komatsu Mai (talking)","あっ…ありがとっす… んっ…んくっ……
  ………
-って…誰っすか！？";"Oh… thanks… nnnn… nnnn… ……
+って…誰っすか！？","Oh… thanks… nnnn… nnnn… ……
  ………
-Who is that?";"Oh… gracias… mmm… mmm… ……
+Who is that?","Oh… gracias… mmm… mmm… ……
  ………
  ¿Quién es usted?"
-"Yamamoto Akuji (talking)";"俺っす。";"That's me.";"Lo soy."
-"Komatsu Mai (talking)";"あーーー！！！";"Aaaaahhh!";"¡¡¡Aaaaah!!!"
-"Yamamoto Akuji (talking)";"あいかーらず、エデン建設反対って やってんのかい、舞。";"Are you still against the construction of Eden, Mai?";"¿Todavía estás en contra de la construcción del Edén, Mai?"
-"Komatsu Mai (talking)";"ど、どうして、あたしの名前を…";"Why did you say my name…";"¿Cómo sabías que mi nombre era…"
-"Yamamoto Akuji (talking)";"どーしてだろーねー。";"I wonder why.";"No sé por qué."
-" (talking)";"あっちで声がするぞ！！
-捕まえろ！！ また輪姦してやれ！！";"I hear voices over there!
-Get him! Gang-rape him again!";"¡Oigo voces por ahí!
+"Yamamoto Akuji (talking)","俺っす。","That's me.","Lo soy."
+"Komatsu Mai (talking)","あーーー！！！","Aaaaahhh!","¡¡¡Aaaaah!!!"
+"Yamamoto Akuji (talking)","あいかーらず、エデン建設反対って やってんのかい、舞。","Are you still against the construction of Eden, Mai?","¿Todavía estás en contra de la construcción del Edén, Mai?"
+"Komatsu Mai (talking)","ど、どうして、あたしの名前を…","Why did you say my name…","¿Cómo sabías que mi nombre era…"
+"Yamamoto Akuji (talking)","どーしてだろーねー。","I wonder why.","No sé por qué."
+" (talking)","あっちで声がするぞ！！
+捕まえろ！！ また輪姦してやれ！！","I hear voices over there!
+Get him! Gang-rape him again!","¡Oigo voces por ahí!
  ¡Atrápenlo! ¡Vuélvelo a violar en grupo!"
-"Komatsu Mai (talking)";"あの声…";"That voice…";"Esa voz…"
-"Yamamoto Akuji (talking)";"どーやら、お前さん、 おっかけてるみたいだぜ。";"Looks like you've been chasing after him.";"Parece que estás persiguiendo."
-"Komatsu Mai (talking)";"やばいっす。 じゃあ…";"Oh no. Well, then…";"Oh, no. Bueno, entonces…"
-"Yamamoto Akuji (talking)";"待ちな。";"Wait for it.";"Espera."
-"Komatsu Mai (talking)";"えっ？";"What?";"¿Qué?"
-"narrator";"　　［とすっっ］
-悪司の手刀が、舞の首の裏に入った。";"［And then…!]
-Akuji's hand sword entered the back of Mai's neck.";"[y…]
+"Komatsu Mai (talking)","あの声…","That voice…","Esa voz…"
+"Yamamoto Akuji (talking)","どーやら、お前さん、 おっかけてるみたいだぜ。","Looks like you've been chasing after him.","Parece que estás persiguiendo."
+"Komatsu Mai (talking)","やばいっす。 じゃあ…","Oh no. Well, then…","Oh, no. Bueno, entonces…"
+"Yamamoto Akuji (talking)","待ちな。","Wait for it.","Espera."
+"Komatsu Mai (talking)","えっ？","What?","¿Qué?"
+"narrator","　　［とすっっ］
+悪司の手刀が、舞の首の裏に入った。","［And then…!]
+Akuji's hand sword entered the back of Mai's neck.","[y…]
 La espada de mano de Akuji entró en la nuca de Mai."
-"Komatsu Mai (talking)";"うっ…！？";"Ugh…!";"¡Uf…!"
-"Yamamoto Akuji (talking)";"いっちょあがりっと。";"I'll be up in a minute.";"Me levanto en un santiamén."
-"narrator";"悪司は舞を肩にぶらさげ、そこから離れた。";"Akuji slung Mai over his shoulder and moved away from it.";"Akuji se colgó a Mai del hombro y se alejó de ella."
-"Kohara Koharu (talking)";"こんなところにいたのね、舞ちゃん。";"I didn't know you were in a place like this, Mai.";"No sabía que estabas en un lugar así, Mai."
-"Komatsu Mai (talking)";"なんっすか？ 小春さん？";"What is it? Koharu?";"¿Qué es? ¿Koharu?"
-"Kohara Koharu (talking)";"私といい事しましょ。";"Do something nice with me.";"Haz algo bueno conmigo."
-"Komatsu Mai (talking)";"いい事っすか？";"Is that a good thing?";"¿Es eso algo bueno?"
-"Kohara Koharu (talking)";"そう。 看護婦さんと、患者さんごっこ。";"Yes. A nurse and playing patient.";"Sí. Enfermera, haciendo de paciente."
-"Komatsu Mai (talking)";"なんっすか？ それ…";"What is it? That…";"¿Qué es? Eso…"
-"Kohara Koharu (talking)";"するのよ。 あなたに断る権利はないんだから。";"Do it. You have no right to say no.";"Hazlo. No tienes derecho a decir que no."
-"Komatsu Mai (talking)";"どこ行くっすかー！？";"Where are you going?";"¿A dónde vas?"
-"narrator";"舞は小春に強引に一室に連れ込まれた。";"Mai was forcibly taken into a room by Koharu.";"Mai fue llevada a la fuerza a una habitación por Koharu."
-"cg narrator";"「ほ~ら、入っちゃうわよ… 　あなたの可愛いここに…」
+"Komatsu Mai (talking)","うっ…！？","Ugh…!","¡Uf…!"
+"Yamamoto Akuji (talking)","いっちょあがりっと。","I'll be up in a minute.","Me levanto en un santiamén."
+"narrator","悪司は舞を肩にぶらさげ、そこから離れた。","Akuji slung Mai over his shoulder and moved away from it.","Akuji se colgó a Mai del hombro y se alejó de ella."
+"Kohara Koharu (talking)","こんなところにいたのね、舞ちゃん。","I didn't know you were in a place like this, Mai.","No sabía que estabas en un lugar así, Mai."
+"Komatsu Mai (talking)","なんっすか？ 小春さん？","What is it? Koharu?","¿Qué es? ¿Koharu?"
+"Kohara Koharu (talking)","私といい事しましょ。","Do something nice with me.","Haz algo bueno conmigo."
+"Komatsu Mai (talking)","いい事っすか？","Is that a good thing?","¿Es eso algo bueno?"
+"Kohara Koharu (talking)","そう。 看護婦さんと、患者さんごっこ。","Yes. A nurse and playing patient.","Sí. Enfermera, haciendo de paciente."
+"Komatsu Mai (talking)","なんっすか？ それ…","What is it? That…","¿Qué es? Eso…"
+"Kohara Koharu (talking)","するのよ。 あなたに断る権利はないんだから。","Do it. You have no right to say no.","Hazlo. No tienes derecho a decir que no."
+"Komatsu Mai (talking)","どこ行くっすかー！？","Where are you going?","¿A dónde vas?"
+"narrator","舞は小春に強引に一室に連れ込まれた。","Mai was forcibly taken into a room by Koharu.","Mai fue llevada a la fuerza a una habitación por Koharu."
+"cg narrator","「ほ~ら、入っちゃうわよ… 　あなたの可愛いここに…」
  「いっ…いやっす… 　やめて…やめて…」
  「くすっ……くすくすっ… 　あん…すご~い… 　どんどん飲み込んでく…」
  「いっ…いやっ…あっ…」
  「ふふ…ぐちゃぐちゃに絡んできてる… 　そんなに気持ちいい？」
  「いっ…いやぁぁっ…」
  「じゃあ、患部にガーゼを置きましょうねー…」
- 「あ…っあう…」";"”Here, here I go… right here… right here in your pretty…”
+ 「あ…っあう…」","”Here, here I go… right here… right here in your pretty…”
 Stop… stop… stop…”
  “Smoooooosh… oh… that's great… keep swallowing…”
  “Oh… no… oh…”
 You're getting all tangled up in me… does it feel that good?
 No… no…
 Then, let's put some gauze on the affected area…
-Ah… ah… ah…";"”Aquí, aquí va… justo aquí en tu pequeño y bonito…”
+Ah… ah… ah…","”Aquí, aquí va… justo aquí en tu pequeño y bonito…”
 Para… para… para…”
  
  “Oh… no… oh…”
@@ -281,7 +281,7 @@ Para… para… para…”
 No… no…
 Entonces pongamos una gasa en la zona afectada…
 Ah… ah… ah…”"
-"cg narrator";"高いモーターの音が響き渡っている。
+"cg narrator","高いモーターの音が響き渡っている。
  「ああああっ…！！」
 自分の中で蠢くそれに、舞が尻を引きつらせる。
  「どう…？ 　気持ちいい…？」
@@ -335,7 +335,7 @@ Ah… ah… ah…”"
  「ああ…いいわ…すてき… 　そんな顔されたら小春もおかしくなっちゃう… 　いいわ…ステキ…舞…」
 小春は、舞のコリコリと膨らみ出した一部の膣壁に バイブの雁を押しつけ、動かした。
  「あっ……ああーー！！」
-舞は大きな声をあげ、達した。";"The sound of a high motor echoed through the air.
+舞は大きな声をあげ、達した。","The sound of a high motor echoed through the air.
  'Aaahhh…!!!'
 It stirs inside me, and Mai pulls her hips back.
 How does it…? 　Does it feel good…?”
@@ -389,7 +389,7 @@ Mai forgets to breathe and shakes her hips. Drool drips down her throat.
 Oh…good…nice…lovely… If she makes a face like that, Koharu will go crazy…good…lovely…Mai…” Mai…”
 Koharu pressed and moved the goose of the vibrator against some of Mai's colicky and swollen vaginal walls.
  “Aaahhhh!!!”
-Mai screamed loudly, and reached the goal.";"El sonido de un motor alto resuena en el aire.
+Mai screamed loudly, and reached the goal.","El sonido de un motor alto resuena en el aire.
  '¡Aaahhh…!!'
 Las caderas de Mai se agitan mientras se agita dentro de ella.
  ¿Cómo…? 　¿Se siente bien…?”
@@ -444,138 +444,138 @@ Mai se olvida de respirar y agita las caderas. Las babas gotean por su garganta.
 Koharu presionó y movió el ganso del vibrador contra algunas de las cólicas e hinchadas paredes vaginales de Mai.
  “¡Oh ……aaaah!
 Mai gritó fuerte y alcanzó."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"Chinpira (talking)";"舞さん、ご指名入りましたー。";"Mai, you have been nominated!";"Mai, ¡has sido nominada!"
-"Komatsu Mai (talking)";"またっすかー？ やっと休憩出来たと思ったのにー。";"Again? I thought I could finally take a break.";"¿Otra vez? Pensé que por fin podría tomarme un descanso."
-"Chinpira (talking)";"早く早く。 金払いのいいお客さんなんっすよ。";"Quickly, quickly. He's a good paying customer.";"Rápido, rápido. Soy un buen cliente que paga."
-"Komatsu Mai (talking)";"………………
-敵襲ーーーー！！！！";"………………
-Enemy attackーー ！！！！";"………………
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"Chinpira (talking)","舞さん、ご指名入りましたー。","Mai, you have been nominated!","Mai, ¡has sido nominada!"
+"Komatsu Mai (talking)","またっすかー？ やっと休憩出来たと思ったのにー。","Again? I thought I could finally take a break.","¿Otra vez? Pensé que por fin podría tomarme un descanso."
+"Chinpira (talking)","早く早く。 金払いのいいお客さんなんっすよ。","Quickly, quickly. He's a good paying customer.","Rápido, rápido. Soy un buen cliente que paga."
+"Komatsu Mai (talking)","………………
+敵襲ーーーー！！！！","………………
+Enemy attackーー ！！！！","………………
 Ataque del enemigo - ！！！！"
-"Chinpira (talking)";"うわっ！？";"Wow!";"¡Vaya!"
-"Komatsu Mai (talking)";"敵っすよ！！ どう見てもあれ、ウィミィっす！";"They are the enemy! No matter how you look at it, that's Wime!";"¡Son el enemigo! Se mire como se mire, ¡eso es Wime!"
-"Chinpira (talking)";"あの人が、舞さんご指名なんで。";"That person is Mai's nominee.";"Esa persona es el candidato de Mai."
-"Komatsu Mai (talking)";"いやっす！！ どうして、敵に躰預けなきゃ だめなんっすか！";"No! Why should I leave my body to the enemy?";"¡No! ¿Por qué debo dejar mi cuerpo al enemigo?"
-"Chinpira (talking)";"昨日の敵は今日の友っていうじゃ ないですか。
-はーい、ご指名の舞さん、ただいま とうちゃ~~く。 はりきっていきましょ~~~。";"Yesterday's enemy is today's friend.
-Yes, I'm back, Mr. Mai, your nominee, and I'm back for tea~~~. Let's get going!";"El enemigo de ayer es el amigo de hoy.
+"Chinpira (talking)","うわっ！？","Wow!","¡Vaya!"
+"Komatsu Mai (talking)","敵っすよ！！ どう見てもあれ、ウィミィっす！","They are the enemy! No matter how you look at it, that's Wime!","¡Son el enemigo! Se mire como se mire, ¡eso es Wime!"
+"Chinpira (talking)","あの人が、舞さんご指名なんで。","That person is Mai's nominee.","Esa persona es el candidato de Mai."
+"Komatsu Mai (talking)","いやっす！！ どうして、敵に躰預けなきゃ だめなんっすか！","No! Why should I leave my body to the enemy?","¡No! ¿Por qué debo dejar mi cuerpo al enemigo?"
+"Chinpira (talking)","昨日の敵は今日の友っていうじゃ ないですか。
+はーい、ご指名の舞さん、ただいま とうちゃ~~く。 はりきっていきましょ~~~。","Yesterday's enemy is today's friend.
+Yes, I'm back, Mr. Mai, your nominee, and I'm back for tea~~~. Let's get going!","El enemigo de ayer es el amigo de hoy.
 Sí, su nominación Mai, estoy de vuelta. ¡Adelante!"
-"Komatsu Mai (talking)";"マジっすかーーー！！？？";"Seriously?";"¿Hablas en serio?"
-"cg narrator";"「ううう…どうしてあたしが、ウィミィの男に 　こんな事…」";"”Ugh… why would I do this to a guy from Wime?”";"”Ugh… ¿por qué le haría esto a un tipo de Wime?”"
-"cg narrator";"「ヘーイ、おてて止まってるよー」";"”Hey, your hand's stopped!”";"”¡Oye, tu mano está parada!"
-"cg narrator";"「な、何か言ってるっす~~」";"He's saying something~!”";"'Hey, está diciendo algo~'"
-"cg narrator";"「Ｙｏｕのここ、綺麗だな。 　ニホンの女はこんなとこまで、ピカピカに 　してるんだな」
- 「それとも何か？ 　ニホンの女は、ここをいつもピカピカに 　している文化でもあるのか？」";"You're so beautiful here. 　Japanese women do such a good job of making their places shiny and clean.
- “Or what? 　Is there some kind of culture in which Japanese women always keep this place shining?";"Estás muy guapa aquí. 　No sabía que las japonesas hicieran un trabajo tan bueno para mantener su pelo brillante”.
+"Komatsu Mai (talking)","マジっすかーーー！！？？","Seriously?","¿Hablas en serio?"
+"cg narrator","「ううう…どうしてあたしが、ウィミィの男に 　こんな事…」","”Ugh… why would I do this to a guy from Wime?”","”Ugh… ¿por qué le haría esto a un tipo de Wime?”"
+"cg narrator","「ヘーイ、おてて止まってるよー」","”Hey, your hand's stopped!”","”¡Oye, tu mano está parada!"
+"cg narrator","「な、何か言ってるっす~~」","He's saying something~!”","'Hey, está diciendo algo~'"
+"cg narrator","「Ｙｏｕのここ、綺麗だな。 　ニホンの女はこんなとこまで、ピカピカに 　してるんだな」
+ 「それとも何か？ 　ニホンの女は、ここをいつもピカピカに 　している文化でもあるのか？」","You're so beautiful here. 　Japanese women do such a good job of making their places shiny and clean.
+ “Or what? 　Is there some kind of culture in which Japanese women always keep this place shining?","Estás muy guapa aquí. 　No sabía que las japonesas hicieran un trabajo tan bueno para mantener su pelo brillante”.
  ¿O qué? 　¿Existe una cultura de las mujeres japonesas de mantener siempre este lugar impecable?"
-"cg narrator";"「ひっ！？」
+"cg narrator","「ひっ！？」
 ウィミィの男の太い指が、舞の花弁の中に遠慮なく 突き刺さる。
- 「いっ…痛いっす… 　石鹸入ると痛いっすー！」";"Hiccup!”
+ 「いっ…痛いっす… 　石鹸入ると痛いっすー！」","Hiccup!”
 The thick fingers of the man from Wime penetrate into the petals of Mai without hesitation.
-It hurts… it hurts when the soap gets inside!";"”¡¡¡Hipo!!!
+It hurts… it hurts when the soap gets inside!","”¡¡¡Hipo!!!
 Los gruesos dedos del hombre de Wime se clavaron sin reservas en los pétalos de Mai.
  'Yo… duele… ¡duele cuando el jabón se mete dentro!"
-"cg narrator";"「そうかい、そんなに気持ちいいのかい。 　じゃあ、こうしたらどうだ？」";"”Well, that feels so good,” he said. 　How about this?”";"'Bueno, eso se siente muy bien. 　Entonces, ¿por qué no haces esto?”"
-"cg narrator";"「うっ……うううー！！」
+"cg narrator","「そうかい、そんなに気持ちいいのかい。 　じゃあ、こうしたらどうだ？」","”Well, that feels so good,” he said. 　How about this?”","'Bueno, eso se siente muy bien. 　Entonces, ¿por qué no haces esto?”"
+"cg narrator","「うっ……うううー！！」
 ウィミィの男の指が、さらに舞の花弁に入り込む。
- 「痛い、痛い、痛いっすー！ 　どうしてそんなに、指が太いんっすかー！ 　ウィミィは何食べてそんなデカイんっすかー！？」";"Ugh…… ugh!”
+ 「痛い、痛い、痛いっすー！ 　どうしてそんなに、指が太いんっすかー！ 　ウィミィは何食べてそんなデカイんっすかー！？」","Ugh…… ugh!”
 Wime man's fingers further penetrate Mai's petals.
-Ouch, ouch, ouch! 　Why are your fingers so thick! 　What did Wime eat to make them so big!";"'Ugh…… ugh!'
+Ouch, ouch, ouch! 　Why are your fingers so thick! 　What did Wime eat to make them so big!","'Ugh…… ugh!'
 Los dedos del hombre Wime penetran aún más en los pétalos de Mai.
  '¡Ay, ay, ay! 　¿Por qué tienes los dedos tan gruesos? 　Qué habrá comido Wime para que sean tan grandes!”"
-"cg narrator";"「なんだ。 　叫ぶ程いいのか。 　そうか、そういう風に扱われるのが好きなんだな」
- 「大和撫子の皮を被った娼婦め。 　いいだろ、望み通り、扱ってやるよ」";"What is it? 　So good that you scream. 　I see, you like to be treated like that.
-You are a whore in the skin of a Yamato Nadeshiko. 　I'll treat you as you want to be treated.";"'Qué demonios. 　Tan bueno que gritas. 　Oh sí, te gusta que te traten así'.
+"cg narrator","「なんだ。 　叫ぶ程いいのか。 　そうか、そういう風に扱われるのが好きなんだな」
+ 「大和撫子の皮を被った娼婦め。 　いいだろ、望み通り、扱ってやるよ」","What is it? 　So good that you scream. 　I see, you like to be treated like that.
+You are a whore in the skin of a Yamato Nadeshiko. 　I'll treat you as you want to be treated.","'Qué demonios. 　Tan bueno que gritas. 　Oh sí, te gusta que te traten así'.
  'Eres una puta en la piel de Yamato Nadeshiko. 　'Bien, te trataré como quieres que te traten'."
-"cg narrator";"ウィミィの男の指が、舞の菊座に伸びる。
- 「ひぃぃ！！？？」";"The man's fingers of Wime extend to Mai's chrysanthemum seat.
- 'Hiiii!!!?";"Los dedos del hombre Wime se extienden hasta la crisálida de Mai.
+"cg narrator","ウィミィの男の指が、舞の菊座に伸びる。
+ 「ひぃぃ！！？？」","The man's fingers of Wime extend to Mai's chrysanthemum seat.
+ 'Hiiii!!!?","Los dedos del hombre Wime se extienden hasta la crisálida de Mai.
  ¿¡Hiiii!?"
-"cg narrator";"「綺麗なアヌスだな。 　使ってるようには見えねーけど… 　それは、フジヤママジックか？」";"That's a beautiful anus. 　Doesn't look like you're using… is that Fujiyama Magic?”";"'Ese es un hermoso ano. 　No parece que lo estés usando… ¿es Magia Fujiyama?”"
-"cg narrator";"男の指が、ゆっくり舞の菊座に沈みこんでいく。
- 「そんなとこさわるな、変態毛唐！！ 　最悪っすーーー！！」";"The man's fingers slowly sink into Mai's chrysalis.
-Don't touch that part, you pervert hairy bastard! 　You're the worst!";"Los dedos del hombre se hunden lentamente en la crisálida de Mai.
+"cg narrator","「綺麗なアヌスだな。 　使ってるようには見えねーけど… 　それは、フジヤママジックか？」","That's a beautiful anus. 　Doesn't look like you're using… is that Fujiyama Magic?”","'Ese es un hermoso ano. 　No parece que lo estés usando… ¿es Magia Fujiyama?”"
+"cg narrator","男の指が、ゆっくり舞の菊座に沈みこんでいく。
+ 「そんなとこさわるな、変態毛唐！！ 　最悪っすーーー！！」","The man's fingers slowly sink into Mai's chrysalis.
+Don't touch that part, you pervert hairy bastard! 　You're the worst!","Los dedos del hombre se hunden lentamente en la crisálida de Mai.
  '¡No toques esa parte, pervertido peludo! 　¡Eres lo peor!"
-"cg narrator";"「もっと欲しいのか。 　よしよし、待ちなって」";"You want more? 　All right, wait for it.”";"'Quieres más. 　Está bien, está bien, espera'."
-"cg narrator";"男の指が、さらに舞の腸の中に入っていく。
- 「いっ……いたーーー！！」";"The man's fingers go further into Mai's bowels.
-I was Mai!!!”";"Los dedos del hombre se adentran más en las entrañas de Mai.
+"cg narrator","「もっと欲しいのか。 　よしよし、待ちなって」","You want more? 　All right, wait for it.”","'Quieres más. 　Está bien, está bien, espera'."
+"cg narrator","男の指が、さらに舞の腸の中に入っていく。
+ 「いっ……いたーーー！！」","The man's fingers go further into Mai's bowels.
+I was Mai!!!”","Los dedos del hombre se adentran más en las entrañas de Mai.
  '¡¡¡Yo era Mai!!!'"
-"cg narrator";"「そうか、ここが気持ちいいのか」";"'Well, this is where it feels good.'";"'Bueno, aquí es donde se siente bien'."
-"cg narrator";"第一関節まで入りこんだ男の指が、ぐにぐにと動く。
- 「くっ…くぅぅぅ！！ 　屈辱っす！！ 　ウィミィに…ウィミィの男にこんな……」";"The man's finger, which has entered up to the first joint, wriggles.
-It's so humiliating! 　I'm humiliated! 　To Wime…to a Wime man like this ……”";"Los dedos del hombre, que han entrado hasta la primera articulación, se mueven lánguidamente.
+"cg narrator","「そうか、ここが気持ちいいのか」","'Well, this is where it feels good.'","'Bueno, aquí es donde se siente bien'."
+"cg narrator","第一関節まで入りこんだ男の指が、ぐにぐにと動く。
+ 「くっ…くぅぅぅ！！ 　屈辱っす！！ 　ウィミィに…ウィミィの男にこんな……」","The man's finger, which has entered up to the first joint, wriggles.
+It's so humiliating! 　I'm humiliated! 　To Wime…to a Wime man like this ……”","Los dedos del hombre, que han entrado hasta la primera articulación, se mueven lánguidamente.
  '¡K… ku… ku… ku…! 　¡Es tan humillante! 　A Wime… a un hombre Wime como este ……”"
-"cg narrator";"「なんだいなんだい。 　ＳＥＸの時にうるさいのは、ウィミィの女だけで 　充分だってのによ」";"What the heck is that? 　Only the women in Wime are loud enough when it comes to sex.";"'Qué demonios. 　Sólo las mujeres Wime son lo suficientemente ruidosas cuando se trata de sexo”."
-"cg narrator";"男の別の指が、舞の花弁の中に入り込む。
- 「し、しみるー！」";"Another of the man's fingers enters Mai's petals.
-It stings!";"Otro de los dedos del hombre entra en los pétalos de Mai.
+"cg narrator","「なんだいなんだい。 　ＳＥＸの時にうるさいのは、ウィミィの女だけで 　充分だってのによ」","What the heck is that? 　Only the women in Wime are loud enough when it comes to sex.","'Qué demonios. 　Sólo las mujeres Wime son lo suficientemente ruidosas cuando se trata de sexo”."
+"cg narrator","男の別の指が、舞の花弁の中に入り込む。
+ 「し、しみるー！」","Another of the man's fingers enters Mai's petals.
+It stings!","Otro de los dedos del hombre entra en los pétalos de Mai.
  '¡Shhh, pica!"
-"cg narrator";"「おいおい、はしたないなー。 　天国にいっちゃったのか？」";"I said, “Oh, come on, that's just too much. 　Have you gone to heaven?”";"'Oh, vamos, eso es un poco exagerado. 　¿Has ido al cielo?”"
-"cg narrator";"男の指が同時に動く。
+"cg narrator","「おいおい、はしたないなー。 　天国にいっちゃったのか？」","I said, “Oh, come on, that's just too much. 　Have you gone to heaven?”","'Oh, vamos, eso es un poco exagerado. 　¿Has ido al cielo?”"
+"cg narrator","男の指が同時に動く。
  「んくっ……！！」
-舞の躰がぴくりと跳ねる。";"The man's fingers move simultaneously.
+舞の躰がぴくりと跳ねる。","The man's fingers move simultaneously.
  'Nkkk ……!!!'
-Mai's body jumps.";"Los dedos del hombre se mueven simultáneamente.
+Mai's body jumps.","Los dedos del hombre se mueven simultáneamente.
  'Nkkk ……!!'
 El cuerpo de Mai salta."
-"cg narrator";"「可愛いじゃねーか。 　さわっただけで、こんなになっちまってさ」";"”Isn't he cute? 　I just touched it and it turned out like this.”";"¿No es lindo? 　Sólo con tocarme, te has convertido en esto”."
-"cg narrator";"男の指が舞の蜜を絡め、 白い小さな尻に塗りつける。
- 「くぅぅ…… 　ウィミィのせいで死んだ両親は、今のあたしの 　状況を草葉の陰で見て泣いてるっすよー…」";"The man's fingers twirl Mai's nectar and smear it on Haku's tiny ass.
-The man's fingers entwine with Mai's nectar and smear it over Haku's tiny ass.";"Los dedos del hombre hacen girar el néctar de Mai y lo untan en el pequeño trasero de Haku.
+"cg narrator","「可愛いじゃねーか。 　さわっただけで、こんなになっちまってさ」","”Isn't he cute? 　I just touched it and it turned out like this.”","¿No es lindo? 　Sólo con tocarme, te has convertido en esto”."
+"cg narrator","男の指が舞の蜜を絡め、 白い小さな尻に塗りつける。
+ 「くぅぅ…… 　ウィミィのせいで死んだ両親は、今のあたしの 　状況を草葉の陰で見て泣いてるっすよー…」","The man's fingers twirl Mai's nectar and smear it on Haku's tiny ass.
+The man's fingers entwine with Mai's nectar and smear it over Haku's tiny ass.","Los dedos del hombre hacen girar el néctar de Mai y lo untan en el pequeño trasero de Haku.
  'Kuuuuh…… Los padres de Wime, que murieron por culpa de Wime, están observando mi situación actual en las sombras de la hierba y llorando…'"
-"cg narrator";"「上品なヴァギナだぜ。 　まったくよ」";"It's a classy vagina,” he said. 　It's a real classy vagina.”";"'Es una vagina con clase. 　Es una vagina con mucha clase”."
-"cg narrator";"男の指が一本、深く舞の花弁の中に入りこむ。
+"cg narrator","「上品なヴァギナだぜ。 　まったくよ」","It's a classy vagina,” he said. 　It's a real classy vagina.”","'Es una vagina con clase. 　Es una vagina con mucha clase”."
+"cg narrator","男の指が一本、深く舞の花弁の中に入りこむ。
  「ふっ…！」
-舞の腰がぴくりと浮いた。";"One of the man's fingers deeply enters Mai's petals.
+舞の腰がぴくりと浮いた。","One of the man's fingers deeply enters Mai's petals.
  “Hmph…!”
-Mai's hips jerked up.";"Uno de los dedos del hombre se adentra en los pétalos de Mai.
+Mai's hips jerked up.","Uno de los dedos del hombre se adentra en los pétalos de Mai.
  “¡Hmph…!
 Las caderas de Mai se levantaron de golpe."
-"cg narrator";"「よぉくほぐしとかねーと、俺のは入らねえぞ。 　まったく…ニホンの女は、これが難点だな。 　ちっちゃすぎるんだよ」";"I'm going to have to loosen you up, or I won't be able to fit mine in. 　This is the problem with Japanese women. 　They are too small.";"'Si no me aflojas, no podré meter la mía. 　Este es el problema de las mujeres japonesas. 　Son demasiado pequeños”."
-"cg narrator";"「うっ…あうっ…うっ…」";"Ugh… ahhh…”";"'Ugh… ah… ah…'"
-"cg narrator";"「よーく洗ってくれよ。 　ずっと潜水艦の中だったから、満足に風呂も 　入ってなかったからな」";"”Wash me well,” he said. 　I've been in the submarine so long, I haven't had a good bath.”";"'Dame un buen lavado. 　Llevo tanto tiempo en el submarino que no me he dado un baño satisfactorio”."
-"cg narrator";"「くっ……なんか言ってるっす… 　きっと、くだんない事っす…」";"”Damn ……, he's talking about something… I'm sure it's something stupid…”";"”Maldita sea, ……, está diciendo algo… probablemente sea algo estúpido…”"
-"cg narrator";"「さーて」";"Well…";"”Bueno…”"
-"cg narrator";"ウィミィの男は体勢を変え、舞の尻を掴んだ。
- 「な、何するっすか！？」";"The Wime man changed his position and grabbed Mai's buttocks.
- 'Hey, what are you doing?";"El hombre Wime cambió de posición y agarró las nalgas de Mai.
+"cg narrator","「よぉくほぐしとかねーと、俺のは入らねえぞ。 　まったく…ニホンの女は、これが難点だな。 　ちっちゃすぎるんだよ」","I'm going to have to loosen you up, or I won't be able to fit mine in. 　This is the problem with Japanese women. 　They are too small.","'Si no me aflojas, no podré meter la mía. 　Este es el problema de las mujeres japonesas. 　Son demasiado pequeños”."
+"cg narrator","「うっ…あうっ…うっ…」","Ugh… ahhh…”","'Ugh… ah… ah…'"
+"cg narrator","「よーく洗ってくれよ。 　ずっと潜水艦の中だったから、満足に風呂も 　入ってなかったからな」","”Wash me well,” he said. 　I've been in the submarine so long, I haven't had a good bath.”","'Dame un buen lavado. 　Llevo tanto tiempo en el submarino que no me he dado un baño satisfactorio”."
+"cg narrator","「くっ……なんか言ってるっす… 　きっと、くだんない事っす…」","”Damn ……, he's talking about something… I'm sure it's something stupid…”","”Maldita sea, ……, está diciendo algo… probablemente sea algo estúpido…”"
+"cg narrator","「さーて」","Well…","”Bueno…”"
+"cg narrator","ウィミィの男は体勢を変え、舞の尻を掴んだ。
+ 「な、何するっすか！？」","The Wime man changed his position and grabbed Mai's buttocks.
+ 'Hey, what are you doing?","El hombre Wime cambió de posición y agarró las nalgas de Mai.
  “Oye, ¿qué estás haciendo?"
-"cg narrator";"「そろそろ、入れさせてもらうとするぜ。 　ちっちゃいなー…」";"I think it's time I let you in. 　It's so tiny…”";"'Ya es hora de que te deje entrar. 　Eres tan pequeño…"
-"cg narrator";"男の巨大な一物が、舞の尻の上に乗せられる。
- 「そ、そんなの入らないっす！ 　デカすぎっす！！」";"The man's huge cock is placed on Mai's ass.
-I can't fit that in there! 　It's too big!";"La enorme polla del hombre se coloca en las nalgas de Mai.
+"cg narrator","「そろそろ、入れさせてもらうとするぜ。 　ちっちゃいなー…」","I think it's time I let you in. 　It's so tiny…”","'Ya es hora de que te deje entrar. 　Eres tan pequeño…"
+"cg narrator","男の巨大な一物が、舞の尻の上に乗せられる。
+ 「そ、そんなの入らないっす！ 　デカすぎっす！！」","The man's huge cock is placed on Mai's ass.
+I can't fit that in there! 　It's too big!","La enorme polla del hombre se coloca en las nalgas de Mai.
  '¡No, no me cabe eso! 　Es demasiado grande."
-"cg narrator";"「どぉれ」";"”Do you…”";"”¡Do-ho!”"
-"cg narrator";"「いっ……」
- 「痛いっすーーー！！！」";"I am ……
-Ouch!";"Soy ……”
+"cg narrator","「どぉれ」","”Do you…”","”¡Do-ho!”"
+"cg narrator","「いっ……」
+ 「痛いっすーーー！！！」","I am ……
+Ouch!","Soy ……”
  ¡¡¡¡¡¡¡Ouch!!!!!!!"
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"narrator";"深夜――。";"Midnight--.";"Medianoche -."
-"narrator";"舞がこっそりと歩いている。";"Mai is walking stealthily.";"Mai está caminando sigilosamente."
-"Komatsu Mai (talking)";"もーイヤっす。 こんな事、勘弁っす。 絶対、逃亡っす！";"I don't want to do this. I can't do this. I'm going to run away!";"No quiero hacer esto. No puedo hacer esto. ¡Definitivamente voy a huir!"
-"narrator";"なんと、舞は調教の館から抜け出していたのだ！
-しばらくてくてくと走ってから、 舞は辺りをきょろきょろと見回した。";"To his surprise, Mai had escaped from the training hall!
-After running for a while, Mai looked around.";"Para su sorpresa, Mai se había escapado de la sala de entrenamiento.
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"narrator","深夜――。","Midnight--.","Medianoche -."
+"narrator","舞がこっそりと歩いている。","Mai is walking stealthily.","Mai está caminando sigilosamente."
+"Komatsu Mai (talking)","もーイヤっす。 こんな事、勘弁っす。 絶対、逃亡っす！","I don't want to do this. I can't do this. I'm going to run away!","No quiero hacer esto. No puedo hacer esto. ¡Definitivamente voy a huir!"
+"narrator","なんと、舞は調教の館から抜け出していたのだ！
+しばらくてくてくと走ってから、 舞は辺りをきょろきょろと見回した。","To his surprise, Mai had escaped from the training hall!
+After running for a while, Mai looked around.","Para su sorpresa, Mai se había escapado de la sala de entrenamiento.
 Después de correr un rato, Mai miró a su alrededor."
-"Komatsu Mai (talking)";"ウイーーーッス！ これで自由の――";"Woooooooooooooooooooooooooooooooooooooooooooooooooooooooo! Now you're free…";"¡Oooooooooooooooooooooooooooooooooooo! Ahora eres libre…"
-" (talking)";"身にはなれませんよ。";"You can't be a part of it.";"No puedes formar parte de ella."
-"Komatsu Mai (talking)";"ええっ！！？？";"What?";"¿Eh?"
-"Komatsu Mai (talking)";"ハ、ハゲチャビン！！";"Hah, bald chavin!";"¡Ja, chavín calvo!"
-"Tamanegi (talking)";"困った人ですね。 駄目ですよ、脱走だなんて… 立派な穴奴隷になれませんよ。";"You're in trouble. No, you can't escape… you won't make a respectable hole slave.";"Estás en problemas, ¿no? No, no puedes desertar… no serás un respetable esclavo del agujero."
-"Komatsu Mai (talking)";"そ、それになりたくないから、 逃げたんっすよ！";"Well, I didn't want to be that guy, so I ran away!";"Bueno, yo no quería ser eso, ¡así que me escapé!"
-"Tamanegi (talking)";"わかりました。 では、なりたくなるように 教育してさしあげましょう。
-これから二人きりで、 たっぷりと……";"I understand. Then I will educate you so that you will want to become one.
-We're going to have a lot of time alone together……";"Lo entiendo. Entonces te educaré para que quieras convertirte en uno.
+"Komatsu Mai (talking)","ウイーーーッス！ これで自由の――","Woooooooooooooooooooooooooooooooooooooooooooooooooooooooo! Now you're free…","¡Oooooooooooooooooooooooooooooooooooo! Ahora eres libre…"
+" (talking)","身にはなれませんよ。","You can't be a part of it.","No puedes formar parte de ella."
+"Komatsu Mai (talking)","ええっ！！？？","What?","¿Eh?"
+"Komatsu Mai (talking)","ハ、ハゲチャビン！！","Hah, bald chavin!","¡Ja, chavín calvo!"
+"Tamanegi (talking)","困った人ですね。 駄目ですよ、脱走だなんて… 立派な穴奴隷になれませんよ。","You're in trouble. No, you can't escape… you won't make a respectable hole slave.","Estás en problemas, ¿no? No, no puedes desertar… no serás un respetable esclavo del agujero."
+"Komatsu Mai (talking)","そ、それになりたくないから、 逃げたんっすよ！","Well, I didn't want to be that guy, so I ran away!","Bueno, yo no quería ser eso, ¡así que me escapé!"
+"Tamanegi (talking)","わかりました。 では、なりたくなるように 教育してさしあげましょう。
+これから二人きりで、 たっぷりと……","I understand. Then I will educate you so that you will want to become one.
+We're going to have a lot of time alone together……","Lo entiendo. Entonces te educaré para que quieras convertirte en uno.
 Vamos a tener mucho tiempo a solas……"
-"Komatsu Mai (talking)";"いっ……
-いやっすーーーーー！！！！";"I am ……
-Nooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo ！！！！";"Soy ……
+"Komatsu Mai (talking)","いっ……
+いやっすーーーーー！！！！","I am ……
+Nooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo ！！！！","Soy ……
 Nooooooooooooooooooooo ！！！！"
-"narrator";"小松舞は、連れ戻された。";"Komatsu Mai was brought back.";"Komatsu Mai fue traído de vuelta."
-"Komatsu Mai (talking)";"ばんざーーいっ！ ばんざーーいっす！！";"Hooray! Hooray!";"¡Hurra! ¡Hurra!"
-"narrator";"半壊してしまっているエデンの前で、 舞は大声をあげ、万歳をしていた。";"In front of the half-destroyed Eden, Mai shouted loudly and made a Hail Mary.";"Frente al Edén semidestruido, Mai gritaba y vociferaba."
-"Komatsu Mai (talking)";"ざまぁみろっす、ウィミィ人ー！ エデン破壊ばんざーい！！";"Suck it up, Wime people! Hooray for the destruction of Eden!";"¡Anímense, gente de Wime! ¡Viva la destrucción del Edén!"
+"narrator","小松舞は、連れ戻された。","Komatsu Mai was brought back.","Komatsu Mai fue traído de vuelta."
+"Komatsu Mai (talking)","ばんざーーいっ！ ばんざーーいっす！！","Hooray! Hooray!","¡Hurra! ¡Hurra!"
+"narrator","半壊してしまっているエデンの前で、 舞は大声をあげ、万歳をしていた。","In front of the half-destroyed Eden, Mai shouted loudly and made a Hail Mary.","Frente al Edén semidestruido, Mai gritaba y vociferaba."
+"Komatsu Mai (talking)","ざまぁみろっす、ウィミィ人ー！ エデン破壊ばんざーい！！","Suck it up, Wime people! Hooray for the destruction of Eden!","¡Anímense, gente de Wime! ¡Viva la destrucción del Edén!"

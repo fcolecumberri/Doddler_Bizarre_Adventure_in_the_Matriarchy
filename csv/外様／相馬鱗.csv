@@ -1,89 +1,89 @@
-"character";"jap text";"Eng";"Esp"
-"__system__??";"{麦 = 1:";"";""
-"__system__??";"{☆相馬鱗 = 2:";"";""
-"__system__??";"}";"";""
-"__system__??";"{B忠誠タイプ = 3:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 2:";"";""
-"__system__??";"{B忠誠タイプ = 4:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 3:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 4:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 5:";"";""
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"あ~…たこ焼きうめぇ…";"Ahhh…takoyaki yummy…";"Ahhh… takoyaki umemu…"
-"Yamamoto Akuji (talking)";"おう、たこ焼き食うか？";"Oh, you want some takoyaki?";"¿Quieres un takoyaki?"
-"Souma Rin (talking)";"いいわ。";"All right.";"Muy bien."
-"Yamamoto Akuji (talking)";"こっちの街、ミエに比べたら うるさいんじゃねーか？ 慣れたか？";"This town must be loud compared to Mie. Get used to it?";"Esta ciudad de aquí, es más ruidosa que Mie, ¿no? ¿Acostumbrarse?"
-"Souma Rin (talking)";"夜はまだ慣れないかな。
+"character","jap text","Eng","Esp"
+"__system__??","{麦 = 1:","",""
+"__system__??","{☆相馬鱗 = 2:","",""
+"__system__??","}","",""
+"__system__??","{B忠誠タイプ = 3:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 2:","",""
+"__system__??","{B忠誠タイプ = 4:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 3:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 4:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 5:","",""
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","あ~…たこ焼きうめぇ…","Ahhh…takoyaki yummy…","Ahhh… takoyaki umemu…"
+"Yamamoto Akuji (talking)","おう、たこ焼き食うか？","Oh, you want some takoyaki?","¿Quieres un takoyaki?"
+"Souma Rin (talking)","いいわ。","All right.","Muy bien."
+"Yamamoto Akuji (talking)","こっちの街、ミエに比べたら うるさいんじゃねーか？ 慣れたか？","This town must be loud compared to Mie. Get used to it?","Esta ciudad de aquí, es más ruidosa que Mie, ¿no? ¿Acostumbrarse?"
+"Souma Rin (talking)","夜はまだ慣れないかな。
 うちの村は、夜道を歩く足音も響いてさ、 誰だかわかるぐらい。
-だから誰が誰んとこ夜這行ってたか、 わかるんだよ。";"I'm still getting used to it at night.
+だから誰が誰んとこ夜這行ってたか、 わかるんだよ。","I'm still getting used to it at night.
 In my village, the sound of footsteps walking along the street at night echoes so much that I can tell who it is.
-That's how I know who's been crawling around at night.";"Todavía me estoy acostumbrando por la noche.
+That's how I know who's been crawling around at night.","Todavía me estoy acostumbrando por la noche.
 En mi pueblo, el sonido de los pasos en la calle por la noche tiene tanto eco que se puede saber de quién se trata.
 Así es como sé quién ha estado arrastrándose por la noche."
-"Yamamoto Akuji (talking)";"そんなあけすけな環境、涙が出るな。";"Such an open environment, it brings tears to my eyes.";"Un ambiente tan abierto que me hace llorar."
-"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
-"Souma Rin (talking)";"これってさ…";"This is…";"Esto es…"
-"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
-"Souma Rin (talking)";"夜這いってんじゃなくって、 昼這いっていうのかな？";"Not night crawling, but day crawling?";"¿No se arrastra de noche, sino de día?"
-"Yamamoto Akuji (talking)";"デートでもいーじゃねぇか。";"Why don't you just go on a date?";"No importa si es una cita."
-"Souma Rin (talking)";"そんなハイカラな言葉知らないよ。";"I don't know such a high-collar word.";"No conozco una palabra tan culta."
-"Yamamoto Akuji (talking)";"でよ………";"At: ………";"En: ………"
-"Souma Rin (talking)";"ん？";"Hmm?";"¿Eh?"
-"Yamamoto Akuji (talking)";"俺も、あんたを頂いちまっていいかな？";"Can I have you, too?";"¿Puedo tenerte a ti también?"
-"Souma Rin (talking)";"したいって事？";"You mean you want to?";"¿Quieres decir que quieres hacerlo?"
-"Yamamoto Akuji (talking)";"まあ。";"Well.";"Bueno."
-"Souma Rin (talking)";"いいわよ。 ここで？";"All right. Here?";"Muy bien. ¿Aquí?"
-"Yamamoto Akuji (talking)";"いや、一応、奥に行こうか。";"No, let's go to the back, just in case.";"No, vamos a la parte de atrás, por si acaso."
-"Souma Rin (talking)";"そうだね。";"Yes, it is.";"Sí."
-"Souma Rin (talking)";"鱗は、頭が真っ白になるまで、 悪司に抱かれた。";"Rin was held by Akuji until his head turned completely Haku.";"Rin fue sujetado por Akuji hasta que su cabeza se volvió completamente Haku."
-"Souma Rin (talking)";"…………ふう……";"…………-like……";"………… como ……"
-"Yamamoto Akuji (talking)";"疲れたか？";"Tired?";"¿Cansado?"
-"Souma Rin (talking)";"ん~…気持ちいい疲れ…… あんたみたいな男、知らないよ…";"Mmm… nice and tired…… I don't know any guy like you…";"Mmm… bonito y cansado…… No conozco a ningún hombre como tú…"
-"Yamamoto Akuji (talking)";"そいつはどーも。";"That guy is no good.";"Ese tipo es una cagada."
-"Souma Rin (talking)";"……時々…お願いしていいかな？";"…… sometimes… can I ask you for a favor?";"…… A veces… ¿puedo pedirte un favor?"
-"Yamamoto Akuji (talking)";"ああ。";"Oh.";"Oh."
-"Yamamoto Akuji (talking)";"鱗、奥にきてくれるかい？";"Rin, can you come to the back?";"Rin, ¿puedes venir al fondo?"
-"Souma Rin (talking)";"するの？";"Do you do?";"¿Hacer?"
-"Yamamoto Akuji (talking)";"ああ。";"Oh.";"Oh."
-"Souma Rin (talking)";"うん、いいよ。 こちらからお願いしたい ぐらいだから。";"Yes, that's fine. I'd even like to ask you to do it.";"Sí, está bien. Incluso nos gustaría pedirte que lo hicieras."
-"Souma Rin (talking)";"鱗は、気絶するまで悪司に抱かれた。";"Rin was held by Akuji until he passed out.";"Rin fue sujetada por Akuji hasta que se desmayó."
-"Yamamoto Akuji (talking)";"鱗、これ、海をきれーにする 金の足しにしてくんな。";"Rin, don't use this as an addition to the money to clean up the ocean.";"Rin, no uses esto como una adición al dinero para limpiar el mar."
-"Souma Rin (talking)";"ありがと、嬉しいよ。";"Thanks, I'm glad.";"Gracias, me alegro."
-"narrator";"鱗は悪司からお金を受け取った。";"Rin received money from Akuji.";"Rin recibió dinero de Akuji."
-"Souma Rin (talking)";"ふーん、身売りか。 考えもしなかったよ。
-もうかるかい？";"Hmmm, peddling. I hadn't thought of that.
-Can I make a profit?";"Hmmm, pedaleando. No había pensado en eso.
+"Yamamoto Akuji (talking)","そんなあけすけな環境、涙が出るな。","Such an open environment, it brings tears to my eyes.","Un ambiente tan abierto que me hace llorar."
+"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
+"Souma Rin (talking)","これってさ…","This is…","Esto es…"
+"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
+"Souma Rin (talking)","夜這いってんじゃなくって、 昼這いっていうのかな？","Not night crawling, but day crawling?","¿No se arrastra de noche, sino de día?"
+"Yamamoto Akuji (talking)","デートでもいーじゃねぇか。","Why don't you just go on a date?","No importa si es una cita."
+"Souma Rin (talking)","そんなハイカラな言葉知らないよ。","I don't know such a high-collar word.","No conozco una palabra tan culta."
+"Yamamoto Akuji (talking)","でよ………","At: ………","En: ………"
+"Souma Rin (talking)","ん？","Hmm?","¿Eh?"
+"Yamamoto Akuji (talking)","俺も、あんたを頂いちまっていいかな？","Can I have you, too?","¿Puedo tenerte a ti también?"
+"Souma Rin (talking)","したいって事？","You mean you want to?","¿Quieres decir que quieres hacerlo?"
+"Yamamoto Akuji (talking)","まあ。","Well.","Bueno."
+"Souma Rin (talking)","いいわよ。 ここで？","All right. Here?","Muy bien. ¿Aquí?"
+"Yamamoto Akuji (talking)","いや、一応、奥に行こうか。","No, let's go to the back, just in case.","No, vamos a la parte de atrás, por si acaso."
+"Souma Rin (talking)","そうだね。","Yes, it is.","Sí."
+"Souma Rin (talking)","鱗は、頭が真っ白になるまで、 悪司に抱かれた。","Rin was held by Akuji until his head turned completely Haku.","Rin fue sujetado por Akuji hasta que su cabeza se volvió completamente Haku."
+"Souma Rin (talking)","…………ふう……","…………-like……","………… como ……"
+"Yamamoto Akuji (talking)","疲れたか？","Tired?","¿Cansado?"
+"Souma Rin (talking)","ん~…気持ちいい疲れ…… あんたみたいな男、知らないよ…","Mmm… nice and tired…… I don't know any guy like you…","Mmm… bonito y cansado…… No conozco a ningún hombre como tú…"
+"Yamamoto Akuji (talking)","そいつはどーも。","That guy is no good.","Ese tipo es una cagada."
+"Souma Rin (talking)","……時々…お願いしていいかな？","…… sometimes… can I ask you for a favor?","…… A veces… ¿puedo pedirte un favor?"
+"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
+"Yamamoto Akuji (talking)","鱗、奥にきてくれるかい？","Rin, can you come to the back?","Rin, ¿puedes venir al fondo?"
+"Souma Rin (talking)","するの？","Do you do?","¿Hacer?"
+"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
+"Souma Rin (talking)","うん、いいよ。 こちらからお願いしたい ぐらいだから。","Yes, that's fine. I'd even like to ask you to do it.","Sí, está bien. Incluso nos gustaría pedirte que lo hicieras."
+"Souma Rin (talking)","鱗は、気絶するまで悪司に抱かれた。","Rin was held by Akuji until he passed out.","Rin fue sujetada por Akuji hasta que se desmayó."
+"Yamamoto Akuji (talking)","鱗、これ、海をきれーにする 金の足しにしてくんな。","Rin, don't use this as an addition to the money to clean up the ocean.","Rin, no uses esto como una adición al dinero para limpiar el mar."
+"Souma Rin (talking)","ありがと、嬉しいよ。","Thanks, I'm glad.","Gracias, me alegro."
+"narrator","鱗は悪司からお金を受け取った。","Rin received money from Akuji.","Rin recibió dinero de Akuji."
+"Souma Rin (talking)","ふーん、身売りか。 考えもしなかったよ。
+もうかるかい？","Hmmm, peddling. I hadn't thought of that.
+Can I make a profit?","Hmmm, pedaleando. No había pensado en eso.
  ¿Puede obtener beneficios?"
-"Yamamoto Akuji (talking)";"お前さん次第だ。";"It's up to you.";"Depende de ti."
-"Souma Rin (talking)";"わかったよ、行くよ。
-だけど、もうからなかったらさっさと 出て行くからね。";"All right, I'll go.
-But if I don't make it, I'll get the hell out of here.";"Muy bien, me iré.
+"Yamamoto Akuji (talking)","お前さん次第だ。","It's up to you.","Depende de ti."
+"Souma Rin (talking)","わかったよ、行くよ。
+だけど、もうからなかったらさっさと 出て行くからね。","All right, I'll go.
+But if I don't make it, I'll get the hell out of here.","Muy bien, me iré.
 Pero si no consigo nada más, me iré a la mierda."
-"Souma Rin (talking)";"ＧＡＬバーガー…";"GAL Burger…";"GAL Burger…"
-"Yamamoto Akuji (talking)";"知ってるのか？";"Do you know?";"¿Lo sabes?"
-"Souma Rin (talking)";"知ってるよ。 あの、可愛いフリフリの服の店でしょ？ あれ、あんたの店だったの。";"I know. That cute frilly clothes store, right? That was your store.";"Lo sé. Esa bonita tienda de ropa con volantes, ¿verdad? Esa era tu tienda."
-"Yamamoto Akuji (talking)";"でよ、あそこで働いて欲しいんだけど。";"And I'd like you to work there.";"Así que quiero que trabajes allí."
-"Souma Rin (talking)";"あ、あの服……あの、ひらひらを…";"Oh, that dress…… that flutter…";"Oh, ese vestido…… ese aleteo…"
-"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
-"Souma Rin (talking)";"断るよ… あの服は……可愛すぎて、 あたしは着る事が出来ない……";"I refuse… that dress is too…… pretty for me to wear……";"Me niego… ese vestido es…… demasiado bonito para mí……"
-"narrator";"鱗は顔を真っ赤にして、唇を噛んだ。";"Rin turned red and bit her lip.";"Rin se puso roja y se mordió el labio."
-"Yamamoto Akuji (talking)";"んな、照れなくても… 似合うと思うけどなー。";"Don't be shy… I think it looks good on you.";"No seas tímido… Creo que te queda bien."
-"Souma Rin (talking)";"そういう問題じゃないんだよ…… ああ……恥ずかしい……";"That's not the point…… Oh…… shame on you……";"Ese no es el punto…… Oh…… que vergüenza……"
-" (talking)";"ここにいたんだ、鱗。";"There you are, Rin.";"Estuve aquí, Rin."
-"Souma Rin (talking)";"呼んだのはお前の方でしょ、千手。 で、用は何？";"You're the one who called me, Senju. So, what do you want?";"Tú fuiste quien me llamó, Senju. Entonces, ¿qué quieres?"
-"Ishihara Senju (talking)";"鱗ってさ、きた時からいきなり仕事が 出来るぐらい、達者だったじゃない。";"Rin was so skilled that she was able to work from the moment she arrived.";"Rin fue muy buena en su trabajo desde que llegó."
-"Souma Rin (talking)";"そうね。";"Yes, I think so.";"Sí."
-"Ishihara Senju (talking)";"でさ、それ以上のオンナになって 欲しくてさ。 さ、行くよ。";"And I wanted you to be more than that. Here we go.";"Y quería que fueras más que eso. Venga, vamos."
-"Souma Rin (talking)";"どこに？";"Where?";"Dónde."
-"Ishihara Senju (talking)";"くればわかるよ、おいで。";"You'll understand if you come, come.";"Lo entenderás si vienes, ven."
-"narrator";"千手は鱗の手を引き、薄暗い部屋へと向かった。";"Senju pulled Rin's hand and headed for the dimly lit room.";"Senju tiró de la mano de Rin y se dirigió a la habitación poco iluminada."
-"cg narrator";"「千手、これっ…これは、どういう事なのよ！？」
+"Souma Rin (talking)","ＧＡＬバーガー…","GAL Burger…","GAL Burger…"
+"Yamamoto Akuji (talking)","知ってるのか？","Do you know?","¿Lo sabes?"
+"Souma Rin (talking)","知ってるよ。 あの、可愛いフリフリの服の店でしょ？ あれ、あんたの店だったの。","I know. That cute frilly clothes store, right? That was your store.","Lo sé. Esa bonita tienda de ropa con volantes, ¿verdad? Esa era tu tienda."
+"Yamamoto Akuji (talking)","でよ、あそこで働いて欲しいんだけど。","And I'd like you to work there.","Así que quiero que trabajes allí."
+"Souma Rin (talking)","あ、あの服……あの、ひらひらを…","Oh, that dress…… that flutter…","Oh, ese vestido…… ese aleteo…"
+"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
+"Souma Rin (talking)","断るよ… あの服は……可愛すぎて、 あたしは着る事が出来ない……","I refuse… that dress is too…… pretty for me to wear……","Me niego… ese vestido es…… demasiado bonito para mí……"
+"narrator","鱗は顔を真っ赤にして、唇を噛んだ。","Rin turned red and bit her lip.","Rin se puso roja y se mordió el labio."
+"Yamamoto Akuji (talking)","んな、照れなくても… 似合うと思うけどなー。","Don't be shy… I think it looks good on you.","No seas tímido… Creo que te queda bien."
+"Souma Rin (talking)","そういう問題じゃないんだよ…… ああ……恥ずかしい……","That's not the point…… Oh…… shame on you……","Ese no es el punto…… Oh…… que vergüenza……"
+" (talking)","ここにいたんだ、鱗。","There you are, Rin.","Estuve aquí, Rin."
+"Souma Rin (talking)","呼んだのはお前の方でしょ、千手。 で、用は何？","You're the one who called me, Senju. So, what do you want?","Tú fuiste quien me llamó, Senju. Entonces, ¿qué quieres?"
+"Ishihara Senju (talking)","鱗ってさ、きた時からいきなり仕事が 出来るぐらい、達者だったじゃない。","Rin was so skilled that she was able to work from the moment she arrived.","Rin fue muy buena en su trabajo desde que llegó."
+"Souma Rin (talking)","そうね。","Yes, I think so.","Sí."
+"Ishihara Senju (talking)","でさ、それ以上のオンナになって 欲しくてさ。 さ、行くよ。","And I wanted you to be more than that. Here we go.","Y quería que fueras más que eso. Venga, vamos."
+"Souma Rin (talking)","どこに？","Where?","Dónde."
+"Ishihara Senju (talking)","くればわかるよ、おいで。","You'll understand if you come, come.","Lo entenderás si vienes, ven."
+"narrator","千手は鱗の手を引き、薄暗い部屋へと向かった。","Senju pulled Rin's hand and headed for the dimly lit room.","Senju tiró de la mano de Rin y se dirigió a la habitación poco iluminada."
+"cg narrator","「千手、これっ…これは、どういう事なのよ！？」
  「さっき言ったでしょ？ 　鱗には、今以上になって貰うって。 　今からそれを始めるだけだよ」
  「だ、だけど、これは、こんな…」
  「ヘンタイっぽくって、異常だっていうの？」
@@ -92,7 +92,7 @@ Pero si no consigo nada más, me iré a la mierda."
  「えっ……」
  「夜這いだなんて風習がある村で暮らしているのに、 　古風なとこあるもんね、鱗」
  「な、何が…」
- 「じゃあ、始めるよ」";"Senju, this… this is what this is all about!”
+ 「じゃあ、始めるよ」","Senju, this… this is what this is all about!”
 I told you earlier, didn't I? 　I told you Rin would become more than what he is now. 　I'm just going to make it Hajime from now on.”
  “But, but this is so…”
  “Hentai-ish and crazy?”
@@ -101,7 +101,7 @@ What I want from Rin is to get rid of that moral compass.
 What? ……
 You're a bit old-fashioned for living in a village with such a custom of night crawling, aren't you, Rin?
 What? What…
-Well, I'm going to Hajime.";"Senju, esto… ¡de esto se trata!”
+Well, I'm going to Hajime.","Senju, esto… ¡de esto se trata!”
  'Te lo dije antes, ¿no? 　Te dije que Rin te haría mejor de lo que eres ahora. 　Sólo voy a Hajime a partir de ahora”.
  “Pero, pero esto, esto es…”
  “¿Hentai y anormal?”
@@ -111,7 +111,7 @@ Lo que quiero de Rin es deshacerme de esa moral.
 Eres un poco anticuado, Rin, viviendo en un pueblo donde la noche es una costumbre.
 Que…
 Bueno, yo te Hajime."
-"cg narrator";"そう言って、千手は手にしている 蝋燭に火をつけた。
+"cg narrator","そう言って、千手は手にしている 蝋燭に火をつけた。
  「なっ……何を、そ、それっ……」
  「こーいうのでさ、人を嬲るのが好きな人が 　いるんだよ」
 千手は言葉に合わせるように、手にしている 蝋燭の火を、ゆらゆらと揺らした。
@@ -120,7 +120,7 @@ Bueno, yo te Hajime."
 そして、手にしている蝋燭を、 鱗の躰に近づけた。
 蝋燭の芯の根元には、もう液体状になった蝋が、 溢れそうになっていた。
 千手の手首が、ゆっくり下を向く。
- 「あっ……」";"Saying this, Senju lit a candle in his hand.
+ 「あっ……」","Saying this, Senju lit a candle in his hand.
  “What are you…… doing, that's…… it?
 There are people who like to torture people with this kind of thing.
  
@@ -129,7 +129,7 @@ I do it this way.”
 The candle in his hand was brought close to Rin's body.
 The wax that had become liquid at the base of the candle wick was already almost overflowing.
 Senju's wrist slowly looked down.
-Oh, ……”";"Diciendo esto, Senju encendió la vela en su mano.
+Oh, ……”","Diciendo esto, Senju encendió la vela en su mano.
  '¿Qué estás haciendo ……, que es ……?
 Hay gente a la que le gusta torturar a la gente con este tipo de cosas.
 Lo más importante es recordar que la mejor manera de sacar el máximo provecho de su propia casa es asegurarse de que su hogar es seguro y protegido.
@@ -139,7 +139,7 @@ La vela en su mano se acercó al cuerpo de Rin.
 La cera que ya se había vuelto líquida en la base de la mecha de la vela estaba a punto de desbordarse.
 La muñeca de Senju mira lentamente hacia abajo.
 Oh, …….”"
-"cg narrator";"「あ~~~~！！」
+"cg narrator","「あ~~~~！！」
 熱さに鱗が声をあげ、躰を揺らす。 その度に鱗の躰にまとわりついている戒めが、 きしきしと音をたて、さらに鱗を絞めあげていく。
  「いたっ……あっ…うっあっ………！！」
  「そーそー、いい感じの痛がりっぷりだよ。 　その調子」
@@ -171,7 +171,7 @@ Oh, …….”"
 という千手の台詞に、 鱗が最後の理性を振り絞り叫んだ。
  「こっ……これ以上、何をするっていうのっ…？ 　こんな…こんな、酷い事ばかりっ……」
  「じゃあ何をされるか、躰で味わってよ」
- 「えっ…」";"Oh ~~~~!!!”
+ 「えっ…」","Oh ~~~~!!!”
 Rin screams and shakes her body due to the heat. The warning clinging to Rin's body makes a creaking sound each time she does this, and it squeezes her even more.
  “Ouch ………ouch ………!!!”
  'Soooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo, that's a good kind of pain. 　Keep it up.”
@@ -203,7 +203,7 @@ Oh, yeah, that's right. 　Let's finish up then.
 The first thing to do is to make sure that you have a good time with your friends and family.
 What more are you going to do to me…? 　Such… such… terrible things… ……
 Then taste what they are going to do to your body.
-What…?”";"”¡Oh ~~~~!
+What…?”","”¡Oh ~~~~!
 El calor hace que Rin grite y agite su cuerpo. Cada vez, la advertencia que se aferra al cuerpo de Rin hace un sonido chirriante, estrangulando aún más a Rin.
  'Ouch…… oh… ohhhh ………!!'
  'Así-así-así, eso es un buen ouch. 　Sigue así”.
@@ -236,7 +236,7 @@ La primera vez que vi a una mujer en bikini, pensé
  'Koko ……, ¿qué más vas a hacer…? 　Tales… tales cosas terribles… ……
 Luego prueba lo que le hacen a tu cuerpo.
  ¿Qué…?”"
-"cg narrator";"千手は火のついたままの蝋燭を、 鱗の花弁に宛った。
+"cg narrator","千手は火のついたままの蝋燭を、 鱗の花弁に宛った。
  「ああああっ！！」
 今までのものとは比べ物にならない熱さに 鱗が悲鳴をあげた。
  「熱い？　痛い？ 　ただ、悲鳴をあげてるだけじゃ、 　どっちかわかんないね」
@@ -253,7 +253,7 @@ Luego prueba lo que le hacen a tu cuerpo.
  「イッちゃいなよ、異常な状態でさ。 　鱗に必要なのは、今はそれなんだから」
 千手はさらに蝋燭を使って鱗の中をかき回す。
  「んあ、あ、あっ……っ……あ！！」
-鱗は千手の言葉通り、その異常の状態の中で、 達し、大きな声をあげ、何度も何度も躰を震わせた。";"Senju put the candle, still lit, on Rin's petals.
+鱗は千手の言葉通り、その異常の状態の中で、 達し、大きな声をあげ、何度も何度も躰を震わせた。","Senju put the candle, still lit, on Rin's petals.
 Aaahh!”
 Rin screamed at the heat, which was incomparable to the previous ones.
 Hot?　Hurts? 　I can't tell which it is if you're just screaming.
@@ -270,7 +270,7 @@ Rin's body trembles greatly in the abnormal state.
 The first thing that comes to my mind is that I need to get rid of the pain. 　The most important thing for Rin is that it's what he needs right now.
 Senju stirred inside Rin with more candles.
  'Oh, ah, ah, ah ……,…… ah!
-Rin, as Senju said, reached and screamed loudly in that abnormal state, shaking her body over and over again.";"Senju dirigió la vela, aún encendida, a los pétalos de Rin.
+Rin, as Senju said, reached and screamed loudly in that abnormal state, shaking her body over and over again.","Senju dirigió la vela, aún encendida, a los pétalos de Rin.
  “¡¡¡Aaahh!!!
 Rin gritó ante el incomparable calor.
  “¿Caliente?　¿Duele? 　No puedo saber cuál es si sólo gritas'.
@@ -288,23 +288,23 @@ El cuerpo de Rin tiembla mucho en el estado anormal.
 Senju se agita dentro de Rin con más velas.
  '¡Oh, oh, oh Rin, oh Rin!'
 Rin, como dijo Senju, alcanzó y gritó fuertemente y sacudió su cuerpo una y otra vez en ese estado anormal."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"Chinpira (talking)";"これはこれは、遠い所からの お客様で。
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"Chinpira (talking)","これはこれは、遠い所からの お客様で。
 え、相馬鱗ですか？
 はい、いますよ。 おりますよ、空いていますよ、 ラッキーですなー。
 はいはい、それでは、鱗ちゃんご指名で、 野外プレイー。
-はりきってお仕事してね。 ハッスル、ハッスル~！";"Well, well, well, we have a visitor from far away.
+はりきってお仕事してね。 ハッスル、ハッスル~！","Well, well, well, we have a visitor from far away.
 Oh, Souma Rin?
 Yes, I'm here. Yes, I'm here. I'm available. You're lucky.
 Okay, then, you're Rin's choice for outdoor play.
-Work hard. Hustle, hustle, hustle!";"Bueno, bueno, bueno, tenemos clientes desde muy lejos.
+Work hard. Hustle, hustle, hustle!","Bueno, bueno, bueno, tenemos clientes desde muy lejos.
  ¿Qué, Souma Rin?
 Sí, estoy aquí. Sí, estoy aquí, estoy disponible, tienes suerte.
 Bien, entonces, eres la elección de Rin para jugar al aire libre.
 Trabaja duro. ¡Apúrate, apúrate!"
-"cg narrator";"「い、いやだ、やめて… 　うあっ…あっ…！！」";"No, no, no, don't… ah… ah…!";"No, no, no… oh… oh…"
-"cg narrator";"「へ……へへへ…… 　久しぶりだなあ、鱗……」
+"cg narrator","「い、いやだ、やめて… 　うあっ…あっ…！！」","No, no, no, don't… ah… ah…!","No, no, no… oh… oh…"
+"cg narrator","「へ……へへへ…… 　久しぶりだなあ、鱗……」
 鱗を買った男は、鱗と同じ村の男だった。
  「村にいた時、お前、俺が夜這いに行ったら、 　絶対、嫌だっつって、殴り倒してくれたよな…」
 男はいやらしく、ねちねちとした声で、 鱗の耳元で囁いた。
@@ -374,7 +374,7 @@ Trabaja duro. ¡Apúrate, apúrate!"
  「くっ…！」
 男の腰の動きが不規則に、そして早くなった。
  「あっ…駄目っ…あっ…」
- 「くっ…ぉぉっ…！！」";"”Heh…… heh…… long time no see, Rin …….”
+ 「くっ…ぉぉっ…！！」","”Heh…… heh…… long time no see, Rin …….”
 The man who bought Rin was a man from the same village as Rin.
 The man who bought Rin was a man from the same village as Rin. “When we were in the village, you used to beat me up when I tried to crawl on you at night, saying that you would never do that…”
 The man whispered in Rin's ear, in a sly, coquettish voice.
@@ -444,7 +444,7 @@ The movement of the man's hips become faster in time with Rin's voice.
 Kuku…!”
 The movement of the man's hips became irregular and fast.
  “Oh…no…oh…”
-Oh… oh…!";"'Heh…… heh…… ha pasado mucho tiempo, Rin ……'
+Oh… oh…!","'Heh…… heh…… ha pasado mucho tiempo, Rin ……'
 El hombre que compró a Rin era del mismo pueblo que Rin.
 El hombre que compró a Rin era un hombre del mismo pueblo que Rin.
 El hombre susurró al oído de Rin con voz socarrona y coqueta.
@@ -514,165 +514,165 @@ El movimiento de las caderas del hombre se acelera al ritmo de la voz de Rin.
 El movimiento de las caderas del hombre se volvió irregular y rápido.
  'Ah… no… ah…'
  '¡Kuh… oh…!"
-"cg narrator";"「あっ……！！」
+"cg narrator","「あっ……！！」
 鱗の見ている位置からは、それはまるで 自分が射精した白濁の体液のようだった。
  「あっ…いやぁっ……！」
  「くっ……はははっ…！！」
-男は排出の快楽に震え、 鱗の悲しそうな声を聞きながら、 大きな声で笑った。";"Oh ……!!!”
+男は排出の快楽に震え、 鱗の悲しそうな声を聞きながら、 大きな声で笑った。","Oh ……!!!”
 From Rin's vantage point, it was like Haku's own ejaculate.
  “Oh…no……!
 Damn…… hahaha…!”
-The man trembled with the pleasure of the discharge and laughed loudly as he heard Rin's sad voice.";"”¡Oh ……!
+The man trembled with the pleasure of the discharge and laughed loudly as he heard Rin's sad voice.","”¡Oh ……!
 Desde donde Rin miraba, parecía que el Haku fluidos corporales fangosos que había eyaculado.
  '¡Oh… no……!
  '¡Maldito…… jajaja…!
 El hombre se estremeció por el placer de su descarga y rió a carcajadas al escuchar la triste voz de Rin."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"narrator";"悪司達は、その村の漁場である海にきていた。";"Akuji and his friends had come to the sea, the fishing ground of the village.";"Akuji y su grupo habían llegado al mar, al caladero del pueblo."
-"Yamamoto Akuji (talking)";"ここの海も汚れてんなー。";"The sea here is dirty too.";"El mar aquí también está sucio."
-"Takega Satsu (talking)";"オオサカから海続きだからな。 あそこがあれだけ汚れているのなら、 いたしかたあるまい。";"It's a stretch of ocean from Oosaka. If it's that dirty, it's no wonder.";"Es un tramo de océano de Ossaka. Si es tan sucio allí, que así sea."
-"Yamamoto Akuji (talking)";"で、この辺りで強いって 評判の女ってのは…";"So, this girl who's known around here for her strength…";"Así que, esta chica que tiene fama de ser fuerte por aquí, es…"
-"Takega Satsu (talking)";"ひょっとして、あれか？";"Was it that one, by any chance?";"¿Es ese, por casualidad?"
-"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
-"narrator";"殺の指さした方の海からくじらが跳ねた。";"A whale jumped from the sea in the direction Satsu pointed.";"Una ballena saltó del mar en la dirección que Satsu señaló."
-"Yamamoto Akuji (talking)";"はぁ？？？？";"Huh ？？？？";"Huh. ？？？？"
-"narrator";"そのくじらの頭に、女の影がひとつ乗っている。
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"narrator","悪司達は、その村の漁場である海にきていた。","Akuji and his friends had come to the sea, the fishing ground of the village.","Akuji y su grupo habían llegado al mar, al caladero del pueblo."
+"Yamamoto Akuji (talking)","ここの海も汚れてんなー。","The sea here is dirty too.","El mar aquí también está sucio."
+"Takega Satsu (talking)","オオサカから海続きだからな。 あそこがあれだけ汚れているのなら、 いたしかたあるまい。","It's a stretch of ocean from Oosaka. If it's that dirty, it's no wonder.","Es un tramo de océano de Ossaka. Si es tan sucio allí, que así sea."
+"Yamamoto Akuji (talking)","で、この辺りで強いって 評判の女ってのは…","So, this girl who's known around here for her strength…","Así que, esta chica que tiene fama de ser fuerte por aquí, es…"
+"Takega Satsu (talking)","ひょっとして、あれか？","Was it that one, by any chance?","¿Es ese, por casualidad?"
+"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
+"narrator","殺の指さした方の海からくじらが跳ねた。","A whale jumped from the sea in the direction Satsu pointed.","Una ballena saltó del mar en la dirección que Satsu señaló."
+"Yamamoto Akuji (talking)","はぁ？？？？","Huh ？？？？","Huh. ？？？？"
+"narrator","そのくじらの頭に、女の影がひとつ乗っている。
 女の手が動き、くじらの頭に銛（モリ）が深々と 突き刺さった。
 くじらは一度海に沈むとさらに身を翻し、 腹を見せたかと思うと動かなくなった。
-そのくじらめがけ、いくつかの船が動き出した。 船はくじらと女を連れ、岸に戻ってきた。";"On the whale's head is a shadow of a woman.
+そのくじらめがけ、いくつかの船が動き出した。 船はくじらと女を連れ、岸に戻ってきた。","On the whale's head is a shadow of a woman.
 The woman's hand moves, and a harpoon is thrust deeply into the whale's head.
 Once the whale sank into the sea, it turned around and showed its belly, and then stopped moving.
-Several boats started to move toward the whale. The boats returned to shore with the whale and the woman.";"En la cabeza de la ballena está la sombra de una mujer.
+Several boats started to move toward the whale. The boats returned to shore with the whale and the woman.","En la cabeza de la ballena está la sombra de una mujer.
 La mano de la mujer se mueve y un arpón se clava en la cabeza de la ballena.
 Una vez que la ballena se hundió en el mar, se dio la vuelta y mostró su vientre, y luego dejó de moverse.
 Varios barcos empezaron a acercarse a la ballena. Los barcos volvieron a la orilla con la ballena y la mujer."
-"Takega Satsu (talking)";"行ってみるか。";"Let's go.";"Vamos."
-"Yamamoto Akuji (talking)";"そーだなー。";"I guess so.";"Sí."
-"narrator";"悪司は今獲れた大物を囲む人々の中に 入って行った。";"Akuji walked into the crowd surrounding the big fish he had just caught.";"Akuji se adentró en la multitud que rodeaba al gran pez que acababa de pescar."
-"Yamamoto Akuji (talking)";"えー、ここに、相馬鱗って ねーちゃんはいるかい？";"Well, is there a girl named Souma Rin here?";"Uh, ¿hay una nee-chan llamada Souma Rin aquí?"
-"Souma Rin (talking)";"あたしに何か用？";"What do you want from me?";"¿Qué quieres de mí?"
-"narrator";"そう言って人垣の向こうから姿を現したのは、 くじらの頭の上にあった影本人だった。";"The shadow on the whale's head appeared from behind the crowd.";"La sombra de la cabeza de la ballena apareció por detrás de la multitud."
-"Yamamoto Akuji (talking)";"あんたかい？ この辺りで強い強いっていう女は。";"Is that you? You're the one who says she's strong and powerful around here.";"¿Eres tú? La mujer que dice ser fuerte y poderosa por aquí."
-"Souma Rin (talking)";"そう言われるけど、 どうかはわからないわ。";"That's what people say, but I don't know if that's true.";"Eso dicen, pero no sé si es cierto."
-"Yamamoto Akuji (talking)";"俺は山本悪司。 オオサカからきた。
-あんたに頼みがあってきた。";"My name is Yamamoto Akuji. I'm from Osaka, Japan.
-I came to ask a favor from you.";"Me llamo Yamamoto Akuji. Soy de Osaka.
+"Takega Satsu (talking)","行ってみるか。","Let's go.","Vamos."
+"Yamamoto Akuji (talking)","そーだなー。","I guess so.","Sí."
+"narrator","悪司は今獲れた大物を囲む人々の中に 入って行った。","Akuji walked into the crowd surrounding the big fish he had just caught.","Akuji se adentró en la multitud que rodeaba al gran pez que acababa de pescar."
+"Yamamoto Akuji (talking)","えー、ここに、相馬鱗って ねーちゃんはいるかい？","Well, is there a girl named Souma Rin here?","Uh, ¿hay una nee-chan llamada Souma Rin aquí?"
+"Souma Rin (talking)","あたしに何か用？","What do you want from me?","¿Qué quieres de mí?"
+"narrator","そう言って人垣の向こうから姿を現したのは、 くじらの頭の上にあった影本人だった。","The shadow on the whale's head appeared from behind the crowd.","La sombra de la cabeza de la ballena apareció por detrás de la multitud."
+"Yamamoto Akuji (talking)","あんたかい？ この辺りで強い強いっていう女は。","Is that you? You're the one who says she's strong and powerful around here.","¿Eres tú? La mujer que dice ser fuerte y poderosa por aquí."
+"Souma Rin (talking)","そう言われるけど、 どうかはわからないわ。","That's what people say, but I don't know if that's true.","Eso dicen, pero no sé si es cierto."
+"Yamamoto Akuji (talking)","俺は山本悪司。 オオサカからきた。
+あんたに頼みがあってきた。","My name is Yamamoto Akuji. I'm from Osaka, Japan.
+I came to ask a favor from you.","Me llamo Yamamoto Akuji. Soy de Osaka.
 He venido a pedirte un favor."
-"Souma Rin (talking)";"………？";"………？";"………？"
-"Yamamoto Akuji (talking)";"俺は今、ある組とドンパチの最中でよ。 で、助っ人として、俺んとこにきて 欲しいんだ。
-もちろん、報酬ははずむ。 仕事具合によってだけどな。 どうだい？";"I'm in the middle of a war with a certain group. I'm in the middle of a war with a group, and I'd like you to come to my place as a helper.
-Of course, I'll pay you. Depends on how well I do. How's that sound?";"Estoy en medio de una guerra con una banda. Y quiero que vengas a mí como ayudante.
+"Souma Rin (talking)","………？","………？","………？"
+"Yamamoto Akuji (talking)","俺は今、ある組とドンパチの最中でよ。 で、助っ人として、俺んとこにきて 欲しいんだ。
+もちろん、報酬ははずむ。 仕事具合によってだけどな。 どうだい？","I'm in the middle of a war with a certain group. I'm in the middle of a war with a group, and I'd like you to come to my place as a helper.
+Of course, I'll pay you. Depends on how well I do. How's that sound?","Estoy en medio de una guerra con una banda. Y quiero que vengas a mí como ayudante.
 Por supuesto, te pagaré. Depende de lo bien que trabaje. ¿Qué te parece?"
-"Souma Rin (talking)";"本当に報酬をはずんでくれるの？";"Are they really going to offer me a reward?";"¿Realmente te van a ofrecer una recompensa?"
-"Yamamoto Akuji (talking)";"あんた次第だ。 噂通りだったら、金ははずむよ。";"It's up to you. If it's as good as they say, you'll get your money's worth.";"Depende de ti. Si es tan bueno como dicen, te saldrá rentable."
-"Souma Rin (talking)";"……わかった。 行くわ。
+"Souma Rin (talking)","本当に報酬をはずんでくれるの？","Are they really going to offer me a reward?","¿Realmente te van a ofrecer una recompensa?"
+"Yamamoto Akuji (talking)","あんた次第だ。 噂通りだったら、金ははずむよ。","It's up to you. If it's as good as they say, you'll get your money's worth.","Depende de ti. Si es tan bueno como dicen, te saldrá rentable."
+"Souma Rin (talking)","……わかった。 行くわ。
 この汚れてしまった海を綺麗にする 資金繰りに村中で困っていたところ だったから。
-間がよい話なので、海の神様が向けて 下さった運かもしれない。";"…… Okay. I'll go.
+間がよい話なので、海の神様が向けて 下さった運かもしれない。","…… Okay. I'll go.
 The whole village was in need of funds to clean up this polluted sea.
-It's a good time for a story, so maybe it's luck that the sea god sent it to us.";"……. De acuerdo. Voy a ir.
+It's a good time for a story, so maybe it's luck that the sea god sent it to us.","……. De acuerdo. Voy a ir.
 Todo el pueblo necesitaba fondos para limpiar este mar contaminado.
 Es una buena historia en el tiempo, así que tal vez sea una suerte que los dioses del mar la hayan dirigido hacia nosotros."
-"Yamamoto Akuji (talking)";"それじゃあ、今からでも…";"Well, then, I guess we'll just have to…";"Bueno, entonces, podemos empezar ahora…"
-"Souma Rin (talking)";"すまないけど、こちらで片付けたい事が あるので、それを済ませてからで いいかしら？";"I'm sorry, but we have some things we need to take care of.";"Lo siento, pero hay algo que tengo que resolver aquí, así que ¿podemos hacer eso primero?"
-"Yamamoto Akuji (talking)";"わかった、待ってるよ。 住所はここだ。";"Okay, I'll wait for you. Here's the address.";"Muy bien, te espero. Esta es la dirección."
-"narrator";"悪司は奉仕青年団の住所の書かれたメモを、 鱗に渡した。";"Akuji gave Rin a note with the address of the service youth group.";"Akuji le dio a Rin una nota con la dirección de la organización juvenil del servicio."
-"Souma Rin (talking)";"わかったわ。";"I understand.";"Lo entiendo."
-"Yamamoto Akuji (talking)";"じゃあな、待ってるぜ。";"I'll be waiting for you.";"Hasta luego, te estaré esperando."
-"Seinendan Jyoshi (talking)";"悪司さーん。";"Akuji.";"Akuji."
-"Yamamoto Akuji (talking)";"うーい。";"Oui.";"Oui."
-"Seinendan Jyoshi (talking)";"お客様です、女の人です。 ミエの方からおいでだそーです。 悪司さん、マメですね。";"Here is a visitor, a woman. She's from Mie. Akuji, you're a diligent person, aren't you?";"Tenemos una visita, una mujer. Viene de Mie. Akuji, eres un hombre diligente."
-"Yamamoto Akuji (talking)";"何が？";"What?";"¿Qué?"
-"Seinendan Jyoshi (talking)";"そんなとこの女の人まで ナンパしているだなんて…";"I can't believe they're even picking on women there.";"No puedo creer que se metan con las mujeres en lugares como ese…"
-"Yamamoto Akuji (talking)";"ちげーよ、ばーか。 通してやってくんな。";"That's not true, asshole. Don't come through.";"No, no, no, idiota. No pases."
-"Seinendan Jyoshi (talking)";"はーい。";"Hai.";"Hai."
-"Souma Rin (talking)";"こんにちは。";"Hello.";"Hola."
-"Yamamoto Akuji (talking)";"おう、きてくれたか。 用事は片付いたか？";"Oh, you came. Did you get your errands done?";"Oh, has venido. ¿Has hecho tus recados?"
-"Souma Rin (talking)";"ええ。 なんとか。";"Yeah. Somehow.";"Sí. De alguna manera."
-"Yamamoto Akuji (talking)";"例のアレかい？ 海の汚染がどーのこーの。";"Is it that thing you were talking about? What about the pollution of the sea?";"¿Es eso a lo que te refieres? ¿Y la contaminación del mar?"
-"Souma Rin (talking)";"それもあるけど、仕事の事と、 きょうだいを宥めていたの。 しばらく離れてしまうから。";"That's part of it, but I've been trying to keep my work and my toddler quiet. I'm going away for a while.";"Eso es parte de ello, pero he estado tratando de calmar el trabajo y los niños. Me voy por un tiempo."
-"Yamamoto Akuji (talking)";"そんなに仲がいいのか。";"Are they that close?";"¿Están tan cerca?"
-"Souma Rin (talking)";"それもあるけど……ああそうか。 こっちは都会だから、うちにある風習は ないのかしら。";"That's part of it…… Oh, I see. I wonder if they don't have the custom we have here in the city.";"Eso es parte de ello, pero no lo sé…… Oh, ya veo. Estamos en la ciudad, así que me pregunto si no tienen las costumbres que tenemos aquí."
-"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
-"Souma Rin (talking)";"夜這い。";"Night crawling.";"Arrastre nocturno."
-"Yamamoto Akuji (talking)";"よ……ばい？？";"Yo…… buy?";"Yo…… comprar?"
-"Souma Rin (talking)";"ええ、そう。 夜這いの風習があるから、父だけ同じ、 母だけ同じという子供が多いのよ。";"Yes, that's right. Because of the custom of night crawling, many children have the same father and the same mother.";"Sí, lo hacen. Debido a la costumbre de arrastrarse por la noche, muchos niños tienen sólo el mismo padre, sólo la misma madre."
-"Yamamoto Akuji (talking)";"あんたも、じゃあ……";"You too, then……";"Entonces, tú también……"
-"Souma Rin (talking)";"そうね。 きょうだいの他に、離れたくないって ぐずる男がいたから…
-何発か殴ったら、おとなしくなったから よかったけど。";"Yes, I know. Besides my siblings, there was another boy who didn't want to leave.
-I hit him a few times, and he calmed down.";"Sí, lo sé. Además de mis hermanos, había otro chico que no quería dejarme, así que…
+"Yamamoto Akuji (talking)","それじゃあ、今からでも…","Well, then, I guess we'll just have to…","Bueno, entonces, podemos empezar ahora…"
+"Souma Rin (talking)","すまないけど、こちらで片付けたい事が あるので、それを済ませてからで いいかしら？","I'm sorry, but we have some things we need to take care of.","Lo siento, pero hay algo que tengo que resolver aquí, así que ¿podemos hacer eso primero?"
+"Yamamoto Akuji (talking)","わかった、待ってるよ。 住所はここだ。","Okay, I'll wait for you. Here's the address.","Muy bien, te espero. Esta es la dirección."
+"narrator","悪司は奉仕青年団の住所の書かれたメモを、 鱗に渡した。","Akuji gave Rin a note with the address of the service youth group.","Akuji le dio a Rin una nota con la dirección de la organización juvenil del servicio."
+"Souma Rin (talking)","わかったわ。","I understand.","Lo entiendo."
+"Yamamoto Akuji (talking)","じゃあな、待ってるぜ。","I'll be waiting for you.","Hasta luego, te estaré esperando."
+"Seinendan Jyoshi (talking)","悪司さーん。","Akuji.","Akuji."
+"Yamamoto Akuji (talking)","うーい。","Oui.","Oui."
+"Seinendan Jyoshi (talking)","お客様です、女の人です。 ミエの方からおいでだそーです。 悪司さん、マメですね。","Here is a visitor, a woman. She's from Mie. Akuji, you're a diligent person, aren't you?","Tenemos una visita, una mujer. Viene de Mie. Akuji, eres un hombre diligente."
+"Yamamoto Akuji (talking)","何が？","What?","¿Qué?"
+"Seinendan Jyoshi (talking)","そんなとこの女の人まで ナンパしているだなんて…","I can't believe they're even picking on women there.","No puedo creer que se metan con las mujeres en lugares como ese…"
+"Yamamoto Akuji (talking)","ちげーよ、ばーか。 通してやってくんな。","That's not true, asshole. Don't come through.","No, no, no, idiota. No pases."
+"Seinendan Jyoshi (talking)","はーい。","Hai.","Hai."
+"Souma Rin (talking)","こんにちは。","Hello.","Hola."
+"Yamamoto Akuji (talking)","おう、きてくれたか。 用事は片付いたか？","Oh, you came. Did you get your errands done?","Oh, has venido. ¿Has hecho tus recados?"
+"Souma Rin (talking)","ええ。 なんとか。","Yeah. Somehow.","Sí. De alguna manera."
+"Yamamoto Akuji (talking)","例のアレかい？ 海の汚染がどーのこーの。","Is it that thing you were talking about? What about the pollution of the sea?","¿Es eso a lo que te refieres? ¿Y la contaminación del mar?"
+"Souma Rin (talking)","それもあるけど、仕事の事と、 きょうだいを宥めていたの。 しばらく離れてしまうから。","That's part of it, but I've been trying to keep my work and my toddler quiet. I'm going away for a while.","Eso es parte de ello, pero he estado tratando de calmar el trabajo y los niños. Me voy por un tiempo."
+"Yamamoto Akuji (talking)","そんなに仲がいいのか。","Are they that close?","¿Están tan cerca?"
+"Souma Rin (talking)","それもあるけど……ああそうか。 こっちは都会だから、うちにある風習は ないのかしら。","That's part of it…… Oh, I see. I wonder if they don't have the custom we have here in the city.","Eso es parte de ello, pero no lo sé…… Oh, ya veo. Estamos en la ciudad, así que me pregunto si no tienen las costumbres que tenemos aquí."
+"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
+"Souma Rin (talking)","夜這い。","Night crawling.","Arrastre nocturno."
+"Yamamoto Akuji (talking)","よ……ばい？？","Yo…… buy?","Yo…… comprar?"
+"Souma Rin (talking)","ええ、そう。 夜這いの風習があるから、父だけ同じ、 母だけ同じという子供が多いのよ。","Yes, that's right. Because of the custom of night crawling, many children have the same father and the same mother.","Sí, lo hacen. Debido a la costumbre de arrastrarse por la noche, muchos niños tienen sólo el mismo padre, sólo la misma madre."
+"Yamamoto Akuji (talking)","あんたも、じゃあ……","You too, then……","Entonces, tú también……"
+"Souma Rin (talking)","そうね。 きょうだいの他に、離れたくないって ぐずる男がいたから…
+何発か殴ったら、おとなしくなったから よかったけど。","Yes, I know. Besides my siblings, there was another boy who didn't want to leave.
+I hit him a few times, and he calmed down.","Sí, lo sé. Además de mis hermanos, había otro chico que no quería dejarme, así que…
 Le pegué un par de veces y se calmó, lo cual fue bueno."
-"Yamamoto Akuji (thinking)";"なるほどねー…夜這いか… そんな風習の中で育ったってんだったら、 そっちの方の経験も豊富だろう。
+"Yamamoto Akuji (thinking)","なるほどねー…夜這いか… そんな風習の中で育ったってんだったら、 そっちの方の経験も豊富だろう。
  ……だとしたら、躰は快楽に対して 出来あがってるって事だから……
-どんなに給料を高く設定されても、 こましてしまったら、その金額を 支払わなくてもいいって事になるな…";"I see… night crawling… If you grew up in such a custom, you must have a lot of experience in that area.
+どんなに給料を高く設定されても、 こましてしまったら、その金額を 支払わなくてもいいって事になるな…","I see… night crawling… If you grew up in such a custom, you must have a lot of experience in that area.
 If so, it means that their bodies are built for pleasure……
-No matter how high they pay you, if you rub it in your face, they don't have to pay you that amount…";"Ya veo… el rastreo nocturno… si creciste en ese tipo de costumbres, debes tener mucha experiencia en ese ámbito.
+No matter how high they pay you, if you rub it in your face, they don't have to pay you that amount…","Ya veo… el rastreo nocturno… si creciste en ese tipo de costumbres, debes tener mucha experiencia en ese ámbito.
 Si es así, significa que el cuerpo está hecho para el placer……
 Por mucho que te paguen, si te lo restriegan, no tienen que pagarte esa cantidad…"
-"Souma Rin (talking)";"で、あたしはどうしたらいいの？";"So what should I do?";"Entonces, ¿qué se supone que debo hacer?"
-"Yamamoto Akuji (talking)";"ああ、こっちから指示を出すまで 自由にしててくれ。
-おう、これから仲間になる この鱗ねーちゃん、 部屋に案内したってくれや。";"Yeah, you're free to go until I tell you otherwise.
-Oh, and this girl who's gonna join us now, Rin, show her to her room.";"Sí, eres libre de irte hasta que te diga lo contrario.
+"Souma Rin (talking)","で、あたしはどうしたらいいの？","So what should I do?","Entonces, ¿qué se supone que debo hacer?"
+"Yamamoto Akuji (talking)","ああ、こっちから指示を出すまで 自由にしててくれ。
+おう、これから仲間になる この鱗ねーちゃん、 部屋に案内したってくれや。","Yeah, you're free to go until I tell you otherwise.
+Oh, and this girl who's gonna join us now, Rin, show her to her room.","Sí, eres libre de irte hasta que te diga lo contrario.
 Oye, esta chica Rin que va a unirse a nosotros, muéstrale su habitación."
-"Souma Rin (talking)";"あの、すみません、ハイネさん。 これ……";"Um, sorry, Haine. This is ……";"Um, lo siento, Haine. Esto es ……"
-"Hasekura Haine (talking)";"どうしました？";"What's wrong?";"¿Qué pasa?"
-"Souma Rin (talking)";"田舎に送金したいんだけど、 どうすればいいか、わかんなくって。";"I want to send money to the countryside, but I don't know how to do it.";"Quiero enviar dinero al campo, pero no sé cómo."
-"Hasekura Haine (talking)";"これで全額ですか？";"Is this the full amount?";"¿Es esta la cantidad total?"
-"Souma Rin (talking)";"うん。 これ全部送りたいんだ。";"Yeah. I want to send all of these.";"Sí. Quiero enviar todo esto."
-"Hasekura Haine (talking)";"わかりました。
-あなた用の口座を郵便局で作成しまして、 そこに振り込み、向こうで引き落とし が出来るようにしましょう。";"Okay, I will create an account for you at the post office.
-I will set up an account for you at the post office so that you can transfer the money to the account and have it debited there.";"Vale, te crearé una cuenta en la oficina de correos.
+"Souma Rin (talking)","あの、すみません、ハイネさん。 これ……","Um, sorry, Haine. This is ……","Um, lo siento, Haine. Esto es ……"
+"Hasekura Haine (talking)","どうしました？","What's wrong?","¿Qué pasa?"
+"Souma Rin (talking)","田舎に送金したいんだけど、 どうすればいいか、わかんなくって。","I want to send money to the countryside, but I don't know how to do it.","Quiero enviar dinero al campo, pero no sé cómo."
+"Hasekura Haine (talking)","これで全額ですか？","Is this the full amount?","¿Es esta la cantidad total?"
+"Souma Rin (talking)","うん。 これ全部送りたいんだ。","Yeah. I want to send all of these.","Sí. Quiero enviar todo esto."
+"Hasekura Haine (talking)","わかりました。
+あなた用の口座を郵便局で作成しまして、 そこに振り込み、向こうで引き落とし が出来るようにしましょう。","Okay, I will create an account for you at the post office.
+I will set up an account for you at the post office so that you can transfer the money to the account and have it debited there.","Vale, te crearé una cuenta en la oficina de correos.
 Le abriremos una cuenta en la oficina de correos, donde podrá transferir el dinero y cargarlo allí."
-"Souma Rin (talking)";"な、なんだい？ それ…";"What is it? It's…";"¿Qué es? Es…"
-"Hasekura Haine (talking)";"そうしておくと、その日のうちに 向こうで、あなたの送ったお金を 使用出来るというシステムです。";"Then, on the same day, they will be able to use the money you sent.";"El sistema les permite entonces gastar el dinero que les envías en el mismo día."
-"Souma Rin (talking)";"へー……";"Hee ……";"Hee ……"
-"Hasekura Haine (talking)";"向こうで使用する人がわからない場合に 備え、こちらの部下を向こうにやります。";"We will send our people to the other side in case we don't know who will be using it there.";"Enviaremos a nuestra gente allí en caso de que no sepamos a quién utilizar en el otro lado."
-"Souma Rin (talking)";"ありがと、ハイネさん。";"Thanks, Haine.";"Gracias, Haine."
-"Hasekura Haine (talking)";"いえ。";"No, I don't think so.";"No."
-"Hasekura Haine (thinking)";"この娘、こちらから支給したすべての金を 田舎に送金するのか…
+"Souma Rin (talking)","な、なんだい？ それ…","What is it? It's…","¿Qué es? Es…"
+"Hasekura Haine (talking)","そうしておくと、その日のうちに 向こうで、あなたの送ったお金を 使用出来るというシステムです。","Then, on the same day, they will be able to use the money you sent.","El sistema les permite entonces gastar el dinero que les envías en el mismo día."
+"Souma Rin (talking)","へー……","Hee ……","Hee ……"
+"Hasekura Haine (talking)","向こうで使用する人がわからない場合に 備え、こちらの部下を向こうにやります。","We will send our people to the other side in case we don't know who will be using it there.","Enviaremos a nuestra gente allí en caso de que no sepamos a quién utilizar en el otro lado."
+"Souma Rin (talking)","ありがと、ハイネさん。","Thanks, Haine.","Gracias, Haine."
+"Hasekura Haine (talking)","いえ。","No, I don't think so.","No."
+"Hasekura Haine (thinking)","この娘、こちらから支給したすべての金を 田舎に送金するのか…
 若い娘が都会にきたのならば、 誘惑が色々とあるのだろうに…
-それ程、故郷の海が大事――か。";"This girl sends all the money we give her back to the country…
+それ程、故郷の海が大事――か。","This girl sends all the money we give her back to the country…
 If a young girl came to the city, there would be many temptations…
-Is that how much she cares about the sea back home?";"Esta chica envía todo el dinero que le damos al país…
+Is that how much she cares about the sea back home?","Esta chica envía todo el dinero que le damos al país…
 Si una joven llegara a la ciudad, habría todo tipo de tentaciones…
  ¿Tan importante es el mar en casa…?"
-"narrator";"鱗は故郷からの便りに目を通していた。";"Rin was looking through a letter from his hometown.";"Rin estaba mirando los boletines de su ciudad natal."
-"Souma Rin (thinking)";"あたしの送ったお金で、ミエ市議会が 動いてくれるんだ…よかった…
+"narrator","鱗は故郷からの便りに目を通していた。","Rin was looking through a letter from his hometown.","Rin estaba mirando los boletines de su ciudad natal."
+"Souma Rin (thinking)","あたしの送ったお金で、ミエ市議会が 動いてくれるんだ…よかった…
 そーいや、リンダさん、圧力が どーのこーのって言ってたけど… それも関係あるのかな…
 ま、どっちでもいいや。 海が綺麗になるんだったら。
- ……待ってなよ、きょうだい達。 ねーちゃん、頑張って戦って、 お金一杯稼ぐからね…";"I'm glad to know that the MIE city council is going to work with the money I sent them…
+ ……待ってなよ、きょうだい達。 ねーちゃん、頑張って戦って、 お金一杯稼ぐからね…","I'm glad to know that the MIE city council is going to work with the money I sent them…
 Well, Linda said something about pressure… I wonder if that has something to do with it…
-Well, I don't care either way. If it makes the ocean cleaner.…… Wait for me, siblings. I'll fight hard and make lots of money…";"El dinero que envié ayudará al ayuntamiento de MIE… gracias a Dios…
+Well, I don't care either way. If it makes the ocean cleaner.…… Wait for me, siblings. I'll fight hard and make lots of money…","El dinero que envié ayudará al ayuntamiento de MIE… gracias a Dios…
 Bueno, Linda dijo algo sobre la presión… Me pregunto si eso tuvo algo que ver…
 Bueno, no me importa de ninguna manera. Si hace que el mar esté más limpio.…… Esperadme, hermanos. Lucharé duro y ganaré mucho dinero…"
-"Momoyama Linda (talking)";"失望したでちゅわ。";"I'm disappointed.";"Estoy decepcionado."
-"Souma Rin (talking)";"………そうだね。";"……… Yes, that's right.";"……… Sí."
-"Momoyama Linda (talking)";"解雇ちまちゅ。 帰って下ちゃい。";"You are dismissed. Please go home.";"Puede retirarse. Vete a casa."
-"Souma Rin (talking)";"……それじゃあ……海……
+"Momoyama Linda (talking)","失望したでちゅわ。","I'm disappointed.","Estoy decepcionado."
+"Souma Rin (talking)","………そうだね。","……… Yes, that's right.","……… Sí."
+"Momoyama Linda (talking)","解雇ちまちゅ。 帰って下ちゃい。","You are dismissed. Please go home.","Puede retirarse. Vete a casa."
+"Souma Rin (talking)","……それじゃあ……海……
  ……………
- ……そう…だね… 働かざる者、食うべからず… だよね。";"…… then…… sea……
- ……………";"……Entonces ……Mar……
+ ……そう…だね… 働かざる者、食うべからず… だよね。","…… then…… sea……
+ ……………","……Entonces ……Mar……
  ………………… así que… sí… si no trabajas, no comes… cierto."
-"Momoyama Linda (talking)";"でちゅわ。";"I'm not sure.";"En."
-"Souma Rin (talking)";"今までありがとう。 じゃあ。";"Thank you for everything. Bye.";"Gracias por todo lo que has hecho. Adiós."
-"narrator";"鱗はぺこりと頭を下げると、 ＰＭから立ち去った。";"Rin bowed his head and walked away from the PM.";"Rin se inclinó rotundamente y se alejó de la PM."
-"Momoyama Linda (talking)";"さーてと…やらせて貰うよ。";"Well…let me do it.";"Veamos… déjame hacerlo."
-"narrator";"鱗は、子供達と一緒に海を見つめていた。 水平線の向こうに、小さく舟影が見える。";"Rin was staring out to sea with her children. Beyond the horizon, a small shadow of a boat can be seen.";"Rin miraba al mar con sus hijos. En el horizonte se ve la sombra de un pequeño barco."
-"shounen (talking)";"ねーちゃん、あれがウィミィからの船？";"Hey, is that the boat from Wime?";"Oye, ¿es ese el barco de Wime?"
-"Souma Rin (talking)";"ああ、そうだよ。 あれに、海を綺麗にする装置と、 それを動かす学者さんが乗ってんだ。";"Yes, that's right. It has a device to clean the ocean and a scientist to operate it.";"Sí, eso es. Tiene un dispositivo que limpia el océano, y un científico que lo dirige."
-"shounen (talking)";"ねーちゃんが稼いだお金で 雇ったんだよね？";"You hired him with the money you earned, right?";"Nee-chan te contrató con el dinero que ganó, ¿no?"
-"Souma Rin (talking)";"そーだよ。";"That's right.";"Sí."
-"shoujo (talking)";"ねえねえ、海、すぐに綺麗になるの？";"Hey hey hey, ocean, will it be clean soon?";"Hey hey hey, el mar, ¿se limpiará pronto?"
-"Souma Rin (talking)";"わかんないんだって。 だけどね、お前達がおっきくなる頃には、 綺麗になる確率は高いって。
-だからさ…綺麗になった海を また汚すような大人になんないで おくれよ。";"He doesn't know. But, he said, there is a high probability that the ocean will be clean by the time you guys grow up.
-So…please don't become adults who pollute the clean ocean again.";"Ella no lo sabe. Pero, dice, hay muchas posibilidades de que cuando seas lo suficientemente grande, esté limpio.
+"Momoyama Linda (talking)","でちゅわ。","I'm not sure.","En."
+"Souma Rin (talking)","今までありがとう。 じゃあ。","Thank you for everything. Bye.","Gracias por todo lo que has hecho. Adiós."
+"narrator","鱗はぺこりと頭を下げると、 ＰＭから立ち去った。","Rin bowed his head and walked away from the PM.","Rin se inclinó rotundamente y se alejó de la PM."
+"Momoyama Linda (talking)","さーてと…やらせて貰うよ。","Well…let me do it.","Veamos… déjame hacerlo."
+"narrator","鱗は、子供達と一緒に海を見つめていた。 水平線の向こうに、小さく舟影が見える。","Rin was staring out to sea with her children. Beyond the horizon, a small shadow of a boat can be seen.","Rin miraba al mar con sus hijos. En el horizonte se ve la sombra de un pequeño barco."
+"shounen (talking)","ねーちゃん、あれがウィミィからの船？","Hey, is that the boat from Wime?","Oye, ¿es ese el barco de Wime?"
+"Souma Rin (talking)","ああ、そうだよ。 あれに、海を綺麗にする装置と、 それを動かす学者さんが乗ってんだ。","Yes, that's right. It has a device to clean the ocean and a scientist to operate it.","Sí, eso es. Tiene un dispositivo que limpia el océano, y un científico que lo dirige."
+"shounen (talking)","ねーちゃんが稼いだお金で 雇ったんだよね？","You hired him with the money you earned, right?","Nee-chan te contrató con el dinero que ganó, ¿no?"
+"Souma Rin (talking)","そーだよ。","That's right.","Sí."
+"shoujo (talking)","ねえねえ、海、すぐに綺麗になるの？","Hey hey hey, ocean, will it be clean soon?","Hey hey hey, el mar, ¿se limpiará pronto?"
+"Souma Rin (talking)","わかんないんだって。 だけどね、お前達がおっきくなる頃には、 綺麗になる確率は高いって。
+だからさ…綺麗になった海を また汚すような大人になんないで おくれよ。","He doesn't know. But, he said, there is a high probability that the ocean will be clean by the time you guys grow up.
+So…please don't become adults who pollute the clean ocean again.","Ella no lo sabe. Pero, dice, hay muchas posibilidades de que cuando seas lo suficientemente grande, esté limpio.
 Así que… por favor, no se conviertan en adultos que contaminen el mar limpio de nuevo."
-"shoujo (talking)";"うん！";"Yeah!";"¡Sí!"
-"Souma Rin (talking)";"いい子だ。";"Good boy.";"Buen chico."
-"Souma Rin (thinking)";"悪司さん、ありがとね…
+"shoujo (talking)","うん！","Yeah!","¡Sí!"
+"Souma Rin (talking)","いい子だ。","Good boy.","Buen chico."
+"Souma Rin (thinking)","悪司さん、ありがとね…
 大阪からこっち帰る時に、いくらか お金上乗せしてくれたから、なんとか なったよ…
-綺麗になったら連絡するから、 遊びにきとくれよ…";"Thank you Akuji…
+綺麗になったら連絡するから、 遊びにきとくれよ…","Thank you Akuji…
 When I came back from Osaka, you gave me some extra money, so I could make it…
-I'll call you when it's cleaned up.";"Gracias, Akuji…
+I'll call you when it's cleaned up.","Gracias, Akuji…
 Cuando volví de Osaka, me diste algo de dinero extra, así que me las arreglé…
 Te llamaré cuando esté limpio, ven a visitarme…"

@@ -1,288 +1,288 @@
-"character";"jap text";"Eng";"Esp"
-"__system__??";"{麦 = 10:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 11:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 12:";"";""
-"__system__??";"{H愛欲 = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 13:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 15:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 16:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 17:";"";""
-"__system__??";"{H拷問抵抗 < H拷問:";"";""
-"__system__??";"}";"";""
-"__system__??";"{H拷問 = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 18:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 19:";"";""
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"よう、看護婦さん。";"Hey, nurse.";"Oye, enfermera."
-"Tomobiki Misao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"あんたが友引操で間違いないよな？ 失踪してた看護婦のリーダーで。";"I'm pretty sure you're Tomobiki Misao, right? The leader of the missing nurses.";"Estoy seguro de que eres Tomobiki Misao? Líder de las enfermeras desaparecidas."
-"Tomobiki Misao (talking)";"……そうです。";"…… Yes.";"…… Sí."
-"Yamamoto Akuji (talking)";"お、あっさり認めたな。";"Oh, you readily admit it.";"Oh, lo admites fácilmente."
-"Tomobiki Misao (talking)";"私以外のみんなは、 ただ手伝ってもらっていただけで 全然関係ないんです……
-お願いです、みんなを解放して下さい。 シャアの事を知っているのは私だけで……";"Everyone else was just helping me and had nothing to do with it at all……
-Please, let us all go. I'm the only one who knows about Shaa ……";"Todos los demás sólo me ayudaban, no tenían nada que ver……
+"character","jap text","Eng","Esp"
+"__system__??","{麦 = 10:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 11:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 12:","",""
+"__system__??","{H愛欲 = 1:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 13:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 15:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 16:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 17:","",""
+"__system__??","{H拷問抵抗 < H拷問:","",""
+"__system__??","}","",""
+"__system__??","{H拷問 = 1:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 18:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 19:","",""
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","よう、看護婦さん。","Hey, nurse.","Oye, enfermera."
+"Tomobiki Misao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","あんたが友引操で間違いないよな？ 失踪してた看護婦のリーダーで。","I'm pretty sure you're Tomobiki Misao, right? The leader of the missing nurses.","Estoy seguro de que eres Tomobiki Misao? Líder de las enfermeras desaparecidas."
+"Tomobiki Misao (talking)","……そうです。","…… Yes.","…… Sí."
+"Yamamoto Akuji (talking)","お、あっさり認めたな。","Oh, you readily admit it.","Oh, lo admites fácilmente."
+"Tomobiki Misao (talking)","私以外のみんなは、 ただ手伝ってもらっていただけで 全然関係ないんです……
+お願いです、みんなを解放して下さい。 シャアの事を知っているのは私だけで……","Everyone else was just helping me and had nothing to do with it at all……
+Please, let us all go. I'm the only one who knows about Shaa ……","Todos los demás sólo me ayudaban, no tenían nada que ver……
 Por favor, déjenos ir a todos. Soy el único que sabe de Shaa……"
-"Yamamoto Akuji (talking)";"シャア？　シャアって何だ？";"What is Shaa?　What's Shaa?";"¿Gracias a Dios?　¿Qué es Shaa?"
-"Tomobiki Misao (talking)";"えっ…… ご存じないんですか……？";"What…… don't you know ……?";"¿Qué?…… ¿No conoces ……?"
-"Yamamoto Akuji (talking)";"さっぱり。";"Not at all.";"No es un momento demasiado pronto."
-"Tomobiki Misao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"よう、あんたが森に隠れてたのと、 そのシャアとか言うヤツ、 何か関係あんのか？";"Hey, what does your hiding behind Mori have to do with this Shaa guy?";"Oye, ¿qué tiene que ver tu escondite en Mori con este tipo de Shaa?"
-"Tomobiki Misao (talking)";"…………いえ、別に……";"………… No, separately ……";"………… No, por separado ……"
-"Yamamoto Akuji (talking)";"いまさらそりゃねぇだろ。 喋ってくれや、操ちゃん。
+"Yamamoto Akuji (talking)","シャア？　シャアって何だ？","What is Shaa?　What's Shaa?","¿Gracias a Dios?　¿Qué es Shaa?"
+"Tomobiki Misao (talking)","えっ…… ご存じないんですか……？","What…… don't you know ……?","¿Qué?…… ¿No conoces ……?"
+"Yamamoto Akuji (talking)","さっぱり。","Not at all.","No es un momento demasiado pronto."
+"Tomobiki Misao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","よう、あんたが森に隠れてたのと、 そのシャアとか言うヤツ、 何か関係あんのか？","Hey, what does your hiding behind Mori have to do with this Shaa guy?","Oye, ¿qué tiene que ver tu escondite en Mori con este tipo de Shaa?"
+"Tomobiki Misao (talking)","…………いえ、別に……","………… No, separately ……","………… No, por separado ……"
+"Yamamoto Akuji (talking)","いまさらそりゃねぇだろ。 喋ってくれや、操ちゃん。
 あの森には凶暴なパンダも出てたんだぞ。 女ばっかであんなとこに居るには 相当の覚悟が要ったはずだぜ。
- ……やっぱ、噂通りに 埋蔵金でも見つけたのか？";"It's a little late for that, isn't it? Speak up, Misao.
-There was a ferocious panda in that Mori. It must have taken a lot of determination to be in a place like that with all those women.…… I knew it, did you find buried treasure as they say?";"Es un poco tarde para eso, ¿no? Háblame, Misao.
+ ……やっぱ、噂通りに 埋蔵金でも見つけたのか？","It's a little late for that, isn't it? Speak up, Misao.
+There was a ferocious panda in that Mori. It must have taken a lot of determination to be in a place like that with all those women.…… I knew it, did you find buried treasure as they say?","Es un poco tarde para eso, ¿no? Háblame, Misao.
 Había un panda feroz en ese Mori. Debe de haber sido necesario tener mucha determinación para estar en un lugar como ese con todas esas mujeres.…… Lo sabía, ¿has encontrado un tesoro enterrado como se rumorea?"
-"Tomobiki Misao (talking)";"私は、お金なんかのために あんな所へ隠れたりはしません。";"I wouldn't hide in a place like that for money.";"No me escondería en un lugar así por dinero."
-"Yamamoto Akuji (talking)";"じゃあ、そのシャアってのが原因だな。";"Then it's that Shaa thing.";"Entonces es por esa Shaa."
-"Tomobiki Misao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"あんた嘘吐くのヘタだなー。 バッチリ顔に出てるぞ。";"You are a terrible liar. It's all over your face.";"Eres un terrible mentiroso. Está en toda tu cara."
-"Tomobiki Misao (talking)";"何と言われようと…… 話せないものは、話せません。";"No matter what they say,…… you can't talk about what you can't talk about.";"Digan lo que digan,…… no se puede hablar de lo que no se puede hablar."
-"Yamamoto Akuji (talking)";"なるほど。 知りませんじゃなくて話せませんか。 ある意味自白と一緒だなー。";"I see. I don't know, but I can't talk about it. In a way, I'm like JiHaku.";"Ya veo. No es que no lo sepa, pero no puedo hablar de ello. En cierto modo, soy como JiHaku."
-"Tomobiki Misao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"さて、どうしたもんかね……";"Well, what can we do about it? ……";"Bueno, ¿qué hacemos ahora? ……"
-"Yamamoto Akuji (talking)";"操ちゃん、そろそろ話してくんねぇか。 おめー何をそんなに隠してんだ？";"Misao, it's time for you to talk. What are you hiding so much?";"Misao, es hora de que hables. ¿Qué escondes tanto?"
-"Tomobiki Misao (talking)";"………………
+"Tomobiki Misao (talking)","私は、お金なんかのために あんな所へ隠れたりはしません。","I wouldn't hide in a place like that for money.","No me escondería en un lugar así por dinero."
+"Yamamoto Akuji (talking)","じゃあ、そのシャアってのが原因だな。","Then it's that Shaa thing.","Entonces es por esa Shaa."
+"Tomobiki Misao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","あんた嘘吐くのヘタだなー。 バッチリ顔に出てるぞ。","You are a terrible liar. It's all over your face.","Eres un terrible mentiroso. Está en toda tu cara."
+"Tomobiki Misao (talking)","何と言われようと…… 話せないものは、話せません。","No matter what they say,…… you can't talk about what you can't talk about.","Digan lo que digan,…… no se puede hablar de lo que no se puede hablar."
+"Yamamoto Akuji (talking)","なるほど。 知りませんじゃなくて話せませんか。 ある意味自白と一緒だなー。","I see. I don't know, but I can't talk about it. In a way, I'm like JiHaku.","Ya veo. No es que no lo sepa, pero no puedo hablar de ello. En cierto modo, soy como JiHaku."
+"Tomobiki Misao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","さて、どうしたもんかね……","Well, what can we do about it? ……","Bueno, ¿qué hacemos ahora? ……"
+"Yamamoto Akuji (talking)","操ちゃん、そろそろ話してくんねぇか。 おめー何をそんなに隠してんだ？","Misao, it's time for you to talk. What are you hiding so much?","Misao, es hora de que hables. ¿Qué escondes tanto?"
+"Tomobiki Misao (talking)","………………
 お願いです、もう帰して下さい……
-水を、水をやらないと…… このままじゃ大変なことに……";"………………
+水を、水をやらないと…… このままじゃ大変なことに……","………………
 Please, please let me go home now……
-Water, we need to water them…… If we don't, we're in trouble……";"………………
+Water, we need to water them…… If we don't, we're in trouble……","………………
 Por favor, déjame ir a casa ahora……
 Agua, tenemos que regarlos…… Si no lo hacemos, estamos en problemas……"
-"Yamamoto Akuji (talking)";"水ぅ？　花壇でもあんのか？";"Water?　Do you have a flower bed?";"¿Agua?　¿Tiene parterres?"
-"Tomobiki Misao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (thinking)";"隠してるのって……花なのか？ うーむ………………";"Is it the…… flower that you're hiding? Hmmm ………………";"¿Es la flor de…… la que escondes? Hmmm………………"
-"Yamamoto Akuji (talking)";"しかしおめー、いつ見ても 思い詰めたような顔してるよな。
-心と躰をちょいと楽にしてやろうか。";"But you always look like you're in deep thought.
-Let's ease your mind and body a little.";"Pero siempre parece que estás en un pensamiento profundo.
+"Yamamoto Akuji (talking)","水ぅ？　花壇でもあんのか？","Water?　Do you have a flower bed?","¿Agua?　¿Tiene parterres?"
+"Tomobiki Misao (talking)","………………","………………","………………"
+"Yamamoto Akuji (thinking)","隠してるのって……花なのか？ うーむ………………","Is it the…… flower that you're hiding? Hmmm ………………","¿Es la flor de…… la que escondes? Hmmm………………"
+"Yamamoto Akuji (talking)","しかしおめー、いつ見ても 思い詰めたような顔してるよな。
+心と躰をちょいと楽にしてやろうか。","But you always look like you're in deep thought.
+Let's ease your mind and body a little.","Pero siempre parece que estás en un pensamiento profundo.
 Vamos a aliviar un poco tu mente y tu cuerpo."
-"Tomobiki Misao (talking)";"えっ……？";"What, ……?";"¿Qué, ……?"
-"Yamamoto Akuji (talking)";"いいから、ついて来な。";"Just follow me.";"Sólo sígueme."
-"Yamamoto Akuji (talking)";"ほれ、入れ。";"Here, come on in.";"Aquí, entra."
-"Tomobiki Misao (talking)";"入りますけど…… ここで一体、何を…………";"I'll get into it, but…… what the hell are we doing here …………";"Voy a entrar, pero…… ¿Qué diablos estamos haciendo aquí …………"
-"Yamamoto Akuji (talking)";"……さあな。";"…… Come on.";"…… Vamos."
-"narrator";"──悪司は訝しむ操をいきなり抱き寄せて、 上着の前身頃に手をかけた。";"─ ─ Akuji suddenly hugged the wondering Misao and put his hand on the front of his jacket.";"─ ─ Akuji abrazó de repente al maravillado Misao y le puso la mano en la parte delantera de la chaqueta."
-"Tomobiki Misao (talking)";"あ……っ！　何をするんですかっ……！！";"Oh ……!　What are you doing ……!";"¡Oh ……!　¿Qué estás haciendo ……?"
-"Yamamoto Akuji (talking)";"何って、もう解んだろ？ 俺の趣味じゃねぇんだが、 いっそ服でも引き裂こうか？";"What? You already know what I'm talking about. This isn't really my thing, but why don't I just tear your clothes off?";"¿Qué, no sabes de qué estoy hablando? No es lo mío, pero ¿por qué no te arrancamos la ropa?"
-"Tomobiki Misao (talking)";"う…………！　っ…………
- ………………";"U…………!　ts…………
- ………………";"¡U…………!　ts…………
+"Tomobiki Misao (talking)","えっ……？","What, ……?","¿Qué, ……?"
+"Yamamoto Akuji (talking)","いいから、ついて来な。","Just follow me.","Sólo sígueme."
+"Yamamoto Akuji (talking)","ほれ、入れ。","Here, come on in.","Aquí, entra."
+"Tomobiki Misao (talking)","入りますけど…… ここで一体、何を…………","I'll get into it, but…… what the hell are we doing here …………","Voy a entrar, pero…… ¿Qué diablos estamos haciendo aquí …………"
+"Yamamoto Akuji (talking)","……さあな。","…… Come on.","…… Vamos."
+"narrator","──悪司は訝しむ操をいきなり抱き寄せて、 上着の前身頃に手をかけた。","─ ─ Akuji suddenly hugged the wondering Misao and put his hand on the front of his jacket.","─ ─ Akuji abrazó de repente al maravillado Misao y le puso la mano en la parte delantera de la chaqueta."
+"Tomobiki Misao (talking)","あ……っ！　何をするんですかっ……！！","Oh ……!　What are you doing ……!","¡Oh ……!　¿Qué estás haciendo ……?"
+"Yamamoto Akuji (talking)","何って、もう解んだろ？ 俺の趣味じゃねぇんだが、 いっそ服でも引き裂こうか？","What? You already know what I'm talking about. This isn't really my thing, but why don't I just tear your clothes off?","¿Qué, no sabes de qué estoy hablando? No es lo mío, pero ¿por qué no te arrancamos la ropa?"
+"Tomobiki Misao (talking)","う…………！　っ…………
+ ………………","U…………!　ts…………
+ ………………","¡U…………!　ts…………
  ………………"
-"Yamamoto Akuji (talking)";"……ん…………？ もう抵抗すんのやめちまうのか？";"…… or …………? Are you going to stop resisting now?";"…… o …………? ¿Vas a dejar de resistirte ahora?"
-"Tomobiki Misao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"好きにしちまうぞ。 ……いいのか？";"I'll do what I want. Are you sure about ……?";"Haré lo que quiera…… ¿Está bien?"
-"Tomobiki Misao (talking)";"お願いが……あります…………
+"Yamamoto Akuji (talking)","……ん…………？ もう抵抗すんのやめちまうのか？","…… or …………? Are you going to stop resisting now?","…… o …………? ¿Vas a dejar de resistirte ahora?"
+"Tomobiki Misao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","好きにしちまうぞ。 ……いいのか？","I'll do what I want. Are you sure about ……?","Haré lo que quiera…… ¿Está bien?"
+"Tomobiki Misao (talking)","お願いが……あります…………
 私の躰なんて、 好きにして下さって結構ですから……
-だから、逃がして下さい……";"I have a favor to ask…… …………
+だから、逃がして下さい……","I have a favor to ask…… …………
 You can do whatever you want with my body ……
-So please let me go……";"Tengo que pedir un favor a…… …………
+So please let me go……","Tengo que pedir un favor a…… …………
 Puedes hacer lo que quieras con mi cuerpo……
 Así que, por favor, déjame ir……"
-"Yamamoto Akuji (talking)";"ふーん。 そこまで言うかい。
-まあ、考えてやるよ。 考えてやるだけな。";"Hmmm. You want to go that far?
-Well, I'll think about it. I'll just think about it.";"Hmmm. ¿Quieres decir tanto?
+"Yamamoto Akuji (talking)","ふーん。 そこまで言うかい。
+まあ、考えてやるよ。 考えてやるだけな。","Hmmm. You want to go that far?
+Well, I'll think about it. I'll just think about it.","Hmmm. ¿Quieres decir tanto?
 Bueno, lo pensaré. Lo pensaré."
-"Tomobiki Misao (talking)";"あっ………………！！";"Oh, ………………!";"¡Ah ………………!"
-"Tomobiki Misao (talking)";"友引操は、初めてだった。";"Tomobiki Misao was new to me.";"Tomobiki Misao fue el primero."
-" (talking)";"操ちゃん、俺の部屋に行こうぜ。";"Misao, let's go to my room.";"Misao-chan, vamos a mi habitación."
-" (talking)";"……………… また、私の躰を弄ぶんですか……";"……………… Are you messing with my body again ……";"……………… ¿Estás jugando con mi cuerpo otra vez? ……"
-" (talking)";"そーだけど、何か不満か？ この前は悦んでたくせに。";"Yes, but what's wrong with you? You were happy the other day.";"Sí, pero ¿qué te pasa? El otro día estabas feliz."
-" (talking)";"そっ…………それは……";"That's………… that's ……";"Eso es………… eso es ……"
-" (talking)";"ほれほれ、早く来いって。";"Come on, come on, come on, come on.";"Vamos, vamos, vamos, vamos."
-"narrator";"悪司は操の手を取って、 自分の部屋へ向かって歩き出した。";"Akuji took Misao's hand and started walking toward his room.";"Akuji tomó la mano de Misao y comenzó a caminar hacia su habitación."
-"narrator";"友引操は、悪司にこまされた。";"Tomobiki Misao was Komadai to Akuji.";"Tomobiki Misao fue Komedoed por Akuji."
-"Yamamoto Akuji (talking)";"別に俺は、看護婦さんに フェチズム持ってる訳じゃねぇが……
-何かこう、操ちゃんとヤってると 看護婦フェチの気持ちって 解る気がすんなあ。";"It's not that I have a fetish for nurses……
-I think I understand the feeling of fetishizing nurses when I'm fucking Misao.";"No es que tenga un fetiche con las enfermeras……
+"Tomobiki Misao (talking)","あっ………………！！","Oh, ………………!","¡Ah ………………!"
+"Tomobiki Misao (talking)","友引操は、初めてだった。","Tomobiki Misao was new to me.","Tomobiki Misao fue el primero."
+" (talking)","操ちゃん、俺の部屋に行こうぜ。","Misao, let's go to my room.","Misao-chan, vamos a mi habitación."
+" (talking)","……………… また、私の躰を弄ぶんですか……","……………… Are you messing with my body again ……","……………… ¿Estás jugando con mi cuerpo otra vez? ……"
+" (talking)","そーだけど、何か不満か？ この前は悦んでたくせに。","Yes, but what's wrong with you? You were happy the other day.","Sí, pero ¿qué te pasa? El otro día estabas feliz."
+" (talking)","そっ…………それは……","That's………… that's ……","Eso es………… eso es ……"
+" (talking)","ほれほれ、早く来いって。","Come on, come on, come on, come on.","Vamos, vamos, vamos, vamos."
+"narrator","悪司は操の手を取って、 自分の部屋へ向かって歩き出した。","Akuji took Misao's hand and started walking toward his room.","Akuji tomó la mano de Misao y comenzó a caminar hacia su habitación."
+"narrator","友引操は、悪司にこまされた。","Tomobiki Misao was Komadai to Akuji.","Tomobiki Misao fue Komedoed por Akuji."
+"Yamamoto Akuji (talking)","別に俺は、看護婦さんに フェチズム持ってる訳じゃねぇが……
+何かこう、操ちゃんとヤってると 看護婦フェチの気持ちって 解る気がすんなあ。","It's not that I have a fetish for nurses……
+I think I understand the feeling of fetishizing nurses when I'm fucking Misao.","No es que tenga un fetiche con las enfermeras……
 Cuando estoy follando con Misao, creo que entiendo cómo se sienten las enfermeras."
-"Tomobiki Misao (talking)";"…………う、っ……";"…………Uh, wow……";"………… u, u ……"
-"Yamamoto Akuji (talking)";"セックスって性格出るもんだしな。 俺に合わせて腰浮かせてくれたりとか、 操ちゃんったら甲斐甲斐しいからなー。";"Sex is something that shows your personality. Misao is so rewarding, like letting me lift her up on my hips.";"El sexo es algo que muestra tu personalidad. Misao es tan gratificante, como cuando levanta las caderas para mí."
-"Tomobiki Misao (talking)";"私、そんなことしてませんっ……";"I didn't do that……";"Yo no hice eso……"
-"Yamamoto Akuji (talking)";"んじゃ無意識か？　だったら尚スゲーぜ。 相手のために自然と動いてるなんてよ。
-うーん、俺も操ちゃんに いろいろ世話してもらいてぇかもなぁ。";"So it's unconscious?　If so, that's even more amazing. I can't believe you're doing things for your partner naturally.
-Hmmm, maybe I want Misao to take care of me too.";"¿Así que es inconsciente?　Si es así, es aún más sorprendente. Haces las cosas por la otra persona de forma natural.
+"Tomobiki Misao (talking)","…………う、っ……","…………Uh, wow……","………… u, u ……"
+"Yamamoto Akuji (talking)","セックスって性格出るもんだしな。 俺に合わせて腰浮かせてくれたりとか、 操ちゃんったら甲斐甲斐しいからなー。","Sex is something that shows your personality. Misao is so rewarding, like letting me lift her up on my hips.","El sexo es algo que muestra tu personalidad. Misao es tan gratificante, como cuando levanta las caderas para mí."
+"Tomobiki Misao (talking)","私、そんなことしてませんっ……","I didn't do that……","Yo no hice eso……"
+"Yamamoto Akuji (talking)","んじゃ無意識か？　だったら尚スゲーぜ。 相手のために自然と動いてるなんてよ。
+うーん、俺も操ちゃんに いろいろ世話してもらいてぇかもなぁ。","So it's unconscious?　If so, that's even more amazing. I can't believe you're doing things for your partner naturally.
+Hmmm, maybe I want Misao to take care of me too.","¿Así que es inconsciente?　Si es así, es aún más sorprendente. Haces las cosas por la otra persona de forma natural.
 Hmm, tal vez quiero que Misao me cuide también."
-"Tomobiki Misao (talking)";"………………
-酷いです……そんな言い方っ…………";"………………
-It's terrible…… to talk like that …………";"………………
+"Tomobiki Misao (talking)","………………
+酷いです……そんな言い方っ…………","………………
+It's terrible…… to talk like that …………","………………
 Es terrible…… hablar así…………"
-"Yamamoto Akuji (talking)";"あ、わりぃ。別に悪意はねぇんだが。 ……泣くなよー。";"Oh, sorry. I don't mean any offense…… Don't cry.";"Oh, lo siento. No pretendo ofender a nadie…… No llores."
-"Yamamoto Akuji (thinking)";"よし、ここは一つ優しくなだめてみるか。";"Okay, let's try one gentle coaxing here.";"Vale, vamos a intentar un suave empujón aquí."
-"Yamamoto Akuji (talking)";"なあ、操ちゃん。 何だかんだでずっと困ってたんだろ？ その隠し事のせいでよ。";"Hey, Misao-chan. You've been in trouble for some reason, right? It's because of that hidden thing.";"Oye, Misao-chan. Has estado en problemas durante mucho tiempo por alguna razón, ¿verdad? Es por esa cosa oculta."
-"Tomobiki Misao (talking)";"………それは………";"……… it's ………";"Se puede encontrar en ………"
-"Yamamoto Akuji (thinking)";"……おっ、反応しやがった。 解りやすいヤツぅー。";"…… Oh, he responded. He's so easy to understand.";"…… Oh, reaccionó. Es muy fácil de entender."
-"Yamamoto Akuji (talking)";"何だったら話してみろよ。 重要な事は話さなくてもいいし、 相談でもするつもりで。
-俺に出来そうな事だったら、 何かしてやれるかもしれねぇぞ？";"If you want, talk to me. You don't have to tell me anything important.
-If there's something I can do, maybe I can do something for you.";"Si quieres, puedes hablar de ello. No tienes que decirme nada importante, sólo pedirme consejo.
+"Yamamoto Akuji (talking)","あ、わりぃ。別に悪意はねぇんだが。 ……泣くなよー。","Oh, sorry. I don't mean any offense…… Don't cry.","Oh, lo siento. No pretendo ofender a nadie…… No llores."
+"Yamamoto Akuji (thinking)","よし、ここは一つ優しくなだめてみるか。","Okay, let's try one gentle coaxing here.","Vale, vamos a intentar un suave empujón aquí."
+"Yamamoto Akuji (talking)","なあ、操ちゃん。 何だかんだでずっと困ってたんだろ？ その隠し事のせいでよ。","Hey, Misao-chan. You've been in trouble for some reason, right? It's because of that hidden thing.","Oye, Misao-chan. Has estado en problemas durante mucho tiempo por alguna razón, ¿verdad? Es por esa cosa oculta."
+"Tomobiki Misao (talking)","………それは………","……… it's ………","Se puede encontrar en ………"
+"Yamamoto Akuji (thinking)","……おっ、反応しやがった。 解りやすいヤツぅー。","…… Oh, he responded. He's so easy to understand.","…… Oh, reaccionó. Es muy fácil de entender."
+"Yamamoto Akuji (talking)","何だったら話してみろよ。 重要な事は話さなくてもいいし、 相談でもするつもりで。
+俺に出来そうな事だったら、 何かしてやれるかもしれねぇぞ？","If you want, talk to me. You don't have to tell me anything important.
+If there's something I can do, maybe I can do something for you.","Si quieres, puedes hablar de ello. No tienes que decirme nada importante, sólo pedirme consejo.
 Si hay algo que pueda hacer, tal vez haya algo que pueda hacer…"
-"Tomobiki Misao (talking)";"………………
- …………あ、あの、実は……";"………………………… Oh, um, actually ……";"………………………… Oh, um, en realidad ……"
-"Yamamoto Akuji (talking)";"じーーーーーーー。";"Jeeeeeeeeeee.";"Dios."
-"Tomobiki Misao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"じーーーーーーー。";"Jeeeeeeeeeee.";"Dios."
-"Tomobiki Misao (talking)";"………………
- ……あの。 どうして私の目を じっと見てるんですか……？";"…………………… Um. Why are you staring into my eyes ……?";"…………………… Um. ¿Por qué me miras a los ojos ……?"
-"Yamamoto Akuji (talking)";"いやあ、やっぱ誠意は 目で示すもんかなぁと。";"Well, I guess sincerity is shown with the eyes.";"Bueno, supongo que la sinceridad se demuestra con los ojos, ¿no?"
-"Tomobiki Misao (talking)";"……………… やっぱり、話す訳にはいきません……";"……………… I still can't talk about it: ……";"……………… Todavía no puedo hablar de ello……"
-"Yamamoto Akuji (talking)";"なぬー！？";"Nuh-uh!";"¡No!"
-"Yamamoto Akuji (thinking)";"くそう、視線に込めた誠意が 足りなかったのか……";"Damn, the sincerity in your gaze was not enough……";"Maldita sea, la sinceridad de tu mirada no fue suficiente……"
-"Tomobiki Misao (thinking)";"こんな目つきの悪い人、 絶対信じられない…………";"I would never trust someone with such a bad eye…………";"Nunca me fiaría de una persona con tan malos ojos…………"
-"Yamamoto Akuji (talking)";"よし、お前はウリに出そう。
-何せ看護婦だし、 潜在需要も高かろうしなあ。 売れまくること間違いナシ。";"Okay, I'll put you on the market.
-You're a nurse, after all, and I'm sure there's a lot of potential demand. I'm sure you'll be a big seller.";"Bien, vas a estar en Uri.
+"Tomobiki Misao (talking)","………………
+ …………あ、あの、実は……","………………………… Oh, um, actually ……","………………………… Oh, um, en realidad ……"
+"Yamamoto Akuji (talking)","じーーーーーーー。","Jeeeeeeeeeee.","Dios."
+"Tomobiki Misao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","じーーーーーーー。","Jeeeeeeeeeee.","Dios."
+"Tomobiki Misao (talking)","………………
+ ……あの。 どうして私の目を じっと見てるんですか……？","…………………… Um. Why are you staring into my eyes ……?","…………………… Um. ¿Por qué me miras a los ojos ……?"
+"Yamamoto Akuji (talking)","いやあ、やっぱ誠意は 目で示すもんかなぁと。","Well, I guess sincerity is shown with the eyes.","Bueno, supongo que la sinceridad se demuestra con los ojos, ¿no?"
+"Tomobiki Misao (talking)","……………… やっぱり、話す訳にはいきません……","……………… I still can't talk about it: ……","……………… Todavía no puedo hablar de ello……"
+"Yamamoto Akuji (talking)","なぬー！？","Nuh-uh!","¡No!"
+"Yamamoto Akuji (thinking)","くそう、視線に込めた誠意が 足りなかったのか……","Damn, the sincerity in your gaze was not enough……","Maldita sea, la sinceridad de tu mirada no fue suficiente……"
+"Tomobiki Misao (thinking)","こんな目つきの悪い人、 絶対信じられない…………","I would never trust someone with such a bad eye…………","Nunca me fiaría de una persona con tan malos ojos…………"
+"Yamamoto Akuji (talking)","よし、お前はウリに出そう。
+何せ看護婦だし、 潜在需要も高かろうしなあ。 売れまくること間違いナシ。","Okay, I'll put you on the market.
+You're a nurse, after all, and I'm sure there's a lot of potential demand. I'm sure you'll be a big seller.","Bien, vas a estar en Uri.
 Al fin y al cabo, eres enfermera y hay mucha demanda potencial. Estoy seguro de que venderás mucho."
-"Tomobiki Misao (talking)";"は……？";"is ……?";"es ……?"
-"Yamamoto Akuji (talking)";"鈍いやっちゃなあ、ピンと来いよ。 無理矢理躰を売らせようっつってんだ。";"You're a dullard, you know what I'm saying? I'm trying to force you to sell your body.";"Eres un tonto, ¿entiendes lo que digo? Estoy tratando de obligarte a vender tu cuerpo."
-"Tomobiki Misao (talking)";"どっ……どうして私がそんな事を……";"Do…… why would I do such a thing ……";"Haz…… por qué iba a hacer eso ……"
-"Yamamoto Akuji (talking)";"嫌がるのは勝手だが、 こっちは無理矢理にでもやらせるぜ。
+"Tomobiki Misao (talking)","は……？","is ……?","es ……?"
+"Yamamoto Akuji (talking)","鈍いやっちゃなあ、ピンと来いよ。 無理矢理躰を売らせようっつってんだ。","You're a dullard, you know what I'm saying? I'm trying to force you to sell your body.","Eres un tonto, ¿entiendes lo que digo? Estoy tratando de obligarte a vender tu cuerpo."
+"Tomobiki Misao (talking)","どっ……どうして私がそんな事を……","Do…… why would I do such a thing ……","Haz…… por qué iba a hacer eso ……"
+"Yamamoto Akuji (talking)","嫌がるのは勝手だが、 こっちは無理矢理にでもやらせるぜ。
 そう、戸籍も全部書き換えて 逃げられなくしちまってな。
-ま、俺に捕まったのが運の尽きだと 諦めるんだなー。";"You don't want to do it, but we'll force you to do it.
+ま、俺に捕まったのが運の尽きだと 諦めるんだなー。","You don't want to do it, but we'll force you to do it.
 Yes, I'll even change all your family registers so you won't be able to escape.
-Well, you'll just have to resign yourself to the fact that it's your own damn fault for getting caught by me.";"No quieres hacerlo, pero te obligaremos a hacerlo.
+Well, you'll just have to resign yourself to the fact that it's your own damn fault for getting caught by me.","No quieres hacerlo, pero te obligaremos a hacerlo.
 Sí, incluso cambiaré tu registro familiar para que no puedas escapar.
 Bueno, tendrás que resignarte al hecho de que te he pillado."
-"Tomobiki Misao (talking)";"………………
-今、戸籍も書き換えるって…… そう言いましたか？";"………………
-Did you just say so…… that you're also rewriting the family register?";"………………
+"Tomobiki Misao (talking)","………………
+今、戸籍も書き換えるって…… そう言いましたか？","………………
+Did you just say so…… that you're also rewriting the family register?","………………
  ¿Acabas de decir que también vas a reescribir el registro familiar ……?"
-"Yamamoto Akuji (talking)";"おう、すっかり別人にしちまって うちの組織が操ちゃんの身柄を 完全に押さえちまうぜ。";"Oh, make him a completely different person, and our organization will take Misao into custody completely.";"Oh, hazlo una persona completamente diferente y nuestra organización tomará Misao en custodia completamente."
-"Tomobiki Misao (talking)";"……………… 追跡者を振りきれるかも……";"……………… Maybe we can shake off the tracker: ……";"……………… Es posible que puedas librarte de los perseguidores……"
-"Yamamoto Akuji (talking)";"はっ？";"Huh?";"¿Eh?"
-"Tomobiki Misao (talking)";"……言う通りにします。 あなたの言う通りにしますから、 一つだけ約束して下さい。
-月に……月に一度でいいです。 自由にできる日を下さい……";"…… will do as you say. I will do as you say, just promise me one thing.
-Just once a month,…… a month. Give me a day of freedom……";"…… Haré lo que dices. Haré exactamente lo que dices, sólo prométeme una cosa.
+"Yamamoto Akuji (talking)","おう、すっかり別人にしちまって うちの組織が操ちゃんの身柄を 完全に押さえちまうぜ。","Oh, make him a completely different person, and our organization will take Misao into custody completely.","Oh, hazlo una persona completamente diferente y nuestra organización tomará Misao en custodia completamente."
+"Tomobiki Misao (talking)","……………… 追跡者を振りきれるかも……","……………… Maybe we can shake off the tracker: ……","……………… Es posible que puedas librarte de los perseguidores……"
+"Yamamoto Akuji (talking)","はっ？","Huh?","¿Eh?"
+"Tomobiki Misao (talking)","……言う通りにします。 あなたの言う通りにしますから、 一つだけ約束して下さい。
+月に……月に一度でいいです。 自由にできる日を下さい……","…… will do as you say. I will do as you say, just promise me one thing.
+Just once a month,…… a month. Give me a day of freedom……","…… Haré lo que dices. Haré exactamente lo que dices, sólo prométeme una cosa.
 Sólo una vez al mes…… al mes. Dame un día de libertad……"
-"Yamamoto Akuji (talking)";"いや、心配せんでも 娼婦は週休二日だが…… もち生理休みもアリで。";"No, don't worry, hookers get two days off a week…… Of course, menstrual breaks are possible.";"No, no te preocupes, las prostitutas tienen dos días libres a la semana…… Por supuesto, los descansos menstruales son posibles."
-"Tomobiki Misao (talking)";"そんなにお休みあるんですか？";"Do you have that much time off?";"¿Tienes tanto tiempo libre?"
-"Yamamoto Akuji (talking)";"んだっておめー、無理矢理躰売らせて 待遇まで悪かったら誰だって逃げるだろ。
-稼いでる分はキッチリ還元してやるよ、 娼婦以外の仕事すんのがヤになるくらい。";"If you force them to sell their bodies and treat them badly, anyone would run away.
-I'll give you back what you earn, so much so that you won't want to do anything but work as a whore.";"Si me obligaran a vender mi cuerpo y me trataran mal, cualquiera huiría.
+"Yamamoto Akuji (talking)","いや、心配せんでも 娼婦は週休二日だが…… もち生理休みもアリで。","No, don't worry, hookers get two days off a week…… Of course, menstrual breaks are possible.","No, no te preocupes, las prostitutas tienen dos días libres a la semana…… Por supuesto, los descansos menstruales son posibles."
+"Tomobiki Misao (talking)","そんなにお休みあるんですか？","Do you have that much time off?","¿Tienes tanto tiempo libre?"
+"Yamamoto Akuji (talking)","んだっておめー、無理矢理躰売らせて 待遇まで悪かったら誰だって逃げるだろ。
+稼いでる分はキッチリ還元してやるよ、 娼婦以外の仕事すんのがヤになるくらい。","If you force them to sell their bodies and treat them badly, anyone would run away.
+I'll give you back what you earn, so much so that you won't want to do anything but work as a whore.","Si me obligaran a vender mi cuerpo y me trataran mal, cualquiera huiría.
 Te devolveré lo que ganas, tanto que no querrás hacer otra cosa que trabajar de puta."
-"Tomobiki Misao (talking)";"ああ、良かった…… これで安心して水やりに行ける……";"Oh, thank goodness:…… Now I can go watering without worry: ……";"Oh, gracias a Dios…… Ahora puedo ir a regar en paz……"
-"Yamamoto Akuji (talking)";"………………
-なー、操ちゃん。 看護婦ってそんなに待遇悪いのか？";"………………
-Hey, Misao-chan. Are nurses really treated that badly?";"………………
+"Tomobiki Misao (talking)","ああ、良かった…… これで安心して水やりに行ける……","Oh, thank goodness:…… Now I can go watering without worry: ……","Oh, gracias a Dios…… Ahora puedo ir a regar en paz……"
+"Yamamoto Akuji (talking)","………………
+なー、操ちゃん。 看護婦ってそんなに待遇悪いのか？","………………
+Hey, Misao-chan. Are nurses really treated that badly?","………………
 No, Misao-chan. ¿Tan mal tratan a las enfermeras?"
-"Tomobiki Misao (talking)";"えっ？";"What?";"¿Qué?"
-"Yamamoto Akuji (talking)";"いや、看護婦が仕事キツいって話は よく聞くしなあ。
-まさか花に水をやりたいがために 病院から失踪したんかなぁと……";"No, I hear a lot of stories about nurses having a hard time at work.
-I wonder if she disappeared from the hospital to water the flowers……";"No, oigo hablar mucho de las enfermeras que lo pasan mal en el trabajo.
+"Tomobiki Misao (talking)","えっ？","What?","¿Qué?"
+"Yamamoto Akuji (talking)","いや、看護婦が仕事キツいって話は よく聞くしなあ。
+まさか花に水をやりたいがために 病院から失踪したんかなぁと……","No, I hear a lot of stories about nurses having a hard time at work.
+I wonder if she disappeared from the hospital to water the flowers……","No, oigo hablar mucho de las enfermeras que lo pasan mal en el trabajo.
 No creo que haya desaparecido del hospital para regar las flores……"
-"Tomobiki Misao (talking)";"……あの、何を…………";"…… Um, what …………";"…… Um, qué …………"
-"Yamamoto Akuji (talking)";"そっかぁ、 大変なんだな、看護婦って…… いやまあ、忘れてくれ。";"I see, it's tough being a nurse…… No, well, forget it.";"Ya veo, debe ser duro ser enfermera…… No, bueno, olvídalo."
-"Tomobiki Misao (talking)";"………………？？？";"………………？？？";"………………？？？"
-"Yamamoto Akuji (talking)";"よし、操ちゃんはＧＡＬバーガーの 店員になってもらおう。
-何せ看護婦だし、 サービス業のコツは解ってるだろ。";"Okay, Misao, let's ask you to be a waitress at GAL Burger.
-She's a nurse, after all, and she knows the ins and outs of the service industry.";"Bien, Misao, puedes ser camarero en GAL Burger.
+"Tomobiki Misao (talking)","……あの、何を…………","…… Um, what …………","…… Um, qué …………"
+"Yamamoto Akuji (talking)","そっかぁ、 大変なんだな、看護婦って…… いやまあ、忘れてくれ。","I see, it's tough being a nurse…… No, well, forget it.","Ya veo, debe ser duro ser enfermera…… No, bueno, olvídalo."
+"Tomobiki Misao (talking)","………………？？？","………………？？？","………………？？？"
+"Yamamoto Akuji (talking)","よし、操ちゃんはＧＡＬバーガーの 店員になってもらおう。
+何せ看護婦だし、 サービス業のコツは解ってるだろ。","Okay, Misao, let's ask you to be a waitress at GAL Burger.
+She's a nurse, after all, and she knows the ins and outs of the service industry.","Bien, Misao, puedes ser camarero en GAL Burger.
 Al fin y al cabo, es enfermera y conoce los entresijos del sector servicios."
-"Tomobiki Misao (talking)";"あ、あの……一体何の話ですか？";"Oh, um,…… what the hell are you talking about?";"Oh, um,…… ¿de qué demonios estás hablando?"
-"Yamamoto Akuji (talking)";"まあ要するに、 ハンバーガー屋の店員として 強制労働して頂きましょう、ってこった。";"Well, in short, you will be forced to work as a waitress at a hamburger shop.";"En resumen, te verás obligado a trabajar como camarero en una hamburguesería."
-"Tomobiki Misao (talking)";"こっ、困ります……！ 私、色々な人に 追われているんですから……！";"I can't ……! I'm being chased by all kinds of people……!";"¡No puedo ……! Me persigue todo tipo de gente……!"
-"Yamamoto Akuji (talking)";"へ？　そうなのか？ どこの誰に。";"Heh?　Really? Where and to whom.";"¿Eh?　¿De verdad? Dónde y a quién."
-"Tomobiki Misao (talking)";"えっ……？ あ、あの…………
- ……そ、そう、借金取りとか、 その、ストーカーとか…………";"What, ……? Oh, uh, you know, ……………… so, yeah, debt collectors and, you know, stalkers and …………";"¿Qué, ……? Oh, ya sabes, ……………… así que, sí, los cobradores de deudas y, ya sabes, los acosadores y …………"
-"Yamamoto Akuji (talking)";"あー、なるほどな。 操ちゃん美人だし看護婦だし、 妙な元患者とか居たのか？";"Ah, I see. Misao, you're a pretty girl and a nurse. Did you have any strange ex-patients?";"Ah, ya veo. Misao, es hermosa, es enfermera, ¿tenía algún ex-paciente extraño o algo así?"
-"Tomobiki Misao (talking)";"そ……そんな感じです。 ですから、あの……";"So…… like that. So, that ……";"Ese…… es así. Así que ……"
-"Yamamoto Akuji (talking)";"なぁに、心配すんな。 必要だって言うんなら、 こっちもイロイロ対策してやるよ。
+"Tomobiki Misao (talking)","あ、あの……一体何の話ですか？","Oh, um,…… what the hell are you talking about?","Oh, um,…… ¿de qué demonios estás hablando?"
+"Yamamoto Akuji (talking)","まあ要するに、 ハンバーガー屋の店員として 強制労働して頂きましょう、ってこった。","Well, in short, you will be forced to work as a waitress at a hamburger shop.","En resumen, te verás obligado a trabajar como camarero en una hamburguesería."
+"Tomobiki Misao (talking)","こっ、困ります……！ 私、色々な人に 追われているんですから……！","I can't ……! I'm being chased by all kinds of people……!","¡No puedo ……! Me persigue todo tipo de gente……!"
+"Yamamoto Akuji (talking)","へ？　そうなのか？ どこの誰に。","Heh?　Really? Where and to whom.","¿Eh?　¿De verdad? Dónde y a quién."
+"Tomobiki Misao (talking)","えっ……？ あ、あの…………
+ ……そ、そう、借金取りとか、 その、ストーカーとか…………","What, ……? Oh, uh, you know, ……………… so, yeah, debt collectors and, you know, stalkers and …………","¿Qué, ……? Oh, ya sabes, ……………… así que, sí, los cobradores de deudas y, ya sabes, los acosadores y …………"
+"Yamamoto Akuji (talking)","あー、なるほどな。 操ちゃん美人だし看護婦だし、 妙な元患者とか居たのか？","Ah, I see. Misao, you're a pretty girl and a nurse. Did you have any strange ex-patients?","Ah, ya veo. Misao, es hermosa, es enfermera, ¿tenía algún ex-paciente extraño o algo así?"
+"Tomobiki Misao (talking)","そ……そんな感じです。 ですから、あの……","So…… like that. So, that ……","Ese…… es así. Así que ……"
+"Yamamoto Akuji (talking)","なぁに、心配すんな。 必要だって言うんなら、 こっちもイロイロ対策してやるよ。
 そう、戸籍も全部書き換えて 安心して働けるようにな。
- ……そうする一番の目的は、 店員の女を逃がさないためだけど。";"Don't worry. If you say it's necessary, we'll do everything we can to help.
+ ……そうする一番の目的は、 店員の女を逃がさないためだけど。","Don't worry. If you say it's necessary, we'll do everything we can to help.
 Yes, I'll even change all the family registers so that you can work with peace of mind.
-The main purpose of…… is to keep the girls from escaping.";"No te preocupes. Si usted dice que es necesario, haremos todo lo posible.
+The main purpose of…… is to keep the girls from escaping.","No te preocupes. Si usted dice que es necesario, haremos todo lo posible.
 Sí, incluso cambiaremos todos los registros familiares para que puedas trabajar en paz.
 La razón principal para hacerlo es evitar que las chicas se escapen."
-"Tomobiki Misao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"ま、俺に捕まったのが運の尽きだと そう思って諦めるんだなー。";"Well, I guess you'll just have to give up thinking that it's your luck that I caught you…";"Bueno, supongo que tendrás que dejar de pensar que es tu día de suerte porque te he pillado…"
-"Tomobiki Misao (talking)";"……………… 願ったり叶ったり、かも……";"……………… I wish, maybe ……";"……………… Eso espero, tal vez……"
-"Yamamoto Akuji (talking)";"はっ？";"Huh?";"¿Eh?"
-"Tomobiki Misao (talking)";"……言う通りにします。 あなたの言う通りにしますから、 一つだけ約束して下さい。
-月に……月に一度でいいです。 自由にできる日を下さい……";"…… will do as you say. I will do as you say, just promise me one thing.
-Just once a month,…… a month. Give me a day of freedom……";"…… Haré lo que dices. Haré exactamente lo que dices, sólo prométeme una cosa.
+"Tomobiki Misao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","ま、俺に捕まったのが運の尽きだと そう思って諦めるんだなー。","Well, I guess you'll just have to give up thinking that it's your luck that I caught you…","Bueno, supongo que tendrás que dejar de pensar que es tu día de suerte porque te he pillado…"
+"Tomobiki Misao (talking)","……………… 願ったり叶ったり、かも……","……………… I wish, maybe ……","……………… Eso espero, tal vez……"
+"Yamamoto Akuji (talking)","はっ？","Huh?","¿Eh?"
+"Tomobiki Misao (talking)","……言う通りにします。 あなたの言う通りにしますから、 一つだけ約束して下さい。
+月に……月に一度でいいです。 自由にできる日を下さい……","…… will do as you say. I will do as you say, just promise me one thing.
+Just once a month,…… a month. Give me a day of freedom……","…… Haré lo que dices. Haré exactamente lo que dices, sólo prométeme una cosa.
 Sólo una vez al mes…… al mes. Dame un día de libertad……"
-"Yamamoto Akuji (talking)";"いや、心配せんでも バーガー屋の店員は週休二日だが……";"No, don't worry, burger joint clerks get the week off……";"No, no te preocupes, los trabajadores de las hamburgueserías tienen dos días libres a la semana……"
-"Tomobiki Misao (talking)";"そんなにお休みあるんですか？";"Do you have that much time off?";"¿Tienes tanto tiempo libre?"
-"Yamamoto Akuji (talking)";"何でもウィミィの労働基準法で そう決まってるらしくてよ。
+"Yamamoto Akuji (talking)","いや、心配せんでも バーガー屋の店員は週休二日だが……","No, don't worry, burger joint clerks get the week off……","No, no te preocupes, los trabajadores de las hamburgueserías tienen dos días libres a la semana……"
+"Tomobiki Misao (talking)","そんなにお休みあるんですか？","Do you have that much time off?","¿Tienes tanto tiempo libre?"
+"Yamamoto Akuji (talking)","何でもウィミィの労働基準法で そう決まってるらしくてよ。
 バーガー屋の経営を任せてる女が、 ウィミィのやり方に えらくこだわってるもんでな……
 ま、こっちも可愛い女つかまえて 無理矢理働かせてんだから、 労働条件はいいに越したこたぁねぇし。
-あんまキツイと、 みんなヤになって逃げちまうだろ？";"Apparently that's what the labor code at Wime says.
+あんまキツイと、 みんなヤになって逃げちまうだろ？","Apparently that's what the labor code at Wime says.
 The woman who manages the burger shop is very insistent on Wime's way of doing things……
 Well, we take pretty girls and force them to work for us, so we want good working conditions.
-If it's too hard, people will get tired of it and run away, right?";"Al parecer, eso es lo que dice el código laboral de Wime.
+If it's too hard, people will get tired of it and run away, right?","Al parecer, eso es lo que dice el código laboral de Wime.
 La mujer que regenta la hamburguesería insiste mucho en la forma de hacer las cosas de Wime……
 Bueno, cogemos chicas guapas y las obligamos a trabajar para nosotros, así que las condiciones de trabajo tienen que ser buenas.
 Si eres demasiado duro con ellos, se cansarán y huirán, ¿no?"
-"Tomobiki Misao (talking)";"ああ、良かった…… これで安心して水やりに行ける……";"Oh, thank goodness:…… Now I can go watering without worry: ……";"Oh, gracias a Dios…… Ahora puedo ir a regar en paz……"
-"Yamamoto Akuji (talking)";"………………？
-なー、操ちゃん。 看護婦ってそんなに待遇悪いのか？";"………………?
-Hey, Misao-chan. Are nurses really treated that badly?";"………………?
+"Tomobiki Misao (talking)","ああ、良かった…… これで安心して水やりに行ける……","Oh, thank goodness:…… Now I can go watering without worry: ……","Oh, gracias a Dios…… Ahora puedo ir a regar en paz……"
+"Yamamoto Akuji (talking)","………………？
+なー、操ちゃん。 看護婦ってそんなに待遇悪いのか？","………………?
+Hey, Misao-chan. Are nurses really treated that badly?","………………?
 Oye, Misao-chan. ¿Tan mal tratan a las enfermeras?"
-"Tomobiki Misao (talking)";"えっ？";"What?";"¿Qué?"
-"Yamamoto Akuji (talking)";"いや、看護婦が仕事キツいって話は よく聞くしなあ。
-まさか花に水をやりたいがために 病院から失踪したんかなぁと……";"No, I hear a lot of stories about nurses having a hard time at work.
-I wonder if she disappeared from the hospital to water the flowers……";"No, oigo hablar mucho de las enfermeras que lo pasan mal en el trabajo.
+"Tomobiki Misao (talking)","えっ？","What?","¿Qué?"
+"Yamamoto Akuji (talking)","いや、看護婦が仕事キツいって話は よく聞くしなあ。
+まさか花に水をやりたいがために 病院から失踪したんかなぁと……","No, I hear a lot of stories about nurses having a hard time at work.
+I wonder if she disappeared from the hospital to water the flowers……","No, oigo hablar mucho de las enfermeras que lo pasan mal en el trabajo.
 No creo que haya desaparecido del hospital para regar las flores……"
-"Tomobiki Misao (talking)";"……あの、何を…………";"…… Um, what …………";"…… Um, qué …………"
-"Yamamoto Akuji (talking)";"そっかぁ、 大変なんだな、看護婦って…… いやまあ、忘れてくれ。";"I see, it's tough being a nurse…… No, well, forget it.";"Ya veo, debe ser duro ser enfermera…… No, bueno, olvídalo."
-"Tomobiki Misao (talking)";"………………？？？";"………………？？？";"………………？？？"
-"Yamamoto Akuji (talking)";"おめーさあ、絶対何か隠してんだろ。";"You are definitely hiding something, aren't you?";"Definitivamente estás ocultando algo, ¿no?"
-"Tomobiki Misao (talking)";"……別に…………";"…… separately …………";"…… por separado …………"
-"Yamamoto Akuji (talking)";"んじゃ、森に隠れてた理由を 教えてもらおうか。";"So let's have Mori tell us why she was hiding.";"Así que hagamos que Mori nos diga por qué se escondía."
-"Tomobiki Misao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"やっぱ金か？　宝か？";"Is it gold?　Treasure?";"¿Es oro después de todo?　¿Tesoro?"
-"Tomobiki Misao (talking)";"そんなもの、何もありません……";"Nothing like that……";"No hay nada parecido……"
-"Yamamoto Akuji (talking)";"嘘だな。 何かがあって隠してる、 そーいう顔してるぜ。";"You're lying. You're hiding something. You have that look on your face.";"Estás mintiendo. Hay algo que está pasando y lo estás ocultando. Tienes esa mirada."
-"Tomobiki Misao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"どうにも知りたくなってきたな……
-拷問してでも吐かせたい、 なーんつったらどうする？";"I'm curious to know how: ……
-What if I want to torture you into vomiting?";"¿Te gustaría saberlo? ……
+"Tomobiki Misao (talking)","……あの、何を…………","…… Um, what …………","…… Um, qué …………"
+"Yamamoto Akuji (talking)","そっかぁ、 大変なんだな、看護婦って…… いやまあ、忘れてくれ。","I see, it's tough being a nurse…… No, well, forget it.","Ya veo, debe ser duro ser enfermera…… No, bueno, olvídalo."
+"Tomobiki Misao (talking)","………………？？？","………………？？？","………………？？？"
+"Yamamoto Akuji (talking)","おめーさあ、絶対何か隠してんだろ。","You are definitely hiding something, aren't you?","Definitivamente estás ocultando algo, ¿no?"
+"Tomobiki Misao (talking)","……別に…………","…… separately …………","…… por separado …………"
+"Yamamoto Akuji (talking)","んじゃ、森に隠れてた理由を 教えてもらおうか。","So let's have Mori tell us why she was hiding.","Así que hagamos que Mori nos diga por qué se escondía."
+"Tomobiki Misao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","やっぱ金か？　宝か？","Is it gold?　Treasure?","¿Es oro después de todo?　¿Tesoro?"
+"Tomobiki Misao (talking)","そんなもの、何もありません……","Nothing like that……","No hay nada parecido……"
+"Yamamoto Akuji (talking)","嘘だな。 何かがあって隠してる、 そーいう顔してるぜ。","You're lying. You're hiding something. You have that look on your face.","Estás mintiendo. Hay algo que está pasando y lo estás ocultando. Tienes esa mirada."
+"Tomobiki Misao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","どうにも知りたくなってきたな……
+拷問してでも吐かせたい、 なーんつったらどうする？","I'm curious to know how: ……
+What if I want to torture you into vomiting?","¿Te gustaría saberlo? ……
  ¿Y si quiero torturarte para que vomites?"
-"Tomobiki Misao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"しゃあねぇな。
- ……日陰さん、 拷問担当の連中に連絡つけてくれ。";"Oh well.
- ……Hikage, please contact the guys in charge of torture.";"No puedo evitarlo.
+"Tomobiki Misao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","しゃあねぇな。
+ ……日陰さん、 拷問担当の連中に連絡つけてくれ。","Oh well.
+ ……Hikage, please contact the guys in charge of torture.","No puedo evitarlo.
  ……Hikage, contacta con los responsables de la tortura."
-"Hikage Mitsuko (talking)";"…………はい…… それじゃ……すぐに…………";"………… yes…… then…… soon …………";"………… sí…… entonces…… pronto …………"
-"Tomobiki Misao (talking)";"……？　まさか本当に……";"……?　No way, really……";"……?　De ninguna manera, realmente……"
-"Yamamoto Akuji (talking)";"おう、やっちまうぞ、拷問。 話すなら今の内だぜ？";"Oh, I'm gonna do it, torture you. You want to talk about it, now's the time, huh?";"Oh, lo haremos, tortura. Si quieres hablar de ello, ahora es el momento de hacerlo, ¿vale?"
-"Tomobiki Misao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"あっそ。
-んじゃな、操ちゃん。 恨むなら頑固な自分を恨めよ。 無事だったらまた会おうぜ。";"Oh, yeah.
-Well then, Misao-chan. If you want to hate me, hate yourself for being so stubborn. If you're safe, let's meet again.";"Ah, sí.
+"Hikage Mitsuko (talking)","…………はい…… それじゃ……すぐに…………","………… yes…… then…… soon …………","………… sí…… entonces…… pronto …………"
+"Tomobiki Misao (talking)","……？　まさか本当に……","……?　No way, really……","……?　De ninguna manera, realmente……"
+"Yamamoto Akuji (talking)","おう、やっちまうぞ、拷問。 話すなら今の内だぜ？","Oh, I'm gonna do it, torture you. You want to talk about it, now's the time, huh?","Oh, lo haremos, tortura. Si quieres hablar de ello, ahora es el momento de hacerlo, ¿vale?"
+"Tomobiki Misao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","あっそ。
+んじゃな、操ちゃん。 恨むなら頑固な自分を恨めよ。 無事だったらまた会おうぜ。","Oh, yeah.
+Well then, Misao-chan. If you want to hate me, hate yourself for being so stubborn. If you're safe, let's meet again.","Ah, sí.
 Pues bien, Misao-chan. Si quieres odiarme, ódiate a ti mismo por ser terco. Si estás a salvo, volvamos a vernos."
-"Tomobiki Misao (talking)";"……たとえ、何があっても…… 話す訳には……………
- ………………";"…… even if there is nothing…… to talk about………… …
- ………………";"…… aunque, pase lo que pase,…… no hay razón para hablar de ello:………… …
+"Tomobiki Misao (talking)","……たとえ、何があっても…… 話す訳には……………
+ ………………","…… even if there is nothing…… to talk about………… …
+ ………………","…… aunque, pase lo que pase,…… no hay razón para hablar de ello:………… …
  ………………"
-" (talking)";"さーて、操ちゃん。 そろそろ知ってる事を吐く気になったか？";"Well, Misao-chan. Are you ready to spit out what you know?";"Bueno, Misao-chan. ¿Estás preparado para escupir lo que sabes?"
-" (talking)";"……………… 絶対、話すわけにはいきません……";"……………… Absolutely, we can't talk about it: ……";"……………… Por supuesto, no podemos hablar de ello……"
-" (talking)";"躰がブッ壊れたり、 可愛い顔が歪んだりする前に 喋った方がいいと思うがなー。";"I'd better speak up before my body gets all bummed out or my pretty face gets distorted.";"Será mejor que hable antes de que mi cuerpo se zumbe o mi bonita cara se deforme…"
-" (talking)";"………………";"………………";"………………"
-" (talking)";"しゃあねえな。 んじゃ、またな。";"Oh well. See you later.";"Te veré más tarde. Hasta luego, entonces."
-" (talking)";"……あっ……………
- ………………";"…… A~tsu ……………
- ………………";"…… A~tsu ……………
+" (talking)","さーて、操ちゃん。 そろそろ知ってる事を吐く気になったか？","Well, Misao-chan. Are you ready to spit out what you know?","Bueno, Misao-chan. ¿Estás preparado para escupir lo que sabes?"
+" (talking)","……………… 絶対、話すわけにはいきません……","……………… Absolutely, we can't talk about it: ……","……………… Por supuesto, no podemos hablar de ello……"
+" (talking)","躰がブッ壊れたり、 可愛い顔が歪んだりする前に 喋った方がいいと思うがなー。","I'd better speak up before my body gets all bummed out or my pretty face gets distorted.","Será mejor que hable antes de que mi cuerpo se zumbe o mi bonita cara se deforme…"
+" (talking)","………………","………………","………………"
+" (talking)","しゃあねえな。 んじゃ、またな。","Oh well. See you later.","Te veré más tarde. Hasta luego, entonces."
+" (talking)","……あっ……………
+ ………………","…… A~tsu ……………
+ ………………","…… A~tsu ……………
  ………………"
-" (talking)";"しっかし、まだ喋る気ねぇのか？ いい加減保たないとこまで来てんだろー？
-さっさとゲロして楽になっちまえよ。 な？";"But you're not going to talk yet, are you? You're getting to the point where you can't keep it up, aren't you?
-Why don't you just throw up and get comfortable? See?";"¿Todavía no vas a hablar? Has llegado a un punto en el que no puedes aguantar más, ¿verdad?
+" (talking)","しっかし、まだ喋る気ねぇのか？ いい加減保たないとこまで来てんだろー？
+さっさとゲロして楽になっちまえよ。 な？","But you're not going to talk yet, are you? You're getting to the point where you can't keep it up, aren't you?
+Why don't you just throw up and get comfortable? See?","¿Todavía no vas a hablar? Has llegado a un punto en el que no puedes aguantar más, ¿verdad?
 Vomita y ponte cómodo. ¿Ves?"
-" (talking)";"………………";"………………";"………………"
-" (talking)";"……やれやれ。 密子さーん、拷問係に連絡を……";"…… Oh my goodness. Mitsuko, please contact your torturer: ……";"……. Mitsuko, por favor, contacta con los torturadores: ……"
-" (talking)";"あっ、ひっ…………！ や、やめて下さ…………";"Oh, my God, …………! Oh, no, please don't do that…………";"¡Oh, Dios mío! No lo hagas…………"
-" (talking)";"お、言う気になったか？";"Oh, you're ready to say it?";"Oh, ¿estás listo para decirlo?"
-" (talking)";"……あ、う……ううっ…………";"……Ah, u…… u…………";"…… a, u…… u…………"
-" (talking)";"……そっか、残念だ。";"…… I see, too bad.";"…… Ya veo, qué pena."
-" (talking)";"……ああっ……………！";"…… oh ……………!";"¡…… ah ……………!"
-"cg narrator";"「いっ……いやあああっ！！ 　もう止めて下さいっ！　止めて…………！！」
+" (talking)","………………","………………","………………"
+" (talking)","……やれやれ。 密子さーん、拷問係に連絡を……","…… Oh my goodness. Mitsuko, please contact your torturer: ……","……. Mitsuko, por favor, contacta con los torturadores: ……"
+" (talking)","あっ、ひっ…………！ や、やめて下さ…………","Oh, my God, …………! Oh, no, please don't do that…………","¡Oh, Dios mío! No lo hagas…………"
+" (talking)","お、言う気になったか？","Oh, you're ready to say it?","Oh, ¿estás listo para decirlo?"
+" (talking)","……あ、う……ううっ…………","……Ah, u…… u…………","…… a, u…… u…………"
+" (talking)","……そっか、残念だ。","…… I see, too bad.","…… Ya veo, qué pena."
+" (talking)","……ああっ……………！","…… oh ……………!","¡…… ah ……………!"
+"cg narrator","「いっ……いやあああっ！！ 　もう止めて下さいっ！　止めて…………！！」
 躰を縛られて自由でなくなった四肢をばたつかせ、 操は必死で叫び続けた。──が。
  「だから何度も言わせないでくれ。 　止めて欲しいなら喋りゃいいんだよ」
 拷問手は冷たく言い放ち、オイルで湿らせた バイブレーターとアナルパールを それぞれ秘裂と菊座へ押し込んでいった。
@@ -338,7 +338,7 @@ Vomita y ponte cómodo. ¿Ves?"
  「隠してる事、喋る気はないんだろう？ 　ならせめて、その気になるまで遊ばせてくれよ」
 拷問手は言って、 カッターの刃をキチキチと音を立て伸ばしていく。
  ──その音だけで、 もう操の我慢の限界は超えていた。
- 「ひ、いっ……………………っ………………」";"”I'm…… No! 　Stop it already!　Stop …………!
+ 「ひ、いっ……………………っ………………」","”I'm…… No! 　Stop it already!　Stop …………!
 With her limbs flailing about, Misao continued to scream frantically. I'm sorry, but….
 So don't make me say it again and again. 　If you want me to stop, just talk.
 The torturer said coldly, and pushed a vibrator and an anal pearl, moistened with oil, into her secret crack and chrysalis, respectively.
@@ -394,7 +394,7 @@ I'm not going to stop. 　You're going to have to let me play like this for a wh
 You're not going to tell me what you're hiding, are you? 　So at least let me play with you until you're ready.”
 The torturer said, and extended the blade of the cutter with a click.
 The sound of the cutter blade was enough to make Misao's endurance exceeded its limit.
- “Hi, I'm……………………… ……………”";"”Estoy…… ¡No! 　¡Para ya!　¡Deja de …………!
+ “Hi, I'm……………………… ……………”","”Estoy…… ¡No! 　¡Para ya!　¡Deja de …………!
 Agitando sus extremidades, que estaban atadas y ya no estaban libres, Misao seguía gritando frenéticamente. Pero…
  'Así que no me hagas decirlo una y otra vez. 　Si quieres que pare, habla”.
 El torturador dijo fríamente, y empujó el vibrador y las perlas anales humedecidas con aceite en su hendidura secreta y en su crisálida respectivamente.
@@ -451,23 +451,23 @@ No me vas a decir lo que escondes, ¿verdad? 　Así que al menos déjame jugar 
 Los torturadores dijeron y extendieron la hoja del cortador con un sonido chirriante.
 Sólo el sonido ya había superado el límite de la resistencia de Misao.
  'Hola, soy……………………… ……………”"
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"cg narrator";"──操の意識が、遠のく。
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"cg narrator","──操の意識が、遠のく。
 四肢は力を失って投げ出され、 震えるどころかぴくりとも動かなくなった。
  「チッ、もう終わりかよ…… 　無理矢理起こして続けてもいいが、 　そこまでやれば発狂しかねんな……」
 拷問手はもう、操に飽きてしまっていた。
  「こんな面白くない奴に付き合っていられるか…… 　次はいっそ、事故に見せかけて殺してやる……」
 拷問手は操の躰を蹴って、地下室から出ていく。
  ──拷問手は、本気だった。 次があれば、操を殺していただろう。
-だが、その“次の拷問”は、もうなかった。";"Misao's consciousness faded away.
+だが、その“次の拷問”は、もうなかった。","Misao's consciousness faded away.
  
  “Damn, is it over already?…… I could force him to get up and continue, but he might go insane if I go that far……”
 The torturer was already tired of Misao.
  “I can't keep up with a guy who isn't Haku like this…… Next time, I'll make it look like an accident and Satsu him……
 The torturer kicked Misao's body and left the basement.
 The torturers were serious. If there was a next time, he would have Satsu Misao.
-But that “next torture” was no more.";"La conciencia de Misao se desvaneció.
+But that “next torture” was no more.","La conciencia de Misao se desvaneció.
 Los miembros salieron despedidos sin fuerza, no sólo temblorosos, sino también incapaces de moverse ni un ápice.
  'Maldita sea, ¿ya ha terminado?…… Podría forzarlo a despertar y continuar, pero si voy tan lejos, podría volverse loco……'
 Los torturadores ya habían tenido suficiente con Misao.
@@ -475,496 +475,496 @@ Los torturadores ya habían tenido suficiente con Misao.
 El torturador pateó el cuerpo de Misao y salió del sótano.
  ─ ─ Los torturadores iban en serio. Si hubiera una próxima vez, tendría Satsu Misao.
 Pero esa “próxima tortura” ya no existe."
-"Yamamoto Akuji (talking)";"……日陰さん、 操ちゃんが全部話す気になったんだって？";"……Hikage, I heard that Misao-chan is ready to tell us all about it?";"……Hikage, Misao dice que está lista para contarlo todo…"
-"Hikage Mitsuko (talking)";"……はい…… 今、目を覚まして…
-連れてきましょう…か……？";"…… yes…… now wake up…
-Let's bring him… or ……?";"…… si…… Ahora despierta…
+"Yamamoto Akuji (talking)","……日陰さん、 操ちゃんが全部話す気になったんだって？","……Hikage, I heard that Misao-chan is ready to tell us all about it?","……Hikage, Misao dice que está lista para contarlo todo…"
+"Hikage Mitsuko (talking)","……はい…… 今、目を覚まして…
+連れてきましょう…か……？","…… yes…… now wake up…
+Let's bring him… or ……?","…… si…… Ahora despierta…
 Traigámoslo… ¿o ……?"
-"Yamamoto Akuji (talking)";"おう、頼むぜ。";"Oh, please.";"Oh, por favor."
-"Hikage Mitsuko (talking)";"じゃあ、ちょっとだけ…… 待っていて下さい……";"Okay, just wait for a moment…… ……";"Vale, espera un momento…… ……"
-"Tomobiki Misao (talking)";"話します……話しますから………… お願い、もう……許して下さい……！";"I will talk…… I will talk………… please, no more…… forgive me ……!";"Hablaré contigo…… Hablaré contigo………… Por favor, no más…… ¡Perdóname ……!"
-"Yamamoto Akuji (talking)";"……怯えきってんなー。 最初から素直に言えばいいのによ。";"…… You're so frightened! Why don't you just be honest from the start?";"…… ¡Estás muy asustado! ¿Por qué no eres sincero desde el principio?"
-"Tomobiki Misao (talking)";"言います……言います、全部言います…… でも、絶対に近付かないで…… 危険なんです、危険………………";"I'll say it…… I'll say it, I'll say it all…… but stay away from it…… It's dangerous, it's dangerous ………………";"Lo diré…… Lo diré, lo diré todo…… pero debes alejarte de él…… Es peligroso, es peligroso………………"
-"Yamamoto Akuji (talking)";"解った、解ったから。だから何だ。";"I get it, I get it. So what?";"Lo entiendo, lo entiendo. Y qué."
-"Tomobiki Misao (talking)";"………………あ、あの……";"……………… Oh, that ……";"……………… Oh, que ……"
-"Yamamoto Akuji (talking)";"落ち着け、深呼吸しろ。 解りやすく最初から話せ。";"Calm down, take a deep breath. Start from the beginning.";"Cálmate, respira profundamente. Empieza por el principio."
-"Tomobiki Misao (talking)";"……はい。
+"Yamamoto Akuji (talking)","おう、頼むぜ。","Oh, please.","Oh, por favor."
+"Hikage Mitsuko (talking)","じゃあ、ちょっとだけ…… 待っていて下さい……","Okay, just wait for a moment…… ……","Vale, espera un momento…… ……"
+"Tomobiki Misao (talking)","話します……話しますから………… お願い、もう……許して下さい……！","I will talk…… I will talk………… please, no more…… forgive me ……!","Hablaré contigo…… Hablaré contigo………… Por favor, no más…… ¡Perdóname ……!"
+"Yamamoto Akuji (talking)","……怯えきってんなー。 最初から素直に言えばいいのによ。","…… You're so frightened! Why don't you just be honest from the start?","…… ¡Estás muy asustado! ¿Por qué no eres sincero desde el principio?"
+"Tomobiki Misao (talking)","言います……言います、全部言います…… でも、絶対に近付かないで…… 危険なんです、危険………………","I'll say it…… I'll say it, I'll say it all…… but stay away from it…… It's dangerous, it's dangerous ………………","Lo diré…… Lo diré, lo diré todo…… pero debes alejarte de él…… Es peligroso, es peligroso………………"
+"Yamamoto Akuji (talking)","解った、解ったから。だから何だ。","I get it, I get it. So what?","Lo entiendo, lo entiendo. Y qué."
+"Tomobiki Misao (talking)","………………あ、あの……","……………… Oh, that ……","……………… Oh, que ……"
+"Yamamoto Akuji (talking)","落ち着け、深呼吸しろ。 解りやすく最初から話せ。","Calm down, take a deep breath. Start from the beginning.","Cálmate, respira profundamente. Empieza por el principio."
+"Tomobiki Misao (talking)","……はい。
 あの、池田さんって方がいて…… 私の担当した患者さんで……
-その人、旧ニホン軍の将校で……";"…… Yes.
+その人、旧ニホン軍の将校で……","…… Yes.
 Well, there is a person named Ikeda who was a patient of mine ……
-He was an officer in the former Japanese army……";"…… Sí.
+He was an officer in the former Japanese army……","…… Sí.
 Um, había una persona llamada Ikeda que fue paciente mío ……
 Esa persona es un oficial del antiguo ejército japonés ……"
-"Yamamoto Akuji (talking)";"ああ、市議会から回ってきた資料で見た。 操ちゃんに何か吹き込んだ張本人だろ？
-たしか……そうそう、 全身がぶよぶよになる奇病で死んだとか。";"Yeah, I saw it in the material that was passed around from the city council. He's the one who blew something to Misao, wasn't he?
-I think it was ……, and I heard he died of a strange disease that made him bloated.";"Sí, lo vi en los documentos distribuidos por el ayuntamiento. Tú eres el que ha hecho explotar algo con Misao, ¿no?
+"Yamamoto Akuji (talking)","ああ、市議会から回ってきた資料で見た。 操ちゃんに何か吹き込んだ張本人だろ？
+たしか……そうそう、 全身がぶよぶよになる奇病で死んだとか。","Yeah, I saw it in the material that was passed around from the city council. He's the one who blew something to Misao, wasn't he?
+I think it was ……, and I heard he died of a strange disease that made him bloated.","Sí, lo vi en los documentos distribuidos por el ayuntamiento. Tú eres el que ha hecho explotar algo con Misao, ¿no?
 Creo que era ……, y he oído que murió de una extraña enfermedad que le hizo hincharse todo el cuerpo."
-"Tomobiki Misao (talking)";"……………… その奇病の原因が……シャアなんです。";"……………… The cause of that strange disease is ……Shaa.";"……………… La extraña enfermedad es causada por ……Shaa."
-"Yamamoto Akuji (talking)";"病気の原因？ 何だ、シャアって花じゃなかったのかよ。";"The cause of the disease? What, Shaa wasn't a flower?";"¿Causa de la enfermedad? ¿Qué, Shaa no era una flor?"
-"Tomobiki Misao (talking)";"いえ、違います。 ……赤い彗星です。
-赤い彗星のことを、 軍の暗号でシャアと呼ぶらしくて……";"No, it is not. It is…… the Red Comet.
-The Red Comet is called Shaa in military code……";"No, no. Es…… el Cometa Rojo.
+"Tomobiki Misao (talking)","……………… その奇病の原因が……シャアなんです。","……………… The cause of that strange disease is ……Shaa.","……………… La extraña enfermedad es causada por ……Shaa."
+"Yamamoto Akuji (talking)","病気の原因？ 何だ、シャアって花じゃなかったのかよ。","The cause of the disease? What, Shaa wasn't a flower?","¿Causa de la enfermedad? ¿Qué, Shaa no era una flor?"
+"Tomobiki Misao (talking)","いえ、違います。 ……赤い彗星です。
+赤い彗星のことを、 軍の暗号でシャアと呼ぶらしくて……","No, it is not. It is…… the Red Comet.
+The Red Comet is called Shaa in military code……","No, no. Es…… el Cometa Rojo.
 El Cometa Rojo se llama Shaa en código militar……"
-"Yamamoto Akuji (talking)";"何のこっちゃ。";"What the heck is that?";"¿Qué demonios es eso?"
-"Tomobiki Misao (talking)";"……戦時中、その赤い彗星が イタミ山に落下したんです。
-その調査をするように 軍から命じられて、池田さんは イタミ山に向かったんですけど……";"……During the war, the red comet fell on Mount Itami.
-The military ordered Ikeda to go to Mt. Itami to investigate……";"……Durante la guerra, el cometa rojo cayó sobre el Monte Itami.
+"Yamamoto Akuji (talking)","何のこっちゃ。","What the heck is that?","¿Qué demonios es eso?"
+"Tomobiki Misao (talking)","……戦時中、その赤い彗星が イタミ山に落下したんです。
+その調査をするように 軍から命じられて、池田さんは イタミ山に向かったんですけど……","……During the war, the red comet fell on Mount Itami.
+The military ordered Ikeda to go to Mt. Itami to investigate……","……Durante la guerra, el cometa rojo cayó sobre el Monte Itami.
 Los militares ordenaron a Ikeda ir al Monte Itami para investigarlo……"
-"Yamamoto Akuji (talking)";"へ？ ニホン軍に天文学者なんか居たのか？";"Huh? Were there astronomers in the Japanese army?";"¿Eh? ¿Había astrónomos en el ejército japonés?"
-"Tomobiki Misao (talking)";"いえ、池田さんは軍の科学士官で、 専門は細菌学だったんです。 生物兵器の開発に携わっていたそうで……";"No, Ikeda was a science officer in the military, specializing in bacteriology. He was involved in the development of biological weapons……";"No, Ikeda era un oficial científico en el ejército, especializado en bacteriología. Estuvo involucrado en el desarrollo de armas biológicas……"
-"Yamamoto Akuji (talking)";"ワケわからんなー…… 何で隕石調査に細菌学が要るんだ？";"I don't get it……… Why do you need bacteriology for meteorite research?";"No lo entiendo…… ¿Por qué se necesita la bacteriología para la investigación de meteoritos?"
-"Tomobiki Misao (talking)";"…………その赤い彗星は、 とんでもない病原菌の塊だったんです。";"………… That red comet was one heck of a germ-fest.";"………… Ese cometa rojo era un infierno de un bloque de gérmenes."
-"Yamamoto Akuji (talking)";"あー、はいはいはい。 そいつを手に入れて生物兵器として 使おうとしたワケかい。";"Oh, yes, yes, yes. So you were going to acquire it and use it as a bioweapon.";"Ah, sí, sí, sí. Así que te hiciste con ella y la ibas a utilizar como arma biológica."
-"Tomobiki Misao (talking)";"そうです。でも……
+"Yamamoto Akuji (talking)","へ？ ニホン軍に天文学者なんか居たのか？","Huh? Were there astronomers in the Japanese army?","¿Eh? ¿Había astrónomos en el ejército japonés?"
+"Tomobiki Misao (talking)","いえ、池田さんは軍の科学士官で、 専門は細菌学だったんです。 生物兵器の開発に携わっていたそうで……","No, Ikeda was a science officer in the military, specializing in bacteriology. He was involved in the development of biological weapons……","No, Ikeda era un oficial científico en el ejército, especializado en bacteriología. Estuvo involucrado en el desarrollo de armas biológicas……"
+"Yamamoto Akuji (talking)","ワケわからんなー…… 何で隕石調査に細菌学が要るんだ？","I don't get it……… Why do you need bacteriology for meteorite research?","No lo entiendo…… ¿Por qué se necesita la bacteriología para la investigación de meteoritos?"
+"Tomobiki Misao (talking)","…………その赤い彗星は、 とんでもない病原菌の塊だったんです。","………… That red comet was one heck of a germ-fest.","………… Ese cometa rojo era un infierno de un bloque de gérmenes."
+"Yamamoto Akuji (talking)","あー、はいはいはい。 そいつを手に入れて生物兵器として 使おうとしたワケかい。","Oh, yes, yes, yes. So you were going to acquire it and use it as a bioweapon.","Ah, sí, sí, sí. Así que te hiciste con ella y la ibas a utilizar como arma biológica."
+"Tomobiki Misao (talking)","そうです。でも……
 池田さんは、その病原菌……シャアは 人の手に余る危険なものだからと、 死を覚悟で彗星の欠片を隠したんです。
-イタミ山の奥深く、赤の穴に……";"Yes, it is. But ……
+イタミ山の奥深く、赤の穴に……","Yes, it is. But ……
 Mr. Ikeda hid the comet shards at the risk of death because the pathogen ……Shaa was too dangerous for man to handle.
-Deep in Mount Itami, in a red hole……";"Sí, lo es. Pero ……
+Deep in Mount Itami, in a red hole……","Sí, lo es. Pero ……
 El Sr. Ikeda escondió los fragmentos del cometa a riesgo de morir porque el agente patógeno ……Shaa era demasiado peligroso para el hombre.
 En lo profundo del Monte Itami, en un agujero rojo……"
-"Yamamoto Akuji (talking)";"なるほどねー、 それでその池田とか言うヤツは 病気になって死んじまったと。";"I see… So this guy called Ikeda got sick and died.";"Ya veo, así que este tipo llamado Ikeda se enfermó y murió."
-"Tomobiki Misao (talking)";"あ……いえ、池田さんの死因は 病原菌の発病による物ではないんです。
-シャアの発症を押さえるために、 池田さんご自身が使った 危険な薬物の副作用で……";"No, ……, Ikeda's death was not caused by the pathogen.
-It was a side effect of a dangerous drug that Ikeda herself used to suppress the onset of Shaa……";"No, ……, la muerte de Ikeda no fue causada por el brote del patógeno.
+"Yamamoto Akuji (talking)","なるほどねー、 それでその池田とか言うヤツは 病気になって死んじまったと。","I see… So this guy called Ikeda got sick and died.","Ya veo, así que este tipo llamado Ikeda se enfermó y murió."
+"Tomobiki Misao (talking)","あ……いえ、池田さんの死因は 病原菌の発病による物ではないんです。
+シャアの発症を押さえるために、 池田さんご自身が使った 危険な薬物の副作用で……","No, ……, Ikeda's death was not caused by the pathogen.
+It was a side effect of a dangerous drug that Ikeda herself used to suppress the onset of Shaa……","No, ……, la muerte de Ikeda no fue causada por el brote del patógeno.
 Fue un efecto secundario de una peligrosa droga que la propia Ikeda utilizó para suprimir la aparición de Shaa……"
-"Yamamoto Akuji (talking)";"まあ、どっちでも一緒だろ。 シャアのせいって事には変わりがねえ。
-でもよ、相手は病原菌なんだろ？ イタミの山ん中に隠したっつっても んなもんでヤバい菌を防ぎ切れんのか？";"Well, it's the same either way. It's still Shaa's fault.
-But, you know, it's a germ, right? Even if you hide it in the mountains of Itami, is that enough to keep out the bad germs?";"Bueno, es lo mismo de cualquier manera. Sigue siendo culpa de Shaa.
+"Yamamoto Akuji (talking)","まあ、どっちでも一緒だろ。 シャアのせいって事には変わりがねえ。
+でもよ、相手は病原菌なんだろ？ イタミの山ん中に隠したっつっても んなもんでヤバい菌を防ぎ切れんのか？","Well, it's the same either way. It's still Shaa's fault.
+But, you know, it's a germ, right? Even if you hide it in the mountains of Itami, is that enough to keep out the bad germs?","Bueno, es lo mismo de cualquier manera. Sigue siendo culpa de Shaa.
 Pero estamos tratando con un germen, ¿verdad? Incluso si lo escondes en las montañas de Itami, ¿será suficiente para protegerte de las bacterias malas?"
-"Tomobiki Misao (talking)";"大丈夫です。 池田さんは、命と引き替えに 対策を発見していたんです。
+"Tomobiki Misao (talking)","大丈夫です。 池田さんは、命と引き替えに 対策を発見していたんです。
 シャアは、一度水に触れると 約一月は活動を停止するそうで……
-けれど、水でシャアが死滅する訳では ないから、川や井戸に放り込む訳に いかなくて……";"It's okay. Mr. Ikeda had found a solution in exchange for his life.
+けれど、水でシャアが死滅する訳では ないから、川や井戸に放り込む訳に いかなくて……","It's okay. Mr. Ikeda had found a solution in exchange for his life.
 Once Shaa comes into contact with water, it is inactive for about a month……
-However, water does not kill Shaa, so you can't just throw them in a river or well……";"No pasa nada. Ikeda había encontrado una solución a cambio de su vida.
+However, water does not kill Shaa, so you can't just throw them in a river or well……","No pasa nada. Ikeda había encontrado una solución a cambio de su vida.
 Una vez que Shaa entra en contacto con el agua, queda inactiva durante un mes aproximadamente……
 Sin embargo, el agua no mata a Shaa, por lo que no se puede arrojar a los ríos o pozos……"
-"Yamamoto Akuji (talking)";"あー、その彗星のかけらが水に混じって 広がられちゃ困るもんな。";"Oh, we don't want any of those comet fragments to get mixed in with the water and spread around, do we?";"No queremos que ese trozo de cometa se esparza por el agua."
-"Tomobiki Misao (talking)";"そうです……だから私が、 池田さんから引き継いで……
+"Yamamoto Akuji (talking)","あー、その彗星のかけらが水に混じって 広がられちゃ困るもんな。","Oh, we don't want any of those comet fragments to get mixed in with the water and spread around, do we?","No queremos que ese trozo de cometa se esparza por el agua."
+"Tomobiki Misao (talking)","そうです……だから私が、 池田さんから引き継いで……
  ……監視を兼ねて、定期的に 適量の水をかけに行っていたんです。
 でも、私はそのせいで 変な人たちにつけねらわれる ようになって……
-シャアの在処を知っているのは、 もう、私だけですから……";"Yes,…… that's why I took over from Ikeda and ……
+シャアの在処を知っているのは、 もう、私だけですから……","Yes,…… that's why I took over from Ikeda and ……
 I was regularly spraying the right amount of water on…… to keep a watchful eye on things.
 But because of that, I started to be followed by strange people……
-I'm the only one who knows where Shaa is now……";"Sí,…… por eso tomé el relevo de Ikeda y ……
+I'm the only one who knows where Shaa is now……","Sí,…… por eso tomé el relevo de Ikeda y ……
 Solía ir a…… con regularidad para rociar la cantidad correcta de agua, así como para controlarla.
 Pero empecé a ser seguido por gente extraña debido a ese ……
 Soy el único que sabe dónde está Shaa ahora……"
-"Yamamoto Akuji (talking)";"……なーるほど。 それで親友の助けを借りて 山に逃げてキャンプしてたって訳か。
+"Yamamoto Akuji (talking)","……なーるほど。 それで親友の助けを借りて 山に逃げてキャンプしてたって訳か。
 しかしあんたも律儀だよなあ。 死んじまった患者の言ったことを そこまで苦労して守るたぁな……
-それとも、その池田とか言うヤツに 情でも移って…………";"…… I see. So you ran away and camped in the mountains with the help of your best friend.
+それとも、その池田とか言うヤツに 情でも移って…………","…… I see. So you ran away and camped in the mountains with the help of your best friend.
 But you are very disciplined, aren't you? You went through all that trouble to defend what a dead patient said……
-Or did you have feelings for that Ikeda guy and decided to go to the trouble of …………";"…… Ya veo. Así que te escapaste y acampaste en las montañas con la ayuda de tu mejor amigo.
+Or did you have feelings for that Ikeda guy and decided to go to the trouble of …………","…… Ya veo. Así que te escapaste y acampaste en las montañas con la ayuda de tu mejor amigo.
 Pero eres muy disciplinado, ¿no? Te tomaste tantas molestias para defender lo que dijo un paciente muerto……
  ¿O es que tienes sentimientos por ese tipo Ikeda y vas a …………"
-"Tomobiki Misao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"……ま、別にどっちでもいいんだが。";"…… Well, I don't really care either way.";"…… Bueno, en realidad no me importa de ninguna manera."
-"Tomobiki Misao (talking)";"…………あの……
-お願いです、シャアは本当に危なくて ……だから、その…………";"………… that ……
-Please, Shaa is really dangerous…… so that …………";"………… que ……
+"Tomobiki Misao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","……ま、別にどっちでもいいんだが。","…… Well, I don't really care either way.","…… Bueno, en realidad no me importa de ninguna manera."
+"Tomobiki Misao (talking)","…………あの……
+お願いです、シャアは本当に危なくて ……だから、その…………","………… that ……
+Please, Shaa is really dangerous…… so that …………","………… que ……
 Por favor, Shaa es realmente peligroso…… para que …………"
-"Yamamoto Akuji (talking)";"ああ、手を出さないようにしとくよ。
-これでも俺は地域管理組合の人間だ、 てめーのシマに被害の出そうな事は 避けてぇんだからよ。";"Yeah, I'll try to stay out of it.
-I'm a member of the local management association, and I don't want to do anything that could damage your territory.";"Sí, intentaré mantenerme al margen.
+"Yamamoto Akuji (talking)","ああ、手を出さないようにしとくよ。
+これでも俺は地域管理組合の人間だ、 てめーのシマに被害の出そうな事は 避けてぇんだからよ。","Yeah, I'll try to stay out of it.
+I'm a member of the local management association, and I don't want to do anything that could damage your territory.","Sí, intentaré mantenerme al margen.
 Soy miembro de la asociación de gestión local, y no quiero que le pase nada a tu territorio."
-"Tomobiki Misao (talking)";"……本当に、お願いします…………";"…… Really, please …………";"…… Realmente, por favor …………"
-"Yamamoto Akuji (talking)";"んじゃま、房に帰って寝てな。 後の事は俺に任しときな。";"Well, go back to your cell and get some sleep. I'll take care of the rest.";"Bueno, vuelve a tu celda y duerme. Yo me encargaré del resto."
-"Tomobiki Misao (talking)";"はい……";"Yes ……";"Sí ……"
-"Hikage Mitsuko (talking)";"……悪司さん………… これから、あの人……";"……Akuji,………… From now on, that man ……";"……Akuji,………… A partir de ahora, esa persona ……"
-"Yamamoto Akuji (talking)";"おう、もう死んだ事にしちまって、 追っ手がかかんないように エゾとかどっか遠いとこにやっちまえ。
+"Tomobiki Misao (talking)","……本当に、お願いします…………","…… Really, please …………","…… Realmente, por favor …………"
+"Yamamoto Akuji (talking)","んじゃま、房に帰って寝てな。 後の事は俺に任しときな。","Well, go back to your cell and get some sleep. I'll take care of the rest.","Bueno, vuelve a tu celda y duerme. Yo me encargaré del resto."
+"Tomobiki Misao (talking)","はい……","Yes ……","Sí ……"
+"Hikage Mitsuko (talking)","……悪司さん………… これから、あの人……","……Akuji,………… From now on, that man ……","……Akuji,………… A partir de ahora, esa persona ……"
+"Yamamoto Akuji (talking)","おう、もう死んだ事にしちまって、 追っ手がかかんないように エゾとかどっか遠いとこにやっちまえ。
 全部引き受けたから安心しろって テキトーに言いくるめてよ。
-操ちゃんは看護婦なんだし、 働き口はどこにでもある。 その方が幸せになれるだろ。";"Oh, just pretend he's dead and send him off to Ezo or somewhere far away so they can't come after him.
+操ちゃんは看護婦なんだし、 働き口はどこにでもある。 その方が幸せになれるだろ。","Oh, just pretend he's dead and send him off to Ezo or somewhere far away so they can't come after him.
 Tell them that we've taken care of everything, and that they don't have to worry.
-Misao is a nurse. She can work anywhere. You'll be happier that way.";"Oh, sólo finge que está muerto y envíalo a algún lugar lejano, como a Ezo, para que no puedan venir a por él.
+Misao is a nurse. She can work anywhere. You'll be happier that way.","Oh, sólo finge que está muerto y envíalo a algún lugar lejano, como a Ezo, para que no puedan venir a por él.
 Dígales que nos hemos ocupado de todo y que pueden relajarse.
 Misao es enfermera, puede trabajar en cualquier sitio. Así serás más feliz."
-"Hikage Mitsuko (talking)";"……はい…… 担当の、人に……そう伝えておきます……";"……Yes…… I will tell the person in charge…… so……";"…… Sí…… Se lo diré a la persona encargada…… así que ……"
-"Yamamoto Akuji (thinking)";"しっかし、シャアねえ……
+"Hikage Mitsuko (talking)","……はい…… 担当の、人に……そう伝えておきます……","……Yes…… I will tell the person in charge…… so……","…… Sí…… Se lo diré a la persona encargada…… así que ……"
+"Yamamoto Akuji (thinking)","しっかし、シャアねえ……
  ……ウィミィとかに売りさばけねぇかな。 そりゃもうスゲー高値で。
 もし俺が扱えそうなら “いざって時の切り札”に 頂いちまいてぇところだが……
-ま、確認してみる価値はありそうだ。";"Shhhh, Shaa hey ……
+ま、確認してみる価値はありそうだ。","Shhhh, Shaa hey ……
 I wonder if you can sell it to ……Wime or something like that. I wonder if I can sell it to Shaa Wime  and others at a very high price.
 If I can handle it, I'd like to have it as a “trump card when the time comes”……
-Well, it seems to be worth checking.";"Shhhh, Shaa hey ……
+Well, it seems to be worth checking.","Shhhh, Shaa hey ……
 Me pregunto si podrías venderlo a ……Wime o algo así. Eso ya es un precio muy alto.
 Si puedo manejarlo, me gustaría tomarlo como mi “carta de triunfo cuando llegue el momento”……
 Parece que merece la pena comprobarlo."
-"kangofu (talking)";"ええと、病院食の配給は終わったから 次は…………
+"kangofu (talking)","ええと、病院食の配給は終わったから 次は…………
  ……そう、分娩室の手伝いに行って、 麻酔課の先生と手術の打ち合わせをして、 第二病棟の巡回と、それからそれから……
- ……ああもう、 忙しいったらありゃしない！";"Well, I'm done with the hospital food distribution, so next I'm going to go to ……………… so I'm going to help out in the delivery room, have a surgical meeting with the anesthesiologist, make the rounds in ward 2, and then I'm going to ………… Oh my god, I've been so busy!";"Bueno, he terminado con las raciones de comida del hospital, así que lo siguiente será ……………… así que tengo que ayudar en la sala de partos, luego tengo una reunión quirúrgica con el médico de anestesia, luego tengo que hacer las rondas de la sala 2, y luego tengo que ………… ¡Dios mío, he estado muy ocupado!"
-"Yopparai (talking)";"へ、へへへ…… 相変わらず忙しそうだねぇ、 看護婦さぁん。";"Heh, heh, heh…… You look busy as ever, nurse.";"Je, je, je…… Se te ve más ocupada que nunca, enfermera."
-"kangofu (talking)";"あらもう比良野さん、 また来ちゃったんですか！？";"Oh my God, Mr. Hirano, you're here again!";"¡Dios mío, Hirano-san, estás aquí de nuevo!"
-"Yopparai (talking)";"へへ、俺にも点滴してくれよぉ。 大吟醸の酒入りでさぁ……";"Hehe, give me a drip too. With daiginjo sake……";"Jeje, a mí también me da un goteo. Con sake daiginjo……"
-"kangofu (talking)";"ええいもうっ、 アル中は病院に来るなーーーっ！！";"Alcoholics don't come to the hospital!";"¡Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no!"
-"kangofu (talking)";"ちょっと典子、そんな事言っちゃ駄目よ。 アル中だって立派な病気なのよ？";"Hey Noriko, don't talk like that. Alcoholism is also a respectable disease, you know?";"Oye Noriko, no hables así. El alcoholismo también es una enfermedad respetable, ¿sabes?"
-"kangofu (talking)";"あ……す、すみません先輩、 忙しくてカリカリしてて、つい……";"Oh…… sorry senpai, I've been busy and crunchy and I just ……";"Oh…… lo siento ancianos, he estado ocupado y crujiente y yo sólo ……"
-"kangofu (talking)";"気持ちは解るけれどね…… これだけ毎日忙しいと気も立つわ。
-ああ…… せめて友引さんが居てくれたら……";"I understand how you feel, though…… I'm so busy every day, it makes me nervous.
-Oh…… I wish at least Tomobiki was here ……";"Sin embargo, entiendo cómo te sientes…… Estoy tan ocupada todos los días, que me hace sentir molesta.
+ ……ああもう、 忙しいったらありゃしない！","Well, I'm done with the hospital food distribution, so next I'm going to go to ……………… so I'm going to help out in the delivery room, have a surgical meeting with the anesthesiologist, make the rounds in ward 2, and then I'm going to ………… Oh my god, I've been so busy!","Bueno, he terminado con las raciones de comida del hospital, así que lo siguiente será ……………… así que tengo que ayudar en la sala de partos, luego tengo una reunión quirúrgica con el médico de anestesia, luego tengo que hacer las rondas de la sala 2, y luego tengo que ………… ¡Dios mío, he estado muy ocupado!"
+"Yopparai (talking)","へ、へへへ…… 相変わらず忙しそうだねぇ、 看護婦さぁん。","Heh, heh, heh…… You look busy as ever, nurse.","Je, je, je…… Se te ve más ocupada que nunca, enfermera."
+"kangofu (talking)","あらもう比良野さん、 また来ちゃったんですか！？","Oh my God, Mr. Hirano, you're here again!","¡Dios mío, Hirano-san, estás aquí de nuevo!"
+"Yopparai (talking)","へへ、俺にも点滴してくれよぉ。 大吟醸の酒入りでさぁ……","Hehe, give me a drip too. With daiginjo sake……","Jeje, a mí también me da un goteo. Con sake daiginjo……"
+"kangofu (talking)","ええいもうっ、 アル中は病院に来るなーーーっ！！","Alcoholics don't come to the hospital!","¡Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no!"
+"kangofu (talking)","ちょっと典子、そんな事言っちゃ駄目よ。 アル中だって立派な病気なのよ？","Hey Noriko, don't talk like that. Alcoholism is also a respectable disease, you know?","Oye Noriko, no hables así. El alcoholismo también es una enfermedad respetable, ¿sabes?"
+"kangofu (talking)","あ……す、すみません先輩、 忙しくてカリカリしてて、つい……","Oh…… sorry senpai, I've been busy and crunchy and I just ……","Oh…… lo siento ancianos, he estado ocupado y crujiente y yo sólo ……"
+"kangofu (talking)","気持ちは解るけれどね…… これだけ毎日忙しいと気も立つわ。
+ああ…… せめて友引さんが居てくれたら……","I understand how you feel, though…… I'm so busy every day, it makes me nervous.
+Oh…… I wish at least Tomobiki was here ……","Sin embargo, entiendo cómo te sientes…… Estoy tan ocupada todos los días, que me hace sentir molesta.
 Oh…… si sólo Tomobiki estuviera aquí ……"
-"kangofu (talking)";"あ、その人…… 他の先輩からもよくお名前聞きますけど、 誰なんですか？";"Oh, that guy…… I've heard your name a lot from other seniors, who is he?";"Oh, ese tipo…… a menudo escucho su nombre de otros ancianos, ¿quién es?"
-"kangofu (talking)";"友引操さんは、二ヶ月前まで 看護婦長だった人よ。 あなたが入る前までの。
-いえ、友引さんが居なくなったから、 求人を出してあなたを雇ったのだけれど。";"Tomobiki Misao was the head nurse until two months ago. Before you joined us.
-No, I hired you because Tomobiki disappeared.";"Tomobiki Misao era enfermera jefe hasta hace dos meses. Antes de que te unieras.
+"kangofu (talking)","あ、その人…… 他の先輩からもよくお名前聞きますけど、 誰なんですか？","Oh, that guy…… I've heard your name a lot from other seniors, who is he?","Oh, ese tipo…… a menudo escucho su nombre de otros ancianos, ¿quién es?"
+"kangofu (talking)","友引操さんは、二ヶ月前まで 看護婦長だった人よ。 あなたが入る前までの。
+いえ、友引さんが居なくなったから、 求人を出してあなたを雇ったのだけれど。","Tomobiki Misao was the head nurse until two months ago. Before you joined us.
+No, I hired you because Tomobiki disappeared.","Tomobiki Misao era enfermera jefe hasta hace dos meses. Antes de que te unieras.
 No, Tomobiki desapareció, así que te ofrecí un trabajo y te contraté."
-"kangofu (talking)";"へえ……";"Hehe ……";"Heh: ……"
-"kangofu (talking)";"そう、若いのに仕事のできる人でね。 医師からも患者からも信頼が厚くて……
-友引さんが居ないだけでも痛手なのに、 彼女と親しかった看護婦四人も 一緒に居なくなってしまったから……";"Yes, he's young, but he's very good at his job. She was trusted by Ishi and patients alike……
-It's a blow just to lose Tomobiki, but now four nurses who were close to her are gone along with her……";"Sí, es joven, pero es bueno en su trabajo. Tenía la confianza de Ishi y de los pacientes……
+"kangofu (talking)","へえ……","Hehe ……","Heh: ……"
+"kangofu (talking)","そう、若いのに仕事のできる人でね。 医師からも患者からも信頼が厚くて……
+友引さんが居ないだけでも痛手なのに、 彼女と親しかった看護婦四人も 一緒に居なくなってしまったから……","Yes, he's young, but he's very good at his job. She was trusted by Ishi and patients alike……
+It's a blow just to lose Tomobiki, but now four nurses who were close to her are gone along with her……","Sí, es joven, pero es bueno en su trabajo. Tenía la confianza de Ishi y de los pacientes……
 Es un golpe sólo perder a Tomobiki, pero ahora cuatro enfermeras que estaban cerca de ella se han ido con ella……"
-"kangofu (talking)";"うわあ、それはひどい…… 無断欠勤とか無断退職ですか？";"Wow, that's terrible…… Are you absent without leave or resigning without notice?";"Vaya, eso es terrible…… ¿Es una ausencia no autorizada o una renuncia no autorizada?"
-"kangofu (talking)";"まさか、友引さんも他の人も 責任感の強い人ばかりだったのよ、 そんな事は絶対にないわ。
-何でも、ヒノデの森の近くで 最後に目撃されていたらしいけど……";"No way, Tomobiki and the others were all very responsible people, that would never happen.
-Whatever, I heard he was last seen near Mori in Hinode ……";"De ninguna manera, Tomobiki y los demás eran personas muy responsables, eso nunca pasaría.
+"kangofu (talking)","うわあ、それはひどい…… 無断欠勤とか無断退職ですか？","Wow, that's terrible…… Are you absent without leave or resigning without notice?","Vaya, eso es terrible…… ¿Es una ausencia no autorizada o una renuncia no autorizada?"
+"kangofu (talking)","まさか、友引さんも他の人も 責任感の強い人ばかりだったのよ、 そんな事は絶対にないわ。
+何でも、ヒノデの森の近くで 最後に目撃されていたらしいけど……","No way, Tomobiki and the others were all very responsible people, that would never happen.
+Whatever, I heard he was last seen near Mori in Hinode ……","De ninguna manera, Tomobiki y los demás eran personas muy responsables, eso nunca pasaría.
 Como sea, fueron vistos por última vez cerca de Mori en Hinode……"
-"kangofu (talking)";"ヒノデの森って、最近はパンダ騒動で 有名なところですよね。";"Hinode's Mori is famous these days for the panda fiasco.";"El Mori de Hinode es famoso estos días por el fiasco del panda."
-"kangofu (talking)";"ええ……
+"kangofu (talking)","ヒノデの森って、最近はパンダ騒動で 有名なところですよね。","Hinode's Mori is famous these days for the panda fiasco.","El Mori de Hinode es famoso estos días por el fiasco del panda."
+"kangofu (talking)","ええ……
 市議会にも捜索願いを出したのだけれど、 今は地域管理組合がガタガタでしょう？ 対応してくれるかどうか……
-本当に、凶悪なパンダに 襲われていない事を祈るばかりよ……";"Yeah ……
+本当に、凶悪なパンダに 襲われていない事を祈るばかりよ……","Yeah ……
 I've filed a missing persons report with the city council, but I know the local management association is rattled right now, right? I'm not sure if they'll respond ……
-I really hope you weren't attacked by a vicious panda: ……";"Sí……
+I really hope you weren't attacked by a vicious panda: ……","Sí……
 He presentado una solicitud de búsqueda al ayuntamiento, pero ahora la asociación de gestión local está nerviosa, ¿no? No sé si responderán ……
 Espero de verdad que no te haya atacado un panda feroz……"
-"kangofu (talking)";"無事だといいですね、 その、友引さん…………";"I hope you are safe, that, Tomobiki …………";"Espero que estés a salvo, eso, Tomobiki …………"
-"kangofu (talking)";"とにかく、今は頑張って。 看護婦の追加雇用も考えているし、 もう少しで楽になるから……";"Anyway, hang in there for now. We're thinking of hiring an additional nurse, and it'll be a lot easier in a little while……";"De todos modos, aguanta por ahora. Estamos pensando en contratar a una enfermera más, y será mucho más fácil dentro de poco……"
-"kangofu (talking)";"はい先輩、頑張りますっ。";"Yes senpai, I will do my best.";"Sí señores, haré lo que pueda."
-"Yopparai (talking)";"……おーい看護婦さぁん。 無視すんなよぉ、酒くれよぉ。 アルコールなら何でもいいからよぉ。";"…… Oh, hey nurse. Don't ignore me. Any alcohol will do.";"…… Oh, enfermera. No me ignores, dame algo de alcohol. Cualquier alcohol servirá."
-"kangofu (talking)";"……るっさいわね！ アル中は水でも飲んどけ！！";"…… LOL!!! Alcoholics need to drink some water!!!!!!!!!!!!!!!!!!!!!!!!!!!";"…… ¡Pésimo! ¡¡Los alcohólicos deberían beber agua!!"
-"kangofu (talking)";"体温、脈拍、血圧、全て正常……… 後遺症も見られない、と。
-はい、半年間の入院、お疲れさまでした。 予定通り今日で退院です。";"Temperature, pulse, blood pressure, all normal ………, with no signs of aftereffects, he said.
-Yes, thank you for your hospitalization for six months. I am discharged from the hospital today as scheduled.";"Temperatura, pulso, presión arterial, todo normal……… No se observaron secuelas, dijo.
+"kangofu (talking)","無事だといいですね、 その、友引さん…………","I hope you are safe, that, Tomobiki …………","Espero que estés a salvo, eso, Tomobiki …………"
+"kangofu (talking)","とにかく、今は頑張って。 看護婦の追加雇用も考えているし、 もう少しで楽になるから……","Anyway, hang in there for now. We're thinking of hiring an additional nurse, and it'll be a lot easier in a little while……","De todos modos, aguanta por ahora. Estamos pensando en contratar a una enfermera más, y será mucho más fácil dentro de poco……"
+"kangofu (talking)","はい先輩、頑張りますっ。","Yes senpai, I will do my best.","Sí señores, haré lo que pueda."
+"Yopparai (talking)","……おーい看護婦さぁん。 無視すんなよぉ、酒くれよぉ。 アルコールなら何でもいいからよぉ。","…… Oh, hey nurse. Don't ignore me. Any alcohol will do.","…… Oh, enfermera. No me ignores, dame algo de alcohol. Cualquier alcohol servirá."
+"kangofu (talking)","……るっさいわね！ アル中は水でも飲んどけ！！","…… LOL!!! Alcoholics need to drink some water!!!!!!!!!!!!!!!!!!!!!!!!!!!","…… ¡Pésimo! ¡¡Los alcohólicos deberían beber agua!!"
+"kangofu (talking)","体温、脈拍、血圧、全て正常……… 後遺症も見られない、と。
+はい、半年間の入院、お疲れさまでした。 予定通り今日で退院です。","Temperature, pulse, blood pressure, all normal ………, with no signs of aftereffects, he said.
+Yes, thank you for your hospitalization for six months. I am discharged from the hospital today as scheduled.","Temperatura, pulso, presión arterial, todo normal……… No se observaron secuelas, dijo.
 Sí, gracias por sus seis meses en el hospital. Hoy me han dado el alta del hospital como estaba previsto."
-"ten'in (talking)";"いやあ、世話になっちまったねえ。 看護婦さん、本当にありがとう。";"Oh no, I've been taken care of Tane e. Thank you so much, nurse.";"Oh no, me han cuidado Tanee. Muchas gracias, enfermera."
-"kangofu (talking)";"気になさらないで下さい、 私たちはこれが仕事なんですから。";"Don't mind us, we're just doing our job.";"No nos hagas caso, nos ganamos la vida con esto."
-"ten'in (talking)";"あ、そうそう……私ね、 友引さんにもお礼をしたいんだよ。 入院初期にお世話になってねえ……";"Oh, yes,…… I also want to thank Tomobiki for her help in the early days of my hospitalization. She took care of me in the early days of my hospitalization……";"Ah, sí,…… También quiero dar las gracias a Tomobiki. Se ocupó de mí en los primeros días de mi hospitalización……"
-"kangofu (talking)";"友引って、婦長の友引ですか？";"Is Tomobiki the Tomobiki of the head lady?";"¿Es Tomobiki el Tomobiki de la directora?"
-"ten'in (talking)";"そうそう、婦長さんの。 最近姿見ないけど……";"Oh, yes, the head lady. I haven't seen her lately, but ……";"Sí, sí, de la directora. No la he visto recientemente……"
-"kangofu (talking)";"ああ……ごめんなさい、おばさん。 友引は二ヶ月ほど前から 行方不明なんです。";"Oh…… sorry, Auntie. Tomobiki has been missing for about two months.";"Oh…… lo siento, tía. Tomobiki lleva desaparecida unos dos meses."
-"ten'in (talking)";"行方不明って…… 友引さんに何かあったのかい？";"Missing?…… Did something happen to Tomobiki?";"¿Desaparecida? ……¿Le ha pasado algo a Tomobiki?"
-"kangofu (talking)";"いえ、何があったのかは誰も……
-最後に、ヒノデの森で目撃された そうなんですが……";"No one knows what happened ……
-Last seen at Mori in Hinode, yes ……";"Nadie sabe lo que pasó ……
+"ten'in (talking)","いやあ、世話になっちまったねえ。 看護婦さん、本当にありがとう。","Oh no, I've been taken care of Tane e. Thank you so much, nurse.","Oh no, me han cuidado Tanee. Muchas gracias, enfermera."
+"kangofu (talking)","気になさらないで下さい、 私たちはこれが仕事なんですから。","Don't mind us, we're just doing our job.","No nos hagas caso, nos ganamos la vida con esto."
+"ten'in (talking)","あ、そうそう……私ね、 友引さんにもお礼をしたいんだよ。 入院初期にお世話になってねえ……","Oh, yes,…… I also want to thank Tomobiki for her help in the early days of my hospitalization. She took care of me in the early days of my hospitalization……","Ah, sí,…… También quiero dar las gracias a Tomobiki. Se ocupó de mí en los primeros días de mi hospitalización……"
+"kangofu (talking)","友引って、婦長の友引ですか？","Is Tomobiki the Tomobiki of the head lady?","¿Es Tomobiki el Tomobiki de la directora?"
+"ten'in (talking)","そうそう、婦長さんの。 最近姿見ないけど……","Oh, yes, the head lady. I haven't seen her lately, but ……","Sí, sí, de la directora. No la he visto recientemente……"
+"kangofu (talking)","ああ……ごめんなさい、おばさん。 友引は二ヶ月ほど前から 行方不明なんです。","Oh…… sorry, Auntie. Tomobiki has been missing for about two months.","Oh…… lo siento, tía. Tomobiki lleva desaparecida unos dos meses."
+"ten'in (talking)","行方不明って…… 友引さんに何かあったのかい？","Missing?…… Did something happen to Tomobiki?","¿Desaparecida? ……¿Le ha pasado algo a Tomobiki?"
+"kangofu (talking)","いえ、何があったのかは誰も……
+最後に、ヒノデの森で目撃された そうなんですが……","No one knows what happened ……
+Last seen at Mori in Hinode, yes ……","Nadie sabe lo que pasó ……
 Visto por última vez en Mori en Hinode, sí ……"
-"ten'in (talking)";"二ヶ月前…… ヒノデ……
-ああ……そういえば。";"Two months ago…… Hinode……
-Oh…… that reminds me.";"Hace dos meses…… Hinode……
+"ten'in (talking)","二ヶ月前…… ヒノデ……
+ああ……そういえば。","Two months ago…… Hinode……
+Oh…… that reminds me.","Hace dos meses…… Hinode……
 Oh…… eso me recuerda."
-"kangofu (talking)";"何かご存じなんですか？";"Do you know anything about it?";"¿Qué sabe usted al respecto?"
-"ten'in (talking)";"いや、ご存じってほどでもないけどね。 友引さんが変な事を呟いてて。
+"kangofu (talking)","何かご存じなんですか？","Do you know anything about it?","¿Qué sabe usted al respecto?"
+"ten'in (talking)","いや、ご存じってほどでもないけどね。 友引さんが変な事を呟いてて。
 ええと、そう、確か…………
  “シャアが来る……！！”
- …………とか何とか。";"No, not so much as you know. Tomobiki was mumbling something strange.
+ …………とか何とか。","No, not so much as you know. Tomobiki was mumbling something strange.
 Uh, yeah, I'm pretty sure it was …………
- “Shaa is coming ……!!!”………… or something.";"No, no tanto como tú sabes. Tomobiki murmuraba algo raro.
+ “Shaa is coming ……!!!”………… or something.","No, no tanto como tú sabes. Tomobiki murmuraba algo raro.
 Uh, sí, estoy bastante seguro de que era …………
  “¡¡¡Shaa viene ……!!!”………… o algo así."
-"kangofu (talking)";"シャア……ですか？";"Shaa ……?";"¿Recibirás un mensaje?"
-"ten'in (talking)";"そう、シャア。";"Yes, Shaa.";"Sí, Shaa."
-"kangofu (talking)";"…………何の事でしょうか？";"………… what are you talking about?";"………… ¿Qué es?"
-"ten'in (talking)";"何の事だろうねえ……";"I wonder what you're talking about……";"Me pregunto de qué está hablando……"
-"narrator";"病院。 それは、命を賭けた戦場。
-今日もまた、運び込まれた誰かの命が、 ここで最期を迎える──";"A hospital. It is a battlefield where lives are at stake.
-Today, too, someone's life brought in here will meet his or her end…";"Hospital. Es un campo de batalla en el que hay vidas en juego.
+"kangofu (talking)","シャア……ですか？","Shaa ……?","¿Recibirás un mensaje?"
+"ten'in (talking)","そう、シャア。","Yes, Shaa.","Sí, Shaa."
+"kangofu (talking)","…………何の事でしょうか？","………… what are you talking about?","………… ¿Qué es?"
+"ten'in (talking)","何の事だろうねえ……","I wonder what you're talking about……","Me pregunto de qué está hablando……"
+"narrator","病院。 それは、命を賭けた戦場。
+今日もまた、運び込まれた誰かの命が、 ここで最期を迎える──","A hospital. It is a battlefield where lives are at stake.
+Today, too, someone's life brought in here will meet his or her end…","Hospital. Es un campo de batalla en el que hay vidas en juego.
 Hoy, también, la vida de alguien es traída aquí para encontrar su fin…"
-"kangofu (talking)";"……大学上がりの素人先生が 動脈切っちゃったって？ んなもん絆創膏貼っときなさいっ！
+"kangofu (talking)","……大学上がりの素人先生が 動脈切っちゃったって？ んなもん絆創膏貼っときなさいっ！
 は？ 栄養点滴に生理食塩水を混ぜすぎた？ 砂糖混ぜときゃバランス取れるわよ！
-っとにもう、十人二十人が死ぬ位で いちいちバタバタしてたら身が保たな……";"……An amateur doctor from college cut an artery? Just put a band-aid on it!
+っとにもう、十人二十人が死ぬ位で いちいちバタバタしてたら身が保たな……","……An amateur doctor from college cut an artery? Just put a band-aid on it!
 What? Did you mix too much saline in the nutritional drip? I'll mix some sugar in there to balance it out!
-And if you're so flustered over ten or twenty people dying, you'll never be able to save yourself……";"…… médico aficionado de la universidad cortó una arteria? ¡Ponle una venda a eso!
+And if you're so flustered over ten or twenty people dying, you'll never be able to save yourself……","…… médico aficionado de la universidad cortó una arteria? ¡Ponle una venda a eso!
  ¿Qué? ¿Mezclaste demasiada solución salina en el goteo nutricional? Mezcla un poco de azúcar, ¡lo equilibrará!
 Y no pueden salvarse si están demasiado ocupados armando un escándalo por la muerte de diez o veinte personas……"
-"narrator";"　　［じりりりりりーん……］";"[Jiri Riri Riri Riri ……]";"[Jiri Riri Riri Riri ……]"
-"kangofu (talking)";"ああもう、 この忙しい時に電話なんて……
- ……はいもしもし、 皆様の健康をお守りする正義の医学、 いつもニコニコ明朗会計の天才病院です。";"Oh my God, I can't believe I'm calling you at this busy time……
- ……Yes, hello, I am a righteous hospital to protect your health, a genius hospital that is always smiling and clear.";"Oh Dios, no puedo creer que te esté llamando en este momento tan ocupado……
+"narrator","　　［じりりりりりーん……］","[Jiri Riri Riri Riri ……]","[Jiri Riri Riri Riri ……]"
+"kangofu (talking)","ああもう、 この忙しい時に電話なんて……
+ ……はいもしもし、 皆様の健康をお守りする正義の医学、 いつもニコニコ明朗会計の天才病院です。","Oh my God, I can't believe I'm calling you at this busy time……
+ ……Yes, hello, I am a righteous hospital to protect your health, a genius hospital that is always smiling and clear.","Oh Dios, no puedo creer que te esté llamando en este momento tan ocupado……
  ……Sí hola, somos el Hospital del Genio de la Medicina de la Justicia, un hospital genial siempre sonriente y claro."
-"narrator";"『……看護婦の友引は居るか』";"『Is there a Tomobiki at…… nurse?』";"『¿Hay un Tomobiki en…… enfermera?』"
-"kangofu (talking)";"友引？　友引操ですか？ あいにく二ヶ月前から……";"Tomobiki?　Tomobiki Misao? Unfortunately, it's been two months since ……";"¿Tomobiki?　Tomobiki Misao? Por desgracia, hace dos meses que ……"
-"narrator";"『……隠すとためにならんぞ……』";"『You can't hide…… for the sake of ……』";"『No se puede ocultar…… por el bien de ……』"
-"kangofu (talking)";"……人の話は最後まで聞きなさい。 友引は二ヶ月前から行方不明なんです。
-って言うか、あんた誰？ まさか友引のカレシ？ それともストーカー？";"……Hear the person out. Tomobiki has been missing for two months.
-I mean, who are you? Are you Tomobiki's boyfriend? Or are you her stalker?";"…… Escuchar a la gente. Tomobiki lleva desaparecida dos meses.
+"narrator","『……看護婦の友引は居るか』","『Is there a Tomobiki at…… nurse?』","『¿Hay un Tomobiki en…… enfermera?』"
+"kangofu (talking)","友引？　友引操ですか？ あいにく二ヶ月前から……","Tomobiki?　Tomobiki Misao? Unfortunately, it's been two months since ……","¿Tomobiki?　Tomobiki Misao? Por desgracia, hace dos meses que ……"
+"narrator","『……隠すとためにならんぞ……』","『You can't hide…… for the sake of ……』","『No se puede ocultar…… por el bien de ……』"
+"kangofu (talking)","……人の話は最後まで聞きなさい。 友引は二ヶ月前から行方不明なんです。
+って言うか、あんた誰？ まさか友引のカレシ？ それともストーカー？","……Hear the person out. Tomobiki has been missing for two months.
+I mean, who are you? Are you Tomobiki's boyfriend? Or are you her stalker?","…… Escuchar a la gente. Tomobiki lleva desaparecida dos meses.
 Quiero decir, ¿quién eres tú? ¿Eres el novio de Tomobiki? ¿O eres su acosador?"
-"narrator";"『失敬な、私はＣＩＡ……』
- 『……違う、新聞の勧誘員だ』";"『Excuse me, I'm a CIA ……』
- 『……, no, I'm a newspaper solicitor.』";"『Lo siento, soy de la CIA ……』
+"narrator","『失敬な、私はＣＩＡ……』
+ 『……違う、新聞の勧誘員だ』","『Excuse me, I'm a CIA ……』
+ 『……, no, I'm a newspaper solicitor.』","『Lo siento, soy de la CIA ……』
  『…… No, soy un abogado de la prensa』."
-"kangofu (talking)";"はぁ？";"Huh?";"¿Eh?"
-"narrator";"『いいから教えろ…… 　友引操はどこに居るんだ』
- 『あの隕石……いや、 　隕石の落下場所をつきとめないと……』";"『Just tell me where…… Tomobiki Misao is.』
- 『That meteorite ……, no, we need to find out where it fell …….』";"『Sólo dime dónde está…… Tomobiki Misao.』
+"kangofu (talking)","はぁ？","Huh?","¿Eh?"
+"narrator","『いいから教えろ…… 　友引操はどこに居るんだ』
+ 『あの隕石……いや、 　隕石の落下場所をつきとめないと……』","『Just tell me where…… Tomobiki Misao is.』
+ 『That meteorite ……, no, we need to find out where it fell …….』","『Sólo dime dónde está…… Tomobiki Misao.』
  『Ese meteorito ……, no, tenemos que averiguar dónde cayó el meteorito ……』"
-"kangofu (talking)";"はああああ？　あんた一体何言って……";"Huh?　What the hell are you talking about ……";"¿Eh?　¿De qué demonios estás hablando? ……"
-"narrator";"　　［……ばきゅーん！！］
+"kangofu (talking)","はああああ？　あんた一体何言って……","Huh?　What the hell are you talking about ……","¿Eh?　¿De qué demonios estás hablando? ……"
+"narrator","　　［……ばきゅーん！！］
  『……はうあっ！　うぎゃーーーー！！！！！』
- 　　［がちゃん、ツーツーツー……］";"[…… Bakyuu!]
+ 　　［がちゃん、ツーツーツー……］","[…… Bakyuu!]
  『…… haaaaah!　Geeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!』
- 　　[Gachan, tstsooooo ……]";"[…… ¡Bakyuu!]
+ 　　[Gachan, tstsooooo ……]","[…… ¡Bakyuu!]
  『¡…… haaaaah!　Geeeeeeeeeeeeeeeeeeeeeeeeeeeeeee ！！！！！』
  　　[Gachan, tut-tut-tsut-tsut ……]"
-"kangofu (talking)";"……あら、切れちゃった。
+"kangofu (talking)","……あら、切れちゃった。
 何だか、 断末魔の悲鳴っぽかったけど……
  ……嫌なもの聞かせないでよ、もう。 今日は朝から子供の悲鳴とか ダース単位で聞きっぱなしなんだから……
-さあ、忙しい忙しい。 次は捻挫患者の足首切断だわ……";"…… Oh, no, it's off.
+さあ、忙しい忙しい。 次は捻挫患者の足首切断だわ……","…… Oh, no, it's off.
 It was kind of like a desperate scream……
  ……Don't make me listen to that crap, already. I've heard a dozen screams from kids this morning……
-Come on, busy, busy. Next thing I know, I'll be amputating the ankle of a sprain patient: ……";"…… Oh, lo he perdido.
+Come on, busy, busy. Next thing I know, I'll be amputating the ankle of a sprain patient: ……","…… Oh, lo he perdido.
 Fue como un grito desesperado……
  ……No me hagas escuchar esas cosas desagradables, ya. Llevo toda la mañana escuchando niños gritando por docenas……
 Vamos, ocupado, ocupado. Lo próximo será amputar el tobillo de un paciente con esguince……"
-"narrator";"──病院。 それは、命を賭けた戦場。
-戦場では、たとえ戦友の頭が自分のすぐ隣で 吹き飛ぼうとも、いちいち気にしては いられないのである──";"A hospital. It is a battlefield where lives are at stake.
-On the battlefield, you don't care if your comrade-in-arms' head blows off right next to yours…";"-Hospital. Es un campo de batalla en el que hay vidas en juego.
+"narrator","──病院。 それは、命を賭けた戦場。
+戦場では、たとえ戦友の頭が自分のすぐ隣で 吹き飛ぼうとも、いちいち気にしては いられないのである──","A hospital. It is a battlefield where lives are at stake.
+On the battlefield, you don't care if your comrade-in-arms' head blows off right next to yours…","-Hospital. Es un campo de batalla en el que hay vidas en juego.
 En el campo de batalla, no te importa que le vuelen la cabeza a tu compañero de armas justo al lado de la tuya…"
-"narrator";"天才病院の多忙な日々は、今日も続いていた──";"The busy day at the genius hospital continued today…";"El ajetreado día en el hospital del genio continuó hoy…"
-"kangofu (talking)";"う、うう……過労で死にそう……
+"narrator","天才病院の多忙な日々は、今日も続いていた──","The busy day at the genius hospital continued today…","El ajetreado día en el hospital del genio continuó hoy…"
+"kangofu (talking)","う、うう……過労で死にそう……
  ……し、死んでたまるもんですか。 来週には看護婦も増えるし、 きっと楽になって普通の病院に戻るわ……
-そうよ、男性患者や新米の医師たちを 勤務時間中につまみ食いできる日まで 絶対死なないんだから……";"Ugh, ugh…… I'm dying from overwork………… and I'm not going to die. We'll have more nurses next week, and I'm sure it'll get easier and we'll go back to a normal hospital……
-Yes, I'm never going to die until the day I can snack on male patients and new Ishis during working hours……";"Ugh, ugh…… Me estoy muriendo de exceso de trabajo………… y no voy a morir. La semana que viene tendremos más enfermeras, y estoy seguro de que será más fácil y volveremos a ser un hospital normal……
+そうよ、男性患者や新米の医師たちを 勤務時間中につまみ食いできる日まで 絶対死なないんだから……","Ugh, ugh…… I'm dying from overwork………… and I'm not going to die. We'll have more nurses next week, and I'm sure it'll get easier and we'll go back to a normal hospital……
+Yes, I'm never going to die until the day I can snack on male patients and new Ishis during working hours……","Ugh, ugh…… Me estoy muriendo de exceso de trabajo………… y no voy a morir. La semana que viene tendremos más enfermeras, y estoy seguro de que será más fácil y volveremos a ser un hospital normal……
 Sí, nunca voy a morir hasta el día en que pueda merendar a los pacientes masculinos y a los nuevos Ishis durante las horas de trabajo……"
-"wakaishufu (talking)";"あ、あの……看護婦さん、 産婦人科はどちらでしょうか……";"Oh, um,…… nurse, which is your OB/GYN: ……";"Oh, um,…… enfermera, que es el obstetra / ginecólogo: ……"
-"kangofu (talking)";"あら、初診の方？ どうかしましたか？";"Oh, is this your first visit? Is something wrong?";"¿Es su primera visita? ¿Pasa algo?"
-"wakaishufu (talking)";"あの……私、 妊娠したみたいで……";"Um,…… I think I'm pregnant……";"Um,…… Creo que estoy embarazada……"
-"kangofu (talking)";"あら！ まあまあ、おめでとうございます。";"Oh my! Well, well, well, congratulations.";"¡Oh, Dios! Bueno, bueno, bueno, felicidades."
-"wakaishufu (talking)";"おめでたくないんです…… 堕ろしたいんです……
+"wakaishufu (talking)","あ、あの……看護婦さん、 産婦人科はどちらでしょうか……","Oh, um,…… nurse, which is your OB/GYN: ……","Oh, um,…… enfermera, que es el obstetra / ginecólogo: ……"
+"kangofu (talking)","あら、初診の方？ どうかしましたか？","Oh, is this your first visit? Is something wrong?","¿Es su primera visita? ¿Pasa algo?"
+"wakaishufu (talking)","あの……私、 妊娠したみたいで……","Um,…… I think I'm pregnant……","Um,…… Creo que estoy embarazada……"
+"kangofu (talking)","あら！ まあまあ、おめでとうございます。","Oh my! Well, well, well, congratulations.","¡Oh, Dios! Bueno, bueno, bueno, felicidades."
+"wakaishufu (talking)","おめでたくないんです…… 堕ろしたいんです……
 だって、父親は夫じゃなくて…… ウィミィの………………
- ……うっ、うううっ…………！";"I don't want to congratulate…… I want to abort ……
-Because the father is not my husband…… but…… Wime's …………………… ugh, ugh …………!";"No quiero felicitar a…… quiero abortar ……
+ ……うっ、うううっ…………！","I don't want to congratulate…… I want to abort ……
+Because the father is not my husband…… but…… Wime's …………………… ugh, ugh …………!","No quiero felicitar a…… quiero abortar ……
 Porque el padre no es mi marido…… Wime's ………………
  ¡…… ugh, ugh …………!"
-"kangofu (talking)";"あらまあ…… 最近本当に多いわねえ、 ウィミィ兵に強姦された人……";"Oh my goodness…… There really have been a lot of people raped by Wime soldiers lately ……";"Oh, Dios mío…… Realmente ha habido un montón de gente violada por los soldados Wime últimamente ……"
-"kangofu (talking)";"……あ、居た居た。 先輩、私、すごいもの見つけちゃったの！";"…… Oh, there he is, there he is. Seniors, I just found something amazing!";"…… Oh, ahí está, ahí está. ¡Seniors, he encontrado algo increíble!"
-"kangofu (talking)";"何よ、勤務時間中よ？ 後にしなさい、後に。";"What, during office hours? Later, later.";"¿Qué, durante las horas de trabajo? Más tarde, más tarde."
-"kangofu (talking)";"えー、興味あると思ったんだけどな。 ほら、失踪した友引操婦長の日記……";"Eh, I thought you might be interested. Here you go, missing Tomobiki Misao Diary of a Mrs. Misao Diary of a Mrs.Misao……";"Eh, pensé que te interesaría. Verás, ella desapareció Tomobiki Misao Diario del Jefe de la Casa……"
-"kangofu (talking)";"………………見せなさい。";"Show ……………….";"Mostrar ………………."
-"kangofu (talking)";"あはっ、さすが先輩！ ……でね、ここのページ見て。";"Haha, that's my senior! Go to…… and look at the page here.";"Jaja, ¡ese es mi mayor! Vaya a…… y mire la página aquí."
-"kangofu (talking)";"何これ……友引さんが担当していた 池田さんの看護メモ？";"What is this ……Tomobiki was in charge of Ikeda's nursing notes?";"¿Qué es esto ……Tomobiki estaba a cargo de las notas de enfermería de Ikeda?"
-"kangofu (talking)";"うん、池田さんって 全身がぶよぶよになる謎の奇病で 隔離病棟に居たでしょ？
-でね、友引さんって、 池田さんが病死しちゃった時に すごいこと聞いたらしいの。";"Yes, Ikeda was in an isolation ward because of a mysterious disease that caused her whole body to become bloated, wasn't she?
-And, Mr. Tomobiki heard something amazing when Mr. Ikeda got sick and died.";"Sí, Ikeda estaba en una sala de aislamiento con una misteriosa enfermedad que la hinchaba, ¿no?
+"kangofu (talking)","あらまあ…… 最近本当に多いわねえ、 ウィミィ兵に強姦された人……","Oh my goodness…… There really have been a lot of people raped by Wime soldiers lately ……","Oh, Dios mío…… Realmente ha habido un montón de gente violada por los soldados Wime últimamente ……"
+"kangofu (talking)","……あ、居た居た。 先輩、私、すごいもの見つけちゃったの！","…… Oh, there he is, there he is. Seniors, I just found something amazing!","…… Oh, ahí está, ahí está. ¡Seniors, he encontrado algo increíble!"
+"kangofu (talking)","何よ、勤務時間中よ？ 後にしなさい、後に。","What, during office hours? Later, later.","¿Qué, durante las horas de trabajo? Más tarde, más tarde."
+"kangofu (talking)","えー、興味あると思ったんだけどな。 ほら、失踪した友引操婦長の日記……","Eh, I thought you might be interested. Here you go, missing Tomobiki Misao Diary of a Mrs. Misao Diary of a Mrs.Misao……","Eh, pensé que te interesaría. Verás, ella desapareció Tomobiki Misao Diario del Jefe de la Casa……"
+"kangofu (talking)","………………見せなさい。","Show ……………….","Mostrar ………………."
+"kangofu (talking)","あはっ、さすが先輩！ ……でね、ここのページ見て。","Haha, that's my senior! Go to…… and look at the page here.","Jaja, ¡ese es mi mayor! Vaya a…… y mire la página aquí."
+"kangofu (talking)","何これ……友引さんが担当していた 池田さんの看護メモ？","What is this ……Tomobiki was in charge of Ikeda's nursing notes?","¿Qué es esto ……Tomobiki estaba a cargo de las notas de enfermería de Ikeda?"
+"kangofu (talking)","うん、池田さんって 全身がぶよぶよになる謎の奇病で 隔離病棟に居たでしょ？
+でね、友引さんって、 池田さんが病死しちゃった時に すごいこと聞いたらしいの。","Yes, Ikeda was in an isolation ward because of a mysterious disease that caused her whole body to become bloated, wasn't she?
+And, Mr. Tomobiki heard something amazing when Mr. Ikeda got sick and died.","Sí, Ikeda estaba en una sala de aislamiento con una misteriosa enfermedad que la hinchaba, ¿no?
 Y Tomobiki escuchó algo sorprendente cuando Ikeda enfermó y murió."
-"kangofu (talking)";"ええと……？ ヒノデの森に隕石が落ちてきて、 池田さんはそれを見て……";"Uh ……? A meteorite fell on Mori in Hinode and Ikeda saw it and ……";"¿Uh ……? Un meteorito cayó sobre Mori en Hinode y Ikeda lo vio y ……"
-"kangofu (talking)";"そう、友引婦長は池田さんに 隕石の事を聞いて、 探しに行ったみたいなの。";"Yes, Mrs. Tomobiki heard about the meteorite from Mr. Ikeda and went looking for it.";"Sí, parece que la señora Tomobiki se enteró del meteorito por el señor Ikeda y fue a buscarlo."
-"kangofu (talking)";"で……あら、そこで日記が 終わっちゃってるのね。";"And…… Oh, so that's where the diary ends.";"Así que…… Oh, así que ahí termina el diario."
-"kangofu (talking)";"もしかしたら、この隕石って すごいお宝だったんじゃない？";"Maybe this meteorite was a great treasure?";"¿Tal vez este meteorito era un gran tesoro?"
-"kangofu (talking)";"確かに……日記の文面を見る限り、 すごい必死で探してるみたいね……
-なあんだ、友引さんって すごく真面目で責任感がある人だって 思ってたのに、宝に目が眩んだんだ。";"It's true that from the…… diary entries, you seem to be very desperate in your search……
-I thought Tomobiki was a very serious and responsible person, but he was blinded by the treasure.";"Es cierto que por las entradas del diario ……, parece que estás realmente desesperado por encontrar ……
+"kangofu (talking)","ええと……？ ヒノデの森に隕石が落ちてきて、 池田さんはそれを見て……","Uh ……? A meteorite fell on Mori in Hinode and Ikeda saw it and ……","¿Uh ……? Un meteorito cayó sobre Mori en Hinode y Ikeda lo vio y ……"
+"kangofu (talking)","そう、友引婦長は池田さんに 隕石の事を聞いて、 探しに行ったみたいなの。","Yes, Mrs. Tomobiki heard about the meteorite from Mr. Ikeda and went looking for it.","Sí, parece que la señora Tomobiki se enteró del meteorito por el señor Ikeda y fue a buscarlo."
+"kangofu (talking)","で……あら、そこで日記が 終わっちゃってるのね。","And…… Oh, so that's where the diary ends.","Así que…… Oh, así que ahí termina el diario."
+"kangofu (talking)","もしかしたら、この隕石って すごいお宝だったんじゃない？","Maybe this meteorite was a great treasure?","¿Tal vez este meteorito era un gran tesoro?"
+"kangofu (talking)","確かに……日記の文面を見る限り、 すごい必死で探してるみたいね……
+なあんだ、友引さんって すごく真面目で責任感がある人だって 思ってたのに、宝に目が眩んだんだ。","It's true that from the…… diary entries, you seem to be very desperate in your search……
+I thought Tomobiki was a very serious and responsible person, but he was blinded by the treasure.","Es cierto que por las entradas del diario ……, parece que estás realmente desesperado por encontrar ……
 Pensaba que Tomobiki era una persona muy seria y responsable, pero le cegó el tesoro."
-"kangofu (talking)";"そうそう、ショックでしょ？ 私結構憧れてたのになー。";"Oh yeah, it's shocking, isn't it? I was quite longing for it, you know.";"Sí, sí, es un shock, ¿no? Lo estaba admirando bastante, ¿no?"
-"wakaishufu (talking)";"あ……あの、私…… 婦人科に行きたいんですけど……";"Oh…… Um, I…… need to go to a gynecologist……";"Oh…… Um, yo…… necesito ir a un ginecólogo……"
-"kangofu (talking)";"……あっ、ごめんなさい。 今、五時間くらい順番待ちなんですけど 構いませんか？";"…… Oh, I'm sorry. I've been on the waiting list for about five hours now.";"…… Oh, lo siento. Llevo unas cinco horas esperando mi turno, ¿te parece bien?"
-"wakaishufu (talking)";"そ、そんなに……？";"So much for ……?";"Tanto es así que ……?"
-"kangofu (talking)";"すぐ家に帰りたいって仰るなら、 今ここで私が五発ほど ボディブロー撃ちますけど。";"If you want to go home right away, I'll give you five body blows right here and now.";"Si quieres irte a casa de inmediato, te daré cinco golpes en el cuerpo aquí y ahora."
-"wakaishufu (talking)";"……………………";"……………………";"……………………"
-"kangofu (talking)";"冗談ですってば。";"I'm just kidding.";"Sólo estoy bromeando."
-"narrator";"悪司は、行方不明の友引操を探すため、 数名の部下を連れて森林公園にやってきていた。";"Akuji had come to the forest park with several of his men to look for the missing Misao Tomobiki.";"Akuji había acudido al parque forestal con varios de sus hombres para buscar a la desaparecida Misao Tomobiki."
-"Yamamoto Akuji (talking)";"しかし、パンダ騒動といい 看護婦の失踪といい、 この森林公園もよく事件起きるよなー。";"However, like the panda riot and the disappearance of the nurse, this Mori forest park often has incidents too.";"Pero como el motín del panda y la desaparición de la enfermera, este parque forestal Mori también suele tener incidentes."
-"Elite Yakuza (talking)";"全くです。";"Not at all.";"Totalmente."
-"Yamamoto Akuji (talking)";"何か祟られてんのかね。 事件を引き寄せるようなモンに。";"Is it haunted in some way? Something that attracts incidents.";"¿Está embrujada de alguna manera? A una cosa que atrae los incidentes."
-"Elite Yakuza (talking)";"祟りだとすると、我々も時折、 抗争や拷問で死んだ者を埋めに来るので 他人の事は言えませんが……";"If it's haunted, I can't speak for others, as we too occasionally come to bury those who have died in conflicts or torture……";"Si es inquietante, no puedo hablar por los demás, ya que nosotros también venimos de vez en cuando a enterrar a los que han muerto en conflictos o torturas……"
-"Yamamoto Akuji (talking)";"…………今度、お祓いでもしとくか。";"………… I'll have an exorcism next time.";"………… Tendré un exorcismo la próxima vez."
-"Elite Yakuza (talking)";"それが賢明かもしれませんね。";"That might be wise.";"Eso podría ser prudente."
-"Yamamoto Akuji (talking)";"ま、今はとりあえず……友引操だっけ、 それと四人の看護婦を探そうぜ。";"Well, for now, let's just look for ……Tomobiki Misao, right, and the four nurses.";"Bueno, por ahora, vamos a buscar a ……Tomobiki Misao, a la derecha, y a las cuatro enfermeras."
-"Elite Yakuza (talking)";"パンダに襲われて死んでいたら、 どう致しましょうか？";"What if he had been attacked by a panda and died?";"¿Qué harías si te atacara un panda y te diera por muerto?"
-"Yamamoto Akuji (talking)";"そんときゃ遺骨か服だけでも 持って帰ろうぜ。 遺族から謝礼をふんだくれるかもしれん。";"Then we can take the remains or at least the clothes back home with us. Maybe we can get a reward from the bereaved families.";"Entonces podremos llevarnos los restos o al menos la ropa a casa. Tal vez podamos obtener una recompensa de las familias afectadas."
-"Elite Yakuza (talking)";"なるほど……さすがは若。";"I see…… is indeed young.";"Ya veo…… Es realmente joven."
-"Yamamoto Akuji (talking)";"さ、とにかく散開だ散開。 全員、草の根分けても 看護婦たちの手がかりを探し出せよー。";"Well, let's just spread out, spread out. Everyone, even if you have to go through the grassroots, find a clue to the nurses.";"Ahora, sólo extiéndanse, extiéndanse. Todo el mundo, aunque tenga que dividir a las bases, debe averiguar qué hacen las enfermeras."
-"Yamamoto Akuji (talking)";"……うーん、何だかんだで 一日中探し回っちまったが……";"…… Hmmm, I've been looking around all day for something to do……";"…… Bueno, qué demonios, te he estado buscando todo el día……"
-"Elite Yakuza (talking)";"駄目です、若…… 森が広すぎて…………
-とにかく、人の通れる林道の付近は 全て探したはずなのですが……";"No, young…… Mori is too wide …………
-Anyway, I thought I searched all the areas near the forest road where people can pass……";"No, el joven…… Mori es demasiado grande …………
+"kangofu (talking)","そうそう、ショックでしょ？ 私結構憧れてたのになー。","Oh yeah, it's shocking, isn't it? I was quite longing for it, you know.","Sí, sí, es un shock, ¿no? Lo estaba admirando bastante, ¿no?"
+"wakaishufu (talking)","あ……あの、私…… 婦人科に行きたいんですけど……","Oh…… Um, I…… need to go to a gynecologist……","Oh…… Um, yo…… necesito ir a un ginecólogo……"
+"kangofu (talking)","……あっ、ごめんなさい。 今、五時間くらい順番待ちなんですけど 構いませんか？","…… Oh, I'm sorry. I've been on the waiting list for about five hours now.","…… Oh, lo siento. Llevo unas cinco horas esperando mi turno, ¿te parece bien?"
+"wakaishufu (talking)","そ、そんなに……？","So much for ……?","Tanto es así que ……?"
+"kangofu (talking)","すぐ家に帰りたいって仰るなら、 今ここで私が五発ほど ボディブロー撃ちますけど。","If you want to go home right away, I'll give you five body blows right here and now.","Si quieres irte a casa de inmediato, te daré cinco golpes en el cuerpo aquí y ahora."
+"wakaishufu (talking)","……………………","……………………","……………………"
+"kangofu (talking)","冗談ですってば。","I'm just kidding.","Sólo estoy bromeando."
+"narrator","悪司は、行方不明の友引操を探すため、 数名の部下を連れて森林公園にやってきていた。","Akuji had come to the forest park with several of his men to look for the missing Misao Tomobiki.","Akuji había acudido al parque forestal con varios de sus hombres para buscar a la desaparecida Misao Tomobiki."
+"Yamamoto Akuji (talking)","しかし、パンダ騒動といい 看護婦の失踪といい、 この森林公園もよく事件起きるよなー。","However, like the panda riot and the disappearance of the nurse, this Mori forest park often has incidents too.","Pero como el motín del panda y la desaparición de la enfermera, este parque forestal Mori también suele tener incidentes."
+"Elite Yakuza (talking)","全くです。","Not at all.","Totalmente."
+"Yamamoto Akuji (talking)","何か祟られてんのかね。 事件を引き寄せるようなモンに。","Is it haunted in some way? Something that attracts incidents.","¿Está embrujada de alguna manera? A una cosa que atrae los incidentes."
+"Elite Yakuza (talking)","祟りだとすると、我々も時折、 抗争や拷問で死んだ者を埋めに来るので 他人の事は言えませんが……","If it's haunted, I can't speak for others, as we too occasionally come to bury those who have died in conflicts or torture……","Si es inquietante, no puedo hablar por los demás, ya que nosotros también venimos de vez en cuando a enterrar a los que han muerto en conflictos o torturas……"
+"Yamamoto Akuji (talking)","…………今度、お祓いでもしとくか。","………… I'll have an exorcism next time.","………… Tendré un exorcismo la próxima vez."
+"Elite Yakuza (talking)","それが賢明かもしれませんね。","That might be wise.","Eso podría ser prudente."
+"Yamamoto Akuji (talking)","ま、今はとりあえず……友引操だっけ、 それと四人の看護婦を探そうぜ。","Well, for now, let's just look for ……Tomobiki Misao, right, and the four nurses.","Bueno, por ahora, vamos a buscar a ……Tomobiki Misao, a la derecha, y a las cuatro enfermeras."
+"Elite Yakuza (talking)","パンダに襲われて死んでいたら、 どう致しましょうか？","What if he had been attacked by a panda and died?","¿Qué harías si te atacara un panda y te diera por muerto?"
+"Yamamoto Akuji (talking)","そんときゃ遺骨か服だけでも 持って帰ろうぜ。 遺族から謝礼をふんだくれるかもしれん。","Then we can take the remains or at least the clothes back home with us. Maybe we can get a reward from the bereaved families.","Entonces podremos llevarnos los restos o al menos la ropa a casa. Tal vez podamos obtener una recompensa de las familias afectadas."
+"Elite Yakuza (talking)","なるほど……さすがは若。","I see…… is indeed young.","Ya veo…… Es realmente joven."
+"Yamamoto Akuji (talking)","さ、とにかく散開だ散開。 全員、草の根分けても 看護婦たちの手がかりを探し出せよー。","Well, let's just spread out, spread out. Everyone, even if you have to go through the grassroots, find a clue to the nurses.","Ahora, sólo extiéndanse, extiéndanse. Todo el mundo, aunque tenga que dividir a las bases, debe averiguar qué hacen las enfermeras."
+"Yamamoto Akuji (talking)","……うーん、何だかんだで 一日中探し回っちまったが……","…… Hmmm, I've been looking around all day for something to do……","…… Bueno, qué demonios, te he estado buscando todo el día……"
+"Elite Yakuza (talking)","駄目です、若…… 森が広すぎて…………
+とにかく、人の通れる林道の付近は 全て探したはずなのですが……","No, young…… Mori is too wide …………
+Anyway, I thought I searched all the areas near the forest road where people can pass……","No, el joven…… Mori es demasiado grande …………
 De todos modos, pensé que había buscado en todas las zonas cercanas a las carreteras forestales por las que podía pasar la gente……"
-"Yamamoto Akuji (talking)";"無駄足だったな。 ……帰ろう。";"That was a wasted trip. Let's go back to …….";"Fue un viaje desperdiciado. Volvamos a ……."
-"narrator";"悪司は、行方不明の友引操を探すため、 数名の部下を連れて森林公園にやってきていた。";"Akuji had come to the forest park with several of his men to look for the missing Misao Tomobiki.";"Akuji había acudido al parque forestal con varios de sus hombres para buscar a la desaparecida Misao Tomobiki."
-"Yamamoto Akuji (talking)";"さて、んじゃあ……友引操と、 他四人の看護婦を探しにかかるぞ。 全員準備はいいかー？";"Okay, let's go find ……Tomobiki Misao and the other four nurses. Is everyone ready?";"Bien, ahora empezaremos a buscar a ……Tomobiki Misao y a las otras cuatro enfermeras. ¿Están todos preparados?"
-"Elite Yakuza (talking)";"はっ。 全員、身支度を終えております。";"Ha. Everyone has finished getting ready.";"Ha. Todos han terminado de prepararse."
-"Yamamoto Akuji (talking)";"隕石だか埋蔵金だかを探しに来て 遭難しちまったって言うから、 とっくに死んでるかもしれねぇが……";"They say he came looking for a meteorite or buried gold and got lost, so he may be long dead……";"Dicen que vinieron en busca de un meteorito o de oro enterrado y se perdieron, así que puede que lleven mucho tiempo muertos……"
-"Elite Yakuza (talking)";"という事は……若、 林道を外れて森の奥へ行った可能性が 高いという事ですね。";"So it is very likely that…… young man went off the forest road and went deep into Mori.";"Así que…… joven, es muy probable que haya dejado el camino del bosque y se haya adentrado en el Mori."
-"Yamamoto Akuji (talking)";"いやー、そりゃどうかな。
-今のは同僚の看護婦連中の噂話だし、 しかも市議会づてで聞いた事なんでな。";"Well, I don't know about that.
-That's just gossip from my fellow nurses, and I heard it through the city council.";"Bueno, no sé nada de eso.
+"Yamamoto Akuji (talking)","無駄足だったな。 ……帰ろう。","That was a wasted trip. Let's go back to …….","Fue un viaje desperdiciado. Volvamos a ……."
+"narrator","悪司は、行方不明の友引操を探すため、 数名の部下を連れて森林公園にやってきていた。","Akuji had come to the forest park with several of his men to look for the missing Misao Tomobiki.","Akuji había acudido al parque forestal con varios de sus hombres para buscar a la desaparecida Misao Tomobiki."
+"Yamamoto Akuji (talking)","さて、んじゃあ……友引操と、 他四人の看護婦を探しにかかるぞ。 全員準備はいいかー？","Okay, let's go find ……Tomobiki Misao and the other four nurses. Is everyone ready?","Bien, ahora empezaremos a buscar a ……Tomobiki Misao y a las otras cuatro enfermeras. ¿Están todos preparados?"
+"Elite Yakuza (talking)","はっ。 全員、身支度を終えております。","Ha. Everyone has finished getting ready.","Ha. Todos han terminado de prepararse."
+"Yamamoto Akuji (talking)","隕石だか埋蔵金だかを探しに来て 遭難しちまったって言うから、 とっくに死んでるかもしれねぇが……","They say he came looking for a meteorite or buried gold and got lost, so he may be long dead……","Dicen que vinieron en busca de un meteorito o de oro enterrado y se perdieron, así que puede que lleven mucho tiempo muertos……"
+"Elite Yakuza (talking)","という事は……若、 林道を外れて森の奥へ行った可能性が 高いという事ですね。","So it is very likely that…… young man went off the forest road and went deep into Mori.","Así que…… joven, es muy probable que haya dejado el camino del bosque y se haya adentrado en el Mori."
+"Yamamoto Akuji (talking)","いやー、そりゃどうかな。
+今のは同僚の看護婦連中の噂話だし、 しかも市議会づてで聞いた事なんでな。","Well, I don't know about that.
+That's just gossip from my fellow nurses, and I heard it through the city council.","Bueno, no sé nada de eso.
 Sólo son cotilleos de mis compañeras enfermeras, y me he enterado por el ayuntamiento."
-"Elite Yakuza (talking)";"どこまで正しいのかは疑問だと……？";"How much of this is correct is questionable, says ……?";"Es cuestionable cuánto de esto es correcto……?"
-"Yamamoto Akuji (talking)";"だがまあ、このクソ広い森林公園を 闇雲に探すよりはマシだな。
-よーし、まずは森の奥まで行くぞ。 全員ちゃんとついてこいよー。";"But, well, it's better than searching in the dark in this big fucking Mori forest park.
-All right, let's go deep into Mori first. Everyone follow me properly!";"Pero, bueno, es mejor que buscar en la oscuridad en este maldito y enorme parque forestal de Mori.
+"Elite Yakuza (talking)","どこまで正しいのかは疑問だと……？","How much of this is correct is questionable, says ……?","Es cuestionable cuánto de esto es correcto……?"
+"Yamamoto Akuji (talking)","だがまあ、このクソ広い森林公園を 闇雲に探すよりはマシだな。
+よーし、まずは森の奥まで行くぞ。 全員ちゃんとついてこいよー。","But, well, it's better than searching in the dark in this big fucking Mori forest park.
+All right, let's go deep into Mori first. Everyone follow me properly!","Pero, bueno, es mejor que buscar en la oscuridad en este maldito y enorme parque forestal de Mori.
 Bien, primero nos adentraremos en el Mori. ¡Que todo el mundo me siga bien!"
-"Yamamoto Akuji (talking)";"結構歩いてきたな。 日も随分傾いちまったようだが……
-よう、今どの辺に居るか判るか？";"I've walked quite a bit. The sun is getting low……
-Hey, do you know where you are?";"Has caminado bastante. Parece que el sol se ha puesto bastante……
+"Yamamoto Akuji (talking)","結構歩いてきたな。 日も随分傾いちまったようだが……
+よう、今どの辺に居るか判るか？","I've walked quite a bit. The sun is getting low……
+Hey, do you know where you are?","Has caminado bastante. Parece que el sol se ha puesto bastante……
 Oye, ¿sabes dónde estás?"
-"Elite Yakuza (talking)";"森林公園でもかなり奥手になります。 地図をご覧になりますか？";"It is very far back in Mori forest park. Would you like to see a map?";"También está muy atrás en el parque forestal de Mori. ¿Ves el mapa?"
-"Yamamoto Akuji (talking)";"おう。
- ……ん？　ここってたしか、 キャンプ場の近くじゃねぇか？";"Oh.…… hmm?　Isn't this place near a campground?";"Oh.…… ¿Hmm?　¿Este lugar no está cerca de un camping?"
-"Elite Yakuza (talking)";"キャンプ場ですか？ こんな山の奥に……？";"Is it a campground? Deep in the mountains like this ……?";"¿Es un camping? ¿En lo profundo de las montañas como este ……?"
-"Yamamoto Akuji (talking)";"ガキの頃、 一発じーさんの山籠もりにつきあって 何度か来た記憶があんだよ。";"When I was a kid, I remember coming here several times to accompany Mr. Ippatsu on his mountain hikes.";"Cuando era niño, recuerdo haber venido aquí varias veces para acompañar al abuelo Ippatsu en sus excursiones por la montaña."
-"Elite Yakuza (talking)";"しかし、地図には何も……";"But nothing on the map ……";"Sin embargo, no hay nada en el mapa: ……"
-"Yamamoto Akuji (talking)";"相当昔のキャンプ場らしくてな、 地図からも削除されてるみてえだぜ。
-シーズン真っ盛りの夏場でも 俺とじーさん以外誰もいなかったしな。";"It seems to be a very old campsite, and it looks like it's been deleted from the map.
-Even in the height of the summer season, there was no one there but me and my wife.";"Parece que es un camping muy antiguo, y parece que ha sido borrado del mapa.
+"Elite Yakuza (talking)","森林公園でもかなり奥手になります。 地図をご覧になりますか？","It is very far back in Mori forest park. Would you like to see a map?","También está muy atrás en el parque forestal de Mori. ¿Ves el mapa?"
+"Yamamoto Akuji (talking)","おう。
+ ……ん？　ここってたしか、 キャンプ場の近くじゃねぇか？","Oh.…… hmm?　Isn't this place near a campground?","Oh.…… ¿Hmm?　¿Este lugar no está cerca de un camping?"
+"Elite Yakuza (talking)","キャンプ場ですか？ こんな山の奥に……？","Is it a campground? Deep in the mountains like this ……?","¿Es un camping? ¿En lo profundo de las montañas como este ……?"
+"Yamamoto Akuji (talking)","ガキの頃、 一発じーさんの山籠もりにつきあって 何度か来た記憶があんだよ。","When I was a kid, I remember coming here several times to accompany Mr. Ippatsu on his mountain hikes.","Cuando era niño, recuerdo haber venido aquí varias veces para acompañar al abuelo Ippatsu en sus excursiones por la montaña."
+"Elite Yakuza (talking)","しかし、地図には何も……","But nothing on the map ……","Sin embargo, no hay nada en el mapa: ……"
+"Yamamoto Akuji (talking)","相当昔のキャンプ場らしくてな、 地図からも削除されてるみてえだぜ。
+シーズン真っ盛りの夏場でも 俺とじーさん以外誰もいなかったしな。","It seems to be a very old campsite, and it looks like it's been deleted from the map.
+Even in the height of the summer season, there was no one there but me and my wife.","Parece que es un camping muy antiguo, y parece que ha sido borrado del mapa.
 Incluso en plena temporada de verano, no había nadie más que el viejo y yo."
-"Elite Yakuza (talking)";"ははあ……場所的にやはり 便が悪すぎたという事でしょうか？";"Hahaha…… does that mean that the stools were still too bad for the location?";"Jaja…… ¿Significa eso que las heces eran todavía muy malas en términos de ubicación?"
-"Yamamoto Akuji (talking)";"でも、結構いいとこだったんだぜ。 薪もいっぱいあったし、川の水も綺麗で、 テント張りにいい平地もあって……
+"Elite Yakuza (talking)","ははあ……場所的にやはり 便が悪すぎたという事でしょうか？","Hahaha…… does that mean that the stools were still too bad for the location?","Jaja…… ¿Significa eso que las heces eran todavía muy malas en términos de ubicación?"
+"Yamamoto Akuji (talking)","でも、結構いいとこだったんだぜ。 薪もいっぱいあったし、川の水も綺麗で、 テント張りにいい平地もあって……
  ………………
- ……看護婦が使ってると思うか？ そのキャンプ場。";"But it was a pretty nice place. There was plenty of firewood, clean river water, and a nice flat area for pitching tents……
- …………………… think the nurses use it? That campground.";"Pero era un lugar bastante agradable. Había mucha leña, agua limpia del río y un buen terreno llano para montar las tiendas……
+ ……看護婦が使ってると思うか？ そのキャンプ場。","But it was a pretty nice place. There was plenty of firewood, clean river water, and a nice flat area for pitching tents……
+ …………………… think the nurses use it? That campground.","Pero era un lugar bastante agradable. Había mucha leña, agua limpia del río y un buen terreno llano para montar las tiendas……
  …………………… ¿Crees que las enfermeras lo usan? Ese camping."
-"Elite Yakuza (talking)";"調べてみる価値はあるかと。";"I thought it would be worth looking into.";"Pensé que valdría la pena investigarlo."
-"Yamamoto Akuji (talking)";"よーし、んじゃ行ってみっか。";"All right, let's go then.";"Muy bien, vamos entonces."
-"narrator";"そうして、キャンプ場へ続く獣道を 歩き始めると──";"And so, as I walked down the animal trail leading to the campsite, Hajime…";"Y así, mientras caminaba por el sendero de animales que lleva al campamento, Hajime…"
-"kangofu (talking)";"あっ…………！";"Oh, …………!";"¡Oh, …………!"
-"Yamamoto Akuji (talking)";"……おっ、勘が当たってたか？ 看護婦一人はっけーん。
-おーい、無事かー？ 地域管理組合のモンだが、 助けに来たぞー。";"…… Whoa, was my hunch right? One of the nurses is all right.
-Hey, are you okay? I'm from the local management association, and I'm here to help.";"…… Vaya, ¿tenía razón mi corazonada? Una enfermera está en la casa.
+"Elite Yakuza (talking)","調べてみる価値はあるかと。","I thought it would be worth looking into.","Pensé que valdría la pena investigarlo."
+"Yamamoto Akuji (talking)","よーし、んじゃ行ってみっか。","All right, let's go then.","Muy bien, vamos entonces."
+"narrator","そうして、キャンプ場へ続く獣道を 歩き始めると──","And so, as I walked down the animal trail leading to the campsite, Hajime…","Y así, mientras caminaba por el sendero de animales que lleva al campamento, Hajime…"
+"kangofu (talking)","あっ…………！","Oh, …………!","¡Oh, …………!"
+"Yamamoto Akuji (talking)","……おっ、勘が当たってたか？ 看護婦一人はっけーん。
+おーい、無事かー？ 地域管理組合のモンだが、 助けに来たぞー。","…… Whoa, was my hunch right? One of the nurses is all right.
+Hey, are you okay? I'm from the local management association, and I'm here to help.","…… Vaya, ¿tenía razón mi corazonada? Una enfermera está en la casa.
 Oye, ¿estás bien? Soy de la asociación de gestión local y estoy aquí para ayudar."
-"kangofu (talking)";"いっ、いけないっ……！";"No, no, no! ……!";"¡No, no, no! ¡……!"
-"Yamamoto Akuji (talking)";"……何で逃げんだよ、こらっ！";"…… Why are you running away, damn it!";"…… ¡Por qué huyes, vamos!"
-"narrator";"悪司は咄嗟に石を拾い上げて看護婦に投げつけた。
- 　　［すかーーーーーん！］";"Akuji quickly picked up the stone and threw it at the nurse.
- 　　[Sukaaaaahhh!]";"Akuji cogió rápidamente una piedra y se la lanzó a la enfermera.
+"kangofu (talking)","いっ、いけないっ……！","No, no, no! ……!","¡No, no, no! ¡……!"
+"Yamamoto Akuji (talking)","……何で逃げんだよ、こらっ！","…… Why are you running away, damn it!","…… ¡Por qué huyes, vamos!"
+"narrator","悪司は咄嗟に石を拾い上げて看護婦に投げつけた。
+ 　　［すかーーーーーん！］","Akuji quickly picked up the stone and threw it at the nurse.
+ 　　[Sukaaaaahhh!]","Akuji cogió rápidamente una piedra y se la lanzó a la enfermera.
  　　[¡Sukaaaaahhh!]"
-"kangofu (talking)";"いっ……いったーいっ……！ くううううううっ………………";"I…… went I……! Kuuuuuuuuuuuuuu………………";"¡I…… fue I……!"
-"narrator";"石は看護婦の後頭部に直撃し、 あまりの痛さに彼女は頭を抱えてうずくまった。";"The stone struck the nurse in the back of the head, causing her to wince and clutch her head in pain.";"La piedra golpeó a la enfermera en la parte posterior de la cabeza, haciéndole dar un respingo y agarrarse la cabeza de tanto dolor."
-"Yamamoto Akuji (talking)";"……悪い。 血は出てないから安心しろ。
-ま、そりゃともかく、 おめー何で逃げたんだよ。 こっちは助けに来たんだぜ？";"…… bad. Don't worry, I didn't bleed.
-Anyway, why did you run away? We're here to help you.";"…… mal. No te preocupes, no hay sangre.
+"kangofu (talking)","いっ……いったーいっ……！ くううううううっ………………","I…… went I……! Kuuuuuuuuuuuuuu………………","¡I…… fue I……!"
+"narrator","石は看護婦の後頭部に直撃し、 あまりの痛さに彼女は頭を抱えてうずくまった。","The stone struck the nurse in the back of the head, causing her to wince and clutch her head in pain.","La piedra golpeó a la enfermera en la parte posterior de la cabeza, haciéndole dar un respingo y agarrarse la cabeza de tanto dolor."
+"Yamamoto Akuji (talking)","……悪い。 血は出てないから安心しろ。
+ま、そりゃともかく、 おめー何で逃げたんだよ。 こっちは助けに来たんだぜ？","…… bad. Don't worry, I didn't bleed.
+Anyway, why did you run away? We're here to help you.","…… mal. No te preocupes, no hay sangre.
 Bueno, de todos modos, ¿por qué te escapaste? Estamos aquí para ayudarte, ¿recuerdas?"
-"kangofu (talking)";"…………………………";"…………………………";"…………………………"
-"Yamamoto Akuji (talking)";"他に看護婦はいないのか？ 友引操を含めてあと四人は居るはずだろ。";"Are there any other nurses? There must be four more, including Tomobiki Misao.";"¿Hay más enfermeras? Debe haber cuatro más, incluyendo Tomobiki Misao."
-"kangofu (talking)";"…………………………";"…………………………";"…………………………"
-"Yamamoto Akuji (talking)";"……いらいらいら。
-おうこらねーちゃん！！ 俺ぁだんまりが嫌いなんだよボケっ！！ 裸にひんむいて拷問しちまうぞオラ！！";"…… Irritating.
-Hey, hey, hey, hey! I don't like your silence! I'm gonna strip you naked and torture you!";"…… Irritante.
+"kangofu (talking)","…………………………","…………………………","…………………………"
+"Yamamoto Akuji (talking)","他に看護婦はいないのか？ 友引操を含めてあと四人は居るはずだろ。","Are there any other nurses? There must be four more, including Tomobiki Misao.","¿Hay más enfermeras? Debe haber cuatro más, incluyendo Tomobiki Misao."
+"kangofu (talking)","…………………………","…………………………","…………………………"
+"Yamamoto Akuji (talking)","……いらいらいら。
+おうこらねーちゃん！！ 俺ぁだんまりが嫌いなんだよボケっ！！ 裸にひんむいて拷問しちまうぞオラ！！","…… Irritating.
+Hey, hey, hey, hey! I don't like your silence! I'm gonna strip you naked and torture you!","…… Irritante.
  ¡Oye, oye, oye, oye! ¡No me gusta tu silencio! ¡Te desnudaré y te torturaré!"
-"kangofu (talking)";"ひっ、ひいいいっ……！ い、言います、言います……
-と、友引さんも、私の仲間も、 みんな、この奥にあるキャンプ場に……";"Hi, hi, hi……! Yes, I say, I say ……
-and Tomobiki and all my buddies are at the campsite in the back here ……";"¡Hi-hii-hii-hii-i……! Sí, digo, digo ……
+"kangofu (talking)","ひっ、ひいいいっ……！ い、言います、言います……
+と、友引さんも、私の仲間も、 みんな、この奥にあるキャンプ場に……","Hi, hi, hi……! Yes, I say, I say ……
+and Tomobiki and all my buddies are at the campsite in the back here ……","¡Hi-hii-hii-hii-i……! Sí, digo, digo ……
 y Tomobiki y todos mis amigos están en el campamento al fondo de este ……"
-"Yamamoto Akuji (talking)";"はー、やっぱりな。";"Ha, I knew it.";"Ja, lo sabía."
-"kangofu (talking)";"お、お願いです、見逃して下さい！ 世界のためなんです！！";"Oh, please, please, let it go! It's for the world!";"¡Oh, por favor, déjame ir! ¡Es por el bien del mundo!"
-"Yamamoto Akuji (talking)";"……？　何言ってんだこいつ……";"……?　What's he talking about? ……";"……?　¿De qué está hablando? ……"
-"Elite Yakuza (talking)";"若、まずは一人発見できたことですし、 ここは一旦退きませんか。";"Young, now that we have found one person, why don't we retire for the moment?";"Joven, en primer lugar, ahora que hemos encontrado uno, ¿por qué no nos retiramos?"
-"Yamamoto Akuji (talking)";"そうだな、森の中で日が暮れたら 俺たちが遭難しちまうからな。
-よーし、一旦戻って態勢整えるぞ。 その看護婦は絶対逃がすなよー。";"Yeah, because we'd be lost if we lost daylight in Mori.
-All right, let's go back and get ready. Don't let that nurse get away!";"Claro, porque si el sol se pone en Mori, estaremos perdidos.
+"Yamamoto Akuji (talking)","はー、やっぱりな。","Ha, I knew it.","Ja, lo sabía."
+"kangofu (talking)","お、お願いです、見逃して下さい！ 世界のためなんです！！","Oh, please, please, let it go! It's for the world!","¡Oh, por favor, déjame ir! ¡Es por el bien del mundo!"
+"Yamamoto Akuji (talking)","……？　何言ってんだこいつ……","……?　What's he talking about? ……","……?　¿De qué está hablando? ……"
+"Elite Yakuza (talking)","若、まずは一人発見できたことですし、 ここは一旦退きませんか。","Young, now that we have found one person, why don't we retire for the moment?","Joven, en primer lugar, ahora que hemos encontrado uno, ¿por qué no nos retiramos?"
+"Yamamoto Akuji (talking)","そうだな、森の中で日が暮れたら 俺たちが遭難しちまうからな。
+よーし、一旦戻って態勢整えるぞ。 その看護婦は絶対逃がすなよー。","Yeah, because we'd be lost if we lost daylight in Mori.
+All right, let's go back and get ready. Don't let that nurse get away!","Claro, porque si el sol se pone en Mori, estaremos perdidos.
 Muy bien, volvamos a reunirnos. ¡No dejes que esa enfermera se escape!"
-"narrator";"悪司は数名の部下を引き連れて、 再び森林公園を訪れていた。
-その目的は言うまでもなく、 山奥にあるキャンプ場の捜索と、 友引操ほか看護婦たち全員の身柄確保である。";"Akuji, accompanied by several of his men, had once again visited Mori Forest Park.
-Needless to say, their purpose was to search the campsite deep in the mountains and to take Tomobiki Misao and all the other nurses into custody.";"Akuji, acompañado de varios de sus hombres, había visitado de nuevo el parque forestal de Mori.
+"narrator","悪司は数名の部下を引き連れて、 再び森林公園を訪れていた。
+その目的は言うまでもなく、 山奥にあるキャンプ場の捜索と、 友引操ほか看護婦たち全員の身柄確保である。","Akuji, accompanied by several of his men, had once again visited Mori Forest Park.
+Needless to say, their purpose was to search the campsite deep in the mountains and to take Tomobiki Misao and all the other nurses into custody.","Akuji, acompañado de varios de sus hombres, había visitado de nuevo el parque forestal de Mori.
 El propósito, no hace falta decirlo, era registrar el campamento en las profundidades de las montañas y tomar Tomobiki Misao y todas las demás enfermeras en custodia."
-"Yamamoto Akuji (talking)";"よっしゃ、あとはこの坂道を上がれば 山奥のキャンプ場に着くはずだが……
-おう、今何時だ？";"Okay, now all we have to do is go up this hill and we should be at the campground deep in the mountains……
-Hey, what time is it?";"Muy bien, todo lo que tenemos que hacer es subir esta colina y deberíamos llegar a un campamento en lo profundo de las montañas……
+"Yamamoto Akuji (talking)","よっしゃ、あとはこの坂道を上がれば 山奥のキャンプ場に着くはずだが……
+おう、今何時だ？","Okay, now all we have to do is go up this hill and we should be at the campground deep in the mountains……
+Hey, what time is it?","Muy bien, todo lo que tenemos que hacer es subir esta colina y deberíamos llegar a un campamento en lo profundo de las montañas……
  ¿Qué hora es?"
-"Elite Yakuza (talking)";"はっ、午前十一時です。 予定通り昼前に到着しました。";"Ha, it is 11:00 a.m. We arrived before noon as scheduled.";"Ja, son las 11 de la mañana. Llegamos antes del mediodía como estaba previsto."
-"Yamamoto Akuji (talking)";"よーし、これで看護婦どもを捕まえても 日が沈む前に街へ帰れるな。";"Okay, now I can catch the nurses and be back in town before the sun goes down.";"Muy bien, ahora podemos coger las enfermeras y volver a la ciudad antes de que se ponga el sol."
-"Elite Yakuza (talking)";"夜明けとともに 出発したのが幸いでした。";"It was fortunate that we set off at dawn.";"Fue una suerte que saliéramos al amanecer."
-"Yamamoto Akuji (talking)";"山や森はどんなに小さくても 甘く見たらダメだからなー。 遭難したら本気で死んじまうし……";"You can't underestimate mountains and Mori, no matter how small they are. If you get lost, you'll seriously die……";"No se pueden subestimar las montañas y los Mori, por pequeños que sean. Si te pierdes, morirás en serio……"
-"Elite Yakuza (talking)";"……若、何か苦い思い出でも？";"…… young man, any bitter memories?";"…… joven, ¿algún recuerdo amargo?"
-"Yamamoto Akuji (talking)";"おう、出征中に部隊とはぐれてよ、 ジャングルん中でヒデー目に…………
+"Elite Yakuza (talking)","はっ、午前十一時です。 予定通り昼前に到着しました。","Ha, it is 11:00 a.m. We arrived before noon as scheduled.","Ja, son las 11 de la mañana. Llegamos antes del mediodía como estaba previsto."
+"Yamamoto Akuji (talking)","よーし、これで看護婦どもを捕まえても 日が沈む前に街へ帰れるな。","Okay, now I can catch the nurses and be back in town before the sun goes down.","Muy bien, ahora podemos coger las enfermeras y volver a la ciudad antes de que se ponga el sol."
+"Elite Yakuza (talking)","夜明けとともに 出発したのが幸いでした。","It was fortunate that we set off at dawn.","Fue una suerte que saliéramos al amanecer."
+"Yamamoto Akuji (talking)","山や森はどんなに小さくても 甘く見たらダメだからなー。 遭難したら本気で死んじまうし……","You can't underestimate mountains and Mori, no matter how small they are. If you get lost, you'll seriously die……","No se pueden subestimar las montañas y los Mori, por pequeños que sean. Si te pierdes, morirás en serio……"
+"Elite Yakuza (talking)","……若、何か苦い思い出でも？","…… young man, any bitter memories?","…… joven, ¿algún recuerdo amargo?"
+"Yamamoto Akuji (talking)","おう、出征中に部隊とはぐれてよ、 ジャングルん中でヒデー目に…………
  ……………………？
-おい、坂の上から漂うこの匂い……";"Oh, I got separated from my unit on a tour of duty, and I was in the jungle and had a bad …………
+おい、坂の上から漂うこの匂い……","Oh, I got separated from my unit on a tour of duty, and I was in the jungle and had a bad …………
  ……………………?
-Hey, that smell wafting over the hill……";"Oh, me separé de mi unidad en una gira de servicio, en la selva, en medio de la nada…………
+Hey, that smell wafting over the hill……","Oh, me separé de mi unidad en una gira de servicio, en la selva, en medio de la nada…………
  ……………………?
 Oye, ese olor que viene de la colina ……"
-"Elite Yakuza (talking)";"カレーの匂い……でしょうか？";"Is it the smell of curry ……?";"¿Es el olor del curry ……?"
-"Yamamoto Akuji (talking)";"やっぱキャンプっつったらカレーだな。 腹減ったなあ…………";"Curry is the best food when you are camping. I'm starving…………";"Sabía que acampar significaba curry. Me muero de hambre…………"
-"Elite Yakuza (talking)";"若、そういう事では……";"Young, that's not what I meant: ……";"Joven, no me refiero a eso……"
-"Yamamoto Akuji (talking)";"わあってるよ。 誰か居るのは間違いなさそうだな。
-おいてめーら、散開しろ。 キャンプ場の四方を取り囲め。";"I'm sure there's someone there. Someone's definitely here.
-Hey, you guys, spread out. I want you to surround the campsite on all sides.";"Estoy seguro de que hay alguien allí. Estoy seguro de que hay alguien aquí.
+"Elite Yakuza (talking)","カレーの匂い……でしょうか？","Is it the smell of curry ……?","¿Es el olor del curry ……?"
+"Yamamoto Akuji (talking)","やっぱキャンプっつったらカレーだな。 腹減ったなあ…………","Curry is the best food when you are camping. I'm starving…………","Sabía que acampar significaba curry. Me muero de hambre…………"
+"Elite Yakuza (talking)","若、そういう事では……","Young, that's not what I meant: ……","Joven, no me refiero a eso……"
+"Yamamoto Akuji (talking)","わあってるよ。 誰か居るのは間違いなさそうだな。
+おいてめーら、散開しろ。 キャンプ場の四方を取り囲め。","I'm sure there's someone there. Someone's definitely here.
+Hey, you guys, spread out. I want you to surround the campsite on all sides.","Estoy seguro de que hay alguien allí. Estoy seguro de que hay alguien aquí.
 Oigan, chicos, sepárense. Rodea el campamento por todos los lados."
-"Elite Yakuza (talking)";"はっ。";"Ha.";"Ha."
-"kangofu (talking)";"……操、カレー出来たよ。 さ、食べよう？";"……Misao, the curry is ready. Shall we eat?";"……Misao, el curry está listo. ¿Comemos?"
-"Tomobiki Misao (talking)";"………………";"………………";"………………"
-"kangofu (talking)";"操？　……ちょっと、聞いてる？";"Misao?…… Hey, are you listening?";"¿ Misao?…… Oye, ¿me estás escuchando?"
-"Tomobiki Misao (talking)";"あ……うん、聞いてる……";"Oh…… yeah, I hear you ……";"Oh…… sí, estoy escuchando ……"
-"kangofu (talking)";"何よ、またシャアの事でも考えてたの？";"What, were you thinking about Shaa again?";"¿Qué, estabas pensando en Shaa otra vez?"
-"Tomobiki Misao (talking)";"ううん……そうじゃない。 絹代の事……
-街へ買い出しに行ったまま、 もう何日も経って…… 何かあったんじゃないかって……";"Nah, it's not…… that. It's about Kinuyo……
-I've been in town shopping for days now, and I was wondering if something…… had happened to her……";"No,…… no es eso. Se trata de Kinuyo……
+"Elite Yakuza (talking)","はっ。","Ha.","Ha."
+"kangofu (talking)","……操、カレー出来たよ。 さ、食べよう？","……Misao, the curry is ready. Shall we eat?","……Misao, el curry está listo. ¿Comemos?"
+"Tomobiki Misao (talking)","………………","………………","………………"
+"kangofu (talking)","操？　……ちょっと、聞いてる？","Misao?…… Hey, are you listening?","¿ Misao?…… Oye, ¿me estás escuchando?"
+"Tomobiki Misao (talking)","あ……うん、聞いてる……","Oh…… yeah, I hear you ……","Oh…… sí, estoy escuchando ……"
+"kangofu (talking)","何よ、またシャアの事でも考えてたの？","What, were you thinking about Shaa again?","¿Qué, estabas pensando en Shaa otra vez?"
+"Tomobiki Misao (talking)","ううん……そうじゃない。 絹代の事……
+街へ買い出しに行ったまま、 もう何日も経って…… 何かあったんじゃないかって……","Nah, it's not…… that. It's about Kinuyo……
+I've been in town shopping for days now, and I was wondering if something…… had happened to her……","No,…… no es eso. Se trata de Kinuyo……
 Fui a la ciudad a comprar algunas cosas y ya han pasado días y todavía estoy…… preguntándome si le habrá pasado algo……"
-"kangofu (talking)";"大丈夫よ、 ＣＩＡもＫＧＢも七三一部隊も、 絹代や私たちはノーマークだから。";"Don't worry, the CIA, KGB, and the 73rd Division have no mark on Kinuyo or us.";"No te preocupes, la CIA, la KGB, la División 73, Kinuyo y nosotros no somos marcas."
-"Tomobiki Misao (talking)";"そうだと……いいんだけど…………";"If so, it's…… good…………";"Si es así, es…… bueno…………"
-"kangofu (talking)";"もし仮に捕まったとしても、 シャアの事は絶対喋ったりしない。
- ……私たち、そう約束したでしょ？";"Even if we were caught, we would never talk about Shaa.
- ……We promised that, didn't we?";"Si nos atraparan, nunca hablaríamos de Shaa.…… Te lo prometimos, ¿no?"
-"Tomobiki Misao (talking)";"……………… ごめんなさい、みんなを巻き込んで……";"……………… Sorry to get you all involved: ……";"……………… Lo siento, lo siento, sólo estoy tratando de conseguir que todos a bordo……"
-"kangofu (talking)";"それは言わないの。 みんな、操のためにって覚悟して 集まったんだから。";"I won't say that. Everyone gathered here for Misao's sake.";"No diré eso. Todos nos reunimos aquí para Misao, porque estábamos preparados para ello."
-"Tomobiki Misao (talking)";"…………ごめんね…… 本当にありがとう……";"………… sorry…… thank you so much ……";"………… lo siento…… muchas gracias ……"
-"Yamamoto Akuji (talking)";"……ほー、面白そうな話だな。 俺にも詳しく聞かせてくれねぇか？";"……Ho, that sounds like a surface Haku story. Can you elaborate on that for me?";"…… Ho, cara Haku eso parece una buena historia. ¿También puedes contarme más sobre eso?"
-"kangofu (talking)";"…………！？　だ、誰っ！？";"…………!　Who is that?";"¡…………!　¿Quién es ese?"
-"Yamamoto Akuji (talking)";"地域管理組合のモンだ。 友引操ほか看護婦全員揃ってんな？ 助けに来たぞー。";"It's the local management association. Tomobiki Misao and all the other nurses are here? I'm here to help!";"Asociación de gestión comunitaria mon. ¿Tomobiki Misao y todas las demás enfermeras están aquí? Estamos aquí para ayudar."
-"kangofu (talking)";"助けに来たなんて…… 白々しい嘘を！";"What a…… Haku lie that I'm here to help!";"No estás aquí para ayudar a…… …… Haku mentiras de mierda!"
-"Yamamoto Akuji (talking)";"いや、別に嘘じゃねぇんだが。";"No, I'm not lying.";"No, no estoy mintiendo."
-"Tomobiki Misao (talking)";"地域管理組合…… まさか、ニホン政府が市議会から…… いえ、もしかしてウィミィが……！！
-みっ、みんな逃げて！ 一人でもいい、逃げ延びてっ！！";"Community Management Association…… Don't tell me that the nihon govt. has been taken away from the city council…… No, maybe Wime has ……!
-Run away, everyone! Even one of you, run away!";"Asociación de gestión local…… No me digas que el gobierno de NIHON ha sido sacado del ayuntamiento…… ¡No, tal vez Wime tiene ……!
+"kangofu (talking)","大丈夫よ、 ＣＩＡもＫＧＢも七三一部隊も、 絹代や私たちはノーマークだから。","Don't worry, the CIA, KGB, and the 73rd Division have no mark on Kinuyo or us.","No te preocupes, la CIA, la KGB, la División 73, Kinuyo y nosotros no somos marcas."
+"Tomobiki Misao (talking)","そうだと……いいんだけど…………","If so, it's…… good…………","Si es así, es…… bueno…………"
+"kangofu (talking)","もし仮に捕まったとしても、 シャアの事は絶対喋ったりしない。
+ ……私たち、そう約束したでしょ？","Even if we were caught, we would never talk about Shaa.
+ ……We promised that, didn't we?","Si nos atraparan, nunca hablaríamos de Shaa.…… Te lo prometimos, ¿no?"
+"Tomobiki Misao (talking)","……………… ごめんなさい、みんなを巻き込んで……","……………… Sorry to get you all involved: ……","……………… Lo siento, lo siento, sólo estoy tratando de conseguir que todos a bordo……"
+"kangofu (talking)","それは言わないの。 みんな、操のためにって覚悟して 集まったんだから。","I won't say that. Everyone gathered here for Misao's sake.","No diré eso. Todos nos reunimos aquí para Misao, porque estábamos preparados para ello."
+"Tomobiki Misao (talking)","…………ごめんね…… 本当にありがとう……","………… sorry…… thank you so much ……","………… lo siento…… muchas gracias ……"
+"Yamamoto Akuji (talking)","……ほー、面白そうな話だな。 俺にも詳しく聞かせてくれねぇか？","……Ho, that sounds like a surface Haku story. Can you elaborate on that for me?","…… Ho, cara Haku eso parece una buena historia. ¿También puedes contarme más sobre eso?"
+"kangofu (talking)","…………！？　だ、誰っ！？","…………!　Who is that?","¡…………!　¿Quién es ese?"
+"Yamamoto Akuji (talking)","地域管理組合のモンだ。 友引操ほか看護婦全員揃ってんな？ 助けに来たぞー。","It's the local management association. Tomobiki Misao and all the other nurses are here? I'm here to help!","Asociación de gestión comunitaria mon. ¿Tomobiki Misao y todas las demás enfermeras están aquí? Estamos aquí para ayudar."
+"kangofu (talking)","助けに来たなんて…… 白々しい嘘を！","What a…… Haku lie that I'm here to help!","No estás aquí para ayudar a…… …… Haku mentiras de mierda!"
+"Yamamoto Akuji (talking)","いや、別に嘘じゃねぇんだが。","No, I'm not lying.","No, no estoy mintiendo."
+"Tomobiki Misao (talking)","地域管理組合…… まさか、ニホン政府が市議会から…… いえ、もしかしてウィミィが……！！
+みっ、みんな逃げて！ 一人でもいい、逃げ延びてっ！！","Community Management Association…… Don't tell me that the nihon govt. has been taken away from the city council…… No, maybe Wime has ……!
+Run away, everyone! Even one of you, run away!","Asociación de gestión local…… No me digas que el gobierno de NIHON ha sido sacado del ayuntamiento…… ¡No, tal vez Wime tiene ……!
  ¡Mihi, todos huyan! Incluso una persona, ¡huye!"
-"Yamamoto Akuji (talking)";"あ、おいおい……こら、逃げんなっ！！
+"Yamamoto Akuji (talking)","あ、おいおい……こら、逃げんなっ！！
 ちっ…… こいつら何か隠してやがんな……
-おおいてめーら、一人残らず捕まえろ！ 絶対逃がすんじゃねぇぞ！！";"Oh, hey, hey, hey,…… Hey, don't run away!
+おおいてめーら、一人残らず捕まえろ！ 絶対逃がすんじゃねぇぞ！！","Oh, hey, hey, hey,…… Hey, don't run away!
 Damn…… these guys are hiding something ……
-Hey you guys, catch every last one of them! Don't let them get away!";"Oh, hey, hey…… ¡Hey, no huyas!
+Hey you guys, catch every last one of them! Don't let them get away!","Oh, hey, hey…… ¡Hey, no huyas!
 Mierda…… Estos tipos están ocultando algo……
  ¡Eh, chicos, coged hasta el último de ellos! ¡No dejes que se escapen!"
-"narrator";"──そして、数十分後。";"And then, a few dozen minutes later.";"─ ─ Y unos minutos después."
-"Elite Yakuza (talking)";"……若、友引操と看護婦、 計四人全員を捕まえました。";"……Waka,Tomobiki Misao and a nurse, all four in total, were captured.";"……Waka,Tomobiki Misao y una enfermera, los cuatro en total."
-"Yamamoto Akuji (talking)";"おー、そっか。ごちそうさま。 ……あ、いや、ごくろうさん。";"Oh, I see. Thanks for the food…… Oh, no, thank you very much.";"Oh, ya veo. Gracias por la comida…… Oh, no, muchas gracias."
-"Elite Yakuza (talking)";"……………… 若、カレーを食べていたのですね……";"……………… Young, you were eating curry: ……";"……………… Young, estabas comiendo curry……"
-"Yamamoto Akuji (talking)";"すまん、腹減ってたんでついな。 女の子の四皿分だったんで少なくて、 全部食っちまった。";"Sorry, I was hungry. It was only four plates for the girls, so I ate the whole thing.";"Lo siento, tenía hambre. Eran sólo cuatro porciones para una chica, así que me las comí todas."
-"Elite Yakuza (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"……街に戻ったらなんかオゴるよ。 そう睨むなって。";"…… I'll give you something when I get back to town. Don't stare at me like that.";"…… Te daré algo cuando vuelva a la ciudad. No me mires así."
-"Elite Yakuza (talking)";"いえ、別にいいのですが…… とにかく、友引操や看護婦たちは どうなさいますか？
-普通に考えれば、街まで連れ帰ってすぐ 捜索願を出している市議会へ 引き渡すべきなのでしょうが……";"No, I don't mind, but…… Anyway, what about Tomobiki Misao and the nurses?
-Normally, they should be brought back to the city and immediately handed over to the city council, which has filed a missing persons report……";"No, está bien…… De todos modos, ¿qué pasa con Tomobiki Misao y las enfermeras?
+"narrator","──そして、数十分後。","And then, a few dozen minutes later.","─ ─ Y unos minutos después."
+"Elite Yakuza (talking)","……若、友引操と看護婦、 計四人全員を捕まえました。","……Waka,Tomobiki Misao and a nurse, all four in total, were captured.","……Waka,Tomobiki Misao y una enfermera, los cuatro en total."
+"Yamamoto Akuji (talking)","おー、そっか。ごちそうさま。 ……あ、いや、ごくろうさん。","Oh, I see. Thanks for the food…… Oh, no, thank you very much.","Oh, ya veo. Gracias por la comida…… Oh, no, muchas gracias."
+"Elite Yakuza (talking)","……………… 若、カレーを食べていたのですね……","……………… Young, you were eating curry: ……","……………… Young, estabas comiendo curry……"
+"Yamamoto Akuji (talking)","すまん、腹減ってたんでついな。 女の子の四皿分だったんで少なくて、 全部食っちまった。","Sorry, I was hungry. It was only four plates for the girls, so I ate the whole thing.","Lo siento, tenía hambre. Eran sólo cuatro porciones para una chica, así que me las comí todas."
+"Elite Yakuza (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","……街に戻ったらなんかオゴるよ。 そう睨むなって。","…… I'll give you something when I get back to town. Don't stare at me like that.","…… Te daré algo cuando vuelva a la ciudad. No me mires así."
+"Elite Yakuza (talking)","いえ、別にいいのですが…… とにかく、友引操や看護婦たちは どうなさいますか？
+普通に考えれば、街まで連れ帰ってすぐ 捜索願を出している市議会へ 引き渡すべきなのでしょうが……","No, I don't mind, but…… Anyway, what about Tomobiki Misao and the nurses?
+Normally, they should be brought back to the city and immediately handed over to the city council, which has filed a missing persons report……","No, está bien…… De todos modos, ¿qué pasa con Tomobiki Misao y las enfermeras?
 Normalmente, deben ser llevados a la ciudad y entregados inmediatamente al ayuntamiento, que ha emitido una orden de registro……"
-"Yamamoto Akuji (talking)";"いや、うちの捕虜にしよう。 何を隠してんのか気になるしな。";"No, let's make him our prisoner. I'm curious to know what you're hiding.";"No, hagámoslo nuestro prisionero. Tengo curiosidad por saber qué escondes."
-"Elite Yakuza (talking)";"はっ。";"Ha.";"Ha."
-"Tamanegi (talking)";"……そういう訳で、 この仕事の概要は以上の通りです。";"……That's why I'm outlining this job.";"……Por eso he esbozado este trabajo más arriba."
-"Tomobiki Misao (talking)";"……はい。";"…… Yes.";"…… Sí."
-"Tamanegi (talking)";"技術的な事はともかく、 基本は客のことを思いやり、気遣う、 そこが何よりも大切なのです。
-それがなくては、 あなたがどんな性技を身につけようと 無駄なのです。……解りますね？";"Regardless of the technical aspects, the most important thing is to be considerate and caring for your customers.
-Without that, it doesn't matter what kind of sexual skills you acquire…… understand?";"Independientemente de los tecnicismos, el principio básico es que hay que ser considerado y atender a los clientes, y eso es lo más importante.
+"Yamamoto Akuji (talking)","いや、うちの捕虜にしよう。 何を隠してんのか気になるしな。","No, let's make him our prisoner. I'm curious to know what you're hiding.","No, hagámoslo nuestro prisionero. Tengo curiosidad por saber qué escondes."
+"Elite Yakuza (talking)","はっ。","Ha.","Ha."
+"Tamanegi (talking)","……そういう訳で、 この仕事の概要は以上の通りです。","……That's why I'm outlining this job.","……Por eso he esbozado este trabajo más arriba."
+"Tomobiki Misao (talking)","……はい。","…… Yes.","…… Sí."
+"Tamanegi (talking)","技術的な事はともかく、 基本は客のことを思いやり、気遣う、 そこが何よりも大切なのです。
+それがなくては、 あなたがどんな性技を身につけようと 無駄なのです。……解りますね？","Regardless of the technical aspects, the most important thing is to be considerate and caring for your customers.
+Without that, it doesn't matter what kind of sexual skills you acquire…… understand?","Independientemente de los tecnicismos, el principio básico es que hay que ser considerado y atender a los clientes, y eso es lo más importante.
 Sin eso, no importa qué tipo de habilidades sexuales aprendas, es inútil…… ¿comprende?"
-"Tomobiki Misao (talking)";"はい。
- ……娼婦って、 案外、難しい仕事なんですね。";"Yes, I am.…… Being a prostitute is a harder job than you might think.";"Sí.…… Ser prostituta es un trabajo más duro de lo que se piensa."
-"Tamanegi (talking)";"ええ、看護婦と違って 決して陽の光が当たる仕事では ありませんが……
+"Tomobiki Misao (talking)","はい。
+ ……娼婦って、 案外、難しい仕事なんですね。","Yes, I am.…… Being a prostitute is a harder job than you might think.","Sí.…… Ser prostituta es un trabajo más duro de lo que se piensa."
+"Tamanegi (talking)","ええ、看護婦と違って 決して陽の光が当たる仕事では ありませんが……
 本当の娼婦というのは、 プロフェッショナルとして自信を持つべき 尊い存在です。
-女であれば誰でも簡単にできる、 そんな世間一般の誤認は捨てて下さい。";"Yes, unlike nurses, it's never a sunny day job……
+女であれば誰でも簡単にできる、 そんな世間一般の誤認は捨てて下さい。","Yes, unlike nurses, it's never a sunny day job……
 A true prostitute is an honorable professional to have confidence in.
-Please put aside the popular misconception that it's easy for any woman to do it.";"Sí, a diferencia de las enfermeras, nunca es una carrera soleada……
+Please put aside the popular misconception that it's easy for any woman to do it.","Sí, a diferencia de las enfermeras, nunca es una carrera soleada……
 Una verdadera prostituta es un ser noble que merece confianza profesional.
 Por favor, deja a un lado la idea errónea popular de que es fácil para cualquier mujer hacerlo."
-"Tomobiki Misao (talking)";"……はい。";"…… Yes.";"…… Sí."
-"Tamanegi (talking)";"良い返事です。 あなたは私にとって 優秀な教え子になりそうだ。
-さすが元看護婦、と言うべきですか。 誰かに尽くすという感覚の本質を すでに知っている……";"Good reply. You are going to be an excellent student for me.
-A former nurse, indeed, I should say. You already know the essence of what it feels like to serve someone……";"Buena respuesta. Vas a ser un excelente alumno para mí.
+"Tomobiki Misao (talking)","……はい。","…… Yes.","…… Sí."
+"Tamanegi (talking)","良い返事です。 あなたは私にとって 優秀な教え子になりそうだ。
+さすが元看護婦、と言うべきですか。 誰かに尽くすという感覚の本質を すでに知っている……","Good reply. You are going to be an excellent student for me.
+A former nurse, indeed, I should say. You already know the essence of what it feels like to serve someone……","Buena respuesta. Vas a ser un excelente alumno para mí.
 Una antigua enfermera, en efecto, debería decir. Ya conoces la esencia de lo que se siente al servir a alguien……"
-"Tomobiki Misao (talking)";"……自分では、よく解りません。
+"Tomobiki Misao (talking)","……自分では、よく解りません。
 それに私は、元看護婦ではなく 今も、看護婦でいるつもりです。
-私の天職だと……そう思っていますから。";"I am…… not sure myself.
+私の天職だと……そう思っていますから。","I am…… not sure myself.
 And I'm not a former nurse, I'm still a nurse.
-I think it's my calling……";"…… Yo tampoco lo entiendo muy bien.
+I think it's my calling……","…… Yo tampoco lo entiendo muy bien.
 Y no soy una ex enfermera, sigo siendo una enfermera.
 Creo que es mi vocación……"
-"Tamanegi (talking)";"娼婦になる気はない……？";"I'm not going to be a whore……?";"No voy a ser una prostituta……?"
-"Tomobiki Misao (talking)";"いえ……
-追われる身の私を守ってもらって、 しかも報酬を頂いている以上は きちんと働くつもり……です。";"No, ……
-As long as I'm being chased and protected, and as long as I'm being paid, I intend to do my job well……";"No……
+"Tamanegi (talking)","娼婦になる気はない……？","I'm not going to be a whore……?","No voy a ser una prostituta……?"
+"Tomobiki Misao (talking)","いえ……
+追われる身の私を守ってもらって、 しかも報酬を頂いている以上は きちんと働くつもり……です。","No, ……
+As long as I'm being chased and protected, and as long as I'm being paid, I intend to do my job well……","No……
 Mientras me persigan y me protejan, y mientras me paguen, voy a trabajar bien……"
-"Tamanegi (talking)";"なるほど、良い覚悟です。
-ですが、惜しむらくは…… あなたが娼婦という仕事を 楽しんでいないという事ですね。";"Well, that's a good resolution.
-But I regret to inform you that…… you do not enjoy your job as a prostitute.";"Ya veo, buena resolución.
+"Tamanegi (talking)","なるほど、良い覚悟です。
+ですが、惜しむらくは…… あなたが娼婦という仕事を 楽しんでいないという事ですね。","Well, that's a good resolution.
+But I regret to inform you that…… you do not enjoy your job as a prostitute.","Ya veo, buena resolución.
 Pero lamentablemente,…… no disfrutas siendo una prostituta."
-"Tomobiki Misao (talking)";"楽しむ……？";"Enjoy ……?";"¿Disfrutas de ……?"
-"Tamanegi (talking)";"今は聞き流して下さって結構です。 心の隅に留めて置いて下されば。
-では、今日の実技に移りましょうか。";"For now, please do not listen to me. I hope you will keep it in the back of your mind.
-Now, let's move on to today's practical exercise.";"Puede que no lo escuches ahora. Sólo mantenlo en un rincón de tu mente.
+"Tomobiki Misao (talking)","楽しむ……？","Enjoy ……?","¿Disfrutas de ……?"
+"Tamanegi (talking)","今は聞き流して下さって結構です。 心の隅に留めて置いて下されば。
+では、今日の実技に移りましょうか。","For now, please do not listen to me. I hope you will keep it in the back of your mind.
+Now, let's move on to today's practical exercise.","Puede que no lo escuches ahora. Sólo mantenlo en un rincón de tu mente.
  ¿Pasamos a la práctica de hoy?"
-"Tomobiki Misao (talking)";"あ……はい…………";"A…… yes…………";"A…… sí…………"
-"cg narrator";"「あ、はっ…………う、っア………… 　はっ…………はっ…………は、っあ…………」
+"Tomobiki Misao (talking)","あ……はい…………","A…… yes…………","A…… sí…………"
+"cg narrator","「あ、はっ…………う、っア………… 　はっ…………はっ…………は、っあ…………」
 煉瓦造りの、暗く、狭く、冷たい空間に、 操の吐く熱い吐息が広がっていく。
 その吐息に混じって、 微かに聞こえる淫らな水音──
  　　［ちゅ、っく……くちゅ、ちゅ……］
@@ -1022,7 +1022,7 @@ Now, let's move on to today's practical exercise.";"Puede que no lo escuches aho
 それは、充分に熱の籠もっていた操の躰を満たし、 弾け飛ぶような絶頂へと確実に繋がっていく。
  「やあっ、ああっ……いっ……ふやあああっ！！ 　ひアっ、ああっ、やはアんっ！！　あハああっ！ 　も、だっ……もうダメっ……やめ─────！」
  「いいよ、看護婦さん……イッちまって…… 　こっちも、そろそろ……イきそうだ…………！」
- 「ああっ…………っあああっ………………！！！ 　やは────────っ、あ──────！！」";"”Ah, ha………… u, ah………… ha………… ha………… ha, ah…… ……”
+ 「ああっ…………っあああっ………………！！！ 　やは────────っ、あ──────！！」","”Ah, ha………… u, ah………… ha………… ha………… ha, ah…… ……”
 The hot breath of Misao spreads through the dark, narrow, cold space of the brick building.
 Mixed in with that breath, the faint sound of lewd water…
  　　[Chuck, chuck ……, chuck, chuck ……]
@@ -1080,7 +1080,7 @@ Released from the pain of moving by herself, Misao was struck by an intense plea
 It filled Misao's body with enough heat, and surely led to a climax that made Dan fly away.
  “Oh, ah, ah, ah! 　Oh, ah, ah, ah, ah, ah, ah!　Aaahhhh! 　I can't…… do it again!
  “Okay, nurse,……, I'm coming,……, I'm about to come,……, too… ………!
-Oh, …………, oh,…………… Oh, ! 　Oh ────────, oh ──────!";"'Ah, ha………… u, ah………… ha…'……… ha………… ha, ah…… ……”
+Oh, …………, oh,…………… Oh, ! 　Oh ────────, oh ──────!","'Ah, ha………… u, ah………… ha…'……… ha………… ha, ah…… ……”
 El aliento caliente de Misao se extiende por el espacio oscuro, estrecho y frío del edificio de ladrillo.
 Mezclado con ese aliento, el tenue sonido del agua lasciva…
  　　[Chuck, chuck…… chuck, chuck ……]
@@ -1138,45 +1138,45 @@ Llenó el cuerpo de Misao con suficiente calor y lo condujo sin pausa a un clím
  ¡'Yaah, ah, ah,…… ah,…… ah, ah! 　¡Hiaaa, aaaaah, yaaaaaah!　¡Ahaaaaah! 　¡No puedo…… hacerlo de nuevo!
  “Vale, enfermera,…… ven,…… yo también estoy a punto de…… ven… ¡………!
 Oh, …………, oh, oh,…………… ¡Oh! 　¡Oh ────────, oh ──────!"
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"narrator";"──調教が終わって、 操は躰を清め、着替えを始めていた。";"After the training was over, Misao was cleaning his body and Hajime was changing his clothes.";"Al terminar el entrenamiento, Misao se limpiaba el cuerpo y Hajime se cambiaba de ropa."
-"Tomobiki Misao (talking)";"………………";"………………";"………………"
-"Tamanegi (talking)";"……おっと、失礼。 まだ着替えの最中でしたか。";"…… Oops, my bad. Were you still in the process of getting dressed?";"…… Oops, perdón. ¿Todavía estabas en proceso de cambiarte de ropa?"
-"Tomobiki Misao (talking)";"調教師さん……
-別に……気にしないで下さい。 さっきだって、見ていたんでしょう……？";"Mr. Trainer ……
-I don't really…… mind. Even just now, you were watching, weren't you ……?";"Entrenador: ……
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"narrator","──調教が終わって、 操は躰を清め、着替えを始めていた。","After the training was over, Misao was cleaning his body and Hajime was changing his clothes.","Al terminar el entrenamiento, Misao se limpiaba el cuerpo y Hajime se cambiaba de ropa."
+"Tomobiki Misao (talking)","………………","………………","………………"
+"Tamanegi (talking)","……おっと、失礼。 まだ着替えの最中でしたか。","…… Oops, my bad. Were you still in the process of getting dressed?","…… Oops, perdón. ¿Todavía estabas en proceso de cambiarte de ropa?"
+"Tomobiki Misao (talking)","調教師さん……
+別に……気にしないで下さい。 さっきだって、見ていたんでしょう……？","Mr. Trainer ……
+I don't really…… mind. Even just now, you were watching, weren't you ……?","Entrenador: ……
 En realidad no me importa ……. Incluso ahora mismo, estabas mirando, ¿no es así ……?"
-"Tamanegi (talking)";"まあ、そうですが。 ……仕事は仕事、 こういう時はこういう時です。";"Well, yes…… work is work, and these are the times.";"Pues sí…… el trabajo es el trabajo, estos son los tiempos."
-"Tomobiki Misao (talking)";"私……不合格、ですよね。 尽くせませんでしたから……";"I…… rejected, right? Because I didn't do my best……";"Yo…… rechazado, ¿verdad? Porque no he dado lo mejor de mí……"
-"Tamanegi (talking)";"いえ、合格ですよ。 よく頑張りました、もう立派な娼婦です。";"No, you passed. You did a great job, and you are now a fine whore.";"No, has pasado la prueba. Lo has hecho bien, ahora eres una prostituta respetable."
-"Tomobiki Misao (talking)";"えっ？　どうして…………";"What?　Why …………";"¿Qué?　Por qué …………"
-"Tamanegi (talking)";"客の楽しみは、 あなたの悦楽の中にもあるのです。
-尽くすといっても、 一方的である必要はない。 あれでいいんです。";"Your guests' enjoyment is also in your pleasure.
-It does not have to be one-sided. That's all right.";"El placer del huésped también está en su placer.
+"Tamanegi (talking)","まあ、そうですが。 ……仕事は仕事、 こういう時はこういう時です。","Well, yes…… work is work, and these are the times.","Pues sí…… el trabajo es el trabajo, estos son los tiempos."
+"Tomobiki Misao (talking)","私……不合格、ですよね。 尽くせませんでしたから……","I…… rejected, right? Because I didn't do my best……","Yo…… rechazado, ¿verdad? Porque no he dado lo mejor de mí……"
+"Tamanegi (talking)","いえ、合格ですよ。 よく頑張りました、もう立派な娼婦です。","No, you passed. You did a great job, and you are now a fine whore.","No, has pasado la prueba. Lo has hecho bien, ahora eres una prostituta respetable."
+"Tomobiki Misao (talking)","えっ？　どうして…………","What?　Why …………","¿Qué?　Por qué …………"
+"Tamanegi (talking)","客の楽しみは、 あなたの悦楽の中にもあるのです。
+尽くすといっても、 一方的である必要はない。 あれでいいんです。","Your guests' enjoyment is also in your pleasure.
+It does not have to be one-sided. That's all right.","El placer del huésped también está en su placer.
 Servir no tiene por qué ser unilateral. Está bien."
-"Tomobiki Misao (talking)";"…………";"…………";"…………"
-"Tamanegi (talking)";"では、今日はこれで終わりましょう。
-ふふ、店に出る時が楽しみですね。 あなたに溺れていく客の姿が 目に見えるようですよ……";"Well, let's call it a day.
-Hmmm, I'm looking forward to when you leave for the store. I can just see the customers drowning in you……";"Bueno, dejémoslo por hoy.
+"Tomobiki Misao (talking)","…………","…………","…………"
+"Tamanegi (talking)","では、今日はこれで終わりましょう。
+ふふ、店に出る時が楽しみですね。 あなたに溺れていく客の姿が 目に見えるようですよ……","Well, let's call it a day.
+Hmmm, I'm looking forward to when you leave for the store. I can just see the customers drowning in you……","Bueno, dejémoslo por hoy.
 Hmm, estoy deseando que salgas a la tienda. Puedo ver a los clientes ahogándose en ti……"
-"Tomobiki Misao (talking)";"……………… 私に、溺れる…………
- ……………………";"……………… Drown in me……… …
- ……………………";"……………… Ahogarse en mi……… …
+"Tomobiki Misao (talking)","……………… 私に、溺れる…………
+ ……………………","……………… Drown in me……… …
+ ……………………","……………… Ahogarse en mi……… …
  ……………………"
-"Chinpira (talking)";"操ちゃん、指名入ったよ。 出られるかな？";"Misao, you've been nominated. Will you be able to answer?";"Misao, has sido nominado. ¿Será capaz de responder?"
-"Tomobiki Misao (talking)";"はい、大丈夫です。
- ……今度の人も、 看護婦の格好でいいんでしょうか？";"Yes, it's okay.…… Is it okay for the next person to dress as a nurse too?";"Sí, está bien.…… ¿Puede la siguiente persona vestirse también de enfermera?"
-"Chinpira (talking)";"ああ、そうみたいだね。";"Yeah, it looks like it.";"Sí, parece que tienes razón."
-"Tomobiki Misao (talking)";"結構、人気ありますね……看護婦。";"It's quite popular…… nurse.";"Es bastante popular…… enfermeras."
-"Chinpira (talking)";"白衣の天使って言うと、 やっぱ男の憧れだからねえ。 ま、しょうがないんじゃない？";"Haku A heavenly woman in a robe is a man's dream, you know. Well, it can't be helped, can it?";"HHakuUna mujer celestial en bata es el sueño de un hombre, ya sabes. Bueno, no se puede evitar, ¿verdad?"
-"Tomobiki Misao (talking)";"私、本職の看護婦だったから 少し複雑な気分ですけど……";"I was a nurse in my day job, so it's a little complicated……";"Yo era enfermera en mi trabajo de día, así que es un poco complicado……"
-"Chinpira (talking)";"ま、気にしない気にしない。
-それじゃ客連れてくるから、 後はよろしくね~。";"Well, I don't mind, I don't mind.
-I'll go get a client, and take care of the rest.";"Bueno, no me importa, no me importa.
+"Chinpira (talking)","操ちゃん、指名入ったよ。 出られるかな？","Misao, you've been nominated. Will you be able to answer?","Misao, has sido nominado. ¿Será capaz de responder?"
+"Tomobiki Misao (talking)","はい、大丈夫です。
+ ……今度の人も、 看護婦の格好でいいんでしょうか？","Yes, it's okay.…… Is it okay for the next person to dress as a nurse too?","Sí, está bien.…… ¿Puede la siguiente persona vestirse también de enfermera?"
+"Chinpira (talking)","ああ、そうみたいだね。","Yeah, it looks like it.","Sí, parece que tienes razón."
+"Tomobiki Misao (talking)","結構、人気ありますね……看護婦。","It's quite popular…… nurse.","Es bastante popular…… enfermeras."
+"Chinpira (talking)","白衣の天使って言うと、 やっぱ男の憧れだからねえ。 ま、しょうがないんじゃない？","Haku A heavenly woman in a robe is a man's dream, you know. Well, it can't be helped, can it?","HHakuUna mujer celestial en bata es el sueño de un hombre, ya sabes. Bueno, no se puede evitar, ¿verdad?"
+"Tomobiki Misao (talking)","私、本職の看護婦だったから 少し複雑な気分ですけど……","I was a nurse in my day job, so it's a little complicated……","Yo era enfermera en mi trabajo de día, así que es un poco complicado……"
+"Chinpira (talking)","ま、気にしない気にしない。
+それじゃ客連れてくるから、 後はよろしくね~。","Well, I don't mind, I don't mind.
+I'll go get a client, and take care of the rest.","Bueno, no me importa, no me importa.
 Iré a buscar a un invitado entonces, ocúpate del resto~."
-"Tomobiki Misao (talking)";"……はい。";"…… Yes.";"…… Sí."
-"cg narrator";"──操が、客の男根に触れ始めて数分後。 最初の放出は、思ったより早く訪れた。
+"Tomobiki Misao (talking)","……はい。","…… Yes.","…… Sí."
+"cg narrator","──操が、客の男根に触れ始めて数分後。 最初の放出は、思ったより早く訪れた。
  　　［びゅっ……どくっ！　びくっ……］
 長大なそれが狂ったように痙攣し、 操の顔に、肩に、手に、迸った白濁をまき散らす。
  「あっ…………」
@@ -1235,7 +1235,7 @@ Iré a buscar a un invitado entonces, ocúpate del resto~."
 鼻腔から流れ込む男の精臭に、 だんだん、頭がぼうっとしてくる。
  （…………っ…… 　しっかり、舌を……口を、使わないと……）
 微かに眉根を寄せて、 操は奉仕者としての自分を意識し続けようとする。
- ──が。";"A few minutes after Misao touched the client's manhood, Hajime started. The first release came earlier than expected.
+ ──が。","A few minutes after Misao touched the client's manhood, Hajime started. The first release came earlier than expected.
  　　［Boom!　[Bikk ……]
 The long, massive cock spasmed like mad, spewing Haku muck all over Misao's face, shoulders, and hands.
 Oh, ………….”
@@ -1294,7 +1294,7 @@ Misao found himself somewhat pressured as he took the man's cock into his mouth.
 The smell of the man's semen flowing through his nostrils gradually made him feel light-headed.
  (………… and…… must use their tongues and…… mouths firmly! (……)
 With his eyebrows slightly furrowed, Misao tries to remain aware of himself as a servant.
-I'm not sure what I'm supposed to be doing.";"Unos minutos después de que Misao tocara la virilidad del cliente, Hajime comenzó. El primer lanzamiento llegó antes de lo esperado.
+I'm not sure what I'm supposed to be doing.","Unos minutos después de que Misao tocara la virilidad del cliente, Hajime comenzó. El primer lanzamiento llegó antes de lo esperado.
  　　[Embrujo ……　[Bikk ……]
 La larga y enorme cosa dio un espasmo como un loco, rociando la mugre de Haku a borbotones por toda la cara, los hombros y las manos de Misao.
  'Oh, …………'
@@ -1353,7 +1353,7 @@ El olor del semen del hombre que fluía por sus fosas nasales le hizo sentirse p
  (………… y…… Tengo que usar la lengua…… y la boca con firmeza. (……)
 Con las cejas ligeramente fruncidas, Misao intenta seguir siendo consciente de su condición de sirvienta.
  ─ ─ pero."
-"cg narrator";"「…………あ、あれ…………？」
+"cg narrator","「…………あ、あれ…………？」
 口技が、急に中断された。 訝しんだ客が、のそりと上体を起こして操を見る。
  「看護婦さん……？　どうかした？」
  「………………すみません。 　私、看護婦失格です…………」
@@ -1364,7 +1364,7 @@ Con las cejas ligeramente fruncidas, Misao intenta seguir siendo consciente de s
  ──大きく開いた、操の足。 露わになる、秘裂。
 ぱっくりと口を開け、朱色に充血したそこは、 淫らな潤みに濡れ光っていた。
  「……すみません………… 　私の、熱病も……治して下さい……」
-そして操は、静かに腰を落として、 いきり立つ男根を自分の中に呑み込んでいった。";"”………… Oh, that …………?”
+そして操は、静かに腰を落として、 いきり立つ男根を自分の中に呑み込んでいった。","”………… Oh, that …………?”
 The oral technique was abruptly interrupted. The customer, wondering, raised his head and looked at Misao.
 The nurse ……?　What's wrong?”
  “I'm sorry ………………. 　I'm not a good nurse…………
@@ -1375,7 +1375,7 @@ Saying this, Misao straddles the customer's waist.
 The Misao's legs are wide open. The secret cleft that is exposed.
 The mouth is open, and the place that is bloodshot with vermilion is wet and shining with lewd moisture.
  “I'm…… sorry,………… please cure my fever too…… ……”
-Then Misao quietly lowered her hips and swallowed the surging manhood into herself.";"'………… Oh, ¿ese …………?'
+Then Misao quietly lowered her hips and swallowed the surging manhood into herself.","'………… Oh, ¿ese …………?'
 La técnica oral se interrumpió bruscamente. Un cliente, extrañado, se inclina y mira a Misao.
  '¿Enfermera ……?　¿Qué pasa?”
  '……………… lo siento. 　Soy una enfermera no apta…………
@@ -1387,137 +1387,137 @@ Las piernas del Misao se abren de par en par. La hendidura secreta que queda al 
 La boca estaba abierta, y aquel lugar, enrojecido por el bermellón, estaba mojado y brillaba con una humedad lasciva.
  'Lo siento ……,………… por favor, cúrame también la fiebre…… ……”
 Entonces Misao se sentó tranquilamente y se tragó la virilidad que surgía dentro de ella."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"narrator";"──この高度と位置を維持しつつ、 宇宙病原菌シャアがふわふわと漂っていた。";"─ ─ Maintaining this altitude and position, the space pathogen Shaa was drifting in a fluffy manner.";"─ ─ Manteniendo esta altitud y posición, el patógeno espacial Shaa fue derivando de forma esponjosa."
-"Shaa (talking)";"しゃー！　しゃー！　しゃー！！ しゃー！　しゃー！　しゃー！！";"Shhh!　Shhh!　Sha! Sha!　Shhh!　Sha!";"¡Sha!　¡Sha!　¡Sha! ¡Sha!　¡Sha!　¡Sha!"
-"narrator";"突然、シャアを白い靄が包み込んだ。 気流に乗って移動してきた雲である。
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"narrator","──この高度と位置を維持しつつ、 宇宙病原菌シャアがふわふわと漂っていた。","─ ─ Maintaining this altitude and position, the space pathogen Shaa was drifting in a fluffy manner.","─ ─ Manteniendo esta altitud y posición, el patógeno espacial Shaa fue derivando de forma esponjosa."
+"Shaa (talking)","しゃー！　しゃー！　しゃー！！ しゃー！　しゃー！　しゃー！！","Shhh!　Shhh!　Sha! Sha!　Shhh!　Sha!","¡Sha!　¡Sha!　¡Sha! ¡Sha!　¡Sha!　¡Sha!"
+"narrator","突然、シャアを白い靄が包み込んだ。 気流に乗って移動してきた雲である。
 そして、シャアは雲を──周囲の水分を嫌って 上下左右に細かく動き始める。
-だが、空を覆う雲は予想以上に大きく、 シャアは疲弊し、逃げ場を失い、 高度を維持できなくなって──";"Suddenly, a Haku haze enveloped Shaa. It was a cloud that had moved with the air currents.
+だが、空を覆う雲は予想以上に大きく、 シャアは疲弊し、逃げ場を失い、 高度を維持できなくなって──","Suddenly, a Haku haze enveloped Shaa. It was a cloud that had moved with the air currents.
 And Shaa disliked the clouds, moving up and down, left to right, and in small Hajime movements, disliking the moisture in the surroundings.
-However, the clouds covering the sky were much larger than expected, and Shaa became exhausted, lost its escape route, and was unable to maintain its altitude…";"De repente, una bruma Haku envolvió a Shaa. Era una nube que se había movido con las corrientes de aire.
+However, the clouds covering the sky were much larger than expected, and Shaa became exhausted, lost its escape route, and was unable to maintain its altitude…","De repente, una bruma Haku envolvió a Shaa. Era una nube que se había movido con las corrientes de aire.
 Y a Shaa le disgustaron las nubes -la humedad circundante- y se movió hacia arriba, hacia abajo, a la izquierda, a la derecha y a la fina, haciendo Hajime.
 Pero las nubes que cubrían el cielo eran mucho más grandes de lo esperado, y Shaa se agotó, perdió su ruta de escape y no pudo mantener su altitud…"
-"Shaa (talking)";"しゃ……しゃあああああッ……………… しゃああああああああああああああっ！！";"sha…… sha……………… sha……………… sha! Shaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!";"Sha…… shaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa……………… sha ¡¡¡Shaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!"
-"seinen (talking)";"…………ん？ なんだ、あれ。";"………… hmm? What the heck, that.";"………… ¿Hmm? Qué demonios, eso."
-"shoujo (talking)";"ん？　どうしたの、お兄ちゃん。";"Hmm?　What's wrong, big brother?";"¿Hmm?　¿Qué pasa, hermano?"
-"seinen (talking)";"いや、空から一直線に、 何か赤いものが落っこちてきてるんだ。
-何か、飛行機にしちゃ速いな。 軽く三倍くらい速いような……";"No, something red is falling from the sky in a straight line.
-It's fast for an airplane. It's like three times faster……";"No, algo rojo está cayendo en línea recta desde el cielo.
+"Shaa (talking)","しゃ……しゃあああああッ……………… しゃああああああああああああああっ！！","sha…… sha……………… sha……………… sha! Shaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!!","Sha…… shaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa……………… sha ¡¡¡Shaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!"
+"seinen (talking)","…………ん？ なんだ、あれ。","………… hmm? What the heck, that.","………… ¿Hmm? Qué demonios, eso."
+"shoujo (talking)","ん？　どうしたの、お兄ちゃん。","Hmm?　What's wrong, big brother?","¿Hmm?　¿Qué pasa, hermano?"
+"seinen (talking)","いや、空から一直線に、 何か赤いものが落っこちてきてるんだ。
+何か、飛行機にしちゃ速いな。 軽く三倍くらい速いような……","No, something red is falling from the sky in a straight line.
+It's fast for an airplane. It's like three times faster……","No, algo rojo está cayendo en línea recta desde el cielo.
 Es bastante rápido para un avión. Es como tres veces más rápido, ligeramente……"
-"shoujo (talking)";"お……お兄ちゃん、 それってまさか、テレビでやってた 宇宙病原菌の………………";"Oh…… brother, I don't think that's the cosmic pathogen that was on TV ………………";"Oh…… hermano, no creo que ese sea el patógeno espacial……………… que salió en la televisión."
-"seinen (talking)";"しゃ……シャアだっ！ 隕石のシャアが落ちてくるぞ！ 逃げろー！　シャアが来るぞーーー！！";"It's ……Shaa! Meteorite Shaa is falling! Run!　Shaa is coming!";"¡Es ……Shaa! ¡Un meteorito Shaa está cayendo! ¡Corre!　¡Que viene el Shaa!"
-"shoujo (talking)";"きゃーーーーーーーーーーーー！！ 助けてーーーーーー！";"Kyoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo! Help meoooooooooooooooooooooooooooooooooooooooooooooooooooooo!";"¡Kyaaaahhhhh! ¡¡Ayuda!!"
-"narrator";"　　［ひゅうぅ…………ん……］
+"shoujo (talking)","お……お兄ちゃん、 それってまさか、テレビでやってた 宇宙病原菌の………………","Oh…… brother, I don't think that's the cosmic pathogen that was on TV ………………","Oh…… hermano, no creo que ese sea el patógeno espacial……………… que salió en la televisión."
+"seinen (talking)","しゃ……シャアだっ！ 隕石のシャアが落ちてくるぞ！ 逃げろー！　シャアが来るぞーーー！！","It's ……Shaa! Meteorite Shaa is falling! Run!　Shaa is coming!","¡Es ……Shaa! ¡Un meteorito Shaa está cayendo! ¡Corre!　¡Que viene el Shaa!"
+"shoujo (talking)","きゃーーーーーーーーーーーー！！ 助けてーーーーーー！","Kyoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo! Help meoooooooooooooooooooooooooooooooooooooooooooooooooooooo!","¡Kyaaaahhhhh! ¡¡Ayuda!!"
+"narrator","　　［ひゅうぅ…………ん……］
  　　［……ずどおおおおおおおんっ！！］
 シャアが落下した場所には小さなクレーターが 生まれて、砂煙がもうもうと立ちこめている。
-そして、その砂煙の中から、 なおも生きている赤い影が勢いよく飛び出した！";"［hyuu…………n……]
+そして、その砂煙の中から、 なおも生きている赤い影が勢いよく飛び出した！","［hyuu…………n……]
  　　[……Zdooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!]
 A small crater has formed where Shaa fell, and a cloud of dust is rising.
-And out of that cloud of dust, a red shadow, still alive, leapt out with great force!";"[huuu…………n……]
+And out of that cloud of dust, a red shadow, still alive, leapt out with great force!","[huuu…………n……]
  　　
 Se ha formado un pequeño cráter donde cayó Shaa, y se levanta una nube de polvo.
 Y de esa nube de polvo, una sombra roja, aún viva, saltó con gran fuerza."
-"Shaa (talking)";"……しゃあ！　しゃあ！　しゃあッ！！ しゃー！　しゃー！　しゃあああッ！！";"…… Sha!　Sshhh!　Shaah! Shhh!　Sshhh!　Shaaaah!";"…… ¡Sha!　¡Shaah!　¡Shaah! ¡Shaah!　¡Shaaaah!　¡¡¡Shaaaah!!!"
-"__system__??";"{■ \ 0:";"";""
-"__system__??";"{Bキャラ = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"{Bキャラ = 7:";"";""
-"__system__??";"}";"";""
-"__system__??";"{Bキャラ = 37:";"";""
-"__system__??";"}";"";""
-"__system__??";"{Bキャラ = 8:";"";""
-"__system__??";"}";"";""
-"__system__??";"{Bキャラ = 87:";"";""
-"__system__??";"}";"";""
-"__system__??";"{Bキャラ = 96:";"";""
-"__system__??";"}";"";""
-"__system__??";"{Bキャラ = 13:";"";""
-"__system__??";"}";"";""
-"__system__??";"{Bキャラ = 36:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{■ = 0:";"";""
-"Shaa (talking)";"………………
-しゃあ………………？";"………………
-Shia ………………?";"………………
+"Shaa (talking)","……しゃあ！　しゃあ！　しゃあッ！！ しゃー！　しゃー！　しゃあああッ！！","…… Sha!　Sshhh!　Shaah! Shhh!　Sshhh!　Shaaaah!","…… ¡Sha!　¡Shaah!　¡Shaah! ¡Shaah!　¡Shaaaah!　¡¡¡Shaaaah!!!"
+"__system__??","{■ \ 0:","",""
+"__system__??","{Bキャラ = 1:","",""
+"__system__??","}","",""
+"__system__??","{Bキャラ = 7:","",""
+"__system__??","}","",""
+"__system__??","{Bキャラ = 37:","",""
+"__system__??","}","",""
+"__system__??","{Bキャラ = 8:","",""
+"__system__??","}","",""
+"__system__??","{Bキャラ = 87:","",""
+"__system__??","}","",""
+"__system__??","{Bキャラ = 96:","",""
+"__system__??","}","",""
+"__system__??","{Bキャラ = 13:","",""
+"__system__??","}","",""
+"__system__??","{Bキャラ = 36:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{■ = 0:","",""
+"Shaa (talking)","………………
+しゃあ………………？","………………
+Shia ………………?","………………
 Shia ………………?"
-"narrator";"シャアは誰かにぶつかって、病原菌を ばらまこうとしたが、周囲には誰もいなかった。
-しばらく待ってみたが、奉仕青年団の連中も 自分を斃しに現れなかった。";"Shaa tried to bump into someone and release the pathogen, but there was no one around.
-He waited for a while, but no one showed up to kill him, not even the youth workers.";"Shaa intentó chocar con alguien y liberar el patógeno, pero no había nadie cerca.
+"narrator","シャアは誰かにぶつかって、病原菌を ばらまこうとしたが、周囲には誰もいなかった。
+しばらく待ってみたが、奉仕青年団の連中も 自分を斃しに現れなかった。","Shaa tried to bump into someone and release the pathogen, but there was no one around.
+He waited for a while, but no one showed up to kill him, not even the youth workers.","Shaa intentó chocar con alguien y liberar el patógeno, pero no había nadie cerca.
 Esperó un rato, pero no apareció nadie del grupo de jóvenes del servicio para matarlo."
-"Shaa (talking)";"しゃーーーー…………………………";"Shhhhhh …………………………";"Shhhhhh …………………………"
-"narrator";"シャアは、次第に弱っていき──やがて消滅した。
-宇宙病原菌シャア、実はウサギさん以上の 寂しがりやさんだった。";"Shaa gradually weakened and eventually disappeared.
-The space pathogen Shaa, in fact, was even more lonely than the rabbit.";"Shaa se fue debilitando poco a poco y acabó desapareciendo.
+"Shaa (talking)","しゃーーーー…………………………","Shhhhhh …………………………","Shhhhhh …………………………"
+"narrator","シャアは、次第に弱っていき──やがて消滅した。
+宇宙病原菌シャア、実はウサギさん以上の 寂しがりやさんだった。","Shaa gradually weakened and eventually disappeared.
+The space pathogen Shaa, in fact, was even more lonely than the rabbit.","Shaa se fue debilitando poco a poco y acabó desapareciendo.
 El patógeno espacial Shaa, de hecho, estaba aún más solo que el conejo."
-"__system__??";"}";"";""
-"__system__??";"{Bキャラ > 500:";"";""
-"__system__??";"}";"";""
-"narrator";"そこに";"there";"allí"
-"narrator";"が現れた！ 奉仕青年団の構成員としてシャアを退治する為に！";"has shown up! to exterminate Shaa as a member of the Service Youth League!";"¡ha aparecido! ¡para exterminar a Shaa como miembro de la Juventud en Servicio!"
-" (talking)";"ぴろりろぴきーーーーーーん！ しゃあ、しゃああっ、しゃあああッ！！";"Shhhh, shhhh, shhhh, shhhh! Shhh, shhh, shhhhhhhh!";"¡Shhh, shhhh, shhhh, shhhh! ¡Shaah, shaah, shaah!"
-"narrator";"あっ、シャアがイナズマのように動いた！";"Ah, Shaa moved like an inazuma!";"¡Oh, Shaa se movió como una inazuma!"
-"narrator";"に襲いかかってその顔を舐めたぞ！";"and licked its face!";"¡La ataqué y le lamí la cara!"
-" (talking)";"っ、あ………………？！
+"__system__??","}","",""
+"__system__??","{Bキャラ > 500:","",""
+"__system__??","}","",""
+"narrator","そこに","there","allí"
+"narrator","が現れた！ 奉仕青年団の構成員としてシャアを退治する為に！","has shown up! to exterminate Shaa as a member of the Service Youth League!","¡ha aparecido! ¡para exterminar a Shaa como miembro de la Juventud en Servicio!"
+" (talking)","ぴろりろぴきーーーーーーん！ しゃあ、しゃああっ、しゃあああッ！！","Shhhh, shhhh, shhhh, shhhh! Shhh, shhh, shhhhhhhh!","¡Shhh, shhhh, shhhh, shhhh! ¡Shaah, shaah, shaah!"
+"narrator","あっ、シャアがイナズマのように動いた！","Ah, Shaa moved like an inazuma!","¡Oh, Shaa se movió como una inazuma!"
+"narrator","に襲いかかってその顔を舐めたぞ！","and licked its face!","¡La ataqué y le lamí la cara!"
+" (talking)","っ、あ………………？！
  …………た、助け………… 苦し…………………………
 あああ…………うああああっ……
 ぐははははーーげははーーー ぐげげーーーーー！！
- ………………";"Oh, oh ………………?………… help………… suffering… ………………………
+ ………………","Oh, oh ………………?………… help………… suffering… ………………………
 Ohhhh………… ughhhhhh ……
 GHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!
- ………………";"Oh, oh ………………?………… ayudar a………… sufrir… ………………………
+ ………………","Oh, oh ………………?………… ayudar a………… sufrir… ………………………
 Ohhhhh………… ughhhhhhhhhh ……
  ¡Guhahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha!
  ………………"
-" (talking)";"……しゃあ、しゃあ、しゃあッ！！";"…… sha, sha, sha!";"…… ¡Sha, sha, sha!"
-"Shaa (talking)";"…………しゃ……
-しゃあああああああああああっ？！";"………… sha ……
-Shaaaaaaaaaaaaaaaaaaaaaaa?";"………… sha ……
+" (talking)","……しゃあ、しゃあ、しゃあッ！！","…… sha, sha, sha!","…… ¡Sha, sha, sha!"
+"Shaa (talking)","…………しゃ……
+しゃあああああああああああっ？！","………… sha ……
+Shaaaaaaaaaaaaaaaaaaaaaaa?","………… sha ……
  ¡¿Shaaaaaaaaaaa?!"
-"narrator";"は、 シャアに感染してしまった！";"has been infected by Shaa!";"¡ha sido infectado por Shaa!"
-" (talking)";"しゃしゃしゃしゃしゃ~♪";"Sha-sha-sha-sha~♪";"Sha-sha-sha-sha~♪"
-"narrator";"仲間を増やしたシャアは、 機嫌良く空へと戻っていった…………";"With more friends, Shaa returned to the sky in a good mood…………";"Con más amigos, Shaa volvió al cielo de buen humor…………"
-"Tomobiki Misao (talking)";"あの…… それでは私、出かけてきます。";"That…… I'm going to go out then.";"Que…… voy a salir entonces."
-"Chinpira (talking)";"ああ、仕事は遅番だから 夜七時までには戻っておいでよ。";"Yeah, I work the late shift, so be back by 7pm.";"Sí, trabajo en el turno de noche, así que vuelve a las 7 de la tarde."
-"Tomobiki Misao (talking)";"はい。";"Yes.";"Sí."
-"Chinpira (talking)";"……しっかし、操ちゃんも 毎週毎週どこに行ってんだろうな。";"I wonder where…… Shikkaku and Misao-chan go every week.";"…… Yo también me pregunto dónde va Misao-chan cada semana."
-"narrator";"──操は、イタミ山を登っていた。
-彼女は毎週毎週、水筒一本だけを手にして 欠かすことなくここへ来ているのである。";"Misao Misao was climbing Mount Itami.
-She came here week after week without fail, with only a bottle of water in her hand.";"─ Misao estaba escalando el monte Itami.
+"narrator","は、 シャアに感染してしまった！","has been infected by Shaa!","¡ha sido infectado por Shaa!"
+" (talking)","しゃしゃしゃしゃしゃ~♪","Sha-sha-sha-sha~♪","Sha-sha-sha-sha~♪"
+"narrator","仲間を増やしたシャアは、 機嫌良く空へと戻っていった…………","With more friends, Shaa returned to the sky in a good mood…………","Con más amigos, Shaa volvió al cielo de buen humor…………"
+"Tomobiki Misao (talking)","あの…… それでは私、出かけてきます。","That…… I'm going to go out then.","Que…… voy a salir entonces."
+"Chinpira (talking)","ああ、仕事は遅番だから 夜七時までには戻っておいでよ。","Yeah, I work the late shift, so be back by 7pm.","Sí, trabajo en el turno de noche, así que vuelve a las 7 de la tarde."
+"Tomobiki Misao (talking)","はい。","Yes.","Sí."
+"Chinpira (talking)","……しっかし、操ちゃんも 毎週毎週どこに行ってんだろうな。","I wonder where…… Shikkaku and Misao-chan go every week.","…… Yo también me pregunto dónde va Misao-chan cada semana."
+"narrator","──操は、イタミ山を登っていた。
+彼女は毎週毎週、水筒一本だけを手にして 欠かすことなくここへ来ているのである。","Misao Misao was climbing Mount Itami.
+She came here week after week without fail, with only a bottle of water in her hand.","─ Misao estaba escalando el monte Itami.
 Viene aquí semana tras semana, sin falta, con una sola botella de agua en la mano."
-"Tomobiki Misao (talking)";"……ふう………… あともう少し……
-シャアに…… 水をやらないと…………";"I'm almost ready to…… wind………… ……
-We need to…… water Shaa to …………";"…… viento………… Ya casi llegamos ……
+"Tomobiki Misao (talking)","……ふう………… あともう少し……
+シャアに…… 水をやらないと…………","I'm almost ready to…… wind………… ……
+We need to…… water Shaa to …………","…… viento………… Ya casi llegamos ……
 Necesitamos…… agua Shaa a …………"
-"narrator";"呟いて、操はまた歩き出す。
+"narrator","呟いて、操はまた歩き出す。
 決して、我が身の境遇は 良いものだと言えなかったが──
-操は、池田との約束を守る事ができれば それで充分だった。";"Misao muttered and started walking again.
+操は、池田との約束を守る事ができれば それで充分だった。","Misao muttered and started walking again.
 Although he could never say that his situation was good…
-Misao was satisfied if he could keep his promise to Ikeda.";"Misao murmura y comienza a caminar de nuevo.
+Misao was satisfied if he could keep his promise to Ikeda.","Misao murmura y comienza a caminar de nuevo.
 Nunca podría decir que mis circunstancias eran buenas, pero…
 Misao estaba satisfecha si podía cumplir su promesa a Ikeda."
-"narrator";"──操は、今日もイタミ山を登っていた。 シャアに水をやるために。";"─ Misao was climbing Mount Itami again today. To water Shaa.";"─ ─ Misao ha subido hoy al monte Itami. Para regar Shaa."
-"Tomobiki Misao (talking)";"……ふう…………ふうっ……
- ………………？ えっ、池田さん……？";"……fu…………fu……
- ………………? What, Ikeda ……?";"……fu…………fu……
+"narrator","──操は、今日もイタミ山を登っていた。 シャアに水をやるために。","─ Misao was climbing Mount Itami again today. To water Shaa.","─ ─ Misao ha subido hoy al monte Itami. Para regar Shaa."
+"Tomobiki Misao (talking)","……ふう…………ふうっ……
+ ………………？ えっ、池田さん……？","……fu…………fu……
+ ………………? What, Ikeda ……?","……fu…………fu……
  ………………? ¿Qué,…… de Ikeda?"
-"narrator";"操は、山を被う薄霧の中に よく知っている男の顔を見て足を止めた。
-だが、その姿はすぐに消えた。";"Misao stopped when he saw the face of a man he knew well in the light fog that covered the mountains.
-But the figure soon disappeared.";"Misao se detuvo al ver el rostro de un hombre que conocía bien en la ligera niebla que cubría las montañas.
+"narrator","操は、山を被う薄霧の中に よく知っている男の顔を見て足を止めた。
+だが、その姿はすぐに消えた。","Misao stopped when he saw the face of a man he knew well in the light fog that covered the mountains.
+But the figure soon disappeared.","Misao se detuvo al ver el rostro de un hombre que conocía bien en la ligera niebla que cubría las montañas.
 Pero la figura pronto desapareció."
-"Tomobiki Misao (talking)";"霊山だから……？ それとも幻………………
+"Tomobiki Misao (talking)","霊山だから……？ それとも幻………………
 今、確かに声が……
  ……大丈夫です、池田さん。 私は寂しくなんかありません。
 あなたとの約束を 守り続けられれば、それで……
 あなたとずっと、一緒に居られると 信じてますから…………
  …………
-世界が幸せでありますように……";"Is it…… because it's a sacred mountain? Or is it an illusion………………
+世界が幸せでありますように……","Is it…… because it's a sacred mountain? Or is it an illusion………………
 Now, surely the voice is ………… It's okay, Ikeda. I'm not lonely.
 As long as I can keep my promise to you, that's all that matters……
 I believe I can be with you forever…………
  …………
-May the world be happy……";"¿Es porque es una montaña sagrada ……? O es una ilusión………………
+May the world be happy……","¿Es porque es una montaña sagrada ……? O es una ilusión………………
 Ahora, seguramente la voz es ………… Está bien, Ikeda. No me sentiré solo.
 Si puedo mantener mi promesa a usted, entonces ……
 Creo que puedo estar contigo para siempre…………

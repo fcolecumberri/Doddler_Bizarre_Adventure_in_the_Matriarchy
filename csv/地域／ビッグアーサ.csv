@@ -1,180 +1,180 @@
-"character";"jap text";"Eng";"Esp"
-"__system__??";"{麦 = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 3:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 10:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 11:";"";""
-"__system__??";"{RND \ 0:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 13:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 15:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 16:";"";""
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"よう、来たか勇者様。";"Hey, you're here, my brave friend.";"Oye, estás aquí, valiente."
-"Big Arthur (talking)";"何の用だよ。";"What do you want?";"¿Qué quieres?"
-"Big Arthur (talking)";"………そんなものは要らない。";"……… don't need that.";"……… No necesitamos eso."
-"Yamamoto Akuji (talking)";"要らないって、金だぞ金。 まさかおめーの世界には通貨ねーのか？";"I don't need it, it's gold. Don't tell me you don't have currency in your world?";"No lo quiero, es oro, oro. ¿No me digas que no tienes moneda en tu mundo?"
-"Big Arthur (talking)";"馬鹿にするな、王国発行の貨幣は 国の隅々まで行き渡っている。";"Don't be fooled, the coinage issued by the Kingdom goes to every corner of the country.";"No te engañes, el dinero emitido por el reino llega a todos los rincones del país."
-"Yamamoto Akuji (talking)";"ならとっとけよ。 こっちで生活すんのに何かと不便だろ？ 必要なモンをこれで買い揃えろや。";"Then keep it. It's not convenient to live here, is it? Use it to buy all the things you need.";"Pues quédate con él. No te conviene vivir aquí, ¿verdad? Utilízalo para comprar todo lo que necesites."
-"Big Arthur (talking)";"……この世界に長居するつもりはない！
-姫をたぶらかした貴様を斃して、 俺はいつか必ず元の世界に帰るんだ！ それを忘れるなっ！！";"…… I will not stay in this world for long!
-I will die the death of you who beguiled the princess, and I will return to my world someday! Don't forget that!";"…… ¡No me quedaré en este mundo por mucho tiempo!
+"character","jap text","Eng","Esp"
+"__system__??","{麦 = 1:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 3:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 10:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 11:","",""
+"__system__??","{RND \ 0:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 13:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 15:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 16:","",""
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","よう、来たか勇者様。","Hey, you're here, my brave friend.","Oye, estás aquí, valiente."
+"Big Arthur (talking)","何の用だよ。","What do you want?","¿Qué quieres?"
+"Big Arthur (talking)","………そんなものは要らない。","……… don't need that.","……… No necesitamos eso."
+"Yamamoto Akuji (talking)","要らないって、金だぞ金。 まさかおめーの世界には通貨ねーのか？","I don't need it, it's gold. Don't tell me you don't have currency in your world?","No lo quiero, es oro, oro. ¿No me digas que no tienes moneda en tu mundo?"
+"Big Arthur (talking)","馬鹿にするな、王国発行の貨幣は 国の隅々まで行き渡っている。","Don't be fooled, the coinage issued by the Kingdom goes to every corner of the country.","No te engañes, el dinero emitido por el reino llega a todos los rincones del país."
+"Yamamoto Akuji (talking)","ならとっとけよ。 こっちで生活すんのに何かと不便だろ？ 必要なモンをこれで買い揃えろや。","Then keep it. It's not convenient to live here, is it? Use it to buy all the things you need.","Pues quédate con él. No te conviene vivir aquí, ¿verdad? Utilízalo para comprar todo lo que necesites."
+"Big Arthur (talking)","……この世界に長居するつもりはない！
+姫をたぶらかした貴様を斃して、 俺はいつか必ず元の世界に帰るんだ！ それを忘れるなっ！！","…… I will not stay in this world for long!
+I will die the death of you who beguiled the princess, and I will return to my world someday! Don't forget that!","…… ¡No me quedaré en este mundo por mucho tiempo!
  ¡Moriré como tú, que sedujiste a la princesa, y volveré a mi mundo algún día! No lo olvides."
-"Yamamoto Akuji (talking)";"へいへい。";"Hey, hey, hey.";"Heihei."
-"Yamamoto Akuji (talking)";"おー、来た来た。 どうよ勇者様、地下の居心地は。";"Oh, here they come. How do you like it downstairs, my brave friend?";"Oh, aquí vienen. ¿Qué te parece abajo, valiente?"
-"Big Arthur (talking)";"くそっ……くそっ、くそおおっ！ 出せ、ここから出せよこの野郎っ！！";"Damn it,…… Damn it, damn it! Get me out, get me out of here, you son of a bitch!";"Joder…… ¡Joder, joder, joder! ¡Sácame, sácame de aquí, bastardo!"
-"Yamamoto Akuji (talking)";"簡単に出す訳ねーだろ。 でなきゃ最初からこんなとこに 閉じこめないって。";"There's no way they'd let him out so easily. Otherwise, they wouldn't have locked us up in this place in the first place.";"No hay manera de que te dejen salir tan fácilmente. De lo contrario, no nos habrían encerrado en este lugar en primer lugar."
-"Big Arthur (talking)";"手も足も枷なんか填めやがってっ！ 外せ、外せ、外せよこの外道っ！！";"You're shackling my hands and feet! Take them off, take them off, take them off, you bastard!";"¡Me estás encadenando las manos y los pies! ¡Quítatelas, quítatelas, quítatelas, cabrón!"
-"Yamamoto Akuji (talking)";"んなの外すわけねーだろ。 おめーの強さじゃ外した途端に 自力で逃げてくじゃねーか。";"There's no way I'm going to miss that. With your strength, as soon as you remove it, it will run away on its own.";"No hay manera de que te lo pierdas. Con tu fuerza, en cuanto falles, huirás por tu cuenta."
-"Big Arthur (talking)";"おっ、俺も姫も、お前たちの世界を わざわざ救ってやろうって思って……！
-なのに……なのに！ こんな目に遭わすのかよっ！！";"Whoa, me and the princess went to all the trouble of saving your world ……!
-And yet, here we are at ……! You can't do this to us!";"¡Vaya, la princesa y yo nos tomamos todas estas molestias para salvar tu mundo ……!
+"Yamamoto Akuji (talking)","へいへい。","Hey, hey, hey.","Heihei."
+"Yamamoto Akuji (talking)","おー、来た来た。 どうよ勇者様、地下の居心地は。","Oh, here they come. How do you like it downstairs, my brave friend?","Oh, aquí vienen. ¿Qué te parece abajo, valiente?"
+"Big Arthur (talking)","くそっ……くそっ、くそおおっ！ 出せ、ここから出せよこの野郎っ！！","Damn it,…… Damn it, damn it! Get me out, get me out of here, you son of a bitch!","Joder…… ¡Joder, joder, joder! ¡Sácame, sácame de aquí, bastardo!"
+"Yamamoto Akuji (talking)","簡単に出す訳ねーだろ。 でなきゃ最初からこんなとこに 閉じこめないって。","There's no way they'd let him out so easily. Otherwise, they wouldn't have locked us up in this place in the first place.","No hay manera de que te dejen salir tan fácilmente. De lo contrario, no nos habrían encerrado en este lugar en primer lugar."
+"Big Arthur (talking)","手も足も枷なんか填めやがってっ！ 外せ、外せ、外せよこの外道っ！！","You're shackling my hands and feet! Take them off, take them off, take them off, you bastard!","¡Me estás encadenando las manos y los pies! ¡Quítatelas, quítatelas, quítatelas, cabrón!"
+"Yamamoto Akuji (talking)","んなの外すわけねーだろ。 おめーの強さじゃ外した途端に 自力で逃げてくじゃねーか。","There's no way I'm going to miss that. With your strength, as soon as you remove it, it will run away on its own.","No hay manera de que te lo pierdas. Con tu fuerza, en cuanto falles, huirás por tu cuenta."
+"Big Arthur (talking)","おっ、俺も姫も、お前たちの世界を わざわざ救ってやろうって思って……！
+なのに……なのに！ こんな目に遭わすのかよっ！！","Whoa, me and the princess went to all the trouble of saving your world ……!
+And yet, here we are at ……! You can't do this to us!","¡Vaya, la princesa y yo nos tomamos todas estas molestias para salvar tu mundo ……!
 Y sin embargo, ¡estás en ……! ¡No puedes hacernos esto!"
-"Yamamoto Akuji (talking)";"いや、別に最初から こんな目に遭わせてやるぜゲヘヘとか 思ってた訳じゃなくてな。";"No, it's not that I was thinking, “I'm going to make you suffer like this from the start,” or anything like that.";"No, no es que pensara desde el principio, 'te voy a hacer pasar por esto, gehehe' o algo así."
-"Big Arthur (talking)";"腐ってる……腐ってやがる！！ この世界の連中はどいつもこいつもっ！
-このクソ小悪党がっ！！ 俺がいつまでもこうしてると思うなよ！";"It's rotten…… rotten! Every single one of them in this world!
-You fucking little scoundrels! Don't think I'm going to be like this forever!";"¡Están podridos…… podridos! ¡Hasta el último de ellos en este mundo!
+"Yamamoto Akuji (talking)","いや、別に最初から こんな目に遭わせてやるぜゲヘヘとか 思ってた訳じゃなくてな。","No, it's not that I was thinking, “I'm going to make you suffer like this from the start,” or anything like that.","No, no es que pensara desde el principio, 'te voy a hacer pasar por esto, gehehe' o algo así."
+"Big Arthur (talking)","腐ってる……腐ってやがる！！ この世界の連中はどいつもこいつもっ！
+このクソ小悪党がっ！！ 俺がいつまでもこうしてると思うなよ！","It's rotten…… rotten! Every single one of them in this world!
+You fucking little scoundrels! Don't think I'm going to be like this forever!","¡Están podridos…… podridos! ¡Hasta el último de ellos en este mundo!
  ¡Malditos sinvergüenzas! No creo que deje de hacerlo nunca."
-"Yamamoto Akuji (talking)";"クソとか外道とか腐ってるとか小悪党とか もう言いたい放題だな……
-なー、 勇者ってのは口が悪いもんなのか？";"You can say shit, outcasts, rotten, small-time crooks, and all the other things you want to say now……
-Hey, do brave men have a bad mouth?";"Puedes decir mierda, parias, podridos, pequeños villanos, todo lo que quieras ya……
+"Yamamoto Akuji (talking)","クソとか外道とか腐ってるとか小悪党とか もう言いたい放題だな……
+なー、 勇者ってのは口が悪いもんなのか？","You can say shit, outcasts, rotten, small-time crooks, and all the other things you want to say now……
+Hey, do brave men have a bad mouth?","Puedes decir mierda, parias, podridos, pequeños villanos, todo lo que quieras ya……
 Oye, ¿los hombres valientes tienen mala boca?"
-"Big Arthur (talking)";"絶対……絶対に、 俺は貴様を斃してやるからなーッ！！
-絶対に斃して貴様の（自主規制）を グチャグチャに踏み潰してやるーッ！！";"I swear to ……, I'm going to kill you!
-I'm going to kill you and stomp your (self-imposed restriction) into a pulp!";"¡Juro por Dios, ……, que te voy a matar!
+"Big Arthur (talking)","絶対……絶対に、 俺は貴様を斃してやるからなーッ！！
+絶対に斃して貴様の（自主規制）を グチャグチャに踏み潰してやるーッ！！","I swear to ……, I'm going to kill you!
+I'm going to kill you and stomp your (self-imposed restriction) into a pulp!","¡Juro por Dios, ……, que te voy a matar!
  ¡Te voy a matar, te voy a hacer pedazos!"
-"Yamamoto Akuji (talking)";"……勇者って、ヤな奴だなー……";"…… Brave guy is a jerk… ……";"…… El tipo valiente es un yahoo……"
-"Yamamoto Akuji (talking)";"よう、勇者様。ご機嫌はどうだ？";"Hello, my hero. How are you?";"Hola, héroe. ¿Cómo estás?"
-"Big Arthur (talking)";"最悪に決まってるだろうが！ 解ってることを訊くなよっ！！";"Of course it sucks! Don't ask me what I know!";"¡Claro que es malo! ¡No me preguntes lo que sé!"
-"Yamamoto Akuji (talking)";"……はあ、さいですか。";"…… is Oh, Sai?";"…… es ah, sai?"
-"Big Arthur (talking)";"＜バード＞ 　全く、主が元気なのはいいが 　四六時中こうだと煩くてかなわん……";"＜I'm glad the Lord is well, but it's hard to be bothered when he's like this all the time……";"<Pájaro> No me importa que el señor esté bien, pero es molesto cuando está así todo el tiempo……"
-"Yamamoto Akuji (talking)";"……………… なー、勇者様は腹話術も上手いのか？";"……………… Hey, are you a good ventriloquist too, brave man?";"……………… Oye, ¿también eres un buen ventrílocuo, valiente?"
-"Big Arthur (talking)";"＜バード＞ 　これでも一応命を持っている。 　この世界では奇妙なことらしいがな。";"<Bird> Even so, it has a life of its own. 　I hear it's a strange thing in this world.";"<Pájaro> Aun así, tiene vida propia. 　He oído que es una cosa extraña en este mundo."
-"Yamamoto Akuji (talking)";"はー、生きてる鎧か。 すげーな、さすがファンタジー。
-しかしおめー落ち着いてんな。 諦めてんのか？";"Ha, living armor. Wow, that's a fantasy.
-But you're so calm. Have you given up?";"Ja, armadura viva. Increíble, en eso consiste la fantasía.
+"Yamamoto Akuji (talking)","……勇者って、ヤな奴だなー……","…… Brave guy is a jerk… ……","…… El tipo valiente es un yahoo……"
+"Yamamoto Akuji (talking)","よう、勇者様。ご機嫌はどうだ？","Hello, my hero. How are you?","Hola, héroe. ¿Cómo estás?"
+"Big Arthur (talking)","最悪に決まってるだろうが！ 解ってることを訊くなよっ！！","Of course it sucks! Don't ask me what I know!","¡Claro que es malo! ¡No me preguntes lo que sé!"
+"Yamamoto Akuji (talking)","……はあ、さいですか。","…… is Oh, Sai?","…… es ah, sai?"
+"Big Arthur (talking)","＜バード＞ 　全く、主が元気なのはいいが 　四六時中こうだと煩くてかなわん……","＜I'm glad the Lord is well, but it's hard to be bothered when he's like this all the time……","<Pájaro> No me importa que el señor esté bien, pero es molesto cuando está así todo el tiempo……"
+"Yamamoto Akuji (talking)","……………… なー、勇者様は腹話術も上手いのか？","……………… Hey, are you a good ventriloquist too, brave man?","……………… Oye, ¿también eres un buen ventrílocuo, valiente?"
+"Big Arthur (talking)","＜バード＞ 　これでも一応命を持っている。 　この世界では奇妙なことらしいがな。","<Bird> Even so, it has a life of its own. 　I hear it's a strange thing in this world.","<Pájaro> Aun así, tiene vida propia. 　He oído que es una cosa extraña en este mundo."
+"Yamamoto Akuji (talking)","はー、生きてる鎧か。 すげーな、さすがファンタジー。
+しかしおめー落ち着いてんな。 諦めてんのか？","Ha, living armor. Wow, that's a fantasy.
+But you're so calm. Have you given up?","Ja, armadura viva. Increíble, en eso consiste la fantasía.
 Pero estás muy tranquilo. ¿Te has rendido?"
-"Big Arthur (talking)";"＜バード＞ 　私はこの世に世を受けて以来、 　二百五十六人の勇者と付き合ってきた。
+"Big Arthur (talking)","＜バード＞ 　私はこの世に世を受けて以来、 　二百五十六人の勇者と付き合ってきた。
  ＜バード＞ 　正義の味方が悪の手に落ちるなど、 　一度や二度は必ずあるものだ。
  ＜バード＞ 　もっとも、このような異世界の小悪党に 　捕まった経験は初めてだがな……
 このクサレ鎧っ！ こんな小悪党に捕まる俺が未熟だって そう言いたいのかよっ！
- ＜バード＞ 　やれやれ、こんな状況で 　味方同士口論してどうするのだ……";"＜Since I came into this world, I have had the company of two hundred and fifty-six brave men.
+ ＜バード＞ 　やれやれ、こんな状況で 　味方同士口論してどうするのだ……","＜Since I came into this world, I have had the company of two hundred and fifty-six brave men.
  ＜There's always been a time or two when the righteous have fallen into the wrong hands.
  ＜I've never experienced being caught by such a small-time villain from another world……
 You cussed armor! Are you trying to tell me that I'm immature for getting caught by such a small villain?
- ＜Good grief, what are you doing arguing amongst yourselves in a situation like this? ……";"＜Desde que vine a este mundo, he estado en compañía de doscientos cincuenta y seis hombres valientes.
+ ＜Good grief, what are you doing arguing amongst yourselves in a situation like this? ……","＜Desde que vine a este mundo, he estado en compañía de doscientos cincuenta y seis hombres valientes.
  ＜Bird: Siempre ha habido una o dos veces en que los justos han caído en las manos equivocadas.
  <Pájaro> Nunca había experimentado ser atrapado por estos villanos de otro mundo……
  ¡Maldita armadura! ¿Quieres decirme que soy inmaduro por dejarme atrapar por este pequeño villano?
  ＜Bird: Dios mío, ¿qué hacéis discutiendo entre vosotros en una situación como esta? ……"
-"Yamamoto Akuji (talking)";"……どうでもいいんだが、 俺はすっかり小悪党かよ……";"……I don't care, I'm totally a smalltime villain……";"…… Me importa una mierda, soy totalmente un ladrón de poca monta……"
-"Yamamoto Akuji (talking)";"よう、勇者様。";"Hello, my brave friend.";"Hola, hombre valiente."
-"Big Arthur (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"今日は静かだな。いい加減疲れたか？";"You're quiet today. Are you tired enough?";"Hoy estás tranquilo. ¿Estás cansado para siempre?"
-"Big Arthur (talking)";"……姫様に会わせろ。";"…… Meet the Princess.";"…… Conoce a la princesa."
-"Yamamoto Akuji (talking)";"は？";"Huh?";"¿Ja?"
-"Big Arthur (talking)";"以前、貴様が姫をこの牢から 連れ出した事は知っている。 そして牢に戻されていない事も……
-姫様は無事なのか…… 無事なら会わせてくれ……！";"We know that you have taken the princess out of this prison before. And that you have not returned her to her prison……
-Is the princess safe?…… If she is, let me see her……!";"Sabemos que ya has sacado a la princesa de esta prisión. Y que no ha sido devuelta a su prisión……
+"Yamamoto Akuji (talking)","……どうでもいいんだが、 俺はすっかり小悪党かよ……","……I don't care, I'm totally a smalltime villain……","…… Me importa una mierda, soy totalmente un ladrón de poca monta……"
+"Yamamoto Akuji (talking)","よう、勇者様。","Hello, my brave friend.","Hola, hombre valiente."
+"Big Arthur (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","今日は静かだな。いい加減疲れたか？","You're quiet today. Are you tired enough?","Hoy estás tranquilo. ¿Estás cansado para siempre?"
+"Big Arthur (talking)","……姫様に会わせろ。","…… Meet the Princess.","…… Conoce a la princesa."
+"Yamamoto Akuji (talking)","は？","Huh?","¿Ja?"
+"Big Arthur (talking)","以前、貴様が姫をこの牢から 連れ出した事は知っている。 そして牢に戻されていない事も……
+姫様は無事なのか…… 無事なら会わせてくれ……！","We know that you have taken the princess out of this prison before. And that you have not returned her to her prison……
+Is the princess safe?…… If she is, let me see her……!","Sabemos que ya has sacado a la princesa de esta prisión. Y que no ha sido devuelta a su prisión……
  ¿Está la princesa a salvo?…… Si lo está, déjame verla……"
-"Yamamoto Akuji (talking)";"なるほど、 カリコリルリがいなくなって心配で、 いつもの元気が出ないって訳か。
-いいぜ、連れてきてやる。 ちーっと待ってな。";"I see. So you're worried about Carikoriluri being gone, and you're not feeling your usual energy.
-No problem, I'll bring him back. Just wait a bit.";"Ya veo, así que te preocupa que Carikoriluri se haya ido y no sientes tu energía habitual.
+"Yamamoto Akuji (talking)","なるほど、 カリコリルリがいなくなって心配で、 いつもの元気が出ないって訳か。
+いいぜ、連れてきてやる。 ちーっと待ってな。","I see. So you're worried about Carikoriluri being gone, and you're not feeling your usual energy.
+No problem, I'll bring him back. Just wait a bit.","Ya veo, así que te preocupa que Carikoriluri se haya ido y no sientes tu energía habitual.
 Bien, lo traeré de vuelta. Espera un poco."
-"Big Arthur (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"……おう、待たせたな。";"…… Oh, thanks for the wait.";"…… Oh, me has hecho esperar."
-"Carikoriluri (talking)";"……お久しぶり、アーサ。";"…… long time no see, Ursa.";"…… Cuánto tiempo sin verte, Ursa."
-"Big Arthur (talking)";"ひ、姫！　ご無事で………………";"Hi, Princess!　Be safe and ………………";"¡Hola, princesa!　Tengan cuidado………………"
-"narrator";"──だが、カリコリルリを見たアーサは 自分の目を疑った。
-カリコリルリは「ぴとっ」と悪司にくっつき、 嬉しそうに微笑んでいたのである──";"But when Aasa saw Carikoriluri, she couldn't believe her eyes.
-Carikoriluri was “snuggled” up to Akuji, smiling happily…";"Pero cuando Aasa vio a Carikoriluri, no podía creer lo que veían sus ojos.
+"Big Arthur (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","……おう、待たせたな。","…… Oh, thanks for the wait.","…… Oh, me has hecho esperar."
+"Carikoriluri (talking)","……お久しぶり、アーサ。","…… long time no see, Ursa.","…… Cuánto tiempo sin verte, Ursa."
+"Big Arthur (talking)","ひ、姫！　ご無事で………………","Hi, Princess!　Be safe and ………………","¡Hola, princesa!　Tengan cuidado………………"
+"narrator","──だが、カリコリルリを見たアーサは 自分の目を疑った。
+カリコリルリは「ぴとっ」と悪司にくっつき、 嬉しそうに微笑んでいたのである──","But when Aasa saw Carikoriluri, she couldn't believe her eyes.
+Carikoriluri was “snuggled” up to Akuji, smiling happily…","Pero cuando Aasa vio a Carikoriluri, no podía creer lo que veían sus ojos.
 Carikoriluri se había “acurrucado” con Akuji y sonreía felizmente…"
-"Big Arthur (talking)";"………………ひ、姫……？ 一体、何を…………";"………………ひ,姫 ……? 一體、何を…………";"………………ひ, 姫 ……? 一體、何を…………"
-"Carikoriluri (talking)";"……？　なあに、アーサ。";"……?　Hey, Ursa.";"……?　Hola, Ursa."
-"Big Arthur (talking)";"そ、そのような小悪党とくっついて……！ 腕なんか絡ませて、胸も押しつけて！！";"Oh, you stick with those little rascals ……! You've got your arms around him, you've got your breasts pressed against him!";"¡Oh, te quedas con esos pequeños bribones ……! ¡Tienes tus brazos alrededor de él, tienes tus pechos presionados contra su pecho!"
-"Yamamoto Akuji (talking)";"何だよ、スケベなやっちゃなー。 おめーもカリコリルリの胸を 押しつけられたいのか？";"What a dirty little thing you are. Do you want to have Carikoriluri's breasts pressed against yours?";"Qué cosa más sucia has hecho. ¿Quieres los pechos de Carikoriluri presionados contra los tuyos?"
-"Big Arthur (talking)";"誰がそんなことを言っている！ 貴様、姫に何をしやがったんだっ！";"Who said that? What have you done to the princess?";"¿Quién dice eso? ¿Qué le has hecho a la princesa?"
-"Carikoriluri (talking)";"別に特別なことはされてないわよ……？
- ……ねえ、悪司さん。 男と女なら誰でもすることですよね……？";"They didn't do anything special to me……?…… Hey, Akuji. It's what any man and woman would do,……?";"No te han hecho nada especial……?…… Hola, Akuji. Es lo que haría cualquier hombre y mujer……?"
-"Yamamoto Akuji (talking)";"まーな。";"Mana.";"Mana."
-"Big Arthur (talking)";"ひ、姫、何を言って…………";"Hi, Princess, what did you say …………";"Hola, princesa, ¿qué dices? …………"
-"Carikoriluri (talking)";"私ね、アーサ。 悪司さんとお友達になってしまったの。
+"Big Arthur (talking)","………………ひ、姫……？ 一体、何を…………","………………ひ,姫 ……? 一體、何を…………","………………ひ, 姫 ……? 一體、何を…………"
+"Carikoriluri (talking)","……？　なあに、アーサ。","……?　Hey, Ursa.","……?　Hola, Ursa."
+"Big Arthur (talking)","そ、そのような小悪党とくっついて……！ 腕なんか絡ませて、胸も押しつけて！！","Oh, you stick with those little rascals ……! You've got your arms around him, you've got your breasts pressed against him!","¡Oh, te quedas con esos pequeños bribones ……! ¡Tienes tus brazos alrededor de él, tienes tus pechos presionados contra su pecho!"
+"Yamamoto Akuji (talking)","何だよ、スケベなやっちゃなー。 おめーもカリコリルリの胸を 押しつけられたいのか？","What a dirty little thing you are. Do you want to have Carikoriluri's breasts pressed against yours?","Qué cosa más sucia has hecho. ¿Quieres los pechos de Carikoriluri presionados contra los tuyos?"
+"Big Arthur (talking)","誰がそんなことを言っている！ 貴様、姫に何をしやがったんだっ！","Who said that? What have you done to the princess?","¿Quién dice eso? ¿Qué le has hecho a la princesa?"
+"Carikoriluri (talking)","別に特別なことはされてないわよ……？
+ ……ねえ、悪司さん。 男と女なら誰でもすることですよね……？","They didn't do anything special to me……?…… Hey, Akuji. It's what any man and woman would do,……?","No te han hecho nada especial……?…… Hola, Akuji. Es lo que haría cualquier hombre y mujer……?"
+"Yamamoto Akuji (talking)","まーな。","Mana.","Mana."
+"Big Arthur (talking)","ひ、姫、何を言って…………","Hi, Princess, what did you say …………","Hola, princesa, ¿qué dices? …………"
+"Carikoriluri (talking)","私ね、アーサ。 悪司さんとお友達になってしまったの。
 だから、 悪司さんが強い仲間が欲しいって気持ち、 すごくよく解るの……
-ねっ、アーサも悪司さんの お友達になってあげて。お願い……";"It's me, Aasa. I've become friends with Akuji.
+ねっ、アーサも悪司さんの お友達になってあげて。お願い……","It's me, Aasa. I've become friends with Akuji.
 So I understand how you want to have a strong friend……
-Please be Akuji's friend, Aasa. Please ……";"Soy yo, Aasa. Me he hecho amigo de Akuji.
+Please be Akuji's friend, Aasa. Please ……","Soy yo, Aasa. Me he hecho amigo de Akuji.
 Así que realmente entiendo por qué Akuji quiere un amigo fuerte……
 Por favor, sé amigo de Akuji, Aasa. Por favor, ……"
-"Big Arthur (talking)";"ばっ…………馬鹿な馬鹿な、馬鹿な！ そんな事がある訳は…………！！";"Bak………… stupid, stupid, stupid! How can that be …………!!!!";"Bak………… ¡estúpido, estúpido, estúpido! ¿Cómo puede ser eso …………?"
-"Big Arthur (thinking)";"＜バード＞ 　……落ち着け、未熟者。 　今は姫の言う通りにしろ。
+"Big Arthur (talking)","ばっ…………馬鹿な馬鹿な、馬鹿な！ そんな事がある訳は…………！！","Bak………… stupid, stupid, stupid! How can that be …………!!!!","Bak………… ¡estúpido, estúpido, estúpido! ¿Cómo puede ser eso …………?"
+"Big Arthur (thinking)","＜バード＞ 　……落ち着け、未熟者。 　今は姫の言う通りにしろ。
 なっ、バードまで何を……！ 姫はきっと、あの小悪党に何かされて……
  ＜バード＞ 　いや、姫は正気だ、間違いない。
  ＜バード＞ 　何かがおかしいのは事実だが、 　私の魔眼にも異常は映っておらぬ。
  ＜バード＞ 　だが、姫が正気であれば機会はある。 　いつかこの状態から醒める時も来る。
  ＜バード＞ 　まずは自由になるのが先決だ。 　貴様も勇者なら耐えろ、耐えるのだ。
- ………………くっ…………！";"<Bird>…… Calm down, immature. 　Now do as the princess says.
+ ………………くっ…………！","<Bird>…… Calm down, immature. 　Now do as the princess says.
 What are you doing…… until Bird! I'm sure the princess has been…… by something that little rascal did to her.
  ＜Bird: No, she's sane, I'm sure of it.
  ＜Something is wrong, it is true, but even my evil eye does not see it.
  ＜But if she is sane, she has a chance. 　There will come a time when she will awaken from this state.
- ＜Bird: First, you must be free. 　If you are a brave man, you must endure, you must endure.……………… and……… You must endure…!";"<Pájaro>…… Cálmate, inmaduro. 　Ahora haz lo que dice la princesa.
+ ＜Bird: First, you must be free. 　If you are a brave man, you must endure, you must endure.……………… and……… You must endure…!","<Pájaro>…… Cálmate, inmaduro. 　Ahora haz lo que dice la princesa.
  ¡No, lo que…… incluso Bird! Estoy seguro de que la princesa ha hecho algo para…… ese pequeño bribón.
  ＜Bird: No, está cuerda, estoy seguro.
  ＜Es cierto que algo está mal, pero ni siquiera mi mal de ojo lo ve.
  ＜Pero si está cuerda, tiene una oportunidad. 　Un día, despertará de este estado.
  ＜Bird: En primer lugar, debes ser libre. 　Si eres un hombre valiente, debes soportar, debes aguantar.……………… y……… Eres un hombre valiente, debes aguantar."
-"Yamamoto Akuji (talking)";"……何だ？　急に黙り込んで。";"…… What is it?　Suddenly shut up.";"…… ¿Qué es?　De repente, cállate."
-"Carikoriluri (talking)";"ええと、バードと心で相談してるのかな。 魔法の一種です、何を話してるのかは 解りませんけど。";"Uh, I think he's consulting with Bird's mind. It's a kind of magic, though I don't know what they're talking about.";"Creo que está consultando con Bird y su mente. Es una especie de magia, aunque no sé de qué hablan."
-"Carikoriluri (thinking)";"…………悪司さん、私、二人の話を 盗み聞きしましょうか……？ できないことはないですけど……";"…………Akuji, would you like me to eavesdrop on what you two are saying ……? There's nothing I can't do……";"…………Akuji, ¿quieres que escuche lo que estáis diciendo ……? No hay nada que no pueda hacer……"
-"Yamamoto Akuji (talking)";"……いや、カリコリルリ。 顔見りゃ解る、話は終わったみてーだぜ。
-よう、勇者様。 俺の部下になってくんねーかな？";"…… No, Carikoriluri. I can tell by your face, I think we're done here.
-Hey there, brave man. Will you be my subordinate?";"…… No, Carikoriluri. Lo puedo ver en tu cara, creo que ya hemos terminado de hablar de ello.
+"Yamamoto Akuji (talking)","……何だ？　急に黙り込んで。","…… What is it?　Suddenly shut up.","…… ¿Qué es?　De repente, cállate."
+"Carikoriluri (talking)","ええと、バードと心で相談してるのかな。 魔法の一種です、何を話してるのかは 解りませんけど。","Uh, I think he's consulting with Bird's mind. It's a kind of magic, though I don't know what they're talking about.","Creo que está consultando con Bird y su mente. Es una especie de magia, aunque no sé de qué hablan."
+"Carikoriluri (thinking)","…………悪司さん、私、二人の話を 盗み聞きしましょうか……？ できないことはないですけど……","…………Akuji, would you like me to eavesdrop on what you two are saying ……? There's nothing I can't do……","…………Akuji, ¿quieres que escuche lo que estáis diciendo ……? No hay nada que no pueda hacer……"
+"Yamamoto Akuji (talking)","……いや、カリコリルリ。 顔見りゃ解る、話は終わったみてーだぜ。
+よう、勇者様。 俺の部下になってくんねーかな？","…… No, Carikoriluri. I can tell by your face, I think we're done here.
+Hey there, brave man. Will you be my subordinate?","…… No, Carikoriluri. Lo puedo ver en tu cara, creo que ya hemos terminado de hablar de ello.
 Hola, héroe. ¿Quieres ser mi subordinado?"
-"Big Arthur (talking)";"………………いいだろう…… それしか道はなさそうだしな……";"……………… okay…… that seems to be the only way to go……";"……………… vale…… parece que es el único camino a seguir……"
-"Carikoriluri (talking)";"……本当に！？ 有り難うアーサ！！";"…… Really! Thank you Ursa!";"…… ¡De verdad! ¡Gracias, Ursa!"
-"Big Arthur (talking)";"う……うわっ、姫っ……？！ だ、抱きつかないで…………";"U…… oh my god, princess……? Don't hug me! …………";"U…… oh dios mío, ¿princesa……? ¡No me abraces! …………"
-"Yamamoto Akuji (talking)";"ま、とにかく万々歳だ。 よろしくな、勇者様。";"Well, all the best anyway. Best regards, my brave friend.";"Bueno, de todos modos, todo lo mejor. Saludos cordiales, mi valiente amigo."
-"Big Arthur (talking)";"く……くそっ、 これで勝ったと思うな小悪党っ……！
-いつか必ず貴様のからくりを見破って、 俺は姫の心を奪い返してみせる！";"Damn ……, don't think you've won now, you little rascal!
-Someday I'll surely see through your trickery and win back the princess's heart!";"Maldito ……, ¡no crees que has ganado, pequeño villano!
+"Big Arthur (talking)","………………いいだろう…… それしか道はなさそうだしな……","……………… okay…… that seems to be the only way to go……","……………… vale…… parece que es el único camino a seguir……"
+"Carikoriluri (talking)","……本当に！？ 有り難うアーサ！！","…… Really! Thank you Ursa!","…… ¡De verdad! ¡Gracias, Ursa!"
+"Big Arthur (talking)","う……うわっ、姫っ……？！ だ、抱きつかないで…………","U…… oh my god, princess……? Don't hug me! …………","U…… oh dios mío, ¿princesa……? ¡No me abraces! …………"
+"Yamamoto Akuji (talking)","ま、とにかく万々歳だ。 よろしくな、勇者様。","Well, all the best anyway. Best regards, my brave friend.","Bueno, de todos modos, todo lo mejor. Saludos cordiales, mi valiente amigo."
+"Big Arthur (talking)","く……くそっ、 これで勝ったと思うな小悪党っ……！
+いつか必ず貴様のからくりを見破って、 俺は姫の心を奪い返してみせる！","Damn ……, don't think you've won now, you little rascal!
+Someday I'll surely see through your trickery and win back the princess's heart!","Maldito ……, ¡no crees que has ganado, pequeño villano!
 Algún día me daré cuenta de tu engaño y recuperaré el corazón de la princesa."
-"Yamamoto Akuji (talking)";"いきがんのはいーけどさ、 カリコリルリの胸に顔埋めて、 キスの雨受けながら言う台詞か？";"I'm sorry, but is that what you say when you bury your face in Carikoriluri's chest and get rained kisses on your face?";"Lo siento, pero ¿es eso lo que dices cuando entierras tu cara en el pecho de Carikoriluri y te llueven besos en la cara?"
-"Big Arthur (talking)";"こっ、こんな姫は姫じゃなーいっ！ 俺は認めないぞーーーーーっ！！";"This princess is not a princess! I don't approve!";"¡Esta princesa no es una princesa! ¡No lo apruebo!"
-"Yamamoto Akuji (talking)";"いろいろ覚えて可愛くなったのになー、 素直に喜べよ、おめー。";"You've learned so many things and become so cute… You should be honestly happy, dude.";"Has aprendido muchas cosas, te has puesto muy guapa, sé honesta y feliz, amiga."
-"Yamamoto Akuji (talking)";"なあ、俺の部下になる気ねーか？";"Hey, you wanna be my guy?";"Oye, no quieres ser mi hombre, ¿verdad?"
-"Big Arthur (talking)";"部下……だって？";"You said your man ……?";"Mi hombre…… dijo…"
-"Yamamoto Akuji (talking)";"おう、おめーはかなり強いしな。
-この世界も喧嘩だ何だと忙しくてよ、 勇者様の力を貸してもらえるんなら……";"Oh, you're pretty strong.
-This world is also busy with fights and stuff, so if you can help me out, I'd be happy to help you out, brave man……";"Oh, eres bastante fuerte.
+"Yamamoto Akuji (talking)","いきがんのはいーけどさ、 カリコリルリの胸に顔埋めて、 キスの雨受けながら言う台詞か？","I'm sorry, but is that what you say when you bury your face in Carikoriluri's chest and get rained kisses on your face?","Lo siento, pero ¿es eso lo que dices cuando entierras tu cara en el pecho de Carikoriluri y te llueven besos en la cara?"
+"Big Arthur (talking)","こっ、こんな姫は姫じゃなーいっ！ 俺は認めないぞーーーーーっ！！","This princess is not a princess! I don't approve!","¡Esta princesa no es una princesa! ¡No lo apruebo!"
+"Yamamoto Akuji (talking)","いろいろ覚えて可愛くなったのになー、 素直に喜べよ、おめー。","You've learned so many things and become so cute… You should be honestly happy, dude.","Has aprendido muchas cosas, te has puesto muy guapa, sé honesta y feliz, amiga."
+"Yamamoto Akuji (talking)","なあ、俺の部下になる気ねーか？","Hey, you wanna be my guy?","Oye, no quieres ser mi hombre, ¿verdad?"
+"Big Arthur (talking)","部下……だって？","You said your man ……?","Mi hombre…… dijo…"
+"Yamamoto Akuji (talking)","おう、おめーはかなり強いしな。
+この世界も喧嘩だ何だと忙しくてよ、 勇者様の力を貸してもらえるんなら……","Oh, you're pretty strong.
+This world is also busy with fights and stuff, so if you can help me out, I'd be happy to help you out, brave man……","Oh, eres bastante fuerte.
 Este mundo también está ocupado con peleas y cosas, así que si puedes ayudarme, valiente, estaré encantado de ayudarte……"
-"Big Arthur (talking)";"何考えてんだこのウスラトンカチっ！！ 誰が貴様みたいな小悪党に手を貸すか！";"What the hell are you thinking, you little shit! Who would help a little villain like you!";"¿En qué demonios estás pensando, mierdecilla? ¿Quién ayudaría a un pequeño villano como tú?"
-"Yamamoto Akuji (talking)";"…………あっそ、そりゃ残念。";"………… Oh, that's too bad.";"………… Oh, es una pena."
-"Yamamoto Akuji (thinking)";"うーん、濡れ衣だろうと何だろうと おっ被せるのは簡単なんだが……
+"Big Arthur (talking)","何考えてんだこのウスラトンカチっ！！ 誰が貴様みたいな小悪党に手を貸すか！","What the hell are you thinking, you little shit! Who would help a little villain like you!","¿En qué demonios estás pensando, mierdecilla? ¿Quién ayudaría a un pequeño villano como tú?"
+"Yamamoto Akuji (talking)","…………あっそ、そりゃ残念。","………… Oh, that's too bad.","………… Oh, es una pena."
+"Yamamoto Akuji (thinking)","うーん、濡れ衣だろうと何だろうと おっ被せるのは簡単なんだが……
 何せこいつ、異世界人だしなあ。 戸籍とかない訳だし、後で何かと 面倒な事になるかもしれん…………
- ……いっそ始末すっか、後腐れねぇし。 来週にでも殺っちまおう。";"Well, it's easy to put a false accusation or whatever on someone's head……
-But he is from another world, after all. He doesn't have a family register or anything, so he might get into trouble later on……………… I might as well just end up Hajime, there's no lasting effects. I'll Satsu next week.";"Bueno, es fácil ponerle una acusación falsa o lo que sea……
+ ……いっそ始末すっか、後腐れねぇし。 来週にでも殺っちまおう。","Well, it's easy to put a false accusation or whatever on someone's head……
+But he is from another world, after all. He doesn't have a family register or anything, so he might get into trouble later on……………… I might as well just end up Hajime, there's no lasting effects. I'll Satsu next week.","Bueno, es fácil ponerle una acusación falsa o lo que sea……
 Después de todo, es de otro mundo. No tiene registro familiar ni nada, así que podría tener problemas más adelante……………… Podría acabar con él Hajime, no hay efectos duraderos. Yo sólo Satsu la semana que viene."
-"narrator";"その日、アーサとカリコリルリは 二人で地域巡回に出ていたのだが──";"That day, Aasa and Carikoriluri were out on a routine patrol of the area.";"Ese día, Aasa y Carikoriluri salieron juntos en una patrulla comunitaria."
-"Big Arthur (talking)";"………………
+"narrator","その日、アーサとカリコリルリは 二人で地域巡回に出ていたのだが──","That day, Aasa and Carikoriluri were out on a routine patrol of the area.","Ese día, Aasa y Carikoriluri salieron juntos en una patrulla comunitaria."
+"Big Arthur (talking)","………………
 それらしい気配はないな。 バード、お前はどう思う？
  ＜バード＞ 　罠などではなさそうだ。 　危機らしいものは何も感じられぬ。
 そうか、お前もか。
 俺たちだけで見張りもつけずに 外へ出すなんてな…… あの小悪党め、迂闊な真似を。
  ＜バード＞ 　街を支配している自信故か…… 　いや、我らの事を信用してなのか……
 どっちにしろ、 行動するなら今しかないぜ。
- ＜バード＞ 　……そうだな。 　我らの世界へ戻るために。";"………………
+ ＜バード＞ 　……そうだな。 　我らの世界へ戻るために。","………………
 I don't see any sign of that. Bird, what do you think?
  ＜Bird: It doesn't look like a trap or anything like that. 　I don't sense anything resembling a crisis.
 Oh, yeah, you too.
 You let us go out there alone and unguarded…… That little rascal was careless.
  ＜Is it because of his confidence in his control of the city?…… Or is it because he trusts us?
 Either way, it's now or never.
- <Bird>…… is right. 　To return to our world.";"………………
+ <Bird>…… is right. 　To return to our world.","………………
 No veo ninguna señal de eso. Bird, ¿qué te parece?
  ＜Bird: No parece una trampa. 　No percibo nada parecido a una crisis.
 Oh, sí, tú también.
@@ -182,238 +182,238 @@ Nos dejaste salir solos, sin vigilancia…… Ese pequeño bribón, ha sido muy 
  ＜¿Es por su confianza en el control de la ciudad?…… ¿O es porque confía en nosotros?
 En cualquier caso, es ahora o nunca.
  <Pájaro> ……. 　Para volver a nuestro mundo."
-"Carikoriluri (talking)";"どうしたのアーサ。 バードと二人で内緒話？";"What's the matter, Ursa? Are you and Bird having a private conversation?";"Qué pasa, Aasa. ¿Están tú y Bird teniendo una conversación privada?"
-"Big Arthur (talking)";"姫……";"Princess ……";"Princesa ……"
-"Carikoriluri (talking)";"あっ……もしかして、 また何か悪司さんを困らせようとか 思ってるんじゃない？
-だめよ、悪司さん忙しいんだから。 手を焼かせるような事しないで……ね？";"Oh, ……, maybe you're thinking of doing something to annoy Akuji again?
-No, Akuji is busy. Don't do anything that will make him burn your hand……";"Oh, ……, ¿tal vez estás pensando en hacer algo para molestar a Akuji de nuevo?
+"Carikoriluri (talking)","どうしたのアーサ。 バードと二人で内緒話？","What's the matter, Ursa? Are you and Bird having a private conversation?","Qué pasa, Aasa. ¿Están tú y Bird teniendo una conversación privada?"
+"Big Arthur (talking)","姫……","Princess ……","Princesa ……"
+"Carikoriluri (talking)","あっ……もしかして、 また何か悪司さんを困らせようとか 思ってるんじゃない？
+だめよ、悪司さん忙しいんだから。 手を焼かせるような事しないで……ね？","Oh, ……, maybe you're thinking of doing something to annoy Akuji again?
+No, Akuji is busy. Don't do anything that will make him burn your hand……","Oh, ……, ¿tal vez estás pensando en hacer algo para molestar a Akuji de nuevo?
 No, Akuji está ocupado. No hagas nada que le queme la mano……"
-"Big Arthur (talking)";"手を焼かせるって、姫っ……
+"Big Arthur (talking)","手を焼かせるって、姫っ……
  ＜バード＞ 　口を開けば悪司、悪司か。 　困ったものだ……
  ＜バード＞ 　仕方あるまい、アーサ。 　無理にでも姫を連れていこう。
 で、でもバード、姫にそんな乱暴……
  ＜バード＞ 　今は千載一遇の好機かもしれんのだ。 　多少の無礼を気にする時か？
  …………解ったよ。
-姫、行きましょう。";"You're making me burn my hands, Princess! ……
+姫、行きましょう。","You're making me burn my hands, Princess! ……
  <Bird> You open your mouth and Akuji, Akuji. 　I'm in trouble……
  <Bird> We have no choice, Aasa. 　Let's take the princess by force.
 But, Bird, you can't be so rough with the princess……
  <Bird> This may be a once-in-a-lifetime opportunity. 　Is this the time to worry about a little rudeness?………… understand.
-Let's go, Princess.";"Me estás haciendo quemar las manos, princesa……
+Let's go, Princess.","Me estás haciendo quemar las manos, princesa……
  <Pájaro> Abres la boca y Akuji, Akuji. 　Estoy en problemas……
  <Pájaro> No se puede evitar, Aasa. 　Tomaré a la princesa por la fuerza.
 Pero, Bird, no puedes ser tan violento con la princesa……
  ＜Bird: Esta puede ser una oportunidad única en la vida. 　¿Es el momento de preocuparse por una pequeña grosería?………… Lo entiendo.
 Princesa, vamos."
-"Carikoriluri (talking)";"えっ……ちょ、ちょっと……！？ アーサ、手を引っ張らないでよ！ どこに行く気？";"What…… hey ……! Ursa, don't pull my hand! Where are you going?";"¿Qué?…… ¡Hey, hey ……! ¡Aasa, no me tires de la mano! ¿A dónde vas?"
-"Big Arthur (talking)";"猿田博士の研究所です。 俺たちの世界に戻りましょう。";"This is Dr. Saruta's laboratory. Let's go back to our world.";"Saruta Dr. Instituto. Volvamos a nuestro mundo."
-"Carikoriluri (talking)";"アーサったら…… まだそんな事考えてたの？";"Aasa then…… still thinking about that?";"Si eres una Ursa,…… ¿todavía estás pensando en eso?"
-"Big Arthur (talking)";"そ、そんな事って、姫っ……";"Oh, no, that's not what I meant, Princess……";"Bueno, eso no es lo que quería decir, princesa……"
-"Carikoriluri (talking)";"別に今、生活に不満ないでしょ？ お給料だって充分貰ってるじゃない。
-なのに、雇い主の悪司さんに黙って 仕事放り出して逃げるなんて…… それが勇者のする事なの？";"You are not dissatisfied with your life, are you? You're getting paid enough.
-And yet, you just threw away your job and ran away without telling your employer, Akuji…… Is that what a brave person does?";"No estás descontento con tu vida ahora mismo, ¿verdad? Te pagan lo suficiente.
+"Carikoriluri (talking)","えっ……ちょ、ちょっと……！？ アーサ、手を引っ張らないでよ！ どこに行く気？","What…… hey ……! Ursa, don't pull my hand! Where are you going?","¿Qué?…… ¡Hey, hey ……! ¡Aasa, no me tires de la mano! ¿A dónde vas?"
+"Big Arthur (talking)","猿田博士の研究所です。 俺たちの世界に戻りましょう。","This is Dr. Saruta's laboratory. Let's go back to our world.","Saruta Dr. Instituto. Volvamos a nuestro mundo."
+"Carikoriluri (talking)","アーサったら…… まだそんな事考えてたの？","Aasa then…… still thinking about that?","Si eres una Ursa,…… ¿todavía estás pensando en eso?"
+"Big Arthur (talking)","そ、そんな事って、姫っ……","Oh, no, that's not what I meant, Princess……","Bueno, eso no es lo que quería decir, princesa……"
+"Carikoriluri (talking)","別に今、生活に不満ないでしょ？ お給料だって充分貰ってるじゃない。
+なのに、雇い主の悪司さんに黙って 仕事放り出して逃げるなんて…… それが勇者のする事なの？","You are not dissatisfied with your life, are you? You're getting paid enough.
+And yet, you just threw away your job and ran away without telling your employer, Akuji…… Is that what a brave person does?","No estás descontento con tu vida ahora mismo, ¿verdad? Te pagan lo suficiente.
 Y sin embargo, has tirado tu trabajo y has huido sin decírselo a tu jefe, Akuji…… ¿Es eso lo que hace una persona valiente?"
-"Big Arthur (talking)";"……姫……あ、あなたは…… 本気で言ってるんですかっ…………";"…… princess…… Oh, you're…… being serious…………";"…… Princesa…… Oh, estás…… hablando en serio …………"
-"Carikoriluri (talking)";"本気に決まってるでしょ？";"Of course he's serious, right?";"Debes hablar en serio, ¿verdad?"
-"Big Arthur (talking)";"俺たちの世界が心配じゃないんですか！ 魔王に捕らえられた国王と王妃は！ あなたのご両親はどうするんです！";"Aren't you worried about our world! The king and queen captured by the Demon King! What about your parents?";"¿No te preocupa nuestro mundo? ¡El rey y la reina capturados por el Rey Demonio! ¿Y tus padres?"
-"Carikoriluri (talking)";"少しくらい大丈夫よ…… 私たち、これまで街や村を 魔王軍からたくさん解放したじゃない。
-王国はみんな一丸になって 魔王軍に反抗を始めてたわ。 そんなに心配する程じゃ…………";"It's okay for a little bit…… We have liberated many cities and villages from the Demon Lord's army.
-The whole kingdom of Hami was united in rebellion against the Demon Lord's army. You don't have to worry so much …………";"Está bien, un poco…… Hemos liberado muchas ciudades y pueblos del ejército del Señor de los Demonios.
+"Big Arthur (talking)","……姫……あ、あなたは…… 本気で言ってるんですかっ…………","…… princess…… Oh, you're…… being serious…………","…… Princesa…… Oh, estás…… hablando en serio …………"
+"Carikoriluri (talking)","本気に決まってるでしょ？","Of course he's serious, right?","Debes hablar en serio, ¿verdad?"
+"Big Arthur (talking)","俺たちの世界が心配じゃないんですか！ 魔王に捕らえられた国王と王妃は！ あなたのご両親はどうするんです！","Aren't you worried about our world! The king and queen captured by the Demon King! What about your parents?","¿No te preocupa nuestro mundo? ¡El rey y la reina capturados por el Rey Demonio! ¿Y tus padres?"
+"Carikoriluri (talking)","少しくらい大丈夫よ…… 私たち、これまで街や村を 魔王軍からたくさん解放したじゃない。
+王国はみんな一丸になって 魔王軍に反抗を始めてたわ。 そんなに心配する程じゃ…………","It's okay for a little bit…… We have liberated many cities and villages from the Demon Lord's army.
+The whole kingdom of Hami was united in rebellion against the Demon Lord's army. You don't have to worry so much …………","Está bien, un poco…… Hemos liberado muchas ciudades y pueblos del ejército del Señor de los Demonios.
 Todo el reino de Hami se unió en rebelión contra el ejército del Señor de los Demonios. No deberías preocuparte tanto…………"
-"Big Arthur (talking)";"みんなは持ちこたえるので精一杯です！ 姫が一番解ってるはずです！！";"They're just trying to hold it together! You know that better than anyone!";"¡Sólo intentan aguantar! ¡La princesa sabe más!"
-"Carikoriluri (talking)";"煩いなぁ、もう…… そんなに帰りたいなら先に帰れば？";"You're bothering me already…… If you want to leave so badly, why don't you go home first?";"Ya me estás molestando…… Si tienes tantas ganas de irte, ¿por qué no te vas primero a casa?"
-"Big Arthur (talking)";"何て事を……！ いいから姫、早く行きましょう！";"Oh my God……! Just go, Princess, let's get going!";"Oh, Dios mío. ¡……! ¡Sólo vete, princesa, vamos!"
-"Carikoriluri (talking)";"…………ああもうっ！ 痛い！　引っ張らないでよ、馬鹿っ！！";"………… Oh my god! Ouch!　Don't pull it, you idiot!";"………… ¡Oh Dios! ¡Ay!　¡No lo tires, idiota!"
-"narrator";"　　［……ぱあんっ！］";"[…… paan!]";"[¡…… paan!]"
-"Big Arthur (talking)";"……っ…………
-俺を……叩くんですか。 俺の頬をっ…………";"…… and …………
-Are you going to slap me ……? Slap me on the cheek…………";"…… y …………
+"Big Arthur (talking)","みんなは持ちこたえるので精一杯です！ 姫が一番解ってるはずです！！","They're just trying to hold it together! You know that better than anyone!","¡Sólo intentan aguantar! ¡La princesa sabe más!"
+"Carikoriluri (talking)","煩いなぁ、もう…… そんなに帰りたいなら先に帰れば？","You're bothering me already…… If you want to leave so badly, why don't you go home first?","Ya me estás molestando…… Si tienes tantas ganas de irte, ¿por qué no te vas primero a casa?"
+"Big Arthur (talking)","何て事を……！ いいから姫、早く行きましょう！","Oh my God……! Just go, Princess, let's get going!","Oh, Dios mío. ¡……! ¡Sólo vete, princesa, vamos!"
+"Carikoriluri (talking)","…………ああもうっ！ 痛い！　引っ張らないでよ、馬鹿っ！！","………… Oh my god! Ouch!　Don't pull it, you idiot!","………… ¡Oh Dios! ¡Ay!　¡No lo tires, idiota!"
+"narrator","　　［……ぱあんっ！］","[…… paan!]","[¡…… paan!]"
+"Big Arthur (talking)","……っ…………
+俺を……叩くんですか。 俺の頬をっ…………","…… and …………
+Are you going to slap me ……? Slap me on the cheek…………","…… y …………
  ¿Vas a abofetearme ……? Dame una palmada en la mejilla…………"
-"Carikoriluri (talking)";"ぶって当然でしょうに！ 王国の姫に対して勇者風情が無礼な！
-私は悪司さんのところに居るの！ 今は離れる気なんかない！";"Of course I'm going to beat you! A valiant warrior is rude to the princess of the kingdom!
-I'm staying with Akuji! I'm not leaving now!";"¡Eres un hombre valiente, eres una princesa del reino! ¡Un valiente guerrero es grosero con la princesa del reino!
+"Carikoriluri (talking)","ぶって当然でしょうに！ 王国の姫に対して勇者風情が無礼な！
+私は悪司さんのところに居るの！ 今は離れる気なんかない！","Of course I'm going to beat you! A valiant warrior is rude to the princess of the kingdom!
+I'm staying with Akuji! I'm not leaving now!","¡Eres un hombre valiente, eres una princesa del reino! ¡Un valiente guerrero es grosero con la princesa del reino!
  ¡Estoy con Akuji! ¡No me voy a ir ahora!"
-"Big Arthur (talking)";"……か……カリコリルリっ……！";"…… or ……Carikoriluri!";"¡…… o ……Carikoriluri!"
-"Carikoriluri (talking)";"私を呼び捨てにしたわね……！ この無礼者っ！！";"You called me out on it: ……! You are so rude!!!!";"Me has llamado. ¡……! ¡¡¡¡¡¡¡Bastardo maleducado!!!!!!!"
-"narrator";"カリコリルリは、またアーサの頬を叩こうと 腕を振り上げたが──
- 　　［ぱしんっ……］";"Carikoriluri raised his arm to slap Aasa on the cheek again…
- 　　[……]";"Carikoriluri levantó el brazo para volver a abofetear a Aasa en la mejilla, pero…
+"Big Arthur (talking)","……か……カリコリルリっ……！","…… or ……Carikoriluri!","¡…… o ……Carikoriluri!"
+"Carikoriluri (talking)","私を呼び捨てにしたわね……！ この無礼者っ！！","You called me out on it: ……! You are so rude!!!!","Me has llamado. ¡……! ¡¡¡¡¡¡¡Bastardo maleducado!!!!!!!"
+"narrator","カリコリルリは、またアーサの頬を叩こうと 腕を振り上げたが──
+ 　　［ぱしんっ……］","Carikoriluri raised his arm to slap Aasa on the cheek again…
+ 　　[……]","Carikoriluri levantó el brazo para volver a abofetear a Aasa en la mejilla, pero…
  　　[……]"
-"Carikoriluri (talking)";"…………っ、あ……
-あ、アーサ……あなた………… 私を叩いたわねっ…………！";"Oh …………, oh ……
-Ah, Ursa…… you………… beat me,…… ……!";"Oh, …………, oh, ……
+"Carikoriluri (talking)","…………っ、あ……
+あ、アーサ……あなた………… 私を叩いたわねっ…………！","Oh …………, oh ……
+Ah, Ursa…… you………… beat me,…… ……!","Oh, …………, oh, ……
 Oh, Ursa…… me has ganado,…… ¡……!"
-"Big Arthur (talking)";"ああ、叩いたさ。 ……叩く価値もない女だけどな。";"Yeah, I did slap her. She's not worth a…… slap, though.";"Sí, la abofeteé…… Sin embargo, no vale la pena abofetear."
-"Carikoriluri (talking)";"さ、最低っ……！ あなたどういうつもりで…………";"Oh, you're disgusting! ……! What the hell do you think you're doing …………";"¡Oh, Dios, ……! ¿Qué crees que eres …………"
-"narrator";"　　［ぱあんっ……］";"[Paan ……]";"[Paan ……]"
-"Carikoriluri (talking)";"…………っ……！！ ま、また叩いたっ…………！";"…………, ……! Well, I hit it again: …………!";"¡………… y ……! Bueno, he vuelto a acertar: ¡…………!"
-"Big Arthur (talking)";"……自分が叩かれてる理由も 解んないのかよっ！ この世界に来てそこまで腐ったのか！
+"Big Arthur (talking)","ああ、叩いたさ。 ……叩く価値もない女だけどな。","Yeah, I did slap her. She's not worth a…… slap, though.","Sí, la abofeteé…… Sin embargo, no vale la pena abofetear."
+"Carikoriluri (talking)","さ、最低っ……！ あなたどういうつもりで…………","Oh, you're disgusting! ……! What the hell do you think you're doing …………","¡Oh, Dios, ……! ¿Qué crees que eres …………"
+"narrator","　　［ぱあんっ……］","[Paan ……]","[Paan ……]"
+"Carikoriluri (talking)","…………っ……！！ ま、また叩いたっ…………！","…………, ……! Well, I hit it again: …………!","¡………… y ……! Bueno, he vuelto a acertar: ¡…………!"
+"Big Arthur (talking)","……自分が叩かれてる理由も 解んないのかよっ！ この世界に来てそこまで腐ったのか！
 みんなが俺たちを待ってるんだぞ！ 俺たちがいつか魔王を斃すって、 みんなそれだけを頼りに生き延びてんだ！
 爺いも婆あも、ガキや乳飲み子だって！ みんな向こうの世界で怯えながら 一生懸命生きてんのにっ！
-お前は、そんな連中の顔まで みんな忘れちまったのかよっ！";"…… You don't even know why you're being beaten! Have you come to this world and become that rotten?
+お前は、そんな連中の顔まで みんな忘れちまったのかよっ！","…… You don't even know why you're being beaten! Have you come to this world and become that rotten?
 They're all waiting for us! We're going to kill the Demon Lord someday, that's what they're all depending on to survive!
 Grandfathers and grandmothers, children and babies! They're all living in fear on the other side!
-Have you forgotten their faces too?";"…… ¡Ni siquiera sabes por qué te golpean! ¡Has venido a este mundo y te has vuelto así de podrido!
+Have you forgotten their faces too?","…… ¡Ni siquiera sabes por qué te golpean! ¡Has venido a este mundo y te has vuelto así de podrido!
  ¡Nos están esperando! Vamos a matar al Señor de los Demonios algún día, ¡con eso cuentan para sobrevivir!
 Abuelos, abuelas, niños y bebés. ¡Todos viven con miedo en el otro lado!
  ¿Has olvidado todas sus caras?"
-"Carikoriluri (talking)";"そんなの……昔のことじゃないっ……！ 今はみんな、笑顔が戻ってきて……";"That's not the…… way it used to be! NowHaminna, the smiles are back……";"Así no es el…… como solía ser. AhoraHaminna, las sonrisas están de vuelta……"
-"Big Arthur (talking)";"あんなもん空元気に決まってんだろ！ 馬鹿じゃないのかお前っ！
+"Carikoriluri (talking)","そんなの……昔のことじゃないっ……！ 今はみんな、笑顔が戻ってきて……","That's not the…… way it used to be! NowHaminna, the smiles are back……","Así no es el…… como solía ser. AhoraHaminna, las sonrisas están de vuelta……"
+"Big Arthur (talking)","あんなもん空元気に決まってんだろ！ 馬鹿じゃないのかお前っ！
 昔の……昔のお前だったら、 そんなの、絶対解ってた……！ みんなごめんねって泣いてたのに！！
- ……俺の好きなカリコリルリは、 そんな事、口が裂けても 言いやしなかったのに！！";"Of course those things are just empty spirits! Are you stupid!
-If you were the old…… you, you would have known that for sure! You would have cried and said you were sorry!…… my favorite Carikoriluri would never have said anything like that!";"¡Por supuesto que esas cosas son sólo espíritus vacíos! ¡Eres un estúpido!
+ ……俺の好きなカリコリルリは、 そんな事、口が裂けても 言いやしなかったのに！！","Of course those things are just empty spirits! Are you stupid!
+If you were the old…… you, you would have known that for sure! You would have cried and said you were sorry!…… my favorite Carikoriluri would never have said anything like that!","¡Por supuesto que esas cosas son sólo espíritus vacíos! ¡Eres un estúpido!
 El viejo…… tú, el viejo tú, ¡habrías sabido…… eso! ¡Habríais llorado de pena todos!
  ¡…… mi favorito Carikoriluri nunca habría dicho algo así!"
-"Carikoriluri (talking)";"…………あっ…… ……アーサ………………";"………… was…… …… Ursa ………………";"………… era………… Ursa………………"
-"Big Arthur (talking)";"残りたいならここに残ってろ！ 二度と帰ってくんなっ！ 一生悪司と抱き合って暮らしてろっ！
+"Carikoriluri (talking)","…………あっ…… ……アーサ………………","………… was…… …… Ursa ………………","………… era………… Ursa………………"
+"Big Arthur (talking)","残りたいならここに残ってろ！ 二度と帰ってくんなっ！ 一生悪司と抱き合って暮らしてろっ！
 俺一人でも、世界は救ってみせるっ……！ 馬鹿女の助けなんか要るもんかっ！
-お前なんか……要るもんかっ…………！！";"If you want to stay, stay here! Don't you ever come back! You'll be living in Akuji's arms for the rest of your life!
+お前なんか……要るもんかっ…………！！","If you want to stay, stay here! Don't you ever come back! You'll be living in Akuji's arms for the rest of your life!
 I'll save the world, even if I have to do it alone…… I don't need your help, you stupid bitch!
-I don't need…… you!";"Si quieres quedarte, quédate aquí. ¡No vuelvas nunca! ¡Vivirás en los brazos de Akuji el resto de tu vida!
+I don't need…… you!","Si quieres quedarte, quédate aquí. ¡No vuelvas nunca! ¡Vivirás en los brazos de Akuji el resto de tu vida!
 Aunque sólo sea yo, ¡salvaré el mundo! ¡No necesito tu ayuda, perra estúpida!
  ¡No necesito…… usted, …………!"
-"Carikoriluri (talking)";"………………
+"Carikoriluri (talking)","………………
 何よ…… 私が、何したって言うのよ……
 私は、ただ…… ……私は…………………… 痛いよ、馬鹿…………
-アーサの馬鹿っ……";"………………
+アーサの馬鹿っ……","………………
 What…… did I just…… do?
 I just…… …… I'm …………………… It hurts, you idiot…………
-Ursa's an idiot……";"………………
+Ursa's an idiot……","………………
 Qué…… hice, qué hice ……
 Sólo…… …… Estoy …………………… Duele, idiota…………
 Ursa es un idiota……"
-"Big Arthur (talking)";"……博士っ！ 猿田博士は居るか！？";"…… Dr.! Saruta Is Dr. Saruta there!";"…… ¡Dr! El Dr. Saruta ¿Está el Dr. Saruta ahí?"
-"Saruta Inuo (talking)";"お…………おお、アーサじゃないか！ よく無事で…………";"Oh………… Oh, isn't that an Ursa! How are you safe and sound …………";"Oh………… ¡Oh, no es una Osa! Cómo está usted seguro y …………"
-"Big Arthur (talking)";"挨拶はいい、召喚ドアを動かしてくれ！ 悪司にバレない内に元の世界に帰るんだ！";"Forget the greetings, move the summoning door! Get back to your world before Akuji finds out!";"¡Olvida los saludos, mueve la puerta de la convocatoria! ¡Vuelve a tu mundo antes de que Akuji se entere!"
-"Saruta Inuo (talking)";"あ……ああ、準備はできているが…… しかしアーサ、カリコリルリは……";"Ah…… yeah, I'm ready…… but Aasa, Carikoriluri is ……";"Ah…… ah, estoy listo…… pero Aasa, Carikoriluri es ……"
-"Big Arthur (talking)";"…………知るもんかっ、あんな女！
+"Big Arthur (talking)","……博士っ！ 猿田博士は居るか！？","…… Dr.! Saruta Is Dr. Saruta there!","…… ¡Dr! El Dr. Saruta ¿Está el Dr. Saruta ahí?"
+"Saruta Inuo (talking)","お…………おお、アーサじゃないか！ よく無事で…………","Oh………… Oh, isn't that an Ursa! How are you safe and sound …………","Oh………… ¡Oh, no es una Osa! Cómo está usted seguro y …………"
+"Big Arthur (talking)","挨拶はいい、召喚ドアを動かしてくれ！ 悪司にバレない内に元の世界に帰るんだ！","Forget the greetings, move the summoning door! Get back to your world before Akuji finds out!","¡Olvida los saludos, mueve la puerta de la convocatoria! ¡Vuelve a tu mundo antes de que Akuji se entere!"
+"Saruta Inuo (talking)","あ……ああ、準備はできているが…… しかしアーサ、カリコリルリは……","Ah…… yeah, I'm ready…… but Aasa, Carikoriluri is ……","Ah…… ah, estoy listo…… pero Aasa, Carikoriluri es ……"
+"Big Arthur (talking)","…………知るもんかっ、あんな女！
  ＜バード＞ 　……いいのか、アーサ。
 訊くまでもないだろ！ いいに決まってる！
-さ、博士、早くしてくれ！ 俺一人でいいんだっ、急いでくれ！";"………… I don't know her!
+さ、博士、早くしてくれ！ 俺一人でいいんだっ、急いでくれ！","………… I don't know her!
  <Bird>…… Are you sure, Ursa?
 I don't have to ask! Of course I'm sure!
-Come on, Doc, hurry up! I'm on my own, hurry up!";"………… ¡No la conozco, esa perra!
+Come on, Doc, hurry up! I'm on my own, hurry up!","………… ¡No la conozco, esa perra!
  <Pájaro>…… ¿Estás segura, Aasa?
  ¡No tengo que pedírtelo! ¡Claro que sí!
  ¡Vamos, Doc, apúrate! Estoy solo, ¡date prisa!"
-"Saruta Inuo (talking)";"いや……そうじゃなくてな、アーサ。
- ……カリコリルリは、 お前の指示で先にこの研究所へ 来ていたんじゃないのか？";"No,…… that's not what I mean, Ursa.
-I thought ……Carikoriluri had come to this institute earlier on your instructions.";"No,…… eso no es lo que quiero decir, Aasa.
+"Saruta Inuo (talking)","いや……そうじゃなくてな、アーサ。
+ ……カリコリルリは、 お前の指示で先にこの研究所へ 来ていたんじゃないのか？","No,…… that's not what I mean, Ursa.
+I thought ……Carikoriluri had come to this institute earlier on your instructions.","No,…… eso no es lo que quiero decir, Aasa.
  ¿No vino antes ……Carikoriluri a este instituto siguiendo sus instrucciones?"
-"Big Arthur (talking)";"…………は……？";"Is………… ……?";"………… es ……?"
-"Saruta Inuo (talking)";"数分前に、転移の呪文とかで 急に現れてな。
+"Big Arthur (talking)","…………は……？","Is………… ……?","………… es ……?"
+"Saruta Inuo (talking)","数分前に、転移の呪文とかで 急に現れてな。
 アーサが来るから急いでくれって、 さっきまで、召喚ドアの点検を 手伝ってもらってたんだが……
- ……カリコリルリ。 アーサが来たぞ、早く出ておいで。";"A few minutes ago, he showed up out of nowhere with some kind of transfer spell or something.
+ ……カリコリルリ。 アーサが来たぞ、早く出ておいで。","A few minutes ago, he showed up out of nowhere with some kind of transfer spell or something.
 He asked me to hurry up because Ursa was coming, and earlier, he was helping me check the summoning door……
- ……Carikoriluri. Ursa is here, come out quickly.";"Hace unos minutos, apareció de la nada con algún tipo de hechizo de transferencia o algo así.
+ ……Carikoriluri. Ursa is here, come out quickly.","Hace unos minutos, apareció de la nada con algún tipo de hechizo de transferencia o algo así.
 Ursa viene, así que me pidió que me apresurara y le ayudara a revisar la puerta del invocador antes……
  ……Carikoriluri. Ursa está aquí, salgan rápido."
-"Carikoriluri (talking)";"………………";"………………";"………………"
-"Big Arthur (talking)";"……カリコリルリ…………";"……Carikoriluri…………";"……Carikoriluri…………"
-"Carikoriluri (talking)";"……ごめんなさい、アーサ…… ………………ごめんなさい……
+"Carikoriluri (talking)","………………","………………","………………"
+"Big Arthur (talking)","……カリコリルリ…………","……Carikoriluri…………","……Carikoriluri…………"
+"Carikoriluri (talking)","……ごめんなさい、アーサ…… ………………ごめんなさい……
 あ、あはは…… 私、どうか……どうかしてて……
  ………………
 お願い、連れていって…… 一人で帰るなんて言わないで……
-アーサが居なくなったら、私…… …………私っ…………";"…… sorry, Ursa…… …………… …I'm sorry ……
+アーサが居なくなったら、私…… …………私っ…………","…… sorry, Ursa…… …………… …I'm sorry ……
 Oh, ahahaha…… I, please…… how I'm…… doing ……
  ………………
 Please, take me with you…… Don't tell me you're leaving alone……
-When Aasa is gone, I…… ………… me! ……";"…… lo siento, Ursa…… …………… …Lo siento, ……
+When Aasa is gone, I…… ………… me! ……","…… lo siento, Ursa…… …………… …Lo siento, ……
 Oh, haha…… Lo siento, por favor…… Lo siento ……
  ………………
 Por favor, llévame contigo…… No me digas que te vas a casa solo……
 Cuando Aasa se ha ido, voy a…… ………… me…… ……"
-"Big Arthur (talking)";"……泣いてる暇があったら早く来いよ。
-寄り道して遅れた分、 一気に取り返さなきゃならないんだ。 グズグズしてらんないんだぜ？";"……If you've got time to cry, get your ass over here.
-We have to make up for all the time we lost by taking a detour. We can't afford to dawdle.";"…… Si tienes tiempo para llorar, vamos, vamos.
+"Big Arthur (talking)","……泣いてる暇があったら早く来いよ。
+寄り道して遅れた分、 一気に取り返さなきゃならないんだ。 グズグズしてらんないんだぜ？","……If you've got time to cry, get your ass over here.
+We have to make up for all the time we lost by taking a detour. We can't afford to dawdle.","…… Si tienes tiempo para llorar, vamos, vamos.
 Tenemos que recuperar todo el tiempo perdido. No podemos permitirnos perder el tiempo, ¿verdad?"
-"Carikoriluri (talking)";"……………… うんっ……！";"……………… Yeah ……!";"……………… ¡Sí ……!"
-"Big Arthur (talking)";"＜バード＞ 　……これでようやく元通りか。 　長い寄り道だったな。
+"Carikoriluri (talking)","……………… うんっ……！","……………… Yeah ……!","……………… ¡Sí ……!"
+"Big Arthur (talking)","＜バード＞ 　……これでようやく元通りか。 　長い寄り道だったな。
 大した事はないさ、このくらい。
  ＜バード＞ 　ほう、言うではないか。 　未熟者も少しは成長したか。
 うるせっ。
- ……じゃあな博士、悪司が追ってきたら 適当に誤魔化しといてくれ。頼んだぜ！";"<Bird>…… So we're finally back on track. 　That was a long detour.
+ ……じゃあな博士、悪司が追ってきたら 適当に誤魔化しといてくれ。頼んだぜ！","<Bird>…… So we're finally back on track. 　That was a long detour.
 It's no big deal.
  ＜Bird: Well, you say. 　The immature man has grown up a bit.
-Shut up.…… Well then, Doctor, if Akuji comes after you, just cover it up. I'm counting on you!";"<Pájaro>…… Así que por fin volvemos a estar en marcha. 　Fue un largo desvío.
+Shut up.…… Well then, Doctor, if Akuji comes after you, just cover it up. I'm counting on you!","<Pájaro>…… Así que por fin volvemos a estar en marcha. 　Fue un largo desvío.
 No es un gran problema, esto es así.
  ＜Bird: Bueno, tú dices. 　El hombre inmaduro ha crecido un poco.
 Cállate.…… Pues entonces, doctor, si Akuji viene a por ti, déjale en ridículo. Cuento con usted."
-"Saruta Inuo (talking)";"心配するな、その位の罪滅ぼしはする！ 向こうでの活躍を祈ってるぞ！";"Don't worry, I'll atone for that much! I wish you all the best over there!";"No te preocupes, ¡ya lo expiaré! ¡Les deseo lo mejor por allá!"
-"Big Arthur (talking)";"おう、博士も元気でな！ ……行くぞ、カリコリルリっ！";"Hey, good luck to you too, Doc!…… Let's go, Carikoriluri!";"Ah, y buena suerte para usted también, doctor…… ¡Vamos, Carikoriluri!"
-"Carikoriluri (talking)";"あっ……ま、待ってよアーサっ……！";"Oh, ……, wait a minute, Ursa!";"¡Oh, ……, espera un minuto, Aasa, ……!"
-"narrator";"そうして、二人は互いの手を握りしめて 自分たちの世界へと戻っていった。";"And so they clasped each other's hands and returned to their own world.";"Así que se cogieron de la mano y volvieron a su mundo."
-"Big Arthur (talking)";"……おい、小悪党。話がある。";"…… Hey, little rascal. We need to talk.";"…… Oye, pequeño bribón. Tenemos que hablar."
-"Yamamoto Akuji (talking)";"ん？　どーした、勇者様。";"Hmm?　What's the matter, Mr. Braveheart?";"¿Hmm?　¿Qué pasa, héroe?"
-"Big Arthur (talking)";"＜バード＞ 　ここ数日、カリコリルリ姫の姿を 　見ていないのだが、知らぬか？";"<Bird> I haven't seen Princess Carikoriluri for the past few days, don't you know?";"<Pájaro> No hemos visto a la princesa Carikoriluri en los últimos días, ¿no lo sabes?"
-"Yamamoto Akuji (talking)";"さあな、俺は知らんぜ。
-こっちも無断欠勤されちまって、 えらい弱ってたところだ。";"I don't know. I don't know.
-I don't know. I don't know.";"No lo sé, no lo sé.
+"Saruta Inuo (talking)","心配するな、その位の罪滅ぼしはする！ 向こうでの活躍を祈ってるぞ！","Don't worry, I'll atone for that much! I wish you all the best over there!","No te preocupes, ¡ya lo expiaré! ¡Les deseo lo mejor por allá!"
+"Big Arthur (talking)","おう、博士も元気でな！ ……行くぞ、カリコリルリっ！","Hey, good luck to you too, Doc!…… Let's go, Carikoriluri!","Ah, y buena suerte para usted también, doctor…… ¡Vamos, Carikoriluri!"
+"Carikoriluri (talking)","あっ……ま、待ってよアーサっ……！","Oh, ……, wait a minute, Ursa!","¡Oh, ……, espera un minuto, Aasa, ……!"
+"narrator","そうして、二人は互いの手を握りしめて 自分たちの世界へと戻っていった。","And so they clasped each other's hands and returned to their own world.","Así que se cogieron de la mano y volvieron a su mundo."
+"Big Arthur (talking)","……おい、小悪党。話がある。","…… Hey, little rascal. We need to talk.","…… Oye, pequeño bribón. Tenemos que hablar."
+"Yamamoto Akuji (talking)","ん？　どーした、勇者様。","Hmm?　What's the matter, Mr. Braveheart?","¿Hmm?　¿Qué pasa, héroe?"
+"Big Arthur (talking)","＜バード＞ 　ここ数日、カリコリルリ姫の姿を 　見ていないのだが、知らぬか？","<Bird> I haven't seen Princess Carikoriluri for the past few days, don't you know?","<Pájaro> No hemos visto a la princesa Carikoriluri en los últimos días, ¿no lo sabes?"
+"Yamamoto Akuji (talking)","さあな、俺は知らんぜ。
+こっちも無断欠勤されちまって、 えらい弱ってたところだ。","I don't know. I don't know.
+I don't know. I don't know.","No lo sé, no lo sé.
 He estado en un lugar muy malo porque he estado ausente."
-"Big Arthur (talking)";"………………
+"Big Arthur (talking)","………………
 バード、こいつ嘘吐いてないか？
- ＜バード＞ 　呼吸するように平然と嘘をつく男だ。 　探知のしようがない。";"………………
+ ＜バード＞ 　呼吸するように平然と嘘をつく男だ。 　探知のしようがない。","………………
 Bird, is this guy lying?
- <Bird> This is a man who lies as flatly as he breathes. 　There's no way to detect him.";"………………
+ <Bird> This is a man who lies as flatly as he breathes. 　There's no way to detect him.","………………
 Bird, ¿este tipo está mintiendo?
  <Pájaro> Este es un hombre que miente tan rotundamente como respira. 　No hay manera de detectarlo."
-"Yamamoto Akuji (talking)";"ひでえ言われようだな……";"That's a terrible thing to say……";"Es una cosa terrible que te digan……"
-"Big Arthur (talking)";"もともと姫は、昔から 思い詰めたら即行動に移す人だ。 今回もそれかもしれない……
+"Yamamoto Akuji (talking)","ひでえ言われようだな……","That's a terrible thing to say……","Es una cosa terrible que te digan……"
+"Big Arthur (talking)","もともと姫は、昔から 思い詰めたら即行動に移す人だ。 今回もそれかもしれない……
  ＜バード＞ 　ああ、おかげで何度敵にさらわれて 　助け出したか知れないな。
- …………仕方ない。 いつものように姫を捜しに行こう。 それが勇者の使命の一つだからな。";"Hime has always been a person who takes immediate action when she has an idea in her mind. Maybe that's what happened this time too……
- ＜I can't tell you how many times I've been kidnapped by enemies and rescued thanks to you.………… No choice. I'm not sure how many times I've been kidnapped by the enemy and rescued. It's one of the missions of a brave man.";"Hime siempre ha sido una persona que, cuando tiene una idea en la cabeza, actúa de inmediato. Tal vez sea eso lo que ha ocurrido esta vez también……
+ …………仕方ない。 いつものように姫を捜しに行こう。 それが勇者の使命の一つだからな。","Hime has always been a person who takes immediate action when she has an idea in her mind. Maybe that's what happened this time too……
+ ＜I can't tell you how many times I've been kidnapped by enemies and rescued thanks to you.………… No choice. I'm not sure how many times I've been kidnapped by the enemy and rescued. It's one of the missions of a brave man.","Hime siempre ha sido una persona que, cuando tiene una idea en la cabeza, actúa de inmediato. Tal vez sea eso lo que ha ocurrido esta vez también……
  <Pájaro> Ah, gracias a ti, no puedo decirte cuántas veces he sido secuestrado por el enemigo y rescatado.………… No se puede evitar. Iré a buscar a la princesa, como siempre hago. Esa es una de las misiones de un hombre valiente."
-"Yamamoto Akuji (talking)";"お、おいおい、勝手にどこ行くんだよ。 今日の仕事は…………";"Oh, come on, where are you going on your own? Today's work is at …………";"Oh, vamos, ¿a dónde vas por tu cuenta? El trabajo de hoy está en …………"
-"Big Arthur (talking)";"俺たちを引き留める気か。 ……ならば斬ってでも出て行くぞ。";"You're holding us back. If you're ……, we'll cut and run.";"Nos estás reteniendo. Si eres ……, nos iremos aunque tengas que acuchillarnos."
-"Yamamoto Akuji (talking)";"……マジか。
-まあ、しゃあねえな。 引き留めようもねえし。 んじゃあばよ。";"…… Really?
-Well, what the hell. There's nothing I can do to keep him. Bye bye.";"…… ¿En serio?
+"Yamamoto Akuji (talking)","お、おいおい、勝手にどこ行くんだよ。 今日の仕事は…………","Oh, come on, where are you going on your own? Today's work is at …………","Oh, vamos, ¿a dónde vas por tu cuenta? El trabajo de hoy está en …………"
+"Big Arthur (talking)","俺たちを引き留める気か。 ……ならば斬ってでも出て行くぞ。","You're holding us back. If you're ……, we'll cut and run.","Nos estás reteniendo. Si eres ……, nos iremos aunque tengas que acuchillarnos."
+"Yamamoto Akuji (talking)","……マジか。
+まあ、しゃあねえな。 引き留めようもねえし。 んじゃあばよ。","…… Really?
+Well, what the hell. There's nothing I can do to keep him. Bye bye.","…… ¿En serio?
 Bueno, no se puede evitar. No hay nada que pueda hacer para retenerlo. Entonces, adiós."
-"Big Arthur (talking)";"＜バード＞ 　曲がりなりにも世話になったな。 　さらばだ、異世界の小悪党よ。";"＜Bird: You've taken care of me, even if only to a point. 　Farewell, otherworldly little rascal.";"＜Bird: Me has cuidado bien, aunque sea de forma torcida. 　Adiós, pequeño bribón de otro mundo."
-"Yamamoto Akuji (talking)";"………………";"………………";"………………"
-"__system__??";"{RND \ 0:";"";""
-"Yamamoto Akuji (talking)";"姫は娼婦にしました…… なーんつったら怒るだろうな。
-ま、ほっとこう。";"The princess made a whore…… I'm sure she'll be angry if I say something like that.
-Well, let's leave it alone.";"Hice que la princesa fuera una puta…… Si dijera algo así, se enfadaría.
+"Big Arthur (talking)","＜バード＞ 　曲がりなりにも世話になったな。 　さらばだ、異世界の小悪党よ。","＜Bird: You've taken care of me, even if only to a point. 　Farewell, otherworldly little rascal.","＜Bird: Me has cuidado bien, aunque sea de forma torcida. 　Adiós, pequeño bribón de otro mundo."
+"Yamamoto Akuji (talking)","………………","………………","………………"
+"__system__??","{RND \ 0:","",""
+"Yamamoto Akuji (talking)","姫は娼婦にしました…… なーんつったら怒るだろうな。
+ま、ほっとこう。","The princess made a whore…… I'm sure she'll be angry if I say something like that.
+Well, let's leave it alone.","Hice que la princesa fuera una puta…… Si dijera algo así, se enfadaría.
 Bueno, dejémoslo estar."
-"__system__??";"}";"";""
-"__system__??";"{RND = 0:";"";""
-"Yamamoto Akuji (talking)";"知らぬが仏って言うしな。";"They say that ignorance is bliss.";"Dicen que la ignorancia es la felicidad."
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"くそっ……！　こんなところで こんな連中と戦ってる場合じゃないのに！";"Damn it, ……!　I don't have time to fight these people in a place like this!";"¡Maldita sea, ……!　¡No deberíamos luchar contra esta gente en un lugar como este!"
-"Saruta Inuo (talking)";"……………………暇だな……
-しかし、あの二人……いや三人か、 無事に魔王を倒せたんだろうか…… 気になるな…………";"……………………I'm bored… …
-But those two…… or even three, I wonder if they were able to defeat the Demon King safely…… I'm curious……… …";"…………………… Estoy aburrido… …
+"__system__??","}","",""
+"__system__??","{RND = 0:","",""
+"Yamamoto Akuji (talking)","知らぬが仏って言うしな。","They say that ignorance is bliss.","Dicen que la ignorancia es la felicidad."
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","くそっ……！　こんなところで こんな連中と戦ってる場合じゃないのに！","Damn it, ……!　I don't have time to fight these people in a place like this!","¡Maldita sea, ……!　¡No deberíamos luchar contra esta gente en un lugar como este!"
+"Saruta Inuo (talking)","……………………暇だな……
+しかし、あの二人……いや三人か、 無事に魔王を倒せたんだろうか…… 気になるな…………","……………………I'm bored… …
+But those two…… or even three, I wonder if they were able to defeat the Demon King safely…… I'm curious……… …","…………………… Estoy aburrido… …
 Pero esos dos…… o tres, me pregunto si derrotaron al Rey Demonio con seguridad…… Me pregunto……… …"
-"narrator";"　　「…ご心配なく、倒せましたよ~…」";"”…Don't worry, I was able to defeat him…”";"'…No te preocupes, les ganamos~…'"
-"Saruta Inuo (talking)";"……………… カリコリルリの幻聴を聞くほど 私は寂しがっているというのか……？";"……………… Are you saying I'm lonely enough to hear the auditory hallucinations of Carikoriluri ……?";"……………… ¿Estás diciendo que estoy tan solo como para escuchar las alucinaciones auditivas de Carikoriluri ……?"
-"Carikoriluri (talking)";"……ふふっ、幻聴じゃないですよ？";"…… Phew, I'm not hallucinating, am I?";"…… Uf, no estoy alucinando, ¿verdad?"
-"Saruta Inuo (talking)";"……………… と、とうとう幻覚まで……";"……………… and finally even hallucinations ……";"……………… y finalmente incluso alucinaciones ……"
-"Big Arthur (talking)";"何ボケてんだよ、博士。 そんな歳か？
- ＜バード＞ 　久しぶりだな、異世界の男よ。 　元気そうで何よりだ。";"What a blur, Doc. Are you that old?
- ＜Long time no see, otherworldly man. 　It's good to see you, too.";"Qué borrón, doctor. ¿Eres tan viejo?
+"narrator","　　「…ご心配なく、倒せましたよ~…」","”…Don't worry, I was able to defeat him…”","'…No te preocupes, les ganamos~…'"
+"Saruta Inuo (talking)","……………… カリコリルリの幻聴を聞くほど 私は寂しがっているというのか……？","……………… Are you saying I'm lonely enough to hear the auditory hallucinations of Carikoriluri ……?","……………… ¿Estás diciendo que estoy tan solo como para escuchar las alucinaciones auditivas de Carikoriluri ……?"
+"Carikoriluri (talking)","……ふふっ、幻聴じゃないですよ？","…… Phew, I'm not hallucinating, am I?","…… Uf, no estoy alucinando, ¿verdad?"
+"Saruta Inuo (talking)","……………… と、とうとう幻覚まで……","……………… and finally even hallucinations ……","……………… y finalmente incluso alucinaciones ……"
+"Big Arthur (talking)","何ボケてんだよ、博士。 そんな歳か？
+ ＜バード＞ 　久しぶりだな、異世界の男よ。 　元気そうで何よりだ。","What a blur, Doc. Are you that old?
+ ＜Long time no see, otherworldly man. 　It's good to see you, too.","Qué borrón, doctor. ¿Eres tan viejo?
  ＜Cuánto tiempo sin verte, hombre de otro mundo. 　Es bueno verte con buen aspecto."
-"Saruta Inuo (talking)";"あ、アーサ……バードも！ どうして…………";"Oh, and Ursa…… Bird! Why …………";"Ah, y Ursa…… ¡Pájaro! Por qué …………"
-"Carikoriluri (talking)";"えーと、簡単に説明するとですね。
+"Saruta Inuo (talking)","あ、アーサ……バードも！ どうして…………","Oh, and Ursa…… Bird! Why …………","Ah, y Ursa…… ¡Pájaro! Por qué …………"
+"Carikoriluri (talking)","えーと、簡単に説明するとですね。
 私たち、めでたく大魔王を斃して 見事にハッピーエンドを迎えたんです。
-で、私のお父様……国王ですけど、 頼み込んで魔道士百人集めて貰って、 時空を繋ぐ秘術を使ったんですよ。";"Well, let me give you a simple explanation.
+で、私のお父様……国王ですけど、 頼み込んで魔道士百人集めて貰って、 時空を繋ぐ秘術を使ったんですよ。","Well, let me give you a simple explanation.
 We successfully defeated the Great Demon King, and we had a happy ending.
-And my father, the…… king, asked him to gather a hundred mages and used the secret art of connecting time and space.";"Bueno, déjame explicarte brevemente.
+And my father, the…… king, asked him to gather a hundred mages and used the secret art of connecting time and space.","Bueno, déjame explicarte brevemente.
 Derrotamos con éxito al Gran Rey Demonio y tuvimos un final feliz.
 Y mi padre, el rey de ……, le pidió que reuniera a cien magos y utilizó el arte secreto de conectar el espacio-tiempo."
-"Saruta Inuo (talking)";"ま、魔道士百人……？ 何のためにそんな秘術を……";"Well, a hundred mages ……? What's such a secret art for ……";"Bueno, ¿un centenar de magos ……? ¿Qué sentido tiene un arte tan secreto? ……"
-"Big Arthur (talking)";"実は、その……
- ……俺たち、結婚したんだけど……";"Actually, its ……
- ……We're married……";"De hecho, el ……
+"Saruta Inuo (talking)","ま、魔道士百人……？ 何のためにそんな秘術を……","Well, a hundred mages ……? What's such a secret art for ……","Bueno, ¿un centenar de magos ……? ¿Qué sentido tiene un arte tan secreto? ……"
+"Big Arthur (talking)","実は、その……
+ ……俺たち、結婚したんだけど……","Actually, its ……
+ ……We're married……","De hecho, el ……
  ……Nos casamos……"
-"Saruta Inuo (talking)";"…………？　君とカリコリルリがか？！";"…………?　You and Carikoriluri?";"…………?　¿Tú y Carikoriluri?"
-"Big Arthur (talking)";"そんなに驚くなよ。 魔王を斃したら姫と勇者は結ばれる ……これ常識だろ？
+"Saruta Inuo (talking)","…………？　君とカリコリルリがか？！","…………?　You and Carikoriluri?","…………?　¿Tú y Carikoriluri?"
+"Big Arthur (talking)","そんなに驚くなよ。 魔王を斃したら姫と勇者は結ばれる ……これ常識だろ？
 でさ、俺が作る新しい王国…… あ、姫と結婚したからそうなるんだけど、 優秀な大臣が一人欲しくてさ。
- ……博士ってさ、すごい人なのに こっちの世界じゃアレだったろ？ だから…………";"Don't be so surprised. If the Demon King dies, the princess and the hero will be united…… This is common knowledge, right?
+ ……博士ってさ、すごい人なのに こっちの世界じゃアレだったろ？ だから…………","Don't be so surprised. If the Demon King dies, the princess and the hero will be united…… This is common knowledge, right?
 So, I'm going to create a new kingdom,…… and I'm going to do that because I married the princess and I wanted a good minister.
-I want a good minister…… He's a great guy, but he's not so great in our world, is he? That's why …………";"No te sorprendas tanto. Si el Rey Demonio muere, la princesa y el héroe se unirán…… Esto es de conocimiento común, ¿verdad?
+I want a good minister…… He's a great guy, but he's not so great in our world, is he? That's why …………","No te sorprendas tanto. Si el Rey Demonio muere, la princesa y el héroe se unirán…… Esto es de conocimiento común, ¿verdad?
 Así que voy a crear un nuevo reino,…… y lo voy a hacer porque me casé con la princesa, pero quería un buen ministro.…… El Dr. D. es un gran tipo, pero en nuestro mundo, no es tan grande, ¿verdad? Por eso …………"
-"Saruta Inuo (talking)";"……アーサ…………";"…… Ursa …………";"…… Ursa: …………"
-"Big Arthur (talking)";"ま、新婚旅行ついでにしばらく こっちに居るつもりだからさ。 よく考えて返事聞かせてくれよ。";"Well, I'm planning to stay here for a while on my honeymoon. Please think it over and let me know what you think.";"Bueno, estoy planeando quedarme aquí por un tiempo en mi luna de miel. Piénsalo y hazme saber tu respuesta."
-"Carikoriluri (talking)";"突然ですけど、 夫婦ともどもお世話になりますね。 ……今後とも！";"I know this is out of the blue, but I'm glad you and your wife are here for us…… in the future!";"De repente, usted y su esposa están en buenas manos. ¡…… en el futuro!"
-"Saruta Inuo (talking)";"あ、ああ……こちらこそ……！";"Oh, ah…… it's me too ……!";"¡Ah, ah…… soy yo también ……!"
+"Saruta Inuo (talking)","……アーサ…………","…… Ursa …………","…… Ursa: …………"
+"Big Arthur (talking)","ま、新婚旅行ついでにしばらく こっちに居るつもりだからさ。 よく考えて返事聞かせてくれよ。","Well, I'm planning to stay here for a while on my honeymoon. Please think it over and let me know what you think.","Bueno, estoy planeando quedarme aquí por un tiempo en mi luna de miel. Piénsalo y hazme saber tu respuesta."
+"Carikoriluri (talking)","突然ですけど、 夫婦ともどもお世話になりますね。 ……今後とも！","I know this is out of the blue, but I'm glad you and your wife are here for us…… in the future!","De repente, usted y su esposa están en buenas manos. ¡…… en el futuro!"
+"Saruta Inuo (talking)","あ、ああ……こちらこそ……！","Oh, ah…… it's me too ……!","¡Ah, ah…… soy yo también ……!"

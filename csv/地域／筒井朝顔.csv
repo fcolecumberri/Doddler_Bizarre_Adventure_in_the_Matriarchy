@@ -1,55 +1,55 @@
-"character";"jap text";"Eng";"Esp"
-"__system__??";"{麦 = 1:";"";""
-"__system__??";"{D11 = 0:";"";""
-"__system__??";"}";"";""
-"__system__??";"{D11 \ 0:";"";""
-"__system__??";"{(☆朝顔 < 19) * (☆ギガフロート = 0):";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{☆朝顔 = 10:";"";""
-"__system__??";"}";"";""
-"__system__??";"{☆朝顔 = 11:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 2:";"";""
-"__system__??";"{D11 \ 0:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 3:";"";""
-"__system__??";"{D11 \ 0:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 4:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 5:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 10:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 11:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 12:";"";""
-"__system__??";"{H愛欲抵抗 <= H愛欲:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 13:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 15:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 16:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 17:";"";""
-"__system__??";"{H拷問抵抗 < H拷問:";"";""
-"__system__??";"}";"";""
-"__system__??";"{H拷問 = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 18:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 19:";"";""
-"__system__??";"}";"";""
-" (talking)";"見てーーーーー！！！！！";"Look at this: ！！！！！";"Ver - ！！！！！"
-"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
-"cg narrator";"「…………………」
+"character","jap text","Eng","Esp"
+"__system__??","{麦 = 1:","",""
+"__system__??","{D11 = 0:","",""
+"__system__??","}","",""
+"__system__??","{D11 \ 0:","",""
+"__system__??","{(☆朝顔 < 19) * (☆ギガフロート = 0):","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{☆朝顔 = 10:","",""
+"__system__??","}","",""
+"__system__??","{☆朝顔 = 11:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 2:","",""
+"__system__??","{D11 \ 0:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 3:","",""
+"__system__??","{D11 \ 0:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 4:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 5:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 10:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 11:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 12:","",""
+"__system__??","{H愛欲抵抗 <= H愛欲:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 13:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 15:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 16:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 17:","",""
+"__system__??","{H拷問抵抗 < H拷問:","",""
+"__system__??","}","",""
+"__system__??","{H拷問 = 1:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 18:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 19:","",""
+"__system__??","}","",""
+" (talking)","見てーーーーー！！！！！","Look at this: ！！！！！","Ver - ！！！！！"
+"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
+"cg narrator","「…………………」
 悪司は煙草を咥えていたが、呆気にとられ、 あんぐりと口を開いてしまっている。 唇に煙草はひっついたままだ。
  「私を呼んだ！？ 　悪司！！」
  「………………………」
@@ -63,7 +63,7 @@
  「いやじゃねぇ。 　隠せ、そして、落ち着け」
  「駄目ーーー！！！」
  「駄目じゃねえっつの！」
-悪司は強引に朝顔の服の襟を掴むと、 前を閉じさせた。";"…………………”
+悪司は強引に朝顔の服の襟を掴むと、 前を閉じさせた。","…………………”
 Akuji had a cigarette in his mouth, but he was so stunned that he opened his mouth with a gag. The cigarette remained stuck to his lips.
 You called me! 　Akuji!
  ………………………”
@@ -77,7 +77,7 @@ Noooooo!
 I'm not saying no. 　Hide, and calm down.
 Nooooooo!
 No!
-Akuji forcefully grabbed the collar of Asagao's clothes and made him close the front.";"”…………………”
+Akuji forcefully grabbed the collar of Asagao's clothes and made him close the front.","”…………………”
 Akuji tenía un cigarrillo en la boca, pero estaba tan aturdido que abrió la boca con una mordaza. El cigarrillo permanece pegado a sus labios.
  '¡Me has llamado! 　¡Akuji!
  '………………………'
@@ -92,17 +92,17 @@ No, no, no, no. 　Escóndete y cálmate”.
  ¡Nooooo!
  ¡No, no, no, no!
 El Akuji agarró con fuerza el cuello de la ropa de Asagao y le hizo cerrar la parte delantera."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"Tsutsui Asagao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"やれやれ。 隠したからおとなしくなったな。";"Oh dear. Now that you've hidden it, you've gone quiet.";"Oh, Dios. Ahora que lo has ocultado, te has callado."
-"Tsutsui Asagao (talking)";"……………つまんない…";"…………… boring…";"…………… aburrido…"
-"Yamamoto Akuji (talking)";"こっちはいい迷惑だっつーの。 必要じゃねぇ時は隠しときな。 いつも見せてると値打ち下がるぜ。";"It's a nuisance to us. Hide it when you don't need it. It's not worth it if you show it all the time.";"No es bueno para nosotros. Manténgalo oculto cuando no lo necesite. No vale la pena si lo muestras todo el tiempo."
-"Tsutsui Asagao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"なんだ、そのすねた目は……";"What's with the sulky eyes: ……";"¿Qué pasa con los ojos enfurruñados? ……"
-" (talking)";"見てーーーーー！！！！！";"Look at this: ！！！！！";"Ver - ！！！！！"
-"Yamamoto Akuji (talking)";"………………";"………………";"………………"
-"cg narrator";"「自分で縛ったのーーーー！！」
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"Tsutsui Asagao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","やれやれ。 隠したからおとなしくなったな。","Oh dear. Now that you've hidden it, you've gone quiet.","Oh, Dios. Ahora que lo has ocultado, te has callado."
+"Tsutsui Asagao (talking)","……………つまんない…","…………… boring…","…………… aburrido…"
+"Yamamoto Akuji (talking)","こっちはいい迷惑だっつーの。 必要じゃねぇ時は隠しときな。 いつも見せてると値打ち下がるぜ。","It's a nuisance to us. Hide it when you don't need it. It's not worth it if you show it all the time.","No es bueno para nosotros. Manténgalo oculto cuando no lo necesite. No vale la pena si lo muestras todo el tiempo."
+"Tsutsui Asagao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","なんだ、そのすねた目は……","What's with the sulky eyes: ……","¿Qué pasa con los ojos enfurruñados? ……"
+" (talking)","見てーーーーー！！！！！","Look at this: ！！！！！","Ver - ！！！！！"
+"Yamamoto Akuji (talking)","………………","………………","………………"
+"cg narrator","「自分で縛ったのーーーー！！」
  「あーはいはい」
  「大変だったのーーーーっ！！」
  「あーはいはい」
@@ -114,7 +114,7 @@ El Akuji agarró con fuerza el cuello de la ropa de Asagao y le hizo cerrar la p
  「いや、だから……」
  「見てーーーー！！！」
  「がーーーーー！！！！」
-悪司は朝顔の服を掴むと、乱暴に閉じさせた。";"I tied it myself!
+悪司は朝顔の服を掴むと、乱暴に閉じさせた。","I tied it myself!
  “Oh, yes, yes.”
 I had a hard time!
  “Oh, yes, yes, yes.”
@@ -126,7 +126,7 @@ Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.
 No, that's why I'm going to ……
 Look at me!
 Gahhhhhh ！！！！”
-Akuji grabbed Asagao's clothes and made her close them roughly.";"¡Me até a mí mismo!
+Akuji grabbed Asagao's clothes and made her close them roughly.","¡Me até a mí mismo!
 Oh, sí, sí.
 Lo pasé mal.
  “Oh, sí, sí, sí”.
@@ -139,176 +139,176 @@ No, por eso… ……
  ¡Mírame!
 Gahhhhh ！！！！”
 Akuji agarró la ropa de Asagao y la obligó a cerrarla bruscamente."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"Tsutsui Asagao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"うるさい。";"Noisy.";"Ruidoso."
-"Tsutsui Asagao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"お前さんには、間ってのがないのかよ。";"Don't you have a pause?";"No tienes una pausa, ¿verdad?"
-"Tsutsui Asagao (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"勝手にすねてろ。";"Go sulk on your own.";"Ve a enfurruñarte por tu cuenta."
-"narrator";"悪司は朝顔を待っていた。";"Akuji was waiting for Asagao.";"Akuji estaba esperando a Asagao."
-"Yamamoto Akuji (talking)";"おせぇ…どこいっちまったんだ。";"Where the hell is he?";"Oops… ¿dónde ha ido a parar?"
-"Takega Satsu (talking)";"いいのか、悪司。";"Are you sure, Akuji.";"Estás seguro, Akuji."
-"Yamamoto Akuji (talking)";"何がだい？";"What is it?";"¿Qué es eso?"
-"Takega Satsu (talking)";"脱衣バカップルが、 往来で何やらしているぞ。";"A couple of undressed bachelors are doing something in the street.";"Hay un par de vagabundos desnudos haciendo algo en la calle."
-"Yamamoto Akuji (talking)";"……………おいおい……";"…………… hey ……";"…………… hey ……"
-"Tsutsui Asagao (talking)";"見てーーー！！ 私を見てーーー！！";"Look at me! Look at me!";"¡Mírame! ¡Mírameoooooooooooooooooooooooooooooooooooooooo!"
-"Yopparai (talking)";"うひーーー！！";"Woohoo!";"¡¡¡Wooooooooo!!!"
-"Panichi (talking)";"いい仕事だ、素晴らしい。";"Nice job, excellent.";"Buen trabajo, excelente."
-"Yamamoto Akuji (talking)";"何がいい仕事だ、このバカップル。";"What a good job, you couple of bums.";"Qué buen trabajo, par de vagos."
-"Tsutsui Asagao (talking)";"悪司………";"Akuji………";"Akuji………"
-"Yamamoto Akuji (talking)";"俺呼んだだろ。 さっさとこい。";"I called you. Come on, get your ass over here.";"Te he llamado. Vengan rápido."
-"Tsutsui Asagao (talking)";"…………でも……パンイチと……";"………… also ……Panichi and ……";"………… también ……Panichi y ……"
-"Yamamoto Akuji (talking)";"ウィミィに売っ払うぞ。";"I'll sell it to Wime.";"Te venderé a Wime."
-"Tsutsui Asagao (talking)";"…………………";"…………………";"…………………"
-"Yamamoto Akuji (talking)";"スネてんじゃねぇよ。";"Don't sulk.";"No te enfades."
-"Panichi (talking)";"行ってこい、朝顔。";"Go ahead, Asagao.";"Vamos, Asagao."
-"Tsutsui Asagao (talking)";"パンイチ……";"Panichi……";"Panichi……"
-"Panichi (talking)";"オレは待ってる。 たとえこの躰、朽ちようとも。";"I'm waiting. Even if this body is rotting away.";"Estoy esperando. Aunque este cuerpo se esté pudriendo."
-"Tsutsui Asagao (talking)";"…………………うん……";"…………………うん ……";"…………………うん ……"
-"Yamamoto Akuji (talking)";"とんだバカップルだ。";"They are a couple of idiots.";"Son un par de idiotas."
-"Tsutsui Asagao (talking)";"………………馬鹿ぢゃないもん……";"……………… I'm not an idiot……";"……………… No es un idiota: ……"
-"Tsutsui Asagao (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"今日はさっさときたな。";"You came quickly today.";"Hoy has venido rápido."
-"Tsutsui Asagao (talking)";"……………パンイチが……行けって…";"……………Panichi wants me to go to ………";"……………Panichi quiere que vaya a ………"
-"Yamamoto Akuji (talking)";"そーかそーか。";"Oh, yeah.";"Ah, sí."
-"Tsutsui Asagao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"仲良くしてたのに、邪魔するなって顔、 露骨にしてるぞ。";"You're making it very obvious that you don't want to be disturbed.";"Te has llevado tan bien con ellos, y ahora intentas descaradamente apartarte de su camino."
-"cg narrator";"「見――」";"”Look--”";"”Mira…”"
-"Tsutsui Asagao (talking)";"………………ぶ~……";"………………ぶ~……";"………………ぶ~……"
-"Yamamoto Akuji (talking)";"ふふん。 もう慣れたぞ。";"Hmmm. I'm used to it.";"Hmph. Ya estoy acostumbrado."
-"Tsutsui Asagao (talking)";"~………";"~………";"~………"
-"Yamamoto Akuji (talking)";"くっくっくっ。 すねてろ、すねてろ。";"Kukkukkukkukkukkukkukkukkukkukkukkukkukkukkukk. Keep sulking, keep sulking.";"Kukukukukku. Sigue enfadado, sigue enfadado."
-"Yamamoto Akuji (talking)";"抱いてやるよ、朝顔。";"I'll hold you, Asagao.";"Te sostendré, Asagao."
-"Tsutsui Asagao (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"待ってましたって目で見てるぞ、俺の事。";"They're looking at me like they've been waiting for me.";"Me miran como si me hubieran estado esperando, a mí."
-"Tsutsui Asagao (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"お前は言葉で語るんじゃなくって、 目で語るタイプなんだな。";"You don't speak with words, you speak with your eyes.";"Eres el tipo de persona que no habla con palabras, sino con los ojos."
-"Tsutsui Asagao (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"よしよし。 今、天国に連れてってやるぜ。";"All right, all right. Now I'm taking you to heaven.";"Muy bien, muy bien. Ahora te voy a llevar al cielo, tío."
-"Yamamoto Akuji (talking)";"朝顔は悪司に抱かれた。";"Asagao was embraced by Akuji.";"Asagao fue abrazado por Akuji."
-"Yamamoto Akuji (talking)";"朝顔、俺の躰が恋しくなってねぇか？";"Asagao, don't you miss my body?";"Asagao, ¿no echas de menos mi cuerpo?"
-"Tsutsui Asagao (talking)";"………………";"………………";"………………"
-"narrator";"朝顔は頷いた。";"Asagao nodded.";"Asagao asintió."
-"Yamamoto Akuji (talking)";"……ちょっと、傷つくなー。";"…… hey, that's hurtful.";"…… hey, eso es hiriente."
-"Tsutsui Asagao (talking)";"…………………";"…………………";"…………………"
-"narrator";"朝顔は、嘘ばっかりという目で、悪司を見た。";"Asagao looked at Akuji with eyes full of lies.";"Asagao miró a Akuji con ojos llenos de mentiras."
-"Yamamoto Akuji (talking)";"朝顔、小遣いやるぜ。";"Asagao, I'll give you some money.";"Asagao, te daré algo de dinero."
-"Tsutsui Asagao (talking)";"…………………";"…………………";"…………………"
-"narrator";"朝顔は首を横に振った。";"Asagao shook his head.";"Asagao sacudió la cabeza."
-"Yamamoto Akuji (talking)";"やっぱ、金には興味ねーか。";"I knew you weren't interested in money.";"Sabía que no te interesaba el dinero."
-"Tsutsui Asagao (talking)";"……………";"……………";"……………"
-"narrator";"今度は、頷いた。";"This time, he nodded.";"Esta vez, asintió."
-"Yamamoto Akuji (talking)";"お前さん、ホント、 服着てると喋んねーよな。";"You really don't talk when you're dressed, do you?";"Realmente no hablas cuando estás vestida, ¿verdad?"
-"Tsutsui Asagao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"朝顔、小遣いやるよ。";"Asagao, I'll give you some money.";"Asagao, te daré algo de dinero."
-"Tsutsui Asagao (talking)";"………………ありがと…";"Thanks …………………";"Gracias a …………………"
-"Yamamoto Akuji (talking)";"なんだ、物欲が出てきたか。";"What, you're getting greedy?";"¿Qué, te estás volviendo codicioso?"
-"Tsutsui Asagao (talking)";"………………うん… 結婚資金………きゃっ……";"……………… yeah… marriage fund……… kyak ……";"……………… sí… fondo de matrimonio……… kyak ……"
-"Yamamoto Akuji (talking)";"やれやれ。";"Oh dear.";"Oh, Dios."
-"Tsutsui Asagao (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"なんだ、随分とおとなしいじゃねぇか。";"What's the matter? You've been very quiet, haven't you?";"Qué, estás muy callado, ¿no?"
-"Tsutsui Asagao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"戦う前のあれ、やってくれよ。 見てーーってやつ。";"That thing before the fight, do that. The one that says, “Look.";"Eso de antes de la pelea, hazlo. El que dice “Mira…”."
-"Tsutsui Asagao (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"………ん~~…… どした？";"……… hmm~~…… what's up?";"……… hmm~~…… ¿Qué pasa?"
-"Tsutsui Asagao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (thinking)";"ビビってんのかな？";"Are they scared?";"¿Tienen miedo?"
-"Tsutsui Asagao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"やれやれ。 今回もおだんまりか？";"Oh dear. Another round of “no talking” this time?";"Oh, Dios. ¿Otra ronda de tratamiento silencioso esta vez?"
-"Tsutsui Asagao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"んじゃまあ…… 俺のいう事きいて貰う為に、 今からちと運動して貰うぜ。";"Well,…… I'm going to have you do a little exercise now to get you to listen to me.";"Bueno,…… vas a tener que hacer un poco de ejercicio ahora para que te escuche."
-"Tsutsui Asagao (talking)";"っ…！";"Ah…!";"¡Ah…!"
-"Yamamoto Akuji (talking)";"なんだ、この服。 ボタンが縫いつけてあるだけで、 止めるとこがないじゃねぇか。";"What's with this dress? There are only buttons sewn on, but there's no place to fasten them.";"¿Qué pasa con este vestido? Sólo hay botones cosidos, no hay lugar para abrocharlos."
-"Tsutsui Asagao (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"あー…そーいう趣味の人かい。 ロシュツキョーって奴ね。";"Ah…so you're into that kind of thing. He's a Roshtkyo, isn't he?";"Ah… eres un hombre de ese gusto. Es un rostockiano, ¿no?"
-"Tsutsui Asagao (talking)";"っ………";"You can find out more at ………";"………"
-"Yamamoto Akuji (talking)";"何？ そーいう事、口に出されるの、 恥ずかしいってか？";"What? Are you ashamed to say it out loud?";"¿Qué? ¿Te da vergüenza decirlo en voz alta?"
-"Tsutsui Asagao (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"そーやって、黙って頬染めてたら、 可愛いじゃねぇか。
-さあ、俺を存分に楽しんでくれよな。";"You're so cute when you keep your mouth shut and your cheeks tinted like that.
-Now, enjoy me to the fullest.";"Estarías muy guapa con las mejillas teñidas de silencio de esa manera.
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"Tsutsui Asagao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","うるさい。","Noisy.","Ruidoso."
+"Tsutsui Asagao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","お前さんには、間ってのがないのかよ。","Don't you have a pause?","No tienes una pausa, ¿verdad?"
+"Tsutsui Asagao (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","勝手にすねてろ。","Go sulk on your own.","Ve a enfurruñarte por tu cuenta."
+"narrator","悪司は朝顔を待っていた。","Akuji was waiting for Asagao.","Akuji estaba esperando a Asagao."
+"Yamamoto Akuji (talking)","おせぇ…どこいっちまったんだ。","Where the hell is he?","Oops… ¿dónde ha ido a parar?"
+"Takega Satsu (talking)","いいのか、悪司。","Are you sure, Akuji.","Estás seguro, Akuji."
+"Yamamoto Akuji (talking)","何がだい？","What is it?","¿Qué es eso?"
+"Takega Satsu (talking)","脱衣バカップルが、 往来で何やらしているぞ。","A couple of undressed bachelors are doing something in the street.","Hay un par de vagabundos desnudos haciendo algo en la calle."
+"Yamamoto Akuji (talking)","……………おいおい……","…………… hey ……","…………… hey ……"
+"Tsutsui Asagao (talking)","見てーーー！！ 私を見てーーー！！","Look at me! Look at me!","¡Mírame! ¡Mírameoooooooooooooooooooooooooooooooooooooooo!"
+"Yopparai (talking)","うひーーー！！","Woohoo!","¡¡¡Wooooooooo!!!"
+"Panichi (talking)","いい仕事だ、素晴らしい。","Nice job, excellent.","Buen trabajo, excelente."
+"Yamamoto Akuji (talking)","何がいい仕事だ、このバカップル。","What a good job, you couple of bums.","Qué buen trabajo, par de vagos."
+"Tsutsui Asagao (talking)","悪司………","Akuji………","Akuji………"
+"Yamamoto Akuji (talking)","俺呼んだだろ。 さっさとこい。","I called you. Come on, get your ass over here.","Te he llamado. Vengan rápido."
+"Tsutsui Asagao (talking)","…………でも……パンイチと……","………… also ……Panichi and ……","………… también ……Panichi y ……"
+"Yamamoto Akuji (talking)","ウィミィに売っ払うぞ。","I'll sell it to Wime.","Te venderé a Wime."
+"Tsutsui Asagao (talking)","…………………","…………………","…………………"
+"Yamamoto Akuji (talking)","スネてんじゃねぇよ。","Don't sulk.","No te enfades."
+"Panichi (talking)","行ってこい、朝顔。","Go ahead, Asagao.","Vamos, Asagao."
+"Tsutsui Asagao (talking)","パンイチ……","Panichi……","Panichi……"
+"Panichi (talking)","オレは待ってる。 たとえこの躰、朽ちようとも。","I'm waiting. Even if this body is rotting away.","Estoy esperando. Aunque este cuerpo se esté pudriendo."
+"Tsutsui Asagao (talking)","…………………うん……","…………………うん ……","…………………うん ……"
+"Yamamoto Akuji (talking)","とんだバカップルだ。","They are a couple of idiots.","Son un par de idiotas."
+"Tsutsui Asagao (talking)","………………馬鹿ぢゃないもん……","……………… I'm not an idiot……","……………… No es un idiota: ……"
+"Tsutsui Asagao (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","今日はさっさときたな。","You came quickly today.","Hoy has venido rápido."
+"Tsutsui Asagao (talking)","……………パンイチが……行けって…","……………Panichi wants me to go to ………","……………Panichi quiere que vaya a ………"
+"Yamamoto Akuji (talking)","そーかそーか。","Oh, yeah.","Ah, sí."
+"Tsutsui Asagao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","仲良くしてたのに、邪魔するなって顔、 露骨にしてるぞ。","You're making it very obvious that you don't want to be disturbed.","Te has llevado tan bien con ellos, y ahora intentas descaradamente apartarte de su camino."
+"cg narrator","「見――」","”Look--”","”Mira…”"
+"Tsutsui Asagao (talking)","………………ぶ~……","………………ぶ~……","………………ぶ~……"
+"Yamamoto Akuji (talking)","ふふん。 もう慣れたぞ。","Hmmm. I'm used to it.","Hmph. Ya estoy acostumbrado."
+"Tsutsui Asagao (talking)","~………","~………","~………"
+"Yamamoto Akuji (talking)","くっくっくっ。 すねてろ、すねてろ。","Kukkukkukkukkukkukkukkukkukkukkukkukkukkukkukk. Keep sulking, keep sulking.","Kukukukukku. Sigue enfadado, sigue enfadado."
+"Yamamoto Akuji (talking)","抱いてやるよ、朝顔。","I'll hold you, Asagao.","Te sostendré, Asagao."
+"Tsutsui Asagao (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","待ってましたって目で見てるぞ、俺の事。","They're looking at me like they've been waiting for me.","Me miran como si me hubieran estado esperando, a mí."
+"Tsutsui Asagao (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","お前は言葉で語るんじゃなくって、 目で語るタイプなんだな。","You don't speak with words, you speak with your eyes.","Eres el tipo de persona que no habla con palabras, sino con los ojos."
+"Tsutsui Asagao (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","よしよし。 今、天国に連れてってやるぜ。","All right, all right. Now I'm taking you to heaven.","Muy bien, muy bien. Ahora te voy a llevar al cielo, tío."
+"Yamamoto Akuji (talking)","朝顔は悪司に抱かれた。","Asagao was embraced by Akuji.","Asagao fue abrazado por Akuji."
+"Yamamoto Akuji (talking)","朝顔、俺の躰が恋しくなってねぇか？","Asagao, don't you miss my body?","Asagao, ¿no echas de menos mi cuerpo?"
+"Tsutsui Asagao (talking)","………………","………………","………………"
+"narrator","朝顔は頷いた。","Asagao nodded.","Asagao asintió."
+"Yamamoto Akuji (talking)","……ちょっと、傷つくなー。","…… hey, that's hurtful.","…… hey, eso es hiriente."
+"Tsutsui Asagao (talking)","…………………","…………………","…………………"
+"narrator","朝顔は、嘘ばっかりという目で、悪司を見た。","Asagao looked at Akuji with eyes full of lies.","Asagao miró a Akuji con ojos llenos de mentiras."
+"Yamamoto Akuji (talking)","朝顔、小遣いやるぜ。","Asagao, I'll give you some money.","Asagao, te daré algo de dinero."
+"Tsutsui Asagao (talking)","…………………","…………………","…………………"
+"narrator","朝顔は首を横に振った。","Asagao shook his head.","Asagao sacudió la cabeza."
+"Yamamoto Akuji (talking)","やっぱ、金には興味ねーか。","I knew you weren't interested in money.","Sabía que no te interesaba el dinero."
+"Tsutsui Asagao (talking)","……………","……………","……………"
+"narrator","今度は、頷いた。","This time, he nodded.","Esta vez, asintió."
+"Yamamoto Akuji (talking)","お前さん、ホント、 服着てると喋んねーよな。","You really don't talk when you're dressed, do you?","Realmente no hablas cuando estás vestida, ¿verdad?"
+"Tsutsui Asagao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","朝顔、小遣いやるよ。","Asagao, I'll give you some money.","Asagao, te daré algo de dinero."
+"Tsutsui Asagao (talking)","………………ありがと…","Thanks …………………","Gracias a …………………"
+"Yamamoto Akuji (talking)","なんだ、物欲が出てきたか。","What, you're getting greedy?","¿Qué, te estás volviendo codicioso?"
+"Tsutsui Asagao (talking)","………………うん… 結婚資金………きゃっ……","……………… yeah… marriage fund……… kyak ……","……………… sí… fondo de matrimonio……… kyak ……"
+"Yamamoto Akuji (talking)","やれやれ。","Oh dear.","Oh, Dios."
+"Tsutsui Asagao (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","なんだ、随分とおとなしいじゃねぇか。","What's the matter? You've been very quiet, haven't you?","Qué, estás muy callado, ¿no?"
+"Tsutsui Asagao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","戦う前のあれ、やってくれよ。 見てーーってやつ。","That thing before the fight, do that. The one that says, “Look.","Eso de antes de la pelea, hazlo. El que dice “Mira…”."
+"Tsutsui Asagao (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","………ん~~…… どした？","……… hmm~~…… what's up?","……… hmm~~…… ¿Qué pasa?"
+"Tsutsui Asagao (talking)","………………","………………","………………"
+"Yamamoto Akuji (thinking)","ビビってんのかな？","Are they scared?","¿Tienen miedo?"
+"Tsutsui Asagao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","やれやれ。 今回もおだんまりか？","Oh dear. Another round of “no talking” this time?","Oh, Dios. ¿Otra ronda de tratamiento silencioso esta vez?"
+"Tsutsui Asagao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","んじゃまあ…… 俺のいう事きいて貰う為に、 今からちと運動して貰うぜ。","Well,…… I'm going to have you do a little exercise now to get you to listen to me.","Bueno,…… vas a tener que hacer un poco de ejercicio ahora para que te escuche."
+"Tsutsui Asagao (talking)","っ…！","Ah…!","¡Ah…!"
+"Yamamoto Akuji (talking)","なんだ、この服。 ボタンが縫いつけてあるだけで、 止めるとこがないじゃねぇか。","What's with this dress? There are only buttons sewn on, but there's no place to fasten them.","¿Qué pasa con este vestido? Sólo hay botones cosidos, no hay lugar para abrocharlos."
+"Tsutsui Asagao (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","あー…そーいう趣味の人かい。 ロシュツキョーって奴ね。","Ah…so you're into that kind of thing. He's a Roshtkyo, isn't he?","Ah… eres un hombre de ese gusto. Es un rostockiano, ¿no?"
+"Tsutsui Asagao (talking)","っ………","You can find out more at ………","………"
+"Yamamoto Akuji (talking)","何？ そーいう事、口に出されるの、 恥ずかしいってか？","What? Are you ashamed to say it out loud?","¿Qué? ¿Te da vergüenza decirlo en voz alta?"
+"Tsutsui Asagao (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","そーやって、黙って頬染めてたら、 可愛いじゃねぇか。
+さあ、俺を存分に楽しんでくれよな。","You're so cute when you keep your mouth shut and your cheeks tinted like that.
+Now, enjoy me to the fullest.","Estarías muy guapa con las mejillas teñidas de silencio de esa manera.
 Ahora, disfruta de mí al máximo, ¿quieres?"
-"Tsutsui Asagao (talking)";"っ……！";"I'm at ……!";"¡……!"
-"Tsutsui Asagao (talking)";"筒井朝顔、脱ぐと別人だった。";"Tsutsui Asagao, when he took off his clothes, he was a different person.";"Tsutsui Asagao, era una persona diferente cuando se quitaba la ropa."
-"Yamamoto Akuji (talking)";"ん~~………";"Hmmm~~………";"Hmmm~………"
-"Tsutsui Asagao (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"あんた……";"You ……";"Tú……"
-"Tsutsui Asagao (talking)";"………";"………";"………"
-"Yamamoto Akuji (talking)";"脱ぐと、饒舌になんのな。 まさか、自分のしてる事、実況されるとは 思わなかったわ。";"You're so talkative when you take off your clothes. I never thought I'd be hearing about what I'm doing.";"Eres muy hablador cuando estás desvestido. Nunca pensé que haría lo que estoy haciendo en directo."
-"Tsutsui Asagao (talking)";"~~……";"~~……";"~~……"
-"Yamamoto Akuji (talking)";"恥ずかしいなら、しなきゃいいのに。";"If you're embarrassed, you shouldn't have done it.";"Si te da vergüenza, no deberías haberlo hecho."
-"Tsutsui Asagao (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"これでよ、俺の部下になってくんねぇか？";"Here, will you be my man?";"Toma, ¿por qué no eres mi hombre?"
-"narrator";"悪司は、朝顔の前にまとまった お金をぽんと置いた。";"Akuji plopped a sum of money in front of Asagao.";"Akuji puso una suma de dinero delante de Asagao."
-"Tsutsui Asagao (talking)";"……………";"……………";"……………"
-"narrator";"朝顔は無言で首を左右に振った。";"Asagao silently shook his head from side to side.";"Asagao sacudió en silencio la cabeza de un lado a otro."
-"Yamamoto Akuji (thinking)";"金には興味ナシか。";"You don't care about money?";"¿No le interesa el dinero?"
-"Yamamoto Akuji (talking)";"さてと、お楽しみタイムだぜ、朝顔。";"Well, it's fun time, Asagao.";"Bueno, es la hora de la diversión, Asagao."
-"Tsutsui Asagao (talking)";"っ……";"You can find out more at ……";"……"
-"Yamamoto Akuji (talking)";"いくらでも声出して貰っても、 気にしねぇからよ。 思う存分、楽しみな。";"I don't mind if you make as much noise as you want. Have fun as much as you want.";"No me importa lo fuerte que lo hagas. Diviértete todo lo que quieras."
-"Tsutsui Asagao (talking)";"っ…！";"Ah…!";"¡Ah…!"
-"Tsutsui Asagao (talking)";"筒井朝顔は、悪司にこまされた。";"Tsutsui Asagao is now Akuji.";"Tsutsui Asagao fue Komedoed por Akuji."
-"Yamamoto Akuji (talking)";"さて。";"Well.";"Bueno."
-"Tsutsui Asagao (talking)";"…………";"…………";"…………"
-"Yamamoto Akuji (talking)";"俺の部下になったら、お前さんの事、 これからも可愛がってやるぜ。";"If you become my subordinate, I will continue to love you.";"Si te conviertes en mi subordinado, seguiré adorándote."
-"Tsutsui Asagao (talking)";"…………";"…………";"…………"
-"Yamamoto Akuji (talking)";"返事きかせてくんねぇ？ こっちも無駄メシ食いをいつまでも 置いとく訳にゃいかねーし。";"Can you let me know what you think? I don't want to keep wasting my time on this meal eater.";"¿Puede decirme qué le parece? No podemos seguir desperdiciando comida en ti."
-"Tsutsui Asagao (talking)";"……戦っても……いいの？";"Is…… good if I fight ……?";"¿Es bueno…… si lucho contra ……?"
-"Yamamoto Akuji (talking)";"ああ。";"Oh.";"Oh."
-"Tsutsui Asagao (talking)";"………だったら……嬉しい…";"If it was ………, I'd be…… happy…";"Si fuera ………, sería…… feliz…"
-"Yamamoto Akuji (talking)";"そーなのか？";"Is that so?";"¿Es así?"
-"Tsutsui Asagao (talking)";"戦いは……私のステージだから… みんな…私の事、見てくれるから…… ………楽しいの…";"The battle is…… my stage… everyone… looks at me……… ……… of fun…";"La lucha es…… mi escenario… porque la gente… mírame……… ……… diversión…"
-"Yamamoto Akuji (talking)";"そーか、そーか。脱げ脱げ。 脱いで脱いで強くなって、 そのうちミサイルも落としてくんな。";"Oh, yeah. Take it off, take it off. Take it off, take it off, take it off, get stronger, and eventually drop a missile on us.";"Ah, sí. Quítalo, quítalo. Quítatelo, quítatelo, hazte más fuerte y al final nos tirarán un misil."
-"Tsutsui Asagao (talking)";"……………";"……………";"……………"
-"narrator";"悪司は椅子に座り、漫画を読んでいる。";"Akuji is sitting in a chair, reading a comic book.";"Akuji está sentado en una silla, leyendo un cómic."
-"Yamamoto Akuji (talking)";"よーし、眉間に一発ブチこんで…";"All right, I'll put an Ippatsu right between the eyes…";"Muy bien, voy a poner un Ippatsu justo entre los ojos…"
-"Tsutsui Asagao (talking)";"……………聞いた……";"…………… heard it ……";"…………… escuchó ……"
-"Yamamoto Akuji (talking)";"ぉわっ！？
-なんだ、びっくりした。 朝顔か。 どした？";"Whoa!
-What a surprise. Asagao? What's up?";"¡Vaya!
+"Tsutsui Asagao (talking)","っ……！","I'm at ……!","¡……!"
+"Tsutsui Asagao (talking)","筒井朝顔、脱ぐと別人だった。","Tsutsui Asagao, when he took off his clothes, he was a different person.","Tsutsui Asagao, era una persona diferente cuando se quitaba la ropa."
+"Yamamoto Akuji (talking)","ん~~………","Hmmm~~………","Hmmm~………"
+"Tsutsui Asagao (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","あんた……","You ……","Tú……"
+"Tsutsui Asagao (talking)","………","………","………"
+"Yamamoto Akuji (talking)","脱ぐと、饒舌になんのな。 まさか、自分のしてる事、実況されるとは 思わなかったわ。","You're so talkative when you take off your clothes. I never thought I'd be hearing about what I'm doing.","Eres muy hablador cuando estás desvestido. Nunca pensé que haría lo que estoy haciendo en directo."
+"Tsutsui Asagao (talking)","~~……","~~……","~~……"
+"Yamamoto Akuji (talking)","恥ずかしいなら、しなきゃいいのに。","If you're embarrassed, you shouldn't have done it.","Si te da vergüenza, no deberías haberlo hecho."
+"Tsutsui Asagao (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","これでよ、俺の部下になってくんねぇか？","Here, will you be my man?","Toma, ¿por qué no eres mi hombre?"
+"narrator","悪司は、朝顔の前にまとまった お金をぽんと置いた。","Akuji plopped a sum of money in front of Asagao.","Akuji puso una suma de dinero delante de Asagao."
+"Tsutsui Asagao (talking)","……………","……………","……………"
+"narrator","朝顔は無言で首を左右に振った。","Asagao silently shook his head from side to side.","Asagao sacudió en silencio la cabeza de un lado a otro."
+"Yamamoto Akuji (thinking)","金には興味ナシか。","You don't care about money?","¿No le interesa el dinero?"
+"Yamamoto Akuji (talking)","さてと、お楽しみタイムだぜ、朝顔。","Well, it's fun time, Asagao.","Bueno, es la hora de la diversión, Asagao."
+"Tsutsui Asagao (talking)","っ……","You can find out more at ……","……"
+"Yamamoto Akuji (talking)","いくらでも声出して貰っても、 気にしねぇからよ。 思う存分、楽しみな。","I don't mind if you make as much noise as you want. Have fun as much as you want.","No me importa lo fuerte que lo hagas. Diviértete todo lo que quieras."
+"Tsutsui Asagao (talking)","っ…！","Ah…!","¡Ah…!"
+"Tsutsui Asagao (talking)","筒井朝顔は、悪司にこまされた。","Tsutsui Asagao is now Akuji.","Tsutsui Asagao fue Komedoed por Akuji."
+"Yamamoto Akuji (talking)","さて。","Well.","Bueno."
+"Tsutsui Asagao (talking)","…………","…………","…………"
+"Yamamoto Akuji (talking)","俺の部下になったら、お前さんの事、 これからも可愛がってやるぜ。","If you become my subordinate, I will continue to love you.","Si te conviertes en mi subordinado, seguiré adorándote."
+"Tsutsui Asagao (talking)","…………","…………","…………"
+"Yamamoto Akuji (talking)","返事きかせてくんねぇ？ こっちも無駄メシ食いをいつまでも 置いとく訳にゃいかねーし。","Can you let me know what you think? I don't want to keep wasting my time on this meal eater.","¿Puede decirme qué le parece? No podemos seguir desperdiciando comida en ti."
+"Tsutsui Asagao (talking)","……戦っても……いいの？","Is…… good if I fight ……?","¿Es bueno…… si lucho contra ……?"
+"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
+"Tsutsui Asagao (talking)","………だったら……嬉しい…","If it was ………, I'd be…… happy…","Si fuera ………, sería…… feliz…"
+"Yamamoto Akuji (talking)","そーなのか？","Is that so?","¿Es así?"
+"Tsutsui Asagao (talking)","戦いは……私のステージだから… みんな…私の事、見てくれるから…… ………楽しいの…","The battle is…… my stage… everyone… looks at me……… ……… of fun…","La lucha es…… mi escenario… porque la gente… mírame……… ……… diversión…"
+"Yamamoto Akuji (talking)","そーか、そーか。脱げ脱げ。 脱いで脱いで強くなって、 そのうちミサイルも落としてくんな。","Oh, yeah. Take it off, take it off. Take it off, take it off, take it off, get stronger, and eventually drop a missile on us.","Ah, sí. Quítalo, quítalo. Quítatelo, quítatelo, hazte más fuerte y al final nos tirarán un misil."
+"Tsutsui Asagao (talking)","……………","……………","……………"
+"narrator","悪司は椅子に座り、漫画を読んでいる。","Akuji is sitting in a chair, reading a comic book.","Akuji está sentado en una silla, leyendo un cómic."
+"Yamamoto Akuji (talking)","よーし、眉間に一発ブチこんで…","All right, I'll put an Ippatsu right between the eyes…","Muy bien, voy a poner un Ippatsu justo entre los ojos…"
+"Tsutsui Asagao (talking)","……………聞いた……","…………… heard it ……","…………… escuchó ……"
+"Yamamoto Akuji (talking)","ぉわっ！？
+なんだ、びっくりした。 朝顔か。 どした？","Whoa!
+What a surprise. Asagao? What's up?","¡Vaya!
 Qué sorpresa. ¿Asagao? ¿Qué pasa?"
-"Tsutsui Asagao (talking)";"……聞いたの……";"I heard…… ……";"He oído…… ……"
-"Yamamoto Akuji (talking)";"何を？";"What?";"¿Qué?"
-"Tsutsui Asagao (talking)";"………ストリッパー……";"……… strippers……";"……… strippers……"
-"Yamamoto Akuji (talking)";"お前さんの事かい？";"You mean you?";"¿Te refieres a ti?"
-"Tsutsui Asagao (talking)";"…………………男……";"………………… men ……";"………………… hombres ……"
-"Yamamoto Akuji (talking)";"…ああ………パンイチの事か。";"…Oh you mean ………Panichi.";"…Oh, te refieres a ………Panichi."
-"Tsutsui Asagao (talking)";"…………気になるの……";"I'm interested in………… ……";"………… Estoy interesado en ……"
-"Yamamoto Akuji (talking)";"ふーん。";"Hmmm.";"Hmmm."
-"Tsutsui Asagao (talking)";"…………連れてって…";"Take me to ……………";"………… Llévame a…"
-"Yamamoto Akuji (talking)";"今からかい？";"Now?";"¿Ahora?"
-"narrator";"朝顔は黙って頷いた。";"Asagao nodded silently.";"Asagao asintió en silencio."
-"Yamamoto Akuji (talking)";"今はダメだ。 俺は漫画読みてーんだ。";"Not now. I want to read comic books.";"Ahora no. Quiero leer cómics."
-"Tsutsui Asagao (talking)";"……………じゃあ……";"…………… then ……";"…………… y luego ……"
-"Yamamoto Akuji (talking)";"そーだなー……
-ああ、こーしよう。 今度、毛ガニ劇場を攻める時、 連れてってやるよ。";"Oh yeah… ……
-Yeah, I'll do that. I'll take you next time I hit the hairy crab theater.";"Sí, hagamos esto: ……
+"Tsutsui Asagao (talking)","……聞いたの……","I heard…… ……","He oído…… ……"
+"Yamamoto Akuji (talking)","何を？","What?","¿Qué?"
+"Tsutsui Asagao (talking)","………ストリッパー……","……… strippers……","……… strippers……"
+"Yamamoto Akuji (talking)","お前さんの事かい？","You mean you?","¿Te refieres a ti?"
+"Tsutsui Asagao (talking)","…………………男……","………………… men ……","………………… hombres ……"
+"Yamamoto Akuji (talking)","…ああ………パンイチの事か。","…Oh you mean ………Panichi.","…Oh, te refieres a ………Panichi."
+"Tsutsui Asagao (talking)","…………気になるの……","I'm interested in………… ……","………… Estoy interesado en ……"
+"Yamamoto Akuji (talking)","ふーん。","Hmmm.","Hmmm."
+"Tsutsui Asagao (talking)","…………連れてって…","Take me to ……………","………… Llévame a…"
+"Yamamoto Akuji (talking)","今からかい？","Now?","¿Ahora?"
+"narrator","朝顔は黙って頷いた。","Asagao nodded silently.","Asagao asintió en silencio."
+"Yamamoto Akuji (talking)","今はダメだ。 俺は漫画読みてーんだ。","Not now. I want to read comic books.","Ahora no. Quiero leer cómics."
+"Tsutsui Asagao (talking)","……………じゃあ……","…………… then ……","…………… y luego ……"
+"Yamamoto Akuji (talking)","そーだなー……
+ああ、こーしよう。 今度、毛ガニ劇場を攻める時、 連れてってやるよ。","Oh yeah… ……
+Yeah, I'll do that. I'll take you next time I hit the hairy crab theater.","Sí, hagamos esto: ……
 Sí, hagamos esto. Te llevaré conmigo la próxima vez que vaya al teatro del cangrejo peludo."
-"Tsutsui Asagao (talking)";"……じゃあ……ハルセに… 配置してね……";"……Then you can go to…… Halse… Placement: ……";"…… Luego…… a Halse… Colocación: ……"
-"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
-"Yamamoto Akuji (thinking)";"気が向いたら。";"If you feel up to it.";"Si te sientes con ganas."
-"Tsutsui Asagao (talking)";"………………絶対……約束……";"……………… 絶対…… 限制… …";"……………… 絶対…… 限制… …"
-"Yamamoto Akuji (talking)";"おーおー。";"Ooh-oh.";"Ooh-oh."
-"Tsutsui Asagao (talking)";"……………";"……………";"……………"
-"Tamanegi (talking)";"きましたね…";"Kimashi Tane…";"Kimashi Tane…"
-"Tsutsui Asagao (talking)";"……どこ……行くの？";"……Where…… are you going?";"…… ¿A dónde va ……?"
-"Tamanegi (talking)";"いいところですよ… そうですね… 娯楽の最先端かもしれません。";"It's a nice place… yes… perhaps the cutting edge of entertainment.";"Es un lugar agradable… sí… tal vez la vanguardia del entretenimiento."
-"Tsutsui Asagao (talking)";"…………？";"…………？";"…………？"
-"Tamanegi (talking)";"さあ、行きますよ…";"Here we go…";"Aquí vamos…"
-"Tsutsui Asagao (talking)";"………………";"………………";"………………"
-"cg narrator";"「言いつけ通り、買ってきましたか…？」
+"Tsutsui Asagao (talking)","……じゃあ……ハルセに… 配置してね……","……Then you can go to…… Halse… Placement: ……","…… Luego…… a Halse… Colocación: ……"
+"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
+"Yamamoto Akuji (thinking)","気が向いたら。","If you feel up to it.","Si te sientes con ganas."
+"Tsutsui Asagao (talking)","………………絶対……約束……","……………… 絶対…… 限制… …","……………… 絶対…… 限制… …"
+"Yamamoto Akuji (talking)","おーおー。","Ooh-oh.","Ooh-oh."
+"Tsutsui Asagao (talking)","……………","……………","……………"
+"Tamanegi (talking)","きましたね…","Kimashi Tane…","Kimashi Tane…"
+"Tsutsui Asagao (talking)","……どこ……行くの？","……Where…… are you going?","…… ¿A dónde va ……?"
+"Tamanegi (talking)","いいところですよ… そうですね… 娯楽の最先端かもしれません。","It's a nice place… yes… perhaps the cutting edge of entertainment.","Es un lugar agradable… sí… tal vez la vanguardia del entretenimiento."
+"Tsutsui Asagao (talking)","…………？","…………？","…………？"
+"Tamanegi (talking)","さあ、行きますよ…","Here we go…","Aquí vamos…"
+"Tsutsui Asagao (talking)","………………","………………","………………"
+"cg narrator","「言いつけ通り、買ってきましたか…？」
  「……中々、よいものが揃っていましたね… 　選ぶのは楽しかったですか…？」
  「……ふふふ……では…そこに座って、 　読みましょうか…」
- 「読む事に集中するんですよ… 　そう…両膝をつけて座って……」";"Did you buy the items as I told you…?
+ 「読む事に集中するんですよ… 　そう…両膝をつけて座って……」","Did you buy the items as I told you…?
  “…… had a pretty good selection… did you have fun choosing…?”
  “……Well… why don't you sit down there and we'll read…”
- “Concentrate on reading… so… sit down on both knees……";"”¿Te has creído lo que te han dicho…?”
+ “Concentrate on reading… so… sit down on both knees……","”¿Te has creído lo que te han dicho…?”
  “…… tenía una buena selección Tane… ¿disfrutaste eligiendo…?”
  “…… Hmmm… vamos a… sentarnos ahí y leer…”
  'Concéntrate en la lectura… así que… siéntate sobre ambas rodillas ……'"
-"cg narrator";"「………は……ぁ……」
+"cg narrator","「………は……ぁ……」
 朝顔は熱い息をゆっくり吐きながら、 タマネギの言う通りに動く。
  「っ………………」
 朝顔は胎道で蠢くモーターにピクリと 身を震わせた。
@@ -372,7 +372,7 @@ Sí, hagamos esto. Te llevaré conmigo la próxima vez que vaya al teatro del ca
 朝顔は膝に顔を伏せ、 ビクビクと何度も何度も震えた。
  「っ……は……ぁっ……」
 その痺れの余韻を甘受し、 とろんと熱に浮かれた目で、 朝顔は本の続きを見る。
-そこには、朝顔と同じように満足した顔の 女の子が、地面に転がっていた。";"……… is…… that is ……”
+そこには、朝顔と同じように満足した顔の 女の子が、地面に転がっていた。","……… is…… that is ……”
 Asagao exhales hot breath slowly and moves as Tamanegi says.
  ………………”
 Asagao shuddered at the motor stirring in the embryo's passage.
@@ -435,7 +435,7 @@ The numbness rose up from Asagao's back, regardless of Asagao's will.
  “Oh, Asagao, Asagao, Asagao!!!”
 Asagao fell face down on his knees and trembled again and again.
 I'm going to go to…… ah……!”
-With eyes flushed with heat, Asagao looked at the rest of the book, indulging in the afterglow of the numbness.";"'……… es…… ah ……'
+With eyes flushed with heat, Asagao looked at the rest of the book, indulging in the afterglow of the numbness.","'……… es…… ah ……'
 Asagao exhala lentamente una bocanada de aire caliente y se mueve para hacer lo que dice Tamanegi.
  '………………'
 Asagao se estremeció ante el motor que se agitaba en su pasaje embrionario.
@@ -500,20 +500,20 @@ Asagao cayó boca abajo sobre sus rodillas y tembló una y otra vez.
  'Yo…… soy…… ah……!'
 Con los ojos animados por el calor, Asagao miró el resto del libro, deleitándose con los efectos persistentes del entumecimiento.
 Allí, una chica con un rostro tan satisfecho como el de Asagao estaba tendida en el suelo."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"Chinpira (talking)";"はーい、朝顔ちゃん、朝顔ちゃん。 出張サービスお願いします！
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"Chinpira (talking)","はーい、朝顔ちゃん、朝顔ちゃん。 出張サービスお願いします！
 お相手はお金持ちのおじさまで、 テニス出来る娘っ子きぼーうって事で、 朝顔ちゃんに決定しましたよー！
-はりきってどうぞー！！";"Yes, Asagao, Asagao girl. I'll need you to go on a business trip!
+はりきってどうぞー！！","Yes, Asagao, Asagao girl. I'll need you to go on a business trip!
 The man I'm meeting is a rich man who wants a girl who can play tennis, so I've decided to go with Asagao!
-Please come on in!";"Sí, Asagao, Asagao. ¡Necesito que te vayas de viaje de negocios!
+Please come on in!","Sí, Asagao, Asagao. ¡Necesito que te vayas de viaje de negocios!
 Mi pareja es un hombre rico que quiere una chica que sepa jugar al tenis, así que me he decidido por Asagao.
  ¡Pasa!"
-"cg narrator";"「いやー、太り過ぎで運動しろと言われたんで、 　最新のスポーツを選択したはいいが、 　出来る女の子が少なくてね……」
- 「ところで… 　これは、自分の趣味かね？ 　それとも、サービスかね？」";"”Well, I was told I was overweight and needed to exercise, so I chose the newest sport, but there aren't many girls who can do it……”
- “By the way… is this a hobby of yours? 　Or is this a service?”";"'Bueno, me dijeron que tenía sobrepeso y que necesitaba hacer ejercicio, así que opté por el último deporte, pero no hay muchas chicas que puedan hacerlo……'
+"cg narrator","「いやー、太り過ぎで運動しろと言われたんで、 　最新のスポーツを選択したはいいが、 　出来る女の子が少なくてね……」
+ 「ところで… 　これは、自分の趣味かね？ 　それとも、サービスかね？」","”Well, I was told I was overweight and needed to exercise, so I chose the newest sport, but there aren't many girls who can do it……”
+ “By the way… is this a hobby of yours? 　Or is this a service?”","'Bueno, me dijeron que tenía sobrepeso y que necesitaba hacer ejercicio, así que opté por el último deporte, pero no hay muchas chicas que puedan hacerlo……'
 Por cierto… ¿es una afición tuya? 　¿O es un servicio?”"
-"cg narrator";"「えっ……」
+"cg narrator","「えっ……」
  「これだよ、これ。 　ブラはおろか、パンティまで 　つけていないなんて…」
 男は手にしているラケットの柄で、 朝顔のスコートをめくった。
 その下には、アンダースコートはなく、 朝顔の白い尻が剥き出しになっていた。
@@ -536,7 +536,7 @@ Por cierto… ¿es una afición tuya? 　¿O es un servicio?”"
  「っ……っ……」
 朝顔は答えていいのかどうかわからず、 さらにもじもじして、口をつぐむ。
 そんな朝顔の表情に、太った男は笑いの皺を その分厚い頬に浮かべ、ラケットの柄を動かした。
- 「答えなさい」";"Eh, …….”
+ 「答えなさい」","Eh, …….”
 This is it, this is it. 　I can't believe she's not wearing a bra, let alone panties…”
 The man turned Asagao's scort with the handle of the racket in his hand.
 Underneath, there was no underskirt, and Asagao's Haku ass was exposed.
@@ -559,7 +559,7 @@ I hear you're a bit of a debauchee?”
  …….”
 Asagao didn't know whether he should answer or not, so he fidgeted more, and then stopped talking.
 The fat man's face was so full of laughter that a smile creased his thick cheeks, and he moved the handle of his racket.
-Answer me.";"'Eh, …….'
+Answer me.","'Eh, …….'
 Esto es, esto es. 　No puedo creer que no lleve sujetador, y mucho menos bragas…'
 El hombre giró el scort de Asagao con el mango de la raqueta en la mano.
 Debajo, no había falda, y las nalgas de Asagao quedaban al descubierto.
@@ -583,7 +583,7 @@ He oído que eres un poco friki”.
 El Asagao no está seguro de si debe responder o no, tantea más, y luego deja de hablar.
 Lo más importante es recordar que la mejor manera de sacar el máximo partido a tu coche es asegurarte de que tienes el coche adecuado.
  “Contéstame”."
-"cg narrator";"「あっ……！！」
+"cg narrator","「あっ……！！」
 男はテニスラケットの柄の先で、 朝顔の花弁に、そっとふれた。
 若く弾力のある肉の感触が、 ラケットの柄を通じて感じる事が出来た。
 男はその感触に、分厚い唇を舐める。
@@ -628,7 +628,7 @@ Lo más importante es recordar que la mejor manera de sacar el máximo partido a
  「あっ…あっ…ああっ…んっ…くっ… 　あっ……！！」
 朝顔の躰が小さく震える。 その足には、蜜とは違う体液が、 滴り落ちていく。
  「あっ……んっぁっ…んっ……！！」
-朝顔は、排出と、非日常と、そして純粋な快楽に 躰を大きく何度も何度も震わせた。";"Oh, ……!
+朝顔は、排出と、非日常と、そして純粋な快楽に 躰を大きく何度も何度も震わせた。","Oh, ……!
 The man gently touched the petals of Asagao with the tip of his tennis racket.
 Through the handle of the racket, he could feel the young Dan's strong flesh.
 The man licked his thick lips at the sensation.
@@ -673,7 +673,7 @@ Asagao concentrated on her lower belly.
  'Ah… ah… ah… nnnn… hmmm… ah……!
 The body of Asagao trembles a little. 
 The body of Asagao shakes a little.
-Asagao's body trembled again and again from the emission, the unusualness, and the Jun chic pleasure.";"Oh ……!!!”
+Asagao's body trembled again and again from the emission, the unusualness, and the Jun chic pleasure.","Oh ……!!!”
 El hombre tocó suavemente los pétalos de Asagao con la punta del mango de su raqueta de tenis.
 El tacto de la carne fuerte del joven Dan se podía sentir a través del mango de la raqueta.
 El hombre se relamió los gruesos labios ante el contacto.
@@ -719,63 +719,63 @@ Asagao se concentró en su bajo vientre.
 El cuerpo de Asagao tiembla ligeramente. Los fluidos corporales, que son diferentes a la miel, gotean sobre sus pies.
  'Oh……… nnnn… nnnn… ……!
 El cuerpo de Asagao temblaba fuertemente y una y otra vez por la descarga, lo inusual y el placer chic de Jun."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"Tsutsui Asagao (talking)";"………ふふ……ふふふ……
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"Tsutsui Asagao (talking)","………ふふ……ふふふ……
 今、そこの角を曲がろうとしている人… 私の姿を見て貰うわ…
 いつどんなに誰に見られてもいいように、 今日も肌に磨きをかけてきたわ…
  ……いくわ……
  …………いくわよ……
-見てーーー！！";"……… fufu…… fufu……
+見てーーー！！","……… fufu…… fufu……
 Now, anyone who's about to turn that corner over there… you're going to get a look at me…
 I've polished my skin today so that no matter when or how much anyone sees me…
  ……I'm going……
 I'm going………… I'm going ……
-Look at me!!!!!!!";"……… ff…… ff……
+Look at me!!!!!!!","……… ff…… ff……
 Ahora, cualquiera que esté a punto de doblar esa esquina allí… va a tener una mirada sobre mí…
 Hoy he pulido mi piel para que no importe cuándo o cuánto me vean…
 Voy a …………
 Voy a………… Voy a ……
  ¡¡Mírame!!"
-"uimiiheishi (talking)";"ＮＯーーーー！！！ ジャパニーズ、 クレイジーーーガーーール！！";"NOoooooooo!!!!!!!!!!!!!!!!!!!!!!!!!!!!";"¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡NOoooooooo!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-"Tsutsui Asagao (talking)";"ま……待って……パンイチ………";"Ma……Wait……Panichi ………";"Ma……Wait……Panichi ………"
-"Panichi (talking)";"ははははははは。 さあこい、朝顔！ 置いていってしまうぞ。";"Ha ha ha ha ha. Come on, Asagao! We're leaving you behind.";"Ja, ja, ja, ja. ¡Vamos, vamos, Asagao! Te dejamos atrás."
-"narrator";"二人は、嬉しそうに駆けめぐっていた。";"They were running around happily.";"Corrían alegremente."
-"Tsutsui Asagao (talking)";"はあ…はあ……やっと……追いついた……";"Haha…haha…… finally caught up ……";"Ha… ha…… finalmente se puso al día ……"
-"Panichi (talking)";"捕まってしまったか。";"You've been caught.";"¿Te han pillado?"
-"Tsutsui Asagao (talking)";"…………ご褒美……くれる？";"Can you give me a………… reward ……?";"¿Puede darme una recompensa………… ……?"
-"Panichi (talking)";"ああ、いいぞ。 お前の望むままに。";"Oh, good. As you wish.";"Sí, bien. Como quieras."
-"Tsutsui Asagao (talking)";"…………嬉しい…";"………… glad…";"………… se alegra…"
-"Panichi (talking)";"何が欲しい？";"What do you want?";"¿Qué quieres?"
-"Tsutsui Asagao (talking)";"…………観客……";"…………観客 ……";"…………観客 ……"
-"Panichi (talking)";"俺も今、お前と同じ事を思っていた。 では行こうか、それぞれの舞台に。";"I was thinking the same thing you are now. Let's go to each Mai stand.";"Estaba pensando lo mismo que tú ahora mismo. Vamos, pues, a nuestras respectivas plataformas de Mai."
-"Tsutsui Asagao (talking)";"………ええ……";"……… yeah ……";"……… si……"
-"Panichi (talking)";"お前は、路地裏だな。";"You're an alleyway.";"Eres un callejón."
-"Tsutsui Asagao (talking)";"あなたは………毛ガニ劇場ね……";"You are……… the hairy crab theater……";"Eres el teatro del cangrejo peludo ……………"
-"Panichi (talking)";"ふっ。";"Phew.";"Uf."
-"Tsutsui Asagao (talking)";"…………うふ……";"…………uf……";"………… uu……"
-"narrator";"二人は幸せそうだった。";"They seemed happy.";"Parecían felices."
-"Tsutsui Asagao (talking)";"ふふ……ふふふ…
+"uimiiheishi (talking)","ＮＯーーーー！！！ ジャパニーズ、 クレイジーーーガーーール！！","NOoooooooo!!!!!!!!!!!!!!!!!!!!!!!!!!!!","¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡NOoooooooo!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+"Tsutsui Asagao (talking)","ま……待って……パンイチ………","Ma……Wait……Panichi ………","Ma……Wait……Panichi ………"
+"Panichi (talking)","ははははははは。 さあこい、朝顔！ 置いていってしまうぞ。","Ha ha ha ha ha. Come on, Asagao! We're leaving you behind.","Ja, ja, ja, ja. ¡Vamos, vamos, Asagao! Te dejamos atrás."
+"narrator","二人は、嬉しそうに駆けめぐっていた。","They were running around happily.","Corrían alegremente."
+"Tsutsui Asagao (talking)","はあ…はあ……やっと……追いついた……","Haha…haha…… finally caught up ……","Ha… ha…… finalmente se puso al día ……"
+"Panichi (talking)","捕まってしまったか。","You've been caught.","¿Te han pillado?"
+"Tsutsui Asagao (talking)","…………ご褒美……くれる？","Can you give me a………… reward ……?","¿Puede darme una recompensa………… ……?"
+"Panichi (talking)","ああ、いいぞ。 お前の望むままに。","Oh, good. As you wish.","Sí, bien. Como quieras."
+"Tsutsui Asagao (talking)","…………嬉しい…","………… glad…","………… se alegra…"
+"Panichi (talking)","何が欲しい？","What do you want?","¿Qué quieres?"
+"Tsutsui Asagao (talking)","…………観客……","…………観客 ……","…………観客 ……"
+"Panichi (talking)","俺も今、お前と同じ事を思っていた。 では行こうか、それぞれの舞台に。","I was thinking the same thing you are now. Let's go to each Mai stand.","Estaba pensando lo mismo que tú ahora mismo. Vamos, pues, a nuestras respectivas plataformas de Mai."
+"Tsutsui Asagao (talking)","………ええ……","……… yeah ……","……… si……"
+"Panichi (talking)","お前は、路地裏だな。","You're an alleyway.","Eres un callejón."
+"Tsutsui Asagao (talking)","あなたは………毛ガニ劇場ね……","You are……… the hairy crab theater……","Eres el teatro del cangrejo peludo ……………"
+"Panichi (talking)","ふっ。","Phew.","Uf."
+"Tsutsui Asagao (talking)","…………うふ……","…………uf……","………… uu……"
+"narrator","二人は幸せそうだった。","They seemed happy.","Parecían felices."
+"Tsutsui Asagao (talking)","ふふ……ふふふ…
 ステキ…こんなに人が集まって… 私…私…… 思いっ切り、戦わせて頂きますわ！！
-見てーーー！！";"Hmmm…… Hmmm…
+見てーーー！！","Hmmm…… Hmmm…
 Lovely… so many people here… me… me…… I'll fight with all my might!
-Look at this!!!!!!!";"Hmm……… Hmm…
+Look at this!!!!!!!","Hmm……… Hmm…
 Encantador… tanta gente aquí… yo… yo…… ¡Lucharé con todas mis fuerzas!
  ¡Mírame!"
-"Tsutsui Asagao (talking)";"見てーーーー！！ 私を見てーーーー！！！！";"Look at me!!!!!!! Look at meーーCOPY00";"Mírame…"
-" (talking)";"ぶーーー！！！！";"Booo ！！！！";"Booooo ！！！！"
-"narrator";"敵は戦闘意欲を失った。";"The enemy lost the will to fight.";"El enemigo perdió la voluntad de luchar."
-"narrator";"朝顔とパンイチは、トランクを持って、 港にいた。";"Asagao and Panichi were at the port with a trunk.";"Asagao y Panichi estaban en el puerto con una bota."
-"Panichi (talking)";"支度は出来たかい？";"Are you ready?";"¿Estás preparado?"
-"Tsutsui Asagao (talking)";"………ええ……あなた……";"……… yeah…… you ……";"……… sí…… tú……"
-"Panichi (talking)";"それじゃあ、旅に出よう。 オレ達は世界に羽ばたくんだ。";"Then let's go on a journey. We're going global.";"Entonces vamos a hacer un viaje. Vamos a ser globales."
-"Tsutsui Asagao (talking)";"………中国の人にも……";"……… and to people in China: ……";"……… y a la gente de China: ……"
-"Panichi (talking)";"ああ、そうだ。 フランス人にも。";"Ah, yes. And to the French.";"Ah, sí. Y a los franceses."
-"Tsutsui Asagao (talking)";"………ロシア人にも…？";"……… Even the Russians…?";"……… ¿Y los rusos…?"
-"Panichi (talking)";"ああ、そうだ。";"Oh, yes.";"Sí, lo son."
-"Tsutsui Asagao (talking)";"………すてき……";"……… nice ……";"……… nice……"
-"Panichi (talking)";"そうだ、すてきな旅になるぜ。";"Yes, it's going to be a neat trip.";"Sí, va a ser un buen viaje."
-"narrator";"　　［キュッ］
-パンイチはシルクハットの鍔を鳴らした。";"[cupped].
-Panichi snapped the brim of his silk hat.";"[cue]
+"Tsutsui Asagao (talking)","見てーーーー！！ 私を見てーーーー！！！！","Look at me!!!!!!! Look at meーーCOPY00","Mírame…"
+" (talking)","ぶーーー！！！！","Booo ！！！！","Booooo ！！！！"
+"narrator","敵は戦闘意欲を失った。","The enemy lost the will to fight.","El enemigo perdió la voluntad de luchar."
+"narrator","朝顔とパンイチは、トランクを持って、 港にいた。","Asagao and Panichi were at the port with a trunk.","Asagao y Panichi estaban en el puerto con una bota."
+"Panichi (talking)","支度は出来たかい？","Are you ready?","¿Estás preparado?"
+"Tsutsui Asagao (talking)","………ええ……あなた……","……… yeah…… you ……","……… sí…… tú……"
+"Panichi (talking)","それじゃあ、旅に出よう。 オレ達は世界に羽ばたくんだ。","Then let's go on a journey. We're going global.","Entonces vamos a hacer un viaje. Vamos a ser globales."
+"Tsutsui Asagao (talking)","………中国の人にも……","……… and to people in China: ……","……… y a la gente de China: ……"
+"Panichi (talking)","ああ、そうだ。 フランス人にも。","Ah, yes. And to the French.","Ah, sí. Y a los franceses."
+"Tsutsui Asagao (talking)","………ロシア人にも…？","……… Even the Russians…?","……… ¿Y los rusos…?"
+"Panichi (talking)","ああ、そうだ。","Oh, yes.","Sí, lo son."
+"Tsutsui Asagao (talking)","………すてき……","……… nice ……","……… nice……"
+"Panichi (talking)","そうだ、すてきな旅になるぜ。","Yes, it's going to be a neat trip.","Sí, va a ser un buen viaje."
+"narrator","　　［キュッ］
+パンイチはシルクハットの鍔を鳴らした。","[cupped].
+Panichi snapped the brim of his silk hat.","[cue]
 Panichi se ha roto el ala de su sombrero de seda."

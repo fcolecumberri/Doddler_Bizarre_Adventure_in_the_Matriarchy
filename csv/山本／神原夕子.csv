@@ -1,36 +1,36 @@
-"character";"jap text";"Eng";"Esp"
-"__system__??";"{麦 = 1:";"";""
-"__system__??";"{☆夕子 = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"{(☆夕子 = 2) * (★愛 = 1) * (★結婚 = 0):";"";""
-"__system__??";"}";"";""
-"__system__??";"{☆天才病院 = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"{☆のぞみ = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"{☆のぞみ = 2:";"";""
-"__system__??";"}";"";""
-"__system__??";"{☆のぞみ = 3:";"";""
-"__system__??";"}";"";""
-"__system__??";"{(☆のぞみ = 4) * (☆のぞみ \ 99):";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 2:";"";""
-"__system__??";"{☆神原セックス = 0:";"";""
-"__system__??";"}";"";""
-"__system__??";"{☆悪司テクニック > 95:";"";""
-"__system__??";"}";"";""
-"__system__??";"{☆悪司テクニック > 50:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 3:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 4:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 5:";"";""
-"__system__??";"}";"";""
-"Yamamoto Akuji (thinking)";"夕子さん…か……";"Yuuko… or ……";"Yuuko… o ……"
-"cg narrator";"（夕子さんと俺の出会いは、俺がガキの頃だ……）
+"character","jap text","Eng","Esp"
+"__system__??","{麦 = 1:","",""
+"__system__??","{☆夕子 = 1:","",""
+"__system__??","}","",""
+"__system__??","{(☆夕子 = 2) * (★愛 = 1) * (★結婚 = 0):","",""
+"__system__??","}","",""
+"__system__??","{☆天才病院 = 1:","",""
+"__system__??","}","",""
+"__system__??","{☆のぞみ = 1:","",""
+"__system__??","}","",""
+"__system__??","{☆のぞみ = 2:","",""
+"__system__??","}","",""
+"__system__??","{☆のぞみ = 3:","",""
+"__system__??","}","",""
+"__system__??","{(☆のぞみ = 4) * (☆のぞみ \ 99):","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 2:","",""
+"__system__??","{☆神原セックス = 0:","",""
+"__system__??","}","",""
+"__system__??","{☆悪司テクニック > 95:","",""
+"__system__??","}","",""
+"__system__??","{☆悪司テクニック > 50:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 3:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 4:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 5:","",""
+"__system__??","}","",""
+"Yamamoto Akuji (thinking)","夕子さん…か……","Yuuko… or ……","Yuuko… o ……"
+"cg narrator","（夕子さんと俺の出会いは、俺がガキの頃だ……）
  （近所のガキ大将だったデブをブチのめして、 　俺がガキ大将になったら……）
  （その祝いだといって、じーさんがくれた 　プレゼントが、夕子さんだった）
  （じーさんは夕子さんに何をしてもいいと言った…）
@@ -53,7 +53,7 @@
  （でも…泣いてたの、見たからなぁ…）
  （あの時の俺は無茶苦茶ばかりしてたから、 　傷が傷んだりとか…そーいうのだったのかなぁ…）
  （まー、何にせよ、俺がいくらテクをあげても 　女心ってのは、とっきどきわかんねぇから…）
- （男の俺が一生考えても、あの時の夕子さんの 　涙の意味は、わかんねーかもなー……）";"(Yuuko and I met when I was a kid ……)
+ （男の俺が一生考えても、あの時の夕子さんの 　涙の意味は、わかんねーかもなー……）","(Yuuko and I met when I was a kid ……)
  (When I beat up a fat kid who was the neighborhood general and I became the general of the neighborhood ……)
  (My grandfather gave me a present as a gift to celebrate that, and it was Yuuko.)
  (Ji-san said that I could do anything I wanted to Yuuko…)
@@ -76,7 +76,7 @@
  （But… I saw you crying…)
  (I was so reckless at that time, I wonder if my wounds were damaged or something like that…)
  （Well, anyway, no matter how many techniques I give you, you can never tell what a woman's mind is like…)
- (Even if I, a man, think about it all my life, I may never understand the meaning of Yuuko's tears at that time… ……)";"(Yuuko y yo nos conocimos cuando era un niño ……)
+ (Even if I, a man, think about it all my life, I may never understand the meaning of Yuuko's tears at that time… ……)","(Yuuko y yo nos conocimos cuando era un niño ……)
  (Le di una paliza a un niño gordo que era el general del barrio, y cuando me convertí en el general del barrio ……)
  (Como celebración, mi abuelo me dio un regalo, que era Yuuko).
  （Ji-San dijo que podía hacer lo que quisiera con Yuuko…)
@@ -100,38 +100,38 @@
  （Estaba haciendo muchas imprudencias en ese momento, así que me pregunto si fue algo como una cicatriz o algo así…)
  （Bueno, de todos modos, no importa cuántas técnicas te dé, no siempre puedes entender la mente de una mujer…)
  (Aunque yo, un hombre, piense en ello toda mi vida, puede que nunca entienda el significado de las lágrimas de Yuuko en ese momento… ……)"
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-" (talking)";"かんがえごとのかお~~♪";"Kankouhou koto~~♪";"expresión de profunda contemplación~~~"
-"narrator";"と言って、悪司の頬をむにーと伸ばす、 少し冷たい指先。";"And then, the slightly cold fingertips stretched out Akuji's cheeks with a munching motion.";"Y luego, las puntas de los dedos ligeramente frías que estiran las mejillas de Akuji."
-"Kanbara Yuuko (talking)";"ふふ。";"Hmmm.";"Hmm."
-"Yamamoto Akuji (talking)";"あいかわらず、気配殺して 俺に近づくの好きだなー、夕子さん。";"As usual, Yuuko likes to approach me with her presence Satsu.";"Como siempre, te gusta acercarte a mí con tu presencia Satsu, Yuuko."
-"Kanbara Yuuko (talking)";"うふふ。 あーくんの困った顔を見るのが 好きなの。";"Mmm-hmm. I like to see your troubled face.";"Mmm-hmm. Me gusta ver tu cara de preocupación."
-"Yamamoto Akuji (talking)";"ホントに困った人だ。";"He is a real pain in the ass.";"Es un verdadero dolor de cabeza."
-"Kanbara Yuuko (talking)";"うふふふふ。";"Mmm-hmm.";"Mm-hmm."
-"Kanbara Yuuko (talking)";"あーくん、あーくん。";"Ah-kun, ah-kun.";"Ah-kun, ah-kun."
-"Yamamoto Akuji (talking)";"おう、なんだい？ 夕子さん。";"Oh, what's up? Yuuko.";"Oh, ¿qué es? Yuuko."
-"Kanbara Yuuko (talking)";"もう、した？";"Have you done it yet?";"¿Ya lo has hecho?"
-"Yamamoto Akuji (talking)";"何を？";"What?";"¿Qué?"
-"Kanbara Yuuko (talking)";"ラヴラヴ民華さんとー。 すぺしゃるぎんぎん感じまくっちゃい そーな、ラヴラヴえっちー♪";"With Minka of LoveLove I can't wait to feel all the feelings of the love love….";"Con Minka, LoveLove. No puedo esperar a sentir todos los sentimientos del amor…"
-"Yamamoto Akuji (talking)";"ぶーー！！！！！";"Bu ！！！！！";"Bu ！！！！！"
-"Kanbara Yuuko (talking)";"あら、してないの~？";"Oh, you haven't~?";"Oh, no lo has hecho~?"
-"Yamamoto Akuji (talking)";"と、当然だ！ まだ結婚もしてねーっつの！";"And, of course! I ain't even married yet!";"Y, ¡por supuesto! ¡Aún no me he casado!"
-"Kanbara Yuuko (talking)";"あーくん、やる事やっといて、 そーいうとこ、昔から純情だもんねー。
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+" (talking)","かんがえごとのかお~~♪","Kankouhou koto~~♪","expresión de profunda contemplación~~~"
+"narrator","と言って、悪司の頬をむにーと伸ばす、 少し冷たい指先。","And then, the slightly cold fingertips stretched out Akuji's cheeks with a munching motion.","Y luego, las puntas de los dedos ligeramente frías que estiran las mejillas de Akuji."
+"Kanbara Yuuko (talking)","ふふ。","Hmmm.","Hmm."
+"Yamamoto Akuji (talking)","あいかわらず、気配殺して 俺に近づくの好きだなー、夕子さん。","As usual, Yuuko likes to approach me with her presence Satsu.","Como siempre, te gusta acercarte a mí con tu presencia Satsu, Yuuko."
+"Kanbara Yuuko (talking)","うふふ。 あーくんの困った顔を見るのが 好きなの。","Mmm-hmm. I like to see your troubled face.","Mmm-hmm. Me gusta ver tu cara de preocupación."
+"Yamamoto Akuji (talking)","ホントに困った人だ。","He is a real pain in the ass.","Es un verdadero dolor de cabeza."
+"Kanbara Yuuko (talking)","うふふふふ。","Mmm-hmm.","Mm-hmm."
+"Kanbara Yuuko (talking)","あーくん、あーくん。","Ah-kun, ah-kun.","Ah-kun, ah-kun."
+"Yamamoto Akuji (talking)","おう、なんだい？ 夕子さん。","Oh, what's up? Yuuko.","Oh, ¿qué es? Yuuko."
+"Kanbara Yuuko (talking)","もう、した？","Have you done it yet?","¿Ya lo has hecho?"
+"Yamamoto Akuji (talking)","何を？","What?","¿Qué?"
+"Kanbara Yuuko (talking)","ラヴラヴ民華さんとー。 すぺしゃるぎんぎん感じまくっちゃい そーな、ラヴラヴえっちー♪","With Minka of LoveLove I can't wait to feel all the feelings of the love love….","Con Minka, LoveLove. No puedo esperar a sentir todos los sentimientos del amor…"
+"Yamamoto Akuji (talking)","ぶーー！！！！！","Bu ！！！！！","Bu ！！！！！"
+"Kanbara Yuuko (talking)","あら、してないの~？","Oh, you haven't~?","Oh, no lo has hecho~?"
+"Yamamoto Akuji (talking)","と、当然だ！ まだ結婚もしてねーっつの！","And, of course! I ain't even married yet!","Y, ¡por supuesto! ¡Aún no me he casado!"
+"Kanbara Yuuko (talking)","あーくん、やる事やっといて、 そーいうとこ、昔から純情だもんねー。
 怖いわねー、英才教育って。 ご隠居様と、大杉さんのせいねー。
 でもね、あーくん。女って生き物はね、 ちょっとぐらい殿方が強引でも「あら 可愛い」と思ってしまったりするの。
 だからね、怖がらなくてもいいのよ。 女って、心も躰も案外丈夫なんだから。
 でないとー… いつ、横からライバルが現れて、 さらっちゃうか、わかんないわよ。
 あ、でも~、これって、好きな男の子の 場合だからね~。
 どーでもいいのとかー、ウザイのとかに 強引な事されるとー…
-死んじゃえ☆　とか思っちゃうから~。 ちゃんと確かめるのよ~。";"You've done your job, but you've always been a Jun.
+死んじゃえ☆　とか思っちゃうから~。 ちゃんと確かめるのよ~。","You've done your job, but you've always been a Jun.
 Scary, isn't it, gifted education? It's because of you and Mr. Oosugi, isn't it?
 But you know what, Akun? Women, you know, even if a gentleman is a bit pushy, they still think it's “Oh, how cute”.
 So, you don't have to be afraid. Women are stronger than you think, both physically and mentally.
 Otherwise, you never know when a rival will appear from the side and snatch you away.
 Oh, but~ this is only for boys I like.
 If someone I don't care about or someone who annoys me tries to force me into something…
-I'll think, “Let him die!☆ Make sure you know what you're doing.";"Ah-kun, después de todo lo que has hecho, siempre has sido tan Jun, ¿no es así?
+I'll think, “Let him die!☆ Make sure you know what you're doing.","Ah-kun, después de todo lo que has hecho, siempre has sido tan Jun, ¿no es así?
 La educación para superdotados da miedo. Es tu culpa y la de Oosugi-san, ¿no?
  ¿Pero sabes qué, Akun? Las mujeres, las criaturas, aunque un caballero sea un poco prepotente, piensan: “Oh, qué bonito”.
 Así que no hay que tener miedo. Las mujeres son más fuertes de lo que crees, tanto física como mentalmente.
@@ -139,183 +139,183 @@ De lo contrario… nunca se sabe cuándo aparecerá un rival por el lado y te ar
 Ah, pero~ esto sólo ocurre con los chicos que te gustan.
 Si alguien que no te importa, o alguien que te molesta, hace algo contundente…
 Pensaré, “Déjalo morir☆”. Asegúrese de que está seguro~."
-"Yamamoto Akuji (talking)";"う……";"U……";"U……"
-"Kanbara Yuuko (talking)";"あ、応援歌歌ってあげる。 がんば~れ~♪ あん、がんば~れ~♪♪";"Oh, I'll sing a cheering song for you. Ganbare~♪ An, ganbare~♪♪";"Ah, te cantaré una canción de ánimo. Ganbare~♪ An, ganbare~♪♪"
-"Yamamoto Akuji (talking)";"勘弁してくれ……";"Give me a break: ……";"Dame un respiro: ……"
-"Kanbara Yuuko (talking)";"はーい。";"Hai.";"Hai."
-"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
-"Takeda Nozomi (talking)";"こ……こんにちわ……";"This…… hello ……";"Ko…… hola……"
-"Yamamoto Akuji (talking)";"…………おう。";"………… Oh.";"………… Oh."
-"Takeda Nozomi (talking)";"あ、あの…… 今回は助けて頂いて、 ありがとうございました……";"Oh, um,…… thank you so much for your help this time ……";"Oh, um,…… muchas gracias por ayudarme esta vez……"
-"Yamamoto Akuji (talking)";"礼は、夕子さんに言いな。 俺は夕子さんのおねだり、 聞いただけだからよ。";"You should thank Yuuko. I only listened to Yuuko's begging.";"Deberías dar las gracias a Yuuko. Sólo escuché los ruegos de Yuuko."
-"Kanbara Yuuko (talking)";"この子ね、行くところないんだって。 私とおんなじで天涯孤独だって。 だから、一緒にいてあげる事にしたの。";"This girl has nowhere to go. She says she is a loner like me. So I decided to stay with her.";"Esta chica no tiene dónde ir. Como yo, dice que está sola en toda su vida. Así que decidí quedarme con ella."
-"Yamamoto Akuji (talking)";"んー、そうか。";"Hmmm.";"Hmmm."
-"Kanbara Yuuko (talking)";"いい事？ このあーくんは、私のご主人様だから、 あなたにとってもご主人様よ。";"Good thing? This ah-kun is my master, so he's your master, too.";"¿Es bueno? Este ah-kun es mi maestro, así que también es tu maestro."
-"Takeda Nozomi (talking)";"はい、わかりました、夕子様…… では、悪司様の事は、ご主人様とお呼び すればよいのでしょうか…？";"Yes, I understand, Yuuko-sama…… Then, should I call Akuji-sama Master…?";"Sí, entiendo, Yuuko-sama…… Entonces, ¿debo llamar a Akuji-sama Maestro…?"
-"Yamamoto Akuji (talking)";"ご主人様……";"Master: ……";"Maestro: ……"
-"narrator";"　　［ぴっきーーーん］
-のぞみの弱々しい声が、 悪司の中の何かを目覚めさせた。";"［Pikki!]
-Nozomi's weak voice awakened something inside Akuji.";"[Pikki-eekk-eek-eek]
+"Yamamoto Akuji (talking)","う……","U……","U……"
+"Kanbara Yuuko (talking)","あ、応援歌歌ってあげる。 がんば~れ~♪ あん、がんば~れ~♪♪","Oh, I'll sing a cheering song for you. Ganbare~♪ An, ganbare~♪♪","Ah, te cantaré una canción de ánimo. Ganbare~♪ An, ganbare~♪♪"
+"Yamamoto Akuji (talking)","勘弁してくれ……","Give me a break: ……","Dame un respiro: ……"
+"Kanbara Yuuko (talking)","はーい。","Hai.","Hai."
+"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
+"Takeda Nozomi (talking)","こ……こんにちわ……","This…… hello ……","Ko…… hola……"
+"Yamamoto Akuji (talking)","…………おう。","………… Oh.","………… Oh."
+"Takeda Nozomi (talking)","あ、あの…… 今回は助けて頂いて、 ありがとうございました……","Oh, um,…… thank you so much for your help this time ……","Oh, um,…… muchas gracias por ayudarme esta vez……"
+"Yamamoto Akuji (talking)","礼は、夕子さんに言いな。 俺は夕子さんのおねだり、 聞いただけだからよ。","You should thank Yuuko. I only listened to Yuuko's begging.","Deberías dar las gracias a Yuuko. Sólo escuché los ruegos de Yuuko."
+"Kanbara Yuuko (talking)","この子ね、行くところないんだって。 私とおんなじで天涯孤独だって。 だから、一緒にいてあげる事にしたの。","This girl has nowhere to go. She says she is a loner like me. So I decided to stay with her.","Esta chica no tiene dónde ir. Como yo, dice que está sola en toda su vida. Así que decidí quedarme con ella."
+"Yamamoto Akuji (talking)","んー、そうか。","Hmmm.","Hmmm."
+"Kanbara Yuuko (talking)","いい事？ このあーくんは、私のご主人様だから、 あなたにとってもご主人様よ。","Good thing? This ah-kun is my master, so he's your master, too.","¿Es bueno? Este ah-kun es mi maestro, así que también es tu maestro."
+"Takeda Nozomi (talking)","はい、わかりました、夕子様…… では、悪司様の事は、ご主人様とお呼び すればよいのでしょうか…？","Yes, I understand, Yuuko-sama…… Then, should I call Akuji-sama Master…?","Sí, entiendo, Yuuko-sama…… Entonces, ¿debo llamar a Akuji-sama Maestro…?"
+"Yamamoto Akuji (talking)","ご主人様……","Master: ……","Maestro: ……"
+"narrator","　　［ぴっきーーーん］
+のぞみの弱々しい声が、 悪司の中の何かを目覚めさせた。","［Pikki!]
+Nozomi's weak voice awakened something inside Akuji.","[Pikki-eekk-eek-eek]
 La débil voz de Nozomi despertó algo dentro de Akuji."
-"Yamamoto Akuji (talking)";"夕子さん。";"Yuuko.";"Yuuko."
-"Kanbara Yuuko (talking)";"ん~？";"Hmm?";"¿Hmm?"
-"Yamamoto Akuji (talking)";"悪いけど、こいつと二人きりに させてくんねーか？";"I'm sorry, but can you give me a minute alone with this guy?";"Lo siento, pero ¿puede darme un momento a solas con este tipo?"
-"Kanbara Yuuko (talking)";"あーくん？";"Aa-kun?";"¿Aa-kun?"
-"Yamamoto Akuji (talking)";"早く。";"Quickly.";"Rápido."
-"Kanbara Yuuko (talking)";"ん……わかったけど……";"I know…… but ……";"N…… entender, pero ……"
-"narrator";"夕子は不思議そうな顔をして、 その場から離れた。
-その部屋には、悪司が望んだ通り、 のぞみと二人きりになった。";"Yuuko looked at me curiously and left the room.
-In that room, Akuji was left alone with Nozomi, just as Akuji had wished.";"Yuuko puso cara de curiosidad y se fue del lugar.
+"Yamamoto Akuji (talking)","夕子さん。","Yuuko.","Yuuko."
+"Kanbara Yuuko (talking)","ん~？","Hmm?","¿Hmm?"
+"Yamamoto Akuji (talking)","悪いけど、こいつと二人きりに させてくんねーか？","I'm sorry, but can you give me a minute alone with this guy?","Lo siento, pero ¿puede darme un momento a solas con este tipo?"
+"Kanbara Yuuko (talking)","あーくん？","Aa-kun?","¿Aa-kun?"
+"Yamamoto Akuji (talking)","早く。","Quickly.","Rápido."
+"Kanbara Yuuko (talking)","ん……わかったけど……","I know…… but ……","N…… entender, pero ……"
+"narrator","夕子は不思議そうな顔をして、 その場から離れた。
+その部屋には、悪司が望んだ通り、 のぞみと二人きりになった。","Yuuko looked at me curiously and left the room.
+In that room, Akuji was left alone with Nozomi, just as Akuji had wished.","Yuuko puso cara de curiosidad y se fue del lugar.
 En esa habitación, Akuji se quedó a solas con Nozomi, tal y como Akuji había deseado."
-"Takeda Nozomi (talking)";"あ、あの……何か……";"Oh, that…… something ……";"Oh, eso…… algo ……"
-"menu_label__(L_00c93)";"いじめる";"torment";"tormento"
-"menu_label__(L_00c93)";"いじめる";"torment";"tormento"
-"menu_label__(L_00c93)";"いじめる";"torment";"tormento"
-"Yamamoto Akuji (talking)";"っ………
-だっ…駄目だ！！";"I'll tell you what… ………
-No!";"No voy a… ………
+"Takeda Nozomi (talking)","あ、あの……何か……","Oh, that…… something ……","Oh, eso…… algo ……"
+"menu_label__(L_00c93)","いじめる","torment","tormento"
+"menu_label__(L_00c93)","いじめる","torment","tormento"
+"menu_label__(L_00c93)","いじめる","torment","tormento"
+"Yamamoto Akuji (talking)","っ………
+だっ…駄目だ！！","I'll tell you what… ………
+No!","No voy a… ………
 No… ¡no!"
-"Takeda Nozomi (talking)";"えっ…";"Eh…";"Eh…"
-"Yamamoto Akuji (talking)";"我慢出来ねーーーー！！！！";"I can't stand it… ！！！！";"No puedo soportarlo… ！！！！"
-"Takeda Nozomi (talking)";"きゃーーーー！！！";"Kyaaaahhh!";"¡¡¡Kyaaaah!!!"
-"narrator";"　　［………ぇっ……］
- 　　［うえっ……えっ……］";"[……… eh ……]
- 　　[eh…… eh ……]";"[……… eh ……]
+"Takeda Nozomi (talking)","えっ…","Eh…","Eh…"
+"Yamamoto Akuji (talking)","我慢出来ねーーーー！！！！","I can't stand it… ！！！！","No puedo soportarlo… ！！！！"
+"Takeda Nozomi (talking)","きゃーーーー！！！","Kyaaaahhh!","¡¡¡Kyaaaah!!!"
+"narrator","　　［………ぇっ……］
+ 　　［うえっ……えっ……］","[……… eh ……]
+ 　　[eh…… eh ……]","[……… eh ……]
  　　[eh…… eh ……]"
-"Kanbara Yuuko (talking)";"え~……と……";"Ehhh…… and ……";"Ehh -…… y ……"
-"Takeda Nozomi (talking)";"うっ……ううっ……";"Ugh…… ugh ……";"Ugh…… ugh ……"
-"Yamamoto Akuji (talking)";"……………";"……………";"……………"
-"Kanbara Yuuko (talking)";"あーくん…";"Ah-kun…";"Ah-kun…"
-"Yamamoto Akuji (talking)";"……俺のせいじゃねぇ……
-こいつが……こいつが……";"It ain't my fault…… it ain't my fault ……
-This guy is…… this guy is ……";"No es mi culpa……
+"Kanbara Yuuko (talking)","え~……と……","Ehhh…… and ……","Ehh -…… y ……"
+"Takeda Nozomi (talking)","うっ……ううっ……","Ugh…… ugh ……","Ugh…… ugh ……"
+"Yamamoto Akuji (talking)","……………","……………","……………"
+"Kanbara Yuuko (talking)","あーくん…","Ah-kun…","Ah-kun…"
+"Yamamoto Akuji (talking)","……俺のせいじゃねぇ……
+こいつが……こいつが……","It ain't my fault…… it ain't my fault ……
+This guy is…… this guy is ……","No es mi culpa……
 Él es el…… Él es el ……"
-"Takeda Nozomi (talking)";"いっ……いやっ…やめて下さい… もういじめないで…… お願いです……";"Please don't tease me anymore…… please ……";"No… no… no me intimides más…… Por favor… ……"
-"Yamamoto Akuji (talking)";"そっ……
-そんな目で俺を見るなーー！！";"That's ……
-Don't look at me like that!";"Eso es todo……
+"Takeda Nozomi (talking)","いっ……いやっ…やめて下さい… もういじめないで…… お願いです……","Please don't tease me anymore…… please ……","No… no… no me intimides más…… Por favor… ……"
+"Yamamoto Akuji (talking)","そっ……
+そんな目で俺を見るなーー！！","That's ……
+Don't look at me like that!","Eso es todo……
  ¡No me mires así!"
-"Takeda Nozomi (talking)";"い、いやぁぁっ…！！";"No, no…!";"¡No, no…!"
-"narrator";"　　［ぴしゃんっっっっっっ］";"[Pishan!]";"[¡Pishan!]"
-"Yamamoto Akuji (talking)";"いだだだだだだ！！";"I'm not going to let it happen!";"¡¡Ida-da-da-da!!"
-"narrator";"夕子は悪司の尻を引っぱたいた。";"Yuuko slapped Akuji on the ass.";"Yuuko le dio una palmada a Akuji en las nalgas."
-"Kanbara Yuuko (talking)";"あーくん、プロでしょう！？ 女の色香に負けてどうするの！？";"A-kun, you're a pro! What are you going to do when a woman's sex appeal gets the better of you!";"¡Ah-kun, eres un profesional! ¿Qué vas a hacer cuando el atractivo sexual de una mujer te supera?"
-"Yamamoto Akuji (talking)";"………自分でも制御出来ねーんだよ……";"I ain't in control of……… myself……";"……… Ni siquiera puedo controlarlo yo mismo……"
-"Kanbara Yuuko (talking)";"………あ~あ……";"……… ahhhh ……";"……… ah-ah ……"
-"Yamamoto Akuji (talking)";"……はぁ~……";"…… haha ……";"…… haha ……"
-"Yamamoto Akuji (talking)";"……………";"……………";"……………"
-"Kanbara Yuuko (talking)";"どしたの、あーくん？";"What's the matter, Akun?";"¿Qué pasa, ah-kun?"
-"Yamamoto Akuji (talking)";"あの娘は……？";"Is that girl ……?";"¿Es esa chica ……?"
-"Kanbara Yuuko (talking)";"ん~…？
-ああ…のぞみちゃんの事？";"Hmmm…?
-Oh…you mean Nozomi?";"¿Hmm…?
+"Takeda Nozomi (talking)","い、いやぁぁっ…！！","No, no…!","¡No, no…!"
+"narrator","　　［ぴしゃんっっっっっっ］","[Pishan!]","[¡Pishan!]"
+"Yamamoto Akuji (talking)","いだだだだだだ！！","I'm not going to let it happen!","¡¡Ida-da-da-da!!"
+"narrator","夕子は悪司の尻を引っぱたいた。","Yuuko slapped Akuji on the ass.","Yuuko le dio una palmada a Akuji en las nalgas."
+"Kanbara Yuuko (talking)","あーくん、プロでしょう！？ 女の色香に負けてどうするの！？","A-kun, you're a pro! What are you going to do when a woman's sex appeal gets the better of you!","¡Ah-kun, eres un profesional! ¿Qué vas a hacer cuando el atractivo sexual de una mujer te supera?"
+"Yamamoto Akuji (talking)","………自分でも制御出来ねーんだよ……","I ain't in control of……… myself……","……… Ni siquiera puedo controlarlo yo mismo……"
+"Kanbara Yuuko (talking)","………あ~あ……","……… ahhhh ……","……… ah-ah ……"
+"Yamamoto Akuji (talking)","……はぁ~……","…… haha ……","…… haha ……"
+"Yamamoto Akuji (talking)","……………","……………","……………"
+"Kanbara Yuuko (talking)","どしたの、あーくん？","What's the matter, Akun?","¿Qué pasa, ah-kun?"
+"Yamamoto Akuji (talking)","あの娘は……？","Is that girl ……?","¿Es esa chica ……?"
+"Kanbara Yuuko (talking)","ん~…？
+ああ…のぞみちゃんの事？","Hmmm…?
+Oh…you mean Nozomi?","¿Hmm…?
 Oh… ¿te refieres a Nozomi?"
-"Yamamoto Akuji (talking)";"そうだ、それだ。";"Yes, that's it.";"Sí, eso es."
-"Kanbara Yuuko (talking)";"奥にいるけど、会いたいの？";"He's in the back. Do you want to see him?";"Está en la parte de atrás, ¿quieres verlo?"
-"Yamamoto Akuji (talking)";"……………
+"Yamamoto Akuji (talking)","そうだ、それだ。","Yes, that's it.","Sí, eso es."
+"Kanbara Yuuko (talking)","奥にいるけど、会いたいの？","He's in the back. Do you want to see him?","Está en la parte de atrás, ¿quieres verlo?"
+"Yamamoto Akuji (talking)","……………
 いや、やっぱいーわ。
-あの娘は、危険な匂いをぷんぷん させてやがる……";"……………
+あの娘は、危険な匂いをぷんぷん させてやがる……","……………
 No, I knew it.
-That girl reeks of danger……";"……………
+That girl reeks of danger……","……………
 No, sabía que era buena.
 Esa chica apesta a peligro……"
-"Kanbara Yuuko (talking)";"ああ……陵辱オーラの事？？";"Oh, you mean the…… mausoleum aura?";"¿Te refieres al aura del mausoleo ……?"
-"Yamamoto Akuji (talking)";"なんだ、そりゃ。";"What's that?";"¿Qué es eso?"
-"Kanbara Yuuko (talking)";"あの子見てると、 いぢめたくなるんでしょ？";"She makes you want to tease her, doesn't she?";"Hace que quieras burlarte de ella, ¿verdad?"
-"Yamamoto Akuji (talking)";"あ、ああ……";"Oh, oh ……";"Oh, oh ……"
-"Kanbara Yuuko (talking)";"男からそーいう風に見られる子って、 ままいるのよね~…
-な~んとなくわかるんだけど… あーくんまでがね~~…";"There are always girls who are looked at that way by guys…
-I can kind of understand… but… even you…";"Siempre hay chicas a las que los chicos miran así…
+"Kanbara Yuuko (talking)","ああ……陵辱オーラの事？？","Oh, you mean the…… mausoleum aura?","¿Te refieres al aura del mausoleo ……?"
+"Yamamoto Akuji (talking)","なんだ、そりゃ。","What's that?","¿Qué es eso?"
+"Kanbara Yuuko (talking)","あの子見てると、 いぢめたくなるんでしょ？","She makes you want to tease her, doesn't she?","Hace que quieras burlarte de ella, ¿verdad?"
+"Yamamoto Akuji (talking)","あ、ああ……","Oh, oh ……","Oh, oh ……"
+"Kanbara Yuuko (talking)","男からそーいう風に見られる子って、 ままいるのよね~…
+な~んとなくわかるんだけど… あーくんまでがね~~…","There are always girls who are looked at that way by guys…
+I can kind of understand… but… even you…","Siempre hay chicas a las que los chicos miran así…
 Puedo entenderlo, pero… incluso tú…"
-"Yamamoto Akuji (talking)";"なんだよ、その目は……";"What's with the eyes? ……";"¿Qué pasa con los ojos? ……"
-"Kanbara Yuuko (talking)";"なんでもな~い。";"Nothing~.";"Nada, nada."
-"Yamamoto Akuji (talking)";"おう、夕子さんいるか？";"Oh, is Yuuko there?";"Oh, ¿está Yuuko ahí?"
-"Takeda Nozomi (talking)";"あっ……あの… 夕子様は今、お留守で……";"Oh…… Um… Yuuko is not at home right now ……";"Oh,…… Um… Yuuko está fuera en este momento……"
-"Yamamoto Akuji (talking)";"っ……";"You can find out more at ……";"……"
-"Takeda Nozomi (talking)";"あっ……あの……";"Oh…… that ……";"Oh…… que ……"
-"Yamamoto Akuji (talking)";"くっ……ううっ…！！";"Damn…… ugh…!";"Kuku…… ¡Ugh!"
-"Takeda Nozomi (talking)";"い、いや、やめて……";"No, no, don't……";"No, no, no lo hagas……"
-"Yamamoto Akuji (talking)";"そ、そんな顔で、その声で、 そんな台詞っ…";"You know, with a face like that, with a voice like that, with a line like that…";"Con una cara así, con una voz así, con unas líneas así…"
-"Takeda Nozomi (talking)";"助けて…お願い… いや…いじめないで……";"Help… please… no… don't bully me: ……";"Ayuda… por favor… no… no me intimides……"
-"Yamamoto Akuji (talking)";"いっ…
-いじめるしかないじゃねーかー！！";"I can't…
-You can't do anything but tease me!";"No puedo…
+"Yamamoto Akuji (talking)","なんだよ、その目は……","What's with the eyes? ……","¿Qué pasa con los ojos? ……"
+"Kanbara Yuuko (talking)","なんでもな~い。","Nothing~.","Nada, nada."
+"Yamamoto Akuji (talking)","おう、夕子さんいるか？","Oh, is Yuuko there?","Oh, ¿está Yuuko ahí?"
+"Takeda Nozomi (talking)","あっ……あの… 夕子様は今、お留守で……","Oh…… Um… Yuuko is not at home right now ……","Oh,…… Um… Yuuko está fuera en este momento……"
+"Yamamoto Akuji (talking)","っ……","You can find out more at ……","……"
+"Takeda Nozomi (talking)","あっ……あの……","Oh…… that ……","Oh…… que ……"
+"Yamamoto Akuji (talking)","くっ……ううっ…！！","Damn…… ugh…!","Kuku…… ¡Ugh!"
+"Takeda Nozomi (talking)","い、いや、やめて……","No, no, don't……","No, no, no lo hagas……"
+"Yamamoto Akuji (talking)","そ、そんな顔で、その声で、 そんな台詞っ…","You know, with a face like that, with a voice like that, with a line like that…","Con una cara así, con una voz así, con unas líneas así…"
+"Takeda Nozomi (talking)","助けて…お願い… いや…いじめないで……","Help… please… no… don't bully me: ……","Ayuda… por favor… no… no me intimides……"
+"Yamamoto Akuji (talking)","いっ…
+いじめるしかないじゃねーかー！！","I can't…
+You can't do anything but tease me!","No puedo…
  ¡Tienes que burlarte de mí!"
-"Takeda Nozomi (talking)";"いやぁぁっ……";"Oh no……";"Oh no……"
-"Yamamoto Akuji (talking)";"……………";"……………";"……………"
-"Takeda Nozomi (talking)";"うっ……ううっ……";"Ugh…… ugh ……";"Ugh…… ugh ……"
-"Kanbara Yuuko (talking)";"……………";"……………";"……………"
-"Takeda Nozomi (talking)";"ゆ、夕子様ぁ~…… ひっく…ひっく……";"Yu, Yuuko-samaaa~…… Hiku…hiku……";"Yu, Yuuko-samaaa~…… Hiku…hiku……"
-"Kanbara Yuuko (talking)";"…………あーくん…";"………… ah-kun…";"………… ah-kun…"
-"Yamamoto Akuji (talking)";"……俺のせいじゃねぇ…… 陵辱オーラが俺を……";"It ain't my fault…… The aura of humiliation is making me ……";"No es mi culpa…… El aura de humillación me hace ……"
-"Takeda Nozomi (talking)";"ひっく……ひっく……";"Hiccup…… Hiccup……";"Hipo…… Hipo……"
-"Kanbara Yuuko (talking)";"変な話、聞いたんだけど。";"Weird story, I've heard.";"Una historia extraña, he oído."
-"Yamamoto Akuji (talking)";"なんだ？";"What is it?";"¿Qué es?"
-"Kanbara Yuuko (talking)";"あーくん時々、のぞみちゃん呼び出して 色々、お楽しみだって。";"Sometimes, Akun, you call Nozomi and tell her to have fun.";"A veces llama a Nozomi y dice que se está divirtiendo mucho."
-"Yamamoto Akuji (talking)";"………………";"………………";"………………"
-"Kanbara Yuuko (talking)";"何してるの？";"What are you doing?";"¿Qué estás haciendo?"
-"Yamamoto Akuji (talking)";"……夕子さんは、俺のものだよな。";"……Yuuko is mine, right?";"……Yuuko es mío, ¿verdad?"
-"Kanbara Yuuko (talking)";"ええ、そうよ。";"Yes, it is.";"Sí, lo son."
-"Yamamoto Akuji (talking)";"その夕子さんのものは、 俺のものだよな？";"That Yuuko's stuff is mine, right?";"Esas cosas de Yuuko son mías, ¿verdad?"
-"Kanbara Yuuko (talking)";"そうかも。";"Maybe.";"Tal vez."
-"Yamamoto Akuji (talking)";"だったら、何も言うな。 俺は俺のしたいようにしてるだけだ。";"Then don't say anything. I'm just doing what I want to do.";"Entonces no digas nada. Sólo hago lo que quiero hacer."
-"Kanbara Yuuko (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"だからいーんだ。";"That's why it's okay.";"Así que está bien."
-"Kanbara Yuuko (talking)";"…………ふ~~~ん……";"………… hmmm ……";"………… hmmm ……"
-"Kanbara Yuuko (talking)";"呼んだ？ あーくん。";"Did you call me? Ah-kun.";"¿Me has llamado? Ah-kun."
-"Yamamoto Akuji (talking)";"夕子さん。 いつまでも青年男子に向かって 昔の呼び方はやめてくんねーか？";"Yuuko. Can you please stop calling me the old way toward young men forever?";"Yuuko. ¿Dejarás de llamarme como lo hacías con los jóvenes para siempre?"
-"Kanbara Yuuko (talking)";"んん~…じゃあ…ご主人様にする？ そう呼ばれるの、好きだったわよね、 昔…";"Well… shall we call him master? I used to love it when you called me that.";"Bueno… ¿te llamo maestro? Te gustaba que te llamaran así, en su día…"
-"Yamamoto Akuji (talking)";"……あーくんでいいや。";"Just go to…… ah-kun.";"…… Sólo usaré ah-kun."
-"Kanbara Yuuko (talking)";"はい、あーくん。";"Yes, ah-kun.";"Sí, ah-kun."
-"Seinendan Jyoshi (talking)";"……という訳で… 私、なんだか怖くて……";"That's why……… I'm kind of scared of ……";"Por eso… estaba un poco asustado……"
-"Kanbara Yuuko (talking)";"そうね~… 薬なんか使われていたら、何されて いるか、わからなくて当然だけど…
-どうしても気になるようだったら、 別の病院か…私が調べてあげても いいけど…";"Well… if they're using drugs, it's natural that they don't know what they're doing to you, but…
-If you're really concerned about it, you can go to another hospital or I can check it out for you…";"Bueno… si se drogan, es normal que no sepan lo que hacen…
+"Takeda Nozomi (talking)","いやぁぁっ……","Oh no……","Oh no……"
+"Yamamoto Akuji (talking)","……………","……………","……………"
+"Takeda Nozomi (talking)","うっ……ううっ……","Ugh…… ugh ……","Ugh…… ugh ……"
+"Kanbara Yuuko (talking)","……………","……………","……………"
+"Takeda Nozomi (talking)","ゆ、夕子様ぁ~…… ひっく…ひっく……","Yu, Yuuko-samaaa~…… Hiku…hiku……","Yu, Yuuko-samaaa~…… Hiku…hiku……"
+"Kanbara Yuuko (talking)","…………あーくん…","………… ah-kun…","………… ah-kun…"
+"Yamamoto Akuji (talking)","……俺のせいじゃねぇ…… 陵辱オーラが俺を……","It ain't my fault…… The aura of humiliation is making me ……","No es mi culpa…… El aura de humillación me hace ……"
+"Takeda Nozomi (talking)","ひっく……ひっく……","Hiccup…… Hiccup……","Hipo…… Hipo……"
+"Kanbara Yuuko (talking)","変な話、聞いたんだけど。","Weird story, I've heard.","Una historia extraña, he oído."
+"Yamamoto Akuji (talking)","なんだ？","What is it?","¿Qué es?"
+"Kanbara Yuuko (talking)","あーくん時々、のぞみちゃん呼び出して 色々、お楽しみだって。","Sometimes, Akun, you call Nozomi and tell her to have fun.","A veces llama a Nozomi y dice que se está divirtiendo mucho."
+"Yamamoto Akuji (talking)","………………","………………","………………"
+"Kanbara Yuuko (talking)","何してるの？","What are you doing?","¿Qué estás haciendo?"
+"Yamamoto Akuji (talking)","……夕子さんは、俺のものだよな。","……Yuuko is mine, right?","……Yuuko es mío, ¿verdad?"
+"Kanbara Yuuko (talking)","ええ、そうよ。","Yes, it is.","Sí, lo son."
+"Yamamoto Akuji (talking)","その夕子さんのものは、 俺のものだよな？","That Yuuko's stuff is mine, right?","Esas cosas de Yuuko son mías, ¿verdad?"
+"Kanbara Yuuko (talking)","そうかも。","Maybe.","Tal vez."
+"Yamamoto Akuji (talking)","だったら、何も言うな。 俺は俺のしたいようにしてるだけだ。","Then don't say anything. I'm just doing what I want to do.","Entonces no digas nada. Sólo hago lo que quiero hacer."
+"Kanbara Yuuko (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","だからいーんだ。","That's why it's okay.","Así que está bien."
+"Kanbara Yuuko (talking)","…………ふ~~~ん……","………… hmmm ……","………… hmmm ……"
+"Kanbara Yuuko (talking)","呼んだ？ あーくん。","Did you call me? Ah-kun.","¿Me has llamado? Ah-kun."
+"Yamamoto Akuji (talking)","夕子さん。 いつまでも青年男子に向かって 昔の呼び方はやめてくんねーか？","Yuuko. Can you please stop calling me the old way toward young men forever?","Yuuko. ¿Dejarás de llamarme como lo hacías con los jóvenes para siempre?"
+"Kanbara Yuuko (talking)","んん~…じゃあ…ご主人様にする？ そう呼ばれるの、好きだったわよね、 昔…","Well… shall we call him master? I used to love it when you called me that.","Bueno… ¿te llamo maestro? Te gustaba que te llamaran así, en su día…"
+"Yamamoto Akuji (talking)","……あーくんでいいや。","Just go to…… ah-kun.","…… Sólo usaré ah-kun."
+"Kanbara Yuuko (talking)","はい、あーくん。","Yes, ah-kun.","Sí, ah-kun."
+"Seinendan Jyoshi (talking)","……という訳で… 私、なんだか怖くて……","That's why……… I'm kind of scared of ……","Por eso… estaba un poco asustado……"
+"Kanbara Yuuko (talking)","そうね~… 薬なんか使われていたら、何されて いるか、わからなくて当然だけど…
+どうしても気になるようだったら、 別の病院か…私が調べてあげても いいけど…","Well… if they're using drugs, it's natural that they don't know what they're doing to you, but…
+If you're really concerned about it, you can go to another hospital or I can check it out for you…","Bueno… si se drogan, es normal que no sepan lo que hacen…
 Si realmente te molesta, puedes ir a otro hospital o puedo comprobarlo por ti…"
-"Seinendan Jyoshi (talking)";"夕子さん、医療に携わって らっしゃるんですか？";"Yuuko, are you in the medical field?";"Yuuko, ¿te dedicas a la sanidad?"
-"Kanbara Yuuko (talking)";"ううん…だけど、同性の躰だったら、 ちょっと調べたら…わかるから。 何をされたかぐらいは…
-ただ、あなたが私に少し恥ずかしい事 されちゃうから、それが我慢出来るか どうかだけど…";"No… but if it's the body of the same sex, I can find out… if I do a little research. I can at least tell you what they did to me.
-I just don't know if I can stand it when you do things to me that are a little embarrassing.";"No… pero si fuera un cuerpo del mismo sexo, podría… averiguar un poco sobre él. Al menos puedo decirte lo que me hicieron…
+"Seinendan Jyoshi (talking)","夕子さん、医療に携わって らっしゃるんですか？","Yuuko, are you in the medical field?","Yuuko, ¿te dedicas a la sanidad?"
+"Kanbara Yuuko (talking)","ううん…だけど、同性の躰だったら、 ちょっと調べたら…わかるから。 何をされたかぐらいは…
+ただ、あなたが私に少し恥ずかしい事 されちゃうから、それが我慢出来るか どうかだけど…","No… but if it's the body of the same sex, I can find out… if I do a little research. I can at least tell you what they did to me.
+I just don't know if I can stand it when you do things to me that are a little embarrassing.","No… pero si fuera un cuerpo del mismo sexo, podría… averiguar un poco sobre él. Al menos puedo decirte lo que me hicieron…
 Es que me vas a hacer cosas vergonzosas, y no sé si podré aguantar eso…"
-"Seinendan Jyoshi (talking)";"えっ……";"Eh ……";"Eh ……"
-"Kanbara Yuuko (talking)";"どうする？ 今から…してみる？";"What do you want to do? Do you want to… try it now?";"¿Qué quieres hacer? ¿Quieres… probarlo ahora?"
-"Seinendan Jyoshi (talking)";"い……いえ… もう少し…考えさせて下さい。";"No…… no… let me think about it… a little more.";"No…… No… déjame pensarlo… un poco más."
-"Kanbara Yuuko (talking)";"そう？ もし不安だったら、早い方がいいわ。
-躰の傷が癒えてしまったら… 摩擦行為があったかどうか、 わからなくなってしまうから…";"Really? If you're worried, the sooner the better.
-Once the body has healed we won't know if there was friction or not.";"¿Sí? Si estás preocupado, cuanto antes mejor.
+"Seinendan Jyoshi (talking)","えっ……","Eh ……","Eh ……"
+"Kanbara Yuuko (talking)","どうする？ 今から…してみる？","What do you want to do? Do you want to… try it now?","¿Qué quieres hacer? ¿Quieres… probarlo ahora?"
+"Seinendan Jyoshi (talking)","い……いえ… もう少し…考えさせて下さい。","No…… no… let me think about it… a little more.","No…… No… déjame pensarlo… un poco más."
+"Kanbara Yuuko (talking)","そう？ もし不安だったら、早い方がいいわ。
+躰の傷が癒えてしまったら… 摩擦行為があったかどうか、 わからなくなってしまうから…","Really? If you're worried, the sooner the better.
+Once the body has healed we won't know if there was friction or not.","¿Sí? Si estás preocupado, cuanto antes mejor.
 Porque una vez que el cuerpo esté curado no sabremos si hubo alguna fricción."
-"Seinendan Jyoshi (talking)";"は、はい… どうもすみませんでした…";"Yes, yes… I'm very sorry…";"Sí, sí… muchas gracias…"
-"Kanbara Yuuko (talking)";"い~え、どういたしまして。";"No~yes, you're welcome.";"No, sí, de nada."
-"narrator";"二人のやりとりを見ていた者がいる。";"Someone was watching the exchange between the two.";"Alguien observó el intercambio entre los dos."
-"Yamamoto Akuji (talking)";"今の子、どーしたんだ？";"What's wrong with the kid now?";"¿Qué le pasa a la chica ahora?"
-"Kanbara Yuuko (talking)";"あ~、あーくん。 聞いてたの？";"Ahhh, ah-kun. Did you hear me?";"Ahhh, ah-kun. ¿Me has oído?"
-"Yamamoto Akuji (talking)";"聞くとはなしにね。";"I didn't even have to ask.";"Sin siquiera preguntar."
-"Kanbara Yuuko (talking)";"あの子ね…天才病院で簡単な手術を 受けたんだけど…
-手術とは別な違和感が 躰に残っていたらしいの。";"That girl… had a simple surgery at the genius hospital…
-But she was left with a strange feeling in her body that was different from the surgery.";"Esa chica… tuvo una simple operación en el hospital del genio, pero…
+"Seinendan Jyoshi (talking)","は、はい… どうもすみませんでした…","Yes, yes… I'm very sorry…","Sí, sí… muchas gracias…"
+"Kanbara Yuuko (talking)","い~え、どういたしまして。","No~yes, you're welcome.","No, sí, de nada."
+"narrator","二人のやりとりを見ていた者がいる。","Someone was watching the exchange between the two.","Alguien observó el intercambio entre los dos."
+"Yamamoto Akuji (talking)","今の子、どーしたんだ？","What's wrong with the kid now?","¿Qué le pasa a la chica ahora?"
+"Kanbara Yuuko (talking)","あ~、あーくん。 聞いてたの？","Ahhh, ah-kun. Did you hear me?","Ahhh, ah-kun. ¿Me has oído?"
+"Yamamoto Akuji (talking)","聞くとはなしにね。","I didn't even have to ask.","Sin siquiera preguntar."
+"Kanbara Yuuko (talking)","あの子ね…天才病院で簡単な手術を 受けたんだけど…
+手術とは別な違和感が 躰に残っていたらしいの。","That girl… had a simple surgery at the genius hospital…
+But she was left with a strange feeling in her body that was different from the surgery.","Esa chica… tuvo una simple operación en el hospital del genio, pero…
 Pero tenía otras molestias en su cuerpo."
-"Yamamoto Akuji (talking)";"別の違和感？";"Another discomfort?";"¿Otra molestia?"
-"Kanbara Yuuko (talking)";"自分が眠っている間に、強姦されて いるかもしれないって…";"I was afraid I might be raped while I was sleeping…";"Tenía miedo de que me violaran mientras dormía…"
-"Yamamoto Akuji (talking)";"穏やかじゃねーな。";"That ain't very gentle.";"Eso no es suave."
-"Kanbara Yuuko (talking)";"全身麻酔を受けていたら… 確かに、何をされていても わからないものね~…
+"Yamamoto Akuji (talking)","別の違和感？","Another discomfort?","¿Otra molestia?"
+"Kanbara Yuuko (talking)","自分が眠っている間に、強姦されて いるかもしれないって…","I was afraid I might be raped while I was sleeping…","Tenía miedo de que me violaran mientras dormía…"
+"Yamamoto Akuji (talking)","穏やかじゃねーな。","That ain't very gentle.","Eso no es suave."
+"Kanbara Yuuko (talking)","全身麻酔を受けていたら… 確かに、何をされていても わからないものね~…
 でも、確証はないの~。
-躰の…内側に、今までにない違和感を 感じるのがね…なんだか、気持ち悪い らしくって。";"If you were under general anesthesia… you certainly wouldn't know what they were doing to you…
+躰の…内側に、今までにない違和感を 感じるのがね…なんだか、気持ち悪い らしくって。","If you were under general anesthesia… you certainly wouldn't know what they were doing to you…
 But I can't be sure.
-I feel a strange sensation inside my body that I've never felt before… it's like I'm uncomfortable.";"Si estuvieras bajo anestesia general, seguramente no sabrías lo que te están haciendo…
+I feel a strange sensation inside my body that I've never felt before… it's like I'm uncomfortable.","Si estuvieras bajo anestesia general, seguramente no sabrías lo que te están haciendo…
 Pero no puedo estar seguro.
 Siento una extraña sensación dentro de mi cuerpo que nunca había sentido antes… como si estuviera incómodo."
-"Yamamoto Akuji (talking)";"手術したのは誰なんだい？";"Who performed the surgery?";"¿Quién te operó?"
-"Kanbara Yuuko (talking)";"誠実で有名な若先生ですって~。";"He said he is a young doctor famous for his integrity~.";"Dijo que es un joven médico famoso por su integridad~."
-"Yamamoto Akuji (talking)";"ふーん……気のせいじゃねーの？";"Hmmm……… I think you're imagining things.";"Hmmm……… Te estás imaginando cosas, ¿verdad?"
-"Kanbara Yuuko (talking)";"どうかしらね~…？？";"I wonder…?";"Me pregunto…"
-"Yamamoto Akuji (talking)";"夕子さん、ちと奥にきて欲しいんだけど。";"Yuuko, I'd like you to come to the back a bit.";"Yuuko, me gustaría que vinieras un poco al fondo."
-"Kanbara Yuuko (talking)";"ああ~…もよおしたの？";"Ohhhhh… you had a little bit of a fit?";"Ohhhhh… ¿tienes un calambre?"
-"Yamamoto Akuji (talking)";"いや、そーじゃなくてよぉ。";"No, that's not it.";"No, no me refiero a eso."
-"Yamamoto Akuji (talking)";"はっきり言って、俺のテクが落ちた。";"For the record, my tech went down.";"Para que quede claro, mi tecnología ha bajado."
-"Kanbara Yuuko (talking)";"あらまあ。";"Oh dear.";"Oh, Dios."
-"Yamamoto Akuji (talking)";"という訳でよ。 夕子さんの力を借りたいんだ。";"That's why. I need help from Yuuko.";"Por eso. Necesito la ayuda de Yuuko."
-"Kanbara Yuuko (talking)";"はいはい。 わかったわ~。";"Yes, yes, yes. I understand~.";"Sí, sí. Lo entiendo."
-"cg narrator";"「何年ぶりかしら？ 　あーくんとするのって……」
+"Yamamoto Akuji (talking)","手術したのは誰なんだい？","Who performed the surgery?","¿Quién te operó?"
+"Kanbara Yuuko (talking)","誠実で有名な若先生ですって~。","He said he is a young doctor famous for his integrity~.","Dijo que es un joven médico famoso por su integridad~."
+"Yamamoto Akuji (talking)","ふーん……気のせいじゃねーの？","Hmmm……… I think you're imagining things.","Hmmm……… Te estás imaginando cosas, ¿verdad?"
+"Kanbara Yuuko (talking)","どうかしらね~…？？","I wonder…?","Me pregunto…"
+"Yamamoto Akuji (talking)","夕子さん、ちと奥にきて欲しいんだけど。","Yuuko, I'd like you to come to the back a bit.","Yuuko, me gustaría que vinieras un poco al fondo."
+"Kanbara Yuuko (talking)","ああ~…もよおしたの？","Ohhhhh… you had a little bit of a fit?","Ohhhhh… ¿tienes un calambre?"
+"Yamamoto Akuji (talking)","いや、そーじゃなくてよぉ。","No, that's not it.","No, no me refiero a eso."
+"Yamamoto Akuji (talking)","はっきり言って、俺のテクが落ちた。","For the record, my tech went down.","Para que quede claro, mi tecnología ha bajado."
+"Kanbara Yuuko (talking)","あらまあ。","Oh dear.","Oh, Dios."
+"Yamamoto Akuji (talking)","という訳でよ。 夕子さんの力を借りたいんだ。","That's why. I need help from Yuuko.","Por eso. Necesito la ayuda de Yuuko."
+"Kanbara Yuuko (talking)","はいはい。 わかったわ~。","Yes, yes, yes. I understand~.","Sí, sí. Lo entiendo."
+"cg narrator","「何年ぶりかしら？ 　あーくんとするのって……」
 夕子は当たり前のように自分から服を脱ぐ。 白い背中の上に、うっすらと無数のあざが 浮んでいた。
  「……………………」
 悪司はそれを見つめる。
@@ -350,7 +350,7 @@ Siento una extraña sensación dentro de mi cuerpo que nunca había sentido ante
  「………うふふ……」
 夕子は薄く笑って、悪司の上に乗った。
  「さ……あーくん……」
-悪司は夕子が差し出した手に指を絡めた。";"I haven't done that in years. 　I haven't had sex with ah-kun in ……”
+悪司は夕子が差し出した手に指を絡めた。","I haven't done that in years. 　I haven't had sex with ah-kun in ……”
 Yuuko took off her own clothes as if it was a matter of course. 
  ……………………”
 Akuji stares at it.
@@ -385,7 +385,7 @@ Oh, yeah. 　I don't know how much moisture I can get.
  “………fufu……”
 The Yuuko smiled thinly and climbed on top of the Akuji.
 Sa……a-kun……”
-Akuji intertwined her fingers with the hand that Yuuko held out to her.";"¿Cuánto tiempo ha pasado? 　No he tenido sexo con ah-kun en …….'
+Akuji intertwined her fingers with the hand that Yuuko held out to her.","¿Cuánto tiempo ha pasado? 　No he tenido sexo con ah-kun en …….'
 Yuuko se desnudó por sí misma como algo natural. La primera vez que la vi fue en medio de la noche.
  ……………………”
 Akuji lo mira fijamente.
@@ -420,28 +420,28 @@ Ah. 　No sé cuánta humedad puedo conseguir.
 La Yuuko sonrió con desgana y se subió encima de Akuji.
  'Sa…… ah-kun ……'
 Akuji entrelazó sus dedos con la mano que Yuuko le tendió."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"夕子さん…";"Yuuko…";"Yuuko…"
-"Kanbara Yuuko (talking)";"はいはい、わかりました~。 奥に行きましょうか~。";"Yes, yes, I understand~. Shall we go to the back?";"Sí, sí, vale~. ¿Vamos a la parte de atrás?"
-"Yamamoto Akuji (talking)";"話、早すぎ。";"Talk, too soon.";"La historia, demasiado pronto."
-"Kanbara Yuuko (talking)";"いいじゃない。 時間も限られたもんなんだし~♪";"That's fine. We only have a limited amount of time.";"Eso está bien. Sólo tenemos una cantidad limitada de tiempo ~♪"
-"Kanbara Yuuko (talking)";"悪司は、すごいテクニックで夕子をいかせた。";"Akuji made Yuuko go away with his amazing technique.";"Akuji hizo ir a Yuuko con su increíble técnica."
-"cg narrator";"「ん~……」
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","夕子さん…","Yuuko…","Yuuko…"
+"Kanbara Yuuko (talking)","はいはい、わかりました~。 奥に行きましょうか~。","Yes, yes, I understand~. Shall we go to the back?","Sí, sí, vale~. ¿Vamos a la parte de atrás?"
+"Yamamoto Akuji (talking)","話、早すぎ。","Talk, too soon.","La historia, demasiado pronto."
+"Kanbara Yuuko (talking)","いいじゃない。 時間も限られたもんなんだし~♪","That's fine. We only have a limited amount of time.","Eso está bien. Sólo tenemos una cantidad limitada de tiempo ~♪"
+"Kanbara Yuuko (talking)","悪司は、すごいテクニックで夕子をいかせた。","Akuji made Yuuko go away with his amazing technique.","Akuji hizo ir a Yuuko con su increíble técnica."
+"cg narrator","「ん~……」
  「どうした、夕子さん」
  「つまんない~」
  「何が？」
  「あーくん、私もいかせ放題なんだもん… 　私、教える事ないんだもん~…」
  「そーだなー……ふっふっふ…」
  「でも自信過剰は禁止~。 　カッコ悪いもん~」
- 「そーだな」";"”Nn~……”
+ 「そーだな」","”Nn~……”
  “What's up, Yuuko?”
 Boring.
 What?
  “A-kun, you can make me go all you want too… I don't have anything to teach you~…”
  “That's true… ……
 I'm not allowed to be overconfident. 　It's not cool.
-I guess so.”";"Nn~……”
+I guess so.”","Nn~……”
  “¿Qué pasa, Yuuko?”
 Aburrido.
  ¿Qué?
@@ -449,22 +449,22 @@ Aburrido.
  'Es cierto… ……
  'Pero no te confíes demasiado~. 　No está bien.
  “Bien”."
-"Yamamoto Akuji (talking)";"夕子さん、またお願いしてーんだけど。";"Yuuko, I need you to do it again.";"Yuuko, te lo vuelvo a pedir."
-"Kanbara Yuuko (talking)";"はいはい、おやすい御用~。";"Yes, yes, yes.";"Sí, sí, fácil~."
-"Kanbara Yuuko (talking)";"悪司のテクニックは確実に上がっていた。";"Akuji's technique had definitely improved.";"La técnica de Akuji había mejorado definitivamente."
-"Yamamoto Akuji (talking)";"ふ~……";"Fu~……";"Fu~……"
-"Kanbara Yuuko (talking)";"こら、終わった後、ため息つくのは マナー違反。";"Hey, it's bad manners to sigh afterwards.";"Es de mala educación suspirar después."
-"Yamamoto Akuji (talking)";"あー、そーいうつもりじゃあ なかったんだけどな。";"Oh, I didn't mean it like that.";"Ah, no quería decir eso."
-"Kanbara Yuuko (talking)";"大分、昔のあーくんに戻ってる。";"He's pretty much back to his old ah-kun.";"Ha vuelto a ser el ah-kun de siempre."
-"Yamamoto Akuji (talking)";"ホントか？";"Really?";"¿De verdad?"
-"Kanbara Yuuko (talking)";"私があーくんに嘘ついた事ある~？";"Have I ever lied to you, Akun~?";"¿Te he mentido alguna vez, Akun~?"
-"Yamamoto Akuji (talking)";"いぢめられる事はあっても、 それはないな。";"I've been bullied before, but never by anyone.";"Puedo ser intimidado, pero no así."
-"Kanbara Yuuko (talking)";"そ~よ~。 だから自信持ちなさ~い。";"That's right~. So be confident~.";"Así es. Así que ten confianza~."
-"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
-"Yamamoto Akuji (talking)";"夕子さん、俺のテクアップにつき合って 欲しいんだけどよ。";"Yuuko, I'd like you to come and help me improve my technique.";"Yuuko, me gustaría que vinieras y me ayudaras a prepararme."
-"Kanbara Yuuko (talking)";"はいはい~。 じゃあ、お部屋に行きましょうか~。";"Yes, yes~. Well, let's go to your room~.";"Sí, sí~. Bueno, vamos a tu habitación~."
-"narrator";"夕子は鼻歌混じりに歩き出した。";"Yuuko walked away humming.";"Yuuko se alejó tarareando."
-"cg narrator";"「さ~て、今日はどの辺りのテクを 　あげたいのかしら~？」
+"Yamamoto Akuji (talking)","夕子さん、またお願いしてーんだけど。","Yuuko, I need you to do it again.","Yuuko, te lo vuelvo a pedir."
+"Kanbara Yuuko (talking)","はいはい、おやすい御用~。","Yes, yes, yes.","Sí, sí, fácil~."
+"Kanbara Yuuko (talking)","悪司のテクニックは確実に上がっていた。","Akuji's technique had definitely improved.","La técnica de Akuji había mejorado definitivamente."
+"Yamamoto Akuji (talking)","ふ~……","Fu~……","Fu~……"
+"Kanbara Yuuko (talking)","こら、終わった後、ため息つくのは マナー違反。","Hey, it's bad manners to sigh afterwards.","Es de mala educación suspirar después."
+"Yamamoto Akuji (talking)","あー、そーいうつもりじゃあ なかったんだけどな。","Oh, I didn't mean it like that.","Ah, no quería decir eso."
+"Kanbara Yuuko (talking)","大分、昔のあーくんに戻ってる。","He's pretty much back to his old ah-kun.","Ha vuelto a ser el ah-kun de siempre."
+"Yamamoto Akuji (talking)","ホントか？","Really?","¿De verdad?"
+"Kanbara Yuuko (talking)","私があーくんに嘘ついた事ある~？","Have I ever lied to you, Akun~?","¿Te he mentido alguna vez, Akun~?"
+"Yamamoto Akuji (talking)","いぢめられる事はあっても、 それはないな。","I've been bullied before, but never by anyone.","Puedo ser intimidado, pero no así."
+"Kanbara Yuuko (talking)","そ~よ~。 だから自信持ちなさ~い。","That's right~. So be confident~.","Así es. Así que ten confianza~."
+"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
+"Yamamoto Akuji (talking)","夕子さん、俺のテクアップにつき合って 欲しいんだけどよ。","Yuuko, I'd like you to come and help me improve my technique.","Yuuko, me gustaría que vinieras y me ayudaras a prepararme."
+"Kanbara Yuuko (talking)","はいはい~。 じゃあ、お部屋に行きましょうか~。","Yes, yes~. Well, let's go to your room~.","Sí, sí~. Bueno, vamos a tu habitación~."
+"narrator","夕子は鼻歌混じりに歩き出した。","Yuuko walked away humming.","Yuuko se alejó tarareando."
+"cg narrator","「さ~て、今日はどの辺りのテクを 　あげたいのかしら~？」
  「全体的に、こう、しっぽりと」
  「まあ、欲張りさん」
  「どんな女の要求にも合わせていかなくちゃ 　いけない躰だしよ」
@@ -475,7 +475,7 @@ Aburrido.
  「だからあーくん、時間の使い方も上手に 　ならなくちゃいけないわよ~」
  「ああ、わかってる」
  「じゃあ……舌からいきましょっか~」
- 「ああ」";"”Well, what do you want me to do for you today?”
+ 「ああ」","”Well, what do you want me to do for you today?”
 I'd like to do a whole, you know, a little bit of everything.
 Well, you're greedy.
 You're a body that has to be able to adapt to any woman's needs.
@@ -486,7 +486,7 @@ It's just a feeling~. 　It's important, though.
 So, Akun, you also have to be good at using your time.
  “Yeah, I know.”
  “Then let's start with…… tongue.
- “Ah.”";"”Bueno, ¿qué parte de la técnica quieres que te dé hoy?”
+ “Ah.”","”Bueno, ¿qué parte de la técnica quieres que te dé hoy?”
 Me gustaría hacerlo todo bien y ordenado.
 Bueno, eres codicioso.
 Es un cuerpo que tiene que adaptarse a las necesidades de cada mujer.
@@ -498,99 +498,99 @@ Así que, Akun, también tienes que saber aprovechar tu tiempo.
 Sí, lo sé.
 Entonces empecemos con…… tongues~.
 Ah."
-"Yamamoto Akuji (talking)";"なあ夕子さん。 欲しいもの、何かないか？";"Hey Yuuko. Is there anything you want, anything at all?";"Hey Yuuko. ¿Hay algo que quieras, cualquier cosa?"
-"Kanbara Yuuko (talking)";"う~ん…欲しいものね~……
-ない　ない。";"Hmmm…something I want………
-No, I don't have it.";"Hmmm… algo que quiero……
+"Yamamoto Akuji (talking)","なあ夕子さん。 欲しいもの、何かないか？","Hey Yuuko. Is there anything you want, anything at all?","Hey Yuuko. ¿Hay algo que quieras, cualquier cosa?"
+"Kanbara Yuuko (talking)","う~ん…欲しいものね~……
+ない　ない。","Hmmm…something I want………
+No, I don't have it.","Hmmm… algo que quiero……
 No. No."
-"Yamamoto Akuji (talking)";"あいかわらず、無欲だなー。";"As usual, you are unselfish!";"Como siempre, eres desinteresado."
-"Kanbara Yuuko (talking)";"だって、幸せだもん。";"Because I'm happy.";"Porque soy feliz."
-"Yamamoto Akuji (talking)";"男の玩具として売られてきたのに？";"After being sold as a man's toy?";"¿Después de ser vendida como un juguete para hombres?"
-"Kanbara Yuuko (talking)";"幸せってね、不幸と一緒のもので 出来てるの。
+"Yamamoto Akuji (talking)","あいかわらず、無欲だなー。","As usual, you are unselfish!","Como siempre, eres desinteresado."
+"Kanbara Yuuko (talking)","だって、幸せだもん。","Because I'm happy.","Porque soy feliz."
+"Yamamoto Akuji (talking)","男の玩具として売られてきたのに？","After being sold as a man's toy?","¿Después de ser vendida como un juguete para hombres?"
+"Kanbara Yuuko (talking)","幸せってね、不幸と一緒のもので 出来てるの。
 それをどうとるかで、 人の幸福なんて決まっちゃうのよ~。
-だから、私は幸せ~☆";"Happiness is made of the same thing as unhappiness.
+だから、私は幸せ~☆","Happiness is made of the same thing as unhappiness.
 How you take it determines how happy you are.
-That's why I am happy☆.";"La felicidad está hecha de lo mismo que la infelicidad.
+That's why I am happy☆.","La felicidad está hecha de lo mismo que la infelicidad.
 La forma en que te lo tomas determina tu felicidad.
 Por eso estoy contento☆."
-"Yamamoto Akuji (talking)";"……よくわかんねー。";"I'm not sure about …….";"…… No estoy seguro."
-"__system__??";"{★愛 = 1:";"";""
-"Kanbara Yuuko (talking)";"わかんなくていいの。 民華さんに教えてもらいなさい。 そ~いうものなのよ。";"You don't have to know. Let Minka teach you. That's how it is.";"No necesito saberlo. Pídele a Minka que te lo cuente. Así es."
-"Yamamoto Akuji (talking)";"ふーん……";"Hmmm ……";"Hmmm ……"
-"__system__??";"}";"";""
-"Tamanegi (talking)";"これは、お久しぶりで。 夕子さん。";"This has been a long time. Yuuko.";"Hacía mucho tiempo que no veía esto. Yuuko."
-"Kanbara Yuuko (talking)";"あら~。 タマネギさん。 ご無沙汰してます~。";"Oh my gosh! Tamanegi. It's been a while~.";"Oh, Dios. Tamanegi. Ha pasado un tiempo~."
-"Tamanegi (talking)";"…………";"…………";"…………"
-"Kanbara Yuuko (talking)";"うふふ。";"Hmmm.";"Ajá."
-"Tamanegi (talking)";"相変わらず、お美しい。 あなたのそれは神の領域に 達したものだ。
+"Yamamoto Akuji (talking)","……よくわかんねー。","I'm not sure about …….","…… No estoy seguro."
+"__system__??","{★愛 = 1:","",""
+"Kanbara Yuuko (talking)","わかんなくていいの。 民華さんに教えてもらいなさい。 そ~いうものなのよ。","You don't have to know. Let Minka teach you. That's how it is.","No necesito saberlo. Pídele a Minka que te lo cuente. Así es."
+"Yamamoto Akuji (talking)","ふーん……","Hmmm ……","Hmmm ……"
+"__system__??","}","",""
+"Tamanegi (talking)","これは、お久しぶりで。 夕子さん。","This has been a long time. Yuuko.","Hacía mucho tiempo que no veía esto. Yuuko."
+"Kanbara Yuuko (talking)","あら~。 タマネギさん。 ご無沙汰してます~。","Oh my gosh! Tamanegi. It's been a while~.","Oh, Dios. Tamanegi. Ha pasado un tiempo~."
+"Tamanegi (talking)","…………","…………","…………"
+"Kanbara Yuuko (talking)","うふふ。","Hmmm.","Ajá."
+"Tamanegi (talking)","相変わらず、お美しい。 あなたのそれは神の領域に 達したものだ。
 誰もがそこに行けるというものでは ありません。
 自分自身を卑下する事なく、 個性として、大事になさって下さい。
-ただ、相手がたった一人というのは、 勿体ない気がいたしますが…";"You are as beautiful as ever. You have reached the realm of the divine.
+ただ、相手がたった一人というのは、 勿体ない気がいたしますが…","You are as beautiful as ever. You have reached the realm of the divine.
 Not everyone can get there.
 Please do not despise yourself, but cherish it as your individuality.
-It would be a shame to have only one partner…";"Estás tan hermosa como siempre. Has llegado al reino de lo divino.
+It would be a shame to have only one partner…","Estás tan hermosa como siempre. Has llegado al reino de lo divino.
 No todo el mundo puede llegar allí.
 No te desprecies a ti mismo, valora tu individualidad.
 Sin embargo, sería una pena tener sólo un compañero…"
-"Kanbara Yuuko (talking)";"いいんですよ~。 だって私、お仕事にする気は ないんですもの。";"It's okay! Because I don't intend to make it my job.";"¡No pasa nada! Porque no pretendo que sea mi trabajo."
-"Tamanegi (talking)";"そうですか… しかし、若に見捨てられたり、 気が変わったらご連絡下さい。";"Okay… but if you are abandoned by the young or change your mind, let us know.";"De acuerdo… pero si te abandonan los jóvenes o cambias de opinión, avísanos."
-"Kanbara Yuuko (talking)";"そうですね~。 でも私、調教してもらわなくっても~…";"That's right~. But I don't need to be trained~…";"Así es. Pero no necesito ser entrenado~…"
-"Tamanegi (talking)";"ああ、失礼。 そうでしたね。
-ヘタをすれば、わたくしが、 あなたに支配されかねない。";"Oh, excuse me. That's right, Tane.
-If I'm not careful, you could control me.";"Oh, perdón. Así es, ¿no es así, Tane.
+"Kanbara Yuuko (talking)","いいんですよ~。 だって私、お仕事にする気は ないんですもの。","It's okay! Because I don't intend to make it my job.","¡No pasa nada! Porque no pretendo que sea mi trabajo."
+"Tamanegi (talking)","そうですか… しかし、若に見捨てられたり、 気が変わったらご連絡下さい。","Okay… but if you are abandoned by the young or change your mind, let us know.","De acuerdo… pero si te abandonan los jóvenes o cambias de opinión, avísanos."
+"Kanbara Yuuko (talking)","そうですね~。 でも私、調教してもらわなくっても~…","That's right~. But I don't need to be trained~…","Así es. Pero no necesito ser entrenado~…"
+"Tamanegi (talking)","ああ、失礼。 そうでしたね。
+ヘタをすれば、わたくしが、 あなたに支配されかねない。","Oh, excuse me. That's right, Tane.
+If I'm not careful, you could control me.","Oh, perdón. Así es, ¿no es así, Tane.
 Si no tengo cuidado, podrías tomar el control de mí."
-"Kanbara Yuuko (talking)";"そ~ですかしら？";"Is that so?";"¿Es así?"
-"Tamanegi (talking)";"……ククッ…";"…… kukk…";"…… kukk…"
-"Kanbara Yuuko (talking)";"うふふ。";"Hmmm.";"Ajá."
-"Yamamoto Akuji (thinking)";"……いつもながら、二人揃うと、 どこかしら不気味だ…";"…… As always, there's something eerie about the two of them together…";"…… Como siempre, hay algo espeluznante en los dos juntos…"
-"Tamanegi (talking)";"それでは若、失礼いたします。 よい人材がいればいつでも お呼び下さい。";"Now, if you will excuse me, young man. If you have any good people, please feel free to call on me anytime.";"Ahora, joven, si me disculpa. Si tiene gente buena, siempre es bienvenida a llamarnos."
-"Yamamoto Akuji (talking)";"ああ。";"Oh.";"Oh."
-"narrator";"タマネギは二人に会釈すると、出て行った。";"Tamanegi bailed them out and left.";"Tamanegi los sacó de apuros y se fue."
-"Kanbara Yuuko (talking)";"タマネギさんって~… 余計な苦労のごった煮に、浸っていた 感じがしない？";"Mr.Tamanegi… don't you feel like you've been immersed in a lot of unnecessary hardship?";"Señor Tamanegi… ¿no siente que se ha visto inmerso en un guiso de penurias innecesarias?"
-"Yamamoto Akuji (talking)";"なんなんだ、その例え… よくわかんねー。";"What's with that analogy… I don't really get it.";"Qué pasa con esa analogía… no la entiendo."
-"Kanbara Yuuko (talking)";"そ~かな~？？";"Is that so~?";"No sé…"
-"Yamamoto Akuji (talking)";"ああ。";"Oh.";"Oh."
-"Kanbara Yuuko (talking)";"い・や☆";"Noo☆";"Noo☆"
-"Yamamoto Akuji (talking)";"いただきます。";"We will take it.";"Buen provecho."
-"__system__??";"{RND \ 0:";"";""
-"Shimamoto Jun (talking)";"いただきます。";"We will take it.";"Buen provecho."
-"__system__??";"}";"";""
-"Takega Satsu (talking)";"うむ。";"Mm.";"Mm."
-"narrator";"悪司達は、朝食の卓を囲んでいる。 机の上に並んでいるのは、湯気をたてている 味噌汁と、たきたてのご飯、そして焼き魚。";"Akuji and his friends are sitting around the breakfast table. On the table are steaming miso soup, freshly cooked rice, and grilled fish.";"Akuji y sus amigos están sentados alrededor de la mesa del desayuno. En la mesa hay un cuenco humeante de sopa de miso, arroz recién cocido y pescado a la parrilla."
-"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
-"Takega Satsu (talking)";"どうした？";"What's up?";"¿Qué pasa?"
-"Yamamoto Akuji (talking)";"なんか今日の味噌汁の味が、 いつもと違うよーな… さっちゃん、味噌か水、変えたのか？";"The taste of today's miso soup is different from usual… Sacchan, did you change the miso or the water?";"El sabor de la sopa de miso de hoy es diferente al habitual… ¿has cambiado el miso o el agua?"
-"Takega Satsu (talking)";"変わったのは――";"What has changed is--";"Lo que ha cambiado es…"
-" (talking)";"変わったの~は~♪ な~に~かし~ら~♪♪";"What~has~changed~ is~what~is~the~same~thing~ that~has~changed~…";"Lo que ha cambiado es lo que ha cambiado…"
-"Yamamoto Akuji (talking)";"うわわっ！？？";"Wow!";"¡Vaya!"
-"narrator";"悪司は後ろから目隠しをされた。
-少し冷たい指先。 頭に当たる、胸の弾力。 味噌汁の味と共に、すべて覚えのある…";"Akuji was blindfolded from behind.
-Slightly cold fingertips. The Dan force of his chest against his head. The taste of miso soup, along with all the familiar…";"Akuji tenía los ojos vendados por detrás.
+"Kanbara Yuuko (talking)","そ~ですかしら？","Is that so?","¿Es así?"
+"Tamanegi (talking)","……ククッ…","…… kukk…","…… kukk…"
+"Kanbara Yuuko (talking)","うふふ。","Hmmm.","Ajá."
+"Yamamoto Akuji (thinking)","……いつもながら、二人揃うと、 どこかしら不気味だ…","…… As always, there's something eerie about the two of them together…","…… Como siempre, hay algo espeluznante en los dos juntos…"
+"Tamanegi (talking)","それでは若、失礼いたします。 よい人材がいればいつでも お呼び下さい。","Now, if you will excuse me, young man. If you have any good people, please feel free to call on me anytime.","Ahora, joven, si me disculpa. Si tiene gente buena, siempre es bienvenida a llamarnos."
+"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
+"narrator","タマネギは二人に会釈すると、出て行った。","Tamanegi bailed them out and left.","Tamanegi los sacó de apuros y se fue."
+"Kanbara Yuuko (talking)","タマネギさんって~… 余計な苦労のごった煮に、浸っていた 感じがしない？","Mr.Tamanegi… don't you feel like you've been immersed in a lot of unnecessary hardship?","Señor Tamanegi… ¿no siente que se ha visto inmerso en un guiso de penurias innecesarias?"
+"Yamamoto Akuji (talking)","なんなんだ、その例え… よくわかんねー。","What's with that analogy… I don't really get it.","Qué pasa con esa analogía… no la entiendo."
+"Kanbara Yuuko (talking)","そ~かな~？？","Is that so~?","No sé…"
+"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
+"Kanbara Yuuko (talking)","い・や☆","Noo☆","Noo☆"
+"Yamamoto Akuji (talking)","いただきます。","We will take it.","Buen provecho."
+"__system__??","{RND \ 0:","",""
+"Shimamoto Jun (talking)","いただきます。","We will take it.","Buen provecho."
+"__system__??","}","",""
+"Takega Satsu (talking)","うむ。","Mm.","Mm."
+"narrator","悪司達は、朝食の卓を囲んでいる。 机の上に並んでいるのは、湯気をたてている 味噌汁と、たきたてのご飯、そして焼き魚。","Akuji and his friends are sitting around the breakfast table. On the table are steaming miso soup, freshly cooked rice, and grilled fish.","Akuji y sus amigos están sentados alrededor de la mesa del desayuno. En la mesa hay un cuenco humeante de sopa de miso, arroz recién cocido y pescado a la parrilla."
+"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
+"Takega Satsu (talking)","どうした？","What's up?","¿Qué pasa?"
+"Yamamoto Akuji (talking)","なんか今日の味噌汁の味が、 いつもと違うよーな… さっちゃん、味噌か水、変えたのか？","The taste of today's miso soup is different from usual… Sacchan, did you change the miso or the water?","El sabor de la sopa de miso de hoy es diferente al habitual… ¿has cambiado el miso o el agua?"
+"Takega Satsu (talking)","変わったのは――","What has changed is--","Lo que ha cambiado es…"
+" (talking)","変わったの~は~♪ な~に~かし~ら~♪♪","What~has~changed~ is~what~is~the~same~thing~ that~has~changed~…","Lo que ha cambiado es lo que ha cambiado…"
+"Yamamoto Akuji (talking)","うわわっ！？？","Wow!","¡Vaya!"
+"narrator","悪司は後ろから目隠しをされた。
+少し冷たい指先。 頭に当たる、胸の弾力。 味噌汁の味と共に、すべて覚えのある…","Akuji was blindfolded from behind.
+Slightly cold fingertips. The Dan force of his chest against his head. The taste of miso soup, along with all the familiar…","Akuji tenía los ojos vendados por detrás.
 Puntas de los dedos ligeramente frías. La fuerza Dan de su pecho contra su cabeza. Junto con el sabor de la sopa de miso, todos los familiares…"
-"Yamamoto Akuji (talking)";"夕子さんか！？";"Yuuko?";"¡Uuuko!"
-"Kanbara Yuuko (talking)";"は~い。 あったり~☆
-ごめんね、あーくん。 くるのが遅くなっちゃって。";"Hai~yai. There it is!☆
-Sorry, Akun. I'm sorry I'm late.";"Hai~y. Allí~☆
+"Yamamoto Akuji (talking)","夕子さんか！？","Yuuko?","¡Uuuko!"
+"Kanbara Yuuko (talking)","は~い。 あったり~☆
+ごめんね、あーくん。 くるのが遅くなっちゃって。","Hai~yai. There it is!☆
+Sorry, Akun. I'm sorry I'm late.","Hai~y. Allí~☆
 Lo siento, Akun. Siento llegar tarde."
-"__system__??";"{★わかめ組 = 3:";"";""
-"Kanbara Yuuko (talking)";"私、どうしてもリリアンの糸が欲しくて、 こっそり買い物に出て、帰ってきたら わかめ組がなくなってたの~。";"I really wanted some Lillian's yarn, so I snuck out to go shopping, and when I came back, the Wakame group was gone!";"Me apetecía mucho el hilo de Lillian, así que me escabullí para ir de compras y cuando volví, ¡el grupo de wakame había desaparecido!"
-"Yamamoto Akuji (talking)";"そうか。 それで家にいなかったのか。";"I see. So you weren't at home.";"Ya veo. Así que no estabas en casa."
-"Kanbara Yuuko (talking)";"な~んとなく、あーくんが きそうな気がしてたんだけど、 物欲に負けちゃって~…";"I had a feeling that you were going to come, but my greed got the better of me…";"Tenía el presentimiento de que ibas a venir, pero la codicia se apoderó de mí…"
-"Yamamoto Akuji (thinking)";"これだ…俺が一番怖いのは、 夕子さんのこの「な~んとなく」だ…
+"__system__??","{★わかめ組 = 3:","",""
+"Kanbara Yuuko (talking)","私、どうしてもリリアンの糸が欲しくて、 こっそり買い物に出て、帰ってきたら わかめ組がなくなってたの~。","I really wanted some Lillian's yarn, so I snuck out to go shopping, and when I came back, the Wakame group was gone!","Me apetecía mucho el hilo de Lillian, así que me escabullí para ir de compras y cuando volví, ¡el grupo de wakame había desaparecido!"
+"Yamamoto Akuji (talking)","そうか。 それで家にいなかったのか。","I see. So you weren't at home.","Ya veo. Así que no estabas en casa."
+"Kanbara Yuuko (talking)","な~んとなく、あーくんが きそうな気がしてたんだけど、 物欲に負けちゃって~…","I had a feeling that you were going to come, but my greed got the better of me…","Tenía el presentimiento de que ibas a venir, pero la codicia se apoderó de mí…"
+"Yamamoto Akuji (thinking)","これだ…俺が一番怖いのは、 夕子さんのこの「な~んとなく」だ…
 この人は、この「な~んとなく」で 様々な災難を逃れてきた。
 俺の玩具として売られてしまった時も、 その事に対しては嘆いたらしいが…
  「な~んとなく」そうした方がいいと 思って、承諾したら…
 自分を売っぱらった親戚の家が 空襲で跡形もなくなったらしい…
 そして、夕子さんの事をいじめていた 親戚連中は、その時に一気に消滅…
  …………
-夕子さんが「な~んとなく」と言って、 俺から離れねーよーにしねーとな…";"This… the thing that scares me the most is this “somewhat” of Mr. Yuuko…
+夕子さんが「な~んとなく」と言って、 俺から離れねーよーにしねーとな…","This… the thing that scares me the most is this “somewhat” of Mr. Yuuko…
 This person has escaped from various mishaps with this “without a second thought”.
 When she was sold as my toy, I heard that she lamented about it, but…
 But when I agreed to do so because I thought it was the right thing to do…
 The house of the relative who sold me was destroyed in an air raid…
 And the relatives who bullied Yuuko disappeared at once…
  …………
-I'll have to make sure Yuuko doesn't leave me by saying, “I don't know…”…";"Esto… lo que más me asusta es ese “algo” de Yuuko…
+I'll have to make sure Yuuko doesn't leave me by saying, “I don't know…”…","Esto… lo que más me asusta es ese “algo” de Yuuko…
 Esta persona ha escapado de varios percances con esto “sin ningún cuidado en el mundo”.
 Cuando la vendieron como mi juguete, oí que se lamentaba por ello, pero…
 Pensé que sería mejor hacerlo, así que acepté…
@@ -598,24 +598,24 @@ La casa del pariente que me vendió fue destruida en un ataque aéreo…
 Y los familiares que intimidaban a Yuuko desaparecieron de inmediato…
  …………
 Tendré que asegurarme de que Yuuko no me deje, diciendo “no sé”…"
-"__system__??";"}";"";""
-"__system__??";"{★わかめ組 \ 3:";"";""
-"Yamamoto Akuji (thinking)";"お蘭さんにね、あーくんのとこに 行くなって、止められてたの…";"Mr.  Ran told me not to go to his place…";"ORan me impidió ir a ver a A-kun…"
-"Yamamoto Akuji (talking)";"お蘭にイジメられてたのか？";"Were you bullied by  Ran?";"¿Fuiste intimidado por  Ran?"
-"Kanbara Yuuko (talking)";"ううん。
+"__system__??","}","",""
+"__system__??","{★わかめ組 \ 3:","",""
+"Yamamoto Akuji (thinking)","お蘭さんにね、あーくんのとこに 行くなって、止められてたの…","Mr.  Ran told me not to go to his place…","ORan me impidió ir a ver a A-kun…"
+"Yamamoto Akuji (talking)","お蘭にイジメられてたのか？","Were you bullied by  Ran?","¿Fuiste intimidado por  Ran?"
+"Kanbara Yuuko (talking)","ううん。
 お蘭さん、私の境遇に同情してた みたいで、反対に気遣ってくれる事の 方が多かったから~。
 それに、わかめ組でおとなし~く してた方が…
 あーくんに確実に会えるかな~と 思って、しばらくはおとなしく してたんだけどー…
-な~んとなく、あっちにいるより、 こっちにきた方がいいかな~と思って。";"No problem.
+な~んとなく、あっちにいるより、 こっちにきた方がいいかな~と思って。","No problem.
 Mr.  Ran seemed to sympathize with my situation and was more concerned about me than I was about him.
 Besides, I thought it would be better for me to stay quiet in Wakame group…
 I thought I would be able to see Akun for sure, so I kept quiet for a while, but…
-I thought it would be better to come here than to stay over there.";"No, no lo creo.
+I thought it would be better to come here than to stay over there.","No, no lo creo.
 ORan parecía simpatizar con mi situación y se preocupaba más por mí que por lo contrario.
 Además, es mejor estar tranquilo en el grupo Wakame…
 Pensé que podría ver a A-kun sin falta, así que me mantuve callado durante un tiempo, pero…
 Pensé que sería mejor venir aquí que quedarse allí."
-"Yamamoto Akuji (thinking)";"これだ…俺が一番怖いのは、 夕子さんのこの「な~んとなく」だ…
+"Yamamoto Akuji (thinking)","これだ…俺が一番怖いのは、 夕子さんのこの「な~んとなく」だ…
 この人は、この「な~んとなく」で 様々な災難を逃れてきた。
 俺の玩具として売られてしまった時も、 その事に対しては嘆いたらしいが…
  「な~んとなく」そうした方がいいと 思って、承諾したら…
@@ -623,7 +623,7 @@ Pensé que sería mejor venir aquí que quedarse allí."
 そして、夕子さんの事をいじめていた 親戚連中は、その時に一気に消滅…
  …………
 つー事は… 運がこっちに向いてきたって事かも しんねーな…
-夕子さんが「な~んとなく」と言って、 俺から離れねーよーにしねーとな…";"This… the thing that scares me the most is this “somewhat” of Mr. Yuuko…
+夕子さんが「な~んとなく」と言って、 俺から離れねーよーにしねーとな…","This… the thing that scares me the most is this “somewhat” of Mr. Yuuko…
 This person has escaped from various mishaps with this “without a second thought”.
 When she was sold as my toy, I heard that she lamented about it, but…
 But when I agreed to do so because I thought it was the right thing to do…
@@ -631,7 +631,7 @@ The house of the relative who sold me was destroyed in an air raid…
 And the relatives who bullied Yuuko disappeared at once…
  …………
 That means… maybe our luck is turning our way…
-I'll have to make sure that Yuuko doesn't leave me saying “I don't know…”…";"Esto… lo que más me asusta es ese “algo” de Yuuko…
+I'll have to make sure that Yuuko doesn't leave me saying “I don't know…”…","Esto… lo que más me asusta es ese “algo” de Yuuko…
 Esta persona ha escapado de varios percances con esto “sin ningún cuidado en el mundo”.
 Cuando la vendieron como mi juguete, oí que se lamentaba por ello, pero…
 Pensé que sería mejor hacerlo, así que acepté…
@@ -640,125 +640,125 @@ Y los familiares que intimidaban a Yuuko desaparecieron de inmediato…
  …………
 Eso significa que… tal vez nuestra suerte se está volviendo hacia nosotros…
 Tendré que asegurarme de que Yuuko no me deje, diciendo “no sé”…"
-"__system__??";"}";"";""
-"Kanbara Yuuko (talking)";"今日のご飯、さっちゃんに無理言って 全部、私が作らせてもらったの。
-美味しい？ あーくん。";"I made all of today's meals, and I asked Sacchan to let me cook.
-Is it good? Aa-kun.";"Le pedí a Sacchan que me dejara cocinar la cena de hoy.
+"__system__??","}","",""
+"Kanbara Yuuko (talking)","今日のご飯、さっちゃんに無理言って 全部、私が作らせてもらったの。
+美味しい？ あーくん。","I made all of today's meals, and I asked Sacchan to let me cook.
+Is it good? Aa-kun.","Le pedí a Sacchan que me dejara cocinar la cena de hoy.
  ¿Es bueno? Aa-kun."
-"Yamamoto Akuji (talking)";"ああ。 懐かしい味だ。";"Ah. It tastes like old times.";"Ah. Es un sabor nostálgico."
-"Takega Satsu (talking)";"これが、悪司の家の味か。 勉強になる。";"So this is the taste of Akuji's house. I'm learning.";"¿Es este el sabor de la casa de Akuji? Estudio."
-"__system__??";"{★愛 = 5:";"";""
-"Kanbara Yuuko (talking)";"ねえねえ、あーくん。 さっきお台所で聞いたんだけど、 この子、お嫁さんってほんと？";"Hey, hey, hey, ah-kun. I heard in the kitchen earlier, is it true that this girl is your wife?";"Hey, hey, ah-kun. Acabo de escuchar en la cocina, ¿es cierto que esta chica es tu esposa?"
-"Yamamoto Akuji (talking)";"ああ。";"Oh.";"Oh."
-"Kanbara Yuuko (talking)";"あ~……おっめでとー。 だけど、随分と今までの子達とは、 毛色の違うタイプね~。";"Oh~…… congratulations! But you are a very different type of girl from the ones I've seen so far.";"Ah~…… felicitaciones. Pero tú eres un tipo de chica muy diferente a las que he visto hasta ahora."
-"Yamamoto Akuji (talking)";"俺の意志じゃねぇからな…";"It's not my choice…";"No es mi decisión…"
-"Kanbara Yuuko (talking)";"？？？";"？？？";"？？？"
-"Takega Satsu (talking)";"往生際の悪い…";"Way to go…";"El díscolo…"
-"Yamamoto Akuji (talking)";"るせぇ。";"I'm so tired.";"La exquisitez."
-"__system__??";"} else {";"";""
-"Kanbara Yuuko (talking)";"ごめんね、お台所は女の城なのに、 とっちゃって…";"I'm sorry I took your kitchen. It's a woman's castle.";"Siento haber tomado tu cocina, es el castillo de una mujer."
-"Takega Satsu (talking)";"気にしていない。";"I don't care.";"No me preocupa."
-"__system__??";"}";"";""
-"Kanbara Yuuko (talking)";"という訳で~。 私、今日からこっちにお世話に なっていい？";"That's why… Can I start taking care of you here from today?";"Por eso… ¿Puedo empezar a cuidarte aquí desde hoy?"
-"Yamamoto Akuji (talking)";"ああ、大歓迎だ。";"Yeah, you're more than welcome.";"Sí, de nada."
-"Kanbara Yuuko (talking)";"ありがとう。 あーくん。
-さっちゃん。 改めてよろしくお願いします~。";"Thank you. A-kun.
-Sacchan. Please take care of me again~.";"Gracias. Aa-kun.
+"Yamamoto Akuji (talking)","ああ。 懐かしい味だ。","Ah. It tastes like old times.","Ah. Es un sabor nostálgico."
+"Takega Satsu (talking)","これが、悪司の家の味か。 勉強になる。","So this is the taste of Akuji's house. I'm learning.","¿Es este el sabor de la casa de Akuji? Estudio."
+"__system__??","{★愛 = 5:","",""
+"Kanbara Yuuko (talking)","ねえねえ、あーくん。 さっきお台所で聞いたんだけど、 この子、お嫁さんってほんと？","Hey, hey, hey, ah-kun. I heard in the kitchen earlier, is it true that this girl is your wife?","Hey, hey, ah-kun. Acabo de escuchar en la cocina, ¿es cierto que esta chica es tu esposa?"
+"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
+"Kanbara Yuuko (talking)","あ~……おっめでとー。 だけど、随分と今までの子達とは、 毛色の違うタイプね~。","Oh~…… congratulations! But you are a very different type of girl from the ones I've seen so far.","Ah~…… felicitaciones. Pero tú eres un tipo de chica muy diferente a las que he visto hasta ahora."
+"Yamamoto Akuji (talking)","俺の意志じゃねぇからな…","It's not my choice…","No es mi decisión…"
+"Kanbara Yuuko (talking)","？？？","？？？","？？？"
+"Takega Satsu (talking)","往生際の悪い…","Way to go…","El díscolo…"
+"Yamamoto Akuji (talking)","るせぇ。","I'm so tired.","La exquisitez."
+"__system__??","} else {","",""
+"Kanbara Yuuko (talking)","ごめんね、お台所は女の城なのに、 とっちゃって…","I'm sorry I took your kitchen. It's a woman's castle.","Siento haber tomado tu cocina, es el castillo de una mujer."
+"Takega Satsu (talking)","気にしていない。","I don't care.","No me preocupa."
+"__system__??","}","",""
+"Kanbara Yuuko (talking)","という訳で~。 私、今日からこっちにお世話に なっていい？","That's why… Can I start taking care of you here from today?","Por eso… ¿Puedo empezar a cuidarte aquí desde hoy?"
+"Yamamoto Akuji (talking)","ああ、大歓迎だ。","Yeah, you're more than welcome.","Sí, de nada."
+"Kanbara Yuuko (talking)","ありがとう。 あーくん。
+さっちゃん。 改めてよろしくお願いします~。","Thank you. A-kun.
+Sacchan. Please take care of me again~.","Gracias. Aa-kun.
 Sacchan. Una vez más, por favor, cuida de mí~."
-"Takega Satsu (talking)";"うむ、こちらこそ。";"Mm, it's my pleasure.";"Es un placer."
-"__system__??";"{RND \ 0:";"";""
-"Kanbara Yuuko (talking)";"島本さんも、これからよろしく~。";"Shimamoto, please keep up the good work~!";"Shimamoto también quiere saludarte a partir de ahora~."
-"Shimamoto Jun (talking)";"はい。";"Yes.";"Sí."
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"よっ。 やってるかい？";"Yo. Are you doing it?";"Yo. ¿Lo estás haciendo?"
-"Kanbara Yuuko (talking)";"あ~く~ん。";"Ah~k~n.";"Ah~k~n."
-"Yamamoto Akuji (talking)";"どーだい、市長の椅子は？ 座り慣れた？";"How's the mayor's chair? Are you used to it?";"¿Cómo está la silla del alcalde? ¿Estás acostumbrado a sentarte en él?"
-"Kanbara Yuuko (talking)";"ん~~、まだ馴染まないわよ~。";"Hmmm~ I still don't fit in!";"Hmmm… ¡Sigo sin encajar!"
-"Yamamoto Akuji (talking)";"仕事の方はどーだい？";"How's business?";"¿Cómo va el trabajo?"
-"Kanbara Yuuko (talking)";"大半の事は、他の慣れた人が してくれてるから~…";"Most of the work is done by other people who are used to doing it…";"La mayoría de las cosas las hacen otras personas que están acostumbradas a hacerlas…"
-"Yamamoto Akuji (talking)";"夕子さんは、何も悩まなくていい。 何かあったら、俺に聞いてくれれば いいから。";"You don't have to worry about anything, Yuuko. If you have any questions, just ask me.";"Yuuko, no tienes que preocuparte por nada. Si tienes algún problema, pregúntame."
-"Kanbara Yuuko (talking)";"もちろん、そ~するつもりだけど~。 ガラじゃないわ、やっぱり~… こーいうとこでおとなしくしてるのって…";"Of course, that's what I'm going to do. It's not a gala, after all~… to be so quiet in a place like this…";"Por supuesto que voy a hacerlo. No es una gala, después de todo~… para estar tranquilo en un lugar como este…"
-"Yamamoto Akuji (talking)";"まー、そー言わずに俺の為に 頑張ってくれや。";"Well, don't say that and do your best for me.";"Bueno, no digas eso y hazlo por mí."
-"Kanbara Yuuko (talking)";"わかってますよ~。 んん~~☆";"I know~! Mmm~☆";"Lo sé. Mmm~☆"
-"Yamamoto Akuji (talking)";"で、早速だけどな。 奉仕青年団への補助金、アップして 貰いたいんだけど。";"So, I'll get right to it. I'd like to ask you to up the grant for the service youth group.";"Así que, una pregunta rápida. Me gustaría pedirle que aumente la subvención para el Cuerpo de Jóvenes de Servicio."
-"Kanbara Yuuko (talking)";"ん~、わかったわ~。 なんとかする~。";"Hmmm, okay~. I'll figure something out~.";"Hmmm, vale~. Haré algo al respecto~."
-"__system__??";"{★桃山組 \ 3:";"";""
-"Yamamoto Akuji (talking)";"簡単に増やせる方法を教えてやるよ。";"I'll show you an easy way to increase it.";"Te mostraré cómo aumentarlo fácilmente."
-"Kanbara Yuuko (talking)";"ん~？";"Hmm?";"¿Hmm?"
-"Yamamoto Akuji (talking)";"ＰＭへの補助金を３０円にしちまうんだ。 その分をこっちに渡してくれたらいい。";"We're going to cut the subsidy to PM to $30.00. You can give us that amount.";"Vamos a reducir la subvención a la PM a 30 céntimos. Puedes darnos esa cantidad."
-"Kanbara Yuuko (talking)";"あら~、あーくんったら い・じ・わ・る☆";"Oh, my God, you're such a tease.☆";"Oh, Dios mío, eres un bromista.☆"
-"Yamamoto Akuji (talking)";"それぐらいしてもいーじゃねぇか。 あっちは補助金なんかに頼らなくてもいい 財力あんだからよ。";"Why don't you do that? They don't have to rely on subsidies, they have the financial resources.";"¿Por qué no pueden hacerlo? No tienen que depender de las subvenciones, tienen los recursos financieros."
-"Kanbara Yuuko (talking)";"それもそうね~。 んじゃあ、そうしとく~。";"That's true. I'll do that, then.";"Eso también es cierto. Lo haré, entonces."
-"Yamamoto Akuji (talking)";"へっへっへっ。";"Heh heh heh.";"Je, je, je."
-"Kanbara Yuuko (talking)";"嬉しそうね~。";"You look happy!";"Se te ve feliz."
-"Yamamoto Akuji (talking)";"トーゼン。";"Tozen.";"Tozen."
-"__system__??";"}";"";""
-"Kanbara Yuuko (talking)";"あ、そ~だ。
+"Takega Satsu (talking)","うむ、こちらこそ。","Mm, it's my pleasure.","Es un placer."
+"__system__??","{RND \ 0:","",""
+"Kanbara Yuuko (talking)","島本さんも、これからよろしく~。","Shimamoto, please keep up the good work~!","Shimamoto también quiere saludarte a partir de ahora~."
+"Shimamoto Jun (talking)","はい。","Yes.","Sí."
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","よっ。 やってるかい？","Yo. Are you doing it?","Yo. ¿Lo estás haciendo?"
+"Kanbara Yuuko (talking)","あ~く~ん。","Ah~k~n.","Ah~k~n."
+"Yamamoto Akuji (talking)","どーだい、市長の椅子は？ 座り慣れた？","How's the mayor's chair? Are you used to it?","¿Cómo está la silla del alcalde? ¿Estás acostumbrado a sentarte en él?"
+"Kanbara Yuuko (talking)","ん~~、まだ馴染まないわよ~。","Hmmm~ I still don't fit in!","Hmmm… ¡Sigo sin encajar!"
+"Yamamoto Akuji (talking)","仕事の方はどーだい？","How's business?","¿Cómo va el trabajo?"
+"Kanbara Yuuko (talking)","大半の事は、他の慣れた人が してくれてるから~…","Most of the work is done by other people who are used to doing it…","La mayoría de las cosas las hacen otras personas que están acostumbradas a hacerlas…"
+"Yamamoto Akuji (talking)","夕子さんは、何も悩まなくていい。 何かあったら、俺に聞いてくれれば いいから。","You don't have to worry about anything, Yuuko. If you have any questions, just ask me.","Yuuko, no tienes que preocuparte por nada. Si tienes algún problema, pregúntame."
+"Kanbara Yuuko (talking)","もちろん、そ~するつもりだけど~。 ガラじゃないわ、やっぱり~… こーいうとこでおとなしくしてるのって…","Of course, that's what I'm going to do. It's not a gala, after all~… to be so quiet in a place like this…","Por supuesto que voy a hacerlo. No es una gala, después de todo~… para estar tranquilo en un lugar como este…"
+"Yamamoto Akuji (talking)","まー、そー言わずに俺の為に 頑張ってくれや。","Well, don't say that and do your best for me.","Bueno, no digas eso y hazlo por mí."
+"Kanbara Yuuko (talking)","わかってますよ~。 んん~~☆","I know~! Mmm~☆","Lo sé. Mmm~☆"
+"Yamamoto Akuji (talking)","で、早速だけどな。 奉仕青年団への補助金、アップして 貰いたいんだけど。","So, I'll get right to it. I'd like to ask you to up the grant for the service youth group.","Así que, una pregunta rápida. Me gustaría pedirle que aumente la subvención para el Cuerpo de Jóvenes de Servicio."
+"Kanbara Yuuko (talking)","ん~、わかったわ~。 なんとかする~。","Hmmm, okay~. I'll figure something out~.","Hmmm, vale~. Haré algo al respecto~."
+"__system__??","{★桃山組 \ 3:","",""
+"Yamamoto Akuji (talking)","簡単に増やせる方法を教えてやるよ。","I'll show you an easy way to increase it.","Te mostraré cómo aumentarlo fácilmente."
+"Kanbara Yuuko (talking)","ん~？","Hmm?","¿Hmm?"
+"Yamamoto Akuji (talking)","ＰＭへの補助金を３０円にしちまうんだ。 その分をこっちに渡してくれたらいい。","We're going to cut the subsidy to PM to $30.00. You can give us that amount.","Vamos a reducir la subvención a la PM a 30 céntimos. Puedes darnos esa cantidad."
+"Kanbara Yuuko (talking)","あら~、あーくんったら い・じ・わ・る☆","Oh, my God, you're such a tease.☆","Oh, Dios mío, eres un bromista.☆"
+"Yamamoto Akuji (talking)","それぐらいしてもいーじゃねぇか。 あっちは補助金なんかに頼らなくてもいい 財力あんだからよ。","Why don't you do that? They don't have to rely on subsidies, they have the financial resources.","¿Por qué no pueden hacerlo? No tienen que depender de las subvenciones, tienen los recursos financieros."
+"Kanbara Yuuko (talking)","それもそうね~。 んじゃあ、そうしとく~。","That's true. I'll do that, then.","Eso también es cierto. Lo haré, entonces."
+"Yamamoto Akuji (talking)","へっへっへっ。","Heh heh heh.","Je, je, je."
+"Kanbara Yuuko (talking)","嬉しそうね~。","You look happy!","Se te ve feliz."
+"Yamamoto Akuji (talking)","トーゼン。","Tozen.","Tozen."
+"__system__??","}","",""
+"Kanbara Yuuko (talking)","あ、そ~だ。
 あーくん、いくら私が市長に なったからっていっても、 色々と限界はあるわよ~。
 例えば、お金。
 なってみて初めてわかったんだけど、 オオサカ市の予算って、思った程 なかったりするの。
-ウィミィのね、エデンの建設予算とか、 植民地っぽい理由で、なんかこう、 いや~んな感じもあったりとか。";"Ah, that's right.
+ウィミィのね、エデンの建設予算とか、 植民地っぽい理由で、なんかこう、 いや~んな感じもあったりとか。","Ah, that's right.
 A-kun, even though I am the mayor, there are many limits to what I can do.
 For example, money.
 I didn't realize it until after I became mayor, but the budget of Osaka City is not as large as I thought it would be.
-For example, the budget for the construction of Eden, which is a colony, is not as good as I thought it would be.";"Ah, es cierto.
+For example, the budget for the construction of Eden, which is a colony, is not as good as I thought it would be.","Ah, es cierto.
 Aa-kun, por mucho que me haya convertido en alcalde, todavía hay muchos límites para lo que puedo hacer.
 Por ejemplo, el dinero.
 No me di cuenta hasta después de ser alcalde de que el presupuesto de la ciudad de Osaka no es tan grande como pensaba.
 El presupuesto para la construcción del Edén, por razones de tipo colonial, no es tan bueno como pensaba."
-"Yamamoto Akuji (talking)";"なるほどな…… わかった、考慮するよ。";"I see…… Okay, I'll take that into consideration.";"Ya veo…… Vale, lo tendré en cuenta."
-"Kanbara Yuuko (talking)";"お願いね。";"Please.";"Por favor."
-"narrator";"　☆☆　　補助金　１０００万　　☆☆ 　　市議会からの補助金が大幅に増えた。";"　☆☆　　Grant　１００００K　　☆☆ 　　Subsidies from the city council have increased significantly.";"　☆☆　　Consedidos　１００００K　　☆☆ 　　Las subvenciones del ayuntamiento han aumentado significativamente."
-"Yamamoto Akuji (talking)";"お……";"Oh ……";"O……"
-"shigikaishokuin (talking)";"ありがとうございました！ では次のそれに目を通しておいて 下さいね！　失礼ます！";"Thank you very much! Now please look over the next one!　Excuse me!";"¡Muchas gracias! ¡Ahora, si miran el siguiente, por favor!　¡Disculpe!"
-"Yamamoto Akuji (talking)";"おっ！？";"Whoa!";"¡Vaya!"
-"narrator";"市議会職員は書類の束を抱え、 大慌てで市長室から出て行った。";"The city council staff left the mayor's office in a panic, carrying a stack of papers.";"Los funcionarios del ayuntamiento salieron del despacho del alcalde a toda prisa, cargados con un fajo de documentos."
-"Yamamoto Akuji (talking)";"忙しいみたいだな。";"Sounds like you've been busy.";"Parece que has estado ocupado."
-"Kanbara Yuuko (talking)";"む~~……";"M~~~……";"M~~~……"
-"narrator";"夕子は机の上に束になった書類を見て、 憮然としている。";"Yuuko is discouraged, looking at the bundle of papers on her desk.";"Yuuko está desanimada por el montón de papeles que hay en su mesa."
-"Kanbara Yuuko (talking)";"もういや~。 おうち帰って、台所に立ちた~い。 座りっぱなしっていや~。";"I can't take it anymore. I want to go home and stand in the kitchen. I hate sitting around.";"¡Ya no puedo soportarlo! Quiero ir a casa y quedarme en la cocina. Odio quedarme sentado."
-"Yamamoto Akuji (talking)";"まー、そう言うなって。 ほら、はんこ押した押した。";"Well, don't say that. Look, I stamped it.";"Bueno, no digas eso. Mira, lo he sellado."
-"Kanbara Yuuko (talking)";"あう~……わかってるわよ~。 知ってる顔が出てきたから、 愚痴っただけよ~。";"Aww~…… I know! I'm just bitching because a familiar face showed up.";"Aww~…… ¡Lo sé! ¡Sólo me quejo porque ha aparecido una cara conocida!"
-"Yamamoto Akuji (talking)";"わかったわかった。 茶でも淹れてやるよ。";"All right, all right. I'll make you a cup of tea.";"Muy bien, muy bien. Te haré una taza de té."
-"Kanbara Yuuko (talking)";"そこの玉露で、温度注意してよ~。";"With the gyokuro there, be careful of the temperature!";"Con el gyokuro allí, ¡tenga cuidado con la temperatura!"
-"Yamamoto Akuji (talking)";"へいへいっと。";"Hey, hey, hey.";"Hee hee hee."
-"Mizuumi Kazuki (talking)";"あらー。";"Oops.";"Oh, Dios."
-"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
-"Mizuumi Kazuki (talking)";"悪司さんも、市長に会いにきたのー？";"Did Akuji come to see the mayor, too?";"Akuji también vino a ver al alcalde?"
-"Yamamoto Akuji (talking)";"ああ。";"Oh.";"Oh."
-"Mizuumi Kazuki (talking)";"ねえねえ。 夕子さんってー、眼鏡似合うと思わない？ っていうか、思うでしょ？";"Hey, hey. Don't you think you look good with glasses? I mean, don't you think so?";"Oye, oye. ¿No crees que te quedan bien las gafas, Yuuko? ¿No lo crees?"
-"Yamamoto Akuji (talking)";"思わねぇ。";"I don't think so.";"No lo creo."
-"Mizuumi Kazuki (talking)";"ＮＯーーーーー！！！！！！！";"NOoooooo ！！！！！！！";"NOoooooo ！！！！！！！"
-"Kanbara Yuuko (talking)";"あーくん。";"Ah-kun.";"Ah-kun."
-"Yamamoto Akuji (talking)";"どうだい、調子は？";"How are you doing?";"¿Cómo estás? ¿Cómo te va?"
-"Kanbara Yuuko (talking)";"つ~か~れ~た~。";"I'm stuck~!";"¡Me han pillado!"
-"Yamamoto Akuji (talking)";"ははは。";"Ha ha.";"Ja, ja."
-"Kanbara Yuuko (talking)";"あーくん、私、スキヤキ食べたい~。";"Aa-kun, I want to eat Sukiyaki~!";"Aa-kun, quiero comer Sukiyaki~."
-"Yamamoto Akuji (talking)";"わかったわかった。 今度、店に連れてってやるよ。
-ん？ なんだ、そのケース。";"All right, all right. I'll take you to the store sometime.
-Hmm? What's with the case?";"Muy bien, muy bien. Te llevaré a la tienda algún día.
+"Yamamoto Akuji (talking)","なるほどな…… わかった、考慮するよ。","I see…… Okay, I'll take that into consideration.","Ya veo…… Vale, lo tendré en cuenta."
+"Kanbara Yuuko (talking)","お願いね。","Please.","Por favor."
+"narrator","　☆☆　　補助金　１０００万　　☆☆ 　　市議会からの補助金が大幅に増えた。","　☆☆　　Grant　１００００K　　☆☆ 　　Subsidies from the city council have increased significantly.","　☆☆　　Consedidos　１００００K　　☆☆ 　　Las subvenciones del ayuntamiento han aumentado significativamente."
+"Yamamoto Akuji (talking)","お……","Oh ……","O……"
+"shigikaishokuin (talking)","ありがとうございました！ では次のそれに目を通しておいて 下さいね！　失礼ます！","Thank you very much! Now please look over the next one!　Excuse me!","¡Muchas gracias! ¡Ahora, si miran el siguiente, por favor!　¡Disculpe!"
+"Yamamoto Akuji (talking)","おっ！？","Whoa!","¡Vaya!"
+"narrator","市議会職員は書類の束を抱え、 大慌てで市長室から出て行った。","The city council staff left the mayor's office in a panic, carrying a stack of papers.","Los funcionarios del ayuntamiento salieron del despacho del alcalde a toda prisa, cargados con un fajo de documentos."
+"Yamamoto Akuji (talking)","忙しいみたいだな。","Sounds like you've been busy.","Parece que has estado ocupado."
+"Kanbara Yuuko (talking)","む~~……","M~~~……","M~~~……"
+"narrator","夕子は机の上に束になった書類を見て、 憮然としている。","Yuuko is discouraged, looking at the bundle of papers on her desk.","Yuuko está desanimada por el montón de papeles que hay en su mesa."
+"Kanbara Yuuko (talking)","もういや~。 おうち帰って、台所に立ちた~い。 座りっぱなしっていや~。","I can't take it anymore. I want to go home and stand in the kitchen. I hate sitting around.","¡Ya no puedo soportarlo! Quiero ir a casa y quedarme en la cocina. Odio quedarme sentado."
+"Yamamoto Akuji (talking)","まー、そう言うなって。 ほら、はんこ押した押した。","Well, don't say that. Look, I stamped it.","Bueno, no digas eso. Mira, lo he sellado."
+"Kanbara Yuuko (talking)","あう~……わかってるわよ~。 知ってる顔が出てきたから、 愚痴っただけよ~。","Aww~…… I know! I'm just bitching because a familiar face showed up.","Aww~…… ¡Lo sé! ¡Sólo me quejo porque ha aparecido una cara conocida!"
+"Yamamoto Akuji (talking)","わかったわかった。 茶でも淹れてやるよ。","All right, all right. I'll make you a cup of tea.","Muy bien, muy bien. Te haré una taza de té."
+"Kanbara Yuuko (talking)","そこの玉露で、温度注意してよ~。","With the gyokuro there, be careful of the temperature!","Con el gyokuro allí, ¡tenga cuidado con la temperatura!"
+"Yamamoto Akuji (talking)","へいへいっと。","Hey, hey, hey.","Hee hee hee."
+"Mizuumi Kazuki (talking)","あらー。","Oops.","Oh, Dios."
+"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
+"Mizuumi Kazuki (talking)","悪司さんも、市長に会いにきたのー？","Did Akuji come to see the mayor, too?","Akuji también vino a ver al alcalde?"
+"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
+"Mizuumi Kazuki (talking)","ねえねえ。 夕子さんってー、眼鏡似合うと思わない？ っていうか、思うでしょ？","Hey, hey. Don't you think you look good with glasses? I mean, don't you think so?","Oye, oye. ¿No crees que te quedan bien las gafas, Yuuko? ¿No lo crees?"
+"Yamamoto Akuji (talking)","思わねぇ。","I don't think so.","No lo creo."
+"Mizuumi Kazuki (talking)","ＮＯーーーーー！！！！！！！","NOoooooo ！！！！！！！","NOoooooo ！！！！！！！"
+"Kanbara Yuuko (talking)","あーくん。","Ah-kun.","Ah-kun."
+"Yamamoto Akuji (talking)","どうだい、調子は？","How are you doing?","¿Cómo estás? ¿Cómo te va?"
+"Kanbara Yuuko (talking)","つ~か~れ~た~。","I'm stuck~!","¡Me han pillado!"
+"Yamamoto Akuji (talking)","ははは。","Ha ha.","Ja, ja."
+"Kanbara Yuuko (talking)","あーくん、私、スキヤキ食べたい~。","Aa-kun, I want to eat Sukiyaki~!","Aa-kun, quiero comer Sukiyaki~."
+"Yamamoto Akuji (talking)","わかったわかった。 今度、店に連れてってやるよ。
+ん？ なんだ、そのケース。","All right, all right. I'll take you to the store sometime.
+Hmm? What's with the case?","Muy bien, muy bien. Te llevaré a la tienda algún día.
  ¿Hmm? ¿Qué pasa con el caso?"
-"Kanbara Yuuko (talking)";"ああ、これ~？";"Oh, this~?";"Oh, ¿esto~?"
-"narrator";"夕子はケースを開け、悪司に中身を見せた。";"Yuuko opened the case and showed the contents to Akuji.";"Yuuko abrió el maletín y mostró el contenido a Akuji."
-"Yamamoto Akuji (talking)";"眼鏡詰め合わせ……";"Assorted Glasses: ……";"Gafas variadas: ……"
-"Kanbara Yuuko (talking)";"さっき、かっちゃんが持ってきたの。";"Kacchan brought it earlier.";"Kacchan me lo trajo antes."
-"Yamamoto Akuji (talking)";"かっちゃん…和樹の事か。";"Kacchan…you mean Kazuki?";"Kacchan… ¿quieres decir Kazuki?"
-"Kanbara Yuuko (talking)";"うん。 こんなに貰っても、私、 目も悪くないのに~。";"Yeah, I'm not that bad. I don't even have bad eyesight even if I get this much~.";"Sí. Incluso si consigo esto, ¡ni siquiera estoy ciego!"
-"Yamamoto Akuji (talking)";"古道具屋に売っ払っちまえ。";"Sell it off to an antique dealer.";"Véndelos a un anticuario."
-"__system__??";"{★愛 = 1:";"";""
-"__system__??";"}";"";""
-"narrator";"　　［かちゃん］
-悪司は後ろ手に扉の鍵を閉めた。";"[Kacchan]
-Akuji locked the door behind him.";"[Kacchan]
+"Kanbara Yuuko (talking)","ああ、これ~？","Oh, this~?","Oh, ¿esto~?"
+"narrator","夕子はケースを開け、悪司に中身を見せた。","Yuuko opened the case and showed the contents to Akuji.","Yuuko abrió el maletín y mostró el contenido a Akuji."
+"Yamamoto Akuji (talking)","眼鏡詰め合わせ……","Assorted Glasses: ……","Gafas variadas: ……"
+"Kanbara Yuuko (talking)","さっき、かっちゃんが持ってきたの。","Kacchan brought it earlier.","Kacchan me lo trajo antes."
+"Yamamoto Akuji (talking)","かっちゃん…和樹の事か。","Kacchan…you mean Kazuki?","Kacchan… ¿quieres decir Kazuki?"
+"Kanbara Yuuko (talking)","うん。 こんなに貰っても、私、 目も悪くないのに~。","Yeah, I'm not that bad. I don't even have bad eyesight even if I get this much~.","Sí. Incluso si consigo esto, ¡ni siquiera estoy ciego!"
+"Yamamoto Akuji (talking)","古道具屋に売っ払っちまえ。","Sell it off to an antique dealer.","Véndelos a un anticuario."
+"__system__??","{★愛 = 1:","",""
+"__system__??","}","",""
+"narrator","　　［かちゃん］
+悪司は後ろ手に扉の鍵を閉めた。","[Kacchan]
+Akuji locked the door behind him.","[Kacchan]
 Akuji cerró la puerta tras de sí."
-"Kanbara Yuuko (talking)";"あーくん？";"Aa-kun?";"¿Aa-kun?"
-"Yamamoto Akuji (talking)";"疲れてる夕子さん見てたら、 そそられちまった。";"I was intrigued by the sight of a tired Yuuko.";"Me intrigó ver lo cansada que estaba Yuuko."
-"Kanbara Yuuko (talking)";"まあ、なんて子なの~。";"Well, what a girl~!";"Bueno, ¡qué niño!"
-"Yamamoto Akuji (talking)";"ちゅー訳で、夕子さん。 しようや。";"So, Yuuko. Let's do it.";"Por eso Yuuko. Hagámoslo."
-"Kanbara Yuuko (talking)";"もう、そ~いうムード作るの 上手になんなくちゃ駄目だって、 いつも言ってるでしょ~？";"I always say you have to be good at setting the mood, right?";"Siempre digo que hay que ser bueno para crear el ambiente, ¿no?"
-"Yamamoto Akuji (talking)";"はいはい、ほら、夕子さん。";"Yes, yes, look, Yuuko.";"Sí, sí, mira, Yuuko."
-"Kanbara Yuuko (talking)";"もう~、人の話、聞いてない~…";"I'm not listening to you…";"Oh, Dios - No estoy escuchando a la gente…"
-"cg narrator";"「あ………んん……」
+"Kanbara Yuuko (talking)","あーくん？","Aa-kun?","¿Aa-kun?"
+"Yamamoto Akuji (talking)","疲れてる夕子さん見てたら、 そそられちまった。","I was intrigued by the sight of a tired Yuuko.","Me intrigó ver lo cansada que estaba Yuuko."
+"Kanbara Yuuko (talking)","まあ、なんて子なの~。","Well, what a girl~!","Bueno, ¡qué niño!"
+"Yamamoto Akuji (talking)","ちゅー訳で、夕子さん。 しようや。","So, Yuuko. Let's do it.","Por eso Yuuko. Hagámoslo."
+"Kanbara Yuuko (talking)","もう、そ~いうムード作るの 上手になんなくちゃ駄目だって、 いつも言ってるでしょ~？","I always say you have to be good at setting the mood, right?","Siempre digo que hay que ser bueno para crear el ambiente, ¿no?"
+"Yamamoto Akuji (talking)","はいはい、ほら、夕子さん。","Yes, yes, look, Yuuko.","Sí, sí, mira, Yuuko."
+"Kanbara Yuuko (talking)","もう~、人の話、聞いてない~…","I'm not listening to you…","Oh, Dios - No estoy escuchando a la gente…"
+"cg narrator","「あ………んん……」
 悪司の舌が、夕子の花弁をなぞっていく。
  「……あ……あーくん…… 　そこ…気持ちいい…」
 夕子は、自分の躰が正直に反応した部分の 愛撫を悪司にねだる。
@@ -833,7 +833,7 @@ Akuji cerró la puerta tras de sí."
  「あ、ん……あ………ん~~………」
 夕子の躰ががくがくと震える。 それに合わせ、悪司もまた、不規則に、 リズムを崩すように、躰を震わせた。
  「……んふ……はぁ……」
-二人の結合部分から、白濁の体液が滲み出た。";"Ah……… nn……”
+二人の結合部分から、白濁の体液が滲み出た。","Ah……… nn……”
 Akuji's tongue traces Yuuko's petals.
  “Akuji, ah…… akun…… there… it feels so good…”
 The Yuuko asked Akuji to caress the part that her body honestly reacted to.
@@ -908,7 +908,7 @@ Yuuko's voice rises even higher.
  “Oh, nn…… ah……… n~~~……….”
 Yuuko's body trembled. The first thing to do is to make sure that you have a good understanding of what is going on in your life.
  “……nfuh……hah……”
-The two of them were joined by Haku's fluid oozing out of their joints.";"'Ah……… nn…….'
+The two of them were joined by Haku's fluid oozing out of their joints.","'Ah……… nn…….'
 La lengua de Akuji recorre los pétalos de Yuuko.
  'Akuji ah…… akun…… allí… se siente tan bien…'
 La Yuuko pide a Akuji que acaricie la parte a la que su cuerpo ha reaccionado honestamente.
@@ -984,48 +984,48 @@ La voz de Yuuko se eleva aún más. La primera vez que la vi, estaba un poco ner
 El cuerpo de Yuuko temblaba. En respuesta, el cuerpo de Akuji también tembló irregularmente, como para romper el ritmo.
  'El cuerpo de Akuji temblaba irregularmente, como si perdiera el ritmo.
 De sus articulaciones rezumaba el líquido de Haku."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"Kanbara Yuuko (talking)";"ふん　ふふ~ん~♪";"Mmm-hmm. Mmm-hmm~♪";"Hmmm… Hmmm…"
-"Yamamoto Akuji (talking)";"何やってんだ？ 夕子さん。 市長の仕事はいいのかよ。";"What are you doing? Yuuko. You're not doing a good job as mayor, are you?";"¿Qué estás haciendo? Yuuko. ¿Está haciendo un buen trabajo como alcalde?"
-"Kanbara Yuuko (talking)";"今日はおやすみよ~。 だからリリアン編んでるの~。 脳内麻薬出て、楽しいわよ~。";"It's a good night today! That's why I'm knitting Lillian! I'm having a lot of fun with this brain drug!";"Es una buena noche de sueño hoy~. ¡Por eso estoy tejiendo a Lillian! Es divertido, es una droga para el cerebro."
-"Yamamoto Akuji (talking)";"せっかくの休みなんだから、 もっと発散する事やればいいのに。";"It's your day off, so why don't you do something more divergent?";"Es tu día libre, deberías hacer algo más divergente."
-"Kanbara Yuuko (talking)";"発散してるわよ~。 慣れないデスクワークより楽しいし~。";"I'm venting! It's more fun than working at a desk, which I'm not used to.";"Me estoy desahogando~. Es más divertido que el trabajo de oficina al que estoy acostumbrado."
-"Yamamoto Akuji (talking)";"……ひょっとして…俺を責めてる？";"…… Are you by any chance… blaming me?";"…… ¿Por casualidad… me estás culpando?"
-"Kanbara Yuuko (talking)";"そんなつもりないわよ~。 あーくんはあーくんの好きな事して いいんだから~。";"I don't mean that~. You can do whatever you want~.";"No quiero decir eso~. Puedes hacer lo que quieras~."
-"Yamamoto Akuji (talking)";"あーまーそーだなー…";"Ahhhh, mmmm, yeah…";"Ah-ma-so…"
-"Kanbara Yuuko (talking)";"でもね~、ＰＭモノにしてくんなきゃ、 あーくんの事、嫌いになっちゃうかも~。";"But you know~, if you don't make me a PM, I might start to dislike you~.";"Pero sabes qué - si no me haces una cosa de PM, ¡podría empezar a odiarte!"
-"Yamamoto Akuji (talking)";"そりゃキツイ宣言だ。";"That's a tough declaration.";"Es una declaración difícil."
-"Kanbara Yuuko (talking)";"だってね~。 あたしだって頑張ってるもん~。";"Because, you know~. I'm doing my best too!";"Porque, ya sabes~. Yo también hago lo que puedo."
-"Yamamoto Akuji (talking)";"そだな。 これでＰＭの領地ブン取れば、 オオサカはほとんど俺のモンだしな。";"That's right. If I take PM's territory, I can own most of Osaka.";"Sí, así es. Si tomo el territorio de la PM, los Osakas son casi míos."
-"Kanbara Yuuko (talking)";"そうそう。 がんば~れ~。 あん、がんば~れ~。";"Yes, yes. Hang in there~! An, hang in there~!";"Sí, sí. Aguanta ahí~. ¡An, aguanta!"
-"Kanbara Yuuko (talking)";"ん…………は~~…… お茶が美味しい~…";"I'm not …………~~~…… tea is good~~~…";"No soy………… ~~…… El té es delicioso ~~…"
-"Chinpira (talking)";"お、お待たせしました、夕子様。 リリアンの糸、買ってきやしたぜ。 赤、白、黄色のグラデでＯＫでしたかい？";"Oh, thank you very much for your patience, Mr. Yuuko. I bought some Lillian threads. Did you get the red, Haku, and yellow gradient OK?";"Oh, gracias por su paciencia, señora Yuuko. He comprado hilo de Lilian. ¿El gradiente de rojo, Haku y amarillo estaba bien?"
-"Kanbara Yuuko (talking)";"ええ、そう~…ありがと~… でもこのぐらい、自分で買って…";"Yeah, well… thanks… but I'd rather buy this stuff myself…";"Sí, bueno… gracias… pero puedes comprar esto mismo…"
-"Chinpira (talking)";"いえ、そーいう訳にはいかないんでさ… わかって下さいよぅ、夕子様…";"No, I can't do that… Please understand me, Mr. Yuuko…";"No, así no funciona… Tiene que entender, señora Yuuko…"
-"Kanbara Yuuko (talking)";"その様もいやなんだけどな~…";"I don't like that either…";"A mí tampoco me gusta eso…"
-"Chinpira (talking)";"それもしかたないっしょ。 夕子様は特別なお人なんすから~。";"That can't be helped. Yuuko is a special person.";"Eso no se puede evitar. Eres una persona especial, lo sabes."
-"Ichihashi Ran (talking)";"何、若いの困らせてんだい、夕子さん。";"What are you trying to do, Yuuko?";"¿Qué haces para avergonzar a la joven, Yuuko."
-"Kanbara Yuuko (talking)";"あ、お蘭さん~… 別に、困らせてる訳じゃあ…";"Oh, Mr.  Ran… I'm not trying to embarrass you…";"Oh, Sr.  Ran… no es que le moleste…"
-"Ichihashi Ran (talking)";"あんたの為を思っての軟禁だよ。 辛抱しとくれ。";"I'm under house arrest for your sake. Be patient.";"Es un arresto domiciliario por su propio bien. Tengan paciencia."
-"Kanbara Yuuko (talking)";"でも~…";"But~…";"Pero…"
-"Ichihashi Ran (talking)";"もうすぐだからさ。 色々片付いたら、 あんたも自由にしたげるから…
-だからもう少し、 おとなしく、いい子にしてておくれよ。";"It's coming soon. When this is all over, you'll be free to go…
-So just be a nice, quiet boy for a little while longer.";"Será pronto. Cuando todo esto termine, serás libre de irte…
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"Kanbara Yuuko (talking)","ふん　ふふ~ん~♪","Mmm-hmm. Mmm-hmm~♪","Hmmm… Hmmm…"
+"Yamamoto Akuji (talking)","何やってんだ？ 夕子さん。 市長の仕事はいいのかよ。","What are you doing? Yuuko. You're not doing a good job as mayor, are you?","¿Qué estás haciendo? Yuuko. ¿Está haciendo un buen trabajo como alcalde?"
+"Kanbara Yuuko (talking)","今日はおやすみよ~。 だからリリアン編んでるの~。 脳内麻薬出て、楽しいわよ~。","It's a good night today! That's why I'm knitting Lillian! I'm having a lot of fun with this brain drug!","Es una buena noche de sueño hoy~. ¡Por eso estoy tejiendo a Lillian! Es divertido, es una droga para el cerebro."
+"Yamamoto Akuji (talking)","せっかくの休みなんだから、 もっと発散する事やればいいのに。","It's your day off, so why don't you do something more divergent?","Es tu día libre, deberías hacer algo más divergente."
+"Kanbara Yuuko (talking)","発散してるわよ~。 慣れないデスクワークより楽しいし~。","I'm venting! It's more fun than working at a desk, which I'm not used to.","Me estoy desahogando~. Es más divertido que el trabajo de oficina al que estoy acostumbrado."
+"Yamamoto Akuji (talking)","……ひょっとして…俺を責めてる？","…… Are you by any chance… blaming me?","…… ¿Por casualidad… me estás culpando?"
+"Kanbara Yuuko (talking)","そんなつもりないわよ~。 あーくんはあーくんの好きな事して いいんだから~。","I don't mean that~. You can do whatever you want~.","No quiero decir eso~. Puedes hacer lo que quieras~."
+"Yamamoto Akuji (talking)","あーまーそーだなー…","Ahhhh, mmmm, yeah…","Ah-ma-so…"
+"Kanbara Yuuko (talking)","でもね~、ＰＭモノにしてくんなきゃ、 あーくんの事、嫌いになっちゃうかも~。","But you know~, if you don't make me a PM, I might start to dislike you~.","Pero sabes qué - si no me haces una cosa de PM, ¡podría empezar a odiarte!"
+"Yamamoto Akuji (talking)","そりゃキツイ宣言だ。","That's a tough declaration.","Es una declaración difícil."
+"Kanbara Yuuko (talking)","だってね~。 あたしだって頑張ってるもん~。","Because, you know~. I'm doing my best too!","Porque, ya sabes~. Yo también hago lo que puedo."
+"Yamamoto Akuji (talking)","そだな。 これでＰＭの領地ブン取れば、 オオサカはほとんど俺のモンだしな。","That's right. If I take PM's territory, I can own most of Osaka.","Sí, así es. Si tomo el territorio de la PM, los Osakas son casi míos."
+"Kanbara Yuuko (talking)","そうそう。 がんば~れ~。 あん、がんば~れ~。","Yes, yes. Hang in there~! An, hang in there~!","Sí, sí. Aguanta ahí~. ¡An, aguanta!"
+"Kanbara Yuuko (talking)","ん…………は~~…… お茶が美味しい~…","I'm not …………~~~…… tea is good~~~…","No soy………… ~~…… El té es delicioso ~~…"
+"Chinpira (talking)","お、お待たせしました、夕子様。 リリアンの糸、買ってきやしたぜ。 赤、白、黄色のグラデでＯＫでしたかい？","Oh, thank you very much for your patience, Mr. Yuuko. I bought some Lillian threads. Did you get the red, Haku, and yellow gradient OK?","Oh, gracias por su paciencia, señora Yuuko. He comprado hilo de Lilian. ¿El gradiente de rojo, Haku y amarillo estaba bien?"
+"Kanbara Yuuko (talking)","ええ、そう~…ありがと~… でもこのぐらい、自分で買って…","Yeah, well… thanks… but I'd rather buy this stuff myself…","Sí, bueno… gracias… pero puedes comprar esto mismo…"
+"Chinpira (talking)","いえ、そーいう訳にはいかないんでさ… わかって下さいよぅ、夕子様…","No, I can't do that… Please understand me, Mr. Yuuko…","No, así no funciona… Tiene que entender, señora Yuuko…"
+"Kanbara Yuuko (talking)","その様もいやなんだけどな~…","I don't like that either…","A mí tampoco me gusta eso…"
+"Chinpira (talking)","それもしかたないっしょ。 夕子様は特別なお人なんすから~。","That can't be helped. Yuuko is a special person.","Eso no se puede evitar. Eres una persona especial, lo sabes."
+"Ichihashi Ran (talking)","何、若いの困らせてんだい、夕子さん。","What are you trying to do, Yuuko?","¿Qué haces para avergonzar a la joven, Yuuko."
+"Kanbara Yuuko (talking)","あ、お蘭さん~… 別に、困らせてる訳じゃあ…","Oh, Mr.  Ran… I'm not trying to embarrass you…","Oh, Sr.  Ran… no es que le moleste…"
+"Ichihashi Ran (talking)","あんたの為を思っての軟禁だよ。 辛抱しとくれ。","I'm under house arrest for your sake. Be patient.","Es un arresto domiciliario por su propio bien. Tengan paciencia."
+"Kanbara Yuuko (talking)","でも~…","But~…","Pero…"
+"Ichihashi Ran (talking)","もうすぐだからさ。 色々片付いたら、 あんたも自由にしたげるから…
+だからもう少し、 おとなしく、いい子にしてておくれよ。","It's coming soon. When this is all over, you'll be free to go…
+So just be a nice, quiet boy for a little while longer.","Será pronto. Cuando todo esto termine, serás libre de irte…
 Así que sé un chico bueno y tranquilo por un tiempo más."
-"Kanbara Yuuko (talking)";"んん~~……";"mmm~~……";"mmm~~……"
-"Ichihashi Ran (talking)";"暇なんだったら、そこの若いの、 弄んでてもいいからさ。";"If you're not busy, young man over there, I'd be happy to play with you.";"Si no estás ocupado, joven de allí, estoy feliz de jugar contigo."
-"Chinpira (talking)";"そ、そんな、滅相もないっすよ！ じ、自分が夕子様に弄ばれるだなんて！";"Oh, no, that's not right! I can't believe I'm being played by Master Yuuko!";"¡Oh, no, eso no es posible! ¡No puedo creer que el maestro Yuuko esté jugando conmigo!"
-"Kanbara Yuuko (talking)";"んん~~……";"mmm~~……";"mmm~~……"
-"Kanbara Yuuko (thinking)";"……ま、いっか… もう少し、リリアン進めたいし~… おとなしくしてよっかな……";"……Well, I don't mind… I'd like to make a little more progress with Lillian… I think I'll just lay low……";"……Bueno, vale… Quiero seguir un poco más, Lillian… Me sentaré tranquilamente……"
-"Chinpira (talking)";"あ、あの…そんなにじっと見ないで、 夕子様…じ、自分、恥ずかしいっす…";"Oh, um…don't stare at me so much, Yuuko-sama…I'm embarrassed…";"Oh, um… no me mires tanto, Yuuko-sama… Me da vergüenza…"
-"Kanbara Yuuko (talking)";"さ~て、どうしようかな~？
+"Kanbara Yuuko (talking)","んん~~……","mmm~~……","mmm~~……"
+"Ichihashi Ran (talking)","暇なんだったら、そこの若いの、 弄んでてもいいからさ。","If you're not busy, young man over there, I'd be happy to play with you.","Si no estás ocupado, joven de allí, estoy feliz de jugar contigo."
+"Chinpira (talking)","そ、そんな、滅相もないっすよ！ じ、自分が夕子様に弄ばれるだなんて！","Oh, no, that's not right! I can't believe I'm being played by Master Yuuko!","¡Oh, no, eso no es posible! ¡No puedo creer que el maestro Yuuko esté jugando conmigo!"
+"Kanbara Yuuko (talking)","んん~~……","mmm~~……","mmm~~……"
+"Kanbara Yuuko (thinking)","……ま、いっか… もう少し、リリアン進めたいし~… おとなしくしてよっかな……","……Well, I don't mind… I'd like to make a little more progress with Lillian… I think I'll just lay low……","……Bueno, vale… Quiero seguir un poco más, Lillian… Me sentaré tranquilamente……"
+"Chinpira (talking)","あ、あの…そんなにじっと見ないで、 夕子様…じ、自分、恥ずかしいっす…","Oh, um…don't stare at me so much, Yuuko-sama…I'm embarrassed…","Oh, um… no me mires tanto, Yuuko-sama… Me da vergüenza…"
+"Kanbara Yuuko (talking)","さ~て、どうしようかな~？
 ぶんぶん、振り回しちゃって いいかな~？
 痛かったら……ま、いっか~。 ごめんね~。
-は~い、行きますよ~。 きゃ~☆";"Well, what should I do?
+は~い、行きますよ~。 きゃ~☆","Well, what should I do?
 Can I just swing it around?
 If it hurts ……, that's okay~. I'm sorry.
-Here I go~! Kyaa~~!☆";"Bueno, ¿qué debo hacer?
+Here I go~! Kyaa~~!☆","Bueno, ¿qué debo hacer?
  ¿Puedo girarlo?
 Si te duele ……, está bien~. Lo siento.
  ¡Aquí voy! ¡Kyaa~!☆"

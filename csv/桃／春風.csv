@@ -1,92 +1,92 @@
-"character";"jap text";"Eng";"Esp"
-"__system__??";"{麦 = 1:";"";""
-"__system__??";"{☆春風 < 10:";"";""
-"__system__??";"}";"";""
-"__system__??";"{(☆春風 = 10) * (I装備[2] = 99):";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 2:";"";""
-"__system__??";"{B忠誠心 > 70:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 3:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 4:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 5:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 10:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 11:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 12:";"";""
-"__system__??";"{H愛欲 = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"{(H愛欲抵抗 <= H愛欲) * (D11 = 0):";"";""
-"__system__??";"}";"";""
-"__system__??";"{(H愛欲抵抗 <= H愛欲) * (D11 \ 0):";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 13:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 15:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 16:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 17:";"";""
-"__system__??";"{H拷問抵抗 < H拷問:";"";""
-"__system__??";"}";"";""
-"__system__??";"{H拷問 = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 18:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 19:";"";""
-"__system__??";"}";"";""
-"Harukaze (talking)";"なんだよ。";"What is it?";"Qué es."
-"Yamamoto Akuji (talking)";"春風…春風……";"Harukaze…Harukaze……";"Harukaze…Harukaze……"
-"Harukaze (talking)";"何、人の名前、連呼してんだよ。";"What are you calling people's names?";"¿Por qué llamas a la gente por su nombre?"
-"Yamamoto Akuji (talking)";"おう。 これってさ、名前か名字、 どっちかなっと思ってよ。";"Oh. I was wondering if this is a first name or a last name.";"Oh. Me preguntaba si es un nombre o un apellido."
-"Harukaze (talking)";"春風の名前は、春風だ。";"The name of Harukaze is Harukaze.";"El nombre de Harukaze es Harukaze."
-"Yamamoto Akuji (talking)";"なんで？";"Why?";"¿Por qué?"
-"Harukaze (talking)";"……つけて貰った。 春風、オオアナのそばで座ってたん だって。
-その時、視察にきていて、 拾って下さった人が、 名前をつけてくれたんだ。";"I got it from ……. Harukaze, he was sitting by Oana.
-The person who came to visit and picked him up gave him his name.";"Me pusieron en ……. Harukaze, estaba sentado junto a Oana.
+"character","jap text","Eng","Esp"
+"__system__??","{麦 = 1:","",""
+"__system__??","{☆春風 < 10:","",""
+"__system__??","}","",""
+"__system__??","{(☆春風 = 10) * (I装備[2] = 99):","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 2:","",""
+"__system__??","{B忠誠心 > 70:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 3:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 4:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 5:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 10:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 11:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 12:","",""
+"__system__??","{H愛欲 = 1:","",""
+"__system__??","}","",""
+"__system__??","{(H愛欲抵抗 <= H愛欲) * (D11 = 0):","",""
+"__system__??","}","",""
+"__system__??","{(H愛欲抵抗 <= H愛欲) * (D11 \ 0):","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 13:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 15:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 16:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 17:","",""
+"__system__??","{H拷問抵抗 < H拷問:","",""
+"__system__??","}","",""
+"__system__??","{H拷問 = 1:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 18:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 19:","",""
+"__system__??","}","",""
+"Harukaze (talking)","なんだよ。","What is it?","Qué es."
+"Yamamoto Akuji (talking)","春風…春風……","Harukaze…Harukaze……","Harukaze…Harukaze……"
+"Harukaze (talking)","何、人の名前、連呼してんだよ。","What are you calling people's names?","¿Por qué llamas a la gente por su nombre?"
+"Yamamoto Akuji (talking)","おう。 これってさ、名前か名字、 どっちかなっと思ってよ。","Oh. I was wondering if this is a first name or a last name.","Oh. Me preguntaba si es un nombre o un apellido."
+"Harukaze (talking)","春風の名前は、春風だ。","The name of Harukaze is Harukaze.","El nombre de Harukaze es Harukaze."
+"Yamamoto Akuji (talking)","なんで？","Why?","¿Por qué?"
+"Harukaze (talking)","……つけて貰った。 春風、オオアナのそばで座ってたん だって。
+その時、視察にきていて、 拾って下さった人が、 名前をつけてくれたんだ。","I got it from ……. Harukaze, he was sitting by Oana.
+The person who came to visit and picked him up gave him his name.","Me pusieron en ……. Harukaze, estaba sentado junto a Oana.
 La persona que vino a inspeccionar el lugar y lo recogió le dio un nombre."
-"Yamamoto Akuji (talking)";"お前さん、戦災孤児か。";"Are you a war orphan?";"¿Es usted un huérfano de guerra?"
-"Harukaze (talking)";"そーなんじゃないのかな。 春風、知らない。";"I guess so. Harukaze, I don't know.";"Creo que eso es correcto. Harukaze, no lo sé."
-"Yamamoto Akuji (talking)";"ふーん。";"Hmmm.";"Hmmm."
-"Harukaze (talking)";"悪司。";"Akuji.";"Akuji."
-"Yamamoto Akuji (talking)";"んー？";"Hmm?";"¿Hmm?"
-"Harukaze (talking)";"机の下で拾ったんだ。 春風いらないから、悪司にあげる。";"I picked it up under my desk. I don't want Harukaze, so I'll give it to Akuji.";"Lo recogí bajo mi escritorio. No quiero Harukaze, así que se lo daré a Akuji."
-"Yamamoto Akuji (talking)";"ん~？";"Hmm?";"¿Hmm?"
-"narrator";"春風はニヤッと笑うと、悪司の手の上に 拾ったものを置いた。";"Harukaze smirked and placed the found object on Akuji's hand.";"Harukaze sonrió y colocó el objeto encontrado en la mano de Akuji."
-"Yamamoto Akuji (talking)";"なんだ、死んだ小鳥の死体じゃねーか。";"What's that, it's the corpse of a dead little bird.";"¿Qué es eso, un pajarito muerto?"
-"Harukaze (talking)";"………………あれ？";"……………… Huh?";"……………… ¿Eh?"
-"Yamamoto Akuji (talking)";"なんだ？";"What is it?";"¿Qué es?"
-"Harukaze (talking)";"それ、気持ち悪くないの？";"Isn't that sickening?";"¿No es asqueroso?"
-"Yamamoto Akuji (talking)";"別に。";"Separately.";"Por separado."
-"Harukaze (talking)";"ちっ。 ぎゃーとか言うかと思ったのに。
-それよりさー、変。";"Damn. I thought you were going to say something like, “Oh, no!
-But it's more than that, it's weird.";"Maldita sea. Pensé que ibas a decir algo como “oh no”.
+"Yamamoto Akuji (talking)","お前さん、戦災孤児か。","Are you a war orphan?","¿Es usted un huérfano de guerra?"
+"Harukaze (talking)","そーなんじゃないのかな。 春風、知らない。","I guess so. Harukaze, I don't know.","Creo que eso es correcto. Harukaze, no lo sé."
+"Yamamoto Akuji (talking)","ふーん。","Hmmm.","Hmmm."
+"Harukaze (talking)","悪司。","Akuji.","Akuji."
+"Yamamoto Akuji (talking)","んー？","Hmm?","¿Hmm?"
+"Harukaze (talking)","机の下で拾ったんだ。 春風いらないから、悪司にあげる。","I picked it up under my desk. I don't want Harukaze, so I'll give it to Akuji.","Lo recogí bajo mi escritorio. No quiero Harukaze, así que se lo daré a Akuji."
+"Yamamoto Akuji (talking)","ん~？","Hmm?","¿Hmm?"
+"narrator","春風はニヤッと笑うと、悪司の手の上に 拾ったものを置いた。","Harukaze smirked and placed the found object on Akuji's hand.","Harukaze sonrió y colocó el objeto encontrado en la mano de Akuji."
+"Yamamoto Akuji (talking)","なんだ、死んだ小鳥の死体じゃねーか。","What's that, it's the corpse of a dead little bird.","¿Qué es eso, un pajarito muerto?"
+"Harukaze (talking)","………………あれ？","……………… Huh?","……………… ¿Eh?"
+"Yamamoto Akuji (talking)","なんだ？","What is it?","¿Qué es?"
+"Harukaze (talking)","それ、気持ち悪くないの？","Isn't that sickening?","¿No es asqueroso?"
+"Yamamoto Akuji (talking)","別に。","Separately.","Por separado."
+"Harukaze (talking)","ちっ。 ぎゃーとか言うかと思ったのに。
+それよりさー、変。","Damn. I thought you were going to say something like, “Oh, no!
+But it's more than that, it's weird.","Maldita sea. Pensé que ibas a decir algo como “oh no”.
 Pero es más que eso, es raro."
-"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
-"Harukaze (talking)";"死んだ小鳥の死体って、言葉が変。";"Dead little bird corpse is a strange word.";"Los pajaritos muertos son una palabra extraña para un pajarito muerto."
-"Yamamoto Akuji (talking)";"んだけど、そーいう名前だからなー。";"But that's the name of the game.";"Pero así se llama."
-"Harukaze (talking)";"納得出来ないってば。";"I'm not convinced.";"No me convence."
-"Yamamoto Akuji (talking)";"さーて。";"Well.";"Bueno."
-"Harukaze (talking)";"……な、なんだよ、その顔…";"…… Hey, what's with the face…";"…… Oye, ¿qué pasa con esa cara…"
-"Yamamoto Akuji (talking)";"可愛い春風を拝みましょうかねーって いう顔さ。";"I'd like to see the pretty face of Harukaze.";"La mirada en su rostro dice: “Veamos a la encantadora Harukaze”."
-"Harukaze (talking)";"なんだよ、それ…っ…いっ… いやだ、春風……";"";"Qué demonios es eso…….. No, Harukaze ……"
-"Yamamoto Akuji (talking)";"なんで？ いーじゃねぇか。 恥ずかしくないってよ。";"Why not? Why not? I'm not ashamed of it.";"¿Por qué no? ¿Por qué no? Dice que no está avergonzado."
-"Harukaze (talking)";"や、やだやだ… もう…あんな……";"Oh no, no, no… not anymore… like that ……";"Oh no, no, no… no más… así ……"
-"Yamamoto Akuji (talking)";"あんな？";"Oh, my God?";"¿Ah, no?"
-"Harukaze (talking)";"あ、だ、だから…その…";"Oh, so… so… so…";"Oh, tan… tan… tan…"
-"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
-"Harukaze (talking)";"や、やだよ、悪司…… 春風……";"Oh no, no, no. Akuji…… Harukaze ……";"No, no, no, Akuji…… Harukaze ……"
-"Yamamoto Akuji (talking)";"すぐにいやじゃなくなるさ。";"Soon you won't hate it.";"Pronto no lo odiarás."
-"Harukaze (talking)";"う、あ、あっ…！";"Uh, ah…!";"Uh, ah, ah…"
-"cg narrator";"「うっ……あああっ……！！」
+"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
+"Harukaze (talking)","死んだ小鳥の死体って、言葉が変。","Dead little bird corpse is a strange word.","Los pajaritos muertos son una palabra extraña para un pajarito muerto."
+"Yamamoto Akuji (talking)","んだけど、そーいう名前だからなー。","But that's the name of the game.","Pero así se llama."
+"Harukaze (talking)","納得出来ないってば。","I'm not convinced.","No me convence."
+"Yamamoto Akuji (talking)","さーて。","Well.","Bueno."
+"Harukaze (talking)","……な、なんだよ、その顔…","…… Hey, what's with the face…","…… Oye, ¿qué pasa con esa cara…"
+"Yamamoto Akuji (talking)","可愛い春風を拝みましょうかねーって いう顔さ。","I'd like to see the pretty face of Harukaze.","La mirada en su rostro dice: “Veamos a la encantadora Harukaze”."
+"Harukaze (talking)","なんだよ、それ…っ…いっ… いやだ、春風……","","Qué demonios es eso…….. No, Harukaze ……"
+"Yamamoto Akuji (talking)","なんで？ いーじゃねぇか。 恥ずかしくないってよ。","Why not? Why not? I'm not ashamed of it.","¿Por qué no? ¿Por qué no? Dice que no está avergonzado."
+"Harukaze (talking)","や、やだやだ… もう…あんな……","Oh no, no, no… not anymore… like that ……","Oh no, no, no… no más… así ……"
+"Yamamoto Akuji (talking)","あんな？","Oh, my God?","¿Ah, no?"
+"Harukaze (talking)","あ、だ、だから…その…","Oh, so… so… so…","Oh, tan… tan… tan…"
+"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
+"Harukaze (talking)","や、やだよ、悪司…… 春風……","Oh no, no, no. Akuji…… Harukaze ……","No, no, no, Akuji…… Harukaze ……"
+"Yamamoto Akuji (talking)","すぐにいやじゃなくなるさ。","Soon you won't hate it.","Pronto no lo odiarás."
+"Harukaze (talking)","う、あ、あっ…！","Uh, ah…!","Uh, ah, ah…"
+"cg narrator","「うっ……あああっ……！！」
  「さあ、入れるぜ。 　春風、ゆっくり入ってくんの、 　好きだったよな」
  「うっ……うんっ……」
  「お望み通りにしてやるよ」
@@ -98,7 +98,7 @@ Pero es más que eso, es raro."
  「どんな風に？」
  「……たくさんっ……たくさん…動いて…」
  「よーし、わかった。 　お前さんが気絶するまで動いてやるよ」
- 「んっ……あっ…あううっ……！！」";"”Ugh…… ohhhh ……!!!”
+ 「んっ……あっ…あううっ……！！」","”Ugh…… ohhhh ……!!!”
  “Come on, let's go in. 　Harukaze, you liked it when you went in slowly, didn't you?”
  “Ugh…… yeah……”
  “I'll do whatever you want.”
@@ -110,7 +110,7 @@ Ugh,…… yeah,……
 Like what?
  “…… a lot,…… a lot… move…”
  “Okay, okay. 　I'm going to move you until you pass out.
-I'm going to move you until you pass out.";"¡'Ugh…… ohhhh ……!
+I'm going to move you until you pass out.","¡'Ugh…… ohhhh ……!
  “Vamos, entremos. 　Harukaze, te gustaba cuando entrabas despacio, ¿no?”
 Ugh…… si ……
 Haré lo que quieras.
@@ -123,70 +123,70 @@ Ugh,…… sí, ……
  “…… mucho,…… mucho… muévete…”
 Vale, vale. 　Me moveré hasta que te desmayes”.
  'Oh……… ah… ah… ah… ……!"
-"Yamamoto Akuji (talking)";"さて、待たせたな。";"Well, thanks for the wait.";"Bueno, te he hecho esperar."
-"Harukaze (talking)";"…何が？";"…What?";"…¿qué?"
-"Yamamoto Akuji (talking)";"わかってんだろ？ ほれ、向こうの部屋行くぞ。
-それともここで、だれかれ構わず 見られながらする方が好きか？";"You know what I'm talking about. Come on, let's go to the other room.
-Or do you prefer to do it here, where anyone can watch you?";"Ya sabes lo que quiero decir. Venga, vamos a la otra habitación.
+"Yamamoto Akuji (talking)","さて、待たせたな。","Well, thanks for the wait.","Bueno, te he hecho esperar."
+"Harukaze (talking)","…何が？","…What?","…¿qué?"
+"Yamamoto Akuji (talking)","わかってんだろ？ ほれ、向こうの部屋行くぞ。
+それともここで、だれかれ構わず 見られながらする方が好きか？","You know what I'm talking about. Come on, let's go to the other room.
+Or do you prefer to do it here, where anyone can watch you?","Ya sabes lo que quiero decir. Venga, vamos a la otra habitación.
  ¿O prefieres hacerlo aquí, donde cualquiera puede observarte?"
-"Harukaze (talking)";"そんな変態さんみたいな事、 春風きらいだ。";"I don't like that kind of perverted thing, Harukaze.";"No me gusta ese tipo de cosas pervertidas, Harukaze."
-"Yamamoto Akuji (talking)";"だったらこい。 ほれほれ。";"Then come on. Come on, come on.";"Entonces ven. Aquí, aquí."
-"Harukaze (talking)";"襟首摘ままないでよ！ 服、伸びちゃうだろっ！！";"Don't pick at my collar! You're stretching my clothes!";"¡No me toques el cuello! ¡Estás estirando mi ropa!"
-"Harukaze (talking)";"春風は、悪司に抱かれた。";"Harukaze was embraced by Akuji.";"Harukaze fue abrazado por Akuji."
-"Yamamoto Akuji (talking)";"遠慮しなくても、 もっと声あげていいんだぞ。";"Don't be afraid to speak up.";"No seas tímido, puedes hablar más."
-"Harukaze (talking)";"うるさいなぁ…春風の勝手だろ。";"Shut up…it's up to Harukaze.";"Cállate… depende de Harukaze."
-"Yamamoto Akuji (talking)";"そーかそーか。 恥ずかしいのか。";"I see. Are you ashamed?";"Ya veo. ¿Te da vergüenza?"
-"Harukaze (talking)";"何も言ってないだろ、馬鹿！";"I didn't say anything, idiot!";"¡No he dicho nada, idiota!"
-"Yamamoto Akuji (talking)";"ほれ、小遣いやるよ。";"Here, I'll give you some money.";"Toma, te daré algo de dinero de bolsillo."
-"Harukaze (talking)";"お金…";"Money…";"Dinero …"
-"Yamamoto Akuji (talking)";"いらねぇか？";"Don't you want it?";"¿No lo quieres?"
-"Harukaze (talking)";"……もらっとく…… でもこれ使って、いつかあんたを 裏切ってやるからな。";"I'll take…… but I'll use it to rat you out someday.";"Lo tomaré…… pero lo usaré para delatarte un día."
-"Yamamoto Akuji (talking)";"そーかそーか。";"Oh, yeah.";"Ah, sí."
-"Harukaze (talking)";"頭撫でないでよっ！";"Don't pet my head!";"¡No me des palmaditas en la cabeza!"
-"Yamamoto Akuji (talking)";"ふーん。";"Hmmm.";"Hmmm."
-"Harukaze (talking)";"…………………";"…………………";"…………………"
-"narrator";"挑むような目で、悪司を睨んでいる春風。";"Harukaze glares at Akuji with challenging eyes.";"Harukaze mira a Akuji con ojos desafiantes."
-"Yamamoto Akuji (talking)";"いい目つきしてんな、お前。";"You've got a good eye, you know that?";"Tienes buen ojo."
-"Harukaze (talking)";"春風は春風だ！ お前なんて名前じゃない！";"Harukaze is Harukaze! You're not a name!";"¡Harukaze es Harukaze! ¡No eres un nombre!"
-"Yamamoto Akuji (talking)";"そーかそーか。 落ち着け、春風。";"Oh, yeah. Calm down, Harukaze.";"Ah, sí. Cálmate, Harukaze."
-"narrator";"悪司は春風の頭を撫でようとして、 手を出した。
-その手を、春風は噛もうとした。";"Akuji put out his hand to pat Harukaze on the head.
-Harukaze tried to bite his hand.";"Akuji extendió la mano para acariciar la cabeza de Harukaze.
+"Harukaze (talking)","そんな変態さんみたいな事、 春風きらいだ。","I don't like that kind of perverted thing, Harukaze.","No me gusta ese tipo de cosas pervertidas, Harukaze."
+"Yamamoto Akuji (talking)","だったらこい。 ほれほれ。","Then come on. Come on, come on.","Entonces ven. Aquí, aquí."
+"Harukaze (talking)","襟首摘ままないでよ！ 服、伸びちゃうだろっ！！","Don't pick at my collar! You're stretching my clothes!","¡No me toques el cuello! ¡Estás estirando mi ropa!"
+"Harukaze (talking)","春風は、悪司に抱かれた。","Harukaze was embraced by Akuji.","Harukaze fue abrazado por Akuji."
+"Yamamoto Akuji (talking)","遠慮しなくても、 もっと声あげていいんだぞ。","Don't be afraid to speak up.","No seas tímido, puedes hablar más."
+"Harukaze (talking)","うるさいなぁ…春風の勝手だろ。","Shut up…it's up to Harukaze.","Cállate… depende de Harukaze."
+"Yamamoto Akuji (talking)","そーかそーか。 恥ずかしいのか。","I see. Are you ashamed?","Ya veo. ¿Te da vergüenza?"
+"Harukaze (talking)","何も言ってないだろ、馬鹿！","I didn't say anything, idiot!","¡No he dicho nada, idiota!"
+"Yamamoto Akuji (talking)","ほれ、小遣いやるよ。","Here, I'll give you some money.","Toma, te daré algo de dinero de bolsillo."
+"Harukaze (talking)","お金…","Money…","Dinero …"
+"Yamamoto Akuji (talking)","いらねぇか？","Don't you want it?","¿No lo quieres?"
+"Harukaze (talking)","……もらっとく…… でもこれ使って、いつかあんたを 裏切ってやるからな。","I'll take…… but I'll use it to rat you out someday.","Lo tomaré…… pero lo usaré para delatarte un día."
+"Yamamoto Akuji (talking)","そーかそーか。","Oh, yeah.","Ah, sí."
+"Harukaze (talking)","頭撫でないでよっ！","Don't pet my head!","¡No me des palmaditas en la cabeza!"
+"Yamamoto Akuji (talking)","ふーん。","Hmmm.","Hmmm."
+"Harukaze (talking)","…………………","…………………","…………………"
+"narrator","挑むような目で、悪司を睨んでいる春風。","Harukaze glares at Akuji with challenging eyes.","Harukaze mira a Akuji con ojos desafiantes."
+"Yamamoto Akuji (talking)","いい目つきしてんな、お前。","You've got a good eye, you know that?","Tienes buen ojo."
+"Harukaze (talking)","春風は春風だ！ お前なんて名前じゃない！","Harukaze is Harukaze! You're not a name!","¡Harukaze es Harukaze! ¡No eres un nombre!"
+"Yamamoto Akuji (talking)","そーかそーか。 落ち着け、春風。","Oh, yeah. Calm down, Harukaze.","Ah, sí. Cálmate, Harukaze."
+"narrator","悪司は春風の頭を撫でようとして、 手を出した。
+その手を、春風は噛もうとした。","Akuji put out his hand to pat Harukaze on the head.
+Harukaze tried to bite his hand.","Akuji extendió la mano para acariciar la cabeza de Harukaze.
 Harukaze intentó morder esa mano."
-"Yamamoto Akuji (talking)";"おっ！？";"Whoa!";"¡Vaya!"
-"narrator";"　　［がきっっ］
-春風の歯と歯が激しくぶつかる音が 部屋に響く。";"[click]
-The sound of Harukaze's teeth clashing violently against each other echoes through the room.";"[clic].
+"Yamamoto Akuji (talking)","おっ！？","Whoa!","¡Vaya!"
+"narrator","　　［がきっっ］
+春風の歯と歯が激しくぶつかる音が 部屋に響く。","[click]
+The sound of Harukaze's teeth clashing violently against each other echoes through the room.","[clic].
 El sonido de los dientes de Harukaze chocando violentamente entre sí resuena en la habitación."
-"Harukaze (talking)";"春風にさわるな！！ さわっていいのは、一人だけだ！！";"Don't touch Harukaze! Only one person is allowed to touch Harukaze!";"¡No toques a Harukaze! ¡Sólo una persona puede tocarlo!"
-"Yamamoto Akuji (talking)";"おー……犬みてーだな。";"Oh, ……, you look like a dog.";"Oh, mira…… perro."
-"narrator";"春風は部屋に連れられてきてからずっと、 悪司から目を逸らさない。";"Harukaze has not looked away from Akuji since he was brought into the room.";"Harukaze no ha dejado de mirar a Akuji desde que lo trajeron a la habitación."
-"Yamamoto Akuji (talking)";"元気そーじゃねぇか。 あいかわらずいい目だ。";"You look fine. Your eyes are as good as ever.";"Te ves bien. Tus ojos son tan buenos como siempre."
-"Harukaze (talking)";"さわるな！！";"Don't touch me!";"¡No me toques!"
-"Yamamoto Akuji (talking)";"おおっと。";"Oops.";"Uy."
-"narrator";"春風は回し蹴りを入れたが、 悪司はそれをなんなく避けた。";"Harukaze throws a spinning kick, but Akuji avoids it easily.";"Harukaze lanzó una patada giratoria, pero Akuji la evitó fácilmente."
-"Yamamoto Akuji (talking)";"でよー、春風。";"Deyo, Harukaze.";"De yo, Harukaze."
-"Harukaze (talking)";"なんだよ。";"What is it?";"Qué es."
-"Yamamoto Akuji (talking)";"おめー、男に抱かれた事あっか？";"Have you ever been hugged by a man?";"¿Alguna vez te ha abrazado un hombre?"
-"Harukaze (talking)";"なんだよ、それ、やらしーなー。";"What the hell, that's so yucky.";"Qué demonios, eso es tan asqueroso."
-"Yamamoto Akuji (talking)";"そーいう反応みせるって事は、 した事なしか。";"If you react like that, then you've never done it before.";"Si reaccionas así, es que no lo has hecho nunca."
-"Harukaze (talking)";"どっちでもいいだろ、そんな事。";"Either way, it doesn't matter.";"No importa de ninguna manera, esa es la cuestión."
-"Yamamoto Akuji (talking)";"そーだな、抱かれた事があっても なくっても、俺がお前さんの中で 一番の男になる。";"Well, I'll be the best man you've ever had, whether I've ever been held or not.";"Sí, seré el mejor hombre que hayas tenido en tu vida, tanto si me han abrazado como si no."
-"Harukaze (talking)";"は？";"Huh?";"¿Ja?"
-"Yamamoto Akuji (talking)";"さーて、行くぞ。";"Well, here we go.";"Muy bien, vamos."
-"narrator";"悪司は春風を肩に担いだ。";"Akuji carried Harukaze on his shoulder.";"Akuji llevaba a Harukaze sobre sus hombros."
-"Harukaze (talking)";"は、離せよ、何すんだよ、 どこ行くんだよー！";"Get off me! What are you doing? Where are you going?";"¡Suéltame! ¿Qué haces? ¿Adónde vas?"
-"cg narrator";"「やっ……やだよ、こんな恰好…恥ずかしいよ… 　な、何すんだよ…」
+"Harukaze (talking)","春風にさわるな！！ さわっていいのは、一人だけだ！！","Don't touch Harukaze! Only one person is allowed to touch Harukaze!","¡No toques a Harukaze! ¡Sólo una persona puede tocarlo!"
+"Yamamoto Akuji (talking)","おー……犬みてーだな。","Oh, ……, you look like a dog.","Oh, mira…… perro."
+"narrator","春風は部屋に連れられてきてからずっと、 悪司から目を逸らさない。","Harukaze has not looked away from Akuji since he was brought into the room.","Harukaze no ha dejado de mirar a Akuji desde que lo trajeron a la habitación."
+"Yamamoto Akuji (talking)","元気そーじゃねぇか。 あいかわらずいい目だ。","You look fine. Your eyes are as good as ever.","Te ves bien. Tus ojos son tan buenos como siempre."
+"Harukaze (talking)","さわるな！！","Don't touch me!","¡No me toques!"
+"Yamamoto Akuji (talking)","おおっと。","Oops.","Uy."
+"narrator","春風は回し蹴りを入れたが、 悪司はそれをなんなく避けた。","Harukaze throws a spinning kick, but Akuji avoids it easily.","Harukaze lanzó una patada giratoria, pero Akuji la evitó fácilmente."
+"Yamamoto Akuji (talking)","でよー、春風。","Deyo, Harukaze.","De yo, Harukaze."
+"Harukaze (talking)","なんだよ。","What is it?","Qué es."
+"Yamamoto Akuji (talking)","おめー、男に抱かれた事あっか？","Have you ever been hugged by a man?","¿Alguna vez te ha abrazado un hombre?"
+"Harukaze (talking)","なんだよ、それ、やらしーなー。","What the hell, that's so yucky.","Qué demonios, eso es tan asqueroso."
+"Yamamoto Akuji (talking)","そーいう反応みせるって事は、 した事なしか。","If you react like that, then you've never done it before.","Si reaccionas así, es que no lo has hecho nunca."
+"Harukaze (talking)","どっちでもいいだろ、そんな事。","Either way, it doesn't matter.","No importa de ninguna manera, esa es la cuestión."
+"Yamamoto Akuji (talking)","そーだな、抱かれた事があっても なくっても、俺がお前さんの中で 一番の男になる。","Well, I'll be the best man you've ever had, whether I've ever been held or not.","Sí, seré el mejor hombre que hayas tenido en tu vida, tanto si me han abrazado como si no."
+"Harukaze (talking)","は？","Huh?","¿Ja?"
+"Yamamoto Akuji (talking)","さーて、行くぞ。","Well, here we go.","Muy bien, vamos."
+"narrator","悪司は春風を肩に担いだ。","Akuji carried Harukaze on his shoulder.","Akuji llevaba a Harukaze sobre sus hombros."
+"Harukaze (talking)","は、離せよ、何すんだよ、 どこ行くんだよー！","Get off me! What are you doing? Where are you going?","¡Suéltame! ¿Qué haces? ¿Adónde vas?"
+"cg narrator","「やっ……やだよ、こんな恰好…恥ずかしいよ… 　な、何すんだよ…」
  「………あっ……」
  「……あ、ああっ……」
- 「……んっ……あああっ……！！」";"”Oh ……, no, I'm so embarrassed to be dressed like this… what are you doing…”
+ 「……んっ……あああっ……！！」","”Oh ……, no, I'm so embarrassed to be dressed like this… what are you doing…”
  “……… oh ……”
  “…… oh, oh, ……”
- “…… oh…… oh ……!";"'Oh ……, no, estoy vestida así… es vergonzoso… qué estás haciendo…'
+ “…… oh…… oh ……!","'Oh ……, no, estoy vestida así… es vergonzoso… qué estás haciendo…'
  “……… oh ……”
  “…… oh, oh, ……”
  ¡”…… oh…… oh ……!"
-"cg narrator";"しとどに濡れた春風の中に、屹立し、 節くれ脈打つ悪司のものがゆっくり入り込んでいく。
+"cg narrator","しとどに濡れた春風の中に、屹立し、 節くれ脈打つ悪司のものがゆっくり入り込んでいく。
  「あっ……ああっ……ん！！」
 それがずぶずぶと奥へ奥へと滑りこんでくる 感触に、春風が甘い声をあげた。
 薄く小さな花弁はそれを受け入れる為、 大きく痛々しい程、広がっている。
@@ -258,7 +258,7 @@ El sonido de los dientes de Harukaze chocando violentamente entre sí resuena en
  「ふあっ……」
 春風の躰が大きく震える。
  「あっ…………あっ……？ 　う、あ、っ……あっ……！！！」
-悪司の胸の中で、小さな春風の躰が 何度も何度も震えた。";"The towering, knotty, pulsating Akuji slowly entered the soaking wet Harukaze.
+悪司の胸の中で、小さな春風の躰が 何度も何度も震えた。","The towering, knotty, pulsating Akuji slowly entered the soaking wet Harukaze.
  “Oh,…… ah,…… ah,…… ah!
 The thin, small petals were not designed to accept it.
 The thin little petals spread wide and painfully to accommodate it.
@@ -330,7 +330,7 @@ I'm going crazy! I'm going crazy!
  “Oh, ……”
 The body of Harukaze trembled greatly.
   　Oh, ah, ah…… ah……!
-In Akuji's chest, little Harukaze's body trembled again and again.";"El imponente, nudoso y palpitante Akuji entró lentamente en el empapado Harukaze.
+In Akuji's chest, little Harukaze's body trembled again and again.","El imponente, nudoso y palpitante Akuji entró lentamente en el empapado Harukaze.
  '¡Oh…… ah…… nn!
 El Harukaze emitió dulces ruidos al sentir que se deslizaba más y más dentro de ella.
 Los delgados pétalos se extienden amplia y dolorosamente para acomodarlo.
@@ -403,186 +403,186 @@ Eres una buena chica, puedes volverte loca, Harukaze ……
 El cuerpo de Harukaze tiembla mucho.
  'Ah………… ah ……? 　¡Uh, ah, ah…… ah……!
 Dentro del pecho de Akuji, el cuerpo del pequeño Harukaze temblaba una y otra vez."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"さーて。";"Well.";"Bueno."
-"Harukaze (talking)";"なんだよ。";"What is it?";"Qué es."
-"Yamamoto Akuji (talking)";"いい事してやろう。";"Let's do something good.";"Hagamos algo bueno."
-"Harukaze (talking)";"な、なんだよ、その手…は、離せよ…";"What, what the hell, your hand… get off me…";"Oye, qué demonios, tu mano… suéltame…"
-"Yamamoto Akuji (talking)";"何言ってんだい。 これから何されるかわかってんのか、 目、うるうるしてんぞ、春風。";"What are you saying? Do you know what they're going to do to you? Your eyes are shining, Harukaze.";"¿Qué estás diciendo? ¿Sabes lo que te van a hacer? Tus ojos brillan, Harukaze."
-"Harukaze (talking)";"そ、そんな事ないやい！ 何やらしい事言ってんだよ！ 信じられない！";"No, no, no, no, no, no, no, no, no, no, no! What are you talking about? I can't believe you!";"¡No, no, no, no, no! ¿De qué demonios estás hablando? ¡No puedo creerlo!"
-"Yamamoto Akuji (talking)";"まー、ぎゃいぎゃい言うのは、 後って事でな。";"Well, we'll see about that later.";"Tendremos que esperar hasta más adelante para saberlo."
-"Harukaze (talking)";"え、あ、あうっ……！";"Eh, ah, ah, ah ……!";"¡Eh, ah, ah ……!"
-"Harukaze (talking)";"春風は、悪司に抱かれた。";"Harukaze was embraced by Akuji.";"Harukaze fue abrazado por Akuji."
-"Yamamoto Akuji (talking)";"なんか欲しいモンあるか？";"What do you want?";"¿Qué quieres?"
-"Harukaze (talking)";"あんたなんかから施してもらいたい モンなんてないよ！
-それよりこっから出せよっ！ 春風、ここにいる暇なんかないんだから！";"I don't want anything from you!
-Get me out of here! I don't have time for this, Harukaze!";"¡No quiero nada de ti!
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","さーて。","Well.","Bueno."
+"Harukaze (talking)","なんだよ。","What is it?","Qué es."
+"Yamamoto Akuji (talking)","いい事してやろう。","Let's do something good.","Hagamos algo bueno."
+"Harukaze (talking)","な、なんだよ、その手…は、離せよ…","What, what the hell, your hand… get off me…","Oye, qué demonios, tu mano… suéltame…"
+"Yamamoto Akuji (talking)","何言ってんだい。 これから何されるかわかってんのか、 目、うるうるしてんぞ、春風。","What are you saying? Do you know what they're going to do to you? Your eyes are shining, Harukaze.","¿Qué estás diciendo? ¿Sabes lo que te van a hacer? Tus ojos brillan, Harukaze."
+"Harukaze (talking)","そ、そんな事ないやい！ 何やらしい事言ってんだよ！ 信じられない！","No, no, no, no, no, no, no, no, no, no, no! What are you talking about? I can't believe you!","¡No, no, no, no, no! ¿De qué demonios estás hablando? ¡No puedo creerlo!"
+"Yamamoto Akuji (talking)","まー、ぎゃいぎゃい言うのは、 後って事でな。","Well, we'll see about that later.","Tendremos que esperar hasta más adelante para saberlo."
+"Harukaze (talking)","え、あ、あうっ……！","Eh, ah, ah, ah ……!","¡Eh, ah, ah ……!"
+"Harukaze (talking)","春風は、悪司に抱かれた。","Harukaze was embraced by Akuji.","Harukaze fue abrazado por Akuji."
+"Yamamoto Akuji (talking)","なんか欲しいモンあるか？","What do you want?","¿Qué quieres?"
+"Harukaze (talking)","あんたなんかから施してもらいたい モンなんてないよ！
+それよりこっから出せよっ！ 春風、ここにいる暇なんかないんだから！","I don't want anything from you!
+Get me out of here! I don't have time for this, Harukaze!","¡No quiero nada de ti!
  ¡Sácame de aquí! Harukaze, ¡no tengo tiempo para esto!"
-"Yamamoto Akuji (talking)";"これでお前さんも、アエンと一緒にいる事 出来るしな。";"And now you can be with Aen.";"Y ahora puedes estar con Aen."
-"Harukaze (talking)";"っ……いっ……今…… なんて……？";"I'm…… and I'm…… now…… What ……?";"Yo…… ahora…… ¿qué……?"
-"Yamamoto Akuji (talking)";"ん？ アエンと一緒に戦えるなって言ったんだ。";"Hm? I said I could fight with Aen.";"¿Eh? Dije que podía luchar con Aen."
-"Harukaze (talking)";"アっ……アエン様っ…… ここにいる……の？";"A……Aen sir,…… here ……?";"A……Aen señor,…… de…… aquí?"
-"Yamamoto Akuji (talking)";"ああ。 俺の部下で、バリバリやってるぜ。";"Yeah, he's my guy. He's my guy. He's doing a great job.";"Sí. Es mi hombre, y está haciendo un gran trabajo."
-"Harukaze (talking)";"そっ……そんなっ…！！";"That…… is so wrong…!!!!";"¡Eso es…… lo que está pasando…!"
-"Yamamoto Akuji (talking)";"なんだ、嬉しくないのか？";"What, you're not happy?";"¿Qué, no estás contento?"
-"Harukaze (talking)";"うっ……
-うわぁぁっ……！！";"Ugh ……
-Wow ……!!!";"¡Uf! ……
+"Yamamoto Akuji (talking)","これでお前さんも、アエンと一緒にいる事 出来るしな。","And now you can be with Aen.","Y ahora puedes estar con Aen."
+"Harukaze (talking)","っ……いっ……今…… なんて……？","I'm…… and I'm…… now…… What ……?","Yo…… ahora…… ¿qué……?"
+"Yamamoto Akuji (talking)","ん？ アエンと一緒に戦えるなって言ったんだ。","Hm? I said I could fight with Aen.","¿Eh? Dije que podía luchar con Aen."
+"Harukaze (talking)","アっ……アエン様っ…… ここにいる……の？","A……Aen sir,…… here ……?","A……Aen señor,…… de…… aquí?"
+"Yamamoto Akuji (talking)","ああ。 俺の部下で、バリバリやってるぜ。","Yeah, he's my guy. He's my guy. He's doing a great job.","Sí. Es mi hombre, y está haciendo un gran trabajo."
+"Harukaze (talking)","そっ……そんなっ…！！","That…… is so wrong…!!!!","¡Eso es…… lo que está pasando…!"
+"Yamamoto Akuji (talking)","なんだ、嬉しくないのか？","What, you're not happy?","¿Qué, no estás contento?"
+"Harukaze (talking)","うっ……
+うわぁぁっ……！！","Ugh ……
+Wow ……!!!","¡Uf! ……
  ¡Ugh ……!"
-"narrator";"春風はボロボロと大粒の涙を流し始めた。";"Harukaze shed tears, and Hajime.";"Harukaze derramó unas grandes lágrimas y Hajime."
-"Yamamoto Akuji (talking)";"おい、どーしたんだよ……";"Hey, what's up ……";"Oye, ¿qué pasa? ……"
-"Harukaze (talking)";"春風、悪司の部下になれない！";"Harukaze, you can't be Akuji's man!";"Harukaze, ¡no puedes ser el hombre de Akuji!"
-"Yamamoto Akuji (talking)";"なんでだよ。";"Why not?";"Por qué."
-"Harukaze (talking)";"アエン様が、部下になってる！";"Master Aen has his man!";"¡El maestro Aen está bajo su mando!"
-"Yamamoto Akuji (talking)";"だから、一緒に遊べるようになって いーじゃねぇか。";"So it's nice to be able to play together.";"Así que es agradable poder jugar juntos."
-"Harukaze (talking)";"はっ……春風は、アエン様のもの だったんだ！
-今はっ……今は、悪司のせいで、 悪司のせいで、悪司のものに なってしまったんだ！";"Ha……Harukaze used to belong to Aen!
-Now ha…… now belongs to Akuji because of Akuji!";"¡Ha……Harukaze solía pertenecer a Aen!
+"narrator","春風はボロボロと大粒の涙を流し始めた。","Harukaze shed tears, and Hajime.","Harukaze derramó unas grandes lágrimas y Hajime."
+"Yamamoto Akuji (talking)","おい、どーしたんだよ……","Hey, what's up ……","Oye, ¿qué pasa? ……"
+"Harukaze (talking)","春風、悪司の部下になれない！","Harukaze, you can't be Akuji's man!","Harukaze, ¡no puedes ser el hombre de Akuji!"
+"Yamamoto Akuji (talking)","なんでだよ。","Why not?","Por qué."
+"Harukaze (talking)","アエン様が、部下になってる！","Master Aen has his man!","¡El maestro Aen está bajo su mando!"
+"Yamamoto Akuji (talking)","だから、一緒に遊べるようになって いーじゃねぇか。","So it's nice to be able to play together.","Así que es agradable poder jugar juntos."
+"Harukaze (talking)","はっ……春風は、アエン様のもの だったんだ！
+今はっ……今は、悪司のせいで、 悪司のせいで、悪司のものに なってしまったんだ！","Ha……Harukaze used to belong to Aen!
+Now ha…… now belongs to Akuji because of Akuji!","¡Ha……Harukaze solía pertenecer a Aen!
 Ahora ha……, por culpa de Akuji, ¡pertenece a Akuji!"
-"Yamamoto Akuji (talking)";"あ~……";"Oh~……";"Ah~……"
-"Harukaze (talking)";"春風、アエン様裏切った！！ だからもう、二度とアエン様の 目の前に姿現せないんだもん！
-うっ…ううっ…うわーーっ……！";"Harukaze, you betrayed Aen! That's why I can never appear in front of Aen again!
-Ugh…ugh…ugh…ugh………!";"Harukaze, ¡traicionaste a Aen! ¡Por eso nunca más podré aparecer frente a Aen!
+"Yamamoto Akuji (talking)","あ~……","Oh~……","Ah~……"
+"Harukaze (talking)","春風、アエン様裏切った！！ だからもう、二度とアエン様の 目の前に姿現せないんだもん！
+うっ…ううっ…うわーーっ……！","Harukaze, you betrayed Aen! That's why I can never appear in front of Aen again!
+Ugh…ugh…ugh…ugh………!","Harukaze, ¡traicionaste a Aen! ¡Por eso nunca más podré aparecer frente a Aen!
 Ugh… ugh… ugh… ……!"
-"Yamamoto Akuji (talking)";"なるほどね~…… 前の飼い主に忠義がたたないから、 会いたくない……
-だから、俺の部下にはなれねぇか…… やっかいなワンコロだぜ……";"I see……… I don't want to see him because he's not loyal to his former owner……
-So I guess you can't be my man…… You're a tough little dog……";"Ya veo……… No quiero verlo porque no es leal a su antiguo dueño……
+"Yamamoto Akuji (talking)","なるほどね~…… 前の飼い主に忠義がたたないから、 会いたくない……
+だから、俺の部下にはなれねぇか…… やっかいなワンコロだぜ……","I see……… I don't want to see him because he's not loyal to his former owner……
+So I guess you can't be my man…… You're a tough little dog……","Ya veo……… No quiero verlo porque no es leal a su antiguo dueño……
 Así que no puedes ser mi hombre…… Eres un perro problemático……"
-"Harukaze (talking)";"うっ…うえっ…うえっ……";"Ugh…ugh…ugh…ugh ……";"Ugh… ugh… ugh… ……"
-"Yamamoto Akuji (talking)";"春風よぉ、そろそろ俺の部下に なる気になったか？";"Harukaze, are you ready to be my man now?";"Harukaze, ¿estás listo para ser mi hombre ahora?"
-"Harukaze (talking)";"……………
-春風には……もう帰るとこはないんだ…";"……………
-There's no place to go back to…… for Harukaze…";"……………
+"Harukaze (talking)","うっ…うえっ…うえっ……","Ugh…ugh…ugh…ugh ……","Ugh… ugh… ugh… ……"
+"Yamamoto Akuji (talking)","春風よぉ、そろそろ俺の部下に なる気になったか？","Harukaze, are you ready to be my man now?","Harukaze, ¿estás listo para ser mi hombre ahora?"
+"Harukaze (talking)","……………
+春風には……もう帰るとこはないんだ…","……………
+There's no place to go back to…… for Harukaze…","……………
 No hay lugar para volver a…… para Harukaze…"
-"Yamamoto Akuji (talking)";"そーなのか？";"Is that so?";"¿Es así?"
-"Harukaze (talking)";"春風……裏切っちゃった… 悪司に好きな事、させてしまった…";"Harukaze…… betrayed me… I let Akuji do what he wanted…";"Harukaze…… me traicionó… Dejé que Akuji hiciera lo que quería…"
-"Yamamoto Akuji (talking)";"ああ……ＳＥＸの事か。 俺の味を覚えたんだから、そりゃー並みの 男じゃあ、太刀打ち出来ねぇぜ。";"Oh, you mean ……sex. Now that you've had a taste of me, you'll never be able to compete with the average guy.";"Oh, te refieres a ……sex. Ahora que me has probado, nunca podrás competir con el hombre medio."
-"Harukaze (talking)";"………春風……ここにいるしかないの…";"………Harukaze ……I have no choice but to stay…";"………Harukaze ……No tengo más remedio que quedarme aquí…"
-"Yamamoto Akuji (talking)";"そりゃ、部下になるって事か？";"Does that mean you'll be my subordinate?";"¿Significa eso que serás mi subordinado?"
-"narrator";"春風は黙ってこくんと頷いた。";"Harukaze nodded silently.";"Harukaze asintió en silencio."
-"Yamamoto Akuji (talking)";"よし、いい子だ。 今日から俺の部下だ、春風。";"Okay, good boy. You're my man from today, Harukaze.";"Bien, buen chico. Eres mi hombre de hoy, Harukaze."
-"narrator";"悪司は春風の頭をくしゃりと撫でた。";"Akuji crumpled Harukaze's head and patted it.";"Akuji arrugó la cabeza de Harukaze."
-"Harukaze (thinking)";"……そうしていいのは…… アエン様と盾だけだった……
+"Yamamoto Akuji (talking)","そーなのか？","Is that so?","¿Es así?"
+"Harukaze (talking)","春風……裏切っちゃった… 悪司に好きな事、させてしまった…","Harukaze…… betrayed me… I let Akuji do what he wanted…","Harukaze…… me traicionó… Dejé que Akuji hiciera lo que quería…"
+"Yamamoto Akuji (talking)","ああ……ＳＥＸの事か。 俺の味を覚えたんだから、そりゃー並みの 男じゃあ、太刀打ち出来ねぇぜ。","Oh, you mean ……sex. Now that you've had a taste of me, you'll never be able to compete with the average guy.","Oh, te refieres a ……sex. Ahora que me has probado, nunca podrás competir con el hombre medio."
+"Harukaze (talking)","………春風……ここにいるしかないの…","………Harukaze ……I have no choice but to stay…","………Harukaze ……No tengo más remedio que quedarme aquí…"
+"Yamamoto Akuji (talking)","そりゃ、部下になるって事か？","Does that mean you'll be my subordinate?","¿Significa eso que serás mi subordinado?"
+"narrator","春風は黙ってこくんと頷いた。","Harukaze nodded silently.","Harukaze asintió en silencio."
+"Yamamoto Akuji (talking)","よし、いい子だ。 今日から俺の部下だ、春風。","Okay, good boy. You're my man from today, Harukaze.","Bien, buen chico. Eres mi hombre de hoy, Harukaze."
+"narrator","悪司は春風の頭をくしゃりと撫でた。","Akuji crumpled Harukaze's head and patted it.","Akuji arrugó la cabeza de Harukaze."
+"Harukaze (thinking)","……そうしていいのは…… アエン様と盾だけだった……
  ………でも今は…
 春風、自分でも駄目なんだ…… 躰が…悪司を見ると、変になる……
 ごめんなさい……
 ごめんなさい。 ごめんなさい、ごめんなさい、 アエン様……
-春風……アエン様のものだったのに… ごめんなさい……";"Only…… Aen and Tate were allowed to do so…………… but now…
+春風……アエン様のものだったのに… ごめんなさい……","Only…… Aen and Tate were allowed to do so…………… but now…
 Harukaze, I can't even do it myself…… The body…Akuji makes me weird……
 I'm sorry……
 I'm sorry, I'm sorry, I'm sorry. I'm sorry, I'm sorry, Dear Aen……
-It was Harukaze ……Aen's… I'm sorry……";"Sólo…… Aen y Tate pudieron hacerlo…………… pero ahora…
+It was Harukaze ……Aen's… I'm sorry……","Sólo…… Aen y Tate pudieron hacerlo…………… pero ahora…
 Harukaze, ni siquiera puedo hacerlo yo mismo…… El cuerpo…Akuji me hace raro……
 Lo siento……
 Lo siento. Lo siento, lo siento, querido Aen……
 Fue Harukaze……Aen's… Lo siento……"
-"narrator";"どこまでも田んぼが広がっている、 広大な農地。
-緑豊かな土地だが、市街地と違い、 戦略的価値が低い。 その為、のどかだった。";"A vast agricultural area with endless rice paddies.
-The land was lush and green, but unlike urban areas, it had little strategic value. Therefore, it was tranquil.";"Grandes extensiones de tierra de cultivo con interminables arrozales.
+"narrator","どこまでも田んぼが広がっている、 広大な農地。
+緑豊かな土地だが、市街地と違い、 戦略的価値が低い。 その為、のどかだった。","A vast agricultural area with endless rice paddies.
+The land was lush and green, but unlike urban areas, it had little strategic value. Therefore, it was tranquil.","Grandes extensiones de tierra de cultivo con interminables arrozales.
 El terreno es exuberante y verde, pero a diferencia de las zonas urbanas, su valor estratégico es bajo. Por lo tanto, estaba tranquilo."
-"Harukaze (talking)";"………………";"………………";"………………"
-"narrator";"その土地を任されているのは、 アエンの部下である春風。
-春風は田んぼがよく見える小高い丘に一人、 座っていた。";"The person in charge of the land is Harukaze, a subordinate of Aen.
-Harukaze was sitting alone on a small hill with a clear view of the rice paddies.";"El hombre a cargo de la tierra es Harukaze, un subordinado de Aen.
+"Harukaze (talking)","………………","………………","………………"
+"narrator","その土地を任されているのは、 アエンの部下である春風。
+春風は田んぼがよく見える小高い丘に一人、 座っていた。","The person in charge of the land is Harukaze, a subordinate of Aen.
+Harukaze was sitting alone on a small hill with a clear view of the rice paddies.","El hombre a cargo de la tierra es Harukaze, un subordinado de Aen.
 Harukaze estaba sentado solo en una pequeña colina con una clara vista de los campos de arroz."
-"Harukaze (talking)";"…はーるのー…ゆうひーにー…… ……あるーく……ふたーりー……";"…Halloooooo…Yuuhi ni……… …… aruku…… futari ……";"…haru no… yuhi ni……… …… aruku…… futari ……"
-"narrator";"そっと歌を呟くように歌ってから、 両腕で抱えている膝に、額をつける。";"After singing softly and murmuring a song, I put my forehead on my knees, which I hold with both arms.";"Canta en voz baja, como si murmurara una canción, y luego apoya la frente en sus rodillas, que sostiene con ambos brazos."
-"Harukaze (talking)";"寂しくても……我慢しなくちゃ… アエン様のそばにいる事が出来なくても… 我慢しなくちゃ……";"Even though I miss you…… I have to be patient… even though I can't be near you Aen I have to be patient ……";"Aunque te eche de menos…… tengo que ser paciente… aunque no pueda estar cerca de ti Aen… tengo que ser paciente ……"
-"narrator";"土地の管理を任される事は大抜擢であり、 本来喜ばしい事であるが、春風にとっては 違った。
+"Harukaze (talking)","…はーるのー…ゆうひーにー…… ……あるーく……ふたーりー……","…Halloooooo…Yuuhi ni……… …… aruku…… futari ……","…haru no… yuhi ni……… …… aruku…… futari ……"
+"narrator","そっと歌を呟くように歌ってから、 両腕で抱えている膝に、額をつける。","After singing softly and murmuring a song, I put my forehead on my knees, which I hold with both arms.","Canta en voz baja, como si murmurara una canción, y luego apoya la frente en sus rodillas, que sostiene con ambos brazos."
+"Harukaze (talking)","寂しくても……我慢しなくちゃ… アエン様のそばにいる事が出来なくても… 我慢しなくちゃ……","Even though I miss you…… I have to be patient… even though I can't be near you Aen I have to be patient ……","Aunque te eche de menos…… tengo que ser paciente… aunque no pueda estar cerca de ti Aen… tengo que ser paciente ……"
+"narrator","土地の管理を任される事は大抜擢であり、 本来喜ばしい事であるが、春風にとっては 違った。
 春風にとって、アエンのそばにいる事が 一番幸せだった。
-だけど今は、ロッコウに一人いる。";"Being entrusted with the management of the land was a great promotion and a joyous thing by nature, but it was different for Harukaze.
+だけど今は、ロッコウに一人いる。","Being entrusted with the management of the land was a great promotion and a joyous thing by nature, but it was different for Harukaze.
 For Harukaze, being by Aen's side was the happiest thing.
-But now, he is alone in Rokko.";"Que te confíen la gestión de la tierra es un gran ascenso y algo alegre por naturaleza, pero para Harukaze era diferente.
+But now, he is alone in Rokko.","Que te confíen la gestión de la tierra es un gran ascenso y algo alegre por naturaleza, pero para Harukaze era diferente.
 Para Harukaze, estar al lado de Aen era lo más feliz.
 Pero ahora está sola en Rokko."
-"Harukaze (talking)";"ここで……ちゃんと見張っているのが… アエン様の為になるから…… 一人でも、頑張れるもん……";"I'm here…… to keep an eye on you… because it's for Aen's sake…… I can do my best, even if I'm alone……";"Estoy aquí para vigilar…… y vigilarte a ti… porque es por el bien de Aen-sama…… Puedo hacer lo que pueda, aunque esté solo……"
-"narrator";"春風は一人、部屋でぼんやりしていた。";"Harukaze was alone in his room in a daze.";"Harukaze estaba solo en su habitación aturdido."
-"Peach boy (talking)";"失礼します、春風様。";"Excuse me, Mr. Harukaze.";"Disculpe, señor Harukaze."
-"Harukaze (talking)";"様づけやめてよ。 恥ずかしいから。";"Don't call me “like. It's embarrassing.";"No pongas “me gusta” delante de mí. Es vergonzoso."
-"Peach boy (talking)";"そういう訳にはいきませんよ……
-あ、そうそう、大変なんです。";"It doesn't work that way……
-Oh, yes, it's hard work.";"No funciona así……
+"Harukaze (talking)","ここで……ちゃんと見張っているのが… アエン様の為になるから…… 一人でも、頑張れるもん……","I'm here…… to keep an eye on you… because it's for Aen's sake…… I can do my best, even if I'm alone……","Estoy aquí para vigilar…… y vigilarte a ti… porque es por el bien de Aen-sama…… Puedo hacer lo que pueda, aunque esté solo……"
+"narrator","春風は一人、部屋でぼんやりしていた。","Harukaze was alone in his room in a daze.","Harukaze estaba solo en su habitación aturdido."
+"Peach boy (talking)","失礼します、春風様。","Excuse me, Mr. Harukaze.","Disculpe, señor Harukaze."
+"Harukaze (talking)","様づけやめてよ。 恥ずかしいから。","Don't call me “like. It's embarrassing.","No pongas “me gusta” delante de mí. Es vergonzoso."
+"Peach boy (talking)","そういう訳にはいきませんよ……
+あ、そうそう、大変なんです。","It doesn't work that way……
+Oh, yes, it's hard work.","No funciona así……
 Ah, sí, es un trabajo duro."
-"Harukaze (talking)";"何？";"What?";"¿Qué?"
-"Peach boy (talking)";"アエン様が行方不明になられたと、 報告があったんですよ！";"We received a report that Master Aen had gone missing!";"¡Recibimos un informe de que el Maestro Aen había desaparecido!"
-"Harukaze (talking)";"っ……えっ…？";"I'm not sure what you mean…?";"¿Qué…?"
-"Peach boy (talking)";"例の奉仕青年団と戦闘していた事までは 判明しているのですが、その後が……";"We know that he was fighting with the service youth group, but then we know that he was fighting with the service youth group……";"Sabemos que se peleaba con el grupo de jóvenes de servicio, pero luego sabemos que se peleaba con el grupo de jóvenes de servicio……"
-"Harukaze (talking)";"っ………";"You can find out more at ………";"………"
-"Peach boy (talking)";"水の性質の者達は、これでキリカ様が 支倉の跡取りになるのかなんて、 勝手な事言ってて……";"Those of a water nature were so self-satisfied that they were wondering if Kirika would be the heir to Hasekura……";"Los de naturaleza acuática estaban tan satisfechos de sí mismos que esto convertiría a Kirika en el heredero de Hasekura……"
-"Harukaze (talking)";"ホント、勝手な事言ってるね。";"Really, you're being selfish.";"Estás siendo realmente egoísta."
-"Peach boy (talking)";"は、はい……";"is, yes ……";"Ja, sí ……"
-"Harukaze (talking)";"アエン様が死ぬはずないじゃないか。 あんだけ強くて、カッコよくて…
+"Harukaze (talking)","何？","What?","¿Qué?"
+"Peach boy (talking)","アエン様が行方不明になられたと、 報告があったんですよ！","We received a report that Master Aen had gone missing!","¡Recibimos un informe de que el Maestro Aen había desaparecido!"
+"Harukaze (talking)","っ……えっ…？","I'm not sure what you mean…?","¿Qué…?"
+"Peach boy (talking)","例の奉仕青年団と戦闘していた事までは 判明しているのですが、その後が……","We know that he was fighting with the service youth group, but then we know that he was fighting with the service youth group……","Sabemos que se peleaba con el grupo de jóvenes de servicio, pero luego sabemos que se peleaba con el grupo de jóvenes de servicio……"
+"Harukaze (talking)","っ………","You can find out more at ………","………"
+"Peach boy (talking)","水の性質の者達は、これでキリカ様が 支倉の跡取りになるのかなんて、 勝手な事言ってて……","Those of a water nature were so self-satisfied that they were wondering if Kirika would be the heir to Hasekura……","Los de naturaleza acuática estaban tan satisfechos de sí mismos que esto convertiría a Kirika en el heredero de Hasekura……"
+"Harukaze (talking)","ホント、勝手な事言ってるね。","Really, you're being selfish.","Estás siendo realmente egoísta."
+"Peach boy (talking)","は、はい……","is, yes ……","Ja, sí ……"
+"Harukaze (talking)","アエン様が死ぬはずないじゃないか。 あんだけ強くて、カッコよくて…
  ……っ………
 絶対……死ぬはずない……
 きっと、繁華街の方に行ってるんだ。 あそこには、アエン様の大好きな お店がいっぱいあるもん……
-絶対……絶対、そうだよ……";"How could Aen-sama die? He was so strong and cool…
+絶対……絶対、そうだよ……","How could Aen-sama die? He was so strong and cool…
  ……………
 He can't die……
 He must be going downtown. There are so many stores there that Aen loves……
-Definitely…… definitely, yes……";"¿Cómo pudo morir el Maestro Aen? Era tan fuerte, tan genial…
+Definitely…… definitely, yes……","¿Cómo pudo morir el Maestro Aen? Era tan fuerte, tan genial…
  ……………
 Nunca…… va a morir……
 Debe ir al centro. Hay muchas tiendas allí que le encantan a Aen……
 Absolutamente…… absolutamente, sí……"
-"Peach boy (talking)";"春風様……";"Like Harukaze ……";"Harukaze como ……"
-"Harukaze (talking)";"そう思うよねっ！？";"You think so!";"Eso crees, ¿no?"
-"Peach boy (talking)";"は、はい！";"Ha, yes!";"¡Ja, sí!"
-"Harukaze (talking)";"そうだよ……
+"Peach boy (talking)","春風様……","Like Harukaze ……","Harukaze como ……"
+"Harukaze (talking)","そう思うよねっ！？","You think so!","Eso crees, ¿no?"
+"Peach boy (talking)","は、はい！","Ha, yes!","¡Ja, sí!"
+"Harukaze (talking)","そうだよ……
 絶対、そうだよ……
 アエン様が死ぬなんて… ありえない……っ！！
-ひょっこり戻ってきて…… また、春風の頭、撫でてくれたり 遊んでくれたりするもんっ……";"Absolutely, yes……
+ひょっこり戻ってきて…… また、春風の頭、撫でてくれたり 遊んでくれたりするもんっ……","Absolutely, yes……
 Absolutely, yes……
 There's no way Aen would die… ……!
-He'll come back and…… pet my Harukaze head and play with me again ……";"Absolutamente……
+He'll come back and…… pet my Harukaze head and play with me again ……","Absolutamente……
 Absolutamente, sí……
 No hay manera de que Aen muera… ……!
 Volverá y…… acariciar la cabeza de Harukaze y jugar con él de nuevo ……"
-"narrator";"春風は膝の上で拳をぎゅっと握った。";"Harukaze clenched her fists in her lap.";"Harukaze apretó los puños en su regazo."
-"Harukaze (talking)";"すみませーん。";"Sorry.";"Lo siento."
-"narrator";"春風がおつかいを頼まれて、 悪司の元を訪れた。";"Harukaze visited Akuji to ask for help.";"Harukaze visitó a Akuji con la petición de un regalo."
-" (talking)";"はーい、何ー？";"Yes, what?";"Sí, ¿qué?"
-"Hasekura Aen (talking)";"あら。";"Oops.";"Uy."
-"Harukaze (talking)";"っ…………
-アっ……アエン……様……？";"Aen Aen …………
-A……Aen Aen…… Mr……?";"Aen…………
+"narrator","春風は膝の上で拳をぎゅっと握った。","Harukaze clenched her fists in her lap.","Harukaze apretó los puños en su regazo."
+"Harukaze (talking)","すみませーん。","Sorry.","Lo siento."
+"narrator","春風がおつかいを頼まれて、 悪司の元を訪れた。","Harukaze visited Akuji to ask for help.","Harukaze visitó a Akuji con la petición de un regalo."
+" (talking)","はーい、何ー？","Yes, what?","Sí, ¿qué?"
+"Hasekura Aen (talking)","あら。","Oops.","Uy."
+"Harukaze (talking)","っ…………
+アっ……アエン……様……？","Aen Aen …………
+A……Aen Aen…… Mr……?","Aen…………
 A……Aen…… ¿Sr……?"
-"Hasekura Aen (talking)";"春風！ あんた、ここにいたの？";"Harukaze! You're here?";"¡¡¡Harukaze!!! ¿Estás aquí?"
-"Harukaze (talking)";"ア、アエン様こ…そ……
-生きてらっしゃって… よっ…よかっ……たっ…";"A, Mr. Aen here… so……
-I'm so glad you're alive….";"Querida Aen, eres… eres… eres ……
+"Hasekura Aen (talking)","春風！ あんた、ここにいたの？","Harukaze! You're here?","¡¡¡Harukaze!!! ¿Estás aquí?"
+"Harukaze (talking)","ア、アエン様こ…そ……
+生きてらっしゃって… よっ…よかっ……たっ…","A, Mr. Aen here… so……
+I'm so glad you're alive….","Querida Aen, eres… eres… eres ……
 Me alegro mucho de que estés vivo… y me alegro mucho de que seas ………"
-"narrator";"アエンの胸に飛び込もうとしたが、 春風は躊躇する。";"He tries to jump into Aen's chest, but Harukaze hesitates.";"Intenta saltar al pecho de Aen, pero Harukaze duda."
-"Hasekura Aen (talking)";"春風？";"Harukaze?";"¿ Harukaze?"
-"Harukaze (talking)";"あっ…春風…春風は……";"Oh…Harukaze…Harukaze is ……";"Oh…Harukaze…Harukaze es ……"
-"Harukaze (thinking)";"……そーだよ……
+"narrator","アエンの胸に飛び込もうとしたが、 春風は躊躇する。","He tries to jump into Aen's chest, but Harukaze hesitates.","Intenta saltar al pecho de Aen, pero Harukaze duda."
+"Hasekura Aen (talking)","春風？","Harukaze?","¿ Harukaze?"
+"Harukaze (talking)","あっ…春風…春風は……","Oh…Harukaze…Harukaze is ……","Oh…Harukaze…Harukaze es ……"
+"Harukaze (thinking)","……そーだよ……
 春風、アエン様を裏切ったんだ……
 それなのに…
- ………それなのに……";"……Yes, ……
+ ………それなのに……","……Yes, ……
 I betrayed Harukaze and Aen……
-And yet………… And yet… ……";"…… Sí, Harukaze, Aen.
+And yet………… And yet… ……","…… Sí, Harukaze, Aen.
 Traicioné a Harukaze y a Aen……
 Y sin embargo………… Y sin embargo… ……"
-"Hasekura Aen (talking)";"どうしたの？ 春風……";"What's wrong? Harukaze……";"¿Qué pasa? Harukaze……"
-"Harukaze (talking)";"うっ……！！";"Ugh ……!";"¡Ugh ……!"
-"Hasekura Aen (talking)";"春風！？";"Harukaze!";"¡¡¡Harukaze!!!"
-"narrator";"春風は奉仕青年団を飛び出した。";"Harukaze jumped out of the service youth group.";"Harukaze saltó del grupo juvenil de servicio."
-"Harukaze (thinking)";"そーだよ…… 春風、アエン様を裏切ったのに……
+"Hasekura Aen (talking)","どうしたの？ 春風……","What's wrong? Harukaze……","¿Qué pasa? Harukaze……"
+"Harukaze (talking)","うっ……！！","Ugh ……!","¡Ugh ……!"
+"Hasekura Aen (talking)","春風！？","Harukaze!","¡¡¡Harukaze!!!"
+"narrator","春風は奉仕青年団を飛び出した。","Harukaze jumped out of the service youth group.","Harukaze saltó del grupo juvenil de servicio."
+"Harukaze (thinking)","そーだよ…… 春風、アエン様を裏切ったのに……
 ホントは、アエン様の前に 顔も出せないはずなのにっ……！
-ごめんなさい、ごめんなさい！ ごめんなさい、アエン様っ……！";"That's right…… Harukaze, you betrayed Aen, but ……
+ごめんなさい、ごめんなさい！ ごめんなさい、アエン様っ……！","That's right…… Harukaze, you betrayed Aen, but ……
 You really can't even show your face in front of Aen……
-I'm sorry. I'm sorry! I'm sorry, I'm sorry, I'm sorry, Aen-sama,……!";"Así es:…… Harukaze, traicionaste a Aen, pero ……
+I'm sorry. I'm sorry! I'm sorry, I'm sorry, I'm sorry, Aen-sama,……!","Así es:…… Harukaze, traicionaste a Aen, pero ……
  ¡Realmente no pudiste ni siquiera mostrar tu cara frente a Aen, ……!
  ¡Lo siento, lo siento! ¡Lo siento, lo siento, lo siento, Aen-sama, ……!"
-"narrator";"その日から、春風は姿を消した。";"From that day on, Harukaze disappeared.";"A partir de ese día, Harukaze desapareció."
-"Chinpira (talking)";"はーい、ご希望通りまーす。
+"narrator","その日から、春風は姿を消した。","From that day on, Harukaze disappeared.","A partir de ese día, Harukaze desapareció."
+"Chinpira (talking)","はーい、ご希望通りまーす。
 小柄で、やんちゃなタイプを お好み。
-そんなあなたにピッタリの 春風ちゃん、はりきっていきましょー！ さー、ハッスルハッスルー！";"Yes, you may request.
+そんなあなたにピッタリの 春風ちゃん、はりきっていきましょー！ さー、ハッスルハッスルー！","Yes, you may request.
 You like a petite, mischievous type.
-Harukaze is perfect for you. Let's get going! Let's hustle hustle hustle!";"Sí, como quieras.
+Harukaze is perfect for you. Let's get going! Let's hustle hustle hustle!","Sí, como quieras.
 Es menuda, traviesa y un poco picarona.
 La chica perfecta para ti, Harukaze, ¡continuemos! ¡Vamos a hacer un esfuerzo, un esfuerzo, un esfuerzo!"
-"cg narrator";"もう一時間。 春風はこのような状態でいたぶられていた。
+"cg narrator","もう一時間。 春風はこのような状態でいたぶられていた。
  「んぶっ………んんんっ……」
 ギャグからは涎が滴り、春風の胸に染みていた。
  「じゃあ……こっちのスイッチを入れようかな…」
@@ -664,7 +664,7 @@ La chica perfecta para ti, Harukaze, ¡continuemos! ¡Vamos a hacer un esfuerzo,
 男は自分から腰を振り、春風に合わせる。
  「んっ……んんっ…！！」
 春風が大きく腰を震わせる。 男の舌は、蜜に溢れる。
-そして、春風の手も、男の体液に 白く染まった。";"Another hour. Harukaze was being played with like this.
+そして、春風の手も、男の体液に 白く染まった。","Another hour. Harukaze was being played with like this.
  'Nbuh……… nnnn…….'
 Drool was dripping from the gag and seeping into Harukaze's chest.
  'Well then…… let's turn this one on…'
@@ -746,7 +746,7 @@ The man's voice rose slightly higher.
 The man shook his hips on his own and matched Harukaze.
  “Nnnn, nnnn…!!!!”
 Harukaze's hips tremble loudly. The man's tongue is overflowing with honey.
-And Harukaze's hand was also stained Haku by the man's body fluid.";"Otra hora. Harukaze estaba siendo jugado así.
+And Harukaze's hand was also stained Haku by the man's body fluid.","Otra hora. Harukaze estaba siendo jugado así.
  'Nbut……… nnnn…….'
 Las babas goteaban de la mordaza y se filtraban en el pecho de Harukaze.
  'Bueno, entonces…… vamos a encender este…'
@@ -829,29 +829,29 @@ El hombre agitó las caderas por su cuenta e igualó a Harukaze.
  '¡¡¡Nnnn……nnn…!!!
 La lengua del hombre está llena de néctar. La lengua del hombre está rebosante de miel.
 Y la mano de Harukaze también estaba manchada Haku por los fluidos corporales del hombre."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"Tamanegi (talking)";"ここにいたのですか。 春風。";"Were you here? Harukaze.";"Usted está aquí. Harukaze."
-"Harukaze (talking)";"タマネギ……";"Tamanegi……";"Tamanegi……"
-"Tamanegi (talking)";"さあ、今日も始めましょうか。";"Let's get back to Hajime today, shall we?";"Ahora, vamos a Hajime de nuevo hoy, ¿de acuerdo?"
-"Harukaze (talking)";"や、やだよ… あんな事…もうしたくないよ…";"No, no, no… I don't want to do that… anymore…";"No, no, no… eso… eso es algo que no quiero hacer más…"
-"Tamanegi (talking)";"おや……
-そう言いつつも、始めると、 あんなにいい声をあげるというのに。";"Oyah ……
-I've been saying that, but when I see Hajime, he makes such a nice voice.";"Oya ……
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"Tamanegi (talking)","ここにいたのですか。 春風。","Were you here? Harukaze.","Usted está aquí. Harukaze."
+"Harukaze (talking)","タマネギ……","Tamanegi……","Tamanegi……"
+"Tamanegi (talking)","さあ、今日も始めましょうか。","Let's get back to Hajime today, shall we?","Ahora, vamos a Hajime de nuevo hoy, ¿de acuerdo?"
+"Harukaze (talking)","や、やだよ… あんな事…もうしたくないよ…","No, no, no… I don't want to do that… anymore…","No, no, no… eso… eso es algo que no quiero hacer más…"
+"Tamanegi (talking)","おや……
+そう言いつつも、始めると、 あんなにいい声をあげるというのに。","Oyah ……
+I've been saying that, but when I see Hajime, he makes such a nice voice.","Oya ……
 Aunque lo diga, hace una voz tan bonita cuando Hajime mera."
-"Harukaze (talking)";"っ………";"You can find out more at ………";"………"
-"Tamanegi (talking)";"あなたは、罪悪感を感じる必要は ありません。
-罪悪があるのだとしたら、 あなたのその才覚を見極めた、 わたくしにあるのですから。";"You do not need to feel guilty.
-If there is any guilt, it lies with me, for I have identified your genius.";"No tienes que sentirte culpable.
+"Harukaze (talking)","っ………","You can find out more at ………","………"
+"Tamanegi (talking)","あなたは、罪悪感を感じる必要は ありません。
+罪悪があるのだとしたら、 あなたのその才覚を見極めた、 わたくしにあるのですから。","You do not need to feel guilty.
+If there is any guilt, it lies with me, for I have identified your genius.","No tienes que sentirte culpable.
 Si hay alguna culpa, es mía, porque he reconocido tu genio."
-"Harukaze (talking)";"わ、わかんないよ、 そんな難しい事言われても…";"I don't know. It's not that hard to understand…";"No lo sé. No es tan difícil…"
-"Tamanegi (talking)";"だったら……
-何も考えなくていいんですよ。 ただ、わたくしの言う事に 身を任せていれば…";"Then go to ……
-You don't have to think about anything. Just surrender to what I say…";"A continuación, vaya a ……
+"Harukaze (talking)","わ、わかんないよ、 そんな難しい事言われても…","I don't know. It's not that hard to understand…","No lo sé. No es tan difícil…"
+"Tamanegi (talking)","だったら……
+何も考えなくていいんですよ。 ただ、わたくしの言う事に 身を任せていれば…","Then go to ……
+You don't have to think about anything. Just surrender to what I say…","A continuación, vaya a ……
 No tienes que pensar en nada. Sólo ríndete a lo que digo y…"
-"Harukaze (talking)";"……………";"……………";"……………"
-"Tamanegi (talking)";"さあ……";"Come on, ……";"Vamos, ……"
-"cg narrator";"「あっ…あああっ……」
+"Harukaze (talking)","……………","……………","……………"
+"Tamanegi (talking)","さあ……","Come on, ……","Vamos, ……"
+"cg narrator","「あっ…あああっ……」
 タマネギに優しく愛撫され、頬を染めた春風は、 映写機の前にいた。
  「さあ…視覚から興奮する訓練を始めましょう」
  「タ……タマネギ…」
@@ -928,7 +928,7 @@ No tienes que pensar en nada. Sólo ríndete a lo que digo y…"
  「あっ……んんっ…うっ…！！」
 春風は強く目を閉じた。
  「あっ……あっ……んっ……ん~~っ……！！！」
-春風は深くバイブを自分の中に突き入れると 床に額をなすりつけ、躰を丸め、びくびくと 大きく何度も何度も震えた。";"Ah…ah… ……”
+春風は深くバイブを自分の中に突き入れると 床に額をなすりつけ、躰を丸め、びくびくと 大きく何度も何度も震えた。","Ah…ah… ……”
 The Tamanegi caressed her gently, and the Harukaze, her cheeks tinted, was in front of the projector.
 The Tamanegi was in front of the projector, her cheeks tinted with a hint of color.
  “Ta……Tamanegi…”
@@ -1005,7 +1005,7 @@ The movement of her hips became stronger and more erratic.
 The body of Harukaze shook and trembled.
 Harukaze closed her eyes tightly.
  'Ahh…… ah…… nn~~!!!'
-Harukaze thrust the vibrator deep inside her, and then she rubbed her forehead against the floor, curled her body up, and trembled loudly and repeatedly.";"Ah… ah… ……”
+Harukaze thrust the vibrator deep inside her, and then she rubbed her forehead against the floor, curled her body up, and trembled loudly and repeatedly.","Ah… ah… ……”
 El Tamanegi la acariciaba suavemente, y la Harukaze, con las mejillas teñidas, estaba frente al proyector.
  'Ahora… vamos a Hajime a entrenarte para que te excites visualmente'.
 Ta……Tamanegi…”
@@ -1083,17 +1083,17 @@ El movimiento de sus caderas se hizo más fuerte y errático.
 Harukaze cerró los ojos con fuerza.
  “Ahh…… ah…… nn~~!!!
 Harukaze introdujo el vibrador en lo más profundo de su ser, y entonces se frotó la frente contra el suelo, encorvó su cuerpo y se estremeció con fuerza una y otra vez."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"narrator";"そこには、奉仕青年団の一員となっている春風が 警備についていた。";"There was Harukaze, who is now a member of the Youth Service Corps, standing guard.";"Allí, Harukaze, que ahora es miembro de la Liga Juvenil de Servicio, estaba de guardia."
-"Harukaze (talking)";"奉仕青年団になっても、ロッコウかー… でも、ここすきだから、別にいっかー。
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"narrator","そこには、奉仕青年団の一員となっている春風が 警備についていた。","There was Harukaze, who is now a member of the Youth Service Corps, standing guard.","Allí, Harukaze, que ahora es miembro de la Liga Juvenil de Servicio, estaba de guardia."
+"Harukaze (talking)","奉仕青年団になっても、ロッコウかー… でも、ここすきだから、別にいっかー。
  ………………
-あ！ 田んぼを荒らす猪発見！ やっつけちゃうぞー！！";"I'm not sure if I'll ever be a member of a service youth group, Rocco… But I love it here, so I don't mind.
+あ！ 田んぼを荒らす猪発見！ やっつけちゃうぞー！！","I'm not sure if I'll ever be a member of a service youth group, Rocco… But I love it here, so I don't mind.
  ………………
-Oh! I found a wild boar tearing up the rice paddies! I'm going to kill it!";"Aunque estoy en un grupo juvenil de servicio, sigo siendo un Rocco… Pero me gusta estar aquí, así que no me importa.
+Oh! I found a wild boar tearing up the rice paddies! I'm going to kill it!","Aunque estoy en un grupo juvenil de servicio, sigo siendo un Rocco… Pero me gusta estar aquí, así que no me importa.
  ………………
  ¡Ah! ¡Hemos encontrado un jabalí que está destruyendo los arrozales! ¡Voy a matarlo!"
-"narrator";"春風は、猪を追いかけた。";"Harukaze chased the boar.";"Harukaze persiguió al jabalí."
-"narrator";"春風は、猪を退治した。";"Harukaze killed a boar.";"Harukaze mató a un jabalí."
-" (talking)";"あんた達に怨みないけど、 春風、やっちゃうよ。";"I have nothing against you guys, but Harukaze, I'm gonna do it.";"No tengo nada en contra de ustedes, pero Harukaze, voy a hacerlo."
-" (talking)";"だっ…駄目、戦えない… 春風、アエン様と、戦う事なんか できないよぉっ…！";"I can't fight… I can't fight Harukaze and Aen…!";"No puedo luchar… ¡No puedo luchar contra Harukaze y Aen!"
+"narrator","春風は、猪を追いかけた。","Harukaze chased the boar.","Harukaze persiguió al jabalí."
+"narrator","春風は、猪を退治した。","Harukaze killed a boar.","Harukaze mató a un jabalí."
+" (talking)","あんた達に怨みないけど、 春風、やっちゃうよ。","I have nothing against you guys, but Harukaze, I'm gonna do it.","No tengo nada en contra de ustedes, pero Harukaze, voy a hacerlo."
+" (talking)","だっ…駄目、戦えない… 春風、アエン様と、戦う事なんか できないよぉっ…！","I can't fight… I can't fight Harukaze and Aen…!","No puedo luchar… ¡No puedo luchar contra Harukaze y Aen!"

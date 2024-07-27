@@ -1,84 +1,84 @@
-"character";"jap text";"Eng";"Esp"
-"__system__??";"{麦 = 1:";"";""
-"__system__??";"{☆めぐる = 10:";"";""
-"__system__??";"}";"";""
-"__system__??";"{☆めぐる = 12:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 2:";"";""
-"__system__??";"{☆めぐる = 11:";"";""
-"__system__??";"}";"";""
-"__system__??";"{B忠誠心 > 70:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 3:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 4:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 5:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 10:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 11:";"";""
-"__system__??";"{H拷問 \ 0:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 12:";"";""
-"__system__??";"{H拷問 \ 0:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 13:";"";""
-"__system__??";"{H拷問 \ 0:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 15:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 16:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 17:";"";""
-"__system__??";"{H拷問抵抗 < H拷問:";"";""
-"__system__??";"}";"";""
-"__system__??";"{H拷問 = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 18:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 19:";"";""
-"__system__??";"}";"";""
-"Noyama Meguru (talking)";"はぁ~~~~。";"Huh. ~~~~.";"Huh. ~~~~."
-"Yamamoto Akuji (talking)";"ん？ 俺のほっぺにメシ粒でもついてっか？";"Hmm? Do you have a grain of rice on your cheek?";"¿Hmm? ¿Hay un grano de arroz en mi mejilla?"
-"Noyama Meguru (talking)";"いい男だっぺ~。";"He's a good man!";"¡Es un buen hombre!"
-"Yamamoto Akuji (talking)";"そりゃどーも。 しっかし、言葉に特徴がある奴だな。 どこの生まれだ。";"That's no problem. He's got a distinctive accent, doesn't he? Where was he born?";"Bueno, eso no es bueno. Ya sabes, tiene un lenguaje distintivo. ¿Dónde nació?"
-"Noyama Meguru (talking)";"トヤマっぺ。";"Toyama-pe.";"Toyamappe."
-"Yamamoto Akuji (talking)";"んでも、どー聞いても、 トヤマの言葉じゃねぇぞ。";"But no matter how I hear it, it doesn't sound like Toyama's words.";"Pero no importa cómo lo escuches, no es de Toyama."
-"Noyama Meguru (talking)";"生まれたのはトヤマだっぺけど、 薬売りのおっとぉについてニホン中を 歩いてたら、こんな風になっちまっただ。";"I was born in Toyama, but I followed a medicine man around Japan and ended up like this.";"Nací en Toyama, pero seguí a un curandero por todo Japón y acabé así."
-"Yamamoto Akuji (talking)";"バイリンガルか………";"Bilingual or ………";"Bilingüe o ………"
-"Noyama Meguru (talking)";"んだら、ハイカラなモンじゃないっぺよ。";"It's not a very sophisticated thing, you know.";"El 'no soy una cosa de alto color'."
-"narrator";"悪司はチラリと時計を見た。";"Akuji glanced at his watch.";"Akuji miró su reloj."
-"Yamamoto Akuji (talking)";"おせぇな…";"You're late…";"Llegas tarde…"
-"Noyama Meguru (talking)";"んだらこつ、お待たせしちまった みたいで。";"I'm sorry to keep you waiting.";"Siento haberte hecho esperar."
-"Yamamoto Akuji (talking)";"おー、待った待った。 何してた？";"Oh, wait, wait, wait. What were you doing?";"Oh, espera, espera, espera. ¿Qué estabas haciendo?"
-"Noyama Meguru (talking)";"行商行ってただ。";"I was peddling.";"Estaba pedaleando."
-"Yamamoto Akuji (talking)";"ぎょ~~しょ~~？？";"Gyo~sho~?";"¿Gyo~sho~?"
-"Noyama Meguru (talking)";"んだ。 トヤマの薬だ。 悪司さもいるっぺか？";"I'm not sure what it is. It's the medicine from Toyama. Is Akuji there too?";"Nam. Es la medicina de Toyama. ¿Está Akuji allí también?"
-"Yamamoto Akuji (talking)";"いらね。";"I don't want it.";"No es necesario."
-"Noyama Meguru (talking)";"ばっちゃまが、送ってきたから、 おら、頑張って売ってるだよ。
-奉仕青年団の人たちゃ、 みんな、親切だべ。 色々買って貰ったっぺ。";"My grandma sent them to me, so I'm doing my best to sell them.
-The people in the youth service group are very kind. They bought me all kinds of things.";"Mi abuela me los envió, así que estoy haciendo lo posible por venderlos.
+"character","jap text","Eng","Esp"
+"__system__??","{麦 = 1:","",""
+"__system__??","{☆めぐる = 10:","",""
+"__system__??","}","",""
+"__system__??","{☆めぐる = 12:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 2:","",""
+"__system__??","{☆めぐる = 11:","",""
+"__system__??","}","",""
+"__system__??","{B忠誠心 > 70:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 3:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 4:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 5:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 10:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 11:","",""
+"__system__??","{H拷問 \ 0:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 12:","",""
+"__system__??","{H拷問 \ 0:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 13:","",""
+"__system__??","{H拷問 \ 0:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 15:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 16:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 17:","",""
+"__system__??","{H拷問抵抗 < H拷問:","",""
+"__system__??","}","",""
+"__system__??","{H拷問 = 1:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 18:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 19:","",""
+"__system__??","}","",""
+"Noyama Meguru (talking)","はぁ~~~~。","Huh. ~~~~.","Huh. ~~~~."
+"Yamamoto Akuji (talking)","ん？ 俺のほっぺにメシ粒でもついてっか？","Hmm? Do you have a grain of rice on your cheek?","¿Hmm? ¿Hay un grano de arroz en mi mejilla?"
+"Noyama Meguru (talking)","いい男だっぺ~。","He's a good man!","¡Es un buen hombre!"
+"Yamamoto Akuji (talking)","そりゃどーも。 しっかし、言葉に特徴がある奴だな。 どこの生まれだ。","That's no problem. He's got a distinctive accent, doesn't he? Where was he born?","Bueno, eso no es bueno. Ya sabes, tiene un lenguaje distintivo. ¿Dónde nació?"
+"Noyama Meguru (talking)","トヤマっぺ。","Toyama-pe.","Toyamappe."
+"Yamamoto Akuji (talking)","んでも、どー聞いても、 トヤマの言葉じゃねぇぞ。","But no matter how I hear it, it doesn't sound like Toyama's words.","Pero no importa cómo lo escuches, no es de Toyama."
+"Noyama Meguru (talking)","生まれたのはトヤマだっぺけど、 薬売りのおっとぉについてニホン中を 歩いてたら、こんな風になっちまっただ。","I was born in Toyama, but I followed a medicine man around Japan and ended up like this.","Nací en Toyama, pero seguí a un curandero por todo Japón y acabé así."
+"Yamamoto Akuji (talking)","バイリンガルか………","Bilingual or ………","Bilingüe o ………"
+"Noyama Meguru (talking)","んだら、ハイカラなモンじゃないっぺよ。","It's not a very sophisticated thing, you know.","El 'no soy una cosa de alto color'."
+"narrator","悪司はチラリと時計を見た。","Akuji glanced at his watch.","Akuji miró su reloj."
+"Yamamoto Akuji (talking)","おせぇな…","You're late…","Llegas tarde…"
+"Noyama Meguru (talking)","んだらこつ、お待たせしちまった みたいで。","I'm sorry to keep you waiting.","Siento haberte hecho esperar."
+"Yamamoto Akuji (talking)","おー、待った待った。 何してた？","Oh, wait, wait, wait. What were you doing?","Oh, espera, espera, espera. ¿Qué estabas haciendo?"
+"Noyama Meguru (talking)","行商行ってただ。","I was peddling.","Estaba pedaleando."
+"Yamamoto Akuji (talking)","ぎょ~~しょ~~？？","Gyo~sho~?","¿Gyo~sho~?"
+"Noyama Meguru (talking)","んだ。 トヤマの薬だ。 悪司さもいるっぺか？","I'm not sure what it is. It's the medicine from Toyama. Is Akuji there too?","Nam. Es la medicina de Toyama. ¿Está Akuji allí también?"
+"Yamamoto Akuji (talking)","いらね。","I don't want it.","No es necesario."
+"Noyama Meguru (talking)","ばっちゃまが、送ってきたから、 おら、頑張って売ってるだよ。
+奉仕青年団の人たちゃ、 みんな、親切だべ。 色々買って貰ったっぺ。","My grandma sent them to me, so I'm doing my best to sell them.
+The people in the youth service group are very kind. They bought me all kinds of things.","Mi abuela me los envió, así que estoy haciendo lo posible por venderlos.
 La gente del Cuerpo de Servicio Juvenil es muy amable. Me compraron todo tipo de cosas."
-"Yamamoto Akuji (talking)";"んぢゃー、俺もいい人って事で、 ダラニスケだまでも貰っとこうかな。";"Well, I guess I'll just have to take it as a sign that I'm a good guy too.";"Lo tomaré como una señal de que soy una buena persona, aunque sea Dalaniske."
-"Noyama Meguru (talking)";"ありがとだっぺー。";"Thanks for your help.";"Gracias."
-"narrator";"悪司は漫画を読んでいる。";"Akuji is reading manga.";"Akuji lee manga."
-"Noyama Meguru (talking)";"悪司さ、おらの事呼んだっぺ~？";"Akuji, did you call me?";"Akuji, ¿me has llamado?"
-"Yamamoto Akuji (talking)";"おう。 こっちゃこ、こっちゃこ。";"Oh. Kocha-ko, kocha-ko.";"Oh. Kochako, kochako."
-"Noyama Meguru (talking)";"うつってるっぺよ、悪司。";"Utsutteiruppe yo, Akuji.";"Utsutte kuppe yo, Akuji."
-"Yamamoto Akuji (talking)";"めぐる、俺の事好きか？";"Meguru, do you like me?";"Meguru, ¿te gusto?"
-"Noyama Meguru (talking)";"んだ、好きだぁ。";"I love it!";"Me gusta."
-"Yamamoto Akuji (talking)";"じゃあ、繋がりたいって思うか？";"So you think you want to connect?";"¿Crees que quieren conectarse?"
-"Noyama Meguru (talking)";"あーうー、そーだなー。";"Uh-uh.";"Uh-uh, sí."
-"Yamamoto Akuji (talking)";"やってから細かい事考えな。";"Think about the details after you do it.";"Hazlo y luego piensa en los detalles."
-"Noyama Meguru (talking)";"え、あ、っていうか、悪司さ、 性急だっぺ~！";"Eh, I mean, Akuji, you're being so hasty~!";"Bueno, quiero decir, Akuji, ¡te estás precipitando!"
-"cg narrator";"「あ、悪司さ、おなご扱うんは、もっとこう、 　色々と段取りがいるっちゃー、親から 　習わなかっただか？」
+"Yamamoto Akuji (talking)","んぢゃー、俺もいい人って事で、 ダラニスケだまでも貰っとこうかな。","Well, I guess I'll just have to take it as a sign that I'm a good guy too.","Lo tomaré como una señal de que soy una buena persona, aunque sea Dalaniske."
+"Noyama Meguru (talking)","ありがとだっぺー。","Thanks for your help.","Gracias."
+"narrator","悪司は漫画を読んでいる。","Akuji is reading manga.","Akuji lee manga."
+"Noyama Meguru (talking)","悪司さ、おらの事呼んだっぺ~？","Akuji, did you call me?","Akuji, ¿me has llamado?"
+"Yamamoto Akuji (talking)","おう。 こっちゃこ、こっちゃこ。","Oh. Kocha-ko, kocha-ko.","Oh. Kochako, kochako."
+"Noyama Meguru (talking)","うつってるっぺよ、悪司。","Utsutteiruppe yo, Akuji.","Utsutte kuppe yo, Akuji."
+"Yamamoto Akuji (talking)","めぐる、俺の事好きか？","Meguru, do you like me?","Meguru, ¿te gusto?"
+"Noyama Meguru (talking)","んだ、好きだぁ。","I love it!","Me gusta."
+"Yamamoto Akuji (talking)","じゃあ、繋がりたいって思うか？","So you think you want to connect?","¿Crees que quieren conectarse?"
+"Noyama Meguru (talking)","あーうー、そーだなー。","Uh-uh.","Uh-uh, sí."
+"Yamamoto Akuji (talking)","やってから細かい事考えな。","Think about the details after you do it.","Hazlo y luego piensa en los detalles."
+"Noyama Meguru (talking)","え、あ、っていうか、悪司さ、 性急だっぺ~！","Eh, I mean, Akuji, you're being so hasty~!","Bueno, quiero decir, Akuji, ¡te estás precipitando!"
+"cg narrator","「あ、悪司さ、おなご扱うんは、もっとこう、 　色々と段取りがいるっちゃー、親から 　習わなかっただか？」
  「じゃあ……やめるか？」
 悪司は剥き出しになっているめぐるの花弁の縁を、 指でなぞった。
  「は、はううっ…！」
@@ -163,7 +163,7 @@ La gente del Cuerpo de Servicio Juvenil es muy amable. Me compraron todo tipo de
  「あ、悪司さ……」
  「力抜け…そう…そうだ……」
  「あ、ああっ…！！ 　………っ……あっ……~~………！！！」
-悪司がゆっくり、めぐるの中に入ってきた。";"”Oh, Akuji, didn't your parents teach you that handling a girl requires a lot more work than that?”
+悪司がゆっくり、めぐるの中に入ってきた。","”Oh, Akuji, didn't your parents teach you that handling a girl requires a lot more work than that?”
  “Well, you want to stop ……?”
 Akuji traced the edge of the exposed petals of Meguru with his finger.
  “Hahhhh…!”
@@ -246,7 +246,7 @@ Something other than a finger was placed on Meguru's core. It was the tip of Aku
  “Oh, Akuji is …….”
  “Relax… yes… yes ……”
  “Ah, ah…!………… ……… ………! ~~………!!!!!!!”
-Akuji slowly entered Meguru.";"”Oh, Akuji, ¿tus padres nunca te enseñaron que manejar a una chica requiere mucha más organización?”
+Akuji slowly entered Meguru.","”Oh, Akuji, ¿tus padres nunca te enseñaron que manejar a una chica requiere mucha más organización?”
  “¿Así que quieres detener a Akuji?”
 El Akuji trazó con un dedo el borde del pétalo del Meguru expuesto.
  '¡Haaahhh…!'
@@ -331,15 +331,15 @@ Algo diferente a un dedo se aplicó al núcleo de la flor de Meguru. Era la punt
  'Relájate… sí… sí ……'
  '¡Ah, ah…! 　¡………… ………! ~~………!!!!”
 Akuji entró lentamente en Meguru."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"めぐる。";"Meguru.";"Meguru."
-"Noyama Meguru (talking)";"はいさ。";"Yes, you are.";"Sí."
-"Yamamoto Akuji (talking)";"しようか。";"Shall I do it?";"Hagámoslo."
-"Noyama Meguru (talking)";"何をだっぺ？";"What the hell was that?";"¿Qué carajo?"
-"Yamamoto Akuji (talking)";"こう。";"Thus.";"Así."
-"Noyama Meguru (talking)";"へあ~~~？？？";"Hea~?";"¿Hea~?"
-"cg narrator";"「な、なんで、悪司さ、いつもいつも、 　こう、すぱーっと押し倒して…その…あの……」
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","めぐる。","Meguru.","Meguru."
+"Noyama Meguru (talking)","はいさ。","Yes, you are.","Sí."
+"Yamamoto Akuji (talking)","しようか。","Shall I do it?","Hagámoslo."
+"Noyama Meguru (talking)","何をだっぺ？","What the hell was that?","¿Qué carajo?"
+"Yamamoto Akuji (talking)","こう。","Thus.","Así."
+"Noyama Meguru (talking)","へあ~~~？？？","Hea~?","¿Hea~?"
+"cg narrator","「な、なんで、悪司さ、いつもいつも、 　こう、すぱーっと押し倒して…その…あの……」
  「素早い方が、何も考えなくていい時があんだよ。 　特に、こーいう時はな」
 悪司の指が、めぐるの花弁にふれた。
  「ひぁぁぁ！」
@@ -355,7 +355,7 @@ Akuji entró lentamente en Meguru."
  「痛いか？」
  「す、少し痛いっぺ…」
  「これから、痛みを緩和してやるよ」
- 「あ、悪司さ……あっ…あうう~~…！」";"Why do you always, Akuji, always, always push me down like this so quickly and… well… you know… ……
+ 「あ、悪司さ……あっ…あうう~~…！」","Why do you always, Akuji, always, always push me down like this so quickly and… well… you know… ……
 I'm not sure why, but I always push him down like this… well, you know… 　The most important thing to remember is that you should never ever be afraid to ask for help.
 The Akuji's fingers touched the petals of the Meguru.
  “Hee!”
@@ -371,7 +371,7 @@ The body was ready to accept it, but the folds of the body were tangled up with 
  “Does it hurt?”
 It hurts a little…
 I'm going to give you some relief.
- “Ah, Akuji sa…… ah…ahhhh~…!”";"¿Por qué siempre, Akuji, siempre, siempre me empujas hacia abajo así de rápido y… bueno… eso ………”
+ “Ah, Akuji sa…… ah…ahhhh~…!”","¿Por qué siempre, Akuji, siempre, siempre me empujas hacia abajo así de rápido y… bueno… eso ………”
 A veces es mejor ser rápido, para no tener que pensar en nada. 　Especialmente en momentos como éste”.
 Los dedos del Akuji tocaron los pétalos del Meguru.
  '¡Heeaaaah!
@@ -388,73 +388,73 @@ Lo más importante es recordar que la mejor manera de sacar el máximo partido a
 Duele un poco…
 Voy a aliviar el dolor ahora.
  “¡Ah, Akuji sa…… ah… ahhhh~…!”"
-"Yamamoto Akuji (talking)";"こっちこいよ、めぐる。 愛してやるぜ。";"Come here, Meguru. I'll love you.";"Ven aquí, Meguru. Te amaré."
-"Noyama Meguru (talking)";"んだらこっつ、ひっさしぶりだっぺー。";"Ndarakotsu, it's been a long time.";"Ndarakotsu, ha pasado mucho tiempo."
-"Yamamoto Akuji (talking)";"そーですなー。 サービスしてやるっぺよー。";"That's right. I'll give you a service.";"Así es. Te daré un servicio."
-"Noyama Meguru (talking)";"真似するでねぇよ。";"Don't imitate me.";"No me imites."
-"Noyama Meguru (talking)";"めぐるは、悪司に抱かれた。";"Meguru was embraced by Akuji.";"Meguru fue abrazado por Akuji."
-"Yamamoto Akuji (talking)";"よし、ちょっと小遣いをやるぞ、 めぐる。";"All right, I'll give you a little allowance, Meguru.";"Muy bien, te daré un poco de dinero de bolsillo, Meguru."
-"Noyama Meguru (talking)";"んっは~~。 男前のうえに気前がいいなんて、 天使様みたいな男っぺ~。
-ありがたや、ありがたや。 なむなむなむ~。";"Hn~~. Not only handsome but also generous, he's like an angel~!
-Thank you, thank you, thank you. Numu numu numu~.";"H-ha~. Además de ser un hombre varonil, también es generoso, es como un ángel~.
+"Yamamoto Akuji (talking)","こっちこいよ、めぐる。 愛してやるぜ。","Come here, Meguru. I'll love you.","Ven aquí, Meguru. Te amaré."
+"Noyama Meguru (talking)","んだらこっつ、ひっさしぶりだっぺー。","Ndarakotsu, it's been a long time.","Ndarakotsu, ha pasado mucho tiempo."
+"Yamamoto Akuji (talking)","そーですなー。 サービスしてやるっぺよー。","That's right. I'll give you a service.","Así es. Te daré un servicio."
+"Noyama Meguru (talking)","真似するでねぇよ。","Don't imitate me.","No me imites."
+"Noyama Meguru (talking)","めぐるは、悪司に抱かれた。","Meguru was embraced by Akuji.","Meguru fue abrazado por Akuji."
+"Yamamoto Akuji (talking)","よし、ちょっと小遣いをやるぞ、 めぐる。","All right, I'll give you a little allowance, Meguru.","Muy bien, te daré un poco de dinero de bolsillo, Meguru."
+"Noyama Meguru (talking)","んっは~~。 男前のうえに気前がいいなんて、 天使様みたいな男っぺ~。
+ありがたや、ありがたや。 なむなむなむ~。","Hn~~. Not only handsome but also generous, he's like an angel~!
+Thank you, thank you, thank you. Numu numu numu~.","H-ha~. Además de ser un hombre varonil, también es generoso, es como un ángel~.
 Gracias, gracias, gracias. Nnamu nnamu nnamu nnamu nnamu nnamu nnamu nnamu."
-"Yamamoto Akuji (talking)";"拝むなっての。";"Don't worship.";"No adores."
-"Kohara Koharu (talking)";"………………";"………………";"………………"
-"Noyama Meguru (talking)";"な、なんだべ？？";"What is it?";"¿Qué es eso?"
-"Kohara Koharu (talking)";"本気ですか、若旦那。";"Are you serious, young master?";"¿Hablas en serio, joven maestro?"
-"Kohara Koharu (talking)";"この子は、私のお店に置く事は 出来ませんわ。 別のもっとあか抜けた子を下さいな。";"I can't have her in my store. Please give me another girl who is more dapper.";"No puedo tenerla en mi tienda. Dame otra chica que sea más elegante."
-"Yamamoto Akuji (talking)";"そっか、わかった。";"Oh, okay.";"Ya veo, lo entiendo."
-"Noyama Meguru (talking)";"なんか……侮辱されたっぺか？";"Did you get insulted by some ……?";"¿Qué…… te ha insultado?"
-"Yamamoto Akuji (talking)";"んな事はねぇよ。";"That's not true.";"Eso no es cierto."
-"Noyama Meguru (talking)";"そーだか？";"Is that so?";"¿No?"
-"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
-"Noyama Meguru (talking)";"………むむむむ…… 納得いかないっぺ。";"……… mmmm…… I'm not convinced.";"……… mmmm…… No estoy convencido."
-"Yamamoto Akuji (talking)";"お前さんが、竹槍名人かい。";"You are the master of the bamboo spear?";"¿Eres el maestro de la lanza de bambú?"
-"Noyama Meguru (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
-"Noyama Meguru (talking)";"いんや~~……いい男だっぺ~… とーちゃんそっくりだ~。";"Inya~~~…… nice guy… He looks just like Tor-chan~!";"Inya~~~…… buen hombre… Se parece a To~chan~."
-"Yamamoto Akuji (talking)";"そいつは、どーも。";"That guy, doh.";"Ese tipo, doh."
-"Noyama Meguru (talking)";"お願いがあんだども。";"I have a favor to ask.";"Tengo que pedirte un favor."
-"Yamamoto Akuji (talking)";"なんだ？";"What is it?";"¿Qué es?"
-"Noyama Meguru (talking)";"おらを、あんたんとこで使ってけろ。 頑張って戦うだ~。
-あんたみたいないい男のそばにいれたら、 おら、幸せなんだ~。";"Use me at your place. I'll fight hard!
-I'll be happy to have a good man like you by my side.";"Utilízame en tu casa. Lucharé todo lo que pueda.
+"Yamamoto Akuji (talking)","拝むなっての。","Don't worship.","No adores."
+"Kohara Koharu (talking)","………………","………………","………………"
+"Noyama Meguru (talking)","な、なんだべ？？","What is it?","¿Qué es eso?"
+"Kohara Koharu (talking)","本気ですか、若旦那。","Are you serious, young master?","¿Hablas en serio, joven maestro?"
+"Kohara Koharu (talking)","この子は、私のお店に置く事は 出来ませんわ。 別のもっとあか抜けた子を下さいな。","I can't have her in my store. Please give me another girl who is more dapper.","No puedo tenerla en mi tienda. Dame otra chica que sea más elegante."
+"Yamamoto Akuji (talking)","そっか、わかった。","Oh, okay.","Ya veo, lo entiendo."
+"Noyama Meguru (talking)","なんか……侮辱されたっぺか？","Did you get insulted by some ……?","¿Qué…… te ha insultado?"
+"Yamamoto Akuji (talking)","んな事はねぇよ。","That's not true.","Eso no es cierto."
+"Noyama Meguru (talking)","そーだか？","Is that so?","¿No?"
+"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
+"Noyama Meguru (talking)","………むむむむ…… 納得いかないっぺ。","……… mmmm…… I'm not convinced.","……… mmmm…… No estoy convencido."
+"Yamamoto Akuji (talking)","お前さんが、竹槍名人かい。","You are the master of the bamboo spear?","¿Eres el maestro de la lanza de bambú?"
+"Noyama Meguru (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
+"Noyama Meguru (talking)","いんや~~……いい男だっぺ~… とーちゃんそっくりだ~。","Inya~~~…… nice guy… He looks just like Tor-chan~!","Inya~~~…… buen hombre… Se parece a To~chan~."
+"Yamamoto Akuji (talking)","そいつは、どーも。","That guy, doh.","Ese tipo, doh."
+"Noyama Meguru (talking)","お願いがあんだども。","I have a favor to ask.","Tengo que pedirte un favor."
+"Yamamoto Akuji (talking)","なんだ？","What is it?","¿Qué es?"
+"Noyama Meguru (talking)","おらを、あんたんとこで使ってけろ。 頑張って戦うだ~。
+あんたみたいないい男のそばにいれたら、 おら、幸せなんだ~。","Use me at your place. I'll fight hard!
+I'll be happy to have a good man like you by my side.","Utilízame en tu casa. Lucharé todo lo que pueda.
 Seré feliz de tener un buen hombre como tú a mi lado."
-"Noyama Meguru (talking)";"は~~……";"Ha~~……";"Ha~~……"
-"Yamamoto Akuji (talking)";"どしたい？";"What do you want to do?";"¿Qué quieres hacer?"
-"Noyama Meguru (talking)";"やっぱ、いい男だっぺ~。 お願いだから、あんたの下で 働かせてけろ~。";"I knew you were a good man! Please let me work for you!";"¡Sabía que era un buen hombre! ¡Por favor, déjame trabajar para ti!"
-"narrator";"悪司が、めぐるの前に姿を現した。";"Akuji appeared before Meguru.";"Akuji se presentó ante Meguru."
-"Noyama Meguru (talking)";"ひっ……！！";"Hish ……!!!!";"¡¡Hish ……!!"
-"narrator";"めぐるは悪司の姿を認めると、 がたがたと震え出した。";"When Meguru recognized Akuji, he began to shake.";"Cuando Meguru reconoció a Akuji, comenzó a temblar."
-"narrator";"部下にしますか？";"Do you want it to be your subordinate?";"¿Quieres que sean tus subordinados?"
-"__system__??";"{RETURN = 1:";"";""
-"Yamamoto Akuji (talking)";"いいぜ。 俺のそばにいな。";"That's fine. Stay with me.";"Muy bien. Quédate conmigo."
-"Noyama Meguru (talking)";"ほ、ほんとだか！？";"Oh, really?";"¿Ah, sí?"
-"Yamamoto Akuji (talking)";"だけど、俺に愛されるとか、 そーいう事は期待すんじゃねぇぞ。";"But don't expect me to love you or anything like that.";"Pero no esperes que te ame ni nada por el estilo."
-"Noyama Meguru (talking)";"んだ、んだ。 わかっただ。
-おら、あんたみたいな男前のそばに いれるだけで、幸せだっぺ~。";"No, no, no, no, no. I understand.
-I'm happy just to be by the side of a manly man like you~.";"Nn, nn. Lo entiendo.
+"Noyama Meguru (talking)","は~~……","Ha~~……","Ha~~……"
+"Yamamoto Akuji (talking)","どしたい？","What do you want to do?","¿Qué quieres hacer?"
+"Noyama Meguru (talking)","やっぱ、いい男だっぺ~。 お願いだから、あんたの下で 働かせてけろ~。","I knew you were a good man! Please let me work for you!","¡Sabía que era un buen hombre! ¡Por favor, déjame trabajar para ti!"
+"narrator","悪司が、めぐるの前に姿を現した。","Akuji appeared before Meguru.","Akuji se presentó ante Meguru."
+"Noyama Meguru (talking)","ひっ……！！","Hish ……!!!!","¡¡Hish ……!!"
+"narrator","めぐるは悪司の姿を認めると、 がたがたと震え出した。","When Meguru recognized Akuji, he began to shake.","Cuando Meguru reconoció a Akuji, comenzó a temblar."
+"narrator","部下にしますか？","Do you want it to be your subordinate?","¿Quieres que sean tus subordinados?"
+"__system__??","{RETURN = 1:","",""
+"Yamamoto Akuji (talking)","いいぜ。 俺のそばにいな。","That's fine. Stay with me.","Muy bien. Quédate conmigo."
+"Noyama Meguru (talking)","ほ、ほんとだか！？","Oh, really?","¿Ah, sí?"
+"Yamamoto Akuji (talking)","だけど、俺に愛されるとか、 そーいう事は期待すんじゃねぇぞ。","But don't expect me to love you or anything like that.","Pero no esperes que te ame ni nada por el estilo."
+"Noyama Meguru (talking)","んだ、んだ。 わかっただ。
+おら、あんたみたいな男前のそばに いれるだけで、幸せだっぺ~。","No, no, no, no, no. I understand.
+I'm happy just to be by the side of a manly man like you~.","Nn, nn. Lo entiendo.
 Estoy feliz de estar cerca de un hombre varonil como tú."
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"いらね。";"I don't want it.";"No es necesario."
-"Noyama Meguru (talking)";"しょぼーん、酷いっぺ~。";"Shobon, that's terrible!";"¡Shobo, terrible!"
-"Yamamoto Akuji (talking)";"俺の事が好きか？";"You like me?";"¿Te gusto?"
-"Noyama Meguru (talking)";"んだ。";"The first time I saw it, I thought it was a good idea.";"El."
-"Yamamoto Akuji (talking)";"だったら、抱いてやるよ。";"Then I'll hold you.";"Entonces te abrazaré."
-"Noyama Meguru (talking)";"……ん~…まぐわるって事だっぺか？";"…… hmmm… you mean “Maguaru”?";"…… hmmm… ¿querías decir 'maguwaru'?"
-"Yamamoto Akuji (talking)";"そ。";"So.";"Así que."
-"Noyama Meguru (talking)";"だめだっぺ。 おら、悪司さの下で働きたいっぺ。 それが叶うんだったら、してもいいっぺ。";"No. I want to work for Akuji. I want to work for Akuji. If it comes true, I'm willing to do it.";"No. Quiero trabajar para Akuji. Si eso se hace realidad, lo haré."
-"Noyama Meguru (talking)";"た、頼むから、こないでくんろ… お願いだから… お願いだから…";"Please don't come… please don't come… please don't come… please don't come… please don't come…";"Por favor, por favor, no vengas… por favor… por favor…"
-"narrator";"めぐるは部屋の隅で身を縮ませ、 かたかたと震えていた。";"Meguru was cowering in the corner of the room, cowering and trembling.";"Meguru estaba encogido en un rincón de la habitación, acobardado y temblando."
-"Yamamoto Akuji (talking)";"じゃあ、これやっからよ。";"Well, I'll start with this.";"Entonces es de hacer esto."
-"narrator";"悪司はめぐるの前に、 まとまった金額のお金を置いた。";"Akuji places a large sum of money in front of Meguru.";"Akuji colocó una gran suma de dinero delante de Meguru."
-"Noyama Meguru (talking)";"あんれ、魅力的な。
-だけど、おら、あんたの下で働く方が 魅力的だっぺ。 これはいらね、下げてくんろ。";"You are attractive.
-But I'd rather work for you. I don't want this one, take it down.";"Eres atractiva.
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","いらね。","I don't want it.","No es necesario."
+"Noyama Meguru (talking)","しょぼーん、酷いっぺ~。","Shobon, that's terrible!","¡Shobo, terrible!"
+"Yamamoto Akuji (talking)","俺の事が好きか？","You like me?","¿Te gusto?"
+"Noyama Meguru (talking)","んだ。","The first time I saw it, I thought it was a good idea.","El."
+"Yamamoto Akuji (talking)","だったら、抱いてやるよ。","Then I'll hold you.","Entonces te abrazaré."
+"Noyama Meguru (talking)","……ん~…まぐわるって事だっぺか？","…… hmmm… you mean “Maguaru”?","…… hmmm… ¿querías decir 'maguwaru'?"
+"Yamamoto Akuji (talking)","そ。","So.","Así que."
+"Noyama Meguru (talking)","だめだっぺ。 おら、悪司さの下で働きたいっぺ。 それが叶うんだったら、してもいいっぺ。","No. I want to work for Akuji. I want to work for Akuji. If it comes true, I'm willing to do it.","No. Quiero trabajar para Akuji. Si eso se hace realidad, lo haré."
+"Noyama Meguru (talking)","た、頼むから、こないでくんろ… お願いだから… お願いだから…","Please don't come… please don't come… please don't come… please don't come… please don't come…","Por favor, por favor, no vengas… por favor… por favor…"
+"narrator","めぐるは部屋の隅で身を縮ませ、 かたかたと震えていた。","Meguru was cowering in the corner of the room, cowering and trembling.","Meguru estaba encogido en un rincón de la habitación, acobardado y temblando."
+"Yamamoto Akuji (talking)","じゃあ、これやっからよ。","Well, I'll start with this.","Entonces es de hacer esto."
+"narrator","悪司はめぐるの前に、 まとまった金額のお金を置いた。","Akuji places a large sum of money in front of Meguru.","Akuji colocó una gran suma de dinero delante de Meguru."
+"Noyama Meguru (talking)","あんれ、魅力的な。
+だけど、おら、あんたの下で働く方が 魅力的だっぺ。 これはいらね、下げてくんろ。","You are attractive.
+But I'd rather work for you. I don't want this one, take it down.","Eres atractiva.
 Pero me resulta más atractivo trabajar para ti. No quiero esto, quítalo."
-"narrator";"悪司はまとまった金額のお金を、 めぐるの前に置いた。";"Akuji placed a large sum of money in front of Meguru.";"Akuji colocó una gran suma de dinero delante de Meguru."
-"Noyama Meguru (talking)";"そ、そったらもん、いらね… おら…おら…もういやだ… ここから出してけろ……";"I don't want that… Ora… ora… no more… get me out of here……";"No quiero eso… Ora… ora… no más… sácame de aquí……"
-"cg narrator";"「うっ…ぅあぁぁぅぁああ！！！」
+"narrator","悪司はまとまった金額のお金を、 めぐるの前に置いた。","Akuji placed a large sum of money in front of Meguru.","Akuji colocó una gran suma de dinero delante de Meguru."
+"Noyama Meguru (talking)","そ、そったらもん、いらね… おら…おら…もういやだ… ここから出してけろ……","I don't want that… Ora… ora… no more… get me out of here……","No quiero eso… Ora… ora… no más… sácame de aquí……"
+"cg narrator","「うっ…ぅあぁぁぅぁああ！！！」
 男はめぐるの腕に絡んでいる竹槍に、 全体重をかけた。
  「ああああーーー！！！！」
 痛みに身震いするが、それさえも痛みが 伴うようにめぐるは縛めを受けている。
@@ -494,7 +494,7 @@ Pero me resulta más atractivo trabajar para ti. No quiero esto, quítalo."
  「さあ……」
  「おら……」
  「うん？」
- 「おら……あの日……」";"Ughhhhhh!!!!”
+ 「おら……あの日……」","Ughhhhhh!!!!”
 The man put all his weight on the bamboo spear entangled in Meguru's arm.
  “Aaaaahhhh！！！！!”
 He winces in pain, but even that is painful as Meguru is bound.
@@ -534,7 +534,7 @@ In Meguru's current situation, the man who did nothing seemed like a heavenly me
  “Come on, …….”
  “Ora …….”
 Yeah?”
-Ola…… that day……";"'Ugh… ahhhhh!!!'
+Ola…… that day……","'Ugh… ahhhhh!!!'
 El hombre puso todo su peso en la lanza de bambú enredada en el brazo de Meguru.
  'Aaaaahhhhhh ！！！！'
 Meguru hace una mueca de dolor, pero incluso eso es doloroso ya que Meguru está atado.
@@ -575,48 +575,48 @@ Vamos, …….
 Ora …….
  “¿Sí?
 Ola…… ese día ……"
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"で？";"And?";"¿Y?"
-"Chinpira (talking)";"へい、めぐるの話ですと、その日、 いつものように竹槍でＢ２９を 撃墜してたそーっす。
-でその日、撃墜した水色のＢ２９の 残骸から、これを拾ったそうでさ。";"Hey, according to Meguru, he was shooting down B-29s with a bamboo spear as usual that day.
-He picked this up from the wreckage of a light blue B-29 he shot down that day.";"Oye, Meguru dice que ese día estuvo derribando B-29s con una lanza de bambú, como siempre.
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","で？","And?","¿Y?"
+"Chinpira (talking)","へい、めぐるの話ですと、その日、 いつものように竹槍でＢ２９を 撃墜してたそーっす。
+でその日、撃墜した水色のＢ２９の 残骸から、これを拾ったそうでさ。","Hey, according to Meguru, he was shooting down B-29s with a bamboo spear as usual that day.
+He picked this up from the wreckage of a light blue B-29 he shot down that day.","Oye, Meguru dice que ese día estuvo derribando B-29s con una lanza de bambú, como siempre.
 Y ese día, recogió esto de los restos de un B29 azul claro que había derribado."
-"__system__??";"{I装備[25] = 99:";"";""
-"Yamamoto Akuji (talking)";"ふーん、玉手箱か。";"Hmmm, a jade box.";"Hmmm, una caja de jade."
-"Chinpira (talking)";"へい。 ぶんどっときました。";"Hei. I got it.";"Hei. Lo tengo."
-"Yamamoto Akuji (talking)";"うーい、ご苦労さん。";"Woooie, thanks for your help.";"Oui, gracias por sus esfuerzos."
-"__system__??";"} else {";"";""
-"Yamamoto Akuji (talking)";"なんだこりゃ。 リトルボーイじゃねぇか！";"What is this? It's a little boy!";"¿Qué demonios es esto? ¡Es un niño pequeño!"
-"Chinpira (talking)";"ウィミィの男兵士に強姦されそうに なったら、これで自害するつもり だったらしいっす。";"He was planning to kill himself with this if he was about to be raped by a male soldier of Wime.";"Pensaba utilizarla para suicidarse si estaba a punto de ser violado por los soldados varones del Wime."
-"Yamamoto Akuji (talking)";"あぶねーから、処分しとけ。";"It's not safe, get rid of it.";"No es seguro, deshazte de él."
-"Chinpira (talking)";"うっす。";"Yes.";"Ugh."
-"__system__??";"}";"";""
-"Chinpira (talking)";"で、めぐるはどうしやしょう？";"And what about Meguru?";"¿Y qué hay de Meguru?"
-"Yamamoto Akuji (talking)";"欲しい奴がいたらくれてやれ。 いなかったら、テキトーに処分。";"If someone wants it, give it to them. If not, get rid of them.";"Si alguien lo quiere, dáselo. Si no es así, deshazte de los tejanos."
-"Chinpira (talking)";"ういーす。";"Uuisu.";"Uuis."
-"Yamamoto Akuji (talking)";"おめーさん、何か知ってんな。";"You, you know something.";"Tú, tú sabes algo."
-"Chinpira (talking)";"な、なんだっぺ？";"What the hell?";"¿Qué demonios?"
-"Yamamoto Akuji (talking)";"おう、こいつを拷問係のとこに連れてけ。";"Oh, take him to the torturer.";"Lleva a este tipo a los torturadores."
-"Hikage Mitsuko (talking)";"…………はい…";"………… Yes…";"………… Sí…"
-"Noyama Meguru (talking)";"な、何するだよ、離してけろ！ おら、何も知んね、知らねっぺよ！";"What are you doing? Get off me! I don't know anything, I don't know anything!";"¿Qué haces? ¡Suéltame! ¡No sé nada, no sé nada!"
-"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
-"Hikage Mitsuko (talking)";"………………はい…";"……………… Yes…";"……………… Sí…"
-"Yamamoto Akuji (talking)";"拷問係のとこまで連れてけ。";"Take him to the torturer.";"Llévenlos a los torturadores."
-"Hikage Mitsuko (talking)";"…………………はい……";"………………… yes ……";"………………… sí ……"
-"Noyama Meguru (talking)";"い、いや！！ 離してけろ、離してけろ！！ 痛いのは、やんだー！";"No, no! Get off me, get off me, get off me! I don't want to hurt you!";"¡No, no! ¡Suéltame, suéltame, suéltame! ¡No quiero hacerte daño!"
-"Kohara Koharu (talking)";"めぐるさん。";"Meguru.";"Meguru."
-"Noyama Meguru (talking)";"ひ…おら、何も悪い事はしてねぇ。 食わねぇでけろ。";"I didn't do anything wrong. Don't eat it.";"Hola… l-la, no he hecho nada malo. No lo comas."
-"Kohara Koharu (talking)";"人をなまはげみたいに 言わないで下さいます？
-それより、こちらにきて頂けます？ あなたに今から最終調整をかけたいと 思っていますの。";"Don't talk about people like they're vultures, please.
-Can you please come with me? I'd like to put some final touches on you now.";"No hables de la gente como si fueran buitres.
+"__system__??","{I装備[25] = 99:","",""
+"Yamamoto Akuji (talking)","ふーん、玉手箱か。","Hmmm, a jade box.","Hmmm, una caja de jade."
+"Chinpira (talking)","へい。 ぶんどっときました。","Hei. I got it.","Hei. Lo tengo."
+"Yamamoto Akuji (talking)","うーい、ご苦労さん。","Woooie, thanks for your help.","Oui, gracias por sus esfuerzos."
+"__system__??","} else {","",""
+"Yamamoto Akuji (talking)","なんだこりゃ。 リトルボーイじゃねぇか！","What is this? It's a little boy!","¿Qué demonios es esto? ¡Es un niño pequeño!"
+"Chinpira (talking)","ウィミィの男兵士に強姦されそうに なったら、これで自害するつもり だったらしいっす。","He was planning to kill himself with this if he was about to be raped by a male soldier of Wime.","Pensaba utilizarla para suicidarse si estaba a punto de ser violado por los soldados varones del Wime."
+"Yamamoto Akuji (talking)","あぶねーから、処分しとけ。","It's not safe, get rid of it.","No es seguro, deshazte de él."
+"Chinpira (talking)","うっす。","Yes.","Ugh."
+"__system__??","}","",""
+"Chinpira (talking)","で、めぐるはどうしやしょう？","And what about Meguru?","¿Y qué hay de Meguru?"
+"Yamamoto Akuji (talking)","欲しい奴がいたらくれてやれ。 いなかったら、テキトーに処分。","If someone wants it, give it to them. If not, get rid of them.","Si alguien lo quiere, dáselo. Si no es así, deshazte de los tejanos."
+"Chinpira (talking)","ういーす。","Uuisu.","Uuis."
+"Yamamoto Akuji (talking)","おめーさん、何か知ってんな。","You, you know something.","Tú, tú sabes algo."
+"Chinpira (talking)","な、なんだっぺ？","What the hell?","¿Qué demonios?"
+"Yamamoto Akuji (talking)","おう、こいつを拷問係のとこに連れてけ。","Oh, take him to the torturer.","Lleva a este tipo a los torturadores."
+"Hikage Mitsuko (talking)","…………はい…","………… Yes…","………… Sí…"
+"Noyama Meguru (talking)","な、何するだよ、離してけろ！ おら、何も知んね、知らねっぺよ！","What are you doing? Get off me! I don't know anything, I don't know anything!","¿Qué haces? ¡Suéltame! ¡No sé nada, no sé nada!"
+"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
+"Hikage Mitsuko (talking)","………………はい…","……………… Yes…","……………… Sí…"
+"Yamamoto Akuji (talking)","拷問係のとこまで連れてけ。","Take him to the torturer.","Llévenlos a los torturadores."
+"Hikage Mitsuko (talking)","…………………はい……","………………… yes ……","………………… sí ……"
+"Noyama Meguru (talking)","い、いや！！ 離してけろ、離してけろ！！ 痛いのは、やんだー！","No, no! Get off me, get off me, get off me! I don't want to hurt you!","¡No, no! ¡Suéltame, suéltame, suéltame! ¡No quiero hacerte daño!"
+"Kohara Koharu (talking)","めぐるさん。","Meguru.","Meguru."
+"Noyama Meguru (talking)","ひ…おら、何も悪い事はしてねぇ。 食わねぇでけろ。","I didn't do anything wrong. Don't eat it.","Hola… l-la, no he hecho nada malo. No lo comas."
+"Kohara Koharu (talking)","人をなまはげみたいに 言わないで下さいます？
+それより、こちらにきて頂けます？ あなたに今から最終調整をかけたいと 思っていますの。","Don't talk about people like they're vultures, please.
+Can you please come with me? I'd like to put some final touches on you now.","No hables de la gente como si fueran buitres.
  ¿Puedes venir aquí, por favor? Me gustaría darle algunos toques finales ahora."
-"Noyama Meguru (talking)";"そ、それするとどうなるだか？";"And what happens when you do that?";"Bueno, ¿qué pasa cuando haces eso?"
-"Kohara Koharu (talking)";"お客様の前に出しても恥ずかしくない 娼婦になりましてよ。";"You should be a whore who isn't ashamed to show it in front of her clients.";"Sé una puta que no se avergüenza de mostrarlo delante de sus clientes."
-"Noyama Meguru (talking)";"あう……";"Au……";"Au……"
-"Kohara Koharu (talking)";"逃げる事は出来ませんわよ。 さあ、いらして。";"You can't run away. Come on, come on.";"No te saldrás con la tuya. Vamos, vamos."
-"Noyama Meguru (talking)";"うう……おら、どうしたらいいだ…";"Uu……La, what should I do…";"Uu……la, qué debo hacer…"
-"cg narrator";"「んっ…ぷぁっ……」
+"Noyama Meguru (talking)","そ、それするとどうなるだか？","And what happens when you do that?","Bueno, ¿qué pasa cuando haces eso?"
+"Kohara Koharu (talking)","お客様の前に出しても恥ずかしくない 娼婦になりましてよ。","You should be a whore who isn't ashamed to show it in front of her clients.","Sé una puta que no se avergüenza de mostrarlo delante de sus clientes."
+"Noyama Meguru (talking)","あう……","Au……","Au……"
+"Kohara Koharu (talking)","逃げる事は出来ませんわよ。 さあ、いらして。","You can't run away. Come on, come on.","No te saldrás con la tuya. Vamos, vamos."
+"Noyama Meguru (talking)","うう……おら、どうしたらいいだ…","Uu……La, what should I do…","Uu……la, qué debo hacer…"
+"cg narrator","「んっ…ぷぁっ……」
 めぐるは口に含んでいたいきり立った男根を 口腔から吐き出した。
  「誰が口から離していいと言いました？」
 小春が叱咤するような強い口調で めぐるに言った。
@@ -693,7 +693,7 @@ Can you please come with me? I'd like to put some final touches on you now.";"No
  「んっ……んんっ、んっ……！」
 男達が不規則に腰を振ったかと思うと、 めぐるの頬に、鼻に、髪に、尻に。 大量の体液を放った。
  「っ…うっ……ぁぁぁっ………」
-めぐるはそれを見て、大きく躰を震わせた。";"Mmm…puhhhh………”
+めぐるはそれを見て、大きく躰を震わせた。","Mmm…puhhhh………”
 Meguru spit out the erect phallus from his mouth.
 Who said you can take it out of your mouth?”
 Koharu said to Meguru in a strong tone like a scolding.
@@ -770,7 +770,7 @@ The man's petals are also squeezed as if he will not let go of them, and Meguru 
  “Nn…… nn,nn,nn,nn……!”
 The men wiggled their hips erratically and released a lot of fluid on Meguru's cheeks, nose, hair, and ass. The men released a large amount of bodily fluids on Meguru's cheeks, nose, hair, and buttocks.
  'Ugh…ugh ……aaaaaah ………!'
-Meguru looked at it and shook her body greatly.";"'Mmm… puhhhh ……'
+Meguru looked at it and shook her body greatly.","'Mmm… puhhhh ……'
 Meguru expulsó de su cavidad bucal el falo erecto que tenía en la boca.
  '¿Quién dijo que puedes sacarlo de tu boca?'
 Koharu le dijo a Meguru con un tono fuerte y regañón.
@@ -848,22 +848,22 @@ También se aprieta el pene del hombre como si no fuera a soltar la cosa del hom
 Los hombres se agitaron erráticamente, y luego soltaron una gran cantidad de líquido sobre las mejillas, la nariz, el pelo y las nalgas de Meguru. Se liberó una gran cantidad de líquido.
  'Ugh…ugh ……aaaah ………!'
 Meguru lo miró y su cuerpo tembló mucho."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"narrator";"　　［ひゅーーーー………ん……］
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"narrator","　　［ひゅーーーー………ん……］
  　　［ざくぅぅぅっっっっ］
-なんと、遠いところから、竹槍が飛んできた。";"[hooooo ………n ……]
+なんと、遠いところから、竹槍が飛んできた。","[hooooo ………n ……]
  　　［Zaku-uuh!]
- [How, from far away, a bamboo spear flew.";"[hooooo ………n ……]
+ [How, from far away, a bamboo spear flew.","[hooooo ………n ……]
  　　[¡Zakooooooooooooooooooo!]
 Dios mío, desde muy lejos, una lanza de bambú voló hacia mí."
-"Noyama Meguru (talking)";"ほえ~~~、飛んだ飛んだ~。 今日も調子よくって、 まんずまんずだんべ~。
-行くっぺよ~。 覚悟しちぇえよぉ。 んだら、んっは~~と~~！";"Oh~~, I flew, I flew, I flew! I'm doing well today, too, and I'm chomping at the bit to get going.
-Let's go! Prepare yourself. And, hmmm~~to~!";"Oh~~~, volé, volé, volé… Hoy estoy bien, ¡me muero de ganas!
+"Noyama Meguru (talking)","ほえ~~~、飛んだ飛んだ~。 今日も調子よくって、 まんずまんずだんべ~。
+行くっぺよ~。 覚悟しちぇえよぉ。 んだら、んっは~~と~~！","Oh~~, I flew, I flew, I flew! I'm doing well today, too, and I'm chomping at the bit to get going.
+Let's go! Prepare yourself. And, hmmm~~to~!","Oh~~~, volé, volé, volé… Hoy estoy bien, ¡me muero de ganas!
  ¡Vamos! Prepárate. ¡Andara, ha~~to~!"
-"Noyama Meguru (talking)";"やるっぺよ~！ 串刺しにされだくなかったら、 逃げるっぺ~！";"I'll do it! If you don't want to get skewered, run away!";"¡Yo lo haré! Si no quieres ser ensartado, ¡huye!"
-"narrator";"めぐるがほわほわとした足取りで 悪司の部屋から出てきた。";"Meguru came out of Akuji's room with dusty steps.";"Meguru salió de la habitación de Akuji con pasos polvorientos."
-"Noyama Meguru (talking)";"んっは~、幸せだっぺ~。 悪司さん、ホント、男前で強くて、 えっち上手で、言う事なしだっぺ~。
-あ~おら、こ~んな幸せで いいんだっぺか~。";"I'm so happy~! Mr. Akuji, you are really handsome, strong, and good at eroticism, what more can I say~!
-Oh~Ola, is it okay that I'm so happy~?";"Haha~, ¡estoy tan feliz~! Señor Akuji, es usted muy guapo, fuerte, bueno en el erotismo, no tiene nada que decir~.
+"Noyama Meguru (talking)","やるっぺよ~！ 串刺しにされだくなかったら、 逃げるっぺ~！","I'll do it! If you don't want to get skewered, run away!","¡Yo lo haré! Si no quieres ser ensartado, ¡huye!"
+"narrator","めぐるがほわほわとした足取りで 悪司の部屋から出てきた。","Meguru came out of Akuji's room with dusty steps.","Meguru salió de la habitación de Akuji con pasos polvorientos."
+"Noyama Meguru (talking)","んっは~、幸せだっぺ~。 悪司さん、ホント、男前で強くて、 えっち上手で、言う事なしだっぺ~。
+あ~おら、こ~んな幸せで いいんだっぺか~。","I'm so happy~! Mr. Akuji, you are really handsome, strong, and good at eroticism, what more can I say~!
+Oh~Ola, is it okay that I'm so happy~?","Haha~, ¡estoy tan feliz~! Señor Akuji, es usted muy guapo, fuerte, bueno en el erotismo, no tiene nada que decir~.
 Ah~ Ora, ¿estás segura de que eres feliz así~?"

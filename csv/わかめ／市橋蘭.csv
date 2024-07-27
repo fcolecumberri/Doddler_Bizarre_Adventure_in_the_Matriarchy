@@ -1,229 +1,229 @@
-"character";"jap text";"Eng";"Esp"
-"__system__??";"{麦 = 1:";"";""
-"__system__??";"{☆市橋蘭 = 2:";"";""
-"__system__??";"}";"";""
-"__system__??";"{☆市橋蘭 = 3:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 2:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 3:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 4:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 10:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 11:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 12:";"";""
-"__system__??";"{H愛欲 = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"{H愛欲 = 3:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 13:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 15:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 16:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 18:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 5:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 19:";"";""
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"おーい、お蘭。 どこ行ったーーー？";"Hey, ORan. Where'd you go?";"Hola, ORan. ¿A dónde fuiste?"
-"Ichihashi Ran (talking)";"ああ……ここだよ、若旦那。 何か用かい？";"Oh,…… here, young master. What can I do for you?";"Oh,…… aquí, joven maestro. ¿Qué puedo hacer por usted?"
-"Yamamoto Akuji (talking)";"おう、実はな……
- ……って、なんか顔色悪ィぞ、お蘭。 どーかしたのか？";"Oh, actually, ……
-You don't look so good at ……, oRan. What's wrong?";"Oh, en realidad, ……
+"character","jap text","Eng","Esp"
+"__system__??","{麦 = 1:","",""
+"__system__??","{☆市橋蘭 = 2:","",""
+"__system__??","}","",""
+"__system__??","{☆市橋蘭 = 3:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 2:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 3:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 4:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 10:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 11:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 12:","",""
+"__system__??","{H愛欲 = 1:","",""
+"__system__??","}","",""
+"__system__??","{H愛欲 = 3:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 13:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 15:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 16:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 18:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 5:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 19:","",""
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","おーい、お蘭。 どこ行ったーーー？","Hey, ORan. Where'd you go?","Hola, ORan. ¿A dónde fuiste?"
+"Ichihashi Ran (talking)","ああ……ここだよ、若旦那。 何か用かい？","Oh,…… here, young master. What can I do for you?","Oh,…… aquí, joven maestro. ¿Qué puedo hacer por usted?"
+"Yamamoto Akuji (talking)","おう、実はな……
+ ……って、なんか顔色悪ィぞ、お蘭。 どーかしたのか？","Oh, actually, ……
+You don't look so good at ……, oRan. What's wrong?","Oh, en realidad, ……
 Te ves un poco pálido en ……, ORan. ¿Qué te pasa?"
-"Ichihashi Ran (talking)";"えっ？ ……嫌だね、顔に出てたのかね。
-あたし宛てに、手紙が来ていてね。 今、読んでたところなのさ。";"Eh? ……I don't like it, was it on your face?
-There was a letter addressed to me. I was just reading it now.";"¿Eh?…… No me gusta, ¿estaba en tu cara?
+"Ichihashi Ran (talking)","えっ？ ……嫌だね、顔に出てたのかね。
+あたし宛てに、手紙が来ていてね。 今、読んでたところなのさ。","Eh? ……I don't like it, was it on your face?
+There was a letter addressed to me. I was just reading it now.","¿Eh?…… No me gusta, ¿estaba en tu cara?
 Había una carta dirigida a mí. Acabo de leerlo."
-"narrator";"言って、蘭は袂から書簡を取り出して 悪司に差し出した。";"Saying this, Ran took a letter from his embitterment and presented it to Akuji.";"Diciendo esto, Ran sacó la carta de su amargura y se la presentó a Akuji."
-"Yamamoto Akuji (talking)";"俺が読んでいいのか？";"Am I allowed to read it?";"¿Se me permite leerlo?"
-"Ichihashi Ran (talking)";"ああ、構わないよ。
-ただ、中の便箋取り出すときは 張り付けてあるカミソリに注意しなよ。";"Yeah, that's fine.
-Just be careful of the razor on the inside when you take out the letterhead.";"Sí, está bien.
+"narrator","言って、蘭は袂から書簡を取り出して 悪司に差し出した。","Saying this, Ran took a letter from his embitterment and presented it to Akuji.","Diciendo esto, Ran sacó la carta de su amargura y se la presentó a Akuji."
+"Yamamoto Akuji (talking)","俺が読んでいいのか？","Am I allowed to read it?","¿Se me permite leerlo?"
+"Ichihashi Ran (talking)","ああ、構わないよ。
+ただ、中の便箋取り出すときは 張り付けてあるカミソリに注意しなよ。","Yeah, that's fine.
+Just be careful of the razor on the inside when you take out the letterhead.","Sí, está bien.
 Sólo hay que tener cuidado con la navaja que está pegada al sacar el membrete del interior."
-"Yamamoto Akuji (talking)";"おいおい、穏やかじゃねぇな……";"Hey, that's not very calm……";"Oye, eso no es tranquilo……"
-"narrator";"悪司は慎重に便箋を取り出し、広げてみた。";"Akuji carefully took out the letterhead and unfolded it.";"Akuji sacó con cuidado el membrete y lo desdobló."
-"Yamamoto Akuji (talking)";"えーっと、なになに……？
+"Yamamoto Akuji (talking)","おいおい、穏やかじゃねぇな……","Hey, that's not very calm……","Oye, eso no es tranquilo……"
+"narrator","悪司は慎重に便箋を取り出し、広げてみた。","Akuji carefully took out the letterhead and unfolded it.","Akuji sacó con cuidado el membrete y lo desdobló."
+"Yamamoto Akuji (talking)","えーっと、なになに……？
  ……裏切り者、クソアマ、死ね、 悪司は敵だとぬかしたくせにそのザマか、 犯られて情でも移ったんだろうこの売女。
 もうセンリに戻れると思うな、 戻ってきたら殺してやる、 ファック・ユー。
- ……なんじゃこりゃ。";"Well, what is it ……?…… traitor, bitch, die, you said Akuji was the enemy, and now you're a whore, you must have been fucked and turned.
-Don't think you can go back to Senri, I'll Satsu you when you come back, fuck you.…… What the fuck is this?";"Bueno, ¿qué es, qué es, ……?…… traidora, zorra, muérete, decías que Akuji era el enemigo, y ahora eres una zorra, puta que te han jodido y se ha vuelto contra sus sentimientos.
+ ……なんじゃこりゃ。","Well, what is it ……?…… traitor, bitch, die, you said Akuji was the enemy, and now you're a whore, you must have been fucked and turned.
+Don't think you can go back to Senri, I'll Satsu you when you come back, fuck you.…… What the fuck is this?","Bueno, ¿qué es, qué es, ……?…… traidora, zorra, muérete, decías que Akuji era el enemigo, y ahora eres una zorra, puta que te han jodido y se ha vuelto contra sus sentimientos.
 No creas que puedes volver a Senri, te Satsu cuando vuelvas, joder.…… ¿Qué coño es esto?"
-"Ichihashi Ran (talking)";"多分、元わかめ組の組員だと思うけどね…
-あたしが今、奉仕青年団にいるのが よほど気に入らないんだろうね。";"Probably a former member of the Wakame clan…
-I guess they don't like the fact that I'm in the Seinendan now.";"Probablemente un antiguo miembro del clan Wakame…
+"Ichihashi Ran (talking)","多分、元わかめ組の組員だと思うけどね…
+あたしが今、奉仕青年団にいるのが よほど気に入らないんだろうね。","Probably a former member of the Wakame clan…
+I guess they don't like the fact that I'm in the Seinendan now.","Probablemente un antiguo miembro del clan Wakame…
 Probablemente no les guste el hecho de que ahora esté en el servicio juvenil."
-"Yamamoto Akuji (talking)";"ミョーな敵作っちまったな、お蘭。";"You've made some serious enemies,  Ran.";"Has hecho algunos enemigos serios, ORan."
-"Ichihashi Ran (talking)";"仕方ないさ。 あたしゃわかめ組の組長だった頃、 それはもう何かの仇みたいに……
- …男どもを虐げて、顎で使ってたからね。";"It can't be helped. When I was the leader of the Wakame clan, I used to abuse and jaw the men like I was some kind of avenger ……
-I used to abuse men and use them as if I was some kind of revenge.";"No se puede evitar. Cuando era el líder del clan Wakame, solía abusar de los hombres y darles la brasa como una especie de venganza ……
+"Yamamoto Akuji (talking)","ミョーな敵作っちまったな、お蘭。","You've made some serious enemies,  Ran.","Has hecho algunos enemigos serios, ORan."
+"Ichihashi Ran (talking)","仕方ないさ。 あたしゃわかめ組の組長だった頃、 それはもう何かの仇みたいに……
+ …男どもを虐げて、顎で使ってたからね。","It can't be helped. When I was the leader of the Wakame clan, I used to abuse and jaw the men like I was some kind of avenger ……
+I used to abuse men and use them as if I was some kind of revenge.","No se puede evitar. Cuando era el líder del clan Wakame, solía abusar de los hombres y darles la brasa como una especie de venganza ……
 Solía abusar de los hombres y utilizarlos como si fueran mis enemigos."
-"Yamamoto Akuji (talking)";"ねちっこいねー、文句あんなら 直接言いに来いってんだよな。";"You're a stickler. If you have a problem with me, come and tell me in person.";"Si tienes un problema conmigo, ven y dímelo en persona."
-"Ichihashi Ran (talking)";"よしておくれよ、気味の悪い……";"Come on, that's creepy ……";"Vamos, que me das escalofríos: ……"
-"Yamamoto Akuji (talking)";"なぁに、安心しろ。 こういう手合いは俺が見つけだして ぶんなぐっといてやらぁ。";"Don't worry. I'll find these people and beat them to a pulp.";"No te preocupes. Encontraré a esta gente y les daré una paliza."
-"Ichihashi Ran (talking)";"見つけだしてって……どうやって。 差出人の名前も消印もないんだよ？";"Find it…… how. There's no sender's name or postmark, remember?";"Encuéntralo…… Cómo. No hay nombre del remitente ni matasellos, ¿vale?"
-"Yamamoto Akuji (talking)";"………………
-まあ、心配すんな。何とかならぁ。";"………………
-Well, don't worry. We'll get through this.";"………………
+"Yamamoto Akuji (talking)","ねちっこいねー、文句あんなら 直接言いに来いってんだよな。","You're a stickler. If you have a problem with me, come and tell me in person.","Si tienes un problema conmigo, ven y dímelo en persona."
+"Ichihashi Ran (talking)","よしておくれよ、気味の悪い……","Come on, that's creepy ……","Vamos, que me das escalofríos: ……"
+"Yamamoto Akuji (talking)","なぁに、安心しろ。 こういう手合いは俺が見つけだして ぶんなぐっといてやらぁ。","Don't worry. I'll find these people and beat them to a pulp.","No te preocupes. Encontraré a esta gente y les daré una paliza."
+"Ichihashi Ran (talking)","見つけだしてって……どうやって。 差出人の名前も消印もないんだよ？","Find it…… how. There's no sender's name or postmark, remember?","Encuéntralo…… Cómo. No hay nombre del remitente ni matasellos, ¿vale?"
+"Yamamoto Akuji (talking)","………………
+まあ、心配すんな。何とかならぁ。","………………
+Well, don't worry. We'll get through this.","………………
 Bueno, no te preocupes. Todo irá bien."
-"Ichihashi Ran (talking)";"……ふふ。 頼りにしてるよ、若旦那。";"…… Heh. I'm counting on you, young master.";"…… Heh. Cuento contigo, joven maestro."
-"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
-"Ichihashi Ran (thinking)";"………そういう根拠のない自信と物言い、 本当にご隠居そっくりだよ、悪司……";"………You really are just like your grandmother, with your baseless confidence and mannerisms,Akuji ……";"……… Tal confianza y charla sin fundamento, realmente eres como tu abuela, Akuji ……"
-"Yamamoto Akuji (talking)";"お蘭、今いいか？";"Oh  Ran, is this a good time?";"ORan, ¿es un buen momento?"
-"Ichihashi Ran (talking)";"ああ、構わないよ。";"Yeah, that's fine.";"Sí, está bien."
-"Yamamoto Akuji (talking)";"……何だ、新聞でも読んでたのか？";"…… What, were you reading the paper?";"…… ¿Qué, estabas leyendo el periódico?"
-"Ichihashi Ran (talking)";"今のあたしは、わかめ組で言うなら 幹部級の扱いをしてもらってるからね。
-世情にも詳しくないと、 仕事に差し支えが出るだろ？ そうなったらあんたに申し訳ないからさ。";"I am now treated like a top executive in the Wakame group.
-If I don't know about the world, it will affect my work, right? If that happened, I would feel bad for you.";"Ahora me tratan como a un alto ejecutivo del clan Wakame.
+"Ichihashi Ran (talking)","……ふふ。 頼りにしてるよ、若旦那。","…… Heh. I'm counting on you, young master.","…… Heh. Cuento contigo, joven maestro."
+"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
+"Ichihashi Ran (thinking)","………そういう根拠のない自信と物言い、 本当にご隠居そっくりだよ、悪司……","………You really are just like your grandmother, with your baseless confidence and mannerisms,Akuji ……","……… Tal confianza y charla sin fundamento, realmente eres como tu abuela, Akuji ……"
+"Yamamoto Akuji (talking)","お蘭、今いいか？","Oh  Ran, is this a good time?","ORan, ¿es un buen momento?"
+"Ichihashi Ran (talking)","ああ、構わないよ。","Yeah, that's fine.","Sí, está bien."
+"Yamamoto Akuji (talking)","……何だ、新聞でも読んでたのか？","…… What, were you reading the paper?","…… ¿Qué, estabas leyendo el periódico?"
+"Ichihashi Ran (talking)","今のあたしは、わかめ組で言うなら 幹部級の扱いをしてもらってるからね。
+世情にも詳しくないと、 仕事に差し支えが出るだろ？ そうなったらあんたに申し訳ないからさ。","I am now treated like a top executive in the Wakame group.
+If I don't know about the world, it will affect my work, right? If that happened, I would feel bad for you.","Ahora me tratan como a un alto ejecutivo del clan Wakame.
 Si no conozco el estado del mundo, afectará a mi trabajo, ¿no? Si eso ocurre, me sentiré mal por ti."
-"Yamamoto Akuji (talking)";"ほー、いい心がけだ。";"Hoh, that's a good mindset.";"Ho, esa es una buena mentalidad."
-"Yamamoto Akuji (talking)";"……さて、お蘭。 俺の部屋に来いや。";"…… Well, oh  Ran. Come to my room.";"…… Bueno, oRan. Ven a mi habitación, hombre."
-"Ichihashi Ran (talking)";"…お情けをくれるのかい？";"Are you going to give me a favor?";"…¿me vas a dar un capricho?"
-"Yamamoto Akuji (talking)";"おう。 そういう約束だからな。";"Oh. That's the deal.";"Oh. Eso es lo que me prometiste."
-"Ichihashi Ran (talking)";"そうかい…… ありがとうよ、若旦那…";"So kai…… Thank you, young master…";"Así que Kai…… Gracias, joven maestro…"
-"Ichihashi Ran (talking)";"……すまないけれど、 シャワー、浴びさせてくれるかい？ 少し時間がかかるけどね……";"…… sorry, but can I take a shower? It's going to take a while……";"…… Lo siento, ¿puedo ducharme? Llevará un tiempo……"
-"Yamamoto Akuji (talking)";"ん？　汗でもかいたのか？";"Hmm?　Did you sweat it out?";"¿Hmm?　¿Has sudado?"
-"Ichihashi Ran (talking)";"女の身だしなみだよ。 ……抱いて貰う前のね。
-綺麗にしてくるから、 可愛がっておくれよ……？";"It's a woman's grooming…… before they hold you.
-I'm going to go clean myself up, so please make me feel pretty……?";"El aseo de las mujeres…… antes de que te retengan.
+"Yamamoto Akuji (talking)","ほー、いい心がけだ。","Hoh, that's a good mindset.","Ho, esa es una buena mentalidad."
+"Yamamoto Akuji (talking)","……さて、お蘭。 俺の部屋に来いや。","…… Well, oh  Ran. Come to my room.","…… Bueno, oRan. Ven a mi habitación, hombre."
+"Ichihashi Ran (talking)","…お情けをくれるのかい？","Are you going to give me a favor?","…¿me vas a dar un capricho?"
+"Yamamoto Akuji (talking)","おう。 そういう約束だからな。","Oh. That's the deal.","Oh. Eso es lo que me prometiste."
+"Ichihashi Ran (talking)","そうかい…… ありがとうよ、若旦那…","So kai…… Thank you, young master…","Así que Kai…… Gracias, joven maestro…"
+"Ichihashi Ran (talking)","……すまないけれど、 シャワー、浴びさせてくれるかい？ 少し時間がかかるけどね……","…… sorry, but can I take a shower? It's going to take a while……","…… Lo siento, ¿puedo ducharme? Llevará un tiempo……"
+"Yamamoto Akuji (talking)","ん？　汗でもかいたのか？","Hmm?　Did you sweat it out?","¿Hmm?　¿Has sudado?"
+"Ichihashi Ran (talking)","女の身だしなみだよ。 ……抱いて貰う前のね。
+綺麗にしてくるから、 可愛がっておくれよ……？","It's a woman's grooming…… before they hold you.
+I'm going to go clean myself up, so please make me feel pretty……?","El aseo de las mujeres…… antes de que te retengan.
 Te voy a limpiar y me vas a hacer sentir bonita……?"
-"Yamamoto Akuji (talking)";"おう、任せとけ。";"Oh, leave it to me.";"Oh, déjamelo a mí."
-"Ichihashi Ran (talking)";"……くすっ。";"…… Dusk.";"…… Dusk."
-"Ichihashi Ran (talking)";"市橋蘭は、悪司に抱かれた。";"Ichihashi Ran was embraced by Akuji.";"Ichihashi Ran fue abrazado por Akuji."
-"Yamamoto Akuji (talking)";"さーて、女狐の顔でも拝んでやるか。
+"Yamamoto Akuji (talking)","おう、任せとけ。","Oh, leave it to me.","Oh, déjamelo a mí."
+"Ichihashi Ran (talking)","……くすっ。","…… Dusk.","…… Dusk."
+"Ichihashi Ran (talking)","市橋蘭は、悪司に抱かれた。","Ichihashi Ran was embraced by Akuji.","Ichihashi Ran fue abrazado por Akuji."
+"Yamamoto Akuji (talking)","さーて、女狐の顔でも拝んでやるか。
 俺に向かって上等こきやがったくせに 今やただの負け組で敗者でクソでボケ。 いいザマだぜ、全くよ。……………… ニヤリ。
-おっと……つい口元が緩んじまうぜ。 ぐっと堪えてクールに行かにゃあな。";"Well, let's see the look on the vixen's face.
+おっと……つい口元が緩んじまうぜ。 ぐっと堪えてクールに行かにゃあな。","Well, let's see the look on the vixen's face.
 You were so superior to me, and now you're just a loser, a loser, and a shit, and an asshole. I love it, I love it, I love it.……………… grin.
-Oops…………my mouth just dropped open. I'm going to have to hold it in and be cool about it.";"Ahora, veamos la cara de la zorra.
+Oops…………my mouth just dropped open. I'm going to have to hold it in and be cool about it.","Ahora, veamos la cara de la zorra.
 Eras tan superior a mí, y ahora sólo eres un perdedor, un perdedor, un maldito perdedor, un idiota. Buena, hombre, eso es seguro.……………… sonrisa.
 Uy,…… se me hace la boca agua. Tengo que contenerlo y mantenerlo fresco."
-"narrator";"──悪司は、 市橋蘭を閉じこめてある地下室の扉を開けた。";"Akuji opened the door to the basement where Ichihashi Ran was locked up.";"─ ─ Akuji abrió la puerta del sótano donde está encerrado Ichihashi Ran."
-"Yamamoto Akuji (talking)";"……いやー、わははははは。 よおっバカアホクソ女狐ぇ。 ざまぁねぇな、ばーかばーかばーか。
-思い知ったかこのドアホ、 おめーと俺とじゃ格が違うんだ格が。 ははぁぁぁぁん？";"…… No, wahahahahaha. Yo, you stupid stupid stupid stupid fucking vixen. Suck on that, you stupid, stupid, stupid, stupid, stupid, stupid.
-You've learned your lesson, you doofus. You and I are of different ranks. Huh?";"…… No, wahahahaha. Oye, zorra estúpida de mierda. Chúpate esa, estúpido, estúpido, estúpido, estúpido.
+"narrator","──悪司は、 市橋蘭を閉じこめてある地下室の扉を開けた。","Akuji opened the door to the basement where Ichihashi Ran was locked up.","─ ─ Akuji abrió la puerta del sótano donde está encerrado Ichihashi Ran."
+"Yamamoto Akuji (talking)","……いやー、わははははは。 よおっバカアホクソ女狐ぇ。 ざまぁねぇな、ばーかばーかばーか。
+思い知ったかこのドアホ、 おめーと俺とじゃ格が違うんだ格が。 ははぁぁぁぁん？","…… No, wahahahahaha. Yo, you stupid stupid stupid stupid fucking vixen. Suck on that, you stupid, stupid, stupid, stupid, stupid, stupid.
+You've learned your lesson, you doofus. You and I are of different ranks. Huh?","…… No, wahahahaha. Oye, zorra estúpida de mierda. Chúpate esa, estúpido, estúpido, estúpido, estúpido.
 Ahora ya sabes, bobo, que tú y yo somos de distinto rango, de distinto rango. ¿Eh?"
-"Ichihashi Ran (talking)";"……………… ああ、若旦那かい……
+"Ichihashi Ran (talking)","……………… ああ、若旦那かい……
 何とでも言っておくれよ… あんたの言うとおりあたしゃ敗者さ。
-ハナっから生きる価値なんざない、 クズな女だったのさ……";"……………… Oh, young master……
+ハナっから生きる価値なんざない、 クズな女だったのさ……","……………… Oh, young master……
 Call me what you want… You're right, I'm a loser.
-I'm a loser. I've never deserved to live. I'm a piece of shit……";"……………… Oh, joven maestro……
+I'm a loser. I've never deserved to live. I'm a piece of shit……","……………… Oh, joven maestro……
 Di lo que quieras… Tienes razón, soy un perdedor.
 Era una escoria que no merecía vivir en primer lugar……"
-"Yamamoto Akuji (talking)";"……………… なんだよ、元気のげの字もなしか。";"……………… What's up, not a word of energy?";"……………… ¿Qué pasa, ni una sola palabra de energía?"
-"Ichihashi Ran (talking)";"ふふ……そりゃそうさ。 あたしゃ負けたんだ……
+"Yamamoto Akuji (talking)","……………… なんだよ、元気のげの字もなしか。","……………… What's up, not a word of energy?","……………… ¿Qué pasa, ni una sola palabra de energía?"
+"Ichihashi Ran (talking)","ふふ……そりゃそうさ。 あたしゃ負けたんだ……
 あたしのやり方で 昔の組の体質を覆そうとして、 結果がこのザマさ……
 それに比べて、 あんたはゼロ同然のところから ここまで立ち直って……
 あたしにゃ無理だよ、そんなのはね。
-そうさ…… なにもかもあんたに負けたんだ……";"I'm not sure if that's true…… I lost……
+そうさ…… なにもかもあんたに負けたんだ……","I'm not sure if that's true…… I lost……
 I tried to overturn the old structure my way, and this is what I got……
 You, on the other hand, have come back from nothing to this ……
 I can't do that. I can't do that.
-That's right…… I've lost everything to you……";"Hmm…… Así es. He perdido……
+That's right…… I've lost everything to you……","Hmm…… Así es. He perdido……
 Intenté derribar la vieja estructura de la banda con mis métodos, y esto es lo que conseguí……
 Tú, por otro lado, has vuelto de la nada a este ……
 No puedo hacer eso.
 Así es…… Lo he perdido todo por ti……"
-"Yamamoto Akuji (talking)";"…………なんか、調子狂うなー。
-しおらしいのなんざ おめーにゃ似合わんぞ？ ピッとしろや、ピッとよ。";"………… You're going crazy!
-You don't look good with a sullen look on your face, do you? Piss off, piss off.";"………… ¡Te estás volviendo loco!
+"Yamamoto Akuji (talking)","…………なんか、調子狂うなー。
+しおらしいのなんざ おめーにゃ似合わんぞ？ ピッとしろや、ピッとよ。","………… You're going crazy!
+You don't look good with a sullen look on your face, do you? Piss off, piss off.","………… ¡Te estás volviendo loco!
 No te ves bien de forma hosca, ¿verdad? Vete a la mierda, vete a la mierda."
-"Ichihashi Ran (talking)";"…その元気もないね。
-もう、好きにしとくれ。 殺して貰っても構いやしないからさ…";"I don't have the energy for it.
-Do whatever you want. I don't mind if you do…";"…tampoco tengo energía para eso.
+"Ichihashi Ran (talking)","…その元気もないね。
+もう、好きにしとくれ。 殺して貰っても構いやしないからさ…","I don't have the energy for it.
+Do whatever you want. I don't mind if you do…","…tampoco tengo energía para eso.
 Haz lo que quieras. No me importa si me atsu…"
-"Yamamoto Akuji (talking)";"あれま。";"Oh, no.";"Oh, Dios."
-"Yamamoto Akuji (talking)";"よお、お蘭。";"Yo, ORan.";"Yo, oRan."
-"Ichihashi Ran (talking)";"ああ……若旦那かい。";"Oh…… young master, huh?";"Oh,…… joven maestro, ¿eh?"
-"Yamamoto Akuji (talking)";"んー、ちとやつれたか？";"Well, you look a little tired, don't you?";"Hmm, pareces un poco cansado, ¿no?"
-"Ichihashi Ran (talking)";"そうかい…？
+"Yamamoto Akuji (talking)","あれま。","Oh, no.","Oh, Dios."
+"Yamamoto Akuji (talking)","よお、お蘭。","Yo, ORan.","Yo, oRan."
+"Ichihashi Ran (talking)","ああ……若旦那かい。","Oh…… young master, huh?","Oh,…… joven maestro, ¿eh?"
+"Yamamoto Akuji (talking)","んー、ちとやつれたか？","Well, you look a little tired, don't you?","Hmm, pareces un poco cansado, ¿no?"
+"Ichihashi Ran (talking)","そうかい…？
 鏡、ないからね。 自分の顔なんて当分見てないよ。
-もっとも、惨めな敗者の顔なんざ 自分でも見たかないけどね……";"Is that so…?
+もっとも、惨めな敗者の顔なんざ 自分でも見たかないけどね……","Is that so…?
 I don't have a mirror. I haven't seen my own face for a while.
-I don't even want to look at my own miserable loser face……";"¿De verdad…?
+I don't even want to look at my own miserable loser face……","¿De verdad…?
 Espejo, no tengo ninguno. Hace tiempo que no me miro a la cara.
 Pero, por otra parte, yo mismo no querría ver la cara de un miserable perdedor……"
-"Yamamoto Akuji (talking)";"ったく……腐ってんなー。";"Damn,…… is so rotten!";"¡Maldita sea,…… está podrido!"
-"Yamamoto Akuji (talking)";"お蘭、おめー確か、 自分のことは好きにしろとか言ったな？";"ORan, as I recall, you told me to do what I wanted with myself, didn't you?";"ORan, dijiste, si mal no recuerdo, que hicieras lo que quisieras contigo, ¿no?"
-"Ichihashi Ran (talking)";"ああ、確かに言ったね…… それが何だってんだい。";"Oh, sure sayTane…… so what.";"Oh, claro que síTane…… ¿qué importa?"
-"Yamamoto Akuji (talking)";"なら、ついてこいや。";"Then follow me.";"Entonces sígueme."
-"Ichihashi Ran (talking)";"…………";"…………";"…………"
-"Ichihashi Ran (thinking)";"………………そうかい、 あたしの人生もここで終わりか…
-くだらない一生だったね、全く……";"……………… Well, I guess this is where my life ends…
-It's been a lifetime of crap Tane, totally ……";"……………… Bueno, supongo que aquí termina mi vida…
+"Yamamoto Akuji (talking)","ったく……腐ってんなー。","Damn,…… is so rotten!","¡Maldita sea,…… está podrido!"
+"Yamamoto Akuji (talking)","お蘭、おめー確か、 自分のことは好きにしろとか言ったな？","ORan, as I recall, you told me to do what I wanted with myself, didn't you?","ORan, dijiste, si mal no recuerdo, que hicieras lo que quisieras contigo, ¿no?"
+"Ichihashi Ran (talking)","ああ、確かに言ったね…… それが何だってんだい。","Oh, sure sayTane…… so what.","Oh, claro que síTane…… ¿qué importa?"
+"Yamamoto Akuji (talking)","なら、ついてこいや。","Then follow me.","Entonces sígueme."
+"Ichihashi Ran (talking)","…………","…………","…………"
+"Ichihashi Ran (thinking)","………………そうかい、 あたしの人生もここで終わりか…
+くだらない一生だったね、全く……","……………… Well, I guess this is where my life ends…
+It's been a lifetime of crap Tane, totally ……","……………… Bueno, supongo que aquí termina mi vida…
 Ha sido una vida de mierda Tane, totalmente ……"
-"Ichihashi Ran (talking)";"なんだい、ここは…";"What is this place…";"¿Qué es este lugar…"
-"Yamamoto Akuji (talking)";"俺の部屋だ。";"It's my room.";"Mi habitación."
-"Ichihashi Ran (talking)";"あんた、まさか…………";"You don't mean you're …………";"No querrás decir que eres …………"
-"Yamamoto Akuji (talking)";"そのまさかだ。";"No way.";"No hay manera."
-"narrator";"──悪司は蘭の手を掴むと、 やおら蘭の躰をベッドの上に押し倒した。";"Akuji grabbed Ran's hand and pushed his body down on the bed.";"─ ─ Akuji agarró la mano de Ran, y luego empujó el cuerpo de Ran hacia la cama."
-"Ichihashi Ran (talking)";"なっ、あ……あんた正気かいっ！？ あ、あたしなんぞをっ……";"You're crazy, you're a ……! Oh, you're crazy!";"¡Ustedes, ……, están locos! Oh, no me vas a dejar ……"
-"Yamamoto Akuji (talking)";"ちいっとトウが立っちゃいるが、 おめーは充分美人だと思うぞ。
-まぁ別に、欲情したから 押し倒した訳じゃねぇけどな。";"I think you're pretty enough, even if you're a bit on the tough side.
-Well, it's not that I pushed you down because I had a crush on you.";"Puede que seas un poco estirada, pero creo que eres bastante guapa.
+"Ichihashi Ran (talking)","なんだい、ここは…","What is this place…","¿Qué es este lugar…"
+"Yamamoto Akuji (talking)","俺の部屋だ。","It's my room.","Mi habitación."
+"Ichihashi Ran (talking)","あんた、まさか…………","You don't mean you're …………","No querrás decir que eres …………"
+"Yamamoto Akuji (talking)","そのまさかだ。","No way.","No hay manera."
+"narrator","──悪司は蘭の手を掴むと、 やおら蘭の躰をベッドの上に押し倒した。","Akuji grabbed Ran's hand and pushed his body down on the bed.","─ ─ Akuji agarró la mano de Ran, y luego empujó el cuerpo de Ran hacia la cama."
+"Ichihashi Ran (talking)","なっ、あ……あんた正気かいっ！？ あ、あたしなんぞをっ……","You're crazy, you're a ……! Oh, you're crazy!","¡Ustedes, ……, están locos! Oh, no me vas a dejar ……"
+"Yamamoto Akuji (talking)","ちいっとトウが立っちゃいるが、 おめーは充分美人だと思うぞ。
+まぁ別に、欲情したから 押し倒した訳じゃねぇけどな。","I think you're pretty enough, even if you're a bit on the tough side.
+Well, it's not that I pushed you down because I had a crush on you.","Puede que seas un poco estirada, pero creo que eres bastante guapa.
 Bueno, no es que te empujara porque estuviera enamorado de ti."
-"Ichihashi Ran (talking)";"……っ、まさかあんた…… あたしを堕落させて…";"……, you can't possibly…… corrupt me…";"……, no es posible que…… me corrompa…"
-"Yamamoto Akuji (talking)";"そうか、じーさんの代から うちのやり口は知ってんだな。
-だったら、暴れんじゃねえ。 無駄だって解ってる筈だ。 黙って抱かれろ。";"I see, you've known how we do things since your father's generation.
-Then don't be violent. You know it's useless. Shut up and be held.";"Ya veo, conoces nuestras tácticas desde la generación de tu abuelo.
+"Ichihashi Ran (talking)","……っ、まさかあんた…… あたしを堕落させて…","……, you can't possibly…… corrupt me…","……, no es posible que…… me corrompa…"
+"Yamamoto Akuji (talking)","そうか、じーさんの代から うちのやり口は知ってんだな。
+だったら、暴れんじゃねえ。 無駄だって解ってる筈だ。 黙って抱かれろ。","I see, you've known how we do things since your father's generation.
+Then don't be violent. You know it's useless. Shut up and be held.","Ya veo, conoces nuestras tácticas desde la generación de tu abuelo.
 Entonces no seas violento. Sabes que es inútil. Cállate y que te agarren."
-"Ichihashi Ran (talking)";"ばっ、ばかにするんじゃないよっ…！ あたしは……あたしはご隠居にっ…";"Don't be ridiculous…! I'm…… I'm a retired man…";"¡No seas ridículo…! Soy…… Soy un jubilado…"
-"Yamamoto Akuji (talking)";"……じーさんに操立ててんだろ？ そのくらい知ってらぁ。
+"Ichihashi Ran (talking)","ばっ、ばかにするんじゃないよっ…！ あたしは……あたしはご隠居にっ…","Don't be ridiculous…! I'm…… I'm a retired man…","¡No seas ridículo…! Soy…… Soy un jubilado…"
+"Yamamoto Akuji (talking)","……じーさんに操立ててんだろ？ そのくらい知ってらぁ。
 だが、んなもん関係ねぇな。 手段の一つとして試すだけよ。
-忘れんな、今のてめーは俺の捕虜だ。";"You stand Misao on…… Ji-san, don't you? I know that much.
+忘れんな、今のてめーは俺の捕虜だ。","You stand Misao on…… Ji-san, don't you? I know that much.
 But I don't care about that. I'm just trying it out as a means to an end.
-Remember, you're my prisoner now.";"Te pones Misao en…… Ji-san, ¿no? Eso lo sé.
+Remember, you're my prisoner now.","Te pones Misao en…… Ji-san, ¿no? Eso lo sé.
 Pero no importa. Sólo lo estoy probando como medio para un fin.
 Recuerda que ahora eres mi prisionero."
-"Ichihashi Ran (talking)";"……っ、く………………";"…… and ………………";"…… y ………………"
-"Yamamoto Akuji (talking)";"お。急に大人しくなったな。 それでいいんだ。";"Oh. You've become quiet all of a sudden. That's all right.";"Oh. De repente te quedas callado. Está bien."
-"Ichihashi Ran (talking)";"…………
+"Ichihashi Ran (talking)","……っ、く………………","…… and ………………","…… y ………………"
+"Yamamoto Akuji (talking)","お。急に大人しくなったな。 それでいいんだ。","Oh. You've become quiet all of a sudden. That's all right.","Oh. De repente te quedas callado. Está bien."
+"Ichihashi Ran (talking)","…………
 ああ、そうさ……あたしは捕虜さ。 好きにすりゃあいいよ。
-でも、心は許しゃあしない。 あんたなんぞにはねっ………！";"…………
+でも、心は許しゃあしない。 あんたなんぞにはねっ………！","…………
 Oh, yeah…… I'm a prisoner of war. You can do what you want.
-But my heart won't allow it. Not to you………";"…………
+But my heart won't allow it. Not to you………","…………
 Oh, sí…… Soy un prisionero de guerra. Puedes hacer lo que quieras.
 Pero mi corazón no lo permite. No para ti………"
-"Yamamoto Akuji (talking)";"さーて、どうだかな。";"Well, let's see how it goes.";"Bueno, vamos a ver cómo va."
-"narrator";"悪司は蘭の着物の前身頃に手をかけると、 力任せに広げて胸のふくらみを露出させた──";"Akuji put his hand on the front of Ran's kimono and forcefully spread it open to expose the fullness of her breasts…";"Akuji puso la mano en la parte delantera del kimono de Ran y lo abrió con fuerza para dejar al descubierto la plenitud de sus pechos…"
-"narrator";"市橋蘭は、悪司に抱かれた。";"Ichihashi Ran was embraced by Akuji.";"Ichihashi Ran fue abrazado por Akuji."
-" (talking)";"お蘭、俺の部屋まで来いや。";"Oh  Ran, come to my room.";"ORan, ven a mi habitación."
-" (talking)";"……また、私を汚す気かい……";"…… You're defiling me again: ……";"…… Me estás profanando de nuevo: ……"
-" (talking)";"汚すってのは語弊あんなあ。 ま、そう言われてもしゃあねーけど。
-ほれ、早く立て。";"I think it's a misnomer to say “pollute. Well, I can't help it if you say so.
-Come on, get up.";"Es un error decir “contaminar”. Bueno, no puedo evitarlo si tú lo dices.
+"Yamamoto Akuji (talking)","さーて、どうだかな。","Well, let's see how it goes.","Bueno, vamos a ver cómo va."
+"narrator","悪司は蘭の着物の前身頃に手をかけると、 力任せに広げて胸のふくらみを露出させた──","Akuji put his hand on the front of Ran's kimono and forcefully spread it open to expose the fullness of her breasts…","Akuji puso la mano en la parte delantera del kimono de Ran y lo abrió con fuerza para dejar al descubierto la plenitud de sus pechos…"
+"narrator","市橋蘭は、悪司に抱かれた。","Ichihashi Ran was embraced by Akuji.","Ichihashi Ran fue abrazado por Akuji."
+" (talking)","お蘭、俺の部屋まで来いや。","Oh  Ran, come to my room.","ORan, ven a mi habitación."
+" (talking)","……また、私を汚す気かい……","…… You're defiling me again: ……","…… Me estás profanando de nuevo: ……"
+" (talking)","汚すってのは語弊あんなあ。 ま、そう言われてもしゃあねーけど。
+ほれ、早く立て。","I think it's a misnomer to say “pollute. Well, I can't help it if you say so.
+Come on, get up.","Es un error decir “contaminar”. Bueno, no puedo evitarlo si tú lo dices.
 Vamos, levántate rápido."
-" (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"ほれ、入れ。";"Here, come on in.";"Aquí, entra."
-"Ichihashi Ran (talking)";"………………
-少し、時間をおくれ… 着物は、自分で脱ぐよ。";"………………
-Give me a minute… I'll take the kimono off myself.";"………………
+" (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","ほれ、入れ。","Here, come on in.","Aquí, entra."
+"Ichihashi Ran (talking)","………………
+少し、時間をおくれ… 着物は、自分で脱ぐよ。","………………
+Give me a minute… I'll take the kimono off myself.","………………
 Dame un minuto… Me quitaré el kimono yo mismo."
-"Yamamoto Akuji (talking)";"何だよ、従順だな。";"What the hell, it's obedient.";"Qué demonios, eres obediente."
-"Ichihashi Ran (talking)";"この反物、結構高いんだよ。 裂かれたりしちゃかなわないからね…";"This fabric is quite expensive. I don't want it to get ripped or anything…";"Esta tela es bastante cara. No quiero que se rasguen ni nada por el estilo…"
-"Yamamoto Akuji (talking)";"ふーん。";"Hmmm.";"Hmmm."
-"Ichihashi Ran (thinking)";"………………
+"Yamamoto Akuji (talking)","何だよ、従順だな。","What the hell, it's obedient.","Qué demonios, eres obediente."
+"Ichihashi Ran (talking)","この反物、結構高いんだよ。 裂かれたりしちゃかなわないからね…","This fabric is quite expensive. I don't want it to get ripped or anything…","Esta tela es bastante cara. No quiero que se rasguen ni nada por el estilo…"
+"Yamamoto Akuji (talking)","ふーん。","Hmmm.","Hmmm."
+"Ichihashi Ran (thinking)","………………
 変だよ、あたしゃ…… どうしちまったんだい…
 そんなに、嫌じゃない… 抱かれる覚悟、できてるよ…
- ……こんな若造に…";"………………
+ ……こんな若造に…","………………
 That's weird, I'm…… what's wrong with you…
 I don't mind so much… I'm ready to be held…
-I'm ready to be held… ……";"………………
+I'm ready to be held… ……","………………
 Es raro, estoy…… ¿Qué te pasa…
 No me importa tanto… Estoy listo para ser abrazado…
 Estoy listo para ser abrazado… ……"
-"Yamamoto Akuji (talking)";"……脱ぎ終わったみてぇだな。 ベッドに寝ろや。";"…… Looks like you're done taking off your clothes. Go lie down on the bed.";"…… Parece que has terminado de desvestirte. Acuéstate en la cama."
-"Ichihashi Ran (talking)";"急かすんじゃないよ。 言う通りにするさ……";"Don't rush me. I'll do what you say……";"No me apresures. Haré lo que dices……"
-"Ichihashi Ran (talking)";"蘭は、何度も何度もいかされた。";"Ran was raked over and over again.";"Ran fue repetidamente rastrillado sobre las brasas."
-"narrator";"──蘭が、目を覚ます。";"Ran wakes up.";"─ ─ Ran se despertará."
-"Ichihashi Ran (thinking)";"……？ なんだい、ここは……地下室？ どうして……
+"Yamamoto Akuji (talking)","……脱ぎ終わったみてぇだな。 ベッドに寝ろや。","…… Looks like you're done taking off your clothes. Go lie down on the bed.","…… Parece que has terminado de desvestirte. Acuéstate en la cama."
+"Ichihashi Ran (talking)","急かすんじゃないよ。 言う通りにするさ……","Don't rush me. I'll do what you say……","No me apresures. Haré lo que dices……"
+"Ichihashi Ran (talking)","蘭は、何度も何度もいかされた。","Ran was raked over and over again.","Ran fue repetidamente rastrillado sobre las brasas."
+"narrator","──蘭が、目を覚ます。","Ran wakes up.","─ ─ Ran se despertará."
+"Ichihashi Ran (thinking)","……？ なんだい、ここは……地下室？ どうして……
  ………………そう、か。 悪司に抱かれた後、あたしゃ眠って…
 あんな若造に犯されて… なんて無防備な……
  ………………
@@ -231,400 +231,400 @@ Estoy listo para ser abrazado… ……"
 これが血だって言うのかい？ そんな、残酷な……
  ……ご隠居……
 許して下さい、ご隠居… 蘭は、あなたのお孫さんに……
-あなたを重ねて見てしまうような、 弱い女です……";"What is this, ……? What is this, a…… basement? Why is it …………………… I see. I fell asleep after Akuji held me…
+あなたを重ねて見てしまうような、 弱い女です……","What is this, ……? What is this, a…… basement? Why is it …………………… I see. I fell asleep after Akuji held me…
 That young man raped me… How defenseless ……
  ………………
 I know…it's similar. I'm sorry to say…
 You call this blood? Such a cruel ………… your hiding place……
 Forgive me, your retirement… Ran is a Ran to your grandson……
-I'm such a weak woman that I can't help but see you over and over again……";"……? ¿Qué es esto, un sótano ……? Por qué es …………………… Claro, ¿eh? Después de que Akuji me abrazara, me dormí…
+I'm such a weak woman that I can't help but see you over and over again……","……? ¿Qué es esto, un sótano ……? Por qué es …………………… Claro, ¿eh? Después de que Akuji me abrazara, me dormí…
 Ser violada por un hombre tan joven… Qué indefensa ……
  ………………
 Soy como…. El parecido es tan sorprendente, que es casi palpable…
  ¿Llamas a esto sangre? Un…… tan cruel…… su escondite……
 Perdóname, tu jubilación… Ran a tu nieto ……
 Soy una mujer débil que te ve como una superposición de ti……"
-"__system__??";"{RND = 1:";"";""
-" (talking)";"お蘭、何が欲しい？";"Oh  Ran, what do you want?";"ORan, ¿qué quieres?"
-"Ichihashi Ran (talking)";"……何の話だい。";"…… what are you talking about.";"…… ¿De qué estás hablando?"
-" (talking)";"なんかよ、欲しいもんとかねぇのか？";"Is there anything you want?";"¿Hay algo que quieras?"
-"Ichihashi Ran (talking)";"…………買収、か。
+"__system__??","{RND = 1:","",""
+" (talking)","お蘭、何が欲しい？","Oh  Ran, what do you want?","ORan, ¿qué quieres?"
+"Ichihashi Ran (talking)","……何の話だい。","…… what are you talking about.","…… ¿De qué estás hablando?"
+" (talking)","なんかよ、欲しいもんとかねぇのか？","Is there anything you want?","¿Hay algo que quieras?"
+"Ichihashi Ran (talking)","…………買収、か。
 情けないねぇ……若旦那。 あたしが金やモノで動くとお思いかい？
-そんなのでよく組をまとめていけるね。 もっと人を見る目を養いな。";"………… acquisition, huh?
+そんなのでよく組をまとめていけるね。 もっと人を見る目を養いな。","………… acquisition, huh?
 You are pathetic,…… young master. Do you think I work with money and things?
-How can you organize a group like that? You need to learn to look at people more carefully.";"………… toma de posesión, ¿eh?
+How can you organize a group like that? You need to learn to look at people more carefully.","………… toma de posesión, ¿eh?
 Eres patético,…… joven maestro. ¿Crees que trabajo con dinero y cosas?
  ¿Cómo se puede organizar un grupo así? Deberías aprender a mirar a la gente con más atención."
-" (talking)";"……ちろっと訊いてみただけで えらい言われようだな、おい。";"…… I just asked him a few questions, and he said, “I don't know.";"…… Sólo le hice algunas preguntas y me dijo mucho, oye."
-"__system__??";"}";"";""
-"__system__??";"{RND = 2:";"";""
-" (talking)";"正直言ってよ、 おめーは優秀だ、確かにな。";"I have to admit, you're good, that's for sure.";"Debo confesar que eres bueno, eso es seguro."
-"Ichihashi Ran (talking)";"世辞かい……？ よしなよ、似合わないよ。";"Are you trying to flatter me, ……? Come on, it doesn't suit you.";"¿Me estás halagando, ……? Vamos, que no te conviene."
-" (talking)";"いいや、本音だぜ。
+" (talking)","……ちろっと訊いてみただけで えらい言われようだな、おい。","…… I just asked him a few questions, and he said, “I don't know.","…… Sólo le hice algunas preguntas y me dijo mucho, oye."
+"__system__??","}","",""
+"__system__??","{RND = 2:","",""
+" (talking)","正直言ってよ、 おめーは優秀だ、確かにな。","I have to admit, you're good, that's for sure.","Debo confesar que eres bueno, eso es seguro."
+"Ichihashi Ran (talking)","世辞かい……？ よしなよ、似合わないよ。","Are you trying to flatter me, ……? Come on, it doesn't suit you.","¿Me estás halagando, ……? Vamos, que no te conviene."
+" (talking)","いいや、本音だぜ。
 じーさんの妾ってだけで 何の肩書きもなかった頃から いろいろ意見言ってやがったよな。
 あんときの俺はただの幹部だったが、 おめーは結構切れる奴だと思ってたぜ。
-ただ、時々ちいっと 意固地になりすぎるのが 玉にキズなんだがな。";"No, I mean it.
+ただ、時々ちいっと 意固地になりすぎるのが 玉にキズなんだがな。","No, I mean it.
 You've been giving me all kinds of opinions since you were just your grandfather's concubine with no title of your own.
 I was just an executive at the time, but I thought you were a pretty sharp guy.
-But sometimes you can be a little too stubborn.";"No, lo digo en serio.
+But sometimes you can be a little too stubborn.","No, lo digo en serio.
 Me has dado todo tipo de opiniones desde que eras sólo la concubina de tu abuelo y no tenías ningún título.
 Yo era sólo un ejecutivo en ese momento, pero pensé que era un tipo muy agudo.
 El único problema es que a veces se puede ser demasiado terco."
-"Ichihashi Ran (talking)";"………………";"………………";"………………"
-" (talking)";"俺は、能力さえあるんだったら 男だの女だのにはこだわらねぇ。
+"Ichihashi Ran (talking)","………………","………………","………………"
+" (talking)","俺は、能力さえあるんだったら 男だの女だのにはこだわらねぇ。
 昔は親父の百発や加賀のおっちゃんが 何かと煩かったと思うけどよ、 今はそうじゃねえ。
-俺の部下になれ。 思う存分、おめーの能力発揮させてやる。";"I don't care about men or women as long as they are capable.
+俺の部下になれ。 思う存分、おめーの能力発揮させてやる。","I don't care about men or women as long as they are capable.
 In the past, my father's 100 rounds or old man Kaga might have bothered me, but not anymore.
-Be my man. I'll let you show off your abilities as much as you want.";"No me importa si eres hombre o mujer, mientras seas capaz.
+Be my man. I'll let you show off your abilities as much as you want.","No me importa si eres hombre o mujer, mientras seas capaz.
 En el pasado, las cien rondas de mi padre y el viejo Kaga me habrían molestado, pero ya no.
 Sé mi hombre. Te dejaré mostrar tus habilidades todo lo que quieras."
-"Ichihashi Ran (talking)";"……ずいぶんと持ち上げてもらって 恐縮なんだけどね。
+"Ichihashi Ran (talking)","……ずいぶんと持ち上げてもらって 恐縮なんだけどね。
 あたしにもプライドってもんがある。 誰があたしを負かしてコケにした男の 下になんかつくもんかい。
-帰っておくれ。";"……I'm sorry to be so much of a downer, but….
+帰っておくれ。","……I'm sorry to be so much of a downer, but….
 I have pride, too. Who would ever be under a man who beat me and made a fool of me?
-Please go home.";"……Siento que te hayan levantado tanto, pero…
+Please go home.","……Siento que te hayan levantado tanto, pero…
 Yo también tengo orgullo. ¿Quién iba a estar a las órdenes de un hombre que me pegaba y se burlaba de mí?
 Por favor, vete a casa."
-" (talking)";"やれやれ。 そういう意固地ささえなけりゃな。";"Good grief. If only I didn't have such stubbornness.";"Oh, Dios. Si no tuviéramos tanta terquedad."
-"Ichihashi Ran (talking)";"ほっといておくれよ、性格なんだ。 死ぬまで直す気はないね。";"Leave me alone, it's my personality. I'm not going to fix it until I die.";"Déjame en paz, es mi personalidad. No voy a arreglarlo hasta que me muera."
-" (talking)";"あっそ。";"Oh, yeah.";"Ah, sí."
-"__system__??";"}";"";""
-" (talking)";"お蘭、俺の部下になれ。 部下になって俺を手伝え。";"ORan, be my subordinate. Become my subordinate and help me.";"ORan, sé mi subordinado. Conviértete en mi subordinado y ayúdame."
-"Ichihashi Ran (talking)";"………………";"………………";"………………"
-" (talking)";"おっと、言い方が気に入らねぇか？
-俺は、あんたの腕を買ってる。 部下になってくれ、頼む。 使える奴は一人でも多く欲しいんだ。";"Whoa, you don't like the way I say that?
-I'm buying your skills. I want you under my command, please. I need as many good men as I can get.";"Uy, ¿no te gusta cómo lo digo?
+" (talking)","やれやれ。 そういう意固地ささえなけりゃな。","Good grief. If only I didn't have such stubbornness.","Oh, Dios. Si no tuviéramos tanta terquedad."
+"Ichihashi Ran (talking)","ほっといておくれよ、性格なんだ。 死ぬまで直す気はないね。","Leave me alone, it's my personality. I'm not going to fix it until I die.","Déjame en paz, es mi personalidad. No voy a arreglarlo hasta que me muera."
+" (talking)","あっそ。","Oh, yeah.","Ah, sí."
+"__system__??","}","",""
+" (talking)","お蘭、俺の部下になれ。 部下になって俺を手伝え。","ORan, be my subordinate. Become my subordinate and help me.","ORan, sé mi subordinado. Conviértete en mi subordinado y ayúdame."
+"Ichihashi Ran (talking)","………………","………………","………………"
+" (talking)","おっと、言い方が気に入らねぇか？
+俺は、あんたの腕を買ってる。 部下になってくれ、頼む。 使える奴は一人でも多く欲しいんだ。","Whoa, you don't like the way I say that?
+I'm buying your skills. I want you under my command, please. I need as many good men as I can get.","Uy, ¿no te gusta cómo lo digo?
 Estoy comprando tus habilidades. Quiero que seas mi hombre, por favor. Necesito tantos hombres como pueda conseguir."
-"Ichihashi Ran (talking)";"…………
-一つ、条件がある。聞いてくれるかい？";"…………
-One condition. Will you listen?";"…………
+"Ichihashi Ran (talking)","…………
+一つ、条件がある。聞いてくれるかい？","…………
+One condition. Will you listen?","…………
 Una condición. ¿Me vas a escuchar?"
-" (talking)";"おう。";"Oh.";"Oh."
-"Ichihashi Ran (talking)";"妾でも、夜伽の相手だけでも 構いやしない。 ……あんたの女にしておくれ。";"I don't care if she's your concubine or just your nighttime companion…… make me your woman.";"No me importaría ser tu concubina, o incluso sólo tu compañera de noche…… hazme tu mujer."
-" (talking)";"んな？　マジかよ。";"Hmm?　Seriously?";"¿Hmm?　En serio."
-"Ichihashi Ran (talking)";"ああ、本気さ。 ……笑ってくれていいよ。
+" (talking)","おう。","Oh.","Oh."
+"Ichihashi Ran (talking)","妾でも、夜伽の相手だけでも 構いやしない。 ……あんたの女にしておくれ。","I don't care if she's your concubine or just your nighttime companion…… make me your woman.","No me importaría ser tu concubina, o incluso sólo tu compañera de noche…… hazme tu mujer."
+" (talking)","んな？　マジかよ。","Hmm?　Seriously?","¿Hmm?　En serio."
+"Ichihashi Ran (talking)","ああ、本気さ。 ……笑ってくれていいよ。
 あたしは、あんたに…… ご隠居の姿をだぶらせちまったんだ。
 若いときのご隠居は、 きっとあんたみたいだろうねえって、 そう思ったら……
  ……憎めなくなっちまった。
-今は、あんたが愛おしいとさえ思ってる。";"Yeah, I'm serious. You can laugh at …….
+今は、あんたが愛おしいとさえ思ってる。","Yeah, I'm serious. You can laugh at …….
 I was thinking of you as…… a retired man.
 I thought that my young retiree must have been just like you………… I couldn't hate you anymore.
-Now I even love you.";"Sí, hablo en serio. Puedes reírte de …….
+Now I even love you.","Sí, hablo en serio. Puedes reírte de …….
 Tengo una imagen de ti en…… como jubilado.
 Pensé que mi joven viuda debía ser como tú………… No podría odiarte más.
 Ahora incluso te quiero."
-" (talking)";"やれやれ、こそばゆいね。";"Good grief, it's so embarrassing.";"Dios, eso es furtivo."
-"Ichihashi Ran (talking)";"歪んでるのかねえ… そんなに弱い女なのかね、あたしゃ…";"Are you warped… Are you such a weak woman, I…";"Eres una mujer tan débil, yo…"
-" (talking)";"そうでもねぇだろ。
-もしかしてよ、お蘭。 おめー、頼る奴がいなくなった組で一人 ずっと無理してたのか？";"Not really.
-Maybe,  Ran. You, the one who has no one to rely on, have you been forcing yourself all this time?";"La verdad es que no.
+" (talking)","やれやれ、こそばゆいね。","Good grief, it's so embarrassing.","Dios, eso es furtivo."
+"Ichihashi Ran (talking)","歪んでるのかねえ… そんなに弱い女なのかね、あたしゃ…","Are you warped… Are you such a weak woman, I…","Eres una mujer tan débil, yo…"
+" (talking)","そうでもねぇだろ。
+もしかしてよ、お蘭。 おめー、頼る奴がいなくなった組で一人 ずっと無理してたのか？","Not really.
+Maybe,  Ran. You, the one who has no one to rely on, have you been forcing yourself all this time?","La verdad es que no.
 Tal vez seas tú,  Ran. Tú, solo en un grupo sin nadie en quien apoyarte, ¿has estado presionando todo este tiempo?"
-"Ichihashi Ran (talking)";"………………
+"Ichihashi Ran (talking)","………………
 そうだねえ…… あんな沢山の組員の生活が 全部あたしの肩にかかってさ……
 色々しんどかったのは、事実だね…
-でも、やらなきゃいけなかったからね。 ……あたししか居なかったからさ。";"………………
+でも、やらなきゃいけなかったからね。 ……あたししか居なかったからさ。","………………
 Yes,…… so many members' lives were all on my shoulders… ……
 It's true that it was tough… but I had to do it.
-But I had to do it. I was the only one who could do it……";"………………
+But I had to do it. I was the only one who could do it……","………………
 Sí,…… las vidas de tantos miembros estaban sobre mis hombros… ……
 Es cierto que fue difícil…
 Pero tenía que hacerlo. Yo era el único que podía hacerlo……"
-" (talking)";"……そうか。 可愛い奴だったんだな、おめー。";"…… I see. You were a cute guy, dude.";"…… Ya veo. Eras un tipo encantador, sabes."
-"Ichihashi Ran (talking)";"…年上の女をからかうんじゃないよ。";"…Don't make fun of older women.";"…no te burles de las mujeres mayores."
-" (talking)";"……ま、いいぜ。 その条件呑んでもよ。";"…… Well, okay. I'm willing to accept that condition.";"…… Bueno, vale. Estoy dispuesto a aceptar esas condiciones."
-"Ichihashi Ran (talking)";"そうかい。 ……嬉しいよ。
+" (talking)","……そうか。 可愛い奴だったんだな、おめー。","…… I see. You were a cute guy, dude.","…… Ya veo. Eras un tipo encantador, sabes."
+"Ichihashi Ran (talking)","…年上の女をからかうんじゃないよ。","…Don't make fun of older women.","…no te burles de las mujeres mayores."
+" (talking)","……ま、いいぜ。 その条件呑んでもよ。","…… Well, okay. I'm willing to accept that condition.","…… Bueno, vale. Estoy dispuesto a aceptar esas condiciones."
+"Ichihashi Ran (talking)","そうかい。 ……嬉しいよ。
 でも、あの人みたいに 私を置き去りにして居なくなるのだけは 勘弁しておくれよ。
-そんなのは、もう…… こりごりだからね。";"Okay. I'm glad you're…… happy.
+そんなのは、もう…… こりごりだからね。","Okay. I'm glad you're…… happy.
 But please don't leave me behind like that guy.
-I'm not…… going to let that happen again.";"De acuerdo. Me alegro de que seas…… feliz.
+I'm not…… going to let that happen again.","De acuerdo. Me alegro de que seas…… feliz.
 Pero por favor no me dejes y desaparezcas como ese tipo.
 He…… tenido suficiente de eso."
-" (talking)";"心配すんな、んなこたぁねぇよ。
-ただ、どうにもこう、 じーさんの代用品みたいに言われるのは あんま面白くねぇんだがな。";"Don't worry, there's nothing to worry about.
-It's just that it's not very funny to be called like I'm a substitute for my old man.";"No te preocupes, no hay nada de qué preocuparse.
+" (talking)","心配すんな、んなこたぁねぇよ。
+ただ、どうにもこう、 じーさんの代用品みたいに言われるのは あんま面白くねぇんだがな。","Don't worry, there's nothing to worry about.
+It's just that it's not very funny to be called like I'm a substitute for my old man.","No te preocupes, no hay nada de qué preocuparse.
 Es que no tiene mucha gracia que me llamen como si fuera un sustituto de mi viejo."
-"Ichihashi Ran (talking)";"あ、すまないね、そんなつもりは……";"Oh, sorry, I didn't mean to ……";"Oh, lo siento, no quería ……"
-" (talking)";"別に文句つけてる訳じゃねーよ。 謝んなって。";"I'm not complaining. Don't apologize.";"No me quejo. No te disculpes."
-"Ichihashi Ran (talking)";"……そうかい。
-じゃあ……よろしく頼むよ、若旦那。";"…… I see.
-Well, then,…… please take care of me, young master.";"……. De acuerdo.
+"Ichihashi Ran (talking)","あ、すまないね、そんなつもりは……","Oh, sorry, I didn't mean to ……","Oh, lo siento, no quería ……"
+" (talking)","別に文句つけてる訳じゃねーよ。 謝んなって。","I'm not complaining. Don't apologize.","No me quejo. No te disculpes."
+"Ichihashi Ran (talking)","……そうかい。
+じゃあ……よろしく頼むよ、若旦那。","…… I see.
+Well, then,…… please take care of me, young master.","……. De acuerdo.
 Bien, entonces,…… por favor cuide de mí, joven maestro."
-" (talking)";"おう。";"Oh.";"Oh."
-"Yamamoto Akuji (talking)";"ほら、さっちゃん。 これがわかめ組本部へ続く道…… 俺の家へと続く道だぜ。";"Here, Sacchan. This is the road that leads to the Wakamegumi headquarters:…… This is the road that leads to my house, man.";"Toma, Sacchan. Este es el camino que lleva a la sede del clan Wakame…… Este es el camino que lleva a mi casa."
-"Takega Satsu (talking)";"ふむ。";"Hmm.";"Hm."
-"Yamamoto Akuji (talking)";"なんつーか、こう…… ガラにもなく、いろんな思いが 胸をよぎっては消えていくぜ。
+" (talking)","おう。","Oh.","Oh."
+"Yamamoto Akuji (talking)","ほら、さっちゃん。 これがわかめ組本部へ続く道…… 俺の家へと続く道だぜ。","Here, Sacchan. This is the road that leads to the Wakamegumi headquarters:…… This is the road that leads to my house, man.","Toma, Sacchan. Este es el camino que lleva a la sede del clan Wakame…… Este es el camino que lleva a mi casa."
+"Takega Satsu (talking)","ふむ。","Hmm.","Hm."
+"Yamamoto Akuji (talking)","なんつーか、こう…… ガラにもなく、いろんな思いが 胸をよぎっては消えていくぜ。
 出征、帰国、そんで今まで…… すったもんだあったが、 ようやくこの日が来たんだなー。
-早かったような、遅かったような。 ……なあ、さっちゃん？";"I feel like I'm…… going through all kinds of thoughts and feelings without a trace.
+早かったような、遅かったような。 ……なあ、さっちゃん？","I feel like I'm…… going through all kinds of thoughts and feelings without a trace.
 I went to war, came back to Japan, and had a lot of…… trouble until now, but this day has finally come.
-It may have been early or late…… Hey, Sachan?";"No sé,…… hay tantos pensamientos que van y vienen sin dejar rastro.
+It may have been early or late…… Hey, Sachan?","No sé,…… hay tantos pensamientos que van y vienen sin dejar rastro.
 He estado en la guerra, he vuelto a casa, he estado en…… a través de todo, y ahora este día ha llegado finalmente.
 Era temprano o tarde…… ¿Oye, Sacchan?"
-"Takega Satsu (talking)";"ふむ。";"Hmm.";"Hm."
-"Yamamoto Akuji (talking)";"……ふむふむって、 素っ気ねえなあ、さっちゃん。";"…… Hmmmmm… You're not being very frank, are you, Sachan?";"…… Hmmm… No estás siendo muy sutil, ¿verdad, Sachan?"
-"Takega Satsu (talking)";"そう言われてもな、 お前と違って私はわかめ組に対して 愛着も感慨も持っていないからな。
+"Takega Satsu (talking)","ふむ。","Hmm.","Hm."
+"Yamamoto Akuji (talking)","……ふむふむって、 素っ気ねえなあ、さっちゃん。","…… Hmmmmm… You're not being very frank, are you, Sachan?","…… Hmmm… No estás siendo muy sutil, ¿verdad, Sachan?"
+"Takega Satsu (talking)","そう言われてもな、 お前と違って私はわかめ組に対して 愛着も感慨も持っていないからな。
 だが、生家を追い出されて、 それを自分の手で取り戻した 今のお前の気持ち……
-何となく、解る気はするぞ。";"That being said, unlike you, I have no attachment or emotion toward the Wakamegumi.
+何となく、解る気はするぞ。","That being said, unlike you, I have no attachment or emotion toward the Wakamegumi.
 However, having been kicked out of my birthplace and having taken it back with my own hands, I can understand how you feel now……
-I think I understand, somehow.";"Dicho esto, a diferencia de ti, no tengo ningún apego o emoción hacia el clan Wakame.
+I think I understand, somehow.","Dicho esto, a diferencia de ti, no tengo ningún apego o emoción hacia el clan Wakame.
 Pero sé cómo te sientes ahora que te echaron de tu lugar de nacimiento y lo has recuperado con tus propias manos……
 De alguna manera, creo que lo entiendo."
-"Yamamoto Akuji (talking)";"いやまあ、そう言ってもらうほど 湿っぽい訳でもねえんだけどさ。
-ま、とにかく、 俺は部下を何人か引き連れて わかめ組本部を制圧してくるよ。";"Well, I'm not so wet as you say.
-Anyway, I'm going to take some of my men with me and take control of Wakamegumi's headquarters.";"Bueno, no estoy tan mojado como dices.
+"Yamamoto Akuji (talking)","いやまあ、そう言ってもらうほど 湿っぽい訳でもねえんだけどさ。
+ま、とにかく、 俺は部下を何人か引き連れて わかめ組本部を制圧してくるよ。","Well, I'm not so wet as you say.
+Anyway, I'm going to take some of my men with me and take control of Wakamegumi's headquarters.","Bueno, no estoy tan mojado como dices.
 De todos modos, voy a llevar a algunos de mis hombres y a invadir el cuartel general de Wakame-gumi."
-"Takega Satsu (talking)";"ああ、気を付けてな。
-私は一応、青年団事務所に 待機しておく。何かあったら すぐ呼ぶといい。";"Yeah, be careful.
-I'll be standing by at the Youth League office. If you need anything, just call me.";"Sí, ten cuidado.
+"Takega Satsu (talking)","ああ、気を付けてな。
+私は一応、青年団事務所に 待機しておく。何かあったら すぐ呼ぶといい。","Yeah, be careful.
+I'll be standing by at the Youth League office. If you need anything, just call me.","Sí, ten cuidado.
 Estaré esperando en la oficina de la Liga Juvenil. Si me necesitas, puedes llamarme directamente."
-"Yamamoto Akuji (talking)";"ま、大丈夫だと思うけどな。 ンな事がないよう気をつけるぜ。";"Well, I think I'll be fine. I'll make sure nothing like that happens.";"Bueno, creo que estaré bien. Me aseguraré de que nada de eso ocurra."
-"narrator";"結局、主要メンバーを失ったわかめ組には、 悪司に刃向かう意志を持つ者など 残っていなかった。
+"Yamamoto Akuji (talking)","ま、大丈夫だと思うけどな。 ンな事がないよう気をつけるぜ。","Well, I think I'll be fine. I'll make sure nothing like that happens.","Bueno, creo que estaré bien. Me aseguraré de que nada de eso ocurra."
+"narrator","結局、主要メンバーを失ったわかめ組には、 悪司に刃向かう意志を持つ者など 残っていなかった。
 降伏、そして土地建物の権利書譲渡。 制圧に関する手続きを終えて──
-悪司は晴れて、この屋敷の正式な主として 玄関から屋内へ上がっていった。";"In the end, the Wakame clan, which had lost its main members, had no one left with the will to stand against Akuji.
+悪司は晴れて、この屋敷の正式な主として 玄関から屋内へ上がっていった。","In the end, the Wakame clan, which had lost its main members, had no one left with the will to stand against Akuji.
 Surrender and transfer of land and building rights. After completing the procedures for suppression.
-Akuji was now the official master of this mansion. He went inside through the front door.";"Al final, tras perder a miembros clave, no quedó nadie en el clan Wakame con la voluntad de enfrentarse a Akuji.
+Akuji was now the official master of this mansion. He went inside through the front door.","Al final, tras perder a miembros clave, no quedó nadie en el clan Wakame con la voluntad de enfrentarse a Akuji.
 Cesión y transferencia de derechos de superficie y de construcción. Después de completar los procedimientos de supresión…
 Akuji era ahora el amo oficial de esta mansión. Entró por la puerta."
-"Yamamoto Akuji (talking)";"んー、やっぱ懐かしいな。 やっとこさ戦地から戻ったぞーって 感じだ。
+"Yamamoto Akuji (talking)","んー、やっぱ懐かしいな。 やっとこさ戦地から戻ったぞーって 感じだ。
 さて、本部自体の調査は もう下の連中に任せるとして…… 俺はちょいとくつろがせて貰うかぁ。
-あどっこいしょー……っと。";"I miss it. I feel like I'm finally back from the battlefield.
+あどっこいしょー……っと。","I miss it. I feel like I'm finally back from the battlefield.
 Well, I'll leave the investigation of the headquarters itself to the guys downstairs…… I'm going to relax a little bit.
-Oh, goodness gracious… ……";"Hmmm… Todavía lo echo de menos. Siento que por fin he vuelto de la guerra.
+Oh, goodness gracious… ……","Hmmm… Todavía lo echo de menos. Siento que por fin he vuelto de la guerra.
 Ahora, dejaré la investigación del cuartel general en sí a los chicos de abajo…… Me relajaré un poco.
 Oh, y aquí estoy: ……."
-"__system__??";"{RND \ 0:";"";""
-"Aoba Youko (talking)";"悪司さん！";"Akuji!";"¡Akuji!"
-"Yamamoto Akuji (talking)";"おう、ここだ。 奥の間は異常なかったか？";"Oh, here we are. Everything all right in the back room?";"Oh, aquí estamos. ¿Estaba todo bien en la trastienda?"
-"Aoba Youko (talking)";"あの…実は、ここの地下室に 市橋さんがいらっしゃいまして…";"Um… actually, there's a Mr. Ichihashi here in the basement…";"Um… en realidad, hay un Ichihashi aquí en el sótano…"
-"Yamamoto Akuji (talking)";"何だよ、あの女狐。 まだここに居たのか。
-んじゃまさっそく、 しばき倒して追い出しに……";"What the hell, that vixen. She's still here?
-Well, let's beat her to a pulp and get rid of her……";"Qué demonios, esa zorra. ¿Todavía está aquí?
+"__system__??","{RND \ 0:","",""
+"Aoba Youko (talking)","悪司さん！","Akuji!","¡Akuji!"
+"Yamamoto Akuji (talking)","おう、ここだ。 奥の間は異常なかったか？","Oh, here we are. Everything all right in the back room?","Oh, aquí estamos. ¿Estaba todo bien en la trastienda?"
+"Aoba Youko (talking)","あの…実は、ここの地下室に 市橋さんがいらっしゃいまして…","Um… actually, there's a Mr. Ichihashi here in the basement…","Um… en realidad, hay un Ichihashi aquí en el sótano…"
+"Yamamoto Akuji (talking)","何だよ、あの女狐。 まだここに居たのか。
+んじゃまさっそく、 しばき倒して追い出しに……","What the hell, that vixen. She's still here?
+Well, let's beat her to a pulp and get rid of her……","Qué demonios, esa zorra. ¿Todavía está aquí?
 Bueno, vamos a darle una paliza y deshacernos de ella……"
-"Aoba Youko (talking)";"…見ても、驚かないで下さいね…";"…Don't be surprised if you see…";"…no te sorprendas si ves…"
-"Yamamoto Akuji (talking)";"ん？ どうしたんだ？";"Hmm? What's going on?";"¿Hmm? ¿Qué está pasando?"
-"Aoba Youko (talking)";"……惨い状態に…";"…… in a miserable state…";"…… en un estado miserable…"
-"Yamamoto Akuji (talking)";"………………";"………………";"………………"
-"__system__??";"}";"";""
-"__system__??";"{RND = 0:";"";""
-"Seinendan Jyoshi (talking)";"悪司さーん。";"Akuji.";"Akuji."
-"Yamamoto Akuji (talking)";"おう、ここだ。 奥の間は異常なかったか？";"Oh, here we are. Everything all right in the back room?";"Oh, aquí estamos. ¿Estaba todo bien en la trastienda?"
-"Seinendan Jyoshi (talking)";"あの、わかめ組の組長さん …市橋さんでしたっけ、 地下室にいらっしゃったんですが…";"The leader of the Wakame group…Ichihashi was in the basement…";"El líder del clan Wakame… Ichihashi, ¿no? Estaba en el sótano…"
-"Yamamoto Akuji (talking)";"何だよ、あの女狐。 まだここに居たのか。
-んじゃまさっそく、 しばき倒して追い出しに……";"What the hell, that vixen. She's still here?
-Well, let's beat her to a pulp and get rid of her……";"Qué demonios, esa zorra. ¿Todavía está aquí?
+"Aoba Youko (talking)","…見ても、驚かないで下さいね…","…Don't be surprised if you see…","…no te sorprendas si ves…"
+"Yamamoto Akuji (talking)","ん？ どうしたんだ？","Hmm? What's going on?","¿Hmm? ¿Qué está pasando?"
+"Aoba Youko (talking)","……惨い状態に…","…… in a miserable state…","…… en un estado miserable…"
+"Yamamoto Akuji (talking)","………………","………………","………………"
+"__system__??","}","",""
+"__system__??","{RND = 0:","",""
+"Seinendan Jyoshi (talking)","悪司さーん。","Akuji.","Akuji."
+"Yamamoto Akuji (talking)","おう、ここだ。 奥の間は異常なかったか？","Oh, here we are. Everything all right in the back room?","Oh, aquí estamos. ¿Estaba todo bien en la trastienda?"
+"Seinendan Jyoshi (talking)","あの、わかめ組の組長さん …市橋さんでしたっけ、 地下室にいらっしゃったんですが…","The leader of the Wakame group…Ichihashi was in the basement…","El líder del clan Wakame… Ichihashi, ¿no? Estaba en el sótano…"
+"Yamamoto Akuji (talking)","何だよ、あの女狐。 まだここに居たのか。
+んじゃまさっそく、 しばき倒して追い出しに……","What the hell, that vixen. She's still here?
+Well, let's beat her to a pulp and get rid of her……","Qué demonios, esa zorra. ¿Todavía está aquí?
 Bueno, vamos a darle una paliza y deshacernos de ella……"
-"Seinendan Jyoshi (talking)";"でも…";"But…";"Pero…"
-"Yamamoto Akuji (talking)";"ん？ どうしたんだ？";"Hmm? What's going on?";"¿Hmm? ¿Qué está pasando?"
-"Seinendan Jyoshi (talking)";"その…あの人、お話し出来るかどうか…";"I mean, I don't know if I can talk to him…";"Quiero decir… ese hombre, no sé si puedo hablar contigo…"
-"Yamamoto Akuji (talking)";"………………";"………………";"………………"
-"__system__??";"}";"";""
-"narrator";"そこには、変わり果てた蘭が、 冷たい床の上で崩れる様に座っていた。";"There, the transformed Ran was sitting crumpled on the cold floor.";"Allí, un Ran cambiado se sentó arrugado en el frío suelo."
-"Yamamoto Akuji (talking)";"…………よお、お蘭。 生きてるのか？";"………… Yo, oRan. Are you alive?";"………… Yo, oRan. ¿Estás vivo?"
-"Ichihashi Ran (talking)";"………………………… っ、う…………";"………………………… ts, u …………";"………………………… ts, u …………"
-"Yamamoto Akuji (talking)";"素敵医師とか言うヤツに 好き勝手されてるらしいって事は 噂で聞いちゃいたが……
-こりゃまた、随分やられたみてーだな。";"I'd heard rumors that someone named Suteki Ishi was doing whatever he wanted……
-Looks like they've been beaten to the punch again.";"Había oído rumores de que alguien llamado Suteki Ishi hacía lo que quería……
+"Seinendan Jyoshi (talking)","でも…","But…","Pero…"
+"Yamamoto Akuji (talking)","ん？ どうしたんだ？","Hmm? What's going on?","¿Hmm? ¿Qué está pasando?"
+"Seinendan Jyoshi (talking)","その…あの人、お話し出来るかどうか…","I mean, I don't know if I can talk to him…","Quiero decir… ese hombre, no sé si puedo hablar contigo…"
+"Yamamoto Akuji (talking)","………………","………………","………………"
+"__system__??","}","",""
+"narrator","そこには、変わり果てた蘭が、 冷たい床の上で崩れる様に座っていた。","There, the transformed Ran was sitting crumpled on the cold floor.","Allí, un Ran cambiado se sentó arrugado en el frío suelo."
+"Yamamoto Akuji (talking)","…………よお、お蘭。 生きてるのか？","………… Yo, oRan. Are you alive?","………… Yo, oRan. ¿Estás vivo?"
+"Ichihashi Ran (talking)","………………………… っ、う…………","………………………… ts, u …………","………………………… ts, u …………"
+"Yamamoto Akuji (talking)","素敵医師とか言うヤツに 好き勝手されてるらしいって事は 噂で聞いちゃいたが……
+こりゃまた、随分やられたみてーだな。","I'd heard rumors that someone named Suteki Ishi was doing whatever he wanted……
+Looks like they've been beaten to the punch again.","Había oído rumores de que alguien llamado Suteki Ishi hacía lo que quería……
 Parece que les han vuelto a pegar mucho."
-"Ichihashi Ran (talking)";"………ああ、とうとう…… ここまで……来たのかい、悪司……
- ……いや、若旦那…………か……";"………Ah, you've finally…… made it this far, Akuji ……
- ……No, young master………… or ……";"……… Oh, finalmente…… has llegado hasta aquí, Akuji ………… No, joven maestro………… o ……"
-"Yamamoto Akuji (talking)";"気味わりぃな。 しおらしい声で人を呼ぶんじゃねぇ。";"That's creepy. Don't call people with your sultry voice.";"Eso es espeluznante. No llames a la gente con tu voz sensual."
-"Ichihashi Ran (talking)";"……あたしゃ、負けたんだ… あんたの……方が、上なんだ……
- ……これが、正しいのさ……";"……I lost… I'm better than you……… ……
- ……This is the right thing to do……";"He perdido… Soy mejor que tú …………
+"Ichihashi Ran (talking)","………ああ、とうとう…… ここまで……来たのかい、悪司……
+ ……いや、若旦那…………か……","………Ah, you've finally…… made it this far, Akuji ……
+ ……No, young master………… or ……","……… Oh, finalmente…… has llegado hasta aquí, Akuji ………… No, joven maestro………… o ……"
+"Yamamoto Akuji (talking)","気味わりぃな。 しおらしい声で人を呼ぶんじゃねぇ。","That's creepy. Don't call people with your sultry voice.","Eso es espeluznante. No llames a la gente con tu voz sensual."
+"Ichihashi Ran (talking)","……あたしゃ、負けたんだ… あんたの……方が、上なんだ……
+ ……これが、正しいのさ……","……I lost… I'm better than you……… ……
+ ……This is the right thing to do……","He perdido… Soy mejor que tú …………
  ……Esto es lo correcto……"
-"Yamamoto Akuji (talking)";"降参っつーことかよ。 なら、内輪揉めもこれで終いだな。";"So you're saying you're giving up. Then I guess this is the end of the internal strife.";"¿Significa eso que te has rendido? Entonces se acabó la lucha interna."
-"Ichihashi Ran (talking)";"………………
+"Yamamoto Akuji (talking)","降参っつーことかよ。 なら、内輪揉めもこれで終いだな。","So you're saying you're giving up. Then I guess this is the end of the internal strife.","¿Significa eso que te has rendido? Entonces se acabó la lucha interna."
+"Ichihashi Ran (talking)","………………
 くっ……くくくっ……
- ……どうして……こんな…… こうなっちまったんだろうね………";"………………
+ ……どうして……こんな…… こうなっちまったんだろうね………","………………
 Kukkukkukkukkukkukkukkukkukkukkukkukkukkukkukkukkukkuk ……
-I wonder how…… this…… happened…… like this…… …";"………………
+I wonder how…… this…… happened…… like this…… …","………………
  
 Me pregunto cómo…… esto…… sucedió…… así…… …"
-"Yamamoto Akuji (talking)";"ツメが甘かったんだよ。";"The claws were too tight.";"Las garras estaban demasiado apretadas."
-"Ichihashi Ran (talking)";"……それだけじゃ、ないよ…… ちょっと……調子に、乗りすぎたのさ…
+"Yamamoto Akuji (talking)","ツメが甘かったんだよ。","The claws were too tight.","Las garras estaban demasiado apretadas."
+"Ichihashi Ran (talking)","……それだけじゃ、ないよ…… ちょっと……調子に、乗りすぎたのさ…
 枷が……なくなって、うれしくて…… 何でも、自由に……やれる、って…
  …………何でも……かんでも、 自分だけで……できるんだって……
  ……やらなくちゃ、いけなくて……
- ……そうさ、 調子に……乗ってたのさ……";"It's not just…… that……… I got a little…… carried away…
+ ……そうさ、 調子に……乗ってたのさ……","It's not just…… that……… I got a little…… carried away…
 I'm just happy to be…… free to do whatever I want…… because I don't have any shackles anymore…
 I'm so happy to be free to do………… anything…… I can do…… on my own! ……
 I had to…… do it, I had to ……
- ……Yeah, I was on…… a roll……";"No es sólo…… que……… me he dejado llevar un poco ………
+ ……Yeah, I was on…… a roll……","No es sólo…… que……… me he dejado llevar un poco ………
 Estoy feliz de ser…… libre para hacer lo que quiera…… porque ya no tengo grilletes…
 Puedo………… hacer cualquier cosa…… que quiera, puedo…… hacerlo todo por mi cuenta……
 Tuve que…… hacerlo, tuve que ………… Sí, estaba en…… un rollo……"
-"Yamamoto Akuji (talking)";"風呂、入れてやろーか？";"You want me to give you a bath?";"¿Puedo darte un baño?"
-"Ichihashi Ran (talking)";"……………… 若旦那……";"……………… Wakatana ……";"……………… Wakatana ……"
-"Yamamoto Akuji (talking)";"お蘭は昔っから、じーさん、じーさんで べったりだったからな。
+"Yamamoto Akuji (talking)","風呂、入れてやろーか？","You want me to give you a bath?","¿Puedo darte un baño?"
+"Ichihashi Ran (talking)","……………… 若旦那……","……………… Wakatana ……","……………… Wakatana ……"
+"Yamamoto Akuji (talking)","お蘭は昔っから、じーさん、じーさんで べったりだったからな。
 それがいなくなっちまって、余計、 訳わかんなくなっちまったんだろ？
 突然ひとりっきりに されたんじゃ、しゃあねぇよ。 調子も狂って当然だ。
-ま、誰でもそんなもんだ。 俺は違うけどな。";"Ran has always been a close friend of my granddad and granddad.
+ま、誰でもそんなもんだ。 俺は違うけどな。","Ran has always been a close friend of my granddad and granddad.
 Now that he's gone, he's even more confused, isn't he?
 It's no wonder you're out of sorts when you're suddenly left all alone. It's natural to be out of sorts.
-Everyone is like that. Not me, though.";"Ran siempre ha sido muy amigo de mis abuelos.
+Everyone is like that. Not me, though.","Ran siempre ha sido muy amigo de mis abuelos.
 Ahora que se han ido, estás aún más confundido, ¿no?
 Si de repente te quedas solo, no es de extrañar que estés desubicado. No es de extrañar que estés desanimado.
 Bueno, todo el mundo es así. Yo no soy así."
-"Ichihashi Ran (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"せめてじーさんが組に居りゃあ、 お蘭も、もうちょっと楽にして いられたんだろうけどな。
-ま、あんな好き勝手に生きてる じーさんでもおめーには 必要だったんだろ。";"If your grandfather had been in the group, it would have been a little easier for you, Ran.
-Well, even that old man who lives his life as he pleases was necessary for you, wasn't he?";"Si tu abuelo hubiera estado al menos en el grupo, tú,  Ran, habrías estado un poco más tranquilo.
+"Ichihashi Ran (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","せめてじーさんが組に居りゃあ、 お蘭も、もうちょっと楽にして いられたんだろうけどな。
+ま、あんな好き勝手に生きてる じーさんでもおめーには 必要だったんだろ。","If your grandfather had been in the group, it would have been a little easier for you, Ran.
+Well, even that old man who lives his life as he pleases was necessary for you, wasn't he?","Si tu abuelo hubiera estado al menos en el grupo, tú,  Ran, habrías estado un poco más tranquilo.
 Bueno, incluso ese viejo que vive su vida como le da la gana era necesario para ti, ¿no?"
-"Ichihashi Ran (talking)";"……何言ってんだい……
+"Ichihashi Ran (talking)","……何言ってんだい……
  ………
 いいや、図星だね……
 でも、ご隠居は……自由な人さ…
 あたしなんかじゃ…… あたしなんかのために……
-同じ所には、居てくれないさ……";"……What are you talking about……
+同じ所には、居てくれないさ……","……What are you talking about……
  ………
 No, you've hit the nail on the head ……
 But you're a…… free man…
 I'm not the one…… for me ……
-He won't stay in the same place for me ……";"……De qué estás hablando……
+He won't stay in the same place for me ……","……De qué estás hablando……
  ………
 No, has dado en el clavo……
 Pero eres un hombre libre de ………
 No se quedaría en el mismo sitio para ………
 Para mí no se quedan en el mismo sitio……"
-"Yamamoto Akuji (talking)";"ま、 じっとしてねぇじーさんだしな。";"Well, he's an old man who doesn't sit still.";"Bueno, es un viejo que no se queda quieto."
-"Ichihashi Ran (talking)";"…………ふふっ……
+"Yamamoto Akuji (talking)","ま、 じっとしてねぇじーさんだしな。","Well, he's an old man who doesn't sit still.","Bueno, es un viejo que no se queda quieto."
+"Ichihashi Ran (talking)","…………ふふっ……
 そうだねえ… もし、あたしが…死んだら……
-死んだら…あの人の邪魔にならず、 ずっと一緒にいられるかねぇ… 奥方様のようにさ……";"………… phew ……
+死んだら…あの人の邪魔にならず、 ずっと一緒にいられるかねぇ… 奥方様のようにさ……","………… phew ……
 Well… if I… die… ……
-If I die… will I be able to stay with her without disturbing her… like the Mistress ……";"………… phew ……
+If I die… will I be able to stay with her without disturbing her… like the Mistress ……","………… phew ……
 Bueno… si… si muero… ……
 Si muero… ¿podré quedarme con ella sin molestarla… como el Ama……"
-"narrator";"そう言って、蘭はドスを喉に当てた。";"Then Ran put the doss to his throat.";"Diciendo esto, Ran puso su dos contra su garganta."
-"Yamamoto Akuji (talking)";"お蘭！！";"ORan!";"¡ORan!"
-"Ichihashi Ran (talking)";"これまでの事、許しておくれ…… ……さよなら、若旦那……";"Forgive me for what I have done so far………… Goodbye, young master……";"Perdóname por lo que he hecho hasta ahora………… Adiós, joven maestro……"
-"narrator";"蘭が、切っ先に向かって、 体重をかけた。
- 　　［ぱしっっ］";"Ran put his weight toward the tip.
- 　　［”Pssst!]";"Ran puso su peso hacia el filo.
+"narrator","そう言って、蘭はドスを喉に当てた。","Then Ran put the doss to his throat.","Diciendo esto, Ran puso su dos contra su garganta."
+"Yamamoto Akuji (talking)","お蘭！！","ORan!","¡ORan!"
+"Ichihashi Ran (talking)","これまでの事、許しておくれ…… ……さよなら、若旦那……","Forgive me for what I have done so far………… Goodbye, young master……","Perdóname por lo que he hecho hasta ahora………… Adiós, joven maestro……"
+"narrator","蘭が、切っ先に向かって、 体重をかけた。
+ 　　［ぱしっっ］","Ran put his weight toward the tip.
+ 　　［”Pssst!]","Ran puso su peso hacia el filo.
  　　[Empujando]."
-"Ichihashi Ran (talking)";"つっ！？";"Ts!";"¡T!"
-"narrator";"どこからか飛んできた十円玉が蘭の手に当たり、 蘭はびくりと手を震わせ、ドスを落とす。";"A ten-yen coin comes flying from somewhere and hits Ran's hand, and Ran shakes his hand and drops his doss.";"Una moneda de diez yenes sale volando de algún lugar y golpea la mano de Ran, haciendo que Ran tiemble y deje caer su dos."
-" (talking)";"なぁにやってんだ… 気弱になったな、お蘭。";"What are you doing… you're getting feeble, ORan.";"Qué haces… Te estás debilitando, ORan."
-"narrator";"悪司の背中側、わかめ組の屋敷へと戻る 階段の奥から声がする。
-そして、コツ、コツと足音が近付いてくる──";"Back at Akuji's back side, back to the Wakame clan's mansion, a voice comes from the back of the stairs.
-Then, the sound of footsteps approaching…";"En la parte trasera de Akuji, de vuelta a la mansión del clan Wakame, una voz llega desde el fondo de la escalera.
+"Ichihashi Ran (talking)","つっ！？","Ts!","¡T!"
+"narrator","どこからか飛んできた十円玉が蘭の手に当たり、 蘭はびくりと手を震わせ、ドスを落とす。","A ten-yen coin comes flying from somewhere and hits Ran's hand, and Ran shakes his hand and drops his doss.","Una moneda de diez yenes sale volando de algún lugar y golpea la mano de Ran, haciendo que Ran tiemble y deje caer su dos."
+" (talking)","なぁにやってんだ… 気弱になったな、お蘭。","What are you doing… you're getting feeble, ORan.","Qué haces… Te estás debilitando, ORan."
+"narrator","悪司の背中側、わかめ組の屋敷へと戻る 階段の奥から声がする。
+そして、コツ、コツと足音が近付いてくる──","Back at Akuji's back side, back to the Wakame clan's mansion, a voice comes from the back of the stairs.
+Then, the sound of footsteps approaching…","En la parte trasera de Akuji, de vuelta a la mansión del clan Wakame, una voz llega desde el fondo de la escalera.
 Entonces, el sonido de pasos se acerca…"
-"Ichihashi Ran (talking)";"この声……気配…………
-まっ、まさか……";"This voice…… sign…………
-Well, no way……";"Esta voz…… signo…………
+"Ichihashi Ran (talking)","この声……気配…………
+まっ、まさか……","This voice…… sign…………
+Well, no way……","Esta voz…… signo…………
 Bueno, no hay manera……"
-"Yamamoto Ippatsu (talking)";"どうした。 しっかりしろよ、お蘭。";"What's up. Pull yourself together, ORan.";"Lo que está mal. Contrólate, ORan."
-"Ichihashi Ran (talking)";"ご隠居……！！";"Gosh, ……!!!!";"¡¡Retirado ……!!"
-"Yamamoto Akuji (talking)";"何だよ、じーさんじゃねえか！ いつここへ？";"What the hell, you're an old man! When did you get here?";"¡Qué demonios, eres un viejo! ¿Cuándo llegaste?"
-"Yamamoto Ippatsu (talking)";"お前の勝利を祝ってやろうと、つい今な。
-地下室でこんな事になっておるとは 想像しておらんかったがな。";"I just now came to congratulate you on your victory.
-I never imagined this happening in the basement.";"Sólo quería felicitarle por su victoria.
+"Yamamoto Ippatsu (talking)","どうした。 しっかりしろよ、お蘭。","What's up. Pull yourself together, ORan.","Lo que está mal. Contrólate, ORan."
+"Ichihashi Ran (talking)","ご隠居……！！","Gosh, ……!!!!","¡¡Retirado ……!!"
+"Yamamoto Akuji (talking)","何だよ、じーさんじゃねえか！ いつここへ？","What the hell, you're an old man! When did you get here?","¡Qué demonios, eres un viejo! ¿Cuándo llegaste?"
+"Yamamoto Ippatsu (talking)","お前の勝利を祝ってやろうと、つい今な。
+地下室でこんな事になっておるとは 想像しておらんかったがな。","I just now came to congratulate you on your victory.
+I never imagined this happening in the basement.","Sólo quería felicitarle por su victoria.
 Nunca imaginé que esto sucediera en tu sótano."
-"Ichihashi Ran (talking)";"ごっ、ご隠居…… お願いです、この蘭一生のお願いです！ 黙って死なせて下さい……！
-あっ……あたし… こんな、取り返しのつかない事を……";"Gosh, please, please, please, this Ran for the rest of my life ……! Please shut up and let me die……!
-Oh,…… I… I've done such an irreparable ……";"¡Dios, por favor, retira…… por favor, este Ran para el resto de mi vida! ¡Por favor, cállate y déjame morir……!
+"Ichihashi Ran (talking)","ごっ、ご隠居…… お願いです、この蘭一生のお願いです！ 黙って死なせて下さい……！
+あっ……あたし… こんな、取り返しのつかない事を……","Gosh, please, please, please, this Ran for the rest of my life ……! Please shut up and let me die……!
+Oh,…… I… I've done such an irreparable ……","¡Dios, por favor, retira…… por favor, este Ran para el resto de mi vida! ¡Por favor, cállate y déjame morir……!
 Oh,…… Yo… he hecho un…… tan irreparable"
-"Yamamoto Ippatsu (talking)";"……お蘭。 死んじまったら、それ以上は なくなってしまうんだぞ。
-お前は、ドン底のまま死んでくのか？ それでいいのか？　お蘭。";"…… ORan. When you die, you're no more.
-You're going to die in the doldrums, aren't you? Is that what you want?　ORan.";"…… ORan. Cuando mueres, ya no estás.
+"Yamamoto Ippatsu (talking)","……お蘭。 死んじまったら、それ以上は なくなってしまうんだぞ。
+お前は、ドン底のまま死んでくのか？ それでいいのか？　お蘭。","…… ORan. When you die, you're no more.
+You're going to die in the doldrums, aren't you? Is that what you want?　ORan.","…… ORan. Cuando mueres, ya no estás.
  ¿Vas a morir en la depresión? ¿Es eso lo que quieres?　ORan."
-"Ichihashi Ran (talking)";"だっ…………だって…… だって、あたしは……あたしはっ………
-ご……ご隠居以外の人に、躰を……！！";"Because………… because…… because I'm…… I'm ………
-I'm not a…… man, I'm a body…… man!";"Porque………… porque…… porque soy…… soy ………
+"Ichihashi Ran (talking)","だっ…………だって…… だって、あたしは……あたしはっ………
+ご……ご隠居以外の人に、躰を……！！","Because………… because…… because I'm…… I'm ………
+I'm not a…… man, I'm a body…… man!","Porque………… porque…… porque soy…… soy ………
 No soy…… un jubilado, ¡soy un cuerpo ……!"
-"Yamamoto Ippatsu (talking)";"それがどうした。 そんな事で、お前の価値は ゆるがないだろ、お蘭。
+"Yamamoto Ippatsu (talking)","それがどうした。 そんな事で、お前の価値は ゆるがないだろ、お蘭。
 ワシに愛された誇りはどうした。
 お前は、うれしそうにそれをワシに 語ってたじゃないか。 褥の中で。
-お前の中では、 それまで汚れてしまったのか？";"So what. That doesn't make you any less worthy, Ran.
+お前の中では、 それまで汚れてしまったのか？","So what. That doesn't make you any less worthy, Ran.
 Where's your pride in being loved by me?
 You used to tell me how happy you were to be loved by me. In the cushions.
-Have you been soiled in your own mind?";"¿Qué hay de eso? Eso no te hace menos digno, ORan.
+Have you been soiled in your own mind?","¿Qué hay de eso? Eso no te hace menos digno, ORan.
  ¿Dónde está tu orgullo de ser amado por mí?
 Me lo contabas con tanta alegría. En los cojines.
  ¿Te has ensuciado en tu propia mente?"
-"Ichihashi Ran (talking)";"ご…………ご隠居……";"Re …………Retirement……";"Ju …………Jubilación ……"
-"Yamamoto Ippatsu (talking)";"こい。 ワシが綺麗にしてやる。";"Come here. I'll clean you up.";"Vamos. Te limpiaré."
-"Ichihashi Ran (talking)";"……………… う…うあっ…";"……………… U…ugh…";"……………… U… ugh…"
-"narrator";"蘭はゆっくり立ち上がると、 一発の方へと歩いた。";"Ran stood up slowly and walked toward Ippatsu.";"Ran se levantó lentamente y se dirigió hacia Ippatsu."
-"Yamamoto Ippatsu (talking)";"ワシの元でゆっくり休め。 また、はばたく力が戻れば、 お前は変わりないお前に戻る。
-遠慮なく泣け、もう我慢するな。";"Rest in my arms. When you regain the strength to flap your wings again, you will be the same old you.
-Cry without reserve, and don't hold back anymore.";"Descansa conmigo. Cuando tengas fuerzas para volver a batir las alas, serás el mismo de siempre.
+"Ichihashi Ran (talking)","ご…………ご隠居……","Re …………Retirement……","Ju …………Jubilación ……"
+"Yamamoto Ippatsu (talking)","こい。 ワシが綺麗にしてやる。","Come here. I'll clean you up.","Vamos. Te limpiaré."
+"Ichihashi Ran (talking)","……………… う…うあっ…","……………… U…ugh…","……………… U… ugh…"
+"narrator","蘭はゆっくり立ち上がると、 一発の方へと歩いた。","Ran stood up slowly and walked toward Ippatsu.","Ran se levantó lentamente y se dirigió hacia Ippatsu."
+"Yamamoto Ippatsu (talking)","ワシの元でゆっくり休め。 また、はばたく力が戻れば、 お前は変わりないお前に戻る。
+遠慮なく泣け、もう我慢するな。","Rest in my arms. When you regain the strength to flap your wings again, you will be the same old you.
+Cry without reserve, and don't hold back anymore.","Descansa conmigo. Cuando tengas fuerzas para volver a batir las alas, serás el mismo de siempre.
 Llora sin reservas, no te contengas más."
-"narrator";"一発は、蘭をそっと抱きしめた。";"Ippatsu gently hugged Ran.";"Ippatsu abrazó suavemente a Ran."
-"Ichihashi Ran (talking)";"う、あ…………ああっ……
-ああああっ…………！";"Uh, ah………… ah ……
-Aaahhhh …………!";"Ugh, ah………… ah……
+"narrator","一発は、蘭をそっと抱きしめた。","Ippatsu gently hugged Ran.","Ippatsu abrazó suavemente a Ran."
+"Ichihashi Ran (talking)","う、あ…………ああっ……
+ああああっ…………！","Uh, ah………… ah ……
+Aaahhhh …………!","Ugh, ah………… ah……
  ¡Ahh ah ah …………!"
-"narrator";"──半刻ほど後。
-わかめ組本部前に、バイクへ跨った一発と、 その背にしがみついた蘭、そして、 二人を見送りに来た悪司が居た。";"About half an hour later.
-In front of the Wakamegumi headquarters, there was Ippatsu straddling a motorcycle, Ran clinging to his back, and Akuji who had come to see them off.";"Una media hora más tarde, Ippatsu y Ran se encontraban frente al cuartel general del Wakamegumi.
+"narrator","──半刻ほど後。
+わかめ組本部前に、バイクへ跨った一発と、 その背にしがみついた蘭、そして、 二人を見送りに来た悪司が居た。","About half an hour later.
+In front of the Wakamegumi headquarters, there was Ippatsu straddling a motorcycle, Ran clinging to his back, and Akuji who had come to see them off.","Una media hora más tarde, Ippatsu y Ran se encontraban frente al cuartel general del Wakamegumi.
 Frente a la sede del Wakame-gumi, estaban Ippatsu a horcajadas en una moto, Ran aferrada a su espalda, y Akuji, que había venido a despedirlos."
-"Yamamoto Ippatsu (talking)";"では悪司よ、蘭はもらっていくぞ。";"Well, Akuji, I'll take Ran.";"Entonces Akuji, yo me encargo de Ran."
-"Yamamoto Akuji (talking)";"そりゃいいんだが……じーさん、 ロクな話もしねぇまんま行くのか？";"That's all well and good, but…… old man, you're going in there without even a good talk?";"Eso está muy bien, pero…… viejo, ni siquiera vas a hablar conmigo, ¿verdad?"
-"Yamamoto Ippatsu (talking)";"む…… 何かワシに用事でもあるのか？　悪司よ。";"I'm Akuji.　Akuji.";"¿Mu…… algo que quieras de mí?　Akuji."
-"Yamamoto Akuji (talking)";"いや、別に用事っつー訳じゃねえけど。";"No, it's not that I have something to do.";"No, no es que esté en un recado."
-"Yamamoto Ippatsu (talking)";"なら良かろう。 思い出話などしてみたところで どうしようもあるまい。";"Then that's good. There is nothing I can do to help you with your reminiscences.";"Entonces eso es bueno. No hay nada que pueda hacer para ayudarte con tus reminiscencias."
-"Yamamoto Akuji (talking)";"……まーな。
-ついでに、俺とじーさんじゃあ ンなしみったれた話は似合わねえし。";"……
-And besides, such a sordid story doesn't suit me and Mr. & Mrs.";"…….
+"Yamamoto Ippatsu (talking)","では悪司よ、蘭はもらっていくぞ。","Well, Akuji, I'll take Ran.","Entonces Akuji, yo me encargo de Ran."
+"Yamamoto Akuji (talking)","そりゃいいんだが……じーさん、 ロクな話もしねぇまんま行くのか？","That's all well and good, but…… old man, you're going in there without even a good talk?","Eso está muy bien, pero…… viejo, ni siquiera vas a hablar conmigo, ¿verdad?"
+"Yamamoto Ippatsu (talking)","む…… 何かワシに用事でもあるのか？　悪司よ。","I'm Akuji.　Akuji.","¿Mu…… algo que quieras de mí?　Akuji."
+"Yamamoto Akuji (talking)","いや、別に用事っつー訳じゃねえけど。","No, it's not that I have something to do.","No, no es que esté en un recado."
+"Yamamoto Ippatsu (talking)","なら良かろう。 思い出話などしてみたところで どうしようもあるまい。","Then that's good. There is nothing I can do to help you with your reminiscences.","Entonces eso es bueno. No hay nada que pueda hacer para ayudarte con tus reminiscencias."
+"Yamamoto Akuji (talking)","……まーな。
+ついでに、俺とじーさんじゃあ ンなしみったれた話は似合わねえし。","……
+And besides, such a sordid story doesn't suit me and Mr. & Mrs.","…….
 Y además, yo y mi mujer no encajamos en una historia tan sórdida."
-"Yamamoto Ippatsu (talking)";"そういう事だ。";"That's what I mean.";"Eso es lo que quiero decir."
-"Yamamoto Akuji (talking)";"っつーかさ、じーさん。 これから一体どこへ行くんだ？
-組も取り戻したんだぜ、 窮屈な思いもねえだろうしさ、 うちに帰ってくりゃいいのによ。";"Hey, old man. Where the hell are you going now?
-You got your pair back, so why don't you just go back to your house?";"Oye, viejo. ¿A dónde diablos vas?
+"Yamamoto Ippatsu (talking)","そういう事だ。","That's what I mean.","Eso es lo que quiero decir."
+"Yamamoto Akuji (talking)","っつーかさ、じーさん。 これから一体どこへ行くんだ？
+組も取り戻したんだぜ、 窮屈な思いもねえだろうしさ、 うちに帰ってくりゃいいのによ。","Hey, old man. Where the hell are you going now?
+You got your pair back, so why don't you just go back to your house?","Oye, viejo. ¿A dónde diablos vas?
 Has recuperado a tu pareja, no tienes que sentirte atrapado, ¿por qué no te vas a casa?"
-"Yamamoto Ippatsu (talking)";"孫の世話になるほど モウロクはしておらん、心配無用。
-こんな小さなウサギ小屋より、 もっと大きな家がワシにはある。";"Don't worry, I'm not too old to take care of my grandchildren.
-I have a bigger house than this little rabbit hutch.";"No te preocupes, no estoy gorroneando a mis nietos.
+"Yamamoto Ippatsu (talking)","孫の世話になるほど モウロクはしておらん、心配無用。
+こんな小さなウサギ小屋より、 もっと大きな家がワシにはある。","Don't worry, I'm not too old to take care of my grandchildren.
+I have a bigger house than this little rabbit hutch.","No te preocupes, no estoy gorroneando a mis nietos.
 Tengo una casa más grande que esta pequeña conejera."
-"Yamamoto Akuji (talking)";"へっ？";"Huh?";"¿Eh?"
-"Yamamoto Ippatsu (talking)";"男の居場所は、無数なのさ。
- ……ハイヨー、シルバー！！";"There are a myriad of places a man can be.…… Hi-yo, Silver!";"Hay un sinfín de lugares donde un hombre puede estar.…… ¡Hola, Silver!"
-"narrator";"一発は派手にアクセルをふかせ、ウィリーを すると、風のように走り去っていった。";"Ippatsu gave a loud gasp, did a wheelie, and was off like the wind.";"Ippatsu aceleró a fondo, hizo un caballito y se fue como el viento."
-"Yamamoto Akuji (talking)";"……やれやれ、 元気なじーさんだ。
+"Yamamoto Akuji (talking)","へっ？","Huh?","¿Eh?"
+"Yamamoto Ippatsu (talking)","男の居場所は、無数なのさ。
+ ……ハイヨー、シルバー！！","There are a myriad of places a man can be.…… Hi-yo, Silver!","Hay un sinfín de lugares donde un hombre puede estar.…… ¡Hola, Silver!"
+"narrator","一発は派手にアクセルをふかせ、ウィリーを すると、風のように走り去っていった。","Ippatsu gave a loud gasp, did a wheelie, and was off like the wind.","Ippatsu aceleró a fondo, hizo un caballito y se fue como el viento."
+"Yamamoto Akuji (talking)","……やれやれ、 元気なじーさんだ。
  ………………
 お蘭の奴……嬉しそーに、 じーさんにしがみついてやがったな。
-まあ、ゆっくり休めばいいさ。";"…… Good grief, you're a cheerful old man.
+まあ、ゆっくり休めばいいさ。","…… Good grief, you're a cheerful old man.
  ………………
 Oh  Ran guy…… clung to his old man with a happy look on his face.
-Well, you get some rest.";"…… Dios mío, eres un viejo alegre.
+Well, you get some rest.","…… Dios mío, eres un viejo alegre.
  ………………
 Ese  Ran…… está tan feliz que se aferra a su viejo.
 Bueno, descansa un poco."
-"Ishihara Senju (talking)";"やっほー、おばさーん。";"Yay, auntie.";"Sí, tía."
-"Ichihashi Ran (talking)";"……………… また、あんたかい。";"……………… You're you again.";"……………… Eres tú de nuevo."
-"Ishihara Senju (talking)";"むっ、なんだよその嫌そうな顔。 また物凄い目に遭いたいの？";"Mwah, what's with that disgusted look on your face? Do you want to go through another horrendous experience?";"Mwah, ¿a qué viene esa mirada de asco? ¿Quieres que te den otra paliza?"
-"Ichihashi Ran (talking)";"…………ねえボウヤ、一つ訊くけどさ。";"………… Hey Bowyer, let me ask you one thing.";"………… Hey Bowyer, déjame hacerte una pregunta."
-"Ishihara Senju (talking)";"……いちいちムカつくおばさんだね。 子供扱いするなって言ってんだろ？";"…… You're a woman who pisses me off every time I see you. I told you not to treat me like a child, didn't I?";"…… Eres una mujer que me cabrea siempre. Te dije que no me trataras como a un niño, ¿no?"
-"Ichihashi Ran (talking)";"そりゃあたしの台詞だよ、ボウヤ。 これでも未婚で二十歳代なんだ、 おばさんじゃなくてお姉さんって呼びな。";"That's my line, boy. I'm still unmarried and in my 20s, so call me “sister,” not “aunt.";"Esa es mi línea, Bowyer. Todavía estoy soltera y tengo 20 años, así que llámame hermana, no tía."
-"Ishihara Senju (talking)";"うわー、年増が吐く定番の台詞ぅー。";"Wow, the standard line spouted by older people.";"Vaya, la frase habitual que sueltan las personas mayores."
-"Ichihashi Ran (thinking)";"…一度本気で 殺してやろうかね、このガキ…";"…I'll seriously Satsu you once, you little…";"…te voy a Satsu en serio una vez, pequeño…"
-"Ishihara Senju (talking)";"あーもう解った解った、何でもいいから 早く質問してよ、おばさん。";"Oh, I get it, I get it, I get it, whatever, just ask me a question quickly, lady.";"Oh, ya me lo he imaginado, ya me lo he imaginado, sea lo que sea, hazme una pregunta rápido, tía."
-"Ichihashi Ran (talking)";"………………この調教だけどね、 いったいどれだけ続ける気だい？
+"Ishihara Senju (talking)","やっほー、おばさーん。","Yay, auntie.","Sí, tía."
+"Ichihashi Ran (talking)","……………… また、あんたかい。","……………… You're you again.","……………… Eres tú de nuevo."
+"Ishihara Senju (talking)","むっ、なんだよその嫌そうな顔。 また物凄い目に遭いたいの？","Mwah, what's with that disgusted look on your face? Do you want to go through another horrendous experience?","Mwah, ¿a qué viene esa mirada de asco? ¿Quieres que te den otra paliza?"
+"Ichihashi Ran (talking)","…………ねえボウヤ、一つ訊くけどさ。","………… Hey Bowyer, let me ask you one thing.","………… Hey Bowyer, déjame hacerte una pregunta."
+"Ishihara Senju (talking)","……いちいちムカつくおばさんだね。 子供扱いするなって言ってんだろ？","…… You're a woman who pisses me off every time I see you. I told you not to treat me like a child, didn't I?","…… Eres una mujer que me cabrea siempre. Te dije que no me trataras como a un niño, ¿no?"
+"Ichihashi Ran (talking)","そりゃあたしの台詞だよ、ボウヤ。 これでも未婚で二十歳代なんだ、 おばさんじゃなくてお姉さんって呼びな。","That's my line, boy. I'm still unmarried and in my 20s, so call me “sister,” not “aunt.","Esa es mi línea, Bowyer. Todavía estoy soltera y tengo 20 años, así que llámame hermana, no tía."
+"Ishihara Senju (talking)","うわー、年増が吐く定番の台詞ぅー。","Wow, the standard line spouted by older people.","Vaya, la frase habitual que sueltan las personas mayores."
+"Ichihashi Ran (thinking)","…一度本気で 殺してやろうかね、このガキ…","…I'll seriously Satsu you once, you little…","…te voy a Satsu en serio una vez, pequeño…"
+"Ishihara Senju (talking)","あーもう解った解った、何でもいいから 早く質問してよ、おばさん。","Oh, I get it, I get it, I get it, whatever, just ask me a question quickly, lady.","Oh, ya me lo he imaginado, ya me lo he imaginado, sea lo que sea, hazme una pregunta rápido, tía."
+"Ichihashi Ran (talking)","………………この調教だけどね、 いったいどれだけ続ける気だい？
 あたしゃ別に生娘って訳じゃない、 男の扱いくらいは知ってるよ。 もう充分稼いでいけるはずさ。
-学ぶことなんて、 何もないはずだけどね？";"……………… How long do you think you can keep this up?
+学ぶことなんて、 何もないはずだけどね？","……………… How long do you think you can keep this up?
 I'm not a raw chick. I know how to handle a guy. I should be making enough money by now.
-There's nothing to learn, is there?";"……………… ¿Cuánto tiempo crees que puedes mantener esto?
+There's nothing to learn, is there?","……………… ¿Cuánto tiempo crees que puedes mantener esto?
 No soy una chica cruda, sé cómo manejar a un hombre. Ya debería estar ganando suficiente dinero.
 No hay nada que aprender, ¿verdad?"
-"Ishihara Senju (talking)";"ちっちっ、甘いなー。 単純短絡激烈貧弱思考だね、おばさん。
+"Ishihara Senju (talking)","ちっちっ、甘いなー。 単純短絡激烈貧弱思考だね、おばさん。
 タマネギの言うところによるとね、 おばさんの雰囲気だとどーしても 通好みな客が多くなるんだって。
-だから、ＳＭでも何でもオッケーの 上級娼婦になってもらわなきゃ 困っちゃうんだってさ。";"Tch tch tch, that's sweet. You're just a Jun short-circuited, intense, poor thinker, auntie.
+だから、ＳＭでも何でもオッケーの 上級娼婦になってもらわなきゃ 困っちゃうんだってさ。","Tch tch tch, that's sweet. You're just a Jun short-circuited, intense, poor thinker, auntie.
 According to Tamanegi, her atmosphere attracts a lot of customers who like to go out with the ladies.
-So, if she doesn't become a high class whore who is ready for anything, even SM, she'll be in trouble.";"Tiny, eso es dulce. Sólo eres un Jun cortocircuitado, intensamente mal pensado, tía.
+So, if she doesn't become a high class whore who is ready for anything, even SM, she'll be in trouble.","Tiny, eso es dulce. Sólo eres un Jun cortocircuitado, intensamente mal pensado, tía.
 Según Tamanegi, su ambiente atrae a muchos clientes a los que les gusta salir con las chicas.
 Por eso necesitan que sea una prostituta mayor dispuesta a todo, incluso al SM."
-"Ichihashi Ran (talking)";"………………
-あたしゃ、痛いのや酷いのより 優しくしたりされたりの方が 性に合ってるんだけどね……";"………………
-I'm more comfortable with being kind and gentle than with pain or worse: ……";"………………
+"Ichihashi Ran (talking)","………………
+あたしゃ、痛いのや酷いのより 優しくしたりされたりの方が 性に合ってるんだけどね……","………………
+I'm more comfortable with being kind and gentle than with pain or worse: ……","………………
 Me siento más cómodo siendo amable y gentil que con el dolor o algo peor……"
-"Ishihara Senju (talking)";"さあ、それはどうかなー？";"Come on, I don't know about that…";"Vamos, no sé si eso…"
-"Ichihashi Ran (talking)";"………意見しても聞く気なし、か。
-解ったよ、もう好きにしておくれ。 敗者の人生なんてこんなものさ……";"……… don't want to listen to your opinions, huh?
-Fine, have it your way. Such is the life of a loser……";"……… ¿Tienes una opinión y no quieres escucharla?
+"Ishihara Senju (talking)","さあ、それはどうかなー？","Come on, I don't know about that…","Vamos, no sé si eso…"
+"Ichihashi Ran (talking)","………意見しても聞く気なし、か。
+解ったよ、もう好きにしておくれ。 敗者の人生なんてこんなものさ……","……… don't want to listen to your opinions, huh?
+Fine, have it your way. Such is the life of a loser……","……… ¿Tienes una opinión y no quieres escucharla?
 Bien, haz lo que quieras ahora. Así es la vida de un perdedor……"
-"Ishihara Senju (talking)";"ん。いい覚悟じゃない。 じゃ、早く調教部屋に行こうよ、ね？";"Hmm. You're ready for this. Then let's go to the training room as soon as possible, okay?";"Hmm. Es una buena preparación. Entonces vayamos a la sala de entrenamiento rápidamente, ¿sí?"
-"Ichihashi Ran (talking)";"……解ったよ……";"…… I figured it out: ……";"…… Lo entiendo……"
-"cg narrator";"「ひ、ううッ……ひぐうっ……！ 　うあああ、うあああ……ぐ、かは……うあァ！」
+"Ishihara Senju (talking)","ん。いい覚悟じゃない。 じゃ、早く調教部屋に行こうよ、ね？","Hmm. You're ready for this. Then let's go to the training room as soon as possible, okay?","Hmm. Es una buena preparación. Entonces vayamos a la sala de entrenamiento rápidamente, ¿sí?"
+"Ichihashi Ran (talking)","……解ったよ……","…… I figured it out: ……","…… Lo entiendo……"
+"cg narrator","「ひ、ううッ……ひぐうっ……！ 　うあああ、うあああ……ぐ、かは……うあァ！」
 後ろ手に縛られた蘭を乗せた玩具の木馬が、 ぎしぎしと音を立てて揺れていた。
 その揺れの一回一回に、苦しげな蘭の呻き声が被る。
  「や、め……とくれっ……っぐ、うあ……！ 　壊れる、こわ……が、っく…………っひ……！」
@@ -677,7 +677,7 @@ Bien, haz lo que quieras ahora. Así es la vida de un perdedor……"
  「あ……ふあ………ひあア────────ッ……」
 痛覚か、悦楽か──どちらでも同じだ。
 もう、蘭の躰が受け止められる感覚の許容量は 限界に達していた。
- 「………………ふ、ぁ……ァ…………………」";"”Hi, ugh,……hi,……! 　Uh-oh, uh-oh,……gu, ka-uh,……uah!”
+ 「………………ふ、ぁ……ァ…………………」","”Hi, ugh,……hi,……! 　Uh-oh, uh-oh,……gu, ka-uh,……uah!”
 The toy wooden horse carrying Ran, who was tied behind his back, was rocking with a jarring sound.
  
 No, no, don't…… give me that! 　It's breaking, kowa…… ga, kuku………… kuhi……!”
@@ -729,7 +729,7 @@ But the stimulation that continued to be applied to the places where pleasure wa
  “A……FuA………HiaA────────
 Pain or pleasure - it's the same either way.
 The amount of sensation that Ran's body could accept had already reached its limit.
-The “………………fuh, ah……a… ………………”";"'¡Hola, ugh, ……hi, ……! 　Uh-oh, uh-oh ……gu, ka-uh ……uah!”
+The “………………fuh, ah……a… ………………”","'¡Hola, ugh, ……hi, ……! 　Uh-oh, uh-oh ……gu, ka-uh ……uah!”
 El caballo de madera de juguete que llevaba Ran, atado a la espalda, se balanceaba con un sonido de chirrido.
 El caballo de juguete de madera que llevaba Ran, atado a la espalda, se sacudía y sacudía, y cada sacudida iba acompañada de un angustioso gemido de Ran.
 No, no, no…… ¡dame eso! 　Se está rompiendo, kow…… guk………… guhi……!”
@@ -783,9 +783,9 @@ Pero la estimulación que se seguía aplicando en los lugares donde se suponía 
 Dolor o placer, es lo mismo en ambos casos.
 La capacidad de sensación que el cuerpo de Ran podía soportar ya había llegado a su límite.
  '………………f, ah……a…' ………………”"
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"cg narrator";"蘭が白目を剥いた。 上体ががくがくと揺れて、その後に突然倒れる。
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"cg narrator","蘭が白目を剥いた。 上体ががくがくと揺れて、その後に突然倒れる。
  「………………ぁ……………………ぅ……………」
  ──蘭は、木馬の首にもたれて、動かなくなった。
  「……ぜ、はっ……ぜー、はっ……ぜえっ……」
@@ -802,7 +802,7 @@ La capacidad de sensación que el cuerpo de Ran podía soportar ya había llegad
  ──ぞっとするような、冷たい目。
  「……インランババァ」
 千手は蘭の背中を蹴り飛ばす。 だがもう、蘭は起き上がるどころか 痛みに反応もしない。
- ──蹴られた程度の痛みなど、もう、 蘭にとっては痛みのうちには入らなかった。";"Ran peeled Haku eyes. His upper body jolts and then collapses abruptly.
+ ──蹴られた程度の痛みなど、もう、 蘭にとっては痛みのうちには入らなかった。","Ran peeled Haku eyes. His upper body jolts and then collapses abruptly.
  “………………a……… ……………ooooooooooooooooooooooooooooooooooooooooooooooooooooooo………… …”
  ─ ─ Ran leaned against the neck of the wooden horse and stopped moving.
  '……ze, ha……ze, ha……ze………ze………ze…'
@@ -819,7 +819,7 @@ I'm sure you'll be fine, even if you get your arms and legs cut off, you'll feel
 He looks at me with a cold, horrified look in his eyes.
  “…… inlanbaba.”
 Senju kicks Ran in the back. But Ran no longer gets up, nor does he react to the pain.
-The pain of being kicked is no longer considered pain to Ran.";"Ran peló los ojos de Haku. La parte superior de su cuerpo se sacude y de repente se desploma.
+The pain of being kicked is no longer considered pain to Ran.","Ran peló los ojos de Haku. La parte superior de su cuerpo se sacude y de repente se desploma.
  '………………a……… ……………u………… …”
  ─ ─ Ran se apoyó en el cuello del caballo de madera y dejó de moverse.
  '……ze, ha……ze, ha……ze, ha……ze, ha……ze, ha……ze, ha……ze, ha……ze, ha……ze, ha……ze, ha……ze'.
@@ -836,42 +836,42 @@ Tose, tose, tose, dice Senju, riendo con una voz que parece que está disfrutand
  - …ojos horrorizados y fríos.…… inlanbaba”.
 Senju da una patada en la espalda a Ran. Sin embargo, Ran ya no reacciona al dolor, y mucho menos se levanta.
  ─ ─ El dolor de ser pateado ya no se considera dolor para Ran."
-"Chinpira (talking)";"蘭さーん、スタンバイいいッスか？ 会場の準備終わりましたんで、 そろそろ入場お願いしまーす！";"Ran, are you ready to stand by? We've finished setting up the venue, so please enter now!";"Ran, ¿estás listo? Hemos terminado de preparar el lugar, ¡así que es hora de que entres!"
-"Ichihashi Ran (talking)";"スタンバイも何も、 こっちの下準備は普段と変わらないんだ。 訊くほどのことかい？";"We're not on standby, we're just going through the usual preparations. Is it really worth asking?";"No estamos en estado de alerta, sólo estamos haciendo la preparación habitual. ¿Realmente vale la pena preguntar?"
-"Chinpira (talking)";"ま、まあ……そりゃそうッスけど。
-何せ、俺たちスタッフも こんな仕事はあんまり経験ありやせんし。";"Well, well, ……, that's true.
-We staff members don't have much experience in this kind of work, after all.";"Bueno, bueno,…… es cierto.
+"Chinpira (talking)","蘭さーん、スタンバイいいッスか？ 会場の準備終わりましたんで、 そろそろ入場お願いしまーす！","Ran, are you ready to stand by? We've finished setting up the venue, so please enter now!","Ran, ¿estás listo? Hemos terminado de preparar el lugar, ¡así que es hora de que entres!"
+"Ichihashi Ran (talking)","スタンバイも何も、 こっちの下準備は普段と変わらないんだ。 訊くほどのことかい？","We're not on standby, we're just going through the usual preparations. Is it really worth asking?","No estamos en estado de alerta, sólo estamos haciendo la preparación habitual. ¿Realmente vale la pena preguntar?"
+"Chinpira (talking)","ま、まあ……そりゃそうッスけど。
+何せ、俺たちスタッフも こんな仕事はあんまり経験ありやせんし。","Well, well, ……, that's true.
+We staff members don't have much experience in this kind of work, after all.","Bueno, bueno,…… es cierto.
 Después de todo, el personal no tiene mucha experiencia en este tipo de trabajo."
-"Ichihashi Ran (talking)";"まあ……確かにねえ。 今時ヌード撮影会ってのもね……";"Well,…… sure, hey. Nude photo sessions nowadays……";"Bueno,…… claro, oye. Hoy en día, las sesiones de fotos al desnudo también……"
-"Chinpira (talking)";"でもその分、マニア揃いで 金払いはかなりいいッスから。";"But, because of that, they are all enthusiasts, and they pay very well.";"Pero todos son entusiastas y pagan bastante bien por ello."
-"Ichihashi Ran (talking)";"……それが今一つ解らないねぇ、 あたしを何回も抱けるほど 払ってるんだろう？
+"Ichihashi Ran (talking)","まあ……確かにねえ。 今時ヌード撮影会ってのもね……","Well,…… sure, hey. Nude photo sessions nowadays……","Bueno,…… claro, oye. Hoy en día, las sesiones de fotos al desnudo también……"
+"Chinpira (talking)","でもその分、マニア揃いで 金払いはかなりいいッスから。","But, because of that, they are all enthusiasts, and they pay very well.","Pero todos son entusiastas y pagan bastante bien por ello."
+"Ichihashi Ran (talking)","……それが今一つ解らないねぇ、 あたしを何回も抱けるほど 払ってるんだろう？
 あたしなんかは、ただ見るだけ、 ただ写真撮るだけよりも、 触って抱ける方がいいと思うけどねぇ。
-うちは、出す物出してくれりゃあ いくらでもそれが出来るんだからさ。";"…… I don't understand that at all. You pay enough to hold me many times, don't you?
+うちは、出す物出してくれりゃあ いくらでもそれが出来るんだからさ。","…… I don't understand that at all. You pay enough to hold me many times, don't you?
 I think it's better to be able to touch and hold her than to just look at her or take pictures of her.
-We can do that as much as you want as long as you give us what we want.";"…… No lo entiendo en absoluto. Pagas lo suficiente para retenerme muchas veces, ¿no?
+We can do that as much as you want as long as you give us what we want.","…… No lo entiendo en absoluto. Pagas lo suficiente para retenerme muchas veces, ¿no?
 Creo que es mejor poder tocarla y abrazarla que sólo mirarla o sólo hacerle fotos.
 Puedo hacerlo todo lo que quiera, siempre que me dé algo."
-"Chinpira (talking)";"まぁ、確かにそうッスけど、 それはそれ、これはこれなんじゃ ないスかね？
-俺なんかは何となく、イイ女の すンげぇ写真撮って持っときたいって 気持ち、解る気するッスよ。";"Well, that's true, but that's just the way it is, isn't it?
-I can understand the feeling of wanting to take a great picture of a hot girl and keep it with you.";"Es cierto, pero es así, ¿no?
+"Chinpira (talking)","まぁ、確かにそうッスけど、 それはそれ、これはこれなんじゃ ないスかね？
+俺なんかは何となく、イイ女の すンげぇ写真撮って持っときたいって 気持ち、解る気するッスよ。","Well, that's true, but that's just the way it is, isn't it?
+I can understand the feeling of wanting to take a great picture of a hot girl and keep it with you.","Es cierto, pero es así, ¿no?
 Puedo entender el sentimiento de querer tomar una gran foto de una chica sexy y guardarla contigo."
-"Ichihashi Ran (talking)";"そうかい…… 解らないのは、あたしが男じゃ ないからなのかね……";"I see…… Maybe I don't understand because I'm not a man……";"Vale…… No lo entiendo, quizá sea porque no soy un hombre……"
-"Chinpira (talking)";"……何だかえらく渋ってるッスね。 もしかして、気乗りしねぇんですかい？";"…… You seem to be very reluctant. Perhaps, you are not very keen on it?";"…… Parece que eres muy reacio. ¿Quizás no te guste?"
-"Ichihashi Ran (talking)";"まさか。 直に躰売るよりゃずっと楽だしね。 やらせてもらうよ。";"No way. It's a lot easier than selling the body directly. I'll do it.";"De ninguna manera. Es mucho más fácil que vender el cuerpo directamente. Yo lo haré."
-"Chinpira (talking)";"頼んます。 向こうの出してきた条件に合致する人は 蘭さん以外に居ないッスから。";"Please do. There is no one but Ran who matches the conditions they have given us.";"Por favor. No hay nadie más que reúna las condiciones que han puesto, excepto Ran."
-"Ichihashi Ran (talking)";"………………
-試みに……その、客の出した条件とやら、 教えてくれるかい？";"………………
-Can you try…… and tell me what the client's terms are?";"………………
+"Ichihashi Ran (talking)","そうかい…… 解らないのは、あたしが男じゃ ないからなのかね……","I see…… Maybe I don't understand because I'm not a man……","Vale…… No lo entiendo, quizá sea porque no soy un hombre……"
+"Chinpira (talking)","……何だかえらく渋ってるッスね。 もしかして、気乗りしねぇんですかい？","…… You seem to be very reluctant. Perhaps, you are not very keen on it?","…… Parece que eres muy reacio. ¿Quizás no te guste?"
+"Ichihashi Ran (talking)","まさか。 直に躰売るよりゃずっと楽だしね。 やらせてもらうよ。","No way. It's a lot easier than selling the body directly. I'll do it.","De ninguna manera. Es mucho más fácil que vender el cuerpo directamente. Yo lo haré."
+"Chinpira (talking)","頼んます。 向こうの出してきた条件に合致する人は 蘭さん以外に居ないッスから。","Please do. There is no one but Ran who matches the conditions they have given us.","Por favor. No hay nadie más que reúna las condiciones que han puesto, excepto Ran."
+"Ichihashi Ran (talking)","………………
+試みに……その、客の出した条件とやら、 教えてくれるかい？","………………
+Can you try…… and tell me what the client's terms are?","………………
  ¿Puede probar…… y decirme cuáles son las condiciones que le dio el cliente?"
-"Chinpira (talking)";"へえ。えーと、たしか……
+"Chinpira (talking)","へえ。えーと、たしか……
 大人の色香があって、 胸、腰、尻の曲線がはっきりして美しく、 でも毛深くない、綺麗な肌の女……
-そんな感じッス。";"Heh. Let's see, I think ……
+そんな感じッス。","Heh. Let's see, I think ……
 A mature, fair-skinned woman with well-defined and beautiful curves of breasts, hips and buttocks, but not hairy……
-Something like that.";"Je. Veamos, creo que ……
+Something like that.","Je. Veamos, creo que ……
 Una mujer madura, hermosa, de piel clara, con curvas bien definidas de pechos, caderas y nalgas, pero sin vello……
 Algo así."
-"Ichihashi Ran (talking)";"……なるほどね。 褒められたと思っとくよ。";"…… I see. I'll take that as a compliment.";"…… Ya veo. Lo tomaré como un cumplido."
-"cg narrator";"（……あたしが洋服に袖を通すなんて、 　いつ以来だろうね）
+"Ichihashi Ran (talking)","……なるほどね。 褒められたと思っとくよ。","…… I see. I'll take that as a compliment.","…… Ya veo. Lo tomaré como un cumplido."
+"cg narrator","（……あたしが洋服に袖を通すなんて、 　いつ以来だろうね）
 舞台の袖で、客の用意した衣装を着ながら 蘭はふと考える。
  （男の趣味ってのは、 　不思議なもんだよ、本当に……）
 髪を下ろしてリボンを結び、 側にあった大きな鏡で自分の姿を確かめる。
@@ -879,7 +879,7 @@ Algo así."
  （結構……いいもんだね、こういうのも……）
 それで、被写体として 違う自分を演じてみようという気になった。
  （さ……行ってこようかね…………）
-蘭は、客の待つ舞台へ上がっていった──";"(…… I wonder when is the last time I put my sleeves on…)
+蘭は、客の待つ舞台へ上がっていった──","(…… I wonder when is the last time I put my sleeves on…)
  (When was the last time I wore clothes?) Ran thinks to himself as he puts on an outfit prepared by a customer on the sleeve of Mai's stand.
  (A man's taste is a strange thing, really……)
 She let her hair down, tied a ribbon, and checked her appearance in the large mirror beside her.
@@ -887,7 +887,7 @@ There I was, a different me than usual.
  (It's pretty…… good, this kind of thing, too ……)
  ) That made me want to play a different role as a subject.
  (Let's go to…… and see what………… has to offer.)
-Ran went up to the Mai table, where the guests were waiting…";"(…… Me pregunto cuándo fue la última vez que me puse las mangas…)
+Ran went up to the Mai table, where the guests were waiting…","(…… Me pregunto cuándo fue la última vez que me puse las mangas…)
  (¿Cuándo fue la última vez que me puse ropa?) Ran piensa de repente mientras se pone un traje preparado por un cliente en la manga del puesto de Mai.
  (El gusto de los hombres es algo extraño, realmente……)
 Se soltó el pelo, se ató una cinta y comprobó su aspecto en el gran espejo que tenía al lado.
@@ -896,7 +896,7 @@ Se soltó el pelo, se ató una cinta y comprobó su aspecto en el gran espejo qu
 Eso me hizo querer interpretar un yo diferente como sujeto.
  (Vamos a ………………)
 Ran subió al puesto de Mai donde esperaban los invitados…"
-"cg narrator";"　　［バシャ、バシャシャッ……！］
+"cg narrator","　　［バシャ、バシャシャッ……！］
 舞台──南国風のセットに上がった瞬間、 スポットライトが浴びせられて 無数のカメラがフラッシュを焚き始めた。
  「う……」
 眩しくて、蘭は思わず目を瞬かせる。
@@ -951,7 +951,7 @@ Ran subió al puesto de Mai donde esperaban los invitados…"
 そして、秘裂に人差し指と中指を添えて Ｖの字に開き、秘裂の奥の奥までをも 彼の眼前に露出して見せた。
  ──そこは、淫らな潤みに濡れ光っていた。
  （さ……お撮りよ、好きなだけ…………）
-蘭が妖しく笑ったその瞬間、 一際多いシャッター音が降り注いできた──";"[bash, bash, bash, bash……!]
+蘭が妖しく笑ったその瞬間、 一際多いシャッター音が降り注いできた──","[bash, bash, bash, bash……!]
 The moment the Mai platform---the tropical set---surfaces, the spotlight hits it, and countless cameras flash on Hajime.
 U……”
 The dazzling light made Ran blink his eyes involuntarily.
@@ -1006,7 +1006,7 @@ Ran spreads her legs for the mania.
 Then, with her index and middle fingers on her cleft, she opens it in a V-shape, exposing even the deepest part of her cleft to his eyes.
 The place was wet and glistening with lewd moisture.
  (You can…… take as many pictures as you like…………)
-At the moment when Ran laughed, the sound of many shutter clicks came down…";"[bash, bash, bash, bash, bash ……!]
+At the moment when Ran laughed, the sound of many shutter clicks came down…","[bash, bash, bash, bash, bash ……!]
 La plataforma de Mai - en el momento en que subieron al plató tropical, fueron bañados por los focos y un sinfín de cámaras enfocaron a Hajime.
 U……”
 Deslumbrado, Ran parpadea involuntariamente.
@@ -1062,182 +1062,182 @@ Luego, con los dedos índice y corazón en la hendidura, la abre en forma de V, 
 El lugar estaba mojado y brillaba con una humedad lasciva.
  (Haz…… todas las fotos que quieras…………)
 En el momento en que Ran se rió, el sonido de un millar de obturadores salió de la habitación…"
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"おいーっす。 ヒマだったから視察に来たぞー。 タマネギ居るかーーーーーー？";"Hey, guys. I was free, so I came to visit. Is Tamanegi here?";"Hola chicos. Estaba libre, así que vine a inspeccionar. Tamanegi ¿estás aquí?"
-"Ichihashi Ran (talking)";"……………………居ないよ。 調教師連中で会議でもしてるんじゃ ないかね？";"He's not at ……………………. Maybe he's at a meeting with his trainers.";"No está en ……………………. Tal vez esté en una reunión con sus entrenadores."
-"Yamamoto Akuji (talking)";"ありゃ？　お蘭じゃねぇか。 何でおめーが出てくんだよ。";"What's that?　It's  Ran, isn't it? Why are you coming out?";"¿Eres tú?　Es  Ran, ¿no? ¿Por qué sales?"
-"Ichihashi Ran (talking)";"今のあたしゃ娼婦なんだよ。 手が空いてたんで番を頼まれたのさ。
-それ、早く帰んな。 暇だから来た、とか言うような奴は 迷惑なんだよ。";"I'm a prostitute now. I was just asked to watch over you because I had some free time.
-Well, don't go home so soon. I don't like it when people say they're here because they're free.";"Ahora soy una prostituta. Estaba libre y me pidieron que mirara.
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","おいーっす。 ヒマだったから視察に来たぞー。 タマネギ居るかーーーーーー？","Hey, guys. I was free, so I came to visit. Is Tamanegi here?","Hola chicos. Estaba libre, así que vine a inspeccionar. Tamanegi ¿estás aquí?"
+"Ichihashi Ran (talking)","……………………居ないよ。 調教師連中で会議でもしてるんじゃ ないかね？","He's not at ……………………. Maybe he's at a meeting with his trainers.","No está en ……………………. Tal vez esté en una reunión con sus entrenadores."
+"Yamamoto Akuji (talking)","ありゃ？　お蘭じゃねぇか。 何でおめーが出てくんだよ。","What's that?　It's  Ran, isn't it? Why are you coming out?","¿Eres tú?　Es  Ran, ¿no? ¿Por qué sales?"
+"Ichihashi Ran (talking)","今のあたしゃ娼婦なんだよ。 手が空いてたんで番を頼まれたのさ。
+それ、早く帰んな。 暇だから来た、とか言うような奴は 迷惑なんだよ。","I'm a prostitute now. I was just asked to watch over you because I had some free time.
+Well, don't go home so soon. I don't like it when people say they're here because they're free.","Ahora soy una prostituta. Estaba libre y me pidieron que mirara.
 Bueno, no te vayas a casa demasiado pronto. No me gusta la gente que dice que está aquí porque es libre."
-"Yamamoto Akuji (talking)";"ほー、言ってくれるじゃねぇか。 雇い主に対する言葉かよ、それが。";"Oh, you're telling me. That's what you say to your employer, isn't it?";"Me lo dices a mí, ¿no? Eso es lo que le dices a tu empleador, ¿no?"
-"Ichihashi Ran (talking)";"好きで雇われてる訳じゃないよ。 第一、雇い主だなんてぬかすなら、 仕事と暇つぶしの区別くらいつけな。";"I don't work for you because I like you. First of all, if you are an employer, you should at least distinguish between work and leisure time.";"No me gusta ser empleado. En primer lugar, si vas a llamarte empresario, al menos deberías saber la diferencia entre el trabajo y el tiempo de ocio."
-"Yamamoto Akuji (talking)";"なるほど、まぁ確かに一理あんな。
-よし、じゃあ区別をつけてやる。 今から俺は完全に暇つぶしだ。 落ちぶれたお前を見て笑ってやろう。";"I see, well, you certainly have a point.
-Okay, I'll make a distinction then. From now on, I'm completely killing time. I'm going to laugh at your fall from grace.";"Ya veo, bueno, tienes un punto.
+"Yamamoto Akuji (talking)","ほー、言ってくれるじゃねぇか。 雇い主に対する言葉かよ、それが。","Oh, you're telling me. That's what you say to your employer, isn't it?","Me lo dices a mí, ¿no? Eso es lo que le dices a tu empleador, ¿no?"
+"Ichihashi Ran (talking)","好きで雇われてる訳じゃないよ。 第一、雇い主だなんてぬかすなら、 仕事と暇つぶしの区別くらいつけな。","I don't work for you because I like you. First of all, if you are an employer, you should at least distinguish between work and leisure time.","No me gusta ser empleado. En primer lugar, si vas a llamarte empresario, al menos deberías saber la diferencia entre el trabajo y el tiempo de ocio."
+"Yamamoto Akuji (talking)","なるほど、まぁ確かに一理あんな。
+よし、じゃあ区別をつけてやる。 今から俺は完全に暇つぶしだ。 落ちぶれたお前を見て笑ってやろう。","I see, well, you certainly have a point.
+Okay, I'll make a distinction then. From now on, I'm completely killing time. I'm going to laugh at your fall from grace.","Ya veo, bueno, tienes un punto.
 Muy bien, entonces haré una distinción. A partir de ahora, estoy matando el tiempo por completo. Me voy a reír de ti cuando vea que te has caído."
-"Ichihashi Ran (talking)";"………………あんた……";"……………… you ……";"……………… usted ……"
-"Yamamoto Akuji (talking)";"心配すんな、冗談だ。 マジな顔して怒んなよ。";"Don't worry, I'm just kidding. Don't get mad with a serious face.";"No te preocupes, estoy bromeando. No te enfades con una cara seria."
-"Ichihashi Ran (talking)";"……………………
-頼むから……早く帰っとくれ。";"……………………
-Please, please, please, please,…… go home soon.";"……………………
+"Ichihashi Ran (talking)","………………あんた……","……………… you ……","……………… usted ……"
+"Yamamoto Akuji (talking)","心配すんな、冗談だ。 マジな顔して怒んなよ。","Don't worry, I'm just kidding. Don't get mad with a serious face.","No te preocupes, estoy bromeando. No te enfades con una cara seria."
+"Ichihashi Ran (talking)","……………………
+頼むから……早く帰っとくれ。","……………………
+Please, please, please, please,…… go home soon.","……………………
 Por favor,…… salga temprano."
-"Yamamoto Akuji (talking)";"おう、タマネギが居そうな時に また来るわ。
-悪かったな、お蘭。頑張れよー。";"Oh, I'll come back when Tamanegi is around.
-Sorry about that, ORan. Good luck!";"Oh, volveré cuando Tamanegi esté cerca.
+"Yamamoto Akuji (talking)","おう、タマネギが居そうな時に また来るわ。
+悪かったな、お蘭。頑張れよー。","Oh, I'll come back when Tamanegi is around.
+Sorry about that, ORan. Good luck!","Oh, volveré cuando Tamanegi esté cerca.
 Lo siento, ORan. Buena suerte."
-"Ichihashi Ran (talking)";"……………… 何が……頑張れよ、だい……";"……………… what is…… good luck, big ……";"……………… Qué es…… Buena suerte, Dai ……"
-"narrator";"　　［ヴォヴォンッ］";"[VOVONNG.]";"[VOVONNK]."
-"narrator";"道を歩いていた蘭の前に、黒い影が現れた。";"A black shadow appeared in front of Ran who was walking down the street.";"Una sombra negra apareció delante de Ran, que caminaba por la carretera."
-"Ichihashi Ran (talking)";"ご隠居……";"Retired ……";"Retirado: ……"
-"Yamamoto Ippatsu (talking)";"お蘭。";"ORan.";"ORan."
-"Ichihashi Ran (talking)";"はい…… 覚悟は出来ています……
-結果はどうあれ、あたしゃ、 ご隠居を裏切ってしまいましたからね……";"Yes,…… I'm ready for it……
-Regardless of the outcome, I have betrayed the governess……";"Sí…… Estoy listo……
+"Ichihashi Ran (talking)","……………… 何が……頑張れよ、だい……","……………… what is…… good luck, big ……","……………… Qué es…… Buena suerte, Dai ……"
+"narrator","　　［ヴォヴォンッ］","[VOVONNG.]","[VOVONNK]."
+"narrator","道を歩いていた蘭の前に、黒い影が現れた。","A black shadow appeared in front of Ran who was walking down the street.","Una sombra negra apareció delante de Ran, que caminaba por la carretera."
+"Ichihashi Ran (talking)","ご隠居……","Retired ……","Retirado: ……"
+"Yamamoto Ippatsu (talking)","お蘭。","ORan.","ORan."
+"Ichihashi Ran (talking)","はい…… 覚悟は出来ています……
+結果はどうあれ、あたしゃ、 ご隠居を裏切ってしまいましたからね……","Yes,…… I'm ready for it……
+Regardless of the outcome, I have betrayed the governess……","Sí…… Estoy listo……
 Independientemente del resultado, he traicionado a mi séquito……"
-"Yamamoto Ippatsu (talking)";"お前はそれでよいのか？";"Are you okay with that?";"¿Te parece bien?"
-"Ichihashi Ran (talking)";"……………
-極道が一度決めた道を歩かなきゃ、 お天道様に顔をあげられません。";"……………
-Once the poles have decided on a path, you can't face the heavens without walking it.";"……………
+"Yamamoto Ippatsu (talking)","お前はそれでよいのか？","Are you okay with that?","¿Te parece bien?"
+"Ichihashi Ran (talking)","……………
+極道が一度決めた道を歩かなきゃ、 お天道様に顔をあげられません。","……………
+Once the poles have decided on a path, you can't face the heavens without walking it.","……………
 No puedes enfrentarte a los cielos si no recorres el camino que los postes marcaron en su día."
-"Yamamoto Ippatsu (talking)";"ならばよい。
-アレがお前を満足させられるとは 思えんがな。 何せ、このワシの女だったのだから。";"Well, good.
-I don't think she can satisfy you. After all, she was my woman.";"Entonces, bien.
+"Yamamoto Ippatsu (talking)","ならばよい。
+アレがお前を満足させられるとは 思えんがな。 何せ、このワシの女だったのだから。","Well, good.
+I don't think she can satisfy you. After all, she was my woman.","Entonces, bien.
 No creo que pueda satisfacerte. Después de todo, era mi mujer."
-"Ichihashi Ran (talking)";"…………";"…………";"…………"
-"Yamamoto Ippatsu (talking)";"手を出せ。";"Give me your hand.";"Dame la mano."
-"Ichihashi Ran (talking)";"あ、はい……";"Ah, yes……";"Ah, sí: ……"
-"narrator";"一発は、蘭に［うさ仮面うさ］を渡した。";"Ippatsu gave [Usa Mask Usa] to Ran.";"Ippatsu entregó [Usa Masked Bunny] a Ran."
-"Ichihashi Ran (talking)";"これは……";"This can be found at ……";"Se puede encontrar en ……"
-"Yamamoto Ippatsu (talking)";"餞別じゃ。";"A parting gift.";"Un regalo de despedida."
-"Ichihashi Ran (talking)";"ご隠居……";"Retired ……";"Retirado: ……"
-"Yamamoto Ippatsu (talking)";"アレの力になってやれ。";"Help that thing.";"Ayuda a la cosa."
-"Ichihashi Ran (talking)";"はい…";"Yes…";"Sí…"
-"Yamamoto Ippatsu (talking)";"それではな。";"See you then.";"Nos vemos entonces."
-"Ichihashi Ran (talking)";"はい… ありがとうございます。";"Yes… thank you.";"Sí… gracias."
-"narrator";"蘭は一発に、腰を深く折る。
- 　　［ヴォン　ヴォヴォヴォンッッッ！］";"Ran breaks deeply at the waist to Ippatsu.
- 　　[Von von von von von von von von von von von von von von von von von von von!]";"Ran rompe profundamente en la cintura a Ippatsu.
+"Ichihashi Ran (talking)","…………","…………","…………"
+"Yamamoto Ippatsu (talking)","手を出せ。","Give me your hand.","Dame la mano."
+"Ichihashi Ran (talking)","あ、はい……","Ah, yes……","Ah, sí: ……"
+"narrator","一発は、蘭に［うさ仮面うさ］を渡した。","Ippatsu gave [Usa Mask Usa] to Ran.","Ippatsu entregó [Usa Masked Bunny] a Ran."
+"Ichihashi Ran (talking)","これは……","This can be found at ……","Se puede encontrar en ……"
+"Yamamoto Ippatsu (talking)","餞別じゃ。","A parting gift.","Un regalo de despedida."
+"Ichihashi Ran (talking)","ご隠居……","Retired ……","Retirado: ……"
+"Yamamoto Ippatsu (talking)","アレの力になってやれ。","Help that thing.","Ayuda a la cosa."
+"Ichihashi Ran (talking)","はい…","Yes…","Sí…"
+"Yamamoto Ippatsu (talking)","それではな。","See you then.","Nos vemos entonces."
+"Ichihashi Ran (talking)","はい… ありがとうございます。","Yes… thank you.","Sí… gracias."
+"narrator","蘭は一発に、腰を深く折る。
+ 　　［ヴォン　ヴォヴォヴォンッッッ！］","Ran breaks deeply at the waist to Ippatsu.
+ 　　[Von von von von von von von von von von von von von von von von von von von!]","Ran rompe profundamente en la cintura a Ippatsu.
  　　[¡Von von von von von von von von von von von von!]"
-"narrator";"その蘭をその場に置き、 一発は一人で姿を消した。";"Leaving Ran there, Ippatsu disappeared alone.";"Dejando a Ran allí, Ippatsu desapareció solo."
-"narrator";"その時、蘭はたまたま一人で 地域の巡回に出ていた。";"At that time, Ran happened to be out patrolling the area by himself.";"En ese momento, Ran se encontraba patrullando por la zona por su cuenta."
-"Ichihashi Ran (talking)";"さて…… この周辺は問題なし、かね。
+"narrator","その蘭をその場に置き、 一発は一人で姿を消した。","Leaving Ran there, Ippatsu disappeared alone.","Dejando a Ran allí, Ippatsu desapareció solo."
+"narrator","その時、蘭はたまたま一人で 地域の巡回に出ていた。","At that time, Ran happened to be out patrolling the area by himself.","En ese momento, Ran se encontraba patrullando por la zona por su cuenta."
+"Ichihashi Ran (talking)","さて…… この周辺は問題なし、かね。
  ………？ たしか、この路地の向こうは……
- …………ちょっと、寄っていこうかね。";"Now…… this neighborhood is fine, huh?
- ………? I think, across this alley is ……………… Let's just drop by for a bit.";"Ahora…… No hay problemas por aquí, ¿eh?
+ …………ちょっと、寄っていこうかね。","Now…… this neighborhood is fine, huh?
+ ………? I think, across this alley is ……………… Let's just drop by for a bit.","Ahora…… No hay problemas por aquí, ¿eh?
  ………? Creo que, a través de este callejón, ……………… Vamos a dejarnos caer un rato."
-"Ichihashi Ran (talking)";"……………… 何だか、ひどく懐かしいねえ……
+"Ichihashi Ran (talking)","……………… 何だか、ひどく懐かしいねえ……
 人気がないけれど、 若旦那はずっと無人のまま この土地と建物、遊ばせとく気かねえ…
 建物はしっかりしてるし、 設備も整ってるのにねえ。 奉仕青年団の本部に使えばいいのに……
  …………男の意地なのかね。
 あたしが一度好きにした建物だ、 ゲンが悪くて使いたくないのかもね。
 ほんとに…自分でも思うよ。 あたし風情が組長気取りでさ……
-負けて当然、か。";"……………… It's so nostalgic… ……
+負けて当然、か。","……………… It's so nostalgic… ……
 The building is very well equipped and well maintained…
 The building is solid and well-equipped. Why not use it for the headquarters of the service youth group? ……
  …………It's a man's will, isn't it?
 Maybe he doesn't want to use it because he feels bad about what I once did to it.
 I really…I think so myself. I'm the one who thinks he's the leader of the gang……
-I guess I deserved to lose.";"……………… Es terriblemente nostálgico, ¿no? ……
+I guess I deserved to lose.","……………… Es terriblemente nostálgico, ¿no? ……
 No es popular, pero el joven maestro ha dejado el terreno y el edificio sin ocupar durante mucho tiempo.
 El edificio es sólido y está bien equipado. ¿Por qué no utilizarlo para la sede de la organización juvenil del servicio? ……………… Es la voluntad de un hombre, ¿no?
 Una vez lo convertí en mi edificio favorito, quizás no quiero usarlo porque me siento mal por ello.
 Realmente… yo también lo creo. Yo soy el que cree que es el líder de la banda……
 Me merecía perder, ¿no?"
-"narrator";"蘭は踵を返して、ここから歩み去ろうとした。
- 　　［……どんっ］";"Ran turned on his heel and tried to walk away from here.
- 　　[……don't]";"Ran giró sobre sus talones y trató de alejarse de aquí.
+"narrator","蘭は踵を返して、ここから歩み去ろうとした。
+ 　　［……どんっ］","Ran turned on his heel and tried to walk away from here.
+ 　　[……don't]","Ran giró sobre sus talones y trató de alejarse de aquí.
  　　[…… dong]"
-"Ichihashi Ran (talking)";"あ、ごめ……";"Oh, sorry ……";"Oh, perdón: ……"
-"narrator";"ごめんよ、痛くなかったかい──
+"Ichihashi Ran (talking)","あ、ごめ……","Oh, sorry ……","Oh, perdón: ……"
+"narrator","ごめんよ、痛くなかったかい──
 蘭は、背中にぶつかってきた誰かに そう言おうとした。
 だが、声が出なかった。
-背中が、熱い。 ──灼けるように熱い。";"I'm sorry, didn't that hurt?
+背中が、熱い。 ──灼けるように熱い。","I'm sorry, didn't that hurt?
 Ran tried to say so to someone who bumped into his back.
 But he couldn't speak.
-My back is hot. Burning hot.";"Lo siento, no me dolió…
+My back is hot. Burning hot.","Lo siento, no me dolió…
 Ran trató de decir eso a alguien que había chocado con su espalda.
 Pero no podía hablar.
 Mi espalda está caliente. Está ardiendo."
-"dosuyakuza (talking)";"よお、売女。 よくもノコノコと帰ってこられたもんだ。";"Hey, whore. How dare you come back here?";"Oye, puta. ¿Cómo te atreves a volver aquí a escondidas?"
-"Ichihashi Ran (talking)";"あ、んた…… だ、誰…………";"Ah, nta ……, who …………";"Ah, nta…… da, que …………"
-"dosuyakuza (talking)";"ケッ、もう忘れたのかい。
+"dosuyakuza (talking)","よお、売女。 よくもノコノコと帰ってこられたもんだ。","Hey, whore. How dare you come back here?","Oye, puta. ¿Cómo te atreves a volver aquí a escondidas?"
+"Ichihashi Ran (talking)","あ、んた…… だ、誰…………","Ah, nta ……, who …………","Ah, nta…… da, que …………"
+"dosuyakuza (talking)","ケッ、もう忘れたのかい。
 ま、てめぇの下でこき使われてた 男の顔なんざ憶えちゃいねえか。
  ……てめぇの不始末で組潰しといて、 元組長が堂々と敵組織の幹部とはな。 呆れて物も言えねえぜ。
 こちとら、組が潰れたおかげで 食いぶちはなくなる女にゃ逃げられる、 踏んだり蹴ったりなんだよ。
  ……全部、てめーのせいだ。
-迷惑してる元組員全部の恨み背負って あの世にいきやがれ。 ついでに三途の川で溺れ死ねや。";"Damn, you've forgotten already?
+迷惑してる元組員全部の恨み背負って あの世にいきやがれ。 ついでに三途の川で溺れ死ねや。","Damn, you've forgotten already?
 I don't even remember the faces of the men who worked for you.…… You destroyed the gang at the end of  Hajime, and now the former head of the gang is a top executive of an enemy organization. I can't even say what I'm disgusted by.
 The only thing I can say is that I'm not a fan of this kind of thing.
 It's all your fault……
-The only thing that matters is the amount of money that you have to spend. And drown in the Sanzu River.";"Maldita sea, ¿ya lo has olvidado?
+The only thing that matters is the amount of money that you have to spend. And drown in the Sanzu River.","Maldita sea, ¿ya lo has olvidado?
 Bueno, no recuerdas las caras de los hombres que trabajaron para ti, ¿verdad?…… Destruiste la banda al final de  Hajime, y ahora tu antiguo jefe es un alto miembro de una organización enemiga. Ni siquiera puedo decir lo que me disgusta.
 El sindicato se hunde, no tenemos dinero para comer y las mujeres se salen con la suya.…… Todo es culpa tuya.
 Deberías irte al otro lado del mundo con el resentimiento de todos los ex miembros que te molestan. Y de paso, ahógate en el río Sanzu."
-"narrator";"──その元ヤクザは、蘭の背中を貫いて 腹部にまで達したドスを思い切り捻りあげた。
-そして、真っ赤な飛沫を周囲に散らせて、 力任せに刃を引き抜く。";"The ex-Yakuza twisted the blade as hard as he could, as it pierced Ran's back and reached his abdomen.
-Then, with a bright red splash, he pulled out the blade with force.";"El ex-Yakuza retuerce la daga con toda su fuerza, mientras atraviesa la espalda de Ran y llega a su abdomen.
+"narrator","──その元ヤクザは、蘭の背中を貫いて 腹部にまで達したドスを思い切り捻りあげた。
+そして、真っ赤な飛沫を周囲に散らせて、 力任せに刃を引き抜く。","The ex-Yakuza twisted the blade as hard as he could, as it pierced Ran's back and reached his abdomen.
+Then, with a bright red splash, he pulled out the blade with force.","El ex-Yakuza retuerce la daga con toda su fuerza, mientras atraviesa la espalda de Ran y llega a su abdomen.
 Entonces, con un chapoteo rojo y brillante, sacó la hoja con fuerza bruta."
-"narrator";"蘭は、声にならない呻きと共に頽れる。
-地に伏した蘭の周囲に、血の海が広がっていく──";"Ran falls to the ground with an inaudible moan.
-A sea of blood spreads around Ran, who lies on the ground…";"Ran se derrumba con un gemido inaudible.
+"narrator","蘭は、声にならない呻きと共に頽れる。
+地に伏した蘭の周囲に、血の海が広がっていく──","Ran falls to the ground with an inaudible moan.
+A sea of blood spreads around Ran, who lies on the ground…","Ran se derrumba con un gemido inaudible.
 Un mar de sangre se extiende alrededor de Ran, que yace en el suelo…"
-"dosuyakuza (talking)";"へ、へへ…… ざまぁみろ、へへへっ……
-へへへ、へへへへへ……";"Heh, heh, heh…… Suck it up, heh, heh……
-Heh, heh, heh……";"Heh, heh, heh…… Chúpate esa, heh, heh……
+"dosuyakuza (talking)","へ、へへ…… ざまぁみろ、へへへっ……
+へへへ、へへへへへ……","Heh, heh, heh…… Suck it up, heh, heh……
+Heh, heh, heh……","Heh, heh, heh…… Chúpate esa, heh, heh……
 Je, je, je……"
-"narrator";"──暫し後。 いつまでも帰ってこない蘭を案じた仲間が わかめ組前にやって来たのだが──
-その時、蘭は既に事切れていた。";"A while later… The others, concerned about Ran who had not returned, came to Wakame-gumi, but…
-At that time, Ran had already run out of steam.";"─ Un rato después… Los demás, preocupados por Ran, que no había regresado, acudieron a Wakame-gumi…
+"narrator","──暫し後。 いつまでも帰ってこない蘭を案じた仲間が わかめ組前にやって来たのだが──
+その時、蘭は既に事切れていた。","A while later… The others, concerned about Ran who had not returned, came to Wakame-gumi, but…
+At that time, Ran had already run out of steam.","─ Un rato después… Los demás, preocupados por Ran, que no había regresado, acudieron a Wakame-gumi…
 En ese momento, Ran ya se había agotado."
-"Chinpira (talking)";"たっ……大変ですっ！！ とうとう悪司の組織が センリに兵隊送り込んできやした！！";"Oh my God, ……! The Akuji organization has finally sent soldiers to Senri!";"¡Oh, ……, estamos en problemas! ¡La organización Akuji finalmente ha enviado soldados a Senri!"
-"Elite Yakuza (talking)";"……とうとうここまで来たのか。 急いで姐さんに連絡を……";"…… finally here at last. Hurry up and contact Miss ……";"…… ¿hemos llegado finalmente a este punto? Date prisa y contacta con la señorita ……"
-"Ichihashi Ran (talking)";"…………必要ないよ。 もう聞こえたからね。";"You don't need …………. I already heard you.";"No necesitas …………. Ya te he escuchado."
-"Chinpira (talking)";"あっ、姐さん…………";"Oh, Miss …………";"Ah, señorita …………"
-"Ichihashi Ran (talking)";"ふ……ふふっ、ははははっ……
+"Chinpira (talking)","たっ……大変ですっ！！ とうとう悪司の組織が センリに兵隊送り込んできやした！！","Oh my God, ……! The Akuji organization has finally sent soldiers to Senri!","¡Oh, ……, estamos en problemas! ¡La organización Akuji finalmente ha enviado soldados a Senri!"
+"Elite Yakuza (talking)","……とうとうここまで来たのか。 急いで姐さんに連絡を……","…… finally here at last. Hurry up and contact Miss ……","…… ¿hemos llegado finalmente a este punto? Date prisa y contacta con la señorita ……"
+"Ichihashi Ran (talking)","…………必要ないよ。 もう聞こえたからね。","You don't need …………. I already heard you.","No necesitas …………. Ya te he escuchado."
+"Chinpira (talking)","あっ、姐さん…………","Oh, Miss …………","Ah, señorita …………"
+"Ichihashi Ran (talking)","ふ……ふふっ、ははははっ……
 まさかここまでやられるとは 思っちゃいなかったねえ……
- …………さ、行くよ。 このまま終わらせてたまるかいっ……！";"Huh…… Huh, hahahahahaha……
+ …………さ、行くよ。 このまま終わらせてたまるかいっ……！","Huh…… Huh, hahahahahaha……
 I never thought I'd get this farTanee……
-I'm going………… to go. I'm not going to let it end like this……!";"Huh…… Huh, hahahaha……
+I'm going………… to go. I'm not going to let it end like this……!","Huh…… Huh, hahahaha……
 Nunca pensé que llegaría tan lejosTanee……
 Me voy a …………. ¡No voy a dejar que termine así……!"
-"Chinpira (talking)";"い、行くって……姐さん自ら 喧嘩に出るんですかい？！";"You're going to go and get into a fight with…… yourself?";"¿Vas a ir a pelearte con la propia señorita ……?"
-"Ichihashi Ran (talking)";"そのつもりだよ。 あたしが直に指揮をする。
+"Chinpira (talking)","い、行くって……姐さん自ら 喧嘩に出るんですかい？！","You're going to go and get into a fight with…… yourself?","¿Vas a ir a pelearte con la propia señorita ……?"
+"Ichihashi Ran (talking)","そのつもりだよ。 あたしが直に指揮をする。
 もっとも、指揮だけじゃ済まなくて 久しぶりに腕を振るうことに なるんだろうけどね……
- ……さあ、グズグズしてないで 腕の立つ連中をかき集めてきな。 決戦だよ。";"That's the plan. I'll be directing.
-But it won't be enough for me to just lead, I'll have to use my arm for the first time in a long time………… Now, get out there and get some good men together. It's time for a showdown.";"Tengo la intención de hacerlo. Lo voy a realizar en persona.
+ ……さあ、グズグズしてないで 腕の立つ連中をかき集めてきな。 決戦だよ。","That's the plan. I'll be directing.
+But it won't be enough for me to just lead, I'll have to use my arm for the first time in a long time………… Now, get out there and get some good men together. It's time for a showdown.","Tengo la intención de hacerlo. Lo voy a realizar en persona.
 Pero no me bastará con dirigir, sino que tendré que tomar las armas por primera vez en mucho tiempo………… Ahora, salgan y reúnan a algunos hombres buenos. Es una batalla."
-"Elite Yakuza (talking)";"そ、そんな……！
-姐さんは本部でお待ち下さい、 ここは自分らが悪司を…………";"Oh, no……!
-Miss, please wait at the headquarters, we are here to …………";"Oh, no. ¡……!
+"Elite Yakuza (talking)","そ、そんな……！
+姐さんは本部でお待ち下さい、 ここは自分らが悪司を…………","Oh, no……!
+Miss, please wait at the headquarters, we are here to …………","Oh, no. ¡……!
 Señorita, por favor espere en la sede, estamos aquí para …………"
-"Ichihashi Ran (talking)";"…………うるさいねっ！ だまってあたしの言う事を聞きな！
-任せられるんなら任せてるよ！ あんたたちが不甲斐ないから、 私が直に出るって言ってんだ！！";"………… Shut up! Shut up and listen to me!
-I would if I could! I said I'd go out on my own because you're not doing a good enough job!";"………… ¡Cállate! ¡Cállate y escúchame!
+"Ichihashi Ran (talking)","…………うるさいねっ！ だまってあたしの言う事を聞きな！
+任せられるんなら任せてるよ！ あんたたちが不甲斐ないから、 私が直に出るって言ってんだ！！","………… Shut up! Shut up and listen to me!
+I would if I could! I said I'd go out on my own because you're not doing a good enough job!","………… ¡Cállate! ¡Cállate y escúchame!
  ¡Si pudiera, se lo dejaría a usted! ¡Dije que saldría yo mismo porque no eres lo suficientemente bueno!"
-"Elite Yakuza (talking)";"し、しかし……";"Shhh, but ……";"Shhh, pero ……"
-"Ichihashi Ran (talking)";"早くしなっ！ トロトロしてたら悪司が来ちまうよ！！";"Come on! Akuji will be here if we don't hurry!";"¡Vamos! ¡Si vamos más despacio, Akuji vendrá!"
-"Elite Yakuza (talking)";"…………はっ……";"………… ha ……";"………… ha ……"
-"Ichihashi Ran (talking)";"……………… あたしはまだ諦めないよ……
-たとえあたし一人になったって、 悪司のボウヤの首筋に 何としても短刀を突き立ててやる……！";"……………… I'm not giving up yet……
-Even if I'm all alone, I'll still put a dagger in Akuji's bowie's neck no matter what it takes……!";"……………… No me rindo todavía……
+"Elite Yakuza (talking)","し、しかし……","Shhh, but ……","Shhh, pero ……"
+"Ichihashi Ran (talking)","早くしなっ！ トロトロしてたら悪司が来ちまうよ！！","Come on! Akuji will be here if we don't hurry!","¡Vamos! ¡Si vamos más despacio, Akuji vendrá!"
+"Elite Yakuza (talking)","…………はっ……","………… ha ……","………… ha ……"
+"Ichihashi Ran (talking)","……………… あたしはまだ諦めないよ……
+たとえあたし一人になったって、 悪司のボウヤの首筋に 何としても短刀を突き立ててやる……！","……………… I'm not giving up yet……
+Even if I'm all alone, I'll still put a dagger in Akuji's bowie's neck no matter what it takes……!","……………… No me rindo todavía……
  ¡Aunque esté solo, haré todo lo que esté en mi mano para poner una daga en el cuello del bowie de Akuji……!"
-"Ichihashi Ran (talking)";"………………
+"Ichihashi Ran (talking)","………………
 また…… 置いて行かれちまったね……
 更に強くなる……か。 そんな修行の旅に、 あたしなんざ邪魔なだけ……
  ………………
  ……冗談じゃない…… 冗談じゃないよ……！
 今度はわかめ組の時と同じにはいかない、 あの人に食らいついていく……絶対に！
 もう、自分に嘘はつかないよ ……地の果てまでも追いかける！
-ご隠居……お覚悟を。 蘭はもう、あなたのお側から 離れませんから……！";"………………
+ご隠居……お覚悟を。 蘭はもう、あなたのお側から 離れませんから……！","………………
 Also…… left me behindTane ……
 I'm going to be even stronger ……. I'm just a distraction on such a journey of training……
  ………………
 I'm not…… kidding…… kidding ……!
 This time, I won't be the same as when I was in the Wakame group. I'll bite that man's head…… off, I swear it!
 I won't lie to myself anymore,…… I'll chase him to the ends of the earth!
-I'll be ready for your retirement……. Ran will not leave your side anymore……!";"………………
+I'll be ready for your retirement……. Ran will not leave your side anymore……!","………………
 Me he quedado atrás…… otra vezTane ……
  ¿Vas a hacerte más fuerte ……? Sólo soy una distracción en este viaje de formación……
  ………………
@@ -1245,83 +1245,83 @@ Me he quedado atrás…… otra vezTane ……
 Esta vez no será lo mismo que cuando estábamos en el grupo Wakame, voy a morderle la cabeza a ese hombre ……, ¡lo juro!
 No me mentiré más,…… ¡lo perseguiré hasta el fin del mundo!
 Dios, tienes que prepararte…… para esto. ¡Porque Ran nunca más se irá de tu lado……!"
-"Ichihashi Ran (talking)";"……いいかい、 一人でも多く若い奴を集めてくるんだ。";"…… Look, get as many young guys as you can.";"…… Mira, consigue todos los chicos jóvenes que puedas."
-"Chinpira (talking)";"し……しかし姐さん、 若い奴って言っても、あの……";"I'm not saying that the young guys are the ……";"Sh…… pero señorita, cuando dice chicos jóvenes, ya sabe, el ……"
-"Ichihashi Ran (talking)";"腕や技術なんてこの際どうでもいい、 やる気のある奴ならだれでもいいよ。 その分給料は出すからね。
-さ、行っといで。頼んだよ。 今は一人でも多く兵隊が要るんだ。";"I don't care about your skill or technique at this point. I'll take anyone who is willing. We'll pay you for your time.
-Now, go on. I'm counting on you. We need as many soldiers as possible right now.";"No me importa la habilidad o la técnica en este momento, me quedo con cualquiera que esté dispuesto a hacerlo. Te pagaré por ello.
+"Ichihashi Ran (talking)","……いいかい、 一人でも多く若い奴を集めてくるんだ。","…… Look, get as many young guys as you can.","…… Mira, consigue todos los chicos jóvenes que puedas."
+"Chinpira (talking)","し……しかし姐さん、 若い奴って言っても、あの……","I'm not saying that the young guys are the ……","Sh…… pero señorita, cuando dice chicos jóvenes, ya sabe, el ……"
+"Ichihashi Ran (talking)","腕や技術なんてこの際どうでもいい、 やる気のある奴ならだれでもいいよ。 その分給料は出すからね。
+さ、行っといで。頼んだよ。 今は一人でも多く兵隊が要るんだ。","I don't care about your skill or technique at this point. I'll take anyone who is willing. We'll pay you for your time.
+Now, go on. I'm counting on you. We need as many soldiers as possible right now.","No me importa la habilidad o la técnica en este momento, me quedo con cualquiera que esté dispuesto a hacerlo. Te pagaré por ello.
 Adelante, entonces. Cuento con usted. Necesitamos tantos soldados como sea posible ahora."
-"Chinpira (talking)";"……………… へいっ……";"……………… Hee ……";"……………… Hee ……"
-"Ichihashi Ran (talking)";"…………
+"Chinpira (talking)","……………… へいっ……","……………… Hee ……","……………… Hee ……"
+"Ichihashi Ran (talking)","…………
 何で……何でこのあたしが、 あんな下っ端にお願い口調で モノを言わなきゃならないんだよっ……
 シコクの馬鹿どもは役立たずだし、 身内にはもう使える兵隊も居ない……
  ……最悪だね、全く。
  ……………………
-最悪だよ…………全く………………";"…………
+最悪だよ…………全く………………","…………
 Why…… do I have to talk to those lowlifes in a begging tone?
 The idiots in Shikoku are useless, and their people have no more soldiers to use………… is the worst, at all.
  ……………………
-It's the worst………… at all…………… …";"…………
+It's the worst………… at all…………… …","…………
  ¿Por qué…… tengo que hablar con esos infelices en tono de mendicidad?
 Los idiotas de Shikoku son inútiles y su gente no tiene más soldados que utilizar………… es lo peor, en absoluto.
  ……………………
 Es el peor de todos………… Es el peor de todos…………… …"
-"Ichihashi Ran (talking)";"………………
-ふぅ……";"………………
-Search ……";"………………
+"Ichihashi Ran (talking)","………………
+ふぅ……","………………
+Search ……","………………
 Busque en ……"
-"Chinpira (talking)";"……姐さん。 よろしいですかい？";"Miss ……. May I?";"Srta……. ¿Puedo?"
-"Ichihashi Ran (talking)";"…………っ、何だい、 いきなり入って来るんじゃないよ！";"…………, what the hell, don't come in here out of the blue!";"…………, ¡qué demonios, no vengas aquí de sopetón!"
-"Chinpira (talking)";"す、すいやせん。 戸が開いてたもんで、つい……
- ……？ 姐さん、手に持ってるのは何でやすか？";"I'm sorry. The door was open, so I just went to ……
- ……? Miss, what is that in your hand?";"Lo siento, lo siento. La puerta estaba abierta, así que fui a ……
+"Chinpira (talking)","……姐さん。 よろしいですかい？","Miss ……. May I?","Srta……. ¿Puedo?"
+"Ichihashi Ran (talking)","…………っ、何だい、 いきなり入って来るんじゃないよ！","…………, what the hell, don't come in here out of the blue!","…………, ¡qué demonios, no vengas aquí de sopetón!"
+"Chinpira (talking)","す、すいやせん。 戸が開いてたもんで、つい……
+ ……？ 姐さん、手に持ってるのは何でやすか？","I'm sorry. The door was open, so I just went to ……
+ ……? Miss, what is that in your hand?","Lo siento, lo siento. La puerta estaba abierta, así que fui a ……
  ……? Señorita, ¿qué tiene en la mano?"
-"Ichihashi Ran (talking)";"………………別に、何でもないよ。";"……………… Nothing, really.";"……………… No es nada, en realidad."
-"narrator";"蘭は言いながら、 持っていたものを着物の袖に隠した。";"Ran said and hid what he was holding in the sleeve of his kimono.";"Ran dijo y escondió lo que tenía en las mangas de su kimono."
-"Chinpira (talking)";"写真……でやすか？ 写真みたいでやすね。
-へへっ、もしかしてアレでやすか？ 昔の男とか、それとも今の彼氏とか？";"Photo: ……, is it easy? It looks like a photo.
-Hehehe, could it be a thing? An old guy or your current boyfriend?";"Foto: ……. Parece una fotografía.
+"Ichihashi Ran (talking)","………………別に、何でもないよ。","……………… Nothing, really.","……………… No es nada, en realidad."
+"narrator","蘭は言いながら、 持っていたものを着物の袖に隠した。","Ran said and hid what he was holding in the sleeve of his kimono.","Ran dijo y escondió lo que tenía en las mangas de su kimono."
+"Chinpira (talking)","写真……でやすか？ 写真みたいでやすね。
+へへっ、もしかしてアレでやすか？ 昔の男とか、それとも今の彼氏とか？","Photo: ……, is it easy? It looks like a photo.
+Hehehe, could it be a thing? An old guy or your current boyfriend?","Foto: ……. Parece una fotografía.
 Jejeje, ¿podría ser una cosa? ¿Un viejo o un novio actual?"
-"Ichihashi Ran (talking)";"……あたしゃそういう冗談が 何より一番嫌いなんだよ。 痛い目見たいのかい？";"……I hate jokes like that more than anything else. You want to see the pain?";"…… Odio las bromas de este tipo más que nada. ¿Quieres verme herido?"
-"Chinpira (talking)";"……す、すいやせん…………";"……So, sorry …………";"……Su, perdón…………"
-"Ichihashi Ran (talking)";"で、何の用さ。";"So, what do you want?";"Entonces, ¿qué quieres?"
-"Chinpira (talking)";"へえ、センリの市民会が 今月分の協力費を持ってきやして。";"Well, the civic association of Senri brought this month's cooperation fee.";"Bueno, la asociación cívica de Senri ha traído la cuota de cooperación de este mes."
-"Ichihashi Ran (talking)";"すぐ行くよ。 少し待ってもらってな。";"I'll be right there. Just give me a minute.";"Ahora mismo estoy allí. Que esperen un poco."
-"Chinpira (talking)";"へい。";"Hei.";"Hei."
-"Ichihashi Ran (talking)";"………………
-こんなもの…… さっさと捨てるべきなんだけどね……";"………………
-This stuff should be…… thrown away as soon as possible ……";"………………
+"Ichihashi Ran (talking)","……あたしゃそういう冗談が 何より一番嫌いなんだよ。 痛い目見たいのかい？","……I hate jokes like that more than anything else. You want to see the pain?","…… Odio las bromas de este tipo más que nada. ¿Quieres verme herido?"
+"Chinpira (talking)","……す、すいやせん…………","……So, sorry …………","……Su, perdón…………"
+"Ichihashi Ran (talking)","で、何の用さ。","So, what do you want?","Entonces, ¿qué quieres?"
+"Chinpira (talking)","へえ、センリの市民会が 今月分の協力費を持ってきやして。","Well, the civic association of Senri brought this month's cooperation fee.","Bueno, la asociación cívica de Senri ha traído la cuota de cooperación de este mes."
+"Ichihashi Ran (talking)","すぐ行くよ。 少し待ってもらってな。","I'll be right there. Just give me a minute.","Ahora mismo estoy allí. Que esperen un poco."
+"Chinpira (talking)","へい。","Hei.","Hei."
+"Ichihashi Ran (talking)","………………
+こんなもの…… さっさと捨てるべきなんだけどね……","………………
+This stuff should be…… thrown away as soon as possible ……","………………
 Este material debería ser…… tirado lo antes posible ……"
-"narrator";"着物の袖に手を差し入れた蘭は、 手近にあったゴミ箱の前で少し考え込む。
-だが結局、蘭は写真をそのまま持って 執務室を後にした。";"Ran put his hand into the sleeve of his kimono, and pondered for a moment in front of the nearest trash can.
-In the end, however, Ran left the office with the photograph intact.";"Tras meter la mano en la manga de su kimono, Ran reflexionó un momento frente al cubo de basura más cercano.
+"narrator","着物の袖に手を差し入れた蘭は、 手近にあったゴミ箱の前で少し考え込む。
+だが結局、蘭は写真をそのまま持って 執務室を後にした。","Ran put his hand into the sleeve of his kimono, and pondered for a moment in front of the nearest trash can.
+In the end, however, Ran left the office with the photograph intact.","Tras meter la mano en la manga de su kimono, Ran reflexionó un momento frente al cubo de basura más cercano.
 Al final, sin embargo, Ran salió de la oficina con la fotografía intacta."
-"narrator";"蘭は、眼前の神棚に愛用の短刀を一本捧げ、 正座をして目を閉じ、静かに瞑想していた。";"Ran offered one of his favorite daggers to the altar in front of him, sat upright, closed his eyes, and meditated quietly.";"Ran ofreció una de sus dagas favoritas al altar que tenía delante, se sentó erguido, cerró los ojos y meditó en silencio."
-"Ichihashi Ran (thinking)";"………………
+"narrator","蘭は、眼前の神棚に愛用の短刀を一本捧げ、 正座をして目を閉じ、静かに瞑想していた。","Ran offered one of his favorite daggers to the altar in front of him, sat upright, closed his eyes, and meditated quietly.","Ran ofreció una de sus dagas favoritas al altar que tenía delante, se sentó erguido, cerró los ojos y meditó en silencio."
+"Ichihashi Ran (thinking)","………………
 戦いは……まだ、始まったばかりさ……
 悪司を叩きのめして、あたしが きっちり組織を動かせるってところを 証明してみせる……
 たとえ嫌でも、 男どもがあたしに従うしかないほど、 力を見せつけてみせる……
  ………………
  …………あたしを…… 置き去りにしていったあの人を、 見返すためにも…………
-絶対にっ……！";"………………
+絶対にっ……！","………………
 The battle has just begun……
 I'm going to beat Akuji and prove that I can run a proper organisation……
 Even if they don't like it, I'll show them I'm so powerful that they'll have no choice but to follow me ……
  ………………
 I'll show them back the man who left me behind………… …… ……
-Never! ……";"………………
+Never! ……","………………
 La batalla acaba de comenzar ……, Hajime.
 Voy a vencer a Akuji y demostrar que puedo dirigir una organización adecuada……
 Aunque no les guste, les demostraré que soy tan poderoso que no tendrán más remedio que seguirme……
  ………………
 Voy a………… asegurarme de que soy el que me dejó…… atrás, y me aseguraré de que soy el que les hará mirar atrás…… ……
  ¡Nunca! ……"
-" (talking)";"いい子だからじっとしてるんだよ…… 一撃で楽にしてあげるからさ！！";"Be a good girl and stay put…… I'll make it easy for you with a single blow!";"Sé una buena chica y quédate quieta…… ¡Te lo pondré fácil con un golpe!"
-" (talking)";"あ、お蘭さ~ん。 やっほ~。";"Oh, ORan-san~. Hey there~.";"Ah, oh  Ran-san~. Hola."
-"Ichihashi Ran (talking)";"やれやれ…あいかわらず、 緊張感がないねー…";"Oh dear… as usual, no sense of urgency…";"Oh, querido… como siempre, sin tensión…"
-" (talking)";"こっちにきて一緒に…って言っても、 お蘭さんは、無理か~…";"I'd like to come over here and join you… but I'm afraid you can't…";"Te diría que vinieras aquí y te unieras a nosotros… pero no puedes, ¿verdad, ORan?"
-"Ichihashi Ran (talking)";"ああ…そうだね…";"Yeah… yeah…";"Sí… sí…"
-" (talking)";"行くぞ、女狐！！ ひいひい言わせてやるぜ！！";"Let's go, vixen! I'm gonna make you squeal!";"¡Vamos, zorra! ¡Vamos, zorras!"
-"Ichihashi Ran (talking)";"はっ！！ 出来るものならやってみな！";"Ha! Do it if you can!";"¡Ja! ¡Hazlo si puedes!"
-" (talking)";"ごめんなさい、お蘭姐さん…";"Sorry, Miss  Ran…";"Lo siento, señorita ORan…"
-"Ichihashi Ran (talking)";"仕方ないさね…おいで。";"I guess I don't have a choice… come on.";"No tengo elección… vamos."
+" (talking)","いい子だからじっとしてるんだよ…… 一撃で楽にしてあげるからさ！！","Be a good girl and stay put…… I'll make it easy for you with a single blow!","Sé una buena chica y quédate quieta…… ¡Te lo pondré fácil con un golpe!"
+" (talking)","あ、お蘭さ~ん。 やっほ~。","Oh, ORan-san~. Hey there~.","Ah, oh  Ran-san~. Hola."
+"Ichihashi Ran (talking)","やれやれ…あいかわらず、 緊張感がないねー…","Oh dear… as usual, no sense of urgency…","Oh, querido… como siempre, sin tensión…"
+" (talking)","こっちにきて一緒に…って言っても、 お蘭さんは、無理か~…","I'd like to come over here and join you… but I'm afraid you can't…","Te diría que vinieras aquí y te unieras a nosotros… pero no puedes, ¿verdad, ORan?"
+"Ichihashi Ran (talking)","ああ…そうだね…","Yeah… yeah…","Sí… sí…"
+" (talking)","行くぞ、女狐！！ ひいひい言わせてやるぜ！！","Let's go, vixen! I'm gonna make you squeal!","¡Vamos, zorra! ¡Vamos, zorras!"
+"Ichihashi Ran (talking)","はっ！！ 出来るものならやってみな！","Ha! Do it if you can!","¡Ja! ¡Hazlo si puedes!"
+" (talking)","ごめんなさい、お蘭姐さん…","Sorry, Miss  Ran…","Lo siento, señorita ORan…"
+"Ichihashi Ran (talking)","仕方ないさね…おいで。","I guess I don't have a choice… come on.","No tengo elección… vamos."

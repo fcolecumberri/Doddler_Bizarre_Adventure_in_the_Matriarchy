@@ -1,6 +1,6 @@
 # Daiakuji Translation Project 🇯🇵 → (🇬🇧🇺🇸) & (🇪🇸🇲🇽)
 
-**THIS PROJECT IS NOT FINISHED YET. This is still a work in progress.**
+**THIS PROJECT IS NOT FINISHED YET. This is still a work in progress. BUT THE GAME IS PLAYABLE**
 
 ## About
 
@@ -41,7 +41,7 @@ If you have any doubt, feel free to ask me after checking the tutorials.
 
 The text is structured as a follow:
 
-Each file is a [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) using semicolon `;` as delimiter and double-quote as quotation `"`.
+Each file is a [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) using colon `,` as delimiter and double-quote as quotation `"`.
 
 The 1st field indicate who is talking, assuming my python script could figure it out, otherwise `??`. If the first field is `__system__`, it indicates that rows are not text, but a piece of code.
 

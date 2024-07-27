@@ -1,240 +1,240 @@
-"character";"jap text";"Eng";"Esp"
-"__system__??";"{麦 = 1:";"";""
-"__system__??";"{☆金田 = 20:";"";""
-"__system__??";"}";"";""
-"__system__??";"{☆金田 = 21:";"";""
-"__system__??";"}";"";""
-"__system__??";"{☆金田 > 20:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 3:";"";""
-"__system__??";"{☆金田 > 20:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 2:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 4:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 5:";"";""
-"__system__??";"}";"";""
-" (talking)";"僕を呼んでいると聞いたんだけど？";"I heard you wanted to see me?";"Oí que me estabas llamando…"
-"Yamamoto Akuji (talking)";"………………";"………………";"………………"
-"Kaneda Sakatarou (talking)";"なんだ？";"What is it?";"¿Qué es?"
-"Yamamoto Akuji (talking)";"ほんっと、女になってやがる…";"I'm really becoming a woman…";"Realmente se está convirtiendo en una mujer…"
-"Kaneda Sakatarou (talking)";"だからなんだ？";"So what?";"¿Y qué?"
-"Yamamoto Akuji (talking)";"うーん、可愛いような、 そーでないような… 中身はそのまんまなのかい？";"Well, is it cute or not… is it exactly what it looks like inside?";"¿Es bonito o no… es exactamente lo que parece por dentro?"
-"Kaneda Sakatarou (talking)";"そんな質問には答えたくないね。";"I wouldn't want to answer that question.";"No me gustaría responder a esa pregunta."
-"narrator";"悪司は煙草を喫んで、酒太郎を待っていた。";"Akuji was smoking a cigarette and waiting for Sakatarou.";"Akuji estaba fumando un cigarrillo y esperando a Sakatarou."
-"Kaneda Sakatarou (talking)";"あまり吸い過ぎると躰によくないぞ。";"Smoking too much is not good for your body.";"Fumar demasiado, no es bueno para tu cuerpo."
-"Yamamoto Akuji (talking)";"……………";"……………";"……………"
-"Kaneda Sakatarou (talking)";"なんだ、素っ頓狂な顔をして。
-ほら、蜜柑だ。 煙草を吸う奴は、柑橘類をとって おいた方がいい。";"What's with the crazy face?
-Look, citrus. You know, you should save the citrus fruits for the smokers.";"Qué mirada más descarada.
+"character","jap text","Eng","Esp"
+"__system__??","{麦 = 1:","",""
+"__system__??","{☆金田 = 20:","",""
+"__system__??","}","",""
+"__system__??","{☆金田 = 21:","",""
+"__system__??","}","",""
+"__system__??","{☆金田 > 20:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 3:","",""
+"__system__??","{☆金田 > 20:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 2:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 4:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 5:","",""
+"__system__??","}","",""
+" (talking)","僕を呼んでいると聞いたんだけど？","I heard you wanted to see me?","Oí que me estabas llamando…"
+"Yamamoto Akuji (talking)","………………","………………","………………"
+"Kaneda Sakatarou (talking)","なんだ？","What is it?","¿Qué es?"
+"Yamamoto Akuji (talking)","ほんっと、女になってやがる…","I'm really becoming a woman…","Realmente se está convirtiendo en una mujer…"
+"Kaneda Sakatarou (talking)","だからなんだ？","So what?","¿Y qué?"
+"Yamamoto Akuji (talking)","うーん、可愛いような、 そーでないような… 中身はそのまんまなのかい？","Well, is it cute or not… is it exactly what it looks like inside?","¿Es bonito o no… es exactamente lo que parece por dentro?"
+"Kaneda Sakatarou (talking)","そんな質問には答えたくないね。","I wouldn't want to answer that question.","No me gustaría responder a esa pregunta."
+"narrator","悪司は煙草を喫んで、酒太郎を待っていた。","Akuji was smoking a cigarette and waiting for Sakatarou.","Akuji estaba fumando un cigarrillo y esperando a Sakatarou."
+"Kaneda Sakatarou (talking)","あまり吸い過ぎると躰によくないぞ。","Smoking too much is not good for your body.","Fumar demasiado, no es bueno para tu cuerpo."
+"Yamamoto Akuji (talking)","……………","……………","……………"
+"Kaneda Sakatarou (talking)","なんだ、素っ頓狂な顔をして。
+ほら、蜜柑だ。 煙草を吸う奴は、柑橘類をとって おいた方がいい。","What's with the crazy face?
+Look, citrus. You know, you should save the citrus fruits for the smokers.","Qué mirada más descarada.
 Mira, cítricos. Deberías guardar los cítricos para los fumadores."
-"Yamamoto Akuji (talking)";"…………くれるの？";"Can you give me …………?";"¿Puede darme …………?"
-"Kaneda Sakatarou (talking)";"ああ。";"Oh.";"Oh."
-"Yamamoto Akuji (talking)";"…………タダ？";"………… free?";"………… libre?"
-"Kaneda Sakatarou (talking)";"そうだが？";"Yes, but what?";"Sí, pero ¿qué?"
-"Yamamoto Akuji (talking)";"………毒は……";"……… poison is available at ……";"……… Poison se puede encontrar en ……"
-"Kaneda Sakatarou (talking)";"そんなものを入れるか。 失礼な奴だ。";"You can't put something like that in there. He's rude.";"¿Pondrías algo así ahí? Eres un maleducado."
-"Yamamoto Akuji (talking)";"変われば、変わるモンだなー…";"Change, change, change…";"Si las cosas cambian, cambian…"
-"Kaneda Sakatarou (talking)";"呼んだか？";"Did you call me?";"¿Los llamaste?"
-"Yamamoto Akuji (talking)";"まーな。";"Mana.";"Mana."
-"Yamamoto Akuji (talking)";"ほら、あんたの大好きなお金だ。 受け取ってくんな。";"Here, it's your favorite money. Don't take it.";"Aquí, es tu dinero favorito. No lo tomes."
-"Kaneda Sakatarou (talking)";"ありがとう。 大事に使う。";"Thank you. I will use it carefully.";"Gracias. Lo cuidaré bien."
-"Yamamoto Akuji (thinking)";"…………礼言ったよ… 信じられね~…";"I said thanks to…………… I can't believe it…";"He dado las gracias a…………… No puedo creerlo…"
-"Yamamoto Akuji (talking)";"………………";"………………";"………………"
-"Kaneda Sakatarou (talking)";"なんだ？";"What is it?";"¿Qué es?"
-"Yamamoto Akuji (talking)";"……………………";"……………………";"……………………"
-"Yamamoto Akuji (thinking)";"いくら女になったからとはいえ、 元がアレだ…
- ……………";"No matter how much of a woman she's become, she's still the original…
- ……………";"Por mucho que se haya convertido en mujer, sigue siendo una ex…
+"Yamamoto Akuji (talking)","…………くれるの？","Can you give me …………?","¿Puede darme …………?"
+"Kaneda Sakatarou (talking)","ああ。","Oh.","Oh."
+"Yamamoto Akuji (talking)","…………タダ？","………… free?","………… libre?"
+"Kaneda Sakatarou (talking)","そうだが？","Yes, but what?","Sí, pero ¿qué?"
+"Yamamoto Akuji (talking)","………毒は……","……… poison is available at ……","……… Poison se puede encontrar en ……"
+"Kaneda Sakatarou (talking)","そんなものを入れるか。 失礼な奴だ。","You can't put something like that in there. He's rude.","¿Pondrías algo así ahí? Eres un maleducado."
+"Yamamoto Akuji (talking)","変われば、変わるモンだなー…","Change, change, change…","Si las cosas cambian, cambian…"
+"Kaneda Sakatarou (talking)","呼んだか？","Did you call me?","¿Los llamaste?"
+"Yamamoto Akuji (talking)","まーな。","Mana.","Mana."
+"Yamamoto Akuji (talking)","ほら、あんたの大好きなお金だ。 受け取ってくんな。","Here, it's your favorite money. Don't take it.","Aquí, es tu dinero favorito. No lo tomes."
+"Kaneda Sakatarou (talking)","ありがとう。 大事に使う。","Thank you. I will use it carefully.","Gracias. Lo cuidaré bien."
+"Yamamoto Akuji (thinking)","…………礼言ったよ… 信じられね~…","I said thanks to…………… I can't believe it…","He dado las gracias a…………… No puedo creerlo…"
+"Yamamoto Akuji (talking)","………………","………………","………………"
+"Kaneda Sakatarou (talking)","なんだ？","What is it?","¿Qué es?"
+"Yamamoto Akuji (talking)","……………………","……………………","……………………"
+"Yamamoto Akuji (thinking)","いくら女になったからとはいえ、 元がアレだ…
+ ……………","No matter how much of a woman she's become, she's still the original…
+ ……………","Por mucho que se haya convertido en mujer, sigue siendo una ex…
  ……………"
-"Yamamoto Akuji (talking)";"はぁ~~~~~……";"Huh ~~~~~……";"Huh. ~~~~~……"
-"Kaneda Sakatarou (talking)";"人の顔をじろじろ見て、 ため息をつくとは、失礼な奴だ。";"It's rude of him to stare at someone's face and sigh.";"Es grosero que mire fijamente a la cara de la gente y suspire."
-"Kaneda Sakatarou (talking)";"断る！ どうして僕が、男に抱かれなくては 駄目なんだ！
-気持ち悪い、吐く！ 死ぬ！！";"No! Why do I have to be held by a man?
-I feel sick. I'm gonna throw up! I'm gonna die!";"¡Me niego! ¿Por qué tengo que ser sostenida por un hombre?
+"Yamamoto Akuji (talking)","はぁ~~~~~……","Huh ~~~~~……","Huh. ~~~~~……"
+"Kaneda Sakatarou (talking)","人の顔をじろじろ見て、 ため息をつくとは、失礼な奴だ。","It's rude of him to stare at someone's face and sigh.","Es grosero que mire fijamente a la cara de la gente y suspire."
+"Kaneda Sakatarou (talking)","断る！ どうして僕が、男に抱かれなくては 駄目なんだ！
+気持ち悪い、吐く！ 死ぬ！！","No! Why do I have to be held by a man?
+I feel sick. I'm gonna throw up! I'm gonna die!","¡Me niego! ¿Por qué tengo que ser sostenida por un hombre?
 Me siento mal, voy a vomitar. ¡Voy a morir!"
-"Kaneda Sakatarou (talking)";"断るっ！ あ、あんな服、着るなんて…";"I refuse! I can't believe I'm wearing that…";"¡No! Oh, no puedo creer que esté usando eso…"
-"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
-"Kaneda Sakatarou (talking)";"なんですか。 ボクは言われた事はこなしていますよ。";"What is it? I do what I am told.";"¿Qué es? Hago lo que me dicen."
-"Yamamoto Akuji (talking)";"まー、これでも受け取ってくれや。";"Well, you're still going to have to take this.";"Bueno, todavía puedes tomar esto."
-"Kaneda Sakatarou (talking)";"なんですか、これ。 ああ、お金ですか。
-まあ、くれるというものは 貰っておきますよ。";"What is this? Oh, is it money?
-Well, I'll take what you say you'll give me.";"¿Qué es? ¿Es por el dinero?
+"Kaneda Sakatarou (talking)","断るっ！ あ、あんな服、着るなんて…","I refuse! I can't believe I'm wearing that…","¡No! Oh, no puedo creer que esté usando eso…"
+"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
+"Kaneda Sakatarou (talking)","なんですか。 ボクは言われた事はこなしていますよ。","What is it? I do what I am told.","¿Qué es? Hago lo que me dicen."
+"Yamamoto Akuji (talking)","まー、これでも受け取ってくれや。","Well, you're still going to have to take this.","Bueno, todavía puedes tomar esto."
+"Kaneda Sakatarou (talking)","なんですか、これ。 ああ、お金ですか。
+まあ、くれるというものは 貰っておきますよ。","What is this? Oh, is it money?
+Well, I'll take what you say you'll give me.","¿Qué es? ¿Es por el dinero?
 Bueno, tomaré lo que dices que me darás."
-"narrator";"酒太郎は礼も言わず、金を受け取った。";"Sakatarou accepted the money without thanking me.";"Sakatarou aceptó el dinero sin darle las gracias."
-" (talking)";"さっさとくるにゃりよーー！！";"Come on, get your ass over here!";"¡Trae tu culo aquí!"
-" (talking)";"さわるな！！ 服が汚れるだろう！！";"Don't touch me! You'll get your clothes dirty!";"¡No me toques! Te ensuciarás la ropa."
-" (talking)";"むきーーー！！ こいつ、なんにゃりかー！！";"Muki-oooo! This guy, what the hell!";"¡Muki-oooo! Este tipo, ¡qué demonios!"
-"Yamamoto Akuji (talking)";"どーした、未来。 何、騒いでる？";"What's up, Mirai. What are you making a fuss about?";"Qué pasa, Mirai. ¿Por qué tanto alboroto?"
-"Kako Mirai (talking)";"にーちゃーん！！ 泥棒捕まえたにゃり！";"Nyari! We caught the thief!";"¡Nyari! ¡Hemos cogido al ladrón!"
-"Yamamoto Akuji (talking)";"泥棒？";"Thieves?";"¿Ladrones?"
-"Kako Mirai (talking)";"こいつ、無人っ子ちゃんの前で ウロウロしてたにゃり！！";"This guy was hanging around in front of an unattended child!";"¡Este tipo estaba merodeando delante de los niños desatendidos!"
-"Yamamoto Akuji (talking)";"無人っ子ちゃんって…";"What's an unattended baby…";"Los niños desatendidos son…"
-"Kako Mirai (talking)";"借金機械にゃり。";"Debt Machinery.";"Maquinaria para la deuda."
-"Yamamoto Akuji (talking)";"勝手に名前つけるな。 他人にゃわかんねーだろーが。";"Don't name them without permission. Don't let others know what you think of them.";"No le pongas tu nombre. Los demás no lo entenderán."
-"Kako Mirai (talking)";"むがーー！";"Mgaa!";"¡Muga!"
-"Kaneda Sakatarou (talking)";"さわるなと言ってるだろうが！";"I said don't touch it!";"¡He dicho que no lo toques!"
-"Yamamoto Akuji (talking)";"てめーか、泥棒は。";"You're the thief, aren't you?";"Tú eres el ladrón, ¿no?"
-"Kaneda Sakatarou (talking)";"ふん、失敬な！ このボクは、ここで金を借りてやろうと しただけだ。";"Hmph, excuse me! I was just trying to borrow some money here.";"Hm, ¡perdón! Sólo estaba tratando de pedir algo de dinero aquí."
-"Kako Mirai (talking)";"むっきーー！！ にゃんかムカツクーー！";"Mukki! Nyanka mukatu koo!";"¡Mukki! ¡Nyanka mukatsu koo!"
-"Yamamoto Akuji (talking)";"だけど、泥棒と間違われたって事は、 不審な事をしてたって訳じゃないのか？";"But if he was mistaken for a thief, doesn't that mean he was doing something suspicious?";"Pero si te confundieron con un ladrón, ¿no significa que estabas actuando de forma sospechosa?"
-"Kaneda Sakatarou (talking)";"その女が勝手に騒いで、勝手にボクを 泥棒と勘違いして、勝手にここへ 連れてきただけだ。
+"narrator","酒太郎は礼も言わず、金を受け取った。","Sakatarou accepted the money without thanking me.","Sakatarou aceptó el dinero sin darle las gracias."
+" (talking)","さっさとくるにゃりよーー！！","Come on, get your ass over here!","¡Trae tu culo aquí!"
+" (talking)","さわるな！！ 服が汚れるだろう！！","Don't touch me! You'll get your clothes dirty!","¡No me toques! Te ensuciarás la ropa."
+" (talking)","むきーーー！！ こいつ、なんにゃりかー！！","Muki-oooo! This guy, what the hell!","¡Muki-oooo! Este tipo, ¡qué demonios!"
+"Yamamoto Akuji (talking)","どーした、未来。 何、騒いでる？","What's up, Mirai. What are you making a fuss about?","Qué pasa, Mirai. ¿Por qué tanto alboroto?"
+"Kako Mirai (talking)","にーちゃーん！！ 泥棒捕まえたにゃり！","Nyari! We caught the thief!","¡Nyari! ¡Hemos cogido al ladrón!"
+"Yamamoto Akuji (talking)","泥棒？","Thieves?","¿Ladrones?"
+"Kako Mirai (talking)","こいつ、無人っ子ちゃんの前で ウロウロしてたにゃり！！","This guy was hanging around in front of an unattended child!","¡Este tipo estaba merodeando delante de los niños desatendidos!"
+"Yamamoto Akuji (talking)","無人っ子ちゃんって…","What's an unattended baby…","Los niños desatendidos son…"
+"Kako Mirai (talking)","借金機械にゃり。","Debt Machinery.","Maquinaria para la deuda."
+"Yamamoto Akuji (talking)","勝手に名前つけるな。 他人にゃわかんねーだろーが。","Don't name them without permission. Don't let others know what you think of them.","No le pongas tu nombre. Los demás no lo entenderán."
+"Kako Mirai (talking)","むがーー！","Mgaa!","¡Muga!"
+"Kaneda Sakatarou (talking)","さわるなと言ってるだろうが！","I said don't touch it!","¡He dicho que no lo toques!"
+"Yamamoto Akuji (talking)","てめーか、泥棒は。","You're the thief, aren't you?","Tú eres el ladrón, ¿no?"
+"Kaneda Sakatarou (talking)","ふん、失敬な！ このボクは、ここで金を借りてやろうと しただけだ。","Hmph, excuse me! I was just trying to borrow some money here.","Hm, ¡perdón! Sólo estaba tratando de pedir algo de dinero aquí."
+"Kako Mirai (talking)","むっきーー！！ にゃんかムカツクーー！","Mukki! Nyanka mukatu koo!","¡Mukki! ¡Nyanka mukatsu koo!"
+"Yamamoto Akuji (talking)","だけど、泥棒と間違われたって事は、 不審な事をしてたって訳じゃないのか？","But if he was mistaken for a thief, doesn't that mean he was doing something suspicious?","Pero si te confundieron con un ladrón, ¿no significa que estabas actuando de forma sospechosa?"
+"Kaneda Sakatarou (talking)","その女が勝手に騒いで、勝手にボクを 泥棒と勘違いして、勝手にここへ 連れてきただけだ。
 まったく。 これだから女は困る。
-低能なら低能らしく、おとなしくして いればいいものを。";"That woman made a fuss without my permission, mistook me for a thief, and brought me here without my permission.
+低能なら低能らしく、おとなしくして いればいいものを。","That woman made a fuss without my permission, mistook me for a thief, and brought me here without my permission.
 That's why women are so annoying. This is why women are so annoying.
-If they're so low, why don't they just act like lowlifes and keep quiet?";"Esa mujer hizo un escándalo, pensó que era un ladrón y me trajo aquí por su propia voluntad.
+If they're so low, why don't they just act like lowlifes and keep quiet?","Esa mujer hizo un escándalo, pensó que era un ladrón y me trajo aquí por su propia voluntad.
 Por eso las mujeres son tan molestas. Por eso las mujeres son tan molestas.
 Si son tan rastreros, ¿por qué no actúan como rastreros y se callan?"
-"Kako Mirai (talking)";"ていのぉぉ~~~~~~~？？？
+"Kako Mirai (talking)","ていのぉぉ~~~~~~~？？？
 てめーー、どこの穴から出てきた にゃりか！！ 木の股にゃりか！？
 女だからって馬鹿にする奴は、 たいてい昔、女に馬鹿にされたから、 鬱憤、はらしてる奴にゃりよ！！
 そんな事する奴は、低能っていうか、 レベル低いにゃり！！
-未来ちゃん、お利口に生まれて よかったにゃりー！！";"Teino no oh ~~~~~~~?
+未来ちゃん、お利口に生まれて よかったにゃりー！！","Teino no oh ~~~~~~~?
 Where the hell did you come from? Are you out of the crotch of a tree?
 Most people who make fun of you because you're a woman are just venting their frustration because they were made fun of by a woman in the past!
 Anyone who does that is not only low, but also low-level!
-You're lucky to be born smart, Mirai!";"Teino no oh ~~~~~~~?
+You're lucky to be born smart, Mirai!","Teino no oh ~~~~~~~?
  ¿De qué agujero has salido? ¿Te has quedado sin árbol?
 La mayoría de las personas que se burlan de ti porque eres mujer sólo están desahogando su frustración porque antes se burlaban de ellas.
 Cualquiera que haga eso no sólo es bajo, sino de bajo nivel.
 Mirai, ¡tienes suerte de haber nacido inteligente!"
-"Kaneda Sakatarou (talking)";"ふん。 ほざいていろ。";"Hmph. Keep talking.";"Hmph. Sigue hablando."
-"Yamamoto Akuji (talking)";"未来。 どうしてこいつ、泥棒だと思った？";"Mirai. What makes you think this guy is a thief?";"Mirai. ¿Por qué pensaste que este tipo era un ladrón?"
-"Kako Mirai (talking)";"こいつ、無人っ子ちゃんに奇妙なコード いっぱいつけて、ゴソゴソやってた にゃり。";"This guy was fiddling around with a bunch of strange cords attached to an unattended baby.";"Este tipo estaba jugueteando con un montón de cuerdas extrañas en un bebé desatendido."
-"Yamamoto Akuji (talking)";"ははーん。 借金機械を騙して、中の金、 ブン取ろうとしたな。";"Ha-ha-ha. You cheated me out of the money I owed you, and tried to take it from me.";"Ja, ja, ja. Intentaste engañar a la máquina de la deuda con el dinero que había dentro."
-"Kaneda Sakatarou (talking)";"そ、そんな証拠がどこにある！？";"Well, where is the proof of that!";"Bueno, ¡dónde están las pruebas de eso!"
-"Kako Mirai (talking)";"ぶらーん。
-これこれ。 その時のコードにゃり。";"Bla bla bla bla.
-This, this, this. The code at that time.";"Bla bla bla.
+"Kaneda Sakatarou (talking)","ふん。 ほざいていろ。","Hmph. Keep talking.","Hmph. Sigue hablando."
+"Yamamoto Akuji (talking)","未来。 どうしてこいつ、泥棒だと思った？","Mirai. What makes you think this guy is a thief?","Mirai. ¿Por qué pensaste que este tipo era un ladrón?"
+"Kako Mirai (talking)","こいつ、無人っ子ちゃんに奇妙なコード いっぱいつけて、ゴソゴソやってた にゃり。","This guy was fiddling around with a bunch of strange cords attached to an unattended baby.","Este tipo estaba jugueteando con un montón de cuerdas extrañas en un bebé desatendido."
+"Yamamoto Akuji (talking)","ははーん。 借金機械を騙して、中の金、 ブン取ろうとしたな。","Ha-ha-ha. You cheated me out of the money I owed you, and tried to take it from me.","Ja, ja, ja. Intentaste engañar a la máquina de la deuda con el dinero que había dentro."
+"Kaneda Sakatarou (talking)","そ、そんな証拠がどこにある！？","Well, where is the proof of that!","Bueno, ¡dónde están las pruebas de eso!"
+"Kako Mirai (talking)","ぶらーん。
+これこれ。 その時のコードにゃり。","Bla bla bla bla.
+This, this, this. The code at that time.","Bla bla bla.
 Esto, esto, esto. El código en ese momento."
-"Yamamoto Akuji (talking)";"なるほど。 証拠物件押収していたか。";"I see. They seized evidence.";"Ya veo. ¿Se incautaron las pruebas?"
-"Kaneda Sakatarou (talking)";"それが、ボクのものだっていう 証拠はないだろう。";"There is no proof that it belongs to me.";"No hay pruebas de que me pertenezca."
-"Kako Mirai (talking)";"むっきーーー！！！ ああ言えばこう言うーーー！！";"Mukki-oooo!!!! I'll say this, I'll say that!";"¡¡¡¡Mukki-oooo!!!! ¡Diré esto, diré aquello!"
-"Yamamoto Akuji (talking)";"金が欲しいのか。";"You want money.";"Quieres dinero."
-"Kaneda Sakatarou (talking)";"あればあっただけ、困る事はないね。";"I wouldn't have any trouble if I had it.";"No estaría en problemas si lo hubiera hecho."
-"Yamamoto Akuji (talking)";"おもしれー。";"Interesting.";"Interesante."
-"Kaneda Sakatarou (talking)";"なんだと？";"What the hell?";"¿Qué?"
-"Yamamoto Akuji (talking)";"治安課に突き出す代わりに、 俺の部下になれ。";"Instead of turning me in to the security services, you're going to work for me.";"En lugar de entregarme a los servicios de seguridad, trabajarás para mí."
-"Kaneda Sakatarou (talking)";"このボクに、人の下につけと いうのか！？";"You want me to be a servant of others?";"¡Quieres que tome a un hombre bajo mi ala!"
-"Yamamoto Akuji (talking)";"それがイヤなら、牢獄行きだ。 オメー、初犯じゃねーだろ。 その態度。
-なんなら市議会にチクって、 余罪増やしてやってもいいんだぜ？";"If you don't like it, you're going to jail. You're not a first-time offender, are you? That's the way you act.
-If you want, I can go to the city council and get you a few more charges, you know?";"Si no te gusta, irás a la cárcel. No eres un primer delincuente, ¿verdad? Esa es la actitud.
+"Yamamoto Akuji (talking)","なるほど。 証拠物件押収していたか。","I see. They seized evidence.","Ya veo. ¿Se incautaron las pruebas?"
+"Kaneda Sakatarou (talking)","それが、ボクのものだっていう 証拠はないだろう。","There is no proof that it belongs to me.","No hay pruebas de que me pertenezca."
+"Kako Mirai (talking)","むっきーーー！！！ ああ言えばこう言うーーー！！","Mukki-oooo!!!! I'll say this, I'll say that!","¡¡¡¡Mukki-oooo!!!! ¡Diré esto, diré aquello!"
+"Yamamoto Akuji (talking)","金が欲しいのか。","You want money.","Quieres dinero."
+"Kaneda Sakatarou (talking)","あればあっただけ、困る事はないね。","I wouldn't have any trouble if I had it.","No estaría en problemas si lo hubiera hecho."
+"Yamamoto Akuji (talking)","おもしれー。","Interesting.","Interesante."
+"Kaneda Sakatarou (talking)","なんだと？","What the hell?","¿Qué?"
+"Yamamoto Akuji (talking)","治安課に突き出す代わりに、 俺の部下になれ。","Instead of turning me in to the security services, you're going to work for me.","En lugar de entregarme a los servicios de seguridad, trabajarás para mí."
+"Kaneda Sakatarou (talking)","このボクに、人の下につけと いうのか！？","You want me to be a servant of others?","¡Quieres que tome a un hombre bajo mi ala!"
+"Yamamoto Akuji (talking)","それがイヤなら、牢獄行きだ。 オメー、初犯じゃねーだろ。 その態度。
+なんなら市議会にチクって、 余罪増やしてやってもいいんだぜ？","If you don't like it, you're going to jail. You're not a first-time offender, are you? That's the way you act.
+If you want, I can go to the city council and get you a few more charges, you know?","Si no te gusta, irás a la cárcel. No eres un primer delincuente, ¿verdad? Esa es la actitud.
 Si quieres, puedo ir al ayuntamiento y conseguirte más cargos, ¿sabes?"
-"Kaneda Sakatarou (talking)";"………………
-くそっ……勝手にしろ…";"………………
-Damn…… do what you want…";"………………
+"Kaneda Sakatarou (talking)","………………
+くそっ……勝手にしろ…","………………
+Damn…… do what you want…","………………
 Maldita sea…… haz lo que quieras…"
-"Yamamoto Akuji (talking)";"ほい、決定。 お前は俺の部下だ。 名前は？";"Here, it's decided. You're my man. What's your name?";"Hoi, decisión. Eres mi hombre. ¿Cómo te llamas?"
-"Kaneda Sakatarou (talking)";"…金田酒太郎。";"…Kaneda Sakatarou.";"…Kaneda Sakatarou."
-"Yamamoto Akuji (talking)";"俺は山本悪司だ。 俺の為にしっかり働きな。";"I'm Yamamoto Akuji. Work hard for me.";"Soy Yamamoto Akuji. Trabaja duro por mí."
-"Kaneda Sakatarou (talking)";"ふんっ！！";"Hmph!";"¡Hmph!"
-"Kako Mirai (talking)";"未来ちゃん、こんな奴が仲間っての、 すんげーいやにゃり！！";"Mirai, I'm so disgusted to have such a guy as this as a friend!";"¡Mirai, me da mucho asco ver a un tipo así en nuestro grupo!"
-"__system__??";"{(B地域 = 地域番号) * (Bキャラ \ 64):";"";""
-"__system__??";"}";"";""
-"__system__??";"{(■ \ 0) * (B忠誠タイプ \ 1):";"";""
-"Kaneda Sakatarou (talking)";"……と、このような事を 言ってやがったんだ。";"He said something like this at …….";"Dijo algo así en ……."
-"narrator";"金田は一人、喋っている。";"Kaneda is alone and talking.";"Kaneda está sola y hablando."
-"narrator";"の知人が、";"An acquaintance of the";"Un conocido del"
-"narrator";"の事を 悪く言っていた事。";"I had said some bad things about the";"Las cosas malas que dijo sobre el"
-"Kaneda Sakatarou (talking)";"あの、ボク達のボス顔をしている、 悪司だって、腹の底では――
+"Yamamoto Akuji (talking)","ほい、決定。 お前は俺の部下だ。 名前は？","Here, it's decided. You're my man. What's your name?","Hoi, decisión. Eres mi hombre. ¿Cómo te llamas?"
+"Kaneda Sakatarou (talking)","…金田酒太郎。","…Kaneda Sakatarou.","…Kaneda Sakatarou."
+"Yamamoto Akuji (talking)","俺は山本悪司だ。 俺の為にしっかり働きな。","I'm Yamamoto Akuji. Work hard for me.","Soy Yamamoto Akuji. Trabaja duro por mí."
+"Kaneda Sakatarou (talking)","ふんっ！！","Hmph!","¡Hmph!"
+"Kako Mirai (talking)","未来ちゃん、こんな奴が仲間っての、 すんげーいやにゃり！！","Mirai, I'm so disgusted to have such a guy as this as a friend!","¡Mirai, me da mucho asco ver a un tipo así en nuestro grupo!"
+"__system__??","{(B地域 = 地域番号) * (Bキャラ \ 64):","",""
+"__system__??","}","",""
+"__system__??","{(■ \ 0) * (B忠誠タイプ \ 1):","",""
+"Kaneda Sakatarou (talking)","……と、このような事を 言ってやがったんだ。","He said something like this at …….","Dijo algo así en ……."
+"narrator","金田は一人、喋っている。","Kaneda is alone and talking.","Kaneda está sola y hablando."
+"narrator","の知人が、","An acquaintance of the","Un conocido del"
+"narrator","の事を 悪く言っていた事。","I had said some bad things about the","Las cosas malas que dijo sobre el"
+"Kaneda Sakatarou (talking)","あの、ボク達のボス顔をしている、 悪司だって、腹の底では――
 だいたい、この組織だって、 元は烏合の衆だし。
 トップになっている奴は、運でトップに なったとしか思えない、無能者の集団 じゃないか。
-そんな風になったのも、 世間が、政治が――";"Even our boss, Akuji, deep down inside, he's just a guy with a big mouth.
+そんな風になったのも、 世間が、政治が――","Even our boss, Akuji, deep down inside, he's just a guy with a big mouth.
 This organization used to be a bunch of loose cannibals.
 The people at the top are a bunch of incompetents who got there by sheer luck.
-The reason why they became like that is because of the world, politics…";"Sabes, incluso nuestro jefe, Akuji, en el fondo…
+The reason why they became like that is because of the world, politics…","Sabes, incluso nuestro jefe, Akuji, en el fondo…
 Esta organización solía ser un grupo de zoquetes.
 Las personas que están en la cima son un montón de incompetentes que llegaron allí por pura suerte.
 La razón por la que resultó así es que el mundo, la política…"
-"narrator";"金田のそんな話を聞いていて、 半ば呆れていた";"I was half-amused to hear Kaneda talk like that.";"Me ha hecho gracia escuchar a Kaneda hablar así."
-"narrator";"も、 次第に鬱憤が溜まってきた。";"The “Mere Old Man” also became more and more resentful.";"también se exaspera cada vez más."
-"__system__??";"}";"";""
-"__system__??";"{(■ \ 0) * (B忠誠タイプ = 1):";"";""
-"Kaneda Sakatarou (talking)";"……と、このような事を 言ってやがったんだ。";"He said something like this at …….";"Dijo algo así en ……."
-"narrator";"金田は一人、喋っている。";"Kaneda is alone and talking.";"Kaneda está sola y hablando."
-"narrator";"の知人が、";"An acquaintance of the";"Un conocido del"
-"narrator";"の事を 悪く言っていた事。";"I had said some bad things about the";"Las cosas malas que dijo sobre el"
-"Kaneda Sakatarou (talking)";"あの、ボク達のボス顔をしている、 悪司だって、腹の底では――
+"narrator","金田のそんな話を聞いていて、 半ば呆れていた","I was half-amused to hear Kaneda talk like that.","Me ha hecho gracia escuchar a Kaneda hablar así."
+"narrator","も、 次第に鬱憤が溜まってきた。","The “Mere Old Man” also became more and more resentful.","también se exaspera cada vez más."
+"__system__??","}","",""
+"__system__??","{(■ \ 0) * (B忠誠タイプ = 1):","",""
+"Kaneda Sakatarou (talking)","……と、このような事を 言ってやがったんだ。","He said something like this at …….","Dijo algo así en ……."
+"narrator","金田は一人、喋っている。","Kaneda is alone and talking.","Kaneda está sola y hablando."
+"narrator","の知人が、","An acquaintance of the","Un conocido del"
+"narrator","の事を 悪く言っていた事。","I had said some bad things about the","Las cosas malas que dijo sobre el"
+"Kaneda Sakatarou (talking)","あの、ボク達のボス顔をしている、 悪司だって、腹の底では――
 だいたい、この組織だって、 元は烏合の衆だし。
 トップになっている奴は、運でトップに なったとしか思えない、無能者の集団 じゃないか。
-そんな風になったのも、 世間が、政治が――";"Even our boss, Akuji, deep down inside, he's just a guy with a big mouth.
+そんな風になったのも、 世間が、政治が――","Even our boss, Akuji, deep down inside, he's just a guy with a big mouth.
 This organization used to be a bunch of loose cannibals.
 The people at the top are a bunch of incompetents who got there by sheer luck.
-The reason why they became like that is because of the world, politics…";"Sabes, incluso nuestro jefe, Akuji, en el fondo…
+The reason why they became like that is because of the world, politics…","Sabes, incluso nuestro jefe, Akuji, en el fondo…
 Esta organización solía ser un grupo de zoquetes.
 Las personas que están en la cima son un montón de incompetentes que llegaron allí por pura suerte.
 La razón por la que resultó así es que el mundo, la política…"
-"narrator";"金田のそんな話を聞いていて、 半ば呆れていた";"I was half-amused to hear Kaneda talk like that.";"Me ha hecho gracia escuchar a Kaneda hablar así."
-"narrator";"だが、 金田のそんな態度をたしなめた。";"However, he corrected Kaneda's attitude.";"Sin embargo, Kaneda fue reprendido por esta actitud."
-"Kaneda Sakatarou (talking)";"なんだ、お前…… そうか、お前もそういう奴だったと いう訳か。
-フン。 お前みたいな奴と話しているのは、 時間の無駄だ。";"What the heck, you ……, so that's what you are too, huh?
-Hmph. Talking to a guy like you is a waste of time.";"Qué demonios, tú…… Ya veo, así que así eras tú.
+"narrator","金田のそんな話を聞いていて、 半ば呆れていた","I was half-amused to hear Kaneda talk like that.","Me ha hecho gracia escuchar a Kaneda hablar así."
+"narrator","だが、 金田のそんな態度をたしなめた。","However, he corrected Kaneda's attitude.","Sin embargo, Kaneda fue reprendido por esta actitud."
+"Kaneda Sakatarou (talking)","なんだ、お前…… そうか、お前もそういう奴だったと いう訳か。
+フン。 お前みたいな奴と話しているのは、 時間の無駄だ。","What the heck, you ……, so that's what you are too, huh?
+Hmph. Talking to a guy like you is a waste of time.","Qué demonios, tú…… Ya veo, así que así eras tú.
 Hmph. Hablar con gente como tú es una pérdida de tiempo."
-"narrator";"金田は";"Kaneda is";"Kaneda es."
-"narrator";"を嫌いになった。";"I disliked the";"No me gusta."
-"__system__??";"}";"";""
-"narrator";"この地域に配備されているのは、金田酒太郎と 数名の名のない下っ端ばかりだった。 金田は機嫌が悪かった。";"Deployed in the area were Kaneda Sakatarou and a few unnamed lackeys. Kaneda was in a bad mood.";"En la zona se encontraban Kaneda Sakatarou y algunos subordinados no identificados. Kaneda estaba de mal humor."
-"Kaneda Sakatarou (talking)";"くそっ……こんな所にボク一人だけに するなんて。
+"narrator","金田は","Kaneda is","Kaneda es."
+"narrator","を嫌いになった。","I disliked the","No me gusta."
+"__system__??","}","",""
+"narrator","この地域に配備されているのは、金田酒太郎と 数名の名のない下っ端ばかりだった。 金田は機嫌が悪かった。","Deployed in the area were Kaneda Sakatarou and a few unnamed lackeys. Kaneda was in a bad mood.","En la zona se encontraban Kaneda Sakatarou y algunos subordinados no identificados. Kaneda estaba de mal humor."
+"Kaneda Sakatarou (talking)","くそっ……こんな所にボク一人だけに するなんて。
 組織の奴らはボクを仲間はずれにして いるんだ。
 他の場所できっとみんなでボクの悪口を 言っているに違いない。
-なんて酷い奴らだ。 今にみてろ……";"Damn…… how can they leave me all alone in a place like this?
+なんて酷い奴らだ。 今にみてろ……","Damn…… how can they leave me all alone in a place like this?
 They must be leaving me out of the group.
 I bet they're all talking shit about me somewhere else.
-What a bunch of jerks. We'll see……";"Maldito…… por dejarme solo en un lugar como este.
+What a bunch of jerks. We'll see……","Maldito…… por dejarme solo en un lugar como este.
 Me están dejando fuera de la banda.
 Apuesto a que todos están hablando mal de mí en otro lugar.
 Vaya panda de imbéciles. Ya lo verás……"
-"narrator";"一人の男が歩いていた。";"A man was walking.";"Un hombre estaba caminando."
-"Kaneda Sakatarou (talking)";"そこの女。";"Woman there.";"Una mujer allí."
-"joshigakusei (talking)";"は？";"Huh?";"¿Ja?"
-"Kaneda Sakatarou (talking)";"今、ボクの事を、ブタだと思っただろ？";"Now you think I'm a pig, don't you?";"Ahora crees que soy un cerdo, ¿no?"
-"joshigakusei (talking)";"はぁ？？";"Huh?";"¿Eh?"
-"Kaneda Sakatarou (talking)";"今、この犯罪者、何言ってやがると 思っただろう！？";"Now you must be thinking, what the hell is this criminal talking about!";"Ahora, este criminal, probablemente esté pensando, ¡de qué demonios está hablando!"
-"joshigakusei (talking)";"な、何よ、あんた……";"What the hell, you ……";"Qué demonios, tú ……"
-"Kaneda Sakatarou (talking)";"そう思ってるだろう！";"I know you think so!";"¡Sé que lo piensas!"
-"joshigakusei (talking)";"知らないわよ……何……気持ち悪い……";"I don't know…… what…… weird ……";"No sé…… qué…… asqueroso……"
-"narrator";"女の子は気味悪そうに走り去って行った。";"The girl ran off, looking creeped out.";"La chica salió corriendo con cara de asco."
-"Kaneda Sakatarou (talking)";"ふん、世の中、不愉快な事だらけだ。 ボクの力が発揮出来る場所もないのかよ。";"Hmmm, the world is full of unpleasantness. There's no place for me to show my strength.";"Hmm, el mundo está lleno de disgustos. No hay lugar para mostrar mi fuerza."
-"narrator";"酒太郎は悪司に装備するように言われた ガチャガチャを弄んでいた。";"Sakatarou was playing with the mess Akuji told him to equip.";"Sakatarou estaba jugando con el lío que Akuji le dijo que equipara."
-"Kaneda Sakatarou (talking)";"なんなんだ、これは… こんな、役に立たないものを、 どうして、この僕に…";"What is this, this… this useless thing?";"¿Qué es esto… esta cosa inútil, y por qué me dice…"
-"narrator";"　　［きらーんっ］";"[screeching]";"[chillidos]"
-"Kaneda Sakatarou (talking)";"むっ！？
+"narrator","一人の男が歩いていた。","A man was walking.","Un hombre estaba caminando."
+"Kaneda Sakatarou (talking)","そこの女。","Woman there.","Una mujer allí."
+"joshigakusei (talking)","は？","Huh?","¿Ja?"
+"Kaneda Sakatarou (talking)","今、ボクの事を、ブタだと思っただろ？","Now you think I'm a pig, don't you?","Ahora crees que soy un cerdo, ¿no?"
+"joshigakusei (talking)","はぁ？？","Huh?","¿Eh?"
+"Kaneda Sakatarou (talking)","今、この犯罪者、何言ってやがると 思っただろう！？","Now you must be thinking, what the hell is this criminal talking about!","Ahora, este criminal, probablemente esté pensando, ¡de qué demonios está hablando!"
+"joshigakusei (talking)","な、何よ、あんた……","What the hell, you ……","Qué demonios, tú ……"
+"Kaneda Sakatarou (talking)","そう思ってるだろう！","I know you think so!","¡Sé que lo piensas!"
+"joshigakusei (talking)","知らないわよ……何……気持ち悪い……","I don't know…… what…… weird ……","No sé…… qué…… asqueroso……"
+"narrator","女の子は気味悪そうに走り去って行った。","The girl ran off, looking creeped out.","La chica salió corriendo con cara de asco."
+"Kaneda Sakatarou (talking)","ふん、世の中、不愉快な事だらけだ。 ボクの力が発揮出来る場所もないのかよ。","Hmmm, the world is full of unpleasantness. There's no place for me to show my strength.","Hmm, el mundo está lleno de disgustos. No hay lugar para mostrar mi fuerza."
+"narrator","酒太郎は悪司に装備するように言われた ガチャガチャを弄んでいた。","Sakatarou was playing with the mess Akuji told him to equip.","Sakatarou estaba jugando con el lío que Akuji le dijo que equipara."
+"Kaneda Sakatarou (talking)","なんなんだ、これは… こんな、役に立たないものを、 どうして、この僕に…","What is this, this… this useless thing?","¿Qué es esto… esta cosa inútil, y por qué me dice…"
+"narrator","　　［きらーんっ］","[screeching]","[chillidos]"
+"Kaneda Sakatarou (talking)","むっ！？
 おっ……？
-おーーーーーーーー！！！！！！";"Mwah!
+おーーーーーーーー！！！！！！","Mwah!
 Whoa ……?
-Ooooooooooooo ！！！！！！";"¡Mwah!
+Ooooooooooooo ！！！！！！","¡Mwah!
 Oooooh ……?
 Oooooooh ！！！！！！"
-" (talking)";"……………
+" (talking)","……………
  ……なっ……
-なななっ……";"……………
+なななっ……","……………
  …………
-Nana Nana……";"……………
+Nana Nana……","……………
  …………
 Nana……"
-"Kaneda Sakatarou (talking)";"なんだこれはぁぁ！！！ 何が起こったんだーー！！！！";"What the hell is this!!!! What the hell just happened… ！！！！";"¿Qué diablos es esto? !!!! Qué demonios acaba de pasar… ！！！！"
-"narrator";"酒太郎は、一人しょんぼりと、 原っぱの土管の上に座っていた。";"Sakatarou was sitting alone on a dirt pipe in a field.";"Sakatarou estaba sentada sola, lúgubremente, sobre una pipa de arcilla en un campo."
-"Kaneda Sakatarou (talking)";"………………";"………………";"………………"
-"narrator";"足をぶらぶらさせ、軽く口を尖らせている。";"His legs are dangling and his mouth is lightly agape.";"Las piernas colgando, la boca ligeramente abierta."
-"Kaneda Sakatarou (thinking)";"なんだか、急に人が優しく、 僕に接してくるようになった… 女になったせいかな…？
+"Kaneda Sakatarou (talking)","なんだこれはぁぁ！！！ 何が起こったんだーー！！！！","What the hell is this!!!! What the hell just happened… ！！！！","¿Qué diablos es esto? !!!! Qué demonios acaba de pasar… ！！！！"
+"narrator","酒太郎は、一人しょんぼりと、 原っぱの土管の上に座っていた。","Sakatarou was sitting alone on a dirt pipe in a field.","Sakatarou estaba sentada sola, lúgubremente, sobre una pipa de arcilla en un campo."
+"Kaneda Sakatarou (talking)","………………","………………","………………"
+"narrator","足をぶらぶらさせ、軽く口を尖らせている。","His legs are dangling and his mouth is lightly agape.","Las piernas colgando, la boca ligeramente abierta."
+"Kaneda Sakatarou (thinking)","なんだか、急に人が優しく、 僕に接してくるようになった… 女になったせいかな…？
 どうしてなんだ…でも…あの中に入るのは なんだか照れ臭いし…
- ……どうしたらいいんだ…僕は…";"Suddenly, people are being nice to me… maybe it's because I've become a woman…?
-I don't know why… but… it's kind of embarrassing to be in that room……… What should I do…?";"No sé, de repente la gente es amable conmigo… ¿quizás porque me he convertido en mujer?
+ ……どうしたらいいんだ…僕は…","Suddenly, people are being nice to me… maybe it's because I've become a woman…?
+I don't know why… but… it's kind of embarrassing to be in that room……… What should I do…?","No sé, de repente la gente es amable conmigo… ¿quizás porque me he convertido en mujer?
 No sé por qué… pero… es un poco embarazoso estar en esa habitación……… ¿Qué debo hacer…?"
-"Seinendan Jyoshi (talking)";"酒太郎さーん。 ここ、どうすればいいか、 教えて下さいー。";"Sakatarou. Please tell me what to do here.";"Sakatarou. Por favor, dígame qué hacer aquí."
-"Kaneda Sakatarou (talking)";"なんだ、そんな事もわからないのか。 いいか？ ここは、こう。
-そして、ここをこうすると、 合理的、かつ、シンプルに 計算出来るだろう？";"What, you don't know that? Okay? Here, this is what we're going to do.
-And if we do it this way, we can do it rationally and simply, right?";"¿Qué, no lo sabes? Bien, ¿sabes qué? Toma, esto.
+"Seinendan Jyoshi (talking)","酒太郎さーん。 ここ、どうすればいいか、 教えて下さいー。","Sakatarou. Please tell me what to do here.","Sakatarou. Por favor, dígame qué hacer aquí."
+"Kaneda Sakatarou (talking)","なんだ、そんな事もわからないのか。 いいか？ ここは、こう。
+そして、ここをこうすると、 合理的、かつ、シンプルに 計算出来るだろう？","What, you don't know that? Okay? Here, this is what we're going to do.
+And if we do it this way, we can do it rationally and simply, right?","¿Qué, no lo sabes? Bien, ¿sabes qué? Toma, esto.
 Y si lo hacemos así, podemos calcularlo de forma racional y sencilla, ¿no?"
-"Seinendan Jyoshi (talking)";"あ、そっかー… 酒太郎さん、ありがとう。";"Oh, I see… Thank you Sakatarou.";"Oh, ya veo… Gracias, Sakatarou."
-"Kaneda Sakatarou (talking)";"う……うん…まあ……";"U…… yeah… well ……";"U…… sí… bueno ……"
-"Seinendan Jyoshi (talking)";"今度一緒に、お買い物行きませんか？ 酒太郎さんに似合う洋服とかあるとこ 知ってますよ。";"Would you like to go shopping with me sometime? I know a place that has clothes that would look good on Sakatarou.";"¿Te gustaría ir de compras conmigo la próxima vez? Conozco un lugar que tiene ropa que le vendría bien a Sakatarou."
-"Kaneda Sakatarou (talking)";"……う、うん… また今度な。";"…… Umm, yeah… maybe another time.";"…… Ummm, sí… quizás en otra ocasión."
-"narrator";"なんとなく、人になつく事が出来てきだした 酒太郎だった。";"Somehow, Sakatarou began to be able to get used to people.";"De alguna manera, Sakatarou empezó a acostumbrarse a la gente."
-"Kaneda Sakatarou (talking)";"ど、どうして僕がこんな目に あわなくちゃいけないんだ！！
+"Seinendan Jyoshi (talking)","あ、そっかー… 酒太郎さん、ありがとう。","Oh, I see… Thank you Sakatarou.","Oh, ya veo… Gracias, Sakatarou."
+"Kaneda Sakatarou (talking)","う……うん…まあ……","U…… yeah… well ……","U…… sí… bueno ……"
+"Seinendan Jyoshi (talking)","今度一緒に、お買い物行きませんか？ 酒太郎さんに似合う洋服とかあるとこ 知ってますよ。","Would you like to go shopping with me sometime? I know a place that has clothes that would look good on Sakatarou.","¿Te gustaría ir de compras conmigo la próxima vez? Conozco un lugar que tiene ropa que le vendría bien a Sakatarou."
+"Kaneda Sakatarou (talking)","……う、うん… また今度な。","…… Umm, yeah… maybe another time.","…… Ummm, sí… quizás en otra ocasión."
+"narrator","なんとなく、人になつく事が出来てきだした 酒太郎だった。","Somehow, Sakatarou began to be able to get used to people.","De alguna manera, Sakatarou empezó a acostumbrarse a la gente."
+"Kaneda Sakatarou (talking)","ど、どうして僕がこんな目に あわなくちゃいけないんだ！！
 帰る、僕は帰る！
 止めるな！！ 止めるんじゃない！！ あ、何をする、この低能が！！
 こんな事になったのも、 あの悪司という男のせいだ！！ 死ね、悪司め！！
@@ -242,7 +242,7 @@ Y si lo hacemos así, podemos calcularlo de forma racional y sencilla, ¿no?"
 や、やめろ、近づくんじゃない！ くるな、これ以上こっちにくるな！！
 痛いのは嫌いなんだ！！ 僕は平和主義なんだ！
 この低能な猿め！！ 近づくなと言っただろうが！！
-おんにゃーーーーーーーー！！！！！";"Why did I have to go through all this?
+おんにゃーーーーーーーー！！！！！","Why did I have to go through all this?
 I'm leaving. I'm leaving!
 Don't stop me! Don't stop me! What are you doing, you lowlife!
 This whole thing happened because of that man, Akuji! Die, Akuji!
@@ -250,7 +250,7 @@ Wait a minute, I'm the one who's gonna get Satsued!
 No, no, no, don't come any closer! Don't come any closer!
 I don't like pain! I'm a pacifist!
 You low-down ape! I told you to stay away from me!
-Onyoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo ！！！！！";"¿Por qué tuve que pasar por todo esto?
+Onyoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo ！！！！！","¿Por qué tuve que pasar por todo esto?
 Me voy. ¡Me voy!
  ¡No me detengas! ¡No me detengas! ¿Qué estás haciendo, malviviente?
  ¡Es culpa de ese tipo Akuji que estemos en este lío! ¡Muere, Akuji!

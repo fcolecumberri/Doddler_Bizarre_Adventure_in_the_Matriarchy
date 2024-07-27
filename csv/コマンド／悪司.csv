@@ -1,274 +1,274 @@
-"character";"jap text";"Eng";"Esp"
-"narrator";"　エラー 　このファイル名は、もう無いです。 　削除して下さい。";"Error This filename is no longer available. 　Please delete it.";"Error Este nombre de archivo ya no está disponible. 　Por favor, bórralo."
-"narrator";"──多数のウィミィ兵を乗せたトラックが、 その地の主要施設全てに突然乗り込んできた。";"Trucks carrying large numbers of Wime soldiers suddenly rolled up to all the major facilities in the area.";"─ ─ Los camiones que transportan un gran número de soldados Wime han entrado de repente en todas las instalaciones importantes de la zona."
-"__system__??";"{☆イハビ占領 = 0:";"";""
-"Judy Ca (talking)";"……よし、各員作戦開始！ 奉仕青年団とニホン人を叩き出せ！！";"…… Okay, each member open the operation Hajime! Get out the service youth group and the nihongans!";"…… Bien, cada miembro abre la operación Hajime! ¡Saca a la Organización Juvenil de Servicio y a los Nihonganos!"
-"__system__??";"}";"";""
-"__system__??";"{☆イハビ占領 = 1:";"";""
-"joseishikan (talking)";"……ジュディ隊長の指示通りに動けよ！ 全員散開、この地域を征圧する！！";"……Judy Move as the captain directs! All troops spread out and conquer this area!!!!!!!!!!!!!!!!!!!!!!!!!!!!";"……Judy ¡Muévanse como su capitán ha instruido! ¡Despliéguense todos, conquisten esta zona!"
-"__system__??";"}";"";""
-"__system__??";"{☆イハビ占領 > 1:";"";""
-"__system__??";"{RND = 1:";"";""
-"uimiionnaheishi (talking)";"……さあ、カーニバルの始まりよ！ ＧＯＧＯＧＯＧＯＧＯ、ハリアップ！ ノロマは片っ端からケリ入れるからね！";"…… Come on, it's Hajime Mariyoko at the Carnival! GOGOGOGOGO! Gogo gogogo! I'm gonna kick your ass!";"…… ¡Vamos, es Hajime Mariyo en la feria! ¡GOGOGOGO! ¡Gogo gogogo! ¡Os daré una patada en el culo a cada uno de vosotros!"
-"__system__??";"}";"";""
-"__system__??";"{RND = 2:";"";""
-"uimiionnaheishi (talking)";"……ここでイハビーラに恩を売れば 夏はアロハでバカンス確実よ！ 気合い入れてかかりなさい！！！";"…… If you sell your debt to Ehavilla here, you'll be on vacation in Aloha this summer for sure! Get fired up!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!";"…… ¡Si vendes tu deuda a Ehavilla aquí, estarás de vacaciones en Aloha todo el verano! Hay que estar a la altura de las circunstancias."
-"__system__??";"}";"";""
-"__system__??";"{RND = 3:";"";""
-"uimiionnaheishi (talking)";"ククッ、戦時中を思い出すわ……！ さあ、イエローを血祭りに上げるわよ！";"Kukk, reminds me of wartime: ……! Come on, let's go bleed some yellows!";"¡Kukk, me recuerda a los tiempos de guerra……! ¡Vamos, que se ensucien los amarillos!"
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{RND = 1:";"";""
-"uimiiheishi (talking)";"イィヤッハーーーーーッ！ 黄色い猿どもめ、俺のケツを舐めろ！！";"Yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee! You yellow monkeys, lick my ass!!!!!!!";"¡Yeeeeahhhh! ¡Monos amarillos, lamedme el culo!"
-"__system__??";"}";"";""
-"__system__??";"{RND = 2:";"";""
-"uimiiheishi (talking)";"オラオラ、ニホン人ども！！ 死にたくなきゃ道を空けなっ！";"Hey, hey, hey, hey, you Japanese! Get out of the way if you want to die!";"¡Ola ola, japonés! ¡Apártate si quieres morir!"
-"__system__??";"}";"";""
-"__system__??";"{RND = 3:";"";""
-"uimiiheishi (talking)";"Ａ小隊からＢ小隊は前へ！！ Ｃ小隊以下設営隊を援護するのが 第一目的だぞ！　急げっ！！";"A Platoon to B Platoon, move forward! The primary objective is to cover the setup team under C Platoon!　Hurry up!";"Pelotón A a Pelotón B, ¡adelante! El objetivo principal es cubrir el equipo de montaje bajo el pelotón C.　¡Deprisa!"
-"__system__??";"}";"";""
-"__system__??";"{RND = 4:";"";""
-"uimiiheishi (talking)";"ク……ククククッ……！ 戦場だ……堂々と人の殺せる戦場に 俺は戻って来たぜえっ……！！";"Kuku…… kuku kuku kuku kuku ……! I'm back on the battlefield…… where I can Satsu people with impunity eh ……!";"¡Kuku…… kuku kuku kuku ……! Es un campo de batalla…… donde puedes Satsu a la gente con impunidad. ¡He vuelto, eh ……!"
-"__system__??";"}";"";""
-"__system__??";"{RND = 5:";"";""
-"uimiiheishi (talking)";"各人、覚悟を決めろよ！ 刃向かうニホン人は血祭りに上げろ！！";"Each of you, be prepared! Let the blood be on the hands of any Japanese who defy us!";"Cada uno de ustedes, ¡prepárese! ¡Que la sangre esté en las manos de cualquier nipón que nos desafíe!"
-"__system__??";"}";"";""
-"__system__??";"{RND = 1:";"";""
-"Seinendan Jyoshi (talking)";"なっ……何なんです？！ ここは奉仕青年団の支配地域で……";"What is ……? This is a service youth group controlled area ……";"¿Qué es ……? Se trata de una zona controlada por la organización juvenil de servicios ……"
-"__system__??";"}";"";""
-"__system__??";"{RND = 2:";"";""
-"Elite Yakuza (talking)";"こっ、これは一体……！ どうしてウィミィ兵が……！";"What the heck is this ……! Why are Wime soldiers ……!";"¿Qué demonios es esto? ¡……! ¿Por qué los soldados de Wime son ……?"
-"__system__??";"}";"";""
-"__system__??";"{RND = 3:";"";""
-"Chinpira (talking)";"こ、この野郎、 ここは奉仕青年団のシマだぞ！ てめえら一体何様のつもりで……";"Hey, you son of a bitch, this is Service Youth League territory! Who the hell do you think you are? ……";"¡Hijo de puta, esto es territorio de la Liga Juvenil de Servicios! ¿Quién demonios te crees que eres? ……"
-"__system__??";"}";"";""
-"__system__??";"{☆イハビ占領 = 0:";"";""
-"uimiionnaheishi (talking)";"………この周辺に住むニホン人と 奉仕青年団の構成員に告ぐ！";"……… Attention all Nihongans living in this neighborhood and members of the Service Youth Corps!";"……… ¡Atención a todos los nihonguenses que viven en esta zona y a los miembros de la Liga Juvenil de Servicio!"
-"uimiionnaheishi (talking)";"は現時刻をもって ウィミィ進駐軍エデン守備隊領として 土地、財産、住民、全てを没収する！
-以後、";"is hereby declared a possession of the Eden Garrison of the Wime Occupation Force, and all lands, property, and inhabitants thereof are hereby confiscated!
-Henceforth.";"se declara por la presente un territorio de guarnición de Edén ocupado por el tiempo, y se confiscan todas las tierras, propiedades y habitantes del mismo.
+"character","jap text","Eng","Esp"
+"narrator","　エラー 　このファイル名は、もう無いです。 　削除して下さい。","Error This filename is no longer available. 　Please delete it.","Error Este nombre de archivo ya no está disponible. 　Por favor, bórralo."
+"narrator","──多数のウィミィ兵を乗せたトラックが、 その地の主要施設全てに突然乗り込んできた。","Trucks carrying large numbers of Wime soldiers suddenly rolled up to all the major facilities in the area.","─ ─ Los camiones que transportan un gran número de soldados Wime han entrado de repente en todas las instalaciones importantes de la zona."
+"__system__??","{☆イハビ占領 = 0:","",""
+"Judy Ca (talking)","……よし、各員作戦開始！ 奉仕青年団とニホン人を叩き出せ！！","…… Okay, each member open the operation Hajime! Get out the service youth group and the nihongans!","…… Bien, cada miembro abre la operación Hajime! ¡Saca a la Organización Juvenil de Servicio y a los Nihonganos!"
+"__system__??","}","",""
+"__system__??","{☆イハビ占領 = 1:","",""
+"joseishikan (talking)","……ジュディ隊長の指示通りに動けよ！ 全員散開、この地域を征圧する！！","……Judy Move as the captain directs! All troops spread out and conquer this area!!!!!!!!!!!!!!!!!!!!!!!!!!!!","……Judy ¡Muévanse como su capitán ha instruido! ¡Despliéguense todos, conquisten esta zona!"
+"__system__??","}","",""
+"__system__??","{☆イハビ占領 > 1:","",""
+"__system__??","{RND = 1:","",""
+"uimiionnaheishi (talking)","……さあ、カーニバルの始まりよ！ ＧＯＧＯＧＯＧＯＧＯ、ハリアップ！ ノロマは片っ端からケリ入れるからね！","…… Come on, it's Hajime Mariyoko at the Carnival! GOGOGOGOGO! Gogo gogogo! I'm gonna kick your ass!","…… ¡Vamos, es Hajime Mariyo en la feria! ¡GOGOGOGO! ¡Gogo gogogo! ¡Os daré una patada en el culo a cada uno de vosotros!"
+"__system__??","}","",""
+"__system__??","{RND = 2:","",""
+"uimiionnaheishi (talking)","……ここでイハビーラに恩を売れば 夏はアロハでバカンス確実よ！ 気合い入れてかかりなさい！！！","…… If you sell your debt to Ehavilla here, you'll be on vacation in Aloha this summer for sure! Get fired up!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!","…… ¡Si vendes tu deuda a Ehavilla aquí, estarás de vacaciones en Aloha todo el verano! Hay que estar a la altura de las circunstancias."
+"__system__??","}","",""
+"__system__??","{RND = 3:","",""
+"uimiionnaheishi (talking)","ククッ、戦時中を思い出すわ……！ さあ、イエローを血祭りに上げるわよ！","Kukk, reminds me of wartime: ……! Come on, let's go bleed some yellows!","¡Kukk, me recuerda a los tiempos de guerra……! ¡Vamos, que se ensucien los amarillos!"
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{RND = 1:","",""
+"uimiiheishi (talking)","イィヤッハーーーーーッ！ 黄色い猿どもめ、俺のケツを舐めろ！！","Yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee! You yellow monkeys, lick my ass!!!!!!!","¡Yeeeeahhhh! ¡Monos amarillos, lamedme el culo!"
+"__system__??","}","",""
+"__system__??","{RND = 2:","",""
+"uimiiheishi (talking)","オラオラ、ニホン人ども！！ 死にたくなきゃ道を空けなっ！","Hey, hey, hey, hey, you Japanese! Get out of the way if you want to die!","¡Ola ola, japonés! ¡Apártate si quieres morir!"
+"__system__??","}","",""
+"__system__??","{RND = 3:","",""
+"uimiiheishi (talking)","Ａ小隊からＢ小隊は前へ！！ Ｃ小隊以下設営隊を援護するのが 第一目的だぞ！　急げっ！！","A Platoon to B Platoon, move forward! The primary objective is to cover the setup team under C Platoon!　Hurry up!","Pelotón A a Pelotón B, ¡adelante! El objetivo principal es cubrir el equipo de montaje bajo el pelotón C.　¡Deprisa!"
+"__system__??","}","",""
+"__system__??","{RND = 4:","",""
+"uimiiheishi (talking)","ク……ククククッ……！ 戦場だ……堂々と人の殺せる戦場に 俺は戻って来たぜえっ……！！","Kuku…… kuku kuku kuku kuku ……! I'm back on the battlefield…… where I can Satsu people with impunity eh ……!","¡Kuku…… kuku kuku kuku ……! Es un campo de batalla…… donde puedes Satsu a la gente con impunidad. ¡He vuelto, eh ……!"
+"__system__??","}","",""
+"__system__??","{RND = 5:","",""
+"uimiiheishi (talking)","各人、覚悟を決めろよ！ 刃向かうニホン人は血祭りに上げろ！！","Each of you, be prepared! Let the blood be on the hands of any Japanese who defy us!","Cada uno de ustedes, ¡prepárese! ¡Que la sangre esté en las manos de cualquier nipón que nos desafíe!"
+"__system__??","}","",""
+"__system__??","{RND = 1:","",""
+"Seinendan Jyoshi (talking)","なっ……何なんです？！ ここは奉仕青年団の支配地域で……","What is ……? This is a service youth group controlled area ……","¿Qué es ……? Se trata de una zona controlada por la organización juvenil de servicios ……"
+"__system__??","}","",""
+"__system__??","{RND = 2:","",""
+"Elite Yakuza (talking)","こっ、これは一体……！ どうしてウィミィ兵が……！","What the heck is this ……! Why are Wime soldiers ……!","¿Qué demonios es esto? ¡……! ¿Por qué los soldados de Wime son ……?"
+"__system__??","}","",""
+"__system__??","{RND = 3:","",""
+"Chinpira (talking)","こ、この野郎、 ここは奉仕青年団のシマだぞ！ てめえら一体何様のつもりで……","Hey, you son of a bitch, this is Service Youth League territory! Who the hell do you think you are? ……","¡Hijo de puta, esto es territorio de la Liga Juvenil de Servicios! ¿Quién demonios te crees que eres? ……"
+"__system__??","}","",""
+"__system__??","{☆イハビ占領 = 0:","",""
+"uimiionnaheishi (talking)","………この周辺に住むニホン人と 奉仕青年団の構成員に告ぐ！","……… Attention all Nihongans living in this neighborhood and members of the Service Youth Corps!","……… ¡Atención a todos los nihonguenses que viven en esta zona y a los miembros de la Liga Juvenil de Servicio!"
+"uimiionnaheishi (talking)","は現時刻をもって ウィミィ進駐軍エデン守備隊領として 土地、財産、住民、全てを没収する！
+以後、","is hereby declared a possession of the Eden Garrison of the Wime Occupation Force, and all lands, property, and inhabitants thereof are hereby confiscated!
+Henceforth.","se declara por la presente un territorio de guarnición de Edén ocupado por el tiempo, y se confiscan todas las tierras, propiedades y habitantes del mismo.
 A partir de ahora."
-"uimiionnaheishi (talking)";"とその周辺地域は 奉仕青年団を仮想敵とみなした 実戦訓練が行われる演習場となる！
+"uimiionnaheishi (talking)","とその周辺地域は 奉仕青年団を仮想敵とみなした 実戦訓練が行われる演習場となる！
 一般人は絶対に家から外に出るな！ この警告を無視した場合、 我々は諸君らの安全を保証しない！
 そして奉仕青年団！ 我々は数時間後、諸君らに対して 作戦行動を開始する！
 死にたくなければ逃げるか、 我々の捕虜となるか、 さもなくば死力を尽くして戦え！
-以上！！";"and the surrounding area will become a training ground for live-fire drills against a hypothetical enemy, the SERVICE YOUTH!
+以上！！","and the surrounding area will become a training ground for live-fire drills against a hypothetical enemy, the SERVICE YOUTH!
 Civilians are strictly forbidden to leave their homes! If you ignore this warning, we cannot guarantee your safety!
 And the Youth Service Corps! In a few hours, we will launch an operation against you, Hajime!
 Escape to your deaths, or be our prisoners, or fight to the death!
-That is all!";"y sus alrededores se convertirán en un campo de entrenamiento en el que se realizarán simulacros con fuego real contra el Cuerpo Juvenil de Servicio como hipotético enemigo.
+That is all!","y sus alrededores se convertirán en un campo de entrenamiento en el que se realizarán simulacros con fuego real contra el Cuerpo Juvenil de Servicio como hipotético enemigo.
  ¡Los civiles no deben salir nunca de sus casas! Si ignora esta advertencia, no podemos garantizar su seguridad.
 Y el Cuerpo de Servicio Juvenil. ¡Lanzamos una operación contra ti en unas horas, Hajime!
 Si no desean morir, huyan, conviértanse en nuestros prisioneros o luchen hasta la muerte.
  ¡Eso es todo!"
-"__system__??";"}";"";""
-"__system__??";"{☆イハビ占領 > 0:";"";""
-"__system__??";"{RND = 1:";"";""
-"uimiionnaheishi (talking)";"黙れ、黄色い猿め！";"Shut up, you yellow monkey!";"¡Cállate, mono amarillo!"
-"__system__??";"}";"";""
-"__system__??";"{RND = 2:";"";""
-"uimiionnaheishi (talking)";"貴様、楯突く気か！ なら殺すっ！！";"You dare to challenge me! Then Satsu!";"¡Te atreves a desafiarme! ¡Entonces Satsu!"
-"__system__??";"}";"";""
-"__system__??";"{RND = 3:";"";""
-"uimiionnaheishi (talking)";"死ね！　ゴミムシめ！！";"Die!　You trash!";"¡Muere!　¡Bicho de la basura!"
-"__system__??";"}";"";""
-"__system__??";"{RND = 4:";"";""
-"uimiionnaheishi (talking)";"シャラップ！！";"Shallup!";"¡¡¡Shallap!!!"
-"__system__??";"}";"";""
-"__system__??";"{RND = 5:";"";""
-"uimiionnaheishi (talking)";"ゴチャゴチャと煩いっ！！";"Mess around and bother me!!!!";"¡Molesten y molesten!"
-"__system__??";"}";"";""
-"narrator";"　　［ばきゅーーーん］";"[baaaaaaaaaaaaaaaaaaank!]";"[ba-yuuh-uh]"
-"Chinpira (talking)";"あきゃ。";"Akyoshi.";"Akyabi."
-"narrator";"文句を言った奉仕青年団の下っ端構成員は 額を撃ち抜かれてお亡くなりになった。";"A lowly member of the service youth group who complained was shot through the forehead and died.";"Un miembro de un grupo juvenil de servicio que se quejó recibió un disparo en la frente y murió."
-"__system__??";"}";"";""
-"__system__??";"{☆イハビ占領 = 0:";"";""
-"Yamamoto Akuji (talking)";"スズカと";"with a tin can";"con una lata de nieve"
-"Yamamoto Akuji (talking)";"が 姉ちゃん博士に占領されたって？！";"Dr. Sis has taken over?";"¿La Dra. Sis se ha hecho cargo?"
-"__system__??";"{RND \ 0:";"";""
-"Shimamoto Jun (talking)";"まあ、スズカの方は エデンのすぐ隣にあった訳ですから、 占領されても仕方ないのですが…";"Well, the Suzuka was right next to the Eden, so it's no wonder it was occupied…";"Bueno, el Suzuka estaba justo al lado del Edén, así que no es de extrañar que estuviera ocupado…"
-"Shimamoto Jun (talking)";"は、 迅速かつ的確な彼らの動きに 対処できなかったようです。";"The “Mere Old Man” was not able to cope with their quick and precise moves.";"El SAS parece haber sido incapaz de hacer frente a sus movimientos rápidos y precisos."
-"__system__??";"}";"";""
-"__system__??";"{RND = 0:";"";""
-"Takega Satsu (talking)";"文字通りの電撃作戦で、 あっという間の事だったそうだ。";"It was literally a blitzkrieg operation that happened so fast.";"Fue literalmente una guerra relámpago y sucedió muy rápido."
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"チッ、好き勝手しやがって……
-まあいい、取り返せばいいだけの話だ。 体勢整えて来週ソッコーでやり返すぜ。";"Tsk, they can do whatever they want……
-Oh well, we'll just have to take it back. I'm going to get myself in shape and get back at it next week.";"Tsk, pueden hacer lo que quieran……
+"__system__??","}","",""
+"__system__??","{☆イハビ占領 > 0:","",""
+"__system__??","{RND = 1:","",""
+"uimiionnaheishi (talking)","黙れ、黄色い猿め！","Shut up, you yellow monkey!","¡Cállate, mono amarillo!"
+"__system__??","}","",""
+"__system__??","{RND = 2:","",""
+"uimiionnaheishi (talking)","貴様、楯突く気か！ なら殺すっ！！","You dare to challenge me! Then Satsu!","¡Te atreves a desafiarme! ¡Entonces Satsu!"
+"__system__??","}","",""
+"__system__??","{RND = 3:","",""
+"uimiionnaheishi (talking)","死ね！　ゴミムシめ！！","Die!　You trash!","¡Muere!　¡Bicho de la basura!"
+"__system__??","}","",""
+"__system__??","{RND = 4:","",""
+"uimiionnaheishi (talking)","シャラップ！！","Shallup!","¡¡¡Shallap!!!"
+"__system__??","}","",""
+"__system__??","{RND = 5:","",""
+"uimiionnaheishi (talking)","ゴチャゴチャと煩いっ！！","Mess around and bother me!!!!","¡Molesten y molesten!"
+"__system__??","}","",""
+"narrator","　　［ばきゅーーーん］","[baaaaaaaaaaaaaaaaaaank!]","[ba-yuuh-uh]"
+"Chinpira (talking)","あきゃ。","Akyoshi.","Akyabi."
+"narrator","文句を言った奉仕青年団の下っ端構成員は 額を撃ち抜かれてお亡くなりになった。","A lowly member of the service youth group who complained was shot through the forehead and died.","Un miembro de un grupo juvenil de servicio que se quejó recibió un disparo en la frente y murió."
+"__system__??","}","",""
+"__system__??","{☆イハビ占領 = 0:","",""
+"Yamamoto Akuji (talking)","スズカと","with a tin can","con una lata de nieve"
+"Yamamoto Akuji (talking)","が 姉ちゃん博士に占領されたって？！","Dr. Sis has taken over?","¿La Dra. Sis se ha hecho cargo?"
+"__system__??","{RND \ 0:","",""
+"Shimamoto Jun (talking)","まあ、スズカの方は エデンのすぐ隣にあった訳ですから、 占領されても仕方ないのですが…","Well, the Suzuka was right next to the Eden, so it's no wonder it was occupied…","Bueno, el Suzuka estaba justo al lado del Edén, así que no es de extrañar que estuviera ocupado…"
+"Shimamoto Jun (talking)","は、 迅速かつ的確な彼らの動きに 対処できなかったようです。","The “Mere Old Man” was not able to cope with their quick and precise moves.","El SAS parece haber sido incapaz de hacer frente a sus movimientos rápidos y precisos."
+"__system__??","}","",""
+"__system__??","{RND = 0:","",""
+"Takega Satsu (talking)","文字通りの電撃作戦で、 あっという間の事だったそうだ。","It was literally a blitzkrieg operation that happened so fast.","Fue literalmente una guerra relámpago y sucedió muy rápido."
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","チッ、好き勝手しやがって……
+まあいい、取り返せばいいだけの話だ。 体勢整えて来週ソッコーでやり返すぜ。","Tsk, they can do whatever they want……
+Oh well, we'll just have to take it back. I'm going to get myself in shape and get back at it next week.","Tsk, pueden hacer lo que quieran……
 Oh, bueno, tendremos que devolverlo. Me pondré en forma y lo volveremos a hacer la semana que viene."
-"__system__??";"{RND \ 0:";"";""
-"Takega Satsu (talking)";"はっ。";"Ha.";"Ha."
-"__system__??";"}";"";""
-"__system__??";"{RND = 0:";"";""
-"Takega Satsu (talking)";"うむ。";"Mm.";"Mm."
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{☆イハビ占領 = 1:";"";""
-"Yamamoto Akuji (talking)";"まで 姉ちゃん博士に占領されたのか？！";"I've been in the same room with Dr. Sis.";"¿Todo el país ha sido tomado por el Dr. Sis?"
-"__system__??";"{RND \ 0:";"";""
-"Shimamoto Jun (talking)";"……申し訳ありません、 各地で同時に行動を起こされたので、 連絡が間に合いませんでした。";"…… Sorry, we were not able to contact you in time because of simultaneous actions in various locations.";"…… Lo sentimos, no hemos podido responder a tiempo, ya que la acción se desarrolló en varios lugares al mismo tiempo."
-"__system__??";"}";"";""
-"__system__??";"{RND = 0:";"";""
-"Takega Satsu (talking)";"悪司……";"Akuji……";"Akuji……"
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"…………あ、あのアマ…… いつか絶対犯してやる……";"………… Oh, that bitch…… I'll definitely fuck her someday ……";"………… Oh, esa perra…… definitivamente me la follaré un día ……"
-"__system__??";"}";"";""
-"__system__??";"{☆イハビ占領 = 2:";"";""
-"Yamamoto Akuji (talking)";"……";"……";"……"
-"Yamamoto Akuji (talking)";"も 占領されたのか？！";"Is it occupied, too?";"¿La ciudad también está ocupada?"
-"__system__??";"{RND \ 0:";"";""
-"Shimamoto Jun (talking)";"若……";"Young ……";"Joven ……"
-"__system__??";"}";"";""
-"__system__??";"{RND = 0:";"";""
-"Takega Satsu (talking)";"………………";"………………";"………………"
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"…………な…… んなバカな……";"………… don't…… be ridiculous ……";"……………… idiota ……"
-"__system__??";"}";"";""
-"__system__??";"{☆イハビ占領 = 3:";"";""
-"Yamamoto Akuji (talking)";"もかよ……";"Mokayo……";"Mokayo……"
-"__system__??";"{RND \ 0:";"";""
-"Shimamoto Jun (talking)";"……さすが軍隊ですね。 これは驚きました。";"…… It is indeed an army. This was a surprise.";"…… Es, en efecto, un ejército. Esto fue una sorpresa."
-"__system__??";"}";"";""
-"__system__??";"{RND = 0:";"";""
-"Takega Satsu (talking)";"……何も言えんな、もう。";"…… I can't say anything more.";"…… No puedo decir nada, ya no."
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"……わっはっはっは。 もう笑うしかねえな。";"…… wahahaha. I can't help but laugh now.";"…… wahahaha. Ahora no puedo evitar reírme."
-"__system__??";"}";"";""
-"__system__??";"{☆イハビ占領 > 3:";"";""
-"Yamamoto Akuji (talking)";"…………";"…………";"…………"
-"__system__??";"{RND \ 0:";"";""
-"Shimamoto Jun (talking)";"……大損害ですね。";"…… It's a huge loss.";"…… Es una gran pérdida."
-"__system__??";"}";"";""
-"__system__??";"{RND = 0:";"";""
-"Takega Satsu (talking)";"……大損害だな。";"…… It's a big loss.";"…… Una gran pérdida."
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"あー聞きたくねー。";"Oh, I don't want to hear it.";"No quiero oírlo."
-"__system__??";"}";"";""
-"Isuzu Imari (talking)";"でね、今日のウィミィ語の授業で…";"So, in Wime language class today…";"Así que, en la clase de lengua Wime de hoy…"
-"Nakayama Taeko (talking)";"…………";"…………";"…………"
-"Isuzu Imari (talking)";"多恵子ちゃん？";"Taeko-chan?";"¿Taeko?"
-"Nakayama Taeko (talking)";"は、はい！";"Ha, yes!";"¡Ja, sí!"
-"Isuzu Imari (talking)";"どうしたの？ きょろきょろして…";"What's wrong? You're looking around…";"¿Qué pasa? Mira a tu alrededor…"
-"Nakayama Taeko (talking)";"あ、う、うん……";"Oh, um, yeah……";"Uh, sí……"
-"Nakayama Taeko (thinking)";"……今日は…会えないかな…";"…… today….I don't know if I can see you…";"…… Hoy… no te veremos…"
-"chiankashokuin (talking)";"――というような事があったのですが…";"There was such a thing as --…";"-Hay cosas como…"
-"Mori Kaoru (talking)";"では、この書類をがり版で刷って、 ただちに地域管理組合に配布して。";"Then, please print out this document in a hardcopy and distribute it to the local management association immediately.";"A continuación, imprima este documento en versión impresa y distribúyalo inmediatamente a las asociaciones regionales de gestión."
-"chiankashokuin (talking)";"あ、あの市長に聞かなくてよいのですか？";"Oh, do you not have to ask that mayor?";"Oh, ¿no tienes que preguntar a ese alcalde?"
-"Mori Kaoru (talking)";"後で私が報告しておくから。";"I'll report back to you later.";"Te informaré más tarde."
-"chiankashokuin (talking)";"は、はい、わかりました。";"Ha, yes, I understand.";"Ja, sí, lo entiendo."
-"narrator";"仕事を終えた鴉葉が、女の子の電話番号が ぎっしり記載されたメモ帳片手に歩いている。";"After work, Karasuba is walking around with a notepad in her hand, which is filled with girls' phone numbers.";"Después del trabajo, Karasuba se pasea con un bloc de notas en la mano, que está repleto de números de teléfono de chicas."
-"karasuba  tsuki (thinking)";"今日は、誰のとこで、 ご飯食べさせてもらおっかなーと…
-ん~…この子に決めた。 今日のおかずは、な~にかな~♪";"I was wondering whose place I should go to for dinner today…
-Well…I decided on this girl. What's for dinner today?";"Me preguntaba a qué lugar debería ir a cenar hoy…
+"__system__??","{RND \ 0:","",""
+"Takega Satsu (talking)","はっ。","Ha.","Ha."
+"__system__??","}","",""
+"__system__??","{RND = 0:","",""
+"Takega Satsu (talking)","うむ。","Mm.","Mm."
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{☆イハビ占領 = 1:","",""
+"Yamamoto Akuji (talking)","まで 姉ちゃん博士に占領されたのか？！","I've been in the same room with Dr. Sis.","¿Todo el país ha sido tomado por el Dr. Sis?"
+"__system__??","{RND \ 0:","",""
+"Shimamoto Jun (talking)","……申し訳ありません、 各地で同時に行動を起こされたので、 連絡が間に合いませんでした。","…… Sorry, we were not able to contact you in time because of simultaneous actions in various locations.","…… Lo sentimos, no hemos podido responder a tiempo, ya que la acción se desarrolló en varios lugares al mismo tiempo."
+"__system__??","}","",""
+"__system__??","{RND = 0:","",""
+"Takega Satsu (talking)","悪司……","Akuji……","Akuji……"
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","…………あ、あのアマ…… いつか絶対犯してやる……","………… Oh, that bitch…… I'll definitely fuck her someday ……","………… Oh, esa perra…… definitivamente me la follaré un día ……"
+"__system__??","}","",""
+"__system__??","{☆イハビ占領 = 2:","",""
+"Yamamoto Akuji (talking)","……","……","……"
+"Yamamoto Akuji (talking)","も 占領されたのか？！","Is it occupied, too?","¿La ciudad también está ocupada?"
+"__system__??","{RND \ 0:","",""
+"Shimamoto Jun (talking)","若……","Young ……","Joven ……"
+"__system__??","}","",""
+"__system__??","{RND = 0:","",""
+"Takega Satsu (talking)","………………","………………","………………"
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","…………な…… んなバカな……","………… don't…… be ridiculous ……","……………… idiota ……"
+"__system__??","}","",""
+"__system__??","{☆イハビ占領 = 3:","",""
+"Yamamoto Akuji (talking)","もかよ……","Mokayo……","Mokayo……"
+"__system__??","{RND \ 0:","",""
+"Shimamoto Jun (talking)","……さすが軍隊ですね。 これは驚きました。","…… It is indeed an army. This was a surprise.","…… Es, en efecto, un ejército. Esto fue una sorpresa."
+"__system__??","}","",""
+"__system__??","{RND = 0:","",""
+"Takega Satsu (talking)","……何も言えんな、もう。","…… I can't say anything more.","…… No puedo decir nada, ya no."
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","……わっはっはっは。 もう笑うしかねえな。","…… wahahaha. I can't help but laugh now.","…… wahahaha. Ahora no puedo evitar reírme."
+"__system__??","}","",""
+"__system__??","{☆イハビ占領 > 3:","",""
+"Yamamoto Akuji (talking)","…………","…………","…………"
+"__system__??","{RND \ 0:","",""
+"Shimamoto Jun (talking)","……大損害ですね。","…… It's a huge loss.","…… Es una gran pérdida."
+"__system__??","}","",""
+"__system__??","{RND = 0:","",""
+"Takega Satsu (talking)","……大損害だな。","…… It's a big loss.","…… Una gran pérdida."
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","あー聞きたくねー。","Oh, I don't want to hear it.","No quiero oírlo."
+"__system__??","}","",""
+"Isuzu Imari (talking)","でね、今日のウィミィ語の授業で…","So, in Wime language class today…","Así que, en la clase de lengua Wime de hoy…"
+"Nakayama Taeko (talking)","…………","…………","…………"
+"Isuzu Imari (talking)","多恵子ちゃん？","Taeko-chan?","¿Taeko?"
+"Nakayama Taeko (talking)","は、はい！","Ha, yes!","¡Ja, sí!"
+"Isuzu Imari (talking)","どうしたの？ きょろきょろして…","What's wrong? You're looking around…","¿Qué pasa? Mira a tu alrededor…"
+"Nakayama Taeko (talking)","あ、う、うん……","Oh, um, yeah……","Uh, sí……"
+"Nakayama Taeko (thinking)","……今日は…会えないかな…","…… today….I don't know if I can see you…","…… Hoy… no te veremos…"
+"chiankashokuin (talking)","――というような事があったのですが…","There was such a thing as --…","-Hay cosas como…"
+"Mori Kaoru (talking)","では、この書類をがり版で刷って、 ただちに地域管理組合に配布して。","Then, please print out this document in a hardcopy and distribute it to the local management association immediately.","A continuación, imprima este documento en versión impresa y distribúyalo inmediatamente a las asociaciones regionales de gestión."
+"chiankashokuin (talking)","あ、あの市長に聞かなくてよいのですか？","Oh, do you not have to ask that mayor?","Oh, ¿no tienes que preguntar a ese alcalde?"
+"Mori Kaoru (talking)","後で私が報告しておくから。","I'll report back to you later.","Te informaré más tarde."
+"chiankashokuin (talking)","は、はい、わかりました。","Ha, yes, I understand.","Ja, sí, lo entiendo."
+"narrator","仕事を終えた鴉葉が、女の子の電話番号が ぎっしり記載されたメモ帳片手に歩いている。","After work, Karasuba is walking around with a notepad in her hand, which is filled with girls' phone numbers.","Después del trabajo, Karasuba se pasea con un bloc de notas en la mano, que está repleto de números de teléfono de chicas."
+"karasuba  tsuki (thinking)","今日は、誰のとこで、 ご飯食べさせてもらおっかなーと…
+ん~…この子に決めた。 今日のおかずは、な~にかな~♪","I was wondering whose place I should go to for dinner today…
+Well…I decided on this girl. What's for dinner today?","Me preguntaba a qué lugar debería ir a cenar hoy…
 Bueno, me he decidido por esta chica. ¿Qué hay para cenar hoy?"
-"Yamazawa Asami (talking)";"……すみません、この書類の束、 今日中に担当の方へ回しておいて下さい。";"…… sorry, please turn this stack of papers over to the person in charge by the end of the day.";"…… Disculpe, por favor entregue este paquete de documentos a la persona encargada al final del día."
-"shigikaishokuin (talking)";"はい、解りました。 やっておきます。
- ……山沢さん、このところずっと 残業してますね……";"Yes, I understand. I will do it.
- ……Yamazawa, you have been working overtime these days……";"Sí, lo entiendo. Yo lo haré.
+"Yamazawa Asami (talking)","……すみません、この書類の束、 今日中に担当の方へ回しておいて下さい。","…… sorry, please turn this stack of papers over to the person in charge by the end of the day.","…… Disculpe, por favor entregue este paquete de documentos a la persona encargada al final del día."
+"shigikaishokuin (talking)","はい、解りました。 やっておきます。
+ ……山沢さん、このところずっと 残業してますね……","Yes, I understand. I will do it.
+ ……Yamazawa, you have been working overtime these days……","Sí, lo entiendo. Yo lo haré.
  ……Yamazawa, has estado trabajando horas extras estos días……"
-"Yamazawa Asami (talking)";"…………仕方ないです。";"………… We don't have a choice.";"………… No tenemos otra opción."
-"shigikaishokuin (talking)";"仕方ないって…… この書類も全部、わかめ組関係の 苦情処理ばかりなのに……";"It can't be helped…… All these documents are all grievances related to the Wakame group……";"No se puede evitar…… Aunque todos estos documentos son procesos de reclamación relacionados con el grupo Wakame……"
-"Yamazawa Asami (talking)";"わかめ組に対する苦情は、 監督官である私の責任ですから。
-なんとか、正常に戻してみせます。 必ず…………";"I am the supervisor and I am responsible for the complaints against the Wakame group.
-I will somehow get things back to normal. Be sure to visit …………";"Las quejas contra el grupo Wakame son mi responsabilidad como supervisor.
+"Yamazawa Asami (talking)","…………仕方ないです。","………… We don't have a choice.","………… No tenemos otra opción."
+"shigikaishokuin (talking)","仕方ないって…… この書類も全部、わかめ組関係の 苦情処理ばかりなのに……","It can't be helped…… All these documents are all grievances related to the Wakame group……","No se puede evitar…… Aunque todos estos documentos son procesos de reclamación relacionados con el grupo Wakame……"
+"Yamazawa Asami (talking)","わかめ組に対する苦情は、 監督官である私の責任ですから。
+なんとか、正常に戻してみせます。 必ず…………","I am the supervisor and I am responsible for the complaints against the Wakame group.
+I will somehow get things back to normal. Be sure to visit …………","Las quejas contra el grupo Wakame son mi responsabilidad como supervisor.
 Me las arreglaré para que las cosas vuelvan a la normalidad. No deje de visitar …………"
-"shigikaishokuin (talking)";"………………そりゃ、まあ…… 山沢さんの言うことも道理なんだけど……
+"shigikaishokuin (talking)","………………そりゃ、まあ…… 山沢さんの言うことも道理なんだけど……
 この書類見る限り、 監督官の狭い権限じゃ何もできないよ。 せいぜいわかめ組に 注意するのが精一杯だ……
-山沢さん、躰壊さないで下さいよ…… 本当に…………";"……………… Well, I think…… Yamazawa has a point. It is reasonable, but ……
+山沢さん、躰壊さないで下さいよ…… 本当に…………","……………… Well, I think…… Yamazawa has a point. It is reasonable, but ……
 As far as I can see from this document, the supervisor's narrow authority is not enough to do anything. At best, he can only warn the Wakame group……
-Mr.Yamazawa, please don't destroy the body…… really…………";"……………… Eso es, bueno, lo que dice…… Yamazawa. Es razonable, pero ……
+Mr.Yamazawa, please don't destroy the body…… really…………","……………… Eso es, bueno, lo que dice…… Yamazawa. Es razonable, pero ……
 Por lo que veo en este documento, las estrechas atribuciones del supervisor no le permiten hacer nada. En el mejor de los casos, sólo puede advertir al grupo Wakame……
 Señor Yamazawa, por favor no destruya el cuerpo…… realmente…………"
-"__system__??";"{★那古教 = 1:";"";""
-"nakokyou  otoko (talking)";"……つまり、教祖・那古神様は 荒廃した今の世こそ、人は慈愛の心を 忘れてはならぬと説いたのです。";"…… In other words, Oyasama Nako-sama taught that in this time of devastation, people must not forget the heart of compassion.";"…… En otras palabras, Oyasama Nako-sama enseñó que es en este mundo de devastación donde la gente no debe olvidar el corazón de la compasión."
-"seinen (talking)";"はあ…… そりゃま正論なんですけどね……
+"__system__??","{★那古教 = 1:","",""
+"nakokyou  otoko (talking)","……つまり、教祖・那古神様は 荒廃した今の世こそ、人は慈愛の心を 忘れてはならぬと説いたのです。","…… In other words, Oyasama Nako-sama taught that in this time of devastation, people must not forget the heart of compassion.","…… En otras palabras, Oyasama Nako-sama enseñó que es en este mundo de devastación donde la gente no debe olvidar el corazón de la compasión."
+"seinen (talking)","はあ…… そりゃま正論なんですけどね……
 でも、そんな回りくどい事してたら 俺ら明日食うメシにも困るんで……
-世の中、騙される方が悪いんだし、 自分の食いぶちは意地でも確保しなきゃ ……ねえ。";"Well,…… that's a good argument……
+世の中、騙される方が悪いんだし、 自分の食いぶちは意地でも確保しなきゃ ……ねえ。","Well,…… that's a good argument……
 But if we keep going around like that, we won't have enough to eat tomorrow……
-In this world, it's the cheaters who are at fault, and you have to make sure you have enough to eat ……";"Bueno,…… es un buen argumento……
+In this world, it's the cheaters who are at fault, and you have to make sure you have enough to eat ……","Bueno,…… es un buen argumento……
 Pero si seguimos así, mañana no tendremos suficiente para comer……
 En este mundo, la culpa es de los engañados, y hay que asegurarse la comida aunque sea……"
-"nakokyou  otoko (talking)";"そんな世の中が続けば、 いずれ世界はペンペン草の一本すら 残らなくなると気付きませんか？";"If such a world continues, don't you realize that eventually there won't be even a single penny of grass left in the world?";"¿No te das cuenta de que si el mundo sigue así, al final no quedará ni una sola hierba colgante en el mundo?"
-"seinen (talking)";"いや、解るんだけどさあ……";"No, I understand, but come on……";"No, lo entiendo, pero vamos……"
-"nakokyou  otoko (talking)";"優しさの小さな灯火は、嵐の前では 簡単に消えてしまいますが……
+"nakokyou  otoko (talking)","そんな世の中が続けば、 いずれ世界はペンペン草の一本すら 残らなくなると気付きませんか？","If such a world continues, don't you realize that eventually there won't be even a single penny of grass left in the world?","¿No te das cuenta de que si el mundo sigue así, al final no quedará ni una sola hierba colgante en el mundo?"
+"seinen (talking)","いや、解るんだけどさあ……","No, I understand, but come on……","No, lo entiendo, pero vamos……"
+"nakokyou  otoko (talking)","優しさの小さな灯火は、嵐の前では 簡単に消えてしまいますが……
 それが十、百、千と集まれば、 そう簡単には揺らぎませんよ。
- ……来たれ若人！ 我々にはあなたの小さな心の灯火が 必要なのです！";"A small light of kindness is easily extinguished in the face of a storm, but ……
-But when ten, a hundred, a thousand are gathered together, they will not waver so easily.…… Come, young man! We need your little heart lights!";"Una pequeña luz de bondad se apaga fácilmente ante la tormenta, pero ……
+ ……来たれ若人！ 我々にはあなたの小さな心の灯火が 必要なのです！","A small light of kindness is easily extinguished in the face of a storm, but ……
+But when ten, a hundred, a thousand are gathered together, they will not waver so easily.…… Come, young man! We need your little heart lights!","Una pequeña luz de bondad se apaga fácilmente ante la tormenta, pero ……
 Cuando se reúnan diez, cien, mil de ellos, no vacilarán tan fácilmente.…… ¡Venga, joven! ¡Necesitamos sus pequeñas luces de corazón!"
-"seinen (talking)";"……う~ん…………";"…… ummm …………";"…… mmm …………"
-"narrator";"──那古教の信者たちは、 今日も地道な布教活動を続けていた。";"The followers of Nakokyou continued their steady missionary work today.";"Los seguidores de Nakokyou continuaron con su constante labor misionera en la actualidad."
-"__system__??";"}";"";""
-"nakokyou  onna (talking)";"……お願いします！ どうかお願いです、この通りです！";"…… please! Please, please, please, this is right on!";"…… ¡por favor! Por favor, por favor, ¡esto es lo que pido!"
-"ten'in (talking)";"う~ん……そりゃまあねえ、 うちは那古教さんにゃいろいろ助けて もらったけどさ……
+"seinen (talking)","……う~ん…………","…… ummm …………","…… mmm …………"
+"narrator","──那古教の信者たちは、 今日も地道な布教活動を続けていた。","The followers of Nakokyou continued their steady missionary work today.","Los seguidores de Nakokyou continuaron con su constante labor misionera en la actualidad."
+"__system__??","}","",""
+"nakokyou  onna (talking)","……お願いします！ どうかお願いです、この通りです！","…… please! Please, please, please, this is right on!","…… ¡por favor! Por favor, por favor, ¡esto es lo que pido!"
+"ten'in (talking)","う~ん……そりゃまあねえ、 うちは那古教さんにゃいろいろ助けて もらったけどさ……
 親戚のじいさんだって、 あの教祖様がいなかったら とっくにおっ死んでたしさ……
-でも……ねえ、奉仕青年団だっけ？ あんな連中とやりあってる最中に 手を貸してくれって言われても……";"Hmmm……… Well, you know, I had a lot of help from Nakokyou, but………
+でも……ねえ、奉仕青年団だっけ？ あんな連中とやりあってる最中に 手を貸してくれって言われても……","Hmmm……… Well, you know, I had a lot of help from Nakokyou, but………
 My relative's grandfather would have died long ago if it weren't for that Oyasama……
-But ……, the Youth Service Corps, right? But ……, even if you're asked to lend a hand while you're in the middle of a fight with those guys, you're still going to get a lot of help.";"Bueno, ya sabes, Nakokyou nos ayudó de muchas maneras……
+But ……, the Youth Service Corps, right? But ……, even if you're asked to lend a hand while you're in the middle of a fight with those guys, you're still going to get a lot of help.","Bueno, ya sabes, Nakokyou nos ayudó de muchas maneras……
 El abuelo de mi pariente habría muerto hace tiempo si no fuera por ese Oyasama……
 Pero…… ya sabes, ¿el Cuerpo de Servicio Juvenil? Incluso si te piden que eches una mano mientras estás en medio de una pelea con esa gente, no vas a recibir ninguna ayuda de ellos……"
-"nakokyou  onna (talking)";"お願いです、 地域警護に当たっている出家信者の 炊き出しを手伝って頂くだけでも……！";"Please, if you could just help us cook for the ordained believers who are guarding the area, ……!";"¡Por favor, si pudieran ayudar a los creyentes ordenados que están vigilando la zona con la comida ……!"
-"ten'in (talking)";"………………
-まあ、しょうがないねえ…… そのくらいなら、恩返しのつもりで……";"………………
-Well, I can't help it…… I'd be happy to return the favor for that much……";"………………
+"nakokyou  onna (talking)","お願いです、 地域警護に当たっている出家信者の 炊き出しを手伝って頂くだけでも……！","Please, if you could just help us cook for the ordained believers who are guarding the area, ……!","¡Por favor, si pudieran ayudar a los creyentes ordenados que están vigilando la zona con la comida ……!"
+"ten'in (talking)","………………
+まあ、しょうがないねえ…… そのくらいなら、恩返しのつもりで……","………………
+Well, I can't help it…… I'd be happy to return the favor for that much……","………………
 Bueno, no puedo evitarlo…… Es todo lo que puedo hacer para devolver el favor……"
-"nakokyou  onna (talking)";"あっ、有り難うございます……！ 有り難うございます……！！";"Oh, thank you ……! Thank you ……!";"¡Oh, gracias ……! ¡Gracias ……!"
-"ten'in (talking)";"よ、よしとくれよ…… そんなに頭下げないでおくれ……
-こっちだってあんたらが居なくなったら 何かと困るってだけなんだからさ……";"Come on, come on…… Don't be so down on yourselves……
-We're only worried about what we'll have to do without you……";"Vamos, vamos…… No os deprimáis tanto……
+"nakokyou  onna (talking)","あっ、有り難うございます……！ 有り難うございます……！！","Oh, thank you ……! Thank you ……!","¡Oh, gracias ……! ¡Gracias ……!"
+"ten'in (talking)","よ、よしとくれよ…… そんなに頭下げないでおくれ……
+こっちだってあんたらが居なくなったら 何かと困るってだけなんだからさ……","Come on, come on…… Don't be so down on yourselves……
+We're only worried about what we'll have to do without you……","Vamos, vamos…… No os deprimáis tanto……
 No queremos tener nada que hacer sin ti……"
-"__system__??";"{☆那古Ｂ = 12:";"";""
-"Tsukigase Nene (talking)";"…………くす…… こういう気持ち、久しぶり……
+"__system__??","{☆那古Ｂ = 12:","",""
+"Tsukigase Nene (talking)","…………くす…… こういう気持ち、久しぶり……
 いくらでも必死になれる気がするわ。 いくらでもね…………
  ……おそらく奉仕青年団は、 教団のシンボルである由女を狙って 侵攻する可能性が高い……
 けれど、仮にシキナが陥落しても、 このウメダに敷いた情報網と 密偵さえ居れば……
  ……くす。
-由女……安心して。 陽子がいなくなっても、 あなたは私が守ってあげるから……";"………… dull…… I haven't felt this way in a long time ……
+由女……安心して。 陽子がいなくなっても、 あなたは私が守ってあげるから……","………… dull…… I haven't felt this way in a long time ……
 I feel like I can be as desperate as I want. Any amount…………
  ……Perhaps the Servant Youth Organization is likely to invade, targeting Yume, the symbol of the Order: ……
 But even if Shikina falls, with the intelligence network we've laid out here in Umeda, and as long as we have a secret agent ……
  ……Kusu.
-You can rest assured that Yume ……. Even if Youko is gone, I will protect you……";"………… aburrido…… No me he sentido así en mucho tiempo ……
+You can rest assured that Yume ……. Even if Youko is gone, I will protect you……","………… aburrido…… No me he sentido así en mucho tiempo ……
 Siento que puedo estar tan desesperado como quiera. Cualquier cantidad…………
  ……Quizás las Juventudes de Servicio sean capaces de invadir, apuntando al símbolo de la Orden, Yume……
 Pero incluso si Shikina cae, con la red de inteligencia que hemos establecido aquí en Umeda y mientras tengamos un agente secreto ……
  ……Kusu.
 Puede estar seguro de que Yume ……. Aunque Youko se haya ido, yo te protegeré……"
-"__system__??";"}";"";""
-"__system__??";"{★★那古 > 0:";"";""
-"Tsukigase Nene (talking)";"……情報に若干タイムラグがありますね。 各部が機能的に働いていないのでは？";"There is a slight time lag in the…… information. I suspect that each part is not working functionally.";"Hay un ligero desfase en la información de ……. ¿Hay partes del sistema que no funcionan?"
-"nakokyou  otoko (talking)";"は、はい……ですが、 今は奉仕青年団との抗争中ですので 多少はどうしても…………";"Yes ……, but we're in the middle of a war with a service youth group, so we're somewhat………… inevitably going to be in the middle of it.";"Sí, sí ……, pero estamos en una guerra con la Organización de la Juventud del Servicio en este momento, por lo que estamos un poco inevitablemente …………"
-"Tsukigase Nene (talking)";"抗争中だからこそ 情報の即時性と正確さが求められます。 それはお解りでしょう？";"Because we are in a war, information must be immediate and accurate. You understand that, don't you?";"Precisamente porque estamos en una lucha, la información debe ser inmediata y precisa. Lo entiendes, ¿verdad?"
-"nakokyou  otoko (talking)";"は……はっ…………";"is…… ha …………";"Ha…… ha …………"
-"Tsukigase Nene (talking)";"あなたを責めているのではありません。 ただ、今の状況を理由にはしないように。
-頼りにしています、頑張って下さい。";"I am not blaming you. Just don't let your current situation be the reason.
-We are counting on you, good luck.";"No te estamos culpando. Pero no utilices tu situación actual como motivo.
+"__system__??","}","",""
+"__system__??","{★★那古 > 0:","",""
+"Tsukigase Nene (talking)","……情報に若干タイムラグがありますね。 各部が機能的に働いていないのでは？","There is a slight time lag in the…… information. I suspect that each part is not working functionally.","Hay un ligero desfase en la información de ……. ¿Hay partes del sistema que no funcionan?"
+"nakokyou  otoko (talking)","は、はい……ですが、 今は奉仕青年団との抗争中ですので 多少はどうしても…………","Yes ……, but we're in the middle of a war with a service youth group, so we're somewhat………… inevitably going to be in the middle of it.","Sí, sí ……, pero estamos en una guerra con la Organización de la Juventud del Servicio en este momento, por lo que estamos un poco inevitablemente …………"
+"Tsukigase Nene (talking)","抗争中だからこそ 情報の即時性と正確さが求められます。 それはお解りでしょう？","Because we are in a war, information must be immediate and accurate. You understand that, don't you?","Precisamente porque estamos en una lucha, la información debe ser inmediata y precisa. Lo entiendes, ¿verdad?"
+"nakokyou  otoko (talking)","は……はっ…………","is…… ha …………","Ha…… ha …………"
+"Tsukigase Nene (talking)","あなたを責めているのではありません。 ただ、今の状況を理由にはしないように。
+頼りにしています、頑張って下さい。","I am not blaming you. Just don't let your current situation be the reason.
+We are counting on you, good luck.","No te estamos culpando. Pero no utilices tu situación actual como motivo.
 Contamos con usted, buena suerte."
-"nakokyou  otoko (talking)";"…………はっ……！";"………… ha ……!";"¡………… ha ……!"
-"__system__??";"}";"";""
-"Tsukigase Nene (talking)";"…………そうね…… まだ連絡系統は効率化できるわね。";"………… yes…… we can still streamline the lines of communication.";"………… sí…… Las líneas de comunicación aún pueden agilizarse."
-"nakokyou  onna (talking)";"この案よりも……ですか？ しかしもう、削れる無駄はどこにも……";"Is…… better than this idea? But there is nowhere…… of waste that can be cut anymore.";"¿Es…… mejor que esta idea? Pero ya no hay ningún lugar…… de residuos que se pueda cortar."
-"Tsukigase Nene (talking)";"……少しだけ待って。 今は直感的に思っただけだから。
+"nakokyou  otoko (talking)","…………はっ……！","………… ha ……!","¡………… ha ……!"
+"__system__??","}","",""
+"Tsukigase Nene (talking)","…………そうね…… まだ連絡系統は効率化できるわね。","………… yes…… we can still streamline the lines of communication.","………… sí…… Las líneas de comunicación aún pueden agilizarse."
+"nakokyou  onna (talking)","この案よりも……ですか？ しかしもう、削れる無駄はどこにも……","Is…… better than this idea? But there is nowhere…… of waste that can be cut anymore.","¿Es…… mejor que esta idea? Pero ya no hay ningún lugar…… de residuos que se pueda cortar."
+"Tsukigase Nene (talking)","……少しだけ待って。 今は直感的に思っただけだから。
  ………………
-そう……ここをこう配置すれば、 正癒庵の電話回線を使用して 即時性を向上できるのではなくて？";"…… wait a bit. It's just a gut feeling right now.
+そう……ここをこう配置すれば、 正癒庵の電話回線を使用して 即時性を向上できるのではなくて？","…… wait a bit. It's just a gut feeling right now.
  ………………
-So…… if we place it here like this, wouldn't we be able to use Shoheian's phone line to improve immediacy?";"…… dame un minuto. Ahora mismo es sólo una sensación visceral.
+So…… if we place it here like this, wouldn't we be able to use Shoheian's phone line to improve immediacy?","…… dame un minuto. Ahora mismo es sólo una sensación visceral.
  ………………
 Así que…… si lo posicionamos aquí así, ¿no podríamos utilizar la línea telefónica de Shoheian para mejorar la inmediatez?"
-"nakokyou  onna (talking)";"あっ…………は、はい…… 確かに仰る通りです……";"Oh …………, yes…… you are indeed right ……";"Oh …………, sí…… ciertamente tienes razón ……"
-"Tsukigase Nene (talking)";"私直属の連絡員なら、 このくらいは発想して欲しいわね？";"If you're my direct liaison, I'd expect you to have at least this many ideas.";"Si eres mi enlace directo, espero que tengas al menos esta cantidad de ideas, ¿no?"
-"nakokyou  onna (talking)";"も、申し訳ありません……";"Also, sorry ……";"También lo siento: ……"
-"Tsukigase Nene (talking)";"…………くす、嘘よ。 良くできたプランだったわ、 充分すぎるほど。
-私も今は単に閃きがあっただけ。 これからもこの調子でお願いします。";"………… Kusu, it's a lie. It was a well executed plan, more than good enough.
-I simply had a flash of inspiration now too. Please keep it up.";"………… Kusu, es una mentira. Era un plan bien elaborado, más que suficiente.
+"nakokyou  onna (talking)","あっ…………は、はい…… 確かに仰る通りです……","Oh …………, yes…… you are indeed right ……","Oh …………, sí…… ciertamente tienes razón ……"
+"Tsukigase Nene (talking)","私直属の連絡員なら、 このくらいは発想して欲しいわね？","If you're my direct liaison, I'd expect you to have at least this many ideas.","Si eres mi enlace directo, espero que tengas al menos esta cantidad de ideas, ¿no?"
+"nakokyou  onna (talking)","も、申し訳ありません……","Also, sorry ……","También lo siento: ……"
+"Tsukigase Nene (talking)","…………くす、嘘よ。 良くできたプランだったわ、 充分すぎるほど。
+私も今は単に閃きがあっただけ。 これからもこの調子でお願いします。","………… Kusu, it's a lie. It was a well executed plan, more than good enough.
+I simply had a flash of inspiration now too. Please keep it up.","………… Kusu, es una mentira. Era un plan bien elaborado, más que suficiente.
 Simplemente, ahora también he tenido un destello de inspiración. Por favor, sigan así."
-"nakokyou  onna (talking)";"は、はいっ。";"Ha, yes.";"Ja, sí."
-"Tsukigase Nene (talking)";"…………………… 我ながら、いい情報網だこと……
-これで机から動かなくても、 オオサカ中の情報が届く……か。";"…………………… I am a good network of information… …
-Now I don't have to move from my desk to get information from all over the OSAKA……";"…………………… Qué buena red de información tengo… …
+"nakokyou  onna (talking)","は、はいっ。","Ha, yes.","Ja, sí."
+"Tsukigase Nene (talking)","…………………… 我ながら、いい情報網だこと……
+これで机から動かなくても、 オオサカ中の情報が届く……か。","…………………… I am a good network of information… …
+Now I don't have to move from my desk to get information from all over the OSAKA……","…………………… Qué buena red de información tengo… …
 Ahora no tengo que moverme de mi mesa para obtener información de todos los Osakas……"
-"narrator";"嬉しそうに微笑んで、 寧々は手元のファイルを閉じた。";"Smiling happily, Nene closed the file in her hand.";"Sonriendo felizmente, Nene cerró la carpeta que tenía en la mano."
-"__system__??";"{☆那古Ｂ = 2:";"";""
-"Komiya Youko (talking)";"…………絶対に負けられない…… 由女のためにも、絶対にっ。
+"narrator","嬉しそうに微笑んで、 寧々は手元のファイルを閉じた。","Smiling happily, Nene closed the file in her hand.","Sonriendo felizmente, Nene cerró la carpeta que tenía en la mano."
+"__system__??","{☆那古Ｂ = 2:","",""
+"Komiya Youko (talking)","…………絶対に負けられない…… 由女のためにも、絶対にっ。
 仮に奉仕青年団がシキナを直に攻めても、 このテンマからすぐに戻れるルートは 寧々が確保してくれて…………
  ………………？ ルート、確保…………
 逆に使えば、 シキナからの逃走路になる……
@@ -276,14 +276,14 @@ Ahora no tengo que moverme de mi mesa para obtener información de todos los Osa
  ………………
  ……ありがとう、寧々。 そういう事だったのね、きっと……
 簡単な事よ、 ここさえ守りきれば、たとえ勝てなくても 私たちは絶対に負けはしない……！
-由女さえ無事なら、 教団が負けたことには ならないのよ……！";"We can never………… lose, for…… Yume's sake.
+由女さえ無事なら、 教団が負けたことには ならないのよ……！","We can never………… lose, for…… Yume's sake.
 Even if the Service Youth Group attacks Shikina directly, Nene has secured a route for us to return immediately from this tema and …………
  ………………? Route, secured …………
 If we use it in reverse, it will be an escape route from Shikina ……
 The Service Youth Group will be targeting the Order's headquarters and Sikina anyway ……
  …………………… Thanks, Nene. I'm sure that's what you meant……
 It's simple, as long as we protect this place, even if we don't win, we will never lose ……!
-As long as Yume is safe, it doesn't mean the Order has lost……!";"Nunca podemos………… ser derrotados…… para Yume, nunca.
+As long as Yume is safe, it doesn't mean the Order has lost……!","Nunca podemos………… ser derrotados…… para Yume, nunca.
 Incluso si la Liga Juvenil de Servicios atacara directamente a Shikina, Nene tendría una ruta rápida de vuelta de este tema y …………
  ………………? Ruta, asegurada …………
 Si se utiliza al revés, sería una vía de escape de Sikina ……
@@ -291,73 +291,73 @@ El Grupo de Jóvenes de Servicio se dirigirá a la sede de la Orden y a Sikina d
  …………………… Gracias, Nene. De eso se trata, estoy seguro……
  ¡Es sencillo, mientras mantengamos este lugar seguro, aunque no ganemos, nunca perderemos ……!
  ¡Mientras Yume esté a salvo, no significa que la Orden haya perdido ……!"
-"__system__??";"}";"";""
-"shoujo (talking)";"いっ、いや………… やだああああああああああっ！";"I, no………… Oh no!";"Yo, no………… ¡Oh no!"
-"Yopparai (talking)";"へっへっへ……おぢょうちゃん、 おぢさんといい事しようねえ…… げへへへへへ……";"Heh heh heh heh…… Ji-chan, let's do something nice with Ji-chan…… heh heh heh heh heh heh ……";"Heh heh heh…… Ji-chan, vamos a hacer algo bueno con Ji-chan…… heh heh heh ……"
-"narrator";"　　［ひゅん………どすっ！］";"[Hinun……… Dosutsu!]";"[¡Hinun……… dosutsu!]"
-"Yopparai (talking)";"…………………………へ？ あ、あう…………
-な、なんで俺の足に 槍が刺さってんだ……？";"……………………… …heh? Ah, ah …………
-Hey, why is there a spear stuck in my leg ……?";"……………………… …¿eh? Ah, ah …………
+"__system__??","}","",""
+"shoujo (talking)","いっ、いや………… やだああああああああああっ！","I, no………… Oh no!","Yo, no………… ¡Oh no!"
+"Yopparai (talking)","へっへっへ……おぢょうちゃん、 おぢさんといい事しようねえ…… げへへへへへ……","Heh heh heh heh…… Ji-chan, let's do something nice with Ji-chan…… heh heh heh heh heh heh ……","Heh heh heh…… Ji-chan, vamos a hacer algo bueno con Ji-chan…… heh heh heh ……"
+"narrator","　　［ひゅん………どすっ！］","[Hinun……… Dosutsu!]","[¡Hinun……… dosutsu!]"
+"Yopparai (talking)","…………………………へ？ あ、あう…………
+な、なんで俺の足に 槍が刺さってんだ……？","……………………… …heh? Ah, ah …………
+Hey, why is there a spear stuck in my leg ……?","……………………… …¿eh? Ah, ah …………
 Oye, ¿por qué hay una lanza en mi pierna ……?"
-"Komiya Youko (talking)";"………………我が教団の教区に、 まだ貴様のような下衆が居たとは 思わなかったな……";"……………… I didn't think there were still lowlifes like you in my parish……";"……………… No creía que todavía hubiera gente de baja calaña como tú en las parroquias de nuestra Orden……"
-"Yopparai (talking)";"あ……あひっ…………あひっ……！";"Ah…… ah………… ah……!";"¡Ah…… ah………… ah……!"
-"Komiya Youko (talking)";"殺されなかっただけ有り難いと思え。 ……失せろ！";"Be thankful they didn't Satsu you…… fuck off!";"Agradece que no te hayan Satsuado…… ¡Que te den por culo!"
-"Yopparai (talking)";"ひ…………ひいいいいっ……！！";"Hi………… hi hi hi hi ……!!!!";""
-"Komiya Youko (talking)";"全く、男というのは……
- ……さ、大丈夫だった？ 立てる？";"Not at all, men are ……
- ……, did you feel okay? Can you stand up?";"En absoluto, los hombres son ……
+"Komiya Youko (talking)","………………我が教団の教区に、 まだ貴様のような下衆が居たとは 思わなかったな……","……………… I didn't think there were still lowlifes like you in my parish……","……………… No creía que todavía hubiera gente de baja calaña como tú en las parroquias de nuestra Orden……"
+"Yopparai (talking)","あ……あひっ…………あひっ……！","Ah…… ah………… ah……!","¡Ah…… ah………… ah……!"
+"Komiya Youko (talking)","殺されなかっただけ有り難いと思え。 ……失せろ！","Be thankful they didn't Satsu you…… fuck off!","Agradece que no te hayan Satsuado…… ¡Que te den por culo!"
+"Yopparai (talking)","ひ…………ひいいいいっ……！！","Hi………… hi hi hi hi ……!!!!",""
+"Komiya Youko (talking)","全く、男というのは……
+ ……さ、大丈夫だった？ 立てる？","Not at all, men are ……
+ ……, did you feel okay? Can you stand up?","En absoluto, los hombres son ……
  ……, ¿ha ido bien? ¿Puedes ponerte de pie?"
-"shoujo (talking)";"う、うん…… ありがとう、聖女様……";"Umm, yes…… Thank you, saint……";"Umm, sí…… Gracias, santo……"
-"Komiya Youko (talking)";"ああ……私を知っているのね。 教徒の娘さんかしら……
-今度から、こんな人気のない廃墟で 遊ばないように気をつけてね。 女の子は特に危ない目に遭いやすいから。";"Oh…… you know me. You must be the daughter of a cleric……
-Next time, be careful not to play in such an abandoned and unpopular place. Girls are especially vulnerable.";"Oh…… me conoces. Creo que eres la hija de un clérigo……
+"shoujo (talking)","う、うん…… ありがとう、聖女様……","Umm, yes…… Thank you, saint……","Umm, sí…… Gracias, santo……"
+"Komiya Youko (talking)","ああ……私を知っているのね。 教徒の娘さんかしら……
+今度から、こんな人気のない廃墟で 遊ばないように気をつけてね。 女の子は特に危ない目に遭いやすいから。","Oh…… you know me. You must be the daughter of a cleric……
+Next time, be careful not to play in such an abandoned and unpopular place. Girls are especially vulnerable.","Oh…… me conoces. Creo que eres la hija de un clérigo……
 La próxima vez, ten cuidado de no jugar en estos lugares desiertos. Las niñas son especialmente vulnerables."
-"shoujo (talking)";"………………？ 女の子って、聖女様も……";"………………? Girls, even saints, are ……";"………………? Las chicas, incluso las santas, son ……"
-"Komiya Youko (talking)";"私はいいのよ。 自分でこんな場所ばかりを選んで 見回りをしているのだから。";"It's okay with me. I choose all these places to make my rounds.";"Estoy bien. Yo mismo he elegido todos estos lugares para hacer mis rondas."
-"shoujo (talking)";"？";"？";"？"
-"Komiya Youko (talking)";"さ……早く帰って。 それとも家まで送ろうか？";"Sa…… go home early. Or do you need a ride home?";"Sa…… a casa temprano. ¿O necesitas que te lleven a casa?"
-"shoujo (talking)";"う、ううん……大丈夫、一人で帰る。 本当に有り難う、聖女様……";"Umm, no…… okay, I'll go home alone. Thank you so much, saint……";"Uh, no,…… está bien, me iré a casa solo. Muchas gracias, santo……"
-"Komiya Youko (talking)";"………………
-私みたいな女は…… 増えないに越した事はないものね……";"………………
-Women like me…… are better off without more women like me ……";"………………
+"shoujo (talking)","………………？ 女の子って、聖女様も……","………………? Girls, even saints, are ……","………………? Las chicas, incluso las santas, son ……"
+"Komiya Youko (talking)","私はいいのよ。 自分でこんな場所ばかりを選んで 見回りをしているのだから。","It's okay with me. I choose all these places to make my rounds.","Estoy bien. Yo mismo he elegido todos estos lugares para hacer mis rondas."
+"shoujo (talking)","？","？","？"
+"Komiya Youko (talking)","さ……早く帰って。 それとも家まで送ろうか？","Sa…… go home early. Or do you need a ride home?","Sa…… a casa temprano. ¿O necesitas que te lleven a casa?"
+"shoujo (talking)","う、ううん……大丈夫、一人で帰る。 本当に有り難う、聖女様……","Umm, no…… okay, I'll go home alone. Thank you so much, saint……","Uh, no,…… está bien, me iré a casa solo. Muchas gracias, santo……"
+"Komiya Youko (talking)","………………
+私みたいな女は…… 増えないに越した事はないものね……","………………
+Women like me…… are better off without more women like me ……","………………
 Mujeres como yo…… No hay nada mejor que no tener más mujeres como yo ……"
-"__system__??";"{☆那古 > 8:";"";""
-"Toki Haruka (talking)";"それじゃあ……向こうの辻と、 そっちの通り、よろしくお願いします。";"So,…… and Tsuji over there and the street over there, thank you.";"Así que,…… y Tsuji por allí y la calle por allá, por favor."
-"Yume's Manservant (talking)";"はっ、お任せ下さい。 那古神様の僕としての責務を 全うして参ります！";"I'll leave it to you. I will fulfill my duty as Nakojin's servant!";"Déjalo en mis manos. ¡Cumpliré con mi deber como siervo de Dios Nako!"
-"Toki Haruka (talking)";"……那古神様のためとか、 軽々しく言わないで下さい。 那古神様は良い顔をなさらないですよ？
-その言葉が大切だと思うなら、 心の内でだけ言うようにして下さい。";"……Don't say things like “for the sake of God Nako” so casually. Nako no Kami will not be pleased with you.
-If you think those words are important, say them only in your heart.";"……No digas cosas como “por el bien de Nako Dios” tan a la ligera. Nako no Kami no tiene buena cara, ¿sabes?
+"__system__??","{☆那古 > 8:","",""
+"Toki Haruka (talking)","それじゃあ……向こうの辻と、 そっちの通り、よろしくお願いします。","So,…… and Tsuji over there and the street over there, thank you.","Así que,…… y Tsuji por allí y la calle por allá, por favor."
+"Yume's Manservant (talking)","はっ、お任せ下さい。 那古神様の僕としての責務を 全うして参ります！","I'll leave it to you. I will fulfill my duty as Nakojin's servant!","Déjalo en mis manos. ¡Cumpliré con mi deber como siervo de Dios Nako!"
+"Toki Haruka (talking)","……那古神様のためとか、 軽々しく言わないで下さい。 那古神様は良い顔をなさらないですよ？
+その言葉が大切だと思うなら、 心の内でだけ言うようにして下さい。","……Don't say things like “for the sake of God Nako” so casually. Nako no Kami will not be pleased with you.
+If you think those words are important, say them only in your heart.","……No digas cosas como “por el bien de Nako Dios” tan a la ligera. Nako no Kami no tiene buena cara, ¿sabes?
 Si crees que esa palabra es importante, dila sólo en tu corazón."
-"Yume's Manservant (talking)";"…………は、はっ…… それは、ごもっともで……";"………… ha…… you are right about that ……";"………… ha…… Tienes razón en eso……"
-"Toki Haruka (talking)";"……というか、普通の巡回警備で そんなに力入れられても困っちゃうん ですけどね……
-とにかく、よろしくお願いしますね。";"I mean, it's not that I don't appreciate the effort that goes into a regular patrol ……
-Anyway, I look forward to working with you.";"Quiero decir, no estoy seguro de que sea una buena idea poner tanto esfuerzo en una patrulla regular: ……
+"Yume's Manservant (talking)","…………は、はっ…… それは、ごもっともで……","………… ha…… you are right about that ……","………… ha…… Tienes razón en eso……"
+"Toki Haruka (talking)","……というか、普通の巡回警備で そんなに力入れられても困っちゃうん ですけどね……
+とにかく、よろしくお願いしますね。","I mean, it's not that I don't appreciate the effort that goes into a regular patrol ……
+Anyway, I look forward to working with you.","Quiero decir, no estoy seguro de que sea una buena idea poner tanto esfuerzo en una patrulla regular: ……
 De todos modos, estoy deseando trabajar con usted."
-"Yume's Manservant (talking)";"はっ！";"Ha!";"¡Ja!"
-"Yume's Manservant (talking)";"……遙様、最近は何だか 指示に風格が感じられるな…… さすが聖女に抜擢された方だ……";"Dear ……Haruka, you seem to have some style in your instructions these days…… You are indeed the one who has been selected as a saint……";"……Haruka-sama, parece que tienes algo de estilo en tus instrucciones en estos días…… Eres realmente el que ha sido seleccionado para ser un santo……"
-"Toki Haruka (thinking)";"………………
+"Yume's Manservant (talking)","はっ！","Ha!","¡Ja!"
+"Yume's Manservant (talking)","……遙様、最近は何だか 指示に風格が感じられるな…… さすが聖女に抜擢された方だ……","Dear ……Haruka, you seem to have some style in your instructions these days…… You are indeed the one who has been selected as a saint……","……Haruka-sama, parece que tienes algo de estilo en tus instrucciones en estos días…… Eres realmente el que ha sido seleccionado para ser un santo……"
+"Toki Haruka (thinking)","………………
 那古神様だって、悩んで、考えて、 一生懸命努力してるんだから……
-私だって……うん…………";"………………
+私だって……うん…………","………………
 Even Nako God is worried, thinking, and working hard……
-I am also…… and …………";"………………
+I am also…… and …………","………………
 Incluso Nako Dios está preocupado, pensando y trabajando duro ……
 También soy…… si …………"
-"__system__??";"}";"";""
-"Toki Haruka (talking)";"あ、あのあの……その、向こうの辻と、 そっちの通りだけ、巡回警備を お願いできますか……？";"Uh, uh, uh, ……, uh, can I ask you to patrol the street over there and the street over there? ……";"Uh, uh, ese ……, uh, esa calle de allí y la calle de allí, ¿puede tener un guardia de patrulla, por favor ……?"
-"Yume's Manservant (talking)";"はっ、お任せ下さい。";"Ha, leave it to us.";"Ja, déjalo en nuestras manos."
-"Toki Haruka (talking)";"あ、あの…… あ、危ないことがあったら、いつでも 呼んで下さいね……";"Oh, um,…… Oh, if there's any danger, you can always call us at ……";"Oh, um,…… Oh, si hay algún peligro, siempre puedes llamarnos……"
-"Yume's Manservant (talking)";"ははははは、ご安心下さい遙様。
-我ら那古神様の僕一同、 巷のごろつきや悪漢どもに負けるような ヤワな鍛え方はしておりません。";"Rest assured, Master Haruka, we, the Nako Gods, do not train so weakly as to be defeated by the ruffians and thugs of the streets.
-I, Nakojin-sama, do not train so weakly that we can be defeated by the thugs and thuggish people of the streets.";"Jaja, no se preocupe, maestro Haruka.
+"__system__??","}","",""
+"Toki Haruka (talking)","あ、あのあの……その、向こうの辻と、 そっちの通りだけ、巡回警備を お願いできますか……？","Uh, uh, uh, ……, uh, can I ask you to patrol the street over there and the street over there? ……","Uh, uh, ese ……, uh, esa calle de allí y la calle de allí, ¿puede tener un guardia de patrulla, por favor ……?"
+"Yume's Manservant (talking)","はっ、お任せ下さい。","Ha, leave it to us.","Ja, déjalo en nuestras manos."
+"Toki Haruka (talking)","あ、あの…… あ、危ないことがあったら、いつでも 呼んで下さいね……","Oh, um,…… Oh, if there's any danger, you can always call us at ……","Oh, um,…… Oh, si hay algún peligro, siempre puedes llamarnos……"
+"Yume's Manservant (talking)","ははははは、ご安心下さい遙様。
+我ら那古神様の僕一同、 巷のごろつきや悪漢どもに負けるような ヤワな鍛え方はしておりません。","Rest assured, Master Haruka, we, the Nako Gods, do not train so weakly as to be defeated by the ruffians and thugs of the streets.
+I, Nakojin-sama, do not train so weakly that we can be defeated by the thugs and thuggish people of the streets.","Jaja, no se preocupe, maestro Haruka.
 Nosotros, los Dioses Nako, no nos entrenamos tan débilmente como para ser derrotados por los matones y gamberros de las calles."
-"Toki Haruka (talking)";"あ…………！ そっ、そうですよね、みんな武道家で、 す、すごく強いのに…………
-ご、ごご……ごめんなさい、私…… 偉そうな事、言っちゃって……！";"Oh, …………! Yes, I know, they are all martial artists and very strong, but …………
-I'm sorry, I'm…… sorry, I'm…… sorry for saying such a big thing ……!";"¡Oh, …………! Sí, sí, todos son artistas marciales, todos son muy fuertes, pero todos son …………
+"Toki Haruka (talking)","あ…………！ そっ、そうですよね、みんな武道家で、 す、すごく強いのに…………
+ご、ごご……ごめんなさい、私…… 偉そうな事、言っちゃって……！","Oh, …………! Yes, I know, they are all martial artists and very strong, but …………
+I'm sorry, I'm…… sorry, I'm…… sorry for saying such a big thing ……!","¡Oh, …………! Sí, sí, todos son artistas marciales, todos son muy fuertes, pero todos son …………
 Lo siento ……, lo siento ……, lo siento ……, lo siento…… por decir algo tan grande."
-"Yume's Manservant (talking)";"あ、いえ……別にその、 遙様は我々のリーダーとも言うべき方で、 偉そうなどと、とんでもない……";"Oh, no, no…… it's just that Haruka is our leader, and I don't mean to sound arrogant or anything like that……";"Oh, no, no…… es sólo que Haruka es nuestro líder, y no quiero ser mandón ni nada de eso……"
-"Toki Haruka (talking)";"ほ、ほんとのほんとにごめんなさい…！ じゃ、じゃあお仕事、 よろしくお願いしますっ……！";"I'm really, really, really sorry…! Well, I'm looking forward to working with you……!";"Lo siento mucho, mucho… Bueno, te dejaré con tu trabajo entonces… ¡……!"
-"Yume's Manservant (talking)";"あ……は、遙様っ！！
+"Yume's Manservant (talking)","あ、いえ……別にその、 遙様は我々のリーダーとも言うべき方で、 偉そうなどと、とんでもない……","Oh, no, no…… it's just that Haruka is our leader, and I don't mean to sound arrogant or anything like that……","Oh, no, no…… es sólo que Haruka es nuestro líder, y no quiero ser mandón ni nada de eso……"
+"Toki Haruka (talking)","ほ、ほんとのほんとにごめんなさい…！ じゃ、じゃあお仕事、 よろしくお願いしますっ……！","I'm really, really, really sorry…! Well, I'm looking forward to working with you……!","Lo siento mucho, mucho… Bueno, te dejaré con tu trabajo entonces… ¡……!"
+"Yume's Manservant (talking)","あ……は、遙様っ！！
  …………むぅ…… あのような娘子が、なぜ我ら七人衆より ずっと強いのだろう……
- ………………不思議だ。";"Oh,…… is Haruka-sama!
- …………Mu…… wonder how such a girl child is so much stronger than us seven… ………………… wonder.";"¡Oh,…… es Haruka-sama!
+ ………………不思議だ。","Oh,…… is Haruka-sama!
+ …………Mu…… wonder how such a girl child is so much stronger than us seven… ………………… wonder.","¡Oh,…… es Haruka-sama!
  …………Mu…… se preguntan cómo una niña de este tipo es mucho más fuerte que nosotros siete… ………………… wonder."

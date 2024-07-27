@@ -1,358 +1,358 @@
-"character";"jap text";"Eng";"Esp"
-"__system__??";"{麦 = 1:";"";""
-"__system__??";"{☆ハイネ = 20:";"";""
-"__system__??";"}";"";""
-"__system__??";"{☆ハイネ > 24:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 3:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 10:";"";""
-"__system__??";"{RND \ 0:";"";""
-"__system__??";"}";"";""
-"__system__??";"{RND \ 0:";"";""
-"__system__??";"}";"";""
-"__system__??";"{D11 = 2:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"Hasekura Haine (talking)";"失礼します。";"Excuse me.";"Disculpen."
-"Momoyama Linda (talking)";"なんでちゅか？";"Why?";"¿Por qué?"
-"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
-"Momoyama Linda (talking)";"やっと、ハイネを戦わせる事に したでちゅか？";"Have you finally decided to let Haine fight?";"¿Has decidido finalmente dejar que Haine luche?"
-"Yamamoto Akuji (talking)";"いやいや、そーじゃねえ。";"No, no, no, no.";"No, no, no, no."
-"Momoyama Linda (talking)";"早くしてもらえないでちゅか？ わたし、こんなちっちゃいとこに住むの 初めてで、落ち着かないのでちゅけど。
-後、水がおいちくないでちゅ。";"Can you please hurry up? I've never lived in such a tiny place before, and I don't feel at home.
-Also, the water doesn't taste good.";"¿Puede darse prisa, por favor? Nunca había vivido en un lugar tan pequeño como éste, y no me siento como en casa.
+"character","jap text","Eng","Esp"
+"__system__??","{麦 = 1:","",""
+"__system__??","{☆ハイネ = 20:","",""
+"__system__??","}","",""
+"__system__??","{☆ハイネ > 24:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 3:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 10:","",""
+"__system__??","{RND \ 0:","",""
+"__system__??","}","",""
+"__system__??","{RND \ 0:","",""
+"__system__??","}","",""
+"__system__??","{D11 = 2:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"Hasekura Haine (talking)","失礼します。","Excuse me.","Disculpen."
+"Momoyama Linda (talking)","なんでちゅか？","Why?","¿Por qué?"
+"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
+"Momoyama Linda (talking)","やっと、ハイネを戦わせる事に したでちゅか？","Have you finally decided to let Haine fight?","¿Has decidido finalmente dejar que Haine luche?"
+"Yamamoto Akuji (talking)","いやいや、そーじゃねえ。","No, no, no, no.","No, no, no, no."
+"Momoyama Linda (talking)","早くしてもらえないでちゅか？ わたし、こんなちっちゃいとこに住むの 初めてで、落ち着かないのでちゅけど。
+後、水がおいちくないでちゅ。","Can you please hurry up? I've never lived in such a tiny place before, and I don't feel at home.
+Also, the water doesn't taste good.","¿Puede darse prisa, por favor? Nunca había vivido en un lugar tan pequeño como éste, y no me siento como en casa.
 Además, el agua no sabe bien."
-"Yamamoto Akuji (talking)";"ヒラカタ住民に、それを言われたく ね~けどな~…";"I don't want to hear that from the residents of Hirakata…";"No quiero oír eso de los residentes de Hirakata…"
-"Hasekura Haine (talking)";"お呼びでしょうか？";"You wanted to see me?";"¿Quería verme, señor?"
-"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
-"Momoyama Linda (talking)";"悪司、お布団なんでちゅが、 水鳥の羽毛１００％のものと取り替えて くだちゃいません？
-綿は重いわ、固いわで、寝にくいでちゅ。";"Akuji, could you please replace the futon with one made of 100% waterfowl feathers?
-Cotton is heavy, hard, and hard to sleep on.";"Akuji, ¿podrías cambiar tu edredón por uno hecho 100% de plumas de aves acuáticas?
+"Yamamoto Akuji (talking)","ヒラカタ住民に、それを言われたく ね~けどな~…","I don't want to hear that from the residents of Hirakata…","No quiero oír eso de los residentes de Hirakata…"
+"Hasekura Haine (talking)","お呼びでしょうか？","You wanted to see me?","¿Quería verme, señor?"
+"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
+"Momoyama Linda (talking)","悪司、お布団なんでちゅが、 水鳥の羽毛１００％のものと取り替えて くだちゃいません？
+綿は重いわ、固いわで、寝にくいでちゅ。","Akuji, could you please replace the futon with one made of 100% waterfowl feathers?
+Cotton is heavy, hard, and hard to sleep on.","Akuji, ¿podrías cambiar tu edredón por uno hecho 100% de plumas de aves acuáticas?
 El algodón es pesado, duro y difícil de dormir."
-"Yamamoto Akuji (talking)";"綿のおも~い上布団と、せんべい布団で 寝るのが、健康に一番いいんだよ。";"Sleeping on a heavy cotton top and a rice cracker quilt is the best way to stay healthy.";"Dormir sobre un pesado top de algodón y una colcha de galletas de arroz es lo mejor para la salud."
-"Momoyama Linda (talking)";"庶民の詭弁でちゅわ。
-でも、もう少しの我慢でちゅわね。 ハイネが後、";"It's the sophistry of the common man.
-But we have to be patient a little longer. Haine will be back later.";"Es el sofisma del hombre común.
+"Yamamoto Akuji (talking)","綿のおも~い上布団と、せんべい布団で 寝るのが、健康に一番いいんだよ。","Sleeping on a heavy cotton top and a rice cracker quilt is the best way to stay healthy.","Dormir sobre un pesado top de algodón y una colcha de galletas de arroz es lo mejor para la salud."
+"Momoyama Linda (talking)","庶民の詭弁でちゅわ。
+でも、もう少しの我慢でちゅわね。 ハイネが後、","It's the sophistry of the common man.
+But we have to be patient a little longer. Haine will be back later.","Es el sofisma del hombre común.
 Pero tenemos que ser pacientes un poco más. Haine volverá más tarde."
-"Momoyama Linda (talking)";"回 戦えばいい事でちゅから。";"It's a good thing to fight once.";"Es cuestión de luchar una batalla a la vez."
-"Hasekura Haine (talking)";"そうですね、リンダ様。";"Yes, Dear Linda.";"Sí, querida Linda."
-"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
-"Hasekura Haine (talking)";"失礼します。";"Excuse me.";"Disculpen."
-"Momoyama Linda (talking)";"フン。";"Hm.";"Hm."
-"Hasekura Haine (talking)";"悪司様。";"Dear Akuji.";"Querido Akuji."
-"Yamamoto Akuji (talking)";"なんだい？";"What is it?";"¿Qué es?"
-"Hasekura Haine (talking)";"この前の戦闘で、約束していた回数を 果たしました。
-ですので、近いうちにわたくしは リンダ様を連れ、お暇を頂きます。";"I have fulfilled the number of times I promised to do so in the last battle.
-Therefore, I will be taking Linda with me in the near future.";"En la última batalla, he cumplido el número de veces que había prometido.
+"Momoyama Linda (talking)","回 戦えばいい事でちゅから。","It's a good thing to fight once.","Es cuestión de luchar una batalla a la vez."
+"Hasekura Haine (talking)","そうですね、リンダ様。","Yes, Dear Linda.","Sí, querida Linda."
+"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
+"Hasekura Haine (talking)","失礼します。","Excuse me.","Disculpen."
+"Momoyama Linda (talking)","フン。","Hm.","Hm."
+"Hasekura Haine (talking)","悪司様。","Dear Akuji.","Querido Akuji."
+"Yamamoto Akuji (talking)","なんだい？","What is it?","¿Qué es?"
+"Hasekura Haine (talking)","この前の戦闘で、約束していた回数を 果たしました。
+ですので、近いうちにわたくしは リンダ様を連れ、お暇を頂きます。","I have fulfilled the number of times I promised to do so in the last battle.
+Therefore, I will be taking Linda with me in the near future.","En la última batalla, he cumplido el número de veces que había prometido.
 Por lo tanto, en un futuro próximo, me llevaré a Linda conmigo y te dejaré."
-"Yamamoto Akuji (talking)";"そーか、そーいやそうだったな。
-なあ、ハイネ。 気は変わんねーか？ このまま、うちで働いてくれよ。";"Oh, yeah, that's right.
-Hey, Haine. Are you changing your mind? Keep working for us, will you?";"Oh, sí, eso es.
+"Yamamoto Akuji (talking)","そーか、そーいやそうだったな。
+なあ、ハイネ。 気は変わんねーか？ このまま、うちで働いてくれよ。","Oh, yeah, that's right.
+Hey, Haine. Are you changing your mind? Keep working for us, will you?","Oh, sí, eso es.
 Hola, Haine. ¿Cambias de opinión? Sigue trabajando para nosotros, ¿quieres?"
-"Hasekura Haine (talking)";"わたくしは、リンダ様のものです。 今回の戦闘参加も、リンダ様を守る為。
-こちらの組織がリンダ様をボスとして 仰ぐのでしたら、わたくしはここで 働かせて頂きますが。";"I belong to Linda. My participation in this battle is to protect Lady Linda.
-If this organization wants Linda to be the boss, I will work here.";"Soy de Linda. Me uní a la batalla esta vez para proteger a Lady Linda.
+"Hasekura Haine (talking)","わたくしは、リンダ様のものです。 今回の戦闘参加も、リンダ様を守る為。
+こちらの組織がリンダ様をボスとして 仰ぐのでしたら、わたくしはここで 働かせて頂きますが。","I belong to Linda. My participation in this battle is to protect Lady Linda.
+If this organization wants Linda to be the boss, I will work here.","Soy de Linda. Me uní a la batalla esta vez para proteger a Lady Linda.
 Si esta organización te quisiera como jefe, estaría encantado de trabajar aquí."
-"Yamamoto Akuji (talking)";"それは無理な相談だなー…";"That's impossible to discuss…";"Esa es una consulta imposible…"
-"Momoyama Linda (talking)";"先に無理を言ってるのは、 そっちでちゅわ。";"You're the one who's asking for the impossible.";"Tú eres el que pide lo imposible primero."
-"Yamamoto Akuji (talking)";"つまんねーもんだけど、 これ、受け取ってくんねーか？";"I know it's boring, but will you take this?";"Sé que es un poco aburrido, pero ¿puedes aceptar esto?"
-"narrator";"悪司はハイネにお金の入った封筒を渡した。";"Akuji gave Haine an envelope containing money.";"Akuji le dio a Haine un sobre con dinero."
-"Hasekura Haine (talking)";"お心遣いだけ頂いておきます。";"I'll just take your concern.";"Sólo aceptaré su preocupación."
-"Yamamoto Akuji (talking)";"金には興味ねーのか？";"Don't you care about money?";"¿No te importa el dinero?"
-"Hasekura Haine (talking)";"いえ……その程度の金額なら、 頂いても意味がないので…… 別の事にお使い下さい。";"No,…… if it's that much money, there's no point in taking it, so please spend it on…… something else.";"No,…… si es tanto dinero, no tiene sentido cogerlo, así que por favor gástalo en…… otra cosa."
-"Yamamoto Akuji (talking)";"あ~~ま~ね~… あんたら、金持ちだからね~…";"Ah~ well… you guys are rich…";"Ah~ bueno… ustedes son ricos…"
-"Yamamoto Akuji (talking)";"おう、きたか。";"Oh, here you are.";"Oh, aquí está."
-"Momoyama Linda (talking)";"あたち達の処刑方法でも 決まったでちゅか？";"Have you decided on a method of execution for us?";"¿Ha decidido un método de ejecución para nosotros?"
-"Hasekura Haine (talking)";"…………………";"…………………";"…………………"
-"Yamamoto Akuji (talking)";"そー達観した顔すんなよ。 釈放してやるよ。";"Don't look so complacent. I'll let you go.";"No parezcas tan complaciente. Voy a dejar que te vayas."
-"Hasekura Haine (talking)";"―――？";"―――？";"―――？"
-"Momoyama Linda (talking)";"どーいう事でちゅか？";"What do you mean?";"¿Qué quieres decir?"
-"Yamamoto Akuji (talking)";"いや、タダでとは言わね。 条件がある。";"No, I don't say for free. There are conditions.";"No, yo no diría que es gratis. Hay condiciones."
-"Momoyama Linda (talking)";"あんたと結婚なんて 死んでもいやでちゅよ！";"I won't marry you even if it kills me!";"¡No me casaría contigo, aunque me mate!"
-"Yamamoto Akuji (talking)";"バーカ。 俺をあのヌケサク市長と 一緒にすんな。
-ＰＭを解散しろ。";"You idiot. Don't put me in the same room with that idiot mayor.
-Disband the PM.";"Baka. No me pongas en la misma habitación que ese alcalde sin sentido.
+"Yamamoto Akuji (talking)","それは無理な相談だなー…","That's impossible to discuss…","Esa es una consulta imposible…"
+"Momoyama Linda (talking)","先に無理を言ってるのは、 そっちでちゅわ。","You're the one who's asking for the impossible.","Tú eres el que pide lo imposible primero."
+"Yamamoto Akuji (talking)","つまんねーもんだけど、 これ、受け取ってくんねーか？","I know it's boring, but will you take this?","Sé que es un poco aburrido, pero ¿puedes aceptar esto?"
+"narrator","悪司はハイネにお金の入った封筒を渡した。","Akuji gave Haine an envelope containing money.","Akuji le dio a Haine un sobre con dinero."
+"Hasekura Haine (talking)","お心遣いだけ頂いておきます。","I'll just take your concern.","Sólo aceptaré su preocupación."
+"Yamamoto Akuji (talking)","金には興味ねーのか？","Don't you care about money?","¿No te importa el dinero?"
+"Hasekura Haine (talking)","いえ……その程度の金額なら、 頂いても意味がないので…… 別の事にお使い下さい。","No,…… if it's that much money, there's no point in taking it, so please spend it on…… something else.","No,…… si es tanto dinero, no tiene sentido cogerlo, así que por favor gástalo en…… otra cosa."
+"Yamamoto Akuji (talking)","あ~~ま~ね~… あんたら、金持ちだからね~…","Ah~ well… you guys are rich…","Ah~ bueno… ustedes son ricos…"
+"Yamamoto Akuji (talking)","おう、きたか。","Oh, here you are.","Oh, aquí está."
+"Momoyama Linda (talking)","あたち達の処刑方法でも 決まったでちゅか？","Have you decided on a method of execution for us?","¿Ha decidido un método de ejecución para nosotros?"
+"Hasekura Haine (talking)","…………………","…………………","…………………"
+"Yamamoto Akuji (talking)","そー達観した顔すんなよ。 釈放してやるよ。","Don't look so complacent. I'll let you go.","No parezcas tan complaciente. Voy a dejar que te vayas."
+"Hasekura Haine (talking)","―――？","―――？","―――？"
+"Momoyama Linda (talking)","どーいう事でちゅか？","What do you mean?","¿Qué quieres decir?"
+"Yamamoto Akuji (talking)","いや、タダでとは言わね。 条件がある。","No, I don't say for free. There are conditions.","No, yo no diría que es gratis. Hay condiciones."
+"Momoyama Linda (talking)","あんたと結婚なんて 死んでもいやでちゅよ！","I won't marry you even if it kills me!","¡No me casaría contigo, aunque me mate!"
+"Yamamoto Akuji (talking)","バーカ。 俺をあのヌケサク市長と 一緒にすんな。
+ＰＭを解散しろ。","You idiot. Don't put me in the same room with that idiot mayor.
+Disband the PM.","Baka. No me pongas en la misma habitación que ese alcalde sin sentido.
 Disuelve el PM."
-"Momoyama Linda (talking)";"なっ……！！";"Hey ……!!!!!!!";"¡¡¡¡¡¡¡Nah ……!!!!!!!"
-"Yamamoto Akuji (talking)";"条件はそれだけだ。 どーだ？";"That's the only condition. How's that?";"Esa es la única condición. ¿Cómo va todo?"
-"Momoyama Linda (talking)";"そ、その条件は、あたちが一番 嫌な条件ではないでちゅか！！
-そんな条件飲むぐらいなら……";"Well, those are the most disgusting conditions for us!
-I'd rather accept such conditions than ……";"¿No son esos los términos que más odiamos?
+"Momoyama Linda (talking)","なっ……！！","Hey ……!!!!!!!","¡¡¡¡¡¡¡Nah ……!!!!!!!"
+"Yamamoto Akuji (talking)","条件はそれだけだ。 どーだ？","That's the only condition. How's that?","Esa es la única condición. ¿Cómo va todo?"
+"Momoyama Linda (talking)","そ、その条件は、あたちが一番 嫌な条件ではないでちゅか！！
+そんな条件飲むぐらいなら……","Well, those are the most disgusting conditions for us!
+I'd rather accept such conditions than ……","¿No son esos los términos que más odiamos?
 Prefiero ……"
-"Hasekura Haine (talking)";"承知いたしました。";"Yes, sir.";"Se ha tomado nota."
-"Momoyama Linda (talking)";"ハイネ！？";"Haine!";"¡¡¡Haine!!!"
-"Yamamoto Akuji (talking)";"よし、決まった。 これで俺が、オオサカの支配者だ。";"Okay, it's decided. I am now the ruler of Osaca.";"Bien, está decidido. Ahora soy el gobernante de Osaca."
-"Hasekura Haine (talking)";"よしなに。";"All right, then.";"Muy bien, entonces."
-"Momoyama Linda (talking)";"ハイネ！！";"Haine!";"¡Una vez más, el hombre de la calle se ha convertido en un hombre de la calle!"
-"Hasekura Haine (talking)";"それでは参りましょう、リンダ様。";"Let's go now, Ms. Linda.";"Ahora vamos con usted, Lady Linda."
-"narrator";"ハイネはリンダを胸の中に担いだ。";"Haine carried Linda in his chest.";"Haine llevaba a Linda en su pecho."
-"Momoyama Linda (talking)";"ハイネっ……";"Haineっ……";"Haine……"
-"Hasekura Haine (talking)";"奴は、解散しろとだけ言いました。";"All he said was, break it up.";"Todo lo que dijo fue que se separaran."
-"narrator";"ハイネはリンダにだけ聞こえる 小さな声で言う。";"Haine says in a small voice that only Linda can hear.";"Haine dice en voz baja que sólo Linda puede oír."
-"Momoyama Linda (talking)";"え……？";"What, ……?";"¿Qué? ……?"
-"Hasekura Haine (talking)";"新しく組織を作っては駄目だとは 言いませんでした。";"I didn't say that we shouldn't create a new organization.";"No hemos dicho que no deban formarse nuevas organizaciones."
-"Momoyama Linda (talking)";"あ……";"A……";"A……"
-"Hasekura Haine (talking)";"その条件をつけ加えられる前に、 交渉を成立させました。 今はこれで堪えて下さい。
-リンダ様が生きていれば、 ＰＭは不滅ですから…";"We got the deal done before they added that condition. Please bear with us now.
-As long as Linda is alive, PM will be immortal…";"Conseguimos negociar antes de que añadieran esa condición. Por favor, tened paciencia con esto por ahora.
+"Hasekura Haine (talking)","承知いたしました。","Yes, sir.","Se ha tomado nota."
+"Momoyama Linda (talking)","ハイネ！？","Haine!","¡¡¡Haine!!!"
+"Yamamoto Akuji (talking)","よし、決まった。 これで俺が、オオサカの支配者だ。","Okay, it's decided. I am now the ruler of Osaca.","Bien, está decidido. Ahora soy el gobernante de Osaca."
+"Hasekura Haine (talking)","よしなに。","All right, then.","Muy bien, entonces."
+"Momoyama Linda (talking)","ハイネ！！","Haine!","¡Una vez más, el hombre de la calle se ha convertido en un hombre de la calle!"
+"Hasekura Haine (talking)","それでは参りましょう、リンダ様。","Let's go now, Ms. Linda.","Ahora vamos con usted, Lady Linda."
+"narrator","ハイネはリンダを胸の中に担いだ。","Haine carried Linda in his chest.","Haine llevaba a Linda en su pecho."
+"Momoyama Linda (talking)","ハイネっ……","Haineっ……","Haine……"
+"Hasekura Haine (talking)","奴は、解散しろとだけ言いました。","All he said was, break it up.","Todo lo que dijo fue que se separaran."
+"narrator","ハイネはリンダにだけ聞こえる 小さな声で言う。","Haine says in a small voice that only Linda can hear.","Haine dice en voz baja que sólo Linda puede oír."
+"Momoyama Linda (talking)","え……？","What, ……?","¿Qué? ……?"
+"Hasekura Haine (talking)","新しく組織を作っては駄目だとは 言いませんでした。","I didn't say that we shouldn't create a new organization.","No hemos dicho que no deban formarse nuevas organizaciones."
+"Momoyama Linda (talking)","あ……","A……","A……"
+"Hasekura Haine (talking)","その条件をつけ加えられる前に、 交渉を成立させました。 今はこれで堪えて下さい。
+リンダ様が生きていれば、 ＰＭは不滅ですから…","We got the deal done before they added that condition. Please bear with us now.
+As long as Linda is alive, PM will be immortal…","Conseguimos negociar antes de que añadieran esa condición. Por favor, tened paciencia con esto por ahora.
 Mientras Linda esté viva, la PM será inmortal…"
-"Momoyama Linda (talking)";"……わかりまちたわ……";"……I see what you mean: ……";"…… Lo entiendo……"
-"Chinpira (talking)";"待て、コラ！！ そっちは出口だろ！！ どこ行く気だ！？";"Wait, hey, hey! That's the exit! Where the hell are you going?";"¡Espera, oye, oye, oye! ¡Esa es la salida! ¿A dónde vas?"
-"narrator";"奉仕青年団から出て行こうとする ハイネの道を阻む、チンピラ。
-ハイネは黙って、その男を見る。";"A thug blocks Haine's path as he tries to leave the service youth group.
-Haine silently looks at the man.";"Un matón bloquea el camino de Haine cuando intenta salir del grupo de jóvenes del servicio.
+"Momoyama Linda (talking)","……わかりまちたわ……","……I see what you mean: ……","…… Lo entiendo……"
+"Chinpira (talking)","待て、コラ！！ そっちは出口だろ！！ どこ行く気だ！？","Wait, hey, hey! That's the exit! Where the hell are you going?","¡Espera, oye, oye, oye! ¡Esa es la salida! ¿A dónde vas?"
+"narrator","奉仕青年団から出て行こうとする ハイネの道を阻む、チンピラ。
+ハイネは黙って、その男を見る。","A thug blocks Haine's path as he tries to leave the service youth group.
+Haine silently looks at the man.","Un matón bloquea el camino de Haine cuando intenta salir del grupo de jóvenes del servicio.
 Haine mira en silencio al hombre."
-"Chinpira (talking)";"っ………えっ…";"I'm not sure what you mean…";"No estoy seguro…"
-"narrator";"その眼光の鋭さに、チンピラはその場で へなへなと腰を抜かした。";"The sharpness of his eyes made the hoodlums slump down on the spot.";"La agudeza de sus ojos hizo que el matón se desplomara en el acto."
-"narrator";"ハイネはそのままリンダを連れ、 さっさと地下室から出て行ってしまった。";"Haine quickly left the basement with Linda in tow.";"Haine salió rápidamente de la bodega con Linda a cuestas."
-"Chinpira (talking)";"あ、悪司さん！ あいつら、出てって、出てって……";"Oh, Akuji! Those guys, get out, get out ……";"¡Oh, Akuji! Ellos, salgan, salgan ……"
-"Yamamoto Akuji (talking)";"………まーしかたねーなー…… ハイネ相手だったら、三下だと そーなるわ。
+"Chinpira (talking)","っ………えっ…","I'm not sure what you mean…","No estoy seguro…"
+"narrator","その眼光の鋭さに、チンピラはその場で へなへなと腰を抜かした。","The sharpness of his eyes made the hoodlums slump down on the spot.","La agudeza de sus ojos hizo que el matón se desplomara en el acto."
+"narrator","ハイネはそのままリンダを連れ、 さっさと地下室から出て行ってしまった。","Haine quickly left the basement with Linda in tow.","Haine salió rápidamente de la bodega con Linda a cuestas."
+"Chinpira (talking)","あ、悪司さん！ あいつら、出てって、出てって……","Oh, Akuji! Those guys, get out, get out ……","¡Oh, Akuji! Ellos, salgan, salgan ……"
+"Yamamoto Akuji (talking)","………まーしかたねーなー…… ハイネ相手だったら、三下だと そーなるわ。
 もうほっとけほっとけ。 追いかけても、あいつに ボコられるだけだ。
-１０中８、９、タマ取られるぜ。";"If you're……… Tane-na-…… Haine opponent, that's what you'll get if you're a third party.
+１０中８、９、タマ取られるぜ。","If you're……… Tane-na-…… Haine opponent, that's what you'll get if you're a third party.
 Leave it alone, leave it alone. If you chase after him, he'll just beat you up.
-8 or 9 out of 10, he'll take your balls.";"Si estás en contra de……… Maa-kaa Tane-naa Haine…… Haine, eso es lo que conseguirás si eres un tercero.
+8 or 9 out of 10, he'll take your balls.","Si estás en contra de……… Maa-kaa Tane-naa Haine…… Haine, eso es lo que conseguirás si eres un tercero.
 Déjalo en paz, déjalo en paz. Si lo persigues, sólo te golpeará.
 Ocho o nueve de cada diez, se llevará tus pelotas."
-"Chinpira (talking)";"は、はあ……";"Ha, ha ……";"Ja, ja: ……"
-"Yamamoto Akuji (talking)";"おう、きたか。";"Oh, here you are.";"Oh, aquí está."
-"Momoyama Linda (talking)";"なんでちゅか？ 出してくれるんでちゅか？";"Why? Will you let me out?";"¿Por qué? ¿Me dejas salir?"
-"Yamamoto Akuji (talking)";"お前さんはちょっと黙ってな。 俺は、ハイネに用があるんだ。";"You shut up for a minute. I'm here for Haine.";"Cállate un momento. Estoy aquí por Haine."
-"Hasekura Haine (talking)";"わたくしに、何か？";"To me, what is it?";"Para nosotros, ¿qué es?"
-"Yamamoto Akuji (talking)";"単刀直入に言うぞ。 ハイネ、俺の部下になって、 俺の為に戦え。";"I'm gonna get straight to the point. Haine, join my crew and fight for me.";"Seré sincero contigo. Haine, únete a mis hombres y lucha por mí."
-"Hasekura Haine (talking)";"……………";"……………";"……………"
-"Momoyama Linda (talking)";"ハイネは、あたちのものでちゅ！ 何言うでちゅか！！";"Haine is ours! What are you talking about!";"¡Haine es nuestro! ¿Qué estás diciendo?"
-"Yamamoto Akuji (talking)";"――と、過去のボスが仰って いらっしゃるが、知ったこっちゃねぇ。
-俺は、お前さんの意思が知りたい。 どうだ、ハイネ？";"--I don't care what the past bosses have said.
-I want to know your intentions. What do you think, Haine?";"--No me importa lo que hayan dicho los jefes anteriores.
+"Chinpira (talking)","は、はあ……","Ha, ha ……","Ja, ja: ……"
+"Yamamoto Akuji (talking)","おう、きたか。","Oh, here you are.","Oh, aquí está."
+"Momoyama Linda (talking)","なんでちゅか？ 出してくれるんでちゅか？","Why? Will you let me out?","¿Por qué? ¿Me dejas salir?"
+"Yamamoto Akuji (talking)","お前さんはちょっと黙ってな。 俺は、ハイネに用があるんだ。","You shut up for a minute. I'm here for Haine.","Cállate un momento. Estoy aquí por Haine."
+"Hasekura Haine (talking)","わたくしに、何か？","To me, what is it?","Para nosotros, ¿qué es?"
+"Yamamoto Akuji (talking)","単刀直入に言うぞ。 ハイネ、俺の部下になって、 俺の為に戦え。","I'm gonna get straight to the point. Haine, join my crew and fight for me.","Seré sincero contigo. Haine, únete a mis hombres y lucha por mí."
+"Hasekura Haine (talking)","……………","……………","……………"
+"Momoyama Linda (talking)","ハイネは、あたちのものでちゅ！ 何言うでちゅか！！","Haine is ours! What are you talking about!","¡Haine es nuestro! ¿Qué estás diciendo?"
+"Yamamoto Akuji (talking)","――と、過去のボスが仰って いらっしゃるが、知ったこっちゃねぇ。
+俺は、お前さんの意思が知りたい。 どうだ、ハイネ？","--I don't care what the past bosses have said.
+I want to know your intentions. What do you think, Haine?","--No me importa lo que hayan dicho los jefes anteriores.
 Quiero saber lo que quieres. ¿Qué piensas, Haine?"
-"Hasekura Haine (talking)";"わたくしは、リンダ様の仰る通り、 リンダ様のものでございます。
-リンダ様の為に生き、 リンダ様の為に死ぬ。 それが支倉の家の者の宿命。";"I belong to Linda, just as you say.
-I live for Linda and die for Linda. That is the destiny of the house of Hasekura.";"Pertenezco a Linda, como tú dices.
+"Hasekura Haine (talking)","わたくしは、リンダ様の仰る通り、 リンダ様のものでございます。
+リンダ様の為に生き、 リンダ様の為に死ぬ。 それが支倉の家の者の宿命。","I belong to Linda, just as you say.
+I live for Linda and die for Linda. That is the destiny of the house of Hasekura.","Pertenezco a Linda, como tú dices.
 Vivo por Linda y muero por Linda. Ese es el destino de la casa de Hasekura."
-"Yamamoto Akuji (talking)";"そーか。 じゃあ、こうしよう。 リンダをどうするか……";"I see. Okay, let's do this. What to do with Linda: ……";"Ya veo. Así que hagamos esto. Qué hacer con Linda: ……"
-"Momoyama Linda (talking)";"何……？";"What ……?";"¿Qué ……?"
-"Hasekura Haine (talking)";"それは…どういう事ですかな？";"What does that… mean?";"¿Qué significa eso?"
-"Yamamoto Akuji (talking)";"うちだって、裕福って訳じゃねーし、 捕虜部屋だって限りがある。
-いらなくなった捕虜は…… どうすっかねー？";"We are not rich, and we have limited room for POWs.
-What should we do with the POWs we no longer need ……?";"Tampoco somos ricos, y tenemos un número limitado de habitaciones para prisioneros de guerra.
+"Yamamoto Akuji (talking)","そーか。 じゃあ、こうしよう。 リンダをどうするか……","I see. Okay, let's do this. What to do with Linda: ……","Ya veo. Así que hagamos esto. Qué hacer con Linda: ……"
+"Momoyama Linda (talking)","何……？","What ……?","¿Qué ……?"
+"Hasekura Haine (talking)","それは…どういう事ですかな？","What does that… mean?","¿Qué significa eso?"
+"Yamamoto Akuji (talking)","うちだって、裕福って訳じゃねーし、 捕虜部屋だって限りがある。
+いらなくなった捕虜は…… どうすっかねー？","We are not rich, and we have limited room for POWs.
+What should we do with the POWs we no longer need ……?","Tampoco somos ricos, y tenemos un número limitado de habitaciones para prisioneros de guerra.
  ¿Qué hacemos con los prisioneros de guerra que ya no necesitamos ……?"
-"Hasekura Haine (talking)";"なるほど……そういう事ですか……
- ……わかりました。 あなた様の為に戦いましょう。";"I see…… that's what you mean……
-I understand ……. I will fight for you.";"Ya veo…… eso es lo que quieres decir……
+"Hasekura Haine (talking)","なるほど……そういう事ですか……
+ ……わかりました。 あなた様の為に戦いましょう。","I see…… that's what you mean……
+I understand ……. I will fight for you.","Ya veo…… eso es lo que quieres decir……
 Entiendo ……. Lucharé por ti."
-"Momoyama Linda (talking)";"ハイネ！？ あたちはどうなってもいいでちゅわよ！！
-敗北した時点で、あたちはＰＭの ボスとして、失格なんでちゅから。";"Haine! We don't care what happens to us!
-We are disqualified as PM bosses when we are defeated.";"¡Una vez más, el hombre de la calle se ha convertido en un hombre de la calle! ¡No nos importa lo que nos pase!
+"Momoyama Linda (talking)","ハイネ！？ あたちはどうなってもいいでちゅわよ！！
+敗北した時点で、あたちはＰＭの ボスとして、失格なんでちゅから。","Haine! We don't care what happens to us!
+We are disqualified as PM bosses when we are defeated.","¡Una vez más, el hombre de la calle se ha convertido en un hombre de la calle! ¡No nos importa lo que nos pase!
 Estamos descalificados como jefes de la PM cuando somos derrotados."
-"Hasekura Haine (talking)";"そういう訳にはまいりません。 リンダ様がいらっしゃれば、 後世に血を残す事が出来ます。
-その為ならばこのハイネ。 鬼にも蛇にもなりましょう。";"That is not possible. With Linda here, we can leave a legacy for future generations.
-For that purpose, this Haine. I will become both a demon and a snake.";"No es así como funciona. Con Linda aquí, podemos dejar un legado para las generaciones futuras.
+"Hasekura Haine (talking)","そういう訳にはまいりません。 リンダ様がいらっしゃれば、 後世に血を残す事が出来ます。
+その為ならばこのハイネ。 鬼にも蛇にもなりましょう。","That is not possible. With Linda here, we can leave a legacy for future generations.
+For that purpose, this Haine. I will become both a demon and a snake.","No es así como funciona. Con Linda aquí, podemos dejar un legado para las generaciones futuras.
 Para ello, este Haine. Seré tanto demonio como serpiente."
-"Yamamoto Akuji (talking)";"大した忠義心だ。 じゃあ、俺の部下……";"Great loyalty. Well then, my man ……";"Gran lealtad. Entonces mi hombre ……"
-"Hasekura Haine (talking)";"但し、条件がございます。";"However, there are some conditions.";"Sin embargo, se aplican condiciones."
-"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
-"Hasekura Haine (talking)";"わたくしは、あなたの為に 戦いましょう。
+"Yamamoto Akuji (talking)","大した忠義心だ。 じゃあ、俺の部下……","Great loyalty. Well then, my man ……","Gran lealtad. Entonces mi hombre ……"
+"Hasekura Haine (talking)","但し、条件がございます。","However, there are some conditions.","Sin embargo, se aplican condiciones."
+"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
+"Hasekura Haine (talking)","わたくしは、あなたの為に 戦いましょう。
 ですが、３回までです。 その後わたくしは、隠居いたします。 二度と戦う事はありません。
 そしてもうひとつ。 リンダ様の無事を保証して頂きとう ございます。
 その３回の戦いで、わたくしが滅びても、 リンダ様を絶対傷つける事はないと。
 そのふたつが条件です。
-これに承諾して頂けない場合、わたくしは リンダ様を息絶えさせ、一人でも多くを 道連れに、この場で修羅となりましょう。";"I will fight for you.
+これに承諾して頂けない場合、わたくしは リンダ様を息絶えさせ、一人でも多くを 道連れに、この場で修羅となりましょう。","I will fight for you.
 But only up to three times. After that, I will go into hiding. I will never fight again.
 And one more thing. I would like you to assure me that Linda is safe.
 That even if I perish in those three battles, I will never harm Lady Linda.
 These are my two conditions.
-If you do not agree to this, I will let Linda die, and I will take as many of you as possible with me, and we will become Shura here.";"Lucharé por ti.
+If you do not agree to this, I will let Linda die, and I will take as many of you as possible with me, and we will become Shura here.","Lucharé por ti.
 Pero sólo hasta tres veces. Después de eso, me esconderé. No volveré a luchar.
 Y una cosa más. Me gustaría que garantizaras la seguridad de Linda.
 Que aunque perezca en esas tres batallas, nunca dañaré a Lady Linda.
 Estas son mis dos condiciones.
 Si no estás de acuerdo con esto, dejaré que Linda se extinga y me llevaré a toda la gente posible y me convertiré en Shura aquí."
-"Momoyama Linda (talking)";"そうでちゅわね。 あたちもハイネの腕にかかるのでちたら、 死んでもよいでちゅわ。
-無様に生き残るのでちたら、 華々しく散る方を選択するでちゅ。";"That's right. We would die in the arms of Haine.
-If we survive in vain, we will choose to scatter in spectacular fashion.";"Así es. Moriríamos a manos de Haine.
+"Momoyama Linda (talking)","そうでちゅわね。 あたちもハイネの腕にかかるのでちたら、 死んでもよいでちゅわ。
+無様に生き残るのでちたら、 華々しく散る方を選択するでちゅ。","That's right. We would die in the arms of Haine.
+If we survive in vain, we will choose to scatter in spectacular fashion.","Así es. Moriríamos a manos de Haine.
 Si sobrevivimos en vano, optaremos por dispersarnos de forma espectacular."
-"Yamamoto Akuji (talking)";"あーもう、わかったわかった。 その条件、飲んでやるよ。";"Oh, God, okay, okay. I'll take those terms.";"Oh, Dios, está bien, está bien. Aceptaré esas condiciones."
-"Hasekura Haine (talking)";"ありがとうございます。
-その恩に報いまして、わたくし達がここに お世話になっている間の賃金の支払いは、 ゼロで結構でございます。";"Thank you very much.
-To repay you for your kindness, we will pay you zero wages while you are in our care.";"Muchas gracias.
+"Yamamoto Akuji (talking)","あーもう、わかったわかった。 その条件、飲んでやるよ。","Oh, God, okay, okay. I'll take those terms.","Oh, Dios, está bien, está bien. Aceptaré esas condiciones."
+"Hasekura Haine (talking)","ありがとうございます。
+その恩に報いまして、わたくし達がここに お世話になっている間の賃金の支払いは、 ゼロで結構でございます。","Thank you very much.
+To repay you for your kindness, we will pay you zero wages while you are in our care.","Muchas gracias.
 Para recompensar su amabilidad, le pagaremos un salario cero mientras esté a nuestro cargo."
-"Yamamoto Akuji (talking)";"へ？ いーのかい？";"What? You don't mind?";"¿Eh? ¿No te importa?"
-"Hasekura Haine (talking)";"組織の経済に携わっていた者の 端くれとして、察するに…
-こちらがわたくし達に支払う予定の金額は リンダ様の資産の一月分の利子にも なりませんでしょうから。";"As a former member of the organization's finances, I can tell you…
-The amount we will be paying to you will not even equal one month's interest on your assets.";"Como alguien que estuvo involucrado en las finanzas de la organización, puedo decirle…
+"Yamamoto Akuji (talking)","へ？ いーのかい？","What? You don't mind?","¿Eh? ¿No te importa?"
+"Hasekura Haine (talking)","組織の経済に携わっていた者の 端くれとして、察するに…
+こちらがわたくし達に支払う予定の金額は リンダ様の資産の一月分の利子にも なりませんでしょうから。","As a former member of the organization's finances, I can tell you…
+The amount we will be paying to you will not even equal one month's interest on your assets.","Como alguien que estuvo involucrado en las finanzas de la organización, puedo decirle…
 La cantidad que te vamos a pagar no cubrirá ni siquiera los intereses de un mes de los bienes de Linda."
-"Yamamoto Akuji (talking)";"……そーなのか……";"……I see what you mean: ……";"…… Ya veo……"
-"Hasekura Haine (talking)";"はい。";"Yes.";"Sí."
-"Yamamoto Akuji (thinking)";"金持ち、金持ちだと思ってたが、 そこまでだったとはなー……";"I thought I was rich, rich, rich, but I didn't know I was that rich……";"Pensé que era rico, rico, rico, pero no me di cuenta de que era tan rico……"
-"narrator";"悪司はＰＭ本拠地、リンダの屋敷の前まで きていた。";"Akuji had arrived at the PM headquarters, in front of Linda's mansion.";"Akuji había llegado a la fortaleza de la PM, frente al recinto de Linda."
-"Yamamoto Akuji (talking)";"いいか。 ＰＭ本部を落とさねぇ限り、 この戦いは終わんねぇ。
-残りは、ハイネ一人だ。 一気に行くぜ。";"Listen up. As long as we don't take down PM HQ, this battle is not over.
-There's only Haine left. Let's go at once.";"Escuchen. Mientras no derribemos el cuartel general de la PM, esta lucha no ha terminado.
+"Yamamoto Akuji (talking)","……そーなのか……","……I see what you mean: ……","…… Ya veo……"
+"Hasekura Haine (talking)","はい。","Yes.","Sí."
+"Yamamoto Akuji (thinking)","金持ち、金持ちだと思ってたが、 そこまでだったとはなー……","I thought I was rich, rich, rich, but I didn't know I was that rich……","Pensé que era rico, rico, rico, pero no me di cuenta de que era tan rico……"
+"narrator","悪司はＰＭ本拠地、リンダの屋敷の前まで きていた。","Akuji had arrived at the PM headquarters, in front of Linda's mansion.","Akuji había llegado a la fortaleza de la PM, frente al recinto de Linda."
+"Yamamoto Akuji (talking)","いいか。 ＰＭ本部を落とさねぇ限り、 この戦いは終わんねぇ。
+残りは、ハイネ一人だ。 一気に行くぜ。","Listen up. As long as we don't take down PM HQ, this battle is not over.
+There's only Haine left. Let's go at once.","Escuchen. Mientras no derribemos el cuartel general de la PM, esta lucha no ha terminado.
 Sólo queda Haine. Vayamos de inmediato."
-"narrator";"悪司の言葉に部下達は頷いた。";"My men nodded at Akuji's words.";"Los hombres asintieron a las palabras de Akuji."
-"Momoyama Linda (talking)";"どうやら、きたみたいでちゅわね。";"It looks like you're here.";"Parece que estás aquí."
-"Hasekura Haine (talking)";"はい。";"Yes.";"Sí."
-"Momoyama Linda (talking)";"ここは絶対、落とされてはダメでちゅわ。";"You must not be dropped here.";"Definitivamente, este no es el lugar para dejarse caer."
-"Hasekura Haine (talking)";"はい、リンダ様。
-リンダ様、戦闘中、多少不自由を おかけいたしますが、辛抱下さいませ。";"Yes, Miss Linda.
-Dear Linda, I apologize for any inconvenience you may experience during the battle, but please be patient.";"Sí, Lady Linda.
+"narrator","悪司の言葉に部下達は頷いた。","My men nodded at Akuji's words.","Los hombres asintieron a las palabras de Akuji."
+"Momoyama Linda (talking)","どうやら、きたみたいでちゅわね。","It looks like you're here.","Parece que estás aquí."
+"Hasekura Haine (talking)","はい。","Yes.","Sí."
+"Momoyama Linda (talking)","ここは絶対、落とされてはダメでちゅわ。","You must not be dropped here.","Definitivamente, este no es el lugar para dejarse caer."
+"Hasekura Haine (talking)","はい、リンダ様。
+リンダ様、戦闘中、多少不自由を おかけいたしますが、辛抱下さいませ。","Yes, Miss Linda.
+Dear Linda, I apologize for any inconvenience you may experience during the battle, but please be patient.","Sí, Lady Linda.
 Querida Linda, te pido paciencia durante la batalla."
-"Momoyama Linda (talking)";"構わないでちゅわ。 それは、ハイネがあたちを 守る為でちゅもの。";"It doesn't matter. It's for Haine to protect us.";"No importa. Para eso está Haine, para protegernos."
-"Hasekura Haine (talking)";"ありがとうございます。";"Thank you very much.";"Gracias."
-"Momoyama Linda (talking)";"ハイネ、手加減する事ありまちぇんわ。 本気でいってくだちゃい。";"Haine, don't go easy on me. You've got to be serious.";"Haine, no me lo pongas fácil. Tienes que ser serio."
-"Hasekura Haine (talking)";"はっ。";"Ha.";"Ha."
-"Momoyama Linda (talking)";"外が騒がしいでちゅわね。";"It's so noisy outside.";"El exterior es ruidoso."
-"Hasekura Haine (talking)";"またきたようですね。";"Looks like it's here again.";"Parece que estamos aquí de nuevo."
-"Momoyama Linda (talking)";"ハイネ。";"Haine.";"Haine."
-"Hasekura Haine (talking)";"はっ。";"Ha.";"Ha."
-"narrator";"ハイネはリンダをその背におぶった。";"Haine carried Linda on her back.";"Haine llevaba a Linda en su espalda."
-"Hasekura Haine (talking)";"それでは、少々ご辛抱を。";"So, please have a little patience.";"Ahora, por favor, sea paciente por un momento."
-"Momoyama Linda (talking)";"ガンガンやっちゃって。";"Go ahead and do it.";"Gung-ho."
-"Hasekura Haine (talking)";"はっ。";"Ha.";"Ha."
-"narrator";"ハイネは背中からリンダを降ろした。";"Haine lowered Linda off his back.";"Haine bajó a Linda de su espalda."
-"Momoyama Linda (talking)";"いつもながら、素晴らしい 戦いぶりでちたわ、ハイネ。";"Great fight as always, Haine.";"Gran lucha, como siempre, Haine."
-"Hasekura Haine (talking)";"あがとうございます。";"Thank you very much.";"Muchas gracias."
-"Momoyama Linda (talking)";"でも、奴ら、バカだから負けても 懲りないと思うでちゅわ。";"But they are so stupid that I don't think they will learn from their defeat.";"Pero son tan estúpidos que no creo que aprendan de sus pérdidas."
-"Hasekura Haine (talking)";"その時はまた、 わたくしが追い払います。";"I will get rid of them again.";"Entonces también me desharé de ellos."
-"Momoyama Linda (talking)";"そうね、お願いね、ハイネ。";"Yes, please, Haine.";"Sí, por favor, Haine."
-"Hasekura Haine (talking)";"はっ。";"Ha.";"Ha."
-"Seinendan Jyoshi (talking)";"あ、悪司さん！ リンダさんとハイネさんが…";"Oh, Akuji! Linda and Haine…";"¡Oh, Akuji! Linda y Haine…"
-"Yamamoto Akuji (talking)";"ん~？";"Hmm?";"¿Hmm?"
-"Hasekura Haine (talking)";"失礼します。";"Excuse me.";"Disculpen."
-"Yamamoto Akuji (talking)";"どうしたんだ？";"What's going on?";"¿Qué está pasando?"
-"Momoyama Linda (talking)";"出て行くでちゅわ。";"I'm leaving.";"Me voy."
-"Hasekura Haine (talking)";"この前の戦闘で、わたくしは悪司様との 約束を果たしました。 ですので、お暇させて頂きます。";"In the last battle, I have fulfilled my promise to Master Akuji. Therefore, I will leave you now.";"En la última batalla, cumplí mi promesa a Akuji. Por lo tanto, me iré."
-"Yamamoto Akuji (talking)";"ああ…そーか、そーだったな……";"Oh…right…that's right……";"Oh… sí, eso es……"
-"Momoyama Linda (talking)";"ごきげんよう、悪司。 しばらくあなたの顔は見たくない でちゅわ。";"Good day, Akuji. I don't want to see your face for a while.";"Buenos días, Akuji. No quiero ver tu cara durante un tiempo."
-"Yamamoto Akuji (talking)";"そーか、わかった。 家が決まったら連絡くれなくても、 こっちで調べて飴玉持ってってやるよ。";"Oh, okay. If you don't call me when you decide on a house, I'll look into it and bring you a candy bar.";"Oh, vale. Si no me llamas cuando te decidas por una casa, lo investigaré y te traeré una chocolatina."
-"Momoyama Linda (talking)";"こなくていいでちゅ！！";"You don't have to come!";"No tienes que venir."
-"Hasekura Haine (talking)";"短い間ですが、お世話になりました。";"Thank you for your help for a short time.";"Gracias por su ayuda en el poco tiempo que lleva aquí."
-"Yamamoto Akuji (talking)";"こっちこそ助かったぜ。";"Thanks for your help.";"Gracias por la ayuda."
-"Hasekura Haine (talking)";"それでは。";"See you then.";"Entonces."
-"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
-"narrator";"ハイネはリンダを抱くと踵を返し、 そのまま振り向かなかった。";"Haine hugged Linda and turned on his heel, and never looked back.";"Haine abrazó a Linda y giró sobre sus talones, sin mirar atrás."
-"Seinendan Jyoshi (talking)";"ずっといてくれれば よかったんですけどねー…";"I wish you could have stayed the whole time…";"Ojalá te hubieras quedado todo el tiempo…"
-"Yamamoto Akuji (talking)";"まーしゃーねぇわ。 そーいう約束だったし。";"Well, it can't be helped. That was the deal.";"Bueno, no se puede evitar. Ese fue el trato."
-"Momoyama Linda (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"まさか俺も、あのおっさんが 戦いに負けるとは思ってなかったん だがな…";"I didn't think the old man would lose the fight either, but…";"Tampoco creía que el viejo fuera a perder la pelea, pero…"
-"Momoyama Linda (talking)";"しかたありまちぇんわ。 事実は事実でちゅ。
+"Momoyama Linda (talking)","構わないでちゅわ。 それは、ハイネがあたちを 守る為でちゅもの。","It doesn't matter. It's for Haine to protect us.","No importa. Para eso está Haine, para protegernos."
+"Hasekura Haine (talking)","ありがとうございます。","Thank you very much.","Gracias."
+"Momoyama Linda (talking)","ハイネ、手加減する事ありまちぇんわ。 本気でいってくだちゃい。","Haine, don't go easy on me. You've got to be serious.","Haine, no me lo pongas fácil. Tienes que ser serio."
+"Hasekura Haine (talking)","はっ。","Ha.","Ha."
+"Momoyama Linda (talking)","外が騒がしいでちゅわね。","It's so noisy outside.","El exterior es ruidoso."
+"Hasekura Haine (talking)","またきたようですね。","Looks like it's here again.","Parece que estamos aquí de nuevo."
+"Momoyama Linda (talking)","ハイネ。","Haine.","Haine."
+"Hasekura Haine (talking)","はっ。","Ha.","Ha."
+"narrator","ハイネはリンダをその背におぶった。","Haine carried Linda on her back.","Haine llevaba a Linda en su espalda."
+"Hasekura Haine (talking)","それでは、少々ご辛抱を。","So, please have a little patience.","Ahora, por favor, sea paciente por un momento."
+"Momoyama Linda (talking)","ガンガンやっちゃって。","Go ahead and do it.","Gung-ho."
+"Hasekura Haine (talking)","はっ。","Ha.","Ha."
+"narrator","ハイネは背中からリンダを降ろした。","Haine lowered Linda off his back.","Haine bajó a Linda de su espalda."
+"Momoyama Linda (talking)","いつもながら、素晴らしい 戦いぶりでちたわ、ハイネ。","Great fight as always, Haine.","Gran lucha, como siempre, Haine."
+"Hasekura Haine (talking)","あがとうございます。","Thank you very much.","Muchas gracias."
+"Momoyama Linda (talking)","でも、奴ら、バカだから負けても 懲りないと思うでちゅわ。","But they are so stupid that I don't think they will learn from their defeat.","Pero son tan estúpidos que no creo que aprendan de sus pérdidas."
+"Hasekura Haine (talking)","その時はまた、 わたくしが追い払います。","I will get rid of them again.","Entonces también me desharé de ellos."
+"Momoyama Linda (talking)","そうね、お願いね、ハイネ。","Yes, please, Haine.","Sí, por favor, Haine."
+"Hasekura Haine (talking)","はっ。","Ha.","Ha."
+"Seinendan Jyoshi (talking)","あ、悪司さん！ リンダさんとハイネさんが…","Oh, Akuji! Linda and Haine…","¡Oh, Akuji! Linda y Haine…"
+"Yamamoto Akuji (talking)","ん~？","Hmm?","¿Hmm?"
+"Hasekura Haine (talking)","失礼します。","Excuse me.","Disculpen."
+"Yamamoto Akuji (talking)","どうしたんだ？","What's going on?","¿Qué está pasando?"
+"Momoyama Linda (talking)","出て行くでちゅわ。","I'm leaving.","Me voy."
+"Hasekura Haine (talking)","この前の戦闘で、わたくしは悪司様との 約束を果たしました。 ですので、お暇させて頂きます。","In the last battle, I have fulfilled my promise to Master Akuji. Therefore, I will leave you now.","En la última batalla, cumplí mi promesa a Akuji. Por lo tanto, me iré."
+"Yamamoto Akuji (talking)","ああ…そーか、そーだったな……","Oh…right…that's right……","Oh… sí, eso es……"
+"Momoyama Linda (talking)","ごきげんよう、悪司。 しばらくあなたの顔は見たくない でちゅわ。","Good day, Akuji. I don't want to see your face for a while.","Buenos días, Akuji. No quiero ver tu cara durante un tiempo."
+"Yamamoto Akuji (talking)","そーか、わかった。 家が決まったら連絡くれなくても、 こっちで調べて飴玉持ってってやるよ。","Oh, okay. If you don't call me when you decide on a house, I'll look into it and bring you a candy bar.","Oh, vale. Si no me llamas cuando te decidas por una casa, lo investigaré y te traeré una chocolatina."
+"Momoyama Linda (talking)","こなくていいでちゅ！！","You don't have to come!","No tienes que venir."
+"Hasekura Haine (talking)","短い間ですが、お世話になりました。","Thank you for your help for a short time.","Gracias por su ayuda en el poco tiempo que lleva aquí."
+"Yamamoto Akuji (talking)","こっちこそ助かったぜ。","Thanks for your help.","Gracias por la ayuda."
+"Hasekura Haine (talking)","それでは。","See you then.","Entonces."
+"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
+"narrator","ハイネはリンダを抱くと踵を返し、 そのまま振り向かなかった。","Haine hugged Linda and turned on his heel, and never looked back.","Haine abrazó a Linda y giró sobre sus talones, sin mirar atrás."
+"Seinendan Jyoshi (talking)","ずっといてくれれば よかったんですけどねー…","I wish you could have stayed the whole time…","Ojalá te hubieras quedado todo el tiempo…"
+"Yamamoto Akuji (talking)","まーしゃーねぇわ。 そーいう約束だったし。","Well, it can't be helped. That was the deal.","Bueno, no se puede evitar. Ese fue el trato."
+"Momoyama Linda (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","まさか俺も、あのおっさんが 戦いに負けるとは思ってなかったん だがな…","I didn't think the old man would lose the fight either, but…","Tampoco creía que el viejo fuera a perder la pelea, pero…"
+"Momoyama Linda (talking)","しかたありまちぇんわ。 事実は事実でちゅ。
 ハイネは負けた。
 そして、死んでちまった。
- ……それだけでちゅ。";"I can't help it. Facts are facts.
+ ……それだけでちゅ。","I can't help it. Facts are facts.
 Haine lost.
 And he's dead.
-That's all there is to it……";"No puedo evitarlo. Los hechos son los hechos.
+That's all there is to it……","No puedo evitarlo. Los hechos son los hechos.
 Haine perdió.
 Y está muerto.…… Eso es todo."
-"Yamamoto Akuji (talking)";"約束だったからな。 お前さんの安全は俺が保証するよ。";"It was a promise. I guarantee your safety.";"Te he hecho una promesa. Le garantizo su seguridad."
-"Momoyama Linda (talking)";"………………
-だったら……家に帰りたいでちゅ。";"………………
-Then I want to go home to …….";"………………
+"Yamamoto Akuji (talking)","約束だったからな。 お前さんの安全は俺が保証するよ。","It was a promise. I guarantee your safety.","Te he hecho una promesa. Le garantizo su seguridad."
+"Momoyama Linda (talking)","………………
+だったら……家に帰りたいでちゅ。","………………
+Then I want to go home to …….","………………
 Entonces quiero ir a casa a ……."
-"Yamamoto Akuji (talking)";"リンダ？";"Linda?";"¿Linda?"
-"Momoyama Linda (talking)";"あそこには、敷地内に支倉の家の 墓もあるでちゅ。
-そこにハイネを連れて行って やりたいでちゅ。";"There is also the family grave of Hasekura on the site.
-I would like to take Haine there.";"También está la tumba de la familia de Hasekura en la propiedad de allí.
+"Yamamoto Akuji (talking)","リンダ？","Linda?","¿Linda?"
+"Momoyama Linda (talking)","あそこには、敷地内に支倉の家の 墓もあるでちゅ。
+そこにハイネを連れて行って やりたいでちゅ。","There is also the family grave of Hasekura on the site.
+I would like to take Haine there.","También está la tumba de la familia de Hasekura en la propiedad de allí.
 Me gustaría llevar a Haine allí."
-"Yamamoto Akuji (talking)";"しかしなー…";"But you know…";"Sin embargo…"
-"Takega Satsu (talking)";"では私が、リンダの身元保証人となろう。";"Then I will be the guarantor for Linda.";"Entonces seré el garante de Linda."
-"Yamamoto Akuji (talking)";"さっちゃん！？";"Sacchan!";"¡Sachan!"
-"Takega Satsu (talking)";"どうだ、リンダ。 この私では不満だろうが、承諾すれば お前は家に戻る事が出来る。";"How about it, Linda. I know you're not happy with me, but if you agree, you can go home.";"Qué te parece, Linda. Sé que no estás contento conmigo, pero si estás de acuerdo, puedes irte a casa."
-"Momoyama Linda (talking)";"でも、どうちて、あたちの為に…";"But how can we get them to…";"Pero cómo podemos conseguir que…"
-"Takega Satsu (talking)";"近しい者を亡くした事のある者同士、 お前の境遇に同情し、動く事はおかしく ないからだ。
-ハイネがいなくなった今、こんな私で よければ、お前の身内になっても いいだろうか？";"As someone who has lost someone close to me, it's not strange for me to feel compassion for your situation and to move on.
-Now that Haine is gone, would you be willing to be my relative?";"Porque no es extraño que los que hemos perdido a alguien cercano nos compadezcamos de su situación y sigamos adelante.
+"Yamamoto Akuji (talking)","しかしなー…","But you know…","Sin embargo…"
+"Takega Satsu (talking)","では私が、リンダの身元保証人となろう。","Then I will be the guarantor for Linda.","Entonces seré el garante de Linda."
+"Yamamoto Akuji (talking)","さっちゃん！？","Sacchan!","¡Sachan!"
+"Takega Satsu (talking)","どうだ、リンダ。 この私では不満だろうが、承諾すれば お前は家に戻る事が出来る。","How about it, Linda. I know you're not happy with me, but if you agree, you can go home.","Qué te parece, Linda. Sé que no estás contento conmigo, pero si estás de acuerdo, puedes irte a casa."
+"Momoyama Linda (talking)","でも、どうちて、あたちの為に…","But how can we get them to…","Pero cómo podemos conseguir que…"
+"Takega Satsu (talking)","近しい者を亡くした事のある者同士、 お前の境遇に同情し、動く事はおかしく ないからだ。
+ハイネがいなくなった今、こんな私で よければ、お前の身内になっても いいだろうか？","As someone who has lost someone close to me, it's not strange for me to feel compassion for your situation and to move on.
+Now that Haine is gone, would you be willing to be my relative?","Porque no es extraño que los que hemos perdido a alguien cercano nos compadezcamos de su situación y sigamos adelante.
 Ahora que Haine se ha ido, ¿estarías dispuesto a que me convirtiera en tu pariente?"
-"Momoyama Linda (talking)";"………………
-ありがとう…殺……";"………………
-Thanks…Satsu ……";"………………
+"Momoyama Linda (talking)","………………
+ありがとう…殺……","………………
+Thanks…Satsu ……","………………
 Gracias…Satsu ……"
-"Takega Satsu (talking)";"そういう事だ。 よいな、悪司？";"That's what I'm talking about. Good, Akuji?";"A eso me refiero. ¿Bien, Akuji?"
-"Yamamoto Akuji (talking)";"あいよ。 だけどよ、リンダ。
-これでさっちゃんの顔を潰すような事 したら、俺は容赦しねーぜ。";"I love you. But, Linda.
-If you do anything to ruin Sacchan's face with this, I'll show no mercy.";"Aiyo. Pero, Linda…
+"Takega Satsu (talking)","そういう事だ。 よいな、悪司？","That's what I'm talking about. Good, Akuji?","A eso me refiero. ¿Bien, Akuji?"
+"Yamamoto Akuji (talking)","あいよ。 だけどよ、リンダ。
+これでさっちゃんの顔を潰すような事 したら、俺は容赦しねーぜ。","I love you. But, Linda.
+If you do anything to ruin Sacchan's face with this, I'll show no mercy.","Aiyo. Pero, Linda…
 Si haces algo para arruinar la cara de Sacchan con esto, no tendré piedad."
-"Momoyama Linda (talking)";"……あたち一人ではどうする事も 出来まちぇんわ…
- …おとなしく、花嫁修業でも いたちまちゅ…";"…… we can't do it alone…
-We can't do anything on our own we'll just have to go and train to be a bride.";"…… No podemos hacer esto solos…
+"Momoyama Linda (talking)","……あたち一人ではどうする事も 出来まちぇんわ…
+ …おとなしく、花嫁修業でも いたちまちゅ…","…… we can't do it alone…
+We can't do anything on our own we'll just have to go and train to be a bride.","…… No podemos hacer esto solos…
 No podemos hacer nada por nuestra cuenta… sólo iremos a hacer el entrenamiento de nuestras damas de honor…"
-"Yamamoto Akuji (talking)";"まー、それもひとつの道だな。";"Well, that's one way to go.";"Bueno, esa es una forma de hacerlo."
-"Momoyama Linda (talking)";"でちゅから悪司。 もうあなたと接する事もないでちゅわ。 ごきげんよう。";"So Akuji. I won't be in contact with you anymore. Have a good day.";"No volveré a estar en contacto con usted. No estaré más en contacto contigo. Que tengas un buen día."
-"Yamamoto Akuji (talking)";"おう、お前さんも達者でな。";"Oh, you're a master, too.";"Oh, tú también eres un maestro."
-"narrator";"こうして、リンダは一人、奉仕青年団を後にした。";"Thus, Linda left the service youth group alone.";"Así, Linda dejó solo al grupo de jóvenes del servicio."
-"Hasekura Haine (talking)";"そうか……";"Right: ……";"Derecha: ……"
-"Peach boy (talking)";"はい……申し訳ありませんでした。";"Yes…… sorry about that.";"Sí…… Lo siento."
-"Hasekura Haine (talking)";"いや…わたくしの忠告をきかなかった、 あの子が悪いのだ。 お前はそのように悔やまなくてよい。
-それより、疲れただろう。 もう下がってよい。";"No…it was her fault for not heeding my advice. You don't need to feel sorry for yourself like that.
-You must be tired. You can leave now.";"No… fue su culpa por no hacer caso a mis consejos. No tienes que compadecerte así.
+"Yamamoto Akuji (talking)","まー、それもひとつの道だな。","Well, that's one way to go.","Bueno, esa es una forma de hacerlo."
+"Momoyama Linda (talking)","でちゅから悪司。 もうあなたと接する事もないでちゅわ。 ごきげんよう。","So Akuji. I won't be in contact with you anymore. Have a good day.","No volveré a estar en contacto con usted. No estaré más en contacto contigo. Que tengas un buen día."
+"Yamamoto Akuji (talking)","おう、お前さんも達者でな。","Oh, you're a master, too.","Oh, tú también eres un maestro."
+"narrator","こうして、リンダは一人、奉仕青年団を後にした。","Thus, Linda left the service youth group alone.","Así, Linda dejó solo al grupo de jóvenes del servicio."
+"Hasekura Haine (talking)","そうか……","Right: ……","Derecha: ……"
+"Peach boy (talking)","はい……申し訳ありませんでした。","Yes…… sorry about that.","Sí…… Lo siento."
+"Hasekura Haine (talking)","いや…わたくしの忠告をきかなかった、 あの子が悪いのだ。 お前はそのように悔やまなくてよい。
+それより、疲れただろう。 もう下がってよい。","No…it was her fault for not heeding my advice. You don't need to feel sorry for yourself like that.
+You must be tired. You can leave now.","No… fue su culpa por no hacer caso a mis consejos. No tienes que compadecerte así.
 Debes estar cansado. Ya puedes irte."
-"Peach boy (talking)";"はい……ありがとうございます。";"Yes…… Thank you.";"Sí…… Gracias."
-"narrator";"部下がハイネのところに届けたのは、 アエンが奉仕青年団に捕獲されてしまったという 情報だった。";"A subordinate delivered to Haine the information that Aen had been captured by the service youth group.";"Un subordinado entregó a Haine la información de que Aen había sido capturada por un grupo juvenil de servicio."
-"Hasekura Haine (thinking)";"………生きていれば…… また会える事もあるだろう… それが敵同士になる事になっても…
- ……出来れば父らしい事のひとつでも してやりたかったな…… このような事になるのなら…";"……… if he lives…… we may see each other again… even if it means we have to be enemies…
-I wish I could have…… done one of those fatherly things…… If this is how it's going to be…";"……… si vive…… lo volveremos a ver… aunque eso signifique que seremos enemigos……… Me gustaría haber hecho una de esas cosas de padre…… Si así es como va a ser…"
-"Hasekura Haine (talking)";"そうか……";"Right: ……";"Derecha: ……"
-"Peach boy (talking)";"ひっく…ひっく… ……申し訳ありません…… …もっ………申し訳ありません……";"Hiccup…hiccup……… sorry…… …also……… sorry ……";"Hipo… hipo……… perdón…… …también……… perdón ……"
-"Hasekura Haine (talking)";"いや…わたくしの忠告をきかなかった、 あの子が悪いのだ。 お前はそのように悔やまなくてよい。
-それより、疲れただろう。 もう下がってよい。";"No…it was her fault for not heeding my advice. You don't need to feel sorry for yourself like that.
-You must be tired. You can leave now.";"No… fue su culpa por no hacer caso a mis consejos. No tienes que compadecerte así.
+"Peach boy (talking)","はい……ありがとうございます。","Yes…… Thank you.","Sí…… Gracias."
+"narrator","部下がハイネのところに届けたのは、 アエンが奉仕青年団に捕獲されてしまったという 情報だった。","A subordinate delivered to Haine the information that Aen had been captured by the service youth group.","Un subordinado entregó a Haine la información de que Aen había sido capturada por un grupo juvenil de servicio."
+"Hasekura Haine (thinking)","………生きていれば…… また会える事もあるだろう… それが敵同士になる事になっても…
+ ……出来れば父らしい事のひとつでも してやりたかったな…… このような事になるのなら…","……… if he lives…… we may see each other again… even if it means we have to be enemies…
+I wish I could have…… done one of those fatherly things…… If this is how it's going to be…","……… si vive…… lo volveremos a ver… aunque eso signifique que seremos enemigos……… Me gustaría haber hecho una de esas cosas de padre…… Si así es como va a ser…"
+"Hasekura Haine (talking)","そうか……","Right: ……","Derecha: ……"
+"Peach boy (talking)","ひっく…ひっく… ……申し訳ありません…… …もっ………申し訳ありません……","Hiccup…hiccup……… sorry…… …also……… sorry ……","Hipo… hipo……… perdón…… …también……… perdón ……"
+"Hasekura Haine (talking)","いや…わたくしの忠告をきかなかった、 あの子が悪いのだ。 お前はそのように悔やまなくてよい。
+それより、疲れただろう。 もう下がってよい。","No…it was her fault for not heeding my advice. You don't need to feel sorry for yourself like that.
+You must be tired. You can leave now.","No… fue su culpa por no hacer caso a mis consejos. No tienes que compadecerte así.
 Debes estar cansado. Ya puedes irte."
-"Peach boy (talking)";"はい……すみません……";"Yes…… sorry ……";"Sí…… lo siento……"
-"narrator";"部下がハイネのところに届けたのは、 奉仕青年団との戦闘で、アエンが死に、 盾が殉職したという情報だった。";"My men delivered to Haine the information that Aen had died and Tate had been martyred in a battle with the Service Youth Corps.";"Mis hombres entregaron a Haine la información de que Aen había muerto y Tate había sido martirizado en una batalla con el Cuerpo Juvenil de Servicio."
-"Hasekura Haine (talking)";"…………………
- …………っ！！";"…………………
- …………っ!!!";"…………………
+"Peach boy (talking)","はい……すみません……","Yes…… sorry ……","Sí…… lo siento……"
+"narrator","部下がハイネのところに届けたのは、 奉仕青年団との戦闘で、アエンが死に、 盾が殉職したという情報だった。","My men delivered to Haine the information that Aen had died and Tate had been martyred in a battle with the Service Youth Corps.","Mis hombres entregaron a Haine la información de que Aen había muerto y Tate había sido martirizado en una batalla con el Cuerpo Juvenil de Servicio."
+"Hasekura Haine (talking)","…………………
+ …………っ！！","…………………
+ …………っ!!!","…………………
  ¡¡¡…………っ!!!"
-"narrator";"　　［どんっっっ］
-ハイネは拳を思い切り壁に叩きつけた。";"[thud].
-Haine slammed his fist into the wall as hard as he could.";"[ruido sordo].
+"narrator","　　［どんっっっ］
+ハイネは拳を思い切り壁に叩きつけた。","[thud].
+Haine slammed his fist into the wall as hard as he could.","[ruido sordo].
 Haine golpeó su puño contra la pared tan fuerte como pudo."
-"Hasekura Haine (talking)";"馬鹿者………馬鹿者が………！！ 父を置いて先に逝くなど……";"Idiots……… idiots are……… idiots! He left his father to go first, etc…….";"¡Idiotas……… idiotas son ………! Dejó que su padre fuera el primero, etc……."
-"narrator";"ハイネは黙ったまま、 窓の向こうを見つめていた。";"Haine remained silent, staring out the window.";"Haine permaneció en silencio, mirando por la ventana."
-"Hasekura Haine (thinking)";"…………キリカ……すまぬ…… お前が生きているのをわかっていながら、 どうにも出来ぬ父を許せとは言わぬ。
+"Hasekura Haine (talking)","馬鹿者………馬鹿者が………！！ 父を置いて先に逝くなど……","Idiots……… idiots are……… idiots! He left his father to go first, etc…….","¡Idiotas……… idiotas son ………! Dejó que su padre fuera el primero, etc……."
+"narrator","ハイネは黙ったまま、 窓の向こうを見つめていた。","Haine remained silent, staring out the window.","Haine permaneció en silencio, mirando por la ventana."
+"Hasekura Haine (thinking)","…………キリカ……すまぬ…… お前が生きているのをわかっていながら、 どうにも出来ぬ父を許せとは言わぬ。
 怨んで、気が晴れるのならそれで……
 お前はわたくしとアエンの事を考え、 我が儘ひとつ言わず、わたくしに仕えて くれたというのに……
- ……………すまない……";"…………Kirika…… sorry…… you are alive I'm not asking you to forgive your father who knows you're alive and can't do anything about it.
+ ……………すまない……","…………Kirika…… sorry…… you are alive I'm not asking you to forgive your father who knows you're alive and can't do anything about it.
 If it makes you feel better to hold a grudge, then so be it……
-You thought of me and Aen and served me without a single complaint………………… sorry ……";"…………Kirika…… lo siento…… estás vivo. No te pido que perdones a tu padre, que sabe que estás vivo y no puede hacer nada al respecto.
+You thought of me and Aen and served me without a single complaint………………… sorry ……","…………Kirika…… lo siento…… estás vivo. No te pido que perdones a tu padre, que sabe que estás vivo y no puede hacer nada al respecto.
 Si te hace sentir mejor guardar rencor, que así sea…….
 Pensaste en mí y en Aen, y me serviste sin una sola queja………………… lo siento ……"
-"narrator";"ハイネは黙ったまま、 窓の向こうを見つめていた。";"Haine remained silent, staring out the window.";"Haine permaneció en silencio, mirando por la ventana."
-"Hasekura Haine (thinking)";"このような状態で、簡単な葬儀も出来ぬ… キリカ、許せ…
+"narrator","ハイネは黙ったまま、 窓の向こうを見つめていた。","Haine remained silent, staring out the window.","Haine permaneció en silencio, mirando por la ventana."
+"Hasekura Haine (thinking)","このような状態で、簡単な葬儀も出来ぬ… キリカ、許せ…
 お前はわたくしとアエンの事を考え、 我が儘ひとつ言わず、わたくしに仕えて くれたというのに……
-すまない……";"In such a state, we can't even have a simple funeral… Kirika, forgive me…
+すまない……","In such a state, we can't even have a simple funeral… Kirika, forgive me…
 You thought about me and Aen and served me without a single complaint……
-I'm sorry ……";"En este estado, ni siquiera podemos celebrar un simple funeral… Kirika, perdóname…
+I'm sorry ……","En este estado, ni siquiera podemos celebrar un simple funeral… Kirika, perdóname…
 Pensaste en mí y en Aen y me serviste sin una sola queja……
 Lo siento……"
-"Hasekura Haine (talking)";"どうやら、悪司殿が、 このオオサカを制したようです。";"It seems that Akuji has won this osaka.";"Parece que Akuji-dono ha ganado este osaka."
-"Momoyama Linda (talking)";"市議会に続き、エデンも…";"Following the City Council, Eden…";"Tras el Consejo Municipal, Eden también …"
-"Hasekura Haine (talking)";"はい。";"Yes.";"Sí."
-"Momoyama Linda (talking)";"ハイネ。";"Haine.";"Haine."
-"Hasekura Haine (talking)";"わかっております。 準備は地下で着々と進めております。
+"Hasekura Haine (talking)","どうやら、悪司殿が、 このオオサカを制したようです。","It seems that Akuji has won this osaka.","Parece que Akuji-dono ha ganado este osaka."
+"Momoyama Linda (talking)","市議会に続き、エデンも…","Following the City Council, Eden…","Tras el Consejo Municipal, Eden también …"
+"Hasekura Haine (talking)","はい。","Yes.","Sí."
+"Momoyama Linda (talking)","ハイネ。","Haine.","Haine."
+"Hasekura Haine (talking)","わかっております。 準備は地下で着々と進めております。
 今しばらくの辛抱でございます。 リンダ様。
-桃山家…ＰＭの復活に、このハイネ、 死力を尽します。";"We understand. Preparations are steadily underway in the basement.
+桃山家…ＰＭの復活に、このハイネ、 死力を尽します。","We understand. Preparations are steadily underway in the basement.
 Please be patient with us for a while longer. Dear Mrs. Linda.
-The Momoyama family… this Haine will do everything in its power to revive PM.";"Lo entendemos. Los preparativos están en marcha en el sótano.
+The Momoyama family… this Haine will do everything in its power to revive PM.","Lo entendemos. Los preparativos están en marcha en el sótano.
 Por favor, tenga paciencia durante un tiempo más. Lady Linda.
 La familia Momoyama… este Haine hará todo lo posible para revivir a PM."
-"Momoyama Linda (talking)";"あたちもでちゅわ。 ハイネ、あたち達の代で終わるなどと いう事は絶対になしにしまちょう。";"We too. Haine, let's never let it end with our generation.";"Nosotros también. Haine, no dejaremos que esto termine con nuestra generación."
-"Hasekura Haine (talking)";"はい、リンダ様。";"Yes, Dear Linda.";"Sí, querida Linda."
-"Hasekura Haine (talking)";"手加減なしで行きます。 お覚悟を。
-リンダ様。 しっかりこのハイネを 掴んでいて下さい。";"We will go easy on you. Prepare yourself.
-Dear Linda. Hold on tight to this Haine.";"Seremos amables con usted. Prepárate.
+"Momoyama Linda (talking)","あたちもでちゅわ。 ハイネ、あたち達の代で終わるなどと いう事は絶対になしにしまちょう。","We too. Haine, let's never let it end with our generation.","Nosotros también. Haine, no dejaremos que esto termine con nuestra generación."
+"Hasekura Haine (talking)","はい、リンダ様。","Yes, Dear Linda.","Sí, querida Linda."
+"Hasekura Haine (talking)","手加減なしで行きます。 お覚悟を。
+リンダ様。 しっかりこのハイネを 掴んでいて下さい。","We will go easy on you. Prepare yourself.
+Dear Linda. Hold on tight to this Haine.","Seremos amables con usted. Prepárate.
 Querida Linda. Agarra este Haine con fuerza."
-"Momoyama Linda (talking)";"お父様……";"Your father: ……";"Padre: ……"
-"Hasekura Haine (talking)";"…………";"…………";"…………"
-"Momoyama Linda (talking)";"…………";"…………";"…………"
-"Hasekura Haine (talking)";"気に病む事はない。 お前の成長、この父に見せてみるといい。";"Don't worry about it. Let my father see you grow up.";"No te preocupes. Has crecido, vamos a mostrarle a este padre lo que has crecido."
-"Momoyama Linda (talking)";"失礼します、ハイネ様。";"Excuse me, Mr. Haine.";"Disculpe, Sr. Haine."
-"Hasekura Haine (talking)";"キリカがどれだけお前を鍛えたのか、 見せて貰うぞ。";"Let's see how well Kirika has trained you.";"Vamos a ver lo bien que te ha entrenado Kirika."
-"Momoyama Linda (talking)";"はい。";"Yes.";"Sí."
-"Momoyama Linda (talking)";"あ、ハイネ様。 こんにちわ~。 行きますよ~。";"Oh, Dear Haine. Hello~. I'm coming~.";"Oh, querida Haine. Hola~. ¡Ya voy!"
-"Momoyama Linda (talking)";"………………";"………………";"………………"
-"Hasekura Haine (talking)";"くるといい。 遠慮はいらん。";"You can come. Don't be shy.";"Puedes venir. No seas tímido."
-"Momoyama Linda (talking)";"ごめんなさい、ハイネ様… あの…失礼します…";"I'm sorry, Mr. Haine… Um… excuse me…";"Lo siento, Sr. Haine… um… disculpe…"
-"Momoyama Linda (talking)";"少々、不自由をかけてしまいますが、 ご勘弁下さい、リンダ様。 では、参る。";"Please forgive me for inconveniencing you a little bit, Mrs. Linda. I'll see you later.";"Por favor, perdóneme por incomodarla un poco, Lady Linda. Bueno, me voy."
+"Momoyama Linda (talking)","お父様……","Your father: ……","Padre: ……"
+"Hasekura Haine (talking)","…………","…………","…………"
+"Momoyama Linda (talking)","…………","…………","…………"
+"Hasekura Haine (talking)","気に病む事はない。 お前の成長、この父に見せてみるといい。","Don't worry about it. Let my father see you grow up.","No te preocupes. Has crecido, vamos a mostrarle a este padre lo que has crecido."
+"Momoyama Linda (talking)","失礼します、ハイネ様。","Excuse me, Mr. Haine.","Disculpe, Sr. Haine."
+"Hasekura Haine (talking)","キリカがどれだけお前を鍛えたのか、 見せて貰うぞ。","Let's see how well Kirika has trained you.","Vamos a ver lo bien que te ha entrenado Kirika."
+"Momoyama Linda (talking)","はい。","Yes.","Sí."
+"Momoyama Linda (talking)","あ、ハイネ様。 こんにちわ~。 行きますよ~。","Oh, Dear Haine. Hello~. I'm coming~.","Oh, querida Haine. Hola~. ¡Ya voy!"
+"Momoyama Linda (talking)","………………","………………","………………"
+"Hasekura Haine (talking)","くるといい。 遠慮はいらん。","You can come. Don't be shy.","Puedes venir. No seas tímido."
+"Momoyama Linda (talking)","ごめんなさい、ハイネ様… あの…失礼します…","I'm sorry, Mr. Haine… Um… excuse me…","Lo siento, Sr. Haine… um… disculpe…"
+"Momoyama Linda (talking)","少々、不自由をかけてしまいますが、 ご勘弁下さい、リンダ様。 では、参る。","Please forgive me for inconveniencing you a little bit, Mrs. Linda. I'll see you later.","Por favor, perdóneme por incomodarla un poco, Lady Linda. Bueno, me voy."

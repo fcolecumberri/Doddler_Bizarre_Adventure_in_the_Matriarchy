@@ -1,124 +1,124 @@
-"character";"jap text";"Eng";"Esp"
-"__system__??";"{麦 = 1:";"";""
-"__system__??";"{☆どん子 = 10:";"";""
-"__system__??";"}";"";""
-"__system__??";"{☆どん子 = 11:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 2:";"";""
-"__system__??";"{B忠誠タイプ = 3:";"";""
-"__system__??";"{B忠誠心 > 70:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 3:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 4:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 5:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 10:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 11:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 12:";"";""
-"__system__??";"{H愛欲抵抗 <= H愛欲:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 13:";"";""
-"__system__??";"{H物欲抵抗 <= H物欲:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 15:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 16:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 17:";"";""
-"__system__??";"{H拷問抵抗 < H拷問:";"";""
-"__system__??";"}";"";""
-"__system__??";"{H拷問 = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 18:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 19:";"";""
-"__system__??";"}";"";""
-"Honoo Donko (talking)";"……どんどんどん、どんどんどん、 どんどんど~ん♪
-悪司しゃん、おいっす！ 呼ばれてやって参りました、 炎どん子で~~~~すっ！";"……Don't stop, don't stop, don't stop, don't stop, don't stop, don't stop, don't stop… ♪♪
-Hey, Akuji! I've been called here by Honoo Donko and ~~~~!";"…… dong, dong, dong, dong, dong, dong, dong, dong, dong…
+"character","jap text","Eng","Esp"
+"__system__??","{麦 = 1:","",""
+"__system__??","{☆どん子 = 10:","",""
+"__system__??","}","",""
+"__system__??","{☆どん子 = 11:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 2:","",""
+"__system__??","{B忠誠タイプ = 3:","",""
+"__system__??","{B忠誠心 > 70:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 3:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 4:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 5:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 10:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 11:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 12:","",""
+"__system__??","{H愛欲抵抗 <= H愛欲:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 13:","",""
+"__system__??","{H物欲抵抗 <= H物欲:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 15:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 16:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 17:","",""
+"__system__??","{H拷問抵抗 < H拷問:","",""
+"__system__??","}","",""
+"__system__??","{H拷問 = 1:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 18:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 19:","",""
+"__system__??","}","",""
+"Honoo Donko (talking)","……どんどんどん、どんどんどん、 どんどんど~ん♪
+悪司しゃん、おいっす！ 呼ばれてやって参りました、 炎どん子で~~~~すっ！","……Don't stop, don't stop, don't stop, don't stop, don't stop, don't stop, don't stop… ♪♪
+Hey, Akuji! I've been called here by Honoo Donko and ~~~~!","…… dong, dong, dong, dong, dong, dong, dong, dong, dong…
  ¡Oye, Akuji! ¡Me ha llamado Honoo Donko y he venido a Honoo Donko y he venido a ~~~~!"
-"Yamamoto Akuji (talking)";"……………………";"……………………";"……………………"
-"Honoo Donko (talking)";"……どんどんどん、どんどんどん、 どんどんど~ん♪";"…… dong, dong, dong, dong, dong, dong, dong, dong, dong, dong, dong, dong… ♪";"…… dong dong dong dong dong dong dong dong dong dong dong dong dong dong dong dong dong dong dong"
-"Yamamoto Akuji (talking)";"……そりゃ一体何の歌だ。";"…… What the hell kind of song is that?";"…… ¿Qué tipo de canción es esa?"
-"Honoo Donko (talking)";"どん子のテーマソングでーす。";"This is the theme song of Donko.";"El tema de Donko."
-"Yamamoto Akuji (talking)";"あっそ。";"Oh, yeah.";"Ah, sí."
-"Honoo Donko (talking)";"……どんどんどん、どんどんどん、 どんどんど~ん♪ いつも歌ってま~~~~~~すっ。";"……Don-don-don-don-don-don-don-don-don-don-don-don-don-don-don-don… ♪ I'm always singing ~~~~~~.";"……No te detengas, no te detengas, no te detengas, no te detengas, no te detengas, no te detengas, no te detengas, no te detengas… Siempre canto ~~~~~~."
-"Yamamoto Akuji (talking)";"いつもって、まさか仕事中もか？";"All the time? You don't mean all the time, even at work?";"Todo el tiempo, ¿no querrá decir todo el tiempo, incluso en el trabajo?"
-"Honoo Donko (talking)";"うーん…………だいたいは。";"Hmmm………… approximately.";"Hmmm………… aproximadamente."
-"Yamamoto Akuji (talking)";"真面目に仕事してんだろうなぁ、 おめー…………";"I hope you're taking your job seriously, boy…………";"Espero que te tomes tu trabajo en serio, chico…………"
-"Honoo Donko (talking)";"もちろんですよーっ。 お仕事してます、それはもうしっかりと！";"Of course I am! We're working, and we're doing it well, that's for sure!";"Por supuesto. Estoy trabajando, y estoy trabajando duro, ¡eso es seguro!"
-"Yamamoto Akuji (talking)";"……限りなく疑わしい……";"…… infinitely doubtful ……";"…… infinitamente dudoso ……"
-"Yamamoto Akuji (talking)";"さて、どん子のヤツが ぼちぼち来る頃だが……";"Well, the Donko guy should be here soon……";"Bueno, el tipo Donko debería llegar pronto……"
-" (talking)";"……どんどんどん、どんどんどん、 どんどんど~ん…………♪";"……Don't go on, don't go on, don't go on, don't go on, don't go on…………♪";"……No sigas, no sigas, no sigas, no sigas …………♪"
-"Yamamoto Akuji (talking)";"……来たみてぇだな。 解りやすいヤツめ……";"Looks like…… is here. You're an easy guy to figure out……";"Parece que…… está aquí. Eres un tipo fácil de entender……"
-"narrator";"悪司は、事務所の窓から首を出して 表の通りを確かめてみた。";"Akuji stuck his head out of his office window to check the street outside.";"Akuji sacó la cabeza por la ventana de su oficina para ver la calle de fuera."
-"Honoo Donko (talking)";"どんどんどん、どんどんどん、 どんどんど~ん♪";"Boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom.";"♪ Y vaya, vaya, vaya, vaya, vaya, vaya… ♪"
-"shoujo (talking)";"どんどんどん、どんどんどん、 どんどんど~ん♪";"Boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom.";"♪ Y vaya, vaya, vaya, vaya, vaya, vaya… ♪"
-"Honoo Donko (talking)";"……ききききーっ。 ぶれーきぶれーき、とうちゃく~！";"…… Kiki Kiki Kiki~! Bure-ki bure-ki bure-ki, tochaku~!";"…… ¡Ki ki ki ki ki ki~! ¡Bure-ki bure-ki, tochaku~!"
-"shoujo (talking)";"とうちゃく~！ 奉仕青年団事務所まえ~っ！";"Tochu~! Service Youth Corps Office Mae~!";"¡Tochú! ¡Oficina del Cuerpo de Jóvenes de Servicio mae~!"
-"Honoo Donko (talking)";"じゃあケイちゃん、 どん子、今からお仕事だから、 ここでバイバイね。";"Okay, Kay, Donko, I have to go to work now, so I'll see you later.";"Bueno, Kay, Donko, ahora tengo que ir a trabajar, así que nos vemos luego."
-"shoujo (talking)";"うん、どん子ちゃんお仕事頑張ってね！";"Yeah, good luck with your work, Donko-chan!";"¡Sí, buena suerte con tu trabajo, Donko-chan!"
-"Honoo Donko (talking)";"は~い！
-さっきまで一緒だった ユウちゃんやリョウくんやエミちゃんに よろしく言っといてね~！";"Yes~!
-Give my regards to Yu, Ryo and Emi who were with me earlier~!";"¡Sí!
+"Yamamoto Akuji (talking)","……………………","……………………","……………………"
+"Honoo Donko (talking)","……どんどんどん、どんどんどん、 どんどんど~ん♪","…… dong, dong, dong, dong, dong, dong, dong, dong, dong, dong, dong, dong… ♪","…… dong dong dong dong dong dong dong dong dong dong dong dong dong dong dong dong dong dong dong"
+"Yamamoto Akuji (talking)","……そりゃ一体何の歌だ。","…… What the hell kind of song is that?","…… ¿Qué tipo de canción es esa?"
+"Honoo Donko (talking)","どん子のテーマソングでーす。","This is the theme song of Donko.","El tema de Donko."
+"Yamamoto Akuji (talking)","あっそ。","Oh, yeah.","Ah, sí."
+"Honoo Donko (talking)","……どんどんどん、どんどんどん、 どんどんど~ん♪ いつも歌ってま~~~~~~すっ。","……Don-don-don-don-don-don-don-don-don-don-don-don-don-don-don-don… ♪ I'm always singing ~~~~~~.","……No te detengas, no te detengas, no te detengas, no te detengas, no te detengas, no te detengas, no te detengas, no te detengas… Siempre canto ~~~~~~."
+"Yamamoto Akuji (talking)","いつもって、まさか仕事中もか？","All the time? You don't mean all the time, even at work?","Todo el tiempo, ¿no querrá decir todo el tiempo, incluso en el trabajo?"
+"Honoo Donko (talking)","うーん…………だいたいは。","Hmmm………… approximately.","Hmmm………… aproximadamente."
+"Yamamoto Akuji (talking)","真面目に仕事してんだろうなぁ、 おめー…………","I hope you're taking your job seriously, boy…………","Espero que te tomes tu trabajo en serio, chico…………"
+"Honoo Donko (talking)","もちろんですよーっ。 お仕事してます、それはもうしっかりと！","Of course I am! We're working, and we're doing it well, that's for sure!","Por supuesto. Estoy trabajando, y estoy trabajando duro, ¡eso es seguro!"
+"Yamamoto Akuji (talking)","……限りなく疑わしい……","…… infinitely doubtful ……","…… infinitamente dudoso ……"
+"Yamamoto Akuji (talking)","さて、どん子のヤツが ぼちぼち来る頃だが……","Well, the Donko guy should be here soon……","Bueno, el tipo Donko debería llegar pronto……"
+" (talking)","……どんどんどん、どんどんどん、 どんどんど~ん…………♪","……Don't go on, don't go on, don't go on, don't go on, don't go on…………♪","……No sigas, no sigas, no sigas, no sigas …………♪"
+"Yamamoto Akuji (talking)","……来たみてぇだな。 解りやすいヤツめ……","Looks like…… is here. You're an easy guy to figure out……","Parece que…… está aquí. Eres un tipo fácil de entender……"
+"narrator","悪司は、事務所の窓から首を出して 表の通りを確かめてみた。","Akuji stuck his head out of his office window to check the street outside.","Akuji sacó la cabeza por la ventana de su oficina para ver la calle de fuera."
+"Honoo Donko (talking)","どんどんどん、どんどんどん、 どんどんど~ん♪","Boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom.","♪ Y vaya, vaya, vaya, vaya, vaya, vaya… ♪"
+"shoujo (talking)","どんどんどん、どんどんどん、 どんどんど~ん♪","Boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom, boom.","♪ Y vaya, vaya, vaya, vaya, vaya, vaya… ♪"
+"Honoo Donko (talking)","……ききききーっ。 ぶれーきぶれーき、とうちゃく~！","…… Kiki Kiki Kiki~! Bure-ki bure-ki bure-ki, tochaku~!","…… ¡Ki ki ki ki ki ki~! ¡Bure-ki bure-ki, tochaku~!"
+"shoujo (talking)","とうちゃく~！ 奉仕青年団事務所まえ~っ！","Tochu~! Service Youth Corps Office Mae~!","¡Tochú! ¡Oficina del Cuerpo de Jóvenes de Servicio mae~!"
+"Honoo Donko (talking)","じゃあケイちゃん、 どん子、今からお仕事だから、 ここでバイバイね。","Okay, Kay, Donko, I have to go to work now, so I'll see you later.","Bueno, Kay, Donko, ahora tengo que ir a trabajar, así que nos vemos luego."
+"shoujo (talking)","うん、どん子ちゃんお仕事頑張ってね！","Yeah, good luck with your work, Donko-chan!","¡Sí, buena suerte con tu trabajo, Donko-chan!"
+"Honoo Donko (talking)","は~い！
+さっきまで一緒だった ユウちゃんやリョウくんやエミちゃんに よろしく言っといてね~！","Yes~!
+Give my regards to Yu, Ryo and Emi who were with me earlier~!","¡Sí!
  ¡Da recuerdos a Yu, Ryo y Emi, que estaban conmigo antes~!"
-"shoujo (talking)";"は~~~~~いっ！";"The ~~~~~ is the best place to find it!";"¡está en ~~~~~!"
-"Honoo Donko (talking)";"気をつけて帰るんだよ~ん。";"Be careful going home~.";"Ten cuidado cuando vuelvas a casa: no vas a poder hacerlo."
-"Honoo Donko (talking)";"どんどんどん、どんどんどん、 どんどんど~ん♪
-そんな訳で、悪司しゃん、おいっす！";"♪♪♪
-So, Akuji, hey!";"♪ Y vaya, y vaya, y vaya, y vaya, y vaya, y vaya ♪
+"shoujo (talking)","は~~~~~いっ！","The ~~~~~ is the best place to find it!","¡está en ~~~~~!"
+"Honoo Donko (talking)","気をつけて帰るんだよ~ん。","Be careful going home~.","Ten cuidado cuando vuelvas a casa: no vas a poder hacerlo."
+"Honoo Donko (talking)","どんどんどん、どんどんどん、 どんどんど~ん♪
+そんな訳で、悪司しゃん、おいっす！","♪♪♪
+So, Akuji, hey!","♪ Y vaya, y vaya, y vaya, y vaya, y vaya, y vaya ♪
 Así que, Akuji, ¡eh!"
-"Yamamoto Akuji (talking)";"……………… おい、今のガキは一体何だ？";"……………… Hey, what the hell is up with kids now?";"……………… Oye, ¿qué demonios es el niño ahora?"
-"Honoo Donko (talking)";"どん子のファンでーす♪";"I'm a fan of Donko!";"Soy fan de Donko."
-"Yamamoto Akuji (talking)";"何だ、ファンって……";"What's a fan? ……";"¿Qué es un ventilador? ……"
-"Honoo Donko (talking)";"何って言われても、 ファンはファンですよん。 説明できませーーーーーーん。";"No matter what they say, a fan is still a fan. I can't explain it!";"No importa lo que digan, un fanático sigue siendo un fanático. ¡No puedo explicarlo!"
-"Yamamoto Akuji (talking)";"まあ別にどうでもいいんだが……";"Well, I don't really care……";"Bueno, realmente no me importa……"
-"Yamamoto Akuji (thinking)";"……頭の中がガキだから ガキと話が合うって事か………";"…… So you're talking to a kid because you're a kid in your head………";"…… Así que estás hablando con un niño porque eres un niño en tu cabeza………"
-"Honoo Donko (talking)";"……どんどんどん、どんどんどん、 どんどんど~ん♪
-呼ばれて出てきてじゃんじゃかじゃ~ん♪ 悪司しゃん、どん子でーす。";"……Don't go on, don't go on, don't go on, don't go on, don't go on, don't go on… ♪
-I'm Akuji, I'm Donko, I'm Donko.";"……No sigas, no sigas, no sigas, no sigas, no sigas, no sigas…
+"Yamamoto Akuji (talking)","……………… おい、今のガキは一体何だ？","……………… Hey, what the hell is up with kids now?","……………… Oye, ¿qué demonios es el niño ahora?"
+"Honoo Donko (talking)","どん子のファンでーす♪","I'm a fan of Donko!","Soy fan de Donko."
+"Yamamoto Akuji (talking)","何だ、ファンって……","What's a fan? ……","¿Qué es un ventilador? ……"
+"Honoo Donko (talking)","何って言われても、 ファンはファンですよん。 説明できませーーーーーーん。","No matter what they say, a fan is still a fan. I can't explain it!","No importa lo que digan, un fanático sigue siendo un fanático. ¡No puedo explicarlo!"
+"Yamamoto Akuji (talking)","まあ別にどうでもいいんだが……","Well, I don't really care……","Bueno, realmente no me importa……"
+"Yamamoto Akuji (thinking)","……頭の中がガキだから ガキと話が合うって事か………","…… So you're talking to a kid because you're a kid in your head………","…… Así que estás hablando con un niño porque eres un niño en tu cabeza………"
+"Honoo Donko (talking)","……どんどんどん、どんどんどん、 どんどんど~ん♪
+呼ばれて出てきてじゃんじゃかじゃ~ん♪ 悪司しゃん、どん子でーす。","……Don't go on, don't go on, don't go on, don't go on, don't go on, don't go on… ♪
+I'm Akuji, I'm Donko, I'm Donko.","……No sigas, no sigas, no sigas, no sigas, no sigas, no sigas…
 Me llaman y salgo y salgo y salgo y salgo y salgo y salgo y salgo y salgo y salgo… Akuji shan, Donko shan."
-"Yamamoto Akuji (talking)";"……その歌、何とかならんのか。";"…… Can't you do something about that song?";"…… ¿No puedes hacer algo con esa canción?"
-"Honoo Donko (talking)";"なんとかしなきゃダメですか？";"Do I have to do something about it?";"¿Tengo que hacer algo al respecto?"
-"Yamamoto Akuji (talking)";"……………………まあいいけどな……";"…………………… Well, that's okay……";"…………………… Bueno, está bien……"
-"Yamamoto Akuji (thinking)";"……っつっても、 別にこいつ、こまして部下にした訳じゃ ねえしな……
-別にヤりてえとも思わんし、 やめとくことにしよう……";"…… but I didn't make him my subordinate by choice……
-I don't even think I want to fuck him. I'm going to stop now……";"…… pero no es que lo haya hecho mi subordinado……
+"Yamamoto Akuji (talking)","……その歌、何とかならんのか。","…… Can't you do something about that song?","…… ¿No puedes hacer algo con esa canción?"
+"Honoo Donko (talking)","なんとかしなきゃダメですか？","Do I have to do something about it?","¿Tengo que hacer algo al respecto?"
+"Yamamoto Akuji (talking)","……………………まあいいけどな……","…………………… Well, that's okay……","…………………… Bueno, está bien……"
+"Yamamoto Akuji (thinking)","……っつっても、 別にこいつ、こまして部下にした訳じゃ ねえしな……
+別にヤりてえとも思わんし、 やめとくことにしよう……","…… but I didn't make him my subordinate by choice……
+I don't even think I want to fuck him. I'm going to stop now……","…… pero no es que lo haya hecho mi subordinado……
 Ni siquiera creo que quiera follar con él, así que lo dejaré……"
-"Yamamoto Akuji (talking)";"よっしゃ、いっちょヤるか。 どん子、俺の部屋に行くぞ。";"All right, let's do this. Donko, let's go to my room.";"Muy bien, hagámoslo. Donko, vamos a mi habitación."
-"Honoo Donko (talking)";"ほやん……？";"Hoyan ……?";"Hoyan ……?"
-"Yamamoto Akuji (talking)";"…………ピンと来いよ。 セックスするぞっつってんだ。";"………… pin it. I'm going to have sex with you.";"………… Pin it. Voy a tener sexo contigo."
-"Honoo Donko (talking)";"ふにゃわ~~~~！ 悪司しゃん、すきーーーーーー！！";"Funyawa~~~~! Akuji shan, suki!";"¡Funyawa~~~~! ¡Akuji shan, suki!"
-"Yamamoto Akuji (talking)";"そーかそーか。 ま、今だけは好きなだけくっついとけ。 許す。";"I see. Well, stick around as long as you like for now. I forgive you.";"Ya veo. Bueno, manténganse juntos todo lo que quieran por ahora. Te perdono."
-"Honoo Donko (talking)";"わーいわーいわーいっ！ ……ほにゃん、とろりん…………";"Yay yay yay yay! ……Honyan, Tororin…………";"¡Sí, sí, sí, sí! ……Honyan, Tororin…………"
-"Yamamoto Akuji (talking)";"…………解りやすいヤツめ。";"………… easy to figure out.";"………… Los más fáciles."
-"Yamamoto Akuji (talking)";"どん子は、悪司に抱かれた。";"Donko was embraced by Akuji.";"Donko fue abrazado por Akuji."
-" (talking)";"よっしゃ、いっちょヤるか。 どん子、俺の部屋に行くぞ。";"All right, let's do this. Donko, let's go to my room.";"Muy bien, hagámoslo. Donko, vamos a mi habitación."
-" (talking)";"……うにゃ…………
- ……………………";"…… うにゃ …………
- ……………………";"…… うにゃ …………
+"Yamamoto Akuji (talking)","よっしゃ、いっちょヤるか。 どん子、俺の部屋に行くぞ。","All right, let's do this. Donko, let's go to my room.","Muy bien, hagámoslo. Donko, vamos a mi habitación."
+"Honoo Donko (talking)","ほやん……？","Hoyan ……?","Hoyan ……?"
+"Yamamoto Akuji (talking)","…………ピンと来いよ。 セックスするぞっつってんだ。","………… pin it. I'm going to have sex with you.","………… Pin it. Voy a tener sexo contigo."
+"Honoo Donko (talking)","ふにゃわ~~~~！ 悪司しゃん、すきーーーーーー！！","Funyawa~~~~! Akuji shan, suki!","¡Funyawa~~~~! ¡Akuji shan, suki!"
+"Yamamoto Akuji (talking)","そーかそーか。 ま、今だけは好きなだけくっついとけ。 許す。","I see. Well, stick around as long as you like for now. I forgive you.","Ya veo. Bueno, manténganse juntos todo lo que quieran por ahora. Te perdono."
+"Honoo Donko (talking)","わーいわーいわーいっ！ ……ほにゃん、とろりん…………","Yay yay yay yay! ……Honyan, Tororin…………","¡Sí, sí, sí, sí! ……Honyan, Tororin…………"
+"Yamamoto Akuji (talking)","…………解りやすいヤツめ。","………… easy to figure out.","………… Los más fáciles."
+"Yamamoto Akuji (talking)","どん子は、悪司に抱かれた。","Donko was embraced by Akuji.","Donko fue abrazado por Akuji."
+" (talking)","よっしゃ、いっちょヤるか。 どん子、俺の部屋に行くぞ。","All right, let's do this. Donko, let's go to my room.","Muy bien, hagámoslo. Donko, vamos a mi habitación."
+" (talking)","……うにゃ…………
+ ……………………","…… うにゃ …………
+ ……………………","…… うにゃ …………
  ……………………"
-" (talking)";"…………ん？ どうかしたのか？";"………… hmm? What's wrong?";"………… ¿Hmm? ¿Qué pasa?"
-" (talking)";"悪司しゃん…………
- ……………………すき…………";"Akujiしゃん…………
- ……………………すき… ………";"AkujiしゃAN …………
+" (talking)","…………ん？ どうかしたのか？","………… hmm? What's wrong?","………… ¿Hmm? ¿Qué pasa?"
+" (talking)","悪司しゃん…………
+ ……………………すき…………","Akujiしゃん…………
+ ……………………すき… ………","AkujiしゃAN …………
  ……………………すき… ………"
-" (talking)";"そうかそうか。 俺も好きだぞー。";"Oh yeah, right. I like it too!";"Sí, sí. ¡Tú también me gustas!"
-" (talking)";"嘘ばっかり…… 悪司しゃんは今だけでしょ~？";"All you do is lie…… Akuji Shan't it just be now~?";"Todo lo que haces es mentir…… Akuji ¿no es así?"
-" (talking)";"その通りだ。";"That's right.";"Exactamente."
-" (talking)";"えへへ、でもどん子それでもいいの~♪ 悪司しゃん、すき~~~~~！！！";"Ehehe, but Donko that's okay~♪ Akuji Shan, suki ~~~~~!!!!";"¡Ehehe, pero Donko eso está bien~♪ Akuji shan, suki ~~~~~!"
-" (talking)";"わーった、わーったから。 人の顔に肉球を押しつけんなっての。";"I'll tell you what, I'll tell you what. Don't shove your meatballs in people's faces.";"Wah, wah, wah, wah, wah, wah. No empujes tus albóndigas en la cara de la gente."
-"cg narrator";"「ふやあ……ふやああっ…………！ 　ひゃんっ…………ああ、っ……んぅ…… 　っ…………あふ…………気持ちいいっ…………」
+" (talking)","そうかそうか。 俺も好きだぞー。","Oh yeah, right. I like it too!","Sí, sí. ¡Tú también me gustas!"
+" (talking)","嘘ばっかり…… 悪司しゃんは今だけでしょ~？","All you do is lie…… Akuji Shan't it just be now~?","Todo lo que haces es mentir…… Akuji ¿no es así?"
+" (talking)","その通りだ。","That's right.","Exactamente."
+" (talking)","えへへ、でもどん子それでもいいの~♪ 悪司しゃん、すき~~~~~！！！","Ehehe, but Donko that's okay~♪ Akuji Shan, suki ~~~~~!!!!","¡Ehehe, pero Donko eso está bien~♪ Akuji shan, suki ~~~~~!"
+" (talking)","わーった、わーったから。 人の顔に肉球を押しつけんなっての。","I'll tell you what, I'll tell you what. Don't shove your meatballs in people's faces.","Wah, wah, wah, wah, wah, wah. No empujes tus albóndigas en la cara de la gente."
+"cg narrator","「ふやあ……ふやああっ…………！ 　ひゃんっ…………ああ、っ……んぅ…… 　っ…………あふ…………気持ちいいっ…………」
 躰の奥底から溢れ出してくる悦楽を、 どん子は隠すことなく口にする。
  「悪司……しゃん、いいよぉ……いいのっ…… 　もっと、強くてもいいから……っア……！！ 　や、う……んっ……ふやあんっ……！」
 悪司の手が股間に伸びてくれば、 どん子は何も言わなくても脚を広げる。
@@ -162,7 +162,7 @@ Ni siquiera creo que quiera follar con él, así que lo dejaré……"
 言って、悪司は本格的に腰をつかい始める。 どん子のお喋りを力尽くで終わらせるために。
  「ふ、や…………やはあああンっ…………！ 　ひあっ、あ……うあやああああっ……！！ 　いやああっ、あああっ！！　ふやあああンっ！」
  「ひあ…………や、は────────ぁ……」
- 「………………ぁ、っ…………………………」";"'Hya…… hya ah…………! 　Hyah…………oh, oh,h…… mmmm… ………Fuyaa………… feels so good…… ……”
+ 「………………ぁ、っ…………………………」","'Hya…… hya ah…………! 　Hyah…………oh, oh,h…… mmmm… ………Fuyaa………… feels so good…… ……”
 Donko  does not hide the pleasure that overflows from the depths of her body.
 Akuji ……shen, it's good,…… good,…… good,…… good,…… more, even if it's hard……a……! 　Oh, no,Akuji !
 When Akuji's hand reaches between her legs, Donko spreads her legs without saying a word.
@@ -206,7 +206,7 @@ I'm not a yoga expert…… just stop talking. 　No more talking except for moa
 Akuji then began to sit up and Hajime. In order to end Donko's chattering with all his might.
  “Fu, ya………… ya haaaaaaan! 　Hi, ah…… uaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa! 　No ah ah ah ah!　No, ah, ah, ah!
  “Hi………… and ah──────── ah……”
- “………………aaaaa……… …………………”";"'¡Fuya…… fuya ah…………! 　Hyah…………oh, oh…… mmmm… ………Fuyu………… se siente tan bien…… ……”
+ “………………aaaaa……… …………………”","'¡Fuya…… fuya ah…………! 　Hyah…………oh, oh…… mmmm… ………Fuyu………… se siente tan bien…… ……”
 Donko habla sin ocultar el placer que desborda desde lo más profundo de su cuerpo.
  'Akuji ……shen, es bueno, Akuji…… bueno, Akuji…… bueno, Akuji…… bueno, Akuji…… bueno, aún más difícil…' ¡…a……! 　No, uu…… nn…… fyaan!……!”
 Cuando la mano de Akuji llega entre sus piernas, Donko abre las suyas sin decir nada.
@@ -251,162 +251,162 @@ El Akuji dijo, y Akuji comenzó a usar sus caderas en serio para Hajime. El parl
  ¡'Fu, ya………… ya haaaaaaan …………! 　 　¡No ah ah ah ah ah!　Hu-ya-aa-ahn!”
  “Hia…………, ah────────a……”
  “………………aaaaaaaaaaaa……… …………………”"
-"Honoo Donko (talking)";"……ふにゃあ…………
-悪司しゃん………… すき…………";"……Funyaa…………
-Akuji Shan………… Sukiyaki…………";"……Funyaa…………
+"Honoo Donko (talking)","……ふにゃあ…………
+悪司しゃん………… すき…………","……Funyaa…………
+Akuji Shan………… Sukiyaki…………","……Funyaa…………
 Akuji Shan………… Sukiyaki…………"
-"Yamamoto Akuji (talking)";"そーか。 だがヤり終わった今の俺にとっては、 おめーはもうただの部下だな。";"I see. But now that I'm done with you, you're just a subordinate now.";"Ya veo. Pero ahora que he terminado de follar contigo, ya sólo eres un subordinado."
-"Honoo Donko (talking)";"うやあ…… 悪司しゃん、ほんとに悪い子……
- …………えへへへへ…… でも、もう、どん子も悪い子…… えへへへへへ…………";"Uya…… Akuji Shan, really bad boy……
- …………Ehehehehehehe…… but already, Donko is a bad boy too…… Ehehehehehehe…………";"Uya…… Akuji shan, chico muy malo……
+"Yamamoto Akuji (talking)","そーか。 だがヤり終わった今の俺にとっては、 おめーはもうただの部下だな。","I see. But now that I'm done with you, you're just a subordinate now.","Ya veo. Pero ahora que he terminado de follar contigo, ya sólo eres un subordinado."
+"Honoo Donko (talking)","うやあ…… 悪司しゃん、ほんとに悪い子……
+ …………えへへへへ…… でも、もう、どん子も悪い子…… えへへへへへ…………","Uya…… Akuji Shan, really bad boy……
+ …………Ehehehehehehe…… but already, Donko is a bad boy too…… Ehehehehehehe…………","Uya…… Akuji shan, chico muy malo……
  …………Ehehehe…… pero ya, Donko es un chico malo también…… Ehehehehehe…………"
-"Yamamoto Akuji (talking)";"そりゃまあそうだろ。 もっとして、もっとして、っつって あんだけ言うんだからな。";"Of course, that's true. They keep asking for more, more, more.";"Bueno, eso es cierto, ¿no? Siguen pidiendo más, más, más."
-"Honoo Donko (talking)";"うにゃぐ…………………………";"Unyagu…………………………";"Unyagu…………………………"
-"Yamamoto Akuji (talking)";"照れんなよ。";"Don't be shy.";"No seas tímido."
-"Yamamoto Akuji (talking)";"ほれ、ボーナス。";"See, bonus.";"Mira, bono."
-"narrator";"悪司は、どん子の前に札束をぽんと放り投げた。";"Akuji tossed a wad of bills in front of Donko.";"Akuji lanzó un fajo de billetes delante de Donko."
-"Honoo Donko (talking)";"はややややや？ こんなにもらっちゃっていいんですか？";"Haya-haya-haya? Is it okay to receive so much?";"¿Haya-haya-haya? ¿Estás seguro de que quieres recibir tanto?"
-"Yamamoto Akuji (talking)";"働きに対する正当な報酬だ。 遠慮せずに取っとけ。";"It's a fair reward for your work. Don't hesitate to take it.";"Es una recompensa justa por tu trabajo. No dudes en cogerlo."
-"Honoo Donko (talking)";"わーいっ♪　悪司しゃん、すきー！
-じゃあこれで五着目の着ぐるみ作って、 一着目と三着目を修理して、二着目を クリーニングに出して、それから……";"Yay! Akuji, suki!
-Then I'll make a fifth stuffed animal with this, repair the first and third, take the second to the cleaners, and then ……";"¡Yay! Akuji, suki!
+"Yamamoto Akuji (talking)","そりゃまあそうだろ。 もっとして、もっとして、っつって あんだけ言うんだからな。","Of course, that's true. They keep asking for more, more, more.","Bueno, eso es cierto, ¿no? Siguen pidiendo más, más, más."
+"Honoo Donko (talking)","うにゃぐ…………………………","Unyagu…………………………","Unyagu…………………………"
+"Yamamoto Akuji (talking)","照れんなよ。","Don't be shy.","No seas tímido."
+"Yamamoto Akuji (talking)","ほれ、ボーナス。","See, bonus.","Mira, bono."
+"narrator","悪司は、どん子の前に札束をぽんと放り投げた。","Akuji tossed a wad of bills in front of Donko.","Akuji lanzó un fajo de billetes delante de Donko."
+"Honoo Donko (talking)","はややややや？ こんなにもらっちゃっていいんですか？","Haya-haya-haya? Is it okay to receive so much?","¿Haya-haya-haya? ¿Estás seguro de que quieres recibir tanto?"
+"Yamamoto Akuji (talking)","働きに対する正当な報酬だ。 遠慮せずに取っとけ。","It's a fair reward for your work. Don't hesitate to take it.","Es una recompensa justa por tu trabajo. No dudes en cogerlo."
+"Honoo Donko (talking)","わーいっ♪　悪司しゃん、すきー！
+じゃあこれで五着目の着ぐるみ作って、 一着目と三着目を修理して、二着目を クリーニングに出して、それから……","Yay! Akuji, suki!
+Then I'll make a fifth stuffed animal with this, repair the first and third, take the second to the cleaners, and then ……","¡Yay! Akuji, suki!
 Entonces haré un quinto peluche con esto, repararé el primero y el tercero, llevaré el segundo a la tintorería y luego ……"
-"Yamamoto Akuji (talking)";"おめー、全部着ぐるみに使う気か……";"You're spending it all on stuffed animals……";"Te lo gastas todo en peluches……"
-"Honoo Donko (talking)";"ほやん？　ダメですか？";"Hoyan?　No?";"¿Hoyan?　¿No?"
-"Yamamoto Akuji (talking)";"……いや、別にいいけど。";"…… No, I don't mind.";"…… No, en realidad no."
-"Yamamoto Akuji (thinking)";"こんなの娼婦にして売れんのか……？
-まあ、物好きはいるもんだしな。 タマネギに押しつけちまえ。";"Can you sell this kind of thing as a hooker at ……?
-Well, there are people who like them. Let Tamanegi take care of it.";"¿Puedes vender estas cosas como prostitutas ……?
+"Yamamoto Akuji (talking)","おめー、全部着ぐるみに使う気か……","You're spending it all on stuffed animals……","Te lo gastas todo en peluches……"
+"Honoo Donko (talking)","ほやん？　ダメですか？","Hoyan?　No?","¿Hoyan?　¿No?"
+"Yamamoto Akuji (talking)","……いや、別にいいけど。","…… No, I don't mind.","…… No, en realidad no."
+"Yamamoto Akuji (thinking)","こんなの娼婦にして売れんのか……？
+まあ、物好きはいるもんだしな。 タマネギに押しつけちまえ。","Can you sell this kind of thing as a hooker at ……?
+Well, there are people who like them. Let Tamanegi take care of it.","¿Puedes vender estas cosas como prostitutas ……?
 Bueno, hay gente a la que le gustan las cosas. Empújalos a Tamanegi."
-"narrator";"悪司は手近の電話を引き寄せ、 調教の館へ電話をかけた。";"Akuji pulled a phone close at hand and called the training hall.";"Akuji sacó un teléfono que tenía a mano y llamó a la sala de entrenamiento."
-"Honoo Donko (talking)";"……ふにゃん？";"…… mmmm?";"…… ¿Hunyan?"
-"Yamamoto Akuji (talking)";"……おう、タマネギか。 お前も知ってると思うが、 うちの部下の炎どん子を……
+"narrator","悪司は手近の電話を引き寄せ、 調教の館へ電話をかけた。","Akuji pulled a phone close at hand and called the training hall.","Akuji sacó un teléfono que tenía a mano y llamó a la sala de entrenamiento."
+"Honoo Donko (talking)","……ふにゃん？","…… mmmm?","…… ¿Hunyan?"
+"Yamamoto Akuji (talking)","……おう、タマネギか。 お前も知ってると思うが、 うちの部下の炎どん子を……
 おう、そうだそうだ。 後でそっち行かせるから頼んだぜ。
- ……ほい、連絡終了。 受話器がっちゃん、と。";"…… Oh, Tamanegi? I'm sure you know my man Honoo Donko at ……
+ ……ほい、連絡終了。 受話器がっちゃん、と。","…… Oh, Tamanegi? I'm sure you know my man Honoo Donko at ……
 Oh, that's right, that's right. I'll send him over there later.
- ……Hey, end of call Ryou. The receiver clatters.";"…… Oh, Tamanegi? Probablemente conoces a mi hombre Honoo Donko de ……
+ ……Hey, end of call Ryou. The receiver clatters.","…… Oh, Tamanegi? Probablemente conoces a mi hombre Honoo Donko de ……
 Oh, es cierto, es cierto. Lo enviaré más tarde, por favor.
  ……Hey, fin de la llamada Ryou. El receptor hace ruido."
-"Honoo Donko (talking)";"えーと、悪司しゃん……？？？";"Let's see, Akuji Shan ……?";"Veamos, Akuji Shan ……?"
-"Yamamoto Akuji (talking)";"まあ気にすんな。 すぐに解る。";"Don't worry about it. You'll figure it out soon enough.";"Bueno, no te preocupes. Pronto lo descubrirás."
-"Yamamoto Akuji (talking)";"………………そうか、そうだぜ。 何で今まで気付かなかったんだ？
+"Honoo Donko (talking)","えーと、悪司しゃん……？？？","Let's see, Akuji Shan ……?","Veamos, Akuji Shan ……?"
+"Yamamoto Akuji (talking)","まあ気にすんな。 すぐに解る。","Don't worry about it. You'll figure it out soon enough.","Bueno, no te preocupes. Pronto lo descubrirás."
+"Yamamoto Akuji (talking)","………………そうか、そうだぜ。 何で今まで気付かなかったんだ？
 こいつをマスコットキャラにしちまえば 大人気確実、子供客倍増間違いナシ。
- ……イケる、こりゃ絶対イケるぜ。";"……………… Well, yeah, man. Why didn't I notice this before?
-If we make him a mascot character, he will be very popular and will surely double the number of children's customers.…… is good, this is definitely good.";"……………… Bueno, sí, hombre. ¿Cómo es que no me di cuenta antes?
+ ……イケる、こりゃ絶対イケるぜ。","……………… Well, yeah, man. Why didn't I notice this before?
+If we make him a mascot character, he will be very popular and will surely double the number of children's customers.…… is good, this is definitely good.","……………… Bueno, sí, hombre. ¿Cómo es que no me di cuenta antes?
 Si lo convertimos en un personaje mascota, será muy popular y tendremos el doble de niños.…… Es bueno, definitivamente es bueno."
-"Honoo Donko (talking)";"………………？　ほやん？";"………………?　Hoyan?";"………………?　¿Hoyan?"
-"Yamamoto Akuji (talking)";"なあ、どん子。 うちのハンバーガー屋で働く気はねぇか？";"Hey, Donko. You wanna work at our hamburger shop?";"Hola, Donko. ¿Quieres trabajar en nuestra hamburguesería?"
-"Honoo Donko (talking)";"……はんばーがーやさん……";"……Hamburgerya: ……";"……Hamburgerya ……"
-"Yamamoto Akuji (talking)";"今のおめーはどのみち俺の部下だ。 ヤだっつっても働いてもらうが……
-まあ、客商売がマジで苦手なら ちと考えにゃならんけどよ。";"You're my guy now anyway. I'll have you work for me even if you don't want to……
-Well, if you're really bad at customer service, you might want to think about it.";"De todos modos, ahora eres mi hombre. Aunque no quieras trabajar para mí, lo harás igualmente……
+"Honoo Donko (talking)","………………？　ほやん？","………………?　Hoyan?","………………?　¿Hoyan?"
+"Yamamoto Akuji (talking)","なあ、どん子。 うちのハンバーガー屋で働く気はねぇか？","Hey, Donko. You wanna work at our hamburger shop?","Hola, Donko. ¿Quieres trabajar en nuestra hamburguesería?"
+"Honoo Donko (talking)","……はんばーがーやさん……","……Hamburgerya: ……","……Hamburgerya ……"
+"Yamamoto Akuji (talking)","今のおめーはどのみち俺の部下だ。 ヤだっつっても働いてもらうが……
+まあ、客商売がマジで苦手なら ちと考えにゃならんけどよ。","You're my guy now anyway. I'll have you work for me even if you don't want to……
+Well, if you're really bad at customer service, you might want to think about it.","De todos modos, ahora eres mi hombre. Aunque no quieras trabajar para mí, lo harás igualmente……
 Bueno, si eres realmente malo en el servicio al cliente, puede que quieras pensarlo dos veces."
-"Honoo Donko (talking)";"あ、はいはいはい！ どん子、お客さん相手のお仕事、大好き！";"Oh, yes, yes, yes! Donko, I love working with customers!";"¡Ah, sí, sí, sí! Donko, ¡me encanta trabajar con los clientes!"
-"Yamamoto Akuji (talking)";"よっしゃ。 何となくそうだろうと思ってたぜ。
-んじゃ早速小春さんに連絡すっから、 先に雇用契約書へビシッとサインしとけ。";"Good to know. I had a feeling you'd be right.
-I'll contact Mr. Koharu right away, so make sure you sign the employment contract first.";"Sí. De alguna manera pensé que sería así.
+"Honoo Donko (talking)","あ、はいはいはい！ どん子、お客さん相手のお仕事、大好き！","Oh, yes, yes, yes! Donko, I love working with customers!","¡Ah, sí, sí, sí! Donko, ¡me encanta trabajar con los clientes!"
+"Yamamoto Akuji (talking)","よっしゃ。 何となくそうだろうと思ってたぜ。
+んじゃ早速小春さんに連絡すっから、 先に雇用契約書へビシッとサインしとけ。","Good to know. I had a feeling you'd be right.
+I'll contact Mr. Koharu right away, so make sure you sign the employment contract first.","Sí. De alguna manera pensé que sería así.
 Me pondré en contacto con Koharu enseguida, así que asegúrate de firmar el contrato de trabajo antes."
-"Honoo Donko (talking)";"はーい♪
- ………………あ。 ど、どん子、この手じゃ鉛筆持てない……";"Hai â
- ………………Ah. Do,  Donko, I can't hold a pencil with these hands……";"Hai â……………… Ah. Do,  Donko, no puedo sostener un lápiz con estas manos……"
-"Yamamoto Akuji (talking)";"契約書を書く時くらい着ぐるみ脱げよ……";"You should at least take your clothes off when you're writing a contract: ……";"Al menos quítate la ropa cuando escribas un contrato……"
-"Yamamoto Akuji (talking)";"……………… 何者なんだ、こいつは……";"……………… Who the hell is this guy? ……";"……………… ¿Quién diablos es este tipo? ……"
-"Honoo Donko (talking)";"ぽやんぽやんぽん☆ おいっす！　こんにちは~っ。";"Poyan poyan pan☆　Hello~!";"¡Poyan poyan pan☆!　Hola~."
-"Yamamoto Akuji (talking)";"……ずいぶん明るいな。 捕虜の自覚ナシか？";"…… You are very cheerful. You don't realize you're a POW?";"……Eres muy alegre. ¿No sabes que eres un prisionero de guerra?"
-"Honoo Donko (talking)";"にゅむ？？？";"Nyumu?";"¿Nyumu?"
-"Yamamoto Akuji (talking)";"……まあいい。
+"Honoo Donko (talking)","はーい♪
+ ………………あ。 ど、どん子、この手じゃ鉛筆持てない……","Hai â
+ ………………Ah. Do,  Donko, I can't hold a pencil with these hands……","Hai â……………… Ah. Do,  Donko, no puedo sostener un lápiz con estas manos……"
+"Yamamoto Akuji (talking)","契約書を書く時くらい着ぐるみ脱げよ……","You should at least take your clothes off when you're writing a contract: ……","Al menos quítate la ropa cuando escribas un contrato……"
+"Yamamoto Akuji (talking)","……………… 何者なんだ、こいつは……","……………… Who the hell is this guy? ……","……………… ¿Quién diablos es este tipo? ……"
+"Honoo Donko (talking)","ぽやんぽやんぽん☆ おいっす！　こんにちは~っ。","Poyan poyan pan☆　Hello~!","¡Poyan poyan pan☆!　Hola~."
+"Yamamoto Akuji (talking)","……ずいぶん明るいな。 捕虜の自覚ナシか？","…… You are very cheerful. You don't realize you're a POW?","……Eres muy alegre. ¿No sabes que eres un prisionero de guerra?"
+"Honoo Donko (talking)","にゅむ？？？","Nyumu?","¿Nyumu?"
+"Yamamoto Akuji (talking)","……まあいい。
 おめーの名前は……炎どん子、 桃山のテリトリーに住む一般市民か。
-一応、戸籍調べてみたんだが、 間違いないな？";"……Well, that's okay.
+一応、戸籍調べてみたんだが、 間違いないな？","……Well, that's okay.
 Your name is ……Honoo Donko, an ordinary citizen living in Momoyama territory?
-I checked the family registry, and I'm pretty sure that's correct.";"…… Bueno, vale.
+I checked the family registry, and I'm pretty sure that's correct.","…… Bueno, vale.
  ¿Te llamas ……Honoo Donko, un civil que vive en el territorio de Momoyama?
 He comprobado su registro familiar y estoy bastante seguro."
-"Honoo Donko (talking)";"はい、間違いないです！ どん子はどん子ですっ。";"Yes, I'm sure! Donko is Donko.";"Sí, definitivamente. Donko es Donko."
-"Yamamoto Akuji (talking)";"………………あっそ。";"……………… Oh yeah.";"……………… Oh, sí."
-"Honoo Donko (talking)";"えへへ、まさかどん子 負けると思わなかったな。 お兄さんたち強いんですね？
+"Honoo Donko (talking)","はい、間違いないです！ どん子はどん子ですっ。","Yes, I'm sure! Donko is Donko.","Sí, definitivamente. Donko es Donko."
+"Yamamoto Akuji (talking)","………………あっそ。","……………… Oh yeah.","……………… Oh, sí."
+"Honoo Donko (talking)","えへへ、まさかどん子 負けると思わなかったな。 お兄さんたち強いんですね？
 でもでも、あんな場所であんな昼間から 喧嘩してるのは良くないと思うなぁ~……
-ちっちゃい子も見てるのに、 マネしちゃ危ないでしょ？　ね？";"Hehe, I didn't think Donko would lose. Your brothers are strong, aren't they?
+ちっちゃい子も見てるのに、 マネしちゃ危ないでしょ？　ね？","Hehe, I didn't think Donko would lose. Your brothers are strong, aren't they?
 But I don't think it's a good idea to be fighting in a place like that in the middle of the day~……
-Little kids are watching.　Right?";"Jeje, no pensé que Donko perdería. Tus hermanos son fuertes, ¿verdad?
+Little kids are watching.　Right?","Jeje, no pensé que Donko perdería. Tus hermanos son fuertes, ¿verdad?
 Pero no creo que sea bueno estar peleando en un lugar como ese en el medio del día~ ……
 Los niños pequeños también están mirando, es peligroso imitarlos, ¿no?　¿Verdad?"
-"Yamamoto Akuji (talking)";"……………………";"……………………";"……………………"
-"Honoo Donko (talking)";"……あれっ？ どうして何も言わないの？　反省中？";"…… Huh? Why aren't you saying anything?　Are you reflecting on what you did?";"…… ¿Eh? ¿Por qué no dices nada?　¿Reflexionas sobre lo sucedido?"
-"Yamamoto Akuji (talking)";"誰が反省するかボケ。";"Who is going to be sorry?";"A quién se le va a recordar esto, bla, bla, bla."
-"Honoo Donko (talking)";"むーっ！　素直じゃない人！ うなにゃにゃぶーーーーーーー！！";"Mwah!　You're not being honest! Unanyaboooooooooooooooooooooooooooooooooooooooooooooooo!";"¡Mwah!　¡No eres una persona honesta! ¡Unanyabooooooooooooooooooooooooooo!"
-"Yamamoto Akuji (talking)";"頭痛くなってくんなあ……
-まあいい、一つ訊かせろ。 おめー桃山組の組員か？";"I'm getting a headache……
-Well, let me ask you something. Are you a member of the Momoyama clan?";"Me estás dando dolor de cabeza……
+"Yamamoto Akuji (talking)","……………………","……………………","……………………"
+"Honoo Donko (talking)","……あれっ？ どうして何も言わないの？　反省中？","…… Huh? Why aren't you saying anything?　Are you reflecting on what you did?","…… ¿Eh? ¿Por qué no dices nada?　¿Reflexionas sobre lo sucedido?"
+"Yamamoto Akuji (talking)","誰が反省するかボケ。","Who is going to be sorry?","A quién se le va a recordar esto, bla, bla, bla."
+"Honoo Donko (talking)","むーっ！　素直じゃない人！ うなにゃにゃぶーーーーーーー！！","Mwah!　You're not being honest! Unanyaboooooooooooooooooooooooooooooooooooooooooooooooo!","¡Mwah!　¡No eres una persona honesta! ¡Unanyabooooooooooooooooooooooooooo!"
+"Yamamoto Akuji (talking)","頭痛くなってくんなあ……
+まあいい、一つ訊かせろ。 おめー桃山組の組員か？","I'm getting a headache……
+Well, let me ask you something. Are you a member of the Momoyama clan?","Me estás dando dolor de cabeza……
 Bueno, déjame preguntarte algo. ¿Eres miembro del clan Momoyama?"
-"Honoo Donko (talking)";"……ほにゃ？ 違いますよ~、全然違います。";"…… Honya? No - not at all.";"…… ¿Honya? No, en absoluto."
-"Yamamoto Akuji (talking)";"だろうな。 俺がリンダだったらお前なんか速攻で “ちゅるせ！”って言ってらぁ。";"I bet. If I were Linda, I would have said “Churuse!” I would have said.";"Sí. Si fuera Linda, estarías toda “¡Churusa!” Habría dicho."
-"Honoo Donko (talking)";"？？？";"？？？";"？？？"
-"Yamamoto Akuji (talking)";"んじゃ引き続き質問。 何でうちと桃山の喧嘩に参加した？";"Then I'll continue with my question. Why did you join the fight between us and Momoyama?";"Entonces, continúa con la pregunta. ¿Por qué te uniste a la pelea entre nosotros y Momoyama?"
-"Honoo Donko (talking)";"どん子、参加なんかしてないもん。 仲裁しようと思ったら巻き込まれたの。
-喧嘩なんて悪いこと！　やっちゃだめ！ ……お兄さん、解ってくれた？";"Donko, I didn't participate. I was trying to mediate and got involved.
-Fighting is wrong!　Don't do it!…… brother, do you understand me?";"Donko, no he participado en nada. Me involucré cuando quise mediar.
+"Honoo Donko (talking)","……ほにゃ？ 違いますよ~、全然違います。","…… Honya? No - not at all.","…… ¿Honya? No, en absoluto."
+"Yamamoto Akuji (talking)","だろうな。 俺がリンダだったらお前なんか速攻で “ちゅるせ！”って言ってらぁ。","I bet. If I were Linda, I would have said “Churuse!” I would have said.","Sí. Si fuera Linda, estarías toda “¡Churusa!” Habría dicho."
+"Honoo Donko (talking)","？？？","？？？","？？？"
+"Yamamoto Akuji (talking)","んじゃ引き続き質問。 何でうちと桃山の喧嘩に参加した？","Then I'll continue with my question. Why did you join the fight between us and Momoyama?","Entonces, continúa con la pregunta. ¿Por qué te uniste a la pelea entre nosotros y Momoyama?"
+"Honoo Donko (talking)","どん子、参加なんかしてないもん。 仲裁しようと思ったら巻き込まれたの。
+喧嘩なんて悪いこと！　やっちゃだめ！ ……お兄さん、解ってくれた？","Donko, I didn't participate. I was trying to mediate and got involved.
+Fighting is wrong!　Don't do it!…… brother, do you understand me?","Donko, no he participado en nada. Me involucré cuando quise mediar.
  ¡La lucha está mal!　¡No lo hagas!…… hermano, ¿entiendes?"
-"Yamamoto Akuji (talking)";"こっちも好き好んで 喧嘩ふっかけてる訳じゃねぇんだがな。
-オトナにゃいろいろ事情があんだよ、 ガキみたいな正義感振りかざすなボケ。";"I don't like to fight either.
-Adults have their own reasons, so don't act like a child with your sense of justice.";"A mí tampoco me gusta pelear.
+"Yamamoto Akuji (talking)","こっちも好き好んで 喧嘩ふっかけてる訳じゃねぇんだがな。
+オトナにゃいろいろ事情があんだよ、 ガキみたいな正義感振りかざすなボケ。","I don't like to fight either.
+Adults have their own reasons, so don't act like a child with your sense of justice.","A mí tampoco me gusta pelear.
 Los adultos tienen sus propias razones, no actúes como un niño con tu sentido de la justicia."
-"Honoo Donko (talking)";"む~~~……全然反省してないぃ……";"Mmm~~~…… not sorry at all……";"Mmm~~~…… no lo siento en absoluto……"
-"Yamamoto Akuji (talking)";"……最後の質問だ。 こいつは個人的に訊いてみるだけだが。
-おめーなあ、結局のところ そのカッコは一体何なんだ？";"…… last question. I'm just going to ask this one personally.
-What is it about those parentheses, after all?";"…… Última pregunta. Esta te la voy a pedir personalmente.
+"Honoo Donko (talking)","む~~~……全然反省してないぃ……","Mmm~~~…… not sorry at all……","Mmm~~~…… no lo siento en absoluto……"
+"Yamamoto Akuji (talking)","……最後の質問だ。 こいつは個人的に訊いてみるだけだが。
+おめーなあ、結局のところ そのカッコは一体何なんだ？","…… last question. I'm just going to ask this one personally.
+What is it about those parentheses, after all?","…… Última pregunta. Esta te la voy a pedir personalmente.
 Oye tú, ¿qué demonios son esos soportes después de todo?"
-"Honoo Donko (talking)";"何って……どん子の服。 むしろ皮膚？";"What's that ……Donko clothing. Rather skin?";"Qué es la ropa de ……Donko. ¿Prefieres la piel?"
-"Yamamoto Akuji (talking)";"だからそうじゃなくてよ…… ソレ着てる理由だ、理由。";"That's not why I'm wearing it…… That's why I'm wearing it, that's why.";"No es por eso que lo llevo…… Es por eso que lo llevo, es por eso."
-"Honoo Donko (talking)";"好きなんですよ、こういうの。 とっても楽しいし！";"I like this kind of thing. It's so much fun!";"Me gusta, este tipo de cosas. Es muy divertido."
-"Yamamoto Akuji (talking)";"………………あっそ。";"……………… Oh yeah.";"……………… Oh, sí."
-"Honoo Donko (talking)";"えへへ、自分で言うのも何だけど、 どん子、地元じゃ結構人気者なんですよ。
-お兄さんもどん子見てて、 何だかわくわくしてきませんか？";"Hehehe, I can't say it myself, but Donko is quite popular in my hometown.
-Don't you feel excited when you see Donko?";"Je, je, yo no puedo decirlo, pero Donko es bastante popular en mi ciudad.
+"Honoo Donko (talking)","何って……どん子の服。 むしろ皮膚？","What's that ……Donko clothing. Rather skin?","Qué es la ropa de ……Donko. ¿Prefieres la piel?"
+"Yamamoto Akuji (talking)","だからそうじゃなくてよ…… ソレ着てる理由だ、理由。","That's not why I'm wearing it…… That's why I'm wearing it, that's why.","No es por eso que lo llevo…… Es por eso que lo llevo, es por eso."
+"Honoo Donko (talking)","好きなんですよ、こういうの。 とっても楽しいし！","I like this kind of thing. It's so much fun!","Me gusta, este tipo de cosas. Es muy divertido."
+"Yamamoto Akuji (talking)","………………あっそ。","……………… Oh yeah.","……………… Oh, sí."
+"Honoo Donko (talking)","えへへ、自分で言うのも何だけど、 どん子、地元じゃ結構人気者なんですよ。
+お兄さんもどん子見てて、 何だかわくわくしてきませんか？","Hehehe, I can't say it myself, but Donko is quite popular in my hometown.
+Don't you feel excited when you see Donko?","Je, je, yo no puedo decirlo, pero Donko es bastante popular en mi ciudad.
  ¿No te emociona ver a Donko?"
-"Yamamoto Akuji (talking)";"しねぇよ。";"I ain't gonna do it.";"No lo voy a hacer."
-"Honoo Donko (talking)";"………………心の貧しい人~。";"……………… poor heart~.";"……………… pobre de corazón~."
-"Yamamoto Akuji (thinking)";"……五、六発シバいちまおうかな、 この着ぐるみ女め…………";"…… I'm going to kick your ass five or six times, you stuffed shirt bitch…………";"…… Voy a tener que darte cinco o seis cagadas, perra de camisa rellena…………"
-"Yamamoto Akuji (talking)";"よう、着ぐるみ女。";"Hey, stuffed shirt girl.";"Yo, señora rellena."
-"Honoo Donko (talking)";"うにゃー。にゃむにゃー。 ごろごろごろ。 うみゅー。ふにゅー。";"Nyumnya. Meow meow meow. Row, row, row, row. Mmmmeeee. Mmmmmm.";"Nyumnya. Miau miau miau. Rebuscando. Mmmmeeeee. Mmmmmm."
-"narrator";"意味不明の言葉（？）を口にしつつ、 どん子は悪司に抱きついてきた。";"Unintelligible Mei words (?) While saying Mei, Donko hugged Akuji.";"Palabras ininteligibles(?) Mientras decía Donko abrazó a Akuji."
-"Yamamoto Akuji (talking)";"…………………… 何の真似だ。";"…………………… What a copycat.";"…………………… ¿Qué estás imitando?"
-"Honoo Donko (talking)";"うなー。";"I don't think so.";"Unno."
-"Yamamoto Akuji (talking)";"人間語を喋れ。";"Speak human language.";"Habla el lenguaje humano."
-"Honoo Donko (talking)";"じゃあ十秒だけ。 しばらく強化月間にしたんです。";"Then I'll give you ten seconds. I've made it a reinforcement month for a while.";"Luego, sólo diez segundos. Lo he convertido en un mes de refuerzo durante un tiempo."
-"Yamamoto Akuji (talking)";"何の強化月間だよ……";"What's the enhancement month? ……";"¿Cuál es el mes de intensificación? ……"
-"Honoo Donko (talking)";"十秒終わり、人間語も終わり。 ……うなにゃーーーーーーーー。";"Ten seconds end, and the human language is over…… Una-nya-ooooo.";"Diez segundos después, el lenguaje humano termina…… Una-nya-nya-nya-nya-nya-nya."
-"Yamamoto Akuji (talking)";"う、鬱陶しい………… もこもこふわふわ毛皮が……";"Ugh, depressing………… Fluffy fluffy fur is ……";"Ugh, deprimente………… El pelaje esponjoso es ……"
-"Honoo Donko (talking)";"むにゅにゃわ~~~。";"Mnyuwa~~~.";"Mnyuwa~~."
-"Yamamoto Akuji (thinking)";"……いや、なんかふわふわしてて 割と気持ちい………………
- ……いや、よくないよくない。";"…… No, it's kind of fluffy and rather pleasant …………………… no, not good, not good.";"…… No, es algo esponjoso y bastante agradable …………………… No, no es bueno, no es bueno."
-"Yamamoto Akuji (talking)";"……おめー、女だよな、一応。";"…… You're a woman, in case you're wondering.";"…… Eres una mujer, en caso de que te lo preguntes."
-"Honoo Donko (talking)";"うにゃん？ そうですよ、男の子に見えます？";"Unyan? Yes, do I look like a boy?";"¿Unyan? Sí, ¿parezco un chico?"
-"Yamamoto Akuji (talking)";"見えてたまるか。 おめーみたいなのが男だったら、 俺は同族の恥として速攻で殺してらぁ。";"You can't see me. If someone like you were a man, I'd Satsu him as soon as possible as a disgrace to my people.";"No puedes verme. Si alguien como tú fuera un hombre, te Satsu tan rápido como pudiera por ser una desgracia para mi pueblo."
-"Honoo Donko (talking)";"うやー…………物騒、物騒ぅ…… 怖い怖い、怖いぃ…………";"Uyah………… things, things, things…… scary scary scary scary …………";"Uya………… cosas, cosas, cosas…… miedo, miedo, miedo …………"
-"Yamamoto Akuji (talking)";"うーん、なんつーか…… 頭の中ガキなんだろうな、こいつ。
-よし、ここはひとつ、 俺がオトナライフの素晴らしさを教えて おめーをオトナにしてやろう。";"Well, I guess he's just a kid in his…… head.
-I'll make you an adult by teaching you the wonders of adult life.";"Bueno, supongo que sólo es un niño en su cabeza ……, ¿no?
+"Yamamoto Akuji (talking)","しねぇよ。","I ain't gonna do it.","No lo voy a hacer."
+"Honoo Donko (talking)","………………心の貧しい人~。","……………… poor heart~.","……………… pobre de corazón~."
+"Yamamoto Akuji (thinking)","……五、六発シバいちまおうかな、 この着ぐるみ女め…………","…… I'm going to kick your ass five or six times, you stuffed shirt bitch…………","…… Voy a tener que darte cinco o seis cagadas, perra de camisa rellena…………"
+"Yamamoto Akuji (talking)","よう、着ぐるみ女。","Hey, stuffed shirt girl.","Yo, señora rellena."
+"Honoo Donko (talking)","うにゃー。にゃむにゃー。 ごろごろごろ。 うみゅー。ふにゅー。","Nyumnya. Meow meow meow. Row, row, row, row. Mmmmeeee. Mmmmmm.","Nyumnya. Miau miau miau. Rebuscando. Mmmmeeeee. Mmmmmm."
+"narrator","意味不明の言葉（？）を口にしつつ、 どん子は悪司に抱きついてきた。","Unintelligible Mei words (?) While saying Mei, Donko hugged Akuji.","Palabras ininteligibles(?) Mientras decía Donko abrazó a Akuji."
+"Yamamoto Akuji (talking)","…………………… 何の真似だ。","…………………… What a copycat.","…………………… ¿Qué estás imitando?"
+"Honoo Donko (talking)","うなー。","I don't think so.","Unno."
+"Yamamoto Akuji (talking)","人間語を喋れ。","Speak human language.","Habla el lenguaje humano."
+"Honoo Donko (talking)","じゃあ十秒だけ。 しばらく強化月間にしたんです。","Then I'll give you ten seconds. I've made it a reinforcement month for a while.","Luego, sólo diez segundos. Lo he convertido en un mes de refuerzo durante un tiempo."
+"Yamamoto Akuji (talking)","何の強化月間だよ……","What's the enhancement month? ……","¿Cuál es el mes de intensificación? ……"
+"Honoo Donko (talking)","十秒終わり、人間語も終わり。 ……うなにゃーーーーーーーー。","Ten seconds end, and the human language is over…… Una-nya-ooooo.","Diez segundos después, el lenguaje humano termina…… Una-nya-nya-nya-nya-nya-nya."
+"Yamamoto Akuji (talking)","う、鬱陶しい………… もこもこふわふわ毛皮が……","Ugh, depressing………… Fluffy fluffy fur is ……","Ugh, deprimente………… El pelaje esponjoso es ……"
+"Honoo Donko (talking)","むにゅにゃわ~~~。","Mnyuwa~~~.","Mnyuwa~~."
+"Yamamoto Akuji (thinking)","……いや、なんかふわふわしてて 割と気持ちい………………
+ ……いや、よくないよくない。","…… No, it's kind of fluffy and rather pleasant …………………… no, not good, not good.","…… No, es algo esponjoso y bastante agradable …………………… No, no es bueno, no es bueno."
+"Yamamoto Akuji (talking)","……おめー、女だよな、一応。","…… You're a woman, in case you're wondering.","…… Eres una mujer, en caso de que te lo preguntes."
+"Honoo Donko (talking)","うにゃん？ そうですよ、男の子に見えます？","Unyan? Yes, do I look like a boy?","¿Unyan? Sí, ¿parezco un chico?"
+"Yamamoto Akuji (talking)","見えてたまるか。 おめーみたいなのが男だったら、 俺は同族の恥として速攻で殺してらぁ。","You can't see me. If someone like you were a man, I'd Satsu him as soon as possible as a disgrace to my people.","No puedes verme. Si alguien como tú fuera un hombre, te Satsu tan rápido como pudiera por ser una desgracia para mi pueblo."
+"Honoo Donko (talking)","うやー…………物騒、物騒ぅ…… 怖い怖い、怖いぃ…………","Uyah………… things, things, things…… scary scary scary scary …………","Uya………… cosas, cosas, cosas…… miedo, miedo, miedo …………"
+"Yamamoto Akuji (talking)","うーん、なんつーか…… 頭の中ガキなんだろうな、こいつ。
+よし、ここはひとつ、 俺がオトナライフの素晴らしさを教えて おめーをオトナにしてやろう。","Well, I guess he's just a kid in his…… head.
+I'll make you an adult by teaching you the wonders of adult life.","Bueno, supongo que sólo es un niño en su cabeza ……, ¿no?
 Bien, te haré adulto enseñándote las maravillas de la vida adulta."
-"Honoo Donko (talking)";"ほやん？";"Hoyan?";"¿Hoyan?"
-"Yamamoto Akuji (talking)";"ちょっとついてこい。";"Follow me for a minute.";"Sígueme un momento."
-"Honoo Donko (talking)";"あ……むにゃん？ 待って待って…………";"Ah…… munyan? Wait wait wait …………";"Ah…… ¿Munyan? Espera, espera, espera: …………"
-"Yamamoto Akuji (talking)";"そら、入れ。";"There you go.";"Ahí tienes, entra."
-"Honoo Donko (talking)";"……ほやん？ ここ、どこ……？";"…… Hoyan? Where are we ……?";"…… ¿Hoyan? ¿Dónde estamos ……?"
-"Yamamoto Akuji (talking)";"………………";"………………";"………………"
-"narrator";"訳が解らず立ち尽くすどん子の背後に、 悪司はそっと回り込んだ。";"Akuji quietly walked around behind Donko, who was standing there, not understanding what was going on.";"Akuji caminó suavemente por detrás de Donko, que se quedó parado, incapaz de entender lo que estaba pasando."
-"Yamamoto Akuji (talking)";"……背中のジッパー発見。 うりゃ。";"Found a zipper on the back of ……. Urya.";"……Zipper encontrado en la parte trasera. Urya."
-"Honoo Donko (talking)";"……ふにゃあああっ！？ じっ、ジッパー下ろしちゃダメーっ！ 悪い子悪い子悪い子ーーーーっ！！";"…… Don't unzip me! Bad, bad, bad, bad, bad, bad, bad, bad, bad, bad, bad, bad, bad, bad, bad, bad, bad, bad, bad!";"…… ¡Coño! ¡No me bajes la cremallera! ¡Mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal!"
-"Yamamoto Akuji (talking)";"んだっておめー、 生身見せてくんなきゃ ヤることヤれねぇだろが。";"I told you, I can't fuck you unless you show me your flesh.";"No puedes cogerme si no me dejas verte en carne y hueso."
-"Honoo Donko (talking)";"ほ、ほや…………？";"Ho, ho, ho, …………?";"¿Ho, ho o …………?"
-"Yamamoto Akuji (talking)";"いいからほれ、出てこい。";"Just come on, come on out.";"Sólo ven, sal."
-"Honoo Donko (talking)";"あ、あや、あややや…………
+"Honoo Donko (talking)","ほやん？","Hoyan?","¿Hoyan?"
+"Yamamoto Akuji (talking)","ちょっとついてこい。","Follow me for a minute.","Sígueme un momento."
+"Honoo Donko (talking)","あ……むにゃん？ 待って待って…………","Ah…… munyan? Wait wait wait …………","Ah…… ¿Munyan? Espera, espera, espera: …………"
+"Yamamoto Akuji (talking)","そら、入れ。","There you go.","Ahí tienes, entra."
+"Honoo Donko (talking)","……ほやん？ ここ、どこ……？","…… Hoyan? Where are we ……?","…… ¿Hoyan? ¿Dónde estamos ……?"
+"Yamamoto Akuji (talking)","………………","………………","………………"
+"narrator","訳が解らず立ち尽くすどん子の背後に、 悪司はそっと回り込んだ。","Akuji quietly walked around behind Donko, who was standing there, not understanding what was going on.","Akuji caminó suavemente por detrás de Donko, que se quedó parado, incapaz de entender lo que estaba pasando."
+"Yamamoto Akuji (talking)","……背中のジッパー発見。 うりゃ。","Found a zipper on the back of ……. Urya.","……Zipper encontrado en la parte trasera. Urya."
+"Honoo Donko (talking)","……ふにゃあああっ！？ じっ、ジッパー下ろしちゃダメーっ！ 悪い子悪い子悪い子ーーーーっ！！","…… Don't unzip me! Bad, bad, bad, bad, bad, bad, bad, bad, bad, bad, bad, bad, bad, bad, bad, bad, bad, bad, bad!","…… ¡Coño! ¡No me bajes la cremallera! ¡Mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal, mal!"
+"Yamamoto Akuji (talking)","んだっておめー、 生身見せてくんなきゃ ヤることヤれねぇだろが。","I told you, I can't fuck you unless you show me your flesh.","No puedes cogerme si no me dejas verte en carne y hueso."
+"Honoo Donko (talking)","ほ、ほや…………？","Ho, ho, ho, …………?","¿Ho, ho o …………?"
+"Yamamoto Akuji (talking)","いいからほれ、出てこい。","Just come on, come on out.","Sólo ven, sal."
+"Honoo Donko (talking)","あ、あや、あややや…………
  ……あ……あぅ…………？
-ああ、あああああああ~……！！！！";"Oh, Aya, Aya Yaya …………
+ああ、あああああああ~……！！！！","Oh, Aya, Aya Yaya …………
 Oh, ah…… ah…… ah …………?
-Oh, ah, ah, ah~……！！！！";"Aya, Aya, Aya Yaya…………
+Oh, ah, ah, ah~……！！！！","Aya, Aya, Aya Yaya…………
 Ah, ah…… ah…… ah …………?
 Oh, ah, ah, ah~……！！！！"
-"cg narrator";"「何だよ、ふざけた着ぐるみ脱がしてみたら 　中身は上玉も上玉、可愛いもんじゃねぇか……」
+"cg narrator","「何だよ、ふざけた着ぐるみ脱がしてみたら 　中身は上玉も上玉、可愛いもんじゃねぇか……」
 呟きつつ、悪司はどん子の下着── 着ぐるみのインナーウェアをずらしていく。
  「や、やだちょ……そんなとこに手入れちゃ…… 　…………っあ！　やはあんっ！ 　わ、悪い子、悪い子っ！　……だめえっ……！」
  「セックスして悪い子って言われんなら、 　オトナはみんな悪い子だな」
@@ -467,7 +467,7 @@ Oh, ah, ah, ah~……！！！！"
  「それでいいんだよ…… 　そら、気前よくイッちまえっ……！！」
 悪司は言って、どん子の秘裂に手を伸ばす。
 胎を突き上げながら、指先で花芯を擦り立てる。
- 「ふやああんっ！　やあああんッ！！ 　ひうううううううううっ────────！」";"What the heck, I took off the joke stuffed animal and found that inside was a cute little thing, even the top ball was a top ball……
+ 「ふやああんっ！　やあああんッ！！ 　ひうううううううううっ────────！」","What the heck, I took off the joke stuffed animal and found that inside was a cute little thing, even the top ball was a top ball……
 The Akuji, while muttering, shifted Donko's underwear - the inner wear of the stuffed animal.
 The first thing that comes to my mind is that you should not put your hand in such a place,………… …… …………!　Yaaaan! 　Bad, bad girl, bad girl!　Don't…… ……!”
 If you're a bad boy for having sex, then you're a bad boy for being an adult Hami.”
@@ -528,7 +528,7 @@ Each thrust shook Donko's body to the point that she shook…
 That's all right ……, go ahead and come on in there and make yourself comfortable……!
 Akuji said, reaching for Donko's secret opening.
 The woman's womb is thrust up and the fingertips rub the core of the flower.
- 'Fuyaaaan!　Hiyaaaan!";"'Qué demonios, cuando me quité el peluche de broma, dentro hay una cosita muy mona, incluso la bola de arriba es una bola de arriba……'
+ 'Fuyaaaan!　Hiyaaaan!","'Qué demonios, cuando me quité el peluche de broma, dentro hay una cosita muy mona, incluso la bola de arriba es una bola de arriba……'
 La primera vez que los dos estuvieron juntos en la misma habitación, los dos estuvieron juntos en la misma habitación, y los dos estuvieron juntos en la misma habitación.
  'No, no, no…… ponga la mano en ese lugar……………… ¡Ah!　¡Yaaaan! 　¡Soy una chica mala, una chica mala!　No…… ……!”
 Si eres un mal chico por tener sexo, entonces eres un mal chico por ser un adulto Hami”.
@@ -590,267 +590,267 @@ Está bien, ……, adelante, vamos, ……, ¡sé generoso!
 Akuji dijo y alcanzó la hendidura secreta de Donko.
 La primera vez que la vi, me dije: '¡Dios mío, me alegro tanto de verte!
  '¡Fuyaaaan!　¡¡¡Holaaaaan!!!"
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"cg narrator";"──自分の躰に何が起きているのか、 理解が追いつかないまま、どん子は果てる。
-髪を振り乱し、目を見開いて。 着ぐるみの中へ、崩れるように倒れ込む──";"Donko died, unable to comprehend what was happening to her body.
-Her hair is shaking and her eyes are wide open. She collapses into her stuffed animal like a crumbled body…";"Donko acaba en estado de shock, incapaz de comprender lo que le ocurre a su cuerpo.
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"cg narrator","──自分の躰に何が起きているのか、 理解が追いつかないまま、どん子は果てる。
+髪を振り乱し、目を見開いて。 着ぐるみの中へ、崩れるように倒れ込む──","Donko died, unable to comprehend what was happening to her body.
+Her hair is shaking and her eyes are wide open. She collapses into her stuffed animal like a crumbled body…","Donko acaba en estado de shock, incapaz de comprender lo que le ocurre a su cuerpo.
 Su pelo se agita y sus ojos están muy abiertos. Se desploma en el peluche, como si se desplomara…"
-"Honoo Donko (talking)";"ふにゃあ……ふやああ………………";"Fuyaa…… Fuyaa………………";"Fuyaa…… Fuyaa………………"
-"Yamamoto Akuji (talking)";"……おめー、ヤった後すぐに んなもん着るなよ……暑くねぇのか？";"Don't put that on right after you get laid…… You're not hot, are you?";"No te pongas eso tan pronto después de habértela follado…… ¿No estás caliente?"
-"Honoo Donko (talking)";"暑いけど……あんな恥ずかしい事 された後だもん…… 恥ずかしいもん………………";"It's hot, but it's…… embarrassing after all the embarrassing things they did to me…… embarrassing………………";"Está caliente, pero es…… vergonzoso después de todas esas cosas vergonzosas que me hicieron…… Es vergonzoso………………"
-"Yamamoto Akuji (talking)";"あっそ。
- ……ところでよ、おめーって ニホン人じゃなかったんだなー。";"Oh yeah.
-By the way, you're not a Japanese, are you?";"Ah, sí.…… Por cierto, no eras japonés, ¿verdad?"
-"Honoo Donko (talking)";"……ふにゃあ…………？";"…… mmmm …………?";"…… mmmm …………?"
-"Yamamoto Akuji (talking)";"いや、手も足も長いしスタイルいいし、 どうも何か違うと思ってたんだが……
-イっちまう前、その長い前髪の間から おめーの目がちらっと見えたんだよ。";"No, she has long arms and legs and a nice style, but I knew there was something different about her……
-Before I came, I caught a glimpse of your eyes through your long bangs.";"No, tienes manos largas, piernas largas, buen estilo, y sabía que había algo diferente en ti……
+"Honoo Donko (talking)","ふにゃあ……ふやああ………………","Fuyaa…… Fuyaa………………","Fuyaa…… Fuyaa………………"
+"Yamamoto Akuji (talking)","……おめー、ヤった後すぐに んなもん着るなよ……暑くねぇのか？","Don't put that on right after you get laid…… You're not hot, are you?","No te pongas eso tan pronto después de habértela follado…… ¿No estás caliente?"
+"Honoo Donko (talking)","暑いけど……あんな恥ずかしい事 された後だもん…… 恥ずかしいもん………………","It's hot, but it's…… embarrassing after all the embarrassing things they did to me…… embarrassing………………","Está caliente, pero es…… vergonzoso después de todas esas cosas vergonzosas que me hicieron…… Es vergonzoso………………"
+"Yamamoto Akuji (talking)","あっそ。
+ ……ところでよ、おめーって ニホン人じゃなかったんだなー。","Oh yeah.
+By the way, you're not a Japanese, are you?","Ah, sí.…… Por cierto, no eras japonés, ¿verdad?"
+"Honoo Donko (talking)","……ふにゃあ…………？","…… mmmm …………?","…… mmmm …………?"
+"Yamamoto Akuji (talking)","いや、手も足も長いしスタイルいいし、 どうも何か違うと思ってたんだが……
+イっちまう前、その長い前髪の間から おめーの目がちらっと見えたんだよ。","No, she has long arms and legs and a nice style, but I knew there was something different about her……
+Before I came, I caught a glimpse of your eyes through your long bangs.","No, tienes manos largas, piernas largas, buen estilo, y sabía que había algo diferente en ti……
 Antes de venir, vislumbré tus ojos a través de tus largos flecos."
-"Honoo Donko (talking)";"ふにぃ……見ちゃったんですかぁ、 どん子の目……";"Did you see the funi……, Donko eyes……";"¿Has visto el funi……, Donko ojos……"
-"Yamamoto Akuji (talking)";"えらく透き通った青だったな。 ニホンの女じゃ見ねぇ色だ。
-いやー、あんまニホン語上手いから 俺はてっきりニホン人だと……";"It was a very clear blue. You don't see that color on Japanese women.
-Well, since you speak Japanese so well, I thought you were Japanese……";"Era un azul muy claro. No se ve ese color en las mujeres japonesas.
+"Honoo Donko (talking)","ふにぃ……見ちゃったんですかぁ、 どん子の目……","Did you see the funi……, Donko eyes……","¿Has visto el funi……, Donko ojos……"
+"Yamamoto Akuji (talking)","えらく透き通った青だったな。 ニホンの女じゃ見ねぇ色だ。
+いやー、あんまニホン語上手いから 俺はてっきりニホン人だと……","It was a very clear blue. You don't see that color on Japanese women.
+Well, since you speak Japanese so well, I thought you were Japanese……","Era un azul muy claro. No se ve ese color en las mujeres japonesas.
 Bueno, como hablas tan bien el japonés, pensé que eras japonés……"
-"Honoo Donko (talking)";"どん子は……ニホン人ですよー。 生まれも育ちもオオサカでーす。
-ただ、おばあちゃんとおじいちゃんは そうじゃないんだけど。";"Donko is a…… Japanese! I was born and raised in Osaka, Japan.
-But my grandma and grandpa are not.";"¡Donko es un…… japonés! Nací y me crié en Osaka.
+"Honoo Donko (talking)","どん子は……ニホン人ですよー。 生まれも育ちもオオサカでーす。
+ただ、おばあちゃんとおじいちゃんは そうじゃないんだけど。","Donko is a…… Japanese! I was born and raised in Osaka, Japan.
+But my grandma and grandpa are not.","¡Donko es un…… japonés! Nací y me crié en Osaka.
 Pero mi abuela y mi abuelo no lo son."
-"Yamamoto Akuji (talking)";"はー、なるへそ。";"Ha, naruheso.";"Ha, naru heso."
-"Honoo Donko (talking)";"子供の頃から友達にいじめられてて、 戦時中は特に、外国の血が入ってるだけで オトナからも白い目で見られて……";"I was bullied by my friends since childhood, especially during the war, and even the adults looked at me Haku because of my foreign blood……";"Mis amigos me acosaban desde la infancia, especialmente durante la guerra, e incluso los adultos me miraban Haku por mi sangre extranjera……"
-"Yamamoto Akuji (talking)";"まあなあ、戦前から急に ニホンは排他主義になっちまったからな。
- ……まさかおめー、その前髪って それで伸ばしてんのか？";"Well, you know, Japanese have suddenly become very exclusive since before the war.…… You don't think you're growing your bangs with that, do you?";"Antes de la guerra, los japoneses se volvieron de repente muy exclusivistas.…… ¿No me digas que te estás dejando crecer los flecos con eso?"
-"Honoo Donko (talking)";"ぴんぽーん、大正解！
-えへへ、昔は前髪だけで、 着ぐるみも着てなかったんですよぅ。 なつかしいなー。";"Pimpon, you are so right!
-Hehehe, I used to have only bangs and not a stuffed animal. I miss those days.";"Pimpon, ¡tienes mucha razón!
+"Yamamoto Akuji (talking)","はー、なるへそ。","Ha, naruheso.","Ha, naru heso."
+"Honoo Donko (talking)","子供の頃から友達にいじめられてて、 戦時中は特に、外国の血が入ってるだけで オトナからも白い目で見られて……","I was bullied by my friends since childhood, especially during the war, and even the adults looked at me Haku because of my foreign blood……","Mis amigos me acosaban desde la infancia, especialmente durante la guerra, e incluso los adultos me miraban Haku por mi sangre extranjera……"
+"Yamamoto Akuji (talking)","まあなあ、戦前から急に ニホンは排他主義になっちまったからな。
+ ……まさかおめー、その前髪って それで伸ばしてんのか？","Well, you know, Japanese have suddenly become very exclusive since before the war.…… You don't think you're growing your bangs with that, do you?","Antes de la guerra, los japoneses se volvieron de repente muy exclusivistas.…… ¿No me digas que te estás dejando crecer los flecos con eso?"
+"Honoo Donko (talking)","ぴんぽーん、大正解！
+えへへ、昔は前髪だけで、 着ぐるみも着てなかったんですよぅ。 なつかしいなー。","Pimpon, you are so right!
+Hehehe, I used to have only bangs and not a stuffed animal. I miss those days.","Pimpon, ¡tienes mucha razón!
 Jejeje, antes sólo tenía flecos y no un peluche. Echo de menos los viejos tiempos."
-"Yamamoto Akuji (talking)";"まさかおめー、そんなカッコしてんの 手足全部隠すためだったのか……？";"Don't tell me you were wearing that to hide all your limbs ……?";"No me digas que te has vestido así para ocultar todos tus miembros ……?"
-"Honoo Donko (talking)";"はーい、最初はそうでしたー。
+"Yamamoto Akuji (talking)","まさかおめー、そんなカッコしてんの 手足全部隠すためだったのか……？","Don't tell me you were wearing that to hide all your limbs ……?","No me digas que te has vestido así para ocultar todos tus miembros ……?"
+"Honoo Donko (talking)","はーい、最初はそうでしたー。
 前髪で目を隠してみても、結局、 一度ついたガイジンってレッテルは なかなか剥がせなくて。
 でも、外国産のネコとかイヌは 近所で結構可愛がられてて。
-じゃあいっそ、人間じゃないところまで どん子もいっちゃえーって思って、 ネコミミつけたり、変な服着てみたり。";"Yes, I did at first.
+じゃあいっそ、人間じゃないところまで どん子もいっちゃえーって思って、 ネコミミつけたり、変な服着てみたり。","Yes, I did at first.
 I tried to cover my eyes with my bangs, but in the end, it was difficult to remove the gaijin label once it was attached.
 However, foreign cats and dogs are quite beloved in my neighborhood.
-So I thought, “Let's just go ahead and try to make Donko look like a non-human, too,” so I started wearing catnip and strange clothes.";"Sí, al principio lo hice.
+So I thought, “Let's just go ahead and try to make Donko look like a non-human, too,” so I started wearing catnip and strange clothes.","Sí, al principio lo hice.
 Intenté ocultar mis ojos con mis flequillos, pero al final, una vez que la etiqueta de gaijin se me pegaba, era difícil deshacerse de ella.
 Pero los perros y gatos extranjeros eran muy populares en el barrio.
 Así que pensé, por qué no ir tan lejos como para no ser humano y probar a llevar ropas extrañas y usar orejas de gato."
-"Yamamoto Akuji (talking)";"涙ぐましいねえ…… 人に歴史ありってヤツだな。";"Tearjerker…… People have history, I guess.";"Tearjerker…… La gente tiene historia."
-"Honoo Donko (talking)";"でも、戦争始まったら、 防空壕や疎開先で子供がいっぱい どん子の周りに集まってきて。
+"Yamamoto Akuji (talking)","涙ぐましいねえ…… 人に歴史ありってヤツだな。","Tearjerker…… People have history, I guess.","Tearjerker…… La gente tiene historia."
+"Honoo Donko (talking)","でも、戦争始まったら、 防空壕や疎開先で子供がいっぱい どん子の周りに集まってきて。
 オトナの人たちも、 どん子が居ると場が和むからって 可愛がってくれたりしたんですよぉ。
 そのうち着ぐるみ作ったりして、 やってるうちに楽しくなってきて……
-今じゃもう、 すっかりクセになっちゃって。 えへへへへへへへへ。";"But after the war Hajime, a lot of children gathered around Donko in air-raid shelters and evacuation sites.
+今じゃもう、 すっかりクセになっちゃって。 えへへへへへへへへ。","But after the war Hajime, a lot of children gathered around Donko in air-raid shelters and evacuation sites.
 Even the grown-ups were very friendly to us because they felt at home when Donko was around.
 Eventually, we started making stuffed animals, and the more we did it, the more fun it became……
-Now I'm totally addicted to it. Heh heh heh heh heh heh.";"Pero después de la guerra Hajime, muchos niños se reunieron en torno a Donko en los refugios antiaéreos y centros de evacuación.
+Now I'm totally addicted to it. Heh heh heh heh heh heh.","Pero después de la guerra Hajime, muchos niños se reunieron en torno a Donko en los refugios antiaéreos y centros de evacuación.
 Los adultos también fueron muy amables con nosotros porque se sentían como en casa cuando Donko estaba cerca.
 Con el tiempo empezamos a hacer peluches y se convirtió en algo divertido mientras lo hacíamos……
 Ahora soy totalmente adicto a ella. Je, je, je, je, je."
-"Yamamoto Akuji (talking)";"クセって何だ、クセって。";"What's a quirk, a quirk?";"¿Qué son las particularidades, las peculiaridades?"
-"Honoo Donko (talking)";"でもねー、どん子、子供はいっぱい 可愛がるけど、可愛がられた事は あんまりないんですよぉ。
+"Yamamoto Akuji (talking)","クセって何だ、クセって。","What's a quirk, a quirk?","¿Qué son las particularidades, las peculiaridades?"
+"Honoo Donko (talking)","でもねー、どん子、子供はいっぱい 可愛がるけど、可愛がられた事は あんまりないんですよぉ。
 だから、悪司しゃん、すきー。
-すごーくエッチで嫌だったけど、 いっぱいなでなでしてくれて 気持ちよかったもーん。えへへ……";"But you know, Donko adores children a lot, but has never been adored much.
+すごーくエッチで嫌だったけど、 いっぱいなでなでしてくれて 気持ちよかったもーん。えへへ……","But you know, Donko adores children a lot, but has never been adored much.
 That's why I like Akuji so much.
-I didn't like it because it was so naughty, but it felt so good to be stroked so much. Hehehe ……";"Pero sabes, Donko, yo quiero mucho a los niños, pero nunca me han querido mucho.
+I didn't like it because it was so naughty, but it felt so good to be stroked so much. Hehehe ……","Pero sabes, Donko, yo quiero mucho a los niños, pero nunca me han querido mucho.
 Por eso me encanta Akuji.
 No me gustaba porque era muy travieso, pero me acariciaba mucho y se sentía bien. Hehehe ……"
-"Yamamoto Akuji (talking)";"………………あっそ。";"……………… Oh yeah.";"……………… Oh, sí."
-"Honoo Donko (talking)";"悪司しゃーん、 なでなでしてー、なでなでー。";"Akuji-shian, stroke me, stroke me, stroke me.";"Akuji-shian, codazo, codazo, codazo."
-"Yamamoto Akuji (talking)";"また今度な。";"Another time.";"En otro momento."
-"Yamamoto Akuji (talking)";"おめー、なんか欲しいもんとかあるか？";"Hey, you, is there anything you want?";"Oye, tú, ¿hay algo que quieras?"
-"Honoo Donko (talking)";"…………ふにゃん？";"………… mmmm?";"………… ¿Hunyan?"
-"Yamamoto Akuji (talking)";"欲しいもんやるから、 俺の部下になんねぇか？
-おめー、そこそこ戦えたしな。 結構戦力になりそうだからよ。";"I'll give you what you want. Will you work for me?
-You've been able to fight pretty well, you know. I think you could be a good asset.";"Te daré lo que quieres. ¿Serás mi hombre?
+"Yamamoto Akuji (talking)","………………あっそ。","……………… Oh yeah.","……………… Oh, sí."
+"Honoo Donko (talking)","悪司しゃーん、 なでなでしてー、なでなでー。","Akuji-shian, stroke me, stroke me, stroke me.","Akuji-shian, codazo, codazo, codazo."
+"Yamamoto Akuji (talking)","また今度な。","Another time.","En otro momento."
+"Yamamoto Akuji (talking)","おめー、なんか欲しいもんとかあるか？","Hey, you, is there anything you want?","Oye, tú, ¿hay algo que quieras?"
+"Honoo Donko (talking)","…………ふにゃん？","………… mmmm?","………… ¿Hunyan?"
+"Yamamoto Akuji (talking)","欲しいもんやるから、 俺の部下になんねぇか？
+おめー、そこそこ戦えたしな。 結構戦力になりそうだからよ。","I'll give you what you want. Will you work for me?
+You've been able to fight pretty well, you know. I think you could be a good asset.","Te daré lo que quieres. ¿Serás mi hombre?
 Podrías luchar muy bien, sabes. Podrías ser un gran activo."
-"Honoo Donko (talking)";"えーとえーと、じゃあ毛布！ 白くて大きいの！ 十メートルくらいのロールで！";"Er, er, well, a blanket then! A big Haku one! In rolls of about 10 meters!";"Er, er, bueno, ¡una manta entonces! Haku ¡grandes, grandes! En rollos de unos diez metros."
-"Yamamoto Akuji (talking)";"……何に使うんだそんなもん。";"…… What's the use of such a thing?";"…… ¿Para qué sirve algo así?"
-"Honoo Donko (talking)";"えっとね、あとウレタンいっぱい！ あ、発泡スチロールのブロックも！
-それからミシンと裁縫道具、 カッターに彫刻刀！　あとジッパー！ 布用のペンキや接着剤とかも！";"Let's see, and lots of urethane! Oh, and a block of styrofoam!
-And a sewing machine, sewing tools, cutters, carving knives!　And zippers! And fabric paint and glue!";"A ver, ¡y mucho poliuretano! ¡Oh, y bloques de espuma de poliestireno!
+"Honoo Donko (talking)","えーとえーと、じゃあ毛布！ 白くて大きいの！ 十メートルくらいのロールで！","Er, er, well, a blanket then! A big Haku one! In rolls of about 10 meters!","Er, er, bueno, ¡una manta entonces! Haku ¡grandes, grandes! En rollos de unos diez metros."
+"Yamamoto Akuji (talking)","……何に使うんだそんなもん。","…… What's the use of such a thing?","…… ¿Para qué sirve algo así?"
+"Honoo Donko (talking)","えっとね、あとウレタンいっぱい！ あ、発泡スチロールのブロックも！
+それからミシンと裁縫道具、 カッターに彫刻刀！　あとジッパー！ 布用のペンキや接着剤とかも！","Let's see, and lots of urethane! Oh, and a block of styrofoam!
+And a sewing machine, sewing tools, cutters, carving knives!　And zippers! And fabric paint and glue!","A ver, ¡y mucho poliuretano! ¡Oh, y bloques de espuma de poliestireno!
 Y una máquina de coser, herramientas de costura, cortadores y un cuchillo para tallar.　¡Y cremalleras! Y pintura y pegamento para telas."
-"Yamamoto Akuji (talking)";"……まだ着ぐるみ作る気か、おめー……
-まあいい、次までに用意してやろう。";"You're still going to make a stuffed animal, you ……
-Oh well, I'll have it ready by next time.";"…… Sigues haciendo peluches, tú ……
+"Yamamoto Akuji (talking)","……まだ着ぐるみ作る気か、おめー……
+まあいい、次までに用意してやろう。","You're still going to make a stuffed animal, you ……
+Oh well, I'll have it ready by next time.","…… Sigues haciendo peluches, tú ……
 Oh, bueno, lo tendré listo para la próxima vez."
-"Yamamoto Akuji (talking)";"……ほれ、用意してやったぞ。";"……Here, I've got it for you.";"…… Toma, te lo he preparado."
-"narrator";"悪司は、どん子の目の前に 毛布とウレタンと（中略）を積み上げた。";"Akuji piled blankets, urethane, and (omitted) in front of Donko.";"Akuji apiló mantas, uretano y (omitió) frente a Donko."
-"Honoo Donko (talking)";"わぁ…… 本当に貰えるとは思わなかったなー。";"Wow…… I didn't think I'd really get it.";"Wow…… Realmente no pensé que lo conseguiría."
-"Yamamoto Akuji (talking)";"で、どうだ。 俺の下で働いてくれんのか？";"So, what do you think? Will you work for me?";"Entonces, ¿qué piensas? ¿Trabajarás para mí?"
-"Honoo Donko (talking)";"もっちろん！ ここまでしてもらったら恩返ししなきゃ！
-どん子は、 悪司しゃんの部下になりまーす！ ふにゃ~~~~~~っ。";"Of course! You've done so much for us, we have to return the favor!
-Donko will be Akuji's subordinate! I'm going to be Donko's subordinate to Akuji!";"Por supuesto. Has hecho tanto por mí que tengo que devolverte el favor.
+"Yamamoto Akuji (talking)","……ほれ、用意してやったぞ。","……Here, I've got it for you.","…… Toma, te lo he preparado."
+"narrator","悪司は、どん子の目の前に 毛布とウレタンと（中略）を積み上げた。","Akuji piled blankets, urethane, and (omitted) in front of Donko.","Akuji apiló mantas, uretano y (omitió) frente a Donko."
+"Honoo Donko (talking)","わぁ…… 本当に貰えるとは思わなかったなー。","Wow…… I didn't think I'd really get it.","Wow…… Realmente no pensé que lo conseguiría."
+"Yamamoto Akuji (talking)","で、どうだ。 俺の下で働いてくれんのか？","So, what do you think? Will you work for me?","Entonces, ¿qué piensas? ¿Trabajarás para mí?"
+"Honoo Donko (talking)","もっちろん！ ここまでしてもらったら恩返ししなきゃ！
+どん子は、 悪司しゃんの部下になりまーす！ ふにゃ~~~~~~っ。","Of course! You've done so much for us, we have to return the favor!
+Donko will be Akuji's subordinate! I'm going to be Donko's subordinate to Akuji!","Por supuesto. Has hecho tanto por mí que tengo que devolverte el favor.
  ¡Donko será el subordinado de Akuji! ¡Seré tu subordinado!"
-"Yamamoto Akuji (talking)";"…………くっつくな、暑いから。";"………… Don't stick around, it's too hot.";"………… No se peguen, hace demasiado calor."
-"Yamamoto Akuji (thinking)";"前んとき、結構反応良かったからな。 もう一発くれぇヤりゃあ…………";"I had a pretty good response the last time. I'm already Ippatsu give me some more …………";"La última vez tuve una buena respuesta. Ahora Ippatsu dame un poco más…………"
-"Yamamoto Akuji (talking)";"……ん？";"…… hmm?";"…… ¿hmm?"
-"Honoo Donko (talking)";"んなー、むにぃ、ふにい~~~。";"Nnnnny, mmmm, funniii~~.";"¡Nneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!"
-"Yamamoto Akuji (talking)";"……………………";"……………………";"……………………"
-"Honoo Donko (talking)";"うにゅにゃむにゃ~。";"Unyumnya~.";"Unyumnya~."
-"Yamamoto Akuji (talking)";"……こら。 何で俺にくっついてくんだよ、おめー。";"…… Come on. Why are you sticking it to me, you little bitch?";"…… Vamos. ¿Por qué me la estás pegando, mierdecilla?"
-"Honoo Donko (talking)";"ふにゅう、すりすりすり……";"Inyin, rub rub rub ……";"Inyin, roce y roce: ……"
-"Yamamoto Akuji (talking)";"真っ赤になったほっぺを擦り付けるな。 着ぐるみの足を絡ませるな。";"Don't rub your bright red cheeks. Don't get your stuffed feet tangled.";"No te frotes las mejillas rojas y brillantes. No te enredes los pies rellenos."
-"Honoo Donko (talking)";"だってだって…… ……悪司しゃん、すきー。";"Because…… ……Akuji-shian, suki.";"Porque…… ……Akuji-shian, suki."
-"Yamamoto Akuji (talking)";"………………";"………………";"………………"
-"Honoo Donko (talking)";"あのー、好きな人います？";"Um, do you have a favorite?";"¿Tienes un favorito?"
-"Yamamoto Akuji (talking)";"お前じゃない事だけは確実だ。";"The only thing I'm sure of is that it's not you.";"De lo único que estoy seguro es de que no eres tú."
-"Honoo Donko (talking)";"じゃあ、恋人二号で！";"Okay, on lover number two!";"¡Entonces por el amante número dos!"
-"Yamamoto Akuji (talking)";"お前なんぞ恋人百二十八号だ。";"You are the 128th lover.";"Eres el 128º amante."
-"Honoo Donko (talking)";"それでもおっけーでーす！";"But that's OK!";"Pero no pasa nada."
-"Yamamoto Akuji (talking)";"そうか。 なら俺のために働くか？";"Okay. Then you work for me?";"Sí. Entonces, ¿trabajas para mí?"
-"Honoo Donko (talking)";"……ふに？";"…… Funi?";"…… ¿Funi?"
-"Yamamoto Akuji (talking)";"地域管理組合の仕事を手伝え。 そしたら褒美として可愛がってやる。 どうだ？";"Help me with the work of the local management association. I'll treat you well as a reward. How's that sound?";"Colaborar con el trabajo de la asociación de gestión local. Entonces te trataré bien como recompensa. ¿Qué te parece?"
-"Honoo Donko (talking)";"あ…………はいはいはいはいはーい！ どん子は悪司しゃんのために働きま~す！";"Ah………… yes yes yes yes yes yes! Donko will work for Akuji!";"¡Ah………… si si si si si si! ¡Donko trabajará para Akuji!"
-"Yamamoto Akuji (talking)";"……………… 解ったから、掌の肉球を押しつけるな……";"……………… I get it, don't press the meatballs of your palms against it ……";"……………… Muy bien, así que no presione sus palmas contra las albóndigas: ……"
-"Yamamoto Akuji (thinking)";"こんなの娼婦にして売れんのか……？
-まあ、物好きはいるもんだしな。 タマネギに押しつけちまえ。";"Can you sell this kind of thing as a hooker at ……?
-Well, there are people who like them. Let Tamanegi take care of it.";"¿Puedes vender estas cosas como prostitutas ……?
+"Yamamoto Akuji (talking)","…………くっつくな、暑いから。","………… Don't stick around, it's too hot.","………… No se peguen, hace demasiado calor."
+"Yamamoto Akuji (thinking)","前んとき、結構反応良かったからな。 もう一発くれぇヤりゃあ…………","I had a pretty good response the last time. I'm already Ippatsu give me some more …………","La última vez tuve una buena respuesta. Ahora Ippatsu dame un poco más…………"
+"Yamamoto Akuji (talking)","……ん？","…… hmm?","…… ¿hmm?"
+"Honoo Donko (talking)","んなー、むにぃ、ふにい~~~。","Nnnnny, mmmm, funniii~~.","¡Nneeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!"
+"Yamamoto Akuji (talking)","……………………","……………………","……………………"
+"Honoo Donko (talking)","うにゅにゃむにゃ~。","Unyumnya~.","Unyumnya~."
+"Yamamoto Akuji (talking)","……こら。 何で俺にくっついてくんだよ、おめー。","…… Come on. Why are you sticking it to me, you little bitch?","…… Vamos. ¿Por qué me la estás pegando, mierdecilla?"
+"Honoo Donko (talking)","ふにゅう、すりすりすり……","Inyin, rub rub rub ……","Inyin, roce y roce: ……"
+"Yamamoto Akuji (talking)","真っ赤になったほっぺを擦り付けるな。 着ぐるみの足を絡ませるな。","Don't rub your bright red cheeks. Don't get your stuffed feet tangled.","No te frotes las mejillas rojas y brillantes. No te enredes los pies rellenos."
+"Honoo Donko (talking)","だってだって…… ……悪司しゃん、すきー。","Because…… ……Akuji-shian, suki.","Porque…… ……Akuji-shian, suki."
+"Yamamoto Akuji (talking)","………………","………………","………………"
+"Honoo Donko (talking)","あのー、好きな人います？","Um, do you have a favorite?","¿Tienes un favorito?"
+"Yamamoto Akuji (talking)","お前じゃない事だけは確実だ。","The only thing I'm sure of is that it's not you.","De lo único que estoy seguro es de que no eres tú."
+"Honoo Donko (talking)","じゃあ、恋人二号で！","Okay, on lover number two!","¡Entonces por el amante número dos!"
+"Yamamoto Akuji (talking)","お前なんぞ恋人百二十八号だ。","You are the 128th lover.","Eres el 128º amante."
+"Honoo Donko (talking)","それでもおっけーでーす！","But that's OK!","Pero no pasa nada."
+"Yamamoto Akuji (talking)","そうか。 なら俺のために働くか？","Okay. Then you work for me?","Sí. Entonces, ¿trabajas para mí?"
+"Honoo Donko (talking)","……ふに？","…… Funi?","…… ¿Funi?"
+"Yamamoto Akuji (talking)","地域管理組合の仕事を手伝え。 そしたら褒美として可愛がってやる。 どうだ？","Help me with the work of the local management association. I'll treat you well as a reward. How's that sound?","Colaborar con el trabajo de la asociación de gestión local. Entonces te trataré bien como recompensa. ¿Qué te parece?"
+"Honoo Donko (talking)","あ…………はいはいはいはいはーい！ どん子は悪司しゃんのために働きま~す！","Ah………… yes yes yes yes yes yes! Donko will work for Akuji!","¡Ah………… si si si si si si! ¡Donko trabajará para Akuji!"
+"Yamamoto Akuji (talking)","……………… 解ったから、掌の肉球を押しつけるな……","……………… I get it, don't press the meatballs of your palms against it ……","……………… Muy bien, así que no presione sus palmas contra las albóndigas: ……"
+"Yamamoto Akuji (thinking)","こんなの娼婦にして売れんのか……？
+まあ、物好きはいるもんだしな。 タマネギに押しつけちまえ。","Can you sell this kind of thing as a hooker at ……?
+Well, there are people who like them. Let Tamanegi take care of it.","¿Puedes vender estas cosas como prostitutas ……?
 Bueno, hay gente a la que le gustan las cosas. Empújalos a Tamanegi."
-"Honoo Donko (talking)";"……ふにゃん？";"…… mmmm?";"…… ¿Hunyan?"
-"Yamamoto Akuji (talking)";"密子さーん、 タマネギに連絡つけといてくれ。";"Mitsuko, please contact Tamanegi.";"Mitsuko, mantén a Tamanegi informado."
-"Hikage Mitsuko (talking)";"…………はい… それでは、すぐに……";"…………Yes… So let's get right to it: ……";"………… Sí… Así que vayamos al grano: ……"
-"Honoo Donko (talking)";"た、たまねぎ……？　ほやん？？？";"Ta, onion ……?　Hoyan?";"¿Ta, onions……?　¿Hoyan?"
-"Yamamoto Akuji (talking)";"まあ気にすんな。 こっちの事よ。";"Don't worry about it. I'm talking about us.";"Bueno, no te preocupes. Me refiero a esto."
-"Yamamoto Akuji (talking)";"………………そうか、そうだぜ。 何で今まで気付かなかったんだ？
+"Honoo Donko (talking)","……ふにゃん？","…… mmmm?","…… ¿Hunyan?"
+"Yamamoto Akuji (talking)","密子さーん、 タマネギに連絡つけといてくれ。","Mitsuko, please contact Tamanegi.","Mitsuko, mantén a Tamanegi informado."
+"Hikage Mitsuko (talking)","…………はい… それでは、すぐに……","…………Yes… So let's get right to it: ……","………… Sí… Así que vayamos al grano: ……"
+"Honoo Donko (talking)","た、たまねぎ……？　ほやん？？？","Ta, onion ……?　Hoyan?","¿Ta, onions……?　¿Hoyan?"
+"Yamamoto Akuji (talking)","まあ気にすんな。 こっちの事よ。","Don't worry about it. I'm talking about us.","Bueno, no te preocupes. Me refiero a esto."
+"Yamamoto Akuji (talking)","………………そうか、そうだぜ。 何で今まで気付かなかったんだ？
 こいつをマスコットキャラにしちまえば 大人気確実、子供客倍増間違いナシ。
- ……イケる、こりゃ絶対イケるぜ。";"……………… Well, yeah, man. Why didn't I notice this before?
-If we make him a mascot character, he will be very popular and will surely double the number of children's customers.…… is good, this is definitely good.";"……………… Bueno, sí, hombre. ¿Cómo es que no me di cuenta antes?
+ ……イケる、こりゃ絶対イケるぜ。","……………… Well, yeah, man. Why didn't I notice this before?
+If we make him a mascot character, he will be very popular and will surely double the number of children's customers.…… is good, this is definitely good.","……………… Bueno, sí, hombre. ¿Cómo es que no me di cuenta antes?
 Si lo convertimos en un personaje mascota, será muy popular y tendremos el doble de niños.…… Es bueno, definitivamente es bueno."
-"Honoo Donko (talking)";"………………？　ほやん？";"………………?　Hoyan?";"………………?　¿Hoyan?"
-"Yamamoto Akuji (talking)";"よう、着ぐるみ女。 ハンバーガー屋で働く気はねぇか？";"Hey there, costumed lady. You wanna work in a hamburger shop?";"Hola, señora disfrazada. ¿Quieres trabajar en una hamburguesería?"
-"Honoo Donko (talking)";"……はんばーがーやさん……";"……Hamburgerya: ……";"……Hamburgerya ……"
-"Yamamoto Akuji (talking)";"今のおめーはどのみち捕虜だ、 生かすも殺すも俺の胸三寸。 ヤだっつっても働いてもらうが……
-まあ、客商売がマジで苦手なら ちと考えにゃならんけどよ。";"You're a prisoner of war now anyway, and it's up to me to decide whether to let you live or Satsu. If you don't like it, you'll still have to work for me……
-Well, if you're really bad at customer service, you might want to think about it.";"De todos modos, ahora eres un prisionero de guerra, y puedo dejarte vivir o Satsu a mi merced. Si no te gusta, tendrás que seguir trabajando para mí……
+"Honoo Donko (talking)","………………？　ほやん？","………………?　Hoyan?","………………?　¿Hoyan?"
+"Yamamoto Akuji (talking)","よう、着ぐるみ女。 ハンバーガー屋で働く気はねぇか？","Hey there, costumed lady. You wanna work in a hamburger shop?","Hola, señora disfrazada. ¿Quieres trabajar en una hamburguesería?"
+"Honoo Donko (talking)","……はんばーがーやさん……","……Hamburgerya: ……","……Hamburgerya ……"
+"Yamamoto Akuji (talking)","今のおめーはどのみち捕虜だ、 生かすも殺すも俺の胸三寸。 ヤだっつっても働いてもらうが……
+まあ、客商売がマジで苦手なら ちと考えにゃならんけどよ。","You're a prisoner of war now anyway, and it's up to me to decide whether to let you live or Satsu. If you don't like it, you'll still have to work for me……
+Well, if you're really bad at customer service, you might want to think about it.","De todos modos, ahora eres un prisionero de guerra, y puedo dejarte vivir o Satsu a mi merced. Si no te gusta, tendrás que seguir trabajando para mí……
 Bueno, si eres realmente malo en el servicio al cliente, puede que quieras pensarlo dos veces."
-"Honoo Donko (talking)";"あ、はいはいはい！ どん子、お客さん相手のお仕事、大好き！";"Oh, yes, yes, yes! Donko, I love working with customers!";"¡Ah, sí, sí, sí! Donko, ¡me encanta trabajar con los clientes!"
-"Yamamoto Akuji (talking)";"よっしゃ。 何となくそうだろうと思ってたぜ。
- ……密子さーん、 小春さんに連絡つけといてくれ。";"Good to know. I somehow knew that would be the case.
- ……Mitsuko, please contact Koharu.";"Sí. De alguna manera pensé que sería así.
+"Honoo Donko (talking)","あ、はいはいはい！ どん子、お客さん相手のお仕事、大好き！","Oh, yes, yes, yes! Donko, I love working with customers!","¡Ah, sí, sí, sí! Donko, ¡me encanta trabajar con los clientes!"
+"Yamamoto Akuji (talking)","よっしゃ。 何となくそうだろうと思ってたぜ。
+ ……密子さーん、 小春さんに連絡つけといてくれ。","Good to know. I somehow knew that would be the case.
+ ……Mitsuko, please contact Koharu.","Sí. De alguna manera pensé que sería así.
  ……Mitsuko, por favor contacta con Koharu."
-"Hikage Mitsuko (talking)";"…………はい… それでは、すぐに……";"…………Yes… So let's get right to it: ……";"………… Sí… Así que vayamos al grano: ……"
-"Yamamoto Akuji (talking)";"よーし、小春さんが来るまでに この契約書へビシッとサインしとけよー。";"All right, you should sign this contract before Mr. Koharu arrives.";"Bien, tienes que firmar este contrato antes de que llegue Koharu."
-"Honoo Donko (talking)";"はーい♪
- ………………あ。 ど、どん子、この手じゃ鉛筆持てない……";"Hai â
- ………………Ah. Do,  Donko, I can't hold a pencil with these hands……";"Hai â……………… Ah. Do,  Donko, no puedo sostener un lápiz con estas manos……"
-"Yamamoto Akuji (talking)";"契約書を書く時くらい着ぐるみ脱げよ……";"You should at least take your clothes off when you're writing a contract: ……";"Al menos quítate la ropa cuando escribas un contrato……"
-"Yamamoto Akuji (talking)";"ふ~、昼飯も食ったし、 ちょいと昼寝でもしとくか……
+"Hikage Mitsuko (talking)","…………はい… それでは、すぐに……","…………Yes… So let's get right to it: ……","………… Sí… Así que vayamos al grano: ……"
+"Yamamoto Akuji (talking)","よーし、小春さんが来るまでに この契約書へビシッとサインしとけよー。","All right, you should sign this contract before Mr. Koharu arrives.","Bien, tienes que firmar este contrato antes de que llegue Koharu."
+"Honoo Donko (talking)","はーい♪
+ ………………あ。 ど、どん子、この手じゃ鉛筆持てない……","Hai â
+ ………………Ah. Do,  Donko, I can't hold a pencil with these hands……","Hai â……………… Ah. Do,  Donko, no puedo sostener un lápiz con estas manos……"
+"Yamamoto Akuji (talking)","契約書を書く時くらい着ぐるみ脱げよ……","You should at least take your clothes off when you're writing a contract: ……","Al menos quítate la ropa cuando escribas un contrato……"
+"Yamamoto Akuji (talking)","ふ~、昼飯も食ったし、 ちょいと昼寝でもしとくか……
  ……ん？
-誰だ、裏の戸を 開けっ放しにしてるヤツは……";"Well, I've had lunch and I think I'll take a little nap………… Hmm?
-Who left the back door open? ……";"Hmm, ya he comido, creo que me echaré una siestecita………… ¿Hmm?
+誰だ、裏の戸を 開けっ放しにしてるヤツは……","Well, I've had lunch and I think I'll take a little nap………… Hmm?
+Who left the back door open? ……","Hmm, ya he comido, creo que me echaré una siestecita………… ¿Hmm?
  ¿Quién dejó la puerta trasera abierta? ……"
-"narrator";"そうして、悪司が事務所の裏手に出ると──";"Akuji then went out the back of the office and…";"Así que Akuji salió por la parte de atrás de la oficina y…"
-"Honoo Donko (talking)";"…………すやすやぴー…… ……すやすやぴー…………
- ……むにゃむにゃ…………";"………… Sasuyapi…… …… Sasuyapi… ………
- ……MunyaMunya…………";"………… Sasuyapi…… …… Sasuyapi… ………
+"narrator","そうして、悪司が事務所の裏手に出ると──","Akuji then went out the back of the office and…","Así que Akuji salió por la parte de atrás de la oficina y…"
+"Honoo Donko (talking)","…………すやすやぴー…… ……すやすやぴー…………
+ ……むにゃむにゃ…………","………… Sasuyapi…… …… Sasuyapi… ………
+ ……MunyaMunya…………","………… Sasuyapi…… …… Sasuyapi… ………
  ……MunyaMunya…………"
-"Yamamoto Akuji (talking)";"むにゃむにゃじゃねぇだろ、こら。";"It's not squishy, you know.";"No es blanda, vamos."
-"Honoo Donko (talking)";"うにゃ…………？ あー…………悪司しゃ~ん……";"Unya…………? Ah…………AkujiSha~an……";"¿Unya…………? Ah…………AkujiSha~an……"
-"Yamamoto Akuji (talking)";"何をシエスタぶっこいてんだよ。 仕事はどうしたんだ。";"What's with all the siesta-busting? What's up with the work?";"¿Qué pasa con la siesta? ¿Qué pasa en el trabajo?"
-"Honoo Donko (talking)";"今はね~……休み時間中でぃす…………";"Right now I'm in the middle of…… break time…………";"Ahora mismo -…… estoy de descanso…………"
-"Yamamoto Akuji (talking)";"……そうか。 ならまあいいんだけどな。
-つーかよ、お前暑くねぇのか？ いくら太陽出てないからって、 そのカッコで寝てたらムレねぇか？";"…… I see. Well, that's okay then.
-Hey, isn't it hot in here? Even if the sun isn't shining, don't you feel hot if you sleep like that?";"…… Ya veo. Bueno, está bien entonces.
+"Yamamoto Akuji (talking)","むにゃむにゃじゃねぇだろ、こら。","It's not squishy, you know.","No es blanda, vamos."
+"Honoo Donko (talking)","うにゃ…………？ あー…………悪司しゃ~ん……","Unya…………? Ah…………AkujiSha~an……","¿Unya…………? Ah…………AkujiSha~an……"
+"Yamamoto Akuji (talking)","何をシエスタぶっこいてんだよ。 仕事はどうしたんだ。","What's with all the siesta-busting? What's up with the work?","¿Qué pasa con la siesta? ¿Qué pasa en el trabajo?"
+"Honoo Donko (talking)","今はね~……休み時間中でぃす…………","Right now I'm in the middle of…… break time…………","Ahora mismo -…… estoy de descanso…………"
+"Yamamoto Akuji (talking)","……そうか。 ならまあいいんだけどな。
+つーかよ、お前暑くねぇのか？ いくら太陽出てないからって、 そのカッコで寝てたらムレねぇか？","…… I see. Well, that's okay then.
+Hey, isn't it hot in here? Even if the sun isn't shining, don't you feel hot if you sleep like that?","…… Ya veo. Bueno, está bien entonces.
 Oye, ¿no hace calor aquí? Aunque no brille el sol, ¿no pasarías calor si durmieras con esa ropa?"
-"Honoo Donko (talking)";"ぽかぽかしてて…… 気持ちいいですよぉ…………
- …………ぐ~………………";"It's warm and…… comfortable…………………… ~………………";"Es cálido y…… agradable…………
+"Honoo Donko (talking)","ぽかぽかしてて…… 気持ちいいですよぉ…………
+ …………ぐ~………………","It's warm and…… comfortable…………………… ~………………","Es cálido y…… agradable…………
  …………gu ~………………"
-"Yamamoto Akuji (talking)";"…………まあ、ほっとくか……";"………… Well, leave it alone: ……";"………… Bueno, déjalo en paz: ……"
-"narrator";"──しばらくして。";"─ After a while.";"─ ─ Después de un tiempo."
-"Yamamoto Akuji (talking)";"ちっ……寝ながら推理小説なんか 読むもんじゃねえな、 すっかり目ぇ醒めちまった……
+"Yamamoto Akuji (talking)","…………まあ、ほっとくか……","………… Well, leave it alone: ……","………… Bueno, déjalo en paz: ……"
+"narrator","──しばらくして。","─ After a while.","─ ─ Después de un tiempo."
+"Yamamoto Akuji (talking)","ちっ……寝ながら推理小説なんか 読むもんじゃねえな、 すっかり目ぇ醒めちまった……
 まあいい、 事務所の椅子で茶でも啜りながら 真犯人が解るとこまで……
  ……ん？
-どん子のヤツ、また裏の戸を 開けっ放しにしてやがんのか……？";"Damn…… don't read mystery novels in bed, I'm all woke up ……
+どん子のヤツ、また裏の戸を 開けっ放しにしてやがんのか……？","Damn…… don't read mystery novels in bed, I'm all woke up ……
 Oh well, I'll just sit in my office chair and sip tea until I figure out who the real killer is: ……
  ……?
-Did Donko leave the back door open again? ……";"Mierda…… no leas novelas de misterio mientras duermes. Estoy todo despierto……
+Did Donko leave the back door open again? ……","Mierda…… no leas novelas de misterio mientras duermes. Estoy todo despierto……
 Oh, bueno, me sentaré en mi silla de oficina y tomaré té hasta que descubra quién es el verdadero asesino……
  ……?
  ¿Dejó Donko la puerta trasera abierta otra vez? ……"
-"narrator";"そうして、悪司が事務所の裏手に出ると──";"Akuji then went out the back of the office and…";"Así que Akuji salió por la parte de atrás de la oficina y…"
-"Honoo Donko (talking)";"…………すやすやぴー…… ……すやすやぴー…………";"………… soothing…… ………… soothing…… …………";"………… suyasayapi………… suyasayapi…………"
-"shoujo (talking)";"……むにゃむにゃ…………";"…… munny munny …………";""
-"Yamamoto Akuji (talking)";"……どこのガキだ、こいつは。 どん子のファンってヤツか？
-えらい幸せそうにどん子の毛皮を 握りしめてやがるが……";"…… Where is this kid from, this guy? Is he a Donko fan?
-He's clutching Donko's fur like he's so happy……";"…… ¿De dónde es este chico? ¿Es un fan de Donko?
+"narrator","そうして、悪司が事務所の裏手に出ると──","Akuji then went out the back of the office and…","Así que Akuji salió por la parte de atrás de la oficina y…"
+"Honoo Donko (talking)","…………すやすやぴー…… ……すやすやぴー…………","………… soothing…… ………… soothing…… …………","………… suyasayapi………… suyasayapi…………"
+"shoujo (talking)","……むにゃむにゃ…………","…… munny munny …………",""
+"Yamamoto Akuji (talking)","……どこのガキだ、こいつは。 どん子のファンってヤツか？
+えらい幸せそうにどん子の毛皮を 握りしめてやがるが……","…… Where is this kid from, this guy? Is he a Donko fan?
+He's clutching Donko's fur like he's so happy……","…… ¿De dónde es este chico? ¿Es un fan de Donko?
 Se agarra a la piel de Donko como si fuera tan feliz……"
-"Honoo Donko (talking)";"あ~……悪司しゃん、しーっ…… この子、起きちゃう……";"Ohhh ……Akuji shhhh, shhhh…… This girl is going to wake up ……";"Ohhh ……Akuji shhhh, shhhh…… Esta chica se va a despertar ……"
-"Yamamoto Akuji (talking)";"おめーなあ…… 事務所にパンピーのガキ入れんなよ……";"You, ……, don't let pansy kids in your office……";"Tú, ……, no dejas entrar a los niños maricas en tu oficina……"
-"Honoo Donko (talking)";"ごめんして…… どん子が責任持つから……";"Sorry,…… …… Donko is responsible for this ……";"Lo siento,…… …… Donko es el responsable."
-"Yamamoto Akuji (talking)";"………まあいいけどな、 ガキの一匹や二匹くらい。";"……… Well, okay, maybe a kid or two.";"……… Bueno, vale, quizás un niño o dos."
-"narrator";"──数十分後。";"After the count of ten.";"Después de la cuenta de diez."
-"Yamamoto Akuji (talking)";"ちっ……根性入れて読むほど オモロイ小説じゃなかったな。 損した気分だぜ……
+"Honoo Donko (talking)","あ~……悪司しゃん、しーっ…… この子、起きちゃう……","Ohhh ……Akuji shhhh, shhhh…… This girl is going to wake up ……","Ohhh ……Akuji shhhh, shhhh…… Esta chica se va a despertar ……"
+"Yamamoto Akuji (talking)","おめーなあ…… 事務所にパンピーのガキ入れんなよ……","You, ……, don't let pansy kids in your office……","Tú, ……, no dejas entrar a los niños maricas en tu oficina……"
+"Honoo Donko (talking)","ごめんして…… どん子が責任持つから……","Sorry,…… …… Donko is responsible for this ……","Lo siento,…… …… Donko es el responsable."
+"Yamamoto Akuji (talking)","………まあいいけどな、 ガキの一匹や二匹くらい。","……… Well, okay, maybe a kid or two.","……… Bueno, vale, quizás un niño o dos."
+"narrator","──数十分後。","After the count of ten.","Después de la cuenta de diez."
+"Yamamoto Akuji (talking)","ちっ……根性入れて読むほど オモロイ小説じゃなかったな。 損した気分だぜ……
  ………………
- ……どん子はまだ寝てんのかね。";"Damn,…… that wasn't a novel I'd put my guts into. I feel like I'm missing out……
+ ……どん子はまだ寝てんのかね。","Damn,…… that wasn't a novel I'd put my guts into. I feel like I'm missing out……
  ………………
-Is ……Donko still sleeping?";"Maldita sea…… No era una novela lo suficientemente interesante como para ponerme a ello. Siento que me estoy perdiendo algo……
+Is ……Donko still sleeping?","Maldita sea…… No era una novela lo suficientemente interesante como para ponerme a ello. Siento que me estoy perdiendo algo……
  ………………
  ¿Está ……Donko todavía durmiendo?"
-"narrator";"そうして、悪司が事務所の裏手に出ると──";"Akuji then went out the back of the office and…";"Así que Akuji salió por la parte de atrás de la oficina y…"
-"shoujo (talking)";"……むにゃむにゃ…………";"…… munny munny …………";""
-"norakoogii (talking)";"わぅ…………ぐぅ…………";"Wow…………Gu…………";"Wow…………Gu…………"
-"Yamamoto Akuji (talking)";"……なんだこりゃ。";"…… What the heck is this?";"…… ¿Qué demonios es esto?"
-"Honoo Donko (talking)";"ああ、悪司しゃん…… みんな寝てるから、静かに、静かにー。";"Oh, Akuji Shan…… Everyone is sleeping, so be quiet, be quiet-.";"Oh, Akuji Shan…… todo el mundo está durmiendo, así que calla, calla-."
-"Yamamoto Akuji (talking)";"静かにって、お前…… 何でガキが十人以上に増えてんだよ。 犬や猫まで混じってるし……";"Quiet, you…… Why are there more than ten kids? Even dogs and cats are in the mix……";"Silencio, tú…… ¿Por qué hay más de diez niños? Incluso se mezclan con perros y gatos……"
-"Honoo Donko (talking)";"ふみー、どん子が寝てる間に 裏の柵越えて入ってきたみたいで……
-みーんな、どん子にもたれてるから 重くて寝られなくなっちゃった…… えへへへへ…………";"Fumi, Donko climbed over the back fence while he was sleeping……
-Everyone is leaning on Donko, so I can't sleep because I'm so heavy…… hehehehehehehehehe …………";"Fumi, Donko trepó por la valla trasera mientras dormía……
+"narrator","そうして、悪司が事務所の裏手に出ると──","Akuji then went out the back of the office and…","Así que Akuji salió por la parte de atrás de la oficina y…"
+"shoujo (talking)","……むにゃむにゃ…………","…… munny munny …………",""
+"norakoogii (talking)","わぅ…………ぐぅ…………","Wow…………Gu…………","Wow…………Gu…………"
+"Yamamoto Akuji (talking)","……なんだこりゃ。","…… What the heck is this?","…… ¿Qué demonios es esto?"
+"Honoo Donko (talking)","ああ、悪司しゃん…… みんな寝てるから、静かに、静かにー。","Oh, Akuji Shan…… Everyone is sleeping, so be quiet, be quiet-.","Oh, Akuji Shan…… todo el mundo está durmiendo, así que calla, calla-."
+"Yamamoto Akuji (talking)","静かにって、お前…… 何でガキが十人以上に増えてんだよ。 犬や猫まで混じってるし……","Quiet, you…… Why are there more than ten kids? Even dogs and cats are in the mix……","Silencio, tú…… ¿Por qué hay más de diez niños? Incluso se mezclan con perros y gatos……"
+"Honoo Donko (talking)","ふみー、どん子が寝てる間に 裏の柵越えて入ってきたみたいで……
+みーんな、どん子にもたれてるから 重くて寝られなくなっちゃった…… えへへへへ…………","Fumi, Donko climbed over the back fence while he was sleeping……
+Everyone is leaning on Donko, so I can't sleep because I'm so heavy…… hehehehehehehehehe …………","Fumi, Donko trepó por la valla trasera mientras dormía……
 Todo el mundo se apoya en Donko, así que no puedo dormir porque soy muy pesado…… jejejejejejeje …………"
-"Yamamoto Akuji (talking)";"えへへじゃねぇだろ、おい…… しんどいんじゃねぇのか？";"It's not ehehe, hey ……, you're having a hard time, aren't you?";"No es ehehe, hey…… Lo estás pasando mal, ¿no?"
-"Honoo Donko (talking)";"ウレタンとか発泡スチロールが 重さをほとんど支えてくれてるから 大丈夫ですよ~。";"It's okay, since the urethane and styrofoam support most of the weight.";"El uretano y la espuma de poliestireno soportan la mayor parte del peso, así que está bien~."
-"Yamamoto Akuji (talking)";"それにしたってなあ……
-何なら、こいつら追い返すの 手伝ってやろうか？";"For that matter… ……
-If you want, I can help you turn these guys away.";"Para ello, ya sabes… ……
+"Yamamoto Akuji (talking)","えへへじゃねぇだろ、おい…… しんどいんじゃねぇのか？","It's not ehehe, hey ……, you're having a hard time, aren't you?","No es ehehe, hey…… Lo estás pasando mal, ¿no?"
+"Honoo Donko (talking)","ウレタンとか発泡スチロールが 重さをほとんど支えてくれてるから 大丈夫ですよ~。","It's okay, since the urethane and styrofoam support most of the weight.","El uretano y la espuma de poliestireno soportan la mayor parte del peso, así que está bien~."
+"Yamamoto Akuji (talking)","それにしたってなあ……
+何なら、こいつら追い返すの 手伝ってやろうか？","For that matter… ……
+If you want, I can help you turn these guys away.","Para ello, ya sabes… ……
 Si quieres, puedo ayudarte a rechazar a estos tipos."
-"Honoo Donko (talking)";"あー、だめだめ…… せっかくみんな寝てるのにぃ……";"Oh, no, no, no, no, no……… while everyone else is sleeping… ……";"Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no……"
-"shoujo (talking)";"………………ぐす………… ママ……ママぁ…………";"………………gus………… mama…… mamaaa…………";"………………gus………… mama…… mamaa…………"
-"Honoo Donko (talking)";"あ……大丈夫、大丈夫。 ねんね、ねんねして…………";"Oh…… okay, okay. Sleep, sleep…………";"Oh…… vale, vale. Duerme, duerme…………"
-"shoujo (talking)";"…………ぐす……ん………… ママ、帰ってきて…………ママ……";"…………gus……n………… mama, come home………… mama……";"…………gus……n………… mama, come home………… mama……"
-"Honoo Donko (talking)";"大丈夫、きっと帰ってくるからねー…… ママ、きっと帰ってくるよー……
-それまでどん子が側に居るからね…… 寂しくないよー、怖くないよー……";"Don't worry, I'll be back…… Mom, I'll be back……
-Until then, Donko will be by your side…… Don't be lonely, don't be afraid……";"No te preocupes, volveré contigo…… Mamá, volveré contigo……
+"Honoo Donko (talking)","あー、だめだめ…… せっかくみんな寝てるのにぃ……","Oh, no, no, no, no, no……… while everyone else is sleeping… ……","Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no……"
+"shoujo (talking)","………………ぐす………… ママ……ママぁ…………","………………gus………… mama…… mamaaa…………","………………gus………… mama…… mamaa…………"
+"Honoo Donko (talking)","あ……大丈夫、大丈夫。 ねんね、ねんねして…………","Oh…… okay, okay. Sleep, sleep…………","Oh…… vale, vale. Duerme, duerme…………"
+"shoujo (talking)","…………ぐす……ん………… ママ、帰ってきて…………ママ……","…………gus……n………… mama, come home………… mama……","…………gus……n………… mama, come home………… mama……"
+"Honoo Donko (talking)","大丈夫、きっと帰ってくるからねー…… ママ、きっと帰ってくるよー……
+それまでどん子が側に居るからね…… 寂しくないよー、怖くないよー……","Don't worry, I'll be back…… Mom, I'll be back……
+Until then, Donko will be by your side…… Don't be lonely, don't be afraid……","No te preocupes, volveré contigo…… Mamá, volveré contigo……
 Hasta entonces, Donko estará a tu lado…… No estaré solo, no tendré miedo……"
-"Yamamoto Akuji (talking)";"……何だそいつ、戦災孤児か？";"…… What is that guy, a war orphan?";"…… ¿Qué es ese tipo, un huérfano de guerra?"
-"Honoo Donko (talking)";"うにゃ……？ 聞いた事ないけど……多分。";"Unyi ……? I've never heard of it but…… maybe.";"¿Uny……? Nunca he oído hablar de ella, pero…… tal vez."
-"Yamamoto Akuji (talking)";"………………えらいまた、 着ぐるみに顔埋めてんなあ…… 泣きべそかきながら……
+"Yamamoto Akuji (talking)","……何だそいつ、戦災孤児か？","…… What is that guy, a war orphan?","…… ¿Qué es ese tipo, un huérfano de guerra?"
+"Honoo Donko (talking)","うにゃ……？ 聞いた事ないけど……多分。","Unyi ……? I've never heard of it but…… maybe.","¿Uny……? Nunca he oído hablar de ella, pero…… tal vez."
+"Yamamoto Akuji (talking)","………………えらいまた、 着ぐるみに顔埋めてんなあ…… 泣きべそかきながら……
  ………………
-おめーみたいなヤツでも、 誰かの役には立ってたんだなー……";"……………… You've buried your face in the stuffed animal again…… While crying……
+おめーみたいなヤツでも、 誰かの役には立ってたんだなー……","……………… You've buried your face in the stuffed animal again…… While crying……
  ………………
-I guess even a guy like you was useful to someone ……";"……………… Tienes la cara enterrada en el peluche de nuevo…… Mientras llora……
+I guess even a guy like you was useful to someone ……","……………… Tienes la cara enterrada en el peluche de nuevo…… Mientras llora……
  ………………
 Supongo que incluso un tipo como tú era útil para alguien……"
-"Honoo Donko (talking)";"ほやん……？";"Hoyan ……?";"Hoyan ……?"
-"Yamamoto Akuji (talking)";"まあ頑張れ、俺には何も出来ねぇけど。 せめてそっとしといてやろう。
-んじゃな。";"Well, good luck. There's nothing I can do. I'll leave you alone at least.
-See you later.";"Bueno, buena suerte, no hay nada que pueda hacer. Al menos te dejaré en paz.
+"Honoo Donko (talking)","ほやん……？","Hoyan ……?","Hoyan ……?"
+"Yamamoto Akuji (talking)","まあ頑張れ、俺には何も出来ねぇけど。 せめてそっとしといてやろう。
+んじゃな。","Well, good luck. There's nothing I can do. I'll leave you alone at least.
+See you later.","Bueno, buena suerte, no hay nada que pueda hacer. Al menos te dejaré en paz.
 Hasta luego."
-"Honoo Donko (talking)";"はーい、どうもで~す。";"Yes, thank you very much.";"Sí, gracias."
-"Honoo Donko (talking)";"ずんどんばんばん♪　ほえほえ~♪ ずんどんばんばん♪　ほえほえ~♪ しゅみむにゃ~~~~……
- ……おいっす、タマネギしゃん！ 今日もよくハゲてるですね！";"Zundonbanban ♪ hoe hoe~♪ Zundonban ♪ hoe hoe~♪ Shumimnya ~~~~………… Hey, Tamanegi Shan! You're looking bald again today!";"Zundonbanban ♪ hoe hoe~♪ Zundonban ♪ hoe hoe~♪ Shumimnya ~~~~………… ¡Hey, Tamanegi Shan! ¡Hoy estás muy calvo!"
-"Tamanegi (talking)";"おやおや……どん子さん。 今日もご機嫌ですね？";"Oh hey, ……Donko. You're in a good mood today, aren't you?";"Oh, hey, ……Donko. Hoy estás de buen humor, ¿verdad?"
-"Honoo Donko (talking)";"カラ元気で~~~~~す！
- …………実はどん子、 最近の調教で結構へろへろ…… むにゅう……";"I'm fine and I'm ~~~~~ fine!………… Actually Donko, I'm quite exhausted from my recent training…… Muyong… …";"¡Me siento bien y estoy ~~~~~ bien!………… En realidad Donko, estoy bastante agotado por mi reciente entrenamiento…… Muyong… …"
-"Tamanegi (talking)";"安心なさい。 今日の調教で合格点がつけば、 数日間のお休みを差し上げましょう。";"Rest assured. If today's training is successful, we'll give you a few days off.";"No te preocupes. Si consigues un aprobado en tu entrenamiento de hoy, te daremos unos días libres."
-"Honoo Donko (talking)";"……ほへん？";"…… Hohen?";"…… ¿Hohen?"
-"Tamanegi (talking)";"あなたは、ここへ来た当初こそ 躰を開くことを悪だと思い込んで 拒絶していましたが……
+"Honoo Donko (talking)","はーい、どうもで~す。","Yes, thank you very much.","Sí, gracias."
+"Honoo Donko (talking)","ずんどんばんばん♪　ほえほえ~♪ ずんどんばんばん♪　ほえほえ~♪ しゅみむにゃ~~~~……
+ ……おいっす、タマネギしゃん！ 今日もよくハゲてるですね！","Zundonbanban ♪ hoe hoe~♪ Zundonban ♪ hoe hoe~♪ Shumimnya ~~~~………… Hey, Tamanegi Shan! You're looking bald again today!","Zundonbanban ♪ hoe hoe~♪ Zundonban ♪ hoe hoe~♪ Shumimnya ~~~~………… ¡Hey, Tamanegi Shan! ¡Hoy estás muy calvo!"
+"Tamanegi (talking)","おやおや……どん子さん。 今日もご機嫌ですね？","Oh hey, ……Donko. You're in a good mood today, aren't you?","Oh, hey, ……Donko. Hoy estás de buen humor, ¿verdad?"
+"Honoo Donko (talking)","カラ元気で~~~~~す！
+ …………実はどん子、 最近の調教で結構へろへろ…… むにゅう……","I'm fine and I'm ~~~~~ fine!………… Actually Donko, I'm quite exhausted from my recent training…… Muyong… …","¡Me siento bien y estoy ~~~~~ bien!………… En realidad Donko, estoy bastante agotado por mi reciente entrenamiento…… Muyong… …"
+"Tamanegi (talking)","安心なさい。 今日の調教で合格点がつけば、 数日間のお休みを差し上げましょう。","Rest assured. If today's training is successful, we'll give you a few days off.","No te preocupes. Si consigues un aprobado en tu entrenamiento de hoy, te daremos unos días libres."
+"Honoo Donko (talking)","……ほへん？","…… Hohen?","…… ¿Hohen?"
+"Tamanegi (talking)","あなたは、ここへ来た当初こそ 躰を開くことを悪だと思い込んで 拒絶していましたが……
 今では、見知らぬ男性に 持ち前の明るさで甘えることも できるようになりました。
-娼婦として、あと一息です。 もう少しであなたはプロになれます。";"When you first came here, you refused to open your body because you thought it was evil……
+娼婦として、あと一息です。 もう少しであなたはプロになれます。","When you first came here, you refused to open your body because you thought it was evil……
 But now you are able to sweet-talk strange men with your natural cheerfulness.
-As a prostitute, you are almost there. Soon you will be a professional.";"Cuando viniste por primera vez, te negaste a abrir tu cuerpo porque pensabas que era malo……
+As a prostitute, you are almost there. Soon you will be a professional.","Cuando viniste por primera vez, te negaste a abrir tu cuerpo porque pensabas que era malo……
 Pero ahora eres capaz de engatusar a hombres extraños con tu alegría natural.
 Como prostituta, ya casi estás ahí. Pronto serás un profesional."
-"Honoo Donko (talking)";"うにゃん~…… 哀しいような、嬉しいような……";"Unyan~…… sad and happy ……";"Unyan~…… triste y feliz……"
-"Tamanegi (talking)";"お喜びなさい。素直に。";"Rejoice. Be honest.";"Alégrate. Sé sincero."
-"Honoo Donko (talking)";"……はーい。 その方がココロ楽ちんだし♪";"…… Yes. It's easier on the soul.";"…… Sí. Es mÃ¡s fÃ¡cil para el alma.â"
-"Tamanegi (talking)";"そうそう、その気持ちを忘れずに。
+"Honoo Donko (talking)","うにゃん~…… 哀しいような、嬉しいような……","Unyan~…… sad and happy ……","Unyan~…… triste y feliz……"
+"Tamanegi (talking)","お喜びなさい。素直に。","Rejoice. Be honest.","Alégrate. Sé sincero."
+"Honoo Donko (talking)","……はーい。 その方がココロ楽ちんだし♪","…… Yes. It's easier on the soul.","…… Sí. Es mÃ¡s fÃ¡cil para el alma.â"
+"Tamanegi (talking)","そうそう、その気持ちを忘れずに。
 あなたの心は柔軟で、とても強い。 良い娼婦になれますよ……
- ……では、今日の調教を始めましょうか。";"Oh yes, don't forget that feeling.
+ ……では、今日の調教を始めましょうか。","Oh yes, don't forget that feeling.
 Your mind is flexible and very strong. You will make a good whore……
-Let's Hajime for today's training at …….";"Sí, sí, no olvides esa sensación.
+Let's Hajime for today's training at …….","Sí, sí, no olvides esa sensación.
 Tu mente es flexible y muy fuerte. Puedes ser una buena puta……
 Vamos a Hajime el entrenamiento de hoy en ……."
-"Honoo Donko (talking)";"おいっす！";"Hey!";"¡Oye!"
-"cg narrator";"「ふ、や…………！　ふにゃあああああっ！！ 　さ、裂けちゃうよぉ……！ 　どん子裂けちゃうぅ………………！！！」
+"Honoo Donko (talking)","おいっす！","Hey!","¡Oye!"
+"cg narrator","「ふ、や…………！　ふにゃあああああっ！！ 　さ、裂けちゃうよぉ……！ 　どん子裂けちゃうぅ………………！！！」
 タマネギの雇った調教補助の男が入り込むと、 どん子はたまらず悲鳴を上げる。
  「こ、こわれ……壊れちゃうよおおっ……！ 　どん子、どん子…………壊れちゃうっ……！」
 その声は、聞く物に寒気すら感じさせた。
@@ -902,7 +902,7 @@ Vamos a Hajime el entrenamiento de hoy en ……."
  「……ああ、優しくするとも…… 　なるべく早く終わらせるからな…………」
  「…………うや…………ありがとお…… 　おにいしゃん……やさしい…………すき……」
 そして男は、我慢することを一切やめて、 純粋に射精するためだけに腰をつかい始める。
- 「ふ、ふや……ふやああああっ…………！ 　やあ、ふやああ……ふやあああああっ……！！」";"”Fu, ya …………!　Oh, it's ripping! 　It's gonna rip……! 　Donko I'm ripping ………………!!!!”
+ 「ふ、ふや……ふやああああっ…………！ 　やあ、ふやああ……ふやあああああっ……！！」","”Fu, ya …………!　Oh, it's ripping! 　It's gonna rip……! 　Donko I'm ripping ………………!!!!”
 When a man hired by Tamanegi to help train her enters, Donko screams uncontrollably.
 I'm going to break…… it! 　Donko, Donko………… break!
 His voice even gave a chill to those who heard it.
@@ -954,7 +954,7 @@ The moist eyes of Donko look up at the man.
  “……Yeah, I'll be gentle,…… and I'll get it over with as soon as possible,………….”
  “…………Uya………… thanks o…… oniisan…… kindly………… suki……”
 And then the man stops holding back altogether and Hajime his hips just to ejaculate in Jun style.
- “Fuyaa……fyaaahhhh…………! 　Hey, Fuyaaaa…… Fuyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!”";"¡'Fu, ya …………!　¡Oh, Dios mío! 　Se va a rasgar. ¡……! 　Donko Estoy arrancando ………………!!!!”
+ “Fuyaa……fyaaahhhh…………! 　Hey, Fuyaaaa…… Fuyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!”","¡'Fu, ya …………!　¡Oh, Dios mío! 　Se va a rasgar. ¡……! 　Donko Estoy arrancando ………………!!!!”
 Cuando el asistente de entrenamiento contratado por Tamanegi entra, Donko grita incontroladamente.
  '¡Oh, Dios mío, vas a romper ……!' 　Donko, Donko………… romper ……!”
 La voz incluso provocó un escalofrío a los que la escucharon.
@@ -1006,28 +1006,28 @@ Los ojos húmedos de Donko miran al hombre.
  '………… uya………… gracias o…… oniisan…… kindly………… suki…….”
 El hombre deja entonces de intentar contenerse en absoluto, y utiliza sus caderas sólo para eyacular Jun chicly y Hajime.
  “¡Fu, fuya…… fuyaaaaahhh…………!"
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"cg narrator";"「…………上出来です…… 　あなたは本能的に、人へ媚びることを 　知っているのですね……そう、演技でなく……」
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"cg narrator","「…………上出来です…… 　あなたは本能的に、人へ媚びることを 　知っているのですね……そう、演技でなく……」
 タマネギがほくそ笑む。 ──知りたかったのは、その一点のみだったから。
- 「仔猫を抱くように……ですか。 　実に面白い素材でしたよ。 　ふふ、売りに出す日が楽しみだ……」";"”………… well done…… You instinctively know how to flatter people… …yes, not acting ……”
+ 「仔猫を抱くように……ですか。 　実に面白い素材でしたよ。 　ふふ、売りに出す日が楽しみだ……」","”………… well done…… You instinctively know how to flatter people… …yes, not acting ……”
 Tamanegi chuckles. I'm not sure what to expect, but I'm sure I'll get it.
-Is it…… like hugging a kitten? 　It was really a very interesting material. 　I'm looking forward to the day I put it up for sale …….”";"”…………” bien hecho…… Sabes instintivamente cómo coquetear con la gente… …sí, no actuar ……”
+Is it…… like hugging a kitten? 　It was really a very interesting material. 　I'm looking forward to the day I put it up for sale …….”","”…………” bien hecho…… Sabes instintivamente cómo coquetear con la gente… …sí, no actuar ……”
 Tamanegi se ríe. '- porque eso es lo único que quería saber.
  '¿Es…… como abrazar a un gatito? 　Era un material realmente interesante. 　Estoy deseando que llegue el día de ponerlo a la venta …….”"
-"??";"　調教シーン";"training scene";"escena de entrenamiento"
-"Honoo Donko (talking)";"けんかしちゃだめーーーー！ ちっちゃい子が見て マネするでしょお？！
-まったくもーーーーーっ！ 悪いオトナはどん子がおしおきーーっ！ ふやー！　がうー！！　うがにゃー！！";"Don't fight! You know what little kids will do when they see you!
-Oh, my God! Donko will punish you for being a bad boy! Get out of here!　Gah!　Gah!";"¡No peleen! Los niños pequeños te verán y te copiarán, ¿no?
+"??","　調教シーン","training scene","escena de entrenamiento"
+"Honoo Donko (talking)","けんかしちゃだめーーーー！ ちっちゃい子が見て マネするでしょお？！
+まったくもーーーーーっ！ 悪いオトナはどん子がおしおきーーっ！ ふやー！　がうー！！　うがにゃー！！","Don't fight! You know what little kids will do when they see you!
+Oh, my God! Donko will punish you for being a bad boy! Get out of here!　Gah!　Gah!","¡No peleen! Los niños pequeños te verán y te copiarán, ¿no?
  ¡Oh, Dios mío! ¡Donko castigará al chico malo! ¡Bájate!　¡Ah!　¡Ah!"
-"Tamanegi (talking)";"えーと……とにかく けんかしちゃだめーーーっ！ どん子がおしおきーーーーーっ！！";"Let's see…… Anyway, no fighting! Donko will punish you!";"¡Donko te castigará!"
-"Honoo Donko (talking)";"ふやんふやんぽん☆ ぽやんぽやんふやん☆";"Po-yan-po-yan-pon☆ Po-yan-po-yan-pon☆";"Po-yan-po-yan-pon☆ Po-yan-po-yan-pon☆"
-"shoujo (talking)";"……あっ、どん子ちゃーん！";"…… Oh, Donko you!";"…… ¡Oh, Donko tú!"
-"Honoo Donko (talking)";"おいっす、るみしゃん！ どうかした~？";"Hey, Rumi! What's wrong?";"¡Oye, Rumi! ¿Qué pasa?"
-"shounen (talking)";"向こうでドロケーやんだけどさ、 人数足んないんだよ。 どん子ねーちゃんヒマじゃない？";"We're playing “Dorokey” over there, but we don't have enough people. Don't you have time, Donko?";"Estamos haciendo un dolokay allí, pero no tenemos suficiente gente. Donko, ¿no estás ocupado?"
-"Honoo Donko (talking)";"ほややや、まさみくんも一緒か~。
-ほい！　どん子ねえちゃんが 君たちのドロケーを 楽しく愉快にしてあげやう♪";"Hoyaya, is Masami-kun with you~?
-Hey!　Donko-chan will make your dorokei fun and delightful…";"Hoyaya, ¿está Masami-kun contigo?
+"Tamanegi (talking)","えーと……とにかく けんかしちゃだめーーーっ！ どん子がおしおきーーーーーっ！！","Let's see…… Anyway, no fighting! Donko will punish you!","¡Donko te castigará!"
+"Honoo Donko (talking)","ふやんふやんぽん☆ ぽやんぽやんふやん☆","Po-yan-po-yan-pon☆ Po-yan-po-yan-pon☆","Po-yan-po-yan-pon☆ Po-yan-po-yan-pon☆"
+"shoujo (talking)","……あっ、どん子ちゃーん！","…… Oh, Donko you!","…… ¡Oh, Donko tú!"
+"Honoo Donko (talking)","おいっす、るみしゃん！ どうかした~？","Hey, Rumi! What's wrong?","¡Oye, Rumi! ¿Qué pasa?"
+"shounen (talking)","向こうでドロケーやんだけどさ、 人数足んないんだよ。 どん子ねーちゃんヒマじゃない？","We're playing “Dorokey” over there, but we don't have enough people. Don't you have time, Donko?","Estamos haciendo un dolokay allí, pero no tenemos suficiente gente. Donko, ¿no estás ocupado?"
+"Honoo Donko (talking)","ほややや、まさみくんも一緒か~。
+ほい！　どん子ねえちゃんが 君たちのドロケーを 楽しく愉快にしてあげやう♪","Hoyaya, is Masami-kun with you~?
+Hey!　Donko-chan will make your dorokei fun and delightful…","Hoyaya, ¿está Masami-kun contigo?
  ¡Oye!　Donko hará que tu dorokei sea divertido e hilarante…"
-"shoujo (talking)";"わーいっ！ 早く行こう行こう~！";"Yay! Let's go, let's go~!";"¡Sí! ¡Vamos, vamos, vamos!"
-"narrator";"今日もどん子は子供たちと戯れて、 街の人々を和ませていた。";"Today, Donko plays with children and makes the people of the town feel at home.";"Hoy, Donko ha jugado con los niños y ha hecho que los habitantes de la ciudad se sientan como en casa."
+"shoujo (talking)","わーいっ！ 早く行こう行こう~！","Yay! Let's go, let's go~!","¡Sí! ¡Vamos, vamos, vamos!"
+"narrator","今日もどん子は子供たちと戯れて、 街の人々を和ませていた。","Today, Donko plays with children and makes the people of the town feel at home.","Hoy, Donko ha jugado con los niños y ha hecho que los habitantes de la ciudad se sientan como en casa."

@@ -1,120 +1,120 @@
-"character";"jap text";"Eng";"Esp"
-"__system__??";"{麦 = 10:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 11:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 12:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 13:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 15:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 16:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 17:";"";""
-"__system__??";"{H拷問抵抗 < H拷問:";"";""
-"__system__??";"}";"";""
-"__system__??";"{H拷問 = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 18:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 19:";"";""
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
-"Hoshikuzu Yozora (talking)";"あの……出して下さい。 私、こんなところにいつまでもいては 駄目なんです。
+"character","jap text","Eng","Esp"
+"__system__??","{麦 = 10:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 11:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 12:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 13:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 15:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 16:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 17:","",""
+"__system__??","{H拷問抵抗 < H拷問:","",""
+"__system__??","}","",""
+"__system__??","{H拷問 = 1:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 18:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 19:","",""
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
+"Hoshikuzu Yozora (talking)","あの……出して下さい。 私、こんなところにいつまでもいては 駄目なんです。
 お願いです。 今行かなくちゃ、大王様が、 大王様が……
-私を迎えにきて下さるはずなんです。 お願い、出して。 私が行かないと、大王様がお怒りに…";"Please send me that ……. I can't stay in this place forever.
+私を迎えにきて下さるはずなんです。 お願い、出して。 私が行かないと、大王様がお怒りに…","Please send me that ……. I can't stay in this place forever.
 Please. I have to go now, the Great One, the Great One will come for me at ……
-The Great One will come for me. Please let me out. If I don't go, the Great Pumpkin will be angry…";"Por favor, sácame de ese ……. No puedo quedarme aquí para siempre.
+The Great One will come for me. Please let me out. If I don't go, the Great Pumpkin will be angry…","Por favor, sácame de ese ……. No puedo quedarme aquí para siempre.
 Por favor. Tengo que ir ahora, el Grande, el Grande es ……
 El Grande debe venir por mí. Por favor, déjame salir. Si no voy, la Gran Calabaza se enfadará…"
-"Yamamoto Akuji (talking)";"じゃーこーしよう。
-今から俺が、お前さんの大王だ。 俺がここにいろと言ったから、 これでＯＫ。";"So here's what I'm going to do.
-I'm your overlord from now on. I told you to stay here, so it's okay.";"Entonces hagamos esto.
+"Yamamoto Akuji (talking)","じゃーこーしよう。
+今から俺が、お前さんの大王だ。 俺がここにいろと言ったから、 これでＯＫ。","So here's what I'm going to do.
+I'm your overlord from now on. I told you to stay here, so it's okay.","Entonces hagamos esto.
 A partir de ahora, soy tu señor. Te dije que te quedaras aquí, así que esto está bien."
-"Hoshikuzu Yozora (talking)";"違います、あなたは大王様じゃないです。";"No, sir, you are not the Great One.";"No, señor, usted no es el Gran Rey."
-"Yamamoto Akuji (talking)";"いや、だからー…";"No, so…";"No, entonces…"
-"Hoshikuzu Yozora (talking)";"だって、大王様は……
+"Hoshikuzu Yozora (talking)","違います、あなたは大王様じゃないです。","No, sir, you are not the Great One.","No, señor, usted no es el Gran Rey."
+"Yamamoto Akuji (talking)","いや、だからー…","No, so…","No, entonces…"
+"Hoshikuzu Yozora (talking)","だって、大王様は……
  …………
-もういいです…… あなたには何を言っても通じなさそう… 理解など出来ません……";"Because the Great One is ……
+もういいです…… あなたには何を言っても通じなさそう… 理解など出来ません……","Because the Great One is ……
  …………
-That's enough…… You don't seem to understand anything I say to you… I don't understand you, etc……";"Porque el Grande es ……
+That's enough…… You don't seem to understand anything I say to you… I don't understand you, etc……","Porque el Grande es ……
  …………
 Es suficiente…… Parece que no entiendes nada de lo que te digo… No te entiendo, etc……."
-"Yamamoto Akuji (talking)";"そーだな。 俺もキチガイの戯言は 理解出来ねーもんな。";"That's right. I don't understand the crazy shit either.";"Así es. Yo tampoco entiendo las locuras."
-"Hoshikuzu Yozora (talking)";"…………";"…………";"…………"
-"narrator";"諦めた表情の夜空が部屋に連れられてきた。";"A Yozora with a resigned look on her face was brought into the room.";"Una Yozora de aspecto resignado entró en la sala."
-"Hoshikuzu Yozora (talking)";"あの…… 大王様は、現れましたか……？";"Did that…… Great Lord show up ……?";"¿Apareció ese…… Gran Señor ……?"
-"__system__??";"{☆夜空 > 11:";"";""
-"__system__??";"{RND = 0:";"";""
-"Yamamoto Akuji (talking)";"ああ……そいつの部下のロボットかな…
-現れたけど、退治した。 そりゃーもう、すぱっと。";"Oh,…… I think it's that guy's robot…
-It showed up, but I got rid of it. That's right, just like that.";"Oh,…… creo que es el robot de ese tipo…
+"Yamamoto Akuji (talking)","そーだな。 俺もキチガイの戯言は 理解出来ねーもんな。","That's right. I don't understand the crazy shit either.","Así es. Yo tampoco entiendo las locuras."
+"Hoshikuzu Yozora (talking)","…………","…………","…………"
+"narrator","諦めた表情の夜空が部屋に連れられてきた。","A Yozora with a resigned look on her face was brought into the room.","Una Yozora de aspecto resignado entró en la sala."
+"Hoshikuzu Yozora (talking)","あの…… 大王様は、現れましたか……？","Did that…… Great Lord show up ……?","¿Apareció ese…… Gran Señor ……?"
+"__system__??","{☆夜空 > 11:","",""
+"__system__??","{RND = 0:","",""
+"Yamamoto Akuji (talking)","ああ……そいつの部下のロボットかな…
+現れたけど、退治した。 そりゃーもう、すぱっと。","Oh,…… I think it's that guy's robot…
+It showed up, but I got rid of it. That's right, just like that.","Oh,…… creo que es el robot de ese tipo…
 Apareció, pero me deshice de él. Bueno, eso fue rápido."
-"Hoshikuzu Yozora (talking)";"がーーん………";"Gahn ………";"Ghan………"
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"あー……アレの事かな。 妙ちくりんな機械が暴れて困ってんだ。";"Ah, you mean the…… thing. I'm having trouble with some weird machine going haywire.";"Ah, te refieres a lo de ……. Estoy teniendo problemas con una maquinita rara que se descontrola."
-"Hoshikuzu Yozora (talking)";"それですっ……！！
-ああ……私がこんなとこに閉じこめられて しまっているせいで、大王様がとうとう お怒りに……";"That's ……!
-Oh,…… the Great One is finally angry with me for being cooped up in a place like this……";"¡Eso es ……!
+"Hoshikuzu Yozora (talking)","がーーん………","Gahn ………","Ghan………"
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","あー……アレの事かな。 妙ちくりんな機械が暴れて困ってんだ。","Ah, you mean the…… thing. I'm having trouble with some weird machine going haywire.","Ah, te refieres a lo de ……. Estoy teniendo problemas con una maquinita rara que se descontrola."
+"Hoshikuzu Yozora (talking)","それですっ……！！
+ああ……私がこんなとこに閉じこめられて しまっているせいで、大王様がとうとう お怒りに……","That's ……!
+Oh,…… the Great One is finally angry with me for being cooped up in a place like this……","¡Eso es ……!
 Oh,…… el Gran Señor está finalmente enfadado porque estoy atrapado aquí……"
-"Yamamoto Akuji (talking)";"なんとかなるか？";"Can you manage it?";"¿Puede hacerlo?"
-"Hoshikuzu Yozora (talking)";"無理です……もう…… 手遅れです…… 私には、何も出来ません……";"I can't do it…… already…… It's too late…… I can't do anything about it……";"No puedo…… más…… Es demasiado tarde…… No puedo hacer nada al respecto……"
-"__system__??";"}";"";""
-"__system__??";"{☆夜空 = 11:";"";""
-"Yamamoto Akuji (talking)";"ンナもん、出てねー。";"I don't get it.";"Nna mon, no voy a salir."
-"Hoshikuzu Yozora (talking)";"…………";"…………";"…………"
-"Yamamoto Akuji (talking)";"いー加減、妄想の中で遊ぶのやめねーか？ 友達一人でも作った方が建設的だぜ。";"Why don't you stop playing in your imagination? It would be more constructive to make a friend.";"¿No podemos dejar de jugar con nuestra imaginación para variar? Sería más constructivo hacer un amigo."
-"Hoshikuzu Yozora (talking)";"大王様は、きっと現れます……
+"Yamamoto Akuji (talking)","なんとかなるか？","Can you manage it?","¿Puede hacerlo?"
+"Hoshikuzu Yozora (talking)","無理です……もう…… 手遅れです…… 私には、何も出来ません……","I can't do it…… already…… It's too late…… I can't do anything about it……","No puedo…… más…… Es demasiado tarde…… No puedo hacer nada al respecto……"
+"__system__??","}","",""
+"__system__??","{☆夜空 = 11:","",""
+"Yamamoto Akuji (talking)","ンナもん、出てねー。","I don't get it.","Nna mon, no voy a salir."
+"Hoshikuzu Yozora (talking)","…………","…………","…………"
+"Yamamoto Akuji (talking)","いー加減、妄想の中で遊ぶのやめねーか？ 友達一人でも作った方が建設的だぜ。","Why don't you stop playing in your imagination? It would be more constructive to make a friend.","¿No podemos dejar de jugar con nuestra imaginación para variar? Sería más constructivo hacer un amigo."
+"Hoshikuzu Yozora (talking)","大王様は、きっと現れます……
 そして……
-そして…… この世界を滅ぼしてしまわれる…… 私がこんなとこにいる限り……";"The Great Lord will show up: ……
+そして…… この世界を滅ぼしてしまわれる…… 私がこんなとこにいる限り……","The Great Lord will show up: ……
 And ……
-And…… he will destroy this world…… as long as I am here……";"El Gran Señor aparecerá: ……
+And…… he will destroy this world…… as long as I am here……","El Gran Señor aparecerá: ……
 Y ……
 Y…… destruirá este mundo…… mientras yo esté aquí……"
-"__system__??";"}";"";""
-"Hoshikuzu Yozora (talking)";"………何するんですか？";"……… What are you doing?";"……… ¿A qué se dedica?"
-"Yamamoto Akuji (talking)";"ん~？ 妄想なんかより、お前さんがもっと 夢中になれる事だよ。";"Hmm? It's not about fantasies, it's about what you can be more passionate about.";"¿Hmm? No se trata de fantasías, sino de lo que te puede apasionar más."
-"Hoshikuzu Yozora (talking)";"……大王様より素晴らしい男性は この世に存在しません。";"There is no finer man in the world than the Great ……";"…… No hay hombre en el mundo más maravilloso que el Gran Rey."
-"Yamamoto Akuji (talking)";"まー、そう言ってな。";"Well, say so.";"Bueno, dilo."
-"Yamamoto Akuji (talking)";"………大王様………すみません。";"I'm sorry……… Great king ……….";"………El Gran Rey……… Lo siento."
-"Yamamoto Akuji (talking)";"そーいや、こんなモン手に入れてな。 いるかい？";"Well, I got this. You want some?";"Bueno, tengo esta cosa. ¿Quieres un poco?"
-"narrator";"と言って、悪司は天文ガイドを見せた。";"Then Akuji showed the astronomy guide.";"dijo Akuji y le mostró la Guía de Astronomía."
-"Hoshikuzu Yozora (talking)";"あ……最新刊……";"Ah…… latest publication ……";"A…… última publicación……"
-"Yamamoto Akuji (talking)";"欲しいか？";"Do you want it?";"¿Lo quieres?"
-"Hoshikuzu Yozora (talking)";"……………
-いりません…… こ、こんなの……";"……………
-I don't want this…… I don't want this ……";"……………
+"__system__??","}","",""
+"Hoshikuzu Yozora (talking)","………何するんですか？","……… What are you doing?","……… ¿A qué se dedica?"
+"Yamamoto Akuji (talking)","ん~？ 妄想なんかより、お前さんがもっと 夢中になれる事だよ。","Hmm? It's not about fantasies, it's about what you can be more passionate about.","¿Hmm? No se trata de fantasías, sino de lo que te puede apasionar más."
+"Hoshikuzu Yozora (talking)","……大王様より素晴らしい男性は この世に存在しません。","There is no finer man in the world than the Great ……","…… No hay hombre en el mundo más maravilloso que el Gran Rey."
+"Yamamoto Akuji (talking)","まー、そう言ってな。","Well, say so.","Bueno, dilo."
+"Yamamoto Akuji (talking)","………大王様………すみません。","I'm sorry……… Great king ……….","………El Gran Rey……… Lo siento."
+"Yamamoto Akuji (talking)","そーいや、こんなモン手に入れてな。 いるかい？","Well, I got this. You want some?","Bueno, tengo esta cosa. ¿Quieres un poco?"
+"narrator","と言って、悪司は天文ガイドを見せた。","Then Akuji showed the astronomy guide.","dijo Akuji y le mostró la Guía de Astronomía."
+"Hoshikuzu Yozora (talking)","あ……最新刊……","Ah…… latest publication ……","A…… última publicación……"
+"Yamamoto Akuji (talking)","欲しいか？","Do you want it?","¿Lo quieres?"
+"Hoshikuzu Yozora (talking)","……………
+いりません…… こ、こんなの……","……………
+I don't want this…… I don't want this ……","……………
 No quiero esto…… No quiero esto ……"
-"Tamanegi (talking)";"ああ……きましたね……";"Oh…… Kimashi Tane ……";"Oh…… Kimashi Tane ……"
-"Hoshikuzu Yozora (talking)";"……………";"……………";"……………"
-"Tamanegi (talking)";"さて、それでは始めましょうか。";"Well, then, let's see Hajime.";"Ahora, entonces, ¿vamos a Hajime?"
-"Hoshikuzu Yozora (talking)";"………なんでも……勝手にして下さい…";"……… anything…… please do as you please…";"……… cualquier cosa…… por favor haz lo que quieras…"
-"Tamanegi (talking)";"ほう。";"Hou.";"Método."
-"Hoshikuzu Yozora (talking)";"私……ここにいては駄目なのに… 大王様が……大王様が……";"I…… shouldn't be here… The Great King is…… the Great King is…… the Great King is…… the Great King is…… the Great King is ……";"Yo…… no debería estar aquí… El Gran Rey es…… el Gran Rey es…… el Gran Rey es ……"
-"Tamanegi (talking)";"大王様か何か知りませんが…… わたくしには関係のない事です。
+"Tamanegi (talking)","ああ……きましたね……","Oh…… Kimashi Tane ……","Oh…… Kimashi Tane ……"
+"Hoshikuzu Yozora (talking)","……………","……………","……………"
+"Tamanegi (talking)","さて、それでは始めましょうか。","Well, then, let's see Hajime.","Ahora, entonces, ¿vamos a Hajime?"
+"Hoshikuzu Yozora (talking)","………なんでも……勝手にして下さい…","……… anything…… please do as you please…","……… cualquier cosa…… por favor haz lo que quieras…"
+"Tamanegi (talking)","ほう。","Hou.","Método."
+"Hoshikuzu Yozora (talking)","私……ここにいては駄目なのに… 大王様が……大王様が……","I…… shouldn't be here… The Great King is…… the Great King is…… the Great King is…… the Great King is…… the Great King is ……","Yo…… no debería estar aquí… El Gran Rey es…… el Gran Rey es…… el Gran Rey es ……"
+"Tamanegi (talking)","大王様か何か知りませんが…… わたくしには関係のない事です。
 それよりも、あなたは最前、 なんでも勝手にしろと言いました。 わたくしにはそちらの方が重要です。
 その事、後悔なさらないように。
- ……くく………くくく……";"I don't know if you are the Great Lord or what, but…… it's none of my business.
+ ……くく………くくく……","I don't know if you are the Great Lord or what, but…… it's none of my business.
 I don't know if it's the Great Pumpkin or something else, but it's none of my business. That is more important to me.
 I hope you won't regret it.
- ……kuk………kuk……";"No sé si eres el Gran Señor o qué, pero…… no es asunto mío.
+ ……kuk………kuk……","No sé si eres el Gran Señor o qué, pero…… no es asunto mío.
 Al principio dijiste que podías hacer lo que quisieras. Eso es más importante para mí.
 Espero que no se arrepienta.
  ……kuk………kuk……"
-"Hoshikuzu Yozora (talking)";"………っ……";"……… and ……";"……… y ……"
-"cg narrator";"「あっ……」
+"Hoshikuzu Yozora (talking)","………っ……","……… and ……","……… y ……"
+"cg narrator","「あっ……」
  「ああっ……いやっ……」
  「あっ……」
- 「あっ……！！」";"Oh, ……
+ 「あっ……！！」","Oh, ……
  “Oh, …….”
 Oh ……
-Oh ……!";"Oh ……”
+Oh ……!","Oh ……”
 Ahh……Yeah……”
 Oh ……”
  ¡Oh ……!"
-"cg narrator";"冷たい金属がゆっくりゆっくりと、 夜空の胎道に埋められていく。
+"cg narrator","冷たい金属がゆっくりゆっくりと、 夜空の胎道に埋められていく。
  「あっ……いやぁっ……！！」
  「さっき、勝手にしろと言った人は、 　そのような事を言う権利はありませんよ」
 タマネギは夜空の中に埋めたクスコの口を、 ゆっくりと開いた。
@@ -187,7 +187,7 @@ Oh ……”
  「恐れる事はありません。 　今、あなたに素晴らしい世界の扉を 　開いてさしあげます」
 タマネギが薄く笑う。
  「あなたが本当の快楽に身を委ねるのは… 　これからですよ……」
-そう言って、タマネギは手術用の 薄いゴム手袋をはめた。";"Slowly, slowly, the cold metal buries itself into Yozora's fetal canal.
+そう言って、タマネギは手術用の 薄いゴム手袋をはめた。","Slowly, slowly, the cold metal buries itself into Yozora's fetal canal.
  “Oh…… no……!
 The person who told me to do as I please just now has no right to say such a thing.”
 The Tamanegi slowly opened the mouth of the cusco buried inside the Yozora.
@@ -260,7 +260,7 @@ Oh, ……, no.
 I'm not afraid of you. 　Now I will open the door to a wonderful world for you.
 Tamanegi smiles thinly.
 You will surrender yourself to true pleasure… from now on……
-Saying this, Tamanegi puts on a pair of thin surgical rubber gloves.";"Lenta, lentamente, el frío metal se entierra en el canal fetal de Yozora.
+Saying this, Tamanegi puts on a pair of thin surgical rubber gloves.","Lenta, lentamente, el frío metal se entierra en el canal fetal de Yozora.
  '¡Oh…… no……!
  'Quien te haya dicho que hagas lo que quieras ahora no tiene derecho a decir tal cosa.
 El Tamanegi abrió lentamente la boca del Cuzco enterrado dentro del Yozora.
@@ -334,25 +334,25 @@ Al ver esto, los ojos de Yozora se humedecen.
 Tamanegi se ríe con ganas.
  'Sólo ahora te entregarás al verdadero placer… ……
 Al decir esto, Tamanegi se pone un par de finos guantes de goma quirúrgicos."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"narrator";"お目当ての女の子がセッティングされるのを 待っている間、男達が何やら打ち合わせを していた。";"While waiting for the girl I wanted to see to be set up, the guys were having some kind of meeting.";"Mientras esperaban a que se instalara la chica que querían ver, los hombres tenían una especie de reunión."
-"Chinpira (talking)";"それ、ほんとかよ？";"Is that true?";"¿Es eso cierto?"
-"seinen (talking)";"マジマジ！ 俺、この前それで、ケッコーいい思い したもん。";"For real! I had a great time last time I did that.";"De verdad. El otro día me lo pasé muy bien con él."
-"Chinpira (talking)";"えーと、なんだっけ？ 自分は火星大王からメッセージを 預かっているって言えばいいんだっけ？";"Well, what was that? I'm supposed to say I have a message from Mars the Great?";"Bueno, ¿qué era? ¿Debo decir que tengo un mensaje de Marte el Grande?"
-"seinen (talking)";"そーそー。 そしたらもー、えらい事に。";"That's right, that's right. And then, oh my God, it was a disaster.";"Así es, así es. Y entonces, oh, Dios mío."
-"Hoshikuzu Yozora (talking)";"あの……";"That ……";"Que ……"
-"seinen (talking)";"お、おう。";"Oh, oh.";"Oh, oh."
-"Hoshikuzu Yozora (talking)";"あ…… この前もきて頂いた…… 大王様の僕の……";"Oh,…… you came to my…… last time, the great king of me ……";"Oh,…… viniste a verme el otro día,…… mi…… del Gran Rey."
-"seinen (talking)";"そ、そうそう。 今日も伝言を持ってきたぜ。";"Yeah, yeah, yeah. I got another message for you today.";"Sí, sí, sí. Tengo otro mensaje para ti hoy, tío."
-"Hoshikuzu Yozora (talking)";"え……？";"What, ……?";"¿Qué? ……?"
-"narrator";"夜空の顔が明るくなる。";"Yozora's face lights up.";"A Yozora se le ilumina la cara."
-"seinen (talking)";"もっと男から精液を 搾り取ると良いってさ。";"She said it's good to squeeze more semen out of men.";"Dijo que es bueno exprimir más el semen de los hombres."
-"Hoshikuzu Yozora (talking)";"それが、大王様のお言葉なんですね…？";"So that's what the Great King said…?";"¿Así que eso es lo que dice el Gran Rey…?"
-"seinen (talking)";"お、おう……";"Oh, oh ……";"Oh, oh ……"
-"Hoshikuzu Yozora (talking)";"わかりました… 頑張ります…";"Okay… I'll do my best…";"Vale… Haré lo que pueda…"
-"seinen (talking)";"へ……へへへ……";"To…… to…… to ……";"A…… a ……"
-"cg narrator";"「はむ……ん……」
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"narrator","お目当ての女の子がセッティングされるのを 待っている間、男達が何やら打ち合わせを していた。","While waiting for the girl I wanted to see to be set up, the guys were having some kind of meeting.","Mientras esperaban a que se instalara la chica que querían ver, los hombres tenían una especie de reunión."
+"Chinpira (talking)","それ、ほんとかよ？","Is that true?","¿Es eso cierto?"
+"seinen (talking)","マジマジ！ 俺、この前それで、ケッコーいい思い したもん。","For real! I had a great time last time I did that.","De verdad. El otro día me lo pasé muy bien con él."
+"Chinpira (talking)","えーと、なんだっけ？ 自分は火星大王からメッセージを 預かっているって言えばいいんだっけ？","Well, what was that? I'm supposed to say I have a message from Mars the Great?","Bueno, ¿qué era? ¿Debo decir que tengo un mensaje de Marte el Grande?"
+"seinen (talking)","そーそー。 そしたらもー、えらい事に。","That's right, that's right. And then, oh my God, it was a disaster.","Así es, así es. Y entonces, oh, Dios mío."
+"Hoshikuzu Yozora (talking)","あの……","That ……","Que ……"
+"seinen (talking)","お、おう。","Oh, oh.","Oh, oh."
+"Hoshikuzu Yozora (talking)","あ…… この前もきて頂いた…… 大王様の僕の……","Oh,…… you came to my…… last time, the great king of me ……","Oh,…… viniste a verme el otro día,…… mi…… del Gran Rey."
+"seinen (talking)","そ、そうそう。 今日も伝言を持ってきたぜ。","Yeah, yeah, yeah. I got another message for you today.","Sí, sí, sí. Tengo otro mensaje para ti hoy, tío."
+"Hoshikuzu Yozora (talking)","え……？","What, ……?","¿Qué? ……?"
+"narrator","夜空の顔が明るくなる。","Yozora's face lights up.","A Yozora se le ilumina la cara."
+"seinen (talking)","もっと男から精液を 搾り取ると良いってさ。","She said it's good to squeeze more semen out of men.","Dijo que es bueno exprimir más el semen de los hombres."
+"Hoshikuzu Yozora (talking)","それが、大王様のお言葉なんですね…？","So that's what the Great King said…?","¿Así que eso es lo que dice el Gran Rey…?"
+"seinen (talking)","お、おう……","Oh, oh ……","Oh, oh ……"
+"Hoshikuzu Yozora (talking)","わかりました… 頑張ります…","Okay… I'll do my best…","Vale… Haré lo que pueda…"
+"seinen (talking)","へ……へへへ……","To…… to…… to ……","A…… a ……"
+"cg narrator","「はむ……ん……」
 夜空は自分から舌を出すと、 屹立した男のものを頬張った。
  「んくっ…んっ…んんっ……」
  「ま、待ってよ、そんなにきつくされたら、 　さっき抜いたとこで、敏感でっ… 　くっ…んんっ……！！」
@@ -412,7 +412,7 @@ Al decir esto, Tamanegi se pone un par de finos guantes de goma quirúrgicos."
 夜空の唇から、秘洞から――白濁の体液に塗れた 男の根が、ゆっくりと引き出される。
 それはむわりと、甘酸っぱい男女の体液の匂いを 一斉に部屋へ放った。
  「ふ…ふふふ……」
-唇から零れたそれを指で掬い、 夜空は嬉しそうに微笑んだ。";"Hamu……n……”
+唇から零れたそれを指で掬い、 夜空は嬉しそうに微笑んだ。","Hamu……n……”
 Yozora stuck her tongue out herself, and chewed on the towering manhood.
  'Nkk…mmmm…mmmm………'
 The man's tongue was so tight, it was so sensitive where he had just pulled it out…nnnn…nnnn………!
@@ -472,7 +472,7 @@ The man who was devouring Yozora's oral cavity also held down Yozora's head and 
 From Yozora's lips, the man's root, coated with Haku's fluid, is slowly pulled out from his secret cavity.
  
  “Mmmm…mmmm…mmmm………”
-Scooping it up with her finger, Yozora smiled happily.";"Hamu……n……”
+Scooping it up with her finger, Yozora smiled happily.","Hamu……n……”
 Yozora sacó la lengua de sí misma y mordió la imponente hombría.
  'Nkk… mmmm… mmmm… ……'
  'Bueno, espera, si me aprietas tanto, me la acabo de sacar, es tan sensible… Maldita sea… ¡nnnn……!
@@ -533,124 +533,124 @@ De los labios de Yozora, de su cavidad secreta - la raíz del hombre, recubierta
 Lo más importante es recordar que la mejor manera de sacar el máximo partido a su dinero es asegurarse de que tiene una buena puntuación de crédito.
  'Hmm… hmmm… ……'
 Recogiéndolo con los dedos mientras se derramaba de sus labios, Yozora sonrió felizmente."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"narrator";"自分の支配下となった土地を、 悪司は見廻っていた。";"Akuji was patrolling the land that had come under his control.";"Akuji patrullaba las tierras que habían quedado bajo su control."
-"Yamamoto Akuji (thinking)";"ん~…特にコレといった いー事も悪い事もなさそーだな…";"Well… nothing good or bad seems to be happening…";"Bueno… no parece que haya nada especialmente bueno o malo…"
-"narrator";"　　［どんっっ］";"[Dong-dong!]";"[¡Dong-dong!]"
-"Yamamoto Akuji (talking)";"おっと、わりーな。";"Oops, sorry.";"Oops, lo siento."
-"Hoshikuzu Yozora (talking)";"すみません……
-星…星が見えないんです……";"Sorry ……
-Stars…I can't see the stars: ……";"Lo siento ……
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"narrator","自分の支配下となった土地を、 悪司は見廻っていた。","Akuji was patrolling the land that had come under his control.","Akuji patrullaba las tierras que habían quedado bajo su control."
+"Yamamoto Akuji (thinking)","ん~…特にコレといった いー事も悪い事もなさそーだな…","Well… nothing good or bad seems to be happening…","Bueno… no parece que haya nada especialmente bueno o malo…"
+"narrator","　　［どんっっ］","[Dong-dong!]","[¡Dong-dong!]"
+"Yamamoto Akuji (talking)","おっと、わりーな。","Oops, sorry.","Oops, lo siento."
+"Hoshikuzu Yozora (talking)","すみません……
+星…星が見えないんです……","Sorry ……
+Stars…I can't see the stars: ……","Lo siento ……
 Estrellas… no podemos ver las estrellas……"
-"Yamamoto Akuji (talking)";"は？";"Huh?";"¿Ja?"
-"Hoshikuzu Yozora (talking)";"星が見えるとこ… 知りませんか？";"Do you know where I can see stars?";"¿Conoces un lugar… donde puedas ver las estrellas?"
-"Yamamoto Akuji (talking)";"んー、星ね~…… 戦争のせいで空気汚れちまってるから、 見えなくて当たり前っちゅーか……
-上のきたねー空気がなくなったら はっきり見えるんじゃねーの？ 後、１０年もしたら……";"Well, stars……… The air is so polluted because of the war, it's no wonder we can't see them… ……
-When the air is gone, we'll be able to see them clearly, won't we? In another 10 years, we'll be able to see it clearly……";"Bueno, las estrellas……… El aire está tan contaminado a causa de la guerra, no es de extrañar que no podamos verlas… ……
+"Yamamoto Akuji (talking)","は？","Huh?","¿Ja?"
+"Hoshikuzu Yozora (talking)","星が見えるとこ… 知りませんか？","Do you know where I can see stars?","¿Conoces un lugar… donde puedas ver las estrellas?"
+"Yamamoto Akuji (talking)","んー、星ね~…… 戦争のせいで空気汚れちまってるから、 見えなくて当たり前っちゅーか……
+上のきたねー空気がなくなったら はっきり見えるんじゃねーの？ 後、１０年もしたら……","Well, stars……… The air is so polluted because of the war, it's no wonder we can't see them… ……
+When the air is gone, we'll be able to see them clearly, won't we? In another 10 years, we'll be able to see it clearly……","Bueno, las estrellas……… El aire está tan contaminado a causa de la guerra, no es de extrañar que no podamos verlas… ……
 Cuando no haya más aire en el cielo, podremos verlos claramente, ¿no? Dentro de otros 10 años, podrás verlos con claridad……"
-"Hoshikuzu Yozora (talking)";"１０年……
-そんなの…困ります… 約束の日が近づいているのに…";"10 years ……
-Oh no… that's… troubling… with the appointed day approaching…";"10 años ……
+"Hoshikuzu Yozora (talking)","１０年……
+そんなの…困ります… 約束の日が近づいているのに…","10 years ……
+Oh no… that's… troubling… with the appointed day approaching…","10 años ……
 Eso es… preocupante… con el día señalado acercándose…"
-"Yamamoto Akuji (talking)";"は？";"Huh?";"¿Ja?"
-"Hoshikuzu Yozora (talking)";"困った…どうしよう……";"I'm stumped… what to do: ……";"Estoy en problemas… qué hacer: ……"
-"narrator";"女の子はブツブツ言い、おぼつかない足取りで 悪司の前から立ち去った。";"The girl mumbled and walked away from Akuji with dazed steps.";"La chica murmuró y se alejó de Akuji con pasos aturdidos."
-"Yamamoto Akuji (talking)";"なんじゃ、ありゃ……";"What the hell is that? ……";"¿Qué demonios es eso? ……"
-"Hoshikuzu Yozora (talking)";"見えない…… 見えないわ……星…
+"Yamamoto Akuji (talking)","は？","Huh?","¿Ja?"
+"Hoshikuzu Yozora (talking)","困った…どうしよう……","I'm stumped… what to do: ……","Estoy en problemas… qué hacer: ……"
+"narrator","女の子はブツブツ言い、おぼつかない足取りで 悪司の前から立ち去った。","The girl mumbled and walked away from Akuji with dazed steps.","La chica murmuró y se alejó de Akuji con pasos aturdidos."
+"Yamamoto Akuji (talking)","なんじゃ、ありゃ……","What the hell is that? ……","¿Qué demonios es eso? ……"
+"Hoshikuzu Yozora (talking)","見えない…… 見えないわ……星…
 こんなの…困ります… 私…私どうすれば……
  ……………
-そうだわ…ロッコウに行こう… あそこなら……";"I can't see…… I can't see…… stars…
+そうだわ…ロッコウに行こう… あそこなら……","I can't see…… I can't see…… stars…
 This is… troubling… I… what should I do……
  ……………
-Oh yes… let's go to Rocco's… that's the place……";"No puedo ver…… No puedo ver…… estrellas…
+Oh yes… let's go to Rocco's… that's the place……","No puedo ver…… No puedo ver…… estrellas…
 Esto es… preocupante… Yo… qué hago……
  ……………
 Sí… vamos a Rokkow… ese es el lugar……"
-"narrator";"夜空はふらふらと歩き去った。";"Yozora wandered off.";"Yozora se alejó."
-"Yamamoto Akuji (talking)";"で？";"And?";"¿Y?"
-"Chinpira (talking)";"へ、へい。 この辺りでさ。";"Hey, hey. We'll be around here somewhere.";"Oye, oye. Por aquí, ya sabes."
-"Yamamoto Akuji (talking)";"この付近に、夜な夜な出歩いている 怪しい女がいるんだな。";"So there's a shady lady walking around this neighborhood at night.";"Así que hay una mujer sospechosa caminando por la noche en este barrio."
-"Chinpira (talking)";"へい。";"Hei.";"Hei."
-"Yamamoto Akuji (talking)";"……………";"……………";"……………"
-"Chinpira (talking)";"悪司さん？";"Akuji?";"¿ Akuji?"
-"Yamamoto Akuji (talking)";"いや、あんな風にふらふら~って 感じなのかなーと。";"No, I just wondered if it was like that.";"No, es más bien como, 'Oh no, me estoy tambaleando así'."
-"narrator";"悪司が指差した方から、 ふらふらと女の子が歩いてくる。";"A girl wanders toward the direction Akuji points.";"Una chica se dirige hacia la dirección que señala Akuji."
-"Hoshikuzu Yozora (talking)";"んしょ……んしょ……";"Nsho…… Nsho ……";"Nsho…… Nsho ……"
-"narrator";"女の子は悪司達の１０メートル程先で、 天体望遠鏡を設置しだした。";"The girls set up a telescope about 10 meters away from Akuji and the others.";"Las chicas colocaron el telescopio a unos 10 metros por delante de Akuji y los demás."
-"Hoshikuzu Yozora (talking)";"ここなら、そんなに街の光もないから…… 見えるはず……
- ……………";"Here, there's not that much city light, so you should be able to see…… ……
- ……………";"Aquí, no hay mucha luz de la ciudad, por lo que debería ser capaz de ver…… ……
+"narrator","夜空はふらふらと歩き去った。","Yozora wandered off.","Yozora se alejó."
+"Yamamoto Akuji (talking)","で？","And?","¿Y?"
+"Chinpira (talking)","へ、へい。 この辺りでさ。","Hey, hey. We'll be around here somewhere.","Oye, oye. Por aquí, ya sabes."
+"Yamamoto Akuji (talking)","この付近に、夜な夜な出歩いている 怪しい女がいるんだな。","So there's a shady lady walking around this neighborhood at night.","Así que hay una mujer sospechosa caminando por la noche en este barrio."
+"Chinpira (talking)","へい。","Hei.","Hei."
+"Yamamoto Akuji (talking)","……………","……………","……………"
+"Chinpira (talking)","悪司さん？","Akuji?","¿ Akuji?"
+"Yamamoto Akuji (talking)","いや、あんな風にふらふら~って 感じなのかなーと。","No, I just wondered if it was like that.","No, es más bien como, 'Oh no, me estoy tambaleando así'."
+"narrator","悪司が指差した方から、 ふらふらと女の子が歩いてくる。","A girl wanders toward the direction Akuji points.","Una chica se dirige hacia la dirección que señala Akuji."
+"Hoshikuzu Yozora (talking)","んしょ……んしょ……","Nsho…… Nsho ……","Nsho…… Nsho ……"
+"narrator","女の子は悪司達の１０メートル程先で、 天体望遠鏡を設置しだした。","The girls set up a telescope about 10 meters away from Akuji and the others.","Las chicas colocaron el telescopio a unos 10 metros por delante de Akuji y los demás."
+"Hoshikuzu Yozora (talking)","ここなら、そんなに街の光もないから…… 見えるはず……
+ ……………","Here, there's not that much city light, so you should be able to see…… ……
+ ……………","Aquí, no hay mucha luz de la ciudad, por lo que debería ser capaz de ver…… ……
  ……………"
-"Yamamoto Akuji (talking)";"そんなモン使って、何見てんだい？";"What are you looking at with that thing?";"¿Qué estás mirando con esa cosa?"
-"Hoshikuzu Yozora (talking)";"……………
+"Yamamoto Akuji (talking)","そんなモン使って、何見てんだい？","What are you looking at with that thing?","¿Qué estás mirando con esa cosa?"
+"Hoshikuzu Yozora (talking)","……………
 見えないんです……
 星が… 星が、どこに行っても……
-ああ……大王様…… あなたからのサインが見えません。 私は、私……どうすれば……";"……………
+ああ……大王様…… あなたからのサインが見えません。 私は、私……どうすれば……","……………
 I can't see them……
 The stars… the stars, everywhere I go……
-Oh…… Great Lord…… I can't see the sign from you. I'm not sure how I…… can ……";"……………
+Oh…… Great Lord…… I can't see the sign from you. I'm not sure how I…… can ……","……………
 No puedo verlos……
 Las estrellas… las estrellas, dondequiera que vaya……
 Oh…… Gran Señor…… no puedo ver ninguna señal tuya. No puedo ver el I…… ¿Cómo puedo ……"
-"Yamamoto Akuji (talking)";"おい。";"Hey.";"Hola."
-"Hoshikuzu Yozora (talking)";"はい、私は星屑夜空です。";"Yes, I am Hoshikuzu Yozora.";"Sí, soy Hoshikuzu Yozora."
-"Yamamoto Akuji (talking)";"名前はいいから、夜に大声で騒ぐなや。 近所迷惑だぜ。";"Forget the names, just don't be loud and boisterous at night. You're bothering the neighbors.";"No digas nombres, no hagas ruidos por la noche. Es una molestia para el vecindario."
-"Hoshikuzu Yozora (talking)";"…………………
-周りにはたんぼしかないです…";"…………………
-There are only rice paddies around…";"…………………
+"Yamamoto Akuji (talking)","おい。","Hey.","Hola."
+"Hoshikuzu Yozora (talking)","はい、私は星屑夜空です。","Yes, I am Hoshikuzu Yozora.","Sí, soy Hoshikuzu Yozora."
+"Yamamoto Akuji (talking)","名前はいいから、夜に大声で騒ぐなや。 近所迷惑だぜ。","Forget the names, just don't be loud and boisterous at night. You're bothering the neighbors.","No digas nombres, no hagas ruidos por la noche. Es una molestia para el vecindario."
+"Hoshikuzu Yozora (talking)","…………………
+周りにはたんぼしかないです…","…………………
+There are only rice paddies around…","…………………
 No hay más que tambo alrededor…"
-"Yamamoto Akuji (talking)";"………そーだよなー… こんなとこでブツブツ言ってても、 虫の声の方がでかいくれーだよなー。
-ちゅー事で、問題なし。 撤退するぞ。";"……… I know… the sound of insects is louder than the sound of me mumbling here.
-So, no problem. I'm out of here.";"……… Lo sé… el sonido de los insectos es más fuerte que el sonido de mi murmullo aquí…
+"Yamamoto Akuji (talking)","………そーだよなー… こんなとこでブツブツ言ってても、 虫の声の方がでかいくれーだよなー。
+ちゅー事で、問題なし。 撤退するぞ。","……… I know… the sound of insects is louder than the sound of me mumbling here.
+So, no problem. I'm out of here.","……… Lo sé… el sonido de los insectos es más fuerte que el sonido de mi murmullo aquí…
 Así que no hay problema. Nos retiramos."
-"Hoshikuzu Yozora (talking)";"あの……";"That ……";"Que ……"
-"Yamamoto Akuji (talking)";"ん~？";"Hmm?";"¿Hmm?"
-"Hoshikuzu Yozora (talking)";"星が…見えないんです… なんとかしてもらえませんか…？";"I can't see the stars… can you do something about it…?";"No puedo… ver… las estrellas… ¿puedes hacer algo al respecto…?"
-"Yamamoto Akuji (talking)";"無理。";"Impossible.";"Imposible."
-"Hoshikuzu Yozora (talking)";"お願いです…… 星からのサインを見ないと、私…";"Please,…… If I don't see a sign from the stars, I…";"Por favor,…… Si no veo una señal de las estrellas, yo…"
-"Yamamoto Akuji (talking)";"サイン？";"Signature?";"¿Firma?"
-"Hoshikuzu Yozora (talking)";"はい、大王様からのサインです。 きたるべき世の為に指示を下さるのです。";"Yes, it is a sign from the Great One. He gives us instructions for the world to come.";"Sí, es una señal del Grande. Nos da instrucciones para el mundo que viene."
-"narrator";"夜空は真剣な目で言った。";"Yozora said seriously.";"Yozora dijo seriamente."
-"Yamamoto Akuji (thinking)";"………キチガイだ。";"It's……… crazy.";"……… loco."
-"Hoshikuzu Yozora (talking)";"お願いです…星を…";"Please… a star…";"Por favor… una estrella…"
-"Yamamoto Akuji (talking)";"だったら、こんなとこじゃなく、 アマノサトの光天文台にでも 行けばいーんじゃねーか？
-あそこだったら、あんたが持ってる それより立派な望遠鏡があるだろうし。";"Then why don't you go to the Amanosato Optical Observatory instead of this place?
-They probably have a better telescope than the one you have.";"Entonces, ¿por qué no vas al Observatorio Óptico de Amanosato en lugar de a este lugar?
+"Hoshikuzu Yozora (talking)","あの……","That ……","Que ……"
+"Yamamoto Akuji (talking)","ん~？","Hmm?","¿Hmm?"
+"Hoshikuzu Yozora (talking)","星が…見えないんです… なんとかしてもらえませんか…？","I can't see the stars… can you do something about it…?","No puedo… ver… las estrellas… ¿puedes hacer algo al respecto…?"
+"Yamamoto Akuji (talking)","無理。","Impossible.","Imposible."
+"Hoshikuzu Yozora (talking)","お願いです…… 星からのサインを見ないと、私…","Please,…… If I don't see a sign from the stars, I…","Por favor,…… Si no veo una señal de las estrellas, yo…"
+"Yamamoto Akuji (talking)","サイン？","Signature?","¿Firma?"
+"Hoshikuzu Yozora (talking)","はい、大王様からのサインです。 きたるべき世の為に指示を下さるのです。","Yes, it is a sign from the Great One. He gives us instructions for the world to come.","Sí, es una señal del Grande. Nos da instrucciones para el mundo que viene."
+"narrator","夜空は真剣な目で言った。","Yozora said seriously.","Yozora dijo seriamente."
+"Yamamoto Akuji (thinking)","………キチガイだ。","It's……… crazy.","……… loco."
+"Hoshikuzu Yozora (talking)","お願いです…星を…","Please… a star…","Por favor… una estrella…"
+"Yamamoto Akuji (talking)","だったら、こんなとこじゃなく、 アマノサトの光天文台にでも 行けばいーんじゃねーか？
+あそこだったら、あんたが持ってる それより立派な望遠鏡があるだろうし。","Then why don't you go to the Amanosato Optical Observatory instead of this place?
+They probably have a better telescope than the one you have.","Entonces, ¿por qué no vas al Observatorio Óptico de Amanosato en lugar de a este lugar?
 Probablemente tengan un telescopio mejor que el que tú tienes."
-"Hoshikuzu Yozora (talking)";"あ……（ぽん） 納得……";"Ah…… (pon) convinced ……";"Ah…… (pon) convencido ……"
-"narrator";"夜空はいそいそと後片付けをすると、 アマノサトの方へと向かった。";"Yozora hurriedly cleaned up and headed toward Amanosato.";"Yozora se apresuró a limpiarse y se dirigió hacia Amanosato."
-"Chinpira (talking)";"なんですかい、今の…";"What is it, now…?";"Qué es, ahora…"
-"Yamamoto Akuji (talking)";"これでここには、夜な夜な歩き回る女が いなくなったっちゅー事だ。";"This means there are no more women walking around at night here.";"Esto significa que no hay más mujeres que caminen por la noche aquí."
-"Chinpira (talking)";"んで次は、アマノサトに 出没するんすね……";"And next time, you'll be in Amanosato……";"Y la próxima vez, estarás en Amanosato……"
-"Hoshikuzu Yozora (talking)";"んっ………
+"Hoshikuzu Yozora (talking)","あ……（ぽん） 納得……","Ah…… (pon) convinced ……","Ah…… (pon) convencido ……"
+"narrator","夜空はいそいそと後片付けをすると、 アマノサトの方へと向かった。","Yozora hurriedly cleaned up and headed toward Amanosato.","Yozora se apresuró a limpiarse y se dirigió hacia Amanosato."
+"Chinpira (talking)","なんですかい、今の…","What is it, now…?","Qué es, ahora…"
+"Yamamoto Akuji (talking)","これでここには、夜な夜な歩き回る女が いなくなったっちゅー事だ。","This means there are no more women walking around at night here.","Esto significa que no hay más mujeres que caminen por la noche aquí."
+"Chinpira (talking)","んで次は、アマノサトに 出没するんすね……","And next time, you'll be in Amanosato……","Y la próxima vez, estarás en Amanosato……"
+"Hoshikuzu Yozora (talking)","んっ………
 あ、いけない、眠ってしまったわ。
-早く、アマノサトの光天文台に 行かなくちゃ…… 大王様、すぐにまいります。";"Hmmm… ………
+早く、アマノサトの光天文台に 行かなくちゃ…… 大王様、すぐにまいります。","Hmmm… ………
 Oh, no, I fell asleep.
-Quick, I must go to the Amanosato Optical Observatory…… I will be right there, Great King.";"Hmm………
+Quick, I must go to the Amanosato Optical Observatory…… I will be right there, Great King.","Hmm………
 Oh, no, me he quedado dormido.
 Rápido, debo ir al Observatorio de la Luz de Amanosato…… Gran Rey, ya voy."
-"Seinendan Jyoshi (talking)";"あ、悪司さん。 お疲れ様です。";"Oh, Akuji. Thanks for your help.";"Ah, Akuji. Gracias por su duro trabajo."
-"Yamamoto Akuji (talking)";"おう。 かわりねーか？";"Oh. No change?";"Oh. ¿No hay cambios?"
-"Seinendan Jyoshi (talking)";"はい。 珍しい事が。";"Yes. Something unusual.";"Sí. Cosas inusuales."
-"Yamamoto Akuji (talking)";"なんだ？";"What is it?";"¿Qué es?"
-"Seinendan Jyoshi (talking)";"さっき、お客様がいらして。 ここを使用されています。";"We had a visitor earlier. They are using this place.";"Tuvimos una visita antes. Están usando este lugar."
-"Yamamoto Akuji (talking)";"へー、客かい。";"Wow, a guest.";"Heh, un invitado."
-"Seinendan Jyoshi (talking)";"はい、女の子です。";"Yes, it is a girl.";"Sí, es una niña."
-"Yamamoto Akuji (talking)";"…………
-それって…天体望遠鏡担いだ、 ロン毛娘か？";"…………
-Is that… a long-haired girl with a telescope?";"…………
+"Seinendan Jyoshi (talking)","あ、悪司さん。 お疲れ様です。","Oh, Akuji. Thanks for your help.","Ah, Akuji. Gracias por su duro trabajo."
+"Yamamoto Akuji (talking)","おう。 かわりねーか？","Oh. No change?","Oh. ¿No hay cambios?"
+"Seinendan Jyoshi (talking)","はい。 珍しい事が。","Yes. Something unusual.","Sí. Cosas inusuales."
+"Yamamoto Akuji (talking)","なんだ？","What is it?","¿Qué es?"
+"Seinendan Jyoshi (talking)","さっき、お客様がいらして。 ここを使用されています。","We had a visitor earlier. They are using this place.","Tuvimos una visita antes. Están usando este lugar."
+"Yamamoto Akuji (talking)","へー、客かい。","Wow, a guest.","Heh, un invitado."
+"Seinendan Jyoshi (talking)","はい、女の子です。","Yes, it is a girl.","Sí, es una niña."
+"Yamamoto Akuji (talking)","…………
+それって…天体望遠鏡担いだ、 ロン毛娘か？","…………
+Is that… a long-haired girl with a telescope?","…………
  ¿Es esa… una chica de pelo largo que lleva un telescopio astronómico?"
-"Seinendan Jyoshi (talking)";"はい、そーですけど… お知り合いですか？";"Yes, but… do you know each other?";"Sí, pero… ¿se conocen?"
-"Yamamoto Akuji (talking)";"そーいう訳じゃねーが… ま、いーや。 ちょっと様子見てくるわ。";"That's not why I'm here… but whatever. I'll go check it out.";"No es por eso que estoy aquí… pero bueno. Iré a echar un vistazo."
-"Seinendan Jyoshi (talking)";"はい。";"Yes.";"Sí."
-"narrator";"悪司は天文台へと登った。
-上へ登れば登る程、 なんだか妙な声が聞こえ出す。";"Akuji climbed up to the observatory.
-The higher he climbed, the more strange voices he heard.";"Akuji subió al observatorio.
+"Seinendan Jyoshi (talking)","はい、そーですけど… お知り合いですか？","Yes, but… do you know each other?","Sí, pero… ¿se conocen?"
+"Yamamoto Akuji (talking)","そーいう訳じゃねーが… ま、いーや。 ちょっと様子見てくるわ。","That's not why I'm here… but whatever. I'll go check it out.","No es por eso que estoy aquí… pero bueno. Iré a echar un vistazo."
+"Seinendan Jyoshi (talking)","はい。","Yes.","Sí."
+"narrator","悪司は天文台へと登った。
+上へ登れば登る程、 なんだか妙な声が聞こえ出す。","Akuji climbed up to the observatory.
+The higher he climbed, the more strange voices he heard.","Akuji subió al observatorio.
 Cuanto más subía, más extraño era escuchar voces."
-"Yamamoto Akuji (thinking)";"この声……まさか……";"This voice…… no way ……";"Esta voz…… de ninguna manera ……"
-"narrator";"悪司は天文台の扉を開けた。";"Akuji opened the door of the observatory.";"Akuji abrió la puerta del observatorio."
-"cg narrator";"「あっ……あんっ……あんんっ……」
+"Yamamoto Akuji (thinking)","この声……まさか……","This voice…… no way ……","Esta voz…… de ninguna manera ……"
+"narrator","悪司は天文台の扉を開けた。","Akuji opened the door of the observatory.","Akuji abrió la puerta del observatorio."
+"cg narrator","「あっ……あんっ……あんんっ……」
 悪司の予感は的中し、そこには夜空がいた。 夜空は天体望遠鏡を覗きながら、自慰に耽っている。
  「あっ…ああっ……大王様ぁぁんっ…… 　わ、わかってますっ……はいっ… 　お待ちしていますっ……あっ…あふっ……！！」
 夜空の躰が小さく痙攣する。 どうやら、軽く達したようだ。
@@ -676,7 +676,7 @@ Cuanto más subía, más extraño era escuchar voces."
 悪司は右手を夜空の花弁に差し入れた。
  「あっ…ああっ……！！」
 夜空は抵抗もせず、悪司の指から生まれた快楽を 躰全体に飲み込んだ。
- 「どーすっかなー……」";"”Oh…… anh!”
+ 「どーすっかなー……」","”Oh…… anh!”
 Akuji's hunch came true, and there was Yozora. Yozora is masturbating while looking through an astronomical telescope.
  “Ah… ah… ah… ah… ah… ah… ah… the Great King… ah… ah… ah… I know… ah… ah… 　I'm waiting for you,…… ah…ah…ah…ah…ah…ah…ah!
 The body of Yozora twitches a little. The first thing that comes to mind is the fact that the first time you see a woman's face, you know that you've seen her.
@@ -702,7 +702,7 @@ Is it really something to be excited about? 　Is it pornographic?
 Akuji inserted his right hand into Yozora's petals.
 Ah…ahhh……!”
 Yozora didn't resist and swallowed the pleasure from Akuji's fingers all over her body.
-I don't know what to do………";"'Oh Akuji, Akuji, Akuji.
+I don't know what to do………","'Oh Akuji, Akuji, Akuji.
 La premonición de Akuji se hizo realidad y allí estaba Yozora. Yozora se masturba mientras mira por un telescopio astronómico.
  'Ah… ah… ah… ah… ah… ah… el Gran Rey… ah… ah… ah… entiendo… ah… ah… ah… 　Te estaré esperando……. ¡Ah… ah… ah… ah… ah!
 El cuerpo de Yozora se estremece ligeramente. Parece que ha llegado ligeramente a su límite.
@@ -729,70 +729,70 @@ Akuji introdujo su mano derecha en los pétalos de Yozora.
  “¡Ah…ah……!
 Yozora no se resistió y se tragó el placer nacido de los dedos de Akuji por todo su cuerpo.
 Me pregunto qué debo hacer… ……"
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"{RETURN = 1:";"";""
-"cg narrator";"「ま~……多少ネジが緩んでるみたいだけど、 　こーいうのが好きな客もいるしな。 　決定、お持ち帰り」
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"__system__??","{RETURN = 1:","",""
+"cg narrator","「ま~……多少ネジが緩んでるみたいだけど、 　こーいうのが好きな客もいるしな。 　決定、お持ち帰り」
 悪司は、夜空の腰に手を回した。
  「な、何するんですか~… 　放して……星が…星が見えない…」
  「どこに連れて行くんですか？ 　私…ここから離れちゃ駄目なんです… 　戻して……」
  「いやあ……駄目、駄目……駄目……」
-悪司は夜空がわめく事も気にせず、 そこからお持ち帰りした。";"Well,…… you seem to have a few screws loose, but some customers like that kind of thing. 　Decided, take it home.”
+悪司は夜空がわめく事も気にせず、 そこからお持ち帰りした。","Well,…… you seem to have a few screws loose, but some customers like that kind of thing. 　Decided, take it home.”
 Akuji put his hands around Yozora's waist.
  'Hey, what are you doing~… Let go of me…… the stars… I can't see the stars…'
  'Where are you taking me? 　I… can't leave here… put me back ……”
 No……… no… no… no……… no… ……
-Akuji took it home from there, not caring that Yozora was ranting.";"'Bueno,…… parece que te faltan algunos tornillos, pero a algunos clientes les gusta ese tipo de cosas. 　Decidido, llévatelo a casa”.
+Akuji took it home from there, not caring that Yozora was ranting.","'Bueno,…… parece que te faltan algunos tornillos, pero a algunos clientes les gusta ese tipo de cosas. 　Decidido, llévatelo a casa”.
 Akuji puso sus manos alrededor de la cintura de Yozora.
  'Hey, qué estás haciendo~… Suéltame,…… las estrellas… no puedo ver las estrellas…'
  ¿Dónde me llevas? 　Yo… no puedo salir de aquí… devuélveme a …….”
  'No……… no… no……… no… ……'
 Akuji se lo llevó a casa desde allí, sin importarle que Yozora estuviera despotricando."
-"__system__??";"}";"";""
-"__system__??";"{RETURN = 2:";"";""
-"cg narrator";"「まーがんばんな」
+"__system__??","}","",""
+"__system__??","{RETURN = 2:","",""
+"cg narrator","「まーがんばんな」
  「あっ…はっ…はいっ…あっ、あんっ…！！」
 悪司は夜空を放置しておく事にした。
 踵を返した悪司の後ろから、まだ艶の含まれた声は 止まる事を知らないでいた。
- 「ああっ……大王様っ…… 　お会いしたいですぅ…… 　…あ、ああっ…あ…~~…！」";"Good luck.
+ 「ああっ……大王様っ…… 　お会いしたいですぅ…… 　…あ、ああっ…あ…~~…！」","Good luck.
 Ah…ha…ha…ha…ah, anh…!”
 Akuji decided to leave Yozora alone.
 From behind Akuji who turned on his heel, the voice that still contained gloss did not know how to stop.
- 'Oh, Akuuji, Daiou-sama, I want to meet you…Akuuji …Oh, oh…oh… …~~…!”";"Bueno, buena suerte.
+ 'Oh, Akuuji, Daiou-sama, I want to meet you…Akuuji …Oh, oh…oh… …~~…!”","Bueno, buena suerte.
  '¡Ah… ha… ha… ah, anh…!
 Akuji decidió dejar sola a Yozora.
 Desde detrás de Akuji, que giró sobre sus talones, la voz que aún contenía brillo no sabía cómo parar.
  'Oh, Akuji, Daiou-sama, Akuji, quiero conocerte Akuji… ah… ah… …~~…!”"
-"__system__??";"}";"";""
-"narrator";"空をまっすぐに見た夜空が立っている。";"Standing there is Yozora looking straight at the sky.";"De pie Yozora mirando directamente al cielo."
-"Hoshikuzu Yozora (talking)";"いよいよ、この日が来たわ…… 大王様が私を……
-ああっ……きた……！！";"Finally, the day has come when the Great One has…… me……
-Ahhhh…… here it comes……!";"Por fin ha llegado el día en que el Grande me ha …………
+"__system__??","}","",""
+"narrator","空をまっすぐに見た夜空が立っている。","Standing there is Yozora looking straight at the sky.","De pie Yozora mirando directamente al cielo."
+"Hoshikuzu Yozora (talking)","いよいよ、この日が来たわ…… 大王様が私を……
+ああっ……きた……！！","Finally, the day has come when the Great One has…… me……
+Ahhhh…… here it comes……!","Por fin ha llegado el día en que el Grande me ha …………
  ¡Oh,…… aquí viene……!"
-"Hoshikuzu Yozora (talking)";"ああ……大王様……！！";"Oh…… the Great ……!";"¡Oh…… el Gran ……!"
-"narrator";"まぶしい光が辺りを照らしたかと思うと、 星屑夜空が消え去っていた。";"A dazzling light illuminated the area and Hoshikuzu Yozora disappeared.";"Una luz deslumbrante iluminó la zona y Hoshikuzu Yozora desapareció."
-"narrator";"風のない静かな夜だった。";"It was a quiet night with no wind.";"Era una noche tranquila y sin viento."
-"Yopparai (talking)";"んあ……なんだー？ 今、昼間みたいにピカーっと光ったかぁ？";"What's up with ……? Did it just flash like daylight?";"Hmm, ¿qué es ……? ¿Acabo de parpadear como si fuera de día?"
-"Yopparai (talking)";"なんだ、なんだ、なんだぁぁぁ！！？？";"What, what, what, what!";"¡Qué, qué, qué, qué!"
-"daiousama (talking)";"んんん~~~。 マ~~~ベラ~~~ス。";"Mmm~~. Ma~~~bera~~s.";"Mmm~~. Ma~~bera~~s."
-"Yopparai (talking)";"そっ……空から声がしただよ！ 俺、メチルでもかっくらったのかぁ？ 間違えてヒロポン飲んじまったかぁ！？";"Damn it, ……, I heard voices in the sky! Did I just take a hit of methyl? Did I take the wrong bottle of Hiropon?";"Maldita sea, ……, ¡hay una voz en el cielo! ¿Acabo de recibir un golpe de metilo? ¿Me he equivocado de botella de Hiropon?"
-"daiousama (talking)";"私の名前は、大王様といいま~す。 んんん~~~。";"My name is Daioh-sama~. Mmm~.";"Mi nombre es el Gran Rey~. Mmm~."
-"Yopparai (talking)";"だ、誰だよ、そりゃあ！！";"Who the hell is that?";"¿Quién es ese?"
-"daiousama (talking)";"ですから、大王様です~。 スベ~ルスキップ~。
-この辺りに、私の電波を受ける事の出来る 大変正しい僕がいます~~。 あなたですか~~？";"Therefore, I am a great king~. Sve~rskip~.
-There's a very righteous me around here who can take my Denpa. Is that you?";"Por lo tanto, soy un gran rey~. Sve~rskip~.
+"Hoshikuzu Yozora (talking)","ああ……大王様……！！","Oh…… the Great ……!","¡Oh…… el Gran ……!"
+"narrator","まぶしい光が辺りを照らしたかと思うと、 星屑夜空が消え去っていた。","A dazzling light illuminated the area and Hoshikuzu Yozora disappeared.","Una luz deslumbrante iluminó la zona y Hoshikuzu Yozora desapareció."
+"narrator","風のない静かな夜だった。","It was a quiet night with no wind.","Era una noche tranquila y sin viento."
+"Yopparai (talking)","んあ……なんだー？ 今、昼間みたいにピカーっと光ったかぁ？","What's up with ……? Did it just flash like daylight?","Hmm, ¿qué es ……? ¿Acabo de parpadear como si fuera de día?"
+"Yopparai (talking)","なんだ、なんだ、なんだぁぁぁ！！？？","What, what, what, what!","¡Qué, qué, qué, qué!"
+"daiousama (talking)","んんん~~~。 マ~~~ベラ~~~ス。","Mmm~~. Ma~~~bera~~s.","Mmm~~. Ma~~bera~~s."
+"Yopparai (talking)","そっ……空から声がしただよ！ 俺、メチルでもかっくらったのかぁ？ 間違えてヒロポン飲んじまったかぁ！？","Damn it, ……, I heard voices in the sky! Did I just take a hit of methyl? Did I take the wrong bottle of Hiropon?","Maldita sea, ……, ¡hay una voz en el cielo! ¿Acabo de recibir un golpe de metilo? ¿Me he equivocado de botella de Hiropon?"
+"daiousama (talking)","私の名前は、大王様といいま~す。 んんん~~~。","My name is Daioh-sama~. Mmm~.","Mi nombre es el Gran Rey~. Mmm~."
+"Yopparai (talking)","だ、誰だよ、そりゃあ！！","Who the hell is that?","¿Quién es ese?"
+"daiousama (talking)","ですから、大王様です~。 スベ~ルスキップ~。
+この辺りに、私の電波を受ける事の出来る 大変正しい僕がいます~~。 あなたですか~~？","Therefore, I am a great king~. Sve~rskip~.
+There's a very righteous me around here who can take my Denpa. Is that you?","Por lo tanto, soy un gran rey~. Sve~rskip~.
 Hay un yo muy justo por aquí que puede tomar mi Denpa. ¿Eres tú?"
-"Yopparai (talking)";"電波~~？？？ オラッチ、電柱じゃねぇんだから、 電波なんか、受けるかーー！！
-それより、酒ーー！！ 酒くれーーー！！ ……ういーーっく……";"Denpa? Olatz, you're not a telephone pole, you can't take Denpa!
-I don't care, I want some booze! Give me some booze! ……Yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!";"¿Denpa? ¡Olatz, no soy un poste de teléfono, no voy a tomar Denpa!
+"Yopparai (talking)","電波~~？？？ オラッチ、電柱じゃねぇんだから、 電波なんか、受けるかーー！！
+それより、酒ーー！！ 酒くれーーー！！ ……ういーーっく……","Denpa? Olatz, you're not a telephone pole, you can't take Denpa!
+I don't care, I want some booze! Give me some booze! ……Yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!","¿Denpa? ¡Olatz, no soy un poste de teléfono, no voy a tomar Denpa!
  ¡Me tomaré un trago! ¡Dame un poco de alcohol!"
-"daiousama (talking)";"んんん~~~……
-ビ~~~~~~~~~~~~~~~~ム。";"Mmm~~~……
-Bi~~~~~~~~~~~~~~~~m.";"Mmm~~~……
+"daiousama (talking)","んんん~~~……
+ビ~~~~~~~~~~~~~~~~ム。","Mmm~~~……
+Bi~~~~~~~~~~~~~~~~m.","Mmm~~~……
 Bi~~~~~~~~~~~~~~~~m."
-"Yopparai (talking)";"うぎゃーーーーーーー！！！";"Oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!";"¡Oooooooooooooooooooooooooooooooo!"
-"narrator";"酔っぱらいは、天から下された光に 焼かれて消えた。";"Yopparai disappeared, burned by the light sent down from heaven.";"Yopparai desapareció, quemado por la luz enviada desde el cielo."
-"daiousama (talking)";"んんん~~。 はるばる火星からきたというのに、 なんて事でしょう~~。
+"Yopparai (talking)","うぎゃーーーーーーー！！！","Oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!","¡Oooooooooooooooooooooooooooooooo!"
+"narrator","酔っぱらいは、天から下された光に 焼かれて消えた。","Yopparai disappeared, burned by the light sent down from heaven.","Yopparai desapareció, quemado por la luz enviada desde el cielo."
+"daiousama (talking)","んんん~~。 はるばる火星からきたというのに、 なんて事でしょう~~。
 あっ……あっ……
 あああああ~~~~~~！！！
 ん、んんん~~~~！！ 電波が~~~。
@@ -802,7 +802,7 @@ Bi~~~~~~~~~~~~~~~~m."
 きたぁぁぁ~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~！！
 んん~~……私は、電波の虜~~。
 電波の命令デ~~~ス。 地球人を滅ぼすで~す。
-んんん~~~。 発進~~~火星ロボ。 地球を征服するです~~。";"Hmmm~~. What a thing to come all the way from Mars~~.
+んんん~~~。 発進~~~火星ロボ。 地球を征服するです~~。","Hmmm~~. What a thing to come all the way from Mars~~.
 Oh…… oh ……
 Aaahhhh~~~~~~!!!!
 Oh, nnnn~~~~! Denpa is~~~!
@@ -812,7 +812,7 @@ Kikku……
 It's coming~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~!
 Mmmm~~…… I'm a prisoner of Denpa~~!
 Denpa's order~~~s. I will destroy the people of earth~~~.
-Nn~~~. Launch~~~ Mars robot. We will conquer the earth~~~.";"Nn~~. Qué cosa para venir desde Marte~~.
+Nn~~~. Launch~~~ Mars robot. We will conquer the earth~~~.","Nn~~. Qué cosa para venir desde Marte~~.
 Oh…… oh ……
  ¡¡¡¡Aaahhh ~~~~~~!!!!
  ¡Oh, oh, oh, oh ~~~~! ¡¡¡Denpa es~~~!!!
@@ -823,23 +823,23 @@ Ya viene!!!~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~~~ ~~~~~~~~~~~~~~~~~!!
 Mmmm~~…… ¡Soy un prisionero de Denpa~~!
 Soy un prisionero de las órdenes de Denpa~~. Destruiré a la gente de la Tierra~~~.
 Nn~~~. Lanzamiento~~~ del robot de Marte. Conquistaremos la Tierra~~~."
-"narrator";"アマノサトに火星ロボが降り立った。";"A Mars robot landed on Amanosato.";"Un robot de Marte aterrizó en Amanosato."
-"narrator";"風のない静かな夜……";"A quiet night with no wind: ……";"Una noche tranquila y sin viento: ……"
-"narrator";"漆黒の空より声が響く……";"Voices echo from the jet-black sky: ……";"Las voces resuenan en el cielo azabache: ……"
-"daiousama (talking)";"んん~~~。 私の名は大王様~~。
+"narrator","アマノサトに火星ロボが降り立った。","A Mars robot landed on Amanosato.","Un robot de Marte aterrizó en Amanosato."
+"narrator","風のない静かな夜……","A quiet night with no wind: ……","Una noche tranquila y sin viento: ……"
+"narrator","漆黒の空より声が響く……","Voices echo from the jet-black sky: ……","Las voces resuenan en el cielo azabache: ……"
+"daiousama (talking)","んん~~~。 私の名は大王様~~。
 んん~~~なんという事でしょう~。 火星ロボを倒されるなんて~~。 んん~~モナム~~。
 とりあえずは引き分けという事ですね~。
-んん~~~。 アデュ~~~。";"Mmm~~. My name is Daioh-sama~~.
+んん~~~。 アデュ~~~。","Mmm~~. My name is Daioh-sama~~.
 Nn~~~ What a surprise~~ I can't believe they beat the Mars Robot~~. Nn~~~ Monum~~.
 I guess that means it's a draw for now~.
-Nn~~. Adu~~.";"Mmm~~. Mi nombre es el Gran Rey~~.
+Nn~~. Adu~~.","Mmm~~. Mi nombre es el Gran Rey~~.
 Nn~~~ Qué cosas dices~~. No puedo creer que hayan vencido a los Robots de Marte. Nn~~~ Monum~~.
 Supongo que eso significa que es un empate por ahora~.
 Nn~~~. Adu~~."
-"narrator";"夜空から声が聞こえる…
+"narrator","夜空から声が聞こえる…
  　　［んん~~ま~べら~す］
-大王様について行った星屑夜空は 幸せだったのだろうか…";"I hear voices from Yozora…
+大王様について行った星屑夜空は 幸せだったのだろうか…","I hear voices from Yozora…
  　　［”Nn~~Ma~berasu…]
-I wonder if Hoshikuzu Yozora who followed the Great One was happy…";"Oigo voces de Yozora…
+I wonder if Hoshikuzu Yozora who followed the Great One was happy…","Oigo voces de Yozora…
  　　[Nn~~Ma~berasu]
 Me pregunto si Hoshikuzu Yozora que siguió al Grande fue feliz…"

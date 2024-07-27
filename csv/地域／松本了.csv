@@ -1,64 +1,64 @@
-"character";"jap text";"Eng";"Esp"
-"__system__??";"{麦 = 10:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 11:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 12:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 13:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 15:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 16:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 17:";"";""
-"__system__??";"{H拷問抵抗 < H拷問:";"";""
-"__system__??";"}";"";""
-"__system__??";"{H拷問 = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 18:";"";""
-"__system__??";"}";"";""
-"Matsumoto Ryou (talking)";"あ、あの……";"Oh, um, ……";"Oh, ese ……"
-"Yamamoto Akuji (talking)";"何も取って食おうなんて思っちゃいねぇ。 そう、ビクビクすんな。";"I'm not going to take anything and eat it. So, don't be scared.";"No estoy pensando en tomar nada y comerlo. Sí, no tengas miedo."
-"Matsumoto Ryou (talking)";"あ、はい……";"Ah, yes……";"Ah, sí: ……"
-"Yamamoto Akuji (talking)";"なんで、女の中に男が一人だったんだ？";"Why was there only one man among the women?";"¿Por qué sólo había un hombre entre las mujeres?"
-"Matsumoto Ryou (talking)";"あ……女の子海賊隊に、男が僕一人 だった事ですか？";"Oh, you mean the fact that I was the only guy in the…… girl pirate squad?";"Oh, ¿quieres decir que yo era el único hombre en la escuadra pirata de chicas de ……?"
-"Yamamoto Akuji (talking)";"ああ。";"Oh.";"Oh."
-"Matsumoto Ryou (talking)";"僕の乗っていた船が、彼女達に襲われて… その時、捕まったんです。";"The boat I was on was attacked by those girls… and that's when they caught me.";"El barco en el que estaba fue atacado por esas chicas… y fue entonces cuando me atraparon."
-"Yamamoto Akuji (talking)";"ほう。 じゃあお前さんも、海賊の犠牲者 だったって事か。";"Oh. So you were a victim of pirates, too?";"Oh. ¿Así que tú también fuiste víctima de los piratas?"
-"Matsumoto Ryou (talking)";"どうなんでしょう。 だって、僕が乗せられていたその船は、 人身売買の密輸船だったので。
+"character","jap text","Eng","Esp"
+"__system__??","{麦 = 10:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 11:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 12:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 13:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 15:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 16:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 17:","",""
+"__system__??","{H拷問抵抗 < H拷問:","",""
+"__system__??","}","",""
+"__system__??","{H拷問 = 1:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 18:","",""
+"__system__??","}","",""
+"Matsumoto Ryou (talking)","あ、あの……","Oh, um, ……","Oh, ese ……"
+"Yamamoto Akuji (talking)","何も取って食おうなんて思っちゃいねぇ。 そう、ビクビクすんな。","I'm not going to take anything and eat it. So, don't be scared.","No estoy pensando en tomar nada y comerlo. Sí, no tengas miedo."
+"Matsumoto Ryou (talking)","あ、はい……","Ah, yes……","Ah, sí: ……"
+"Yamamoto Akuji (talking)","なんで、女の中に男が一人だったんだ？","Why was there only one man among the women?","¿Por qué sólo había un hombre entre las mujeres?"
+"Matsumoto Ryou (talking)","あ……女の子海賊隊に、男が僕一人 だった事ですか？","Oh, you mean the fact that I was the only guy in the…… girl pirate squad?","Oh, ¿quieres decir que yo era el único hombre en la escuadra pirata de chicas de ……?"
+"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
+"Matsumoto Ryou (talking)","僕の乗っていた船が、彼女達に襲われて… その時、捕まったんです。","The boat I was on was attacked by those girls… and that's when they caught me.","El barco en el que estaba fue atacado por esas chicas… y fue entonces cuando me atraparon."
+"Yamamoto Akuji (talking)","ほう。 じゃあお前さんも、海賊の犠牲者 だったって事か。","Oh. So you were a victim of pirates, too?","Oh. ¿Así que tú también fuiste víctima de los piratas?"
+"Matsumoto Ryou (talking)","どうなんでしょう。 だって、僕が乗せられていたその船は、 人身売買の密輸船だったので。
 僕は、戦争で両親を亡くした後、 親戚に売られてしまったんです。
-あのまま、船に乗っていても、どこか 場末の男娼にされていたかもしれない ですし…";"I don't know. I don't know, because the ship I was on was a smuggling ship for human traffickers.
+あのまま、船に乗っていても、どこか 場末の男娼にされていたかもしれない ですし…","I don't know. I don't know, because the ship I was on was a smuggling ship for human traffickers.
 I lost my parents in the war and was sold to my relatives.
-Even if I had stayed on the ship, I might have been turned into a male prostitute somewhere…";"No lo sé. No lo sé, porque el barco en el que estaba era un barco de contrabando para los traficantes de personas.
+Even if I had stayed on the ship, I might have been turned into a male prostitute somewhere…","No lo sé. No lo sé, porque el barco en el que estaba era un barco de contrabando para los traficantes de personas.
 Después de perder a mis padres en la guerra, fui vendida por mis parientes.
 Incluso si me hubiera quedado en el barco, podría haberme convertido en un prostituto en algún lugar…"
-"Yamamoto Akuji (talking)";"で、どっちにいても一緒だってんで、 おとなしくしていたのか。";"So, they were all the same no matter which side they were on, so they just stayed quiet.";"Entonces, dijeron que era lo mismo sin importar de qué lado estuvieras, así que te quedaste callado."
-"Matsumoto Ryou (talking)";"いいえ。
+"Yamamoto Akuji (talking)","で、どっちにいても一緒だってんで、 おとなしくしていたのか。","So, they were all the same no matter which side they were on, so they just stayed quiet.","Entonces, dijeron que era lo mismo sin importar de qué lado estuvieras, así que te quedaste callado."
+"Matsumoto Ryou (talking)","いいえ。
 海賊の女の子達は……僕を玩具のように 扱う時もありましたけど、みんな、 優しかったです。
-居心地も悪くなかったし…それに…";"No. The pirate girls were  nice to me, even though they sometimes treated me like a toy.
+居心地も悪くなかったし…それに…","No. The pirate girls were  nice to me, even though they sometimes treated me like a toy.
 The pirate girls…… treated me like a toy at times, but they were all nice.
-I didn't feel uncomfortable… and…";"No, no lo hice.
+I didn't feel uncomfortable… and…","No, no lo hice.
 Las chicas piratas…… me trataron a veces como un juguete, pero todas fueron amables.
 No estaba incómodo… y…"
-"Yamamoto Akuji (talking)";"それに？";"And?";"¿Además?"
-"Matsumoto Ryou (talking)";"海音さんもいたから。";"Because Umine was there too.";"Porque Umine también estaba allí."
-"Yamamoto Akuji (talking)";"ああ……そういう事ね。";"Oh…… that's what I meant.";"Oh,…… eso es lo que quiero decir."
-"Matsumoto Ryou (talking)";"はい。
-あの…それで… 彼女達は…海音さんは？";"Yes, sir.
-Um… so… these girls… what about Umine?";"Sí, señor.
+"Yamamoto Akuji (talking)","それに？","And?","¿Además?"
+"Matsumoto Ryou (talking)","海音さんもいたから。","Because Umine was there too.","Porque Umine también estaba allí."
+"Yamamoto Akuji (talking)","ああ……そういう事ね。","Oh…… that's what I meant.","Oh,…… eso es lo que quiero decir."
+"Matsumoto Ryou (talking)","はい。
+あの…それで… 彼女達は…海音さんは？","Yes, sir.
+Um… so… these girls… what about Umine?","Sí, señor.
 Um… así que… estas chicas… ¿qué pasa con Umine?"
-"Yamamoto Akuji (talking)";"さーねー……";"Saanee ……";"Saanee: ……"
-"Matsumoto Ryou (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"どうだい？ 捕虜生活は。";"How's it going? Life as a POW.";"¿Cómo va todo? La vida como prisionero de guerra."
-"Matsumoto Ryou (talking)";"あ、はい、快適にさせてもらっています。";"Ah, yes, I am comfortable with it.";"Ah, sí, me siento cómodo con ello."
-"Yamamoto Akuji (talking)";"ふーん……";"Hmmm ……";"Hmmm ……"
-"Matsumoto Ryou (talking)";"こういうの、慣れてしまっているから…";"I'm so used to these things…";"Estoy tan acostumbrado a estas cosas…"
-"Yamamoto Akuji (talking)";"それもなんだかなー。";"That's something, too.";"Tampoco estoy seguro de qué se trata."
-"Yamamoto Akuji (thinking)";"う~ん…こいつは戦えそうにないな。 なんかでつって、兵隊にしたって意味は なさそうだ。
-こいつの使いみちは、もっと…… 違うとこにありそうな気がするな。";"Well…this guy doesn't look like he can fight. It doesn't make sense to grab him and turn him into a soldier.
-I think this guy's use could be more…… different.";"Hmmm… este tipo no parece que pueda luchar. No parece tener sentido utilizarlo como soldado.
+"Yamamoto Akuji (talking)","さーねー……","Saanee ……","Saanee: ……"
+"Matsumoto Ryou (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","どうだい？ 捕虜生活は。","How's it going? Life as a POW.","¿Cómo va todo? La vida como prisionero de guerra."
+"Matsumoto Ryou (talking)","あ、はい、快適にさせてもらっています。","Ah, yes, I am comfortable with it.","Ah, sí, me siento cómodo con ello."
+"Yamamoto Akuji (talking)","ふーん……","Hmmm ……","Hmmm ……"
+"Matsumoto Ryou (talking)","こういうの、慣れてしまっているから…","I'm so used to these things…","Estoy tan acostumbrado a estas cosas…"
+"Yamamoto Akuji (talking)","それもなんだかなー。","That's something, too.","Tampoco estoy seguro de qué se trata."
+"Yamamoto Akuji (thinking)","う~ん…こいつは戦えそうにないな。 なんかでつって、兵隊にしたって意味は なさそうだ。
+こいつの使いみちは、もっと…… 違うとこにありそうな気がするな。","Well…this guy doesn't look like he can fight. It doesn't make sense to grab him and turn him into a soldier.
+I think this guy's use could be more…… different.","Hmmm… este tipo no parece que pueda luchar. No parece tener sentido utilizarlo como soldado.
 Creo que se podría utilizar más…… de manera diferente."
-"Matsumoto Ryou (talking)";"あの……何か？";"That…… something?";"¿Eso es…… algo?"
-"Yamamoto Akuji (talking)";"いんや、なんでもねぇ。";"No, it's nothing.";"No es nada."
+"Matsumoto Ryou (talking)","あの……何か？","That…… something?","¿Eso es…… algo?"
+"Yamamoto Akuji (talking)","いんや、なんでもねぇ。","No, it's nothing.","No es nada."

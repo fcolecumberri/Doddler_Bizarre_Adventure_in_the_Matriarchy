@@ -1,290 +1,290 @@
-"character";"jap text";"Eng";"Esp"
-"__system__??";"{麦 = 1:";"";""
-"__system__??";"{☆野比 = 0:";"";""
-"__system__??";"}";"";""
-"__system__??";"{(☆野比 = 1) * (★愛 = 3):";"";""
-"__system__??";"}";"";""
-"__system__??";"{☆野比 > 49:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 3:";"";""
-"__system__??";"{B忠誠タイプ = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 10:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 11:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 13:";"";""
-"__system__??";"{H物欲抵抗 <= H物欲:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 15:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 16:";"";""
-"__system__??";"}";"";""
-"Nobi Hikari (talking)";"呼んでいると聞いたが …………何か用か？";"I heard you were calling for me………… What can I do for you?";"He oído que me llamabas………… ¿Qué puedo hacer por ti?"
-"Yamamoto Akuji (talking)";"よお、元関取。 実はなー……";"Yo, ex-sekitori. Actually, yeah……";"Yo, ex-sekitori. En realidad… ……"
-"Nogi Kikuko (talking)";"…………あら？ そこに居るのは野比さんですか？ お久しぶりです。";"………… Oh? Is that Nobi there? It's been a while.";"………… ¿Oh? ¿Es ese Nobi allí? Ha pasado un tiempo."
-"Nobi Hikari (talking)";"……こ、これはお嬢様。 ご機嫌麗しゅう……";"…… this is the lady. Have a good day: ……";"…… Esta es la joven. Buenos días……"
-"Nogi Kikuko (talking)";"ああ、もうお止しになって下さい。 私はもう山本家の嫁で、 乃木の女ではないのですから……";"Oh, please stop it. I am a wife of Yamamoto family and not a woman of Nogi anymore……";"Oh, por favor, ya basta. Ya no soy una esposa de la familia Yamamoto, ni una mujer Nogi……"
-"Nobi Hikari (talking)";"……お嬢様、真に遅くなり恐縮ですが、 この度はご結婚おめでとうございます。 どうぞ、末永くお幸せに。";"……Madam, I am truly sorry for the delay, but I would like to congratulate you on your marriage. I wish you many years of happiness.";"…… Querida señorita, siento mucho el retraso, pero me gustaría felicitarla por su matrimonio. Le deseo muchos años de felicidad."
-"Nogi Kikuko (talking)";"まあ…… ご丁寧に有り難うございます、野比さん。";"Well,…… thank you very kindly, Nobi.";"Bueno,…… Gracias por tu amabilidad, Nobi."
-"Yamamoto Akuji (talking)";"…………俺に祝辞は？";"………… Any congratulations for me?";"………… ¿Me felicitas?"
-"Nobi Hikari (talking)";"お嬢様を悲しませてみろ、 この野比がただでは済まさんぞ。";"You make the lady sad, and this Nobi won't get off scot-free.";"Si haces que la señora esté triste, este Nobi no se saldrá con la suya."
-"Yamamoto Akuji (talking)";"あ、やっぱそーなるのな。";"Oh, I knew it would be like that.";"Oh, sabía que iba a pasar."
-"Nogi Kikuko (talking)";"野比さん……私の夫にそんな事を 仰らないで下さい。私は充分すぎるほど 大事にして頂いています。";"Nobi Ms…… please don't say that about my husband. He has taken more than enough care of me.";"Nobi Sra…… Por favor, no diga eso de mi marido. Me han tratado más que bien."
-"Nobi Hikari (talking)";"や……これは失礼致しました、つい……";"I'm sorry about this, I just ……";"Lo siento por esto, yo sólo ……"
-"Yamamoto Akuji (talking)";"まーまー、喜久子。 今のは男にとっちゃ激励みたいなモンだ。 気にすんなってば。";"Well, well, well, Kikuko. That was a pep talk for a guy. Don't worry about it.";"Bueno, bueno, bueno, Kikuko. Eso fue como una charla de ánimo para un tipo. No te preocupes."
-"__system__??";"{I装備[9] = 99:";"";""
-"Nobi Hikari (talking)";"おお……そうだ。 祝辞に激励と言えば……
- ……これは祝儀代わりだ。 受け取ってもらえないか。";"Oh…… that's right. Speaking of encouragement in celebration: ………… this is in lieu of congratulations. Could you please accept it?";"Oh…… sí. Hablando de ánimos en las felicitaciones: ………… Esto es en lugar de felicitaciones. ¿Podría aceptarlo, por favor?"
-"Yamamoto Akuji (talking)";"や、別にそんな 気ィ使わなくていいんだが ……まあ遠慮なく。";"I don't have to be so particular…… Well, feel free to do so.";"No, no tienes que ser tan exigente…… Bueno, no lo dudes."
-"__system__??";"}";"";""
-"Nobi Hikari (talking)";"呼んでいると聞いたが …………何か用か？";"I heard you were calling for me………… What can I do for you?";"He oído que me llamabas………… ¿Qué puedo hacer por ti?"
-"Yamamoto Akuji (talking)";"よお、来たか鉄大和。";"Yo, you're here, Tetsuyamato.";"Estás aquí, Yamato de Hierro."
-"Nobi Hikari (talking)";"……………………";"……………………";"……………………"
-"Yamamoto Akuji (talking)";"いやー、ようやく思い出したぜ。 大関・鉄大和、本名が野比ひかり。
+"character","jap text","Eng","Esp"
+"__system__??","{麦 = 1:","",""
+"__system__??","{☆野比 = 0:","",""
+"__system__??","}","",""
+"__system__??","{(☆野比 = 1) * (★愛 = 3):","",""
+"__system__??","}","",""
+"__system__??","{☆野比 > 49:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 3:","",""
+"__system__??","{B忠誠タイプ = 1:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 10:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 11:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 13:","",""
+"__system__??","{H物欲抵抗 <= H物欲:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 15:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 16:","",""
+"__system__??","}","",""
+"Nobi Hikari (talking)","呼んでいると聞いたが …………何か用か？","I heard you were calling for me………… What can I do for you?","He oído que me llamabas………… ¿Qué puedo hacer por ti?"
+"Yamamoto Akuji (talking)","よお、元関取。 実はなー……","Yo, ex-sekitori. Actually, yeah……","Yo, ex-sekitori. En realidad… ……"
+"Nogi Kikuko (talking)","…………あら？ そこに居るのは野比さんですか？ お久しぶりです。","………… Oh? Is that Nobi there? It's been a while.","………… ¿Oh? ¿Es ese Nobi allí? Ha pasado un tiempo."
+"Nobi Hikari (talking)","……こ、これはお嬢様。 ご機嫌麗しゅう……","…… this is the lady. Have a good day: ……","…… Esta es la joven. Buenos días……"
+"Nogi Kikuko (talking)","ああ、もうお止しになって下さい。 私はもう山本家の嫁で、 乃木の女ではないのですから……","Oh, please stop it. I am a wife of Yamamoto family and not a woman of Nogi anymore……","Oh, por favor, ya basta. Ya no soy una esposa de la familia Yamamoto, ni una mujer Nogi……"
+"Nobi Hikari (talking)","……お嬢様、真に遅くなり恐縮ですが、 この度はご結婚おめでとうございます。 どうぞ、末永くお幸せに。","……Madam, I am truly sorry for the delay, but I would like to congratulate you on your marriage. I wish you many years of happiness.","…… Querida señorita, siento mucho el retraso, pero me gustaría felicitarla por su matrimonio. Le deseo muchos años de felicidad."
+"Nogi Kikuko (talking)","まあ…… ご丁寧に有り難うございます、野比さん。","Well,…… thank you very kindly, Nobi.","Bueno,…… Gracias por tu amabilidad, Nobi."
+"Yamamoto Akuji (talking)","…………俺に祝辞は？","………… Any congratulations for me?","………… ¿Me felicitas?"
+"Nobi Hikari (talking)","お嬢様を悲しませてみろ、 この野比がただでは済まさんぞ。","You make the lady sad, and this Nobi won't get off scot-free.","Si haces que la señora esté triste, este Nobi no se saldrá con la suya."
+"Yamamoto Akuji (talking)","あ、やっぱそーなるのな。","Oh, I knew it would be like that.","Oh, sabía que iba a pasar."
+"Nogi Kikuko (talking)","野比さん……私の夫にそんな事を 仰らないで下さい。私は充分すぎるほど 大事にして頂いています。","Nobi Ms…… please don't say that about my husband. He has taken more than enough care of me.","Nobi Sra…… Por favor, no diga eso de mi marido. Me han tratado más que bien."
+"Nobi Hikari (talking)","や……これは失礼致しました、つい……","I'm sorry about this, I just ……","Lo siento por esto, yo sólo ……"
+"Yamamoto Akuji (talking)","まーまー、喜久子。 今のは男にとっちゃ激励みたいなモンだ。 気にすんなってば。","Well, well, well, Kikuko. That was a pep talk for a guy. Don't worry about it.","Bueno, bueno, bueno, Kikuko. Eso fue como una charla de ánimo para un tipo. No te preocupes."
+"__system__??","{I装備[9] = 99:","",""
+"Nobi Hikari (talking)","おお……そうだ。 祝辞に激励と言えば……
+ ……これは祝儀代わりだ。 受け取ってもらえないか。","Oh…… that's right. Speaking of encouragement in celebration: ………… this is in lieu of congratulations. Could you please accept it?","Oh…… sí. Hablando de ánimos en las felicitaciones: ………… Esto es en lugar de felicitaciones. ¿Podría aceptarlo, por favor?"
+"Yamamoto Akuji (talking)","や、別にそんな 気ィ使わなくていいんだが ……まあ遠慮なく。","I don't have to be so particular…… Well, feel free to do so.","No, no tienes que ser tan exigente…… Bueno, no lo dudes."
+"__system__??","}","",""
+"Nobi Hikari (talking)","呼んでいると聞いたが …………何か用か？","I heard you were calling for me………… What can I do for you?","He oído que me llamabas………… ¿Qué puedo hacer por ti?"
+"Yamamoto Akuji (talking)","よお、来たか鉄大和。","Yo, you're here, Tetsuyamato.","Estás aquí, Yamato de Hierro."
+"Nobi Hikari (talking)","……………………","……………………","……………………"
+"Yamamoto Akuji (talking)","いやー、ようやく思い出したぜ。 大関・鉄大和、本名が野比ひかり。
 戦前の角界で大活躍しててさ、 横綱昇進は時間の問題だとかって 騒がれてたんだっけ。
-でも結局、戦争の起きた頃と重なって ウヤムヤのまんまあんたの名前を 聞かなくなっちまったが……";"Oh no, I finally remembered. Ozeki Tetsuyamato, whose real name is Nobi Hikari.
+でも結局、戦争の起きた頃と重なって ウヤムヤのまんまあんたの名前を 聞かなくなっちまったが……","Oh no, I finally remembered. Ozeki Tetsuyamato, whose real name is Nobi Hikari.
 He was very active in the Kakukai before the war, and there was a lot of noise that it was only a matter of time before he would be promoted to Yokozuna.
-But it was around the time of the war, so we never heard your name again……";"Oh no, por fin me he acordado. Ozeki Tetsu Yamato, cuyo nombre real es Nobi Hikari.
+But it was around the time of the war, so we never heard your name again……","Oh no, por fin me he acordado. Ozeki Tetsu Yamato, cuyo nombre real es Nobi Hikari.
 Era muy activo en el mundo del sumo antes de la guerra, y se hablaba mucho de que era sólo cuestión de tiempo que fuera promovido a yokozuna.
 Pero al final, coincidió con el estallido de la guerra, y no volvimos a oír su nombre……"
-"Nobi Hikari (talking)";"……………………";"……………………";"……………………"
-"Yamamoto Akuji (talking)";"すまねえな、俺ぁ今まで ちょんまげがないせいでピンとこなくて。
-あんまり相撲は興味ねぇんだけどよ、 あんたみたいな有名人が まさか俺の組織に来るたぁ…………";"I'm sorry, I've never been able to figure it out because I don't have a chopstick.
-I'm not really interested in sumo, but I didn't expect a celebrity like you to come to my organization…………";"Lo siento, no he tenido la oportunidad de conocerte porque no tengo una hachimagen.
+"Nobi Hikari (talking)","……………………","……………………","……………………"
+"Yamamoto Akuji (talking)","すまねえな、俺ぁ今まで ちょんまげがないせいでピンとこなくて。
+あんまり相撲は興味ねぇんだけどよ、 あんたみたいな有名人が まさか俺の組織に来るたぁ…………","I'm sorry, I've never been able to figure it out because I don't have a chopstick.
+I'm not really interested in sumo, but I didn't expect a celebrity like you to come to my organization…………","Lo siento, no he tenido la oportunidad de conocerte porque no tengo una hachimagen.
 No me interesa mucho el sumo, pero no esperaba que una celebridad como tú viniera a mi organización…………"
-"Nobi Hikari (talking)";"……………………";"……………………";"……………………"
-"Yamamoto Akuji (talking)";"……？　何で睨むんだよ。";"……?　Why are you staring at me?";"……?　¿Por qué me miras fijamente?"
-"Nobi Hikari (talking)";"俺はもう、鉄大和ではない。 角界とも関係がない。 その名で呼ばないでくれ。
+"Nobi Hikari (talking)","……………………","……………………","……………………"
+"Yamamoto Akuji (talking)","……？　何で睨むんだよ。","……?　Why are you staring at me?","……?　¿Por qué me miras fijamente?"
+"Nobi Hikari (talking)","俺はもう、鉄大和ではない。 角界とも関係がない。 その名で呼ばないでくれ。
 現役時代のような稽古もしていないから 躰も随分と鈍っている……
-同じ目で見られては、困る。";"I am no longer Tetsu Yamato. I have nothing to do with the Kakukai. Please don't call me by that name.
+同じ目で見られては、困る。","I am no longer Tetsu Yamato. I have nothing to do with the Kakukai. Please don't call me by that name.
 I don't practice like I did when I was active, and my body has slowed down a lot……
-I don't want people to look at me the same way.";"Ya no soy un Yamato de hierro. Ni siquiera estoy relacionado con los Kakukai. No me llames por ese nombre.
+I don't want people to look at me the same way.","Ya no soy un Yamato de hierro. Ni siquiera estoy relacionado con los Kakukai. No me llames por ese nombre.
 Ya no entreno como cuando estaba activo, así que mi cuerpo se ha ralentizado mucho……
 No quiero que la gente me mire de la misma manera."
-"Yamamoto Akuji (talking)";"なーるへそ。 解った、憶えとくぜ。
-で、野比さんよ。 あんた角界に復帰する気ねぇのか？ まだ若いんだろー？";"I see. Okay, I'll remember that.
-So, Mr. Nobi. Aren't you going to come back to the world of sumo? You're still young, right?";"No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no. Bien, lo recordaré.
+"Yamamoto Akuji (talking)","なーるへそ。 解った、憶えとくぜ。
+で、野比さんよ。 あんた角界に復帰する気ねぇのか？ まだ若いんだろー？","I see. Okay, I'll remember that.
+So, Mr. Nobi. Aren't you going to come back to the world of sumo? You're still young, right?","No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no. Bien, lo recordaré.
 Así que, señor Nobi. ¿No vas a volver al mundo del sumo? Todavía eres joven, ¿verdad?"
-"Nobi Hikari (talking)";"……………………";"……………………";"……………………"
-"Yamamoto Akuji (talking)";"…………解ったよ、 その話はするなってんだろ？ 俺が悪かったよ……";"………… I get it, I'm not supposed to talk about it, am I? My bad……";"………… Lo entiendo, se supone que no debes hablar de ello. Lo siento……"
-"Nobi Hikari (talking)";"……………… 一応、説明しておく。";"………………In case you need an explanation.";"………………Por si necesita una explicación."
-"Yamamoto Akuji (talking)";"ほへ？";"Huh?";"¿Cómo?"
-"Nobi Hikari (talking)";"俺は、土俵で人を殺したのだ。
+"Nobi Hikari (talking)","……………………","……………………","……………………"
+"Yamamoto Akuji (talking)","…………解ったよ、 その話はするなってんだろ？ 俺が悪かったよ……","………… I get it, I'm not supposed to talk about it, am I? My bad……","………… Lo entiendo, se supone que no debes hablar de ello. Lo siento……"
+"Nobi Hikari (talking)","……………… 一応、説明しておく。","………………In case you need an explanation.","………………Por si necesita una explicación."
+"Yamamoto Akuji (talking)","ほへ？","Huh?","¿Cómo?"
+"Nobi Hikari (talking)","俺は、土俵で人を殺したのだ。
 開戦が間近に迫っていたあの頃、 世の中が混乱してしまう前に 俺は早く横綱になりたかった……
 そして、あの日だ。 禁じ手まがいの反則を犯してまで 相手の大関を追いつめて……
  ……死に体だった相手の顔に、 思わず、渾身の張り手を繰り出した。
-相手はそれきり、 二度と起きてこなかった……";"I Satsu people in the ring.
+相手はそれきり、 二度と起きてこなかった……","I Satsu people in the ring.
 Back then, when the war was about to start, I wanted to be a yokozuna as soon as possible before the world was in chaos……
 And that day. I had to chase down the opposing ozeki, even to the point of committing a forbidden foul……
 I unintentionally delivered a full-throated hand to the face of my opponent, who was on the verge of death.
-The opponent never got up again……";"Yo Satsu a la gente en el ring.
+The opponent never got up again……","Yo Satsu a la gente en el ring.
 Por aquel entonces, cuando la guerra estaba a punto de empezar, quería ser yokozuna lo antes posible, antes de que el mundo fuera un caos……
 Y ese día. Alcancé al ozeki contrario, llegando incluso a cometer una falta prohibida ………… y, sin quererlo, le propinó un papirotazo en la cara a su oponente, que estaba al borde de la muerte.
 El oponente nunca se levantó……"
-"Yamamoto Akuji (talking)";"そいつは初耳だぜ。 よくニュースになんなかったな？";"That's new news to me. How come it didn't make the news?";"Nunca he oído hablar de eso. ¿Cómo es que no salió en las noticias?"
-"Nobi Hikari (talking)";"翌日の新聞の一面には、大使館撤退、 開戦不可避の文字が踊っていた。 二面も、三面もな。
-あとはもう、知っての通り 世の中は戦争へむけてまっしぐらだ。";"The next day, the front page of the newspaper was filled with the words, “Embassy withdraws, war inevitable. On the second and third pages, too.
-The rest, as we all know, is just a rush toward war.";"Al día siguiente, las portadas de los periódicos bailaban con las palabras “retirada de la embajada” y “guerra inevitable”. También en la segunda y tercera página.
+"Yamamoto Akuji (talking)","そいつは初耳だぜ。 よくニュースになんなかったな？","That's new news to me. How come it didn't make the news?","Nunca he oído hablar de eso. ¿Cómo es que no salió en las noticias?"
+"Nobi Hikari (talking)","翌日の新聞の一面には、大使館撤退、 開戦不可避の文字が踊っていた。 二面も、三面もな。
+あとはもう、知っての通り 世の中は戦争へむけてまっしぐらだ。","The next day, the front page of the newspaper was filled with the words, “Embassy withdraws, war inevitable. On the second and third pages, too.
+The rest, as we all know, is just a rush toward war.","Al día siguiente, las portadas de los periódicos bailaban con las palabras “retirada de la embajada” y “guerra inevitable”. También en la segunda y tercera página.
 Y el resto, como sabes, es un borrón de guerra."
-"Yamamoto Akuji (talking)";"はー、なるほど。";"Ha, I see.";"Ja, ya veo."
-"Nobi Hikari (talking)";"己が行為を恥じ、悔やみ、 酒に溺れていたところに、 俺は乃木大将と出会った。
-そして、目が覚めたのだ。";"As I was ashamed of my act, regretting it, and drowning in alcohol, I met General Nogi.
-Then, I woke up.";"Avergonzado y arrepentido de mis actos, y ahogado en la bebida, conocí al general Nogi.
+"Yamamoto Akuji (talking)","はー、なるほど。","Ha, I see.","Ja, ya veo."
+"Nobi Hikari (talking)","己が行為を恥じ、悔やみ、 酒に溺れていたところに、 俺は乃木大将と出会った。
+そして、目が覚めたのだ。","As I was ashamed of my act, regretting it, and drowning in alcohol, I met General Nogi.
+Then, I woke up.","Avergonzado y arrepentido de mis actos, y ahogado en la bebida, conocí al general Nogi.
 Y entonces me desperté."
-"Yamamoto Akuji (talking)";"乃木さんのこったから、 気にすんな、明日があるぞ、 とか言ってくれたのか？";"Did Nogi tell you not to worry, there's always tomorrow?";"¿Te ha dicho Nogi que no te preocupes, que siempre hay un mañana?"
-"Nobi Hikari (talking)";"いや、酔った俺を徹底的に 叩きのめして、顔を踏みつけてきた。 踵でもう歯が折れるほどグリグリと。";"No, he beat me thoroughly, drunk, and stomped on my face. Grilling me so hard I could already break my teeth with my heel.";"No, me golpeó a fondo, borracho, y me pisoteó la cara. Me asaña tan fuerte que ya podría romperme los dientes con el tacón."
-"Yamamoto Akuji (talking)";"…………………………";"…………………………";"…………………………"
-"Nobi Hikari (talking)";"ああ…… その時の台詞は今でも憶えているぞ。
- “くたばれこの酔っぱらいめが！ 　世のクズ、死んで詫びろ！！”";"Oh…… I still remember the line you said then.
- “Fuck you, you Yopparai! 　Scum of the world, die and apologize!!!!”";"Oh,…… Todavía recuerdo la frase que dijiste entonces.
+"Yamamoto Akuji (talking)","乃木さんのこったから、 気にすんな、明日があるぞ、 とか言ってくれたのか？","Did Nogi tell you not to worry, there's always tomorrow?","¿Te ha dicho Nogi que no te preocupes, que siempre hay un mañana?"
+"Nobi Hikari (talking)","いや、酔った俺を徹底的に 叩きのめして、顔を踏みつけてきた。 踵でもう歯が折れるほどグリグリと。","No, he beat me thoroughly, drunk, and stomped on my face. Grilling me so hard I could already break my teeth with my heel.","No, me golpeó a fondo, borracho, y me pisoteó la cara. Me asaña tan fuerte que ya podría romperme los dientes con el tacón."
+"Yamamoto Akuji (talking)","…………………………","…………………………","…………………………"
+"Nobi Hikari (talking)","ああ…… その時の台詞は今でも憶えているぞ。
+ “くたばれこの酔っぱらいめが！ 　世のクズ、死んで詫びろ！！”","Oh…… I still remember the line you said then.
+ “Fuck you, you Yopparai! 　Scum of the world, die and apologize!!!!”","Oh,…… Todavía recuerdo la frase que dijiste entonces.
  “¡Vete a la mierda, tú Yopparai! 　¡Escoria del mundo, muérete y pide perdón!”"
-"Yamamoto Akuji (talking)";"………………そーか…… 結構激しい人だな、乃木さんも……";"……………… I see…… You're a pretty intense person, and so is Nogi ……";"……………… Ya veo…… Eres una persona bastante intensa, Nogi……"
-"Nobi Hikari (talking)";"今でこそ乃木大将は穏やかだが、 以前は闘志が服を着て歩いているような 方だったからな。
+"Yamamoto Akuji (talking)","………………そーか…… 結構激しい人だな、乃木さんも……","……………… I see…… You're a pretty intense person, and so is Nogi ……","……………… Ya veo…… Eres una persona bastante intensa, Nogi……"
+"Nobi Hikari (talking)","今でこそ乃木大将は穏やかだが、 以前は闘志が服を着て歩いているような 方だったからな。
 だが、心根は優しい人だった。 思いやりのある方だった。
 そう解った時、俺は目が覚めた。 乃木大将の厳しさは罵りではなく、 俺の再起を促すためのものだったのだ。
 そして、俺は思ったのだ。 たとえ微力でも、乃木大将のように 世のため人のために生きねばならんと。
-それが、俺が殺めてしまった者への 弔いにもなるだろうと、そう信じている。";"Nowadays, General Nogi is calm, but he used to be a fighter walking around with his clothes on.
+それが、俺が殺めてしまった者への 弔いにもなるだろうと、そう信じている。","Nowadays, General Nogi is calm, but he used to be a fighter walking around with his clothes on.
 But he was a gentle man at heart. He was a considerate person.
 When I realized that, I woke up. General Nogi's harshness was not an insult, but a reminder to me.
 And I thought. I must live for the world and for others like General Nogi, even if it's in a small way.
-I believe that this will be my way of mourning for those I have Satsued.";"Hoy en día, el general Nogi es un hombre apacible, pero antes era un luchador que se paseaba con la ropa puesta.
+I believe that this will be my way of mourning for those I have Satsued.","Hoy en día, el general Nogi es un hombre apacible, pero antes era un luchador que se paseaba con la ropa puesta.
 Pero en el fondo era un hombre amable. Era una persona considerada.
 Cuando me di cuenta, me desperté. La dureza del general Nogi no era un abuso, sino para animarme a recuperarme.
 Y pensé. Aunque sea un pequeño esfuerzo, debo vivir para el mundo y para otros como el General Nogi.
 Creo que también será una forma de llorar por aquellos a los que Satsu."
-"Yamamoto Akuji (talking)";"ま、なんとなく解る話だぜ。
+"Yamamoto Akuji (talking)","ま、なんとなく解る話だぜ。
 しかしおめー、俺の組織で喧嘩に出りゃあ 人殺しの星数がガンガン上がっていくかも しれねぇんだぜ？
-そういうのは、イヤじゃねえのか？";"Well, I kinda get it.
+そういうのは、イヤじゃねえのか？","Well, I kinda get it.
 But, you know, if you get into a fight with my organization, your star rating might go up a lot, you know?
-Don't you want that?";"Bueno, en cierto modo lo entiendo.
+Don't you want that?","Bueno, en cierto modo lo entiendo.
 Pero tú, si te peleas con mi organización, tu índice de estrellas podría subir mucho, ¿sabes?
  ¿No quieres eso?"
-"Nobi Hikari (talking)";"正々堂々の真っ向勝負で 命を奪った場合は別だ。
-俺が悔やんでいるのは 反則で殺した事であり、 人殺しそのものではない。";"Except in the case of a life taken in a fair and square fight.
-What I regret is Satsu for the foul play, not the person Satsuing itself.";"Excepto cuando tomé una vida en una pelea justa, cara a cara.
+"Nobi Hikari (talking)","正々堂々の真っ向勝負で 命を奪った場合は別だ。
+俺が悔やんでいるのは 反則で殺した事であり、 人殺しそのものではない。","Except in the case of a life taken in a fair and square fight.
+What I regret is Satsu for the foul play, not the person Satsuing itself.","Excepto cuando tomé una vida en una pelea justa, cara a cara.
 Lo que lamento es el Satsu por el juego sucio, no el Satsuing en sí."
-"Yamamoto Akuji (talking)";"……………………あっそ。";"…………………… Oh yeah.";"…………………… Oh, sí."
-"Nobi Hikari (talking)";"お前は知らないのか？ 相撲では毎場所、十人から二十人は 新弟子に人死にが出ているのだぞ。
-いつかＴＶ中継が再開されたら よく目を凝らしてみることだ。 土俵上で渦巻く男共の怨念が見えるぞ。";"Don't you know? In sumo, there are 10 to 20 deaths of new apprentices in every tournament.
-When the TV broadcast resumes, look at it carefully. You will see the men's grudge swirling in the ring.";"¿No lo sabes? En el sumo, hay entre diez y veinte muertes de nuevos aprendices en cada torneo.
+"Yamamoto Akuji (talking)","……………………あっそ。","…………………… Oh yeah.","…………………… Oh, sí."
+"Nobi Hikari (talking)","お前は知らないのか？ 相撲では毎場所、十人から二十人は 新弟子に人死にが出ているのだぞ。
+いつかＴＶ中継が再開されたら よく目を凝らしてみることだ。 土俵上で渦巻く男共の怨念が見えるぞ。","Don't you know? In sumo, there are 10 to 20 deaths of new apprentices in every tournament.
+When the TV broadcast resumes, look at it carefully. You will see the men's grudge swirling in the ring.","¿No lo sabes? En el sumo, hay entre diez y veinte muertes de nuevos aprendices en cada torneo.
 Un día, cuando se reanude la cobertura televisiva, fíjate bien. Verás el resentimiento de los hombres arremolinándose en el ring."
-"Yamamoto Akuji (talking)";"見たくねーよ、そんなもん。";"I don't want to see it, that's what I don't want to see.";"No quiero verlo, eso es lo que no quiero ver."
-"Nobi Hikari (talking)";"正々堂々と戦い、打ち負かした者の魂を 背負って、男は強くなっていくのだ。
-それが勝負の世界というものだ。 そしてニホン男児の心意気よ。";"A man becomes stronger by fighting fair and square and carrying the spirit of the vanquished on his back.
-That is the world of competition. And that is the spirit of Japanese men.";"Un hombre se hace más fuerte luchando limpiamente y llevando el espíritu del vencido en su espalda.
+"Yamamoto Akuji (talking)","見たくねーよ、そんなもん。","I don't want to see it, that's what I don't want to see.","No quiero verlo, eso es lo que no quiero ver."
+"Nobi Hikari (talking)","正々堂々と戦い、打ち負かした者の魂を 背負って、男は強くなっていくのだ。
+それが勝負の世界というものだ。 そしてニホン男児の心意気よ。","A man becomes stronger by fighting fair and square and carrying the spirit of the vanquished on his back.
+That is the world of competition. And that is the spirit of Japanese men.","Un hombre se hace más fuerte luchando limpiamente y llevando el espíritu del vencido en su espalda.
 Así es el mundo de la competencia. Y ese es el espíritu de los hombres japoneses."
-"Yamamoto Akuji (talking)";"……案外偏ってんなあ、あんた。 仲良くなれそーだぜ。";"…… You're more biased than I thought. I think we could be friends.";"…… Eres más parcial de lo que pensaba. Creo que nos vamos a llevar muy bien."
-"Nobi Hikari (talking)";"呼んでいると聞いたが …………何か用か？";"I heard you were calling for me………… What can I do for you?";"He oído que me llamabas………… ¿Qué puedo hacer por ti?"
-"Yamamoto Akuji (talking)";"よお、元関取。 実はなー……";"Yo, ex-sekitori. Actually, yeah……";"Yo, ex-sekitori. En realidad… ……"
-"Yamamoto Akuji (talking)";"……………………";"……………………";"……………………"
-"Nobi Hikari (talking)";"……………………";"……………………";"……………………"
-"Yamamoto Akuji (talking)";"……………………";"……………………";"……………………"
-"Nobi Hikari (talking)";"……………………";"……………………";"……………………"
-"Yamamoto Akuji (talking)";"…………………… ……ふあ~っ……";"………………………… phew~……";"………………………… hooooooooooooooooooooo ……"
-"Nobi Hikari (talking)";"……………………";"……………………";"……………………"
-"Yamamoto Akuji (talking)";"………………ん？
-うわっ、びっくりした…… 何だよ、来てんなら一声かけろよ。";"……………… hmm?
-Wow, you scared me…… What the hell, if you're here, give me a shout.";"……………… ¿Hmm?
+"Yamamoto Akuji (talking)","……案外偏ってんなあ、あんた。 仲良くなれそーだぜ。","…… You're more biased than I thought. I think we could be friends.","…… Eres más parcial de lo que pensaba. Creo que nos vamos a llevar muy bien."
+"Nobi Hikari (talking)","呼んでいると聞いたが …………何か用か？","I heard you were calling for me………… What can I do for you?","He oído que me llamabas………… ¿Qué puedo hacer por ti?"
+"Yamamoto Akuji (talking)","よお、元関取。 実はなー……","Yo, ex-sekitori. Actually, yeah……","Yo, ex-sekitori. En realidad… ……"
+"Yamamoto Akuji (talking)","……………………","……………………","……………………"
+"Nobi Hikari (talking)","……………………","……………………","……………………"
+"Yamamoto Akuji (talking)","……………………","……………………","……………………"
+"Nobi Hikari (talking)","……………………","……………………","……………………"
+"Yamamoto Akuji (talking)","…………………… ……ふあ~っ……","………………………… phew~……","………………………… hooooooooooooooooooooo ……"
+"Nobi Hikari (talking)","……………………","……………………","……………………"
+"Yamamoto Akuji (talking)","………………ん？
+うわっ、びっくりした…… 何だよ、来てんなら一声かけろよ。","……………… hmm?
+Wow, you scared me…… What the hell, if you're here, give me a shout.","……………… ¿Hmm?
 Vaya, me has asustado…… Qué demonios, si estás aquí, di una palabra."
-"Nobi Hikari (talking)";"……………………";"……………………";"……………………"
-"Yamamoto Akuji (talking)";"やれやれ、無口なやっちゃなー……";"Good grief, you're so quiet……";"Por Dios, estás muy callado……"
-"Yamamoto Akuji (talking)";"とりあえず、今回はこんなもんな。";"Anyway, that's about it this time.";"En cualquier caso, esto es lo que tenemos esta vez."
-"narrator";"悪司が札束を差し出すと、 野比はそれを黙って受け取った。";"When Akuji offered a wad of bills, Nobi took it silently.";"Cuando Akuji ofreció un fajo de billetes, Nobi lo tomó en silencio."
-"Nobi Hikari (talking)";"……………………";"……………………";"……………………"
-"Yamamoto Akuji (talking)";"……………………";"……………………";"……………………"
-"Nobi Hikari (talking)";"……………………";"……………………";"……………………"
-"Yamamoto Akuji (talking)";"おめーなあ…… こんな時ぐらい何か言えよ。 有り難う、とか。";"You, ……, should at least say something at a time like this. Thank you or something.";"Tú, ……, di algo al menos en un momento así. Gracias."
-"Nobi Hikari (talking)";"………………頂いておく。";"I'll take it from ……………….";"Lo tomaré de ………………."
-"Yamamoto Akuji (talking)";"……………………そんだけ？";"…………………… that's all you got?";"…………………… ¿Eso es todo lo que tienes?"
-"Nobi Hikari (talking)";"……………………";"……………………";"……………………"
-"Yamamoto Akuji (talking)";"そんだけみてえだな……やれやれ。";"That's all it looks like…… Good grief.";"Eso es todo lo que parece…… Buen rollo."
-"Yamamoto Akuji (talking)";"えーっとな、あんたに 臨時ボーナスを出そうかと思っ……";"Well, I thought I'd give you an extra bonus: ……";"Bueno, ya sabes, pensé en darte un bono extra……"
-"Nobi Hikari (talking)";"いらん。";"I don't want it.";"No lo quiero."
-"Yamamoto Akuji (talking)";"……は？";"What about ……?";"¿Qué hay de ……?"
-"Nobi Hikari (talking)";"俺は乃木大将の命で この組織に入っているに過ぎない。 お前からは賞与を受け取れん。";"I am only a member of this organization by order of General Nogi. I cannot accept a bonus from you.";"Sólo estoy en esta organización por orden del General Nogi. No puedo recibir una bonificación de su parte."
-"Yamamoto Akuji (talking)";"んな事言ってもよー、 俺としちゃあ働きの分くれぇは キッチリ出させて欲しい訳でな。
- ……もしかしてよ、 俺と馴れ合いたくないって事か？";"…… you mean you don't want to get along with me?";"No me importa lo que digas, pero quiero asegurarme de que me pagan por mi trabajo.…… ¿Quieres decir que no quieres seguir conmigo?"
-"Nobi Hikari (talking)";"違う。 主と仰ぐ大将への敬意だ。";"No, it's not. It's respect for the general whom you look up to as your Lord.";"No, no lo es. Es un homenaje al general al que admiramos como nuestro Señor."
-"Yamamoto Akuji (talking)";"うーん、解るよーな、解らんよーな。";"Well, I can understand it, but I can't understand it.";"Hmmm, comprensible e ininteligible."
-"Nobi Hikari (talking)";"とにかく、俺への報酬は 通常の給与だけで充分だ。 気を使うな。";"Anyway, my regular salary is enough to pay me. Don't worry about it.";"De todos modos, tu salario regular es suficiente para pagarme. No te preocupes."
-"Yamamoto Akuji (talking)";"……へいへい、了解。 ま、その方が俺も助かるんだけどよ。";"……Hey, Ryou solution. Well, it would help me too.";"…… Hey, Ryou solución. Bueno, a mí también me ayudaría."
-"Yamamoto Akuji (talking)";"いよー、関取さん。 喧嘩のキズは癒えたか？";"Iyiyo, Sekitori-san. Have the wounds from the fight healed?";"Iyiyo, Sekitori-san. ¿Se han curado las heridas de la pelea?"
-"Nobi Hikari (talking)";"……………………";"……………………";"……………………"
-"Yamamoto Akuji (talking)";"いや、どっちかっつーと、 鉄大和って呼んだ方がいいか？";"Or should I call him Tetsu Yamato?";"¿O debería llamarlo Tetsu Yamato?"
-"Nobi Hikari (talking)";"……………………";"……………………";"……………………"
-"Yamamoto Akuji (talking)";"すまねえな、俺ぁ今まで あんたの頭にちょんまげがないせいで ピンとこなくて。
+"Nobi Hikari (talking)","……………………","……………………","……………………"
+"Yamamoto Akuji (talking)","やれやれ、無口なやっちゃなー……","Good grief, you're so quiet……","Por Dios, estás muy callado……"
+"Yamamoto Akuji (talking)","とりあえず、今回はこんなもんな。","Anyway, that's about it this time.","En cualquier caso, esto es lo que tenemos esta vez."
+"narrator","悪司が札束を差し出すと、 野比はそれを黙って受け取った。","When Akuji offered a wad of bills, Nobi took it silently.","Cuando Akuji ofreció un fajo de billetes, Nobi lo tomó en silencio."
+"Nobi Hikari (talking)","……………………","……………………","……………………"
+"Yamamoto Akuji (talking)","……………………","……………………","……………………"
+"Nobi Hikari (talking)","……………………","……………………","……………………"
+"Yamamoto Akuji (talking)","おめーなあ…… こんな時ぐらい何か言えよ。 有り難う、とか。","You, ……, should at least say something at a time like this. Thank you or something.","Tú, ……, di algo al menos en un momento así. Gracias."
+"Nobi Hikari (talking)","………………頂いておく。","I'll take it from ……………….","Lo tomaré de ………………."
+"Yamamoto Akuji (talking)","……………………そんだけ？","…………………… that's all you got?","…………………… ¿Eso es todo lo que tienes?"
+"Nobi Hikari (talking)","……………………","……………………","……………………"
+"Yamamoto Akuji (talking)","そんだけみてえだな……やれやれ。","That's all it looks like…… Good grief.","Eso es todo lo que parece…… Buen rollo."
+"Yamamoto Akuji (talking)","えーっとな、あんたに 臨時ボーナスを出そうかと思っ……","Well, I thought I'd give you an extra bonus: ……","Bueno, ya sabes, pensé en darte un bono extra……"
+"Nobi Hikari (talking)","いらん。","I don't want it.","No lo quiero."
+"Yamamoto Akuji (talking)","……は？","What about ……?","¿Qué hay de ……?"
+"Nobi Hikari (talking)","俺は乃木大将の命で この組織に入っているに過ぎない。 お前からは賞与を受け取れん。","I am only a member of this organization by order of General Nogi. I cannot accept a bonus from you.","Sólo estoy en esta organización por orden del General Nogi. No puedo recibir una bonificación de su parte."
+"Yamamoto Akuji (talking)","んな事言ってもよー、 俺としちゃあ働きの分くれぇは キッチリ出させて欲しい訳でな。
+ ……もしかしてよ、 俺と馴れ合いたくないって事か？","…… you mean you don't want to get along with me?","No me importa lo que digas, pero quiero asegurarme de que me pagan por mi trabajo.…… ¿Quieres decir que no quieres seguir conmigo?"
+"Nobi Hikari (talking)","違う。 主と仰ぐ大将への敬意だ。","No, it's not. It's respect for the general whom you look up to as your Lord.","No, no lo es. Es un homenaje al general al que admiramos como nuestro Señor."
+"Yamamoto Akuji (talking)","うーん、解るよーな、解らんよーな。","Well, I can understand it, but I can't understand it.","Hmmm, comprensible e ininteligible."
+"Nobi Hikari (talking)","とにかく、俺への報酬は 通常の給与だけで充分だ。 気を使うな。","Anyway, my regular salary is enough to pay me. Don't worry about it.","De todos modos, tu salario regular es suficiente para pagarme. No te preocupes."
+"Yamamoto Akuji (talking)","……へいへい、了解。 ま、その方が俺も助かるんだけどよ。","……Hey, Ryou solution. Well, it would help me too.","…… Hey, Ryou solución. Bueno, a mí también me ayudaría."
+"Yamamoto Akuji (talking)","いよー、関取さん。 喧嘩のキズは癒えたか？","Iyiyo, Sekitori-san. Have the wounds from the fight healed?","Iyiyo, Sekitori-san. ¿Se han curado las heridas de la pelea?"
+"Nobi Hikari (talking)","……………………","……………………","……………………"
+"Yamamoto Akuji (talking)","いや、どっちかっつーと、 鉄大和って呼んだ方がいいか？","Or should I call him Tetsu Yamato?","¿O debería llamarlo Tetsu Yamato?"
+"Nobi Hikari (talking)","……………………","……………………","……………………"
+"Yamamoto Akuji (talking)","すまねえな、俺ぁ今まで あんたの頭にちょんまげがないせいで ピンとこなくて。
 大関・鉄大和、本名が野比ひかり。 戦前の角界で大活躍してたよな、あんた。
 横綱昇進は時間の問題だとかって 騒がれてたんだっけ。
-でも結局、戦争の起きた頃と重なって ウヤムヤのまんまあんたの名前を 聞かなくなっちまったが……";"I'm sorry, I've never been able to pinpoint your name because you don't have a pigtails on your head.
+でも結局、戦争の起きた頃と重なって ウヤムヤのまんまあんたの名前を 聞かなくなっちまったが……","I'm sorry, I've never been able to pinpoint your name because you don't have a pigtails on your head.
 Ozeki Tetsuyamato, whose real name is Nobi Hikari. You were very active in the prewar world, weren't you?
 I remember people were saying it was only a matter of time before you were promoted to yokozuna.
-But it coincided with the outbreak of the war, so we never heard your name again……";"Lo siento, nunca he podido fijarme en ti porque no tienes una cinta en la cabeza.
+But it coincided with the outbreak of the war, so we never heard your name again……","Lo siento, nunca he podido fijarme en ti porque no tienes una cinta en la cabeza.
 Ozeki Tetsu Yamato, cuyo nombre real es Nobi Hikari. Usted era muy activo en el mundo de la preguerra, ¿no es así?
 Se hablaba mucho de que era cuestión de tiempo que te ascendieran a yokozuna.
 Pero al final, coincidió con el estallido de la guerra, y no volvimos a oír su nombre……"
-"Nobi Hikari (talking)";"……………………";"……………………";"……………………"
-"Yamamoto Akuji (talking)";"そんな有名人が、 落ちぶれて落ちぶれて落ちぶれまくって、 行き着いたのがこの地下室か。
-どうよ、今の気分は。 そりゃもう惨めだとは思うけどよ。";"So, a celebrity like that, who has fallen and fallen and fallen, has ended up in this basement.
-How do you feel now? I feel miserable, I guess.";"Una celebridad así, cayendo, cayendo, cayendo, terminando en este sótano…
+"Nobi Hikari (talking)","……………………","……………………","……………………"
+"Yamamoto Akuji (talking)","そんな有名人が、 落ちぶれて落ちぶれて落ちぶれまくって、 行き着いたのがこの地下室か。
+どうよ、今の気分は。 そりゃもう惨めだとは思うけどよ。","So, a celebrity like that, who has fallen and fallen and fallen, has ended up in this basement.
+How do you feel now? I feel miserable, I guess.","Una celebridad así, cayendo, cayendo, cayendo, terminando en este sótano…
  ¿Cómo te sientes ahora? Me siento miserable, supongo."
-"Nobi Hikari (talking)";"……………………
-この国賊が……";"……………………
-This pirate is ……";"……………………
+"Nobi Hikari (talking)","……………………
+この国賊が……","……………………
+This pirate is ……","……………………
 Este pirata: ……"
-"Yamamoto Akuji (talking)";"へへ……あんた、やっと口利いたな。";"Hehe…… you finally talked.";"Hehe…… tú, por fin hablas."
-"Nobi Hikari (talking)";"……………………";"……………………";"……………………"
-"Yamamoto Akuji (talking)";"さーて、どうしたもんかな……";"Well, I don't know what to do: ……";"Bueno, veamos qué podemos hacer al respecto: ……"
-"Yamamoto Akuji (talking)";"いよー、関取さん。";"Iyo, Sekitori-san.";"Iyiyo, Sekitoshi-san."
-"Nobi Hikari (talking)";"……………………";"……………………";"……………………"
-"Yamamoto Akuji (talking)";"相変わらず無口だな。 何か言えよー。";"You're still silent. Say something!";"Sigues en silencio. ¡Di algo!"
-"Nobi Hikari (talking)";"……………………";"……………………";"……………………"
-"Yamamoto Akuji (thinking)";"……しっかし、気合い入った目だぜ。 さすが相撲取りってとこか……";"……They've got some serious eyes. That's just like a sumo wrestler……";"……Tiene mucho espíritu en sus ojos. Eso es lo que se espera de un luchador de sumo……"
-"Yamamoto Akuji (talking)";"あんたの素性が解ったからよ、 ちょいと調べさせてもらったんだが……";"Now that I know who you are, I did a little digging……";"Ahora que sé quién eres, he estado investigando un poco……"
-"narrator";"悪司はポケットから一枚の写真を取り出して、 野比に見せた。";"Akuji took a picture out of his pocket and showed it to Nobi.";"Akuji sacó una fotografía de su bolsillo y se la mostró a Nobi."
-"Nobi Hikari (talking)";"………………っ……！？";"………………っ……!";"………………っ……!?"
-"Yamamoto Akuji (talking)";"おお、いきなり顔色変わったなー。 やっぱ娘は可愛いんだな。";"Oh, you've suddenly changed your complexion. I knew my daughter was cute.";"Oh, de repente has cambiado de color. Sabía que mi hija era guapa."
-"Nobi Hikari (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"何があったのかまでは知らねぇが、 あんた開戦した頃に離婚してんだな。
+"Yamamoto Akuji (talking)","へへ……あんた、やっと口利いたな。","Hehe…… you finally talked.","Hehe…… tú, por fin hablas."
+"Nobi Hikari (talking)","……………………","……………………","……………………"
+"Yamamoto Akuji (talking)","さーて、どうしたもんかな……","Well, I don't know what to do: ……","Bueno, veamos qué podemos hacer al respecto: ……"
+"Yamamoto Akuji (talking)","いよー、関取さん。","Iyo, Sekitori-san.","Iyiyo, Sekitoshi-san."
+"Nobi Hikari (talking)","……………………","……………………","……………………"
+"Yamamoto Akuji (talking)","相変わらず無口だな。 何か言えよー。","You're still silent. Say something!","Sigues en silencio. ¡Di algo!"
+"Nobi Hikari (talking)","……………………","……………………","……………………"
+"Yamamoto Akuji (thinking)","……しっかし、気合い入った目だぜ。 さすが相撲取りってとこか……","……They've got some serious eyes. That's just like a sumo wrestler……","……Tiene mucho espíritu en sus ojos. Eso es lo que se espera de un luchador de sumo……"
+"Yamamoto Akuji (talking)","あんたの素性が解ったからよ、 ちょいと調べさせてもらったんだが……","Now that I know who you are, I did a little digging……","Ahora que sé quién eres, he estado investigando un poco……"
+"narrator","悪司はポケットから一枚の写真を取り出して、 野比に見せた。","Akuji took a picture out of his pocket and showed it to Nobi.","Akuji sacó una fotografía de su bolsillo y se la mostró a Nobi."
+"Nobi Hikari (talking)","………………っ……！？","………………っ……!","………………っ……!?"
+"Yamamoto Akuji (talking)","おお、いきなり顔色変わったなー。 やっぱ娘は可愛いんだな。","Oh, you've suddenly changed your complexion. I knew my daughter was cute.","Oh, de repente has cambiado de color. Sabía que mi hija era guapa."
+"Nobi Hikari (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","何があったのかまでは知らねぇが、 あんた開戦した頃に離婚してんだな。
 で、嫁さんは戦時中に死んじまって、 娘さんは疎開先の孤児院に居ると。
-この娘さんに、あんた えらい大金を仕送りしてるようだが。";"I don't know what happened to you, but you divorced around the time the war started.
+この娘さんに、あんた えらい大金を仕送りしてるようだが。","I don't know what happened to you, but you divorced around the time the war started.
 Your wife died during the war, and your daughter is in an evacuated orphanage.
-It seems that you are sending a lot of money to this daughter.";"No sé qué pasó, pero te divorciaste al principio de la guerra.
+It seems that you are sending a lot of money to this daughter.","No sé qué pasó, pero te divorciaste al principio de la guerra.
 Su esposa murió durante la guerra y su hija está en un orfanato evacuado.
 Parece que has enviado mucho dinero a esta hija."
-"Nobi Hikari (talking)";"……娘をどうする気だ。";"…… what are you going to do with my daughter?";"…… ¿Qué vas a hacer con mi hija?"
-"Yamamoto Akuji (talking)";"別にどうもしねーよ。
-ただ、こんな捕虜の身のまんまじゃ あんた仕送りに困るんじゃねえか？";"I don't mind.
-But, you can't afford to send money home while you're a prisoner of war like this, can you?";"No me importa.
+"Nobi Hikari (talking)","……娘をどうする気だ。","…… what are you going to do with my daughter?","…… ¿Qué vas a hacer con mi hija?"
+"Yamamoto Akuji (talking)","別にどうもしねーよ。
+ただ、こんな捕虜の身のまんまじゃ あんた仕送りに困るんじゃねえか？","I don't mind.
+But, you can't afford to send money home while you're a prisoner of war like this, can you?","No me importa.
 Pero no puedes permitirte enviar dinero a casa si sigues siendo un prisionero de guerra así, ¿verdad?"
-"Nobi Hikari (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"なあ、あんたの腕を見込んで言うが、 俺の部下にならねえか？ 給料、バリバリ出すからよ。";"Hey, in light of your skills, why don't you become my subordinate? I'll pay you handsomely.";"Mira, sé que eres bueno en lo que haces, pero ¿te gustaría trabajar para mí? Te pagaré generosamente."
-"Nobi Hikari (talking)";"………………戯れ言を。
-俺は乃木将軍以外の方から 指示を受ける気はない。";"……………… play along.
-I'm not taking orders from anyone other than General Nogi.";"……………… Tonterías.
+"Nobi Hikari (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","なあ、あんたの腕を見込んで言うが、 俺の部下にならねえか？ 給料、バリバリ出すからよ。","Hey, in light of your skills, why don't you become my subordinate? I'll pay you handsomely.","Mira, sé que eres bueno en lo que haces, pero ¿te gustaría trabajar para mí? Te pagaré generosamente."
+"Nobi Hikari (talking)","………………戯れ言を。
+俺は乃木将軍以外の方から 指示を受ける気はない。","……………… play along.
+I'm not taking orders from anyone other than General Nogi.","……………… Tonterías.
 No estoy dispuesto a aceptar instrucciones de nadie más que del General Nogi."
-"Yamamoto Akuji (talking)";"その意地っ張り、どこまで続くかねー。";"I wonder how long that stubbornness will last!";"Me pregunto cuánto durará esa obstinación."
-"Nobi Hikari (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"なー、そう意地張んなよ。 お前さんも生きていかなきゃ なんないんだろ？";"Hey, don't be so stubborn. You have to live, don't you?";"Oye, no seas tan terco. Tú también tienes que vivir, ¿no?"
-"Nobi Hikari (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"……ほれ、一応用意してきたぜ。
-えーと、ひいふうみいよう…… 全部でいくらあんのかね、これ……";"…… Here, I've got something for you.
-Let's see, how much is all this ……?";"…… Toma, he preparado algo para ti.
+"Yamamoto Akuji (talking)","その意地っ張り、どこまで続くかねー。","I wonder how long that stubbornness will last!","Me pregunto cuánto durará esa obstinación."
+"Nobi Hikari (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","なー、そう意地張んなよ。 お前さんも生きていかなきゃ なんないんだろ？","Hey, don't be so stubborn. You have to live, don't you?","Oye, no seas tan terco. Tú también tienes que vivir, ¿no?"
+"Nobi Hikari (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","……ほれ、一応用意してきたぜ。
+えーと、ひいふうみいよう…… 全部でいくらあんのかね、これ……","…… Here, I've got something for you.
+Let's see, how much is all this ……?","…… Toma, he preparado algo para ti.
 Veamos, cuánto cuesta todo esto ……"
-"narrator";"悪司は、野比の前に札束の山を積み上げていく。";"Akuji piles up a stack of bills in front of Nobi.";"Akuji amontona un montón de notas delante de Nobi."
-"Nobi Hikari (talking)";"………っ、く………";"………, ku ………";"………, ku ………"
-"Yamamoto Akuji (talking)";"あんたの言い分は解ってんだけどよ。 乃木大将以外に指示されたかねえっての。
+"narrator","悪司は、野比の前に札束の山を積み上げていく。","Akuji piles up a stack of bills in front of Nobi.","Akuji amontona un montón de notas delante de Nobi."
+"Nobi Hikari (talking)","………っ、く………","………, ku ………","………, ku ………"
+"Yamamoto Akuji (talking)","あんたの言い分は解ってんだけどよ。 乃木大将以外に指示されたかねえっての。
 でもよ、そりゃ所詮、 あんた個人の心情の事だろ？
-あんたの躰はあんた一人のもんじゃねえ、 娘さんが居るんだろ？ 娘さんのために決断する気はねえか？";"I understand your point. I don't want to be told what to do by anyone other than the general of Nogi.
+あんたの躰はあんた一人のもんじゃねえ、 娘さんが居るんだろ？ 娘さんのために決断する気はねえか？","I understand your point. I don't want to be told what to do by anyone other than the general of Nogi.
 But, after all, it's about your personal feelings, isn't it?
-Your body is not yours alone. You have a daughter, right? Aren't you willing to make a decision for her?";"Sé lo que estás diciendo. No quiero que me diga lo que tengo que hacer nadie más que Nogi .
+Your body is not yours alone. You have a daughter, right? Aren't you willing to make a decision for her?","Sé lo que estás diciendo. No quiero que me diga lo que tengo que hacer nadie más que Nogi .
 Pero sigue tratándose de tus sentimientos personales, ¿no?
 Tu cuerpo no te pertenece sólo a ti. Tienes una hija, ¿verdad? ¿No estás dispuesto a tomar una decisión por ella?"
-"Nobi Hikari (talking)";"……………… …………卑怯なっ……";"………………………… Humbled by ……";"………………………… Humbug ……"
-"Yamamoto Akuji (talking)";"んー、卑怯っつーよりは 現実を見据えた取り引きのつもりだが。";"Well, it's more of a reality-based deal than a cowardly one.";"Bueno, es más un trato de realidad que de cobardía."
-"Nobi Hikari (talking)";"………………";"………………";"………………"
-"Yamamoto Akuji (talking)";"ほれ、俺と握手。";"Here, shake my hand.";"Toma, dame la mano."
-"narrator";"悪司は、野比に手を差し出した。";"Akuji held out his hand to Nobi.";"Akuji le tendió la mano a Nobi."
-"Nobi Hikari (talking)";"………………
- ………………解った…… 俺の負けだ……";"……………………………… got it…… I lost… …";"……………………………… lo tengo…… he perdido… …"
-"narrator";"野比は、悪司の手を力無く握り返した。";"Nobi squeezed Akuji's hand back without effort.";"Nobi devolvió la mano de Akuji sin esfuerzo."
-"Yamamoto Akuji (talking)";"…………………………！";"…………………………！";"…………………………！"
-"narrator";"大谷善継と野比ひかりが、 乃木大将の墓前に訪れていた。";"Ootani Yoshitsugu and Nobi Hikari visited the grave of General Nogi.";"Ootani Yoshitsugu y Nobi Hikari visitaron la tumba del general Nogi."
-"Nobi Hikari (talking)";"…………善継。 こちらの草刈りはもう終わったぞ。";"…………Yoshitsugu. We've already finished mowing the grass over here.";"…………Yoshitsugu. Ya hemos terminado de cortar el césped aquí."
-"Ootani Yoshitsugu (talking)";"……こちらもだ。";"…… here too.";"…… también aquí."
-"Nobi Hikari (talking)";"綺麗になった…… 乃木大将もお喜びになるかな。";"I'm sure General…… Nogi will be pleased with the clean up.";"Espero que el General…… …… Nogi esté satisfecho con la limpieza."
-"Ootani Yoshitsugu (talking)";"………………";"………………";"………………"
-"Nobi Hikari (talking)";"善継？";"Yoshitsugu?";"¿Yoshitsugu?"
-"Ootani Yoshitsugu (talking)";"野比、私はつくづく思う。 乃木大将は偉大な方だった。
+"Nobi Hikari (talking)","……………… …………卑怯なっ……","………………………… Humbled by ……","………………………… Humbug ……"
+"Yamamoto Akuji (talking)","んー、卑怯っつーよりは 現実を見据えた取り引きのつもりだが。","Well, it's more of a reality-based deal than a cowardly one.","Bueno, es más un trato de realidad que de cobardía."
+"Nobi Hikari (talking)","………………","………………","………………"
+"Yamamoto Akuji (talking)","ほれ、俺と握手。","Here, shake my hand.","Toma, dame la mano."
+"narrator","悪司は、野比に手を差し出した。","Akuji held out his hand to Nobi.","Akuji le tendió la mano a Nobi."
+"Nobi Hikari (talking)","………………
+ ………………解った…… 俺の負けだ……","……………………………… got it…… I lost… …","……………………………… lo tengo…… he perdido… …"
+"narrator","野比は、悪司の手を力無く握り返した。","Nobi squeezed Akuji's hand back without effort.","Nobi devolvió la mano de Akuji sin esfuerzo."
+"Yamamoto Akuji (talking)","…………………………！","…………………………！","…………………………！"
+"narrator","大谷善継と野比ひかりが、 乃木大将の墓前に訪れていた。","Ootani Yoshitsugu and Nobi Hikari visited the grave of General Nogi.","Ootani Yoshitsugu y Nobi Hikari visitaron la tumba del general Nogi."
+"Nobi Hikari (talking)","…………善継。 こちらの草刈りはもう終わったぞ。","…………Yoshitsugu. We've already finished mowing the grass over here.","…………Yoshitsugu. Ya hemos terminado de cortar el césped aquí."
+"Ootani Yoshitsugu (talking)","……こちらもだ。","…… here too.","…… también aquí."
+"Nobi Hikari (talking)","綺麗になった…… 乃木大将もお喜びになるかな。","I'm sure General…… Nogi will be pleased with the clean up.","Espero que el General…… …… Nogi esté satisfecho con la limpieza."
+"Ootani Yoshitsugu (talking)","………………","………………","………………"
+"Nobi Hikari (talking)","善継？","Yoshitsugu?","¿Yoshitsugu?"
+"Ootani Yoshitsugu (talking)","野比、私はつくづく思う。 乃木大将は偉大な方だった。
 大将が我らを、山本悪司の元へ 預けたいと言い始めた時は、 正直、大将の正気を疑ったが……
-結果、山本悪司はオオサカを征圧。 その元にオオサカは 秩序を取り戻しつつある。";"Nobi, I think deeply. General Nogi was a great man.
+結果、山本悪司はオオサカを征圧。 その元にオオサカは 秩序を取り戻しつつある。","Nobi, I think deeply. General Nogi was a great man.
 When he Hajime us to Yamamoto Akuji, I honestly doubted his sanity……
-As a result, Yamamoto Akuji conquered Osaka. As a result, Yamamoto Akuji conquered Osaca, and under him, Osaca is regaining order.";"Nobi, pienso para mí. El general Nogi fue un gran hombre.
+As a result, Yamamoto Akuji conquered Osaka. As a result, Yamamoto Akuji conquered Osaca, and under him, Osaca is regaining order.","Nobi, pienso para mí. El general Nogi fue un gran hombre.
 Cuando nos Hajime a Yamamoto Akuji, dudé sinceramente de su cordura, pero era un gran hombre……
 Como resultado, Yamamoto Akuji conquistó Osaka. Bajo su dirección, Osaca está recuperando el orden."
-"Nobi Hikari (talking)";"はは、汚れた秩序ではあるがな。";"Ha, it's a dirty order, though.";"Ja, aunque es una orden sucia."
-"Ootani Yoshitsugu (talking)";"それでも、終わることなき混沌より よほどましだ。
+"Nobi Hikari (talking)","はは、汚れた秩序ではあるがな。","Ha, it's a dirty order, though.","Ja, aunque es una orden sucia."
+"Ootani Yoshitsugu (talking)","それでも、終わることなき混沌より よほどましだ。
 このオオサカが、真の復興に向けて 走り始めるためには、 この秩序が必要だったのだ。
 大将はおそらく、 奴が……山本悪司がそこまで 大成することを見抜いておられた。
- …………私が死する前に、 この世でいい仕事をさせて頂いた。";"Still, it is better than endless chaos.
+ …………私が死する前に、 この世でいい仕事をさせて頂いた。","Still, it is better than endless chaos.
 This order was necessary for this Osaka to run and Hajime toward true restoration.
 Perhaps the General saw that he ……Yamamoto Akuji would make it that far.
-I did some good work in this world before my………… death.";"Aun así, es mejor que un caos interminable.
+I did some good work in this world before my………… death.","Aun así, es mejor que un caos interminable.
 Esta orden era necesaria para que este Osakan corriera y Hajime hacia la verdadera restauración.
 El General probablemente vio que ……Yamamoto Akuji llegaría tan lejos.
 Antes de mi muerte …………, hice un buen trabajo en este mundo."
-"Nobi Hikari (talking)";"…………善継……？";"…………Yoshitsugu ……?";"…………Yoshitsugu ……?"
-"Ootani Yoshitsugu (talking)";"……傷が神経を冒し始めた。 背が腐れば、長くはあるまい。
-だが、哀しくも怖くもない。 ……不思議な話なのだがな。";"……The wound affected the nerves and Hajimeed. If your back rots, it won't be for long.
-But I am not sad or afraid. It is a…… strange story, though.";"…… La herida afectó a los nervios y Hajimeed. Si tu espalda se pudre, no será por mucho tiempo.
+"Nobi Hikari (talking)","…………善継……？","…………Yoshitsugu ……?","…………Yoshitsugu ……?"
+"Ootani Yoshitsugu (talking)","……傷が神経を冒し始めた。 背が腐れば、長くはあるまい。
+だが、哀しくも怖くもない。 ……不思議な話なのだがな。","……The wound affected the nerves and Hajimeed. If your back rots, it won't be for long.
+But I am not sad or afraid. It is a…… strange story, though.","…… La herida afectó a los nervios y Hajimeed. Si tu espalda se pudre, no será por mucho tiempo.
 Pero no es triste ni aterrador. Sin embargo, es una historia extraña……"
-"Nobi Hikari (talking)";"そうか…………";"Right: …………";"Derecha: …………"
-"Ootani Yoshitsugu (talking)";"野比はどうする？";"What about Nobi?";"¿Qué pasa con Nobi?"
-"Nobi Hikari (talking)";"……土俵に戻る。 来年から大相撲が再開するらしい。 新弟子からやりなおすつもりだ。";"…… back in the ring. I heard that sumo will resume next year. I'm going to start over as a new apprentice.";"…… Vuelve al ruedo. He oído que el sumo se reanudará el próximo año. Voy a empezar de nuevo como un nuevo aprendiz."
-"Ootani Yoshitsugu (talking)";"……そうか。 ウィミィが許可を出したのか……";"…… I see. Did Wime give permission ……";"…… Ya veo. ¿Dio Wime permiso ……"
-"Nobi Hikari (talking)";"お互い、これからが大変だな。";"We both have a lot of work ahead of us.";"Ambos tenemos mucho trabajo por delante."
-"Ootani Yoshitsugu (talking)";"何、大丈夫だ。 ……大将が見守っていて下さる。";"What, it's okay. The general of…… is watching over us.";"Qué, está bien. El General nos vigila en ……."
-"Nobi Hikari (talking)";"ああ……そうだな。";"Yeah, ……, that's right.";"Sí…… Sí, eso es."
+"Nobi Hikari (talking)","そうか…………","Right: …………","Derecha: …………"
+"Ootani Yoshitsugu (talking)","野比はどうする？","What about Nobi?","¿Qué pasa con Nobi?"
+"Nobi Hikari (talking)","……土俵に戻る。 来年から大相撲が再開するらしい。 新弟子からやりなおすつもりだ。","…… back in the ring. I heard that sumo will resume next year. I'm going to start over as a new apprentice.","…… Vuelve al ruedo. He oído que el sumo se reanudará el próximo año. Voy a empezar de nuevo como un nuevo aprendiz."
+"Ootani Yoshitsugu (talking)","……そうか。 ウィミィが許可を出したのか……","…… I see. Did Wime give permission ……","…… Ya veo. ¿Dio Wime permiso ……"
+"Nobi Hikari (talking)","お互い、これからが大変だな。","We both have a lot of work ahead of us.","Ambos tenemos mucho trabajo por delante."
+"Ootani Yoshitsugu (talking)","何、大丈夫だ。 ……大将が見守っていて下さる。","What, it's okay. The general of…… is watching over us.","Qué, está bien. El General nos vigila en ……."
+"Nobi Hikari (talking)","ああ……そうだな。","Yeah, ……, that's right.","Sí…… Sí, eso es."

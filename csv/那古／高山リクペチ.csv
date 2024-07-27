@@ -1,188 +1,188 @@
-"character";"jap text";"Eng";"Esp"
-"__system__??";"{麦 = 1:";"";""
-"__system__??";"{☆リクペチ = 0:";"";""
-"__system__??";"{I装備[33] = 99:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 2:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 3:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 4:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 5:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 10:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 11:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 12:";"";""
-"__system__??";"{H愛欲抵抗 <= H愛欲:";"";""
-"__system__??";"}";"";""
-"__system__??";"{H愛欲 > 2:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 13:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 15:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 16:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 17:";"";""
-"__system__??";"{H拷問抵抗 < H拷問:";"";""
-"__system__??";"}";"";""
-"__system__??";"{H拷問 = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 18:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 19:";"";""
-"__system__??";"}";"";""
-"Takayama Rikupechi (talking)";"呼んだか。";"You called.";"Tú llamaste."
-"Yamamoto Akuji (talking)";"おう、まーな。";"Oh, well.";"Oh, maaan."
-"Takayama Rikupechi (talking)";"悪司。";"Akuji.";"Akuji."
-"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
-"Takayama Rikupechi (talking)";"ニホンの究極の調味料らしいので 買ったが……カレーには合わなかった。";"I bought it because it's supposedly the ultimate Japanese seasoning, but it didn't go well with…… curry.";"Lo compré porque se dice que es el condimento japonés por excelencia, pero no iba con el curry de ……."
-"Yamamoto Akuji (talking)";"どれ、見せてみな…
-なんだこりゃ。 くりりぷじゃねぇか。 これは、合わねぇなー。";"Let me see…
-What's this? It's a kuriripu. This doesn't match.";"Cuál, déjame ver…
+"character","jap text","Eng","Esp"
+"__system__??","{麦 = 1:","",""
+"__system__??","{☆リクペチ = 0:","",""
+"__system__??","{I装備[33] = 99:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 2:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 3:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 4:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 5:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 10:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 11:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 12:","",""
+"__system__??","{H愛欲抵抗 <= H愛欲:","",""
+"__system__??","}","",""
+"__system__??","{H愛欲 > 2:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 13:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 15:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 16:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 17:","",""
+"__system__??","{H拷問抵抗 < H拷問:","",""
+"__system__??","}","",""
+"__system__??","{H拷問 = 1:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 18:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 19:","",""
+"__system__??","}","",""
+"Takayama Rikupechi (talking)","呼んだか。","You called.","Tú llamaste."
+"Yamamoto Akuji (talking)","おう、まーな。","Oh, well.","Oh, maaan."
+"Takayama Rikupechi (talking)","悪司。","Akuji.","Akuji."
+"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
+"Takayama Rikupechi (talking)","ニホンの究極の調味料らしいので 買ったが……カレーには合わなかった。","I bought it because it's supposedly the ultimate Japanese seasoning, but it didn't go well with…… curry.","Lo compré porque se dice que es el condimento japonés por excelencia, pero no iba con el curry de ……."
+"Yamamoto Akuji (talking)","どれ、見せてみな…
+なんだこりゃ。 くりりぷじゃねぇか。 これは、合わねぇなー。","Let me see…
+What's this? It's a kuriripu. This doesn't match.","Cuál, déjame ver…
  ¿Qué es esto? Es un kuriripu, ¿no? Esto no encaja."
-"Takayama Rikupechi (talking)";"では、私には不要。 やる。";"Then, I do not need it. Will do.";"Entonces no lo necesito. Para hacer."
-"Yamamoto Akuji (talking)";"そーかい？ これだけで舐めるとケッコー うめぇって話なんだけどなー。
-食いしん坊は、一人でこれをペロリと 舐めて、たいらげちまうらしいぜ。";"Is that so? I'm told that it's really good when you lick it by itself.
-I heard that foodies lick it with Pelori and devour it all by themselves.";"¿Es así? Me han dicho que está muy bueno cuando se lame solo.
+"Takayama Rikupechi (talking)","では、私には不要。 やる。","Then, I do not need it. Will do.","Entonces no lo necesito. Para hacer."
+"Yamamoto Akuji (talking)","そーかい？ これだけで舐めるとケッコー うめぇって話なんだけどなー。
+食いしん坊は、一人でこれをペロリと 舐めて、たいらげちまうらしいぜ。","Is that so? I'm told that it's really good when you lick it by itself.
+I heard that foodies lick it with Pelori and devour it all by themselves.","¿Es así? Me han dicho que está muy bueno cuando se lame solo.
 He oído que los comensales lo lamen Pelori solo y lo devoran."
-"Takayama Rikupechi (talking)";"私はいらない。";"I don't want it.";"No lo quiero."
-"Yamamoto Akuji (talking)";"リクペチよぅ。 そろそろ、俺の躰が恋しい時期だろ？ 脱ぎな。";"Rikupechi Yo. It's time to miss my body, right? Take it off.";"Rikupechi Yo. Es hora de echar de menos mi cuerpo, ¿verdad? Quítatelo."
-"Takayama Rikupechi (talking)";"………";"………";"………"
-"Yamamoto Akuji (talking)";"服を着たままの方がいいってんなら、 それでもいいぜ。";"If you prefer to keep your clothes on, that's fine.";"Si prefieres quedarte con la ropa puesta, está bien."
-"Takayama Rikupechi (talking)";"あっ……！";"Oh, ……!";"¡Oh, ……!"
-"Takayama Rikupechi (talking)";"リクペチは、悪司に抱かれた。";"Rikupechi was embraced by Akuji.";"Rikupechi fue abrazado por Akuji."
-"Yamamoto Akuji (talking)";"あんたがこーいうモンに対して どーいう価値を持ってるか わかんねーけどよ…";"I don't know what kind of value you put on this stuff, but…";"No sé qué valor le das a este tipo de cosas, pero…"
-"Takayama Rikupechi (talking)";"金か。";"Money.";"Dinero."
-"Yamamoto Akuji (talking)";"ああ。";"Oh.";"Oh."
-"Takayama Rikupechi (talking)";"いらない。";"I don't want it.";"No lo quiero."
-"Yamamoto Akuji (talking)";"あ、そーかい。 そいつは助かるわ。";"Oh, okay. That's great.";"Oh, ya veo. Eso es muy útil."
-"narrator";"悪司の前に、リクペチが連れてこられた。";"Before Akuji, Rikupechi was brought in.";"Antes de Akuji, entró Rikupechi."
-"Takayama Rikupechi (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"あんたには苦労させられたよ。";"You gave me a hard time.";"Me hiciste pasar un mal rato."
-"Takayama Rikupechi (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"あんた、ナニ人？";"Who are you?";"¿Quién es usted?"
-"Takayama Rikupechi (talking)";"…………";"…………";"…………"
-"Yamamoto Akuji (talking)";"ジャマイカ、アフガニスタン、 パキスタン……
-いや、違うな、インド人か。";"Jamaica, Afghanistan, Pakistan ……
-No, no, no… Indian.";"Jamaica, Afganistán, Pakistán……
+"Takayama Rikupechi (talking)","私はいらない。","I don't want it.","No lo quiero."
+"Yamamoto Akuji (talking)","リクペチよぅ。 そろそろ、俺の躰が恋しい時期だろ？ 脱ぎな。","Rikupechi Yo. It's time to miss my body, right? Take it off.","Rikupechi Yo. Es hora de echar de menos mi cuerpo, ¿verdad? Quítatelo."
+"Takayama Rikupechi (talking)","………","………","………"
+"Yamamoto Akuji (talking)","服を着たままの方がいいってんなら、 それでもいいぜ。","If you prefer to keep your clothes on, that's fine.","Si prefieres quedarte con la ropa puesta, está bien."
+"Takayama Rikupechi (talking)","あっ……！","Oh, ……!","¡Oh, ……!"
+"Takayama Rikupechi (talking)","リクペチは、悪司に抱かれた。","Rikupechi was embraced by Akuji.","Rikupechi fue abrazado por Akuji."
+"Yamamoto Akuji (talking)","あんたがこーいうモンに対して どーいう価値を持ってるか わかんねーけどよ…","I don't know what kind of value you put on this stuff, but…","No sé qué valor le das a este tipo de cosas, pero…"
+"Takayama Rikupechi (talking)","金か。","Money.","Dinero."
+"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
+"Takayama Rikupechi (talking)","いらない。","I don't want it.","No lo quiero."
+"Yamamoto Akuji (talking)","あ、そーかい。 そいつは助かるわ。","Oh, okay. That's great.","Oh, ya veo. Eso es muy útil."
+"narrator","悪司の前に、リクペチが連れてこられた。","Before Akuji, Rikupechi was brought in.","Antes de Akuji, entró Rikupechi."
+"Takayama Rikupechi (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","あんたには苦労させられたよ。","You gave me a hard time.","Me hiciste pasar un mal rato."
+"Takayama Rikupechi (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","あんた、ナニ人？","Who are you?","¿Quién es usted?"
+"Takayama Rikupechi (talking)","…………","…………","…………"
+"Yamamoto Akuji (talking)","ジャマイカ、アフガニスタン、 パキスタン……
+いや、違うな、インド人か。","Jamaica, Afghanistan, Pakistan ……
+No, no, no… Indian.","Jamaica, Afganistán, Pakistán……
 No, no, no, indio."
-"Takayama Rikupechi (talking)";"…………";"…………";"…………"
-"Yamamoto Akuji (talking)";"インド人ってさ、みんなカレー好きって ホントなのかい？";"Is it true that all Indians like curry?";"¿Es cierto que a todos los indios les gusta el curry?"
-"Takayama Rikupechi (talking)";"…………";"…………";"…………"
-"__system__??";"{☆高山 = 99:";"";""
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"おう、元気か。 インド人。";"Oh, how are you? Indian.";"¿Cómo estás? Indio."
-"Takayama Rikupechi (talking)";"……………";"……………";"……………"
-"__system__??";"{☆高山 = 99:";"";""
-"__system__??";"}";"";""
-"Yamamoto Akuji (thinking)";"ん~…こいつのボスのはみも 逃がしてやった事だし、 こいつも逃がしてやった方がいいかな…？
+"Takayama Rikupechi (talking)","…………","…………","…………"
+"Yamamoto Akuji (talking)","インド人ってさ、みんなカレー好きって ホントなのかい？","Is it true that all Indians like curry?","¿Es cierto que a todos los indios les gusta el curry?"
+"Takayama Rikupechi (talking)","…………","…………","…………"
+"__system__??","{☆高山 = 99:","",""
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","おう、元気か。 インド人。","Oh, how are you? Indian.","¿Cómo estás? Indio."
+"Takayama Rikupechi (talking)","……………","……………","……………"
+"__system__??","{☆高山 = 99:","",""
+"__system__??","}","",""
+"Yamamoto Akuji (thinking)","ん~…こいつのボスのはみも 逃がしてやった事だし、 こいつも逃がしてやった方がいいかな…？
 高山とはあまりしこりを残して おきたくないしな…
-さて…";"Well… we let his boss Hami go, so maybe we should let him go too…?
+さて…","Well… we let his boss Hami go, so maybe we should let him go too…?
 I don't want to leave too much of a residue with Takayama…
-Well…";"Bueno… dejamos ir a su jefe Hami, así que tal vez deberíamos dejarlo ir a él también…
+Well…","Bueno… dejamos ir a su jefe Hami, así que tal vez deberíamos dejarlo ir a él también…
 No quiero dejar demasiados residuos entre yo y Takayama…
 Bueno…"
-"__system__??";"{RETURN = 1:";"";""
-"Yamamoto Akuji (talking)";"あんた、ヒロシマ帰りたい？";"You want to go back to Hiroshima?";"¿Quieres volver a Hiroshima?"
-"Takayama Rikupechi (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"はみは、ヒロシマに帰したんだけど。";"I sent Hami back to Hiroshima.";"Hami fue enviado de vuelta a Hiroshima."
-"Takayama Rikupechi (talking)";"ならば、戻りたい。 ヒロシマに。";"Then, I want to go back. To Hiroshima.";"Entonces quiero volver. A Hiroshima."
-"Yamamoto Akuji (talking)";"そーかい。 じゃあ、帰りな。";"Okay. Well, go home.";"De acuerdo. Bueno, vete a casa."
-"Takayama Rikupechi (talking)";"いいのか？";"Are you sure?";"¿Está seguro?"
-"Yamamoto Akuji (talking)";"俺が帰してやるっつってんだから、 いいんだよ。";"I said I'd get you home, so it's okay.";"Dije que te llevaría a casa, así que está bien."
-"Takayama Rikupechi (talking)";"見返りは要求しないのか？";"And you don't ask for anything in return?";"¿No exige nada a cambio?"
-"Yamamoto Akuji (talking)";"ああ。";"Oh.";"Oh."
-"Takayama Rikupechi (talking)";"………………
-ありがとう。";"………………
-Thank you.";"Disponible en: ………………
+"__system__??","{RETURN = 1:","",""
+"Yamamoto Akuji (talking)","あんた、ヒロシマ帰りたい？","You want to go back to Hiroshima?","¿Quieres volver a Hiroshima?"
+"Takayama Rikupechi (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","はみは、ヒロシマに帰したんだけど。","I sent Hami back to Hiroshima.","Hami fue enviado de vuelta a Hiroshima."
+"Takayama Rikupechi (talking)","ならば、戻りたい。 ヒロシマに。","Then, I want to go back. To Hiroshima.","Entonces quiero volver. A Hiroshima."
+"Yamamoto Akuji (talking)","そーかい。 じゃあ、帰りな。","Okay. Well, go home.","De acuerdo. Bueno, vete a casa."
+"Takayama Rikupechi (talking)","いいのか？","Are you sure?","¿Está seguro?"
+"Yamamoto Akuji (talking)","俺が帰してやるっつってんだから、 いいんだよ。","I said I'd get you home, so it's okay.","Dije que te llevaría a casa, así que está bien."
+"Takayama Rikupechi (talking)","見返りは要求しないのか？","And you don't ask for anything in return?","¿No exige nada a cambio?"
+"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
+"Takayama Rikupechi (talking)","………………
+ありがとう。","………………
+Thank you.","Disponible en: ………………
 Gracias."
-"narrator";"こうして、リクペチは解放された。";"Thus, Rikupechi was released.";"Así, Rikupechi fue liberado."
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"さーてと。";"Well, let's see.";"Bueno, veamos."
-"narrator";"悪司はリクペチを抱きあげた。";"Akuji picked up Rikupechi.";"Akuji sostuvo a Rikupechi."
-"Yamamoto Akuji (talking)";"こーいう状態になったら、女は男に ナニされるかは、万国共通だと 思うんだけどな。";"I think it's universal what women will do to men in such a situation.";"Creo que es universal lo que las mujeres harán a los hombres en una situación como esta."
-" (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"まあ、ウタマロっちゅーのも 味わってみたっていいだろ？";"Well, why don't you try a taste of Utamaro?";"Bueno, ¿por qué no pruebas la babosa de mar, eh?"
-" (talking)";"………！！";"………！！";"………！！"
-" (talking)";"悪司のテクニックにリクペチは、声をあげた……";"Rikupechi voiced Akuji's technique: ……";"Rikupechi expresó la técnica de Akuji: ……"
-"Yamamoto Akuji (talking)";"ふい~~…";"Whew~…";"Whew~…"
-"Takayama Rikupechi (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"抵抗すんなって。 そのうち無理になるからさ。";"Don't resist. It'll become too much.";"No te resistas. Al final será demasiado."
-"Takayama Rikupechi (talking)";"…………";"…………";"…………"
-"Yamamoto Akuji (talking)";"さーて、じゃあまたキレーな足を 広げて貰おうかな。";"Well, then, let's have them spread their pretty legs again.";"Muy bien, entonces, vamos a hacer que abras esas bonitas piernas de nuevo."
-"Takayama Rikupechi (talking)";"っ……！";"I'm at ……!";"¡……!"
-"Yamamoto Akuji (talking)";"そろそろ、躰が馴染んできてるだろ？";"By now, your body is getting used to it, right?";"Ya es hora de que el cuerpo se acostumbre, ¿no?"
-"Takayama Rikupechi (talking)";"っ……！！";"I'm at ……!!!!!!!";"¡¡¡¡……!!!!"
-"Takayama Rikupechi (talking)";"リクペチは、悪司に徹底的にこまされた。";"Rikupechi was thoroughly shod by Akuji.";"Rikupechi fue jorobado a fondo por Akuji."
-"Yamamoto Akuji (talking)";"ごっそーさん。";"Gosso-san.";"Gosso-san."
-"Takayama Rikupechi (talking)";"えっ…もう…";"What… already…";"Qué… ya…"
-"Yamamoto Akuji (talking)";"もう――なんだい？";"Already--what is it?";"Ya - ¿qué es?"
-"Takayama Rikupechi (talking)";"っ……";"You can find out more at ……";"……"
-"Yamamoto Akuji (talking)";"俺の女になるか？";"Will you be my girl?";"¿Quieres ser mi mujer?"
-"Takayama Rikupechi (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"やれやれ。";"Oh dear.";"Oh, Dios."
-"Yamamoto Akuji (talking)";"何か欲しいモンはないか？";"Is there anything you want?";"¿Tienes algo que quieras?"
-"Takayama Rikupechi (talking)";"…………";"…………";"…………"
-"Yamamoto Akuji (talking)";"カレーはどうだ？ さっちゃんのは美味いぞ。";"How's the curry? Satchan's is delicious.";"¿Cómo está el curry? Satcha's es delicioso."
-"Takayama Rikupechi (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"インド風の方がいいのか？";"Would you prefer Indian style?";"¿Prefieres un estilo indio?"
-"Takayama Rikupechi (talking)";"……………";"……………";"……………"
-"Yamamoto Akuji (talking)";"さーてと。";"Well, let's see.";"Bueno, veamos."
-"narrator";"悪司はリクペチの手を取った。";"Akuji took Rikupechi's hand.";"Akuji tomó la mano de Rikupechi."
-"Yamamoto Akuji (talking)";"今日も抱いてやるよ。";"I'll hold you today.";"Hoy te aguantaré."
-"Takayama Rikupechi (talking)";"っ……";"You can find out more at ……";"……"
-"narrator";"いつもより、リクペチの躰からは 固さが消えていた。";"The hardness was gone from Rikupechi's body more than usual.";"El cuerpo de Rikupechi estaba menos duro que de costumbre."
-"narrator";"リクペチは、自ら悪司を求めて腰を動かした。";"Rikupechi moved his hips in search of Akuji himself.";"Rikupechi movió sus caderas en busca de la propia Akuji."
-"Yamamoto Akuji (talking)";"…よっ……と……";"…by…… and ……";"…por…… y ……"
-"narrator";"悪司は抱いている途中で、リクペチの中から 自分の一物を引き抜いた。";"Akuji pulled out his own piece from Rikupechi in the middle of holding it.";"Akuji sacó uno de los suyos de Rikupechi en medio de la sujeción."
-"Takayama Rikupechi (talking)";"あっ……";"Oh, ……";"Ah: ……"
-"Yamamoto Akuji (talking)";"どうした？";"What's up?";"¿Qué pasa?"
-"Takayama Rikupechi (talking)";"途中でっ……そんな…";"On the way to…… such…";"De camino a…… tal…"
-"Yamamoto Akuji (talking)";"ちゃんと最後までメンドー見て 欲しいのか？";"You want me to watch Mendo all the way through?";"¿Quieres que vea el Mendo hasta el final?"
-"Takayama Rikupechi (talking)";"…………";"…………";"…………"
-"narrator";"リクペチは小さくコクリと頷いた。";"Rikupechi nodded with a small cockle.";"Rikupechi asintió con la cabeza con un pequeño berrinche."
-"Yamamoto Akuji (talking)";"俺の部下になるってんなら、 続けてやるよ。";"If you want to be my man, I'll keep doing it.";"Si quieres ser mi hombre, seguiré."
-"Takayama Rikupechi (talking)";"…………";"…………";"…………"
-"Yamamoto Akuji (talking)";"あ~、寒い寒い。 大事なとこから風邪ひきそーだから、 しまっちゃおーかなーっと。";"Oh, it's cold, cold, cold. I'm afraid I'm going to catch a cold from an important part of my body, so I think I'll put it away.";"Oh, está frío, frío, frío. Voy a coger un resfriado de algún sitio importante, así que mejor lo guardo."
-"Takayama Rikupechi (talking)";"…………ぁ…";"…………Ah…";"…………aa…"
-"Yamamoto Akuji (talking)";"ん？";"Hmm?";"¿Eh?"
-"Takayama Rikupechi (talking)";"わかった…なる…なるから……";"Okay…will be…will be…will be ……";"Muy bien… será… será… ……"
-"Yamamoto Akuji (talking)";"よっしゃ。 じゃあ今日は記念に、 いやっちゅーほどしてやるよ。
-そーいやぁ、お前さんの名前は？";"All right. I'm gonna give you a little something to remember the day by.
-Oh, by the way, what's your name?";"Muy bien. Te doy un gran yipi por hoy.
+"narrator","こうして、リクペチは解放された。","Thus, Rikupechi was released.","Así, Rikupechi fue liberado."
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","さーてと。","Well, let's see.","Bueno, veamos."
+"narrator","悪司はリクペチを抱きあげた。","Akuji picked up Rikupechi.","Akuji sostuvo a Rikupechi."
+"Yamamoto Akuji (talking)","こーいう状態になったら、女は男に ナニされるかは、万国共通だと 思うんだけどな。","I think it's universal what women will do to men in such a situation.","Creo que es universal lo que las mujeres harán a los hombres en una situación como esta."
+" (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","まあ、ウタマロっちゅーのも 味わってみたっていいだろ？","Well, why don't you try a taste of Utamaro?","Bueno, ¿por qué no pruebas la babosa de mar, eh?"
+" (talking)","………！！","………！！","………！！"
+" (talking)","悪司のテクニックにリクペチは、声をあげた……","Rikupechi voiced Akuji's technique: ……","Rikupechi expresó la técnica de Akuji: ……"
+"Yamamoto Akuji (talking)","ふい~~…","Whew~…","Whew~…"
+"Takayama Rikupechi (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","抵抗すんなって。 そのうち無理になるからさ。","Don't resist. It'll become too much.","No te resistas. Al final será demasiado."
+"Takayama Rikupechi (talking)","…………","…………","…………"
+"Yamamoto Akuji (talking)","さーて、じゃあまたキレーな足を 広げて貰おうかな。","Well, then, let's have them spread their pretty legs again.","Muy bien, entonces, vamos a hacer que abras esas bonitas piernas de nuevo."
+"Takayama Rikupechi (talking)","っ……！","I'm at ……!","¡……!"
+"Yamamoto Akuji (talking)","そろそろ、躰が馴染んできてるだろ？","By now, your body is getting used to it, right?","Ya es hora de que el cuerpo se acostumbre, ¿no?"
+"Takayama Rikupechi (talking)","っ……！！","I'm at ……!!!!!!!","¡¡¡¡……!!!!"
+"Takayama Rikupechi (talking)","リクペチは、悪司に徹底的にこまされた。","Rikupechi was thoroughly shod by Akuji.","Rikupechi fue jorobado a fondo por Akuji."
+"Yamamoto Akuji (talking)","ごっそーさん。","Gosso-san.","Gosso-san."
+"Takayama Rikupechi (talking)","えっ…もう…","What… already…","Qué… ya…"
+"Yamamoto Akuji (talking)","もう――なんだい？","Already--what is it?","Ya - ¿qué es?"
+"Takayama Rikupechi (talking)","っ……","You can find out more at ……","……"
+"Yamamoto Akuji (talking)","俺の女になるか？","Will you be my girl?","¿Quieres ser mi mujer?"
+"Takayama Rikupechi (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","やれやれ。","Oh dear.","Oh, Dios."
+"Yamamoto Akuji (talking)","何か欲しいモンはないか？","Is there anything you want?","¿Tienes algo que quieras?"
+"Takayama Rikupechi (talking)","…………","…………","…………"
+"Yamamoto Akuji (talking)","カレーはどうだ？ さっちゃんのは美味いぞ。","How's the curry? Satchan's is delicious.","¿Cómo está el curry? Satcha's es delicioso."
+"Takayama Rikupechi (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","インド風の方がいいのか？","Would you prefer Indian style?","¿Prefieres un estilo indio?"
+"Takayama Rikupechi (talking)","……………","……………","……………"
+"Yamamoto Akuji (talking)","さーてと。","Well, let's see.","Bueno, veamos."
+"narrator","悪司はリクペチの手を取った。","Akuji took Rikupechi's hand.","Akuji tomó la mano de Rikupechi."
+"Yamamoto Akuji (talking)","今日も抱いてやるよ。","I'll hold you today.","Hoy te aguantaré."
+"Takayama Rikupechi (talking)","っ……","You can find out more at ……","……"
+"narrator","いつもより、リクペチの躰からは 固さが消えていた。","The hardness was gone from Rikupechi's body more than usual.","El cuerpo de Rikupechi estaba menos duro que de costumbre."
+"narrator","リクペチは、自ら悪司を求めて腰を動かした。","Rikupechi moved his hips in search of Akuji himself.","Rikupechi movió sus caderas en busca de la propia Akuji."
+"Yamamoto Akuji (talking)","…よっ……と……","…by…… and ……","…por…… y ……"
+"narrator","悪司は抱いている途中で、リクペチの中から 自分の一物を引き抜いた。","Akuji pulled out his own piece from Rikupechi in the middle of holding it.","Akuji sacó uno de los suyos de Rikupechi en medio de la sujeción."
+"Takayama Rikupechi (talking)","あっ……","Oh, ……","Ah: ……"
+"Yamamoto Akuji (talking)","どうした？","What's up?","¿Qué pasa?"
+"Takayama Rikupechi (talking)","途中でっ……そんな…","On the way to…… such…","De camino a…… tal…"
+"Yamamoto Akuji (talking)","ちゃんと最後までメンドー見て 欲しいのか？","You want me to watch Mendo all the way through?","¿Quieres que vea el Mendo hasta el final?"
+"Takayama Rikupechi (talking)","…………","…………","…………"
+"narrator","リクペチは小さくコクリと頷いた。","Rikupechi nodded with a small cockle.","Rikupechi asintió con la cabeza con un pequeño berrinche."
+"Yamamoto Akuji (talking)","俺の部下になるってんなら、 続けてやるよ。","If you want to be my man, I'll keep doing it.","Si quieres ser mi hombre, seguiré."
+"Takayama Rikupechi (talking)","…………","…………","…………"
+"Yamamoto Akuji (talking)","あ~、寒い寒い。 大事なとこから風邪ひきそーだから、 しまっちゃおーかなーっと。","Oh, it's cold, cold, cold. I'm afraid I'm going to catch a cold from an important part of my body, so I think I'll put it away.","Oh, está frío, frío, frío. Voy a coger un resfriado de algún sitio importante, así que mejor lo guardo."
+"Takayama Rikupechi (talking)","…………ぁ…","…………Ah…","…………aa…"
+"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
+"Takayama Rikupechi (talking)","わかった…なる…なるから……","Okay…will be…will be…will be ……","Muy bien… será… será… ……"
+"Yamamoto Akuji (talking)","よっしゃ。 じゃあ今日は記念に、 いやっちゅーほどしてやるよ。
+そーいやぁ、お前さんの名前は？","All right. I'm gonna give you a little something to remember the day by.
+Oh, by the way, what's your name?","Muy bien. Te doy un gran yipi por hoy.
 Entonces, ¿cómo te llamas?"
-"Takayama Rikupechi (talking)";"……リクペチ…";"……Rikupechi…";"……Rikupechi…"
-"Yamamoto Akuji (talking)";"よし、リクペチ。 きな。";"Okay, Rikupechi. Kina.";"Bien, Rikupechi. Kina."
-"Takayama Rikupechi (talking)";"あっ……！";"Oh, ……!";"¡Oh, ……!"
-"Yamamoto Akuji (thinking)";"こいつに、ＧＡＬバーガーの店員……";"To this guy, the clerk at GAL Burger ……";"A este tipo, el empleado de GAL Burger: ……"
-"narrator";"悪司はじーっとリクペチを見つめる。";"Akuji stares at Rikupechi.";"Akuji mira fijamente a Rikupechi."
-"Yamamoto Akuji (thinking)";"やめておこう。 あの服を着ると違和感がありそーだ。";"I'd better not. I would feel uncomfortable in that dress.";"No debería. Me sentiría incómoda con ese vestido."
-"Tamanegi (talking)";"ああ、ここにいたのですね。";"Ah, here you are.";"Ah, aquí está."
-"Takayama Rikupechi (talking)";"…………";"…………";"…………"
-"Tamanegi (talking)";"ここに入れられた事が、 そんなに嫌ですか。";"Do you really hate it so much that they put you in here?";"¿Realmente odias tanto que te hayan puesto aquí?"
-"Takayama Rikupechi (talking)";"…………";"…………";"…………"
-"Tamanegi (talking)";"ですがもう、あなたは男から得られる 悦びを、その躰で知っている。";"But you already know the pleasure you can get from a man with your body.";"Pero ya sabes el placer que puedes obtener de un hombre con tu cuerpo."
-"Takayama Rikupechi (talking)";"っ……";"You can find out more at ……";"……"
-"Tamanegi (talking)";"それをもっと素直に感じる事が 出来るように、あなたを壊して 差し上げますよ。
-さあ、こちらにいらっしゃい。 拒否する事は出来ませんよ……";"I'm going to break you down so you can feel it more honestly.
-Come on, come here. You can't refuse……";"Voy a desglosarlo para que lo sientas con más sinceridad.
+"Takayama Rikupechi (talking)","……リクペチ…","……Rikupechi…","……Rikupechi…"
+"Yamamoto Akuji (talking)","よし、リクペチ。 きな。","Okay, Rikupechi. Kina.","Bien, Rikupechi. Kina."
+"Takayama Rikupechi (talking)","あっ……！","Oh, ……!","¡Oh, ……!"
+"Yamamoto Akuji (thinking)","こいつに、ＧＡＬバーガーの店員……","To this guy, the clerk at GAL Burger ……","A este tipo, el empleado de GAL Burger: ……"
+"narrator","悪司はじーっとリクペチを見つめる。","Akuji stares at Rikupechi.","Akuji mira fijamente a Rikupechi."
+"Yamamoto Akuji (thinking)","やめておこう。 あの服を着ると違和感がありそーだ。","I'd better not. I would feel uncomfortable in that dress.","No debería. Me sentiría incómoda con ese vestido."
+"Tamanegi (talking)","ああ、ここにいたのですね。","Ah, here you are.","Ah, aquí está."
+"Takayama Rikupechi (talking)","…………","…………","…………"
+"Tamanegi (talking)","ここに入れられた事が、 そんなに嫌ですか。","Do you really hate it so much that they put you in here?","¿Realmente odias tanto que te hayan puesto aquí?"
+"Takayama Rikupechi (talking)","…………","…………","…………"
+"Tamanegi (talking)","ですがもう、あなたは男から得られる 悦びを、その躰で知っている。","But you already know the pleasure you can get from a man with your body.","Pero ya sabes el placer que puedes obtener de un hombre con tu cuerpo."
+"Takayama Rikupechi (talking)","っ……","You can find out more at ……","……"
+"Tamanegi (talking)","それをもっと素直に感じる事が 出来るように、あなたを壊して 差し上げますよ。
+さあ、こちらにいらっしゃい。 拒否する事は出来ませんよ……","I'm going to break you down so you can feel it more honestly.
+Come on, come here. You can't refuse……","Voy a desglosarlo para que lo sientas con más sinceridad.
 Vamos, ven aquí. No puedes rechazarme……"
-"cg narrator";"「くっ……けけっ…」
+"cg narrator","「くっ……けけっ…」
  「ひひっ……ひひひっ…」
- 「たまんねぇな、おい…」";"”Damn ………”
+ 「たまんねぇな、おい…」","”Damn ………”
  “Hee-hee-hee-hee…”
-I love it, man…”";"”Crap”… ……
+I love it, man…”","”Crap”… ……
  “Hee-hee-hee…… hee-hee-hee…”
 Me encanta, tío…”"
-"cg narrator";"そこにいた男達は、 タマネギが集めた浮浪者達だった。
+"cg narrator","そこにいた男達は、 タマネギが集めた浮浪者達だった。
 卑屈に笑う男達の声が響く。
 普段、蔑まれた生活を送るしかない彼らの前に、 リクペチは何をしてもよい奴隷として タマネギが連れてきたのだった。
  「奴隷だってよ…… 　俺達よりミジメな奴がいるんだよ、 　この世には…」
@@ -254,7 +254,7 @@ Me encanta, tío…”"
  「へへっ…食らいな、ラッシーシャワーだ！」
 リクペチの手、顔、花弁。 すべてが白濁の体液に染まる。
  「うっ…あっ…ぁぁっ……！！」
-リクペチはそれを受け、さらに大きく躰を震わせた。";"The men there were vagrants collected by Tamanegi.
+リクペチはそれを受け、さらに大きく躰を震わせた。","The men there were vagrants collected by Tamanegi.
 The men's voices echoed with sneering laughter.
 They were brought by Tamanegi as slaves who could do anything Rikupechi could do to them, who usually had no choice but to lead a despised life.
 He said, “Slaves…… There are more miserable people in this world than us…”
@@ -326,7 +326,7 @@ I'm going to come ………”
  “Heh heh heh… eat up, lassie shower!”
 Rikupechi's hands, face, petals. All of them are stained with Haku's bodily fluids.
  “Ugh…ah…ah………!
-Rikupechi received it, and her body shook even louder.";"Los hombres allí eran vagabundos recogidos por Tamanegi.
+Rikupechi received it, and her body shook even louder.","Los hombres allí eran vagabundos recogidos por Tamanegi.
 Las voces de los hombres resonaron mientras se reían con desprecio.
 Antes de ellos, que normalmente no tienen más remedio que llevar una vida despreciada, Rikupechi había sido traído por Tamanegi como un esclavo que podía hacer lo que quisiera.
  'Esclavos,…… hay gente más miserable en este mundo que nosotros…'
@@ -399,5 +399,5 @@ Voy a venir a ………”
 Rikupechi las manos, la cara y los pétalos. Todo está manchado con los fluidos corporales de Haku.
  ¡'Ugh… ah… ah ……!
 Rikupechi lo recibió y su cuerpo tembló aún más."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""

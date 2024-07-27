@@ -1,117 +1,117 @@
-"character";"jap text";"Eng";"Esp"
-"__system__??";"{麦 = 1:";"";""
-"__system__??";"{☆森田２ = 0:";"";""
-"__system__??";"}";"";""
-"__system__??";"{☆天才病院 = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"{☆森田 = 4:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 2:";"";""
-"__system__??";"{(B忠誠タイプ = 3) * (B忠誠心 > 70):";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 3:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 4:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 10:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 11:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 12:";"";""
-"__system__??";"{H愛欲 = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"{H愛欲 = 3:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 13:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 15:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 16:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 17:";"";""
-"__system__??";"{H拷問抵抗 < H拷問:";"";""
-"__system__??";"}";"";""
-"__system__??";"{H拷問 = 1:";"";""
-"__system__??";"}";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 18:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 5:";"";""
-"__system__??";"}";"";""
-"__system__??";"{麦 = 19:";"";""
-"__system__??";"}";"";""
-"morita  ai (talking)";"はぁぁぁ~~ん…… 駄目でござんす、駄目駄目です。
+"character","jap text","Eng","Esp"
+"__system__??","{麦 = 1:","",""
+"__system__??","{☆森田２ = 0:","",""
+"__system__??","}","",""
+"__system__??","{☆天才病院 = 1:","",""
+"__system__??","}","",""
+"__system__??","{☆森田 = 4:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 2:","",""
+"__system__??","{(B忠誠タイプ = 3) * (B忠誠心 > 70):","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 3:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 4:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 10:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 11:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 12:","",""
+"__system__??","{H愛欲 = 1:","",""
+"__system__??","}","",""
+"__system__??","{H愛欲 = 3:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 13:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 15:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 16:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 17:","",""
+"__system__??","{H拷問抵抗 < H拷問:","",""
+"__system__??","}","",""
+"__system__??","{H拷問 = 1:","",""
+"__system__??","}","",""
+"__system__??","}","",""
+"__system__??","{麦 = 18:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 5:","",""
+"__system__??","}","",""
+"__system__??","{麦 = 19:","",""
+"__system__??","}","",""
+"morita  ai (talking)","はぁぁぁ~~ん…… 駄目でござんす、駄目駄目です。
 あたしゃ、自分が情けないでござんすよ。
-義理と任侠の世界で生きようと 決意したのに、あの男の色香に 迷わされるなんざー……";"Haaaaahhhhhh…… I'm no good, I'm no good.
+義理と任侠の世界で生きようと 決意したのに、あの男の色香に 迷わされるなんざー……","Haaaaahhhhhh…… I'm no good, I'm no good.
 I'm ashamed of myself.
-I made up my mind to live in the world of duty and chivalry, but I'm lost in that man's sex appeal… ……";"Haaahhhhhh…… No soy lo suficientemente bueno, no soy lo suficientemente bueno.
+I made up my mind to live in the world of duty and chivalry, but I'm lost in that man's sex appeal… ……","Haaahhhhhh…… No soy lo suficientemente bueno, no soy lo suficientemente bueno.
 Me avergüenzo de mí mismo.
 Me decidí a vivir en el mundo de la rectitud y la caballerosidad, pero me he perdido en el aroma de ese hombre… ……"
-"Yamamoto Akuji (talking)";"どの男？";"Which guy?";"¿Qué hombre?"
-"morita  ai (talking)";"あんた。";"You.";"A ti."
-"Yamamoto Akuji (talking)";"いつも直球勝負の女だな、 お前さんは……";"You've always been a direct bitch, you ……";"Siempre has sido una mujer directa, tú ……"
-"narrator";"悪司の元に愛がやってきた。";"Ai came to Akuji.";"Ai se acercó a Akuji."
-"morita  ai (talking)";"お呼びになりやしたかい？";"You wanted to see me?";"¿Querías verme?"
-"Yamamoto Akuji (talking)";"………………";"………………";"………………"
-"morita  ai (talking)";"何か？";"Yes?";"¿Sí?"
-"Yamamoto Akuji (talking)";"どっか体調が悪いとかねーか？";"I don't know, maybe you're not feeling well somewhere?";"¿Te sientes mal en alguna parte o algo así?"
-"morita  ai (talking)";"いえ、至極健康でござんすが。";"No, I am in perfect health.";"No, estoy en perfecto estado de salud."
-"Yamamoto Akuji (talking)";"こう……ハニワが恋しいとか…";"so…… misses Haniwa…";"Así:…… echa de menos al Haniwa…"
-"morita  ai (talking)";"ん？？ なんでござんすか、それは。";"Hmm? What is it?";"¿Eh? ¿Qué es, qué es?"
-"Yamamoto Akuji (talking)";"……………
-世の中には、知らない方が 幸せって事もあるんだ。";"……………
-There are some things in this world that we are happier not knowing.";"……………
+"Yamamoto Akuji (talking)","どの男？","Which guy?","¿Qué hombre?"
+"morita  ai (talking)","あんた。","You.","A ti."
+"Yamamoto Akuji (talking)","いつも直球勝負の女だな、 お前さんは……","You've always been a direct bitch, you ……","Siempre has sido una mujer directa, tú ……"
+"narrator","悪司の元に愛がやってきた。","Ai came to Akuji.","Ai se acercó a Akuji."
+"morita  ai (talking)","お呼びになりやしたかい？","You wanted to see me?","¿Querías verme?"
+"Yamamoto Akuji (talking)","………………","………………","………………"
+"morita  ai (talking)","何か？","Yes?","¿Sí?"
+"Yamamoto Akuji (talking)","どっか体調が悪いとかねーか？","I don't know, maybe you're not feeling well somewhere?","¿Te sientes mal en alguna parte o algo así?"
+"morita  ai (talking)","いえ、至極健康でござんすが。","No, I am in perfect health.","No, estoy en perfecto estado de salud."
+"Yamamoto Akuji (talking)","こう……ハニワが恋しいとか…","so…… misses Haniwa…","Así:…… echa de menos al Haniwa…"
+"morita  ai (talking)","ん？？ なんでござんすか、それは。","Hmm? What is it?","¿Eh? ¿Qué es, qué es?"
+"Yamamoto Akuji (talking)","……………
+世の中には、知らない方が 幸せって事もあるんだ。","……………
+There are some things in this world that we are happier not knowing.","……………
 A veces, cuanto menos sabes del mundo, más feliz eres”."
-"morita  ai (talking)";"気になるでござんすよ。";"I'm curious.";"Tengo curiosidad."
-"Yamamoto Akuji (talking)";"記憶にないんだったら、 それでいーじゃねぇか。";"If you don't remember, that's fine.";"Si no te acuerdas, no pasa nada."
-"morita  ai (talking)";"記憶がない……それはそれで、 ドラマみたいでかっこいいでござんす。";"I don't remember…… That's so cool, it's like a drama.";"No lo recuerdo…… Es genial, es como un drama."
-"morita  ai (talking)";"今日はなんですかい。 輪姦されるとか、そーいうんじゃ ないでやんすよね？";"What is it today? You're not going to be gang raped or anything like that, are you?";"¿Qué es hoy? No vas a ser violado por una pandilla o algo así, ¿verdad?"
-"Yamamoto Akuji (talking)";"輪姦して欲しいのか？";"You want me to gang-rape you?";"¿Quieres que te viole en grupo?"
-"morita  ai (talking)";"ぶるるるるるるるっっっっっっっっっっ。";"";""
-"morita  ai (talking)";"お呼びでござんすかー？";"You wanted to see me?";"¿Querías verme?"
-"Yamamoto Akuji (talking)";"おう……そーいや呼んでたな。 あんまし時間が経ってたんで 忘れてた。";"Oh, ……, you called me that. It's been so long, I forgot about it.";"Oh, ……, sí, lo has llamado. Ha pasado tanto tiempo que lo había olvidado."
-"morita  ai (talking)";"天才病院に行っていたでござんす。";"I was at the genius hospital.";"Estuve en el Hospital Genius."
-"Yamamoto Akuji (talking)";"びょーいん？ なんだ、脳波の検査か？";"Byooin? What is this, an EEG test?";"¿Byoo-in? ¿Qué, una prueba de electroencefalograma?"
-"morita  ai (talking)";"風邪をひいたんで、診察とお薬を もらいに行ってたんでござんす。";"I caught a cold, so I went to see a doctor and get some medicine.";"Estaba resfriado y fui a ver al médico para que me diera una medicina."
-"Yamamoto Akuji (talking)";"なんとかは風邪ひかねーってのは ウソだったのか？";"Was it a lie that “something” doesn't catch a cold?";"¿Era mentira que el “algo” no se resfría?"
-"morita  ai (talking)";"あたしゃ、なんとかじゃないんで 風邪ひくでござんす。 ふぇっくしゅぃーんっ。";"I'm not a person who can't handle a cold. I'm going to catch a cold.";"No soy un hombre, así que me resfrío. Fuhkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk."
-"Yamamoto Akuji (talking)";"くしゃみとか咳とかする時は 手で口ふさげって、習わなかったのかよ。";"Didn't you ever learn to cover your mouth with your hand when you sneeze or cough?";"¿No has aprendido a taparte la boca con la mano cuando estornudas o toses?"
-"morita  ai (talking)";"すいやせん、突発事故でさ。";"I'm sorry, it was an accident.";"Lo siento, fue un accidente."
-"Yamamoto Akuji (talking)";"その治療ってのは、 院長もしたりするのか？";"Does the Director do that treatment too?";"¿El director también hace ese tratamiento?"
-"morita  ai (talking)";"へい。 今日は院長先生に 診てもらいやしたよ。
-旦那も、あの院長、怪しいと 思ってるんでござんすか？";"Hey. I saw the director today.
-Does your husband also think that the director is suspicious?";"Hola. Hoy he visto al director.
+"morita  ai (talking)","気になるでござんすよ。","I'm curious.","Tengo curiosidad."
+"Yamamoto Akuji (talking)","記憶にないんだったら、 それでいーじゃねぇか。","If you don't remember, that's fine.","Si no te acuerdas, no pasa nada."
+"morita  ai (talking)","記憶がない……それはそれで、 ドラマみたいでかっこいいでござんす。","I don't remember…… That's so cool, it's like a drama.","No lo recuerdo…… Es genial, es como un drama."
+"morita  ai (talking)","今日はなんですかい。 輪姦されるとか、そーいうんじゃ ないでやんすよね？","What is it today? You're not going to be gang raped or anything like that, are you?","¿Qué es hoy? No vas a ser violado por una pandilla o algo así, ¿verdad?"
+"Yamamoto Akuji (talking)","輪姦して欲しいのか？","You want me to gang-rape you?","¿Quieres que te viole en grupo?"
+"morita  ai (talking)","ぶるるるるるるるっっっっっっっっっっ。","",""
+"morita  ai (talking)","お呼びでござんすかー？","You wanted to see me?","¿Querías verme?"
+"Yamamoto Akuji (talking)","おう……そーいや呼んでたな。 あんまし時間が経ってたんで 忘れてた。","Oh, ……, you called me that. It's been so long, I forgot about it.","Oh, ……, sí, lo has llamado. Ha pasado tanto tiempo que lo había olvidado."
+"morita  ai (talking)","天才病院に行っていたでござんす。","I was at the genius hospital.","Estuve en el Hospital Genius."
+"Yamamoto Akuji (talking)","びょーいん？ なんだ、脳波の検査か？","Byooin? What is this, an EEG test?","¿Byoo-in? ¿Qué, una prueba de electroencefalograma?"
+"morita  ai (talking)","風邪をひいたんで、診察とお薬を もらいに行ってたんでござんす。","I caught a cold, so I went to see a doctor and get some medicine.","Estaba resfriado y fui a ver al médico para que me diera una medicina."
+"Yamamoto Akuji (talking)","なんとかは風邪ひかねーってのは ウソだったのか？","Was it a lie that “something” doesn't catch a cold?","¿Era mentira que el “algo” no se resfría?"
+"morita  ai (talking)","あたしゃ、なんとかじゃないんで 風邪ひくでござんす。 ふぇっくしゅぃーんっ。","I'm not a person who can't handle a cold. I'm going to catch a cold.","No soy un hombre, así que me resfrío. Fuhkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk."
+"Yamamoto Akuji (talking)","くしゃみとか咳とかする時は 手で口ふさげって、習わなかったのかよ。","Didn't you ever learn to cover your mouth with your hand when you sneeze or cough?","¿No has aprendido a taparte la boca con la mano cuando estornudas o toses?"
+"morita  ai (talking)","すいやせん、突発事故でさ。","I'm sorry, it was an accident.","Lo siento, fue un accidente."
+"Yamamoto Akuji (talking)","その治療ってのは、 院長もしたりするのか？","Does the Director do that treatment too?","¿El director también hace ese tratamiento?"
+"morita  ai (talking)","へい。 今日は院長先生に 診てもらいやしたよ。
+旦那も、あの院長、怪しいと 思ってるんでござんすか？","Hey. I saw the director today.
+Does your husband also think that the director is suspicious?","Hola. Hoy he visto al director.
  ¿Su marido también cree que el director es sospechoso?"
-"Yamamoto Akuji (talking)";"俺もって…";"Me too…";"Yo también…"
-"morita  ai (talking)";"あたしも、あの院長は嫌いでして。";"I didn't like the director either.";"A mí tampoco me gustaba ese director."
-"Yamamoto Akuji (talking)";"どうしてだ？";"Why?";"¿Por qué?"
-"morita  ai (talking)";"世間様には評判がよろしくても、 あたしの目にはそうは映らないんで。";"I know it may have a good reputation among the public, but not in my eyes.";"Sé que es popular entre el público, pero a mis ojos no funciona así."
-"Yamamoto Akuji (talking)";"何かそういう素振りでも見たのか？";"Did you see any pretense of that?";"¿Viste alguna pretensión de eso?"
-"morita  ai (talking)";"ドラマの定番じゃござんせんか。 美形で評判のいい医者が、裏で 怪しい趣味をもっていたりするのは。";"Isn't this a staple of dramas? A good looking doctor with a good reputation, but with shady hobbies behind his back.";"¿No es esto un elemento básico del drama? Un médico guapo y reputado con dudosas aficiones a sus espaldas."
-"Yamamoto Akuji (talking)";"…それだけか？";"…That's it?";"…¿eso es todo?"
-"morita  ai (talking)";"そうでござんす。";"That's right.";"Sí, lo es."
-"Yamamoto Akuji (talking)";"お前やっぱ脳波 調べてもらってこい。";"Go get your brain waves checked.";"Deberías ir a que te revisen las ondas cerebrales."
-"morita  ai (talking)";"どうしてでござんすかーー！！";"Why is that?";"¿Por qué?"
-"Yamamoto Akuji (thinking)";"しかし、愛の言い分はともかく、 誰にも評判がいい人間なんて 存在すんのかねー……";"But love's argument notwithstanding, I wonder if there is such a thing as a person with a good reputation with anyone……";"Pero, a pesar de lo que dice Love, ¿alguien tiene fama de ser un ser humano reputado? ……"
-"Yamamoto Akuji (talking)";"んじゃあ、お楽しみタイムだ。";"Then it's time to have some fun.";"Entonces es el momento de divertirse."
-"morita  ai (talking)";"なんでござんすか！？ ふたりでテレビの任侠連続ドラマ 「仁義ある海辺」を見るでござんすか！？";"What is it? Are you two going to watch the TV drama series “Ninkyo Aru Kaibe” together?";"¿Qué es? ¿Vais a ver la serie dramática “Ningi aru Kaibe”?"
-"Yamamoto Akuji (talking)";"そりゃ、お前さんのお楽しみだろうが。";"Well, that's just for your amusement.";"Bueno, eso es sólo para su diversión."
-"morita  ai (talking)";"そうでござんすか？";"Is that so?";"¿Es así?"
-"Yamamoto Akuji (talking)";"こっちだ、こっち。 お前さんも夢中になるコレだ。";"This way, this way. This is the one you'll be crazy about.";"Por aquí, por aquí. Este es el que también te volverá loco."
-"narrator";"と、悪司は拳を作って人差し指と 中指の間から、親指の先を出してみせた。";"And Akuji made a fist and stuck the tip of his thumb out between his index and middle fingers.";"Y Akuji cerró el puño y sacó la punta del pulgar entre los dedos índice y corazón."
-"morita  ai (talking)";"最悪に下品な手でござんすね。";"It is a vile hand at worst.";"Esa es la peor clase de mano vil."
-"Yamamoto Akuji (talking)";"やらねぇのかい？";"Don't you want to do it?";"¿No quieres hacerlo?"
-"morita  ai (talking)";"う、あ、う。";"Uh, oh, uh.";"Uh-oh."
-"Yamamoto Akuji (talking)";"そんなに俺に溺れるのが怖かったらよ、 イヤんなったら、俺をこれで刺しな。";"If you're so afraid of being drowned by me, you can stab me with this if you don't like it.";"Si tanto miedo tienes de que te ahogue, si no te gusta, apuñálame con esto."
-"narrator";"と、悪司はまた愛にドスを渡した。";"And Akuji gave doss to love again.";"Y Akuji volvió a entregar el dossier a Amor."
-"morita  ai (talking)";"んんん~~……";"mmm~~~……";"mmm~~……"
-"Yamamoto Akuji (talking)";"そーら、よっこいしょっと。";"There you go, yokosho.";"Sora, yokoshotto."
-"morita  ai (talking)";"ひえええ！！";"Heehee!";"¡¡¡Heehee!!!"
-"narrator";"悪司は愛を小脇に抱えると、 ベッドの上に乗った。";"Akuji took Ai aside and got on the bed.";"Akuji se llevó a Ai a un lado y se subió a la cama."
-"cg narrator";"「あっ…また…こんな……」
+"Yamamoto Akuji (talking)","俺もって…","Me too…","Yo también…"
+"morita  ai (talking)","あたしも、あの院長は嫌いでして。","I didn't like the director either.","A mí tampoco me gustaba ese director."
+"Yamamoto Akuji (talking)","どうしてだ？","Why?","¿Por qué?"
+"morita  ai (talking)","世間様には評判がよろしくても、 あたしの目にはそうは映らないんで。","I know it may have a good reputation among the public, but not in my eyes.","Sé que es popular entre el público, pero a mis ojos no funciona así."
+"Yamamoto Akuji (talking)","何かそういう素振りでも見たのか？","Did you see any pretense of that?","¿Viste alguna pretensión de eso?"
+"morita  ai (talking)","ドラマの定番じゃござんせんか。 美形で評判のいい医者が、裏で 怪しい趣味をもっていたりするのは。","Isn't this a staple of dramas? A good looking doctor with a good reputation, but with shady hobbies behind his back.","¿No es esto un elemento básico del drama? Un médico guapo y reputado con dudosas aficiones a sus espaldas."
+"Yamamoto Akuji (talking)","…それだけか？","…That's it?","…¿eso es todo?"
+"morita  ai (talking)","そうでござんす。","That's right.","Sí, lo es."
+"Yamamoto Akuji (talking)","お前やっぱ脳波 調べてもらってこい。","Go get your brain waves checked.","Deberías ir a que te revisen las ondas cerebrales."
+"morita  ai (talking)","どうしてでござんすかーー！！","Why is that?","¿Por qué?"
+"Yamamoto Akuji (thinking)","しかし、愛の言い分はともかく、 誰にも評判がいい人間なんて 存在すんのかねー……","But love's argument notwithstanding, I wonder if there is such a thing as a person with a good reputation with anyone……","Pero, a pesar de lo que dice Love, ¿alguien tiene fama de ser un ser humano reputado? ……"
+"Yamamoto Akuji (talking)","んじゃあ、お楽しみタイムだ。","Then it's time to have some fun.","Entonces es el momento de divertirse."
+"morita  ai (talking)","なんでござんすか！？ ふたりでテレビの任侠連続ドラマ 「仁義ある海辺」を見るでござんすか！？","What is it? Are you two going to watch the TV drama series “Ninkyo Aru Kaibe” together?","¿Qué es? ¿Vais a ver la serie dramática “Ningi aru Kaibe”?"
+"Yamamoto Akuji (talking)","そりゃ、お前さんのお楽しみだろうが。","Well, that's just for your amusement.","Bueno, eso es sólo para su diversión."
+"morita  ai (talking)","そうでござんすか？","Is that so?","¿Es así?"
+"Yamamoto Akuji (talking)","こっちだ、こっち。 お前さんも夢中になるコレだ。","This way, this way. This is the one you'll be crazy about.","Por aquí, por aquí. Este es el que también te volverá loco."
+"narrator","と、悪司は拳を作って人差し指と 中指の間から、親指の先を出してみせた。","And Akuji made a fist and stuck the tip of his thumb out between his index and middle fingers.","Y Akuji cerró el puño y sacó la punta del pulgar entre los dedos índice y corazón."
+"morita  ai (talking)","最悪に下品な手でござんすね。","It is a vile hand at worst.","Esa es la peor clase de mano vil."
+"Yamamoto Akuji (talking)","やらねぇのかい？","Don't you want to do it?","¿No quieres hacerlo?"
+"morita  ai (talking)","う、あ、う。","Uh, oh, uh.","Uh-oh."
+"Yamamoto Akuji (talking)","そんなに俺に溺れるのが怖かったらよ、 イヤんなったら、俺をこれで刺しな。","If you're so afraid of being drowned by me, you can stab me with this if you don't like it.","Si tanto miedo tienes de que te ahogue, si no te gusta, apuñálame con esto."
+"narrator","と、悪司はまた愛にドスを渡した。","And Akuji gave doss to love again.","Y Akuji volvió a entregar el dossier a Amor."
+"morita  ai (talking)","んんん~~……","mmm~~~……","mmm~~……"
+"Yamamoto Akuji (talking)","そーら、よっこいしょっと。","There you go, yokosho.","Sora, yokoshotto."
+"morita  ai (talking)","ひえええ！！","Heehee!","¡¡¡Heehee!!!"
+"narrator","悪司は愛を小脇に抱えると、 ベッドの上に乗った。","Akuji took Ai aside and got on the bed.","Akuji se llevó a Ai a un lado y se subió a la cama."
+"cg narrator","「あっ…また…こんな……」
 悪司の指からは、充分に湿った 水音が響いている。
  「どうした？ 　イヤじゃねぇのかい？」
  「うっ……あっ…そ、それ……は…」
@@ -126,7 +126,7 @@ Does your husband also think that the director is suspicious?";"Hola. Hoy he vis
  「そら、一発で、ぜーんぶ俺の、 　飲みこんじまったぜ、愛」
  「うーっ……あうっ……」
  「今日も目一杯、俺ので楽しみな。 　くらくらにしてやるよ」
- 「あ、あう、あう、あっ……あ~~……！！」";"'Oh… again… like this ……'
+ 「あ、あう、あう、あっ……あ~~……！！」","'Oh… again… like this ……'
 The sound of water, moist enough to be heard from Akuji's fingers, echoes through the air.
 What's wrong? 　Don't you like it?”
  “Ugh,………that,…… is…”
@@ -141,7 +141,7 @@ Now, I'm going to put it in you. 　Keep your legs open.
  “See, I've swallowed all of you with my Ippatsu, love.”
  “Uh…… ahh……”
  “Enjoy the rest of your day with me. 　I'm gonna make you crazy.”
- “Oh, ah, ah, ah, ah…… ah~~……!";"'Oh… otra vez… como esta ……'
+ “Oh, ah, ah, ah, ah…… ah~~……!","'Oh… otra vez… como esta ……'
 El sonido del agua bien amortiguada resuena en los dedos de Akuji.
  ¿Qué pasa? 　¿No te gusta?”
  'Ugh,……… eso,…… es…'
@@ -157,99 +157,99 @@ Ehh… ah……… ah…
  “Uh…… ahh……”
  “Disfruta hoy de mí al máximo. 　Te voy a volver loco”.
  “¡Oh, ah, ah, ah…… ah~~……!”"
-"Yamamoto Akuji (talking)";"さて、しばらくぶりだな。 お前さんを可愛がってやるのも。";"Well, it's been a while. It's been a while since I've taken care of you.";"Bueno, ha pasado un tiempo. Hace tiempo que no te cuido."
-"morita  ai (talking)";"ホント、ご無沙汰でござんすよ。 蜘蛛の巣がはると思ったでござんす。";"It's really been a while. I thought the cobwebs would have appeared.";"Realmente ha pasado mucho tiempo. Pensé que las telarañas se habrían formado."
-"Yamamoto Akuji (talking)";"また、凄い言い回しを……";"Also, awesome phrasing: ……";"Además, una frase estupenda: ……"
-"morita  ai (talking)";"ほんとの事でござんす。";"It is true.";"Es cierto."
-"Yamamoto Akuji (talking)";"はいはい、わかったよ。 足腰立たなくなるまで、やってやるよ。";"Okay, okay, okay. I'll do it until I can't stand on my feet anymore.";"Sí, sí, de acuerdo. Lo haré hasta que no pueda mantenerme en pie."
-"morita  ai (talking)";"おおおお~~う。";"Ohhhhhhhhh.";"Ohhhhhh."
-"morita  ai (talking)";"愛は、足腰がふにゃふにゃになるまで抱かれた。";"Love was held until his legs and feet were squishy.";"El amor se mantuvo hasta que las piernas y los pies se pusieron blandos."
-"Yamamoto Akuji (talking)";"愛、これ、受け取ってくんな。";"Love, don't take this.";"Amor, no tomes esto."
-"morita  ai (talking)";"お金でござんすか。";"Is it money?";"¿Es por el dinero?"
-"Yamamoto Akuji (talking)";"ああ。";"Oh.";"Oh."
-"morita  ai (talking)";"まあ…頂いておくでござんす。";"Well…I'll take it.";"Bueno… lo tomaremos."
-"narrator";"男泣きしている愛が、 悪司の前に連れてこられた。";"Ai, crying man tears, was brought before Akuji.";"Un hombre que lloraba de amor fue llevado ante Akuji."
-"morita  ai (talking)";"あたしゃ、なさけないでござんす。 捕虜になった上に、敵の上官の前に 引っ張り出されるなんて…
-名誉ある死を選択させてくだせぇ。 切腹させてくだせぇ。";"I am so sorry. To be taken prisoner and dragged before enemy commanders…
-Let me die with honor. Let me commit seppuku.";"Me da mucha pena. Ser tomado prisionero y arrastrado ante los comandantes enemigos…
+"Yamamoto Akuji (talking)","さて、しばらくぶりだな。 お前さんを可愛がってやるのも。","Well, it's been a while. It's been a while since I've taken care of you.","Bueno, ha pasado un tiempo. Hace tiempo que no te cuido."
+"morita  ai (talking)","ホント、ご無沙汰でござんすよ。 蜘蛛の巣がはると思ったでござんす。","It's really been a while. I thought the cobwebs would have appeared.","Realmente ha pasado mucho tiempo. Pensé que las telarañas se habrían formado."
+"Yamamoto Akuji (talking)","また、凄い言い回しを……","Also, awesome phrasing: ……","Además, una frase estupenda: ……"
+"morita  ai (talking)","ほんとの事でござんす。","It is true.","Es cierto."
+"Yamamoto Akuji (talking)","はいはい、わかったよ。 足腰立たなくなるまで、やってやるよ。","Okay, okay, okay. I'll do it until I can't stand on my feet anymore.","Sí, sí, de acuerdo. Lo haré hasta que no pueda mantenerme en pie."
+"morita  ai (talking)","おおおお~~う。","Ohhhhhhhhh.","Ohhhhhh."
+"morita  ai (talking)","愛は、足腰がふにゃふにゃになるまで抱かれた。","Love was held until his legs and feet were squishy.","El amor se mantuvo hasta que las piernas y los pies se pusieron blandos."
+"Yamamoto Akuji (talking)","愛、これ、受け取ってくんな。","Love, don't take this.","Amor, no tomes esto."
+"morita  ai (talking)","お金でござんすか。","Is it money?","¿Es por el dinero?"
+"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
+"morita  ai (talking)","まあ…頂いておくでござんす。","Well…I'll take it.","Bueno… lo tomaremos."
+"narrator","男泣きしている愛が、 悪司の前に連れてこられた。","Ai, crying man tears, was brought before Akuji.","Un hombre que lloraba de amor fue llevado ante Akuji."
+"morita  ai (talking)","あたしゃ、なさけないでござんす。 捕虜になった上に、敵の上官の前に 引っ張り出されるなんて…
+名誉ある死を選択させてくだせぇ。 切腹させてくだせぇ。","I am so sorry. To be taken prisoner and dragged before enemy commanders…
+Let me die with honor. Let me commit seppuku.","Me da mucha pena. Ser tomado prisionero y arrastrado ante los comandantes enemigos…
 Déjame elegir morir con honor. Déjame cometer seppuku."
-"Yamamoto Akuji (talking)";"切腹ってのは、 侍の死に方じゃねーのか？";"Isn't seppuku a way for samurai to die?";"¿No es el seppuku la forma de morir de los samuráis?"
-"morita  ai (talking)";"………おお！！
+"Yamamoto Akuji (talking)","切腹ってのは、 侍の死に方じゃねーのか？","Isn't seppuku a way for samurai to die?","¿No es el seppuku la forma de morir de los samuráis?"
+"morita  ai (talking)","………おお！！
 で、では……
  …………………
  ~~~~~~~？？？？
-この場合、任侠ではどうするんで？";"……… Oh!
+この場合、任侠ではどうするんで？","……… Oh!
 So, now ……
  …………………
  ~~~~~~~？？？？
-What do you do in chivalry in this case?";"……… ¡Oh!
+What do you do in chivalry in this case?","……… ¡Oh!
 Así que, ahora ……
  …………………
  ~~~~~~~？？？？
  ¿Qué se hace en caballería en este caso?"
-"Yamamoto Akuji (talking)";"男の場合は、袋叩きで、 コンクリ流して海に捨てる。";"For men, it's a sack-and-bag, pouring concrete down the drain and dumping it in the ocean.";"Para los hombres, sácalos, vierte hormigón sobre ellos y tíralos al mar."
-"morita  ai (talking)";"女の場合は？？";"What about women?";"¿Y las mujeres?"
-"Yamamoto Akuji (talking)";"さんざん輪姦した後、 テキトーに売っぱらう。";"After gang-raping them, he sells them off to some random guy.";"Después de violarlas en grupo, las venden a los texteros."
-"morita  ai (talking)";"そ、それは大ぴーーーんちで ござんすよー！";"Well, that's a big party!";"Bueno, ¡esa es una gran fiesta!"
-"narrator";"男泣きしている愛が、 悪司の前に連れてこられた。 心成しか、少しゲッソリしている。";"Ai, crying man tears, is brought in front of Akuji. She is a little ghastly at heart.";"Ai, llorando lágrimas de hombre, es llevado ante Akuji. Es un poco espantosa en el fondo."
-"morita  ai (talking)";"うっ…うう……";"Ugh…ugh ……";"Ugh… ugh… ……"
-"Yamamoto Akuji (talking)";"どうした？ もうへばってきたのか？";"What's the matter? Are you getting tired already?";"¿Qué pasa? ¿Ya estás agotado?"
-"morita  ai (talking)";"うっ…うううーー…
+"Yamamoto Akuji (talking)","男の場合は、袋叩きで、 コンクリ流して海に捨てる。","For men, it's a sack-and-bag, pouring concrete down the drain and dumping it in the ocean.","Para los hombres, sácalos, vierte hormigón sobre ellos y tíralos al mar."
+"morita  ai (talking)","女の場合は？？","What about women?","¿Y las mujeres?"
+"Yamamoto Akuji (talking)","さんざん輪姦した後、 テキトーに売っぱらう。","After gang-raping them, he sells them off to some random guy.","Después de violarlas en grupo, las venden a los texteros."
+"morita  ai (talking)","そ、それは大ぴーーーんちで ござんすよー！","Well, that's a big party!","Bueno, ¡esa es una gran fiesta!"
+"narrator","男泣きしている愛が、 悪司の前に連れてこられた。 心成しか、少しゲッソリしている。","Ai, crying man tears, is brought in front of Akuji. She is a little ghastly at heart.","Ai, llorando lágrimas de hombre, es llevado ante Akuji. Es un poco espantosa en el fondo."
+"morita  ai (talking)","うっ…うう……","Ugh…ugh ……","Ugh… ugh… ……"
+"Yamamoto Akuji (talking)","どうした？ もうへばってきたのか？","What's the matter? Are you getting tired already?","¿Qué pasa? ¿Ya estás agotado?"
+"morita  ai (talking)","うっ…うううーー…
  ……どっ……
 ドラマが……
 あたしが毎週楽しみにしているテレビ ドラマが…
-今週放映分、見れなかったで ござんす……しくしく…";"Ugh…ugh…
+今週放映分、見れなかったで ござんす……しくしく…","Ugh…ugh…
  ……Do ……
 The TV drama that I look forward to every week is… ……
 The TV drama I'm looking forward to every week…
-I couldn't watch this week's episode…… I'm sorry…";"Ugh… ugh……… que ……
+I couldn't watch this week's episode…… I'm sorry…","Ugh… ugh……… que ……
 El drama está en ……
 El drama televisivo que espero cada semana…
 No pude ver el episodio de esta semana…… Lo siento…"
-"Yamamoto Akuji (talking)";"………あ~~……";"……… ah~~……";"……… ah~~……"
-"morita  ai (talking)";"うう…愛と任侠のドラマ…… あたしの生活の一部でござんすのに~……";"Ugh…a drama of love and chivalry…… even though it's part of my life~ ……";"Ugh… un drama de amor y caballerosidad…… Aunque es parte de mi vida~ ……"
-"Yamamoto Akuji (talking)";"愛。 おめー、男とヤッた事はあるのか？";"Love. Hey, have you ever had sex with a guy?";"El amor. ¿Has tenido alguna vez sexo con un hombre?"
-"morita  ai (talking)";"あるでござんすよ。";"Yes, there is.";"Sí, lo hay."
-"Yamamoto Akuji (talking)";"……………";"……………";"……………"
-"morita  ai (talking)";"それがどうかしたでござんすか？";"What about it?";"¿Qué importa?"
-"Yamamoto Akuji (talking)";"いや……意外な答えが返ってきたから…";"No…… because I got a surprising answer…";"No…… porque obtuve una respuesta sorprendente…"
-"morita  ai (talking)";"同級生の任侠志望の男の子と したんでござんすが…
-早い、テクなし、自分勝手だったんで、 あたしゃ３５歳以下とはしない事に してるでござんす。";"I had sex with a boy in my class who wanted to become a chivalrous man…
-He was fast, had no technique, and was selfish, so I don't do it with anyone under 35.";"Tuve sexo con un chico de mi clase que quería convertirse en un hombre caballeroso…
+"Yamamoto Akuji (talking)","………あ~~……","……… ah~~……","……… ah~~……"
+"morita  ai (talking)","うう…愛と任侠のドラマ…… あたしの生活の一部でござんすのに~……","Ugh…a drama of love and chivalry…… even though it's part of my life~ ……","Ugh… un drama de amor y caballerosidad…… Aunque es parte de mi vida~ ……"
+"Yamamoto Akuji (talking)","愛。 おめー、男とヤッた事はあるのか？","Love. Hey, have you ever had sex with a guy?","El amor. ¿Has tenido alguna vez sexo con un hombre?"
+"morita  ai (talking)","あるでござんすよ。","Yes, there is.","Sí, lo hay."
+"Yamamoto Akuji (talking)","……………","……………","……………"
+"morita  ai (talking)","それがどうかしたでござんすか？","What about it?","¿Qué importa?"
+"Yamamoto Akuji (talking)","いや……意外な答えが返ってきたから…","No…… because I got a surprising answer…","No…… porque obtuve una respuesta sorprendente…"
+"morita  ai (talking)","同級生の任侠志望の男の子と したんでござんすが…
+早い、テクなし、自分勝手だったんで、 あたしゃ３５歳以下とはしない事に してるでござんす。","I had sex with a boy in my class who wanted to become a chivalrous man…
+He was fast, had no technique, and was selfish, so I don't do it with anyone under 35.","Tuve sexo con un chico de mi clase que quería convertirse en un hombre caballeroso…
 Fue rápido, poco profesional y egoísta, así que no lo hago con nadie menor de 35 años."
-"Yamamoto Akuji (talking)";"なんで、３５？";"Why, 35?";"¿Por qué, 35?"
-"morita  ai (talking)";"男はそれぐらいからでござんす。 味が出てくるのは。";"Men start at that age. The taste comes out.";"Es más o menos cuando los hombres empiezan. El sabor sale a relucir."
-"Yamamoto Akuji (talking)";"じゃあ、俺は駄目ってか？";"So you're saying I can't?";"¿Dices que no puedo?"
-"morita  ai (talking)";"そうでござんすね。";"That's right.";"Sí, así es."
-"Yamamoto Akuji (talking)";"そうか…だったら賭けをしねぇか？";"Well… then why don't we make a bet?";"Bueno… entonces, ¿por qué no hacemos una apuesta?"
-"morita  ai (talking)";"賭け！ いいでござんすね。 任侠の世界でござんす。";"Bet! I like it. It's the world of chivalry.";"¡Apuesta! Muy buena. Es el mundo de la caballería."
-"Yamamoto Akuji (talking)";"俺があんたを、手と口だけで ５分でメロメロにしてやるよ。";"I'll make you melt in five minutes with just my hands and mouth.";"Haré que te derritas en cinco minutos sólo con mis manos y mi boca."
-"morita  ai (talking)";"ははははは。 大きく出たでござんすね。 で、賭けるものはなんでござんすか？";"Ha-ha-ha-ha. You've come up big, haven't you? So, what are you betting on?";"Ja, ja, ja. Has subido a lo grande, ¿no? ¿Y por qué apuestas?"
-"Yamamoto Akuji (talking)";"俺の命だ。";"It's my life.";"Mi vida."
-"morita  ai (talking)";"へはっ！？";"Hehaha!";"¡Ja!"
-"Yamamoto Akuji (talking)";"５分後、俺にさわられてるのがまだ 気持ち悪かったら、これで俺を刺すと いいぜ。";"Five minutes from now, if you still feel bad about the way I'm touching you, you can stab me with this.";"Después de cinco minutos, si todavía te sientes incómodo al ser tocado por mí, puedes apuñalarme con esto."
-"narrator";"そう言って、悪司は抜き身のドスを 愛に渡した。";"Saying this, Akuji handed Ai a doss without a sword.";"Diciendo esto, Akuji le entregó a Ai un dossier dibujado."
-"morita  ai (talking)";"５分ですかい。";"Five minutes.";"Cinco minutos."
-"Yamamoto Akuji (talking)";"ああ、そうだ。";"Oh, yes.";"Sí, lo son."
-"morita  ai (talking)";"いいでござんす。 ノッてやるでござんす。";"Okay, I'll go for it. I'll go along with you.";"Muy bien. Me pondré a ello."
-"cg narrator";"「え？」
+"Yamamoto Akuji (talking)","なんで、３５？","Why, 35?","¿Por qué, 35?"
+"morita  ai (talking)","男はそれぐらいからでござんす。 味が出てくるのは。","Men start at that age. The taste comes out.","Es más o menos cuando los hombres empiezan. El sabor sale a relucir."
+"Yamamoto Akuji (talking)","じゃあ、俺は駄目ってか？","So you're saying I can't?","¿Dices que no puedo?"
+"morita  ai (talking)","そうでござんすね。","That's right.","Sí, así es."
+"Yamamoto Akuji (talking)","そうか…だったら賭けをしねぇか？","Well… then why don't we make a bet?","Bueno… entonces, ¿por qué no hacemos una apuesta?"
+"morita  ai (talking)","賭け！ いいでござんすね。 任侠の世界でござんす。","Bet! I like it. It's the world of chivalry.","¡Apuesta! Muy buena. Es el mundo de la caballería."
+"Yamamoto Akuji (talking)","俺があんたを、手と口だけで ５分でメロメロにしてやるよ。","I'll make you melt in five minutes with just my hands and mouth.","Haré que te derritas en cinco minutos sólo con mis manos y mi boca."
+"morita  ai (talking)","ははははは。 大きく出たでござんすね。 で、賭けるものはなんでござんすか？","Ha-ha-ha-ha. You've come up big, haven't you? So, what are you betting on?","Ja, ja, ja. Has subido a lo grande, ¿no? ¿Y por qué apuestas?"
+"Yamamoto Akuji (talking)","俺の命だ。","It's my life.","Mi vida."
+"morita  ai (talking)","へはっ！？","Hehaha!","¡Ja!"
+"Yamamoto Akuji (talking)","５分後、俺にさわられてるのがまだ 気持ち悪かったら、これで俺を刺すと いいぜ。","Five minutes from now, if you still feel bad about the way I'm touching you, you can stab me with this.","Después de cinco minutos, si todavía te sientes incómodo al ser tocado por mí, puedes apuñalarme con esto."
+"narrator","そう言って、悪司は抜き身のドスを 愛に渡した。","Saying this, Akuji handed Ai a doss without a sword.","Diciendo esto, Akuji le entregó a Ai un dossier dibujado."
+"morita  ai (talking)","５分ですかい。","Five minutes.","Cinco minutos."
+"Yamamoto Akuji (talking)","ああ、そうだ。","Oh, yes.","Sí, lo son."
+"morita  ai (talking)","いいでござんす。 ノッてやるでござんす。","Okay, I'll go for it. I'll go along with you.","Muy bien. Me pondré a ello."
+"cg narrator","「え？」
  「あ、あれれ？？」
  「あれれでござんすー！」
  「っ………」
  「……っ…あっ……」
  「あ、ああっ……」
- 「あっ……！！」";"What?
+ 「あっ……！！」","What?
 Oh, my God?
 Here it is!
  ……………… oh, ……
 Oh, oh, ……!
-Oh, ……!";"¿Eh?”
+Oh, ……!","¿Eh?”
  ¿Ah, sí?
  ¡Eso es!
 Oh, ………………… oh, …….
 Oh, oh, …….
  ¡Oh, ……!"
-"cg narrator";"「あっ………ああああっ……」
+"cg narrator","「あっ………ああああっ……」
  「どうしたい？ 　さっきまでの威勢は？」
 悪司の愛撫が始まって、 まだ１分も経っていなかった。
 しかし愛は既にもう、 へろへろになってしまっていた。
@@ -321,7 +321,7 @@ Oh, oh, …….
  「あっ……！！」
 その声を聞き逃さず、悪司が痛みから 気がそれるようにと、胸を愛撫する。
  「あっ…あああっ…！」
-自分の中心を割って入る感触に、 愛は我を忘れた。";"”Oh,……… ah ah ah ah ……”
+自分の中心を割って入る感触に、 愛は我を忘れた。","”Oh,……… ah ah ah ah ……”
 What do you want? 　Where's that swagger you had a minute ago?”
 It had been less than a minute since Akuji's caresses Hajime had begun.
 The most important thing to remember is that you can't just take a look at the pictures and say, “I'm sorry, I'm sorry, I'm sorry.
@@ -393,7 +393,7 @@ The slightest pain causes Love to change the quality of her voice.
 Oh ……!
 Not missing that voice, Akuji caresses her breasts to distract her from the pain.
 Ah…ah…!”
-The feeling of the center of her body being penetrated made Ai forget about herself.";"'Ah……… ah ah ah ……'
+The feeling of the center of her body being penetrated made Ai forget about herself.","'Ah……… ah ah ah ……'
  “¿Qué quieres? 　¿Dónde está esa fanfarronería que tenías antes?”
 Había pasado menos de un minuto desde que las caricias de Akuji se detuvieron en Hajime.
 Lo más importante es recordar que no estás solo.
@@ -466,107 +466,107 @@ El amor cambia la calidad de su voz al menor dolor.
 Sin perder esa voz, Akuji le acaricia los pechos, intentando distraerla del dolor.
  “¡Ah… ah…!
 La sensación de que el centro de su cuerpo estaba siendo roto, Ai se olvidó de sí misma."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"そろそろ、俺の躰が 馴染んできたんじゃねぇか？";"I think it's about time my body got used to it.";"Ya es hora de que mi cuerpo se acostumbre, ¿no?"
-"morita  ai (talking)";"わかんないでござんすよ。";"I don't know.";"No lo entiendo."
-"Yamamoto Akuji (talking)";"じゃあ、認識させてやるよ。";"Then I'll make you recognize it.";"Entonces te reconoceré."
-"morita  ai (talking)";"何するんでござんすか？！";"What are you doing?";"¿Qué estás haciendo?"
-"Yamamoto Akuji (talking)";"ナニだ。 わかってんだろ。 ほれほれ。";"What is it? You know what I'm talking about. Come on, come on.";"Nani. Ya sabes de qué hablo. Aquí, aquí."
-"morita  ai (talking)";"ああう~~~！！";"Ahhhhh~!";"¡¡¡Ahhhhhh!!!"
-"morita  ai (talking)";"森田愛は、とってもいい気持ちにされた…";"Morita love was made to feel very good…";"Morita el amor se hizo sentir muy bien …"
-"Yamamoto Akuji (talking)";"これで、俺の兵隊になってくんねーか？";"Now, won't you be my soldier?";"Ahora, ¿no quieres ser mi soldado?"
-"narrator";"と言って、悪司は愛の前にお金を出した。";"And Akuji put money before love.";"Y Akuji puso el dinero delante de Amor."
-"morita  ai (talking)";"結構でござんす。 愛は、渡世の女でござんす。";"Very well. Love is a woman of the world.";"No, gracias. El amor es una mujer de mundo."
-"Yamamoto Akuji (talking)";"ふーん…";"Hmmm…";"Hmm…"
-"Yamamoto Akuji (talking)";"お前、女としてはどーかと思うが、 腕はたつ。 俺の配下で戦わねーか？";"You may not be a woman, but you're good. Why don't you fight for me?";"Puede que no seas una mujer, pero eres buena. ¿Por qué no luchas bajo mi mando?"
-"morita  ai (talking)";"いやでごさんす。
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","そろそろ、俺の躰が 馴染んできたんじゃねぇか？","I think it's about time my body got used to it.","Ya es hora de que mi cuerpo se acostumbre, ¿no?"
+"morita  ai (talking)","わかんないでござんすよ。","I don't know.","No lo entiendo."
+"Yamamoto Akuji (talking)","じゃあ、認識させてやるよ。","Then I'll make you recognize it.","Entonces te reconoceré."
+"morita  ai (talking)","何するんでござんすか？！","What are you doing?","¿Qué estás haciendo?"
+"Yamamoto Akuji (talking)","ナニだ。 わかってんだろ。 ほれほれ。","What is it? You know what I'm talking about. Come on, come on.","Nani. Ya sabes de qué hablo. Aquí, aquí."
+"morita  ai (talking)","ああう~~~！！","Ahhhhh~!","¡¡¡Ahhhhhh!!!"
+"morita  ai (talking)","森田愛は、とってもいい気持ちにされた…","Morita love was made to feel very good…","Morita el amor se hizo sentir muy bien …"
+"Yamamoto Akuji (talking)","これで、俺の兵隊になってくんねーか？","Now, won't you be my soldier?","Ahora, ¿no quieres ser mi soldado?"
+"narrator","と言って、悪司は愛の前にお金を出した。","And Akuji put money before love.","Y Akuji puso el dinero delante de Amor."
+"morita  ai (talking)","結構でござんす。 愛は、渡世の女でござんす。","Very well. Love is a woman of the world.","No, gracias. El amor es una mujer de mundo."
+"Yamamoto Akuji (talking)","ふーん…","Hmmm…","Hmm…"
+"Yamamoto Akuji (talking)","お前、女としてはどーかと思うが、 腕はたつ。 俺の配下で戦わねーか？","You may not be a woman, but you're good. Why don't you fight for me?","Puede que no seas una mujer, pero eres buena. ¿Por qué no luchas bajo mi mando?"
+"morita  ai (talking)","いやでごさんす。
 捕虜になってもこの森田愛、 義理と任侠の世界に生きる女で ござんす。
-わかめ組で盃頂いたってーのに、 そんな義理をかいた事は出来やせん。";"No, thank you.
+わかめ組で盃頂いたってーのに、 そんな義理をかいた事は出来やせん。","No, thank you.
 Even though I am a prisoner of war, I am still a woman who lives in this world of love, duty, and chivalry.
-I can't do such a righteous thing even though I was given a sake cup by the Wakame clan.";"No, gracias.
+I can't do such a righteous thing even though I was given a sake cup by the Wakame clan.","No, gracias.
 Aunque sea una prisionera de guerra, sigo siendo una mujer que vive en este mundo de amor, deber y caballerosidad.
 No puedo hacer una cosa tan justa aunque el clan Wakame me haya dado la copa de sake."
-"Yamamoto Akuji (talking)";"元々、俺はわかめ組の跡取り だったんだ。 義理はかきゃしねーって。";"I was originally the heir to the Wakame clan. I don't want to be obliged to you.";"Originalmente, yo era el heredero del clan Wakame. No quiero ser una carga."
-"morita  ai (talking)";"駄目でござんす。 悪司の旦那は、元跡取りでござんす。 今は違うでござんす。";"No. Akuji's husband is a former heir. Now he is not.";"No. El marido de Akuji era un antiguo heredero. Ahora no lo es."
-"Yamamoto Akuji (talking)";"強情だなー。";"You're stubborn!";"Eres un testarudo."
-"morita  ai (talking)";"義理と任侠でござんす。";"It is righteousness and chivalry.";"Rectitud y caballerosidad."
-"Yamamoto Akuji (talking)";"よし。";"All right.";"DE ACUERDO."
-"morita  ai (talking)";"なんでござんすか？";"What is it?";"¿Qué es?"
-"Yamamoto Akuji (talking)";"もう、俺の部下になれって言わね。";"I don't want you to be my man anymore.";"No me pidas que siga siendo mi hombre."
-"morita  ai (talking)";"ほうほう。";"Method.";"Método."
-"Yamamoto Akuji (talking)";"愛人になれ。";"Be a mistress.";"Señora."
-"morita  ai (talking)";"なんですとーーー？？？？？？？？";"What the heck - ？？？？？？？？";"Qué demonios - ？？？？？？？？"
-"Yamamoto Akuji (talking)";"イヤか……？";"You don't like ……?";"¿No o ……?"
-"narrator";"と言いながら、悪司は愛の耳に ふっと息を吹きかけた。";"Akuji blew in Love's ear.";"Con eso, Akuji resopló al oído de su amor."
-"morita  ai (talking)";"あへはははは、ひ、卑怯でござんすよー。";"Ahehaha, hi, it's not fair!";"¡Ah, ja, ja, hola, no es justo!"
-"Yamamoto Akuji (talking)";"よし、決まり。 お前さん、今日から俺の戦う愛人な。";"Okay, it's settled. You're my fighting lover from now on.";"Bien, está decidido. Tú, tú eres mi amante de la lucha desde hoy."
-"morita  ai (talking)";"それって、実質、部下って事で やんすかー！";"That's practically a subordinate, y'all!";"Es prácticamente un subordinado, ¿sabes lo que quiero decir?"
-"Yamamoto Akuji (talking)";"違う違う。 部下には、あんな事やこんな事は しねーからな。";"No, no, no. I don't do this or that to my men.";"No, no, no. No hago esto o aquello a mis hombres."
-"morita  ai (talking)";"おぉう。";"Oh wow.";"Ooh."
-"Yamamoto Akuji (talking)";"俺に呼ばれるのを楽しみにしてな。";"Look forward to being called by me.";"Espero que me llamen."
-"morita  ai (talking)";"お……おうおう……";"Oh…… Oh ……";"O……O……"
-"Chinpira (talking)";"あ、いたいた。 森田さーーん。";"Oh, there you are. Morita.";"Ah, ahí está. Morita."
-"morita  ai (talking)";"どうしたでござんすか。 出入りでござんすか？ 悪司がきたでござんすか？";"What is it? Are you in or out? Is Akuji here?";"¿Qué pasa? ¿Estás dentro o fuera? ¿Ha venido Akuji?"
-"Chinpira (talking)";"違いますよ。 時間になってもこないんで、 呼びにきたんですよ。
-もうすぐ始まっちまいますよ。 森田さんの大好きなドラマ…";"That's not true. I came to call for you because you didn't show up at the time.
-Hajime will be gone soon. Morita, your favorite drama…";"No, no es eso. No se presentó a tiempo, así que vine a llamarlo.
+"Yamamoto Akuji (talking)","元々、俺はわかめ組の跡取り だったんだ。 義理はかきゃしねーって。","I was originally the heir to the Wakame clan. I don't want to be obliged to you.","Originalmente, yo era el heredero del clan Wakame. No quiero ser una carga."
+"morita  ai (talking)","駄目でござんす。 悪司の旦那は、元跡取りでござんす。 今は違うでござんす。","No. Akuji's husband is a former heir. Now he is not.","No. El marido de Akuji era un antiguo heredero. Ahora no lo es."
+"Yamamoto Akuji (talking)","強情だなー。","You're stubborn!","Eres un testarudo."
+"morita  ai (talking)","義理と任侠でござんす。","It is righteousness and chivalry.","Rectitud y caballerosidad."
+"Yamamoto Akuji (talking)","よし。","All right.","DE ACUERDO."
+"morita  ai (talking)","なんでござんすか？","What is it?","¿Qué es?"
+"Yamamoto Akuji (talking)","もう、俺の部下になれって言わね。","I don't want you to be my man anymore.","No me pidas que siga siendo mi hombre."
+"morita  ai (talking)","ほうほう。","Method.","Método."
+"Yamamoto Akuji (talking)","愛人になれ。","Be a mistress.","Señora."
+"morita  ai (talking)","なんですとーーー？？？？？？？？","What the heck - ？？？？？？？？","Qué demonios - ？？？？？？？？"
+"Yamamoto Akuji (talking)","イヤか……？","You don't like ……?","¿No o ……?"
+"narrator","と言いながら、悪司は愛の耳に ふっと息を吹きかけた。","Akuji blew in Love's ear.","Con eso, Akuji resopló al oído de su amor."
+"morita  ai (talking)","あへはははは、ひ、卑怯でござんすよー。","Ahehaha, hi, it's not fair!","¡Ah, ja, ja, hola, no es justo!"
+"Yamamoto Akuji (talking)","よし、決まり。 お前さん、今日から俺の戦う愛人な。","Okay, it's settled. You're my fighting lover from now on.","Bien, está decidido. Tú, tú eres mi amante de la lucha desde hoy."
+"morita  ai (talking)","それって、実質、部下って事で やんすかー！","That's practically a subordinate, y'all!","Es prácticamente un subordinado, ¿sabes lo que quiero decir?"
+"Yamamoto Akuji (talking)","違う違う。 部下には、あんな事やこんな事は しねーからな。","No, no, no. I don't do this or that to my men.","No, no, no. No hago esto o aquello a mis hombres."
+"morita  ai (talking)","おぉう。","Oh wow.","Ooh."
+"Yamamoto Akuji (talking)","俺に呼ばれるのを楽しみにしてな。","Look forward to being called by me.","Espero que me llamen."
+"morita  ai (talking)","お……おうおう……","Oh…… Oh ……","O……O……"
+"Chinpira (talking)","あ、いたいた。 森田さーーん。","Oh, there you are. Morita.","Ah, ahí está. Morita."
+"morita  ai (talking)","どうしたでござんすか。 出入りでござんすか？ 悪司がきたでござんすか？","What is it? Are you in or out? Is Akuji here?","¿Qué pasa? ¿Estás dentro o fuera? ¿Ha venido Akuji?"
+"Chinpira (talking)","違いますよ。 時間になってもこないんで、 呼びにきたんですよ。
+もうすぐ始まっちまいますよ。 森田さんの大好きなドラマ…","That's not true. I came to call for you because you didn't show up at the time.
+Hajime will be gone soon. Morita, your favorite drama…","No, no es eso. No se presentó a tiempo, así que vine a llamarlo.
 Hajime se irá pronto. Su drama favorito…"
-"morita  ai (talking)";"迂闊でござんしたーー！！ ありがとうでござんす、 知らせてくれて！";"I was so careless! Thank you for letting me know!";"¡Fui tan descuidado! Gracias por informarme."
-"narrator";"愛は走って事務所へと戻った。";"Love ran back to the office.";"El amor volvió corriendo a la oficina."
-"morita  ai (talking)";"今日は少し空が綺麗でござんすねー。
+"morita  ai (talking)","迂闊でござんしたーー！！ ありがとうでござんす、 知らせてくれて！","I was so careless! Thank you for letting me know!","¡Fui tan descuidado! Gracias por informarme."
+"narrator","愛は走って事務所へと戻った。","Love ran back to the office.","El amor volvió corriendo a la oficina."
+"morita  ai (talking)","今日は少し空が綺麗でござんすねー。
 組織抗争の真っ只中に身を置いている せいか、いつもよりずっと綺麗に 見えるでござんす。
 この世の儚さでござんすねー… 任侠の世界でござんす。
-これで桜でも咲いて散っていれば、 もっと雰囲気が高まるんでござんすが、 惜しいでござんすねー…";"The sky is a bit beautiful today.
+これで桜でも咲いて散っていれば、 もっと雰囲気が高まるんでござんすが、 惜しいでござんすねー…","The sky is a bit beautiful today.
 Perhaps it is because I am in the middle of an organizational war, but it looks much more beautiful than usual.
 It's the transience of this world… the world of chivalry.
-If only the cherry blossoms had bloomed and fallen, the atmosphere would have been more beautiful, but it's too bad…";"El cielo es un poco más hermoso hoy.
+If only the cherry blossoms had bloomed and fallen, the atmosphere would have been more beautiful, but it's too bad…","El cielo es un poco más hermoso hoy.
 Tal vez porque estoy en medio de una guerra organizada, se ve mucho más hermoso que de costumbre.
 Es la fugacidad de este mundo… el mundo de la caballería.
 Si los cerezos estuvieran en flor y cayendo, el ambiente sería aún más fuerte, pero es una pena…"
-" (talking)";"愛…！";"Love…!";"¡Amor…!"
-"morita  ai (talking)";"へ？";"Heh?";"¿Eh?"
-"nakokyou  onna (talking)";"こんなところにいたのね…";"There you are in a place like this…";"Has estado en un lugar como este…"
-"morita  ai (talking)";"おっかさん？";"Mother?";"¿Madre?"
-"nakokyou  onna (talking)";"わかめ組が抗争を始めたって聞いて、 慌ててあんたを呼びにきたんだよ。
-さあ、母さんと一緒にくるんだよ。 あんたも今日から那古教信者になって、 争いのない世界に行くんだよ。";"When I heard that the Wakamegumi had lost their war with Hajime, I came in a hurry to call you.
-Now, come with your mother. From today on, you too will become a Nakokyou believer and go to a world without conflict.";"Cuando me enteré de que el clan Wakame había Hajime la guerra, me entró el pánico y vine a llamarte.
+" (talking)","愛…！","Love…!","¡Amor…!"
+"morita  ai (talking)","へ？","Heh?","¿Eh?"
+"nakokyou  onna (talking)","こんなところにいたのね…","There you are in a place like this…","Has estado en un lugar como este…"
+"morita  ai (talking)","おっかさん？","Mother?","¿Madre?"
+"nakokyou  onna (talking)","わかめ組が抗争を始めたって聞いて、 慌ててあんたを呼びにきたんだよ。
+さあ、母さんと一緒にくるんだよ。 あんたも今日から那古教信者になって、 争いのない世界に行くんだよ。","When I heard that the Wakamegumi had lost their war with Hajime, I came in a hurry to call you.
+Now, come with your mother. From today on, you too will become a Nakokyou believer and go to a world without conflict.","Cuando me enteré de que el clan Wakame había Hajime la guerra, me entró el pánico y vine a llamarte.
 Ahora, ven con tu madre. A partir de hoy, tú también te convertirás en un seguidor de Nakokyou e irás a un mundo sin conflictos."
-"morita  ai (talking)";"いやでござんす。 あたしゃ義理と任侠の世界に 骨を埋めるんでござんす。
-なんだかよくわかんねー恐ろしい宗教に ハマっている暇はないでござんす。";"No, I will not. I am going to bury my bones in the world of duty and chivalry.
-I don't have time to be addicted to some kind of scary religion that I don't understand.";"No quiero hacerlo. Voy a enterrar mis huesos en el mundo del deber y la caballerosidad.
+"morita  ai (talking)","いやでござんす。 あたしゃ義理と任侠の世界に 骨を埋めるんでござんす。
+なんだかよくわかんねー恐ろしい宗教に ハマっている暇はないでござんす。","No, I will not. I am going to bury my bones in the world of duty and chivalry.
+I don't have time to be addicted to some kind of scary religion that I don't understand.","No quiero hacerlo. Voy a enterrar mis huesos en el mundo del deber y la caballerosidad.
 No tengo tiempo para ser adicto a un tipo de religión aterradora que no entiendo."
-"nakokyou  onna (talking)";"愛！！ そんな罰当たりな事言うもんじゃ ないよ！
-神様がバチを当ててしまうよ！";"Love! Don't you dare say that!
-God will punish you!";"¡Amor! ¡No te atrevas a decir algo tan castizo!
+"nakokyou  onna (talking)","愛！！ そんな罰当たりな事言うもんじゃ ないよ！
+神様がバチを当ててしまうよ！","Love! Don't you dare say that!
+God will punish you!","¡Amor! ¡No te atrevas a decir algo tan castizo!
  ¡Dios te castigará!"
-"morita  ai (talking)";"信じなかったらバチを当てる神様 なんかより、義理と任侠の世界の方が いいでござんす。";"I'd rather be in a world of righteousness and chivalry than a god who will punish you if you don't believe in him.";"Prefiero estar en un mundo de deberes y caballerosidad que en un dios que te castiga si no crees en él."
-"nakokyou  onna (talking)";"何を言ってるの、愛！ そんな事を言っていたら幸せに なんかなれないのよ！";"What are you talking about, love? You'll never be happy if you keep talking like that!";"¿De qué estás hablando, amor? ¡Nunca serás feliz si sigues hablando así!"
-"morita  ai (talking)";"あたしゃ、おっかさんの方が 不幸だと思うでござんす。
+"morita  ai (talking)","信じなかったらバチを当てる神様 なんかより、義理と任侠の世界の方が いいでござんす。","I'd rather be in a world of righteousness and chivalry than a god who will punish you if you don't believe in him.","Prefiero estar en un mundo de deberes y caballerosidad que en un dios que te castiga si no crees en él."
+"nakokyou  onna (talking)","何を言ってるの、愛！ そんな事を言っていたら幸せに なんかなれないのよ！","What are you talking about, love? You'll never be happy if you keep talking like that!","¿De qué estás hablando, amor? ¡Nunca serás feliz si sigues hablando así!"
+"morita  ai (talking)","あたしゃ、おっかさんの方が 不幸だと思うでござんす。
 いっちゃってるでござんすよ、 おっかさん。
 という訳で、話しても無駄なら、 あたしゃ逃げるでござんす。
 おっかさん相手にだんぴら 振り回せやせん。 義理をかく事になるでござんす。
-それでは、これにて！";"I think your mother is more unhappy than you.
+それでは、これにて！","I think your mother is more unhappy than you.
 I think you're confused, mister.
 So, if talking is useless, I'm going to run away.
 I can't just swing my arms around your mother. I'm going to have to be more than just a fool.
-So, I'll leave you to it!";"Creo que tu madre es más infeliz que tú.
+So, I'll leave you to it!","Creo que tu madre es más infeliz que tú.
 Se está metiendo conmigo, señor.
 Así que, si es inútil hablar contigo, voy a huir.
 No puedo contonearme con usted, señor. Voy a tener que ser justo.
  ¡Hasta la vista, pues!"
-"nakokyou  onna (talking)";"愛！！ お待ち！！ 愛！！";"Love! Wait! Love!";"¡Amor! ¡Espera! ¡Amor!"
-"Tamanegi (talking)";"ああ、やっときましたね。";"Ah, here we are at last Tane.";"Ah, aquí estamos por fin Tane."
-"morita  ai (talking)";"この時間は、連続ドラマの時間なので、 呼び出しても無駄でござんすよ。";"It's time for the drama series, so there's no point in calling them out.";"No sirve de nada llamarte a estas horas, ya que es la hora del drama en serie."
-"Tamanegi (talking)";"………………";"………………";"………………"
-"morita  ai (talking)";"なんでござんすか？";"What is it?";"¿Qué es?"
-"Tamanegi (talking)";"あなたは、いつもそのような 喋り方なのですか？";"Do you always talk like that?";"¿Siempre hablas así?"
-"morita  ai (talking)";"そうでござんす。 任侠なら、当たり前でござんす。";"That's right. It is natural for a chivalrous man.";"Sí, lo es. Es normal para la caballería."
-"Tamanegi (talking)";"そこから矯正しなくては 駄目ですね…";"That's the first thing we need to correct…";"Ahí es donde tenemos que empezar a corregir…"
-"morita  ai (talking)";"矯正？";"Correction?";"¿Corrección?"
-"Tamanegi (talking)";"まあいいでしょう。 さあ、こっちにいらっしゃい。";"Well, all right. Come on, come here.";"Bueno, está bien. Vamos, ven aquí."
-"morita  ai (talking)";"は、はあ…";"Ha, ha…";"Ja, ja…"
-"cg narrator";"「何するでござんすかー！？」
+"nakokyou  onna (talking)","愛！！ お待ち！！ 愛！！","Love! Wait! Love!","¡Amor! ¡Espera! ¡Amor!"
+"Tamanegi (talking)","ああ、やっときましたね。","Ah, here we are at last Tane.","Ah, aquí estamos por fin Tane."
+"morita  ai (talking)","この時間は、連続ドラマの時間なので、 呼び出しても無駄でござんすよ。","It's time for the drama series, so there's no point in calling them out.","No sirve de nada llamarte a estas horas, ya que es la hora del drama en serie."
+"Tamanegi (talking)","………………","………………","………………"
+"morita  ai (talking)","なんでござんすか？","What is it?","¿Qué es?"
+"Tamanegi (talking)","あなたは、いつもそのような 喋り方なのですか？","Do you always talk like that?","¿Siempre hablas así?"
+"morita  ai (talking)","そうでござんす。 任侠なら、当たり前でござんす。","That's right. It is natural for a chivalrous man.","Sí, lo es. Es normal para la caballería."
+"Tamanegi (talking)","そこから矯正しなくては 駄目ですね…","That's the first thing we need to correct…","Ahí es donde tenemos que empezar a corregir…"
+"morita  ai (talking)","矯正？","Correction?","¿Corrección?"
+"Tamanegi (talking)","まあいいでしょう。 さあ、こっちにいらっしゃい。","Well, all right. Come on, come here.","Bueno, está bien. Vamos, ven aquí."
+"morita  ai (talking)","は、はあ…","Ha, ha…","Ja, ja…"
+"cg narrator","「何するでござんすかー！？」
  「かまいません、そのまま続けて」
 愛の懇願の声は、機械のように冷たいタマネギの 命令に打ち消されてしまう。
  「ひ、ひええ！！」
@@ -645,7 +645,7 @@ No puedo contonearme con usted, señor. Voy a tener que ser justo.
  「………っ……」
 愛の首がゆっくり、肯く。 唇は薄く震え、その隙間からは熱い息が 漏れ出していた。
  「いい子ですね」
-タマネギの言葉に、男の指が愛の襞から離れ、 その代わりに、いきり勃った先端がそこに宛われた。";"What are you doing?
+タマネギの言葉に、男の指が愛の襞から離れ、 その代わりに、いきり勃った先端がそこに宛われた。","What are you doing?
 It doesn't matter, just keep going.”
 Love's pleading voice is drowned out by the machine-like coldness of Tamanegi's command.
  “Hee, hee!
@@ -723,7 +723,7 @@ Each time the threads were born, the voice of love changed even more.
 Come on…don't you want…? 　You want what's behind this…”……… and …….”
 Love's head slowly nodded in affirmation. The lips quivered thinly, and hot breath escaped from the crevice.
 She's a good girl.
-At Tamanegi's words, the man's fingers left the folds of Love's body, and instead, the erect tip was placed there.";"¿Qué estás haciendo?
+At Tamanegi's words, the man's fingers left the folds of Love's body, and instead, the erect tip was placed there.","¿Qué estás haciendo?
  'No importa, sigue adelante'.
 La voz suplicante del amor queda ahogada por la frialdad maquinal de las órdenes de Tamanegi.
  “¡Je, je!
@@ -803,68 +803,68 @@ Cada vez que se producían esos hilos, la voz del amor cambiaba aún más.
 La cabeza de Love asintió lentamente en señal de afirmación. Sus labios temblaban finamente, el aliento caliente se escapaba por las rendijas.
  'Es una buena chica'.
 Ante las palabras de Tamanegi, los dedos del hombre abandonaron los pliegues de Amor, y en su lugar se colocó la punta erecta de su polla."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-"narrator";"愛が一人、街をてくてく歩いている。";"Love is alone, trudging through the city.";"El amor está solo, caminando por la ciudad."
-"morita  ai (talking)";"よかったでござんす。 街は平和に包まれてるでござんす。
-街の平和は、あたしら任侠モンが しっかりしていたら保たれるんで ござんすねー。";"Thank goodness. The town is surrounded by peace.
-Peace in the city can be maintained if we chivalrous people stay strong.";"Gracias a Dios. La ciudad está rodeada de paz.
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+"narrator","愛が一人、街をてくてく歩いている。","Love is alone, trudging through the city.","El amor está solo, caminando por la ciudad."
+"morita  ai (talking)","よかったでござんす。 街は平和に包まれてるでござんす。
+街の平和は、あたしら任侠モンが しっかりしていたら保たれるんで ござんすねー。","Thank goodness. The town is surrounded by peace.
+Peace in the city can be maintained if we chivalrous people stay strong.","Gracias a Dios. La ciudad está rodeada de paz.
 La paz en la ciudad se puede mantener si los caballeros somos fuertes."
-"narrator";"　　［………ほー………］";"[………ho ………]";"[………ho ………]"
-"morita  ai (talking)";"ん？";"Hmm?";"¿Eh?"
-"narrator";"　　［……ほー……は……ほーー……］";"[……ho…… is ……ho ……]";"[……ho…… es ……ho ……]"
-"morita  ai (talking)";"んんん？？？";"Hmm?";"¿Hmm?"
-"narrator";"　　［はにほー　はにほー　はにほー］
-愛は辺りを見回したが、奇妙な声は、どうやら 外からではなく、自分の中――頭へ直に流れて きている感じがした。";"［Hani ho, ha ni ho, ha ni ho, ha ni ho.]
-Ai looked around, but the strange voice seemed to be coming not from outside, but directly into her head.";"［Hahnihoo, hahnihoo, hahnihoo…]
+"narrator","　　［………ほー………］","[………ho ………]","[………ho ………]"
+"morita  ai (talking)","ん？","Hmm?","¿Eh?"
+"narrator","　　［……ほー……は……ほーー……］","[……ho…… is ……ho ……]","[……ho…… es ……ho ……]"
+"morita  ai (talking)","んんん？？？","Hmm?","¿Hmm?"
+"narrator","　　［はにほー　はにほー　はにほー］
+愛は辺りを見回したが、奇妙な声は、どうやら 外からではなく、自分の中――頭へ直に流れて きている感じがした。","［Hani ho, ha ni ho, ha ni ho, ha ni ho.]
+Ai looked around, but the strange voice seemed to be coming not from outside, but directly into her head.","［Hahnihoo, hahnihoo, hahnihoo…]
 Ai miró a su alrededor, pero las extrañas voces no parecían venir del exterior, sino directamente de su cabeza."
-"morita  ai (talking)";"な、なんでござんすかー？ これはーー！！？？";"What is this? What is this?";"¿Qué es esto? ¿Qué es esto?"
-"narrator";"愛がうろたえ叫んでいるのを、 周囲の人々は不思議そうに見つめる。
- 　　［きみがほしいなー 　　　はにほー　はにほー］";"The people around her stare in wonder as Ai cries out in a panic.
- 　　［I want you… haniho… haniho…]";"La gente que la rodea la mira con asombro mientras grita.
+"morita  ai (talking)","な、なんでござんすかー？ これはーー！！？？","What is this? What is this?","¿Qué es esto? ¿Qué es esto?"
+"narrator","愛がうろたえ叫んでいるのを、 周囲の人々は不思議そうに見つめる。
+ 　　［きみがほしいなー 　　　はにほー　はにほー］","The people around her stare in wonder as Ai cries out in a panic.
+ 　　［I want you… haniho… haniho…]","La gente que la rodea la mira con asombro mientras grita.
  　　［Te quiero a ti, cariño, cariño, cariño, cariño.]"
-"morita  ai (talking)";"あ……";"A……";"A……"
-"narrator";"　　［はにほー　はにほー　おいでよー 　　　きみがほしいー　はにほー］";"［Come here, I want you, I want you, I want you, I want you, I want you, I want you.]";"［Ven aquí, te quiero, te quiero, te quiero, te quiero]."
-"morita  ai (talking)";"よっ…
+"morita  ai (talking)","あ……","A……","A……"
+"narrator","　　［はにほー　はにほー　おいでよー 　　　きみがほしいー　はにほー］","［Come here, I want you, I want you, I want you, I want you, I want you, I want you.]","［Ven aquí, te quiero, te quiero, te quiero, te quiero]."
+"morita  ai (talking)","よっ…
 呼んでる……
- ……ハニーが……呼んでる……";"Yo……… calling ……
- ……Hanny is calling ……";"Yo……… llamando a ……
+ ……ハニーが……呼んでる……","Yo……… calling ……
+ ……Hanny is calling ……","Yo……… llamando a ……
  ……Hanny está llamando a ……"
-"morita  ai (talking)";"……………
+"morita  ai (talking)","……………
  ……
  …
- ………………あ……あれ？ あれれれ？？";"……………
+ ………………あ……あれ？ あれれれ？？","……………
  ……
- ………………… Oh…… Huh? Huh?";"……………
+ ………………… Oh…… Huh? Huh?","……………
  ……
  ………………… Ah…… ¿Eh? ¿Eh?"
-"narrator";"うつろな目を正気に戻すと、 愛は慌てて周囲を見回した。";"Ai looked around hurriedly as her vacant eyes came back to their senses.";"Al devolverle la cordura a sus ojos desplomados, Amor miró a su alrededor apresuradamente."
-"morita  ai (talking)";"こ、ここはどこでござんすか！？ あたしゃ、一体、何を？？";"Where am I? What am I doing?";"¿Dónde estoy? ¿Qué demonios estoy haciendo?"
-"narrator";"　　［はにほー　はにほー］";"［Hani ho! Hani ho!]";"［Hani ho, ha ni ho.]"
-"morita  ai (talking)";"……あっ…";"There was ………";"…… fue…"
-"narrator";"　　［はにほー　はにほー］";"［Hani ho! Hani ho!]";"［Hani ho, ha ni ho.]"
-"morita  ai (talking)";"ま…た……聞こえる……";"Ma…taht sounds…… ……";"Ma…tah…… suena ……"
-"narrator";"　　［はにほー　はにほー　おいでよー 　　　きみがほしいー］";"［Come here, I want you.]";"［Hani ho, hani ho, ven aquí, te quiero.]"
-"morita  ai (talking)";"……………";"……………";"……………"
-"narrator";"　　［はにほー　はにほー］";"［Hani ho! Hani ho!]";"［Hani ho, ha ni ho.]"
-"morita  ai (talking)";"……呼んでる… 行かなくちゃ……";"…… calling… I gotta go ……";"…… llamando… tengo que ir……"
-"narrator";"森田愛は、何かに導かれるように コフンの中に入っていった。
-森田愛は失踪した。";"Morita love went into the coffin as if guided by something.
-Morita love disappeared.";"Morita El amor entró en el ataúd como guiado por algo.
+"narrator","うつろな目を正気に戻すと、 愛は慌てて周囲を見回した。","Ai looked around hurriedly as her vacant eyes came back to their senses.","Al devolverle la cordura a sus ojos desplomados, Amor miró a su alrededor apresuradamente."
+"morita  ai (talking)","こ、ここはどこでござんすか！？ あたしゃ、一体、何を？？","Where am I? What am I doing?","¿Dónde estoy? ¿Qué demonios estoy haciendo?"
+"narrator","　　［はにほー　はにほー］","［Hani ho! Hani ho!]","［Hani ho, ha ni ho.]"
+"morita  ai (talking)","……あっ…","There was ………","…… fue…"
+"narrator","　　［はにほー　はにほー］","［Hani ho! Hani ho!]","［Hani ho, ha ni ho.]"
+"morita  ai (talking)","ま…た……聞こえる……","Ma…taht sounds…… ……","Ma…tah…… suena ……"
+"narrator","　　［はにほー　はにほー　おいでよー 　　　きみがほしいー］","［Come here, I want you.]","［Hani ho, hani ho, ven aquí, te quiero.]"
+"morita  ai (talking)","……………","……………","……………"
+"narrator","　　［はにほー　はにほー］","［Hani ho! Hani ho!]","［Hani ho, ha ni ho.]"
+"morita  ai (talking)","……呼んでる… 行かなくちゃ……","…… calling… I gotta go ……","…… llamando… tengo que ir……"
+"narrator","森田愛は、何かに導かれるように コフンの中に入っていった。
+森田愛は失踪した。","Morita love went into the coffin as if guided by something.
+Morita love disappeared.","Morita El amor entró en el ataúd como guiado por algo.
 Morita El amor desapareció."
-"Takega Satsu (talking)";"どうやら終点らしいな。";"Apparently it's the last stop.";"Aparentemente es el final de la línea."
-"Yamamoto Akuji (talking)";"うわ、はにわくせー。";"Wow, haniwakey.";"Ugh, haniwas."
-"Takega Satsu (talking)";"まったくだ。";"Not at all.";"Totalmente."
-"narrator";"　　［はにほー　はにほー　あいやー］";"［Hani ho, hani ho, aiyah!]";"［Hani ho, ha ni ho, aiyaa.]"
-"Yamamoto Akuji (talking)";"……………";"……………";"……………"
-"Takega Satsu (talking)";"…………………";"…………………";"…………………"
-"Yamamoto Akuji (talking)";"あの声してるとこ、行かなきゃ なんねーのか…？";"Don't we have to go to the place where that voice is coming from…?";"¿No tienes que ir al lugar de donde viene esa voz…?"
-"Takega Satsu (talking)";"そのようだ。";"It seems so.";"Parece que sí."
-"Yamamoto Akuji (talking)";"うーん。";"Hmmm.";"Hmmm."
-"Takega Satsu (talking)";"四の五の言う間に、足を動かせ、ほれ。";"While you're at it, move your feet, here.";"Mueve tus pies mientras estás en ello, aquí."
-"Yamamoto Akuji (talking)";"おわ！ ひでーや、さっちゃん。 膝の裏に膝入れんなよ。";"Ow! That's terrible, Sacchan. Don't kneel behind my knees.";"¡Oww! Hidey, Sacchan. No te arrodilles detrás de mis rodillas."
-"narrator";"悪司達が少し歩くと、ぼんやりと明るい 場所にたどりついた。";"After a short walk, Akuji and his team reached a dimly lit area.";"Después de que Akuji y sus amigos caminaron un poco, llegaron a un lugar vagamente iluminado."
-"cg narrator";"「なっ……！！」
+"Takega Satsu (talking)","どうやら終点らしいな。","Apparently it's the last stop.","Aparentemente es el final de la línea."
+"Yamamoto Akuji (talking)","うわ、はにわくせー。","Wow, haniwakey.","Ugh, haniwas."
+"Takega Satsu (talking)","まったくだ。","Not at all.","Totalmente."
+"narrator","　　［はにほー　はにほー　あいやー］","［Hani ho, hani ho, aiyah!]","［Hani ho, ha ni ho, aiyaa.]"
+"Yamamoto Akuji (talking)","……………","……………","……………"
+"Takega Satsu (talking)","…………………","…………………","…………………"
+"Yamamoto Akuji (talking)","あの声してるとこ、行かなきゃ なんねーのか…？","Don't we have to go to the place where that voice is coming from…?","¿No tienes que ir al lugar de donde viene esa voz…?"
+"Takega Satsu (talking)","そのようだ。","It seems so.","Parece que sí."
+"Yamamoto Akuji (talking)","うーん。","Hmmm.","Hmmm."
+"Takega Satsu (talking)","四の五の言う間に、足を動かせ、ほれ。","While you're at it, move your feet, here.","Mueve tus pies mientras estás en ello, aquí."
+"Yamamoto Akuji (talking)","おわ！ ひでーや、さっちゃん。 膝の裏に膝入れんなよ。","Ow! That's terrible, Sacchan. Don't kneel behind my knees.","¡Oww! Hidey, Sacchan. No te arrodilles detrás de mis rodillas."
+"narrator","悪司達が少し歩くと、ぼんやりと明るい 場所にたどりついた。","After a short walk, Akuji and his team reached a dimly lit area.","Después de que Akuji y sus amigos caminaron un poco, llegaron a un lugar vagamente iluminado."
+"cg narrator","「なっ……！！」
  「馬鹿者、声がでかい」
 奇妙な光景を見て叫びそうになった悪司の口を、 殺が押さえた。
  「らっ…らって、らっちゃん……」
@@ -898,7 +898,7 @@ Morita El amor desapareció."
  「あ……そーいや、そーだなー…」
  「悠長な事を言ってられなくなったみたいだな。 　悪司、戦闘を……」
  「――戦闘だと……？」
-悪司と殺と。 そして、聞いた覚えのない第三者の声が、 そこに響いた。";"”Hey, ……!
+悪司と殺と。 そして、聞いた覚えのない第三者の声が、 そこに響いた。","”Hey, ……!
 You idiot, your voice is so loud!”
 Akuji almost screamed at the strange sight, but Satsu held his mouth.
 Ratt…Ratt, Rachan …….”
@@ -932,7 +932,7 @@ I don't know. 　And what happens to the love that wears it?
  “Oh, ……, yeah, yeah…”
 The most important thing is that you should be able to see the difference between the two. 　Akuji, I'm going to…… combat.
  “--A battle, ……?”
-With Akuji and Satsu.";"”¡Oye, ……!
+With Akuji and Satsu.","”¡Oye, ……!
  “¡Idiota, tu voz es muy fuerte!
 Satsu sujetó la boca de Akuji, que estaba a punto de gritar ante la extraña visión.
  'Ratt…ratt, Rachan …….'
@@ -967,220 +967,220 @@ Oh, ……, sí, sí…
 Lo primero que se me ocurre es el hecho de que la primera vez que ves a un hombre con una pistola en la mano, sabes que va a estar un poco nervioso. 　Akuji, combate en …….”
  “-¿Una batalla, dices, ……?
 Con Akuji y Satsu. Lo primero que me viene a la mente es el hecho de que la primera vez que ves a una persona, sabes que ha estado ahí durante mucho tiempo."
-"__system__??";"{CG_MODE = 1:";"";""
-"__system__??";"}";"";""
-" (talking)";"神聖な儀式を邪魔するは誰ぞ？";"Who are you to interrupt a sacred ritual?";"¿Quién es el que interrumpe los ritos sagrados?"
-"Yamamoto Akuji (talking)";"えっ！？";"What?";"¿Qué?"
-"narrator";"いつの間に悪司達の後ろに立ったのか。 そこには奇妙な面をつけた愛が立っていた。";"When did he stand behind Akuji and the others? There stood Ai, wearing a strange mask.";"¿Cuándo se pusieron detrás de Akuji y los demás? Allí estaba Ai, con una extraña máscara."
-"Yamamoto Akuji (talking)";"たまたま、ここを攻めてたら、 行方不明だったおめーがいたから、 びっくりしたぜ、愛。";"I happened to be attacking here and was surprised to find you missing, Ai.";"Resulta que estaba atacando aquí y me sorprendió ver que habías desaparecido, Ai."
-"binonon'ou (talking)";"愛――？";"Love--?";"¿Amor…?"
-"Yamamoto Akuji (talking)";"おめーの名前じゃねーか。 こんなはにわくせーとこにいたせいで、 自分の名前も忘れちまったのか？";"That's your name, isn't it? Have you forgotten your own name because you've been living in such a haniwa place?";"Ese es tu nombre, ¿no? ¿Has olvidado tu propio nombre porque has estado en este lugar haniwa?"
-"binonon'ou (talking)";"私の名前は、そのようなものではない。
-私は、ヤマト王ビノノン。 このヤマトを支配する、 最初で最古の王。";"My name is not such.
-I am Binonon, King of Yamato. The first and oldest king to rule this Yamato.";"Mi nombre no es tal.
+"__system__??","{CG_MODE = 1:","",""
+"__system__??","}","",""
+" (talking)","神聖な儀式を邪魔するは誰ぞ？","Who are you to interrupt a sacred ritual?","¿Quién es el que interrumpe los ritos sagrados?"
+"Yamamoto Akuji (talking)","えっ！？","What?","¿Qué?"
+"narrator","いつの間に悪司達の後ろに立ったのか。 そこには奇妙な面をつけた愛が立っていた。","When did he stand behind Akuji and the others? There stood Ai, wearing a strange mask.","¿Cuándo se pusieron detrás de Akuji y los demás? Allí estaba Ai, con una extraña máscara."
+"Yamamoto Akuji (talking)","たまたま、ここを攻めてたら、 行方不明だったおめーがいたから、 びっくりしたぜ、愛。","I happened to be attacking here and was surprised to find you missing, Ai.","Resulta que estaba atacando aquí y me sorprendió ver que habías desaparecido, Ai."
+"binonon'ou (talking)","愛――？","Love--?","¿Amor…?"
+"Yamamoto Akuji (talking)","おめーの名前じゃねーか。 こんなはにわくせーとこにいたせいで、 自分の名前も忘れちまったのか？","That's your name, isn't it? Have you forgotten your own name because you've been living in such a haniwa place?","Ese es tu nombre, ¿no? ¿Has olvidado tu propio nombre porque has estado en este lugar haniwa?"
+"binonon'ou (talking)","私の名前は、そのようなものではない。
+私は、ヤマト王ビノノン。 このヤマトを支配する、 最初で最古の王。","My name is not such.
+I am Binonon, King of Yamato. The first and oldest king to rule this Yamato.","Mi nombre no es tal.
 Soy Binonon, Rey de Yamato. El primer y más antiguo rey en gobernar este Yamato."
-"Yamamoto Akuji (talking)";"………へ？？";"Go to ………?";"¿Ir a ………?"
-"Takega Satsu (talking)";"なるほど。";"I see.";"Ya veo."
-"Yamamoto Akuji (talking)";"何がだい？ さっちゃん。";"What is it? Sachan.";"¿Qué es? Sachan."
-"Takega Satsu (talking)";"どうやら、あの娘、 憑依されてしまったようだ。";"It seems that the girl has become possessed.";"Aparentemente, esa chica, está poseída."
-"Yamamoto Akuji (talking)";"ひょういって…？";"What's the word…?";"¿Qué es el granizo…?"
-"Takega Satsu (talking)";"幽霊などに、躰を乗っ取られて しまう事だ。
+"Yamamoto Akuji (talking)","………へ？？","Go to ………?","¿Ir a ………?"
+"Takega Satsu (talking)","なるほど。","I see.","Ya veo."
+"Yamamoto Akuji (talking)","何がだい？ さっちゃん。","What is it? Sachan.","¿Qué es? Sachan."
+"Takega Satsu (talking)","どうやら、あの娘、 憑依されてしまったようだ。","It seems that the girl has become possessed.","Aparentemente, esa chica, está poseída."
+"Yamamoto Akuji (talking)","ひょういって…？","What's the word…?","¿Qué es el granizo…?"
+"Takega Satsu (talking)","幽霊などに、躰を乗っ取られて しまう事だ。
 歴史の時間に習わなかったのか？ ビノノンは実在する歴史上の人物だ。
-但し、この娘が嘘をついて いなかったらになるが……";"It's about ghosts taking over your body.
+但し、この娘が嘘をついて いなかったらになるが……","It's about ghosts taking over your body.
 Didn't you learn that in history class? Binonon is a real historical person.
-That is, if the girl isn't lying……";"Se trata de fantasmas que se apoderan de tu cuerpo.
+That is, if the girl isn't lying……","Se trata de fantasmas que se apoderan de tu cuerpo.
  ¿No lo aprendiste en la clase de historia?  Binonon es una figura histórica real.
 Eso es, si la chica no estaba mintiendo……"
-"Yamamoto Akuji (talking)";"多分、嘘はついてねー。";"Maybe I ain't lying.";"Tal vez no esté mintiendo, no estoy mintiendo."
-"Takega Satsu (talking)";"何故言い切れる？";"How can you be so sure?";"¿Cómo puedes estar tan seguro?"
-"Yamamoto Akuji (talking)";"あいつだったら、嘘ついても、 任侠言葉になるだろうから。";"If it was him, even if he lied, it would be in the language of chivalry.";"Si era él, aunque mintiera, sería en el lenguaje de la caballería."
-"Takega Satsu (talking)";"なるほど。";"I see.";"Ya veo."
-"__system__??";"{☆ＤＡＴＥ % 10 = 0:";"";""
-"__system__??";"}";"";""
-"__system__??";"{☆ＤＡＴＥ % 2 = 0:";"";""
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"んなこたーどうでもいい。 おい、愛、帰るぞ。 ただでさえ、ここは、はにわ臭くて……";"I don't care about that. Hey, love, let's go home. Even for free, this place smells like haniwa: ……";"Eso no me importa. Oye, amor, nos vamos a casa. Incluso por el simple hecho de hacerlo, este lugar huele a haniwa……"
-"binonon'ou (talking)";"無礼者、王の躰に軽々しく さわるでない！";"Rude man, don't touch the king's body so lightly!";"¡Grosero, no toques tan ligeramente el cuerpo del rey!"
-"narrator";"悪司が伸ばした手を、 愛はピシリと撥ねのける。";"Ai firmly repels Akuji's outstretched hand.";"Ai se encoge de hombros ante la mano extendida de Akuji."
-"binonon'ou (talking)";"さらばだ。";"Farewell.";"Adiós."
-"Yamamoto Akuji (talking)";"お、おい、愛！！";"Oh, hey, love!";"¡Oh, hola, amor!"
-"narrator";"仮面をつけた愛は、 悪司達の目の前から消えた。";"Masked love disappeared before the eyes of Akuji and others.";"El amor enmascarado desapareció ante los ojos de Akuji y los demás."
-"Yamamoto Akuji (talking)";"消え……た……";"Disappeared…… ……";"Gone …………"
-"Takega Satsu (talking)";"このような事があるのだな。
-どうする？ 追う手だてはないが…";"So this is what's going on.
-What do we do? There's no way to go after them, but…";"Esto es lo que tienes que hacer.
+"Yamamoto Akuji (talking)","多分、嘘はついてねー。","Maybe I ain't lying.","Tal vez no esté mintiendo, no estoy mintiendo."
+"Takega Satsu (talking)","何故言い切れる？","How can you be so sure?","¿Cómo puedes estar tan seguro?"
+"Yamamoto Akuji (talking)","あいつだったら、嘘ついても、 任侠言葉になるだろうから。","If it was him, even if he lied, it would be in the language of chivalry.","Si era él, aunque mintiera, sería en el lenguaje de la caballería."
+"Takega Satsu (talking)","なるほど。","I see.","Ya veo."
+"__system__??","{☆ＤＡＴＥ % 10 = 0:","",""
+"__system__??","}","",""
+"__system__??","{☆ＤＡＴＥ % 2 = 0:","",""
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","んなこたーどうでもいい。 おい、愛、帰るぞ。 ただでさえ、ここは、はにわ臭くて……","I don't care about that. Hey, love, let's go home. Even for free, this place smells like haniwa: ……","Eso no me importa. Oye, amor, nos vamos a casa. Incluso por el simple hecho de hacerlo, este lugar huele a haniwa……"
+"binonon'ou (talking)","無礼者、王の躰に軽々しく さわるでない！","Rude man, don't touch the king's body so lightly!","¡Grosero, no toques tan ligeramente el cuerpo del rey!"
+"narrator","悪司が伸ばした手を、 愛はピシリと撥ねのける。","Ai firmly repels Akuji's outstretched hand.","Ai se encoge de hombros ante la mano extendida de Akuji."
+"binonon'ou (talking)","さらばだ。","Farewell.","Adiós."
+"Yamamoto Akuji (talking)","お、おい、愛！！","Oh, hey, love!","¡Oh, hola, amor!"
+"narrator","仮面をつけた愛は、 悪司達の目の前から消えた。","Masked love disappeared before the eyes of Akuji and others.","El amor enmascarado desapareció ante los ojos de Akuji y los demás."
+"Yamamoto Akuji (talking)","消え……た……","Disappeared…… ……","Gone …………"
+"Takega Satsu (talking)","このような事があるのだな。
+どうする？ 追う手だてはないが…","So this is what's going on.
+What do we do? There's no way to go after them, but…","Esto es lo que tienes que hacer.
  ¿Qué hacemos? No hay manera de ir tras ellos, pero…"
-"Yamamoto Akuji (talking)";"仕方ねーべ。 あいつの事だから、またひょっこり 帰ってくるかもしんねーし。";"It can't be helped. He's that guy, he might come back again in a flash.";"No se puede evitar. Podría volver en un instante."
-"__system__??";"{I装備[43] = 99:";"";""
-"Yamamoto Akuji (talking)";"……ん？ なんだ、こりゃ……";"…… hmm? What's this? ……";"…… ¿hmm? ¿Qué es esto? ……"
-"__system__??";"}";"";""
-"Yamamoto Akuji (talking)";"おう、王さん。 そいつから離れろや。";"Oh, Mr. Wang. Get away from that guy.";"Oh, Sr. Wang. Aléjate de ese tipo."
-"binonon'ou (talking)";"断る。 私は復活した事を嬉しく思っている。";"I refuse. I am happy to be back.";"Desechar. Me alegro de haber vuelto."
-"Yamamoto Akuji (talking)";"はにわくせー奴が今さらのこのこ 現代にやってきたって、 出来る事なんざないんだからよ。
+"Yamamoto Akuji (talking)","仕方ねーべ。 あいつの事だから、またひょっこり 帰ってくるかもしんねーし。","It can't be helped. He's that guy, he might come back again in a flash.","No se puede evitar. Podría volver en un instante."
+"__system__??","{I装備[43] = 99:","",""
+"Yamamoto Akuji (talking)","……ん？ なんだ、こりゃ……","…… hmm? What's this? ……","…… ¿hmm? ¿Qué es esto? ……"
+"__system__??","}","",""
+"Yamamoto Akuji (talking)","おう、王さん。 そいつから離れろや。","Oh, Mr. Wang. Get away from that guy.","Oh, Sr. Wang. Aléjate de ese tipo."
+"binonon'ou (talking)","断る。 私は復活した事を嬉しく思っている。","I refuse. I am happy to be back.","Desechar. Me alegro de haber vuelto."
+"Yamamoto Akuji (talking)","はにわくせー奴が今さらのこのこ 現代にやってきたって、 出来る事なんざないんだからよ。
 それによ。 いくら昔は偉かったからって言っても、 今はそんな事だーれも気にしねーって。
-昔はスゴかっても、今じゃタダの人だ。 平民だよ、へーみん。";"There's nothing that a guy who smells like haniwa can do, even if he comes to the modern age now.
+昔はスゴかっても、今じゃタダの人だ。 平民だよ、へーみん。","There's nothing that a guy who smells like haniwa can do, even if he comes to the modern age now.
 Besides. No matter how great you were in the past, no one cares about that now.
-You may have been great in the past, but now you're just an ordinary person. You're a commoner, Hemin.";"No hay nada que pueda hacer una persona fresca si llega al mundo moderno a estas alturas.
+You may have been great in the past, but now you're just an ordinary person. You're a commoner, Hemin.","No hay nada que pueda hacer una persona fresca si llega al mundo moderno a estas alturas.
 Además. No importa lo bueno que hayas sido en el pasado, hoy en día a nadie le importa eso.
 Puede que hayas sido genial en el pasado, pero ahora sólo eres un hombre. Eres un plebeyo, Hemin."
-"binonon'ou (talking)";"何！？";"What!";"¿Qué?"
-"Yamamoto Akuji (talking)";"いや、それ以下かも。
+"binonon'ou (talking)","何！？","What!","¿Qué?"
+"Yamamoto Akuji (talking)","いや、それ以下かも。
 そーだなー… 地上には、珍しいモン好きな科学者が わんさといる。
-その中の一人が珍獣扱いで、 あんたを解剖しちまうかも。";"Maybe less.
+その中の一人が珍獣扱いで、 あんたを解剖しちまうかも。","Maybe less.
 You know, there's a lot of scientists out there with a penchant for the unusual.
-One of them might dissect you like you're some kind of freak.";"Tal vez menos.
+One of them might dissect you like you're some kind of freak.","Tal vez menos.
 Hay muchos científicos con una inclinación por lo inusual.
 Uno de ellos podría diseccionarte como si fueras un bicho raro."
-"binonon'ou (talking)";"むぅぅ！！ ヤマトの民は、それ程まで私を 愚弄するに成り下がったのか！？";"Muuuu! Have the people of Yamato become that much of a fool to me!";"¡Mwah! ¡Tanto me ha engañado el pueblo de Yamato!"
-"Yamamoto Akuji (talking)";"おうよ。 戦争に負けちまったからな。
-金の為ならなんでもする奴ぁー、 昔の何倍もいるぜ。";"Oh, yeah. We lost the war.
-There are many times more people who will do anything for money than there used to be.";"Oooh. Hemos perdido la guerra.
+"binonon'ou (talking)","むぅぅ！！ ヤマトの民は、それ程まで私を 愚弄するに成り下がったのか！？","Muuuu! Have the people of Yamato become that much of a fool to me!","¡Mwah! ¡Tanto me ha engañado el pueblo de Yamato!"
+"Yamamoto Akuji (talking)","おうよ。 戦争に負けちまったからな。
+金の為ならなんでもする奴ぁー、 昔の何倍もいるぜ。","Oh, yeah. We lost the war.
+There are many times more people who will do anything for money than there used to be.","Oooh. Hemos perdido la guerra.
 Hay muchas más personas que harían cualquier cosa por dinero que antes."
-"binonon'ou (talking)";"………くだらん国に なってしまったのだな…
- ……つまらん…";"……… We've become a crappy country……… is boring…";"……… Nos hemos convertido en un país de mierda……… aburrido…"
-"narrator";"失望した声が響くと、 愛の顔から仮面が消えた。";"As her disappointed voice rang out, the mask vanished from Ai's face.";"Al sonar su voz decepcionada, la máscara desapareció del rostro de Amor."
-"Yamamoto Akuji (talking)";"納得したみてーだな。";"You seem convinced.";"Parece convencido."
-"morita  ai (talking)";"は…はれれ？？";"Ha… hare?";"¿Ja… liebre?"
-"Yamamoto Akuji (talking)";"おう。";"Oh.";"Oh."
-"morita  ai (talking)";"あれ？ ここどこでござんすか？ あたしゃ、何を…";"Huh? Where am I? What am I…";"¿Eh? ¿Dónde estoy? ¿Qué estoy…?"
-"Yamamoto Akuji (talking)";"さーて、帰るとすっかー。";"Well, let's go home.";"Bueno, vamos a casa."
-"morita  ai (talking)";"あ、あの旦那……";"Oh, that husband ……";"Oh, ese marido: ……"
-"Yamamoto Akuji (talking)";"説明すんの、うぜー。 帰ればいいんだ、帰れば。";"I'm trying to explain, it's annoying. Just go home, just go home.";"Estoy tratando de explicar, es molesto. Sólo vete a casa, sólo vete a casa."
-"morita  ai (talking)";"へ、へい。 なんだかわかんないけど、ここ はにわ臭いんで、あたしも帰ります。";"Hey, hey. I don't know what it is, but it smells bad here, so I'm going home too.";"Oye, oye. No sé qué es, pero aquí huele mal, así que yo también me voy a casa."
-"Yamamoto Akuji (talking)";"…………";"…………";"…………"
-"morita  ai (talking)";"？？";"？？";"？？"
-"Yamamoto Akuji (talking)";"お前の後ろからついてくる それはなんだ？";"I'll be right behind you. What's that?";"Vengo detrás de ti. ¿Qué es eso?"
-"morita  ai (talking)";"へ？？";"Huh?";"¿Eh?"
-"narrator";"　　［はにほー　わしら　愛ちゃんの子分］
+"binonon'ou (talking)","………くだらん国に なってしまったのだな…
+ ……つまらん…","……… We've become a crappy country……… is boring…","……… Nos hemos convertido en un país de mierda……… aburrido…"
+"narrator","失望した声が響くと、 愛の顔から仮面が消えた。","As her disappointed voice rang out, the mask vanished from Ai's face.","Al sonar su voz decepcionada, la máscara desapareció del rostro de Amor."
+"Yamamoto Akuji (talking)","納得したみてーだな。","You seem convinced.","Parece convencido."
+"morita  ai (talking)","は…はれれ？？","Ha… hare?","¿Ja… liebre?"
+"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
+"morita  ai (talking)","あれ？ ここどこでござんすか？ あたしゃ、何を…","Huh? Where am I? What am I…","¿Eh? ¿Dónde estoy? ¿Qué estoy…?"
+"Yamamoto Akuji (talking)","さーて、帰るとすっかー。","Well, let's go home.","Bueno, vamos a casa."
+"morita  ai (talking)","あ、あの旦那……","Oh, that husband ……","Oh, ese marido: ……"
+"Yamamoto Akuji (talking)","説明すんの、うぜー。 帰ればいいんだ、帰れば。","I'm trying to explain, it's annoying. Just go home, just go home.","Estoy tratando de explicar, es molesto. Sólo vete a casa, sólo vete a casa."
+"morita  ai (talking)","へ、へい。 なんだかわかんないけど、ここ はにわ臭いんで、あたしも帰ります。","Hey, hey. I don't know what it is, but it smells bad here, so I'm going home too.","Oye, oye. No sé qué es, pero aquí huele mal, así que yo también me voy a casa."
+"Yamamoto Akuji (talking)","…………","…………","…………"
+"morita  ai (talking)","？？","？？","？？"
+"Yamamoto Akuji (talking)","お前の後ろからついてくる それはなんだ？","I'll be right behind you. What's that?","Vengo detrás de ti. ¿Qué es eso?"
+"morita  ai (talking)","へ？？","Huh?","¿Eh?"
+"narrator","　　［はにほー　わしら　愛ちゃんの子分］
  　　［はにほー　はにほー　ついていく］
-と、ハニーが歌いながら、愛の後ろを ぞろぞろとついてきた。";"［We are Ai-chan's henchmen.]
+と、ハニーが歌いながら、愛の後ろを ぞろぞろとついてきた。","［We are Ai-chan's henchmen.]
  　　［We'll follow you.]
-Ai's henchmen,” sang Hanny as they followed Ai's lead.";"［Somos los secuaces de Ai-chan.]
+Ai's henchmen,” sang Hanny as they followed Ai's lead.","［Somos los secuaces de Ai-chan.]
  　　［Somos los secuaces de Ai.]
 Somos los secuaces de Ai”, cantó Hanny, siguiendo de cerca a Ai."
-"morita  ai (talking)";"なんなんでござんすかーー？？";"What is it?";"¿Qué es?"
-"Yamamoto Akuji (talking)";"ビジュアル的におもしれーから、 そのままでいろ。";"It's visually interesting, so keep it that way.";"Es visualmente interesante, así que manténgalo así."
-"morita  ai (talking)";"なんなんでござんすか、それーー！！";"What the hell is that?";"¿Qué demonios es eso?"
-"binonon'ou (talking)";"それでは地上に出、そして再び この手にヤマトの大陸を――";"Then let us go to the surface and once again take the continent of Yamato in our hands…";"Luego iremos a la superficie, y una vez más tomaremos en nuestras manos el continente de Yamato…"
-"Yamamoto Akuji (talking)";"そいつは無理ってもんだ。";"That's impossible.";"Eso no es posible."
-"binonon'ou (talking)";"なんだと！？";"What the hell?";"¿Qué demonios?"
-"Yamamoto Akuji (talking)";"あんたが言ってるヤマトってのは、 ニホンの旧名だったよな…";"The Yamato you're talking about was the old name of Nihon, wasn't it…";"El Yamato del que hablas era el antiguo nombre de Nihon…"
-"binonon'ou (talking)";"今はニホンというのか。";"Is it called Nihon now?";"¿Ahora se llama Nihon?"
-"Yamamoto Akuji (talking)";"そのニホンはよー、戦争に負けて、 ウィミィって大国に 支配されちまってる。
-古代の王だかなんだか知らねーけど、 あんた一人でウィミィに勝とうと 思うなんざ、自殺行為だぜ。";"That Japan has lost the war and is now ruled by a superpower called Wime.
-I don't know if you're an ancient king or not, but your trying to defeat Wime  by yourself is an act of self-satsu.";"Ese Japón, como ves, ha perdido la guerra y ahora está gobernado por una gran potencia llamada Wime.
+"morita  ai (talking)","なんなんでござんすかーー？？","What is it?","¿Qué es?"
+"Yamamoto Akuji (talking)","ビジュアル的におもしれーから、 そのままでいろ。","It's visually interesting, so keep it that way.","Es visualmente interesante, así que manténgalo así."
+"morita  ai (talking)","なんなんでござんすか、それーー！！","What the hell is that?","¿Qué demonios es eso?"
+"binonon'ou (talking)","それでは地上に出、そして再び この手にヤマトの大陸を――","Then let us go to the surface and once again take the continent of Yamato in our hands…","Luego iremos a la superficie, y una vez más tomaremos en nuestras manos el continente de Yamato…"
+"Yamamoto Akuji (talking)","そいつは無理ってもんだ。","That's impossible.","Eso no es posible."
+"binonon'ou (talking)","なんだと！？","What the hell?","¿Qué demonios?"
+"Yamamoto Akuji (talking)","あんたが言ってるヤマトってのは、 ニホンの旧名だったよな…","The Yamato you're talking about was the old name of Nihon, wasn't it…","El Yamato del que hablas era el antiguo nombre de Nihon…"
+"binonon'ou (talking)","今はニホンというのか。","Is it called Nihon now?","¿Ahora se llama Nihon?"
+"Yamamoto Akuji (talking)","そのニホンはよー、戦争に負けて、 ウィミィって大国に 支配されちまってる。
+古代の王だかなんだか知らねーけど、 あんた一人でウィミィに勝とうと 思うなんざ、自殺行為だぜ。","That Japan has lost the war and is now ruled by a superpower called Wime.
+I don't know if you're an ancient king or not, but your trying to defeat Wime  by yourself is an act of self-satsu.","Ese Japón, como ves, ha perdido la guerra y ahora está gobernado por una gran potencia llamada Wime.
 No sé si eres un rey antiguo o qué, pero eres un Satsu al pensar que puedes ganar contra Wime solo."
-"binonon'ou (talking)";"まさか…ヤマトがそのような…";"No way… that Yamato is such a…";"No creo… que Yamato sea tan…"
-"Yamamoto Akuji (talking)";"一人だと無理でも、つるんじまったら、 なんとかなるかもしれねーぜ。";"You may not be able to do it alone, but if you get together with others, you may be able to do something.";"No puedes hacerlo solo, pero si te juntas con ellos, tal vez puedas arreglártelas."
-"binonon'ou (talking)";"どういう事だ？";"What do you mean?";"¿Qué quieres decir?"
-"Yamamoto Akuji (talking)";"俺んとこにきな。 そしたら、いつかはヤマトを 復活させる事が出来るかもしんねーぜ。";"Come to me. Then maybe someday you can bring Yamato back to life.";"Ven a mí. Entonces tal vez un día puedas devolverle la vida a Yamato."
-"binonon'ou (talking)";"否と言えば？";"What if I say no?";"¿Y si digo que no?"
-"Yamamoto Akuji (talking)";"あんたの野望が遠退くだけだ。";"Your ambitions are only getting further away.";"Sus ambiciones sólo llegarán hasta cierto punto."
-"binonon'ou (talking)";"――よかろう。 私は、お前に従おう。 私の夢の為に。";"--I will follow you. I will follow you. For my dream.";"- Muy bien. Te seguiré. Por el bien de mi sueño."
-"Yamamoto Akuji (talking)";"決まりだ。 じゃあ、俺の部下って事で。";"Deal. Then you're my man.";"Trato. Así que eres mi hombre, entonces."
-"binonon'ou (talking)";"うむ……";"Mm ……";"Mm……"
-"Takega Satsu (talking)";"よいのか。";"Is it good?";"¿Es bueno?"
-"Yamamoto Akuji (talking)";"何が？";"What?";"¿Qué?"
-"Takega Satsu (talking)";"愛という娘。";"A daughter named Love.";"Una hija llamada Amor."
-"Yamamoto Akuji (talking)";"あー、なんとかなるだろ。";"Ah, you can handle it.";"Ah, puedes arreglártelas."
-"Takega Satsu (talking)";"短絡な。";"Shortcuts.";"Atajos."
-"Yamamoto Akuji (talking)";"はは、呑気だね~。";"Haha, you're a drinker!";"¡Ja, eres un bebedor!"
-"narrator";"ビノノンの後から、ハニー達がついてくる。";"After Binonon, Hanny and the others follow.";"Hanny y otros siguen a Binonon."
-"Yamamoto Akuji (talking)";"あれもついでに仲間にしちまうか。";"I'm going to make that one one of my friends, too.";"Hagamos que ese también sea uno de los nuestros."
-"morita  ai (talking)";"誰もいないでござんすね…";"There is no one here…";"No hay nadie aquí…"
-"narrator";"抜き足、差し足、忍び足…… 愛はこっそり歩いている。";"Uncovering, Reaching, Sneaking…… Love is walking stealthily.";"Desenchufado, enchufado, sigiloso…… El amor camina sigiloso."
-"morita  ai (talking)";"ここにいちゃあ、新番組、 「逆境のヤクザ」が見れないで ござんすからね…
-アディオスでござんすよー…";"If you stay here, you won't be able to watch the new show, “Yakuza in Adversity”…
-Adios, sir…";"Si te quedas aquí, no podrás ver nuestro nuevo programa, Yakuza en la Adversidad…
+"binonon'ou (talking)","まさか…ヤマトがそのような…","No way… that Yamato is such a…","No creo… que Yamato sea tan…"
+"Yamamoto Akuji (talking)","一人だと無理でも、つるんじまったら、 なんとかなるかもしれねーぜ。","You may not be able to do it alone, but if you get together with others, you may be able to do something.","No puedes hacerlo solo, pero si te juntas con ellos, tal vez puedas arreglártelas."
+"binonon'ou (talking)","どういう事だ？","What do you mean?","¿Qué quieres decir?"
+"Yamamoto Akuji (talking)","俺んとこにきな。 そしたら、いつかはヤマトを 復活させる事が出来るかもしんねーぜ。","Come to me. Then maybe someday you can bring Yamato back to life.","Ven a mí. Entonces tal vez un día puedas devolverle la vida a Yamato."
+"binonon'ou (talking)","否と言えば？","What if I say no?","¿Y si digo que no?"
+"Yamamoto Akuji (talking)","あんたの野望が遠退くだけだ。","Your ambitions are only getting further away.","Sus ambiciones sólo llegarán hasta cierto punto."
+"binonon'ou (talking)","――よかろう。 私は、お前に従おう。 私の夢の為に。","--I will follow you. I will follow you. For my dream.","- Muy bien. Te seguiré. Por el bien de mi sueño."
+"Yamamoto Akuji (talking)","決まりだ。 じゃあ、俺の部下って事で。","Deal. Then you're my man.","Trato. Así que eres mi hombre, entonces."
+"binonon'ou (talking)","うむ……","Mm ……","Mm……"
+"Takega Satsu (talking)","よいのか。","Is it good?","¿Es bueno?"
+"Yamamoto Akuji (talking)","何が？","What?","¿Qué?"
+"Takega Satsu (talking)","愛という娘。","A daughter named Love.","Una hija llamada Amor."
+"Yamamoto Akuji (talking)","あー、なんとかなるだろ。","Ah, you can handle it.","Ah, puedes arreglártelas."
+"Takega Satsu (talking)","短絡な。","Shortcuts.","Atajos."
+"Yamamoto Akuji (talking)","はは、呑気だね~。","Haha, you're a drinker!","¡Ja, eres un bebedor!"
+"narrator","ビノノンの後から、ハニー達がついてくる。","After Binonon, Hanny and the others follow.","Hanny y otros siguen a Binonon."
+"Yamamoto Akuji (talking)","あれもついでに仲間にしちまうか。","I'm going to make that one one of my friends, too.","Hagamos que ese también sea uno de los nuestros."
+"morita  ai (talking)","誰もいないでござんすね…","There is no one here…","No hay nadie aquí…"
+"narrator","抜き足、差し足、忍び足…… 愛はこっそり歩いている。","Uncovering, Reaching, Sneaking…… Love is walking stealthily.","Desenchufado, enchufado, sigiloso…… El amor camina sigiloso."
+"morita  ai (talking)","ここにいちゃあ、新番組、 「逆境のヤクザ」が見れないで ござんすからね…
+アディオスでござんすよー…","If you stay here, you won't be able to watch the new show, “Yakuza in Adversity”…
+Adios, sir…","Si te quedas aquí, no podrás ver nuestro nuevo programa, Yakuza en la Adversidad…
 Adiós…"
-"Kohara Koharu (talking)";"「逆境のヤクザ」は、私も楽しみに しているドラマですの。";"I am looking forward to watching “Gyakkai no Yakuza” as well.";"También tengo ganas de ver Gyakkai no Yakuza."
-"morita  ai (talking)";"きゃーーーーー！！！！！！";"Kyaaaahhh ！！！！！！";"Kyaaaahhh ！！！！！！"
-"Kohara Koharu (talking)";"いやですわ。 人をおばけみたいに。";"I don't like it. Like people are ghosts.";"No me gusta. Como si las personas fueran fantasmas."
-"morita  ai (talking)";"おばけより怖い人でござんすよ~~！！";"He is scarier than a ghost~!";"¡Es más aterrador que un fantasma!"
-"Kohara Koharu (talking)";"ところで、どこに行こうと していたのかしら？";"By the way, where were they going?";"Por cierto, ¿a dónde iban?"
-"morita  ai (talking)";"く、くぅ！！";"Coo, coo!";"¡Coo, coo!"
-"narrator";"愛はダンピラを抜いた。";"Love pulled out a dhampira.";"El amor sacó una dhampira."
-"morita  ai (talking)";"あたしゃ、自由を求めさすらう 任侠でござんす！";"I am a chivalrous wanderer in search of freedom!";"Soy un caballeroso vagabundo en busca de la libertad."
-"Kohara Koharu (talking)";"ああ、それで私を斬って、 ここから逃げようという事ですの？";"Oh, so you're just going to slay me and get out of here?";"¿Así que vas a matarme y salir de aquí?"
-"morita  ai (talking)";"そうでござんす！ 喧嘩御免でござんす！";"That's right! I will not fight!";"Sí, así es. ¡No hay que pelear!"
-"Kohara Koharu (talking)";"あ、高倉ゴン。";"Ah, Takakura Gon.";"Ah, Takakura Gon."
-"morita  ai (talking)";"え！？ あの任侠映画のスターでござんすか！？";"What? Are you the star of that chivalrous movie?";"¿Qué? ¿Eres la estrella de esa película de caballeros?"
-"Kohara Koharu (talking)";"なんてね……";"What a surprise……";"Qué sorpresa……"
-"morita  ai (talking)";"えっ……";"Eh ……";"Eh ……"
-"narrator";"愛が横を向いた瞬間に、小春は愛の首筋に 無造作に麻酔を注射した。";"The moment Ai turned her head to the side, Koharu injected anesthesia carelessly into Ai's neck.";"En el momento en que Ai giró la cabeza hacia un lado, Koharu inyectó anestesia en el cuello de Ai en un descuido."
-"morita  ai (talking)";"ひ、卑怯でござんす……！！";"It's not fair……!";"No es justo……"
-"Kohara Koharu (talking)";"だって…… 私、あなたよりひ弱ですもの… 頭脳耽美派と言って欲しいですわ。";"Because…… I am more frail than you… I wish I could say I was a brain aesthetician.";"Porque…… soy más frágil que tú… Ojalá pudiera decir que soy un esteticista del cerebro."
-"morita  ai (talking)";"く…… ぐぅぅ……";"Ku…… Gu……";"Ku…… gu……"
-"narrator";"愛は床に倒れ、眠ってしまった。";"Love collapsed on the floor and fell asleep.";"El amor se derrumbó en el suelo y se quedó dormido."
-"Kohara Koharu (talking)";"もう……しかたのない子…… おしおきが楽しみだこと…… うふ……うふふ……";"I'm already a…… only child…… looking forward to spanking…… ugh…… ugh…… ugh ……";"Ya soy un…… hijo único…… deseando azotar…… ugh…… ugh…… ugh ……"
-"narrator";"小春は陶然と、愛の頬を指でなぞった。
-愛の脱走は失敗に終わった。";"Koharu traced a finger across Love's cheek, euphorically.
-Love's escape ended in failure.";"Koharu trazó con euforia un dedo por la mejilla de Amor.
+"Kohara Koharu (talking)","「逆境のヤクザ」は、私も楽しみに しているドラマですの。","I am looking forward to watching “Gyakkai no Yakuza” as well.","También tengo ganas de ver Gyakkai no Yakuza."
+"morita  ai (talking)","きゃーーーーー！！！！！！","Kyaaaahhh ！！！！！！","Kyaaaahhh ！！！！！！"
+"Kohara Koharu (talking)","いやですわ。 人をおばけみたいに。","I don't like it. Like people are ghosts.","No me gusta. Como si las personas fueran fantasmas."
+"morita  ai (talking)","おばけより怖い人でござんすよ~~！！","He is scarier than a ghost~!","¡Es más aterrador que un fantasma!"
+"Kohara Koharu (talking)","ところで、どこに行こうと していたのかしら？","By the way, where were they going?","Por cierto, ¿a dónde iban?"
+"morita  ai (talking)","く、くぅ！！","Coo, coo!","¡Coo, coo!"
+"narrator","愛はダンピラを抜いた。","Love pulled out a dhampira.","El amor sacó una dhampira."
+"morita  ai (talking)","あたしゃ、自由を求めさすらう 任侠でござんす！","I am a chivalrous wanderer in search of freedom!","Soy un caballeroso vagabundo en busca de la libertad."
+"Kohara Koharu (talking)","ああ、それで私を斬って、 ここから逃げようという事ですの？","Oh, so you're just going to slay me and get out of here?","¿Así que vas a matarme y salir de aquí?"
+"morita  ai (talking)","そうでござんす！ 喧嘩御免でござんす！","That's right! I will not fight!","Sí, así es. ¡No hay que pelear!"
+"Kohara Koharu (talking)","あ、高倉ゴン。","Ah, Takakura Gon.","Ah, Takakura Gon."
+"morita  ai (talking)","え！？ あの任侠映画のスターでござんすか！？","What? Are you the star of that chivalrous movie?","¿Qué? ¿Eres la estrella de esa película de caballeros?"
+"Kohara Koharu (talking)","なんてね……","What a surprise……","Qué sorpresa……"
+"morita  ai (talking)","えっ……","Eh ……","Eh ……"
+"narrator","愛が横を向いた瞬間に、小春は愛の首筋に 無造作に麻酔を注射した。","The moment Ai turned her head to the side, Koharu injected anesthesia carelessly into Ai's neck.","En el momento en que Ai giró la cabeza hacia un lado, Koharu inyectó anestesia en el cuello de Ai en un descuido."
+"morita  ai (talking)","ひ、卑怯でござんす……！！","It's not fair……!","No es justo……"
+"Kohara Koharu (talking)","だって…… 私、あなたよりひ弱ですもの… 頭脳耽美派と言って欲しいですわ。","Because…… I am more frail than you… I wish I could say I was a brain aesthetician.","Porque…… soy más frágil que tú… Ojalá pudiera decir que soy un esteticista del cerebro."
+"morita  ai (talking)","く…… ぐぅぅ……","Ku…… Gu……","Ku…… gu……"
+"narrator","愛は床に倒れ、眠ってしまった。","Love collapsed on the floor and fell asleep.","El amor se derrumbó en el suelo y se quedó dormido."
+"Kohara Koharu (talking)","もう……しかたのない子…… おしおきが楽しみだこと…… うふ……うふふ……","I'm already a…… only child…… looking forward to spanking…… ugh…… ugh…… ugh ……","Ya soy un…… hijo único…… deseando azotar…… ugh…… ugh…… ugh ……"
+"narrator","小春は陶然と、愛の頬を指でなぞった。
+愛の脱走は失敗に終わった。","Koharu traced a finger across Love's cheek, euphorically.
+Love's escape ended in failure.","Koharu trazó con euforia un dedo por la mejilla de Amor.
 La huida del amor acabó en fracaso."
-"morita  ai (talking)";"はぁぁ~~~ん………";"Hahhhhhh ………";"Hahhhh… ………"
-"narrator";"愛は大きなため息をついた。";"Love sighed loudly.";"El amor suspiró con fuerza."
-"morita  ai (talking)";"駄目でござんす……奉仕青年団には なんかロマンが足りないでござんす……
+"morita  ai (talking)","はぁぁ~~~ん………","Hahhhhhh ………","Hahhhh… ………"
+"narrator","愛は大きなため息をついた。","Love sighed loudly.","El amor suspiró con fuerza."
+"morita  ai (talking)","駄目でござんす……奉仕青年団には なんかロマンが足りないでござんす……
 こう……仁義とか、仁侠とか、切腹とか、 極道の妻達とか……
  …………
-はぁぁぁぁ~~~ん……";"No…… service youth group lacks some kind of romance……
+はぁぁぁぁ~~~ん……","No…… service youth group lacks some kind of romance……
 Like this……humanity, chivalry, seppuku, gokudo no wives,……
  …………
-Haaah~~~n……";"No…… grupos de jóvenes de servicio carecen de algún tipo de romance……
+Haaah~~~n……","No…… grupos de jóvenes de servicio carecen de algún tipo de romance……
 Así……la humanidad, la caballerosidad, el seppuku, las esposas de la yakuza, etc……
  …………
 Haaah~~n……"
-"uimiiheishi (talking)";"オウ、エクセレン~ト。";"Ow, exellent~t.";"Ou, exellent~t."
-"morita  ai (talking)";"ん？";"Hmm?";"¿Eh?"
-"uimiiheishi (talking)";"おう、いかすニホンガール。 セックスしようぜ。";"Hey, Japanese girl. Let's have sex.";"Oh, Ikaasu Nihongirl. Vamos a tener sexo."
-"morita  ai (talking)";"真っ昼間から何言ってるでやんすか、 この白ブタが。 不埒なんで、切り捨て御免！！";"What are you talking about in the middle of the day, you Haku pig? I'm sorry to cut you off for your insolence!";"¿De qué hablas a plena luz del día, cerdo Haku? ¡Lamento cortarte por tu insolencia!"
-"narrator";"　　［ざくぅぅぅぅ］
-愛はいとも簡単にウィミィ兵士を切り捨てた。";"[Zaku-uh-uh].
-Love cut down Wime soldiers with ease.";"[Zakk.]
+"uimiiheishi (talking)","オウ、エクセレン~ト。","Ow, exellent~t.","Ou, exellent~t."
+"morita  ai (talking)","ん？","Hmm?","¿Eh?"
+"uimiiheishi (talking)","おう、いかすニホンガール。 セックスしようぜ。","Hey, Japanese girl. Let's have sex.","Oh, Ikaasu Nihongirl. Vamos a tener sexo."
+"morita  ai (talking)","真っ昼間から何言ってるでやんすか、 この白ブタが。 不埒なんで、切り捨て御免！！","What are you talking about in the middle of the day, you Haku pig? I'm sorry to cut you off for your insolence!","¿De qué hablas a plena luz del día, cerdo Haku? ¡Lamento cortarte por tu insolencia!"
+"narrator","　　［ざくぅぅぅぅ］
+愛はいとも簡単にウィミィ兵士を切り捨てた。","[Zaku-uh-uh].
+Love cut down Wime soldiers with ease.","[Zakk.]
 El amor abatió a los soldados de Wime con facilidad."
-"uimiiheishi (talking)";"あんぎゃー！！ ひ、酷いね、ウィミィの奴隷国の 女のクセに……";"Aggya!!!! That's terrible, you Wime slave country woman……";"¡Angya! Hola, es terrible, eres una mujer de un estado esclavo en Wime……"
-"morita  ai (talking)";"ごめんなすって！";"I'm sorry!";"Lo siento."
-"narrator";"　　［ざくぅぅぅぅぅぅぅぅぅぅ］";"［Zaku-u-u-u-u-u-u-u-u.]";""
-"uimiiheishi (talking)";"ぎえーーーーーーーーー！";"Geeeeeeeeeeeee!";"¡Geeeeeeeeeee!"
-"narrator";"ウィミィ兵士は返事の出来ない ただの屍になってしまった。";"Wime soldiers have become mere corpses unable to reply.";"Los soldados de Wime se han convertido en meros cadáveres incapaces de responder."
-"morita  ai (talking)";"ふ……またつまらんモンを 斬ってしまったでござんすよ。
+"uimiiheishi (talking)","あんぎゃー！！ ひ、酷いね、ウィミィの奴隷国の 女のクセに……","Aggya!!!! That's terrible, you Wime slave country woman……","¡Angya! Hola, es terrible, eres una mujer de un estado esclavo en Wime……"
+"morita  ai (talking)","ごめんなすって！","I'm sorry!","Lo siento."
+"narrator","　　［ざくぅぅぅぅぅぅぅぅぅぅ］","［Zaku-u-u-u-u-u-u-u-u.]",""
+"uimiiheishi (talking)","ぎえーーーーーーーーー！","Geeeeeeeeeeeee!","¡Geeeeeeeeeee!"
+"narrator","ウィミィ兵士は返事の出来ない ただの屍になってしまった。","Wime soldiers have become mere corpses unable to reply.","Los soldados de Wime se han convertido en meros cadáveres incapaces de responder."
+"morita  ai (talking)","ふ……またつまらんモンを 斬ってしまったでござんすよ。
 どーするでござんすかねー。 一応、ウィミィ人みたいで ござんすしねー。
- ……ま、しかたないでござんす。 ぽーーい。ぱっぱっ。";"I've slashed something boring again at …….
-What are we going to do now? I'm a Wime person, after all.…… Well, it can't be helped. Pooey. Poof.";"Fu…… He cortado otra cosa aburrida.
+ ……ま、しかたないでござんす。 ぽーーい。ぱっぱっ。","I've slashed something boring again at …….
+What are we going to do now? I'm a Wime person, after all.…… Well, it can't be helped. Pooey. Poof.","Fu…… He cortado otra cosa aburrida.
  ¿Qué vamos a hacer ahora? Parece ser una persona Wime, después de todo.…… Bueno, no se puede evitar. Pooey. Puf."
-"narrator";"愛は死体をごみ箱に捨てた。";"Love dumped the body in a dumpster.";"El amor tiró el cuerpo en un contenedor."
-"morita  ai (talking)";"後は野となれ、山となれ… それが任侠でござんす……";"The rest is field and mountain… That's chivalry……";"El resto es campo y montaña… Eso es caballerosidad……"
-"narrator";"幸い、この事件は発覚する事なく 忘れ去られていった。";"Fortunately, the incident was never discovered and was forgotten.";"Afortunadamente, el incidente nunca se descubrió y quedó en el olvido."
-"narrator";"愛が剣の訓練をしている。";"Love is training with a sword.";"El amor es un entrenamiento con una espada."
-"morita  ai (talking)";"ん~~………
+"narrator","愛は死体をごみ箱に捨てた。","Love dumped the body in a dumpster.","El amor tiró el cuerpo en un contenedor."
+"morita  ai (talking)","後は野となれ、山となれ… それが任侠でござんす……","The rest is field and mountain… That's chivalry……","El resto es campo y montaña… Eso es caballerosidad……"
+"narrator","幸い、この事件は発覚する事なく 忘れ去られていった。","Fortunately, the incident was never discovered and was forgotten.","Afortunadamente, el incidente nunca se descubrió y quedó en el olvido."
+"narrator","愛が剣の訓練をしている。","Love is training with a sword.","El amor es un entrenamiento con una espada."
+"morita  ai (talking)","ん~~………
 たーーーーー！！！！
-一人、二人、三人、四人、五人！！";"Mmm~………
+一人、二人、三人、四人、五人！！","Mmm~………
 Ta~~！！！！
-One, two, three, four, five!";"Mmm~………
+One, two, three, four, five!","Mmm~………
 Ta~~！！！！
  ¡Uno, dos, tres, cuatro, cinco!"
-"narrator";"と、妄想の中で愛は人を叩き斬った。";"And in his delusion, love slashed people.";"Y en su fantasía, el amor mató a la gente a golpes."
-"morita  ai (talking)";"ふう……";"Fu ……";"Fu ……"
-"narrator";"剣を鞘に納め、愛は一息ついた。";"Sheathing his sword, Ai took a breath.";"Enfundando la espada, Amor tomó aire."
-"morita  ai (talking)";"イケてる……イケてるでござんす… ああ……実戦が楽しみでござんす……";"I'm looking forward to…… the real game… Oh…… I'm looking forward to…… the real game!";"Estoy deseando que llegue el…… guapo… Oh,…… Estoy deseando que llegue la pelea de verdad……"
-"narrator";"愛は自分に酔った。";"Love was intoxicated with himself.";"El amor estaba embriagado de sí mismo."
-"morita  ai (talking)";"これも仁義の為。 死んでもらいやす！";"This is also for the sake of humanity. Let him die!";"Esto también es por el bien de la humanidad. ¡Que se mueran!"
-"morita  ai (talking)";"うう~…ら、蘭姐さん……";"Ummm…la, Miss Ran ……";"Uhhhh…la, señorita Ran ……"
-" (talking)";"何を弱気になってるんだい！ 遠慮せずにかかっておいで！";"What's the matter with you, you wimp? Don't be shy, come at me!";"¿Qué te pasa, cobarde? No seas tímido, ¡ven hacia mí!"
-"morita  ai (talking)";"うう……ごめんなすって！！";"Ugh…… sorry!";"¡Uuu…… lo siento!"
-"morita  ai (talking)";"太郎さん、あんたに怨みはありやせんが、 今は敵と味方！ お覚悟を！！";"Tarou, I have no grudge against you, but now we're friend and foe! Brace yourselves!";"Tarou, no tengo nada contra ti, ¡pero ahora somos amigos y enemigos! ¡Prepárense!"
-" (talking)";"しゃらくさいわ、小娘が！ 儂を殺れるものなら殺ってみよ！";"Shut up, you little bitch! Let me atsu you if I can!";"¡Cállate, pequeña perra! ¡Si puedes atsu a mí, entonces atsu a mí!"
-"narrator";"愛は一人、訓練をしていた。";"Love, alone, was training.";"El amor, por sí solo, era un entrenamiento."
-"morita  ai (talking)";"ふう……";"Fu ……";"Fu ……"
-"Kaga Tarou (talking)";"訓練かえ。 精が出るのう。";"Training. It's very energetic.";"La formación. Es muy energético."
-"morita  ai (talking)";"あ、これは太郎さん！ おはようございます！";"Oh, this is Tarou! Good morning!";"¡Oh, este es Tarou! ¡Buenos días!"
-"Kaga Tarou (talking)";"戦いは終わったというのに、 修練を怠らないとはの。立派よな。";"The battle is over, but you have not neglected your training. It's admirable, isn't it?";"La batalla ha terminado, pero no has dejado de practicar. Eso es admirable."
-"morita  ai (talking)";"人生、一生戦いでござんすからね。";"Life is a lifelong battle.";"La vida es una batalla que dura toda la vida."
-"Kaga Tarou (talking)";"………………";"………………";"………………"
-"morita  ai (talking)";"何か？";"Yes?";"¿Sí?"
-"Kaga Tarou (talking)";"いや。 その筋の者の一人として お主を見直しておったのだ。";"No. I was looking at you as one of those people.";"No. Te estaba revisando como uno de los que están en esa línea de trabajo."
-"morita  ai (talking)";"あ……はあ… ありがとうござんす。 嬉しいでござんすよ。";"Oh…… is ah… Thank you very much. I'm very happy to hear that.";"Ah…… es ah… Muchas gracias. Me alegra mucho escuchar eso."
-"Kaga Tarou (talking)";"そうか、精進するのじゃぞ。";"Well, be diligent.";"Bien, sé diligente."
-"narrator";"太郎は、愛の頭にぽんと掌を置いた。";"Tarou placed a palm on Ai's head.";"Tarou colocó una palma en la cabeza de Love."
-"morita  ai (talking)";"…………どきどき……";"…………Doki ……";"…………Doki ……"
-"Kaga Tarou (talking)";"ん？";"Hmm?";"¿Eh?"
-"morita  ai (talking)";"な、なんでもないでござんす。";"It's nothing.";"No es nada, no es nada."
+"narrator","と、妄想の中で愛は人を叩き斬った。","And in his delusion, love slashed people.","Y en su fantasía, el amor mató a la gente a golpes."
+"morita  ai (talking)","ふう……","Fu ……","Fu ……"
+"narrator","剣を鞘に納め、愛は一息ついた。","Sheathing his sword, Ai took a breath.","Enfundando la espada, Amor tomó aire."
+"morita  ai (talking)","イケてる……イケてるでござんす… ああ……実戦が楽しみでござんす……","I'm looking forward to…… the real game… Oh…… I'm looking forward to…… the real game!","Estoy deseando que llegue el…… guapo… Oh,…… Estoy deseando que llegue la pelea de verdad……"
+"narrator","愛は自分に酔った。","Love was intoxicated with himself.","El amor estaba embriagado de sí mismo."
+"morita  ai (talking)","これも仁義の為。 死んでもらいやす！","This is also for the sake of humanity. Let him die!","Esto también es por el bien de la humanidad. ¡Que se mueran!"
+"morita  ai (talking)","うう~…ら、蘭姐さん……","Ummm…la, Miss Ran ……","Uhhhh…la, señorita Ran ……"
+" (talking)","何を弱気になってるんだい！ 遠慮せずにかかっておいで！","What's the matter with you, you wimp? Don't be shy, come at me!","¿Qué te pasa, cobarde? No seas tímido, ¡ven hacia mí!"
+"morita  ai (talking)","うう……ごめんなすって！！","Ugh…… sorry!","¡Uuu…… lo siento!"
+"morita  ai (talking)","太郎さん、あんたに怨みはありやせんが、 今は敵と味方！ お覚悟を！！","Tarou, I have no grudge against you, but now we're friend and foe! Brace yourselves!","Tarou, no tengo nada contra ti, ¡pero ahora somos amigos y enemigos! ¡Prepárense!"
+" (talking)","しゃらくさいわ、小娘が！ 儂を殺れるものなら殺ってみよ！","Shut up, you little bitch! Let me atsu you if I can!","¡Cállate, pequeña perra! ¡Si puedes atsu a mí, entonces atsu a mí!"
+"narrator","愛は一人、訓練をしていた。","Love, alone, was training.","El amor, por sí solo, era un entrenamiento."
+"morita  ai (talking)","ふう……","Fu ……","Fu ……"
+"Kaga Tarou (talking)","訓練かえ。 精が出るのう。","Training. It's very energetic.","La formación. Es muy energético."
+"morita  ai (talking)","あ、これは太郎さん！ おはようございます！","Oh, this is Tarou! Good morning!","¡Oh, este es Tarou! ¡Buenos días!"
+"Kaga Tarou (talking)","戦いは終わったというのに、 修練を怠らないとはの。立派よな。","The battle is over, but you have not neglected your training. It's admirable, isn't it?","La batalla ha terminado, pero no has dejado de practicar. Eso es admirable."
+"morita  ai (talking)","人生、一生戦いでござんすからね。","Life is a lifelong battle.","La vida es una batalla que dura toda la vida."
+"Kaga Tarou (talking)","………………","………………","………………"
+"morita  ai (talking)","何か？","Yes?","¿Sí?"
+"Kaga Tarou (talking)","いや。 その筋の者の一人として お主を見直しておったのだ。","No. I was looking at you as one of those people.","No. Te estaba revisando como uno de los que están en esa línea de trabajo."
+"morita  ai (talking)","あ……はあ… ありがとうござんす。 嬉しいでござんすよ。","Oh…… is ah… Thank you very much. I'm very happy to hear that.","Ah…… es ah… Muchas gracias. Me alegra mucho escuchar eso."
+"Kaga Tarou (talking)","そうか、精進するのじゃぞ。","Well, be diligent.","Bien, sé diligente."
+"narrator","太郎は、愛の頭にぽんと掌を置いた。","Tarou placed a palm on Ai's head.","Tarou colocó una palma en la cabeza de Love."
+"morita  ai (talking)","…………どきどき……","…………Doki ……","…………Doki ……"
+"Kaga Tarou (talking)","ん？","Hmm?","¿Eh?"
+"morita  ai (talking)","な、なんでもないでござんす。","It's nothing.","No es nada, no es nada."
