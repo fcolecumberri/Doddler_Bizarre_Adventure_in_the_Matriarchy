@@ -352,7 +352,7 @@ Satsu. ¿No puedes ser un niño aquí también?"
 "Takega Satsu (talking)","初めてだからな。 優しくしてくれよ。","It's my first time. Be gentle with me.","Es mi primera vez. Sé amable conmigo."
 "Yamamoto Akuji (talking)","………ごめん、もう言いません。","……… sorry, I won't say it again.","……… Lo siento, no lo repetiré."
 "Yamamoto Akuji (talking)","さーて、さっちゃん。 やらねぇか？ 一緒に風呂入ってよ。","Well, Sacchan. Wanna do it? Take a bath together.","Bueno, Sacchan. ¿Quieres hacerlo? Báñense juntos."
-"Takega Satsu (talking)","っ……………","You can find out more at ……………","……………"
+"Takega Satsu (talking)","っ……………","~……………","~……………"
 "Yamamoto Akuji (talking)","………………","………………","………………"
 "Takega Satsu (talking)","……~………","……~………","……~………"
 "Yamamoto Akuji (talking)","………怒らねーの？","……… aren't you going to be mad?","……… ¿No estás enfadado?"
@@ -397,7 +397,7 @@ Satsu. ¿No puedes ser un niño aquí también?"
 "Takega Satsu (talking)","私は、血縁上、お前の叔母にあたる。","I am your aunt by blood.","Soy tu tía de sangre."
 "Yamamoto Akuji (talking)","えっ？","What?","¿Qué?"
 "Takega Satsu (talking)","私の親父殿は、山本一発。 お前の祖父だ、悪司。","My father is Yamamoto Ippatsu. Your grandfather, Akuji.","Mi padre es Yamamoto Ippatsu. Tu abuelo, Akuji."
-"Yamamoto Akuji (talking)","えっ…えーーー！！！？？？","What…eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!","¿Qué… eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee?"
+"Yamamoto Akuji (talking)","えっ…えーーー！！！？？？","E~…eeee！！！？？？","¿¿¿¡¡¡E~…eeee！！！？？？"
 "Takega Satsu (talking)","私の母が先日、働き過ぎで 亡くなってしまった。
 その時に初めて、私もこの様な 大きな甥がいる事を知った。
 私の行く末を案じてくれた親父殿が、 わかめ組にくると良いと仰ったのだが…
@@ -553,7 +553,7 @@ Tsugu……"
 "Yamamoto Akuji (talking)","じゃーおまじないだ。","Then it's a spell.","Entonces es un hechizo."
 "Takega Satsu (talking)","え……","Eh ……","Eh ……"
 "narrator","悪司は殺の手を取ると、切れている指を 唇に含み、舌で舐めた。","Akuji took Satsu's hand, put the cut finger in his lips, and licked it with his tongue.","Akuji tomó la mano de Satsu y se llevó el dedo cortado a los labios y lo lamió con la lengua."
-"Takega Satsu (talking)","っ………","You can find out more at ………","………"
+"Takega Satsu (talking)","っ………","~………","~………"
 "Yamamoto Akuji (talking)","よーしこれでいい。 俺の唾は即効だぜ。","All right, that's it. My spit works fast.","Muy bien, eso es todo. Mi saliva es instantánea, hombre."
 "Takega Satsu (talking)","馬鹿者！ 私は洗剤使ってたんだぞ。 それを口に含むな！","Idiot! I was using detergent. Don't put that in your mouth!","¡Idiotas! Estaba usando detergente. ¡No te pongas eso en la boca!"
 "Yamamoto Akuji (talking)","あ、だから苦かったのか。","Oh, so that's why it was bitter.","Ah, así que por eso estabas amargado."
@@ -651,7 +651,7 @@ May I call you Akuji? We are a married couple.","Un placer, mi yerno.
 あーもー知らねーーー！！！ 勝手にしろーーーー！！！","No, I don't mean that!
 Oh, I don't know! Suit yourself!","¡No, no es eso lo que quería decir!
  ¡Oh, no, no lo sé! Haz lo que quieras."
-"Yamamoto Akuji (talking)","だーーーーーーもーーーー！！！！！","Doooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo ！！！！！","Doooooooooooooooooooooooooooooooooooo ！！！！！"
+"Yamamoto Akuji (talking)","だーーーーーーもーーーー！！！！！","heeeeeeellooooo！！！！！","¡¡¡¡¡hooooooolaaaaa！！！！！"
 "__system__??","{RND \ 0:","",""
 "Oosugi Tsuyoshi (talking)","若、落ち着いて下さい。 大人げないですぞ。","Young man, please calm down. You are not mature enough.","Joven, por favor, cálmese. No estás siendo maduro."
 "Yamamoto Akuji (talking)","これが落ち着いてられっかっての！ 勝手にきて、勝手に結婚させられたん だぞー！！！
@@ -715,8 +715,8 @@ Tanto si le importa como si no, me gustaría que lo tuviera en cuenta a la hora 
 "Takega Satsu (talking)","話に聞いていたのとは違うのだが。","It's not what I had heard about.","No es lo que nos dijeron."
 "Yamamoto Akuji (talking)","何が？","What?","¿Qué?"
 "Takega Satsu (talking)","そのような奥手だとは 聞いていなかったのだが。","I was not told he was that profound.","No me dijeron que fuera tan profundo."
-"Yamamoto Akuji (talking)","ぐーぐーぐー。","Goooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.","Gooooooooooooooooooooooooooooooooooooooooooooooo."
-"Takega Satsu (talking)","…………可愛い奴だ。","He's a………… cute guy.","………… Un chico muy guapo."
+"Yamamoto Akuji (talking)","ぐーぐーぐー。","Guuguuguu。","Guuguuguu。"
+"Takega Satsu (talking)","…………可愛い奴だ。","…………What a cute guy.","…………Que chico más lindo."
 "Yamamoto Akuji (talking)","がーーーーーー！！！！！！！","Goooooooooooooooooooooooooo ！！！！！！！","Gahhhhhh ！！！！！！！"
 "Takega Satsu (talking)","やはり、タヌキ寝入りか。","After all, you are a raccoon sleeping on a raccoon dog.","Después de todo, eres un mapache que duerme sobre un mapache."
 "Yamamoto Akuji (talking)","俺にどうしろってんだよ、も~~……","What do you want me to do, moo~~~……","¿Qué quieres que haga, moo~~……"
@@ -769,9 +769,9 @@ What's going on? ……","Quiero decir, ¡eh, Sachan!
 "Yamamoto Akuji (talking)","いや……似合いそうだなーと…","No,…… looks like it would suit…","No…… parece que le vendría bien…"
 "Takega Satsu (talking)","そうか。","Okay.","Sí."
 "Yamamoto Akuji (talking)","えーーーきしっ！！
-う~~…… 風邪引いたかな~……","Eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!
-U~~…… I think I caught a cold~……","¡Eeeeeeeeeeeeeeeeeeeeeeeeeeee!
-U~~…… Creo que me he resfriado……"
+う~~…… 風邪引いたかな~……","Eeeekishi~！！
+U~~…… I think I caught a cold~……","¡¡Eeeekishi~！！
+U~~…… Creo que me he resfriado~……"
 "Takega Satsu (talking)","これでも食っておけ。","Eat this, too.","Come esto también."
 "Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
 "narrator","悪司の前に出されたのは、 あんかけうどんだった。","The dish served in front of Akuji was udon noodles with ankake.","Lo que le sirvieron a Akuji fueron fideos ankake udon."
@@ -843,7 +843,7 @@ Isn't it too late?","Pero no cuidé bien a Sacchan.
 "Yamamoto Akuji (talking)","プレゼントなんだろ？ だったら早く、広げたいってのが 人情ってなもんだ。","It's a gift, right? If that's the case, it's human nature to want to spread the word as soon as possible.","Es un regalo, ¿verdad? Entonces es de naturaleza humana querer repartirlo rápidamente."
 "Takega Satsu (talking)","その前に待て… お前、私の事を……","But first, wait… you, you know me: ……","Pero primero, espera… tú, estás hablando de mí: ……"
 "Yamamoto Akuji (talking)","好きだよ。","I like it.","Me gusta."
-"Takega Satsu (talking)","っ……","You can find out more at ……","……"
+"Takega Satsu (talking)","っ……","~……","~……"
 "Yamamoto Akuji (talking)","最初は、人の言いなりになってるのも ムカついてて、あんたをないがしろに しちまったけど…
 しばらく一緒にいてたらよ、 なんてゆーかこう、情がわいて きちまった。
 こーいうのも悪くねぇ。","At first, I was so disgusted with being at the mercy of others that I neglected you, but…
@@ -1440,7 +1440,7 @@ Satsu put down the receiver without answering, and ran out to the genius hospita
 Satsu colgó el auricular sin contestar y salió corriendo hacia el hospital del genio."
 "Takega Satsu (talking)","はあ……はあ……","haha…… haha ……","Haa…… haa……"
 " (talking)","え？ さっちゃん？","Huh? Sacchan?","¿Eh? ¿Sachan?"
-"Takega Satsu (talking)","っ……","You can find out more at ……","……"
+"Takega Satsu (talking)","っ……","~……","~……"
 "Yamamoto Akuji (talking)","どーしたんだい、こんなとこに？","What are you doing here?","¿Qué haces aquí?"
 "Takega Satsu (talking)","悪司………！","Akuji ………!","¡Akuji  ………!"
 "Yamamoto Akuji (talking)","え、お、おい……","Eh, oh, hey ……","Eh, oh, hey……"
@@ -1551,7 +1551,7 @@ Hello!","¡Qué carajo! ¡Dame eso!
 "narrator","「悪司か」","Akuji?”","¿”Akuji”?”"
 "Yamamoto Akuji (talking)","悪司かじゃねーだろ！ 今一体、どこにいるんだ！？","You ain't no Akuji! Where the hell are you right now!","¡Akuji o no! ¿Dónde diablos estás ahora?"
 "narrator","「エデンだ」","Eden.”","Edén”."
-"Yamamoto Akuji (talking)","エデンーーーー！！？？","Edenooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!","¡Edenoooooooooooooooooooooooooooooooooooooooo!"
+"Yamamoto Akuji (talking)","エデンーーーー！！？？","Edeeeeen！！？？","¿¿¡¡Edeeeeen！！？？"
 "narrator","「今すぐ、司令官室にきて欲しい。 　許可はもう出した」
  「すぐにこい。 　わかったな」
 そこで電話は切られてしまった。","I want you in the commander's office right now. 　I've already given you permission.
