@@ -2,14 +2,14 @@
 "narrator","　エラー 　このファイル名は、もう無いです。 　削除して下さい。","Error This filename is no longer available. 　Please delete it.","Error Este nombre de archivo ya no está disponible. 　Por favor, bórralo."
 "narrator","──多数のウィミィ兵を乗せたトラックが、 その地の主要施設全てに突然乗り込んできた。","Trucks carrying large numbers of Wime soldiers suddenly rolled up to all the major facilities in the area.","─ ─ Los camiones que transportan un gran número de soldados Wime han entrado de repente en todas las instalaciones importantes de la zona."
 "__system__??","{☆イハビ占領 = 0:","",""
-"Judy Ca (talking)","……よし、各員作戦開始！ 奉仕青年団とニホン人を叩き出せ！！","…… Okay, each member open the operation Hajime! Get out the service youth group and the nihongans!","…… Bien, cada miembro abre la operación Hajime! ¡Saca a la Organización Juvenil de Servicio y a los Nihonganos!"
+"Judy Ca (talking)","……よし、各員作戦開始！ 奉仕青年団とニホン人を叩き出せ！！","……Okay, each member's strategy begins! Demonstrate the service youth group and the Japanese people!!","……Está bien, ¡comienza la estrategia de cada miembro! ¡¡Demostrar el grupo de servicio juvenil y los japoneses! !"
 "__system__??","}","",""
 "__system__??","{☆イハビ占領 = 1:","",""
-"joseishikan (talking)","……ジュディ隊長の指示通りに動けよ！ 全員散開、この地域を征圧する！！","……Judy Move as the captain directs! All troops spread out and conquer this area!!!!!!!!!!!!!!!!!!!!!!!!!!!!","……Judy ¡Muévanse como su capitán ha instruido! ¡Despliéguense todos, conquisten esta zona!"
+"joseishikan (talking)","……ジュディ隊長の指示通りに動けよ！ 全員散開、この地域を征圧する！！","……Judy Move as the captain directs! All troops spread out and conquer this area!!","……Judy ¡Muévanse como su capitán ha instruido! ¡¡Despliéguense todos, conquisten esta zona!!"
 "__system__??","}","",""
 "__system__??","{☆イハビ占領 > 1:","",""
 "__system__??","{RND = 1:","",""
-"uimiionnaheishi (talking)","……さあ、カーニバルの始まりよ！ ＧＯＧＯＧＯＧＯＧＯ、ハリアップ！ ノロマは片っ端からケリ入れるからね！","…… Come on, it's Hajime Mariyoko at the Carnival! GOGOGOGOGO! Gogo gogogo! I'm gonna kick your ass!","…… ¡Vamos, es Hajime Mariyo en la feria! ¡GOGOGOGO! ¡Gogo gogogo! ¡Os daré una patada en el culo a cada uno de vosotros!"
+"uimiionnaheishi (talking)","……さあ、カーニバルの始まりよ！ ＧＯＧＯＧＯＧＯＧＯ、ハリアップ！ ノロマは片っ端からケリ入れるからね！","……Now, the beginning of the carnival! GOGOGOGOGO, it's getting stronger! You can just get it all out of your way!","……Ahora, el comienzo del carnaval! GOGOGOGOGO, ¡se está volviendo más fuerte! ¡Puedes sacarlo todo de tu camino!"
 "__system__??","}","",""
 "__system__??","{RND = 2:","",""
 "uimiionnaheishi (talking)","……ここでイハビーラに恩を売れば 夏はアロハでバカンス確実よ！ 気合い入れてかかりなさい！！！","…… If you sell your debt to Ehavilla here, you'll be on vacation in Aloha this summer for sure! Get fired up!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!","…… ¡Si vendes tu deuda a Ehavilla aquí, estarás de vacaciones en Aloha todo el verano! Hay que estar a la altura de las circunstancias."
@@ -52,15 +52,15 @@ A partir de ahora."
 一般人は絶対に家から外に出るな！ この警告を無視した場合、 我々は諸君らの安全を保証しない！
 そして奉仕青年団！ 我々は数時間後、諸君らに対して 作戦行動を開始する！
 死にたくなければ逃げるか、 我々の捕虜となるか、 さもなくば死力を尽くして戦え！
-以上！！","and the surrounding area will become a training ground for live-fire drills against a hypothetical enemy, the SERVICE YOUTH!
-Civilians are strictly forbidden to leave their homes! If you ignore this warning, we cannot guarantee your safety!
-And the Youth Service Corps! In a few hours, we will launch an operation against you, Hajime!
-Escape to your deaths, or be our prisoners, or fight to the death!
-That is all!","y sus alrededores se convertirán en un campo de entrenamiento en el que se realizarán simulacros con fuego real contra el Cuerpo Juvenil de Servicio como hipotético enemigo.
- ¡Los civiles no deben salir nunca de sus casas! Si ignora esta advertencia, no podemos garantizar su seguridad.
-Y el Cuerpo de Servicio Juvenil. ¡Lanzamos una operación contra ti en unas horas, Hajime!
-Si no desean morir, huyan, conviértanse en nuestros prisioneros o luchen hasta la muerte.
- ¡Eso es todo!"
+以上！！","The surrounding area will become a training ground where practical training will be held, where service youth groups are considered virtual enemies!
+General people should never go outside the house! If you ignore this warning, we will not guarantee your safety!
+And the service youth group! We will begin our operation on you guys in a few hours!
+If you don't want to die, run away, become our prisoner, or fight with all your might!
+That's it!!","¡El área circundante se convertirá en un campo de entrenamiento donde se llevará a cabo un entrenamiento práctico, donde los grupos juveniles de servicio se consideran enemigos virtuales!
+¡La gente general nunca debe salir de la casa! Si ignora esta advertencia, ¡no garantizaremos su seguridad!
+¡Y el grupo de jóvenes de servicio! ¡Comenzaremos nuestra operación con ustedes en unas horas!
+¡Si no quieres morir, huir, convertirte en nuestro prisionero o pelear con todas tus fuerzas!
+¡¡Eso es todo!!"
 "__system__??","}","",""
 "__system__??","{☆イハビ占領 > 0:","",""
 "__system__??","{RND = 1:","",""

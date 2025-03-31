@@ -181,9 +181,9 @@ Y consigue un buen artesano japonés.
 "Momoyama Linda (talking)","ハイネ。","Haine.","Haine."
 "Hasekura Haine (talking)","はっ――","Ha--","¡Ja!"
 "narrator","ハイネはリンダに頭を下げると、 後ろにいる部下に指示を出し始めた。
-それと同時に、和樹の後ろの事務員も 手続きを開始する。","Haine bowed to Linda and instructed his subordinates behind him to Hajime.
-At the same time, the clerk behind Kazuki also opens the procedure and Hajime.","Haine se inclinó ante Linda y dio instrucciones a sus subordinados detrás de él para que Hajime.
-Al mismo tiempo, el empleado detrás de Kazuki también abre el procedimiento y Hajime."
+それと同時に、和樹の後ろの事務員も 手続きを開始する。","Haine bowed her head to Linda and began to give instructions to her subordinates behind her.
+At the same time, the clerk behind Kazuki will also begin the process.","Haine inclinó la cabeza ante Linda y comenzó a dar instrucciones a sus subordinados detrás de ella.
+Al mismo tiempo, el empleado detrás de Kazuki también comenzará el proceso."
 "Momoyama Linda (talking)","あいかわらず、メガネ娘 ばっかりでちゅわ。","As usual, there are always girls with glasses.","Como siempre, siempre hay chicas con gafas."
 "Mizuumi Kazuki (talking)","だってー。 好きなんですもん、眼鏡っ娘ー。","Because I like her. I like girls with glasses.","Porque sí. Me gusta ella, la chica de las gafas."
 "Momoyama Linda (talking)","変態さんでちゅ。","You are a pervert.","Eres un pervertido."
@@ -978,7 +978,7 @@ Entonces, creo que sería mejor dejar que el torneo se desarrolle sobre la base 
 "__system__??","{B地域 = 1:","",""
 "__system__??","}","",""
 "narrator","第","ordinal","ordinal"
-"narrator","試合を開始します。","Open the game Hajime.","Abre el partido Hajime."
+"narrator","試合を開始します。","The match will begin.","El partido comenzará."
 "__system__??","{D18 = 1:","",""
 "Sasaki Kanoko (talking)","は~い、行きますよ~。","Yes~ Yes, I'm coming!","Sí, sí, ya voy."
 "__system__??","}","",""
@@ -1470,7 +1470,7 @@ Akuji,…… ¡No, Yamamoto! Ahora, saca al Cuerpo de Servicio de la Juventud de
 "narrator","悪司がたこ焼きをたべていると…","Akuji eating takoyaki…","Akuji comiendo takoyaki…"
 "__system__??","{RND \ 0:","",""
 "Shimamoto Jun (talking)","若。 桃山が動き出しました。","Young. Momoyama is on the move.","Joven. Momoyama está en movimiento."
-"Yamamoto Akuji (talking)","おう、どーだ？ 何を始めた？","Hey, how's it going? What's your Hajime?","Hola, ¿cómo va todo? ¿Cuál es tu Hajime?"
+"Yamamoto Akuji (talking)","おう、どーだ？ 何を始めた？","Oh, what is it? What did you start?","Oh, ¿qué es? ¿Qué empezaste?"
 "Shimamoto Jun (talking)","ニホン全国に散らばる生え抜きの猛者を 傭兵として雇うようです。","It seems that they are hiring the best and the brightest from all over Japan as mercenaries.","Parece que están contratando a los mercenarios más cualificados y experimentados repartidos por todo el país de NIHON como mercenarios."
 "Yamamoto Akuji (talking)","ううーん…我のとこを守る為に 傭兵まで雇う気になったのか…","Hmmm… you're even willing to hire mercenaries to protect my place…","Hmmm… incluso estás dispuesto a contratar mercenarios para proteger mi casa…"
 "Shimamoto Jun (talking)","これは少し、こちらに厄介な事に なりそうですね。

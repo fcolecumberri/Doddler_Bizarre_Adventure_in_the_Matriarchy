@@ -121,7 +121,9 @@ I'm not going to keep it a secret, and I think that this kind of thing should be
 No lo voy a ocultar, y creo que estas cosas deben comunicarse al jefe de la organización."
 "Yamamoto Akuji (talking)","なんのこっちゃ。 うちの公費を使い込みでもしたか？","What is this? Have you been using our public funds?","¿Qué demonios es esto? ¿Ha utilizado nuestros fondos públicos?"
 "Tsukigase Nene (talking)","まさか……
- ……私、少し以前から 純さんと交際し始めたの。","No way………… I've been dating Jun and Hajime for a while now.","De ninguna manera………… Llevo un tiempo saliendo con Jun y Hajime."
+……私、少し以前から 純さんと交際し始めたの。","No way……
+……I've been dating Jun a while ago.","De ninguna manera……
+……He estado saliendo con junio hace un tiempo."
 "Yamamoto Akuji (talking)","純さん？　誰だソレ……
  …………って、まさか島本か！？ あの島本純かあぁぁぁぁぁっ！！？","Jun?　Who's that ……
 Don't tell me………… is that Shimamoto! That Shimamoto Jun?","¿…?　¿Quién es ese ……?
@@ -463,7 +465,7 @@ Si ha sido castigada de alguna manera, probablemente no tenga sentido decir nada
 "Yamamoto Akuji (talking)","おいおい、言うことはそんだけか？ 本気でドライな奴だな、おめー。","Oh, come on, is that all you have to say? You're a real dry guy, you know that?","Oh, vamos, ¿es todo lo que tienes que decir? Eres un tipo muy seco, ¿lo sabías?"
 "Tsukigase Nene (talking)","……？ 私に何を期待してるのかしら。","……? I don't know what they expect me to do.","……? ¿Qué esperan que haga?"
 "Yamamoto Akuji (talking)","いや、もっと悔しがるとか、 もっと取り乱すとかよ。","No, more frustrated, more distraught.","No, más frustrado, más angustiado."
-"Tsukigase Nene (talking)","何もできない捕虜の身で 取り乱しても始まらないもの。 これ以上何が言えるのかしら？","You can't do anything as a prisoner of war, and you don't have to be distraught. What more can I say?","No hay Hajime que se angustie como un prisionero de guerra que no puede hacer nada. ¿Qué más puedo decir?"
+"Tsukigase Nene (talking)","何もできない捕虜の身で 取り乱しても始まらないもの。 これ以上何が言えるのかしら？","Even if you are a prisoner of war that can't do anything, you can't start to get into it. I wonder what more can you say?","Incluso si eres un prisionero de guerra que no puede hacer nada, no puedes comenzar a entrar en ella. Me pregunto qué más puedes decir."
 "Yamamoto Akuji (talking)","……なるへそ。","…… navel.","…… na na na na na na na na na na na na na na na na na na na na na na na na na na na na."
 "Yamamoto Akuji (talking)","よお、激マブねーちゃん。","Hey there, you little mavens.","Yo, fierce mabu nee-chan."
 "Tsukigase Nene (talking)","………………
@@ -485,7 +487,7 @@ Si ha sido castigada de alguna manera, probablemente no tenga sentido decir nada
 "Yamamoto Akuji (talking)","しかし、抵抗も何もせずに 黙ってついてくるかよ、おめー。","But you won't follow me without resistance or anything, will you?","Pero no te resistas ni hagas nada, sólo cállate y sígueme, amigo."
 "Tsukigase Nene (talking)","そう？ 諦めているだけなのだけれど。","Really? I'm just giving up.","¿Sí? Me rindo."
 "Yamamoto Akuji (talking)","ま、何にせよ抵抗ナシってのは 楽でいいけどな。","Well, whatever it is, it's nice to have no resistance.","Bueno, sea lo que sea, es agradable y fácil no tener resistencia."
-"narrator","──などと悪司が言う側から、 寧々は着ている衣を脱ぎ始めた。","From Akuji's side, Nene took off her robe and turned to Hajime.","Del lado de Akuji, Nene se quitó la bata y se dirigió a Hajime."
+"narrator","──などと悪司が言う側から、 寧々は着ている衣を脱ぎ始めた。","──From what Akuji said, Nene began to take off the clothes he was wearing.","──Por lo que dijo Akuji, Nene comenzó a quitarse la ropa que llevaba puesto."
 "Yamamoto Akuji (talking)","……おいおいおい。 そこまでサービスしてくれんのか？","…… Hey, hey, hey. You're going to serve me that well?","…… Hey, hey, hey. ¿Tan bien nos va a servir?"
 "Tsukigase Nene (talking)","サービスも何も……
 脱がない時は、どうせ無理にでも 脱がせるのでしょう？","No service, no nothing……
@@ -553,9 +555,9 @@ Dame un respiro…………"
 " (talking)","………………
  ……すー……すー……","…………………… soooo…… sooo ……","…………………… soo…… soo……"
 "Yamamoto Akuji (talking)","ね、寝始めやがった…
-ったく、 何とまあ図太い捕虜だ……","Hey, he's sleeping with Hajime…
-Damn, what a brazen captive ……","Oye, Hajime dormilón…
-Jesús, qué descarada cautiva……"
+ったく、 何とまあ図太い捕虜だ……","Hey, I've started to sleep…
+Oh, what a thick prisoner of war……","Oye, he comenzado a dormir…
+Oh, qué espeso prisionero de guerra……"
 "Yamamoto Akuji (talking)","よし、ちょっと付いてこいや。","Okay, just follow me for a minute.","Vale, sígueme un momento."
 " (talking)","あ……するのね？","Oh, you do ……, don't you?","Oh, lo haces ……, ¿verdad?"
 "Yamamoto Akuji (talking)","……嬉しそうに言うなぁ。 実はまたバカにしてるとか、か？","…… You sound so happy about it. Are you actually making fun of me again, or what?","…… Suenas feliz por ello. ¿Te estás burlando de mí otra vez, o qué?"
@@ -695,7 +697,7 @@ The guy who was in charge of torture said, “You're not so tough. He said, “Y
 El tipo que estaba a cargo de la tortura dijo. No eres un tonto, ¿lo sabes?"
 " (talking)","体質的に、 薬とか効きづらいのよ、昔から。","My constitution has always been difficult to respond to medication.","Físicamente, siempre lo he pasado mal con las drogas."
 " (talking)","お得意のオトボケか？","Is this your specialty, Otoboke?","¿Es su especialidad?"
-" (talking)","こんな事で嘘をついてみても 始まらないわよ。","You won't get Hajime for trying to lie about this.","No conseguirás Hajime por tratar de mentir sobre esto."
+" (talking)","こんな事で嘘をついてみても 始まらないわよ。","It won't start even if I try to lie about something like this.","No comenzará incluso si trato de mentir sobre algo como esto."
 " (talking)","俺が聞いた話じゃあ、 薬が効かないように訓練する手も あるんだそうだな？
 ま、どんな種類の人間に そんな訓練が必要なのかは 見当もつかねぇが。","From what I've heard, there's a way to train them so that the drugs don't work?
 Well, I can't Kentou what kind of people need that kind of training.","Por lo que he oído, ¿hay formas de entrenar a la gente para que las drogas no funcionen?
@@ -1071,36 +1073,36 @@ Soy el único que puede apoyarte ahora……"
 Then, embracing her small body, she put her own lips on Yume's lips.","Nene tomó a Yume por los hombros y la invitó a entrar en la habitación.
 Luego abrazó el pequeño cuerpo y puso sus propios labios sobre los de Yume."
 "cg narrator","──由女は、陽子がいなくなったその日から、 寧々の私室で寝泊まりし始めていた。
- 「…今、一人でいるのは辛いでしょう？ 　だから由女、私の部屋へいらっしゃいな…」
+「…今、一人でいるのは辛いでしょう？ 　だから由女、私の部屋へいらっしゃいな…」
 そう言った寧々の厚意に、由女はすがった。
 由女にしてみれば、ただ、 大切な人が自分の側に帰ってこない寂しさを、 誰かに慰めて欲しかっただけだ。
- ──初め、二人は一つのベッドの中で 抱き合って眠りについた。
+──初め、二人は一つのベッドの中で 抱き合って眠りについた。
 それはただ、安らぎを求めて── 他の誰かの温もりを求めての事である。
 少なくとも、由女にとってはそうだった。
 だが、抱擁はやがてキスの真似事に変わり、 ついに昨夜は躰を重ねるに至った。
 由女は、決してこれを求めた訳ではない。 だが、寧々を拒むこともしなかった。
- ──そして、今夜。
-由女は、自ら望んで 寧々の私室を訪れたのである──","─ ─ Yume has been sleeping in Nene's private room and Hajime since the day Youko disappeared.
-She said, “…It must be hard for you to be alone now, isn't it? 　So Yume, come to my room…”
-Yume was grateful for Nene's kindness.
-For Yume, she just wanted someone to comfort her for the loneliness of not having her loved one back by her side.
-In the beginning, they fell asleep in one bed, embracing each other.
-It was just a search for peace - a search for someone else's warmth.
-At least, for Yume, it was.
-However, the embrace eventually turned into a kiss, and last night they ended up laying their bodies on top of each other.
-Yume never asked for this. But he did not refuse Nene.
-And tonight.
-Yume visited Nene's private room voluntarily…","─ ─ Yume duerme en la habitación privada de Nene y Hajime desde el día en que Youko desapareció.
- 'Debe ser duro para ti estar solo ahora, ¿no? 　Así que Yume, ven a mi habitación…”
-Yume agradeció la amabilidad de Nene que lo dijo.
-Para Yume, sólo quería que alguien la consolara por la soledad de no tener a su amado a su lado.
-Al principio, se dormían en una cama, abrazados.
-Era sólo una búsqueda de la paz, del calor de los demás.
-Al menos, para Yume, lo era.
-Pero el abrazo pronto se convirtió en una imitación de beso, y anoche terminaron acostando sus cuerpos uno encima del otro.
-Yume nunca pidió esto. Sin embargo, no rechazó a Nene.
-Y esta noche.
-Yume visitó la habitación privada de Nene por su propia voluntad…"
+──そして、今夜。
+由女は、自ら望んで 寧々の私室を訪れたのである──","──Yume had begun sleeping in Nene's private room from the day Youko was gone.
+「…It's hard to be alone right now, isn't it? So Yume, come to my room…」
+Yume snuggled at Nene's kindness after saying that.
+From Yume's perspective, he simply wanted someone to comfort him in the loneliness that his loved ones didn't come back to him.
+──At first, the two of them hugged each other in one bed and fell asleep.
+It is simply seeking peace── the warmth of someone else.
+At least that was true for Yume.
+However, the embrace eventually turned to imitating a kiss, and finally, last night he was able to stack his bodies.
+Yume never wanted this. But he didn't even refuse Nene.
+──And tonight.
+Yume visited Nene's private room, hoping to do so──","──Yume había comenzado a dormir en la habitación privada de Nene desde el día en que Youko se fue.
+「…Es difícil estar solo ahora, ¿no? Entonces, vienes a mi habitación…」
+Yume se acurrucó ante la amabilidad de Nene después de decir eso.
+Desde la perspectiva de Yume, simplemente quería que alguien lo consolara con la soledad de que sus seres queridos no volvieron a él.
+──Al principio, los dos se abrazaron en una cama y se quedaron dormidos.
+Simplemente está buscando la paz── la calidez de otra persona.
+Al menos eso era cierto para Yume.
+Sin embargo, el abrazo finalmente se convirtió en imitar un beso, y finalmente, anoche pudo apilar sus cuerpos.
+Yume nunca quiso esto. Pero ni siquiera rechazó a Nene.
+──y esta noche.
+Yume visitó la habitación privada de Nene, con la esperanza de hacerlo──"
 "cg narrator","──それは、性の快楽がもたらす拷問だった。
 「う……あ、アッ……！ 　やっ、やああっ…………あ……！！」
 男性器を模した玩具に秘部を貫かれていた由女が、 一際高い声で喘ぎ始めた。
@@ -1166,7 +1168,7 @@ Yume visitó la habitación privada de Nene por su propia voluntad…"
 何もなくなれば、何も考えられない。
 由女が、寧々の部屋に来た理由。 ──寧々が教えてくれた、悦楽。
 今の辛さから逃げられる時間だけを、 由女は無意識に求めていたから──
-壊れるほどの絶頂でも、拒絶はしなかった。","--It was torture brought about by sexual pleasure.
+壊れるほどの絶頂でも、拒絶はしなかった。","──It was torture brought about by sexual pleasure.
 「Uh… Ah, ahh…! Ah, ahhhh… Ah…!!」
 Yume, whose private parts were penetrated by a toy shaped like a male organ, began to moan in a particularly high-pitched voice.
 「Ah, no more… Nene…! Ah… Ahh! Aaaahhh────!」
@@ -1177,7 +1179,7 @@ There was no escape.
 「Hiii…, hiu…! Ah…! Ah, ha…, ahh…, uuh…!」
 Yume has both a man's and a woman's slit. They connect with each other and react with pleasure.
 As her private parts are penetrated by the toy, Yume's thing hardens with the pleasure welling up from within.
--- Trembling, trying to release the semen inside of him.
+──Trembling, trying to release the semen inside of him.
 And as he continued to stimulate her feminine parts, the heightened pleasure spread throughout her body…
 Even without the touch of a single finger, eventually his manhood becomes unable to bear it.
 「Ah… hi… ahh!」
@@ -1196,7 +1198,7 @@ It was as if two hermaphrodites were violating each other.
 A fallen angel's union that transgresses taboo and seeks to go beyond the bounds of pleasure that humans can obtain.
 「No, no… Nene… no, no! Ugh, don't move me! …Ugh…!」
 As Nene shakes her hips, Yume's penis begins to ejaculate again.
---It looked as if semen was being forcibly expelled from inside my body.
+──It looked as if semen was being forcibly expelled from inside my body.
 「Even if you say no, Yume, you still have the energy to talk.」
 Nene laughs. She looks happy.
 「If you're a woman, there's no way you could be satisfied with this… I'll show you the pleasure that will leave you paralyzed…」
@@ -1231,7 +1233,7 @@ After that comes nothingness, emptiness.
 When there is nothing left, there is nothing to think about.
 The reason why Yume came to Nene's room. ──Nene taught her about pleasure.
 Yume was unconsciously seeking just some time to escape from the pain she was currently feeling.
-Even though it was a climax so intense it almost broke her, she didn't refuse.","--Fue una tortura provocada por el placer sexual.
+Even though it was a climax so intense it almost broke her, she didn't refuse.","──Fue una tortura provocada por el placer sexual.
 「¡Ah…ah,ah…! Yah, yaaahh… ¡Ah…! !」
 Yume, cuyas partes íntimas estaban siendo penetradas por un juguete modelado según los genitales masculinos, comenzó a gemir con una voz extremadamente aguda.
 「¡Ah, no más…Nene…! ¡Ah… ah! ¡Aaaahh────!」
@@ -1242,7 +1244,7 @@ No había escapatoria.
 「¡Eek…ahhh…! Ah…! Ka, ha… Ah, ah… ¡Uf…!」
 Yume tiene una raja tanto de hombre como de mujer. Se conectan entre sí y responden con placer.
 A medida que sus partes privadas son penetradas por el juguete, la cosa de Yume se endurece con el placer que brota desde adentro.
---Temblando, tratando de liberar el semen dentro de él.
+──Temblando, tratando de liberar el semen dentro de él.
 Y a medida que continúa estimulando sus partes femeninas, el placer incrementado se extiende por todo su cuerpo…
 Incluso sin el toque de un solo dedo, con el tiempo su hombría se vuelve incapaz de soportarlo.
 「Ah…hola…¡ahh! ………………」
@@ -1255,13 +1257,13 @@ El pegajoso fluido de amor que rezumaba de la raja de Yume seguía aumentando en
 Nene se ríe como si le pareciera divertido. La cara sádica de Yume mientras juega con ella con placer.
 「Todavía no, Yume… Sintámonos más, aún más…」
 Diciendo esto, Nene comenzó a mover sus caderas.
---El juguete que penetra la raja de Yume se mueve, produciendo el sonido pegajoso y blando del jugo del amor.
+──El juguete que penetra la raja de Yume se mueve, produciendo el sonido pegajoso y blando del jugo del amor.
 La base del juguete que penetraría el útero de Yume estaba fijada a los pantalones cortos de cuero que llevaba Nene.
 Era como si dos hermafroditas se violaran mutuamente.
 La unión de un ángel caído que transgrede el tabú y busca ir más allá de los límites del placer que los humanos pueden obtener.
 「No, no… Nene… ¡no, no! ¡Uf, no me muevas! …Puaj…!」
 Mientras Nene mueve sus caderas, el pene de Yume comienza a eyacular nuevamente.
---Parecía como si el semen estuviera siendo expulsado a la fuerza desde el interior de mi cuerpo.
+──Parecía como si el semen estuviera siendo expulsado a la fuerza desde el interior de mi cuerpo.
 「Incluso si dices que no, Yume, todavía tienes energía para hablar.」
 Nene se ríe. Parece que se están divirtiendo.
 「Si eres mujer no habrá forma de que quedes satisfecha con esto… Te mostraré el placer que te dejará paralizada…」
@@ -1270,13 +1272,13 @@ Diciendo esto, Nene agarra sus caderas aún más. Él continúa violando la raja
 「Jaja …」
 「Hola, yahaa… ¡aahhh…!」
 「Oye Yume…¿lo sabes? Al parecer, la eyaculación de un hombre ocurre cuando está aproximadamente un 80% tan excitado como el orgasmo de una mujer…」
-Mientras decía esto, Nene de repente disminuyó la velocidad de sus embestidas. --Esperando la reacción de Yume.
+Mientras decía esto, Nene de repente disminuyó la velocidad de sus embestidas. ──Esperando la reacción de Yume.
 「imagen……? Ah, ¿qué…?」
 「Si es así ahora… me pregunto ¿qué pasará con tu cosa endurecida cuando una mujer alcance su clímax?」
 「…………!」
 La cara de Yume se pone pálida. Al ver esto, Nene comenzó a reír alegremente.
 「Jejeje… Está bien, está bien… Nadie muere por placer sexual…」
---Y entonces Nene comienza a usar sus caderas vigorosamente nuevamente.
+──Y entonces Nene comienza a usar sus caderas vigorosamente nuevamente.
 「………¡Ahhhhhhhhhhh! Oye, espera… Yo… ¡aaaahhh────! !」
 「¿Se siente bien…? Yum…」
 「¡Yaaah, yaaahh…! Da miedo, Nene… da miedo… Me voy a romper… Me voy a romper…」
@@ -1302,77 +1304,77 @@ Aunque fue un clímax tan intenso que casi la destrozó, ella no se negó."
 由女の、もの。
 まだ精を残しているのか、 先端から僅かに白濁が溢れていた。
 それは、悦楽に浸って目を閉じた主とは関係なく、 狂ったように大きな痙攣を繰り返している。
- 「凄い…… 　まるで、別の生き物みたい……」
+「凄い…… 　まるで、別の生き物みたい……」
 寧々は、びくんびくんと動き続けるそれに そっと唇を寄せていく。
- 「…………んう、っ…………」
+「…………んう、っ…………」
 張り詰めた先端に唇が触れた瞬間、 由女の背筋がぴくっと跳ねた。
- 「……そう、ね。 　ずっと、触れずにいたのだから…… 　満たされていないのね、こちらは……」
+「……そう、ね。 　ずっと、触れずにいたのだから…… 　満たされていないのね、こちらは……」
 寧々は言って、 玩具のついた革のショーツを脱ぎ捨てる。
- ──嗜虐の悦楽に浸っていた寧々の秘裂は、 既に充分すぎるほどの潤みを内に抱えていた。
- 「後戯と言うのも何だけれど…… 　もう少し楽しませてくれるのかしら？　由女…」
+──嗜虐の悦楽に浸っていた寧々の秘裂は、 既に充分すぎるほどの潤みを内に抱えていた。
+「後戯と言うのも何だけれど…… 　もう少し楽しませてくれるのかしら？　由女…」
 寧々は、縄を解いて由女を寝かせると、 そそり立つものを跨いで腰を下ろしていく。
 熱く湿った寧々の秘裂が、 由女のものを優しく包み、呑み込んでいく。
 熱く張り詰め、乾いていたものに 寧々の潤みが染み込んで、柔らかく癒していく──
- 「…………っ、あ…………」
+「…………っ、あ…………」
 女の躰の優しさに包まれる── その安堵に、由女が重い瞼を開いた。
 それは、同じ悦楽のようでありながら、 硬いものに犯される感覚とはまるで違っていた。
- 「ねえ、由女……動いて。 　動けるなら、お願い…………」
- 「あ……寧々さ…………」
+「ねえ、由女……動いて。 　動けるなら、お願い…………」
+「あ……寧々さ…………」
 女として、誰かを受け止めるのは もう無理だった。できそうになかった。
 けれど、男として寧々に応える事は、 まだ、できそうな気がした。
- 「………………」
+「………………」
 由女は、無言で頷いた。 言われるままに腰を揺すり始める。
-再度悦楽を貪って、 自分の空虚を満たすために──","”…… and ……….”
-While pulling out a toy from Yume, Nene suddenly realizes.
-The Nene suddenly realized that it belonged to Yume.
-The Nene suddenly realized that the tip was slightly overflowing with Haku.
-
- 'Great ……, it's like a different creature …….'
-The Nene softly put her lips to the one that continues to move jerkily.
- “…………, ugh,………….”
-The first thing you need to do is to make sure that you have a good understanding of what you are doing and how to do it.
-I've been trying to touch you for a long time. 　I've been not touching you for a long time,……, so you're not satisfied,…….”
-Nene said, pulling off her leather shorts with toys on them.
-The secret crack of Nene, which had been immersed in the pleasure of the torture, already had more than enough moisture inside it.
-I don't know if I'd call it post-playing, but…… would you let me enjoy it a little more?　Yume…”
-Nene undoes the rope and lays Yume down, then lowers her hips over the slender thing.
-The hot and moist secret crack of Nene gently wraps and swallows Yume's. The hot, taut, and dry secret crack of Nene gently wraps and swallows Yume's.
-The hot and dry thing is soaked by Nene's moisture, and heals it softly…
- “…………, ah …………”
-Wrapped in the gentleness of the woman's body - Yume opened her heavy eyelids to that relief.
-
-Hey, Yume…… move. 　If you can move, please ………….”
-A……NeneSa…………
-The first thing to do is to make sure that you have a good time with your family and friends. The most important thing is that you should be able to see the difference between the two.
-The most important thing to remember is that you can't just take a look at your own personal personal information.
- “………………”
-Yume nodded silently. I rocked my hips and Hajime as he told me to.
-To fill the emptiness in herself, to devour the pleasure again…","”…… y ………”
-Mientras le quita el juguete a Yume, Nene se da cuenta de repente.
-Yume's.
-Puede que aún le quede algo de esperma, y una pequeña cantidad de barro Haku rebosaba de la punta.
-El Haku sigue desbordado por la punta, repitiendo grandes espasmos como un loco, sin importarle al maestro que cerró los ojos de placer.
- 'Genial…… es como una criatura diferente …….'
-La Nene pone suavemente sus labios en ella que sigue moviéndose espasmódicamente.
- '………… nnnn, hmmm,…………'
-Lo primero que hay que hacer es asegurarse de que se entiende bien lo que se hace y cómo se hace.
- '……Sí, claro. 　Todos estos años, no me has tocado, así que…… no has quedado satisfecho, aquí …….”
-Nene dice y se quita los pantalones cortos de cuero con juguetes.
-La hendidura secreta del Nene, que se había sumergido en los placeres de lo insípido, ya tenía más que suficiente humedad en su interior.
- 'No sé si puedo llamarlo post-juego, pero…… ¿me dejas disfrutar un poco más?　Yume…”
-Nene deshace la cuerda y tumba a Yume, luego se sienta sobre la esbelta cosa.
-La caliente y húmeda hendidura secreta de Nene envuelve suavemente y se traga la de Yume.
-Lo caliente, tenso y seco es absorbido por la humedad de Nene, suavizándolo y curándolo…
- “…………, ah ……………”
-Envuelta en la dulzura del cuerpo de la mujer── ante ese alivio, Yume abrió sus pesados párpados.
-
- 'Oye, Yume…… muévete. 　Si puedes moverte, por favor ………….”
- 'Oh ……Nene Sa………….'
-Como mujer, ya no era posible aceptar a alguien. No iba a ser capaz de hacerlo.
-Lo más importante es recordar que no se puede echar un vistazo a Internet y decir: 'No voy a hacer esto, no voy a hacer esto, no voy a hacer esto'.
- “………………”
-Yume asintió en silencio. Sacudí las caderas y Hajime como me dijo.
-Para volver a devorar el placer y llenar su propio vacío…"
+再度悦楽を貪って、 自分の空虚を満たすために──","「……Ara………」
+As he pulls out the toy from Yume, Nene suddenly realizes.
+Yume's thing.
+Perhaps it was still still semen, but there was a slight cloudy white overflowing from the tip.
+It is a crazy, huge spasm, regardless of the Lord, who has closed his eyes in pleasure.
+「Amazing…… 　It looks like a different creature……」
+Nene gently leaned back towards the motion of her.
+「…………Nu、~…………」
+The moment her lips touched the tense tip, Yume's spine leapt.
+「……Yes. I've been without touching it for a long time…… 　I'm not satisfied, this one……」
+Nene said, stripping off her toy-equipped leather shorts.
+--Nene, who was immersed in the pleasure of sadism, already had enough moisture inside.
+「What's the term “afterplay“……? 　I wonder if it will make you enjoy it a little more? Yume…」
+Nene unravels the rope and puts Yume to bed, and straddles the thrilling thing and sits down.
+The hot, damp crack of Nene gently wraps and swallows Yume's.
+The moist soaks infiltrate the hot, tense, and dry things, softly and soothe them──
+「…………~、A…………」
+She was enveloped in the kindness of a woman's body -- and in the relief, Yume opened her heavy eyelids.
+It was like the same pleasure, but it was completely different from being raped by something hard.
+「Hey, Yume…… move. If you can move, please…………」
+「Ah…… Nene…………」
+As a woman, I couldn't accept anyone anymore. I didn't think I could do it.
+However, I still felt that I could still respond to Nene as a man.
+「………………」
+Yume nodded silently. He starts shaking his hips as he is told.
+To replenish pleasure and fill your own emptiness──","「……Ara………」
+Mientras saca el juguete de Yume, Nene de repente se da cuenta.
+Lo de Yume.
+Tal vez todavía era semen, pero había un ligero blanco nublado que se desborda de la punta.
+Es un espasmo loco y enorme, independientemente del Señor, que ha cerrado los ojos de placer.
+「Increíble…… 　parece una criatura diferente……」
+Nene suavemente se recostó hacia el movimiento de ella.
+「…………Nu、~…………」
+En el momento en que sus labios tocaron la punta tensa, la columna de Yume saltó.
+「……Sí. He estado sin tocarlo durante mucho tiempo…… 　no estoy satisfecho, este……」
+Dijo Nene, quitándose sus pantalones cortos de cuero equipados con juguete.
+-Nene, que estaba inmerso en el placer del sadismo, ya tenía suficiente humedad en el interior.
+「¿Cuál es el término “después de jugar“……? 　Me pregunto si te hará disfrutarlo un poco más. Yume…」
+NeNe desentraña la cuerda y pone a Yume a la cama, y ​​se encuentra a horcajadas en la emocionante cosa y se sienta.
+La grieta caliente y húmeda de Nene se envuelve suavemente y se traga a Yume's.
+Los empapados húmedos se infiltran en las cosas calientes, tensas y secas, suavemente y calmándalas──
+「…………~、A…………」
+Estaba envuelta en la amabilidad del cuerpo de una mujer, y en el alivio, Yume abrió sus párpados pesados.
+Era como el mismo placer, pero era completamente diferente de ser violado por algo difícil.
+「Oye, yume…… muévete. Si puede moverse, por favor…………」
+「Ah…… Nene…………」
+Como mujer, ya no podía aceptar a nadie. No pensé que pudiera hacerlo.
+Sin embargo, todavía sentía que aún podía responder a Nene como hombre.
+「………………」
+Yume asintió en silencio. Comienza a sacudir las caderas cuando se le dice.
+Para reponer el placer y llenar su propio vacío──"
 "__system__??","{CG_MODE = 1:","",""
 "__system__??","}","",""
 "narrator","──奉仕青年団・団員詰所。 その中を、月瀬寧々がうろうろと歩き回っていた。","The Youth Service Corps, the corps member's room. Inside, Tsukigase Nene was wandering around.","─ ─ Service Youth Corps, sala de personal de los miembros del cuerpo. En el interior, Tsukigase Nene estaba deambulando."
@@ -1633,19 +1635,19 @@ Siempre sonreía felizmente, diciendo que se alegraba de que me necesitara……
 でも、彼女は頑張りすぎたのよ。 やがて男以上に働くようになって……
 臆病な男は、彼女を疑い始めたの。 いつか自分をも欺くのではないか、と。
 そして……男は、彼女を罠にかけた。 謀殺しようとしたのよ。
-彼女も悲惨よね、 好いた男が自分を葬ろうとするなんて 夢にも思わなかったでしょうし。","She wanted to help the man…And then, just like the man, she started deceiving people.
-She helped him with his work and Hajime to shoulder the pain he was feeling.
-She felt pleasure in being able to bear the same suffering as him……
-But she worked too hard. Eventually, she started working more than the man and ……
-The cowardly man doubted her and Hajime her. He wondered if one day she would deceive him too.
-And the…… man set a trap for her. He tried to Satsu her.
-It's tragic for her too, she never dreamed that the man she loved would try to bury her.","Ella quería ayudar al hombre, aparentemente…y luego comenzó a engañar a la gente, al igual que el hombre.
-Ella le ayudó con su trabajo y Hajime a cargar con el dolor que sentía.
-Se alegró de poder soportar el mismo sufrimiento que él……
-Pero trabajó demasiado. Con el tiempo, empezó a trabajar más que el hombre ……
-El cobarde dudó de ella y la Hajime. Se preguntó si algún día ella también le engañaría.
-Y el hombre de…… le tendió una trampa. Intentó Satsu a ella.
-También es trágico para ella, nunca soñó que el hombre que amaba intentaría enterrarla."
+彼女も悲惨よね、 好いた男が自分を葬ろうとするなんて 夢にも思わなかったでしょうし。","Apparently she wanted to help the man. …At some point, he began to deceive people like the guys.
+He began helping him with his job in order to take over the pain he was feeling.
+I was delighted to be able to carry the same pain as him……
+But she tried too hard. Eventually he began to work more than a man……
+The timid man began to doubt her. I wonder if one day I will deceive myself.
+And…… the man trapped her. He was trying to kill him.
+She's also miserable, you'd never dreamed that a man she liked would try to bury her.","Aparentemente ella quería ayudar al hombre. …En algún momento, comenzó a engañar a personas como los chicos.
+Comenzó a ayudarlo con su trabajo para hacerse cargo del dolor que estaba sintiendo.
+Estaba encantado de poder llevar el mismo dolor que él……
+Pero ella se esforzó demasiado. Finalmente comenzó a trabajar más que un hombre……
+El hombre tímido comenzó a dudar de ella. Me pregunto si algún día me engañaré.
+Y…… el hombre la atrapó. Estaba tratando de matarlo.
+También es miserable, nunca habías soñado que un hombre que le gustaba intentaría enterrarla."
 "Shimamoto Jun (talking)","………………","………………","………………"
 "Tsukigase Nene (talking)","ところがね、その彼女… 男が張り巡らせた罠に気付いたのよ。
 そして、男が首謀者と知らずに 罠を逆手に取って彼を謀殺して……
@@ -1914,170 +1916,170 @@ Bueno, te dejaré jugar conmigo hasta el fin de los tiempos."
 "narrator","千手は楽しそうに笑いながら、 寧々を閉じこめてある地下の一室へと向かった。","Senju laughed happily and headed for a room in the basement where Nene was locked up.","Senju se rió alegremente y se dirigió a una de las habitaciones del sótano donde estaba encerrada Nene."
 "cg narrator","「……やあ、寧々。調子はどう？」
 千手はにこやかに話しかけたが、 今の寧々に答えられる筈はなかった。
- ──もはや、それは調教と呼べるものではなかった。
+──もはや、それは調教と呼べるものではなかった。
 身じろぎはおろか、 まともな言葉一つ吐くことを許されない──拷問。
- 「うあ……か、かは……あ、うあ……」
+「うあ……か、かは……あ、うあ……」
 拘束具を震わせながら寧々が何か話そうとする。
- 「が、げほ……う、っぐ……」
+「が、げほ……う、っぐ……」
 しかし声にはならず、 球状の拘束具が噛まされた口からは 唾液の雫が垂れるのみだ。
- 「へへー、辛そうだね、寧々。 　でもまだやめないよ。気持ちよくなるまではね」
+「へへー、辛そうだね、寧々。 　でもまだやめないよ。気持ちよくなるまではね」
 出来る訳がないことを千手が強いる。 寧々も「無理だ」と言わんばかりに弱々しく首を振る。
- 「大丈夫だよ……寧々は真性のインランだから、 　痛いのも苦しいのもぜーんぶ気持ちよくなるって」
+「大丈夫だよ……寧々は真性のインランだから、 　痛いのも苦しいのもぜーんぶ気持ちよくなるって」
 言いつつ、千手の指が寧々の肌を這う。
- ──縛られて鬱血し、 色が変わり始めた部分ばかりを執拗に触る。
- 「ひぐ……っ、ううう……！！」
- 「あれ？　まだ痛いの？」
+──縛られて鬱血し、 色が変わり始めた部分ばかりを執拗に触る。
+「ひぐ……っ、ううう……！！」
+「あれ？　まだ痛いの？」
 千手が聞くと、寧々はこくりと頷いた。
 寧々は、目隠しの下で泣いているのだろうか、 拘束具から漏れる息が哀しげに震えている。
- 「しょーがないなあ。 　じゃあ、気持ちよくなるおまじないしてあげる」
+「しょーがないなあ。 　じゃあ、気持ちよくなるおまじないしてあげる」
 言って、千手はポケットから 軟膏薬の小さなチューブを取り出した。
 そのチューブを捻って指先に取ると、 揮発性の奇妙なにおいが微かに漂い始める。
- 「クスクスクスクス…… 　さーて、隅の隅まで塗りたくってあげるからね」
+「クスクスクスクス…… 　さーて、隅の隅まで塗りたくってあげるからね」
 千手は、軟膏──媚薬の乗った指を 寧々の秘裂に押しつける。
- 「…………っく…………！」
+「…………っく…………！」
 縛られて広げられたの脚では、 千手の手を拒むどころか 秘裂を隠すこともできない。
 押し広げられた寧々の秘裂を、肉の襞を、 子供の小さな指が這い回り、犯す──
- 「わー……すごいねー、寧々。 　ばっくり開いてひくひく動いてるよ？」
+「わー……すごいねー、寧々。 　ばっくり開いてひくひく動いてるよ？」
 秘裂を覗き込んでわざとらしく千手が言う。 寧々はただ耐えるしかない──
- 「あ……わわっ、指入れたら絡みついてきた。 　……ねー、寧々。 　寧々はココで何人の男くわえこんだの？」
+「あ……わわっ、指入れたら絡みついてきた。 　……ねー、寧々。 　寧々はココで何人の男くわえこんだの？」
 屈辱の言葉を浴びせながら、 千手はなおも指を動かし続けている。
- 「寧々は美人だもん、男がほっとかないでしょ。 　一人ってことはないなあ。 　五人？　十人？　それとも、もっと？」
+「寧々は美人だもん、男がほっとかないでしょ。 　一人ってことはないなあ。 　五人？　十人？　それとも、もっと？」
 そして、膣内に指を入れたまま、 媚薬でねとつく陰核のあたりを親指の腹で撫で回す。
- 「あう……うああ……！　あか、かっ……が……！」
+「あう……うああ……！　あか、かっ……が……！」
 寧々が苦痛とも悦楽ともつかない声を上げる。
- ──千手の指遣いは、断じて性技などではない。 こうすれば女の躰が最も反応する、いじれば面白い、 それ以外には何も考えていない。
+──千手の指遣いは、断じて性技などではない。 こうすれば女の躰が最も反応する、いじれば面白い、 それ以外には何も考えていない。
 だが、そう解っていても、 寧々の躰は少しずつ反応し始める。
- 　　［ちゅ……くちゅ、ず、ぐぷ……］
+　　［ちゅ……くちゅ、ず、ぐぷ……］
 突き入れ、捻り、揺さぶり、掻き回す── 千手の指の動きに合わせて、 寧々の秘裂が重い水音を立て始めていた。
- 「……クスクスクス。 　寧々の中が熱くなってきたよ。 　ちょっとずつ濡れてきてるし……」
- 「あ……あく、くは……う、かッ……」
- 「すごいね……ボクの指なんかで気持ちいいの？ 　吸い付いてきてるよ。 　クスクス、クスクスクス……」
- 「ううっ…………うううっ…………！」
- 「あ、乳首も立ってる。 　ねーねー、触って欲しいの？　そうだよね？」
- 「んぐ……！　ううっ、うう…………！」
- 「一生懸命首振ったって、格好だけでしょ？ 　縛られて、ボクみたいな子供にいじり回されて、 　それで感じちゃってるんでしょ？」
- 「ああ……うああああ……あああ…………」
- 「アハハ……口がモゴモゴ動いてるねー。 　涎がぼたぼた落ちて止まらなくなってる。 　ねーねー、そんなに気持ちいい？」
- 「…………うう、うううッ…………」
- 「……インラン」
+「……クスクスクス。 　寧々の中が熱くなってきたよ。 　ちょっとずつ濡れてきてるし……」
+「あ……あく、くは……う、かッ……」
+「すごいね……ボクの指なんかで気持ちいいの？ 　吸い付いてきてるよ。 　クスクス、クスクスクス……」
+「ううっ…………うううっ…………！」
+「あ、乳首も立ってる。 　ねーねー、触って欲しいの？　そうだよね？」
+「んぐ……！　ううっ、うう…………！」
+「一生懸命首振ったって、格好だけでしょ？ 　縛られて、ボクみたいな子供にいじり回されて、 　それで感じちゃってるんでしょ？」
+「ああ……うああああ……あああ…………」
+「アハハ……口がモゴモゴ動いてるねー。 　涎がぼたぼた落ちて止まらなくなってる。 　ねーねー、そんなに気持ちいい？」
+「…………うう、うううッ…………」
+「……インラン」
 ぽつりと呟いたのと同時に、千手は いつの間にか手にしていた極太のディルドーを 淫水でぬめりつくした秘裂に突き立てる──
- 　　［……ずっ……］
- 「…………ッう────！！ 　っう、んぐ──────ッ！　う………！！」
+　　［……ずっ……］
+「…………ッう────！！ 　っう、んぐ──────ッ！　う………！！」
 ディルドーを突き立てた瞬間、寧々の躰が暴れた。 背を逸らしガクガクと首が揺れ、躰が震える。
- 「そーそー……インランはインランらしく、 　躰の痛さなんか気にせずに、 　そうやって突っ込まれてヨガってりゃいいんだよ」
- 「うう……うあう……うか、あか……ああ……！」
- 「ほらほら、イキたいんでしょ？　イクんでしょ？ 　ズボズボのめっちゃくちゃにしてあげるからさー、 　ほら……遠慮すんなよ」
- 「うあ────！　はあっ、あ……っ────！」","”…… Hey, Nene. How are you?”
-Senju spoke to him smilingly, but there was no way Nene could answer him now.
-The Senju was no longer what you would call a training session.
-He was not allowed to say a single word, let alone move…torture.
- “Ua…… ka ka…… aa…… aa……”
-Shaking the restraints, Nene tries to say something.
-Gah, gebo…… ugg…….”
-The only thing that happens is that a drop of saliva drips from the mouth where the spherical restraints have been chewed on.
-Hehe, it looks painful, Nene. 　But I won't stop yet. Until it feels good.”
-Senju forced her to do something she couldn't possibly do. Nene shakes her head weakly as if to say, “It's impossible.
-I'm sure you'll be fine……Nene is a true inlan, so pain and suffering will all feel good.”
-While saying this, Senju's fingers crawl on Nene's skin.
-The blood is congested from being tied up, and only the parts that have changed color and become Hajime are touched relentlessly.
- “Higu……, uu……!
- “Huh?　Does it still hurt?”
+「そーそー……インランはインランらしく、 　躰の痛さなんか気にせずに、 　そうやって突っ込まれてヨガってりゃいいんだよ」
+「うう……うあう……うか、あか……ああ……！」
+「ほらほら、イキたいんでしょ？　イクんでしょ？ 　ズボズボのめっちゃくちゃにしてあげるからさー、 　ほら……遠慮すんなよ」
+「うあ────！　はあっ、あ……っ────！」","「……Hello, Nene. How are you doing?」
+Senju spoke to me with a smile, but there was no way Nene could answer her now.
+──It was no longer something that could be called training.
+Not only are they tempted, but they are not allowed to utter a single decent word - torture.
+「Ua……ka、kaha……a、ua……」
+Nene tries to say something as he shakes his restraints.
+「Ga、geho……u、~gu……」
+However, it didn't make a sound, and only a drop of saliva drips from the mouth where the spherical restraint was bitten.
+「Hehe, it looks tough, Nene. But I'm not going to stop yet. Until it feels good」
+Senju forces him to have no way of doing it. Nene also shook her head weakly, as if to say, 「It's impossible.」
+「It's okay…… Nene is a true in-run, so it feels good both in pain and pain.」
+Senju's fingers crawled down Nene's skin.
+──I became congested after being tied up, and I relentlessly touched the parts that were beginning to change color.
+「Higu……~、uuu……！！」
+「Huh? Does it still hurt?」
 Senju asked, and Nene nodded.
-The breath leaking from the restraints is trembling sadly, as if Nene is crying under the blindfold.
-I can't help it,” she said. 　Then, I'll do a spell to make you feel better.
-Saying this, Senju took out a small tube of ointment from his pocket.
-Twist the tube and take it between your fingertips, and a strange, volatile smell wafts out, making you Hajime.
- 'C'mon, Senju, ……, I'm going to smear it all over your nooks and crannies.'
-Senju presses a finger covered with ointment-an aphrodisiac-agent against Nene's cleft.
- '…………kk…………!'
-With her legs bound and spread apart, she is unable to hide her secret cleft, let alone refuse Senju's hand.
-The child's tiny fingers crawl around and violate Nene's spread cleft, the folds of her flesh…
- “Wow ……, that's amazing, Nene. 　It's opening up and twitching, isn't it?”
-Senju said deliberately, peeking into her cleft. Nene can only endure…
- “Oh…… wow, I put my finger in there and it's all tangled up. 　……Ne, Nene. 　How many guys have Nene sucked off in here?”
-While she was humiliated, Senju was still moving her finger.
-Nene is so beautiful that no man would leave her alone. 　I don't think she's alone. 　Five?　Ten?　Or more?
-Then, with a finger in her vagina, she stroked her thumb around the aphrodisiac-tipped nucleus.
- “Aa…… uaaa……!　Aaaaahhhhh ……!”
-Nene screams in both pain and pleasure.
-The Senju's fingering is definitely not a sexual technique.
-But even though she knows that, Nene's body reacts little by little and makes her Hajime.
- 　　[Chuchu…… chuchu, zu, gupu……]
-Thrusting, twisting, rocking, and stirring - Nene's secret crack made heavy water sounds and Hajime to the movement of Senju's fingers.
- '……xcuse me. 　I'm getting hot inside Nene. 　I'm getting a little wetter and ……”
- “Oh…… awww, I'm getting so hot inside…… me.
- “Oh my god,……, does my finger feel good? 　I'm not sure what to do with it, but I'm sure it will work. 　Cough, cough, cough……”
- “Ugh………… ugh …………!
-Oh, my nipples are standing up too. 　Hey, hey, do you want me to touch them?　Right?”
- “Nng……!　Ugh, ugh …………!
-Shaking your head hard is just for show, right? 　You're tied up, and a kid like me is messing around with you, and that's what's making you cum, isn't it?”
- “Oh…… ah…… ah…… ah…………”
- “Hahaha…… your mouth is moving around. 　Drool is dripping down and it won't stop. 　Hey, hey, does it feel that good?”
- “…………Ugh, ugh…………”
- “…… inlan.”
-The actual “I'm not a fan of the way you do it, but I'm not a fan of the way you do it, either.
- 　　[……]
- “…………… ────! 　Ugh, ngg──────!　Uu………!
-The moment he thrust the dildo, Nene's body went berserk.
-
- “Uh…… uh…… ah……, ah…… ah……!”
- “Come on, come on, you want to cum, don't you?　I'm going to make you cum, aren't I? 　I'm going to make you cum so hard, come on,…… don't be shy.”
- “Oh, ────!　Ah, ah, ……, ────!","'…… Hola, Nene. ¿Cómo estás?”
-Senju le habló sonriendo, pero no hubo manera de que el actual Nene pudiera responder.
-El Senju ya no era lo que se podía llamar una sesión de entrenamiento.
-No se le permitía pronunciar una sola palabra decente, y mucho menos inmutarse: era una tortura.
- “Ua…… ka ka…… aa…… aa ……”
-Mientras se agita en sus ataduras, Nene intenta hablar.
- 'Gah, geeh…… ugh…….'
-Pero no se convierte en una voz, y sólo gotean gotas de saliva de la boca donde se han masticado las sujeciones esféricas.
- 'Hehe, parece doloroso, Nene. 　Pero no me detendré todavía. No hasta que se sienta bien”.
-Senju la obliga a hacer algo que no puede hacer. Nene también mueve la cabeza débilmente, como si dijera “es imposible”.
- 'Está bien, ……Nene es un verdadero inlan, así que el dolor y el sufrimiento se sentirán bien'.
-Mientras dice esto, los dedos de Senju se arrastran por la piel de Nene.
-Los dedos del Senju tocan implacablemente sólo las partes que han sido atadas, ensangrentadas, cambiadas de color y Hajime.
- '¡Higu……, uu……!
- ¿Qué?　¿Todavía te duele?”
-Cuando Senju preguntó, Nene asintió.
-El aliento que se escapa de las ataduras tiembla con tristeza, como si Nene llorara bajo la venda.
-No puedo evitarlo. 　Entonces, haré un hechizo para que te sientas mejor”.
-Al decir esto, Senju sacó un pequeño tubo de pomada de su bolsillo.
-Al girar el tubo y tomarlo entre las yemas de los dedos, sale un olor extraño y volátil y Hajime.
- 'Vamos, vamos ……, voy a untarlo por todos los rincones'.
-Senju presiona un dedo con ungüento -un afrodisíaco- contra la hendidura de Nene.
- '…………ck…………!'
-Con las piernas atadas y separadas, es incapaz de ocultar su hendidura, y mucho menos de rechazar la mano de Senju.
-Los diminutos dedos del niño se arrastran y follan los pliegues de carne en la hendidura abierta de Nene…
- “Wow ……, eso es increíble, Nene. 　Está abierto y se mueve, ¿no?”
-Senju dice deliberadamente, mirando a su hendidura. Nene sólo puede soportar…
- 'Oh…… wow, metí mi dedo y se movió.…… hey, Nene. 　¿Cuántos tipos ha chupado Nene aquí?”
-Mientras le lanza palabras de humillación, Senju sigue moviendo el dedo.
- 'Nene es tan hermosa, que ningún hombre la dejaría sola. 　No creo que esté sola. 　¿Cinco?　¿Diez?　¿O más?”
-Luego, con el dedo todavía dentro de la vagina, acaricia con el pulgar el núcleo afrodisíaco-pegajoso.
- '¡Aa…… uaaa……!　Aaaaah, kkk…… es ……!”
-Nene grita con una voz que no puede describirse como de dolor ni de placer.
-La digitación del Senju definitivamente no es una técnica sexual. El cuerpo de la mujer responderá mejor si haces esto, y si lo pellizcas, obtendrás una cara de Haku.
-Sin embargo, aunque lo entiende, el cuerpo de Nene reacciona poco a poco y Hajime.
- 　　[Chu…… chu, zu, gupu ……]
-Empujando, retorciéndose, meciéndose, arañando… al compás de los movimientos de los dedos de Senju, la grieta secreta de Nene emitía fuertes sonidos de agua y Hajime.
- '……xcuse me. 　Me estoy calentando por dentro Nene. 　Me estoy mojando un poco y ……”
- 'Oh…… aww, kuha…… ugh, kah …….'
- 'Vaya,…… ¿se siente bien mi dedo? 　Lo estoy chupando. 　Tose, tose, tose…….”
- “¡Ugh………… ugh …………!”
- 'Oh, mis pezones también están parados. 　Oye, oye, ¿quieres que los toque?　¿Verdad?”
- '¡Nng ……!　¡Ugh, ugh …………!
-Sacudir la cabeza con fuerza es sólo para mostrar, ¿verdad? 　Estás atado, siendo manoseado por un niño como yo, y eso es lo que te hace sentir, ¿no?”
- “Oh…… ohhhh…… ohhhh …………”
- 'Hahaha…… tu boca se mueve. 　Las babas gotean y no puedes parar. 　Oye, oye, ¿se siente tan bien?”
- '………… ugh, ugh …………'
- '…… inlan.'
-Al mismo tiempo que murmuraba unas palabras, Senju introdujo el consolador más grueso que había tenido en la mano en la hendidura resbaladiza por el limo…
- 　　[……]
- “…………… ────! 　¡Ugh, ngh ──────!　Uu………!!!”
-En el momento en que empujó el consolador, el cuerpo de Nene se volvió loco. El cuerpo se agitó y sacudió el cuello, y el cuerpo tembló.
-El primer dato que nos viene a la mente es el hecho de que el consolador no es sólo un consolador, sino que también es un consolador que se utiliza para hacer temblar el cuerpo.
- “¡Uh…… uh……, ah……, ah……, ah……!”
- “Vamos, vamos, quieres correrte, ¿no?　Te vas a correr, ¿verdad? 　Voy a hacer que te corras muy fuerte, vamos, ……, no seas tímida”.
- “¡Oh, ────!　Ah, ah, ……, ────!”"
+Perhaps Nene was crying under her blindfold, the breath that was leaking from her restraint trembling sadly.
+「There's no good. So I'll give you a spell that will make you feel good」
+Senju pulled out a small tube of ointment from his pocket.
+When you twist the tube and take it on your fingertips, a strange volatile smell begins to waft slightly.
+「Kusukusukusukusu…… 　Well, I'll paint it all the way through.」
+Senju presses the ointment - the finger carrying the aphrodisiac on Nene's slit.
+「…………~Ku…………！」
+With her tied and spread legs, she can't hide the slit, let alone reject Senju's hand.
+The child's little fingers crawl around and fuck the slit of Nene, the folds of flesh, creeping around and fucking it──
+「Wow…… Amazing, Nene. It's opening up and twitching, right?」
+Senju says in a deliberate manner, peering into the slit. Nene has no choice but to endure it──
+「A……wawa~、 wow, when I put my finger in it, it started to tangle. 　……Hey, Nene. How many men did Nene come in here?」
+Senju continues to move his fingers, thrustling with words of humiliation.
+「Nene is beautiful, so men won't leave you alone. I'm not alone. Five people? Ten people? Or more?」
+Then, while still putting his finger inside his vagina, he strokes the area around the clitoris that he is touching with an aphrodisiac with the pad of his thumb.
+「Au……uaa……！　aka、ka~……ga……！」
+Nene lets out a voice that can't be a pain or pleasure.
+-- Senju's fingering is absolutely not a sexual technique. This way, the female body will react the most, it's fun to play around with it, and I'm not thinking anything else.
+However, even though he knew that, Nene's body gradually began to react.
+　　［Chiyuh……kuchiyuh、zu、gupu……］
+He thrusts in, twists, shakes, stirs it - Nene's crack began to make heavy noises of water as Senju's fingers moved.
+「……Couscous. The inside of Nene is getting hot. It's getting wet little by little……」
+「A……aku、kuha……u、ka~……」
+「That's amazing…… Does my fingers feel good? It's getting sucked in. Couscous, couscouscous……」
+「Uu~…………uuu~…………！」
+「Oh, my nipples are also standing there. Hey, do you want me to touch it? Is that so?」
+「Ngu……！　uu~、uu…………！」
+「Even if you shook your head so hard, it's just a matter of dressing, right? You're tied up and being teased by a child like me, and you're feeling it, right?」
+「Aa……uaaaa……aaa…………」
+「Ahaha…… my mouth is moving. My saliva has fallen and I can't stop. Hey, does it feel that good?」
+「…………Uu、uuu~…………」
+「……Inran」
+At the same time, Senju suddenly thrusts the extremely thick dildo she had been holding in her hand into a slutty, slurping secret slice with lewd water──
+　　［……Zu~……］
+「…………~U────！！ 　~u、ngu──────~！　u………！！」
+The moment he thrusts his dildo, Nene's body went wild. His back is diverted, his neck shakes, and his body trembling.
+「Right…… Inrun is like Inrun, so it's fine to just get moaned by being thrust into her like that without worrying about the pain of her body.」
+「Uu……uau……uka、aka……aa……！」
+「Come on, you want to cum, don't you? You're coming, right? I'll mess it up in a hurry, so come on…… don't hesitate」
+「Ua────！　haa~、a……~────！」","「……Hola, Nene. ¿Cómo estás?」
+Senju me habló con una sonrisa, pero no había forma de que Nene pudiera responderla ahora.
+──ya no era algo que pudiera llamarse entrenamiento.
+No solo están tentados, sino que no se les permite pronunciar una sola palabra decente: tortura.
+「Ua……ka、kaha……a、ua……」
+Nene intenta decir algo mientras sacude sus restricciones.
+「Ga、geho……u、~gu……」
+Sin embargo, no hizo un sonido, y solo una gota de saliva gotea de la boca donde se mordió la restricción esférica.
+「Jeje, parece duro, Nene. Pero todavía no voy a parar. Hasta que se sienta bien」
+Senju lo obliga a no tener forma de hacerlo. Nene también sacudió la cabeza débilmente, como si dijera: 「Es imposible」
+「Está bien…… Nene es un verdadero inicio, por lo que se siente bien tanto del dolor como del dolor.」
+Los dedos de Senju se arrastraron por la piel de Nene.
+──Me congestioné después de estar atado, y toqué implacablemente las partes que comenzaban a cambiar de color.
+「Higu……~、uuu……！！」
+「¿Eh? ¿Todavía duele?」
+Senju preguntó, y Nene asintió.
+Quizás Nene estaba llorando bajo su venda en los ojos, la respiración que estaba goteando de su restricción temblando tristemente.
+「No hay bueno. Así que te daré un hechizo que te hará sentir bien」
+Senju sacó un pequeño tubo de ungüento de su bolsillo.
+Cuando giras el tubo y lo tomas en tus dedos, un extraño olor volátil comienza a flotar ligeramente.
+「Kusukusukusukusu……　bueno, lo pintaré hasta el final.」
+Senju presiona la pomada: el dedo que lleva el afrodisíaco sobre la hendidura de Nene.
+「…………~Ku…………！」
+Con sus piernas atadas y extendidas, no puede ocultar la hendidura, y mucho menos rechazar la mano de Senju.
+Los pequeños dedos del niño se arrastran y follan la hendidura de Nene, los pliegues de la carne, arrastrándose y follándolo──
+「Wow…… asombroso, Nene. Se está abriendo y se sacude, ¿verdad?」
+Senju dice de manera deliberada, mirando hacia la ranura. Nene no tiene más remedio que soportarlo──
+「A……wawa~、 wow, cuando puse mi dedo en él, comenzó a enredarse. 　……Hola, Nene. ¿Cuántos hombres entró Nene aquí?」
+Senju continúa moviendo sus dedos, empeñando con palabras de humillación.
+「Nene es hermoso, por lo que los hombres no te dejarán en paz. No estoy solo. ¿Cinco personas? Diez personas? O más?」
+Luego, mientras todavía pone su dedo dentro de su vagina, acaricia el área alrededor del clítoris que está tocando con un afrodisíaco con la almohadilla de su pulgar.
+「Au……uaa……！　aka、ka~……ga……！」
+Nene deja escapar una voz que no puede ser un dolor o placer.
+- La digitación de Senju no es absolutamente una técnica sexual. De esta manera, el cuerpo femenino reaccionará más, es divertido jugar con él y no estoy pensando en nada más.
+Sin embargo, a pesar de que sabía eso, el cuerpo de Nene comenzó a reaccionar gradualmente.
+　　［Chiyuh……kuchiyuh、zu、gupu……］
+Él empuja, gira, sacude, lo revuelve: la grieta de Nene comenzó a hacer grandes ruidos de agua a medida que los dedos de Senju se movían.
+「……cuscús. El interior de Nene se está calentando. Se está mojando poco a poco……」
+「A……aku、kuha……u、ka~……」
+「Eso es asombroso…… ¿mis dedos se sienten bien? Se está atrapando. Cuscús, cuscús……」
+「Uu~…………uuu~…………！」
+「Oh, mis pezones también están parados allí. Oye, ¿quieres que lo toque? ¿Es eso así?」
+「Ngu……！　uu~、uu…………！」
+「Incluso si sacudiste la cabeza con tanta fuerza, es solo cuestión de vestirse, ¿verdad? Estás atado y te burlan de un niño como yo, y lo estás sintiendo, ¿verdad?」
+「Aa……uaaaa……aaa…………」
+「Ahaha…… mi boca se está moviendo. Mi saliva ha caído y no puedo parar. Oye, ¿se siente tan bien?」
+「…………Uu、uuu~…………」
+「……Inran」
+Al mismo tiempo, Senju de repente empuja el consolador extremadamente grueso que había estado sosteniendo en su mano en una porción secreta de puta y maltratada con agua lasciva──
+　　［……Zu~……］
+「…………~U────！！ 　~u、ngu──────~！　u………！！」
+En el momento en que empuja su consolador, el cuerpo de Nene se volvió loco. Su espalda está desviada, su cuello se sacude y su cuerpo temblando.
+「Bien…… Inrun es como Inrun, por lo que está bien ser gimido por ser empujado a ella así sin preocuparse por el dolor de su cuerpo.」
+「Uu……uau……uka、aka……aa……！」
+「Vamos, quieres correrte, ¿no? Vienes, ¿verdad? Lo arruinaré a toda prisa, así que vamos…… no dudes」
+「Ua────！　haa~、a……~────！」"
 "__system__??","{CG_MODE = 1:","",""
 "__system__??","}","",""
 "cg narrator","──さんざん責めぬいたあと、 千手は寧々を拘束するロープを解いて 躰を解放してやった。

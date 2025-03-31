@@ -129,21 +129,30 @@ Sólo pensé que podrías querer lo que hay en esta caja. Ábrelo."
 " (talking)","……………………","……………………","……………………"
 "narrator","電波はなかなか箱に近付こうとしなかったが、 電波より先にダイオキシンが箱に飛びついた。","Denpa did not readily approach the box, but Dioxin jumped on the box before Denpa did.","Denpa no se acercó fácilmente a la caja, pero Dioxin saltó sobre ella antes que Denpa."
 " (talking)","………………………あ…ダイオキシン…
- ……………………………………えっ…？
- ………………………………あの、これ… …………………………………箱の中身…
- ………………もしかして、笹ですか…？","………………………A …dioxin…………………………… ………… eh…?………………………… …… Um, this………………… …………………The contents of the box…
- ………………Maybe it's a bamboo grass…?","……………………… a …dioxina…………………………… ………… ¿eh?………………………… …… Um, esto………………… …………………El contenido de la caja………………… ¿Podría ser una hierba de bambú…?"
+……………………………………えっ…？
+………………………………あの、これ… …………………………………箱の中身…
+………………もしかして、笹ですか…？","………………………Ah… dioxin…
+……………………………………E~…？
+………………………………Um, this… …………………………………The contents of the box…
+………………Maybe it's bamboo…?","………………………Ah… dioxina…
+……………………………………E~…？
+………………………………Um, esto… …………………………………El contenido de la caja…
+………………¿Quizás sea bambú…?"
 " (talking)","おう、子分どもに言って、 近所の山を走り回らせてきたんだ。 今採ってきたばっかだから新鮮だぜ。
 なんか、笹って一言で言っても 結構種類あるらしいな。 子パンダが気に入りゃあいいんだが…","Oh, I told my boys to go run around the neighbor's mountains. I just picked them up, so they're fresh.
 I heard there are many kinds of bamboo grass. I hope the little panda likes it…","Les dije a mis hijos que fueran a correr por las montañas vecinas. Acabo de recogerlos, así que están frescos.
 He oído que hay muchos tipos diferentes de hierba de bambú. Espero que al pequeño panda le guste…"
-"narrator","──心配する事はなかったようだ。 ダイオキシンは箱の笹をがりがりと食べ始めた。","─ ─ It seems there was nothing to worry about. Dioxin ate the bamboos from the box and Hajime.","─ ─ Parece que no había nada de qué preocuparse. Dioxin se comió los bambúes de la caja y Hajime."
+"narrator","──心配する事はなかったようだ。 ダイオキシンは箱の笹をがりがりと食べ始めた。","──It seems there was nothing to worry about. Dioxin began to eat the bamboo grass in the box.","──Parece que no había nada de qué preocuparse. La dioxina comenzó a comer la hierba de bambú en la caja."
 " (talking)","おうおう、食っとる食っとる。","Oh, oh, I'm eating, I'm eating, I'm eating.","Oh, oh, estoy comiendo, estoy comiendo, estoy comiendo."
 " (talking)","……………………
- ………………………………………あの… ………………………どうして、こんな…","……………………………………………… …………… Um………… ………………Why do you have to be such a…","……………………………………………… …………… Um………… ………………¿Por qué es esto…"
+………………………………………あの… ………………………どうして、こんな…","……………………
+………………………………………Um… ………………………Why did this happen…","……………………
+………………………………………Um… ………………………¿Por qué pasó esto…?"
 " (talking)","気が向いたから。","Because I felt like it.","Porque me apetecía."
 " (talking)","……………………
- ………………………………ありがとう…","……………………………………………… …… Arigatou…","……………………………………………… …… arigatou…"
+………………………………ありがとう…","……………………
+………………………………thanks…","……………………
+………………………………gracias…"
 "__system__??","}","",""
 "__system__??","{RND = 2:","",""
 " (talking)","なー、電波ちゃん。 学校でやってた武術の授業、 成績はどうだった？","Hey, Denpa. How did you do in your martial arts class at school?","Hola, Denpa. ¿Cómo te fue en tu clase de artes marciales en la escuela?"
@@ -431,9 +440,9 @@ Oh, bueno. La próxima vez lo harás mejor, ¿no?"
 "narrator","悪司はパンダを操る術を身につけ、 真田電波を手放した。","Akuji has mastered the art of Misaoing pandas and has given up Sanada Denpa.","Akuji aprendió a Misao el panda y renunció a Sanada Denpa."
 "shigikaishokuin (talking)","……野外スピーカー設置完了。 森課長、全ての準備が終わりました！ 職員十名も定位置です！","……Outdoor speaker installation completeRyou. Chief Mori, all preparations are complete! Ten staff members are in place!","……Instalación de altavoces exteriores completaRyou. ¡Jefe, todos los preparativos están completos! También hay diez miembros del personal en posición."
 "Mori Kaoru (talking)","ご苦労様です。 では始めて下さい。
- …市長、よろしいですね？","Thank you for your efforts. Now please Hajime.
- …Mayor, may I?","Gracias por sus esfuerzos. Ahora, por favor Hajime.
- …alcalde, ¿puedo?"
+…市長、よろしいですね？","Thank you for your hard work. Now let's start.
+…Mayor, that's fine, isn't it?","Gracias por su arduo trabajo. Ahora comencemos.
+…Alcalde, está bien, ¿no?"
 "Nakayama Akari (talking)","はい、よろしくお願いします。","Yes, please.","Sí, por favor."
 "shigikaishokuin (talking)","（ガー・ガガッ・ピー） あーあー、真田電波、真田電波！ 聞こえているな？　聞こえるはずだ！
 君が戦時中に動物園から連れ出した パンダ七頭の所有権は、 現在、我々市議会が保有している！
@@ -701,7 +710,7 @@ It's………………… dioxin…!………………………… Stay with me�
 "__system__??","{RND = 0:","",""
 "Yamamoto Akuji (talking)","おーい、全員撤収~。 真田電波と子パンダ捕まえたぞ~。","Hey, all clear out~! Sanada Denpa and I got a little panda!","Hey, todo despejado~. ¡Sanada Denpa y atrapé un bebé panda!"
 "__system__??","}","",""
-"Tamanegi (talking)","さあ、電波さん。 始めますよ、こちらへ……","Come on, Denpa. Hajime me, come this way: ……","Vamos, Denpa. Hajime yo, ven por aquí: ……"
+"Tamanegi (talking)","さあ、電波さん。 始めますよ、こちらへ……","Come on, Denpa. I'm going to start here……","Vamos, Denpa. Voy a empezar aquí……"
 "Sanada Denpa (talking)","……………………","……………………","……………………"
 "Tamanegi (talking)","おやおや… またダイオキシンと一緒ですか？","Oh well… are you with dioxin again?","Oh, querido… ¿con la dioxina otra vez?"
 "Sanada Denpa (talking)","…………………今、寝付いたところで… ………………………置いておけなくて…","………………… I just got out of bed………………………… I couldn't put it down…","………………… Acabo de ir a la cama………………………… No podía dejarlo…"
@@ -743,203 +752,216 @@ Entendido, Tane. A partir de ahora, nunca debes quitarte las gafas, ni en el tra
 固定された二本のシャワーノズルから、 電波の胸をめがけて生温い湯が勢いよく降り注ぐ。
 乳首を、乳房を、敏感な脇を── シャワーの水圧が責め苛む。
 そして、大きく広げたまま固定された脚は、 側に立つタマネギの眼前に恥ずべき場所を さらけ出していた。
- 「………………………………こ、んな… 　……………………………………や…嫌っ…」
+「………………………………こ、んな… 　……………………………………や…嫌っ…」
 力無く首を振る電波に、 タマネギは手にした三本目のシャワーノズルを向ける。
- 「………………あ、や… 　………………………………ひあ…っ…！」
+「………………あ、や… 　………………………………ひあ…っ…！」
 水圧が、花芯を、陰唇を嬲りぬく。 慌てて締めた膣口をこじ開けようとする。
 強すぎず、弱すぎず。 ［水の愛撫］と言うより他に例えようのない刺激に、 電波の敏感な部分が少しずつ痺れていく。
- 「………………………………あっ、ん…っく… 　………………………………嫌……っ」
- 「嫌も何も、 　こうなった原因の半分はあなたにあります」
+「………………………………あっ、ん…っく… 　………………………………嫌……っ」
+「嫌も何も、 　こうなった原因の半分はあなたにあります」
 普段──いや調教時ですら柔和な態度を崩さない タマネギが、今に限って冷たい口調で電波を責める。
- 「調教と入浴を同時に行わなければならない…… 　そんな手間などわたくしだって嫌ですよ。 　少しは反省なさい、電波さん」
+「調教と入浴を同時に行わなければならない…… 　そんな手間などわたくしだって嫌ですよ。 　少しは反省なさい、電波さん」
 口ではそう言うが、タマネギは腹立ち紛れに この責めを行っている訳ではない。
- “マゾの素質はあるが、この娘は気が弱すぎる。 　小春さんや千手くんでは少々乱暴すぎますね”
+“マゾの素質はあるが、この娘は気が弱すぎる。 　小春さんや千手くんでは少々乱暴すぎますね”
 タマネギが電波を見た最初の印象が、それだった。
- “これは、やりすぎない程度でサド的に振る舞って、 　少しずつ服従の悦楽を擦り込むしか……”
+“これは、やりすぎない程度でサド的に振る舞って、 　少しずつ服従の悦楽を擦り込むしか……”
 タマネギの突き放した態度は、 そう計算した上での“演技”だった。
- 「さあ……奥の奥まで洗いますよ。 　大事なところから力をお抜きなさい。早く」
+「さあ……奥の奥まで洗いますよ。 　大事なところから力をお抜きなさい。早く」
 タマネギは電波の応えを待たずに 秘裂に指先を添えてぐいと押し開く。
- 「……………………………うは…っ、ひっ…！」
+「……………………………うは…っ、ひっ…！」
 電波の中に、湯が流れ込んでくる。
 湯は胎に届いて、優しく、けれど確かに、 電波の躰を温めていく──。
- 「……………………………あ、ァ…やは、んっ… 　…………………………ふあ……や…」
+「……………………………あ、ァ…やは、んっ… 　…………………………ふあ……や…」
 電波の目が、焦点を失って宙を泳ぎ始める。
- ──湯の責めが、悦楽に転じ始めていた。
+──湯の責めが、悦楽に転じ始めていた。
 その変化を、タマネギは見逃さない。
- 「ほう… 　このような責めで甘い声を漏らしますか？ 　中に流れ込む湯がよほど気持ちいいと見える…」
+「ほう… 　このような責めで甘い声を漏らしますか？ 　中に流れ込む湯がよほど気持ちいいと見える…」
 傍目にも解るほど、電波の躰がびくっと震えた。 ──心の内を見透かされた、その驚きで。
- 「まあ、確かに……この湯の温度は 　人肌のそれへ近付けてあります。 　あなたが錯覚しても不思議はない……」
- 「……………………………錯覚、って…」
- 「……おや。 　男の白濁が中に吐き出された感触を 　思い出していたのでは？」
+「まあ、確かに……この湯の温度は 　人肌のそれへ近付けてあります。 　あなたが錯覚しても不思議はない……」
+「……………………………錯覚、って…」
+「……おや。 　男の白濁が中に吐き出された感触を 　思い出していたのでは？」
 電波の顔が、かあっと赤くなる。
- 「……………………………私… 　………………そんなこと、考えてない…」
+「……………………………私… 　………………そんなこと、考えてない…」
 これは本当だった。 そんな事はさすがに思いもしなかった。
 だが、そんなことはタマネギにも解っている。
 解っていて、あえて言うのだ。
- 「おっと、これはわたくしの 　思い過ごしでしたか。失敬」
+「おっと、これはわたくしの 　思い過ごしでしたか。失敬」
 そして、タマネギは黙り込む。 ただ静かに、電波の秘裂へと湯を当て続けた。
- ──やがて、電波の態度が変わり始める。
- 「………………………………あ、や…ふあ… 　………………んァ…はあ、っ…ひ、ぅ…あ…」
+──やがて、電波の態度が変わり始める。
+「………………………………あ、や…ふあ… 　………………んァ…はあ、っ…ひ、ぅ…あ…」
 それは、隠そうとして隠しきれない悦楽の声。
- （………………………ち、違う…これは、お湯… 　……………………………ただのお湯…なのに…）
+（………………………ち、違う…これは、お湯… 　……………………………ただのお湯…なのに…）
 お湯なのに、その筈なのに、 電波はそうでないものを意識し始める。
- 「……………………………あ、っゃ…ふ、あ… 　……………………ん…く、ぅ…あ…」
- ──胸に注がれる湯。
- ──秘裂を攻め抜く湯。
- ──そして、湯船の中に薄く溜まった湯。
+「……………………………あ、っゃ…ふ、あ… 　……………………ん…く、ぅ…あ…」
+──胸に注がれる湯。
+──秘裂を攻め抜く湯。
+──そして、湯船の中に薄く溜まった湯。
 その想像は決して意識して行ったものではない。 だが、電波の無意識下で止めどなく膨れ上がる。
 男の肌、自分を嬲る他者、白濁────
- 「……さ、終わりましたよ。 　電波さん？」
- 「……………………………え…っ、あ…」
- 「あなたの中に入ったお湯、お出しなさい」
- 「……………………………はい……」
+「……さ、終わりましたよ。 　電波さん？」
+「……………………………え…っ、あ…」
+「あなたの中に入ったお湯、お出しなさい」
+「……………………………はい……」
 言われて、電波が下腹に力を込める。 秘裂からこぽりと音を立てて、 胎へ流れ込んでいた湯がこぼれ出す。
- ──と。
- 「おや……？」
+──と。
+「おや……？」
 こぼれ出た湯を目にして、 タマネギが小さく声を上げた。
 電波の秘裂からこぼれ出た湯、その最後の数滴。
- ──僅かに白く濁って、とろりと尻の肌を伝う。
+──僅かに白く濁って、とろりと尻の肌を伝う。
 タマネギは、それを指先ですくい取った。
- 「ほう……こんなものを染み出させていたのですね」
- 「あ……っ」
+「ほう……こんなものを染み出させていたのですね」
+「あ……っ」
 電波は息を呑むが、タマネギは表情をまるで変えずに 彼女の戒めを一つ一つ解いていく。
- 「…全て解けましたよ。 　お立ちなさい、電波さん」
- 「……………………………………あの… 　………………今日は、これで…終わり、ですか？」
- 「いえ、この後、別室で待機してもらっている 　男の方と、普通に寝て頂きます」
- 「……………………………あ、そ…う、ですか…」
+「…全て解けましたよ。 　お立ちなさい、電波さん」
+「……………………………………あの… 　………………今日は、これで…終わり、ですか？」
+「いえ、この後、別室で待機してもらっている 　男の方と、普通に寝て頂きます」
+「……………………………あ、そ…う、ですか…」
 電波のその声には、辛さも哀しみもなかった。
 ただ、繰り返す息遣いが、ほんの僅かに甘く響く。
- 「さあ、ぐずぐずしないで早く躰を拭いて。 　ベッドへは自分で行くのですよ」
- 「……………………………………はい…」","Tied up in the bathtub by Tamanegi, Denpa could no longer escape anywhere.
-From the two fixed shower nozzles, lukewarm water poured down upon Denpa's breasts with great force.
-The water pressure tortured her nipples, breasts, and sensitive sides.
-And her legs, which were fixed in a wide open position, exposed their shameful place before the eyes of Tamanegi, who stood by her side.……………………… ………Ko, nnnn……………… ……………………… I hate it…”
-The first is the one that is not a good idea, but it is a good idea.
- ………………Ah, ya……… ………………………… Hia…!
-The water pressure teases the core of the flower and the labia. The water pressure teases the core of the flower and the labia.
-Not too strong, not too weak. ［The sensitive part of Denpa is gradually numbed by the stimulation that can be described as nothing more than a “water caress.……………………… ………Ah…nnn…………… ……………………No… …….”
-You are the cause of half of what happened to me.
-The Tamanegi, who usually maintains a mild attitude even during training, blames Denpa with a cold tone only now.
-I don't want to go through the trouble of training and bathing at the same time,……. 　You should reflect a little, Denpa.
-Although he says so with his mouth, Tamanegi is not doing this blame out of anger.
- “She has masochistic qualities, but this girl is too feeble-minded. 　Mr. Koharu and Mr. Senju are a little too violent.”
-That was Tamanegi's first impression of Denpa.
- “The only way to do this is to rub the pleasure of submission into Mai little by little, shaking Mai sadistically without overdoing it……”
-Tamanegi's dismissive attitude was a calculated “performance.
- “Come on,…… I'm going to wash you deep inside. 　Relax from the most important part. Quickly.”
-Without waiting for Denpa's response, Tamanegi put her fingertips on the cleft and pushed it open.……………………… ……Uhah….hihi…!”
+「さあ、ぐずぐずしないで早く躰を拭いて。 　ベッドへは自分で行くのですよ」
+「……………………………………はい…」","──Tietted into the bathtub by Tamanegi, Denpa couldn't escape anywhere anymore.
+From the two fixed shower nozzles, fresh warm water pours down at Denpa's chest.
+Her nipples, breasts, and sensitive armpits - the water pressure in the shower torture her.
+And his legs, which were held wide open, exposed a shameful place in front of Tamanegi's eyes, standing next to him.
+「………………………………Ko、nna… 　……………………………………ya… ia~…」
+Tamanegi pointed the third shower nozzle in his hand at Denpa, shook his head weakly.
+「………………A、ya… 　………………………………hia…~…！」
+The water pressure torments the flower core and the labia. I hurriedly tried to pry my tight vagina open.
+Not too strong, not too weak. Rather than being a caressing of water, Denpa's sensitive areas gradually become numb to the stimulation that is hard to compare to.
+「………………………………A~、n…~ku… 　………………………………ia……~」
+「I don't like it, but half of the reason why this happened is due to you」
+Usually, Tamanegi doesn't distort his gentle attitude even when he's trained, but now he blames Denpa in a cold tone.
+「They have to train and bathe at the same time…… 　I don't want to do that kind of effort either. Reflect a little, Denpa」
+That's what he says, but Tamanegi is not angering this assault.
+“Although she has the potential to be a masochistic girl, this girl is too timid. Koharu and Senju are a bit too rough.“
+That was the first impression that Tamanegi saw Denpa.
+“Mai, who acts sadistically and not overdoes this, just simply rubs herself in the pleasure of obedience little by little……“
+Tamanegi's attitude that he pushed away was his “acting“ after calculating it.
+「Now…… I'll wash it all the way deeper. Lift your strength from the important points. quickly」
+Tamanegi does not wait for Denpa to respond, but instead presses her fingertips into the slit and pushes her open.
+「……………………………Uha…~、hi~…！」
 Hot water flows into Denpa.
-The hot water reaches the womb and gently but surely warms Denpa's body.……………………… ……Aa…ha…ha…nnn……………… ……………Ha…ah………ya…”
-Denpa's eyes swim in the air, unfocused and Hajime.
-The blame of Denpa turned into pleasure and Hajime.
-Tamanegi did not miss this change.
-She said, “Hou… do you let out a sweet voice under this kind of torture? 　The hot water flowing inside you seems to feel so good…”
-Even to the casual observer, Denpa's body trembled.
-Well, it is true that the temperature of…… this water is close to that of human skin. 　No wonder you are under an illusion…………………………… …… illusion…”
- “…… Oh. 　You were remembering the feeling of the man's Haku muddle being spit out inside, weren't you?”
-The Denpa's face turns red.
- “…………………………… I………………… didn't think of that…”
-This was true. I had never thought of such a thing.
-But Tamanegi knows that.
-I know that, but I dare to say it.
-Oops, was I mistaken in this? My apologies.
-And Tamanegi becomes silent. He just quietly continued to apply the hot water to Denpa's secret crack.
-Soon, Denpa's demeanor changed and he turned to Hajime.……………………… ………Ah, ya…ah…………… …… nah…haa….hi-uh….ah…”
-It is the voice of pleasure that cannot be concealed even if one tries.
- (………………………That's not right…This is hot water…………………… (…………It's just hot water…and yet…)
-It is hot water, but Denpa is aware of what it is not, and Hajime it.……………………… ……Ah… ah… ah……………… ………n…ku…ooo…ah…”
- ───The hot water poured into her breasts.
-The hot water pours into my chest.
-The hot water that pours into my breasts and the hot water that is thinly pooled in the bathtub.
-This imagination is not something I did consciously. However, they swell up in Denpa's unconsciousness without stopping.
-A man's skin, others torturing him, Haku muddy────
- '……, it's over. 　Denpa?”
- “……………………… ……E…ah…”
-Hot water in you, get it out.”
- “……………………… ……Yes……”
-Being told to do so, Denpa puts pressure on her lower belly.
-The first thing that comes to mind is that the first time you see a woman in the room is when you see her.
- “Oh, ……?”
-Tamanegi raised a small voice when she saw the spilled hot water.
-The last few drops of hot water spilled from Denpa's secret crack.
-The last few drops of the water that spilled out of Denpa's secret crack were slightly muddy and ran down the skin of her buttocks.
-Tamanegi scooped it up with her fingertips.
- 'Hoh…… you were letting this stuff seep out?
-Oh …….”
-Denpa gasps, but Tamanegi, without changing her expression, unravels her commandments one by one.
-I've solved all of them. 　Stand up, Denpa.”
- “…………………………………… Um………… ……… Is that… that all for today?”
-No, you will sleep normally with the man who is waiting for you in the other room.……………………… ……Oh, I see…
-The voice of Denpa was neither harsh nor sorrowful.
-Just a slight sweet sound of repeated breathing.
-The most important thing is to wipe your body quickly. 　Go to bed by yourself.……………………… ……………Yes…”","─ ─ Denpa, que había sido atado en la bañera por Tamanegi, ya no podía escapar a ninguna parte.
-Desde las dos boquillas fijas de la ducha, el agua tibia caía con gran fuerza sobre los pechos de Denpa.
-La presión del agua en sus pezones, en sus pechos y en sus sensibles costados: la presión del agua de la ducha la torturaba.
-Y sus piernas, que estaban fijas en una posición muy abierta, expusieron su vergonzoso lugar ante los ojos de Tamanegi, que estaba a su lado.
- '……………………… ………Ko, nnnn……………… ……………………… y… …No…”
-La Tamanegi apunta con la tercera boquilla de la ducha en la mano a Denpa, que mueve la cabeza sin poder evitarlo.
- '………………Ah, ya……… ………………………… ¡Hia…!
-La presión del agua se burla del núcleo de la flor y de los labios. La presión del agua se burla del núcleo de la flor y de los labios.
-Ni demasiado fuerte, ni demasiado débil. ［Las partes sensibles de Denpa se adormecen poco a poco mediante una estimulación que sólo puede describirse como una “caricia de agua”.
- '……………………… ………Ah, nn…ick…………… …………………… asqueroso… …….”
-No me gusta, pero tú eres la mitad de la razón por la que ocurrió esto.
-La Tamanegi, que habitualmente -o incluso durante los entrenamientos- no pierde su actitud apacible, sólo ahora reprocha a Denpa con un tono frío.
- 'No quiero pasar por la molestia de entrenar y bañarme al mismo tiempo ……. 　Deberías reflexionar un poco, Denpa”.
-Aunque lo diga con la boca, Tamanegi no hace esta culpa por despecho.
- “Tiene cualidades masoquistas, pero esta chica es demasiado débil de mente. 　El Sr. Koharu y el Sr. Senju son demasiado violentos”.
-Esa fue la primera impresión de Tamanegi sobre Denpa.
- “La única manera de hacerlo es restregarle el placer de la sumisión poco a poco, Mai sacudiéndolo sádicamente hasta no exagerar……”
-La actitud despectiva de Tamanegi fue una “actuación” calculada.
- “Vamos,…… voy a lavarte profundamente. 　Relájate desde la parte más importante. Rápido”.
-Sin esperar la respuesta de Denpa, Tamanegi puso la punta de los dedos en su hendidura y la empujó para abrirla.……………………… …… ¡Uhaa…hihi…!”
-El agua caliente fluye en Denpa.
-El agua caliente llega al vientre y calienta suavemente pero con seguridad el cuerpo de Denpa………………………… ……Aa…ha…ha…nnn……………… ……………Fuah……ya…”
-Los ojos de Denpa se desenfocan y nadan en el aire, Hajime.
-La culpa de Denpa se convertía en placer y Hajime.
-Tamanegi no se perdió ese cambio.
- 'Hoh… ¿dejas salir una voz dulce bajo este tipo de tortura? 　El agua caliente que fluye dentro de ti parece sentirse tan bien…'
-Incluso a simple vista, el cuerpo de Denpa temblaba. Lo primero que se me ocurre es el hecho de que la mujer no es una mujer.
- 'Bueno, es cierto que…… la temperatura de esta agua es cercana a la de la piel humana. 　No es de extrañar que estés ilusionado……”
- “…………………………… ilusión…”
- “…… Oh. 　Estabas recordando la sensación de que el hombre Haku de barro era escupido por dentro, ¿no?”
-La cara de Denpa se pone roja.
- '…………………………… Yo………………… no había pensado en eso…”
-Esto era cierto. En efecto, nunca se me había pasado por la cabeza algo así.
-Pero Tamanegi lo sabe.
-A continuación se presenta una lista de las cosas más importantes que puede hacer para ayudar.
-Oops, ¿fue un descuido de mi parte? Mis disculpas”.
-Y Tamanegi se calla. Sólo en silencio, siguió aplicando agua caliente a la grieta secreta de Denpa.
- ─ ─ Pronto, la actitud de Denpa cambió y se dirigió a Hajime.
- “……………………… ………Ah, ya…ah…………… …… Nnua… haa… hi-uh… ah…”
-Es una voz de placer que no se puede ocultar aunque lo intente.
- (………………………Eso no es correcto…Esto es agua caliente…………………… (………… Es sólo agua caliente… y sin embargo…)
-Es agua caliente, se supone que lo es, pero Denpa es consciente de lo que no es y Hajime.
- “……………………… ……Ah… ah… ah……………… ………n…ku…ooo…ah…”
- ─ ─ El agua caliente se vertió en sus pechos.
- ── El agua caliente que ataca su grieta secreta.
- ─ ─ ─ Y el agua caliente que se acumulaba finamente en la bañera.
-Esta imaginación nunca se hizo conscientemente. Sin embargo, se hinchan en la inconsciencia de Denpa sin parar.
-La piel de un hombre, otros torturándolo, Haku fangoso ────
- '……, se acabó. 　¿ Denpa?”
- '……………………… ……E…ah…'
- 'Agua caliente dentro de ti, sácala'.
- '……………………… ……Sí……”
-Cuando se le dice que lo haga, Denpa ejerce presión sobre el bajo vientre. El agua caliente que había estado fluyendo en el vientre se derrama, haciendo un sonido metálico desde la grieta secreta.
-La cara de la mujer está ahora roja y sus ojos están muy abiertos.
- “¿Oh ……?”
-Tamanegi alzó la voz al ver el agua caliente derramada.
-Las últimas gotas de agua caliente se derramaron por la grieta secreta de Denpa.
-Las últimas gotas de agua, que se habían derramado por la raja secreta de Denpa, estaban ligeramente embarradas y corrían por la piel de sus nalgas.
-Tamanegi lo recogió con la punta de los dedos.
- 'Hoh…… ¿has dejado que esto se filtre?
- 'Oh …….'
-Denpa jadea, pero Tamanegi, con la misma expresión, desgrana sus mandamientos uno a uno.
- '…los he resuelto todos. 　Levántate, Denpa”.
- '…………………………………… Um………… ……… ¿Es todo por hoy?
-No, después de esto dormirás normalmente con el hombre que te espera en la otra habitación.……………………… …… Oh… oh… ¿es eso…?”
-No había dolor ni pena en la voz de Denpa.
-Sólo un ligero y dulce sonido de respiración repetida.
-Lo más importante es recordar que no eres el único que tiene que hacer esto. 　Te vas a la cama solo”.……………………… ……………Sí…"
+The water reaches the womb and is gentle, but certainly warms Denpa's body.
+「……………………………A、ah… yaha、n~… 　…………………………fua…… ya…」
+Denpa's eyes lose focus and begin swimming through the air.
+──The hot water torture had begun to turn into pleasure.
+Tamanegi doesn't overlook that change.
+「Oh… 　Do you let out a sweet voice with this kind of torture? The water that flows inside looks really pleasant…」
+Denpa's body trembled so hard that it was clear to the sidelines. ──In the surprise of seeing through my heart.
+「Well, it's true…… the temperature of this water is close to that of human skin. It's not surprising that you may be illusion……」
+「……………………………An illusion, you say.…」
+「……Oh no. Maybe he remembered the feeling of the man's cloudy white spitting out inside?」
+Denpa's face turns red.
+「……………………………I… 　………………I haven't thought about that…」
+This was true. I never thought about that.
+But Tamanegi knows this too.
+I understand and I dare say it.
+「Oops, was this my overpowering? Disrespectful」
+Then Tamanegi goes silent. I just kept quietly pouring hot water into Denpa's slit.
+──In time, Denpa's attitude begins to change.
+「………………………………A、ya… fua… 　………………nah… haa、~…hi、uh… a…」
+It was a voice of pleasure that he tried to hide, but couldn't hide it.
+（………………………N-no… this is hot water… ………………………………It's just hot water…）
+Even though it's hot water, Denpa begins to notice things that aren't.
+「……………………………A、~yah… fu、a… 　……………………n… ku、uh… a…」
+──The hot water poured into your chest.
+──The hot spring attacks the secret crack.
+──And then, the water had accumulated thinly in the bathtub.
+That imagination was never something I had to be conscious of. However, Denpa's unconsciousness suddenly swells.
+Men's skin, others torment themselves, cloudy white…
+「……Well, it's over. Denpa?」
+「………………Eh…」
+「Serve the hot water inside you」
+「……………………………yes……」
+When told, Denpa puts strength into her lower abdomen. A thud thud made a thud from the slit, and the water that had flowed into the womb began to spill.
+── And.
+「Oya……？」
+Tamanegi let out a squeal when he saw the water that had spilled out.
+The last few drops of water spilled out of Denpa's slit.
+--It becomes slightly cloudy and cloudy, and it travels through my butt's skin.
+Tamanegi scooped it out with her fingertips.
+「Oh…… it was oozing out something like this」
+「Ah……」
+Denpa takes a breath, but Tamanegi unravels her commandments one by one, without changing her expression.
+「…It all solved. Stand up, Denpa」
+「……………………………………Um… ………………Is that all for today?」
+「No, after this, I'll be able to sleep normally with a man who will be waiting in a separate room.」
+「……………………………A、so… I、see…」
+Denpa's voice was neither painful nor sad.
+However, the repeated breathing echoed slightly sweetly.
+「Now, don't slurp and wipe your body quickly. I'll go to bed myself.」
+「……………………………………yes…」","──Tocio en la bañera por Tamanegi, Denpa ya no podía escapar en ningún lado.
+De las dos boquillas de ducha fijas, el agua tibia fresca se vierte en el pecho de Denpa.
+Sus pezones, senos y axilas sensibles: la presión del agua en la ducha la tortura.
+Y sus piernas, que se mantuvieron abiertas, expusieron un lugar vergonzoso frente a los ojos de Tamanegi, de pie junto a él.
+「………………………………Ko、nna… 　……………………………………ya… ia~…」
+Tamanegi apuntó la tercera boquilla de ducha en su mano hacia Denpa, sacudió la cabeza débilmente.
+「………………A、ya… 　………………………………hia…~…！」
+La presión de agua atormenta el núcleo de la flor y los labios. Traté apresuradamente de abrir mi vagina apretada.
+No demasiado fuerte, no demasiado débil. En lugar de ser una acariciamiento del agua, las áreas sensibles de Denpa se vuelven gradualmente entumecidas con la estimulación que es difícil de comparar.
+「………………………………A~、n…~ku… 　………………………………ia……~」
+「No me gusta, pero la mitad de la razón por la cual esto sucedió se debe a ti」
+Por lo general, Tamanegi no distorsiona su actitud gentil incluso cuando está entrenado, pero ahora culpa a Denpa en un tono frío.
+「Tienen que entrenar y bañarse al mismo tiempo…… 　tampoco quiero hacer ese tipo de esfuerzo. Reflejar un poco, denpa」
+Eso es lo que dice, pero Tamanegi no está enojando este asalto.
+“Aunque tiene el potencial de ser una chica masoquista, esta chica es demasiado tímida. Koharu y Senju son demasiado ásperos“.
+Esa fue la primera impresión que Tamanegi vio a Denpa.
+“Mai, que actúa sádicamente y no exagera esto, simplemente se frota en el placer de la obediencia poco a poco……“
+La actitud de Tamanegi de que apartó fue su “actuación“ después de calcularla.
+「Ahora…… lo lavaré todo el camino más profundo. Levante su fuerza de los puntos importantes. rápidamente」
+Tamanegi no espera a que Denpa responda, sino que presiona sus dedos en la ranura y la abre.
+「……………………………Uha…~、hi~…！」
+El agua caliente fluye hacia Denpa.
+El agua llega al útero y es suave, pero ciertamente calienta el cuerpo de Denpa.
+「……………………………A、ah… yaha、n~… 　…………………………fua…… ya…」
+Los ojos de Denpa pierden el enfoque y comienzan a nadar por el aire.
+──La tortura de agua caliente había comenzado a convertirse en placer.
+Tamanegi no pasa por alto ese cambio.
+「Oh… 　¿dejas escapar una dulce voz con este tipo de tortura? El agua que fluye dentro se ve realmente agradable…」
+El cuerpo de Denpa tembló tan fuerte que estaba claro hasta el costado. ─ígeno en la sorpresa de ver a través de mi corazón.
+「Bueno, es cierto…… la temperatura de esta agua está cerca de la de la piel humana. No es sorprendente que puedas ser ilusión……」
+「……………………………Una ilusión, dices.…」
+「……Oh, no. ¿Tal vez recordó la sensación de que el blanco turbio del hombre escupió por dentro?」
+La cara de Denpa se vuelve roja.
+「……………………………Yo… 　………………No he pensado en eso…」
+Esto era cierto. Nunca pensé en eso.
+Pero Tamanegi también lo sabe.
+Entiendo y me atrevo a decirlo.
+「Vaya, ¿era este mi agitación? Irrespetuoso」
+Entonces Tamanegi se queda en silencio. Simplemente seguí vertiendo agua caliente en la hendidura de Denpa.
+──En el tiempo, la actitud de Denpa comienza a cambiar.
+「………………………………A、ya… fua… 　………………nah… haa、~…hi、uh… a…」
+Era una voz de placer que intentaba esconderse, pero no pudo ocultarlo.
+（………………………N-no… esto es agua caliente… ………………………………Es sólo agua caliente…）
+Aunque es agua caliente, Denpa comienza a notar cosas que no lo son.
+「……………………………A、~yah… fu、a… 　……………………n… ku、uh… a…」
+──El agua caliente vertida en su pecho.
+──El Hot Spring ataca la grieta secreta.
+── Y entonces, el agua se había acumulado finamente en la bañera.
+Esa imaginación nunca fue algo de lo que tuve que ser consciente. Sin embargo, la inconsciencia de Denpa se hincha de repente.
+La piel de los hombres, otros se atormientan, blancos nublados …
+「……Bueno, se acabó. Denpa?」
+「………………… eh …」
+「Sirve el agua caliente dentro de ti」
+「……………………………Sí……」
+Cuando se le informa, Denpa pone fuerza en la parte inferior del abdomen. Un ruido sordo hizo un ruido sordo desde la hendidura, y el agua que había fluido hacia el útero comenzó a derramarse.
+── y.
+「Oya……？」
+Tamanegi dejó escapar un chillido cuando vio el agua que se había derramado.
+Las últimas gotas de agua se derramaron de la hendidura de Denpa.
+-Se vuelve ligeramente nublado y nublado, y viaja a través de la piel de mi trasero.
+Tamanegi lo sacó con las yemas de los dedos.
+「Oh…… estaba rezumando algo como esto」
+「Ah……」
+Denpa respira, pero Tamanegi desentraña sus mandamientos uno por uno, sin cambiar su expresión.
+「…todo resuelto. De pie, Denpa」
+「……………………………………Um… ………………¿Eso es todo por hoy?」
+「No, después de esto, podré dormir normalmente con un hombre que estará esperando en una habitación separada.」
+「……………………………A、ya… ya、veo…」
+La voz de Denpa no era dolorosa ni triste.
+Sin embargo, la respiración repetida resonó ligeramente.
+「Ahora, no sorbas y limpie tu cuerpo rápidamente. Yo mismo iré a la cama.」
+「……………………………………Sí…」"
 "cg narrator","──この日を境に、 電波は男に従順な娼婦へと少しずつ変わっていった。","After this day, Denpa was gradually transformed into a whore who obeyed her man.","─ ─ Después de este día, Denpa se fue transformando en una puta obediente a los hombres."
 "__system__??","{CG_MODE = 1:","",""
 "__system__??","}","",""
