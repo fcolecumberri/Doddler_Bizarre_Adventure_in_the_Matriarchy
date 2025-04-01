@@ -1,95 +1,95 @@
-"character","jap text","Eng","Esp"
-"__system__??","{麦 = 10:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 11:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 12:","",""
-"__system__??","{H愛欲 = 1:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 13:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 15:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 16:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 18:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 19:","",""
-"__system__??","}","",""
-"Takei Tsukasa (talking)","悪司さん！","Akuji!","¡Akuji!"
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Takei Tsukasa (talking)","こんな汚い場所に閉じこめて、 私をどうするつもりなの？！ お婆様を呼んで頂戴！","What are you going to do to me, lock me up in this filthy place? Call your grandmother!","¿Qué vas a hacer conmigo, encerrarme en este sucio lugar? ¡Llama a tu abuela!"
-"Yamamoto Akuji (talking)","そいで、お前さんがドロボーだって いう事をチクれってのかい？","And I'm supposed to tip them off that you're a slob?","¿Y se supone que debo avisarles de que eres un ladrón?"
-"Takei Tsukasa (talking)","泥棒ではないわ！ 資本主義と戦う戦士よ！","I'm not a thief! I am a fighter against capitalism!","¡No soy un ladrón! ¡Soy un luchador contra el capitalismo!"
-"Yamamoto Akuji (talking)","はいはい。","Yes, yes, yes.","Sí y no."
-"Takei Tsukasa (talking)","まだ、私を解放しないというの？ 犯罪よ、監禁罪っ！","You still won't let me go? It's a crime to be locked up!","¿Todavía no me dejas ir? ¡Es un crimen, el confinamiento!"
-"Yamamoto Akuji (talking)","ドロボーさんがえらそーに吠えるなよ。","Don't bark like a geezer, Mr. Drobo.","No ladre como un geriátrico, Sr. Drobo."
-"Takei Tsukasa (talking)","わ、私は…… 世の中がみんな平等で平和でいい世界に なって欲しかっただけで……
+character,jap text,Eng,Esp
+__system__??,{麦 = 10:,,
+__system__??,},,
+__system__??,{麦 = 11:,,
+__system__??,},,
+__system__??,{麦 = 12:,,
+__system__??,{H愛欲 = 1:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 13:,,
+__system__??,},,
+__system__??,{麦 = 15:,,
+__system__??,},,
+__system__??,{麦 = 16:,,
+__system__??,},,
+__system__??,{麦 = 18:,,
+__system__??,},,
+__system__??,{麦 = 19:,,
+__system__??,},,
+Takei Tsukasa (talking),悪司さん！,Akuji!,¡Akuji!
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Takei Tsukasa (talking),こんな汚い場所に閉じこめて、 私をどうするつもりなの？！ お婆様を呼んで頂戴！,"What are you going to do to me, lock me up in this filthy place? Call your grandmother!","¿Qué vas a hacer conmigo, encerrarme en este sucio lugar? ¡Llama a tu abuela!"
+Yamamoto Akuji (talking),そいで、お前さんがドロボーだって いう事をチクれってのかい？,And I'm supposed to tip them off that you're a slob?,¿Y se supone que debo avisarles de que eres un ladrón?
+Takei Tsukasa (talking),泥棒ではないわ！ 資本主義と戦う戦士よ！,I'm not a thief! I am a fighter against capitalism!,¡No soy un ladrón! ¡Soy un luchador contra el capitalismo!
+Yamamoto Akuji (talking),はいはい。,"Yes, yes, yes.",Sí y no.
+Takei Tsukasa (talking),まだ、私を解放しないというの？ 犯罪よ、監禁罪っ！,You still won't let me go? It's a crime to be locked up!,"¿Todavía no me dejas ir? ¡Es un crimen, el confinamiento!"
+Yamamoto Akuji (talking),ドロボーさんがえらそーに吠えるなよ。,"Don't bark like a geezer, Mr. Drobo.","No ladre como un geriátrico, Sr. Drobo."
+Takei Tsukasa (talking),"わ、私は…… 世の中がみんな平等で平和でいい世界に なって欲しかっただけで……
  ……あなたみたいな人がいるから、 平等が夢のまた夢になるんだわ…","Wow, I just wanted…… the world to be a better world where everyone is equal and peaceful………… It's people like you that make equality a pipe dream…","Vaya, sólo quería…… el mundo sea un mundo mejor donde todos sean iguales y pacíficos………… Es la gente como tú la que hace que la igualdad sea una quimera…"
-"narrator","悪司はつかさの手を取った。","Akuji took Tsukasa's hand.","Akuji tomó la mano de Tsukasa."
-"Takei Tsukasa (talking)","な、何よ、これ……","Hey, what's this: ……","Eh, qué es esto: ……"
-"Yamamoto Akuji (talking)","ここにいる女には、 俺は平等に愛を与えているんだ。 だからお前さんもその仲間入りだ。","I'm giving all these women equal love. So you're one of them.","Estoy dando a todas estas mujeres aquí el mismo amor. Así que eres uno de ellos."
-"Takei Tsukasa (talking)","ふ、ふざけないで！ それは平等というのではなく、 節操なしというのよ！","Don't be silly! It's not called equality, it's called no clause Misao!","¡No seas tonto! ¡No se llama igualdad, se llama no Sección Misao!"
-"Yamamoto Akuji (talking)","ニホン語ってのは、便利だね。","The Japanese language is very convenient.","El idioma japonés es útil."
-"Takei Tsukasa (talking)","だ、だから、そういう事は、 お互いの了承を得てから、 流れに任せるのが……
+narrator,悪司はつかさの手を取った。,Akuji took Tsukasa's hand.,Akuji tomó la mano de Tsukasa.
+Takei Tsukasa (talking),な、何よ、これ……,"Hey, what's this: ……","Eh, qué es esto: ……"
+Yamamoto Akuji (talking),ここにいる女には、 俺は平等に愛を与えているんだ。 だからお前さんもその仲間入りだ。,I'm giving all these women equal love. So you're one of them.,Estoy dando a todas estas mujeres aquí el mismo amor. Así que eres uno de ellos.
+Takei Tsukasa (talking),ふ、ふざけないで！ それは平等というのではなく、 節操なしというのよ！,"Don't be silly! It's not called equality, it's called no clause Misao!","¡No seas tonto! ¡No se llama igualdad, se llama no Sección Misao!"
+Yamamoto Akuji (talking),ニホン語ってのは、便利だね。,The Japanese language is very convenient.,El idioma japonés es útil.
+Takei Tsukasa (talking),"だ、だから、そういう事は、 お互いの了承を得てから、 流れに任せるのが……
 あっ……
 あああっ……！？","So, you know, you should get each other's Ryou approval and then just go with the flow……
 Oh ……
 Oh, ……!","Así que, ya sabes, tienes que conseguir la aprobación del otro para ese tipo de cosas y luego simplemente seguir la corriente……
 Oh ……
  ¡Oh, ……!"
-"Takei Tsukasa (talking)","悪司は、竹井つかさを抱いた。","Akuji hugged Takei Tsukasa.","Akuji abrazó a Takei Tsukasa."
-"Takei Tsukasa (talking)","何……今の…… ラホニスキーとは、違う……","What…… is now…… different from Lakhonisky's ……","Lo que…… es ahora…… diferente de Lakhonisky ……"
-"Yamamoto Akuji (talking)","気にいってもらえたかい？","Did you like it?","¿Te ha gustado?"
-"Takei Tsukasa (talking)","そっ…
+Takei Tsukasa (talking),悪司は、竹井つかさを抱いた。,Akuji hugged Takei Tsukasa.,Akuji abrazó a Takei Tsukasa.
+Takei Tsukasa (talking),何……今の…… ラホニスキーとは、違う……,What…… is now…… different from Lakhonisky's ……,Lo que…… es ahora…… diferente de Lakhonisky ……
+Yamamoto Akuji (talking),気にいってもらえたかい？,Did you like it?,¿Te ha gustado?
+Takei Tsukasa (talking),"そっ…
 そういう事を淑女に聞くのは、 マナー違反ですわよ！","That's…
 It's bad manners to ask such a thing of a lady!","Eso es…
  ¡Es de mala educación pedirle algo así a una dama!"
-"Yamamoto Akuji (talking)","さて、脱ぎな。 あんたの好きな平等に愛を配布する お時間だ。","Now, take off your clothes. It's time to distribute the love equally as you like.","Ahora, quítate la ropa. Es el momento de distribuir tu amor de forma equitativa como quieras."
-"Takei Tsukasa (talking)","わ、私は平等が正しいと唱えているので あって、あなたの言うものとは、 まったく違うわ！","I am an advocate of equality, which is totally different from what you are advocating!","Soy un defensor de la igualdad, que es totalmente diferente de lo que usted está hablando."
-"Yamamoto Akuji (talking)","平等に違いもナニもねーよ。 さあ。","There's no difference in equality. Come on.","No hay diferencia y no hay diferencia en la igualdad. Vamos."
-"Takei Tsukasa (talking)","あ、いやっ…あっ…あんっ…！","Oh, no…oh…oh…!","Oh, no… oh… oh…"
-"Takei Tsukasa (talking)","悪司は、竹井つかさを抱いた。","Akuji hugged Takei Tsukasa.","Akuji abrazó a Takei Tsukasa."
-"Takei Tsukasa (talking)","………………","………………","………………"
-"Yamamoto Akuji (talking)","なんだ、そのもの欲しそうな目は。 もっとして欲しいのか？","What's with those lustful eyes? You want more?","¿Qué es lo que pasa con esos ojos de deseo? ¿Quieres más?"
-"Takei Tsukasa (talking)","……あ、あなたなんかに負けないわっ…","…… Oh, I'm not going to let you beat me…","…… Oh, no voy a dejar que me ganes…"
-"Yamamoto Akuji (talking)","ふーん。 そー。","Hmm. I see.","Hmm. Así que."
-"Yamamoto Akuji (talking)","そら。 これでもやるから、おとなしくしてな。","There you go. I'll give you this, so just be quiet.","Ver. Haré esto por ti, así que cállate."
-"Takei Tsukasa (talking)","なんです、このお金。","What is this money?","¿Qué es este dinero?"
-"Yamamoto Akuji (talking)","やるよ。","Will do.","Lo haré."
-"Takei Tsukasa (talking)","結構です。 最低、こんなもので人を自由に 出来ると思っているの？
+Yamamoto Akuji (talking),さて、脱ぎな。 あんたの好きな平等に愛を配布する お時間だ。,"Now, take off your clothes. It's time to distribute the love equally as you like.","Ahora, quítate la ropa. Es el momento de distribuir tu amor de forma equitativa como quieras."
+Takei Tsukasa (talking),わ、私は平等が正しいと唱えているので あって、あなたの言うものとは、 まったく違うわ！,"I am an advocate of equality, which is totally different from what you are advocating!","Soy un defensor de la igualdad, que es totalmente diferente de lo que usted está hablando."
+Yamamoto Akuji (talking),平等に違いもナニもねーよ。 さあ。,There's no difference in equality. Come on.,No hay diferencia y no hay diferencia en la igualdad. Vamos.
+Takei Tsukasa (talking),あ、いやっ…あっ…あんっ…！,"Oh, no…oh…oh…!","Oh, no… oh… oh…"
+Takei Tsukasa (talking),悪司は、竹井つかさを抱いた。,Akuji hugged Takei Tsukasa.,Akuji abrazó a Takei Tsukasa.
+Takei Tsukasa (talking),………………,………………,………………
+Yamamoto Akuji (talking),なんだ、そのもの欲しそうな目は。 もっとして欲しいのか？,What's with those lustful eyes? You want more?,¿Qué es lo que pasa con esos ojos de deseo? ¿Quieres más?
+Takei Tsukasa (talking),……あ、あなたなんかに負けないわっ…,"…… Oh, I'm not going to let you beat me…","…… Oh, no voy a dejar que me ganes…"
+Yamamoto Akuji (talking),ふーん。 そー。,Hmm. I see.,Hmm. Así que.
+Yamamoto Akuji (talking),そら。 これでもやるから、おとなしくしてな。,"There you go. I'll give you this, so just be quiet.","Ver. Haré esto por ti, así que cállate."
+Takei Tsukasa (talking),なんです、このお金。,What is this money?,¿Qué es este dinero?
+Yamamoto Akuji (talking),やるよ。,Will do.,Lo haré.
+Takei Tsukasa (talking),"結構です。 最低、こんなもので人を自由に 出来ると思っているの？
 これだから、資本主義は 腐っていると言うのです。","No thanks. At the very least, you think you can free people with this stuff?
 This is why I say capitalism is corrupt.","No, gracias. Como mínimo, ¿crees que puedes liberar a la gente con estas cosas?
 Por eso digo que el capitalismo está podrido."
-"Yamamoto Akuji (thinking)","うーーーん…… すばしっこいが、 ドンパチにはむかねぇな。
+Yamamoto Akuji (thinking),"うーーーん…… すばしっこいが、 ドンパチにはむかねぇな。
 やっぱやめだ。 スカウトは、なし。","Hmmm……… It's speedy, but it's not suitable for don-fighting.
 I'm not going to do it. No scouts.","Hmmm……… Es rápido, pero no es adecuado para una pelea de burros.
 Lo dejo. No hay exploradores."
-"Takei Tsukasa (talking)","なんですか？ 人を不躾にじろじろと……","What is it? You stare rudely at people……","¿Qué es? Miras mal a la gente……"
-"Yamamoto Akuji (talking)","いんや、別に。","No, not really.","No, en realidad no."
-"Takei Tsukasa (talking)","…………ふん…","…………fun…","…………fun…"
-"Tamanegi (talking)","ああ……きましたね、つかささん。","Oh…… Kimashi Tane and Tsukasa.","Oh…… Kimashi Tane y Tsukasa."
-"Takei Tsukasa (talking)","また……あんな事をさせるの？","Are you going to make me do that…… thing again?","¿Me vas a hacer hacer eso de…… otra vez?"
-"Tamanegi (talking)","はい。 あなたは娼婦なのですから。
+Takei Tsukasa (talking),なんですか？ 人を不躾にじろじろと……,What is it? You stare rudely at people……,¿Qué es? Miras mal a la gente……
+Yamamoto Akuji (talking),いんや、別に。,"No, not really.","No, en realidad no."
+Takei Tsukasa (talking),…………ふん…,…………fun…,…………fun…
+Tamanegi (talking),ああ……きましたね、つかささん。,Oh…… Kimashi Tane and Tsukasa.,Oh…… Kimashi Tane y Tsukasa.
+Takei Tsukasa (talking),また……あんな事をさせるの？,Are you going to make me do that…… thing again?,¿Me vas a hacer hacer eso de…… otra vez?
+Tamanegi (talking),"はい。 あなたは娼婦なのですから。
 それでは、最終試験です。
 これに合格すれば、娼婦としてお客様から お金を頂戴出来ますよ。 但し、最低限のレベル――ですが。","Yes, I am. Because you are a prostitute.
 Now, this is your final exam.
 If you pass it, you will be paid as a prostitute. But only at the lowest level.","Sí, porque eres una prostituta. Porque eres una prostituta.
 Ahora, tienes tu examen final.
 Si lo pasas, los clientes te pagarán como prostituta. Pero sólo en el nivel más bajo."
-"Takei Tsukasa (talking)","私、やっぱりいやです。 そのような事で、お金を稼ぐなんて…","I still don't like it. I don't want to make money from that kind of thing…","Sigue sin gustarme. Hacer dinero con algo así…"
-"Tamanegi (talking)","ほほう。 では、どのような事なら、 お金を頂けるというのですか？","I see. So, what kind of things would you be willing to pay for?","Ya veo. Entonces, ¿qué tipo de cosas estarías dispuesto a pagar?"
-"Takei Tsukasa (talking)","欧州にいた時は、編み物をして、 それをボランティアに寄付しましたわ。","When I was in Europe, I knitted and donated it to volunteers.","Cuando estuve en Europa, tejí y lo doné a los voluntarios."
-"Tamanegi (talking)","それは、商売ではありませんね。
+Takei Tsukasa (talking),私、やっぱりいやです。 そのような事で、お金を稼ぐなんて…,I still don't like it. I don't want to make money from that kind of thing…,Sigue sin gustarme. Hacer dinero con algo así…
+Tamanegi (talking),ほほう。 では、どのような事なら、 お金を頂けるというのですか？,"I see. So, what kind of things would you be willing to pay for?","Ya veo. Entonces, ¿qué tipo de cosas estarías dispuesto a pagar?"
+Takei Tsukasa (talking),欧州にいた時は、編み物をして、 それをボランティアに寄付しましたわ。,"When I was in Europe, I knitted and donated it to volunteers.","Cuando estuve en Europa, tejí y lo doné a los voluntarios."
+Tamanegi (talking),"それは、商売ではありませんね。
 ボランティアから寄付されたもので あったら、例え拙いものでも文句は 言えませんからね。","It is not a business.
 If it's donated by volunteers, we can't complain even if it's poor.","Eso no es un negocio, ¿verdad?
 Si es donado por voluntarios, no podemos quejarnos, aunque sea pobre."
-"Takei Tsukasa (talking)","えっ……","Eh ……","Eh ……"
-"Tamanegi (talking)","さあ、行きましょう。 先生方がお待ちですよ。","Come on, let's go. The teachers are waiting for you.","Venga, vamos. Los profesores te están esperando."
-"Takei Tsukasa (talking)","先生……？","Mr……?","¿Sr……?"
-"Tamanegi (talking)","ええ……先生です……","Yes, I'm a…… teacher ……","Sí, soy profesor…… ……"
-"cg narrator","「うっ……あああっ…！！」
+Takei Tsukasa (talking),えっ……,Eh ……,Eh ……
+Tamanegi (talking),さあ、行きましょう。 先生方がお待ちですよ。,"Come on, let's go. The teachers are waiting for you.","Venga, vamos. Los profesores te están esperando."
+Takei Tsukasa (talking),先生……？,Mr……?,¿Sr……?
+Tamanegi (talking),ええ……先生です……,"Yes, I'm a…… teacher ……","Sí, soy profesor…… ……"
+cg narrator,"「うっ……あああっ…！！」
 大きなものが、つかさの中にねじ込まれる。
 「はい、そんなにつらそうな顔をしてはいけません。 　審査員にアピールするように、気持ちよさそうな 　顔をしないと」
 先生――器械体操経験者であるタマネギの部下達が、 つかさに指導している。
@@ -249,9 +249,9 @@ Al mismo tiempo, un líquido blanco lechoso brota de los dos penes hacia la cara
 El hombre rápidamente frotó y aplastó el clítoris congestionado de Tsukasa con las yemas de sus dedos.
 「a~…aaa~……~~~~…… 　n~…a~、a~~~~……！」
 Tsukasa también gritó y su cuerpo se sacudió violentamente."
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"cg narrator","「だ、駄目だ、出る、出るよ、つかさちゃん… 　……あっ……あ~~っ……」
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+cg narrator,"「だ、駄目だ、出る、出るよ、つかさちゃん… 　……あっ……あ~~っ……」
  「あっ…ん…… 　……ふふ……おじさま、ラッキー」
  「……ん……何がだね…？」
  「ほら……この紐、引っ張って……」
@@ -264,7 +264,7 @@ Tsukasa también gritó y su cuerpo se sacudió violentamente."
  '…… n…… ¿qué es…?'
  “Aquí ……, tira de esta cuerda……”
  “…… n……?”"
-"cg narrator","「パンパカパーン。 　祝百にーーーん」
+cg narrator,"「パンパカパーン。 　祝百にーーーん」
 「お、わ、なんだなんだ？」
 「おじさまで、百人達成したの。 　ありがと」
 と言って、つかさはまだ固さの衰えぬ 一物のスリットにくちづけた。
@@ -472,70 +472,70 @@ Un líquido turbio salió de la boca de Tsukasa y brotó.
 Revolotea por las mejillas, la nariz, el mentón y los labios de Tsukasa.
 「………fufu~……101°……」
 Tsukasa se lo limpió con los dedos y sonrió feliz."
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"narrator","悪司は、貴神からの依頼で、泥棒退治の為、 ここにきていた。","Akuji came here to exterminate thieves at the request of Kishin.","Akuji vino aquí para exterminar a los ladrones a petición de Kishin."
-"Chinpira (talking)","すみません、悪司さん。 出るか出ないかわからない泥棒の為に、 足を運ばせてしまって…
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+narrator,悪司は、貴神からの依頼で、泥棒退治の為、 ここにきていた。,Akuji came here to exterminate thieves at the request of Kishin.,Akuji vino aquí para exterminar a los ladrones a petición de Kishin.
+Chinpira (talking),"すみません、悪司さん。 出るか出ないかわからない泥棒の為に、 足を運ばせてしまって…
 出ても……その… 俺達、ノロマなのか、捕まえる事 出来なくて……
 ホント、すんません……","I'm sorry, Akuji. I'm sorry you had to go through all that trouble for a thief who may or may not answer…
 Even if we did,…… we're too slow or something, and we couldn't catch him……
 I'm really sorry ……","Lo siento, Akuji. Lamentamos que te hayas tomado tantas molestias por un ladrón que puede o no responder…
 Incluso si lo hiciéramos,…… somos demasiado lentos o algo así, y no podríamos alcanzarlo……
 Lo siento mucho……"
-"Yamamoto Akuji (talking)","そんな、気に病むな。 捕まえられる奴も捕まえられなくなるぜ。","Don't worry about it. You won't be able to catch anyone you can catch.","Oh, no, no te pongas nervioso. No atraparás a nadie que pueda atraparte."
-"Chinpira (talking)","へ、へい！","Hey, hey!","¡Oye, oye!"
-"Yamamoto Akuji (talking)","しかし…… こんだけ家があるってのに 静かなモンだな。","But…… it's so quiet with so many houses.","Pero…… Es un lugar tranquilo, a pesar de que hay muchas casas."
-"Chinpira (talking)","高級住宅街ですからねー。 多少騒いでも庭の木が吸収して くれたり…
+Yamamoto Akuji (talking),そんな、気に病むな。 捕まえられる奴も捕まえられなくなるぜ。,Don't worry about it. You won't be able to catch anyone you can catch.,"Oh, no, no te pongas nervioso. No atraparás a nadie que pueda atraparte."
+Chinpira (talking),へ、へい！,"Hey, hey!","¡Oye, oye!"
+Yamamoto Akuji (talking),しかし…… こんだけ家があるってのに 静かなモンだな。,But…… it's so quiet with so many houses.,"Pero…… Es un lugar tranquilo, a pesar de que hay muchas casas."
+Chinpira (talking),"高級住宅街ですからねー。 多少騒いでも庭の木が吸収して くれたり…
 後はまあ、そんな騒ぐなんてお下品なって 感じでもあるんでしょうね。","It's a high-end residential area. Even if you make a little noise, the trees in the yard absorb it…
 The rest of the time, I guess people feel that it's vulgar to make such a noise.","Es una zona residencial de lujo… Aunque hagas un poco de ruido, los árboles del jardín lo absorben…
 El resto del tiempo, probablemente sea porque les parece vulgar hacer tanto escándalo."
-"Yamamoto Akuji (talking)","性にあわねぇな。 メシはグダグダ言いながら、 大勢で食う方が美味いってのによ。","I don't like it. Meal tastes better when you eat it with a lot of people while complaining about it.","No me gusta. Las comidas saben mejor cuando se comen con mucha gente."
-"Chinpira (talking)","ホント、そーですね。","That's true.","Realmente lo es, ¿no?"
-"Yamamoto Akuji (talking)","ん~…… こんだけ歩き回ってても現れねーって事は 泥棒も今日は開店休業かな？","Hmmm……… If they don't show up after all this walking around, maybe the thieves are closed for the day?","Hmmm……… Si no ha aparecido después de todo este paseo, ¿significa que los ladrones han cerrado por hoy?"
-"Chinpira (talking)","そすかね。","I see.","Así que."
-"Yamamoto Akuji (talking)","よし、今日は俺達も引き上げだ。 夜なきそばでもすすってくか。","All right, we're getting out of here today. Let's have soba noodles without night.","Muy bien, hoy nos retiramos. Comamos algo de soba sin noche."
-"Chinpira (talking)","ウッス！","Ugh!","¡Ousss!"
-"narrator","「ド、ドロボーーー！！！」
+Yamamoto Akuji (talking),性にあわねぇな。 メシはグダグダ言いながら、 大勢で食う方が美味いってのによ。,I don't like it. Meal tastes better when you eat it with a lot of people while complaining about it.,No me gusta. Las comidas saben mejor cuando se comen con mucha gente.
+Chinpira (talking),ホント、そーですね。,That's true.,"Realmente lo es, ¿no?"
+Yamamoto Akuji (talking),ん~…… こんだけ歩き回ってても現れねーって事は 泥棒も今日は開店休業かな？,"Hmmm……… If they don't show up after all this walking around, maybe the thieves are closed for the day?","Hmmm……… Si no ha aparecido después de todo este paseo, ¿significa que los ladrones han cerrado por hoy?"
+Chinpira (talking),そすかね。,I see.,Así que.
+Yamamoto Akuji (talking),よし、今日は俺達も引き上げだ。 夜なきそばでもすすってくか。,"All right, we're getting out of here today. Let's have soba noodles without night.","Muy bien, hoy nos retiramos. Comamos algo de soba sin noche."
+Chinpira (talking),ウッス！,Ugh!,¡Ousss!
+narrator,"「ド、ドロボーーー！！！」
 その時、二軒先の家から悲鳴が上がった。","「Thi、 thieeeef！！！」
 At that moment, a scream came from two houses away.","「¡¡¡La、 ladroooónーーー！！！」
 En ese momento, un grito llegó desde dos casas más allá."
-"Yamamoto Akuji (talking)","行くぞ。","Let's go.","Vamos."
-"Chinpira (talking)","ウ、ウッス！！","Ugh, ugh!","¡Uf, uf!"
-"narrator","悪司が悲鳴のあがった家の前についた その瞬間。
+Yamamoto Akuji (talking),行くぞ。,Let's go.,Vamos.
+Chinpira (talking),ウ、ウッス！！,"Ugh, ugh!","¡Uf, uf!"
+narrator,"悪司が悲鳴のあがった家の前についた その瞬間。
 人影が木の上から降り立った。","At the moment Akuji arrived in front of the house where the screams came from.
 At that moment, a figure descended from the tree tops.","En ese momento Akuji llegó frente a la casa de donde provenían los gritos.
 Una figura descendió del árbol."
-"Yamamoto Akuji (talking)","な、なんじゃこりゃー！！ 変な奴がー！！","What the hell is this? Some weirdo!","¿Qué demonios es esto? ¡Hay un tipo raro!"
-"Chinpira (talking)","うわーーー！！ めっちゃ変ーーー！！","Wooooooooo!!!! That's so weirdooooooooo!!!!","¡¡¡Wooooooooo!!! ¡Eso es tan rarooooooooooooooooooooo!"
-"Phantom Thief M. (talking)","なんですか、失礼な！","What? Rude!","¿Qué? ¡Grosero!"
-"Yamamoto Akuji (talking)","いや、でも変だろ、そのカッコ。 ちゃんと出る前に鏡で確認したか？","No, but that's weird. Did you check it in the mirror before you left?","No, pero es raro, esa mirada. ¿Lo comprobaste bien en el espejo antes de salir?"
-"Phantom Thief M. (talking)","だから、変ではありませんって！","So it's not weird!","¡Así que no es raro!"
-"Yamamoto Akuji (talking)","っ……あ…… ひょっとして、お前、最近この辺りに 出没している、泥棒か。","I've been wondering if you're the thief that's been popping up around here lately.","Has estado apareciendo por aquí últimamente, por casualidad, ¿eres un ladrón?"
-"Phantom Thief M. (talking)","泥棒など、華麗でない呼び方は やめて頂きたいですわ。
+Yamamoto Akuji (talking),な、なんじゃこりゃー！！ 変な奴がー！！,What the hell is this? Some weirdo!,¿Qué demonios es esto? ¡Hay un tipo raro!
+Chinpira (talking),うわーーー！！ めっちゃ変ーーー！！,Wooooooooo!!!! That's so weirdooooooooo!!!!,¡¡¡Wooooooooo!!! ¡Eso es tan rarooooooooooooooooooooo!
+Phantom Thief M. (talking),なんですか、失礼な！,What? Rude!,¿Qué? ¡Grosero!
+Yamamoto Akuji (talking),いや、でも変だろ、そのカッコ。 ちゃんと出る前に鏡で確認したか？,"No, but that's weird. Did you check it in the mirror before you left?","No, pero es raro, esa mirada. ¿Lo comprobaste bien en el espejo antes de salir?"
+Phantom Thief M. (talking),だから、変ではありませんって！,So it's not weird!,¡Así que no es raro!
+Yamamoto Akuji (talking),っ……あ…… ひょっとして、お前、最近この辺りに 出没している、泥棒か。,I've been wondering if you're the thief that's been popping up around here lately.,"Has estado apareciendo por aquí últimamente, por casualidad, ¿eres un ladrón?"
+Phantom Thief M. (talking),"泥棒など、華麗でない呼び方は やめて頂きたいですわ。
 私の名は、怪盗マトリョーシカ！ 華麗なる義賊怪盗ですわ！","I wish you would stop calling me “thief” and other such ungraceful names.
 My name is Matryoshka the Phantom Thief! I am a brilliant thief!","Me gustaría que dejaras de llamarme ladrón y otros nombres poco agraciados.
  ¡Me llamo Matryoshka la ladrona! ¡Soy un brillante bandido y ladrón!"
-"Yamamoto Akuji (talking)","ドロボーじゃん。","That's a dorobo.","Eso es una chapuza."
-"Phantom Thief M. (talking)","義賊と申しましたでしょう！
+Yamamoto Akuji (talking),ドロボーじゃん。,That's a dorobo.,Eso es una chapuza.
+Phantom Thief M. (talking),"義賊と申しましたでしょう！
 私は、資本主義の加害者である金持ち から金品を奪い、資本主義の被害者である 貧乏人に配っているの。
 どう、素晴らしいでしょう？","I have told you that I am a righteous thief!
 I take money and goods from the rich, the perpetrators of capitalism, and distribute them to the poor, the victims of capitalism.
 Isn't that wonderful?","¡Te he dicho que soy un bandido justo!
 Tomo el dinero y los bienes de los ricos, los autores del capitalismo, y los distribuyo entre los pobres, las víctimas del capitalismo.
  ¿No es genial?"
-"Yamamoto Akuji (talking)","他人を貧乏人って呼ぶ辺りから、 あんたも結構傲慢だって。","You're pretty arrogant yourself when you call other people poor.","El hecho de que llames pobres a los demás demuestra que tú también eres bastante arrogante."
-"Phantom Thief M. (talking)","資本主義は腐敗しているわ！ そこに正義の鉄槌を下すのが、私！
+Yamamoto Akuji (talking),他人を貧乏人って呼ぶ辺りから、 あんたも結構傲慢だって。,You're pretty arrogant yourself when you call other people poor.,El hecho de que llames pobres a los demás demuestra que tú también eres bastante arrogante.
+Phantom Thief M. (talking),"資本主義は腐敗しているわ！ そこに正義の鉄槌を下すのが、私！
 誰かの改革を待っているのではなく、 私がこの国を改革するの！","Capitalism is corrupt! And I'm going to bring it to justice!
 I will reform this country, not wait for someone else to reform it!","¡El capitalismo es corrupto! ¡Y voy a llevarlo a la justicia!
 No esperaré a que otro se reforme, ¡yo reformaré este país!"
-"Yamamoto Akuji (talking)","でも、それがドロボーってのも、 短絡的じゃねーか。
+Yamamoto Akuji (talking),"でも、それがドロボーってのも、 短絡的じゃねーか。
 つー訳で、俺はあんたの言うところの、 資本主義の犬ってヤツでな。 逮捕するぜ。","But to call them slobs is a bit simplistic, isn't it?
 So I'm what you call a capitalist dog. You're under arrest.","Pero es un poco miope llamarlos vagos, ¿no?
 Así que soy lo que se llama un perro capitalista. Queda arrestado."
-"Phantom Thief M. (talking)","くすっ……","Dusk ……","Crepúsculo……"
-"Yamamoto Akuji (talking)","おろっ？","Oro?","¿Oro?"
-"Chinpira (talking)","き、消えた！？","Ki, it's gone!","¡Ki, se ha ido!"
-"narrator","「おもしろいわ。 　捕まえる事が出来るのなら、やって 　ごらんなさい」
+Phantom Thief M. (talking),くすっ……,Dusk ……,Crepúsculo……
+Yamamoto Akuji (talking),おろっ？,Oro?,¿Oro?
+Chinpira (talking),き、消えた！？,"Ki, it's gone!","¡Ki, se ha ido!"
+narrator,"「おもしろいわ。 　捕まえる事が出来るのなら、やって 　ごらんなさい」
 暗闇の中、どこからともなく声がする。
  「それでは、ごきげんよう」
 ガサガサと木の枝が揺れる音がする。
@@ -548,37 +548,37 @@ En la oscuridad, una voz sale de la nada.
 Que tenga un buen día.
 Se oye el crujido de las ramas de los árboles.
 El sonido cesó después de eso."
-"Yamamoto Akuji (talking)","逃げられたか。","You got away with it.","Te has salido con la tuya."
-"Chinpira (talking)","そ、そうみたいっすね……","Yes, it seems so……","Sí, eso parece……"
-"Yamamoto Akuji (talking)","しかし、新手のチンドン屋の衣装かね、 あれ……","But is that a new ding-dong outfit? ……","Pero es un nuevo conjunto de ding-dong, que ……"
-"Chinpira (talking)","最初は変かもと思ったんですが、あれ、 ずっと見てたらかっこよく 感じちゃいましたよ……","At first I thought it was weird, but then I kept looking at it and it started to look cool……","Al principio pensé que era raro, pero luego seguí mirándolo y me pareció genial……"
-"Yamamoto Akuji (thinking)","……うーん…… あの女、どこかで……","…… hmmm…… that woman, somewhere ……","…… umm…… esa mujer, en algún lugar……"
-"narrator","女子団員が一人、帳簿をつけている。","One female member of the group is keeping the books.","Un miembro femenino del grupo lleva la contabilidad."
-"Seinendan Jyoshi (talking)","ふう……これで一千万円かー…… すごい迫力。 これがあたしのだったらなー…","Fuu…… this is 10 million yen……… This is very powerful. I wish this was mine…","Fu…… esto es 10 millones de yenes……… Esto es muy poderoso. Me gustaría que esto fuera mío…"
-"narrator","と、言いながら、帳簿をつけ終わった。","I finished keeping the books,” he said.","Terminé de llevar la contabilidad”, dijo."
-"Seinendan Jyoshi (talking)","よし、終わり。 じゃあこれを銀行に預けて……","Okay, I'm done. Then you can deposit this in the bank at ……","Bien, eso es todo. Entonces puedes depositarlo en el banco en ……"
-"Seinendan Jyoshi (talking)","だ、誰、あなた？ どうしてそんな恰好してるの！？","Who are you? Why are you dressed like that?","¿Quién es usted? ¿Por qué estás vestido así?"
-"Phantom Thief M. (talking)","私は、義賊。 怪盗マトリョーシカ！
+Yamamoto Akuji (talking),逃げられたか。,You got away with it.,Te has salido con la tuya.
+Chinpira (talking),そ、そうみたいっすね……,"Yes, it seems so……","Sí, eso parece……"
+Yamamoto Akuji (talking),しかし、新手のチンドン屋の衣装かね、 あれ……,But is that a new ding-dong outfit? ……,"Pero es un nuevo conjunto de ding-dong, que ……"
+Chinpira (talking),最初は変かもと思ったんですが、あれ、 ずっと見てたらかっこよく 感じちゃいましたよ……,"At first I thought it was weird, but then I kept looking at it and it started to look cool……","Al principio pensé que era raro, pero luego seguí mirándolo y me pareció genial……"
+Yamamoto Akuji (thinking),……うーん…… あの女、どこかで……,"…… hmmm…… that woman, somewhere ……","…… umm…… esa mujer, en algún lugar……"
+narrator,女子団員が一人、帳簿をつけている。,One female member of the group is keeping the books.,Un miembro femenino del grupo lleva la contabilidad.
+Seinendan Jyoshi (talking),ふう……これで一千万円かー…… すごい迫力。 これがあたしのだったらなー…,Fuu…… this is 10 million yen……… This is very powerful. I wish this was mine…,Fu…… esto es 10 millones de yenes……… Esto es muy poderoso. Me gustaría que esto fuera mío…
+narrator,と、言いながら、帳簿をつけ終わった。,"I finished keeping the books,” he said.","Terminé de llevar la contabilidad”, dijo."
+Seinendan Jyoshi (talking),よし、終わり。 じゃあこれを銀行に預けて……,"Okay, I'm done. Then you can deposit this in the bank at ……","Bien, eso es todo. Entonces puedes depositarlo en el banco en ……"
+Seinendan Jyoshi (talking),だ、誰、あなた？ どうしてそんな恰好してるの！？,Who are you? Why are you dressed like that?,¿Quién es usted? ¿Por qué estás vestido así?
+Phantom Thief M. (talking),"私は、義賊。 怪盗マトリョーシカ！
 貧富の差是正の為に、 その金お預かりします！","I am a righteous bandit. I am the thief Matryoshka!
 I'll take that money to correct the gap between the rich and the poor!","Soy un bandido justo. ¡Soy la ladrona Matryoshka!
  ¡Tomaré ese dinero para ayudar a corregir la brecha entre los ricos y los pobres!"
-"Seinendan Jyoshi (talking)","え、な、何言ってるの？ これは、この奉仕青年団みんなの……","What, hey, what are you talking about? It's this service youth group everyone's ……","¿Qué, oye, de qué estás hablando? Esta es la página web…… de todos estos grupos juveniles de servicio."
-"Phantom Thief M. (talking)","問答無用！","No questions asked!","Sin preguntas."
-"Seinendan Jyoshi (talking)","あっ…！！","Ah…!","¡Ah…!"
-"narrator","怪盗マトリョーシカは、あっという間に、 彼女から札束の入った袋を奪い取った。","In a flash, the thief, Matryoshka, snatched the bag of bills from her.","En un abrir y cerrar de ojos, el ladrón Matryoshka le arrebató la bolsa que contenía el fajo de billetes."
-"Seinendan Jyoshi (talking)","か、返して！！ 返して！","Give it back! Give it back!","¡Devuélvelo! ¡Devuélvelo!"
-"Phantom Thief M. (talking)","それでは、ごきげんよう。","Have a good day.","Que tengas un buen día."
-"narrator","怪盗マトリョーシカは、疾風のように 去っていった。","The thief, Matryoshka, was gone like a gale.","La ladrona Matryoshka se fue como un vendaval."
-"Yamamoto Akuji (talking)","なんだってぇ！？","What the hell?","¿Qué demonios?"
-"Seinendan Jyoshi (talking)","ご、ごめんなさい、ごめんなさい… 私…私、追いかけたんですが、 すっごくすばしっこくて……","I'm sorry, I'm sorry… I… I… I chased after him and he was so quick……","Lo siento, lo siento… Yo… yo… lo perseguí, fue muy rápido……"
-"Chinpira (talking)","このアマ！ ごめんなさいで許されると 思ってんのか！","You bitch! You think your apologies are going to get you off the hook!","¡Puta! ¡Crees que tus disculpas te librarán del problema!"
-"Yamamoto Akuji (talking)","やめとけ。 そいつの手にあまる相手だってのは、 俺が知ってる。","Don't do it. I know he can't handle you.","No lo hagas. Sé que no puede manejarte."
-"Chinpira (talking)","あ、す、すんません…","Oh, I'm sorry…","Oh, lo siento…"
-"Yamamoto Akuji (talking)","さーてと…… そろそろ、本腰入れるかねー。","Let's see……… It's time to get down to business!","Veamos…… ¡Es hora de ir al grano!"
-"seinen (talking)","おい、押すなよ！","Hey, don't push it!","¡Oye, no lo presiones!"
-"joshigakusei (talking)","これで、おかあさんに薬を 買ってあげられる…","Now you can buy your mom some medicine…","Ahora puedo comprar algunas medicinas para mamá…"
-"Yamamoto Akuji (talking)","なんだ、この人だかりは……","What a crowd: ……","Qué multitud: ……"
-"Takei Tsukasa (talking)","慌てないで下さい。 まだありますから。
+Seinendan Jyoshi (talking),え、な、何言ってるの？ これは、この奉仕青年団みんなの……,"What, hey, what are you talking about? It's this service youth group everyone's ……","¿Qué, oye, de qué estás hablando? Esta es la página web…… de todos estos grupos juveniles de servicio."
+Phantom Thief M. (talking),問答無用！,No questions asked!,Sin preguntas.
+Seinendan Jyoshi (talking),あっ…！！,Ah…!,¡Ah…!
+narrator,怪盗マトリョーシカは、あっという間に、 彼女から札束の入った袋を奪い取った。,"In a flash, the thief, Matryoshka, snatched the bag of bills from her.","En un abrir y cerrar de ojos, el ladrón Matryoshka le arrebató la bolsa que contenía el fajo de billetes."
+Seinendan Jyoshi (talking),か、返して！！ 返して！,Give it back! Give it back!,¡Devuélvelo! ¡Devuélvelo!
+Phantom Thief M. (talking),それでは、ごきげんよう。,Have a good day.,Que tengas un buen día.
+narrator,怪盗マトリョーシカは、疾風のように 去っていった。,"The thief, Matryoshka, was gone like a gale.",La ladrona Matryoshka se fue como un vendaval.
+Yamamoto Akuji (talking),なんだってぇ！？,What the hell?,¿Qué demonios?
+Seinendan Jyoshi (talking),ご、ごめんなさい、ごめんなさい… 私…私、追いかけたんですが、 すっごくすばしっこくて……,"I'm sorry, I'm sorry… I… I… I chased after him and he was so quick……","Lo siento, lo siento… Yo… yo… lo perseguí, fue muy rápido……"
+Chinpira (talking),このアマ！ ごめんなさいで許されると 思ってんのか！,You bitch! You think your apologies are going to get you off the hook!,¡Puta! ¡Crees que tus disculpas te librarán del problema!
+Yamamoto Akuji (talking),やめとけ。 そいつの手にあまる相手だってのは、 俺が知ってる。,Don't do it. I know he can't handle you.,No lo hagas. Sé que no puede manejarte.
+Chinpira (talking),あ、す、すんません…,"Oh, I'm sorry…","Oh, lo siento…"
+Yamamoto Akuji (talking),さーてと…… そろそろ、本腰入れるかねー。,Let's see……… It's time to get down to business!,Veamos…… ¡Es hora de ir al grano!
+seinen (talking),おい、押すなよ！,"Hey, don't push it!","¡Oye, no lo presiones!"
+joshigakusei (talking),これで、おかあさんに薬を 買ってあげられる…,Now you can buy your mom some medicine…,Ahora puedo comprar algunas medicinas para mamá…
+Yamamoto Akuji (talking),なんだ、この人だかりは……,What a crowd: ……,Qué multitud: ……
+Takei Tsukasa (talking),"慌てないで下さい。 まだありますから。
 ただし、お一人につき ５０００円までです。
 出来る限り、たくさんの人に、 施したいと思っていますから。
 はい、次の人。","Don't panic. We still have some left.
@@ -588,159 +588,159 @@ Okay, next.","Que no cunda el pánico. Todavía hay algo de dinero disponible.
 Sin embargo, el límite es de 5.000 ¥ por persona.
 Queremos dar todo lo que podamos al mayor número de personas posible.
 Bien, siguiente."
-"seinen (talking)","ありがとう、助かります…","Thanks, that helps…","Gracias, eso ayuda…"
-"Takei Tsukasa (talking)","はい、次の人ー。","Yes, next.","Sí, la siguiente persona -."
-"wakaishufu (talking)","ありがとう…… これで子供のミルクが買えるわ…","Thanks…… Now I can buy milk for my kids…","Gracias…… Ahora puedo comprar leche para mis hijos…"
-"Takei Tsukasa (talking)","はい、次……","Yes, next ……","Sí, siguiente: ……"
-"Yamamoto Akuji (talking)","何やってんだ？","What are you doing?","¿Qué estás haciendo?"
-"Takei Tsukasa (talking)","あら、奉仕青年団の悪司さん。
+seinen (talking),ありがとう、助かります…,"Thanks, that helps…","Gracias, eso ayuda…"
+Takei Tsukasa (talking),はい、次の人ー。,"Yes, next.","Sí, la siguiente persona -."
+wakaishufu (talking),ありがとう…… これで子供のミルクが買えるわ…,Thanks…… Now I can buy milk for my kids…,Gracias…… Ahora puedo comprar leche para mis hijos…
+Takei Tsukasa (talking),はい、次……,"Yes, next ……","Sí, siguiente: ……"
+Yamamoto Akuji (talking),何やってんだ？,What are you doing?,¿Qué estás haciendo?
+Takei Tsukasa (talking),"あら、奉仕青年団の悪司さん。
 見てわかりませんか？ 貧富の差を是正する為に、貧乏な方に お金をめぐんでさしあげていますの。","Oh, Mr. Akuji of the Service Youth Group.
 Can't you see it? We are giving money to the poor to correct the gap between the rich and the poor.","Oh, el señor Akuji de la Liga de la Juventud de Servicio.
  ¿No lo ves? Estamos dando dinero a los pobres para corregir la brecha entre los ricos y los pobres."
-"Yamamoto Akuji (talking)","あんたなー……","You naa: ……","You naa: ……"
-"Takei Tsukasa (talking)","何か？","Yes?","¿Sí?"
-"Yamamoto Akuji (talking)","自分の言葉の中に、既に差別があるっての 自覚ねーのか？","Don't you realize that there is already discrimination in your words?","¿No te das cuenta de que ya hay discriminación en tu idioma?"
-"Takei Tsukasa (talking)","そんなもの、ありませんわ。","There is no such thing.","No existe tal cosa."
-"Yamamoto Akuji (thinking)","………天然の世間知らずか…… こーいうのは、タチ悪いなー。","……… natural naivete or…… This kind of thing is tacky!","……… Ingenuidad natural o…… ¡Esta es una pregunta difícil!"
-"Takei Tsukasa (talking)","あなたはお金に困ってらっしゃらない でしょう？ だったら、どいて頂けます？","You are not in need of money, are you? Then would you please step aside?","No tienes problemas de dinero, ¿verdad? Entonces, ¿podría apartarse, por favor?"
-"Yamamoto Akuji (talking)","へいへい。","Hey, hey, hey.","Heihei."
-"Takei Tsukasa (talking)","はい、次の人……","Yes, the next one: ……","Sí, siguiente: ……"
-"narrator","深夜。 悪司は数人の部下を連れ、高級住宅街を 夜回りしている。","Midnight. Akuji is making the night rounds of an upscale residential area with several subordinates.","A medianoche. Akuji está haciendo la ronda nocturna de una zona residencial de lujo con varios subordinados."
-"Yamamoto Akuji (talking)","さーてと、今夜こそしょっぴいてやるぜ。 怪盗マトリョーシカ。","Well, tonight is the night I'm going to take you down. Matryoshka the thief.","Muy bien, voy a buscarte esta noche. Matryoshka el ladrón."
-"Takega Satsu (talking)","さあ、どうだかな。 相手は神出鬼没で、身軽なのだろう？","Well, I don't know. The other party is godforsaken and nimble, right?","Vamos, no lo sé. La otra parte es despreciable y ágil, ¿no es así?"
-"Yamamoto Akuji (talking)","人の決心に水さすような事、 言うなよな、さっちゃん。","Don't say things that might dampen people's resolve, Sachan.","No digas cosas que pongan en peligro la determinación de la gente, Sachan."
-"Takega Satsu (talking)","私は、冷静な意見を言ったまでだ。","I was just giving my dispassionate opinion.","Sólo estaba dando mi opinión desapasionada."
-"narrator","「で、出たーーーー！！！！ 　怪盗マトリョーシカだーー！！」","So, there it is… ！！！！ 　It's MATRYOSHKA the thief!","'Así que, está fueraーー！！！！ 　¡¡¡Es el ladrón Matryoshka!!!"
-"Takega Satsu (talking)","！","！","！"
-"Yamamoto Akuji (talking)","おいでなすったか！？ どこだ！？","Come here, you! Where are you?","¡Ven aquí, querida! ¿Dónde estás?"
-"Elite Yakuza (talking)","悪司さん！ こっちです！！","Akuji! This way!","¡Akuji! ¡Por aquí!"
-"Yamamoto Akuji (talking)","待て、こら！！","Wait, hey!","¡Espera, oye!"
-"narrator","悪司が走っていくと、 そこにマトリョーシカの影があった。","As Akuji ran, he saw the shadow of a matryoshka there.","Mientras Akuji corría, vio allí la sombra de una matrioska."
-"Yamamoto Akuji (talking)","待ちやがれ、このドロボーが！ 素直にお縄をチョーダイしな！！","Wait a minute, you little slob! You're going to get yourself a rope!","¡Espera un momento, vago! ¡Vas a conseguir una cuerda!"
-"Phantom Thief M. (talking)","あら、物覚えの悪い人ですこと。 私は義賊で、泥棒などという 野蛮なものではありませんわ。","Oh, you have a bad memory. I am a righteous thief, not a barbaric one.","Oh, eres un hombre con mala memoria. Soy un ladrón justo, no un bárbaro."
-"Yamamoto Akuji (talking)","盗人に綺麗も汚いもあるか！","Thieves are neither clean nor dirty!","Los ladrones no son ni limpios ni sucios."
-"Phantom Thief M. (talking)","勉強不足ですわ。 庶民からお金を搾取する資本家達こそが 泥棒で、私は正義の味方ですわ。","I haven't studied enough. The capitalists who exploit the people are the thieves, and I am on the side of justice.","No he estudiado lo suficiente. Los capitalistas que explotan al pueblo son los ladrones, y yo estoy del lado de la justicia."
-"Yamamoto Akuji (talking)","どっちでも一緒だ。 俺にとっちゃ捕まえる必要の出来た ネズミだ。","It's the same either way. To me, he's a rat I've got to catch.","Es lo mismo de cualquier manera. Para mí, son ratas que tengo que atrapar."
-"Phantom Thief M. (talking)","淑女をネズミよばわりするなんて、 殿方として失礼ですわよ。","It's rude for a gentleman to call a lady a rat.","Es de mala educación que un caballero llame rata a una dama."
-"Yamamoto Akuji (talking)","また消えた！？","Gone again!","¡Se ha vuelto a ir!"
-"narrator","「それでは、ごきげんよう。 　役立たずのネズミ取りさん」
+Yamamoto Akuji (talking),あんたなー……,You naa: ……,You naa: ……
+Takei Tsukasa (talking),何か？,Yes?,¿Sí?
+Yamamoto Akuji (talking),自分の言葉の中に、既に差別があるっての 自覚ねーのか？,Don't you realize that there is already discrimination in your words?,¿No te das cuenta de que ya hay discriminación en tu idioma?
+Takei Tsukasa (talking),そんなもの、ありませんわ。,There is no such thing.,No existe tal cosa.
+Yamamoto Akuji (thinking),………天然の世間知らずか…… こーいうのは、タチ悪いなー。,……… natural naivete or…… This kind of thing is tacky!,……… Ingenuidad natural o…… ¡Esta es una pregunta difícil!
+Takei Tsukasa (talking),あなたはお金に困ってらっしゃらない でしょう？ だったら、どいて頂けます？,"You are not in need of money, are you? Then would you please step aside?","No tienes problemas de dinero, ¿verdad? Entonces, ¿podría apartarse, por favor?"
+Yamamoto Akuji (talking),へいへい。,"Hey, hey, hey.",Heihei.
+Takei Tsukasa (talking),はい、次の人……,"Yes, the next one: ……","Sí, siguiente: ……"
+narrator,深夜。 悪司は数人の部下を連れ、高級住宅街を 夜回りしている。,Midnight. Akuji is making the night rounds of an upscale residential area with several subordinates.,A medianoche. Akuji está haciendo la ronda nocturna de una zona residencial de lujo con varios subordinados.
+Yamamoto Akuji (talking),さーてと、今夜こそしょっぴいてやるぜ。 怪盗マトリョーシカ。,"Well, tonight is the night I'm going to take you down. Matryoshka the thief.","Muy bien, voy a buscarte esta noche. Matryoshka el ladrón."
+Takega Satsu (talking),さあ、どうだかな。 相手は神出鬼没で、身軽なのだろう？,"Well, I don't know. The other party is godforsaken and nimble, right?","Vamos, no lo sé. La otra parte es despreciable y ágil, ¿no es así?"
+Yamamoto Akuji (talking),人の決心に水さすような事、 言うなよな、さっちゃん。,"Don't say things that might dampen people's resolve, Sachan.","No digas cosas que pongan en peligro la determinación de la gente, Sachan."
+Takega Satsu (talking),私は、冷静な意見を言ったまでだ。,I was just giving my dispassionate opinion.,Sólo estaba dando mi opinión desapasionada.
+narrator,「で、出たーーーー！！！！ 　怪盗マトリョーシカだーー！！」,"So, there it is… ！！！！ 　It's MATRYOSHKA the thief!","'Así que, está fueraーー！！！！ 　¡¡¡Es el ladrón Matryoshka!!!"
+Takega Satsu (talking),！,！,！
+Yamamoto Akuji (talking),おいでなすったか！？ どこだ！？,"Come here, you! Where are you?","¡Ven aquí, querida! ¿Dónde estás?"
+Elite Yakuza (talking),悪司さん！ こっちです！！,Akuji! This way!,¡Akuji! ¡Por aquí!
+Yamamoto Akuji (talking),待て、こら！！,"Wait, hey!","¡Espera, oye!"
+narrator,悪司が走っていくと、 そこにマトリョーシカの影があった。,"As Akuji ran, he saw the shadow of a matryoshka there.","Mientras Akuji corría, vio allí la sombra de una matrioska."
+Yamamoto Akuji (talking),待ちやがれ、このドロボーが！ 素直にお縄をチョーダイしな！！,"Wait a minute, you little slob! You're going to get yourself a rope!","¡Espera un momento, vago! ¡Vas a conseguir una cuerda!"
+Phantom Thief M. (talking),あら、物覚えの悪い人ですこと。 私は義賊で、泥棒などという 野蛮なものではありませんわ。,"Oh, you have a bad memory. I am a righteous thief, not a barbaric one.","Oh, eres un hombre con mala memoria. Soy un ladrón justo, no un bárbaro."
+Yamamoto Akuji (talking),盗人に綺麗も汚いもあるか！,Thieves are neither clean nor dirty!,Los ladrones no son ni limpios ni sucios.
+Phantom Thief M. (talking),勉強不足ですわ。 庶民からお金を搾取する資本家達こそが 泥棒で、私は正義の味方ですわ。,"I haven't studied enough. The capitalists who exploit the people are the thieves, and I am on the side of justice.","No he estudiado lo suficiente. Los capitalistas que explotan al pueblo son los ladrones, y yo estoy del lado de la justicia."
+Yamamoto Akuji (talking),どっちでも一緒だ。 俺にとっちゃ捕まえる必要の出来た ネズミだ。,"It's the same either way. To me, he's a rat I've got to catch.","Es lo mismo de cualquier manera. Para mí, son ratas que tengo que atrapar."
+Phantom Thief M. (talking),淑女をネズミよばわりするなんて、 殿方として失礼ですわよ。,It's rude for a gentleman to call a lady a rat.,Es de mala educación que un caballero llame rata a una dama.
+Yamamoto Akuji (talking),また消えた！？,Gone again!,¡Se ha vuelto a ir!
+narrator,"「それでは、ごきげんよう。 　役立たずのネズミ取りさん」
 木々が揺れる音が四方からした。 それが消えると同時に、 マトリョーシカの気配も消えてしまった。","'Well then, good day to you. 　Useless mousetrap.”
 The sound of swaying trees came from all directions. As soon as it disappeared, so did the presence of Matryoshka.","'Buen día para ti entonces. 　Inútil cazador de ratas”.
 El sonido de los árboles que se balancean venía de todas las direcciones. En cuanto desapareció, también lo hizo la presencia de la matrioska."
-"Yamamoto Akuji (talking)","っ………また逃がしたか……","I'm sorry you missed it again:……… ……","Te lo has vuelto a perder……… ……"
-"Takega Satsu (talking)","よし。","All right.","DE ACUERDO."
-"Yamamoto Akuji (talking)","何がだよ？","What?","¿Qué?"
-"Takega Satsu (talking)","今夜は捕まらない方に賭けていたのだ。","Tonight I was betting on not getting caught.","Esta noche apostaban por no dejarse atrapar."
-"Yamamoto Akuji (talking)","なんだって~~！！？？","What did you say~!","¿Qué has dicho?"
-"Takega Satsu (talking)","これでしばらくは、 余裕ある暮らしが出来るな。","Now I can afford to live comfortably for a while.","Ahora podemos permitirnos vivir al límite durante un tiempo."
-"Yamamoto Akuji (talking)","いくら儲けたんだ？","How much money did you make?","¿Cuánto dinero has ganado?"
-"Takega Satsu (talking)","…………ふふふふっ……","………… hmmmmm ……","………… hmmm ……"
-"Yamamoto Akuji (talking)","あ、あくどい……","Ah, the yawning ……","Ah, el bostezo ……"
-"__system__??","{RND \ 0:","",""
-"Oosugi Tsuyoshi (talking)","若！","Young!","¡Joven!"
-"Yamamoto Akuji (talking)","おう、そっちは？","Oh, how about you?","¿Y tú?"
-"Oosugi Tsuyoshi (talking)","すみません。","Sorry.","Lo siento."
-"Yamamoto Akuji (talking)","そっか…","I see…","Oh, claro…"
-"Oosugi Tsuyoshi (talking)","僭越ながら。","I'm sorry to be presumptuous.","Presunción."
-"Yamamoto Akuji (talking)","なんだ？","What is it?","¿Qué es?"
-"Oosugi Tsuyoshi (talking)","この方法では奴を捕獲するのは、 無理かと。","I don't think we'll be able to capture him this way.","No creo que sea posible capturarlo de esta manera."
-"Yamamoto Akuji (talking)","なんかあるか？","What is it?","¿Qué es?"
-"Oosugi Tsuyoshi (talking)","隠れ家を見つけ、そこを一網打尽に すべきかと。","I think we should find a hiding place and round them up.","Deberíamos encontrar un escondite y acorralarlos."
-"Yamamoto Akuji (talking)","うーん……","Hmmm ……","Hmmm ……"
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","ここが、情報にあった 怪盗マトリョーシカの隠れ家が あるってとこか。","So this is where the phantom thief Matryoshka is hiding out, as I had heard.","Así que aquí es donde está el escondite del ladrón Matryoshka, según nuestra información."
-"Chinpira (talking)","へ、へい。 この辺りの小屋に………
+Yamamoto Akuji (talking),っ………また逃がしたか……,I'm sorry you missed it again:……… ……,Te lo has vuelto a perder……… ……
+Takega Satsu (talking),よし。,All right.,DE ACUERDO.
+Yamamoto Akuji (talking),何がだよ？,What?,¿Qué?
+Takega Satsu (talking),今夜は捕まらない方に賭けていたのだ。,Tonight I was betting on not getting caught.,Esta noche apostaban por no dejarse atrapar.
+Yamamoto Akuji (talking),なんだって~~！！？？,What did you say~!,¿Qué has dicho?
+Takega Satsu (talking),これでしばらくは、 余裕ある暮らしが出来るな。,Now I can afford to live comfortably for a while.,Ahora podemos permitirnos vivir al límite durante un tiempo.
+Yamamoto Akuji (talking),いくら儲けたんだ？,How much money did you make?,¿Cuánto dinero has ganado?
+Takega Satsu (talking),…………ふふふふっ……,………… hmmmmm ……,………… hmmm ……
+Yamamoto Akuji (talking),あ、あくどい……,"Ah, the yawning ……","Ah, el bostezo ……"
+__system__??,{RND \ 0:,,
+Oosugi Tsuyoshi (talking),若！,Young!,¡Joven!
+Yamamoto Akuji (talking),おう、そっちは？,"Oh, how about you?",¿Y tú?
+Oosugi Tsuyoshi (talking),すみません。,Sorry.,Lo siento.
+Yamamoto Akuji (talking),そっか…,I see…,"Oh, claro…"
+Oosugi Tsuyoshi (talking),僭越ながら。,I'm sorry to be presumptuous.,Presunción.
+Yamamoto Akuji (talking),なんだ？,What is it?,¿Qué es?
+Oosugi Tsuyoshi (talking),この方法では奴を捕獲するのは、 無理かと。,I don't think we'll be able to capture him this way.,No creo que sea posible capturarlo de esta manera.
+Yamamoto Akuji (talking),なんかあるか？,What is it?,¿Qué es?
+Oosugi Tsuyoshi (talking),隠れ家を見つけ、そこを一網打尽に すべきかと。,I think we should find a hiding place and round them up.,Deberíamos encontrar un escondite y acorralarlos.
+Yamamoto Akuji (talking),うーん……,Hmmm ……,Hmmm ……
+__system__??,},,
+Yamamoto Akuji (talking),ここが、情報にあった 怪盗マトリョーシカの隠れ家が あるってとこか。,"So this is where the phantom thief Matryoshka is hiding out, as I had heard.","Así que aquí es donde está el escondite del ladrón Matryoshka, según nuestra información."
+Chinpira (talking),"へ、へい。 この辺りの小屋に………
 あ、悪司さん、あれ！","Heh, heh. I'm in a shack around here: ………
 Oh, Akuji, that!","Je, je. Estoy en un cobertizo por aquí: ………
  ¡Oh, Akuji, eso!"
-"Yamamoto Akuji (talking)","ん……？","Hm ……?","Hmm ……?"
-"Phantom Thief M. (talking)","ふう……今日も大量大量。","Fuu…… large amount large amount today.","Fuu…… grandes cantidades hoy, grandes cantidades de nuevo."
-"narrator","部下が指さした方に、 怪盗マトリョーシカがいた。
+Yamamoto Akuji (talking),ん……？,Hm ……?,Hmm ……?
+Phantom Thief M. (talking),ふう……今日も大量大量。,Fuu…… large amount large amount today.,"Fuu…… grandes cantidades hoy, grandes cantidades de nuevo."
+narrator,"部下が指さした方に、 怪盗マトリョーシカがいた。
 マトリョーシカは、情報にあった 小屋の中に姿を消した。 悪司達には、気づかずに……","The thief, Matryoshka, was in the direction where the subordinate pointed.
 Matryoshka disappeared into a hut that had been informed of. Akuji and the others were unaware of it……","Sus hombres señalaron en dirección al ladrón fantasma Matryoshka.
 Matryoshka desapareció en la cabaña donde había sido informado. Akuji y sus hombres no lo sabían……"
-"Yamamoto Akuji (talking)","ドンピシャだ。","Don't miss it.","Don Piss."
-"Chinpira (talking)","へ、へい。 さっそく、踏み込みますか？","Hey, hey. Shall we step right in?","Je, je. ¿Entramos directamente?"
-"Yamamoto Akuji (talking)","まだだ。 出てきて、気ぃ抜けてるとこを、 一気に叩く。","Not yet. I'm going to come out and smack him when he's not feeling like it.","Todavía no. Voy a salir, y cuando te sientas un poco fuera de sí, te voy a golpear."
-"Chinpira (talking)","へ、へい。","Heh, heh.","Je, je."
-"narrator","それから３０分程して、小屋の扉が開いた。","About half an hour later, the door to the hut opened.","Una media hora después, la puerta de la cabaña se abrió."
-"narrator","そこから出てきたのは、竹井つかさだった。","Out of it came Takei Tsukasa.","De ella salió Takei Tsukasa."
-"Takei Tsukasa (talking)","さて……これで明日も、貧乏な人に施しを 与える事が出来るわね。 明日は、どの辺りに……","Well…… now you can give alms to the poor tomorrow. Tomorrow, where are you going to……","Bueno…… ahora puedes dar limosna a los pobres mañana. Mañana, dónde vas a……"
-"Yamamoto Akuji (talking)","どーしたんですかい。 その金は。","What's going on? That money.","¿Qué está pasando? Ese dinero."
-"Takei Tsukasa (talking)","あなたはっ……！！","You are ……!","¡Eres ……!"
-"Yamamoto Akuji (talking)","いやいや。 良家の子女が、ドロボーねー。 世も末だぜ。","No, no, no. A child of a good family is a slob. It's the end of the world.","No, no. Un hijo de una buena familia es un vago. Es el fin del mundo."
-"Takei Tsukasa (talking)","な、なんの事ですかしら？ 私、ちっともわからないですわ！","What are you talking about? I have no idea!","¿De qué estás hablando? ¡No tengo la menor idea!"
-"Yamamoto Akuji (talking)","もう逃げられねーぜ。 一部始終を見てたんだからよ。 さ、一緒にきてもらおうか。","I can't get away anymore. Because I was watching the whole thing. Well, shall we come with you?","Ya no puedo escapar. Porque estaba viendo todo. Bueno, ¿vendremos contigo?"
-"Takei Tsukasa (talking)","くっ……！","Damn ……!","¡Maldito ……!"
-"narrator","つかさは逃げようとドレスの裾を掴んだ。","Tsukasa grabbed the hem of her dress to escape.","Tsukasa se agarró al dobladillo de su vestido para escapar."
-"Yamamoto Akuji (talking)","おおっと。","Oops.","Uy."
-"Takei Tsukasa (talking)","きゃあ！？","Aaah!","¡Aaah!"
-"narrator","そのつかさの腕を掴む悪司。","Akuji grabs Tsukasa's arm.","El Akuji agarra el brazo del Tsukasa."
-"Yamamoto Akuji (talking)","どーやらあのカッコでないと、 身軽に動けねーみたいだな。
+Yamamoto Akuji (talking),ドンピシャだ。,Don't miss it.,Don Piss.
+Chinpira (talking),へ、へい。 さっそく、踏み込みますか？,"Hey, hey. Shall we step right in?","Je, je. ¿Entramos directamente?"
+Yamamoto Akuji (talking),まだだ。 出てきて、気ぃ抜けてるとこを、 一気に叩く。,Not yet. I'm going to come out and smack him when he's not feeling like it.,"Todavía no. Voy a salir, y cuando te sientas un poco fuera de sí, te voy a golpear."
+Chinpira (talking),へ、へい。,"Heh, heh.","Je, je."
+narrator,それから３０分程して、小屋の扉が開いた。,"About half an hour later, the door to the hut opened.","Una media hora después, la puerta de la cabaña se abrió."
+narrator,そこから出てきたのは、竹井つかさだった。,Out of it came Takei Tsukasa.,De ella salió Takei Tsukasa.
+Takei Tsukasa (talking),さて……これで明日も、貧乏な人に施しを 与える事が出来るわね。 明日は、どの辺りに……,"Well…… now you can give alms to the poor tomorrow. Tomorrow, where are you going to……","Bueno…… ahora puedes dar limosna a los pobres mañana. Mañana, dónde vas a……"
+Yamamoto Akuji (talking),どーしたんですかい。 その金は。,What's going on? That money.,¿Qué está pasando? Ese dinero.
+Takei Tsukasa (talking),あなたはっ……！！,You are ……!,¡Eres ……!
+Yamamoto Akuji (talking),いやいや。 良家の子女が、ドロボーねー。 世も末だぜ。,"No, no, no. A child of a good family is a slob. It's the end of the world.","No, no. Un hijo de una buena familia es un vago. Es el fin del mundo."
+Takei Tsukasa (talking),な、なんの事ですかしら？ 私、ちっともわからないですわ！,What are you talking about? I have no idea!,¿De qué estás hablando? ¡No tengo la menor idea!
+Yamamoto Akuji (talking),もう逃げられねーぜ。 一部始終を見てたんだからよ。 さ、一緒にきてもらおうか。,"I can't get away anymore. Because I was watching the whole thing. Well, shall we come with you?","Ya no puedo escapar. Porque estaba viendo todo. Bueno, ¿vendremos contigo?"
+Takei Tsukasa (talking),くっ……！,Damn ……!,¡Maldito ……!
+narrator,つかさは逃げようとドレスの裾を掴んだ。,Tsukasa grabbed the hem of her dress to escape.,Tsukasa se agarró al dobladillo de su vestido para escapar.
+Yamamoto Akuji (talking),おおっと。,Oops.,Uy.
+Takei Tsukasa (talking),きゃあ！？,Aaah!,¡Aaah!
+narrator,そのつかさの腕を掴む悪司。,Akuji grabs Tsukasa's arm.,El Akuji agarra el brazo del Tsukasa.
+Yamamoto Akuji (talking),"どーやらあのカッコでないと、 身軽に動けねーみたいだな。
 ああ、そうか… あんた、欧州の方で、新体操やってたって 杏ばーさん言ってたな。
 身の軽さは、そのせいか。","I guess I can't move so easily without that outfit.
 Oh, I see… You were doing Shin-tai Misao in Europe, says Grandma An.
 Is that why you're so light?","Parece que tengo que llevar ese conjunto para moverme con ligereza.
 Ah, ya veo… estabas haciendo el nuevo cuerpo Misao en Europa, dice la tía An.
  ¿Es por eso que eres tan ligero?"
-"Takei Tsukasa (talking)","は、離しなさい！ 私にはまだすることがあるの！ 腐敗した資本主義を……","Let go of me! I still have things to do! Corrupt capitalism at ……","¡Suéltame! ¡Todavía tengo cosas que hacer! El capitalismo corrupto en ……"
-"Yamamoto Akuji (talking)","一名様、捕虜部屋へご案内~。","One person will be taken to the POW room~.","Una persona es llevada a la sala de prisioneros de guerra~."
-"Henry Ru (talking)","ふふん、　ふんふ~~ん♪","Mm-hmm. Mm-hmm. Mm-hmm.","Mm-hmm, mm-hmm, mm-hmm."
-"narrator","ヘンリーがご機嫌に歩いている。","Henry is walking around in a good mood.","Henry anda de buen humor."
-" (talking)","ほーーほほほほっ！","Ho-ho-ho!","¡Ho ho ho ho!"
-"Henry Ru (talking)","ん~？","Hmm?","¿Hmm?"
-"Phantom Thief M. (talking)","あなたのお財布、すらせて頂きましたわ、 お金持ちのウィミィ人さん！","I've been emptying your wallets, rich Wime man!","¡Hemos estado asaltando tus carteras, hombre rico Wime!"
-"Henry Ru (talking)","おーウ、なにごとデーす！！？？","Oh wow, what's going on?","Oh, wow, ¿qué está pasando?"
-"Phantom Thief M. (talking)","私は、義賊。 怪盗マトリョーシカ！
+Takei Tsukasa (talking),は、離しなさい！ 私にはまだすることがあるの！ 腐敗した資本主義を……,Let go of me! I still have things to do! Corrupt capitalism at ……,¡Suéltame! ¡Todavía tengo cosas que hacer! El capitalismo corrupto en ……
+Yamamoto Akuji (talking),一名様、捕虜部屋へご案内~。,One person will be taken to the POW room~.,Una persona es llevada a la sala de prisioneros de guerra~.
+Henry Ru (talking),ふふん、　ふんふ~~ん♪,Mm-hmm. Mm-hmm. Mm-hmm.,"Mm-hmm, mm-hmm, mm-hmm."
+narrator,ヘンリーがご機嫌に歩いている。,Henry is walking around in a good mood.,Henry anda de buen humor.
+ (talking),ほーーほほほほっ！,Ho-ho-ho!,¡Ho ho ho ho!
+Henry Ru (talking),ん~？,Hmm?,¿Hmm?
+Phantom Thief M. (talking),あなたのお財布、すらせて頂きましたわ、 お金持ちのウィミィ人さん！,"I've been emptying your wallets, rich Wime man!","¡Hemos estado asaltando tus carteras, hombre rico Wime!"
+Henry Ru (talking),おーウ、なにごとデーす！！？？,"Oh wow, what's going on?","Oh, wow, ¿qué está pasando?"
+Phantom Thief M. (talking),"私は、義賊。 怪盗マトリョーシカ！
 貧富の差是正の為に、 その金お預かりします！","I am a righteous bandit. I am the thief Matryoshka!
 I'll take that money to correct the gap between the rich and the poor!","Soy un bandido justo. ¡Soy la ladrona Matryoshka!
  ¡Tomaré ese dinero para ayudar a corregir la brecha entre los ricos y los pobres!"
-"Henry Ru (talking)","オォウ！ あナたが、マトリョーシカでスかー！ エックセレント！！","Oh, wow! You're a matryoshka! ECCELENT!!!!","¡Oh, no! ¡Anata wa matryoshka! ¡Excelente!"
-"Phantom Thief M. (talking)","え？","Huh?","¿Eh?"
-"Henry Ru (talking)","お金ならもっト、モット差し上げマーす！ ソのかわリ、オ願い、ありマーす！
+Henry Ru (talking),オォウ！ あナたが、マトリョーシカでスかー！ エックセレント！！,"Oh, wow! You're a matryoshka! ECCELENT!!!!","¡Oh, no! ¡Anata wa matryoshka! ¡Excelente!"
+Phantom Thief M. (talking),え？,Huh?,¿Eh?
+Henry Ru (talking),"お金ならもっト、モット差し上げマーす！ ソのかわリ、オ願い、ありマーす！
 今、アなたが着ている、ソのレオタード ワタシに売っテくダサーい！
 汗デ、股間がむんむ~ン！ すんっパらシー！！","I'll give you all the money you want! I have a favor to ask of you!
 Please sell me that leotard you're wearing right now!
 My crotch is sweating! I'm so sweaty, my crotch is so sweaty!","¡Te daré todo el dinero que quieras! ¡Tengo un deseo!
  ¡Quiero que me vendas ese leotardo que llevas puesto ahora mismo!
  ¡Estoy tan sudado que me duele la entrepierna! ¡Estoy tan sudado, mi entrepierna está tan sudada!"
-"Phantom Thief M. (talking)","へ、変態… 最悪…… 資本主義が産み出した魔物だわっ…！","Heh, pervert… Worst of all…… capitalism spawned these demons…!","Je, pervertidos… Peor…… ¡Son los demonios del capitalismo…!"
-"narrator","マトリョーシカは慌ててその場から立ち去った。","Matryoshka left the place in a hurry.","Matryoshka abandonó la escena a toda prisa."
-"Henry Ru (talking)","オーノー！！ 待て、クだサーい！！ ワタシの、むんむんレオターードッッ！！","Oh no! Wait, wait, wait, wait! My muuuuungggggggg leotard!","¡Oh, no! ¡Espera, espera, espera, espera! ¡Mi leotardo muniqués!"
-"karasuba  tsuki (talking)","かいと~？","Kaito~?","¿Kaito?"
-"chiankashokuin (talking)","ええ、そう。 ヘグリの金持ちばかりを狙って。","Yes, yes. Aimed only at the rich people of Hegri.","Sí, sí. Dirigido sólo a los ricos de Hegli."
-"karasuba  tsuki (talking)","義賊ってやつ？","A righteous bandit, you say?","¿Un bandido honrado, dices?"
-"chiankashokuin (talking)","まーね。 あ、でもあたしの立場でそーいうの 肯定するのって、やばいわね。","Well, yeah. But it's not right to approve of such things from my point of view.","Bueno, sí. Ah, pero no es correcto aprobar ese tipo de cosas desde mi punto de vista."
-"karasuba  tsuki (talking)","君と僕との間で秘密が増えたって事に しとこうね。","Let's just say there are more secrets between you and me.","Digamos que hay más secretos entre tú y yo."
-"chiankashokuin (talking)","もう、何人にそー言ってるんだか。","I don't know how many people I've already said that to.","No sé a cuántas personas se lo he dicho ya."
-"karasuba  tsuki (talking)","今は君だけだよ。 あ、そうそう、今夜の約束、 忘れないでよ。","It's just you now. Oh, yeah, don't forget our appointment tonight.","Ahora sólo eres tú. Oh, sí, no olvides nuestra cita de esta noche."
-"chiankashokuin (talking)","もちろんよ。 その後も…ね。","Of course. And after that… you know.","Por supuesto. Y después…"
-"karasuba  tsuki (talking)","ふふーん。 僕、そーいう子、大好きさ。","Hmmm. I love girls like that.","Mmm-hmm. Me encantan las chicas así."
-"chiankashokuin (talking)","ありがと。 あたしもあなたみたいな男、大好きよ。","Thanks. I love guys like you too.","Gracias. Yo también quiero a los hombres como tú."
-"narrator","鴉葉は治安課職員に軽くキスしてから 外に出た。","Karasuba kissed the security official lightly and then walked out.","Karasuba besó levemente a un funcionario de la Subdirección de Seguridad antes de salir."
-"karasuba  tsuki (talking)","おろ？","Oro?","¿Oro?"
-"karasuba  tsuki (talking)","こんちわ。 確か、竹井さんとこのお孫さんの つかささん。","Hello. As I recall, Takei and his grandson Tsukasa.","Buenas noches. Según recuerdo, Takei y su nieto Tsukasa."
-"Takei Tsukasa (talking)","あら、こんにちは。 鴉葉さん。","Oh, hello. Karasuba.","Ah, hola. Karasuba."
-"karasuba  tsuki (talking)","いつ見ても綺麗だね。 今からデートしてくれる？","You're always beautiful. Will you take me on a date now?","Siempre eres hermosa. ¿Me llevarás a una cita ahora?"
-"Takei Tsukasa (talking)","ごめんなさい。 今、忙しいんです。","I'm sorry. I'm busy right now.","Lo siento. Estoy ocupado en este momento."
-"karasuba  tsuki (talking)","そ、残念。","That's too bad.","Pues es una pena."
-"Kimura Danpaku (talking)","ふう………","Fu ………","Fu ………"
-"narrator","弾白はとぼとぼと歩いていた。","Danpaku was walking at a sluggish pace.","Danpaku caminaba a paso lento."
-"Kimura Danpaku (talking)","また、お金がなくなった… 風俗は気持ちいいけど、 お金が…お金がかかって……
+Phantom Thief M. (talking),へ、変態… 最悪…… 資本主義が産み出した魔物だわっ…！,"Heh, pervert… Worst of all…… capitalism spawned these demons…!","Je, pervertidos… Peor…… ¡Son los demonios del capitalismo…!"
+narrator,マトリョーシカは慌ててその場から立ち去った。,Matryoshka left the place in a hurry.,Matryoshka abandonó la escena a toda prisa.
+Henry Ru (talking),オーノー！！ 待て、クだサーい！！ ワタシの、むんむんレオターードッッ！！,"Oh no! Wait, wait, wait, wait! My muuuuungggggggg leotard!","¡Oh, no! ¡Espera, espera, espera, espera! ¡Mi leotardo muniqués!"
+karasuba  tsuki (talking),かいと~？,Kaito~?,¿Kaito?
+chiankashokuin (talking),ええ、そう。 ヘグリの金持ちばかりを狙って。,"Yes, yes. Aimed only at the rich people of Hegri.","Sí, sí. Dirigido sólo a los ricos de Hegli."
+karasuba  tsuki (talking),義賊ってやつ？,"A righteous bandit, you say?","¿Un bandido honrado, dices?"
+chiankashokuin (talking),まーね。 あ、でもあたしの立場でそーいうの 肯定するのって、やばいわね。,"Well, yeah. But it's not right to approve of such things from my point of view.","Bueno, sí. Ah, pero no es correcto aprobar ese tipo de cosas desde mi punto de vista."
+karasuba  tsuki (talking),君と僕との間で秘密が増えたって事に しとこうね。,Let's just say there are more secrets between you and me.,Digamos que hay más secretos entre tú y yo.
+chiankashokuin (talking),もう、何人にそー言ってるんだか。,I don't know how many people I've already said that to.,No sé a cuántas personas se lo he dicho ya.
+karasuba  tsuki (talking),今は君だけだよ。 あ、そうそう、今夜の約束、 忘れないでよ。,"It's just you now. Oh, yeah, don't forget our appointment tonight.","Ahora sólo eres tú. Oh, sí, no olvides nuestra cita de esta noche."
+chiankashokuin (talking),もちろんよ。 その後も…ね。,Of course. And after that… you know.,Por supuesto. Y después…
+karasuba  tsuki (talking),ふふーん。 僕、そーいう子、大好きさ。,Hmmm. I love girls like that.,Mmm-hmm. Me encantan las chicas así.
+chiankashokuin (talking),ありがと。 あたしもあなたみたいな男、大好きよ。,Thanks. I love guys like you too.,Gracias. Yo también quiero a los hombres como tú.
+narrator,鴉葉は治安課職員に軽くキスしてから 外に出た。,Karasuba kissed the security official lightly and then walked out.,Karasuba besó levemente a un funcionario de la Subdirección de Seguridad antes de salir.
+karasuba  tsuki (talking),おろ？,Oro?,¿Oro?
+karasuba  tsuki (talking),こんちわ。 確か、竹井さんとこのお孫さんの つかささん。,"Hello. As I recall, Takei and his grandson Tsukasa.","Buenas noches. Según recuerdo, Takei y su nieto Tsukasa."
+Takei Tsukasa (talking),あら、こんにちは。 鴉葉さん。,"Oh, hello. Karasuba.","Ah, hola. Karasuba."
+karasuba  tsuki (talking),いつ見ても綺麗だね。 今からデートしてくれる？,You're always beautiful. Will you take me on a date now?,Siempre eres hermosa. ¿Me llevarás a una cita ahora?
+Takei Tsukasa (talking),ごめんなさい。 今、忙しいんです。,I'm sorry. I'm busy right now.,Lo siento. Estoy ocupado en este momento.
+karasuba  tsuki (talking),そ、残念。,That's too bad.,Pues es una pena.
+Kimura Danpaku (talking),ふう………,Fu ………,Fu ………
+narrator,弾白はとぼとぼと歩いていた。,Danpaku was walking at a sluggish pace.,Danpaku caminaba a paso lento.
+Kimura Danpaku (talking),"また、お金がなくなった… 風俗は気持ちいいけど、 お金が…お金がかかって……
 でも、やめられないんだよな… 頑張って、働くしか……","Also, I'm out of money… sex work feels good, but it costs… a lot of money……
 But I can't stop… I have to work hard and work hard ……","He vuelto a perder dinero… el trabajo sexual sienta bien, pero cuesta… mucho dinero……
 Pero no puedo parar… Tengo que trabajar duro……"
-"Takei Tsukasa (talking)","あの、貧乏人ですか？","Um, are you poor?","¿Eres pobre?"
-"Kimura Danpaku (talking)","えっ……そ、そうだけど… その……","What…… yes, but… its ……","Qué…… sí, pero… que ……"
-"Kimura Danpaku (thinking)","か、可愛いのに、 なんて失礼な女の子なんだ…","What a rude girl…","Qué chica tan grosera, es tan bonita…"
-"Takei Tsukasa (talking)","これ、恵んであげます。","Here, I'll give you a blessing.","Aquí, te daré una bendición."
-"narrator","弾白は、５０００円もらった。","Danpaku received 5,000 yen.","Danpaku recibió 5.000 yenes."
-"Takei Tsukasa (talking)","これで、おにぎりでも食べて下さい。 貧乏だからってくじけたらだめですよ。
+Takei Tsukasa (talking),あの、貧乏人ですか？,"Um, are you poor?",¿Eres pobre?
+Kimura Danpaku (talking),えっ……そ、そうだけど… その……,"What…… yes, but… its ……","Qué…… sí, pero… que ……"
+Kimura Danpaku (thinking),か、可愛いのに、 なんて失礼な女の子なんだ…,What a rude girl…,"Qué chica tan grosera, es tan bonita…"
+Takei Tsukasa (talking),これ、恵んであげます。,"Here, I'll give you a blessing.","Aquí, te daré una bendición."
+narrator,弾白は、５０００円もらった。,"Danpaku received 5,000 yen.",Danpaku recibió 5.000 yenes.
+Takei Tsukasa (talking),"これで、おにぎりでも食べて下さい。 貧乏だからってくじけたらだめですよ。
 それでは、失礼します。","Please eat a rice ball with this. Don't be discouraged just because you are poor.
 Now, if you'll excuse me.","Toma, come algunos onigiri (bolas de arroz). No te desanimes porque seas pobre.
 Ahora, si me disculpan."
-"Kimura Danpaku (talking)","…………て、天使か………","………… and you're an angel or ………","………… y ¿eres un ángel? ………"
-"Kishin Raizou (talking)","いやー、悪司君、ご苦労様。 怪盗マトリョーシカを捕まえて くれてありがとう。
+Kimura Danpaku (talking),…………て、天使か………,………… and you're an angel or ………,………… y ¿eres un ángel? ………
+Kishin Raizou (talking),"いやー、悪司君、ご苦労様。 怪盗マトリョーシカを捕まえて くれてありがとう。
 本当、君は頼りになるよ、色々とね。
 ああ、忘れるところだった。 これはお礼だ。 受け取ってくれたまえ。
 それじゃあ、失礼するよ。","Well, Akuji, thank you for your efforts. Thank you for catching the thief Matryoshka.
@@ -750,16 +750,16 @@ Now, if you'll excuse me.","Bueno, Akuji, gracias por tus esfuerzos. Gracias por
 Eres realmente fiable, en más de un sentido.
 Oh, casi lo olvido. Este es mi agradecimiento. Por favor, acéptelo.
 Ahora, si me disculpan."
-"Phantom Thief M. (talking)","うふふふふっ…","Mmmmmm…","Mm-hmm…"
-"Chinpira (talking)","待てー！！ 待ちやがれ、こんちくしょー！！","Wait! Wait for me, damn it!","¡Espera! ¡Espérame, maldita sea!"
-"narrator","怪盗マトリョーシカ――竹井つかさは 追っ手をまき、木の上で戦利品を見つめていた。","The thief Matryoshka--Takei Tsukasa, his pursuers on the tree, staring at his loot.","El ladrón Matryoshka - Takei Tsukasa - estaba mirando su botín en un árbol, con sus perseguidores pisándole los talones."
-"Phantom Thief M. (talking)","今日も大量…これでまた、何人かの 貧民を救う事が出来るわ…","Another day, another batch… and now we can save some more poor people…","Otro día, otro lote… ahora podemos salvar a más pobres…"
-" (talking)","お帰りなさい、つかさ。","Welcome back, Tsukasa.","Bienvenido, Tsukasa."
-"Takei Tsukasa (talking)","ただいま戻りました。 お婆様。","I'm back. Grandma.","He vuelto. La abuela."
-"Takei An (talking)","あなた…時々ふらふらと出歩いて いるようだけど…
+Phantom Thief M. (talking),うふふふふっ…,Mmmmmm…,Mm-hmm…
+Chinpira (talking),待てー！！ 待ちやがれ、こんちくしょー！！,"Wait! Wait for me, damn it!","¡Espera! ¡Espérame, maldita sea!"
+narrator,怪盗マトリョーシカ――竹井つかさは 追っ手をまき、木の上で戦利品を見つめていた。,"The thief Matryoshka--Takei Tsukasa, his pursuers on the tree, staring at his loot.","El ladrón Matryoshka - Takei Tsukasa - estaba mirando su botín en un árbol, con sus perseguidores pisándole los talones."
+Phantom Thief M. (talking),今日も大量…これでまた、何人かの 貧民を救う事が出来るわ…,"Another day, another batch… and now we can save some more poor people…","Otro día, otro lote… ahora podemos salvar a más pobres…"
+ (talking),お帰りなさい、つかさ。,"Welcome back, Tsukasa.","Bienvenido, Tsukasa."
+Takei Tsukasa (talking),ただいま戻りました。 お婆様。,I'm back. Grandma.,He vuelto. La abuela.
+Takei An (talking),"あなた…時々ふらふらと出歩いて いるようだけど…
 戦争は終わったといっても、怪盗が出たり なんだか物騒だから、わたしは 心配しているのだけれど…","You seem to wander about from time to time…
 Even though the war is over, I'm still worried about you because of the robberies and other disturbances…","Parece que te alejas de vez en cuando…
 Aunque la guerra haya terminado, sigo preocupado por ti, porque sigues siendo un poco peligroso…"
-"Takei Tsukasa (talking)","大丈夫ですわ。 お婆様は正しいお方ですから。","Don't worry. The old lady is a righteous woman.","No pasa nada. La abuela es una mujer justa."
-"Takei An (talking)","え…？","Eh…?","¿Eh?"
-"Takei Tsukasa (talking)","うふふ。","Hmmm.","Ajá."
+Takei Tsukasa (talking),大丈夫ですわ。 お婆様は正しいお方ですから。,Don't worry. The old lady is a righteous woman.,No pasa nada. La abuela es una mujer justa.
+Takei An (talking),え…？,Eh…?,¿Eh?
+Takei Tsukasa (talking),うふふ。,Hmmm.,Ajá.

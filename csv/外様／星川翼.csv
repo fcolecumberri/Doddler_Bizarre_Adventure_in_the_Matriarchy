@@ -1,130 +1,130 @@
-"character","jap text","Eng","Esp"
-"__system__??","{麦 = 1:","",""
-"__system__??","{☆星川翼 = 2:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 3:","",""
-"__system__??","}","",""
-"Hoshikawa Tsubasa (talking)","こんな風に男に呼び出されるのって、 不思議な気分だね。","It's a strange feeling to be summoned by a man like this.","Es una sensación extraña, ser convocado por un hombre así."
-"Yamamoto Akuji (talking)","そーいやよぉ。","Oh, yeah.","Ah, sí."
-"Hoshikawa Tsubasa (talking)","ん？","Hmm?","¿Eh?"
-"Yamamoto Akuji (talking)","ヌキメってなんだよ？","What's a nookieme?","¿Qué es un nookieme?"
-"Hoshikawa Tsubasa (talking)","ああ、目貫だよ。 め・ぬ・き。
+character,jap text,Eng,Esp
+__system__??,{麦 = 1:,,
+__system__??,{☆星川翼 = 2:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 3:,,
+__system__??,},,
+Hoshikawa Tsubasa (talking),こんな風に男に呼び出されるのって、 不思議な気分だね。,It's a strange feeling to be summoned by a man like this.,"Es una sensación extraña, ser convocado por un hombre así."
+Yamamoto Akuji (talking),そーいやよぉ。,"Oh, yeah.","Ah, sí."
+Hoshikawa Tsubasa (talking),ん？,Hmm?,¿Eh?
+Yamamoto Akuji (talking),ヌキメってなんだよ？,What's a nookieme?,¿Qué es un nookieme?
+Hoshikawa Tsubasa (talking),"ああ、目貫だよ。 め・ぬ・き。
 目貫っていうのはね、自分で言うのも ヘンだけど、抜群の動体視力でもって、 物体の破砕点を見抜く能力なんだ。","Oh, it's Menuki. Menuki.
 Menuki, as I call it, is the ability to detect the breaking point of an object with excellent kinetic vision.","Sí, es un menuki. Menuki.
 Menuki, como yo lo llamo, es la capacidad de ver a través de la fractura de un objeto con una excelente visión cinética."
-"Yamamoto Akuji (talking)","ん…？","Hmm…?","¿Hmm…?"
-"Hoshikawa Tsubasa (talking)","あ、人間の躰にツボってあるだろ？ 物には、そーいうのでここを突くと 壊れるっていう一点があるんだ。
+Yamamoto Akuji (talking),ん…？,Hmm…?,¿Hmm…?
+Hoshikawa Tsubasa (talking),"あ、人間の躰にツボってあるだろ？ 物には、そーいうのでここを突くと 壊れるっていう一点があるんだ。
 僕はそれを見抜く能力がある。 それを見込まれて、ある者と戦ってる。
 それと戦う者を、火者というんだ。","You know how there are pressure points on the human body? There is a point on an object that if you hit it, it will break.
 I have the ability to recognize it. I am fighting a certain person because of it.
 The one who fights against it is called a fireman.","¿Sabes que hay puntos de presión en el cuerpo humano? Hay un punto en un objeto que, si lo golpeas, se romperá.
 Tengo la capacidad de reconocerlo. Estoy luchando con cierta persona por ello.
 El que lucha contra ella se llama bombero."
-"Yamamoto Akuji (talking)","ふーん、火者ねぇ……
+Yamamoto Akuji (talking),"ふーん、火者ねぇ……
 お前さんの婚約者も、 その火者なのかい？","Hmmm, a fireman……
 Is your fiancée one of those fire breathers?","Hmm, un bombero……
  ¿Su prometida también es una incendiaria?"
-"Hoshikawa Tsubasa (talking)","違うよ。 彼女は……
+Hoshikawa Tsubasa (talking),"違うよ。 彼女は……
  ………敵だったけど、今は違う…と いうとこかな。","No, it's not. She was ……
 She was an……… enemy, but now she's not…sort of.","No, no lo es. Ella era …………… enemigo, pero ahora no es… no sé."
-"Yamamoto Akuji (talking)","ふーん… 色々あるねー。","Hmmm… there's a lot going on.","Hmmm… están pasando muchas cosas."
-"Hoshikawa Tsubasa (talking)","そうだね。","Yes, it is.","Sí."
-"Hoshikawa Tsubasa (talking)","ハーイ。","Hi.","Hola."
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Yamamoto Akuji (talking)","んじゃあよ、これ、結婚資金の 足しにでもしてくんな。","Well, you can use this as an addition to your wedding fund or something.","Pues bien, puedes utilizarlo como complemento de tu fondo de bodas."
-"narrator","悪司は給料とは別に、 まとまった金を翼に渡した。","Akuji gave Tsubasa a sum of money in addition to his salary.","Akuji dio a Tsubasa una suma de dinero además de su salario."
-"Hoshikawa Tsubasa (talking)","サンキュ。 助かるよ。","Thank you. That's a big help.","Gracias. Eso es muy útil."
-"narrator","悪司と殺は、二人で街はずれにある 小さな平屋の前にいた。","Akuji and Satsu were in front of a small one-story house on the outskirts of town.","Akuji y Satsu estaban juntos frente a una pequeña casa de una planta en las afueras de la ciudad."
-"Yamamoto Akuji (talking)","ここに、その噂のつえー奴がいるってか。","So here's that tough guy they've been talking about.","Así que aquí es donde está el rumor del tipo duro."
-"Takega Satsu (talking)","らしいな。","I hear that.","Aparentemente."
-"Yamamoto Akuji (talking)","さーて、ベル、ベルと…","Well, bells, bells and…","Bueno, campanas, campanas y…"
-"narrator","悪司はベルを捜していて、家の前に 貼り紙を見つけた。","Akuji was looking for Bell and found a sign in front of his house.","Akuji estaba buscando a Bell y encontró un aviso frente a su casa."
-"Yamamoto Akuji (talking)","んっ……なになに……
+Yamamoto Akuji (talking),ふーん… 色々あるねー。,Hmmm… there's a lot going on.,Hmmm… están pasando muchas cosas.
+Hoshikawa Tsubasa (talking),そうだね。,"Yes, it is.",Sí.
+Hoshikawa Tsubasa (talking),ハーイ。,Hi.,Hola.
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Yamamoto Akuji (talking),んじゃあよ、これ、結婚資金の 足しにでもしてくんな。,"Well, you can use this as an addition to your wedding fund or something.","Pues bien, puedes utilizarlo como complemento de tu fondo de bodas."
+narrator,悪司は給料とは別に、 まとまった金を翼に渡した。,Akuji gave Tsubasa a sum of money in addition to his salary.,Akuji dio a Tsubasa una suma de dinero además de su salario.
+Hoshikawa Tsubasa (talking),サンキュ。 助かるよ。,Thank you. That's a big help.,Gracias. Eso es muy útil.
+narrator,悪司と殺は、二人で街はずれにある 小さな平屋の前にいた。,Akuji and Satsu were in front of a small one-story house on the outskirts of town.,Akuji y Satsu estaban juntos frente a una pequeña casa de una planta en las afueras de la ciudad.
+Yamamoto Akuji (talking),ここに、その噂のつえー奴がいるってか。,So here's that tough guy they've been talking about.,Así que aquí es donde está el rumor del tipo duro.
+Takega Satsu (talking),らしいな。,I hear that.,Aparentemente.
+Yamamoto Akuji (talking),さーて、ベル、ベルと…,"Well, bells, bells and…","Bueno, campanas, campanas y…"
+narrator,悪司はベルを捜していて、家の前に 貼り紙を見つけた。,Akuji was looking for Bell and found a sign in front of his house.,Akuji estaba buscando a Bell y encontró un aviso frente a su casa.
+Yamamoto Akuji (talking),"んっ……なになに……
 お仕事請け負います。 こちらはめ……め…め…","Hmmm ……What is it ……
 I'll take care of the work. This is Hame…… and this is Hame… Hame…","Hmm…… qué es ……
 Nos ocupamos de los negocios. Esto es Hame…… Hame… Hame…"
-"Takega Satsu (talking)","目貫…めぬきと読むのではないか？","Menuki…isn't it read as menuki?","Menuki… ¿no se lee como menuki?"
-"Yamamoto Akuji (talking)","おおっ。 えー、目貫のホッシーこと、星川翼…
+Takega Satsu (talking),目貫…めぬきと読むのではないか？,Menuki…isn't it read as menuki?,Menuki… ¿no se lee como menuki?
+Yamamoto Akuji (talking),"おおっ。 えー、目貫のホッシーこと、星川翼…
  ………なんのこっちゃ。","Oh. Well, Hoshie of Menuki, Hoshikawa Tsubasa…
  ………What the heck.","Oh. Er, Hoshie en Menuki, Hoshikawa Tsubasa………… ¿Qué demonios?"
-"Takega Satsu (talking)","本人に聞いてみたらいいだろう。","You should ask him about it.","Sería una buena idea preguntarle."
-"Yamamoto Akuji (talking)","それもそーだ。 あ、ベルめっけ。","That's right, too. Oh, I see a bell.","Eso también es cierto. Oh, veo una campana."
-"narrator","　　［ぴーんぽーん］
+Takega Satsu (talking),本人に聞いてみたらいいだろう。,You should ask him about it.,Sería una buena idea preguntarle.
+Yamamoto Akuji (talking),それもそーだ。 あ、ベルめっけ。,"That's right, too. Oh, I see a bell.","Eso también es cierto. Oh, veo una campana."
+narrator,"　　［ぴーんぽーん］
  「はーい？」
 家の中から声がしたかと思うと、 すぐに扉が開いた。","［”Yes?]
  “Yes?”
 I thought I heard a voice from inside the house, and immediately the door opened.","[pitido]
  “¿Sí?
 En cuanto me pareció oír una voz desde el interior de la casa, la puerta se abrió."
-"Hoshikawa Tsubasa (talking)","どちらさん？","Who are you?","¿Cuál?"
-"Yamamoto Akuji (talking)","俺は…","I'm…","Yo…"
-"Hoshikawa Tsubasa (talking)","待って、ストップ。 僕が当ててみるよ。
+Hoshikawa Tsubasa (talking),どちらさん？,Who are you?,¿Cuál?
+Yamamoto Akuji (talking),俺は…,I'm…,Yo…
+Hoshikawa Tsubasa (talking),"待って、ストップ。 僕が当ててみるよ。
 えーと…
 わかったよ、宗教の勧誘だね。 大人と子供のカップルは９８％ そうだから。","Wait, stop. Let me guess.
 Let's see…
 All right, you're a religious recruiter. Adult-child couples are 98% of the time, so…","Espera, para. Voy a adivinar.
 Veamos…
 Muy bien, eres un reclutador religioso. Las parejas adulto-niño son el 98% del tiempo, así que…"
-"Yamamoto Akuji (talking)","残念ながらハズレ。","Unfortunately, it is a hassle.","Por desgracia, sin problemas."
-"Hoshikawa Tsubasa (talking)","じゃあ…？","Then…?","¿Entonces…?"
-"Yamamoto Akuji (talking)","俺は、山本悪司。 オオサカからきた。","My name is Yamamoto Akuji. I'm from Osaka, Japan.","Me llamo Yamamoto Akuji. Soy de Osaka, Japón."
-"__system__??","{★愛 = 5:","",""
-"Yamamoto Akuji (talking)","こっちは、俺の女房のさっちゃんだ。","This is my wife, Sacchan.","Aquí está mi esposa, Sacchan."
-"__system__??","}","",""
-"__system__??","{★愛 \ 5:","",""
-"Yamamoto Akuji (talking)","こっちは、俺の叔母さんのさっちゃんだ。","This one is my aunt Sacchan.","Esta es mi tía Sacchan."
-"__system__??","}","",""
-"Hoshikawa Tsubasa (talking)","君、可愛いね。 もう少し大人になったら、 デートしようね。","You're cute. Let's go on a date when you're older.","Eres bonita. Cuando seas mayor, tendremos una cita."
-"Takega Satsu (talking)","いらん。","I don't want it.","No lo quiero."
-"Hoshikawa Tsubasa (talking)","あれ…ふられちゃった。","Oh…I got dumped.","Que… me han dejado."
-"__system__??","{★愛 = 5:","",""
-"Yamamoto Akuji (talking)","人の女房を、気軽にくどくなっての。","Don't be so casual about your wives.","No seas tan casual con las esposas de la gente."
-"__system__??","}","",""
-"__system__??","{★愛 \ 5:","",""
-"Yamamoto Akuji (talking)","人の叔母を、気軽にくどくなっての。","Don't be so casual about your aunt.","'No seas tan casual con las tías de la gente', dijo."
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","で、噂聞いたんだけどよ。","So I heard a rumor.","Y he oído un rumor."
-"Hoshikawa Tsubasa (talking)","僕についてかい？ どんな事かな？","About me? What do you mean?","¿Sobre mí? ¿Qué quieres decir?"
-"Yamamoto Akuji (talking)","次の国家武道大会優勝候補 だそーじゃねぇか。","I heard that you are a candidate to win the next national martial arts competition.","Eres el favorito para ganar la próxima competición nacional de artes marciales."
-"Hoshikawa Tsubasa (talking)","うん、優勝は狙ってる。","Yes, I'm aiming for the championship.","Sí, mi objetivo es el campeonato."
-"Yamamoto Akuji (talking)","という事は、強いんだろ？","That means it's strong, right?","Así que eres fuerte, ¿verdad?"
-"Hoshikawa Tsubasa (talking)","多分ね。","Maybe.","Probablemente."
-"Yamamoto Akuji (talking)","で、その腕を、俺の為に貸して欲しい。
+Yamamoto Akuji (talking),残念ながらハズレ。,"Unfortunately, it is a hassle.","Por desgracia, sin problemas."
+Hoshikawa Tsubasa (talking),じゃあ…？,Then…?,¿Entonces…?
+Yamamoto Akuji (talking),俺は、山本悪司。 オオサカからきた。,"My name is Yamamoto Akuji. I'm from Osaka, Japan.","Me llamo Yamamoto Akuji. Soy de Osaka, Japón."
+__system__??,{★愛 = 5:,,
+Yamamoto Akuji (talking),こっちは、俺の女房のさっちゃんだ。,"This is my wife, Sacchan.","Aquí está mi esposa, Sacchan."
+__system__??,},,
+__system__??,{★愛 \ 5:,,
+Yamamoto Akuji (talking),こっちは、俺の叔母さんのさっちゃんだ。,This one is my aunt Sacchan.,Esta es mi tía Sacchan.
+__system__??,},,
+Hoshikawa Tsubasa (talking),君、可愛いね。 もう少し大人になったら、 デートしようね。,You're cute. Let's go on a date when you're older.,"Eres bonita. Cuando seas mayor, tendremos una cita."
+Takega Satsu (talking),いらん。,I don't want it.,No lo quiero.
+Hoshikawa Tsubasa (talking),あれ…ふられちゃった。,Oh…I got dumped.,Que… me han dejado.
+__system__??,{★愛 = 5:,,
+Yamamoto Akuji (talking),人の女房を、気軽にくどくなっての。,Don't be so casual about your wives.,No seas tan casual con las esposas de la gente.
+__system__??,},,
+__system__??,{★愛 \ 5:,,
+Yamamoto Akuji (talking),人の叔母を、気軽にくどくなっての。,Don't be so casual about your aunt.,"'No seas tan casual con las tías de la gente', dijo."
+__system__??,},,
+Yamamoto Akuji (talking),で、噂聞いたんだけどよ。,So I heard a rumor.,Y he oído un rumor.
+Hoshikawa Tsubasa (talking),僕についてかい？ どんな事かな？,About me? What do you mean?,¿Sobre mí? ¿Qué quieres decir?
+Yamamoto Akuji (talking),次の国家武道大会優勝候補 だそーじゃねぇか。,I heard that you are a candidate to win the next national martial arts competition.,Eres el favorito para ganar la próxima competición nacional de artes marciales.
+Hoshikawa Tsubasa (talking),うん、優勝は狙ってる。,"Yes, I'm aiming for the championship.","Sí, mi objetivo es el campeonato."
+Yamamoto Akuji (talking),という事は、強いんだろ？,"That means it's strong, right?","Así que eres fuerte, ¿verdad?"
+Hoshikawa Tsubasa (talking),多分ね。,Maybe.,Probablemente.
+Yamamoto Akuji (talking),"で、その腕を、俺の為に貸して欲しい。
 俺は今、とある組織とドンパチの最中だ。 強い奴がいればいるだけありがたいんだ。","And I'd like you to lend me your arm for me.
 I'm in the middle of a war with an organization. I could really use a strong guy.","Y quiero que me prestes ese brazo para mí.
 Estoy en medio de una guerra con una organización. Te agradecería que tuvieras a alguien fuerte contigo."
-"Hoshikawa Tsubasa (talking)","で…僕に、そのうちの一人になれって？","And…you want me to be one of them?","Y… ¿quieres que sea uno de ellos?"
-"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
-"Hoshikawa Tsubasa (talking)","だったら…それを仕事として、 僕に請け負わせてくれる？","Then… would you let me take on the job?","Entonces… ¿me dejarías tomar eso como un trabajo?"
-"Yamamoto Akuji (talking)","仕事？","Work?","¿Trabajo?"
-"Hoshikawa Tsubasa (talking)","そう、仕事。 僕、今、まとまったお金が欲しいんだ。 結婚したくて。","Yes, a job. I need a lot of money right now. I want to get married.","Sí, un trabajo. Necesito algo de dinero ahora. Quiero casarme."
-"Yamamoto Akuji (talking)","ほう。","Hou.","Método."
-"Hoshikawa Tsubasa (talking)","だから仕事を探して、貼り紙とかも 貼ってんだけど… これだっていう仕事はこなくって。","So I tried to find a job and put up posters and stuff, but… I never got a job that I was sure was the right one.","Así que he estado buscando trabajo, poniendo carteles y demás, pero… no he podido conseguir un trabajo que me sirva."
-"Yamamoto Akuji (talking)","ああ、この…なんだ？ 目貫がどーのこーのって。","Oh, this… what is it? What's with the eye piercing?","Oh, esto… ¿qué es? ¿Qué pasa con el piercing en el ojo?"
-"Hoshikawa Tsubasa (talking)","戦えるってつもりで書いたんだけど、 それを見て反応する奴は、僕にとっては 敵ばかりだったみたいで。","I wrote it with the intention of being able to fight, but it seems that the only people who saw it and reacted to it were my enemies.","Lo escribí con la intención de poder luchar, pero parece que los únicos que reaccionaron a él fueron mis enemigos."
-"Yamamoto Akuji (talking)","ふーん…まあ、よくわからんけど、 仕事にあぶれてるって事だな。","Hmmm… well, I don't know about you, but I'm out of work.","Hmm… bueno, no lo sé realmente, pero significa que estoy sin trabajo."
-"Hoshikawa Tsubasa (talking)","うん。 選り好みしてしまってるから。","Yup. Because I'm being selective.","Sí. Porque estoy siendo selectivo."
-"Yamamoto Akuji (talking)","俺の依頼は、どうかな？","How about my request?","¿Qué pasa con mi petición?"
-"Hoshikawa Tsubasa (talking)","面白そうだね。 すぐには行けないけれど、 お邪魔させて貰うよ。","HakuYes, that's right. I can't get there right away, but I'll be sure to stop by.","Mene Haku Sí, eso es. No puedo ir de inmediato, pero estaré encantado de ir a visitarte."
-"Yamamoto Akuji (talking)","わかった。 住所はここだ。","All right. Here's the address.","Vale, ya lo tengo. Esta es la dirección."
-"narrator","悪司は翼に奉仕青年団の住所の書かれた メモを渡した。","Akuji gave Tsubasa a note with the address of the service youth group.","Akuji le dio a Tsubasa una nota con la dirección de la organización juvenil de servicio."
-"Hoshikawa Tsubasa (talking)","ＯＫ。 じゃあ、準備が出来次第、すぐ行くよ。 楽しみに待っててね。","OK. Well, I'll be there as soon as I'm ready. I'll be there as soon as I'm ready.","Bien. Entonces estaré allí tan pronto como esté listo. Lo espero con ansias."
-"narrator","悪司は、いつも座っている場所で、 饅頭を食べていた。","Akuji was eating steamed buns at the same place where he always sat.","Akuji se comió sus bollos donde normalmente se sentaba."
-"Chinpira (talking)","悪司さーん、お客さんっすー。","Akuji, you have a visitor.","Akuji, eres un cliente."
-"Yamamoto Akuji (talking)","誰だー？","Who is this?","¿Quién es usted?"
-"Chinpira (talking)","ホッシーさんだそうです。","He says it is Mr. Hosie.","Dice que es el Sr. Hossie."
-"Yamamoto Akuji (talking)","ホッシー…ホッシー…… ああ、翼の事か。 通してやんな。","Hossy…Hossy…… Oh, you mean Tsubasa. Don't let him through.","Hossy… Hossy…… Oh, quieres decir Tsubasa. No lo dejes pasar."
-"Chinpira (talking)","へーい。","Heh heh heh.","Hei."
-"Hoshikawa Tsubasa (talking)","ハロー。 きたよー。","Hello. I'm here.","Hola. ¡Ya estoy aquí!"
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Hoshikawa Tsubasa (talking)","オオサカは空が暗いね。 びっくりしたよ。 特殊爆弾の直撃くらっただけあるね。","The sky is dark in Oosaka. I was surprised. It was a direct hit by a special bomb Dan, wasn't it?","El cielo está oscuro en Ossaka. Me sorprendió. Fue un impacto directo de una bomba especial Dan."
-"Yamamoto Akuji (talking)","きてくれたって事は、これから コキ使っていいってことだな？","Now that you're here, that means I can use you as a koki from now on, right?","Así que, ahora que estás aquí, ¿se te permite usar el koki a partir de ahora?"
-"Hoshikawa Tsubasa (talking)","その分、マネーははずんで欲しいな。","I hope the money will be more than enough to pay for it.","Espero que el dinero sea mejor por ello."
-"Yamamoto Akuji (talking)","わかった。","I understand.","Entendido."
-"Hoshikawa Tsubasa (talking)","ＯＫ。 商談成立。 これから、よろしく。","OK, we have a deal. We look forward to working with you.","Bien. Las negociaciones comerciales han concluido. Saludos cordiales a partir de ahora."
-"narrator","翼は電話を借り、婚約者に電話していた。","Tsubasa borrowed a phone and called his fiancée.","Tsubasa tomó prestado un teléfono y llamó a su prometida."
-"Hoshikawa Tsubasa (talking)","もしもし…うん、僕。 元気だった？
+Hoshikawa Tsubasa (talking),で…僕に、そのうちの一人になれって？,And…you want me to be one of them?,Y… ¿quieres que sea uno de ellos?
+Yamamoto Akuji (talking),ああ。,Oh.,Oh.
+Hoshikawa Tsubasa (talking),だったら…それを仕事として、 僕に請け負わせてくれる？,Then… would you let me take on the job?,Entonces… ¿me dejarías tomar eso como un trabajo?
+Yamamoto Akuji (talking),仕事？,Work?,¿Trabajo?
+Hoshikawa Tsubasa (talking),そう、仕事。 僕、今、まとまったお金が欲しいんだ。 結婚したくて。,"Yes, a job. I need a lot of money right now. I want to get married.","Sí, un trabajo. Necesito algo de dinero ahora. Quiero casarme."
+Yamamoto Akuji (talking),ほう。,Hou.,Método.
+Hoshikawa Tsubasa (talking),だから仕事を探して、貼り紙とかも 貼ってんだけど… これだっていう仕事はこなくって。,"So I tried to find a job and put up posters and stuff, but… I never got a job that I was sure was the right one.","Así que he estado buscando trabajo, poniendo carteles y demás, pero… no he podido conseguir un trabajo que me sirva."
+Yamamoto Akuji (talking),ああ、この…なんだ？ 目貫がどーのこーのって。,"Oh, this… what is it? What's with the eye piercing?","Oh, esto… ¿qué es? ¿Qué pasa con el piercing en el ojo?"
+Hoshikawa Tsubasa (talking),戦えるってつもりで書いたんだけど、 それを見て反応する奴は、僕にとっては 敵ばかりだったみたいで。,"I wrote it with the intention of being able to fight, but it seems that the only people who saw it and reacted to it were my enemies.","Lo escribí con la intención de poder luchar, pero parece que los únicos que reaccionaron a él fueron mis enemigos."
+Yamamoto Akuji (talking),ふーん…まあ、よくわからんけど、 仕事にあぶれてるって事だな。,"Hmmm… well, I don't know about you, but I'm out of work.","Hmm… bueno, no lo sé realmente, pero significa que estoy sin trabajo."
+Hoshikawa Tsubasa (talking),うん。 選り好みしてしまってるから。,Yup. Because I'm being selective.,Sí. Porque estoy siendo selectivo.
+Yamamoto Akuji (talking),俺の依頼は、どうかな？,How about my request?,¿Qué pasa con mi petición?
+Hoshikawa Tsubasa (talking),面白そうだね。 すぐには行けないけれど、 お邪魔させて貰うよ。,"HakuYes, that's right. I can't get there right away, but I'll be sure to stop by.","Mene Haku Sí, eso es. No puedo ir de inmediato, pero estaré encantado de ir a visitarte."
+Yamamoto Akuji (talking),わかった。 住所はここだ。,All right. Here's the address.,"Vale, ya lo tengo. Esta es la dirección."
+narrator,悪司は翼に奉仕青年団の住所の書かれた メモを渡した。,Akuji gave Tsubasa a note with the address of the service youth group.,Akuji le dio a Tsubasa una nota con la dirección de la organización juvenil de servicio.
+Hoshikawa Tsubasa (talking),ＯＫ。 じゃあ、準備が出来次第、すぐ行くよ。 楽しみに待っててね。,"OK. Well, I'll be there as soon as I'm ready. I'll be there as soon as I'm ready.",Bien. Entonces estaré allí tan pronto como esté listo. Lo espero con ansias.
+narrator,悪司は、いつも座っている場所で、 饅頭を食べていた。,Akuji was eating steamed buns at the same place where he always sat.,Akuji se comió sus bollos donde normalmente se sentaba.
+Chinpira (talking),悪司さーん、お客さんっすー。,"Akuji, you have a visitor.","Akuji, eres un cliente."
+Yamamoto Akuji (talking),誰だー？,Who is this?,¿Quién es usted?
+Chinpira (talking),ホッシーさんだそうです。,He says it is Mr. Hosie.,Dice que es el Sr. Hossie.
+Yamamoto Akuji (talking),ホッシー…ホッシー…… ああ、翼の事か。 通してやんな。,"Hossy…Hossy…… Oh, you mean Tsubasa. Don't let him through.","Hossy… Hossy…… Oh, quieres decir Tsubasa. No lo dejes pasar."
+Chinpira (talking),へーい。,Heh heh heh.,Hei.
+Hoshikawa Tsubasa (talking),ハロー。 きたよー。,Hello. I'm here.,Hola. ¡Ya estoy aquí!
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Hoshikawa Tsubasa (talking),オオサカは空が暗いね。 びっくりしたよ。 特殊爆弾の直撃くらっただけあるね。,"The sky is dark in Oosaka. I was surprised. It was a direct hit by a special bomb Dan, wasn't it?",El cielo está oscuro en Ossaka. Me sorprendió. Fue un impacto directo de una bomba especial Dan.
+Yamamoto Akuji (talking),きてくれたって事は、これから コキ使っていいってことだな？,"Now that you're here, that means I can use you as a koki from now on, right?","Así que, ahora que estás aquí, ¿se te permite usar el koki a partir de ahora?"
+Hoshikawa Tsubasa (talking),その分、マネーははずんで欲しいな。,I hope the money will be more than enough to pay for it.,Espero que el dinero sea mejor por ello.
+Yamamoto Akuji (talking),わかった。,I understand.,Entendido.
+Hoshikawa Tsubasa (talking),ＯＫ。 商談成立。 これから、よろしく。,"OK, we have a deal. We look forward to working with you.",Bien. Las negociaciones comerciales han concluido. Saludos cordiales a partir de ahora.
+narrator,翼は電話を借り、婚約者に電話していた。,Tsubasa borrowed a phone and called his fiancée.,Tsubasa tomó prestado un teléfono y llamó a su prometida.
+Hoshikawa Tsubasa (talking),"もしもし…うん、僕。 元気だった？
  …………そう…… ……うん……うん……
  ………………
 ごめんね、寂しい思いをさせて。 帰ったら、色んなとこに行こう。
@@ -140,35 +140,35 @@ I like……… yeah ……. Only you, Mizuki…………… yeah…… I love y
  ………………
 Lo siento, te he echado de menos. Vamos a ir a sitios cuando vuelva.…… Sí, sí. Es mucho trabajo prepararse. También tendrás que elegir un vestido.…… ¿Qué? ¿Voy a llevar un vestido?… jaja… eso es bueno……………… sí………… sí, sí… …
 Me gusta……… sí ……. Sólo tú, Mizuki…………… sí…… te quiero."
-"narrator","難しい顔をしたリンダの前に、 翼が呼ばれた。","Before Linda with a difficult face, Tsubasa was called.","Tsubasa fue llamada ante Linda, que parecía difícil."
-"Hoshikawa Tsubasa (talking)","こんなはずじゃあなかったんだけどね…","It wasn't supposed to be like this…","No se suponía que fuera así…"
-"Momoyama Linda (talking)","ええ、本当でちゅわ。 こんなにあっさり倒れるとは 思ってなかったでちゅ。","Yes, it's true. I didn't expect it to be so easy.","Sí, es cierto. No esperaba que cayeras tan fácilmente."
-"Hoshikawa Tsubasa (talking)","うん…自分でもびっくりだ。 もっと、修練が必要だね。","Yeah…I'm surprised at myself. I need more practice.","Sí… estoy sorprendido de mí mismo. Necesito más práctica."
-"Momoyama Linda (talking)","クビでちゅ。","You're fired.","Despedido."
-"Hoshikawa Tsubasa (talking)","…………………","…………………","…………………"
-"Momoyama Linda (talking)","帰ってくだちゃい。 今までの日当は支払いまちゅ。","Please go home. We will pay you your daily allowance.","Por favor, vete a casa. Le pagaremos las dietas hasta ahora."
-"Hoshikawa Tsubasa (talking)","そうだね…… 僕は君の役にたたなかった。 当然の事だ。","You're right…… I was no help to you. I deserved it.","Tienes razón…… No te he servido de nada. Es natural."
-"Momoyama Linda (talking)","ハイネ。","Haine.","Haine."
-"Hasekura Haine (talking)","はい。 星川様、これを…","Yes, I am. Dear Hoshikawa, I have this…","Sí. Querido Hoshikawa, tengo esto…"
-"Hoshikawa Tsubasa (talking)","……サンキュ。 役立たずがこーいうのもなんだけど… 頑張ってね。","Thank you ……. I know it's a useless thing to say, but… Good luck.","…… Gracias. Sé que es algo inútil, pero… buena suerte con eso."
-"narrator","こうして、翼はＰＭを解雇された。","Thus, Tsubasa was fired from PM.","Así, Tsubasa fue destituido como PM."
-"narrator","翼が荷作りをしていた。","Tsubasa was packing up.","Tsubasa estaba empacando."
-"Hoshikawa Tsubasa (talking)","よっこらせっと… にくしっ！ つっ…埃がたつとこれだから…","Let's go… It's so nasty! T-t-t-this is what happens when the dust gets up…","Allá vamos… ¡carnoso! Ugh… esto es lo que pasa cuando se levanta polvo…"
-"joshigakusei (talking)","星川さん、荷作り手伝いましょうか？","Hoshikawa, can I help you pack?","Hoshikawa, ¿puedo ayudarte a empacar?"
-"Hoshikawa Tsubasa (talking)","あ、もう平気だよ。 ありがとう。
+narrator,難しい顔をしたリンダの前に、 翼が呼ばれた。,"Before Linda with a difficult face, Tsubasa was called.","Tsubasa fue llamada ante Linda, que parecía difícil."
+Hoshikawa Tsubasa (talking),こんなはずじゃあなかったんだけどね…,It wasn't supposed to be like this…,No se suponía que fuera así…
+Momoyama Linda (talking),ええ、本当でちゅわ。 こんなにあっさり倒れるとは 思ってなかったでちゅ。,"Yes, it's true. I didn't expect it to be so easy.","Sí, es cierto. No esperaba que cayeras tan fácilmente."
+Hoshikawa Tsubasa (talking),うん…自分でもびっくりだ。 もっと、修練が必要だね。,Yeah…I'm surprised at myself. I need more practice.,Sí… estoy sorprendido de mí mismo. Necesito más práctica.
+Momoyama Linda (talking),クビでちゅ。,You're fired.,Despedido.
+Hoshikawa Tsubasa (talking),…………………,…………………,…………………
+Momoyama Linda (talking),帰ってくだちゃい。 今までの日当は支払いまちゅ。,Please go home. We will pay you your daily allowance.,"Por favor, vete a casa. Le pagaremos las dietas hasta ahora."
+Hoshikawa Tsubasa (talking),そうだね…… 僕は君の役にたたなかった。 当然の事だ。,You're right…… I was no help to you. I deserved it.,Tienes razón…… No te he servido de nada. Es natural.
+Momoyama Linda (talking),ハイネ。,Haine.,Haine.
+Hasekura Haine (talking),はい。 星川様、これを…,"Yes, I am. Dear Hoshikawa, I have this…","Sí. Querido Hoshikawa, tengo esto…"
+Hoshikawa Tsubasa (talking),……サンキュ。 役立たずがこーいうのもなんだけど… 頑張ってね。,"Thank you ……. I know it's a useless thing to say, but… Good luck.","…… Gracias. Sé que es algo inútil, pero… buena suerte con eso."
+narrator,こうして、翼はＰＭを解雇された。,"Thus, Tsubasa was fired from PM.","Así, Tsubasa fue destituido como PM."
+narrator,翼が荷作りをしていた。,Tsubasa was packing up.,Tsubasa estaba empacando.
+Hoshikawa Tsubasa (talking),よっこらせっと… にくしっ！ つっ…埃がたつとこれだから…,Let's go… It's so nasty! T-t-t-this is what happens when the dust gets up…,Allá vamos… ¡carnoso! Ugh… esto es lo que pasa cuando se levanta polvo…
+joshigakusei (talking),星川さん、荷作り手伝いましょうか？,"Hoshikawa, can I help you pack?","Hoshikawa, ¿puedo ayudarte a empacar?"
+Hoshikawa Tsubasa (talking),"あ、もう平気だよ。 ありがとう。
 女の子に、力仕事はさせられないよ。 僕は星の王子様だからね。","Oh, I'm fine now. Thank you.
 You can't make a girl do all the heavy lifting. I'm a prince of the stars.","Ya estoy bien. Gracias.
 No puedes hacer que una chica haga todo el trabajo pesado. Soy un príncipe de las estrellas."
-"joshigakusei (talking)","まあ…くす。
+joshigakusei (talking),"まあ…くす。
 星川さんがいなくなって寂しくなるけど… ご結婚する為ですもの…おめでとうって 言わなくちゃ駄目ですよね。","Well…kusu.
 I will miss you Hoshikawa, but since you are getting married I have to say congratulations.","Bueno…
 Echaré de menos a Hoshikawa, pero… ya que te vas a casar, tengo que darte la enhorabuena."
-"Hoshikawa Tsubasa (talking)","そう言って貰えると嬉しいな。","I'm glad to hear you say that.","Me alegra oírte decir eso."
-"joshigakusei (talking)","……おめでとうございます。 幸せになって下さいね。","Congratulations to ……. I hope you are happy.","Enhorabuena a ……. Sé feliz."
-"Hoshikawa Tsubasa (talking)","うん、サンキュ。","Yes, thank you.","Sí, gracias."
-"joshigakusei (talking)","これ…少ないけど、結婚祝いです。 受け取って下さい。","This… it's not much, but it's a wedding gift. Please accept it.","Aquí… no es mucho, pero es un regalo de bodas. Por favor, acéptelo."
-"Hoshikawa Tsubasa (talking)","あ、いいよ。 そんな気遣いは…","Oh, it's fine. That's not the kind of concern I…","Oh, está bien. No tienes que preocuparte por eso…"
-"joshigakusei (talking)","受け取って下さい……","Please take it: ……","Por favor, tómelo: ……"
-"Hoshikawa Tsubasa (talking)","……そう？ ありがとう。","…… is that so? Thanks.","…… ¿Sí? Gracias."
-"joshigakusei (talking)","い、いいえ……","Yes and no ……","Sí y no……"
-"Hoshikawa Tsubasa (talking)","最高の夜だね。","Great night.","Gran noche."
+Hoshikawa Tsubasa (talking),そう言って貰えると嬉しいな。,I'm glad to hear you say that.,Me alegra oírte decir eso.
+joshigakusei (talking),……おめでとうございます。 幸せになって下さいね。,Congratulations to ……. I hope you are happy.,Enhorabuena a ……. Sé feliz.
+Hoshikawa Tsubasa (talking),うん、サンキュ。,"Yes, thank you.","Sí, gracias."
+joshigakusei (talking),これ…少ないけど、結婚祝いです。 受け取って下さい。,"This… it's not much, but it's a wedding gift. Please accept it.","Aquí… no es mucho, pero es un regalo de bodas. Por favor, acéptelo."
+Hoshikawa Tsubasa (talking),あ、いいよ。 そんな気遣いは…,"Oh, it's fine. That's not the kind of concern I…","Oh, está bien. No tienes que preocuparte por eso…"
+joshigakusei (talking),受け取って下さい……,Please take it: ……,"Por favor, tómelo: ……"
+Hoshikawa Tsubasa (talking),……そう？ ありがとう。,…… is that so? Thanks.,…… ¿Sí? Gracias.
+joshigakusei (talking),い、いいえ……,Yes and no ……,Sí y no……
+Hoshikawa Tsubasa (talking),最高の夜だね。,Great night.,Gran noche.

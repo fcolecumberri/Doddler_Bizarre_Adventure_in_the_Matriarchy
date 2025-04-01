@@ -1,341 +1,341 @@
-"character","jap text","Eng","Esp"
-"__system__??","{Bキャラ = 1:","",""
-"?? (talking)","うーし、いい調子だな。","Woohoo, you're in good shape.","Woohoo, estás en buena forma."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 2:","",""
-"?? (talking)","この調子で、もっと頑張って強くなって… 色々と、なんとかしなくちゃ…","At this rate, I'll have to work harder and stronger… and do something about a lot of things…","A este paso, tendré que trabajar más y más fuerte… y hacer algo con muchas cosas…"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 3:","",""
-"?? (talking)","やったにゃり。 未来ちゃん、正義にゃりよ。","Yay! Mirai, you are righteous.","Yayari. Mirai, eres justo."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 4:","",""
-"?? (talking)","強くなるのって…不思議…","It's… strange… to be strong…","Es… extraño… ser fuerte…"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 5:","",""
-"?? (talking)","…フン……今更強くなってもね……","…Hun…… even if it's stronger now……","…Hun…… aunque ahora sea más fuerte……"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 7:","",""
-"?? (talking)","おっし！ これでちょっとは役に立つ部下に なったかな？","Yes! Now I'm a little more useful to you, aren't I?","¡Sí! Ahora eres un subordinado útil, ¿no?"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 8:","",""
-"?? (talking)","…………そう。 強くなれたのね、以前より。","…………Yes. You're stronger now, than you were before.","………… Sí. Eres más fuerte que antes."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 9:","",""
-"?? (talking)","フフ、悪くないね。 これで若旦那の役に立てるよ。","Huh, not bad. This will help the young master.","No está mal. Esto ayudará al joven maestro."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 10:","",""
-"?? (talking)","これからは強さではなく、 優しさの時代なのじゃが……","From now on, it's not about strength, but about gentleness……","El futuro no es una era de fuerza, sino de dulzura……"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 11:","",""
-"?? (talking)","まだまだやるでござんすよ！","I'm still working on it!","Todavía vamos a hacerlo."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 12:","",""
-"?? (talking)","ヤマトの王は無敵だ。","The King of Yamato is invincible.","El Rey de Yamato es invencible."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 13:","",""
-"?? (talking)","えっ、本当ですか……？ 旦那様、喜久子はやりました！","What, really? ……? Sir, Kikuko did it!","¿Qué, de verdad? ……? ¡Señor, Kikuko lo hizo!"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 15:","",""
-"?? (talking)","…………フン……","………… Hun ……","………… Hun ……"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 17:","",""
-"?? (talking)","躰、ちょっとは丈夫になったのかな？","Body, has it become a little sturdier?","Los cuerpos, ¿se han vuelto un poco más duros?"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 18:","",""
-"?? (talking)","もっと頑張らないと…… 私一人の事じゃないもの。","I need to work harder…… It's not just about me.","Tengo que trabajar más duro…… No se trata sólo de mí."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 19:","",""
-"?? (talking)","そろそろだと思っていたけれど ……くすっ、案外早かったのね。","I thought it was about time, but…… I guess it was sooner than I thought.","Pensaba que ya era hora, pero…… maldita sea, ha sido antes de lo que pensaba."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 20:","",""
-"?? (talking)","も、もっと……もっと強くなります。 もっと強くならなきゃ……","We have to be more…… stronger. We have to be stronger……","También podemos ser más fuertes ……. Tenemos que ser más fuertes……"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 28:","",""
-"?? (talking)","悪くはないですね。","Not bad.","No está mal."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 29:","",""
-"?? (talking)","よし！！ まだまだ、これからぁ！","All right! We're not done yet!","¡Muy bien! Todavía no hemos terminado."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 30:","",""
-"?? (talking)","……ありがたいのか、どうなのか… わからんな……","……Thanks or no thanks… I don't know……","……Gracias o no gracias… no lo sé……"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 34:","",""
-"?? (talking)","ひ、ひへ……ひへひゃへ………… くけ、けけ……ひゃはははは……！","Hi, hi hee…… hi hee hee hee………… kuke, ke ke ke…… hiya ha ha ha ha ha ha ……!","¡Hola, hihe…… hihe hihe………… kuke, ke keke…… hiha haha ……!"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 35:","",""
-"?? (talking)","………………………………エっ？","……………………………… エっ?","……………………………… エっ?"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 36:","",""
-"?? (talking)","あらら~~♪","Oops~♪","Oops~♪"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 37:","",""
-"?? (talking)","うむ。","Mm.","Mm."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 39:","",""
-"?? (talking)","俺が強くなって喜ぶのは、 悪司だけかもな。","Maybe only Akuji will be happy to see me get stronger.","Quizá sólo Akuji se alegre de que sea más fuerte."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 41:","",""
-"?? (talking)","…………えーっと…… これって喜んでいい事なんですよね？","………… umm……… This is something I should be happy about, right?","………… er,…… Esto es algo de lo que deberíamos alegrarnos, ¿no?"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 42:","",""
-"?? (talking)","え~~~~！！ 俺っすか~~~？？","What? ~~~~! Is it me~?","¿Qué? ¡~~~~! ¿Soy yo?"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 43:","",""
-"?? (talking)","まだ高みを目指す事が出来るとは…","I didn't know we could still aim so high…","No me había dado cuenta de que aún se podían alcanzar grandes alturas…"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 44:","",""
-"?? (talking)","ははん。 ま、こんなもんじゃない？","Hahan. Well, isn't it like this?","Hahan. ¿No es así como se hace?"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 45:","",""
-"?? (talking)","日々精進している事は、 喜ばしい事ですわ。","It's a pleasure to know that you are advancing every day.","Es un placer saber que estás mejorando día a día."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 46:","",""
-"?? (talking)","…………………","…………………","…………………"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 47:","",""
-"?? (talking)","やったぁ！ 春風もっと強くなって、 悪司ぶちのめすんだから！","Yes! Harukaze get stronger and Akuji beat you up!","¡Sí! Harukaze, hazte más fuerte, Akuji, ¡te vamos a ganar!"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 48:","",""
-"?? (talking)","いい感じですね。","It looks good.","Buena mirada."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 49:","",""
-"?? (talking)","あららぁ…… 強くなっちゃいましたよぉ…","Oh my gosh…… I'm getting stronger…","Oh, querida…… Se está haciendo más fuerte…"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 50:","",""
-"?? (talking)","戦っているのだから、当然だ。","We are fighting, of course.","Estamos luchando, por supuesto."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 51:","",""
-"?? (talking)","……まずは一段落ですね。 有り難うございます。","…… First of all, it's a relief. Thank you.","…… En primer lugar, es un alivio. Gracias."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 54:","",""
-"?? (talking)","まだまだ、こんなところで 満足なんてしないんだから！","I'm not satisfied with this place yet!","No estamos satisfechos todavía."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 55:","",""
-"?? (talking)","………………","………………","………………"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 56:","",""
-"?? (talking)","これでまた、真の正義に一歩 近づいたという事か。","So now we are one step closer to true justice.","Así que ahora estamos un paso más cerca de la verdadera justicia de nuevo."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 57:","",""
-"?? (talking)","けひひ。 そんな事より、酒まだかい？","Kehi-hi. But that's not the point. You still haven't had your drink yet?","Kehi. Esa no es la cuestión, ¿ya te has tomado tu copa?"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 58:","",""
-"?? (talking)","よし…","Okay…","Bien…"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 62:","",""
-"?? (talking)","やったね☆","Yay Tane☆","Yay Tane☆"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 64:","",""
-"__system__??","{☆金田 > 20:","",""
-"?? (talking)","ふふん。","Hmmm.","Hmmm."
-"__system__??","} else {","",""
-"?? (talking)","ふ、ふん…この程度で、ボクが喜ぶとでも 思っているのか？","Do you really think this is going to make me happy?","¿De verdad crees que esto me va a hacer feliz?"
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{Bキャラ = 65:","",""
-"?? (talking)","おっしゃああああ！！ 見たか、悪司！！","Oshaaaaaah! You see that, Akuji!","¡Oshaaaah! ¿Has visto eso, Akuji?"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 66:","",""
-"?? (talking)","え、あ、ぼ、ぼく、やったんですね…","Oh, I, I, I did it, didn't I…","Oh, Dios mío, lo hice…"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 67:","",""
-"?? (talking)","………そうか、解った。","……… Okay, I get it.","……… De acuerdo, entendido."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 68:","",""
-"?? (talking)","別に感慨などない。 早く手続きを済ませてくれ。","I'm not really emotional about it. Just get the procedure done.","No estoy muy emocionado por ello. Sólo haz el procedimiento."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 69:","",""
-"?? (talking)","ありがたい事です。","I am grateful.","Afortunadamente."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 75:","",""
-"?? (talking)","やったー。 もっと頑張るよ。","Yay. I'll try harder.","Sí. Me esforzaré más."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 76:","",""
-"?? (talking)","ふむ。 まだまだ、精進あるのみ。","Hmmm. I still have to be diligent.","Hm. Todavía tengo que ser diligente."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 77:","",""
-"?? (talking)","……………ふふふ……","…………… fufu ……","…………… ff……"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 78:","",""
-"?? (talking)","おいっすおいっすおいーっす！ どんどんぱふぱふ~~~☆","Heyy! Keep puffing and puffing~~~~~~~~~!☆","¡Oyeee! ¡Sigue resoplando y resoplando~~~!☆"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 79:","",""
-"?? (talking)","ガキじゃあるまいし…… いちいち喜んでいられるかよ。","You're not a kid…… You can't be happy about every little thing.","No eres un niño…… No puedes alegrarte por cualquier cosa."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 80:","",""
-"?? (talking)","やったずらよ。 盆と正月が一緒にきたみたいずら。","I did it. It's like the Bon Festival and the New Year came together.","Lo hice. Es como si el Festival del Bon y el Año Nuevo se juntaran."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 81:","",""
-"?? (talking)","アーサはレベルがあがった！！ ゆうきが　みっつ　ふえた！ だが　いせかいでは　つかえない！","Ursa has raised his level! He's got three more advantages! But he's still no match for the Rock!","¡Usa ha subido de nivel! ¡Tiene tres poderes más! ¡Pero no es rival para la Roca!"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 82:","",""
-"?? (talking)","カリコリルリはレベルがあがった！！ じゅもんを　ひとつ　おぼえた！ だが　いせかいでは　つかえない！","Carikoriluri has raised a level! He's learned a spell! But not on the rock!","¡Carikoriluri ha subido de nivel! ¡Ha aprendido un hechizo! ¡Pero no es bueno en la roca!"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 87:","",""
-"?? (talking)","私は戦い続けるわ。 あの科学者の暴挙を止めるまで……","I'll keep fighting. Until I stop that scientist's rampage: ……","Seguiré luchando. Hasta que detenga el desenfreno de ese científico……"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 89:","",""
-"?? (talking)","コンディ、強クナル。 モット、モット。","Condi, strong kunar. Motto, motto.","Condi, fuerte kunar. Lema, lema."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 90:","",""
-"?? (talking)","ふっ…… また俺の罪がひとつ増えたぜ。","Phew…… One more sin for me, man.","Uf…… Otro de mis pecados, hombre."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 91:","",""
-"?? (talking)","…………………","…………………","…………………"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 92:","",""
-"?? (talking)","れべるあっぷって、美味しいですか？ かじっていいですか？","Is Reberup delicious? Can I nibble on it?","¿Es sabroso el Reberuappu? ¿Puedo mordisquearlo?"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 93:","",""
-"?? (talking)","やれやれ。 また旦那になる男が減ったかなぁ。","Oh dear. I guess I have less men to be husbands again.","Oh, Dios. Me pregunto si he perdido a otro hombre para ser mi marido."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 94:","",""
-"?? (talking)","へへへん。 まだまだって感じだよ。","Heh heh heh. I feel like I'm not there yet.","Jejeje. Siento que aún no estoy preparado."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 95:","",""
-"?? (talking)","……こんなものだろう…","…… This is what it would look like…","…… Así es como sería…"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 96:","",""
-"?? (talking)","……………………うん…","…………………… Yeah…","…………………… sí…"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 24:","",""
-"?? (talking)","僕って強いねぇ。","I'm so strong.","Soy muy fuerte, ¿verdad?"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 23:","",""
-"?? (talking)","ふっ…","Hmph…","Hmph…"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 21:","",""
-"?? (talking)","うおおおおおお！！！","Woah woah woah!!!!","¡¡Woah woah woah!!"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 98:","",""
-"?? (talking)","まおーーーーーーーーーーーーーー。","Maooooooooooooooo","Maooooooooooooooo"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 25:","",""
-"?? (talking)","ＡＡＡＡＡＡＡＡＡＡＡＡＡＡ","ＡＡＡＡＡＡＡＡＡＡＡＡＡＡ","ＡＡＡＡＡＡＡＡＡＡＡＡＡＡ"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 26:","",""
-"?? (talking)","報酬はスイス銀行へ。","Reward goes to Swiss Bank.","La recompensa es para el Banco Suizo."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 27:","",""
-"?? (talking)","レレルラール。","Lerrerall.","Lerleral."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 83:","",""
-"?? (talking)","ぼ、ぼぼぼぼぼぼボクの……","Blah blah blah blah my ……","Bla, bla, bla mi ……"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 86:","",""
-"?? (talking)","か弱き乙女である私が、 こんなに強くなって、よいのかしら。","I wonder if it is right for me, a fragile maiden, to become so strong.","Me pregunto si a mí, una frágil doncella, se me permite ser tan fuerte."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 501:","",""
-"?? (talking)","は、はい。 強くなった……かな？","Ha, yes. Is it stronger ……?","Ja, sí. ¿Es más fuerte ……?"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 502:","",""
-"?? (talking)","ういす！ がんばるっす。","Usui! I'll do my best.","¡Uisu! Haré lo que pueda."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 503:","",""
-"?? (talking)","これからも、頑張ります。","I will continue to do my best.","Seguiremos haciéndolo lo mejor posible."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 504:","",""
-"?? (talking)","おりゃああ！","Yaah!","¡Yaaaa!"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 505:","",""
-"?? (talking)","強くなりましたね。 もうひとつ、いけますかね。","I'm getting stronger Tane. Can we have another one?","Me estoy haciendo más fuerte Tane. ¿Podemos tener otro?"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 506:","",""
-"?? (talking)","あたしなんかが強くなってもねぇ…","Even if I get stronger…","Incluso si me vuelvo más fuerte…"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 507:","",""
-"?? (talking)","これからだ…","I'm just getting started…","Vamos a…"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 508:","",""
-"?? (talking)","強くなればなる程、 治安を守りやすくなりますね。","The stronger we are, the easier it will be to protect public safety.","Cuanto más fuerte sea, más fácil será proteger la seguridad pública."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 509:","",""
-"?? (talking)","わうっ！！","WOW!!!","¡¡Woah!!"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 510:","",""
-"?? (talking)","いい感じですね。","It looks good.","Buena mirada."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 511:","",""
-"?? (talking)","アイヤー！","Aiyah!","¡Ayer!"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 512:","",""
-"?? (talking)","この恵み、全て 那古神様のために……","All this grace, all for Nako God……","Todas estas bendiciones, todas para el Dios Nako……"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 513:","",""
-"?? (talking)","ああ、天地の精霊と那古神様に、 感謝申し上げます……","Oh, to the spirits of heaven and earth and to God Nako, thank you……","Oh, a los espíritus del cielo y de la tierra y a Dios Nako, gracias……"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 514:","",""
-"?? (talking)","がおー♪","Gao♪","Gao♪"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 515:","",""
-"?? (talking)","ク、クスリー！！！！！","Ku, Kusuri ！！！！！","Ku, Kusuri ！！！！！"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 516:","",""
-"?? (talking)","強くなっちゃった…","I'm getting stronger…","Me estoy haciendo más fuerte…"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 517:","",""
-"?? (talking)","はい、頑張ります。","Yes, I will do my best.","Sí, haré lo que pueda."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 518:","",""
-"?? (talking)","いける…まだいけるわ…","I can still… still…","Puedo… todavía…"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 520:","",""
-"?? (talking)","もっといけますかしら？","Can I get more?","¿Podemos hacer más?"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 521:","",""
-"?? (talking)","やりました。 頑張るといい事ありますね。","I did it. It's good to work hard.","Lo hice. Es bueno trabajar duro."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 522:","",""
-"?? (talking)","ジーザス。","Jesus.","Jesús."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 523:","",""
-"?? (talking)","まんぼーう。","Mambo.","Mambo."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 524:","",""
-"?? (talking)","ほー…強くなれるモンですねー…","I can be strong….","Ho… puedes ser fuerte…"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 525:","",""
-"?? (talking)","イエーイ！","Yeah!","¡Sí!"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 526:","",""
-"?? (talking)","な、なんだとぅ、ぅらぁ！","What the hell, oooh!","¡Qué demonios, oooh!"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 528:","",""
-"?? (talking)","ウキーッ！","Wookiee!","¡Wookiee!"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 529:","",""
-"?? (talking)","キョエー！","Kyooey!","¡Kye!"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 530:","",""
-"?? (talking)","Ｏｈ！","Ｏｈ！","Ｏｈ！"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 534:","",""
-"?? (talking)","注射しますよ☆","I'll give you an injection.☆","Te daré una inyección☆."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 537:","",""
-"?? (talking)","しゃー、しゃー、しゃー！ しゃあ、しゃあ、しゃああッ！","Ssha, sha, sha! Sha, sha, sha!","¡Sha, sha, sha! ¡Sha, sha, sha!"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 540:","",""
-"?? (talking)","くきききー　くきききー。","Kuki kiki - kuki kiki.","Kuki kiki - kuki kiki."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 548:","",""
-"?? (talking)","オー…","O…","O…"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 550:","",""
-"?? (talking)","はわはわはわ……","Hahahaha ……","Ja, ja, ja ……"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 553:","",""
-"?? (talking)","おお、やったぞい。","Oh, we did it.","¡Oh, lo hicimos!"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 559:","",""
-"?? (talking)","おにおにおに。","Oni oni oni oni.","Oni oni oni oni."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 558:","",""
-"?? (talking)","まだ、戦える。 頑張れる。","I can still fight. We can do our best.","Todavía puedo luchar. Podemos hacerlo lo mejor posible."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 560:","",""
-"?? (talking)","我が心は那古神様と共に…… 正義の力よ、永遠なれ……！","My heart is with Nako God…… O power of justice, be everlasting ……!","Mi corazón está con Nako Dios…… Fuerzas de la justicia, sean eternas……"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 568:","",""
-"?? (talking)","しょみみ~。","Shomi~.","Shomi~."
-"__system__??","}","",""
+character,jap text,Eng,Esp
+__system__??,{Bキャラ = 1:,,
+?? (talking),うーし、いい調子だな。,"Woohoo, you're in good shape.","Woohoo, estás en buena forma."
+__system__??,},,
+__system__??,{Bキャラ = 2:,,
+?? (talking),この調子で、もっと頑張って強くなって… 色々と、なんとかしなくちゃ…,"At this rate, I'll have to work harder and stronger… and do something about a lot of things…","A este paso, tendré que trabajar más y más fuerte… y hacer algo con muchas cosas…"
+__system__??,},,
+__system__??,{Bキャラ = 3:,,
+?? (talking),やったにゃり。 未来ちゃん、正義にゃりよ。,"Yay! Mirai, you are righteous.","Yayari. Mirai, eres justo."
+__system__??,},,
+__system__??,{Bキャラ = 4:,,
+?? (talking),強くなるのって…不思議…,It's… strange… to be strong…,Es… extraño… ser fuerte…
+__system__??,},,
+__system__??,{Bキャラ = 5:,,
+?? (talking),…フン……今更強くなってもね……,…Hun…… even if it's stronger now……,…Hun…… aunque ahora sea más fuerte……
+__system__??,},,
+__system__??,{Bキャラ = 7:,,
+?? (talking),おっし！ これでちょっとは役に立つ部下に なったかな？,"Yes! Now I'm a little more useful to you, aren't I?","¡Sí! Ahora eres un subordinado útil, ¿no?"
+__system__??,},,
+__system__??,{Bキャラ = 8:,,
+?? (talking),…………そう。 強くなれたのね、以前より。,"…………Yes. You're stronger now, than you were before.",………… Sí. Eres más fuerte que antes.
+__system__??,},,
+__system__??,{Bキャラ = 9:,,
+?? (talking),フフ、悪くないね。 これで若旦那の役に立てるよ。,"Huh, not bad. This will help the young master.",No está mal. Esto ayudará al joven maestro.
+__system__??,},,
+__system__??,{Bキャラ = 10:,,
+?? (talking),これからは強さではなく、 優しさの時代なのじゃが……,"From now on, it's not about strength, but about gentleness……","El futuro no es una era de fuerza, sino de dulzura……"
+__system__??,},,
+__system__??,{Bキャラ = 11:,,
+?? (talking),まだまだやるでござんすよ！,I'm still working on it!,Todavía vamos a hacerlo.
+__system__??,},,
+__system__??,{Bキャラ = 12:,,
+?? (talking),ヤマトの王は無敵だ。,The King of Yamato is invincible.,El Rey de Yamato es invencible.
+__system__??,},,
+__system__??,{Bキャラ = 13:,,
+?? (talking),えっ、本当ですか……？ 旦那様、喜久子はやりました！,"What, really? ……? Sir, Kikuko did it!","¿Qué, de verdad? ……? ¡Señor, Kikuko lo hizo!"
+__system__??,},,
+__system__??,{Bキャラ = 15:,,
+?? (talking),…………フン……,………… Hun ……,………… Hun ……
+__system__??,},,
+__system__??,{Bキャラ = 17:,,
+?? (talking),躰、ちょっとは丈夫になったのかな？,"Body, has it become a little sturdier?","Los cuerpos, ¿se han vuelto un poco más duros?"
+__system__??,},,
+__system__??,{Bキャラ = 18:,,
+?? (talking),もっと頑張らないと…… 私一人の事じゃないもの。,I need to work harder…… It's not just about me.,Tengo que trabajar más duro…… No se trata sólo de mí.
+__system__??,},,
+__system__??,{Bキャラ = 19:,,
+?? (talking),そろそろだと思っていたけれど ……くすっ、案外早かったのね。,"I thought it was about time, but…… I guess it was sooner than I thought.","Pensaba que ya era hora, pero…… maldita sea, ha sido antes de lo que pensaba."
+__system__??,},,
+__system__??,{Bキャラ = 20:,,
+?? (talking),も、もっと……もっと強くなります。 もっと強くならなきゃ……,We have to be more…… stronger. We have to be stronger……,También podemos ser más fuertes ……. Tenemos que ser más fuertes……
+__system__??,},,
+__system__??,{Bキャラ = 28:,,
+?? (talking),悪くはないですね。,Not bad.,No está mal.
+__system__??,},,
+__system__??,{Bキャラ = 29:,,
+?? (talking),よし！！ まだまだ、これからぁ！,All right! We're not done yet!,¡Muy bien! Todavía no hemos terminado.
+__system__??,},,
+__system__??,{Bキャラ = 30:,,
+?? (talking),……ありがたいのか、どうなのか… わからんな……,……Thanks or no thanks… I don't know……,……Gracias o no gracias… no lo sé……
+__system__??,},,
+__system__??,{Bキャラ = 34:,,
+?? (talking),ひ、ひへ……ひへひゃへ………… くけ、けけ……ひゃはははは……！,"Hi, hi hee…… hi hee hee hee………… kuke, ke ke ke…… hiya ha ha ha ha ha ha ……!","¡Hola, hihe…… hihe hihe………… kuke, ke keke…… hiha haha ……!"
+__system__??,},,
+__system__??,{Bキャラ = 35:,,
+?? (talking),………………………………エっ？,……………………………… エっ?,……………………………… エっ?
+__system__??,},,
+__system__??,{Bキャラ = 36:,,
+?? (talking),あらら~~♪,Oops~♪,Oops~♪
+__system__??,},,
+__system__??,{Bキャラ = 37:,,
+?? (talking),うむ。,Mm.,Mm.
+__system__??,},,
+__system__??,{Bキャラ = 39:,,
+?? (talking),俺が強くなって喜ぶのは、 悪司だけかもな。,Maybe only Akuji will be happy to see me get stronger.,Quizá sólo Akuji se alegre de que sea más fuerte.
+__system__??,},,
+__system__??,{Bキャラ = 41:,,
+?? (talking),…………えーっと…… これって喜んでいい事なんですよね？,"………… umm……… This is something I should be happy about, right?","………… er,…… Esto es algo de lo que deberíamos alegrarnos, ¿no?"
+__system__??,},,
+__system__??,{Bキャラ = 42:,,
+?? (talking),え~~~~！！ 俺っすか~~~？？,What? ~~~~! Is it me~?,¿Qué? ¡~~~~! ¿Soy yo?
+__system__??,},,
+__system__??,{Bキャラ = 43:,,
+?? (talking),まだ高みを目指す事が出来るとは…,I didn't know we could still aim so high…,No me había dado cuenta de que aún se podían alcanzar grandes alturas…
+__system__??,},,
+__system__??,{Bキャラ = 44:,,
+?? (talking),ははん。 ま、こんなもんじゃない？,"Hahan. Well, isn't it like this?",Hahan. ¿No es así como se hace?
+__system__??,},,
+__system__??,{Bキャラ = 45:,,
+?? (talking),日々精進している事は、 喜ばしい事ですわ。,It's a pleasure to know that you are advancing every day.,Es un placer saber que estás mejorando día a día.
+__system__??,},,
+__system__??,{Bキャラ = 46:,,
+?? (talking),…………………,…………………,…………………
+__system__??,},,
+__system__??,{Bキャラ = 47:,,
+?? (talking),やったぁ！ 春風もっと強くなって、 悪司ぶちのめすんだから！,Yes! Harukaze get stronger and Akuji beat you up!,"¡Sí! Harukaze, hazte más fuerte, Akuji, ¡te vamos a ganar!"
+__system__??,},,
+__system__??,{Bキャラ = 48:,,
+?? (talking),いい感じですね。,It looks good.,Buena mirada.
+__system__??,},,
+__system__??,{Bキャラ = 49:,,
+?? (talking),あららぁ…… 強くなっちゃいましたよぉ…,Oh my gosh…… I'm getting stronger…,"Oh, querida…… Se está haciendo más fuerte…"
+__system__??,},,
+__system__??,{Bキャラ = 50:,,
+?? (talking),戦っているのだから、当然だ。,"We are fighting, of course.","Estamos luchando, por supuesto."
+__system__??,},,
+__system__??,{Bキャラ = 51:,,
+?? (talking),……まずは一段落ですね。 有り難うございます。,"…… First of all, it's a relief. Thank you.","…… En primer lugar, es un alivio. Gracias."
+__system__??,},,
+__system__??,{Bキャラ = 54:,,
+?? (talking),まだまだ、こんなところで 満足なんてしないんだから！,I'm not satisfied with this place yet!,No estamos satisfechos todavía.
+__system__??,},,
+__system__??,{Bキャラ = 55:,,
+?? (talking),………………,………………,………………
+__system__??,},,
+__system__??,{Bキャラ = 56:,,
+?? (talking),これでまた、真の正義に一歩 近づいたという事か。,So now we are one step closer to true justice.,Así que ahora estamos un paso más cerca de la verdadera justicia de nuevo.
+__system__??,},,
+__system__??,{Bキャラ = 57:,,
+?? (talking),けひひ。 そんな事より、酒まだかい？,Kehi-hi. But that's not the point. You still haven't had your drink yet?,"Kehi. Esa no es la cuestión, ¿ya te has tomado tu copa?"
+__system__??,},,
+__system__??,{Bキャラ = 58:,,
+?? (talking),よし…,Okay…,Bien…
+__system__??,},,
+__system__??,{Bキャラ = 62:,,
+?? (talking),やったね☆,Yay Tane☆,Yay Tane☆
+__system__??,},,
+__system__??,{Bキャラ = 64:,,
+__system__??,{☆金田 > 20:,,
+?? (talking),ふふん。,Hmmm.,Hmmm.
+__system__??,} else {,,
+?? (talking),ふ、ふん…この程度で、ボクが喜ぶとでも 思っているのか？,Do you really think this is going to make me happy?,¿De verdad crees que esto me va a hacer feliz?
+__system__??,},,
+__system__??,},,
+__system__??,{Bキャラ = 65:,,
+?? (talking),おっしゃああああ！！ 見たか、悪司！！,"Oshaaaaaah! You see that, Akuji!","¡Oshaaaah! ¿Has visto eso, Akuji?"
+__system__??,},,
+__system__??,{Bキャラ = 66:,,
+?? (talking),え、あ、ぼ、ぼく、やったんですね…,"Oh, I, I, I did it, didn't I…","Oh, Dios mío, lo hice…"
+__system__??,},,
+__system__??,{Bキャラ = 67:,,
+?? (talking),………そうか、解った。,"……… Okay, I get it.","……… De acuerdo, entendido."
+__system__??,},,
+__system__??,{Bキャラ = 68:,,
+?? (talking),別に感慨などない。 早く手続きを済ませてくれ。,I'm not really emotional about it. Just get the procedure done.,No estoy muy emocionado por ello. Sólo haz el procedimiento.
+__system__??,},,
+__system__??,{Bキャラ = 69:,,
+?? (talking),ありがたい事です。,I am grateful.,Afortunadamente.
+__system__??,},,
+__system__??,{Bキャラ = 75:,,
+?? (talking),やったー。 もっと頑張るよ。,Yay. I'll try harder.,Sí. Me esforzaré más.
+__system__??,},,
+__system__??,{Bキャラ = 76:,,
+?? (talking),ふむ。 まだまだ、精進あるのみ。,Hmmm. I still have to be diligent.,Hm. Todavía tengo que ser diligente.
+__system__??,},,
+__system__??,{Bキャラ = 77:,,
+?? (talking),……………ふふふ……,…………… fufu ……,…………… ff……
+__system__??,},,
+__system__??,{Bキャラ = 78:,,
+?? (talking),おいっすおいっすおいーっす！ どんどんぱふぱふ~~~☆,Heyy! Keep puffing and puffing~~~~~~~~~!☆,¡Oyeee! ¡Sigue resoplando y resoplando~~~!☆
+__system__??,},,
+__system__??,{Bキャラ = 79:,,
+?? (talking),ガキじゃあるまいし…… いちいち喜んでいられるかよ。,You're not a kid…… You can't be happy about every little thing.,No eres un niño…… No puedes alegrarte por cualquier cosa.
+__system__??,},,
+__system__??,{Bキャラ = 80:,,
+?? (talking),やったずらよ。 盆と正月が一緒にきたみたいずら。,I did it. It's like the Bon Festival and the New Year came together.,Lo hice. Es como si el Festival del Bon y el Año Nuevo se juntaran.
+__system__??,},,
+__system__??,{Bキャラ = 81:,,
+?? (talking),アーサはレベルがあがった！！ ゆうきが　みっつ　ふえた！ だが　いせかいでは　つかえない！,Ursa has raised his level! He's got three more advantages! But he's still no match for the Rock!,¡Usa ha subido de nivel! ¡Tiene tres poderes más! ¡Pero no es rival para la Roca!
+__system__??,},,
+__system__??,{Bキャラ = 82:,,
+?? (talking),カリコリルリはレベルがあがった！！ じゅもんを　ひとつ　おぼえた！ だが　いせかいでは　つかえない！,Carikoriluri has raised a level! He's learned a spell! But not on the rock!,¡Carikoriluri ha subido de nivel! ¡Ha aprendido un hechizo! ¡Pero no es bueno en la roca!
+__system__??,},,
+__system__??,{Bキャラ = 87:,,
+?? (talking),私は戦い続けるわ。 あの科学者の暴挙を止めるまで……,I'll keep fighting. Until I stop that scientist's rampage: ……,Seguiré luchando. Hasta que detenga el desenfreno de ese científico……
+__system__??,},,
+__system__??,{Bキャラ = 89:,,
+?? (talking),コンディ、強クナル。 モット、モット。,"Condi, strong kunar. Motto, motto.","Condi, fuerte kunar. Lema, lema."
+__system__??,},,
+__system__??,{Bキャラ = 90:,,
+?? (talking),ふっ…… また俺の罪がひとつ増えたぜ。,"Phew…… One more sin for me, man.","Uf…… Otro de mis pecados, hombre."
+__system__??,},,
+__system__??,{Bキャラ = 91:,,
+?? (talking),…………………,…………………,…………………
+__system__??,},,
+__system__??,{Bキャラ = 92:,,
+?? (talking),れべるあっぷって、美味しいですか？ かじっていいですか？,Is Reberup delicious? Can I nibble on it?,¿Es sabroso el Reberuappu? ¿Puedo mordisquearlo?
+__system__??,},,
+__system__??,{Bキャラ = 93:,,
+?? (talking),やれやれ。 また旦那になる男が減ったかなぁ。,Oh dear. I guess I have less men to be husbands again.,"Oh, Dios. Me pregunto si he perdido a otro hombre para ser mi marido."
+__system__??,},,
+__system__??,{Bキャラ = 94:,,
+?? (talking),へへへん。 まだまだって感じだよ。,Heh heh heh. I feel like I'm not there yet.,Jejeje. Siento que aún no estoy preparado.
+__system__??,},,
+__system__??,{Bキャラ = 95:,,
+?? (talking),……こんなものだろう…,…… This is what it would look like…,…… Así es como sería…
+__system__??,},,
+__system__??,{Bキャラ = 96:,,
+?? (talking),……………………うん…,…………………… Yeah…,…………………… sí…
+__system__??,},,
+__system__??,{Bキャラ = 24:,,
+?? (talking),僕って強いねぇ。,I'm so strong.,"Soy muy fuerte, ¿verdad?"
+__system__??,},,
+__system__??,{Bキャラ = 23:,,
+?? (talking),ふっ…,Hmph…,Hmph…
+__system__??,},,
+__system__??,{Bキャラ = 21:,,
+?? (talking),うおおおおおお！！！,Woah woah woah!!!!,¡¡Woah woah woah!!
+__system__??,},,
+__system__??,{Bキャラ = 98:,,
+?? (talking),まおーーーーーーーーーーーーーー。,Maooooooooooooooo,Maooooooooooooooo
+__system__??,},,
+__system__??,{Bキャラ = 25:,,
+?? (talking),ＡＡＡＡＡＡＡＡＡＡＡＡＡＡ,ＡＡＡＡＡＡＡＡＡＡＡＡＡＡ,ＡＡＡＡＡＡＡＡＡＡＡＡＡＡ
+__system__??,},,
+__system__??,{Bキャラ = 26:,,
+?? (talking),報酬はスイス銀行へ。,Reward goes to Swiss Bank.,La recompensa es para el Banco Suizo.
+__system__??,},,
+__system__??,{Bキャラ = 27:,,
+?? (talking),レレルラール。,Lerrerall.,Lerleral.
+__system__??,},,
+__system__??,{Bキャラ = 83:,,
+?? (talking),ぼ、ぼぼぼぼぼぼボクの……,Blah blah blah blah my ……,"Bla, bla, bla mi ……"
+__system__??,},,
+__system__??,{Bキャラ = 86:,,
+?? (talking),か弱き乙女である私が、 こんなに強くなって、よいのかしら。,"I wonder if it is right for me, a fragile maiden, to become so strong.","Me pregunto si a mí, una frágil doncella, se me permite ser tan fuerte."
+__system__??,},,
+__system__??,{Bキャラ = 501:,,
+?? (talking),は、はい。 強くなった……かな？,"Ha, yes. Is it stronger ……?","Ja, sí. ¿Es más fuerte ……?"
+__system__??,},,
+__system__??,{Bキャラ = 502:,,
+?? (talking),ういす！ がんばるっす。,Usui! I'll do my best.,¡Uisu! Haré lo que pueda.
+__system__??,},,
+__system__??,{Bキャラ = 503:,,
+?? (talking),これからも、頑張ります。,I will continue to do my best.,Seguiremos haciéndolo lo mejor posible.
+__system__??,},,
+__system__??,{Bキャラ = 504:,,
+?? (talking),おりゃああ！,Yaah!,¡Yaaaa!
+__system__??,},,
+__system__??,{Bキャラ = 505:,,
+?? (talking),強くなりましたね。 もうひとつ、いけますかね。,I'm getting stronger Tane. Can we have another one?,Me estoy haciendo más fuerte Tane. ¿Podemos tener otro?
+__system__??,},,
+__system__??,{Bキャラ = 506:,,
+?? (talking),あたしなんかが強くなってもねぇ…,Even if I get stronger…,Incluso si me vuelvo más fuerte…
+__system__??,},,
+__system__??,{Bキャラ = 507:,,
+?? (talking),これからだ…,I'm just getting started…,Vamos a…
+__system__??,},,
+__system__??,{Bキャラ = 508:,,
+?? (talking),強くなればなる程、 治安を守りやすくなりますね。,"The stronger we are, the easier it will be to protect public safety.","Cuanto más fuerte sea, más fácil será proteger la seguridad pública."
+__system__??,},,
+__system__??,{Bキャラ = 509:,,
+?? (talking),わうっ！！,WOW!!!,¡¡Woah!!
+__system__??,},,
+__system__??,{Bキャラ = 510:,,
+?? (talking),いい感じですね。,It looks good.,Buena mirada.
+__system__??,},,
+__system__??,{Bキャラ = 511:,,
+?? (talking),アイヤー！,Aiyah!,¡Ayer!
+__system__??,},,
+__system__??,{Bキャラ = 512:,,
+?? (talking),この恵み、全て 那古神様のために……,"All this grace, all for Nako God……","Todas estas bendiciones, todas para el Dios Nako……"
+__system__??,},,
+__system__??,{Bキャラ = 513:,,
+?? (talking),ああ、天地の精霊と那古神様に、 感謝申し上げます……,"Oh, to the spirits of heaven and earth and to God Nako, thank you……","Oh, a los espíritus del cielo y de la tierra y a Dios Nako, gracias……"
+__system__??,},,
+__system__??,{Bキャラ = 514:,,
+?? (talking),がおー♪,Gao♪,Gao♪
+__system__??,},,
+__system__??,{Bキャラ = 515:,,
+?? (talking),ク、クスリー！！！！！,"Ku, Kusuri ！！！！！","Ku, Kusuri ！！！！！"
+__system__??,},,
+__system__??,{Bキャラ = 516:,,
+?? (talking),強くなっちゃった…,I'm getting stronger…,Me estoy haciendo más fuerte…
+__system__??,},,
+__system__??,{Bキャラ = 517:,,
+?? (talking),はい、頑張ります。,"Yes, I will do my best.","Sí, haré lo que pueda."
+__system__??,},,
+__system__??,{Bキャラ = 518:,,
+?? (talking),いける…まだいけるわ…,I can still… still…,Puedo… todavía…
+__system__??,},,
+__system__??,{Bキャラ = 520:,,
+?? (talking),もっといけますかしら？,Can I get more?,¿Podemos hacer más?
+__system__??,},,
+__system__??,{Bキャラ = 521:,,
+?? (talking),やりました。 頑張るといい事ありますね。,I did it. It's good to work hard.,Lo hice. Es bueno trabajar duro.
+__system__??,},,
+__system__??,{Bキャラ = 522:,,
+?? (talking),ジーザス。,Jesus.,Jesús.
+__system__??,},,
+__system__??,{Bキャラ = 523:,,
+?? (talking),まんぼーう。,Mambo.,Mambo.
+__system__??,},,
+__system__??,{Bキャラ = 524:,,
+?? (talking),ほー…強くなれるモンですねー…,I can be strong….,Ho… puedes ser fuerte…
+__system__??,},,
+__system__??,{Bキャラ = 525:,,
+?? (talking),イエーイ！,Yeah!,¡Sí!
+__system__??,},,
+__system__??,{Bキャラ = 526:,,
+?? (talking),な、なんだとぅ、ぅらぁ！,"What the hell, oooh!","¡Qué demonios, oooh!"
+__system__??,},,
+__system__??,{Bキャラ = 528:,,
+?? (talking),ウキーッ！,Wookiee!,¡Wookiee!
+__system__??,},,
+__system__??,{Bキャラ = 529:,,
+?? (talking),キョエー！,Kyooey!,¡Kye!
+__system__??,},,
+__system__??,{Bキャラ = 530:,,
+?? (talking),Ｏｈ！,Ｏｈ！,Ｏｈ！
+__system__??,},,
+__system__??,{Bキャラ = 534:,,
+?? (talking),注射しますよ☆,I'll give you an injection.☆,Te daré una inyección☆.
+__system__??,},,
+__system__??,{Bキャラ = 537:,,
+?? (talking),しゃー、しゃー、しゃー！ しゃあ、しゃあ、しゃああッ！,"Ssha, sha, sha! Sha, sha, sha!","¡Sha, sha, sha! ¡Sha, sha, sha!"
+__system__??,},,
+__system__??,{Bキャラ = 540:,,
+?? (talking),くきききー　くきききー。,Kuki kiki - kuki kiki.,Kuki kiki - kuki kiki.
+__system__??,},,
+__system__??,{Bキャラ = 548:,,
+?? (talking),オー…,O…,O…
+__system__??,},,
+__system__??,{Bキャラ = 550:,,
+?? (talking),はわはわはわ……,Hahahaha ……,"Ja, ja, ja ……"
+__system__??,},,
+__system__??,{Bキャラ = 553:,,
+?? (talking),おお、やったぞい。,"Oh, we did it.","¡Oh, lo hicimos!"
+__system__??,},,
+__system__??,{Bキャラ = 559:,,
+?? (talking),おにおにおに。,Oni oni oni oni.,Oni oni oni oni.
+__system__??,},,
+__system__??,{Bキャラ = 558:,,
+?? (talking),まだ、戦える。 頑張れる。,I can still fight. We can do our best.,Todavía puedo luchar. Podemos hacerlo lo mejor posible.
+__system__??,},,
+__system__??,{Bキャラ = 560:,,
+?? (talking),我が心は那古神様と共に…… 正義の力よ、永遠なれ……！,"My heart is with Nako God…… O power of justice, be everlasting ……!","Mi corazón está con Nako Dios…… Fuerzas de la justicia, sean eternas……"
+__system__??,},,
+__system__??,{Bキャラ = 568:,,
+?? (talking),しょみみ~。,Shomi~.,Shomi~.
+__system__??,},,

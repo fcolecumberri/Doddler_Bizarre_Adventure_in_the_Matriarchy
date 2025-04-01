@@ -1,88 +1,88 @@
-"character","jap text","Eng","Esp"
-"__system__??","{麦 = 1:","",""
-"__system__??","{RND = 1:","",""
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","{RND = 0:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 3:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 10:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 11:","",""
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 13:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 15:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 16:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 17:","",""
-"__system__??","{H拷問抵抗 < H拷問:","",""
-"__system__??","}","",""
-"__system__??","{H拷問 = 1:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"Imagawa Kurusu (talking)","お呼びになりましたか？","Did you call for me?","¿Me has llamado?"
-"Yamamoto Akuji (talking)","おー、呼んだ呼んだ。
+character,jap text,Eng,Esp
+__system__??,{麦 = 1:,,
+__system__??,{RND = 1:,,
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,{RND = 0:,,
+__system__??,},,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 3:,,
+__system__??,},,
+__system__??,{麦 = 10:,,
+__system__??,},,
+__system__??,{麦 = 11:,,
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 13:,,
+__system__??,},,
+__system__??,{麦 = 15:,,
+__system__??,},,
+__system__??,{麦 = 16:,,
+__system__??,},,
+__system__??,{麦 = 17:,,
+__system__??,{H拷問抵抗 < H拷問:,,
+__system__??,},,
+__system__??,{H拷問 = 1:,,
+__system__??,},,
+__system__??,},,
+Imagawa Kurusu (talking),お呼びになりましたか？,Did you call for me?,¿Me has llamado?
+Yamamoto Akuji (talking),"おー、呼んだ呼んだ。
 しかしなんだな。 ご主人様がきちんとしてると犬も きちんと挨拶するモンだな。","Oh, I called it.
 But what is it? When the master is neat, the dog greets him properly, too.","Oh, lo llamé, lo llamé.
  ¿Pero qué es? Cuando el amo está aseado, el perro también le saluda adecuadamente."
-"Imagawa Kurusu (talking)","そう躾られてきましたから。","That is how I was trained.","Porque así es como hemos sido disciplinados."
-"narrator","悪司は爪の手入れをしている。","Akuji is taking care of his nails.","Akuji se hace las uñas."
-"Imagawa Kurusu (talking)","お呼びになりましたか？","Did you call for me?","¿Me has llamado?"
-"Yamamoto Akuji (talking)","あーまーな。
+Imagawa Kurusu (talking),そう躾られてきましたから。,That is how I was trained.,Porque así es como hemos sido disciplinados.
+narrator,悪司は爪の手入れをしている。,Akuji is taking care of his nails.,Akuji se hace las uñas.
+Imagawa Kurusu (talking),お呼びになりましたか？,Did you call for me?,¿Me has llamado?
+Yamamoto Akuji (talking),"あーまーな。
  ……………","Ahhhh Maaanah.
  ……………","Ah-ma-na.
 Disponible en: ……………"
-"Imagawa Kurusu (talking)","何か？","Yes?","¿Sí?"
-"Yamamoto Akuji (talking)","俺、こーいう勘、当たるんだけどよぉ。 お前さん、キリカに惚れてんのかい？","I have a hunch about this kind of thing. Are you in love with Kirika?","Tengo una corazonada sobre esto. ¿Estás enamorado de Kirika?"
-"Imagawa Kurusu (talking)","慕っていますけど。","I adore it, though.","Sin embargo, los adoro."
-"Yamamoto Akuji (talking)","…………","…………","…………"
-"Imagawa Kurusu (talking)","何か？","Yes?","¿Sí?"
-"Yamamoto Akuji (talking)","くえねーボーヤだ。 本心は見せないってか。","He's a nasty boya. You don't show your true feelings, do you?","Soy un chico malo. No muestras tus verdaderos sentimientos, ¿verdad?"
-"Imagawa Kurusu (talking)","よく言われます。","It is often said.","A menudo se dice."
-"Yamamoto Akuji (talking)","遅かったな。","Too late.","Demasiado tarde."
-"Imagawa Kurusu (talking)","すみません。 少し、街の方に出ていたものですから…
- ………あの…","I'm sorry. I was out of town for a bit………… Um…","Lo siento. Estuve fuera de la ciudad por un tiempo, así que………… Um…"
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"Imagawa Kurusu (talking)","……いえ…なんでもありません。","…… No…it's nothing.","…… No… no es nada."
-"Yamamoto Akuji (talking)","あんたらにこんなモン、 必要ねーかもしんねーけど…
+Imagawa Kurusu (talking),何か？,Yes?,¿Sí?
+Yamamoto Akuji (talking),俺、こーいう勘、当たるんだけどよぉ。 お前さん、キリカに惚れてんのかい？,I have a hunch about this kind of thing. Are you in love with Kirika?,Tengo una corazonada sobre esto. ¿Estás enamorado de Kirika?
+Imagawa Kurusu (talking),慕っていますけど。,"I adore it, though.","Sin embargo, los adoro."
+Yamamoto Akuji (talking),…………,…………,…………
+Imagawa Kurusu (talking),何か？,Yes?,¿Sí?
+Yamamoto Akuji (talking),くえねーボーヤだ。 本心は見せないってか。,"He's a nasty boya. You don't show your true feelings, do you?","Soy un chico malo. No muestras tus verdaderos sentimientos, ¿verdad?"
+Imagawa Kurusu (talking),よく言われます。,It is often said.,A menudo se dice.
+Yamamoto Akuji (talking),遅かったな。,Too late.,Demasiado tarde.
+Imagawa Kurusu (talking),"すみません。 少し、街の方に出ていたものですから…
+ ………あの…",I'm sorry. I was out of town for a bit………… Um…,"Lo siento. Estuve fuera de la ciudad por un tiempo, así que………… Um…"
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+Imagawa Kurusu (talking),……いえ…なんでもありません。,…… No…it's nothing.,…… No… no es nada.
+Yamamoto Akuji (talking),"あんたらにこんなモン、 必要ねーかもしんねーけど…
 まあ、気持ちだ。 受け取っとくれ。","I don't know if you guys need this stuff, but…
 It's just a feeling. Take it.","No sé si ustedes necesitan estas cosas, pero…
 Bueno, es sólo una sensación. Tómalo."
-"Imagawa Kurusu (talking)","お金ですか。 ありがとうございます。 気持ちと共に受け取らせて頂きます。","Is it money? Thank you very much. I will accept it with my feelings.","¿Es por el dinero? Muchas gracias. Lo recibiré con mis sentimientos."
-"Yamamoto Akuji (talking)","何に使うんだい？","What do you use it for?","¿Para qué lo utilizas?"
-"Imagawa Kurusu (talking)","何かの時の為に貯金させてもらいます。","I will save it for something.","Lo guardaré para algo."
-"Yamamoto Akuji (talking)","年相応の買い物は、今のうちに 楽しんどかなきゃいけねーぞ。","You have to enjoy shopping for your age while you still can.","Tienes que disfrutar de las compras de tu edad mientras puedas."
-"Yamamoto Akuji (talking)","おう、あんたがＰＭの若き戦士か。","Oh, you are the young warrior of PM.","Oh, eres el joven guerrero de la PM."
-"Imagawa Kurusu (talking)","こんばんはと言っても支障のない 時間ですよね。","It's time to say good evening.","Es el momento de dar las buenas tardes sin obstáculos."
-"Yamamoto Akuji (talking)","ああ。 太陽の光のないとこにいても、時間を把握 してるのは、さすがってとこか？","Oh, yeah. I guess it's amazing how you can keep track of time even when there's no sunlight.","Oh. ¿Le parece increíble que pueda seguir la pista del tiempo incluso cuando no le da el sol?"
-"Imagawa Kurusu (talking)","そんな事ありません。","That is not true.","No, no lo es."
-"Imagawa Kurusu (talking)","どうも。","Hi.","Hola."
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Imagawa Kurusu (talking)","こんばんは。 今日はどうしましたか？","Good evening. How can I help you today?","Buenas noches. ¿Cómo puedo ayudarle hoy?"
-"Yamamoto Akuji (talking)","おう、入ってこいや。","Oh, come on in.","Oh, entra, entra."
-"Imagawa Kurusu (talking)","？","？","？"
-"Imagawa Kurusu (talking)","え………","Eh ………","Eh ………"
-"Hasekura Kirika (talking)","ごきげんよう、クルス。","Good day to you, Kurusu.","Buen día para ti, Kurusu."
-"Imagawa Kurusu (talking)","キリカ様！？ どうして、悪司さんの方に……","Dear Kirika! Why, I'd like to ask Akuji to ……","¡Querida Kirika! Por qué, Akuji, tú eres el que ……"
-"Hasekura Kirika (talking)","わたくし、この方の部下になりましたの。","I am now his subordinate.","Me he convertido en su subordinado."
-"Imagawa Kurusu (talking)","えっ……","Eh ……","Eh ……"
-"Hasekura Kirika (talking)","わたくしが、ＰＭの――
+Imagawa Kurusu (talking),お金ですか。 ありがとうございます。 気持ちと共に受け取らせて頂きます。,Is it money? Thank you very much. I will accept it with my feelings.,¿Es por el dinero? Muchas gracias. Lo recibiré con mis sentimientos.
+Yamamoto Akuji (talking),何に使うんだい？,What do you use it for?,¿Para qué lo utilizas?
+Imagawa Kurusu (talking),何かの時の為に貯金させてもらいます。,I will save it for something.,Lo guardaré para algo.
+Yamamoto Akuji (talking),年相応の買い物は、今のうちに 楽しんどかなきゃいけねーぞ。,You have to enjoy shopping for your age while you still can.,Tienes que disfrutar de las compras de tu edad mientras puedas.
+Yamamoto Akuji (talking),おう、あんたがＰＭの若き戦士か。,"Oh, you are the young warrior of PM.","Oh, eres el joven guerrero de la PM."
+Imagawa Kurusu (talking),こんばんはと言っても支障のない 時間ですよね。,It's time to say good evening.,Es el momento de dar las buenas tardes sin obstáculos.
+Yamamoto Akuji (talking),ああ。 太陽の光のないとこにいても、時間を把握 してるのは、さすがってとこか？,"Oh, yeah. I guess it's amazing how you can keep track of time even when there's no sunlight.",Oh. ¿Le parece increíble que pueda seguir la pista del tiempo incluso cuando no le da el sol?
+Imagawa Kurusu (talking),そんな事ありません。,That is not true.,"No, no lo es."
+Imagawa Kurusu (talking),どうも。,Hi.,Hola.
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Imagawa Kurusu (talking),こんばんは。 今日はどうしましたか？,Good evening. How can I help you today?,Buenas noches. ¿Cómo puedo ayudarle hoy?
+Yamamoto Akuji (talking),おう、入ってこいや。,"Oh, come on in.","Oh, entra, entra."
+Imagawa Kurusu (talking),？,？,？
+Imagawa Kurusu (talking),え………,Eh ………,Eh ………
+Hasekura Kirika (talking),ごきげんよう、クルス。,"Good day to you, Kurusu.","Buen día para ti, Kurusu."
+Imagawa Kurusu (talking),キリカ様！？ どうして、悪司さんの方に……,"Dear Kirika! Why, I'd like to ask Akuji to ……","¡Querida Kirika! Por qué, Akuji, tú eres el que ……"
+Hasekura Kirika (talking),わたくし、この方の部下になりましたの。,I am now his subordinate.,Me he convertido en su subordinado.
+Imagawa Kurusu (talking),えっ……,Eh ……,Eh ……
+Hasekura Kirika (talking),"わたくしが、ＰＭの――
 支倉の家にいる事によって、アエン姉様が 継承者としての自覚を持って下さらないの でしたら……
 どこにいても同じだと思いまして。","If I, the PM…
 If Sister Aen is not aware that she is an heir by being in Hasekura's house, then she will not be able to ……
 I think it's the same no matter where you are.","Si yo, como primer ministro de…
 Si la hermana Aen no toma conciencia de su herencia al estar en la casa de Hasekura, entonces no podrá ……
 Pensé que sería lo mismo dondequiera que esté."
-"Imagawa Kurusu (talking)","だからといって、抗争中の組に……","That doesn't mean that the warring gangs can't be ……","Eso no significa que las bandas enfrentadas no puedan ser ……"
-"Hasekura Kirika (talking)","わたくしはね、クルス。 強い方が好き。 悪司さんは、わかりやすい程、お強いわ。
+Imagawa Kurusu (talking),だからといって、抗争中の組に……,That doesn't mean that the warring gangs can't be ……,Eso no significa que las bandas enfrentadas no puedan ser ……
+Hasekura Kirika (talking),"わたくしはね、クルス。 強い方が好き。 悪司さんは、わかりやすい程、お強いわ。
 それが、わたくしがここにいる理由。 そして彼が、わたくしに戦いの場を 与えてくれると約束したから。
 わたくしは継承者ではないけど、戦う者。 戦う者は、戦いの場でしか生きる事が 出来ないから。
 だから、わたくしが生きていられる 場所にいるだけですわ。","I, Kurusu. I like the strong one. Akuji is so strong that it's easy to see.
@@ -92,131 +92,131 @@ So I am only here where I can live.","Yo, Kurusu. Me gusta el fuerte. Akuji, ere
 Por eso estoy aquí. Y porque prometió darme una oportunidad de luchar.
 No soy un heredero, pero soy un luchador. Un luchador sólo puede vivir en un lugar de batalla.
 Por eso sólo estoy aquí donde puedo vivir."
-"Imagawa Kurusu (talking)","…………","…………","…………"
-"Hasekura Kirika (talking)","びっくりしていますわね。","You're surprised.","Estás sorprendido."
-"Imagawa Kurusu (talking)","は、はい…… そこまで思い切った事をなさるとは 思ってもみませんでしたから。","Yes,…… I didn't expect you to be that drastic.","Ja, sí,…… porque no esperaba que fueras tan drástico."
-"Hasekura Kirika (talking)","クルス、あなたはどう？ 戦いの場で生きていたくはない？","Kurusu, what about you? Don't you want to live in the battlefield?","Kurusu, ¿y tú? ¿No quieres vivir en el campo de batalla?"
-"Imagawa Kurusu (talking)","それは……嫌いではないです。 自分が成長しているのがわかる方が、 自分もしっかりしていられますし…","I don't hate…… that. The more I can see myself growing, the better I can hold my own…","No odio…… eso. Cuanto más pueda verme crecer, mejor podré aguantar…"
-"Hasekura Kirika (talking)","でしたら、こちらにいらっしゃい。 裏切り者になってしまうけど、 その勇気があるのでしたら。","If so, come here. If you have the courage, even if it makes you a traitor.","Si es así, ven aquí. Si tienes el valor, aunque te convierta en un traidor."
-"Imagawa Kurusu (talking)","僕はキリカ様の門下生です。 師匠のキリカ様に、死ぬまでついていく 覚悟はとうについています。","I am a student of Master Kirika. I am ready to follow my master Kirika until my death.","Soy un estudiante del Maestro Kirika. Estoy dispuesto a seguir a mi maestro Kirika hasta mi muerte."
-"Hasekura Kirika (talking)","クルス……","Kurusu……","Kurusu……"
-"Imagawa Kurusu (talking)","悪司さん。","Akuji.","Akuji."
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Imagawa Kurusu (talking)","師匠が上司とするなら、僕にとって、 あなたも上司です。
+Imagawa Kurusu (talking),…………,…………,…………
+Hasekura Kirika (talking),びっくりしていますわね。,You're surprised.,Estás sorprendido.
+Imagawa Kurusu (talking),は、はい…… そこまで思い切った事をなさるとは 思ってもみませんでしたから。,"Yes,…… I didn't expect you to be that drastic.","Ja, sí,…… porque no esperaba que fueras tan drástico."
+Hasekura Kirika (talking),クルス、あなたはどう？ 戦いの場で生きていたくはない？,"Kurusu, what about you? Don't you want to live in the battlefield?","Kurusu, ¿y tú? ¿No quieres vivir en el campo de batalla?"
+Imagawa Kurusu (talking),それは……嫌いではないです。 自分が成長しているのがわかる方が、 自分もしっかりしていられますし…,"I don't hate…… that. The more I can see myself growing, the better I can hold my own…","No odio…… eso. Cuanto más pueda verme crecer, mejor podré aguantar…"
+Hasekura Kirika (talking),でしたら、こちらにいらっしゃい。 裏切り者になってしまうけど、 その勇気があるのでしたら。,"If so, come here. If you have the courage, even if it makes you a traitor.","Si es así, ven aquí. Si tienes el valor, aunque te convierta en un traidor."
+Imagawa Kurusu (talking),僕はキリカ様の門下生です。 師匠のキリカ様に、死ぬまでついていく 覚悟はとうについています。,I am a student of Master Kirika. I am ready to follow my master Kirika until my death.,Soy un estudiante del Maestro Kirika. Estoy dispuesto a seguir a mi maestro Kirika hasta mi muerte.
+Hasekura Kirika (talking),クルス……,Kurusu……,Kurusu……
+Imagawa Kurusu (talking),悪司さん。,Akuji.,Akuji.
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Imagawa Kurusu (talking),"師匠が上司とするなら、僕にとって、 あなたも上司です。
 僕をあなたの配下に置いて 頂けますでしょうか？","If the master is my boss, then you are my boss, too.
 Would you take me under your command?","Si mi amo es mi jefe, entonces para mí, tú también eres mi jefe.
  ¿Estaría dispuesto a tomarme bajo su mando?"
-"Yamamoto Akuji (talking)","いいぜ。 しっかり働いてくれよ。","All right, man. Work hard.","Muy bien, hombre. Trabaja duro."
-"Imagawa Kurusu (talking)","はい。 ありがとうございます。","Yes, I would like to know if you have any questions. Thank you very much.","Sí. Gracias."
-"Yamamoto Akuji (talking)","なー、やっぱここから出たい？","Hey, do you still want to get out of here?","Oye, ¿todavía quieres salir de aquí?"
-"Imagawa Kurusu (talking)","それはもう出して頂けるのでしたら。","If you can get that out already.","Si puedes sacarlo ya."
-"Yamamoto Akuji (talking)","条件があんだけど。","I have a condition.","Condiciones."
-"Imagawa Kurusu (talking)","はい、なんでしょう？","Yes, what is it?","Sí, ¿qué es?"
-"Yamamoto Akuji (talking)","俺の部下になって、戦ってくんねぇ？","Will you be my subordinate and fight for me?","¿Serás mi hombre y lucharás por mí?"
-"Imagawa Kurusu (talking)","……………
+Yamamoto Akuji (talking),いいぜ。 しっかり働いてくれよ。,"All right, man. Work hard.","Muy bien, hombre. Trabaja duro."
+Imagawa Kurusu (talking),はい。 ありがとうございます。,"Yes, I would like to know if you have any questions. Thank you very much.",Sí. Gracias.
+Yamamoto Akuji (talking),なー、やっぱここから出たい？,"Hey, do you still want to get out of here?","Oye, ¿todavía quieres salir de aquí?"
+Imagawa Kurusu (talking),それはもう出して頂けるのでしたら。,If you can get that out already.,Si puedes sacarlo ya.
+Yamamoto Akuji (talking),条件があんだけど。,I have a condition.,Condiciones.
+Imagawa Kurusu (talking),はい、なんでしょう？,"Yes, what is it?","Sí, ¿qué es?"
+Yamamoto Akuji (talking),俺の部下になって、戦ってくんねぇ？,Will you be my subordinate and fight for me?,¿Serás mi hombre y lucharás por mí?
+Imagawa Kurusu (talking),"……………
 困りましたね。","……………
 I'm in trouble Tane.","……………
 Estoy en problemas Tane."
-"Yamamoto Akuji (talking)","駄目か。","No?","No."
-"Imagawa Kurusu (talking)","はい。","Yes.","Sí."
-"Yamamoto Akuji (thinking)","……う~ん…… こーいうタイプは、弱み見つけて 攻撃した方が懐柔しやすそーだなー…","…… hmmm……… I guess it's easier to win these types of people over if you find their weakness and attack them…","…… hmmm…… Es más fácil someter a este tipo de personas si encuentras sus puntos débiles y los atacas…"
-"Imagawa Kurusu (talking)","こんにちわ。 お邪魔します。","Hello. Sorry to bother you.","Hola. Siento molestarle."
-"Mizuumi Kazuki (talking)","あ、いらっしゃーい。 どしたんですか、今日は？","Ah, welcome. What's up, what's up today?","Ah, bienvenido. ¿Qué pasa hoy?"
-"Imagawa Kurusu (talking)","視察みたいなもので。","It's like an inspection tour.","Es como una visita de inspección."
-"Mizuumi Kazuki (talking)","あ、ご苦労様です。 クルスさんもお若いのに大変ですねー。","Oh, thank you for your efforts. Kurusu, you are also very young, but it's hard work!","Oh, gracias por tu duro trabajo. Kurusu, eres joven, ¡pero es un trabajo duro!"
-"Imagawa Kurusu (talking)","戦争で男の数が減ってしまった 現状では、しかたないですよ。","The number of men has been reduced due to the war.","La guerra ha reducido el número de hombres."
-"Mizuumi Kazuki (talking)","んでも、あたしはそのおかげで、 眼鏡っ娘の社員をたっぷし雇えて ラッキー☆なんですけどねー。","But thanks to that, I'm lucky☆ to have a lot of bespectacled employees.","Pero gracias a eso, tengo la suerte☆ de tener un montón de empleados con gafas."
-"Imagawa Kurusu (talking)","これで、ウィミィの無茶がなければ、 社長は天国のような状態ですよね。","Now, if it weren't for Wime's recklessness, the president would be in heaven.","Ahora, si no fuera por la imprudencia de Wime, el presidente estaría en el cielo."
-"Mizuumi Kazuki (talking)","あーアレねー…
+Yamamoto Akuji (talking),駄目か。,No?,No.
+Imagawa Kurusu (talking),はい。,Yes.,Sí.
+Yamamoto Akuji (thinking),……う~ん…… こーいうタイプは、弱み見つけて 攻撃した方が懐柔しやすそーだなー…,…… hmmm……… I guess it's easier to win these types of people over if you find their weakness and attack them…,…… hmmm…… Es más fácil someter a este tipo de personas si encuentras sus puntos débiles y los atacas…
+Imagawa Kurusu (talking),こんにちわ。 お邪魔します。,Hello. Sorry to bother you.,Hola. Siento molestarle.
+Mizuumi Kazuki (talking),あ、いらっしゃーい。 どしたんですか、今日は？,"Ah, welcome. What's up, what's up today?","Ah, bienvenido. ¿Qué pasa hoy?"
+Imagawa Kurusu (talking),視察みたいなもので。,It's like an inspection tour.,Es como una visita de inspección.
+Mizuumi Kazuki (talking),あ、ご苦労様です。 クルスさんもお若いのに大変ですねー。,"Oh, thank you for your efforts. Kurusu, you are also very young, but it's hard work!","Oh, gracias por tu duro trabajo. Kurusu, eres joven, ¡pero es un trabajo duro!"
+Imagawa Kurusu (talking),戦争で男の数が減ってしまった 現状では、しかたないですよ。,The number of men has been reduced due to the war.,La guerra ha reducido el número de hombres.
+Mizuumi Kazuki (talking),んでも、あたしはそのおかげで、 眼鏡っ娘の社員をたっぷし雇えて ラッキー☆なんですけどねー。,"But thanks to that, I'm lucky☆ to have a lot of bespectacled employees.","Pero gracias a eso, tengo la suerte☆ de tener un montón de empleados con gafas."
+Imagawa Kurusu (talking),これで、ウィミィの無茶がなければ、 社長は天国のような状態ですよね。,"Now, if it weren't for Wime's recklessness, the president would be in heaven.","Ahora, si no fuera por la imprudencia de Wime, el presidente estaría en el cielo."
+Mizuumi Kazuki (talking),"あーアレねー…
 せめて、シーネルが眼鏡っ娘だったり したら、あたしだって、ＳＭ気分で 仕事出来るのにねー。","Oh, that's the thing…
 At least if Seanel was a glasses girl, I could work like a SM!","Ah, esa es la cuestión…
  ¡Al menos si Seanel fuera una chica con gafas, podría trabajar como un SM!"
-"Imagawa Kurusu (talking)","あ、そうだ。 この前雑誌で、可愛い眼鏡っ娘の写真が 掲載されていたので、持ってきましたよ。","Oh, that's right. I saw a picture of a cute glasses girl in a magazine the other day, so I brought it with me.","Ah, sí. El otro día vi una revista con la foto de una chica guapa con gafas, así que me la traje."
-"Mizuumi Kazuki (talking)","きゃん☆ブラボー！ ありがと、クルスさん。
+Imagawa Kurusu (talking),あ、そうだ。 この前雑誌で、可愛い眼鏡っ娘の写真が 掲載されていたので、持ってきましたよ。,"Oh, that's right. I saw a picture of a cute glasses girl in a magazine the other day, so I brought it with me.","Ah, sí. El otro día vi una revista con la foto de una chica guapa con gafas, así que me la traje."
+Mizuumi Kazuki (talking),"きゃん☆ブラボー！ ありがと、クルスさん。
 あーあ、クルスさんが眼鏡っ娘だったら、 あたし、もっと幸せなんだけどなー☆","Kyan☆Bravo! Thanks, Kurusu.
 Oh, if Kurusu was a girl with glasses, I'd be even happier!","¡Kyan☆Bravo! Gracias, Kurusu.
  ¡Oh, si Kurusu fuera una chica con gafas, sería aún más feliz!"
-"Imagawa Kurusu (talking)","ははははは。","Ha ha ha.","Ja, ja, ja."
-"haniidobokushain (talking)","社長、ＰＭの今川様が、 至急お会いしたいとの事ですが、 よろしいでしょうか？","Mr. President, Mr. Imagawa of PM would like to see you ASAP.","Señor Presidente, el Primer Ministro, el Sr. Imagawa, desea verle inmediatamente."
-"Mizuumi Kazuki (talking)","超ＯＫよー、どうぞー。","Super OK - here you go!","Super OK - ¡adelante!"
-"Imagawa Kurusu (talking)","すみません、お邪魔します。","Sorry to bother you.","Perdón, siento molestarle."
-"Mizuumi Kazuki (talking)","どうしましたー？","What's wrong?","¿Qué pasa?"
-"Imagawa Kurusu (talking)","はい。 無理を承知のお願いを。","Yes. Please accept the unreasonable request.","Sí. Por favor, acepte la petición poco razonable."
-"Mizuumi Kazuki (talking)","え……","Eh ……","Eh ……"
-"Imagawa Kurusu (talking)","お仕事を依頼します。","We request your work.","Solicitud de trabajo."
-"Mizuumi Kazuki (talking)","え、仕事って……
+Imagawa Kurusu (talking),ははははは。,Ha ha ha.,"Ja, ja, ja."
+haniidobokushain (talking),社長、ＰＭの今川様が、 至急お会いしたいとの事ですが、 よろしいでしょうか？,"Mr. President, Mr. Imagawa of PM would like to see you ASAP.","Señor Presidente, el Primer Ministro, el Sr. Imagawa, desea verle inmediatamente."
+Mizuumi Kazuki (talking),超ＯＫよー、どうぞー。,Super OK - here you go!,Super OK - ¡adelante!
+Imagawa Kurusu (talking),すみません、お邪魔します。,Sorry to bother you.,"Perdón, siento molestarle."
+Mizuumi Kazuki (talking),どうしましたー？,What's wrong?,¿Qué pasa?
+Imagawa Kurusu (talking),はい。 無理を承知のお願いを。,Yes. Please accept the unreasonable request.,"Sí. Por favor, acepte la petición poco razonable."
+Mizuumi Kazuki (talking),え……,Eh ……,Eh ……
+Imagawa Kurusu (talking),お仕事を依頼します。,We request your work.,Solicitud de trabajo.
+Mizuumi Kazuki (talking),"え、仕事って……
 む、無茶よ、今だって、エデンの……","What, work? ……
 No, it's absurd, even now, in Eden ……","¿Qué, trabajar? ……
 No, es absurdo, incluso ahora, en Eden ……"
-"Imagawa Kurusu (talking)","それを承知でと言いました。","I said I was aware of that.","He dicho que soy consciente de ello."
-"narrator","クルスはにっこりと笑ったまま、 表情を崩さない。
+Imagawa Kurusu (talking),それを承知でと言いました。,I said I was aware of that.,He dicho que soy consciente de ello.
+narrator,"クルスはにっこりと笑ったまま、 表情を崩さない。
 それは、今から依頼する事が絶対だと 物語っている。","Kurusu keeps smiling and does not change his expression.
 It tells us that what we are about to request is absolute.","Kurusu sonríe y mantiene su expresión.
 Nos dice que lo que vamos a pedir es absoluto."
-"Imagawa Kurusu (talking)","これには、ＰＭの存亡がかかっています。","The very existence of PM is at stake in this.","La propia existencia de la PM depende de esto."
-"Mizuumi Kazuki (talking)","それでは、作業の説明入りまーす。
+Imagawa Kurusu (talking),これには、ＰＭの存亡がかかっています。,The very existence of PM is at stake in this.,La propia existencia de la PM depende de esto.
+Mizuumi Kazuki (talking),"それでは、作業の説明入りまーす。
 えーと、ＰＭ本部のあるヒラカタに コウシエンから行けないように しまーす。","Now, let's start explaining the work.
 Let's see, I'll make sure that Koushien can't go to Hirakata, where the PM headquarters is located.","Ahora, empecemos a explicar el trabajo..
 Veamos, nos aseguraremos de que Kohshien no pueda ir a Hirakata, donde se encuentra la sede de la PM."
-"haniidobokushain (talking)","しゃ、社長！ それでは何キロにもなりますよ！","Sha, boss! That would be many kilos!","¡Sha, jefe! ¡Entonces serán muchos kilómetros!"
-"Mizuumi Kazuki (talking)","しなさーい。","I'll be right with you.","Shusha-ee."
-"haniidobokushain (talking)","で、でもどうやって………","So, but how do you ………","Entonces, pero cómo ………"
-"Mizuumi Kazuki (talking)","鉄製の支柱をばすばす建てて、 コンクリで根元をごりごり固めまーす。
+haniidobokushain (talking),しゃ、社長！ それでは何キロにもなりますよ！,"Sha, boss! That would be many kilos!","¡Sha, jefe! ¡Entonces serán muchos kilómetros!"
+Mizuumi Kazuki (talking),しなさーい。,I'll be right with you.,Shusha-ee.
+haniidobokushain (talking),で、でもどうやって………,"So, but how do you ………","Entonces, pero cómo ………"
+Mizuumi Kazuki (talking),"鉄製の支柱をばすばす建てて、 コンクリで根元をごりごり固めまーす。
 で、もー、何使っちゃってもいいから、 がーーーん、ごーーん、げーーんと 壁作っちゃいまーーーす。","We will erect steel pillars and harden the base of the pillars with concrete.
 And then, we can use whatever we want, so we'll just build a wall….","Construye los pilares de acero rápidamente y endurece la base con hormigón.
 Y luego, puedes usar lo que quieras, así que vamos a construir un muro, como un gran, gran, gran muro."
-"haniidobokushain (talking)","で、ですがそこには鉄道が 走ってますよ！ それに、道路も……","And, but there's a railroad running there! And there are roads ……","¡Y, pero hay una línea de ferrocarril allí! Y hay caminos ……"
-"Mizuumi Kazuki (talking)","ふさいじゃって、ＯＫー。","Block it up, OK.","Bloquéalo, OK-."
-"haniidobokushain (talking)","そ、そんな……","Oh, no……","Oh, no……"
-"Mizuumi Kazuki (talking)","一切の責任は、ＰＭが負うって 言ってるから、いーの。 あたしは依頼されただけだしー。","I don't care, because the PM says he'll take full responsibility. I was only asked to do it.","El primer ministro dice que asumirá toda la responsabilidad, así que está bien. Sólo me pidieron que lo hiciera."
-"haniidobokushain (thinking)","……ヤケクソになってらっしゃる……","……You're getting desperate……","…… Te estás desesperando……"
-"Mizuumi Kazuki (talking)","あ~~~も~~~~！！！ あたしだって、帰ってビール飲んで、 プハーって言いたかったわよー！
+haniidobokushain (talking),で、ですがそこには鉄道が 走ってますよ！ それに、道路も……,"And, but there's a railroad running there! And there are roads ……","¡Y, pero hay una línea de ferrocarril allí! Y hay caminos ……"
+Mizuumi Kazuki (talking),ふさいじゃって、ＯＫー。,"Block it up, OK.","Bloquéalo, OK-."
+haniidobokushain (talking),そ、そんな……,"Oh, no……","Oh, no……"
+Mizuumi Kazuki (talking),一切の責任は、ＰＭが負うって 言ってるから、いーの。 あたしは依頼されただけだしー。,"I don't care, because the PM says he'll take full responsibility. I was only asked to do it.","El primer ministro dice que asumirá toda la responsabilidad, así que está bien. Sólo me pidieron que lo hiciera."
+haniidobokushain (thinking),……ヤケクソになってらっしゃる……,……You're getting desperate……,…… Te estás desesperando……
+Mizuumi Kazuki (talking),"あ~~~も~~~~！！！ あたしだって、帰ってビール飲んで、 プハーって言いたかったわよー！
 さっさとやるわよーコンチクショー！","I wish I could go home and have a beer and say puh-lease!
 Let's get on with it….","¡Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no! Quería ir a casa, tomar una cerveza y decir ¡por favor!
  ¡Adelante, cabroncete!"
-"Mizuumi Kazuki (talking)","いやーーーーーーー！！！！！","Noooooooooo ！！！！！","Nooooooooooooooooooooooooooooooo ！！！！！"
-"Imagawa Kurusu (talking)","まだ何も言ってませんけど。","I haven't said anything yet.","Todavía no he dicho nada."
-"Mizuumi Kazuki (talking)","わかってるわよ！ あの壁の続きを 依頼にきたんでしょ？
+Mizuumi Kazuki (talking),いやーーーーーーー！！！！！,Noooooooooo ！！！！！,Nooooooooooooooooooooooooooooooo ！！！！！
+Imagawa Kurusu (talking),まだ何も言ってませんけど。,I haven't said anything yet.,Todavía no he dicho nada.
+Mizuumi Kazuki (talking),"わかってるわよ！ あの壁の続きを 依頼にきたんでしょ？
 あれ、作ってるっていうより、 塞いでる工事だから、つまんない！","I know! I know! You came here to ask me to finish that wall, right?
 I'm not building that wall. I'm plugging it. It's boring!","Lo sé, lo sé. Estás aquí para encargar la continuación de ese muro, ¿no?
 Eso no es construir, es bloquear. ¡Es aburrido!"
-"Imagawa Kurusu (talking)","つまるつまらないではなく、 仕事でしょう？ 社長。
+Imagawa Kurusu (talking),"つまるつまらないではなく、 仕事でしょう？ 社長。
 次の依頼は、 プノンペン、コウシエンからクサカタに 入れないようにして頂きます。
 工事方法は、さっき社長が 仰った通りの方法でお願いします。","It's not about being boring. It's about the job, isn't it? Mr. President.
 My next request is that you keep Phnom Penh and Koh Xieng out of Kusakata.
 The method of construction should be the same as you just mentioned.","No se trata de ser aburrido, se trata del trabajo, ¿no? Presidente.
 Mi siguiente petición es que impida que Phnom Penh y Koh Siem entren en Kusakata.
 El método de construcción debe ser el mismo que el que nos acaba de indicar."
-"Mizuumi Kazuki (talking)","支払いは、前金でなくっちゃ、いやっ。","Payment must be made in advance.","El pago debe hacerse por adelantado, no."
-"Imagawa Kurusu (talking)","わかりました。 ＰＭ本部に請求書を回して下さい。
+Mizuumi Kazuki (talking),支払いは、前金でなくっちゃ、いやっ。,Payment must be made in advance.,"El pago debe hacerse por adelantado, no."
+Imagawa Kurusu (talking),"わかりました。 ＰＭ本部に請求書を回して下さい。
 すぐ、代金が振り込まれるように 手配しておきます。 こちらも無理をお願いしていますからね。","Understood. Please forward the invoice to PM headquarters.
 I will arrange for the money to be transferred immediately. We are asking you to do the impossible.","Entendido. Por favor, envíe la factura a la sede de PM.
 Me encargaré de que el dinero se pague inmediatamente. Nosotros también pedimos lo imposible."
-"Mizuumi Kazuki (talking)","絶対いやーーーーーーー！！！！！","Absolutely noooooooot！！！！！","¡¡¡¡¡Absolutamente noooooooo！！！！！"
-"Imagawa Kurusu (talking)","だから、まだ何も言ってませんけど。","So I haven't said anything yet.","Así que todavía no he dicho nada."
-"Mizuumi Kazuki (talking)","次はどこよー！ どこでコンクリかき混ぜればいいのよー！","Where's next! Where do I stir the concrete!","¿Dónde está el siguiente? ¿Dónde se revuelve el hormigón?"
-"Imagawa Kurusu (talking)","察しのいい人は、話が早くて助かります。
+Mizuumi Kazuki (talking),絶対いやーーーーーーー！！！！！,Absolutely noooooooot！！！！！,¡¡¡¡¡Absolutamente noooooooo！！！！！
+Imagawa Kurusu (talking),だから、まだ何も言ってませんけど。,So I haven't said anything yet.,Así que todavía no he dicho nada.
+Mizuumi Kazuki (talking),次はどこよー！ どこでコンクリかき混ぜればいいのよー！,Where's next! Where do I stir the concrete!,¿Dónde está el siguiente? ¿Dónde se revuelve el hormigón?
+Imagawa Kurusu (talking),"察しのいい人は、話が早くて助かります。
 今度は、アマノサトを中心に 工事をお願いします。
 これで最後です。 ですから、お願いします。","The sensible people are quick to talk and helpful.
 Next time, please focus on Amano Sato for the construction.
 This is the last time. So, please do it.","La gente sensata se apresura a hablar con nosotros.
 Ahora me gustaría que centraras tu trabajo de construcción en Amanosato.
 Esta es la última vez. Así que, por favor."
-"Mizuumi Kazuki (talking)","絶対、最後？","Absolutely, the last?","Absolutamente, ¿el último?"
-"Imagawa Kurusu (talking)","はい。","Yes.","Sí."
-"Mizuumi Kazuki (talking)","支払いは前金？","Is payment in advance?","¿Se paga por adelantado?"
-"Imagawa Kurusu (talking)","はい。","Yes.","Sí."
-"Mizuumi Kazuki (talking)","材料が不足で、割高になるわよ？","You're going to be short on materials, and you're going to be overpriced.","Te vas a quedar sin materiales y te va a salir más caro, ¿vale?"
-"Imagawa Kurusu (talking)","多少ならば平気です。 大事の前に、資金を惜しむ組織では ありません、ＰＭは。","A little goes a long way. PM is not an organization that will spare no expense before the big one.","Un poco da para mucho. La PM no es una organización que no escatime en gastos antes de la gran cita."
-"Mizuumi Kazuki (talking)","う~~……","U~~……","U~~……"
-"Mizuumi Kazuki (talking)","あ~~~……","Oh~~~……","Ah~~~……"
-"Imagawa Kurusu (talking)","お疲れ様でした。 さすが社長。 見事な采配で。","Thank you for your hard work. As expected of the president. With a brilliant leadership.","Gracias por su duro trabajo. Como se esperaba del Presidente. Con un liderazgo brillante."
-"Mizuumi Kazuki (talking)","お世辞なんていいわよー。","I don't care about flattery!","¡No quiero que me halaguen!"
-"Imagawa Kurusu (talking)","いえ、本当の事を言っただけですよ。","No, I was just telling the truth.","No, sólo estaba diciendo la verdad."
-"Mizuumi Kazuki (talking)","みーんな、徹夜作業だったから、 へとへとよ。","We were all exhausted from working all night.","Todos estábamos agotados de trabajar toda la noche."
-"Imagawa Kurusu (talking)","はい。 本当にありがとうございました。","Yes, I am very happy with the results. Thank you so much.","Sí, me gustaría agradecerle mucho su apoyo. Muchas gracias."
-"Mizuumi Kazuki (talking)","本当にありがたいと思ってるんだったら、 可愛い眼鏡っ娘よこしなさい。","If you are really grateful, give me a pretty bespectacled girl.","Si eres realmente agradecido, dame una chica bonita con gafas."
-"Imagawa Kurusu (talking)","ははははは。","Ha ha ha.","Ja, ja, ja."
-"Mizuumi Kazuki (talking)","あたしは、本気で言ってるのよー！","I'm serious!","¡Hablo en serio!"
-"narrator","ハニー土木の工事により、ヒラカタに 入るには南のシラハマを通って上がる道 しかなくなってしまった。","Due to Hanny civil works, the only way to enter Hirakata is through Shirahama to the south.","Las obras de ingeniería civil han hecho que la única vía de acceso a Hirakata sea a través de Sirahama hacia el sur."
-"Imagawa Kurusu (talking)","さあ、いきますよ。","Here we go.","Aquí está."
+Mizuumi Kazuki (talking),絶対、最後？,"Absolutely, the last?","Absolutamente, ¿el último?"
+Imagawa Kurusu (talking),はい。,Yes.,Sí.
+Mizuumi Kazuki (talking),支払いは前金？,Is payment in advance?,¿Se paga por adelantado?
+Imagawa Kurusu (talking),はい。,Yes.,Sí.
+Mizuumi Kazuki (talking),材料が不足で、割高になるわよ？,"You're going to be short on materials, and you're going to be overpriced.","Te vas a quedar sin materiales y te va a salir más caro, ¿vale?"
+Imagawa Kurusu (talking),多少ならば平気です。 大事の前に、資金を惜しむ組織では ありません、ＰＭは。,A little goes a long way. PM is not an organization that will spare no expense before the big one.,Un poco da para mucho. La PM no es una organización que no escatime en gastos antes de la gran cita.
+Mizuumi Kazuki (talking),う~~……,U~~……,U~~……
+Mizuumi Kazuki (talking),あ~~~……,Oh~~~……,Ah~~~……
+Imagawa Kurusu (talking),お疲れ様でした。 さすが社長。 見事な采配で。,Thank you for your hard work. As expected of the president. With a brilliant leadership.,Gracias por su duro trabajo. Como se esperaba del Presidente. Con un liderazgo brillante.
+Mizuumi Kazuki (talking),お世辞なんていいわよー。,I don't care about flattery!,¡No quiero que me halaguen!
+Imagawa Kurusu (talking),いえ、本当の事を言っただけですよ。,"No, I was just telling the truth.","No, sólo estaba diciendo la verdad."
+Mizuumi Kazuki (talking),みーんな、徹夜作業だったから、 へとへとよ。,We were all exhausted from working all night.,Todos estábamos agotados de trabajar toda la noche.
+Imagawa Kurusu (talking),はい。 本当にありがとうございました。,"Yes, I am very happy with the results. Thank you so much.","Sí, me gustaría agradecerle mucho su apoyo. Muchas gracias."
+Mizuumi Kazuki (talking),本当にありがたいと思ってるんだったら、 可愛い眼鏡っ娘よこしなさい。,"If you are really grateful, give me a pretty bespectacled girl.","Si eres realmente agradecido, dame una chica bonita con gafas."
+Imagawa Kurusu (talking),ははははは。,Ha ha ha.,"Ja, ja, ja."
+Mizuumi Kazuki (talking),あたしは、本気で言ってるのよー！,I'm serious!,¡Hablo en serio!
+narrator,ハニー土木の工事により、ヒラカタに 入るには南のシラハマを通って上がる道 しかなくなってしまった。,"Due to Hanny civil works, the only way to enter Hirakata is through Shirahama to the south.",Las obras de ingeniería civil han hecho que la única vía de acceso a Hirakata sea a través de Sirahama hacia el sur.
+Imagawa Kurusu (talking),さあ、いきますよ。,Here we go.,Aquí está.

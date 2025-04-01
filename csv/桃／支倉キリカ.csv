@@ -1,90 +1,90 @@
-"character","jap text","Eng","Esp"
-"__system__??","{麦 = 1:","",""
-"__system__??","{(☆キリカ < 20) * (☆ＤＡＴＥ > 80) * (☆キリカ／金 \ 0):","",""
-"__system__??","}","",""
-"__system__??","{☆キリカ = 11:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 2:","",""
-"__system__??","{B忠誠タイプ = 1:","",""
-"__system__??","}","",""
-"__system__??","{(B忠誠タイプ = 3) * (B忠誠心 > 70):","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 3:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 4:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 5:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 10:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 11:","",""
-"__system__??","{☆キリカ < 11:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 12:","",""
-"__system__??","{H愛欲 = 1:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 13:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 15:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 16:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 17:","",""
-"__system__??","{H拷問抵抗 < H拷問:","",""
-"__system__??","}","",""
-"__system__??","{H拷問 = 1:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 18:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 19:","",""
-"__system__??","}","",""
-"Hasekura Kirika (talking)","ごきげんよう、悪司さん。","Good day, Akuji.","Buenos días, Akuji."
-"Yamamoto Akuji (talking)","おう。 どーだい、ここの生活は？","Oh. How's life here?","Oh. ¿Cómo es la vida aquí?"
-"Hasekura Kirika (talking)","はい。 大変楽しく過ごさせて頂いてます。
+character,jap text,Eng,Esp
+__system__??,{麦 = 1:,,
+__system__??,{(☆キリカ < 20) * (☆ＤＡＴＥ > 80) * (☆キリカ／金 \ 0):,,
+__system__??,},,
+__system__??,{☆キリカ = 11:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 2:,,
+__system__??,{B忠誠タイプ = 1:,,
+__system__??,},,
+__system__??,{(B忠誠タイプ = 3) * (B忠誠心 > 70):,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 3:,,
+__system__??,},,
+__system__??,{麦 = 4:,,
+__system__??,},,
+__system__??,{麦 = 5:,,
+__system__??,},,
+__system__??,{麦 = 10:,,
+__system__??,},,
+__system__??,{麦 = 11:,,
+__system__??,{☆キリカ < 11:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 12:,,
+__system__??,{H愛欲 = 1:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 13:,,
+__system__??,},,
+__system__??,{麦 = 15:,,
+__system__??,},,
+__system__??,{麦 = 16:,,
+__system__??,},,
+__system__??,{麦 = 17:,,
+__system__??,{H拷問抵抗 < H拷問:,,
+__system__??,},,
+__system__??,{H拷問 = 1:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 18:,,
+__system__??,},,
+__system__??,{麦 = 19:,,
+__system__??,},,
+Hasekura Kirika (talking),ごきげんよう、悪司さん。,"Good day, Akuji.","Buenos días, Akuji."
+Yamamoto Akuji (talking),おう。 どーだい、ここの生活は？,Oh. How's life here?,Oh. ¿Cómo es la vida aquí?
+Hasekura Kirika (talking),"はい。 大変楽しく過ごさせて頂いてます。
 番茶が、あのように美味しいものだと 知りませんでしたわ。","Yes, I am. I am enjoying it very much.
 I didn't know that Bancha tastes as good as it does.","Sí. Lo estoy disfrutando mucho.
 No sabía que la bancha supiera tan bien como lo hace."
-"Yamamoto Akuji (talking)","………それ、他の庶民の前で言うなよ… 嫌われるから……","……… Don't say that in front of the rest of the folks… they'll hate you……","……… No digas eso delante del resto del público… te odiarán……"
-"Hasekura Kirika (talking)","わかりました。","I understand.","Entendido."
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Hasekura Kirika (talking)","ごきげんよう。","Have a nice day.","Que tenga un buen día."
-"Hasekura Kirika (talking)","お呼びになりました？ 悪司さん。","You wanted to see me, Mr. Akuji? Akuji.","¿Me has llamado? Akuji."
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Hasekura Kirika (talking)","ちょうどよろしかったですわ。 わたくしも、あなたに御用が ありましたの。","You are just in time. I also wanted to see you.","Has llegado justo a tiempo. Yo también quería verte."
-"narrator","と言って、キリカは悪司に封筒を渡した。","Then Kirika handed an envelope to Akuji.","Con eso, Kirika entregó un sobre a Akuji."
-"Yamamoto Akuji (talking)","これ……","This: ……","Esto: ……"
-"Hasekura Kirika (talking)","あなたに頂いたお金です。 お返しするなら、多少増やしてからの方が よいかと思いまして。","You gave me this money. I thought it would be better to give it back to you after I have increased it somewhat.","Este dinero me lo diste tú. Pensé que sería mejor devolverte el dinero después de haberlo aumentado un poco."
-"Yamamoto Akuji (talking)","どうやって増やしたんだい？","How did you increase it?","¿Cómo lo has aumentado?"
-"Hasekura Kirika (talking)","株式投資いたしましたの。","I invested in stocks.","He invertido en el mercado de valores."
-"Yamamoto Akuji (talking)","自分で？","By yourself?","¿Solo?"
-"Hasekura Kirika (talking)","ええ。","Yes.","Sí."
-"Yamamoto Akuji (talking)","大したもんだ。","Big deal.","Gran cosa."
-"Hasekura Kirika (talking)","ありがとうございます。","Thank you very much.","Gracias."
-"Yamamoto Akuji (talking)","だけどいーのかい？ ケッコーあるぜ。","But is it okay? I've got a lot of them.","¿Pero estás seguro? Tengo mucho."
-"Hasekura Kirika (talking)","かまいませんわ。 わたくし、お金には興味ありませんから。","I don't care. I am not interested in money.","No importa. No me interesa el dinero."
-"Yamamoto Akuji (talking)","じゃあ、頂いとくわ。","Okay, I'll take it.","Lo tomaré entonces."
-"Hasekura Kirika (talking)","はい。","Yes.","Sí."
-"Yamamoto Akuji (talking)","いやだったか？","Was it bad?","¿Fue malo?"
-"Hasekura Kirika (talking)","いいえ……
- ……ただ……","No………… just ……","No……
+Yamamoto Akuji (talking),………それ、他の庶民の前で言うなよ… 嫌われるから……,……… Don't say that in front of the rest of the folks… they'll hate you……,……… No digas eso delante del resto del público… te odiarán……
+Hasekura Kirika (talking),わかりました。,I understand.,Entendido.
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Hasekura Kirika (talking),ごきげんよう。,Have a nice day.,Que tenga un buen día.
+Hasekura Kirika (talking),お呼びになりました？ 悪司さん。,"You wanted to see me, Mr. Akuji? Akuji.",¿Me has llamado? Akuji.
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Hasekura Kirika (talking),ちょうどよろしかったですわ。 わたくしも、あなたに御用が ありましたの。,You are just in time. I also wanted to see you.,Has llegado justo a tiempo. Yo también quería verte.
+narrator,と言って、キリカは悪司に封筒を渡した。,Then Kirika handed an envelope to Akuji.,"Con eso, Kirika entregó un sobre a Akuji."
+Yamamoto Akuji (talking),これ……,This: ……,Esto: ……
+Hasekura Kirika (talking),あなたに頂いたお金です。 お返しするなら、多少増やしてからの方が よいかと思いまして。,You gave me this money. I thought it would be better to give it back to you after I have increased it somewhat.,Este dinero me lo diste tú. Pensé que sería mejor devolverte el dinero después de haberlo aumentado un poco.
+Yamamoto Akuji (talking),どうやって増やしたんだい？,How did you increase it?,¿Cómo lo has aumentado?
+Hasekura Kirika (talking),株式投資いたしましたの。,I invested in stocks.,He invertido en el mercado de valores.
+Yamamoto Akuji (talking),自分で？,By yourself?,¿Solo?
+Hasekura Kirika (talking),ええ。,Yes.,Sí.
+Yamamoto Akuji (talking),大したもんだ。,Big deal.,Gran cosa.
+Hasekura Kirika (talking),ありがとうございます。,Thank you very much.,Gracias.
+Yamamoto Akuji (talking),だけどいーのかい？ ケッコーあるぜ。,But is it okay? I've got a lot of them.,¿Pero estás seguro? Tengo mucho.
+Hasekura Kirika (talking),かまいませんわ。 わたくし、お金には興味ありませんから。,I don't care. I am not interested in money.,No importa. No me interesa el dinero.
+Yamamoto Akuji (talking),じゃあ、頂いとくわ。,"Okay, I'll take it.",Lo tomaré entonces.
+Hasekura Kirika (talking),はい。,Yes.,Sí.
+Yamamoto Akuji (talking),いやだったか？,Was it bad?,¿Fue malo?
+Hasekura Kirika (talking),"いいえ……
+ ……ただ……",No………… just ……,"No……
 Sólo …………"
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"Hasekura Kirika (talking)","困ったものを躰が覚えてしまいましたわ。 …そう……始終戦っていなくては駄目な 時のように…","My body memorized the troubled one. …That's right…… Just like when you have to fight all the time…","Mi cuerpo memorizó el problemático. …eso es correcto…… como cuando tienes que pelear todo el tiempo…"
-"Yamamoto Akuji (talking)","なるほどね……なんとなく、 感覚はわかるけど…","I see…… Somehow, I get the feeling…","Ya veo…… De alguna manera, tengo la sensación de que…"
-"Hasekura Kirika (talking)","常に……とは申しませんわ… ただ…時々、気まぐれでよろしいので、 こうして可愛がって下さいます…？","I don't always go to……… but… sometimes, on a whim, you can be so sweet to me…?","No siempre digo……… sólo… a veces, por capricho, puedes ser encantador conmigo así…"
-"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
-"Hasekura Kirika (talking)","ありがとうございます。","Thank you very much.","Gracias."
-"Yamamoto Akuji (talking)","俺の事がむっちゃくちゃ恋しくなるには まだ早いとは思うんだけどよ、 抱いてやるよ、キリカ。","I know it's too early for you to miss me so much, but I'll hold you, Kirika.","Sé que es demasiado pronto para que me eches tanto de menos, pero te abrazaré, Kirika."
-"Hasekura Kirika (talking)","まあ、奉仕事業に出る 殿方のようですわね。","Well, it sounds like a gent going out on a service project.","Bueno, parece que la alta burguesía va a un proyecto de servicio."
-"Yamamoto Akuji (talking)","奉仕されるのは嫌いかい？","Don't like being served?","¿No te gusta que te sirvan?"
-"Hasekura Kirika (talking)","いえ…好きな方だと。","No…he said he likes it.","No… dijo que le gustaba."
-"Yamamoto Akuji (talking)","それでいい。","That's fine.","Que así sea."
-"cg narrator","「あっ……ああっ……！！」
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+Hasekura Kirika (talking),困ったものを躰が覚えてしまいましたわ。 …そう……始終戦っていなくては駄目な 時のように…,My body memorized the troubled one. …That's right…… Just like when you have to fight all the time…,Mi cuerpo memorizó el problemático. …eso es correcto…… como cuando tienes que pelear todo el tiempo…
+Yamamoto Akuji (talking),なるほどね……なんとなく、 感覚はわかるけど…,"I see…… Somehow, I get the feeling…","Ya veo…… De alguna manera, tengo la sensación de que…"
+Hasekura Kirika (talking),常に……とは申しませんわ… ただ…時々、気まぐれでよろしいので、 こうして可愛がって下さいます…？,"I don't always go to……… but… sometimes, on a whim, you can be so sweet to me…?","No siempre digo……… sólo… a veces, por capricho, puedes ser encantador conmigo así…"
+Yamamoto Akuji (talking),ああ。,Oh.,Oh.
+Hasekura Kirika (talking),ありがとうございます。,Thank you very much.,Gracias.
+Yamamoto Akuji (talking),俺の事がむっちゃくちゃ恋しくなるには まだ早いとは思うんだけどよ、 抱いてやるよ、キリカ。,"I know it's too early for you to miss me so much, but I'll hold you, Kirika.","Sé que es demasiado pronto para que me eches tanto de menos, pero te abrazaré, Kirika."
+Hasekura Kirika (talking),まあ、奉仕事業に出る 殿方のようですわね。,"Well, it sounds like a gent going out on a service project.","Bueno, parece que la alta burguesía va a un proyecto de servicio."
+Yamamoto Akuji (talking),奉仕されるのは嫌いかい？,Don't like being served?,¿No te gusta que te sirvan?
+Hasekura Kirika (talking),いえ…好きな方だと。,No…he said he likes it.,No… dijo que le gustaba.
+Yamamoto Akuji (talking),それでいい。,That's fine.,Que así sea.
+cg narrator,"「あっ……ああっ……！！」
  「随分、男に躰が馴染んできたな、キリカ。 　お前さん、娼婦になっても、最高級で 　やってけるぜ」
 悪司はそう言って、何度かキリカの奥深くまで もぐりこんだ。
  「あっ…それっ……誉め言葉… 　ですの……？」
@@ -154,21 +154,21 @@ Como para decir que las palabras de Kirika eran ciertas, las gotas que goteaban 
  'No seas tímido……… y!'
 El Akuji aumentó aún más la velocidad con la que empujaba y tiraba de sus caderas.
  '¡Ah… ah… mmm…!"
-"Yamamoto Akuji (talking)","待たせたな。","Sorry to keep you waiting.","Siento que hayas tenido que esperar."
-"Hasekura Kirika (talking)","……何がです？","…… what is?","…… ¿Qué es?"
-"Yamamoto Akuji (talking)","怖い怖い。 そう、すねるなって。 あんたみたいなタイプは怒ると怖いなぁ。","Scary, scary. Yes, don't sulk. I'm afraid of your type when you get angry.","Tengo miedo, miedo. Sí, no te enfades. La gente como tú da miedo cuando se enfada."
-"Hasekura Kirika (talking)","でしたら、もう少しこまめに 手間をかけて下さいませんこと？","If so, could you please take the time to do so more often?","Si es así, ¿podría ser un poco más diligente?"
-"Yamamoto Akuji (talking)","ああ、そうだな、そうしよう。","Yeah, let's do that.","Sí, sí, hagamos eso."
-"Hasekura Kirika (talking)","……ふふ…どこまで信用してよい 言葉なのかしら…","…… Hmmm…I wonder how much I can trust those words…","…… Hmmm… Me pregunto hasta qué punto puedo confiar en esas palabras…"
-"Hasekura Kirika (talking)","キリカは、悪司に抱かれた。","Kirika was embraced by Akuji.","Kirika fue abrazada por Akuji."
-"Yamamoto Akuji (talking)","ＰＭのオジョーサンにゃあ、 これっぽっちの金かもしんねーが、 まあ、受け取ってくんな。","I don't know if it's worth this much money to PM Ojosan, but take it.","Puede que no sea mucho dinero para el PM Ojosan, pero tómalo."
-"Hasekura Kirika (talking)","額の問題ではないですわ。 気持ちの問題でしょう？
+Yamamoto Akuji (talking),待たせたな。,Sorry to keep you waiting.,Siento que hayas tenido que esperar.
+Hasekura Kirika (talking),……何がです？,…… what is?,…… ¿Qué es?
+Yamamoto Akuji (talking),怖い怖い。 そう、すねるなって。 あんたみたいなタイプは怒ると怖いなぁ。,"Scary, scary. Yes, don't sulk. I'm afraid of your type when you get angry.","Tengo miedo, miedo. Sí, no te enfades. La gente como tú da miedo cuando se enfada."
+Hasekura Kirika (talking),でしたら、もう少しこまめに 手間をかけて下さいませんこと？,"If so, could you please take the time to do so more often?","Si es así, ¿podría ser un poco más diligente?"
+Yamamoto Akuji (talking),ああ、そうだな、そうしよう。,"Yeah, let's do that.","Sí, sí, hagamos eso."
+Hasekura Kirika (talking),……ふふ…どこまで信用してよい 言葉なのかしら…,…… Hmmm…I wonder how much I can trust those words…,…… Hmmm… Me pregunto hasta qué punto puedo confiar en esas palabras…
+Hasekura Kirika (talking),キリカは、悪司に抱かれた。,Kirika was embraced by Akuji.,Kirika fue abrazada por Akuji.
+Yamamoto Akuji (talking),ＰＭのオジョーサンにゃあ、 これっぽっちの金かもしんねーが、 まあ、受け取ってくんな。,"I don't know if it's worth this much money to PM Ojosan, but take it.","Puede que no sea mucho dinero para el PM Ojosan, pero tómalo."
+Hasekura Kirika (talking),"額の問題ではないですわ。 気持ちの問題でしょう？
 ですから、ありがたく頂いておきます。 ありがとうございます。","It's not about the amount. It's about feelings, isn't it?
 So, I'll take it gratefully. Thank you very much.","No es una cuestión de cantidad. Se trata de sentimientos, ¿no?
 Así que lo aceptaré con gratitud. Muchas gracias."
-"Hasekura Kirika (talking)","　☆☆☆　　キリカの財布　　☆☆☆ 　　合計　","　☆☆☆　　Kirika's purse　　☆☆☆ 　　Total","　☆☆☆　　El bolso de Kirika.　　☆☆☆ 　　Total"
-"Hasekura Kirika (talking)","０万","0 million","0 millones de euros"
-"Hasekura Kirika (talking)","………………
+Hasekura Kirika (talking),　☆☆☆　　キリカの財布　　☆☆☆ 　　合計　,　☆☆☆　　Kirika's purse　　☆☆☆ 　　Total,　☆☆☆　　El bolso de Kirika.　　☆☆☆ 　　Total
+Hasekura Kirika (talking),０万,0 million,0 millones de euros
+Hasekura Kirika (talking),"………………
 そのような職業が存在するのは 存じております。
 ただ……そこに行けと仰ったと いう事は、もうわたくしに戦うなと いう事ですね……？
  ……戦わせて頂けるのなら…… そう思い、あなたの部下になる事を 承諾した、このわたくしに……
@@ -179,18 +179,18 @@ If you would let me fight,…… I would be happy to do so, and I have agreed to
 Sé que esa profesión existe.
 Sin embargo,…… si me dijiste que fuera allí, ¿significa que no quieres que siga luchando, ……?
 Si me dejas luchar,…… estaré encantado de luchar,…… y he aceptado ser tu hombre, ………… Entiendo lo que tiene en mente. Que tengas un buen día y adiós."
-"Hasekura Kirika (talking)","……………","……………","……………"
-"Yamamoto Akuji (talking)","こりゃー、舶来もんの人形みたいな 綺麗なお嬢ちゃんだな。","She's a beautiful young lady, like a doll from a foreign country.","Es una joven hermosa, como una muñeca de un país extranjero."
-"Hasekura Kirika (talking)","それは、誉め言葉ですの？","Is that a compliment?","¿Es eso un cumplido?"
-"Yamamoto Akuji (talking)","そのつもりだぜ。","That's the plan, man.","Ese es el plan."
-"Hasekura Kirika (talking)","ありがとうございます。","Thank you very much.","Gracias."
-"Yamamoto Akuji (talking)","ＰＭのジョーヒンな環境で育った あんたにゃ、ここの生活は キツいんじゃねーか？","I guess it's hard for you to live here after growing up in PM's jaw-dropping environment, huh?","Has crecido en un entorno de PM asombroso."
-"Hasekura Kirika (talking)","そうですわね……
+Hasekura Kirika (talking),……………,……………,……………
+Yamamoto Akuji (talking),こりゃー、舶来もんの人形みたいな 綺麗なお嬢ちゃんだな。,"She's a beautiful young lady, like a doll from a foreign country.","Es una joven hermosa, como una muñeca de un país extranjero."
+Hasekura Kirika (talking),それは、誉め言葉ですの？,Is that a compliment?,¿Es eso un cumplido?
+Yamamoto Akuji (talking),そのつもりだぜ。,"That's the plan, man.",Ese es el plan.
+Hasekura Kirika (talking),ありがとうございます。,Thank you very much.,Gracias.
+Yamamoto Akuji (talking),ＰＭのジョーヒンな環境で育った あんたにゃ、ここの生活は キツいんじゃねーか？,"I guess it's hard for you to live here after growing up in PM's jaw-dropping environment, huh?",Has crecido en un entorno de PM asombroso.
+Hasekura Kirika (talking),"そうですわね……
 ですけど、見るもの、聞くもの、 さわるもの、すべて初めてで、 新鮮ですわ。","Yes, it is……
 I have never been to Japan before, but everything I see, hear, and touch is new and fresh to me.","Sí, lo es……
 Pero todo lo que veo, oigo y toco es nuevo y fresco."
-"Yamamoto Akuji (talking)","へ？","Heh?","¿Eh?"
-"Hasekura Kirika (talking)","戦争中も、物資に困った事は ありませんでしたし……
+Yamamoto Akuji (talking),へ？,Heh?,¿Eh?
+Hasekura Kirika (talking),"戦争中も、物資に困った事は ありませんでしたし……
 ここまで貧窮した生活を味わう、 最後のチャンスだと思っております。
 ですから、徹底的に楽しんでおこうかと。
 とりあえず、わたくし、かけたお茶碗で 出がらしのお茶など飲んだの、生まれて 初めてですわ。","Even during the war, we never had a shortage of supplies……
@@ -200,89 +200,89 @@ For the time being, this is the first time in my life that I have ever drank fre
 Creo que esta es mi última oportunidad de probar la vida en tal pobreza.
 Así que pensé que lo disfrutaría mucho.
 En cualquier caso, es la primera vez en mi vida que bebo té recién hecho en una taza de té."
-"Yamamoto Akuji (talking)","……そうか……","…… I see: ……","…… so……"
-"Hasekura Kirika (talking)","はい。","Yes.","Sí."
-"Yamamoto Akuji (talking)","これだから、ＰＭの連中は……","This is why the PM guys are ……","Por eso los PMs son ……"
-"Yamamoto Akuji (talking)","よう、お人形さん。","Hey, doll.","Oye, muñeca."
-"Hasekura Kirika (talking)","お願いがありますの。","I have a favor to ask.","Tengo que pedir un favor."
-"Yamamoto Akuji (talking)","なんだい？ ここの生活がいやになったのかい？","What is it? You don't like living here anymore?","¿Qué es? ¿Estás harto de vivir aquí?"
-"Hasekura Kirika (talking)","そうではありせん。
+Yamamoto Akuji (talking),……そうか……,…… I see: ……,…… so……
+Hasekura Kirika (talking),はい。,Yes.,Sí.
+Yamamoto Akuji (talking),これだから、ＰＭの連中は……,This is why the PM guys are ……,Por eso los PMs son ……
+Yamamoto Akuji (talking),よう、お人形さん。,"Hey, doll.","Oye, muñeca."
+Hasekura Kirika (talking),お願いがありますの。,I have a favor to ask.,Tengo que pedir un favor.
+Yamamoto Akuji (talking),なんだい？ ここの生活がいやになったのかい？,What is it? You don't like living here anymore?,¿Qué es? ¿Estás harto de vivir aquí?
+Hasekura Kirika (talking),"そうではありせん。
 わたくしと、お手合わせして 頂けませんですかしら？","No, it's not that.
 Would you like to have a meeting with me?","No, no es eso.
  ¿Le gustaría tener una reunión conmigo?"
-"__system__??","{RETURN = 2:","",""
-"Yamamoto Akuji (talking)","そーいうタリー事は 今はしたくないんで。","I don't want to do that kind of tally thing right now.","No quiero hacer ese tipo de recuento ahora."
-"Hasekura Kirika (talking)","わかりました。 それでは諦めます。","I understand. Then I give up.","Lo entiendo. Entonces me rindo."
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","なんだ、力が有り余ってんのか？","What, you have too much power?","¿Qué, tienes demasiado poder?"
-"Hasekura Kirika (talking)","そうですわね。 こんなに長い時間、鍛練を怠った事は ありませんでしたので。","That's right. I have never missed a workout for such a long time.","Sí, lo sé. Nunca he faltado a tantos entrenamientos en tanto tiempo."
-"Yamamoto Akuji (talking)","よし、こい。","Okay, come on.","Muy bien, vamos."
-"Hasekura Kirika (talking)","よろしくお願いします。","Best regards.","Saludos cordiales."
-"__system__??","{D11 = 0:","",""
-"__system__??","}","",""
-"__system__??","{D11 \ 0:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 0:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 1:","",""
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","おー、いてて…… お前さん、思ったよりやるなー。","Oh, stay…… You're doing more than I thought you would.","Oh, quédate…… Estás haciendo más de lo que pensaba."
-"Hasekura Kirika (talking)","……手加減なさったのですか？","Did you go easy on ……?","…… ¿Fue fácil para ellos?"
-"Yamamoto Akuji (talking)","さーどーだかな。 勝負は水モンだ。","Let's see how it goes. It's all about the water.","Vamos a ver cómo va. Es una pelea de agua."
-"Hasekura Kirika (talking)","……………","……………","……………"
-"Hasekura Kirika (talking)","………っ……","……… and ……","……… y ……"
-"Yamamoto Akuji (talking)","大丈夫か？","Are you okay?","¿Estás bien?"
-"Hasekura Kirika (talking)","はい、このぐらい、いつもの事ですから。 ですが、久々に打ち込まれましたわ。 ありがとうございました。","Yes, this much, because it always happens. But it's been a while since I've been hammered. Thank you very much.","Sí, esto pasa todo el tiempo. Pero hace tiempo que no me martillean. Muchas gracias."
-"Yamamoto Akuji (talking)","で、これは何のテストだ？","So what's this test?","¿Y en qué consiste esta prueba?"
-"Hasekura Kirika (talking)","………","………","………"
-"Yamamoto Akuji (talking)","俺を試しただろ？ どうしてだ？","You tried me, didn't you? Why?","Me has probado, ¿verdad? ¿Por qué?"
-"Hasekura Kirika (talking)","わたくし、戦うのが好きです。","I like to fight.","Me gusta luchar."
-"Yamamoto Akuji (talking)","そーいう感じだな。","That's what it looks like.","Eso es lo que parece."
-"Hasekura Kirika (talking)","ですから、どうしても戦う場が 欲しかったのです。
+__system__??,{RETURN = 2:,,
+Yamamoto Akuji (talking),そーいうタリー事は 今はしたくないんで。,I don't want to do that kind of tally thing right now.,No quiero hacer ese tipo de recuento ahora.
+Hasekura Kirika (talking),わかりました。 それでは諦めます。,I understand. Then I give up.,Lo entiendo. Entonces me rindo.
+__system__??,},,
+Yamamoto Akuji (talking),なんだ、力が有り余ってんのか？,"What, you have too much power?","¿Qué, tienes demasiado poder?"
+Hasekura Kirika (talking),そうですわね。 こんなに長い時間、鍛練を怠った事は ありませんでしたので。,That's right. I have never missed a workout for such a long time.,"Sí, lo sé. Nunca he faltado a tantos entrenamientos en tanto tiempo."
+Yamamoto Akuji (talking),よし、こい。,"Okay, come on.","Muy bien, vamos."
+Hasekura Kirika (talking),よろしくお願いします。,Best regards.,Saludos cordiales.
+__system__??,{D11 = 0:,,
+__system__??,},,
+__system__??,{D11 \ 0:,,
+__system__??,},,
+__system__??,{RETURN = 0:,,
+__system__??,},,
+__system__??,{RETURN = 1:,,
+__system__??,},,
+Yamamoto Akuji (talking),おー、いてて…… お前さん、思ったよりやるなー。,"Oh, stay…… You're doing more than I thought you would.","Oh, quédate…… Estás haciendo más de lo que pensaba."
+Hasekura Kirika (talking),……手加減なさったのですか？,Did you go easy on ……?,…… ¿Fue fácil para ellos?
+Yamamoto Akuji (talking),さーどーだかな。 勝負は水モンだ。,Let's see how it goes. It's all about the water.,Vamos a ver cómo va. Es una pelea de agua.
+Hasekura Kirika (talking),……………,……………,……………
+Hasekura Kirika (talking),………っ……,……… and ……,……… y ……
+Yamamoto Akuji (talking),大丈夫か？,Are you okay?,¿Estás bien?
+Hasekura Kirika (talking),はい、このぐらい、いつもの事ですから。 ですが、久々に打ち込まれましたわ。 ありがとうございました。,"Yes, this much, because it always happens. But it's been a while since I've been hammered. Thank you very much.","Sí, esto pasa todo el tiempo. Pero hace tiempo que no me martillean. Muchas gracias."
+Yamamoto Akuji (talking),で、これは何のテストだ？,So what's this test?,¿Y en qué consiste esta prueba?
+Hasekura Kirika (talking),………,………,………
+Yamamoto Akuji (talking),俺を試しただろ？ どうしてだ？,"You tried me, didn't you? Why?","Me has probado, ¿verdad? ¿Por qué?"
+Hasekura Kirika (talking),わたくし、戦うのが好きです。,I like to fight.,Me gusta luchar.
+Yamamoto Akuji (talking),そーいう感じだな。,That's what it looks like.,Eso es lo que parece.
+Hasekura Kirika (talking),"ですから、どうしても戦う場が 欲しかったのです。
 そして、誰かの下で戦うのであれば、 自分より強い者の下で。 そう思いました。","So I really wanted a place to fight.
 And if I was going to fight under someone, I wanted to fight under someone stronger than myself. That's what I thought.","Así que realmente quería un lugar para luchar.
 Y si iba a luchar a las órdenes de alguien, quería hacerlo a las de alguien más fuerte que yo. Eso es lo que pensé."
-"Yamamoto Akuji (talking)","で、俺はあんたのお眼鏡に かなったって訳か。","So, I'm your man now, huh?","Así que tengo su atención."
-"Hasekura Kirika (talking)","はい。","Yes.","Sí."
-"Yamamoto Akuji (talking)","俺の部下になるって事だよな？","You mean you're going to be my man, right?","Quieres decir que vas a ser mi hombre, ¿verdad?"
-"Hasekura Kirika (talking)","はい。","Yes.","Sí."
-"__system__??","{★桃山組 = 2:","",""
-"Yamamoto Akuji (talking)","俺は今、ＰＭと交戦中だ。 お前さん、自分の身内と戦う事に なるかもしんねーんだぜ。","I'm in a war with PM right now. You might have to fight your own people.","Estoy en una guerra con la PM. Puede que tengas que luchar contra tu propia gente."
-"Hasekura Kirika (talking)","わたくし、支倉の家…… ＰＭを守る為の家に生まれましたが、 跡継ぎではありません。
+Yamamoto Akuji (talking),で、俺はあんたのお眼鏡に かなったって訳か。,"So, I'm your man now, huh?",Así que tengo su atención.
+Hasekura Kirika (talking),はい。,Yes.,Sí.
+Yamamoto Akuji (talking),俺の部下になるって事だよな？,"You mean you're going to be my man, right?","Quieres decir que vas a ser mi hombre, ¿verdad?"
+Hasekura Kirika (talking),はい。,Yes.,Sí.
+__system__??,{★桃山組 = 2:,,
+Yamamoto Akuji (talking),俺は今、ＰＭと交戦中だ。 お前さん、自分の身内と戦う事に なるかもしんねーんだぜ。,I'm in a war with PM right now. You might have to fight your own people.,Estoy en una guerra con la PM. Puede que tengas que luchar contra tu propia gente.
+Hasekura Kirika (talking),"わたくし、支倉の家…… ＰＭを守る為の家に生まれましたが、 跡継ぎではありません。
 ですから、敵になろうが、 味方になろうが、支障はありません。
 むしろ、ＰＭはわたくしを裏切り者として 忌み嫌う事でしょう。","I, Hasekura, was born in a house to protect…… PM, but I am not an heir.
 Therefore, it doesn't matter if I am an enemy or an ally.
 Rather, PM will hate me as a traitor.","Nací en una casa para proteger la casa Hasekura…… PM, pero no soy un heredero.
 Por lo tanto, no importa si soy un enemigo o un aliado.
 Más bien, la PM me aborrecerá como traidor."
-"Yamamoto Akuji (talking)","それでも戦うってか。","But you're still going to fight.","Pero aún así vas a luchar."
-"Hasekura Kirika (talking)","はい。","Yes.","Sí."
-"__system__??","{RND \ 0:","",""
-"Hasekura Kirika (thinking)","こちらに、アエン姉様がいらっしゃると いう情報は入っている。
+Yamamoto Akuji (talking),それでも戦うってか。,But you're still going to fight.,Pero aún así vas a luchar.
+Hasekura Kirika (talking),はい。,Yes.,Sí.
+__system__??,{RND \ 0:,,
+Hasekura Kirika (thinking),"こちらに、アエン姉様がいらっしゃると いう情報は入っている。
 わたくしまでＰＭを裏切ったと 思われてもよい…
 跡継ぎであるアエン姉様に、 支倉の家へ帰って貰う好機を作る事が 出来るなら、それでも…","I have information that sister Aen is here.
 I don't care if you think I betrayed the PM as well…
 If I can create an opportunity for the heir, Sister Aen, to return to the home of Hasekura, then…","Tenemos información de que la hermana Aen está aquí.
 Puede pensar que yo también he traicionado a la PM…
 Si puedo crear una oportunidad para que la heredera, la hermana Aen, regrese a su hogar en Hasekura, entonces…"
-"__system__??","}","",""
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","よーし、わかった。 今日からあんたは俺の部下だ。","All right, all right. From today on, you're my subordinate.","Muy bien, muy bien. A partir de hoy, eres mi subordinado."
-"Hasekura Kirika (talking)","はい、ありがとうございます。","Yes, thank you.","Sí, gracias."
-"__system__??","{H愛欲 \ 0:","",""
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Hasekura Kirika (talking)","ごきげんよう。","Have a nice day.","Que tenga un buen día."
-"Yamamoto Akuji (talking)","ときに、キリカ。","Sometimes Kirika.","A veces Kirika."
-"Hasekura Kirika (talking)","なんでしょう？","What is it?","¿Qué es?"
-"Yamamoto Akuji (talking)","好きな男とかっている？","Do you have a favorite guy?","¿Tienes un tipo favorito?"
-"Hasekura Kirika (talking)","いいえ。","No. The company is not a member of the National Association of Schools and Colleges of America.","No. Se dispone de la siguiente información."
-"Yamamoto Akuji (talking)","過去には？","In the past?","¿En el pasado?"
-"Hasekura Kirika (talking)","いましたけど、特に接点などは ございませんでしたわ。","I was there, but I didn't have any contact with them.","Estuve allí, pero no tuve ningún contacto particular con ellos."
-"Yamamoto Akuji (talking)","じゃあ、これが初めてになるってわけか。","So this will be your first time?","¿Así que será la primera vez que lo haces?"
-"Hasekura Kirika (talking)","？","？","？"
-"Yamamoto Akuji (talking)","俺が、あんたの知らない世界に 連れてってやるよ。","I'll take you to a world you've never known.","Te llevaré a un mundo que nunca has conocido."
-"cg narrator","「あぁっ……」
+__system__??,},,
+__system__??,},,
+Yamamoto Akuji (talking),よーし、わかった。 今日からあんたは俺の部下だ。,"All right, all right. From today on, you're my subordinate.","Muy bien, muy bien. A partir de hoy, eres mi subordinado."
+Hasekura Kirika (talking),はい、ありがとうございます。,"Yes, thank you.","Sí, gracias."
+__system__??,{H愛欲 \ 0:,,
+__system__??,},,
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Hasekura Kirika (talking),ごきげんよう。,Have a nice day.,Que tenga un buen día.
+Yamamoto Akuji (talking),ときに、キリカ。,Sometimes Kirika.,A veces Kirika.
+Hasekura Kirika (talking),なんでしょう？,What is it?,¿Qué es?
+Yamamoto Akuji (talking),好きな男とかっている？,Do you have a favorite guy?,¿Tienes un tipo favorito?
+Hasekura Kirika (talking),いいえ。,No. The company is not a member of the National Association of Schools and Colleges of America.,No. Se dispone de la siguiente información.
+Yamamoto Akuji (talking),過去には？,In the past?,¿En el pasado?
+Hasekura Kirika (talking),いましたけど、特に接点などは ございませんでしたわ。,"I was there, but I didn't have any contact with them.","Estuve allí, pero no tuve ningún contacto particular con ellos."
+Yamamoto Akuji (talking),じゃあ、これが初めてになるってわけか。,So this will be your first time?,¿Así que será la primera vez que lo haces?
+Hasekura Kirika (talking),？,？,？
+Yamamoto Akuji (talking),俺が、あんたの知らない世界に 連れてってやるよ。,I'll take you to a world you've never known.,Te llevaré a un mundo que nunca has conocido.
+cg narrator,"「あぁっ……」
 キリカの甘い声が漏れる中、 悪司の指が白いショーツの上を滑る。
  「あっ……！」
 甲高い音がしてキリカの絹のショーツの中央が 裂けていく。
@@ -304,7 +304,7 @@ Es porque Akuji ha cortado allí con un cúter. De las profundidades de la misma
 Ah…”
 La espalda de Kirika se inclina fuertemente.
  '¡Ah ……!"
-"cg narrator","悪司の大きく、節くれだったそれが、 ゆっくりゆっくり、キリカの中に入ってきた。
+cg narrator,"悪司の大きく、節くれだったそれが、 ゆっくりゆっくり、キリカの中に入ってきた。
  「くっ……ぁぁっ……！！」
 キリカはシーツをぎゅっと掴み、 挿入されたそれの痛みに耐える。
  「痛いか？」
@@ -553,23 +553,23 @@ Kirika arqueó las caderas y apretó con fuerza a Akuji.
 La conciencia de Kirika se vuelve aún más Haku.
  'Ahhh… ah… ah……… nnnn~~~!
 Kirika agarró con fuerza el brazo de Akuji y su cuerpo tembló mucho."
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","キリカ、ここでやっちまっていいか？","Kirika, can we do it here?","Kirika, ¿podemos hacerlo aquí?"
-"Hasekura Kirika (talking)","わたくしを抱きたいと？","You want to hold me?","¿Quieres abrazarme?"
-"Yamamoto Akuji (talking)","おう、いやか？","Oh, no?","¿Ah, no?"
-"Hasekura Kirika (talking)","いやではありませんが、わたくし達の 睦言が、皆に聞かれてしまうのではと。","I was afraid that everyone would hear what we were saying to each other.","No es que no me guste, pero tengo miedo de que la gente nos oiga hablar entre nosotros."
-"Yamamoto Akuji (talking)","そーいうのもいいぜ。","That's a good one.","Esa es una buena, hombre."
-"Hasekura Kirika (talking)","……けだもののようですわね…","…… sounds like a beast…","…… Parece una bestia…"
-"Hasekura Kirika (talking)","キリカは、悪司に抱かれた。","Kirika was embraced by Akuji.","Kirika fue abrazada por Akuji."
-"Yamamoto Akuji (talking)","で、なんか欲しいものはあるかい？","So, is there anything you want?","Entonces, ¿hay algo que quieras?"
-"Hasekura Kirika (talking)","それは物品ですか？ それとも、精神的なものでしょうか？","Is it an item? Or is it a spiritual object?","¿Es un artículo? ¿O es mental?"
-"Yamamoto Akuji (talking)","どっちでも。","Either.","O bien."
-"Hasekura Kirika (talking)","………………
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+Yamamoto Akuji (talking),キリカ、ここでやっちまっていいか？,"Kirika, can we do it here?","Kirika, ¿podemos hacerlo aquí?"
+Hasekura Kirika (talking),わたくしを抱きたいと？,You want to hold me?,¿Quieres abrazarme?
+Yamamoto Akuji (talking),おう、いやか？,"Oh, no?","¿Ah, no?"
+Hasekura Kirika (talking),いやではありませんが、わたくし達の 睦言が、皆に聞かれてしまうのではと。,I was afraid that everyone would hear what we were saying to each other.,"No es que no me guste, pero tengo miedo de que la gente nos oiga hablar entre nosotros."
+Yamamoto Akuji (talking),そーいうのもいいぜ。,That's a good one.,"Esa es una buena, hombre."
+Hasekura Kirika (talking),……けだもののようですわね…,…… sounds like a beast…,…… Parece una bestia…
+Hasekura Kirika (talking),キリカは、悪司に抱かれた。,Kirika was embraced by Akuji.,Kirika fue abrazada por Akuji.
+Yamamoto Akuji (talking),で、なんか欲しいものはあるかい？,"So, is there anything you want?","Entonces, ¿hay algo que quieras?"
+Hasekura Kirika (talking),それは物品ですか？ それとも、精神的なものでしょうか？,Is it an item? Or is it a spiritual object?,¿Es un artículo? ¿O es mental?
+Yamamoto Akuji (talking),どっちでも。,Either.,O bien.
+Hasekura Kirika (talking),"………………
 では、特にありません。","………………
 Then, there is none in particular.","………………
 Entonces, no hay detalles."
-"Hasekura Kirika (talking)","………………
+Hasekura Kirika (talking),"………………
 そのような職業が存在するのは 存じております。
 ただ……そこに行けと仰ったと いう事は、もうわたくしに戦うなと いう事ですね……？
  ……戦わせて頂けるのなら…… そう思い、あなたの部下になる事を 承諾した、このわたくしに……
@@ -580,51 +580,51 @@ If you would let me fight,…… I would be happy to do so, and I have agreed to
 Sé que esa profesión existe.
 Sin embargo,…… si me dijiste que fuera allí, ¿significa que no quieres que siga luchando, ……?
 Si me dejas luchar,…… estaré encantado de luchar,…… y he aceptado ser tu hombre, ………… Entiendo lo que tiene en mente. Que tengas un buen día y adiós."
-"narrator","キリカがマイセンの茶器に、 リンダの為に茶を淹れている。","Kirika is brewing tea for Linda in a Meissen tea cup.","Kirika está preparando té para Linda en una taza de té de Meissen."
-"Hasekura Kirika (talking)","お待たせしました、リンダ様。 お茶が入りました。","Thank you for waiting, Dear Linda. The tea is ready.","Gracias por su paciencia, querida Linda. El té está listo."
-"Momoyama Linda (talking)","ありがとう、キリカ。","Thanks, Kirika.","Gracias, Kirika."
-"Hasekura Kirika (talking)","恐れ入ります。","Thank you very much.","Lo siento."
-"Momoyama Linda (talking)","ふう……おいちいでちゅわ。 クッキーも、あなたの手作り でちゅかちら？","Fuu…… is delicious. Are the cookies your homemade, too?","Fu…… es delicioso. ¿Las galletas también son caseras?"
-"Hasekura Kirika (talking)","はい。 ココアのよいものが手に入ったので、 生地に混ぜてみました。","Yes, I did. I got some good cocoa and mixed it into the dough.","Sí. Conseguí un buen cacao, así que lo mezclé con la masa."
-"Momoyama Linda (talking)","今度また作ってくだちゃいな。","Please make it again next time.","Hazlo de nuevo la próxima vez."
-"Hasekura Kirika (talking)","かしこまりました。","Yes, sir.","Sí, señor."
-"Momoyama Linda (talking)","アエンの事、聞きまちたか？","Did you hear about Aen?","¿Has oído hablar de Aen?"
-"Hasekura Kirika (talking)","どのような事ですか？","What is it about?","¿Qué significa?"
-"Momoyama Linda (talking)","ハイネから言いつけられた場所を守りも せず、悪司の領地に殴り込みをかけては 逃げているそうでちゅ。","They say that he is running away from Akuji's lands without keeping the place Haine has ordered him to go to.","Dicen que no respetan los lugares a los que Haine les ha dicho que vayan, y que huyen del territorio de Akuji después de golpearlo."
-"Hasekura Kirika (talking)","まあ……","Well, ……","Bueno, ……"
-"Hasekura Kirika (thinking)","アエン姉様らしいといえば、 らしい事なのですけど……","Aen such a typical thing for a sister to do: ……","Aen como es típico de mi hermana, es algo típico……"
-"Momoyama Linda (talking)","配下の者が、どうすればいいか 困っているらしいでちゅわ。","I heard that the people under my command are having trouble figuring out what to do.","He oído que sus hombres tienen problemas para saber qué hacer."
-"Hasekura Kirika (talking)","それは……そうですね。","That is so …….","Esto es así en ……."
-"Momoyama Linda (talking)","アエンは何が気にいらないのか 知りまちぇんが、落ち着きが ないでちゅわね。","I don't know what's wrong with Aen, but he is restless.","No sé qué le pasa a Aen, pero está inquieto."
-"Hasekura Kirika (talking)","申し訳ありません。","We apologize.","Disculpas."
-"Momoyama Linda (talking)","あなたが謝る事ではないでちゅわ、 キリカ。","It's not your place to apologize, Kirika.","No es para que te disculpes, Kirika."
-"Hasekura Kirika (talking)","ですが、双子の姉の失態ですので。","But it is my twin sister's fault.","Pero es culpa de mi hermana gemela."
-"Momoyama Linda (talking)","アエンがあなた程聞き分けのよい子 でちたら、ハイネも跡取りの事で 苦労が少ないでちょうに。","If Aen was as good a listener as you are, Haine would have less trouble with the heir.","Si Aen fuera tan buen oyente como tú, Haine tendría menos problemas con su heredero."
-"Hasekura Kirika (talking)","……………","……………","……………"
-"narrator","広大な敷地内の一角に作られた道場で、 キリカは門下生達に稽古をつけていた。","Kirika was training her students in a dojo built in a corner of a large compound.","En un dojo construido en un rincón de una gran finca, Kirika entrenaba a sus alumnos."
-"Hasekura Kirika (talking)","はい、今日はここまでにします。","Yes, that's all for today.","Sí, eso es todo por hoy."
-"Peach Maid (talking)","礼！","Rei!","¡Rei!"
-"narrator","「ありがとうございました！」
+narrator,キリカがマイセンの茶器に、 リンダの為に茶を淹れている。,Kirika is brewing tea for Linda in a Meissen tea cup.,Kirika está preparando té para Linda en una taza de té de Meissen.
+Hasekura Kirika (talking),お待たせしました、リンダ様。 お茶が入りました。,"Thank you for waiting, Dear Linda. The tea is ready.","Gracias por su paciencia, querida Linda. El té está listo."
+Momoyama Linda (talking),ありがとう、キリカ。,"Thanks, Kirika.","Gracias, Kirika."
+Hasekura Kirika (talking),恐れ入ります。,Thank you very much.,Lo siento.
+Momoyama Linda (talking),ふう……おいちいでちゅわ。 クッキーも、あなたの手作り でちゅかちら？,"Fuu…… is delicious. Are the cookies your homemade, too?",Fu…… es delicioso. ¿Las galletas también son caseras?
+Hasekura Kirika (talking),はい。 ココアのよいものが手に入ったので、 生地に混ぜてみました。,"Yes, I did. I got some good cocoa and mixed it into the dough.","Sí. Conseguí un buen cacao, así que lo mezclé con la masa."
+Momoyama Linda (talking),今度また作ってくだちゃいな。,Please make it again next time.,Hazlo de nuevo la próxima vez.
+Hasekura Kirika (talking),かしこまりました。,"Yes, sir.","Sí, señor."
+Momoyama Linda (talking),アエンの事、聞きまちたか？,Did you hear about Aen?,¿Has oído hablar de Aen?
+Hasekura Kirika (talking),どのような事ですか？,What is it about?,¿Qué significa?
+Momoyama Linda (talking),ハイネから言いつけられた場所を守りも せず、悪司の領地に殴り込みをかけては 逃げているそうでちゅ。,They say that he is running away from Akuji's lands without keeping the place Haine has ordered him to go to.,"Dicen que no respetan los lugares a los que Haine les ha dicho que vayan, y que huyen del territorio de Akuji después de golpearlo."
+Hasekura Kirika (talking),まあ……,"Well, ……","Bueno, ……"
+Hasekura Kirika (thinking),アエン姉様らしいといえば、 らしい事なのですけど……,Aen such a typical thing for a sister to do: ……,"Aen como es típico de mi hermana, es algo típico……"
+Momoyama Linda (talking),配下の者が、どうすればいいか 困っているらしいでちゅわ。,I heard that the people under my command are having trouble figuring out what to do.,He oído que sus hombres tienen problemas para saber qué hacer.
+Hasekura Kirika (talking),それは……そうですね。,That is so …….,Esto es así en …….
+Momoyama Linda (talking),アエンは何が気にいらないのか 知りまちぇんが、落ち着きが ないでちゅわね。,"I don't know what's wrong with Aen, but he is restless.","No sé qué le pasa a Aen, pero está inquieto."
+Hasekura Kirika (talking),申し訳ありません。,We apologize.,Disculpas.
+Momoyama Linda (talking),あなたが謝る事ではないでちゅわ、 キリカ。,"It's not your place to apologize, Kirika.","No es para que te disculpes, Kirika."
+Hasekura Kirika (talking),ですが、双子の姉の失態ですので。,But it is my twin sister's fault.,Pero es culpa de mi hermana gemela.
+Momoyama Linda (talking),アエンがあなた程聞き分けのよい子 でちたら、ハイネも跡取りの事で 苦労が少ないでちょうに。,"If Aen was as good a listener as you are, Haine would have less trouble with the heir.","Si Aen fuera tan buen oyente como tú, Haine tendría menos problemas con su heredero."
+Hasekura Kirika (talking),……………,……………,……………
+narrator,広大な敷地内の一角に作られた道場で、 キリカは門下生達に稽古をつけていた。,Kirika was training her students in a dojo built in a corner of a large compound.,"En un dojo construido en un rincón de una gran finca, Kirika entrenaba a sus alumnos."
+Hasekura Kirika (talking),はい、今日はここまでにします。,"Yes, that's all for today.","Sí, eso es todo por hoy."
+Peach Maid (talking),礼！,Rei!,¡Rei!
+narrator,"「ありがとうございました！」
 規律正しく礼をすると、門下生達は、 道場から出て行った。","Thank you!
 With a disciplined bow, the students left the dojo.","Gracias”.
 Tras una disciplinada reverencia, los alumnos abandonaron el dojo."
-"Peach Maid (talking)","お疲れ様でした、キリカ様。 タオルです、どうぞ。","Thank you for your hard work, Dear Kirika. Here's your towel, please.","Gracias por tu trabajo, querida Kirika. Aquí está su toalla, por favor."
-"Hasekura Kirika (talking)","ありがとう。","Thank you.","Gracias."
-"Peach Maid (talking)","あの……アエン様は、わたくし達に稽古を つけるのが、おいやと聞いたのですが… それは、本当なのですか？","I heard that ……Aensama doesn't like us to practice on him… Is that true?","He oído que a ……Aen no le gusta que practiquemos con él… ¿Es cierto?"
-"Hasekura Kirika (talking)","え……？","What, ……?","¿Qué? ……?"
-"Peach Maid (talking)","あ、申し訳ありません！ 差し出がましい事をお聞きして……","Oh, I'm sorry! I'm sorry to have to ask you to do something so imposing……","¡Oh, lo siento! Lamento lo de su imposición: ……"
-"Hasekura Kirika (talking)","いいですわ、続けて。","Okay, go on.","Bien, continúa."
-"Peach Maid (talking)","は、はい、あの……
+Peach Maid (talking),お疲れ様でした、キリカ様。 タオルです、どうぞ。,"Thank you for your hard work, Dear Kirika. Here's your towel, please.","Gracias por tu trabajo, querida Kirika. Aquí está su toalla, por favor."
+Hasekura Kirika (talking),ありがとう。,Thank you.,Gracias.
+Peach Maid (talking),あの……アエン様は、わたくし達に稽古を つけるのが、おいやと聞いたのですが… それは、本当なのですか？,I heard that ……Aensama doesn't like us to practice on him… Is that true?,He oído que a ……Aen no le gusta que practiquemos con él… ¿Es cierto?
+Hasekura Kirika (talking),え……？,"What, ……?",¿Qué? ……?
+Peach Maid (talking),あ、申し訳ありません！ 差し出がましい事をお聞きして……,"Oh, I'm sorry! I'm sorry to have to ask you to do something so imposing……","¡Oh, lo siento! Lamento lo de su imposición: ……"
+Hasekura Kirika (talking),いいですわ、続けて。,"Okay, go on.","Bien, continúa."
+Peach Maid (talking),"は、はい、あの……
 あの……そういう噂が……
 火の性質の門下生もキリカ様が面倒を 見てらっしゃるのは、アエン様が いやがっていらっしゃるからだと……","Ha, yes, that ……
 There is a rumor that ……
 It is said that Kirika is taking care of the students of the nature of fire because Aen doesn't want to ……","Ja, sí, ese ……
 Hay rumores de que ……
 Se dice que Kirika se ocupa de los estudiantes de la naturaleza del fuego porque Aen no quiere que lo haga……"
-"Hasekura Kirika (talking)","無責任な噂です。 そのような事、聞き捨てておきなさい。","It is an irresponsible rumor. Let such things be heard and discarded.","Es un rumor irresponsable. Esas cosas, déjalas sin escuchar."
-"Peach Maid (talking)","は、はい…… 申し訳ありません……","is yes…… sorry ……","es, sí…… lo siento ……"
-"narrator","門下生は、キリカに深々と頭を下げると、 そそくさとその場から立ち去った。","The student bowed deeply to Kirika and quickly walked away.","El estudiante hizo una profunda reverencia a Kirika y se marchó rápidamente."
-"Hasekura Kirika (thinking)","………………
+Hasekura Kirika (talking),無責任な噂です。 そのような事、聞き捨てておきなさい。,It is an irresponsible rumor. Let such things be heard and discarded.,"Es un rumor irresponsable. Esas cosas, déjalas sin escuchar."
+Peach Maid (talking),は、はい…… 申し訳ありません……,is yes…… sorry ……,"es, sí…… lo siento ……"
+narrator,門下生は、キリカに深々と頭を下げると、 そそくさとその場から立ち去った。,The student bowed deeply to Kirika and quickly walked away.,El estudiante hizo una profunda reverencia a Kirika y se marchó rápidamente.
+Hasekura Kirika (thinking),"………………
 こうして……よかれと思ってアエン姉様の 代わりに稽古をつけている事さえ、アエン 姉様にとって、不利な事になるなんて…
 それだけではない…… リンダ様も…アエン姉様が支倉の跡継ぎに なる事に不安がおありみたい…
 救いは父様までが、そうは思っていないと いう事なのだけど……
@@ -640,44 +640,44 @@ No sólo eso,…… Linda también está preocupada por que la hermana de Aen se
 La buena noticia es que ni siquiera el padre lo cree……
 Aún así, tengo un problema con la actitud de la hermana Aen…
 No sé qué hacer: ……"
-"narrator","ハイネの部屋に、キリカが呼ばれた。","Kirika was called to Haine's room.","Kirika fue llamada a la habitación de Haine."
-"Hasekura Kirika (talking)","どうなさいました、お父様？","What is it, Father?","¿Cómo puedo ayudarle, padre?"
-"Hasekura Haine (talking)","奉仕青年団に動きがあった。","There was movement in the service youth group.","Ha habido movimiento en los grupos de jóvenes de servicio."
-"Hasekura Kirika (talking)","例の……悪司とかいう、 リンダ様と抗争をしている……","The ……Akuji, for example, who is in a war with Linda, the Linda.","……, que está en guerra con la Linda, como ……Akuji, por ejemplo."
-"Hasekura Haine (talking)","そうだ。 奴が、このヒラカタに部下を送り込み、 戦争をしかけてきた。","That's right. He sent his men here to Hirakata to wage war.","Así es. Envió a sus hombres a Hirakata para hacer la guerra."
-"Hasekura Kirika (talking)","……………","……………","……………"
-"Hasekura Haine (talking)","キリカ。","Kirika.","Kirika."
-"Hasekura Kirika (talking)","はい、わかっております。 進入を阻止いたします。","Yes, I understand. We will block your entry.","Sí, lo entiendo. Bloquearemos la entrada."
-"Hasekura Haine (talking)","頼んだぞ。","I'm asking you.","Preguntado por."
-"Hasekura Kirika (talking)","はい、お父様。","Yes, father.","Sí, padre."
-"narrator","キリカはスカートの裾を広げ、 優雅に頭を下げた。","Kirika spread the hem of her skirt and bowed her head gracefully.","Kirika extendió el dobladillo de su falda e inclinó la cabeza con elegancia."
-"Chinpira (talking)","え、えーと…","Uh, let's see…","Bueno, er…"
-"Chinpira (talking)","お待たせ、デース。 準備ＯＫデース。","Sorry to keep you waiting. We are ready.","Siento haberte hecho esperar, dace. Preparados, listos, listos."
-"uimiiheishi (talking)","おい、本当に嬲って嬲って嬲りつくして くれる女なんだろうな？","Hey, she's really going to torture and torture and torture me, isn't she?","Oye, estás seguro de que es el tipo de mujer que realmente puede torturar y torturar y torturar, ¿no?"
-"Chinpira (talking)","オケー、イエスイエス。","Okay, yes yes yes.","Bien, sí, sí, sí."
-"uimiiheishi (talking)","嘘だったら、お前のそのフニャチン、 マシンガンの的にしてくれるからな。","If you're lying, I'll use your squishy dick as a machine gun target.","Si mientes, convertirán ese pequeño pene tuyo en un objetivo de ametralladora."
-"Chinpira (talking)","オケー、イエスイエス。","Okay, yes yes yes.","Bien, sí, sí, sí."
-"uimiiheishi (talking)","……ホント、ウィミィ語、 わかってるのか、お前…","…… Really, the Wime language, you know, you…","…… Realmente, el lenguaje de Wime, lo entiendes, tú…"
-"Chinpira (talking)","オケー、イエスイエス。","Okay, yes yes yes.","Bien, sí, sí, sí."
-"uimiiheishi (talking)","やれやれ…これじゃ、女の方も不安だぜ…","Oh man… this is making me nervous for the women…","Oh querido… esto me pone nervioso por las mujeres…"
-"cg narrator","「あなたが、わたくしにいたぶられたいという、 　ウィミィ人ね」
+narrator,ハイネの部屋に、キリカが呼ばれた。,Kirika was called to Haine's room.,Kirika fue llamada a la habitación de Haine.
+Hasekura Kirika (talking),どうなさいました、お父様？,"What is it, Father?","¿Cómo puedo ayudarle, padre?"
+Hasekura Haine (talking),奉仕青年団に動きがあった。,There was movement in the service youth group.,Ha habido movimiento en los grupos de jóvenes de servicio.
+Hasekura Kirika (talking),例の……悪司とかいう、 リンダ様と抗争をしている……,"The ……Akuji, for example, who is in a war with Linda, the Linda.","……, que está en guerra con la Linda, como ……Akuji, por ejemplo."
+Hasekura Haine (talking),そうだ。 奴が、このヒラカタに部下を送り込み、 戦争をしかけてきた。,That's right. He sent his men here to Hirakata to wage war.,Así es. Envió a sus hombres a Hirakata para hacer la guerra.
+Hasekura Kirika (talking),……………,……………,……………
+Hasekura Haine (talking),キリカ。,Kirika.,Kirika.
+Hasekura Kirika (talking),はい、わかっております。 進入を阻止いたします。,"Yes, I understand. We will block your entry.","Sí, lo entiendo. Bloquearemos la entrada."
+Hasekura Haine (talking),頼んだぞ。,I'm asking you.,Preguntado por.
+Hasekura Kirika (talking),はい、お父様。,"Yes, father.","Sí, padre."
+narrator,キリカはスカートの裾を広げ、 優雅に頭を下げた。,Kirika spread the hem of her skirt and bowed her head gracefully.,Kirika extendió el dobladillo de su falda e inclinó la cabeza con elegancia.
+Chinpira (talking),え、えーと…,"Uh, let's see…","Bueno, er…"
+Chinpira (talking),お待たせ、デース。 準備ＯＫデース。,Sorry to keep you waiting. We are ready.,"Siento haberte hecho esperar, dace. Preparados, listos, listos."
+uimiiheishi (talking),おい、本当に嬲って嬲って嬲りつくして くれる女なんだろうな？,"Hey, she's really going to torture and torture and torture me, isn't she?","Oye, estás seguro de que es el tipo de mujer que realmente puede torturar y torturar y torturar, ¿no?"
+Chinpira (talking),オケー、イエスイエス。,"Okay, yes yes yes.","Bien, sí, sí, sí."
+uimiiheishi (talking),嘘だったら、お前のそのフニャチン、 マシンガンの的にしてくれるからな。,"If you're lying, I'll use your squishy dick as a machine gun target.","Si mientes, convertirán ese pequeño pene tuyo en un objetivo de ametralladora."
+Chinpira (talking),オケー、イエスイエス。,"Okay, yes yes yes.","Bien, sí, sí, sí."
+uimiiheishi (talking),……ホント、ウィミィ語、 わかってるのか、お前…,"…… Really, the Wime language, you know, you…","…… Realmente, el lenguaje de Wime, lo entiendes, tú…"
+Chinpira (talking),オケー、イエスイエス。,"Okay, yes yes yes.","Bien, sí, sí, sí."
+uimiiheishi (talking),やれやれ…これじゃ、女の方も不安だぜ…,Oh man… this is making me nervous for the women…,Oh querido… esto me pone nervioso por las mujeres…
+cg narrator,"「あなたが、わたくしにいたぶられたいという、 　ウィミィ人ね」
  「Ｏｈ………Ｏｈ~~…」","You're the Wime who wants to be fucked by me.
 Oh………Oh~…”","Tú eres el Wime que quiere ser follado por mí.
 Oh………Oh~…”"
-"cg narrator","男はキリカの正しいウィミィ語の発音と、 その姿に感嘆の声をあげた。","The man marveled at Kirika's correct pronunciation of the Wime language and at her appearance.","El hombre se maravilló de la correcta pronunciación de la lengua Wime por parte de Kirika y de su aspecto."
-"cg narrator","「何をしているの？ 　ぼさっと立っていないで、 　さっさと自分で服を脱ぎなさい」
+cg narrator,男はキリカの正しいウィミィ語の発音と、 その姿に感嘆の声をあげた。,The man marveled at Kirika's correct pronunciation of the Wime language and at her appearance.,El hombre se maravilló de la correcta pronunciación de la lengua Wime por parte de Kirika y de su aspecto.
+cg narrator,"「何をしているの？ 　ぼさっと立っていないで、 　さっさと自分で服を脱ぎなさい」
  「は、はい、わかりました……」","What are you doing? 　Don't just stand there. Take off your clothes.
 Yes, yes, I understand……","¿Qué estás haciendo? 　No te quedes ahí, quítate la ropa.
 Sí, sí, lo entiendo……"
-"cg narrator","ウィミィの男は、女を買った立場だというのに、 横柄なキリカの声に、従順に、全裸となった。","The Wime man, in spite of his position of buying a woman, obediently stripped naked at the insolent Kirika's voice.","El hombre Wime, a pesar de su posición de haber comprado a la mujer, se desnudó obedientemente al oír la voz de la arrogante Kirika."
-"cg narrator","「こ、これでいいかい？」","”Is this okay?”","”¿Está bien?"
-"cg narrator","男は股間を手で隠し、へっぴり腰で、 キリカに問うた。","The man hides his crotch with his hand and asks Kirika in a hectoring tone, “What do you mean, Kirika?","El hombre se esconde la entrepierna con la mano, haciendo un gesto de nerviosismo, y pregunta a Kirika."
-"cg narrator","「あなた、ここに入ったというのに、何故、 　わたくしと対等の口をきいてらっしゃるの？ 　ご自分の立場をわかってらして？」","Why are you talking to me as an equal when you are here? 　Do you know your place?”","¿Por qué me hablas de igual a igual cuando acabas de unirte a nosotros? 　¿Sabes cuál es tu lugar?”"
-"cg narrator","　　［ピシッッッ］
+cg narrator,ウィミィの男は、女を買った立場だというのに、 横柄なキリカの声に、従順に、全裸となった。,"The Wime man, in spite of his position of buying a woman, obediently stripped naked at the insolent Kirika's voice.","El hombre Wime, a pesar de su posición de haber comprado a la mujer, se desnudó obedientemente al oír la voz de la arrogante Kirika."
+cg narrator,「こ、これでいいかい？」,”Is this okay?”,”¿Está bien?
+cg narrator,男は股間を手で隠し、へっぴり腰で、 キリカに問うた。,"The man hides his crotch with his hand and asks Kirika in a hectoring tone, “What do you mean, Kirika?","El hombre se esconde la entrepierna con la mano, haciendo un gesto de nerviosismo, y pregunta a Kirika."
+cg narrator,「あなた、ここに入ったというのに、何故、 　わたくしと対等の口をきいてらっしゃるの？ 　ご自分の立場をわかってらして？」,Why are you talking to me as an equal when you are here? 　Do you know your place?”,¿Por qué me hablas de igual a igual cuando acabas de unirte a nosotros? 　¿Sabes cuál es tu lugar?”
+cg narrator,"　　［ピシッッッ］
 キリカは手にしていた鞭で、男のそばの床を叩いた。","[Pish!]
 Kirika struck the floor near the man with the whip in her hand.","[Pish.]
 Kirika golpeó el suelo cerca del hombre con el látigo en la mano."
-"cg narrator","「ひっ…！！ 　す、すみません…あの……」
+cg narrator,"「ひっ…！！ 　す、すみません…あの……」
  「キリカですわ」
  「は、はい、キリカ様… 　申し訳ありません……」
  「四つんばいになりなさい」
@@ -690,8 +690,8 @@ Este es Kirika.
 Sí, señor, Kirika señor… lo siento……
 Ponte a cuatro patas.
 Sí, señor."
-"cg narrator","男は言われた通り、四つんばいになる。","The man does as he is told and gets down on all fours.","El hombre hace lo que le dicen y se pone a cuatro patas."
-"cg narrator","「栄光あるウィミィの軍人が、 　なんてみっともない恰好を…」
+cg narrator,男は言われた通り、四つんばいになる。,The man does as he is told and gets down on all fours.,El hombre hace lo que le dicen y se pone a cuatro patas.
+cg narrator,"「栄光あるウィミィの軍人が、 　なんてみっともない恰好を…」
  「ご、ごめんなさい、ごめんなさい… 　こんな駄目なボクを叱って下さい。 　キリカ様……」
  「そのままこちらにいらっしゃい」
  「はい……」","”What a disgraceful way for a soldier of the glorious Wime to dress…”
@@ -701,25 +701,25 @@ Yes, ……","”Qué manera tan vergonzosa de vestir para un soldado del glorio
  'Lo siento, lo siento, lo siento… Por favor, regañadme por ser un fracaso. 　Querida  Kirika, ……
 Quédate aquí.
 Sí……"
-"cg narrator","男は、興奮に頬を染め、しかし顔は叱られた子供の ような表情で、犬のようにキリカのそばへ行く。
+cg narrator,"男は、興奮に頬を染め、しかし顔は叱られた子供の ような表情で、犬のようにキリカのそばへ行く。
 やがて、キリカの座っている椅子の 足元までやってきた。","The man, his cheeks stained with excitement but his face like a scolded child's, goes to Kirika's side like a dog.
 Eventually, he comes to the foot of the chair where Kirika is sitting.","El hombre, con las mejillas manchadas de emoción pero la cara como la de un niño regañado, va al lado de Kirika como un perro.
 Finalmente, llega a los pies de la silla en la que está sentada Kirika."
-"cg narrator","「そこで止まって」
+cg narrator,"「そこで止まって」
  「は、はい…」
  「よくここまでこれましたわね。 　ご褒美にご奉仕させてあげましてよ」","Stop right there.
 Yes, yes…
 I'm surprised you made it this far. 　Let me reward you by serving you.”","Detente ahí.
 Sí, sí…
 Has llegado hasta aquí, ¿verdad? 　Deja que te recompense sirviéndote”."
-"cg narrator","キリカはそう言い、自分の花弁をゆっくり、 見せつけるように、男の前で指で開いてみせた。","Kirika said so, and slowly opened her petals with her fingers in front of the man, as if to show them off.","Kirika dijo esto y abrió lentamente sus pétalos con los dedos frente al hombre, como si quisiera mostrarlos."
-"cg narrator","「お、Ｏｈ~~~……」","Oh~~~……”","Oh~~~……”"
-"cg narrator","キリカのそこは、まるで男を知らぬ者の色をして、 それでいて、ふっくらと熟れた瑞々しい果実の弾力を 持ち、うっすらと濡れ光っていた。","Kirika's Kirika was the color of one who had never known a man, yet it had the Dan power of a plump, ripe, fresh fruit, glistening slightly wet.","La Kirika tenía el color de quien nunca había conocido a un hombre, y sin embargo tenía el poder Dan de una fruta gorda, madura y fresca, que brillaba húmeda."
-"cg narrator","「ここを舐めるのは、お好き？」
+cg narrator,キリカはそう言い、自分の花弁をゆっくり、 見せつけるように、男の前で指で開いてみせた。,"Kirika said so, and slowly opened her petals with her fingers in front of the man, as if to show them off.","Kirika dijo esto y abrió lentamente sus pétalos con los dedos frente al hombre, como si quisiera mostrarlos."
+cg narrator,「お、Ｏｈ~~~……」,Oh~~~……”,Oh~~~……”
+cg narrator,キリカのそこは、まるで男を知らぬ者の色をして、 それでいて、ふっくらと熟れた瑞々しい果実の弾力を 持ち、うっすらと濡れ光っていた。,"Kirika's Kirika was the color of one who had never known a man, yet it had the Dan power of a plump, ripe, fresh fruit, glistening slightly wet.","La Kirika tenía el color de quien nunca había conocido a un hombre, y sin embargo tenía el poder Dan de una fruta gorda, madura y fresca, que brillaba húmeda."
+cg narrator,"「ここを舐めるのは、お好き？」
  「は、はい…好きです…舐めさせて下さい… 　ああ…こんな風になじられると、ボク、ボク……」","Do you like it when I lick you here?
 Yes… yes… I like it… let me lick it… Oh… when you tease me like this, I… I… ……","¿Te gusta que te lama aquí?
  'Sí… sí… me gusta… déjame lamerlo… Oh… cuando me provocas así, yo… yo… ……"
-"cg narrator","男は四つんばいのまま首と舌を伸ばした。
+cg narrator,"男は四つんばいのまま首と舌を伸ばした。
  「ふふっ……」
 キリカの声が、快楽に揺れる。
 ウィミィの男のざらついた舌が、水音をたて、 キリカの花弁を這い出した。","The man stretched out his neck and tongue on all fours.
@@ -729,16 +729,16 @@ The rough tongue of Wime's man made a watery sound and crawled out of Kirika's p
  'Hmmm… ……'
 La voz de Kirika se estremeció de placer.
 La áspera lengua del Wime emitió un sonido acuoso y se arrastró fuera de los pétalos de Kirika."
-"cg narrator","「お上手です事。 　こういう事は、慣れているのですかしら？」
+cg narrator,"「お上手です事。 　こういう事は、慣れているのですかしら？」
  「はい…じゅぶ……いつもいつも、 　オクラホマの妻に、なじられて…じゅぶぶ… 　舐めていました…」","You are very good. 　Are you used to this kind of thing?”
  “Yes…jubu…… always, always, always, my wife in Oklahoma used to tease me…jubububu…and lick me…”","Eres muy bueno. 　¿Estás acostumbrado a este tipo de cosas?”
  “Sí… jubu…… siempre, siempre, siempre, mi esposa de Oklahoma solía burlarse de mí… jubububu… lamerme…”"
-"cg narrator","男は郷愁に目を細め、陶然としている。","The man squints in nostalgia and is euphoric.","El hombre está eufórico, entrecerrando los ojos con nostalgia."
-"cg narrator","「そう…根っからの、変態ですのね」
+cg narrator,男は郷愁に目を細め、陶然としている。,The man squints in nostalgia and is euphoric.,"El hombre está eufórico, entrecerrando los ojos con nostalgia."
+cg narrator,"「そう…根っからの、変態ですのね」
  「は、はい、そうです、変態です… 　じゅぶ…もっと、もっと、ボクの事を 　いじめて下さい~…」","So you're a pervert from the bottom up.
 Yes, yes, I'm a pervert… and I want you to tease me more and more…","Así que… eres un pervertido de corazón, ¿no?
 Sí, sí, soy un pervertido… por favor, bromea más, más, más…”"
-"cg narrator","男は泣き声に近い声をあげ、哀願する。
+cg narrator,"男は泣き声に近い声をあげ、哀願する。
 キリカは机の上のブランデーグラスを手に取ると、 琥珀色の液体を口腔に滑りこませた。
 そして、目を落とす。 自分の花弁を懸命に、嬉しそうに 舐めているウィミィ人。
 そのウィミィ人の、持ち主以上に嬉しそうに 屹立している、ピンク色の一物。
@@ -751,25 +751,25 @@ Kirika coge la copa de brandy que hay sobre el escritorio y desliza el líquido 
 Luego baja los ojos. Una persona Wime está lamiendo sus pétalos con fuerza y alegría.
 Esa persona de Wime se eleva, de color rosa, pareciendo incluso más feliz que su dueño.
 Kirika abrió un poco la boca. Desde allí, un líquido ámbar se desliza sobre la cosa."
-"cg narrator","「Ｏｈｈ！」","「Ｏｈｈ！」","「Ｏｈｈ！」"
-"cg narrator","液体の感触に、男が声をあげ、 奉仕する事を忘れた。","The feel of the liquid made the man so vocal that he forgot to serve.","El tacto del líquido hizo que el hombre se hiciera oír tanto que se olvidó de servir."
-"cg narrator","「誰が舌を休めて良いと言いました？」","Who said you can rest your tongue?”","”¿Quién ha dicho que puedes descansar la lengua?"
-"cg narrator","キリカはそう言って、男の背中を鞭で打った。","Kirika said and whipped the man's back.","Kirika entonces azotó la espalda del hombre."
-"cg narrator","「Ｏｈ！！」","「Ｏｈ！！」","「Ｏｈ！！」"
-"cg narrator","男はまた、舌を動かすのを忘れる。","The man forgets to move his tongue again.","El hombre también se olvida de mover la lengua."
-"cg narrator","「あなたは、ワザとそうしているのかしら…」","I wonder if you are doing this on purpose…”","Me pregunto si lo haces a propósito…”"
-"cg narrator","キリカはそう言いながら、手にしている鞭の柄で、 屹立している男のものを擦った。","As Kirika said this, she rubbed the towering manhood with the handle of the whip in her hand.","Mientras Kirika decía esto, frotaba la imponente hombría con el mango del látigo en su mano."
-"cg narrator","「Ｏｈ……Ｏｈ~~…」","「Ｏｈ……Ｏｈ~~…」","「Ｏｈ……Ｏｈ~~…」"
-"cg narrator","うっとりと、男は口をＯの字にして、 涎を垂らす。
+cg narrator,「Ｏｈｈ！」,「Ｏｈｈ！」,「Ｏｈｈ！」
+cg narrator,液体の感触に、男が声をあげ、 奉仕する事を忘れた。,The feel of the liquid made the man so vocal that he forgot to serve.,El tacto del líquido hizo que el hombre se hiciera oír tanto que se olvidó de servir.
+cg narrator,「誰が舌を休めて良いと言いました？」,Who said you can rest your tongue?”,”¿Quién ha dicho que puedes descansar la lengua?
+cg narrator,キリカはそう言って、男の背中を鞭で打った。,Kirika said and whipped the man's back.,Kirika entonces azotó la espalda del hombre.
+cg narrator,「Ｏｈ！！」,「Ｏｈ！！」,「Ｏｈ！！」
+cg narrator,男はまた、舌を動かすのを忘れる。,The man forgets to move his tongue again.,El hombre también se olvida de mover la lengua.
+cg narrator,「あなたは、ワザとそうしているのかしら…」,I wonder if you are doing this on purpose…”,Me pregunto si lo haces a propósito…”
+cg narrator,キリカはそう言いながら、手にしている鞭の柄で、 屹立している男のものを擦った。,"As Kirika said this, she rubbed the towering manhood with the handle of the whip in her hand.","Mientras Kirika decía esto, frotaba la imponente hombría con el mango del látigo en su mano."
+cg narrator,「Ｏｈ……Ｏｈ~~…」,「Ｏｈ……Ｏｈ~~…」,「Ｏｈ……Ｏｈ~~…」
+cg narrator,"うっとりと、男は口をＯの字にして、 涎を垂らす。
 微妙な凹凸のついたそれは、屹立した男のものを 刺激する。","Enraptured, the man's mouth forms an “O” and he drools.
 The subtle bumps on it stimulate the towering manhood.","Embelesado, la boca del hombre forma una “O” y babea.
 Las sutiles protuberancias en él estimulan la imponente virilidad."
-"cg narrator","「こんなに、濡らして… 　まるで、女性のよう…」
+cg narrator,"「こんなに、濡らして… 　まるで、女性のよう…」
  「キリカ様、Ｎｏ！　そこをそんな、あ、あ、あ、 　Ｏｈ……Ｏｈｈｈ！！！！」","”So wet… like a woman…”
 Oh…… Ohhhh！！！！”","”Tan húmedo… como una mujer…”
  “Kirika-sama, ¡no! Ohhhh！！！！”"
-"cg narrator","男は鞭の柄で愛撫されてしまっただけで、 達してしまい、キリカの胸に、白濁の体液を 多量にぶち撒けた。","The man was so excited by the caress of the whip handle that he sprayed a large amount of Haku's bodily fluids onto Kirika's breasts.","El hombre se limitó a acariciar el mango del látigo y llegó a rociar una gran cantidad de Haku de barro sobre los pechos de Kirika."
-"cg narrator","「……まあ……」
+cg narrator,男は鞭の柄で愛撫されてしまっただけで、 達してしまい、キリカの胸に、白濁の体液を 多量にぶち撒けた。,The man was so excited by the caress of the whip handle that he sprayed a large amount of Haku's bodily fluids onto Kirika's breasts.,El hombre se limitó a acariciar el mango del látigo y llegó a rociar una gran cantidad de Haku de barro sobre los pechos de Kirika.
+cg narrator,"「……まあ……」
  「お、お許しを！ 　お許しを！！」
  「では……この汚らしいもの、ご自分の舌で、 　舐め取って下さるかしら？」
  「は、はい…失礼します…」","”…… well ……”
@@ -779,45 +779,45 @@ Now, ……, will you please lick this filthy thing off your tongue?
  “¡Oh, perdóname! 　¡Perdóname!
 Ahora, ……, ¿podrías lamer esta cosa asquerosa de tu lengua?
 Sí, sí… perdón…”"
-"cg narrator","男はさっき発射したばかりだというのに、 その固さを緩める事のない一物をそのままに、 キリカの胸に顔を近づけ、舌を出した。","The man, who had just shot his load, kept his face close to Kirika's breast and stuck out his tongue, leaving the hardness of his penis untouched.","El hombre, que acababa de disparar su carga, mantuvo su cara cerca del pecho de Kirika y sacó la lengua, dejando la dureza de su carga sin relajar."
-"cg narrator","「ご自分の精液は、美味しいかしら？」
+cg narrator,男はさっき発射したばかりだというのに、 その固さを緩める事のない一物をそのままに、 キリカの胸に顔を近づけ、舌を出した。,"The man, who had just shot his load, kept his face close to Kirika's breast and stuck out his tongue, leaving the hardness of his penis untouched.","El hombre, que acababa de disparar su carga, mantuvo su cara cerca del pecho de Kirika y sacó la lengua, dejando la dureza de su carga sin relajar."
+cg narrator,"「ご自分の精液は、美味しいかしら？」
  「は、はい、美味しいです… 　ああ、キリカ様…キリカ様の胸が…」
  「ふふ……」","Does your semen taste good?
  “Yes, yes, it tastes good… Oh, my Lady Kirika… my Lady Kirika's breasts…”
  “Mmmm… ……”","¿Sabe bien su propio semen?
  “Sí, sí, sabe bien… Oh, Kirika-sama… Kirika-sama's breasts…”
  “Hmph… ……”"
-"cg narrator","キリカのピンヒールの爪先が、男の一物を、 下から上になぞった。","The tiptoe of Kirika's pinwheel traced the man's penis from bottom to top.","La punta del molinete de Kirika trazó el lóbulo de un hombre de abajo a arriba."
-"cg narrator","「Ｏｈ！！」
+cg narrator,キリカのピンヒールの爪先が、男の一物を、 下から上になぞった。,The tiptoe of Kirika's pinwheel traced the man's penis from bottom to top.,La punta del molinete de Kirika trazó el lóbulo de un hombre de abajo a arriba.
+cg narrator,"「Ｏｈ！！」
  「まだまだ、これからよ… 　萎える暇など、ありませんわ…… 　ふふ……ふふふ……」","Oh!
 There's more to come… No time to wilt……… hmmm… hmmm… hmmm… ……","¡Oh!
  'Hay más por venir… No hay tiempo para marchitarse…… hmmm… hmmm… hmmm… ……"
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"Chinpira (talking)","はいはい、 ご指名ありがとうございまーす！
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+Chinpira (talking),"はいはい、 ご指名ありがとうございまーす！
 キリカちゃん、キリカちゃん。 はりきってお仕事~！ ハッスル、ハッスル~！","Yes, yes, thank you for the nomination!
 Kirika, Kirika, Kirika. Hustle, hustle, hustle! Hustle, hustle, hustle!","Sí, sí, ¡gracias por su nominación!
 Kirika, Kirika. ¡Trabaja duro! ¡Apúrate, apúrate!"
-"Hasekura Kirika (talking)","まあ……","Well, ……","Bueno, ……"
-"Imagawa Kurusu (talking)","キリカ様……","Like Kirika ……","Como Kirika ……"
-"Hasekura Kirika (talking)","どうして、わたくしがここにいる事が わかりましたの？","How did you know I was here?","¿Cómo sabías que estaba aquí?"
-"Imagawa Kurusu (talking)","人づてに噂を聞いて… でも、まさか…","I heard rumors through the grapevine… but I never thought…","He oído rumores a través de la vid… pero nunca pensé…"
-"Hasekura Kirika (talking)","わたくしが自分の躰で、 春をひさいでいるとは思わなかった… ですかしら？","I didn't think I was blocking the spring with my own body, did I?","No pensé que estaba bloqueando el resorte con mi propio cuerpo, ¿verdad?"
-"Imagawa Kurusu (talking)","っ…………","~…………","~…………"
-"Hasekura Kirika (talking)","これはこれで、楽しんでいますけどね。","This is what I'm enjoying, though.","Sin embargo, esto es lo que me gusta hacer."
-"Imagawa Kurusu (talking)","…………戦え…ないのに、ですか？","………… even though you can't fight…?","………… Aunque no puedas luchar… sin embargo…"
-"Hasekura Kirika (talking)","……………","……………","……………"
-"Imagawa Kurusu (talking)","キリカ様………","Like Kirika ………","Como Kirika ………"
-"Hasekura Kirika (talking)","クルス……","Kurusu……","Kurusu……"
-"Imagawa Kurusu (talking)","………はい……","……… yes ……","……… sí ……"
-"Hasekura Kirika (talking)","こちらにいらっしゃい。 お金を払ったのでしょう？","Come here. You paid for it, didn't you?","Ven aquí. Lo has pagado, ¿no?"
-"Imagawa Kurusu (talking)","キリカ様…？","Dear Kirika…?","Querida Kirika…"
-"Hasekura Kirika (talking)","お金を払った分、 楽しませてさしあげてよ。","You paid for it, let them enjoy it.","Has pagado tu dinero, deja que se diviertan."
-"Imagawa Kurusu (talking)","そんな……僕は…… 僕は、そんなつもりじゃあ……","I don't…… mean to be such a…… I don't mean to be such a ……","No es mi intención…… No es mi intención ……"
-"Hasekura Kirika (talking)","いらして。","Come on in.","Visita."
-"narrator","キリカはクルスの手を掴むと強引に引き倒した。","Kirika grabbed Kurusu's hand and pulled him down forcefully.","Kirika agarró la mano de Kurusu y tiró de ella con fuerza."
-"Imagawa Kurusu (talking)","あっ……！！","Oh, ……!","¡Ah ……!"
-"cg narrator","　　［パチン］
+Hasekura Kirika (talking),まあ……,"Well, ……","Bueno, ……"
+Imagawa Kurusu (talking),キリカ様……,Like Kirika ……,Como Kirika ……
+Hasekura Kirika (talking),どうして、わたくしがここにいる事が わかりましたの？,How did you know I was here?,¿Cómo sabías que estaba aquí?
+Imagawa Kurusu (talking),人づてに噂を聞いて… でも、まさか…,I heard rumors through the grapevine… but I never thought…,He oído rumores a través de la vid… pero nunca pensé…
+Hasekura Kirika (talking),わたくしが自分の躰で、 春をひさいでいるとは思わなかった… ですかしら？,"I didn't think I was blocking the spring with my own body, did I?","No pensé que estaba bloqueando el resorte con mi propio cuerpo, ¿verdad?"
+Imagawa Kurusu (talking),っ…………,~…………,~…………
+Hasekura Kirika (talking),これはこれで、楽しんでいますけどね。,"This is what I'm enjoying, though.","Sin embargo, esto es lo que me gusta hacer."
+Imagawa Kurusu (talking),…………戦え…ないのに、ですか？,………… even though you can't fight…?,………… Aunque no puedas luchar… sin embargo…
+Hasekura Kirika (talking),……………,……………,……………
+Imagawa Kurusu (talking),キリカ様………,Like Kirika ………,Como Kirika ………
+Hasekura Kirika (talking),クルス……,Kurusu……,Kurusu……
+Imagawa Kurusu (talking),………はい……,……… yes ……,……… sí ……
+Hasekura Kirika (talking),こちらにいらっしゃい。 お金を払ったのでしょう？,"Come here. You paid for it, didn't you?","Ven aquí. Lo has pagado, ¿no?"
+Imagawa Kurusu (talking),キリカ様…？,Dear Kirika…?,Querida Kirika…
+Hasekura Kirika (talking),お金を払った分、 楽しませてさしあげてよ。,"You paid for it, let them enjoy it.","Has pagado tu dinero, deja que se diviertan."
+Imagawa Kurusu (talking),そんな……僕は…… 僕は、そんなつもりじゃあ……,I don't…… mean to be such a…… I don't mean to be such a ……,No es mi intención…… No es mi intención ……
+Hasekura Kirika (talking),いらして。,Come on in.,Visita.
+narrator,キリカはクルスの手を掴むと強引に引き倒した。,Kirika grabbed Kurusu's hand and pulled him down forcefully.,Kirika agarró la mano de Kurusu y tiró de ella con fuerza.
+Imagawa Kurusu (talking),あっ……！！,"Oh, ……!",¡Ah ……!
+cg narrator,"　　［パチン］
 キリカの股間のボタンがはずされる音がする。 その下からは、既に濡れた花弁が。
 クルスの目の前に、それが露になる。
  「あっ……キリカ様っ…！」
@@ -839,7 +839,7 @@ Frente a los ojos de Kurusu, se expone.
  '¡Ah… ah…!
  “Vamos, ……, lo pondré por ti……”
  “Kirika-sama… no… oh… oh…… oh ……!”"
-"cg narrator","キリカは屹立しているクルスのものを掴むと、 そのままゆっくり、クルスを焦らすように、 腰を下げていく。
+cg narrator,"キリカは屹立しているクルスのものを掴むと、 そのままゆっくり、クルスを焦らすように、 腰を下げていく。
 「ああっ……！！」
 「まあ…少女のような声をあげて… 　可愛らしい事…クルス……」
 「そんな……キリカ様っ…… 　あっ…！！」
@@ -1074,19 +1074,19 @@ La voz aguda de Kirika que nunca antes había escuchado. Su voz hizo que Kurusu 
 El cuerpo de Kirika tembló salvajemente. Al mismo tiempo, apreté las cosas de Kurusu.
 「U~……aaaa！！」
 Kurusu también dejó escapar un esperma en Kirika."
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"narrator","二人はベッドに横たわっている。 クルスはキリカの手をずっと握ったままだった。","They were lying on the bed. Kurusu kept holding Kirika's hand.","Se tumbaron en la cama. Kurusu no dejó de tomar la mano de Kirika todo el tiempo."
-"Imagawa Kurusu (talking)","…………キリカ様……","…………Kirika-like ……","…………Kirikacomo ……"
-"Hasekura Kirika (talking)","……どうしました…？","…… What's up…?","…… ¿Qué pasa…?"
-"Imagawa Kurusu (talking)","……………
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+narrator,二人はベッドに横たわっている。 クルスはキリカの手をずっと握ったままだった。,They were lying on the bed. Kurusu kept holding Kirika's hand.,Se tumbaron en la cama. Kurusu no dejó de tomar la mano de Kirika todo el tiempo.
+Imagawa Kurusu (talking),…………キリカ様……,…………Kirika-like ……,…………Kirikacomo ……
+Hasekura Kirika (talking),……どうしました…？,…… What's up…?,…… ¿Qué pasa…?
+Imagawa Kurusu (talking),"……………
 僕と…逃げましょう。","……………
 With me…let's run away.","……………
 Conmigo… huyamos."
-"Hasekura Kirika (talking)","クルス…？","Kurusu…?","Kurusu…"
-"Imagawa Kurusu (talking)","ここは、あなたのいる場所じゃない。","This is not where you belong.","Este no es tu sitio."
-"Hasekura Kirika (talking)","ですが……","But ……","Pero ……"
-"Imagawa Kurusu (talking)","あなたはここにいても幸せじゃない。
+Hasekura Kirika (talking),クルス…？,Kurusu…?,Kurusu…
+Imagawa Kurusu (talking),ここは、あなたのいる場所じゃない。,This is not where you belong.,Este no es tu sitio.
+Hasekura Kirika (talking),ですが……,But ……,Pero ……
+Imagawa Kurusu (talking),"あなたはここにいても幸せじゃない。
  ……だからと言って、僕があなたを 絶対、幸せな場所に連れて行けるとも 思っていません。
 ですが……
 ですが、ここにいるあなたの言葉は… 僕にとって、悲しすぎる……","You are not happy here.
@@ -1096,51 +1096,51 @@ But your words here… are too sad for me……","No eres feliz aquí.
 El hecho de que sea…… no significa que crea que pueda llevarte a un lugar feliz.
 Pero ……
 Pero sus palabras aquí… son demasiado tristes para mí……"
-"narrator","クルスはそう言って、 さらにキリカの手を握った。","Kurusu said so and shook Kirika's hand further.","Kurusu lo dijo y estrechó aún más la mano de Kirika."
-"Hasekura Kirika (talking)","………………","………………","………………"
-"Imagawa Kurusu (talking)","キリカ様……","Like Kirika ……","Como Kirika ……"
-"Hasekura Kirika (talking)","クルス……","Kurusu……","Kurusu……"
-"Imagawa Kurusu (talking)","それでは行きましょう。 すぐに電車がきます。","Let's go then. The train will be here soon.","Vamos entonces. El tren llegará pronto."
-"Hasekura Kirika (talking)","クルス…お前はいいのですか？","Kurusu…are you good?","Kurusu… ¿estás bien?"
-"Imagawa Kurusu (talking)","え？","Huh?","¿Eh?"
-"Hasekura Kirika (talking)","わたくしと逃避行するという事は、 お前はすべてを捨てる事になるのですよ？","By running away with me, you're throwing it all away, aren't you?","Si huyes conmigo, lo tiras todo por la borda, ¿no?"
-"Imagawa Kurusu (talking)","……僕のすべてはキリカ様です。 キリカ様さえいれば…… 僕は何もいりません。","…… All I have is Kirika. As long as Kirika is here,…… I don't need anything.","…… Todo lo que tengo es Kirika. Mientras Kirika esté aquí,…… no necesito nada."
-"Hasekura Kirika (talking)","クルス……","Kurusu……","Kurusu……"
-"Imagawa Kurusu (talking)","さあ…","Come on…","Vamos…"
-"Hasekura Kirika (talking)","ええ……","Ee: ……","Ee: ……"
-"Yamamoto Akuji (talking)","なんだと？","What the hell?","¿Qué?"
-"Chinpira (talking)","す、すみません… こっちが気づかないうちに、 支倉キリカに脱走されちまいました…","I'm sorry… Hasekura Kirika took off without my noticing…","Lo siento… Hasekura Kirika se fue sin que nos diéramos cuenta…"
-"Yamamoto Akuji (talking)","……………
+narrator,クルスはそう言って、 さらにキリカの手を握った。,Kurusu said so and shook Kirika's hand further.,Kurusu lo dijo y estrechó aún más la mano de Kirika.
+Hasekura Kirika (talking),………………,………………,………………
+Imagawa Kurusu (talking),キリカ様……,Like Kirika ……,Como Kirika ……
+Hasekura Kirika (talking),クルス……,Kurusu……,Kurusu……
+Imagawa Kurusu (talking),それでは行きましょう。 すぐに電車がきます。,Let's go then. The train will be here soon.,Vamos entonces. El tren llegará pronto.
+Hasekura Kirika (talking),クルス…お前はいいのですか？,Kurusu…are you good?,Kurusu… ¿estás bien?
+Imagawa Kurusu (talking),え？,Huh?,¿Eh?
+Hasekura Kirika (talking),わたくしと逃避行するという事は、 お前はすべてを捨てる事になるのですよ？,"By running away with me, you're throwing it all away, aren't you?","Si huyes conmigo, lo tiras todo por la borda, ¿no?"
+Imagawa Kurusu (talking),……僕のすべてはキリカ様です。 キリカ様さえいれば…… 僕は何もいりません。,"…… All I have is Kirika. As long as Kirika is here,…… I don't need anything.","…… Todo lo que tengo es Kirika. Mientras Kirika esté aquí,…… no necesito nada."
+Hasekura Kirika (talking),クルス……,Kurusu……,Kurusu……
+Imagawa Kurusu (talking),さあ…,Come on…,Vamos…
+Hasekura Kirika (talking),ええ……,Ee: ……,Ee: ……
+Yamamoto Akuji (talking),なんだと？,What the hell?,¿Qué?
+Chinpira (talking),す、すみません… こっちが気づかないうちに、 支倉キリカに脱走されちまいました…,I'm sorry… Hasekura Kirika took off without my noticing…,Lo siento… Hasekura Kirika se fue sin que nos diéramos cuenta…
+Yamamoto Akuji (talking),"……………
  ！！
 おう、クルスは！？ クルスはいるか！？","……………
 Oh!!!
 Oh, Kurusu is there! Is Kurusu there!","……………
  ¡Oh!
  ¡Oh, Kurusu está ahí! ¡Está Kurusu ahí!"
-"Seinendan Jyoshi (talking)","え？ クルスさん、朝から姿を見掛けませんよ。","What? Kurusu, I haven't seen you since this morning.","¿Eh? Kurusu, no te he visto desde esta mañana."
-"Yamamoto Akuji (talking)","っ……ちっ……
+Seinendan Jyoshi (talking),え？ クルスさん、朝から姿を見掛けませんよ。,"What? Kurusu, I haven't seen you since this morning.","¿Eh? Kurusu, no te he visto desde esta mañana."
+Yamamoto Akuji (talking),"っ……ちっ……
 クルスの奴、キリカを連れて、 逃げやがった……","Damn ……
 The guy from Kurusu took Kirika and ran away……","Maldito …….
 El tipo de Kurusu se llevó a Kirika y huyó……"
-"Chinpira (talking)","ええ！？","Yeah!","¡Sí!"
-"Yamamoto Akuji (talking)","………しゃーねぇ… あいつらのＩＱフル活用で 逃げられたんじゃあ、痕跡は絶対ゼロだ。","……… shucks… if they got away with it with their full IQ, there's absolutely zero trace of them.","……… Vergüenza… si se salieron con la suya con todo su coeficiente intelectual, no hay absolutamente ningún rastro de ellos."
-"Chinpira (talking)","じゃあ……","Then ……","Entonces ……"
-"Yamamoto Akuji (talking)","ほっとけ。","Leave it alone.","Déjalo estar."
-"Chinpira (talking)","わ、わかりました……","Wow, okay……","Vaya, vale……"
-"narrator","こうして、支倉キリカと今川クルスは 奉仕青年団から脱走した。","Thus, Hasekura Kirika and Imagawa Kurusu deserted from the Service Youth League.","Así, Hasekura Kirika y Imagawa Kurusu desertaron de la Organización Juvenil de Servicio."
-"narrator","キリカとクルスが二人で道場で訓練をしていた。","Kirika and Kurusu were training together in the dojo.","Kirika y Kurusu estaban entrenando juntos en el dojo."
-"Hasekura Kirika (talking)","今日はこの辺りにしておきましょうか。","Let's leave it at that for today, shall we?","Dejémoslo así por hoy, ¿de acuerdo?"
-"Imagawa Kurusu (talking)","はい、ありがとうございます。
+Chinpira (talking),ええ！？,Yeah!,¡Sí!
+Yamamoto Akuji (talking),………しゃーねぇ… あいつらのＩＱフル活用で 逃げられたんじゃあ、痕跡は絶対ゼロだ。,"……… shucks… if they got away with it with their full IQ, there's absolutely zero trace of them.","……… Vergüenza… si se salieron con la suya con todo su coeficiente intelectual, no hay absolutamente ningún rastro de ellos."
+Chinpira (talking),じゃあ……,Then ……,Entonces ……
+Yamamoto Akuji (talking),ほっとけ。,Leave it alone.,Déjalo estar.
+Chinpira (talking),わ、わかりました……,"Wow, okay……","Vaya, vale……"
+narrator,こうして、支倉キリカと今川クルスは 奉仕青年団から脱走した。,"Thus, Hasekura Kirika and Imagawa Kurusu deserted from the Service Youth League.","Así, Hasekura Kirika y Imagawa Kurusu desertaron de la Organización Juvenil de Servicio."
+narrator,キリカとクルスが二人で道場で訓練をしていた。,Kirika and Kurusu were training together in the dojo.,Kirika y Kurusu estaban entrenando juntos en el dojo.
+Hasekura Kirika (talking),今日はこの辺りにしておきましょうか。,"Let's leave it at that for today, shall we?","Dejémoslo así por hoy, ¿de acuerdo?"
+Imagawa Kurusu (talking),"はい、ありがとうございます。
 とうとう、奉仕青年団と戦争に なってしまいましたね。","Yes, thank you very much.
 Finally, we are in war with the service youth group.","Sí, muchas gracias.
 Finalmente, estamos en la guerra con el grupo de jóvenes de servicio."
-"Hasekura Kirika (talking)","そのようですわね。","It would seem so.","Eso parece."
-"Imagawa Kurusu (talking)","実戦に投入されるのが初めてなので、 色々と緊張します。","This is the first time for me to be put into a real battle, so I am nervous in many ways.","Es la primera vez que me ponen en una batalla real, así que estoy nervioso por muchas cosas."
-"Hasekura Kirika (talking)","まあ…あなたから緊張だなんて言葉を 聞くなんて。","Well…I can't believe I'm hearing the word “nervous” from you.","Bueno… escuchar la palabra “nervioso” de ti."
-"Imagawa Kurusu (talking)","僕だって緊張ぐらいしますよ。 そういえば、キリカ様も実戦は…","I get nervous too. Come to think of it, I don't know if you've ever been in a real fight before, Kirika.","Incluso yo me pongo nervioso. Ahora que lo pienso, nunca has estado en una pelea real…"
-"Hasekura Kirika (talking)","初めてですわね。","That's a first.","Es la primera vez."
-"Imagawa Kurusu (talking)","緊張なさらないので？","You are not nervous?","No estás nervioso, ¿verdad?"
-"Hasekura Kirika (talking)","そうですわね…… 高揚感の方が高いですわ。
+Hasekura Kirika (talking),そのようですわね。,It would seem so.,Eso parece.
+Imagawa Kurusu (talking),実戦に投入されるのが初めてなので、 色々と緊張します。,"This is the first time for me to be put into a real battle, so I am nervous in many ways.","Es la primera vez que me ponen en una batalla real, así que estoy nervioso por muchas cosas."
+Hasekura Kirika (talking),まあ…あなたから緊張だなんて言葉を 聞くなんて。,Well…I can't believe I'm hearing the word “nervous” from you.,Bueno… escuchar la palabra “nervioso” de ti.
+Imagawa Kurusu (talking),僕だって緊張ぐらいしますよ。 そういえば、キリカ様も実戦は…,"I get nervous too. Come to think of it, I don't know if you've ever been in a real fight before, Kirika.","Incluso yo me pongo nervioso. Ahora que lo pienso, nunca has estado en una pelea real…"
+Hasekura Kirika (talking),初めてですわね。,That's a first.,Es la primera vez.
+Imagawa Kurusu (talking),緊張なさらないので？,You are not nervous?,"No estás nervioso, ¿verdad?"
+Hasekura Kirika (talking),"そうですわね…… 高揚感の方が高いですわ。
 わたくしはこのヒラカタにずっと留まって いなくてはならないので…
 もし仮に彼らがここにくるとしたら、 相当の猛者であるはず。
 そのような方々と手合わせ出来るのは、 幸せな事だと思いますの。","Yes,…… the elation is higher.
@@ -1150,21 +1150,21 @@ I think it's a blessing to be able to work with such people.","Sí…… Estoy m
 Tengo que quedarme aquí en Hirakata durante mucho tiempo, así que…
 Si vinieran aquí, serían muy feroces.
 Creo que es una bendición poder trabajar con gente así."
-"Imagawa Kurusu (talking)","なるほど。","I see.","Ya veo."
-"Hasekura Kirika (talking)","ふふ…普通の娘ならば、 震えあがっているのでしょうけどね。","Hmmm… a normal girl would be cringing.","Hmmm… cualquier chica normal se encogería."
-"Imagawa Kurusu (talking)","いつも凛々しいキリカ様が 震えあがっているところを 見たくないですね、個人的に。","I don't want to see the always dignified Kirika shaken up, personally.","No quiero ver a la siempre digna Kirika-sama temblando, personalmente."
-"Hasekura Kirika (talking)","まあ…どういう意味ですの？ それ。","Well… what do you mean? That.","Bueno… ¿qué quieres decir? Es."
-"Imagawa Kurusu (talking)","いえ……あの、馬鹿にしたのではなく… 思ったままを…その……","No, ……, um, I didn't mean to make fun of you… I was just thinking… that ……","No, ……, um, no quería burlarme de ti… Sólo estaba pensando… que ……"
-"Hasekura Kirika (talking)","覚悟なさって下さいますかしら。","I hope you are prepared for this.","Espero que estés preparado para esto."
-"Hasekura Kirika (talking)","お父様…まさかあなたと実戦で 対峙するとは思ってもいませんでしたわ…
+Imagawa Kurusu (talking),なるほど。,I see.,Ya veo.
+Hasekura Kirika (talking),ふふ…普通の娘ならば、 震えあがっているのでしょうけどね。,Hmmm… a normal girl would be cringing.,Hmmm… cualquier chica normal se encogería.
+Imagawa Kurusu (talking),いつも凛々しいキリカ様が 震えあがっているところを 見たくないですね、個人的に。,"I don't want to see the always dignified Kirika shaken up, personally.","No quiero ver a la siempre digna Kirika-sama temblando, personalmente."
+Hasekura Kirika (talking),まあ…どういう意味ですの？ それ。,Well… what do you mean? That.,Bueno… ¿qué quieres decir? Es.
+Imagawa Kurusu (talking),いえ……あの、馬鹿にしたのではなく… 思ったままを…その……,"No, ……, um, I didn't mean to make fun of you… I was just thinking… that ……","No, ……, um, no quería burlarme de ti… Sólo estaba pensando… que ……"
+Hasekura Kirika (talking),覚悟なさって下さいますかしら。,I hope you are prepared for this.,Espero que estés preparado para esto.
+Hasekura Kirika (talking),"お父様…まさかあなたと実戦で 対峙するとは思ってもいませんでしたわ…
 心踊っているわたくしを、 親不孝と蔑んで下さいまし…","Father I never thought I'd face you in battle.
 Please scorn my filial piety for being so excited.","Padre, nunca pensé que me enfrentaría a ti en combate.
 Por favor, desprecie mi piedad filial por estar tan emocionado…"
-"Hasekura Kirika (talking)","ふう……","Fu ……","Fu ……"
-"Imagawa Kurusu (talking)","少し休みましょうか？ キリカ様。","Shall we take a break? Dear Kirika.","¿Hacemos una pequeña pausa? Querida Kirika."
-"Hasekura Kirika (talking)","………また…様と呼ぶ…","……… also call me… sir…","……… También se llama… señor…"
-"Imagawa Kurusu (talking)","申し訳ありません。 習慣でつい…","I am sorry. Out of habit…","Disculpas. Lo hice por costumbre…"
-"Hasekura Kirika (talking)","あなたが、この子の親になるのですから… それでは、子供が戸惑ってしまいます わよ。","You are going to be the parent of this child.","Vais a ser los padres del niño… eso va a confundir al niño."
-"Imagawa Kurusu (talking)","そうですね、気をつけます。","Yes, I will be careful.","Sí, tendré cuidado."
-"Hasekura Kirika (talking)","……ふふ……","…… fufu ……","…… fufu ……"
-"narrator","キリカは優しくそっと、自分のおなかを撫でた。","Kirika gently and softly patted her belly.","Kirika acarició suavemente su barriga."
+Hasekura Kirika (talking),ふう……,Fu ……,Fu ……
+Imagawa Kurusu (talking),少し休みましょうか？ キリカ様。,Shall we take a break? Dear Kirika.,¿Hacemos una pequeña pausa? Querida Kirika.
+Hasekura Kirika (talking),………また…様と呼ぶ…,……… also call me… sir…,……… También se llama… señor…
+Imagawa Kurusu (talking),申し訳ありません。 習慣でつい…,I am sorry. Out of habit…,Disculpas. Lo hice por costumbre…
+Hasekura Kirika (talking),あなたが、この子の親になるのですから… それでは、子供が戸惑ってしまいます わよ。,You are going to be the parent of this child.,Vais a ser los padres del niño… eso va a confundir al niño.
+Imagawa Kurusu (talking),そうですね、気をつけます。,"Yes, I will be careful.","Sí, tendré cuidado."
+Hasekura Kirika (talking),……ふふ……,…… fufu ……,…… fufu ……
+narrator,キリカは優しくそっと、自分のおなかを撫でた。,Kirika gently and softly patted her belly.,Kirika acarició suavemente su barriga.

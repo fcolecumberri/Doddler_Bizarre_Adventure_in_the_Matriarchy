@@ -1,23 +1,23 @@
-"character","jap text","Eng","Esp"
-"__system__??","{麦 = 1:","",""
-"__system__??","{☆セヤダタラ = 2:","",""
-"__system__??","}","",""
-"__system__??","{☆セヤダタラ = 4:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 2:","",""
-"__system__??","{☆セヤダタラ = 3:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 3:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 4:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 5:","",""
-"__system__??","}","",""
-"Seyadatara (talking)","きましたよ、こんにちわ。","I'm here, hello.","Estoy aquí, hola."
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Seyadatara (talking)","せーえき入れてくれるのですか？
+character,jap text,Eng,Esp
+__system__??,{麦 = 1:,,
+__system__??,{☆セヤダタラ = 2:,,
+__system__??,},,
+__system__??,{☆セヤダタラ = 4:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 2:,,
+__system__??,{☆セヤダタラ = 3:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 3:,,
+__system__??,},,
+__system__??,{麦 = 4:,,
+__system__??,},,
+__system__??,{麦 = 5:,,
+__system__??,},,
+Seyadatara (talking),きましたよ、こんにちわ。,"I'm here, hello.","Estoy aquí, hola."
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Seyadatara (talking),"せーえき入れてくれるのですか？
 でないと、気力が回復しないので、 どんどん動けなくなりますよ。
 躰は戦うと壊れます。 でも、躰直してくれるラツノミコ様いない ので、壊れたらそのままでぴんちです。
 どうしましょう。","Will you put in a se-eki?
@@ -27,39 +27,39 @@ What should I do?","¿Pondrás un se-ice?
 Si no, no recuperarás tu energía, por lo que estarás cada vez más atascado.
 Tu cuerpo se rompe cuando luchas. Pero no hay Ratunomiko que arregle tu cuerpo, así que si se rompe, te quedarás en el mismo estado.
  ¿Qué debo hacer?"
-"Yamamoto Akuji (talking)","どーしましょって言われてもなー… とりあえず、精液だけは保証するぞ。","I don't know what to do… At any rate, I can assure you that semen is the only thing I can do.","No sé qué hacer… En todo caso, te garantizo que sólo hay semen."
-"Seyadatara (talking)","はい、ありがとうございます。 濃いのをたくさん下さいね。 白く濁っている方がいいです。","Yes, thank you. Please give me a lot of dark ones. The Haku dark and muddy is better.","Sí, gracias. Por favor, dame muchos oscuros. Cuanto más oscuro y turbio sea el Haku, mejor."
-"Seyadatara (talking)","昨日、男の人間さんが遊んでくれました。","Yesterday, a male human played with me.","Un macho humano jugó conmigo ayer."
-"Yamamoto Akuji (talking)","何して遊んだんだい？","What did you do for fun?","¿Qué has hecho para divertirte?"
-"Seyadatara (talking)","お医者さんごっこです。 注射と言われて、せーえき注入口から せーえきを入れられました。","We are playing doctor. I was told that I needed an injection, and they put it in through the injection port.","Estamos jugando a los médicos. Me dijeron que necesitaba una inyección y me la pusieron a través del puerto de inyección del SEE."
-"Yamamoto Akuji (talking)","……で… どーだったんだい？","At……… how did it go?","En……… ¿Cómo te fue?"
-"Seyadatara (talking)","全然だめです、発射したばかりでも 活きのないのは、エネルギーに なりません。
+Yamamoto Akuji (talking),どーしましょって言われてもなー… とりあえず、精液だけは保証するぞ。,"I don't know what to do… At any rate, I can assure you that semen is the only thing I can do.","No sé qué hacer… En todo caso, te garantizo que sólo hay semen."
+Seyadatara (talking),はい、ありがとうございます。 濃いのをたくさん下さいね。 白く濁っている方がいいです。,"Yes, thank you. Please give me a lot of dark ones. The Haku dark and muddy is better.","Sí, gracias. Por favor, dame muchos oscuros. Cuanto más oscuro y turbio sea el Haku, mejor."
+Seyadatara (talking),昨日、男の人間さんが遊んでくれました。,"Yesterday, a male human played with me.",Un macho humano jugó conmigo ayer.
+Yamamoto Akuji (talking),何して遊んだんだい？,What did you do for fun?,¿Qué has hecho para divertirte?
+Seyadatara (talking),お医者さんごっこです。 注射と言われて、せーえき注入口から せーえきを入れられました。,"We are playing doctor. I was told that I needed an injection, and they put it in through the injection port.",Estamos jugando a los médicos. Me dijeron que necesitaba una inyección y me la pusieron a través del puerto de inyección del SEE.
+Yamamoto Akuji (talking),……で… どーだったんだい？,At……… how did it go?,En……… ¿Cómo te fue?
+Seyadatara (talking),"全然だめです、発射したばかりでも 活きのないのは、エネルギーに なりません。
 だめのだめだめだったので、 そう言うと、その人、泣きながら どこかに行ってしまいました。","No, not at all. Even if you just fired it, it has no energy if it has no life in it.
 I said, “No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.","En absoluto, aunque acabes de disparar, no te da energía si no tiene vida.
 No era bueno, no era bueno, así que se lo dije, y se fue llorando."
-"Yamamoto Akuji (talking)","俺に罰を受ける前に、自ら罰を受けたか… ザマーミロだな、そいつ。","He punished himself before he was punished by me… Zammermillo, that guy.","Te castigaste a ti mismo antes de ser castigado por mí… Zamámiró, ese tipo."
-"Seyadatara (talking)","ところで、悪司。 注射って、美味しいですか？ かじっていいですか？","By the way, Akuji. Is injection delicious? Can I nibble on it?","Por cierto, Akuji. ¿Saben bien las inyecciones? ¿Puedo mordisquearlo?"
-"Yamamoto Akuji (talking)","えーとだな、その男はお前に嘘をついた。 注射は、せーえき注入とはまったく 別のもんだ。そして齧ってはだめ。","Let's see, the guy lied to you. Injections are a whole different animal than a septic injection. And no biting.","Veamos, el hombre te mintió. Las inyecciones son algo muy distinto a una inyección séptica. Y no le des un mordisco."
-"Seyadatara (talking)","はい、わかりました。 ワタシ、注射はかじりません。","Yes, I understand. I don't bite on injections.","Sí, lo entiendo. Watashi, no muerdo las inyecciones."
-"Seyadatara (talking)","美味しそうな色をした机ですね。 かじっていいですか？","It's a delicious colored desk. May I nibble on it?","Es un escritorio deliciosamente coloreado. ¿Puedo mordisquearlo?"
-"Yamamoto Akuji (talking)","だめ。","No.","No, no."
-"Yamamoto Akuji (talking)","おーし。","Osh.","Oooh."
-"Seyadatara (talking)","おーしは、美味しいですか？ かじっていいですか？","Oshi, is it good? Can I nibble on it?","¿El oshi es sabroso? ¿Puedo mordisquearlo?"
-"Yamamoto Akuji (talking)","齧れねぇ。","I can't take a bite.","No puedo roerlo."
-"Seyadatara (talking)","そうですか。","I see.","Sí."
-"Yamamoto Akuji (talking)","お前さんのお待ちかねのモンを プレゼントしよう。","I'll give you what you've been waiting for.","Les presento lo que han estado esperando."
-"Seyadatara (talking)","せーえきですか？ 早く下さい。 濃いのをたくさん。","Is it a seize? Please hurry. Lots of thick.","¿Es un sei-katsu-sha? Por favor, sea rápido. Mucho espesor."
-"Yamamoto Akuji (talking)","フツー、えろくせーセリフだけど、 お前さんが言うと、まったくもって あっけらかんだなー。","It's a line that sounds like a joke, but when you say it, it's so easy-going.","Es una frase que parece una broma, pero cuando la dices, es tan abierta y honesta."
-"Seyadatara (talking)","それ……","It ……","Es: ……"
-"Yamamoto Akuji (talking)","美味くもねーし、齧れねぇ。","It ain't tasty, and I ain't gnawing on it.","No es sabroso, no es roíble."
-"Seyadatara (talking)","そうですか。","I see.","Sí."
-"Yamamoto Akuji (talking)","よし、こっちきな。","All right, come here.","Muy bien, ven aquí."
-"Seyadatara (talking)","はい。","Yes.","Sí."
-"cg narrator","「たっぷり下さいね。 　零れたらイヤなので、零れない体位で 　せーえき下さい」
+Yamamoto Akuji (talking),俺に罰を受ける前に、自ら罰を受けたか… ザマーミロだな、そいつ。,"He punished himself before he was punished by me… Zammermillo, that guy.","Te castigaste a ti mismo antes de ser castigado por mí… Zamámiró, ese tipo."
+Seyadatara (talking),ところで、悪司。 注射って、美味しいですか？ かじっていいですか？,"By the way, Akuji. Is injection delicious? Can I nibble on it?","Por cierto, Akuji. ¿Saben bien las inyecciones? ¿Puedo mordisquearlo?"
+Yamamoto Akuji (talking),えーとだな、その男はお前に嘘をついた。 注射は、せーえき注入とはまったく 別のもんだ。そして齧ってはだめ。,"Let's see, the guy lied to you. Injections are a whole different animal than a septic injection. And no biting.","Veamos, el hombre te mintió. Las inyecciones son algo muy distinto a una inyección séptica. Y no le des un mordisco."
+Seyadatara (talking),はい、わかりました。 ワタシ、注射はかじりません。,"Yes, I understand. I don't bite on injections.","Sí, lo entiendo. Watashi, no muerdo las inyecciones."
+Seyadatara (talking),美味しそうな色をした机ですね。 かじっていいですか？,It's a delicious colored desk. May I nibble on it?,Es un escritorio deliciosamente coloreado. ¿Puedo mordisquearlo?
+Yamamoto Akuji (talking),だめ。,No.,"No, no."
+Yamamoto Akuji (talking),おーし。,Osh.,Oooh.
+Seyadatara (talking),おーしは、美味しいですか？ かじっていいですか？,"Oshi, is it good? Can I nibble on it?",¿El oshi es sabroso? ¿Puedo mordisquearlo?
+Yamamoto Akuji (talking),齧れねぇ。,I can't take a bite.,No puedo roerlo.
+Seyadatara (talking),そうですか。,I see.,Sí.
+Yamamoto Akuji (talking),お前さんのお待ちかねのモンを プレゼントしよう。,I'll give you what you've been waiting for.,Les presento lo que han estado esperando.
+Seyadatara (talking),せーえきですか？ 早く下さい。 濃いのをたくさん。,Is it a seize? Please hurry. Lots of thick.,"¿Es un sei-katsu-sha? Por favor, sea rápido. Mucho espesor."
+Yamamoto Akuji (talking),フツー、えろくせーセリフだけど、 お前さんが言うと、まったくもって あっけらかんだなー。,"It's a line that sounds like a joke, but when you say it, it's so easy-going.","Es una frase que parece una broma, pero cuando la dices, es tan abierta y honesta."
+Seyadatara (talking),それ……,It ……,Es: ……
+Yamamoto Akuji (talking),美味くもねーし、齧れねぇ。,"It ain't tasty, and I ain't gnawing on it.","No es sabroso, no es roíble."
+Seyadatara (talking),そうですか。,I see.,Sí.
+Yamamoto Akuji (talking),よし、こっちきな。,"All right, come here.","Muy bien, ven aquí."
+Seyadatara (talking),はい。,Yes.,Sí.
+cg narrator,"「たっぷり下さいね。 　零れたらイヤなので、零れない体位で 　せーえき下さい」
  「わかった、わかった。 　そーら」","Please give me plenty. 　I don't want it to spill, so please fuck me in a position where it won't spill.”
 Okay, okay. 　There you go.","Por favor, dame mucho. 　No quiero que se derrame, así que por favor fóllame en una posición que no se derrame”.
 Vale, vale. 　Ahí lo tienes."
-"cg narrator","普通なら恥ずかしさに悲鳴をけあげるような 体位をとっても、セヤダタラは恥じる事なく 悪司を見つめている。
+cg narrator,"普通なら恥ずかしさに悲鳴をけあげるような 体位をとっても、セヤダタラは恥じる事なく 悪司を見つめている。
  「よっ……とっ……」
 悪司は蜜を含み、ぱっくりと開いた セヤダタラの花弁に、自分の大きくなったものを 深く差し入れる。
  「……………」
@@ -273,116 +273,116 @@ Akuji movió sus caderas varias veces y liberó su esperma dentro de Seyadatara.
  '………… entrando en…… … llenando… …'
  '………… lleno de…… puede luchar. 　Muchas gracias, Akuji”.
  “Sí, de nada”."
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","さて、セヤダタラ。","Now, Seyadatara.","Ahora, Seyadatara."
-"Seyadatara (talking)","はい。","Yes.","Sí."
-"Yamamoto Akuji (talking)","精液を入れてやるぞ。","I'm going to put semen in you.","Voy a ponerte semen."
-"Seyadatara (talking)","ありがとうございます。 新鮮なのをたくさん下さい。","Thank you. Please give me lots of fresh ones.","Gracias. Por favor, dame muchas frescas."
-"Yamamoto Akuji (talking)","おう、任せとけ。","Oh, leave it to me.","Oh, déjamelo a mí."
-"Yamamoto Akuji (talking)","悪司は、セヤダタラに精液を注入した。","Akuji injected semen into Seyadatara.","Akuji inyectó semen en Seyadatara."
-"Yamamoto Akuji (talking)","うーし。 こんなもんか。","Woohoo. So this is not what it looks like.","Woohoo. Esto no es lo que parece."
-"Seyadatara (talking)","はい。 ありがとうございました。","Yes, I would like to know if you have any questions. Thank you very much.","Sí, me gustaría agradecerle su ayuda. Muchas gracias."
-"Yamamoto Akuji (talking)","セヤダタラ、小遣いやるから、 これで遊んでこいや。","Seyadatara, I'll give you some money.","Seyadatara, te daré algo de dinero, ve a jugar con esto."
-"Seyadatara (talking)","せーえきじゃないです。","It's not a seizei.","No es una incautación."
-"Yamamoto Akuji (talking)","まーそーだがよぉ…","Yeah, but…","Bueno, sí, pero…"
-"Seyadatara (talking)","せーえき下さい。","Please se-eek.","Por favor, se-eek."
-"Yamamoto Akuji (talking)","……また今度な。","I'll see you at…… another time.","…… Hasta la próxima."
-"Seyadatara (talking)","これ、お返しします。 はい。","I will return this to you. Yes, I will.","Toma, te devuelvo esto. Sí."
-"Yamamoto Akuji (talking)","なんとまあ、律義な。 あんがとさんよ。","How well, how law-abiding. Thank you very much.","Que bien disciplinado. Gracias a ti."
-"Seyadatara (talking)","はいです。","Yes.","Sí."
-"Tamanegi (talking)","…………","…………","…………"
-"Seyadatara (talking)","手のそれ、なんですか？ 美味しいですか？ かじっていいですか？","What is that on your hand? Is it good? Can I nibble on it?","¿Qué tienes en la mano? ¿Es sabroso? ¿Puedo mordisquearlo?"
-"Tamanegi (talking)","若。","Young.","Joven."
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"Tamanegi (talking)","これはドグウ戦士ですね。 娼婦にするのはもったいないですよ。 戦士として使った方がよいです。","This is a Dogu warrior. It is a waste to use it as a prostitute. It is better to use it as a warrior.","Este es un guerrero Dogu. Es un desperdicio utilizarla como prostituta. Es mejor usarlo como guerrero."
-"Yamamoto Akuji (talking)","そっか。 じゃあ、キャンセルだ。","I see. Well, cancel it.","Ya veo. Pues entonces, cancélalo."
-"Tamanegi (talking)","はい、それでは…","Yes, then…","Sí, entonces…"
-"Seyadatara (talking)","今の人、美味しいですか？ かじってもいいですか？","Now who, is it good? Can I have a nibble?","¿Ahora quién, es sabroso? ¿Puedo tomar un bocado?"
-"Yamamoto Akuji (talking)","タマネギ臭くなるからやめとけ。","Tamanegi Don't do it, it stinks.","Tamanegi No lo hagas, apesta."
-"Seyadatara (talking)","はいです。","Yes.","Sí."
-"Kohara Koharu (talking)","………………","………………","………………"
-"Seyadatara (talking)","こんにちわ。","Hello.","Hola."
-"Kohara Koharu (talking)","若旦那、これは大きすぎます。 カウンターにも厨房にも入れる事が 出来ません。","Young master, this is too big. We can't put it on the counter or in the kitchen.","Joven maestro, esto es demasiado grande. No podemos ponerlo en el mostrador o en la cocina."
-"Yamamoto Akuji (talking)","そっか。 じゃあやめとくよ。","I see. I'll pass then.","Ya veo. Entonces paso."
-"Kohara Koharu (talking)","次はよい子を紹介して下さいませね。","Please introduce us to a good girl next time.","Por favor, introduzca un buen niño la próxima vez."
-"Seyadatara (talking)","ワタシ、よい子ではないですか？ かじられますか？","Am I not a good boy? Do you want to be nibbled?","¿No soy un buen chico? ¿Te gustaría que te mordisquearan?"
-"Yamamoto Akuji (talking)","あー平気平気。 ただ、横のサイズがでけーだけだ。","Oh, I'm fine, I'm fine. It's just the horizontal size is too big.","Oh, está bien, está bien. Es que el tamaño horizontal es demasiado grande."
-"Seyadatara (talking)","でかいですか…","Is it big…","Es grande…"
-"Yamamoto Akuji (talking)","んっぁ~~ちょ~どええ。 いい塩梅の温度だぜ、このほうじ茶。 うめぇな、さっちゃん。","Mmmm~~ this is good. This hojicha is the perfect temperature. It's soooo good, Sacchan.","Mmmm~choo~doe. Buena temperatura, esta hojicha. Es delicioso, Sacchan."
-"Takega Satsu (talking)","うむ。 ところで悪司、お前が買ってくると 言っていた饅頭はどこだ？","Mm-hmm. By the way, Akuji, where are those buns you said you were going to buy?","Mm. Por cierto Akuji, ¿dónde están esos bollos que dijiste que ibas a comprar?"
-"Yamamoto Akuji (talking)","……………","……………","……………"
-"Takega Satsu (talking)","………………","………………","………………"
-"Yamamoto Akuji (talking)","俺、んな事、言ったっけ？","Did I say that?","¿He dicho eso?"
-"Takega Satsu (talking)","最悪だな。","Worst.","Lo peor."
-"narrator","と、その時……
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+Yamamoto Akuji (talking),さて、セヤダタラ。,"Now, Seyadatara.","Ahora, Seyadatara."
+Seyadatara (talking),はい。,Yes.,Sí.
+Yamamoto Akuji (talking),精液を入れてやるぞ。,I'm going to put semen in you.,Voy a ponerte semen.
+Seyadatara (talking),ありがとうございます。 新鮮なのをたくさん下さい。,Thank you. Please give me lots of fresh ones.,"Gracias. Por favor, dame muchas frescas."
+Yamamoto Akuji (talking),おう、任せとけ。,"Oh, leave it to me.","Oh, déjamelo a mí."
+Yamamoto Akuji (talking),悪司は、セヤダタラに精液を注入した。,Akuji injected semen into Seyadatara.,Akuji inyectó semen en Seyadatara.
+Yamamoto Akuji (talking),うーし。 こんなもんか。,Woohoo. So this is not what it looks like.,Woohoo. Esto no es lo que parece.
+Seyadatara (talking),はい。 ありがとうございました。,"Yes, I would like to know if you have any questions. Thank you very much.","Sí, me gustaría agradecerle su ayuda. Muchas gracias."
+Yamamoto Akuji (talking),セヤダタラ、小遣いやるから、 これで遊んでこいや。,"Seyadatara, I'll give you some money.","Seyadatara, te daré algo de dinero, ve a jugar con esto."
+Seyadatara (talking),せーえきじゃないです。,It's not a seizei.,No es una incautación.
+Yamamoto Akuji (talking),まーそーだがよぉ…,"Yeah, but…","Bueno, sí, pero…"
+Seyadatara (talking),せーえき下さい。,Please se-eek.,"Por favor, se-eek."
+Yamamoto Akuji (talking),……また今度な。,I'll see you at…… another time.,…… Hasta la próxima.
+Seyadatara (talking),これ、お返しします。 はい。,"I will return this to you. Yes, I will.","Toma, te devuelvo esto. Sí."
+Yamamoto Akuji (talking),なんとまあ、律義な。 あんがとさんよ。,"How well, how law-abiding. Thank you very much.",Que bien disciplinado. Gracias a ti.
+Seyadatara (talking),はいです。,Yes.,Sí.
+Tamanegi (talking),…………,…………,…………
+Seyadatara (talking),手のそれ、なんですか？ 美味しいですか？ かじっていいですか？,What is that on your hand? Is it good? Can I nibble on it?,¿Qué tienes en la mano? ¿Es sabroso? ¿Puedo mordisquearlo?
+Tamanegi (talking),若。,Young.,Joven.
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+Tamanegi (talking),これはドグウ戦士ですね。 娼婦にするのはもったいないですよ。 戦士として使った方がよいです。,This is a Dogu warrior. It is a waste to use it as a prostitute. It is better to use it as a warrior.,Este es un guerrero Dogu. Es un desperdicio utilizarla como prostituta. Es mejor usarlo como guerrero.
+Yamamoto Akuji (talking),そっか。 じゃあ、キャンセルだ。,"I see. Well, cancel it.","Ya veo. Pues entonces, cancélalo."
+Tamanegi (talking),はい、それでは…,"Yes, then…","Sí, entonces…"
+Seyadatara (talking),今の人、美味しいですか？ かじってもいいですか？,"Now who, is it good? Can I have a nibble?","¿Ahora quién, es sabroso? ¿Puedo tomar un bocado?"
+Yamamoto Akuji (talking),タマネギ臭くなるからやめとけ。,"Tamanegi Don't do it, it stinks.","Tamanegi No lo hagas, apesta."
+Seyadatara (talking),はいです。,Yes.,Sí.
+Kohara Koharu (talking),………………,………………,………………
+Seyadatara (talking),こんにちわ。,Hello.,Hola.
+Kohara Koharu (talking),若旦那、これは大きすぎます。 カウンターにも厨房にも入れる事が 出来ません。,"Young master, this is too big. We can't put it on the counter or in the kitchen.","Joven maestro, esto es demasiado grande. No podemos ponerlo en el mostrador o en la cocina."
+Yamamoto Akuji (talking),そっか。 じゃあやめとくよ。,I see. I'll pass then.,Ya veo. Entonces paso.
+Kohara Koharu (talking),次はよい子を紹介して下さいませね。,Please introduce us to a good girl next time.,"Por favor, introduzca un buen niño la próxima vez."
+Seyadatara (talking),ワタシ、よい子ではないですか？ かじられますか？,Am I not a good boy? Do you want to be nibbled?,¿No soy un buen chico? ¿Te gustaría que te mordisquearan?
+Yamamoto Akuji (talking),あー平気平気。 ただ、横のサイズがでけーだけだ。,"Oh, I'm fine, I'm fine. It's just the horizontal size is too big.","Oh, está bien, está bien. Es que el tamaño horizontal es demasiado grande."
+Seyadatara (talking),でかいですか…,Is it big…,Es grande…
+Yamamoto Akuji (talking),んっぁ~~ちょ~どええ。 いい塩梅の温度だぜ、このほうじ茶。 うめぇな、さっちゃん。,"Mmmm~~ this is good. This hojicha is the perfect temperature. It's soooo good, Sacchan.","Mmmm~choo~doe. Buena temperatura, esta hojicha. Es delicioso, Sacchan."
+Takega Satsu (talking),うむ。 ところで悪司、お前が買ってくると 言っていた饅頭はどこだ？,"Mm-hmm. By the way, Akuji, where are those buns you said you were going to buy?","Mm. Por cierto Akuji, ¿dónde están esos bollos que dijiste que ibas a comprar?"
+Yamamoto Akuji (talking),……………,……………,……………
+Takega Satsu (talking),………………,………………,………………
+Yamamoto Akuji (talking),俺、んな事、言ったっけ？,Did I say that?,¿He dicho eso?
+Takega Satsu (talking),最悪だな。,Worst.,Lo peor.
+narrator,"と、その時……
  　　［どっかーーーーーーーーーーーーん］","And then ……
  　　［Dokkaaaaaaaaaaaaan]","Y luego ……
  　　[¡Dokkaaaaaaaaaaaaan]"
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"Takega Satsu (talking)","なんだ？ 今の音……は……？","What's that? Now that sound…… is ……?","¿Qué es? Ahora ese sonido…… es ……?"
-"narrator","音の後に続き、事務所がぐらぐらと揺れた。","Following the sound, the office shook unsteadily.","Al sonido le siguió un temblor inestable en la oficina."
-"Yamamoto Akuji (talking)","地震？","Earthquake?","¿Terremoto?"
-"Takega Satsu (talking)","いや…この感じは違うぞ。 戦時中に何度かあった…","No… this feeling is different. There were a few times during the war…","No… este sentimiento es diferente. Hubo algunos momentos durante la guerra en los que…"
-"Yamamoto Akuji (talking)","爆弾か！？ どうして……","The bomb Dan? Why ……","¿La bomba Dan? Por qué ……"
-"narrator","そこにいた者は揃って音のした方を 窓から見てみた。
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+Takega Satsu (talking),なんだ？ 今の音……は……？,What's that? Now that sound…… is ……?,¿Qué es? Ahora ese sonido…… es ……?
+narrator,音の後に続き、事務所がぐらぐらと揺れた。,"Following the sound, the office shook unsteadily.",Al sonido le siguió un temblor inestable en la oficina.
+Yamamoto Akuji (talking),地震？,Earthquake?,¿Terremoto?
+Takega Satsu (talking),いや…この感じは違うぞ。 戦時中に何度かあった…,No… this feeling is different. There were a few times during the war…,No… este sentimiento es diferente. Hubo algunos momentos durante la guerra en los que…
+Yamamoto Akuji (talking),爆弾か！？ どうして……,The bomb Dan? Why ……,¿La bomba Dan? Por qué ……
+narrator,"そこにいた者は揃って音のした方を 窓から見てみた。
 そこからは細く黒い煙が空に向かって 伸びている。","Everyone there looked out the window toward the direction of the sound.
 From there, a thin black plume of smoke was rising into the sky.","Todos los presentes miraron por la ventana hacia la dirección del sonido.
 Desde allí, una fina y negra columna de humo se elevaba hacia el cielo."
-"Yamamoto Akuji (talking)","コウベ…いや、シンコウベか。","Koubé…or shinkoubé.","Koubé… o Sinkoubé."
-"Takega Satsu (talking)","そうだな……","Yes……","Sí……"
-"Seinendan Jyoshi (talking)","不発弾が爆発したそーですー。 凄い音ですねー、びっくりしたー。","An unexploded Dan has exploded. That's a great sound, I was so surprised.","¡El Dan sin explotar ha explotado! Ese es un gran sonido - me sorprendió mucho."
-"Yamamoto Akuji (talking)","不発弾だったのか。","Was it a dud Dan?","¿Fue un fracaso Dan?"
-"Seinendan Jyoshi (talking)","はい、そーらしいです。 この分だと、シンコウベ、 大混乱してるでしょうねー。","Yes, it seems so. At this rate, Shinkoubeh must be in turmoil.","Sí, eso parece. A este paso, Shinkoubeh, se producirá el caos."
-"Yamamoto Akuji (talking)","そうだな……","Yes……","Sí……"
-"narrator","悪司達、奉仕青年団の面々は、 工事現場に来た。","Akuji and the other members of the Youth Service Corps came to the construction site.","Akuji y otros miembros del Service Youth Corps acudieron a la obra."
-"Yamamoto Akuji (talking)","どこだって？","Where?","Dónde."
-"Seinendan Jyoshi (talking)","あれです、悪司さん。","That's it, Akuji.","Ese es, Akuji."
-"narrator","彼女が指さした方に、どでかい爆弾が 地面から顔を出していた。","In the direction she pointed, a huge bomb Dan was peeking out from the ground.","En la dirección que señaló, una enorme bomba Dan emergía del suelo."
-"Yamamoto Akuji (talking)","１トン爆弾か……また、凶悪な物を……
+Yamamoto Akuji (talking),コウベ…いや、シンコウベか。,Koubé…or shinkoubé.,Koubé… o Sinkoubé.
+Takega Satsu (talking),そうだな……,Yes……,Sí……
+Seinendan Jyoshi (talking),不発弾が爆発したそーですー。 凄い音ですねー、びっくりしたー。,"An unexploded Dan has exploded. That's a great sound, I was so surprised.",¡El Dan sin explotar ha explotado! Ese es un gran sonido - me sorprendió mucho.
+Yamamoto Akuji (talking),不発弾だったのか。,Was it a dud Dan?,¿Fue un fracaso Dan?
+Seinendan Jyoshi (talking),はい、そーらしいです。 この分だと、シンコウベ、 大混乱してるでしょうねー。,"Yes, it seems so. At this rate, Shinkoubeh must be in turmoil.","Sí, eso parece. A este paso, Shinkoubeh, se producirá el caos."
+Yamamoto Akuji (talking),そうだな……,Yes……,Sí……
+narrator,悪司達、奉仕青年団の面々は、 工事現場に来た。,Akuji and the other members of the Youth Service Corps came to the construction site.,Akuji y otros miembros del Service Youth Corps acudieron a la obra.
+Yamamoto Akuji (talking),どこだって？,Where?,Dónde.
+Seinendan Jyoshi (talking),あれです、悪司さん。,"That's it, Akuji.","Ese es, Akuji."
+narrator,彼女が指さした方に、どでかい爆弾が 地面から顔を出していた。,"In the direction she pointed, a huge bomb Dan was peeking out from the ground.","En la dirección que señaló, una enorme bomba Dan emergía del suelo."
+Yamamoto Akuji (talking),"１トン爆弾か……また、凶悪な物を……
 んまぁ、しゃーない。 処理すっか。","One-ton bomb Dan or…… another heinous ……
 Oh well, what the heck. Let's deal with it.","Una bomba de una tonelada Dan o…… otra atroz……
 Oh, bueno, eso es un alivio. Vamos a tratar con él."
-"Seinendan Jyoshi (talking)","政府の爆弾処理班の方を呼びますか？","Would you like to call the government's bomb Dan disposal team?","¿Quiere llamar al equipo de desactivación de bombas del gobierno?"
-"Yamamoto Akuji (talking)","いや、それじゃー時間も金もかかる。
+Seinendan Jyoshi (talking),政府の爆弾処理班の方を呼びますか？,Would you like to call the government's bomb Dan disposal team?,¿Quiere llamar al equipo de desactivación de bombas del gobierno?
+Yamamoto Akuji (talking),"いや、それじゃー時間も金もかかる。
 付近の住民を避難させろ。","No, that would take time and money.
 Evacuate the nearby residents.","No, eso llevaría tiempo y dinero.
 Evacuar a la población cercana."
-"Seinendan Jyoshi (talking)","へっ……
+Seinendan Jyoshi (talking),"へっ……
 ま、まま、まさか……","Heh, ……
 Ma, ma, no way ……","Heh……
 Ma, ma, de ninguna manera……"
-"Yamamoto Akuji (talking)","爆弾だからな。 爆発したらなくなるだろ。","It's an explosion Dan. If it explodes, it'll be gone.","Es una explosión Dan. Si explota, desaparecerá."
-"Seinendan Jyoshi (talking)","なな、な、ななんてらんぼーな~…","Na, na, na, na rambo na~…","Nah, nah, nah, nah, nah, nah, nah, nah, nah, rambo nah…"
-"Yamamoto Akuji (talking)","さっさと避難させる。","Evacuate them quickly.","Evacuar rápidamente."
-"Seinendan Jyoshi (talking)","は、はい…","Ha, yes…","Ja, sí…"
-"narrator","　　［どっかーーーーーーーーーーーん］
+Yamamoto Akuji (talking),爆弾だからな。 爆発したらなくなるだろ。,"It's an explosion Dan. If it explodes, it'll be gone.","Es una explosión Dan. Si explota, desaparecerá."
+Seinendan Jyoshi (talking),なな、な、ななんてらんぼーな~…,"Na, na, na, na rambo na~…","Nah, nah, nah, nah, nah, nah, nah, nah, nah, rambo nah…"
+Yamamoto Akuji (talking),さっさと避難させる。,Evacuate them quickly.,Evacuar rápidamente.
+Seinendan Jyoshi (talking),は、はい…,"Ha, yes…","Ja, sí…"
+narrator,"　　［どっかーーーーーーーーーーーん］
 爆弾は地面を、空気を震わせ、大爆発した。","[Dokkaaaaaaaaaaaan]
 The explosion Dan shook the ground, the air, and exploded in a huge explosion.","[Dokkaaaaaaaaaaaan]
 La explosión Dan sacudió el suelo, el aire y estalló en una enorme explosión."
-"Yamamoto Akuji (talking)","こりゃまた派手に爆発したな。","This was another loud explosion.","Esta fue otra fuerte explosión."
-"narrator","悪司は、爆弾を爆発させた その現場に戻ってきた。 もうもうと煙がたちのぼっている。","Akuji returned to the site where he detonated the bomb Dan. Smoke was billowing up.","Akuji volvió al lugar donde detonó la bomba Dan. El humo se eleva."
-"Yamamoto Akuji (talking)","で、被害状況は？","So, what's the damage?","¿Y cuál es el daño?"
-"Seinendan Jyoshi (talking)","あ、はい。
+Yamamoto Akuji (talking),こりゃまた派手に爆発したな。,This was another loud explosion.,Esta fue otra fuerte explosión.
+narrator,悪司は、爆弾を爆発させた その現場に戻ってきた。 もうもうと煙がたちのぼっている。,Akuji returned to the site where he detonated the bomb Dan. Smoke was billowing up.,Akuji volvió al lugar donde detonó la bomba Dan. El humo se eleva.
+Yamamoto Akuji (talking),で、被害状況は？,"So, what's the damage?",¿Y cuál es el daño?
+Seinendan Jyoshi (talking),"あ、はい。
 住民の避難が終了してからの 爆発だったので、人間には 被害はないです。
 猫が数匹死んでしまったみたいです。","Ah, yes.
 The explosion occurred after the residents had been evacuated, so there was no damage to humans.
 It seems that a few cats died.","Ah, sí.
 La explosión se produjo después de que los residentes habían sido evacuados Ryou, por lo que no hubo daños a los seres humanos.
 Parece que han muerto algunos gatos."
-"__system__??","{★愛 = 1:","",""
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","ふーん……","Hmmm ……","Hmmm ……"
-"narrator","悪司は何かを見つけた。","Akuji found something.","Akuji encontró algo."
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Seinendan Jyoshi (talking)","はい？","Yes?","¿Sí?"
-"Yamamoto Akuji (talking)","この辺り、まだ封鎖しとけ。 なんか見つけた。","You should still seal off this area. I found something.","Aún así, deberías sellar esta zona. He encontrado algo."
-"Seinendan Jyoshi (talking)","えっ……","Eh ……","Eh ……"
-"Yamamoto Akuji (talking)","俺が調べてくっから、 誰も近寄るなって言っとけよ。","I'll go check it out. Tell them to stay away from me.","Lo comprobaré, y les diré que nadie se acerque a él."
-"Seinendan Jyoshi (talking)","は、はい、わかりました。 お気をつけてー。","Yes, yes, I understand. Take care.","Ja, sí, lo entiendo. Tengan cuidado."
-"narrator","悪司は彼女にそう言うと、爆弾が開けた 大穴の底へ、踵を駆使し器用に滑り落ちた。","Akuji said to her, and slid down dexterously with his heels to the bottom of the big hole opened by the bomb Dan.","Akuji se lo dijo y se deslizó hábilmente con los talones hasta el fondo del gran agujero que la bomba Dan había abierto."
-"Yamamoto Akuji (talking)","ん~~……なんだこりゃ。","Hmmm~~…… what's this?","Hmmm~~…… ¿qué es esto?"
-"cg narrator","それは生きたままそこに眠らされているかのような、 人の形をしたものだった。
+__system__??,{★愛 = 1:,,
+__system__??,},,
+Yamamoto Akuji (talking),ふーん……,Hmmm ……,Hmmm ……
+narrator,悪司は何かを見つけた。,Akuji found something.,Akuji encontró algo.
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Seinendan Jyoshi (talking),はい？,Yes?,¿Sí?
+Yamamoto Akuji (talking),この辺り、まだ封鎖しとけ。 なんか見つけた。,You should still seal off this area. I found something.,"Aún así, deberías sellar esta zona. He encontrado algo."
+Seinendan Jyoshi (talking),えっ……,Eh ……,Eh ……
+Yamamoto Akuji (talking),俺が調べてくっから、 誰も近寄るなって言っとけよ。,I'll go check it out. Tell them to stay away from me.,"Lo comprobaré, y les diré que nadie se acerque a él."
+Seinendan Jyoshi (talking),は、はい、わかりました。 お気をつけてー。,"Yes, yes, I understand. Take care.","Ja, sí, lo entiendo. Tengan cuidado."
+narrator,悪司は彼女にそう言うと、爆弾が開けた 大穴の底へ、踵を駆使し器用に滑り落ちた。,"Akuji said to her, and slid down dexterously with his heels to the bottom of the big hole opened by the bomb Dan.",Akuji se lo dijo y se deslizó hábilmente con los talones hasta el fondo del gran agujero que la bomba Dan había abierto.
+Yamamoto Akuji (talking),ん~~……なんだこりゃ。,Hmmm~~…… what's this?,Hmmm~~…… ¿qué es esto?
+cg narrator,"それは生きたままそこに眠らされているかのような、 人の形をしたものだった。
 「人……？ 　それとも、何か別……の………」
 「おおっ？」
 なんと、悪司の意志に関らず、 股間が大きくなってしまった。
@@ -452,7 +452,7 @@ Finalmente, el sonido del agua comenzó a hacer eco. Akuji miró sus dedos húme
 「Nnn~~~……」
 Akuji gimió por un tiempo antes.
 「Eso no es todo……」"
-"cg narrator","と、ズボンに手をかけた。
+cg narrator,"と、ズボンに手をかけた。
 「よーいこらーせっとぉ！」
 悪司はそこに自分のものを差し入れた。 動かない人型の中は、生きている人間のものと 同じ弾力で同じ熱さを持っていた。
 「ふーん……一体、なんなのかねー…」
@@ -516,7 +516,7 @@ Akuji eyaculó y tomó un respiro, y el humanoide liberó a Akuji.
 　　［Shiyuhuu………n……］
 Un sonido como el aire salía del humanoide.
 「O~！？」"
-"cg narrator","人型の耳当たりについてる円盤から三角錐の 突起が伸びだし、そして、閉じられたていた 瞼が開いた。
+cg narrator,"人型の耳当たりについてる円盤から三角錐の 突起が伸びだし、そして、閉じられたていた 瞼が開いた。
  「な、なんじゃ、こりゃあ！？」
  「……………………」
 人型の目が、ゆっくりと悪司を見る。
@@ -541,19 +541,19 @@ Los ojos del humanoide miran lentamente a Akuji.
  '………… cubierto de suciedad…….'
  'Bien. 　Te enterraron en la tierra.
  ………………”"
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"Seyadatara (talking)","…………
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+Seyadatara (talking),"…………
 こんにちわ。","…………
 Hello.","…………
 Hola."
-"Yamamoto Akuji (talking)","お、おう……","Oh, oh ……","Oh, oh ……"
-"Seyadatara (talking)","ここは…どこですか？","Where… is this place?","¿Dónde está… aquí?"
-"Yamamoto Akuji (talking)","ニホン……オオサカだけど。 あんたは？","I'm in NIHON……Osaka. You?","NIHON……Osaka, pero. ¿Y tú?"
-"Seyadatara (talking)","ワタシは、セヤダタラと言います。 ドグウ戦士です。 よろしくお願いします。","My name is Seyadatara. I am a Dogu warrior. Please give me your best regards.","Mi nombre es Seyadatara. Soy un guerrero Dogu. Encantado de conocerte."
-"narrator","セヤダタラは、特徴のある高い声でそう言って、 ぺこりと頭を下げた。","Seyadatara said in his characteristic high voice and bowed his head.","Seyadatara dijo esto con su característica voz aguda e inclinó la cabeza rotundamente."
-"Yamamoto Akuji (talking)","俺は山本悪司。 で…あんた、ここで何してた？","I'm Yamamoto Akuji. So… what are you doing here?","Soy Yamamoto Akuji. Entonces… ¿qué haces aquí?"
-"Seyadatara (talking)","………………
+Yamamoto Akuji (talking),お、おう……,"Oh, oh ……","Oh, oh ……"
+Seyadatara (talking),ここは…どこですか？,Where… is this place?,¿Dónde está… aquí?
+Yamamoto Akuji (talking),ニホン……オオサカだけど。 あんたは？,I'm in NIHON……Osaka. You?,"NIHON……Osaka, pero. ¿Y tú?"
+Seyadatara (talking),ワタシは、セヤダタラと言います。 ドグウ戦士です。 よろしくお願いします。,My name is Seyadatara. I am a Dogu warrior. Please give me your best regards.,Mi nombre es Seyadatara. Soy un guerrero Dogu. Encantado de conocerte.
+narrator,セヤダタラは、特徴のある高い声でそう言って、 ぺこりと頭を下げた。,Seyadatara said in his characteristic high voice and bowed his head.,Seyadatara dijo esto con su característica voz aguda e inclinó la cabeza rotundamente.
+Yamamoto Akuji (talking),俺は山本悪司。 で…あんた、ここで何してた？,I'm Yamamoto Akuji. So… what are you doing here?,Soy Yamamoto Akuji. Entonces… ¿qué haces aquí?
+Seyadatara (talking),"………………
  …………？
  ………………
 封印……","………………
@@ -563,43 +563,43 @@ Seal ……","………………
  …………?
  ………………
 Sello ……"
-"Yamamoto Akuji (talking)","封印？","Sealed?","¿Sellado?"
-"Seyadatara (talking)","…………多分。","………… more points.","…………+puntos."
-"Yamamoto Akuji (talking)","なんじゃ、そりゃ。","What's that?","¿Qué es eso?"
-"Seyadatara (talking)","ワタシ、怖いものと思われていたので、 封印されていました。
+Yamamoto Akuji (talking),封印？,Sealed?,¿Sellado?
+Seyadatara (talking),…………多分。,………… more points.,…………+puntos.
+Yamamoto Akuji (talking),なんじゃ、そりゃ。,What's that?,¿Qué es eso?
+Seyadatara (talking),"ワタシ、怖いものと思われていたので、 封印されていました。
 でも、あなたがせーえきをくれたので、 動けるようになりました。 ありがとうございます。","I was considered scary, so I was sealed up.
 But now that you gave me a se-eki, I can move. Thank you very much.","Me sellaron porque la gente pensaba que daba miedo.
 Pero me diste un se-eki, así que ahora puedo moverme. Muchas gracias."
-"Yamamoto Akuji (talking)","せーえき……？","See ……?","¿Ves ……?"
-"Seyadatara (talking)","せーえき。","Sei-Sei-Kei.","Seisui."
-"Yamamoto Akuji (talking)","それって…精液の事か？ こっから、ぴゅっと出る。","Is that… semen? It comes out from the koko, with a pizzle.","¿Es eso… semen? Sale del hueso en forma de pizzeta."
-"Seyadatara (talking)","そです。 せーえきがないと、 ドグウ戦士は動けないのです。
+Yamamoto Akuji (talking),せーえき……？,See ……?,¿Ves ……?
+Seyadatara (talking),せーえき。,Sei-Sei-Kei.,Seisui.
+Yamamoto Akuji (talking),それって…精液の事か？ こっから、ぴゅっと出る。,"Is that… semen? It comes out from the koko, with a pizzle.",¿Es eso… semen? Sale del hueso en forma de pizzeta.
+Seyadatara (talking),"そです。 せーえきがないと、 ドグウ戦士は動けないのです。
 出来るだけ活きのよいのがいいです。 出したてのほかほかのがいいです。 透明のでは意味ないです。死んでます。","That's right. Without oxygen, the Dogu Warrior cannot move.
 The best one is the one that is as fresh as possible. Freshly cooked, freshly cooked is good. Transparent ones are useless. It's dead.","Sí. Sin la ayuda, el Guerrero Dogu no puede moverse.
 Los mejores son los más frescos posibles. Recién cocinado, recién cocido es bueno. Los transparentes son inútiles. Están muertos"
-"Yamamoto Akuji (talking)","出したてのほっかほかって…","Freshly served hot…","Recién servido en caliente…"
-"Seyadatara (talking)","これで、戦う事も出来そうです。","Now it looks like we can fight.","Ahora parece que podemos luchar."
-"Yamamoto Akuji (talking)","戦う…","Fighting…","Luchando…"
-"Seyadatara (talking)","はい、ドグウ戦士なので。
+Yamamoto Akuji (talking),出したてのほっかほかって…,Freshly served hot…,Recién servido en caliente…
+Seyadatara (talking),これで、戦う事も出来そうです。,Now it looks like we can fight.,Ahora parece que podemos luchar.
+Yamamoto Akuji (talking),戦う…,Fighting…,Luchando…
+Seyadatara (talking),"はい、ドグウ戦士なので。
 でも、ぴんちです。","Yes, I'm a Dogu warrior.
 But I'm a pinto.","Sí, porque soy un guerrero Dogu.
 Pero soy un pinto."
-"Yamamoto Akuji (talking)","何が？ エネルギーチャージしてやったじゃ ねぇか。","What? I gave you a charge of energy.","¿Qué? Te he dado una carga de energía."
-"Seyadatara (talking)","ワタシ、神様からせーえき 頂いていました。 悪司の、薄いです。","I was given this by God. It's thin.","Watashi, Dios me dio un seisuke. Akuji, delgado."
-"Yamamoto Akuji (talking)","へ？？","Huh?","¿Eh?"
-"Seyadatara (talking)","でも動けます。 でもでも、このままでは一度戦えば、 なくなってしまいます。
+Yamamoto Akuji (talking),何が？ エネルギーチャージしてやったじゃ ねぇか。,What? I gave you a charge of energy.,¿Qué? Te he dado una carga de energía.
+Seyadatara (talking),ワタシ、神様からせーえき 頂いていました。 悪司の、薄いです。,I was given this by God. It's thin.,"Watashi, Dios me dio un seisuke. Akuji, delgado."
+Yamamoto Akuji (talking),へ？？,Huh?,¿Eh?
+Seyadatara (talking),"でも動けます。 でもでも、このままでは一度戦えば、 なくなってしまいます。
 一度戦うごとに、せーえき入れて下さい。","But I can move. But if I don't, I'll lose it after one fight.
 Please put in a se-eki for each fight.","Pero podemos movernos. Pero si no lo hago, lo perderé después de una pelea.
 Cada vez que luchas una vez, tienes que poner un se-eek."
-"Yamamoto Akuji (talking)","じゃあそれで、俺の部下になるかい？","So, you want to be my man?","¿Entonces quieres ser mi hombre?"
-"Seyadatara (talking)","部下とは美味しいものですか？ かじっていいですか？","Is it delicious with my men? Can I nibble on them?","¿Es una buena comida con mis hombres? ¿Puedo mordisquearlos?"
-"Yamamoto Akuji (talking)","齧るモンじゃねぇ。 俺の手下になって戦えるかって 言ってるんだ。","I'm not taking a bite. I'm saying, can you fight for me?","No es una cosa de roer. Estoy diciendo, ¿puedes luchar por mí?"
-"Seyadatara (talking)","はい、いいですよ。 ですからせーえきを下さい。","Yes, that's fine. So please give me a se-eek.","Sí, está bien. Así que, por favor, dame un se-eek."
-"Yamamoto Akuji (talking)","そっか、わかったわかった。 じゃあ、事務所に行こうな。","I see. Okay, okay, okay. Let's go to the office, then.","Ya veo, muy bien, muy bien. Vamos a la oficina, entonces."
-"Seyadatara (talking)","事務所？ それ、美味しいですか？ かじっていいですか？","Office? Is that good? Can I nibble on it?","¿Oficina? ¿Es eso bueno? ¿Puedo tomar un bocado?"
-"Yamamoto Akuji (talking)","だめ。","No.","No, no."
-"narrator","セヤダタラが一人、事務所の屋根の上で 三角座りをして、空を見ていた。","Seyadatara was alone on the roof of his office, sitting triangularly and looking at the sky.","Un Seyadatara estaba sentado de forma triangular en el techo de su oficina, mirando al cielo."
-"Seyadatara (talking)","オオサカは楽しいです。 美味しいです、でも、かじっては駄目な ものがたくさんあります。
+Yamamoto Akuji (talking),じゃあそれで、俺の部下になるかい？,"So, you want to be my man?",¿Entonces quieres ser mi hombre?
+Seyadatara (talking),部下とは美味しいものですか？ かじっていいですか？,Is it delicious with my men? Can I nibble on them?,¿Es una buena comida con mis hombres? ¿Puedo mordisquearlos?
+Yamamoto Akuji (talking),齧るモンじゃねぇ。 俺の手下になって戦えるかって 言ってるんだ。,"I'm not taking a bite. I'm saying, can you fight for me?","No es una cosa de roer. Estoy diciendo, ¿puedes luchar por mí?"
+Seyadatara (talking),はい、いいですよ。 ですからせーえきを下さい。,"Yes, that's fine. So please give me a se-eek.","Sí, está bien. Así que, por favor, dame un se-eek."
+Yamamoto Akuji (talking),そっか、わかったわかった。 じゃあ、事務所に行こうな。,"I see. Okay, okay, okay. Let's go to the office, then.","Ya veo, muy bien, muy bien. Vamos a la oficina, entonces."
+Seyadatara (talking),事務所？ それ、美味しいですか？ かじっていいですか？,Office? Is that good? Can I nibble on it?,¿Oficina? ¿Es eso bueno? ¿Puedo tomar un bocado?
+Yamamoto Akuji (talking),だめ。,No.,"No, no."
+narrator,セヤダタラが一人、事務所の屋根の上で 三角座りをして、空を見ていた。,"Seyadatara was alone on the roof of his office, sitting triangularly and looking at the sky.","Un Seyadatara estaba sentado de forma triangular en el techo de su oficina, mirando al cielo."
+Seyadatara (talking),"オオサカは楽しいです。 美味しいです、でも、かじっては駄目な ものがたくさんあります。
 ワタシ、このままずっと ここにいたいです。
 でも、もうすぐせーえき切れそうです。 ぴんちです。
 どうしたらいいんでしょう。 困りました。 とても、困りました。
@@ -612,21 +612,21 @@ Quiero quedarme aquí para siempre.
 Pero estoy a punto de quedarme sin hielo. Soy un pellizco.
  ¿Qué debo hacer? Estoy en problemas. Estoy muy, muy preocupado.
  …………La luna es un borrón en el cielo de Osakan……"
-"narrator","セヤダタラが一人、事務所の屋根の上で 三角座りをして、空を見ていた。","Seyadatara was alone on the roof of his office, sitting triangularly and looking at the sky.","Un Seyadatara estaba sentado de forma triangular en el techo de su oficina, mirando al cielo."
-"Seyadatara (talking)","さようならです。 もっと色々見たかったです。 かじりたかったです。
+narrator,セヤダタラが一人、事務所の屋根の上で 三角座りをして、空を見ていた。,"Seyadatara was alone on the roof of his office, sitting triangularly and looking at the sky.","Un Seyadatara estaba sentado de forma triangular en el techo de su oficina, mirando al cielo."
+Seyadatara (talking),"さようならです。 もっと色々見たかったです。 かじりたかったです。
 でも……
  ………だ……め…… 　　　　　　　　　で…………","Goodbye. I wanted to see more things. I wanted to nibble.
 But ……
 It's ………, it's ……, it's ……, it's ……, it's…… ……","Adiós. Quería ver más cosas. Quería picar.
 Pero ……
 Es ………, es ……, es ……, es ……, es…… ……"
-"narrator","セヤダタラは、エネルギーが切れてしまった為、 そのままそこで動かなくなってしまった。
+narrator,"セヤダタラは、エネルギーが切れてしまった為、 そのままそこで動かなくなってしまった。
 そこに被さる、ひとつの影……","The Seyadatara has run out of energy and is stuck there.
 A shadow covers it……","El Seyadatara se ha quedado sin energía y está atascado allí.
 Una sombra lo cubre……"
-"Yamamoto Ippatsu (talking)","哀れなドグウ戦士よ。 このワシの力で、蘇るといい。 未練ばかり残してはつらかろう。","Poor Dogu warrior. Revive yourself with the power of this eagle. It would be hard to leave behind so many regrets.","Pobre guerrero Dogu. Por el poder de esta águila, puedes revivir. Sería difícil dejar atrás tantos remordimientos."
-"narrator","動かなくなったセヤダタラの躰に、 怒張した下半身の影が重なった。","The shadow of an angry lower body overlapped with the body of Seyadatara, which had stopped moving.","La sombra de un cuerpo inferior enfadado se superpuso al cuerpo de Seyadatara, que había dejado de moverse."
-"Seyadatara (talking)","……………
+Yamamoto Ippatsu (talking),哀れなドグウ戦士よ。 このワシの力で、蘇るといい。 未練ばかり残してはつらかろう。,Poor Dogu warrior. Revive yourself with the power of this eagle. It would be hard to leave behind so many regrets.,"Pobre guerrero Dogu. Por el poder de esta águila, puedes revivir. Sería difícil dejar atrás tantos remordimientos."
+narrator,動かなくなったセヤダタラの躰に、 怒張した下半身の影が重なった。,"The shadow of an angry lower body overlapped with the body of Seyadatara, which had stopped moving.","La sombra de un cuerpo inferior enfadado se superpuso al cuerpo de Seyadatara, que había dejado de moverse."
+Seyadatara (talking),"……………
  ……………………
  …………………………
 あれ？","……………
@@ -636,27 +636,27 @@ Aare?","……………
  ……………………
  …………………………
  ¿aare?"
-" (talking)","気がついたようじゃな。","You've noticed.","Te has dado cuenta."
-"Seyadatara (talking)","ラツノミコ……様？","Dear Ratnomiko ……?","Estimado Ratnomiko ……?"
-"Yamamoto Ippatsu (talking)","それは、おぬしを作った者か。 ワシは、山本一発。 悪司の祖父じゃ。","Is that who made you? I am Yamamoto Ippatsu. I am the grandfather of Akuji.","¿Es eso lo que te hizo? Soy Yamamoto Ippatsu. Soy el abuelo de Akuji."
-"Seyadatara (talking)","……………
+ (talking),気がついたようじゃな。,You've noticed.,Te has dado cuenta.
+Seyadatara (talking),ラツノミコ……様？,Dear Ratnomiko ……?,Estimado Ratnomiko ……?
+Yamamoto Ippatsu (talking),それは、おぬしを作った者か。 ワシは、山本一発。 悪司の祖父じゃ。,Is that who made you? I am Yamamoto Ippatsu. I am the grandfather of Akuji.,¿Es eso lo que te hizo? Soy Yamamoto Ippatsu. Soy el abuelo de Akuji.
+Seyadatara (talking),"……………
 でも、このせーえきは、ラツノミコ様の ようにたっぷりで真っ白で濃くて、 とても動けます、すごいです。","……………
 But this seisuke is so thick with plenty of Haku like Ratunomiko-sama, and it moves so much, it's amazing.","……………
 Pero este se-hielo es tan espeso y puro Haku como Ratunomiko-sama, y puede moverse tanto, es increíble."
-"Yamamoto Ippatsu (talking)","ワシはワシじゃ。 誰の代わりにもなれん代わりに、 誰の代わりにもなる気はない。","I am me. I can't take anyone's place, and I won't take anyone's place.","Yo soy yo. No puedo ocupar el lugar de nadie, sino que no voy a ocupar el lugar de nadie."
-"Seyadatara (talking)","よくわからないです、ぴんちですか？","I'm not sure, is it a pintch?","No entiendo, ¿es un pintch?"
-"Yamamoto Ippatsu (talking)","わからなくともよい。 セヤダタラよ、これでしばらくは 動けるな。","You don't have to know. Seyadatara, you can move on for a while now.","No hace falta que lo sepas. Seyadatara, ahora puedes seguir adelante por un tiempo."
-"Seyadatara (talking)","はい、動けます。 いっぱいです、すごいです。","Yes, I can move. It's full, it's great.","Sí, puedo moverme. Está lleno, es genial."
-"Yamamoto Ippatsu (talking)","しっかり遊べよ。","Play hard.","Juega duro."
-"Seyadatara (talking)","はいです。","Yes.","Sí."
-"Yamamoto Ippatsu (talking)","ハーー！！","Hurrrrrrrrrrrrrrrrrrrrrrrrr!","¡¡¡Hurrr!!!"
-"narrator","一発は地面に飛び降りると、愛機シルバーに跨り 爆音と共に姿を消した。","Ippatsu jumped down to the ground, straddled his beloved Silver, and disappeared with a roar.","Ippatsu saltó al suelo, se montó a horcajadas sobre su querida Silver y desapareció con un estruendo de explosiones."
-"Seyadatara (talking)","…………どきどき…… 凄い人間さんです……","…………Doki Doki…… He's a terrific human being ……","…………Doki Doki…… Es un gran ser humano ……"
-"Seyadatara (talking)","起動します。","Startup.","Activación."
-"Seyadatara (talking)","………お友達？","……… your friend?","……… ¿Amigos?"
-" (talking)","ろぼー。","ROBO.","Robo."
-"narrator","セヤダタラは、屋根の上で三角座りをしていた。","Seyadatara was sitting triangular on the roof.","Seyadatara estaba sentada de forma triangular en el techo."
-"Seyadatara (talking)","へーわです… ………ちゅんちゅん、すずめ……
+Yamamoto Ippatsu (talking),ワシはワシじゃ。 誰の代わりにもなれん代わりに、 誰の代わりにもなる気はない。,"I am me. I can't take anyone's place, and I won't take anyone's place.","Yo soy yo. No puedo ocupar el lugar de nadie, sino que no voy a ocupar el lugar de nadie."
+Seyadatara (talking),よくわからないです、ぴんちですか？,"I'm not sure, is it a pintch?","No entiendo, ¿es un pintch?"
+Yamamoto Ippatsu (talking),わからなくともよい。 セヤダタラよ、これでしばらくは 動けるな。,"You don't have to know. Seyadatara, you can move on for a while now.","No hace falta que lo sepas. Seyadatara, ahora puedes seguir adelante por un tiempo."
+Seyadatara (talking),はい、動けます。 いっぱいです、すごいです。,"Yes, I can move. It's full, it's great.","Sí, puedo moverme. Está lleno, es genial."
+Yamamoto Ippatsu (talking),しっかり遊べよ。,Play hard.,Juega duro.
+Seyadatara (talking),はいです。,Yes.,Sí.
+Yamamoto Ippatsu (talking),ハーー！！,Hurrrrrrrrrrrrrrrrrrrrrrrrr!,¡¡¡Hurrr!!!
+narrator,一発は地面に飛び降りると、愛機シルバーに跨り 爆音と共に姿を消した。,"Ippatsu jumped down to the ground, straddled his beloved Silver, and disappeared with a roar.","Ippatsu saltó al suelo, se montó a horcajadas sobre su querida Silver y desapareció con un estruendo de explosiones."
+Seyadatara (talking),…………どきどき…… 凄い人間さんです……,…………Doki Doki…… He's a terrific human being ……,…………Doki Doki…… Es un gran ser humano ……
+Seyadatara (talking),起動します。,Startup.,Activación.
+Seyadatara (talking),………お友達？,……… your friend?,……… ¿Amigos?
+ (talking),ろぼー。,ROBO.,Robo.
+narrator,セヤダタラは、屋根の上で三角座りをしていた。,Seyadatara was sitting triangular on the roof.,Seyadatara estaba sentada de forma triangular en el techo.
+Seyadatara (talking),"へーわです… ………ちゅんちゅん、すずめ……
  …………へっくちん…","It's hewa………… chun chun, sparrow ……
 It's………… hecku chun…","Es hewa………… chun chun, gorrión ……
  …………Hecku-chun…"

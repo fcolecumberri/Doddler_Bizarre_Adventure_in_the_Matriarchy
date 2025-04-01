@@ -1,91 +1,91 @@
-"character","jap text","Eng","Esp"
-"__system__??","{麦 = 1:","",""
-"__system__??","{☆デカオ < 2:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 3:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 10:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 11:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 13:","",""
-"__system__??","{H物欲抵抗 <= H物欲:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 15:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 16:","",""
-"__system__??","}","",""
-"Dekao (talking)","あー………… あー、ああー……
+character,jap text,Eng,Esp
+__system__??,{麦 = 1:,,
+__system__??,{☆デカオ < 2:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 3:,,
+__system__??,},,
+__system__??,{麦 = 10:,,
+__system__??,},,
+__system__??,{麦 = 11:,,
+__system__??,},,
+__system__??,{麦 = 13:,,
+__system__??,{H物欲抵抗 <= H物欲:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 15:,,
+__system__??,},,
+__system__??,{麦 = 16:,,
+__system__??,},,
+Dekao (talking),"あー………… あー、ああー……
 せンせえ……せンせえ…… ど、どこ…………","Uh………… Uh, ah ……
 Censee…… Censee…… Which, where…………","Uh………… Uh, ah ……
 Censee…… Censee…… Que, donde…………"
-"Yamamoto Akuji (talking)","……やっと来たかよ。 呼んだらすぐ来いやデカブツ。","…… finally got you here, huh? Come here as soon as I call you, you bigot.","…… Finalmente, estás aquí. Ven aquí tan pronto como te llame, maldito."
-"Dekao (talking)","お、おまえ………… せンせえ、知らない……？","Oh, you………… Sensei, don't you know ……?","Oh, tú………… Sensei, ¿no conoces ……?"
-"Yamamoto Akuji (talking)","先生？ そりゃ素敵医師の事か？","Sensei? You mean Suteki Ishi?","¿Sensei? ¿Es eso Suteki Ishi?"
-"Dekao (talking)","せンせえ……どこ………… せンせえ、いない……お、おれ、 なに、していいのか……解らン……","I don't know what to do…… I don't know what to do ……","Sensei…… dónde………… está………… dónde no está…… Yo, no sé qué…… hacer……"
-"Yamamoto Akuji (talking)","おいおい、 まだあのミイラの子分気取りか？ まさかおめー忘れてんじゃねぇだろうな。
+Yamamoto Akuji (talking),……やっと来たかよ。 呼んだらすぐ来いやデカブツ。,"…… finally got you here, huh? Come here as soon as I call you, you bigot.","…… Finalmente, estás aquí. Ven aquí tan pronto como te llame, maldito."
+Dekao (talking),お、おまえ………… せンせえ、知らない……？,"Oh, you………… Sensei, don't you know ……?","Oh, tú………… Sensei, ¿no conoces ……?"
+Yamamoto Akuji (talking),先生？ そりゃ素敵医師の事か？,Sensei? You mean Suteki Ishi?,¿Sensei? ¿Es eso Suteki Ishi?
+Dekao (talking),せンせえ……どこ………… せンせえ、いない……お、おれ、 なに、していいのか……解らン……,I don't know what to do…… I don't know what to do ……,"Sensei…… dónde………… está………… dónde no está…… Yo, no sé qué…… hacer……"
+Yamamoto Akuji (talking),"おいおい、 まだあのミイラの子分気取りか？ まさかおめー忘れてんじゃねぇだろうな。
 思い出せよ、 今のおめーのボスは素敵医師じゃねぇ。 俺だ、俺。","Hey, hey, hey, hey, you still think you're the mummy's henchman, don't you? Don't tell me you've forgotten.
 Remember, your boss right now is not Suteki Ishi. It's me, me.","Oye, oye, oye, ¿todavía crees que eres el secuaz de la momia? No me digas que lo has olvidado.
 Recuerda que tu jefe ahora mismo no es Suteki Ishi. Soy yo, yo."
-"Dekao (talking)","………エっ？
+Dekao (talking),"………エっ？
 そう……そう。 せンせえ、ちがう、ボス、おまえ。 よろしく。","……… eh?
 Yeah…… yeah. No, no, no, boss, you. Hey, boss, you.","……… ¿eh?
 Sí,…… sí. Sensei, no, jefe, tú. Encantado de conocerte."
-"Yamamoto Akuji (talking)","……大丈夫か、こいつ……","…… You okay, this guy? ……","…… ¿Estás bien, este tipo ……"
-"Yamamoto Akuji (talking)","よう、デカブツ。","Hey, big guy.","Oye, fanático."
-"Dekao (talking)","ぼ、ボス。 な、なンでここ、空、きたなイ？","Hey, boss. Why did you come here, empty?","Hola, jefe. ¿Por qué estás aquí, vacío, no has venido?"
-"Yamamoto Akuji (talking)","は？","Huh?","¿Ja?"
-"Dekao (talking)","そ、空……きたナい…… 水、きたナい……空気も、きたなイ。 お、おれ、シコク、かえりたイ……","So, the sky…… is not cold…… water is not cold…… air is not cold either. I, I, Shikoku, I want to go back……","Entonces, el cielo…… no viene…… el agua no viene…… el aire tampoco viene. Yo, yo, Shikoku, quiero volver……"
-"Yamamoto Akuji (talking)","何をブツブツ言ってんだか…… 相変わらず壊れてんなー。","I don't know what you're babbling about…… You're still as broken as ever!","No sé qué estás balbuceando…… Sigues tan roto como siempre."
-"Yamamoto Akuji (talking)","ほれ、ボーナスだ。 今後も気張って働けよー。","See, here's a bonus. Keep up the good work!","Mira, aquí hay un bono. ¡Seguid con el buen trabajo!"
-"narrator","悪司はデカオの軍手に札束を握らせた。","Akuji put a wad of bills in Dekao's military hand.","Akuji puso un fajo de billetes en las manos militares de Dekao."
-"Dekao (talking)","あ…………ああああ、ああああ。 ぼ、ボス、いイ人。
+Yamamoto Akuji (talking),……大丈夫か、こいつ……,"…… You okay, this guy? ……","…… ¿Estás bien, este tipo ……"
+Yamamoto Akuji (talking),よう、デカブツ。,"Hey, big guy.","Oye, fanático."
+Dekao (talking),ぼ、ボス。 な、なンでここ、空、きたなイ？,"Hey, boss. Why did you come here, empty?","Hola, jefe. ¿Por qué estás aquí, vacío, no has venido?"
+Yamamoto Akuji (talking),は？,Huh?,¿Ja?
+Dekao (talking),そ、空……きたナい…… 水、きたナい……空気も、きたなイ。 お、おれ、シコク、かえりたイ……,"So, the sky…… is not cold…… water is not cold…… air is not cold either. I, I, Shikoku, I want to go back……","Entonces, el cielo…… no viene…… el agua no viene…… el aire tampoco viene. Yo, yo, Shikoku, quiero volver……"
+Yamamoto Akuji (talking),何をブツブツ言ってんだか…… 相変わらず壊れてんなー。,I don't know what you're babbling about…… You're still as broken as ever!,No sé qué estás balbuceando…… Sigues tan roto como siempre.
+Yamamoto Akuji (talking),ほれ、ボーナスだ。 今後も気張って働けよー。,"See, here's a bonus. Keep up the good work!","Mira, aquí hay un bono. ¡Seguid con el buen trabajo!"
+narrator,悪司はデカオの軍手に札束を握らせた。,Akuji put a wad of bills in Dekao's military hand.,Akuji puso un fajo de billetes en las manos militares de Dekao.
+Dekao (talking),"あ…………ああああ、ああああ。 ぼ、ボス、いイ人。
 ああ、これで…… これで麻薬コーラ……買えル……
 ぼ、ボス、売っテ。 いますグ、コーラ、売っテ。","Oh,………… ah, ah, ah. Oh, boss, yi yi man.
 Oh, now you can…… buy drug cola…… with this……
 Sell it, boss. I'm here, Gu, Coke, sell it.","Ah,………… ah, ah. Bo, jefe, yi yi man.
 Oh, ahora puedes…… comprar cola para drogas…… con esto……
 Véndelo, jefe. Estoy aquí gu, cola, venderlo."
-"__system__??","{☆デカオ \ 3:","",""
-"Yamamoto Akuji (talking)","……しゃあねぇな、ほれ。 一本一万円。","……See, here. 10,000 yen per bottle.","…… Sha-sha-sha-sha-sha, aquí. 10.000 yenes por botella."
-"narrator","悪司は言って、冷蔵庫の中から ２５０mlの缶コーラを取り出して手渡した。","Akuji said and took out a 250 ml can of cola from the refrigerator and handed it to him.","Akuji dijo y sacó una lata de Coca-Cola de 250 ml de la nevera y se la dio."
-"Dekao (talking)","こっ……コーラコーラコーラ…… コーーーーーーーーラーーーーーーーー。
+__system__??,{☆デカオ \ 3:,,
+Yamamoto Akuji (talking),……しゃあねぇな、ほれ。 一本一万円。,"……See, here. 10,000 yen per bottle.","…… Sha-sha-sha-sha-sha, aquí. 10.000 yenes por botella."
+narrator,悪司は言って、冷蔵庫の中から ２５０mlの缶コーラを取り出して手渡した。,Akuji said and took out a 250 ml can of cola from the refrigerator and handed it to him.,Akuji dijo y sacó una lata de Coca-Cola de 250 ml de la nevera y se la dio.
+Dekao (talking),"こっ……コーラコーラコーラ…… コーーーーーーーーラーーーーーーーー。
 ……ンくっ、ンくっ、ンくっ……
 はア……しュわしュわ………… うっトり……","Ko~…… CokeCokeCoke…… Coooooooookeeeeeeeee
 ……nku~、nku~、nku~……
 Haa……shiyuhwashiyuhwa………… u~tori……","Co~…… Coca-ColaCoca-Cooooooooolaaaaaaaaa
 ……nku~、nku~、nku~……
 Haa……shiyuhwashiyuhwa………… u~tori……"
-"Yamamoto Akuji (talking)","……ま、本人が満足してりゃＯＫだろ。","……Well, as long as he's happy with it, it's OK.","…… Bueno, mientras esté contento con ello, está bien."
-"__system__??","}","",""
-"__system__??","{☆デカオ = 3:","",""
-"Yamamoto Akuji (talking)","……しゃあねえな。 んーと、コーラ、コーラは……","…… I'll be there. Hmmm, Coke, Coke is ……","…… No puedo evitarlo. Hmm, Coke, Coke es ……"
-"narrator","悪司は事務所の冷蔵庫を開けてみたが、 そこに冷えたコーラは入っていなかった。","Akuji opened the refrigerator in his office, but there was no cold Coke in it.","Akuji abrió la nevera de su despacho, pero no había Coca-Cola fría."
-"Yamamoto Akuji (talking)","あー……やっべえな。 夕子さん買い忘れてんな、こりゃ……","Oh, ……, that's not good. I guess Yuuko forgot to buy it……","Oh, ……, eso no es bueno. Supongo que Yuuko se olvidó de comprarlo……"
-"Dekao (talking)","…………？ こっ、コーラ……コーラ、ナい……？","…………? Kok, kola…… kola, nah ……?","…………? Kok, kola…… kola, na ……?"
-"Yamamoto Akuji (talking)","………………
+Yamamoto Akuji (talking),……ま、本人が満足してりゃＯＫだろ。,"……Well, as long as he's happy with it, it's OK.","…… Bueno, mientras esté contento con ello, está bien."
+__system__??,},,
+__system__??,{☆デカオ = 3:,,
+Yamamoto Akuji (talking),……しゃあねえな。 んーと、コーラ、コーラは……,"…… I'll be there. Hmmm, Coke, Coke is ……","…… No puedo evitarlo. Hmm, Coke, Coke es ……"
+narrator,悪司は事務所の冷蔵庫を開けてみたが、 そこに冷えたコーラは入っていなかった。,"Akuji opened the refrigerator in his office, but there was no cold Coke in it.","Akuji abrió la nevera de su despacho, pero no había Coca-Cola fría."
+Yamamoto Akuji (talking),あー……やっべえな。 夕子さん買い忘れてんな、こりゃ……,"Oh, ……, that's not good. I guess Yuuko forgot to buy it……","Oh, ……, eso no es bueno. Supongo que Yuuko se olvidó de comprarlo……"
+Dekao (talking),…………？ こっ、コーラ……コーラ、ナい……？,"…………? Kok, kola…… kola, nah ……?","…………? Kok, kola…… kola, na ……?"
+Yamamoto Akuji (talking),"………………
 んー、コーラ味のモンなら あるにはあるんだが。","………………
 Well, there are cola-flavored ones out there.","………………
 Bueno, los hay con sabor a cola."
-"Dekao (talking)","あ、味……味だケ、嫌…… しュわしュわ……うっトり…… シゲキ、欲しイ…………","Oh, it tastes…… good, but I don't like it…… I want to taste it…… I want to taste it…… I want to taste it…… I want to taste it…… I want to taste it…… I want to taste it…… I want to taste it …………","Oh, sabe…… bien, pero no me gusta…… Shuwa shuwa wa…… Uttori…… Shigeki, lo quiero …………"
-"Yamamoto Akuji (talking)","ああ、大丈夫だ。 シュワシュワどころかバチバチくるぜ。 ほれ。","Yeah, it's okay. It's not just the shwash, it's the bumblebee. Here.","Sí, está bien. No es sólo una chapuza, es un abejorro. Aquí."
-"narrator","悪司は、戸棚の籠から 菓子の入った小さな紙袋を取り出し、 デカオに渡した。
+Dekao (talking),あ、味……味だケ、嫌…… しュわしュわ……うっトり…… シゲキ、欲しイ…………,"Oh, it tastes…… good, but I don't like it…… I want to taste it…… I want to taste it…… I want to taste it…… I want to taste it…… I want to taste it…… I want to taste it…… I want to taste it …………","Oh, sabe…… bien, pero no me gusta…… Shuwa shuwa wa…… Uttori…… Shigeki, lo quiero …………"
+Yamamoto Akuji (talking),ああ、大丈夫だ。 シュワシュワどころかバチバチくるぜ。 ほれ。,"Yeah, it's okay. It's not just the shwash, it's the bumblebee. Here.","Sí, está bien. No es sólo una chapuza, es un abejorro. Aquí."
+narrator,"悪司は、戸棚の籠から 菓子の入った小さな紙袋を取り出し、 デカオに渡した。
 菓子袋には、 “どんぱっち　コーラ味”と書かれていた。","Akuji took a small paper bag of sweets from a basket in the cupboard and handed it to Dekao.
 The bag of sweets was labeled “DONPACCHI, cola flavor.","Akuji sacó una pequeña bolsa de papel con caramelos de una cesta del armario y se la entregó a Dekao.
 La bolsa de caramelos llevaba la etiqueta “Sabor Donpatchi Cola”."
-"Yamamoto Akuji (talking)","新発売……もとい、新開発の麻薬だ。 まあ試してみろ。","Newly launched ……, or newly developed drug. Well, try it.","Recién lanzado ……, o medicamentos de nuevo desarrollo. Bueno, pruébalo."
-"Dekao (talking)","あイ。","Aii.","Ai."
-"narrator","デカオは紙袋を裂いた。","Dekao ripped open the paper bag.","Dekao abrió la bolsa de papel."
-"Dekao (talking)","…………？　こレ、粉のクスリ……？","…………?　Kole, powder drug ……?","…………?　Kore, drogas en polvo……?"
-"Yamamoto Akuji (talking)","ああ、黒くてザラザラで効きそうだろ？","Yeah, it's black and coarse and looks like it would work, right?","Sí, es negro y grueso y funciona, ¿verdad?"
-"Dekao (talking)","あ、アあ……きキそう……","Ah, ah, ah…… kikisou ……","Ah, ah, ah…… kikisou ……"
-"narrator","そしてデカオは、躊躇いもせず “どんぱっち”一袋を一気に喉へ流し込んだ。","And Dekao, without hesitation, poured a bag of “Donpatchi” down his throat in one gulp.","Y Dekao, sin dudarlo, se sirvió una bolsa de “Donpatchi” en la garganta de un solo trago."
-"Yamamoto Akuji (talking)","おお、勇者だなデカオ。 俺でもそんな一気に食ったことねえな。","Oh, you are a brave man, Dekao. Even I've never eaten that much at once.","Eres un hombre valiente, Dekao. Ni siquiera yo he comido todo eso de una vez."
-"Dekao (talking)","……エっ？","…… eh?","…… ¿eh?"
-"Yamamoto Akuji (talking)","……………… まさか、なんともないのか？","……………… Don't tell me you're all right?","……………… ¿No me digas que estás bien?"
-"Dekao (talking)","…………？ ア……のドが……パチパチ……
+Yamamoto Akuji (talking),新発売……もとい、新開発の麻薬だ。 まあ試してみろ。,"Newly launched ……, or newly developed drug. Well, try it.","Recién lanzado ……, o medicamentos de nuevo desarrollo. Bueno, pruébalo."
+Dekao (talking),あイ。,Aii.,Ai.
+narrator,デカオは紙袋を裂いた。,Dekao ripped open the paper bag.,Dekao abrió la bolsa de papel.
+Dekao (talking),…………？　こレ、粉のクスリ……？,"…………?　Kole, powder drug ……?","…………?　Kore, drogas en polvo……?"
+Yamamoto Akuji (talking),ああ、黒くてザラザラで効きそうだろ？,"Yeah, it's black and coarse and looks like it would work, right?","Sí, es negro y grueso y funciona, ¿verdad?"
+Dekao (talking),あ、アあ……きキそう……,"Ah, ah, ah…… kikisou ……","Ah, ah, ah…… kikisou ……"
+narrator,そしてデカオは、躊躇いもせず “どんぱっち”一袋を一気に喉へ流し込んだ。,"And Dekao, without hesitation, poured a bag of “Donpatchi” down his throat in one gulp.","Y Dekao, sin dudarlo, se sirvió una bolsa de “Donpatchi” en la garganta de un solo trago."
+Yamamoto Akuji (talking),おお、勇者だなデカオ。 俺でもそんな一気に食ったことねえな。,"Oh, you are a brave man, Dekao. Even I've never eaten that much at once.","Eres un hombre valiente, Dekao. Ni siquiera yo he comido todo eso de una vez."
+Dekao (talking),……エっ？,…… eh?,…… ¿eh?
+Yamamoto Akuji (talking),……………… まさか、なんともないのか？,……………… Don't tell me you're all right?,……………… ¿No me digas que estás bien?
+Dekao (talking),"…………？ ア……のドが……パチパチ……
  ……………………？？？
 ぼ……ボス…… のドが…………お、おれ、のドが……
  ……………………ああああああああああ ああああああああああああああああああ ああああああああああああああああ！！","A …………? A…… do's…… crack up……
@@ -95,182 +95,182 @@ Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh! Aaaaahhhh!","A …�
  ……………………?
 Bo…… jefes…… do's son………… o, o, o, o, o, o, o, o, o ……
 Oh, oh, oh, oh…………………… ¡Oh, oh, oh, oh! ¡¡¡Aaaaahhhh!!!"
-"Yamamoto Akuji (talking)","うわっ、このバカ！ “どんぱっち”吐きやがった！ きたねーっ！！","Oh, you idiot! He spit out “DONPACCHI”! You Tane!","¡Oh, idiota! ¡Escupió “DONPACCHI”! ¡Maldito Tane!"
-"Dekao (talking)","い、いい……イタい、イタい…… ヒドい、ボス……のド、イタい……
+Yamamoto Akuji (talking),うわっ、このバカ！ “どんぱっち”吐きやがった！ きたねーっ！！,"Oh, you idiot! He spit out “DONPACCHI”! You Tane!","¡Oh, idiota! ¡Escupió “DONPACCHI”! ¡Maldito Tane!"
+Dekao (talking),"い、いい……イタい、イタい…… ヒドい、ボス……のド、イタい……
 のド、しュわしュわ、違ウ…… バチバチ、弾けル………… 痛イ、痛イ…………痛イ……","I'm good,…… I'm bad,…… I'm bad,…… I'm bad,…… I'm boss,…… I'm bad,…… I'm bad,……
 Ouch, ouch, ouch…,…… Ouch, ouch, ouch…,…… Ouch, ouch, ouch…,…… Ouch, ouch, ouch…,………………… ouch ……","Bueno, bueno…… malo, malo…… malo, mandón…… malo, mandón…… malo,……
 No, no, no, no, no…… bee, bee, Dankel…………, ouch, ouch………… ouch-i……"
-"Yamamoto Akuji (talking)","そりゃまあ、コーラ味の飴の中に 封じ込めた炭酸が弾けるからな……
+Yamamoto Akuji (talking),"そりゃまあ、コーラ味の飴の中に 封じ込めた炭酸が弾けるからな……
  ……じゃなくて、 おめーにゃこのクスリは強すぎたか。 キマっちゃってる感じか？","That's because the carbonation enclosed in the cola-flavored candy Dan……
 Not ……, but you're on too much of this stuff. You're feeling a little addicted, aren't you?","Eso es porque, bueno, la carbonatación que encierra el caramelo con sabor a cola Dan……
 No es ……, pero estás tomando demasiado de estas cosas. ¿Te sientes como si estuvieras en una patada?"
-"Dekao (talking)","…………キ……キマった、キマった…… おれ、おれニは、キツい…………","…………Ki……Ki, Ki…… I, Ooni, I'm tight…………","…………Ki……Ki……Ki, ki…… I, oini, ki…………"
-"Yamamoto Akuji (talking)","そうか。 もう一袋あるけど、もっかい挑戦すっか？","I see. I've got another bag. You want to try again?","De acuerdo. Tengo otra bolsa, ¿quieres intentarlo de nuevo?"
-"Dekao (talking)","い………………いヤ、イや………… 怖い…………こワい、 どんぱっち、こワい………………","I……………… Iya, Iya………… scary………… kowaii, Donpatch, kowaii ………………","I……………… Iya, Iya………… scary………… kowaii, Donpatch, kowaii………………"
-"Yamamoto Akuji (talking)","……………… 泣くなよ、その図体で……","……………… Don't cry, with your figure ……","……………… No llores, figura……"
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","………………","………………","………………"
-"Dekao (talking)","…………だうー。","…………. woo.","…………. woo."
-"Yamamoto Akuji (talking)","しっかし、でけぇよなあ…… よくこの地下室に入ってるよな、こいつ。","It's huge, isn't it?…… I don't know how he's in this basement, man.","Es enorme, ¿verdad?…… No sé cómo está en este sótano, tío."
-"Dekao (talking)","足りなイ……足りなイ…… ……足りなイ…………","Not enough…… Not enough…… …… Not enough …………","No es suficiente…… No es suficiente…… No es suficiente …………"
-"Yamamoto Akuji (talking)","は？","Huh?","¿Ja?"
-"Dekao (talking)","め、メシ……足りなイ…… クスリ、足りなイ…… お、おンな……も…………","Me, meal…… not enough…… Drugs, not enough…… O, onna…… also …………","Yo, comida…… no suficiente…… Drogas, no suficiente…… O, onna…… también …………"
-"Yamamoto Akuji (talking)","しゃあないだろ、 おめー捕虜なんだから。","It can't be helped, you're a POW.","No se puede evitar, eres un prisionero de guerra."
-"Dekao (talking)","足りなイ……足りなイ…… ……足りなイ…………
+Dekao (talking),…………キ……キマった、キマった…… おれ、おれニは、キツい…………,"…………Ki……Ki, Ki…… I, Ooni, I'm tight…………","…………Ki……Ki……Ki, ki…… I, oini, ki…………"
+Yamamoto Akuji (talking),そうか。 もう一袋あるけど、もっかい挑戦すっか？,I see. I've got another bag. You want to try again?,"De acuerdo. Tengo otra bolsa, ¿quieres intentarlo de nuevo?"
+Dekao (talking),い………………いヤ、イや………… 怖い…………こワい、 どんぱっち、こワい………………,"I……………… Iya, Iya………… scary………… kowaii, Donpatch, kowaii ………………","I……………… Iya, Iya………… scary………… kowaii, Donpatch, kowaii………………"
+Yamamoto Akuji (talking),……………… 泣くなよ、その図体で……,"……………… Don't cry, with your figure ……","……………… No llores, figura……"
+__system__??,},,
+Yamamoto Akuji (talking),………………,………………,………………
+Dekao (talking),…………だうー。,…………. woo.,…………. woo.
+Yamamoto Akuji (talking),しっかし、でけぇよなあ…… よくこの地下室に入ってるよな、こいつ。,"It's huge, isn't it?…… I don't know how he's in this basement, man.","Es enorme, ¿verdad?…… No sé cómo está en este sótano, tío."
+Dekao (talking),足りなイ……足りなイ…… ……足りなイ…………,Not enough…… Not enough…… …… Not enough …………,No es suficiente…… No es suficiente…… No es suficiente …………
+Yamamoto Akuji (talking),は？,Huh?,¿Ja?
+Dekao (talking),め、メシ……足りなイ…… クスリ、足りなイ…… お、おンな……も…………,"Me, meal…… not enough…… Drugs, not enough…… O, onna…… also …………","Yo, comida…… no suficiente…… Drogas, no suficiente…… O, onna…… también …………"
+Yamamoto Akuji (talking),しゃあないだろ、 おめー捕虜なんだから。,"It can't be helped, you're a POW.","No se puede evitar, eres un prisionero de guerra."
+Dekao (talking),"足りなイ……足りなイ…… ……足りなイ…………
  ……ぶつぶつぶつ…………","Not enough…… Not enough…… …… Not enough……… …
  ……Bumps and bumps…………","No es suficiente…… No es suficiente…… No es suficiente……… …
  ……Bumps…………"
-"Yamamoto Akuji (talking)","……話聞いてねぇな。
+Yamamoto Akuji (talking),"……話聞いてねぇな。
 何か壊れてんなぁ、こいつ…… やっぱヤク中なんかなー……","He's not listening to me……
 Something's broken with this guy…… I guess he's a junkie……","No está escuchando …….
 Algo está roto con este tipo…… Supongo que es un drogadicto……"
-"Yamamoto Akuji (talking)","よお、デカブツ。","Yo, big fella.","Oye, fanático."
-"Dekao (talking)","…………エっ？","………… eh?","………… ¿eh?"
-"Yamamoto Akuji (talking)","最近、おめーにやってるクスリはどーだ？ ちったぁ効いてんのか？","What about those drugs you've been on lately? Are they working a little?","¿Qué hay de esos medicamentos que te han dado últimamente? ¿Están trabajando un poco?"
-"Dekao (talking)","き……キく……キいてル。
+Yamamoto Akuji (talking),よお、デカブツ。,"Yo, big fella.","Oye, fanático."
+Dekao (talking),…………エっ？,………… eh?,………… ¿eh?
+Yamamoto Akuji (talking),最近、おめーにやってるクスリはどーだ？ ちったぁ効いてんのか？,What about those drugs you've been on lately? Are they working a little?,¿Qué hay de esos medicamentos que te han dado últimamente? ¿Están trabajando un poco?
+Dekao (talking),"き……キく……キいてル。
 うまイし、しュわしュわ。 さ、さイこう……","I'm a…… little…… guy.
 It's delicious and juicy. Let's get going……","No estoy seguro de si soy …….
 Es delicioso y jugoso. Vamos a ……"
-"Yamamoto Akuji (talking)","……マジかよ。","…… Seriously?","…… En serio."
-"Dekao (talking)","ああ……しュわしュわ………… もっとクれ…………","Oh, ……, I'm so excited…………, I'm so excited…………, I'm so excited.","Oh,…… y la forma en que es………… y la forma en que es………… y la forma en que es………… y la forma en que es …………"
-"Yamamoto Akuji (thinking)","……マジで麻薬やる訳にゃいかんから ウィミィ産のコーラを たまに与えてやってんだが……
+Yamamoto Akuji (talking),……マジかよ。,…… Seriously?,…… En serio.
+Dekao (talking),ああ……しュわしュわ………… もっとクれ…………,"Oh, ……, I'm so excited…………, I'm so excited…………, I'm so excited.","Oh,…… y la forma en que es………… y la forma en que es………… y la forma en que es………… y la forma en que es …………"
+Yamamoto Akuji (thinking),"……マジで麻薬やる訳にゃいかんから ウィミィ産のコーラを たまに与えてやってんだが……
 こんなもんで騙せるのか…… アホだな、こいつ…………","I can't do drugs ……, so I give him the occasional Coke from Wime……
 I don't know if this stuff will fool him…… He's an idiot…………","No puedo consumir drogas…… en serio, así que le doy una Coca-Cola de Wime de vez en cuando……
 No sé cómo engañarlo con estas cosas…… Es un idiota…………"
-"Yamamoto Akuji (talking)","おめーさあ、何か欲しいモンあるのか？","You, you want something?","Tú, ¿quieres algo?"
-"Dekao (talking)","…………エっ？
+Yamamoto Akuji (talking),おめーさあ、何か欲しいモンあるのか？,"You, you want something?","Tú, ¿quieres algo?"
+Dekao (talking),"…………エっ？
 あ……く、クスリ……","………… eh?
 Oh ……, drugs……","………… ¿eh?
 Ah…… ku, drogas……"
-"Yamamoto Akuji (talking)","クスリって、麻薬のことだよな……
+Yamamoto Akuji (talking),"クスリって、麻薬のことだよな……
  ………………
 なあ、日陰さん。","Drugs are drugs……
  ………………
 Hey, Hikage.","Las drogas son drogas……
  ………………
 Oye, Hikage."
-"Hikage Mitsuko (talking)","………はい、何か……","……… Yes, something ……","……… Sí, algo ……"
-"Yamamoto Akuji (talking)","今、手近に何かないかな、 麻薬の代わりになりそうなモン。","Now, is there anything close at hand that might be an alternative to narcotics?","¿Hay algo a mano en este momento que pueda ser una alternativa a los narcóticos?"
-"Hikage Mitsuko (talking)","さあ…… 私、麻薬したことないし…… してみたいとも……","Come on…… I've never done drugs and I'd like to ……","Vamos…… Nunca he consumido drogas y me gustaría ……"
-"Yamamoto Akuji (talking)","うーん、手に入らないことは ねぇんだけどなあ……
+Hikage Mitsuko (talking),………はい、何か……,"……… Yes, something ……","……… Sí, algo ……"
+Yamamoto Akuji (talking),今、手近に何かないかな、 麻薬の代わりになりそうなモン。,"Now, is there anything close at hand that might be an alternative to narcotics?",¿Hay algo a mano en este momento que pueda ser una alternativa a los narcóticos?
+Hikage Mitsuko (talking),さあ…… 私、麻薬したことないし…… してみたいとも……,Come on…… I've never done drugs and I'd like to ……,Vamos…… Nunca he consumido drogas y me gustaría ……
+Yamamoto Akuji (talking),"うーん、手に入らないことは ねぇんだけどなあ……
 何かこう、クセになりそうなモンで いいんだけどよ。","Well, it's not impossible to get it……
 I'm sure it's a addictive thing, but it's good.","Bueno, no es imposible de conseguir……
 Es un poco adictivo, pero es bueno."
-"Hikage Mitsuko (talking)","……ああ…………それなら……
+Hikage Mitsuko (talking),"……ああ…………それなら……
  …………はい……","……oh………… then……
  …………Yes……","…… oh………… entonces ……
  …………Sí……"
-"Yamamoto Akuji (talking)","何だこりゃ。","What is this?","¿Qué demonios es esto?"
-"Hikage Mitsuko (talking)","缶コーラ……","Can Cola ……","Can Cola: ……"
-"Yamamoto Akuji (talking)","見りゃ解るよ。","You'll know it when you see it.","Lo sabrás cuando lo veas."
-"Hikage Mitsuko (talking)","最近、時々……飲むんです、私……
+Yamamoto Akuji (talking),何だこりゃ。,What is this?,¿Qué demonios es esto?
+Hikage Mitsuko (talking),缶コーラ……,Can Cola ……,Can Cola: ……
+Yamamoto Akuji (talking),見りゃ解るよ。,You'll know it when you see it.,Lo sabrás cuando lo veas.
+Hikage Mitsuko (talking),"最近、時々……飲むんです、私……
 クセに…………なります…… 美味しいです……よ…","Lately, I've been drinking…… sometimes, I ……
 It's addictive………… and delicious ……! …","He estado bebiendo…… a veces últimamente, yo ……
 Es adictivo …………, es delicioso…… …"
-"Yamamoto Akuji (talking)","……………… まあ、ダメモトだな。
+Yamamoto Akuji (talking),"……………… まあ、ダメモトだな。
 おい、デカブツ。","……………… Well, dame.
 Hey, bigot.","……………… Bueno, señora.
 Oye, fanático."
-"Dekao (talking)","…………エっ？","………… eh?","………… ¿eh?"
-"Yamamoto Akuji (talking)","これをやろう、飲んでみろ。","Let's do this, drink it.","Hagamos esto, bébelo."
-"Dekao (talking)","…………？
+Dekao (talking),…………エっ？,………… eh?,………… ¿eh?
+Yamamoto Akuji (talking),これをやろう、飲んでみろ。,"Let's do this, drink it.","Hagamos esto, bébelo."
+Dekao (talking),"…………？
  ……ンくっ、ンくっ、ンくっ……
 はア……しュわしュわ………… うっトり……キいた………………","…………?…… nkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk ……
 Haa…… shuwa shuwa shuwa………… uuturi…… ki ………………","…………?…… nkk, nkk, nkk……
   ………………"
-"Yamamoto Akuji (talking)","……マジか。","…… Really?","…… Realmente."
-"Dekao (talking)","くレ……もっとくレ…………","Kure…… Mottokure …………","Kure…… Mottokure …………"
-"Yamamoto Akuji (talking)","んじゃ俺の部下になれ。 おめーの力が欲しいんだ。 俺のために働け。","Then be my subordinate. I want your help. Work for me.","Entonces sé mi subordinado. Quiero tu ayuda. Trabaja para mí."
-"Dekao (talking)","あ、あ…………
+Yamamoto Akuji (talking),……マジか。,…… Really?,…… Realmente.
+Dekao (talking),くレ……もっとくレ…………,Kure…… Mottokure …………,Kure…… Mottokure …………
+Yamamoto Akuji (talking),んじゃ俺の部下になれ。 おめーの力が欲しいんだ。 俺のために働け。,Then be my subordinate. I want your help. Work for me.,Entonces sé mi subordinado. Quiero tu ayuda. Trabaja para mí.
+Dekao (talking),"あ、あ…………
 嫌。
 戦ウの嫌、痛イの嫌。 ……イや。","Oh, oh …………
 I hate it.
 I hate fighting, I hate the pain. I don't want to go to …….","Oh, oh: …………
 No me gusta.
 No quiero luchar, no quiero sufrir. No quiero ir a ……."
-"Yamamoto Akuji (talking)","……やっぱ、これだけで落とせるほど お手軽じゃねーか…………","…… I knew it wasn't easy enough to drop this one …………","…… Sabía que no era fácil dejar caer esta…………"
-"Yamamoto Akuji (talking)","いい加減、 このデカブツのご機嫌伺いも 飽きてきたな……
+Yamamoto Akuji (talking),……やっぱ、これだけで落とせるほど お手軽じゃねーか…………,…… I knew it wasn't easy enough to drop this one …………,…… Sabía que no era fácil dejar caer esta…………
+Yamamoto Akuji (talking),"いい加減、 このデカブツのご機嫌伺いも 飽きてきたな……
 おい、これが最後だ。 俺の部下になれ。","I'm getting tired of this big-assed pestering……
 Hey, for the last time. Come work for me.","Me estoy cansando del buen humor de este cabrón……
 Oye, esta es la última vez. Sé mi hombre."
-"Dekao (talking)","戦ウの嫌、痛イの嫌。 ……イや。","I hate fighting, I hate pain. You can find out more at …….","No quiero luchar, no quiero sufrir……."
-"Yamamoto Akuji (talking)","じゃあもう出て行け。 コーラもやらん。 これっきりでサヨナラだ。","Then get out of here. I won't even give you a Coke. This is goodbye once and for all.","Entonces vete ya. Ni siquiera te daré una Coca-Cola. Esto es un adiós de una vez por todas."
-"Dekao (talking)","……エっ？","…… eh?","…… ¿eh?"
-"Yamamoto Akuji (talking)","え、じゃねーんだよ。 出てけオラ、グズグズすんな。","I'm not… I'm not. Get out of here, Ora, and don't be a wimp.","Eh, no, no, no. Sal de aquí, Ora, no seas un pelele."
-"Dekao (talking)","あー…………だうー……
+Dekao (talking),戦ウの嫌、痛イの嫌。 ……イや。,"I hate fighting, I hate pain. You can find out more at …….","No quiero luchar, no quiero sufrir……."
+Yamamoto Akuji (talking),じゃあもう出て行け。 コーラもやらん。 これっきりでサヨナラだ。,Then get out of here. I won't even give you a Coke. This is goodbye once and for all.,Entonces vete ya. Ni siquiera te daré una Coca-Cola. Esto es un adiós de una vez por todas.
+Dekao (talking),……エっ？,…… eh?,…… ¿eh?
+Yamamoto Akuji (talking),え、じゃねーんだよ。 出てけオラ、グズグズすんな。,"I'm not… I'm not. Get out of here, Ora, and don't be a wimp.","Eh, no, no, no. Sal de aquí, Ora, no seas un pelele."
+Dekao (talking),"あー…………だうー……
 クスリ……コーラ…… クスリのコーラ……
 部下……部下になル………… だから、ボス……コーラ、くレ……","Ah………… da woo ……
 Drugs…… cola…… drug cola……
 Subordinates…… subordinates ni naru………… So, boss…… cola, kure ……","Ah………… da woo ……
 Drogas…… cola…… drogas cola……
 Subordinados…… subordinados ni naru………… Así que, jefe…… cola, kure ……"
-"Yamamoto Akuji (talking)","よーしよし、それでいいんだ。 コーラでラリって俺のために働け。","All right, all right, that's it. Go get a coke and work for me.","Muy bien, muy bien, eso es todo. Ponte cachondo con una coca y vete a trabajar para mí."
-"Dekao (talking)","コーラ……ああ、コーラ………… ボス、いイ人……","Cora…… Oh, Cora………… Boss, yi people ……","Cora…… Oh, Cora………… Jefe, yi gente ……"
-"Yamamoto Akuji (talking)","……………… いいのか、こんなお手軽で……","……………… Are you sure you want to go this easy: ……","……………… ¿Estás seguro, es tan fácil ……"
-"narrator","躰が大きすぎて普通の家には住めず、 デカオは奉仕青年団の道場で寝泊まりしていた。
+Yamamoto Akuji (talking),よーしよし、それでいいんだ。 コーラでラリって俺のために働け。,"All right, all right, that's it. Go get a coke and work for me.","Muy bien, muy bien, eso es todo. Ponte cachondo con una coca y vete a trabajar para mí."
+Dekao (talking),コーラ……ああ、コーラ………… ボス、いイ人……,"Cora…… Oh, Cora………… Boss, yi people ……","Cora…… Oh, Cora………… Jefe, yi gente ……"
+Yamamoto Akuji (talking),……………… いいのか、こんなお手軽で……,……………… Are you sure you want to go this easy: ……,"……………… ¿Estás seguro, es tan fácil ……"
+narrator,"躰が大きすぎて普通の家には住めず、 デカオは奉仕青年団の道場で寝泊まりしていた。
 と言っても、家具など生活臭のあるものは デカオの側に一切置いていない。
 あるのは、グロス単位で積み上げられた コーラのケースだけだ。","Too large to live in an ordinary house, Dekao slept in the dojo of the Youth Service League.
 However, he did not keep any furniture or anything that smelled of life near Dekao.
 There are only cases of cola stacked up by the gross.","Demasiado grande para vivir en una casa normal, Dekao dormía en el dojo del Cuerpo de Servicio Juvenil.
 Sin embargo, no hay muebles ni nada que huela a vida en el lado de Dekao.
 Sólo hay cajas de cola apiladas a lo bruto."
-"Dekao (talking)","へ、へへ。 コーラ……飲むンよね……
+Dekao (talking),"へ、へへ。 コーラ……飲むンよね……
 ……ンくっ、ンくっ、ンくっ……
 はア……しュわしュわ………… うっトり……","He、hehe。 Coke…… drink it……
 ……nku~、nku~、nku~……
 Haa……shiyuhwashiyuhwa………… u~tori……","He、hehe。 Coca-Cola…… bebes…………nku~、nku~、nku~……
 Haa……shiyuhwashiyuhwa………… u~tori……"
-"Chinpira (talking)","……おう、デカオじゃないか。 今日もコーラ飲んでんのか？","…… Oh, isn't that Dekao? Are you drinking Coke today too?","…… Oh, ¿no es Dekao? ¿Estás bebiendo Coca-Cola hoy?"
-"Dekao (talking)","…………エっ？　誰？","………… eh?　Who is it?","………… ¿eh?　¿Quién?"
-"Chinpira (talking)","誰って…… 同じ奉仕青年団の団員だよ。 顔くらい覚えとけよ。","Who's that?…… We're members of the same service youth group. You should at least remember his face.","¿Quién eres tú?…… Somos miembros del mismo grupo juvenil de servicio. Al menos deberías recordar su cara."
-"Dekao (talking)","ふーン。","Hmmm.","Hoon."
-"Chinpira (talking)","……………… ま、いいや、そこ退いてくれ。 道場で少し汗流しに来たんだからよ。","……………… Well, okay, step back there. I'm just here to work up a little sweat at the dojo.","……………… Bueno, vale, retrocede ahí. Estoy aquí para sudar un poco en el dojo."
-"Dekao (talking)","あイ。","Aii.","Ai."
-"Chinpira (talking)","しっかし、お前もよくそんな ジュースばっか飲んでられるよな。 炭酸で腹膨れないか？","But then again, how can you drink all those juices too? Doesn't the carbonation make you bloated?","Vamos, ¿cómo puedes beber todos esos zumos también? ¿La carbonatación no te hincha?"
-"Dekao (talking)","エっ？
+Chinpira (talking),……おう、デカオじゃないか。 今日もコーラ飲んでんのか？,"…… Oh, isn't that Dekao? Are you drinking Coke today too?","…… Oh, ¿no es Dekao? ¿Estás bebiendo Coca-Cola hoy?"
+Dekao (talking),…………エっ？　誰？,………… eh?　Who is it?,………… ¿eh?　¿Quién?
+Chinpira (talking),誰って…… 同じ奉仕青年団の団員だよ。 顔くらい覚えとけよ。,Who's that?…… We're members of the same service youth group. You should at least remember his face.,¿Quién eres tú?…… Somos miembros del mismo grupo juvenil de servicio. Al menos deberías recordar su cara.
+Dekao (talking),ふーン。,Hmmm.,Hoon.
+Chinpira (talking),……………… ま、いいや、そこ退いてくれ。 道場で少し汗流しに来たんだからよ。,"……………… Well, okay, step back there. I'm just here to work up a little sweat at the dojo.","……………… Bueno, vale, retrocede ahí. Estoy aquí para sudar un poco en el dojo."
+Dekao (talking),あイ。,Aii.,Ai.
+Chinpira (talking),しっかし、お前もよくそんな ジュースばっか飲んでられるよな。 炭酸で腹膨れないか？,"But then again, how can you drink all those juices too? Doesn't the carbonation make you bloated?","Vamos, ¿cómo puedes beber todos esos zumos también? ¿La carbonatación no te hincha?"
+Dekao (talking),"エっ？
 こ、こレ……ジュース、違ウ。 コーラ……コーラはクスリ……","What?
 This is not the same as the juice ……. Coke…… Coke is a drug ……","¿Eh?
 Ko, jugo de kore……, no. Coke…… Coke es una droga ……"
-"Chinpira (talking)","何言ってんだよ、 コーラは炭酸飲料だって。 一本百円で子供でも飲んでるぜ。","What are you talking about? Coke is a carbonated drink. It costs 100 yen a bottle and even children drink it.","De qué estás hablando, la Coca-Cola es una bebida carbonatada. Cuesta 100 yenes la botella y hasta los niños la beben."
-"Dekao (talking)","……………………","……………………","……………………"
-"Chinpira (talking)","最近、ウィミィから輸入されてよ。 俺はマズいと思うんだが、 案外流行り始めてるみたいで……","It has been imported from Wime recently. I think it's bad, but it seems to be starting to become popular……","Se ha importado de Wime recientemente. Creo que es malo, pero parece estar empezando a ser popular……"
-"Dekao (talking)","嘘ダーーーーーーーーーーーーーーーーー ーーーーーーーーーーーーーーーーーーー ーーーーーーーーーーーーーーーーっ！！","Yooooooooouuuuuuuuu aaaaaaaaareeeeeeeee lyiiiiiiiiiiiiing~！！","¡¡Tuuuuuuuuuuuuuuuu estaaaaaaaaaaaaaaas mintieeeeeeeeendo~！！"
-"Chinpira (talking)","えっ……？ お、おい……うわああああああああっ！！","E~……？ o、oi……uwaaaaaaaaa~！！","¿E~……？ ¡o、oi……uwaaaaaaaaa~！！"
-"narrator","　　［ぶんっ！　どかっ！！　ぐしゃっ！！］","　　［bun~！　doka~！！　gushiyah~！！］","　　［¡bun~！　¡¡doka~！！　¡¡gushiyah~！！］"
-"Chinpira (talking)","あ、が……げぼっ………………","Oh, but ……Gebo………………","Oh, pero ……Gebo………………"
-"narrator","チンピラは血の海に沈んだ。","The goons sank in a pool of blood.","Los matones se hundieron en un charco de sangre."
-"Dekao (talking)","だ……騙されタ…………！ ボス、ころス………………！！","I'm…… fooled…………! Boss, you killed ………………!","¡Estoy…… engañado…………! ¡Jefe, has matado a ………………!"
-"Yamamoto Akuji (talking)","…………？ 何だ、表が騒がしいが……","…………? What's with all the noise out front? ……","…………? ¿Qué es ese ruido en la portada? ……"
-"Dekao (talking)","……出てキたなボスーーーー！！！ だまシたなーーーーーーーーーー！！","……Here comes the boooooss!!! You've fooled meeeeeeeeeee!!","¡¡¡……Aquí viene el jeeeeefe!!! ¡¡Me engañasteeeeeeeeeee!!"
-"Yamamoto Akuji (talking)","うわっ、びっくりした。 何怒ってんだおめー。","Wow, you scared me. What are you mad at me for?","Vaya, me has asustado. ¿Por qué estás enfadado conmigo?"
-"Dekao (talking)","こ、コーラ、クスリ違ウ！！ だまシたなーーーーーーーー！！！！","Coke, Coke, wrong drug!!!!!!!! You cheated!!! ！！！！","¡Coca, coca, droga equivocada! ¡¡¡Has hecho trampa!!! ！！！！"
-"Yamamoto Akuji (talking)","………………
+Chinpira (talking),何言ってんだよ、 コーラは炭酸飲料だって。 一本百円で子供でも飲んでるぜ。,What are you talking about? Coke is a carbonated drink. It costs 100 yen a bottle and even children drink it.,"De qué estás hablando, la Coca-Cola es una bebida carbonatada. Cuesta 100 yenes la botella y hasta los niños la beben."
+Dekao (talking),……………………,……………………,……………………
+Chinpira (talking),最近、ウィミィから輸入されてよ。 俺はマズいと思うんだが、 案外流行り始めてるみたいで……,"It has been imported from Wime recently. I think it's bad, but it seems to be starting to become popular……","Se ha importado de Wime recientemente. Creo que es malo, pero parece estar empezando a ser popular……"
+Dekao (talking),嘘ダーーーーーーーーーーーーーーーーー ーーーーーーーーーーーーーーーーーーー ーーーーーーーーーーーーーーーーっ！！,Yooooooooouuuuuuuuu aaaaaaaaareeeeeeeee lyiiiiiiiiiiiiing~！！,¡¡Tuuuuuuuuuuuuuuuu estaaaaaaaaaaaaaaas mintieeeeeeeeendo~！！
+Chinpira (talking),えっ……？ お、おい……うわああああああああっ！！,E~……？ o、oi……uwaaaaaaaaa~！！,¿E~……？ ¡o、oi……uwaaaaaaaaa~！！
+narrator,　　［ぶんっ！　どかっ！！　ぐしゃっ！！］,　　［bun~！　doka~！！　gushiyah~！！］,　　［¡bun~！　¡¡doka~！！　¡¡gushiyah~！！］
+Chinpira (talking),あ、が……げぼっ………………,"Oh, but ……Gebo………………","Oh, pero ……Gebo………………"
+narrator,チンピラは血の海に沈んだ。,The goons sank in a pool of blood.,Los matones se hundieron en un charco de sangre.
+Dekao (talking),だ……騙されタ…………！ ボス、ころス………………！！,"I'm…… fooled…………! Boss, you killed ………………!","¡Estoy…… engañado…………! ¡Jefe, has matado a ………………!"
+Yamamoto Akuji (talking),…………？ 何だ、表が騒がしいが……,…………? What's with all the noise out front? ……,…………? ¿Qué es ese ruido en la portada? ……
+Dekao (talking),……出てキたなボスーーーー！！！ だまシたなーーーーーーーーーー！！,……Here comes the boooooss!!! You've fooled meeeeeeeeeee!!,¡¡¡……Aquí viene el jeeeeefe!!! ¡¡Me engañasteeeeeeeeeee!!
+Yamamoto Akuji (talking),うわっ、びっくりした。 何怒ってんだおめー。,"Wow, you scared me. What are you mad at me for?","Vaya, me has asustado. ¿Por qué estás enfadado conmigo?"
+Dekao (talking),こ、コーラ、クスリ違ウ！！ だまシたなーーーーーーーー！！！！,"Coke, Coke, wrong drug!!!!!!!! You cheated!!! ！！！！","¡Coca, coca, droga equivocada! ¡¡¡Has hecho trampa!!! ！！！！"
+Yamamoto Akuji (talking),"………………
 いや、何かの間違いだろう。 別に騙してねーぞ。","………………
 No, there must be some kind of mistake. I'm not trying to trick you, man.","………………
 No, debe haber algún tipo de error. No estoy tratando de engañarte, hombre."
-"Dekao (talking)","じャあ何で チンピラがジュースって言ッたーーー！！","Why did you say the goons were juicing!","¿Por qué has dicho que los matones estaban exprimiendo?"
-"Yamamoto Akuji (talking)","……何だよ、うちのヤツから聞いたのか。
+Dekao (talking),じャあ何で チンピラがジュースって言ッたーーー！！,Why did you say the goons were juicing!,¿Por qué has dicho que los matones estaban exprimiendo?
+Yamamoto Akuji (talking),"……何だよ、うちのヤツから聞いたのか。
 そりゃアレだ、チンピラが嘘吐いたんだ。 おめーのコーラが羨ましくて。","…… What, you heard it from my guy?
 That's right, the punk lied. I was jealous of your coke.","…… ¿Qué, lo has oído de nuestro hombre?
 Así es, el matón mintió. Estaba celoso de tu Coca-Cola."
-"Dekao (talking)","……………………エっ？","…………………… っ?","…………………… エっ?"
-"Yamamoto Akuji (talking)","ジュースって騙して、 おめーからコーラを分けて貰おうと 思ったんじゃねーかな。","I think I was trying to trick you into sharing your Coke with me.","Creo que te engañé haciéndote creer que iba a compartir una Coca-Cola contigo."
-"Dekao (talking)","……………… そ、そウか……そウかも……
+Dekao (talking),……………………エっ？,…………………… っ?,…………………… エっ?
+Yamamoto Akuji (talking),ジュースって騙して、 おめーからコーラを分けて貰おうと 思ったんじゃねーかな。,I think I was trying to trick you into sharing your Coke with me.,Creo que te engañé haciéndote creer que iba a compartir una Coca-Cola contigo.
+Dekao (talking),"……………… そ、そウか……そウかも……
 そレは、悪イことシた………… チンピラ、つイ、殺シてしまっタ……","……………… So, that's it…… That's probably it… …
 That's a bad thing………… I've been a thug, I've been a Satsu……","……………… Así y así o…… Así y así o así… …
 Eso es algo malo………… He sido un matón, he sido un Satsu……"
-"Yamamoto Akuji (talking)","まあ気にすんな。 おめーを騙した報いだろ。
+Yamamoto Akuji (talking),"まあ気にすんな。 おめーを騙した報いだろ。
 ま、んなもんスカッと忘れて 帰ってコーラ飲んどけ。","Don't worry about it. You got what you deserved for cheating me.
 Just forget about it and go home and have a Coke.","Bueno, no te preocupes. Tienes lo que te mereces por engañarme.
 Olvídalo y vete a casa a tomar una Coca-Cola."
-"Dekao (talking)","あイ。じャ帰ル。","Ai. I'm going home.","Ai. Jia volver."
-"narrator","デカオは、すごすごと道場に帰っていった。","Dekao went back to the dojo in a huff.","Dekao volvió al dojo enfadado."
-"Yamamoto Akuji (talking)","……あー、ちょっとビビったぜ。
+Dekao (talking),あイ。じャ帰ル。,Ai. I'm going home.,Ai. Jia volver.
+narrator,デカオは、すごすごと道場に帰っていった。,Dekao went back to the dojo in a huff.,Dekao volvió al dojo enfadado.
+Yamamoto Akuji (talking),"……あー、ちょっとビビったぜ。
 部下全員に、 デカオの前でコーラの話をすんなって 徹底させとこう……","……Ah, I'm a little freaked out.
 I'll make sure all my men know not to talk about Coke in front of Dekao ……","…… Ah, estoy un poco asustado.
 Me aseguraré de que todos mis hombres sepan que no deben hablar de Coca-Cola delante de Dekao……"
-"narrator","──その時、デカオは道端に座り込んで ぼんやりと一人、曇った空を見上げていた。","─ ─ At that time, Dekao was sitting on the side of the road, looking up at the cloudy sky in a daze.","─ ─ En ese momento, Dekao estaba sentado a un lado de la carretera, solo y aturdido, mirando al cielo nublado."
-"Dekao (talking)","あ……あー、く、雲なンよね……
+narrator,──その時、デカオは道端に座り込んで ぼんやりと一人、曇った空を見上げていた。,"─ ─ At that time, Dekao was sitting on the side of the road, looking up at the cloudy sky in a daze.","─ ─ En ese momento, Dekao estaba sentado a un lado de la carretera, solo y aturdido, mirando al cielo nublado."
+Dekao (talking),"あ……あー、く、雲なンよね……
 雲……
  ………………
 お、おらぁ…………
@@ -299,4 +299,4 @@ No sé qué estoy haciendo aquí en el lugar más loco… Oh, yo……
  ………………
 Ah, ah…… sí, así es…… son las drogas, no es así……
 Voy a conseguir drogas, ¿no? ……"
-"narrator","デカオは腰を上げて、どこかに歩み去っていった。","Dekao sat up and walked away somewhere.","Dekao se sentó y se alejó a algún lugar."
+narrator,デカオは腰を上げて、どこかに歩み去っていった。,Dekao sat up and walked away somewhere.,Dekao se sentó y se alejó a algún lugar.

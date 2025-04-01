@@ -1,930 +1,930 @@
-"character","jap text","Eng","Esp"
-"__system__??","{●ＥＸ = 2:","",""
-"Yamamoto Akuji (talking)","うーし、サクサク行くぜ。","Woohoo, let's get cracking.","Woohoo, vamos a ponernos en marcha."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 3:","",""
-"Takayama Hami (talking)","あはははは。 ばきゅーん　ばきゅーん。","Ha-ha-ha. Bakyuu, bakyuu, bakyuu.","Ja, ja, ja. Baki-yun Baki-yun."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 4:","",""
-"Momoyama Linda (talking)","ちゅるせ！！","Churuse!","¡Churuse!"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 5:","",""
-"Yume (talking)","えーっと…… 今週も頑張りましょうねっ。","Let's see……… Let's keep up the good work this week!","Veamos…… ¡Sigamos con el buen trabajo esta semana!"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 6:","",""
-"daiousama (talking)","んん~~すべ~るスキップ。","Mmmm~slippery skip.","Mmm - salto resbaladizo."
-"__system__??","}","",""
-"__system__??","{G部下数 = 60:","",""
-"__system__??","}","",""
-"__system__??","{RND = 1:","",""
-"__system__??","{●ＥＸ = 2:","",""
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 3:","",""
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 4:","",""
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 5:","",""
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 6:","",""
-"__system__??","}","",""
-"__system__??","{D20 = 99:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"__system__??","{D20 = 99:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"__system__??","{●ＥＸ = 2:","",""
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 3:","",""
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 4:","",""
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 5:","",""
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 6:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{Bキャラ > 500:","",""
-"__system__??","}","",""
-"narrator","が新しく 組織に加わった。","is the newest addition to the organization.","es una nueva incorporación a la organización."
-"__system__??","{R支配 = 2:","",""
-"__system__??","}","",""
-"__system__??","{RND = 0:","",""
-"__system__??","}","",""
-"__system__??","{D01 = 0:","",""
-"narrator","　山本組は、壊滅した。","The Yamamoto group was destroyed.","El grupo Yamamoto fue destruido."
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","覚悟しやがれ。 皆殺しだ！","Prepare yourselves. Everybody Satsu!","Prepárense. ¡Todos Satsu!"
-"__system__??","{G部下数 = 60:","",""
-"__system__??","}","",""
-"__system__??","{RND = 1:","",""
-"__system__??","{D20 = 99:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"__system__??","{D20 = 99:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"__system__??","}","",""
-"__system__??","{Bキャラ > 500:","",""
-"__system__??","}","",""
-"narrator","が新しく 山本組に加わった。","is the newest addition to the Yamamoto group.","es la última incorporación al grupo Yamamoto."
-"__system__??","{R支配 = 3:","",""
-"__system__??","}","",""
-"__system__??","{D01 = 0:","",""
-"narrator","　高山＆わかめ組は、壊滅した。","Takayama & Wakame group were destroyed.","El grupo Takayama & Wakame fue destruido."
-"__system__??","}","",""
-"Takayama Hami (talking)","はみ、おなかすいたなー。","Hami, I'm so hungry.","Hami, tengo hambre."
-"__system__??","{G部下数 = 60:","",""
-"__system__??","}","",""
-"__system__??","{RND = 1:","",""
-"__system__??","{D20 = 99:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"__system__??","{D20 = 99:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"__system__??","}","",""
-"__system__??","{Bキャラ > 500:","",""
-"__system__??","}","",""
-"narrator","が新しく 高山＆わかめ組に加わった。","has newly joined Takayama & Wakame group.","es la última incorporación al grupo Takayama & Wakame."
-"__system__??","{R支配 = 4:","",""
-"__system__??","}","",""
-"__system__??","{RND = 0:","",""
-"__system__??","}","",""
-"__system__??","{D01 = 0:","",""
-"narrator","　桃山組は、壊滅した。","The Momoyama group was destroyed.","El grupo Momoyama fue destruido."
-"__system__??","}","",""
-"Momoyama Linda (talking)","ＰＭに刃向かう者はすべて殺ちて ちまいまちゅ！！","All those who defy PM are Satsu and Chimayimachu!","¡Todos los que desafían al PM Satsu y Chimayimachu!"
-"__system__??","{G部下数 = 60:","",""
-"__system__??","}","",""
-"__system__??","{RND = 1:","",""
-"__system__??","{D20 = 99:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"__system__??","{D20 = 99:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"__system__??","}","",""
-"__system__??","{Bキャラ > 500:","",""
-"__system__??","}","",""
-"narrator","が新しく ピーチマウンテンに加わった。","is the newest addition to the Peach Mountain family.","es la última incorporación a Peach Mountain."
-"__system__??","{R支配 = 5:","",""
-"__system__??","}","",""
-"__system__??","{RND = 0:","",""
-"__system__??","}","",""
-"__system__??","{D01 = 0:","",""
-"narrator","　那古教は、壊滅した。","Nakokyou was destroyed.","Nakokyou fue destruido."
-"__system__??","}","",""
-"Yume (talking)","……戦いたくないけど…… でも、やらなきゃいけないっ……！","I don't want to fight…… but I have to…… but I have to ……!","¡No quiero luchar contra…… pero tengo que…… pero tengo que ……!"
-"__system__??","{G部下数 = 60:","",""
-"__system__??","}","",""
-"__system__??","{RND = 1:","",""
-"__system__??","{D20 = 99:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"__system__??","{D20 = 99:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"__system__??","}","",""
-"__system__??","{Bキャラ > 500:","",""
-"__system__??","}","",""
-"narrator","が新しく 那古教に加わった。","is the newest addition to Nakokyou.","es la última incorporación a Nakokyou."
-"__system__??","{R支配 = 6:","",""
-"__system__??","}","",""
-"__system__??","{D01 = 0:","",""
-"narrator","　火星侵攻隊、壊滅した。","Mars invasion force, destroyed.","Fuerza de invasión de Marte, destruida."
-"__system__??","}","",""
-"daiousama (talking)","せしぼ~ん。","Sezibo~.","Sezibo~."
-"__system__??","{G部下数 = 60:","",""
-"__system__??","}","",""
-"__system__??","{RND = 1:","",""
-"__system__??","{D20 = 99:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"__system__??","{D20 = 99:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"__system__??","}","",""
-"__system__??","{Bキャラ > 500:","",""
-"__system__??","}","",""
-"narrator","が新しく 火星侵攻隊に加わった。","is the newest addition to the Mars invasion team.","es la más reciente adición a la Fuerza de Invasión de Marte."
-"__system__??","{☆ＥＸ２ = 0:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ２ = 1:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ２ = 2:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ２ = 3:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ２ = 4:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ２ = 5:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ２ = 6:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ２ = 7:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ２ = 8:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ３ = 0:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ３ = 1:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ３ = 2:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ３ = 3:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ３ = 4:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ４ = 0:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ４ = 1:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ４ = 2:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ４ = 3:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ４ = 4:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ４ = 5:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ４ = 6:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ５ = 0:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ５ = 1:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ５ = 2:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ５ = 3:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ５ = 4:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ５ = 5:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ５ = 6:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ６ = 0:","",""
-"__system__??","}","",""
-"__system__??","{RND = 1:","",""
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"__system__??","}","",""
-"__system__??","{RND = 4:","",""
-"__system__??","}","",""
-"__system__??","{RND = 5:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 0:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 1:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 2:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 3:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 4:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 5:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 6:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 7:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 8:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 9:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 10:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 11:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 12:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 13:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 14:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 15:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 16:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 17:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 18:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 19:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 20:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 21:","",""
-"__system__??","}","",""
-"__system__??","{☆ＥＸ０ = 22:","",""
-"__system__??","}","",""
-"__system__??","{RND = 1:","",""
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"__system__??","}","",""
-"__system__??","{RND = 4:","",""
-"__system__??","}","",""
-"__system__??","{RND = 5:","",""
-"__system__??","}","",""
-"__system__??","{RND = 6:","",""
-"__system__??","}","",""
-"__system__??","{RND = 7:","",""
-"__system__??","}","",""
-"__system__??","{RND = 8:","",""
-"__system__??","}","",""
-"__system__??","{RND = 9:","",""
-"__system__??","}","",""
-"__system__??","{RND = 10:","",""
-"__system__??","}","",""
-"__system__??","{RND = 11:","",""
-"__system__??","}","",""
-"__system__??","{RND = 12:","",""
-"__system__??","}","",""
-"__system__??","{RND = 1:","",""
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"__system__??","}","",""
-"__system__??","{RND = 4:","",""
-"__system__??","}","",""
-"__system__??","{RND = 5:","",""
-"__system__??","}","",""
-"__system__??","{RND = 1:","",""
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"__system__??","}","",""
-"__system__??","{RND = 4:","",""
-"__system__??","}","",""
-"__system__??","{RND = 5:","",""
-"__system__??","}","",""
-"__system__??","{RND = 6:","",""
-"__system__??","}","",""
-"__system__??","{RND = 7:","",""
-"__system__??","}","",""
-"__system__??","{RND = 1:","",""
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"__system__??","}","",""
-"__system__??","{RND = 4:","",""
-"__system__??","}","",""
-"__system__??","{RND = 5:","",""
-"__system__??","}","",""
-"__system__??","{RND = 6:","",""
-"__system__??","}","",""
-"__system__??","{RND = 7:","",""
-"__system__??","}","",""
-"__system__??","{RND = 8:","",""
-"__system__??","}","",""
-"__system__??","{RND = 9:","",""
-"__system__??","}","",""
-"__system__??","{RND = 10:","",""
-"__system__??","}","",""
-"__system__??","{RND = 11:","",""
-"__system__??","}","",""
-"__system__??","{RND = 12:","",""
-"__system__??","}","",""
-"__system__??","{RND = 13:","",""
-"__system__??","}","",""
-"__system__??","{RND = 14:","",""
-"__system__??","}","",""
-"__system__??","{RND = 15:","",""
-"__system__??","}","",""
-"__system__??","{RND = 1:","",""
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"__system__??","}","",""
-"__system__??","{RND = 4:","",""
-"__system__??","}","",""
-"__system__??","{RND = 5:","",""
-"__system__??","}","",""
-"__system__??","{RND = 6:","",""
-"__system__??","}","",""
-"__system__??","{RND = 7:","",""
-"__system__??","}","",""
-"__system__??","{RND = 8:","",""
-"__system__??","}","",""
-"__system__??","{RND = 9:","",""
-"__system__??","}","",""
-"__system__??","{RND = 10:","",""
-"__system__??","}","",""
-"__system__??","{RND = 11:","",""
-"__system__??","}","",""
-"__system__??","{RND = 12:","",""
-"__system__??","}","",""
-"__system__??","{RND = 13:","",""
-"__system__??","}","",""
-"__system__??","{RND = 14:","",""
-"__system__??","}","",""
-"__system__??","{RND = 15:","",""
-"__system__??","}","",""
-"__system__??","{RND = 16:","",""
-"__system__??","}","",""
-"__system__??","{RND = 17:","",""
-"__system__??","}","",""
-"__system__??","{RND = 18:","",""
-"__system__??","}","",""
-"__system__??","{RND = 19:","",""
-"__system__??","}","",""
-"__system__??","{RND = 20:","",""
-"__system__??","}","",""
-"__system__??","{RND = 21:","",""
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 2:","",""
-"narrator","悪司は、","Akuji is a","Akuji es un"
-"narrator","を呼び出した。","called out.","Llamada."
-"narrator","は、","is","es"
-"__system__??","{RND = 1:","",""
-"narrator","タクシー","cab","taxi"
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"narrator","自家用車","private automobile","automóvil privado"
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"narrator","徒歩","walking","soldado de a pie (periodo Edo)"
-"__system__??","}","",""
-"__system__??","{RND = 4:","",""
-"narrator","走り","the first (harvest, catch) of the season","la primera (cosecha, captura) de la temporada"
-"__system__??","}","",""
-"__system__??","{RND = 5:","",""
-"narrator","子分連れ","accompanied by one's child","llevar a los hijos (a un evento, a un nuevo matrimonio, etc.)"
-"__system__??","}","",""
-"__system__??","{RND = 6:","",""
-"narrator","歩き","walking","caminar"
-"__system__??","}","",""
-"narrator","で急いで現れた。","He showed up in a hurry at the","Apareció a toda prisa en el"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 3:","",""
-"narrator","はみは、","Hami is a","Hami es."
-"narrator","を呼び出した。","called out.","Llamada."
-"narrator","は、","is","es"
-"__system__??","{RND = 1:","",""
-"narrator","タクシー","cab","taxi"
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"narrator","自家用車","private automobile","automóvil privado"
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"narrator","徒歩","walking","soldado de a pie (periodo Edo)"
-"__system__??","}","",""
-"__system__??","{RND = 4:","",""
-"narrator","走り","the first (harvest, catch) of the season","la primera (cosecha, captura) de la temporada"
-"__system__??","}","",""
-"__system__??","{RND = 5:","",""
-"narrator","子分連れ","accompanied by one's child","llevar a los hijos (a un evento, a un nuevo matrimonio, etc.)"
-"__system__??","}","",""
-"__system__??","{RND = 6:","",""
-"narrator","歩き","walking","caminar"
-"__system__??","}","",""
-"narrator","で急いで現れた。","He showed up in a hurry at the","Apareció a toda prisa en el"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 4:","",""
-"narrator","リンダは、","Linda is the name of the","Linda es el nombre de la"
-"narrator","を呼び出した。","called out.","Llamada."
-"narrator","は、","is","es"
-"__system__??","{RND = 1:","",""
-"narrator","タクシー","cab","taxi"
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"narrator","自家用車","private automobile","automóvil privado"
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"narrator","徒歩","walking","soldado de a pie (periodo Edo)"
-"__system__??","}","",""
-"__system__??","{RND = 4:","",""
-"narrator","走り","the first (harvest, catch) of the season","la primera (cosecha, captura) de la temporada"
-"__system__??","}","",""
-"__system__??","{RND = 5:","",""
-"narrator","子分連れ","accompanied by one's child","llevar a los hijos (a un evento, a un nuevo matrimonio, etc.)"
-"__system__??","}","",""
-"__system__??","{RND = 6:","",""
-"narrator","歩き","walking","caminar"
-"__system__??","}","",""
-"narrator","で急いで現れた。","He showed up in a hurry at the","Apareció a toda prisa en el"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 5:","",""
-"narrator","由女は、","Yume is a","Yume es."
-"narrator","を呼び出した。","called out.","Llamada."
-"narrator","は、","is","es"
-"__system__??","{RND = 1:","",""
-"narrator","タクシー","cab","taxi"
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"narrator","自家用車","private automobile","automóvil privado"
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"narrator","徒歩","walking","soldado de a pie (periodo Edo)"
-"__system__??","}","",""
-"__system__??","{RND = 4:","",""
-"narrator","走り","the first (harvest, catch) of the season","la primera (cosecha, captura) de la temporada"
-"__system__??","}","",""
-"__system__??","{RND = 5:","",""
-"narrator","子分連れ","accompanied by one's child","llevar a los hijos (a un evento, a un nuevo matrimonio, etc.)"
-"__system__??","}","",""
-"__system__??","{RND = 6:","",""
-"narrator","歩き","walking","caminar"
-"__system__??","}","",""
-"narrator","で急いで現れた。","He showed up in a hurry at the","Apareció a toda prisa en el"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 6:","",""
-"narrator","大王様は、","The Great One is.","El Gran Señor."
-"narrator","を呼び出した。","called out.","Llamada."
-"narrator","は、","is","es"
-"__system__??","{RND = 1:","",""
-"narrator","タクシー","cab","taxi"
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"narrator","自家用車","private automobile","automóvil privado"
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"narrator","徒歩","walking","soldado de a pie (periodo Edo)"
-"__system__??","}","",""
-"__system__??","{RND = 4:","",""
-"narrator","走り","the first (harvest, catch) of the season","la primera (cosecha, captura) de la temporada"
-"__system__??","}","",""
-"__system__??","{RND = 5:","",""
-"narrator","子分連れ","accompanied by one's child","llevar a los hijos (a un evento, a un nuevo matrimonio, etc.)"
-"__system__??","}","",""
-"__system__??","{RND = 6:","",""
-"narrator","歩き","walking","caminar"
-"__system__??","}","",""
-"narrator","で急いで現れた。","He showed up in a hurry at the","Apareció a toda prisa en el"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 2:","",""
-"narrator","悪司は、","Akuji is a","Akuji es un"
-"narrator","を抱き寄せた。","He embraced the","abrazado."
-"narrator","は、悪司にたっぷりと かわいがられ、彼の躰から 離れられなくなった。","The Akuji was so pampered by Akuji that she couldn't stay away from his body.","La Akuji estaba tan mimada por la Akuji que no podía alejarse de su cuerpo."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 3:","",""
-"narrator","はみは高山ゴルゴに命じて、","Hami orders Takayama Golgo to","Hami ordenó a Takayama Golgo que"
-"narrator","を愛させた。","made them love the","les hizo amar el"
-"narrator","は、たっぷりと かわいがられ、彼の躰から離れられなくなった。 それは、はみにも逆らえない事を意味していた。","The Hami was pampered so much that she could not leave his body. It meant that Hami could not disobey him either.","Los Hami fueron mimados tanto que no pudieron abandonar su cuerpo. Eso significaba que Hami tampoco podía desafiarlo."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 4:","",""
-"narrator","リンダは夜のブリキ兵に命じて、","Linda ordered the Tin Soldiers of the Night to","Linda ordenó a los soldaditos de plomo nocturnos"
-"narrator","を愛させた。","made them love the","les hizo amar el"
-"narrator","は、たっぷりと かわいがられ、彼の躰から離れられなくなった。 それは、リンダにも逆らえない事を意味していた。","She was pampered so much that she could not leave his body. It meant that Linda could not disobey him either.","fue mimada tanto que fue incapaz de abandonar su cuerpo. Eso significaba que Linda tampoco podía resistirse a él."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 5:","",""
-" (talking)","……今だけ性格ちぇ~んじ。えいっ。","…… personality-ch~nji just now. Eeeee.","…… personalidad-cheer-sólo. Eiii."
-"narrator","由女──いや、Ａ１号は妖しく微笑んで、","Yume──No, A1 smiles bewitchingly and","Yume──No, A1 sonrió de forma hechizante y"
-"narrator","を抱き寄せた。","He embraced the","abrazado."
-"narrator","は、Ａ１号にたっぷりと かわいがられ、彼女の躰から離れられなくなった。
+character,jap text,Eng,Esp
+__system__??,{●ＥＸ = 2:,,
+Yamamoto Akuji (talking),うーし、サクサク行くぜ。,"Woohoo, let's get cracking.","Woohoo, vamos a ponernos en marcha."
+__system__??,},,
+__system__??,{●ＥＸ = 3:,,
+Takayama Hami (talking),あはははは。 ばきゅーん　ばきゅーん。,"Ha-ha-ha. Bakyuu, bakyuu, bakyuu.","Ja, ja, ja. Baki-yun Baki-yun."
+__system__??,},,
+__system__??,{●ＥＸ = 4:,,
+Momoyama Linda (talking),ちゅるせ！！,Churuse!,¡Churuse!
+__system__??,},,
+__system__??,{●ＥＸ = 5:,,
+Yume (talking),えーっと…… 今週も頑張りましょうねっ。,Let's see……… Let's keep up the good work this week!,Veamos…… ¡Sigamos con el buen trabajo esta semana!
+__system__??,},,
+__system__??,{●ＥＸ = 6:,,
+daiousama (talking),んん~~すべ~るスキップ。,Mmmm~slippery skip.,Mmm - salto resbaladizo.
+__system__??,},,
+__system__??,{G部下数 = 60:,,
+__system__??,},,
+__system__??,{RND = 1:,,
+__system__??,{●ＥＸ = 2:,,
+__system__??,},,
+__system__??,{●ＥＸ = 3:,,
+__system__??,},,
+__system__??,{●ＥＸ = 4:,,
+__system__??,},,
+__system__??,{●ＥＸ = 5:,,
+__system__??,},,
+__system__??,{●ＥＸ = 6:,,
+__system__??,},,
+__system__??,{D20 = 99:,,
+__system__??,},,
+__system__??,},,
+__system__??,{RND = 2:,,
+__system__??,{D20 = 99:,,
+__system__??,},,
+__system__??,},,
+__system__??,{RND = 3:,,
+__system__??,{●ＥＸ = 2:,,
+__system__??,},,
+__system__??,{●ＥＸ = 3:,,
+__system__??,},,
+__system__??,{●ＥＸ = 4:,,
+__system__??,},,
+__system__??,{●ＥＸ = 5:,,
+__system__??,},,
+__system__??,{●ＥＸ = 6:,,
+__system__??,},,
+__system__??,},,
+__system__??,{Bキャラ > 500:,,
+__system__??,},,
+narrator,が新しく 組織に加わった。,is the newest addition to the organization.,es una nueva incorporación a la organización.
+__system__??,{R支配 = 2:,,
+__system__??,},,
+__system__??,{RND = 0:,,
+__system__??,},,
+__system__??,{D01 = 0:,,
+narrator,　山本組は、壊滅した。,The Yamamoto group was destroyed.,El grupo Yamamoto fue destruido.
+__system__??,},,
+Yamamoto Akuji (talking),覚悟しやがれ。 皆殺しだ！,Prepare yourselves. Everybody Satsu!,Prepárense. ¡Todos Satsu!
+__system__??,{G部下数 = 60:,,
+__system__??,},,
+__system__??,{RND = 1:,,
+__system__??,{D20 = 99:,,
+__system__??,},,
+__system__??,},,
+__system__??,{RND = 2:,,
+__system__??,{D20 = 99:,,
+__system__??,},,
+__system__??,},,
+__system__??,{RND = 3:,,
+__system__??,},,
+__system__??,{Bキャラ > 500:,,
+__system__??,},,
+narrator,が新しく 山本組に加わった。,is the newest addition to the Yamamoto group.,es la última incorporación al grupo Yamamoto.
+__system__??,{R支配 = 3:,,
+__system__??,},,
+__system__??,{D01 = 0:,,
+narrator,　高山＆わかめ組は、壊滅した。,Takayama & Wakame group were destroyed.,El grupo Takayama & Wakame fue destruido.
+__system__??,},,
+Takayama Hami (talking),はみ、おなかすいたなー。,"Hami, I'm so hungry.","Hami, tengo hambre."
+__system__??,{G部下数 = 60:,,
+__system__??,},,
+__system__??,{RND = 1:,,
+__system__??,{D20 = 99:,,
+__system__??,},,
+__system__??,},,
+__system__??,{RND = 2:,,
+__system__??,{D20 = 99:,,
+__system__??,},,
+__system__??,},,
+__system__??,{RND = 3:,,
+__system__??,},,
+__system__??,{Bキャラ > 500:,,
+__system__??,},,
+narrator,が新しく 高山＆わかめ組に加わった。,has newly joined Takayama & Wakame group.,es la última incorporación al grupo Takayama & Wakame.
+__system__??,{R支配 = 4:,,
+__system__??,},,
+__system__??,{RND = 0:,,
+__system__??,},,
+__system__??,{D01 = 0:,,
+narrator,　桃山組は、壊滅した。,The Momoyama group was destroyed.,El grupo Momoyama fue destruido.
+__system__??,},,
+Momoyama Linda (talking),ＰＭに刃向かう者はすべて殺ちて ちまいまちゅ！！,All those who defy PM are Satsu and Chimayimachu!,¡Todos los que desafían al PM Satsu y Chimayimachu!
+__system__??,{G部下数 = 60:,,
+__system__??,},,
+__system__??,{RND = 1:,,
+__system__??,{D20 = 99:,,
+__system__??,},,
+__system__??,},,
+__system__??,{RND = 2:,,
+__system__??,{D20 = 99:,,
+__system__??,},,
+__system__??,},,
+__system__??,{RND = 3:,,
+__system__??,},,
+__system__??,{Bキャラ > 500:,,
+__system__??,},,
+narrator,が新しく ピーチマウンテンに加わった。,is the newest addition to the Peach Mountain family.,es la última incorporación a Peach Mountain.
+__system__??,{R支配 = 5:,,
+__system__??,},,
+__system__??,{RND = 0:,,
+__system__??,},,
+__system__??,{D01 = 0:,,
+narrator,　那古教は、壊滅した。,Nakokyou was destroyed.,Nakokyou fue destruido.
+__system__??,},,
+Yume (talking),……戦いたくないけど…… でも、やらなきゃいけないっ……！,I don't want to fight…… but I have to…… but I have to ……!,¡No quiero luchar contra…… pero tengo que…… pero tengo que ……!
+__system__??,{G部下数 = 60:,,
+__system__??,},,
+__system__??,{RND = 1:,,
+__system__??,{D20 = 99:,,
+__system__??,},,
+__system__??,},,
+__system__??,{RND = 2:,,
+__system__??,{D20 = 99:,,
+__system__??,},,
+__system__??,},,
+__system__??,{RND = 3:,,
+__system__??,},,
+__system__??,{Bキャラ > 500:,,
+__system__??,},,
+narrator,が新しく 那古教に加わった。,is the newest addition to Nakokyou.,es la última incorporación a Nakokyou.
+__system__??,{R支配 = 6:,,
+__system__??,},,
+__system__??,{D01 = 0:,,
+narrator,　火星侵攻隊、壊滅した。,"Mars invasion force, destroyed.","Fuerza de invasión de Marte, destruida."
+__system__??,},,
+daiousama (talking),せしぼ~ん。,Sezibo~.,Sezibo~.
+__system__??,{G部下数 = 60:,,
+__system__??,},,
+__system__??,{RND = 1:,,
+__system__??,{D20 = 99:,,
+__system__??,},,
+__system__??,},,
+__system__??,{RND = 2:,,
+__system__??,{D20 = 99:,,
+__system__??,},,
+__system__??,},,
+__system__??,{RND = 3:,,
+__system__??,},,
+__system__??,{Bキャラ > 500:,,
+__system__??,},,
+narrator,が新しく 火星侵攻隊に加わった。,is the newest addition to the Mars invasion team.,es la más reciente adición a la Fuerza de Invasión de Marte.
+__system__??,{☆ＥＸ２ = 0:,,
+__system__??,},,
+__system__??,{☆ＥＸ２ = 1:,,
+__system__??,},,
+__system__??,{☆ＥＸ２ = 2:,,
+__system__??,},,
+__system__??,{☆ＥＸ２ = 3:,,
+__system__??,},,
+__system__??,{☆ＥＸ２ = 4:,,
+__system__??,},,
+__system__??,{☆ＥＸ２ = 5:,,
+__system__??,},,
+__system__??,{☆ＥＸ２ = 6:,,
+__system__??,},,
+__system__??,{☆ＥＸ２ = 7:,,
+__system__??,},,
+__system__??,{☆ＥＸ２ = 8:,,
+__system__??,},,
+__system__??,{☆ＥＸ３ = 0:,,
+__system__??,},,
+__system__??,{☆ＥＸ３ = 1:,,
+__system__??,},,
+__system__??,{☆ＥＸ３ = 2:,,
+__system__??,},,
+__system__??,{☆ＥＸ３ = 3:,,
+__system__??,},,
+__system__??,{☆ＥＸ３ = 4:,,
+__system__??,},,
+__system__??,{☆ＥＸ４ = 0:,,
+__system__??,},,
+__system__??,{☆ＥＸ４ = 1:,,
+__system__??,},,
+__system__??,{☆ＥＸ４ = 2:,,
+__system__??,},,
+__system__??,{☆ＥＸ４ = 3:,,
+__system__??,},,
+__system__??,{☆ＥＸ４ = 4:,,
+__system__??,},,
+__system__??,{☆ＥＸ４ = 5:,,
+__system__??,},,
+__system__??,{☆ＥＸ４ = 6:,,
+__system__??,},,
+__system__??,{☆ＥＸ５ = 0:,,
+__system__??,},,
+__system__??,{☆ＥＸ５ = 1:,,
+__system__??,},,
+__system__??,{☆ＥＸ５ = 2:,,
+__system__??,},,
+__system__??,{☆ＥＸ５ = 3:,,
+__system__??,},,
+__system__??,{☆ＥＸ５ = 4:,,
+__system__??,},,
+__system__??,{☆ＥＸ５ = 5:,,
+__system__??,},,
+__system__??,{☆ＥＸ５ = 6:,,
+__system__??,},,
+__system__??,{☆ＥＸ６ = 0:,,
+__system__??,},,
+__system__??,{RND = 1:,,
+__system__??,},,
+__system__??,{RND = 2:,,
+__system__??,},,
+__system__??,{RND = 3:,,
+__system__??,},,
+__system__??,{RND = 4:,,
+__system__??,},,
+__system__??,{RND = 5:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 0:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 1:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 2:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 3:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 4:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 5:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 6:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 7:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 8:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 9:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 10:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 11:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 12:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 13:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 14:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 15:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 16:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 17:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 18:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 19:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 20:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 21:,,
+__system__??,},,
+__system__??,{☆ＥＸ０ = 22:,,
+__system__??,},,
+__system__??,{RND = 1:,,
+__system__??,},,
+__system__??,{RND = 2:,,
+__system__??,},,
+__system__??,{RND = 3:,,
+__system__??,},,
+__system__??,{RND = 4:,,
+__system__??,},,
+__system__??,{RND = 5:,,
+__system__??,},,
+__system__??,{RND = 6:,,
+__system__??,},,
+__system__??,{RND = 7:,,
+__system__??,},,
+__system__??,{RND = 8:,,
+__system__??,},,
+__system__??,{RND = 9:,,
+__system__??,},,
+__system__??,{RND = 10:,,
+__system__??,},,
+__system__??,{RND = 11:,,
+__system__??,},,
+__system__??,{RND = 12:,,
+__system__??,},,
+__system__??,{RND = 1:,,
+__system__??,},,
+__system__??,{RND = 2:,,
+__system__??,},,
+__system__??,{RND = 3:,,
+__system__??,},,
+__system__??,{RND = 4:,,
+__system__??,},,
+__system__??,{RND = 5:,,
+__system__??,},,
+__system__??,{RND = 1:,,
+__system__??,},,
+__system__??,{RND = 2:,,
+__system__??,},,
+__system__??,{RND = 3:,,
+__system__??,},,
+__system__??,{RND = 4:,,
+__system__??,},,
+__system__??,{RND = 5:,,
+__system__??,},,
+__system__??,{RND = 6:,,
+__system__??,},,
+__system__??,{RND = 7:,,
+__system__??,},,
+__system__??,{RND = 1:,,
+__system__??,},,
+__system__??,{RND = 2:,,
+__system__??,},,
+__system__??,{RND = 3:,,
+__system__??,},,
+__system__??,{RND = 4:,,
+__system__??,},,
+__system__??,{RND = 5:,,
+__system__??,},,
+__system__??,{RND = 6:,,
+__system__??,},,
+__system__??,{RND = 7:,,
+__system__??,},,
+__system__??,{RND = 8:,,
+__system__??,},,
+__system__??,{RND = 9:,,
+__system__??,},,
+__system__??,{RND = 10:,,
+__system__??,},,
+__system__??,{RND = 11:,,
+__system__??,},,
+__system__??,{RND = 12:,,
+__system__??,},,
+__system__??,{RND = 13:,,
+__system__??,},,
+__system__??,{RND = 14:,,
+__system__??,},,
+__system__??,{RND = 15:,,
+__system__??,},,
+__system__??,{RND = 1:,,
+__system__??,},,
+__system__??,{RND = 2:,,
+__system__??,},,
+__system__??,{RND = 3:,,
+__system__??,},,
+__system__??,{RND = 4:,,
+__system__??,},,
+__system__??,{RND = 5:,,
+__system__??,},,
+__system__??,{RND = 6:,,
+__system__??,},,
+__system__??,{RND = 7:,,
+__system__??,},,
+__system__??,{RND = 8:,,
+__system__??,},,
+__system__??,{RND = 9:,,
+__system__??,},,
+__system__??,{RND = 10:,,
+__system__??,},,
+__system__??,{RND = 11:,,
+__system__??,},,
+__system__??,{RND = 12:,,
+__system__??,},,
+__system__??,{RND = 13:,,
+__system__??,},,
+__system__??,{RND = 14:,,
+__system__??,},,
+__system__??,{RND = 15:,,
+__system__??,},,
+__system__??,{RND = 16:,,
+__system__??,},,
+__system__??,{RND = 17:,,
+__system__??,},,
+__system__??,{RND = 18:,,
+__system__??,},,
+__system__??,{RND = 19:,,
+__system__??,},,
+__system__??,{RND = 20:,,
+__system__??,},,
+__system__??,{RND = 21:,,
+__system__??,},,
+__system__??,{●ＥＸ = 2:,,
+narrator,悪司は、,Akuji is a,Akuji es un
+narrator,を呼び出した。,called out.,Llamada.
+narrator,は、,is,es
+__system__??,{RND = 1:,,
+narrator,タクシー,cab,taxi
+__system__??,},,
+__system__??,{RND = 2:,,
+narrator,自家用車,private automobile,automóvil privado
+__system__??,},,
+__system__??,{RND = 3:,,
+narrator,徒歩,walking,soldado de a pie (periodo Edo)
+__system__??,},,
+__system__??,{RND = 4:,,
+narrator,走り,"the first (harvest, catch) of the season","la primera (cosecha, captura) de la temporada"
+__system__??,},,
+__system__??,{RND = 5:,,
+narrator,子分連れ,accompanied by one's child,"llevar a los hijos (a un evento, a un nuevo matrimonio, etc.)"
+__system__??,},,
+__system__??,{RND = 6:,,
+narrator,歩き,walking,caminar
+__system__??,},,
+narrator,で急いで現れた。,He showed up in a hurry at the,Apareció a toda prisa en el
+__system__??,},,
+__system__??,{●ＥＸ = 3:,,
+narrator,はみは、,Hami is a,Hami es.
+narrator,を呼び出した。,called out.,Llamada.
+narrator,は、,is,es
+__system__??,{RND = 1:,,
+narrator,タクシー,cab,taxi
+__system__??,},,
+__system__??,{RND = 2:,,
+narrator,自家用車,private automobile,automóvil privado
+__system__??,},,
+__system__??,{RND = 3:,,
+narrator,徒歩,walking,soldado de a pie (periodo Edo)
+__system__??,},,
+__system__??,{RND = 4:,,
+narrator,走り,"the first (harvest, catch) of the season","la primera (cosecha, captura) de la temporada"
+__system__??,},,
+__system__??,{RND = 5:,,
+narrator,子分連れ,accompanied by one's child,"llevar a los hijos (a un evento, a un nuevo matrimonio, etc.)"
+__system__??,},,
+__system__??,{RND = 6:,,
+narrator,歩き,walking,caminar
+__system__??,},,
+narrator,で急いで現れた。,He showed up in a hurry at the,Apareció a toda prisa en el
+__system__??,},,
+__system__??,{●ＥＸ = 4:,,
+narrator,リンダは、,Linda is the name of the,Linda es el nombre de la
+narrator,を呼び出した。,called out.,Llamada.
+narrator,は、,is,es
+__system__??,{RND = 1:,,
+narrator,タクシー,cab,taxi
+__system__??,},,
+__system__??,{RND = 2:,,
+narrator,自家用車,private automobile,automóvil privado
+__system__??,},,
+__system__??,{RND = 3:,,
+narrator,徒歩,walking,soldado de a pie (periodo Edo)
+__system__??,},,
+__system__??,{RND = 4:,,
+narrator,走り,"the first (harvest, catch) of the season","la primera (cosecha, captura) de la temporada"
+__system__??,},,
+__system__??,{RND = 5:,,
+narrator,子分連れ,accompanied by one's child,"llevar a los hijos (a un evento, a un nuevo matrimonio, etc.)"
+__system__??,},,
+__system__??,{RND = 6:,,
+narrator,歩き,walking,caminar
+__system__??,},,
+narrator,で急いで現れた。,He showed up in a hurry at the,Apareció a toda prisa en el
+__system__??,},,
+__system__??,{●ＥＸ = 5:,,
+narrator,由女は、,Yume is a,Yume es.
+narrator,を呼び出した。,called out.,Llamada.
+narrator,は、,is,es
+__system__??,{RND = 1:,,
+narrator,タクシー,cab,taxi
+__system__??,},,
+__system__??,{RND = 2:,,
+narrator,自家用車,private automobile,automóvil privado
+__system__??,},,
+__system__??,{RND = 3:,,
+narrator,徒歩,walking,soldado de a pie (periodo Edo)
+__system__??,},,
+__system__??,{RND = 4:,,
+narrator,走り,"the first (harvest, catch) of the season","la primera (cosecha, captura) de la temporada"
+__system__??,},,
+__system__??,{RND = 5:,,
+narrator,子分連れ,accompanied by one's child,"llevar a los hijos (a un evento, a un nuevo matrimonio, etc.)"
+__system__??,},,
+__system__??,{RND = 6:,,
+narrator,歩き,walking,caminar
+__system__??,},,
+narrator,で急いで現れた。,He showed up in a hurry at the,Apareció a toda prisa en el
+__system__??,},,
+__system__??,{●ＥＸ = 6:,,
+narrator,大王様は、,The Great One is.,El Gran Señor.
+narrator,を呼び出した。,called out.,Llamada.
+narrator,は、,is,es
+__system__??,{RND = 1:,,
+narrator,タクシー,cab,taxi
+__system__??,},,
+__system__??,{RND = 2:,,
+narrator,自家用車,private automobile,automóvil privado
+__system__??,},,
+__system__??,{RND = 3:,,
+narrator,徒歩,walking,soldado de a pie (periodo Edo)
+__system__??,},,
+__system__??,{RND = 4:,,
+narrator,走り,"the first (harvest, catch) of the season","la primera (cosecha, captura) de la temporada"
+__system__??,},,
+__system__??,{RND = 5:,,
+narrator,子分連れ,accompanied by one's child,"llevar a los hijos (a un evento, a un nuevo matrimonio, etc.)"
+__system__??,},,
+__system__??,{RND = 6:,,
+narrator,歩き,walking,caminar
+__system__??,},,
+narrator,で急いで現れた。,He showed up in a hurry at the,Apareció a toda prisa en el
+__system__??,},,
+__system__??,{●ＥＸ = 2:,,
+narrator,悪司は、,Akuji is a,Akuji es un
+narrator,を抱き寄せた。,He embraced the,abrazado.
+narrator,は、悪司にたっぷりと かわいがられ、彼の躰から 離れられなくなった。,The Akuji was so pampered by Akuji that she couldn't stay away from his body.,La Akuji estaba tan mimada por la Akuji que no podía alejarse de su cuerpo.
+__system__??,},,
+__system__??,{●ＥＸ = 3:,,
+narrator,はみは高山ゴルゴに命じて、,Hami orders Takayama Golgo to,Hami ordenó a Takayama Golgo que
+narrator,を愛させた。,made them love the,les hizo amar el
+narrator,は、たっぷりと かわいがられ、彼の躰から離れられなくなった。 それは、はみにも逆らえない事を意味していた。,The Hami was pampered so much that she could not leave his body. It meant that Hami could not disobey him either.,Los Hami fueron mimados tanto que no pudieron abandonar su cuerpo. Eso significaba que Hami tampoco podía desafiarlo.
+__system__??,},,
+__system__??,{●ＥＸ = 4:,,
+narrator,リンダは夜のブリキ兵に命じて、,Linda ordered the Tin Soldiers of the Night to,Linda ordenó a los soldaditos de plomo nocturnos
+narrator,を愛させた。,made them love the,les hizo amar el
+narrator,は、たっぷりと かわいがられ、彼の躰から離れられなくなった。 それは、リンダにも逆らえない事を意味していた。,She was pampered so much that she could not leave his body. It meant that Linda could not disobey him either.,fue mimada tanto que fue incapaz de abandonar su cuerpo. Eso significaba que Linda tampoco podía resistirse a él.
+__system__??,},,
+__system__??,{●ＥＸ = 5:,,
+ (talking),……今だけ性格ちぇ~んじ。えいっ。,…… personality-ch~nji just now. Eeeee.,…… personalidad-cheer-sólo. Eiii.
+narrator,由女──いや、Ａ１号は妖しく微笑んで、,"Yume──No, A1 smiles bewitchingly and","Yume──No, A1 sonrió de forma hechizante y"
+narrator,を抱き寄せた。,He embraced the,abrazado.
+narrator,"は、Ａ１号にたっぷりと かわいがられ、彼女の躰から離れられなくなった。
 もちろん由女は、 Ａ１号が何をしたのかまるで知らない。","Yume was so much loved by A1 that he could not leave her body.
 Of course, Yume had no idea what A1 had done.","La Yume fue tan mimada por A1 que no pudo alejarse de su cuerpo.
 Por supuesto, Yume no tenía ni idea de lo que había hecho A1."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 6:","",""
-"narrator","大王様は、","The Great One is.","El Gran Señor."
-"narrator","を抱き寄せた。","He embraced the","abrazado."
-"narrator","は、大王様にたっぷりと かわいがられ、彼の躰から離れられなくなった。","The king was so fond of the little girl that she was unable to leave his body.","El rey estaba tan encariñado con ella que era incapaz de abandonar su cuerpo."
-"daiousama (talking)","んん~せしぼ~ん。","Nn~seshibo~n.","Nn~sebo~n."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 2:","",""
-"narrator","は、こます必要がない。","is no need to rub it in.","no necesita ser jorobado."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 3:","",""
-"narrator","は、こます必要がない。","is no need to rub it in.","no necesita ser jorobado."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 4:","",""
-"narrator","は、こます必要がない。","is no need to rub it in.","no necesita ser jorobado."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 5:","",""
-"narrator","は、こます必要がない。","is no need to rub it in.","no necesita ser jorobado."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 6:","",""
-"narrator","は、こます必要がない。","is no need to rub it in.","no necesita ser jorobado."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 2:","",""
-"narrator","は、 悪司が渡した金を受け取った。","received the money given by Akuji.","recibió el dinero entregado por Akuji."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 3:","",""
-"narrator","は、 はみが渡した金を受け取った。","received the money given by Hami.","recibió el dinero entregado por Hami."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 4:","",""
-"narrator","は、 リンダが渡した金を受け取った。","received the money given by Linda.","recibió el dinero entregado por Linda."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 5:","",""
-"narrator","は、 由女が渡した金を受け取った。","received the money given by Yume.","recibió el dinero entregado por Yume."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 6:","",""
-"narrator","は、 大王様が渡した金を受け取った。","received the money given by the Great King.","recibió el dinero entregado por el Gran Rey."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 2:","",""
-"daiousama (talking)","これ、いるか？","Do you want this?","¿Quieres esto?"
-"narrator","は、受け取った。 少しうれしそうな気がする。","received. He seems a little happy.","ha recibido. Parece un poco feliz."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 3:","",""
-"daiousama (talking)","食べる？","Want some?","¿Comer?"
-"narrator","は、受け取った。 少しうれしそうな気がする。","received. He seems a little happy.","ha recibido. Parece un poco feliz."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 4:","",""
-"daiousama (talking)","食べまちゅか？","Would you like some?","¿Quieres un poco?"
-"narrator","は、受け取った。 少しうれしそうな気がする。","received. He seems a little happy.","ha recibido. Parece un poco feliz."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 5:","",""
-"daiousama (talking)","ええと……これ、食べる？","Let's see……… Do you want some of this?","Veamos…… ¿Quieres un poco de esto?"
-"narrator","は、受け取った。 少しうれしそうな気がする。","received. He seems a little happy.","ha recibido. Parece un poco feliz."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 6:","",""
-"daiousama (talking)","んん~~。 お食べになりますか~？","Mmm~. Would you like to eat~?","Mmm~. ¿Quieres comer?"
-"narrator","は、受け取った。 少しうれしそうな気がする。","received. He seems a little happy.","ha recibido. Parece un poco feliz."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 2:","",""
-"narrator","捕虜となっている","He is a prisoner of war.","Prisioneros de guerra."
-"narrator","が、連れてこられた。","was brought in.","fueron traídos."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 3:","",""
-"narrator","捕虜となっている","He is a prisoner of war.","Prisioneros de guerra."
-"narrator","が、連れてこられた。","was brought in.","fueron traídos."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 4:","",""
-"narrator","捕虜となっている","He is a prisoner of war.","Prisioneros de guerra."
-"narrator","が、連れてこられた。","was brought in.","fueron traídos."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 5:","",""
-"narrator","捕虜となっている","He is a prisoner of war.","Prisioneros de guerra."
-"narrator","が、連れてこられた。","was brought in.","fueron traídos."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 6:","",""
-"narrator","捕虜となっている","He is a prisoner of war.","Prisioneros de guerra."
-"narrator","が、連れてこられた。","was brought in.","fueron traídos."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 2:","",""
-" (talking)","来い。","Come.","Ven."
-"narrator","悪司は、捕虜をベッドルームに連れていった。","Akuji took the POW to the bedroom.","Akuji llevó a los prisioneros de guerra al dormitorio."
-"narrator","は、悪司に 徹底的にこまされた。","was thoroughly played by Akuji.","fueron completamente humillados por Akuji."
-" (talking)","。 俺の部下になれ。 いいな。","You are my subordinate. Be my man. You'll be my subordinate.","Sé mi hombre. Muy bien."
-"narrator","悪司は、","Akuji is a","Akuji es un"
-"narrator","をじっと見つめそして 軽く抱き寄せると唇を奪った。","He stared at her, and then lightly hugged her and took her lips.","La miró fijamente, y luego la abrazó ligeramente y tomó sus labios."
-" (talking)","……………はい……","…………… yes ……","…………… sí ……"
-"narrator","もう悪司から逃れられない。","You can't escape Akuji anymore.","Ya no puedes escapar de Akuji."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 3:","",""
-" (talking)","やっちゃえ~。 ばきゅーん。","Let's do it! Bakyuu!","Hagámoslo~. Bakyun."
-"narrator","高山ゴルゴは、 捕虜をベッドルームに連れていった。","Takayama Golgo took the POWs to the bedroom.","Takayama Golgo llevó a los prisioneros de guerra al dormitorio."
-"narrator","は、高山ゴルゴに 徹底的にこまされた。","was thoroughly shoddied by Takayama Golgo.","fue completamente komatizado por Takayama Golgo."
-" (talking)","。 はみの部下になってね。 でないと、撃っちゃうぞ☆","Hami. Become Hami's subordinate. If you don't, I'll shoot you.☆","Hami. Debes convertirte en el hombre de Hami. Si no, te dispararé.☆"
-"narrator","はみは、","Hami is a","Hami es."
-"narrator","をじっと見つめそして 鉄砲を突きつけた。","He stared at the “Mere Old Man,” and then he pulled a gun on him.","y luego les apuntó con un arma."
-" (talking)","……………はい……","…………… yes ……","…………… sí ……"
-"narrator","もうはみから逃れられない。","You can't escape Hami anymore.","Ya no puedes escapar de Hami."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 4:","",""
-" (talking)","やりなちゃい。","Do it.","Hazlo."
-"narrator","夜のブリキ兵は、 捕虜をベッドルームに連れていった。","The night tinkerer took the captive to his bedroom.","Los caldereros nocturnos llevaron a los prisioneros de guerra a sus dormitorios."
-"narrator","は、夜のブリキ兵に 徹底的にこまされた。","was thoroughly komaed by the tin soldiers of the night.","fue peinado a fondo por los soldados de plomo de la noche."
-" (talking)","。 ＰＭに平伏しなちゃい。","I'm not sure what you mean. Bow down to the PM.","PM. Deberías inclinarte ante la PM."
-"narrator","リンダは、","Linda is the name of the","Linda es el nombre de la"
-"narrator","を 上から見下ろした。","from above.","desde arriba."
-" (talking)","……………はい……","…………… yes ……","…………… sí ……"
-"narrator","もうリンダから逃れられない。","You can't escape Linda anymore.","Ya no puedes escapar de Linda."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 5:","",""
-" (talking)","……今だけ性格ちぇ~んじ。えいっ。","…… personality-ch~nji just now. Eeeee.","…… personalidad-cheer-sólo. Eiii."
-"Yume (talking)","…………くすっ…… さ、あっち行こうよ……ね？","Let's go that way………… Kusu…… Come on, let's go that way ……, okay?","………… sms…… Venga, vamos por ahí…… ¿eh?"
-"narrator","由女──いや、Ａ１号は、 捕虜をベッドルームに連れていった。","Yume──No, A1 took the POW to the bedroom.","Yume──No, A1 llevó a los prisioneros de guerra al dormitorio."
-"narrator","は、 Ａ１号と何度も愛し合った。","made love to A1 many times.","hizo el amor con A1 en varias ocasiones."
-"Yume (talking)","…………………… あ、あれ……私、何してたのかな……
+__system__??,},,
+__system__??,{●ＥＸ = 6:,,
+narrator,大王様は、,The Great One is.,El Gran Señor.
+narrator,を抱き寄せた。,He embraced the,abrazado.
+narrator,は、大王様にたっぷりと かわいがられ、彼の躰から離れられなくなった。,The king was so fond of the little girl that she was unable to leave his body.,El rey estaba tan encariñado con ella que era incapaz de abandonar su cuerpo.
+daiousama (talking),んん~せしぼ~ん。,Nn~seshibo~n.,Nn~sebo~n.
+__system__??,},,
+__system__??,{●ＥＸ = 2:,,
+narrator,は、こます必要がない。,is no need to rub it in.,no necesita ser jorobado.
+__system__??,},,
+__system__??,{●ＥＸ = 3:,,
+narrator,は、こます必要がない。,is no need to rub it in.,no necesita ser jorobado.
+__system__??,},,
+__system__??,{●ＥＸ = 4:,,
+narrator,は、こます必要がない。,is no need to rub it in.,no necesita ser jorobado.
+__system__??,},,
+__system__??,{●ＥＸ = 5:,,
+narrator,は、こます必要がない。,is no need to rub it in.,no necesita ser jorobado.
+__system__??,},,
+__system__??,{●ＥＸ = 6:,,
+narrator,は、こます必要がない。,is no need to rub it in.,no necesita ser jorobado.
+__system__??,},,
+__system__??,{●ＥＸ = 2:,,
+narrator,は、 悪司が渡した金を受け取った。,received the money given by Akuji.,recibió el dinero entregado por Akuji.
+__system__??,},,
+__system__??,{●ＥＸ = 3:,,
+narrator,は、 はみが渡した金を受け取った。,received the money given by Hami.,recibió el dinero entregado por Hami.
+__system__??,},,
+__system__??,{●ＥＸ = 4:,,
+narrator,は、 リンダが渡した金を受け取った。,received the money given by Linda.,recibió el dinero entregado por Linda.
+__system__??,},,
+__system__??,{●ＥＸ = 5:,,
+narrator,は、 由女が渡した金を受け取った。,received the money given by Yume.,recibió el dinero entregado por Yume.
+__system__??,},,
+__system__??,{●ＥＸ = 6:,,
+narrator,は、 大王様が渡した金を受け取った。,received the money given by the Great King.,recibió el dinero entregado por el Gran Rey.
+__system__??,},,
+__system__??,{●ＥＸ = 2:,,
+daiousama (talking),これ、いるか？,Do you want this?,¿Quieres esto?
+narrator,は、受け取った。 少しうれしそうな気がする。,received. He seems a little happy.,ha recibido. Parece un poco feliz.
+__system__??,},,
+__system__??,{●ＥＸ = 3:,,
+daiousama (talking),食べる？,Want some?,¿Comer?
+narrator,は、受け取った。 少しうれしそうな気がする。,received. He seems a little happy.,ha recibido. Parece un poco feliz.
+__system__??,},,
+__system__??,{●ＥＸ = 4:,,
+daiousama (talking),食べまちゅか？,Would you like some?,¿Quieres un poco?
+narrator,は、受け取った。 少しうれしそうな気がする。,received. He seems a little happy.,ha recibido. Parece un poco feliz.
+__system__??,},,
+__system__??,{●ＥＸ = 5:,,
+daiousama (talking),ええと……これ、食べる？,Let's see……… Do you want some of this?,Veamos…… ¿Quieres un poco de esto?
+narrator,は、受け取った。 少しうれしそうな気がする。,received. He seems a little happy.,ha recibido. Parece un poco feliz.
+__system__??,},,
+__system__??,{●ＥＸ = 6:,,
+daiousama (talking),んん~~。 お食べになりますか~？,Mmm~. Would you like to eat~?,Mmm~. ¿Quieres comer?
+narrator,は、受け取った。 少しうれしそうな気がする。,received. He seems a little happy.,ha recibido. Parece un poco feliz.
+__system__??,},,
+__system__??,{●ＥＸ = 2:,,
+narrator,捕虜となっている,He is a prisoner of war.,Prisioneros de guerra.
+narrator,が、連れてこられた。,was brought in.,fueron traídos.
+__system__??,},,
+__system__??,{●ＥＸ = 3:,,
+narrator,捕虜となっている,He is a prisoner of war.,Prisioneros de guerra.
+narrator,が、連れてこられた。,was brought in.,fueron traídos.
+__system__??,},,
+__system__??,{●ＥＸ = 4:,,
+narrator,捕虜となっている,He is a prisoner of war.,Prisioneros de guerra.
+narrator,が、連れてこられた。,was brought in.,fueron traídos.
+__system__??,},,
+__system__??,{●ＥＸ = 5:,,
+narrator,捕虜となっている,He is a prisoner of war.,Prisioneros de guerra.
+narrator,が、連れてこられた。,was brought in.,fueron traídos.
+__system__??,},,
+__system__??,{●ＥＸ = 6:,,
+narrator,捕虜となっている,He is a prisoner of war.,Prisioneros de guerra.
+narrator,が、連れてこられた。,was brought in.,fueron traídos.
+__system__??,},,
+__system__??,{●ＥＸ = 2:,,
+ (talking),来い。,Come.,Ven.
+narrator,悪司は、捕虜をベッドルームに連れていった。,Akuji took the POW to the bedroom.,Akuji llevó a los prisioneros de guerra al dormitorio.
+narrator,は、悪司に 徹底的にこまされた。,was thoroughly played by Akuji.,fueron completamente humillados por Akuji.
+ (talking),。 俺の部下になれ。 いいな。,You are my subordinate. Be my man. You'll be my subordinate.,Sé mi hombre. Muy bien.
+narrator,悪司は、,Akuji is a,Akuji es un
+narrator,をじっと見つめそして 軽く抱き寄せると唇を奪った。,"He stared at her, and then lightly hugged her and took her lips.","La miró fijamente, y luego la abrazó ligeramente y tomó sus labios."
+ (talking),……………はい……,…………… yes ……,…………… sí ……
+narrator,もう悪司から逃れられない。,You can't escape Akuji anymore.,Ya no puedes escapar de Akuji.
+__system__??,},,
+__system__??,{●ＥＸ = 3:,,
+ (talking),やっちゃえ~。 ばきゅーん。,Let's do it! Bakyuu!,Hagámoslo~. Bakyun.
+narrator,高山ゴルゴは、 捕虜をベッドルームに連れていった。,Takayama Golgo took the POWs to the bedroom.,Takayama Golgo llevó a los prisioneros de guerra al dormitorio.
+narrator,は、高山ゴルゴに 徹底的にこまされた。,was thoroughly shoddied by Takayama Golgo.,fue completamente komatizado por Takayama Golgo.
+ (talking),。 はみの部下になってね。 でないと、撃っちゃうぞ☆,"Hami. Become Hami's subordinate. If you don't, I'll shoot you.☆","Hami. Debes convertirte en el hombre de Hami. Si no, te dispararé.☆"
+narrator,はみは、,Hami is a,Hami es.
+narrator,をじっと見つめそして 鉄砲を突きつけた。,"He stared at the “Mere Old Man,” and then he pulled a gun on him.",y luego les apuntó con un arma.
+ (talking),……………はい……,…………… yes ……,…………… sí ……
+narrator,もうはみから逃れられない。,You can't escape Hami anymore.,Ya no puedes escapar de Hami.
+__system__??,},,
+__system__??,{●ＥＸ = 4:,,
+ (talking),やりなちゃい。,Do it.,Hazlo.
+narrator,夜のブリキ兵は、 捕虜をベッドルームに連れていった。,The night tinkerer took the captive to his bedroom.,Los caldereros nocturnos llevaron a los prisioneros de guerra a sus dormitorios.
+narrator,は、夜のブリキ兵に 徹底的にこまされた。,was thoroughly komaed by the tin soldiers of the night.,fue peinado a fondo por los soldados de plomo de la noche.
+ (talking),。 ＰＭに平伏しなちゃい。,I'm not sure what you mean. Bow down to the PM.,PM. Deberías inclinarte ante la PM.
+narrator,リンダは、,Linda is the name of the,Linda es el nombre de la
+narrator,を 上から見下ろした。,from above.,desde arriba.
+ (talking),……………はい……,…………… yes ……,…………… sí ……
+narrator,もうリンダから逃れられない。,You can't escape Linda anymore.,Ya no puedes escapar de Linda.
+__system__??,},,
+__system__??,{●ＥＸ = 5:,,
+ (talking),……今だけ性格ちぇ~んじ。えいっ。,…… personality-ch~nji just now. Eeeee.,…… personalidad-cheer-sólo. Eiii.
+Yume (talking),…………くすっ…… さ、あっち行こうよ……ね？,"Let's go that way………… Kusu…… Come on, let's go that way ……, okay?","………… sms…… Venga, vamos por ahí…… ¿eh?"
+narrator,由女──いや、Ａ１号は、 捕虜をベッドルームに連れていった。,"Yume──No, A1 took the POW to the bedroom.","Yume──No, A1 llevó a los prisioneros de guerra al dormitorio."
+narrator,は、 Ａ１号と何度も愛し合った。,made love to A1 many times.,hizo el amor con A1 en varias ocasiones.
+Yume (talking),"…………………… あ、あれ……私、何してたのかな……
  ……あの、","…………………… Oh, that… …what was I doing ………… Um…","…………………… Oh, eso… …¿qué estaba haciendo? ………… Um…"
-"Yume (talking)","さん。 那古教に入信してくれませんか……？","Mr.. Would you join Nakokyou ……?","Sr.. ¿Te unirías a Nakokyou ……?"
-"narrator","由女は","Yume is","Yume es."
-"narrator","をじっと見つめ、 はにかみながらお願いした。","He stared at the “Mere Old Man” and asked him to do something for him.","La mujer le miró fijamente y le pidió que hiciera algo por ella."
-" (talking)","は……はいっ、喜んで！！","Ha…… with pleasure!","Ha…… ¡Sí, con mucho gusto!"
-"narrator","もう由女から逃れられない。","You can't escape Yume anymore.","Ya no puedes escapar de Yume."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 6:","",""
-"Yume (talking)","んん~~夢の世界へ~。","mmm~~ into the world of dreams~!","Mmm - ¡al mundo de los sueños!"
-"narrator","大王様は、捕虜をベッドルームに連れていった。","The Great King took the captive to his bedroom.","El Gran Rey llevó al prisionero a su dormitorio."
-"narrator","は、大王様に 徹底的に洗脳された。","was thoroughly brainwashed by the Great One.","le lavó el cerebro a fondo el Grande."
-"Yume (talking)","~。 あなたは私の部下ですよ~。","~You are my man~! You are my subordinate~.","~Tú eres mi hombre~. Eres mi subordinado~."
-"narrator","大王様は、","The Great One is.","El Gran Señor."
-"narrator","をじっと見つめ そして目から電波を発した。","He stared at the Denpa and emitted a Denpa from his eyes.","Miró fijamente al Denpa y emitió un Denpa de sus ojos."
-" (talking)","……………はい……","…………… yes ……","…………… sí ……"
-"narrator","もう大王様から逃れられない。","You can no longer escape the Great One.","Ya no puedes escapar del Grande."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 2:","",""
-"Yume (talking)","来い。","Come.","Ven."
-"narrator","悪司は、捕虜をベッドルームに連れていった。
+Yume (talking),さん。 那古教に入信してくれませんか……？,Mr.. Would you join Nakokyou ……?,Sr.. ¿Te unirías a Nakokyou ……?
+narrator,由女は,Yume is,Yume es.
+narrator,をじっと見つめ、 はにかみながらお願いした。,He stared at the “Mere Old Man” and asked him to do something for him.,La mujer le miró fijamente y le pidió que hiciera algo por ella.
+ (talking),は……はいっ、喜んで！！,Ha…… with pleasure!,"Ha…… ¡Sí, con mucho gusto!"
+narrator,もう由女から逃れられない。,You can't escape Yume anymore.,Ya no puedes escapar de Yume.
+__system__??,},,
+__system__??,{●ＥＸ = 6:,,
+Yume (talking),んん~~夢の世界へ~。,mmm~~ into the world of dreams~!,Mmm - ¡al mundo de los sueños!
+narrator,大王様は、捕虜をベッドルームに連れていった。,The Great King took the captive to his bedroom.,El Gran Rey llevó al prisionero a su dormitorio.
+narrator,は、大王様に 徹底的に洗脳された。,was thoroughly brainwashed by the Great One.,le lavó el cerebro a fondo el Grande.
+Yume (talking),~。 あなたは私の部下ですよ~。,~You are my man~! You are my subordinate~.,~Tú eres mi hombre~. Eres mi subordinado~.
+narrator,大王様は、,The Great One is.,El Gran Señor.
+narrator,をじっと見つめ そして目から電波を発した。,He stared at the Denpa and emitted a Denpa from his eyes.,Miró fijamente al Denpa y emitió un Denpa de sus ojos.
+ (talking),……………はい……,…………… yes ……,…………… sí ……
+narrator,もう大王様から逃れられない。,You can no longer escape the Great One.,Ya no puedes escapar del Grande.
+__system__??,},,
+__system__??,{●ＥＸ = 2:,,
+Yume (talking),来い。,Come.,Ven.
+narrator,"悪司は、捕虜をベッドルームに連れていった。
 悪司は、","Akuji took the POW to the bedroom.
 Akuji took the","Akuji llevó a los prisioneros de guerra al dormitorio.
 Akuji era."
-"narrator","が 逃げられないように徹底的にこました。","The company was thoroughly prepared to make sure that the “Mere Old Man” would not be able to run away.","El Gobierno ha hecho un gran esfuerzo para garantizar que el"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 3:","",""
-"Yume (talking)","やっちゃってー。 あはははは。","I did it. Ha-ha-ha-ha.","¡Lo hice! Ha-ha-ha-ha."
-"narrator","高山ゴルゴは、捕虜をベッドルームに 連れていった。
+narrator,が 逃げられないように徹底的にこました。,The company was thoroughly prepared to make sure that the “Mere Old Man” would not be able to run away.,El Gobierno ha hecho un gran esfuerzo para garantizar que el
+__system__??,},,
+__system__??,{●ＥＸ = 3:,,
+Yume (talking),やっちゃってー。 あはははは。,I did it. Ha-ha-ha-ha.,¡Lo hice! Ha-ha-ha-ha.
+narrator,"高山ゴルゴは、捕虜をベッドルームに 連れていった。
 高山ゴルゴは、","Takayama Golgo took the POW to the bedroom.
 Takayama Golgo took the","Takayama Golgo llevó al prisionero de guerra a su dormitorio.
 Takayama Golgo tomó el"
-"narrator","が 逃げられないように徹底的にこました。","The company was thoroughly prepared to make sure that the “Mere Old Man” would not be able to run away.","El Gobierno ha hecho un gran esfuerzo para garantizar que el"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 4:","",""
-"Yume (talking)","やっちゃってくだちゃい。","Go ahead and do it.","Hazlo, hazlo, hazlo."
-"narrator","夜のブリキ兵は、捕虜をベッドルームに 連れていった。
+narrator,が 逃げられないように徹底的にこました。,The company was thoroughly prepared to make sure that the “Mere Old Man” would not be able to run away.,El Gobierno ha hecho un gran esfuerzo para garantizar que el
+__system__??,},,
+__system__??,{●ＥＸ = 4:,,
+Yume (talking),やっちゃってくだちゃい。,Go ahead and do it.,"Hazlo, hazlo, hazlo."
+narrator,"夜のブリキ兵は、捕虜をベッドルームに 連れていった。
 夜のブリキ兵は、","The night tinkerer took the POWs to the bedroom.
 The night Tin Soldier was","Los soldaditos de plomo nocturnos llevaron a los prisioneros de guerra a sus habitaciones.
 Los soldaditos de plomo nocturnos eran."
-"narrator","が 逃げられないように徹底的にこました。","The company was thoroughly prepared to make sure that the “Mere Old Man” would not be able to run away.","El Gobierno ha hecho un gran esfuerzo para garantizar que el"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 5:","",""
-"Yume (talking)","……今だけ性格ちぇ~んじ。えいっ。","…… personality-ch~nji just now. Eeeee.","…… personalidad-cheer-sólo. Eiii."
-"Yume (talking)","…………くすっ…… ちょっとだけ、こっちに来てくれる？ うん、ちょっとだけ……","Can you come over here for a minute?………… smth…… Yeah, just a little bit……","¿Puedes venir aquí un minuto,………… smth ……? Sí, sólo un poco……"
-"narrator","由女──いや、Ａ１号は、 捕虜をベッドルームに連れていった。
+narrator,が 逃げられないように徹底的にこました。,The company was thoroughly prepared to make sure that the “Mere Old Man” would not be able to run away.,El Gobierno ha hecho un gran esfuerzo para garantizar que el
+__system__??,},,
+__system__??,{●ＥＸ = 5:,,
+Yume (talking),……今だけ性格ちぇ~んじ。えいっ。,…… personality-ch~nji just now. Eeeee.,…… personalidad-cheer-sólo. Eiii.
+Yume (talking),…………くすっ…… ちょっとだけ、こっちに来てくれる？ うん、ちょっとだけ……,"Can you come over here for a minute?………… smth…… Yeah, just a little bit……","¿Puedes venir aquí un minuto,………… smth ……? Sí, sólo un poco……"
+narrator,"由女──いや、Ａ１号は、 捕虜をベッドルームに連れていった。
 Ａ１号は、","A1 took the POWs to the bedroom.
 A1 was Yume.","Yume - no, A1 llevó a los prisioneros de guerra al dormitorio.
 No. La A1 lo era."
-"narrator","を 優しく、温かく愛してやった。","I loved him tenderly and warmly.","Lo amé con dulzura y calidez."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 6:","",""
-"Yume (talking)","んん~~。 行くで~す。","Mmm~. I'm going.","Mmm~. Me voy~."
-"narrator","大王様は、捕虜をベッドルームに 連れていった。
+narrator,を 優しく、温かく愛してやった。,I loved him tenderly and warmly.,Lo amé con dulzura y calidez.
+__system__??,},,
+__system__??,{●ＥＸ = 6:,,
+Yume (talking),んん~~。 行くで~す。,Mmm~. I'm going.,Mmm~. Me voy~.
+narrator,"大王様は、捕虜をベッドルームに 連れていった。
 大王様は、","The Great Pumpkin took the prisoner to his bedroom.
 The Great King was","El Gran Rey llevó al prisionero a su dormitorio.
 El Gran Rey era."
-"narrator","が 逃げられないように徹底的にこました。","The company was thoroughly prepared to make sure that the “Mere Old Man” would not be able to run away.","El Gobierno ha hecho un gran esfuerzo para garantizar que el"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 2:","",""
-"Yume (talking)","俺の組織に入れ。 それなりの待遇は約束するぜ。","Join my organization. I promise you will be treated well.","Únase a mi organización. Te prometo que te tratarán bien."
-" (talking)","わかりました…","Okay…","Entiendo…"
-"Yume (talking)","よし、これからは仲良くやろう。 但し、裏切ったら…… わかっているな？","All right, we'll get along from now on. However, if you betray us,…… you understand?","Muy bien, nos llevaremos bien a partir de ahora. Sin embargo, si nos traicionas,…… ¿lo entiendes?"
-"narrator","は、 山本組に入る事を承諾した。","has agreed to join the Yamamoto group.","aceptó unirse al grupo Yamamoto."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 3:","",""
-"Yume (talking)","はみの仲間になって。 ね、いいでしょ？","Become a member of Hami. Hey, it's good, right?","Hazte miembro de Hami. Oye, es bueno, ¿no?"
-" (talking)","わかりました…","Okay…","Entiendo…"
-"Yume (talking)","わーい嬉しいな。 でも裏切ったら 撃ち殺しちゃうからね。","I'm so happy. But if you betray me, I'll shoot you Satsu.","Me alegro mucho por ti. Pero si me traicionas, te dispararé Satsu."
-"narrator","は、 高山組に入る事を承諾した。","has agreed to join the Takayama group.","aceptó unirse al grupo Takayama."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 4:","",""
-"Yume (talking)","ＰＭに入なちゃい。 いいでちゅわね？","Enter PM. Okay?","Entra en PM. ¿De acuerdo?"
-" (talking)","わかりました…","Okay…","Entiendo…"
-"Yume (talking)","裏切ったらちゅるしまちゅよ。","If you betray me, I will betray you.","Si me traicionas, yo te traicionaré."
-"narrator","は、 ＰＭに入る事を承諾した。","has agreed to join PM.","aceptó entrar en el PM."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 5:","",""
-"Yume (talking)","お願いです、教団に協力して下さい。 あなたの力が必要なんです……","Please, please help the Order. We need your help……","Por favor, ayude a la Orden. Necesitamos tu ayuda……"
-" (talking)","わかりました…","Okay…","Entiendo…"
-"Yume (talking)","わあっ……良かった！！ これからよろしくお願いしますね！","Wow…… good for you! I look forward to working with you from now on!","¡Wow…… bueno! Estaré encantado de trabajar con ustedes a partir de ahora."
-"narrator","は、 那古教に入信する事を承諾した。","has agreed to join Nakokyou.","aceptó unirse a Nakokyou."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 6:","",""
-"Yume (talking)","私の組に入ってくださ~い。","Please join my group~.","Por favor, únase a mi grupo."
-" (talking)","わかりました…","Okay…","Entiendo…"
-"Yume (talking)","ありがとうございま~す。 但し、裏切ったその時は、電波の 餌食ですよ~。","Thank you very much. However, if you betray us, you will be preyed upon by Denpa!","Muchas gracias. Sin embargo, si nos traicionas, serás la presa de Denpa."
-"narrator","は、 火星侵攻組に入る事を承諾した。","has agreed to join the Mars Invasion Team.","aceptó unirse al Equipo de Invasión de Marte."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 2:","",""
-"Yume (thinking)","うまく部下に出来たらもうけものだ。 始末するだけが能じゃないからな。","If you can make a successful subordinate, you'll make a profit. It's not just about getting rid of it.","Si puede hacer un subordinado exitoso, obtendrá ganancias. No se trata solo de deshacerse de él."
-"narrator","悪司は、","Akuji is a","Akuji es un"
-"narrator","を懐柔した。","The company missed the","La empresa se ha mostrado nostálgica por la"
-" (talking)","……………………","……………………","……………………"
-"Yume (thinking)","少しは、効果があったかな？","Did it help a little?","¿Ayudó un poco?"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 3:","",""
-"Yume (talking)","ねえねえ、あのねー。","Hey, hey, you know what?","Oye, oye, ¿sabes qué?"
-"narrator","はみは、","Hami is a","Hami es."
-"narrator","を懐柔した。","The company missed the","La empresa se ha mostrado nostálgica por la"
-" (talking)","……………………","……………………","……………………"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 4:","",""
-"Yume (talking)","いいでちゅか、あたちの話を ちっかり聞きなちゃい。","Listen to us for a minute.","Escúchanos un momento."
-"narrator","リンダは、","Linda is the name of the","Linda es el nombre de la"
-"narrator","を懐柔した。","The company missed the","La empresa se ha mostrado nostálgica por la"
-" (talking)","……………………","……………………","……………………"
-"Yume (talking)","以上でちゅ。 考えてくだちゃいね。","That's all. Please think about it.","Eso es todo. Por favor, piénsalo."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 5:","",""
-"Yume (talking)","あの、少しだけお時間頂けます？ 話したい事があって……","Um, can you give me a few minutes of your time? I have something I wanted to talk to you about……","¿Puedo tener unos minutos de su tiempo? Quería hablarte de algo……"
-"narrator","由女は、","Yume is a","Yume es."
-"narrator","を懐柔した。","The company missed the","La empresa se ha mostrado nostálgica por la"
-" (talking)","……………………","……………………","……………………"
-"Yume (talking)","あの、本当に、 無理に入信しろとは言いませんから……","Um, really, I'm not forcing you to join ……","Um, de verdad, no te estoy obligando a unirte a ……"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 6:","",""
-"Yume (talking)","マ~ベラ~ス。 せしぼ~ん","Ma~bera~s. The backbone of the world~!","Ma~bera~s. La columna vertebral del mundo"
-"narrator","大王様は、","The Great One is.","El Gran Señor."
-"narrator","を懐柔した。","The company missed the","La empresa se ha mostrado nostálgica por la"
-" (talking)","……………………","……………………","……………………"
-"Yume (talking)","んん~~。 ジュデ~~ム。","Mmm~. Jude~m.","Mmm~. Jude~m."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 2:","",""
-"Yume (talking)","お前、死刑。","You, death penalty.","Tú, pena de muerte."
-"narrator","　","　","　"
-"narrator","は、処刑された。 　死体はオオサカ湾の底。","was executed. 　The body is at the bottom of Osaca Bay.","fue ejecutado. 　El cuerpo está en el fondo de la bahía de Osaka."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 3:","",""
-"Yume (talking)","死んじゃえー。 ばきゅーん　ばきゅーん。","Let's die! Bakyuu, bakyuu, bakyuu.","¡Moriremos! Bakki-kun bakki-kun."
-"narrator","　","　","　"
-"narrator","は、処刑された。 　死体はオオサカ湾の底。","was executed. 　The body is at the bottom of Osaca Bay.","fue ejecutado. 　El cuerpo está en el fondo de la bahía de Osaka."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 4:","",""
-"Yume (talking)","ちゅるちぇ！！","Churuchie!!!","¡Churuch!"
-"narrator","　","　","　"
-"narrator","は、処刑された。 　死体はオオサカ湾の底。","was executed. 　The body is at the bottom of Osaca Bay.","fue ejecutado. 　El cuerpo está en el fondo de la bahía de Osaka."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 5:","",""
-"Yume (talking)","……えっ？　始末しろって？ だ、だってそれ、まさか……","……Huh? You say you should get rid of it? But, I guess that's……","……¿Eh? ¿Dices que deberías deshacerte de eso? Pero, supongo que eso es……"
-"narrator","　","　","　"
-"narrator","は、処刑された。 　死体はオオサカ湾の底。","was executed. 　The body is at the bottom of Osaca Bay.","fue ejecutado. 　El cuerpo está en el fondo de la bahía de Osaka."
-"Yume (talking)","……………………
+narrator,が 逃げられないように徹底的にこました。,The company was thoroughly prepared to make sure that the “Mere Old Man” would not be able to run away.,El Gobierno ha hecho un gran esfuerzo para garantizar que el
+__system__??,},,
+__system__??,{●ＥＸ = 2:,,
+Yume (talking),俺の組織に入れ。 それなりの待遇は約束するぜ。,Join my organization. I promise you will be treated well.,Únase a mi organización. Te prometo que te tratarán bien.
+ (talking),わかりました…,Okay…,Entiendo…
+Yume (talking),よし、これからは仲良くやろう。 但し、裏切ったら…… わかっているな？,"All right, we'll get along from now on. However, if you betray us,…… you understand?","Muy bien, nos llevaremos bien a partir de ahora. Sin embargo, si nos traicionas,…… ¿lo entiendes?"
+narrator,は、 山本組に入る事を承諾した。,has agreed to join the Yamamoto group.,aceptó unirse al grupo Yamamoto.
+__system__??,},,
+__system__??,{●ＥＸ = 3:,,
+Yume (talking),はみの仲間になって。 ね、いいでしょ？,"Become a member of Hami. Hey, it's good, right?","Hazte miembro de Hami. Oye, es bueno, ¿no?"
+ (talking),わかりました…,Okay…,Entiendo…
+Yume (talking),わーい嬉しいな。 でも裏切ったら 撃ち殺しちゃうからね。,"I'm so happy. But if you betray me, I'll shoot you Satsu.","Me alegro mucho por ti. Pero si me traicionas, te dispararé Satsu."
+narrator,は、 高山組に入る事を承諾した。,has agreed to join the Takayama group.,aceptó unirse al grupo Takayama.
+__system__??,},,
+__system__??,{●ＥＸ = 4:,,
+Yume (talking),ＰＭに入なちゃい。 いいでちゅわね？,Enter PM. Okay?,Entra en PM. ¿De acuerdo?
+ (talking),わかりました…,Okay…,Entiendo…
+Yume (talking),裏切ったらちゅるしまちゅよ。,"If you betray me, I will betray you.","Si me traicionas, yo te traicionaré."
+narrator,は、 ＰＭに入る事を承諾した。,has agreed to join PM.,aceptó entrar en el PM.
+__system__??,},,
+__system__??,{●ＥＸ = 5:,,
+Yume (talking),お願いです、教団に協力して下さい。 あなたの力が必要なんです……,"Please, please help the Order. We need your help……","Por favor, ayude a la Orden. Necesitamos tu ayuda……"
+ (talking),わかりました…,Okay…,Entiendo…
+Yume (talking),わあっ……良かった！！ これからよろしくお願いしますね！,Wow…… good for you! I look forward to working with you from now on!,¡Wow…… bueno! Estaré encantado de trabajar con ustedes a partir de ahora.
+narrator,は、 那古教に入信する事を承諾した。,has agreed to join Nakokyou.,aceptó unirse a Nakokyou.
+__system__??,},,
+__system__??,{●ＥＸ = 6:,,
+Yume (talking),私の組に入ってくださ~い。,Please join my group~.,"Por favor, únase a mi grupo."
+ (talking),わかりました…,Okay…,Entiendo…
+Yume (talking),ありがとうございま~す。 但し、裏切ったその時は、電波の 餌食ですよ~。,"Thank you very much. However, if you betray us, you will be preyed upon by Denpa!","Muchas gracias. Sin embargo, si nos traicionas, serás la presa de Denpa."
+narrator,は、 火星侵攻組に入る事を承諾した。,has agreed to join the Mars Invasion Team.,aceptó unirse al Equipo de Invasión de Marte.
+__system__??,},,
+__system__??,{●ＥＸ = 2:,,
+Yume (thinking),うまく部下に出来たらもうけものだ。 始末するだけが能じゃないからな。,"If you can make a successful subordinate, you'll make a profit. It's not just about getting rid of it.","Si puede hacer un subordinado exitoso, obtendrá ganancias. No se trata solo de deshacerse de él."
+narrator,悪司は、,Akuji is a,Akuji es un
+narrator,を懐柔した。,The company missed the,La empresa se ha mostrado nostálgica por la
+ (talking),……………………,……………………,……………………
+Yume (thinking),少しは、効果があったかな？,Did it help a little?,¿Ayudó un poco?
+__system__??,},,
+__system__??,{●ＥＸ = 3:,,
+Yume (talking),ねえねえ、あのねー。,"Hey, hey, you know what?","Oye, oye, ¿sabes qué?"
+narrator,はみは、,Hami is a,Hami es.
+narrator,を懐柔した。,The company missed the,La empresa se ha mostrado nostálgica por la
+ (talking),……………………,……………………,……………………
+__system__??,},,
+__system__??,{●ＥＸ = 4:,,
+Yume (talking),いいでちゅか、あたちの話を ちっかり聞きなちゃい。,Listen to us for a minute.,Escúchanos un momento.
+narrator,リンダは、,Linda is the name of the,Linda es el nombre de la
+narrator,を懐柔した。,The company missed the,La empresa se ha mostrado nostálgica por la
+ (talking),……………………,……………………,……………………
+Yume (talking),以上でちゅ。 考えてくだちゃいね。,That's all. Please think about it.,"Eso es todo. Por favor, piénsalo."
+__system__??,},,
+__system__??,{●ＥＸ = 5:,,
+Yume (talking),あの、少しだけお時間頂けます？ 話したい事があって……,"Um, can you give me a few minutes of your time? I have something I wanted to talk to you about……",¿Puedo tener unos minutos de su tiempo? Quería hablarte de algo……
+narrator,由女は、,Yume is a,Yume es.
+narrator,を懐柔した。,The company missed the,La empresa se ha mostrado nostálgica por la
+ (talking),……………………,……………………,……………………
+Yume (talking),あの、本当に、 無理に入信しろとは言いませんから……,"Um, really, I'm not forcing you to join ……","Um, de verdad, no te estoy obligando a unirte a ……"
+__system__??,},,
+__system__??,{●ＥＸ = 6:,,
+Yume (talking),マ~ベラ~ス。 せしぼ~ん,Ma~bera~s. The backbone of the world~!,Ma~bera~s. La columna vertebral del mundo
+narrator,大王様は、,The Great One is.,El Gran Señor.
+narrator,を懐柔した。,The company missed the,La empresa se ha mostrado nostálgica por la
+ (talking),……………………,……………………,……………………
+Yume (talking),んん~~。 ジュデ~~ム。,Mmm~. Jude~m.,Mmm~. Jude~m.
+__system__??,},,
+__system__??,{●ＥＸ = 2:,,
+Yume (talking),お前、死刑。,"You, death penalty.","Tú, pena de muerte."
+narrator,　,　,　
+narrator,は、処刑された。 　死体はオオサカ湾の底。,was executed. 　The body is at the bottom of Osaca Bay.,fue ejecutado. 　El cuerpo está en el fondo de la bahía de Osaka.
+__system__??,},,
+__system__??,{●ＥＸ = 3:,,
+Yume (talking),死んじゃえー。 ばきゅーん　ばきゅーん。,"Let's die! Bakyuu, bakyuu, bakyuu.",¡Moriremos! Bakki-kun bakki-kun.
+narrator,　,　,　
+narrator,は、処刑された。 　死体はオオサカ湾の底。,was executed. 　The body is at the bottom of Osaca Bay.,fue ejecutado. 　El cuerpo está en el fondo de la bahía de Osaka.
+__system__??,},,
+__system__??,{●ＥＸ = 4:,,
+Yume (talking),ちゅるちぇ！！,Churuchie!!!,¡Churuch!
+narrator,　,　,　
+narrator,は、処刑された。 　死体はオオサカ湾の底。,was executed. 　The body is at the bottom of Osaca Bay.,fue ejecutado. 　El cuerpo está en el fondo de la bahía de Osaka.
+__system__??,},,
+__system__??,{●ＥＸ = 5:,,
+Yume (talking),……えっ？　始末しろって？ だ、だってそれ、まさか……,"……Huh? You say you should get rid of it? But, I guess that's……","……¿Eh? ¿Dices que deberías deshacerte de eso? Pero, supongo que eso es……"
+narrator,　,　,　
+narrator,は、処刑された。 　死体はオオサカ湾の底。,was executed. 　The body is at the bottom of Osaca Bay.,fue ejecutado. 　El cuerpo está en el fondo de la bahía de Osaka.
+Yume (talking),"……………………
 ひどい……","……………………
 Terrible ……","……………………
 Terrible ……"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 6:","",""
-"Yume (talking)","んん~~。 アデュ~~。","Mmm~. Adu~~.","Mmm~. Adu~~."
-"narrator","　","　","　"
-"narrator","は、処刑された。 　死体はオオサカ湾の底。","was executed. 　The body is at the bottom of Osaca Bay.","fue ejecutado. 　El cuerpo está en el fondo de la bahía de Osaka."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 2:","",""
-"Yume (talking)","刑務所でくさいメシでも食ってきな。","Go eat stinky food in prison.","Ve a comer comida apestosa a la cárcel."
-"narrator","　","　","　"
-"narrator","は、刑務所行きとなった。","was sent to prison.","fueron enviados a prisión."
-"narrator","　数年は出てこれないだろう。","They won't be able to come out for a few years.","No podrán salir hasta dentro de varios años."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 3:","",""
-"Yume (talking)","ばいばーい。","Bai-bai-bai.","Bai-bai-bai."
-"narrator","　","　","　"
-"narrator","は、刑務所行きとなった。 　数年は出てこれないだろう。","was sent to prison. 　He will not be able to come out for several years.","fue enviado a prisión. 　No podrá salir durante varios años."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 4:","",""
-"Yume (talking)","しばらくおつとめしてなちゃい。","You'll have to stay on for a while.","Tendrás que servir durante un tiempo."
-"narrator","　","　","　"
-"narrator","は、刑務所行きとなった。 　数年は出てこれないだろう。","was sent to prison. 　He will not be able to come out for several years.","fue enviado a prisión. 　No podrá salir durante varios años."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 5:","",""
-"Yume (talking)","ごめんね、 責任を取る人が必要だから……","Sorry, we need someone to take responsibility: ……","Lo siento, necesitamos que alguien asuma la responsabilidad……"
-"narrator","　","　","　"
-"narrator","は、刑務所行きとなった。 　数年は出てこれないだろう。","was sent to prison. 　He will not be able to come out for several years.","fue enviado a prisión. 　No podrá salir durante varios años."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 6:","",""
-"Yume (talking)","んん~~。 ケイムショ~ン。","Mmm~. Keimsho~n.","Mmm~. Keimsho~n."
-"narrator","　","　","　"
-"narrator","は、刑務所行きとなった。 　数年は出てこれないだろう。","was sent to prison. 　He will not be able to come out for several years.","fue enviado a prisión. 　No podrá salir durante varios años."
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 2:","",""
-"Yume (talking)","そろそろ情報を吐いてほしいなぁ。 でないと、また拷問しないといけねぇ。","I hope they will spit out the information soon. Otherwise, I'll have to torture him again.","Espero que den la información pronto. Si no, tendré que volver a torturarlo."
-" (talking)","………………","………………","………………"
-"Yume (talking)","やれ。","Do it.","Hazlo."
-"Yume (talking)","じゃー、ゲロしてもらおーか。 お前さんが知っている事を。","So, let's hear you vomit. I'll tell you what you know.","Bueno, entonces, vamos a vomitar. Lo que se sabe."
-"narrator","から得た情報は――","The information I got from the--","La información obtenida de los…"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 3:","",""
-"Yume (talking)","ねえねえ、言って言って言って~。 でないとまた痛い事しちゃうぞー。","Hey, hey, hey, say it, say it~. Or I'll do something painful again!","Oye, oye, dilo, dilo~. ¡Si no lo haces, volveré a hacer algo doloroso!"
-" (talking)","………………","………………","………………"
-"Yume (talking)","やっちゃえー。","Let's do it!","Hagámoslo."
-"Yume (talking)","はい、言って。","Yes, say.","Sí, digamos."
-"narrator","から得た情報は――","The information I got from the--","La información obtenida de los…"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 4:","",""
-"Yume (talking)","さっさと口を割りなちゃい。","Now, get your mouth shut.","Sigue adelante y no hables."
-" (talking)","………………","………………","………………"
-"Yume (talking)","ハイネー！！","Haine!","¡¡¡Haine!!!"
-"Yume (talking)","さあ、さっさと言いなちゃい。","Now, get on with it.","Ahora, sigue con ello."
-"narrator","から得た情報は――","The information I got from the--","La información obtenida de los…"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 5:","",""
-"Yume (talking)","……今だけ性格ちぇ~んじ。えいっ。","…… personality-ch~nji just now. Eeeee.","…… personalidad-cheer-sólo. Eiii."
-"Yume (talking)","……えーと、イハビーラ博士。 よろしくお願いしますね。","…… Well, Dr. Ehavilla. I'm looking forward to working with you.","…… er, Dr. Ehavilla. Encantado de conocerte."
-"Ehavilla Me (talking)","……そう何度も呼ぶな。 私も忙しいのだぞ。","…… Don't call me so many times. I'm busy too.","…… No me llames tantas veces. Yo también estoy ocupado, ya sabes."
-" (talking)","………………","………………","………………"
-"Ehavilla Me (talking)","……まあいい。 他ならぬＡ１号の頼みだからな。","…… Well, okay. It's a request from none other than A1.","…… Bueno, bien. Es una petición nada menos que de A1."
-"Ehavilla Me (talking)","……情報、教えて下さるんですか？ ありがとうございます！！","Can you give me the…… information, please? Thank you!","…… información, ¿me la darás? ¡¡¡Gracias!!!"
-"narrator","から得た情報は――","The information I got from the--","La información obtenida de los…"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 6:","",""
-"Ehavilla Me (talking)","んん~~。 そろそろ、言って下さい~。","Mmm~. It's about time you told me~.","Mmm~. Ya es hora de que me lo digas~."
-" (talking)","………………","………………","………………"
-"Ehavilla Me (talking)","んんん~~…… びーーーーーーーーーーーーーーーーむ。","Mmm~~~…… beeeeeeeeeeeeeeeeeeeeeeeeeem.","Mmm~~…… beeeeeeeeeeeeeeeeeeeeeeeeeeeem."
-"Ehavilla Me (talking)","では、話して下さい~。","Then, please talk~.","Entonces, por favor, habla conmigo, por favor, habla conmigo."
-"narrator","から得た情報は――","The information I got from the--","La información obtenida de los…"
-"__system__??","}","",""
-"__system__??","{RND = 1:","",""
-"__system__??","{I装備[RND] \ 99:","",""
-"narrator","個人所有の特殊アイテムの 隠し場所だった。","It was a stash of special items belonging to a private individual.","Era un alijo de objetos especiales de propiedad privada."
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"narrator","隠し預金の暗証番号だった。","It was a PIN number for a hidden deposit.","Era el número PIN de un depósito oculto."
-"__system__??","{RND = 1:","",""
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"__system__??","}","",""
-"__system__??","{RND = 4:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"narrator","の 恥ずかしい過去の情報だった。","The information was from the embarrassing past of the","La información provenía del vergonzoso pasado del"
-"__system__??","{●ＥＸ = 2:","",""
-"Ehavilla Me (talking)","何か知っているな。 痛い目に合う前にさっさと吐いて もらいたいんだけどな。","You know something. I'd like to get this out of my system before I hurt you.","Sabes algo. Me gustaría que lo sacaras de tu sistema antes de que te haga daño."
-" (talking)","…………………","…………………","…………………"
-"Ehavilla Me (talking)","なら、しかたねー。 おい、拷問係のとこに連れてけ。","Well, then, but Tane. Hey, take him to the torturer.","Entonces, pero Tane-. Oye, llévalo al torturador."
-"Hikage Mitsuko (talking)","……………はい………","…………… yes ………","…………… sí ………"
-"narrator","に対する 拷問が行われた。","The torture of the “Mere Old Man” was carried out.","La tortura se llevó a cabo contra el"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 3:","",""
-" (talking)","ねえねえ、はみに知ってる事 教えて？","Hey, hey, tell me what you know about Hami?","Oye, oye, dime qué sabes de Hami."
-" (talking)","…………………","…………………","…………………"
-" (talking)","んーー…ばいばーい。 ごーもんがかりさんとこに 連れてってあげてー。","Mmmm….Bye-bye. Take him to Gomongakari-san's place.","Mmm… adiós. Llévalo a la casa de Gomongakari-san."
-"Hikage Mitsuko (talking)","……………はい………","…………… yes ………","…………… sí ………"
-"narrator","に対する 拷問が行われた。","The torture of the “Mere Old Man” was carried out.","La tortura se llevó a cabo contra el"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 4:","",""
-" (talking)","手荒にされる前に、知ってる事を すべて言いなちゃい。","Tell us everything you know before you get roughed up.","Dígales todo lo que sabe antes de que le den una paliza."
-" (talking)","…………………","…………………","…………………"
-" (talking)","連れてって。","Take me with you.","Llévame contigo."
-"Hikage Mitsuko (talking)","……………はい………","…………… yes ………","…………… sí ………"
-"narrator","に対する 拷問が行われた。","The torture of the “Mere Old Man” was carried out.","La tortura se llevó a cabo contra el"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 5:","",""
-" (talking)","……今だけ性格ちぇ~んじ。えいっ。","…… personality-ch~nji just now. Eeeee.","…… personalidad-cheer-sólo. Eiii."
-"Yume (talking)","…………えーと、イハビーラ博士。 お任せしてもいいですか？","………… Uh, Dr. Ehavilla. May I leave it to you?","………… Uh, Dr. Ehavilla. ¿Puedo dejarlo en tus manos?"
-"Ehavilla Me (talking)","お前も無理を言う…… 私は科学者であって 拷問手ではないのだぞ？","You also say the impossible:…… I'm a scientist, not a torturer, remember?","También dices lo imposible:…… Soy un científico, no un torturador, ¿recuerdas?"
-" (talking)","………………","………………","………………"
-"Ehavilla Me (talking)","まあいい。 丁度サンプルが欲しかったところだ。","Oh well. I just needed a sample.","Bien. Sólo quería una muestra."
-"narrator","に対する 拷問が行われた。","The torture of the “Mere Old Man” was carried out.","La tortura se llevó a cabo contra el"
-"__system__??","}","",""
-"__system__??","{●ＥＸ = 6:","",""
-" (talking)","んん~~。 知ってる事を教えて下さい~。","Hmmm~. Please tell me what you know~.","Mmm~. Por favor, dime lo que sabes~."
-" (talking)","…………………","…………………","…………………"
-" (talking)","んんん~~~。 日陰さん、びーーーーーむ。","Mmm~~. Hikage, beeeeeeeem.","Mmm~~. Hikage, beeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee."
-"Hikage Mitsuko (talking)","……………はい………","…………… yes ………","…………… sí ………"
-"narrator","に対する 拷問が行われた。","The torture of the “Mere Old Man” was carried out.","La tortura se llevó a cabo contra el"
-"__system__??","}","",""
-"narrator","　宝探しだ 　　みんなで地面を掘ろう
+__system__??,},,
+__system__??,{●ＥＸ = 6:,,
+Yume (talking),んん~~。 アデュ~~。,Mmm~. Adu~~.,Mmm~. Adu~~.
+narrator,　,　,　
+narrator,は、処刑された。 　死体はオオサカ湾の底。,was executed. 　The body is at the bottom of Osaca Bay.,fue ejecutado. 　El cuerpo está en el fondo de la bahía de Osaka.
+__system__??,},,
+__system__??,{●ＥＸ = 2:,,
+Yume (talking),刑務所でくさいメシでも食ってきな。,Go eat stinky food in prison.,Ve a comer comida apestosa a la cárcel.
+narrator,　,　,　
+narrator,は、刑務所行きとなった。,was sent to prison.,fueron enviados a prisión.
+narrator,　数年は出てこれないだろう。,They won't be able to come out for a few years.,No podrán salir hasta dentro de varios años.
+__system__??,},,
+__system__??,{●ＥＸ = 3:,,
+Yume (talking),ばいばーい。,Bai-bai-bai.,Bai-bai-bai.
+narrator,　,　,　
+narrator,は、刑務所行きとなった。 　数年は出てこれないだろう。,was sent to prison. 　He will not be able to come out for several years.,fue enviado a prisión. 　No podrá salir durante varios años.
+__system__??,},,
+__system__??,{●ＥＸ = 4:,,
+Yume (talking),しばらくおつとめしてなちゃい。,You'll have to stay on for a while.,Tendrás que servir durante un tiempo.
+narrator,　,　,　
+narrator,は、刑務所行きとなった。 　数年は出てこれないだろう。,was sent to prison. 　He will not be able to come out for several years.,fue enviado a prisión. 　No podrá salir durante varios años.
+__system__??,},,
+__system__??,{●ＥＸ = 5:,,
+Yume (talking),ごめんね、 責任を取る人が必要だから……,"Sorry, we need someone to take responsibility: ……","Lo siento, necesitamos que alguien asuma la responsabilidad……"
+narrator,　,　,　
+narrator,は、刑務所行きとなった。 　数年は出てこれないだろう。,was sent to prison. 　He will not be able to come out for several years.,fue enviado a prisión. 　No podrá salir durante varios años.
+__system__??,},,
+__system__??,{●ＥＸ = 6:,,
+Yume (talking),んん~~。 ケイムショ~ン。,Mmm~. Keimsho~n.,Mmm~. Keimsho~n.
+narrator,　,　,　
+narrator,は、刑務所行きとなった。 　数年は出てこれないだろう。,was sent to prison. 　He will not be able to come out for several years.,fue enviado a prisión. 　No podrá salir durante varios años.
+__system__??,},,
+__system__??,{●ＥＸ = 2:,,
+Yume (talking),そろそろ情報を吐いてほしいなぁ。 でないと、また拷問しないといけねぇ。,"I hope they will spit out the information soon. Otherwise, I'll have to torture him again.","Espero que den la información pronto. Si no, tendré que volver a torturarlo."
+ (talking),………………,………………,………………
+Yume (talking),やれ。,Do it.,Hazlo.
+Yume (talking),じゃー、ゲロしてもらおーか。 お前さんが知っている事を。,"So, let's hear you vomit. I'll tell you what you know.","Bueno, entonces, vamos a vomitar. Lo que se sabe."
+narrator,から得た情報は――,The information I got from the--,La información obtenida de los…
+__system__??,},,
+__system__??,{●ＥＸ = 3:,,
+Yume (talking),ねえねえ、言って言って言って~。 でないとまた痛い事しちゃうぞー。,"Hey, hey, hey, say it, say it~. Or I'll do something painful again!","Oye, oye, dilo, dilo~. ¡Si no lo haces, volveré a hacer algo doloroso!"
+ (talking),………………,………………,………………
+Yume (talking),やっちゃえー。,Let's do it!,Hagámoslo.
+Yume (talking),はい、言って。,"Yes, say.","Sí, digamos."
+narrator,から得た情報は――,The information I got from the--,La información obtenida de los…
+__system__??,},,
+__system__??,{●ＥＸ = 4:,,
+Yume (talking),さっさと口を割りなちゃい。,"Now, get your mouth shut.",Sigue adelante y no hables.
+ (talking),………………,………………,………………
+Yume (talking),ハイネー！！,Haine!,¡¡¡Haine!!!
+Yume (talking),さあ、さっさと言いなちゃい。,"Now, get on with it.","Ahora, sigue con ello."
+narrator,から得た情報は――,The information I got from the--,La información obtenida de los…
+__system__??,},,
+__system__??,{●ＥＸ = 5:,,
+Yume (talking),……今だけ性格ちぇ~んじ。えいっ。,…… personality-ch~nji just now. Eeeee.,…… personalidad-cheer-sólo. Eiii.
+Yume (talking),……えーと、イハビーラ博士。 よろしくお願いしますね。,"…… Well, Dr. Ehavilla. I'm looking forward to working with you.","…… er, Dr. Ehavilla. Encantado de conocerte."
+Ehavilla Me (talking),……そう何度も呼ぶな。 私も忙しいのだぞ。,…… Don't call me so many times. I'm busy too.,"…… No me llames tantas veces. Yo también estoy ocupado, ya sabes."
+ (talking),………………,………………,………………
+Ehavilla Me (talking),……まあいい。 他ならぬＡ１号の頼みだからな。,"…… Well, okay. It's a request from none other than A1.","…… Bueno, bien. Es una petición nada menos que de A1."
+Ehavilla Me (talking),……情報、教えて下さるんですか？ ありがとうございます！！,"Can you give me the…… information, please? Thank you!","…… información, ¿me la darás? ¡¡¡Gracias!!!"
+narrator,から得た情報は――,The information I got from the--,La información obtenida de los…
+__system__??,},,
+__system__??,{●ＥＸ = 6:,,
+Ehavilla Me (talking),んん~~。 そろそろ、言って下さい~。,Mmm~. It's about time you told me~.,Mmm~. Ya es hora de que me lo digas~.
+ (talking),………………,………………,………………
+Ehavilla Me (talking),んんん~~…… びーーーーーーーーーーーーーーーーむ。,Mmm~~~…… beeeeeeeeeeeeeeeeeeeeeeeeeem.,Mmm~~…… beeeeeeeeeeeeeeeeeeeeeeeeeeeem.
+Ehavilla Me (talking),では、話して下さい~。,"Then, please talk~.","Entonces, por favor, habla conmigo, por favor, habla conmigo."
+narrator,から得た情報は――,The information I got from the--,La información obtenida de los…
+__system__??,},,
+__system__??,{RND = 1:,,
+__system__??,{I装備[RND] \ 99:,,
+narrator,個人所有の特殊アイテムの 隠し場所だった。,It was a stash of special items belonging to a private individual.,Era un alijo de objetos especiales de propiedad privada.
+__system__??,},,
+__system__??,},,
+__system__??,{RND = 2:,,
+narrator,隠し預金の暗証番号だった。,It was a PIN number for a hidden deposit.,Era el número PIN de un depósito oculto.
+__system__??,{RND = 1:,,
+__system__??,},,
+__system__??,{RND = 2:,,
+__system__??,},,
+__system__??,{RND = 3:,,
+__system__??,},,
+__system__??,{RND = 4:,,
+__system__??,},,
+__system__??,},,
+narrator,の 恥ずかしい過去の情報だった。,The information was from the embarrassing past of the,La información provenía del vergonzoso pasado del
+__system__??,{●ＥＸ = 2:,,
+Ehavilla Me (talking),何か知っているな。 痛い目に合う前にさっさと吐いて もらいたいんだけどな。,You know something. I'd like to get this out of my system before I hurt you.,Sabes algo. Me gustaría que lo sacaras de tu sistema antes de que te haga daño.
+ (talking),…………………,…………………,…………………
+Ehavilla Me (talking),なら、しかたねー。 おい、拷問係のとこに連れてけ。,"Well, then, but Tane. Hey, take him to the torturer.","Entonces, pero Tane-. Oye, llévalo al torturador."
+Hikage Mitsuko (talking),……………はい………,…………… yes ………,…………… sí ………
+narrator,に対する 拷問が行われた。,The torture of the “Mere Old Man” was carried out.,La tortura se llevó a cabo contra el
+__system__??,},,
+__system__??,{●ＥＸ = 3:,,
+ (talking),ねえねえ、はみに知ってる事 教えて？,"Hey, hey, tell me what you know about Hami?","Oye, oye, dime qué sabes de Hami."
+ (talking),…………………,…………………,…………………
+ (talking),んーー…ばいばーい。 ごーもんがかりさんとこに 連れてってあげてー。,Mmmm….Bye-bye. Take him to Gomongakari-san's place.,Mmm… adiós. Llévalo a la casa de Gomongakari-san.
+Hikage Mitsuko (talking),……………はい………,…………… yes ………,…………… sí ………
+narrator,に対する 拷問が行われた。,The torture of the “Mere Old Man” was carried out.,La tortura se llevó a cabo contra el
+__system__??,},,
+__system__??,{●ＥＸ = 4:,,
+ (talking),手荒にされる前に、知ってる事を すべて言いなちゃい。,Tell us everything you know before you get roughed up.,Dígales todo lo que sabe antes de que le den una paliza.
+ (talking),…………………,…………………,…………………
+ (talking),連れてって。,Take me with you.,Llévame contigo.
+Hikage Mitsuko (talking),……………はい………,…………… yes ………,…………… sí ………
+narrator,に対する 拷問が行われた。,The torture of the “Mere Old Man” was carried out.,La tortura se llevó a cabo contra el
+__system__??,},,
+__system__??,{●ＥＸ = 5:,,
+ (talking),……今だけ性格ちぇ~んじ。えいっ。,…… personality-ch~nji just now. Eeeee.,…… personalidad-cheer-sólo. Eiii.
+Yume (talking),…………えーと、イハビーラ博士。 お任せしてもいいですか？,"………… Uh, Dr. Ehavilla. May I leave it to you?","………… Uh, Dr. Ehavilla. ¿Puedo dejarlo en tus manos?"
+Ehavilla Me (talking),お前も無理を言う…… 私は科学者であって 拷問手ではないのだぞ？,"You also say the impossible:…… I'm a scientist, not a torturer, remember?","También dices lo imposible:…… Soy un científico, no un torturador, ¿recuerdas?"
+ (talking),………………,………………,………………
+Ehavilla Me (talking),まあいい。 丁度サンプルが欲しかったところだ。,Oh well. I just needed a sample.,Bien. Sólo quería una muestra.
+narrator,に対する 拷問が行われた。,The torture of the “Mere Old Man” was carried out.,La tortura se llevó a cabo contra el
+__system__??,},,
+__system__??,{●ＥＸ = 6:,,
+ (talking),んん~~。 知ってる事を教えて下さい~。,Hmmm~. Please tell me what you know~.,"Mmm~. Por favor, dime lo que sabes~."
+ (talking),…………………,…………………,…………………
+ (talking),んんん~~~。 日陰さん、びーーーーーむ。,"Mmm~~. Hikage, beeeeeeeem.","Mmm~~. Hikage, beeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee."
+Hikage Mitsuko (talking),……………はい………,…………… yes ………,…………… sí ………
+narrator,に対する 拷問が行われた。,The torture of the “Mere Old Man” was carried out.,La tortura se llevó a cabo contra el
+__system__??,},,
+narrator,"　宝探しだ 　　みんなで地面を掘ろう
  　ほり　ほり","Let's dig for treasure. Let's all dig in the ground together.
  　Dig, dig, dig","Búsqueda del tesoro. Vamos a cavar todos en la tierra.
  　Cavar en la tierra"
-"__system__??","{G部下数 < ＥＸアイテム:","",""
-"__system__??","}","",""
-"__system__??","{☆ＤＡＴＥ % 2 = 0:","",""
-"__system__??","}","",""
-"__system__??","{I装備[RND] \ 99:","",""
-"__system__??","}","",""
-"narrator","　　がーーーーーーーん　　 　ザリガニの死体だった。","Waaaahhh it was a dead crawfish.","Waaaahhh Era un cangrejo de río muerto."
+__system__??,{G部下数 < ＥＸアイテム:,,
+__system__??,},,
+__system__??,{☆ＤＡＴＥ % 2 = 0:,,
+__system__??,},,
+__system__??,{I装備[RND] \ 99:,,
+__system__??,},,
+narrator,　　がーーーーーーーん　　 　ザリガニの死体だった。,Waaaahhh it was a dead crawfish.,Waaaahhh Era un cangrejo de río muerto.

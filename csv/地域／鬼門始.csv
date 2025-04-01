@@ -1,13 +1,13 @@
-"character","jap text","Eng","Esp"
-"__system__??","{麦 = 1:","",""
-"__system__??","{☆鬼門 = 1:","",""
-"__system__??","}","",""
-"__system__??","{GOLD < 100:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 3:","",""
-"__system__??","}","",""
-"Kimon Hajime (talking)","いいか、俺がここにきたのは、 あんたを越える為だ！！
+character,jap text,Eng,Esp
+__system__??,{麦 = 1:,,
+__system__??,{☆鬼門 = 1:,,
+__system__??,},,
+__system__??,{GOLD < 100:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 3:,,
+__system__??,},,
+Kimon Hajime (talking),"いいか、俺がここにきたのは、 あんたを越える為だ！！
 この間は、喧嘩で負けたけど、 今度は勝つぜ！
 確かに今は、少しだけ負けている気が するんだけどよぉ！
 近くで、あんたのその技術を盗んでやる！","Look, I came here to get past you!
@@ -17,184 +17,184 @@ I'm gonna get up close and steal your skills!","¡Mira, he venido aquí para pas
 El otro día perdí una pelea, ¡pero esta vez voy a ganar!
 Lo sé, me siento un poco superado en este momento.
  ¡Voy a acercarme y robar tus habilidades!"
-"Yamamoto Akuji (talking)","ぱちぱちぱち。","Blah, blah, blah.","Bla, bla, bla."
-"Kimon Hajime (talking)","なんだよ、そのやる気のねぇ拍手は！ っていうか、拍手すんな！","What's with the uninspiring applause? I mean, don't clap!","¿Qué pasa con los aplausos poco inspirados? Quiero decir, ¡no aplaudan!"
-"Yamamoto Akuji (talking)","せーねんの主張ってやつじゃ なかったのか？","Wasn't that what they called the “Seenen” argument?","¿No era eso lo que llamaban el argumento “Seenen”?"
-"Kimon Hajime (talking)","違う！！ 挑戦状だ！","No, no, no! It's a challenge!","¡No, no, no! Es un reto."
-"Yamamoto Akuji (talking)","どっちでもいーや。 ここにいたかったら、俺の言う事、 ちゃーんときくんだぞ。","I don't care which one. If you want to stay here, you'll do exactly as I say.","No me importa de ninguna manera. Si quieres quedarte aquí, harás exactamente lo que te diga."
-"Kimon Hajime (talking)","おう、きいてやるよ。","Oh, I'm listening.","Oh, te escucharé."
-"narrator","悪司は咥え煙草で帳簿を見つめ、 しぶ~い顔をしていた。","Akuji stared at the ledger with a cigarette in his mouth and a serious look on his face.","Akuji miraba el libro de contabilidad con un cigarrillo en la boca y una mirada seria."
-"Kimon Hajime (talking)","へっへっへっ。","Heh heh heh.","Je, je, je."
-"Yamamoto Akuji (talking)","なんだ？ ニヤニヤしやがって。","What the hell? You're grinning at me.","¿Qué carajo? Me estás sonriendo."
-"Kimon Hajime (talking)","聞いたぜ。 台所事情が火の車らしいーじゃねぇか。","I heard. I heard that the kitchen is on fire.","Lo he oído. La cocina está en llamas, ¿no?"
-"Yamamoto Akuji (talking)","そーだなー。 給料ドロボーの無駄飯食いが、 俺の前にも一人いるからな。","That's right. I've got one of those paycheck-snatching, waste-of-money eaters in front of me.","Sí, eso es. Porque tengo enfrente a uno de esos comedores de comida que desperdicia su sueldo."
-"Kimon Hajime (talking)","これを受け取っても、 そー言ってられっかなー？","I don't know if I can say that when I receive this.","No sé si podré decir eso cuando reciba esto."
-"narrator","と言って、始は机の上に封筒を ばさっと投げた。","Hajime said, threw an envelope on the desk.","Hajime dijo, arrojó un sobre sobre el escritorio."
-"Yamamoto Akuji (talking)","なんだ、こりゃ。","What the heck is this?","¿Qué demonios es esto?"
-"Kimon Hajime (talking)","金。","Money.","De oro."
-"Yamamoto Akuji (talking)","へ？","Heh?","¿Eh?"
-"narrator","全部で１０００万円入っている。","In all, there is 10 million yen in it.","En total, hay 10 millones de yenes en la caja."
-"Yamamoto Akuji (talking)","お前、まさか…","You don't think…","No crees que…"
-"Kimon Hajime (talking)","後ろ暗ぇ金じゃねーよ。 ちょっと実家行ってきて、 親父から貰ったんだ。","It's not dark money. I went to my parents' house for a while and got this from my dad.","No es dinero oscuro. Fui a casa de mis padres un rato y mi padre me lo dio."
-"Yamamoto Akuji (talking)","お前、金持ちのボンだったのか。","You were a rich bon.","Eras un rico bon vivant."
-"Kimon Hajime (talking)","へっへっへっ。 よかったら使ってくんな。 なーに、礼は…","Heh heh heh. Use it if you like. You don't have to thank me…","Je, je, je. Úsalo si quieres. No tienes que agradecerme…"
-"narrator","　　［びしっっっっ］
+Yamamoto Akuji (talking),ぱちぱちぱち。,"Blah, blah, blah.","Bla, bla, bla."
+Kimon Hajime (talking),なんだよ、そのやる気のねぇ拍手は！ っていうか、拍手すんな！,"What's with the uninspiring applause? I mean, don't clap!","¿Qué pasa con los aplausos poco inspirados? Quiero decir, ¡no aplaudan!"
+Yamamoto Akuji (talking),せーねんの主張ってやつじゃ なかったのか？,Wasn't that what they called the “Seenen” argument?,¿No era eso lo que llamaban el argumento “Seenen”?
+Kimon Hajime (talking),違う！！ 挑戦状だ！,"No, no, no! It's a challenge!","¡No, no, no! Es un reto."
+Yamamoto Akuji (talking),どっちでもいーや。 ここにいたかったら、俺の言う事、 ちゃーんときくんだぞ。,"I don't care which one. If you want to stay here, you'll do exactly as I say.","No me importa de ninguna manera. Si quieres quedarte aquí, harás exactamente lo que te diga."
+Kimon Hajime (talking),おう、きいてやるよ。,"Oh, I'm listening.","Oh, te escucharé."
+narrator,悪司は咥え煙草で帳簿を見つめ、 しぶ~い顔をしていた。,Akuji stared at the ledger with a cigarette in his mouth and a serious look on his face.,Akuji miraba el libro de contabilidad con un cigarrillo en la boca y una mirada seria.
+Kimon Hajime (talking),へっへっへっ。,Heh heh heh.,"Je, je, je."
+Yamamoto Akuji (talking),なんだ？ ニヤニヤしやがって。,What the hell? You're grinning at me.,¿Qué carajo? Me estás sonriendo.
+Kimon Hajime (talking),聞いたぜ。 台所事情が火の車らしいーじゃねぇか。,I heard. I heard that the kitchen is on fire.,"Lo he oído. La cocina está en llamas, ¿no?"
+Yamamoto Akuji (talking),そーだなー。 給料ドロボーの無駄飯食いが、 俺の前にも一人いるからな。,"That's right. I've got one of those paycheck-snatching, waste-of-money eaters in front of me.","Sí, eso es. Porque tengo enfrente a uno de esos comedores de comida que desperdicia su sueldo."
+Kimon Hajime (talking),これを受け取っても、 そー言ってられっかなー？,I don't know if I can say that when I receive this.,No sé si podré decir eso cuando reciba esto.
+narrator,と言って、始は机の上に封筒を ばさっと投げた。,"Hajime said, threw an envelope on the desk.","Hajime dijo, arrojó un sobre sobre el escritorio."
+Yamamoto Akuji (talking),なんだ、こりゃ。,What the heck is this?,¿Qué demonios es esto?
+Kimon Hajime (talking),金。,Money.,De oro.
+Yamamoto Akuji (talking),へ？,Heh?,¿Eh?
+narrator,全部で１０００万円入っている。,"In all, there is 10 million yen in it.","En total, hay 10 millones de yenes en la caja."
+Yamamoto Akuji (talking),お前、まさか…,You don't think…,No crees que…
+Kimon Hajime (talking),後ろ暗ぇ金じゃねーよ。 ちょっと実家行ってきて、 親父から貰ったんだ。,It's not dark money. I went to my parents' house for a while and got this from my dad.,No es dinero oscuro. Fui a casa de mis padres un rato y mi padre me lo dio.
+Yamamoto Akuji (talking),お前、金持ちのボンだったのか。,You were a rich bon.,Eras un rico bon vivant.
+Kimon Hajime (talking),へっへっへっ。 よかったら使ってくんな。 なーに、礼は…,Heh heh heh. Use it if you like. You don't have to thank me…,"Je, je, je. Úsalo si quieres. No tienes que agradecerme…"
+narrator,"　　［びしっっっっ］
 悪司は始の額にデコピンを放った。","　　［Bishi~~~~］
 Akuji fired a decopine on Hajime's forehead.","　　［Bishi~~~~］
 Akuji disparó una decopina en la frente de Hajime."
-"Kimon Hajime (talking)","げふっっっっ！！！？？？？","Geez!!! ？？？？","¡¡¡Caramba!!! ？？？？"
-"Yamamoto Akuji (talking)","なーに、親の金で威張ってんだか。","What, you're just pompous with your parents' money?","Qué demonios, no sé por qué eres tan pomposo con el dinero de tus padres."
-"Kimon Hajime (talking)","そー言いながら、なんで俺の渡した金、 懐にしまってやがんだよ！","Why do you keep the money I gave you in your pocket?","¿Por qué guardas el dinero que te di en el bolsillo?"
-"Yamamoto Akuji (talking)","悪いボーヤに、こんな大金 必要ねーから、没収だ。","The bad boy doesn't need this kind of money, so I'm confiscating it.","El chico malo no necesita tanto dinero, así que lo confisco."
-"Kimon Hajime (talking)","きったねー！！","Ki-Tane!!!!","¡Ki-Tane!"
-"Yamamoto Akuji (talking)","そーそー、オトナのセカイはキタネーの。 勉強になったねー。","Yes, yes, the world of adults is not a place for me. I learned a lot Tane .","Sí, sí, el mundo del adulto es un lugar de Tane . He aprendido mucho Tane."
-"Kimon Hajime (talking)","あ、う、く、くっそー！！","Ah, ugh, damn it!","Oh, ugh, ¡mierda!"
-"Kimon Hajime (talking)","おう、呼んだってか？","Oh, you called for me?","Oh, ¿dijiste que querías verme?"
-"Yamamoto Akuji (talking)","おー呼んだ呼んだ。","Oh, I called it, I called it.","Oooh lo llamé, lo llamé."
-"Yamamoto Akuji (talking)","小遣いいるか？ これで好きなモン…","Do you need an allowance? Here's your favorite mon…","¿Necesitas dinero de bolsillo? Aquí tienes tu mon…"
-"Kimon Hajime (talking)","俺が欲しいのは金じゃなくって、 あんたの技術だ！
+Kimon Hajime (talking),げふっっっっ！！！？？？？,Geez!!! ？？？？,¡¡¡Caramba!!! ？？？？
+Yamamoto Akuji (talking),なーに、親の金で威張ってんだか。,"What, you're just pompous with your parents' money?","Qué demonios, no sé por qué eres tan pomposo con el dinero de tus padres."
+Kimon Hajime (talking),そー言いながら、なんで俺の渡した金、 懐にしまってやがんだよ！,Why do you keep the money I gave you in your pocket?,¿Por qué guardas el dinero que te di en el bolsillo?
+Yamamoto Akuji (talking),悪いボーヤに、こんな大金 必要ねーから、没収だ。,"The bad boy doesn't need this kind of money, so I'm confiscating it.","El chico malo no necesita tanto dinero, así que lo confisco."
+Kimon Hajime (talking),きったねー！！,Ki-Tane!!!!,¡Ki-Tane!
+Yamamoto Akuji (talking),そーそー、オトナのセカイはキタネーの。 勉強になったねー。,"Yes, yes, the world of adults is not a place for me. I learned a lot Tane .","Sí, sí, el mundo del adulto es un lugar de Tane . He aprendido mucho Tane."
+Kimon Hajime (talking),あ、う、く、くっそー！！,"Ah, ugh, damn it!","Oh, ugh, ¡mierda!"
+Kimon Hajime (talking),おう、呼んだってか？,"Oh, you called for me?","Oh, ¿dijiste que querías verme?"
+Yamamoto Akuji (talking),おー呼んだ呼んだ。,"Oh, I called it, I called it.","Oooh lo llamé, lo llamé."
+Yamamoto Akuji (talking),小遣いいるか？ これで好きなモン…,Do you need an allowance? Here's your favorite mon…,¿Necesitas dinero de bolsillo? Aquí tienes tu mon…
+Kimon Hajime (talking),"俺が欲しいのは金じゃなくって、 あんたの技術だ！
 金をくれるんだったら、 俺に訓練つけてくれた方がいいっての！
 そして、いつか、あんたを越えてやる！","I don't want your money, I want your skills!
 If you're gonna give me money, you might as well train me!
 And one day, I'll surpass you!","¡No quiero tu dinero, quiero tus habilidades!
  ¡Si me vas a dar dinero, más vale que me entrenes!
  ¡Y un día, te superaré!"
-"Yamamoto Akuji (talking)","元気だねー。","You're doing great!","Lo estás haciendo bien."
-"Kimon Hajime (talking)","おう、若いからな。","Oh, I'm young.","Oh, soy joven."
-"Kimon Hajime (talking)","へっへっへっ。","Heh heh heh.","Je, je, je."
-"Yamamoto Akuji (talking)","嬉しそーだな。","You look happy.","Te ves feliz."
-"Kimon Hajime (talking)","おう、この日を待ってたのよ！ ショーーブだ、悪司！！","Oh, I've been waiting for this day! It's Shove, Akuji!","¡He estado esperando este día! ¡Es Shove, Akuji!"
-"Yamamoto Akuji (talking)","よしよし、可愛い奴だなー。 可愛がってやるぜ。","All right, all right, you're a cute guy. I'm going to adore you.","Muy bien, muy bien, eres un tipo encantador. Te voy a adorar."
-"narrator","　","　","　"
-"narrator","は、悪司と特訓した。","trained with Akuji.","entrenado con Akuji."
-" (talking)","へっへっへっ。 またテクニックを盗んでやったぜ。 あんたを越える日は近い！","Heh heh heh. I stole another technique. The day is near when I will surpass you!","Je, je, je. He robado otra técnica. ¡El día en que te supere está cerca!"
-"narrator","悪司は、また温泉に来ていた。","Akuji was at the spa again.","Akuji estaba en el balneario de nuevo."
-"Yamamoto Akuji (talking)","さ~て、だいぶのんびりしたな… そろそろ帰るとすっか。","Well, I've been taking it pretty easy… I guess it's time to go home.","Bueno, ya me he relajado un buen rato… Creo que es hora de volver a casa."
-"narrator","悪司は帰り支度をすると、 温泉宿を後にした。","Akuji prepared to leave and left the hot springs resort.","Akuji se preparó para salir y abandonó la posada del balneario."
-"narrator","　　［どんっっっっ］","［Dong dong dong!]","[¡Dong-dong!]"
-"Kimon Hajime (talking)","ってぇな！！ どこ見て歩いてんだよ、 このぶっとい眉毛はよぉ！！","You're so cute! Where do you think you're going, you big eyebrow!","¡Eres un verdadero dolor de cabeza! ¿Adónde crees que vas, cejudo?"
-"Yamamoto Akuji (talking)","俺は前を見て歩いていたさ。 気合入った頭のボーズ。","I was walking forward, you know. Bose of a head full of spirit.","Estaba caminando por delante, ya sabes. Bose de la cabeza con mucha energía."
-"Kimon Hajime (talking)","んだとォ！？ ワビ入れずに、茶化しやがるのかよ！？","What? You're making fun of me without putting in the wabi!","¿Qué? Si no pones el wabi, ¡te estás burlando de mí!"
-"Yamamoto Akuji (talking)","俺は悪い事したと思ってないからな。 こういう場合は、謝るのはお互い様じゃ ねーか？","I don't think I did anything wrong. In a case like this, it's up to both of us to apologize, isn't it?","No creo que haya hecho nada malo. En un caso así, nos corresponde a los dos disculparnos, ¿no?"
-"Kimon Hajime (talking)","ウダウダうるせーんだよ、おっさん！！ 素直に謝れや！！","Shut up, old man! Apologize to me, man!","¡Cállate, viejo! ¡Discúlpate conmigo, hombre!"
-"Yamamoto Akuji (talking)","おいおい、血の気の多いボーズだな。","Oh come on, you're a bloodthirsty bozo.","Oigan, oigan, oigan, malditos payasos."
-"Kimon Hajime (talking)","ウルセー！！ くらえ、チェーン乱舞！！ オラオラオラァァァ！！！","Ulusey! Kura kuraku, chain riot Mai! Ola ola ola ola!","¡Ulsey! ¡Kura, Chain Ran Mai! ¡Ola ola ola ola!"
-"narrator","始はズボンのポケットからチェーンを取り出すと 悪司に向かって振り回した。","Hajime took a chain from his pants pocket and swung it at Akuji.","Hajime sacó una cadena del bolsillo de su pantalón y la blandió contra Akuji."
-"Kimon Hajime (talking)","えっ！？","What?","¿Qué?"
-"Yamamoto Akuji (talking)","こっち、こっち~。","This way, this way~.","Por aquí, por aquí~."
-"Kimon Hajime (talking)","い、いつの間に、後ろに…… おっ……がっ…！！","When did you get behind…… whoa ………!","¿Cuándo te pusiste…… detrás de mí?"
-"narrator","　　［がすっっっっ］
+Yamamoto Akuji (talking),元気だねー。,You're doing great!,Lo estás haciendo bien.
+Kimon Hajime (talking),おう、若いからな。,"Oh, I'm young.","Oh, soy joven."
+Kimon Hajime (talking),へっへっへっ。,Heh heh heh.,"Je, je, je."
+Yamamoto Akuji (talking),嬉しそーだな。,You look happy.,Te ves feliz.
+Kimon Hajime (talking),おう、この日を待ってたのよ！ ショーーブだ、悪司！！,"Oh, I've been waiting for this day! It's Shove, Akuji!","¡He estado esperando este día! ¡Es Shove, Akuji!"
+Yamamoto Akuji (talking),よしよし、可愛い奴だなー。 可愛がってやるぜ。,"All right, all right, you're a cute guy. I'm going to adore you.","Muy bien, muy bien, eres un tipo encantador. Te voy a adorar."
+narrator,　,　,　
+narrator,は、悪司と特訓した。,trained with Akuji.,entrenado con Akuji.
+ (talking),へっへっへっ。 またテクニックを盗んでやったぜ。 あんたを越える日は近い！,Heh heh heh. I stole another technique. The day is near when I will surpass you!,"Je, je, je. He robado otra técnica. ¡El día en que te supere está cerca!"
+narrator,悪司は、また温泉に来ていた。,Akuji was at the spa again.,Akuji estaba en el balneario de nuevo.
+Yamamoto Akuji (talking),さ~て、だいぶのんびりしたな… そろそろ帰るとすっか。,"Well, I've been taking it pretty easy… I guess it's time to go home.","Bueno, ya me he relajado un buen rato… Creo que es hora de volver a casa."
+narrator,悪司は帰り支度をすると、 温泉宿を後にした。,Akuji prepared to leave and left the hot springs resort.,Akuji se preparó para salir y abandonó la posada del balneario.
+narrator,　　［どんっっっっ］,［Dong dong dong!],[¡Dong-dong!]
+Kimon Hajime (talking),ってぇな！！ どこ見て歩いてんだよ、 このぶっとい眉毛はよぉ！！,"You're so cute! Where do you think you're going, you big eyebrow!","¡Eres un verdadero dolor de cabeza! ¿Adónde crees que vas, cejudo?"
+Yamamoto Akuji (talking),俺は前を見て歩いていたさ。 気合入った頭のボーズ。,"I was walking forward, you know. Bose of a head full of spirit.","Estaba caminando por delante, ya sabes. Bose de la cabeza con mucha energía."
+Kimon Hajime (talking),んだとォ！？ ワビ入れずに、茶化しやがるのかよ！？,What? You're making fun of me without putting in the wabi!,"¿Qué? Si no pones el wabi, ¡te estás burlando de mí!"
+Yamamoto Akuji (talking),俺は悪い事したと思ってないからな。 こういう場合は、謝るのはお互い様じゃ ねーか？,"I don't think I did anything wrong. In a case like this, it's up to both of us to apologize, isn't it?","No creo que haya hecho nada malo. En un caso así, nos corresponde a los dos disculparnos, ¿no?"
+Kimon Hajime (talking),ウダウダうるせーんだよ、おっさん！！ 素直に謝れや！！,"Shut up, old man! Apologize to me, man!","¡Cállate, viejo! ¡Discúlpate conmigo, hombre!"
+Yamamoto Akuji (talking),おいおい、血の気の多いボーズだな。,"Oh come on, you're a bloodthirsty bozo.","Oigan, oigan, oigan, malditos payasos."
+Kimon Hajime (talking),ウルセー！！ くらえ、チェーン乱舞！！ オラオラオラァァァ！！！,"Ulusey! Kura kuraku, chain riot Mai! Ola ola ola ola!","¡Ulsey! ¡Kura, Chain Ran Mai! ¡Ola ola ola ola!"
+narrator,始はズボンのポケットからチェーンを取り出すと 悪司に向かって振り回した。,Hajime took a chain from his pants pocket and swung it at Akuji.,Hajime sacó una cadena del bolsillo de su pantalón y la blandió contra Akuji.
+Kimon Hajime (talking),えっ！？,What?,¿Qué?
+Yamamoto Akuji (talking),こっち、こっち~。,"This way, this way~.","Por aquí, por aquí~."
+Kimon Hajime (talking),い、いつの間に、後ろに…… おっ……がっ…！！,When did you get behind…… whoa ………!,¿Cuándo te pusiste…… detrás de mí?
+narrator,"　　［がすっっっっ］
 悪司は多少遠慮したパンチを、始の頬に放った。","　　［Gasu~~~~］
 Akuji let a slightly reluctant punch onto Hajime's cheek.","　　［Gasu~~~~］
 Akuji dejó un golpe ligeramente reacio sobre la mejilla de Hajime."
-"Kimon Hajime (talking)","ぐっ……！！","Gu~……！！","¡¡Gu~……！！"
-"Yamamoto Akuji (talking)","いやー、惜しい惜しい。 もーちょっと修行してからリベンジ してきな、ボーズ。","Well, that was close. You'll have to train a little more before you can get your revenge, Bozu.","Bueno, eso estuvo cerca. Tendrás que entrenar un poco más antes de poder vengarte, Boz."
-"Kimon Hajime (talking)","待てよ！！","Wait!","¡¡Espera!!"
-"Yamamoto Akuji (talking)","おいおい。 まだやるってのかい？","Oh, come on. You're still going to do it?","Oh, vamos. ¿Aún vas a hacerlo?"
-"Kimon Hajime (talking)","あんた…どこの組の人だ？","You… what group are you from?","Tú… ¿de qué banda eres?"
-"Yamamoto Akuji (talking)","俺は、奉仕青年団の一員さ。","I'm a member of a service youth group.","Soy miembro de un grupo juvenil de servicio."
-"Kimon Hajime (talking)","地域管理組合だと~~？？？","A local management association~?","¿Una asociación de gestión local?"
-"Yamamoto Akuji (talking)","おう、そうさ。 嘘だと思ったらついてくるか？","Oh, yeah. If you think I'm lying, will you follow me?","Ah, sí. ¿Me seguirías si mintiera?"
-"Kimon Hajime (talking)","おう、行くさ。 確かめてやらぁ。
+Kimon Hajime (talking),ぐっ……！！,Gu~……！！,¡¡Gu~……！！
+Yamamoto Akuji (talking),いやー、惜しい惜しい。 もーちょっと修行してからリベンジ してきな、ボーズ。,"Well, that was close. You'll have to train a little more before you can get your revenge, Bozu.","Bueno, eso estuvo cerca. Tendrás que entrenar un poco más antes de poder vengarte, Boz."
+Kimon Hajime (talking),待てよ！！,Wait!,¡¡Espera!!
+Yamamoto Akuji (talking),おいおい。 まだやるってのかい？,"Oh, come on. You're still going to do it?","Oh, vamos. ¿Aún vas a hacerlo?"
+Kimon Hajime (talking),あんた…どこの組の人だ？,You… what group are you from?,Tú… ¿de qué banda eres?
+Yamamoto Akuji (talking),俺は、奉仕青年団の一員さ。,I'm a member of a service youth group.,Soy miembro de un grupo juvenil de servicio.
+Kimon Hajime (talking),地域管理組合だと~~？？？,A local management association~?,¿Una asociación de gestión local?
+Yamamoto Akuji (talking),おう、そうさ。 嘘だと思ったらついてくるか？,"Oh, yeah. If you think I'm lying, will you follow me?","Ah, sí. ¿Me seguirías si mintiera?"
+Kimon Hajime (talking),"おう、行くさ。 確かめてやらぁ。
 あんたの行く先が、本当に管理組合 だったら、俺、入ってやるよ。","Oh, I'll be there. Let's check it out.
 If your destination is really the management association, I'll join.","Oh, yo iré. Me aseguraré.
 Si su destino es realmente la asociación de gestión, me uniré."
-"Yamamoto Akuji (talking)","俺の部下になるって事だな。","That means you're going to be my guy.","Eso significa que vas a ser mi hombre."
-"Kimon Hajime (talking)","おう。","Oh.","Oh."
-"Yamamoto Akuji (talking)","ボーズ、名前は？","Bose, what's your name?","Bose, ¿cómo te llamas?"
-"Kimon Hajime (talking)","始。 鬼門始だ。","Hajime. Kimon Hajime.","Hajime. Kimon Hajime."
-"Yamamoto Akuji (talking)","そーか、ボーズ。","Well, bozos.","Bien, Bose."
-"Kimon Hajime (talking)","ボーズっつったら、名前聞いた 意味ねーじゃねぇか。 あんたは？","Boze, I asked you for a name. That doesn't mean anything. Who are you?","Boze, te pedí un nombre. Eso no significa nada. ¿Quién es usted?"
-"Yamamoto Akuji (talking)","山本悪司。","Yamamoto Akuji.","Yamamoto Akuji."
-"Kimon Hajime (talking)","……変な名前だなー。","…… That's a weird name!","…… ¡Nombre raro!"
-"Yamamoto Akuji (talking)","そーか？","Really?","¿De verdad?"
-"Yamamoto Akuji (talking)","よぅし、俺の強さを見せてやる！ 行くぜ！！　怪我したくなかったら、 とっとと尻尾巻いて逃げな！","All right, I'll show you how strong I am! Let's go!　If you don't want to get hurt, just tuck tail and run!","¡Muy bien, te mostraré lo fuerte que soy! ¡Vamos!　Si no quieres que te hagan daño, ¡métete en la cola y corre!"
-"Yamamoto Akuji (talking)","次はどいつだ！？ この俺がぶっとばしてやるぜ！","Who's next? I'm going to kick your ass!","¿Quién es el siguiente? ¡Te voy a aplastar, mierdecilla!"
-"Kimon Hajime (talking)","聞いたぞ！","I heard that!","¡Ya lo he oído!"
-"Yamamoto Akuji (talking)","ん~？","Hmm?","¿Hmm?"
-"Kimon Hajime (talking)","結婚したんだってな。 おめでとさん。","I heard you got married. Congratulations.","He oído que te has casado. Enhorabuena."
-"Yamamoto Akuji (talking)","あんがとさん。 祝儀でも持ってきてくれたのか？","Ango. Did you bring me a congratulatory gift?","Ango. ¿Me has traído un regalo de felicitación?"
-"Kimon Hajime (talking)","ちがーう！！
+Yamamoto Akuji (talking),俺の部下になるって事だな。,That means you're going to be my guy.,Eso significa que vas a ser mi hombre.
+Kimon Hajime (talking),おう。,Oh.,Oh.
+Yamamoto Akuji (talking),ボーズ、名前は？,"Bose, what's your name?","Bose, ¿cómo te llamas?"
+Kimon Hajime (talking),始。 鬼門始だ。,Hajime. Kimon Hajime.,Hajime. Kimon Hajime.
+Yamamoto Akuji (talking),そーか、ボーズ。,"Well, bozos.","Bien, Bose."
+Kimon Hajime (talking),ボーズっつったら、名前聞いた 意味ねーじゃねぇか。 あんたは？,"Boze, I asked you for a name. That doesn't mean anything. Who are you?","Boze, te pedí un nombre. Eso no significa nada. ¿Quién es usted?"
+Yamamoto Akuji (talking),山本悪司。,Yamamoto Akuji.,Yamamoto Akuji.
+Kimon Hajime (talking),……変な名前だなー。,…… That's a weird name!,…… ¡Nombre raro!
+Yamamoto Akuji (talking),そーか？,Really?,¿De verdad?
+Yamamoto Akuji (talking),よぅし、俺の強さを見せてやる！ 行くぜ！！　怪我したくなかったら、 とっとと尻尾巻いて逃げな！,"All right, I'll show you how strong I am! Let's go!　If you don't want to get hurt, just tuck tail and run!","¡Muy bien, te mostraré lo fuerte que soy! ¡Vamos!　Si no quieres que te hagan daño, ¡métete en la cola y corre!"
+Yamamoto Akuji (talking),次はどいつだ！？ この俺がぶっとばしてやるぜ！,Who's next? I'm going to kick your ass!,"¿Quién es el siguiente? ¡Te voy a aplastar, mierdecilla!"
+Kimon Hajime (talking),聞いたぞ！,I heard that!,¡Ya lo he oído!
+Yamamoto Akuji (talking),ん~？,Hmm?,¿Hmm?
+Kimon Hajime (talking),結婚したんだってな。 おめでとさん。,I heard you got married. Congratulations.,He oído que te has casado. Enhorabuena.
+Yamamoto Akuji (talking),あんがとさん。 祝儀でも持ってきてくれたのか？,Ango. Did you bring me a congratulatory gift?,Ango. ¿Me has traído un regalo de felicitación?
+Kimon Hajime (talking),"ちがーう！！
 俺だって、負けてねぇぜ！！","No!
 I'm as good as you!","¡No!
  ¡Soy tan bueno como tú!"
-"Seinendan Jyoshi (talking)","こ、こんにちわ…","Hello, hello…","Hola, hola…"
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"Kimon Hajime (talking)","こいつが、俺の女房だ！ 美子ってんだ！","This is my wife! Her name is Biko!","¡Esta es mi esposa! ¡Se llama Biko!"
-"Yamamoto Akuji (talking)","はぁぁぁぁ？？？？","Huh. ？？？？","Huh. ？？？？"
-"Kimon Hajime (talking)","抜け駆けしようったって、 そーはさせねぇぞ！
+Seinendan Jyoshi (talking),こ、こんにちわ…,"Hello, hello…","Hola, hola…"
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+Kimon Hajime (talking),こいつが、俺の女房だ！ 美子ってんだ！,This is my wife! Her name is Biko!,¡Esta es mi esposa! ¡Se llama Biko!
+Yamamoto Akuji (talking),はぁぁぁぁ？？？？,Huh. ？？？？,Huh. ？？？？
+Kimon Hajime (talking),"抜け駆けしようったって、 そーはさせねぇぞ！
 あんたに出来る事は、 俺にだって出来るんだぜ！
 今度は俺が先に子供を作るからな！ 覚悟しろ！！ 以上！　終わり！","I'm not gonna let you get away with this!
 If you can do it, I can do it!
 I'm gonna have a baby first this time! You better brace yourself! That's it!　That's it!","¡Si tratas de huir, no te voy a dejar!
 Si tú puedes hacerlo, yo también.
  ¡Esta vez voy a tener un bebé primero! Será mejor que te prepares. ¡Eso es!　¡Eso es!"
-"narrator","（それでも仲よさそうに）始は美子の 肩を抱き、その場から立ち去った。","(Still looking friendly) Hajime hugged Miko's shoulder and walked away.","(Todavía con aspecto amable) Hajime abrazó a Miko en el hombro y se alejó."
-"Yamamoto Akuji (talking)","…………なんぢゃ、ありゃ……","………… What the hell is that? ……","………… ¿Qué demonios es eso? ……"
-"Kimon Hajime (talking)","聞いたぞ！","I heard that!","¡Ya lo he oído!"
-"Yamamoto Akuji (talking)","俺の屁の音か？","Is that the sound of my fart?","¿Es ese el sonido de mi pedo?"
-"Kimon Hajime (talking)","違う！ この間、レベルアップ したそーじゃねぇか。","No! I heard that you upgraded your level the other day.","¡No, no, no! He oído que el otro día subiste de nivel."
-"Yamamoto Akuji (talking)","おう、まーな。 俺は日々の精進に手を抜かねー主義でな。","Oh, well. I'm a man who never skips a beat in my daily endeavors.","Oh, bueno. No me escatimo en mi devoción diaria."
-"Kimon Hajime (talking)","ふふん。 俺もだ。","Hmm. Me too.","Hmph. Yo también."
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"Kimon Hajime (talking)","あんたがレベルアップするなら、 俺もする！
+narrator,（それでも仲よさそうに）始は美子の 肩を抱き、その場から立ち去った。,(Still looking friendly) Hajime hugged Miko's shoulder and walked away.,(Todavía con aspecto amable) Hajime abrazó a Miko en el hombro y se alejó.
+Yamamoto Akuji (talking),…………なんぢゃ、ありゃ……,………… What the hell is that? ……,………… ¿Qué demonios es eso? ……
+Kimon Hajime (talking),聞いたぞ！,I heard that!,¡Ya lo he oído!
+Yamamoto Akuji (talking),俺の屁の音か？,Is that the sound of my fart?,¿Es ese el sonido de mi pedo?
+Kimon Hajime (talking),違う！ この間、レベルアップ したそーじゃねぇか。,No! I heard that you upgraded your level the other day.,"¡No, no, no! He oído que el otro día subiste de nivel."
+Yamamoto Akuji (talking),おう、まーな。 俺は日々の精進に手を抜かねー主義でな。,"Oh, well. I'm a man who never skips a beat in my daily endeavors.","Oh, bueno. No me escatimo en mi devoción diaria."
+Kimon Hajime (talking),ふふん。 俺もだ。,Hmm. Me too.,Hmph. Yo también.
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+Kimon Hajime (talking),"あんたがレベルアップするなら、 俺もする！
 負けてらんねーからな。 俺も秘密の特訓を積んだぜ。","If you're gonna step it up, I'm gonna step it up!
 I'm not gonna let you beat me. I've got a secret training program.","¡Si tú vas a dar un paso adelante, yo voy a dar un paso adelante!
 No voy a dejar que me ganes. Yo también tengo un entrenamiento secreto."
-"Kimon Hajime (talking)","これで俺も、次はあんたと同じレベルだ。 絶対、負けねぇ！ いつか追い抜いてやるぜ！","Now I'm on the same level as you next time. I'll never lose! Someday I'm going to overtake you!","Ahora estoy al mismo nivel que tú la próxima vez. ¡Nunca perderé! ¡Un día te alcanzaré!"
-"Yamamoto Akuji (talking)","そーかそーか、頑張れ頑張れ。","Oh well, go for it, go for it.","Oh, sí, ve a por ello, ve a por ello."
-"narrator","温泉街を我が物顔で歩いている男がいた。
+Kimon Hajime (talking),これで俺も、次はあんたと同じレベルだ。 絶対、負けねぇ！ いつか追い抜いてやるぜ！,Now I'm on the same level as you next time. I'll never lose! Someday I'm going to overtake you!,Ahora estoy al mismo nivel que tú la próxima vez. ¡Nunca perderé! ¡Un día te alcanzaré!
+Yamamoto Akuji (talking),そーかそーか、頑張れ頑張れ。,"Oh well, go for it, go for it.","Oh, sí, ve a por ello, ve a por ello."
+narrator,"温泉街を我が物顔で歩いている男がいた。
  　　［どんっ］
 その男の肩に、チンピラがぶつかった。","There was a man walking through a hot spring resort with his own face.
  　　［Dong!]
 A thug bumped into his shoulder.","Había un hombre caminando por la ciudad balneario con su propia cara.
  　　[ruido sordo].
 Un matón chocó con el hombro del hombre."
-"Chinpira (talking)","おう、いてぇな！ 何しやがる！！","Oh, that stings! What the hell are you doing!","¡Oh, Jesús, eso pica! ¿Qué coño estás haciendo?"
-"Kimon Hajime (talking)","んぁぁ？","Hmm?","¿Hmm?"
-"Chinpira (talking)","うっ…","Ugh…","Ugh…"
-"Kimon Hajime (talking)","ぶつかってきたのは、そっちだろうが？ ああ！？","You're the one who hit me, right? Aah!","Tú eres el que se topó conmigo, ¿verdad? ¡Ah!"
-"Chinpira (talking)","…………ちっ……","………… damn it ……","………… chit ……"
-"narrator","チンピラは男の眼光に恐れをなし、 舌打ちをすると、そこからそそくさと 立ち去った。","The thug, fearful of the man's eyes, clicked his tongue and slunk away.","Los matones tuvieron miedo de mirar al hombre a los ojos, chasquearon la lengua y se escabulleron."
-"Kimon Hajime (talking)","ったくよぉ… どこかに俺より強い奴は いねぇのかよ……","Damn… is there anyone stronger than me out there? ……","Jesucristo… ¿no hay alguien más fuerte que yo en alguna parte? ……"
-"narrator","奉仕青年団に入ったばかりの始は、 事務所の中を好奇心一杯でうろうろしていた。","Hajime, a newcomer to the Youth Service League, was wandering around the office with a curious look on his face.","Hajime, que acababa de ingresar en el Cuerpo de Jóvenes de Servicio, se paseaba por la oficina lleno de curiosidad."
-"__system__??","{RND \ 0:","",""
-"Kinugasa Tomoko (talking)","あの…始君。","Um…Hajime.","Um… Hajime."
-"Kimon Hajime (talking)","ウイッス。","Ui~su.","Ui~su."
-"Kinugasa Tomoko (talking)","今、あなたの知り合いだという女性が、 あなたに、これを…","Now, this woman who says she knows you, she's telling you this…","Ahora, esta mujer que dice conocerte, te está diciendo esto…"
-"narrator","と、智子は始に手紙を渡した。","And Tomoko gave a letter to Hajime.","Y Tomoko entregó una carta a Hajime."
-"Kimon Hajime (talking)","ウイッス、すみません。 先輩にパシリさせて。","Oui-ss, I'm sorry. I'm sorry, I'm sorry, I'm sorry, I'm sorry.","Oui, lo siento. Deja que los mayores me pasen."
-"Kinugasa Tomoko (talking)","い、いいえ、そんな… そんなに気を使わなくても大丈夫よ。
+Chinpira (talking),おう、いてぇな！ 何しやがる！！,"Oh, that stings! What the hell are you doing!","¡Oh, Jesús, eso pica! ¿Qué coño estás haciendo?"
+Kimon Hajime (talking),んぁぁ？,Hmm?,¿Hmm?
+Chinpira (talking),うっ…,Ugh…,Ugh…
+Kimon Hajime (talking),ぶつかってきたのは、そっちだろうが？ ああ！？,"You're the one who hit me, right? Aah!","Tú eres el que se topó conmigo, ¿verdad? ¡Ah!"
+Chinpira (talking),…………ちっ……,………… damn it ……,………… chit ……
+narrator,チンピラは男の眼光に恐れをなし、 舌打ちをすると、そこからそそくさと 立ち去った。,"The thug, fearful of the man's eyes, clicked his tongue and slunk away.","Los matones tuvieron miedo de mirar al hombre a los ojos, chasquearon la lengua y se escabulleron."
+Kimon Hajime (talking),ったくよぉ… どこかに俺より強い奴は いねぇのかよ……,Damn… is there anyone stronger than me out there? ……,Jesucristo… ¿no hay alguien más fuerte que yo en alguna parte? ……
+narrator,奉仕青年団に入ったばかりの始は、 事務所の中を好奇心一杯でうろうろしていた。,"Hajime, a newcomer to the Youth Service League, was wandering around the office with a curious look on his face.","Hajime, que acababa de ingresar en el Cuerpo de Jóvenes de Servicio, se paseaba por la oficina lleno de curiosidad."
+__system__??,{RND \ 0:,,
+Kinugasa Tomoko (talking),あの…始君。,Um…Hajime.,Um… Hajime.
+Kimon Hajime (talking),ウイッス。,Ui~su.,Ui~su.
+Kinugasa Tomoko (talking),今、あなたの知り合いだという女性が、 あなたに、これを…,"Now, this woman who says she knows you, she's telling you this…","Ahora, esta mujer que dice conocerte, te está diciendo esto…"
+narrator,と、智子は始に手紙を渡した。,And Tomoko gave a letter to Hajime.,Y Tomoko entregó una carta a Hajime.
+Kimon Hajime (talking),ウイッス、すみません。 先輩にパシリさせて。,"Oui-ss, I'm sorry. I'm sorry, I'm sorry, I'm sorry, I'm sorry.","Oui, lo siento. Deja que los mayores me pasen."
+Kinugasa Tomoko (talking),"い、いいえ、そんな… そんなに気を使わなくても大丈夫よ。
 でもその人、それを私に渡すと、 さっさと帰っちゃって……","No, no, no, no, you don't have to be so careful.
 But he gave it to me, and then he just left……","No, no, no… no tienes que ser tan cuidadoso.
 Pero me lo dio y luego se fue……"
-"Kimon Hajime (talking)","どんな奴でした？","What was he like?","¿Cómo era?"
-"Kinugasa Tomoko (talking)","品のよさそうな、どこかのお金持ちの 奥様って感じの人だったわ…","She looked like a classy, rich wife from somewhere…","Parecía una esposa rica y con clase de algún lugar…"
-"Kimon Hajime (talking)","………","………","………"
-"Kinugasa Tomoko (thinking)","そういえば、少し始君に 似ていたような…","Come to think of it, you look a little like Hajime…","Ahora que lo pienso, te pareces un poco a Hajime…"
-"__system__??","} else {","",""
-"Seinendan Jyoshi (talking)","鬼門さん、今、知り合いだという女性が、 鬼門さんにこれを…","Kimon, a woman who says she knows you just now told Kimon this…","Kimon, una mujer que dice conocerte acaba de decir a Kimon esto…"
-"narrator","と、始に手紙を渡した。","and gave the letter to Hajime.","y le entregó la carta a Hajime."
-"Kimon Hajime (talking)","ウイッス、すみません。 先輩にパシリさせて。","Oui-ss, I'm sorry. I'm sorry, I'm sorry, I'm sorry, I'm sorry.","Oui, lo siento. Deja que los mayores me pasen."
-"__system__??","}","",""
-"narrator","始は手紙を見た。","Hajime saw the letter.","Hajime vio la carta."
-"Kimon Hajime (talking)","やっぱり、お袋か…","I knew it. I knew it.","Sabía que era tu madre o…"
-"narrator","始ちゃん、どうしてそんな危険な所にいるの？ お小遣いなら困らないくらい渡しているはず なのに……お母さん悲しいわ。
+Kimon Hajime (talking),どんな奴でした？,What was he like?,¿Cómo era?
+Kinugasa Tomoko (talking),品のよさそうな、どこかのお金持ちの 奥様って感じの人だったわ…,"She looked like a classy, rich wife from somewhere…",Parecía una esposa rica y con clase de algún lugar…
+Kimon Hajime (talking),………,………,………
+Kinugasa Tomoko (thinking),そういえば、少し始君に 似ていたような…,"Come to think of it, you look a little like Hajime…","Ahora que lo pienso, te pareces un poco a Hajime…"
+__system__??,} else {,,
+Seinendan Jyoshi (talking),鬼門さん、今、知り合いだという女性が、 鬼門さんにこれを…,"Kimon, a woman who says she knows you just now told Kimon this…","Kimon, una mujer que dice conocerte acaba de decir a Kimon esto…"
+narrator,と、始に手紙を渡した。,and gave the letter to Hajime.,y le entregó la carta a Hajime.
+Kimon Hajime (talking),ウイッス、すみません。 先輩にパシリさせて。,"Oui-ss, I'm sorry. I'm sorry, I'm sorry, I'm sorry, I'm sorry.","Oui, lo siento. Deja que los mayores me pasen."
+__system__??,},,
+narrator,始は手紙を見た。,Hajime saw the letter.,Hajime vio la carta.
+Kimon Hajime (talking),やっぱり、お袋か…,I knew it. I knew it.,Sabía que era tu madre o…
+narrator,"始ちゃん、どうしてそんな危険な所にいるの？ お小遣いなら困らないくらい渡しているはず なのに……お母さん悲しいわ。
 　　［びりっっ］
 始はそれを破いて捨てた。","Hajime, why are you in such a dangerous place? I'm sure you've given her enough pocket money to keep her out of trouble, but…… mom, I'm so sad.
 　　［Biri~~］
 Hajime ripped it up and threw it away.","Hajime, ¿por qué estás en un lugar tan peligroso? Estoy segura de que le has dado suficiente dinero de bolsillo para que no se meta en líos, pero…… mamá, estoy muy triste.
 　　［Biri~~］
 Hajime lo rompió y lo tiró."
-"Kimon Hajime (talking)","俺が欲しいのは金じゃなくて 目標だ……
+Kimon Hajime (talking),"俺が欲しいのは金じゃなくて 目標だ……
 お嬢様育ちのお袋にそれを 解れっつっても無駄だしな…","I don't want money, I want goals……
 You can't expect my mother, who grew up a young lady, to understand that.","No quiero dinero, quiero goles……
 No puedes esperar que mi madre, que creció como una jovencita, entienda eso…"
-"__system__??","{GOLD < 1000:","",""
-"Kimon Hajime (talking)","んだけど、ここは貧乏そうだなー… 金が足りなくなったら、助けてやるか。","I'm not sure if I'll be able to help you if you run out of money.","Pero parece que eres pobre aquí… Si te quedas sin dinero, te ayudaré."
-"__system__??","}","",""
-"narrator","始が橋の上に立っている。","Hajime is standing on the bridge.","Hajime está de pie en el puente."
-"Kimon Hajime (talking)","さぁて…悪司より強くなっちまったから、 俺は奉仕青年団にいる意味が なくなっちまった。
+__system__??,{GOLD < 1000:,,
+Kimon Hajime (talking),んだけど、ここは貧乏そうだなー… 金が足りなくなったら、助けてやるか。,I'm not sure if I'll be able to help you if you run out of money.,"Pero parece que eres pobre aquí… Si te quedas sin dinero, te ayudaré."
+__system__??,},,
+narrator,始が橋の上に立っている。,Hajime is standing on the bridge.,Hajime está de pie en el puente.
+Kimon Hajime (talking),"さぁて…悪司より強くなっちまったから、 俺は奉仕青年団にいる意味が なくなっちまった。
 もっと強い奴に会いに行くとすっか。","Well…now that I'm stronger than Akuji, I've lost the point of being in the Youth Service League.
 I guess I'll go meet someone stronger.","Bueno… ahora que soy más fuerte que Akuji, he perdido el sentido de estar en el Cuerpo de Servicio Juvenil.
 Supongo que iré a conocer a alguien más fuerte."

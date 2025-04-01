@@ -1,73 +1,73 @@
-"character","jap text","Eng","Esp"
-"__system__??","{麦 = 1:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 3:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 10:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 11:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 13:","",""
-"__system__??","{H物欲抵抗 <= H物欲:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 15:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 16:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 17:","",""
-"__system__??","{H拷問抵抗 < H拷問:","",""
-"__system__??","}","",""
-"__system__??","{H拷問 = 1:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","よう、アフロ仮面。","Yo, Afro Mask.","Yo, Afro Mask."
-"Yume's Manservant (talking)","だから…… その呼び方、止めてくれないか……","So…… can you stop calling me that ……","Así que…… puedes dejar de llamarme así ……"
-"Yamamoto Akuji (talking)","ほれ、ボーナス。","See, bonus.","Mira, bono."
-"Yume's Manservant (talking)","うむ……有り難く頂いておく。","Mm…… thank you very much.","Mm…… Afortunadamente, lo tomaré."
-"Yamamoto Akuji (talking)","ところで、一つ訊きたいんだが……
+character,jap text,Eng,Esp
+__system__??,{麦 = 1:,,
+__system__??,},,
+__system__??,{麦 = 3:,,
+__system__??,},,
+__system__??,{麦 = 10:,,
+__system__??,},,
+__system__??,{麦 = 11:,,
+__system__??,},,
+__system__??,{麦 = 13:,,
+__system__??,{H物欲抵抗 <= H物欲:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 15:,,
+__system__??,},,
+__system__??,{麦 = 16:,,
+__system__??,},,
+__system__??,{麦 = 17:,,
+__system__??,{H拷問抵抗 < H拷問:,,
+__system__??,},,
+__system__??,{H拷問 = 1:,,
+__system__??,},,
+__system__??,},,
+Yamamoto Akuji (talking),よう、アフロ仮面。,"Yo, Afro Mask.","Yo, Afro Mask."
+Yume's Manservant (talking),だから…… その呼び方、止めてくれないか……,So…… can you stop calling me that ……,Así que…… puedes dejar de llamarme así ……
+Yamamoto Akuji (talking),ほれ、ボーナス。,"See, bonus.","Mira, bono."
+Yume's Manservant (talking),うむ……有り難く頂いておく。,Mm…… thank you very much.,"Mm…… Afortunadamente, lo tomaré."
+Yamamoto Akuji (talking),"ところで、一つ訊きたいんだが……
 おめーさあ、俺がやってる給料の大半を 孤児院に寄付したり貧民街の炊き出しに 使ったりしてるそうだが、マジなのか？","By the way, I have one question for you: ……
 I heard that you donate most of my salary to an orphanage and a soup kitchen in the favelas.","Por cierto, me gustaría hacerle una pregunta: ……
 He oído que dona la mayor parte de su sueldo a un orfanato y a un comedor social en las favelas, ¿habla en serio?"
-"Yume's Manservant (talking)","ああ、本当だが。","Yeah, true, but.","Sí, es cierto, pero."
-"Yamamoto Akuji (talking)","何でそんな勿体ない真似すんだよ……","Why are you such a waste of time? ……","¿Por qué eres una pérdida de tiempo? ……"
-"Yume's Manservant (talking)","我が心は今でも那古神様と共にある。
+Yume's Manservant (talking),ああ、本当だが。,"Yeah, true, but.","Sí, es cierto, pero."
+Yamamoto Akuji (talking),何でそんな勿体ない真似すんだよ……,Why are you such a waste of time? ……,¿Por qué eres una pérdida de tiempo? ……
+Yume's Manservant (talking),"我が心は今でも那古神様と共にある。
 人生の全てを費やして、 那古神様の理想実現のため尽力するのが 我が使命なのだ。","My heart is still with Goddess Nako.
 It is my mission to devote my entire life to the realization of Goddess Nako's ideals.","Mi corazón sigue con la Diosa Nako.
 Mi misión es dedicar toda mi vida a la realización de los ideales de la diosa Nako."
-"Yamamoto Akuji (talking)","…………はあ、さいですか。","………… is Oh, Sai?","………… es ah, sai?"
-"Yume's Manservant (talking)","お前も少しは、世のため人のため 素直に奉仕する心を持てばどうなのだ？","Why don't you have a little bit of a heart to honestly serve the world and others?","¿Por qué no tienes un poco de servicio honesto para el mundo?"
-"Yamamoto Akuji (talking)","大きなお世話だ。","It's none of your business.","Gran cosa."
-"Yamamoto Akuji (talking)","よう、アフロ仮面。","Yo, Afro Mask.","Yo, Afro Mask."
-"Yume's Manservant (talking)","…………何だ、その呼び方は。","………… What's that you call it?","………… ¿Cómo se llama?"
-"Yamamoto Akuji (talking)","いや、見たまんまを言っただけだが。
+Yamamoto Akuji (talking),…………はあ、さいですか。,"………… is Oh, Sai?","………… es ah, sai?"
+Yume's Manservant (talking),お前も少しは、世のため人のため 素直に奉仕する心を持てばどうなのだ？,Why don't you have a little bit of a heart to honestly serve the world and others?,¿Por qué no tienes un poco de servicio honesto para el mundo?
+Yamamoto Akuji (talking),大きなお世話だ。,It's none of your business.,Gran cosa.
+Yamamoto Akuji (talking),よう、アフロ仮面。,"Yo, Afro Mask.","Yo, Afro Mask."
+Yume's Manservant (talking),…………何だ、その呼び方は。,………… What's that you call it?,………… ¿Cómo se llama?
+Yamamoto Akuji (talking),"いや、見たまんまを言っただけだが。
 ところでよ、おめーのその仮面、 やっぱあの那古教とか言う 宗教のルールでつけてんのか？","No, I'm just saying what I saw.
 By the way, is that mask you're wearing based on the rules of that Nakokyou religion?","No, sólo digo lo que vi.
 Por cierto, ¿esa máscara que llevas se basa en las reglas de esa religión Nakokyou?"
-"Yume's Manservant (talking)","これは那古神様とは関係ない。 理由があって、 我らが自発的に着けているのだ。","This has nothing to do with Nakojin. We wear them voluntarily for a reason.","Esto no tiene nada que ver con Nako Dios. Las llevamos voluntariamente por una razón."
-"Yamamoto Akuji (talking)","なら、 アフロ仮面って呼んでも問題ないな。","Then I have no problem calling him Afro Mask.","Entonces no tengo problema en llamarte Afro Mask."
-"Yume's Manservant (talking)","何故そうなるのだ……","Why is that so: ……","Por qué es así: ……"
-"Yamamoto Akuji (talking)","じゃあ、マッスル仮面。 どっちがいい？","Okay, Muscle Mask. Which one do you want?","Luego, la máscara muscular. ¿Cuál quieres?"
-"Yume's Manservant (talking)","………………","………………","………………"
-"Yamamoto Akuji (talking)","怒んなよ……","Don't be mad: ……","No te enfades: ……"
-"Yamamoto Akuji (talking)","よう、アフロ仮面。","Yo, Afro Mask.","Yo, Afro Mask."
-"Yume's Manservant (talking)","だから、その呼び方をやめろ。","So stop calling them that.","Así que deja de llamarlos así."
-"Yamamoto Akuji (talking)","いいじゃねーか、親しみやすくてよ。","It's nice, isn't it? It's friendly.","Es bonito, ¿no? Es amistoso."
-"Yume's Manservant (talking)","我らは那古神様以外の主を 仰ごうとは思わん。 貴様に親しまれても困る。","We will not worship any lord other than the Lord Nako. We do not want you to be familiar with us.","No deseamos adorar a ningún otro maestro que no sea el Dios Nako. No queremos que te hagas amigo de nosotros."
-"Yamamoto Akuji (talking)","まあ、そう言うなって。","Well, don't say that.","Bueno, no digas eso."
-"Yamamoto Akuji (talking)","なあ、アフロ仮面。 俺の部下になっちゃくんねえかな？","Hey, Afro Mask. Won't you be my subordinate?","Oye, Afro Mask. ¿No quieres ser mi hombre?"
-"Yume's Manservant (talking)","お前の部下……だと？ 世迷い言を…………","Your man ……? You're talking nonsense …………","¿Tu hombre ……? Estás diciendo tonterías …………"
-"Yamamoto Akuji (talking)","いや、世迷い言じゃねえって。 おめーはかなりの使い手だ、 マジで部下に欲しいんだよ。","No, I'm not kidding. You're a pretty good shot. I really want you under my command.","No, no estoy diciendo tonterías. Eres un buen tirador, realmente te quiero bajo mi mando."
-"Yume's Manservant (talking)","……………………","……………………","……………………"
-"Yamamoto Akuji (talking)","やっぱアレか？ 教祖様に絶対忠誠とかでダメか？","Is that it? No?","¿Es eso? ¿No? ¿Lealtad absoluta a Oyasama o algo así?"
-"Yume's Manservant (talking)","それは当然だ。だが……","That's a given. But ……","Así es como debe ser. Pero ……"
-"Yamamoto Akuji (talking)","だが？","But?","Pero…"
-"Yume's Manservant (talking)","……お前には、感謝している。
+Yume's Manservant (talking),これは那古神様とは関係ない。 理由があって、 我らが自発的に着けているのだ。,This has nothing to do with Nakojin. We wear them voluntarily for a reason.,Esto no tiene nada que ver con Nako Dios. Las llevamos voluntariamente por una razón.
+Yamamoto Akuji (talking),なら、 アフロ仮面って呼んでも問題ないな。,Then I have no problem calling him Afro Mask.,Entonces no tengo problema en llamarte Afro Mask.
+Yume's Manservant (talking),何故そうなるのだ……,Why is that so: ……,Por qué es así: ……
+Yamamoto Akuji (talking),じゃあ、マッスル仮面。 どっちがいい？,"Okay, Muscle Mask. Which one do you want?","Luego, la máscara muscular. ¿Cuál quieres?"
+Yume's Manservant (talking),………………,………………,………………
+Yamamoto Akuji (talking),怒んなよ……,Don't be mad: ……,No te enfades: ……
+Yamamoto Akuji (talking),よう、アフロ仮面。,"Yo, Afro Mask.","Yo, Afro Mask."
+Yume's Manservant (talking),だから、その呼び方をやめろ。,So stop calling them that.,Así que deja de llamarlos así.
+Yamamoto Akuji (talking),いいじゃねーか、親しみやすくてよ。,"It's nice, isn't it? It's friendly.","Es bonito, ¿no? Es amistoso."
+Yume's Manservant (talking),我らは那古神様以外の主を 仰ごうとは思わん。 貴様に親しまれても困る。,We will not worship any lord other than the Lord Nako. We do not want you to be familiar with us.,No deseamos adorar a ningún otro maestro que no sea el Dios Nako. No queremos que te hagas amigo de nosotros.
+Yamamoto Akuji (talking),まあ、そう言うなって。,"Well, don't say that.","Bueno, no digas eso."
+Yamamoto Akuji (talking),なあ、アフロ仮面。 俺の部下になっちゃくんねえかな？,"Hey, Afro Mask. Won't you be my subordinate?","Oye, Afro Mask. ¿No quieres ser mi hombre?"
+Yume's Manservant (talking),お前の部下……だと？ 世迷い言を…………,Your man ……? You're talking nonsense …………,¿Tu hombre ……? Estás diciendo tonterías …………
+Yamamoto Akuji (talking),いや、世迷い言じゃねえって。 おめーはかなりの使い手だ、 マジで部下に欲しいんだよ。,"No, I'm not kidding. You're a pretty good shot. I really want you under my command.","No, no estoy diciendo tonterías. Eres un buen tirador, realmente te quiero bajo mi mando."
+Yume's Manservant (talking),……………………,……………………,……………………
+Yamamoto Akuji (talking),やっぱアレか？ 教祖様に絶対忠誠とかでダメか？,Is that it? No?,¿Es eso? ¿No? ¿Lealtad absoluta a Oyasama o algo así?
+Yume's Manservant (talking),それは当然だ。だが……,That's a given. But ……,Así es como debe ser. Pero ……
+Yamamoto Akuji (talking),だが？,But?,Pero…
+Yume's Manservant (talking),"……お前には、感謝している。
 あの抗争の最中、死なずに済んで こうして生き延びさせてもらっている事を 私はお前の温情だと解釈している。","I am grateful to…… you.
 I interpret it as your kindness that you didn't die in the middle of that war, and that you let me live on like this.","Estoy agradecido a …….
 Lo interpreto como tu calidez por no haber muerto durante ese conflicto y haberme dejado seguir viviendo así."
-"Yamamoto Akuji (talking)","お……そりゃ意外だな。 てっきり俺は 憎まれてるもんだと思ったぜ。","Oh ……, that's surprising. I thought I was hated.","Oh ……, eso es sorprendente. Pensaba que era a mí a quien odiaban."
-"Yume's Manservant (talking)","私は元来、とある有名な道場の門下生だ。 那古神様の僕であると同時に、 一人の武道家でもある。
+Yamamoto Akuji (talking),お……そりゃ意外だな。 てっきり俺は 憎まれてるもんだと思ったぜ。,"Oh ……, that's surprising. I thought I was hated.","Oh ……, eso es sorprendente. Pensaba que era a mí a quien odiaban."
+Yume's Manservant (talking),"私は元来、とある有名な道場の門下生だ。 那古神様の僕であると同時に、 一人の武道家でもある。
 その、武道家としての面で言うなら……
 自分を打ち負かした相手を認め、 その後にかけてもらった温情に応えて 部下として戦うことは……
  ……それほど、抵抗のある話ではない。","I am originally a student of a famous dojo. I am a martial artist as well as a servant of Nakojin-sama.
@@ -76,8 +76,8 @@ To recognize an opponent who has defeated you, and to fight him as a subordinate
 It is not so much a matter of resistance……","Originalmente soy un estudiante de un famoso dojo. Soy un artista marcial, así como un siervo de Dios Nako.
 En términos de ser un artista marcial, soy un artista marcial……
 Reconocer a un oponente que te ha vencido, y luchar como un subordinado en respuesta a la calidez que te han mostrado después, es ………… no es tanto una cuestión de resistencia."
-"Yamamoto Akuji (talking)","そーかそーか、だったら……","Oh well, if that's the case, then ……","Oh, claro, entonces ……"
-"Yume's Manservant (talking)","……ただし。
+Yamamoto Akuji (talking),そーかそーか、だったら……,"Oh well, if that's the case, then ……","Oh, claro, entonces ……"
+Yume's Manservant (talking),"……ただし。
 今の私は単なる武道家ではない。 あくまで那古神様の僕なのだ。
 那古神様の抱く理想に耳を貸そうとせず、 我ら信徒に戦いを挑んだお前は 憎んでも憎み足りぬ悪しき邪教徒よ。
 絶対に、手は貸せぬ。","…… however.
@@ -87,53 +87,53 @@ I will not help you.","…… Sin embargo.
 Ahora no soy sólo un artista marcial. Soy un servidor de la Diosa Nako.
 Tú, que no has escuchado los ideales sostenidos por la Diosa Nako, y nos has desafiado a los creyentes a una pelea, eres un malvado perverso al que odio, pero no te odio lo suficiente.
 Nunca te prestaré mi mano."
-"Yamamoto Akuji (talking)","あれま。","Oh, no.","Oh, Dios."
-"Yamamoto Akuji (talking)","なーなー、アフロ仮面よお。 俺の部下になってくれってばさ。","Hey, Afro Mask. I want you to be my subordinate.","Oye, Afro Mask. Quiero que seas mi hombre."
-"Yume's Manservant (talking)","……くどいぞ、お前。 我が意志は何度と無く伝えたはずだ。","…… You're a pain in the ass, pal. I have told you my will many times.","…… Eres un grano en el culo, amigo. Te he dicho mi voluntad muchas veces."
-"Yamamoto Akuji (talking)","……………………
+Yamamoto Akuji (talking),あれま。,"Oh, no.","Oh, Dios."
+Yamamoto Akuji (talking),なーなー、アフロ仮面よお。 俺の部下になってくれってばさ。,"Hey, Afro Mask. I want you to be my subordinate.","Oye, Afro Mask. Quiero que seas mi hombre."
+Yume's Manservant (talking),……くどいぞ、お前。 我が意志は何度と無く伝えたはずだ。,"…… You're a pain in the ass, pal. I have told you my will many times.","…… Eres un grano en el culo, amigo. Te he dicho mi voluntad muchas veces."
+Yamamoto Akuji (talking),"……………………
 しゃあねえな、ハナっから正攻法で 行けると思っちゃいなかったが……","……………………
 I guess it's a good thing, I didn't think we could go in the right direction from the get-go……","……………………
 No te culpo, no creí que fuéramos a empezar con buen pie desde el principio……"
-"Yume's Manservant (talking)","………？ 何をする気だ。","………? What are you doing.","………? ¿Qué vas a hacer?"
-"Yamamoto Akuji (talking)","ちょっとお前の事を調べたんだが…… お前、熱拳道場の高弟だったらしいな。
+Yume's Manservant (talking),………？ 何をする気だ。,………? What are you doing.,………? ¿Qué vas a hacer?
+Yamamoto Akuji (talking),"ちょっとお前の事を調べたんだが…… お前、熱拳道場の高弟だったらしいな。
 修業時代は酒にも女にも脇目をふらず、 クソマジメ一辺倒だったとか。
 そこにあんな可愛らしい教祖様と 宗教だもんなあ。そりゃもう、 クラっと来ちまってもしゃあねえわな。","I did a little research on you…… and found out that you were a high disciple of Nekken Dojo.
 I heard that you were a high disciple of the Nekken Dojo, and that during your training days, you never gave a second thought to alcohol or women, and were all serious as hell.
 And there you are with such a lovely Oyasama and her religion. I can't help but feel a bit nervous.","He estado investigando sobre ti…… He oído que eras un alto discípulo del Dojo del Puño Caliente.
 Cuando estabas entrenando, eras muy serio, ni siquiera te lo pensabas dos veces a la hora de beber o de las mujeres.
 Y ahí tienes a esa encantadora Oyasama y su religión. Eso es suficiente para ponerte un poco nervioso."
-"Yume's Manservant (talking)","何が言いたいのだ、貴様……","What's your point, you ……","¿Qué estás tratando de decir, tú ……"
-"Yamamoto Akuji (talking)","ニヤリ。
- ………………お前にこれをやろう。 だから俺の部下になれ。","Grin.……………… I'll give you this. So be my man.","Sonríe.……………… Te voy a dar esto. Así que sé mi hombre."
-"Yume's Manservant (talking)","？　何だこれは……写真か？
+Yume's Manservant (talking),何が言いたいのだ、貴様……,"What's your point, you ……","¿Qué estás tratando de decir, tú ……"
+Yamamoto Akuji (talking),"ニヤリ。
+ ………………お前にこれをやろう。 だから俺の部下になれ。",Grin.……………… I'll give you this. So be my man.,Sonríe.……………… Te voy a dar esto. Así que sé mi hombre.
+Yume's Manservant (talking),"？　何だこれは……写真か？
 フッ……私を見くびるのも大概にしろ。 このような写真で我が心が揺ぐなど……","What is this?　What is this, a…… photo?
 Hmph ……, don't underestimate me. How can my heart be swayed by such a picture? ……","?　¿Qué es esto…… una foto?
 Huff ……, me subestimas. ¿Cómo puede mi corazón dejarse llevar por una fotografía así? ……"
-"Yamamoto Akuji (talking)","…………ほんとにか？ 写真をよーく確認しなくていいのか？","………… Really? Don't you have to check the pictures carefully?","………… ¿Está seguro? ¿No hay que revisar las fotos con cuidado?"
-"Yume's Manservant (talking)","……………………？
+Yamamoto Akuji (talking),…………ほんとにか？ 写真をよーく確認しなくていいのか？,………… Really? Don't you have to check the pictures carefully?,………… ¿Está seguro? ¿No hay que revisar las fotos con cuidado?
+Yume's Manservant (talking),"……………………？
  ……………………なっ………… なあんだとおおおおおおおおっ！！？
 こっ、これはこれは一体全体…… どっ、どどどどどういう事なのだ！","……………………?…………………… What the………… Hey, what the hell, oh, oh, oh, oh!
 What the heck is this?…… What the heck is this?","……………………?…………………… Lo que el………… ¡Oye, oye, oye, oye, oye, oye, oye!
 Esto, esto, esto es todo…… que, que, que, que, que, que, que, ¡qué demonios está pasando!"
-"Yamamoto Akuji (talking)","いや、うちの情報収集担当が、 盗み撮りしたらしいんだけどな。","No, our information-gathering guy apparently stole it.","No, nuestro oficial de información aparentemente lo robó."
-"Yume's Manservant (talking)","ああ、あああっ………………！
+Yamamoto Akuji (talking),いや、うちの情報収集担当が、 盗み撮りしたらしいんだけどな。,"No, our information-gathering guy apparently stole it.","No, nuestro oficial de información aparentemente lo robó."
+Yume's Manservant (talking),"ああ、あああっ………………！
 お食事をなさる那古神様、 楽しそうに談笑なさる那古神様、 夕焼けに目を細める那古神様！！！","Oh, oh, oh… ………………!
 Nakojin eating, Nakojin chatting happily, Nakojin squinting at the sunset!","¡Oh, oh, oh! ¡………………!
 El Señor Nako comiendo, el Señor Nako charlando alegremente, el Señor Nako mirando la puesta de sol."
-"Yamamoto Akuji (talking)","言っとくが、それ、生写真だぞ。","Let me tell you, that's a raw photo.","Te digo que es una foto cruda."
-"Yume's Manservant (talking)","うおおおおおおおおおおおおおおおおお おおおおおおおおおおおおおおおおおお おおおおおおおおおおおおおおっ！！","Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!","Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!"
-"Yamamoto Akuji (talking)","他にも、物憂げな顔の教祖様とか 寝間着で白単衣の教祖様とか まだまだいっぱいあるぞー。
+Yamamoto Akuji (talking),言っとくが、それ、生写真だぞ。,"Let me tell you, that's a raw photo.",Te digo que es una foto cruda.
+Yume's Manservant (talking),うおおおおおおおおおおおおおおおおお おおおおおおおおおおおおおおおおおお おおおおおおおおおおおおおおっ！！,Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!,Waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!
+Yamamoto Akuji (talking),"他にも、物憂げな顔の教祖様とか 寝間着で白単衣の教祖様とか まだまだいっぱいあるぞー。
 これが欲しけりゃ、部下になれ。","There are many more, like Oyasama with a languid face, or Oyasama in Haku single robe in her nightgown, and many more!
 If you want this, be my subordinate.","Hay muchas más, como Oyasama con el rostro lánguido, u Oyasama en Haku de ropa de dormir, ¡y muchas más!
 Si quieres esto, sé mi subordinado."
-"Yume's Manservant (talking)","ひっ、卑怯なり！！ 卑怯だぞきさまああああああああっ！！","It's not fair! It's not fair!","¡No es justo! ¡No es justo!"
-"Yamamoto Akuji (talking)","どーする？ さあどーする？ ネガもろとも破っちゃおうかな~。","What are you going to do? What do we do now? I think I'll tear up the negatives too!","¿Qué hacemos ahora? ¿Qué hacemos ahora? Creo que yo también romperé los negativos."
-"Yume's Manservant (talking)","やっ、やめろ、やめてくれえええっ！！
+Yume's Manservant (talking),ひっ、卑怯なり！！ 卑怯だぞきさまああああああああっ！！,It's not fair! It's not fair!,¡No es justo! ¡No es justo!
+Yamamoto Akuji (talking),どーする？ さあどーする？ ネガもろとも破っちゃおうかな~。,What are you going to do? What do we do now? I think I'll tear up the negatives too!,¿Qué hacemos ahora? ¿Qué hacemos ahora? Creo que yo también romperé los negativos.
+Yume's Manservant (talking),"やっ、やめろ、やめてくれえええっ！！
 解った、部下になる、貴様のために働く！ だからその写真を裂かないでくれええっ！","No, no, no, no, no, no, no, no, no, no, no!
 Okay, I'll be your man, I'll work for you! So don't rip up that picture, please!","¡No, no, no, no!
 De acuerdo, seré tu hombre, ¡trabajaré para ti! Así que no rompas esa foto, por favor."
-"Yamamoto Akuji (talking)","よーし、交渉成立だな。","Alright, we've got a deal.","Muy bien, tenemos un trato."
-"Yume's Manservant (talking)","…………………………
+Yamamoto Akuji (talking),よーし、交渉成立だな。,"Alright, we've got a deal.","Muy bien, tenemos un trato."
+Yume's Manservant (talking),"…………………………
 たっ、ただしっ………… 条件があるッ！！
 私は那古神様と 観世那古真燈教に対しては 絶対に拳を向けぬからな！
 あと、貴様が那古神様の命を奪った時は、 貴様に対して必ず反旗を翻す！！
@@ -146,15 +146,15 @@ Pero, pero………… ¡Tengo una condición!
  ¡Nunca levantaré mi puño contra la Diosa Nako o la Kuanzinako Shingon!
  ¡Y si tomas la vida de la Diosa Nako, definitivamente me volveré contra ti!
 Es lo mínimo que puedes hacer. ¡También, por favor, proteja …………! Así que date prisa y envía esa foto a …………."
-"Yamamoto Akuji (talking)","よし。ほれ。","All right. Here you go.","DE ACUERDO. Aquí tienes."
-"Yume's Manservant (talking)","うおおおおおおおおおおおおおおおおお おおおおおおお那古神様あああああああ あああああああああああああああっ！！","",""
-"Yamamoto Akuji (thinking)","……………………………… こいつ、絶対バカだ………………","……………………………… This guy is an absolute moron: ………………","……………………………… Es un absoluto idiota………………"
-"__system__??","{RND = 1:","",""
-"Yume's Manservant (talking)","那古神様には指一本触れさせん！ かかってこい、クズども！！！！","Nako God will not be touched! Come at me, scum! ！！！！","¡Nako Dios no se deja tocar! ¡Venid a por mí, escoria! ！！！！"
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"Yume's Manservant (talking)","観世那古真燈教は永遠に不滅なりッ！ 正義の拳を受けてみろォォォォっ！！","Kanzenako Shintoukyo will be immortal forever! Receive the fist of justice!","¡El Kanzenako Shintōkyo es eterno e inmortal! ¡Recibe el puño de la justicia!"
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"Yume's Manservant (talking)","愚か者どもが！ 我らが那古神様の掲げる理念、 貴様らごときに邪魔はさせんぞ！！","You fools! You will not stand in the way of the ideals that we, the Nako Gods, stand for!","¡Idiotas! ¡No te interpondrás en el camino de los ideales de nuestro Dios Nako!"
-"__system__??","}","",""
+Yamamoto Akuji (talking),よし。ほれ。,All right. Here you go.,DE ACUERDO. Aquí tienes.
+Yume's Manservant (talking),うおおおおおおおおおおおおおおおおお おおおおおおお那古神様あああああああ あああああああああああああああっ！！,,
+Yamamoto Akuji (thinking),……………………………… こいつ、絶対バカだ………………,……………………………… This guy is an absolute moron: ………………,……………………………… Es un absoluto idiota………………
+__system__??,{RND = 1:,,
+Yume's Manservant (talking),那古神様には指一本触れさせん！ かかってこい、クズども！！！！,"Nako God will not be touched! Come at me, scum! ！！！！","¡Nako Dios no se deja tocar! ¡Venid a por mí, escoria! ！！！！"
+__system__??,},,
+__system__??,{RND = 2:,,
+Yume's Manservant (talking),観世那古真燈教は永遠に不滅なりッ！ 正義の拳を受けてみろォォォォっ！！,Kanzenako Shintoukyo will be immortal forever! Receive the fist of justice!,¡El Kanzenako Shintōkyo es eterno e inmortal! ¡Recibe el puño de la justicia!
+__system__??,},,
+__system__??,{RND = 3:,,
+Yume's Manservant (talking),愚か者どもが！ 我らが那古神様の掲げる理念、 貴様らごときに邪魔はさせんぞ！！,"You fools! You will not stand in the way of the ideals that we, the Nako Gods, stand for!",¡Idiotas! ¡No te interpondrás en el camino de los ideales de nuestro Dios Nako!
+__system__??,},,

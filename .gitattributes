@@ -1,0 +1,4 @@
+* text=auto
+
+*.csv text eol=lf
+*.md text eol=lf

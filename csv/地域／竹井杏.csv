@@ -1,32 +1,32 @@
-"character","jap text","Eng","Esp"
-"Yamamoto Akuji (talking)","ここが、竹井家か。","So this is the Takei house.","¿Esta es la casa de Takei?"
-"narrator","ヘグリ高級住宅街でも、 目を引いて大きな邸宅。","Even in the most exclusive residential area of Hegli, this is an eye-catching and large mansion.","Una gran y llamativa mansión en la exclusiva zona residencial de Hegli."
-"Yamamoto Akuji (thinking)","確かここは、元製薬会社の会長が 住んでいるんだったな…
+character,jap text,Eng,Esp
+Yamamoto Akuji (talking),ここが、竹井家か。,So this is the Takei house.,¿Esta es la casa de Takei?
+narrator,ヘグリ高級住宅街でも、 目を引いて大きな邸宅。,"Even in the most exclusive residential area of Hegli, this is an eye-catching and large mansion.",Una gran y llamativa mansión en la exclusiva zona residencial de Hegli.
+Yamamoto Akuji (thinking),"確かここは、元製薬会社の会長が 住んでいるんだったな…
 ダメモトで、挨拶ぐらいしておくと すっか。","As I recall, the former chairman of a pharmaceutical company lives here…
 I guess I should at least say hello to him.","Según recuerdo, el antiguo presidente de una empresa farmacéutica vive aquí…
 Al menos debería saludarlo."
-"narrator","　　［チリン　コロ~ン］
+narrator,"　　［チリン　コロ~ン］
 悪司は、チャイムを鳴らした。","[chirin colo~n]
 Akuji chimed in.","[chirin colo~n]
 Akuji intervino."
-" (talking)","はーい？","Yes?","¿Sí?"
-"Yamamoto Akuji (talking)","あ、こんちわー。 奉仕青年団の者ですー。","Oh, hello. I'm from the Service Youth League.","Ah, hola. Soy de la Liga Juvenil de Servicio."
-" (talking)","あらあら、まあまあ。 少しお待ちになって下さいますか？","Oh, dear, oh, dear. Would you like to wait a moment?","Oh, querido, querido. ¿Quiere esperar un momento?"
-"narrator","インターホンの向こうから、柔和な夫人の声が 歓迎の意をこめて流れてきた。
+ (talking),はーい？,Yes?,¿Sí?
+Yamamoto Akuji (talking),あ、こんちわー。 奉仕青年団の者ですー。,"Oh, hello. I'm from the Service Youth League.","Ah, hola. Soy de la Liga Juvenil de Servicio."
+ (talking),あらあら、まあまあ。 少しお待ちになって下さいますか？,"Oh, dear, oh, dear. Would you like to wait a moment?","Oh, querido, querido. ¿Quiere esperar un momento?"
+narrator,"インターホンの向こうから、柔和な夫人の声が 歓迎の意をこめて流れてきた。
 悪司は程なく、竹井家の居間に通された。","From the other end of the intercom, the soft voice of Mrs. Akuji came over the intercom with a welcoming tone.
 Akuji was soon ushered into the living room of Takei's house.","Desde el otro extremo del intercomunicador, la suave voz de la señora Akuji se coló por el intercomunicador en tono de bienvenida.
 Akuji no tardó en entrar en el salón de la familia Takei."
-"Takei An (talking)","すみません、お待たせしてしまって…","Sorry to keep you waiting…","Siento haberte hecho esperar…"
-"Yamamoto Akuji (talking)","いいえ、そんな事ないです。","No, it is not.","No, no lo hacen."
-"Takei An (talking)","今、ケーキを用意させていますから。 あ、それとも、男の方でしたら、 おせんべいの方がよろしかったかしら…","I'm having a cake ready for you now. Oh, or if you're a man, would you prefer some rice crackers…","Me están preparando una tarta. Oh, o si eres un hombre, ¿prefieres unas galletas de arroz…"
-"Yamamoto Akuji (talking)","気を使ってもらわなくてもいいですよ。","You don't have to be concerned about it.","No tienes que preocuparte por ello."
-"Takei An (talking)","いえいえ、そんな、これぐらいの事… 街の治安を維持して下さっている方々に 対して、ちっとも苦ではないですよ。","No, no, no, it's nothing against the people who keep the city safe.","No, no, no, no es nada contra la gente que mantiene la seguridad de la ciudad."
-"Yamamoto Akuji (talking)","あの…この家のご主人は？","Um… who is the owner of this house?","Um… ¿quién es el dueño de esta casa?"
-"Takei An (talking)","はい、わたしですよ。","Yes, it's me.","Sí, soy yo."
-"Yamamoto Akuji (talking)","え…じゃあ、製薬会社の元会長って…","What… so you're a former chairman of a pharmaceutical company…","Eh… así que eres un ex presidente de una compañía farmacéutica…"
-"Takei An (talking)","はい、わたしの事です。","Yes, that's me.","Sí, soy yo."
-"Yamamoto Akuji (talking)","ああ…そうだったんだ…","Oh… that's right…","Oh… es cierto…"
-"Takei An (talking)","あなたのお名前、教えて下さる？ 奉仕青年団さんなんて呼ぶのは、 失礼だと…
+Takei An (talking),すみません、お待たせしてしまって…,Sorry to keep you waiting…,Siento haberte hecho esperar…
+Yamamoto Akuji (talking),いいえ、そんな事ないです。,"No, it is not.","No, no lo hacen."
+Takei An (talking),今、ケーキを用意させていますから。 あ、それとも、男の方でしたら、 おせんべいの方がよろしかったかしら…,"I'm having a cake ready for you now. Oh, or if you're a man, would you prefer some rice crackers…","Me están preparando una tarta. Oh, o si eres un hombre, ¿prefieres unas galletas de arroz…"
+Yamamoto Akuji (talking),気を使ってもらわなくてもいいですよ。,You don't have to be concerned about it.,No tienes que preocuparte por ello.
+Takei An (talking),いえいえ、そんな、これぐらいの事… 街の治安を維持して下さっている方々に 対して、ちっとも苦ではないですよ。,"No, no, no, it's nothing against the people who keep the city safe.","No, no, no, no es nada contra la gente que mantiene la seguridad de la ciudad."
+Yamamoto Akuji (talking),あの…この家のご主人は？,Um… who is the owner of this house?,Um… ¿quién es el dueño de esta casa?
+Takei An (talking),はい、わたしですよ。,"Yes, it's me.","Sí, soy yo."
+Yamamoto Akuji (talking),え…じゃあ、製薬会社の元会長って…,What… so you're a former chairman of a pharmaceutical company…,Eh… así que eres un ex presidente de una compañía farmacéutica…
+Takei An (talking),はい、わたしの事です。,"Yes, that's me.","Sí, soy yo."
+Yamamoto Akuji (talking),ああ…そうだったんだ…,Oh… that's right…,Oh… es cierto…
+Takei An (talking),"あなたのお名前、教えて下さる？ 奉仕青年団さんなんて呼ぶのは、 失礼だと…
 あら、そういえば、わたしの名前、 まだ言ってませんでしたわね。
 こちらが名乗ってから、そちらの名前を 聞くべきですわね、ごめんなさい。
 わたしの名前は、 竹井杏。 どうぞ、よろしく。","Can you tell me your name? It's not polite to call me Mr. Service Youth Group…
@@ -36,35 +36,35 @@ My name is Takei An. Please give me a hand.","¿Puede decirme su nombre? No es e
 Oh, aún no te he dicho mi nombre.
 Debería haber dicho mi nombre y luego preguntar el tuyo, lo siento.
 Mi nombre es Takei An. Un placer conocerte."
-"Yamamoto Akuji (talking)","山本悪司です。","Yamamoto Akuji.","Yamamoto Akuji."
-"Takei An (talking)","よろしく、悪司さん。","Nice to meet you, Akuji.","Un saludo, Akuji."
-"Yamamoto Akuji (talking)","いえ、こちらこそ。","No, it's my pleasure.","No, es un placer."
-"Takei An (talking)","ところで、どうなさいました？ 我が家にはどのような用向きで おいでなさったの？","By the way, how can I help you? What is the purpose of your visit to our house?","Por cierto, ¿en qué puedo ayudarle? ¿Qué te trae a mi casa?"
-"Yamamoto Akuji (talking)","あー……","Uh ……","Uh ……"
-"Yamamoto Akuji (thinking)","金くれっつーのは、直接すぎるなー… まいったな…お袋みたいな年で、 ぽわーっとした女はちと苦手だ。","Giving me money is too direct… I'm afraid I'm not very good with a flabby woman as old as my mother.","Darme dinero es demasiado directo… Que me aspen… No soy un gran fan de las mujeres gordas como mi madre."
-"Yamamoto Akuji (talking)","見回りに。","To look around.","Al acecho."
-"Takei An (talking)","まあ、そうでしたの。 お疲れ様でした。","Well, it was. Thank you for your hard work.","Bueno, lo fue. Gracias por su duro trabajo."
-"Yamamoto Akuji (talking)","あーいやーその……","Oh no its ……","Oh no, es ……"
-"Takei An (talking)","ああ、そうだわ。
+Yamamoto Akuji (talking),山本悪司です。,Yamamoto Akuji.,Yamamoto Akuji.
+Takei An (talking),よろしく、悪司さん。,"Nice to meet you, Akuji.","Un saludo, Akuji."
+Yamamoto Akuji (talking),いえ、こちらこそ。,"No, it's my pleasure.","No, es un placer."
+Takei An (talking),ところで、どうなさいました？ 我が家にはどのような用向きで おいでなさったの？,"By the way, how can I help you? What is the purpose of your visit to our house?","Por cierto, ¿en qué puedo ayudarle? ¿Qué te trae a mi casa?"
+Yamamoto Akuji (talking),あー……,Uh ……,Uh ……
+Yamamoto Akuji (thinking),金くれっつーのは、直接すぎるなー… まいったな…お袋みたいな年で、 ぽわーっとした女はちと苦手だ。,Giving me money is too direct… I'm afraid I'm not very good with a flabby woman as old as my mother.,Darme dinero es demasiado directo… Que me aspen… No soy un gran fan de las mujeres gordas como mi madre.
+Yamamoto Akuji (talking),見回りに。,To look around.,Al acecho.
+Takei An (talking),まあ、そうでしたの。 お疲れ様でした。,"Well, it was. Thank you for your hard work.","Bueno, lo fue. Gracias por su duro trabajo."
+Yamamoto Akuji (talking),あーいやーその……,Oh no its ……,"Oh no, es ……"
+Takei An (talking),"ああ、そうだわ。
 奉仕青年団の皆さんで食べて頂く為に、 ケーキを持って帰って頂けます？ 少し、荷物になってしまうんですけど…","Oh, yes.
 Would you mind taking the cake home for all of us in the youth group to eat? I know it's a little bit of a package, but…","Oh, sí.
  ¿Podrías llevarte la tarta a casa para que la coma todo el grupo de jóvenes del servicio? Sé que es un poco cargado, pero…"
-"Yamamoto Akuji (talking)","ああ、ホントにいいですよ。","Oh, it's really good.","Oh, es realmente bueno."
-"Takei An (talking)","でも、わたしに何か出来る事は…
+Yamamoto Akuji (talking),ああ、ホントにいいですよ。,"Oh, it's really good.","Oh, es realmente bueno."
+Takei An (talking),"でも、わたしに何か出来る事は…
  …んん~……
 ああ、そうだわ。 皆さん、お寿司はお好きかしら？","But what can I do to help…
  …hmmm~……
 Oh, yes. Do you guys like sushi?","Pero qué puedo hacer para ayudar…
  …hmm~ ……
 Oh, sí. ¿Os gusta el sushi?"
-"Yamamoto Akuji (talking)","はあ、それなりに…","Huh, in its own way…","Huh, a su manera…"
-"Takei An (talking)","でしたら、これで、おなかいっぱい 食べて下さい。","If so, please eat a full meal with this.","Si es así, come con esto."
-"narrator","と言って、杏は机の上に ３００万円、置いた。","And An put 3 million yen on the desk.","Y An puso tres millones de yenes, sobre el escritorio."
-"Yamamoto Akuji (talking)","…………え゛？","………… eh?","………… ¿eh?"
-"Takei An (talking)","あら、ごめんなさい。 少ないわね… じゃあ、これを。","Oh, I'm sorry. It's not much… Well, here you go.","Oh, lo siento. No es mucho… Bueno, aquí tienes."
-"narrator","さらに２００万円追加されて、 ５００万円、机の上に置かれた。","Another 2 million yen was added, and 5 million yen was placed on the desk.","Se añadieron otros dos millones al total, y se pusieron cinco millones sobre la mesa."
-"Yamamoto Akuji (talking)","……………","……………","……………"
-"Yamamoto Akuji (thinking)","マグロ一匹買えるじゃねぇか… どういう金銭感覚してるんだ？
+Yamamoto Akuji (talking),はあ、それなりに…,"Huh, in its own way…","Huh, a su manera…"
+Takei An (talking),でしたら、これで、おなかいっぱい 食べて下さい。,"If so, please eat a full meal with this.","Si es así, come con esto."
+narrator,と言って、杏は机の上に ３００万円、置いた。,And An put 3 million yen on the desk.,"Y An puso tres millones de yenes, sobre el escritorio."
+Yamamoto Akuji (talking),…………え゛？,………… eh?,………… ¿eh?
+Takei An (talking),あら、ごめんなさい。 少ないわね… じゃあ、これを。,"Oh, I'm sorry. It's not much… Well, here you go.","Oh, lo siento. No es mucho… Bueno, aquí tienes."
+narrator,さらに２００万円追加されて、 ５００万円、机の上に置かれた。,"Another 2 million yen was added, and 5 million yen was placed on the desk.","Se añadieron otros dos millones al total, y se pusieron cinco millones sobre la mesa."
+Yamamoto Akuji (talking),……………,……………,……………
+Yamamoto Akuji (thinking),"マグロ一匹買えるじゃねぇか… どういう金銭感覚してるんだ？
 ひょっとして…何か策略があんのか？ ぽや~っとしながら…
  …………
  ……違う…そんなタイプじゃない…
@@ -81,114 +81,114 @@ Por casualidad… ¿tienes un truco bajo la manga? Mientras reflexionaba…
  …ingenuo…
  …………
 Qué suerte."
-"Yamamoto Akuji (talking)","すみません、ありがとうございます。 みんな、喜ぶと思います。","Sorry, thank you. I think everyone will be pleased.","Lo siento, gracias. Creo que todos estarán contentos."
-"Takei An (talking)","今、手持ちがあまりないので、 少なくてごめんなさいね。","Sorry I don't have much on hand right now.","No tengo mucho a mano en este momento, así que siento que no sea mucho."
-"Yamamoto Akuji (talking)","それじゃあ、次の見回り場所に 行くんで。","Well then, I'm off to the next patrol.","Pues bien, me voy a mi próximo mirador."
-"Takei An (talking)","わかりました。 がんばって下さい。","I understand. Good luck.","Entendido. Buena suerte."
-"narrator","悪司は金を懐にしまい、竹井家を後にした。","Akuji put the money in his pocket and left the Takei house.","Akuji se guardó el dinero en el bolsillo y salió de la casa de Takei."
-"Yamamoto Akuji (talking)","……………","……………","……………"
-"Yamamoto Akuji (thinking)","金がありすぎってのも 問題だなー…
+Yamamoto Akuji (talking),すみません、ありがとうございます。 みんな、喜ぶと思います。,"Sorry, thank you. I think everyone will be pleased.","Lo siento, gracias. Creo que todos estarán contentos."
+Takei An (talking),今、手持ちがあまりないので、 少なくてごめんなさいね。,Sorry I don't have much on hand right now.,"No tengo mucho a mano en este momento, así que siento que no sea mucho."
+Yamamoto Akuji (talking),それじゃあ、次の見回り場所に 行くんで。,"Well then, I'm off to the next patrol.","Pues bien, me voy a mi próximo mirador."
+Takei An (talking),わかりました。 がんばって下さい。,I understand. Good luck.,Entendido. Buena suerte.
+narrator,悪司は金を懐にしまい、竹井家を後にした。,Akuji put the money in his pocket and left the Takei house.,Akuji se guardó el dinero en el bolsillo y salió de la casa de Takei.
+Yamamoto Akuji (talking),……………,……………,……………
+Yamamoto Akuji (thinking),"金がありすぎってのも 問題だなー…
 ま、カンケーないか。","I guess that's the problem with having too much money…
 Well, I guess it doesn't matter.","El problema de tener demasiado dinero es que…
 Bueno, no importa, ¿verdad?"
-"Yamamoto Akuji (thinking)","よぉし。 今日も［寿司代］をちょうだいすると すっかな。","Alright. I guess I'll be getting my sushi money again today.","Muy bien. Creo que hoy pediré otra cuenta de sushi."
-"narrator","　　［チリン　コロ~ン］
+Yamamoto Akuji (thinking),よぉし。 今日も［寿司代］をちょうだいすると すっかな。,Alright. I guess I'll be getting my sushi money again today.,Muy bien. Creo que hoy pediré otra cuenta de sushi.
+narrator,"　　［チリン　コロ~ン］
 悪司は、チャイムを鳴らした。","[chirin colo~n]
 Akuji chimed in.","[chirin colo~n]
 Akuji intervino."
-"Takei Tsukasa (talking)","はぁい？","Yes?","¿Sí?"
-"Yamamoto Akuji (talking)","へ……","To ……","Para: ……"
-"Takei Tsukasa (talking)","？","？","？"
-"Yamamoto Akuji (talking)","杏さん… 随分と若返って…","Mr. An… you look so much younger…","Sr. An… parece mucho más joven…"
-" (talking)","そんな訳はないでしょう、悪司さん。","That can't be true, Akuji.","Eso no puede ser cierto, Akuji."
-"Takei An (talking)","この子はわたしの孫で、 つかさといいます。","This child is my grandson and his name is Tsukasa.","Este niño es mi nieto y se llama Tsukasa."
-"Takei Tsukasa (talking)","竹井つかさです。 どうぞ、よろしく。","I am Takei Tsukasa. Please give me your best regards.","Takei Tsukasa. Por favor, por favor."
-"Yamamoto Akuji (talking)","どーも。 ミドリガオカ奉仕青年団の 山本悪司です。","Hello. I am Yamamoto Akuji of the Midorigaoka Service Youth Group.","Hola. Soy Yamamoto Akuji del Grupo Juvenil de Servicio de Midorigaoka."
-"Takei An (talking)","さあさ、立ち話もなんですから よろしければ、奥へどうぞ。 お茶をいれましょうね。","Come on, now. I don't want to stand around talking. If you don't mind, please come in the back. I'll make you some tea.","Ahora, si no quieres quedarte hablando, puedes ir atrás si quieres. Te haré un té."
-"Takei An (talking)","つかさは、ついこの間、イギリスから 帰国しましたの。
+Takei Tsukasa (talking),はぁい？,Yes?,¿Sí?
+Yamamoto Akuji (talking),へ……,To ……,Para: ……
+Takei Tsukasa (talking),？,？,？
+Yamamoto Akuji (talking),杏さん… 随分と若返って…,Mr. An… you look so much younger…,Sr. An… parece mucho más joven…
+ (talking),そんな訳はないでしょう、悪司さん。,"That can't be true, Akuji.","Eso no puede ser cierto, Akuji."
+Takei An (talking),この子はわたしの孫で、 つかさといいます。,This child is my grandson and his name is Tsukasa.,Este niño es mi nieto y se llama Tsukasa.
+Takei Tsukasa (talking),竹井つかさです。 どうぞ、よろしく。,I am Takei Tsukasa. Please give me your best regards.,"Takei Tsukasa. Por favor, por favor."
+Yamamoto Akuji (talking),どーも。 ミドリガオカ奉仕青年団の 山本悪司です。,Hello. I am Yamamoto Akuji of the Midorigaoka Service Youth Group.,Hola. Soy Yamamoto Akuji del Grupo Juvenil de Servicio de Midorigaoka.
+Takei An (talking),さあさ、立ち話もなんですから よろしければ、奥へどうぞ。 お茶をいれましょうね。,"Come on, now. I don't want to stand around talking. If you don't mind, please come in the back. I'll make you some tea.","Ahora, si no quieres quedarte hablando, puedes ir atrás si quieres. Te haré un té."
+Takei An (talking),"つかさは、ついこの間、イギリスから 帰国しましたの。
 戦争で不安定になってしまったニホン より、政情のしっかりした欧州に疎開 させていたようなものなのですが…
 つかさはニホンで新体操も学んで いましたので、本場で学ばせるにも 丁度よいかと思って…","Tsukasa has just returned from England.
 We had him evacuated to Europe where the political situation was more stable than in Japan where the war had made the situation unstable…
 Since Tsukasa was also learning the new body Misao in Japan, we thought it would be a good time to have him learn it in the real place…","Tsukasa acaba de regresar de Inglaterra.
 Lo hice evacuar a Europa, donde la situación política es más sólida, en lugar de a Japón, que se ha vuelto inestable debido a la guerra…
 Tsukasa también estaba aprendiendo el nuevo cuerpo Misao en Japón, así que pensé que sería bueno para él aprenderlo en el lugar real…"
-"Yamamoto Akuji (talking)","帰国子女ってやつですか。 ハイソですな。","A returnee, you say? You are very sophisticated, aren't you?","Eres un retornado, ¿así es como lo llamas? Eres un estudiante de secundaria."
-"Takei Tsukasa (talking)","ニホンに戻ってきた時に一番驚いたのは、 その、政治システムでした。
+Yamamoto Akuji (talking),帰国子女ってやつですか。 ハイソですな。,"A returnee, you say? You are very sophisticated, aren't you?","Eres un retornado, ¿así es como lo llamas? Eres un estudiante de secundaria."
+Takei Tsukasa (talking),"ニホンに戻ってきた時に一番驚いたのは、 その、政治システムでした。
 悪司さん、あまりに原始的、 かつ古臭いと思いません？","When I returned to Japan, the most surprising thing was the political system.
 Akuji-san, don't you think it's too primitive and old-fashioned?","Cuando regresé a Japón, lo más sorprendente fue el sistema político.
 Akuji-san, ¿no crees que es demasiado primitivo y anticuado?"
-"Yamamoto Akuji (talking)","へ？","Heh?","¿Eh?"
-"Takei Tsukasa (talking)","まず、国の直営機関ではなく、民間 団体が治安を管理しているという事が 破綻しているように思うんです。
+Yamamoto Akuji (talking),へ？,Heh?,¿Eh?
+Takei Tsukasa (talking),"まず、国の直営機関ではなく、民間 団体が治安を管理しているという事が 破綻しているように思うんです。
 そして、一部の裕福な者が優遇され――
 貧困に喘いでいる者は、今日の生活しか 見つめる事がで出来ないという、この 状態は、本当に国と呼んでいいのか…","First of all, I think that the fact that a private organization, not a state-run agency, is in charge of public safety is breaking down.
 And the fact that the wealthy are favored and the poor can only see the life they have today is what this state really calls the state.
 And the state of affairs in which the wealthy are favored and the poor can only look at their lives today….","En primer lugar, creo que hay un fallo en el hecho de que los servicios de seguridad sean gestionados por una organización privada y no por una agencia estatal.
 Y que algunos de los ricos son favorecidos - y los pobres sólo pueden ver la vida que tienen hoy.
 Y luego está el estado de cosas en el que unos pocos ricos reciben un trato preferente, mientras que los pobres sólo pueden mirar sus vidas hoy…"
-"Takei An (talking)","これ、つかさ、いい加減になさい。 悪司さん、驚いてらっしゃるわよ。
+Takei An (talking),"これ、つかさ、いい加減になさい。 悪司さん、驚いてらっしゃるわよ。
 ごめんなさいね、悪司さん。
 この子、ニホンが戦争に負けて ボロボロになってしまっている事に ショックを受けていて…","This, Tsukasa, is enough. Mr. Akuji, you're surprised.
 I'm sorry, Akuji.
 She's shocked to see that Japan is in tatters after losing the war…","Esto, Tsukasa, es suficiente. Akuji, pareces sorprendido.
 Lo siento, Akuji.
 Se sorprende al ver que Japón está destrozado tras perder la guerra…"
-"Yamamoto Akuji (talking)","確かに、欧州なんてとこにいて、 こっちに戻ってきたら、雲泥の差に 驚くばかりでしょうな。","I am sure that if you were in Europe and came back here, you would be amazed at the difference.","Estoy seguro de que si estuvieras en Europa y volvieras aquí, te sorprendería la diferencia."
-"Takei Tsukasa (talking)","それだけではありません。 不平等が当たり前になっているのは、 原始的だと…","That's not all. It is primitive that inequality is becoming common place…","Eso no es todo. Es primitivo que la desigualdad se esté convirtiendo en común…"
-"Yamamoto Akuji (talking)","つかささん。","Tsukasa.","Tsukasa."
-"Takei Tsukasa (talking)","はい？","Yes?","¿Sí?"
-"Yamamoto Akuji (talking)","コミュニストなあんたも魅力的だけど、 俺としては、甘いモン食べて笑ってる あんたの顔の方が見てみたいな。","You're a charming communist, but I'd rather see your face smiling while eating something sweet.","Eres un comunista encantador, pero prefiero ver tu cara cuando comes cosas dulces y sonríes."
-"Takei Tsukasa (talking)","ま……","Ma ……","Ma: ……"
-"Takei An (talking)","お婆ちゃんもそう思うわ、つかさ。","Grandma would agree, Tsukasa.","La abuela estaría de acuerdo, Tsukasa."
-"Takei Tsukasa (talking)","お婆様まで…","Even the old lady…","Incluso la anciana…"
-"narrator","悪司はそれから３０分程話をして、 竹井家を後にした。","Akuji then left Takei's house after about 30 minutes of talking.","Akuji habló durante la siguiente media hora y salió de la casa de Takei."
-" (talking)","悪司さん！","Akuji!","¡Akuji!"
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"Takei Tsukasa (talking)","あ、あの… これ、読んでいただきたくて…","Oh, um… I wanted you to read this…","Oh, um… quería que leyeras esto…"
-"Yamamoto Akuji (talking)","なんだい？","What is it?","¿Qué es?"
-"narrator","悪司はつかさが差し出した本を受け取った。","Akuji accepted the book offered by Tsukasa.","Akuji aceptó el libro ofrecido por Tsukasa."
-"Yamamoto Akuji (talking)","世界平等主義… これまた難しそうな…","Global egalitarianism… another difficult one…","Igualitarismo global… otro difícil…"
-"Takei Tsukasa (talking)","大丈夫です。
+Yamamoto Akuji (talking),確かに、欧州なんてとこにいて、 こっちに戻ってきたら、雲泥の差に 驚くばかりでしょうな。,"I am sure that if you were in Europe and came back here, you would be amazed at the difference.","Estoy seguro de que si estuvieras en Europa y volvieras aquí, te sorprendería la diferencia."
+Takei Tsukasa (talking),それだけではありません。 不平等が当たり前になっているのは、 原始的だと…,That's not all. It is primitive that inequality is becoming common place…,Eso no es todo. Es primitivo que la desigualdad se esté convirtiendo en común…
+Yamamoto Akuji (talking),つかささん。,Tsukasa.,Tsukasa.
+Takei Tsukasa (talking),はい？,Yes?,¿Sí?
+Yamamoto Akuji (talking),コミュニストなあんたも魅力的だけど、 俺としては、甘いモン食べて笑ってる あんたの顔の方が見てみたいな。,"You're a charming communist, but I'd rather see your face smiling while eating something sweet.","Eres un comunista encantador, pero prefiero ver tu cara cuando comes cosas dulces y sonríes."
+Takei Tsukasa (talking),ま……,Ma ……,Ma: ……
+Takei An (talking),お婆ちゃんもそう思うわ、つかさ。,"Grandma would agree, Tsukasa.","La abuela estaría de acuerdo, Tsukasa."
+Takei Tsukasa (talking),お婆様まで…,Even the old lady…,Incluso la anciana…
+narrator,悪司はそれから３０分程話をして、 竹井家を後にした。,Akuji then left Takei's house after about 30 minutes of talking.,Akuji habló durante la siguiente media hora y salió de la casa de Takei.
+ (talking),悪司さん！,Akuji!,¡Akuji!
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+Takei Tsukasa (talking),あ、あの… これ、読んでいただきたくて…,"Oh, um… I wanted you to read this…","Oh, um… quería que leyeras esto…"
+Yamamoto Akuji (talking),なんだい？,What is it?,¿Qué es?
+narrator,悪司はつかさが差し出した本を受け取った。,Akuji accepted the book offered by Tsukasa.,Akuji aceptó el libro ofrecido por Tsukasa.
+Yamamoto Akuji (talking),世界平等主義… これまた難しそうな…,Global egalitarianism… another difficult one…,Igualitarismo global… otro difícil…
+Takei Tsukasa (talking),"大丈夫です。
 入門書なので、語句の意味も脚注で 詳しく書かれていたりしますので、 わかりやすいですよ。","It's okay.
 Since this is an introductory book, the meanings of words and phrases are explained in detail in footnotes, so it is easy to understand.","No pasa nada.
 Es un libro introductorio, por lo que es fácil de entender, con notas a pie de página que detallan el significado de las palabras y frases."
-"Yamamoto Akuji (talking)","いや、そういう意味ではなくて…","No, that's not what I meant…","No, no es eso lo que quería decir…"
-"Takei Tsukasa (talking)","これを読んでいただけば、 私の言いたい事がわかって いただけます。","If you read this, you will understand what I mean.","Si lees esto, entenderás lo que quiero decir."
-"Yamamoto Akuji (talking)","わかればいいんだけどなー…","I wish I knew…","Me gustaría saber…"
-"Takei Tsukasa (talking)","それでは… お呼び止めしてすみませんでした。","Well then… sorry to keep you waiting.","Ahora bien… siento haberles hecho esperar."
-"narrator","つかさは綺麗なお辞儀をして 立ち去った。","Tsukasa bowed nicely and walked away.","Tsukasa se inclinó amablemente y se alejó."
-"Yamamoto Akuji (thinking)","何不自由なく暮らしている金持ちの娘が 平等をうたってもなあ… 説得力がねーんだよなぁ~…
+Yamamoto Akuji (talking),いや、そういう意味ではなくて…,"No, that's not what I meant…","No, no es eso lo que quería decir…"
+Takei Tsukasa (talking),これを読んでいただけば、 私の言いたい事がわかって いただけます。,"If you read this, you will understand what I mean.","Si lees esto, entenderás lo que quiero decir."
+Yamamoto Akuji (talking),わかればいいんだけどなー…,I wish I knew…,Me gustaría saber…
+Takei Tsukasa (talking),それでは… お呼び止めしてすみませんでした。,Well then… sorry to keep you waiting.,Ahora bien… siento haberles hecho esperar.
+narrator,つかさは綺麗なお辞儀をして 立ち去った。,Tsukasa bowed nicely and walked away.,Tsukasa se inclinó amablemente y se alejó.
+Yamamoto Akuji (thinking),"何不自由なく暮らしている金持ちの娘が 平等をうたってもなあ… 説得力がねーんだよなぁ~…
 んでもまあ、あのタイプは、何言っても 無駄だかんな… 適当にあしらっておくか。
 この本、高そうだな。 事務所帰る前に、古本屋寄って、 売っ払うとすっか。","Even if the daughter of a rich man who lives without any inconvenience talks about equality… she has no power of persuasion~…
 But, well, there's no point in saying anything to that type of person… I'll just let it go at that.
 This book looks expensive. I think I'll stop by a used bookstore and sell it off before going back to the office.","Aunque la hija de un rico que vive sin problemas hable de igualdad… no tiene poder de persuasión~…
 Pero bueno, no sirve de nada decirle nada a ese tipo de personas… lo dejaré pasar.
 Este libro parece caro. Antes de volver a la oficina, me pasaré por una librería de segunda mano y lo venderé."
-"__system__??","{(☆つかさ > 2) * (☆つかさＡ = 0):","",""
-"Yamamoto Akuji (talking)","お邪魔しますよ、杏さん。","Sorry to bother you, An.","Siento molestarte, An."
-"Takei An (talking)","いらっしゃい、悪司さん。 お仕事ご苦労様。
+__system__??,{(☆つかさ > 2) * (☆つかさＡ = 0):,,
+Yamamoto Akuji (talking),お邪魔しますよ、杏さん。,"Sorry to bother you, An.","Siento molestarte, An."
+Takei An (talking),"いらっしゃい、悪司さん。 お仕事ご苦労様。
 あ、今、ケーキが焼きあがったの。 お茶をいれましょうね。","Welcome, Akuji. Thank you for your work.
 Oh, I just finished baking the cake. I'll make you some tea.","Bienvenido, Akuji. Gracias por su trabajo.
 Oh, acabo de hornear el pastel. Te prepararé un té."
-"Yamamoto Akuji (talking)","いつもすみません。","Sorry for everything.","Siempre lo siento."
-"Takei An (talking)","ところで悪司さん。 ご近所の話では、最近この辺り、 泥棒が多いらしいですね。","By the way, Akuji. I heard from my neighbor that there are a lot of thieves around here recently.","Por cierto, Akuji. Mi vecino dice que últimamente hay muchos robos por aquí."
-"Yamamoto Akuji (talking)","ああ……","Oh……","Oh……"
-"Takei An (talking)","うちはまだ被害にあっていないの ですけど…怖い話だなと思って。","We have not been affected yet…but I thought it was a scary story.","Todavía no nos hemos visto afectados, pero… me ha parecido una historia espeluznante."
-"Yamamoto Akuji (talking)","そうですね。 出来る限り、俺らも見回っておくんで。","That's right. We'll keep looking around as much as we can.","Sí. También miraremos todo lo que podamos."
-"Takei An (talking)","お願いしますね、悪司さん。","Please, Akuji.","Por favor, Akuji."
-"Takei Tsukasa (talking)","いらっしゃい、悪司さん。","Welcome, Akuji.","Bienvenido, Akuji."
-"Yamamoto Akuji (talking)","ああ、こんちわ。","Oh, hello.","Ah, hola."
-"Takei Tsukasa (talking)","ところで、悪司さん。 この前差し上げた本、読了なさった？","By the way, Akuji. Did you read Ryou the book I gave you the other day?","Por cierto, Akuji. ¿Leíste el libro que te regalé el otro día?"
-"Yamamoto Akuji (talking)","……………
+Yamamoto Akuji (talking),いつもすみません。,Sorry for everything.,Siempre lo siento.
+Takei An (talking),ところで悪司さん。 ご近所の話では、最近この辺り、 泥棒が多いらしいですね。,"By the way, Akuji. I heard from my neighbor that there are a lot of thieves around here recently.","Por cierto, Akuji. Mi vecino dice que últimamente hay muchos robos por aquí."
+Yamamoto Akuji (talking),ああ……,Oh……,Oh……
+Takei An (talking),うちはまだ被害にあっていないの ですけど…怖い話だなと思って。,We have not been affected yet…but I thought it was a scary story.,"Todavía no nos hemos visto afectados, pero… me ha parecido una historia espeluznante."
+Yamamoto Akuji (talking),そうですね。 出来る限り、俺らも見回っておくんで。,That's right. We'll keep looking around as much as we can.,Sí. También miraremos todo lo que podamos.
+Takei An (talking),お願いしますね、悪司さん。,"Please, Akuji.","Por favor, Akuji."
+Takei Tsukasa (talking),いらっしゃい、悪司さん。,"Welcome, Akuji.","Bienvenido, Akuji."
+Yamamoto Akuji (talking),ああ、こんちわ。,"Oh, hello.","Ah, hola."
+Takei Tsukasa (talking),ところで、悪司さん。 この前差し上げた本、読了なさった？,"By the way, Akuji. Did you read Ryou the book I gave you the other day?","Por cierto, Akuji. ¿Leíste el libro que te regalé el otro día?"
+Yamamoto Akuji (talking),"……………
 すんません。","……………
 Sorry.","……………
 Lo siento."
-"Takei Tsukasa (talking)","もう、だめじゃないですか。
+Takei Tsukasa (talking),"もう、だめじゃないですか。
 ウィミィなんかの支配下にあると いっても、男だからといって 勉学をおろそかにするのは…","I think it's hopeless.
 Even if you are under the control of Wime or something, you can't neglect your studies just because you are a man…","No es bueno ahora, ¿verdad?
 Aunque estés bajo el control de Wime o algo así, no puedes descuidar tus estudios sólo por ser un hombre…"
-"Takei An (talking)","これ、なんですか、はしたない。 殿方にそのようにつっかかるなんて。","This, what is this, is flippant. To lash out at the gentry like that.","Esto, lo que es esto, es frívolo. Para arremeter así contra la alta burguesía."
-"Takei Tsukasa (talking)","だって、お婆様……","Because, old lady ……","Porque, anciana: ……"
-"Yamamoto Akuji (thinking)","さーて、どうやってシッポを 掴んでやるとすっかなー…
+Takei An (talking),これ、なんですか、はしたない。 殿方にそのようにつっかかるなんて。,"This, what is this, is flippant. To lash out at the gentry like that.","Esto, lo que es esto, es frívolo. Para arremeter así contra la alta burguesía."
+Takei Tsukasa (talking),だって、お婆様……,"Because, old lady ……","Porque, anciana: ……"
+Yamamoto Akuji (thinking),"さーて、どうやってシッポを 掴んでやるとすっかなー…
 今ここでお前はドロボーっつっても シラ切るだろうし……
 なんといっても、金ヅルの杏バーサンの 機嫌を損ねたくねー。
 まあ……ボチボチいくか。","Now, how am I going to grab him by the tail…
@@ -198,38 +198,38 @@ Well, ……, I'll take it easy.","Bueno, no sé cómo voy a agarrarlo por la co
 Si te digo que eres un vago aquí y ahora, lo evitarás……
 Después de todo, no quiero molestar a AnBasan, que es una buscadora de oro.
 Bueno,…… me lo tomaré con calma."
-"Takei Tsukasa (talking)","それじゃあ、悪司さん。 次にお会いする時までには、 目を通して下さっていてね。","Well then, Akuji. I hope you've had a chance to look it over by the time I see you next.","Pues bien, Akuji. Espero que hayas tenido la oportunidad de revisarlo para cuando te vea la próxima vez."
-"Yamamoto Akuji (talking)","まあ、出来る限り。","Well, as much as I can.","Bueno, tanto como sea posible."
-"Takei Tsukasa (talking)","それでは、失礼。","Now, if you'll excuse me.","Ahora, si me disculpan."
-"Takei An (talking)","ごめんなさいね、悪司さん……","Sorry, Akuji, ……","Lo siento, Akuji, ……"
-"Yamamoto Akuji (talking)","いえ、ちっとも気にしてませんよ。","No, I don't mind at all.","No, no me importa en absoluto."
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","お邪魔しますよ、杏さん。","Sorry to bother you, An.","Siento molestarte, An."
-"Takei An (talking)","いらっしゃい、悪司さん。 お仕事ご苦労様。
+Takei Tsukasa (talking),それじゃあ、悪司さん。 次にお会いする時までには、 目を通して下さっていてね。,"Well then, Akuji. I hope you've had a chance to look it over by the time I see you next.","Pues bien, Akuji. Espero que hayas tenido la oportunidad de revisarlo para cuando te vea la próxima vez."
+Yamamoto Akuji (talking),まあ、出来る限り。,"Well, as much as I can.","Bueno, tanto como sea posible."
+Takei Tsukasa (talking),それでは、失礼。,"Now, if you'll excuse me.","Ahora, si me disculpan."
+Takei An (talking),ごめんなさいね、悪司さん……,"Sorry, Akuji, ……","Lo siento, Akuji, ……"
+Yamamoto Akuji (talking),いえ、ちっとも気にしてませんよ。,"No, I don't mind at all.","No, no me importa en absoluto."
+__system__??,},,
+Yamamoto Akuji (talking),お邪魔しますよ、杏さん。,"Sorry to bother you, An.","Siento molestarte, An."
+Takei An (talking),"いらっしゃい、悪司さん。 お仕事ご苦労様。
 あ、今、ケーキが焼きあがったの。 お茶をいれましょうね。","Welcome, Akuji. Thank you for your work.
 Oh, I just finished baking the cake. I'll make you some tea.","Bienvenido, Akuji. Gracias por su trabajo.
 Oh, acabo de hornear el pastel. Te prepararé un té."
-"Yamamoto Akuji (talking)","いつもすみません。","Sorry for everything.","Siempre lo siento."
-"Takei An (talking)","ドライフルーツのパウンドケーキなの。 日持ちするものなので、よろしければ、 皆さんで食べて下さいな。
+Yamamoto Akuji (talking),いつもすみません。,Sorry for everything.,Siempre lo siento.
+Takei An (talking),"ドライフルーツのパウンドケーキなの。 日持ちするものなので、よろしければ、 皆さんで食べて下さいな。
 あ、後… これ、活動資金の足しにして下さいな。","It's a dried fruit pound cake. It will last for a long time, so please enjoy it with everyone.
 Oh, and please use it to help fund our activities.","Es un pastel de frutas secas. Se conservará durante mucho tiempo, así que si quieres, puedes comerlo todo junto.
 Ah, y por favor, utilícelo para ayudar a financiar nuestras actividades."
-"narrator","杏は悪司に２００万の札束を渡した。","An gave Akuji a wad of 2 million.","An dio a Akuji un fajo de dos millones."
-"Yamamoto Akuji (talking)","本当にいつもすみません。","I'm really sorry all the time.","Lo siento mucho todo el tiempo."
-"Takei An (talking)","いえいえ、いいんですよ。 大変なのは、現場にいる悪司さん達 なんですから。
+narrator,杏は悪司に２００万の札束を渡した。,An gave Akuji a wad of 2 million.,An dio a Akuji un fajo de dos millones.
+Yamamoto Akuji (talking),本当にいつもすみません。,I'm really sorry all the time.,Lo siento mucho todo el tiempo.
+Takei An (talking),"いえいえ、いいんですよ。 大変なのは、現場にいる悪司さん達 なんですから。
 さ、めしあがれ。","No, no, it's okay. The hard part is Akuji who is on site.
 Now, eat up.","No, no, está bien. Son los Akuji de a pie los que lo tienen más difícil.
 Ahora, a comer."
-"Yamamoto Akuji (talking)","はい、いただきます。","Yes, I'll take it.","Sí, lo acepto."
-"Takei An (talking)","あ、悪司さん……","Oh, Akuji, ……","Oh, Akuji, ……"
-"Yamamoto Akuji (talking)","どうしました？","What's wrong?","¿Qué pasa?"
-"Takei An (talking)","つかさが… 孫のつかさが、行方不明に……
+Yamamoto Akuji (talking),はい、いただきます。,"Yes, I'll take it.","Sí, lo acepto."
+Takei An (talking),あ、悪司さん……,"Oh, Akuji, ……","Oh, Akuji, ……"
+Yamamoto Akuji (talking),どうしました？,What's wrong?,¿Qué pasa?
+Takei An (talking),"つかさが… 孫のつかさが、行方不明に……
 悪司さん、お願いです… つかさを…… つかさを捜して下さいな！","Tsukasa is… My grandson Tsukasa is missing ……
 Akuji, please… Tsukasa to…… Tsukasa, please find him!","Tsukasa es… Mi nieto Tsukasa está desaparecido ……
 Akuji, por favor… Tsukasa a…… Tsukasa, ¡por favor encuéntralo!"
-"Yamamoto Akuji (thinking)","つっても、あんたの孫はドロボーで、 俺に捕まっててー……
+Yamamoto Akuji (thinking),"つっても、あんたの孫はドロボーで、 俺に捕まっててー……
 なんて、言えねーよなー…","But I can't tell you that your grandson is a slob and I've got him ……
 I can't tell you that…","Pero no puedes decirme que tu nieto es un vago y yo lo tengo… ……
 No puedes decir que…"
-"Yamamoto Akuji (talking)","わかりました。 出来る限りの事はします。","I understand. I will do all I can.","Entendido. Haremos todo lo posible."
-"Takei An (talking)","すみません、お願いします… ああ……つかさ……","Sorry, please… ah……Tsukasa ……","Disculpe, por favor… Oh ……Tsukasa ……"
+Yamamoto Akuji (talking),わかりました。 出来る限りの事はします。,I understand. I will do all I can.,Entendido. Haremos todo lo posible.
+Takei An (talking),すみません、お願いします… ああ……つかさ……,"Sorry, please… ah……Tsukasa ……","Disculpe, por favor… Oh ……Tsukasa ……"

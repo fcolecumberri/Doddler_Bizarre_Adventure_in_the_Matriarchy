@@ -1,336 +1,336 @@
-"character","jap text","Eng","Esp"
-"__system__??","{F01 = 1:","",""
-"??","－－－－－－－－－－－－－－－－－－－－－－ 　緊急速報　（","－－－－－－－－－－－－－－－－－－－－－－ 　Urgent Report　（","－－－－－－－－－－－－－－－－－－－－－－ 　Reporte urgente　（"
-"??","）","）","）"
-"__system__??","~R:","",""
-"__system__??","{F02 = 1:","",""
-"??","部下の","subordinates","subordinados"
-"??","が、行方不明になりました。","went missing.","Pero desapareció."
-"__system__??","} else {","",""
-"??","倉庫から、","From the warehouse,","Desde el almacén,"
-"??","を削除した。","removed.","borrado."
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{F01 = 2:","",""
-"??","－－－－－－－－－－－－－－－－－－－－－－ 　緊急速報　（","－－－－－－－－－－－－－－－－－－－－－－ 　Urgent Report　（","－－－－－－－－－－－－－－－－－－－－－－ 　Reporte urgente　（"
-"??","） 捕虜の","） Captured","） Capturado"
-"??","が、急死しました。","died suddenly.","murió repentinamente."
-"__system__??","}","",""
-"__system__??","{F01 = 3:","",""
-"??","－－－－－－－－－－－－－－－－－－－－－－ 　緊急速報　（","－－－－－－－－－－－－－－－－－－－－－－ 　Urgent Report　（","－－－－－－－－－－－－－－－－－－－－－－ 　Reporte urgente　（"
-"??","） 娼婦の",") The prostitute.",") La puta."
-"??","が、急死しました。","died suddenly.","murió repentinamente."
-"__system__??","}","",""
-"__system__??","{F01 = 4:","",""
-"??","ランダム名前が、いっぱいです。","Random names, a lot.","Nombres al azar, llenos de."
-"__system__??","~R:","",""
-"??","番の","Number.","Número."
-"??","を削除します。","Delete the","Borrar."
-"__system__??","}","",""
-"__system__??","{F01 = 5:","",""
-"??","ランダム名前が、いっぱいです。 デフォルトの名前を使用します。","Random names are full. Use the default name.","Nombre aleatorio, completo. Usa el nombre por defecto."
-"__system__??","}","",""
-"__system__??","{F01 = 6:","",""
-"??","の支配権が、","The control of the","El control de la"
-"??","へ移りました。","I moved on to the","La empresa se ha trasladado al"
-"__system__??","}","",""
-"__system__??","{F01 = 7:","",""
-"??","－－－－－－－－－－－－－－－－－－－－－－ 　緊急速報　（","---------------------- Urgent Report (","---------------------- Noticias urgentes ("
-"??","）","）","）"
-"__system__??","~R:","",""
-"??","へ","wind","viento"
-"??","を増援しました。","reinforcements.","refuerzos."
-"__system__??","}","",""
-"__system__??","{F01 = 8:","",""
-"??","－－－－－－－－－－－－－－－－－－－－－－ 　緊急速報　（","---------------------- Urgent Report (","---------------------- Noticias urgentes ("
-"??","）","）","）"
-"__system__??","~R:","",""
-"??","から部下全員を撤退しました。","I have withdrawn all my men from the","Todos sus hombres fueron retirados del"
-"__system__??","}","",""
-"__system__??","{F01 = 1:","",""
-"??","ラッキー　　","lucky","suerte"
-"??","は、転んだ。","I fell down.","se cayó."
-"__system__??","}","",""
-"__system__??","{F01 = 2:","",""
-"??","の攻撃。","Attack of the.","El ataque de los."
-"??","ポイントのダメージを与えた。","points of damage.","puntos de daño."
-"__system__??","}","",""
-"__system__??","{F01 = 3:","",""
-"??","の強襲。","The assault of the","El asalto del"
-"??","ポイントのダメージを与えた。","points of damage.","puntos de daño."
-"__system__??","}","",""
-"__system__??","{F01 = 4:","",""
-"??","の自爆。","The self-destruction of the","Autodestrucción de la"
-"??","ポイントのダメージを与えた。","points of damage.","puntos de daño."
-"__system__??","}","",""
-"__system__??","{F01 = 5:","",""
-"??","仲間全員の体力が","The strength of all my friends…","El estado físico de todos sus compañeros."
-"??","ポイント回復した。","The market recovered by 1.5 points.","El número de puntos recuperados."
-"__system__??","}","",""
-"__system__??","{F01 = 6:","",""
-"??","ハニージッポが発動！！","Hanny Zippo is activated！！","¡Zippo está activado！！"
-"__system__??","}","",""
-"__system__??","{F01 = 7:","",""
-"??","あたりは白き煙幕に包まれた。","The area was enveloped in a cloud of smoke.","La zona estaba envuelta en una cortina de humo Haku."
-"__system__??","}","",""
-"__system__??","{F01 = 11:","",""
-"??","の勝ち。","win.","Ganador del."
-"__system__??","}","",""
-"__system__??","{F01 = 12:","",""
-"??","・・・相打ち。","…phase.","… fase."
-"__system__??","}","",""
-"__system__??","{F01 = 13:","",""
-"??","・・・引き分け。","… draw.","… empate."
-"__system__??","}","",""
-"__system__??","{F01 = 21:","",""
-"??","は力尽きた。","was out of power.","estaba en la calle."
-"__system__??","}","",""
-"__system__??","{F01 = 22:","",""
-"??","は捕獲された。","was captured.","fueron capturados."
-"__system__??","}","",""
-"__system__??","{F01 = 31:","",""
-"??","にいる","be in a state of intense concentration","convertirse en uno de"
-"??","の部隊は 捕虜になった。","s troops were taken prisoner.","las tropas fueron tomadas como prisioneras."
-"__system__??","}","",""
-"__system__??","{F01 = 41:","",""
-"??","このスキルは実装されていません。","This skill is not implemented.","Esta habilidad no se ha implementado."
-"__system__??","}","",""
-"__system__??","{F01 = 1:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 2:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 3:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 4:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 5:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 6:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 7:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 8:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 9:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 10:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 11:","",""
-"__system__??","}","",""
-"__system__??","{F01 < 11:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 1:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 2:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 3:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 4:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 5:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 6:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 7:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 8:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 9:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 10:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 11:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 12:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 13:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 14:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 15:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 16:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 17:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 18:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 19:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 20:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 21:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 22:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 23:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 24:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 25:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 26:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 27:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 28:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 29:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 30:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 31:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 32:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 33:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 34:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 35:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 36:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 37:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 38:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 39:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 40:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 41:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 42:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 43:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 44:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 45:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 46:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 47:","",""
-"__system__??","}","",""
-"__system__??","{F02 = 48:","",""
-"__system__??","}","",""
-"__system__??","{D01 = 0:","",""
-"__system__??","} else {","",""
-"__system__??","}","",""
-"__system__??","{F01 = 1:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 2:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 3:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 4:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 5:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 6:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 7:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 9:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 11:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 12:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 13:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 14:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 15:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 16:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 17:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 18:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 19:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 20:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 21:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 22:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 23:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 24:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 25:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 26:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 31:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 33:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 34:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 35:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 36:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 37:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 38:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 39:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 40:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 41:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 42:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 43:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 45:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 47:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 48:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 51:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 53:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 54:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 55:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 56:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 61:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 63:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 65:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 67:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 69:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 71:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 73:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 75:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 77:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 79:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 81:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 83:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 85:","",""
-"__system__??","}","",""
-"__system__??","{F01 = 87:","",""
-"__system__??","}","",""
+character,jap text,Eng,Esp
+__system__??,{F01 = 1:,,
+??,－－－－－－－－－－－－－－－－－－－－－－ 　緊急速報　（,－－－－－－－－－－－－－－－－－－－－－－ 　Urgent Report　（,－－－－－－－－－－－－－－－－－－－－－－ 　Reporte urgente　（
+??,）,）,）
+__system__??,~R:,,
+__system__??,{F02 = 1:,,
+??,部下の,subordinates,subordinados
+??,が、行方不明になりました。,went missing.,Pero desapareció.
+__system__??,} else {,,
+??,倉庫から、,"From the warehouse,","Desde el almacén,"
+??,を削除した。,removed.,borrado.
+__system__??,},,
+__system__??,},,
+__system__??,{F01 = 2:,,
+??,－－－－－－－－－－－－－－－－－－－－－－ 　緊急速報　（,－－－－－－－－－－－－－－－－－－－－－－ 　Urgent Report　（,－－－－－－－－－－－－－－－－－－－－－－ 　Reporte urgente　（
+??,） 捕虜の,） Captured,） Capturado
+??,が、急死しました。,died suddenly.,murió repentinamente.
+__system__??,},,
+__system__??,{F01 = 3:,,
+??,－－－－－－－－－－－－－－－－－－－－－－ 　緊急速報　（,－－－－－－－－－－－－－－－－－－－－－－ 　Urgent Report　（,－－－－－－－－－－－－－－－－－－－－－－ 　Reporte urgente　（
+??,） 娼婦の,) The prostitute.,) La puta.
+??,が、急死しました。,died suddenly.,murió repentinamente.
+__system__??,},,
+__system__??,{F01 = 4:,,
+??,ランダム名前が、いっぱいです。,"Random names, a lot.","Nombres al azar, llenos de."
+__system__??,~R:,,
+??,番の,Number.,Número.
+??,を削除します。,Delete the,Borrar.
+__system__??,},,
+__system__??,{F01 = 5:,,
+??,ランダム名前が、いっぱいです。 デフォルトの名前を使用します。,Random names are full. Use the default name.,"Nombre aleatorio, completo. Usa el nombre por defecto."
+__system__??,},,
+__system__??,{F01 = 6:,,
+??,の支配権が、,The control of the,El control de la
+??,へ移りました。,I moved on to the,La empresa se ha trasladado al
+__system__??,},,
+__system__??,{F01 = 7:,,
+??,－－－－－－－－－－－－－－－－－－－－－－ 　緊急速報　（,---------------------- Urgent Report (,---------------------- Noticias urgentes (
+??,）,）,）
+__system__??,~R:,,
+??,へ,wind,viento
+??,を増援しました。,reinforcements.,refuerzos.
+__system__??,},,
+__system__??,{F01 = 8:,,
+??,－－－－－－－－－－－－－－－－－－－－－－ 　緊急速報　（,---------------------- Urgent Report (,---------------------- Noticias urgentes (
+??,）,）,）
+__system__??,~R:,,
+??,から部下全員を撤退しました。,I have withdrawn all my men from the,Todos sus hombres fueron retirados del
+__system__??,},,
+__system__??,{F01 = 1:,,
+??,ラッキー　　,lucky,suerte
+??,は、転んだ。,I fell down.,se cayó.
+__system__??,},,
+__system__??,{F01 = 2:,,
+??,の攻撃。,Attack of the.,El ataque de los.
+??,ポイントのダメージを与えた。,points of damage.,puntos de daño.
+__system__??,},,
+__system__??,{F01 = 3:,,
+??,の強襲。,The assault of the,El asalto del
+??,ポイントのダメージを与えた。,points of damage.,puntos de daño.
+__system__??,},,
+__system__??,{F01 = 4:,,
+??,の自爆。,The self-destruction of the,Autodestrucción de la
+??,ポイントのダメージを与えた。,points of damage.,puntos de daño.
+__system__??,},,
+__system__??,{F01 = 5:,,
+??,仲間全員の体力が,The strength of all my friends…,El estado físico de todos sus compañeros.
+??,ポイント回復した。,The market recovered by 1.5 points.,El número de puntos recuperados.
+__system__??,},,
+__system__??,{F01 = 6:,,
+??,ハニージッポが発動！！,Hanny Zippo is activated！！,¡Zippo está activado！！
+__system__??,},,
+__system__??,{F01 = 7:,,
+??,あたりは白き煙幕に包まれた。,The area was enveloped in a cloud of smoke.,La zona estaba envuelta en una cortina de humo Haku.
+__system__??,},,
+__system__??,{F01 = 11:,,
+??,の勝ち。,win.,Ganador del.
+__system__??,},,
+__system__??,{F01 = 12:,,
+??,・・・相打ち。,…phase.,… fase.
+__system__??,},,
+__system__??,{F01 = 13:,,
+??,・・・引き分け。,… draw.,… empate.
+__system__??,},,
+__system__??,{F01 = 21:,,
+??,は力尽きた。,was out of power.,estaba en la calle.
+__system__??,},,
+__system__??,{F01 = 22:,,
+??,は捕獲された。,was captured.,fueron capturados.
+__system__??,},,
+__system__??,{F01 = 31:,,
+??,にいる,be in a state of intense concentration,convertirse en uno de
+??,の部隊は 捕虜になった。,s troops were taken prisoner.,las tropas fueron tomadas como prisioneras.
+__system__??,},,
+__system__??,{F01 = 41:,,
+??,このスキルは実装されていません。,This skill is not implemented.,Esta habilidad no se ha implementado.
+__system__??,},,
+__system__??,{F01 = 1:,,
+__system__??,},,
+__system__??,{F01 = 2:,,
+__system__??,},,
+__system__??,{F01 = 3:,,
+__system__??,},,
+__system__??,{F01 = 4:,,
+__system__??,},,
+__system__??,{F01 = 5:,,
+__system__??,},,
+__system__??,{F01 = 6:,,
+__system__??,},,
+__system__??,{F01 = 7:,,
+__system__??,},,
+__system__??,{F01 = 8:,,
+__system__??,},,
+__system__??,{F01 = 9:,,
+__system__??,},,
+__system__??,{F01 = 10:,,
+__system__??,},,
+__system__??,{F01 = 11:,,
+__system__??,},,
+__system__??,{F01 < 11:,,
+__system__??,},,
+__system__??,{F02 = 1:,,
+__system__??,},,
+__system__??,{F02 = 2:,,
+__system__??,},,
+__system__??,{F02 = 3:,,
+__system__??,},,
+__system__??,{F02 = 4:,,
+__system__??,},,
+__system__??,{F02 = 5:,,
+__system__??,},,
+__system__??,{F02 = 6:,,
+__system__??,},,
+__system__??,{F02 = 7:,,
+__system__??,},,
+__system__??,{F02 = 8:,,
+__system__??,},,
+__system__??,{F02 = 9:,,
+__system__??,},,
+__system__??,{F02 = 10:,,
+__system__??,},,
+__system__??,{F02 = 11:,,
+__system__??,},,
+__system__??,{F02 = 12:,,
+__system__??,},,
+__system__??,{F02 = 13:,,
+__system__??,},,
+__system__??,{F02 = 14:,,
+__system__??,},,
+__system__??,{F02 = 15:,,
+__system__??,},,
+__system__??,{F02 = 16:,,
+__system__??,},,
+__system__??,{F02 = 17:,,
+__system__??,},,
+__system__??,{F02 = 18:,,
+__system__??,},,
+__system__??,{F02 = 19:,,
+__system__??,},,
+__system__??,{F02 = 20:,,
+__system__??,},,
+__system__??,{F02 = 21:,,
+__system__??,},,
+__system__??,{F02 = 22:,,
+__system__??,},,
+__system__??,{F02 = 23:,,
+__system__??,},,
+__system__??,{F02 = 24:,,
+__system__??,},,
+__system__??,{F02 = 25:,,
+__system__??,},,
+__system__??,{F02 = 26:,,
+__system__??,},,
+__system__??,{F02 = 27:,,
+__system__??,},,
+__system__??,{F02 = 28:,,
+__system__??,},,
+__system__??,{F02 = 29:,,
+__system__??,},,
+__system__??,{F02 = 30:,,
+__system__??,},,
+__system__??,{F02 = 31:,,
+__system__??,},,
+__system__??,{F02 = 32:,,
+__system__??,},,
+__system__??,{F02 = 33:,,
+__system__??,},,
+__system__??,{F02 = 34:,,
+__system__??,},,
+__system__??,{F02 = 35:,,
+__system__??,},,
+__system__??,{F02 = 36:,,
+__system__??,},,
+__system__??,{F02 = 37:,,
+__system__??,},,
+__system__??,{F02 = 38:,,
+__system__??,},,
+__system__??,{F02 = 39:,,
+__system__??,},,
+__system__??,{F02 = 40:,,
+__system__??,},,
+__system__??,{F02 = 41:,,
+__system__??,},,
+__system__??,{F02 = 42:,,
+__system__??,},,
+__system__??,{F02 = 43:,,
+__system__??,},,
+__system__??,{F02 = 44:,,
+__system__??,},,
+__system__??,{F02 = 45:,,
+__system__??,},,
+__system__??,{F02 = 46:,,
+__system__??,},,
+__system__??,{F02 = 47:,,
+__system__??,},,
+__system__??,{F02 = 48:,,
+__system__??,},,
+__system__??,{D01 = 0:,,
+__system__??,} else {,,
+__system__??,},,
+__system__??,{F01 = 1:,,
+__system__??,},,
+__system__??,{F01 = 2:,,
+__system__??,},,
+__system__??,{F01 = 3:,,
+__system__??,},,
+__system__??,{F01 = 4:,,
+__system__??,},,
+__system__??,{F01 = 5:,,
+__system__??,},,
+__system__??,{F01 = 6:,,
+__system__??,},,
+__system__??,{F01 = 7:,,
+__system__??,},,
+__system__??,{F01 = 9:,,
+__system__??,},,
+__system__??,{F01 = 11:,,
+__system__??,},,
+__system__??,{F01 = 12:,,
+__system__??,},,
+__system__??,{F01 = 13:,,
+__system__??,},,
+__system__??,{F01 = 14:,,
+__system__??,},,
+__system__??,{F01 = 15:,,
+__system__??,},,
+__system__??,{F01 = 16:,,
+__system__??,},,
+__system__??,{F01 = 17:,,
+__system__??,},,
+__system__??,{F01 = 18:,,
+__system__??,},,
+__system__??,{F01 = 19:,,
+__system__??,},,
+__system__??,{F01 = 20:,,
+__system__??,},,
+__system__??,{F01 = 21:,,
+__system__??,},,
+__system__??,{F01 = 22:,,
+__system__??,},,
+__system__??,{F01 = 23:,,
+__system__??,},,
+__system__??,{F01 = 24:,,
+__system__??,},,
+__system__??,{F01 = 25:,,
+__system__??,},,
+__system__??,{F01 = 26:,,
+__system__??,},,
+__system__??,{F01 = 31:,,
+__system__??,},,
+__system__??,{F01 = 33:,,
+__system__??,},,
+__system__??,{F01 = 34:,,
+__system__??,},,
+__system__??,{F01 = 35:,,
+__system__??,},,
+__system__??,{F01 = 36:,,
+__system__??,},,
+__system__??,{F01 = 37:,,
+__system__??,},,
+__system__??,{F01 = 38:,,
+__system__??,},,
+__system__??,{F01 = 39:,,
+__system__??,},,
+__system__??,{F01 = 40:,,
+__system__??,},,
+__system__??,{F01 = 41:,,
+__system__??,},,
+__system__??,{F01 = 42:,,
+__system__??,},,
+__system__??,{F01 = 43:,,
+__system__??,},,
+__system__??,{F01 = 45:,,
+__system__??,},,
+__system__??,{F01 = 47:,,
+__system__??,},,
+__system__??,{F01 = 48:,,
+__system__??,},,
+__system__??,{F01 = 51:,,
+__system__??,},,
+__system__??,{F01 = 53:,,
+__system__??,},,
+__system__??,{F01 = 54:,,
+__system__??,},,
+__system__??,{F01 = 55:,,
+__system__??,},,
+__system__??,{F01 = 56:,,
+__system__??,},,
+__system__??,{F01 = 61:,,
+__system__??,},,
+__system__??,{F01 = 63:,,
+__system__??,},,
+__system__??,{F01 = 65:,,
+__system__??,},,
+__system__??,{F01 = 67:,,
+__system__??,},,
+__system__??,{F01 = 69:,,
+__system__??,},,
+__system__??,{F01 = 71:,,
+__system__??,},,
+__system__??,{F01 = 73:,,
+__system__??,},,
+__system__??,{F01 = 75:,,
+__system__??,},,
+__system__??,{F01 = 77:,,
+__system__??,},,
+__system__??,{F01 = 79:,,
+__system__??,},,
+__system__??,{F01 = 81:,,
+__system__??,},,
+__system__??,{F01 = 83:,,
+__system__??,},,
+__system__??,{F01 = 85:,,
+__system__??,},,
+__system__??,{F01 = 87:,,
+__system__??,},,

@@ -1,55 +1,55 @@
-"character","jap text","Eng","Esp"
-"shoujo (talking)","るん、るるん………","Lun, Lun ………","Lun, Lun ………"
-" (talking)","そ、そこの君……","Well, you there: ……","Ahí tienes: ……"
-"shoujo (talking)","ん？ わたしの事？","Hmm? You mean me?","¿Hmm? ¿Te refieres a mí?"
-"Johnson Be (talking)","か、可愛いね。 チョコ…好き？","You're so cute. Chocolate… do you like it?","Eres muy lindo. Chocolate… ¿te gusta?"
-"shoujo (talking)","うん、好きー！","Yeah, I love it!","Sí, me gusta."
-"Johnson Be (talking)","じゃ、じゃあ、あげるよ…… は、はい……","Well, then, I'll give it to you:…… Yes, yes: ……","Bueno, entonces, te lo daré:…… Sí, sí: ……"
-"shoujo (talking)","ありがとう、異人さん。 食べていい？","Thank you, alien. May I eat?","Gracias, alienígena. ¿Puedo comer?"
-"Johnson Be (talking)","う、うん…… どんどん食べて…","Umm, yeah…… Keep eating and eating…","Umm, sí…… Sigue comiendo más y más…"
-"shoujo (talking)","ぱく……美味しい。","Paku…… delicious.","Paku…… delicioso."
-"Johnson Be (talking)","そ、そう……","So, yes ……","Así que, sí: ……"
-"shoujo (talking)","……あっ……あれれ？ なんだか、眠くなってきちゃった……","Oh…… oh…… what the heck? I'm getting sleepy……","…… Oh,…… ¿qué demonios? Empiezo a tener sueño……"
-"Johnson Be (talking)","じゃ、じゃあ……
+character,jap text,Eng,Esp
+shoujo (talking),るん、るるん………,"Lun, Lun ………","Lun, Lun ………"
+ (talking),そ、そこの君……,"Well, you there: ……",Ahí tienes: ……
+shoujo (talking),ん？ わたしの事？,Hmm? You mean me?,¿Hmm? ¿Te refieres a mí?
+Johnson Be (talking),か、可愛いね。 チョコ…好き？,You're so cute. Chocolate… do you like it?,Eres muy lindo. Chocolate… ¿te gusta?
+shoujo (talking),うん、好きー！,"Yeah, I love it!","Sí, me gusta."
+Johnson Be (talking),じゃ、じゃあ、あげるよ…… は、はい……,"Well, then, I'll give it to you:…… Yes, yes: ……","Bueno, entonces, te lo daré:…… Sí, sí: ……"
+shoujo (talking),ありがとう、異人さん。 食べていい？,"Thank you, alien. May I eat?","Gracias, alienígena. ¿Puedo comer?"
+Johnson Be (talking),う、うん…… どんどん食べて…,"Umm, yeah…… Keep eating and eating…","Umm, sí…… Sigue comiendo más y más…"
+shoujo (talking),ぱく……美味しい。,Paku…… delicious.,Paku…… delicioso.
+Johnson Be (talking),そ、そう……,"So, yes ……","Así que, sí: ……"
+shoujo (talking),……あっ……あれれ？ なんだか、眠くなってきちゃった……,Oh…… oh…… what the heck? I'm getting sleepy……,"…… Oh,…… ¿qué demonios? Empiezo a tener sueño……"
+Johnson Be (talking),"じゃ、じゃあ……
 ボクのお部屋で…ねんねする？ そ、添い寝してあげるよ… ふ…ふふ……","Okay, then……
 Do you want to sleep in my room?","Bien, entonces……
  ¿Quieres dormir en mi habitación? Bueno, me acostaré contigo… hmm… hmm… hmm… ……"
-"shoujo (talking)","う…うーん……","Umm…ummm ……","Umm… umm… ……"
-"narrator","女の子はパタンと倒れてしまった。","The girl fell down with a slam.","La chica se desplomó."
-"Johnson Be (talking)","ふふ……ふふふ……ふふ……","Hmmm……… Hmmm……… Hmmm… ……","ff…… ff…… ff…… ff…… ff……"
-"narrator","　　［どんどんっっっっ］","［More and more!]","[más y más]"
-" (talking)","ジョンソン、ジョンソンいるんだろう！ さっさと出ろ！！","Johnson, Johnson I know you're in there! Get the hell out of here!","Johnson, Johnson ¡Sé que estás ahí! ¡Lárgate de aquí!"
-"Johnson Be (talking)","う……うう……怖いよぅ…… 大人の女… う…うう……","U…… ugh…… I'm scared…… adult woman… ugh… ugh ……","U…… uu…… uu…… uu…… uu…… uu…… uu…… uu…… uu… uu…… uu… uu……"
-" (talking)","ジョンソン！！ 開けないか！！","Johnson! Can't you open it!!!!!!!!!!!!!!!!!!!!!!!","¡¡¡Johnson!!! ¡No puedes abrirlo!"
-"Johnson Be (talking)","やだ…やだよぅ…… 怖いよぅ…… た、助けて、ジェシーちゃん……","Oh no… oh no… oh no……… I'm scared……… Oh, help me, Jesse… ……","Oh no… oh no… oh no……… Tengo miedo……… Oh, ayúdame, Jesse… ……"
-" (talking)","開けてしまえ！！","Open it up!","¡Ábrelo!"
-"narrator","　　［バンバンバンッッッ］
+shoujo (talking),う…うーん……,Umm…ummm ……,Umm… umm… ……
+narrator,女の子はパタンと倒れてしまった。,The girl fell down with a slam.,La chica se desplomó.
+Johnson Be (talking),ふふ……ふふふ……ふふ……,Hmmm……… Hmmm……… Hmmm… ……,ff…… ff…… ff…… ff…… ff……
+narrator,　　［どんどんっっっっ］,［More and more!],[más y más]
+ (talking),ジョンソン、ジョンソンいるんだろう！ さっさと出ろ！！,"Johnson, Johnson I know you're in there! Get the hell out of here!","Johnson, Johnson ¡Sé que estás ahí! ¡Lárgate de aquí!"
+Johnson Be (talking),う……うう……怖いよぅ…… 大人の女… う…うう……,U…… ugh…… I'm scared…… adult woman… ugh… ugh ……,U…… uu…… uu…… uu…… uu…… uu…… uu…… uu…… uu… uu…… uu… uu……
+ (talking),ジョンソン！！ 開けないか！！,Johnson! Can't you open it!!!!!!!!!!!!!!!!!!!!!!!,¡¡¡Johnson!!! ¡No puedes abrirlo!
+Johnson Be (talking),やだ…やだよぅ…… 怖いよぅ…… た、助けて、ジェシーちゃん……,"Oh no… oh no… oh no……… I'm scared……… Oh, help me, Jesse… ……","Oh no… oh no… oh no……… Tengo miedo……… Oh, ayúdame, Jesse… ……"
+ (talking),開けてしまえ！！,Open it up!,¡Ábrelo!
+narrator,"　　［バンバンバンッッッ］
 銃弾が鍵を壊す。","[bang bang bang]
 Gun Dan breaks the lock.","[bang bang bang]
 El arma Dan rompe la cerradura."
-"Johnson Be (talking)","ひ、ひいぃぃ……！","Hi, hiiiii……!","¡Hola, hiiiii……!"
-"uimiionnaheishi (talking)","うっ……！？","Ugh ……!","¡Ugh ……!"
-"uimiionnaheishi (talking)","ジーザスっ……！","Jesus! ……!","¡Jesús! ¡……!"
-"joseishikan (talking)","なんだ、どうした？ ――っ……これは……","What's up, what's going on? What the--…… this is ……","¿Qué demonios, qué está pasando? --…… esto es ……"
-"Johnson Be (talking)","う……うう…怖いよぅ…… 大人の女…こ、怖い~……","U…… ugh…I'm scared……… adult woman…ko, scary~……","U…… ugh… tengo miedo……… mujeres adultas… ko, miedo… ……"
-"narrator","薄暗い、ジョンソンの部屋の中は、 女の子の死体が何体も転がっていた。","Inside the dimly lit room of Johnson, there were several dead bodies of girls lying around.","En el interior de la habitación Johnson, poco iluminada, había varios cadáveres de chicas tirados."
-"joseishikan (talking)","貴様…… ウィミィ人としての誇りはないのか！？
+Johnson Be (talking),ひ、ひいぃぃ……！,"Hi, hiiiii……!","¡Hola, hiiiii……!"
+uimiionnaheishi (talking),うっ……！？,Ugh ……!,¡Ugh ……!
+uimiionnaheishi (talking),ジーザスっ……！,Jesus! ……!,¡Jesús! ¡……!
+joseishikan (talking),なんだ、どうした？ ――っ……これは……,"What's up, what's going on? What the--…… this is ……","¿Qué demonios, qué está pasando? --…… esto es ……"
+Johnson Be (talking),う……うう…怖いよぅ…… 大人の女…こ、怖い~……,"U…… ugh…I'm scared……… adult woman…ko, scary~……","U…… ugh… tengo miedo……… mujeres adultas… ko, miedo… ……"
+narrator,薄暗い、ジョンソンの部屋の中は、 女の子の死体が何体も転がっていた。,"Inside the dimly lit room of Johnson, there were several dead bodies of girls lying around.","En el interior de la habitación Johnson, poco iluminada, había varios cadáveres de chicas tirados."
+joseishikan (talking),"貴様…… ウィミィ人としての誇りはないのか！？
 植民地の人間とはいえ、 女性をこのような……","You…… Wime have no pride as a human being!
 Even if you are a colonizer, you can't treat a woman like this ……","¡Tú…… Wime no tienes orgullo como ser humano!
 Aunque seas un colonizador, sigues tratando a las mujeres así ……"
-"Johnson Be (talking)","や、やだ…怖いよぅ… 大人の女、怖いよぅ……","Oh no… you're scaring me… adult woman, you're scaring me……","Oh no… me estás asustando… mujeres adultas, me estás asustando……"
-"joseishikan (talking)","ジョンソン！！","Johnson!","¡¡¡Johnson!!!"
-"Johnson Be (talking)","ひ、ひぃぃぃぃ……！","Hi, hi, hi……!","Hola, hola, hola. ¡……!"
-"joseishikan (talking)","これでは話にならん。 逮捕しろ。","This is not a good story. Arrest him.","Esta no es una buena historia. Arréstenlo."
-"Johnson Be (talking)","い、いやだよぅ…… 怖いよぅ… さわんないでくれよぅ……","No, no, no……… I'm scared… don't touch me… ……","No, no……… Tengo miedo… no me toques… ……"
-"Seanel Br (talking)","なんですって！？ ニホンの女の子達の死体が、 ジョンソンの部屋に？","What the hell? Dead Japanese girls in Johnson's room?","¿Qué demonios? ¿Japonesas muertas en la habitación de Johnson?"
-"joseishikan (talking)","はい……ジョンソンは逮捕しましたが、 死体の方の処理は、 いかがいたしましょう？","Yes, ……Johnson is under arrest, but what about the bodies?","Sí, ……Johnson ha sido arrestado, pero ¿qué pasa con los cuerpos?"
-"Seanel Br (talking)","しかたないわ。
+Johnson Be (talking),や、やだ…怖いよぅ… 大人の女、怖いよぅ……,"Oh no… you're scaring me… adult woman, you're scaring me……","Oh no… me estás asustando… mujeres adultas, me estás asustando……"
+joseishikan (talking),ジョンソン！！,Johnson!,¡¡¡Johnson!!!
+Johnson Be (talking),ひ、ひぃぃぃぃ……！,"Hi, hi, hi……!","Hola, hola, hola. ¡……!"
+joseishikan (talking),これでは話にならん。 逮捕しろ。,This is not a good story. Arrest him.,Esta no es una buena historia. Arréstenlo.
+Johnson Be (talking),い、いやだよぅ…… 怖いよぅ… さわんないでくれよぅ……,"No, no, no……… I'm scared… don't touch me… ……","No, no……… Tengo miedo… no me toques… ……"
+Seanel Br (talking),なんですって！？ ニホンの女の子達の死体が、 ジョンソンの部屋に？,What the hell? Dead Japanese girls in Johnson's room?,¿Qué demonios? ¿Japonesas muertas en la habitación de Johnson?
+joseishikan (talking),はい……ジョンソンは逮捕しましたが、 死体の方の処理は、 いかがいたしましょう？,"Yes, ……Johnson is under arrest, but what about the bodies?","Sí, ……Johnson ha sido arrestado, pero ¿qué pasa con los cuerpos?"
+Seanel Br (talking),"しかたないわ。
 こちらで適当に処分してしまって。 ニホン側にこの事を絶対、 知られないようにしなさい。","I can't help it.
 We will dispose of it as we see fit. Do not let the Japanese side know about this.","No puedo evitarlo.
 Puedes disponer de ellos como creas conveniente. Asegúrate de que los japoneses nunca se enteren de esto."
-"joseishikan (talking)","わかりました。","I understand.","Entendido."
-"Seanel Br (talking)","ジョンソンとかいう男は、 そのまま、牢屋で放置しておきなさい。
+joseishikan (talking),わかりました。,I understand.,Entendido.
+Seanel Br (talking),"ジョンソンとかいう男は、 そのまま、牢屋で放置しておきなさい。
 適当な時期になったら、本国に強制送還 して、向こうで秘密裁判にかけてから、 死刑にすればいいわ。
 どんな下賤の生まれにしても、 女を玩具のように殺す男は、 ウィミィに必要ないわ。
 そんなものを、 本国に放つのも問題だしね。","Leave the man Johnson or whatever he is in jail.
@@ -59,36 +59,36 @@ And it's a problem to release them back home.","Deja al hombre Johnson o lo que 
 Cuando llegue el momento, deportarlo a su país de origen, someterlo a un juicio secreto allí y condenarlo a muerte.
 No importa lo bajo que sea, un hombre que Satsu a las mujeres como juguetes no es querido en Wime.
 Y es un problema liberarlos de vuelta a casa."
-"joseishikan (talking)","そうですね。 困った男です……","Yes, I know. He's a troubled man……","Sí. Es un hombre problemático……"
-"Seanel Br (thinking)","そんな男を、私の部下とした本国も 本国だわ… 一体、私をなんだと思っているの…","The home country that made such a man my subordinate is also my home country… What in the world do you think I am…","El país de origen que hizo a un hombre así mi subordinado es también mi país de origen… ¿Qué diablos crees que soy…"
-"Seanel Br (thinking)","ほんと、ニホン人には困ったものだわ。 いくら言っても、女性を敬わない。
+joseishikan (talking),そうですね。 困った男です……,"Yes, I know. He's a troubled man……",Sí. Es un hombre problemático……
+Seanel Br (thinking),そんな男を、私の部下とした本国も 本国だわ… 一体、私をなんだと思っているの…,The home country that made such a man my subordinate is also my home country… What in the world do you think I am…,El país de origen que hizo a un hombre así mi subordinado es también mi país de origen… ¿Qué diablos crees que soy…
+Seanel Br (thinking),"ほんと、ニホン人には困ったものだわ。 いくら言っても、女性を敬わない。
 形として、女性上位にしてはいるけど、 実質は、裏で男共が幅をきかせている……
 どうすればもっと、女性上位、そして、 ウィミィの統治下にいるという事を 思い知らせてやる事が出来るのかしら…？","I really have a problem with Japanese people. No matter how much I tell them, they don't respect women.
 In form, they put women on top, but in reality, the men are in control behind the scenes……
 How can we remind them that they are under the rule of Wime, and that women are above women…?","Realmente tengo un problema con los japoneses. Por mucho que les digas, no respetan a las mujeres.
 En la forma, ponen a las mujeres en la cima, pero en la realidad, los hombres tienen el control entre bastidores……
  ¿Cómo podemos recordarles que están bajo el dominio de Wime, y que las mujeres son superiores…?"
-" (talking)","入りますよ、シーネル司令官。","I'm coming in, Commander Seanel.","Entrando, Seanel Comandante."
-"Seanel Br (talking)","えっ？","What?","¿Qué?"
-"narrator","司令官であるシーネルの許しも得ずに 入ってきたのは、バーバラだった。","It was Barbara who entered without the permission of Seanel, the commander.","Fue Barbara quien entró sin el permiso de su oficial al mando, Seanel."
-"Seanel Br (talking)","何の用？ バーバラ。","What do you want? Barbara.","¿Qué quieres?  Barbara."
-"Barbara Ma (talking)","年上を敬うような口のきき方が 出来ないなんて、レディ失格ですよ、 シーネル司令官。","You are not a lady if you can't speak to your elders in a respectful manner, Commander Seanel.","No eres una dama si no puedes hablar con tus mayores de manera respetuosa, Comandante Seanel."
-"Seanel Br (thinking)","厄介なババアが口を挟んできたわ…","Oh, that pesky old hag just interrupted me…","Esa molesta vieja bruja acaba de interrumpirme…"
-"Seanel Br (talking)","………で、用件は？","What can I do for you at ………?","¿Qué puedo hacer por usted en ………?"
-"Barbara Ma (talking)","あなただけに苦労させるのは、 もう心苦しくなってきました。","It's getting hard for me to keep you alone in this.","Ya me está empezando a molestar que seas el único que tenga que sufrir."
-"Seanel Br (talking)","何の事？","What are you talking about?","¿Qué es?"
-"Barbara Ma (talking)","相変わらず、ニホンの男は、 レディを敬わず、 のさばっているみたいですよ。","As usual, Japanese men don't respect ladies, and seem to be in charge of them.","Como siempre, parece que los hombres japoneses no respetan a las damas y las dominan."
-"Seanel Br (talking)","そうね。","Yes, I think so.","Sí."
-"Barbara Ma (talking)","それを成敗して参りますわ。","I'm going to go and defeat it.","Voy a ir a derrotar eso."
-"Seanel Br (talking)","バーバラ？","Barbara?","¿Garbara?"
-"Barbara Ma (talking)","この私、バーバラがこのオオサカの男に、 レディに対する態度を直に教育指導 してきます。
+ (talking),入りますよ、シーネル司令官。,"I'm coming in, Commander Seanel.","Entrando, Seanel Comandante."
+Seanel Br (talking),えっ？,What?,¿Qué?
+narrator,司令官であるシーネルの許しも得ずに 入ってきたのは、バーバラだった。,"It was Barbara who entered without the permission of Seanel, the commander.","Fue Barbara quien entró sin el permiso de su oficial al mando, Seanel."
+Seanel Br (talking),何の用？ バーバラ。,What do you want? Barbara.,¿Qué quieres?  Barbara.
+Barbara Ma (talking),年上を敬うような口のきき方が 出来ないなんて、レディ失格ですよ、 シーネル司令官。,"You are not a lady if you can't speak to your elders in a respectful manner, Commander Seanel.","No eres una dama si no puedes hablar con tus mayores de manera respetuosa, Comandante Seanel."
+Seanel Br (thinking),厄介なババアが口を挟んできたわ…,"Oh, that pesky old hag just interrupted me…",Esa molesta vieja bruja acaba de interrumpirme…
+Seanel Br (talking),………で、用件は？,What can I do for you at ………?,¿Qué puedo hacer por usted en ………?
+Barbara Ma (talking),あなただけに苦労させるのは、 もう心苦しくなってきました。,It's getting hard for me to keep you alone in this.,Ya me está empezando a molestar que seas el único que tenga que sufrir.
+Seanel Br (talking),何の事？,What are you talking about?,¿Qué es?
+Barbara Ma (talking),相変わらず、ニホンの男は、 レディを敬わず、 のさばっているみたいですよ。,"As usual, Japanese men don't respect ladies, and seem to be in charge of them.","Como siempre, parece que los hombres japoneses no respetan a las damas y las dominan."
+Seanel Br (talking),そうね。,"Yes, I think so.",Sí.
+Barbara Ma (talking),それを成敗して参りますわ。,I'm going to go and defeat it.,Voy a ir a derrotar eso.
+Seanel Br (talking),バーバラ？,Barbara?,¿Garbara?
+Barbara Ma (talking),"この私、バーバラがこのオオサカの男に、 レディに対する態度を直に教育指導 してきます。
 ウィミィと同じで、ニホンの男も馬鹿が 多いようですから。","I, Barbara, am going to instruct this Osakan man directly on his attitude toward ladies.
 Because, just like Wime, many Japanese men seem to be idiots.","Yo, Barbara, voy a darle a este hombre de Osakan una lección directa sobre cómo comportarse con las damas.
 Porque, como Wime, parece que muchos hombres japoneses son idiotas."
-"Seanel Br (talking)","それは――","It's--","Es…"
-"Barbara Ma (talking)","では、出動報告をしたので、 行ってきますよ。","Well, now that I've reported for duty, I'll be on my way.","Bueno, me he presentado al servicio y me voy."
-"Seanel Br (talking)","まっ……","See also: ……","Exactamente: ……"
-"Barbara Ma (talking)","あら、遠慮なさらないで。 私も誇り高き、ウィミィ兵士。
+Seanel Br (talking),それは――,It's--,Es…
+Barbara Ma (talking),では、出動報告をしたので、 行ってきますよ。,"Well, now that I've reported for duty, I'll be on my way.","Bueno, me he presentado al servicio y me voy."
+Seanel Br (talking),まっ……,See also: ……,Exactamente: ……
+Barbara Ma (talking),"あら、遠慮なさらないで。 私も誇り高き、ウィミィ兵士。
 か弱き女の身とはいえ、 自分の躰は自分で守れますわ。
 それが、本来のレディの姿でも ありますしね。
 それでは、ご機嫌よう。","Oh, don't be shy. I am also a proud soldier of Wime.
@@ -98,39 +98,39 @@ Well, good day to you.","No seas tímido. Yo también soy un orgulloso soldado d
 Aunque soy una mujer frágil, puedo proteger mi propio cuerpo.
 Así es como debe ser una dama.
 Que tenga un buen día."
-"Seanel Br (talking)","バーバラ！？","Barbara!","¡Barbara!"
-"narrator","町中を歩く一人の老女を、道行く人々は ちらちらと見て見ぬふりをして歩いていた。","People on the street were glancing at an old woman walking through the town, pretending not to notice her.","La gente en la calle miraba a una anciana que caminaba por el pueblo, fingiendo no notarla."
-"narrator","バーバラだった。","It was Barbara."," Barbara era."
-"Barbara Ma (talking)","まったく、汚い街だこと。 掃除のしかたもなってない。
+Seanel Br (talking),バーバラ！？,Barbara!,¡Barbara!
+narrator,町中を歩く一人の老女を、道行く人々は ちらちらと見て見ぬふりをして歩いていた。,"People on the street were glancing at an old woman walking through the town, pretending not to notice her.","La gente en la calle miraba a una anciana que caminaba por el pueblo, fingiendo no notarla."
+narrator,バーバラだった。,It was Barbara., Barbara era.
+Barbara Ma (talking),"まったく、汚い街だこと。 掃除のしかたもなってない。
 ニホンがここまで後進国だったなんて… これは、大変、骨の折れる教育が 必要という事ですね。
  ………ん？","What a dirty town. They don't even know how to clean up after themselves.
 I can't believe that Japan is so backward… This means that we need to educate our people in a very hard and painstaking way.……… hmm?","Es una ciudad sucia. Ni siquiera saben cómo limpiar.
 No sabía que Japón estuviera tan atrasado… Esto significa que necesitamos mucho trabajo y educación.……… ¿Hmm?"
-"Barbara Ma (talking)","そこのあなた。","You there.","Tú allí."
-"seinen (talking)","え、俺の事っすか！？","Oh, you mean me?","¡Oh, te refieres a mí!"
-"Barbara Ma (talking)","あなた今、私の事を 破廉恥な目で見ましたわね。","You just looked at me like I'm a piece of shit.","Me has mirado como si fuera una mierda."
-"seinen (talking)","そ、そんなっ…… 破廉恥な目だなんてっ……","Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no……","Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no……"
-"Barbara Ma (talking)","嘘をつくなんて、なんと罪深い！","How sinful to lie!","¡Qué pecaminoso es mentir!"
-"narrator","バーバラは、のわっとでかい掌を くわっと広げると、 むんずっと男の襟首を掴んだ。","Barbara spreads her huge palms apart, and grabs the man by the collar.","Barbara separa sus enormes palmas y agarra al hombre por el cuello."
-"seinen (talking)","ひ、ひいい！！","Hi, hi, hi!","¡Hola, hola!"
-"narrator","バーバラは左手で軽々と男を持ち上げた。","Barbara lifted the man lightly with her left hand.","Barbara levantó al hombre ligeramente con su mano izquierda."
-"Barbara Ma (talking)","わかってます、わかってますとも。 この私があまりに魅力的だったので、 目が離せなかったのでしょう。
+Barbara Ma (talking),そこのあなた。,You there.,Tú allí.
+seinen (talking),え、俺の事っすか！？,"Oh, you mean me?","¡Oh, te refieres a mí!"
+Barbara Ma (talking),あなた今、私の事を 破廉恥な目で見ましたわね。,You just looked at me like I'm a piece of shit.,Me has mirado como si fuera una mierda.
+seinen (talking),そ、そんなっ…… 破廉恥な目だなんてっ……,"Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no……","Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no……"
+Barbara Ma (talking),嘘をつくなんて、なんと罪深い！,How sinful to lie!,¡Qué pecaminoso es mentir!
+narrator,バーバラは、のわっとでかい掌を くわっと広げると、 むんずっと男の襟首を掴んだ。,"Barbara spreads her huge palms apart, and grabs the man by the collar.",Barbara separa sus enormes palmas y agarra al hombre por el cuello.
+seinen (talking),ひ、ひいい！！,"Hi, hi, hi!","¡Hola, hola!"
+narrator,バーバラは左手で軽々と男を持ち上げた。,Barbara lifted the man lightly with her left hand.,Barbara levantó al hombre ligeramente con su mano izquierda.
+Barbara Ma (talking),"わかってます、わかってますとも。 この私があまりに魅力的だったので、 目が離せなかったのでしょう。
 後進国の教育を受けていない、非常に 哀れな男に、それは罪であると教えて さしあげます。
 あなたのした事は、 セクシャルハラスメントという、 立派な犯罪です！！","I know, I know. I guess I was so attractive that you couldn't take your eyes off me.
 To a very pathetic man with no education from a backward country, I am warning you that it is a sin to do so.
 What you have done is a crime of sexual harassment!","Lo sé, lo sé, lo sé. Supongo que era tan atractiva que no podías dejar de mirarme.
 Estoy aquí para decirte que es un pecado ser un hombre muy patético sin educación de un país atrasado.
 Lo que has hecho es un delito muy grave, ¡acoso sexual!"
-"seinen (talking)","そ、そんな…… そんな目で見てないっ……","Oh, no…… I didn't look at you that way……","Oh, no…… No te miré de esa manera……"
-"Barbara Ma (talking)","まだ嘘をつくというのですか！ そのような子には、お仕置きです！！","You still lie! Such a child will be spanked!","¿Todavía insistes en mentir? Un niño así será castigado."
-"narrator","　　［ぶわっっっっ］
+seinen (talking),そ、そんな…… そんな目で見てないっ……,"Oh, no…… I didn't look at you that way……","Oh, no…… No te miré de esa manera……"
+Barbara Ma (talking),まだ嘘をつくというのですか！ そのような子には、お仕置きです！！,You still lie! Such a child will be spanked!,¿Todavía insistes en mentir? Un niño así será castigado.
+narrator,"　　［ぶわっっっっ］
 バーバラはそう言うと、滝のような涙を流した。","[Bwah!]
 Barbara said this and burst into a waterfall of tears.","[¡Bwah!]
 A  Barbara se le cayeron las lágrimas al decir esto."
-"seinen (talking)","ひ、ひぃぃぃ！！","Hi, hi!","¡Hola, hola!"
-"Barbara Ma (talking)","だめです！ 悪い子　！　悪い子！　悪い子！！ 悪い子~~~~~~！！！！！","No! Bad boy!　Bad boy!　Bad boy! Bad boy! ~~~~~~！！！！！","¡No, no, no! ¡Chico malo!　¡Chico malo!　¡Chico malo! Chico malo. ~~~~~~！！！！！"
-"seinen (talking)","ぎゃーーーーー！！","Geeeeeeeee!","¡¡¡Guau!!!"
-"narrator","　　［ばしーーーんっっ］
+seinen (talking),ひ、ひぃぃぃ！！,"Hi, hi!","¡Hola, hola!"
+Barbara Ma (talking),だめです！ 悪い子　！　悪い子！　悪い子！！ 悪い子~~~~~~！！！！！,No! Bad boy!　Bad boy!　Bad boy! Bad boy! ~~~~~~！！！！！,"¡No, no, no! ¡Chico malo!　¡Chico malo!　¡Chico malo! Chico malo. ~~~~~~！！！！！"
+seinen (talking),ぎゃーーーーー！！,Geeeeeeeee!,¡¡¡Guau!!!
+narrator,"　　［ばしーーーんっっ］
  　　［ばしーーーーーんっっ］
  　　［ばしーーーーーーーーんっっ］
 バーバラは右手で男を何度も何度もはたいた。","［Bashiiintt]
@@ -140,14 +140,14 @@ Barbara strikes the man again and again with her right hand.","［Bashiiintt]
  　　［Bashiiiiiintt]
  　　［Bashiiiiiiiiintt]
 Barbara golpeó al hombre una y otra vez con su mano derecha."
-"Barbara Ma (talking)","これは、愛の鞭ですーーーー！！！！","This is a whip of loveーーー ！！！！","Esto es un látigo de amor - ！！！！"
-"narrator","　　［ばっっっっしーーーーん！！！！！］","［Baaaaatshiiiiin！！！！！］","［¡¡¡¡¡Baaaaatshiiiiin!!!!!］"
-"seinen (talking)","ぎゃあああ！！","Aaah!","¡¡¡Geaaaah!!!"
-"narrator","バーバラの最後の一撃は、 男をばーんと宙に飛ばし、 壁に叩きつけた。
+Barbara Ma (talking),これは、愛の鞭ですーーーー！！！！,This is a whip of loveーーー ！！！！,Esto es un látigo de amor - ！！！！
+narrator,　　［ばっっっっしーーーーん！！！！！］,［Baaaaatshiiiiin！！！！！］,［¡¡¡¡¡Baaaaatshiiiiin!!!!!］
+seinen (talking),ぎゃあああ！！,Aaah!,¡¡¡Geaaaah!!!
+narrator,"バーバラの最後の一撃は、 男をばーんと宙に飛ばし、 壁に叩きつけた。
 男はそのまま、動かなくなってしまった。","Barbara's final blow sent the man flying into the air and slammed him against the wall.
 The man remained motionless.","El último golpe de  Barbara hizo que el hombre volara por los aires y se estrellara contra la pared.
 El hombre permaneció inmóvil."
-"Barbara Ma (talking)","これからはお気をつけなさい。 教育をまったく受けてないからといって、 して良い事と悪い事があるのですから。
+Barbara Ma (talking),"これからはお気をつけなさい。 教育をまったく受けてないからといって、 して良い事と悪い事があるのですから。
  ――――ん？
 そこの男。 あなたも何を不躾に、破廉恥な目で 私の事を見つめているのですか？
 お待ちなさい！ 逃げるという事は、自分に罪があると 認識しているからですよ！
@@ -163,66 +163,66 @@ Tú allí, hombre. ¿Qué es lo que me mira de forma tan grosera y descarada tam
  ¡Un momento! Si huyes, es porque sabes que eres culpable.
  ¡Ahora yo también te voy a dar el látigo del amor! ¡Para!
  ¡Para! ！！！！！"
-"uimiiheishi (talking)","ひ、ひい、ひぃぃ！！","Hi, hi, hi!","¡Hola, hola, hola!"
-"Barbara Ma (talking)","お待ちなさーーーい！！！！！","Please wait… ！！！！！","Por favor, espere: ！！！！！"
-"uimiiheishi (talking)","ひぃぃぃぃ！！","Hiiiiii!","¡Hiiiiii!"
-"narrator","バーバラは滝のような涙を流しながら 同国の男兵士を追いかけている。","Barbara is chasing after a male soldier in her country with tears like waterfalls.","Barbara persigue a un soldado de su país con lágrimas como cascadas."
-"Barbara Ma (talking)","待ちなさい！！ か弱い女性をジロジロと遠慮のない 破廉恥な目で見つめ続けた事は罪ですよ！","Wait! It is a crime to continue to stare at a fragile woman with such unreserved and shameless eyes!","¡Espera! ¡Es un crimen seguir mirando a una mujer frágil con unos ojos tan poco reservados y sin arrepentimiento!"
-"uimiiheishi (talking)","み、見たけどっ… こ、怖いババアがいるなと思って… それで…","I saw… there was this scary old lady… and…","Vi… había una anciana que daba miedo… y…"
-"Barbara Ma (talking)","ババア！！","Hag!!!!","¡¡Hag!!"
-"narrator","バーバラの涙の量が倍になる。","The amount of Barbara tears doubles.","La cantidad de lágrimas de Barbara se duplica."
-"Barbara Ma (talking)","ほっ……ほほっ……
+uimiiheishi (talking),ひ、ひい、ひぃぃ！！,"Hi, hi, hi!","¡Hola, hola, hola!"
+Barbara Ma (talking),お待ちなさーーーい！！！！！,Please wait… ！！！！！,"Por favor, espere: ！！！！！"
+uimiiheishi (talking),ひぃぃぃぃ！！,Hiiiiii!,¡Hiiiiii!
+narrator,バーバラは滝のような涙を流しながら 同国の男兵士を追いかけている。,Barbara is chasing after a male soldier in her country with tears like waterfalls.,Barbara persigue a un soldado de su país con lágrimas como cascadas.
+Barbara Ma (talking),待ちなさい！！ か弱い女性をジロジロと遠慮のない 破廉恥な目で見つめ続けた事は罪ですよ！,Wait! It is a crime to continue to stare at a fragile woman with such unreserved and shameless eyes!,¡Espera! ¡Es un crimen seguir mirando a una mujer frágil con unos ojos tan poco reservados y sin arrepentimiento!
+uimiiheishi (talking),み、見たけどっ… こ、怖いババアがいるなと思って… それで…,I saw… there was this scary old lady… and…,Vi… había una anciana que daba miedo… y…
+Barbara Ma (talking),ババア！！,Hag!!!!,¡¡Hag!!
+narrator,バーバラの涙の量が倍になる。,The amount of Barbara tears doubles.,La cantidad de lágrimas de Barbara se duplica.
+Barbara Ma (talking),"ほっ……ほほっ……
 誇り高きウィミィ兵士が、 そのような言葉遣いをするなんて！！ するなんてーーーー！！！！！","Hoho…… Hoho……
 I can't believe a proud Wime soldier would use that kind of language! I can't believe you would do that… ！！！！！","Hoho…… Hoho……
  ¡No puedo creer que un orgulloso soldado de Wime utilice ese tipo de lenguaje! No puedo creer que hagas eso… ！！！！！"
-"narrator","追いかけるバーバラの速度が増した。","The speed of the Barbara in pursuit increased.","La velocidad del Barbara en la persecución aumentó."
-"uimiiheishi (talking)","うひぃぃぃ！！！","Whiiiiiii!!!!","¡¡¡Whiiiii!!!"
-"Barbara Ma (talking)","そんな、そんなそんなそんな そんな悪い子はーーーーー！！！！
+narrator,追いかけるバーバラの速度が増した。,The speed of the Barbara in pursuit increased.,La velocidad del Barbara en la persecución aumentó.
+uimiiheishi (talking),うひぃぃぃ！！！,Whiiiiiii!!!!,¡¡¡Whiiiii!!!
+Barbara Ma (talking),"そんな、そんなそんなそんな そんな悪い子はーーーーー！！！！
 おーーーしーーーおーきーーー！！！ お仕置きが必要です！！！ 待ちなさい！！！！","Oh no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no… ！！！！
   You need to be punished!!!!!!!!!!!!!!!!!!!!!!!!!!! Wait for me！！！！","Oh no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no… ！！！！
   Hay que castigarte. Espéralo！！！！"
-"uimiiheishi (talking)","ひ、うひ、うひぃぃぃ！！","Hi, hi, hi, hi!","¡Hola, uhi, uhi, uhi!"
-"narrator","慌てて走った為、男は足がもつれ、 自分の足に引っ掛かり、転がるように こけてしまった。","In his haste to run, the man's foot became entangled, caught his leg, and he fell down.","En su prisa por correr, los pies del hombre se enredaron y se agarró a sí mismo, lo que le hizo rodar."
-"uimiiheishi (talking)","い、いたた…ひっ…！？","I'm sorry……..!","Es… es… es… es…"
-"Barbara Ma (talking)","は~~は~~は~~……","Ha~ha~ha~ha~ha~ ……","Ha~ha~ha~ha~ha~ ……"
-"narrator","なんと、バーバラは男の後ろ襟首を片手で 掴むと、そのままひょいと自分の目線の高さ まで持ち上げた。","Barbara grabbed the man by the back of the neck with one hand and lifted him up to her eye level.","Barbara agarró al hombre por el cuello de la espalda con una mano y lo levantó a la altura de sus ojos."
-"uimiiheishi (talking)","ひぃぃぃぃ！！！","Hiiiiii!!!!","¡¡¡Hiiiiii!!!"
-"Barbara Ma (talking)","お仕置きです！！ 悪い子！！","You're being punished! Bad boy!","¡Estás siendo castigado! ¡Chico malo!"
-"narrator","　　［ばしーーーーんっっっっ］","［Bashhhhhh!]","[¡Ba-shhhhh!]"
-"uimiiheishi (talking)","ぐぁぁぁぁ！！！","Gooooooo!!!!!!!","¡¡¡¡Guh!!!!"
-"narrator","男の鼻が、自分の顔の中にめり込んだ。","The man's nose was dug into his own face.","La nariz del hombre se clavó en su propia cara."
-"Barbara Ma (talking)","私だって、このような事 したくないのです。
+uimiiheishi (talking),ひ、うひ、うひぃぃぃ！！,"Hi, hi, hi, hi!","¡Hola, uhi, uhi, uhi!"
+narrator,慌てて走った為、男は足がもつれ、 自分の足に引っ掛かり、転がるように こけてしまった。,"In his haste to run, the man's foot became entangled, caught his leg, and he fell down.","En su prisa por correr, los pies del hombre se enredaron y se agarró a sí mismo, lo que le hizo rodar."
+uimiiheishi (talking),い、いたた…ひっ…！？,I'm sorry……..!,Es… es… es… es…
+Barbara Ma (talking),は~~は~~は~~……,Ha~ha~ha~ha~ha~ ……,Ha~ha~ha~ha~ha~ ……
+narrator,なんと、バーバラは男の後ろ襟首を片手で 掴むと、そのままひょいと自分の目線の高さ まで持ち上げた。,Barbara grabbed the man by the back of the neck with one hand and lifted him up to her eye level.,Barbara agarró al hombre por el cuello de la espalda con una mano y lo levantó a la altura de sus ojos.
+uimiiheishi (talking),ひぃぃぃぃ！！！,Hiiiiii!!!!,¡¡¡Hiiiiii!!!
+Barbara Ma (talking),お仕置きです！！ 悪い子！！,You're being punished! Bad boy!,¡Estás siendo castigado! ¡Chico malo!
+narrator,　　［ばしーーーーんっっっっ］,［Bashhhhhh!],[¡Ba-shhhhh!]
+uimiiheishi (talking),ぐぁぁぁぁ！！！,Gooooooo!!!!!!!,¡¡¡¡Guh!!!!
+narrator,男の鼻が、自分の顔の中にめり込んだ。,The man's nose was dug into his own face.,La nariz del hombre se clavó en su propia cara.
+Barbara Ma (talking),"私だって、このような事 したくないのです。
 ですが、あなたの為です。 愛の鞭を受け取りなさい！","I don't want to do this either.
 But it is for your own good. Receive the whip of love!","Yo tampoco quiero hacer esto.
 Pero es por tu propio bien. ¡Recibe el látigo del amor!"
-"uimiiheishi (talking)","たっ…たぶっ…たぶせげ…… ぐっ…ぐああああ！！！","Ahaht… hurt…… Guaah！","¡Ahaht… duele…… Guaah!"
-"narrator","　　［がすっっっっっっっ］","[Gashhhhh!]","[Gashhhhh!]"
-"narrator","バーバラは男を掴んだまま振り回し、 その頭を壁にめり込ませた。
+uimiiheishi (talking),たっ…たぶっ…たぶせげ…… ぐっ…ぐああああ！！！,Ahaht… hurt…… Guaah！,¡Ahaht… duele…… Guaah!
+narrator,　　［がすっっっっっっっ］,[Gashhhhh!],[Gashhhhh!]
+narrator,"バーバラは男を掴んだまま振り回し、 その頭を壁にめり込ませた。
 男は頭を強く壁に押さえつけられた為、 首を頭と胴体にめり込ませ、即死した。","Barbara grabbed the man and swung him around, sending his head crashing into the wall.
 The man's head was pressed so hard against the wall that his head and torso were crushed in, and he died instantly.","Barbara agarró al hombre y lo hizo girar, haciendo que su cabeza cayera contra la pared.
 La cabeza del hombre fue sujetada con tanta fuerza contra la pared que su cuello fue aplastado en la cabeza y el torso, matándolo instantáneamente."
-"Barbara Ma (talking)","なんという、なさけない… これが同国人だと思うと、情けなくて、 涙が止まりません。","What a pity… I can't stop crying, thinking that this is a countryman.","Qué pena… pensar que se trata de un paisano, tan patético, que no puedo dejar de llorar."
-" (talking)","バーバラ！！","Barbara!","¡Barbara!"
-"Barbara Ma (talking)","ん？","Hmm?","¿Eh?"
-"Barbara Ma (talking)","シーネル司令官ではないの。 どうしたの？ 何かご用でも？","Seanel I'm not a commander. What's wrong? Can I help you?","Seanel No soy un comandante. ¿Qué está pasando? ¿Puedo ayudarle?"
-"Seanel Br (talking)","あなたを逮捕するわ。","You are under arrest.","Queda arrestado."
-"Barbara Ma (talking)","私を？ どうして？","You want me? Why me?","¿Me quieres? ¿Por qué yo?"
-"Seanel Br (talking)","今、あなたがしていた事、見ていたのよ。 その調子で、街でもニホンの男を 殺してきたのね。","I saw what you were doing just now. Keep it up, you've been Satsu the nihong men in town.","He visto lo que estabas haciendo hace un momento. Sigue así, has sido Satsu el hombre NIHON de la calle."
-"Barbara Ma (talking)","人聞きの悪い事を言わないで。 私は、教育指導を続けているだけですよ。","Don't be so hard on yourself. I'm just continuing to provide educational guidance.","No seas tan bueno como para ser tan impersonal. Sólo sigo proporcionando orientación educativa."
-"Seanel Br (talking)","どちらでもいいわ。 とにかく、やりすぎよ。 牢屋で謹慎して貰うわ。","Either way, it's fine. Anyway, you've gone too far. You'll be confined to jail.","De cualquier manera, no importa. De todos modos, has ido demasiado lejos. Serás suspendido en prisión."
-"narrator","そうシーネルが言うと、バーバラの周囲を、 マシンガンを構えた５０人以上の ウィミィ兵士が取り囲んだ。","As Seanel said this, more than 50 Wime soldiers with machine guns surrounded Barbara.","Así dijo Seanel, y más de 50 soldados Wime con ametralladoras rodearon a Barbara."
-"Seanel Br (talking)","いくらあなたでも、 この人数と銃相手では、 あっという間に蜂の巣よ。","I don't care how many people you have or how many guns you have, you're going to be in a honey hole before you know it.","No me importa cuántos tengas, con tanta gente y armas, serás una colmena en poco tiempo."
-"Barbara Ma (talking)","か弱い私をこんな目に合わせるなんて… シーネル司令官、お行儀が悪いですよ。 親にどんな教育をされてきたの？","How could you do this to me, a frail little girl… Seanel Commander, you are misbehaving. What kind of upbringing have your parents given you?","Cómo pudiste hacerme esto a mí, una niña frágil… Seanel Comandante, no te estás portando bien. ¿Qué tipo de educación te han dado tus padres?"
-"Seanel Br (talking)","人の親を悪く言うのは、 失礼にあたらないかしら？ 不愉快、極まりないわ。
+Barbara Ma (talking),なんという、なさけない… これが同国人だと思うと、情けなくて、 涙が止まりません。,"What a pity… I can't stop crying, thinking that this is a countryman.","Qué pena… pensar que se trata de un paisano, tan patético, que no puedo dejar de llorar."
+ (talking),バーバラ！！,Barbara!,¡Barbara!
+Barbara Ma (talking),ん？,Hmm?,¿Eh?
+Barbara Ma (talking),シーネル司令官ではないの。 どうしたの？ 何かご用でも？,Seanel I'm not a commander. What's wrong? Can I help you?,Seanel No soy un comandante. ¿Qué está pasando? ¿Puedo ayudarle?
+Seanel Br (talking),あなたを逮捕するわ。,You are under arrest.,Queda arrestado.
+Barbara Ma (talking),私を？ どうして？,You want me? Why me?,¿Me quieres? ¿Por qué yo?
+Seanel Br (talking),今、あなたがしていた事、見ていたのよ。 その調子で、街でもニホンの男を 殺してきたのね。,"I saw what you were doing just now. Keep it up, you've been Satsu the nihong men in town.","He visto lo que estabas haciendo hace un momento. Sigue así, has sido Satsu el hombre NIHON de la calle."
+Barbara Ma (talking),人聞きの悪い事を言わないで。 私は、教育指導を続けているだけですよ。,Don't be so hard on yourself. I'm just continuing to provide educational guidance.,No seas tan bueno como para ser tan impersonal. Sólo sigo proporcionando orientación educativa.
+Seanel Br (talking),どちらでもいいわ。 とにかく、やりすぎよ。 牢屋で謹慎して貰うわ。,"Either way, it's fine. Anyway, you've gone too far. You'll be confined to jail.","De cualquier manera, no importa. De todos modos, has ido demasiado lejos. Serás suspendido en prisión."
+narrator,そうシーネルが言うと、バーバラの周囲を、 マシンガンを構えた５０人以上の ウィミィ兵士が取り囲んだ。,"As Seanel said this, more than 50 Wime soldiers with machine guns surrounded Barbara.","Así dijo Seanel, y más de 50 soldados Wime con ametralladoras rodearon a Barbara."
+Seanel Br (talking),いくらあなたでも、 この人数と銃相手では、 あっという間に蜂の巣よ。,"I don't care how many people you have or how many guns you have, you're going to be in a honey hole before you know it.","No me importa cuántos tengas, con tanta gente y armas, serás una colmena en poco tiempo."
+Barbara Ma (talking),か弱い私をこんな目に合わせるなんて… シーネル司令官、お行儀が悪いですよ。 親にどんな教育をされてきたの？,"How could you do this to me, a frail little girl… Seanel Commander, you are misbehaving. What kind of upbringing have your parents given you?","Cómo pudiste hacerme esto a mí, una niña frágil… Seanel Comandante, no te estás portando bien. ¿Qué tipo de educación te han dado tus padres?"
+Seanel Br (talking),"人の親を悪く言うのは、 失礼にあたらないかしら？ 不愉快、極まりないわ。
 さっさと連れていきなさい！！","Is it not disrespectful to speak ill of someone's parents? It's offensive, extremely offensive.
 Get him the hell out of here!","¿No es una falta de respeto hablar mal de los padres de alguien? Es ofensivo, extremadamente ofensivo.
  ¡Sácalo de aquí!"
-"narrator","こうして、バーバラは同国人によって 逮捕された。","Thus, Barbara was arrested by his countrymen.","Así, Barbara fue detenida por sus compatriotas."
-"narrator","　　［ターーーン……］
+narrator,こうして、バーバラは同国人によって 逮捕された。,"Thus, Barbara was arrested by his countrymen.","Así, Barbara fue detenida por sus compatriotas."
+narrator,"　　［ターーーン……］
 夜の空気に、ライフルの射撃音が響いた。","[taaan ……]
 The sound of rifle fire echoed in the night air.","[Taarn ……]
 El sonido de los disparos de los rifles resonó en el aire nocturno."
-"Yopparai (talking)","ぐ…なっ……なんだこりゃ…？
+Yopparai (talking),"ぐ…なっ……なんだこりゃ…？
  ……………
 血……？
 血……なんで…？ え、俺……？ ぐっ……
@@ -235,13 +235,13 @@ Geez ……","G…n…n……… ¿Qué demonios es esto?
  ¿Sangre……?
 Sangre…… ¿por qué…? ¿Qué, soy ……? Caramba… ……
 Geez ……"
-"narrator","酔っぱらいは、自分が撃たれたと気づいた その瞬間絶命し、道に倒れた。","Yopparai died at the moment he realized he had been shot, and collapsed on the road.","Yopparai murió en el momento en que se dio cuenta de que le habían disparado y se desplomó en la calle."
-"Sharon Lu (talking)","ククッ……","Kukk ……","Kukku: ……"
-"narrator","その様子をスコープを通して 見ている者がいた。 凶弾を放ったのも、その女。
+narrator,酔っぱらいは、自分が撃たれたと気づいた その瞬間絶命し、道に倒れた。,"Yopparai died at the moment he realized he had been shot, and collapsed on the road.",Yopparai murió en el momento en que se dio cuenta de que le habían disparado y se desplomó en la calle.
+Sharon Lu (talking),ククッ……,Kukk ……,Kukku: ……
+narrator,"その様子をスコープを通して 見ている者がいた。 凶弾を放ったのも、その女。
 ウィミィ兵のシャロンだった。","Someone was watching through a scope. It was the woman who released the deadly Dan.
 It was Sharon of the Wime soldiers.","Alguien estaba observando esto a través de un visor. La mujer que liberó al mortífero Dan también era esa mujer.
 Era Sharon de los soldados de Wime."
-"Sharon Lu (talking)","どんなクズの血でも、同じ血だ。 綺麗な色……
+Sharon Lu (talking),"どんなクズの血でも、同じ血だ。 綺麗な色……
 見事に、額をクリーンヒットしている… 私の腕も、衰えてはいない……
  ……ああ……つまらない… 戦争の終わった地に駐屯だなんて……
 もっと、殺戮を…… あたしに銃を撃たせて欲しいのに…
@@ -252,7 +252,7 @@ More Satsu carnage…… I wish you'd let me shoot my gun…
 Espléndido, un golpe limpio en la frente… mi brazo no se ha desvanecido tampoco………… Oh…… aburrido… estar destinado en un lugar donde la guerra ha terminado……
 Más carnicería Satsu…… Me gustaría que me dejaras disparar mi arma…
 ……Kuku~tsu… kukuku~tsu……"
-"narrator","　　［ターーン……］
+narrator,"　　［ターーン……］
 今日も、夜空に銃声がこだまする。
 自分の身に何が起こったか理解出来ぬまま、 男は夜道に倒れた。
 その額には、ぽっかりと小さな空洞が 開いている。","[taan ……]
@@ -262,27 +262,27 @@ On his forehead, there is a small hollow opening.","[Taarn ……]
 También hoy, el sonido de los disparos resuena en Yozora.
 El hombre se desplomó en la calle nocturna, incapaz de comprender lo que le había sucedido.
 En su frente, hay un pequeño agujero abierto."
-"narrator","シャロンだった。 今日も、夜空に凶弾を放っていたのだ。","It was Sharon. Today, he had unleashed the evil Dan on Yozora.","Era Sharon. Hoy había desatado al malvado Dan sobre Yozora."
-"Sharon Lu (talking)","ククッ…","Kukk…","Kuk…"
-"joseishikan (talking)","動かないで。","Don't move.","No te muevas."
-"Sharon Lu (talking)","―――――","―――――","―――――"
-"joseishikan (talking)","シャロン、あなたを逮捕します。","Sharon, you are under arrest.","Sharon, estás bajo arresto."
-"narrator","ウィミィ上級士官が、 シャロンに銃口を向け立っていた。","A Wime senior officer stood with his muzzle pointed at Sharon.","Un oficial superior de Wime se paró a punta de pistola ante Sharon."
-"Sharon Lu (talking)","あたしは何もしてないけど？","I didn't do anything.","No he hecho nada."
-"joseishikan (talking)","嘘おっしゃい。 このところのあなたの行動は、 目にあまります。
+narrator,シャロンだった。 今日も、夜空に凶弾を放っていたのだ。,"It was Sharon. Today, he had unleashed the evil Dan on Yozora.",Era Sharon. Hoy había desatado al malvado Dan sobre Yozora.
+Sharon Lu (talking),ククッ…,Kukk…,Kuk…
+joseishikan (talking),動かないで。,Don't move.,No te muevas.
+Sharon Lu (talking),―――――,―――――,―――――
+joseishikan (talking),シャロン、あなたを逮捕します。,"Sharon, you are under arrest.","Sharon, estás bajo arresto."
+narrator,ウィミィ上級士官が、 シャロンに銃口を向け立っていた。,A Wime senior officer stood with his muzzle pointed at Sharon.,Un oficial superior de Wime se paró a punta de pistola ante Sharon.
+Sharon Lu (talking),あたしは何もしてないけど？,I didn't do anything.,No he hecho nada.
+joseishikan (talking),"嘘おっしゃい。 このところのあなたの行動は、 目にあまります。
 ニホンの男など、一人二人殺しても、 適当にもみ消す事が出来ますが…… あなたは、やりすぎよ。","You are lying. Your behavior of late has been quite an eye-opener.
 I can cover up a Satsu or two with a Japanese man or two, but…… you are taking it too far.","Estás mintiendo. Su comportamiento de los últimos tiempos ha sido bastante revelador.
 Puedo Satsu a uno o dos japoneses y disimularlo, pero…… has ido demasiado lejos."
-"Sharon Lu (talking)","……………","……………","……………"
-"joseishikan (talking)","動くな！","Don't move!","¡No te muevas!"
-"narrator","上級士官が、さらに銃を厳しく構える。","A senior officer holds his gun even tighter.","Un oficial superior sostiene su arma con más fuerza."
-"joseishikan (talking)","私の他に、あなたに狙いをつけている者は たくさんいます。
+Sharon Lu (talking),……………,……………,……………
+joseishikan (talking),動くな！,Don't move!,¡No te muevas!
+narrator,上級士官が、さらに銃を厳しく構える。,A senior officer holds his gun even tighter.,Un oficial superior sostiene su arma con más fuerza.
+joseishikan (talking),"私の他に、あなたに狙いをつけている者は たくさんいます。
 暗闇の中でのクリーンヒットが得意なのは ウィミィではあなただけではなくてよ、 シャロン。","Besides me, there are many others who have their sights set on you.
 You're not the only one in Wime who's good at clean hits in the dark, Sharon.","Además de mí, hay muchos otros que tienen la vista puesta en ti.
 No eres la única en Wime que es buena en los golpes limpios en la oscuridad, Sharon."
-"Sharon Lu (talking)","…………ちっ。","………… chit.","………… chi."
-"narrator","シャロンは手にしていたライフルを 床に放り投げた。","Sharon threw the rifle in his hand on the floor.","Sharon tiró al suelo el rifle que tenía en la mano."
-"joseishikan (talking)","後ろに入れてる銃も出しなさい。","Take out the gun you keep in the back, too.","Y saca la pistola que guardas en la parte de atrás."
-"Sharon Lu (talking)","…………","…………","…………"
-"narrator","言われた通りにするシャロン。","Do as you're told Sharon.","Haz lo que se te dice Sharon."
-"joseishikan (talking)","両手を壁について。 あなたを逮捕します、シャロン。","Both hands on the wall. You're under arrest, Sharon.","Las dos manos sobre la pared. Estás bajo arresto, Sharon."
+Sharon Lu (talking),…………ちっ。,………… chit.,………… chi.
+narrator,シャロンは手にしていたライフルを 床に放り投げた。,Sharon threw the rifle in his hand on the floor.,Sharon tiró al suelo el rifle que tenía en la mano.
+joseishikan (talking),後ろに入れてる銃も出しなさい。,"Take out the gun you keep in the back, too.",Y saca la pistola que guardas en la parte de atrás.
+Sharon Lu (talking),…………,…………,…………
+narrator,言われた通りにするシャロン。,Do as you're told Sharon.,Haz lo que se te dice Sharon.
+joseishikan (talking),両手を壁について。 あなたを逮捕します、シャロン。,"Both hands on the wall. You're under arrest, Sharon.","Las dos manos sobre la pared. Estás bajo arresto, Sharon."

@@ -1,131 +1,131 @@
-"character","jap text","Eng","Esp"
-"__system__??","{麦 = 1:","",""
-"__system__??","{☆明 < 11:","",""
-"__system__??","}","",""
-"__system__??","{☆明 = 11:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 2:","",""
-"__system__??","{B忠誠心 > 70:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 3:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 4:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 5:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 10:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 11:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 12:","",""
-"__system__??","{H愛欲抵抗 <= H愛欲:","",""
-"__system__??","}","",""
-"__system__??","{H愛欲 = 1:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 13:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 15:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 16:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 17:","",""
-"__system__??","{H拷問抵抗 < H拷問:","",""
-"__system__??","}","",""
-"__system__??","{H拷問 = 1:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 18:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 19:","",""
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","……お、来た来た。 メイ、元気でやってっか？","…… Oh, here they come. May, how are you doing?","…… Oh, aquí vienen. May, ¿cómo estás?"
-"Fudou Mei (talking)","お陰様でな。
+character,jap text,Eng,Esp
+__system__??,{麦 = 1:,,
+__system__??,{☆明 < 11:,,
+__system__??,},,
+__system__??,{☆明 = 11:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 2:,,
+__system__??,{B忠誠心 > 70:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 3:,,
+__system__??,},,
+__system__??,{麦 = 4:,,
+__system__??,},,
+__system__??,{麦 = 5:,,
+__system__??,},,
+__system__??,{麦 = 10:,,
+__system__??,},,
+__system__??,{麦 = 11:,,
+__system__??,},,
+__system__??,{麦 = 12:,,
+__system__??,{H愛欲抵抗 <= H愛欲:,,
+__system__??,},,
+__system__??,{H愛欲 = 1:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 13:,,
+__system__??,},,
+__system__??,{麦 = 15:,,
+__system__??,},,
+__system__??,{麦 = 16:,,
+__system__??,},,
+__system__??,{麦 = 17:,,
+__system__??,{H拷問抵抗 < H拷問:,,
+__system__??,},,
+__system__??,{H拷問 = 1:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 18:,,
+__system__??,},,
+__system__??,{麦 = 19:,,
+__system__??,},,
+Yamamoto Akuji (talking),……お、来た来た。 メイ、元気でやってっか？,"…… Oh, here they come. May, how are you doing?","…… Oh, aquí vienen. May, ¿cómo estás?"
+Fudou Mei (talking),"お陰様でな。
 で、オレに用だって聞いたんだけどよ。 何なんだ？","Thanks to you.
 So, I heard you wanted to see me. What's this about?","Gracias a ti.
 He oído que querías verme. ¿De qué se trata?"
-"Yamamoto Akuji (talking)","用ってほどでもねぇけどな。 どうよ、真面目に仕事やってっか？","Not so much for business, though. How are you doing? Are you taking your job seriously?","Sin embargo, no tanto para los negocios. ¿Qué opinas, te tomas tu trabajo en serio?"
-"Fudou Mei (talking)","心配しなくったって、 喧嘩だったら慣れてるよ。","Don't worry, I'm used to getting into fights.","No te preocupes, estoy acostumbrado a las peleas."
-"Yamamoto Akuji (talking)","うちの仕事は喧嘩だけじゃねえぞ？ 説明しただろ。","Our job ain't just fighting, you know? I've explained it to you.","Nuestro negocio no es sólo pelear, ¿sabes? Ya te lo he explicado."
-"Fudou Mei (talking)","ああ……計算が苦手だから 集金はちょっと勘弁なんだけどさ。
+Yamamoto Akuji (talking),用ってほどでもねぇけどな。 どうよ、真面目に仕事やってっか？,"Not so much for business, though. How are you doing? Are you taking your job seriously?","Sin embargo, no tanto para los negocios. ¿Qué opinas, te tomas tu trabajo en serio?"
+Fudou Mei (talking),心配しなくったって、 喧嘩だったら慣れてるよ。,"Don't worry, I'm used to getting into fights.","No te preocupes, estoy acostumbrado a las peleas."
+Yamamoto Akuji (talking),うちの仕事は喧嘩だけじゃねえぞ？ 説明しただろ。,"Our job ain't just fighting, you know? I've explained it to you.","Nuestro negocio no es sólo pelear, ¿sabes? Ya te lo he explicado."
+Fudou Mei (talking),"ああ……計算が苦手だから 集金はちょっと勘弁なんだけどさ。
 ただ、治安維持とかいうのは 大体解ってきたよ。","Yeah, I'm not good at…… math, so collecting money is a bit of a bummer.
 But I'm starting to get the gist of what it's like to maintain public order.","Sí…… No se me dan bien las matemáticas, así que cobrar el dinero es un poco complicado.
 Pero estoy empezando a entender de qué se trata, ya sabes, de mantener el orden público."
-"Yamamoto Akuji (talking)","ほー。","Ho.","Ho."
-"Fudou Mei (talking)","要するに、ガキやオッサンが喧嘩してたら 両方叩きのめして、よっぱらいはシバいて 家に連れてきゃいいんだろ？
+Yamamoto Akuji (talking),ほー。,Ho.,Ho.
+Fudou Mei (talking),"要するに、ガキやオッサンが喧嘩してたら 両方叩きのめして、よっぱらいはシバいて 家に連れてきゃいいんだろ？
 喧嘩と大差ないしさ、簡単なもんさ。","In short, if a kid and an old man are fighting, beat them both up, shag the yobs, and bring them home, right?
 It's not much different from a fight, it's that simple.","En resumen, si un niño y un anciano se pelean, les das una paliza a los dos, te tiras a los gamberros y los llevas a casa, ¿no?
 No es muy diferente de una pelea, es tan simple como eso."
-"Yamamoto Akuji (talking)","……………………","……………………","……………………"
-"Fudou Mei (talking)","……何だよ、その顔。 オレ何か間違ってたか？","……What's with that face? Did I do something wrong?","…… ¿Qué pasa con esa cara? ¿He hecho algo mal?"
-"Yamamoto Akuji (talking)","………………いや、 おおむね間違ってないからいいけどな。","……………… No, it's mostly okay, though, because it's not wrong.","……………… No, pero no pasa nada, porque tienes casi toda la razón."
-"Yamamoto Akuji (talking)","よう。相変わらず元気そうだな、メイ。","Yo. You're looking good as always, Mei.","Yo. Te ves tan bien como siempre, Mae."
-"Fudou Mei (talking)","まあな。 で……またオレに用があるんだって？","Well, yeah. So,…… you wanted to see me again?","Bueno. Así que…… ¿querías volver a verme?"
-"Yamamoto Akuji (talking)","おう、その事なんだけどよ。 まあそこの椅子にでも座れや。","Oh, about that. Well, you can sit in that chair right there.","Oh, sobre eso. Bueno, puedes sentarte en la silla de ahí."
-"Fudou Mei (talking)","ん……","N……","N……"
-"Yamamoto Akuji (talking)","で、用件なんだがよ……
+Yamamoto Akuji (talking),……………………,……………………,……………………
+Fudou Mei (talking),……何だよ、その顔。 オレ何か間違ってたか？,……What's with that face? Did I do something wrong?,…… ¿Qué pasa con esa cara? ¿He hecho algo mal?
+Yamamoto Akuji (talking),………………いや、 おおむね間違ってないからいいけどな。,"……………… No, it's mostly okay, though, because it's not wrong.","……………… No, pero no pasa nada, porque tienes casi toda la razón."
+Yamamoto Akuji (talking),よう。相変わらず元気そうだな、メイ。,"Yo. You're looking good as always, Mei.","Yo. Te ves tan bien como siempre, Mae."
+Fudou Mei (talking),まあな。 で……またオレに用があるんだって？,"Well, yeah. So,…… you wanted to see me again?",Bueno. Así que…… ¿querías volver a verme?
+Yamamoto Akuji (talking),おう、その事なんだけどよ。 まあそこの椅子にでも座れや。,"Oh, about that. Well, you can sit in that chair right there.","Oh, sobre eso. Bueno, puedes sentarte en la silla de ahí."
+Fudou Mei (talking),ん……,N……,N……
+Yamamoto Akuji (talking),"で、用件なんだがよ……
  ……おっと、話の前だってのに 机の上に灰皿がねぇな。 ちょっと取ってくるわ。","So, what can I do for you? ………… Oops, I don't see an ashtray on the desk before we talk. I'll go get it.","Entonces, ¿qué puedo hacer por usted? ………… Uy, no veo ningún cenicero en la mesa antes de hablar. Iré a buscarlo."
-"Fudou Mei (talking)","別にオレ、灰皿なんか要らないぜ。","I don't need an ashtray.","No necesito un cenicero."
-"Yamamoto Akuji (talking)","遠慮すんなよ、俺も付き合いで吸うし。","Don't be shy, I smoke in company too.","No seas tímido, yo también fumo en compañía."
-"Fudou Mei (talking)","ああ、あんたが使うなら勝手にしなよ。","Yeah, if you want to use it, go ahead.","Sí, si quieres usarlo, haz lo que quieras."
-"Yamamoto Akuji (talking)","勝手にっておめー、マジで吸わねぇ気か？","You're really not going to smoke?","¿No vas a fumar por tu cuenta?"
-"Fudou Mei (talking)","ああ……言ってなかったんだっけ。 オレ、煙草に火つける事は 滅多にないからさ。","Oh, I didn't tell you about ……. I rarely light up a cigarette.","¿No te he hablado de ……? Raramente enciendo mis cigarrillos."
-"Yamamoto Akuji (talking)","………………はぁ？ んじゃ何でいっつも口にくわえてんだ？","What about ………………? Then why do you always have it in your mouth?","¿Qué hay de ………………? Entonces, ¿por qué lo tienes siempre en la boca?"
-"Fudou Mei (talking)","何となく。 口元に何かあった方が落ち着くんだよ。
+Fudou Mei (talking),別にオレ、灰皿なんか要らないぜ。,I don't need an ashtray.,No necesito un cenicero.
+Yamamoto Akuji (talking),遠慮すんなよ、俺も付き合いで吸うし。,"Don't be shy, I smoke in company too.","No seas tímido, yo también fumo en compañía."
+Fudou Mei (talking),ああ、あんたが使うなら勝手にしなよ。,"Yeah, if you want to use it, go ahead.","Sí, si quieres usarlo, haz lo que quieras."
+Yamamoto Akuji (talking),勝手にっておめー、マジで吸わねぇ気か？,You're really not going to smoke?,¿No vas a fumar por tu cuenta?
+Fudou Mei (talking),ああ……言ってなかったんだっけ。 オレ、煙草に火つける事は 滅多にないからさ。,"Oh, I didn't tell you about ……. I rarely light up a cigarette.",¿No te he hablado de ……? Raramente enciendo mis cigarrillos.
+Yamamoto Akuji (talking),………………はぁ？ んじゃ何でいっつも口にくわえてんだ？,What about ………………? Then why do you always have it in your mouth?,"¿Qué hay de ………………? Entonces, ¿por qué lo tienes siempre en la boca?"
+Fudou Mei (talking),"何となく。 口元に何かあった方が落ち着くんだよ。
 一応ライターも持ってるからさ、 吸おうと思えばいつでも吸えるけど……
 まあ、三日に一本とか、 一週間に一本くらいかな。","Somehow. I feel more comfortable with something in my mouth.
 I have a lighter, so I can smoke whenever I want……
 Well, maybe once every three days or once a week.","De alguna manera. Me siento más cómodo si tengo algo en la boca.
 Tengo un encendedor, así que puedo fumar cuando quiera……
 Bueno, tal vez un cigarrillo cada tres días o una semana."
-"Yamamoto Akuji (talking)","なんじゃそりゃ。 中途半端な煙草吸いだなー……","What's that? You're a half-assed smoker……","¿Qué es eso? Eres un fumador de medio pelo……"
-"Fudou Mei (talking)","っせえなぁ…… あんたに迷惑かけてないだろ、 ほっといてくれ。","Fuck you…… I'm not bothering you, just leave me alone.","Vete a la mierda…… No te estoy molestando, déjame en paz."
-"Yamamoto Akuji (talking)","よう、来たかメイ。 まあそこに座れ。","Hey, there you are, Mae. Well, sit down right there.","Oye, estás aquí, May. Bueno, siéntate ahí."
-"Fudou Mei (talking)","……………… あのさ、一つ訊いていいかな。
+Yamamoto Akuji (talking),なんじゃそりゃ。 中途半端な煙草吸いだなー……,What's that? You're a half-assed smoker……,¿Qué es eso? Eres un fumador de medio pelo……
+Fudou Mei (talking),っせえなぁ…… あんたに迷惑かけてないだろ、 ほっといてくれ。,"Fuck you…… I'm not bothering you, just leave me alone.","Vete a la mierda…… No te estoy molestando, déjame en paz."
+Yamamoto Akuji (talking),よう、来たかメイ。 まあそこに座れ。,"Hey, there you are, Mae. Well, sit down right there.","Oye, estás aquí, May. Bueno, siéntate ahí."
+Fudou Mei (talking),"……………… あのさ、一つ訊いていいかな。
 オレ、あんたの役に立ってんだよな。","……………… Let me ask you something.
 I'm useful to you, aren't I?","……………… Oye, déjame preguntarte algo.
 Te soy útil, ¿no?"
-"Yamamoto Akuji (talking)","んー？　そりゃ立ってるぜ。 役立たず飼っとくほど 俺は暇人じゃないからなー。","Hmm?　That's right, I'm standing. I don't have time to keep useless things.","¿Hmm?　Bueno, estoy de pie. No tengo tiempo para cosas inútiles."
-"Fudou Mei (talking)","………………そうか。 なら、いいよ。","……………… Okay. Well, okay then.","………………. De acuerdo. Entonces bien."
-"Yamamoto Akuji (talking)","……？","……？","……？"
-"Yamamoto Akuji (talking)","メイ、俺の部屋に行こうぜ。 そろそろヤりたくなってんだろ？","May, let's go to my room. You're about to get laid, aren't you?","May, vamos a mi habitación. Estás a punto de echar un polvo, ¿no?"
-"Fudou Mei (talking)","なっ……何言ってんだあんた……","What are you talking about?…… ……","¿De qué estás hablando?…… ……"
-"Yamamoto Akuji (talking)","何って、セックスしようぜって 言ってんだが。嫌か？","What? I said, let's have sex. You don't like it?","¿Qué quieres decir con que tengamos sexo? ¿No quieres?"
-"Fudou Mei (talking)","っ……！　そんな事は解ってんだよっ！
+Yamamoto Akuji (talking),んー？　そりゃ立ってるぜ。 役立たず飼っとくほど 俺は暇人じゃないからなー。,"Hmm?　That's right, I'm standing. I don't have time to keep useless things.","¿Hmm?　Bueno, estoy de pie. No tengo tiempo para cosas inútiles."
+Fudou Mei (talking),………………そうか。 なら、いいよ。,"……………… Okay. Well, okay then.",………………. De acuerdo. Entonces bien.
+Yamamoto Akuji (talking),……？,……？,……？
+Yamamoto Akuji (talking),メイ、俺の部屋に行こうぜ。 そろそろヤりたくなってんだろ？,"May, let's go to my room. You're about to get laid, aren't you?","May, vamos a mi habitación. Estás a punto de echar un polvo, ¿no?"
+Fudou Mei (talking),なっ……何言ってんだあんた……,What are you talking about?…… ……,¿De qué estás hablando?…… ……
+Yamamoto Akuji (talking),何って、セックスしようぜって 言ってんだが。嫌か？,"What? I said, let's have sex. You don't like it?",¿Qué quieres decir con que tengamos sexo? ¿No quieres?
+Fudou Mei (talking),"っ……！　そんな事は解ってんだよっ！
 もうちょい言い方ってのがあんだろ！ こう、オブラートで包むような…… ……な、何て言うかさっ…………","I know that!　I know that!
 There's more to it than that! You know, like a little wrap…… …… around it, how do you say it …………","¡Ya lo sé!　¡Ya lo sé!
 Hay una forma mejor de decirlo. Ya sabes, como una pequeña envoltura…… …… alrededor, cómo se dice …………"
-"Yamamoto Akuji (talking)","鬱陶しい言い回しは嫌いなんだよ。 とにかく、ＯＫなのか？　ＮＯなのか？","I don't like depressing phrases. Anyway, is it OK?　NO?","No me gustan las frases deprimentes. De todos modos, ¿está bien?　¿NO?"
-"Fudou Mei (talking)","るっせぇな……！ ＯＫだなんて口に出して言えるかよっ！","LOL ……! How can you say “OK” out loud!","No puedes decir que está bien."
-"Yamamoto Akuji (talking)","じゃ、口に出さなきゃＯＫなんだな？","So it's OK as long as you don't say it out loud?","Entonces, ¿está bien mientras no lo digas en voz alta?"
-"Fudou Mei (talking)","………………………………………………","………………………………………………","………………………………………………"
-"Yamamoto Akuji (talking)","おめーってそういうトコは 変に素直だよなー。","You're so weirdly honest when it comes to that kind of thing, you know.","Eres extrañamente honesto en ese sentido."
-"Fudou Mei (talking)","……一応、言っとくがな…………
+Yamamoto Akuji (talking),鬱陶しい言い回しは嫌いなんだよ。 とにかく、ＯＫなのか？　ＮＯなのか？,"I don't like depressing phrases. Anyway, is it OK?　NO?","No me gustan las frases deprimentes. De todos modos, ¿está bien?　¿NO?"
+Fudou Mei (talking),るっせぇな……！ ＯＫだなんて口に出して言えるかよっ！,LOL ……! How can you say “OK” out loud!,No puedes decir que está bien.
+Yamamoto Akuji (talking),じゃ、口に出さなきゃＯＫなんだな？,So it's OK as long as you don't say it out loud?,"Entonces, ¿está bien mientras no lo digas en voz alta?"
+Fudou Mei (talking),………………………………………………,………………………………………………,………………………………………………
+Yamamoto Akuji (talking),おめーってそういうトコは 変に素直だよなー。,"You're so weirdly honest when it comes to that kind of thing, you know.",Eres extrañamente honesto en ese sentido.
+Fudou Mei (talking),"……一応、言っとくがな…………
 お、オレは別に、あんたに惚れてる訳でも 何でもねえんだからなっ…………","…… In case you're wondering, …………
 Oh, I'm not in love with you or anything…………","…… En caso de que te lo preguntes, …………
 Oh, no estoy enamorado de ti ni nada por el estilo…………"
-"Yamamoto Akuji (talking)","わざわざ言うことかよー。 んなもんとっくの昔にわあってるよ。","I don't have to go out of my way to tell you that. I already knew that a long time ago.","Ni siquiera me molesto en decírselo. Eso ya lo sabía hace tiempo."
-"Fudou Mei (talking)","……………………
+Yamamoto Akuji (talking),わざわざ言うことかよー。 んなもんとっくの昔にわあってるよ。,I don't have to go out of my way to tell you that. I already knew that a long time ago.,Ni siquiera me molesto en decírselo. Eso ya lo sabía hace tiempo.
+Fudou Mei (talking),"……………………
 知ったかぶりすんなよっ……","……………………
 Don't act like you know what you're doing: ……","……………………
 No actúe como un sabelotodo: ……"
-"Fudou Mei (talking)","明は、悪司に抱かれた。","Mei was embraced by Akuji.","Mei fue abrazada por Akuji."
-" (talking)","メイ。","May.","Mayo."
-"narrator","悪司は明の名を呼んで、 自分の部屋がある方向を顎で指した。","Akuji called Mei's name and pointed with his chin in the direction of his room.","Akuji dijo el nombre de Mei y señaló con la barbilla en dirección a su habitación."
-" (talking)","先に行っとけや、俺もすぐ行く。","Go ahead, I'll be right there.","Adelante, ya voy."
-" (talking)","………………
+Fudou Mei (talking),明は、悪司に抱かれた。,Mei was embraced by Akuji.,Mei fue abrazada por Akuji.
+ (talking),メイ。,May.,Mayo.
+narrator,悪司は明の名を呼んで、 自分の部屋がある方向を顎で指した。,Akuji called Mei's name and pointed with his chin in the direction of his room.,Akuji dijo el nombre de Mei y señaló con la barbilla en dirección a su habitación.
+ (talking),先に行っとけや、俺もすぐ行く。,"Go ahead, I'll be right there.","Adelante, ya voy."
+ (talking),"………………
 あんたって、いつもそうなのか？ 自分本位で、身勝手で…………","………………
 Are you always like that? Selfish, selfish and …………","………………
  ¿Siempre eres así? Centrado en sí mismo, egoísta y …………"
-" (talking)","どっちかって言うと、 おめーの心を読んでるつもりだがな。","If anything, I think I'm reading your mind.","En todo caso, creo que estoy leyendo tu mente."
-" (talking)","………………
+ (talking),どっちかって言うと、 おめーの心を読んでるつもりだがな。,"If anything, I think I'm reading your mind.","En todo caso, creo que estoy leyendo tu mente."
+ (talking),"………………
 卑怯なんだよ、あんたはっ……","………………
 You're a coward, you are……","………………
 Eres un cobarde, lo eres……"
-"narrator","言いながらも、明は言われた通りに 悪司の部屋へと歩き始めた──","Despite saying this, Mei began walking to Akuji's room as he was told──","A pesar de decir esto, Mei comenzó a caminar hasta la habitación de Akuji como le dijeron──"
-"cg narrator","「っ、はあッ……！　あああああっ……！ 　うあァ……！！　ああっ、っく……ああっ！！」
+narrator,言いながらも、明は言われた通りに 悪司の部屋へと歩き始めた──,"Despite saying this, Mei began walking to Akuji's room as he was told──","A pesar de decir esto, Mei comenzó a caminar hasta la habitación de Akuji como le dijeron──"
+cg narrator,"「っ、はあッ……！　あああああっ……！ 　うあァ……！！　ああっ、っく……ああっ！！」
 声を押し殺す事も、乱れる自分を繕うこともない。 ──明は、悦楽を感じている自分をさらけ出す。
  「ふ、あ……ああっ……！　はっ、はっ………… 　…………っ！！　ひうっ──あああッ……！！」
 髪を振り乱して、 自分の恥丘に取り付く悪司の顔を見る。
@@ -254,7 +254,7 @@ Las palabras se derramaron.
 Para Mei, no era sólo el cuerpo lo que quería…
  “……” Vale, es un bonito ruego. 　Vamos, Mei………….”
  “…………, u…………… ¡…! 　¡Aaahhh!　¡Aaaaaaaaaaahhh! 　Aa──────────────, …………!”"
-"cg narrator","苛立ち、嫉妬し、だが憧れ、 自分もこんな風に強くありたいと夢想する。
+cg narrator,"苛立ち、嫉妬し、だが憧れ、 自分もこんな風に強くありたいと夢想する。
 それらが縒り合わさって──淡い恋慕になる。
 それが、明にとっての悪司の存在。
 けれど、明がそんな自分の本心に気付く事は、 まず有り得ないだろう。
@@ -267,214 +267,214 @@ Todas estas cosas se entrelazan y se convierten en un tenue anhelo de los demás
 Eso es lo que Akuji es para Mei.
 Sin embargo, es poco probable que Mei se dé cuenta de sus verdaderos sentimientos.
 El único momento en que Mei puede darse cuenta de que busca a Akuji es cuando ha sido devorada por el placer y ha perdido su ego."
-" (talking)","ほれ、小遣いだ。 好きに使えや。","Here, here's your allowance. Spend it as you like.","Toma, aquí tienes tu asignación. Gástalo como quieras."
-"narrator","悪司は、札束の入った封筒を明に手渡した。","Akuji handed an envelope containing a wad of bills to Mei.","Akuji entregó un sobre con un fajo de billetes a Mei."
-" (talking)","お、おい…… いいのかよ、こんなに。","Oh, hey, ……, it's okay, so much.","Oh, hey,…… Está bien, tanto."
-" (talking)","ダメならハナっから渡さねぇよ。","If it's not good enough, I won't give it to you in the first place.","Si no, no te lo habría dado en primer lugar."
-" (talking)","……………… あ、ありがとう……な。","……………… Oh, thanks …….","……………… Oh, gracias ……."
-" (talking)","おお、おめーでも 人にお礼が言えたんだな。","Oh, even you could thank people.","Oh, incluso tú podrías dar las gracias a la gente."
-" (talking)","………………","………………","………………"
-" (talking)","……一言多かったか、わりぃ。","…… one word too many, sorry.","…… Demasiadas palabras, lo siento."
-" (talking)","……まあとりあえず、茶でも飲め。 今日の話は長くなるからよ。","…… Well, for now, have a cup of tea. It's a long story today.","…… Bueno, por ahora, toma una taza de té. Hoy es una larga historia."
-" (talking)","ああ、じゃ遠慮なく。","Oh, then feel free.","Ah, entonces siéntete libre."
-" (talking)","………………
+ (talking),ほれ、小遣いだ。 好きに使えや。,"Here, here's your allowance. Spend it as you like.","Toma, aquí tienes tu asignación. Gástalo como quieras."
+narrator,悪司は、札束の入った封筒を明に手渡した。,Akuji handed an envelope containing a wad of bills to Mei.,Akuji entregó un sobre con un fajo de billetes a Mei.
+ (talking),お、おい…… いいのかよ、こんなに。,"Oh, hey, ……, it's okay, so much.","Oh, hey,…… Está bien, tanto."
+ (talking),ダメならハナっから渡さねぇよ。,"If it's not good enough, I won't give it to you in the first place.","Si no, no te lo habría dado en primer lugar."
+ (talking),……………… あ、ありがとう……な。,"……………… Oh, thanks …….","……………… Oh, gracias ……."
+ (talking),おお、おめーでも 人にお礼が言えたんだな。,"Oh, even you could thank people.","Oh, incluso tú podrías dar las gracias a la gente."
+ (talking),………………,………………,………………
+ (talking),……一言多かったか、わりぃ。,"…… one word too many, sorry.","…… Demasiadas palabras, lo siento."
+ (talking),……まあとりあえず、茶でも飲め。 今日の話は長くなるからよ。,"…… Well, for now, have a cup of tea. It's a long story today.","…… Bueno, por ahora, toma una taza de té. Hoy es una larga historia."
+ (talking),ああ、じゃ遠慮なく。,"Oh, then feel free.","Ah, entonces siéntete libre."
+ (talking),"………………
 んー…… じろじろじろじろ……","………………
 Hmmm…… stare at…… stare at ……","………………
 Hmmm…… me mira fijamente ……"
-" (talking)","……何じろじろ見てんだよ。 人が茶飲んでるのがそんなに面白いのか？","…… What are you staring at? Is it so funny Haku that people are drinking tea?","…… ¿Qué estás mirando? ¿Es tan divertido Haku que la gente esté bebiendo té?"
-" (talking)","うーむ、上玉なのは上玉なんだよなー。 問題なのは性格なんだが……
+ (talking),……何じろじろ見てんだよ。 人が茶飲んでるのがそんなに面白いのか？,…… What are you staring at? Is it so funny Haku that people are drinking tea?,…… ¿Qué estás mirando? ¿Es tan divertido Haku que la gente esté bebiendo té?
+ (talking),"うーむ、上玉なのは上玉なんだよなー。 問題なのは性格なんだが……
 ちいっと難しいかもしれねぇが、 ま、タマネギなら何とかしてくれっかな。","Ummm….the top ball is the top ball…. The problem is the personality……
 It may be a little difficult, but I'm sure Tamanegi can do something about it.","Hmmm, son las bolas de arriba las que son las de arriba. El problema es la personalidad……
 Puede ser un poco difícil, pero estoy seguro de que Tamanegi puede hacer algo al respecto."
-" (talking)","……何の事だよ。","…… What are you talking about?","…… ¿De qué estás hablando?"
-" (talking)","いや、おめーを 娼婦にしようかと思ってな。","No, I'm thinking of turning you into a whore.","No, estoy pensando en convertirte en una puta."
-" (talking)","なっ………！？","Hey, ………!","¡Oye, ………!"
-" (talking)","娼婦だって立派な俺の部下だしな、 そっちで役に立って欲しいと 思うんだがよ。","I'd like to see them be of service to me.","Me gustaría que me fuera útil."
-" (talking)","……あんた、本気で言ってんのか。","…… You can't be serious.","…… No puedes hablar en serio."
-" (talking)","俺ぁ冗談は得意な方だけどな、 この話はマジだぜ。","I'm good at jokes, but this is for real.","Soy bueno para las bromas, pero esto es serio."
-" (talking)","………………
+ (talking),……何の事だよ。,…… What are you talking about?,…… ¿De qué estás hablando?
+ (talking),いや、おめーを 娼婦にしようかと思ってな。,"No, I'm thinking of turning you into a whore.","No, estoy pensando en convertirte en una puta."
+ (talking),なっ………！？,"Hey, ………!","¡Oye, ………!"
+ (talking),娼婦だって立派な俺の部下だしな、 そっちで役に立って欲しいと 思うんだがよ。,I'd like to see them be of service to me.,Me gustaría que me fuera útil.
+ (talking),……あんた、本気で言ってんのか。,…… You can't be serious.,…… No puedes hablar en serio.
+ (talking),俺ぁ冗談は得意な方だけどな、 この話はマジだぜ。,"I'm good at jokes, but this is for real.","Soy bueno para las bromas, pero esto es serio."
+ (talking),"………………
 所詮、極道は極道って事かよ。 この人間のクズがっ……","………………
 So, the extremist is still the extremist. You human scum……","………………
 Entonces, ¿los extremos siguen siendo extremos? Escoria humana……"
-" (talking)","おう、褒めてくれてあんがとさん。
+ (talking),"おう、褒めてくれてあんがとさん。
 しかしまあ、口悪いよな、おめー。 そんなんじゃいい娼婦になれんぞー？","Oh, thanks for the compliment.
 But, well, you don't talk very well, do you? You'll never make a good whore like that, will you?","Oh, gracias por el cumplido.
 Pero, bueno, no hablas muy bien, ¿verdad? Nunca serás una buena puta como esa, ¿verdad?"
-" (talking)","誰がなるかよっ、ふざけんなっ！","Who the hell would that be?","¡¿Quién va a ser, tienes que estar bromeando!"
-" (talking)","ま、ヤだって言っても 無理矢理にでも仕立て上げるけどな。 うちの調教師どもは優秀だし。","I'll force him to do it even if he says he doesn't want to do it. Our trainers are excellent.","Bueno, si dices que no, te obligaré a hacerlo. Nuestros formadores son excelentes."
-" (talking)","……その調教師どもの所に行くまで、 ここで暴れて暴れて暴れまくってやるよ。
+ (talking),誰がなるかよっ、ふざけんなっ！,Who the hell would that be?,"¡¿Quién va a ser, tienes que estar bromeando!"
+ (talking),ま、ヤだって言っても 無理矢理にでも仕立て上げるけどな。 うちの調教師どもは優秀だし。,I'll force him to do it even if he says he doesn't want to do it. Our trainers are excellent.,"Bueno, si dices que no, te obligaré a hacerlo. Nuestros formadores son excelentes."
+ (talking),"……その調教師どもの所に行くまで、 ここで暴れて暴れて暴れまくってやるよ。
 あんたが、オレを物扱いした事を 後悔するくらいにはな……！","I'm going to go on a rampage and rampage and rampage here until I get to…… those trainers.
 You'll be sorry you ever treated me like property……!","…… Voy a alborotar, alborotar y alborotar aquí hasta que llegue a esos entrenadores.
 Tanto que lamentarás el día en que me trataste como una propiedad……"
-" (talking)","やれやれ、そうくると思ったぜ。
+ (talking),"やれやれ、そうくると思ったぜ。
 やっぱ茶に一服盛っといて正解だったな。 ぼちぼち効いてくるとは思うが……","Oh dear, I knew you would.
 I knew I was right to serve a cup of tea. I'm sure it will kick in soon enough……","Oh querido, sabía que lo harías.
 Sabía que hacía bien en fumarse un té. Estoy seguro de que pronto hará efecto……"
-" (talking)","なっ！？ 何だって……っ…………
+ (talking),"なっ！？ 何だって……っ…………
  …………ぅ、く……………………………… ち……ちく、しょ………………
  ………………","What? What ……, …………………… Oh, shit! ……………………………… Ch… …Chikku, sho………………
  ………………","¿Qué? Lo que…… y …………………… Oooh, fuck……………………………… Ch… …Chick, mierda………………
  ………………"
-"narrator","明が、静かに倒れる。
+narrator,"明が、静かに倒れる。
 いつも明が連れている仔猫は、 飼い主に何が起きたのか解らず、 呼びかけるように耳元で鳴き続けたが──
  ──明が、閉じた目を開けることはなかった。","Mei quietly collapses.
 The kitten that Mei always carries with her did not understand what had happened to her owner, and continued to purr in her ear as if calling to her, but…
 Mei never opened her closed eyes.","Mei se derrumba en silencio.
 El gatito que Mei siempre lleva consigo, no entendía lo que le había pasado a su dueña, y seguía ronroneando en su oído como llamándola, pero…
 Mei nunca abrió los ojos cerrados."
-" (talking)","悪いな、メイ。 ま、これも仕事なんでな。","I'm sorry, Mei. Well, it's part of the job.","Lo siento, Mae. Bueno, también es mi trabajo."
-" (thinking)","……いや、やめとこう。 こいつに客商売できるわきゃねえ。","…… No, let's not do this. I don't think this guy can do customer service.","…… No, no lo hagamos. Este tipo no puede hacer servicio al cliente."
-"Yamamoto Akuji (talking)","おう、来たな。 正体不明のツッパリ娘。","Oh, you're here. The unidentified Mei tsuppari girl.","Oh, estás aquí. Chica del coño no identificada de  Mei."
-"Fudou Mei (talking)","………………","………………","………………"
-"Yamamoto Akuji (talking)","ちょいとよ、おめーの戸籍とか 住所録とか調べてみたんだがな。
+ (talking),悪いな、メイ。 ま、これも仕事なんでな。,"I'm sorry, Mei. Well, it's part of the job.","Lo siento, Mae. Bueno, también es mi trabajo."
+ (thinking),……いや、やめとこう。 こいつに客商売できるわきゃねえ。,"…… No, let's not do this. I don't think this guy can do customer service.","…… No, no lo hagamos. Este tipo no puede hacer servicio al cliente."
+Yamamoto Akuji (talking),おう、来たな。 正体不明のツッパリ娘。,"Oh, you're here. The unidentified Mei tsuppari girl.","Oh, estás aquí. Chica del coño no identificada de  Mei."
+Fudou Mei (talking),………………,………………,………………
+Yamamoto Akuji (talking),"ちょいとよ、おめーの戸籍とか 住所録とか調べてみたんだがな。
 えーと、名前は不動明（ふどう　めい） で間違いねえよな？","I did a little research on your family register and address book.
 Let's see, your name is Fudou Mei, right?","He investigado un poco en su registro familiar y en su libro de direcciones.
 Veamos, tu nombre es Fudou Mei, ¿verdad?"
-"Fudou Mei (talking)","＜仔猫＞ 　……ふうううううっ……！","<Kitten>…… Fuuuuuuuck ……!","<Gatito>…… ¡Fuuuuuuuuuuuuuuuuuuuuuuuuuuu!"
-"Yamamoto Akuji (talking)","……何を毛ぇ逆立ててんだクソ猫。 お呼びじゃねぇんだ、黙ってな。","…… What's making your hair stand up on end, you fucking cat? I don't want you here, so shut the fuck up.","…… ¿Qué es lo que te pone los pelos de punta, maldito gato? No me quieren aquí, así que cierra la boca."
-"narrator","若干の殺気を込めて、悪司は仔猫を睨み付けた。
+Fudou Mei (talking),＜仔猫＞ 　……ふうううううっ……！,<Kitten>…… Fuuuuuuuck ……!,<Gatito>…… ¡Fuuuuuuuuuuuuuuuuuuuuuuuuuuu!
+Yamamoto Akuji (talking),……何を毛ぇ逆立ててんだクソ猫。 お呼びじゃねぇんだ、黙ってな。,"…… What's making your hair stand up on end, you fucking cat? I don't want you here, so shut the fuck up.","…… ¿Qué es lo que te pone los pelos de punta, maldito gato? No me quieren aquí, así que cierra la boca."
+narrator,"若干の殺気を込めて、悪司は仔猫を睨み付けた。
 仔猫はそれだけで怯えて、背を丸める。","With some Satsu spirit, Akuji glared at the kitten.
 The kitten was frightened by that alone and arched its back.","Con algo de espíritu Satsu, Akuji miró al gatito.
 El gatito se asustó sólo con eso y arqueó la espalda."
-"Yamamoto Akuji (talking)","やれやれ、根性のねぇ猫だ。
+Yamamoto Akuji (talking),"やれやれ、根性のねぇ猫だ。
 おめーもどうせ飼うなら もっとマシなのにしろよ、なあ。","Good grief, what a gutless cat.
 If you're going to have a cat, make it a better one, you know.","Dios, qué gato sin entrañas.
 Si vas a tener un gato, deberías tener uno mejor."
-"Fudou Mei (talking)","………………","………………","………………"
-"Yamamoto Akuji (talking)","しっかしおめーよ、 人が話しかけてんだから 少しはこっちの方を向いたらどうだ？
+Fudou Mei (talking),………………,………………,………………
+Yamamoto Akuji (talking),"しっかしおめーよ、 人が話しかけてんだから 少しはこっちの方を向いたらどうだ？
 いくらツッパってるって言っても、 そのくれぇの愛想は欲しいぜ。","Hey, you know, people are talking to you, so why don't you turn your head a little towards me?
 I don't care how much you're smoking, I'd still like to see that kind of affection.","Oye, tío, la gente te está hablando, ¿por qué no giras un poco la cabeza?
 No me importa lo mucho que estés fumando, todavía me gustaría recibir un poco de afecto de tu parte."
-"Fudou Mei (talking)","………………","………………","………………"
-"Yamamoto Akuji (talking)","……やれやれ。
+Fudou Mei (talking),………………,………………,………………
+Yamamoto Akuji (talking),"……やれやれ。
 せっかく目鼻整ってんのによ、 そんなにツーンとしてたら勿体ねぇぞ？ ちょっとくらい笑ってみせろや。","…… Good grief.
 You've got nice eyes and nose, but it's a waste if you look so dull. Try to smile at least a little.","…….
 Tienes unos ojos y una nariz muy bonitos, pero sería una pena que estuvieras todo crispado. Intenta sonreír un poco."
-"narrator","そう言うと、明の口元に笑みが浮かんだ。
+narrator,"そう言うと、明の口元に笑みが浮かんだ。
  ──悪司を馬鹿にしきった、嘲りの笑み。","When he said that, a smile appeared on Mei's mouth.
 A smile of mockery, making fun of Akuji.","Cuando dijo eso, una sonrisa apareció en la boca de Mei.
  ─── Una sonrisa de burla que se burló de Akuji."
-"Yamamoto Akuji (talking)","………………は。そう来たか。
+Yamamoto Akuji (talking),"………………は。そう来たか。
 まあいい、こっちの声は聞こえてる訳だ。 次はせめて何か喋れや、な？","……………… is. Oh, that's what I thought.
 Well, I can hear you. Next time, at least say something, huh?","……………… es. Así es como surgió.
 Bueno, te escucho. La próxima vez, al menos di algo, ¿sí?"
-"narrator","明は、口にくわえていた煙草をプッと吐き捨てた。","Mei spit out the cigarette he had in his mouth.","Mei escupió el cigarrillo que tenía en la boca."
-"Yamamoto Akuji (talking)","…………お。 そうそう、いいぜいいぜ。 煙草くわえてちゃ喋れな────","………… Oh. Yeah, yeah, yeah, yeah. You can't talk with a cigarette in your mouth. ────","………… Oh. Sí, sí, sí, sí, sí. No se puede hablar con un cigarrillo en la boca. ────"
-"narrator","　　［……びちゃっ］","[…… Bichatcha]","[…… bicha]"
-"Yamamoto Akuji (talking)","……………………
+narrator,明は、口にくわえていた煙草をプッと吐き捨てた。,Mei spit out the cigarette he had in his mouth.,Mei escupió el cigarrillo que tenía en la boca.
+Yamamoto Akuji (talking),…………お。 そうそう、いいぜいいぜ。 煙草くわえてちゃ喋れな────,"………… Oh. Yeah, yeah, yeah, yeah. You can't talk with a cigarette in your mouth. ────","………… Oh. Sí, sí, sí, sí, sí. No se puede hablar con un cigarrillo en la boca. ────"
+narrator,　　［……びちゃっ］,[…… Bichatcha],[…… bicha]
+Yamamoto Akuji (talking),"……………………
  ……なるほどな、煙草を吐き捨てたのは 俺の顔に唾吐きかけるためってか？","………………………… I see, so you spit your cigarette in my face so you could spit in my face?","………………………… Ya veo, ¿así que escupiste tu cigarrillo para poder escupirme a la cara?"
-"Fudou Mei (talking)","………………へっ。","Go to ……………….","Ir a ………………."
-"narrator","明が、初めて悪司の目を見た。 目を見て、へらりと笑う。
+Fudou Mei (talking),………………へっ。,Go to ……………….,Ir a ……………….
+narrator,"明が、初めて悪司の目を見た。 目を見て、へらりと笑う。
  ──その転瞬、明の頬へ向かって いきなり悪司の拳が飛んだ。","Mei looks into Akuji's eyes for the first time. He looked her in the eye and smiled.
  ─ ─ In that moment, Akuji's fist suddenly flew toward Mei's cheek.","Mei miró a Akuji a los ojos por primera vez. La mira a los ojos y sonríe.
  ─ ─ En ese momento de giro, el puño de Akuji voló de repente hacia la mejilla de Mei."
-"Fudou Mei (talking)","…………！","…………！","…………！"
-"narrator","　　［ごっ……！！］","[Gosh, ……!]","[¡Cielos, ……!]"
-"narrator","　　［……ずだんっ！！］","[…… zudan!]","[¡…… zudan!]"
-"Yamamoto Akuji (talking)","……あんまり調子に乗んなよ、 ツッパリねーちゃん。 殺すぞ。","…… Don't get too carried away, Tupari-nechan. I'll Satsu you.","…… No te dejes llevar demasiado, tsuppari-nechan. Yo te Satsu."
-"narrator","悪司は言いながら、 床に倒れた明の胸ぐらを掴んで無理矢理立たせる。","Akuji grabs Mei by the chest as he lies on the floor and forces him to stand up.","dice Akuji, agarrando a Mei por el pecho mientras está tumbada en el suelo y obligándola a levantarse."
-"Yamamoto Akuji (talking)","……おお、わりぃわりぃ。 綺麗な顔がちと歪んだな。","…… Oh, excuse me, excuse me. Your beautiful face is a little distorted.","…… Oh, pobre de mí. Tu hermoso rostro está un poco distorsionado."
-"Fudou Mei (talking)","こ、の……このくされ極道っ…… よくもオレの顔を……！","How dare you…… this piece of shit!","Tú…… bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo."
-"Yamamoto Akuji (talking)","おー、やっとまともに喋ったな。 手間のかかるヤツだぜ。
+Fudou Mei (talking),…………！,…………！,…………！
+narrator,　　［ごっ……！！］,"[Gosh, ……!]","[¡Cielos, ……!]"
+narrator,　　［……ずだんっ！！］,[…… zudan!],[¡…… zudan!]
+Yamamoto Akuji (talking),……あんまり調子に乗んなよ、 ツッパリねーちゃん。 殺すぞ。,"…… Don't get too carried away, Tupari-nechan. I'll Satsu you.","…… No te dejes llevar demasiado, tsuppari-nechan. Yo te Satsu."
+narrator,悪司は言いながら、 床に倒れた明の胸ぐらを掴んで無理矢理立たせる。,Akuji grabs Mei by the chest as he lies on the floor and forces him to stand up.,"dice Akuji, agarrando a Mei por el pecho mientras está tumbada en el suelo y obligándola a levantarse."
+Yamamoto Akuji (talking),……おお、わりぃわりぃ。 綺麗な顔がちと歪んだな。,"…… Oh, excuse me, excuse me. Your beautiful face is a little distorted.","…… Oh, pobre de mí. Tu hermoso rostro está un poco distorsionado."
+Fudou Mei (talking),こ、の……このくされ極道っ…… よくもオレの顔を……！,How dare you…… this piece of shit!,"Tú…… bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo, tú bastardo."
+Yamamoto Akuji (talking),"おー、やっとまともに喋ったな。 手間のかかるヤツだぜ。
 しっかし、一発シバかねぇと コミュニケーションもできねえのかよ。 脳味噌動物並みだろ、おめー。","Oh, he's finally speaking properly. He's a slow learner.
 But you can't even communicate without shaking Ippatsu. You have the brain of an animal, don't you?","Por fin habla con propiedad. Aprende lentamente.
 Pero ni siquiera puedes comunicarte sin sacudir a Ippatsu , ¿verdad? Tienes el cerebro de un animal, ¿no?"
-"Fudou Mei (talking)","この極道がっ、ブッ殺してやる……！","You extreme bastard, I'll bSatsu you: ……!","¡Extremo, bastardo, te voy a bSatsu……!"
-"Yamamoto Akuji (talking)","威勢だけは十人前か。 やれるもんならやってみろよ、そら。","You've got the bravado of a dozen men, don't you? Try it if you can, there you go.","Sólo hay diez personas en el mundo con su valentía. Pruébalo si puedes, ahí lo tienes."
-"narrator","悪司は、明の胸ぐらを掴む腕に 少しだけ捻りを入れた。
+Fudou Mei (talking),この極道がっ、ブッ殺してやる……！,"You extreme bastard, I'll bSatsu you: ……!","¡Extremo, bastardo, te voy a bSatsu……!"
+Yamamoto Akuji (talking),威勢だけは十人前か。 やれるもんならやってみろよ、そら。,"You've got the bravado of a dozen men, don't you? Try it if you can, there you go.","Sólo hay diez personas en el mundo con su valentía. Pruébalo si puedes, ahí lo tienes."
+narrator,"悪司は、明の胸ぐらを掴む腕に 少しだけ捻りを入れた。
  ──たったそれだけなのに、 明はもう、ろくに身動きできなかった。","Akuji gave a slight twist to the arm holding Mei's chest.
 That was all, but Mei couldn't move much anymore.","Akuji dio un ligero giro al brazo que sujetaba el pecho de Mei.
  ─ ─ ─ Eso fue todo, pero Mei ya no podía moverse mucho."
-"Fudou Mei (talking)","な……？　ち、畜生っ…… てめぇ、オレに何しやがった……！？","What the ……?　Damn it!…… What the hell did you do to me? ……!","¿Qué es el ……?　¡Maldita sea!…… ¿Qué coño me has hecho? ……"
-"Yamamoto Akuji (talking)","さあな。","I don't know.","No lo sé."
-"Fudou Mei (talking)","く……クソがっ…………！ 放せっ、放せこの野郎ッ……","Fuck ……, fuck …………! Let go of me! Let go of me, you bastard! ……","¡Joder…… puta …………! ¡Suéltame, suéltame, bastardo! ……"
-"Yamamoto Akuji (talking)","実力差を思い知らせても まだかみつこうってのか……
+Fudou Mei (talking),な……？　ち、畜生っ…… てめぇ、オレに何しやがった……！？,What the ……?　Damn it!…… What the hell did you do to me? ……!,¿Qué es el ……?　¡Maldita sea!…… ¿Qué coño me has hecho? ……
+Yamamoto Akuji (talking),さあな。,I don't know.,No lo sé.
+Fudou Mei (talking),く……クソがっ…………！ 放せっ、放せこの野郎ッ……,"Fuck ……, fuck …………! Let go of me! Let go of me, you bastard! ……","¡Joder…… puta …………! ¡Suéltame, suéltame, bastardo! ……"
+Yamamoto Akuji (talking),"実力差を思い知らせても まだかみつこうってのか……
 動物並みっつったの、訂正しとくか。 動物以下だわ、おめーは。","You're still going to bite me when I remind you of the difference in our abilities……
 I stand corrected when I said you're no better than an animal. You are no better than an animal.","Les recuerdas la diferencia de competencia y siguen queriendo morderte……
 Me corrijo cuando digo que no eres mejor que un animal. No eres mejor que un animal, sabes."
-"Fudou Mei (talking)","……っ、こ、このっ……… 余裕かましたツラしやがって……！ ムカつくんだよ、そのにやけ面っ……","You ……, you little ………, you've got a big, fat……… look on your face! You piss me off with your smirk! ……","……, pequeño… ………, ¡tienes una gran mirada de ………! Me cabreas con tu sonrisa……"
-"Yamamoto Akuji (talking)","ん？　……ああ、わりぃな。 ちょいと楽しくなっちまってよ。
+Fudou Mei (talking),……っ、こ、このっ……… 余裕かましたツラしやがって……！ ムカつくんだよ、そのにやけ面っ……,"You ……, you little ………, you've got a big, fat……… look on your face! You piss me off with your smirk! ……","……, pequeño… ………, ¡tienes una gran mirada de ………! Me cabreas con tu sonrisa……"
+Yamamoto Akuji (talking),"ん？　……ああ、わりぃな。 ちょいと楽しくなっちまってよ。
 俺はよ、 おめーみたいに元気なヤツは 嫌いじゃないんでね。","Hmm?…… Oh, sorry. I'm having a bit of fun.
 I don't mind cheerful people like you.","¿Hmm?…… Oh, lo siento. Me estoy divirtiendo un poco.
 No me importa la gente alegre como tú."
-"Fudou Mei (talking)","ざけんなっ……！","Screw you, ……!","¡Que te den, ……!"
-"Yamamoto Akuji (talking)","………………へっ。","Go to ……………….","Ir a ………………."
-"Yamamoto Akuji (talking)","よお、メイ。 今日も元気そうだな。","Hey, Mei. You're looking good today.","Hola, Mae. Hoy tienes buen aspecto."
-"Fudou Mei (talking)","……名前で呼ぶなよ、気色悪い。 オレはあんたの妹やガキじゃないんだ。","…… Don't call me names, it's creepy. I'm not your sister or your kid.","…… No me insultes, es extraño. No soy tu hermana ni tu hijo."
-"Yamamoto Akuji (talking)","俺にとっちゃガキンチョだぜ。 イキがったフリしてるだけのメスガキだ。","He's a brat to me. I'm just a little bitch pretending to be hot.","Para mí es un mocoso. Sólo soy una pequeña zorra que finge estar caliente."
-"Fudou Mei (talking)","……ぬかしてな。 人間の道踏み外してる極道よりゃ なんぼかマシさ。","Don't go to ……. It's better than a gangster who is going astray from the path of humanity.","No vayas a ……. Es mucho mejor que los gángsters que se han desviado del camino de la humanidad."
-"Yamamoto Akuji (talking)","カタギから弾かれただけの不良が ハンパな自己弁護すんなよ。 すんげぇカッコわるいぞー。","Don't defend yourself like a delinquent who just got kicked out of the corporate world. You're so uncool!","No te defiendas como un delincuente que acaba de ser Danado del mundo exterior. ¡Eres tan antipático!"
-"Fudou Mei (talking)","…………… 好き放題ぬかしやがって……","…………… You can say whatever you want……","…………… Puedes decir lo que quieras……"
-"Yamamoto Akuji (talking)","…………ふふん。","………… hmmm.","………… hmmm."
-"Yamamoto Akuji (talking)","よお、ちと訊きたいんだがな。
+Fudou Mei (talking),ざけんなっ……！,"Screw you, ……!","¡Que te den, ……!"
+Yamamoto Akuji (talking),………………へっ。,Go to ……………….,Ir a ……………….
+Yamamoto Akuji (talking),よお、メイ。 今日も元気そうだな。,"Hey, Mei. You're looking good today.","Hola, Mae. Hoy tienes buen aspecto."
+Fudou Mei (talking),……名前で呼ぶなよ、気色悪い。 オレはあんたの妹やガキじゃないんだ。,"…… Don't call me names, it's creepy. I'm not your sister or your kid.","…… No me insultes, es extraño. No soy tu hermana ni tu hijo."
+Yamamoto Akuji (talking),俺にとっちゃガキンチョだぜ。 イキがったフリしてるだけのメスガキだ。,He's a brat to me. I'm just a little bitch pretending to be hot.,Para mí es un mocoso. Sólo soy una pequeña zorra que finge estar caliente.
+Fudou Mei (talking),……ぬかしてな。 人間の道踏み外してる極道よりゃ なんぼかマシさ。,Don't go to ……. It's better than a gangster who is going astray from the path of humanity.,No vayas a ……. Es mucho mejor que los gángsters que se han desviado del camino de la humanidad.
+Yamamoto Akuji (talking),カタギから弾かれただけの不良が ハンパな自己弁護すんなよ。 すんげぇカッコわるいぞー。,Don't defend yourself like a delinquent who just got kicked out of the corporate world. You're so uncool!,No te defiendas como un delincuente que acaba de ser Danado del mundo exterior. ¡Eres tan antipático!
+Fudou Mei (talking),…………… 好き放題ぬかしやがって……,…………… You can say whatever you want……,…………… Puedes decir lo que quieras……
+Yamamoto Akuji (talking),…………ふふん。,………… hmmm.,………… hmmm.
+Yamamoto Akuji (talking),"よお、ちと訊きたいんだがな。
 何でおめー、桃山の連中と組んで 俺の組織に喧嘩売ってきたんだ？","Hey, let me ask you something.
 Why did you team up with the guys from Momoyama and start a fight with my organization?","Oye, déjame preguntarte algo.
  ¿Por qué te uniste a los chicos de Momoyama y empezaste una pelea con mi organización?"
-"Fudou Mei (talking)","……勝手に組ませんなよ。 何でオレがあんなマフィアと……","Don't…… team me up on your own. Why would I team up with a mafia like that ……","No…… me asocie por su cuenta. ¿Por qué me uniría a un mafioso como ese ……"
-"Yamamoto Akuji (talking)","んだっておめー、 桃山の連中と一緒に喧嘩売ってきたのは 事実じゃねぇか。","It's a fact that you and the guys from Momoyama have been fighting with each other.","Es un hecho que tú y los chicos de Momoyama os habéis peleado entre vosotros, ¿no?"
-"Fudou Mei (talking)","別にオレは、あんたらと一緒に 桃山へ喧嘩売っても良かったんだぜ。
+Fudou Mei (talking),……勝手に組ませんなよ。 何でオレがあんなマフィアと……,Don't…… team me up on your own. Why would I team up with a mafia like that ……,No…… me asocie por su cuenta. ¿Por qué me uniría a un mafioso como ese ……
+Yamamoto Akuji (talking),んだっておめー、 桃山の連中と一緒に喧嘩売ってきたのは 事実じゃねぇか。,It's a fact that you and the guys from Momoyama have been fighting with each other.,"Es un hecho que tú y los chicos de Momoyama os habéis peleado entre vosotros, ¿no?"
+Fudou Mei (talking),"別にオレは、あんたらと一緒に 桃山へ喧嘩売っても良かったんだぜ。
 理由なんかないさ、単に気分だよ。 面白そうな喧嘩だったから 首つっこんでみた、それだけさ。","I could have fought with you guys to Momoyama.
 There was no reason, just my mood. It seemed like a fight I could get into, so I got into it, that's all.","Podría haber luchado con vosotros contra Momoyama.
 No había ninguna razón, era sólo mi estado de ánimo. Era una pelea que parecía de Haku, así que me involucré, eso es todo."
-"Yamamoto Akuji (talking)","一匹狼、ってヤツか？","One Rou, is that him?","Un Rou, ¿es él?"
-"Fudou Mei (talking)","カッコ悪い例え使うよな、あんたも。 一人の方が何かと動きやすいだけさ。","You're using an uncool analogy, you know. It's just easier to be alone.","Tú también usas analogías que no molan. Es más fácil estar solo."
-"Yamamoto Akuji (talking)","ふーん。","Hmmm.","Hmmm."
-"Fudou Mei (talking)","……何が言いたいんだよ。","…… What's the point?","…… ¿Qué sentido tiene?"
-"Yamamoto Akuji (talking)","いや、一匹狼を気取ってるヤツってのは、 大抵は信じてた誰かに裏切られたのが きっかけだったりするんだが……
+Yamamoto Akuji (talking),一匹狼、ってヤツか？,"One Rou, is that him?","Un Rou, ¿es él?"
+Fudou Mei (talking),カッコ悪い例え使うよな、あんたも。 一人の方が何かと動きやすいだけさ。,"You're using an uncool analogy, you know. It's just easier to be alone.",Tú también usas analogías que no molan. Es más fácil estar solo.
+Yamamoto Akuji (talking),ふーん。,Hmmm.,Hmmm.
+Fudou Mei (talking),……何が言いたいんだよ。,…… What's the point?,…… ¿Qué sentido tiene?
+Yamamoto Akuji (talking),"いや、一匹狼を気取ってるヤツってのは、 大抵は信じてた誰かに裏切られたのが きっかけだったりするんだが……
 おめーもそのクチかな、とか思ってよ。","No, most people who pretend to be a lone Rou were betrayed by someone they trusted……
 I was wondering if you're one of them.","No, la mayoría de las personas que pretenden ser un Rou solitario fueron traicionadas por alguien en quien confiaban……
 Pensé que tal vez usted es uno de ellos."
-"Fudou Mei (talking)","………………","………………","………………"
-"Yamamoto Akuji (talking)","お、顔色変わったな。 当たりか？","Oh, you've changed your color. Is it a hit?","Oh, has cambiado de color. ¿Es un éxito?"
-"Fudou Mei (talking)","……別に。","By …….","…… por separado."
-"Yamamoto Akuji (talking)","何が不満でツッパってんだ、おめー。 話せるもんなら話してみな、ほれほれ。","What's the matter with you? If you can talk, talk.","¿Qué te pasa que no estás contento con ello? Si puedes hablar, habla."
-"Fudou Mei (talking)","……何を野次馬根性出してんだよ。 オレの身の上話聞いてどうするってんだ？","…… What are you going to do with your onlooker's guts? What are you going to do when you hear my personal story?","…… ¿Qué vas a hacer con las tripas de tu espectador? ¿Qué haces escuchando mi historia personal?"
-"Yamamoto Akuji (talking)","そりゃおめー、将来のボスとしては 部下の事情くらい知っとくべきだろ？","Well, you, as the future boss, you should at least know what's going on with your subordinates, right?","Bueno, tú, como futuro jefe, deberías al menos saber lo que pasa con tus hombres, ¿no?"
-"Fudou Mei (talking)","…………はぁ？","………… Huh?","………… ¿Eh?"
-"Yamamoto Akuji (talking)","そこそこ戦えるみてぇだからな、おめー。 うちにスカウトしようと思ってよ。
+Fudou Mei (talking),………………,………………,………………
+Yamamoto Akuji (talking),お、顔色変わったな。 当たりか？,"Oh, you've changed your color. Is it a hit?","Oh, has cambiado de color. ¿Es un éxito?"
+Fudou Mei (talking),……別に。,By …….,…… por separado.
+Yamamoto Akuji (talking),何が不満でツッパってんだ、おめー。 話せるもんなら話してみな、ほれほれ。,"What's the matter with you? If you can talk, talk.","¿Qué te pasa que no estás contento con ello? Si puedes hablar, habla."
+Fudou Mei (talking),……何を野次馬根性出してんだよ。 オレの身の上話聞いてどうするってんだ？,…… What are you going to do with your onlooker's guts? What are you going to do when you hear my personal story?,…… ¿Qué vas a hacer con las tripas de tu espectador? ¿Qué haces escuchando mi historia personal?
+Yamamoto Akuji (talking),そりゃおめー、将来のボスとしては 部下の事情くらい知っとくべきだろ？,"Well, you, as the future boss, you should at least know what's going on with your subordinates, right?","Bueno, tú, como futuro jefe, deberías al menos saber lo que pasa con tus hombres, ¿no?"
+Fudou Mei (talking),…………はぁ？,………… Huh?,………… ¿Eh?
+Yamamoto Akuji (talking),"そこそこ戦えるみてぇだからな、おめー。 うちにスカウトしようと思ってよ。
 俺の部下になれよ、メイ。 悪いようにはしねぇさ。","You look like you can fight, you know. I'm trying to recruit you for my company.
 Come work for me, Mei. I won't make you do anything bad.","Parece que sabes pelear muy bien. Estoy tratando de reclutarte para mi empresa.
 Sé mi hombre, Mei. No te haré hacer nada malo."
-"Fudou Mei (talking)","嫌だね。","I don't like it.","No me gusta."
-"Yamamoto Akuji (talking)","……即答すんなよ。 少しくらい考えてもいいんだぜ？","…… Don't give me a quick answer. It's okay to think about it a little, okay?","…… No respondas inmediatamente. Está bien que lo pienses un poco, ¿vale?"
-"Fudou Mei (talking)","考えるほどの事かよ……
+Fudou Mei (talking),嫌だね。,I don't like it.,No me gusta.
+Yamamoto Akuji (talking),……即答すんなよ。 少しくらい考えてもいいんだぜ？,"…… Don't give me a quick answer. It's okay to think about it a little, okay?","…… No respondas inmediatamente. Está bien que lo pienses un poco, ¿vale?"
+Fudou Mei (talking),"考えるほどの事かよ……
 はっきり言っとくけどな、オレは、 誰かとツルむのも、人の道踏み外してる 極道の手助けすんのも……
 ましてや、あんたみたいな クソバカ猿野郎にコキ使われるのも ごめんだね。","I don't even think about it……
 For the record, I don't want to be on the wrong side of the law with anyone, and I don't want to be helping a lowlife who is out of line with the law……
 And I don't want to be put to work by a stupid ape like you.","Ni siquiera pienso en ello……
 Para que quede claro, no quiero estar en el lado equivocado de la ley con nadie, ni ayudar a un delincuente, ni ……
 Y no quiero que me ponga a trabajar un simio estúpido como tú."
-"Yamamoto Akuji (talking)","……ま、そう来ると思ったがな。","…… Well, I knew you would come around.","…… Bueno, sabía que llegarías a eso."
-"Yamamoto Akuji (talking)","……先に言っとくけどな、 俺はおめーみたいなヤツは 嫌いじゃねぇんだよ。","…… I'll tell you first, I don't hate people like you.","…… Primero te diré que no odio a la gente como tú."
-"Fudou Mei (talking)","……はぁ？ 何言ってんだ、あんた。","What about ……? What are you talking about?","…… ¿Eh? ¿De qué estás hablando?"
-"Yamamoto Akuji (talking)","人間、ちょいツッパってるくれぇが 丁度いいんだよ。
+Yamamoto Akuji (talking),……ま、そう来ると思ったがな。,"…… Well, I knew you would come around.","…… Bueno, sabía que llegarías a eso."
+Yamamoto Akuji (talking),……先に言っとくけどな、 俺はおめーみたいなヤツは 嫌いじゃねぇんだよ。,"…… I'll tell you first, I don't hate people like you.",…… Primero te diré que no odio a la gente como tú.
+Fudou Mei (talking),……はぁ？ 何言ってんだ、あんた。,What about ……? What are you talking about?,…… ¿Eh? ¿De qué estás hablando?
+Yamamoto Akuji (talking),"人間、ちょいツッパってるくれぇが 丁度いいんだよ。
 昔の俺だっておめーと同じような モンだったしなー。 喧嘩上等、誰にも負けねぇ、ってよ。","It's good for a human being to be a bit sharp.
 I used to be just like you. I said, “I'm ready to fight, I'm not going to lose to anyone.","Es bueno que la gente se empalme un poco.
 Yo solía ser como tú. Yo solía ser como tú. Solía decir: “Estoy listo para luchar, nunca perderé contra nadie."
-"Fudou Mei (talking)","クソ極道のあんたと一緒にされちゃ いい迷惑だ。","It's a nuisance to be lumped in with you, a fucking polemicist.","Es un fastidio estar mezclado contigo, un maldito polemista."
-"Yamamoto Akuji (talking)","ただまあ、もうちょいアレだ、 女らしいところも見てみてぇがな。","I'd like to see a little more of the feminine side of her.","Pero, bueno, me gustaría ver un poco más de tu lado femenino."
-"Fudou Mei (talking)","はっ、笑わせんな。 オレに何期待してんだよ、クソ極道。","Ha, don't make me laugh. What do you expect me to do, you fucking pole?","Ja, no me hagas reír. ¿Qué esperas de mí, maldito poste?"
-"Yamamoto Akuji (talking)","出るとこ出て、 ひっこむとこひっこんでんだろ？ ……ま、見りゃ解るけどよ。
+Fudou Mei (talking),クソ極道のあんたと一緒にされちゃ いい迷惑だ。,"It's a nuisance to be lumped in with you, a fucking polemicist.","Es un fastidio estar mezclado contigo, un maldito polemista."
+Yamamoto Akuji (talking),ただまあ、もうちょいアレだ、 女らしいところも見てみてぇがな。,I'd like to see a little more of the feminine side of her.,"Pero, bueno, me gustaría ver un poco más de tu lado femenino."
+Fudou Mei (talking),はっ、笑わせんな。 オレに何期待してんだよ、クソ極道。,"Ha, don't make me laugh. What do you expect me to do, you fucking pole?","Ja, no me hagas reír. ¿Qué esperas de mí, maldito poste?"
+Yamamoto Akuji (talking),"出るとこ出て、 ひっこむとこひっこんでんだろ？ ……ま、見りゃ解るけどよ。
 おめーの場合、自分の女の部分に 気付いてねぇだけだと思うぞ？","You're out, you're in, you're out, and you're in. You can see it at …….
 I think you just don't realize your feminine side.","Estás fuera, estás dentro, estás fuera, estás dentro, estás dentro, ¿verdad?…… Bueno, ya lo veo.
 Creo que no te das cuenta de tu lado femenino, eso es todo."
-"Fudou Mei (talking)","……何が言いたいんだよ。 オレに気色悪い女言葉でも 使えってのか？
+Fudou Mei (talking),"……何が言いたいんだよ。 オレに気色悪い女言葉でも 使えってのか？
 だとしたら、大きなお世話だ。 あんたに言われる筋合いがあるのか？","…… What are you trying to say? Are you trying to get me to use some kind of creepy feminine language?
 If so, mind your own business. I don't need you to tell me what to say.","…… ¿Qué está tratando de decir? ¿Intentas que use algún tipo de lenguaje espeluznante y femenino?
 Si es así, ocúpate de tus asuntos. ¿Eres tú quien debe decirme qué hacer?"
-"Yamamoto Akuji (talking)","俺は別に女言葉が女らしいなんて さらさら思っちゃいねーよ。
+Yamamoto Akuji (talking),"俺は別に女言葉が女らしいなんて さらさら思っちゃいねーよ。
  ……ま、いいから ちょっとついて来いや。","I don't even think that the feminine language is feminine at all.…… Well, just follow me for a minute.","Ni siquiera creo que la palabra “mujer” sea femenina.…… Bueno, sígueme un momento."
-"Fudou Mei (talking)","お……おい、 どこに行こうってんだ？","Hey, ……, where are you going?","Oh…… Hey, ¿a dónde vas?"
-"Yamamoto Akuji (talking)","さてな、どこだかなー。","Well, let's see, where is it?","Bueno, veamos, ¿dónde está?"
-"Fudou Mei (talking)","……………… 何か考えてやがるな……","……………… You've got something on your mind: ……","……………… Tienes algo en mente……"
-"Yamamoto Akuji (talking)","そりゃ考えてるぜ。 あったりまえの事言うなよ。
+Fudou Mei (talking),お……おい、 どこに行こうってんだ？,"Hey, ……, where are you going?","Oh…… Hey, ¿a dónde vas?"
+Yamamoto Akuji (talking),さてな、どこだかなー。,"Well, let's see, where is it?","Bueno, veamos, ¿dónde está?"
+Fudou Mei (talking),……………… 何か考えてやがるな……,……………… You've got something on your mind: ……,……………… Tienes algo en mente……
+Yamamoto Akuji (talking),"そりゃ考えてるぜ。 あったりまえの事言うなよ。
 いいからほれ、さっさと来いや。 それとも怖じ気づいて動けねぇってか？","I'm thinking about it. Don't take it for granted.
 Just come on, get your ass over here. Or are you too scared to move?","Eso es lo que estoy pensando. No lo des por sentado.
 Vamos, vamos, vamos. ¿O tienes demasiado miedo a moverte?"
-"Fudou Mei (talking)","……ちっ、バカにしやがって……","…… Damn, you made a fool of me……","…… Maldita sea, me estás haciendo parecer un idiota……"
-"narrator","明は呟いて、悪司の方に一歩踏み出した。","Mei muttered and took a step toward Akuji.","Mei murmuró y dio un paso hacia Akuji."
-"Yamamoto Akuji (thinking)","へっ、ちょっと挑発したら すぐに乗ってきやがった。 若いねー。","Heh, I provoked him a little, and he got on board right away. He's so young.","Je, le he provocado un poco y se ha puesto a ello enseguida. Es muy joven."
-"cg narrator","「……で、その若さが命取りになる、と」
+Fudou Mei (talking),……ちっ、バカにしやがって……,"…… Damn, you made a fool of me……","…… Maldita sea, me estás haciendo parecer un idiota……"
+narrator,明は呟いて、悪司の方に一歩踏み出した。,Mei muttered and took a step toward Akuji.,Mei murmuró y dio un paso hacia Akuji.
+Yamamoto Akuji (thinking),へっ、ちょっと挑発したら すぐに乗ってきやがった。 若いねー。,"Heh, I provoked him a little, and he got on board right away. He's so young.","Je, le he provocado un poco y se ha puesto a ello enseguida. Es muy joven."
+cg narrator,"「……で、その若さが命取りになる、と」
 悪司は呟いて、明の秘裂にスッと舌を滑らせた。
 「ひっ、っうッ────！！ 　うああっ、ふあやあっ………………！！」
 明の躰がびくっ、びくっと面白いように跳ね、 ベッドがぎしぎしと激しく鳴る。
@@ -646,9 +646,9 @@ Mei se resistió desesperadamente, pero al final fue solo una voz. Akuji finge n
 「……Si te dejas de ser malo, el impacto en ti cuando te corres se duplicará. ¿Sabes? Bueno, te lo diré ahora…………」
 Entonces Akuji sonrió. Con la confianza de que ha dominado el placer de Mei, ahora ha ganado.
 「U、aaa~………………！！ 　hiaaa~、uhaaaaa~…………！！ 　──────~………………a…………！！」"
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"cg narrator","結局、明は悪司の唇と舌だけで 絶頂に押し上げられた。
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+cg narrator,"結局、明は悪司の唇と舌だけで 絶頂に押し上げられた。
 全身が脱力し、意識が白く霞んで──
 ──そこから更に、追い打ちをかけるように 悪司は明の躰に覆い被さっていく。
 もはや、明の口から出てくるのは、 哀れなほどか細い喘ぎ声だけだった。","In the end, Mei was pushed to climax by Akuji's lips and tongue alone.
@@ -658,66 +658,66 @@ All that came out of Mei's mouth was a pathetically thin gasp.","Al final, Mei f
 Todo su cuerpo se debilitó y su conciencia se convirtió en una bruma Haku…
 Akuji cubrió el cuerpo de Mei como si la empujara más.
 Todo lo que salió de la boca de Mei fue un jadeo patético."
-"Yamamoto Akuji (talking)","ひいふう……えーと、抜かずの五発か。 ま、こんなもんだろ、最初だし。
+Yamamoto Akuji (talking),"ひいふう……えーと、抜かずの五発か。 ま、こんなもんだろ、最初だし。
  ……ほれ、おめーの猫、返してやるよ。 何なら着替えも手伝ってやろうか？","Hiifu…… Well, five shots without pulling out. Well, that's about right, it's the first time.
  ……Here, I'll give you back your cat. I'm not sure how much I'd like to see you do that.","Hiifu…… er, cinco disparos sin sacar. Bueno, así es como va, es la primera vez.
  ……Aquí, te devuelvo tu gato. Si quieres, puedo ayudarte a cambiarte de ropa."
-"Fudou Mei (talking)","う…………あ、っく…………","U…………Ah, kk…………","U………… a, kku…………"
-"Yamamoto Akuji (talking)","声も出ねぇか。
+Fudou Mei (talking),う…………あ、っく…………,"U…………Ah, kk…………","U………… a, kku…………"
+Yamamoto Akuji (talking),"声も出ねぇか。
 な、俺の言った通りだったろ。 自分の中の女らしい部分、解ったか？","You can't even speak.
 I was right, wasn't I? Have you found the feminine part of yourself?","Ni siquiera tienes voz.
 Tenía razón, ¿no? ¿Has encontrado tu parte femenina?"
-"Fudou Mei (talking)","………………この…… この、ドスケベ……野郎っ…………","……………… this…… you douchebag…… bastard …………","……………… este…… imbécil…… bastardo …………"
-"Yamamoto Akuji (talking)","俺だけドスケベみたいな言い方すんなよ。 おめーも同じじゃねぇか。 気持ちよさそーな顔してたぜ？","Don't talk about me like I'm the only dirty one. You're the same as me. You looked like you felt good.","No hables de mí como si fuera el único sucio. Eres igual que yo. Parecía que te sentías bien."
-"Fudou Mei (talking)","…………一緒に……すんなよっ……！","Don't………… …… with me!","¡No………… …… juntos!"
-"narrator","明はベットから立ち上がろうとした。 悪司に掴みかかるつもりなのだろう。
+Fudou Mei (talking),………………この…… この、ドスケベ……野郎っ…………,……………… this…… you douchebag…… bastard …………,……………… este…… imbécil…… bastardo …………
+Yamamoto Akuji (talking),俺だけドスケベみたいな言い方すんなよ。 おめーも同じじゃねぇか。 気持ちよさそーな顔してたぜ？,Don't talk about me like I'm the only dirty one. You're the same as me. You looked like you felt good.,No hables de mí como si fuera el único sucio. Eres igual que yo. Parecía que te sentías bien.
+Fudou Mei (talking),…………一緒に……すんなよっ……！,Don't………… …… with me!,¡No………… …… juntos!
+narrator,"明はベットから立ち上がろうとした。 悪司に掴みかかるつもりなのだろう。
  ──が、足が立たない。 立ち上がろうとした勢いのまま転んでしまった。","Mei tried to get up from the bed. He probably intended to grab Akuji.
 But he couldn't stand on his feet. He fell down with the momentum of trying to stand up.","Mei intentó levantarse de la cama. Probablemente tiene la intención de agarrarse a Akuji.
 Pero no podía mantenerse en pie. Se cayó con el impulso de su intento de levantarse."
-"Fudou Mei (talking)","…………っ、うく…………！","…………, utsugu …………!","¡…………!"
-"Yamamoto Akuji (talking)","ムリすんなよー。 疲れと、強烈にイッた後の怠さのせいで しばらくは躰が言う事聞かねぇって。","Don't be too hard. I'm tired and lazy after coming hard, and my body won't be able to listen to me for a while.","No seas demasiado duro. Tu cuerpo no te hará caso durante un tiempo debido al cansancio y a la pereza después de venir con fuerza."
-"narrator","悪司は明に近付いていって、 その躰をひょいと腕に抱え上げた。","Akuji approached Mei and lifted her body in his arms.","Akuji se acercó a Mei y levantó su cuerpo en brazos."
-"Fudou Mei (talking)","な……！　何……すんだよっ…………","What ……!　What…… are you doing …………","¡Qué ……!　¿Qué…… estás haciendo? …………"
-"Yamamoto Akuji (talking)","地下室まで連れて帰ってやるよ。","I'll take you back to the basement.","Te llevaré de vuelta al sótano."
-"Fudou Mei (talking)","や、やめろっ…… こんな……クソ恥ずかしい格好っ……","No, don't…… this…… fucking embarrassing outfit……","¡No, no…… este…… maldito conjunto vergonzoso!"
-"Yamamoto Akuji (talking)","何だよ、お姫様だっこがそんなに嫌いか？","What, you don't like being a princess that much?","¿Qué, no te gusta tanto ser una princesa?"
-"Fudou Mei (talking)","き、嫌いとか……好きとか…… そういうんじゃねえだろっ……！","It's not about hating or…… liking or…… anything like that!","¡No se trata de odiar o…… gustar o…… ese tipo de cosas!"
-"Yamamoto Akuji (talking)","いいから黙ってろ。 捕虜の分際でごちゃごちゃ言うなって。","Just shut up. Don't talk to me like I'm a prisoner of war.","Cállate. No me hables como si fuera un prisionero de guerra."
-"Fudou Mei (talking)","………………っ…… この……畜生がっ………………
+Fudou Mei (talking),…………っ、うく…………！,"…………, utsugu …………!",¡…………!
+Yamamoto Akuji (talking),ムリすんなよー。 疲れと、強烈にイッた後の怠さのせいで しばらくは躰が言う事聞かねぇって。,"Don't be too hard. I'm tired and lazy after coming hard, and my body won't be able to listen to me for a while.",No seas demasiado duro. Tu cuerpo no te hará caso durante un tiempo debido al cansancio y a la pereza después de venir con fuerza.
+narrator,悪司は明に近付いていって、 その躰をひょいと腕に抱え上げた。,Akuji approached Mei and lifted her body in his arms.,Akuji se acercó a Mei y levantó su cuerpo en brazos.
+Fudou Mei (talking),な……！　何……すんだよっ…………,What ……!　What…… are you doing …………,¡Qué ……!　¿Qué…… estás haciendo? …………
+Yamamoto Akuji (talking),地下室まで連れて帰ってやるよ。,I'll take you back to the basement.,Te llevaré de vuelta al sótano.
+Fudou Mei (talking),や、やめろっ…… こんな……クソ恥ずかしい格好っ……,"No, don't…… this…… fucking embarrassing outfit……","¡No, no…… este…… maldito conjunto vergonzoso!"
+Yamamoto Akuji (talking),何だよ、お姫様だっこがそんなに嫌いか？,"What, you don't like being a princess that much?","¿Qué, no te gusta tanto ser una princesa?"
+Fudou Mei (talking),き、嫌いとか……好きとか…… そういうんじゃねえだろっ……！,It's not about hating or…… liking or…… anything like that!,¡No se trata de odiar o…… gustar o…… ese tipo de cosas!
+Yamamoto Akuji (talking),いいから黙ってろ。 捕虜の分際でごちゃごちゃ言うなって。,Just shut up. Don't talk to me like I'm a prisoner of war.,Cállate. No me hables como si fuera un prisionero de guerra.
+Fudou Mei (talking),"………………っ…… この……畜生がっ………………
 いつか、絶対…… この借りは返してやるっ……！","…………………… This… …motherfucker………………
 Someday I'm gonna pay you back…… for this!","…………………… Este… …hijo de puta………………
  ¡Algún día, juro…… que te lo devolveré ……!"
-"Yamamoto Akuji (talking)","諦めろって、ムリだから。","Give it up, because you can't.","Ríndete, porque no puedes."
-"Yamamoto Akuji (talking)","さて、今回もいっちょ 女に生まれた幸せを教えてやっかね。","Now, let me tell you about the happiness of being born a woman.","Ahora, déjame contarte sobre la felicidad de haber nacido mujer."
-"Fudou Mei (talking)","こっ、このスケベ野郎っ、 性懲りもなく……！！","You dirty bastard!","¡Sucio bastardo, nunca aprendes, ……!"
-"Yamamoto Akuji (talking)","好きなように言えや。 ほれ、行くぞ。","Say what you want. Here we go.","Di lo que quieras. Aquí está."
-"narrator","悪司はするりと明の背後に回り込んで腕を取り、 痛みを感じない程度に捻り上げた。","Akuji slips behind Mei and takes his arm, twisting it just enough to cause no pain.","Akuji se deslizó por detrás de Mei y le cogió el brazo, retorciéndolo lo justo para no causarle dolor."
-"Fudou Mei (talking)","なっ………… てっ、てめえっ！　放しやがれっ！","………… Teknee, you son of a bitch!　Get off me!","Tekné, Tëm, ¡cabrón!　¡Suéltame!"
-"Yamamoto Akuji (talking)","放すわきゃねーだろ。 それ、キリキリ歩け。","I'm not going to let go. That's it, walk the Kirikiri.","No voy a dejar que te vayas. Eso es, Kirikiri, camina."
-"Fudou Mei (talking)","ちっ……畜生っ…………！ てめぇ、絶対ブッ殺してやる……！","Damn…… damn …………! You're gonna get your ass Satsu! ……!","¡Maldito…… maldito …………! ¡Me vas a conseguir el absoluto marimacho Satsu……!"
-"Yamamoto Akuji (talking)","やってみな、できるもんならな。","Do it, if you can.","Hazlo, si puedes."
-"Yamamoto Akuji (talking)","明は、悪司にこまされた。","Mei was Komadai by Akuji.","Mei fue Komedoed por Akuji."
-"Fudou Mei (talking)","…………………… …………う、んっ…………
+Yamamoto Akuji (talking),諦めろって、ムリだから。,"Give it up, because you can't.","Ríndete, porque no puedes."
+Yamamoto Akuji (talking),さて、今回もいっちょ 女に生まれた幸せを教えてやっかね。,"Now, let me tell you about the happiness of being born a woman.","Ahora, déjame contarte sobre la felicidad de haber nacido mujer."
+Fudou Mei (talking),こっ、このスケベ野郎っ、 性懲りもなく……！！,You dirty bastard!,"¡Sucio bastardo, nunca aprendes, ……!"
+Yamamoto Akuji (talking),好きなように言えや。 ほれ、行くぞ。,Say what you want. Here we go.,Di lo que quieras. Aquí está.
+narrator,悪司はするりと明の背後に回り込んで腕を取り、 痛みを感じない程度に捻り上げた。,"Akuji slips behind Mei and takes his arm, twisting it just enough to cause no pain.","Akuji se deslizó por detrás de Mei y le cogió el brazo, retorciéndolo lo justo para no causarle dolor."
+Fudou Mei (talking),なっ………… てっ、てめえっ！　放しやがれっ！,"………… Teknee, you son of a bitch!　Get off me!","Tekné, Tëm, ¡cabrón!　¡Suéltame!"
+Yamamoto Akuji (talking),放すわきゃねーだろ。 それ、キリキリ歩け。,"I'm not going to let go. That's it, walk the Kirikiri.","No voy a dejar que te vayas. Eso es, Kirikiri, camina."
+Fudou Mei (talking),ちっ……畜生っ…………！ てめぇ、絶対ブッ殺してやる……！,Damn…… damn …………! You're gonna get your ass Satsu! ……!,¡Maldito…… maldito …………! ¡Me vas a conseguir el absoluto marimacho Satsu……!
+Yamamoto Akuji (talking),やってみな、できるもんならな。,"Do it, if you can.","Hazlo, si puedes."
+Yamamoto Akuji (talking),明は、悪司にこまされた。,Mei was Komadai by Akuji.,Mei fue Komedoed por Akuji.
+Fudou Mei (talking),"…………………… …………う、んっ…………
  ………………！？","………………………… ……う,んっ …………
  ………………!?","………………………… …… う,んっ …………
  ………………!?"
-"Yamamoto Akuji (talking)","……よお、お目覚めか？","…… Hey, you awake?","…… Oye, ¿estás despierto?"
-"Fudou Mei (talking)","こっ、この野郎っ…… 何してんだっ…………！","Hey, you son of a bitch!…… What are you doing? …………!","¡Hijo de puta!…… ¿Qué estás haciendo? …………"
-"Yamamoto Akuji (talking)","見て解れよ。 眠っちまったおめーに 腕枕で添い寝しててやったんだ。
+Yamamoto Akuji (talking),……よお、お目覚めか？,"…… Hey, you awake?","…… Oye, ¿estás despierto?"
+Fudou Mei (talking),こっ、この野郎っ…… 何してんだっ…………！,"Hey, you son of a bitch!…… What are you doing? …………!",¡Hijo de puta!…… ¿Qué estás haciendo? …………
+Yamamoto Akuji (talking),"見て解れよ。 眠っちまったおめーに 腕枕で添い寝しててやったんだ。
  ……？ 妙に顔赤いな、照れてんのか？","Look at you. I was just laying on your arm, when you fell asleep.
  ……? You're blushing strangely, are you embarrassed?","Mírate, lo entenderás. Te quedaste dormido, y yo dormía contigo en mi brazo.
  ……? Te sonrojas de forma extraña, ¿te da vergüenza?"
-"Fudou Mei (talking)","誰が照れてるもんかよっ！","Who's shy!","¿Quién es tímido?"
-"Yamamoto Akuji (talking)","今日は案外ノリ良かったな、おめー。 気持ちよかったろ？","You were surprisingly flirty today, dude. That felt good, didn't it?","Hoy has estado sorprendentemente frívolo. Eso se sintió bien, ¿no?"
-"Fudou Mei (talking)","俺をそこらのズベ公と一緒にすんなっ！","Don't put me with those Zubeks!","¡No me pongas con esos Zubeks!"
-"Yamamoto Akuji (talking)","おー、元気でよろしい。 そんだけ元気なら歩いて帰れるな。 ……ほれ、立て。","Oh, you are in good spirits. If you're that energetic, you can walk home……Here, stand up.","Oh, estás de buen humor. Si estás tan sano, puedes volver a casa andando…… Aquí, levántate."
-"narrator","悪司はベッドから下りて、先に歩き始めた。","Akuji got out of bed and began walking ahead.","Akuji se levantó de la cama y comenzó a caminar adelante."
-"Fudou Mei (talking)","まっ、待てよ……","Wait a minute……","Un momento……"
-"Yamamoto Akuji (talking)","ん？　手貸して欲しいのか？","Hmm?　You want a hand?","¿Hmm?　¿Quieres que te eche una mano?"
-"Fudou Mei (talking)","……っ、誰がそんな事頼むかっ！","……, who would ask you to do that!","……, ¡quién te pediría eso!"
-"narrator","明も立ち上がって、悪司の後をついていく。","Mei also gets up and follows Akuji.","Mei también se levantó y siguió a Akuji."
-"Yamamoto Akuji (talking)","おうおう、元気でよろしい。 さ、行くぜ。","Oh, well, I'm glad you're doing well. Let's go.","Oh, oh, estás bien, estás bien. Venga, vamos."
-"Fudou Mei (thinking)","……っ、畜生っ………… 膝がガクガクいってやがる…………
+Fudou Mei (talking),誰が照れてるもんかよっ！,Who's shy!,¿Quién es tímido?
+Yamamoto Akuji (talking),今日は案外ノリ良かったな、おめー。 気持ちよかったろ？,"You were surprisingly flirty today, dude. That felt good, didn't it?","Hoy has estado sorprendentemente frívolo. Eso se sintió bien, ¿no?"
+Fudou Mei (talking),俺をそこらのズベ公と一緒にすんなっ！,Don't put me with those Zubeks!,¡No me pongas con esos Zubeks!
+Yamamoto Akuji (talking),おー、元気でよろしい。 そんだけ元気なら歩いて帰れるな。 ……ほれ、立て。,"Oh, you are in good spirits. If you're that energetic, you can walk home……Here, stand up.","Oh, estás de buen humor. Si estás tan sano, puedes volver a casa andando…… Aquí, levántate."
+narrator,悪司はベッドから下りて、先に歩き始めた。,Akuji got out of bed and began walking ahead.,Akuji se levantó de la cama y comenzó a caminar adelante.
+Fudou Mei (talking),まっ、待てよ……,Wait a minute……,Un momento……
+Yamamoto Akuji (talking),ん？　手貸して欲しいのか？,Hmm?　You want a hand?,¿Hmm?　¿Quieres que te eche una mano?
+Fudou Mei (talking),……っ、誰がそんな事頼むかっ！,"……, who would ask you to do that!","……, ¡quién te pediría eso!"
+narrator,明も立ち上がって、悪司の後をついていく。,Mei also gets up and follows Akuji.,Mei también se levantó y siguió a Akuji.
+Yamamoto Akuji (talking),おうおう、元気でよろしい。 さ、行くぜ。,"Oh, well, I'm glad you're doing well. Let's go.","Oh, oh, estás bien, estás bien. Venga, vamos."
+Fudou Mei (thinking),"……っ、畜生っ………… 膝がガクガクいってやがる…………
 今、後ろからかかっていっても これじゃ勝ち目が……
  ……この野郎、化け物かよ。 平然としやがって…………
  ………………
@@ -730,161 +730,161 @@ I'm nothing compared to this guy …………………… Damn it! ……","…�
 Incluso si me acercara a ti por detrás ahora mismo, no tendría ninguna oportunidad en esto………… Bastardo, monstruo. Es tan tranquilo…………
  …………………… Tiene una gran espalda………………… …
 No soy nada comparado con él…………………… Que se joda……"
-" (talking)","さーてと……………","Sarto: ……………","Sarthe: ……………"
-"narrator","悪司は、明に向かって一歩踏み出す。 ──近付いていく。","Akuji takes a step toward Mei. ─ ─ He gets closer.","Akuji da un paso hacia Mei. Akuji se acerca."
-"Fudou Mei (talking)","な、何だよてめえっ…… 近付いてくんなよっ………！","Hey, what the hell you…… don't come near me ………!","¿Qué coño, tío?…… No te acerques a mí………"
-" (talking)","………………","………………","………………"
-"Fudou Mei (talking)","く、来るなよっ……","Don't come, don't come……","Vamos, no vengas ……"
-"narrator","明は数歩後ずさったが、 すぐに壁際へ追いつめられてしまう。
+ (talking),さーてと……………,Sarto: ……………,Sarthe: ……………
+narrator,悪司は、明に向かって一歩踏み出す。 ──近付いていく。,Akuji takes a step toward Mei. ─ ─ He gets closer.,Akuji da un paso hacia Mei. Akuji se acerca.
+Fudou Mei (talking),な、何だよてめえっ…… 近付いてくんなよっ………！,"Hey, what the hell you…… don't come near me ………!","¿Qué coño, tío?…… No te acerques a mí………"
+ (talking),………………,………………,………………
+Fudou Mei (talking),く、来るなよっ……,"Don't come, don't come……","Vamos, no vengas ……"
+narrator,"明は数歩後ずさったが、 すぐに壁際へ追いつめられてしまう。
 悪司の顔が、すぐ間近に迫ってくる──","Mei takes a few steps back, but is soon cornered against the wall.
 Akuji's face is right in front of him…","Mei retrocede unos pasos, pero pronto se ve acorralado contra la pared.
 La cara de Akuji está cerca…"
-" (talking)","……もうツッパんのも終わりにしろや。 俺の部下になれ。","…… You're done with the tapping now. Be my man.","…… Ya has terminado con los golpecitos. Sé mi hombre."
-"Fudou Mei (talking)","だっ、だから何度も言わせんなよ…… オレはあんたの部下になんか……
+ (talking),……もうツッパんのも終わりにしろや。 俺の部下になれ。,…… You're done with the tapping now. Be my man.,…… Ya has terminado con los golpecitos. Sé mi hombre.
+Fudou Mei (talking),"だっ、だから何度も言わせんなよ…… オレはあんたの部下になんか……
  …………！？","So don't make me repeat it…… I'm not your man……
  …………?","Así que no me hagas seguir diciéndolo…… No soy tu hombre……
  …………?"
-"narrator","明のくわえていた煙草が、ぽとりと床に落ちる。
+narrator,"明のくわえていた煙草が、ぽとりと床に落ちる。
 悪司が、明の唇を奪っていた。
  ──明は、拒まなかった。","Mei's cigarette falls to the floor with a plop.
 Akuji had taken Mei's lips.
 Akuji did not refuse.","El cigarrillo que Mei tenía en la boca cae al suelo con un plop.
 Akuji había tomado los labios de Mei.
  ─ ─ Mei no se negó."
-" (talking)","……………………ぷは。","…………………… puha.","…………………… puha."
-"Fudou Mei (talking)","……っ…………","……っ…………","……っ…………"
-" (talking)","それでいいんだ。 ほれ、部下になりますって言えよ。","That's all right. Go ahead, say I'll be your subordinate.","Está bien. Vamos, dime que serás mi subordinado."
-"Fudou Mei (talking)","………………
+ (talking),……………………ぷは。,…………………… puha.,…………………… puha.
+Fudou Mei (talking),……っ…………,……っ…………,……っ…………
+ (talking),それでいいんだ。 ほれ、部下になりますって言えよ。,"That's all right. Go ahead, say I'll be your subordinate.","Está bien. Vamos, dime que serás mi subordinado."
+Fudou Mei (talking),"………………
  ……洗面所、どこだよ。 口、ゆすがせろ……","…………………… washroom, where is it? Mouth, rinse it off……","…………………… Lavabo, ¿dónde está? Boca, enjuágala……"
-" (talking)","は？","Huh?","¿Ja?"
-"Fudou Mei (talking)","いいからゆすがせろっ……！","Just let me shake it off: ……!","Sólo déjame sacudirlo: ¡……!"
-" (talking)","まあ、すぐそこんとこに 蛇口だけならあるが……","Well, there's just a faucet right there……","Bueno, hay un grifo justo ahí……"
-"narrator","明は、悪司が言う間に歩き出して、 蛇口を捻って水を出し始めた。","Mei started walking in no time, turning the faucet and starting to put out the water.","Mei comenzó a caminar en poco tiempo, girando el grifo y comenzando a apagar el agua."
-"Fudou Mei (talking)","……がらがらがら…………ぺっ。 がらがらがら…………","…… rattle rattle………… pet. Gara Gara …………","…… rattle rattle………… pe. Gara Gara …………"
-" (talking)","別に汚いことした訳じゃねぇだろ。 んな真似すんなよなー。","It's not like I did anything dirty. Don't do that kind of thing.","No has hecho nada sucio. No hagas ese tipo de cosas."
-"Fudou Mei (talking)","………………","………………","………………"
-" (thinking)","そろそろオトせたかと思ったが…… 勘違いだったか？","I thought I'd wowed you by now…… Was I wrong?","Creí que ya te había cautivado…… ¿Me equivoqué?"
-" (talking)","何にせよ、えらく嫌われたらしいな。 今日はここまでにしとくか……","Whatever it is, I hear they hated it a lot. I guess that's enough for today: ……","Sea lo que sea, he oído que lo odian mucho. Es suficiente por hoy……"
-"Fudou Mei (talking)","あ……………… お、おい、待てよっ。","Oh,……………… Oh, hey, wait.","Oh,……………… Oh, hey, espera."
-" (talking)","……んあ？　まだ何かあんのか？","…… Hmmm?　What's more?","…… ¿Hmm?　¿Y qué más?"
-"Fudou Mei (talking)","えっ……あ、い、いや…………","What?…… Oh, no, no, no…………","¿Qué?…… Oh, no, no…………"
-"Fudou Mei (thinking)","な、何を呼び止めてんだよオレ。 こんなサル野郎に用なんか……","What are you calling me off for? I don't need this ape fucker……","Oye, ¿a qué llamas, a mí? No tengo ningún uso para este mono……"
-" (talking)","何だよ、歯切れ悪ィなー。 言いたいことあんなら早く言えよ。","What's the matter with you, you're so brusque? If you have something to say, say it quickly.","¿Qué te pasa, eres tan brusco? Si tienes algo que decir, dilo rápido."
-"Fudou Mei (talking)","…………るっせえなっ……
+ (talking),は？,Huh?,¿Ja?
+Fudou Mei (talking),いいからゆすがせろっ……！,Just let me shake it off: ……!,Sólo déjame sacudirlo: ¡……!
+ (talking),まあ、すぐそこんとこに 蛇口だけならあるが……,"Well, there's just a faucet right there……","Bueno, hay un grifo justo ahí……"
+narrator,明は、悪司が言う間に歩き出して、 蛇口を捻って水を出し始めた。,"Mei started walking in no time, turning the faucet and starting to put out the water.","Mei comenzó a caminar en poco tiempo, girando el grifo y comenzando a apagar el agua."
+Fudou Mei (talking),……がらがらがら…………ぺっ。 がらがらがら…………,…… rattle rattle………… pet. Gara Gara …………,…… rattle rattle………… pe. Gara Gara …………
+ (talking),別に汚いことした訳じゃねぇだろ。 んな真似すんなよなー。,It's not like I did anything dirty. Don't do that kind of thing.,No has hecho nada sucio. No hagas ese tipo de cosas.
+Fudou Mei (talking),………………,………………,………………
+ (thinking),そろそろオトせたかと思ったが…… 勘違いだったか？,I thought I'd wowed you by now…… Was I wrong?,Creí que ya te había cautivado…… ¿Me equivoqué?
+ (talking),何にせよ、えらく嫌われたらしいな。 今日はここまでにしとくか……,"Whatever it is, I hear they hated it a lot. I guess that's enough for today: ……","Sea lo que sea, he oído que lo odian mucho. Es suficiente por hoy……"
+Fudou Mei (talking),あ……………… お、おい、待てよっ。,"Oh,……………… Oh, hey, wait.","Oh,……………… Oh, hey, espera."
+ (talking),……んあ？　まだ何かあんのか？,…… Hmmm?　What's more?,…… ¿Hmm?　¿Y qué más?
+Fudou Mei (talking),えっ……あ、い、いや…………,"What?…… Oh, no, no, no…………","¿Qué?…… Oh, no, no…………"
+Fudou Mei (thinking),な、何を呼び止めてんだよオレ。 こんなサル野郎に用なんか……,What are you calling me off for? I don't need this ape fucker……,"Oye, ¿a qué llamas, a mí? No tengo ningún uso para este mono……"
+ (talking),何だよ、歯切れ悪ィなー。 言いたいことあんなら早く言えよ。,"What's the matter with you, you're so brusque? If you have something to say, say it quickly.","¿Qué te pasa, eres tan brusco? Si tienes algo que decir, dilo rápido."
+Fudou Mei (talking),"…………るっせえなっ……
  ……その、 あんたの部下になってやろうかって、 ちょっと……思っただけさ。","…………Well, you're a little ……
 I was just thinking…… that, you know, I'd like to be your man.","…………Mírate, eres tan exuberante………… Bueno, ya sabes, sólo estaba…… pensando que podría ser tu hombre."
-"Fudou Mei (thinking)","…………！？ な、何を言ってんだよオレはっ…… トチ狂ったのか……！？","…………! What are you talking about, I'm…… crazy ……!","¡…………! ¿De qué demonios estás hablando?…… ¿Estás loco? ……"
-" (talking)","ほー、その言葉に二言はないな？","Hoh, that's two words for it, isn't it?","Ho, eso son dos palabras para ello, ¿no?"
-"Fudou Mei (talking)","あ……ああ。ないぜ、多分…………","Oh…… oh. No man, maybe …………","Ah…… ah. No hombre, tal vez …………"
-" (talking)","マジで言ってんだな？","You're serious, aren't you?","Hablas en serio, ¿no?"
-"Fudou Mei (talking)","……っ、くどいんだよクソ野郎っ。","……, you're a pain in the ass, you son of a bitch.","……, eres un imbécil, jodido cabrón."
-" (talking)","そうか、よし、契約成立な。
+Fudou Mei (thinking),…………！？ な、何を言ってんだよオレはっ…… トチ狂ったのか……！？,"…………! What are you talking about, I'm…… crazy ……!",¡…………! ¿De qué demonios estás hablando?…… ¿Estás loco? ……
+ (talking),ほー、その言葉に二言はないな？,"Hoh, that's two words for it, isn't it?","Ho, eso son dos palabras para ello, ¿no?"
+Fudou Mei (talking),あ……ああ。ないぜ、多分…………,"Oh…… oh. No man, maybe …………","Ah…… ah. No hombre, tal vez …………"
+ (talking),マジで言ってんだな？,"You're serious, aren't you?","Hablas en serio, ¿no?"
+Fudou Mei (talking),……っ、くどいんだよクソ野郎っ。,"……, you're a pain in the ass, you son of a bitch.","……, eres un imbécil, jodido cabrón."
+ (talking),"そうか、よし、契約成立な。
 奥の階段から上へ行ってろ。 俺も後で行くからよ、 その時にうちの仕事を説明する。","Okay, all right, we have a deal.
 Go upstairs from the back stairs. I'll catch up with you later, and I'll give you a little preview of what we do.","Bien, de acuerdo, tenemos un trato.
 Sube las escaleras de atrás. Luego subiré y te daré un Mei sobre nuestro negocio."
-"Fudou Mei (talking)","あ……ああ、解った…………","Oh…… oh I get it …………","Ah…… oh, lo entiendo…………"
-"Fudou Mei (thinking)","オレ、何で……あんなヤツの言う事を 聞く気になったんだよ……
+Fudou Mei (talking),あ……ああ、解った…………,Oh…… oh I get it …………,"Ah…… oh, lo entiendo…………"
+Fudou Mei (thinking),"オレ、何で……あんなヤツの言う事を 聞く気になったんだよ……
 一体、どうしちまったんだ、オレ……","How did I ever…… decide to listen to that guy?
 What the hell is wrong with me? ……","No sé cómo he conseguido…… escuchar a ese tipo……
  ¿Qué demonios me pasa? ……"
-" (talking)","んー…… じろじろじろじろ……","Hmmm……… stare at me… ……","Hmmm……… me mira fijamente… ……"
-"Fudou Mei (talking)","……何じろじろ見てんだよ、あんた。","…… What are you staring at, dude?","…… ¿Qué estás mirando, tú?"
-" (talking)","上玉なのは上玉なんだよなー。 問題なのは性格なんだが……
+ (talking),んー…… じろじろじろじろ……,Hmmm……… stare at me… ……,Hmmm……… me mira fijamente… ……
+Fudou Mei (talking),……何じろじろ見てんだよ、あんた。,"…… What are you staring at, dude?","…… ¿Qué estás mirando, tú?"
+ (talking),"上玉なのは上玉なんだよなー。 問題なのは性格なんだが……
 ちいっと難しいかもしれねぇが、 ま、タマネギなら何とかしてくれっかな。","It's the top ball that's the top ball. The problem is the personality……
 It may be a little difficult, but I'm sure Tamanegi can do something about it.","Las bolas de arriba son las de arriba. El problema es su carácter……
 Puede ser un poco difícil, pero estoy seguro de que Tamanegi puede hacer algo al respecto."
-"Fudou Mei (talking)","……何の事だよ。","…… What are you talking about?","…… ¿De qué estás hablando?"
-" (talking)","いや、うちの組織、売春宿経営しててよ。 おめーを娼婦にしようかと思ってな。","No, my organization runs a brothel. I was thinking of making you a prostitute.","No, mi organización dirige un burdel. Estoy pensando en convertirte en una prostituta."
-"Fudou Mei (talking)","……………… つくづく腐ってんな、この極道が……","……………… You're so corrupt, you're such a scumbag……","……………… Eres tan corrupto, eres tan corrupto, eres tan corrupto, eres tan corrupto……"
-" (talking)","褒めてくれてありがとさん。","Thanks for the compliment.","Gracias por el cumplido."
-"Fudou Mei (talking)","最低野郎が…… 博打もクスリも裏で捌き放題か。","The lousy son of a bitch can handle…… gambling and drugs all he wants behind the scenes.","El asqueroso bastardo es…… Puede manejar todas las exposiciones y drogas que quiera detrás de la escena."
-" (talking)","心配すんな、クスリは利益と被害の バランス悪くてやってねえよ。
+Fudou Mei (talking),……何の事だよ。,…… What are you talking about?,…… ¿De qué estás hablando?
+ (talking),いや、うちの組織、売春宿経営しててよ。 おめーを娼婦にしようかと思ってな。,"No, my organization runs a brothel. I was thinking of making you a prostitute.","No, mi organización dirige un burdel. Estoy pensando en convertirte en una prostituta."
+Fudou Mei (talking),……………… つくづく腐ってんな、この極道が……,"……………… You're so corrupt, you're such a scumbag……","……………… Eres tan corrupto, eres tan corrupto, eres tan corrupto, eres tan corrupto……"
+ (talking),褒めてくれてありがとさん。,Thanks for the compliment.,Gracias por el cumplido.
+Fudou Mei (talking),最低野郎が…… 博打もクスリも裏で捌き放題か。,The lousy son of a bitch can handle…… gambling and drugs all he wants behind the scenes.,El asqueroso bastardo es…… Puede manejar todas las exposiciones y drogas que quiera detrás de la escena.
+ (talking),"心配すんな、クスリは利益と被害の バランス悪くてやってねえよ。
 バクチは……そういややってねぇな、 今度やるかな。","Don't worry, I don't do drugs because of the imbalance between profit and damage.
 I haven't done any bacti ……. Maybe I'll do it next time.","No te preocupes, no me drogo por el desequilibrio entre beneficio y daño.
 No hago bacti en ……, lo haré la próxima vez."
-"Fudou Mei (talking)","この、人間のクズがっ……","You piece of human garbage……","Pedazo de escoria humana……"
-" (talking)","しっかし口悪いよな、おめー。 そんなんじゃいい娼婦になれんぞー？","You're not very talkative, are you? You'll never make a good whore like that, will you?","No eres muy hablador, ¿verdad? Nunca serás una buena puta así, ¿verdad?"
-"Fudou Mei (talking)","誰がなるかよっ……","Who will it be? ……","¿Quién será? ……"
-" (talking)","ま、無理矢理にでも仕立て上げるけどな。 うちの調教師どもは優秀だし。 ノープロブレムだ、全て任せろ。","Well, I'm going to force you to do it. Our trainers are excellent. No problem. I'll take care of everything.","Bueno, voy a obligarles a que me compensen. Nuestros formadores son excelentes. No hay problema, me encargaré de todo."
-"Fudou Mei (talking)","ざけんなっ…… あんたの言う通りになってたまるかっ！","Screw you…… I'm not going to let you get away with what you say!","Vete a la mierda,…… ¡No voy a dejar que te salgas con la tuya!"
-"narrator","叫んで、明は悪司に殴りかかろうとした。
+Fudou Mei (talking),この、人間のクズがっ……,You piece of human garbage……,Pedazo de escoria humana……
+ (talking),しっかし口悪いよな、おめー。 そんなんじゃいい娼婦になれんぞー？,"You're not very talkative, are you? You'll never make a good whore like that, will you?","No eres muy hablador, ¿verdad? Nunca serás una buena puta así, ¿verdad?"
+Fudou Mei (talking),誰がなるかよっ……,Who will it be? ……,¿Quién será? ……
+ (talking),ま、無理矢理にでも仕立て上げるけどな。 うちの調教師どもは優秀だし。 ノープロブレムだ、全て任せろ。,"Well, I'm going to force you to do it. Our trainers are excellent. No problem. I'll take care of everything.","Bueno, voy a obligarles a que me compensen. Nuestros formadores son excelentes. No hay problema, me encargaré de todo."
+Fudou Mei (talking),ざけんなっ…… あんたの言う通りになってたまるかっ！,Screw you…… I'm not going to let you get away with what you say!,"Vete a la mierda,…… ¡No voy a dejar que te salgas con la tuya!"
+narrator,"叫んで、明は悪司に殴りかかろうとした。
  ──が、それよりも一瞬早く、 悪司の拳が明のみぞおちに叩き込まれた。","Shouting, Mei tried to strike Akuji.
 Akuji's fist slammed into Mei's solar plexus a moment earlier.","Gritando, Mei intentó golpear a Akuji.
  ─ ─ Pero un momento antes, el puño de Akuji se estrelló contra el plexo solar de Mei."
-"Fudou Mei (talking)","う、あ………… …………かはっ………………","U, ah………… ………… or ha ………………","U, ah………… ………… o ha ………………"
-" (talking)","やれやれ。 最後まで手間のかかるヤツだったな。
+Fudou Mei (talking),う、あ………… …………かはっ………………,"U, ah………… ………… or ha ………………","U, ah………… ………… o ha ………………"
+ (talking),"やれやれ。 最後まで手間のかかるヤツだったな。
  ……ま、楽しかったけど。","Oh dear. He was a pain in the ass right up to the end.…… Well, it was fun.","Oh, Dios. Fue un dolor de cabeza hasta el final.…… Bueno, fue divertido."
-" (thinking)","……いや、やめとこう。 こいつに客商売できるわきゃねえな。","…… No, let's not do this. I don't think this guy can do customer service.","…… No, no lo hagamos. No creo que este tipo pueda hacer servicio al cliente."
-" (talking)","……おめー、何か隠してんな？","…… You're hiding something, aren't you?","……. Oculta algo, ¿no es así?"
-" (talking)","……？ 何言ってんだ、あんた。","……? What are you talking about?","……? ¿De qué estás hablando?"
-" (talking)","ここの牢番が出してる報告書、 さっき見たんだよ。
+ (thinking),……いや、やめとこう。 こいつに客商売できるわきゃねえな。,"…… No, let's not do this. I don't think this guy can do customer service.","…… No, no lo hagamos. No creo que este tipo pueda hacer servicio al cliente."
+ (talking),……おめー、何か隠してんな？,"…… You're hiding something, aren't you?","……. Oculta algo, ¿no es así?"
+ (talking),……？ 何言ってんだ、あんた。,……? What are you talking about?,……? ¿De qué estás hablando?
+ (talking),"ここの牢番が出してる報告書、 さっき見たんだよ。
 ほんの少しでいいから出してくれ、 必ず帰ってくるから、とか何とか 言ってるそうじゃねえか。
 しかもほとんど泣き落としに 近かったんだって？","I just looked at the report the jailer sent out.
 I heard they are saying, “Just give us a little and we'll come back,” or something.
 And they almost cried him to death.","Acabo de ver el informe del carcelero aquí.
 He oído que dicen: “Danos un poco y volveremos a por ti” o algo así.
 Y casi lo matan llorando, ¿verdad?"
-" (talking)","…………チッ…… 喋りやがったのかよ、あのアマ……","………… tsk…… she talked, that bitch……","………… tsk…… ella habló, esa perra……"
-" (talking)","おめーにとっちゃ腹が立つ話でも 俺にとっちゃあ さすが密子さんラヴラヴって感じだ。
+ (talking),…………チッ…… 喋りやがったのかよ、あのアマ……,"………… tsk…… she talked, that bitch……","………… tsk…… ella habló, esa perra……"
+ (talking),"おめーにとっちゃ腹が立つ話でも 俺にとっちゃあ さすが密子さんラヴラヴって感じだ。
 よお、看守の情に訴えるたぁ、 不良娘らしくねえよなあ。ん~？ 何の用なんだ、言ってみろホレ。","What may be a very upsetting story to you, to me, it's just as I would expect from Ms. Mitsuko, who is very much in love.
 Hey, it's not like a delinquent girl to appeal to a guard's feelings. Hmm~? What do you want?","Para ti es una historia molesta, pero para mí, como era de esperar de Mitsuko, estoy enamorado de ella.
 Oye, no es propio de una chica mala apelar a los sentimientos de un guardia. ¿Hm~? ¿Qué quieres?"
-" (talking)","知るか。","I don't know.","No lo sé."
-" (talking)","そんなに急いで行きたい所…… 男か？","Where you want to go in such a hurry…… man?","A dónde quieres ir con tanta prisa…… Man?"
-" (talking)","………………","………………","………………"
-" (talking)","大金の受け渡し？ それとも秘密兵器……","Big money delivery? Or a secret weapon: ……","¿Entrega de grandes cantidades de dinero? O un arma secreta: ……"
-" (talking)","…………バカじゃないのか、あんた。 何が秘密兵器だよ。","………… Are you stupid, you? What's your secret weapon?","………… ¿Eres estúpido? ¿Cuál es su arma secreta?"
-" (talking)","お、そこで反応しやがったか。 臭いな、プンプン臭うぜ。","Oh, there you go reacting. That stinks, I can smell it.","Oh, has reaccionado ahí. Eso apesta, hombre, apesta como la caca."
-" (talking)","………………阿呆か。 それで探偵でも気取ってるつもりかよ。","……………… You're an idiot. You think you're a detective with that?","……………… Eres un idiota. ¿Y te crees un detective?"
-" (talking)","まあ、シラ切るならそれでもいいぜ。 拷問して聞くまでだからよ。
+ (talking),知るか。,I don't know.,No lo sé.
+ (talking),そんなに急いで行きたい所…… 男か？,Where you want to go in such a hurry…… man?,A dónde quieres ir con tanta prisa…… Man?
+ (talking),………………,………………,………………
+ (talking),大金の受け渡し？ それとも秘密兵器……,Big money delivery? Or a secret weapon: ……,¿Entrega de grandes cantidades de dinero? O un arma secreta: ……
+ (talking),…………バカじゃないのか、あんた。 何が秘密兵器だよ。,"………… Are you stupid, you? What's your secret weapon?",………… ¿Eres estúpido? ¿Cuál es su arma secreta?
+ (talking),お、そこで反応しやがったか。 臭いな、プンプン臭うぜ。,"Oh, there you go reacting. That stinks, I can smell it.","Oh, has reaccionado ahí. Eso apesta, hombre, apesta como la caca."
+ (talking),………………阿呆か。 それで探偵でも気取ってるつもりかよ。,……………… You're an idiot. You think you're a detective with that?,……………… Eres un idiota. ¿Y te crees un detective?
+ (talking),"まあ、シラ切るならそれでもいいぜ。 拷問して聞くまでだからよ。
 じゃあな。 次会うときは五体満足だといいな。","Well, if you want to keep your mouth shut, that's fine. I'll torture you until I hear from you.
 See you later. I hope you're all in one piece next time I see you.","Bueno, si quieres quedarte callado, está bien. Te torturaré hasta que oiga lo contrario.
 Hasta luego. Espero que estéis de una pieza la próxima vez que os vea."
-" (talking)","…………チッ……","…………chick……","…………chic……"
-" (talking)","……そういや、 こないだの拷問はどうだった？","…… Well, how was the torture the other day?","…… Bueno, ¿cómo fue la tortura del otro día?"
-" (talking)","………………","………………","………………"
-" (talking)","そろそろ話せや。 キツかったんじゃねえのか？","It's time to talk. It's been a tough day, hasn't it?","Es hora de hablar. ¿No era demasiado difícil?"
-" (talking)","…………………… 一つ訊かせろ。","…………………… Let me ask you one question.","…………………… Déjame preguntarte una cosa."
-" (talking)","おう、何だ。言ってみな。","Oh, what? Say it.","Oh, qué. Dilo."
-" (talking)","例えば……今、目の前に 死にそうな誰かが居たとして……
+ (talking),…………チッ……,…………chick……,…………chic……
+ (talking),……そういや、 こないだの拷問はどうだった？,"…… Well, how was the torture the other day?","…… Bueno, ¿cómo fue la tortura del otro día?"
+ (talking),………………,………………,………………
+ (talking),そろそろ話せや。 キツかったんじゃねえのか？,"It's time to talk. It's been a tough day, hasn't it?",Es hora de hablar. ¿No era demasiado difícil?
+ (talking),…………………… 一つ訊かせろ。,…………………… Let me ask you one question.,…………………… Déjame preguntarte una cosa.
+ (talking),おう、何だ。言ってみな。,"Oh, what? Say it.","Oh, qué. Dilo."
+ (talking),"例えば……今、目の前に 死にそうな誰かが居たとして……
 そいつを助けても、 自分の益にゃあならない。
 あんた、その誰かを助けるか？","For example,…… if you see someone dying in front of you right now, ……
 Saving that person will not benefit you.
 Would you help him?","Por ejemplo,…… si ves a alguien muriendo frente a ti en este momento, ……
 Salvarle no le servirá de nada.
  ¿Ayudarías a ese alguien?"
-" (talking)","自信持って答えてやろう。 ぜーーーーーったい助けねえな。 たとえどんな場合でもだ。","I'll answer with confidence. I'm not going to help you. No matter what the case may be.","Responderé con confianza. No voy a ayudarte. No importa cuál sea el caso."
-" (talking)","………………だろうと思ったぜ……","I thought it would be……………… ……","Pensé que sería ………………, hombre……"
-" (talking)","何の話だか知らねえが、 隠してる事をさっさとゲロっちまえ。 ほれ、ほれほれほれ。","I don't know what you're talking about, but you better tell me what you're hiding. Here, here, here, here.","No sé de qué hablas, pero sigue con lo que escondes. Aquí, aquí, aquí, aquí."
-" (talking)","だから、あんたが期待してるような事は 何も知らねえよ、オレは。","So I don't know anything you're expecting me to know.","Así que no sé nada de lo que esperas que sepa."
-" (talking)","………………","………………","………………"
-" (talking)","………………","………………","………………"
-" (talking)","はーい、拷問係さん、 メイちゃんの三番室にごあんなーい。","Yes, Mr. Torturer, please come to Mei-chan's room No. 3.","Sí, Sr. Torturador, por favor, venga a la habitación 3 con Mei."
-" (talking)","………………この外道がっ……","……………… you outcasts ……","……………… este marginado ……"
-" (talking)","さーて、 また拷問タイムに行ってみっか？","Well, let's go back to torture time, shall we?","Bueno, volvamos a la época de la tortura, ¿de acuerdo?"
-" (talking)","…………っ……！","…………っ……!","¡…………っ……!"
-" (talking)","お、顔色変わったな。 結構効いてんじゃねえのか？","Oh, your complexion has changed. It's working pretty well, isn't it?","Oh, has cambiado de color. Está funcionando bastante bien, ¿no?"
-" (talking)","……効いてる訳ねえだろうがっ……！ 甘く見てんじゃねえ、このクソッタレ！
+ (talking),自信持って答えてやろう。 ぜーーーーーったい助けねえな。 たとえどんな場合でもだ。,I'll answer with confidence. I'm not going to help you. No matter what the case may be.,Responderé con confianza. No voy a ayudarte. No importa cuál sea el caso.
+ (talking),………………だろうと思ったぜ……,I thought it would be……………… ……,"Pensé que sería ………………, hombre……"
+ (talking),何の話だか知らねえが、 隠してる事をさっさとゲロっちまえ。 ほれ、ほれほれほれ。,"I don't know what you're talking about, but you better tell me what you're hiding. Here, here, here, here.","No sé de qué hablas, pero sigue con lo que escondes. Aquí, aquí, aquí, aquí."
+ (talking),だから、あんたが期待してるような事は 何も知らねえよ、オレは。,So I don't know anything you're expecting me to know.,Así que no sé nada de lo que esperas que sepa.
+ (talking),………………,………………,………………
+ (talking),………………,………………,………………
+ (talking),はーい、拷問係さん、 メイちゃんの三番室にごあんなーい。,"Yes, Mr. Torturer, please come to Mei-chan's room No. 3.","Sí, Sr. Torturador, por favor, venga a la habitación 3 con Mei."
+ (talking),………………この外道がっ……,……………… you outcasts ……,……………… este marginado ……
+ (talking),さーて、 また拷問タイムに行ってみっか？,"Well, let's go back to torture time, shall we?","Bueno, volvamos a la época de la tortura, ¿de acuerdo?"
+ (talking),…………っ……！,…………っ……!,¡…………っ……!
+ (talking),お、顔色変わったな。 結構効いてんじゃねえのか？,"Oh, your complexion has changed. It's working pretty well, isn't it?","Oh, has cambiado de color. Está funcionando bastante bien, ¿no?"
+ (talking),"……効いてる訳ねえだろうがっ……！ 甘く見てんじゃねえ、このクソッタレ！
 オレはてめえなんかにゃ屈しねえぞ、 てめえみたいなクソ男の言うなりに なってたまるかってんだっ！
 死ね、このバカがっ！ そのツラ潰されたくなかったら 今すぐ帰れ、出ていけボケがっ！！","…… isn't working……! Don't you fucking take it easy on me, you piece of shit!
 I will not bow down to you, and I will not be cowed by a fucking man like you!
 Die, you idiot! If you don't want to get your face crushed, go home right now and get out of here!","…… no funciona. ¡……! ¡No te lo tomes con calma, maldito cabrón!
  ¡No voy a ceder ante vosotros, no voy a hacer lo que vosotros, malditos hombres, me digáis que haga!
  ¡Muere, idiota! Si no quieres que te rompan la cara, vete a casa ahora mismo y lárgate."
-" (talking)","…………
+ (talking),"…………
 ハナクソほじほじ……","…………
 Horny dusting: ……","…………
 Polvo caliente: ……"
-" (talking)","…………の野郎ッ……！","Bastards of………… ……!","¡Bastardos de………… ……!"
-" (talking)","……いやー、怯えた子犬ほど やかましく吠えるってのは 本当だったんだなー。","…… Well, it's true what they say about frightened puppies, they bark louder.","…… Bueno, es cierto lo que dicen de que los cachorros asustados ladran fuerte."
-" (talking)","…………っ……","…………っ……","…………っ……"
-" (talking)","もうボチボチだな。
+ (talking),…………の野郎ッ……！,Bastards of………… ……!,¡Bastardos de………… ……!
+ (talking),……いやー、怯えた子犬ほど やかましく吠えるってのは 本当だったんだなー。,"…… Well, it's true what they say about frightened puppies, they bark louder.","…… Bueno, es cierto lo que dicen de que los cachorros asustados ladran fuerte."
+ (talking),…………っ……,…………っ……,…………っ……
+ (talking),"もうボチボチだな。
 おーい、カムヒアー拷問係ぃ~。","I'm already bummed.
 Hey, come hiya torturers!","Yo ya soy bla, bla, bla.
 Oi, ¡vengan hola torturadores!"
-" (talking)","こっ、このクソ野郎……！ 絶対ぶっ殺してやる！ 貴様だけは絶対殺してやるっ……！","You son of a bitch! ……! I will Satsu you for sure! I'll Satsu you for sure! ……","¡Hijo de puta ……! ¡Seguro que te Satsu! ¡Eres el único al que voy a Satsu! ……"
-" (talking)","ああ、好きにしな。 今日おめーが生きて帰ってこられたらな。","Yeah, suit yourself. If you make it back alive today.","Sí, lo que quieras. Si consigues volver con vida hoy."
-"cg narrator","──ひどい有様だった。
+ (talking),こっ、このクソ野郎……！ 絶対ぶっ殺してやる！ 貴様だけは絶対殺してやるっ……！,You son of a bitch! ……! I will Satsu you for sure! I'll Satsu you for sure! ……,¡Hijo de puta ……! ¡Seguro que te Satsu! ¡Eres el único al que voy a Satsu! ……
+ (talking),ああ、好きにしな。 今日おめーが生きて帰ってこられたらな。,"Yeah, suit yourself. If you make it back alive today.","Sí, lo que quieras. Si consigues volver con vida hoy."
+cg narrator,"──ひどい有様だった。
 まず最初、明は十人──いや、二十人か。 圧倒的多数の男たちに代わる代わる犯され、 身体中に白濁した精を浴びせかけられた。
 この時すでに、明は抵抗する気を失い、 泣きじゃくるばかりだったのだが──
 「もうちょい遊ぼうぜ」
@@ -999,7 +999,7 @@ El torturador rió suavemente.
 「Vamos………… Ya basta, vamos…… Corta el hilo de la consciencia………… ¡Cae en la locura~…………！」
 ──Finalmente, el torturador, abrumado por la emoción, eyacula.
 En ese momento, el corazón de Mei se hundió. Es un reino que ya no puede llamarse humano."
-"cg narrator","「………………あ、あは…………」
+cg narrator,"「………………あ、あは…………」
  「あはは、あは…………あははははは…………」
  「あははははははははははははははは…… 　あは、あははは、あはははは………………」
  「あはははははははははははははははははははは 　ははははははははははははははははははははは 　はははははははははははははははははは……」","”……………… ah, ah ha……… …”
@@ -1009,73 +1009,73 @@ En ese momento, el corazón de Mei se hundió. Es un reino que ya no puede llama
  'A-ha-ha-ha-ha-ha………… a-ha-ha-ha-ha …………'
  'A-ha-ha-ha-ha-ha…… A-ha-ha-ha-ha…………… …”
  'A-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha-ha ……'"
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","……猫ぉ？","…… cat oh?","…… ¿Gato oh?"
-"Elite Yakuza (talking)","はい。
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+Yamamoto Akuji (talking),……猫ぉ？,…… cat oh?,…… ¿Gato oh?
+Elite Yakuza (talking),"はい。
 どうやら彼女、捨て猫を何匹か拾って 誰にも知らせず、一人で餌を 与えていたようでして。
 いつも肩に乗せていた猫は、 そのうちの一匹に過ぎないらしく……","Yes.
 It seems that she picked up some abandoned cats and fed them alone without letting anyone know.
 The cat she always had on her shoulder was just one of them……","Sí.
 Al parecer, recogió unos gatos abandonados y los alimentó sola, sin avisar a nadie.
 El gato que siempre llevaba en el hombro era uno de ellos……"
-"Yamamoto Akuji (talking)","それが隠してた秘密だってのか？ まあ、いろいろ辻褄は合うが……","That's the secret they've been keeping? Well, a lot of things make sense……","¿Y ese es el secreto que han guardado? Bueno, muchas cosas tienen sentido……"
-"Elite Yakuza (talking)","完膚無きまで人格を破壊して、 その上で吐かせた情報です。 間違いないでしょう。
+Yamamoto Akuji (talking),それが隠してた秘密だってのか？ まあ、いろいろ辻褄は合うが……,"That's the secret they've been keeping? Well, a lot of things make sense……","¿Y ese es el secreto que han guardado? Bueno, muchas cosas tienen sentido……"
+Elite Yakuza (talking),"完膚無きまで人格を破壊して、 その上で吐かせた情報です。 間違いないでしょう。
 ちなみに、猫を隠している場所は ハクアの林だそうです。","They destroyed his character to the point of utter destruction, and then they made him give up the information. I am sure of it.
 Incidentally, the place where he hides the cat is said to be in the woods of Hakua.","Es información que ha sido completamente destruida en su carácter y luego vomitada. Estoy seguro de ello.
 Por cierto, se dice que el lugar donde se esconde el gato es un bosque en Hakua."
-"Yamamoto Akuji (talking)","……くだんねえ情報だなオイ。 まあ、気が向いたら行ってみるわ。","…… That's a crappy piece of information, Oi. Well, I'll go there when I'm ready.","…… Esa es una información de mierda, Oi. Bueno, iré allí cuando esté listo."
-"Elite Yakuza (talking)","それで、若。不動明の今後は……","So, young. Fudou Mei's future is ……","Así que, joven. Fudou Mei el futuro es ……"
-"Yamamoto Akuji (talking)","養護施設にでも入れといてやれ。","Put him in a nursing home.","Ponerlo en un orfanato."
-"Elite Yakuza (talking)","はっ。","Ha.","Ha."
-"Ishihara Senju (talking)","やっほー、メイ。","Yay, Mae.","Sí, Mae."
-"Fudou Mei (talking)","…………っ、調教師のガキ……
+Yamamoto Akuji (talking),……くだんねえ情報だなオイ。 まあ、気が向いたら行ってみるわ。,"…… That's a crappy piece of information, Oi. Well, I'll go there when I'm ready.","…… Esa es una información de mierda, Oi. Bueno, iré allí cuando esté listo."
+Elite Yakuza (talking),それで、若。不動明の今後は……,"So, young. Fudou Mei's future is ……","Así que, joven. Fudou Mei el futuro es ……"
+Yamamoto Akuji (talking),養護施設にでも入れといてやれ。,Put him in a nursing home.,Ponerlo en un orfanato.
+Elite Yakuza (talking),はっ。,Ha.,Ha.
+Ishihara Senju (talking),やっほー、メイ。,"Yay, Mae.","Sí, Mae."
+Fudou Mei (talking),"…………っ、調教師のガキ……
 ＜猫＞ 　み……みゃあああっ……","…………~、The trainer's brat……
 <Cat> Mi……miyahaaa~……","…………~、el mocoso del entrenador……
 <Gato> Mi……miyahaaa~……"
-"narrator","明の飼い猫は、千手の姿を見ると 怯えた声で鳴いて小さな躰を震わせ始めた。","When Mei's cat saw Senju, he cried in a frightened voice and began to tremble his small body.","Cuando el gato de Mei vio a Senju, lloró con una voz asustada y comenzó a temblar su pequeño cuerpo."
-"Ishihara Senju (talking)","あれ、嫌われちゃってるなー、ボク。
+narrator,明の飼い猫は、千手の姿を見ると 怯えた声で鳴いて小さな躰を震わせ始めた。,"When Mei's cat saw Senju, he cried in a frightened voice and began to tremble his small body.","Cuando el gato de Mei vio a Senju, lloró con una voz asustada y comenzó a temblar su pequeño cuerpo."
+Ishihara Senju (talking),"あれ、嫌われちゃってるなー、ボク。
 でも、怯えてる猫も可愛いよねー。 メイも早くこうなればいいのに……","Oh, they don't like me, do they?
 But scared cats are cute, aren't they? I wish Mei could be like this soon……","Oh, no les gusto, ¿verdad?
  ¡Pero los gatos asustados también son lindos! Me gustaría que Mei pudiera estar así pronto……"
-"Fudou Mei (talking)","……このガキ、性懲りもなく オレをいたぶりに来たのかよっ……","…… This little brat is back to pestering me again and again……","…… Este chico ha estado tratando de golpearme durante mucho tiempo……"
-"Ishihara Senju (talking)","いたぶってるだけじゃないって。 それはメイ自身が一番解ってるだろ？","It's not just about playing with her. You know that better than anyone, don't you?","No se trata sólo de jugar con ella. Lo sabes mejor que nadie, ¿verdad, May?"
-"Fudou Mei (talking)","………………っ……！！","………………っ……!!!","¡¡¡………………っ……!!!"
-"Ishihara Senju (talking)","今までだって、いーっぱい遊んでさ、 メイは自分から脚広げてさ………………","I've had so much fun with her, she even spread her legs for me………………","Nos hemos divertido mucho, y Mei incluso se ha abierto de piernas para mí………………"
-"Fudou Mei (talking)","………………それ以上言うなっ！ 言ったらブッ殺してやるっ！！","……………… Don't say another word! I'll Satsu you if you say any more!!!!","……………… ¡No digas nada más! ¡Te voy a Satsu si dices algo más!"
-"Ishihara Senju (talking)","へへ、やれるもんならやってみなよ。 殺されるのはメイの方だと思うけどね？","Heh, go ahead, if you can. I think it's May who gets Satsued, though, right?","Je, pruébalo si puedes. Sin embargo, creo que es May la que se Satsua, ¿no es así?"
-"Fudou Mei (talking)","思い上がるな、この…………","Don't get cocky, you …………","No seas presuntuoso, tú …………"
-"narrator","明は千手の胸ぐらを掴んで自分の方に引き寄せ、 その頬に拳を叩き込もうとした。
+Fudou Mei (talking),……このガキ、性懲りもなく オレをいたぶりに来たのかよっ……,…… This little brat is back to pestering me again and again……,…… Este chico ha estado tratando de golpearme durante mucho tiempo……
+Ishihara Senju (talking),いたぶってるだけじゃないって。 それはメイ自身が一番解ってるだろ？,"It's not just about playing with her. You know that better than anyone, don't you?","No se trata sólo de jugar con ella. Lo sabes mejor que nadie, ¿verdad, May?"
+Fudou Mei (talking),………………っ……！！,………………っ……!!!,¡¡¡………………っ……!!!
+Ishihara Senju (talking),今までだって、いーっぱい遊んでさ、 メイは自分から脚広げてさ………………,"I've had so much fun with her, she even spread her legs for me………………","Nos hemos divertido mucho, y Mei incluso se ha abierto de piernas para mí………………"
+Fudou Mei (talking),………………それ以上言うなっ！ 言ったらブッ殺してやるっ！！,……………… Don't say another word! I'll Satsu you if you say any more!!!!,……………… ¡No digas nada más! ¡Te voy a Satsu si dices algo más!
+Ishihara Senju (talking),へへ、やれるもんならやってみなよ。 殺されるのはメイの方だと思うけどね？,"Heh, go ahead, if you can. I think it's May who gets Satsued, though, right?","Je, pruébalo si puedes. Sin embargo, creo que es May la que se Satsua, ¿no es así?"
+Fudou Mei (talking),思い上がるな、この…………,"Don't get cocky, you …………","No seas presuntuoso, tú …………"
+narrator,"明は千手の胸ぐらを掴んで自分の方に引き寄せ、 その頬に拳を叩き込もうとした。
 だが、振り上げた拳は、 いつまで経っても千手に向かってこない。","Mei grabbed Senju by the chest, pulled him toward her, and tried to slam her fist into his cheek.
 However, the raised fist did not come toward Senju no matter how long it took.","Mei agarró a Senju por el pecho, tiró de él hacia ella y trató de darle un puñetazo en la mejilla.
 Sin embargo, el puño que levantó no se acercó a Senju durante mucho tiempo."
-"Ishihara Senju (talking)","……メイ、どうしたのさ？ 躰が震えてるよー？","…… May, what's wrong? Your body is shaking!","…… May, ¿qué pasa? ¡Tu cuerpo está temblando!"
-"Fudou Mei (talking)","…………っ、う…………","…………, u…………","…………, u…………"
-"Ishihara Senju (talking)","そうだねー、そりゃそうだよねー。 そんな事したら後で十倍返しされるって 何度も思い知らされたもんねー。
+Ishihara Senju (talking),……メイ、どうしたのさ？ 躰が震えてるよー？,"…… May, what's wrong? Your body is shaking!","…… May, ¿qué pasa? ¡Tu cuerpo está temblando!"
+Fudou Mei (talking),…………っ、う…………,"…………, u…………","…………, u…………"
+Ishihara Senju (talking),"そうだねー、そりゃそうだよねー。 そんな事したら後で十倍返しされるって 何度も思い知らされたもんねー。
 ほら、手放して。 ……放せって言ってんだろバカ。","Yes, that's right. I've been reminded over and over again that if I do that, I'll get it back tenfold later.
 Here, let go……I told you to let it go, you idiot.","Sí, así es, así es. Me han recordado muchas veces que si lo hago, lo recuperaré diez veces más tarde.
 Toma, suéltalo…… Suéltalo, idiota."
-"Fudou Mei (talking)","………………","………………","………………"
-"Ishihara Senju (talking)","そうそう、それでいいんだよ。 メイは賢いからボク好きさ。
+Fudou Mei (talking),………………,………………,………………
+Ishihara Senju (talking),"そうそう、それでいいんだよ。 メイは賢いからボク好きさ。
 さ、まずは下ごしらえだ。 今日もメイの好きな事、 いっぱいしてあげるよっ……！","Yes, yes, that's fine. She's smart and I like her.
 Now, let's get started with the prep work. I'm going to do all the things you like today too……","Sí, sí, está bien. Me gusta May porque es inteligente.
 Ahora, en primer lugar, vamos a preparar la comida. Yo también voy a hacer todas las cosas que te gustan hoy……"
-"narrator","千手はポケットから小さなスプレー缶を 取り出すと、いきなり猫と明の顔に吹き付けた。","Senju took a small spray can from his pocket and suddenly sprayed the cat and Mei in the face.","Senju sacó un pequeño bote de spray de su bolsillo y de repente roció al gato y a Mei en la cara."
-"Fudou Mei (talking)","…………！？ げ、げほげほっ……
+narrator,千手はポケットから小さなスプレー缶を 取り出すと、いきなり猫と明の顔に吹き付けた。,Senju took a small spray can from his pocket and suddenly sprayed the cat and Mei in the face.,Senju sacó un pequeño bote de spray de su bolsillo y de repente roció al gato y a Mei en la cara.
+Fudou Mei (talking),"…………！？ げ、げほげほっ……
 て、てめえ……今、何を…………","…………! Gee, gee, gee, gee, gee! ……
 You, you ……, what are you doing now …………","¡…………! ¡Caramba, caramba, caramba! ……
 Tú, tú ……, qué haces ahora …………"
-"Ishihara Senju (talking)","くすくす…… さあ、何かなー？","Giggle…… Come on, what is it?","Giggle…… Vamos, ¿qué es?"
-"narrator","千手が言った瞬間だった。 ──明の肩から、猫が突然滑り落ち始めた。","That was the moment Senju said. ──The cat suddenly started slipping off Mei's shoulder.","Ese fue el momento en que dijo Senju. ──El gato de repente comenzó a escapar del hombro de Mei."
-"Fudou Mei (talking)","…………っ！　お、おいっ……","…………!　Oh, hey! ……","¡…………!　¡Oh, hola! ……"
-"Ishihara Senju (talking)","あはは、ナイスキャッチ。 よく猫が床に落ちる前に止められたね。
+Ishihara Senju (talking),くすくす…… さあ、何かなー？,"Giggle…… Come on, what is it?","Giggle…… Vamos, ¿qué es?"
+narrator,千手が言った瞬間だった。 ──明の肩から、猫が突然滑り落ち始めた。,That was the moment Senju said. ──The cat suddenly started slipping off Mei's shoulder.,Ese fue el momento en que dijo Senju. ──El gato de repente comenzó a escapar del hombro de Mei.
+Fudou Mei (talking),…………っ！　お、おいっ……,"…………!　Oh, hey! ……","¡…………!　¡Oh, hola! ……"
+Ishihara Senju (talking),"あはは、ナイスキャッチ。 よく猫が床に落ちる前に止められたね。
 でも、次はメイの番かなー。 怪我しないように倒れられる？","Haha, nice catch. I often stop cats before they hit the floor Tane.
 But I wonder if it's Mei's turn next. Can you fall down without getting hurt?","Jaja, buena captura. A menudo detengo a los gatos antes de que caigan al suelo Tane.
 Pero me pregunto si ahora le tocará a May. ¿Puedes caerte para no hacerte daño?"
-"Fudou Mei (talking)","………っ………？ あ、っ……………………
+Fudou Mei (talking),"………っ………？ あ、っ……………………
  ………………こ、の……………… …………………………ガキっ……","………っ………? あ、っ……………………
  ………………こ、の……………… ………………… ………ガキっ……","………っ………? あ,っ…………………………………… こ,の……………… ………………… ………ガキっ……"
-"Ishihara Senju (talking)","…………おっとっと。 顔から倒れちゃダメだって、 娼婦の価値が下がっちゃう。
+Ishihara Senju (talking),"…………おっとっと。 顔から倒れちゃダメだって、 娼婦の価値が下がっちゃう。
 ま、タマネギさえブツブツ言わなきゃ メイの顔がどうなろうと ボクはどーでもいいんだけどさ。
  …………あれ？　メイ、気絶した？ 睡眠薬の量、多すぎたかな？
 まあいいや……それはそれで いろいろ遊びがいもあるしね。 へへ……","………… Oops. You can't fall on your face, it'll ruin the value of the whore.
@@ -1083,7 +1083,7 @@ I don't really care what happens to Mei's face as long as Tamanegi doesn't mumbl
 Well, that's okay…… That's a lot of fun to play with. Hehe……","………… Oops. No puedes caer de bruces, arruinaría tu valor de puta.
 Realmente no me importa lo que le pase a la cara de Mei mientras Tamanegi no murmure.………… ¿Eh?　Mei, ¿te has desmayado? ¿Te he dado demasiados somníferos?
 Bueno, está bien…… Es muy divertido jugar con eso, ¿no? Hehe……"
-"cg narrator","（………………ぅ…………？）
+cg narrator,"（………………ぅ…………？）
  ──眠っていた明の耳に、何かが聞こえてきた。 誰かの声だった。
  「……っかしーな。 　生きてるならそろそろ目覚めるはずだけど」
 それが調教師・千手の声だと解るまで、 随分と時間がかかった。
@@ -1114,7 +1114,7 @@ No, no.
 Ahora mismo, lo que sigue erosionando la conciencia de Mei no es la somnolencia, sino algo más…
  “Ah. 　Mei, estás despierta, ¿verdad?　Estás despierto, ¿verdad? 　No te empapes sólo porque te sientes bien, vamos, levántate”.
 La pequeña mano de Senju golpea la mejilla de Mei. ─ ─ Abre los ojos, abre los ojos."
-"cg narrator","「…………う…………」
+cg narrator,"「…………う…………」
 焦点の定まりきらない明の目が、 変わり果てた自分の姿を映し出す。
 「ほら、メイ……見えるかい？ 　自分が今、どんな風になってるのか……」
 千手に言われるまでもなく、見えていた。 恥ずかしい、自分の姿が。
@@ -1310,7 +1310,7 @@ Mei sacudió la cabeza ligeramente ante el entumecimiento del juguete, que atorm
 y.
 Mei en silencio ── termina.
 「……………………~、Ah────────」"
-"cg narrator","明は絶頂を迎えて脱力し、力無く項垂れる。 ──千手の腕に、首を預ける。
+cg narrator,"明は絶頂を迎えて脱力し、力無く項垂れる。 ──千手の腕に、首を預ける。
 明はもう、何もしようとしなかった。
 犯されようと、責め立てられようと、 明はただ、か細い声でただ鳴くだけだ。
 明は、無力な仔猫に成り果てていた。","Mei climaxes, weakens, and hangs down helplessly. He rests his head in Senju's arms.
@@ -1320,46 +1320,46 @@ Mei had become a helpless kitten.","Mei llega al clímax, se debilita y se descu
 Mei ya no intentó hacer nada.
 No importaba si era violada o torturada, Mei sólo gritaba con voz apagada.
 Mei se había convertido en un gatito indefenso."
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","……さーて、 今日の外回りは終わりっと。
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+Yamamoto Akuji (talking),"……さーて、 今日の外回りは終わりっと。
 あとは、部下に任せてるシマの状態か。 電話かけて確認してみっかな……","……Well, that's it for today's outing.
 I'm going to make a call and check on it. I'll make a call and check……","…… Bueno, eso es todo para las salidas de hoy.
 Ahora corresponde a mis subordinados ocuparse de la situación en el territorio. Haré una llamada y lo comprobaré……"
-"narrator","　　「……にゃー。にゃあああ……」","Nyaaaa…”…… Nyaaaaah……”","'……nya. Nyaaaaah……”"
-"Yamamoto Akuji (talking)","……ん？","…… hmm?","…… ¿hmm?"
-"narrator","　　「……にゃあ……」","”…… nyaa ……”","'…… nyaa ……'"
-"Yamamoto Akuji (talking)","猫の声みてーだが…… どこで鳴いてんだ？","Sounds like a cat…… Where is it meowing?","Suena como un gato…… ¿Dónde está maullando?"
-"Fudou Mei (talking)","…………まったく、 どこで喧嘩してきたんだよ、お前。 爪でやられた傷だろ？　これ……
+narrator,　　「……にゃー。にゃあああ……」,Nyaaaa…”…… Nyaaaaah……”,'……nya. Nyaaaaah……”
+Yamamoto Akuji (talking),……ん？,…… hmm?,…… ¿hmm?
+narrator,　　「……にゃあ……」,”…… nyaa ……”,'…… nyaa ……'
+Yamamoto Akuji (talking),猫の声みてーだが…… どこで鳴いてんだ？,Sounds like a cat…… Where is it meowing?,Suena como un gato…… ¿Dónde está maullando?
+Fudou Mei (talking),"…………まったく、 どこで喧嘩してきたんだよ、お前。 爪でやられた傷だろ？　これ……
  ＜仔猫＞ 　にゃあ……
 にゃあにゃあ言うな。 ちゃんと染みない薬を 選んでやってんだから……","………… Totally, where did you get into that fight, dude? That's a fingernail wound, isn't it?　Here……
  <Kitten> Meow……
 Don't say meow. I've chosen a medicine that doesn't stain……","………… ¿De qué manera te metiste en esa pelea, hombre, en absoluto? Es una herida de uña, ¿no?　Aquí……
  <Gatito> Miau……
 No me maúlles. He elegido una medicina que no mancha……"
-"Yamamoto Akuji (talking)","……何だよ、鳴いてんのは メイの猫だったのか。 何やってんだ？","…… What's up, was it May's cat that was meowing? What are you doing?","…… ¿Qué, era el gato de May el que estaba maullando? ¿Qué estás haciendo?"
-"Fudou Mei (talking)","ああ、あんたか。 見て解らないのか？","Oh, it's you. Can't you see it?","Oh, eres tú. ¿No lo ves?"
-"Yamamoto Akuji (talking)","猫の改造手術。","Cat alteration surgery.","Cirugía de modificación del gato."
-"Fudou Mei (talking)","怪我の手当に決まってんだろ…… あ、救急箱借りてるぜ。","Of course you're getting help for your injuries…… Oh, I'm borrowing your first aid kit.","Por supuesto que estás recibiendo ayuda para tus heridas…… Oh, estoy tomando prestado tu kit de primeros auxilios."
-"Yamamoto Akuji (talking)","おう、好きに使えや。","Oh, use whatever you want.","Oh, úsalo como quieras."
-"Fudou Mei (talking)","………………よし、出来た。 もう無茶するなよ。
+Yamamoto Akuji (talking),……何だよ、鳴いてんのは メイの猫だったのか。 何やってんだ？,"…… What's up, was it May's cat that was meowing? What are you doing?","…… ¿Qué, era el gato de May el que estaba maullando? ¿Qué estás haciendo?"
+Fudou Mei (talking),ああ、あんたか。 見て解らないのか？,"Oh, it's you. Can't you see it?","Oh, eres tú. ¿No lo ves?"
+Yamamoto Akuji (talking),猫の改造手術。,Cat alteration surgery.,Cirugía de modificación del gato.
+Fudou Mei (talking),怪我の手当に決まってんだろ…… あ、救急箱借りてるぜ。,"Of course you're getting help for your injuries…… Oh, I'm borrowing your first aid kit.","Por supuesto que estás recibiendo ayuda para tus heridas…… Oh, estoy tomando prestado tu kit de primeros auxilios."
+Yamamoto Akuji (talking),おう、好きに使えや。,"Oh, use whatever you want.","Oh, úsalo como quieras."
+Fudou Mei (talking),"………………よし、出来た。 もう無茶するなよ。
  ＜仔猫＞ 　にゃー。","……………… Okay, it's done. Don't be reckless now.
  ＜Meow.","……………… Bien, ya está hecho. No seas imprudente ahora.
  <Gatito> Miau."
-"Yamamoto Akuji (talking)","しっかしメイもよ、 結構変わったヤツだよなー","But then again, Mei is a pretty strange guy, too.","Pero, de nuevo, Mei es un poco extraña, ¿no?"
-"Fudou Mei (talking)","何がだよ。","What is it?","Qué."
-"Yamamoto Akuji (talking)","そんな汚ねぇネコに 優しくしてやる神経がわかんねーんだよ。 目ヤニはバリバリだし毛の色も小汚ぇし。
+Yamamoto Akuji (talking),しっかしメイもよ、 結構変わったヤツだよなー,"But then again, Mei is a pretty strange guy, too.","Pero, de nuevo, Mei es un poco extraña, ¿no?"
+Fudou Mei (talking),何がだよ。,What is it?,Qué.
+Yamamoto Akuji (talking),"そんな汚ねぇネコに 優しくしてやる神経がわかんねーんだよ。 目ヤニはバリバリだし毛の色も小汚ぇし。
 どうせ飼うんなら、もっとまともなのが 他にいくらでもいんだろ。 たとえ捨て猫でもよ。","I don't understand the nerve of being nice to such a dirty cat. His eyes are covered with eye discharge, and his fur is dirty.
 If you're going to keep it anyway, there are plenty of other cats that are more decent. Even if it's an abandoned cat.","No entiendo el descaro de ser amable con un gato tan sucio. Tiene mucha secreción ocular y su pelaje es una cosa sucia.
 Si lo vas a mantener de todos modos, hay muchos decentes por ahí. Aunque sea un gato abandonado."
-"Fudou Mei (talking)","見栄えでネコを判断すんなよ。 案外器の小さい男だな、あんた。","Don't judge a cat by its appearance. You're a smaller man than you think, aren't you?","No juzgues a un gato por su aspecto. Eres un hombre más pequeño de lo que crees, tú."
-"Yamamoto Akuji (talking)","猫一匹の事で ひでぇ言われようだなー……
+Fudou Mei (talking),見栄えでネコを判断すんなよ。 案外器の小さい男だな、あんた。,"Don't judge a cat by its appearance. You're a smaller man than you think, aren't you?","No juzgues a un gato por su aspecto. Eres un hombre más pequeño de lo que crees, tú."
+Yamamoto Akuji (talking),"猫一匹の事で ひでぇ言われようだなー……
  ……ああ、そういやその猫、 名前は何て言うんだ？","What a terrible thing to be told about one cat………… Oh, and what's that cat's name?","Estoy recibiendo un montón de mierda sobre un gato………… Oh, sí, ¿cómo se llama ese gato?"
-"Fudou Mei (talking)","名前なんてつけてないよ。","I didn't give it a name.","No le di un nombre."
-"Yamamoto Akuji (talking)","そんだけ懐いてんのにか？ つけてやれよ、名前くらい。","Even though he misses you so much? Give him a name, at least.","Le has echado mucho de menos, ¿verdad? Dale un nombre, al menos."
-"Fudou Mei (talking)","猫が生きていくのに関係あるのか？ こいつに人間のルールを 押しつける気はないよ。","What does it matter if the cat can live? I'm not going to impose human rules on this guy.","¿Qué tiene que ver con la vida de un gato? No voy a imponer reglas humanas a este tipo."
-"Yamamoto Akuji (talking)","……はあ、さいですか。","…… is Oh, Sai?","…… es ah, sai?"
-"Fudou Mei (talking)","＜仔猫＞ 　……にゃー、ごろごろごろ……
+Fudou Mei (talking),名前なんてつけてないよ。,I didn't give it a name.,No le di un nombre.
+Yamamoto Akuji (talking),そんだけ懐いてんのにか？ つけてやれよ、名前くらい。,"Even though he misses you so much? Give him a name, at least.","Le has echado mucho de menos, ¿verdad? Dale un nombre, al menos."
+Fudou Mei (talking),猫が生きていくのに関係あるのか？ こいつに人間のルールを 押しつける気はないよ。,What does it matter if the cat can live? I'm not going to impose human rules on this guy.,¿Qué tiene que ver con la vida de un gato? No voy a imponer reglas humanas a este tipo.
+Yamamoto Akuji (talking),……はあ、さいですか。,"…… is Oh, Sai?","…… es ah, sai?"
+Fudou Mei (talking),"＜仔猫＞ 　……にゃー、ごろごろごろ……
 あ、こら……今は話の最中なんだぞ。 ははっ、じゃれてくるなってば……
  ＜仔猫＞ 　………………にゃあ…………
 傷、痛むのか？ 無理もないけど……
@@ -1382,69 +1382,69 @@ Eres un ser vivo, tendrás que vivir por tu cuenta tarde o temprano.
 Tienes que crecer rápido y ser fuerte rápido…… mientras yo pueda cuidar de ti.
  ＜Kitten> Meow…………
  ¿Realmente lo entiende? Bueno, supongo que no lo hace……"
-"Yamamoto Akuji (talking)","……あー、なるほどな。 何か今ピンと来たぜ、 おめーがその猫飼ってる理由。","…… Ah, I see. Something just hit me, why you have that cat.","…… Ah, ya veo. Algo me hizo pensar, por qué tienes ese gato."
-"Fudou Mei (talking)","？","？","？"
-"Yamamoto Akuji (talking)","おめー、そのネコが自分みたいだとか 思ってんじゃねーのか？
+Yamamoto Akuji (talking),……あー、なるほどな。 何か今ピンと来たぜ、 おめーがその猫飼ってる理由。,"…… Ah, I see. Something just hit me, why you have that cat.","…… Ah, ya veo. Algo me hizo pensar, por qué tienes ese gato."
+Fudou Mei (talking),？,？,？
+Yamamoto Akuji (talking),"おめー、そのネコが自分みたいだとか 思ってんじゃねーのか？
 だからほっとけなくて、 何かと世話焼いたりしてんだろ。","You think that cat is like you, don't you?
 That's why you can't leave it alone and take care of it.","Crees que el gato es como tú, ¿no?
 Por eso no puedes dejarlo solo y ocuparte de él."
-"Fudou Mei (talking)","………………","………………","………………"
-"Yamamoto Akuji (talking)","図星か。","You get the picture.","Figura retórica."
-"Fudou Mei (talking)","……アホくせえな、 そんな事思ってる訳ないだろ？ こっちは人間、こいつは猫なんだぜ。","…… stupid, how can you think that? I'm a human, she's a cat.","…… Eres un idiota, ¿cómo puedes pensar eso? Yo soy un humano, ella es un gato."
-"Yamamoto Akuji (talking)","なあ、前にも同じ様な事 聞いたかもしれねーが……
+Fudou Mei (talking),………………,………………,………………
+Yamamoto Akuji (talking),図星か。,You get the picture.,Figura retórica.
+Fudou Mei (talking),……アホくせえな、 そんな事思ってる訳ないだろ？ こっちは人間、こいつは猫なんだぜ。,"…… stupid, how can you think that? I'm a human, she's a cat.","…… Eres un idiota, ¿cómo puedes pensar eso? Yo soy un humano, ella es un gato."
+Yamamoto Akuji (talking),"なあ、前にも同じ様な事 聞いたかもしれねーが……
 おめーって、ここに来るまで どういう生活してたんだ？
 親とかいねぇのか？ 兄弟は？　ダチは？　オトコは？","Hey, I know I've probably asked you this before, but ……
 What kind of life did you have before you came here?
 No parents? Any siblings?　Friends?　Any boyfriends?","Mira, sé que probablemente te he preguntado lo mismo antes, pero… ……
  ¿Qué tipo de vida tenías antes de venir aquí?
  ¿No hay padres? ¿Algún hermano?　¿Amigos?　¿Algún novio?"
-"Fudou Mei (talking)","……前にも同じ事を言わなかったっけ。 身の上話なんざする気はないね。","Didn't I say the same thing before ……? I'm not going to get into a personal story.","¿No dije lo mismo antes de ……? No quiero hablar de mi vida personal."
-"Yamamoto Akuji (talking)","そう言わずに話してみろよ、 おめーがグレた原因とか興味あんだよ。
+Fudou Mei (talking),……前にも同じ事を言わなかったっけ。 身の上話なんざする気はないね。,Didn't I say the same thing before ……? I'm not going to get into a personal story.,¿No dije lo mismo antes de ……? No quiero hablar de mi vida personal.
+Yamamoto Akuji (talking),"そう言わずに話してみろよ、 おめーがグレた原因とか興味あんだよ。
 生まれた時からそんなだった程、 おめーも荒んでた訳じゃねえんだろ？","Don't say that and talk to me. I'm interested in the reason why you became a greedy person.
 You weren't born that way, were you?","No digas eso, habla conmigo, me interesa la razón por la que te convertiste en una persona codiciosa.
 No has nacido así, ¿verdad?"
-"Fudou Mei (talking)","だから訊くなっつってんだろ。 何度も言わせんなよ。
+Fudou Mei (talking),"だから訊くなっつってんだろ。 何度も言わせんなよ。
 オレはもう、昔の事は腹に呑んだまま 墓場まで持っていくって決めてるんだ。","I told you not to ask. Don't make me repeat it.
 I've already decided that I'm going to carry the past with me to my grave.","Por eso te dije que no preguntaras. No me hagas repetirlo.
 Ya he decidido que me voy a llevar el pasado a la tumba."
-"Yamamoto Akuji (talking)","あっそ。","Oh, yeah.","Ah, sí."
-"Fudou Mei (talking)","……そうさ、墓場まで持っていくんだ。","…… Yeah, take it to your grave.","…… Sí, llévatelo a la tumba."
-"Yamamoto Akuji (talking)","ま、俺としちゃあ、 その猫見てりゃ大体想像つくけどなー。","Well, as far as I'm concerned, I can guess what it is by looking at that cat.","Bueno, en lo que a mí respecta, puedo adivinar más o menos mirando a ese gato."
-"Fudou Mei (talking)","………………
+Yamamoto Akuji (talking),あっそ。,"Oh, yeah.","Ah, sí."
+Fudou Mei (talking),……そうさ、墓場まで持っていくんだ。,"…… Yeah, take it to your grave.","…… Sí, llévatelo a la tumba."
+Yamamoto Akuji (talking),ま、俺としちゃあ、 その猫見てりゃ大体想像つくけどなー。,"Well, as far as I'm concerned, I can guess what it is by looking at that cat.","Bueno, en lo que a mí respecta, puedo adivinar más o menos mirando a ese gato."
+Fudou Mei (talking),"………………
 そろそろ、仕事に戻る。","………………
 It's time to get back to work.","………………
 Es hora de volver al trabajo."
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Fudou Mei (talking)","………………","………………","………………"
-"narrator","無言で事務所から出ていく明の顔を、 肩に乗った仔猫が、じっと見つめていた──","As Mei silently walked out of the office, a kitten on her shoulder was staring at her face…","Mientras Mei salía en silencio del despacho, un gatito sobre su hombro le miraba a la cara…"
-" (talking)","ははっ……極道どもが集まって 何してんのかと思ったら、 面白そうな事やってるじゃないか……
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Fudou Mei (talking),………………,………………,………………
+narrator,無言で事務所から出ていく明の顔を、 肩に乗った仔猫が、じっと見つめていた──,"As Mei silently walked out of the office, a kitten on her shoulder was staring at her face…","Mientras Mei salía en silencio del despacho, un gatito sobre su hombro le miraba a la cara…"
+ (talking),"ははっ……極道どもが集まって 何してんのかと思ったら、 面白そうな事やってるじゃないか……
  ……決めたぜ。 オレも参加させてもらう。 丁度退屈してたんだ……！","Hahaha…… I wondered what the hell the gang of extremists were doing together, but they were doing something that looked Haku in your face……
 I've decided to ……. I'm in. I was just bored……","Hahaha…… Me preguntaba qué hacía el grupo de polos juntos, pero están haciendo algo que parece Haku en tu cara……
 He decidido ……. Me apunto. Sólo estaba aburrido……"
-"Yamamoto Akuji (talking)","んーと、不動明が拷問でゲロった 猫の隠し場所っつーのは この辺のハズなんだけどなー。","Well, the cat stash that Fudou Mei tortured into vomiting is supposed to be around here.","Bueno, se supone que el alijo de gatos que Fudou Mei torturó hasta el vómito está en esta zona."
-"Takega Satsu (talking)","うむ。","Mm.","Mm."
-"Yamamoto Akuji (talking)","………何でさっちゃんが一緒なんだよ。","……… Why is Sacchan with you?","……… ¿Por qué está Sacchan contigo?"
-"Takega Satsu (talking)","猫がたくさん居ると言うのでな。","I say there are a lot of cats here.","Yo digo que hay muchos gatos por ahí."
-"Yamamoto Akuji (talking)","猫好きなのか？　さっちゃん。","Do you like cats?　Sacchan.","¿Te gustan los gatos?　Sacchan."
-"Takega Satsu (talking)","嫌いではないな。
+Yamamoto Akuji (talking),んーと、不動明が拷問でゲロった 猫の隠し場所っつーのは この辺のハズなんだけどなー。,"Well, the cat stash that Fudou Mei tortured into vomiting is supposed to be around here.","Bueno, se supone que el alijo de gatos que Fudou Mei torturó hasta el vómito está en esta zona."
+Takega Satsu (talking),うむ。,Mm.,Mm.
+Yamamoto Akuji (talking),………何でさっちゃんが一緒なんだよ。,……… Why is Sacchan with you?,……… ¿Por qué está Sacchan contigo?
+Takega Satsu (talking),猫がたくさん居ると言うのでな。,I say there are a lot of cats here.,Yo digo que hay muchos gatos por ahí.
+Yamamoto Akuji (talking),猫好きなのか？　さっちゃん。,Do you like cats?　Sacchan.,¿Te gustan los gatos?　Sacchan.
+Takega Satsu (talking),"嫌いではないな。
 あと、例の不動明とかいう娘の経歴。 施設に入れるとき必要だったので、 私が部下に指示して少し調べたのだが。","I don't dislike it.
 Also, the background of the girl named Fudou Mei. I instructed my staff to do a little research on her, since it was necessary when we were going to place her in an institution.","No me desagrada.
 También, el fondo de la chica Fudou Mei, por ejemplo. Di instrucciones a mi gente para que investigara un poco sobre ella, porque la necesitábamos cuando la metimos en la institución."
-"Yamamoto Akuji (talking)","？","？","？"
-"Takega Satsu (talking)","妾腹で、家に寄りつかぬ父親。 ……彼女も私と同じなのだ。
+Yamamoto Akuji (talking),？,？,？
+Takega Satsu (talking),"妾腹で、家に寄りつかぬ父親。 ……彼女も私と同じなのだ。
 ただ違うのは、彼女の父親が 私の親父殿のような豪傑ではなく、 情けない裏切り者だったという事だ。
 彼女がいわゆる不良になった原因は、 ここにあると見てよかろうな。","She is a concubine and a father who never comes home. She is just like me.
 The only difference is that her father was a pathetic backstabber, not a hero like my father.
 I think this is the reason why she became what you call a delinquent.","Es una concubina y un padre que nunca vuelve a casa…… Es igual que yo.
 La única diferencia es que su padre era un patético apuñalador por la espalda, no un valiente héroe como mi padre.
 Puedo ver aquí la causa de su supuesta delincuencia."
-"Yamamoto Akuji (talking)","なんだ、そりゃ。","What's that?","¿Qué es eso?"
-"Takega Satsu (talking)","戦前の株価暴落のおり、 金に困った彼女の父親は 幼かった彼女を軍に売ったらしい。
+Yamamoto Akuji (talking),なんだ、そりゃ。,What's that?,¿Qué es eso?
+Takega Satsu (talking),"戦前の株価暴落のおり、 金に困った彼女の父親は 幼かった彼女を軍に売ったらしい。
 意味は解るな？","During the stock market crash before the war, her father, who was in need of money, sold her to the army as a young girl.
 You know what I mean?","Al parecer, durante la crisis bursátil de antes de la guerra, su padre, ávido de dinero, la vendió de pequeña al ejército.
  ¿Sabes a qué me refiero?"
-"Yamamoto Akuji (talking)","……慰安か。","…… comfort?","…… confort."
-"Takega Satsu (talking)","そういう事だ。
+Yamamoto Akuji (talking),……慰安か。,…… comfort?,…… confort.
+Takega Satsu (talking),"そういう事だ。
 何せ戦争状態だったのだ、 私も巡り合わせが悪ければ 同じ運命になっていたやもしれん。
 そう思うと、あの不動明が どうも他人と思えなくなってしまった。
 同情という柄でもないのだがな。","That's what I mean.
@@ -1454,15 +1454,15 @@ I don't even feel sympathy for him.","Esa es la cuestión.
 Al fin y al cabo, estábamos en guerra y yo podría haber corrido la misma suerte si me hubiera ido mal.
 Cuando lo pienso, ya no puedo considerar a ese Fudou Mei un extraño.
 Pero ni siquiera es una cuestión de simpatía."
-"Yamamoto Akuji (talking)","…………ふ~ん……","………… hmmm ……","…………fn……"
-"Takega Satsu (talking)","まあ、猫を捜すとなれば 人手も要るだろう？","Well, if you're looking for a cat, you're going to need some help, aren't you?","Bueno, si estás buscando un gato, vas a necesitar algo de ayuda, ¿no?"
-"Yamamoto Akuji (talking)","別に猫なんざどーでもいいんだがなー。","I don't really care about cats.","Realmente no me importan los gatos."
-"Takega Satsu (talking)","そう言うな、経緯や結果はどうあれ 拷問までして聞き出した情報だ。","Don't say that. Regardless of how it happened or what the outcome was, we tortured him to get this information out of him.","No digas que, sean cuales sean las circunstancias y las consecuencias, los torturamos para sacarles esta información."
-"Yamamoto Akuji (talking)","まあ、そりゃそうなんだが。","Well, that's right.","Así es."
-"narrator","　　［にゃ~……にゃああ……］","[nya~…… nyaaaa……]","[nyaa~…… nyaa……]"
-"Yamamoto Akuji (talking)","？　微かに猫の鳴き声がしたな。","?　You heard a faint cat meow.","?　Oíste un débil maullido de gato."
-"Takega Satsu (talking)","うむ、この茂みの中だ……","Mm, it's in this bush: ……","Mm, en este arbusto……"
-"narrator","そうして、殺が茂みをかき分ける。
+Yamamoto Akuji (talking),…………ふ~ん……,………… hmmm ……,…………fn……
+Takega Satsu (talking),まあ、猫を捜すとなれば 人手も要るだろう？,"Well, if you're looking for a cat, you're going to need some help, aren't you?","Bueno, si estás buscando un gato, vas a necesitar algo de ayuda, ¿no?"
+Yamamoto Akuji (talking),別に猫なんざどーでもいいんだがなー。,I don't really care about cats.,Realmente no me importan los gatos.
+Takega Satsu (talking),そう言うな、経緯や結果はどうあれ 拷問までして聞き出した情報だ。,"Don't say that. Regardless of how it happened or what the outcome was, we tortured him to get this information out of him.","No digas que, sean cuales sean las circunstancias y las consecuencias, los torturamos para sacarles esta información."
+Yamamoto Akuji (talking),まあ、そりゃそうなんだが。,"Well, that's right.",Así es.
+narrator,　　［にゃ~……にゃああ……］,[nya~…… nyaaaa……],[nyaa~…… nyaa……]
+Yamamoto Akuji (talking),？　微かに猫の鳴き声がしたな。,?　You heard a faint cat meow.,?　Oíste un débil maullido de gato.
+Takega Satsu (talking),うむ、この茂みの中だ……,"Mm, it's in this bush: ……","Mm, en este arbusto……"
+narrator,"そうして、殺が茂みをかき分ける。
 そこには、確かに猫がいた。 廃材やブロックで囲った獣除けの小さな空間に、 仔猫ばかりが二十匹ほど。
 だが、明が餌をやらなくなって 随分経ったせいで、どの猫も相当衰弱していた。
  ──いや、衰弱しているどころか、 とうに死んでいるものも少なくはなさそうだった。","Then Satsu wades through the bushes.
@@ -1472,26 +1472,26 @@ No, not only weak, but many of them seemed to be dead by now.","Y así Satsu vad
 Efectivamente, allí había gatos. En un pequeño espacio rodeado de madera de desecho y bloques para mantener alejados a los animales, había unos 20 gatitos.
 Sin embargo, como Mei había dejado de alimentarlos durante bastante tiempo, todos los gatos estaban bastante demacrados.
 No, no sólo débil, sino que parecía que no pocos de ellos ya habían muerto."
-"Yamamoto Akuji (talking)","…………何だかなぁ……
+Yamamoto Akuji (talking),"…………何だかなぁ……
 見ない方が良かったな、こりゃ。 帰ろう。","I wonder what………… is ……
 I shouldn't have watched this. Let's go home.","………… qué es esto ……
 No debí haber visto esto, maldita sea. Vamos a casa."
-"Takega Satsu (talking)","拾って帰らぬのか？","Why don't you just pick it up and go home?","¿Por qué no lo recoges y te vas?"
-"Yamamoto Akuji (talking)","んなことする気はねえよ。 第一、ほとんど死んでるじゃねえか。
+Takega Satsu (talking),拾って帰らぬのか？,Why don't you just pick it up and go home?,¿Por qué no lo recoges y te vas?
+Yamamoto Akuji (talking),"んなことする気はねえよ。 第一、ほとんど死んでるじゃねえか。
 んな捨て猫にいちいち情けをかけてたら キリがねえよ、帰ろうぜ。","I'm not going to do that. First of all, most of them are dead.
 If we take pity on abandoned cats, there's no end to it, let's go home.","No voy a hacer eso. En primer lugar, la mayoría de ellos están muertos.
 Si nos apiadamos así de los gatos abandonados, no hay fin, vamos a casa."
-"Takega Satsu (talking)","やれやれ…… 身内には割と優しいくせに、 こういう所はドライなのだな。","Oh dear…… You are rather nice to your relatives, but you are dry in this kind of place.","Por favor…… Eres bastante amable con tu gente, pero estás seco en estos lugares."
-"narrator","　　［にゃー……にゃあ…………］","[nyah…… nyah …………]","[Nya…… Nya …………]"
-"Takega Satsu (talking)","案ずるな、私が連れ帰ってやる。 動ける者はこちらに来い。
+Takega Satsu (talking),やれやれ…… 身内には割と優しいくせに、 こういう所はドライなのだな。,"Oh dear…… You are rather nice to your relatives, but you are dry in this kind of place.","Por favor…… Eres bastante amable con tu gente, pero estás seco en estos lugares."
+narrator,　　［にゃー……にゃあ…………］,[nyah…… nyah …………],[Nya…… Nya …………]
+Takega Satsu (talking),"案ずるな、私が連れ帰ってやる。 動ける者はこちらに来い。
  ………………む？","Don't worry, I will bring you back. Those who can move, come here.……………… Mm?","No te preocupes, te traeré de vuelta. Los que puedan moverse, que vengan aquí.……………… ¿Mm?"
-"narrator","　　［にゃー……にゃあ…………］","[nyah…… nyah …………]","[Nya…… Nya …………]"
-"Takega Satsu (talking)","…………ほう……
+narrator,　　［にゃー……にゃあ…………］,[nyah…… nyah …………],[Nya…… Nya …………]
+Takega Satsu (talking),"…………ほう……
 これは驚いた……もしやこの中には 当たりが居るかもしれんな。","………… method……
 This is a surprise……If I'm right about this one, I might be right about one of them.","………… método……
 Esto me sorprendió…… Si tuviera que adivinar, podría haber acertado con uno de estos."
-"narrator","明は、路地裏でフェンスを背にして 加えた煙草にそっと火をつけた。","Mei gently lit a cigarette he had added against a fence in a back alley.","Mei encendió suavemente el cigarrillo que había añadido contra la valla del callejón."
-"Fudou Mei (talking)","…………………… 不味い……な……
+narrator,明は、路地裏でフェンスを背にして 加えた煙草にそっと火をつけた。,Mei gently lit a cigarette he had added against a fence in a back alley.,Mei encendió suavemente el cigarrillo que había añadido contra la valla del callejón.
+Fudou Mei (talking),"…………………… 不味い……な……
  ＜仔猫＞ 　にゃー……
 ああ、悪いな。 少し煙たかったか。
  ………………
@@ -1519,4 +1519,4 @@ No puedo creer que todavía me den el trabajo del Cuerpo de Servicio Juvenil…�
 No te preocupes por ……. Estaré bien.
 No me he aburrido en absoluto desde que me mudé con él.
 Mientras no cambie mucho de opinión, le dejaré jugar con el Grupo Juvenil de Servicio……"
-" (talking)","出てくんなよ…… うざってえッ！！","Don't come on out of there…… You're annoying!","No salgas, ……, ¡eres molesto!"
+ (talking),出てくんなよ…… うざってえッ！！,Don't come on out of there…… You're annoying!,"No salgas, ……, ¡eres molesto!"

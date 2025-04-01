@@ -1,141 +1,141 @@
-"character","jap text","Eng","Esp"
-"__system__??","{G捕虜数 = 0:","",""
-"__system__??","}","",""
-"__system__??","{●ＥＸ \ 0:","",""
-"__system__??","}","",""
-"__system__??","{(☆日陰 = 5) * (☆日陰カウンター > 120):","",""
-"__system__??","}","",""
-"__system__??","{(☆日陰 = 4) * (☆日陰カウンター > 100):","",""
-"__system__??","}","",""
-"__system__??","{(☆日陰 = 3) * (☆日陰カウンター > 80):","",""
-"__system__??","}","",""
-"__system__??","{(☆日陰 = 2) * (☆日陰カウンター > 60):","",""
-"__system__??","}","",""
-"__system__??","{(☆日陰 = 1) * (☆日陰カウンター > 40):","",""
-"__system__??","}","",""
-"__system__??","{☆日陰 = 0:","",""
-"__system__??","}","",""
-"__system__??","{D19 = 0:","",""
-"__system__??","}","",""
-"__system__??","{(H捕虜期間 = 0) * (Hキャラ > 500) * (RND = 1) * (H拷問抵抗 = 99) * (H性別 \ 2):","",""
-"__system__??","{(Hキャラ = 530) + (Hキャラ = 522):","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{HＳＰ番号 = 0:","",""
-"__system__??","{(☆日陰動物カウンター > 10) * (I装備[27] = 99):","",""
-"__system__??","}","",""
-"__system__??","{(☆日陰動物カウンター > 30) * (I装備[28] = 99):","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{Hキャラ > 500:","",""
-"__system__??","}","",""
-"__system__??","{H捕虜期間 = 1:","",""
-"__system__??","}","",""
-"__system__??","{H捕虜期間 \ 1:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 9:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 1:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 2:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 3:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 4:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 5:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 10:","",""
-"__system__??","}","",""
-"narrator","　　捕虜　　","prisoner (of war)","prisionero (de guerra)"
-"narrator","　　","　　","　　"
-"narrator","週目","-week number","-semana 3"
-"__system__??","{H物欲 \ 0:","",""
-"narrator","懐柔（","Kaiju (","Kaiju ("
-"narrator","回）","(Times)","(Times)"
-"__system__??","}","",""
-"__system__??","{H拷問 \ 0:","",""
-"narrator","　拷問（","Torture.","La tortura ("
-"narrator","回）","(Times)","(Times)"
-"__system__??","}","",""
-"__system__??","{H愛欲 \ 0:","",""
-"narrator","　こまし（","Japanese robin (Erithacus akahige)","Petirrojo japonés (Erithacus akahige)"
-"narrator","回）","(Times)","(Times)"
-"__system__??","}","",""
-"__system__??","{H性別 = 1:","",""
-"menu_label__(L_00773)","　こます","trout","trucha"
-"__system__??","}","",""
-"menu_label__(L_0084b)","　懐柔","placation","colocación"
-"__system__??","{(H拷問抵抗 \ 0) * (H拷問抵抗 \ 99):","",""
-"menu_label__(L_008be)","　拷問","torture","tortura"
-"__system__??","}","",""
-"menu_label__(L_009f2)","　始末","　End","　Fin"
-"__system__??","{(H性別 = 1) * (★調教 = 3):","",""
-"menu_label__(L_008f9)","調教の館送り","The training house feed.","Despedida de la casa de formación"
-"__system__??","}","",""
-"__system__??","{(H性別 = 1) * (☆ギャルバーガー > 1):","",""
-"menu_label__(L_0094c)","ＧＡＬバ送り","GALVA","GALVA"
-"__system__??","}","",""
-"__system__??","{(H性別 \ 2) * (★★市議会 \ 5) * (★★市議会 \ 6):","",""
-"menu_label__(L_00a43)","　刑務所行き","gaol sentence","sentencia de prisión"
-"__system__??","}","",""
-"__system__??","{(H性別 = 2) * (●ＥＸ = 0):","",""
-"menu_label__(L_00a94)","　動物園行き","Zoo Going","zookeeper"
-"__system__??","}","",""
-"narrator","　捕虜番号　","POW number","Número POW"
-"narrator","　キャラ（","Character (","Carácter (ver."
-"narrator","） 　ＳＰ　（","） 　ＳＰ　（","） 　ＳＰ　（"
-"narrator","）","）","）"
-"__system__??","{Hキャラ > 500:","",""
-"__system__??","}","",""
-"__system__??","{Hキャラ > 500:","",""
-"__system__??","}","",""
-"__system__??","{Hキャラ > 500:","",""
-"__system__??","}","",""
-"__system__??","{Hキャラ > 500:","",""
-"__system__??","}","",""
-"__system__??","{Hキャラ > 500:","",""
-"__system__??","}","",""
-"__system__??","{★結婚 = 1:","",""
-"__system__??","}","",""
-"__system__??","{Hキャラ = 86:","",""
-"narrator","突然、悪司はおなかが痛くなった。 野生の勘が危険を感じたのだろうか…","Suddenly, Akuji got a stomach ache. I wonder if his wild instincts sensed danger…","De repente, a Akuji le dolió el estómago. ¿Sus instintos salvajes percibieron un peligro…"
-"__system__??","}","",""
-"__system__??","{RETURN = 1:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 2:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 3:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 4:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 1:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 2:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 3:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 4:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 10:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 1:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 99:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 1:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 99:","",""
-"__system__??","}","",""
-"__system__??","{Hキャラ < 500:","",""
-"__system__??","}","",""
-"__system__??","{Hキャラ = 86:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 101:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 101:","",""
-"__system__??","}","",""
-"__system__??","{(☆日陰動物カウンター > 10) * (I装備[27] = 99):","",""
-"__system__??","}","",""
-"__system__??","{(☆日陰動物カウンター > 30) * (I装備[28] = 99):","",""
-"__system__??","}","",""
+character,jap text,Eng,Esp
+__system__??,{G捕虜数 = 0:,,
+__system__??,},,
+__system__??,{●ＥＸ \ 0:,,
+__system__??,},,
+__system__??,{(☆日陰 = 5) * (☆日陰カウンター > 120):,,
+__system__??,},,
+__system__??,{(☆日陰 = 4) * (☆日陰カウンター > 100):,,
+__system__??,},,
+__system__??,{(☆日陰 = 3) * (☆日陰カウンター > 80):,,
+__system__??,},,
+__system__??,{(☆日陰 = 2) * (☆日陰カウンター > 60):,,
+__system__??,},,
+__system__??,{(☆日陰 = 1) * (☆日陰カウンター > 40):,,
+__system__??,},,
+__system__??,{☆日陰 = 0:,,
+__system__??,},,
+__system__??,{D19 = 0:,,
+__system__??,},,
+__system__??,{(H捕虜期間 = 0) * (Hキャラ > 500) * (RND = 1) * (H拷問抵抗 = 99) * (H性別 \ 2):,,
+__system__??,{(Hキャラ = 530) + (Hキャラ = 522):,,
+__system__??,},,
+__system__??,},,
+__system__??,{HＳＰ番号 = 0:,,
+__system__??,{(☆日陰動物カウンター > 10) * (I装備[27] = 99):,,
+__system__??,},,
+__system__??,{(☆日陰動物カウンター > 30) * (I装備[28] = 99):,,
+__system__??,},,
+__system__??,},,
+__system__??,{Hキャラ > 500:,,
+__system__??,},,
+__system__??,{H捕虜期間 = 1:,,
+__system__??,},,
+__system__??,{H捕虜期間 \ 1:,,
+__system__??,},,
+__system__??,{RETURN = 9:,,
+__system__??,},,
+__system__??,{RETURN = 1:,,
+__system__??,},,
+__system__??,{RETURN = 2:,,
+__system__??,},,
+__system__??,{RETURN = 3:,,
+__system__??,},,
+__system__??,{RETURN = 4:,,
+__system__??,},,
+__system__??,{RETURN = 5:,,
+__system__??,},,
+__system__??,{RETURN = 10:,,
+__system__??,},,
+narrator,　　捕虜　　,prisoner (of war),prisionero (de guerra)
+narrator,　　,　　,　　
+narrator,週目,-week number,-semana 3
+__system__??,{H物欲 \ 0:,,
+narrator,懐柔（,Kaiju (,Kaiju (
+narrator,回）,(Times),(Times)
+__system__??,},,
+__system__??,{H拷問 \ 0:,,
+narrator,　拷問（,Torture.,La tortura (
+narrator,回）,(Times),(Times)
+__system__??,},,
+__system__??,{H愛欲 \ 0:,,
+narrator,　こまし（,Japanese robin (Erithacus akahige),Petirrojo japonés (Erithacus akahige)
+narrator,回）,(Times),(Times)
+__system__??,},,
+__system__??,{H性別 = 1:,,
+menu_label__(L_00773),　こます,trout,trucha
+__system__??,},,
+menu_label__(L_0084b),　懐柔,placation,colocación
+__system__??,{(H拷問抵抗 \ 0) * (H拷問抵抗 \ 99):,,
+menu_label__(L_008be),　拷問,torture,tortura
+__system__??,},,
+menu_label__(L_009f2),　始末,　End,　Fin
+__system__??,{(H性別 = 1) * (★調教 = 3):,,
+menu_label__(L_008f9),調教の館送り,The training house feed.,Despedida de la casa de formación
+__system__??,},,
+__system__??,{(H性別 = 1) * (☆ギャルバーガー > 1):,,
+menu_label__(L_0094c),ＧＡＬバ送り,GALVA,GALVA
+__system__??,},,
+__system__??,{(H性別 \ 2) * (★★市議会 \ 5) * (★★市議会 \ 6):,,
+menu_label__(L_00a43),　刑務所行き,gaol sentence,sentencia de prisión
+__system__??,},,
+__system__??,{(H性別 = 2) * (●ＥＸ = 0):,,
+menu_label__(L_00a94),　動物園行き,Zoo Going,zookeeper
+__system__??,},,
+narrator,　捕虜番号　,POW number,Número POW
+narrator,　キャラ（,Character (,Carácter (ver.
+narrator,） 　ＳＰ　（,） 　ＳＰ　（,） 　ＳＰ　（
+narrator,）,）,）
+__system__??,{Hキャラ > 500:,,
+__system__??,},,
+__system__??,{Hキャラ > 500:,,
+__system__??,},,
+__system__??,{Hキャラ > 500:,,
+__system__??,},,
+__system__??,{Hキャラ > 500:,,
+__system__??,},,
+__system__??,{Hキャラ > 500:,,
+__system__??,},,
+__system__??,{★結婚 = 1:,,
+__system__??,},,
+__system__??,{Hキャラ = 86:,,
+narrator,突然、悪司はおなかが痛くなった。 野生の勘が危険を感じたのだろうか…,"Suddenly, Akuji got a stomach ache. I wonder if his wild instincts sensed danger…","De repente, a Akuji le dolió el estómago. ¿Sus instintos salvajes percibieron un peligro…"
+__system__??,},,
+__system__??,{RETURN = 1:,,
+__system__??,},,
+__system__??,{RETURN = 2:,,
+__system__??,},,
+__system__??,{RETURN = 3:,,
+__system__??,},,
+__system__??,{RETURN = 4:,,
+__system__??,},,
+__system__??,{RETURN = 1:,,
+__system__??,},,
+__system__??,{RETURN = 2:,,
+__system__??,},,
+__system__??,{RETURN = 3:,,
+__system__??,},,
+__system__??,{RETURN = 4:,,
+__system__??,},,
+__system__??,{RETURN = 10:,,
+__system__??,},,
+__system__??,{RETURN = 1:,,
+__system__??,},,
+__system__??,{RETURN = 99:,,
+__system__??,},,
+__system__??,{RETURN = 1:,,
+__system__??,},,
+__system__??,{RETURN = 99:,,
+__system__??,},,
+__system__??,{Hキャラ < 500:,,
+__system__??,},,
+__system__??,{Hキャラ = 86:,,
+__system__??,},,
+__system__??,{RETURN = 101:,,
+__system__??,},,
+__system__??,{RETURN = 101:,,
+__system__??,},,
+__system__??,{(☆日陰動物カウンター > 10) * (I装備[27] = 99):,,
+__system__??,},,
+__system__??,{(☆日陰動物カウンター > 30) * (I装備[28] = 99):,,
+__system__??,},,

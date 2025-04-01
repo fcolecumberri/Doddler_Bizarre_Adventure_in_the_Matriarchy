@@ -1,182 +1,182 @@
-"character","jap text","Eng","Esp"
-"__system__??","{麦 = 1:","",""
-"__system__??","{☆イルラカムイ = 2:","",""
-"__system__??","}","",""
-"__system__??","{☆イルラカムイ = 6:","",""
-"__system__??","}","",""
-"__system__??","{☆イルラカムイ = 7:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 3:","",""
-"__system__??","}","",""
-"Ilulakamui (talking)","呼んだか、悪司。","You wanted to see me, Akuji.","Querías verme, Akuji."
-"Yamamoto Akuji (talking)","お、ああ。 どーだい？ 本土の生活は？","Oh, yeah. How's life? How's life on the mainland?","Ah, sí. ¿Cómo es la vida? ¿Cómo es la vida en el continente?"
-"Ilulakamui (talking)","緑が少ないな。 機械が多い。","Not a lot of greenery. Lots of machinery.","No hay mucha vegetación. Mucha maquinaria."
-"Yamamoto Akuji (talking)","特にここはゴミゴミしてっからなー。
+character,jap text,Eng,Esp
+__system__??,{麦 = 1:,,
+__system__??,{☆イルラカムイ = 2:,,
+__system__??,},,
+__system__??,{☆イルラカムイ = 6:,,
+__system__??,},,
+__system__??,{☆イルラカムイ = 7:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 3:,,
+__system__??,},,
+Ilulakamui (talking),呼んだか、悪司。,"You wanted to see me, Akuji.","Querías verme, Akuji."
+Yamamoto Akuji (talking),お、ああ。 どーだい？ 本土の生活は？,"Oh, yeah. How's life? How's life on the mainland?","Ah, sí. ¿Cómo es la vida? ¿Cómo es la vida en el continente?"
+Ilulakamui (talking),緑が少ないな。 機械が多い。,Not a lot of greenery. Lots of machinery.,No hay mucha vegetación. Mucha maquinaria.
+Yamamoto Akuji (talking),"特にここはゴミゴミしてっからなー。
 あ、そーいや、あんたの事をあんたの村で 聞いてた時に、英雄って呼んでた奴が 多かったけどよ。","Especially since it's so trashy here.
 Oh, and by the way, when I heard about you in your village, a lot of people called you a hero.","Sobre todo porque aquí es una porquería.
 Oh, bueno, cuando escuché sobre ti en tu pueblo, mucha gente te llamó héroe."
-"Ilulakamui (talking)","英雄はおおげさだ。 ただ、自分に出来る事をしただけだ。","Heroism is overrated. I just did what I could do.","Los héroes son exagerados. Sólo hice lo que podía hacer."
-"Yamamoto Akuji (talking)","何したんだい？","What did you do?","¿Qué has hecho?"
-"Ilulakamui (talking)","蜂に襲われ、おかしくなった熊が、 村の中に入ってきた。 それを倒した。
+Ilulakamui (talking),英雄はおおげさだ。 ただ、自分に出来る事をしただけだ。,Heroism is overrated. I just did what I could do.,Los héroes son exagerados. Sólo hice lo que podía hacer.
+Yamamoto Akuji (talking),何したんだい？,What did you do?,¿Qué has hecho?
+Ilulakamui (talking),"蜂に襲われ、おかしくなった熊が、 村の中に入ってきた。 それを倒した。
 戦争によって生まれた盗賊を退治した。 そのような細かな事を片付けた。","A bee attacked a bear, which went crazy and came into the village. We defeated it.
 We exterminated bandits born from the war. We took care of such small things.","Un oso desquiciado y atacado por abejas entró en el pueblo. Lo derrotamos.
 Matamos a los bandidos que había creado la guerra. Aclaramos esos asuntos menores."
-"Yamamoto Akuji (talking)","そりゃ、英雄じゃねーか。","Well, that's a hero, isn't it?","Bueno, eso es un héroe, ¿no?"
-"Ilulakamui (talking)","だが、自分の婚約者一人、救えない。","But I can't save one of my own fiancées.","Pero no puedo salvar a una persona, mi propia prometida."
-"Yamamoto Akuji (talking)","そーいや、そんなに強いのに 人さらいに対してはどーしよーも なかったのか？","So, you're that strong, but you couldn't do anything about kidnappers?","¿Así que eres muy fuerte, pero no pudiste hacer nada contra los secuestradores?"
-"Ilulakamui (talking)","その時、遠くの狩り場まで狩りに 出ていたので、村にいなかった。
+Yamamoto Akuji (talking),そりゃ、英雄じゃねーか。,"Well, that's a hero, isn't it?","Bueno, eso es un héroe, ¿no?"
+Ilulakamui (talking),だが、自分の婚約者一人、救えない。,But I can't save one of my own fiancées.,"Pero no puedo salvar a una persona, mi propia prometida."
+Yamamoto Akuji (talking),そーいや、そんなに強いのに 人さらいに対してはどーしよーも なかったのか？,"So, you're that strong, but you couldn't do anything about kidnappers?","¿Así que eres muy fuerte, pero no pudiste hacer nada contra los secuestradores?"
+Ilulakamui (talking),"その時、遠くの狩り場まで狩りに 出ていたので、村にいなかった。
 俺が帰ってきたのは、ウパスが 誘拐されて、３日後の事だった。","I was not in the village at the time because I was out hunting to a distant hunting ground.
 I returned three days after Upasu was kidnapped.","Yo no estaba en el pueblo en ese momento porque había salido a cazar a un coto de caza lejano.
 Regresé tres días después de que Upasu fuera secuestrado."
-"Yamamoto Akuji (talking)","そりゃー…どーしよーもねーなー。","Well…that's…nothing I can do about it.","Bueno… eso… no es manera de hacerlo."
-"Ilulakamui (talking)","村に入る為に手引きした者は捕まえた。 そいつが本土の人買いにウパスを さらうようにそそのかしたそうだ。","We caught the person who helped him to enter the village. He said that he had persuaded the mainland traffickers to kidnap Upasu.","Atrapamos a la persona que le ayudó a entrar en el pueblo. Dijo que había persuadido a los traficantes del continente para que se llevaran a Upasu."
-"Yamamoto Akuji (talking)","見つかるといいな。","Good luck finding it.","Buena suerte para encontrarlos."
-"Ilulakamui (talking)","そうじゃない。","It doesn't.","No es así."
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"Ilulakamui (talking)","見つけるんだ。","Find it.","Hallazgo."
-"Ilulakamui (talking)","悪司、用事なら手短に済ませて 貰ってよいか？
+Yamamoto Akuji (talking),そりゃー…どーしよーもねーなー。,Well…that's…nothing I can do about it.,Bueno… eso… no es manera de hacerlo.
+Ilulakamui (talking),村に入る為に手引きした者は捕まえた。 そいつが本土の人買いにウパスを さらうようにそそのかしたそうだ。,We caught the person who helped him to enter the village. He said that he had persuaded the mainland traffickers to kidnap Upasu.,Atrapamos a la persona que le ayudó a entrar en el pueblo. Dijo que había persuadido a los traficantes del continente para que se llevaran a Upasu.
+Yamamoto Akuji (talking),見つかるといいな。,Good luck finding it.,Buena suerte para encontrarlos.
+Ilulakamui (talking),そうじゃない。,It doesn't.,No es así.
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+Ilulakamui (talking),見つけるんだ。,Find it.,Hallazgo.
+Ilulakamui (talking),"悪司、用事なら手短に済ませて 貰ってよいか？
 日があるうちは外でウパスの事を 尋ねたいのだ。","Akuji, if you need me, can I ask you to make it quick?
 I want to ask about Upasu outside while there is still daylight.","Akuji, si tienes asuntos que hacer, ¿puedo pedirte que lo hagas rápido?
 Quiero preguntar por Upasu fuera mientras aún hay luz de día."
-"Yamamoto Akuji (talking)","あー……じゃあ、俺からのプレゼントは いらねーってか？","Uh,…… so you don't want a present from me?","Ah…… ¿Así que no quieres un regalo de mi parte?"
-"Ilulakamui (talking)","プレ……ゼント？","Pre-…… zent?","¿Pre-……zent?"
-"Yamamoto Akuji (talking)","おう、この声に聞き覚えがあるんなら、 こっちきな。","Hey, if you recognize this voice, come here.","Oye, si reconoces esta voz, ven aquí."
-"narrator","悪司は隣りの部屋に向かってそう言った。","Akuji said to the next room.","Akuji dijo esto a la habitación de al lado."
-"Ilulakamui (talking)","…………？","…………？","…………？"
-"Ilulakamui (talking)","っ………
+Yamamoto Akuji (talking),あー……じゃあ、俺からのプレゼントは いらねーってか？,"Uh,…… so you don't want a present from me?",Ah…… ¿Así que no quieres un regalo de mi parte?
+Ilulakamui (talking),プレ……ゼント？,Pre-…… zent?,¿Pre-……zent?
+Yamamoto Akuji (talking),おう、この声に聞き覚えがあるんなら、 こっちきな。,"Hey, if you recognize this voice, come here.","Oye, si reconoces esta voz, ven aquí."
+narrator,悪司は隣りの部屋に向かってそう言った。,Akuji said to the next room.,Akuji dijo esto a la habitación de al lado.
+Ilulakamui (talking),…………？,…………？,…………？
+Ilulakamui (talking),"っ………
  ……ウ…パス……？","………
- ……U…pass ……?","…………… u… pasar ……?"
-"Upasu (talking)","イルラカムイ……
+ ……U…pass ……?",…………… u… pasar ……?
+Upasu (talking),"イルラカムイ……
 本当に、イルラカムイなのねっ……？","Ilulakamui……
 Really, it's Ilulakamui isn't it ……?","Ilulakamui……
  ¿Eres realmente Ilulakamui, ……?"
-"Ilulakamui (talking)","ウパスっ……ウパス！！","Upasu!!! ……Upasu!!!","Upasu!!!……Upasu!!!"
-"Upasu (talking)","ああっ……！！","Ahhhh ……!","¡Ahhh ……!"
-"narrator","イルラカムイはウパスの小さな躰を 胸の中に抱き入れた。","Ilulakamui held Upasu's small body in his chest.","Ilulakamui sostuvo el pequeño cuerpo de Upasu en su pecho."
-"Ilulakamui (talking)","オオオっ…！！ 本当にウパスだ！！ ウパス！！","Ooooh…! It's really Upasu! It's really Upasu!","¡Ooooh…! ¡Es realmente Upasu! ¡Es realmente Upasu!"
-"Upasu (talking)","ああっ……嘘みたい…… まさか…… 生きて会えるなんてっ…！","Oh,…… I can't believe…… I never thought I'd see you…… alive…!","Oh,…… No puedo creerlo…… ¡Nunca pensé que te vería vivo…!"
-"Ilulakamui (talking)","悪司……","Akuji……","Akuji……"
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"Ilulakamui (talking)","ありがとう、感謝する。","Thank you, I appreciate it.","Gracias, se lo agradezco."
-"Yamamoto Akuji (talking)","まー約束してたかんな。","Well, I don't know if I promised.","Bueno, no sé si lo prometí."
-"Ilulakamui (talking)","この恩義、出来る限り俺は報いる。","I will repay this favor to the best of my ability.","Le devolveré este favor lo mejor que pueda."
-"Yamamoto Akuji (talking)","そーしてくれや。 俺はこのセンソー、 絶対に勝ちたいんでな。","Please do that. I want to win this Sensou for sure.","Por favor, hazlo. Quiero ganar este Senso seguro."
-"Ilulakamui (talking)","わかった。","I understand.","Entendido."
-"Ilulakamui (talking)","すまん、呼び出されていたが、 外にいた。","Sorry, I was called away, but I was outside.","Lo siento, me llamaron, pero estaba fuera."
-"Yamamoto Akuji (talking)","探しにいってたのか。","You went looking for it.","Fuiste a buscarlo."
-"Ilulakamui (talking)","ああ。","Oh.","Oh."
-"Yamamoto Akuji (talking)","その顔だったら、ダメそうだったか。","If it was that face, did it look like a no-no?","Si tuvieras esa cara, ¿te parecería un no-no?"
-"Ilulakamui (talking)","ああ。 だけど、諦めない。","Oh. But I'm not giving up.","Oh. Pero no me voy a rendir."
-"narrator","悪司は週刊ホーキセを呼んでいる。","Akuji calls the weekly Hokies.","Akuji convoca el Hokise semanal."
-"Yamamoto Akuji (talking)","ＯＬの処女当てねー…… こんなモンも娯楽になんのかねー。","I wonder if this kind of thing is also a form of entertainment.","Adivinanzas de virginidad para oficinistas…… No sé si este tipo de cosas también son entretenidas."
-"Upasu (talking)","ほら、お待たせしてしまっているわ、 イルラカムイ。 駄目よ……","There you go, I've kept you waiting, Ilulakamui. No……","Mira, te hemos hecho esperar, Ilulakamui. No……"
-"Ilulakamui (talking)","駄目だ。 俺のそばから離れないでくれ。","No. Don't leave my side.","No. No te vayas de mi lado."
-"Yamamoto Akuji (talking)","何やってんだ、おめーら。","What are you doing, guys?","¿Qué estáis haciendo, chicos?"
-"Upasu (talking)","すみません、悪司さん… この人、私から離れるのがいやだと…","Sorry, Akuji… this guy doesn't want to leave me…","Lo siento, Akuji… este tipo no quiere dejarme…"
-"Ilulakamui (talking)","今でも夢に見るんだ。 お前がいなくなった時の事を。","I still dream about it. I still dream about the time when you were gone.","Todavía sueño con ello. Sobre el tiempo en que te fuiste."
-"Yamamoto Akuji (talking)","あのよー、この敷地にいる限り、 ウパスに手出しする奴はいないって。 そんな心配すんなよ。","Hey, you know, no one is going to mess with Upasu as long as he's on this property. Don't worry about that.","Mientras estemos en esta propiedad, nadie se va a meter con Upasu. No te preocupes por eso."
-"Ilulakamui (talking)","しかし……","But ……","Pero ……"
-"Upasu (talking)","ホント、おっきな子供なんです。 もっと言ってあげて下さい。","Really, he's a big kid. Please tell him more.","Realmente, es un niño grande. Por favor, dígale más."
-"Ilulakamui (talking)","ウパスまで……","…… until Upasu","Hasta Upasu ……"
-"Yamamoto Akuji (talking)","奥さん、悪いけど、席はずしててくんな。 さっちゃんと遊んでてくれや。","Excuse me, ma'am, but you're going to have to leave. Go play with your son.","Lo siento, señora, pero va a tener que irse. Ve a jugar con tu hijo."
-"Upasu (talking)","はい、悪司さん。 それじゃあ、しっかりお仕事してね。 イルラカムイ。","Yes, Akuji. Well then, work hard. Ilulakamui.","Sí, señor Akuji. Pues bien, trabaja bien. Ilulakamui."
-"Ilulakamui (talking)","あ、ああ……","Oh, oh ……","Oh, oh ……"
-"Yamamoto Akuji (talking)","お前さんも心配すんのはいいけど、 ほどほどにな。","It's all right for you to worry, but not too much.","También está bien que te preocupes, pero con moderación."
-"Ilulakamui (talking)","……う、うむ……","…… um, um ……","…… um, um ……"
-"Yamamoto Akuji (talking)","今俺が出来る精一杯の気持ちだ。 受け取ってくれるかい？","It's the best I can do right now. Will you accept it?","Es lo mejor que puedo hacer en este momento. ¿Lo aceptarás?"
-"Ilulakamui (talking)","イヤイライケレ（ありがとう）。","Iyairaikere (thank you).","Iyairaikere (Gracias)."
-"narrator","イルラカムイは悪司が用意した金を、 恭しく受け取った。","Ilulakamui reverently accepted the money Akuji had prepared.","Ilulakamui aceptó con reverencia el dinero preparado por Akuji."
-"Yamamoto Akuji (talking)","さっび~~~~！！！！","Sakibi~~~~！！！！","Sakibi~~~~！！！！"
-"Takega Satsu (talking)","でっかいどう…ほっかいどう……","Dekkido…hokkaido……","Dekodai… la Gran Muralla de Japón: ……"
-"Yamamoto Akuji (talking)","………………","………………","………………"
-"Takega Satsu (talking)","…………","…………","…………"
-"Yamamoto Akuji (talking)","さっちゃんも…… オオサカの子だったんだなぁ… ギャグを言うか……","Sacchan was also a child of…… osaka… gag or ……","Sacchan también era un niño de…… osaka… gag o ……"
-"Takega Satsu (talking)","感心してどうする。
+Ilulakamui (talking),ウパスっ……ウパス！！,Upasu!!! ……Upasu!!!,Upasu!!!……Upasu!!!
+Upasu (talking),ああっ……！！,Ahhhh ……!,¡Ahhh ……!
+narrator,イルラカムイはウパスの小さな躰を 胸の中に抱き入れた。,Ilulakamui held Upasu's small body in his chest.,Ilulakamui sostuvo el pequeño cuerpo de Upasu en su pecho.
+Ilulakamui (talking),オオオっ…！！ 本当にウパスだ！！ ウパス！！,Ooooh…! It's really Upasu! It's really Upasu!,¡Ooooh…! ¡Es realmente Upasu! ¡Es realmente Upasu!
+Upasu (talking),ああっ……嘘みたい…… まさか…… 生きて会えるなんてっ…！,"Oh,…… I can't believe…… I never thought I'd see you…… alive…!","Oh,…… No puedo creerlo…… ¡Nunca pensé que te vería vivo…!"
+Ilulakamui (talking),悪司……,Akuji……,Akuji……
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+Ilulakamui (talking),ありがとう、感謝する。,"Thank you, I appreciate it.","Gracias, se lo agradezco."
+Yamamoto Akuji (talking),まー約束してたかんな。,"Well, I don't know if I promised.","Bueno, no sé si lo prometí."
+Ilulakamui (talking),この恩義、出来る限り俺は報いる。,I will repay this favor to the best of my ability.,Le devolveré este favor lo mejor que pueda.
+Yamamoto Akuji (talking),そーしてくれや。 俺はこのセンソー、 絶対に勝ちたいんでな。,Please do that. I want to win this Sensou for sure.,"Por favor, hazlo. Quiero ganar este Senso seguro."
+Ilulakamui (talking),わかった。,I understand.,Entendido.
+Ilulakamui (talking),すまん、呼び出されていたが、 外にいた。,"Sorry, I was called away, but I was outside.","Lo siento, me llamaron, pero estaba fuera."
+Yamamoto Akuji (talking),探しにいってたのか。,You went looking for it.,Fuiste a buscarlo.
+Ilulakamui (talking),ああ。,Oh.,Oh.
+Yamamoto Akuji (talking),その顔だったら、ダメそうだったか。,"If it was that face, did it look like a no-no?","Si tuvieras esa cara, ¿te parecería un no-no?"
+Ilulakamui (talking),ああ。 だけど、諦めない。,Oh. But I'm not giving up.,Oh. Pero no me voy a rendir.
+narrator,悪司は週刊ホーキセを呼んでいる。,Akuji calls the weekly Hokies.,Akuji convoca el Hokise semanal.
+Yamamoto Akuji (talking),ＯＬの処女当てねー…… こんなモンも娯楽になんのかねー。,I wonder if this kind of thing is also a form of entertainment.,Adivinanzas de virginidad para oficinistas…… No sé si este tipo de cosas también son entretenidas.
+Upasu (talking),ほら、お待たせしてしまっているわ、 イルラカムイ。 駄目よ……,"There you go, I've kept you waiting, Ilulakamui. No……","Mira, te hemos hecho esperar, Ilulakamui. No……"
+Ilulakamui (talking),駄目だ。 俺のそばから離れないでくれ。,No. Don't leave my side.,No. No te vayas de mi lado.
+Yamamoto Akuji (talking),何やってんだ、おめーら。,"What are you doing, guys?","¿Qué estáis haciendo, chicos?"
+Upasu (talking),すみません、悪司さん… この人、私から離れるのがいやだと…,"Sorry, Akuji… this guy doesn't want to leave me…","Lo siento, Akuji… este tipo no quiere dejarme…"
+Ilulakamui (talking),今でも夢に見るんだ。 お前がいなくなった時の事を。,I still dream about it. I still dream about the time when you were gone.,Todavía sueño con ello. Sobre el tiempo en que te fuiste.
+Yamamoto Akuji (talking),あのよー、この敷地にいる限り、 ウパスに手出しする奴はいないって。 そんな心配すんなよ。,"Hey, you know, no one is going to mess with Upasu as long as he's on this property. Don't worry about that.","Mientras estemos en esta propiedad, nadie se va a meter con Upasu. No te preocupes por eso."
+Ilulakamui (talking),しかし……,But ……,Pero ……
+Upasu (talking),ホント、おっきな子供なんです。 もっと言ってあげて下さい。,"Really, he's a big kid. Please tell him more.","Realmente, es un niño grande. Por favor, dígale más."
+Ilulakamui (talking),ウパスまで……,…… until Upasu,Hasta Upasu ……
+Yamamoto Akuji (talking),奥さん、悪いけど、席はずしててくんな。 さっちゃんと遊んでてくれや。,"Excuse me, ma'am, but you're going to have to leave. Go play with your son.","Lo siento, señora, pero va a tener que irse. Ve a jugar con tu hijo."
+Upasu (talking),はい、悪司さん。 それじゃあ、しっかりお仕事してね。 イルラカムイ。,"Yes, Akuji. Well then, work hard. Ilulakamui.","Sí, señor Akuji. Pues bien, trabaja bien. Ilulakamui."
+Ilulakamui (talking),あ、ああ……,"Oh, oh ……","Oh, oh ……"
+Yamamoto Akuji (talking),お前さんも心配すんのはいいけど、 ほどほどにな。,"It's all right for you to worry, but not too much.","También está bien que te preocupes, pero con moderación."
+Ilulakamui (talking),……う、うむ……,"…… um, um ……","…… um, um ……"
+Yamamoto Akuji (talking),今俺が出来る精一杯の気持ちだ。 受け取ってくれるかい？,It's the best I can do right now. Will you accept it?,Es lo mejor que puedo hacer en este momento. ¿Lo aceptarás?
+Ilulakamui (talking),イヤイライケレ（ありがとう）。,Iyairaikere (thank you).,Iyairaikere (Gracias).
+narrator,イルラカムイは悪司が用意した金を、 恭しく受け取った。,Ilulakamui reverently accepted the money Akuji had prepared.,Ilulakamui aceptó con reverencia el dinero preparado por Akuji.
+Yamamoto Akuji (talking),さっび~~~~！！！！,Sakibi~~~~！！！！,Sakibi~~~~！！！！
+Takega Satsu (talking),でっかいどう…ほっかいどう……,Dekkido…hokkaido……,Dekodai… la Gran Muralla de Japón: ……
+Yamamoto Akuji (talking),………………,………………,………………
+Takega Satsu (talking),…………,…………,…………
+Yamamoto Akuji (talking),さっちゃんも…… オオサカの子だったんだなぁ… ギャグを言うか……,Sacchan was also a child of…… osaka… gag or ……,Sacchan también era un niño de…… osaka… gag o ……
+Takega Satsu (talking),"感心してどうする。
 それより、イルラカムイとかいう男の 住んでいる村はここでいいのか？","What's the point of being impressed?
 More importantly, is this the right village for a guy named Ilulakamui to live in?","¿Qué sentido tiene impresionarse?
 Y lo que es más importante, ¿es éste el pueblo adecuado para que viva un hombre llamado Ilulakamui?"
-"Yamamoto Akuji (talking)","ああ。 さっき手下が聞いてきたら、 英雄の家は村の中央の方らしい。","Oh, yeah. My men just told me that the hero's house is in the center of the village.","Ah. Mi hombre acaba de decirme que la casa del héroe está en el centro del pueblo."
-"Takega Satsu (talking)","英雄？","Hero?","¿Héroe?"
-"Yamamoto Akuji (talking)","だそーだ。 そんだけ強いって事なんだろ。","That's how strong they are. That's how strong they are.","Así de fuertes son. Así de fuertes son."
-"Takega Satsu (talking)","だといいがな。","I hope so.","Eso espero."
-"Yamamoto Akuji (talking)","おー、ここだ、ここだ。 こんちゃー、誰かいるかいー？","Oh, here, here, here. Hey, koncha, who's there?","Oh, aquí, aquí. Konnichiwa, ¿quién está ahí?"
-"narrator","悪司がそう叫ぶと、家の中から、 熊のような大男が出てきた。","As Akuji shouted this, a large man like a bear came out from inside the house.","Cuando Akuji gritó esto, un hombre grande como un oso salió del interior de la casa."
-"Yamamoto Akuji (thinking)","……ここで死んだフリしたくなるのが オオサカ人だけど、今やったら、 みんなにひかれるんだろーなー。","……It's the Osakans who want to play dead here, but if they did it now, they'd probably get run over by everyone.","…… Son los osakos los que quieren hacerse los muertos aquí, pero si lo hicieran ahora, probablemente serían atropellados por todos."
-"Ilulakamui (talking)","何か？","Yes?","¿Sí?"
-"Yamamoto Akuji (talking)","俺は山本悪司。 あんたが、イルラカムイって人かい？","I'm Yamamoto Akuji. Are you the one Ilulakamui?","Soy Yamamoto Akuji. ¿Eres el que se llama Ilulakamui?"
-"Ilulakamui (talking)","ああ。","Oh.","Oh."
-"Yamamoto Akuji (talking)","あんた強いんだってな。","I heard you are strong.","He oído que eres fuerte."
-"Ilulakamui (talking)","そんな事はない。","That's not true.","No, no es así."
-"Yamamoto Akuji (talking)","謙遜すんなって。 本土にも、あんたの強さは 知れ渡ってきている。","Don't be modest. Even on the mainland, your strength is well known.","No seas modesto. El continente sabe lo fuerte que eres."
-"Ilulakamui (talking)","本土…","Mainland…","Continente …"
-"Yamamoto Akuji (talking)","ああ。 俺はオオサカからきた。","Oh, I'm from OSAKA. I'm from OSAKA.","Oh. Soy de Ossaka."
-"Ilulakamui (talking)","そんな遠いところから、俺にどんな用事？","What business do you have with me from such a faraway place?","¿Qué asuntos tienes conmigo desde un lugar tan lejano?"
-"Yamamoto Akuji (talking)","今、俺の組はライバルと戦っている。 それの手助けをして欲しい。 報酬は出す。","Right now, my group is fighting a rival. I need your help. I will pay you.","Mi grupo está luchando contra un rival en este momento. Quiero que nos ayudes con eso. Te daré una recompensa."
-"Ilulakamui (talking)","人探しを頼めるか？","Can you ask them to find someone for me?","¿Puedes pedirles que te busquen a alguien?"
-"Yamamoto Akuji (talking)","あん？","An?","¿An?"
-"Ilulakamui (talking)","俺の婚約者、ウパスが本土の者に さらわれた。
+Yamamoto Akuji (talking),ああ。 さっき手下が聞いてきたら、 英雄の家は村の中央の方らしい。,"Oh, yeah. My men just told me that the hero's house is in the center of the village.",Ah. Mi hombre acaba de decirme que la casa del héroe está en el centro del pueblo.
+Takega Satsu (talking),英雄？,Hero?,¿Héroe?
+Yamamoto Akuji (talking),だそーだ。 そんだけ強いって事なんだろ。,That's how strong they are. That's how strong they are.,Así de fuertes son. Así de fuertes son.
+Takega Satsu (talking),だといいがな。,I hope so.,Eso espero.
+Yamamoto Akuji (talking),おー、ここだ、ここだ。 こんちゃー、誰かいるかいー？,"Oh, here, here, here. Hey, koncha, who's there?","Oh, aquí, aquí. Konnichiwa, ¿quién está ahí?"
+narrator,悪司がそう叫ぶと、家の中から、 熊のような大男が出てきた。,"As Akuji shouted this, a large man like a bear came out from inside the house.","Cuando Akuji gritó esto, un hombre grande como un oso salió del interior de la casa."
+Yamamoto Akuji (thinking),……ここで死んだフリしたくなるのが オオサカ人だけど、今やったら、 みんなにひかれるんだろーなー。,"……It's the Osakans who want to play dead here, but if they did it now, they'd probably get run over by everyone.","…… Son los osakos los que quieren hacerse los muertos aquí, pero si lo hicieran ahora, probablemente serían atropellados por todos."
+Ilulakamui (talking),何か？,Yes?,¿Sí?
+Yamamoto Akuji (talking),俺は山本悪司。 あんたが、イルラカムイって人かい？,I'm Yamamoto Akuji. Are you the one Ilulakamui?,Soy Yamamoto Akuji. ¿Eres el que se llama Ilulakamui?
+Ilulakamui (talking),ああ。,Oh.,Oh.
+Yamamoto Akuji (talking),あんた強いんだってな。,I heard you are strong.,He oído que eres fuerte.
+Ilulakamui (talking),そんな事はない。,That's not true.,"No, no es así."
+Yamamoto Akuji (talking),謙遜すんなって。 本土にも、あんたの強さは 知れ渡ってきている。,"Don't be modest. Even on the mainland, your strength is well known.",No seas modesto. El continente sabe lo fuerte que eres.
+Ilulakamui (talking),本土…,Mainland…,Continente …
+Yamamoto Akuji (talking),ああ。 俺はオオサカからきた。,"Oh, I'm from OSAKA. I'm from OSAKA.",Oh. Soy de Ossaka.
+Ilulakamui (talking),そんな遠いところから、俺にどんな用事？,What business do you have with me from such a faraway place?,¿Qué asuntos tienes conmigo desde un lugar tan lejano?
+Yamamoto Akuji (talking),今、俺の組はライバルと戦っている。 それの手助けをして欲しい。 報酬は出す。,"Right now, my group is fighting a rival. I need your help. I will pay you.",Mi grupo está luchando contra un rival en este momento. Quiero que nos ayudes con eso. Te daré una recompensa.
+Ilulakamui (talking),人探しを頼めるか？,Can you ask them to find someone for me?,¿Puedes pedirles que te busquen a alguien?
+Yamamoto Akuji (talking),あん？,An?,¿An?
+Ilulakamui (talking),"俺の婚約者、ウパスが本土の者に さらわれた。
 今、その事でどうするか、 家族会議をしていたところだ。
 俺達は、本土につてがなかったから。","My fiancée, Upasu, was kidnapped by people from the mainland.
 We were just having a family meeting about what to do about it.
 We didn't have any contacts on the mainland.","Mi prometida, Upasu, ha sido secuestrada por los continentales.
 Acabamos de tener una reunión familiar sobre qué hacer al respecto.
 No teníamos ningún contacto en el continente."
-"Yamamoto Akuji (talking)","じゃあ、利害の一致だ。 俺に協力してくれるな？","Then it's a conflict of interest. You'll work with me, won't you?","Entonces es un conflicto de intereses. Trabajarás conmigo, ¿verdad?"
-"Ilulakamui (talking)","探してくれるのか？","Can you find it for me?","¿Puedes encontrarlos por mí?"
-"Yamamoto Akuji (talking)","本土つっても広いからな。
+Yamamoto Akuji (talking),じゃあ、利害の一致だ。 俺に協力してくれるな？,"Then it's a conflict of interest. You'll work with me, won't you?","Entonces es un conflicto de intereses. Trabajarás conmigo, ¿verdad?"
+Ilulakamui (talking),探してくれるのか？,Can you find it for me?,¿Puedes encontrarlos por mí?
+Yamamoto Akuji (talking),"本土つっても広いからな。
 俺の情報網でどんだけ探す事が 出来るかわかんねーけど、 出来る限りの努力はするぜ。","The mainland is a big place.
 I don't know how much I can find with my information network, but I'll do my best.","El continente es un lugar grande.
 No sé cuánto podré encontrar con mi red, pero haré lo que pueda."
-"Ilulakamui (talking)","わかった。 では、準備が整い次第、そちら行く。","Okay, I'll be there as soon as I'm ready. Well, I'll be there as soon as I'm ready.","Bien, estaré allí tan pronto como esté listo. Entonces iré allí en cuanto esté listo."
-"Yamamoto Akuji (talking)","ＯＫ。 じゃあこれが、住所だ。","OK, then here's the address.","Bien. Entonces aquí está la dirección."
-"narrator","悪司は奉仕青年団の住所が書かれたメモを、 イルラカムイに渡した。","Akuji gave Ilulakamui a note with the address of the service youth group.","Akuji entregó a Ilulakamui una nota con la dirección de la organización juvenil de servicio."
-"Ilulakamui (talking)","わかった。","I understand.","Entendido."
-"Yamamoto Akuji (talking)","それじゃあ、待ってるぜ。 出来るだけ早くきてくれると助かるよ。","I'll be waiting for you. I would appreciate it if you could come as soon as possible.","Te estaré esperando entonces. Sería estupendo que pudieras venir lo antes posible."
-"Ilulakamui (talking)","ああ。","Oh.","Oh."
-"Seinendan Jyoshi (talking)","ああああ、悪司さ~ん、く、熊が… 熊が、熊が、熊が……","Ohhhh, Akujisan~, ku, bear… bear, bear, bear… ……","Ahhhh, Akuji, ku, oso… oso, oso, oso… ……"
-"Yamamoto Akuji (talking)","熊~~？","Bear~?","¿Oso~?"
-"Seinendan Jyoshi (talking)","は、はい……","is, yes ……","Ja, sí ……"
-"Yamamoto Akuji (talking)","……………
+Ilulakamui (talking),わかった。 では、準備が整い次第、そちら行く。,"Okay, I'll be there as soon as I'm ready. Well, I'll be there as soon as I'm ready.","Bien, estaré allí tan pronto como esté listo. Entonces iré allí en cuanto esté listo."
+Yamamoto Akuji (talking),ＯＫ。 じゃあこれが、住所だ。,"OK, then here's the address.",Bien. Entonces aquí está la dirección.
+narrator,悪司は奉仕青年団の住所が書かれたメモを、 イルラカムイに渡した。,Akuji gave Ilulakamui a note with the address of the service youth group.,Akuji entregó a Ilulakamui una nota con la dirección de la organización juvenil de servicio.
+Ilulakamui (talking),わかった。,I understand.,Entendido.
+Yamamoto Akuji (talking),それじゃあ、待ってるぜ。 出来るだけ早くきてくれると助かるよ。,I'll be waiting for you. I would appreciate it if you could come as soon as possible.,Te estaré esperando entonces. Sería estupendo que pudieras venir lo antes posible.
+Ilulakamui (talking),ああ。,Oh.,Oh.
+Seinendan Jyoshi (talking),ああああ、悪司さ~ん、く、熊が… 熊が、熊が、熊が……,"Ohhhh, Akujisan~, ku, bear… bear, bear, bear… ……","Ahhhh, Akuji, ku, oso… oso, oso, oso… ……"
+Yamamoto Akuji (talking),熊~~？,Bear~?,¿Oso~?
+Seinendan Jyoshi (talking),は、はい……,"is, yes ……","Ja, sí ……"
+Yamamoto Akuji (talking),"……………
 ああ、イルラカムイがきたのか。 通してやってくれ。 俺の客だ。","……………
 Oh, Ilulakamui is here. Let him through. He's my guest.","……………
 Oh, Ilulakamui está aquí. Déjalo pasar. Es mi invitado."
-"Seinendan Jyoshi (talking)","あ、悪司さん、 熊の友達がいるんですか…？","Oh, Akuji, you have a bear friend…?","Oh, Akuji, ¿tienes un amigo oso…?"
-"Yamamoto Akuji (talking)","ばーか、よく見てみろ。 人間だ。 さっさとしな。","Baka, take a good look. It's a human being. Get on with it.","Baka, mira más de cerca. Es un ser humano. Sigue con ello."
-"Seinendan Jyoshi (talking)","は、はい。","Ha, yes.","Ja, sí."
-"Ilulakamui (talking)","こちらは暑いな。 空も灰色だ。 凶々しい。","It's hot here. The sky is gray. It's wicked.","Aquí hace calor. El cielo está gris. Es una maravilla."
-"Yamamoto Akuji (talking)","デカイ爆弾落とされたからな。 ホッカイドウより、被害が甚大だったんで そいつもやむなしだ。
+Seinendan Jyoshi (talking),あ、悪司さん、 熊の友達がいるんですか…？,"Oh, Akuji, you have a bear friend…?","Oh, Akuji, ¿tienes un amigo oso…?"
+Yamamoto Akuji (talking),ばーか、よく見てみろ。 人間だ。 さっさとしな。,"Baka, take a good look. It's a human being. Get on with it.","Baka, mira más de cerca. Es un ser humano. Sigue con ello."
+Seinendan Jyoshi (talking),は、はい。,"Ha, yes.","Ja, sí."
+Ilulakamui (talking),こちらは暑いな。 空も灰色だ。 凶々しい。,It's hot here. The sky is gray. It's wicked.,Aquí hace calor. El cielo está gris. Es una maravilla.
+Yamamoto Akuji (talking),"デカイ爆弾落とされたからな。 ホッカイドウより、被害が甚大だったんで そいつもやむなしだ。
 これからしばらくの間、よろしく頼むぜ。","Because they dropped a big bomb Dan. It was more devastating than Hokkaidou, so I had no choice.
 I'm looking forward to working with you for a while.","Debido a la gran bomba que Dan lanzó sobre nosotros. Fue más devastador que Hockhaydoh, así que no tuve más remedio que hacerlo.
 Voy a contar con usted durante un tiempo."
-"Ilulakamui (talking)","わかっている。 そちらの方も……","I know. You can find that one at ……","Lo sabemos. También puede ir a ……"
-"Yamamoto Akuji (talking)","ああ、ウパスだったっけ。 あんたの婚約者の。","Oh, it was Upasu, wasn't it? Your fiancée.","Oh, era Upasu, ¿no? Tu prometida."
-"Ilulakamui (talking)","そうだ。","Yes, it is.","Sí."
-"Yamamoto Akuji (talking)","探すっつっても、 何もなかったら探すのは無理だぜ。","It's impossible to find something if there's nothing to find.","No puedes buscar algo si no hay nada que buscar."
-"Ilulakamui (talking)","これを……","You can find this at ……","Se puede encontrar en ……"
-"narrator","イルラカムイは懐から ウパスの似顔絵を出した。","Ilulakamui produced a sketch of Upasu from his pocket.","Ilulakamui sacó de su bolsillo un boceto de Upasu."
-"Ilulakamui (talking)","これがウパスだ。","This is Upasu.","Esto es Upasu."
-"Yamamoto Akuji (talking)","おー……別嬪さんだな。","Oh…… you're a beautiful woman.","Oh…… Bessy."
-"Ilulakamui (talking)","頼む。 一刻も早く、探し出してくれ。","Please. Find them as soon as possible.","Por favor. Encuéntralos, lo antes posible."
-"Yamamoto Akuji (talking)","んー……焦る気持ちもわかんなくないが、 気長に待ってくれ。","Hmmm……… I don't understand your impatience, but please be patient.","Hmmm……… No entiendo tu impaciencia, pero por favor, ten paciencia."
-"Ilulakamui (talking)","………………","………………","………………"
-"Ilulakamui (talking)","悪司！！","Akuji!","¡Akuji!"
-"Yamamoto Akuji (talking)","どうした、イルラカムイ。 血相変えて。","What's the matter, Ilulakamui. Change your blood.","Qué pasa, Ilulakamui. Cambia tu sangre."
-"Ilulakamui (talking)","ウパスを返せ！！","Give Upasu back!","¡Devuelve el Upasu!"
-"Yamamoto Akuji (talking)","ん~……？","Hmmm… ……?","Hmmm… ……?"
-"Yamamoto Akuji (thinking)","なんだ、もうばれたのか。","What, they've already found out?","¿Qué, ya lo han descubierto?"
-"Ilulakamui (talking)","ふざけるな！！ 貴様、俺がウパスを探しているのを 知っていて、どうしてっ……
+Ilulakamui (talking),わかっている。 そちらの方も……,I know. You can find that one at ……,Lo sabemos. También puede ir a ……
+Yamamoto Akuji (talking),ああ、ウパスだったっけ。 あんたの婚約者の。,"Oh, it was Upasu, wasn't it? Your fiancée.","Oh, era Upasu, ¿no? Tu prometida."
+Ilulakamui (talking),そうだ。,"Yes, it is.",Sí.
+Yamamoto Akuji (talking),探すっつっても、 何もなかったら探すのは無理だぜ。,It's impossible to find something if there's nothing to find.,No puedes buscar algo si no hay nada que buscar.
+Ilulakamui (talking),これを……,You can find this at ……,Se puede encontrar en ……
+narrator,イルラカムイは懐から ウパスの似顔絵を出した。,Ilulakamui produced a sketch of Upasu from his pocket.,Ilulakamui sacó de su bolsillo un boceto de Upasu.
+Ilulakamui (talking),これがウパスだ。,This is Upasu.,Esto es Upasu.
+Yamamoto Akuji (talking),おー……別嬪さんだな。,Oh…… you're a beautiful woman.,Oh…… Bessy.
+Ilulakamui (talking),頼む。 一刻も早く、探し出してくれ。,Please. Find them as soon as possible.,"Por favor. Encuéntralos, lo antes posible."
+Yamamoto Akuji (talking),んー……焦る気持ちもわかんなくないが、 気長に待ってくれ。,"Hmmm……… I don't understand your impatience, but please be patient.","Hmmm……… No entiendo tu impaciencia, pero por favor, ten paciencia."
+Ilulakamui (talking),………………,………………,………………
+Ilulakamui (talking),悪司！！,Akuji!,¡Akuji!
+Yamamoto Akuji (talking),どうした、イルラカムイ。 血相変えて。,"What's the matter, Ilulakamui. Change your blood.","Qué pasa, Ilulakamui. Cambia tu sangre."
+Ilulakamui (talking),ウパスを返せ！！,Give Upasu back!,¡Devuelve el Upasu!
+Yamamoto Akuji (talking),ん~……？,Hmmm… ……?,Hmmm… ……?
+Yamamoto Akuji (thinking),なんだ、もうばれたのか。,"What, they've already found out?","¿Qué, ya lo han descubierto?"
+Ilulakamui (talking),"ふざけるな！！ 貴様、俺がウパスを探しているのを 知っていて、どうしてっ……
 どうして、俺のウパスに 性を売らせている！？","You've got to be kidding me! You know I'm looking for Upasu, how could you ……
 Why are you letting my Upasu sell you sex!","¡Deja de hacer el tonto! Sabías que estaba buscando Upasu, ¿cómo pudiste ……
  ¿Por qué dejas que mi Upasu te venda sexo?"
-"Yamamoto Akuji (talking)","何の事だ？ 俺は知んねーぞ。","What are you talking about? I don't know, man.","¿De qué estás hablando? No lo sé."
-"Ilulakamui (talking)","貴様~~~~~！！！！！","You: ~~~~~！！！！！","Usted: ~~~~~！！！！！"
-"Yamamoto Akuji (talking)","知らねえったら、知らねえんだよ。 ウパスなら探してる。","If I don't know, I don't know. I'm looking for Upasu.","Si no lo sé, no lo sé. Upasu te estaría buscando."
-"Yamamoto Akuji (thinking)","嘘だけど。","It's a lie.","Mentiras."
-"Yamamoto Akuji (talking)","だからあんたも、俺の頼んだ……","So you can do the same thing I asked you to do: ……","Así que tú también puedes hacer lo que te pedí: ……"
-"Ilulakamui (talking)","断る！！！","I refuse!!!!!!!","¡¡¡¡Me niego!!!!"
-"Yamamoto Akuji (talking)","何ぃ？","What?","¿Qué?"
-"Ilulakamui (talking)","俺は、お前がウパスを探すのを手伝って くれると言うから、お前の戦士に なった！！
+Yamamoto Akuji (talking),何の事だ？ 俺は知んねーぞ。,"What are you talking about? I don't know, man.",¿De qué estás hablando? No lo sé.
+Ilulakamui (talking),貴様~~~~~！！！！！,You: ~~~~~！！！！！,Usted: ~~~~~！！！！！
+Yamamoto Akuji (talking),知らねえったら、知らねえんだよ。 ウパスなら探してる。,"If I don't know, I don't know. I'm looking for Upasu.","Si no lo sé, no lo sé. Upasu te estaría buscando."
+Yamamoto Akuji (thinking),嘘だけど。,It's a lie.,Mentiras.
+Yamamoto Akuji (talking),だからあんたも、俺の頼んだ……,So you can do the same thing I asked you to do: ……,Así que tú también puedes hacer lo que te pedí: ……
+Ilulakamui (talking),断る！！！,I refuse!!!!!!!,¡¡¡¡Me niego!!!!
+Yamamoto Akuji (talking),何ぃ？,What?,¿Qué?
+Ilulakamui (talking),"俺は、お前がウパスを探すのを手伝って くれると言うから、お前の戦士に なった！！
 しかし、ウパスがお前の手の中に いる事を知っている！！
 それなのに、お前はとぼけている！！ それは、俺にとって裏切り！！
 今この瞬間、お前は俺の敵だ！！","I became your warrior because you said you would help me find Upasu!
@@ -186,208 +186,208 @@ You are my enemy at this moment!","¡Me convertí en tu guerrero porque dijiste 
  ¡Pero sé que Upasu está en tus manos!
  ¡Y tú te haces el tonto! ¡Es una traición para mí!
  ¡En este momento, eres mi enemigo!"
-"Yamamoto Akuji (talking)","おいおい……","Hey, hey, hey……","Hey, hey, hey……"
-"Ilulakamui (talking)","俺は、全身全霊をかけ、お前と戦う！
+Yamamoto Akuji (talking),おいおい……,"Hey, hey, hey……","Hey, hey, hey……"
+Ilulakamui (talking),"俺は、全身全霊をかけ、お前と戦う！
 俺は今からお前にとって、我が名と同じ、 イルラカムイ（死人を送る神）と なる！！
 この腕に、我が妻、 ウパスを取り戻すまでっ……！！","I will fight you with all my might!
 I will be to you from now on, as my name is to you, Ilulakamui (God of the Dead)!
 Until I have my wife Upasu back in my arms……!","¡Lucharé contra ti con todas mis fuerzas!
  ¡A partir de ahora, seré para ti lo que mi nombre es para ti, Ilulakamui (Dios de los Muertos)!
  ¡Hasta que tenga a mi esposa Upasu de vuelta en mis brazos!"
-"narrator","　　［ガシャーーーンッッッ！！］","［GASHAAN!!!!!!!]","¡[GASHROUND]!"
-"Yamamoto Akuji (talking)","おわっ！？","Oh, wow!","¡Oh, no!"
-"narrator","イルラカムイは窓ガラスに体当たりし、 事務所から姿を消した。","Ilulakamui hit himself against the windowpane and disappeared from the office.","Ilulakamui se estrelló contra el cristal de la ventana y desapareció del despacho."
-"Takega Satsu (talking)","何をした、悪司？！ 凄い音がしたぞ。
+narrator,　　［ガシャーーーンッッッ！！］,［GASHAAN!!!!!!!],¡[GASHROUND]!
+Yamamoto Akuji (talking),おわっ！？,"Oh, wow!","¡Oh, no!"
+narrator,イルラカムイは窓ガラスに体当たりし、 事務所から姿を消した。,Ilulakamui hit himself against the windowpane and disappeared from the office.,Ilulakamui se estrelló contra el cristal de la ventana y desapareció del despacho.
+Takega Satsu (talking),"何をした、悪司？！ 凄い音がしたぞ。
 なんだいい年をして、こんな狭いところで プロレスごっこでもしたのか。 いかんぞ。","What did you do, Akuji? I heard a terrible noise.
 What are you, an old man, playing wrestling in such a small place? That's not good.","¿Qué has hecho, Akuji? Oí un gran ruido.
  ¿Qué eres, un viejo, jugando a la lucha en un lugar tan pequeño? Eso no es bueno."
-"Yamamoto Akuji (talking)","んな事してねっつの。
+Yamamoto Akuji (talking),"んな事してねっつの。
 イルラカムイが怒って こっから出てったんだ。","I didn't do that.
 Ilulakamui got angry and left.","No lo hice.
 Ilulakamui se enfadó y abandonó el lugar."
-"Takega Satsu (talking)","あの、素朴な男がか。 何をした。","That naive man, huh? What did he do?","Ese hombre ingenuo, ¿eh? ¿Qué has hecho?"
-"Yamamoto Akuji (talking)","別に。","Separately.","Por separado."
-"Takega Satsu (talking)","……奴の婚約者がらみだろう。","It's probably related to the…… guy's fiancée.","…… Probablemente esté relacionado con su prometida."
-"Yamamoto Akuji (talking)","え゛。","Ee.","Ee."
-"Takega Satsu (talking)","図星か。 まったく……男というのは、これだから…
+Takega Satsu (talking),あの、素朴な男がか。 何をした。,"That naive man, huh? What did he do?","Ese hombre ingenuo, ¿eh? ¿Qué has hecho?"
+Yamamoto Akuji (talking),別に。,Separately.,Por separado.
+Takega Satsu (talking),……奴の婚約者がらみだろう。,It's probably related to the…… guy's fiancée.,…… Probablemente esté relacionado con su prometida.
+Yamamoto Akuji (talking),え゛。,Ee.,Ee.
+Takega Satsu (talking),"図星か。 まったく……男というのは、これだから…
 奴は、必死に婚約者を探していた。 どうなっても知らんぞ。","You got that right. Totally…… men are like this…
 He was desperately looking for his fiancée. I don't care what happens to him.","Figura retórica. Quiero decir,…… esto es lo que los hombres son…
 Buscaba desesperadamente a su prometida. No sé qué va a pasar contigo."
-"Yamamoto Akuji (talking)","うーい。","Oui.","Oui."
-"Ilulakamui (talking)","悪司！！","Akuji!","¡Akuji!"
-"Yamamoto Akuji (talking)","イルラカムイ！ まさか、てめぇっ……","Ilulakamui! No way, man! ……","¡Ilulakamui! ¡De ninguna manera, hombre! ……"
-"Ilulakamui (talking)","ウパスを返せ！！ 忘れたとも、知らぬとも言わさぬ！！","Return Upasu! Don't tell me you've forgotten or don't know!","¡Devuelve el Upasu! ¡No me digas que lo has olvidado o que no lo sabes!"
-"Yamamoto Akuji (talking)","知らねーモンは、知らねーって！","I don't know what I don't know!","¡No sé lo que no sé!"
-"Yamamoto Akuji (thinking)","いや、嘘だけど。 もの珍しい女って事で、頑張って 稼いでもらってるけど。","No, that's a lie. She's a rare girl, and she's doing her best to earn her keep.","No, no es cierto. Es una mujer rara, y está haciendo todo lo posible para ganarse la vida."
-"Ilulakamui (talking)","ならば、その躰に聞くだけだ！！ 頭さえ残しておけば、四肢など 落としても聞く事は出来る！","Then just listen to the body! As long as we keep its head, we can listen to it even if we lose all its limbs!","Entonces, ¡escucha a ese cuerpo! Mientras conservemos la cabeza, podremos escucharla aunque perdamos las cuatro extremidades."
-"Ilulakamui (talking)","ウパスを返して貰おう、悪司！","Let's have Upasu back, Akuji!","¡Que vuelva Upasu, Akuji!"
-"Yamamoto Akuji (talking)","またきやがったか！ 知らねえっつってんだろ！！","You came again! I told you I don't know!","¡Has vuelto a venir! ¡Te he dicho que no lo sé!"
-"Ilulakamui (talking)","嘘をつくな！！ 俺はお前がウパスの事を言うまで、 何度でもお前を襲う！！","Don't lie to me! I will attack you as many times as I have to until you tell me about Upasu!","¡No me mientas! ¡Te atacaré una y otra vez hasta que me hables de Upasu!"
-"__system__??","{RND = 0:","",""
-"Ilulakamui (talking)","・・・おのれ・・ 悪司ぃ・・","Akuji…","Tú… Akuji…"
-"narrator","イルラカムイは、絶叫しそのまま 息絶えた。","Ilulakamui screamed and died.","Ilulakamui exclamó y luego expiró."
-"__system__??","}","",""
-"narrator","朝日の中、白い霧にけぶっていた。
+Yamamoto Akuji (talking),うーい。,Oui.,Oui.
+Ilulakamui (talking),悪司！！,Akuji!,¡Akuji!
+Yamamoto Akuji (talking),イルラカムイ！ まさか、てめぇっ……,"Ilulakamui! No way, man! ……","¡Ilulakamui! ¡De ninguna manera, hombre! ……"
+Ilulakamui (talking),ウパスを返せ！！ 忘れたとも、知らぬとも言わさぬ！！,Return Upasu! Don't tell me you've forgotten or don't know!,¡Devuelve el Upasu! ¡No me digas que lo has olvidado o que no lo sabes!
+Yamamoto Akuji (talking),知らねーモンは、知らねーって！,I don't know what I don't know!,¡No sé lo que no sé!
+Yamamoto Akuji (thinking),いや、嘘だけど。 もの珍しい女って事で、頑張って 稼いでもらってるけど。,"No, that's a lie. She's a rare girl, and she's doing her best to earn her keep.","No, no es cierto. Es una mujer rara, y está haciendo todo lo posible para ganarse la vida."
+Ilulakamui (talking),ならば、その躰に聞くだけだ！！ 頭さえ残しておけば、四肢など 落としても聞く事は出来る！,"Then just listen to the body! As long as we keep its head, we can listen to it even if we lose all its limbs!","Entonces, ¡escucha a ese cuerpo! Mientras conservemos la cabeza, podremos escucharla aunque perdamos las cuatro extremidades."
+Ilulakamui (talking),ウパスを返して貰おう、悪司！,"Let's have Upasu back, Akuji!","¡Que vuelva Upasu, Akuji!"
+Yamamoto Akuji (talking),またきやがったか！ 知らねえっつってんだろ！！,You came again! I told you I don't know!,¡Has vuelto a venir! ¡Te he dicho que no lo sé!
+Ilulakamui (talking),嘘をつくな！！ 俺はお前がウパスの事を言うまで、 何度でもお前を襲う！！,Don't lie to me! I will attack you as many times as I have to until you tell me about Upasu!,¡No me mientas! ¡Te atacaré una y otra vez hasta que me hables de Upasu!
+__system__??,{RND = 0:,,
+Ilulakamui (talking),・・・おのれ・・ 悪司ぃ・・,Akuji…,Tú… Akuji…
+narrator,イルラカムイは、絶叫しそのまま 息絶えた。,Ilulakamui screamed and died.,Ilulakamui exclamó y luego expiró.
+__system__??,},,
+narrator,"朝日の中、白い霧にけぶっていた。
 夜明けの光が、大きな木の根元で 眠っている男の頬を刺す。","In the morning sun, Haku was covered with fog.
 The Mei light of night stung the cheek of a man sleeping at the base of a large tree.","Bajo el sol de la mañana, Haku estaba empañado por la niebla.
 Por la noche, la luz de Meike atravesó la mejilla de un hombre que dormía en la base de un gran árbol."
-"Ilulakamui (talking)","っ…………","~…………","~…………"
-"narrator","イルラカムイだった。","It was Ilulakamui.","Ilulakamui era."
-"Ilulakamui (talking)","………ふう……","………-like……","……… como ……"
-"narrator","イルラカムイはその巨躯をゆっくり起こす。","Ilulakamui slowly raises his huge frame.","Ilulakamui levanta lentamente su enorme cuerpo."
-"Ilulakamui (talking)","つっ……","Tsugu: ……","Tsug: ……"
-"narrator","悪司との戦いの為、躰は傷だらけだった。 それはすぐに癒える事なく、どんどん イルラカムイの躰の上で増殖している。","Because of the battle with Akuji, the body was covered with wounds. It did not heal immediately, and it is multiplying on Ilulakamui's body more and more.","Debido a la batalla con Akuji, el cuerpo estaba cubierto de heridas. No se curó inmediatamente y se está multiplicando en el cuerpo de Ilulakamui cada vez más."
-"Ilulakamui (talking)","この躰……どうなってもいい… ウパスを…… ウパスを取り戻す事が出来るなら……
+Ilulakamui (talking),っ…………,~…………,~…………
+narrator,イルラカムイだった。,It was Ilulakamui.,Ilulakamui era.
+Ilulakamui (talking),………ふう……,………-like……,……… como ……
+narrator,イルラカムイはその巨躯をゆっくり起こす。,Ilulakamui slowly raises his huge frame.,Ilulakamui levanta lentamente su enorme cuerpo.
+Ilulakamui (talking),つっ……,Tsugu: ……,Tsug: ……
+narrator,悪司との戦いの為、躰は傷だらけだった。 それはすぐに癒える事なく、どんどん イルラカムイの躰の上で増殖している。,"Because of the battle with Akuji, the body was covered with wounds. It did not heal immediately, and it is multiplying on Ilulakamui's body more and more.","Debido a la batalla con Akuji, el cuerpo estaba cubierto de heridas. No se curó inmediatamente y se está multiplicando en el cuerpo de Ilulakamui cada vez más."
+Ilulakamui (talking),"この躰……どうなってもいい… ウパスを…… ウパスを取り戻す事が出来るなら……
 神よ…… 今日も、俺は戦う…… だからウパスが無事でいるように……
 そして、俺に… 一目でいい…… ウパスを……ウパスの姿を……","I don't care what happens to this body…… … if I can get Upasu back…… Upasu… …
 God…… I'll fight today too…… so that Upasu will be safe ……
 And give me… just one glance…… of Upasu ……","No me importa lo que pase con este cuerpo…… … si puedo recuperar Upasu…… Upasu… …
 Dios…… Yo también lucharé hoy…… para que Upasu esté a salvo ……
 Y dame… sólo un vistazo a…… de Upasu…… Upasu."
-"narrator","　　［ぱきっ……］
+narrator,"　　［ぱきっ……］
 小枝の踏み折られる音がした。","[crack ……]
 There was the sound of twigs being stepped on and broken.","[crack ……]
 Se oyó el sonido de las ramas al ser pisoteadas."
-"Ilulakamui (talking)","っ！","Oh!","¡No lo estoy!"
-"narrator","そちらの方に、イルラカムイは武器を構える。","In that direction, Ilulakamui holds up his weapon.","En tu dirección, Ilulakamui está sosteniendo un arma."
-"narrator","そこに立っていたのは――","And there he stood--","Allí de pie estaba…"
-"Ilulakamui (talking)","っ………","You can find out more at ………","………"
-"Upasu (talking)","……………","……………","……………"
-"Ilulakamui (talking)","っ……あっ……","……","……"
-"Upasu (talking)","……っ………
+Ilulakamui (talking),っ！,Oh!,¡No lo estoy!
+narrator,そちらの方に、イルラカムイは武器を構える。,"In that direction, Ilulakamui holds up his weapon.","En tu dirección, Ilulakamui está sosteniendo un arma."
+narrator,そこに立っていたのは――,And there he stood--,Allí de pie estaba…
+Ilulakamui (talking),っ………,You can find out more at ………,………
+Upasu (talking),……………,……………,……………
+Ilulakamui (talking),っ……あっ……,……,……
+Upasu (talking),"……っ………
  ……ぁ……
 ああっ……！！","……………
 Oh ……!
 Oh, ……!","……………
  ¡Oh ……!
  ¡Oh, ……!"
-"Ilulakamui (talking)","オオオオっ……！！","Ooooooh ……!!!!","¡Ooooooh ……!"
-"narrator","二人は互いの姿を認めると、走り寄り、 腕を差し伸べた。
+Ilulakamui (talking),オオオオっ……！！,Ooooooh ……!!!!,¡Ooooooh ……!
+narrator,"二人は互いの姿を認めると、走り寄り、 腕を差し伸べた。
 が、ウパスの足が止まる。","When they recognize each other, they run toward each other and extend their arms.
 But Upasu stopped.","Cuando se reconocieron, corrieron el uno hacia el otro y extendieron sus brazos.
 Pero Upasu se detuvo en seco."
-"Ilulakamui (talking)","……どう……した？","How did you…… ……?","…… ¿Cómo lo has hecho?"
-"Upasu (talking)","っ……私……だめ…… あなたに抱かれる事…出来ない…","I…… can't…… hold you… can't…","No puedo… sostenerte…"
-"Ilulakamui (talking)","ウパス……？","Upasu ……?","¿Recibirás un mensaje?"
-"Upasu (talking)","私……人に売られた…… そして……","I…… was sold to people…… and ……","I…… se vendió a la gente…… y ……"
-"Ilulakamui (talking)","いやなら言うな。 知っている。","If you don't like it, don't say it. I know.","Si no quieres, no lo digas. Lo sé."
-"Upasu (talking)","っ……！！","I'm at ……!!!!!!!","¡¡¡¡……!!!!"
-"Ilulakamui (talking)","だが、それがどうした。 ウパスはウパスだ。 俺の生涯たった一人の俺の妻だ。","But so what. Upasu is Upasu. My only wife in my whole life.","Pero, ¿y qué? Upasu es Upasu. Es mi esposa, la única en toda mi vida."
-"Upasu (talking)","イルラカムイ……","Ilulakamui……","Ilulakamui……"
-"Ilulakamui (talking)","俺は違うのか？ 俺はお前の生涯一人の夫ではないのか？","Am I not? Am I not your one husband for life?","¿No es así? ¿No soy tu único marido de por vida?"
-"Upasu (talking)","違わないっ……違わないっ……","No different…… No different……","No es diferente…… No es diferente……"
-"Ilulakamui (talking)","ならば……","Then you can go to ……","Entonces puedes ir a ……"
-"narrator","イルラカムイはウパスの腕を取り、 自分の胸に抱き入れた。","Ilulakamui took Upasu's arm and held him to his chest.","Ilulakamui tomó el brazo de Upasu y la estrechó contra su pecho."
-"Ilulakamui (talking)","ウパス…… この時をどれだけ願ったか……！！","Upasu…… how I wished for this moment……!","Upasu…… ¡cómo deseaba este momento……!"
-"Upasu (talking)","うっ………
+Ilulakamui (talking),……どう……した？,How did you…… ……?,…… ¿Cómo lo has hecho?
+Upasu (talking),っ……私……だめ…… あなたに抱かれる事…出来ない…,I…… can't…… hold you… can't…,No puedo… sostenerte…
+Ilulakamui (talking),ウパス……？,Upasu ……?,¿Recibirás un mensaje?
+Upasu (talking),私……人に売られた…… そして……,I…… was sold to people…… and ……,I…… se vendió a la gente…… y ……
+Ilulakamui (talking),いやなら言うな。 知っている。,"If you don't like it, don't say it. I know.","Si no quieres, no lo digas. Lo sé."
+Upasu (talking),っ……！！,I'm at ……!!!!!!!,¡¡¡¡……!!!!
+Ilulakamui (talking),だが、それがどうした。 ウパスはウパスだ。 俺の生涯たった一人の俺の妻だ。,But so what. Upasu is Upasu. My only wife in my whole life.,"Pero, ¿y qué? Upasu es Upasu. Es mi esposa, la única en toda mi vida."
+Upasu (talking),イルラカムイ……,Ilulakamui……,Ilulakamui……
+Ilulakamui (talking),俺は違うのか？ 俺はお前の生涯一人の夫ではないのか？,Am I not? Am I not your one husband for life?,¿No es así? ¿No soy tu único marido de por vida?
+Upasu (talking),違わないっ……違わないっ……,No different…… No different……,No es diferente…… No es diferente……
+Ilulakamui (talking),ならば……,Then you can go to ……,Entonces puedes ir a ……
+narrator,イルラカムイはウパスの腕を取り、 自分の胸に抱き入れた。,Ilulakamui took Upasu's arm and held him to his chest.,Ilulakamui tomó el brazo de Upasu y la estrechó contra su pecho.
+Ilulakamui (talking),ウパス…… この時をどれだけ願ったか……！！,Upasu…… how I wished for this moment……!,Upasu…… ¡cómo deseaba este momento……!
+Upasu (talking),"うっ………
 ううっ……あああっ……！！","Ugh………
 Ugh…… ohhhh ……!!!!","Ugh………
  ¡¡¡¡Ugh…… ohhhh……!!!!"
-"Ilulakamui (talking)","しかし、よく一人で逃げる事が出来たな…","But how could you escape alone…","Pero, ¿cómo podrías escapar solo…"
-"Upasu (talking)","解放されたの… 私……もう、用済みだって……","They let me go… I…… said I'm no longer of any use to them……","Me dejaron ir… Yo…… dije que ya no les era útil……"
-"Ilulakamui (talking)","……そうか……
+Ilulakamui (talking),しかし、よく一人で逃げる事が出来たな…,But how could you escape alone…,"Pero, ¿cómo podrías escapar solo…"
+Upasu (talking),解放されたの… 私……もう、用済みだって……,They let me go… I…… said I'm no longer of any use to them……,Me dejaron ir… Yo…… dije que ya no les era útil……
+Ilulakamui (talking),"……そうか……
 ウパス、こんなどんよりとした 森ではなく、故郷の森に二人で帰ろう。
 そして… 二人で暮らそう。 いつまでも。","…… Well, ……
 Upasu, let's go back to our hometown Mori, not this dreary Mori.
 And… let's live together. Forever.","…… Bueno, ……
 Upasu, volvamos los dos a nuestra ciudad natal Mori, no a esta lúgubre Mori.
 Y… vivamos juntos. Para siempre."
-"Upasu (talking)","…………うん……","…………うん ……","…………うん ……"
-"narrator","二人は手に手を取り、森の霧の中に消えた。","They took hand in hand and disappeared into the mist of Mori.","Se tomaron de la mano y desaparecieron en la niebla de Mori."
-"Ilulakamui (talking)","俺の話……聞いてくれるか？","Will you listen to my story ……?","¿Puedes escuchar mi historia ……?"
-"wakaishufu (talking)","えっ…あの……セールスじゃないわよね？","What…not that…… sales, right?","Qué… eso no es…… ventas, ¿verdad?"
-"Ilulakamui (talking)","人探ししている。 この女、見た事ないか？","I'm looking for someone. Have you seen this woman?","Estoy buscando a alguien. ¿Has visto a esta mujer?"
-"narrator","イルラカムイは懐から ウパスの似顔絵を出した。","Ilulakamui produced a sketch of Upasu from his pocket.","Ilulakamui sacó de su bolsillo un boceto de Upasu."
-"wakaishufu (talking)","さあ……こんな変わった服を 着ていたら目立つし、忘れないわ……
+Upasu (talking),…………うん……,…………うん ……,…………うん ……
+narrator,二人は手に手を取り、森の霧の中に消えた。,They took hand in hand and disappeared into the mist of Mori.,Se tomaron de la mano y desaparecieron en la niebla de Mori.
+Ilulakamui (talking),俺の話……聞いてくれるか？,Will you listen to my story ……?,¿Puedes escuchar mi historia ……?
+wakaishufu (talking),えっ…あの……セールスじゃないわよね？,"What…not that…… sales, right?","Qué… eso no es…… ventas, ¿verdad?"
+Ilulakamui (talking),人探ししている。 この女、見た事ないか？,I'm looking for someone. Have you seen this woman?,Estoy buscando a alguien. ¿Has visto a esta mujer?
+narrator,イルラカムイは懐から ウパスの似顔絵を出した。,Ilulakamui produced a sketch of Upasu from his pocket.,Ilulakamui sacó de su bolsillo un boceto de Upasu.
+wakaishufu (talking),"さあ……こんな変わった服を 着ていたら目立つし、忘れないわ……
 という事は、見てないから…… 知らないって事になるんだけど……","Come on,…… you'd stand out in such an unusual outfit, and I wouldn't forget it,……
 Which means I haven't seen it, so I don't…… know about it……","Vamos,…… destacarías llevando un atuendo tan inusual, y yo no lo olvidaría……
 Lo que significa que no lo he visto, por lo que no…… saber sobre él……"
-"Ilulakamui (talking)","そうか…… イヤイライケレ（ありがとう）。","I see…… Iyairaikere (thank you).","Ya veo…… Iyairaikere (gracias)."
-"Ilulakamui (thinking)","これで一体、何人に聞いたのか… 誰も、ウパスを見た者はいない。
+Ilulakamui (talking),そうか…… イヤイライケレ（ありがとう）。,I see…… Iyairaikere (thank you).,Ya veo…… Iyairaikere (gracias).
+Ilulakamui (thinking),"これで一体、何人に聞いたのか… 誰も、ウパスを見た者はいない。
  ……ウパス… もう少し待ってくれ… もうすぐ、お前を探し出す……","How many people have you asked now… no one has seen Upasu.
  ……Upasu… just wait a little longer… soon, we'll find you……","A cuántas personas has preguntado ahora… nadie ha visto Upasu.
  ……Upasu… sólo espera un poco más… pronto, te encontraremos……"
-"Ilulakamui (talking)","本当…なのか？","Really…?","¿Es cierto…?"
-"Hasekura Haine (talking)","ここに。","WHEREAS.","DÓNDE."
-"Upasu (talking)","……………","……………","……………"
-"Ilulakamui (talking)","ウ……ウパスっ…！！","U……Upasu…!","U……Upasu…"
-"Upasu (talking)","イルラカムイ……","Ilulakamui……","Ilulakamui……"
-"Ilulakamui (talking)","……どうした？","…… What's up?","…… ¿Qué pasa?"
-"Upasu (talking)","っ……私……だめ…… あなたに抱かれる事…出来ない…","I…… can't…… hold you… can't…","No puedo… sostenerte…"
-"Ilulakamui (talking)","ウパス……？","Upasu ……?","¿Recibirás un mensaje?"
-"Upasu (talking)","私……人に売られた…… そして……
+Ilulakamui (talking),本当…なのか？,Really…?,¿Es cierto…?
+Hasekura Haine (talking),ここに。,WHEREAS.,DÓNDE.
+Upasu (talking),……………,……………,……………
+Ilulakamui (talking),ウ……ウパスっ…！！,U……Upasu…!,U……Upasu…
+Upasu (talking),イルラカムイ……,Ilulakamui……,Ilulakamui……
+Ilulakamui (talking),……どうした？,…… What's up?,…… ¿Qué pasa?
+Upasu (talking),っ……私……だめ…… あなたに抱かれる事…出来ない…,I…… can't…… hold you… can't…,No puedo… sostenerte…
+Ilulakamui (talking),ウパス……？,Upasu ……?,¿Recibirás un mensaje?
+Upasu (talking),"私……人に売られた…… そして……
  …………っ…ぁ……","I…… was sold to people…… and ……
- ……………ah……","I…… se vendió a la gente…… y ………………… ah……"
-"Ilulakamui (talking)","いやなら言うな。","If you don't like it, don't say it.","Si no te gusta, no lo digas."
-"Upasu (talking)","っ………","You can find out more at ………","………"
-"Ilulakamui (talking)","ウパスはウパスだ。 俺の生涯たった一人の俺の妻だ。","Upasu is Upasu. My only wife in my whole life.","Upasu es Upasu. Es mi esposa, la única en toda mi vida."
-"Upasu (talking)","イルラカムイ……","Ilulakamui……","Ilulakamui……"
-"Ilulakamui (talking)","俺は違うのか？ 俺はお前の生涯一人の夫ではないのか？","Am I not? Am I not your one husband for life?","¿No es así? ¿No soy tu único marido de por vida?"
-"Upasu (talking)","違わないっ……違わないっ……","No different…… No different……","No es diferente…… No es diferente……"
-"Ilulakamui (talking)","ならば……","Then you can go to ……","Entonces puedes ir a ……"
-"narrator","イルラカムイはウパスの腕を取り、 自分の胸に抱き入れた。","Ilulakamui took Upasu's arm and held him to his chest.","Ilulakamui tomó el brazo de Upasu y la estrechó contra su pecho."
-"Ilulakamui (talking)","ウパス…… この時をどれだけ願ったか……！！","Upasu…… how I wished for this moment……!","Upasu…… ¡cómo deseaba este momento……!"
-"Upasu (talking)","うっ………
+ ……………ah……",I…… se vendió a la gente…… y ………………… ah……
+Ilulakamui (talking),いやなら言うな。,"If you don't like it, don't say it.","Si no te gusta, no lo digas."
+Upasu (talking),っ………,You can find out more at ………,………
+Ilulakamui (talking),ウパスはウパスだ。 俺の生涯たった一人の俺の妻だ。,Upasu is Upasu. My only wife in my whole life.,"Upasu es Upasu. Es mi esposa, la única en toda mi vida."
+Upasu (talking),イルラカムイ……,Ilulakamui……,Ilulakamui……
+Ilulakamui (talking),俺は違うのか？ 俺はお前の生涯一人の夫ではないのか？,Am I not? Am I not your one husband for life?,¿No es así? ¿No soy tu único marido de por vida?
+Upasu (talking),違わないっ……違わないっ……,No different…… No different……,No es diferente…… No es diferente……
+Ilulakamui (talking),ならば……,Then you can go to ……,Entonces puedes ir a ……
+narrator,イルラカムイはウパスの腕を取り、 自分の胸に抱き入れた。,Ilulakamui took Upasu's arm and held him to his chest.,Ilulakamui tomó el brazo de Upasu y la estrechó contra su pecho.
+Ilulakamui (talking),ウパス…… この時をどれだけ願ったか……！！,Upasu…… how I wished for this moment……!,Upasu…… ¡cómo deseaba este momento……!
+Upasu (talking),"うっ………
 ううっ……あああっ……！！","Ugh………
 Ugh…… ohhhh ……!!!!","Ugh………
  ¡¡¡¡Ugh…… ohhhh……!!!!"
-"Ilulakamui (talking)","ありがとう、感謝する。","Thank you, I appreciate it.","Gracias, se lo agradezco."
-"Hasekura Haine (talking)","ではそれを、仕事で見せて 頂きたいですな。","Then I would like to see it at work.","Entonces me gustaría ver eso en el trabajo."
-"Ilulakamui (talking)","わかった。 今まで以上に戦おう。","All right. Let's fight now more than ever.","Vale, lo entiendo. Luchemos más que nunca."
-"Upasu (talking)","イルラカムイ…？","Ilulakamui…?","Ilulakamui…"
-"Ilulakamui (talking)","心配するな。 俺はもう、お前を手に入れた。 俺は無敵だ。
+Ilulakamui (talking),ありがとう、感謝する。,"Thank you, I appreciate it.","Gracias, se lo agradezco."
+Hasekura Haine (talking),ではそれを、仕事で見せて 頂きたいですな。,Then I would like to see it at work.,Entonces me gustaría ver eso en el trabajo.
+Ilulakamui (talking),わかった。 今まで以上に戦おう。,All right. Let's fight now more than ever.,"Vale, lo entiendo. Luchemos más que nunca."
+Upasu (talking),イルラカムイ…？,Ilulakamui…?,Ilulakamui…
+Ilulakamui (talking),"心配するな。 俺はもう、お前を手に入れた。 俺は無敵だ。
 絶対、離れない。","Don't worry. I already have you. I'm invincible.
 I'll never leave you.","No te preocupes. Ya te tengo. Soy invencible.
 Nunca te dejaré."
-"Upasu (talking)","………………","………………","………………"
-"__system__??","{☆イルラカムイ = 23:","",""
-"narrator","厳しい顔をしたリンダの前に、 イルラカムイは連れ出された。","Ilulakamui was taken out before a stern-faced Linda.","Ilulakamui fue sacado ante una Linda de rostro severo."
-"Momoyama Linda (talking)","思ったより働かなかったでちゅわね。","You didn't work as hard as I thought you would.","No has trabajado tanto como pensabas."
-"Ilulakamui (talking)","すまぬ。 自分でもなさけないと思っている。","I am sorry. I feel sorry for myself.","Lo siento. Me da pena."
-"Momoyama Linda (talking)","それだけではすみませんでちゅわ。 あなたはもうこのＰＭに必要なちでちゅ。","I'm sorry that's not all. You are no longer needed in this PM.","Siento que eso no sea todo. Ya no eres necesario en esta PM."
-"Ilulakamui (talking)","なんだと？","What the hell?","¿Qué?"
-"Momoyama Linda (talking)","あなたに払う無駄金はありまちぇん。 とっとと田舎に帰ってくだちゃい。","I have no money to waste on you. Please go back to the countryside.","No hay que malgastar el dinero en pagarle. Por favor, vuelve al campo."
-"Ilulakamui (talking)","……しかし…あなた達には、 ウパスを見つけて貰った恩が…","……But… we owe you guys a debt of gratitude for helping us find Upasu…","…… Pero… estamos en deuda con ustedes por haber encontrado a Upasu…"
-"Momoyama Linda (talking)","その恩を上手に返せなかったのは、 あなたでちゅわ。","It was you who failed to return the favor.","Fuiste tú quien no devolvió bien ese favor."
-"Ilulakamui (talking)","……………","……………","……………"
-"Momoyama Linda (talking)","ごきげんよう。","Have a nice day.","Que tenga un buen día."
-"Ilulakamui (talking)","………あなたに、 神々の祝福がありますように…","May Gods bless you, …………","……… Que Dios te acompañe y te bendiga…"
-"Ilulakamui (talking)","……………","……………","……………"
-"Upasu (talking)","……悔しいの…？","…… Are you frustrated…?","…… ¿Estás frustrado…?"
-"Ilulakamui (talking)","ああ。","Oh.","Oh."
-"Upasu (talking)","………でもね私は、嬉しいわ。 あなたと村に帰る事が出来るんですもの。","……… but I, for one, am glad. I can go back to the village with you.","Aunque……… estoy, estoy feliz. Puedo volver al pueblo contigo."
-"Ilulakamui (talking)","ウパス……","Upasu……","……"
-"Upasu (talking)","ね？ 帰りましょう… 私達の村に…","See? Let's go back… to our village…","¿Ves? Volvamos… a nuestro pueblo…"
-"Ilulakamui (talking)","…そうだな… 今の俺達に出来るのは、それだけだ…","…well… that's all we can do now…","…bueno… es lo menos que podemos hacer ahora…"
-"narrator","こうして、イルラカムイはＰＭを解雇された。","Thus, Ilulakamui was fired as PM.","Así, Ilulakamui fue destituido como PM."
-"__system__??","}","",""
-"narrator","厳しい顔をしたリンダの前に、 イルラカムイは連れ出された。","Ilulakamui was taken out before a stern-faced Linda.","Ilulakamui fue sacado ante una Linda de rostro severo."
-"Momoyama Linda (talking)","思ったより働かなかったでちゅわね。","You didn't work as hard as I thought you would.","No has trabajado tanto como pensabas."
-"Ilulakamui (talking)","すまぬ。 自分でもなさけないと思っている。","I am sorry. I feel sorry for myself.","Lo siento. Me da pena."
-"Momoyama Linda (talking)","それだけではすみませんでちゅわ。 あなたはもうこのＰＭに必要なちでちゅ。","I'm sorry that's not all. You are no longer needed in this PM.","Siento que eso no sea todo. Ya no eres necesario en esta PM."
-"Ilulakamui (talking)","なんだと？ それでは、ウパスの捜索は……","What the heck? Well, you can find Upasu at ……","¿Qué? Así, la búsqueda de Upasu se puede encontrar en ……"
-"Momoyama Linda (talking)","当たり前でちゅけど、 もう終わりでちゅわ。","Of course, it's over.","Por supuesto, se acabó."
-"Ilulakamui (talking)","そんな……","Such as ……","Como ……"
-"Momoyama Linda (talking)","帰ってくだちゃい。 もういりまちぇん。","Please go home. I don't want it anymore.","Por favor, vete a casa. Ya no lo quiero."
-"Ilulakamui (talking)","頼む、もう少し。 もう少し頑張らせてくれ。","Please, a little more. Let me try a little harder.","Por favor, un poco más. Déjame intentarlo un poco más."
-"Momoyama Linda (talking)","ハイネ！","Haine!","¡¡¡Haine!!!"
-"narrator","ハイネはリンダに向かって静かに頭を下げると イルラカムイの首の後ろに手刀を叩きつけた。","Haine bowed quietly to Linda and slammed his hand sword into the back of Ilulakamui's neck.","Haine se inclinó en silencio hacia Linda y clavó su espada de mano en la nuca de Ilulakamui."
-"narrator","イルラカムイは気絶し、 ハイネの腕の中に倒れる。","Ilulakamui faints and falls into Haine's arms.","Ilulakamui se desmaya y cae en los brazos de Haine."
-"Momoyama Linda (talking)","捨ててきなちゃい。","Go ahead and throw it away.","Adelante, tíralo."
-"narrator","こうして、イルラカムイはＰＭを解雇された。","Thus, Ilulakamui was fired as PM.","Así, Ilulakamui fue destituido como PM."
-"Tamanegi (talking)","ウパスさん。","Upasu.","Upasu."
-"Upasu (talking)","は、はい…","Ha, yes…","Ja, sí…"
-"Tamanegi (talking)","これから、あなたの調教の最終段階に 入らせて頂きます。","We will now begin the final stage of your training.","Ahora comenzaremos la etapa final de su formación."
-"Upasu (talking)","あ……","A……","A……"
-"Tamanegi (talking)","そのように怖がらなくてもよいですよ。 ただちょっと、今までとは違う世界に 行っていただくだけですから…
+Upasu (talking),………………,………………,………………
+__system__??,{☆イルラカムイ = 23:,,
+narrator,厳しい顔をしたリンダの前に、 イルラカムイは連れ出された。,Ilulakamui was taken out before a stern-faced Linda.,Ilulakamui fue sacado ante una Linda de rostro severo.
+Momoyama Linda (talking),思ったより働かなかったでちゅわね。,You didn't work as hard as I thought you would.,No has trabajado tanto como pensabas.
+Ilulakamui (talking),すまぬ。 自分でもなさけないと思っている。,I am sorry. I feel sorry for myself.,Lo siento. Me da pena.
+Momoyama Linda (talking),それだけではすみませんでちゅわ。 あなたはもうこのＰＭに必要なちでちゅ。,I'm sorry that's not all. You are no longer needed in this PM.,Siento que eso no sea todo. Ya no eres necesario en esta PM.
+Ilulakamui (talking),なんだと？,What the hell?,¿Qué?
+Momoyama Linda (talking),あなたに払う無駄金はありまちぇん。 とっとと田舎に帰ってくだちゃい。,I have no money to waste on you. Please go back to the countryside.,"No hay que malgastar el dinero en pagarle. Por favor, vuelve al campo."
+Ilulakamui (talking),……しかし…あなた達には、 ウパスを見つけて貰った恩が…,……But… we owe you guys a debt of gratitude for helping us find Upasu…,…… Pero… estamos en deuda con ustedes por haber encontrado a Upasu…
+Momoyama Linda (talking),その恩を上手に返せなかったのは、 あなたでちゅわ。,It was you who failed to return the favor.,Fuiste tú quien no devolvió bien ese favor.
+Ilulakamui (talking),……………,……………,……………
+Momoyama Linda (talking),ごきげんよう。,Have a nice day.,Que tenga un buen día.
+Ilulakamui (talking),………あなたに、 神々の祝福がありますように…,"May Gods bless you, …………",……… Que Dios te acompañe y te bendiga…
+Ilulakamui (talking),……………,……………,……………
+Upasu (talking),……悔しいの…？,…… Are you frustrated…?,…… ¿Estás frustrado…?
+Ilulakamui (talking),ああ。,Oh.,Oh.
+Upasu (talking),………でもね私は、嬉しいわ。 あなたと村に帰る事が出来るんですもの。,"……… but I, for one, am glad. I can go back to the village with you.","Aunque……… estoy, estoy feliz. Puedo volver al pueblo contigo."
+Ilulakamui (talking),ウパス……,Upasu……,……
+Upasu (talking),ね？ 帰りましょう… 私達の村に…,See? Let's go back… to our village…,¿Ves? Volvamos… a nuestro pueblo…
+Ilulakamui (talking),…そうだな… 今の俺達に出来るのは、それだけだ…,…well… that's all we can do now…,…bueno… es lo menos que podemos hacer ahora…
+narrator,こうして、イルラカムイはＰＭを解雇された。,"Thus, Ilulakamui was fired as PM.","Así, Ilulakamui fue destituido como PM."
+__system__??,},,
+narrator,厳しい顔をしたリンダの前に、 イルラカムイは連れ出された。,Ilulakamui was taken out before a stern-faced Linda.,Ilulakamui fue sacado ante una Linda de rostro severo.
+Momoyama Linda (talking),思ったより働かなかったでちゅわね。,You didn't work as hard as I thought you would.,No has trabajado tanto como pensabas.
+Ilulakamui (talking),すまぬ。 自分でもなさけないと思っている。,I am sorry. I feel sorry for myself.,Lo siento. Me da pena.
+Momoyama Linda (talking),それだけではすみませんでちゅわ。 あなたはもうこのＰＭに必要なちでちゅ。,I'm sorry that's not all. You are no longer needed in this PM.,Siento que eso no sea todo. Ya no eres necesario en esta PM.
+Ilulakamui (talking),なんだと？ それでは、ウパスの捜索は……,"What the heck? Well, you can find Upasu at ……","¿Qué? Así, la búsqueda de Upasu se puede encontrar en ……"
+Momoyama Linda (talking),当たり前でちゅけど、 もう終わりでちゅわ。,"Of course, it's over.","Por supuesto, se acabó."
+Ilulakamui (talking),そんな……,Such as ……,Como ……
+Momoyama Linda (talking),帰ってくだちゃい。 もういりまちぇん。,Please go home. I don't want it anymore.,"Por favor, vete a casa. Ya no lo quiero."
+Ilulakamui (talking),頼む、もう少し。 もう少し頑張らせてくれ。,"Please, a little more. Let me try a little harder.","Por favor, un poco más. Déjame intentarlo un poco más."
+Momoyama Linda (talking),ハイネ！,Haine!,¡¡¡Haine!!!
+narrator,ハイネはリンダに向かって静かに頭を下げると イルラカムイの首の後ろに手刀を叩きつけた。,Haine bowed quietly to Linda and slammed his hand sword into the back of Ilulakamui's neck.,Haine se inclinó en silencio hacia Linda y clavó su espada de mano en la nuca de Ilulakamui.
+narrator,イルラカムイは気絶し、 ハイネの腕の中に倒れる。,Ilulakamui faints and falls into Haine's arms.,Ilulakamui se desmaya y cae en los brazos de Haine.
+Momoyama Linda (talking),捨ててきなちゃい。,Go ahead and throw it away.,"Adelante, tíralo."
+narrator,こうして、イルラカムイはＰＭを解雇された。,"Thus, Ilulakamui was fired as PM.","Así, Ilulakamui fue destituido como PM."
+Tamanegi (talking),ウパスさん。,Upasu.,Upasu.
+Upasu (talking),は、はい…,"Ha, yes…","Ja, sí…"
+Tamanegi (talking),これから、あなたの調教の最終段階に 入らせて頂きます。,We will now begin the final stage of your training.,Ahora comenzaremos la etapa final de su formación.
+Upasu (talking),あ……,A……,A……
+Tamanegi (talking),"そのように怖がらなくてもよいですよ。 ただちょっと、今までとは違う世界に 行っていただくだけですから…
 そう…旅行のようなものですよ… ……クククッ……","You don't have to be afraid. We just need you to go to a world that is a little bit different from the one you are used to…
 Yes… it's like a trip… ……kkkkkkkkkk ……","No tienes que tener ese miedo. Sólo necesitamos que vayas a un mundo un poco diferente al que estás acostumbrado…
 Así que… es como un viaje… ……kkkkkkkkkk ……"
-"cg narrator","「いっ…いやぁっ……やめてっ…… 　いたっ…あっ……」
+cg narrator,"「いっ…いやぁっ……やめてっ…… 　いたっ…あっ……」
  「あーーーっ………！！！」","”I…no…no……… don't……… it…ah…ah………”
 Aaaaahhhh………!","'Yo…no…no……… deténgalo…ah…ah………'
  ¡Aaaaahhh ………!"
-"cg narrator","容赦なくいきり立ったそれが、 ゆっくりウパスの菊座に入りこんでいく。
+cg narrator,"容赦なくいきり立ったそれが、 ゆっくりウパスの菊座に入りこんでいく。
 「ひっ…！！ 　いやっ…いやぁぁっ…！！」
 ウパスは抵抗するが、その小さな躰では、 屈強な男達にはかなわなかった。
 「いっ…！！」
@@ -571,13 +571,13 @@ La sensación de sus suspiros agrietando a través de la carne recuerda a Upasu 
 「Ilulakamui……A~…a~aa~……」
 「A~……」
 「A~~~~~~~……！！！」"
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"Chinpira (talking)","はい、お待たせしました~。 特製ステージ、準備完了しました~。
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+Chinpira (talking),"はい、お待たせしました~。 特製ステージ、準備完了しました~。
 それではウパスさん、ウパスさん。 張り切ってどうぞ~！ ハッスル~！","Yes, thank you for your patience~! The special stage is now ready for Ryou.
 Now, Mr. Upasu, Mr. Upasu. Please go ahead and hustle~! Hustle~!","Sí, gracias por su paciencia~. El escenario especial ya está totalmente preparado Ryou.
 Ahora, Upasu, Upasu. ¡Apúrate! ¡Apúrate!"
-"cg narrator","「うあっ…ああっ…んっ……」
+cg narrator,"「うあっ…ああっ…んっ……」
  「はあ…はぁぁ………」
  「んっ…」
  「お待たせしました…どうぞ、グラスを…」","Uh…ahh…mmm………
@@ -587,7 +587,7 @@ Here you go… please, have a glass…”","Uh… ah… mmm… ……”
 Haa… ah… ………”
 Mmm…”
 Aquí tienes… por favor, toma un vaso…”"
-"cg narrator","ウパスは大きく足を開き、そこに差し込まれ、 固定された瓶の中身をゆっくり、 客の差し出すグラスにシャンパンを注ぐ。
+cg narrator,"ウパスは大きく足を開き、そこに差し込まれ、 固定された瓶の中身をゆっくり、 客の差し出すグラスにシャンパンを注ぐ。
  「んっ…んんっ……」
 足の力でその行為をする為、 ウパスは少し震えていた。
  「大丈夫かい？ 　震えているようだけど…」
@@ -800,15 +800,15 @@ La botella comienza a moverse lentamente.
 La botella sale lentamente, lentamente, de ella.
  '¡Ah… ah… ah, ah, ah……!
 Astuto, la botella fue escupida del pétalo. Y al mismo tiempo, Upasu brotó de él, derramando las cuentas sobre la flor."
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"__system__??","{☆イルラカムイ = 7:","",""
-"Chinpira (talking)","よし、行くぞ。","Okay, here we go.","Bien, aquí vamos."
-"__system__??","}","",""
-"Chinpira (talking)","あなた達に怨みはないが、 やらせて貰う。","I have nothing against you guys, but I have to try.","No tengo nada en contra de ustedes, pero tengo que intentarlo."
-"Upasu (talking)","イルラカムイ…","Ilulakamui…","Ilulakamui…"
-"Ilulakamui (talking)","ここだ、ウパス。","Here, Upasu.","Aquí, Upasu."
-"Upasu (talking)","長老様達がお呼びよ。 子供達の教育について、本土に行った事の あるあなたに意見が聞きたいのですって。","The Elders want to see you. They want your opinion on the education of their children, since you have been to the mainland.","Los ancianos quieren verte. Quieren tu opinión sobre la educación de sus hijos, ya que has estado en el continente."
-"Ilulakamui (talking)","うむ…本土にいたと言っても、 そのような事に関っては いなかったがなぁ…","Well…I was on the mainland, but I wasn't involved in any of that…","Bueno… cuando estaba en el continente, no estaba involucrado en nada de eso…"
-"Upasu (talking)","長老様達は、あなたを頼りにしたいのよ。 さあ、行きましょう。","The Elders want to rely on you. Let's go.","Los ancianos quieren confiar en ti. Venga, vamos."
-"Ilulakamui (talking)","うむ、そうだな。","Mm, yes.","Mm, sí."
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+__system__??,{☆イルラカムイ = 7:,,
+Chinpira (talking),よし、行くぞ。,"Okay, here we go.","Bien, aquí vamos."
+__system__??,},,
+Chinpira (talking),あなた達に怨みはないが、 やらせて貰う。,"I have nothing against you guys, but I have to try.","No tengo nada en contra de ustedes, pero tengo que intentarlo."
+Upasu (talking),イルラカムイ…,Ilulakamui…,Ilulakamui…
+Ilulakamui (talking),ここだ、ウパス。,"Here, Upasu.","Aquí, Upasu."
+Upasu (talking),長老様達がお呼びよ。 子供達の教育について、本土に行った事の あるあなたに意見が聞きたいのですって。,"The Elders want to see you. They want your opinion on the education of their children, since you have been to the mainland.","Los ancianos quieren verte. Quieren tu opinión sobre la educación de sus hijos, ya que has estado en el continente."
+Ilulakamui (talking),うむ…本土にいたと言っても、 そのような事に関っては いなかったがなぁ…,"Well…I was on the mainland, but I wasn't involved in any of that…","Bueno… cuando estaba en el continente, no estaba involucrado en nada de eso…"
+Upasu (talking),長老様達は、あなたを頼りにしたいのよ。 さあ、行きましょう。,The Elders want to rely on you. Let's go.,"Los ancianos quieren confiar en ti. Venga, vamos."
+Ilulakamui (talking),うむ、そうだな。,"Mm, yes.","Mm, sí."

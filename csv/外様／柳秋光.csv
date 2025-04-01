@@ -1,28 +1,28 @@
-"character","jap text","Eng","Esp"
-"__system__??","{麦 = 1:","",""
-"__system__??","{☆秋光 = 2:","",""
-"__system__??","}","",""
-"__system__??","{☆秋光 = 3:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 3:","",""
-"__system__??","}","",""
-"Yanagi Akimitsu (talking)","……………","……………","……………"
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Yanagi Akimitsu (talking)","……いない……のか……","…… not ……'s ……'s ……","…… no ……'s ……"
-"Yamamoto Akuji (talking)","ん？ ああ、さっちゃんの事か？","Hmm? Oh, you mean Sacchan?","¿Hmm? ¿Te refieres a Sacchan?"
-"Yanagi Akimitsu (talking)","……………","……………","……………"
-"Yamamoto Akuji (talking)","この時間はガッコーだ。 あれでも、真面目なんだぜ。","This time of day is gakko. Even that one is serious, man.","Es gacko a esta hora del día. Incluso ese es serio, hombre."
-"Yanagi Akimitsu (talking)","………………","………………","………………"
-"Yamamoto Akuji (talking)","お前さんよぅ……ロリコンか？","Are you a pedophile?","¿Es usted, eh, un pedófilo de ……?"
-"Yanagi Akimitsu (talking)","……………","……………","……………"
-"__system__??","{★愛 = 5:","",""
-"Yamamoto Akuji (talking)","さっちゃんは違うっつってたけどよぉ、 俺は嫁さんに、あんまし変な奴が くっついてくんの見たくねーんだけどな。","Sacchan said it was different, but I don't want to see some strange guy following my wife around.","Sacchan dijo que no, pero no quiero ver a un bicho raro siguiendo a mi mujer."
-"__system__??","}","",""
-"__system__??","{★愛 \ 5:","",""
-"Yamamoto Akuji (talking)","さっちゃんは違うっつってたけどよぉ、 俺は大事な叔母さんに、あんまし変な奴が くっついてくんの見たくねーんだけどな。","Sacchan said she wasn't, but I don't want to see some weirdo following my precious aunt around.","Sacchan dijo que no, pero no quiero ver a un bicho raro siguiendo a mi preciosa tía."
-"__system__??","}","",""
-"Yanagi Akimitsu (talking)","……………
+character,jap text,Eng,Esp
+__system__??,{麦 = 1:,,
+__system__??,{☆秋光 = 2:,,
+__system__??,},,
+__system__??,{☆秋光 = 3:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 3:,,
+__system__??,},,
+Yanagi Akimitsu (talking),……………,……………,……………
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Yanagi Akimitsu (talking),……いない……のか……,…… not ……'s ……'s ……,…… no ……'s ……
+Yamamoto Akuji (talking),ん？ ああ、さっちゃんの事か？,"Hmm? Oh, you mean Sacchan?",¿Hmm? ¿Te refieres a Sacchan?
+Yanagi Akimitsu (talking),……………,……………,……………
+Yamamoto Akuji (talking),この時間はガッコーだ。 あれでも、真面目なんだぜ。,"This time of day is gakko. Even that one is serious, man.","Es gacko a esta hora del día. Incluso ese es serio, hombre."
+Yanagi Akimitsu (talking),………………,………………,………………
+Yamamoto Akuji (talking),お前さんよぅ……ロリコンか？,Are you a pedophile?,"¿Es usted, eh, un pedófilo de ……?"
+Yanagi Akimitsu (talking),……………,……………,……………
+__system__??,{★愛 = 5:,,
+Yamamoto Akuji (talking),さっちゃんは違うっつってたけどよぉ、 俺は嫁さんに、あんまし変な奴が くっついてくんの見たくねーんだけどな。,"Sacchan said it was different, but I don't want to see some strange guy following my wife around.","Sacchan dijo que no, pero no quiero ver a un bicho raro siguiendo a mi mujer."
+__system__??,},,
+__system__??,{★愛 \ 5:,,
+Yamamoto Akuji (talking),さっちゃんは違うっつってたけどよぉ、 俺は大事な叔母さんに、あんまし変な奴が くっついてくんの見たくねーんだけどな。,"Sacchan said she wasn't, but I don't want to see some weirdo following my precious aunt around.","Sacchan dijo que no, pero no quiero ver a un bicho raro siguiendo a mi preciosa tía."
+__system__??,},,
+Yanagi Akimitsu (talking),"……………
  ……俺には…妹がいた……
  ………だが……組織の奴らが殺した… だから復讐した……
 そうしたら、別の奴が俺に復讐にきた… それも殺した……
@@ -35,68 +35,68 @@ In the meantime,…… nobody came to Satsu me anymore… on the contrary, peopl
 Luego vino otro tipo a vengarse de mí… que también Satsu……
 Mientras tanto,…… nadie vino a Satsu a mí… al contrario, vinieron a pedirme que Satsu a la gente……
 Yo sólo…… sólo…… eso es todo……"
-"narrator","秋光は女物の羽織をきゅっと握った。","Akimitsu squeezed the women's cloak.","Akimitsu apretó su capa de mujer."
-"Yamamoto Akuji (talking)","ふーん。","Hmmm.","Hmmm."
-"Yanagi Akimitsu (talking)","……小さな女の子は…… 皆、影がだぶる……妹……ふゆに……","…… little girls are…… all a shadow of their…… sister…… Fuyu ni ……","…… las niñas son…… todas una sombra de lo que fueron…… hermana pequeña…… Fuyu ni ……"
-"Yamamoto Akuji (talking)","溺愛してたんだな。","You doted on them.","Los adorabas."
-"Yanagi Akimitsu (talking)","……………","……………","……………"
-"Yamamoto Akuji (talking)","お、もーすぐ、さっちゃんがガッコーから 帰ってくる時間だ。
+narrator,秋光は女物の羽織をきゅっと握った。,Akimitsu squeezed the women's cloak.,Akimitsu apretó su capa de mujer.
+Yamamoto Akuji (talking),ふーん。,Hmmm.,Hmmm.
+Yanagi Akimitsu (talking),……小さな女の子は…… 皆、影がだぶる……妹……ふゆに……,…… little girls are…… all a shadow of their…… sister…… Fuyu ni ……,…… las niñas son…… todas una sombra de lo que fueron…… hermana pequeña…… Fuyu ni ……
+Yamamoto Akuji (talking),溺愛してたんだな。,You doted on them.,Los adorabas.
+Yanagi Akimitsu (talking),……………,……………,……………
+Yamamoto Akuji (talking),"お、もーすぐ、さっちゃんがガッコーから 帰ってくる時間だ。
 おう、あんた。 迎えにいってやってくんねーか？","Oh, it's almost time for Sacchan to come back from Gakko.
 Hey, you. Can't you pick him up for me?","Oh, es casi la hora de que Sacchan vuelva de Gakko.
 Oye, tú. ¿Puedes recogerlo?"
-"Yanagi Akimitsu (talking)","……いい…のか？","…… good…?","…… bueno…?"
-"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
-"Yanagi Akimitsu (talking)","……ありがとう……","Thank you…… ……","Gracias…… ……"
-"Yamamoto Akuji (thinking)","ふーん、礼はちゃんと言えるのな。","Hmmm, you can thank me properly.","Hmmm, puedes agradecérmelo debidamente."
-"narrator","悪司は漫画を読んでいる。","Akuji is reading manga.","Akuji lee manga."
-"Yamamoto Akuji (thinking)","ん~~秘湯か~… しっぽりしたいね~……","Mmmm~~ hidden hot springs… I'd love to get some peace and quiet~……","Mmmm… aguas termales escondidas… me encantaría relajarme……"
-"Takega Satsu (talking)","今、帰った。","I just left.","Acabo de salir."
-"Yamamoto Akuji (talking)","おう、おかえり。","Oh, welcome back.","Oh, bienvenido de nuevo."
-"Yanagi Akimitsu (talking)","…………","…………","…………"
-"Yamamoto Akuji (talking)","なんだ、またさっちゃん、 迎えにいってたのか。 そんで、呼び出してもいなかった訳だ。","What, Sacchan was picking you up again? And you didn't even call me.","¿Qué, Sacchan te estaba recogiendo de nuevo? Y por eso no me has llamado."
-"Yanagi Akimitsu (talking)","……すまん……","Sorry …………","Lo siento…… ……"
-"Takega Satsu (talking)","そう叱ってやらんでくれ。 デートに誘ったのは私だし。","Don't scold him so. I'm the one who asked you out.","No lo regañes así. Yo soy el que te invitó a la cita."
-"Yamamoto Akuji (talking)","でーーーとぉぉぉぉぉ？？？？","Daaaaaaaate????","¿¿¿¿Ciiiitaaaaaa????"
-"Takega Satsu (talking)","ああ、そうだ。 二人でたこやきを食べてきた。","Oh, yes. We both had takoyaki.","Oh, sí. Ambos comimos takoyaki."
-"Yamamoto Akuji (talking)","あ~……その程度ね……","Ahh…… that's about it ……","Oh,…… eso es todo……"
-"Takega Satsu (talking)","それではしっかりやるのだぞ、秋光。","Then do it well, Akimitsu.","Entonces hazlo bien, Akimitsu."
-"Yanagi Akimitsu (talking)","………ああ……","……… oh ……","……… Oh ……"
-"Yamamoto Akuji (thinking)","尻にしかれてるのか……？","Are you up to your ass ……?","¿Estás hasta el culo ……?"
-"Yanagi Akimitsu (talking)","………………","………………","………………"
-"Yamamoto Akuji (talking)","おう、きてくれたか。","Oh, you came.","Oh, has venido."
-"Yamamoto Akuji (talking)","これ、つまんねーモンだけど。","This is a boring monstrosity.","Este es un mon aburrido."
-"Yanagi Akimitsu (talking)","…………すまない…","Sorry ……………","………… Lo siento…"
-"narrator","秋光は悪司の差し出した金をそっと受け取った。","Akimitsu gently took the money offered by Akuji.","Akimitsu tomó suavemente el dinero ofrecido por Akuji."
-"narrator","ぽつんと、わざとはずれに作られたような 別荘の前に、悪司達はきていた。","Akuji and his friends were in front of an isolated villa that seemed to have been deliberately built on the outskirts of the city.","Akuji y sus amigos estaban frente a una villa aislada que parecía haber sido construida deliberadamente en las afueras de la ciudad."
-"Yamamoto Akuji (talking)","陰気くせーとこだなー。","It's a gloomy place!","Es un lugar sombrío."
-"Takega Satsu (talking)","そうだな。 まるでわざと人の目から 逃れているようだ。","Yes, it is. It's as if he's deliberately trying to escape the public eye.","Sí. Es como si se evadiera deliberadamente del ojo público."
-"Yamamoto Akuji (talking)","くれー奴だったらいやだなー。 帰ろうか、さっちゃん。","I don't like it if he's a jerk. Let's go home, Sacchan.","No me gusta que sea un imbécil. Vamos a casa, Sacchan."
-"Takega Satsu (talking)","そういう訳にもいかんだろう。 さっさと行くぞ。","That's not how it works. Let's get the hell out of here.","No es así como funciona. Vámonos de aquí."
-"Yamamoto Akuji (talking)","うへーい。","Uhey.","Uhey."
-"narrator","悪司は別荘の入り口にきた。","Akuji came to the entrance of the villa.","Akuji llegó a la entrada de la villa."
-"Yamamoto Akuji (talking)","おう、さっちゃん。 相手はどんな奴かわかんねーから、 俺の影、隠れてな。","Hey, Sacchan. You never know what kind of guy you're dealing with, so stay in my shadow.","Hola, Sacchan. No sabes con qué tipo de persona estás tratando, así que mantente a mi sombra."
-"Takega Satsu (talking)","わかった。 相手が何かしそうになったら、 私が奇襲をかけるのだな。","I get it. If they try anything, I'll take them by surprise.","Lo entiendo. Si están a punto de hacer algo, los tomaré por sorpresa."
-"Yamamoto Akuji (talking)","いや、そーいう訳じゃねーが… まいっか、それも。 じゃ、行くぜ。","No, that's not why I'm here, but… oh, well, that's okay, too. All right, let's go.","No, no es por eso por lo que estoy aquí, pero… vale, también está bien. Bien, vamos."
-"narrator","悪司は別荘のインターホンを鳴らした。
+Yanagi Akimitsu (talking),……いい…のか？,…… good…?,…… bueno…?
+Yamamoto Akuji (talking),ああ。,Oh.,Oh.
+Yanagi Akimitsu (talking),……ありがとう……,Thank you…… ……,Gracias…… ……
+Yamamoto Akuji (thinking),ふーん、礼はちゃんと言えるのな。,"Hmmm, you can thank me properly.","Hmmm, puedes agradecérmelo debidamente."
+narrator,悪司は漫画を読んでいる。,Akuji is reading manga.,Akuji lee manga.
+Yamamoto Akuji (thinking),ん~~秘湯か~… しっぽりしたいね~……,Mmmm~~ hidden hot springs… I'd love to get some peace and quiet~……,Mmmm… aguas termales escondidas… me encantaría relajarme……
+Takega Satsu (talking),今、帰った。,I just left.,Acabo de salir.
+Yamamoto Akuji (talking),おう、おかえり。,"Oh, welcome back.","Oh, bienvenido de nuevo."
+Yanagi Akimitsu (talking),…………,…………,…………
+Yamamoto Akuji (talking),なんだ、またさっちゃん、 迎えにいってたのか。 そんで、呼び出してもいなかった訳だ。,"What, Sacchan was picking you up again? And you didn't even call me.","¿Qué, Sacchan te estaba recogiendo de nuevo? Y por eso no me has llamado."
+Yanagi Akimitsu (talking),……すまん……,Sorry …………,Lo siento…… ……
+Takega Satsu (talking),そう叱ってやらんでくれ。 デートに誘ったのは私だし。,Don't scold him so. I'm the one who asked you out.,No lo regañes así. Yo soy el que te invitó a la cita.
+Yamamoto Akuji (talking),でーーーとぉぉぉぉぉ？？？？,Daaaaaaaate????,¿¿¿¿Ciiiitaaaaaa????
+Takega Satsu (talking),ああ、そうだ。 二人でたこやきを食べてきた。,"Oh, yes. We both had takoyaki.","Oh, sí. Ambos comimos takoyaki."
+Yamamoto Akuji (talking),あ~……その程度ね……,Ahh…… that's about it ……,"Oh,…… eso es todo……"
+Takega Satsu (talking),それではしっかりやるのだぞ、秋光。,"Then do it well, Akimitsu.","Entonces hazlo bien, Akimitsu."
+Yanagi Akimitsu (talking),………ああ……,……… oh ……,……… Oh ……
+Yamamoto Akuji (thinking),尻にしかれてるのか……？,Are you up to your ass ……?,¿Estás hasta el culo ……?
+Yanagi Akimitsu (talking),………………,………………,………………
+Yamamoto Akuji (talking),おう、きてくれたか。,"Oh, you came.","Oh, has venido."
+Yamamoto Akuji (talking),これ、つまんねーモンだけど。,This is a boring monstrosity.,Este es un mon aburrido.
+Yanagi Akimitsu (talking),…………すまない…,Sorry ……………,………… Lo siento…
+narrator,秋光は悪司の差し出した金をそっと受け取った。,Akimitsu gently took the money offered by Akuji.,Akimitsu tomó suavemente el dinero ofrecido por Akuji.
+narrator,ぽつんと、わざとはずれに作られたような 別荘の前に、悪司達はきていた。,Akuji and his friends were in front of an isolated villa that seemed to have been deliberately built on the outskirts of the city.,Akuji y sus amigos estaban frente a una villa aislada que parecía haber sido construida deliberadamente en las afueras de la ciudad.
+Yamamoto Akuji (talking),陰気くせーとこだなー。,It's a gloomy place!,Es un lugar sombrío.
+Takega Satsu (talking),そうだな。 まるでわざと人の目から 逃れているようだ。,"Yes, it is. It's as if he's deliberately trying to escape the public eye.",Sí. Es como si se evadiera deliberadamente del ojo público.
+Yamamoto Akuji (talking),くれー奴だったらいやだなー。 帰ろうか、さっちゃん。,"I don't like it if he's a jerk. Let's go home, Sacchan.","No me gusta que sea un imbécil. Vamos a casa, Sacchan."
+Takega Satsu (talking),そういう訳にもいかんだろう。 さっさと行くぞ。,That's not how it works. Let's get the hell out of here.,No es así como funciona. Vámonos de aquí.
+Yamamoto Akuji (talking),うへーい。,Uhey.,Uhey.
+narrator,悪司は別荘の入り口にきた。,Akuji came to the entrance of the villa.,Akuji llegó a la entrada de la villa.
+Yamamoto Akuji (talking),おう、さっちゃん。 相手はどんな奴かわかんねーから、 俺の影、隠れてな。,"Hey, Sacchan. You never know what kind of guy you're dealing with, so stay in my shadow.","Hola, Sacchan. No sabes con qué tipo de persona estás tratando, así que mantente a mi sombra."
+Takega Satsu (talking),わかった。 相手が何かしそうになったら、 私が奇襲をかけるのだな。,"I get it. If they try anything, I'll take them by surprise.","Lo entiendo. Si están a punto de hacer algo, los tomaré por sorpresa."
+Yamamoto Akuji (talking),いや、そーいう訳じゃねーが… まいっか、それも。 じゃ、行くぜ。,"No, that's not why I'm here, but… oh, well, that's okay, too. All right, let's go.","No, no es por eso por lo que estoy aquí, pero… vale, también está bien. Bien, vamos."
+narrator,"悪司は別荘のインターホンを鳴らした。
 しかし、返事はない。","Akuji rang the intercom at the villa.
 However, there was no answer.","Akuji llamó al intercomunicador de la villa.
 Sin embargo, no hubo respuesta."
-"Yamamoto Akuji (talking)","留守かなー？
+Yamamoto Akuji (talking),"留守かなー？
 ん~……
 もっかい……","I wonder if he's not home?
 Hmmm ……
 Again ……","¿Me pregunto si está fuera?
 Hmmm……
 De nuevo ……"
-"narrator","悪司がインターホンを鳴らそうとしたその時。
+narrator,"悪司がインターホンを鳴らそうとしたその時。
  　　［かしゃ……かちゃん……］","Just as Akuji was about to ring the intercom.
  　　[Kasha…… ka-chan ……]","Justo cuando Akuji estaba a punto de tocar el interfono.
  　　[Kasha…… Kachan ……]"
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"narrator","そっと静かに鍵と扉が開き、 男が顔を覗かせた。","Gently and quietly, the lock and door open, and a man peeks out.","Suavemente y en silencio, la cerradura y la puerta se abren y un hombre se asoma."
-"Yamamoto Akuji (talking)","あんたが、柳秋光さんかい？","Are you Yanagi Akimitsu?","¿Eres Yanagi Akimitsu?"
-"narrator","男は黙って頷いた。","The man nodded silently.","El hombre asintió en silencio."
-"Yamamoto Akuji (talking)","俺は、オオサカからきた。 山本悪司だ。
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+narrator,そっと静かに鍵と扉が開き、 男が顔を覗かせた。,"Gently and quietly, the lock and door open, and a man peeks out.","Suavemente y en silencio, la cerradura y la puerta se abren y un hombre se asoma."
+Yamamoto Akuji (talking),あんたが、柳秋光さんかい？,Are you Yanagi Akimitsu?,¿Eres Yanagi Akimitsu?
+narrator,男は黙って頷いた。,The man nodded silently.,El hombre asintió en silencio.
+Yamamoto Akuji (talking),"俺は、オオサカからきた。 山本悪司だ。
 あんたがニホンでとびきり 強い奴だって聞いてよ。 で、仕事を頼みにきたんだ。
 俺は今、ある組とドンパチの最中でよ。 で、助っ人として、俺んとこにきて 欲しいんだ。
 もちろん、報酬ははずむ。 仕事具合によってだけどな。 どうだい？","I'm from Osaka, Japan. My name is Yamamoto Akuji.
@@ -106,136 +106,136 @@ Of course, I'll pay you. It depends on how well I do. How's that sound?","Soy de
 He oído que eres el más fuerte de Japón. Así que vine a pedirte un trabajo.
 Estoy en medio de una guerra con una banda. Quiero que vengas a mí como ayudante.
 Por supuesto, te pagaré. Depende de lo bien que trabaje. ¿Qué te parece?"
-"Yanagi Akimitsu (talking)","………………","………………","………………"
-"narrator","秋光は、黙ったまま扉を閉めようとしている。","Akimitsu is about to close the door without saying a word.","Akimitsu está a punto de cerrar la puerta sin decir una palabra."
-"Yamamoto Akuji (talking)","おいおい、ちょっと待ってくれよ。 シカトしたまんまかよ。","Hey, hey, hey, wait a minute. You're just going to stay shikkat?","Hey, hey, hey, hey, espera un minuto. ¿Te vas a quedar shikkat?"
-"Takega Satsu (talking)","確かに、行儀が悪いぞ。 ＹＥＳにしろ、ＮＯにしろ、 きちんと言わんか。","Surely, you're not behaving yourself. Say yes or no, but say it properly.","Seguramente, no te estás comportando. Sí o no, dilo bien."
-"Yanagi Akimitsu (talking)","っ…………！！ ……ふ……ゆ……","…………!!!! ……fu……yu……","¡¡¡…………!!! ……fu……yu……"
-"Takega Satsu (talking)","？","？","？"
-"Yanagi Akimitsu (talking)","あんたの……妹か？","Is that your…… sister?","¿Es tu hermana ……?"
-"__system__??","{★愛 = 5:","",""
-"Yamamoto Akuji (talking)","さっちゃんか？ 違う違う。 この人は俺の女房だ。","Sacchan? No, no, no. This is my wife.","¿Sacchan? No, no, no. Esta es mi esposa."
-"__system__??","}","",""
-"__system__??","{★愛 \ 5:","",""
-"Yamamoto Akuji (talking)","さっちゃんか？ 違う違う。 この人は俺の叔母だ。","Sacchan? No, no, no. This is my aunt.","¿Sacchan? No, no, no. Esta es mi tía."
-"__system__??","}","",""
-"__system__??","{★愛 = 5:","",""
-"Takega Satsu (talking)","いかにも。 これは、私の夫だ。","How very. This is my husband.","Cómo. Este es mi marido."
-"__system__??","}","",""
-"__system__??","{★愛 \ 5:","",""
-"Takega Satsu (talking)","いかにも。 これは、私の甥だ。","How very. This is my nephew.","Cómo. Este es mi sobrino."
-"Yanagi Akimitsu (talking)","…………………
+Yanagi Akimitsu (talking),………………,………………,………………
+narrator,秋光は、黙ったまま扉を閉めようとしている。,Akimitsu is about to close the door without saying a word.,Akimitsu está a punto de cerrar la puerta sin decir una palabra.
+Yamamoto Akuji (talking),おいおい、ちょっと待ってくれよ。 シカトしたまんまかよ。,"Hey, hey, hey, wait a minute. You're just going to stay shikkat?","Hey, hey, hey, hey, espera un minuto. ¿Te vas a quedar shikkat?"
+Takega Satsu (talking),確かに、行儀が悪いぞ。 ＹＥＳにしろ、ＮＯにしろ、 きちんと言わんか。,"Surely, you're not behaving yourself. Say yes or no, but say it properly.","Seguramente, no te estás comportando. Sí o no, dilo bien."
+Yanagi Akimitsu (talking),っ…………！！ ……ふ……ゆ……,…………!!!! ……fu……yu……,¡¡¡…………!!! ……fu……yu……
+Takega Satsu (talking),？,？,？
+Yanagi Akimitsu (talking),あんたの……妹か？,Is that your…… sister?,¿Es tu hermana ……?
+__system__??,{★愛 = 5:,,
+Yamamoto Akuji (talking),さっちゃんか？ 違う違う。 この人は俺の女房だ。,"Sacchan? No, no, no. This is my wife.","¿Sacchan? No, no, no. Esta es mi esposa."
+__system__??,},,
+__system__??,{★愛 \ 5:,,
+Yamamoto Akuji (talking),さっちゃんか？ 違う違う。 この人は俺の叔母だ。,"Sacchan? No, no, no. This is my aunt.","¿Sacchan? No, no, no. Esta es mi tía."
+__system__??,},,
+__system__??,{★愛 = 5:,,
+Takega Satsu (talking),いかにも。 これは、私の夫だ。,How very. This is my husband.,Cómo. Este es mi marido.
+__system__??,},,
+__system__??,{★愛 \ 5:,,
+Takega Satsu (talking),いかにも。 これは、私の甥だ。,How very. This is my nephew.,Cómo. Este es mi sobrino.
+Yanagi Akimitsu (talking),"…………………
 血縁には…違いないのだな……","…………………
 So it must be… in blood……","…………………
 En la sangre… debe ser… ¿no? ……"
-"Yamamoto Akuji (talking)","ああ、そうだが……","Oh, yes, but ……","Sí, pero ……"
-"__system__??","}","",""
-"Yanagi Akimitsu (talking)","この子も…闘わせているのか…","This girl… you're making her fight too…","Esta chica… la estás haciendo luchar también…"
-"__system__??","{★愛 = 5:","",""
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","ああ。 さっちゃんは、ちっちゃいが、 俺の大事な戦力だ。","Ah, Sacchan is a little guy, but he's an important asset to me. Sacchan may be tiny, but she's an important asset to me.","Sí. Sacchan puede ser pequeña, pero es un activo importante para mí."
-"Yanagi Akimitsu (talking)","……わかった…行こう…","…… Okay… let's go…","…… Vale… vamos…"
-"Yamamoto Akuji (talking)","そうかい。 じゃあ、出来るだけ早く、 ここにきてくんねぇか？","Okay. Well, why don't you get here as soon as you can?","De acuerdo. Bueno, ¿por qué no vienes tan pronto como puedas?"
-"narrator","悪司は秋光に奉仕青年団の住所の書かれた メモを渡した。","Akuji gave Akimitsu a note with the address of the service youth group.","Akuji entregó a Akimitsu una nota con la dirección de la organización juvenil de servicio."
-"Yanagi Akimitsu (talking)","……わかった……","…… got it: ……","…… entendido……"
-"narrator","秋光は殺を少し見つめてから、扉を閉めた。","Akimitsu stared at Satsu for a moment, then closed the door.","Akimitsu miró un momento a Satsu y luego cerró la puerta."
-"Seinendan Jyoshi (talking)","あ、悪司さ~~ん…","Oh, Akuji-san~~…","Oh, Akuji-san~…"
-"Yamamoto Akuji (talking)","どした？ 顔が真っ赤だぞ。","What's up? Your face is all red.","¿Qué pasa? Tu cara está toda roja."
-"Seinendan Jyoshi (talking)","すっごく顔の綺麗な人が、 悪司さんに会いたいって…","A very beautiful face wants to meet Akuji…","Una cara muy bonita quiere conocer a Akuji…"
-"Yamamoto Akuji (talking)","顔がいーってまた曖昧な… 他に特徴は？","I like the face… again, vague… any other features?","'Me gusta tu cara' de nuevo, vago… ¿Algún otro rasgo?"
-"Seinendan Jyoshi (talking)","全身黒ずくめで…… あ、でも、女物の羽織を 肩にかけてらっしゃいます。","You are all in black…… but you have a women's haori draped over your shoulders.","Estás todo de negro…… Oh, pero tienes una capa de mujer sobre los hombros."
-"Yamamoto Akuji (talking)","ああ……秋光だな。 通してくれや。","Yeah, it's ……Akimitsu. Let me through.","Sí, ……Akimitsu. Déjenme pasar."
-"Seinendan Jyoshi (talking)","は、はい。","Ha, yes.","Ja, sí."
-"Yanagi Akimitsu (talking)","…………","…………","…………"
-"Yamamoto Akuji (talking)","おう、お疲れさん。 これからよろしく頼むぜ。","Hey, good job. I'm looking forward to working with you from now on.","Buen trabajo. Estoy deseando trabajar con usted."
-"narrator","秋光は軽く頷いただけで、すぐに悪司から 目を逸らし、首を左右にめぐらせた。","Akimitsu nodded lightly, then quickly turned his eyes away from Akuji and swiveled his head from side to side.","Akimitsu asintió levemente e inmediatamente apartó los ojos de Akuji y giró la cabeza de un lado a otro."
-"Yamamoto Akuji (talking)","ん？ なんか探しモンか？","Hmm? Looking for something?","¿Hmm? ¿Buscas algo?"
-"Yanagi Akimitsu (talking)","……………","……………","……………"
-"Takega Satsu (talking)","今、帰ったぞ。","I just left.","Ya estoy en casa."
-"Yamamoto Akuji (talking)","おう、おかえり、さっちゃん。 今日はガッコーどうだった？","Oh, welcome back, Sacchan. How was Gakko today?","Oh, bienvenido de nuevo, Sacchan. ¿Cómo estuvo Gacko hoy?"
-"Takega Satsu (talking)","いつも通りだ。
+Yamamoto Akuji (talking),ああ、そうだが……,"Oh, yes, but ……","Sí, pero ……"
+__system__??,},,
+Yanagi Akimitsu (talking),この子も…闘わせているのか…,This girl… you're making her fight too…,Esta chica… la estás haciendo luchar también…
+__system__??,{★愛 = 5:,,
+__system__??,},,
+Yamamoto Akuji (talking),ああ。 さっちゃんは、ちっちゃいが、 俺の大事な戦力だ。,"Ah, Sacchan is a little guy, but he's an important asset to me. Sacchan may be tiny, but she's an important asset to me.","Sí. Sacchan puede ser pequeña, pero es un activo importante para mí."
+Yanagi Akimitsu (talking),……わかった…行こう…,…… Okay… let's go…,…… Vale… vamos…
+Yamamoto Akuji (talking),そうかい。 じゃあ、出来るだけ早く、 ここにきてくんねぇか？,"Okay. Well, why don't you get here as soon as you can?","De acuerdo. Bueno, ¿por qué no vienes tan pronto como puedas?"
+narrator,悪司は秋光に奉仕青年団の住所の書かれた メモを渡した。,Akuji gave Akimitsu a note with the address of the service youth group.,Akuji entregó a Akimitsu una nota con la dirección de la organización juvenil de servicio.
+Yanagi Akimitsu (talking),……わかった……,…… got it: ……,…… entendido……
+narrator,秋光は殺を少し見つめてから、扉を閉めた。,"Akimitsu stared at Satsu for a moment, then closed the door.",Akimitsu miró un momento a Satsu y luego cerró la puerta.
+Seinendan Jyoshi (talking),あ、悪司さ~~ん…,"Oh, Akuji-san~~…","Oh, Akuji-san~…"
+Yamamoto Akuji (talking),どした？ 顔が真っ赤だぞ。,What's up? Your face is all red.,¿Qué pasa? Tu cara está toda roja.
+Seinendan Jyoshi (talking),すっごく顔の綺麗な人が、 悪司さんに会いたいって…,A very beautiful face wants to meet Akuji…,Una cara muy bonita quiere conocer a Akuji…
+Yamamoto Akuji (talking),顔がいーってまた曖昧な… 他に特徴は？,"I like the face… again, vague… any other features?","'Me gusta tu cara' de nuevo, vago… ¿Algún otro rasgo?"
+Seinendan Jyoshi (talking),全身黒ずくめで…… あ、でも、女物の羽織を 肩にかけてらっしゃいます。,You are all in black…… but you have a women's haori draped over your shoulders.,"Estás todo de negro…… Oh, pero tienes una capa de mujer sobre los hombros."
+Yamamoto Akuji (talking),ああ……秋光だな。 通してくれや。,"Yeah, it's ……Akimitsu. Let me through.","Sí, ……Akimitsu. Déjenme pasar."
+Seinendan Jyoshi (talking),は、はい。,"Ha, yes.","Ja, sí."
+Yanagi Akimitsu (talking),…………,…………,…………
+Yamamoto Akuji (talking),おう、お疲れさん。 これからよろしく頼むぜ。,"Hey, good job. I'm looking forward to working with you from now on.",Buen trabajo. Estoy deseando trabajar con usted.
+narrator,秋光は軽く頷いただけで、すぐに悪司から 目を逸らし、首を左右にめぐらせた。,"Akimitsu nodded lightly, then quickly turned his eyes away from Akuji and swiveled his head from side to side.",Akimitsu asintió levemente e inmediatamente apartó los ojos de Akuji y giró la cabeza de un lado a otro.
+Yamamoto Akuji (talking),ん？ なんか探しモンか？,Hmm? Looking for something?,¿Hmm? ¿Buscas algo?
+Yanagi Akimitsu (talking),……………,……………,……………
+Takega Satsu (talking),今、帰ったぞ。,I just left.,Ya estoy en casa.
+Yamamoto Akuji (talking),おう、おかえり、さっちゃん。 今日はガッコーどうだった？,"Oh, welcome back, Sacchan. How was Gakko today?","Oh, bienvenido de nuevo, Sacchan. ¿Cómo estuvo Gacko hoy?"
+Takega Satsu (talking),"いつも通りだ。
  ――ああ、柳……秋光だったか。 きたのか。","As usual.
  --Oh, was it Yanagi ……Akimitsu? You came.","Como siempre.
  --Oh, era Yanagi ……Akimitsu? Has venido."
-"narrator","秋光は頷き、じっと殺を見つめる。","Akimitsu nodded and stared at Satsu.","Akimitsu asintió y miró fijamente a Satsu."
-"Takega Satsu (talking)","これからは、一緒に戦う身だ。 よろしく頼むぞ。","From now on, we will fight together. I look forward to working with you.","A partir de ahora, lucharemos juntos. Estoy deseando trabajar con usted."
-"Yanagi Akimitsu (talking)","………………","………………","………………"
-"narrator","秋光はそっと、殺の頭を撫でた。","Akimitsu gently stroked Satsu's head.","Akimitsu acarició suavemente la cabeza de Satsu."
-"__system__??","{★愛 = 5:","",""
-"Yamamoto Akuji (talking)","おいおい、人の女房の頭、 気安く撫でんでくれや。","Hey, hey, hey, hey. Don't be so casual about patting my wife's head.","Oye, oye, oye, oye, no seas tan despreocupado por acariciar la cabeza de la esposa de alguien."
-"__system__??","}","",""
-"__system__??","{★愛 \ 5:","",""
-"Yamamoto Akuji (talking)","おいおい、人の叔母さんの頭、 気安く撫でんでくれや。","Hey, hey, hey, hey. Don't be afraid to pat my aunt's head.","Oye, oye, oye, no seas tan despreocupado en dar palmaditas a las tías de la gente en la cabeza."
-"__system__??","}","",""
-"Yanagi Akimitsu (talking)","………すまん……","Sorry……… sorry ……","Lo siento……… ……"
-"Yamamoto Akuji (talking)","ああ、部屋の用意が出来たみいだ。 あのハッピ着た女の子についてってくれ。","Yeah, the room is ready for you. Follow that girl in the happi.","Sí, la habitación está lista. Sigue a esa chica en el happi."
-"narrator","秋光はこくりと頷くと、姿を消した。","Akimitsu nodded and disappeared.","Akimitsu asintió y desapareció."
-"Yamamoto Akuji (talking)","やべーなー…… あいつ、ロリか。","Oh man……… He's a loli, huh?","Oh, tío…… Es una loli, ¿no?"
-"Takega Satsu (talking)","違うと思う。","I think not.","Creo que no."
-"Yamamoto Akuji (talking)","なんで？","Why?","¿Por qué?"
-"Takega Satsu (talking)","生理的嫌悪は生まれなかったから。","Because physiological hatred was not born.","Porque el odio fisiológico no ha nacido."
-"Yamamoto Akuji (talking)","そーいうのって、わかるのか？","You know what I mean?","¿Sabes lo que es ese tipo de cosas?"
-"Takega Satsu (talking)","女なら、わかる。 あれに、そういう気はない。 どちらかというと、ノスタルジーだな。
+narrator,秋光は頷き、じっと殺を見つめる。,Akimitsu nodded and stared at Satsu.,Akimitsu asintió y miró fijamente a Satsu.
+Takega Satsu (talking),これからは、一緒に戦う身だ。 よろしく頼むぞ。,"From now on, we will fight together. I look forward to working with you.","A partir de ahora, lucharemos juntos. Estoy deseando trabajar con usted."
+Yanagi Akimitsu (talking),………………,………………,………………
+narrator,秋光はそっと、殺の頭を撫でた。,Akimitsu gently stroked Satsu's head.,Akimitsu acarició suavemente la cabeza de Satsu.
+__system__??,{★愛 = 5:,,
+Yamamoto Akuji (talking),おいおい、人の女房の頭、 気安く撫でんでくれや。,"Hey, hey, hey, hey. Don't be so casual about patting my wife's head.","Oye, oye, oye, oye, no seas tan despreocupado por acariciar la cabeza de la esposa de alguien."
+__system__??,},,
+__system__??,{★愛 \ 5:,,
+Yamamoto Akuji (talking),おいおい、人の叔母さんの頭、 気安く撫でんでくれや。,"Hey, hey, hey, hey. Don't be afraid to pat my aunt's head.","Oye, oye, oye, no seas tan despreocupado en dar palmaditas a las tías de la gente en la cabeza."
+__system__??,},,
+Yanagi Akimitsu (talking),………すまん……,Sorry……… sorry ……,Lo siento……… ……
+Yamamoto Akuji (talking),ああ、部屋の用意が出来たみいだ。 あのハッピ着た女の子についてってくれ。,"Yeah, the room is ready for you. Follow that girl in the happi.","Sí, la habitación está lista. Sigue a esa chica en el happi."
+narrator,秋光はこくりと頷くと、姿を消した。,Akimitsu nodded and disappeared.,Akimitsu asintió y desapareció.
+Yamamoto Akuji (talking),やべーなー…… あいつ、ロリか。,"Oh man……… He's a loli, huh?","Oh, tío…… Es una loli, ¿no?"
+Takega Satsu (talking),違うと思う。,I think not.,Creo que no.
+Yamamoto Akuji (talking),なんで？,Why?,¿Por qué?
+Takega Satsu (talking),生理的嫌悪は生まれなかったから。,Because physiological hatred was not born.,Porque el odio fisiológico no ha nacido.
+Yamamoto Akuji (talking),そーいうのって、わかるのか？,You know what I mean?,¿Sabes lo que es ese tipo de cosas?
+Takega Satsu (talking),"女なら、わかる。 あれに、そういう気はない。 どちらかというと、ノスタルジーだな。
 私を通して、昔の何かを 見つめている感じだ。","A woman would understand. I don't feel that way about that one. It's more like nostalgia.
 It's like it's looking at something from the past through me.","Si es una mujer, lo entiendo. Ese no tiene ese tipo de actitud. Es más bien nostalgia.
 Es como si mirara algo del pasado a través de mí."
-"Yamamoto Akuji (talking)","ふーーん……","Hmmm ……","Hmmm ……"
-"narrator","秋光とリンダが揃ってお茶をしている。","Akimitsu and Linda are having tea together.","Akimitsu y Linda están tomando el té juntos."
-"Momoyama Linda (talking)","………………","………………","………………"
-"Yanagi Akimitsu (talking)","………………","………………","………………"
-"narrator","秋光は、物憂げな瞳でリンダを見つめている。","Akimitsu is looking at Linda with languid eyes.","Akimitsu mira a Linda con ojos lánguidos."
-"Momoyama Linda (thinking)","何かちら、この男。 あたちの事、じっと見て。
+Yamamoto Akuji (talking),ふーーん……,Hmmm ……,Hmmm ……
+narrator,秋光とリンダが揃ってお茶をしている。,Akimitsu and Linda are having tea together.,Akimitsu y Linda están tomando el té juntos.
+Momoyama Linda (talking),………………,………………,………………
+Yanagi Akimitsu (talking),………………,………………,………………
+narrator,秋光は、物憂げな瞳でリンダを見つめている。,Akimitsu is looking at Linda with languid eyes.,Akimitsu mira a Linda con ojos lánguidos.
+Momoyama Linda (thinking),"何かちら、この男。 あたちの事、じっと見て。
 きた時から何かちらと思っていたけど、 気持ち悪さはないでしゅち……
 でも、じろじろ見られるのは、 あんまち気分が……","Something about this guy. He's staring at us.
 I've been thinking about it since he arrived, but it doesn't make me feel uncomfortable……
 But it's not very pleasant to be stared at……","Algo aquí, este tipo. Míranos.
 Lo he estado pensando desde que llegó, pero no me hace sentir incómodo……
 Pero no es muy agradable que te miren fijamente……"
-"Momoyama Linda (talking)","あ。","Ah.","Ah."
-"narrator","リンダはティースプーンを落としてしまった。","Linda dropped her teaspoon.","A Linda se le cayó la cucharilla."
-"Yanagi Akimitsu (talking)","…………","…………","…………"
-"narrator","秋光は黙って立ち上がると、それを拾い、 リンダのそばに置いた。","Akimitsu silently stood up and picked it up, placing it beside Linda.","Akimitsu se levantó en silencio, la recogió y la colocó junto a Linda."
-"Momoyama Linda (talking)","ありがとう、秋光。 ハイネ、新しいものを。","Thanks, Akimitsu. Haine, new one.","Gracias, Akimitsu. Haine, nuevo."
-"narrator","リンダがそう命じた時だった。
+Momoyama Linda (talking),あ。,Ah.,Ah.
+narrator,リンダはティースプーンを落としてしまった。,Linda dropped her teaspoon.,A Linda se le cayó la cucharilla.
+Yanagi Akimitsu (talking),…………,…………,…………
+narrator,秋光は黙って立ち上がると、それを拾い、 リンダのそばに置いた。,"Akimitsu silently stood up and picked it up, placing it beside Linda.","Akimitsu se levantó en silencio, la recogió y la colocó junto a Linda."
+Momoyama Linda (talking),ありがとう、秋光。 ハイネ、新しいものを。,"Thanks, Akimitsu. Haine, new one.","Gracias, Akimitsu. Haine, nuevo."
+narrator,"リンダがそう命じた時だった。
  　　［ふわっ……］","That's when Linda ordered it.
  　　[whoosh ……]","Fue cuando Linda lo ordenó.
  　　[fwiw ……]"
-"Momoyama Linda (talking)","えっ！？","What?","¿Qué?"
-"Yanagi Akimitsu (talking)","……………","……………","……………"
-"narrator","秋光は少し寂しそうな目で、 リンダの頭を撫でている。","Akimitsu strokes Linda's head with slightly sad eyes.","Akimitsu acaricia la cabeza de Linda con ojos ligeramente tristes."
-"Momoyama Linda (talking)","何のつもりでちゅか？","What do you mean?","¿Qué es lo que quieres hacer?"
-"Yanagi Akimitsu (talking)","……………すまん……","Sorry…………… sorry ……","Lo siento…………… ……"
-"Momoyama Linda (talking)","ロリコンでちゅか？","Are you a pedophile?","¿Es usted un pedófilo?"
-"Yanagi Akimitsu (talking)","……妹……","…… sister ……","…… hermana ……"
-"Momoyama Linda (talking)","は？","Huh?","¿Ja?"
-"Yanagi Akimitsu (talking)","妹と……いるような気がして……","I felt like I was…… with my sister and ……","Me sentí como si estuviera con mi hermana y…… ……"
-"Momoyama Linda (talking)","……………
+Momoyama Linda (talking),えっ！？,What?,¿Qué?
+Yanagi Akimitsu (talking),……………,……………,……………
+narrator,秋光は少し寂しそうな目で、 リンダの頭を撫でている。,Akimitsu strokes Linda's head with slightly sad eyes.,Akimitsu acaricia la cabeza de Linda con ojos ligeramente tristes.
+Momoyama Linda (talking),何のつもりでちゅか？,What do you mean?,¿Qué es lo que quieres hacer?
+Yanagi Akimitsu (talking),……………すまん……,Sorry…………… sorry ……,Lo siento…………… ……
+Momoyama Linda (talking),ロリコンでちゅか？,Are you a pedophile?,¿Es usted un pedófilo?
+Yanagi Akimitsu (talking),……妹……,…… sister ……,…… hermana ……
+Momoyama Linda (talking),は？,Huh?,¿Ja?
+Yanagi Akimitsu (talking),妹と……いるような気がして……,I felt like I was…… with my sister and ……,Me sentí como si estuviera con mi hermana y…… ……
+Momoyama Linda (talking),"……………
 よくわかんないでちゅ。","……………
 I'm not sure.","……………
 No lo entiendo."
-"Yanagi Akimitsu (talking)","………そう……だな……","……… so…… so ……","……… así que…… así que ……"
-"narrator","厳しい顔をしたリンダの前に、 秋光は連れてこられた。","Akimitsu was brought before a stern-faced Linda.","Akimitsu fue llevado ante una Linda de rostro severo."
-"Momoyama Linda (talking)","負けまちたわね。","We lost.","Has perdido."
-"Yanagi Akimitsu (talking)","………………","………………","………………"
-"Momoyama Linda (talking)","高いお金を払う価値はないでちゅ。","It is not worth the high price.","No vale la pena pagar mucho dinero."
-"Yanagi Akimitsu (talking)","…………用なし……か…","No use for………… …… or…","No sirve………… …… o…"
-"Momoyama Linda (talking)","そうでちゅわ。","That's right.","Sí."
-"Yanagi Akimitsu (talking)","………………","………………","………………"
-"Momoyama Linda (talking)","さようなら。","Good-bye.","Adiós."
-"Yanagi Akimitsu (talking)","………………","………………","………………"
-"narrator","秋光は黙って姿を消した。","Akimitsu disappeared silently.","Akimitsu desapareció silenciosamente."
-" (talking)","どこに行く気だ？","Where are you going?","¿A dónde vas?"
-"Yanagi Akimitsu (talking)","……………","……………","……………"
-"Takega Satsu (talking)","どこに行く気だったと 聞いているのだが？","Where were you going, I ask you?","¿A dónde ibas, pregunto?"
-"Yanagi Akimitsu (talking)","………ここでの…仕事は終わった。","……… here…job done.","……… Aquí en… el trabajo está hecho."
-"Takega Satsu (talking)","だが、悪司から解雇と 言い渡されていないのだろう？","But Akuji didn't tell you to fire him, did he?","Pero no te ha dicho Akuji que estás despedido, ¿verdad?"
-"Yanagi Akimitsu (talking)","……………","……………","……………"
-"Takega Satsu (talking)","ここにいろ。","Stay here.","Quédate."
-"Yanagi Akimitsu (talking)","っ……","~……","~……"
-"Takega Satsu (talking)","私がいていいと言ってるのだ。 甘えてみたらどうだ？","I'm saying it's okay for me to be here. Why don't you spoil me?","Estoy diciendo que está bien que esté aquí. ¿Por qué no la mimas?"
-"Yanagi Akimitsu (talking)","……………","……………","……………"
-"Takega Satsu (talking)","タマには、そういうのも いいのではないか？","I think that would be good for my balls.","¿No sería bueno para tus pelotas?"
-"Yanagi Akimitsu (talking)","………………
- ……ありがとう……","…………………… Thank you ……","…………………… Gracias ……"
-"Takega Satsu (talking)","うむ。","Mm.","Mm."
-"Yanagi Akimitsu (talking)","……………はああっ…！","…………… Haaaaah…!","…………… ¡Haaah…!"
+Yanagi Akimitsu (talking),………そう……だな……,……… so…… so ……,……… así que…… así que ……
+narrator,厳しい顔をしたリンダの前に、 秋光は連れてこられた。,Akimitsu was brought before a stern-faced Linda.,Akimitsu fue llevado ante una Linda de rostro severo.
+Momoyama Linda (talking),負けまちたわね。,We lost.,Has perdido.
+Yanagi Akimitsu (talking),………………,………………,………………
+Momoyama Linda (talking),高いお金を払う価値はないでちゅ。,It is not worth the high price.,No vale la pena pagar mucho dinero.
+Yanagi Akimitsu (talking),…………用なし……か…,No use for………… …… or…,No sirve………… …… o…
+Momoyama Linda (talking),そうでちゅわ。,That's right.,Sí.
+Yanagi Akimitsu (talking),………………,………………,………………
+Momoyama Linda (talking),さようなら。,Good-bye.,Adiós.
+Yanagi Akimitsu (talking),………………,………………,………………
+narrator,秋光は黙って姿を消した。,Akimitsu disappeared silently.,Akimitsu desapareció silenciosamente.
+ (talking),どこに行く気だ？,Where are you going?,¿A dónde vas?
+Yanagi Akimitsu (talking),……………,……………,……………
+Takega Satsu (talking),どこに行く気だったと 聞いているのだが？,"Where were you going, I ask you?","¿A dónde ibas, pregunto?"
+Yanagi Akimitsu (talking),………ここでの…仕事は終わった。,……… here…job done.,……… Aquí en… el trabajo está hecho.
+Takega Satsu (talking),だが、悪司から解雇と 言い渡されていないのだろう？,"But Akuji didn't tell you to fire him, did he?","Pero no te ha dicho Akuji que estás despedido, ¿verdad?"
+Yanagi Akimitsu (talking),……………,……………,……………
+Takega Satsu (talking),ここにいろ。,Stay here.,Quédate.
+Yanagi Akimitsu (talking),っ……,~……,~……
+Takega Satsu (talking),私がいていいと言ってるのだ。 甘えてみたらどうだ？,I'm saying it's okay for me to be here. Why don't you spoil me?,Estoy diciendo que está bien que esté aquí. ¿Por qué no la mimas?
+Yanagi Akimitsu (talking),……………,……………,……………
+Takega Satsu (talking),タマには、そういうのも いいのではないか？,I think that would be good for my balls.,¿No sería bueno para tus pelotas?
+Yanagi Akimitsu (talking),"………………
+ ……ありがとう……",…………………… Thank you ……,…………………… Gracias ……
+Takega Satsu (talking),うむ。,Mm.,Mm.
+Yanagi Akimitsu (talking),……………はああっ…！,…………… Haaaaah…!,…………… ¡Haaah…!

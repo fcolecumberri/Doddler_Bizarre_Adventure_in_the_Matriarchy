@@ -1,98 +1,98 @@
-"character","jap text","Eng","Esp"
-"__system__??","{麦 = 1:","",""
-"__system__??","{☆海音 < 11:","",""
-"__system__??","}","",""
-"__system__??","{☆海音 = 20:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 2:","",""
-"__system__??","{☆海音 > 19:","",""
-"__system__??","}","",""
-"__system__??","{(B忠誠タイプ = 3) * (B忠誠心 > 70):","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 3:","",""
-"__system__??","{☆イベント = 10:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 4:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 10:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 11:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 12:","",""
-"__system__??","{H愛欲 = 1:","",""
-"__system__??","}","",""
-"__system__??","{H愛欲抵抗 <= H愛欲:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 13:","",""
-"__system__??","{H物欲 = 1:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 15:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 16:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 17:","",""
-"__system__??","{H拷問抵抗 < H拷問:","",""
-"__system__??","}","",""
-"__system__??","{H拷問 = 1:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 18:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 5:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 19:","",""
-"__system__??","}","",""
-"Tenkai Umine (talking)","ヤッホー。","Yoo-hoo.","Yoo-hoo."
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Tenkai Umine (talking)","さっそく抱いてくれんの？ サービスいいねー☆","You're going to hold me right away? I love your service!☆","¿Vas a retenerme de inmediato? Me gusta el servicio☆"
-"Yamamoto Akuji (talking)","んーどーすっかなー。","I don't know what to do.","Hmmm… ¿qué debo hacer?"
-"Tenkai Umine (talking)","まあ、すぐとは言わないけどさ。 んでも約束は約束だよ。 守んなかったら。","Well, I'm not saying soon. But a promise is a promise. If you don't keep it.","Bueno, no digo que sea pronto. Pero una promesa es una promesa. Si no te lo quedas."
-"Yamamoto Akuji (talking)","ズキューン。","Zukun.","Zukun."
-"Tenkai Umine (talking)","＜たんたまご＞ ズキューン！","＜Zukyuun!","<¡Zukyuun!"
-"narrator","はい、次、了君の番だよ。","Yes, next, Ryou your turn.","Sí, a continuación, Tú tu turno."
-"Matsumoto Ryou (talking)","うわ…難しいな、これ……","Wow…that's a tough one……","Vaya… eso es difícil……"
-"Tenkai Umine (talking)","ほら、がんばがんば。
+character,jap text,Eng,Esp
+__system__??,{麦 = 1:,,
+__system__??,{☆海音 < 11:,,
+__system__??,},,
+__system__??,{☆海音 = 20:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 2:,,
+__system__??,{☆海音 > 19:,,
+__system__??,},,
+__system__??,{(B忠誠タイプ = 3) * (B忠誠心 > 70):,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 3:,,
+__system__??,{☆イベント = 10:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 4:,,
+__system__??,},,
+__system__??,{麦 = 10:,,
+__system__??,},,
+__system__??,{麦 = 11:,,
+__system__??,},,
+__system__??,{麦 = 12:,,
+__system__??,{H愛欲 = 1:,,
+__system__??,},,
+__system__??,{H愛欲抵抗 <= H愛欲:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 13:,,
+__system__??,{H物欲 = 1:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 15:,,
+__system__??,},,
+__system__??,{麦 = 16:,,
+__system__??,},,
+__system__??,{麦 = 17:,,
+__system__??,{H拷問抵抗 < H拷問:,,
+__system__??,},,
+__system__??,{H拷問 = 1:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 18:,,
+__system__??,},,
+__system__??,{麦 = 5:,,
+__system__??,},,
+__system__??,{麦 = 19:,,
+__system__??,},,
+Tenkai Umine (talking),ヤッホー。,Yoo-hoo.,Yoo-hoo.
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Tenkai Umine (talking),さっそく抱いてくれんの？ サービスいいねー☆,You're going to hold me right away? I love your service!☆,¿Vas a retenerme de inmediato? Me gusta el servicio☆
+Yamamoto Akuji (talking),んーどーすっかなー。,I don't know what to do.,Hmmm… ¿qué debo hacer?
+Tenkai Umine (talking),まあ、すぐとは言わないけどさ。 んでも約束は約束だよ。 守んなかったら。,"Well, I'm not saying soon. But a promise is a promise. If you don't keep it.","Bueno, no digo que sea pronto. Pero una promesa es una promesa. Si no te lo quedas."
+Yamamoto Akuji (talking),ズキューン。,Zukun.,Zukun.
+Tenkai Umine (talking),＜たんたまご＞ ズキューン！,＜Zukyuun!,<¡Zukyuun!
+narrator,はい、次、了君の番だよ。,"Yes, next, Ryou your turn.","Sí, a continuación, Tú tu turno."
+Matsumoto Ryou (talking),うわ…難しいな、これ……,Wow…that's a tough one……,Vaya… eso es difícil……
+Tenkai Umine (talking),"ほら、がんばがんば。
  ＜たんたまご＞ ガンバー。","Here, Ganba Ganba.
  ＜Ganbar.","Mira, Gambar Gambar.
  <Gambar."
-"Yamamoto Akuji (talking)","……何やってんだ？","…… What are you doing?","…… ¿Qué estás haciendo?"
-"Tenkai Umine (talking)","あやとり。","cat's cradle","la cuna del gato."
-"Yamamoto Akuji (talking)","仕事の事で呼び出したんだぞ。 わかってんのか？","I called you out on a job. Do you understand?","Te llamé por tu trabajo. ¿Lo entiendes?"
-"Tenkai Umine (talking)","うん。 だから、もうやめたじゃん。","Yeah. That's why you stopped.","Sí. Así que ya lo has dejado."
-"Yamamoto Akuji (talking)","ったく……子供だなー。","Damn…… you are a child!","¡Maldita sea,…… eres un niño!"
-"Tenkai Umine (talking)","今、楽しめる事しとかなくっちゃね☆","We must do something we can enjoy now.☆","Tenemos que hacer algo que podamos disfrutar ahora.☆"
-"Matsumoto Ryou (talking)","それじゃ海音さん、また後で。 失礼します、悪司さん。","Well, Umine, I'll see you later. Excuse me, Akuji.","Bueno, Umine, nos vemos luego. Disculpa, Akuji."
-"Tenkai Umine (talking)","うん。
+Yamamoto Akuji (talking),……何やってんだ？,…… What are you doing?,…… ¿Qué estás haciendo?
+Tenkai Umine (talking),あやとり。,cat's cradle,la cuna del gato.
+Yamamoto Akuji (talking),仕事の事で呼び出したんだぞ。 わかってんのか？,I called you out on a job. Do you understand?,Te llamé por tu trabajo. ¿Lo entiendes?
+Tenkai Umine (talking),うん。 だから、もうやめたじゃん。,Yeah. That's why you stopped.,Sí. Así que ya lo has dejado.
+Yamamoto Akuji (talking),ったく……子供だなー。,Damn…… you are a child!,"¡Maldita sea,…… eres un niño!"
+Tenkai Umine (talking),今、楽しめる事しとかなくっちゃね☆,We must do something we can enjoy now.☆,Tenemos que hacer algo que podamos disfrutar ahora.☆
+Matsumoto Ryou (talking),それじゃ海音さん、また後で。 失礼します、悪司さん。,"Well, Umine, I'll see you later. Excuse me, Akuji.","Bueno, Umine, nos vemos luego. Disculpa, Akuji."
+Tenkai Umine (talking),"うん。
  ＜たんたまご＞ バイバーイ！","Yeah.
  ＜Bye-bye!","Sí.
  <Huevo de color> ¡Adiós!"
-"Tenkai Umine (talking)","ハーイ☆。
+Tenkai Umine (talking),"ハーイ☆。
  ＜たんたまご＞ イエー！","Hi☆.
  <Tan egg> Yay!","Hola☆.
  <Huevo de color> ¡Yay!"
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Yamamoto Akuji (talking)","そーいや約束だったな。 抱いてやろうか？","Oh, well, that was the deal. Shall I hold you?","Bueno, eso es una promesa, ¿no? ¿Debo sostenerte?"
-"Tenkai Umine (talking)","あーあれなしなし。","Oh, no, no, no, no.","Ah no, no, no, no."
-"Yamamoto Akuji (talking)","了がいるからか。","Is it because Ryou is there?","¿Por culpa de Ryou?"
-"Tenkai Umine (talking)","うん。","Yeah.","Sí."
-"Yamamoto Akuji (talking)","ちょっとぐらい、わかんねーぞ。","I don't know, a little bit.","No sé, un poco, no sé."
-"Tenkai Umine (talking)","やだもん。","I don't want to.","No quiero hacerlo."
-"Yamamoto Akuji (talking)","かわいーねー。","Cute.","Qué bonito."
-"Tenkai Umine (talking)","ありがと。 了君もそう言ってくれるんだ☆","Thanks. Ryou you say that too☆.","Gracias. Ryou tú también dices eso☆."
-"Yamamoto Akuji (talking)","ノロケやがって。","You're a joke.","Eres un novato."
-"Tenkai Umine (talking)","へへへへへー。","Heh heh heh.","Je, je, je."
-"Yamamoto Akuji (talking)","でよ、海音。","So, Umine.","Y así, Umine."
-"Tenkai Umine (talking)","何？","What?","¿Qué?"
-"Yamamoto Akuji (talking)","するか？","Do you want to?","¿Quieres hacerlo?"
-"narrator","と、下品な指をする悪司。","And Akuji to finger vulgarly.","Y Akuji, que hace dedos vulgares."
-"Tenkai Umine (talking)","ははは、サイッテー。 しよしよ。","Ha-ha-ha, saithe. Shiyoshi yo.","Ha-ha-ha, saithe. Shiyoshi yo."
-"Yamamoto Akuji (talking)","おーし、こい。","Oh, come on.","Oooh, vamos."
-"cg narrator","「あ、ああ、あっ…！」
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Yamamoto Akuji (talking),そーいや約束だったな。 抱いてやろうか？,"Oh, well, that was the deal. Shall I hold you?","Bueno, eso es una promesa, ¿no? ¿Debo sostenerte?"
+Tenkai Umine (talking),あーあれなしなし。,"Oh, no, no, no, no.","Ah no, no, no, no."
+Yamamoto Akuji (talking),了がいるからか。,Is it because Ryou is there?,¿Por culpa de Ryou?
+Tenkai Umine (talking),うん。,Yeah.,Sí.
+Yamamoto Akuji (talking),ちょっとぐらい、わかんねーぞ。,"I don't know, a little bit.","No sé, un poco, no sé."
+Tenkai Umine (talking),やだもん。,I don't want to.,No quiero hacerlo.
+Yamamoto Akuji (talking),かわいーねー。,Cute.,Qué bonito.
+Tenkai Umine (talking),ありがと。 了君もそう言ってくれるんだ☆,Thanks. Ryou you say that too☆.,Gracias. Ryou tú también dices eso☆.
+Yamamoto Akuji (talking),ノロケやがって。,You're a joke.,Eres un novato.
+Tenkai Umine (talking),へへへへへー。,Heh heh heh.,"Je, je, je."
+Yamamoto Akuji (talking),でよ、海音。,"So, Umine.","Y así, Umine."
+Tenkai Umine (talking),何？,What?,¿Qué?
+Yamamoto Akuji (talking),するか？,Do you want to?,¿Quieres hacerlo?
+narrator,と、下品な指をする悪司。,And Akuji to finger vulgarly.,"Y Akuji, que hace dedos vulgares."
+Tenkai Umine (talking),ははは、サイッテー。 しよしよ。,"Ha-ha-ha, saithe. Shiyoshi yo.","Ha-ha-ha, saithe. Shiyoshi yo."
+Yamamoto Akuji (talking),おーし、こい。,"Oh, come on.","Oooh, vamos."
+cg narrator,"「あ、ああ、あっ…！」
 悪司の動きに自分から腰を合わせてくる海音。 それが深く入りこむように、自分から 尻を擦りつけてきたりもするようになった。
  「大分、馴染んできたな」
  「やっ…やらしいな… 　そんな事言わないでよっ……」
@@ -150,94 +150,94 @@ Los ojos de Umine, que habían quedado embelesados, volvieron de repente a la no
 Umine se aferra a Akuji.
  'Akuji…… más……'
  '…………n……'"
-"Yamamoto Akuji (talking)","さて、お待ちかねだったろ。 可愛がってやるよ、海音。","Well, you've been waiting for me. I'll take good care of you, Umine.","Bueno, me has estado esperando. Te voy a adorar, Umine."
-"Tenkai Umine (talking)","テキトーにほっぽり出されて、 テキトーに構われるなんて、 あたし猫みたいだね。","I'm like a cat, being left alone and being treated like one.","Soy como un gato, me dejan solo y me tratan como tal."
-"Yamamoto Akuji (talking)","構われねーよりマシだろ？","It's better than no attention, right?","Es mejor que quedarse solo, ¿no?"
-"Tenkai Umine (talking)","………まーねー……","………Maney……","………Manneh……"
-"Tenkai Umine (talking)","海音は、悪司に抱かれた。","Umine was embraced by Akuji.","Umine fue abrazado por Akuji."
-"Yamamoto Akuji (talking)","海音よぅ、小遣いいるか？","Umine Yo, you need some spending money?","Yo, ¿necesitas algo de dinero de bolsillo?"
-"Tenkai Umine (talking)","あーうん。 貰えるもんは、貰っとくー。
+Yamamoto Akuji (talking),さて、お待ちかねだったろ。 可愛がってやるよ、海音。,"Well, you've been waiting for me. I'll take good care of you, Umine.","Bueno, me has estado esperando. Te voy a adorar, Umine."
+Tenkai Umine (talking),テキトーにほっぽり出されて、 テキトーに構われるなんて、 あたし猫みたいだね。,"I'm like a cat, being left alone and being treated like one.","Soy como un gato, me dejan solo y me tratan como tal."
+Yamamoto Akuji (talking),構われねーよりマシだろ？,"It's better than no attention, right?","Es mejor que quedarse solo, ¿no?"
+Tenkai Umine (talking),………まーねー……,………Maney……,………Manneh……
+Tenkai Umine (talking),海音は、悪司に抱かれた。,Umine was embraced by Akuji.,Umine fue abrazado por Akuji.
+Yamamoto Akuji (talking),海音よぅ、小遣いいるか？,"Umine Yo, you need some spending money?","Yo, ¿necesitas algo de dinero de bolsillo?"
+Tenkai Umine (talking),"あーうん。 貰えるもんは、貰っとくー。
 ありがと☆ 悪司。
  ＜たんたまご＞ サンキュー！！","Ah, yes. I'll take what I can get.
 Thanks☆ Akuji.
  ＜Thank you!","Ah, sí. Tomaré lo que pueda conseguir.
 Gracias☆ Akuji.
  ＜¡Gracias!"
-"Yamamoto Akuji (talking)","おう、入れや。","Oh, come on in.","Oh, entra."
-"narrator","悪司は奥の部屋にそう呼びかけた。","Akuji called out to the back room.","Akuji llamó a la sala de atrás."
-"Tenkai Umine (talking)","？","？","？"
-"Matsumoto Ryou (talking)","海音さん……","Ms. Umine ……","Sra. Umine ……"
-"Tenkai Umine (talking)","りょ……
+Yamamoto Akuji (talking),おう、入れや。,"Oh, come on in.","Oh, entra."
+narrator,悪司は奥の部屋にそう呼びかけた。,Akuji called out to the back room.,Akuji llamó a la sala de atrás.
+Tenkai Umine (talking),？,？,？
+Matsumoto Ryou (talking),海音さん……,Ms. Umine ……,Sra. Umine ……
+Tenkai Umine (talking),"りょ……
 了君！？
  ＜たんたまご＞ キャー！","Ryou……
 Ryou you!
  <Tan egg> Cah!","Ryou……
  ¡Ustedes!
  <Huevo de color> ¡Caw!"
-"Matsumoto Ryou (talking)","よかった…生きてたんだね……","Thank God… you're alive……","Gracias a Dios… estás vivo……"
-"Tenkai Umine (talking)","了君こそ！ で、でもどうしてここに？","Ryou you too! So, but why are you here?","¡Ustedes también! Entonces, ¿pero por qué estás aquí?"
-"Matsumoto Ryou (talking)","それが……","That's ……","Se puede encontrar en ……"
-"Yamamoto Akuji (talking)","そーら、プレゼントだ。","Sora, it's a gift.","Sora, es un regalo."
-"narrator","と言って、悪司は了の背中を押した。 自然と、了は海音の前に立つ事になる。","With that, Akuji pushed Ryou back. Naturally, Ryou ended up standing in front of Umine.","Con eso, Akuji empujó a Ryou hacia atrás. Naturalmente, Ryou terminó parado frente a Umine."
-"Tenkai Umine (talking)","悪司…？","Akuji…?","Akuji…"
-"Yamamoto Akuji (talking)","欲しがってたもんやったんだから、 今まで以上に働いてくれよ。","I gave you what you wanted, now work harder than ever.","Te he dado lo que querías, ahora trabaja más duro que nunca."
-"Tenkai Umine (talking)","……………","……………","……………"
-"Yamamoto Akuji (talking)","どうした？","What's up?","¿Qué pasa?"
-"Tenkai Umine (talking)","…びっくりして……","…Surprised and ……","…asustado……"
-"Yamamoto Akuji (talking)","いらねぇか？","Don't you want it?","¿No lo quieres?"
-"Tenkai Umine (talking)","いる！！！！
+Matsumoto Ryou (talking),よかった…生きてたんだね……,Thank God… you're alive……,Gracias a Dios… estás vivo……
+Tenkai Umine (talking),了君こそ！ で、でもどうしてここに？,"Ryou you too! So, but why are you here?","¡Ustedes también! Entonces, ¿pero por qué estás aquí?"
+Matsumoto Ryou (talking),それが……,That's ……,Se puede encontrar en ……
+Yamamoto Akuji (talking),そーら、プレゼントだ。,"Sora, it's a gift.","Sora, es un regalo."
+narrator,と言って、悪司は了の背中を押した。 自然と、了は海音の前に立つ事になる。,"With that, Akuji pushed Ryou back. Naturally, Ryou ended up standing in front of Umine.","Con eso, Akuji empujó a Ryou hacia atrás. Naturalmente, Ryou terminó parado frente a Umine."
+Tenkai Umine (talking),悪司…？,Akuji…?,Akuji…
+Yamamoto Akuji (talking),欲しがってたもんやったんだから、 今まで以上に働いてくれよ。,"I gave you what you wanted, now work harder than ever.","Te he dado lo que querías, ahora trabaja más duro que nunca."
+Tenkai Umine (talking),……………,……………,……………
+Yamamoto Akuji (talking),どうした？,What's up?,¿Qué pasa?
+Tenkai Umine (talking),…びっくりして……,…Surprised and ……,…asustado……
+Yamamoto Akuji (talking),いらねぇか？,Don't you want it?,¿No lo quieres?
+Tenkai Umine (talking),"いる！！！！
  ＜たんたまご＞ イル　イルー！","There are ！！！！
  ＜I'm a little nervous.","Hay ！！！！
  <Huevo de color> ¡Il il il!"
-"Yamamoto Akuji (talking)","じゃあ、さっきの俺の言葉への返事は？","So what's your response to what I just said?","¿Cuál es tu respuesta a lo que he dicho antes?"
-"Tenkai Umine (talking)","今まで以上に働けって事だよね…？","You mean work harder than ever…?","¿Quieres decir que tengo que trabajar más duro que nunca…?"
-"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
-"Tenkai Umine (talking)","働く！ 絶対、絶対、絶対、働く！！
+Yamamoto Akuji (talking),じゃあ、さっきの俺の言葉への返事は？,So what's your response to what I just said?,¿Cuál es tu respuesta a lo que he dicho antes?
+Tenkai Umine (talking),今まで以上に働けって事だよね…？,You mean work harder than ever…?,¿Quieres decir que tengo que trabajar más duro que nunca…?
+Yamamoto Akuji (talking),ああ。,Oh.,Oh.
+Tenkai Umine (talking),"働く！ 絶対、絶対、絶対、働く！！
  ＜たんたまご＞ イエー！","I'll work! I'll definitely, definitely, definitely work!
  ＜Yay!","¡Trabajo! ¡Definitivamente, definitivamente, trabajaré!
  ¡＜Sí!"
-"Yamamoto Akuji (talking)","よし。","All right.","DE ACUERDO."
-"Matsumoto Ryou (talking)","海音さん……","Ms. Umine ……","Sra. Umine ……"
-"Tenkai Umine (talking)","よかった…ホント…… 会えるだなんて、思ってなかった…","I'm glad… really…… I never thought I'd see you…","Me alegro… realmente…… Nunca pensé que te vería…"
-"Matsumoto Ryou (talking)","僕も…
+Yamamoto Akuji (talking),よし。,All right.,DE ACUERDO.
+Matsumoto Ryou (talking),海音さん……,Ms. Umine ……,Sra. Umine ……
+Tenkai Umine (talking),よかった…ホント…… 会えるだなんて、思ってなかった…,I'm glad… really…… I never thought I'd see you…,Me alegro… realmente…… Nunca pensé que te vería…
+Matsumoto Ryou (talking),"僕も…
 海音さんの事、ずっと心配してたんだけど ここから離れるような事があったら、 二度と会えない気がして…","I've been…
 I've been worried about you, but if you ever leave here, I don't think I'll ever see you again.","He estado…
 He estado preocupado por ti, pero si te vas de aquí, no creo que te vuelva a ver."
-"Tenkai Umine (talking)","やっと…会えたね…","Finally… meet Tane…","Finalmente… conoce a Tane…"
-"Matsumoto Ryou (talking)","うん……","Yeah ……","Sí……"
-"Tenkai Umine (talking)","あ~あ。
+Tenkai Umine (talking),やっと…会えたね…,Finally… meet Tane…,Finalmente… conoce a Tane…
+Matsumoto Ryou (talking),うん……,Yeah ……,Sí……
+Tenkai Umine (talking),"あ~あ。
 負けたうえに、こーんな形で 連行されちゃうなんて、 かっこわるわる~。
  ＜たんたまご＞ ダサダサ！","Ah~ ah.
 It's so cool to lose and be taken away like this!
  ＜Lame, lame, lame!","Ah~ah.
 No está bien que hayamos perdido y nos hayan quitado así.
  ＜¡Lamentable, lamentable, lamentable!"
-"Yamamoto Akuji (talking)","自分の弱さを知らなかったのが 罪なのさ。","I was guilty of not knowing my own weakness.","Yo era culpable de no conocer mi propia debilidad."
-"Tenkai Umine (talking)","あたしの他の仲間は？","Where are my other friends?","¿Dónde están mis otros colegas?"
-"Yamamoto Akuji (talking)","他人より、自分の身の心配を先にした方が いくねーか？","Wouldn't it be better to worry about yourself first, rather than others?","¿No sería mejor preocuparse primero por uno mismo que por los demás?"
-"Tenkai Umine (talking)","んー……でも、そーいう性分だから、 しょーがないよ。","Well, ……, but I can't help it, that's my nature.","Bueno, ……, pero no puedo evitarlo, soy así."
-"Yamamoto Akuji (talking)","そーいやよぉ。","Oh, yeah.","Ah, sí."
-"Tenkai Umine (talking)","何？","What?","¿Qué?"
-"Yamamoto Akuji (talking)","そのインコは、食用か？","Is that parrot edible?","¿Ese loro es comestible?"
-"Tenkai Umine (talking)","人の友達に向かって、失礼な事、 言わないでよ。
+Yamamoto Akuji (talking),自分の弱さを知らなかったのが 罪なのさ。,I was guilty of not knowing my own weakness.,Yo era culpable de no conocer mi propia debilidad.
+Tenkai Umine (talking),あたしの他の仲間は？,Where are my other friends?,¿Dónde están mis otros colegas?
+Yamamoto Akuji (talking),他人より、自分の身の心配を先にした方が いくねーか？,"Wouldn't it be better to worry about yourself first, rather than others?",¿No sería mejor preocuparse primero por uno mismo que por los demás?
+Tenkai Umine (talking),んー……でも、そーいう性分だから、 しょーがないよ。,"Well, ……, but I can't help it, that's my nature.","Bueno, ……, pero no puedo evitarlo, soy así."
+Yamamoto Akuji (talking),そーいやよぉ。,"Oh, yeah.","Ah, sí."
+Tenkai Umine (talking),何？,What?,¿Qué?
+Yamamoto Akuji (talking),そのインコは、食用か？,Is that parrot edible?,¿Ese loro es comestible?
+Tenkai Umine (talking),"人の友達に向かって、失礼な事、 言わないでよ。
  ＜たんたまご＞ シッケイ　シッケイ！","Don't be rude to my friend.
  ＜Shickee, shickee!","No seas grosero con mi amigo.
  ¡＜Sikkee, sikkee!"
-"Yamamoto Akuji (talking)","ふーん。","Hmmm.","Hmmm."
-"Yamamoto Akuji (talking)","さーて、聞き分けのよさそーな お嬢ちゃんだけど、案外強情だな。","Well, you seem to be a very reasonable young lady, but you are more stubborn than I thought.","Parece que sabe escuchar, pero es más terco de lo que cree."
-"Tenkai Umine (talking)","大人があたしをペシミストに しちゃったんだよ。
+Yamamoto Akuji (talking),ふーん。,Hmmm.,Hmmm.
+Yamamoto Akuji (talking),さーて、聞き分けのよさそーな お嬢ちゃんだけど、案外強情だな。,"Well, you seem to be a very reasonable young lady, but you are more stubborn than I thought.","Parece que sabe escuchar, pero es más terco de lo que cree."
+Tenkai Umine (talking),"大人があたしをペシミストに しちゃったんだよ。
  ＜たんたまご＞ サイッテー！","The adults have turned me into a pessimist.
  ＜Sai-tae!","Los adultos me han convertido en un pesimista.
  ¡＜Sai ttee!"
-"Yamamoto Akuji (talking)","だったら、快楽で それを変えてやるよ。","Then I'll change that with pleasure.","Entonces lo cambiaré con gusto."
-"Tenkai Umine (talking)","なんだ、抱きたいの。 別に大義名分つけなくっても、 やりたいって言えばいいのに。","What, you want to hold me? You don't have to make a big deal out of it. Just say you want to do it.","¿Qué, quieres abrazarme? No hace falta que le des mucha importancia, simplemente di que quieres hacerlo."
-"Yamamoto Akuji (talking)","ある意味、俺の為にやるんたけど お前さんの為でもあるんだぜ。","In a way, I'm doing it for me, but it's also for you.","En cierto modo, lo hago por mí, pero también por ti."
-"Tenkai Umine (talking)","何それ。
+Yamamoto Akuji (talking),だったら、快楽で それを変えてやるよ。,Then I'll change that with pleasure.,Entonces lo cambiaré con gusto.
+Tenkai Umine (talking),なんだ、抱きたいの。 別に大義名分つけなくっても、 やりたいって言えばいいのに。,"What, you want to hold me? You don't have to make a big deal out of it. Just say you want to do it.","¿Qué, quieres abrazarme? No hace falta que le des mucha importancia, simplemente di que quieres hacerlo."
+Yamamoto Akuji (talking),ある意味、俺の為にやるんたけど お前さんの為でもあるんだぜ。,"In a way, I'm doing it for me, but it's also for you.","En cierto modo, lo hago por mí, pero también por ti."
+Tenkai Umine (talking),"何それ。
  ＜たんたまご＞ サイッテー！","What's that?
  <Tan egg> Sai ttee!","Lo que es.
  <¡Guadaña!"
-"Yamamoto Akuji (talking)","で、やった事はあるのか？","And have you ever done it?","¿Y lo has hecho alguna vez?"
-"Tenkai Umine (talking)","初体験はね、戦争終了の放送がラジオから 流れている中で、先生達に輪姦されたの。
+Yamamoto Akuji (talking),で、やった事はあるのか？,And have you ever done it?,¿Y lo has hecho alguna vez?
+Tenkai Umine (talking),"初体験はね、戦争終了の放送がラジオから 流れている中で、先生達に輪姦されたの。
 大人って、豹変するよね。
 自分が信じているものが壊れたからって、 どーしてあそこまで自分だけを守ろうと 必死になるのかしら。
 それをさ、まだ力のなかったあたしらに ぶつけてさ…最低だったよ。","My first experience was being gang-raped by teachers while the radio was broadcasting Ryou after the war.
@@ -247,10 +247,10 @@ And then, to take it out on those of us who still had no power…it was disgusti
 Los adultos cambian tan rápido, ¿no?
  ¿Por qué se empeñan en protegerse sólo porque algo en lo que creen está roto?
 Y luego nos lo pusieron a nosotros, que aún no teníamos el poder… fue asqueroso."
-"Yamamoto Akuji (talking)","そーいう大人ばかりじゃないぜ。","Not all adults are like that.","No todos los adultos son así."
-"Tenkai Umine (talking)","だったら、見せてよ。","Then show me.","Entonces muéstrame."
-"Yamamoto Akuji (talking)","ああ、見せてやるよ。","Yeah, I'll show you.","Sí, te mostraré."
-"cg narrator","悪司の熱い舌が、ゆっくりと焦らすように 海音の細い躰の上をなぞる。
+Yamamoto Akuji (talking),そーいう大人ばかりじゃないぜ。,Not all adults are like that.,No todos los adultos son así.
+Tenkai Umine (talking),だったら、見せてよ。,Then show me.,Entonces muéstrame.
+Yamamoto Akuji (talking),ああ、見せてやるよ。,"Yeah, I'll show you.","Sí, te mostraré."
+cg narrator,"悪司の熱い舌が、ゆっくりと焦らすように 海音の細い躰の上をなぞる。
  「あっ………っく…！」
 海音の躰がぴくりと跳ねた。
  「あ…なっ……何…これ……」
@@ -485,189 +485,189 @@ Sí, sí.
 Más ……, más…
  ¿Así?
 Sí… ah… ah… ah… ah… ah… ah… ah… ……!"
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"Tenkai Umine (talking)","……………","……………","……………"
-"Yamamoto Akuji (talking)","どうだった？ 大人も色々だろ。","How did it go? Adults are a lot different.","¿Cómo te fue? Los adultos son diferentes."
-"Tenkai Umine (talking)","そーだねー……","I know… ……","Bien……"
-"Yamamoto Akuji (talking)","違う世界は覗けたかい？","Did you get a peek into a different world?","¿Consiguió echar un vistazo a un mundo diferente?"
-"Tenkai Umine (talking)","……………","……………","……………"
-"Yamamoto Akuji (talking)","もっとして欲しいのか？","You want more?","¿Quieres más?"
-"Tenkai Umine (talking)","…………フン……","………… Hun ……","………… Hun ……"
-"Yamamoto Akuji (talking)","くくくっ……","Kukukuku ……","Kukuku……"
-"Yamamoto Akuji (talking)","こっちきな、海音。 あっためてやっからさ。","Come here, Umine. I'll warm you up.","Ven aquí, Umine. Te voy a calentar."
-"Tenkai Umine (talking)","ふーん。 それってしたいって事なのね。 男の人って都合いいね。","Hmmm. That means you want to do it. Men are so convenient.","Hmmm. Eso significa que quieres hacerlo. Los hombres son tan convenientes."
-"Yamamoto Akuji (talking)","そりゃ、女も一緒だ。","That's the same with women.","Lo mismo ocurre con las mujeres."
-"Tenkai Umine (talking)","よくわかんない。","I'm not sure.","No estoy seguro."
-"Yamamoto Akuji (talking)","そのうちわかるようになるさ。 しなくていいのか？","You'll figure it out. Don't you have to?","Lo descubrirás con el tiempo. ¿No tienes que hacerlo?"
-"Tenkai Umine (talking)","ううん。","Nah.","No."
-"Yamamoto Akuji (talking)","だったら、可愛らしくしてな。 そしたら、とことん可愛がってやるぜ。","Then make me pretty. Then I'll take good care of you.","Entonces hazme bonito. Entonces estaré encima de ti."
-"Tenkai Umine (talking)","やらしー。","Yarashi.","Yarra."
-"Tenkai Umine (talking)","海音は、積極的に悪司を求めた。","Umine actively sought Akuji.","Umine buscó activamente a Akuji."
-"Tenkai Umine (talking)","………………","………………","………………"
-"Yamamoto Akuji (talking)","なんだ、その目は…","What's with the eyes…","Qué pasa con los ojos…"
-"Tenkai Umine (talking)","もう終わり？","Are we done?","¿Hemos terminado?"
-"Yamamoto Akuji (talking)","終わりにして欲しいか？","Do you want it to end?","¿Quieres que se acabe?"
-"Tenkai Umine (talking)","ううん、もっと。","No, more.","No, más."
-"Yamamoto Akuji (talking)","しょーがねーなー、若いムスメってのは。","I can't help it, young muses.","No puedo evitarlo, jóvenes musas."
-"Tenkai Umine (talking)","ふふふ…","Hmmm…","Hmmm…"
-"Yamamoto Akuji (talking)","お前さん達、あそこにいたって事は、 軍人だったって事だよな。
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+Tenkai Umine (talking),……………,……………,……………
+Yamamoto Akuji (talking),どうだった？ 大人も色々だろ。,How did it go? Adults are a lot different.,¿Cómo te fue? Los adultos son diferentes.
+Tenkai Umine (talking),そーだねー……,I know… ……,Bien……
+Yamamoto Akuji (talking),違う世界は覗けたかい？,Did you get a peek into a different world?,¿Consiguió echar un vistazo a un mundo diferente?
+Tenkai Umine (talking),……………,……………,……………
+Yamamoto Akuji (talking),もっとして欲しいのか？,You want more?,¿Quieres más?
+Tenkai Umine (talking),…………フン……,………… Hun ……,………… Hun ……
+Yamamoto Akuji (talking),くくくっ……,Kukukuku ……,Kukuku……
+Yamamoto Akuji (talking),こっちきな、海音。 あっためてやっからさ。,"Come here, Umine. I'll warm you up.","Ven aquí, Umine. Te voy a calentar."
+Tenkai Umine (talking),ふーん。 それってしたいって事なのね。 男の人って都合いいね。,Hmmm. That means you want to do it. Men are so convenient.,Hmmm. Eso significa que quieres hacerlo. Los hombres son tan convenientes.
+Yamamoto Akuji (talking),そりゃ、女も一緒だ。,That's the same with women.,Lo mismo ocurre con las mujeres.
+Tenkai Umine (talking),よくわかんない。,I'm not sure.,No estoy seguro.
+Yamamoto Akuji (talking),そのうちわかるようになるさ。 しなくていいのか？,You'll figure it out. Don't you have to?,Lo descubrirás con el tiempo. ¿No tienes que hacerlo?
+Tenkai Umine (talking),ううん。,Nah.,No.
+Yamamoto Akuji (talking),だったら、可愛らしくしてな。 そしたら、とことん可愛がってやるぜ。,Then make me pretty. Then I'll take good care of you.,Entonces hazme bonito. Entonces estaré encima de ti.
+Tenkai Umine (talking),やらしー。,Yarashi.,Yarra.
+Tenkai Umine (talking),海音は、積極的に悪司を求めた。,Umine actively sought Akuji.,Umine buscó activamente a Akuji.
+Tenkai Umine (talking),………………,………………,………………
+Yamamoto Akuji (talking),なんだ、その目は…,What's with the eyes…,Qué pasa con los ojos…
+Tenkai Umine (talking),もう終わり？,Are we done?,¿Hemos terminado?
+Yamamoto Akuji (talking),終わりにして欲しいか？,Do you want it to end?,¿Quieres que se acabe?
+Tenkai Umine (talking),ううん、もっと。,"No, more.","No, más."
+Yamamoto Akuji (talking),しょーがねーなー、若いムスメってのは。,"I can't help it, young muses.","No puedo evitarlo, jóvenes musas."
+Tenkai Umine (talking),ふふふ…,Hmmm…,Hmmm…
+Yamamoto Akuji (talking),"お前さん達、あそこにいたって事は、 軍人だったって事だよな。
 なんで海賊になんかに クラスチェンジしたんだ？","If you guys were there, that means you were soldiers.
 Why'd you switch classes to pirates?","Ustedes estaban allí, lo que significa que eran soldados.
  ¿Por qué cambiaste de clase a piratas?"
-"Tenkai Umine (talking)","軍人なんていーもんじゃないよ。 人手不足で苦肉の策の特攻隊員として 訓練を受けてただけ。","It's not like I'm a soldier. They were trained as suicide attackers as a desperate measure due to a shortage of manpower.","No es agradable ser un soldado. Sólo fui entrenado como atacante suicida, una maniobra desesperada debido a la escasez de personal."
-"Yamamoto Akuji (talking)","訓練？","Training?","¿Formación?"
-"Tenkai Umine (talking)","って言っても、大抵の子達は、 モーターボートの運転技術を学ぶだけ。","Most of them are just learning how to drive a motorboat.","La mayoría de los niños sólo aprenden el arte de conducir una lancha."
-"Yamamoto Akuji (talking)","まさか……","No way……","De ninguna manera……"
-"Tenkai Umine (talking)","そ、当たり。 爆弾つきのモーターボートで、 敵艦に突っ込むの。","Right. Bingo. A motorboat with a bomb Dan to ram the enemy ship.","Así que, dale. Una lancha con una bomba Dan, embiste al barco enemigo."
-"Yamamoto Akuji (talking)","ホントにやってやがったのか。 噂には聞いてたが…… ひでー話だ。","They really did it? I've heard rumors, but…… is a terrible story.","Realmente lo hicieron, ¿no? Había oído rumores, pero…… es una historia terrible."
-"Tenkai Umine (talking)","うん、ひでー話だよね。 ちょっと前までは、現実だったけどね。
+Tenkai Umine (talking),軍人なんていーもんじゃないよ。 人手不足で苦肉の策の特攻隊員として 訓練を受けてただけ。,It's not like I'm a soldier. They were trained as suicide attackers as a desperate measure due to a shortage of manpower.,"No es agradable ser un soldado. Sólo fui entrenado como atacante suicida, una maniobra desesperada debido a la escasez de personal."
+Yamamoto Akuji (talking),訓練？,Training?,¿Formación?
+Tenkai Umine (talking),って言っても、大抵の子達は、 モーターボートの運転技術を学ぶだけ。,Most of them are just learning how to drive a motorboat.,La mayoría de los niños sólo aprenden el arte de conducir una lancha.
+Yamamoto Akuji (talking),まさか……,No way……,De ninguna manera……
+Tenkai Umine (talking),そ、当たり。 爆弾つきのモーターボートで、 敵艦に突っ込むの。,Right. Bingo. A motorboat with a bomb Dan to ram the enemy ship.,"Así que, dale. Una lancha con una bomba Dan, embiste al barco enemigo."
+Yamamoto Akuji (talking),ホントにやってやがったのか。 噂には聞いてたが…… ひでー話だ。,"They really did it? I've heard rumors, but…… is a terrible story.","Realmente lo hicieron, ¿no? Había oído rumores, pero…… es una historia terrible."
+Tenkai Umine (talking),"うん、ひでー話だよね。 ちょっと前までは、現実だったけどね。
 まー、怨みなんかもあったりしたから、 大人の上前はねる海賊になっちゃったって のもアリかな？","Yeah, it's a terrible story. It was real until a while ago.
 Well, there were some grudges, so they became pirates who took advantage of adults.","Sí, es una historia terrible. Era real hasta hace un tiempo.
 Bueno, también hubo algunos rencores, así que supongo que es posible que me haya convertido en un pirata que se aprovecha de los adultos."
-"Yamamoto Akuji (talking)","言い訳だな。","Excuses.","Excusas."
-"Tenkai Umine (talking)","何よ。 悪司達も似たような事してるじゃない。 知らないとでも思ってんの？","What? Akuji and the others are doing similar things. You think I don't know that?","¿Qué? Akuji y los demás están haciendo cosas similares. ¿Crees que no lo sé?"
-"Yamamoto Akuji (talking)","あー、そーいやそーだなー。","Oh, yeah, yeah, yeah.","Oh, sí, sí, sí."
-"Tenkai Umine (talking)","同類ぢゃん。
+Yamamoto Akuji (talking),言い訳だな。,Excuses.,Excusas.
+Tenkai Umine (talking),何よ。 悪司達も似たような事してるじゃない。 知らないとでも思ってんの？,What? Akuji and the others are doing similar things. You think I don't know that?,¿Qué? Akuji y los demás están haciendo cosas similares. ¿Crees que no lo sé?
+Yamamoto Akuji (talking),あー、そーいやそーだなー。,"Oh, yeah, yeah, yeah.","Oh, sí, sí, sí."
+Tenkai Umine (talking),"同類ぢゃん。
  ＜たんたまご＞ ドールーイ！","The same kind of thing.
  <Tan Tamago> Dooly!","El mismo tipo de gente.
  <¡Dooly!"
-"Yamamoto Akuji (talking)","前によ、モーターボートの運転技術だけ 修得させられたっつってたよな。","You once told me that you were forced to learn how to drive a motorboat.","Una vez me dijiste que sólo estabas entrenado en el arte de conducir una lancha."
-"Tenkai Umine (talking)","うん、大抵の子達がね。","Yeah, most of the kids.","Sí, la mayoría de los niños."
-"Yamamoto Akuji (talking)","にしちゃー、お前さん達、 強かったじゃねぇか。 実戦で鍛えたってやつか？","But you guys are so strong, aren't you? You were trained in actual battle, right?","Fueron fuertes, ¿no? ¿Has sido entrenado en combate real?"
-"Tenkai Umine (talking)","あたし達の中には、船の操縦しか 出来ない子達もいるわ。
+Yamamoto Akuji (talking),前によ、モーターボートの運転技術だけ 修得させられたっつってたよな。,You once told me that you were forced to learn how to drive a motorboat.,Una vez me dijiste que sólo estabas entrenado en el arte de conducir una lancha.
+Tenkai Umine (talking),うん、大抵の子達がね。,"Yeah, most of the kids.","Sí, la mayoría de los niños."
+Yamamoto Akuji (talking),にしちゃー、お前さん達、 強かったじゃねぇか。 実戦で鍛えたってやつか？,"But you guys are so strong, aren't you? You were trained in actual battle, right?","Fueron fuertes, ¿no? ¿Has sido entrenado en combate real?"
+Tenkai Umine (talking),"あたし達の中には、船の操縦しか 出来ない子達もいるわ。
 でも、軍ももう少し余裕があった頃は、 ちゃんとした軍事教練もあったんだよ。
 その頃からいるメンツは、 操縦だけじゃなくって、 体術も会得してるの。","Some of us can only do Misao vertically.
 But when the military was a little more relaxed, we had proper military training.
 Those of us who have been around since then have not only mastered the vertical, but also the body techniques.","Algunos de nosotros sólo podemos hacer el Misao vertical de la nave.
 Pero cuando el ejército era un poco más relajado, teníamos una formación militar adecuada.
 Los que estamos desde entonces no sólo dominamos la vertical de Misao, sino también las artes del culturismo."
-"Yamamoto Akuji (talking)","そっか。","I see.","Ya veo."
-"Tenkai Umine (talking)","…………","…………","…………"
-"Yamamoto Akuji (talking)","なんだ？","What is it?","¿Qué es?"
-"Tenkai Umine (talking)","あたしに、そんな事聞いた大人 初めてだったから、不思議。","It was the first time an adult had ever asked me such a thing, so it was strange.","Era la primera vez que un adulto me preguntaba eso, así que fue extraño."
-"Yamamoto Akuji (talking)","そっか。","I see.","Ya veo."
-"Tenkai Umine (talking)","うん。","Yeah.","Sí."
-"Yamamoto Akuji (talking)","前も言ったと思うんだけど、お前さん、 俺の部下になるつもりない？
+Yamamoto Akuji (talking),そっか。,I see.,Ya veo.
+Tenkai Umine (talking),…………,…………,…………
+Yamamoto Akuji (talking),なんだ？,What is it?,¿Qué es?
+Tenkai Umine (talking),あたしに、そんな事聞いた大人 初めてだったから、不思議。,"It was the first time an adult had ever asked me such a thing, so it was strange.","Era la primera vez que un adulto me preguntaba eso, así que fue extraño."
+Yamamoto Akuji (talking),そっか。,I see.,Ya veo.
+Tenkai Umine (talking),うん。,Yeah.,Sí.
+Yamamoto Akuji (talking),"前も言ったと思うんだけど、お前さん、 俺の部下になるつもりない？
 その若さで部下、切り盛りして 海賊やってたんだったら、俺の為に立派に 働いてくれるだろうと思って。","I think I told you this before, but are you going to be my subordinate?
 If you were a pirate at such a young age, running things, I thought you would do a fine job for me.","Creo que te lo he dicho antes, pero ¿no vas a ser mi hombre?
 Si eres un pirata a una edad tan temprana, dirigiendo las cosas, pensé que harías un buen trabajo para mí."
-"Tenkai Umine (talking)","あたしがリーダーになるの？","I'm going to be the leader?","¿Voy a ser el líder?"
-"Yamamoto Akuji (talking)","何言ってんだ。 俺の部下になれって言っただろ。","What are you talking about? I told you to be my man.","¿De qué estás hablando? Te dije que fueras mi hombre."
-"Tenkai Umine (talking)","だったらいい。 もうよほどの事がない限り、 誰かの下にはならないって決めているの。
+Tenkai Umine (talking),あたしがリーダーになるの？,I'm going to be the leader?,¿Voy a ser el líder?
+Yamamoto Akuji (talking),何言ってんだ。 俺の部下になれって言っただろ。,What are you talking about? I told you to be my man.,¿De qué estás hablando? Te dije que fueras mi hombre.
+Tenkai Umine (talking),"だったらいい。 もうよほどの事がない限り、 誰かの下にはならないって決めているの。
  ＜たんたまご＞ ダメ　ダメ！","I'm not going to be under anyone else's thumb anymore unless I have to. I've already decided that I won't be under anyone's thumb unless I have to be.
  ＜No, no, no!","Entonces eso es bueno. Ya he decidido que no voy a estar bajo el control de nadie a menos que sea necesario.
  ¡＜No, no, no!"
-"Yamamoto Akuji (talking)","ふーん……","Hmmm ……","Hmmm ……"
-"Yamamoto Akuji (talking)","どうだ？ そろそろ俺の部下になる気になったか？","What do you think? Are you ready to be my man now?","¿Qué te parece? ¿Estás listo para ser mi hombre ahora?"
-"Tenkai Umine (talking)","悪司の事好きだけど、それでも 誰かの下で働くのはいや。","I like Akuji, but I still don't want to work for someone else.","Me gusta Akuji, pero todavía no quiero trabajar para otra persona."
-"Yamamoto Akuji (talking)","俺の部下になったら、 今以上に抱いてやるって言ってもか？","What if I told you that if you became my subordinate, I'd hold you even better than I do now?","¿Aunque te dijera que si te convirtieras en mi empleado, te tendría incluso mejor que ahora?"
-"Tenkai Umine (talking)","マジ！？","Seriously!","¡En serio!"
-"Yamamoto Akuji (talking)","マジマジ。","Seriously.","En serio."
-"Tenkai Umine (talking)","ううう~~ん……","Ummmmm… ……","Ummmmm… ……"
-"Yamamoto Akuji (talking)","部下になるっていうから、 堅苦しいんだな。
+Yamamoto Akuji (talking),ふーん……,Hmmm ……,Hmmm ……
+Yamamoto Akuji (talking),どうだ？ そろそろ俺の部下になる気になったか？,What do you think? Are you ready to be my man now?,¿Qué te parece? ¿Estás listo para ser mi hombre ahora?
+Tenkai Umine (talking),悪司の事好きだけど、それでも 誰かの下で働くのはいや。,"I like Akuji, but I still don't want to work for someone else.","Me gusta Akuji, pero todavía no quiero trabajar para otra persona."
+Yamamoto Akuji (talking),俺の部下になったら、 今以上に抱いてやるって言ってもか？,"What if I told you that if you became my subordinate, I'd hold you even better than I do now?","¿Aunque te dijera que si te convirtieras en mi empleado, te tendría incluso mejor que ahora?"
+Tenkai Umine (talking),マジ！？,Seriously!,¡En serio!
+Yamamoto Akuji (talking),マジマジ。,Seriously.,En serio.
+Tenkai Umine (talking),ううう~~ん……,Ummmmm… ……,Ummmmm… ……
+Yamamoto Akuji (talking),"部下になるっていうから、 堅苦しいんだな。
 ギブアンドテイクだ。 どうだ？","You're so uptight about being my subordinate.
 It's give and take. How's that sound?","Estás muy tenso por ser mi subordinado.
 Es un toma y daca. ¿Cómo va todo?"
-"Tenkai Umine (talking)","んん~~~~~~~~~……
+Tenkai Umine (talking),"んん~~~~~~~~~……
 わかった、あんたの為に戦ってあげる。 でも、約束破ったら、ズキューンだよ。
  ＜たんたまご＞ ズキューン！","Nn~~~~~~~~~……
 Okay, I'll fight for you. But if you break your promise, I'm gonna have to go to the streets.
  ＜(tongue and egg) Zukyuun!","Nn~~~~~~~~~……
 De acuerdo, lucharé por ti. Pero si rompes tu promesa, recibirás un zukyuun.
  <¡Zukyuun!"
-"Yamamoto Akuji (talking)","ＯＫＯＫ。 そいじゃ、契約成立だ。","OK, OK. Then we have a contract.","Vale, vale, entonces tenemos un trato."
-"narrator","オオサカ湾に浮かぶこの島は、戦時中は 海軍の基地として有名だったが…… 現在は海賊の島として有名であった。
+Yamamoto Akuji (talking),ＯＫＯＫ。 そいじゃ、契約成立だ。,"OK, OK. Then we have a contract.","Vale, vale, entonces tenemos un trato."
+narrator,"オオサカ湾に浮かぶこの島は、戦時中は 海軍の基地として有名だったが…… 現在は海賊の島として有名であった。
 しかも、その海賊というのが。","This island in Osaca Bay was famous as a naval base during the war, but…… is now famous as an island of pirates.
 And the pirates are.","Esta isla en la bahía de Osaka fue famosa como base naval durante la guerra…… pero ahora es famosa como isla de piratas.
 Además, los piratas son."
-"Tenkai Umine (talking)","アーユーレディ！？","Aaahhhhhh, you lady!","¡Arre, señora!"
-"onnanokokaizoku (talking)","イエスサー！！","Yes Sir!","¡¡¡SÍ SEÑOR!!!"
-"Tenkai Umine (talking)","うん、今日もみんな、元気だね！ その調子でガンガン稼ごうねー！
+Tenkai Umine (talking),アーユーレディ！？,"Aaahhhhhh, you lady!","¡Arre, señora!"
+onnanokokaizoku (talking),イエスサー！！,Yes Sir!,¡¡¡SÍ SEÑOR!!!
+Tenkai Umine (talking),"うん、今日もみんな、元気だね！ その調子でガンガン稼ごうねー！
  ＜たんたまご＞ イケー！","Yeah, you guys are looking great today! Keep it up and let's make some money!
  ＜(egg) Yikes!","Sí, ¡todos lo están haciendo muy bien hoy! ¡Sigue así y ganemos dinero!
  ＜(Huevo de Tantan) ¡Bien!"
-"narrator","海音の手の上のオカメインコの たんたまごが、海音に合わせて 威勢の良い声をあげる。","The cockatiel on Umine's hand, Tan-tamago, chirps with a lively voice in response to Umine's call.","La cacatúa de la mano de Umine, Tan Tamago, pía con Umine."
-"onnanokokaizoku (talking)","イエー！！","Yeah!","¡¡Sí!!"
-"narrator","これが、パナジの海賊。 皆、少女だった。","These are the pirates of Panaji. They were all girls.","Estos son los piratas de Panaji. Todas eran chicas."
-"onnanokokaizoku (talking)","サー海音！ 全船出撃準備完了です！","Sir Umine! All ships are ready to launch.","¡Señor Umine! ¡Todas las naves listas para despegar, señor Ryou!"
-"Tenkai Umine (talking)","ＯＫ！ んじゃ、１号艦から出撃！！","OK, let's launch from the first ship!","Bien, entonces, ¡lanzad la primera nave!"
-"onnanokokaizoku (talking)","イエスサー！","Yes Sir!","¡Sí, señor!"
-"Tenkai Umine (talking)","おもしろくなってきたね、たんたまご。
+narrator,海音の手の上のオカメインコの たんたまごが、海音に合わせて 威勢の良い声をあげる。,"The cockatiel on Umine's hand, Tan-tamago, chirps with a lively voice in response to Umine's call.","La cacatúa de la mano de Umine, Tan Tamago, pía con Umine."
+onnanokokaizoku (talking),イエー！！,Yeah!,¡¡Sí!!
+narrator,これが、パナジの海賊。 皆、少女だった。,These are the pirates of Panaji. They were all girls.,Estos son los piratas de Panaji. Todas eran chicas.
+onnanokokaizoku (talking),サー海音！ 全船出撃準備完了です！,Sir Umine! All ships are ready to launch.,"¡Señor Umine! ¡Todas las naves listas para despegar, señor Ryou!"
+Tenkai Umine (talking),ＯＫ！ んじゃ、１号艦から出撃！！,"OK, let's launch from the first ship!","Bien, entonces, ¡lanzad la primera nave!"
+onnanokokaizoku (talking),イエスサー！,Yes Sir!,"¡Sí, señor!"
+Tenkai Umine (talking),"おもしろくなってきたね、たんたまご。
  ＜たんたまご＞ イエー！","It's getting interesting Tane, Tantamago.
  ＜Tantamago.","Se está poniendo interesante Tane, Tantamago.
  ＜Tan-tamago . ¡Yay!"
-"Matsumoto Ryou (talking)","海音さん……","Ms. Umine ……","Sra. Umine ……"
-"Tenkai Umine (talking)","あ、出てきちゃ駄目よ、了君。 この時間の紫外線って、お肌の大敵よ。 せっかくの白い肌に染みが出来ちゃう。
+Matsumoto Ryou (talking),海音さん……,Ms. Umine ……,Sra. Umine ……
+Tenkai Umine (talking),"あ、出てきちゃ駄目よ、了君。 この時間の紫外線って、お肌の大敵よ。 せっかくの白い肌に染みが出来ちゃう。
 了君は、何も心配しなくていいから。 お部屋にいて。
  ＜たんたまご＞ イテイテ。","Oh, don't come out, Ryou. Ultraviolet rays at this time of night are your skin's worst enemy. It'll stain your nice skin.
 You don't have to worry about anything. Stay in your room.
  ＜It's okay.","Oh, no salga, Sr. Ryou. Los rayos ultravioleta a esta hora de la noche son un gran enemigo de tu piel. Manchará tu buena piel de Haku.
 No tienes que preocuparte por nada. Quédate en tu habitación.
  ＜Está bien."
-"Matsumoto Ryou (talking)","でも僕、ここでたった一人の男なんだから 僕も一緒に戦って……","But I'm the only man here. I'm fighting with you……","Pero soy el único hombre aquí, así que también estoy luchando contigo……"
-"Tenkai Umine (talking)","あん、駄目駄目。 了君は、このパナジのアイドル なんだから。
+Matsumoto Ryou (talking),でも僕、ここでたった一人の男なんだから 僕も一緒に戦って……,But I'm the only man here. I'm fighting with you……,"Pero soy el único hombre aquí, así que también estoy luchando contigo……"
+Tenkai Umine (talking),"あん、駄目駄目。 了君は、このパナジのアイドル なんだから。
 アイドルは力仕事なんかしちゃ駄目なの。 それに、アイドルに何かあったら、大変。 だから、じっとしていて。","Oh, no, no, no. You are an idol of Panaji.
 Idols shouldn't do hard work. Besides, if something happens to the idol, we'll be in trouble. So, stay still.","Oh, no, no, no. Ryou, eres un ídolo aquí en Panaji.
 Los ídolos no deben hacer el trabajo duro. Además, si le pasa algo al ídolo, sería un desastre. Así que, quédate quieto."
-"Matsumoto Ryou (talking)","………………","………………","………………"
-"onnanokokaizoku (talking)","サー海音！ 密輸船、はっけ~ん！","SirUmine! Smuggler ship, hakken~!","¡SirUmine! ¡Barco de contrabando, hakken~!"
-"Tenkai Umine (talking)","ＯＫＯＫ！ さっそくかっぱぎに行くよ、みんなー！","OK, OK, I'm coming right out of the gate, guys!","Vale, vale, ¡voy a ir directamente al kappa gi, chicos!"
-"onnanokokaizoku (talking)","イエスサー！","Yes Sir!","¡Sí, señor!"
-"Tenkai Umine (talking)","＜たんたまご＞ イエー！","＜Yay!","<Huevo de color> ¡Sí!"
-"narrator","海音が率いる海賊は、あっという間に 密輸船を占拠した。","The pirates, led by Umine, quickly took over the smuggling vessel.","Los piratas, dirigidos por Umine, se apoderaron rápidamente del barco de contrabando."
-"Tenkai Umine (talking)","エモノは？","Where's Emono?","¿Dónde está Emono?"
-"onnanokokaizoku (talking)","はい。 お米と舶来品でしたー。","Yes, I am. It was rice and imported goods.","Sí. Fue el arroz y los productos importados -."
-"Tenkai Umine (talking)","さすがＰＭの密輸船。 ハイカラなモンまでガッチョリー☆
+Matsumoto Ryou (talking),………………,………………,………………
+onnanokokaizoku (talking),サー海音！ 密輸船、はっけ~ん！,"SirUmine! Smuggler ship, hakken~!","¡SirUmine! ¡Barco de contrabando, hakken~!"
+Tenkai Umine (talking),ＯＫＯＫ！ さっそくかっぱぎに行くよ、みんなー！,"OK, OK, I'm coming right out of the gate, guys!","Vale, vale, ¡voy a ir directamente al kappa gi, chicos!"
+onnanokokaizoku (talking),イエスサー！,Yes Sir!,"¡Sí, señor!"
+Tenkai Umine (talking),＜たんたまご＞ イエー！,＜Yay!,<Huevo de color> ¡Sí!
+narrator,海音が率いる海賊は、あっという間に 密輸船を占拠した。,"The pirates, led by Umine, quickly took over the smuggling vessel.","Los piratas, dirigidos por Umine, se apoderaron rápidamente del barco de contrabando."
+Tenkai Umine (talking),エモノは？,Where's Emono?,¿Dónde está Emono?
+onnanokokaizoku (talking),はい。 お米と舶来品でしたー。,"Yes, I am. It was rice and imported goods.",Sí. Fue el arroz y los productos importados -.
+Tenkai Umine (talking),"さすがＰＭの密輸船。 ハイカラなモンまでガッチョリー☆
 じゃあ、お米と舶来品、通行税って事で、 何割かいただきまーす。 ＯＫ？
  ＜たんたまご＞ ＯＫ　ＯＫ！","As one would expect from a PM smuggling ship. They even have a lot of expensive stuff☆.
 Okay, I'll take a percentage of the rice, the imported goods, and the toll tax. OK?
  ＜OK, OK!","Como se esperaba de un barco de contrabando de la PM. Incluso tienen un montón de cosas elegantes.☆
 De acuerdo, tomaré un porcentaje del arroz, de los productos importados y del impuesto de peaje. ¿DE ACUERDO?
  ¡＜OK, OK!"
-"Peach Maid (talking)","くっ……っ！","Damn ……!","¡Maldito ……!"
-"Peach Maid (thinking)","悔しいけど、従わざるをえない… 海の上でこいつらに逆らうのは、 あたしらには、無謀だわ……","It's frustrating, but we must obey… It would be foolhardy for us to go against these guys on the sea……","Es frustrante, pero tenemos que obedecer… Sería temerario que fuéramos contra esa gente en el mar……"
-"Tenkai Umine (talking)","安心して。 全部は取らないから。
+Peach Maid (talking),くっ……っ！,Damn ……!,¡Maldito ……!
+Peach Maid (thinking),悔しいけど、従わざるをえない… 海の上でこいつらに逆らうのは、 あたしらには、無謀だわ……,"It's frustrating, but we must obey… It would be foolhardy for us to go against these guys on the sea……","Es frustrante, pero tenemos que obedecer… Sería temerario que fuéramos contra esa gente en el mar……"
+Tenkai Umine (talking),"安心して。 全部は取らないから。
 だって全部取っちゃったら、あなた達が 酷い目にあっちゃうかもしんないもんね。","Don't worry. I won't take all of it.
 Because if we take all of them, you might get hurt badly.","No te preocupes. No me lo llevaré todo.
 Porque si lo tomamos todo, podrías salir mal parado."
-"Peach Maid (talking)","何も取らないのが、一番ありがたいの ですけどね…","I would be most grateful if I didn't have to take anything…","Sería muy apreciado si no tomaras nada…"
-"Tenkai Umine (talking)","そーしたいのは山々なんだけど、 あたし達もほらさ、生きてかなきゃ なんないんで。
+Peach Maid (talking),何も取らないのが、一番ありがたいの ですけどね…,I would be most grateful if I didn't have to take anything…,Sería muy apreciado si no tomaras nada…
+Tenkai Umine (talking),"そーしたいのは山々なんだけど、 あたし達もほらさ、生きてかなきゃ なんないんで。
 悪く思わないでねー☆
  ＜たんたまご＞ イエー！","I wish I could, but you know, we have to live with that.☆
 Please don't take it personally.
  ＜Yay!","Me encantaría hacerlo, pero tenemos que vivir, ya sabes.☆
 Por favor, no te lo tomes como algo personal.
  ¡＜Sí!"
-"onnanokokaizoku (talking)","サー海音！ 密輸船はっけーん！","SirUmine! Smuggler ship hakken!","¡SirUmine! ¡El barco del contrabandista hakken!"
-"__system__??","{★わかめ組 \ 3:","",""
-"onnanokokaizoku (talking)","どうやら、わかめ組の物のようでーす！","Looks like it belongs to the Wakame group!","¡Parece que pertenece al grupo Wakame!"
-"__system__??","}","",""
-"__system__??","{★わかめ組 = 3:","",""
-"onnanokokaizoku (talking)","どうやら、外国組織の物のようでーす！","Apparently, it belongs to a foreign organization!","Al parecer, pertenece a una organización extranjera."
-"__system__??","}","",""
-"Tenkai Umine (talking)","最近めっきり落ち目の組の船かー。 エモノはショボイかもしんないけど、 かっぱぐのが、あたし達！","I guess this is a ship from a group that's been on the wane lately. The stuff may be crappy, but we're the ones who make the boat!","Los barcos de un grupo que últimamente está en declive. Puede que el material sea cutre, ¡pero somos nosotros los que lo navegamos!"
-"onnanokokaizoku (talking)","イエー！","Yeah!","¡Sí!"
-"Tenkai Umine (talking)","よし、行くよ！","Okay, here we go!","Muy bien, ¡vamos!"
-"onnanokokaizoku (talking)","イエスサー！","Yes Sir!","¡Sí, señor!"
-"Tenkai Umine (talking)","＜たんたまご＞ イエー！","＜Yay!","<Huevo de color> ¡Sí!"
-"narrator","海音が率いる海賊は、あっという間に 密輸船を占拠した。","The pirates, led by Umine, quickly took over the smuggling vessel.","Los piratas, dirigidos por Umine, se apoderaron rápidamente del barco de contrabando."
-"Tenkai Umine (talking)","なんて意気地のない。 戦わないで無条件降伏なんて。","How willful. Unconditional surrender without a fight.","Qué voluntarioso. Cómo la rendición incondicional sin lucha."
-"Chinpira (talking)","いやいやいや、そんな事言わずに。 あるものはすべて持ってって下さい。 その代わり、命だけは……","No, no, no, no, don't say that. Take everything you have. Instead, just your life……","No, no, no, no, no digas eso. Toma todo lo que tienes. En cambio, sólo tu vida……"
-"__system__??","{★わかめ組 \ 3:","",""
-"Tenkai Umine (talking)","わかめ組ってば、組だけじゃなくって、 部下の質もガタ落ちね。","The Wakame group is not only a group, but also the quality of their subordinates has fallen to the lowest level.","El clan Wakame no es sólo un clan, sino que la calidad de sus hombres también se ha ido al garete."
-"__system__??","}","",""
-"Tenkai Umine (talking)","あんたみたいな大人の命なんか いらないわ。 積み荷も２５％頂くだけでいいわ。","I don't want the life of an adult like you. We'll take 25% of the load.","No quiero la vida de los adultos como tú. Sólo tomaremos el 25% de la carga."
-"onnanokokaizoku (talking)","サー海音！ 積み荷はお米とタバコとお味噌、 砂糖、衣類でーす！","SirUmine! I've got rice, cigarettes, miso, sugar and clothes!","¡SirUmine! ¡Tenemos arroz, cigarrillos, miso, azúcar y ropa!"
-"Tenkai Umine (talking)","タバコはいらないわ。 後は適当にチョイスして。 ２５％だよ。","I don't want a cigarette. The rest is just a choice. 25%.","No quiero un cigarrillo. El resto del tiempo lo puedes elegir como mejor te parezca. 25%."
-"onnanokokaizoku (talking)","イエスサー！","Yes Sir!","¡Sí, señor!"
-"Chinpira (thinking)","さっきから見てたら……こいつら、 ガキばっかかよ。 ひょっとして、ビビリ損だったか？","I was just looking at…… and saw that these guys are all kids. Did you lose your chatter, by any chance?","He estado mirando en…… y estos chicos son todos niños. ¿Por casualidad perdiste la charla?"
-"narrator","男はドスを抜くと、海音にかかっていった。","The man pulled out his doss and took on Umine.","El hombre sacó su dos y se puso en Umine."
-"Chinpira (talking)","この乳くせーガキ共がーー！！ 大人の力、思い知れ！","You naughty, naughty children! You know what adults are capable of!","¡Malditos bastardos! ¡Ya sabes de lo que son capaces los adultos!"
-"narrator","　　［がすっっっ］","　　［gasu~~~］","　　［gasu~~~］"
-"Chinpira (talking)","いでで！","Come!","¡Ven!"
-"narrator","海音はわずかに身をひねって、その男の手から、 ドスを叩き落とす。","Umine twists slightly and knocks the doss out of the man's hand.","Umine se retuerce ligeramente y le quita el dosier de la mano al hombre."
-"Tenkai Umine (talking)","あたしらがガキばっかだから勝てると 思った？ 残念ね。
+onnanokokaizoku (talking),サー海音！ 密輸船はっけーん！,SirUmine! Smuggler ship hakken!,¡SirUmine! ¡El barco del contrabandista hakken!
+__system__??,{★わかめ組 \ 3:,,
+onnanokokaizoku (talking),どうやら、わかめ組の物のようでーす！,Looks like it belongs to the Wakame group!,¡Parece que pertenece al grupo Wakame!
+__system__??,},,
+__system__??,{★わかめ組 = 3:,,
+onnanokokaizoku (talking),どうやら、外国組織の物のようでーす！,"Apparently, it belongs to a foreign organization!","Al parecer, pertenece a una organización extranjera."
+__system__??,},,
+Tenkai Umine (talking),最近めっきり落ち目の組の船かー。 エモノはショボイかもしんないけど、 かっぱぐのが、あたし達！,"I guess this is a ship from a group that's been on the wane lately. The stuff may be crappy, but we're the ones who make the boat!","Los barcos de un grupo que últimamente está en declive. Puede que el material sea cutre, ¡pero somos nosotros los que lo navegamos!"
+onnanokokaizoku (talking),イエー！,Yeah!,¡Sí!
+Tenkai Umine (talking),よし、行くよ！,"Okay, here we go!","Muy bien, ¡vamos!"
+onnanokokaizoku (talking),イエスサー！,Yes Sir!,"¡Sí, señor!"
+Tenkai Umine (talking),＜たんたまご＞ イエー！,＜Yay!,<Huevo de color> ¡Sí!
+narrator,海音が率いる海賊は、あっという間に 密輸船を占拠した。,"The pirates, led by Umine, quickly took over the smuggling vessel.","Los piratas, dirigidos por Umine, se apoderaron rápidamente del barco de contrabando."
+Tenkai Umine (talking),なんて意気地のない。 戦わないで無条件降伏なんて。,How willful. Unconditional surrender without a fight.,Qué voluntarioso. Cómo la rendición incondicional sin lucha.
+Chinpira (talking),いやいやいや、そんな事言わずに。 あるものはすべて持ってって下さい。 その代わり、命だけは……,"No, no, no, no, don't say that. Take everything you have. Instead, just your life……","No, no, no, no, no digas eso. Toma todo lo que tienes. En cambio, sólo tu vida……"
+__system__??,{★わかめ組 \ 3:,,
+Tenkai Umine (talking),わかめ組ってば、組だけじゃなくって、 部下の質もガタ落ちね。,"The Wakame group is not only a group, but also the quality of their subordinates has fallen to the lowest level.","El clan Wakame no es sólo un clan, sino que la calidad de sus hombres también se ha ido al garete."
+__system__??,},,
+Tenkai Umine (talking),あんたみたいな大人の命なんか いらないわ。 積み荷も２５％頂くだけでいいわ。,I don't want the life of an adult like you. We'll take 25% of the load.,No quiero la vida de los adultos como tú. Sólo tomaremos el 25% de la carga.
+onnanokokaizoku (talking),サー海音！ 積み荷はお米とタバコとお味噌、 砂糖、衣類でーす！,"SirUmine! I've got rice, cigarettes, miso, sugar and clothes!","¡SirUmine! ¡Tenemos arroz, cigarrillos, miso, azúcar y ropa!"
+Tenkai Umine (talking),タバコはいらないわ。 後は適当にチョイスして。 ２５％だよ。,I don't want a cigarette. The rest is just a choice. 25%.,No quiero un cigarrillo. El resto del tiempo lo puedes elegir como mejor te parezca. 25%.
+onnanokokaizoku (talking),イエスサー！,Yes Sir!,"¡Sí, señor!"
+Chinpira (thinking),さっきから見てたら……こいつら、 ガキばっかかよ。 ひょっとして、ビビリ損だったか？,"I was just looking at…… and saw that these guys are all kids. Did you lose your chatter, by any chance?",He estado mirando en…… y estos chicos son todos niños. ¿Por casualidad perdiste la charla?
+narrator,男はドスを抜くと、海音にかかっていった。,The man pulled out his doss and took on Umine.,El hombre sacó su dos y se puso en Umine.
+Chinpira (talking),この乳くせーガキ共がーー！！ 大人の力、思い知れ！,"You naughty, naughty children! You know what adults are capable of!",¡Malditos bastardos! ¡Ya sabes de lo que son capaces los adultos!
+narrator,　　［がすっっっ］,　　［gasu~~~］,　　［gasu~~~］
+Chinpira (talking),いでで！,Come!,¡Ven!
+narrator,海音はわずかに身をひねって、その男の手から、 ドスを叩き落とす。,Umine twists slightly and knocks the doss out of the man's hand.,Umine se retuerce ligeramente y le quita el dosier de la mano al hombre.
+Tenkai Umine (talking),"あたしらがガキばっかだから勝てると 思った？ 残念ね。
 見かけだけで判断する奴って、 大抵、馬鹿よね。
  ＜たんたまご＞ バカ　バーカ。
 こー見えても、あたしら 元海軍特攻隊の生き残り。 丘ののほほんヤクザと同じにしないでね。
@@ -686,140 +686,140 @@ Aunque tengamos este aspecto, somos antiguos supervivientes de los kamikazes de 
 He cambiado de opinión.
 Confiscamos toda su carga. Que tus jefes te reprendan.
  ¡＜SECKERN!"
-"onnanokokaizoku (talking)","サー海音！ ウィミィの駆逐艦です！！","Sir Umine! I am the destroyer of Wime!","¡Señor Umine! ¡Soy un destructor de Wime!"
-"Tenkai Umine (talking)","ちっ……逃げよう。 あれは今のあたしらじゃ どーする事も出来ないからね。","Damn it, ……, let's run away. There's nothing we can do about it now.","Maldita sea, ……, huyamos. No hay nada que podamos hacer ahora."
-"onnanokokaizoku (talking)","イエスサー！","Yes Sir!","¡Sí, señor!"
-"Tenkai Umine (talking)","はーやれやれ……","Hah dear ……","Haaayyyy: ……"
-"Matsumoto Ryou (talking)","おかえり、海音さん。","Welcome back, Umine.","Bienvenido, Umine."
-"Tenkai Umine (talking)","＜たんたまご＞ タダイマー！","＜Tadaima!","<Huevo de color> ¡Tadaimaa!"
-"Matsumoto Ryou (talking)","たんたまごも、おかえり。","Welcome back, Tantamago, too.","Tantamago también es bienvenido."
-"Tenkai Umine (talking)","うん、ただいまー。 了くーん、肩もんでー。","Yeah, I'm home. Ryou kun, rub my shoulder.","Sí, he vuelto. Ryou kun, frota mi hombro."
-"Matsumoto Ryou (talking)","はい。","Yes.","Sí."
-"Tenkai Umine (talking)","はー……ごくらく~。 了君、あんま上手になったねー。 それだけさせてるって事になるのかな？","I'm so happy to see you at ……. Ryou, you're not getting any better Tane. Is that all you're letting them do?","Ha…… Gokuraku~. Ryou, no estás mejorando en Tane. ¿Significa eso que te estoy obligando a hacer tanto?"
-"Matsumoto Ryou (talking)","気にしないで。 僕に出来る事なら、なんでもして あげるから…","Don't worry about it. I'll do whatever I can for you…","No te preocupes. Si hay algo que pueda hacer, lo haré por ti…"
-"Tenkai Umine (talking)","……今晩は……中田さんのとこに 行く番だったっけ？","Did I mention it's my turn to go to ……Nakata-san's this evening?","¿Tengo turno para ir a…… esta tarde…… Nakata-san?"
-"Matsumoto Ryou (talking)","……………うん……","……………うん ……","……………うん ……"
-"Tenkai Umine (talking)","……添い寝して欲しいなーと思っても、 了君はみんなのものだから、 独占出来ないもんねー…","……I want you to sleep with me, but I can't monopolize you because you belong to Ryou and Hami…","……Quiero que te acuestes conmigo, pero no puedo monopolizarte porque perteneces a Ryou y a Hami…"
-"Matsumoto Ryou (talking)","僕は、みんなのものなんかじゃ…","I don't belong to everyone…","No soy de todos…"
-"Tenkai Umine (talking)","ん？","Hmm?","¿Eh?"
-"Matsumoto Ryou (talking)","……ううん……
+onnanokokaizoku (talking),サー海音！ ウィミィの駆逐艦です！！,Sir Umine! I am the destroyer of Wime!,¡Señor Umine! ¡Soy un destructor de Wime!
+Tenkai Umine (talking),ちっ……逃げよう。 あれは今のあたしらじゃ どーする事も出来ないからね。,"Damn it, ……, let's run away. There's nothing we can do about it now.","Maldita sea, ……, huyamos. No hay nada que podamos hacer ahora."
+onnanokokaizoku (talking),イエスサー！,Yes Sir!,"¡Sí, señor!"
+Tenkai Umine (talking),はーやれやれ……,Hah dear ……,Haaayyyy: ……
+Matsumoto Ryou (talking),おかえり、海音さん。,"Welcome back, Umine.","Bienvenido, Umine."
+Tenkai Umine (talking),＜たんたまご＞ タダイマー！,＜Tadaima!,<Huevo de color> ¡Tadaimaa!
+Matsumoto Ryou (talking),たんたまごも、おかえり。,"Welcome back, Tantamago, too.",Tantamago también es bienvenido.
+Tenkai Umine (talking),うん、ただいまー。 了くーん、肩もんでー。,"Yeah, I'm home. Ryou kun, rub my shoulder.","Sí, he vuelto. Ryou kun, frota mi hombro."
+Matsumoto Ryou (talking),はい。,Yes.,Sí.
+Tenkai Umine (talking),はー……ごくらく~。 了君、あんま上手になったねー。 それだけさせてるって事になるのかな？,"I'm so happy to see you at ……. Ryou, you're not getting any better Tane. Is that all you're letting them do?","Ha…… Gokuraku~. Ryou, no estás mejorando en Tane. ¿Significa eso que te estoy obligando a hacer tanto?"
+Matsumoto Ryou (talking),気にしないで。 僕に出来る事なら、なんでもして あげるから…,Don't worry about it. I'll do whatever I can for you…,"No te preocupes. Si hay algo que pueda hacer, lo haré por ti…"
+Tenkai Umine (talking),……今晩は……中田さんのとこに 行く番だったっけ？,Did I mention it's my turn to go to ……Nakata-san's this evening?,¿Tengo turno para ir a…… esta tarde…… Nakata-san?
+Matsumoto Ryou (talking),……………うん……,……………うん ……,……………うん ……
+Tenkai Umine (talking),……添い寝して欲しいなーと思っても、 了君はみんなのものだから、 独占出来ないもんねー…,"……I want you to sleep with me, but I can't monopolize you because you belong to Ryou and Hami…","……Quiero que te acuestes conmigo, pero no puedo monopolizarte porque perteneces a Ryou y a Hami…"
+Matsumoto Ryou (talking),僕は、みんなのものなんかじゃ…,I don't belong to everyone…,No soy de todos…
+Tenkai Umine (talking),ん？,Hmm?,¿Eh?
+Matsumoto Ryou (talking),"……ううん……
 僕も…海音さんに添い寝して あげられなくて、残念だなって……","I'm sorry I didn't get to sleep with ……
 I'm also…Umine sorry I couldn't sleep with you ……","Siento no haber podido…… ……
 Yo también… siento no haber podido darle a Umine un abrazo ……"
-"Tenkai Umine (talking)","みんなにそんな事言ってんじゃないの？ 案外、了君ってお調子者なんだね。","Isn't that what you say to everyone? I guess Ryou you're a bit more well-behaved than I thought.","¿No se lo dices a todo el mundo? No esperaba que Ryou se portara tan bien."
-"Matsumoto Ryou (talking)","……僕は…海音さんの…","…… I'm…Umine's…","…… Soy… Umine's…"
-"onnanokokaizoku (talking)","あのー……サー海音…… 中田です…その……","Um…… Sir Umine…… I'm Nakata… that ……","Um…… Señor Umine…… Soy Nakata… que ……"
-"Tenkai Umine (talking)","ああ、いいよ、持っていきなよ。","Yeah, fine, take it.","Sí, bien, tómalo."
-"narrator","海音はそう言って、了の腕を掴むと 中田の方へ差し出した。","Umine then grabbed Ryou's arm and held it out toward Nakata.","Umine entonces agarró el brazo de Ryou y lo extendió hacia Nakata."
-"onnanokokaizoku (talking)","すみませーん。 失礼しまーす。
+Tenkai Umine (talking),みんなにそんな事言ってんじゃないの？ 案外、了君ってお調子者なんだね。,Isn't that what you say to everyone? I guess Ryou you're a bit more well-behaved than I thought.,¿No se lo dices a todo el mundo? No esperaba que Ryou se portara tan bien.
+Matsumoto Ryou (talking),……僕は…海音さんの…,…… I'm…Umine's…,…… Soy… Umine's…
+onnanokokaizoku (talking),あのー……サー海音…… 中田です…その……,Um…… Sir Umine…… I'm Nakata… that ……,Um…… Señor Umine…… Soy Nakata… que ……
+Tenkai Umine (talking),ああ、いいよ、持っていきなよ。,"Yeah, fine, take it.","Sí, bien, tómalo."
+narrator,海音はそう言って、了の腕を掴むと 中田の方へ差し出した。,Umine then grabbed Ryou's arm and held it out toward Nakata.,Umine entonces agarró el brazo de Ryou y lo extendió hacia Nakata.
+onnanokokaizoku (talking),"すみませーん。 失礼しまーす。
 おいで、了君。 楽しもうね……いっぱい抜いてあげる。 くすくすっ☆","I'm sorry. Excuse me.
 Come on, Ryou boy. Let's have fun…… I'll pull you out a lot. Smooch.☆","Lo siento. Disculpen.
 Vamos, Ryou boy. Vamos a divertirnos…… Te sacaré mucho. Hihi☆"
-"Tenkai Umine (talking)","＜たんたまご＞ バイバーイ！","＜Bye-bye!","<Huevo de color> ¡Adiós!"
-"Matsumoto Ryou (talking)","………………","………………","………………"
-"Mori Kaoru (talking)","市長、漁業団体からの苦情です。 パナジの女の子海賊隊を 討伐して欲しいと。","Mayor, this is a complaint from a fishing group. They want the Panaji girl pirate squad to be taken down.","Alcalde, quejas de grupos de pescadores. Quieren que la brigada de piratas de Panaji sea eliminada."
-"Nakayama Akari (talking)","え、嘘！","Oh, no!","¡Eh, mentira!"
-"Mori Kaoru (talking)","何がです？","What is it?","¿Qué es?"
-"Nakayama Akari (talking)","漁業団体って…… あの汚染された海で、 まだ漁がされてたって事？","Fishermen's groups are…… still fishing in those polluted waters?","¿Significan las organizaciones pesqueras…… que seguían pescando en esas aguas contaminadas?"
-"Mori Kaoru (talking)","はい。","Yes.","Sí."
-"Nakayama Akari (talking)","でも、魚とか、変形して…… 躰の中にどんな毒を持っているか わからないのに……","But you don't know what kind of poisons they have in their bodies, like fish or…… deformed…… bodies.","Pero no sabes qué tipo de venenos tienen en sus cuerpos, como los peces, que deforman y ……"
-"Mori Kaoru (talking)","見栄えのよさそうなものを、別の海域で 獲れたものと偽って、卸しています。","They distribute the fish that look good, pretending that they are caught in other waters.","Los peces que parecen buenos se venden falsamente al por mayor como si hubieran sido capturados en otras aguas."
-"Nakayama Akari (talking)","それって……詐欺……","Is that a…… scam ……","Es una estafa…… ……"
-"Mori Kaoru (talking)","そうですね。","Yes, it is.","Sí."
-"Nakayama Akari (talking)","そっちも取り締まらないと――","We need to crack down on that one, too--","Tenemos que tomar medidas contra eso también…"
-"Mori Kaoru (talking)","この程度の事、 別に見逃していてもよいかと。
+Tenkai Umine (talking),＜たんたまご＞ バイバーイ！,＜Bye-bye!,<Huevo de color> ¡Adiós!
+Matsumoto Ryou (talking),………………,………………,………………
+Mori Kaoru (talking),市長、漁業団体からの苦情です。 パナジの女の子海賊隊を 討伐して欲しいと。,"Mayor, this is a complaint from a fishing group. They want the Panaji girl pirate squad to be taken down.","Alcalde, quejas de grupos de pescadores. Quieren que la brigada de piratas de Panaji sea eliminada."
+Nakayama Akari (talking),え、嘘！,"Oh, no!","¡Eh, mentira!"
+Mori Kaoru (talking),何がです？,What is it?,¿Qué es?
+Nakayama Akari (talking),漁業団体って…… あの汚染された海で、 まだ漁がされてたって事？,Fishermen's groups are…… still fishing in those polluted waters?,¿Significan las organizaciones pesqueras…… que seguían pescando en esas aguas contaminadas?
+Mori Kaoru (talking),はい。,Yes.,Sí.
+Nakayama Akari (talking),でも、魚とか、変形して…… 躰の中にどんな毒を持っているか わからないのに……,"But you don't know what kind of poisons they have in their bodies, like fish or…… deformed…… bodies.","Pero no sabes qué tipo de venenos tienen en sus cuerpos, como los peces, que deforman y ……"
+Mori Kaoru (talking),見栄えのよさそうなものを、別の海域で 獲れたものと偽って、卸しています。,"They distribute the fish that look good, pretending that they are caught in other waters.",Los peces que parecen buenos se venden falsamente al por mayor como si hubieran sido capturados en otras aguas.
+Nakayama Akari (talking),それって……詐欺……,Is that a…… scam ……,Es una estafa…… ……
+Mori Kaoru (talking),そうですね。,"Yes, it is.",Sí.
+Nakayama Akari (talking),そっちも取り締まらないと――,"We need to crack down on that one, too--",Tenemos que tomar medidas contra eso también…
+Mori Kaoru (talking),"この程度の事、 別に見逃していてもよいかと。
 それと同様に、女の子海賊隊の事も 無視しても支障ありません。
 どうしても気になるという事でしたら、 地域管理組合に退治を要請すれば いいかと。","I think it's okay to overlook this.
 Similarly, you can ignore the girl pirate squad.
 If you are really concerned about it, you can request the local management association to exterminate them.","Creo que está bien ignorar esto.
 Del mismo modo, puedes ignorar al escuadrón de chicas piratas.
 Si realmente te molesta, puedes pedir a la asociación de gestión local que los extermine."
-"Nakayama Akari (talking)","そうねー……
+Nakayama Akari (talking),"そうねー……
 じゃあ、どっちでもいいけど、 気が向いたらよろしくーって事で 依頼しておいて。","Right - ……
 Well, either way, just ask him if he's interested.","Derecha - ……
 Bueno, de cualquier manera, sólo pregúntale si se siente capaz de hacerlo."
-"Mori Kaoru (talking)","わかりました。 では、適当な組合に依頼しておきます。
+Mori Kaoru (talking),"わかりました。 では、適当な組合に依頼しておきます。
 それでは市長、次の審議ですが――","Understood. Then I will ask the appropriate unions.
 And now, Mr. Mayor, the next item for discussion--","Entendido. Entonces preguntaré a los sindicatos correspondientes.
 Ahora, Sr. Alcalde, el siguiente punto a discutir es…"
-"Nakayama Akari (talking)","ふ……ああぁぁ…… まだ続くの……","Fu…… ah…… still going on……","Fu…… ah…… sigue en marcha……"
-"karasuba  tsuki (talking)","という訳でーやってきました電線軍団。","So - here they come - the electric wire corps.","Así que - aquí estamos - el Ejército del Cable Eléctrico."
-"Yamamoto Akuji (talking)","なんだそりゃ。","What's that?","¿Qué es eso?"
-"karasuba  tsuki (talking)","気にしないで下さい。 ギャグなんです、そーいう発言された 時点で殺されてんです、うふーん。","Don't worry about it. It's a gag, you're Satsu when you say something like that.","No te preocupes. Es un gag, cuando dices algo así, estás Satsued, hmmm."
-"Yamamoto Akuji (talking)","で、何の用だ？","So, what do you want?","Entonces, ¿qué quieres?"
-"karasuba  tsuki (talking)","市議会よりの命令 携えてやってきました。
+Nakayama Akari (talking),ふ……ああぁぁ…… まだ続くの……,Fu…… ah…… still going on……,Fu…… ah…… sigue en marcha……
+karasuba  tsuki (talking),という訳でーやってきました電線軍団。,So - here they come - the electric wire corps.,Así que - aquí estamos - el Ejército del Cable Eléctrico.
+Yamamoto Akuji (talking),なんだそりゃ。,What's that?,¿Qué es eso?
+karasuba  tsuki (talking),気にしないで下さい。 ギャグなんです、そーいう発言された 時点で殺されてんです、うふーん。,"Don't worry about it. It's a gag, you're Satsu when you say something like that.","No te preocupes. Es un gag, cuando dices algo así, estás Satsued, hmmm."
+Yamamoto Akuji (talking),で、何の用だ？,"So, what do you want?","Entonces, ¿qué quieres?"
+karasuba  tsuki (talking),"市議会よりの命令 携えてやってきました。
 パナジの女の子海賊隊を 退治して欲しいって。","I'm here with an order from the city council.
 They want me to exterminate the Panaji girl pirate squad.","He venido con una orden del ayuntamiento.
 Quieren que extermine a la brigada de piratas de Panaji."
-"Yamamoto Akuji (talking)","女の子海賊隊？","Girl pirate squad?","¿Escuadrón de chicas piratas?"
-"karasuba  tsuki (talking)","元海軍特攻隊の生き残りっちゅー 見かけよりずーっと強い娘っ子の 集団です。
+Yamamoto Akuji (talking),女の子海賊隊？,Girl pirate squad?,¿Escuadrón de chicas piratas?
+karasuba  tsuki (talking),"元海軍特攻隊の生き残りっちゅー 見かけよりずーっと強い娘っ子の 集団です。
 彼女らが集って、パナジを拠点に 海賊行為を行ってるんですよ。
 で、誰が呼び出したか、その集団を 女の子海賊隊。","They are a group of girls who are much stronger than they look.
 They gather together and pirate around Panaji.
 Whoever called the group “Girl Pirates.","Son un grupo de antiguas supervivientes de ataques suicidas de la Marina, chicas que son mucho más fuertes de lo que parecen.
 Se reúnen y piratean por Panaji.
 Y quien las haya convocado, se llaman las Chicas Piratas."
-"__system__??","{R支配[10] \ 1:","",""
-"Yamamoto Akuji (talking)","って言われてもよー…… パナジに向かうナンコウは、 俺のシマじゃねぇ。
+__system__??,{R支配[10] \ 1:,,
+Yamamoto Akuji (talking),"って言われてもよー…… パナジに向かうナンコウは、 俺のシマじゃねぇ。
 って事は、俺が出っ張るのは お門違いって事じゃねーか。","I've been told that…… the Nanko heading to Panaji is not my territory.
 That means I'm not the one who's supposed to be sticking out, am I?","Me han dicho que…… el Nankou hacia Panaji no es mi territorio.
 Eso significa que está mal que me asome, ¿no?"
-"karasuba  tsuki (talking)","……………
+karasuba  tsuki (talking),"……………
 あらら。","……………
 Oops.","Disponible en: ……………
 Uy."
-"Yamamoto Akuji (talking)","上に言っとけ。 その辺りちゃんと把握してから、 命令しろってさ。","Tell your superiors. Tell them to get a grip on the situation before giving orders.","Dígaselo a sus superiores. Diles que saquen la cabeza del culo y den la orden."
-"karasuba  tsuki (talking)","はーい。","Hai.","Hai."
-"__system__??","}","",""
-"__system__??","{R支配[10] = 1:","",""
-"Yamamoto Akuji (talking)","あんま、気乗りしねーなー。","I'm not too keen on it.","No me gusta mucho."
-"karasuba  tsuki (talking)","そんな事言わないでー。 お願いー悪司さーーーん。 でないとー役所でのー僕の立場がー。","Please don't say that. Please Akujisaaaan. If you don't, my position at the government office will be….","Por favor, no digas eso. Por favor, Akuji-san… Si no lo haces, mi posición en la oficina del gobierno será…"
-"Yamamoto Akuji (talking)","ああ、わかったわかった。 そんななつくな。
+Yamamoto Akuji (talking),上に言っとけ。 その辺りちゃんと把握してから、 命令しろってさ。,Tell your superiors. Tell them to get a grip on the situation before giving orders.,Dígaselo a sus superiores. Diles que saquen la cabeza del culo y den la orden.
+karasuba  tsuki (talking),はーい。,Hai.,Hai.
+__system__??,},,
+__system__??,{R支配[10] = 1:,,
+Yamamoto Akuji (talking),あんま、気乗りしねーなー。,I'm not too keen on it.,No me gusta mucho.
+karasuba  tsuki (talking),そんな事言わないでー。 お願いー悪司さーーーん。 でないとー役所でのー僕の立場がー。,"Please don't say that. Please Akujisaaaan. If you don't, my position at the government office will be….","Por favor, no digas eso. Por favor, Akuji-san… Si no lo haces, mi posición en la oficina del gobierno será…"
+Yamamoto Akuji (talking),"ああ、わかったわかった。 そんななつくな。
 ま、あんま期待すんな。 気が向いた時にでも済ませておくよ。","Oh, okay, okay. Don't get so attached.
 Well, don't get your hopes up. I'll get it done when I'm ready.","Sí, está bien, está bien. No te encariñes tanto.
 Bueno, no te hagas ilusiones. Lo haré cuando tenga ganas."
-"karasuba  tsuki (talking)","彼女達と接触するんだったら、 ナンコウに向かって下さい。 時々、姿を見かけるって話なんで。","If you want to contact them, please go to Nankow. I've heard that they are seen from time to time.","Si quieres hacer contacto con ellos, dirígete a Nankow. Me han dicho que a veces se ven."
-"Yamamoto Akuji (talking)","うーい。","Oui.","Oui."
-"__system__??","}","",""
-"Chinpira (talking)","悪司さん…あれじゃないですかね？","Akuji…isn't that it?","Akuji… ¿no es eso?"
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"narrator","悪司は部下が指さした方を見た。
+karasuba  tsuki (talking),彼女達と接触するんだったら、 ナンコウに向かって下さい。 時々、姿を見かけるって話なんで。,"If you want to contact them, please go to Nankow. I've heard that they are seen from time to time.","Si quieres hacer contacto con ellos, dirígete a Nankow. Me han dicho que a veces se ven."
+Yamamoto Akuji (talking),うーい。,Oui.,Oui.
+__system__??,},,
+Chinpira (talking),悪司さん…あれじゃないですかね？,Akuji…isn't that it?,Akuji… ¿no es eso?
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+narrator,"悪司は部下が指さした方を見た。
 そちらの方から、年格好の似た娘達が 団子のように固まって、嬌声をあげながら 歩いてくる。","Akuji looked in the direction his subordinate pointed.
 From that direction, a group of girls of similar ages were walking toward them, clustered together like a dumpling and shouting charmingly.","Akuji miró en la dirección que señalaba su subordinado.
 Desde esa dirección, un grupo de chicas de edad y complexión similares, agrupadas como una bola de masa, caminan hacia ellos, gritando encantadoramente."
-"Yamamoto Akuji (talking)","ちと、観察しとくか。","Let's take a look at it.","Hagamos una pequeña observación."
-"Chinpira (talking)","へい！","Hey!","¡Oye!"
-"onnanokokaizoku (talking)","きゃーもーー久しぶりの街ー！！","Kya-mooo long time no see town!!!!","Kya-mooo, ¡cuánto tiempo sin verte en la ciudad!"
-"onnanokokaizoku (talking)","月一回のお楽しみーー！！","Once a month!","Una vez al mes."
-"onnanokokaizoku (talking)","あたし、おまんじゅう食べるーー！！","I'm going to eat a manjuu!","¡Tendré un manjuu!"
-"onnanokokaizoku (talking)","あたし、あんみつー！！","I'm Anmitsu!","¡Soy Anmitsu!"
-"onnanokokaizoku (talking)","あん、カツ丼はー？","An, where's the katsudon?","Y, ¿dónde está el katsudon?"
-"onnanokokaizoku (talking)","あ、食べる食べる！ 後さ、おそばも新鮮なのが 食べたいー！","Oh, I want some! And I want some fresh soba too!","¡Oh, quiero un poco! ¡Y yo también quiero soba fresca!"
-"onnanokokaizoku (talking)","それとそれと、本とかー。 お洋服とかさー！","And, and books. And clothes!","Y además, los libros… ¡Y la ropa!"
-"onnanokokaizoku (talking)","あ、お洋服で思い出した。 あたし、了君のパンツ買ってくー☆","Oh, I just remembered something about clothes. I'm going to buy your pants, Ryou.☆","Oh, ahora lo recuerdo, con tu ropa. Voy a comprar tus pantalones, Ryou.☆"
-"onnanokokaizoku (talking)","あ、ずっるーい！ じゃああたし、トランクス！ ピンクとかが似合いそー☆☆","Oh, that's too slippery! I'll wear trunks then! I think I'd look good in pink or something.☆☆","¡Oh, eso es tan resbaladizo! ¡Entonces me pondré botas! Creo que me quedaría bien el rosa o algo así.☆☆"
-"onnanokokaizoku (talking)","じゃああたし、ビキニパンツ！！ 紫とかー。","I'll go for the bikini shorts! Or purple.","¡Entonces voy a por los pantalones de bikini! O púrpura."
-"onnanokokaizoku (talking)","何それ、趣味ワルー。 だったらあたし、グンゼパンツにするー！","What a bad taste! If that's the case, I'll wear Gunze pants!","Qué es eso, no me gusta. Si ese es el caso, ¡llevaré pantalones Gunze!"
-"onnanokokaizoku (talking)","そっちの方がサイアクー☆","That's more like it.☆","Eso es más bien.☆"
-"onnanokokaizoku (talking)","ホントー。","Really.","Honto."
-"onnanokokaizoku (talking)","そ、そんな事ないわよ！ いいもん、了君だったら、 なんでも似合うんだからー！！","Oh, no, you don't! It doesn't matter, Ryou, you look good in everything!","¡Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no! Está bien, ¡te queda bien todo!"
-"onnanokokaizoku (talking)","あん、もー、走らないでよー！","Oh, no, don't run!","An, moo, ¡no corras!"
-"onnanokokaizoku (talking)","きゃーーー☆☆☆☆","Kyaaa☆☆☆☆","Kyaa ☆☆☆☆"
-"narrator","７、８人の娘達は脳天に突き刺さるような 大声で喋りながら、悪司達の前を通り過ぎた。","Seven or eight girls passed by Akuji and the others, talking loudly, as if they were stabbing themselves in the brain.","Siete u ocho chicas pasaron junto a Akuji y los demás, hablando en voz alta, como si se estuvieran apuñalando los sesos."
-"Yamamoto Akuji (talking)","………………","………………","………………"
-"Chinpira (talking)","ひえー……スンゲー声でしたねー。 それとなんですかねー、あのパワー……","Wow, ……, he's got a great voice and Tane-. And what's with that power……","Hee……sungeki voz y Tane-. ¿Y qué pasa con ese poder……"
-"Yamamoto Akuji (talking)","声を聞いてるだけで、こっちの生気、 吸い取られそうだったな……
+Yamamoto Akuji (talking),ちと、観察しとくか。,Let's take a look at it.,Hagamos una pequeña observación.
+Chinpira (talking),へい！,Hey!,¡Oye!
+onnanokokaizoku (talking),きゃーもーー久しぶりの街ー！！,Kya-mooo long time no see town!!!!,"Kya-mooo, ¡cuánto tiempo sin verte en la ciudad!"
+onnanokokaizoku (talking),月一回のお楽しみーー！！,Once a month!,Una vez al mes.
+onnanokokaizoku (talking),あたし、おまんじゅう食べるーー！！,I'm going to eat a manjuu!,¡Tendré un manjuu!
+onnanokokaizoku (talking),あたし、あんみつー！！,I'm Anmitsu!,¡Soy Anmitsu!
+onnanokokaizoku (talking),あん、カツ丼はー？,"An, where's the katsudon?","Y, ¿dónde está el katsudon?"
+onnanokokaizoku (talking),あ、食べる食べる！ 後さ、おそばも新鮮なのが 食べたいー！,"Oh, I want some! And I want some fresh soba too!","¡Oh, quiero un poco! ¡Y yo también quiero soba fresca!"
+onnanokokaizoku (talking),それとそれと、本とかー。 お洋服とかさー！,"And, and books. And clothes!","Y además, los libros… ¡Y la ropa!"
+onnanokokaizoku (talking),あ、お洋服で思い出した。 あたし、了君のパンツ買ってくー☆,"Oh, I just remembered something about clothes. I'm going to buy your pants, Ryou.☆","Oh, ahora lo recuerdo, con tu ropa. Voy a comprar tus pantalones, Ryou.☆"
+onnanokokaizoku (talking),あ、ずっるーい！ じゃああたし、トランクス！ ピンクとかが似合いそー☆☆,"Oh, that's too slippery! I'll wear trunks then! I think I'd look good in pink or something.☆☆","¡Oh, eso es tan resbaladizo! ¡Entonces me pondré botas! Creo que me quedaría bien el rosa o algo así.☆☆"
+onnanokokaizoku (talking),じゃああたし、ビキニパンツ！！ 紫とかー。,I'll go for the bikini shorts! Or purple.,¡Entonces voy a por los pantalones de bikini! O púrpura.
+onnanokokaizoku (talking),何それ、趣味ワルー。 だったらあたし、グンゼパンツにするー！,"What a bad taste! If that's the case, I'll wear Gunze pants!","Qué es eso, no me gusta. Si ese es el caso, ¡llevaré pantalones Gunze!"
+onnanokokaizoku (talking),そっちの方がサイアクー☆,That's more like it.☆,Eso es más bien.☆
+onnanokokaizoku (talking),ホントー。,Really.,Honto.
+onnanokokaizoku (talking),そ、そんな事ないわよ！ いいもん、了君だったら、 なんでも似合うんだからー！！,"Oh, no, you don't! It doesn't matter, Ryou, you look good in everything!","¡Oh, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no! Está bien, ¡te queda bien todo!"
+onnanokokaizoku (talking),あん、もー、走らないでよー！,"Oh, no, don't run!","An, moo, ¡no corras!"
+onnanokokaizoku (talking),きゃーーー☆☆☆☆,Kyaaa☆☆☆☆,Kyaa ☆☆☆☆
+narrator,７、８人の娘達は脳天に突き刺さるような 大声で喋りながら、悪司達の前を通り過ぎた。,"Seven or eight girls passed by Akuji and the others, talking loudly, as if they were stabbing themselves in the brain.","Siete u ocho chicas pasaron junto a Akuji y los demás, hablando en voz alta, como si se estuvieran apuñalando los sesos."
+Yamamoto Akuji (talking),………………,………………,………………
+Chinpira (talking),ひえー……スンゲー声でしたねー。 それとなんですかねー、あのパワー……,"Wow, ……, he's got a great voice and Tane-. And what's with that power……",Hee……sungeki voz y Tane-. ¿Y qué pasa con ese poder……
+Yamamoto Akuji (talking),"声を聞いてるだけで、こっちの生気、 吸い取られそうだったな……
  …………~~……
 うあ~……なんか頭痛くなってきた… 帰るべ。","Just hearing your voice was sucking the life out of me……
  …………~~~……
 Ugh~…… I'm getting a headache… I should go home.","Sólo escuchar tu voz me estaba chupando la vida……
  …………~~~……
 Ugh~…… Me está doliendo la cabeza… Debería ir a casa."
-"Chinpira (talking)","ウ、ウッス。","Ugh, ugh.","Ugh, ugh."
-"narrator","悪司がそこで佇んでいると、向こうから 団子のように固まった女の子の集団が やってきた。","While Akuji was standing there, a group of girls came from the other side of the room.","Mientras Akuji estaba allí, un grupo de chicas llegó desde el otro lado de la habitación."
-"Yamamoto Akuji (thinking)","あのマシンガントークの中に 突っ込まなくちゃいけねぇのか… 特攻気分だな……","I feel like I'm on a suicide mission… having to crash into that machine gun talk……","Es como una misión suicida……"
-"Yamamoto Akuji (talking)","ういーす。","Uuisu.","Uuis."
-"onnanokokaizoku (talking)","何よ、あんた。
+Chinpira (talking),ウ、ウッス。,"Ugh, ugh.","Ugh, ugh."
+narrator,悪司がそこで佇んでいると、向こうから 団子のように固まった女の子の集団が やってきた。,"While Akuji was standing there, a group of girls came from the other side of the room.","Mientras Akuji estaba allí, un grupo de chicas llegó desde el otro lado de la habitación."
+Yamamoto Akuji (thinking),あのマシンガントークの中に 突っ込まなくちゃいけねぇのか… 特攻気分だな……,I feel like I'm on a suicide mission… having to crash into that machine gun talk……,Es como una misión suicida……
+Yamamoto Akuji (talking),ういーす。,Uuisu.,Uuis.
+onnanokokaizoku (talking),"何よ、あんた。
 ナンパならお断りだよ。
 おごってくれるんだったら、 ついてってあげてもいいけどー。
 でもその後、どーなっても 知らないわよー。","What's the matter with you?
@@ -829,20 +829,20 @@ But I don't care what happens afterwards.","Qué, tú.
 No quiero que me recojan.
 Si me invitas a una copa, iré contigo.
 Pero no me importa lo que pase después."
-"Tenkai Umine (talking)","待ちなさい。 この男、あたし知ってるわ。","Wait a minute. I know this guy.","Espera. Conozco a este hombre."
-"Yamamoto Akuji (talking)","……ん……","…… and ……","…… y ……"
-"Tenkai Umine (talking)","あんた、山本悪司ね。 奉仕青年団のリーダーの。","You must be Yamamoto Akuji. The leader of the Youth Service Corps.","Tú debes ser Yamamoto Akuji. Líder de una organización juvenil de servicio."
-"Yamamoto Akuji (talking)","よくご存じで。","You know it well.","Bien informado."
-"Tenkai Umine (talking)","で、何の用？ この子達の言う通り、ナンパだったら 超お断り。
+Tenkai Umine (talking),待ちなさい。 この男、あたし知ってるわ。,Wait a minute. I know this guy.,Espera. Conozco a este hombre.
+Yamamoto Akuji (talking),……ん……,…… and ……,…… y ……
+Tenkai Umine (talking),あんた、山本悪司ね。 奉仕青年団のリーダーの。,You must be Yamamoto Akuji. The leader of the Youth Service Corps.,Tú debes ser Yamamoto Akuji. Líder de una organización juvenil de servicio.
+Yamamoto Akuji (talking),よくご存じで。,You know it well.,Bien informado.
+Tenkai Umine (talking),"で、何の用？ この子達の言う通り、ナンパだったら 超お断り。
  ＜たんたまご＞ オコトワリー！","So, what do you want? If these girls are right and it's a pick-up, I'm super reluctant.
  ＜Okotowari!","Entonces, ¿qué quieres? Si estas chicas tienen razón y es un ligue, soy súper reacio.
  <¡Okotowari!"
-"Yamamoto Akuji (talking)","あんたらまとめて、俺の部下になんねー？","Why don't you all work for me?","¿Por qué no se juntan y trabajan para mí?"
-"Tenkai Umine (talking)","は？","Huh?","¿Ja?"
-"Yamamoto Akuji (talking)","あんたら強いんだってな。 だから、その力欲しいんだ。","I heard you guys are strong. That's why I want that power.","He oído que son fuertes. Por eso quiero ese poder."
-"Tenkai Umine (talking)","そんで、大人の汚い利権に利用すると。","And then they use it for the dirty interests of adults.","Y luego lo utilizan para los intereses sucios de los adultos."
-"Yamamoto Akuji (talking)","んー…… まぁね。","Hmmm……… Well, yeah.","Hmmm…… Bueno."
-"Tenkai Umine (talking)","お断りだよ。 あたしらは、大人の力は借りず、 自立してんだ。
+Yamamoto Akuji (talking),あんたらまとめて、俺の部下になんねー？,Why don't you all work for me?,¿Por qué no se juntan y trabajan para mí?
+Tenkai Umine (talking),は？,Huh?,¿Ja?
+Yamamoto Akuji (talking),あんたら強いんだってな。 だから、その力欲しいんだ。,I heard you guys are strong. That's why I want that power.,He oído que son fuertes. Por eso quiero ese poder.
+Tenkai Umine (talking),そんで、大人の汚い利権に利用すると。,And then they use it for the dirty interests of adults.,Y luego lo utilizan para los intereses sucios de los adultos.
+Yamamoto Akuji (talking),んー…… まぁね。,"Hmmm……… Well, yeah.",Hmmm…… Bueno.
+Tenkai Umine (talking),"お断りだよ。 あたしらは、大人の力は借りず、 自立してんだ。
 あたしらは、大人の利用価値の為だけの 存在でいる事は、もう絶対ない。
 あたしらは誇り高い女の子海賊隊だよ。 相手が誰であろうと、屈しない。 自由の下で生きてるんだ。
  ＜たんたまご＞ ソーダ　ソーダ！","No, thank you. We are independent, without the help of adults.
@@ -852,196 +852,196 @@ We are proud girl pirates. We don't give in to anyone, no matter who they are. W
 No volveremos a existir sólo para el uso y el valor de los adultos.
 Somos unas orgullosas chicas piratas. No cedemos ante nadie, sea quien sea. Vivimos en libertad.
  ¡＜Soda, soda, soda!"
-"Yamamoto Akuji (talking)","かっくいー。","It's cool!","Genial."
-"Tenkai Umine (talking)","そりゃどーも。 もし、腕ずくでも言う事、聞かせたいん だったら、攻めてきていいよ。
+Yamamoto Akuji (talking),かっくいー。,It's cool!,Genial.
+Tenkai Umine (talking),"そりゃどーも。 もし、腕ずくでも言う事、聞かせたいん だったら、攻めてきていいよ。
 どうなるか、わかんないけどね。
 さあ、みんな、行くよ。","That's no problem. If you want to make me listen to you by force of arms, you can go ahead and attack me.
 I don't know what will happen.
 Come on, guys, let's go.","Eso no es un problema. Si quieres hacer que te escuche por la fuerza de las armas, puedes seguir adelante y atacarme.
 No sé qué pasará.
 Venga, chicos, vamos."
-"onnanokokaizoku (talking)","イエスサー！","Yes Sir!","¡Sí, señor!"
-"narrator","娘達はさっさと悪司の前から立ち去った。","The girls quickly walked away from Akuji.","Las chicas salieron rápidamente de Akuji."
-"Chinpira (talking)","ど、どうしやす？","What do you want?","¿Qué quieres?"
-"Yamamoto Akuji (talking)","しゃーねぇなぁ……
+onnanokokaizoku (talking),イエスサー！,Yes Sir!,"¡Sí, señor!"
+narrator,娘達はさっさと悪司の前から立ち去った。,The girls quickly walked away from Akuji.,Las chicas salieron rápidamente de Akuji.
+Chinpira (talking),ど、どうしやす？,What do you want?,¿Qué quieres?
+Yamamoto Akuji (talking),"しゃーねぇなぁ……
 あそこまできっちし招待されたん だったら、お誘いは受けねぇと、 男の恥ってなモンだ。","What the hell… ……
 If you've been invited to a party, you should accept the invitation, it's a shame for a man.","Qué demonios……
 Si te han invitado a una fiesta, tienes que aceptar la invitación, es una vergüenza para un hombre."
-"narrator","　　パナジへ侵攻可能になりました。","It is now possible to invade Panaji.","Ahora es posible invadir Panaji."
-"narrator","そこで、海音と了がお茶を飲んでいた。","There, Umine and Ryou were drinking tea.","Allí, Umine y Ryou estaban tomando té."
-"Matsumoto Ryou (talking)","海音さん、おかわりは？","Umine, would you like a refill?","Umine, ¿quieres una recarga?"
-"Tenkai Umine (talking)","ん、ちょーだい。
+narrator,　　パナジへ侵攻可能になりました。,It is now possible to invade Panaji.,Ahora es posible invadir Panaji.
+narrator,そこで、海音と了がお茶を飲んでいた。,"There, Umine and Ryou were drinking tea.","Allí, Umine y Ryou estaban tomando té."
+Matsumoto Ryou (talking),海音さん、おかわりは？,"Umine, would you like a refill?","Umine, ¿quieres una recarga?"
+Tenkai Umine (talking),"ん、ちょーだい。
 了君の淹れてくれたお茶って、 ホント美味しい。","Oh, please.
 The tea made by Ryou is really delicious.","Mmm, por favor.
 El té que preparas es realmente delicioso."
-"Matsumoto Ryou (talking)","…………","…………","…………"
-"narrator","にっこり笑った海音の頭を撫でる了。","Ryou pats the head of Umine who smiles at him.","Ryou acaricia la cabeza de Umine con una sonrisa."
-"Tenkai Umine (talking)","いつもそーやって撫でてくれるね。","You always pet me like that.","Siempre me acaricias así."
-"Matsumoto Ryou (talking)","うん……こうされるの、好きでしょう？","Yeah…… You like it when people do this to you, don't you?","Sí…… Te gusta cuando hacen esto, ¿no?"
-"Tenkai Umine (talking)","うん。
+Matsumoto Ryou (talking),…………,…………,…………
+narrator,にっこり笑った海音の頭を撫でる了。,Ryou pats the head of Umine who smiles at him.,Ryou acaricia la cabeza de Umine con una sonrisa.
+Tenkai Umine (talking),いつもそーやって撫でてくれるね。,You always pet me like that.,Siempre me acaricias así.
+Matsumoto Ryou (talking),うん……こうされるの、好きでしょう？,"Yeah…… You like it when people do this to you, don't you?","Sí…… Te gusta cuando hacen esto, ¿no?"
+Tenkai Umine (talking),"うん。
 あっ、あち！
  ＜たんたまご＞ タイヘンダー！","Oh, ah!
 Ah, achi!
  ＜Oh, there it is!","Mm.
  ¡Ah, achi!
  ¡＜Oh, ahí está!"
-"Matsumoto Ryou (talking)","どうしたの！？","What's wrong with you!","¿Qué te pasa?"
-"Tenkai Umine (talking)","んひ~舌、ヤケドしちゃっら~~。","Nhi~ my tongue, I got burned!","Nhi~ mi lengua, estoy quemado~."
-"Matsumoto Ryou (talking)","ご、ごめんね。 そんな熱かったなんて……","Sorry, I'm sorry. I didn't realize it was that hot……","Dios, lo siento. No sabía que hiciera tanto calor……"
-"narrator","了の手が、海音の頬にかかる。","Ryou's hand rests on Umine's cheek.","La mano de Ryou se apoya en la mejilla de Umine."
-"Tenkai Umine (talking)","……………","……………","……………"
-"Matsumoto Ryou (talking)","……っ……ぁ……","…………aa……","…………aa……"
-"Tenkai Umine (talking)","了……君？","Ryou…… you?","¿Recibirás un mensaje?"
-"Matsumoto Ryou (talking)","海音さん…… 僕…その……"," COPYUmine…… I…that ……","…… Sr. Umine…… Yo… que ……"
-"onnanokokaizoku (talking)","大変です、サー海音！","Oh my God, SirUmine!","¡Dios mío, señor Umine!"
-"narrator","その時、部下の一人が駆け込んできた。","At that moment, one of his subordinates rushed in.","En ese momento, uno de sus hombres entró corriendo."
-"Tenkai Umine (talking)","どうしたの？","What's wrong?","¿Qué pasa?"
-"onnanokokaizoku (talking)","奉仕青年団と思われる奴らが 島に上陸してきました！！","What appears to be a service youth group has landed on the island!","¡Lo que parece ser un grupo de jóvenes de servicio ha aterrizado en la isla!"
-"Tenkai Umine (talking)","あのおっさん、ホントにきたって事か。 わかったわ。 徹底交戦だよ。
+Matsumoto Ryou (talking),どうしたの！？,What's wrong with you!,¿Qué te pasa?
+Tenkai Umine (talking),んひ~舌、ヤケドしちゃっら~~。,"Nhi~ my tongue, I got burned!","Nhi~ mi lengua, estoy quemado~."
+Matsumoto Ryou (talking),ご、ごめんね。 そんな熱かったなんて……,"Sorry, I'm sorry. I didn't realize it was that hot……","Dios, lo siento. No sabía que hiciera tanto calor……"
+narrator,了の手が、海音の頬にかかる。,Ryou's hand rests on Umine's cheek.,La mano de Ryou se apoya en la mejilla de Umine.
+Tenkai Umine (talking),……………,……………,……………
+Matsumoto Ryou (talking),……っ……ぁ……,…………aa……,…………aa……
+Tenkai Umine (talking),了……君？,Ryou…… you?,¿Recibirás un mensaje?
+Matsumoto Ryou (talking),海音さん…… 僕…その……, COPYUmine…… I…that ……,…… Sr. Umine…… Yo… que ……
+onnanokokaizoku (talking),大変です、サー海音！,"Oh my God, SirUmine!","¡Dios mío, señor Umine!"
+narrator,その時、部下の一人が駆け込んできた。,"At that moment, one of his subordinates rushed in.","En ese momento, uno de sus hombres entró corriendo."
+Tenkai Umine (talking),どうしたの？,What's wrong?,¿Qué pasa?
+onnanokokaizoku (talking),奉仕青年団と思われる奴らが 島に上陸してきました！！,What appears to be a service youth group has landed on the island!,¡Lo que parece ser un grupo de jóvenes de servicio ha aterrizado en la isla!
+Tenkai Umine (talking),"あのおっさん、ホントにきたって事か。 わかったわ。 徹底交戦だよ。
 あたしらをタダの小娘と思ってると、 あの時のクズ軍人達のように泣きを みるってのにね……
  ＜たんたまご＞ ミナゴロシー！","So the old man really came. I get it. We're going to engage him full on.
 If you think we're just little girls, you'll end up crying like those scum soldiers did back then……
  ＜Minagoroshi!","Ese viejo, quieres decir que realmente vino. Vale, lo entiendo. Compromiso minucioso.
 Si crees que sólo somos niñas, acabarás como esos soldados de mierda……
  ¡＜Minagorossi!"
-"onnanokokaizoku (talking)","では今回は、手加減ナシですね！？","So, this time, we're going easy on you!","Así que esta vez, ¡no te pases con nosotros!"
-"Tenkai Umine (talking)","うん、本気モード発動だよ！","Yeah, I'm in serious mode!","Sí, ¡estoy activando el modo serio!"
-"onnanokokaizoku (talking)","イエスサー！！","Yes Sir!","¡¡¡SÍ SEÑOR!!!"
-"Matsumoto Ryou (talking)","海音さん……","Ms. Umine ……","Sra. Umine ……"
-"Tenkai Umine (talking)","了君はここでじっとしてて。 すぐ戻ってくるから。","Ryou you stay here. I'll be right back.","Ryou te quedas aquí. Vuelvo enseguida."
-"Matsumoto Ryou (talking)","……………","……………","……………"
-"Tenkai Umine (talking)","そんな顔しないで。","Don't look at me like that.","No me mires así."
-"Matsumoto Ryou (talking)","……気を…つけて…","…… Watch… out… for…","…… Cuidado… con…"
-"Tenkai Umine (talking)","うん！
+onnanokokaizoku (talking),では今回は、手加減ナシですね！？,"So, this time, we're going easy on you!","Así que esta vez, ¡no te pases con nosotros!"
+Tenkai Umine (talking),うん、本気モード発動だよ！,"Yeah, I'm in serious mode!","Sí, ¡estoy activando el modo serio!"
+onnanokokaizoku (talking),イエスサー！！,Yes Sir!,¡¡¡SÍ SEÑOR!!!
+Matsumoto Ryou (talking),海音さん……,Ms. Umine ……,Sra. Umine ……
+Tenkai Umine (talking),了君はここでじっとしてて。 すぐ戻ってくるから。,Ryou you stay here. I'll be right back.,Ryou te quedas aquí. Vuelvo enseguida.
+Matsumoto Ryou (talking),……………,……………,……………
+Tenkai Umine (talking),そんな顔しないで。,Don't look at me like that.,No me mires así.
+Matsumoto Ryou (talking),……気を…つけて…,…… Watch… out… for…,…… Cuidado… con…
+Tenkai Umine (talking),"うん！
  ＜たんたまご＞ イエー！","Yeah!
  ＜Yay!","¡Sí!
  ¡＜Sí!"
-"Matsumoto Ryou (talking)","……………","……………","……………"
-"narrator","そわそわと落ち着かない様子で、 了が一人、部屋にいる。
+Matsumoto Ryou (talking),……………,……………,……………
+narrator,"そわそわと落ち着かない様子で、 了が一人、部屋にいる。
  　　［ガタン……］","Fidgeting and looking restless, Ryou is alone in the room.
  　　[Gatan ……]","Inquieta y con aspecto inquieto, Ryou está sola en la habitación.
  　　[Gatan ……]"
-"Matsumoto Ryou (talking)","！？","！？","！？"
-"Tenkai Umine (talking)","……はあ……はあ……
+Matsumoto Ryou (talking),！？,！？,！？
+Tenkai Umine (talking),"……はあ……はあ……
  ＜たんたまご＞ シッカリ　シッカリ！","…… ha…… ha ……
  <Tan egg> Shikkari, shikkari, shikkari!","…… es un…… es un…… es un…… es un ……
  <Huevo de color> ¡Shikkari, shikkari!"
-"Matsumoto Ryou (talking)","海音さん！？","Umine!","¡Un poco de miedo!"
-"Tenkai Umine (talking)","はーい…","Yes…","Hai…"
-"Matsumoto Ryou (talking)","………苦戦してるんですか…","Are you struggling with …………","……… ¿Estás luchando…"
-"Tenkai Umine (talking)","……まーねー……
+Matsumoto Ryou (talking),海音さん！？,Umine!,¡Un poco de miedo!
+Tenkai Umine (talking),はーい…,Yes…,Hai…
+Matsumoto Ryou (talking),………苦戦してるんですか…,Are you struggling with …………,……… ¿Estás luchando…
+Tenkai Umine (talking),"……まーねー……
 まいったなぁ……大人の軍人にも 負けなかったあたしらが、地域管理組合 程度におされちゃっててさー……","……We've got to get over it……
 Oh dear……… we who couldn't even defeat a grown-up military man have been reduced to the level of a local management association… ……","…… Lo hemos conseguido……
 Oh querido……… nosotros que no pudimos ni siquiera derrotar a los soldados adultos hemos sido reducidos al nivel de una asociación de gestión local… ……"
-"Matsumoto Ryou (talking)","僕も行きます。","I'm going too.","Yo también voy."
-"Tenkai Umine (talking)","……無理だよ…… あたし達でこんだけ苦戦してんだから、 了君なんて……
+Matsumoto Ryou (talking),僕も行きます。,I'm going too.,Yo también voy.
+Tenkai Umine (talking),"……無理だよ…… あたし達でこんだけ苦戦してんだから、 了君なんて……
  ＜たんたまご＞ ムリ　ムリー！","You can't…… do it…… If we're having such a hard time, how can Ryou…… do it?
  ＜No way, no way, no way!","No puedes…… hacerlo…… Si nos cuesta tanto, ¿cómo puedes Ryou…… hacerlo?
  ¡＜No, no puedes!"
-"Matsumoto Ryou (talking)","……そっ…そうだ…ね……","……So… yeah… you know… ……","…… Así que… sí… ya sabes… ……"
-"Tenkai Umine (talking)","……了君… 今までありがと……","……Ryou you… thanks for everything ……","……Ryou tú… gracias por todo ……"
-"Matsumoto Ryou (talking)","えっ！？","What?","¿Qué?"
-"Tenkai Umine (talking)","君は……あたしらに囚われていた人…… そのあたしらにつき合う必要ないん だから…","You're the one who was trapped by…… us, and you don't have to deal with us, so…","Tú eres el que estaba atrapado por…… nosotros, y no tienes que lidiar con nosotros, así que…"
-"narrator","海音は部屋の床の取っ手を引いた。 その下に階段が続いている。","Umine pulled a handle on the floor of the room. A staircase led under it.","Umine tiró de una palanca en el suelo de la habitación. Una escalera conduce bajo ella."
-"Tenkai Umine (talking)","ここ、緊急脱出用ボートのある場所に 続いてるの。 了君、ここから……","This leads to an emergency escape boat. Ryou, you can start here: ……","Esto lleva a un bote de escape de emergencia. Ryou tú, desde aquí: ……"
-"Matsumoto Ryou (talking)","いやだ。","No, I don't want to.","No."
-"Tenkai Umine (talking)","了君？","Ryou you?","¿Gustas?"
-"Matsumoto Ryou (talking)","確かに、ここにきたのは 僕の意志じゃない…でも……
+Matsumoto Ryou (talking),……そっ…そうだ…ね……,……So… yeah… you know… ……,…… Así que… sí… ya sabes… ……
+Tenkai Umine (talking),……了君… 今までありがと……,……Ryou you… thanks for everything ……,……Ryou tú… gracias por todo ……
+Matsumoto Ryou (talking),えっ！？,What?,¿Qué?
+Tenkai Umine (talking),君は……あたしらに囚われていた人…… そのあたしらにつき合う必要ないん だから…,"You're the one who was trapped by…… us, and you don't have to deal with us, so…","Tú eres el que estaba atrapado por…… nosotros, y no tienes que lidiar con nosotros, así que…"
+narrator,海音は部屋の床の取っ手を引いた。 その下に階段が続いている。,Umine pulled a handle on the floor of the room. A staircase led under it.,Umine tiró de una palanca en el suelo de la habitación. Una escalera conduce bajo ella.
+Tenkai Umine (talking),ここ、緊急脱出用ボートのある場所に 続いてるの。 了君、ここから……,"This leads to an emergency escape boat. Ryou, you can start here: ……","Esto lleva a un bote de escape de emergencia. Ryou tú, desde aquí: ……"
+Matsumoto Ryou (talking),いやだ。,"No, I don't want to.",No.
+Tenkai Umine (talking),了君？,Ryou you?,¿Gustas?
+Matsumoto Ryou (talking),"確かに、ここにきたのは 僕の意志じゃない…でも……
 でも、ここに居続けたのは、僕の意志だ。 君達が怖くて…じゃない。","Sure, it wasn't my intention to come here… but ……
 But it was my choice to stay here. Not because I'm afraid of you guys.","Claro, no era mi voluntad estar aquí… pero ……
 Pero fue mi voluntad la que me mantuvo aquí. No porque te tenga miedo…"
-"Tenkai Umine (talking)","そりゃ…あんたがいてくれて、 あたしら、前以上に結束結べて、 すんごく助かったよ。
+Tenkai Umine (talking),"そりゃ…あんたがいてくれて、 あたしら、前以上に結束結べて、 すんごく助かったよ。
 でも、了君… 結局、オモチャにされてたじゃない。 それって、不幸じゃない。","Well… with you being here, we were able to unite even more than before, and you helped us a lot.
 But, Mr. Ryou… in the end, you were used as a plaything. That's not so bad.","Bueno… al estar tú aquí, pudimos unirnos aún más que antes, y fuiste de gran ayuda.
 Pero, Sr. Ryou… al final, fuiste utilizado como un juguete. Eso no es desafortunado."
-"Matsumoto Ryou (talking)","それでも、君のそばにいたかったんだ。","Still, I wanted to be there for you.","Aun así, quería estar ahí para ti."
-"Tenkai Umine (talking)","っ……え…？","I've been working with ………?","………?"
-"Matsumoto Ryou (talking)","僕はずっと、君が…… 海音さんが好きだった。 だから、ここにいたんだ。","I always liked you…… Umine. That's why I was here.","Siempre me has gustado…… Umine. Por eso estaba aquí."
-"Tenkai Umine (talking)","…………っ………","………… and ………","………… y ………"
-"Matsumoto Ryou (talking)","逃げなかったのは…… ここにいる人達を拒まなかったのは、 境遇を聞いたのがきっかけだったけど…
+Matsumoto Ryou (talking),それでも、君のそばにいたかったんだ。,"Still, I wanted to be there for you.","Aun así, quería estar ahí para ti."
+Tenkai Umine (talking),っ……え…？,I've been working with ………?,………?
+Matsumoto Ryou (talking),僕はずっと、君が…… 海音さんが好きだった。 だから、ここにいたんだ。,I always liked you…… Umine. That's why I was here.,Siempre me has gustado…… Umine. Por eso estaba aquí.
+Tenkai Umine (talking),…………っ………,………… and ………,………… y ………
+Matsumoto Ryou (talking),"逃げなかったのは…… ここにいる人達を拒まなかったのは、 境遇を聞いたのがきっかけだったけど…
 それ以上に僕をここに縛りつけたのは、 海音さんの存在だったんだ。
 僕は君が好きだ。","What kept me from running away was…… What kept me from rejecting the people here was hearing about their circumstances, but…
 But more than that, it was Umine that bound me here.
 I like you.","No he huido de…… No he rechazado a la gente de aquí porque me hayan preguntado por mis circunstancias, pero…
 Pero más que eso, fue Umine lo que me ató aquí.
 Me gustas."
-"Tenkai Umine (talking)","……だったら、なおさらだよ…… ここから逃げてよ……","If it's ……, even better…… Get out of here……","Más aún si se trata de…… Salir de aquí ……"
-"Matsumoto Ryou (talking)","……海音さん…？","……Umine…?","……Umine…"
-"Tenkai Umine (talking)","そんな事…言ってくれる人…… あたしに出来るなんて思ってなかった…
+Tenkai Umine (talking),……だったら、なおさらだよ…… ここから逃げてよ……,"If it's ……, even better…… Get out of here……",Más aún si se trata de…… Salir de aquí ……
+Matsumoto Ryou (talking),……海音さん…？,……Umine…?,……Umine…
+Tenkai Umine (talking),"そんな事…言ってくれる人…… あたしに出来るなんて思ってなかった…
 嬉しいけど…今は困るの。 絶対、生き延びて欲しいから、 ここから逃げて。","I didn't think I could do it…
 I'm glad you did, but I can't do this right now. I need you to get out of here. I need you to survive.","No creí que fuera capaz de… alguien que dijera tal cosa… ……
 Me alegro de que lo hicieras, pero… ahora no puedo. Quiero que sobrevivas, quiero que salgas de aquí."
-"Matsumoto Ryou (talking)","いやだ。 僕だって、君が死んでしまうなんて、 耐えられない。","No. I can't stand the thought of you dying, either.","No puedo. Tampoco puedo soportar la idea de que mueras."
-"Tenkai Umine (talking)","う……
+Matsumoto Ryou (talking),いやだ。 僕だって、君が死んでしまうなんて、 耐えられない。,"No. I can't stand the thought of you dying, either.",No puedo. Tampoco puedo soportar la idea de que mueras.
+Tenkai Umine (talking),"う……
  ＜たんたまご＞ ナカシタ　ナカシタ。","U……
  <Tan Tamago> Nakashita Nakashita.","U……
  <Nakashita Nakashita."
-"Matsumoto Ryou (talking)","逃げるなら、一緒に逃げよう。","If you want to run away, let's run away together.","Si huyes, lo haremos juntos."
-"Tenkai Umine (talking)","……だったら… 勝たなくちゃ……","If it's……… I have to win ……","Si……… tenemos que ganar……"
-"Matsumoto Ryou (talking)","……うん……","……うん ……","……うん ……"
-"Tenkai Umine (talking)","了君……ここで待ってて… あたしら…絶対、勝ってくるから……","Ryou you…… wait here… we'll… we'll… we'll… we'll… we'll… we'll… we'll… we'll… we'll win……","Ryou you…… wait here… we'll… we'll win……"
-"Matsumoto Ryou (talking)","うん……","Yeah ……","Sí……"
-"Tenkai Umine (talking)","また…一緒に海賊やろう…","Let's play pirates again… together…","Vamos a… jugar a los piratas juntos… otra vez…"
-"Matsumoto Ryou (talking)","うん……","Yeah ……","Sí……"
-"Yamamoto Akuji (talking)","さーて、もうひと頑張りだ。 さっきの戦闘で、まともに戦える奴は 残ってない可能性の方が高い。
+Matsumoto Ryou (talking),逃げるなら、一緒に逃げよう。,"If you want to run away, let's run away together.","Si huyes, lo haremos juntos."
+Tenkai Umine (talking),……だったら… 勝たなくちゃ……,If it's……… I have to win ……,Si……… tenemos que ganar……
+Matsumoto Ryou (talking),……うん……,……うん ……,……うん ……
+Tenkai Umine (talking),了君……ここで待ってて… あたしら…絶対、勝ってくるから……,Ryou you…… wait here… we'll… we'll… we'll… we'll… we'll… we'll… we'll… we'll… we'll win……,Ryou you…… wait here… we'll… we'll win……
+Matsumoto Ryou (talking),うん……,Yeah ……,Sí……
+Tenkai Umine (talking),また…一緒に海賊やろう…,Let's play pirates again… together…,Vamos a… jugar a los piratas juntos… otra vez…
+Matsumoto Ryou (talking),うん……,Yeah ……,Sí……
+Yamamoto Akuji (talking),"さーて、もうひと頑張りだ。 さっきの戦闘で、まともに戦える奴は 残ってない可能性の方が高い。
 一気に制圧しろ。","Well, let's go one more time. It is more likely that there are no one left who can fight properly after the battle just now.
 Take control in one fell swoop.","Ahora, vayamos un paso más allá. Es más que probable que no queden luchadores decentes después de la batalla de ahora.
 Toma el control de inmediato."
-"narrator","悪司の言葉に部下が一斉に動いた。","At Akuji's words, his subordinates moved in unison.","Las palabras de Akuji hicieron que sus subordinados se movieran al unísono."
-"Elite Yakuza (talking)","悪司さん、こんな少年が……","Akuji, such a boy is ……","Akuji, tal chico ……"
-"Yamamoto Akuji (talking)","少年？","Boy?","¿Chico?"
-"Matsumoto Ryou (talking)","……………","……………","……………"
-"Yamamoto Akuji (talking)","おーこりゃ美形だな。 なんだ、男装の麗人か？","Oh, this is a beauty. What is this, a beauty in men's clothing?","Oh, esto es una belleza. ¿Qué, eres un hombre vestido como un hombre?"
-"Matsumoto Ryou (talking)","…正真正銘の男です……","…I'm a real man……","…un hombre genuino……"
-"Yamamoto Akuji (talking)","確かここは、女ばかりの 海賊だったんじゃ…","I believe this was an all-female pirate…","Si no recuerdo mal, se trataba de un pirata femenino…"
-"Matsumoto Ryou (talking)","………………","………………","………………"
-"Yamamoto Akuji (talking)","なるほどねー…… メスばかりの巣に、オスが一匹…","I see……… One male in a nest full of females…","Ya veo…… En un nido lleno de hembras, un macho…"
-"Matsumoto Ryou (talking)","海音さんは…どこですか？","Where is Umine…?","¿Dónde está Umine…?"
-"Yamamoto Akuji (talking)","あん？","An?","¿An?"
-"Matsumoto Ryou (talking)","海音さんです…… 女の子海賊隊の首領です。","This is Umine…… I am the head of the Girl Pirate Squad.","Esta es Umine…… Es la jefa del Escuadrón Pirata Femenino."
-"Yamamoto Akuji (talking)","なんだ。 自分を捕らえていたボスの生死が 気になるのか。
+narrator,悪司の言葉に部下が一斉に動いた。,"At Akuji's words, his subordinates moved in unison.",Las palabras de Akuji hicieron que sus subordinados se movieran al unísono.
+Elite Yakuza (talking),悪司さん、こんな少年が……,"Akuji, such a boy is ……","Akuji, tal chico ……"
+Yamamoto Akuji (talking),少年？,Boy?,¿Chico?
+Matsumoto Ryou (talking),……………,……………,……………
+Yamamoto Akuji (talking),おーこりゃ美形だな。 なんだ、男装の麗人か？,"Oh, this is a beauty. What is this, a beauty in men's clothing?","Oh, esto es una belleza. ¿Qué, eres un hombre vestido como un hombre?"
+Matsumoto Ryou (talking),…正真正銘の男です……,…I'm a real man……,…un hombre genuino……
+Yamamoto Akuji (talking),確かここは、女ばかりの 海賊だったんじゃ…,I believe this was an all-female pirate…,"Si no recuerdo mal, se trataba de un pirata femenino…"
+Matsumoto Ryou (talking),………………,………………,………………
+Yamamoto Akuji (talking),なるほどねー…… メスばかりの巣に、オスが一匹…,I see……… One male in a nest full of females…,"Ya veo…… En un nido lleno de hembras, un macho…"
+Matsumoto Ryou (talking),海音さんは…どこですか？,Where is Umine…?,¿Dónde está Umine…?
+Yamamoto Akuji (talking),あん？,An?,¿An?
+Matsumoto Ryou (talking),海音さんです…… 女の子海賊隊の首領です。,This is Umine…… I am the head of the Girl Pirate Squad.,Esta es Umine…… Es la jefa del Escuadrón Pirata Femenino.
+Yamamoto Akuji (talking),"なんだ。 自分を捕らえていたボスの生死が 気になるのか。
 復讐したかったのか？","What is it? You care whether the boss who held you captive is alive or dead?
 You wanted revenge?","Qué es. ¿Te importa si el jefe que te mantuvo cautivo está vivo o muerto?
  ¿Querías vengarte?"
-"Matsumoto Ryou (talking)","違います……","No, sir……","No……"
-"Yamamoto Akuji (talking)","まー、お前さんの都合は 俺には関係ない。
+Matsumoto Ryou (talking),違います……,"No, sir……",No……
+Yamamoto Akuji (talking),"まー、お前さんの都合は 俺には関係ない。
 んでもまあ、使えるかもしれんから、 捕虜にしておけ。","Well, your convenience is none of my business.
 But, well, you might be able to use them, so keep them prisoners.","Bueno, su conveniencia no es de mi incumbencia.
 Pero, bueno, podríamos usarlos, así que manténgalos como prisioneros de guerra."
-"Elite Yakuza (talking)","はい。","Yes.","Sí."
-"Tenkai Umine (talking)","くちゅっ……","Kuchu: ……","Kuchu……"
-"Matsumoto Ryou (talking)","大丈夫？ 海音さん。","Are you okay? Umine.","¿Estás bien? Umine."
-"Tenkai Umine (talking)","うん。へーき。 ちょっと寒いね。","Yeah, I'm good. It's fine. It's a little cold.","Sí. Está bien. Hace un poco de frío."
-"Matsumoto Ryou (talking)","雲が厚いから………","Because the clouds are so thick: ………","Porque las nubes son muy densas: ………"
-"Tenkai Umine (talking)","でも…こーしてまた二人で、 空眺めたり、肩並べて歩けるなんて、 思ってもなかった。","But…I never thought that we would be able to look at the sky together again, or walk side by side.","Pero… nunca pensamos que volveríamos a estar juntos, mirando al cielo, caminando hombro con hombro."
-"Matsumoto Ryou (talking)","………うん……","………うん ……","………うん ……"
-"narrator","二人はパトロール中だった。 どちらからともなく、手を繋ぐ。 そして、そのまま黙って歩く。
+Elite Yakuza (talking),はい。,Yes.,Sí.
+Tenkai Umine (talking),くちゅっ……,Kuchu: ……,Kuchu……
+Matsumoto Ryou (talking),大丈夫？ 海音さん。,Are you okay? Umine.,¿Estás bien? Umine.
+Tenkai Umine (talking),うん。へーき。 ちょっと寒いね。,"Yeah, I'm good. It's fine. It's a little cold.",Sí. Está bien. Hace un poco de frío.
+Matsumoto Ryou (talking),雲が厚いから………,Because the clouds are so thick: ………,Porque las nubes son muy densas: ………
+Tenkai Umine (talking),でも…こーしてまた二人で、 空眺めたり、肩並べて歩けるなんて、 思ってもなかった。,"But…I never thought that we would be able to look at the sky together again, or walk side by side.","Pero… nunca pensamos que volveríamos a estar juntos, mirando al cielo, caminando hombro con hombro."
+Matsumoto Ryou (talking),………うん……,………うん ……,………うん ……
+narrator,"二人はパトロール中だった。 どちらからともなく、手を繋ぐ。 そして、そのまま黙って歩く。
 そしてとうとう、事務所が見えた。","They were on patrol. They held hands from either side. They walked in silence.
 Finally, they saw the office.","Estaban de patrulla. Desde ambos lados, se toman de la mano. Luego caminaron en silencio.
 Finalmente, vieron la oficina."
-"Tenkai Umine (talking)","……パトロール……終わっちゃったね…","……Patrol……Finished Tane…","……Patrol……Finished Tane…"
-"Matsumoto Ryou (talking)","うん…","Yeah…","Sí…"
-"Tenkai Umine (talking)","つき合ってくれてありがと。","Thanks for hanging out with me.","Gracias por hacerme compañía."
-"Matsumoto Ryou (talking)","……僕が、一緒にいたかっただけだから…","…… I just wanted to be with…","…… Sólo quería estar con…"
-"Tenkai Umine (talking)","うん、あたしも一緒にいたかった。 だから、嬉しかったよ。
+Tenkai Umine (talking),……パトロール……終わっちゃったね…,……Patrol……Finished Tane…,……Patrol……Finished Tane…
+Matsumoto Ryou (talking),うん…,Yeah…,Sí…
+Tenkai Umine (talking),つき合ってくれてありがと。,Thanks for hanging out with me.,Gracias por hacerme compañía.
+Matsumoto Ryou (talking),……僕が、一緒にいたかっただけだから…,…… I just wanted to be with…,…… Sólo quería estar con…
+Tenkai Umine (talking),"うん、あたしも一緒にいたかった。 だから、嬉しかったよ。
 でも…もうすぐ、終わっちゃう…","Yeah, I wanted to be with you, too. That's why I was so happy.
 But… it's almost over…","Sí, yo también quería estar contigo. Por eso me alegré.
 Pero… ya casi termina…"
-"Matsumoto Ryou (talking)","……………","……………","……………"
-"Tenkai Umine (talking)","あっ…！","Ah…!","¡Ah…!"
-"narrator","了は海音を抱き寄せた。","Ryou hugged Umine.","Ryou abrazó a Umine."
-"Tenkai Umine (talking)","了君……","Ryou you ……","Ryou you ……"
-"Matsumoto Ryou (talking)","……離したくない…","…… don't want to let go…","…… no quieren soltar…"
-"Tenkai Umine (talking)","うん、あたしも……","Yeah, me too ……","Sí, yo también ……"
-"narrator","二人の唇がゆっくり重なった。","Their lips slowly overlapped.","Sus labios se superponen lentamente."
-"cg narrator","「あっ……了君……」
+Matsumoto Ryou (talking),……………,……………,……………
+Tenkai Umine (talking),あっ…！,Ah…!,¡Ah…!
+narrator,了は海音を抱き寄せた。,Ryou hugged Umine.,Ryou abrazó a Umine.
+Tenkai Umine (talking),了君……,Ryou you ……,Ryou you ……
+Matsumoto Ryou (talking),……離したくない…,…… don't want to let go…,…… no quieren soltar…
+Tenkai Umine (talking),うん、あたしも……,"Yeah, me too ……","Sí, yo también ……"
+narrator,二人の唇がゆっくり重なった。,Their lips slowly overlapped.,Sus labios se superponen lentamente.
+cg narrator,"「あっ……了君……」
  「……ちが……そこじゃないよ… 　慌てないで…んっ…そこ…」
  「あっ……ああっ……！」","Oh, ……Ryouyouyou ……
  “Oh…… but…… that's not there… don't panic… mmm… there…”
 Oh, ……, oh, ……!","”Oh, ……Ryouyouyou ……”
  '…… pero eso no es…… ahí… no te asustes… mmm… ahí…'
  “¡Oh, ……, oh, ……!”"
-"cg narrator","「はっ……いった……」
+cg narrator,"「はっ……いった……」
 ため息をつくように、海音が言う。
 「んっ……」
 了が僅かに身震いした。 その拍子に、繋がっている部分から、 海音の雫がぽたぽたと落ちる。
@@ -1282,35 +1282,35 @@ Umine murmuró.
 「Un……」
 「Hagamos una copa, ryou… 　para entonces, hagamos que sea un país mejor… 　para un país que no necesita guerra.」
 「Si, umine……」"
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"Tenkai Umine (talking)","何、千手。 呼んだって？","What, Senju. You called me?","Qué, Senju. ¿Me has llamado?"
-"Ishihara Senju (talking)","うん。
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+Tenkai Umine (talking),何、千手。 呼んだって？,"What, Senju. You called me?","Qué, Senju. ¿Me has llamado?"
+Ishihara Senju (talking),"うん。
 ん~~………","Mm-hmm.
 Hmmm~ ………","Mm.
 Hmmm… ………"
-"Tenkai Umine (talking)","なんだよ？","What the hell?","¿Qué demonios?"
-"Ishihara Senju (talking)","海音ってば、あれだけ色々されても、 まだ反抗的なんだね。","Umine is still defiant even after all she's been through, isn't she?","Umine sigue siendo desafiante incluso después de todo lo que le han hecho."
-"Tenkai Umine (talking)","ふふん。 これぐらいで根あげてんだったら……
+Tenkai Umine (talking),なんだよ？,What the hell?,¿Qué demonios?
+Ishihara Senju (talking),海音ってば、あれだけ色々されても、 まだ反抗的なんだね。,"Umine is still defiant even after all she's been through, isn't she?",Umine sigue siendo desafiante incluso después de todo lo que le han hecho.
+Tenkai Umine (talking),"ふふん。 これぐらいで根あげてんだったら……
 訓練学校の先生達が急におかしくなって あたしら陵辱しだした時に、 とうにおかしくなってたって。","Hmmm. If you're going to get worked up over something like this, you might as well just go to ……
 If the teachers at the training school suddenly went crazy and started humiliating us, they would have gone crazy by now.","Hmmm. Si vas a desarraigarte por algo así, tendrás que ir a ……
 Cuando los profesores de la escuela de formación se volvieron locos de repente y empezaron a humillarnos, dijeron que ya estábamos locos."
-"Ishihara Senju (talking)","なるほどね。","I see.","Ya veo."
-"Tenkai Umine (talking)","なんだよ。","What is it?","Qué es."
-"Ishihara Senju (talking)","ボクの読みは当たりって訳だ。
+Ishihara Senju (talking),なるほどね。,I see.,Ya veo.
+Tenkai Umine (talking),なんだよ。,What is it?,Qué es.
+Ishihara Senju (talking),"ボクの読みは当たりって訳だ。
 いいから、ボクと一緒においで。 あ、君はここで留守番だよ。","My guess is as good as mine.
 Just come with me. Oh, and you stay here.","Eso significa que tenía razón.
 Sólo ven conmigo. Oh, te vas a quedar aquí."
-"Tenkai Umine (talking)","＜たんたまご＞ キャー！
+Tenkai Umine (talking),"＜たんたまご＞ キャー！
 たんたまご！？
 ちょっ…どこ行くのさ、千手！ 千手！！","<Tantan Tamago> Crikey!
 Tantamago!
 Hey… where are you going, Senju! Senju!","＜¡Tantamago! ¡Caramba!
  ¡Tantamago!
 Oye… ¡a dónde vas, Senju! ¡Senju!"
-"narrator","千手は海音の問いには答えず、 さっさと外に出た。","Senju did not answer Umine's question and quickly went outside.","Senju no respondió a la pregunta de Umine y se marchó rápidamente."
-"cg narrator","着いた場所は、薄汚れた学校だった。 廃校になってしまっているらしい。 そこで、海音を待っていたのは……","The place we arrived at was a dingy school. It seemed to have been closed down. Waiting for Umine there was ……","El lugar al que llegamos era una escuela sucia. Parece que la escuela ha sido cerrada. Allí, esperando a Umine estaba ……"
-"cg narrator","「あっ……あっぅっ……」
+narrator,千手は海音の問いには答えず、 さっさと外に出た。,Senju did not answer Umine's question and quickly went outside.,Senju no respondió a la pregunta de Umine y se marchó rápidamente.
+cg narrator,着いた場所は、薄汚れた学校だった。 廃校になってしまっているらしい。 そこで、海音を待っていたのは……,The place we arrived at was a dingy school. It seemed to have been closed down. Waiting for Umine there was ……,"El lugar al que llegamos era una escuela sucia. Parece que la escuela ha sido cerrada. Allí, esperando a Umine estaba ……"
+cg narrator,"「あっ……あっぅっ……」
 「声が小さーい！！」
 　　ぴしっっ
 「ああっ！！」
@@ -1527,25 +1527,25 @@ Umine dejó escapar un grito más fuerte, que se ve aterrorizado.
 Dentro de Umine, algo blanco estalló en juego.
 「Ua~…a~…a~~~~……！！」
 En ese momento, Umine dejó escapar un grito alto que era casi como el rugido de una bestia, haciendo que su cuerpo temble fuerte y muchas veces."
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"Matsumoto Ryou (talking)","あれ…？
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+Matsumoto Ryou (talking),"あれ…？
 海音さん？ 海音さん？","Huh…?
 Umine? Umine?","Eh…?
 Umine? Umine?"
-" (talking)","こっちー。","This way.","Por aquí."
-"narrator","海音は屋根に登っていた。","Umine was on the roof.","Umine estaba en el techo."
-"Tenkai Umine (talking)","了君もおいでよー。","Ryou come here too!","Ven aquí, tú también."
-"Matsumoto Ryou (talking)","うん。","Yeah.","Sí."
-"narrator","二人の眼下に、街が広がる。","The city spreads out below them.","La ciudad se extiende bajo ellos."
-"Tenkai Umine (talking)","どんどん、復興されてくね。","The recovery is going on and on.","Se está reconstruyendo cada vez más."
-"Matsumoto Ryou (talking)","うん。","Yeah.","Sí."
-"Tenkai Umine (talking)","こーいうのが平和なのかな…","I wonder if this is peaceful…","Este es el tipo de paz…"
-"Matsumoto Ryou (talking)","そうなのかな…？","Is that so…?","¿Es eso cierto…?"
-"Tenkai Umine (talking)","物語だったらさ…ここで めでたしめでたしって感じ なんだけどさ…
+ (talking),こっちー。,This way.,Por aquí.
+narrator,海音は屋根に登っていた。,Umine was on the roof.,Umine estaba en el techo.
+Tenkai Umine (talking),了君もおいでよー。,Ryou come here too!,"Ven aquí, tú también."
+Matsumoto Ryou (talking),うん。,Yeah.,Sí.
+narrator,二人の眼下に、街が広がる。,The city spreads out below them.,La ciudad se extiende bajo ellos.
+Tenkai Umine (talking),どんどん、復興されてくね。,The recovery is going on and on.,Se está reconstruyendo cada vez más.
+Matsumoto Ryou (talking),うん。,Yeah.,Sí.
+Tenkai Umine (talking),こーいうのが平和なのかな…,I wonder if this is peaceful…,Este es el tipo de paz…
+Matsumoto Ryou (talking),そうなのかな…？,Is that so…?,¿Es eso cierto…?
+Tenkai Umine (talking),"物語だったらさ…ここで めでたしめでたしって感じ なんだけどさ…
 あたし達はこれからだね。","If it were a story… it would end here and be happily ever after.
 We're just getting started.","Si fuera una historia… terminaría aquí, pero…
 Sólo estamos empezando."
-"Matsumoto Ryou (talking)","うん。 二人でおっきな家族を作ろう。","Yeah. Let's make a big family together.","Sí. Hagamos juntos una gran familia."
-"Tenkai Umine (talking)","うんっ！","Yeah!","¡Sí!"
-"Tenkai Umine (talking)","いっくぞーっ☆","Let's go!☆","¡Vamos!☆"
+Matsumoto Ryou (talking),うん。 二人でおっきな家族を作ろう。,Yeah. Let's make a big family together.,Sí. Hagamos juntos una gran familia.
+Tenkai Umine (talking),うんっ！,Yeah!,¡Sí!
+Tenkai Umine (talking),いっくぞーっ☆,Let's go!☆,¡Vamos!☆

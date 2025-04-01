@@ -1,65 +1,65 @@
-"character","jap text","Eng","Esp"
-"__system__??","{麦 = 1:","",""
-"__system__??","{☆陸奥 < 10:","",""
-"__system__??","}","",""
-"__system__??","{☆陸奥 = 12:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 2:","",""
-"__system__??","{☆陸奥 = 11:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 3:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 4:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 5:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 10:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 11:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 12:","",""
-"__system__??","{H愛欲 = 1:","",""
-"__system__??","}","",""
-"__system__??","{(H愛欲抵抗 <= H愛欲) * (H愛欲抵抗 \ 99):","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 13:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 15:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 16:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 18:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 19:","",""
-"__system__??","}","",""
-"narrator","悪司が煙草をふかしながら、 新聞を読んでいる。","Akuji is reading a newspaper while puffing on a cigarette.","Akuji está dando una calada a un cigarrillo y leyendo un periódico."
-" (talking)","ちゃーっ！！","Ta-da!","¡Ta-da!"
-"Yamamoto Akuji (talking)","ぶっ！","Boom!","¡Boom!"
-"Mutsu (talking)","呼んだ？ 悪司。","Did you call me? Akuji.","¿Me has llamado? Akuji."
-"Yamamoto Akuji (talking)","呼んだけどな…","I called it…","Aunque te llamé…"
-"Mutsu (talking)","うん。","Yeah.","Sí."
-"Yamamoto Akuji (talking)","頭めがけてダイビングされるとは 思ってなかった……","I never thought I'd be diving for my head……","No esperaba que se lanzaran a por mi cabeza……"
-"Mutsu (talking)","一発は、何にも言わないよ。","Ippatsu won't say anything.","Ippatsu no dirá nada."
-"Yamamoto Akuji (talking)","あのじーさんは、特別製だかんなー…","That old man is specially made…","Ese viejo está hecho especialmente…"
-"Yamamoto Akuji (talking)","………………","………………","………………"
-"Mutsu (talking)","何？","What?","¿Qué?"
-"Yamamoto Akuji (talking)","なんじゃ、そりゃ。","What's that?","¿Qué es eso?"
-"narrator","陸奥は雲に乗って現れていた。","Mutsu had appeared in the clouds.","Mutsu había aparecido en las nubes."
-"Mutsu (talking)","何って…何が？","What… what?","¿Qué… qué?"
-"Yamamoto Akuji (talking)","雲に乗ってんのか？","Are you on a cloud?","¿Estás en una nube?"
-"Mutsu (talking)","うん。","Yeah.","Sí."
-"Yamamoto Akuji (talking)","…………うーん……","………… umm ……","………… umm ……"
-"Mutsu (talking)","やっほー。","Yoo-hoo.","Yoo-hoo."
-"Yamamoto Akuji (talking)","ほーやー。","Hooyah.","Hooyah."
-"Yamamoto Akuji (talking)","陸奥。","Mutsu.","Mutsu."
-"Mutsu (talking)","あーいー？","Uh-Yes?","¿Uh-ee?"
-"Yamamoto Akuji (talking)","抱いてやる。 脱ぎな。","I'll hold you. Take off your clothes.","Yo te sostengo. Quítate la ropa."
-"Mutsu (talking)","わーい、陸奥、上。 上がいい。 うーえーっ！","Wow, Mutsu, up. I like the top. Ew!","Vaya, Mutsu, arriba. Arriba es bueno. ¡Eeeeeeee!"
-"Yamamoto Akuji (talking)","わかった、わかった。","Okay, okay.","Muy bien, muy bien."
-"cg narrator","「んっ、んっ、んっ…… 　……っ……んっ…… 　ん~~~~つ……！！」
+character,jap text,Eng,Esp
+__system__??,{麦 = 1:,,
+__system__??,{☆陸奥 < 10:,,
+__system__??,},,
+__system__??,{☆陸奥 = 12:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 2:,,
+__system__??,{☆陸奥 = 11:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 3:,,
+__system__??,},,
+__system__??,{麦 = 4:,,
+__system__??,},,
+__system__??,{麦 = 5:,,
+__system__??,},,
+__system__??,{麦 = 10:,,
+__system__??,},,
+__system__??,{麦 = 11:,,
+__system__??,},,
+__system__??,{麦 = 12:,,
+__system__??,{H愛欲 = 1:,,
+__system__??,},,
+__system__??,{(H愛欲抵抗 <= H愛欲) * (H愛欲抵抗 \ 99):,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 13:,,
+__system__??,},,
+__system__??,{麦 = 15:,,
+__system__??,},,
+__system__??,{麦 = 16:,,
+__system__??,},,
+__system__??,{麦 = 18:,,
+__system__??,},,
+__system__??,{麦 = 19:,,
+__system__??,},,
+narrator,悪司が煙草をふかしながら、 新聞を読んでいる。,Akuji is reading a newspaper while puffing on a cigarette.,Akuji está dando una calada a un cigarrillo y leyendo un periódico.
+ (talking),ちゃーっ！！,Ta-da!,¡Ta-da!
+Yamamoto Akuji (talking),ぶっ！,Boom!,¡Boom!
+Mutsu (talking),呼んだ？ 悪司。,Did you call me? Akuji.,¿Me has llamado? Akuji.
+Yamamoto Akuji (talking),呼んだけどな…,I called it…,Aunque te llamé…
+Mutsu (talking),うん。,Yeah.,Sí.
+Yamamoto Akuji (talking),頭めがけてダイビングされるとは 思ってなかった……,I never thought I'd be diving for my head……,No esperaba que se lanzaran a por mi cabeza……
+Mutsu (talking),一発は、何にも言わないよ。,Ippatsu won't say anything.,Ippatsu no dirá nada.
+Yamamoto Akuji (talking),あのじーさんは、特別製だかんなー…,That old man is specially made…,Ese viejo está hecho especialmente…
+Yamamoto Akuji (talking),………………,………………,………………
+Mutsu (talking),何？,What?,¿Qué?
+Yamamoto Akuji (talking),なんじゃ、そりゃ。,What's that?,¿Qué es eso?
+narrator,陸奥は雲に乗って現れていた。,Mutsu had appeared in the clouds.,Mutsu había aparecido en las nubes.
+Mutsu (talking),何って…何が？,What… what?,¿Qué… qué?
+Yamamoto Akuji (talking),雲に乗ってんのか？,Are you on a cloud?,¿Estás en una nube?
+Mutsu (talking),うん。,Yeah.,Sí.
+Yamamoto Akuji (talking),…………うーん……,………… umm ……,………… umm ……
+Mutsu (talking),やっほー。,Yoo-hoo.,Yoo-hoo.
+Yamamoto Akuji (talking),ほーやー。,Hooyah.,Hooyah.
+Yamamoto Akuji (talking),陸奥。,Mutsu.,Mutsu.
+Mutsu (talking),あーいー？,Uh-Yes?,¿Uh-ee?
+Yamamoto Akuji (talking),抱いてやる。 脱ぎな。,I'll hold you. Take off your clothes.,Yo te sostengo. Quítate la ropa.
+Mutsu (talking),わーい、陸奥、上。 上がいい。 うーえーっ！,"Wow, Mutsu, up. I like the top. Ew!","Vaya, Mutsu, arriba. Arriba es bueno. ¡Eeeeeeee!"
+Yamamoto Akuji (talking),わかった、わかった。,"Okay, okay.","Muy bien, muy bien."
+cg narrator,"「んっ、んっ、んっ…… 　……っ……んっ…… 　ん~~~~つ……！！」
 悪司の上で陸奥は満足そうに躰を震わせている。
  「ぷっ……んっ…はぁぁっ…… 　３回目ーー」
  「気持ちいいか？ 　陸奥」
@@ -96,37 +96,37 @@ Eres igual que Ippatsu… Ippatsu le dijo eso a Mutsu… y a todas las demás ch
  'Hmmm……… de cualquier manera… Mutsu, ahora si hubiera alguien que pudiera dar placer a Mutsu…'
  'Entonces ven todo lo que quieras. 　Saldré contigo”.
  “Sí, Akuji, te quiero”."
-"Yamamoto Akuji (talking)","うーし。","Woohoo.","Woohoo."
-"Mutsu (talking)","牛？","Cows?","¿Vacas?"
-"Yamamoto Akuji (talking)","やろーか、陸奥。","Let's do it, Mutsu.","Hagámoslo, Mutsu."
-"Mutsu (talking)","えっち？","Ech?","¿Eh?"
-"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
-"Mutsu (talking)","んー、わかった。 こいこい、悪司。 可愛がってあげるっ。","Hmmm, okay. Come on, Akuji. I'll take good care of you.","Hmm, vale. Vamos, vamos, Akuji. Te cuidaré bien."
-"Yamamoto Akuji (talking)","そりゃー、俺のセリフだっつーの。","That's my line, you know.","Bueno, esa es mi línea, ya sabes."
-"Yamamoto Akuji (talking)","陸奥は悪司と楽しんだ。","Mutsu had fun with Akuji.","Mutsu se divirtió con Akuji."
-"Yamamoto Akuji (talking)","ほれ、小遣いだ。","Here, here's your allowance.","Toma, dinero de bolsillo."
-"Mutsu (talking)","わーいありがと悪司。 陸奥、ぽんかんあめ買ってくるー。","Yay thanks Akuji. Mutsu, I'm going to go buy some Ponkan candy.","Vaya, gracias Akuji. Mutsu, voy a comprar caramelos Ponkan."
-"Yamamoto Akuji (talking)","……………","……………","……………"
-"Mutsu (talking)","わ、一発とおんなし眉毛。","Wow, the same eyebrows as Ippatsu.","Vaya, tengo las mismas cejas que Ippatsu."
-"Yamamoto Akuji (talking)","あーこれかい。","Ah, this one.","Ah, este."
-"Mutsu (talking)","うん。","Yeah.","Sí."
-"Yamamoto Akuji (talking)","っていうか、お前さん、人間かい？","I mean, are you even human?","Quiero decir, ¿eres siquiera humano?"
-"Mutsu (talking)","陸奥は戦鬼だよ。","Mutsu is a war demon.","Mutsu es un demonio de guerra."
-"Yamamoto Akuji (talking)","………ん~~……","……… n~~……","……… n~~……"
-"Mutsu (talking)","ふんふんふん♪","sniff-sniff-sniff…","Mmm-mmm-mmm…"
-"Mutsu (talking)","ねえねえ、陸奥、 ここにいるの飽きちゃった。 出してよー。","Hey, hey, Mutsu, I'm tired of being here. Let me out.","Oye, oye, Mutsu, estoy cansado de estar aquí. ¡Déjame salir!"
-"Yamamoto Akuji (talking)","駄目。","No.","No."
-"Yamamoto Akuji (talking)","陸奥よぉ。","Mutsu yo.","Mutsu yo."
-"Mutsu (talking)","あい。","Ai.","Ai."
-"Yamamoto Akuji (talking)","俺に抱かれて貰うぜ。","I'll let you hold me.","Te tendré en mis brazos."
-"Mutsu (talking)","抱かれる？ するって事？","To be held? Do you mean “to be held”?","¿Para ser retenido? ¿Quieres hacer?"
-"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
-"Mutsu (talking)","悪司、一発よりじょーず？","Jozu than Akuji and Ippatsu?","¿Jozu que Akuji e Ippatsu?"
-"Yamamoto Akuji (talking)","さーな。 お前さんが自分の躰で試してみたら いい事じゃねーか？","I guess. You should try it out on your own body.","¿Sabes qué? Deberías probarlo en tu propio cuerpo."
-"Mutsu (talking)","あ、そっか。","Oh, I see.","Ah, ya veo."
-"Yamamoto Akuji (talking)","よし、それじゃあ、いい子にしな。","Okay, then, be a good boy.","Muy bien, entonces, sé un buen chico."
-"Mutsu (talking)","はーい。","Hai.","Hai."
-"cg narrator","「ぷぱっ」
+Yamamoto Akuji (talking),うーし。,Woohoo.,Woohoo.
+Mutsu (talking),牛？,Cows?,¿Vacas?
+Yamamoto Akuji (talking),やろーか、陸奥。,"Let's do it, Mutsu.","Hagámoslo, Mutsu."
+Mutsu (talking),えっち？,Ech?,¿Eh?
+Yamamoto Akuji (talking),ああ。,Oh.,Oh.
+Mutsu (talking),んー、わかった。 こいこい、悪司。 可愛がってあげるっ。,"Hmmm, okay. Come on, Akuji. I'll take good care of you.","Hmm, vale. Vamos, vamos, Akuji. Te cuidaré bien."
+Yamamoto Akuji (talking),そりゃー、俺のセリフだっつーの。,"That's my line, you know.","Bueno, esa es mi línea, ya sabes."
+Yamamoto Akuji (talking),陸奥は悪司と楽しんだ。,Mutsu had fun with Akuji.,Mutsu se divirtió con Akuji.
+Yamamoto Akuji (talking),ほれ、小遣いだ。,"Here, here's your allowance.","Toma, dinero de bolsillo."
+Mutsu (talking),わーいありがと悪司。 陸奥、ぽんかんあめ買ってくるー。,"Yay thanks Akuji. Mutsu, I'm going to go buy some Ponkan candy.","Vaya, gracias Akuji. Mutsu, voy a comprar caramelos Ponkan."
+Yamamoto Akuji (talking),……………,……………,……………
+Mutsu (talking),わ、一発とおんなし眉毛。,"Wow, the same eyebrows as Ippatsu.","Vaya, tengo las mismas cejas que Ippatsu."
+Yamamoto Akuji (talking),あーこれかい。,"Ah, this one.","Ah, este."
+Mutsu (talking),うん。,Yeah.,Sí.
+Yamamoto Akuji (talking),っていうか、お前さん、人間かい？,"I mean, are you even human?","Quiero decir, ¿eres siquiera humano?"
+Mutsu (talking),陸奥は戦鬼だよ。,Mutsu is a war demon.,Mutsu es un demonio de guerra.
+Yamamoto Akuji (talking),………ん~~……,……… n~~……,……… n~~……
+Mutsu (talking),ふんふんふん♪,sniff-sniff-sniff…,Mmm-mmm-mmm…
+Mutsu (talking),ねえねえ、陸奥、 ここにいるの飽きちゃった。 出してよー。,"Hey, hey, Mutsu, I'm tired of being here. Let me out.","Oye, oye, Mutsu, estoy cansado de estar aquí. ¡Déjame salir!"
+Yamamoto Akuji (talking),駄目。,No.,No.
+Yamamoto Akuji (talking),陸奥よぉ。,Mutsu yo.,Mutsu yo.
+Mutsu (talking),あい。,Ai.,Ai.
+Yamamoto Akuji (talking),俺に抱かれて貰うぜ。,I'll let you hold me.,Te tendré en mis brazos.
+Mutsu (talking),抱かれる？ するって事？,To be held? Do you mean “to be held”?,¿Para ser retenido? ¿Quieres hacer?
+Yamamoto Akuji (talking),ああ。,Oh.,Oh.
+Mutsu (talking),悪司、一発よりじょーず？,Jozu than Akuji and Ippatsu?,¿Jozu que Akuji e Ippatsu?
+Yamamoto Akuji (talking),さーな。 お前さんが自分の躰で試してみたら いい事じゃねーか？,I guess. You should try it out on your own body.,¿Sabes qué? Deberías probarlo en tu propio cuerpo.
+Mutsu (talking),あ、そっか。,"Oh, I see.","Ah, ya veo."
+Yamamoto Akuji (talking),よし、それじゃあ、いい子にしな。,"Okay, then, be a good boy.","Muy bien, entonces, sé un buen chico."
+Mutsu (talking),はーい。,Hai.,Hai.
+cg narrator,"「ぷぱっ」
 陸奥は口に咥えていた悪司のものを 吐き出した。
 「こんだけ固くなったら、 　もういけるって感じかなー？」
 「お前さんの方は準備が出来てるのかい？」
@@ -346,51 +346,51 @@ Mutsu miró a Akuji con ojos encantadores.
 Los dedos de Mutsu se extendieron sobre los pezones de Akuji. Los dedos de Mutsu se retorcieron como bailando en el pecho de una mujer.
 「¿Cuánto hará que su nieto, Akuji, hará que Mutsu se corra…? ¡Hola…… más…!」
 Mutsu gritó de alegría."
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","よし。","All right.","DE ACUERDO."
-"Mutsu (talking)","ん？","Hmm?","¿Eh?"
-"Yamamoto Akuji (talking)","俺の躰に馴染んで貰うとするか。","I'll let you get used to my body.","Dejaré que te acostumbres a mi cuerpo."
-"Mutsu (talking)","すんの？","What?","¿No voy a…?"
-"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
-"Mutsu (talking)","でも陸奥、一発とのほーがー… あ、嘘、きゃん、うっひゃー！","But with Mutsu and Ippatsu… Oh, no, no, no, no, no, no, no!","Pero con Mutsu y Ippatsu, es… ¡Oh, no, no, Kyan, ugh!"
-"Mutsu (talking)","陸奥は悪司に抱かれた。","Mutsu was embraced by Akuji.","Mutsu fue abrazado por Akuji."
-"Yamamoto Akuji (talking)","戦鬼ってのは、こーいうモンに 興味はねーのかい？","Aren't you interested in this kind of thing?","¿No te interesa este tipo de cosas?"
-"narrator","と、悪司は陸奥の前に札束を置いてみせた。","And Akuji put a wad of bills in front of Mutsu.","Y Akuji colocó un fajo de billetes delante de Mutsu."
-"Mutsu (talking)","あ、お金。","Ah, money.","Ah, el dinero."
-"Yamamoto Akuji (talking)","そ、お金。","So, money.","Así que, dinero."
-"Mutsu (talking)","いらない。 だって、こん中にいたら、使えないもん。 つまんない。","I don't want it. Because if I'm in there, I can't use it. Boring.","No lo quiero. Porque si estoy ahí, no puedo usarlo. Aburrido."
-"Yamamoto Akuji (talking)","そっか。","I see.","Ya veo."
-"Mutsu (talking)","うん。","Yeah.","Sí."
-"Yamamoto Akuji (talking)","さて…","Well…","Bueno…"
-"Mutsu (talking)","すんの？","What?","¿No voy a…?"
-"Yamamoto Akuji (talking)","なんでわかったんだい？","How did you know?","¿Cómo lo has sabido?"
-"Mutsu (talking)","そーいう顔してたから。 なんだか、悪司のする事、 わかるようになってきた。","Because you had that look on your face. I'm starting to understand what Akuji is doing.","Porque tenías esa mirada en la cara. Estoy empezando a entender lo que hace Akuji."
-"Yamamoto Akuji (talking)","それなら話は早いな。","Well, that's a quick story then.","Entonces es una historia rápida."
-"Mutsu (talking)","はい、どーぞ。","Yes, please do.","Sí, por favor."
-"Mutsu (talking)","陸奥は悪司にたっぷりと可愛がられた。","Mutsu was given plenty of loving care by Akuji.","Mutsu recibió mucho amor y cariño de Akuji."
-"Mutsu (talking)","は~、イッた、イッた。","Ha~ I came, I came.","Ha - Vine, vine."
-"Yamamoto Akuji (talking)","でよ……","At: ……","En: ……"
-"Mutsu (talking)","ん~？","Hmm?","¿Hmm?"
-"Yamamoto Akuji (talking)","俺の為に働いてくれるかい？","Would you work for me?","¿Trabajarías para mí?"
-"Mutsu (talking)","抱いてくれる？","Will you hold me?","¿Puedes abrazarme?"
-"Yamamoto Akuji (talking)","ああ、お前さんが望むなら。","Yeah, if you want.","Sí, si quieres."
-"Mutsu (talking)","だったらいーよ。 働いたげる。
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+Yamamoto Akuji (talking),よし。,All right.,DE ACUERDO.
+Mutsu (talking),ん？,Hmm?,¿Eh?
+Yamamoto Akuji (talking),俺の躰に馴染んで貰うとするか。,I'll let you get used to my body.,Dejaré que te acostumbres a mi cuerpo.
+Mutsu (talking),すんの？,What?,¿No voy a…?
+Yamamoto Akuji (talking),ああ。,Oh.,Oh.
+Mutsu (talking),でも陸奥、一発とのほーがー… あ、嘘、きゃん、うっひゃー！,"But with Mutsu and Ippatsu… Oh, no, no, no, no, no, no, no!","Pero con Mutsu y Ippatsu, es… ¡Oh, no, no, Kyan, ugh!"
+Mutsu (talking),陸奥は悪司に抱かれた。,Mutsu was embraced by Akuji.,Mutsu fue abrazado por Akuji.
+Yamamoto Akuji (talking),戦鬼ってのは、こーいうモンに 興味はねーのかい？,Aren't you interested in this kind of thing?,¿No te interesa este tipo de cosas?
+narrator,と、悪司は陸奥の前に札束を置いてみせた。,And Akuji put a wad of bills in front of Mutsu.,Y Akuji colocó un fajo de billetes delante de Mutsu.
+Mutsu (talking),あ、お金。,"Ah, money.","Ah, el dinero."
+Yamamoto Akuji (talking),そ、お金。,"So, money.","Así que, dinero."
+Mutsu (talking),いらない。 だって、こん中にいたら、使えないもん。 つまんない。,"I don't want it. Because if I'm in there, I can't use it. Boring.","No lo quiero. Porque si estoy ahí, no puedo usarlo. Aburrido."
+Yamamoto Akuji (talking),そっか。,I see.,Ya veo.
+Mutsu (talking),うん。,Yeah.,Sí.
+Yamamoto Akuji (talking),さて…,Well…,Bueno…
+Mutsu (talking),すんの？,What?,¿No voy a…?
+Yamamoto Akuji (talking),なんでわかったんだい？,How did you know?,¿Cómo lo has sabido?
+Mutsu (talking),そーいう顔してたから。 なんだか、悪司のする事、 わかるようになってきた。,Because you had that look on your face. I'm starting to understand what Akuji is doing.,Porque tenías esa mirada en la cara. Estoy empezando a entender lo que hace Akuji.
+Yamamoto Akuji (talking),それなら話は早いな。,"Well, that's a quick story then.",Entonces es una historia rápida.
+Mutsu (talking),はい、どーぞ。,"Yes, please do.","Sí, por favor."
+Mutsu (talking),陸奥は悪司にたっぷりと可愛がられた。,Mutsu was given plenty of loving care by Akuji.,Mutsu recibió mucho amor y cariño de Akuji.
+Mutsu (talking),は~、イッた、イッた。,"Ha~ I came, I came.","Ha - Vine, vine."
+Yamamoto Akuji (talking),でよ……,At: ……,En: ……
+Mutsu (talking),ん~？,Hmm?,¿Hmm?
+Yamamoto Akuji (talking),俺の為に働いてくれるかい？,Would you work for me?,¿Trabajarías para mí?
+Mutsu (talking),抱いてくれる？,Will you hold me?,¿Puedes abrazarme?
+Yamamoto Akuji (talking),ああ、お前さんが望むなら。,"Yeah, if you want.","Sí, si quieres."
+Mutsu (talking),"だったらいーよ。 働いたげる。
 一発、裏切る事になっちゃうけど、 そんな事で陸奥を怒るよーな 一発じゃないしねー。
 陸奥がしたいようにすればいいって 言うだろーから、陸奥は自由にするよ。","I'll work for you. I'll work for it.
 Ippatsu, I'd be betraying you, but I'm not the kind of Ippatsu who'd get mad at Mutsu for that.
 I'm sure Mutsu will say that you can do whatever you want, so I'll leave Mutsu free to do what he wants.","Trabajaré para ti. Trabajaré para ti.
 Ippatsu, te estaría traicionando, pero no soy el tipo de Ippatsu que se enfadaría con Mutsu por eso.
 Dirás que debo hacer lo que Mutsu quiere hacer, así que dejaré a Mutsu libre para que haga lo que quiera."
-"Yamamoto Akuji (talking)","あいかーらずだなぁ、じーさんは…","You're still the same old, same old…","Sigues siendo el mismo, viejo…"
-"Mutsu (talking)","ふふん、ふ~ん♪","Mmm-hmm. Mmm-hmm. ♪","Mmm-hmm.Â"
-"senki (talking)","おにおにおに。","Oni oni oni oni.","Oni oni oni oni."
-"Mutsu (talking)","え、きた？","Oh, have you come?","Eh, ¿has venido?"
-"senki (talking)","おにおにおに。","Oni oni oni oni.","Oni oni oni oni."
-"Mutsu (talking)","へっへへーん。 どれだけ楽しませてくれるのか、 ドッキドキだねー。","Heh heh heh heh. I'm so excited to see how much you'll entertain us.","Je, je, je. ¡Estoy muy emocionada por ver lo bien que lo vais a pasar!"
-"senki (talking)","おにおにおに。","Oni oni oni oni.","Oni oni oni oni."
-"Mutsu (talking)","ＯＫ。 それじゃあ、楽しんじゃおうねー！","OK, then, let's have fun!","Bien, entonces, ¡vamos a divertirnos!"
-"senki (talking)","おにおにおに。","Oni oni oni oni.","Oni oni oni oni."
-"senki (talking)","あんたの孫がどれっくらい強いか、 陸奥が、躰はって試してやるよー！","I, Mutsu, will put my body to the test to see how strong your grandson is!","Yo, Mutsu, pondré mi cuerpo a prueba para ver lo fuerte que es tu nieto."
-"senki (talking)","はいさ、いっくよーっ！","Here we go!","¡Aquí vamos!"
-"Mutsu (talking)","んーと、ごめんねー！","Mmmm, sorry!","Mmm, ¡lo siento!"
+Yamamoto Akuji (talking),あいかーらずだなぁ、じーさんは…,"You're still the same old, same old…","Sigues siendo el mismo, viejo…"
+Mutsu (talking),ふふん、ふ~ん♪,Mmm-hmm. Mmm-hmm. ♪,Mmm-hmm.Â
+senki (talking),おにおにおに。,Oni oni oni oni.,Oni oni oni oni.
+Mutsu (talking),え、きた？,"Oh, have you come?","Eh, ¿has venido?"
+senki (talking),おにおにおに。,Oni oni oni oni.,Oni oni oni oni.
+Mutsu (talking),へっへへーん。 どれだけ楽しませてくれるのか、 ドッキドキだねー。,Heh heh heh heh. I'm so excited to see how much you'll entertain us.,"Je, je, je. ¡Estoy muy emocionada por ver lo bien que lo vais a pasar!"
+senki (talking),おにおにおに。,Oni oni oni oni.,Oni oni oni oni.
+Mutsu (talking),ＯＫ。 それじゃあ、楽しんじゃおうねー！,"OK, then, let's have fun!","Bien, entonces, ¡vamos a divertirnos!"
+senki (talking),おにおにおに。,Oni oni oni oni.,Oni oni oni oni.
+senki (talking),あんたの孫がどれっくらい強いか、 陸奥が、躰はって試してやるよー！,"I, Mutsu, will put my body to the test to see how strong your grandson is!","Yo, Mutsu, pondré mi cuerpo a prueba para ver lo fuerte que es tu nieto."
+senki (talking),はいさ、いっくよーっ！,Here we go!,¡Aquí vamos!
+Mutsu (talking),んーと、ごめんねー！,"Mmmm, sorry!","Mmm, ¡lo siento!"

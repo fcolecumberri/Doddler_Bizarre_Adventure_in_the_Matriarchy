@@ -1,85 +1,85 @@
-"character","jap text","Eng","Esp"
-"menu_label__(L_00ed0)","エフェクト","effect","efecto"
-"menu_label__(L_00a8c)","ＯＰ実験","OP Experiments","Experimentos OP"
-"menu_label__(L_00151)","ＯＰ実験２","OP Experiment 2","Experimento OP 2."
-"menu_label__(L_000cb)","文字出るのん","Letter output","teletexto"
-"menu_label__(L_0192a)","ウエイト設定","Weight setting","el peso (en el boxeo, etc.)"
-"menu_label__(L_01a54)","さやうなら","good-bye","adiós"
-"narrator","真っ黒な中に、「大悪司」というのかポツンと。 この時は無音です。で、この状態からＯＰ１が 流れこんできます。そして、ＣＧ表示。","In the pitch black, there is a pause in the “large Akuji”. At this time, there is no sound. Then, from this state, OP1 comes in. Then, CG is displayed.","En la oscuridad total, hay un bache llamado “Gran Akuji”. En este momento no hay sonido. Entonces, a partir de este estado, el OP1 comienza a entrar. A continuación, se muestra el CG."
-"narrator","ＯＰ１が左から右に横スクロール 表示されている絵は中央。","OP1 scrolls horizontally from left to right. The picture displayed is in the center.","OP1 se desplaza horizontalmente de izquierda a derecha La imagen mostrada está en el centro."
-"narrator","ＯＰ１が左から右に横スクロール 表示されている絵は中央。","OP1 scrolls horizontally from left to right. The picture displayed is in the center.","OP1 se desplaza horizontalmente de izquierda a derecha La imagen mostrada está en el centro."
-"narrator","ＯＰ２が左から右に横スクロール 表示されている絵は中央。","OP2 scrolls horizontally from left to right The picture displayed is in the center.","OP2 se desplaza horizontalmente de izquierda a derecha La imagen mostrada está en el centro."
-"narrator","ＯＰ２が左から右に横スクロール 表示されている絵は中央。","OP2 scrolls horizontally from left to right The picture displayed is in the center.","OP2 se desplaza horizontalmente de izquierda a derecha La imagen mostrada está en el centro."
-"narrator","ＯＰ３が左から右に横スクロール 表示されている絵は中央。","OP3 scrolls horizontally from left to right The picture displayed is in the center.","OP3 se desplaza horizontalmente de izquierda a derecha La imagen mostrada está en el centro."
-"narrator","ＯＰ３が左から右に横スクロール 表示されている絵は中央。","OP3 scrolls horizontally from left to right The picture displayed is in the center.","OP3 se desplaza horizontalmente de izquierda a derecha La imagen mostrada está en el centro."
-"narrator","ここスタートして、３人が消えるまで ６枚のＣＧがスクロール。 途中、1656　1657　1658はさまれます。","Starting here, 6 CGs scroll until the 3 disappear. On the way, 1656 1657 1658 are interrupted.","Comienza aquí, 6 CGs se desplazan hasta que los tres desaparecen. En el camino, 1656 1657 1658 se interrumpen."
-"menu_label__(L_00ed0)","エフェクト","effect","efecto"
-"menu_label__(L_011da)","　０１","01","01"
-"menu_label__(L_011fd)","　０２","02","02"
-"menu_label__(L_01220)","　０３","03","03"
-"menu_label__(L_01243)","　０４","04","04"
-"menu_label__(L_01266)","　０５","05","05"
-"menu_label__(L_01289)","　０６","06","06"
-"menu_label__(L_012ac)","　０７","07","07"
-"menu_label__(L_012cf)","　０８","08","08"
-"menu_label__(L_012f2)","　０９","09","09"
-"menu_label__(L_01315)","　１０","10","10"
-"menu_label__(L_01338)","　１１","11","11"
-"menu_label__(L_0135b)","　１２","12","12"
-"menu_label__(L_0137e)","　１３","13","13"
-"menu_label__(L_013a1)","　１４","14","14"
-"menu_label__(L_013c4)","　１５","15","15"
-"menu_label__(L_013e7)","　１６","16","16"
-"menu_label__(L_0140a)","　１７","17","17"
-"menu_label__(L_00fd0)","　次","next","siguiente"
-"menu_label__(L_00fd0)","エフェクト","effect","efecto"
-"menu_label__(L_0142d)","　１８","18","18"
-"menu_label__(L_01450)","　１９","19","19"
-"menu_label__(L_01473)","　２０","20","20"
-"menu_label__(L_01496)","　２１","21","21"
-"menu_label__(L_014b9)","　２２","22","22"
-"menu_label__(L_014dc)","　２３","23","23"
-"menu_label__(L_014ff)","　２４","24","24"
-"menu_label__(L_01522)","　２５","25","25"
-"menu_label__(L_01545)","　２６","26","26"
-"menu_label__(L_01568)","２９→２７","29 to 27","29 -> 27"
-"menu_label__(L_015a2)","３０→２８","30 to 28","30 -> 28"
-"menu_label__(L_015dc)","　３１","31","31"
-"menu_label__(L_015ff)","　３２","32","32"
-"menu_label__(L_01622)","　３３","33","33"
-"menu_label__(L_01645)","　３４","34","34"
-"menu_label__(L_01668)","　３５","35","35"
-"menu_label__(L_0168b)","　３６","36","36"
-"menu_label__(L_010d8)","　次","next","siguiente"
-"menu_label__(L_00fd0)","エフェクト","effect","efecto"
-"menu_label__(L_016ae)","　３７","37","37"
-"menu_label__(L_016d1)","　３８","38","38"
-"menu_label__(L_016f4)","　３９","39","39"
-"menu_label__(L_01717)","　４０","40","40"
-"menu_label__(L_0173a)","　４１","41","41"
-"menu_label__(L_0175d)","　４２","42","42"
-"menu_label__(L_01780)","　４３","43","43"
-"menu_label__(L_017a3)","　４４","44","44"
-"menu_label__(L_017c6)","　４５","45","45"
-"menu_label__(L_017e9)","　４６","46","46"
-"menu_label__(L_0180c)","　４７","47","47"
-"menu_label__(L_0182f)","　４８","48","48"
-"menu_label__(L_01852)","　４９","49","49"
-"menu_label__(L_01875)","　５０","50","50"
-"menu_label__(L_01898)","　５１","51","51"
-"menu_label__(L_018bb)","　５２","52","52"
-"menu_label__(L_018e0)","　５３","53","53"
-"menu_label__(L_01905)","　５４","54","54"
-"menu_label__(L_0192a)","ウエイト設定","Weight setting","el peso (en el boxeo, etc.)"
-"menu_label__(L_019da)","　　０","0","0"
-"menu_label__(L_019e4)","　　１","1","1"
-"menu_label__(L_019ee)","　　２","2","2"
-"menu_label__(L_019f8)","　　３","3","3"
-"menu_label__(L_01a02)","　　４","4","4"
-"menu_label__(L_01a0c)","　　５","5","5"
-"menu_label__(L_01a16)","　　６","6","6"
-"menu_label__(L_01a20)","　　７","7","7"
-"menu_label__(L_01a2a)","　　８","8","8"
-"menu_label__(L_01a34)","　　９","9","9"
-"menu_label__(L_01a3e)","　１０","10","10"
-"narrator","エフェクトウェイト　現在は","Effect weight Currently","Efecto peso Actualmente."
+character,jap text,Eng,Esp
+menu_label__(L_00ed0),エフェクト,effect,efecto
+menu_label__(L_00a8c),ＯＰ実験,OP Experiments,Experimentos OP
+menu_label__(L_00151),ＯＰ実験２,OP Experiment 2,Experimento OP 2.
+menu_label__(L_000cb),文字出るのん,Letter output,teletexto
+menu_label__(L_0192a),ウエイト設定,Weight setting,"el peso (en el boxeo, etc.)"
+menu_label__(L_01a54),さやうなら,good-bye,adiós
+narrator,真っ黒な中に、「大悪司」というのかポツンと。 この時は無音です。で、この状態からＯＰ１が 流れこんできます。そして、ＣＧ表示。,"In the pitch black, there is a pause in the “large Akuji”. At this time, there is no sound. Then, from this state, OP1 comes in. Then, CG is displayed.","En la oscuridad total, hay un bache llamado “Gran Akuji”. En este momento no hay sonido. Entonces, a partir de este estado, el OP1 comienza a entrar. A continuación, se muestra el CG."
+narrator,ＯＰ１が左から右に横スクロール 表示されている絵は中央。,OP1 scrolls horizontally from left to right. The picture displayed is in the center.,OP1 se desplaza horizontalmente de izquierda a derecha La imagen mostrada está en el centro.
+narrator,ＯＰ１が左から右に横スクロール 表示されている絵は中央。,OP1 scrolls horizontally from left to right. The picture displayed is in the center.,OP1 se desplaza horizontalmente de izquierda a derecha La imagen mostrada está en el centro.
+narrator,ＯＰ２が左から右に横スクロール 表示されている絵は中央。,OP2 scrolls horizontally from left to right The picture displayed is in the center.,OP2 se desplaza horizontalmente de izquierda a derecha La imagen mostrada está en el centro.
+narrator,ＯＰ２が左から右に横スクロール 表示されている絵は中央。,OP2 scrolls horizontally from left to right The picture displayed is in the center.,OP2 se desplaza horizontalmente de izquierda a derecha La imagen mostrada está en el centro.
+narrator,ＯＰ３が左から右に横スクロール 表示されている絵は中央。,OP3 scrolls horizontally from left to right The picture displayed is in the center.,OP3 se desplaza horizontalmente de izquierda a derecha La imagen mostrada está en el centro.
+narrator,ＯＰ３が左から右に横スクロール 表示されている絵は中央。,OP3 scrolls horizontally from left to right The picture displayed is in the center.,OP3 se desplaza horizontalmente de izquierda a derecha La imagen mostrada está en el centro.
+narrator,ここスタートして、３人が消えるまで ６枚のＣＧがスクロール。 途中、1656　1657　1658はさまれます。,"Starting here, 6 CGs scroll until the 3 disappear. On the way, 1656 1657 1658 are interrupted.","Comienza aquí, 6 CGs se desplazan hasta que los tres desaparecen. En el camino, 1656 1657 1658 se interrumpen."
+menu_label__(L_00ed0),エフェクト,effect,efecto
+menu_label__(L_011da),　０１,01,01
+menu_label__(L_011fd),　０２,02,02
+menu_label__(L_01220),　０３,03,03
+menu_label__(L_01243),　０４,04,04
+menu_label__(L_01266),　０５,05,05
+menu_label__(L_01289),　０６,06,06
+menu_label__(L_012ac),　０７,07,07
+menu_label__(L_012cf),　０８,08,08
+menu_label__(L_012f2),　０９,09,09
+menu_label__(L_01315),　１０,10,10
+menu_label__(L_01338),　１１,11,11
+menu_label__(L_0135b),　１２,12,12
+menu_label__(L_0137e),　１３,13,13
+menu_label__(L_013a1),　１４,14,14
+menu_label__(L_013c4),　１５,15,15
+menu_label__(L_013e7),　１６,16,16
+menu_label__(L_0140a),　１７,17,17
+menu_label__(L_00fd0),　次,next,siguiente
+menu_label__(L_00fd0),エフェクト,effect,efecto
+menu_label__(L_0142d),　１８,18,18
+menu_label__(L_01450),　１９,19,19
+menu_label__(L_01473),　２０,20,20
+menu_label__(L_01496),　２１,21,21
+menu_label__(L_014b9),　２２,22,22
+menu_label__(L_014dc),　２３,23,23
+menu_label__(L_014ff),　２４,24,24
+menu_label__(L_01522),　２５,25,25
+menu_label__(L_01545),　２６,26,26
+menu_label__(L_01568),２９→２７,29 to 27,29 -> 27
+menu_label__(L_015a2),３０→２８,30 to 28,30 -> 28
+menu_label__(L_015dc),　３１,31,31
+menu_label__(L_015ff),　３２,32,32
+menu_label__(L_01622),　３３,33,33
+menu_label__(L_01645),　３４,34,34
+menu_label__(L_01668),　３５,35,35
+menu_label__(L_0168b),　３６,36,36
+menu_label__(L_010d8),　次,next,siguiente
+menu_label__(L_00fd0),エフェクト,effect,efecto
+menu_label__(L_016ae),　３７,37,37
+menu_label__(L_016d1),　３８,38,38
+menu_label__(L_016f4),　３９,39,39
+menu_label__(L_01717),　４０,40,40
+menu_label__(L_0173a),　４１,41,41
+menu_label__(L_0175d),　４２,42,42
+menu_label__(L_01780),　４３,43,43
+menu_label__(L_017a3),　４４,44,44
+menu_label__(L_017c6),　４５,45,45
+menu_label__(L_017e9),　４６,46,46
+menu_label__(L_0180c),　４７,47,47
+menu_label__(L_0182f),　４８,48,48
+menu_label__(L_01852),　４９,49,49
+menu_label__(L_01875),　５０,50,50
+menu_label__(L_01898),　５１,51,51
+menu_label__(L_018bb),　５２,52,52
+menu_label__(L_018e0),　５３,53,53
+menu_label__(L_01905),　５４,54,54
+menu_label__(L_0192a),ウエイト設定,Weight setting,"el peso (en el boxeo, etc.)"
+menu_label__(L_019da),　　０,0,0
+menu_label__(L_019e4),　　１,1,1
+menu_label__(L_019ee),　　２,2,2
+menu_label__(L_019f8),　　３,3,3
+menu_label__(L_01a02),　　４,4,4
+menu_label__(L_01a0c),　　５,5,5
+menu_label__(L_01a16),　　６,6,6
+menu_label__(L_01a20),　　７,7,7
+menu_label__(L_01a2a),　　８,8,8
+menu_label__(L_01a34),　　９,9,9
+menu_label__(L_01a3e),　１０,10,10
+narrator,エフェクトウェイト　現在は,Effect weight Currently,Efecto peso Actualmente.

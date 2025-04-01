@@ -1,159 +1,159 @@
-"character","jap text","Eng","Esp"
-"__system__??","{麦 = 1:","",""
-"__system__??","{☆麻薬戦争 < 10:","",""
-"__system__??","}","",""
-"__system__??","{☆麻薬戦争 = 11:","",""
-"__system__??","}","",""
-"__system__??","{☆麻薬戦争 = 10:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 3:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 10:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 11:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 13:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 15:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 16:","",""
-"__system__??","}","",""
-"Suteki Ishi (talking)","きへ……けへへ。 ぼ、ぼぼぼ、ボス、呼んだがか？","Kihe…… kehehe. bo bo bo bo, boss, did you call me?","Kihe…… kehe. Bo-Bo-Bo-Bo, jefe, ¿me has llamado?"
-"Yamamoto Akuji (talking)","おう、確かに呼んだが……………… しっかし、相変わらずくせーなお前。","Oh, I sure called you on it, but ……………… But hey, you're still a stinker.","Oh, te llamé, pero ……………… Pero sigues siendo un apestado."
-"Suteki Ishi (talking)","そ、そそ、そんな事ないがよ。 先週、香水も使ったきね。","Oh, no, no, no, no, no, no, no. I used perfume last week.","Sí, sí, no, pero eso no es cierto. Usé perfume la semana pasada."
-"Yamamoto Akuji (talking)","先週って、おめー……","Last week, you're talking about ……","La semana pasada, dices……"
-"Suteki Ishi (talking)","ほれ、くんくん、くんくんくん……
+character,jap text,Eng,Esp
+__system__??,{麦 = 1:,,
+__system__??,{☆麻薬戦争 < 10:,,
+__system__??,},,
+__system__??,{☆麻薬戦争 = 11:,,
+__system__??,},,
+__system__??,{☆麻薬戦争 = 10:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 3:,,
+__system__??,},,
+__system__??,{麦 = 10:,,
+__system__??,},,
+__system__??,{麦 = 11:,,
+__system__??,},,
+__system__??,{麦 = 13:,,
+__system__??,},,
+__system__??,{麦 = 15:,,
+__system__??,},,
+__system__??,{麦 = 16:,,
+__system__??,},,
+Suteki Ishi (talking),きへ……けへへ。 ぼ、ぼぼぼ、ボス、呼んだがか？,"Kihe…… kehehe. bo bo bo bo, boss, did you call me?","Kihe…… kehe. Bo-Bo-Bo-Bo, jefe, ¿me has llamado?"
+Yamamoto Akuji (talking),おう、確かに呼んだが……………… しっかし、相変わらずくせーなお前。,"Oh, I sure called you on it, but ……………… But hey, you're still a stinker.","Oh, te llamé, pero ……………… Pero sigues siendo un apestado."
+Suteki Ishi (talking),そ、そそ、そんな事ないがよ。 先週、香水も使ったきね。,"Oh, no, no, no, no, no, no, no. I used perfume last week.","Sí, sí, no, pero eso no es cierto. Usé perfume la semana pasada."
+Yamamoto Akuji (talking),先週って、おめー……,"Last week, you're talking about ……","La semana pasada, dices……"
+Suteki Ishi (talking),"ほれ、くんくん、くんくんくん……
  ……はあ、うっとりするがよ…… ええ匂いながよ、へけけけけけ……","Here, kun kun kun kun kun ……","Aquí, kun kun kun ……"
-"Yamamoto Akuji (talking)","………………","………………","………………"
-"Suteki Ishi (talking)","で、ボス、おらぁに何の用なが？ 街に麻薬でもばらまくがか？","So, boss, what do you want from me? Are you going to spread drugs in the city?","Entonces, jefe, ¿qué quiere de mí? ¿Vas a propagar las drogas en la ciudad?"
-"Yamamoto Akuji (talking)","せんでいい。","You don't have to do this.","No es necesario."
-"Suteki Ishi (talking)","ほ、ほしたら、んー………………","Ho, ho, ho, hmm ………………","Ho, ho entonces, hmm ………………"
-"Yamamoto Akuji (talking)","もういい、帰れ。臭いから。","That's enough, go home. You stink.","Es suficiente, vete a casa. Apesta."
-"Suteki Ishi (talking)","ひひ……そう言わんともっと話すがよ。 ひけ、へけ、けけけけけけけけけ……","Hihi…… don't say so or I'll tell you more. Hike, heke, heke, heke……","Hihi…… no lo digas, habla más, pero… Hike, heke, heke, heke……"
-"Suteki Ishi (talking)","きけへへへへへへへ。 ぼ、ぼぼぼ、ボス、いい話があるがよ。","Kike heh heh heh heh heh. B-b-b-b-but, boss, I have a good story to tell you.","Kike heh heh heh heh. Bla, bla, bla, jefe, tengo una buena historia que contarte."
-"Yamamoto Akuji (talking)","……おめーがまともな話をするとも 思えねーがな、言ってみな。","…… I don't even think you have a real story to tell, but go ahead and tell it.","…… Ni siquiera creo que estés hablando claro, sólo dilo."
-"Suteki Ishi (talking)","こ、こないだおクスリ作ってたがよ。 そしたら……けけけけけけけ。","I was making some drugs the other day. And then…… Kekekekekekeke.","El otro día estaba haciendo drogas. Entonces fui a…… Kekekekekekeke."
-"narrator","素敵医師は笑いながら、悪司に薬瓶を手渡した。","Suteki Ishi laughed and handed the medicine bottle to Akuji.","Suteki Ishi se rió y le entregó el frasco de medicina a Akuji."
-"Yamamoto Akuji (talking)","俺は麻薬なんぞいらん。","I don't want drugs.","No quiero drogas."
-"Suteki Ishi (talking)","ま、麻薬と違うがよ。 素敵医師印のパワーアップ薬なが。
+Yamamoto Akuji (talking),………………,………………,………………
+Suteki Ishi (talking),で、ボス、おらぁに何の用なが？ 街に麻薬でもばらまくがか？,"So, boss, what do you want from me? Are you going to spread drugs in the city?","Entonces, jefe, ¿qué quiere de mí? ¿Vas a propagar las drogas en la ciudad?"
+Yamamoto Akuji (talking),せんでいい。,You don't have to do this.,No es necesario.
+Suteki Ishi (talking),ほ、ほしたら、んー………………,"Ho, ho, ho, hmm ………………","Ho, ho entonces, hmm ………………"
+Yamamoto Akuji (talking),もういい、帰れ。臭いから。,"That's enough, go home. You stink.","Es suficiente, vete a casa. Apesta."
+Suteki Ishi (talking),ひひ……そう言わんともっと話すがよ。 ひけ、へけ、けけけけけけけけけ……,"Hihi…… don't say so or I'll tell you more. Hike, heke, heke, heke……","Hihi…… no lo digas, habla más, pero… Hike, heke, heke, heke……"
+Suteki Ishi (talking),きけへへへへへへへ。 ぼ、ぼぼぼ、ボス、いい話があるがよ。,"Kike heh heh heh heh heh. B-b-b-b-but, boss, I have a good story to tell you.","Kike heh heh heh heh. Bla, bla, bla, jefe, tengo una buena historia que contarte."
+Yamamoto Akuji (talking),……おめーがまともな話をするとも 思えねーがな、言ってみな。,"…… I don't even think you have a real story to tell, but go ahead and tell it.","…… Ni siquiera creo que estés hablando claro, sólo dilo."
+Suteki Ishi (talking),こ、こないだおクスリ作ってたがよ。 そしたら……けけけけけけけ。,I was making some drugs the other day. And then…… Kekekekekekeke.,El otro día estaba haciendo drogas. Entonces fui a…… Kekekekekekeke.
+narrator,素敵医師は笑いながら、悪司に薬瓶を手渡した。,Suteki Ishi laughed and handed the medicine bottle to Akuji.,Suteki Ishi se rió y le entregó el frasco de medicina a Akuji.
+Yamamoto Akuji (talking),俺は麻薬なんぞいらん。,I don't want drugs.,No quiero drogas.
+Suteki Ishi (talking),"ま、麻薬と違うがよ。 素敵医師印のパワーアップ薬なが。
 こ、ここ、これさえ飲めば気力は倍、 体力三倍、攻撃力五倍の効果があるがよ。
  ……へけけ、計算上は。","It's not a drug, though. It's a power-up potion marked Suteki Ishi.
 If you take this, it will double your energy, triple your strength, and multiply your attack power by five.
  ……Hekeke, in terms of calculation.","Sin embargo, no es lo mismo que las drogas. Es una droga potenciadora marcada como Suteki Ishi.
 Aquí, aquí, si bebes esto, duplicará tu energía, triplicará tu fuerza y multiplicará tu poder de ataque por cinco.
  ……Hekeke, en términos de cálculo."
-"Yamamoto Akuji (talking)","うさんくせー。","It's fishy.","Pescado."
-"Suteki Ishi (talking)","そそ、そう言わずに試してみるがよ。 プレゼントやきね、タダやきね。","Don't say that and give it a try. It's a gift-yaki, or a free-yaki.","No lo digas, pero inténtalo. Es un yaki de regalo, es un yaki gratis."
-"Yamamoto Akuji (talking)","まあ、一応貰っとくけどよ。","Well, I'll take one.","Bueno, tomaré uno."
-"Yamamoto Akuji (thinking)","でも、言うとおりならすげーな。 自分が使うにゃちとアレだが……
+Yamamoto Akuji (talking),うさんくせー。,It's fishy.,Pescado.
+Suteki Ishi (talking),そそ、そう言わずに試してみるがよ。 プレゼントやきね、タダやきね。,"Don't say that and give it a try. It's a gift-yaki, or a free-yaki.","No lo digas, pero inténtalo. Es un yaki de regalo, es un yaki gratis."
+Yamamoto Akuji (talking),まあ、一応貰っとくけどよ。,"Well, I'll take one.","Bueno, tomaré uno."
+Yamamoto Akuji (thinking),"でも、言うとおりならすげーな。 自分が使うにゃちとアレだが……
 いずれ、誰か適当な奴に飲ませてみるか。","But if you're right, that's awesome. It's a little too much for my own use, but ……
 I'll have to give it to someone else at some point.","Pero si tienes razón, es genial. Es demasiado para mí……
 Se lo daré a alguien más en algún momento."
-"__system__??","{I装備[12] = 99:","",""
-"Suteki Ishi (talking)","…………あ、あああ……ぼ、ボス、 もう一つ用があるき、忘れよったがよ。","………… Oh, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah,…… Boss, I have one more thing to do, I forgot.","………… ah ah ah…… bo, jefe, tengo una cosa más que hacer, se me olvidó."
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"Suteki Ishi (talking)","き、きへへへ…… こ、ここ、これもあげるきね。
+__system__??,{I装備[12] = 99:,,
+Suteki Ishi (talking),…………あ、あああ……ぼ、ボス、 もう一つ用があるき、忘れよったがよ。,"………… Oh, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah,…… Boss, I have one more thing to do, I forgot.","………… ah ah ah…… bo, jefe, tengo una cosa más que hacer, se me olvidó."
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+Suteki Ishi (talking),"き、きへへへ…… こ、ここ、これもあげるきね。
  “素質のオカリナ”ちゅうがよ。 なかなか便利ながよ？　きへへ……","Ki-heh-heh-heh…… Ko-ko, ko-ko, I'll give you this one too.
 It's called “Ocarina of the qualities”. It's quite useful, isn't it?　Kihehehe……","Ki-heh-heh-heh…… Ko-ko, ko-ko, te daré este también.
 Se llama “Ocarina de Cualidades”. Es bastante útil, ¿no?　Kihehehe……"
-"Yamamoto Akuji (talking)","へー、まともなモンも持ってんだな。 遠慮なく貰っとくぜ。","Wow, you have some decent stuff. I'll take it without reservation.","Wow, tienes algunas cosas decentes. Lo acepto sin reservas."
-"Suteki Ishi (talking)","き、きへへ…… ぼ、ボス、そのオカリナ、 ここで吹いてくれんがか？","Ki, ki hehe…… Boss, that ocarina, can you play it here?","Ki, ki jeje…… Jefe, esa ocarina, ¿puedes tocarla aquí?"
-"Yamamoto Akuji (talking)","は？","Huh?","¿Ja?"
-"Suteki Ishi (talking)","く、くくく、口つけて、 ぶひーって吹い……いや、 吸って、けへへ……","Put your mouth on it and blow on it…… No, suck on it, kehehehehe ……","Pon tu boca en ella y sopla…… No, chúpala, kehehehe ……"
-"Yamamoto Akuji (talking)","………さては何か仕込んでんな、てめー。 クスリとかクスリとかクスリとか。","……… Well, you're planting something, dude. Drugs, drugs, drugs, drugs.","……… Bueno, has plantado algo, bastardo. Drogas, drogas, drogas, drogas."
-"Suteki Ishi (talking)","…………べ、べべ、 別に何もしちょらんがよ？","………… bebe, bebe, I didn't do anything wrong, okay?","………… bebe, bebe, no he hecho nada, ¿verdad?"
-"Yamamoto Akuji (thinking)","…………念入りに洗って日向で干して 消毒してから使うことにしよう……","………… I'll wash it carefully, dry it in the sun, and disinfect it before I use it……","………… Lávese con cuidado, séquese al sol y desinféctese antes de usarla……"
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","おい、ドグサレ医者。","Hey, doggsale doctor.","Hola, doctor Dogusare."
-"Suteki Ishi (talking)","へ……けへへ？ ひへ……は、ぼ、ぼぼ、ボスやないがか。","Hehe…… kehehe? Hi hehe…… is not bo, bo, bo, boss, is it?","Hehe…… kehehe? Hihe…… no es bo, bo, bo, jefe, ¿verdad?"
-"Yamamoto Akuji (talking)","おう、ちとおめーに用があるんだがな。","Oh, I've got some business with you.","Oh, tengo un pequeño negocio con usted."
-"Suteki Ishi (talking)","へけ……へけけけけ。 けけけけけ……
+Yamamoto Akuji (talking),へー、まともなモンも持ってんだな。 遠慮なく貰っとくぜ。,"Wow, you have some decent stuff. I'll take it without reservation.","Wow, tienes algunas cosas decentes. Lo acepto sin reservas."
+Suteki Ishi (talking),き、きへへ…… ぼ、ボス、そのオカリナ、 ここで吹いてくれんがか？,"Ki, ki hehe…… Boss, that ocarina, can you play it here?","Ki, ki jeje…… Jefe, esa ocarina, ¿puedes tocarla aquí?"
+Yamamoto Akuji (talking),は？,Huh?,¿Ja?
+Suteki Ishi (talking),く、くくく、口つけて、 ぶひーって吹い……いや、 吸って、けへへ……,"Put your mouth on it and blow on it…… No, suck on it, kehehehehe ……","Pon tu boca en ella y sopla…… No, chúpala, kehehehe ……"
+Yamamoto Akuji (talking),………さては何か仕込んでんな、てめー。 クスリとかクスリとかクスリとか。,"……… Well, you're planting something, dude. Drugs, drugs, drugs, drugs.","……… Bueno, has plantado algo, bastardo. Drogas, drogas, drogas, drogas."
+Suteki Ishi (talking),…………べ、べべ、 別に何もしちょらんがよ？,"………… bebe, bebe, I didn't do anything wrong, okay?","………… bebe, bebe, no he hecho nada, ¿verdad?"
+Yamamoto Akuji (thinking),…………念入りに洗って日向で干して 消毒してから使うことにしよう……,"………… I'll wash it carefully, dry it in the sun, and disinfect it before I use it……","………… Lávese con cuidado, séquese al sol y desinféctese antes de usarla……"
+__system__??,},,
+Yamamoto Akuji (talking),おい、ドグサレ医者。,"Hey, doggsale doctor.","Hola, doctor Dogusare."
+Suteki Ishi (talking),へ……けへへ？ ひへ……は、ぼ、ぼぼ、ボスやないがか。,"Hehe…… kehehe? Hi hehe…… is not bo, bo, bo, boss, is it?","Hehe…… kehehe? Hihe…… no es bo, bo, bo, jefe, ¿verdad?"
+Yamamoto Akuji (talking),おう、ちとおめーに用があるんだがな。,"Oh, I've got some business with you.","Oh, tengo un pequeño negocio con usted."
+Suteki Ishi (talking),"へけ……へけけけけ。 けけけけけ……
 よ、用ながか、おらぁに用ながか。 けらけらけらけら…………","Heke…… Heke. Heh heh heh heh ……
 Yo, what's up, what's up for Ola? Kerakerakerakera…………","Heke…… Heke. Heke……
 Yo, ¿qué quieres, qué quieres para Olaa? Kerakerakera…………"
-"Yamamoto Akuji (talking)","…………意味もなく笑うなボケ。","………… Don't laugh for no reason, bozo.","………… No te rías sin motivo, tío."
-"Yamamoto Akuji (talking)","ほれ、特別ボーナス。","See, special bonus.","Ves, bonos especiales."
-"Suteki Ishi (talking)","ひ、ひへ……？ こんなにくれるがか？
+Yamamoto Akuji (talking),…………意味もなく笑うなボケ。,"………… Don't laugh for no reason, bozo.","………… No te rías sin motivo, tío."
+Yamamoto Akuji (talking),ほれ、特別ボーナス。,"See, special bonus.","Ves, bonos especiales."
+Suteki Ishi (talking),"ひ、ひへ……？ こんなにくれるがか？
 けけけ……嬉しいがよ、 これだけあったら秘密の芥子畑が 倍の広さになるが……","Hi, hi……? You give me this much?
 I'm happy ……, but if I had this much, my secret mustard field would be twice as big……","Hola, hola. ¿……? ¿Me das esta cantidad?
 Soy feliz ……, pero si tuviera esta cantidad, mi campo de mostaza secreto sería el doble de grande……"
-"Yamamoto Akuji (talking)","芥子畑ぇ？ どこにあんだよそんなもん。","Mustard field? Where the hell is that?","¿Campos de amapolas? ¿Dónde diablos está eso?"
-"Suteki Ishi (talking)","ナイショながよ、 プライベートの趣味やきね。 ひけけけけ……","It's a secret, private hobby of mine. Hikekekeke……","Es una afición secreta y privada. Hikekeke……"
-"Yamamoto Akuji (talking)","趣味で芥子を育てんなよ、芥子を……","Don't grow mustard as a hobby, don't grow mustard……","No cultives mostaza como hobby, no cultives mostaza……"
-"Suteki Ishi (talking)","た、大麻やキノコの方がええがか？","Marijuana and mushrooms are better?","¿Prefieres comer cannabis o setas?"
-"Yamamoto Akuji (talking)","やめい。","Stop.","Para."
-"Yamamoto Akuji (talking)","さーて、あのヤク中クサレ医者、 房の中で腐ってなきゃいいが。
+Yamamoto Akuji (talking),芥子畑ぇ？ どこにあんだよそんなもん。,Mustard field? Where the hell is that?,¿Campos de amapolas? ¿Dónde diablos está eso?
+Suteki Ishi (talking),ナイショながよ、 プライベートの趣味やきね。 ひけけけけ……,"It's a secret, private hobby of mine. Hikekekeke……",Es una afición secreta y privada. Hikekeke……
+Yamamoto Akuji (talking),趣味で芥子を育てんなよ、芥子を……,"Don't grow mustard as a hobby, don't grow mustard……","No cultives mostaza como hobby, no cultives mostaza……"
+Suteki Ishi (talking),た、大麻やキノコの方がええがか？,Marijuana and mushrooms are better?,¿Prefieres comer cannabis o setas?
+Yamamoto Akuji (talking),やめい。,Stop.,Para.
+Yamamoto Akuji (talking),"さーて、あのヤク中クサレ医者、 房の中で腐ってなきゃいいが。
  ……おーい医者、生きてるか？ 入るぞー。","Well, I hope that junkie doctor isn't rotting in his cell.…… Hey doctor, are you alive? I'm coming in.","Ahora, esperemos que ese médico drogadicto no se esté pudriendo en su celda.…… Hola, doctor, ¿está usted vivo? Voy a entrar."
-"Suteki Ishi (talking)","き、きへへへ……きへへへ………… へけけけけけけけけけけけけけけ……","Ki, Ki Heh Heh Heh…… Ki Heh Heh Heh Heh………… Heh Heh Heh Heh Heh Heh Heh Heh Heh Heh Heh Heh Heh ……","Ki, Ki He He…… Ki He He………… He He He He ……"
-"Yamamoto Akuji (talking)","……何笑ってんだ、てめー。","…… What are you laughing at, dude?","…… ¿De qué te ríes, tío?"
-"Suteki Ishi (talking)","き、ききき、きき……禁断症状やき……
+Suteki Ishi (talking),き、きへへへ……きへへへ………… へけけけけけけけけけけけけけけ……,"Ki, Ki Heh Heh Heh…… Ki Heh Heh Heh Heh………… Heh Heh Heh Heh Heh Heh Heh Heh Heh Heh Heh Heh Heh ……","Ki, Ki He He…… Ki He He………… He He He He ……"
+Yamamoto Akuji (talking),……何笑ってんだ、てめー。,"…… What are you laughing at, dude?","…… ¿De qué te ríes, tío?"
+Suteki Ishi (talking),"き、ききき、きき……禁断症状やき……
 こ、こここここここ、ここ来て…… い、いいいいい一回も おクスリ打ってないき……","Come here, come here, come here, come here…… No, no, no, I haven't taken a single pill ……","Ven aquí, ven aquí, ven aquí, ven aquí…… No, no, no, no he tomado ni una sola pastilla……"
-"Yamamoto Akuji (talking)","あっそ。","Oh, yeah.","Ah, sí."
-"Suteki Ishi (talking)","へ、へゃはへへへ……いへへへ………… ひえひえひえひえひえひえっ……","Hehe, hey hehehe… ihehehe… aaah hee hee hee hee…","Hehe, hey hehehe… ihehehe… aaah hee hee hee hee…"
-"Yamamoto Akuji (talking)","……何かムカつく。","…… something pisses me off.","…… Algo me cabrea."
-"Suteki Ishi (talking)","ひ、ひへ………………ひへ……
+Yamamoto Akuji (talking),あっそ。,"Oh, yeah.","Ah, sí."
+Suteki Ishi (talking),へ、へゃはへへへ……いへへへ………… ひえひえひえひえひえひえっ……,"Hehe, hey hehehe… ihehehe… aaah hee hee hee hee…","Hehe, hey hehehe… ihehehe… aaah hee hee hee hee…"
+Yamamoto Akuji (talking),……何かムカつく。,…… something pisses me off.,…… Algo me cabrea.
+Suteki Ishi (talking),"ひ、ひへ………………ひへ……
 か、あひゃら……あひゃらほひぇ……
 く、くく、くく、おく、くく………くく、 くっ、クスリ、くれ、くれくれく、く……","Hi, hihe……………… hihe……
 Ka, ahiyara…… ahiyarahohihee……
 Kuku, kuku, kuku, oku, kuku……… kuku, kuku, kusu, kusu, give me, give me, kuku, kuku……","Hola, hihe……………… hihe……
 Ka, ahiyara…… ahiyarahohihee……
 Kuku, kuku, kuku, oku, kuku……… kuku, kuku, kusu, kusu, dame, dame, kuku, kuku……"
-"Yamamoto Akuji (talking)","やらん。","I won't do it.","No lo haré."
-"Suteki Ishi (talking)","ひひゃへーーーーーーーーーー！！！！","Hihiyahheeeeeeeeeee！！！！","¡¡¡¡Hihiyahheeeeeeeeeee！！！！"
-"Yamamoto Akuji (talking)","……さっさと始末しよーかな、こいつ。 くせぇし。","……I think I'll get rid of it quickly, this guy. It's a shame.","……Creo que me desharé de eso rápidamente, este tipo. Es una pena."
-"Suteki Ishi (talking)","くっ、くく、臭いが言うなーーーー！！","Ku~、kuku、 don't you dare smell it!","¡Ku~、kuku、 no me digas que apesta!"
-"Yamamoto Akuji (talking)","黙れ中毒。","Shut up addict.","Calla la adicto."
-"Yamamoto Akuji (talking)","おい、クサレ医者。まだ生きてるか？","Hey, cussed doctor. You still alive?","Hey, doctor maleducado. ¿Sigues vivo?"
-"Suteki Ishi (talking)","ひ、ひえ……ひへへへへ。 ひええええええっへっへへへへへへ……
+Yamamoto Akuji (talking),やらん。,I won't do it.,No lo haré.
+Suteki Ishi (talking),ひひゃへーーーーーーーーーー！！！！,Hihiyahheeeeeeeeeee！！！！,¡¡¡¡Hihiyahheeeeeeeeeee！！！！
+Yamamoto Akuji (talking),……さっさと始末しよーかな、こいつ。 くせぇし。,"……I think I'll get rid of it quickly, this guy. It's a shame.","……Creo que me desharé de eso rápidamente, este tipo. Es una pena."
+Suteki Ishi (talking),くっ、くく、臭いが言うなーーーー！！,Ku~、kuku、 don't you dare smell it!,¡Ku~、kuku、 no me digas que apesta!
+Yamamoto Akuji (talking),黙れ中毒。,Shut up addict.,Calla la adicto.
+Yamamoto Akuji (talking),おい、クサレ医者。まだ生きてるか？,"Hey, cussed doctor. You still alive?","Hey, doctor maleducado. ¿Sigues vivo?"
+Suteki Ishi (talking),"ひ、ひえ……ひへへへへ。 ひええええええっへっへへへへへへ……
 ひえーっ、ひ、ひひ、ヒエエーーーーッ！ ヒャアァーーーーッハハハハハハ！！ ヒーッ、ヒーッ、ヒーッ、ヒーーーー！！","Hi、hie……hihehehehe。 hieeeeee~he~hehehehehehe……
 Hiee~、hi、hihi、hieeeeee~！ hiyahaahaaaa~hahahahahaha！！ hii~、hii~、hii~、hiiiii！！","Hi、hie……hihehehehe。 hieeeeee~he~hehehehehehe……
 ¡Hiee~、hi、hihi、hieeeeee~！ ¡¡hiyahaahaaaa~hahahahahaha！！ ¡¡hii~、hii~、hii~、hiiiii！！"
-"Yamamoto Akuji (talking)","………………","………………","………………"
-"Suteki Ishi (talking)","ひやーっはっはっはっはっはっはっは！ ひーこひーこひーひひーひーヒー！！
+Yamamoto Akuji (talking),………………,………………,………………
+Suteki Ishi (talking),"ひやーっはっはっはっはっはっはっは！ ひーこひーこひーひひーひーヒー！！
 ……ひえっへっへっへっへヘハーーー！ うひゃへひゃひゃははははははは！
 げらげらげらげらげらげらげらげらげら げらげらげらげらげらげらげらげらげら げらげらげらげらげらげらげらげらげら…","Hiyaa~ha~ha~ha~ha~ha~ha~ha！ hiikohiikohiihihiihiihii！！
 ……hie~he~he~he~hehehaaaa！ uhiyahhehiyahhiyahhahahahahahaha
 Geragerageragerageragerageragera geragerageragerageragerageragera geragerageragerageragerageragera…","¡Hiyaa~ha~ha~ha~ha~ha~！ ¡¡hiikohiikohiihihiihiihii！！
 ¡……hie~he~he~he~hehehaa！ uhiyahhehiyahhiyahhahahahaha
 Geragerageragerageragerageragera geragerageragerageragerageragera geragerageragerageragerageragera…"
-"Yamamoto Akuji (talking)","本気でやばい奴だな、こいつ……","He's a seriously bad guy……","Es un tipo muy malo……"
-"Yamamoto Akuji (talking)","まあ、こんなヤク中野郎でも そこそこ使えりゃ文句ないんだが…
+Yamamoto Akuji (talking),本気でやばい奴だな、こいつ……,He's a seriously bad guy……,Es un tipo muy malo……
+Yamamoto Akuji (talking),"まあ、こんなヤク中野郎でも そこそこ使えりゃ文句ないんだが…
 なあ、俺の部下にならねーか？","Well, I don't blame you if you're useful, even if you are a junkie.
 Hey, you wanna work for me?","Bueno, yo no tendría problemas con un drogadicto como él, siempre y cuando sea útil.
  ¿Quieres ser mi hombre?"
-"Suteki Ishi (talking)","きけへへへへへへへへ……
+Suteki Ishi (talking),"きけへへへへへへへへ……
 ひへ、ひへへへへ…… ほへはへほへひへふへ…………
  ………………はへぇ…………","Kike hehe hehe hehe hehe ……
 Hee, hee hee hee hee…… hee hee hee hee hee hee hee hee hee hee hee hee ………………………… heh heh heh heh……… …","Kike jejejejejeje ……
 Hee, hee hee hee…… hee hee hee hee hee hee ………………………… jejejeje……… …"
-"Yamamoto Akuji (talking)","まるで聞いちゃいねーよこの馬鹿……","I ain't even listening to you, you idiot……","No te escucho como si lo hicieras, idiota……"
-"Yamamoto Akuji (talking)","どーせ頭イッちまってっから 言ってる意味わかんねぇかもしれねーが。
- ……おめー、俺の部下になるか？","You may not understand what I'm saying because you've lost your mind anyway.…… You want to be my man?","Puede que no entiendas lo que digo, porque de todas formas estás loco.…… ¿Quieres ser mi hombre?"
-"Suteki Ishi (talking)","きけへへへへへへへへ…… もちろんなるがよ、きへへ……","Kikehehehehehehehehe…… Of course you will, Kikehehehehe ……","Kikehehehehehehehehe…… Por supuesto que sí, Kihehehehehe ……"
-"Yamamoto Akuji (talking)","げ。マジかおめー。","Geez. Seriously?","Gue. ¿En serio?"
-"Suteki Ishi (talking)","うわーいうわーいうわーい。 けへへへへ、きへへへへへへ。
+Yamamoto Akuji (talking),まるで聞いちゃいねーよこの馬鹿……,"I ain't even listening to you, you idiot……","No te escucho como si lo hicieras, idiota……"
+Yamamoto Akuji (talking),"どーせ頭イッちまってっから 言ってる意味わかんねぇかもしれねーが。
+ ……おめー、俺の部下になるか？",You may not understand what I'm saying because you've lost your mind anyway.…… You want to be my man?,"Puede que no entiendas lo que digo, porque de todas formas estás loco.…… ¿Quieres ser mi hombre?"
+Suteki Ishi (talking),きけへへへへへへへへ…… もちろんなるがよ、きへへ……,"Kikehehehehehehehehe…… Of course you will, Kikehehehehe ……","Kikehehehehehehehehe…… Por supuesto que sí, Kihehehehehe ……"
+Yamamoto Akuji (talking),げ。マジかおめー。,Geez. Seriously?,Gue. ¿En serio?
+Suteki Ishi (talking),"うわーいうわーいうわーい。 けへへへへ、きへへへへへへ。
 部下ーぶかーブカーぶかぶかー。 ひえっへっへっへっへ…………","Woah woah woah woah. Kehehehehe, kehehehehehe.
 Subordinate - buka buka buka buka buka buka. Hee hee hee hee …………","Woah woah woah woah woah. Kehehehehe, kehehehehehe.
 Subordinado - buka buka buka buka. Hee hee hee hee …………"
-"Yamamoto Akuji (talking)","……………… やっぱ今のなし、冗談。","……………… I knew it, no now, kidding.","……………… Lo sabía, no ahora, broma."
-"Suteki Ishi (talking)","ボスーボスボスー。ひへへへ…… おらぁ、おまぁのために働きまくるがよ。 ケケケケケケ……","Bosu bosu bosu. Hehehehehehe…… I'm gonna work hard for you, but I'm gonna work hard for you, but I'm gonna work hard for you, but I'm gonna work hard for you. Kekekekekekekeke……","Bosu bosu bosu. Hehehehe…… Ola, voy a trabajar para ti, pero voy a trabajar para ti."
-"Yamamoto Akuji (talking)","……だ、抱きつくな、 く、くく……臭ぇ、死ぬ………………","It's ……, don't cuddle, kuku, kuku…… stinks, you'll die ………………","…No me abraces, k-kuk…apesta, moriré……"
-"Suteki Ishi (talking)","ぶかー部下ー……ぶかブカブカブカー！ ケーッケッケッケッケッケッケッケ！！
+Yamamoto Akuji (talking),……………… やっぱ今のなし、冗談。,"……………… I knew it, no now, kidding.","……………… Lo sabía, no ahora, broma."
+Suteki Ishi (talking),ボスーボスボスー。ひへへへ…… おらぁ、おまぁのために働きまくるがよ。 ケケケケケケ……,"Bosu bosu bosu. Hehehehehehe…… I'm gonna work hard for you, but I'm gonna work hard for you, but I'm gonna work hard for you, but I'm gonna work hard for you. Kekekekekekekeke……","Bosu bosu bosu. Hehehehe…… Ola, voy a trabajar para ti, pero voy a trabajar para ti."
+Yamamoto Akuji (talking),……だ、抱きつくな、 く、くく……臭ぇ、死ぬ………………,"It's ……, don't cuddle, kuku, kuku…… stinks, you'll die ………………","…No me abraces, k-kuk…apesta, moriré……"
+Suteki Ishi (talking),"ぶかー部下ー……ぶかブカブカブカー！ ケーッケッケッケッケッケッケッケ！！
 ひょーあへーひんべがばくくぶろいえく きらかりゃじゃかさへぁだおいきゅかく もけーーーーーーーーーーーーーッ！！","Stupid subordinate ……bukabukabukabukaa！ kee~ke~ke~ke~ke~ke~ke~ke！！
 Hiyohoaheehinbegabakukuburoieku kirakariyahjiyahkasaheahdaoikiyuhka mokeeeeeeeeeeeeee~！！","Subordinado estúpido ……bukabukabukabukaa！ kee~ke~ke~ke~ke~ke~ke~ke！！
 Hiyohoaheehinbegabakukuburoieku kirakariyahjiyahkasaheahdaoikiyuhka mokeeeeeeeeeeeeee~！！"
-"Yamamoto Akuji (talking)","あーーーーるせーーーーくせーーーー！！ 解った、部下にするから離れろボケェ！！","Aaaaa ceeeeertain haaaaabiiiiit!! Got it, but I'll make you my subordinate, so get away, you idiot!!","¡¡Unaaaaa ciertaaaaa costuuuuumbreeeee!! Lo entiendo, pero te convertiré en mi subordinado, así que ¡¡aléjate, idiota!!"
-"narrator","こうして、素敵医師が仲間になってしまった……","Thus, Suteki Ishi has become one of us……","Así es como Suteki Ishi se convirtió en uno de nosotros……"
-"Suteki Ishi (talking)","けへ……けへへへへへへへへへへへ。 ひへ、はへ、ひゃへへへへへへ。
+Yamamoto Akuji (talking),あーーーーるせーーーーくせーーーー！！ 解った、部下にするから離れろボケェ！！,"Aaaaa ceeeeertain haaaaabiiiiit!! Got it, but I'll make you my subordinate, so get away, you idiot!!","¡¡Unaaaaa ciertaaaaa costuuuuumbreeeee!! Lo entiendo, pero te convertiré en mi subordinado, así que ¡¡aléjate, idiota!!"
+narrator,こうして、素敵医師が仲間になってしまった……,"Thus, Suteki Ishi has become one of us……",Así es como Suteki Ishi se convirtió en uno de nosotros……
+Suteki Ishi (talking),"けへ……けへへへへへへへへへへへ。 ひへ、はへ、ひゃへへへへへへ。
 こりゃええが、こりゃええがよ。 権力万々歳ながね…… こんだけあったら何でもできゆうがよ。","Kehe……kehehehehehehehehehehehe。 hihe、hahe、hiyahhehehehehehe。
 Koriyaheega、koriyaheegayo。 I'm all for power…… If I had that much, I could do anything I wanted.","Kehe……kehehehehehehehehehehehe。 hihe、hahe、hiyahhehehehehehe。
 Koriyaheega、koriyaheegayo。 Todo el poder…… Si tienes tanto, puedes hacer lo que quieras."
-"narrator","──呟く素敵医師の眼前には、 大量の札束が山と積み上げられていた。
+narrator,"──呟く素敵医師の眼前には、 大量の札束が山と積み上げられていた。
 現在の支配地域を少しばかり脅して納めさせた 民間からの寄付金である。","─ ─ In front of the eyes of Suteki Ishi, who was muttering to himself, there was a large pile of bills.
 They were donations from private citizens who had been slightly intimidated into paying up in the areas they currently control.","─ ─ Frente a los ojos murmuradores de Suteki Ishi, se apilaba una enorme pila de notas.
 Se trata de donaciones del sector privado, que han sido pagadas mediante una ligera intimidación en las zonas actualmente bajo su control."
-"Suteki Ishi (talking)","さすがオオサカ、 天下の台所ゆうだけはあるがよ。 みんな金いっぱい持っちゅう……
+Suteki Ishi (talking),"さすがオオサカ、 天下の台所ゆうだけはあるがよ。 みんな金いっぱい持っちゅう……
 んー、んーんーんー…… この金使うて何すりゃええがやろ……
 とりあえず、んー…… クスリ作ってー、クスリ作ってー、 んー、その後は何に使うたらええがやろ…
 おおー、そうなが、そうなが。 クスリ作るがよ、クスリ。
@@ -172,31 +172,31 @@ Oh, sí, sí, sí. Haz que las drogas, las drogas.
 Y luego usar el dinero extra para fabricar drogas.
 Buena idea, buena idea. Kihe, kihe, kihe, kihe, kihe, kihe, …………
 ……dekao。deekaaooooooo~。 Si estás en el barrio, ven aquí…"
-"Dekao (talking)","……あ。 せンせえ、お、おれ、呼ンだ？","…… Oh. I'm sorry, I'm, I'm calling?","…… Ah. Se-ve, oh, yo, ¿me llamas?"
-"Suteki Ishi (talking)","おお、呼んだがよ。 元組長のあの女連れて来とおせ。","Oh, I called for you. Bring that woman, the ex-gumi leader.","Oh, te he llamado. Trae a esa mujer, la antigua jefa de la banda."
-"Dekao (talking)","……なンで？","…… why?","…… ¿Por qué?"
-"Suteki Ishi (talking)","今な、先生いーっぱいお金持っちょるき、 高い材料いっぱい買うてクスリ作るがよ。
+Dekao (talking),……あ。 せンせえ、お、おれ、呼ンだ？,"…… Oh. I'm sorry, I'm, I'm calling?","…… Ah. Se-ve, oh, yo, ¿me llamas?"
+Suteki Ishi (talking),おお、呼んだがよ。 元組長のあの女連れて来とおせ。,"Oh, I called for you. Bring that woman, the ex-gumi leader.","Oh, te he llamado. Trae a esa mujer, la antigua jefa de la banda."
+Dekao (talking),……なンで？,…… why?,…… ¿Por qué?
+Suteki Ishi (talking),"今な、先生いーっぱいお金持っちょるき、 高い材料いっぱい買うてクスリ作るがよ。
  ……で、実はもうここに テスト用のアンプルも作っちゅうがよ。
 量産する前に、元組長でテストするが。 ほんで、元組長連れてきて欲しいがよ。","Right now, the doctor has a lot of money to buy expensive materials to make drugs.
 I've already made some ampules for testing at …….
 Before mass-producing them, we will test them on the ex-gumi leader. And I want you to bring the ex-gumi leader here.","En este momento, el médico tiene mucho dinero, así que compra muchos materiales caros para fabricar medicamentos.
 Ya he hecho ampollas de prueba aquí en …….
 Antes de producirlos en masa, los probaremos en el antiguo jefe de la banda. Y quiero que traigas al ex líder de la banda contigo."
-"Dekao (talking)","いや。","Nope.","No."
-"Suteki Ishi (talking)","デカオ……先生の言うこと聞けんがか？","Dekao…… can't you listen to your teacher?","¿No puedes escuchar a tu profesor?"
-"Dekao (talking)","あ、あれ、お、おれのおンな。 大事、だいじー。","Oh, that, that's my onna. Important, important.","Oh, eso, eso, eso es mi onna. Importante, importante."
-"Suteki Ishi (talking)","何ね……そがい気に入っちゅうがか。 んー、しょんないがね……
+Dekao (talking),いや。,Nope.,No.
+Suteki Ishi (talking),デカオ……先生の言うこと聞けんがか？,Dekao…… can't you listen to your teacher?,¿No puedes escuchar a tu profesor?
+Dekao (talking),あ、あれ、お、おれのおンな。 大事、だいじー。,"Oh, that, that's my onna. Important, important.","Oh, eso, eso, eso es mi onna. Importante, importante."
+Suteki Ishi (talking),"何ね……そがい気に入っちゅうがか。 んー、しょんないがね……
  ……お。 これ、そこ行くチンピラ。 こっち来るがよ。","What is it…… that you like so much? Well, I can't help it……
  ……Oh. Here, you go, punk. Come here.","¿Qué es lo que te gusta de ……? Bueno, no puedo evitarlo………… Oh. Aquí tienes, gamberro. Ven aquí."
-"Chinpira (talking)","へっ？　あっしのことですかい？","Huh?　Are you talking about me?","¿Eh?　¿Estás hablando de mí?"
-"Suteki Ishi (talking)","組長命令ながよ。 十秒だけ目閉じて黙るが。","The boss has given me an order. I'll close my eyes and be quiet for 10 seconds.","El jefe te ha dado una orden. Cierra los ojos durante diez segundos y cállate."
-"Chinpira (talking)","へ、へえ、別に構いやせんが ……これでいいんですかい？","Heh, heh, I don't mind, but…… is this okay?","Je, je, no me importa si no lo haces…… ¿Está bien?"
-"narrator","　　［……ぷすっ］","[…… psst]","[…… psst]"
-"Chinpira (talking)","いっ……痛えっ！ く、首筋に何か刺さったあっ！","I've been on ……! I got something in my neck!","¡He estado en ……! ¡Algo se me ha atascado en el cuello!"
-"Suteki Ishi (talking)","痛いだけながか？ 迫り来るエクスタシーとかないがか？","Just pain? No oncoming ecstasy?","¿Sólo dolor? ¿No hay un éxtasis próximo ni nada parecido?"
-"Chinpira (talking)","え、えくすた……何ですかい？","Eh, Ekusuta…… what is it?","Eh, Ekusuta…… ¿Qué es?"
-"Suteki Ishi (talking)","ん~、配合に失敗しちゅうがか……？","Hmmm…maybe the formula is failing……?","Hmmm… una fórmula fallida……?"
-"Chinpira (talking)","………………
+Chinpira (talking),へっ？　あっしのことですかい？,Huh?　Are you talking about me?,¿Eh?　¿Estás hablando de mí?
+Suteki Ishi (talking),組長命令ながよ。 十秒だけ目閉じて黙るが。,The boss has given me an order. I'll close my eyes and be quiet for 10 seconds.,El jefe te ha dado una orden. Cierra los ojos durante diez segundos y cállate.
+Chinpira (talking),へ、へえ、別に構いやせんが ……これでいいんですかい？,"Heh, heh, I don't mind, but…… is this okay?","Je, je, no me importa si no lo haces…… ¿Está bien?"
+narrator,　　［……ぷすっ］,[…… psst],[…… psst]
+Chinpira (talking),いっ……痛えっ！ く、首筋に何か刺さったあっ！,I've been on ……! I got something in my neck!,¡He estado en ……! ¡Algo se me ha atascado en el cuello!
+Suteki Ishi (talking),痛いだけながか？ 迫り来るエクスタシーとかないがか？,Just pain? No oncoming ecstasy?,¿Sólo dolor? ¿No hay un éxtasis próximo ni nada parecido?
+Chinpira (talking),え、えくすた……何ですかい？,"Eh, Ekusuta…… what is it?","Eh, Ekusuta…… ¿Qué es?"
+Suteki Ishi (talking),ん~、配合に失敗しちゅうがか……？,Hmmm…maybe the formula is failing……?,Hmmm… una fórmula fallida……?
+Chinpira (talking),"………………
 う、あ…………ああっ、 あ、熱、熱いいいいいいいい……
 ……ひげああああああああああああっ！ はが、ひげあはがけんすんだびうあどいべ さはいあふぁじゃがはがへぎくぎがげ……
 あぎゃああああああああああああああああ あああああああああああああああああああ ああああああああああああああ！！！！
@@ -207,38 +207,38 @@ U、a…………aa~、 a、 Hot, hooooooooot……
 U、a…………aa~、 a、 Caliente, calieeeeeeeeente……
 ……higeaaaaaaaaaaaa~！ haga、higeahagakensundabiuadoibe sahaiafuahjiyahgahagahegikugigage……
 ……………………………………hauh………"
-"Suteki Ishi (talking)","おー、えらい効いたが。 気持ちよさそうな顔しちゅうがよ。
+Suteki Ishi (talking),"おー、えらい効いたが。 気持ちよさそうな顔しちゅうがよ。
 んー、倒れたまんま死んじょるんが ちょっと失敗しちゅうがかね。 残念、残念……きへへへへへへへへへ。
  ……デカオ。 このゴミ、庭の向こうに ポイッとほかしてくれるがか？","Oh, it worked great. You look like you're feeling good.
 Well, I guess I failed a little in dying as I fell down. Too bad, too bad……ki-heh-heh-heh-heh-heh-heh.
  ……Dekao. Can you just toss this garbage across the yard?","Funcionó muy bien. Parece que te sientes bien.
 Hmm, creo que fallé un poco cuando morí en un montón. Muy mal, muy mal……ki-heh-heh-heh-heh-heh.
  ……Dekao. ¿Vas a quitarle el polvo a esta basura en el patio?"
-"Dekao (talking)","あイ、せンせえ。","Ai, sen-see.","Ai, sen se."
-"narrator","デカオは組員の死体を片手で握ると 言われたとおりに窓から外へと放り投げた。","Dekao grasped the dead member's body in one hand and threw him out the window as he was told.","Dekao agarró con una mano el cadáver de un miembro de la banda y lo arrojó por la ventana como le habían dicho."
-"Suteki Ishi (talking)","ん。証拠隠滅なが。くけけけけけ……","Nope. Destroying evidence, though. Kukekakekakekake: ……","Nm. Destrucción de pruebas, pero. Kukekekekeke ……"
-"__system__??","{RND \ 0:","",""
-"Kaga Tarou (talking)","……ようやく見つけたわえ。 ここにおったか、素敵医師とやら。","I finally found ……. There you are, Suteki Ishi.","Finalmente encontré ……. Ahí estás, Suteki Ishi."
-"Suteki Ishi (talking)","んー？　何でおらぁの組に ぬらりひょんが居るがか？","Hmm?　Why is there a Nurarihyon in my group?","¿Hmm?　¿Por qué hay un Nurarihyon en su grupo?"
-"Kaga Tarou (talking)","誰がぬらりひょんじゃ、 このミイラ男めが……","Who is this mummy man? ……","¿Quién es la zorra, hombre-mamá? ……"
-"Suteki Ishi (talking)","あー……あーあーあー。 確か加賀太郎とか言いよったきね。 何か用ながか？","Ahhhh ……Ahhhhhh. I think he said Kaga Tarou. What do you want?","Ah ……Ah ah ah ah. Creo que has dicho Kaga Tarou. ¿Qué quieres?"
-"Kaga Tarou (talking)","用も何も、今し方お主が指示した 奉仕青年団の攻撃命令じゃが、 あれは一体どういうつもりじゃ？
+Dekao (talking),あイ、せンせえ。,"Ai, sen-see.","Ai, sen se."
+narrator,デカオは組員の死体を片手で握ると 言われたとおりに窓から外へと放り投げた。,Dekao grasped the dead member's body in one hand and threw him out the window as he was told.,Dekao agarró con una mano el cadáver de un miembro de la banda y lo arrojó por la ventana como le habían dicho.
+Suteki Ishi (talking),ん。証拠隠滅なが。くけけけけけ……,"Nope. Destroying evidence, though. Kukekakekakekake: ……","Nm. Destrucción de pruebas, pero. Kukekekekeke ……"
+__system__??,{RND \ 0:,,
+Kaga Tarou (talking),……ようやく見つけたわえ。 ここにおったか、素敵医師とやら。,"I finally found ……. There you are, Suteki Ishi.","Finalmente encontré ……. Ahí estás, Suteki Ishi."
+Suteki Ishi (talking),んー？　何でおらぁの組に ぬらりひょんが居るがか？,Hmm?　Why is there a Nurarihyon in my group?,¿Hmm?　¿Por qué hay un Nurarihyon en su grupo?
+Kaga Tarou (talking),誰がぬらりひょんじゃ、 このミイラ男めが……,Who is this mummy man? ……,"¿Quién es la zorra, hombre-mamá? ……"
+Suteki Ishi (talking),あー……あーあーあー。 確か加賀太郎とか言いよったきね。 何か用ながか？,Ahhhh ……Ahhhhhh. I think he said Kaga Tarou. What do you want?,Ah ……Ah ah ah ah. Creo que has dicho Kaga Tarou. ¿Qué quieres?
+Kaga Tarou (talking),"用も何も、今し方お主が指示した 奉仕青年団の攻撃命令じゃが、 あれは一体どういうつもりじゃ？
 いくら何でもあれは無理がありすぎじゃ。 仮にもわかめ組の組長を名乗るなら、 部下の被害を考えて指示し直せい。","What is it about the attack on the Youth Volunteer Corps that you just ordered?
 That was too much for you to take. If you claim to be the leader of the Wakame clan, you should reevaluate your orders after considering the damage to your men.","¿Qué demonios fue esa orden que me diste hace un momento de atacar al Cuerpo de Jóvenes del Servicio?
 Eso fue demasiado para ti. Si vas a llamarte el líder del clan Wakame, deberías considerar el daño a tus hombres y redirigir tus órdenes."
-"Suteki Ishi (talking)","……生意気なぬらりひょんながね。 攻める言うたら攻めるが。","…… You're a cheeky little slut. If I say I'm going to attack, I'm going to attack.","…… descarados. Si digo que voy a atacar, voy a atacar."
-"Kaga Tarou (talking)","あれでは敗北必至ぞ！？ みすみす部下を殺す気か！","You're going to lose! You're going to let your men down!","¡Es una derrota inevitable! ¡Vas a dejar que tus hombres Satsu!"
-"Suteki Ishi (talking)","死んだらまた部下増やせばええがよ、 人間なんてそこいらにいっぱい居るきね。
+Suteki Ishi (talking),……生意気なぬらりひょんながね。 攻める言うたら攻めるが。,"…… You're a cheeky little slut. If I say I'm going to attack, I'm going to attack.","…… descarados. Si digo que voy a atacar, voy a atacar."
+Kaga Tarou (talking),あれでは敗北必至ぞ！？ みすみす部下を殺す気か！,You're going to lose! You're going to let your men down!,¡Es una derrota inevitable! ¡Vas a dejar que tus hombres Satsu!
+Suteki Ishi (talking),"死んだらまた部下増やせばええがよ、 人間なんてそこいらにいっぱい居るきね。
 それとも、このぬらりひょんは おらぁの言うこと聞けんがか？","When you die, you can get more men. There are lots of people out there.
 Or is this Nuryohyon not listening to me?","Cuando mueras, puedes conseguir más hombres, hay mucha gente por ahí.
  ¿O es que esta zorra no me escucha?"
-"Kaga Tarou (talking)","………………","………………","………………"
-"Suteki Ishi (talking)","きへ、きへへへへ、きへへへへへへ。 ええが、それでええがよ。
+Kaga Tarou (talking),………………,………………,………………
+Suteki Ishi (talking),"きへ、きへへへへ、きへへへへへへ。 ええが、それでええがよ。
 デカオ、行くがよ。 先生、街に出るきね、ついて来とおせ。","Ki-heh, ki-heh, ki-heh, ki-heh, ki-heh, ki-heh, ki-heh, ki-heh. Yeah, that's all right.
 Dekao, let's go. Follow me, teacher, we're going to the city.","Kihe, kihe, kihe, kihe, kihe, kihe, kihe. Sí, eso es, eso es.
 Dekao, continúa. Sensei, vas a la ciudad, sígueme."
-"Dekao (talking)","あー、あイ、せンせえ。","Ah, ay, sen-see.","Ah, ay, sence."
-"Kaga Tarou (talking)","………………駄目じゃ…… 儂一人ではあのデカブツと刺し違えるので 精一杯よ……
+Dekao (talking),あー、あイ、せンせえ。,"Ah, ay, sen-see.","Ah, ay, sence."
+Kaga Tarou (talking),"………………駄目じゃ…… 儂一人ではあのデカブツと刺し違えるので 精一杯よ……
 今、ここで儂が倒れる訳にはいかん、 もうこの組には儂しか…… 儂の部下だけでも、せめて守って……
  ………………
 儂が愚かだったのじゃ……！ 女狐めを自滅させるために あの男を放置しておいたがために！
@@ -261,15 +261,15 @@ Lo siento, estoy ……Motoko…… lo siento, estoy…… he hecho algo que no 
 He terminado con todo…… He terminado con Wakame……
 En retrospectiva, Akuji tenía más razón al luchar desde fuera, no pacíficamente……………… sí, así es. Ahora es sólo él ……
 Akuji, puedes reírte de mis viejos huesos si quieres, pero por favor, ¡deja esa momia……!"
-"__system__??","}","",""
-"narrator","──うっすらと霧に覆われた深夜の街に、 突然、狂気じみた甲高い笑い声が響きわたった。
+__system__??,},,
+narrator,"──うっすらと霧に覆われた深夜の街に、 突然、狂気じみた甲高い笑い声が響きわたった。
 人々は、とうに眠りに就いていた。 笑い声は誰の耳にも届いていない。
 人を滅ぼす悪夢をばらまく男の再来に、 誰一人、気付かずにいた──","Suddenly, a maniacal, high-pitched laugh echoed through the city in the middle of the night, which was covered with a faint fog.
 The people had long since fallen asleep. The sound of laughter had not reached anyone's ears.
 No one was aware of the return of the man who spreads nightmares that destroy people…","- De repente, en medio de la noche, cuando la ciudad estaba envuelta en una espesa niebla, el sonido de una risa maníaca y aguda resonó por las calles.
 La gente hacía tiempo que se había ido a dormir. Las risas no habían llegado a los oídos de nadie.
 Nadie estaba al tanto del regreso del hombre que propaga pesadillas que destruyen a la gente…"
-"Suteki Ishi (talking)","きへ……きへへへへへへへへ…… はひゃへ……はひゃはへへへへへへへ。
+Suteki Ishi (talking),"きへ……きへへへへへへへへ…… はひゃへ……はひゃはへへへへへへへ。
 へ、へへ……きへ、きへへ…… つ、つまらん……つまらんがよ…… ちーとも面白ぉないがよ……
 よ、よよ、夜ゆうたら、 気持ちよーくなりたい連中が 苦しみながらゾロゾロ歩きゆう……
  ……そうやないと、面白ぉないき。 きへ、きへへへへへへへへへ…………
@@ -293,8 +293,8 @@ Agua de pozo, suministro de agua, tanques de agua, leche de la mañana, muchos y
 Shu, sangrar, da, da, da, gran servicio yaki ……
 Todos ustedes, todos ustedes, todos ustedes, se sentirán bien, kihehehehehe ……
 Kihee, kihee, kihee, kihee, kihee, kihee, kihee, kihee, ………… hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-hi-ho-ho ……!"
-"narrator","素敵医師は、現れた時と同じように 夜霧の中へ溶けるように消えていった──","Suteki Ishi disappeared into the night mist, just as he had appeared…","Suteki Ishi desapareció en la niebla nocturna, tal como había aparecido…"
-"Suteki Ishi (talking)","あが…………あががが…… くひ、くひいぃ……
+narrator,素敵医師は、現れた時と同じように 夜霧の中へ溶けるように消えていった──,"Suteki Ishi disappeared into the night mist, just as he had appeared…","Suteki Ishi desapareció en la niebla nocturna, tal como había aparecido…"
+Suteki Ishi (talking),"あが…………あががが…… くひ、くひいぃ……
 全く、昼間は苦手ながよ…… 光がぎーっちり躰に当たって……
  ……ひやくてひやくてたまらんき……
 け、けひ、けひひ…… おまぁらも今日はひやいがやろ？","Aagah………… aagahahahahahahahahah…… kuhi, kuhiiiii ……
@@ -304,14 +304,14 @@ I can't wait to see what you guys are doing today.","Agha………… agha……
 No estoy bien de día en absoluto…… La luz golpea el cuerpo con fuerza……
 Hace mucho calor, mucho calor, mucho calor……
 Kehi, kehi, kehi,…… Hoy estáis todos calientes, ¿verdad?"
-"narrator","素敵医師が振り返ると、彼の後ろには 十人にも及ぶ虚ろな目のジャンキーが続いていた。","Suteki Ishi turned around to see a dozen empty-eyed Junky following behind him.","Suteki Ishi se giró para ver a diez Junky de ojos vacíos que le seguían."
-"Junky (talking)","せ……先生、お、俺は…… 俺は、身体中痒ぃよ…………
+narrator,素敵医師が振り返ると、彼の後ろには 十人にも及ぶ虚ろな目のジャンキーが続いていた。,Suteki Ishi turned around to see a dozen empty-eyed Junky following behind him.,Suteki Ishi se giró para ver a diez Junky de ojos vacíos que le seguían.
+Junky (talking),"せ……先生、お、俺は…… 俺は、身体中痒ぃよ…………
 向こうの奴は、こ、焦げるって、 こっちの奴は、は、吐き気がするって…","I'm itching all over…… me, I'm itching all over …………
 The guy over there says it burns, and the guy over here says it makes him nauseous…","Me pica todo,…… Me pica todo, …………
 La de allí dice que quema, la de aquí dice que le da náuseas…"
-"Suteki Ishi (talking)","……おまぁら、おかしいがよ。 昼間の光はひやいもんながよ？","…… You guys are crazy. Daylight is always cold, right?","…… Estás loco. La luz del día es un peligro de incendio, ¿verdad?"
-"Junky (talking)","せ、せせ、先生…… 昔は、暖かかったんじゃねぇかな……","Se, se, se, sir…… I guess it used to be warmer……","Se, se, se, señor…… Tal vez solía ser más cálido……"
-"Suteki Ishi (talking)","細かいことは気にしたらいかんがよ。 とにかく、今日は寒いが。
+Suteki Ishi (talking),……おまぁら、おかしいがよ。 昼間の光はひやいもんながよ？,"…… You guys are crazy. Daylight is always cold, right?","…… Estás loco. La luz del día es un peligro de incendio, ¿verdad?"
+Junky (talking),せ、せせ、先生…… 昔は、暖かかったんじゃねぇかな……,"Se, se, se, sir…… I guess it used to be warmer……","Se, se, se, señor…… Tal vez solía ser más cálido……"
+Suteki Ishi (talking),"細かいことは気にしたらいかんがよ。 とにかく、今日は寒いが。
 で、暴れ回って躰をあっためるが。 そうしたら楽になるがやき。
 で、みーんなに持たせたおクスリ、 男も女もジジババもガキにも ぎっちり注射するがよ。
 殴り飛ばして黙らせてからでも ぜーんぜんオッケーやきね。
@@ -324,57 +324,57 @@ Así que, voy a ir en un alboroto para calentar mi cuerpo. Entonces te sentirás
 Entonces damos a todos los medicamentos, hombres, mujeres, ancianos y niños, una inyección apretada.
 Incluso si tienes que golpearlos para que se callen, no pasa nada.
 Y si cumples con tu cuota, el médico te dará un montón de medicinas muy buenas después, ¿entendido?"
-"Junky (talking)","あ、ああ……ああああああああああああ。","Oh, ah…… ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah.","Ah, ah…… ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah."
-"Suteki Ishi (talking)","……おほ、 とりあえずそこの大きい建物襲うがよ。 何十人って人居るきね、きっと。
+Junky (talking),あ、ああ……ああああああああああああ。,"Oh, ah…… ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah.","Ah, ah…… ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah."
+Suteki Ishi (talking),"……おほ、 とりあえずそこの大きい建物襲うがよ。 何十人って人居るきね、きっと。
 ほれ、はよ行かんがか？ おクスリやらんがよ？","…… Oh, well, let's just hit the big building there. There must be dozens of people there.
 Come on, can't we go now? Don't you want to take your meds?","…… Oh-ho, sólo ataca el gran edificio de allí por ahora. Debe haber docenas de personas allí.
 Vamos, ¿no podemos irnos ya? ¿No quieres drogarte?"
-"Junky (talking)","あああああああああああああああああああ あああああああああああああああああああ あああああああああああああああ…………
+Junky (talking),"あああああああああああああああああああ あああああああああああああああああああ あああああああああああああああ…………
 うあーーーーーーーーーーー！！","Aaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaa…………
 Uaaaaaaaaaaaa！！","Aaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaa…………
 ¡¡Uaaaaaaaaaaaa！！"
-"narrator","ジャンキーたちは麻薬欲しさに、 目の前にあった建物を集団で襲い始めた。
+narrator,"ジャンキーたちは麻薬欲しさに、 目の前にあった建物を集団で襲い始めた。
 窓ガラスが割れ、何かがたたき壊され、 それから一拍遅れて、人々の絶叫と悦楽の溜息が ない交ぜになって聞こえてくる──","Junky and his friends began to attack the building in front of them in groups in search of drugs.
 The window glass was broken, something was smashed, and then a beat later, the sound of people screaming and sighing of pleasure can be heard──","Junky y sus amigos comenzaron a atacar el edificio frente a ellos en grupos en busca de drogas.
 El vidrio de la ventana estaba roto, algo se rompió, y luego un ritmo más tarde, se puede escuchar el sonido de la gente que grita y suspirando de placer──"
-"Suteki Ishi (talking)","きへへ……上出来、上出来。
+Suteki Ishi (talking),"きへへ……上出来、上出来。
 さて、ほしたらおらぁは 次の街に行くがかね……
 きへ、きへへへへへへへ………………","Hehehe…… good job, good job.
 Now, when I'm done, I'm off to the next town……
 Ki-hee-hee-hee-hee-hee………………","Hehehe…… buen trabajo, buen trabajo.
 Ahora, cuando termine, iré a la siguiente ciudad……
 Kihee, kihee, kihee, kihee, ………………"
-"Suteki Ishi (talking)","ひへ、ひへへへ…… 今日はこの街で暴れるがよ。
+Suteki Ishi (talking),"ひへ、ひへへへ…… 今日はこの街で暴れるがよ。
 ほれ……ほれほれ、 ヤク漬け十人衆、用意はいいがか？","Heh, heh, heh…… We're going wild in this town today.
 Here ……, here, here, here, here, ten druggies, are you ready?","Heh, heh, heh…… Nos estamos volviendo locos en esta ciudad hoy.
 Aquí…… aquí, aquí, aquí, aquí, aquí, diez drogadictos, ¿están listos?"
-"Junky (talking)","は、ははは……はい、先生…… な、なな、ななな……何でもするからよ、 く、くく、クスリくれよ、は、早く……","Ha-ha-ha-ha…… yes, sir…… na, na, na, na…… I'll do anything, ku, ku, ku, ku, give me drugs, ha, ha, quickly……","Ha-ha-ha-ha…… sí, señor…… na, na, na, na…… haré cualquier cosa, ku, ku, ku, dame drogas, ha, ha, rápido……"
-"Suteki Ishi (talking)","それはおまぁらの働き次第ながよ。 ほーれ、行くがよ…………
+Junky (talking),は、ははは……はい、先生…… な、なな、ななな……何でもするからよ、 く、くく、クスリくれよ、は、早く……,"Ha-ha-ha-ha…… yes, sir…… na, na, na, na…… I'll do anything, ku, ku, ku, ku, give me drugs, ha, ha, quickly……","Ha-ha-ha-ha…… sí, señor…… na, na, na, na…… haré cualquier cosa, ku, ku, ku, dame drogas, ha, ha, rápido……"
+Suteki Ishi (talking),"それはおまぁらの働き次第ながよ。 ほーれ、行くがよ…………
  ……ん？　誰なが？　あれ。 道塞ぎゆうねーちゃんがおるがよ……","It depends on your work. Here we go: …………
  ……?　Who is that?　That. There's a lady blocking the road……","Depende de cómo se trabaje. Aquí vamos…………
  ……?　¿Quién es ese?　Eso. Hay una señora bloqueando la carretera……"
-"Yamazawa Asami (talking)","……行かせはしないっ！ 貴様はここで終わりだ、長谷川均っ！！","I won't let you go to ……! You're done here, Hitoshi Hasegawa!","¡No te dejaré ir a ……! ¡Estás acabado aquí, Hitoshi Hasegawa!"
-"Suteki Ishi (talking)","あーあー…………あぁ？ 何が用ながか？　べっぴんねーちゃん。
+Yamazawa Asami (talking),……行かせはしないっ！ 貴様はここで終わりだ、長谷川均っ！！,"I won't let you go to ……! You're done here, Hitoshi Hasegawa!","¡No te dejaré ir a ……! ¡Estás acabado aquí, Hitoshi Hasegawa!"
+Suteki Ishi (talking),"あーあー…………あぁ？ 何が用ながか？　べっぴんねーちゃん。
 あー、その前に 何でおらぁの本名知っちゅうがか？","Uhhhhhhhh………… ah? What do you want?　Sweetheart.
 Uh, before that, why do you know my real name?","Uh-uh…………… ah? ¿Qué quieres?　Cariño.
 Antes de eso, ¿por qué sabes mi verdadero nombre?"
-"Yamazawa Asami (talking)","誰が二度も三度も 貴様に名乗るものかっ…！
+Yamazawa Asami (talking),"誰が二度も三度も 貴様に名乗るものかっ…！
 大人しく自首しろ、 でなければ力ずくで叩き伏せてでも 逮捕するっ！","No one will call you names twice or thrice…!
 Turn yourself in, or I'll have you arrested by force!","Nadie te llamará dos o tres veces…
  ¡Entrégate o te arrestaré por la fuerza!"
-"Suteki Ishi (talking)","あー、市議会の女ながか…… めんどくさいことちや……
+Suteki Ishi (talking),"あー、市議会の女ながか…… めんどくさいことちや……
 ほれ、ヤク中ども、 あの女やっつけたらクスリやるがよ。","Ah, the city council woman…… She's a pain in the ass……
 Hey, you junkies, I'll give you drugs if you beat that woman.","Ah, la mujer del ayuntamiento…… Es un grano en el culo……
 Miren, drogadictos, si golpean a esa mujer, les daré drogas."
-"Junky (talking)","うっ、うおおおおおおおっ……！ しっ、死ねやーーー女ああああっ！！","Uh-oh, oh-oh, oh-oh, oh-oh ……!","¡Uh-oh, oh-oh, oh-oh, oh-oh, oh-oh, ……!"
-"narrator","気怠げな素敵医師の言葉一つで、 ジャンキーたちは一斉に麻美へと飛びかかった。
+Junky (talking),うっ、うおおおおおおおっ……！ しっ、死ねやーーー女ああああっ！！,"Uh-oh, oh-oh, oh-oh, oh-oh ……!","¡Uh-oh, oh-oh, oh-oh, oh-oh, oh-oh, ……!"
+narrator,"気怠げな素敵医師の言葉一つで、 ジャンキーたちは一斉に麻美へと飛びかかった。
  ──が、麻美は右足をついと上げると、 舞いのように優美な動きで蹴撃を繰り出し、 ジャンキーたちを叩き伏せていく。
 しかもその間、 軸足だった左足は僅かも動いていない。","With a single word from the lazy Suteki Ishi, Junky and the others jumped on Asami at once.
 However, Asami raised her right leg and kicked with a graceful movement like Mai, knocking down Junky and the others.
 Moreover, during this time, the left foot, which was the axis foot, did not move even a little.","Con una sola palabra del perezoso Suteki Ishi, Junky y los demás saltaron sobre Asami de inmediato.
 Sin embargo, Asami levantó su pierna derecha y pateó con un movimiento elegante como Mai Inui, derribando a Junky y a los demás.
 Además, durante este tiempo, su pierna izquierda, que era su pierna eje, no se movió ni un poco."
-"Suteki Ishi (talking)","な、何なが、このねーちゃん…… めちゃくちゃ強いが……
+Suteki Ishi (talking),"な、何なが、このねーちゃん…… めちゃくちゃ強いが……
  ……？ なんか昔、おらぁ同じ様なこと 言うた気がするがよ……？
 あ、あーあーあーあーあー。
 思い出したがよ、たしかおまぁの名前 山沢とかいうたがかね……","Hey, what's up, this lady is…… super strong, but ……
@@ -384,83 +384,83 @@ I remember, I think your name is Yamazawa……","Hey, qué demonios, esta seño
  ……? Creo que dije algo así hace mucho tiempo……?
 Ah, ah, ah, ah, ah.
 Lo recuerdo, creo que su nombre es Yamazawa……"
-"Yamazawa Asami (talking)","……こんな中毒患者を何人けしかけても 私は退けられないぞ、長谷川っ！","…… You can't make me back down, Hasegawa, no matter how many of these addicts you coax out of me!","…… No puedes hacerme retroceder, Hasegawa, no importa cuántos de estos adictos me hagas."
-"Suteki Ishi (talking)","偉そうなこと言いゆうが、 おまぁもちょっと前まで 中毒患者やなかったがか？","I know I sound like a big jerk, but weren't you an addict yourself not too long ago?","Hablas mucho, pero ¿no fuiste tú mismo un adicto no hace mucho tiempo?"
-"Yamazawa Asami (talking)","っ…… 言うな、長谷川っ……！","Don't say ……, Hasegawa!","¡No digas ……, Hasegawa!"
-"Suteki Ishi (talking)","あれだけバカスカ麻薬や媚薬を 注射したがやき、 そう簡単には抜けてない筈ながよ……
+Yamazawa Asami (talking),……こんな中毒患者を何人けしかけても 私は退けられないぞ、長谷川っ！,"…… You can't make me back down, Hasegawa, no matter how many of these addicts you coax out of me!","…… No puedes hacerme retroceder, Hasegawa, no importa cuántos de estos adictos me hagas."
+Suteki Ishi (talking),偉そうなこと言いゆうが、 おまぁもちょっと前まで 中毒患者やなかったがか？,"I know I sound like a big jerk, but weren't you an addict yourself not too long ago?","Hablas mucho, pero ¿no fuiste tú mismo un adicto no hace mucho tiempo?"
+Yamazawa Asami (talking),っ…… 言うな、長谷川っ……！,"Don't say ……, Hasegawa!","¡No digas ……, Hasegawa!"
+Suteki Ishi (talking),"あれだけバカスカ麻薬や媚薬を 注射したがやき、 そう簡単には抜けてない筈ながよ……
 おまぁ、実は今、 禁断症状とか出ちゅうがやないか？","After all those injections of narcotics and aphrodisiacs, it shouldn't be so easy to get off them……
 Well, aren't you actually experiencing withdrawal symptoms right now?","Después de todas esas inyecciones de narcóticos y afrodisíacos, no debe ser tan fácil dejarlos……
 Bueno, ¿no estás experimentando síntomas de abstinencia ahora mismo?"
-"Yamazawa Asami (talking)","誰がっ……","Who's Who: ……","Quién es quién: ……"
-"Suteki Ishi (talking)","けへ……きへ、きへへへへへ…… 図星なが、図星ながよ。
+Yamazawa Asami (talking),誰がっ……,Who's Who: ……,Quién es quién: ……
+Suteki Ishi (talking),"けへ……きへ、きへへへへへ…… 図星なが、図星ながよ。
 ほぉ~れ、こっち来とおせ。 前よりもっとええおクスリあるがよ、 気持ちよぉくなれるがよ？
 ほれ、ほれ、ほぉおれ。 山沢のねーちゃん、来とおせ。","Here, come here. I've got more medicine than before, can't I make you feel better?
 Here, here, here, here. Come here, you little Yamazawa girl.","Aquí, ven aquí, ven aquí. Tengo más drogas que antes, ¿no puedo hacer que te sientas mejor?
 Aquí, aquí, aquí, aquí. Vamos, chica Yamazawa, ven aquí."
-"Yamazawa Asami (talking)","馬鹿にするなっ…………！","Don't be a fool …………!","No seas ridículo. ¡…………!"
-"Suteki Ishi (talking)","ひー……怖い怖い、目が怖い。 おらぁを蹴り飛ばす気ながか？
+Yamazawa Asami (talking),馬鹿にするなっ…………！,Don't be a fool …………!,No seas ridículo. ¡…………!
+Suteki Ishi (talking),"ひー……怖い怖い、目が怖い。 おらぁを蹴り飛ばす気ながか？
 けど、そう簡単にはいかんきね。 きへ、きへへへへへ………………","Hi…… scary, scary, scary eyes. Are you going to kick my ass?
 But it's not that easy. Kihee, kihee, kihee, kihee, kihee, kihee, kihee, ………………","Hola…… ojos aterradores, aterradores, aterradores. ¿Me vas a dar una patada en los huevos?
 Pero no es tan fácil. Kihee, kihee, kihee, kihee, kihee, kihee, ………………"
-"Yamazawa Asami (talking)","変ね……さっきまで確かに、 この辺で長谷川の姿が……
+Yamazawa Asami (talking),"変ね……さっきまで確かに、 この辺で長谷川の姿が……
  ………………！？","That's weird……I was sure just now that I saw Hasegawa around here……
  ………………!","Es extraño…… que hace un momento, estaba seguro de haber visto a Hasegawa por aquí……
  ¡………………!"
-"Junky (talking)","あ、あああ、あ、あんた、 俺をこ、ここ、殺さば殺し殺せ殺され…
+Junky (talking),"あ、あああ、あ、あんた、 俺をこ、ここ、殺さば殺し殺せ殺され…
 こ、こここ、ここ……殺してクレる？","Ah, ah, ah, ah, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you, you…
 Here, here, here, here ……Satsu me?","Ah, ah, ah, tú, tú, tú Satsu yo aquí Satsu yo aquí Satsu yo aquí Satsu yo aquí Satsu yo aquí Satsu yo aquí…
 Aquí, aquí, aquí, aquí ……Satsu me?"
-"Yamazawa Asami (talking)","……………… 可哀相に、もう自分が誰かも……","……………… Poor guy doesn't even know who he is anymore ……","……………… Pobrecito, ya no sabe ni quién es ……"
-"Junky (talking)","あ、あひゃへ……へへへへ……
+Yamazawa Asami (talking),……………… 可哀相に、もう自分が誰かも……,……………… Poor guy doesn't even know who he is anymore ……,"……………… Pobrecito, ya no sabe ni quién es ……"
+Junky (talking),"あ、あひゃへ……へへへへ……
 し、死にたくないよおおおおおおお…
 死にたくないから殺すううううううっ！","Oh, ahya hehe…… hehe hehe hehe ……
 Shhhh, I don't want to die ohhhh…
 I don't want to die so Satsu Suuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu!","Oh, ahiyah…… jejeje ……
 Shhhh, no quiero morir ohhhh…"
-"narrator","ジャンキーが嬌声を上げて、麻美に飛びかかる。
+narrator,"ジャンキーが嬌声を上げて、麻美に飛びかかる。
  ──だが、麻美はひらりと身を躱すと、 ジャンキーの脳天に強烈な踵落としを炸裂させた。
 ジャンキーは、声もなく倒れ伏す。","Junky shouted charmingly and jumped on Asami.
 But Asami dodged and exploded a powerful heel drop into Junky's brain.
 Junky falls down without a sound.","Junky gritó encantado y saltó sobre Asami.
 Pero Asami esquivó y descargó un potente taconazo en el cerebro de Junky.
 Junky se cae sin hacer ruido."
-"Yamazawa Asami (talking)","……ごめんなさい。 私がもっと早く 長谷川を逮捕していれば……","I'm sorry ……. If only I had arrested Hasegawa earlier: ……","Lo siento ……. Si hubiera detenido a Hasegawa antes……"
-"Suteki Ishi (talking)","へ、けへへ…… お、おらぁがどうかしたがか？","Heh, keh heh…… What's wrong with me?","Heh, keh heh…… ¿Qué te pasa?"
-"Yamazawa Asami (talking)","…………っ！　長谷川均っ！","…………!　Hitoshi Hasegawa!","¡…………!　¡Hitoshi Hasegawa!"
-"Suteki Ishi (talking)","へけけ……ね、ねね、ねーちゃん、 ひ、人の名前、言うたらいかんがよ……
+Yamazawa Asami (talking),……ごめんなさい。 私がもっと早く 長谷川を逮捕していれば……,I'm sorry ……. If only I had arrested Hasegawa earlier: ……,Lo siento ……. Si hubiera detenido a Hasegawa antes……
+Suteki Ishi (talking),へ、けへへ…… お、おらぁがどうかしたがか？,"Heh, keh heh…… What's wrong with me?","Heh, keh heh…… ¿Qué te pasa?"
+Yamazawa Asami (talking),…………っ！　長谷川均っ！,…………!　Hitoshi Hasegawa!,¡…………!　¡Hitoshi Hasegawa!
+Suteki Ishi (talking),"へけけ……ね、ねね、ねーちゃん、 ひ、人の名前、言うたらいかんがよ……
 今はおらぁ、長谷川と違うがよ。 素敵医師やきね……ひけ、けけ。","Hekeke…… hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, don't say someone's name……
 Now I'm not Hasegawa. Suteki IshiYakine……Hike, keke.","Hekeke……, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, no digas los nombres de las personas……
 Ahora Ola, no eres Hasegawa. Suteki IshiYakine……Hike, keke."
-"Yamazawa Asami (talking)","今日こそ、絶対に逃がさないっ！","Today is the day, I won't let you get away with this!","Hoy es el día, ¡no dejaré que te salgas con la tuya!"
-"Suteki Ishi (talking)","まっこと元気なねーちゃんながね……
+Yamazawa Asami (talking),今日こそ、絶対に逃がさないっ！,"Today is the day, I won't let you get away with this!","Hoy es el día, ¡no dejaré que te salgas con la tuya!"
+Suteki Ishi (talking),"まっこと元気なねーちゃんながね……
 でも、どんなに頑張ってみても おらぁ無駄やと思うがよ？","You're a very energetic girl……
 But no matter how hard you try, I think you're wasting your time.","Eres una chica muy sana……
 Pero por mucho que lo intentes, creo que pierdes el tiempo."
-"narrator","──素敵医師と麻美が対峙している間に、 一人、また一人と 周囲からジャンキーが集まってくる。
+narrator,"──素敵医師と麻美が対峙している間に、 一人、また一人と 周囲からジャンキーが集まってくる。
 彼、そして彼女らジャンキーは、 皆一様に麻美へ虚ろな目を向けていた。","─ ─ While Suteki Ishi and Asami were confronting each other, one by one, Junky gathered from the surroundings.
 He, and they Junky, all turned their vacant eyes toward Asami.","─ ─ Mientras Suteki Ishi y Asami se enfrentan, uno a uno, se reúnen Junky de los alrededores.
 Él, y ellos Junky, todos volvieron sus ojos vacíos hacia Asami."
-"Yamazawa Asami (talking)","こ、この数…… どれだけの人を麻薬中毒に……","This number of…… how many people are addicted to drugs ……","Este número de…… cuántas personas son adictas a las drogas ……"
-"Suteki Ishi (talking)","へけ……どんだけやったきね？
+Yamazawa Asami (talking),こ、この数…… どれだけの人を麻薬中毒に……,This number of…… how many people are addicted to drugs ……,Este número de…… cuántas personas son adictas a las drogas ……
+Suteki Ishi (talking),"へけ……どんだけやったきね？
 死によった子供まで一緒にしたら 百人近う居るがよ、多分……","Hehe…… how many have you done?
 If you include the children who died, there are probably close to a hundred……","Heke…… ¿Cuántos has hecho?
 Si se incluyen los niños que murieron, probablemente sean cerca de cien……"
-"Yamazawa Asami (talking)","………………
+Yamazawa Asami (talking),"………………
 絶対に…… 絶対に負けはしないっ…… 許さないっ……
 私も含めて、ここに居る者全員の人生を 弄んでぼろぼろにした罪、 必ずその身で償わせるぞ、長谷川っ！！","………………
 I will never…… lose, I will never…… forgive you!
 You will pay for the lives you have ruined by playing with the lives of everyone here, including me, Hasegawa!","………………
 Nunca…… perderá, nunca…… lo permitirá.
  ¡Te haré pagar por los crímenes que has cometido contra las vidas de todos los presentes, incluido yo, Hasegawa!"
-"Suteki Ishi (talking)","無理やと思うがよ……？ へけけけ、へけけけけけ………………","I don't think you can……? Heh, heh, heh, heh ………………","No creo que puedas……? Je, je, je, je, je: ………………"
-"Yamazawa Asami (talking)","もう逃がさない……！ ここまでだ、長谷川っ！！","I won't let you get away with it anymore……! This is it, Hasegawa!","¡No dejaré que te salgas con la tuya nunca más……! ¡Eso es, Hasegawa!"
-"narrator","──操られたジャンキーを何人となく蹴り倒し、 ついに麻美は素敵医師を袋小路に追い込んだ。","After kicking Junky, who was Misaoed, several times, Asami finally drove Suteki Ishi into a cul-de-sac.","─ ─ Tras derribar a varios Junky que estaban Misao, Asami finalmente condujo a Suteki Ishi a un callejón sin salida."
-"Suteki Ishi (talking)","きへへ……参ったがよ、 元気な上にしつこいねーちゃんやき……","Kihehe……You're here, but you're not only energetic but also persistent neechan yaki……","Kihehe……Estás aquí, pero no sólo eres enérgico, eres persistente, eres una niña pequeña……"
-"Yamazawa Asami (talking)","貴様を逮捕するためなら、 私は何度でも食い下がって…………
- ……く、うっ……","I will bite back as many times as I have to to get you arrested……………… ku, ugh ……","Morderé tantas veces como sea necesario para detenerte……………… Kuh-uh-uh-uh ……"
-"Suteki Ishi (talking)","きへ、きへへへへ…… 苦しいがやろ、しんどいがやろ？","Kihee, kihee, kihee…… It's painful, isn't it, isn't it hard?","Kihe, kihe jejeje…… Es doloroso, ¿no es así, no es difícil?"
-"Yamazawa Asami (talking)","何を……この程度の疲れでっ！","What…… with this level of fatigue!","¡Qué…… con este nivel de fatiga!"
-"Suteki Ishi (talking)","嘘ついても解っちょるきね。 立っちゅうのも辛い筈なが。
+Suteki Ishi (talking),無理やと思うがよ……？ へけけけ、へけけけけけ………………,"I don't think you can……? Heh, heh, heh, heh ………………","No creo que puedas……? Je, je, je, je, je: ………………"
+Yamazawa Asami (talking),もう逃がさない……！ ここまでだ、長谷川っ！！,"I won't let you get away with it anymore……! This is it, Hasegawa!","¡No dejaré que te salgas con la tuya nunca más……! ¡Eso es, Hasegawa!"
+narrator,──操られたジャンキーを何人となく蹴り倒し、 ついに麻美は素敵医師を袋小路に追い込んだ。,"After kicking Junky, who was Misaoed, several times, Asami finally drove Suteki Ishi into a cul-de-sac.","─ ─ Tras derribar a varios Junky que estaban Misao, Asami finalmente condujo a Suteki Ishi a un callejón sin salida."
+Suteki Ishi (talking),きへへ……参ったがよ、 元気な上にしつこいねーちゃんやき……,"Kihehe……You're here, but you're not only energetic but also persistent neechan yaki……","Kihehe……Estás aquí, pero no sólo eres enérgico, eres persistente, eres una niña pequeña……"
+Yamazawa Asami (talking),"貴様を逮捕するためなら、 私は何度でも食い下がって…………
+ ……く、うっ……","I will bite back as many times as I have to to get you arrested……………… ku, ugh ……",Morderé tantas veces como sea necesario para detenerte……………… Kuh-uh-uh-uh ……
+Suteki Ishi (talking),きへ、きへへへへ…… 苦しいがやろ、しんどいがやろ？,"Kihee, kihee, kihee…… It's painful, isn't it, isn't it hard?","Kihe, kihe jejeje…… Es doloroso, ¿no es así, no es difícil?"
+Yamazawa Asami (talking),何を……この程度の疲れでっ！,What…… with this level of fatigue!,¡Qué…… con este nivel de fatiga!
+Suteki Ishi (talking),"嘘ついても解っちょるきね。 立っちゅうのも辛い筈なが。
 最近までおクスリ漬けで、 本当は骨も筋肉も ガタガタのスカスカの筈やき……
 それでこんだけ闘うたら…… ひへ、ひへへへ……
 躰じゅうがスカスカの部分を埋めたくて、 おクスリ欲しくてたまらん筈やき……","You know that even if you lie. It must be hard for you to stand up.
@@ -470,23 +470,23 @@ He must be so hungry for drugs to fill the empty space in his body……","Sabes
 Has estado drogado hasta hace poco, y la verdad es que tus huesos y músculos están tan destrozados que eres una cosita escuálida……
 Y si lucha tanto, será capaz de…… Hihe、hihehehe……
 Debe estar tan desesperado por las drogas para llenar el espacio vacío en su cuerpo……"
-"Yamazawa Asami (talking)","誰……がっ……！","Who ……がっ……！","¡Quién……がっ……!"
-"Suteki Ishi (talking)","大体、ここに逃げてきたのが 罠ゆうて気付いちょらんがやろ、おまぁ…","You couldn't have known that your escape here was a trap, could you?","No podías saber que huir aquí era una trampa, ¿verdad?"
-"Yamazawa Asami (talking)","わっ、罠だと……","Wow, it's a trap……","Vaya, es una trampa……"
-"Suteki Ishi (talking)","きへへへ……ほおりゃ。","Kihehehehe…… Hooray.","Kihehehe…… Hooray."
-"narrator","どこに隠し持っていたのか、素敵医師は 何本かのアンプルを取り出すと地面に叩きつけた。
+Yamazawa Asami (talking),誰……がっ……！,Who ……がっ……！,¡Quién……がっ……!
+Suteki Ishi (talking),大体、ここに逃げてきたのが 罠ゆうて気付いちょらんがやろ、おまぁ…,"You couldn't have known that your escape here was a trap, could you?","No podías saber que huir aquí era una trampa, ¿verdad?"
+Yamazawa Asami (talking),わっ、罠だと……,"Wow, it's a trap……","Vaya, es una trampa……"
+Suteki Ishi (talking),きへへへ……ほおりゃ。,Kihehehehe…… Hooray.,Kihehehe…… Hooray.
+narrator,"どこに隠し持っていたのか、素敵医師は 何本かのアンプルを取り出すと地面に叩きつけた。
 その途端、何かの化学反応が起きて 周囲に白煙が立ちこめ始める──","Suteki Ishi took out some ampoules and slammed them onto the ground, wondering where they had them hidden.
 At the same time, some kind of chemical reaction occurs and white smoke begins to surround you──","Suteki Ishi sacó algunas ampolas y las golpeó al suelo, preguntándose dónde las ocultaron.
 Al mismo tiempo, se produce algún tipo de reacción química y el humo blanco comienza a rodearlo──"
-"Yamazawa Asami (talking)","くっ……！？","Ku~……!","¡Ku~……!"
-"Suteki Ishi (talking)","きへへ……袋小路なら四方壁やき。 風で煙が飛んでいかんがよ。","Kihehe…… If it's a cul-de-sac, it's a four-sided walled house. The smoke won't be blown away by the wind.","Kihehe…… callejón sin salida sería una casa amurallada de cuatro lados. El humo no será arrastrado por el viento."
-"Yamazawa Asami (talking)","この程度、目眩ましにもなるものかっ！","This is not even a dizzying experience!","¡Esto es lo más deslumbrante que puede haber!"
-"narrator","麻美は白煙を突っ切って、 素敵医師に肉薄しようとする。
+Yamazawa Asami (talking),くっ……！？,Ku~……!,¡Ku~……!
+Suteki Ishi (talking),きへへ……袋小路なら四方壁やき。 風で煙が飛んでいかんがよ。,"Kihehe…… If it's a cul-de-sac, it's a four-sided walled house. The smoke won't be blown away by the wind.",Kihehe…… callejón sin salida sería una casa amurallada de cuatro lados. El humo no será arrastrado por el viento.
+Yamazawa Asami (talking),この程度、目眩ましにもなるものかっ！,This is not even a dizzying experience!,¡Esto es lo más deslumbrante que puede haber!
+narrator,"麻美は白煙を突っ切って、 素敵医師に肉薄しようとする。
  ──だが。","Asami tries to pierce through the Haku smoke and get close to Suteki Ishi.
 But…","Asami intenta atravesar el humo de Haku y flanquear a Suteki Ishi.
  ─ ─ Pero."
-"Yamazawa Asami (talking)","……っ、う……あ、あっ…………？","……, u…… ah, ah …………?","……, u…… ah, ah …………?"
-"narrator","──脳裏に、躰に、突然甘い痺れが広がった。 躰から力が抜けて麻美は思わず倒れ込む。
+Yamazawa Asami (talking),……っ、う……あ、あっ…………？,"……, u…… ah, ah …………?","……, u…… ah, ah …………?"
+narrator,"──脳裏に、躰に、突然甘い痺れが広がった。 躰から力が抜けて麻美は思わず倒れ込む。
 その際、胸いっぱいに白煙を吸い込んだ。
 目眩、幻覚。 手足が言うことを聞かず震え始める。
 その途端、悦楽が走り抜け── 軽い絶頂が麻美の躰を襲う。","──A sweet numbness suddenly spread in my mind and body. The strength of his body was loose and Asami fell involuntarily.
@@ -496,25 +496,25 @@ At the same time, pleasure runs through── a light orgasm hits Asami's body."
 En ese momento, inhalé humo blanco todo mi corazón.
 Mareos, alucinaciones. Mis brazos y piernas comenzaron a temblar sin escuchar lo que estaba diciendo.
 Al mismo tiempo, el placer corre── un orgasmo ligero golpea el cuerpo de Asami."
-"Yamazawa Asami (talking)","や……な、ふあっ……ひっ……！？","Ya…… na, fuh…… hi ……!","¡Ya…… na, fuh…… hi ……!"
-"Suteki Ishi (talking)","きへへ……思った通りやき。
+Yamazawa Asami (talking),や……な、ふあっ……ひっ……！？,"Ya…… na, fuh…… hi ……!","¡Ya…… na, fuh…… hi ……!"
+Suteki Ishi (talking),"きへへ……思った通りやき。
 健常いうがやったらきつい煙草くらい、 ジャンキーやったら屁のつっぱりにも ならん弱ぁい揮発性の麻薬やが…………
 今のおまぁやったら、イッてしもうても 不思議やないくらい効くがやろ？","Kihehehe…… is just as I thought.
 It's a weak volatile narcotic that's as hard on Junky as a hard cigarette would be on a normal person…………
 If you were a normal person, you wouldn't be surprised if you came out of it, would you?","Kihehehe…… es tal y como pensaba.
 Es un narcótico débil y volátil que es tan duro para un Junky como para una persona sana…………
 Si fueras una persona normal, no te sorprendería que te salieras, ¿verdad?"
-"Yamazawa Asami (talking)","な、舐めるなっ、この位でっ……！","Don't lick me, this much ……!","¡No me lamas, esto es ……!"
-"narrator","麻美は懸命に立ち上がって素敵医師に蹴りを放つ。
+Yamazawa Asami (talking),な、舐めるなっ、この位でっ……！,"Don't lick me, this much ……!","¡No me lamas, esto es ……!"
+narrator,"麻美は懸命に立ち上がって素敵医師に蹴りを放つ。
  ──だが、無駄だった。 力が入らず、素敵医師の躰が少し揺らいだだけだ。","Asami stood up hard and kicked Suteki Ishi.
 But it was in vain. He didn't have the strength, and Suteki Ishi's body only shook a little.","Asami se levantó con fuerza y lanzó una patada a Suteki Ishi.
  ─ ─ Pero fue en vano. No se aplicó ninguna potencia, y el cuerpo de Suteki Ishi sólo tembló un poco."
-"Yamazawa Asami (talking)","そ、そんな…………","Oh, no…………","Oh, no…………"
-"Suteki Ishi (talking)","きへへへ……きへへへへ。 おほー、痛ててててて、おー、痛いがよ。
+Yamazawa Asami (talking),そ、そんな…………,"Oh, no…………","Oh, no…………"
+Suteki Ishi (talking),"きへへへ……きへへへへ。 おほー、痛ててててて、おー、痛いがよ。
  ……この恨み、三百倍にして返すきね。","Kihee hee hee…… Kihee hee hee hee. Ohoho, ouch, ouch, ouch, ouch, ouch.
 I'll pay back…… this grudge three hundredfold.","Ki hee hee…… Ki hee hee hee. Oh ho, ouch, ouch, ouch, ouch, ouch, ouch.…… Voy a devolver este rencor trescientas veces."
-"narrator","素敵医師は片腕一本で麻美の躰をねじ伏せて、 背に、腕に、何本かの注射器を突き立てた──","Suteki Ishi twisted Asami's body with one arm and thrust several syringes into his back and arm…","Suteki Ishi retorció el cuerpo de Asami con un brazo y le clavó varias jeringuillas en la espalda y el brazo…"
-"cg narrator","「きへ、きへへ…… 　やっぱねーちゃんにはそれが似合うがよ……」
+narrator,素敵医師は片腕一本で麻美の躰をねじ伏せて、 背に、腕に、何本かの注射器を突き立てた──,Suteki Ishi twisted Asami's body with one arm and thrust several syringes into his back and arm…,Suteki Ishi retorció el cuerpo de Asami con un brazo y le clavó varias jeringuillas en la espalda y el brazo…
+cg narrator,"「きへ、きへへ…… 　やっぱねーちゃんにはそれが似合うがよ……」
 何処とも知れぬ部屋の片隅で、 麻美を見下ろした素敵医師が呟く。
 「あ…………っあ、う、っふ……」
 惚けた顔、悦楽にひたる喘ぎ声。 ──麻美の応えは、それだけだった。
@@ -548,31 +548,31 @@ Todo lo que queda es el cuerpo de una mujer lastimosa, adicta a las drogas y con
 Mientras hablaba, Suteki Ishi acarició la cabeza de Asami y le introdujo la jeringa en el cuello.
 「……hia~……haaaaaa~…………！！」
 「Oh, oh, estoy temblando. ¿No se siente bien eso? Viniste, ¿verdad? Te amaré hasta que mueras…」"
-"cg narrator","快楽に壊れた麻美は、 意識の破片すら薬物に溶かされ──
+cg narrator,"快楽に壊れた麻美は、 意識の破片すら薬物に溶かされ──
 素敵医師の腕の中で、静かに存在を消していった。","Broken by pleasure, Asami, even the fragments of her consciousness were dissolved by the drug.
 Suteki Ishi quietly disappeared in his arms.","Rota por el placer, Asami, hasta los fragmentos de su conciencia fueron disueltos por la droga…
 Suteki Ishi desapareció silenciosamente de la existencia en sus brazos."
-"Yamamoto Akuji (talking)","よー、素敵医師。 おめー、割とマトモに 働いてるそーじゃねーか。","Hey, Suteki Ishi. I heard you're working rather decently.","Oye, Suteki Ishi. He oído que estás trabajando bastante bien."
-"Yamamoto Akuji (talking)","け、けひひひひひ…… そ、それはもちろんながよ、きへ……","Keh, kehihihihihihihihihihihihi…… So, that's of course nagayo, kihe……","Keh, kehihihihihihihi…… Así que, por supuesto, es Nagayo, kihe……"
-"Yamamoto Akuji (talking)","今後の参考に訊いとくけどよ、 おめー、なんか欲しいもんあるか？","For future reference, do you have anything you want?","Para futuras referencias, te preguntaré lo siguiente: ¿tienes algo que quieras?"
-"Suteki Ishi (talking)","けへへ……へ？ ほ、欲し……欲しいもの……","Kehehe…… hehe? Ho, want…… want……","Kehehe…… jeje? Ho, want…… want……"
-"Yamamoto Akuji (talking)","おう、麻薬以外で。 ボーナスで出してやってもいいぞ。","Oh, except for the drugs. I can give you a bonus for that.","Oh, excepto por las drogas. Puedo darte una bonificación por eso."
-"Suteki Ishi (talking)","クスリがええがよ。","I'd rather take my pills.","Las drogas son buenas para ti."
-"Yamamoto Akuji (talking)","だから麻薬以外で……","So other than drugs: ……","Así que aparte de las drogas: ……"
-"Suteki Ishi (talking)","おクスリ欲しいが。","I'd like to get some pills, though.","Sin embargo, me gustaría tener alguna medicación."
-"Yamamoto Akuji (talking)","………………
+Yamamoto Akuji (talking),よー、素敵医師。 おめー、割とマトモに 働いてるそーじゃねーか。,"Hey, Suteki Ishi. I heard you're working rather decently.","Oye, Suteki Ishi. He oído que estás trabajando bastante bien."
+Yamamoto Akuji (talking),け、けひひひひひ…… そ、それはもちろんながよ、きへ……,"Keh, kehihihihihihihihihihihihi…… So, that's of course nagayo, kihe……","Keh, kehihihihihihihi…… Así que, por supuesto, es Nagayo, kihe……"
+Yamamoto Akuji (talking),今後の参考に訊いとくけどよ、 おめー、なんか欲しいもんあるか？,"For future reference, do you have anything you want?","Para futuras referencias, te preguntaré lo siguiente: ¿tienes algo que quieras?"
+Suteki Ishi (talking),けへへ……へ？ ほ、欲し……欲しいもの……,"Kehehe…… hehe? Ho, want…… want……","Kehehe…… jeje? Ho, want…… want……"
+Yamamoto Akuji (talking),おう、麻薬以外で。 ボーナスで出してやってもいいぞ。,"Oh, except for the drugs. I can give you a bonus for that.","Oh, excepto por las drogas. Puedo darte una bonificación por eso."
+Suteki Ishi (talking),クスリがええがよ。,I'd rather take my pills.,Las drogas son buenas para ti.
+Yamamoto Akuji (talking),だから麻薬以外で……,So other than drugs: ……,Así que aparte de las drogas: ……
+Suteki Ishi (talking),おクスリ欲しいが。,"I'd like to get some pills, though.","Sin embargo, me gustaría tener alguna medicación."
+Yamamoto Akuji (talking),"………………
 まーその、俺がたまに吸うモクなら 今ここに持ってるけどよ。","………………
 Well, if it's the moke I smoke once in a while, I have it right here now.","………………
 Bueno, ya sabes, si es el moke que fumo a veces, lo tengo aquí mismo."
-"Suteki Ishi (talking)","も、ももももも、もく？","Momo, momo, momo?","¿Momo, momo, momo?"
-"Yamamoto Akuji (talking)","煙草だ煙草。 見方によっちゃあ、 これも麻薬の一種だしな……","Cigarettes, cigarettes, cigarettes. And depending on how you look at it, it's also a drug……","Cigarrillos, cigarrillos. Y dependiendo de cómo se mire, también es una especie de droga……"
-"narrator","悪司は、百円ライターと一緒に 素敵医師の目の前に煙草一箱を差し出した。
+Suteki Ishi (talking),も、ももももも、もく？,"Momo, momo, momo?","¿Momo, momo, momo?"
+Yamamoto Akuji (talking),煙草だ煙草。 見方によっちゃあ、 これも麻薬の一種だしな……,"Cigarettes, cigarettes, cigarettes. And depending on how you look at it, it's also a drug……","Cigarrillos, cigarrillos. Y dependiendo de cómo se mire, también es una especie de droga……"
+narrator,"悪司は、百円ライターと一緒に 素敵医師の目の前に煙草一箱を差し出した。
  ──と、素敵医師は 悪司の手から煙草をしゃくり取った。","Akuji held out a pack of cigarettes in front of Suteki Ishi, along with a 100 yen lighter.
 Suteki Ishi shucked the cigarettes out of Akuji's hand.","Akuji extendió un paquete de cigarrillos frente a Suteki Ishi, junto con un mechero de cien yenes.
 Suteki Ishi barajó los cigarrillos de la mano de Akuji."
-"Suteki Ishi (talking)","し、刺激ーー刺激ーーー刺激ーーー！！ ローダウンエクスタシィーーー！！！！","Shi, Stimulaaate Stimulaaaate Stimulaaaate!! Lowdown Ecstasyyyy!!!!","Est, ¡¡Estimulaaa Estimulaaaa Estimulaaaa!! ¡¡¡¡Éxtasis en la sombra!!!!"
-"narrator","素敵医師は叫びながら 二十本近い煙草を全て取り出し、 まとめて口にくわえて火をつける。","Suteki Ishi shouts as he pulls out nearly two dozen cigarettes, puts them all together in his mouth, and lights them.","Suteki Ishi grita mientras saca todas sus casi dos docenas de cigarrillos, los pone juntos en su boca y los enciende."
-"Suteki Ishi (talking)","すぱーすぱーすぱーすぱーすぱーすぱー、 すぱーすぱーすぱーすぱーすぱーすぱー、 すぱーすぱーすぱーすぱーすぱーすぱー…
+Suteki Ishi (talking),し、刺激ーー刺激ーーー刺激ーーー！！ ローダウンエクスタシィーーー！！！！,"Shi, Stimulaaate Stimulaaaate Stimulaaaate!! Lowdown Ecstasyyyy!!!!","Est, ¡¡Estimulaaa Estimulaaaa Estimulaaaa!! ¡¡¡¡Éxtasis en la sombra!!!!"
+narrator,素敵医師は叫びながら 二十本近い煙草を全て取り出し、 まとめて口にくわえて火をつける。,"Suteki Ishi shouts as he pulls out nearly two dozen cigarettes, puts them all together in his mouth, and lights them.","Suteki Ishi grita mientras saca todas sus casi dos docenas de cigarrillos, los pone juntos en su boca y los enciende."
+Suteki Ishi (talking),"すぱーすぱーすぱーすぱーすぱーすぱー、 すぱーすぱーすぱーすぱーすぱーすぱー、 すぱーすぱーすぱーすぱーすぱーすぱー…
 あ、あへ……あへ、うえ、うえええ…… き、来たキタきたきっ……
  ………あぅ~、うえぇ……ひううぅ……
 すぱーすぱーすぱーすぱーすぱーすぱー、 すぱーすぱーすぱーすぱーすぱーすぱー、 すぱーすぱーすぱーすぱーすぱーすぱー…
@@ -583,46 +583,46 @@ Supa-supa-supa-supa-supa-supa-supa-supa-supa-supa-supa-supa-supa-supa-supa-supa-
  ………Howww………… enchanting ……","Supa-supa-supa-supa-supa-supa-supa-supa-supa-supa-supa-supa-supa-supa-supa-supa-supa-supa-supa-supa-supa-supa…
 Ah, ah…… ah, ue, ue ee…… ki, kita kita kita kita ……
 Ahe, ue, ue……… Ahe, ue…… Hiuuuuu…………… hoorah………… embelesado ……"
-"Yamamoto Akuji (talking)","………………
+Yamamoto Akuji (talking),"………………
 俺、煙草やめよっかな。","………………
 I think I'm gonna quit smoking.","………………
 Creo que voy a dejar de fumar."
-"narrator","素敵医師は細い路地に一人佇み、 曇った夜空を見上げている。","Suteki Ishi stands alone in a narrow alley, looking up at the cloudy Yozora.","Suteki Ishi está sola en un estrecho callejón, mirando al nublado Yozora."
-"Suteki Ishi (talking)","……ひ、ひへへ………… どんよりしちゅういい夜なが……
+narrator,素敵医師は細い路地に一人佇み、 曇った夜空を見上げている。,"Suteki Ishi stands alone in a narrow alley, looking up at the cloudy Yozora.","Suteki Ishi está sola en un estrecho callejón, mirando al nublado Yozora."
+Suteki Ishi (talking),"……ひ、ひへへ………… どんよりしちゅういい夜なが……
 へ、ひへ…………
  ……………………ほへ……？","……Hi, hiHe………… It's a cool night when it's cooler than usual……
 Heh, heh…………
  ……………………Hoe…? …?","……Hi, hihe………… Es una noche muy fría……
 He, Hehe…………
  ……………………Hohe… …?"
-"narrator","背後に人の気配を感じて、 素敵医師はのろのろとそちらを振り返った。","Feeling the presence of someone behind him, Suteki Ishi looked back lazily.","Al sentir la presencia de alguien detrás de ella, Suteki Ishi miró hacia atrás con pereza."
-"narrator","そこに居たのは、 素敵医師が昼間に呼び出していた","There he was, Suteki Ishi had called him during the day.","Allí estaba, Suteki Ishi le había llamado durante el día."
-"narrator","だった。","It was.","Lo fue."
-"Suteki Ishi (talking)","ひ、ひへ……ひひゃへへへ………… よう来てくれたがよ……
+narrator,背後に人の気配を感じて、 素敵医師はのろのろとそちらを振り返った。,"Feeling the presence of someone behind him, Suteki Ishi looked back lazily.","Al sentir la presencia de alguien detrás de ella, Suteki Ishi miró hacia atrás con pereza."
+narrator,そこに居たのは、 素敵医師が昼間に呼び出していた,"There he was, Suteki Ishi had called him during the day.","Allí estaba, Suteki Ishi le había llamado durante el día."
+narrator,だった。,It was.,Lo fue.
+Suteki Ishi (talking),"ひ、ひへ……ひひゃへへへ………… よう来てくれたがよ……
 ああ、別に大した用はないがよ。 おまぁには日頃お世話になっちゅうきね、 お礼に……………………
  …………麻薬をプレゼントするがよ。","Oh, I'm not here for anything important. I've been indebted to you for all the help you've given me, and in return, I'll give you ……………………
 I'll give you some………… narcotics as a gift.","Oh, no estoy aquí para nada importante. He estado en deuda contigo, y a cambio, te daré ……………………
 Te voy a regalar unos narcóticos de …………."
-"narrator","素敵医師はアンプルと注射器を取り出し、 突然、","Suteki Ishi pulls out an ampoule and syringe, and suddenly","Suteki Ishi sacó una ampolla y una jeringa y de repente"
-"narrator","に飛びかかった──","He jumped on the","Saltó sobre el…"
-"Suteki Ishi (talking)","ひ、ひへ……ひへへへへへへ…………
+narrator,素敵医師はアンプルと注射器を取り出し、 突然、,"Suteki Ishi pulls out an ampoule and syringe, and suddenly",Suteki Ishi sacó una ampolla y una jeringa y de repente
+narrator,に飛びかかった──,He jumped on the,Saltó sobre el…
+Suteki Ishi (talking),"ひ、ひへ……ひへへへへへへ…………
  ……ひへ、","Hi、hihe…… hihehehehehehe…………
 ……hihe、","Hi、hihe…… hihehehehehehe…………
 ……hihe、"
-"Suteki Ishi (talking)","………… き、気分はどうなが……？
+Suteki Ishi (talking),"………… き、気分はどうなが……？
 ひへへへへ……そうながか、そうながか。 最高の気分ながか…………
 ひへ、ひへへへへ…… ひゃはへへへへへゃはははは……！！","…………ki, how are you feeling……?
 Hihehehehe…… yeah, yeah, yeah, yeah. I feel great…………
 Hihe、hihehehehe…… hiyahhaheheheheheyahhahahaha……！！","…………Ki, ¿cómo te sientes……?
 Hihehehehe…… sí, sí, sí, sí. Me siento muy bien…………
 Hihe、hihehehehe…… hiyahhaheheheheheyahhahahaha……！！"
-"narrator","は、素敵医師の手にかかって ジャンキーになってしまった。
+narrator,"は、素敵医師の手にかかって ジャンキーになってしまった。
 もう、","is now Junky in the hands of Suteki Ishi.
 I'm already","se ha convertido en Junky en manos de Suteki Ishi.
 Ya no es"
-"narrator","が回復することは ないだろう──","will never recover.","nunca se recuperará."
-"narrator","──この地区の奉仕青年団員詰所前に、 数人のジャンキーがふらふらと現れた。","─ A few Junkies wandered up in front of the Youth Service Corps members' station in this area.","─ ─ Unos cuantos Junky se pasean por delante de la estación de servicio de los miembros del cuerpo de jóvenes del servicio en esta zona."
-"Junky (talking)","ち……畜生………… ヤクを……ヤクよこせえっ……………
+narrator,が回復することは ないだろう──,will never recover.,nunca se recuperará.
+narrator,──この地区の奉仕青年団員詰所前に、 数人のジャンキーがふらふらと現れた。,─ A few Junkies wandered up in front of the Youth Service Corps members' station in this area.,─ ─ Unos cuantos Junky se pasean por delante de la estación de servicio de los miembros del cuerpo de jóvenes del servicio en esta zona.
+Junky (talking),"ち……畜生………… ヤクを……ヤクよこせえっ……………
 ここにヤクがあるって聞いたぜ…… 地域管理組合ならヤク持ってんだろぉ？
 ヤク、ヤクううっ………… 畜生、畜生、ちくしょおおおっ……！
 ヤクよこせええええええええええっ！！","Chi…… damn………… yak to…… yak give it to me eh… …………
@@ -632,44 +632,44 @@ Yakuyokoseeeeeeeeeee~！！","Chi…… maldita sea………… yak a…… yak 
 He oído que hay yak aquí…… Si eres una asociación de gestión de comunidades, tienes yak, ¿no?
 Yak, yak eh………… ¡Maldición, maldición, maldición eh ……!
 ¡¡Yakuyokoseeeeeeeeeee~！！"
-"narrator","数名のジャンキーたちは叫び声を上げながら、 詰所に襲いかかっていった。","A few Junkies attacked the stuffing station, screaming and shouting.","Varios Junky atacaron el bloqueo, gritando."
-"Suteki Ishi (talking)","ひ、ひへへへ…… 見えてきよったがよ、 あれが奉仕青年団の詰所やき……","Hee hee hee…… I can see it now, that's the service youth corps office……","Hee hee hee…… Puedes verlo ahora, esa es la oficina de la organización juvenil del servicio……"
-"Junky (talking)","せっ……せンせえ……先生っ…… 本当に、本当にあそこに ヤクとカネがあんのか…………？","Sensei…… Sensei…… Sensei…… Are there really, really drugs and money there …………?","Sensei…… Sensei…… Sensei…… ¿Hay realmente, realmente drogas y dinero allí …………?"
-"Suteki Ishi (talking)","本当にあるがよ、先生は嘘吐かんきね。
+narrator,数名のジャンキーたちは叫び声を上げながら、 詰所に襲いかかっていった。,"A few Junkies attacked the stuffing station, screaming and shouting.","Varios Junky atacaron el bloqueo, gritando."
+Suteki Ishi (talking),ひ、ひへへへ…… 見えてきよったがよ、 あれが奉仕青年団の詰所やき……,"Hee hee hee…… I can see it now, that's the service youth corps office……","Hee hee hee…… Puedes verlo ahora, esa es la oficina de la organización juvenil del servicio……"
+Junky (talking),せっ……せンせえ……先生っ…… 本当に、本当にあそこに ヤクとカネがあんのか…………？,"Sensei…… Sensei…… Sensei…… Are there really, really drugs and money there …………?","Sensei…… Sensei…… Sensei…… ¿Hay realmente, realmente drogas y dinero allí …………?"
+Suteki Ishi (talking),"本当にあるがよ、先生は嘘吐かんきね。
 仮におクスリが無かったがでも、 おまぁらがカネ持っちゅうがやったら 先生がおクスリ作っちゃるきね。
 さ、お友達と一緒に暴れて来るがよ。","It's true, but you don't lie.
 Even if there were no drugs, if you have money, the teacher will make drugs for you.
 Now, go and riot with your friends.","Es cierto, pero el médico no mentiría.
 Incluso si no hubiera drogas, si tienes dinero, el profesor te las hará.
 Ahora, ve y alborota con tus amigos."
-"Junky (talking)","う、うお……………… ……うおおおおおおおおっ……！！
+Junky (talking),"う、うお……………… ……うおおおおおおおおっ……！！
 クスリよこせええええええええっ！ カネよこせえええええええええっ！！","U、uo……………… ……uoooooooo~……！！
 Give me some medicineeeeeeeeee~！ Give me moneeeeeeeeeeey~！！","¡¡U、uo……………… ……uoooooooo~……！！
 ¡Dame alguna medicinaaaaaaaaaa~! ¡¡Dame dinerooooooooooo~！！"
-"narrator","数名のジャンキーたちは叫び声を上げながら、 詰所に襲いかかっていった。","A few Junkies attacked the stuffing station, screaming and shouting.","Varios Junky atacaron el bloqueo, gritando."
-"Suteki Ishi (talking)","そうそう、それでええがよ…… 暴れて奪って血みどろになるがよ……
+narrator,数名のジャンキーたちは叫び声を上げながら、 詰所に襲いかかっていった。,"A few Junkies attacked the stuffing station, screaming and shouting.","Varios Junky atacaron el bloqueo, gritando."
+Suteki Ishi (talking),"そうそう、それでええがよ…… 暴れて奪って血みどろになるがよ……
 き、きへ…………きへへへへ…… 楽しいがよ…………
  ……ひゃえーっへっへっへっへ……！！","Yeah, yeah, that's fine…… Rampage and rob and bleed……
   ………… hee hee hee hee hee hee ……!","Sí, sí, está bien…… Rampage and rob and bloody ……
   ………… ¡He hee hee hee ……!"
-"Suteki Ishi (talking)","へ……ほひへへへ………… ひゃへ…………へへへ……","Heh……Heh………… Heh………… Heh……","Hehe……Hehehehe………… Hehehe………… Hehehe……"
-"Lover (talking)","あ、あの…… 呼ばれた通りに参りましたが、 一体、私に何の用でしょう……","Oh, um,…… I'm here as you asked, but what on earth do you want from me? ……","Oh, um,…… Estoy aquí como me pediste, pero ¿qué demonios quieres de mí? ……"
-"Suteki Ishi (talking)","ほへ、ひへ…… まあ、用ってもんでもないがよ。
+Suteki Ishi (talking),へ……ほひへへへ………… ひゃへ…………へへへ……,Heh……Heh………… Heh………… Heh……,Hehe……Hehehehe………… Hehehe………… Hehehe……
+Lover (talking),あ、あの…… 呼ばれた通りに参りましたが、 一体、私に何の用でしょう……,"Oh, um,…… I'm here as you asked, but what on earth do you want from me? ……","Oh, um,…… Estoy aquí como me pediste, pero ¿qué demonios quieres de mí? ……"
+Suteki Ishi (talking),"ほへ、ひへ…… まあ、用ってもんでもないがよ。
 今日はどんより曇っていい日和で、 風も湿気が多くてじとじとして ようけ気持ちええがよ。
 ほやけん、誰か綺麗所でも呼んで、 お喋りしつつ、楽しい午後のひとときを 過ごしたかったが。","Hehe, hehe…… Well, it's not like I have anything to do.
 It's a nice overcast day today, and the wind is humid and damp, so it's quite pleasant.
 I was hoping to invite someone over to my place and spend a pleasant afternoon chatting.","Hehe, hehe…… Bueno, no es que tenga nada que hacer.
 Hoy hace un buen día, nublado, y el viento es húmedo y mojado, así que es muy agradable.
 Me hubiera gustado invitar a alguien a venir al cuarto limpio, a charlar y a disfrutar de una tarde agradable."
-"Lover (talking)","……………………は、はあ……","…………………… ha ……","…………………… ha ……"
-"Suteki Ishi (talking)","きへ、へへ………… まあ隣りに座るがよ。","Kihe, hehe………… Well, sit next to me.","Kihe, jeje………… Bueno, siéntate a mi lado."
-"Lover (talking)","とっ、隣りに…………","Tou, next to …………","Tou, junto a …………"
-"Suteki Ishi (talking)","まあそう嫌がらんでもええがよ。 きへへへへへへ……","Well, you don't have to hate me so much. Kihehehehehehe……","Bueno, no tienes que odiarme tanto. Kihehehehehehe……"
-"Lover (thinking)","だ、誰だって嫌がるわよっ…… キモくてクサいあんたの隣りなんか……","No one wants to be next to a gross, stinking ……","Nadie quiere estar a tu lado, asqueroso y apestoso ……"
-"Suteki Ishi (talking)","きへ、きへへ…………ひゃへへ…… ほれ、隣りに………………
+Lover (talking),……………………は、はあ……,…………………… ha ……,…………………… ha ……
+Suteki Ishi (talking),きへ、へへ………… まあ隣りに座るがよ。,"Kihe, hehe………… Well, sit next to me.","Kihe, jeje………… Bueno, siéntate a mi lado."
+Lover (talking),とっ、隣りに…………,"Tou, next to …………","Tou, junto a …………"
+Suteki Ishi (talking),まあそう嫌がらんでもええがよ。 きへへへへへへ……,"Well, you don't have to hate me so much. Kihehehehehehe……","Bueno, no tienes que odiarme tanto. Kihehehehehehe……"
+Lover (thinking),だ、誰だって嫌がるわよっ…… キモくてクサいあんたの隣りなんか……,"No one wants to be next to a gross, stinking ……","Nadie quiere estar a tu lado, asqueroso y apestoso ……"
+Suteki Ishi (talking),"きへ、きへへ…………ひゃへへ…… ほれ、隣りに………………
  ……………とな、り……………に………","Kihee, kihee………… hyahee…… Here, next to me…… ……………………… and, ri………… …to ………","Ki hee, ki hee………… hiya hee…… Aquí, a mi lado…… ……………………… y, ri………… …a ………"
-"Lover (talking)","？　あの……？","?　That ……?","?　¿El ……?"
-"Suteki Ishi (talking)","くっ…………クスリが切れ………… 切れったるれったらりれってらるねら…
+Lover (talking),？　あの……？,?　That ……?,?　¿El ……?
+Suteki Ishi (talking),"くっ…………クスリが切れ………… 切れったるれったらりれってらるねら…
 …………ふわぎゃーーーーーーーー！！
 あひーあひーひああああああああ！ あきゃきゃきゃきゃきゃかはひゃー！ ぷばーぷばーほべぱひゃふはひゃぺー！
 ひひゃらほへきゃぴぷへうぇひゃえー！ おへ、うへ、うへ…ひへはほへはぺー！ ぷらんばっぱぴしゃきぴゅきぴゃーー！","Ou~………… Out of medicine………… It's cut off, it's cut off, it's cut off…
@@ -679,42 +679,42 @@ Hihiyahrahohekiyahpipuheuehhiyahee！ ohe、uhe、uhe…hihehahohehapee！ puran
 …………fuwagiyahaaaaaaaa！！
 Ahiiahiihiaaaaaaaa！ akiyahkiyahkiyahkiyahkiyahkaha！ pubaapubaahobepahiyahfuhahiyahpee！
 Hihiyahrahohekiyahpipuheuehhiyahee！ ohe、uhe、uhe…hihehahohehapee！ puranba~papishiyahkipiyuhkipiyahaa！"
-"Lover (talking)","……ひっ……ひいいっ！ な、何……何なのよ、ちょ……","…… hihi…… hiiiiiii! What the…… what the hell, hey ……","¡…… hihi…… hiiiiiii! Qué…… qué demonios, hey ……"
-"Suteki Ishi (talking)","あひーあひーひああああああああ！ あきゃきゃきゃきゃきゃかはひゃー！ ぷばーぷばーほべぱひゃふはひゃぺー！","Ahiiahiihiaaaaaaaa！ akiyahkiyahkiyahkiyahkiyahkaha！ pubaapubaahobepahiyahfuhahiyahpee！","¡Ahiiahiihiaaaaaaaa！ ¡akiyahkiyahkiyahkiyahkiyahkaha！ ¡pubaapubaahobepahiyahfuhahiyahpee！"
-"Lover (talking)","ひ、ひいっ……！ きゃーーーーーーーーーーっ！","Hi、hii~……！ kiyahaaaaaaaaaa~！","Hi、hii~……！ kiyahaaaaaaaaaa~！"
-"narrator","情婦が恐怖にかられて逃げ出した。
+Lover (talking),……ひっ……ひいいっ！ な、何……何なのよ、ちょ……,"…… hihi…… hiiiiiii! What the…… what the hell, hey ……","¡…… hihi…… hiiiiiii! Qué…… qué demonios, hey ……"
+Suteki Ishi (talking),あひーあひーひああああああああ！ あきゃきゃきゃきゃきゃかはひゃー！ ぷばーぷばーほべぱひゃふはひゃぺー！,Ahiiahiihiaaaaaaaa！ akiyahkiyahkiyahkiyahkiyahkaha！ pubaapubaahobepahiyahfuhahiyahpee！,¡Ahiiahiihiaaaaaaaa！ ¡akiyahkiyahkiyahkiyahkiyahkaha！ ¡pubaapubaahobepahiyahfuhahiyahpee！
+Lover (talking),ひ、ひいっ……！ きゃーーーーーーーーーーっ！,Hi、hii~……！ kiyahaaaaaaaaaa~！,Hi、hii~……！ kiyahaaaaaaaaaa~！
+narrator,"情婦が恐怖にかられて逃げ出した。
 それとほぼ同時に、 素敵医師が懐から麻薬入り注射器を取り出し、 自分の躰へ突き立てた。","Lover ran away in fear.
 At about the same time, Suteki Ishi took out a syringe filled with drugs from his pocket and thrust it into his own body.","Lover huyó aterrorizado.
 Casi al mismo tiempo, Suteki Ishi sacó una jeringa llena de droga de su bolsillo y se la clavó."
-"Suteki Ishi (talking)","……………………ほへ………… ひ、ひへ……落ち着いたが…………
+Suteki Ishi (talking),"……………………ほへ………… ひ、ひへ……落ち着いたが…………
 しかし失礼な女やき…… 何も逃げる事はないがよ。………… ひ、ひへ。決めたがよ。
 あの女にもいずれ、 おクスリの素晴らしさを教えてやるが。 きへ、ひへひゃへへ……！","…………………… Hohe………… Hi, hihe…… I've calmed down, but …………
 But rude woman yaki…… nothing to run away from, though.………… Hi, hihe. I've made up my mind.
 I'm going to teach her the wonders of drugs one of these days. Hee hee hee hee hee ……!","…………………… Hohe………… Hola, hihe…… Me he calmado, pero …………
 Pero la mujer ruda yaki…… nada para huir, sin embargo.………… Hola, hola. Ya me he decidido.
 Algún día le enseñaré las maravillas de las drogas. ¡Kihe, hihe hihe hihe ……!"
-"Suteki Ishi (talking)","ひ、ひへ……ひへへ……
+Suteki Ishi (talking),"ひ、ひへ……ひへへ……
 く、組長ゆうのはええもんながよ。 誰も彼も頭下げゆう……
 い、いいい、いっぱい威張れるし、 もう言うことないき……きへへへ。 おらぁ最高ながよ。","Hi, hihe…… hihe……
 Ku, the boss is a good one. Everyone bows down to him……
 Yes, yes, I can be proud of myself a lot, and I don't have to say any more……ki-heh-heh-heh. I'm the best.","Hola, hihe…… hihe……
 Ku, el líder del clan es un buen hombre. Todos se inclinan ante él……
 Sí, sí, puedo estar muy orgulloso de mí mismo, y no tengo nada más que decir…… Soy el mejor."
-"Chinpira (talking)","し……失礼しやす、組長…… 言われたとおり、ドドリアジュースを 作ってきやした…………","I've made some Dodoria juice as you asked me to…………","He hecho un poco de jugo de Dodoria como me pediste……"
-"Suteki Ishi (talking)","……んあ？ 知らんがよ、そんなん。","…… Hmmm? I don't know, man.","…… ¿Hmm? No lo sé, hombre, no lo sé."
-"Chinpira (talking)","し、知らんって組長、 さっきドドリアジュースが飲みたいから ドドリア探してこいって……","I don't know, the boss just told me to go find Dodoria for some Dodoria juice……","No sé, el jefe de la banda me dijo que fuera a buscar a Dodoria para un zumo de Dodoria……"
-"Suteki Ishi (talking)","ああー、しつこいヤツは嫌いながよ。 知らんて言うたらおらぁ知らんが。
+Chinpira (talking),し……失礼しやす、組長…… 言われたとおり、ドドリアジュースを 作ってきやした…………,I've made some Dodoria juice as you asked me to…………,He hecho un poco de jugo de Dodoria como me pediste……
+Suteki Ishi (talking),……んあ？ 知らんがよ、そんなん。,"…… Hmmm? I don't know, man.","…… ¿Hmm? No lo sé, hombre, no lo sé."
+Chinpira (talking),し、知らんって組長、 さっきドドリアジュースが飲みたいから ドドリア探してこいって……,"I don't know, the boss just told me to go find Dodoria for some Dodoria juice……","No sé, el jefe de la banda me dijo que fuera a buscar a Dodoria para un zumo de Dodoria……"
+Suteki Ishi (talking),"ああー、しつこいヤツは嫌いながよ。 知らんて言うたらおらぁ知らんが。
  ……ぽいっとな。","Ah, I don't like persistent people. If you say you don't know, I don't know.
 Just drop me a line at …….","Ah, no me gusta la gente persistente. Si dices que no lo sabes, no lo sé.
 Escríbeme a ……."
-"narrator","素敵医師はジュースをぽいっと庭に捨てた。","Suteki Ishi dumped the juice into the garden.","Suteki Ishi tiró el zumo en el jardín con un plop."
-"Chinpira (talking)","………………あああああああ！ モノ不足のこのご時世、必死になって 探してきたドドリアのジュースがー！","……………… ahhhhh! In these days of scarcity, I've been desperately trying to find some Dodoria juice!","……………… ¡Aaaaah! En estos días de escasez, he intentado desesperadamente encontrar un poco de zumo de Dodoria."
-"Suteki Ishi (talking)","おまぁ、組長の嗜好が解ってないがよ。 おらぁジュースよりクスリやき。
+narrator,素敵医師はジュースをぽいっと庭に捨てた。,Suteki Ishi dumped the juice into the garden.,Suteki Ishi tiró el zumo en el jardín con un plop.
+Chinpira (talking),………………あああああああ！ モノ不足のこのご時世、必死になって 探してきたドドリアのジュースがー！,"……………… ahhhhh! In these days of scarcity, I've been desperately trying to find some Dodoria juice!","……………… ¡Aaaaah! En estos días de escasez, he intentado desesperadamente encontrar un poco de zumo de Dodoria."
+Suteki Ishi (talking),"おまぁ、組長の嗜好が解ってないがよ。 おらぁジュースよりクスリやき。
 ほれ、ジンタンでもヒヤキオーガンでも 何でもええき、クスリ買うて来とおせ。 ほれ、ほれほれほれ。
 給料はようけ出しちょるきね、 給料分だけはぎっちり働いてもらうが。 それともクスリ漬けになりたいがか、ん？","You don't know what the boss likes, do you? I prefer drugs to juice.
 Go buy some drugs, like Zintan, or Hiyaki Organ, or whatever you want. Here, here, here, here.
 I'll pay you well, and you'll work hard for your wages. Or do you want to be a drug addict, hmm?","Bueno, no entiendes los gustos de tu jefe. Prefiero las drogas a los zumos.
 Vamos, compra algunas drogas - Zintan, Hiyaki Organ, lo que quieras. Aquí, aquí, aquí, aquí.
 Te pago un sueldo y quiero que trabajes duro por tu sueldo. ¿O quieres estar drogado?"
-"Chinpira (talking)","ちっ……ちっくしょ………… い、行きますよ、行きゃいいんでしょ、 ……この…………","Damn…… damn………… I'll go, I'll go, I'll go, I'll go, I'll go…… this …………","Tiny…… Tiny………… Voy a ir, voy a ir, voy a ir, voy a ir, derecho…… este …………"
-"Suteki Ishi (talking)","…………きへ、ひゃへへへ………… 組長サイコーながよ。ひゃへへへ……！","…………Kihee, hyaheehee………… gang leader psycho naga yo. Hya hehehehe……!","………… Kihe, hyahehehe………… líder de la banda psico nayo. ¡Hyah hee hee ……!"
+Chinpira (talking),ちっ……ちっくしょ………… い、行きますよ、行きゃいいんでしょ、 ……この…………,"Damn…… damn………… I'll go, I'll go, I'll go, I'll go, I'll go…… this …………","Tiny…… Tiny………… Voy a ir, voy a ir, voy a ir, voy a ir, derecho…… este …………"
+Suteki Ishi (talking),…………きへ、ひゃへへへ………… 組長サイコーながよ。ひゃへへへ……！,"…………Kihee, hyaheehee………… gang leader psycho naga yo. Hya hehehehe……!","………… Kihe, hyahehehe………… líder de la banda psico nayo. ¡Hyah hee hee ……!"

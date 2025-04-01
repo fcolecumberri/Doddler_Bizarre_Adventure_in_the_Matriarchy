@@ -1,49 +1,49 @@
-"character","jap text","Eng","Esp"
-"__system__??","{麦 = 1:","",""
-"__system__??","{☆島本 = 1:","",""
-"__system__??","}","",""
-"__system__??","{☆島本 = 2:","",""
-"__system__??","}","",""
-"__system__??","{☆島本 = 3:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 3:","",""
-"__system__??","}","",""
-"Shimamoto Jun (talking)","お呼びですか？ 若。","You wanted to see me? Young.","¿Quería verme, señor? Joven."
-"Yamamoto Akuji (talking)","聞きそびれた事があったの 思い出してさ。","I just remembered something I didn't get a chance to ask you.","Recordé algo que no te pregunté."
-"Shimamoto Jun (talking)","どんな事でしょう？","What is it about?","¿De qué se trata?"
-"Yamamoto Akuji (talking)","お前さんがわかめ組を 抜けてきた理由だよ。","That's why you left the Wakame group.","Por eso dejaste el clan Wakame."
-"Shimamoto Jun (talking)","と、申されますと？","What do you mean?","¿Qué quieres decir?"
-"Yamamoto Akuji (talking)","今の俺は、わかめ組にいた時より、 羽振りが悪い。
+character,jap text,Eng,Esp
+__system__??,{麦 = 1:,,
+__system__??,{☆島本 = 1:,,
+__system__??,},,
+__system__??,{☆島本 = 2:,,
+__system__??,},,
+__system__??,{☆島本 = 3:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 3:,,
+__system__??,},,
+Shimamoto Jun (talking),お呼びですか？ 若。,You wanted to see me? Young.,"¿Quería verme, señor? Joven."
+Yamamoto Akuji (talking),聞きそびれた事があったの 思い出してさ。,I just remembered something I didn't get a chance to ask you.,Recordé algo que no te pregunté.
+Shimamoto Jun (talking),どんな事でしょう？,What is it about?,¿De qué se trata?
+Yamamoto Akuji (talking),お前さんがわかめ組を 抜けてきた理由だよ。,That's why you left the Wakame group.,Por eso dejaste el clan Wakame.
+Shimamoto Jun (talking),と、申されますと？,What do you mean?,¿Qué quieres decir?
+Yamamoto Akuji (talking),"今の俺は、わかめ組にいた時より、 羽振りが悪い。
 戦争に出ていて、ウィミィの統治下に あるニホンの状態もよくわかって いない。
 わざわざ安定を捨てて、 不安定の側につくには、 理由があるだろ？","I am not as well off now as I was when I was in the Wakamegumi .
 I am at war, and I don't really understand the state of Japan under the rule of Wime.
 There must be a reason why you would leave stability to be on the side of instability, right?","Ahora no estoy tan bien como cuando estaba en el grupo Wakame .
 Estoy en guerra, y no entiendo muy bien la situación de Japón bajo el gobierno de Wime.
 Debe haber una razón por la que estás dispuesto a renunciar a la estabilidad para estar del lado de la inestabilidad, ¿verdad?"
-"Shimamoto Jun (talking)","理由というものは、後からついてくる ものかもしれませんよ。","Reasons may come later.","Las razones pueden venir después."
-"Yamamoto Akuji (talking)","そーかもな。","That may be so.","Tal vez tengas razón."
-"Shimamoto Jun (talking)","ですから、理由をお聞きになるのは、 無駄な事かと。","Therefore, I think it would be futile to ask you why.","Así que sería inútil preguntarle por qué."
-"Yamamoto Akuji (talking)","そこが、人間のややこしい感情って やつでね。 しかも俺は頑固ときている。
+Shimamoto Jun (talking),理由というものは、後からついてくる ものかもしれませんよ。,Reasons may come later.,Las razones pueden venir después.
+Yamamoto Akuji (talking),そーかもな。,That may be so.,Tal vez tengas razón.
+Shimamoto Jun (talking),ですから、理由をお聞きになるのは、 無駄な事かと。,"Therefore, I think it would be futile to ask you why.",Así que sería inútil preguntarle por qué.
+Yamamoto Akuji (talking),"そこが、人間のややこしい感情って やつでね。 しかも俺は頑固ときている。
 理由は知っておきたいんだ。
 なんせ、お前は金、地位、名誉、女。 どれにも興味がないときている。","That's the complicated human emotion, you know. And I'm stubborn.
 I want to know why.
 After all, you are not interested in money, status, honor, or women. You are not interested in any of them.","Esa es la complicada emoción humana. Y yo soy terco.
 Quiero saber por qué.
 Después de todo, no te interesa el dinero, el estatus, el honor o las mujeres. No me interesa ninguno de ellos."
-"Shimamoto Jun (talking)","若ですよ。","Young.","Joven."
-"Yamamoto Akuji (talking)","え？","Huh?","¿Eh?"
-"Shimamoto Jun (talking)","私が興味あるのは、若です。 理由はそれです。 それでは駄目ですか？","What I am interested in is young. That is the reason. Is that not good enough?","Me interesan los jóvenes. Esa es la razón. ¿No es suficiente?"
-"Yamamoto Akuji (talking)","それってーのは……","I'm talking about ……","Es decir: ……"
-"Shimamoto Jun (talking)","ご心配なく。 恋愛対象としてではないですから。","Don't worry. It's not as a love interest.","No te preocupes. No es como un interés amoroso."
-"Yamamoto Akuji (talking)","そうかい。 しかし、お前さんの、 かいかぶりじゃねーか？
+Shimamoto Jun (talking),若ですよ。,Young.,Joven.
+Yamamoto Akuji (talking),え？,Huh?,¿Eh?
+Shimamoto Jun (talking),私が興味あるのは、若です。 理由はそれです。 それでは駄目ですか？,What I am interested in is young. That is the reason. Is that not good enough?,Me interesan los jóvenes. Esa es la razón. ¿No es suficiente?
+Yamamoto Akuji (talking),それってーのは……,I'm talking about ……,Es decir: ……
+Shimamoto Jun (talking),ご心配なく。 恋愛対象としてではないですから。,Don't worry. It's not as a love interest.,No te preocupes. No es como un interés amoroso.
+Yamamoto Akuji (talking),"そうかい。 しかし、お前さんの、 かいかぶりじゃねーか？
 俺は、お前さんの目に、 そんな風に映っているのかい？","I see. But isn't that a bit of a poke in the eye for you?
 Is that how you see me?","De acuerdo. ¿Pero no es eso un poco de un golpe en el ojo para ti?
  ¿Es eso lo que parezco a tus ojos?"
-"Shimamoto Jun (talking)","はい。","Yes.","Sí."
-"Yamamoto Akuji (talking)","くすぐったい事を言ってくれるね。","You tickle me.","Me haces cosquillas."
-"Shimamoto Jun (talking)","恐れ入ります。","Thank you very much.","Lo siento."
-"Yamamoto Akuji (thinking)","……とか言いながら、やーっぱ １００％信用するってーのもなー…
+Shimamoto Jun (talking),はい。,Yes.,Sí.
+Yamamoto Akuji (talking),くすぐったい事を言ってくれるね。,You tickle me.,Me haces cosquillas.
+Shimamoto Jun (talking),恐れ入ります。,Thank you very much.,Lo siento.
+Yamamoto Akuji (thinking),"……とか言いながら、やーっぱ １００％信用するってーのもなー…
 スパイだったりしたら、 目もあてられねーなー。
 んだけど、こいつの情報処理能力は 高い。
  ……俺が目当てっていうのもどこまで 本気か知らねーけど… まあ、使えるとこは使わねーと。","I don't know if I'd trust 100% of what they say on ………
@@ -53,156 +53,156 @@ I don't know how serious he is when he says he's after…… me, but… well, we
 Si fuera un espía, ni siquiera sería capaz de mirarlo a los ojos.
 Pero tiene una gran capacidad de procesamiento de información.
 No sé hasta qué punto va en serio cuando dice que va a por mí ……, pero… bueno, tenemos que utilizarlo donde podamos."
-"Shimamoto Jun (talking)","お呼びですか、若？","You wanted to see me, young man?","¿Querías verme, joven?"
-"Yamamoto Akuji (talking)","一つ仕事をして欲しい。 わかめ組にいた頃からしていた お前の得意技だ。","I want you to do one job. It's something you've done since you were in the Wakame group, something you're good at.","Quiero que hagas un trabajo. Has estado haciendo esto desde que estabas en el clan Wakame, es tu especialidad."
-"Shimamoto Jun (talking)","部下の減給処理ですね。","It's a process to reduce the pay of subordinates.","Es un proceso por el que los subordinados reciben un recorte salarial."
-"Yamamoto Akuji (talking)","そうだ。 給料ってのは、なかなか減らす訳には いかねぇからな。
+Shimamoto Jun (talking),お呼びですか、若？,"You wanted to see me, young man?","¿Querías verme, joven?"
+Yamamoto Akuji (talking),一つ仕事をして欲しい。 わかめ組にいた頃からしていた お前の得意技だ。,"I want you to do one job. It's something you've done since you were in the Wakame group, something you're good at.","Quiero que hagas un trabajo. Has estado haciendo esto desde que estabas en el clan Wakame, es tu especialidad."
+Shimamoto Jun (talking),部下の減給処理ですね。,It's a process to reduce the pay of subordinates.,Es un proceso por el que los subordinados reciben un recorte salarial.
+Yamamoto Akuji (talking),"そうだ。 給料ってのは、なかなか減らす訳には いかねぇからな。
 そこで、重箱の隅をつつくように、人の ミスを指摘して、給料の減額を納得させる お前の手腕を発揮して貰いたいんだがよ。","That's right. Salaries can't be easily reduced.
 So, I'd like you to show your skills by pointing out people's mistakes and convincing them to reduce their salaries, as if you were poking into a corner of a heavy box.","Así es. Los salarios no se pueden reducir fácilmente.
 Así que me gustaría que utilizaras tus habilidades para señalar los errores de la gente y convencerla de que se rebaje el sueldo."
-"Shimamoto Jun (talking)","わかりました。 やらせて頂きます。
+Shimamoto Jun (talking),"わかりました。 やらせて頂きます。
 ただし、対象者の人選は私にさせて 頂いて貰ってもよろしいですか？
 すぐに誰でもという訳には まいりませんので。","I understand. I will do it.
 However, may I be allowed to select the subjects?
 I don't want to choose anyone right away.","Entendido. Lo haré.
 Sin embargo, ¿puedo pedirle que me permita seleccionar los temas?
 No quiero elegir a nadie de golpe."
-"Yamamoto Akuji (talking)","ああ、任せる。
+Yamamoto Akuji (talking),"ああ、任せる。
 組織は金がかかるんで、減らせるとこは 減らしておきたいからな。","Yeah, I'll leave it to you.
 Organizations cost money, so I'd like to cut back where I can.","Sí, te lo dejo a ti.
 Las organizaciones cuestan dinero, así que queremos reducir en lo posible."
-"Shimamoto Jun (talking)","はい、わかっております。","Yes, I understand.","Sí, lo sabemos."
-"Shimamoto Jun (talking)","これを私に？","This for me?","¿Esto es para mí?"
-"Seinendan Jyoshi (talking)","は、はい！ よろしかったら、食べて下さい… その…あまり上手に出来なかったけど…
+Shimamoto Jun (talking),はい、わかっております。,"Yes, I understand.","Sí, lo sabemos."
+Shimamoto Jun (talking),これを私に？,This for me?,¿Esto es para mí?
+Seinendan Jyoshi (talking),"は、はい！ よろしかったら、食べて下さい… その…あまり上手に出来なかったけど…
 あ、あの…失礼します……","Yes, yes! If you don't mind, please eat… well… it wasn't very good, but…
 Oh, um… excuse me… ……","Sí, sí. Si no te importa, por favor, come… bueno… no estaba muy bueno, pero…
 Oh, um… perdón……"
-"Shimamoto Jun (talking)","……………","……………","……………"
-"Yamamoto Akuji (talking)","見~た~ぞ~。","I saw it!","Lo he visto, lo he visto."
-"Shimamoto Jun (talking)","若。","Young.","Joven."
-"Yamamoto Akuji (talking)","モテモテじゃねーか、島本。 ところで、何もらったんだ？","You're irresistible, aren't you, Shimamoto? By the way, what did you get?","Eres irresistible, ¿verdad, Shimamoto? Por cierto, ¿qué has conseguido?"
-"Shimamoto Jun (talking)","クッキーだそうです。 若、クッキーはお好きですか？","They are cookies. Young man, do you like cookies?","Galletas, dicen. Joven, ¿le gustan las galletas?"
-"Yamamoto Akuji (talking)","何言ってんだ。 それ、お前さんにって…","What are you talking about? That's for you…","¿De qué estás hablando? Eso es para ti…"
-"Shimamoto Jun (talking)","若がお食べにならないなら――","If the young man won't eat--","Si el joven no quiere comer…"
-"narrator","　　［ぼそっっ］
+Shimamoto Jun (talking),……………,……………,……………
+Yamamoto Akuji (talking),見~た~ぞ~。,I saw it!,"Lo he visto, lo he visto."
+Shimamoto Jun (talking),若。,Young.,Joven.
+Yamamoto Akuji (talking),モテモテじゃねーか、島本。 ところで、何もらったんだ？,"You're irresistible, aren't you, Shimamoto? By the way, what did you get?","Eres irresistible, ¿verdad, Shimamoto? Por cierto, ¿qué has conseguido?"
+Shimamoto Jun (talking),クッキーだそうです。 若、クッキーはお好きですか？,"They are cookies. Young man, do you like cookies?","Galletas, dicen. Joven, ¿le gustan las galletas?"
+Yamamoto Akuji (talking),何言ってんだ。 それ、お前さんにって…,What are you talking about? That's for you…,¿De qué estás hablando? Eso es para ti…
+Shimamoto Jun (talking),若がお食べにならないなら――,If the young man won't eat--,Si el joven no quiere comer…
+narrator,"　　［ぼそっっ］
 島本は、クッキーの入った袋を ゴミ箱の中に入れた。","[Slurp.]
 Shimamoto put the bag of cookies in the trash.","[Slurp.]
 Shimamoto puso la bolsa de galletas en la papelera."
-"Yamamoto Akuji (talking)","おいおい、もったいねー。","Oh, come on, that's a waste of time.","Oh, vamos, eso es una pérdida de tiempo."
-"Shimamoto Jun (talking)","私は、どちらにも興味ありませんから。","Because I am not interested in either.","Porque no me interesa ninguna de las dos cosas."
-"Yamamoto Akuji (talking)","冷たい奴だなー。","You're a cold guy!","¡Es un frío!"
-"Shimamoto Jun (talking)","どうしました、若。","What is it, young man?","¿Qué pasa, joven?"
-"Yamamoto Akuji (talking)","いや、元気かなーと。","No, I was just wondering how you are.","No, sólo me preguntaba cómo estás."
-"Shimamoto Jun (talking)","見ての通りです。","As you can see.","Como se ve en."
-"Yamamoto Akuji (talking)","そいつはよかった。","That was good.","Ese tipo era bueno."
-"Yamamoto Akuji (thinking)","……取り敢えずは、裏切りそーな 雰囲気はナシか…","…… For the time being, I don't feel like I'm about to be betrayed…","…… Por el momento, no hay sensación de traición…"
-"Yamamoto Akuji (talking)","こんなモンでよかったら、 受け取ってくんねーか？","If you don't mind, can you take it?","¿Aceptarías esto si quieres?"
-"Shimamoto Jun (talking)","――お金ですか。","--Is it money?","- ¿Es por el dinero?"
-"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
-"Shimamoto Jun (talking)","結構です。 私は、お金の為にここにいるのでは ありませんので。
+Yamamoto Akuji (talking),おいおい、もったいねー。,"Oh, come on, that's a waste of time.","Oh, vamos, eso es una pérdida de tiempo."
+Shimamoto Jun (talking),私は、どちらにも興味ありませんから。,Because I am not interested in either.,Porque no me interesa ninguna de las dos cosas.
+Yamamoto Akuji (talking),冷たい奴だなー。,You're a cold guy!,¡Es un frío!
+Shimamoto Jun (talking),どうしました、若。,"What is it, young man?","¿Qué pasa, joven?"
+Yamamoto Akuji (talking),いや、元気かなーと。,"No, I was just wondering how you are.","No, sólo me preguntaba cómo estás."
+Shimamoto Jun (talking),見ての通りです。,As you can see.,Como se ve en.
+Yamamoto Akuji (talking),そいつはよかった。,That was good.,Ese tipo era bueno.
+Yamamoto Akuji (thinking),……取り敢えずは、裏切りそーな 雰囲気はナシか…,"…… For the time being, I don't feel like I'm about to be betrayed…","…… Por el momento, no hay sensación de traición…"
+Yamamoto Akuji (talking),こんなモンでよかったら、 受け取ってくんねーか？,"If you don't mind, can you take it?",¿Aceptarías esto si quieres?
+Shimamoto Jun (talking),――お金ですか。,--Is it money?,- ¿Es por el dinero?
+Yamamoto Akuji (talking),ああ。,Oh.,Oh.
+Shimamoto Jun (talking),"結構です。 私は、お金の為にここにいるのでは ありませんので。
 このお金は、運用資金に回して下さい。","No, thank you. I am not here for the money.
 Please put this money into the investment fund.","No, gracias. No estoy aquí por el dinero.
 Por favor, ponga este dinero en el fondo de inversión."
-"Yamamoto Akuji (talking)","そっか。 じゃー、そーさせてもらうわ。","I see. Then I'll do that.","Ya veo. Entonces lo haré."
-"narrator","そこから、奉仕青年団の事務所を 見ている男がいる。","From there, there is a man looking at the Servant Youth Corps office.","Desde allí, un hombre está mirando las oficinas del Cuerpo de Jóvenes del Servicio."
-"Shimamoto Jun (talking)","………………","………………","………………"
-" (talking)","あの……","That ……","Que ……"
-"Shimamoto Jun (talking)","っ！？","What?","¿Qué?"
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","{RND = 0:","",""
-"__system__??","}","",""
-"Seinendan Jyoshi (talking)","奉仕青年団事務所に何か御用の方 ですか？","Are you here to see me at the Youth Service Corps office?","¿Has venido a la oficina del Cuerpo de Jóvenes de Servicio?"
-"Shimamoto Jun (talking)","…………","…………","…………"
-"Seinendan Jyoshi (talking)","あ……","A……","A……"
-"Seinendan Jyoshi (talking)","何かしら、変な人…","Some kind of weirdo…","Algún tipo de, ya sabes, bicho raro…"
-" (talking)","さっそくだが、一人減額して 欲しいんだけどよ。","I'd like to make one reduction right off the bat.","De entrada, me gustaría una reducción en uno de ustedes."
-"__system__??","{Bキャラ = 28:","",""
-"__system__??","}","",""
-"__system__??","{Bキャラ = 1:","",""
-"__system__??","}","",""
-"__system__??","{B給与 = 0:","",""
-"__system__??","}","",""
-"__system__??","{LOOP > 30:","",""
-"Seinendan Jyoshi (talking)","現在は、対象者がおりません。","Currently, there are no subjects.","Actualmente, no hay asignaturas."
-"__system__??","}","",""
-"Seinendan Jyoshi (talking)","はい、わかりました。","Yes, I understand.","Sí, lo entiendo."
-" (talking)","さん。 あなたの組織に対する貢献度ですが……","Mr.. Your contribution to the organization……","Sr.. Su contribución a la organización……"
-"__system__??","{I装備[46] \ 99:","",""
-"narrator","島本は、","Shimamoto","Shimamoto"
-"narrator","の重大なミスなどを指摘し、給与の減額を納得させた。（秘密日記にそれは載っていた。）","convinced him to reduce his salary by pointing out, among other things, serious errors in (It was in the secret diary.)","le convenció para que le redujera el sueldo señalándole, entre otras cosas, graves errores en (Estaba en el diario secreto)."
-"__system__??","}","",""
-"narrator","島本は、","Shimamoto is a member of the","Shimamoto es un"
-"narrator","の些細なミスなどを 指摘し、給与の減額を納得させた。","The company pointed out minor errors by the employee and convinced him to accept a reduction in salary.","La empresa estaba convencida de que la reducción salarial estaba justificada señalando, entre otras cosas, los pequeños errores del"
-"narrator","そこから、奉仕青年団の事務所を 見ている男がいる。","From there, there is a man looking at the Servant Youth Corps office.","Desde allí, un hombre está mirando las oficinas del Cuerpo de Jóvenes del Servicio."
-"Shimamoto Jun (talking)","………………","………………","………………"
-"narrator","　　［ばくっっっ］","[all exclaiming]","[¡Bakugu!]"
-"Shimamoto Jun (talking)","えっ……","Eh ……","Eh ……"
-"narrator","男のスラックスの裾に、 野良犬が噛みついていた。","A stray dog was biting the hem of the man's slacks.","Un perro callejero había mordido el dobladillo de los pantalones del hombre."
-"Shimamoto Jun (talking)","………………！！！！！","………………！！！！！","………………！！！！！"
-"narrator","男は、そのまま硬直してしまった。
+Yamamoto Akuji (talking),そっか。 じゃー、そーさせてもらうわ。,I see. Then I'll do that.,Ya veo. Entonces lo haré.
+narrator,そこから、奉仕青年団の事務所を 見ている男がいる。,"From there, there is a man looking at the Servant Youth Corps office.","Desde allí, un hombre está mirando las oficinas del Cuerpo de Jóvenes del Servicio."
+Shimamoto Jun (talking),………………,………………,………………
+ (talking),あの……,That ……,Que ……
+Shimamoto Jun (talking),っ！？,What?,¿Qué?
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,{RND = 0:,,
+__system__??,},,
+Seinendan Jyoshi (talking),奉仕青年団事務所に何か御用の方 ですか？,Are you here to see me at the Youth Service Corps office?,¿Has venido a la oficina del Cuerpo de Jóvenes de Servicio?
+Shimamoto Jun (talking),…………,…………,…………
+Seinendan Jyoshi (talking),あ……,A……,A……
+Seinendan Jyoshi (talking),何かしら、変な人…,Some kind of weirdo…,"Algún tipo de, ya sabes, bicho raro…"
+ (talking),さっそくだが、一人減額して 欲しいんだけどよ。,I'd like to make one reduction right off the bat.,"De entrada, me gustaría una reducción en uno de ustedes."
+__system__??,{Bキャラ = 28:,,
+__system__??,},,
+__system__??,{Bキャラ = 1:,,
+__system__??,},,
+__system__??,{B給与 = 0:,,
+__system__??,},,
+__system__??,{LOOP > 30:,,
+Seinendan Jyoshi (talking),現在は、対象者がおりません。,"Currently, there are no subjects.","Actualmente, no hay asignaturas."
+__system__??,},,
+Seinendan Jyoshi (talking),はい、わかりました。,"Yes, I understand.","Sí, lo entiendo."
+ (talking),さん。 あなたの組織に対する貢献度ですが……,Mr.. Your contribution to the organization……,Sr.. Su contribución a la organización……
+__system__??,{I装備[46] \ 99:,,
+narrator,島本は、,Shimamoto,Shimamoto
+narrator,の重大なミスなどを指摘し、給与の減額を納得させた。（秘密日記にそれは載っていた。）,"convinced him to reduce his salary by pointing out, among other things, serious errors in (It was in the secret diary.)","le convenció para que le redujera el sueldo señalándole, entre otras cosas, graves errores en (Estaba en el diario secreto)."
+__system__??,},,
+narrator,島本は、,Shimamoto is a member of the,Shimamoto es un
+narrator,の些細なミスなどを 指摘し、給与の減額を納得させた。,The company pointed out minor errors by the employee and convinced him to accept a reduction in salary.,"La empresa estaba convencida de que la reducción salarial estaba justificada señalando, entre otras cosas, los pequeños errores del"
+narrator,そこから、奉仕青年団の事務所を 見ている男がいる。,"From there, there is a man looking at the Servant Youth Corps office.","Desde allí, un hombre está mirando las oficinas del Cuerpo de Jóvenes del Servicio."
+Shimamoto Jun (talking),………………,………………,………………
+narrator,　　［ばくっっっ］,[all exclaiming],[¡Bakugu!]
+Shimamoto Jun (talking),えっ……,Eh ……,Eh ……
+narrator,男のスラックスの裾に、 野良犬が噛みついていた。,A stray dog was biting the hem of the man's slacks.,Un perro callejero había mordido el dobladillo de los pantalones del hombre.
+Shimamoto Jun (talking),………………！！！！！,………………！！！！！,………………！！！！！
+narrator,"男は、そのまま硬直してしまった。
 その様子を面白がった野良犬が、 吠える為に、スラックスから口を放した。","The man went rigid.
 A stray dog, Haku at his face, released his mouth from his slacks to bark.","El hombre se puso rígido tal y como estaba.
 Un perro callejero, Haku al verlo, soltó su boca de los pantalones para ladrar."
-"Shimamoto Jun (talking)","……………！！！","……………！！！","……………！！！"
-"narrator","その隙に、男はそこから走り去った。 どうやら、犬が大の苦手らしい。
+Shimamoto Jun (talking),……………！！！,……………！！！,……………！！！
+narrator,"その隙に、男はそこから走り去った。 どうやら、犬が大の苦手らしい。
 この後二度と、その男をオオサカで 見る事は無かった。","The man ran away from there while it was happening. Apparently, he was not very good with dogs.
 I never saw him again in Oosaka.","El hombre huyó de allí mientras sucedía. Al parecer, no le gustaban mucho los perros.
 No volvimos a ver al hombre en Ossaka."
-"narrator","島本が通帳を持って現れた。","Shimamoto showed up with a bank book.","Shimamoto apareció con una libreta de ahorro."
-"Shimamoto Jun (talking)","若。 組の財政がかなり厳しい状況です。 何か対策は準備されていますか。","Young. The financial situation of the association is quite severe. Are you preparing any measures?","Joven. La situación financiera del sindicato es bastante difícil. ¿Se está preparando alguna medida?"
-"Yamamoto Akuji (talking)","それを考えるのは、お前の仕事だろ？","Isn't that what you're supposed to be thinking about?","Es tu trabajo pensar en eso, ¿no?"
-"__system__??","{☆島本／金 = 0:","",""
-"Shimamoto Jun (talking)","そうですね…
+narrator,島本が通帳を持って現れた。,Shimamoto showed up with a bank book.,Shimamoto apareció con una libreta de ahorro.
+Shimamoto Jun (talking),若。 組の財政がかなり厳しい状況です。 何か対策は準備されていますか。,Young. The financial situation of the association is quite severe. Are you preparing any measures?,Joven. La situación financiera del sindicato es bastante difícil. ¿Se está preparando alguna medida?
+Yamamoto Akuji (talking),それを考えるのは、お前の仕事だろ？,Isn't that what you're supposed to be thinking about?,"Es tu trabajo pensar en eso, ¿no?"
+__system__??,{☆島本／金 = 0:,,
+Shimamoto Jun (talking),"そうですね…
 ではニシンを買って得た利益をここで 還元させて頂きます。","Well…
 Then I will return the profit I made from buying the herring here.","Bien…
 Entonces devolveré el beneficio que obtuve al comprar el arenque aquí."
-"Yamamoto Akuji (talking)","ニシン？？","Herring?","¿Arenque?"
-"Shimamoto Jun (talking)","魚です。 高騰するのがわかっていましたので、 買いつけておきました。","Fish. I knew it would soar, so I bought it.","El pescado. Sabíamos que se dispararían, así que los compramos."
-"__system__??","}","",""
-"__system__??","{☆島本／金 = 1:","",""
-"__system__??","}","",""
-"Shimamoto Jun (talking)","そうですね。 では、先月買っておいた豆を売却する事に します。","Yes, that's right. Then I will sell the beans I bought last month.","Sí. Entonces venderé las judías que compré el mes pasado."
-"Shimamoto Jun (talking)","後１ヶ月も寝かしておけば、 もっと値があがるのですが、 いたしかたありません。","If we let it sit for another month, the price would be higher, but it is what it is.","Si se les dejara dormir un mes más, el precio sería mayor, pero no podemos hacer nada al respecto."
-"__system__??","{RND \ 0:","",""
-"Kinugasa Tomoko (talking)","……ふう…助かった…","…… Wind… saved…","…… viento… salvado…"
-"Yamamoto Akuji (talking)","なんだ。 野良犬にでもおっかけられてたのか？","What the hell? Were you chased by a stray dog?","Qué demonios. ¿Te perseguían los perros callejeros?"
-"Kinugasa Tomoko (talking)","あ…違います。 なんだか不審な人がいて。","Uh…no, sir. There was some kind of suspicious person.","Ah… no, señor. Había algún tipo de persona sospechosa."
-"Yamamoto Akuji (talking)","不審？","Suspicious?","¿Sospechoso?"
-"Kinugasa Tomoko (talking)","はい… もし、麻薬中毒患者だったりしたら、 怖いから…","Yes… because I'm afraid that if you're a drug addict or something…","Sí… porque me temo que si eres un drogadicto o algo así…"
-"__system__??","}","",""
-"__system__??","{RND = 0:","",""
-"Yamamoto Akuji (talking)","変な奴？","Weirdo?","¿Raro?"
-"Seinendan Jyoshi (talking)","はい…なんだか、この中の様子を 確かめているみたいなんですが…","Yes… it's kind of like checking out what's going on in here…","Sí… es como comprobar lo que pasa dentro de esto…"
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","なんだ、そりゃ。 俺が追っ払ってやるよ。","What the hell, that's great. I'll get rid of him.","Qué demonios, eso es genial. Me desharé de él."
-"narrator","悪司はそう言うと、事務所の外に出た。","Akuji said and walked out of the office.","Akuji dijo esto y salió del despacho."
-"Yamamoto Akuji (thinking)","どこ行きやがった…","Where the fuck are you…","¿Dónde coño estás…?"
-"narrator","悪司がゆっくり辺りを見回すと、 建物の影から人が現れた。","As Akuji looked around slowly, a person appeared from the shadow of a building.","Cuando Akuji miró lentamente a su alrededor, una persona apareció de entre las sombras de un edificio."
-"Shimamoto Jun (talking)","若。","Young.","Joven."
-"Yamamoto Akuji (talking)","島本！？","Shimamoto!","¡¡¡Shimamoto!!!"
-"Shimamoto Jun (talking)","本当に、こちらに いらっしゃったのですね。","I am so glad you are here.","Realmente has venido aquí, ¿no?"
-"Yamamoto Akuji (talking)","おう、そうだ。 今はちと、変質者を追っててな。","Oh, yeah. I'm kinda chasing a pervert right now.","Ah, sí. Estoy en la búsqueda de un poco de un pervertido en este momento."
-"Shimamoto Jun (talking)","変質者？","Pervert?","¿Pervertido?"
-"Yamamoto Akuji (talking)","ああ、そうだ。 なんか、この事務所の周りをウロウロ してる不審な奴が…","Oh, yeah. There's something suspicious hanging around this office…","Ah, sí. Hay algo sospechoso rondando esta oficina…"
-"Shimamoto Jun (talking)","ひょっとして私の事ですか、それ。","Are you talking about me, by any chance?","Por casualidad, ¿estás hablando de mí?"
-"Yamamoto Akuji (talking)","へ？","Heh?","¿Eh?"
-"Shimamoto Jun (talking)","本当に若がいらっしゃるかどうか 確認しようと少しウロついていたので。","I was wandering around a bit to see if you were really there.","Estuve dando vueltas para ver si el joven estaba realmente aquí."
-"Yamamoto Akuji (talking)","そーいう事だったのかい。
+Yamamoto Akuji (talking),ニシン？？,Herring?,¿Arenque?
+Shimamoto Jun (talking),魚です。 高騰するのがわかっていましたので、 買いつけておきました。,"Fish. I knew it would soar, so I bought it.","El pescado. Sabíamos que se dispararían, así que los compramos."
+__system__??,},,
+__system__??,{☆島本／金 = 1:,,
+__system__??,},,
+Shimamoto Jun (talking),そうですね。 では、先月買っておいた豆を売却する事に します。,"Yes, that's right. Then I will sell the beans I bought last month.",Sí. Entonces venderé las judías que compré el mes pasado.
+Shimamoto Jun (talking),後１ヶ月も寝かしておけば、 もっと値があがるのですが、 いたしかたありません。,"If we let it sit for another month, the price would be higher, but it is what it is.","Si se les dejara dormir un mes más, el precio sería mayor, pero no podemos hacer nada al respecto."
+__system__??,{RND \ 0:,,
+Kinugasa Tomoko (talking),……ふう…助かった…,…… Wind… saved…,…… viento… salvado…
+Yamamoto Akuji (talking),なんだ。 野良犬にでもおっかけられてたのか？,What the hell? Were you chased by a stray dog?,Qué demonios. ¿Te perseguían los perros callejeros?
+Kinugasa Tomoko (talking),あ…違います。 なんだか不審な人がいて。,"Uh…no, sir. There was some kind of suspicious person.","Ah… no, señor. Había algún tipo de persona sospechosa."
+Yamamoto Akuji (talking),不審？,Suspicious?,¿Sospechoso?
+Kinugasa Tomoko (talking),はい… もし、麻薬中毒患者だったりしたら、 怖いから…,Yes… because I'm afraid that if you're a drug addict or something…,Sí… porque me temo que si eres un drogadicto o algo así…
+__system__??,},,
+__system__??,{RND = 0:,,
+Yamamoto Akuji (talking),変な奴？,Weirdo?,¿Raro?
+Seinendan Jyoshi (talking),はい…なんだか、この中の様子を 確かめているみたいなんですが…,Yes… it's kind of like checking out what's going on in here…,Sí… es como comprobar lo que pasa dentro de esto…
+__system__??,},,
+Yamamoto Akuji (talking),なんだ、そりゃ。 俺が追っ払ってやるよ。,"What the hell, that's great. I'll get rid of him.","Qué demonios, eso es genial. Me desharé de él."
+narrator,悪司はそう言うと、事務所の外に出た。,Akuji said and walked out of the office.,Akuji dijo esto y salió del despacho.
+Yamamoto Akuji (thinking),どこ行きやがった…,Where the fuck are you…,¿Dónde coño estás…?
+narrator,悪司がゆっくり辺りを見回すと、 建物の影から人が現れた。,"As Akuji looked around slowly, a person appeared from the shadow of a building.","Cuando Akuji miró lentamente a su alrededor, una persona apareció de entre las sombras de un edificio."
+Shimamoto Jun (talking),若。,Young.,Joven.
+Yamamoto Akuji (talking),島本！？,Shimamoto!,¡¡¡Shimamoto!!!
+Shimamoto Jun (talking),本当に、こちらに いらっしゃったのですね。,I am so glad you are here.,"Realmente has venido aquí, ¿no?"
+Yamamoto Akuji (talking),おう、そうだ。 今はちと、変質者を追っててな。,"Oh, yeah. I'm kinda chasing a pervert right now.","Ah, sí. Estoy en la búsqueda de un poco de un pervertido en este momento."
+Shimamoto Jun (talking),変質者？,Pervert?,¿Pervertido?
+Yamamoto Akuji (talking),ああ、そうだ。 なんか、この事務所の周りをウロウロ してる不審な奴が…,"Oh, yeah. There's something suspicious hanging around this office…","Ah, sí. Hay algo sospechoso rondando esta oficina…"
+Shimamoto Jun (talking),ひょっとして私の事ですか、それ。,"Are you talking about me, by any chance?","Por casualidad, ¿estás hablando de mí?"
+Yamamoto Akuji (talking),へ？,Heh?,¿Eh?
+Shimamoto Jun (talking),本当に若がいらっしゃるかどうか 確認しようと少しウロついていたので。,I was wandering around a bit to see if you were really there.,Estuve dando vueltas para ver si el joven estaba realmente aquí.
+Yamamoto Akuji (talking),"そーいう事だったのかい。
 ああ、そうだ。 わかめ組があんな事になったから、 俺は今、ここを根城にしている。","Is that what you meant?
 Yes, that's right. After what happened to the Wakame clan, I'm making this my home now.","¿Es eso lo que querías decir?
 Sí, así es. Después de lo sucedido con el clan Wakame, ahora tengo mi base aquí."
-"Shimamoto Jun (talking)","そうでしたか。 だったら、話は早い。","Was that so? Then it's a quick story.","¿Es así? Entonces es una historia rápida."
-"Yamamoto Akuji (talking)","へ？","Heh?","¿Eh?"
-"Shimamoto Jun (talking)","私は若の力になる為に、 わかめ組を抜けてきました。","I left Wakame-gumi to help young people.","Dejé el grupo Wakame para ayudar a los jóvenes."
-"Yamamoto Akuji (talking)","そうかい。 お前さんがこっちについてくれると、 ありがたい。
+Shimamoto Jun (talking),そうでしたか。 だったら、話は早い。,Was that so? Then it's a quick story.,¿Es así? Entonces es una historia rápida.
+Yamamoto Akuji (talking),へ？,Heh?,¿Eh?
+Shimamoto Jun (talking),私は若の力になる為に、 わかめ組を抜けてきました。,I left Wakame-gumi to help young people.,Dejé el grupo Wakame para ayudar a los jóvenes.
+Yamamoto Akuji (talking),"そうかい。 お前さんがこっちについてくれると、 ありがたい。
 なんせ、お前さんの情報収拾能力は スンゲーからな。","I see. I'm glad you're with me.
 You have an amazing ability to gather information, after all.","Ya veo. Me alegro de que estés conmigo.
 Al fin y al cabo, su capacidad de recopilación de información es increíble."
-"Shimamoto Jun (talking)","それ程でも。","Not so much.","No tanto."
-"Yamamoto Akuji (talking)","まあいい、とにかく入れ。 みんなに紹介する。","Oh well, come on in anyway. I'll introduce you all.","Bueno, entra de todos modos. Les presentaré a todos."
-"Shimamoto Jun (talking)","はい。","Yes.","Sí."
-"Shimamoto Jun (thinking)","戦地から生還したからといって、 そうそう簡単に人間が変わるものでは ないようだ。
+Shimamoto Jun (talking),それ程でも。,Not so much.,No tanto.
+Yamamoto Akuji (talking),まあいい、とにかく入れ。 みんなに紹介する。,"Oh well, come on in anyway. I'll introduce you all.","Bueno, entra de todos modos. Les presentaré a todos."
+Shimamoto Jun (talking),はい。,Yes.,Sí.
+Shimamoto Jun (thinking),"戦地から生還したからといって、 そうそう簡単に人間が変わるものでは ないようだ。
 戦争が終わってもしばらく帰って こなかったのは、おそらく捕虜に なっていたから。
 それでも、出兵前と性格が 変わっていない。 単細胞というか、何と言うか――
 さて…無粋な戦争で中断していた、 俺の実験を再開させてもらおう。
@@ -215,166 +215,166 @@ La razón por la que no regresó durante un tiempo después de la guerra fue pro
 Aun así, su carácter no ha cambiado desde antes de irse a la guerra. De mente única, o como quieras llamarlo…
 Ahora… déjame retomar mis experimentos, que fueron interrumpidos por la guerra sin tacto.
 Vamos a ver si este hombre se convierte en un hombre de poder. Ya veremos, Yamamoto Akuji."
-"Yamamoto Akuji (thinking)","俺は、実戦向きでは無いのに…… 適材適所という事もわかってないのか 若は……
+Yamamoto Akuji (thinking),"俺は、実戦向きでは無いのに…… 適材適所という事もわかってないのか 若は……
 俺の見込み違いだったのか…？","I'm not a real fighter, and you don't even know what the…… right person for the job is.
 I guess I was wrong…?","No soy un hombre para el mundo real…… ¿Ni siquiera sabes cuál es la persona adecuada para el trabajo?
  ¿Tengo una idea equivocada…?"
-"Yamamoto Akuji (thinking)","やばいな……こんな状況になるはずでは なかったのだが… すべて計算通りはいかないか……","Oh no……… this wasn't supposed to be this situation… but I guess everything doesn't work out the way it's supposed to… ……","Oh no……… esto no debía pasar… pero… todo no sale según lo previsto… ……"
-"Yamamoto Akuji (thinking)","わかめ組がそろそろ来ます。 １ヶ月以内……早ければ来週でしょう。 準備を怠りなく。","The wakame group will be here soon. Within a month…… will be next week at the earliest. Be prepared.","El grupo de wakame llegará pronto. Dentro de un mes…… será la próxima semana como muy pronto. Esté preparado."
-"__system__??","{☆わかめ < 3:","",""
-"__system__??","{D11 \ 0:","",""
-"Yamamoto Akuji (thinking)","現在、わかめ組と交戦状態に 入っています。
+Yamamoto Akuji (thinking),やばいな……こんな状況になるはずでは なかったのだが… すべて計算通りはいかないか……,Oh no……… this wasn't supposed to be this situation… but I guess everything doesn't work out the way it's supposed to… ……,Oh no……… esto no debía pasar… pero… todo no sale según lo previsto… ……
+Yamamoto Akuji (thinking),わかめ組がそろそろ来ます。 １ヶ月以内……早ければ来週でしょう。 準備を怠りなく。,The wakame group will be here soon. Within a month…… will be next week at the earliest. Be prepared.,El grupo de wakame llegará pronto. Dentro de un mes…… será la próxima semana como muy pronto. Esté preparado.
+__system__??,{☆わかめ < 3:,,
+__system__??,{D11 \ 0:,,
+Yamamoto Akuji (thinking),"現在、わかめ組と交戦状態に 入っています。
 ミドリガオカに侵入してきた 加賀元子の部隊には、なにやら不穏な 動きがあるらしいと情報が入りました。","We are currently engaged in a war with the Wakame group.
 We have received information that there is something disturbing going on in the Kaga Motoko unit that has invaded Midorigaoka.","Actualmente nos encontramos en un estado de compromiso con el grupo Wakame.
 Hemos recibido información de que hay algunos movimientos inquietantes en las fuerzas de Kaga Motoko que han invadido Midorigaoka."
-"__system__??","}","",""
-"__system__??","}","",""
-"Yamamoto Akuji (thinking)","現在、わかめ組と交戦状態に 入っています。","The team is currently engaged in a battle with the Wakame group.","Actualmente están en guerra con el grupo Wakame."
-"Yamamoto Akuji (thinking)","ミドリガオカに侵入してきたわかめ組 ですが、どうやら自滅したもようです。 加賀元子が行方不明になっています。","The Wakame group has invaded Midorigaoka, but it seems to have destroyed itself. Kaga Motoko is missing.","El grupo Wakame ha invadido Midorigaoka, pero parece haberse autodestruido. Kaga Motoko ha desaparecido."
-"Yamamoto Akuji (talking)","トコが…… あいつが仕事を投げ出していなくなる訳 ないし、何があったんだ。","I'm not sure what happened to Toco,…… there's no way he just threw his job away and disappeared.","Toco es ……. No iba a tirar su trabajo y desaparecer, ¿qué pasó?"
-"Shimamoto Jun (talking)","ひょっとしたら、身内の裏切りかも しれませんね。","Perhaps it is a betrayal by a relative.","Tal vez sea una traición de uno de los suyos."
-"Shimamoto Jun (talking)","わかめ組が用心棒を呼んだもようです。 素敵医師とデカオという者で今の所、 素性は不明です。","It seems that the Wakame clan has called in bouncers. A nice doctor and a man called Dekao, whose identity is unknown at the moment.","Parece que el clan Wakame ha llamado a los gorilas. Un simpático doctor y un hombre llamado Dekao, cuya identidad se desconoce por el momento."
-"Shimamoto Jun (talking)","わかめ組の管理地域で麻薬が 流通し始めているようです。","It appears that drugs are beginning to be distributed in areas managed by the Wakame group.","Parece que las drogas comienzan a distribuirse en áreas administradas por grupo Wakame."
-"Shimamoto Jun (talking)","現在、","Currently, the","Actualmente."
-"__system__??","{☆高山 = 0:","",""
-"Shimamoto Jun (talking)","那古教","Nakokyou","Nakokyou."
-"__system__??","} else {","",""
-"Shimamoto Jun (talking)","高山組","Takayama group","Grupo Takayama"
-"__system__??","}","",""
-"Shimamoto Jun (talking)","と交戦状態に 入っています。","The company is now in a state of war with the","y ahora están en estado de guerra."
-"Shimamoto Jun (talking)","現在、桃山組と交戦状態に 入っています。","We are currently engaged in a war with the Momoyama group.","Actualmente está en guerra con el grupo Momoyama."
-"Shimamoto Jun (talking)","市議会に出向いて組合担当の監督官と 話をすべきだと思います。","I think you should go to the city council and speak with the supervisor in charge of the union.","Deberían ir al ayuntamiento y hablar con el supervisor encargado del sindicato."
-"Shimamoto Jun (talking)","そろそろ市議会に赴いて、賄賂を 渡しておいた方が無難です。","It is time to go to the City Council and bribe them.","Es hora de ir al ayuntamiento y sobornar para salir."
-"Shimamoto Jun (talking)","せっかくタマネギ先生がいらっしゃるの ですから、調教の館を建設されては いががでしょうか？","Since Mr. Tamanegi is here, why don't you build a training hall?","Ya que tienen al señor Tamanegi aquí, ¿por qué no construyen un centro de formación?"
-"Shimamoto Jun (talking)","タマネギ先生から依頼が来ています。 調教の館を早く再建してほしいと。","I have received a request from Tamanegi Sensei. He wants the training hall to be rebuilt as soon as possible.","Se ha recibido una solicitud del Dr. Tamanegi. Quiere que la sala de formación se reconstruya lo antes posible."
-"Shimamoto Jun (talking)","ヘグリの貴神様からご招待を 受けております。","We have received an invitation from Mr. Kishin of Hegri.","Hemos recibido una invitación de Kishin en Hegli."
-"Shimamoto Jun (talking)","ヘグリの貴神様からの依頼があります。 上級娼婦を譲って欲しいとの事です。","We have a request from Kishin of Hegli. He would like to give us a senior prostitute.","Tenemos una petición de Kishin de Hegli. Le gustaría darle una prostituta mayor."
-"Shimamoto Jun (talking)","ヘグリの貴神様からの依頼があります。 ＳＳＳ学園の女学生を欲しいとの 事です。","We have a request from Kishin of Heguri. He wants a female student from SSS Academy.","Tenemos una petición de Kishin de Hegli. Quiere una estudiante de la Academia SSS."
-"Shimamoto Jun (talking)","ヘグリの貴神様からの依頼があります。 穴奴隷を譲ってほしいとの事です。","We have a request from Kishin of Hegli. He would like to give us a hole slave.","Tenemos una petición de Kishin de Hegli. Le gustaría que le diéramos una esclava del agujero."
-"Shimamoto Jun (talking)","ヘグリの貴神様からの依頼があります。 自前のメイドを輪姦して欲しい そうです。","I have a request from Kishin of Hegri. He wants to gang rape his own maid.","Tenemos una petición de Kishin de Hegli. Quiere que su propia criada sea violada en grupo."
-"Shimamoto Jun (talking)","ヘグリの貴神様からの依頼があります。 ウィミィ女性士官を欲しいとの事です。","We have a request from Kishin of Hegli. He wants a Wime female officer.","Tenemos una petición de Kishin en Hegli. Quiere una oficial de Wime."
-"Shimamoto Jun (talking)","ヘグリの貴神様からの依頼があります。 駆け落ちしたメイドを捜して欲しいとの 事です。","We have a request from Mr. Kishin of Hegli. He wants you to find a maid who eloped.","Tenemos una petición de Kishin de Hegli. Quiere que encuentres a una doncella que se ha fugado."
-"Shimamoto Jun (talking)","ヘグリ地区で泥棒騒動が 起こっています。
+__system__??,},,
+__system__??,},,
+Yamamoto Akuji (thinking),現在、わかめ組と交戦状態に 入っています。,The team is currently engaged in a battle with the Wakame group.,Actualmente están en guerra con el grupo Wakame.
+Yamamoto Akuji (thinking),ミドリガオカに侵入してきたわかめ組 ですが、どうやら自滅したもようです。 加賀元子が行方不明になっています。,"The Wakame group has invaded Midorigaoka, but it seems to have destroyed itself. Kaga Motoko is missing.","El grupo Wakame ha invadido Midorigaoka, pero parece haberse autodestruido. Kaga Motoko ha desaparecido."
+Yamamoto Akuji (talking),トコが…… あいつが仕事を投げ出していなくなる訳 ないし、何があったんだ。,"I'm not sure what happened to Toco,…… there's no way he just threw his job away and disappeared.","Toco es ……. No iba a tirar su trabajo y desaparecer, ¿qué pasó?"
+Shimamoto Jun (talking),ひょっとしたら、身内の裏切りかも しれませんね。,Perhaps it is a betrayal by a relative.,Tal vez sea una traición de uno de los suyos.
+Shimamoto Jun (talking),わかめ組が用心棒を呼んだもようです。 素敵医師とデカオという者で今の所、 素性は不明です。,"It seems that the Wakame clan has called in bouncers. A nice doctor and a man called Dekao, whose identity is unknown at the moment.","Parece que el clan Wakame ha llamado a los gorilas. Un simpático doctor y un hombre llamado Dekao, cuya identidad se desconoce por el momento."
+Shimamoto Jun (talking),わかめ組の管理地域で麻薬が 流通し始めているようです。,It appears that drugs are beginning to be distributed in areas managed by the Wakame group.,Parece que las drogas comienzan a distribuirse en áreas administradas por grupo Wakame.
+Shimamoto Jun (talking),現在、,"Currently, the",Actualmente.
+__system__??,{☆高山 = 0:,,
+Shimamoto Jun (talking),那古教,Nakokyou,Nakokyou.
+__system__??,} else {,,
+Shimamoto Jun (talking),高山組,Takayama group,Grupo Takayama
+__system__??,},,
+Shimamoto Jun (talking),と交戦状態に 入っています。,The company is now in a state of war with the,y ahora están en estado de guerra.
+Shimamoto Jun (talking),現在、桃山組と交戦状態に 入っています。,We are currently engaged in a war with the Momoyama group.,Actualmente está en guerra con el grupo Momoyama.
+Shimamoto Jun (talking),市議会に出向いて組合担当の監督官と 話をすべきだと思います。,I think you should go to the city council and speak with the supervisor in charge of the union.,Deberían ir al ayuntamiento y hablar con el supervisor encargado del sindicato.
+Shimamoto Jun (talking),そろそろ市議会に赴いて、賄賂を 渡しておいた方が無難です。,It is time to go to the City Council and bribe them.,Es hora de ir al ayuntamiento y sobornar para salir.
+Shimamoto Jun (talking),せっかくタマネギ先生がいらっしゃるの ですから、調教の館を建設されては いががでしょうか？,"Since Mr. Tamanegi is here, why don't you build a training hall?","Ya que tienen al señor Tamanegi aquí, ¿por qué no construyen un centro de formación?"
+Shimamoto Jun (talking),タマネギ先生から依頼が来ています。 調教の館を早く再建してほしいと。,I have received a request from Tamanegi Sensei. He wants the training hall to be rebuilt as soon as possible.,Se ha recibido una solicitud del Dr. Tamanegi. Quiere que la sala de formación se reconstruya lo antes posible.
+Shimamoto Jun (talking),ヘグリの貴神様からご招待を 受けております。,We have received an invitation from Mr. Kishin of Hegri.,Hemos recibido una invitación de Kishin en Hegli.
+Shimamoto Jun (talking),ヘグリの貴神様からの依頼があります。 上級娼婦を譲って欲しいとの事です。,We have a request from Kishin of Hegli. He would like to give us a senior prostitute.,Tenemos una petición de Kishin de Hegli. Le gustaría darle una prostituta mayor.
+Shimamoto Jun (talking),ヘグリの貴神様からの依頼があります。 ＳＳＳ学園の女学生を欲しいとの 事です。,We have a request from Kishin of Heguri. He wants a female student from SSS Academy.,Tenemos una petición de Kishin de Hegli. Quiere una estudiante de la Academia SSS.
+Shimamoto Jun (talking),ヘグリの貴神様からの依頼があります。 穴奴隷を譲ってほしいとの事です。,We have a request from Kishin of Hegli. He would like to give us a hole slave.,Tenemos una petición de Kishin de Hegli. Le gustaría que le diéramos una esclava del agujero.
+Shimamoto Jun (talking),ヘグリの貴神様からの依頼があります。 自前のメイドを輪姦して欲しい そうです。,I have a request from Kishin of Hegri. He wants to gang rape his own maid.,Tenemos una petición de Kishin de Hegli. Quiere que su propia criada sea violada en grupo.
+Shimamoto Jun (talking),ヘグリの貴神様からの依頼があります。 ウィミィ女性士官を欲しいとの事です。,We have a request from Kishin of Hegli. He wants a Wime female officer.,Tenemos una petición de Kishin en Hegli. Quiere una oficial de Wime.
+Shimamoto Jun (talking),ヘグリの貴神様からの依頼があります。 駆け落ちしたメイドを捜して欲しいとの 事です。,We have a request from Mr. Kishin of Hegli. He wants you to find a maid who eloped.,Tenemos una petición de Kishin de Hegli. Quiere que encuentres a una doncella que se ha fugado.
+Shimamoto Jun (talking),"ヘグリ地区で泥棒騒動が 起こっています。
 貴神様の屋敷へ来て欲しいと 連絡がありました。","There is a thieves' riot in the Hegri area.
 We have received a call to come to the residence of Mr. Kishin.","Hay un motín de ladrones en la zona de Hegri.
 Hemos sido contactados para venir a la residencia del Sr. Kishin."
-"Shimamoto Jun (talking)","ヘグリ地区で怪盗マトリョーシカという 泥棒が暴れ回っています。","In the Hegri district, a thief named Matryoshka the Thief is running amok.","Un ladrón llamado Matryoshka el Ladrón anda suelto por la zona de Hegri."
-"Shimamoto Jun (talking)","捕虜となった者が怪盗マトリョーシカの 事を知っているかもしれません。","The captors may know about the thief Matryoshka.","Los captores pueden saber del ladrón fantasma Matryoshka."
-"Shimamoto Jun (talking)","怪盗マトリョーシカの隠れ家が 判明しています。 ハクアの森です。","The lair of the thief Matryoshka has been identified. It is in Hakua Forest.","El escondite del ladrón Matryoshka ha sido identificada. Esta en el Bosque de Hakua."
-"Shimamoto Jun (talking)","加賀元子がわかめ組屋敷の近くの 町工場跡に監禁されているという 情報があります。","We have information that Kaga Motoko is being held captive in a former town factory near the Wakamegumi compound.","Hay información de que Kaga Motoko está cautiva en una antigua fábrica de la ciudad cerca del recinto del clan Wakame."
-"Shimamoto Jun (talking)","氏が若に対して 不信感を募らせているもようです。","Mr. Kato seems to be growing increasingly distrustful of WAKA.","Parece que el Sr. Wong desconfía cada vez más de Wong."
-"Shimamoto Jun (talking)","組織の主要メンバーが３０名を越えま した。若ひとりでは全ての者の忠誠心 を維持するのが難しいかと思います。
+Shimamoto Jun (talking),ヘグリ地区で怪盗マトリョーシカという 泥棒が暴れ回っています。,"In the Hegri district, a thief named Matryoshka the Thief is running amok.",Un ladrón llamado Matryoshka el Ladrón anda suelto por la zona de Hegri.
+Shimamoto Jun (talking),捕虜となった者が怪盗マトリョーシカの 事を知っているかもしれません。,The captors may know about the thief Matryoshka.,Los captores pueden saber del ladrón fantasma Matryoshka.
+Shimamoto Jun (talking),怪盗マトリョーシカの隠れ家が 判明しています。 ハクアの森です。,The lair of the thief Matryoshka has been identified. It is in Hakua Forest.,El escondite del ladrón Matryoshka ha sido identificada. Esta en el Bosque de Hakua.
+Shimamoto Jun (talking),加賀元子がわかめ組屋敷の近くの 町工場跡に監禁されているという 情報があります。,We have information that Kaga Motoko is being held captive in a former town factory near the Wakamegumi compound.,Hay información de que Kaga Motoko está cautiva en una antigua fábrica de la ciudad cerca del recinto del clan Wakame.
+Shimamoto Jun (talking),氏が若に対して 不信感を募らせているもようです。,Mr. Kato seems to be growing increasingly distrustful of WAKA.,Parece que el Sr. Wong desconfía cada vez más de Wong.
+Shimamoto Jun (talking),"組織の主要メンバーが３０名を越えま した。若ひとりでは全ての者の忠誠心 を維持するのが難しいかと思います。
 今後の事も考えて保養所を建てて 定期的に気分転換をさせた方がよいと 思われます。","We now have more than 30 key members in our organization. It would be difficult for one young man to maintain the loyalty of all of them.
 I think it would be better to build a recreation center to give them a change of pace on a regular basis.","La organización cuenta ahora con más de 30 miembros clave. Sería difícil para un solo joven mantener la lealtad de todos ellos.
 Sería mejor construir un centro de recreo para darles un cambio de aires de forma regular."
-"Shimamoto Jun (talking)","実に奇怪な事が起こりました。 金田酒太郎が女になりました。","Something truly bizarre happened. Kaneda Sakatarou became a woman.","Sucedió una cosa verdaderamente extraña. Kaneda Sakatarou se convirtió en mujer."
-"Yamamoto Akuji (talking)","はぁ？？？","Huh?","¿Eh?"
-"Shimamoto Jun (talking)","よろしければ、 後でご自分でお確かめ下さい。","You can see for yourself later, if you like.","Si quieres, puedes comprobarlo por ti mismo más adelante."
-"Shimamoto Jun (talking)","昨晩の事ですが、オオサカコフンの 入り口が開いているのが発見されました。 今なら中に入る事が出来ます。","As of last night, the entrance to Osakakakofun was found open. You can go inside now.","Anoche, la entrada al Osakakofun fue encontrada abierta. Ahora puedes entrar."
-"Shimamoto Jun (talking)","市議会より、食い逃げ犯の池田加奈を 逮捕するように指示が出ております。","The City Council has instructed us to arrest Ikeda Kana for the food run.","El ayuntamiento ha dado instrucciones para detener al corredor de alimentos Ikeda Kana."
-"Shimamoto Jun (talking)","那古教の教祖と古宮陽子ですが、 引き離しておいた方がよいかと。","The guru of Nakokyou and Komiya Youko, but I think we should keep them apart.","Nakokyou gurú y Komiya Youko, pero sería mejor mantenerlos separados."
-"Yamamoto Akuji (talking)","どーしてだ？","How so?","¿Cómo es eso?"
-"Shimamoto Jun (talking)","犬が飼い主の手を噛む、 という事になりかねません。 お心当たりはありませんか？","This could lead to the dog biting the owner's hand. Do you have any idea what this could be?","Esto puede llevar al perro a morder la mano del dueño. ¿Tiene alguna idea de lo que podría ser?"
-"Yamamoto Akuji (talking)","んー……あるにはあるけどよ。","Hmmm……… is there, but…","Hmmm……… está ahí, pero…"
-"Shimamoto Jun (talking)","そうですか。 では、後は若にお任せします。","I see. Then I will leave the rest to the young.","Ya veo. Entonces dejaré el resto a los jóvenes."
-"Shimamoto Jun (talking)","組を脱走した、由女と古宮陽子の行方で すが、どうやらシキナにいるようです。 元信者がかくまっています。","The whereabouts of Yume and Komiya Youko, who escaped from the group, seem to be in Shikina. Former members are hiding them.","El paradero de Yume y Komiya Youko, que escaparon del grupo, parece estar en Sikina. Los antiguos miembros los esconden."
-"Shimamoto Jun (talking)","私が調べた所の現在の選挙情勢です。","Here is the current election situation from what I have been able to find out.","Esta es la situación electoral actual por lo que he podido averiguar."
-"__system__??","{☆選挙 = 4:","",""
-"Shimamoto Jun (talking)","前市長の娘、中山多恵子が立候補して きました。","The former mayor's daughter, Nakayama Taeko, is running for the office.","La hija del antiguo alcalde, Nakayama Taeko, se presenta a las elecciones."
-"__system__??","}","",""
-"__system__??","{☆選挙 = 4:","",""
-"Shimamoto Jun (talking)","選挙運動は、後３週間あります。","There are three more weeks of campaigning.","Quedan tres semanas de campaña."
-"__system__??","}","",""
-"__system__??","{☆選挙 = 5:","",""
-"Shimamoto Jun (talking)","選挙運動期間は、後２週間のみです。","The campaign period is only two weeks away.","Sólo faltan dos semanas para el inicio de la campaña."
-"__system__??","}","",""
-"__system__??","{☆選挙 = 6:","",""
-"Shimamoto Jun (talking)","いよいよ、週末は選挙です。","Finally, the election is this weekend.","Por último, las elecciones son el fin de semana."
-"__system__??","}","",""
-"__system__??","{■ \ 0:","",""
-"Shimamoto Jun (talking)","選挙ポスターは、","The campaign posters were","Los carteles electorales eran."
-"Shimamoto Jun (talking)","地域に配置して おります。 知名度を徐々に上げているもようです。","The company has been deploying them in the region. The company seems to be gradually gaining recognition.","La empresa los está desplegando en la región. Parece que poco a poco van ganando protagonismo."
-"__system__??","}","",""
-"__system__??","{☆立候補 = 1:","",""
-"Shimamoto Jun (talking)","夕子様","Dear Yuuko.","Querida Yuuko."
-"__system__??","}","",""
-"__system__??","{☆立候補 = 2:","",""
-"Shimamoto Jun (talking)","殺様","Dear Satsu.","Querido Satsu."
-"__system__??","}","",""
-"Shimamoto Jun (talking)","の支持率　","Approval ratings for","Apoyo a la"
-"Shimamoto Jun (talking)","％","％","％"
-"__system__??","{☆選挙 = 3:","",""
-"Shimamoto Jun (talking)","選挙運動は始まったばかりです。 これからの運動が勝敗を決めます。","The campaign has just begun Hajime. The campaign from now on will decide the winner.","La campaña acaba de empezar Hajime. La campaña a partir de ahora decidirá quién gana."
-"__system__??","}","",""
-"__system__??","{☆選挙 = 4:","",""
-"Shimamoto Jun (talking)","完全に中山多恵子に押されています。 なんらかの対策が必要です。","It is completely pushed by Nakayama Taeko. Some kind of countermeasure is needed.","Está completamente impulsado por Nakayama Taeko. Hay que tomar algunas medidas."
-"__system__??","}","",""
-"__system__??","{☆選挙 = 5:","",""
-"Shimamoto Jun (talking)","厳しい状況です。","It is a tough situation.","Una situación difícil."
-"__system__??","}","",""
-"__system__??","{☆選挙 = 6:","",""
-"__system__??","{☆人気／夕子 < ☆人気／多恵子:","",""
-"Shimamoto Jun (talking)","現状では、勝てる見込みは少ないです。","Currently, there is little chance of winning.","En la actualidad, hay pocas perspectivas de ganar."
-"__system__??","}","",""
-"__system__??","{☆人気／夕子 > ☆人気／多恵子:","",""
-"Shimamoto Jun (talking)","このままいけば、勝てます。 最後の選挙運動をして下さい。","If we keep it up, we will win. Please do one last campaign.","Si sigues así, ganarás. Haz una última campaña."
-"__system__??","}","",""
-"__system__??","}","",""
-"Shimamoto Jun (talking)","北条政子の支持率　","Support for Hojo Masako","Apoyo a Hojo Masako"
-"Shimamoto Jun (talking)","％","％","％"
-"__system__??","{☆選挙 = 3:","",""
-"Shimamoto Jun (talking)","ガチガチの議員あがりです。 問題視する必要はありません。","It's a stiff congressman up. There is no need to see it as a problem.","Se trata de un duro levantamiento parlamentario. No hay necesidad de verlo como un problema."
-"__system__??","}","",""
-"__system__??","{☆選挙 = 4:","",""
-"Shimamoto Jun (talking)","地道な活動はしているようですが、 まったく駄目です。","They seem to be working steadily, but to no avail.","Parece que trabajan con constancia, pero sin éxito."
-"__system__??","}","",""
-"__system__??","{☆選挙 = 5:","",""
-"Shimamoto Jun (talking)","本人は、まだやる気のようですが、 後援会はすでに解散状態です。","He still wants to do it, but his support group has already disbanded.","Todavía está dispuesto a hacerlo, pero su grupo de apoyo ya se ha disuelto."
-"__system__??","}","",""
-"__system__??","{☆選挙 = 6:","",""
-"Shimamoto Jun (talking)","この人については、語る事はありません。","There is nothing to say about this person.","No hay nada que decir sobre esta persona."
-"__system__??","}","",""
-"Shimamoto Jun (talking)","瑞海和樹の支持率　","Supported by Mizuumi Kazuki.","Con el apoyo de Mizuumi Kazuki."
-"Shimamoto Jun (talking)","％","％","％"
-"__system__??","{☆選挙 = 3:","",""
-"Shimamoto Jun (talking)","ＰＭの後押しで票を集めています。 要注意です。","The PM's are pushing for votes. Be careful.","La presión de la PM por los votos. Notas."
-"__system__??","}","",""
-"__system__??","{☆選挙 = 4:","",""
-"Shimamoto Jun (talking)","ハニー土木の力を使い支持率を 伸ばしています。","Hanny is using the power of civil engineering to increase his approval rating.","Hanny utiliza el poder de la ingeniería civil para aumentar su apoyo."
-"__system__??","}","",""
-"__system__??","{☆選挙 = 5:","",""
-"Shimamoto Jun (talking)","ＰＭの支援が無くなり、急速に支持率 を失っています。","With the loss of PM support, they are rapidly losing support.","Con la pérdida del apoyo de la PM, está perdiendo rápidamente apoyo."
-"__system__??","}","",""
-"__system__??","{☆人気／多恵子 \ 0:","",""
-"Shimamoto Jun (talking)","中山多恵子の支持率　","Support for Nakayama Taeko.","Nakayama Taeko's support"
-"Shimamoto Jun (talking)","％","％","％"
-"__system__??","{☆選挙 = 4:","",""
-"Shimamoto Jun (talking)","ものすごい人気です。 一般市民の大半の心を掴んでいます。","It is incredibly popular. It has captured the hearts and minds of the majority of the general public.","Es increíblemente popular. Se ha ganado el corazón y la mente de la mayoría del público en general."
-"__system__??","}","",""
-"__system__??","{☆選挙 = 5:","",""
-"Shimamoto Jun (talking)","新たにＰＭも支援に加わり万全の体制と なっています。","A new PM has joined the team to provide support, and we are now fully prepared.","También se ha incorporado al equipo un nuevo PM para prestar apoyo y ya está totalmente equipado."
-"__system__??","}","",""
-"__system__??","{☆選挙 = 6:","",""
-"__system__??","{☆スキャンダル = 3:","",""
-"Shimamoto Jun (talking)","例のスキャンダルで人気が落ちていますが それでも最大のライバルです。","Although the scandal has caused a decline in popularity, they are still our biggest rivals.","El escándalo del caso ha reducido su popularidad, pero siguen siendo nuestros mayores rivales."
-"__system__??","}","",""
-"__system__??","{☆スキャンダル \ 3:","",""
-"Shimamoto Jun (talking)","圧倒的人気です。 新市長は彼女に決まりそうです。","She is overwhelmingly popular. She is likely to be the new mayor.","Es abrumadoramente popular. Es probable que sea la nueva alcaldesa."
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"Shimamoto Jun (talking)","選挙の動向に関する報告は、以上です。","That is all for this report on election trends.","El informe sobre la evolución electoral está arriba."
-"Shimamoto Jun (talking)","にて、 ジョンソンと名乗る巨漢の ウィミィ人がうろうろしています。
+Shimamoto Jun (talking),実に奇怪な事が起こりました。 金田酒太郎が女になりました。,Something truly bizarre happened. Kaneda Sakatarou became a woman.,Sucedió una cosa verdaderamente extraña. Kaneda Sakatarou se convirtió en mujer.
+Yamamoto Akuji (talking),はぁ？？？,Huh?,¿Eh?
+Shimamoto Jun (talking),よろしければ、 後でご自分でお確かめ下さい。,"You can see for yourself later, if you like.","Si quieres, puedes comprobarlo por ti mismo más adelante."
+Shimamoto Jun (talking),昨晩の事ですが、オオサカコフンの 入り口が開いているのが発見されました。 今なら中に入る事が出来ます。,"As of last night, the entrance to Osakakakofun was found open. You can go inside now.","Anoche, la entrada al Osakakofun fue encontrada abierta. Ahora puedes entrar."
+Shimamoto Jun (talking),市議会より、食い逃げ犯の池田加奈を 逮捕するように指示が出ております。,The City Council has instructed us to arrest Ikeda Kana for the food run.,El ayuntamiento ha dado instrucciones para detener al corredor de alimentos Ikeda Kana.
+Shimamoto Jun (talking),那古教の教祖と古宮陽子ですが、 引き離しておいた方がよいかと。,"The guru of Nakokyou and Komiya Youko, but I think we should keep them apart.","Nakokyou gurú y Komiya Youko, pero sería mejor mantenerlos separados."
+Yamamoto Akuji (talking),どーしてだ？,How so?,¿Cómo es eso?
+Shimamoto Jun (talking),犬が飼い主の手を噛む、 という事になりかねません。 お心当たりはありませんか？,This could lead to the dog biting the owner's hand. Do you have any idea what this could be?,Esto puede llevar al perro a morder la mano del dueño. ¿Tiene alguna idea de lo que podría ser?
+Yamamoto Akuji (talking),んー……あるにはあるけどよ。,"Hmmm……… is there, but…","Hmmm……… está ahí, pero…"
+Shimamoto Jun (talking),そうですか。 では、後は若にお任せします。,I see. Then I will leave the rest to the young.,Ya veo. Entonces dejaré el resto a los jóvenes.
+Shimamoto Jun (talking),組を脱走した、由女と古宮陽子の行方で すが、どうやらシキナにいるようです。 元信者がかくまっています。,"The whereabouts of Yume and Komiya Youko, who escaped from the group, seem to be in Shikina. Former members are hiding them.","El paradero de Yume y Komiya Youko, que escaparon del grupo, parece estar en Sikina. Los antiguos miembros los esconden."
+Shimamoto Jun (talking),私が調べた所の現在の選挙情勢です。,Here is the current election situation from what I have been able to find out.,Esta es la situación electoral actual por lo que he podido averiguar.
+__system__??,{☆選挙 = 4:,,
+Shimamoto Jun (talking),前市長の娘、中山多恵子が立候補して きました。,"The former mayor's daughter, Nakayama Taeko, is running for the office.","La hija del antiguo alcalde, Nakayama Taeko, se presenta a las elecciones."
+__system__??,},,
+__system__??,{☆選挙 = 4:,,
+Shimamoto Jun (talking),選挙運動は、後３週間あります。,There are three more weeks of campaigning.,Quedan tres semanas de campaña.
+__system__??,},,
+__system__??,{☆選挙 = 5:,,
+Shimamoto Jun (talking),選挙運動期間は、後２週間のみです。,The campaign period is only two weeks away.,Sólo faltan dos semanas para el inicio de la campaña.
+__system__??,},,
+__system__??,{☆選挙 = 6:,,
+Shimamoto Jun (talking),いよいよ、週末は選挙です。,"Finally, the election is this weekend.","Por último, las elecciones son el fin de semana."
+__system__??,},,
+__system__??,{■ \ 0:,,
+Shimamoto Jun (talking),選挙ポスターは、,The campaign posters were,Los carteles electorales eran.
+Shimamoto Jun (talking),地域に配置して おります。 知名度を徐々に上げているもようです。,The company has been deploying them in the region. The company seems to be gradually gaining recognition.,La empresa los está desplegando en la región. Parece que poco a poco van ganando protagonismo.
+__system__??,},,
+__system__??,{☆立候補 = 1:,,
+Shimamoto Jun (talking),夕子様,Dear Yuuko.,Querida Yuuko.
+__system__??,},,
+__system__??,{☆立候補 = 2:,,
+Shimamoto Jun (talking),殺様,Dear Satsu.,Querido Satsu.
+__system__??,},,
+Shimamoto Jun (talking),の支持率　,Approval ratings for,Apoyo a la
+Shimamoto Jun (talking),％,％,％
+__system__??,{☆選挙 = 3:,,
+Shimamoto Jun (talking),選挙運動は始まったばかりです。 これからの運動が勝敗を決めます。,The campaign has just begun Hajime. The campaign from now on will decide the winner.,La campaña acaba de empezar Hajime. La campaña a partir de ahora decidirá quién gana.
+__system__??,},,
+__system__??,{☆選挙 = 4:,,
+Shimamoto Jun (talking),完全に中山多恵子に押されています。 なんらかの対策が必要です。,It is completely pushed by Nakayama Taeko. Some kind of countermeasure is needed.,Está completamente impulsado por Nakayama Taeko. Hay que tomar algunas medidas.
+__system__??,},,
+__system__??,{☆選挙 = 5:,,
+Shimamoto Jun (talking),厳しい状況です。,It is a tough situation.,Una situación difícil.
+__system__??,},,
+__system__??,{☆選挙 = 6:,,
+__system__??,{☆人気／夕子 < ☆人気／多恵子:,,
+Shimamoto Jun (talking),現状では、勝てる見込みは少ないです。,"Currently, there is little chance of winning.","En la actualidad, hay pocas perspectivas de ganar."
+__system__??,},,
+__system__??,{☆人気／夕子 > ☆人気／多恵子:,,
+Shimamoto Jun (talking),このままいけば、勝てます。 最後の選挙運動をして下さい。,"If we keep it up, we will win. Please do one last campaign.","Si sigues así, ganarás. Haz una última campaña."
+__system__??,},,
+__system__??,},,
+Shimamoto Jun (talking),北条政子の支持率　,Support for Hojo Masako,Apoyo a Hojo Masako
+Shimamoto Jun (talking),％,％,％
+__system__??,{☆選挙 = 3:,,
+Shimamoto Jun (talking),ガチガチの議員あがりです。 問題視する必要はありません。,It's a stiff congressman up. There is no need to see it as a problem.,Se trata de un duro levantamiento parlamentario. No hay necesidad de verlo como un problema.
+__system__??,},,
+__system__??,{☆選挙 = 4:,,
+Shimamoto Jun (talking),地道な活動はしているようですが、 まったく駄目です。,"They seem to be working steadily, but to no avail.","Parece que trabajan con constancia, pero sin éxito."
+__system__??,},,
+__system__??,{☆選挙 = 5:,,
+Shimamoto Jun (talking),本人は、まだやる気のようですが、 後援会はすでに解散状態です。,"He still wants to do it, but his support group has already disbanded.","Todavía está dispuesto a hacerlo, pero su grupo de apoyo ya se ha disuelto."
+__system__??,},,
+__system__??,{☆選挙 = 6:,,
+Shimamoto Jun (talking),この人については、語る事はありません。,There is nothing to say about this person.,No hay nada que decir sobre esta persona.
+__system__??,},,
+Shimamoto Jun (talking),瑞海和樹の支持率　,Supported by Mizuumi Kazuki.,Con el apoyo de Mizuumi Kazuki.
+Shimamoto Jun (talking),％,％,％
+__system__??,{☆選挙 = 3:,,
+Shimamoto Jun (talking),ＰＭの後押しで票を集めています。 要注意です。,The PM's are pushing for votes. Be careful.,La presión de la PM por los votos. Notas.
+__system__??,},,
+__system__??,{☆選挙 = 4:,,
+Shimamoto Jun (talking),ハニー土木の力を使い支持率を 伸ばしています。,Hanny is using the power of civil engineering to increase his approval rating.,Hanny utiliza el poder de la ingeniería civil para aumentar su apoyo.
+__system__??,},,
+__system__??,{☆選挙 = 5:,,
+Shimamoto Jun (talking),ＰＭの支援が無くなり、急速に支持率 を失っています。,"With the loss of PM support, they are rapidly losing support.","Con la pérdida del apoyo de la PM, está perdiendo rápidamente apoyo."
+__system__??,},,
+__system__??,{☆人気／多恵子 \ 0:,,
+Shimamoto Jun (talking),中山多恵子の支持率　,Support for Nakayama Taeko.,Nakayama Taeko's support
+Shimamoto Jun (talking),％,％,％
+__system__??,{☆選挙 = 4:,,
+Shimamoto Jun (talking),ものすごい人気です。 一般市民の大半の心を掴んでいます。,It is incredibly popular. It has captured the hearts and minds of the majority of the general public.,Es increíblemente popular. Se ha ganado el corazón y la mente de la mayoría del público en general.
+__system__??,},,
+__system__??,{☆選挙 = 5:,,
+Shimamoto Jun (talking),新たにＰＭも支援に加わり万全の体制と なっています。,"A new PM has joined the team to provide support, and we are now fully prepared.",También se ha incorporado al equipo un nuevo PM para prestar apoyo y ya está totalmente equipado.
+__system__??,},,
+__system__??,{☆選挙 = 6:,,
+__system__??,{☆スキャンダル = 3:,,
+Shimamoto Jun (talking),例のスキャンダルで人気が落ちていますが それでも最大のライバルです。,"Although the scandal has caused a decline in popularity, they are still our biggest rivals.","El escándalo del caso ha reducido su popularidad, pero siguen siendo nuestros mayores rivales."
+__system__??,},,
+__system__??,{☆スキャンダル \ 3:,,
+Shimamoto Jun (talking),圧倒的人気です。 新市長は彼女に決まりそうです。,She is overwhelmingly popular. She is likely to be the new mayor.,Es abrumadoramente popular. Es probable que sea la nueva alcaldesa.
+__system__??,},,
+__system__??,},,
+__system__??,},,
+Shimamoto Jun (talking),選挙の動向に関する報告は、以上です。,That is all for this report on election trends.,El informe sobre la evolución electoral está arriba.
+Shimamoto Jun (talking),"にて、 ジョンソンと名乗る巨漢の ウィミィ人がうろうろしています。
 他で仕入れた情報によると、 極度の異常性愛者との事です。","There is a huge Wime man who calls himself Johnson wandering around at Wime.
 According to information we have received elsewhere, he is an extreme case of sexual deviancy.","Un gran hombre Wime, que se hace llamar Johnson, está rondando en
 Según la información que hemos recibido en otros lugares, es un adicto al sexo extremo."
-"Shimamoto Jun (talking)","にて、 非常にやっかいな事が起こっています。 ウィミィの女性運動家が現れたそうです。","Something very troubling is happening at Wime. A woman activist from Wime has appeared on the scene.","Algo muy preocupante está sucediendo en Wime. Ha aparecido una mujer de la campaña de Wime."
-"Shimamoto Jun (talking)","にて、 ウィミィ軍人の中でも殺人狂で有名な シャロン少尉が目撃されています。","Second Lieutenant Sharon, a well-known Satsu maniac among Wime soldiers, was seen at","El subteniente Sharon, un conocido maníaco de Satsu entre los soldados de Wime, fue visto en"
-"Shimamoto Jun (talking)","ハニー土木の大量解雇により 職を失った者が市街にあふれかえって います。","The city is awash with people who have lost their jobs due to mass layoffs at Hanny  Civil Engineering.","Hanny La ciudad está inundada de gente que ha perdido su trabajo como resultado de los despidos masivos en Ingeniería Civil."
-"Shimamoto Jun (talking)","イルラカムイの探している 婚約者ですが、どうやら １６色画廊で捕らわれているようです。","The fiancée Ilulakamui is looking for, apparently being held captive in a 16-color gallery.","La prometida buscada por Ilulakamui, aparentemente cautiva en la Galería de los 16 Colores."
-"Shimamoto Jun (talking)","池田加奈が売春宿から消えました。 姉、苺が関係しているかもしれません。","Ikeda Kana has disappeared from a brothel. Her sister, Ichigo may be involved.","Ikeda Kana ha desaparecido de un burdel. Su hermana, Ichigo, puede estar involucrada."
-"Shimamoto Jun (talking)","売春宿の告発本が発売されました。","A book accusing brothels of being brothels has been released.","Se ha lanzado un libro que acusa a los burdeles de serlo."
-"Shimamoto Jun (talking)","池田苺というフリーの記者が 組織の周囲を嗅ぎ回っているようです。
+Shimamoto Jun (talking),にて、 非常にやっかいな事が起こっています。 ウィミィの女性運動家が現れたそうです。,Something very troubling is happening at Wime. A woman activist from Wime has appeared on the scene.,Algo muy preocupante está sucediendo en Wime. Ha aparecido una mujer de la campaña de Wime.
+Shimamoto Jun (talking),にて、 ウィミィ軍人の中でも殺人狂で有名な シャロン少尉が目撃されています。,"Second Lieutenant Sharon, a well-known Satsu maniac among Wime soldiers, was seen at","El subteniente Sharon, un conocido maníaco de Satsu entre los soldados de Wime, fue visto en"
+Shimamoto Jun (talking),ハニー土木の大量解雇により 職を失った者が市街にあふれかえって います。,The city is awash with people who have lost their jobs due to mass layoffs at Hanny  Civil Engineering.,Hanny La ciudad está inundada de gente que ha perdido su trabajo como resultado de los despidos masivos en Ingeniería Civil.
+Shimamoto Jun (talking),イルラカムイの探している 婚約者ですが、どうやら １６色画廊で捕らわれているようです。,"The fiancée Ilulakamui is looking for, apparently being held captive in a 16-color gallery.","La prometida buscada por Ilulakamui, aparentemente cautiva en la Galería de los 16 Colores."
+Shimamoto Jun (talking),池田加奈が売春宿から消えました。 姉、苺が関係しているかもしれません。,"Ikeda Kana has disappeared from a brothel. Her sister, Ichigo may be involved.","Ikeda Kana ha desaparecido de un burdel. Su hermana, Ichigo, puede estar involucrada."
+Shimamoto Jun (talking),売春宿の告発本が発売されました。,A book accusing brothels of being brothels has been released.,Se ha lanzado un libro que acusa a los burdeles de serlo.
+Shimamoto Jun (talking),"池田苺というフリーの記者が 組織の周囲を嗅ぎ回っているようです。
 調べてみたところ、池田苺自身は 三流記者に過ぎませんが……
 この記者、以前に若が捕獲して タマネギ先生へお預けになった、 食い逃げ犯・池田加奈の実姉です。
 その線から、思いもよらない損害を 被るかもしれません。
@@ -387,81 +387,81 @@ Comprobamos que el propio Ikeda Ichigo es sólo un reportero de tercera categor�
 Esta reportera es la hermana de Ikeda Kana, la corredora de alimentos que fue capturada por Waka y enviada a Tamanegi.
 Desde esa línea, puede sufrir un daño inesperado.
 Tan pronto como sea posible, debemos tomar medidas como sellar la boca de Ikeda Ichigo."
-"__system__??","{★愛 = 5:","",""
-"Shimamoto Jun (talking)","そういえば… ご結婚、おめでとうこざいます。","Speaking of which… congratulations on your marriage.","Hablando de eso… felicidades por tu boda."
-"Yamamoto Akuji (talking)","あ~…","Ahhh…","Ahhh…"
-"Shimamoto Jun (talking)","どうなさったのです？ めでたい事ではないのですか？","What's going on? Isn't this something to celebrate?","¿Qué está pasando? ¿No estás contento?"
-"Yamamoto Akuji (talking)","無理矢理決められたからな~…","I was forced to make a decision…","Me vi obligado a tomar una decisión…"
-"Shimamoto Jun (talking)","一応、色々と調べておきました。 婚姻届は正式な物で提出されています。","In the meantime, I have done some research. The marriage certificate is official and has been filed.","Mientras tanto, he investigado mucho. El certificado de matrimonio es oficial y ha sido archivado."
-"Yamamoto Akuji (talking)","ん~…","Hmmm…","Hmmm…"
-"Shimamoto Jun (talking)","４月３日生まれ、１８才です。 これも間違いありません。
+__system__??,{★愛 = 5:,,
+Shimamoto Jun (talking),そういえば… ご結婚、おめでとうこざいます。,Speaking of which… congratulations on your marriage.,Hablando de eso… felicidades por tu boda.
+Yamamoto Akuji (talking),あ~…,Ahhh…,Ahhh…
+Shimamoto Jun (talking),どうなさったのです？ めでたい事ではないのですか？,What's going on? Isn't this something to celebrate?,¿Qué está pasando? ¿No estás contento?
+Yamamoto Akuji (talking),無理矢理決められたからな~…,I was forced to make a decision…,Me vi obligado a tomar una decisión…
+Shimamoto Jun (talking),一応、色々と調べておきました。 婚姻届は正式な物で提出されています。,"In the meantime, I have done some research. The marriage certificate is official and has been filed.","Mientras tanto, he investigado mucho. El certificado de matrimonio es oficial y ha sido archivado."
+Yamamoto Akuji (talking),ん~…,Hmmm…,Hmmm…
+Shimamoto Jun (talking),"４月３日生まれ、１８才です。 これも間違いありません。
 なんの心配もありませんよ。","I was born on April 3 and am 18 years old. There is no doubt about it.
 There is nothing to worry about.","Nací el 3 de abril y tengo 18 años. No hay duda de ello.
 No hay nada de qué preocuparse."
-"Yamamoto Akuji (talking)","ん~~~~…","Please visit ~~~~…","N. ~~~~…"
-"__system__??","}","",""
-"Shimamoto Jun (talking)","岳画殺について調べました。 間違いなく若の叔母になります。
+Yamamoto Akuji (talking),ん~~~~…,Please visit ~~~~…,N. ~~~~…
+__system__??,},,
+Shimamoto Jun (talking),"岳画殺について調べました。 間違いなく若の叔母になります。
 ３親等以内の血縁なので 気をつけて下さい。","I looked up Takega Satsu. She is definitely the young man's aunt.
 She is related by blood within the third degree, so please be careful.","He buscado Takega Satsu. Definitivamente es la tía del joven.
 Está emparentada por sangre dentro del tercer grado, así que ten cuidado."
-"Yamamoto Akuji (talking)","何が？","What?","¿Qué?"
-"Shimamoto Jun (talking)","それから、１３才です。 これも間違いありません。 未成年なので気をつけてください。","Then, he is 13 years old. There is no doubt about this either. Be careful, he is a minor.","Entonces, tengo 13 años. Tampoco hay dudas al respecto. Ten cuidado, porque es menor de edad."
-"Yamamoto Akuji (talking)","だから、何が？","So, what?","¿Y qué?"
-"Shimamoto Jun (talking)","色々です。","Various.","Varios."
-"Shimamoto Jun (talking)","神原夕子。 若の初めての女性であり、 若のテクニックのすべてを知る女性です。
+Yamamoto Akuji (talking),何が？,What?,¿Qué?
+Shimamoto Jun (talking),それから、１３才です。 これも間違いありません。 未成年なので気をつけてください。,"Then, he is 13 years old. There is no doubt about this either. Be careful, he is a minor.","Entonces, tengo 13 años. Tampoco hay dudas al respecto. Ten cuidado, porque es menor de edad."
+Yamamoto Akuji (talking),だから、何が？,"So, what?",¿Y qué?
+Shimamoto Jun (talking),色々です。,Various.,Varios.
+Shimamoto Jun (talking),"神原夕子。 若の初めての女性であり、 若のテクニックのすべてを知る女性です。
 戦地におもむき若のテクニックも少し 落ちている様子。
 夕子さんを使い、再び技術を取り戻しては いかがですか？","Kanbara Yuuko. She is the first woman who knows all of his techniques.
 He has been on the warpath and his technique seems to have declined a bit.
 How about using Yuuko to help him regain his technique?","Kanbara Yuuko. Es la primera mujer que conoce todas las técnicas de Waka.
 Se encuentra en una zona de guerra y su técnica parece estar un poco decaída.
  ¿Qué tal si usamos Yuuko para ayudarle a recuperar sus habilidades?"
-"Yamamoto Akuji (talking)","そうだな… そしたら、徐々に部下の扱いも ラクになるかもしんねーしな。","Well… maybe then you'll be able to handle your people a little more easily.","Bueno… tal vez entonces podrás manejar a tus hombres con más facilidad."
-"Shimamoto Jun (talking)","はい、効率があがると思います。","Yes, I think it will be more efficient.","Sí, creo que aumentará la eficiencia."
-"Shimamoto Jun (talking)","シキナの周辺に那古教という 新興宗教があります。","There is an emerging religion called Nakokyou around Shikina.","Hay una religión emergente llamada Nakokyou en torno a Sikina."
-"Yamamoto Akuji (talking)","ふん、宗教ね……","Hmm, religion……","Hmm, la religión……"
-"Shimamoto Jun (talking)","最近、各地で、つちのこを目撃した という噂が飛び交っています。","Recently, rumors of sightings of tsuchinoko have been circulating in many places.","Recientemente han circulado rumores de avistamientos de tsuchinoko en varias partes del país."
-"Shimamoto Jun (talking)","つちのこを見たという噂が増えて いますが、総合するとロッコウ辺りに いるらしいです。","There are more and more rumors that people have seen the tsuchinoko, and all in all, they seem to be in the Rokko area.","Cada vez hay más rumores de que la gente ha visto a los tsuchinoko, y en total, se dice que están alrededor de Lokkou."
-"Shimamoto Jun (talking)","キャット・メッコーが天才病院に 入院中です。 病名等はまだわからないとの事です。","kyatto and Mekkō are in the Genius Hospital. The name of the disease is not yet known.","kyatto y Mekkō están en el Hospital Genius. Todavía se desconoce el nombre de la enfermedad y otros detalles."
-"Shimamoto Jun (talking)","お時間があるようでしたら、 ヘグリの竹井屋敷をご訪問されては どうですか？","If you have time, why not visit the Takei residence in Hegli?","Si tienes tiempo, ¿por qué no visitas el complejo Takei en Hegli?"
-"Shimamoto Jun (talking)","捕虜として捕らえている長崎旗男ですが 根気よく懐柔していけば、部下に出来る 可能性があると思われます。","We are holding Nagasaki Hatao as a prisoner of war, but we believe that there is a possibility to make him our subordinate if we patiently and patiently persuade him.","Tenemos a Nagasaki Hatao como prisionero de guerra, pero si somos pacientes y nostálgicos, tal vez podamos convertirlo en nuestro subordinado."
-"Shimamoto Jun (talking)","長崎旗男の様子がおかしいです。 注意した方がよろしいかと。","Something is wrong with Nagasaki Hatao. You might want to be careful.","Algo está mal con Nagasaki Hatao. Debes tener cuidado."
-"Shimamoto Jun (talking)","これは、ただの噂話ですが… オオアナで放射能を浴びると、まれに 能力が上がったりする事があるとか…","This is just a rumor, but I've heard that exposure to radiation in Ooana can, on rare occasions, increase one's abilities…","Esto es sólo un rumor, pero… hay rumores de que la exposición a la radiación en Ooana puede, en raras ocasiones, aumentar sus habilidades…"
-"Shimamoto Jun (talking)","売春宿の件ですが、数が多すぎます。 娼婦の数に上限がありますから無駄です。","As for the brothels, there are too many of them. There is a cap on the number of prostitutes, which is useless.","En cuanto a los burdeles, hay demasiados. Hay un límite en el número de prostitutas, que es inútil."
-"Shimamoto Jun (talking)","売春宿の件ですが、 新しく建造しては、いかがでしょうか？ すでにどの店も定員一杯です。","As for the brothels, how about building new ones? All of them are already full.","En cuanto a los burdeles, ¿por qué no construir otros nuevos? Todos ellos están ya llenos hasta la bandera."
-"Shimamoto Jun (talking)","市議会を攻めるなら早い内がいいです。 ただし２週間でケリをつけて下さい。","If you want to attack the City Council, the sooner the better. However, you have two weeks to get it over with.","Cuanto antes ataque al ayuntamiento, mejor. Sin embargo, tienes dos semanas para acabar con ello."
-"Shimamoto Jun (talking)","これは、余計な事かもしれませんが… 想い人を手に入れる為には、マメに会い に行った方がいいですよ。","This may be a bit unnecessary, but… in order to get the person you want, you should go to see him or her often.","Esto puede ser un poco superfluo, pero… para conseguir a la persona que quieres, deberías ir a verla más a menudo."
-"Shimamoto Jun (talking)","これは、余計な事でしょうが… アンリさんは…","This is probably superfluous… but Henri is…","Esto es probablemente superfluo, pero… Henri es…"
-"Yamamoto Akuji (talking)","お前には関係の無い事だろ。","It's none of your business.","No es de tu incumbencia."
-"Shimamoto Jun (thinking)","……女を操るのが仕事なのに、 操られるとは…期待はずれか…","……It's my job to Misao women, but to Misao them… disappointing…","…… Es mi trabajo Misao a las mujeres, pero Misao a ellas… decepcionante…"
-"Shimamoto Jun (talking)","ＰＭとのコロシアム決戦の勝利、 おめでとうございます。
+Yamamoto Akuji (talking),そうだな… そしたら、徐々に部下の扱いも ラクになるかもしんねーしな。,Well… maybe then you'll be able to handle your people a little more easily.,Bueno… tal vez entonces podrás manejar a tus hombres con más facilidad.
+Shimamoto Jun (talking),はい、効率があがると思います。,"Yes, I think it will be more efficient.","Sí, creo que aumentará la eficiencia."
+Shimamoto Jun (talking),シキナの周辺に那古教という 新興宗教があります。,There is an emerging religion called Nakokyou around Shikina.,Hay una religión emergente llamada Nakokyou en torno a Sikina.
+Yamamoto Akuji (talking),ふん、宗教ね……,"Hmm, religion……","Hmm, la religión……"
+Shimamoto Jun (talking),最近、各地で、つちのこを目撃した という噂が飛び交っています。,"Recently, rumors of sightings of tsuchinoko have been circulating in many places.",Recientemente han circulado rumores de avistamientos de tsuchinoko en varias partes del país.
+Shimamoto Jun (talking),つちのこを見たという噂が増えて いますが、総合するとロッコウ辺りに いるらしいです。,"There are more and more rumors that people have seen the tsuchinoko, and all in all, they seem to be in the Rokko area.","Cada vez hay más rumores de que la gente ha visto a los tsuchinoko, y en total, se dice que están alrededor de Lokkou."
+Shimamoto Jun (talking),キャット・メッコーが天才病院に 入院中です。 病名等はまだわからないとの事です。,kyatto and Mekkō are in the Genius Hospital. The name of the disease is not yet known.,kyatto y Mekkō están en el Hospital Genius. Todavía se desconoce el nombre de la enfermedad y otros detalles.
+Shimamoto Jun (talking),お時間があるようでしたら、 ヘグリの竹井屋敷をご訪問されては どうですか？,"If you have time, why not visit the Takei residence in Hegli?","Si tienes tiempo, ¿por qué no visitas el complejo Takei en Hegli?"
+Shimamoto Jun (talking),捕虜として捕らえている長崎旗男ですが 根気よく懐柔していけば、部下に出来る 可能性があると思われます。,"We are holding Nagasaki Hatao as a prisoner of war, but we believe that there is a possibility to make him our subordinate if we patiently and patiently persuade him.","Tenemos a Nagasaki Hatao como prisionero de guerra, pero si somos pacientes y nostálgicos, tal vez podamos convertirlo en nuestro subordinado."
+Shimamoto Jun (talking),長崎旗男の様子がおかしいです。 注意した方がよろしいかと。,Something is wrong with Nagasaki Hatao. You might want to be careful.,Algo está mal con Nagasaki Hatao. Debes tener cuidado.
+Shimamoto Jun (talking),これは、ただの噂話ですが… オオアナで放射能を浴びると、まれに 能力が上がったりする事があるとか…,"This is just a rumor, but I've heard that exposure to radiation in Ooana can, on rare occasions, increase one's abilities…","Esto es sólo un rumor, pero… hay rumores de que la exposición a la radiación en Ooana puede, en raras ocasiones, aumentar sus habilidades…"
+Shimamoto Jun (talking),売春宿の件ですが、数が多すぎます。 娼婦の数に上限がありますから無駄です。,"As for the brothels, there are too many of them. There is a cap on the number of prostitutes, which is useless.","En cuanto a los burdeles, hay demasiados. Hay un límite en el número de prostitutas, que es inútil."
+Shimamoto Jun (talking),売春宿の件ですが、 新しく建造しては、いかがでしょうか？ すでにどの店も定員一杯です。,"As for the brothels, how about building new ones? All of them are already full.","En cuanto a los burdeles, ¿por qué no construir otros nuevos? Todos ellos están ya llenos hasta la bandera."
+Shimamoto Jun (talking),市議会を攻めるなら早い内がいいです。 ただし２週間でケリをつけて下さい。,"If you want to attack the City Council, the sooner the better. However, you have two weeks to get it over with.","Cuanto antes ataque al ayuntamiento, mejor. Sin embargo, tienes dos semanas para acabar con ello."
+Shimamoto Jun (talking),これは、余計な事かもしれませんが… 想い人を手に入れる為には、マメに会い に行った方がいいですよ。,"This may be a bit unnecessary, but… in order to get the person you want, you should go to see him or her often.","Esto puede ser un poco superfluo, pero… para conseguir a la persona que quieres, deberías ir a verla más a menudo."
+Shimamoto Jun (talking),これは、余計な事でしょうが… アンリさんは…,This is probably superfluous… but Henri is…,"Esto es probablemente superfluo, pero… Henri es…"
+Yamamoto Akuji (talking),お前には関係の無い事だろ。,It's none of your business.,No es de tu incumbencia.
+Shimamoto Jun (thinking),……女を操るのが仕事なのに、 操られるとは…期待はずれか…,"……It's my job to Misao women, but to Misao them… disappointing…","…… Es mi trabajo Misao a las mujeres, pero Misao a ellas… decepcionante…"
+Shimamoto Jun (talking),"ＰＭとのコロシアム決戦の勝利、 おめでとうございます。
 ですが、プライドの高い彼らが、 これで黙っているとは到底 思えません。","Congratulations on your victory in the Coliseum battle with PM.
 But I can't believe that their pride will let them be quiet about this.","Enhorabuena por tu victoria en el duelo del Coliseo con PM.
 Pero no creo que su orgullo les decepcione."
-"Yamamoto Akuji (talking)","わかってる。 これからが本番だな。","I know. We're just getting started.","Lo sé. Sólo estamos empezando."
-"Shimamoto Jun (talking)","おそらく。","Probably.","Es de suponer."
-"Shimamoto Jun (talking)","シンコウベにて戦時中ウィミィが落とした 不発弾が発見されました。 早急に処理が必要です。","An unexploded Dan dropped by Wime during the war was found in Shinkoube. It needs to be dealt with as soon as possible.","En Shinkoube se encontró un Dan sin explotar lanzado por Wime durante la guerra. Hay que solucionarlo lo antes posible."
-"Shimamoto Jun (talking)","若、さしでまがしい事かもしれませんが 寧々に裏工作をさせております。","I know this may seem a bit silly, but I have Nene working behind the scenes.","Tenemos a Nene trabajando entre bastidores."
-"__system__??","{★桃山組 = 2:","",""
-"Tsukigase Nene (talking)","桃山組に偽情報を流し混乱させました。 今週は、連続行動は出来ないと思われ ます。","We have caused confusion by sending false information to Momoyama group. It is expected that they will not be able to act continuously this week.","El grupo Momoyama fue desbaratado por una información falsa. No se espera que pueda actuar de forma continuada esta semana."
-"__system__??","}","",""
-"__system__??","{☆ギガフロート > 2:","",""
-"Tsukigase Nene (talking)","謎の軍団に対して、手をうちました。 今週は、連続行動は出来ないはずです。","We have taken steps against the mysterious army. There should be no continuous action this week.","Hemos tomado medidas contra el Ejército del Misterio. La acción continua no debería ser posible esta semana."
-"__system__??","}","",""
-"__system__??","{★ウィミィ = 2:","",""
-"Tsukigase Nene (talking)","ウィミィ軍に対しての 裏工作が成功しました。 今週は、派手な作戦が出来ないはずです。","Wime backstabbing against the military has been successful. There should be no fancy operations this week.","Wime Las operaciones de puerta trasera contra el ejército han tenido éxito. No debería haber operaciones de lujo esta semana."
-"__system__??","}","",""
-"Shimamoto Jun (talking)","アシヤには、乃木大将の屋敷があります。 争う前に一度、話をされてみてはいかがで しょうか。","In Asiya, there is the residence of General Nogi. Why don't you have a talk with him before you fight?","Hay un complejo del General Nogi en Asiya. ¿Por qué no hablar con él una vez antes de pelear?"
-"Shimamoto Jun (talking)","どうしました？ うかない顔をしてらっしゃいますが。","What's wrong? You seem to have a depressed face.","¿Qué pasa? Pareces deprimido."
-"narrator","悪司は、乃木屋敷で会った 青年将校の話をした。","Akuji told the story of a young officer he met at the Nogi compound.","Akuji habló de un joven oficial que conoció en el recinto de Nogi."
-"Shimamoto Jun (talking)","なるほど、ありがちな話ですね。
+Yamamoto Akuji (talking),わかってる。 これからが本番だな。,I know. We're just getting started.,Lo sé. Sólo estamos empezando.
+Shimamoto Jun (talking),おそらく。,Probably.,Es de suponer.
+Shimamoto Jun (talking),シンコウベにて戦時中ウィミィが落とした 不発弾が発見されました。 早急に処理が必要です。,An unexploded Dan dropped by Wime during the war was found in Shinkoube. It needs to be dealt with as soon as possible.,En Shinkoube se encontró un Dan sin explotar lanzado por Wime durante la guerra. Hay que solucionarlo lo antes posible.
+Shimamoto Jun (talking),若、さしでまがしい事かもしれませんが 寧々に裏工作をさせております。,"I know this may seem a bit silly, but I have Nene working behind the scenes.",Tenemos a Nene trabajando entre bastidores.
+__system__??,{★桃山組 = 2:,,
+Tsukigase Nene (talking),桃山組に偽情報を流し混乱させました。 今週は、連続行動は出来ないと思われ ます。,We have caused confusion by sending false information to Momoyama group. It is expected that they will not be able to act continuously this week.,El grupo Momoyama fue desbaratado por una información falsa. No se espera que pueda actuar de forma continuada esta semana.
+__system__??,},,
+__system__??,{☆ギガフロート > 2:,,
+Tsukigase Nene (talking),謎の軍団に対して、手をうちました。 今週は、連続行動は出来ないはずです。,We have taken steps against the mysterious army. There should be no continuous action this week.,Hemos tomado medidas contra el Ejército del Misterio. La acción continua no debería ser posible esta semana.
+__system__??,},,
+__system__??,{★ウィミィ = 2:,,
+Tsukigase Nene (talking),ウィミィ軍に対しての 裏工作が成功しました。 今週は、派手な作戦が出来ないはずです。,Wime backstabbing against the military has been successful. There should be no fancy operations this week.,Wime Las operaciones de puerta trasera contra el ejército han tenido éxito. No debería haber operaciones de lujo esta semana.
+__system__??,},,
+Shimamoto Jun (talking),アシヤには、乃木大将の屋敷があります。 争う前に一度、話をされてみてはいかがで しょうか。,"In Asiya, there is the residence of General Nogi. Why don't you have a talk with him before you fight?",Hay un complejo del General Nogi en Asiya. ¿Por qué no hablar con él una vez antes de pelear?
+Shimamoto Jun (talking),どうしました？ うかない顔をしてらっしゃいますが。,What's wrong? You seem to have a depressed face.,¿Qué pasa? Pareces deprimido.
+narrator,悪司は、乃木屋敷で会った 青年将校の話をした。,Akuji told the story of a young officer he met at the Nogi compound.,Akuji habló de un joven oficial que conoció en el recinto de Nogi.
+Shimamoto Jun (talking),"なるほど、ありがちな話ですね。
 巻き込まれると、厄介な事に なりそうです。
 乃木将軍との接触は、 少し考えた方がよいですね。","I see. It's a common story.
 If you get involved, it could be a problem.
 You should think twice about contacting General Nogi.","Ya veo, es una historia común.
 Si te involucras, podría ser complicado.
 Deberías pensar dos veces antes de contactar con el General Nogi."
-"Shimamoto Jun (talking)","現在、遅刻ペンギンが発生しています。 奴らを止めるには、私達の支配地域を 増やすしかありません。","We are currently experiencing late penguins. The only way to stop them is to increase our dominion.","Actualmente estamos experimentando pingüinos tardíos. La única manera de detenerlos es aumentar nuestros dominios."
-"Shimamoto Jun (talking)","いよいよ選挙が開始となります。
+Shimamoto Jun (talking),現在、遅刻ペンギンが発生しています。 奴らを止めるには、私達の支配地域を 増やすしかありません。,We are currently experiencing late penguins. The only way to stop them is to increase our dominion.,Actualmente estamos experimentando pingüinos tardíos. La única manera de detenerlos es aumentar nuestros dominios.
+Shimamoto Jun (talking),"いよいよ選挙が開始となります。
 我々の管理地において手の届く範囲では、 票の獲得をしておりますが……
 選挙票の大半である浮動票は、 地道に確保する必要があります。
 街頭演説を行う事で、人気を高める事が 出来ます。
@@ -489,245 +489,245 @@ Entonces debes hacerlo tanto como quieras.
 También es importante que los ciudadanos recuerden sus nombres al colocar una gran cantidad de carteles electorales.
 Los ciudadanos que no piensan mucho al respecto parecen sentir más afinidad con los nombres familiares que ven en los carteles.
 Incluso si pospone otras tácticas, debe centrarse en hacer campaña durante el mes pasado."
-"Shimamoto Jun (talking)","エデン司令部のシーネル司令官は、 完全に若の支配下ですが、用心をして 訪問しておいた方がよいと思われます。","Commander Seanel of Eden Command is completely under the control of the young, but it would be advisable to visit him with caution.","El Comandante Seanel del Comando Edén está completamente bajo el control de los jóvenes, pero es aconsejable visitarlo con precaución."
-"Shimamoto Jun (talking)","ナンコウ沖に現れた物体ですが、 ウィミィ軍が極秘開発していた ギガフロートという洋上基地らしいです。","The object that appeared off the coast of Nankow is said to be an offshore base called Giga-Float, which was secretly developed by the Wime military.","Se dice que el objeto que apareció frente a la costa de Nankow es una base en alta mar llamada Giga-Float, que fue desarrollada en secreto por los militares de Wime."
-"Yamamoto Akuji (talking)","なんで、そんな物がここに来たんだ。","Why did that thing come here?","¿Por qué vino esa cosa aquí?"
-"Shimamoto Jun (talking)","わかりません。 ですが、私達の敵である事には違いない ようです。","I don't know. But it seems to be our enemy.","No lo sabemos. Pero parece que son nuestros enemigos."
-"Shimamoto Jun (talking)","謎の軍団として乗り込んできた者達ですが 北米大陸の戦闘民族アメリカンです。","Those who rode in as a mysterious army, the fighting Americans of the North American continent.","Los que entraron como el Ejército Misterioso, pero son los americanos combatientes del continente norteamericano."
-"Yamamoto Akuji (talking)","なんで、そんな遠くから……","Why, from such a distance ……","Por qué, desde tan lejos: ……"
-"Shimamoto Jun (talking)","理由は不明ですが、アメリカンは元いた 土地をウィミィ人に奪われ民族危機に 陥っていると聞いています。","The reason is  Mei, but I have heard that the Americans are in an ethnic crisis, having lost their former lands to the Wime people.","La razón no esMei, pero hemos oído que los americanos están en una crisis étnica, al haber perdido su antigua tierra a manos del pueblo Wime."
-"Shimamoto Jun (talking)","謎の軍団から乗り込んできた強力な蛮族 ですが、南のアドリリ島に生息する戦鬼 という一族です。
+Shimamoto Jun (talking),エデン司令部のシーネル司令官は、 完全に若の支配下ですが、用心をして 訪問しておいた方がよいと思われます。,"Commander Seanel of Eden Command is completely under the control of the young, but it would be advisable to visit him with caution.","El Comandante Seanel del Comando Edén está completamente bajo el control de los jóvenes, pero es aconsejable visitarlo con precaución."
+Shimamoto Jun (talking),ナンコウ沖に現れた物体ですが、 ウィミィ軍が極秘開発していた ギガフロートという洋上基地らしいです。,"The object that appeared off the coast of Nankow is said to be an offshore base called Giga-Float, which was secretly developed by the Wime military.","Se dice que el objeto que apareció frente a la costa de Nankow es una base en alta mar llamada Giga-Float, que fue desarrollada en secreto por los militares de Wime."
+Yamamoto Akuji (talking),なんで、そんな物がここに来たんだ。,Why did that thing come here?,¿Por qué vino esa cosa aquí?
+Shimamoto Jun (talking),わかりません。 ですが、私達の敵である事には違いない ようです。,I don't know. But it seems to be our enemy.,No lo sabemos. Pero parece que son nuestros enemigos.
+Shimamoto Jun (talking),謎の軍団として乗り込んできた者達ですが 北米大陸の戦闘民族アメリカンです。,"Those who rode in as a mysterious army, the fighting Americans of the North American continent.","Los que entraron como el Ejército Misterioso, pero son los americanos combatientes del continente norteamericano."
+Yamamoto Akuji (talking),なんで、そんな遠くから……,"Why, from such a distance ……","Por qué, desde tan lejos: ……"
+Shimamoto Jun (talking),理由は不明ですが、アメリカンは元いた 土地をウィミィ人に奪われ民族危機に 陥っていると聞いています。,"The reason is  Mei, but I have heard that the Americans are in an ethnic crisis, having lost their former lands to the Wime people.","La razón no esMei, pero hemos oído que los americanos están en una crisis étnica, al haber perdido su antigua tierra a manos del pueblo Wime."
+Shimamoto Jun (talking),"謎の軍団から乗り込んできた強力な蛮族 ですが、南のアドリリ島に生息する戦鬼 という一族です。
 １年ほど前にウィミィ軍により種族撲滅 されたという事だったのですが…… ここに現れるとは……","They are powerful barbarians from a mysterious army, but they are a tribe of war demons that inhabit the southern island of Adlili.
 They were eradicated by the Wime army about a year ago, but I didn't expect them to show up here……","Son poderosos bárbaros de un misterioso ejército, pero son una tribu de demonios de guerra de la isla sureña de Adlili.
 Fueron erradicados por el ejército Wime hace un año, pero nunca esperaron aparecer aquí……"
-"Shimamoto Jun (talking)","行方不明の岳画殺ですが…… いまだ消息が不明です。","The missing Takega Satsu… his whereabouts are still unknown.","La desaparecida Takega Satsu… aún se desconoce su paradero."
-"Shimamoto Jun (talking)","若、ウィミィに対してですが……","Young, for Wime but ……","Joven, contra Wime pero ……"
-"Yamamoto Akuji (talking)","ああ、準備はしておいてくれ。","Yeah, be prepared.","Sí, prepárate para eso."
-"Shimamoto Jun (talking)","わかりました。 いつでもいけるようにしておきます。","I understand. I will be ready to go anytime.","Entendido. Estaré listo para ir en cualquier momento."
-"Shimamoto Jun (talking)","我らが管理地域にて女子学生達が 独立を目指して決起しました。 早いうちに潰しておくべきと思います。","In our administrative area, a group of female students have decided to become independent. I think we should crush them as soon as possible.","En nuestras áreas administrativas, las alumnas han decidido independizarse. Creo que debemos aplastarlos a la primera oportunidad."
-"Shimamoto Jun (talking)","我らが管理地域にて主婦達が 独立を目指して決起しました。 早いうちに潰しておくべきと思います。","In the area we manage, a group of housewives have decided to go independent. I think we should crush them before they do anything else.","En nuestra área administrativa, las amas de casa han decidido independizarse. Creo que debemos aplastarlos a la primera oportunidad."
-"Shimamoto Jun (talking)","我らが管理地域で酔っぱらいが集団で 暴れています。 さっさと始末した方がよいかと。","Yopparai is rampaging in groups in our managed areas. I think it's better to get rid of it quickly.","Yopparai está arrasando grupos en nuestras áreas administradas. Creo que es mejor deshacerse de él rápidamente."
-"__system__??","{D19 = 701:","",""
-"narrator","現状報告の為、島本純が現れた。","Shimamoto Jun appeared for a status report.","Shimamoto Jun se presentó para un informe de situación."
-"__system__??","}","",""
-"__system__??","{D19 = 702:","",""
-"narrator","現状報告の為、部下が現れた。","A subordinate showed up to report on the current situation.","Un subordinado apareció para informar sobre la situación actual."
-"__system__??","}","",""
-"__system__??","{D19 = 701:","",""
-"narrator","以上、情報の報告を終わります。","This concludes the information report.","Con esto concluye el informe."
-"__system__??","}","",""
-"__system__??","{D19 = 702:","",""
-"narrator","ほ、報告する事は… んと… ないです……た、多分…","I have nothing to report… um… nothing……, maybe…","No tengo… um… nada que informar……, tal vez…"
-"__system__??","}","",""
-"__system__??","{D19 = 701:","",""
-"narrator","今朝方、","Earlier this morning.","Esta misma mañana."
-"narrator","が 行方不明になりました。 組織を裏切ったと思われます。","Disappeared It is believed that he has betrayed the organization.","Desaparecido. Se cree que ha traicionado a la organización."
-"__system__??","}","",""
-"__system__??","{D19 = 702:","",""
-"narrator","今朝方、","Earlier this morning.","Esta misma mañana."
-"narrator","が 行方不明になりました。 組織を裏切ったと思われます。","Disappeared. It is believed that he has betrayed the organization.","Desaparecido. Se cree que ha traicionado a la organización."
-"__system__??","}","",""
-"__system__??","{D19 = 701:","",""
-"__system__??","{B地域 \ 0:","",""
-"narrator","今朝方、","Earlier this morning.","Esta misma mañana."
-"narrator","に配備されて","and deployed to","Desplegado en"
-"__system__??","}","",""
-"__system__??","{B地域 = 0:","",""
-"narrator","今朝方、休憩中で休んで","I was on break this morning, resting.","Esta mañana he estado descansando."
-"__system__??","}","",""
-"narrator","いた","board","tablero"
-"narrator","さんが老衰にて お亡くなりになりました。","He passed away due to old age.","Falleció por vejez."
-"__system__??","}","",""
-"__system__??","{D19 = 702:","",""
-"narrator","今朝方、","Earlier this morning.","Esta misma mañana."
-"narrator","じいさんが… ひっく、ひっく…","My grandfather… Hiccup, hiccup…","El viejo… Hipo, hipo…"
-"Yamamoto Akuji (talking)","泣いてちゃわからん。 どうしたんだ。","I don't know if I'm crying. What's wrong?","No puedo decir si estás llorando. Lo que está mal."
-"Seinendan Jyoshi (talking)","死んじゃいました… えーん、いい人だったのに…","He died… eh, he was a good man…","Murió… eh, era un buen hombre…"
-"__system__??","}","",""
-"__system__??","{D19 = 701:","",""
-"Seinendan Jyoshi (talking)","地域ですが 酔っぱらいが暴れた事により治安が 悪化しております。
+Shimamoto Jun (talking),行方不明の岳画殺ですが…… いまだ消息が不明です。,The missing Takega Satsu… his whereabouts are still unknown.,La desaparecida Takega Satsu… aún se desconoce su paradero.
+Shimamoto Jun (talking),若、ウィミィに対してですが……,"Young, for Wime but ……","Joven, contra Wime pero ……"
+Yamamoto Akuji (talking),ああ、準備はしておいてくれ。,"Yeah, be prepared.","Sí, prepárate para eso."
+Shimamoto Jun (talking),わかりました。 いつでもいけるようにしておきます。,I understand. I will be ready to go anytime.,Entendido. Estaré listo para ir en cualquier momento.
+Shimamoto Jun (talking),我らが管理地域にて女子学生達が 独立を目指して決起しました。 早いうちに潰しておくべきと思います。,"In our administrative area, a group of female students have decided to become independent. I think we should crush them as soon as possible.","En nuestras áreas administrativas, las alumnas han decidido independizarse. Creo que debemos aplastarlos a la primera oportunidad."
+Shimamoto Jun (talking),我らが管理地域にて主婦達が 独立を目指して決起しました。 早いうちに潰しておくべきと思います。,"In the area we manage, a group of housewives have decided to go independent. I think we should crush them before they do anything else.","En nuestra área administrativa, las amas de casa han decidido independizarse. Creo que debemos aplastarlos a la primera oportunidad."
+Shimamoto Jun (talking),我らが管理地域で酔っぱらいが集団で 暴れています。 さっさと始末した方がよいかと。,Yopparai is rampaging in groups in our managed areas. I think it's better to get rid of it quickly.,Yopparai está arrasando grupos en nuestras áreas administradas. Creo que es mejor deshacerse de él rápidamente.
+__system__??,{D19 = 701:,,
+narrator,現状報告の為、島本純が現れた。,Shimamoto Jun appeared for a status report.,Shimamoto Jun se presentó para un informe de situación.
+__system__??,},,
+__system__??,{D19 = 702:,,
+narrator,現状報告の為、部下が現れた。,A subordinate showed up to report on the current situation.,Un subordinado apareció para informar sobre la situación actual.
+__system__??,},,
+__system__??,{D19 = 701:,,
+narrator,以上、情報の報告を終わります。,This concludes the information report.,Con esto concluye el informe.
+__system__??,},,
+__system__??,{D19 = 702:,,
+narrator,ほ、報告する事は… んと… ないです……た、多分…,"I have nothing to report… um… nothing……, maybe…","No tengo… um… nada que informar……, tal vez…"
+__system__??,},,
+__system__??,{D19 = 701:,,
+narrator,今朝方、,Earlier this morning.,Esta misma mañana.
+narrator,が 行方不明になりました。 組織を裏切ったと思われます。,Disappeared It is believed that he has betrayed the organization.,Desaparecido. Se cree que ha traicionado a la organización.
+__system__??,},,
+__system__??,{D19 = 702:,,
+narrator,今朝方、,Earlier this morning.,Esta misma mañana.
+narrator,が 行方不明になりました。 組織を裏切ったと思われます。,Disappeared. It is believed that he has betrayed the organization.,Desaparecido. Se cree que ha traicionado a la organización.
+__system__??,},,
+__system__??,{D19 = 701:,,
+__system__??,{B地域 \ 0:,,
+narrator,今朝方、,Earlier this morning.,Esta misma mañana.
+narrator,に配備されて,and deployed to,Desplegado en
+__system__??,},,
+__system__??,{B地域 = 0:,,
+narrator,今朝方、休憩中で休んで,"I was on break this morning, resting.",Esta mañana he estado descansando.
+__system__??,},,
+narrator,いた,board,tablero
+narrator,さんが老衰にて お亡くなりになりました。,He passed away due to old age.,Falleció por vejez.
+__system__??,},,
+__system__??,{D19 = 702:,,
+narrator,今朝方、,Earlier this morning.,Esta misma mañana.
+narrator,じいさんが… ひっく、ひっく…,"My grandfather… Hiccup, hiccup…","El viejo… Hipo, hipo…"
+Yamamoto Akuji (talking),泣いてちゃわからん。 どうしたんだ。,I don't know if I'm crying. What's wrong?,No puedo decir si estás llorando. Lo que está mal.
+Seinendan Jyoshi (talking),死んじゃいました… えーん、いい人だったのに…,"He died… eh, he was a good man…","Murió… eh, era un buen hombre…"
+__system__??,},,
+__system__??,{D19 = 701:,,
+Seinendan Jyoshi (talking),"地域ですが 酔っぱらいが暴れた事により治安が 悪化しております。
 なお、原因となった酔っぱらいですが、 数日前に路上で凍死体として発見されて おります。","The area has become unsafe due to the rampage of Yopparai.
 The cause, Yopparai, was found frozen to death on the street a few days ago.","La zona experimenta un deterioro de la seguridad debido a los desmanes de Yopparai.
 Los responsables de Yopparai fueron encontrados congelados en las calles hace unos días."
-"__system__??","}","",""
-"__system__??","{D19 = 702:","",""
-"Seinendan Jyoshi (talking)","地域ですが 酔っぱらいが暴れた事により治安が 悪化しております。
+__system__??,},,
+__system__??,{D19 = 702:,,
+Seinendan Jyoshi (talking),"地域ですが 酔っぱらいが暴れた事により治安が 悪化しております。
 なお、原因となった酔っぱらいですが、 数日前に路上で凍死体として発見されて おります。","The area has become unsafe due to the rampage of Yopparai.
 The cause, Yopparai, was found frozen to death on the street a few days ago.","La zona experimenta un deterioro de la seguridad debido a los desmanes de Yopparai.
 Los responsables de Yopparai fueron encontrados congelados en las calles hace unos días."
-"__system__??","}","",""
-"__system__??","{D19 = 701:","",""
-"Seinendan Jyoshi (talking)","地域ですが","Region.","Región."
-"__system__??","{☆生物／事件 = 1:","",""
-"Seinendan Jyoshi (talking)","ネズミの大襲撃により","Due to a major rat attack","Debido a un gran ataque de ratas."
-"__system__??","}","",""
-"__system__??","{☆生物／事件 = 2:","",""
-"Seinendan Jyoshi (talking)","野良犬の大暴走により","Due to a wild dog stampede","Debido a una estampida de perros callejeros."
-"__system__??","}","",""
-"__system__??","{☆生物／事件 = 3:","",""
-"Seinendan Jyoshi (talking)","猿のお祭り（住民大迷惑）により","By monkey festivals (a big nuisance to residents)","Por los festivales de monos (una gran molestia para los residentes)."
-"__system__??","}","",""
-"__system__??","{☆生物／事件 = 4:","",""
-"Seinendan Jyoshi (talking)","ダチョウの来襲により","Due to the arrival of ostriches","Debido a la llegada de avestruces."
-"__system__??","}","",""
-"Seinendan Jyoshi (talking)","治安が著しく悪化しております。
+__system__??,},,
+__system__??,{D19 = 701:,,
+Seinendan Jyoshi (talking),地域ですが,Region.,Región.
+__system__??,{☆生物／事件 = 1:,,
+Seinendan Jyoshi (talking),ネズミの大襲撃により,Due to a major rat attack,Debido a un gran ataque de ratas.
+__system__??,},,
+__system__??,{☆生物／事件 = 2:,,
+Seinendan Jyoshi (talking),野良犬の大暴走により,Due to a wild dog stampede,Debido a una estampida de perros callejeros.
+__system__??,},,
+__system__??,{☆生物／事件 = 3:,,
+Seinendan Jyoshi (talking),猿のお祭り（住民大迷惑）により,By monkey festivals (a big nuisance to residents),Por los festivales de monos (una gran molestia para los residentes).
+__system__??,},,
+__system__??,{☆生物／事件 = 4:,,
+Seinendan Jyoshi (talking),ダチョウの来襲により,Due to the arrival of ostriches,Debido a la llegada de avestruces.
+__system__??,},,
+Seinendan Jyoshi (talking),"治安が著しく悪化しております。
 なお、現在はその存在が確認されておらず どこかに逃げ去ったものと思われます。","The security situation has deteriorated significantly.
 It is believed to have fled to somewhere else.","La situación de seguridad se ha deteriorado considerablemente.
 Se cree que ha huido a algún lugar donde ya no se sabe si existe."
-"__system__??","}","",""
-"__system__??","{D19 = 702:","",""
-"Seinendan Jyoshi (talking)","地域ですが","Region.","Región."
-"__system__??","{☆生物／事件 = 1:","",""
-"Seinendan Jyoshi (talking)","ネズミの大襲撃により","Due to a major rat attack","Debido a un gran ataque de ratas."
-"__system__??","}","",""
-"__system__??","{☆生物／事件 = 2:","",""
-"Seinendan Jyoshi (talking)","野良犬の大暴走により","Due to a wild dog stampede","Debido a una estampida de perros callejeros."
-"__system__??","}","",""
-"__system__??","{☆生物／事件 = 3:","",""
-"Seinendan Jyoshi (talking)","猿のお祭りにより","By the Monkey Festival","Por la Fiesta del Mono"
-"__system__??","}","",""
-"__system__??","{☆生物／事件 = 4:","",""
-"Seinendan Jyoshi (talking)","ダチョウの来襲により","Due to the arrival of ostriches","Debido a la llegada de avestruces."
-"__system__??","}","",""
-"Seinendan Jyoshi (talking)","治安が著しく悪化しております。
+__system__??,},,
+__system__??,{D19 = 702:,,
+Seinendan Jyoshi (talking),地域ですが,Region.,Región.
+__system__??,{☆生物／事件 = 1:,,
+Seinendan Jyoshi (talking),ネズミの大襲撃により,Due to a major rat attack,Debido a un gran ataque de ratas.
+__system__??,},,
+__system__??,{☆生物／事件 = 2:,,
+Seinendan Jyoshi (talking),野良犬の大暴走により,Due to a wild dog stampede,Debido a una estampida de perros callejeros.
+__system__??,},,
+__system__??,{☆生物／事件 = 3:,,
+Seinendan Jyoshi (talking),猿のお祭りにより,By the Monkey Festival,Por la Fiesta del Mono
+__system__??,},,
+__system__??,{☆生物／事件 = 4:,,
+Seinendan Jyoshi (talking),ダチョウの来襲により,Due to the arrival of ostriches,Debido a la llegada de avestruces.
+__system__??,},,
+Seinendan Jyoshi (talking),"治安が著しく悪化しております。
 なお、現在はその存在が確認されておらず どこかに逃げ去ったものと思われます。","The security situation has deteriorated significantly.
 It is believed to have fled to somewhere else.","La situación de seguridad se ha deteriorado considerablemente.
 Se cree que ha huido a algún lugar donde ya no se sabe si existe."
-"__system__??","}","",""
-"Seinendan Jyoshi (talking)","地域において 暴動が起こっています。","Riots are taking place in the region.","Se están produciendo disturbios en la región."
-"__system__??","{P3フラグ = 1:","",""
-"Seinendan Jyoshi (talking)","売春宿","brothel","burdel"
-"__system__??","}","",""
-"__system__??","{P3フラグ = 2:","",""
-"Seinendan Jyoshi (talking)","たこ焼き屋","takoyaki shop","tienda de takoyaki"
-"__system__??","}","",""
-"__system__??","{P3フラグ = 3:","",""
-"Seinendan Jyoshi (talking)","無人金貸し機","ATM","ATM"
-"__system__??","}","",""
-"__system__??","{P3フラグ = 4:","",""
-"Seinendan Jyoshi (talking)","怪しい電波塔","Suspicious Denpa tower","Sospechosa torre de Denpa"
-"__system__??","}","",""
-"__system__??","{P3フラグ = 5:","",""
-"Seinendan Jyoshi (talking)","前線基地","forward-deployed base","base de despliegue avanzado"
-"__system__??","}","",""
-"__system__??","{P3フラグ = 6:","",""
-"Seinendan Jyoshi (talking)","選挙ポスター","campaign poster","cartel de la campaña"
-"__system__??","}","",""
-"__system__??","{P3フラグ = 7:","",""
-"Seinendan Jyoshi (talking)","防犯かかし","scarecrow","espantapájaros"
-"__system__??","}","",""
-"__system__??","{P3フラグ = 8:","",""
-"Seinendan Jyoshi (talking)","調教の館","Training Hall","sala de formación"
-"__system__??","}","",""
-"__system__??","{P3フラグ = 9:","",""
-"Seinendan Jyoshi (talking)","ＧＡＬバーガー","GAL Burger","GAL Burger."
-"__system__??","}","",""
-"__system__??","{P3フラグ = 10:","",""
-"Seinendan Jyoshi (talking)","原子炉","nuclear reactor","reactor nuclear"
-"__system__??","}","",""
-"__system__??","{P3フラグ = 11:","",""
-"Seinendan Jyoshi (talking)","保養所","rest home","casa de reposo"
-"__system__??","}","",""
-"Seinendan Jyoshi (talking)","が、破壊されました。","was destroyed.","fueron destruidos."
-"__system__??","{P3フラグ = 10:","",""
-"Yamamoto Akuji (talking)","原子炉だって……平気なのか？","Even nuclear reactors are…… fine?","¿Incluso los reactores nucleares están…… bien?"
-"Seinendan Jyoshi (talking)","駄目ですね、おしまいです。
+__system__??,},,
+Seinendan Jyoshi (talking),地域において 暴動が起こっています。,Riots are taking place in the region.,Se están produciendo disturbios en la región.
+__system__??,{P3フラグ = 1:,,
+Seinendan Jyoshi (talking),売春宿,brothel,burdel
+__system__??,},,
+__system__??,{P3フラグ = 2:,,
+Seinendan Jyoshi (talking),たこ焼き屋,takoyaki shop,tienda de takoyaki
+__system__??,},,
+__system__??,{P3フラグ = 3:,,
+Seinendan Jyoshi (talking),無人金貸し機,ATM,ATM
+__system__??,},,
+__system__??,{P3フラグ = 4:,,
+Seinendan Jyoshi (talking),怪しい電波塔,Suspicious Denpa tower,Sospechosa torre de Denpa
+__system__??,},,
+__system__??,{P3フラグ = 5:,,
+Seinendan Jyoshi (talking),前線基地,forward-deployed base,base de despliegue avanzado
+__system__??,},,
+__system__??,{P3フラグ = 6:,,
+Seinendan Jyoshi (talking),選挙ポスター,campaign poster,cartel de la campaña
+__system__??,},,
+__system__??,{P3フラグ = 7:,,
+Seinendan Jyoshi (talking),防犯かかし,scarecrow,espantapájaros
+__system__??,},,
+__system__??,{P3フラグ = 8:,,
+Seinendan Jyoshi (talking),調教の館,Training Hall,sala de formación
+__system__??,},,
+__system__??,{P3フラグ = 9:,,
+Seinendan Jyoshi (talking),ＧＡＬバーガー,GAL Burger,GAL Burger.
+__system__??,},,
+__system__??,{P3フラグ = 10:,,
+Seinendan Jyoshi (talking),原子炉,nuclear reactor,reactor nuclear
+__system__??,},,
+__system__??,{P3フラグ = 11:,,
+Seinendan Jyoshi (talking),保養所,rest home,casa de reposo
+__system__??,},,
+Seinendan Jyoshi (talking),が、破壊されました。,was destroyed.,fueron destruidos.
+__system__??,{P3フラグ = 10:,,
+Yamamoto Akuji (talking),原子炉だって……平気なのか？,Even nuclear reactors are…… fine?,¿Incluso los reactores nucleares están…… bien?
+Seinendan Jyoshi (talking),"駄目ですね、おしまいです。
 残念です。","It's not good enough. It's the end.
 It's a shame.","No es bueno, es el fin.
 La vergüenza."
-"__system__??","}","",""
-"__system__??","{D19 = 701:","",""
-"Seinendan Jyoshi (talking)","地域において","in the region","en la región"
-"__system__??","{R治安レベル = 1:","",""
-"Seinendan Jyoshi (talking)","治安が少し悪くなりつつあります。","The security situation is becoming a bit worse.","La situación de seguridad está empeorando un poco."
-"__system__??","}","",""
-"__system__??","{R治安レベル = 2:","",""
-"Seinendan Jyoshi (talking)","治安が悪化し始めております。","The security is beginning to deteriorate.","La seguridad está comenzando a deteriorarse."
-"__system__??","}","",""
-"__system__??","{R治安レベル = 3:","",""
-"Seinendan Jyoshi (talking)","著しく治安が悪化しています。","There has been a marked deterioration in security.","Hay un marcado deterioro de la seguridad."
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{D19 = 702:","",""
-"Seinendan Jyoshi (talking)","地域において","in the region","en la región"
-"__system__??","{R治安レベル = 1:","",""
-"Seinendan Jyoshi (talking)","治安が少し悪くなりつつあります。","The security situation is becoming a bit worse.","La situación de seguridad está empeorando un poco."
-"__system__??","}","",""
-"__system__??","{R治安レベル = 2:","",""
-"Seinendan Jyoshi (talking)","治安が悪化し始めております。","The security is beginning to deteriorate.","La seguridad está comenzando a deteriorarse."
-"__system__??","}","",""
-"__system__??","{R治安レベル = 3:","",""
-"Seinendan Jyoshi (talking)","著しく治安が悪化しています。","There has been a marked deterioration in security.","Hay un marcado deterioro de la seguridad."
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{D19 = 701:","",""
-"Seinendan Jyoshi (talking)","地域において 酔っぱらいが発生しています。 地域住民より退治依頼が来ています。","There is an outbreak of Yopparai in the area. Local residents have requested that we exterminate it.","Hay un brote de Yopparai en la zona. Se han recibido solicitudes de exterminio por parte de los residentes locales."
-"__system__??","}","",""
-"__system__??","{D19 = 702:","",""
-"Seinendan Jyoshi (talking)","酔っぱらいが発生しています。 地域住民より退治依頼が来ています。","There is an outbreak of Yopparai. Local residents have requested that we exterminate it.","Yopparai está ocurriendo. Se han recibido solicitudes de exterminio por parte de los residentes locales."
-"__system__??","}","",""
-"__system__??","{D19 = 701:","",""
-"Seinendan Jyoshi (talking)","地域において ネズミの集団が発生しました。 大混乱が起こっています。","There is a rat infestation in the area. All hell has broken loose.","Se ha producido una infestación de ratas en la zona. Se están haciendo estragos."
-"__system__??","}","",""
-"__system__??","{D19 = 702:","",""
-"Seinendan Jyoshi (talking)","どこかでネズミの集団が 発生したそうです。","Somewhere, a group of rats has been reported.","Ha habido un brote de ratas en alguna parte."
-"__system__??","}","",""
-"__system__??","{D19 = 701:","",""
-"Seinendan Jyoshi (talking)","地域において 野良犬が暴れ回っています。 住民より苦情が来ています。","A stray dog is running amok in the area. We have received complaints from residents.","Los perros callejeros andan sueltos por la zona. Los residentes se han quejado."
-"__system__??","}","",""
-"__system__??","{D19 = 702:","",""
-"Seinendan Jyoshi (talking)","どこかで野良犬が発生したそうです。","There was an outbreak of stray dogs somewhere.","Ha habido un brote de perros callejeros en algún lugar."
-"__system__??","}","",""
-"__system__??","{D19 = 701:","",""
-"Seinendan Jyoshi (talking)","地域において 猿が集団発生しています。 住民にかなりの被害が出ています。","There is an outbreak of monkeys in the area. The residents have suffered considerable damage.","Hay una infestación de monos en la zona. Se han causado daños considerables a los habitantes."
-"__system__??","}","",""
-"__system__??","{D19 = 702:","",""
-"Seinendan Jyoshi (talking)","どこかで猿が発生したそうです。","Somewhere there was an outbreak of monkeys.","Hubo un brote de monos en alguna parte."
-"__system__??","}","",""
-"__system__??","{D19 = 701:","",""
-"Seinendan Jyoshi (talking)","地域において ダチョウが発生しています。
+__system__??,},,
+__system__??,{D19 = 701:,,
+Seinendan Jyoshi (talking),地域において,in the region,en la región
+__system__??,{R治安レベル = 1:,,
+Seinendan Jyoshi (talking),治安が少し悪くなりつつあります。,The security situation is becoming a bit worse.,La situación de seguridad está empeorando un poco.
+__system__??,},,
+__system__??,{R治安レベル = 2:,,
+Seinendan Jyoshi (talking),治安が悪化し始めております。,The security is beginning to deteriorate.,La seguridad está comenzando a deteriorarse.
+__system__??,},,
+__system__??,{R治安レベル = 3:,,
+Seinendan Jyoshi (talking),著しく治安が悪化しています。,There has been a marked deterioration in security.,Hay un marcado deterioro de la seguridad.
+__system__??,},,
+__system__??,},,
+__system__??,{D19 = 702:,,
+Seinendan Jyoshi (talking),地域において,in the region,en la región
+__system__??,{R治安レベル = 1:,,
+Seinendan Jyoshi (talking),治安が少し悪くなりつつあります。,The security situation is becoming a bit worse.,La situación de seguridad está empeorando un poco.
+__system__??,},,
+__system__??,{R治安レベル = 2:,,
+Seinendan Jyoshi (talking),治安が悪化し始めております。,The security is beginning to deteriorate.,La seguridad está comenzando a deteriorarse.
+__system__??,},,
+__system__??,{R治安レベル = 3:,,
+Seinendan Jyoshi (talking),著しく治安が悪化しています。,There has been a marked deterioration in security.,Hay un marcado deterioro de la seguridad.
+__system__??,},,
+__system__??,},,
+__system__??,{D19 = 701:,,
+Seinendan Jyoshi (talking),地域において 酔っぱらいが発生しています。 地域住民より退治依頼が来ています。,There is an outbreak of Yopparai in the area. Local residents have requested that we exterminate it.,Hay un brote de Yopparai en la zona. Se han recibido solicitudes de exterminio por parte de los residentes locales.
+__system__??,},,
+__system__??,{D19 = 702:,,
+Seinendan Jyoshi (talking),酔っぱらいが発生しています。 地域住民より退治依頼が来ています。,There is an outbreak of Yopparai. Local residents have requested that we exterminate it.,Yopparai está ocurriendo. Se han recibido solicitudes de exterminio por parte de los residentes locales.
+__system__??,},,
+__system__??,{D19 = 701:,,
+Seinendan Jyoshi (talking),地域において ネズミの集団が発生しました。 大混乱が起こっています。,There is a rat infestation in the area. All hell has broken loose.,Se ha producido una infestación de ratas en la zona. Se están haciendo estragos.
+__system__??,},,
+__system__??,{D19 = 702:,,
+Seinendan Jyoshi (talking),どこかでネズミの集団が 発生したそうです。,"Somewhere, a group of rats has been reported.",Ha habido un brote de ratas en alguna parte.
+__system__??,},,
+__system__??,{D19 = 701:,,
+Seinendan Jyoshi (talking),地域において 野良犬が暴れ回っています。 住民より苦情が来ています。,A stray dog is running amok in the area. We have received complaints from residents.,Los perros callejeros andan sueltos por la zona. Los residentes se han quejado.
+__system__??,},,
+__system__??,{D19 = 702:,,
+Seinendan Jyoshi (talking),どこかで野良犬が発生したそうです。,There was an outbreak of stray dogs somewhere.,Ha habido un brote de perros callejeros en algún lugar.
+__system__??,},,
+__system__??,{D19 = 701:,,
+Seinendan Jyoshi (talking),地域において 猿が集団発生しています。 住民にかなりの被害が出ています。,There is an outbreak of monkeys in the area. The residents have suffered considerable damage.,Hay una infestación de monos en la zona. Se han causado daños considerables a los habitantes.
+__system__??,},,
+__system__??,{D19 = 702:,,
+Seinendan Jyoshi (talking),どこかで猿が発生したそうです。,Somewhere there was an outbreak of monkeys.,Hubo un brote de monos en alguna parte.
+__system__??,},,
+__system__??,{D19 = 701:,,
+Seinendan Jyoshi (talking),"地域において ダチョウが発生しています。
 ダチョウを倒す者は、強くなると言われて おります。
 この幸運を得る為にも、すぐさま 退治すべきと思います。","Ostriches are being seen in the region.
 It is said that whoever defeats an ostrich becomes stronger.
 I think we should kill the ostriches immediately in order to obtain this good fortune.","Los avestruces están presentes en la región.
 Se dice que quien mata a un avestruz se hace más fuerte.
 Deberíamos exterminar a las avestruces inmediatamente para conseguir esta buena suerte."
-"__system__??","}","",""
-"__system__??","{D19 = 702:","",""
-"Seinendan Jyoshi (talking)","どこかでダチョウが発生したそうです。","There was an ostrich outbreak somewhere.","Ha habido un brote de avestruces en alguna parte."
-"__system__??","}","",""
-"__system__??","{D19 = 701:","",""
-"Seinendan Jyoshi (talking)","地域において ウィミィ兵士が市民に暴行を くわえています。
+__system__??,},,
+__system__??,{D19 = 702:,,
+Seinendan Jyoshi (talking),どこかでダチョウが発生したそうです。,There was an ostrich outbreak somewhere.,Ha habido un brote de avestruces en alguna parte.
+__system__??,},,
+__system__??,{D19 = 701:,,
+Seinendan Jyoshi (talking),"地域において ウィミィ兵士が市民に暴行を くわえています。
 なんらかの仲裁が必要です。","Wime soldiers are assaulting civilians in the area.
 Some kind of mediation is needed.","Los soldados de Wime están asaltando a los civiles de la zona.
 Se requiere algún tipo de mediación."
-"__system__??","}","",""
-"__system__??","{D19 = 702:","",""
-"Seinendan Jyoshi (talking)","ウィミィ兵士が乱暴をふるっております。","Wime soldiers are being violent.","Los soldados de la guerra están siendo violentos."
-"__system__??","}","",""
-"__system__??","{D19 = 701:","",""
-"Seinendan Jyoshi (talking)","地域において ウィミィ女性士官がもめ事を起こして おります。
+__system__??,},,
+__system__??,{D19 = 702:,,
+Seinendan Jyoshi (talking),ウィミィ兵士が乱暴をふるっております。,Wime soldiers are being violent.,Los soldados de la guerra están siendo violentos.
+__system__??,},,
+__system__??,{D19 = 701:,,
+Seinendan Jyoshi (talking),"地域において ウィミィ女性士官がもめ事を起こして おります。
 なんらかの仲裁が必要です。","A Wime female officer is causing a dispute in the area.
 Some kind of arbitration is needed.","Hay una disputa en la región entre las oficiales de Wime.
 Se requiere algún tipo de mediación."
-"__system__??","}","",""
-"__system__??","{D19 = 702:","",""
-"Seinendan Jyoshi (talking)","ウィミィ女性士官がもめ事を 起こしています。","Wime female officers are causing trouble.","Wime oficiales femeninas están provocando una pelea."
-"__system__??","}","",""
-"__system__??","{D19 = 701:","",""
-"Seinendan Jyoshi (talking)","地域において 不審なウィミィ兵士が目撃されています。 彼らの目的は、婦女子と思われます。","Suspicious Wime soldiers have been spotted in the area. Their purpose appears to be women and girls.","Se han visto soldados sospechosos de Wime en la zona. Se cree que su objetivo son las mujeres y las niñas."
-"__system__??","}","",""
-"__system__??","{D19 = 702:","",""
-"Seinendan Jyoshi (talking)","性的犯罪者っぽいウィミィ人が 目撃されています。","A sex offender-like Wime person has been sighted.","Se han avistado personas con aspecto de delincuentes sexuales."
-"__system__??","}","",""
-"__system__??","{D19 = 701:","",""
-"Seinendan Jyoshi (talking)","監督官の鴉葉から手紙を預かって おります。","I have a letter from the supervisor Karasuba.","Tengo una carta del supervisor, Karasuba."
-"__system__??","}","",""
-"__system__??","{D19 = 702:","",""
-"Seinendan Jyoshi (talking)","監督官の鴉葉様からお手紙を預かって います。","I have a letter from Mr. Karasuba, Supervisor.","Tengo una carta del Sr. Karasuba, Supervisor."
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","鴉葉から……一体、なんだ？","From Karasuba to…… what the heck?","De Karasuba a…… ¿Qué demonios?"
-"narrator","　　背景　悪司さん江。 　　お元気ですか？ 　　僕もお元気でーす。
+__system__??,},,
+__system__??,{D19 = 702:,,
+Seinendan Jyoshi (talking),ウィミィ女性士官がもめ事を 起こしています。,Wime female officers are causing trouble.,Wime oficiales femeninas están provocando una pelea.
+__system__??,},,
+__system__??,{D19 = 701:,,
+Seinendan Jyoshi (talking),地域において 不審なウィミィ兵士が目撃されています。 彼らの目的は、婦女子と思われます。,Suspicious Wime soldiers have been spotted in the area. Their purpose appears to be women and girls.,Se han visto soldados sospechosos de Wime en la zona. Se cree que su objetivo son las mujeres y las niñas.
+__system__??,},,
+__system__??,{D19 = 702:,,
+Seinendan Jyoshi (talking),性的犯罪者っぽいウィミィ人が 目撃されています。,A sex offender-like Wime person has been sighted.,Se han avistado personas con aspecto de delincuentes sexuales.
+__system__??,},,
+__system__??,{D19 = 701:,,
+Seinendan Jyoshi (talking),監督官の鴉葉から手紙を預かって おります。,I have a letter from the supervisor Karasuba.,"Tengo una carta del supervisor, Karasuba."
+__system__??,},,
+__system__??,{D19 = 702:,,
+Seinendan Jyoshi (talking),監督官の鴉葉様からお手紙を預かって います。,"I have a letter from Mr. Karasuba, Supervisor.","Tengo una carta del Sr. Karasuba, Supervisor."
+__system__??,},,
+Yamamoto Akuji (talking),鴉葉から……一体、なんだ？,From Karasuba to…… what the heck?,De Karasuba a…… ¿Qué demonios?
+narrator,"　　背景　悪司さん江。 　　お元気ですか？ 　　僕もお元気でーす。
  　　最近、奉仕青年団が起こす喧嘩が 　　多いです。
  　　怪我人とか、公共施設の破壊とか、 　　問題が起こっています。
  　　だもんで、職員の口止めに 　　５００万ほど必要です。 　　１ヶ月以内に持ってきて下さい。
@@ -740,7 +740,7 @@ Se requiere algún tipo de mediación."
  　　Ha habido problemas de lesiones, destrucción de instalaciones públicas, etc.
  　　Por eso necesito unos 5 millones para detenerlos. 　　Por favor, tráigamelo en el plazo de un mes.
  　　No me importa si no tienes el dinero y no puedes quedarte callado. 　　Adiós."
-"narrator","　　でんじゃー悪司さん江。
+narrator,"　　でんじゃー悪司さん江。
  　　死者が多すぎですよ~、 　　ぴんちですよ~。
  　　担当の職員に適当な理由をつけて 　　書類を作ってもらってますが、 　　そろそろ限界です。
  　　職員の口止めに５００万ほど必要です。 　　１ヶ月以内に持ってきて下さい。
@@ -753,7 +753,7 @@ Se requiere algún tipo de mediación."
  　　He conseguido que el funcionario encargado redacte la documentación por un motivo adecuado, pero estoy casi al límite.
  　　Necesito unos 5 millones para mantener al personal tranquilo. 　　Por favor, tráigamelo en el plazo de un mes.
  　　No me importa si no puedes quedarte callado porque no tienes dinero."
-"narrator","　　でぃあ　あっくじさーん江。
+narrator,"　　でぃあ　あっくじさーん江。
  　　新しい組織になって順調だと思いますが、 　　市議会の内部では不満に思う人も 　　多いんですよ。
  　　中には、奉仕青年団なんか免許を 　　認めずに潰してしまえーとか。
  　　まぁ、そういう人達も金と僕の人望で 　　押さえますんで、口止め料として 　　１０００万ほど持ってきて下さい。
@@ -766,7 +766,7 @@ Se requiere algún tipo de mediación."
  　　Algunos de ellos dicen que el Cuerpo de Servicio de la Juventud no debería tener licencia y debería ser destruido.
  　　Bueno, yo retendré a esa gente con dinero y mi popularidad, así que por favor, tráeme unos 10 millones como dinero para callar.
  　　Oh, te pediré que lo hagas dentro de un mes."
-"narrator","　　ろべりー　悪司さん江。
+narrator,"　　ろべりー　悪司さん江。
  　　預かっていた口止め料ですが、 　　そろそろ足りなくなって 　　きました。またお願いします。
  　　出来たら、もう少し人目のないとこで 　　喧嘩したり、器物破損したりとか 　　して欲しいです。
  　　後、人殺しを減らしてくれたら 　　助かるんですが無理ですよねー、うん。
@@ -779,8 +779,8 @@ Se requiere algún tipo de mediación."
  　　Si es posible, me gustaría que pelearas un poco más en lugares públicos, que dañaras la propiedad, etc.
  　　Ayudaría que se redujera el número de personas que Satsuan, pero eso es imposible, sí.
  　　Así que mantendré la boca cerrada con el dinero. 　　10 millones, en un mes, por favor."
-"Seinendan Jyoshi (talking)","監督官の鴉葉氏には今週中にでも会いに 行くべきかと思います。口止め料を早く 渡しておいた方がよいです。","I think we should go see Mr. Karasuba, the supervisor, this week. It would be better to give him the hush money as soon as possible.","Creo que deberías ir a ver al supervisor, el señor Karasuba, esta semana. Deberías darle dinero por silencio lo antes posible."
-"narrator","　　ぼくのヒーロー悪司さん江。
+Seinendan Jyoshi (talking),監督官の鴉葉氏には今週中にでも会いに 行くべきかと思います。口止め料を早く 渡しておいた方がよいです。,"I think we should go see Mr. Karasuba, the supervisor, this week. It would be better to give him the hush money as soon as possible.","Creo que deberías ir a ver al supervisor, el señor Karasuba, esta semana. Deberías darle dinero por silencio lo antes posible."
+narrator,"　　ぼくのヒーロー悪司さん江。
  　　ヒノデで、戦時中に動物園からパンダを 　　盗み出して、森に立てこもっている 　　真田電波という女の子がいます。
  　　なんとか捕まえちゃって下さい。 　　殺すのは可哀想かなー（と個人的に）。
  　　という訳で、なんとかして下さいねー。 　　突き上げくらっちゃってライトに 　　困っちゃってまーす。","My hero Akuji San Jiang.
@@ -790,16 +790,16 @@ Se requiere algún tipo de mediación."
  　　Hay una chica llamada Sanada Denpa que robó un panda del zoo durante la guerra de Hinode y está refugiada en Mori.
  　　Por favor, haz algo para atraparla. 　　Lo siento por Satsu (personalmente).
  　　No sé si es una pena para Satsu (personalmente), así que por favor haz algo. 　　Tengo problemas con la luz porque me han empujado contra la pared."
-"narrator","　　悪司さん江。
+narrator,"　　悪司さん江。
  　　ヒノデの森で、友引操とその仲間達が 　　行方不明になっています。 　　みんな看護婦ですよー、ウハウハでしょ？
  　　なんとか探し出して保護して下さい。","Akuji, Jiang.
  　　Hinode's Mori, and Tomobiki Misao and her friends are missing. 　　They are all nurses - woo hoo, right?
  　　Please find them somehow and protect them.","Akuji, Jiang.
  　　Tomobiki Misao y sus amigos han desaparecido en el bosque Hinode. 　　Todas son enfermeras - woo hoo, ¿verdad?
  　　Por favor, hagan algo para encontrarlos y protegerlos."
-"__system__??","{D19 = 701:","",""
-"Seinendan Jyoshi (talking)","ヘグリの貴神氏より依頼が来ております。 泥棒の被害が出ているので至急来てほしい との事です。","We have a request from Mr. Kishin of Hegli. He wants you to come as soon as possible because there has been some damage by thieves.","Se ha recibido una solicitud del Sr. Kishin de Hegli. Dice que necesita que venga lo antes posible porque ha habido un robo."
-"__system__??","}","",""
-"__system__??","{D19 = 702:","",""
-"Seinendan Jyoshi (talking)","ヘグリの貴神氏より依頼が来ております。 泥棒の被害が出ているので至急来てほしい との事です。","We have a request from Mr. Kishin of Hegli. He wants you to come as soon as possible because there has been some damage by thieves.","Se ha recibido una solicitud del Sr. Kishin de Hegli. Dice que necesita que venga lo antes posible porque ha habido un robo."
-"__system__??","}","",""
+__system__??,{D19 = 701:,,
+Seinendan Jyoshi (talking),ヘグリの貴神氏より依頼が来ております。 泥棒の被害が出ているので至急来てほしい との事です。,We have a request from Mr. Kishin of Hegli. He wants you to come as soon as possible because there has been some damage by thieves.,Se ha recibido una solicitud del Sr. Kishin de Hegli. Dice que necesita que venga lo antes posible porque ha habido un robo.
+__system__??,},,
+__system__??,{D19 = 702:,,
+Seinendan Jyoshi (talking),ヘグリの貴神氏より依頼が来ております。 泥棒の被害が出ているので至急来てほしい との事です。,We have a request from Mr. Kishin of Hegli. He wants you to come as soon as possible because there has been some damage by thieves.,Se ha recibido una solicitud del Sr. Kishin de Hegli. Dice que necesita que venga lo antes posible porque ha habido un robo.
+__system__??,},,

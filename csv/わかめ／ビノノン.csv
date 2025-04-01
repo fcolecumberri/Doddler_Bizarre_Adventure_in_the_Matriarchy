@@ -1,29 +1,29 @@
-"character","jap text","Eng","Esp"
-"__system__??","{麦 = 1:","",""
-"__system__??","{☆ビノノン = 0:","",""
-"__system__??","}","",""
-"__system__??","{☆ビノノン = 1:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","……………","……………","……………"
-"binonon'ou (talking)","何か？","Yes?","¿Sí?"
-"Yamamoto Akuji (talking)","ござんすって言ってみな。","Say “Gozaimasu.","Di “Gozaimasu”."
-"binonon'ou (talking)","何故、そのような意味のない事を、 このヤマトの王たる私がせねばならぬ？","Why should I, the king of Yamato, do such a meaningless thing?","¿Por qué debería yo, el rey de Yamato, hacer algo tan insignificante?"
-"Yamamoto Akuji (talking)","………まだ、離れねーか…","……… still ain't off the hook…","……… Aún así, no te vayas…"
-"binonon'ou (talking)","何の事だ？","What are you talking about?","¿De qué estás hablando?"
-"Yamamoto Akuji (talking)","いや、こっちの話だ……","No, I'm talking about this one: ……","No, nos referimos a este: ……"
-"Yamamoto Akuji (thinking)","いー加減、この世界に飽きて、愛から 離れてると思ったんだが、 そーはいかねぇみてーだなー。","I thought I'd gotten tired of this world and moved away from love by now, but I guess that's not going to happen.","Pensaba que ya te habrías cansado de este mundo y habrías pasado del amor, pero supongo que eso no va a ocurrir."
-"binonon'ou (talking)","で、用向きは？ 特に何もないで呼び出したというならば、 私は見学に戻りたいのだが。","So, what's your business? If you call me up for nothing in particular, I'd like to go back to my visit.","Entonces, ¿cuál es tu cometido? Si me has llamado para nada en particular, me gustaría volver a visitarte."
-"Yamamoto Akuji (talking)","見学？","Visiting?","¿Visitas?"
-"binonon'ou (talking)","そうだ。 ヤマトの国がどれだけ変わったか、 この目で色々と見たいのだ。
+character,jap text,Eng,Esp
+__system__??,{麦 = 1:,,
+__system__??,{☆ビノノン = 0:,,
+__system__??,},,
+__system__??,{☆ビノノン = 1:,,
+__system__??,},,
+__system__??,},,
+Yamamoto Akuji (talking),……………,……………,……………
+binonon'ou (talking),何か？,Yes?,¿Sí?
+Yamamoto Akuji (talking),ござんすって言ってみな。,Say “Gozaimasu.,Di “Gozaimasu”.
+binonon'ou (talking),何故、そのような意味のない事を、 このヤマトの王たる私がせねばならぬ？,"Why should I, the king of Yamato, do such a meaningless thing?","¿Por qué debería yo, el rey de Yamato, hacer algo tan insignificante?"
+Yamamoto Akuji (talking),………まだ、離れねーか…,……… still ain't off the hook…,"……… Aún así, no te vayas…"
+binonon'ou (talking),何の事だ？,What are you talking about?,¿De qué estás hablando?
+Yamamoto Akuji (talking),いや、こっちの話だ……,"No, I'm talking about this one: ……","No, nos referimos a este: ……"
+Yamamoto Akuji (thinking),いー加減、この世界に飽きて、愛から 離れてると思ったんだが、 そーはいかねぇみてーだなー。,"I thought I'd gotten tired of this world and moved away from love by now, but I guess that's not going to happen.","Pensaba que ya te habrías cansado de este mundo y habrías pasado del amor, pero supongo que eso no va a ocurrir."
+binonon'ou (talking),で、用向きは？ 特に何もないで呼び出したというならば、 私は見学に戻りたいのだが。,"So, what's your business? If you call me up for nothing in particular, I'd like to go back to my visit.","Entonces, ¿cuál es tu cometido? Si me has llamado para nada en particular, me gustaría volver a visitarte."
+Yamamoto Akuji (talking),見学？,Visiting?,¿Visitas?
+binonon'ou (talking),"そうだ。 ヤマトの国がどれだけ変わったか、 この目で色々と見たいのだ。
 由緒正しき農耕民族であったのに、 鉄の固まりや、石と鉄の建物で 溢れかえっておる。
 便利になったのか、それとも、それ故の 束縛を受けているのか、理解出来ぬ。","That's right. I want to see with my own eyes how much the land of Yamato has changed.
 Once a venerable agricultural people, it is now filled with iron, stone, and steel buildings.
 I don't understand whether it is because we have become more convenient, or whether we have been constrained because of it.","Sí, quiero ver con mis propios ojos cuánto ha cambiado el país de Yamato. Quiero ver con mis propios ojos cuánto ha cambiado el país de Yamato.
 Antaño un venerable pueblo agrario, ahora está lleno de edificios de hierro, piedra y acero.
 No entiendo si nos hemos vuelto más cómodos o si, por lo tanto, estamos esclavizados."
-"Yamamoto Akuji (talking)","それが時代の流れってやつさ。","That's the way of the times.","Así son los tiempos, ya sabes."
-"binonon'ou (talking)","ふむ、理解しがたいが……
+Yamamoto Akuji (talking),それが時代の流れってやつさ。,That's the way of the times.,"Así son los tiempos, ya sabes."
+binonon'ou (talking),"ふむ、理解しがたいが……
 まあよい。 用がないのなら、私は行くぞ。
 今日はこれから、友達になった者と、 映画とかいうものを見学する事に なっておる。
 どっきんらぶらぶハートの ミロちゃんとかいう題名だ。 何なのか、まったく想像出来ぬ。","Hmm, hard to understand, but ……
@@ -33,62 +33,62 @@ It's called “Dokkin Raburabu Heart no Milo Chan” or something like that. I h
 Oh, bueno. Si no me necesitas, me voy.
 Hoy, voy a ver una película con un nuevo amigo mío.
 Se llama Dokkin Raburabu Heart no Milo Chan. No tengo ni idea de qué se trata."
-"Yamamoto Akuji (talking)","また、コアな友達だ……","Also, it's a core friend……","También, amigos del núcleo……"
-"binonon'ou (talking)","うむ、それでは。
+Yamamoto Akuji (talking),また、コアな友達だ……,"Also, it's a core friend……","También, amigos del núcleo……"
+binonon'ou (talking),"うむ、それでは。
 ああ、そうだ。 悪司よ、さっさとヤマトの国を 再建してくれ。
 でなければ、私がここにきた理由が なくなるでな。","Mm, then.
 Ah, yes. Akuji, quickly rebuild the land of Yamato.
 Otherwise, there will be no reason for me to be here.","Mm, entonces.
 Ah, sí. Akuji, reconstruye rápidamente la tierra de Yamato.
 De lo contrario, no habrá razón para que esté aquí."
-"narrator","愛の姿をしたビノノンは、一礼すると 悪司の前から立ち去った。","The Binonon in the form of love bowed and walked away from Akuji.","Binonon, en forma de amor, se inclinó y se alejó de Akuji."
-"Yamamoto Akuji (talking)","なんだかな~……","What is it - ……","Qué es - ……"
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"narrator","悪司が事務所に入ると、４、５人が 何かを囲んでじっと見つめている。","When Akuji entered the office, four or five people were staring around something.","Cuando Akuji entra en la oficina, cuatro o cinco personas están mirando algo."
-"Yamamoto Akuji (talking)","どーしたんだ？","What's going on?","¿Qué está pasando?"
-"Seinendan Jyoshi (talking)","あ、悪司さん、愛さんが……","Oh, Akuji and love ……","Oh, Akuji y el amor ……"
-"Yamamoto Akuji (talking)","なんだ、ビノノンが愛に戻ったのか？","What, Binonon is back to love?","¿Qué,  Binonon ha vuelto al amor?"
-"Seinendan Jyoshi (talking)","あ、そーか、ビノノンさんでしたね、 今は…
+narrator,愛の姿をしたビノノンは、一礼すると 悪司の前から立ち去った。,The Binonon in the form of love bowed and walked away from Akuji.,"Binonon, en forma de amor, se inclinó y se alejó de Akuji."
+Yamamoto Akuji (talking),なんだかな~……,What is it - ……,Qué es - ……
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+narrator,悪司が事務所に入ると、４、５人が 何かを囲んでじっと見つめている。,"When Akuji entered the office, four or five people were staring around something.","Cuando Akuji entra en la oficina, cuatro o cinco personas están mirando algo."
+Yamamoto Akuji (talking),どーしたんだ？,What's going on?,¿Qué está pasando?
+Seinendan Jyoshi (talking),あ、悪司さん、愛さんが……,"Oh, Akuji and love ……","Oh, Akuji y el amor ……"
+Yamamoto Akuji (talking),なんだ、ビノノンが愛に戻ったのか？,"What, Binonon is back to love?","¿Qué,  Binonon ha vuelto al amor?"
+Seinendan Jyoshi (talking),"あ、そーか、ビノノンさんでしたね、 今は…
 そ、そのビノノンさんが、 急に呪文を唱え出して…","Oh, well, you're Binonon, you're Tane, and now…
 Well, that Mr. Binonon suddenly started chanting a spell…","Oh, bueno, tú eres Binonon, tú eres Tane, y ahora…
 Bueno, ese señor Binonon de repente empezó a cantar un hechizo…"
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"binonon'ou (talking)","はにはにはにはにはに……","Ha ha ha ha ha ……","Ja, ja, ja, ……"
-"Yamamoto Akuji (talking)","何やってんだい、王さん？","What are you doing, Mr. Wang?","¿Qué está haciendo, Sr. Wang?"
-"binonon'ou (talking)","召喚呪文だ……","Summoning Spell……","Hechizo de invocación……"
-"Yamamoto Akuji (talking)","ショーカンってなんだかよくわかんねーん だけど、そろそろ、その躰を愛に返して やってくんねーか？","I don't know what a shokan is, but it's about time you gave your body back to love.","No sé lo que es un shawkan, pero ya es hora de que devuelvas tu cuerpo al amor, ¿no?"
-"binonon'ou (talking)","この躰の持ち主にか。","To the owner of this body?","¿Al dueño de este cuerpo?"
-"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
-"binonon'ou (talking)","それは出来ぬ。 すでに私の肉体は朽ち果てている。 我が魂がいるべき場所はここしかない。","I cannot do that. My body has already decayed. The only place for my soul is here.","No puedo hacerlo. Mi cuerpo ya ha decaído. Este es el único lugar donde debe estar mi alma."
-"Yamamoto Akuji (talking)","だからってな……","Just because……","Sólo porque sí……"
-"binonon'ou (talking)","それにこの娘の魂はもう消えた。","Besides, this girl's soul is already gone.","Además, el alma de esta chica se ha ido."
-"Yamamoto Akuji (talking)","何だって？","What?","¿Qué?"
-"binonon'ou (talking)","むっ……
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+binonon'ou (talking),はにはにはにはにはに……,Ha ha ha ha ha ……,"Ja, ja, ja, ……"
+Yamamoto Akuji (talking),何やってんだい、王さん？,"What are you doing, Mr. Wang?","¿Qué está haciendo, Sr. Wang?"
+binonon'ou (talking),召喚呪文だ……,Summoning Spell……,Hechizo de invocación……
+Yamamoto Akuji (talking),ショーカンってなんだかよくわかんねーん だけど、そろそろ、その躰を愛に返して やってくんねーか？,"I don't know what a shokan is, but it's about time you gave your body back to love.","No sé lo que es un shawkan, pero ya es hora de que devuelvas tu cuerpo al amor, ¿no?"
+binonon'ou (talking),この躰の持ち主にか。,To the owner of this body?,¿Al dueño de este cuerpo?
+Yamamoto Akuji (talking),ああ。,Oh.,Oh.
+binonon'ou (talking),それは出来ぬ。 すでに私の肉体は朽ち果てている。 我が魂がいるべき場所はここしかない。,I cannot do that. My body has already decayed. The only place for my soul is here.,No puedo hacerlo. Mi cuerpo ya ha decaído. Este es el único lugar donde debe estar mi alma.
+Yamamoto Akuji (talking),だからってな……,Just because……,Sólo porque sí……
+binonon'ou (talking),それにこの娘の魂はもう消えた。,"Besides, this girl's soul is already gone.","Además, el alma de esta chica se ha ido."
+Yamamoto Akuji (talking),何だって？,What?,¿Qué?
+binonon'ou (talking),"むっ……
 邪魔するな……気が合った……
 はにはにはにはにはにはに… 降臨っっ！！","Much……
 Don't interrupt…… I'm in the mood ……
 Ha ha ha ha ha ha ha… descent!!!!","Mwah……
 No interrumpas…… estoy de humor ……
 Ja, ja, ja, ja… ¡descenso!"
-"Yamamoto Akuji (talking)","へっ……","Heh ……","Heh: ……"
-"narrator","　　［アイヤー！！］
+Yamamoto Akuji (talking),へっ……,Heh ……,Heh: ……
+narrator,"　　［アイヤー！！］
 なんと、何もない空間から ハニーが一匹現れた！","　　［Aiyah！！]
 Oh, my God, out of thin air, one Hanny emerged!","　　［¡¡Aiyah！！]
 ¡Oh, Dios mío, un Hanny acaba de aparecer de la nada!"
-"Yamamoto Akuji (talking)","なっ……","Huh ……","Huh ……"
-"binonon'ou (talking)","悪司よ、自由に使っていいぞ。 部下に加えておいてくれ。","Akuji, you're free to use it. Add me to your crew.","Akuji, eres libre de usarlo. Agrégame a tus hombres."
-"Yamamoto Akuji (talking)","………はあ……","……… is ah ……","……… es ah……"
-"binonon'ou (talking)","悪司よ、我がヤマトの国の再建は まだなのか？","Akuji, have you rebuilt our Yamato nation yet?","Akuji, ¿ya has reconstruido nuestra nación Yamato?"
-"Yamamoto Akuji (talking)","まんだまだ。 しばらくかかるぜ。","Not yet. It's going to be a while.","Todavía no. Va a pasar un tiempo."
-"binonon'ou (talking)","そうか………
+Yamamoto Akuji (talking),なっ……,Huh ……,Huh ……
+binonon'ou (talking),悪司よ、自由に使っていいぞ。 部下に加えておいてくれ。,"Akuji, you're free to use it. Add me to your crew.","Akuji, eres libre de usarlo. Agrégame a tus hombres."
+Yamamoto Akuji (talking),………はあ……,……… is ah ……,……… es ah……
+binonon'ou (talking),悪司よ、我がヤマトの国の再建は まだなのか？,"Akuji, have you rebuilt our Yamato nation yet?","Akuji, ¿ya has reconstruido nuestra nación Yamato?"
+Yamamoto Akuji (talking),まんだまだ。 しばらくかかるぜ。,Not yet. It's going to be a while.,Todavía no. Va a pasar un tiempo.
+binonon'ou (talking),"そうか………
 ………はに……","So………
 ………is to……","Así que………
 ………es a……"
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"binonon'ou (talking)","はにはにはにはに…… 降臨っっっ！！","hanihanihanihani…… descend!","hanihanihanihani…… ¡Desciende!"
-"narrator","　　［アイヤー！！］
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+binonon'ou (talking),はにはにはにはに…… 降臨っっっ！！,hanihanihanihani…… descend!,hanihanihanihani…… ¡Desciende!
+narrator,"　　［アイヤー！！］
 なんと、何もない空間から ハニーが一匹現れた！","　　［aiyaa！！］
 Oh, my God, out of thin air, one Hanny emerged!","　　［aiyaa！！］
 ¡Oh, Dios mío, un Hanny acaba de aparecer de la nada!"
-"binonon'ou (talking)","悪司よ、ハニーを部下に使うがいい。 そして早くヤマトの国を再建 するのだ。","Akuji, use Hanny as your subordinate. And quickly rebuild the land of Yamato.","Akuji, usa a Hanny como tu subordinado. Y reconstruir rápidamente el país Yamato."
-"Yamamoto Akuji (talking)","ヤマトの王である私と戦うというのか。 よかろう、かかってくるがよい。","Are you going to fight me, the king of Yamato? Very well, come and fight me.","¿Quieres luchar contra mí, el Rey de Yamato? Muy bien, ven y lucha conmigo."
+binonon'ou (talking),悪司よ、ハニーを部下に使うがいい。 そして早くヤマトの国を再建 するのだ。,"Akuji, use Hanny as your subordinate. And quickly rebuild the land of Yamato.","Akuji, usa a Hanny como tu subordinado. Y reconstruir rápidamente el país Yamato."
+Yamamoto Akuji (talking),ヤマトの王である私と戦うというのか。 よかろう、かかってくるがよい。,"Are you going to fight me, the king of Yamato? Very well, come and fight me.","¿Quieres luchar contra mí, el Rey de Yamato? Muy bien, ven y lucha conmigo."

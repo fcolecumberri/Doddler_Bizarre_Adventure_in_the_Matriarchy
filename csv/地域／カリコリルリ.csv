@@ -1,59 +1,59 @@
-"character","jap text","Eng","Esp"
-"__system__??","{麦 = 1:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 2:","",""
-"__system__??","{(B忠誠タイプ = 3) * (B忠誠心 > 70):","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 3:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 4:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 5:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 10:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 11:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 12:","",""
-"__system__??","{H愛欲 = 1:","",""
-"__system__??","}","",""
-"__system__??","{H愛欲 = 2:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 13:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 15:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 16:","",""
-"__system__??","}","",""
-"Carikoriluri (talking)","……あ・く・じ・さんっ。 どこですかー？","…… A-Ku-Ji-San. Where are you?","…… a-ku-ji-san. ¿Dónde estás?"
-"Yamamoto Akuji (talking)","おお、来るの早かったな。 もうちょい時間かかるかと思ってたが。","Wow, you got here fast. I thought it would take a little longer.","Oh, has venido rápido. Pensé que tardaría un poco más."
-"Carikoriluri (talking)","真っ直ぐ来ましたからね。 空飛んで。","It came straight to us. Flying.","He venido directamente aquí, ya sabes. Volando."
-"Yamamoto Akuji (talking)","………………………… まあ、別にいーけどな……","………………………… Well, I don't really care……","………………………… Bueno, no me importa……"
-"Yamamoto Akuji (talking)","んじゃ、カリコリルリ。 俺の部屋行くぞ~。","Okay, Carikoriluri. Let's go to my room!","Bueno, Carikoriluri. Vamos a mi habitación~."
-"Carikoriluri (talking)","ふふふっ……は~いっ。 今日は何回するんですか？","Hmmm……… haha. How many times are you going to do that today?","Hmmm……… jaja. ¿Cuántas veces vas a hacerlo hoy?"
-"Yamamoto Akuji (talking)","おめーが保つまで。","Until you keep it.","Hasta que te lo quedes."
-"Carikoriluri (talking)","……わあ、殺されちゃいそうっ……","……Wow, I'm going to be Satsu! ……","……Wow, voy a conseguir Satsued……"
-"Yamamoto Akuji (talking)","嬉しそうに言うねー。","You say that like you're happy.","Lo dices como si fueras feliz."
-"Carikoriluri (talking)","ふふ、上手に殺して下さいね……？","Hmm, please Satsu well ……?","Hmm, por favor Satsu bien ……?"
-"Yamamoto Akuji (talking)","おう、任せとけ。","Oh, leave it to me.","Oh, déjamelo a mí."
-"Yamamoto Akuji (talking)","カリコリルリは、悪司に抱かれた。","Carikoriluri was embraced by Akuji.","Carikoriluri fue abrazado por Akuji."
-"Yamamoto Akuji (talking)","んじゃ、カリコリルリ。 俺の…………","Well, Carikoriluri. My …………","Bueno, Carikoriluri. Mi …………"
-"narrator","部屋に行くぞ、と悪司は言いかけたが、 それより先にカリコリルリが歩み寄ってくる。
+character,jap text,Eng,Esp
+__system__??,{麦 = 1:,,
+__system__??,},,
+__system__??,{麦 = 2:,,
+__system__??,{(B忠誠タイプ = 3) * (B忠誠心 > 70):,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 3:,,
+__system__??,},,
+__system__??,{麦 = 4:,,
+__system__??,},,
+__system__??,{麦 = 5:,,
+__system__??,},,
+__system__??,{麦 = 10:,,
+__system__??,},,
+__system__??,{麦 = 11:,,
+__system__??,},,
+__system__??,{麦 = 12:,,
+__system__??,{H愛欲 = 1:,,
+__system__??,},,
+__system__??,{H愛欲 = 2:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 13:,,
+__system__??,},,
+__system__??,{麦 = 15:,,
+__system__??,},,
+__system__??,{麦 = 16:,,
+__system__??,},,
+Carikoriluri (talking),……あ・く・じ・さんっ。 どこですかー？,…… A-Ku-Ji-San. Where are you?,…… a-ku-ji-san. ¿Dónde estás?
+Yamamoto Akuji (talking),おお、来るの早かったな。 もうちょい時間かかるかと思ってたが。,"Wow, you got here fast. I thought it would take a little longer.","Oh, has venido rápido. Pensé que tardaría un poco más."
+Carikoriluri (talking),真っ直ぐ来ましたからね。 空飛んで。,It came straight to us. Flying.,"He venido directamente aquí, ya sabes. Volando."
+Yamamoto Akuji (talking),………………………… まあ、別にいーけどな……,"………………………… Well, I don't really care……","………………………… Bueno, no me importa……"
+Yamamoto Akuji (talking),んじゃ、カリコリルリ。 俺の部屋行くぞ~。,"Okay, Carikoriluri. Let's go to my room!","Bueno, Carikoriluri. Vamos a mi habitación~."
+Carikoriluri (talking),ふふふっ……は~いっ。 今日は何回するんですか？,Hmmm……… haha. How many times are you going to do that today?,Hmmm……… jaja. ¿Cuántas veces vas a hacerlo hoy?
+Yamamoto Akuji (talking),おめーが保つまで。,Until you keep it.,Hasta que te lo quedes.
+Carikoriluri (talking),……わあ、殺されちゃいそうっ……,"……Wow, I'm going to be Satsu! ……","……Wow, voy a conseguir Satsued……"
+Yamamoto Akuji (talking),嬉しそうに言うねー。,You say that like you're happy.,Lo dices como si fueras feliz.
+Carikoriluri (talking),ふふ、上手に殺して下さいね……？,"Hmm, please Satsu well ……?","Hmm, por favor Satsu bien ……?"
+Yamamoto Akuji (talking),おう、任せとけ。,"Oh, leave it to me.","Oh, déjamelo a mí."
+Yamamoto Akuji (talking),カリコリルリは、悪司に抱かれた。,Carikoriluri was embraced by Akuji.,Carikoriluri fue abrazado por Akuji.
+Yamamoto Akuji (talking),んじゃ、カリコリルリ。 俺の…………,"Well, Carikoriluri. My …………","Bueno, Carikoriluri. Mi …………"
+narrator,"部屋に行くぞ、と悪司は言いかけたが、 それより先にカリコリルリが歩み寄ってくる。
 そして──そっと、悪司に寄り添う。","Akuji was about to say, “Let's go to your room,” but before he could say anything, Carikoriluri walks up to him.
 And then, Carikoriluri gently leans close to Akuji.","Akuji está a punto de decir: “Vamos a tu habitación”, pero Carikoriluri se acerca a él antes de que pueda decirlo.
 Y entonces - - suavemente, se inclina cerca de Akuji."
-"Yamamoto Akuji (talking)","……どーかしたのか？","What's wrong with ……?","…… ¿Qué pasa?"
-"Carikoriluri (talking)","あの………ですね。…………………… 触ってみて……もらえませんか……？","That ……….…………………… Touch it… Could you… ……?","Que ……….…………………… ¿Puedes tocar… ¿Podrías… ……?"
-"Yamamoto Akuji (talking)","………………","………………","………………"
-"Carikoriluri (talking)","………………っ…………","………………っ……… …","………………っ……… …"
-"Yamamoto Akuji (talking)","……濡れてんな。 つーかもうびっしょり。","…… is wet. I'm soaking wet.","…… Estás empapado. Estoy empapado."
-"Carikoriluri (talking)","呼ばれて……ここに来る途中、 いっぱい、想像しちゃって……
+Yamamoto Akuji (talking),……どーかしたのか？,What's wrong with ……?,…… ¿Qué pasa?
+Carikoriluri (talking),あの………ですね。…………………… 触ってみて……もらえませんか……？,That ……….…………………… Touch it… Could you… ……?,Que ……….…………………… ¿Puedes tocar… ¿Podrías… ……?
+Yamamoto Akuji (talking),………………,………………,………………
+Carikoriluri (talking),………………っ…………,………………っ……… …,………………っ……… …
+Yamamoto Akuji (talking),……濡れてんな。 つーかもうびっしょり。,…… is wet. I'm soaking wet.,…… Estás empapado. Estoy empapado.
+Carikoriluri (talking),"呼ばれて……ここに来る途中、 いっぱい、想像しちゃって……
  …………あの、悪司さん……","I was called to…… and on the way here, I imagined a lot of things ……………… Um, Akuji ……","Me llamaron…… y en el camino me imaginé muchas cosas ……………… Um, Akuji ……"
-"Yamamoto Akuji (talking)","皆まで言うな。 行くぞ、ホレ。","Don't tell everyone. Let's go, here.","No se lo digas a todo el mundo. Vamos, Holle."
-"Carikoriluri (talking)","………………はいっ……！","……………… yes ……!","¡……………… sí ……!"
-"cg narrator","──二人が悪司の部屋に入って、すぐだった。 愛撫もキスも何もなかった。
+Yamamoto Akuji (talking),皆まで言うな。 行くぞ、ホレ。,"Don't tell everyone. Let's go, here.","No se lo digas a todo el mundo. Vamos, Holle."
+Carikoriluri (talking),………………はいっ……！,……………… yes ……!,¡……………… sí ……!
+cg narrator,"──二人が悪司の部屋に入って、すぐだった。 愛撫もキスも何もなかった。
 「……っあうっ！？ 　あ、悪司さ…………っア！！　ああやあっ！！」
 悪司が、カリコリルリをベッドに突き倒す。 突き倒して、下半身を覆うローブをまくり上げる。
 そして、女の柔肉が揺れる尻を鷲掴み、 ズボンを脱ぎ捨て、背後から即──
@@ -156,141 +156,141 @@ A diferencia de Carikoriluri, que intentaba desesperadamente mantener su respira
 「hiuu~……hiaaaaa~……ahaaa~！！ 　mo、mou……¡¡Yo, yo no puedo más~…………！！ 　¡No más…… No más……………… No más~…………！」
 「¡Es asombroso lo que sucede después cuando piensas que no es bueno! ¡Vamos, sube a la cima, Princesa…! !」
 「~a────────────！！！ 　fuyaaaaaaaaaaaaaaaa~！ 　fuayahaaan────────~！！！！！」"
-"Yamamoto Akuji (talking)","………………ぷはー。
+Yamamoto Akuji (talking),"………………ぷはー。
 うーん、女を征服した後の一服は たまらなく美味いねー。","………………puhah!
 Hmmm, a smoke after conquering a woman is irresistibly delicious.","………………puhah.
 Mmm, una fumada después de conquistar a una mujer es irresistiblemente deliciosa."
-"Carikoriluri (talking)","…………う……
+Carikoriluri (talking),"…………う……
  ………………あ……っ？","…………う……
  ………………あ……っ?","…………う……
  ………………あ……っ?"
-"Yamamoto Akuji (talking)","よ、起きたか？ どーだった、強引なヤツの感想は。","Hey, you awake? How did you feel about the pushy guy?","¿Estás despierto? ¿Cómo te sentiste con el tipo prepotente?"
-"Carikoriluri (talking)","……………… ……ひどい……ですっ……","…………………… is terrible ……","…………………… es terrible ……"
-"Yamamoto Akuji (talking)","その割に顔は嬉しそーだぞ？","But you look so happy, don't you?","Y sin embargo, te ves tan feliz, ¿no?"
-"Carikoriluri (talking)","ふふっ………… だって……凄かった、から……","Hmmm………… because…… was awesome, so ……","Hmmm………… porque…… era impresionante, porque ……"
-"Yamamoto Akuji (talking)","そーかそーか。","Oh, yeah.","Ah, sí."
-"Carikoriluri (talking)","あんなのも、時々は嬉しいから…… あの、時々だけ…………","Because sometimes I'm happy to see something like that…… You know, just sometimes…………","Porque a veces es bueno tener algo así…… Ya sabes, sólo a veces…………"
-"Yamamoto Akuji (talking)","いつもじゃダメなのか？","Why not always?","¿Por qué no siempre?"
-"Carikoriluri (talking)","いつもじゃ……私、保ちません…………","I don't always…… keep it …………","No siempre…… Yo, no lo guardaré…………"
-"Yamamoto Akuji (talking)","了解、覚えとくぜ。","Ryou solution, I'll keep that in mind.","Ryou solución, lo recordaré."
-"Carikoriluri (talking)","…………よ、かった…… お願い、しま………………
+Yamamoto Akuji (talking),よ、起きたか？ どーだった、強引なヤツの感想は。,"Hey, you awake? How did you feel about the pushy guy?",¿Estás despierto? ¿Cómo te sentiste con el tipo prepotente?
+Carikoriluri (talking),……………… ……ひどい……ですっ……,…………………… is terrible ……,…………………… es terrible ……
+Yamamoto Akuji (talking),その割に顔は嬉しそーだぞ？,"But you look so happy, don't you?","Y sin embargo, te ves tan feliz, ¿no?"
+Carikoriluri (talking),ふふっ………… だって……凄かった、から……,"Hmmm………… because…… was awesome, so ……","Hmmm………… porque…… era impresionante, porque ……"
+Yamamoto Akuji (talking),そーかそーか。,"Oh, yeah.","Ah, sí."
+Carikoriluri (talking),あんなのも、時々は嬉しいから…… あの、時々だけ…………,"Because sometimes I'm happy to see something like that…… You know, just sometimes…………","Porque a veces es bueno tener algo así…… Ya sabes, sólo a veces…………"
+Yamamoto Akuji (talking),いつもじゃダメなのか？,Why not always?,¿Por qué no siempre?
+Carikoriluri (talking),いつもじゃ……私、保ちません…………,I don't always…… keep it …………,"No siempre…… Yo, no lo guardaré…………"
+Yamamoto Akuji (talking),了解、覚えとくぜ。,"Ryou solution, I'll keep that in mind.","Ryou solución, lo recordaré."
+Carikoriluri (talking),"…………よ、かった…… お願い、しま………………
  ……………………
 すー…………すー…………","………… yo, katta…… please, shima……… ………
  ……………………
 Soo………… Soo …………","………… yo, katta…… por favor, shima……… ………
  ……………………
 Soo………… Soo …………"
-"Yamamoto Akuji (talking)","……安堵したら寝ちまったよ。 はー、おつかれさん。","I went to…… relief and fell asleep. Ha, good night.","…… Me quedé dormido cuando me aliviaron. Ja, buenas noches."
-"Yamamoto Akuji (talking)","よお、異世界のねーちゃん。","Hey there, otherworldly girl.","Yo, chica de otro mundo."
-"Carikoriluri (talking)","………………","………………","………………"
-"Yamamoto Akuji (talking)","名前、カリコリルリとか言ったっけ？ なんか舌噛みそうだが……
+Yamamoto Akuji (talking),……安堵したら寝ちまったよ。 はー、おつかれさん。,"I went to…… relief and fell asleep. Ha, good night.","…… Me quedé dormido cuando me aliviaron. Ja, buenas noches."
+Yamamoto Akuji (talking),よお、異世界のねーちゃん。,"Hey there, otherworldly girl.","Yo, chica de otro mundo."
+Carikoriluri (talking),………………,………………,………………
+Yamamoto Akuji (talking),"名前、カリコリルリとか言ったっけ？ なんか舌噛みそうだが……
  ……ほれ、もうちょいリラックスしろ。 そんなに躰固くすんなって。","Did I say my name, Carikoriluri? I feel like I'm going to bite my tongue……
  ……Here, relax a little more. Don't be so hard on your body.","¿Has dicho tu nombre, Carikoriluri? Siento que me voy a morder la lengua……
  ……Aquí, relájate un poco más. No seas tan duro con tu cuerpo."
-"Carikoriluri (talking)","……あ、あの………… 一つ訊いてもいいですか？","…… Oh, um,………… Can I ask you one question?","…… Oh, um,………… ¿Puedo hacerte una pregunta?"
-"Yamamoto Akuji (talking)","おう、一つでも二つでも三つでも訊け。","Oh, ask one or two or three.","Oh, pregunta uno, dos o tres."
-"Carikoriluri (talking)","あのですね、もしかしてあなたは この世界の魔王なんですか？","You know, perhaps you are the Demon King of this world?","Por casualidad, ¿eres el Rey Demonio de este mundo?"
-"Yamamoto Akuji (talking)","……何だそりゃ、お伽噺か？","…… What is this, a fairy tale?","…… ¿Qué es esto, un cuento de hadas?"
-"Carikoriluri (talking)","いえ、勇者とその一行に敵対するのは 必ず魔王の軍勢ですから、もしやと。","No, it is always the army of the Demon King that opposes the heroes and their party, so I wondered what if.","No, siempre es el ejército del rey demonio el que se opone a los héroes y su grupo, así que si."
-"Yamamoto Akuji (talking)","よく解んねーが、 俺は普通の人間のつもりだぜ。","I don't know about you, but I think I'm a normal person.","No sé tú, pero yo creo que soy un ser humano normal."
-"Carikoriluri (talking)","そうですか……良かった。 ならいずれ、私たちの味方に なる訳ですね。
+Carikoriluri (talking),……あ、あの………… 一つ訊いてもいいですか？,"…… Oh, um,………… Can I ask you one question?","…… Oh, um,………… ¿Puedo hacerte una pregunta?"
+Yamamoto Akuji (talking),おう、一つでも二つでも三つでも訊け。,"Oh, ask one or two or three.","Oh, pregunta uno, dos o tres."
+Carikoriluri (talking),あのですね、もしかしてあなたは この世界の魔王なんですか？,"You know, perhaps you are the Demon King of this world?","Por casualidad, ¿eres el Rey Demonio de este mundo?"
+Yamamoto Akuji (talking),……何だそりゃ、お伽噺か？,"…… What is this, a fairy tale?","…… ¿Qué es esto, un cuento de hadas?"
+Carikoriluri (talking),いえ、勇者とその一行に敵対するのは 必ず魔王の軍勢ですから、もしやと。,"No, it is always the army of the Demon King that opposes the heroes and their party, so I wondered what if.","No, siempre es el ejército del rey demonio el que se opone a los héroes y su grupo, así que si."
+Yamamoto Akuji (talking),よく解んねーが、 俺は普通の人間のつもりだぜ。,"I don't know about you, but I think I'm a normal person.","No sé tú, pero yo creo que soy un ser humano normal."
+Carikoriluri (talking),"そうですか……良かった。 ならいずれ、私たちの味方に なる訳ですね。
 私たちが戦ったのは、 何かの間違いなんだ……ほっ。","I see…… Good. So you'll be on our side sooner or later.
 It must have been a mistake for us to fight……","Ya veo…… Bien. Eso significa que tarde o temprano estarán de nuestro lado.
 Fue un error que lucháramos……"
-"Yamamoto Akuji (talking)","どういう思考回路なんだよ……","What kind of thought process is that? ……","¿Qué tipo de proceso de pensamiento es este? ……"
-"Carikoriluri (talking)","人間界は最後に必ず結束するんです。 伝説にもありますよ？
+Yamamoto Akuji (talking),どういう思考回路なんだよ……,What kind of thought process is that? ……,¿Qué tipo de proceso de pensamiento es este? ……
+Carikoriluri (talking),"人間界は最後に必ず結束するんです。 伝説にもありますよ？
 あなたもきっと、説得が通じれば 私たちを自由にしてくれるはずです。","The human world always unites at the end. It's in the legends, you know?
 I'm sure you too, if you can be persuaded, will set us free.","El mundo humano siempre se une al final. La leyenda dice que…
 Estoy seguro de que tú también, si puedes ser persuadido, nos liberarás."
-"Yamamoto Akuji (talking)","……まあいい、この話は終わろう。 別の事を訊かせてくれや。
+Yamamoto Akuji (talking),"……まあいい、この話は終わろう。 別の事を訊かせてくれや。
 おめー、雷落とすとか変なことするだろ。 ありゃ何だ？","……Well, okay, let's get this over with. Let me ask you something else.
 You know, you do weird things like lightning strikes. What the hell is that?","…… Bueno, vale, vamos a terminar esta conversación. Déjame preguntarte algo más.
 Haces cosas raras, como tormentas eléctricas. ¿Qué demonios es eso?"
-"Carikoriluri (talking)","魔法ですよ。","It's magic.","Magia."
-"Yamamoto Akuji (talking)","いや、そういうお伽噺チックな 答えじゃなくて。 原理とか仕掛けとかいろいろあんだろ？","No, I don't mean fairy tale answers like that. There's all kinds of principles and tricks and stuff, right?","No, no es ese tipo de respuesta de cuento de hadas. Hay todo tipo de principios y trucos y cosas, ¿verdad?"
-"Carikoriluri (talking)","仕掛けというか、 修行によって世界の根元と心を通わせて、 精霊と契約を結んで……","It's a trick, or rather, a way to communicate with the root of the world through training, and to make a contract with the spirits……","Es un truco, o mejor dicho, una forma de comunicarse con la raíz del mundo a través del entrenamiento, y hacer un contrato con los espíritus……"
-"Yamamoto Akuji (talking)","………………訳わからん。","……………… I don't understand the translation.","……………… No entiendo la traducción."
-"Carikoriluri (talking)","この世界の人はみんなそう言いますね。 どうして勉強しないんですか？ 魔法って結構便利なのに……","People of this world Hami you say so. Why don't you study? Magic is pretty useful……","La gente Hami en este mundo lo dice. ¿Por qué no estudias? La magia es bastante útil……"
-"Yamamoto Akuji (talking)","便利って、雷落とすのが便利なのか？","Convenience is convenient to thunder down?","Conveniencia, ¿es conveniente el rayo?"
-"Carikoriluri (talking)","そればかりじゃないですよ。 声じゃなくて心でお話したり、 瞬間的に別の場所へ移動したり。","It's not all about that. We speak with our hearts, not our voices, and move from one place to another at a moment's notice.","No se trata de eso. Hablo con el corazón, no con la voz, o me muevo de un lugar a otro en un momento."
-"Yamamoto Akuji (talking)","瞬間的に別の場所に移動ぉ？ んな真似できるのかー？","Instantaneously move to another place? Can you do that?","¿Mudarse instantáneamente a otro lugar? ¿Puedes hacerlo?"
-"Carikoriluri (talking)","できますよ。 高レベル魔法ですけど、最近覚えて。
+Carikoriluri (talking),魔法ですよ。,It's magic.,Magia.
+Yamamoto Akuji (talking),いや、そういうお伽噺チックな 答えじゃなくて。 原理とか仕掛けとかいろいろあんだろ？,"No, I don't mean fairy tale answers like that. There's all kinds of principles and tricks and stuff, right?","No, no es ese tipo de respuesta de cuento de hadas. Hay todo tipo de principios y trucos y cosas, ¿verdad?"
+Carikoriluri (talking),仕掛けというか、 修行によって世界の根元と心を通わせて、 精霊と契約を結んで……,"It's a trick, or rather, a way to communicate with the root of the world through training, and to make a contract with the spirits……","Es un truco, o mejor dicho, una forma de comunicarse con la raíz del mundo a través del entrenamiento, y hacer un contrato con los espíritus……"
+Yamamoto Akuji (talking),………………訳わからん。,……………… I don't understand the translation.,……………… No entiendo la traducción.
+Carikoriluri (talking),この世界の人はみんなそう言いますね。 どうして勉強しないんですか？ 魔法って結構便利なのに……,People of this world Hami you say so. Why don't you study? Magic is pretty useful……,La gente Hami en este mundo lo dice. ¿Por qué no estudias? La magia es bastante útil……
+Yamamoto Akuji (talking),便利って、雷落とすのが便利なのか？,Convenience is convenient to thunder down?,"Conveniencia, ¿es conveniente el rayo?"
+Carikoriluri (talking),そればかりじゃないですよ。 声じゃなくて心でお話したり、 瞬間的に別の場所へ移動したり。,"It's not all about that. We speak with our hearts, not our voices, and move from one place to another at a moment's notice.","No se trata de eso. Hablo con el corazón, no con la voz, o me muevo de un lugar a otro en un momento."
+Yamamoto Akuji (talking),瞬間的に別の場所に移動ぉ？ んな真似できるのかー？,Instantaneously move to another place? Can you do that?,¿Mudarse instantáneamente a otro lugar? ¿Puedes hacerlo?
+Carikoriluri (talking),"できますよ。 高レベル魔法ですけど、最近覚えて。
 昔行ったことのある場所なら、 千里離れていてもひとっとびです。","I can do it. It's high-level magic, but I've only recently learned it.
 If you've been to a place before, even if it's a thousand miles away, you can just jump.","Puedo hacerlo. Es magia de alto nivel, pero la he aprendido recientemente.
 Si ya has estado en un lugar, aunque esté a miles de kilómetros, puedes saltar."
-"Yamamoto Akuji (talking)","そんじゃおめー、 逃げようと思えば逃げられんのか？","So you can't escape if you want to?","¿Así que no podrías escapar aunque quisieras?"
-"Carikoriluri (talking)","ええ。 でも、私だけで逃げられないから。 アーサと一緒じゃないと……
+Yamamoto Akuji (talking),そんじゃおめー、 逃げようと思えば逃げられんのか？,So you can't escape if you want to?,¿Así que no podrías escapar aunque quisieras?
+Carikoriluri (talking),"ええ。 でも、私だけで逃げられないから。 アーサと一緒じゃないと……
 あの、アーサは無事なんですよね？ ……ここに居るんですよね？","Yes, I know. But I can't run away by myself. I have to be with Aasa……
 Um, Aasa is safe, right?…… she's here, right?","Sí, puedo. Pero no puedo escapar por mi cuenta. Tengo que estar con Aasa……
 Aasa está a salvo, ¿verdad? Está aquí ……, ¿verdad?"
-"Yamamoto Akuji (talking)","……ははーん、なるほどね。 惚れた男は見捨てていけません、ってか？","…… haha, I see. Don't abandon the man you love, huh?","…… jaja, ya veo. No puedes abandonar al hombre que amas, ¿es eso?"
-"Carikoriluri (talking)","や……嫌だもうっ！ 私たちは別にそんなのじゃ……","I hate…… and I hate ……! We're not like that ……","¡No quiero ir a…… o a ……! No somos así ……"
-"Yamamoto Akuji (thinking)","…………こいつの見張り、 明日からもっと増やそう……","…………watch for this guy, more tomorrow ……","…………vigilar a este tipo, más mañana……"
-"Yamamoto Akuji (talking)","よお、カリコリルリ。","Yo, Carikoriluri.","Yo, Carikoriluri."
-"Carikoriluri (talking)","……あ、あの………… 私、どうなるんですか？
+Yamamoto Akuji (talking),……ははーん、なるほどね。 惚れた男は見捨てていけません、ってか？,"…… haha, I see. Don't abandon the man you love, huh?","…… jaja, ya veo. No puedes abandonar al hombre que amas, ¿es eso?"
+Carikoriluri (talking),や……嫌だもうっ！ 私たちは別にそんなのじゃ……,I hate…… and I hate ……! We're not like that ……,¡No quiero ir a…… o a ……! No somos así ……
+Yamamoto Akuji (thinking),…………こいつの見張り、 明日からもっと増やそう……,"…………watch for this guy, more tomorrow ……","…………vigilar a este tipo, más mañana……"
+Yamamoto Akuji (talking),よお、カリコリルリ。,"Yo, Carikoriluri.","Yo, Carikoriluri."
+Carikoriluri (talking),"……あ、あの………… 私、どうなるんですか？
 早く国に戻って、 魔王に苦しめられている人たちを 助けなきゃいけないんですけど……","…… Oh, um,………… What's going to happen to me?
 I have to go back to my country and help those who are being tormented by the Demon King……","…… Oh, um,………… ¿Qué me va a pasar?
 Tengo que volver a mi país lo antes posible y ayudar a los que están siendo atormentados por el Rey Demonio……"
-"Yamamoto Akuji (talking)","そんなに急いでんなら、 何でこっちの世界に来てまで 人助けしてたんだよ。","If you're in such a hurry, why did you come to our world to help people?","Si tienes tanta prisa, ¿por qué has venido a nuestro mundo a ayudar a la gente?"
-"Carikoriluri (talking)","いえ、人間側が少し持ち直してきて、 結構余裕が出てきていたから……","No, the human side was starting to pick up a little bit, and we were getting pretty comfortable……","No, el lado humano empezaba a despuntar un poco, y había bastante margen de maniobra……"
-"Yamamoto Akuji (talking)","なら大丈夫だろ。 一旦勝ち始めりゃしばらくは勝ち続ける。 世の中そんなもんだ。","If so, it's okay. Once you start winning, you'll continue to win for a while. That's what the world is like.","Si es así, está bien. Una vez que comience a ganar, continuará ganando por un tiempo. Así es el mundo."
-"Carikoriluri (talking)","そうでしょうか……
+Yamamoto Akuji (talking),そんなに急いでんなら、 何でこっちの世界に来てまで 人助けしてたんだよ。,"If you're in such a hurry, why did you come to our world to help people?","Si tienes tanta prisa, ¿por qué has venido a nuestro mundo a ayudar a la gente?"
+Carikoriluri (talking),いえ、人間側が少し持ち直してきて、 結構余裕が出てきていたから……,"No, the human side was starting to pick up a little bit, and we were getting pretty comfortable……","No, el lado humano empezaba a despuntar un poco, y había bastante margen de maniobra……"
+Yamamoto Akuji (talking),なら大丈夫だろ。 一旦勝ち始めりゃしばらくは勝ち続ける。 世の中そんなもんだ。,"If so, it's okay. Once you start winning, you'll continue to win for a while. That's what the world is like.","Si es así, está bien. Una vez que comience a ganar, continuará ganando por un tiempo. Así es el mundo."
+Carikoriluri (talking),"そうでしょうか……
 特に私の国では、魔王の障気のせいで みんな石にされてしまっていて、 時間が止まっているのと同然で……","Isn't that so……
 Especially in my country, where everyone is turned to stone by the demon king's disability, and it's as if time has stopped……","¿No es así? ……
 Sobre todo en mi país, donde todo el mundo está convertido en piedra por la incapacidad del rey demonio, y el tiempo está como parado……"
-"Yamamoto Akuji (talking)","それならなお大丈夫だろ。 ちょっと遅れたってどーってことない。","Then you should be fine. A little delay is no big deal.","Entonces está aún más bien. Un pequeño retraso no es gran cosa."
-"Carikoriluri (talking)","そうでしょうか……","Wouldn't you agree ……","¿No estás de acuerdo? ……"
-"Yamamoto Akuji (talking)","そうだ。","Yes, it is.","Sí."
-"Carikoriluri (talking)","……まあ、そうですね。 そうですよね。
+Yamamoto Akuji (talking),それならなお大丈夫だろ。 ちょっと遅れたってどーってことない。,Then you should be fine. A little delay is no big deal.,Entonces está aún más bien. Un pequeño retraso no es gran cosa.
+Carikoriluri (talking),そうでしょうか……,Wouldn't you agree ……,¿No estás de acuerdo? ……
+Yamamoto Akuji (talking),そうだ。,"Yes, it is.",Sí.
+Carikoriluri (talking),"……まあ、そうですね。 そうですよね。
 で、これから私はどうなるんですか？","…… Well, yes. That's right.
 So what happens to me now?","…… Bueno, sí. Sí, así es.
  ¿Y qué me pasa ahora?"
-"Yamamoto Akuji (talking)","うーん、そうだな……","Hmmm, yes……","Hmmm, sí……"
-"Yamamoto Akuji (talking)","しかしよ、異世界の住人って事は どんなに見た目一緒でも やっぱイロイロ違うんだよな？","But, you know, being from another world, no matter how much they look alike, they're all different, right?","Pero, ya sabes, siendo de otro mundo, por mucho que se parezcan, son todos diferentes, ¿no?"
-"Carikoriluri (talking)","………？　何の事ですか？","………?　What is it?","………?　¿Qué es?"
-"Yamamoto Akuji (talking)","進化の仕方からやっぱ違うだろ？ 躰の構造とかも違って当然だし。","The way we evolved is different, isn't it? The structure of the body is different.","La forma en que evolucionamos es diferente, ¿no? La estructura del cuerpo es diferente."
-"Carikoriluri (talking)","？？？","？？？","？？？"
-"Yamamoto Akuji (talking)","単純に興味あるよなー。 こっちの世界とお前らの世界じゃ セックスの仕方とかも別なのか？","I'm interested in just Jun. Is there a different way to have sex in our world and yours?","Me interesa sólo  Jun. ¿Hay una forma diferente de tener sexo en nuestro mundo y en el tuyo?"
-"Carikoriluri (talking)","セックス……ああ、男女の行為ですね。 うーん、どうなんでしょう？","Sex…… Oh, it's the act of a man and a woman. Hmmm, what do you think?","Sexo…… Es un acto entre un hombre y una mujer. Hmmm, ¿qué te parece?"
-"Yamamoto Akuji (talking)","…………サラッと受けやがったな。 恥ずかしがるかと思ったが。","………… You took it so smoothly. I thought you would be embarrassed.","………… Te lo has tomado con mucha calma. Pensé que te avergonzarías."
-"Carikoriluri (talking)","少しは恥ずかしいですよ、当然。
+Yamamoto Akuji (talking),うーん、そうだな……,"Hmmm, yes……","Hmmm, sí……"
+Yamamoto Akuji (talking),しかしよ、異世界の住人って事は どんなに見た目一緒でも やっぱイロイロ違うんだよな？,"But, you know, being from another world, no matter how much they look alike, they're all different, right?","Pero, ya sabes, siendo de otro mundo, por mucho que se parezcan, son todos diferentes, ¿no?"
+Carikoriluri (talking),………？　何の事ですか？,………?　What is it?,………?　¿Qué es?
+Yamamoto Akuji (talking),進化の仕方からやっぱ違うだろ？ 躰の構造とかも違って当然だし。,"The way we evolved is different, isn't it? The structure of the body is different.","La forma en que evolucionamos es diferente, ¿no? La estructura del cuerpo es diferente."
+Carikoriluri (talking),？？？,？？？,？？？
+Yamamoto Akuji (talking),単純に興味あるよなー。 こっちの世界とお前らの世界じゃ セックスの仕方とかも別なのか？,I'm interested in just Jun. Is there a different way to have sex in our world and yours?,Me interesa sólo  Jun. ¿Hay una forma diferente de tener sexo en nuestro mundo y en el tuyo?
+Carikoriluri (talking),セックス……ああ、男女の行為ですね。 うーん、どうなんでしょう？,"Sex…… Oh, it's the act of a man and a woman. Hmmm, what do you think?","Sexo…… Es un acto entre un hombre y una mujer. Hmmm, ¿qué te parece?"
+Yamamoto Akuji (talking),…………サラッと受けやがったな。 恥ずかしがるかと思ったが。,………… You took it so smoothly. I thought you would be embarrassed.,………… Te lo has tomado con mucha calma. Pensé que te avergonzarías.
+Carikoriluri (talking),"少しは恥ずかしいですよ、当然。
 でも基本的には、 お世継ぎを授かる儀式じゃないですか。 遠ざけ過ぎてもいけないし。","I am a little embarrassed, of course.
 But basically, it's a ceremony to give an heir to the family. You can't keep it away from them too long.","Es un poco embarazoso, por supuesto.
 Pero básicamente, es una ceremonia para darte un heredero. No puedes tenerlo demasiado lejos."
-"Yamamoto Akuji (talking)","ううむ、なんか価値観違うらしいな。","Ummm, I hear you have some different values.","Ummm, he oído que tienes unos valores diferentes."
-"Carikoriluri (talking)","本当は私、語る資格ないんですけどね。 だって知識だけなんですもの。 未婚ですし、経験ありませんし。","I'm not really qualified to talk about it. Because all I have is knowledge. I'm not married, and I have no experience.","No estoy realmente cualificado para hablar de ello. Porque todo lo que tengo es conocimiento. Soy soltero y no tengo experiencia."
-"Yamamoto Akuji (talking)","ほー、なるへそ。","Oh, I see.","Ho, naru heso."
-"Carikoriluri (talking)","でも、こっちの世界もあっちの世界も 同じ人間なら一緒だと思いますよ。 どの世界でも神は一人でしょうし……","But I think the same people would be the same in this world and that world. And in every world, there would be one God……","Pero creo que son las mismas personas en este mundo y en el otro. Y en cada mundo habría un solo Dios……"
-"Yamamoto Akuji (talking)","セックスと神様は関係ないだろー。","Sex and God have nothing to do with each other.","¡El sexo no tiene nada que ver con Dios!"
-"Carikoriluri (talking)","創造主が同じなら、万物の霊長たる種も 同じものをお創りになるのでは？","If the Creator is the same, wouldn't He create the same seed, the spiritual head of all things?","Si el Creador es el mismo, ¿no crearía también la misma especie, la cabeza espiritual de todas las cosas?"
-"Yamamoto Akuji (talking)","宗教には興味ねーよ。
+Yamamoto Akuji (talking),ううむ、なんか価値観違うらしいな。,"Ummm, I hear you have some different values.","Ummm, he oído que tienes unos valores diferentes."
+Carikoriluri (talking),本当は私、語る資格ないんですけどね。 だって知識だけなんですもの。 未婚ですし、経験ありませんし。,"I'm not really qualified to talk about it. Because all I have is knowledge. I'm not married, and I have no experience.",No estoy realmente cualificado para hablar de ello. Porque todo lo que tengo es conocimiento. Soy soltero y no tengo experiencia.
+Yamamoto Akuji (talking),ほー、なるへそ。,"Oh, I see.","Ho, naru heso."
+Carikoriluri (talking),でも、こっちの世界もあっちの世界も 同じ人間なら一緒だと思いますよ。 どの世界でも神は一人でしょうし……,"But I think the same people would be the same in this world and that world. And in every world, there would be one God……",Pero creo que son las mismas personas en este mundo y en el otro. Y en cada mundo habría un solo Dios……
+Yamamoto Akuji (talking),セックスと神様は関係ないだろー。,Sex and God have nothing to do with each other.,¡El sexo no tiene nada que ver con Dios!
+Carikoriluri (talking),創造主が同じなら、万物の霊長たる種も 同じものをお創りになるのでは？,"If the Creator is the same, wouldn't He create the same seed, the spiritual head of all things?","Si el Creador es el mismo, ¿no crearía también la misma especie, la cabeza espiritual de todas las cosas?"
+Yamamoto Akuji (talking),"宗教には興味ねーよ。
 よーし、実験してみよう、実験。 こませるようならそれでＯＫだし、 ダメならダメでそれでもＯＫ。","I ain't into religion.
 Okay, let's experiment, experiment. If it works, it's OK. If it doesn't, it's still OK.","No me interesa la religión.
 Bien, experimentemos, experimentemos. Si funciona, está bien, si no lo hace, sigue estando bien."
-"Carikoriluri (talking)","実験って……
+Carikoriluri (talking),"実験って……
 あっ、あなたと私が 交わるって事ですか！？","Experimentation means ……
 Oh, you mean you and I are going to cross paths!","Experimentación significa ……
  ¡Oh, quieres decir que tú y yo nos vamos a cruzar!"
-"Yamamoto Akuji (talking)","ぴんぽーん、その通り。","Pimpon, you're right.","Pimpon, tienes razón."
-"Carikoriluri (talking)","こ、この世界じゃどうか知りませんけど、 私の世界だとそういうのって神聖な事で、 みだりにする事じゃ……","I don't know how it is in this world, but in my world, that kind of thing is sacred, not to be done without permission……","No sé cómo es en este mundo, pero en el mío, ese tipo de cosas es sagrado, no es algo que se haga sin permiso……"
-"Yamamoto Akuji (talking)","大丈夫だ、心配すんな。 この世界にゃ基本的に神様居ないから。 たぶん。","Don't worry. There is basically no God in this world. Probably.","Está bien, no te preocupes. Básicamente no hay dioses en este mundo. Probablemente."
-"Carikoriluri (talking)","み、操は結婚するまで守るものですよ？ そうじゃないんですか！？","Mi, Misao is to be protected until marriage, right? Isn't that so!","Mi, Misao debe ser protegido hasta el matrimonio, ¿verdad? ¿No es así?"
-"Yamamoto Akuji (talking)","今時流行んねーぞ、そんなの。 だいたい何で操なんか守るんだ？","That's not the fashion nowadays. Why are you protecting Misao anyway?","Eso no está de moda hoy en día. ¿Por qué proteges a Misao de todos modos?"
-"Carikoriluri (talking)","そ、それはほら、夫となる人に 純潔を捧げるとか言うじゃないですか！","Well, you see, that's what they say about giving your Jun to your husband-to-be!","Pues ya ves, eso es lo que dicen, ¡que le des tu Jun a tu futuro marido!"
-"Yamamoto Akuji (talking)","おめーの世界にゃ 子持ちで再婚する人とかいねーのか？ そういうのは汚いのか？","In your world, there are people who have children and remarry? Is that dirty?","En tu mundo, ¿hay gente que tiene hijos y se vuelve a casar? ¿Es eso sucio?"
-"Carikoriluri (talking)","う………… い、言われてみればそうですけど……","U………… Yes, if you ask me, it's true……","U………… Sí, si me preguntas……"
-"Yamamoto Akuji (talking)","ほれ、もうゴタクはいいから。 早く来いって。","Come on, enough of this nonsense. Come on, come on.","Vamos, basta de tonterías. Vamos, vamos."
-"Carikoriluri (talking)","でっ、でも、そんな事言われても…… 私、やり方知らないですし……","So, but even if you say that, I don't know how to…… I don't know how to ……","Y, pero, aunque digas eso, no sé cómo…… No sé cómo hacer eso ……"
-"Yamamoto Akuji (talking)","ほう、なら興味はある訳だな？","Oh, so you're interested?","Entonces te interesa, ¿no?"
-"Carikoriluri (talking)","当然です、これでも私は一国の姫です。 きっと魔王さえ居なければ、 今頃は世継ぎの一人や二人……","Of course, I am still a princess of a country. If it weren't for the Demon King, I'm sure I'd have an heir or two by now……","Por supuesto, sigo siendo una princesa de un país. Estoy seguro de que si no fuera por el Rey Demonio, ya tendría un heredero o dos……"
-"Yamamoto Akuji (talking)","あー、言っとくけどよ、この世界の セックスは世継ぎとかあんま関係ねーぜ。
+Yamamoto Akuji (talking),ぴんぽーん、その通り。,"Pimpon, you're right.","Pimpon, tienes razón."
+Carikoriluri (talking),こ、この世界じゃどうか知りませんけど、 私の世界だとそういうのって神聖な事で、 みだりにする事じゃ……,"I don't know how it is in this world, but in my world, that kind of thing is sacred, not to be done without permission……","No sé cómo es en este mundo, pero en el mío, ese tipo de cosas es sagrado, no es algo que se haga sin permiso……"
+Yamamoto Akuji (talking),大丈夫だ、心配すんな。 この世界にゃ基本的に神様居ないから。 たぶん。,Don't worry. There is basically no God in this world. Probably.,"Está bien, no te preocupes. Básicamente no hay dioses en este mundo. Probablemente."
+Carikoriluri (talking),み、操は結婚するまで守るものですよ？ そうじゃないんですか！？,"Mi, Misao is to be protected until marriage, right? Isn't that so!","Mi, Misao debe ser protegido hasta el matrimonio, ¿verdad? ¿No es así?"
+Yamamoto Akuji (talking),今時流行んねーぞ、そんなの。 だいたい何で操なんか守るんだ？,That's not the fashion nowadays. Why are you protecting Misao anyway?,Eso no está de moda hoy en día. ¿Por qué proteges a Misao de todos modos?
+Carikoriluri (talking),そ、それはほら、夫となる人に 純潔を捧げるとか言うじゃないですか！,"Well, you see, that's what they say about giving your Jun to your husband-to-be!","Pues ya ves, eso es lo que dicen, ¡que le des tu Jun a tu futuro marido!"
+Yamamoto Akuji (talking),おめーの世界にゃ 子持ちで再婚する人とかいねーのか？ そういうのは汚いのか？,"In your world, there are people who have children and remarry? Is that dirty?","En tu mundo, ¿hay gente que tiene hijos y se vuelve a casar? ¿Es eso sucio?"
+Carikoriluri (talking),う………… い、言われてみればそうですけど……,"U………… Yes, if you ask me, it's true……","U………… Sí, si me preguntas……"
+Yamamoto Akuji (talking),ほれ、もうゴタクはいいから。 早く来いって。,"Come on, enough of this nonsense. Come on, come on.","Vamos, basta de tonterías. Vamos, vamos."
+Carikoriluri (talking),でっ、でも、そんな事言われても…… 私、やり方知らないですし……,"So, but even if you say that, I don't know how to…… I don't know how to ……","Y, pero, aunque digas eso, no sé cómo…… No sé cómo hacer eso ……"
+Yamamoto Akuji (talking),ほう、なら興味はある訳だな？,"Oh, so you're interested?","Entonces te interesa, ¿no?"
+Carikoriluri (talking),当然です、これでも私は一国の姫です。 きっと魔王さえ居なければ、 今頃は世継ぎの一人や二人……,"Of course, I am still a princess of a country. If it weren't for the Demon King, I'm sure I'd have an heir or two by now……","Por supuesto, sigo siendo una princesa de un país. Estoy seguro de que si no fuera por el Rey Demonio, ya tendría un heredero o dos……"
+Yamamoto Akuji (talking),"あー、言っとくけどよ、この世界の セックスは世継ぎとかあんま関係ねーぜ。
 一に快楽、二に快楽。 んでもってバッチリ避妊、これが基本だ。","Oh, and for the record, sex in this world has nothing to do with heirs.
 First, pleasure, second, pleasure. And, the basic rule is to use contraceptives.","Ah, y para que lo sepas, el sexo en este mundo no es realmente una sucesión.
 En primer lugar, el placer, en segundo lugar el placer. Y además, la anticoncepción perfecta, esa es la regla básica."
-"Carikoriluri (talking)","……快楽？　避妊？","…… Pleasure?　Contraception?","…… ¿Placer?　¿Anticoncepción?"
-"Yamamoto Akuji (talking)","いーから任せとけって。 さ、俺の部屋に行くぞ。 優しくしてやっから。","I don't care. I'll take care of it. Now, let's go to my room. I'll be nice to you.","No me importa, te lo dejo a ti. Venga, vamos a mi habitación. Seré amable contigo."
-"Carikoriluri (talking)","あっ、あのその……あうぅ…………","Oh, that that…… ahh …………","Oh, eso que…… ah…………"
-"cg narrator","「……ひゃんっ……！ 　やあっ、やあああっ…………うはあァ……っ！」
+Carikoriluri (talking),……快楽？　避妊？,…… Pleasure?　Contraception?,…… ¿Placer?　¿Anticoncepción?
+Yamamoto Akuji (talking),いーから任せとけって。 さ、俺の部屋に行くぞ。 優しくしてやっから。,"I don't care. I'll take care of it. Now, let's go to my room. I'll be nice to you.","No me importa, te lo dejo a ti. Venga, vamos a mi habitación. Seré amable contigo."
+Carikoriluri (talking),あっ、あのその……あうぅ…………,"Oh, that that…… ahh …………","Oh, eso que…… ah…………"
+cg narrator,"「……ひゃんっ……！ 　やあっ、やあああっ…………うはあァ……っ！」
 悪司が自分の中に入り込んできた瞬間、 カリコリルリは耐えられずに嬌声を上げた。
 前戯でさんざん焦らされ、感じさせられ、 女の部分が弛緩しきった後だったから、 破瓜の痛みなどはまるで感じていないようだ。
 「や、いや……ああっ……！！ 　な、何っ……私の中で動いてるっ…………！ 　やめ……やめて下さ…………やあああンっ！！」
@@ -567,129 +567,129 @@ Akuji gritó. Pero Carikoriluri ya no se niega.
 Carikoriluri había comenzado a anhelar las sensaciones que al principio le resultaban confusas y desagradables.
 ──Hasta que el placer explote y llegues al clímax.
 Carikoriluri continuó buscando las acciones de Akuji──"
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","……ふー、いい汗かいた。","…… Whew, I worked up a good sweat.","…… Uf, he sudado mucho."
-"Carikoriluri (talking)","…………あ、んッ…………","…………Ah, hmm…………","…………Ah, hmm…………"
-"Yamamoto Akuji (talking)","どーよ、カリコリルリ。 セックスの感想は。","How about you, Carikoriluri. How do you feel about sex?","Qué tal tú, Carikoriluri. ¿Qué te parece el sexo?"
-"Carikoriluri (talking)","……素晴らしかったです………… こんなの、初めてで…………","…… was wonderful………… I've never seen anything like this before …………","…… Fue maravilloso………… Nunca había visto algo así…………"
-"Yamamoto Akuji (talking)","そーか、そりゃ良かった。
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+Yamamoto Akuji (talking),……ふー、いい汗かいた。,"…… Whew, I worked up a good sweat.","…… Uf, he sudado mucho."
+Carikoriluri (talking),…………あ、んッ…………,"…………Ah, hmm…………","…………Ah, hmm…………"
+Yamamoto Akuji (talking),どーよ、カリコリルリ。 セックスの感想は。,"How about you, Carikoriluri. How do you feel about sex?","Qué tal tú, Carikoriluri. ¿Qué te parece el sexo?"
+Carikoriluri (talking),……素晴らしかったです………… こんなの、初めてで…………,…… was wonderful………… I've never seen anything like this before …………,…… Fue maravilloso………… Nunca había visto algo así…………
+Yamamoto Akuji (talking),"そーか、そりゃ良かった。
  ……ま、俺はちと不満だけどな。","Well, that's good to hear.…… Well, I'm not happy about it.","Bueno, es bueno escuchar eso.…… Bueno, no estoy contento con ello."
-"Carikoriluri (talking)","えっ……？ あの、私……何かいけない事でも……","What ……? Um, I…… did something wrong ……","¿Qué, ……? Um, yo…… hizo algo mal ……"
-"Yamamoto Akuji (talking)","いや、おめーは何も悪くないさ。
+Carikoriluri (talking),えっ……？ あの、私……何かいけない事でも……,"What ……? Um, I…… did something wrong ……","¿Qué, ……? Um, yo…… hizo algo mal ……"
+Yamamoto Akuji (talking),"いや、おめーは何も悪くないさ。
 ただ、異世界の女もこっちの女と 同じだったんでなー。","No, you didn't do anything wrong.
 It's just that the women in the other world are just like the women here.","No, no has hecho nada malo.
 Es que las mujeres del otro mundo eran iguales a las de aquí."
-"Carikoriluri (talking)","くすっ……私の言った通りでしたね？","Darn it…… I was right wasn't ITane?","Maldita sea,…… tenía razón, ¿no es así Tane?"
-"Yamamoto Akuji (talking)","まーな。","Mana.","Mana."
-"Carikoriluri (talking)","あの……もう一回、 して頂けませんか……？ もう少し、感じていたい……","Can you…… do it one more time for me?…… I'd like to feel it a little more ……","Um,…… ¿podrías hacerlo de nuevo, ……? Me gustaría sentirlo un poco más ……"
-"Yamamoto Akuji (talking)","んー、そりゃちと無理だな。","Hmmm, that's a bit of a stretch.","Hmm, eso es un poco exagerado."
-"Carikoriluri (talking)","えっ……どうして…………","What…… why …………","¿Qué?…… ¿Por qué? …………"
-"Yamamoto Akuji (talking)","どうしても何も、 三連チャンでイッたからなー。 おめーは六回は飛んでたろ？
+Carikoriluri (talking),くすっ……私の言った通りでしたね？,Darn it…… I was right wasn't ITane?,"Maldita sea,…… tenía razón, ¿no es así Tane?"
+Yamamoto Akuji (talking),まーな。,Mana.,Mana.
+Carikoriluri (talking),あの……もう一回、 して頂けませんか……？ もう少し、感じていたい……,Can you…… do it one more time for me?…… I'd like to feel it a little more ……,"Um,…… ¿podrías hacerlo de nuevo, ……? Me gustaría sentirlo un poco más ……"
+Yamamoto Akuji (talking),んー、そりゃちと無理だな。,"Hmmm, that's a bit of a stretch.","Hmm, eso es un poco exagerado."
+Carikoriluri (talking),えっ……どうして…………,What…… why …………,¿Qué?…… ¿Por qué? …………
+Yamamoto Akuji (talking),"どうしても何も、 三連チャンでイッたからなー。 おめーは六回は飛んでたろ？
 これはさすがに、なあ。 いくら俺でも回復すんのに時間が……","I just can't help it. I came three times in a row. You must have come at least six times.
 I'm not surprised. Even for me, it takes time to recover……","No puedo evitarlo, me he corrido tres veces seguidas. Has volado seis veces, ¿verdad?
 Eso está bien, ya sabes. Incluso a mí me lleva tiempo recuperarme……"
-"Carikoriluri (talking)","……むにゃむにゃ……ぴろりろりん。 えいっ。","…… mmmmmm…… piroririn. Eihee.","Eihee."
-"Yamamoto Akuji (talking)","……………………………………
+Carikoriluri (talking),……むにゃむにゃ……ぴろりろりん。 えいっ。,…… mmmmmm…… piroririn. Eihee.,Eihee.
+Yamamoto Akuji (talking),"……………………………………
 いきなり…… 俺の愚息がガチンガチンに……
 おい、おめー……何やったんだ……？","……………………………………
 Suddenly…… my fools got a clattering ……
 Hey, you ……, what did you…… do?","……………………………………
 De repente…… mi estupidez va a tope ……
 Eh, tú ……, ¿qué has hecho ……?"
-"Carikoriluri (talking)","あの、気力回復の魔法を……","You know, the magic of restoring energy……","Ya sabes, la magia de la restauración de la energía……"
-"Yamamoto Akuji (talking)","あー……処女とか言ってた割に、 えらい元気に求めてくると思ったが、 さては…………","I thought you'd be more vigorous in your quest for…… virginity, but I guess you're not …………","Pensé que serías muy vigoroso en tu búsqueda de la virginidad de ……, pero supongo que es …………"
-"Carikoriluri (talking)","……途中でこっそり、 自分に、魔法かけてました……
+Carikoriluri (talking),あの、気力回復の魔法を……,"You know, the magic of restoring energy……","Ya sabes, la magia de la restauración de la energía……"
+Yamamoto Akuji (talking),あー……処女とか言ってた割に、 えらい元気に求めてくると思ったが、 さては…………,"I thought you'd be more vigorous in your quest for…… virginity, but I guess you're not …………","Pensé que serías muy vigoroso en tu búsqueda de la virginidad de ……, pero supongo que es …………"
+Carikoriluri (talking),"……途中でこっそり、 自分に、魔法かけてました……
 あの……ダメですか？　そういうの……","I was secretly casting a spell on myself during ……
 Is that…… wrong?　Is that ……","…… me estaba hechizando en secreto de camino a ……
 Um……… ¿no?　Ese tipo de cosas……"
-"Yamamoto Akuji (talking)","……ちっ、しゃあねーな。 おらよっと。","……Crap, that's not good. Orayo.","…… Chitty, shucks. Ola yo."
-"Carikoriluri (talking)","あ………っ、んっ………","Oh ………, hmmm… ………","Ah………, hmm………"
-"narrator","そうしてまた、二人の躰は絡み合って ベッドに沈んでいった。","Then their bodies sank into the bed, entwined together again.","Y así, de nuevo, sus cuerpos se hundieron en la cama, entrelazados."
-" (talking)","よっしゃ、カリコリルリ。 一発ヤるか。","Okay, Carikoriluri. Ippatsu let's do it.","Muy bien, Carikoriluri. Ippatsu vamos a follar."
-" (talking)","……はーいっ。","…… yes.","…… Sí."
-"narrator","元気良く答えたカリコリルリは、 悪司の腕を取るとぴとっと躰をくっつけてきた。","Carikoriluri answered cheerfully, taking Akuji's arm and snuggling his body against hers.","Carikoriluri respondió alegremente, cogiendo el brazo de Akuji y pegando su cuerpo con fuerza al de ella."
-" (talking)","こりゃまた、解りやすい反応で。","Again, an obvious response.","Esta es otra respuesta comprensible."
-" (talking)","だって、悪司さんのお顔を見たときから、 また……前みたいに、その…………
+Yamamoto Akuji (talking),……ちっ、しゃあねーな。 おらよっと。,"……Crap, that's not good. Orayo.","…… Chitty, shucks. Ola yo."
+Carikoriluri (talking),あ………っ、んっ………,"Oh ………, hmmm… ………","Ah………, hmm………"
+narrator,そうしてまた、二人の躰は絡み合って ベッドに沈んでいった。,"Then their bodies sank into the bed, entwined together again.","Y así, de nuevo, sus cuerpos se hundieron en la cama, entrelazados."
+ (talking),よっしゃ、カリコリルリ。 一発ヤるか。,"Okay, Carikoriluri. Ippatsu let's do it.","Muy bien, Carikoriluri. Ippatsu vamos a follar."
+ (talking),……はーいっ。,…… yes.,…… Sí.
+narrator,元気良く答えたカリコリルリは、 悪司の腕を取るとぴとっと躰をくっつけてきた。,"Carikoriluri answered cheerfully, taking Akuji's arm and snuggling his body against hers.","Carikoriluri respondió alegremente, cogiendo el brazo de Akuji y pegando su cuerpo con fuerza al de ella."
+ (talking),こりゃまた、解りやすい反応で。,"Again, an obvious response.",Esta es otra respuesta comprensible.
+ (talking),"だって、悪司さんのお顔を見たときから、 また……前みたいに、その…………
 あの、だから、私…… ドキドキしっぱなしで……","Because, from the moment I saw Akuji's face, I was…… again, like before, that …………
 Um, so, I've been…… so nervous all the time……","Porque, ya sabes, desde el momento en que vi la cara de Akuji, estaba…… como antes otra vez, ya sabes, que …………
 Um, así que, he estado…… tan nervioso todo el tiempo……"
-" (talking)","ああ、ふにふに柔らかいおめーの胸が 俺の腕にくっついてるからな。 よく解るぜ。","Yeah, because your soft, fluffy breasts are attached to my arms. I know exactly what you mean.","Sí, porque tus suaves y esponjosos pechos están pegados a mis brazos. Sé exactamente lo que quieres decir."
-" (talking)","私、もっと早く 男の人を知っていれば良かった……
+ (talking),ああ、ふにふに柔らかいおめーの胸が 俺の腕にくっついてるからな。 よく解るぜ。,"Yeah, because your soft, fluffy breasts are attached to my arms. I know exactly what you mean.","Sí, porque tus suaves y esponjosos pechos están pegados a mis brazos. Sé exactamente lo que quieres decir."
+ (talking),"私、もっと早く 男の人を知っていれば良かった……
 こんなにドキドキできるなら…… こんなに素敵な事があるなら……","I wish I had known a man sooner……
 If only I could be this thrilled…… If only I could be this Suteki ……","Me gustaría haber conocido a un hombre antes……
 Si sólo pudiera estar así de emocionado…… Si sólo pudiera ser así de Suteki ……"
-" (talking)","あー、勘違いすんなよ。 男がみんな俺みたく上手いと思ってたら すげー失望することになるぜ。","Oh, don't get me wrong. If you think all men are as good as me, you're in for a big disappointment.","No me malinterpretes. Si crees que todos los hombres son tan buenos como yo, te vas a decepcionar mucho."
-" (talking)","えっ……そうなんですか？","What,…… is that right?","¿Qué?…… ¿Es así?"
-" (talking)","おう、そーなんだ。","Oh, I see.","Ah, sí."
-" (talking)","そうか……そうなんだ、そうですよね。 アーサなんて私が近付くだけで……","I see…… that's right, you're right. An Ursa is just something I get close to ……","Así que…… Ya veo, sí, es cierto. Una Osa es algo a lo que me acerco……"
-" (talking)","ま、会話はここまでにしとこうや。 早いとこ俺の部屋へ行こーぜ。","Well, that's enough conversation. Let's get to my room as soon as possible.","Bueno, ya es suficiente conversación. Vamos a mi habitación lo antes posible."
-" (talking)","はいっ。","Yes, sir.","Sí, señor."
-" (talking)","カリコリルリは、悪司に抱かれた。","Carikoriluri was embraced by Akuji.","Carikoriluri fue abrazado por Akuji."
-"Carikoriluri (talking)","……………… …………はあ、っ…………","………………………… haha, wow …………","………………………… haha, hey …………"
-"Yamamoto Akuji (talking)","うっとりした、いい顔だなー。","Enraptured, you look great!","Embelesado, te ves bien."
-"Carikoriluri (talking)","えっ……そ、そうですか……？","What…… is that so ……?","¿Qué?…… ¿En serio? ……"
-"Yamamoto Akuji (talking)","ああ、目がとろけてて、 たまんなくエッチな顔してんぜ。","Oh, her eyes are melting, and she looks so naughty.","Oh, sus ojos se derriten, y parece tan traviesa."
-"Carikoriluri (talking)","本当ですか……？ くすっ、嬉しいです……","Really ……? Darn, I'm glad ……","¿Es cierto ……? Maldición, me alegro de que ……"
-"Yamamoto Akuji (talking)","もう一回ヤってやろーか？","You want me to fuck you one more time?","¿Quieres que te coja otra vez?"
-"Carikoriluri (talking)","はいっ、是非……！
+ (talking),あー、勘違いすんなよ。 男がみんな俺みたく上手いと思ってたら すげー失望することになるぜ。,"Oh, don't get me wrong. If you think all men are as good as me, you're in for a big disappointment.","No me malinterpretes. Si crees que todos los hombres son tan buenos como yo, te vas a decepcionar mucho."
+ (talking),えっ……そうなんですか？,"What,…… is that right?",¿Qué?…… ¿Es así?
+ (talking),おう、そーなんだ。,"Oh, I see.","Ah, sí."
+ (talking),そうか……そうなんだ、そうですよね。 アーサなんて私が近付くだけで……,"I see…… that's right, you're right. An Ursa is just something I get close to ……","Así que…… Ya veo, sí, es cierto. Una Osa es algo a lo que me acerco……"
+ (talking),ま、会話はここまでにしとこうや。 早いとこ俺の部屋へ行こーぜ。,"Well, that's enough conversation. Let's get to my room as soon as possible.","Bueno, ya es suficiente conversación. Vamos a mi habitación lo antes posible."
+ (talking),はいっ。,"Yes, sir.","Sí, señor."
+ (talking),カリコリルリは、悪司に抱かれた。,Carikoriluri was embraced by Akuji.,Carikoriluri fue abrazado por Akuji.
+Carikoriluri (talking),……………… …………はあ、っ…………,"………………………… haha, wow …………","………………………… haha, hey …………"
+Yamamoto Akuji (talking),うっとりした、いい顔だなー。,"Enraptured, you look great!","Embelesado, te ves bien."
+Carikoriluri (talking),えっ……そ、そうですか……？,What…… is that so ……?,¿Qué?…… ¿En serio? ……
+Yamamoto Akuji (talking),ああ、目がとろけてて、 たまんなくエッチな顔してんぜ。,"Oh, her eyes are melting, and she looks so naughty.","Oh, sus ojos se derriten, y parece tan traviesa."
+Carikoriluri (talking),本当ですか……？ くすっ、嬉しいです……,"Really ……? Darn, I'm glad ……","¿Es cierto ……? Maldición, me alegro de que ……"
+Yamamoto Akuji (talking),もう一回ヤってやろーか？,You want me to fuck you one more time?,¿Quieres que te coja otra vez?
+Carikoriluri (talking),"はいっ、是非……！
 あ、元気になる魔法、今かけますね……","Yes, by all means, ……!
 Oh, I'll cast a spell to cheer you up now: ……","Sí, por supuesto, …….
 Oh, voy a lanzar un hechizo para animarte ahora: ……"
-"Yamamoto Akuji (talking)","いらん、そんなもん無くても 何度でもイかせてやる。","I don't need it. I can make you cum as many times as I want without it.","No lo quiero, haré que te corras todas las veces que quiera sin él."
-"Carikoriluri (talking)","………………はいっ……
+Yamamoto Akuji (talking),いらん、そんなもん無くても 何度でもイかせてやる。,I don't need it. I can make you cum as many times as I want without it.,"No lo quiero, haré que te corras todas las veces que quiera sin él."
+Carikoriluri (talking),"………………はいっ……
  ……ん、あっ…………ああ…………","……………… yes………… hmm, ah………… ah……… …","……………… sí………… hmm, ah………… ah……… …"
-"Yamamoto Akuji (talking)","……なー、カリコリルリ。 俺の事好きか？","…… Hey, Carikoriluri. Do you like me?","…… Hola, Carikoriluri. ¿Te gusto?"
-"Carikoriluri (talking)","……ああっ………… 大好きですっ……！","I love…… ah………… I love it ……!","Me encanta…… oh………… ¡Me encanta ……!"
-"Yamamoto Akuji (talking)","んじゃ、俺の部下になって いろいろ働いてくんねーか。 おめーの魔法は戦力になっからさ。","I'd like you to work for me and do all kinds of things. Your magic will be an asset.","Entonces, ¿por qué no te conviertes en mi subordinado y trabajas para mí de varias maneras? Su magia será una ventaja."
-"Carikoriluri (talking)","はい……なり、なりま…… なり…………ますっ……
+Yamamoto Akuji (talking),……なー、カリコリルリ。 俺の事好きか？,"…… Hey, Carikoriluri. Do you like me?","…… Hola, Carikoriluri. ¿Te gusto?"
+Carikoriluri (talking),……ああっ………… 大好きですっ……！,I love…… ah………… I love it ……!,Me encanta…… oh………… ¡Me encanta ……!
+Yamamoto Akuji (talking),んじゃ、俺の部下になって いろいろ働いてくんねーか。 おめーの魔法は戦力になっからさ。,I'd like you to work for me and do all kinds of things. Your magic will be an asset.,"Entonces, ¿por qué no te conviertes en mi subordinado y trabajas para mí de varias maneras? Su magia será una ventaja."
+Carikoriluri (talking),"はい……なり、なりま…… なり…………ますっ……
 私、悪司さんのお役に…… お役に、立ちた…………っ……","Yes ……, it will be ……, it will be ……, it will be …………, it will be ……, it will be …………, it will be ……, it will be…………… …
 I would like to be of help to…… Akuji ……","Sí……, seré ……, seré ……, seré …………, seré ……, seré…………… …
 Me gustaría ser…… útil para Akuji ……"
-"Yamamoto Akuji (talking)","よーしよし。 可愛いやっちゃなー。","All right, all right, all right. He's so cute.","Muy bien, muy bien. Es un tipo muy bonito."
-"Carikoriluri (talking)","あ………………！","A ………………!","¡A ………………!"
-"narrator","──自分の世界に戻らなくては。 苦しんでいる人々を救わなければ──
+Yamamoto Akuji (talking),よーしよし。 可愛いやっちゃなー。,"All right, all right, all right. He's so cute.","Muy bien, muy bien. Es un tipo muy bonito."
+Carikoriluri (talking),あ………………！,A ………………!,¡A ………………!
+narrator,"──自分の世界に戻らなくては。 苦しんでいる人々を救わなければ──
 そんな想いは、もう、 カリコリルリの頭の中から消え去っていた。","I must return to my world. I must save those who are suffering.
 Such thoughts had already disappeared from Carikoriluri's mind.","Tengo que volver a mi mundo. Debo salvar a los que sufren…
 Esos pensamientos ya habían desaparecido de la mente de Carikoriluri."
-" (talking)","おめーさあ、何か欲しいもんあるか？","Hey, you, do you want something?","Oye, tú, ¿quieres algo?"
-" (talking)","？　別に何も……","What's up with that?　Nothing really……","?　Nada……"
-" (talking)","何かあんだろ、何か。 ちと考えてみな。","There must be something, something. Think about it.","Debe haber algo, algo. Piensa en ello."
-" (talking)","うーん、うーん……
+ (talking),おめーさあ、何か欲しいもんあるか？,"Hey, you, do you want something?","Oye, tú, ¿quieres algo?"
+ (talking),？　別に何も……,What's up with that?　Nothing really……,?　Nada……
+ (talking),何かあんだろ、何か。 ちと考えてみな。,"There must be something, something. Think about it.","Debe haber algo, algo. Piensa en ello."
+ (talking),"うーん、うーん……
  ……あっ、物とは少し違いますけど、 久しぶりにうろろーんが食べたいです。","Hmmm…ummm…………… Oh, it's a little different from things, but I haven't had uro-roon in a while.","Mmm, mmm………… Oh, es un poco diferente de las cosas, pero no he tenido uro-roon en un tiempo."
-" (talking)","うろろーん？","Rororon?","¿Rororon?"
-" (talking)","私の大好物なんです。 美味しいですよ。","It's my favorite food. It's delicious.","Es mi comida favorita. Es delicioso."
-" (talking)","聞いたこともねーな。 異世界の食いモンか？","Never heard of it. Is it some kind of otherworldly food?","Nunca he oído hablar de ello. ¿Es un alimento de otro mundo?"
-" (talking)","こっちの世界にはないんですか？ 美味しいですよ。","Don't we have it over here in this world? It's delicious.","¿No lo tienes aquí en este mundo? Es delicioso."
-" (talking)","………………","………………","………………"
-" (talking)","美味しいんです。","It's delicious.","Deliciosa."
-" (talking)","……あっそ。","…… Oh yeah.","…… Oh, sí."
-" (thinking)","うーん、濡れ衣だろうと何だろうと おっ被せるのは簡単なんだが……
+ (talking),うろろーん？,Rororon?,¿Rororon?
+ (talking),私の大好物なんです。 美味しいですよ。,It's my favorite food. It's delicious.,Es mi comida favorita. Es delicioso.
+ (talking),聞いたこともねーな。 異世界の食いモンか？,Never heard of it. Is it some kind of otherworldly food?,Nunca he oído hablar de ello. ¿Es un alimento de otro mundo?
+ (talking),こっちの世界にはないんですか？ 美味しいですよ。,Don't we have it over here in this world? It's delicious.,¿No lo tienes aquí en este mundo? Es delicioso.
+ (talking),………………,………………,………………
+ (talking),美味しいんです。,It's delicious.,Deliciosa.
+ (talking),……あっそ。,…… Oh yeah.,"…… Oh, sí."
+ (thinking),"うーん、濡れ衣だろうと何だろうと おっ被せるのは簡単なんだが……
 何せこいつ、異世界人だしなあ。 戸籍とかない訳だし、後で何かと 面倒な事になるかもしれん…………
 ……いっそ始末すっか、後腐れねぇし。 来週にでも殺っちまおう。","Hmm, no matter what it is, it's easy to put it over……
 After all, this guy is from another world. There's no family register, so it might become a hassle later…………
 ……I'll just finish it off, and it won't go away. I'll kill you next week.","Hmm, no importa lo que sea, es fácil ponerlo……
 Después de todo, este tipo es de otro mundo. No hay registro familiar, por lo que podría convertirse en una molestia más tarde…………
 ……simplemente lo terminaré y no desaparecerá. Te mataré la semana que viene."
-" (talking)","あの…… 何か不穏な事を考えてませんか？","That…… Do you have something disturbing in mind?","Que…… ¿Tienes algo inquietante en mente?"
-" (talking)","いや別に。","No, nothing.","No, nada."
-"Tamanegi (talking)","さて、カリコリルリさん。 そろそろ今日の調教を……","Well, Carikoriluri. It's time to get today's training ……","Ahora, Carikoriluri. Es hora de empezar a entrenar para el…… de hoy"
-"Carikoriluri (talking)","はーいっ。 今日は何をして下さるんですか？
+ (talking),あの…… 何か不穏な事を考えてませんか？,That…… Do you have something disturbing in mind?,Que…… ¿Tienes algo inquietante en mente?
+ (talking),いや別に。,"No, nothing.","No, nada."
+Tamanegi (talking),さて、カリコリルリさん。 そろそろ今日の調教を……,"Well, Carikoriluri. It's time to get today's training ……","Ahora, Carikoriluri. Es hora de empezar a entrenar para el…… de hoy"
+Carikoriluri (talking),"はーいっ。 今日は何をして下さるんですか？
 複数の男性に抱かれるのも、 手を縛られるのも良かったし…… ああ、今日も楽しみです。","Yes, sir. What will you be doing for me today?
 I liked being held by more than one man and having my hands tied…… Oh, I'm looking forward to today.","Hai. ¿Qué vas a hacer hoy por mí?
 Me gustaba que me abrazara más de un hombre, y que me ataran las manos…… Oh, estoy deseando que llegue el día."
-"Tamanegi (talking)","………………
+Tamanegi (talking),"………………
 皆があなたのような女性であれば、 わたくしも少しは楽なのですがね……","………………
 It would be a little easier for me if everyone was a woman like you ……","………………
 Sería un poco más fácil para mí si todos fueran mujeres como tú……"
-"Carikoriluri (talking)","……えっ？","…… eh?","…… ¿eh?"
-"Tamanegi (talking)","いえ、独り言です。
+Carikoriluri (talking),……えっ？,…… eh?,…… ¿eh?
+Tamanegi (talking),"いえ、独り言です。
 では、始めましょうか。 今日は今までのおさらい程度で 軽く流していきましょう。","No, I'm talking to myself.
 So let's get started. Today, let's just a quick review of what we've seen so far.","No, estoy hablando conmigo mismo.
 Así que comencemos. Hoy, vamos a una revisión rápida de lo que hemos visto hasta ahora."
-"Carikoriluri (talking)","軽く流すんですか……？","Do you want to lighten the load ……?","¿Quieres aligerar la carga ……?"
-"Tamanegi (talking)","不満そうに言わないで。 しっかり満足させてあげますよ。","Don't complain. We'll make sure you're satisfied.","No te quejes. Me aseguraré de que estés satisfecho."
-"cg narrator","　　［ビイイイイン……］
+Carikoriluri (talking),軽く流すんですか……？,Do you want to lighten the load ……?,¿Quieres aligerar la carga ……?
+Tamanegi (talking),不満そうに言わないで。 しっかり満足させてあげますよ。,Don't complain. We'll make sure you're satisfied.,No te quejes. Me aseguraré de que estés satisfecho.
+cg narrator,"　　［ビイイイイン……］
 バイブレーターに内蔵された電気モーターが、 虫の羽音に似た耳障りな機械音を立て続けている。
 だがそれは、カリコリルリにとっては 自分に未知の悦楽を与えてくれる 心地よいものでしかなかった。
 「ふ、あ…………やっ、んっ………… 　ひうンっ……あ……っ、あふっ…………」
@@ -900,13 +900,13 @@ Y luego Carikoriluri sonríe. Relaja el cuerpo para facilitar que los vibradores
 「Jaja…… ahora, alcanza hasta que estés satisfecho……」
 　　［Zu、zubu~……zuriyuh~……！］
 「A、aa~………hiaaaaaa~────！」"
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"cg narrator","売春、そのための調教。 ──カリコリルリには、全て関係ない。
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+cg narrator,"売春、そのための調教。 ──カリコリルリには、全て関係ない。
 今の彼女は、ただ、悦楽が欲しいだけ。
 その悦楽を誰かが与え続けている限り、 彼女が自分の世界へ戻ることはないのだろう。","Prostitution, training for it. But all that doesn't matter to Carikoriluri.
 She just wants pleasure.
 As long as someone keeps giving her that pleasure, she will never return to her own world.","La prostitución, el entrenamiento para ella. ─ ─ Carikoriluri no se preocupa por todo esto.
 Ahora sólo quiere placer.
 Mientras alguien siga dándole ese placer, nunca volverá a su propio mundo."
-"Tamanegi (talking)","さてはあなた、悪の手先ですね。 そうと解れば手加減しません！！","You are an agent of evil, aren't you? I'll go easy on you if I know you are!","Eres un agente del mal, ¿no? Me pondré a tono con usted si sé que lo es."
+Tamanegi (talking),さてはあなた、悪の手先ですね。 そうと解れば手加減しません！！,"You are an agent of evil, aren't you? I'll go easy on you if I know you are!","Eres un agente del mal, ¿no? Me pondré a tono con usted si sé que lo es."

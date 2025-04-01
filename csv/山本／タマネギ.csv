@@ -1,53 +1,53 @@
-"character","jap text","Eng","Esp"
-"__system__??","{RND \ 0:","",""
-"narrator","悪司が新聞を読んでいるところに 智子がやってきた。","Akuji was reading a newspaper when Tomoko came in.","Akuji estaba leyendo el periódico cuando llegó Tomoko."
-"Yamamoto Akuji (talking)","どうした？","What's up?","¿Qué pasa?"
-"Kinugasa Tomoko (talking)","あの…なんだか変な人が、悪司さんに お会いしたいといらっしゃってます…","Um…there's some strange person asking to see Mr. Akuji…","Um… hay una persona extraña aquí que quiere ver a Akuji…"
-"Yamamoto Akuji (talking)","変な奴？ 額からＢ２９を発射したり する様な奴か？","Weirdo? The kind of guy who fires B-29s out of his forehead?","¿Raro? ¿El tipo de hombre que lanza B-29s desde su frente?"
-"Kinugasa Tomoko (talking)","そういう意味の変では… その…なんだかこう…ねっとりと した目で、わたしを見たりとか…","I mean, not in a weird way, but… you know… you look at me with these… sultry eyes… or something.","Quiero decir, no de una manera extraña, como… ya sabes… me miras con esos… ojos sensuales o…"
-"Yamamoto Akuji (talking)","お前…そんなに自分が魅力的だと 思ってんのか？","You… you think you're so attractive?","Tú… ¿crees que eres tan atractiva?"
-"Kinugasa Tomoko (talking)","うっ…そ、そういう訳じゃ…","Well… that's not why I…","Eso no es… no es por eso…"
-"Yamamoto Akuji (talking)","とりあえず、入れろ。 気持ち悪かったら 追い出せばいーんだし。","Let them in for now. If you feel uncomfortable, just kick them out.","Mientras tanto, déjelos entrar. Y si te sientes incómodo, échalos."
-"Kinugasa Tomoko (talking)","は、はい、わかりました…","Ha, yes, okay…","Ja, sí, vale…"
-"__system__??","}","",""
-"__system__??","{RND = 0:","",""
-"narrator","悪司が新聞を読んでいるところに 青年団女子がやってきた。","Akuji was reading a newspaper when Seinendan Jyoshi arrived.","Akuji estaba leyendo un periódico cuando llegó Seinendan Jyoshi."
-"Yamamoto Akuji (talking)","どうした？","What's up?","¿Qué pasa?"
-"Seinendan Jyoshi (talking)","あの…なんだか変な人が、悪司さんに お会いしたいといらっしゃってます…","Um…there's some strange person asking to see Mr. Akuji…","Um… hay una persona extraña aquí que quiere ver a Akuji…"
-"Yamamoto Akuji (talking)","変な奴？ 額からＢ２９を発射したり する様な奴か？","Weirdo? The kind of guy who fires B-29s out of his forehead?","¿Raro? ¿El tipo de hombre que lanza B-29s desde su frente?"
-"Seinendan Jyoshi (talking)","そういう意味の変では… その…こう、雰囲気が もう…普通の人でなくて…","I mean, not in a weird way… but in a… in a… in a way that's… not normal…","Quiero decir, no en una… en una forma rara, sino en una… en una… en una forma que no es… normal…"
-"Yamamoto Akuji (talking)","とりあえず、入れろ。 気持ち悪かったら 追い出せばいーんだし。","Let them in for now. If you feel uncomfortable, just kick them out.","Mientras tanto, déjelos entrar. Y si te sientes incómodo, échalos."
-"Seinendan Jyoshi (talking)","は、はい、わかりました…","Ha, yes, okay…","Ja, sí, vale…"
-"__system__??","}","",""
-"Tamanegi (talking)","無事帰国、おめでとうございます。 若。","Congratulations on your safe return home. Young.","Enhorabuena por su regreso a casa sano y salvo. Joven."
-"Yamamoto Akuji (talking)","タマネギ！？","Tamanegi!","¡Tamanegi!"
-"Tamanegi (talking)","帰国なさって、驚いたでしょう。 わかめ組があんな事になって しまっていて。","You must have been surprised when you came back to Japan. I was surprised to see what had happened to the Wakame group.","Te habrás sorprendido al volver a casa. El grupo Wakame se ha convertido en un desastre."
-"Yamamoto Akuji (talking)","おう。 親父も死んじまったらしい上に、 お蘭の馬鹿が…
+character,jap text,Eng,Esp
+__system__??,{RND \ 0:,,
+narrator,悪司が新聞を読んでいるところに 智子がやってきた。,Akuji was reading a newspaper when Tomoko came in.,Akuji estaba leyendo el periódico cuando llegó Tomoko.
+Yamamoto Akuji (talking),どうした？,What's up?,¿Qué pasa?
+Kinugasa Tomoko (talking),あの…なんだか変な人が、悪司さんに お会いしたいといらっしゃってます…,Um…there's some strange person asking to see Mr. Akuji…,Um… hay una persona extraña aquí que quiere ver a Akuji…
+Yamamoto Akuji (talking),変な奴？ 額からＢ２９を発射したり する様な奴か？,Weirdo? The kind of guy who fires B-29s out of his forehead?,¿Raro? ¿El tipo de hombre que lanza B-29s desde su frente?
+Kinugasa Tomoko (talking),そういう意味の変では… その…なんだかこう…ねっとりと した目で、わたしを見たりとか…,"I mean, not in a weird way, but… you know… you look at me with these… sultry eyes… or something.","Quiero decir, no de una manera extraña, como… ya sabes… me miras con esos… ojos sensuales o…"
+Yamamoto Akuji (talking),お前…そんなに自分が魅力的だと 思ってんのか？,You… you think you're so attractive?,Tú… ¿crees que eres tan atractiva?
+Kinugasa Tomoko (talking),うっ…そ、そういう訳じゃ…,Well… that's not why I…,Eso no es… no es por eso…
+Yamamoto Akuji (talking),とりあえず、入れろ。 気持ち悪かったら 追い出せばいーんだし。,"Let them in for now. If you feel uncomfortable, just kick them out.","Mientras tanto, déjelos entrar. Y si te sientes incómodo, échalos."
+Kinugasa Tomoko (talking),は、はい、わかりました…,"Ha, yes, okay…","Ja, sí, vale…"
+__system__??,},,
+__system__??,{RND = 0:,,
+narrator,悪司が新聞を読んでいるところに 青年団女子がやってきた。,Akuji was reading a newspaper when Seinendan Jyoshi arrived.,Akuji estaba leyendo un periódico cuando llegó Seinendan Jyoshi.
+Yamamoto Akuji (talking),どうした？,What's up?,¿Qué pasa?
+Seinendan Jyoshi (talking),あの…なんだか変な人が、悪司さんに お会いしたいといらっしゃってます…,Um…there's some strange person asking to see Mr. Akuji…,Um… hay una persona extraña aquí que quiere ver a Akuji…
+Yamamoto Akuji (talking),変な奴？ 額からＢ２９を発射したり する様な奴か？,Weirdo? The kind of guy who fires B-29s out of his forehead?,¿Raro? ¿El tipo de hombre que lanza B-29s desde su frente?
+Seinendan Jyoshi (talking),そういう意味の変では… その…こう、雰囲気が もう…普通の人でなくて…,"I mean, not in a weird way… but in a… in a… in a way that's… not normal…","Quiero decir, no en una… en una forma rara, sino en una… en una… en una forma que no es… normal…"
+Yamamoto Akuji (talking),とりあえず、入れろ。 気持ち悪かったら 追い出せばいーんだし。,"Let them in for now. If you feel uncomfortable, just kick them out.","Mientras tanto, déjelos entrar. Y si te sientes incómodo, échalos."
+Seinendan Jyoshi (talking),は、はい、わかりました…,"Ha, yes, okay…","Ja, sí, vale…"
+__system__??,},,
+Tamanegi (talking),無事帰国、おめでとうございます。 若。,Congratulations on your safe return home. Young.,Enhorabuena por su regreso a casa sano y salvo. Joven.
+Yamamoto Akuji (talking),タマネギ！？,Tamanegi!,¡Tamanegi!
+Tamanegi (talking),帰国なさって、驚いたでしょう。 わかめ組があんな事になって しまっていて。,You must have been surprised when you came back to Japan. I was surprised to see what had happened to the Wakame group.,Te habrás sorprendido al volver a casa. El grupo Wakame se ha convertido en un desastre.
+Yamamoto Akuji (talking),"おう。 親父も死んじまったらしい上に、 お蘭の馬鹿が…
  …考えただけで、むかっぱらがたつぜ。","Oh. My dad's dead, too, apparently, and that idiot  Ran…
 I'm getting angry just thinking about it.","Oh. Mi padre también está muerto, aparentemente, y ese idiota  Ran…
 Me enfado sólo de pensarlo."
-"Tamanegi (talking)","そうですね、あの組は、温厚な元組長と 暴れっぷりのいい若とで均衡を保って いた場所ですし。","Yes, that clan was a place where the balance was maintained between a mild-mannered ex-gumi leader and a rampaging young man.","Sí, ese clan era un lugar en el que se mantenía el equilibrio entre el antiguo líder de modales suaves y el joven alborotador."
-"narrator","タマネギはそう言って、カシリと 生のまま、タマネギを齧った。","Tamanegi said so and took a bite of Tamanegi, raw with kashiri.","Tamanegi dijo esto y mordió a Tamanegi, crudo, con un kashiri."
-"Yamamoto Akuji (talking)","う……","U……","U……"
-"Tamanegi (talking)","どうしました？","What's wrong?","¿Qué pasa?"
-"Yamamoto Akuji (talking)","いや…俺はお前の事が嫌いじゃないが、 そのタマネギ丸齧りを見ると、どうも…","No I don't hate you, but that Tamanegi round gnawing on my face is just…","No… no es que no me gustes, pero todo ese asunto de Tamanegi, es que…"
-"Tamanegi (talking)","ふふふ…","Hmmm…","Hmmm…"
-"Yamamoto Akuji (talking)","しかし、どうした？ お前がここにくるなんて。","But what's the matter? I can't believe you came here.","¿Pero qué pasa? No puedo creer que estés aquí."
-"Tamanegi (talking)","若がここにいらっしゃると 聞きまして。","I heard that young man is here.","He oído que Waka está aquí."
-"Yamamoto Akuji (talking)","お前は、わかめ組風俗部の 専属調教師じゃねーか。
+Tamanegi (talking),そうですね、あの組は、温厚な元組長と 暴れっぷりのいい若とで均衡を保って いた場所ですし。,"Yes, that clan was a place where the balance was maintained between a mild-mannered ex-gumi leader and a rampaging young man.","Sí, ese clan era un lugar en el que se mantenía el equilibrio entre el antiguo líder de modales suaves y el joven alborotador."
+narrator,タマネギはそう言って、カシリと 生のまま、タマネギを齧った。,"Tamanegi said so and took a bite of Tamanegi, raw with kashiri.","Tamanegi dijo esto y mordió a Tamanegi, crudo, con un kashiri."
+Yamamoto Akuji (talking),う……,U……,U……
+Tamanegi (talking),どうしました？,What's wrong?,¿Qué pasa?
+Yamamoto Akuji (talking),いや…俺はお前の事が嫌いじゃないが、 そのタマネギ丸齧りを見ると、どうも…,"No I don't hate you, but that Tamanegi round gnawing on my face is just…","No… no es que no me gustes, pero todo ese asunto de Tamanegi, es que…"
+Tamanegi (talking),ふふふ…,Hmmm…,Hmmm…
+Yamamoto Akuji (talking),しかし、どうした？ お前がここにくるなんて。,But what's the matter? I can't believe you came here.,¿Pero qué pasa? No puedo creer que estés aquí.
+Tamanegi (talking),若がここにいらっしゃると 聞きまして。,I heard that young man is here.,He oído que Waka está aquí.
+Yamamoto Akuji (talking),"お前は、わかめ組風俗部の 専属調教師じゃねーか。
 それが、俺がここにいると聞いて、 どうして…","You're the exclusive trainer of the Wakamegumi sex club, aren't you?
 So when you heard I was here, how did you…","Eres el entrenador exclusivo del club de sexo Wakame-gumi, ¿verdad?
 Por eso, cuando escuchaste que estaba aquí, tú…"
-"Tamanegi (talking)","お蘭姐さんが、その風俗部を 閉鎖してしまいまして。","Miss  Ran has closed down her sex club.","La señorita ORan ha cerrado su departamento de aduanas."
-"Yamamoto Akuji (talking)","あの馬鹿大年増。 一番実入りのいい部門を閉鎖したのか。","That big old fool. Did they close down the most profitable department?","Ese viejo idiota. Ha cerrado el sector más rentable."
-"Tamanegi (talking)","はい。 なんでも、ウィミィの新体制の 為だとか。
+Tamanegi (talking),お蘭姐さんが、その風俗部を 閉鎖してしまいまして。,Miss  Ran has closed down her sex club.,La señorita ORan ha cerrado su departamento de aduanas.
+Yamamoto Akuji (talking),あの馬鹿大年増。 一番実入りのいい部門を閉鎖したのか。,That big old fool. Did they close down the most profitable department?,Ese viejo idiota. Ha cerrado el sector más rentable.
+Tamanegi (talking),"はい。 なんでも、ウィミィの新体制の 為だとか。
 ウィミィが女性の躰を売り物に するなどとんでもないと…","Yes. It is for the new organization of Wime.
 It's outrageous that Wime is selling women's bodies…","Sí. Se trata de la nueva estructura de Wime.
 Es indignante que Wime esté vendiendo cuerpos de mujeres…"
-"Yamamoto Akuji (talking)","奴らそんな事にまで 口出ししやがるのか。","They even meddle in such things?","¿Incluso se meten en estas cosas?"
-"Tamanegi (talking)","それでわたくし、失業してしまった 訳です。","That is why I lost my job.","Por eso perdí mi trabajo."
-"Yamamoto Akuji (talking)","そうだったのか。","I didn't think so.","Lo era."
-"Tamanegi (talking)","それでですね…
+Yamamoto Akuji (talking),奴らそんな事にまで 口出ししやがるのか。,They even meddle in such things?,¿Incluso se meten en estas cosas?
+Tamanegi (talking),それでわたくし、失業してしまった 訳です。,That is why I lost my job.,Por eso perdí mi trabajo.
+Yamamoto Akuji (talking),そうだったのか。,I didn't think so.,Lo era.
+Tamanegi (talking),"それでですね…
 お蘭姐さんよりずっと話のわかる若のそば でしたら、わたくしも腕の振るい甲斐が あるというもの。
 いかがでしょう、若。 わたくし達を使って、風俗店を お持ちになりませんか？
 わたくし達の旨味を一番知って いらっしゃるのは、 若だと思うんですが…
@@ -60,97 +60,97 @@ Estaría más que feliz de poner mis habilidades en buen uso al lado de un joven
  ¿Qué piensas, joven? ¿Te gustaría utilizarnos para abrir tu propio burdel?
 Creo que usted sabe mejor que nadie lo que podemos ofrecer.
 Y esto es lo más importante. Necesitamos una sala de entrenamiento…"
-"Yamamoto Akuji (talking)","待て、達って、どーいう事だ？ お前の他にもいるって事か？","Wait, what do you mean, “they”? You mean there's more than you?","Espera, ¿qué quieres decir con “ellos”? ¿Quieres decir que hay más que tú?"
-"Tamanegi (talking)","ああ、忘れてました。 入っておいで。 小春さんに、千手ボーヤ。","Oh, I forgot. Come on in. Koharu and Senju Boya.","Oh, lo olvidé. Pasa, pasa. Koharu y Senju Boya."
-"Kohara Koharu (talking)","はじめまして。 わかめ組の若旦那様。","Nice to meet you. Dear young master of the Wakame group.","Encantado de conocerte. Querido joven maestro del clan Wakame."
-"Ishihara Senju (talking)","こんにちわ。","Hello.","Hola."
-"Tamanegi (talking)","こっちのお嬢さんは、小原小春さん。 こっちのボーヤは、石原千手と いいます。
+Yamamoto Akuji (talking),待て、達って、どーいう事だ？ お前の他にもいるって事か？,"Wait, what do you mean, “they”? You mean there's more than you?","Espera, ¿qué quieres decir con “ellos”? ¿Quieres decir que hay más que tú?"
+Tamanegi (talking),ああ、忘れてました。 入っておいで。 小春さんに、千手ボーヤ。,"Oh, I forgot. Come on in. Koharu and Senju Boya.","Oh, lo olvidé. Pasa, pasa. Koharu y Senju Boya."
+Kohara Koharu (talking),はじめまして。 わかめ組の若旦那様。,Nice to meet you. Dear young master of the Wakame group.,Encantado de conocerte. Querido joven maestro del clan Wakame.
+Ishihara Senju (talking),こんにちわ。,Hello.,Hola.
+Tamanegi (talking),"こっちのお嬢さんは、小原小春さん。 こっちのボーヤは、石原千手と いいます。
 二人共、中々のやり手ですよ。","The lady over here is Kohara Koharu. This one is Ishihara Senju.
 Both of them are quite good at what they do.","La señora de aquí es Kohara Koharu. La boya de aquí se llama Ishihara Senju.
 Ambos son bastante buenos en lo que hacen."
-"Yamamoto Akuji (talking)","――ふん。 やり手のお前がそう言うんだから、 腕は確かなんだろうな。","--Hmmm. You're a good shot, so I guess you're good at it.","--Hmm. Eres un buen tirador, así que debes ser bueno en eso."
-"Kohara Koharu (talking)","それは、雇われてから、 いくらでも納得して頂ける機会が あるかと。","I'm sure you'll have plenty of opportunities to convince us of that after you're hired.","Estoy seguro de que habrá muchas oportunidades para convencerte de ello una vez que estés empleado."
-"Yamamoto Akuji (talking)","ふん…","Hmmm…","Hmmm…"
-"Kohara Koharu (talking)","ふふ…","Hmmm…","Hmmm…"
-"Ishihara Senju (talking)","雇ってよ、悪司。 今ならボク、すっごく働くよ。
+Yamamoto Akuji (talking),――ふん。 やり手のお前がそう言うんだから、 腕は確かなんだろうな。,"--Hmmm. You're a good shot, so I guess you're good at it.","--Hmm. Eres un buen tirador, así que debes ser bueno en eso."
+Kohara Koharu (talking),それは、雇われてから、 いくらでも納得して頂ける機会が あるかと。,I'm sure you'll have plenty of opportunities to convince us of that after you're hired.,Estoy seguro de que habrá muchas oportunidades para convencerte de ello una vez que estés empleado.
+Yamamoto Akuji (talking),ふん…,Hmmm…,Hmmm…
+Kohara Koharu (talking),ふふ…,Hmmm…,Hmmm…
+Ishihara Senju (talking),"雇ってよ、悪司。 今ならボク、すっごく働くよ。
 ウィミィのおかげで遊べなく なっちゃって、ホント うずうずしてるんだ。","Hire me, Akuji. I'll work for you now.
 I'm really itching to play now that I can't thanks to Wime.","Contrátame, Akuji. Ahora trabajaré para ti.
 Tengo muchas ganas de jugar ahora que no puedo gracias a Wime."
-"Yamamoto Akuji (talking)","大したガキだな。","Great kid.","Gran chico."
-"Ishihara Senju (talking)","くすくすっ。","Sniff, sniff, sniff.","Huele."
-"Tamanegi (talking)","どうでしょう？ わたくし達を雇って頂けますか？","What do you think? Would you hire us?","¿Qué te parece? ¿Nos contrataría?"
-"__system__??","{RETURN = 1:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 2:","",""
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","よし、わかった。 お前達の言う通りのものを用意しよう。
+Yamamoto Akuji (talking),大したガキだな。,Great kid.,Gran chico.
+Ishihara Senju (talking),くすくすっ。,"Sniff, sniff, sniff.",Huele.
+Tamanegi (talking),どうでしょう？ わたくし達を雇って頂けますか？,What do you think? Would you hire us?,¿Qué te parece? ¿Nos contrataría?
+__system__??,{RETURN = 1:,,
+__system__??,},,
+__system__??,{RETURN = 2:,,
+__system__??,},,
+Yamamoto Akuji (talking),"よし、わかった。 お前達の言う通りのものを用意しよう。
 その代わり、期待に応えてくれなかった 時は、遠慮なく捨てさせてもらうぞ、 タマネギ。","All right, all right. I will prepare exactly what you say.
 In exchange, if you don't meet my expectations, I'll feel free to throw it away, Tamanegi.","Muy bien, muy bien. Prepararé exactamente lo que dices.
 A cambio, si no está a la altura de nuestras expectativas, lo tiraremos sin reservas, Tamanegi."
-"Tamanegi (talking)","わかりました。 わたくし達三人、若の期待に応える様、 努力します。","I understand. We three of us will strive to live up to your expectations.","Lo entiendo. Los tres nos esforzaremos por estar a la altura de sus expectativas."
-"Kohara Koharu (talking)","よろしくお願いします。","Best regards.","Saludos cordiales."
-"Ishihara Senju (talking)","頑張るよ、悪司。","I'll do my best, Akuji.","Haré lo que pueda, Akuji."
-"narrator","こうして、悪司の元に、 タマネギ、小春、千手の三人の 調教師がやってきた。","Thus, three trainers, Tamanegi, Koharu, and Senju, came to Akuji.","Así, tres entrenadores, Tamanegi, Koharu y Senju, llegaron a Akuji."
-" (talking)","悪いが今のところ、 お前達を雇う余裕はない。 他をあたってくれ。","I'm sorry, but we can't afford to hire you at this time. You'll have to look elsewhere.","Lo siento, no podemos permitírselo en este momento. Tendrás que buscar en otra parte."
-" (talking)","そうですか…
+Tamanegi (talking),わかりました。 わたくし達三人、若の期待に応える様、 努力します。,I understand. We three of us will strive to live up to your expectations.,Lo entiendo. Los tres nos esforzaremos por estar a la altura de sus expectativas.
+Kohara Koharu (talking),よろしくお願いします。,Best regards.,Saludos cordiales.
+Ishihara Senju (talking),頑張るよ、悪司。,"I'll do my best, Akuji.","Haré lo que pueda, Akuji."
+narrator,こうして、悪司の元に、 タマネギ、小春、千手の三人の 調教師がやってきた。,"Thus, three trainers, Tamanegi, Koharu, and Senju, came to Akuji.","Así, tres entrenadores, Tamanegi, Koharu y Senju, llegaron a Akuji."
+ (talking),悪いが今のところ、 お前達を雇う余裕はない。 他をあたってくれ。,"I'm sorry, but we can't afford to hire you at this time. You'll have to look elsewhere.","Lo siento, no podemos permitírselo en este momento. Tendrás que buscar en otra parte."
+ (talking),"そうですか…
 わかりました。 それではお元気で、若。","Okay…
 I understand. Well then, take care, young man.","Bien…
 Lo entiendo. Entonces, cuídese, joven."
-"narrator","タマネギ達は、奉仕青年団を後にした。","Tamanegi and his group left the service youth group.","Tamanegi y sus compañeros dejaron el grupo juvenil de servicio."
-"__system__??","{RND \ 0:","",""
-"Kako Mirai (talking)","にーちゃん。 タマネギ臭い人が、にーちゃんに 会いたいってきてるにゃりよ。","Ni-chan. Tamanegi stinker wants to meet you, Nyari.","Ni-chan. Tamanegi apestoso quiere conocerte, Nyari."
-"Yamamoto Akuji (talking)","タマネギ臭い…","Tamanegi Smelly…","Tamanegi Oloroso…"
-"Kako Mirai (talking)","生タマネギ、齧ってる人にゃり。 からそうにゃり。","Raw Tamanegi, a person who is taking a bite. I'm a bit nervous.","Crudo Tamanegi, royendo a la gente. Kara-Seunyari."
-"Yamamoto Akuji (talking)","ああ、わかった。 通してやってくれ。","Yeah, okay. Let him through.","Sí, de acuerdo. Déjalo pasar."
-"Kako Mirai (talking)","はいにゃり。","Yes, sir.","Sí, sí, sí."
-"__system__??","}","",""
-"__system__??","{RND = 0:","",""
-"Seinendan Jyoshi (talking)","悪司さん。 タマネギ臭い人が、悪司さんに 会いたいって…","Mr. Akuji. Tamanegi stinker wants to meet Akuji…","Sr. Akuji. Tamanegi apestoso quiere conocer a Akuji…"
-"Yamamoto Akuji (talking)","タマネギ臭い…","Tamanegi Smelly…","Tamanegi Oloroso…"
-"Seinendan Jyoshi (talking)","生タマネギ、齧ってる人です。","Raw Tamanegi, the gnawing person.","Crudo  Tamanegi, roedor."
-"Yamamoto Akuji (talking)","ああ、わかった。 通してやってくれ。","Yeah, okay. Let him through.","Sí, de acuerdo. Déjalo pasar."
-"Seinendan Jyoshi (talking)","はい。","Yes.","Sí."
-"__system__??","}","",""
-"Tamanegi (talking)","何度もすみません、若。","Sorry again, young man.","Lo siento de nuevo, joven."
-"Yamamoto Akuji (talking)","いや、かまわねぇよ。 どうしたんだい？","No, I don't care. What's the matter?","No, no importa. ¿Qué pasa?"
-"Tamanegi (talking)","それが…仕事先を他にも色々と あたったんですが、全滅でして。
+narrator,タマネギ達は、奉仕青年団を後にした。,Tamanegi and his group left the service youth group.,Tamanegi y sus compañeros dejaron el grupo juvenil de servicio.
+__system__??,{RND \ 0:,,
+Kako Mirai (talking),にーちゃん。 タマネギ臭い人が、にーちゃんに 会いたいってきてるにゃりよ。,"Ni-chan. Tamanegi stinker wants to meet you, Nyari.","Ni-chan. Tamanegi apestoso quiere conocerte, Nyari."
+Yamamoto Akuji (talking),タマネギ臭い…,Tamanegi Smelly…,Tamanegi Oloroso…
+Kako Mirai (talking),生タマネギ、齧ってる人にゃり。 からそうにゃり。,"Raw Tamanegi, a person who is taking a bite. I'm a bit nervous.","Crudo Tamanegi, royendo a la gente. Kara-Seunyari."
+Yamamoto Akuji (talking),ああ、わかった。 通してやってくれ。,"Yeah, okay. Let him through.","Sí, de acuerdo. Déjalo pasar."
+Kako Mirai (talking),はいにゃり。,"Yes, sir.","Sí, sí, sí."
+__system__??,},,
+__system__??,{RND = 0:,,
+Seinendan Jyoshi (talking),悪司さん。 タマネギ臭い人が、悪司さんに 会いたいって…,Mr. Akuji. Tamanegi stinker wants to meet Akuji…,Sr. Akuji. Tamanegi apestoso quiere conocer a Akuji…
+Yamamoto Akuji (talking),タマネギ臭い…,Tamanegi Smelly…,Tamanegi Oloroso…
+Seinendan Jyoshi (talking),生タマネギ、齧ってる人です。,"Raw Tamanegi, the gnawing person.","Crudo  Tamanegi, roedor."
+Yamamoto Akuji (talking),ああ、わかった。 通してやってくれ。,"Yeah, okay. Let him through.","Sí, de acuerdo. Déjalo pasar."
+Seinendan Jyoshi (talking),はい。,Yes.,Sí.
+__system__??,},,
+Tamanegi (talking),何度もすみません、若。,"Sorry again, young man.","Lo siento de nuevo, joven."
+Yamamoto Akuji (talking),いや、かまわねぇよ。 どうしたんだい？,"No, I don't care. What's the matter?","No, no importa. ¿Qué pasa?"
+Tamanegi (talking),"それが…仕事先を他にも色々と あたったんですが、全滅でして。
 若のお邪魔になると知りつつも、 こうして再度、お願いに。
 若、お願いです。 わたくし達を雇って下さい。","I tried to find a job, but I couldn't find anything.
 I know I'm interrupting you, but I'm here to ask you again.
 Young man, please. Please hire us.","Intenté encontrar un trabajo, pero no pude encontrar nada.
 Sé que te estoy interrumpiendo, pero estoy aquí para preguntarte de nuevo.
 Joven, por favor. Por favor, contrátenos."
-"Yamamoto Akuji (talking)","うむ…","Mm…","Mm…"
-"__system__??","{RETURN = 1:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 2:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 3:","",""
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","よし、決めた。","Okay, I've decided.","Bien, lo he decidido."
-"Tamanegi (talking)","若。","Young.","Joven."
-"Yamamoto Akuji (talking)","俺は絶対、風俗産業を起こさない。","I would never start a sex industry.","Nunca, jamás, crearía una industria del sexo."
-"Tamanegi (talking)","なんですと…","What is it…?","¿Qué es…?"
-"Yamamoto Akuji (talking)","という訳だ。 タマネギ、いくらきてもらっても、 絶対仕事はない。","That's why. Tamanegi, no matter how many people come, there will never be any work.","Por eso. Tamanegi, no importa cuánta gente venga, nunca habrá trabajo."
-"Tamanegi (talking)","……そう…ですか…
+Yamamoto Akuji (talking),うむ…,Mm…,Mm…
+__system__??,{RETURN = 1:,,
+__system__??,},,
+__system__??,{RETURN = 2:,,
+__system__??,},,
+__system__??,{RETURN = 3:,,
+__system__??,},,
+Yamamoto Akuji (talking),よし、決めた。,"Okay, I've decided.","Bien, lo he decidido."
+Tamanegi (talking),若。,Young.,Joven.
+Yamamoto Akuji (talking),俺は絶対、風俗産業を起こさない。,I would never start a sex industry.,"Nunca, jamás, crearía una industria del sexo."
+Tamanegi (talking),なんですと…,What is it…?,¿Qué es…?
+Yamamoto Akuji (talking),という訳だ。 タマネギ、いくらきてもらっても、 絶対仕事はない。,"That's why. Tamanegi, no matter how many people come, there will never be any work.","Por eso. Tamanegi, no importa cuánta gente venga, nunca habrá trabajo."
+Tamanegi (talking),"……そう…ですか…
 わかりました… それでは、さようなら、若… お元気で。","…… I see….
 Okay… so good bye, young man… take care.","…… Bueno… vale…
 Muy bien… entonces, adiós, joven… cuídate."
-"Yamamoto Akuji (talking)","ああ、達者でな。","Yeah, with gusto.","Sí, con maestría."
-"Tamanegi (talking)","これは、若。
+Yamamoto Akuji (talking),ああ、達者でな。,"Yeah, with gusto.","Sí, con maestría."
+Tamanegi (talking),"これは、若。
 わたくし達の為に、この様に立派な 設備を整えて頂き、ありがとう ございます。","This is young man.
 Thank you very much for providing such fine facilities for us.","Esto, joven.
 Gracias por proporcionarnos tan buenas instalaciones."
-"Yamamoto Akuji (talking)","気にいったか？","You like it?","¿Te gusta?"
-"Tamanegi (talking)","はい、それはもう。 これでわたくし達も腕の奮い甲斐が あるというもの。
+Yamamoto Akuji (talking),気にいったか？,You like it?,¿Te gusta?
+Tamanegi (talking),"はい、それはもう。 これでわたくし達も腕の奮い甲斐が あるというもの。
 後は、わたくし達が調教した女人を 売る為のお店も、出来れば早く ご用意頂ければと。
 なんせ、ナマモノですし。","Yes, that's it. Now we will be able to put our skills to good use.
 Now all we need is a store to sell the women we have trained as soon as possible.
 After all, they are our own flesh and blood.","Sí, eso es. Ahora podemos poner en práctica nuestras habilidades.
 Ahora lo único que necesitamos es una tienda para vender a las mujeres que hemos formado, preferiblemente cuanto antes.
 Al fin y al cabo, son cosas reales."
-"Yamamoto Akuji (talking)","そうだな。 鮮度が命のモンだから、さっさと 売る店を作るとすっか。","I guess so. Freshness is the key, so let's quickly set up a store to sell them.","Sí, así es. La frescura es esencial, así que vamos a montar rápidamente una tienda para venderla."
-"Tamanegi (talking)","是非――
+Yamamoto Akuji (talking),そうだな。 鮮度が命のモンだから、さっさと 売る店を作るとすっか。,"I guess so. Freshness is the key, so let's quickly set up a store to sell them.","Sí, así es. La frescura es esencial, así que vamos a montar rápidamente una tienda para venderla."
+Tamanegi (talking),"是非――
 わたくし共の様な者が調教する女人を 使い、売春をしている店は稀ですからね。
 固定客もすぐにつくでしょう。
 例えば…この娘。","By all means…
@@ -160,55 +160,55 @@ For example… this girl.","Por todos los medios…
 Es raro encontrar un burdel que utilice mujeres entrenadas por gente como nosotros.
 Pronto tendrá una clientela fija.
 Por ejemplo… esta chica."
-"Yuuki Noemi (talking)","はぇぇぇ？？？？","Huh. ？？？？","Huh. ？？？？"
-"Tamanegi (talking)","まだまったくの手付かずの白い女人。 それを汚す楽しさはさておき、 店に出すには、ずぶの素人。
+Yuuki Noemi (talking),はぇぇぇ？？？？,Huh. ？？？？,Huh. ？？？？
+Tamanegi (talking),"まだまったくの手付かずの白い女人。 それを汚す楽しさはさておき、 店に出すには、ずぶの素人。
 その様な女人を店の商品にしましては、 店の、しいては若の名を汚す事に なりましょう。","A Haku woman who is still completely untouched. Aside from the pleasure of defiling her, she is a complete amateur to be displayed in the store.
 If we use such a woman as a product of our store, it will be a disgrace to our store and, by extension, to the name of our young company.","Una mujer Haku que aún no ha sido tocada. Aparte del placer de ensuciarlos, es una completa aficionada a la hora de venderlos en la tienda.
 Si utilizas a una mujer así como producto de la tienda, estarás deshonrando el nombre de la tienda y, por extensión, de los jóvenes."
-"Yuuki Noemi (talking)","何？？ なになに？？？ 何の話ですかーー！！？","What? What what what? What are you talking about?","¿Qué? ¿Qué, qué, qué? ¿De qué estás hablando?"
-"Tamanegi (talking)","白を艶に染め、逸品として店に 出すのは、このわたくし達。","We are the ones who dye Haku into a glossy color and display it as a gem in our stores.","Nosotros somos los que teñimos el Haku hasta sacarle brillo y lo exponemos como una joya en nuestras tiendas."
-"Yuuki Noemi (talking)","あ、あの、あたし、何が起こってるのか わかんないんですがーー！！","I don't know what's going on here!","¡No sé qué está pasando aquí!"
-"Tamanegi (talking)","何…それをすべて知る時、あなたの 人生は変わっていますよ。","What…when you know it all, your life will be different.","Que… cuando lo sepas todo, tu vida habrá cambiado."
-"Yamamoto Akuji (talking)","今から始めるのか。","Should I start now?","¿Debería empezar ahora?"
-"Tamanegi (talking)","はい。 さっそく。","Yes. Quickly.","Sí. Rápido."
-"Yuuki Noemi (talking)","ななな、何がですーーー！！？？","What is it?","¿Qué demonios es eso?"
-"Yamamoto Akuji (talking)","潰さないようにな。","Don't let them crush you.","No dejes que te aplasten."
-"Tamanegi (talking)","はい。","Yes.","Sí."
-"Yamamoto Akuji (talking)","それと… お前の手腕はわかっている。
+Yuuki Noemi (talking),何？？ なになに？？？ 何の話ですかーー！！？,What? What what what? What are you talking about?,"¿Qué? ¿Qué, qué, qué? ¿De qué estás hablando?"
+Tamanegi (talking),白を艶に染め、逸品として店に 出すのは、このわたくし達。,We are the ones who dye Haku into a glossy color and display it as a gem in our stores.,Nosotros somos los que teñimos el Haku hasta sacarle brillo y lo exponemos como una joya en nuestras tiendas.
+Yuuki Noemi (talking),あ、あの、あたし、何が起こってるのか わかんないんですがーー！！,I don't know what's going on here!,¡No sé qué está pasando aquí!
+Tamanegi (talking),何…それをすべて知る時、あなたの 人生は変わっていますよ。,"What…when you know it all, your life will be different.","Que… cuando lo sepas todo, tu vida habrá cambiado."
+Yamamoto Akuji (talking),今から始めるのか。,Should I start now?,¿Debería empezar ahora?
+Tamanegi (talking),はい。 さっそく。,Yes. Quickly.,Sí. Rápido.
+Yuuki Noemi (talking),ななな、何がですーーー！！？？,What is it?,¿Qué demonios es eso?
+Yamamoto Akuji (talking),潰さないようにな。,Don't let them crush you.,No dejes que te aplasten.
+Tamanegi (talking),はい。,Yes.,Sí.
+Yamamoto Akuji (talking),"それと… お前の手腕はわかっている。
 どの女を商品にするかは、 俺が決める。
 お前は俺の願いをきき、 俺の為に動いてくれればいい。","And… I know how good you are.
 I'll decide which women become commodities.
 All you have to do is do me a favor and work for me.","Y… sé lo bueno que eres.
 Decidiré qué mujeres convertiré en mercancía.
 Sólo tienes que hacerme un favor y trabajar para mí."
-"Tamanegi (talking)","承知いたしております。","I am aware of that.","Sí, somos conscientes de ello."
-"Yamamoto Akuji (talking)","その女は調教していいが、 他のヤツには、俺が命じるまで 手を出すな。","You can train that girl, but don't touch anyone else until I tell you to.","Puedes entrenar a esa chica, pero no toques a las otras hasta que te lo ordene."
-"Tamanegi (talking)","はい、若。","Yes, young.","Sí, joven."
-"Yuuki Noemi (talking)","なななな…… にゃ~~~！！？？","Nanana…… Nyah~!","¡Nana…… Nya~!"
-"Tamanegi (talking)","わたくし達、三人力を合わせ、 どのような女人も商品として みせましょう。","We three of us will work together to make an example out of any woman.","Los tres trabajaremos juntos para hacer de cada mujer un ejemplo."
-"Yamamoto Akuji (talking)","ああ、頼んだぜ。","Yeah, I'm counting on you.","Sí, te lo estoy pidiendo."
-"Tamanegi (talking)","これは、若。
+Tamanegi (talking),承知いたしております。,I am aware of that.,"Sí, somos conscientes de ello."
+Yamamoto Akuji (talking),その女は調教していいが、 他のヤツには、俺が命じるまで 手を出すな。,"You can train that girl, but don't touch anyone else until I tell you to.","Puedes entrenar a esa chica, pero no toques a las otras hasta que te lo ordene."
+Tamanegi (talking),はい、若。,"Yes, young.","Sí, joven."
+Yuuki Noemi (talking),なななな…… にゃ~~~！！？？,Nanana…… Nyah~!,¡Nana…… Nya~!
+Tamanegi (talking),わたくし達、三人力を合わせ、 どのような女人も商品として みせましょう。,We three of us will work together to make an example out of any woman.,Los tres trabajaremos juntos para hacer de cada mujer un ejemplo.
+Yamamoto Akuji (talking),ああ、頼んだぜ。,"Yeah, I'm counting on you.","Sí, te lo estoy pidiendo."
+Tamanegi (talking),"これは、若。
 一度破壊されてしまった調教の館を 再び建設して頂き、本当にありがとう ございます。
 引き続き、調教に励みますゆえ、 これからも指示の方を、 よろしくお願いします…","This, young man.
 Thank you very much for re-building the training hall that was once destroyed.
 I will continue to work hard on my training, so please continue to give me instructions…","Esto, joven.
 Muchas gracias por reconstruir la sala de formación que en su día fue destruida.
 Seguiré trabajando duro en mi formación, así que por favor, sigan dándome instrucciones…"
-"Yamamoto Akuji (talking)","おう。 しっかりな。","Oh. Hang in there.","Oh. Aguanta."
-"Tamanegi (talking)","はい、それはもう…","Yes, that's already…","Sí, eso ya es…"
-"__system__??","{☆乱数 = 1:","",""
-"Tamanegi (talking)","なるほど…","I see…","Ya veo…"
-"Tamanegi (talking)","ですか…
+Yamamoto Akuji (talking),おう。 しっかりな。,Oh. Hang in there.,Oh. Aguanta.
+Tamanegi (talking),はい、それはもう…,"Yes, that's already…","Sí, eso ya es…"
+__system__??,{☆乱数 = 1:,,
+Tamanegi (talking),なるほど…,I see…,Ya veo…
+Tamanegi (talking),"ですか…
 わかりました。 わたくしのこの手にかかれば、どんな 生娘でも一流の娼婦になりますよ。
 また、仕上がり具合をお尋ね下さい… ………くくっ…","Is that…
 I understand. In my hands, any raw girl can become a first-class whore.
 Please ask me how it's done… ………","Es…
 Lo entiendo. En mis manos, cualquier chica cruda puede convertirse en una puta de primera clase.
 Por favor, pregúntame cómo se hace… ………"
-"__system__??","}","",""
-"__system__??","{☆乱数 = 2:","",""
-"Kohara Koharu (talking)","まあ…","Well…","Bueno…"
-"Kohara Koharu (talking)","さん…
+__system__??,},,
+__system__??,{☆乱数 = 2:,,
+Kohara Koharu (talking),まあ…,Well…,Bueno…
+Kohara Koharu (talking),"さん…
  ……………
 ふふっ… 楽しそう…
 調教状態、いつでもお聞き下さいね、 若旦那様…","Three…
@@ -218,75 +218,75 @@ I'm always happy to hear about your training condition, young master…","Tres�
  ……………
 Hmmm… parece divertido…
 Puedes preguntarme cuando quieras sobre el estado de tu entrenamiento, joven maestro…"
-"__system__??","}","",""
-"__system__??","{☆乱数 = 3:","",""
-"Ishihara Senju (talking)","ふーん。","Hmmm.","Hmmm."
-"Ishihara Senju (talking)","かー。
+__system__??,},,
+__system__??,{☆乱数 = 3:,,
+Ishihara Senju (talking),ふーん。,Hmmm.,Hmmm.
+Ishihara Senju (talking),"かー。
 どっしよーかなー。 どうやっていぢめよっかなー。 血と涙、どっちが似合うかなー。
 んじゃあ、またね、悪司。 どんな風にしあがるかは、お楽しみ。 あははっ。","I'm so excited.
 What shall I do? I wonder how I should torture him. I wonder which suits me better, blood or tears.
 Well, Tane, Akuji. How it will turn out is up to you. Hahaha.","No estoy seguro.
  ¿Qué debo hacer? ¿Cómo debo burlarme de él? ¿Qué me conviene más, la sangre o las lágrimas?
 Bueno, veamos, Tane, Akuji. El resultado depende de ti. Ja, ja, ja."
-"__system__??","}","",""
-"Tamanegi (talking)","若、調教具合をご覧になりたいの ですか？ それでは、どうぞ、こちらに…","Young man, would you like to see how you are doing? Well, then, please, come in here…","Joven, ¿quieres ver cómo estás? Bueno, entonces, por favor, entra…"
-"Ishihara Senju (talking)","やあ、悪司。","Hi, Akuji.","Hola, Akuji."
-"Yamamoto Akuji (talking)","おう、千手。 どうした？ 買い食いの帰りか？","Oh, Senju. What's up? You back from a shopping spree?","Oh, Senju. ¿Qué pasa? ¿Vuelves de un viaje de compras?"
-"Ishihara Senju (talking)","退屈だったから、巣を張ってたのさ。","I was bored, so I put up a nest.","Estaba aburrido, así que puse un nido."
-"Yamamoto Akuji (talking)","巣？","Nest?","¿Nido?"
-"Ishihara Senju (talking)","そう……こうしてじっと、行き交う人を 見てるのは、ボクにとって巣作りだよ。","So ……, staring at people coming and going like this is nesting for me.","Así que…… este tipo de mirar a la gente mientras va y viene es un nido para mí."
-"Yamamoto Akuji (talking)","ああ…… 蜘蛛の巣な。","Yeah,…… spiderweb.","Oh,…… tela de araña."
-"Ishihara Senju (talking)","フフフ。
+__system__??,},,
+Tamanegi (talking),若、調教具合をご覧になりたいの ですか？ それでは、どうぞ、こちらに…,"Young man, would you like to see how you are doing? Well, then, please, come in here…","Joven, ¿quieres ver cómo estás? Bueno, entonces, por favor, entra…"
+Ishihara Senju (talking),やあ、悪司。,"Hi, Akuji.","Hola, Akuji."
+Yamamoto Akuji (talking),おう、千手。 どうした？ 買い食いの帰りか？,"Oh, Senju. What's up? You back from a shopping spree?","Oh, Senju. ¿Qué pasa? ¿Vuelves de un viaje de compras?"
+Ishihara Senju (talking),退屈だったから、巣を張ってたのさ。,"I was bored, so I put up a nest.","Estaba aburrido, así que puse un nido."
+Yamamoto Akuji (talking),巣？,Nest?,¿Nido?
+Ishihara Senju (talking),そう……こうしてじっと、行き交う人を 見てるのは、ボクにとって巣作りだよ。,"So ……, staring at people coming and going like this is nesting for me.",Así que…… este tipo de mirar a la gente mientras va y viene es un nido para mí.
+Yamamoto Akuji (talking),ああ…… 蜘蛛の巣な。,"Yeah,…… spiderweb.","Oh,…… tela de araña."
+Ishihara Senju (talking),"フフフ。
 そこでさー、悪司。 その巣にひっかかりそーな女が、 向こうからきてるんだ。
 いいかな？","Hmph.
 So, Akuji. There's a girl over there who's about to get caught in that nest.
 May I?","Hmph.
 Entonces, Akuji. Hay una mujer allí que está a punto de quedar atrapada en ese nido.
  ¿Puedo?"
-"Yamamoto Akuji (talking)","いいけど、大騒ぎになるような事は すんじゃねーぞ。","Okay, but don't do anything that would cause a fuss.","Bien, pero no hagas nada que provoque un escándalo."
-"Ishihara Senju (talking)","ボクを誰だと思ってるのさ。","Who do you think I am?","¿Quién crees que soy?"
-"narrator","千手の言葉通り、角を曲がってこちらにくる 女がいた。 平凡な主婦に見える。
+Yamamoto Akuji (talking),いいけど、大騒ぎになるような事は すんじゃねーぞ。,"Okay, but don't do anything that would cause a fuss.","Bien, pero no hagas nada que provoque un escándalo."
+Ishihara Senju (talking),ボクを誰だと思ってるのさ。,Who do you think I am?,¿Quién crees que soy?
+narrator,"千手の言葉通り、角を曲がってこちらにくる 女がいた。 平凡な主婦に見える。
 千手は子供の顔をして、 その女に近づいていった。","Just as Senju said, there was a woman coming around the corner toward us. She looked like an ordinary housewife.
 Senju approached the woman with the face of a child.","Como dijo Senju, había una mujer que venía hacia nosotros por la esquina. Parece un ama de casa normal y corriente.
 Senju se acercó a la mujer con cara de niño."
-"Ishihara Senju (talking)","お母さん！！","Mother!","¡¡Madre!!"
-"wakaishufu (talking)","えっ…？","Eh…?","¿Eh?"
-"Ishihara Senju (talking)","あ…ごめんなさい… 間違えちゃった…
+Ishihara Senju (talking),お母さん！！,Mother!,¡¡Madre!!
+wakaishufu (talking),えっ…？,Eh…?,¿Eh?
+Ishihara Senju (talking),"あ…ごめんなさい… 間違えちゃった…
 だって…おばさん… ボクの死んだお母さん、 そっくりなんだもん…","I'm sorry, I made a mistake.
 Because you look just like my dead mother.","Lo siento, me he equivocado.
 Porque tú… te pareces a mi madre muerta."
-"wakaishufu (talking)","まあ……","Well, ……","Bueno, ……"
-"Ishihara Senju (talking)","あ…でも、おばさんの方が、 お母さんより綺麗だよ。
+wakaishufu (talking),まあ……,"Well, ……","Bueno, ……"
+Ishihara Senju (talking),"あ…でも、おばさんの方が、 お母さんより綺麗だよ。
 それに若いから… おばさんなんて言っちゃ失礼だね。 おねーさんだ。","Oh…but you are more beautiful than your mother.
 And she's younger, so… It's rude to call her aunt. She's an old lady.","Ah… pero tu tía es más guapa que tu madre.
 Y es más joven, así que… es grosero llamarla tía. Es una dama."
-"wakaishufu (talking)","もう、おとなをからかってー。","Oh, you've got to be kidding me.","Ya me estoy burlando de los adultos."
-"Ishihara Senju (talking)","そんな事ないよ…","That's not true…","Eso no es cierto…"
-"wakaishufu (talking)","……え？","…… What?","…… ¿Qué?"
-"Ishihara Senju (talking)","おねーさん、とっても魅力的だよ。 ボク、どきどきしてきた。","You are very attractive, lady. I'm getting nervous.","Es usted muy atractiva, señora. Estoy empezando a ponerme nervioso."
-"wakaishufu (talking)","まあ……","Well, ……","Bueno, ……"
-"Ishihara Senju (talking)","ホント、素人は騙されやすくって ラクだなー、オトすのも。","Amateurs are so gullible and easy to fool.","Los aficionados son muy fáciles de engañar, y es muy fácil ganárselos."
-"Yamamoto Akuji (talking)","口八丁手八丁ってのは、 この事かって塩梅だったな。","I was surprised to hear that they were talking about this.","El “ocho hablando, ocho haciendo” era un poco así, ¿no?"
-"Ishihara Senju (talking)","でも、本人が望んで躰を売る事 決めたんだ。","But he decided to sell his body because he wanted to.","Pero decidió vender su cuerpo porque quería hacerlo."
-"Yamamoto Akuji (talking)","ああ、そーだ。","Oh, yeah.","Oh, sí."
-"Ishihara Senju (talking)","悪司、あの人の調教、 ボクにさせてよね。 その為に動いたんだからさ。","Akuji, please let me train her. That's what I'm working for.","Akuji, déjame entrenarla. Para eso estoy trabajando."
-"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
-"Ishihara Senju (talking)","クスっ… しばらくは退屈しなくてすみそーだな… クスクスっ…","Kuskus… I guess I won't have to be bored for a while… Kuskus…","Kus… no te aburrirás por un tiempo… kus… kus… kus…"
-"Yamamoto Akuji (thinking)","おとろしー、ガキだ……","Otoshi, it's a kid……","Otoshi, es un niño……"
-"Kohara Koharu (talking)","あら、若旦那… ごきげんよう。","Oh, young master… How are you?","Oh, joven maestro… ¿cómo estás?"
-"Yamamoto Akuji (talking)","おう、小春さん。 どーした、こんなとこで。","Hey, Koharu. What's up, here.","Oh, Koharu. Qué pasa, aquí."
-"Kohara Koharu (talking)","退屈だったので、 何かありませんかしら…と…
+wakaishufu (talking),もう、おとなをからかってー。,"Oh, you've got to be kidding me.",Ya me estoy burlando de los adultos.
+Ishihara Senju (talking),そんな事ないよ…,That's not true…,Eso no es cierto…
+wakaishufu (talking),……え？,…… What?,…… ¿Qué?
+Ishihara Senju (talking),おねーさん、とっても魅力的だよ。 ボク、どきどきしてきた。,"You are very attractive, lady. I'm getting nervous.","Es usted muy atractiva, señora. Estoy empezando a ponerme nervioso."
+wakaishufu (talking),まあ……,"Well, ……","Bueno, ……"
+Ishihara Senju (talking),ホント、素人は騙されやすくって ラクだなー、オトすのも。,Amateurs are so gullible and easy to fool.,"Los aficionados son muy fáciles de engañar, y es muy fácil ganárselos."
+Yamamoto Akuji (talking),口八丁手八丁ってのは、 この事かって塩梅だったな。,I was surprised to hear that they were talking about this.,"El “ocho hablando, ocho haciendo” era un poco así, ¿no?"
+Ishihara Senju (talking),でも、本人が望んで躰を売る事 決めたんだ。,But he decided to sell his body because he wanted to.,Pero decidió vender su cuerpo porque quería hacerlo.
+Yamamoto Akuji (talking),ああ、そーだ。,"Oh, yeah.","Oh, sí."
+Ishihara Senju (talking),悪司、あの人の調教、 ボクにさせてよね。 その為に動いたんだからさ。,"Akuji, please let me train her. That's what I'm working for.","Akuji, déjame entrenarla. Para eso estoy trabajando."
+Yamamoto Akuji (talking),ああ。,Oh.,Oh.
+Ishihara Senju (talking),クスっ… しばらくは退屈しなくてすみそーだな… クスクスっ…,Kuskus… I guess I won't have to be bored for a while… Kuskus…,Kus… no te aburrirás por un tiempo… kus… kus… kus…
+Yamamoto Akuji (thinking),おとろしー、ガキだ……,"Otoshi, it's a kid……","Otoshi, es un niño……"
+Kohara Koharu (talking),あら、若旦那… ごきげんよう。,"Oh, young master… How are you?","Oh, joven maestro… ¿cómo estás?"
+Yamamoto Akuji (talking),おう、小春さん。 どーした、こんなとこで。,"Hey, Koharu. What's up, here.","Oh, Koharu. Qué pasa, aquí."
+Kohara Koharu (talking),"退屈だったので、 何かありませんかしら…と…
 あら、ステキなホテル… 若旦那ご一緒しません？","I was bored, so I thought I'd see if there was anything…
 Oh, what a lovely hotel… Would you like to join us, young master?","Estaba aburrido, así que pensé en ver si había algo…
 Bueno, es un buen hotel… ¿por qué no viene conmigo, joven maestro?"
-"Yamamoto Akuji (talking)","何言ってんだい。 あんた、ユリでタチだろ？","What are you talking about? You're a lily-livered man, aren't you?","¿De qué estás hablando? Eres un trotamundos, ¿no?"
-"Kohara Koharu (talking)","でも、殿方を調教する事は 出来ますわよ？","But I can train you, can't I?","Pero puedo entrenarlo, mi señor."
-"Yamamoto Akuji (talking)","いやいや。 その言葉で、愚息も昇天だ。","No, no, no. With those words, the foolishness is ascending.","No, no. Con esas palabras, la locura es ascendente."
-"Kohara Koharu (talking)","ふふ…お上手ですこと。
+Yamamoto Akuji (talking),何言ってんだい。 あんた、ユリでタチだろ？,"What are you talking about? You're a lily-livered man, aren't you?","¿De qué estás hablando? Eres un trotamundos, ¿no?"
+Kohara Koharu (talking),でも、殿方を調教する事は 出来ますわよ？,"But I can train you, can't I?","Pero puedo entrenarlo, mi señor."
+Yamamoto Akuji (talking),いやいや。 その言葉で、愚息も昇天だ。,"No, no, no. With those words, the foolishness is ascending.","No, no. Con esas palabras, la locura es ascendente."
+Kohara Koharu (talking),"ふふ…お上手ですこと。
 あら…ちょっと失礼。","Hmmm…you're good at that.
 Oh…excuse me.","Hmm… eres muy bueno.
 Oh… perdón."
-"narrator","小春はそう言うと、今すれ違ったばかりの 女子校生の後ろに音もなく近寄った。
+narrator,"小春はそう言うと、今すれ違ったばかりの 女子校生の後ろに音もなく近寄った。
 そして、白い布を出すと、それで そっと、娘の口を覆う。
 娘は躰を一度だけびくりとさせ、 小春の胸の中に崩れ落ちた。
 眠っている。","Saying this, Koharu approached noiselessly behind the schoolgirl he had just passed.
@@ -296,30 +296,30 @@ She is sleeping.","Diciendo esto, Koharu se acercó sin hacer ruido detrás de l
 Luego, sacó un paño Haku y cubrió suavemente la boca de la chica con él.
 El cuerpo de la chica se sacudió una vez y se desplomó en el pecho de Koharu.
 Dormir."
-"Kohara Koharu (talking)","うふふ……","Ufufu: ……","Ufufu……"
-"Yamamoto Akuji (talking)","この匂い… クロロフォルムか。","This smell… Chloroform.","Este olor… Cloroformo."
-"Kohara Koharu (talking)","ええ。 だって…可愛らしい蝶だったん ですもの。
+Kohara Koharu (talking),うふふ……,Ufufu: ……,Ufufu……
+Yamamoto Akuji (talking),この匂い… クロロフォルムか。,This smell… Chloroform.,Este olor… Cloroformo.
+Kohara Koharu (talking),"ええ。 だって…可愛らしい蝶だったん ですもの。
 羽を傷つけないように捕獲するのは、 基本でしょう？","Yes, because… it was a pretty butterfly. Because… it was a lovely butterfly.
 It's a basic rule to capture them so as not to damage their wings, right?","Sí, porque… Porque… era una mariposa encantadora.
 Es una regla básica capturarlos para no dañar sus alas, ¿no?"
-"Yamamoto Akuji (talking)","基本ねぇ……","Basic hey ……","Basic hey ……"
-"Kohara Koharu (talking)","それでは、ごきげんよう。 私、先に帰らせて頂きますわ。","Well, good day to you. I'll go home first.","Bueno, buen día para ti. Me iré a casa primero."
-"Yamamoto Akuji (talking)","おい、その娘……","Hey, that girl ……","Hey, esa chica: ……"
-"Kohara Koharu (talking)","お持ち帰り…… ふふ…ふふふ……","Takeaway:…… hmmm… hmmm… hmmm… ……","Para llevar:…… hmmm… hmmm… hmmm… ……"
-"narrator","小春は嬉しそうに両腕で娘を抱え、 歩き去った。","Koharu happily took her daughter under both arms and walked away.","Koharu se alejó felizmente, sujetando a su hija por ambos brazos."
-"Yamamoto Akuji (talking)","後の処理をするこっちの事も考えろよ… これだけから、キレ系は……","Think about the rest of us who have to deal with it afterwards… From this, the sharpest type is ……","Piensa en el resto de los que tenemos que lidiar con ello después… Sólo con esto, el tipo cabreado se puede encontrar en ……"
-"Yamamoto Akuji (thinking)","みんな、ちゃんとやってるかな…","I hope I'm doing it right, guys…","Chicos, espero estar haciéndolo bien…"
-"narrator","Ａの方に、女が表示されています。 （名前　S名前　ＳＰ　SＳＰ番号）","A, and the woman is shown. (Name S Name SP SSP No.)","A, y se muestra una mujer. (Nombre S Nombre SP Número SSP)"
-"Tamanegi (talking)","これは、若。 見回りお疲れさまです。
+Yamamoto Akuji (talking),基本ねぇ……,Basic hey ……,Basic hey ……
+Kohara Koharu (talking),それでは、ごきげんよう。 私、先に帰らせて頂きますわ。,"Well, good day to you. I'll go home first.","Bueno, buen día para ti. Me iré a casa primero."
+Yamamoto Akuji (talking),おい、その娘……,"Hey, that girl ……","Hey, esa chica: ……"
+Kohara Koharu (talking),お持ち帰り…… ふふ…ふふふ……,Takeaway:…… hmmm… hmmm… hmmm… ……,Para llevar:…… hmmm… hmmm… hmmm… ……
+narrator,小春は嬉しそうに両腕で娘を抱え、 歩き去った。,Koharu happily took her daughter under both arms and walked away.,"Koharu se alejó felizmente, sujetando a su hija por ambos brazos."
+Yamamoto Akuji (talking),後の処理をするこっちの事も考えろよ… これだけから、キレ系は……,"Think about the rest of us who have to deal with it afterwards… From this, the sharpest type is ……","Piensa en el resto de los que tenemos que lidiar con ello después… Sólo con esto, el tipo cabreado se puede encontrar en ……"
+Yamamoto Akuji (thinking),みんな、ちゃんとやってるかな…,"I hope I'm doing it right, guys…","Chicos, espero estar haciéndolo bien…"
+narrator,Ａの方に、女が表示されています。 （名前　S名前　ＳＰ　SＳＰ番号）,"A, and the woman is shown. (Name S Name SP SSP No.)","A, y se muestra una mujer. (Nombre S Nombre SP Número SSP)"
+Tamanegi (talking),"これは、若。 見回りお疲れさまです。
 今は、これを調教中です。 もう少し時間はかかりますが…
 立派な娼婦にしあげますよ。 もう少しお待ちを。","This is young. Thanks for looking around.
 I am training this now. It will take a little more time, but…
 I'll turn you into a fine whore. Please wait a little longer.","Esto es joven. Buen trabajo en las rondas.
 Estamos entrenando esto ahora. Llevará un poco más de tiempo, pero…
 La convertiré en una buena puta. Por favor, espere un poco más."
-"Yamamoto Akuji (thinking)","みんな、ちゃんとやってるかな…","I hope I'm doing it right, guys…","Chicos, espero estar haciéndolo bien…"
-"narrator","Ａの方に、女が表示されています。 （名前　S名前　ＳＰ　SＳＰ番号）","A, and the woman is shown. (Name S Name SP SSP No.)","A, y se muestra una mujer. (Nombre S Nombre SP Número SSP)"
-"Kohara Koharu (talking)","あら、若旦那。 見回りお疲れさまです。
+Yamamoto Akuji (thinking),みんな、ちゃんとやってるかな…,"I hope I'm doing it right, guys…","Chicos, espero estar haciéndolo bien…"
+narrator,Ａの方に、女が表示されています。 （名前　S名前　ＳＰ　SＳＰ番号）,"A, and the woman is shown. (Name S Name SP SSP No.)","A, y se muestra una mujer. (Nombre S Nombre SP Número SSP)"
+Kohara Koharu (talking),"あら、若旦那。 見回りお疲れさまです。
 今は…この子と楽しく過ごして いますわ。
 だけど、もう少し…かしら。 もう少し、この子と楽しみたいの。 よろしいですかしら？
 もう少ししたら、お店に出しても 恥ずかしくない子になるから…
@@ -332,9 +332,9 @@ Estoy… pasando un buen rato con ella.
 Pero quizás un poco más. Me gustaría divertirme un poco más con ella. ¿Puedo?
 Dentro de poco, estará lista para la tienda.
 Por favor, espere por mí, joven maestro…"
-"Yamamoto Akuji (thinking)","みんな、ちゃんとやってるかな…","I hope I'm doing it right, guys…","Chicos, espero estar haciéndolo bien…"
-"narrator","Ａの方に、女が表示されています。 （名前　S名前　ＳＰ　SＳＰ番号）","A, and the woman is shown. (Name S Name SP SSP No.)","A, y se muestra una mujer. (Nombre S Nombre SP Número SSP)"
-"Ishihara Senju (talking)","やあ、悪司。 元気？
+Yamamoto Akuji (thinking),みんな、ちゃんとやってるかな…,"I hope I'm doing it right, guys…","Chicos, espero estar haciéndolo bien…"
+narrator,Ａの方に、女が表示されています。 （名前　S名前　ＳＰ　SＳＰ番号）,"A, and the woman is shown. (Name S Name SP SSP No.)","A, y se muestra una mujer. (Nombre S Nombre SP Número SSP)"
+Ishihara Senju (talking),"やあ、悪司。 元気？
 あ、この子？ お店に出すには、まだまだだよ。
 もう少し待っててね。 クククッ… スゴイ子にしちゃうから…
 あー楽しいなー。 ふふふふっ。","Hi, Akuji. How are you?
@@ -344,109 +344,109 @@ This is fun. Hmmm…","Hola, Akuji. ¿Cómo estás?
 Oh, ¿esta chica? Todavía no está listo para la tienda.
 Espera un poco más. La haré impresionante…
 Oh, esto es divertido. Hmm, hmm, hmm."
-"Yamamoto Akuji (thinking)","んー…？ 誰もいないのかな……","Hmm…? Is there anyone here: ……","¿Hmm…? ¿Hay alguien aquí? ……"
-"narrator","そう思いながら、奥を見ると、 そこから小さな影が出てきた。","With this in mind, I looked toward the back and saw a small shadow emerge from there.","Con eso en mente, miré a la parte de atrás y vi una pequeña sombra emerger de allí."
-"Yamamoto Akuji (talking)","え……","Eh ……","Eh ……"
-"Takega Satsu (talking)","ああ、悪司。 見回りか？","Ah, Akuji. Making the rounds?","Ah, Akuji. ¿Haciendo las rondas?"
-"Yamamoto Akuji (talking)","どーして、さっちゃんが……
+Yamamoto Akuji (thinking),んー…？ 誰もいないのかな……,Hmm…? Is there anyone here: ……,¿Hmm…? ¿Hay alguien aquí? ……
+narrator,そう思いながら、奥を見ると、 そこから小さな影が出てきた。,"With this in mind, I looked toward the back and saw a small shadow emerge from there.","Con eso en mente, miré a la parte de atrás y vi una pequeña sombra emerger de allí."
+Yamamoto Akuji (talking),え……,Eh ……,Eh ……
+Takega Satsu (talking),ああ、悪司。 見回りか？,"Ah, Akuji. Making the rounds?","Ah, Akuji. ¿Haciendo las rondas?"
+Yamamoto Akuji (talking),"どーして、さっちゃんが……
 ま、まさか、タマネギか！？ それとも、小春さんか？ いや、千手か！？","Why, Sacchan is ……
 No way, is it Tamanegi! Or is it Koharu? No, Senju!","Por qué es Sacchan ……
  ¿Es Tamanegi? ¿O es Koharu? ¡No, es Senju!"
-"Takega Satsu (talking)","何を慌てている。 私は、見学していただけだ。","What's the rush? I was just observing.","¿Cuál es la prisa? Sólo estaba observando."
-"Yamamoto Akuji (talking)","見学……","Visit ……","Visite ……"
-"Takega Satsu (talking)","ああ。","Oh.","Oh."
-"Yamamoto Akuji (talking)","そうか…","Well…","Bueno…"
-"__system__??","{★愛 = 5:","",""
-"Takega Satsu (talking)","まったく…妻を子供扱いするとは。","Totally….you treat my wife like a child.","Totalmente… tratar a mi esposa como una niña."
-"__system__??","}","",""
-"__system__??","{★愛 \ 5:","",""
-"Takega Satsu (talking)","まったく…叔母を子供扱いするとは。","Totally…you treat your aunt like a child.","No sé… en absoluto… ¿cómo pudiste tratar a mi tía como una niña?"
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","お前さんなー……","You, you, you… ……","Ya sabes quién: ……"
-"narrator","悪司が調教の館に現れた。","Akuji showed up at the training hall.","Akuji apareció en la sala de entrenamiento."
-"Tamanegi (talking)","若、お待ちしておりました。 ご指示を御願いいたします。","Young, we have been waiting for you. Please give us your instructions.","Joven, te hemos estado esperando. Por favor, denos sus instrucciones."
-"Tamanegi (talking)","明日は、若が来られる日ですね… 最後の仕上げといきますか。","Tomorrow is the day when young man can come… shall we finish up?","Mañana es el día en que los jóvenes pueden venir… ¿terminamos?"
-"__system__??","{RND = 1:","",""
-"Tamanegi (talking)","それでは、行くとしますか…","Well, let's get going…","Vamos entonces…"
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"Tamanegi (talking)","これでうまくいけば…","If this works…","Si esto funciona…"
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"Ishihara Senju (talking)","くすっ…どうしよっかなー。 楽しみー。","Darn…what should I do? I'm looking forward to it.","Maldita sea… ¿qué debo hacer? Estoy deseando que llegue."
-"__system__??","}","",""
-"__system__??","{RND = 4:","",""
-"Ishihara Senju (talking)","色々試してみたいけど、仕上げだから、 気も抜けないや。","I'd like to try out a lot of things, but I can't be too careful because it's the finishing touches.","Me gustaría probar cosas diferentes, pero son los toques finales, así que no puedo ser demasiado exigente."
-"__system__??","}","",""
-"__system__??","{RND = 5:","",""
-"Kohara Koharu (talking)","くすっ…くすくすくすっ……","Dusk…dusk…dusk…dusk…dusk…dusk…dusk… ……","Smooch…smooch…smooch…smooch… ……"
-"__system__??","}","",""
-"__system__??","{RND = 6:","",""
-"Kohara Koharu (talking)","壊れてしまったら、ごめんなさいね… その時は、その子に素質がなかったって 事だから……","I'm sorry if it breaks… then it means she didn't have the right qualities……","Lo siento si se rompe… entonces significa que no tenía las cualidades adecuadas……"
-"__system__??","}","",""
-"__system__??","{S調教レベル = 1:","",""
-" (talking)","よくがんばりましたね。 あなたは、本日より娼婦として 店に立つ事が出来ますよ。","Good job, Tane. You can stand in the store as a prostitute from today.","Lo has hecho bien, Tane. A partir de hoy puedes ponerte en la tienda como prostituta."
-"__system__??","}","",""
-"__system__??","{S調教レベル = 2:","",""
-" (talking)","どうです、生まれ変わった自分は？
+Takega Satsu (talking),何を慌てている。 私は、見学していただけだ。,What's the rush? I was just observing.,¿Cuál es la prisa? Sólo estaba observando.
+Yamamoto Akuji (talking),見学……,Visit ……,Visite ……
+Takega Satsu (talking),ああ。,Oh.,Oh.
+Yamamoto Akuji (talking),そうか…,Well…,Bueno…
+__system__??,{★愛 = 5:,,
+Takega Satsu (talking),まったく…妻を子供扱いするとは。,Totally….you treat my wife like a child.,Totalmente… tratar a mi esposa como una niña.
+__system__??,},,
+__system__??,{★愛 \ 5:,,
+Takega Satsu (talking),まったく…叔母を子供扱いするとは。,Totally…you treat your aunt like a child.,No sé… en absoluto… ¿cómo pudiste tratar a mi tía como una niña?
+__system__??,},,
+Yamamoto Akuji (talking),お前さんなー……,"You, you, you… ……",Ya sabes quién: ……
+narrator,悪司が調教の館に現れた。,Akuji showed up at the training hall.,Akuji apareció en la sala de entrenamiento.
+Tamanegi (talking),若、お待ちしておりました。 ご指示を御願いいたします。,"Young, we have been waiting for you. Please give us your instructions.","Joven, te hemos estado esperando. Por favor, denos sus instrucciones."
+Tamanegi (talking),明日は、若が来られる日ですね… 最後の仕上げといきますか。,Tomorrow is the day when young man can come… shall we finish up?,Mañana es el día en que los jóvenes pueden venir… ¿terminamos?
+__system__??,{RND = 1:,,
+Tamanegi (talking),それでは、行くとしますか…,"Well, let's get going…",Vamos entonces…
+__system__??,},,
+__system__??,{RND = 2:,,
+Tamanegi (talking),これでうまくいけば…,If this works…,Si esto funciona…
+__system__??,},,
+__system__??,{RND = 3:,,
+Ishihara Senju (talking),くすっ…どうしよっかなー。 楽しみー。,Darn…what should I do? I'm looking forward to it.,Maldita sea… ¿qué debo hacer? Estoy deseando que llegue.
+__system__??,},,
+__system__??,{RND = 4:,,
+Ishihara Senju (talking),色々試してみたいけど、仕上げだから、 気も抜けないや。,"I'd like to try out a lot of things, but I can't be too careful because it's the finishing touches.","Me gustaría probar cosas diferentes, pero son los toques finales, así que no puedo ser demasiado exigente."
+__system__??,},,
+__system__??,{RND = 5:,,
+Kohara Koharu (talking),くすっ…くすくすくすっ……,Dusk…dusk…dusk…dusk…dusk…dusk…dusk… ……,Smooch…smooch…smooch…smooch… ……
+__system__??,},,
+__system__??,{RND = 6:,,
+Kohara Koharu (talking),壊れてしまったら、ごめんなさいね… その時は、その子に素質がなかったって 事だから……,I'm sorry if it breaks… then it means she didn't have the right qualities……,Lo siento si se rompe… entonces significa que no tenía las cualidades adecuadas……
+__system__??,},,
+__system__??,{S調教レベル = 1:,,
+ (talking),よくがんばりましたね。 あなたは、本日より娼婦として 店に立つ事が出来ますよ。,"Good job, Tane. You can stand in the store as a prostitute from today.","Lo has hecho bien, Tane. A partir de hoy puedes ponerte en la tienda como prostituta."
+__system__??,},,
+__system__??,{S調教レベル = 2:,,
+ (talking),"どうです、生まれ変わった自分は？
 あなたは、本日より上級娼婦として お客様に最高のご奉仕が出来る実力を 身につけました。","How do you feel about your new life?
 As of today, you have acquired the ability to serve our guests to the best of your ability as a superior prostitute.","¿Cómo te sientes con tu nueva vida?
 A partir de hoy, has adquirido la capacidad de servir a nuestros huéspedes lo mejor posible como prostituta mayor."
-"__system__??","}","",""
-"__system__??","{S調教レベル = 3:","",""
-" (talking)","素晴らしい。 もう教える事は何もありません。
+__system__??,},,
+__system__??,{S調教レベル = 3:,,
+ (talking),"素晴らしい。 もう教える事は何もありません。
 あらゆる嗜好のお客様に その肉体は答える事が出来るでしょう。","Excellent. There is nothing more to teach.
 The body will be able to answer to all tastes.","Excelente. No hay nada más que enseñar.
 El cuerpo podrá responder a todos los gustos."
-"__system__??","}","",""
-" (talking)","…………………","…………………","…………………"
-" (talking)","を 解放するのですね。","You are going to release the","Usted libera el"
-"__system__??","{S売り回数 > 100:","",""
-" (talking)","そうですね、もう充分働いて もらったのでいいでしょう。","Yes, you have already worked hard enough.","Sí, ya has trabajado bastante."
-"__system__??","}","",""
-"__system__??","{S売り回数 = 0:","",""
-" (talking)","全然、稼いでおりませんが…… いたしかたありません。","We are not making any money at all, but…… we have to.","No hemos ganado nada de dinero…… Tuvimos que hacerlo."
-"__system__??","}","",""
-"narrator","は、 その日のうちに調教の館から解放された。","was released from the training hall that day.","fue liberado de la sala de entrenamiento más tarde ese mismo día."
-" (talking)","を 売却されるのですね。
+__system__??,},,
+ (talking),…………………,…………………,…………………
+ (talking),を 解放するのですね。,You are going to release the,Usted libera el
+__system__??,{S売り回数 > 100:,,
+ (talking),そうですね、もう充分働いて もらったのでいいでしょう。,"Yes, you have already worked hard enough.","Sí, ya has trabajado bastante."
+__system__??,},,
+__system__??,{S売り回数 = 0:,,
+ (talking),全然、稼いでおりませんが…… いたしかたありません。,"We are not making any money at all, but…… we have to.",No hemos ganado nada de dinero…… Tuvimos que hacerlo.
+__system__??,},,
+narrator,は、 その日のうちに調教の館から解放された。,was released from the training hall that day.,fue liberado de la sala de entrenamiento más tarde ese mismo día.
+ (talking),"を 売却されるのですね。
 ヘンリー殿が、本国のご友人に沢山注文を 受けているそうなので、いくらでも 買い取ると仰っています。
 一人、５００万円です。 売られますか？","I understand that Mr. Henry has received many orders from his friends in his home country.
 Mr. Henry has received many orders from his friends in his home country, and he is willing to buy them at any price.
 5,000,000 yen each. Will you sell them?","Estás vendiendo el Henry.
 El Sr. Henry dice que ha recibido muchos pedidos de amigos de su país, por lo que está dispuesto a comprarlos a cualquier precio.
 5 millones de yenes cada uno. ¿Los venderás?"
-"__system__??","{☆立候補 = 2:","",""
-"__system__??","}","",""
-"__system__??","{☆立候補 = 1:","",""
-"__system__??","}","",""
-"Tamanegi (talking)","お邪魔します…","Sorry to bother you…","Siento molestarle…"
-"Yamamoto Akuji (talking)","おう、どうした、タマネギ？","Oh, what's up, Tamanegi?","¿Qué pasa, Tamanegi?"
-"Tamanegi (talking)","皆様、頑張ってらっしゃるところにお邪魔 いたしましたのは、わたくしもご協力 させて頂ければと思いまして…","I am so glad that I could join you in your endeavors…","Lamento haberlos molestado, pero pensé que me gustaría ayudar…"
-"Yamamoto Akuji (talking)","協力？ 一体、何が出来るってんだ？","Cooperation? What the hell can we do?","¿Cooperación? ¿Qué demonios podemos hacer?"
-"Tamanegi (talking)","売春宿にてキャンペーンを企画して おります。","We are planning a campaign at a brothel.","La campaña se organiza en burdeles."
-"__system__??","{☆立候補 = 1:","",""
-"Tamanegi (talking)","夕子様","Dear Yuuko.","Querida Yuuko."
-"__system__??","}","",""
-"__system__??","{☆立候補 = 2:","",""
-"Tamanegi (talking)","殺様","Dear Satsu.","Querido Satsu."
-"__system__??","}","",""
-"Tamanegi (talking)","のブロマイドをお客様に 配ろうと思いまして。","I was thinking of handing out bromides of","Pensé en repartir bromuros de lo siguiente a mis clientes."
-"Yamamoto Akuji (talking)","そんなので票になるのか？","Is that going to get you votes?","¿Cuenta eso para los votos?"
-"Tamanegi (talking)","なりますよ… お客様は、可愛い女の子が好きですから。","It will be… Customers like pretty girls.","Será… a los clientes les gustan las chicas guapas."
-"Yamamoto Akuji (talking)","ふーん……まあ任せる。","Hmmm…… well leave it to me.","Hmmm…… bueno déjalo en mis manos."
-"Tamanegi (talking)","ありがとうございます。 ではさっそく……","Thank you very much. Now let's get started: ……","Gracias. Ahora sigamos con ello: ……"
-"narrator","悪司は新聞を読んでいる。","Akuji is reading the newspaper.","Akuji lee el periódico."
-"Yamamoto Akuji (talking)","うーん……女子プロ野球かー…","Hmmm…… women's professional baseball…","Hmmm…… Béisbol profesional femenino…"
-"Seinendan Jyoshi (talking)","悪司さーん、お客様です。 お通ししていいですか？","Akuji, you have a visitor. May I let you through?","Akuji, tienes una visita. ¿Puedo dejarte pasar?"
-"Yamamoto Akuji (talking)","誰だ？","Who is it?","¿Quién es usted?"
-"Seinendan Jyoshi (talking)","女性です。 会えばわかると仰ってますー。","She is a woman. She says you will understand when you meet her.","Mujer. Dice que lo entenderá cuando te conozca."
-"Yamamoto Akuji (talking)","んー……保険の勧誘じゃなかったら 入ってもらってくれ。","Hmmm……… If it's not an insurance solicitation, get them to join.","Hmmm……… Si no es una solicitud de seguro, haz que se afilien."
-"Seinendan Jyoshi (talking)","はーい。","Hai.","Hai."
-"Kohara Koharu (talking)","こんにちわ、若旦那。","Hello, young master.","Hola, joven maestro."
-"Yamamoto Akuji (talking)","あんたは、小春さん！？ 確か、タマネギと一緒にきた、調教師の…","Are you Koharu? I think you're the trainer who came with Tamanegi…","¿Eres Koharu? Creo que eres el entrenador que vino con Tamanegi…"
-"Kohara Koharu (talking)","調教師は、私のもうひとつの顔。 今は、ビジネスクリエイターですわ。","A trainer is my other face. Now I'm a business creator.","El entrenador es mi otra cara. Ahora soy un creador de negocios."
-"Yamamoto Akuji (talking)","はぁぁぁ？？？","Huh?","¿Eh?"
-"Kohara Koharu (talking)","若旦那にフラれてしまい、失業してから、 私、Ｗアメリカに遊学いたしましたの。
+__system__??,{☆立候補 = 2:,,
+__system__??,},,
+__system__??,{☆立候補 = 1:,,
+__system__??,},,
+Tamanegi (talking),お邪魔します…,Sorry to bother you…,Siento molestarle…
+Yamamoto Akuji (talking),おう、どうした、タマネギ？,"Oh, what's up, Tamanegi?","¿Qué pasa, Tamanegi?"
+Tamanegi (talking),皆様、頑張ってらっしゃるところにお邪魔 いたしましたのは、わたくしもご協力 させて頂ければと思いまして…,I am so glad that I could join you in your endeavors…,"Lamento haberlos molestado, pero pensé que me gustaría ayudar…"
+Yamamoto Akuji (talking),協力？ 一体、何が出来るってんだ？,Cooperation? What the hell can we do?,¿Cooperación? ¿Qué demonios podemos hacer?
+Tamanegi (talking),売春宿にてキャンペーンを企画して おります。,We are planning a campaign at a brothel.,La campaña se organiza en burdeles.
+__system__??,{☆立候補 = 1:,,
+Tamanegi (talking),夕子様,Dear Yuuko.,Querida Yuuko.
+__system__??,},,
+__system__??,{☆立候補 = 2:,,
+Tamanegi (talking),殺様,Dear Satsu.,Querido Satsu.
+__system__??,},,
+Tamanegi (talking),のブロマイドをお客様に 配ろうと思いまして。,I was thinking of handing out bromides of,Pensé en repartir bromuros de lo siguiente a mis clientes.
+Yamamoto Akuji (talking),そんなので票になるのか？,Is that going to get you votes?,¿Cuenta eso para los votos?
+Tamanegi (talking),なりますよ… お客様は、可愛い女の子が好きですから。,It will be… Customers like pretty girls.,Será… a los clientes les gustan las chicas guapas.
+Yamamoto Akuji (talking),ふーん……まあ任せる。,Hmmm…… well leave it to me.,Hmmm…… bueno déjalo en mis manos.
+Tamanegi (talking),ありがとうございます。 ではさっそく……,Thank you very much. Now let's get started: ……,Gracias. Ahora sigamos con ello: ……
+narrator,悪司は新聞を読んでいる。,Akuji is reading the newspaper.,Akuji lee el periódico.
+Yamamoto Akuji (talking),うーん……女子プロ野球かー…,Hmmm…… women's professional baseball…,Hmmm…… Béisbol profesional femenino…
+Seinendan Jyoshi (talking),悪司さーん、お客様です。 お通ししていいですか？,"Akuji, you have a visitor. May I let you through?","Akuji, tienes una visita. ¿Puedo dejarte pasar?"
+Yamamoto Akuji (talking),誰だ？,Who is it?,¿Quién es usted?
+Seinendan Jyoshi (talking),女性です。 会えばわかると仰ってますー。,She is a woman. She says you will understand when you meet her.,Mujer. Dice que lo entenderá cuando te conozca.
+Yamamoto Akuji (talking),んー……保険の勧誘じゃなかったら 入ってもらってくれ。,"Hmmm……… If it's not an insurance solicitation, get them to join.","Hmmm……… Si no es una solicitud de seguro, haz que se afilien."
+Seinendan Jyoshi (talking),はーい。,Hai.,Hai.
+Kohara Koharu (talking),こんにちわ、若旦那。,"Hello, young master.","Hola, joven maestro."
+Yamamoto Akuji (talking),あんたは、小春さん！？ 確か、タマネギと一緒にきた、調教師の…,Are you Koharu? I think you're the trainer who came with Tamanegi…,¿Eres Koharu? Creo que eres el entrenador que vino con Tamanegi…
+Kohara Koharu (talking),調教師は、私のもうひとつの顔。 今は、ビジネスクリエイターですわ。,A trainer is my other face. Now I'm a business creator.,El entrenador es mi otra cara. Ahora soy un creador de negocios.
+Yamamoto Akuji (talking),はぁぁぁ？？？,Huh?,¿Eh?
+Kohara Koharu (talking),"若旦那にフラれてしまい、失業してから、 私、Ｗアメリカに遊学いたしましたの。
 田舎に帰って蜜柑でも作って余生を 過ごそうかと思ったんですけどね……
 でもまあその前に、世界旅行でもして みようと思いまして…そしてＷアメリカで 素敵な勉学と遭遇いたしましたの。
 向こうの大学で、ＭＢＡ……
@@ -459,22 +459,22 @@ Pensé en volver al campo y pasar el resto de mi vida haciendo cítricos……
 Pero antes de eso, decidí viajar por el mundo… y en América me encontré con el estudio de Suteki.
 MBA en una universidad más allá de ……
 Maestro de　Negocios Máster en Administración de Empresas. He obtenido mi título."
-"Yamamoto Akuji (talking)","……それってそう簡単に 取れるものだったっけ？","…… Was that so easy to take?","…… ¿Era tan fácil de tomar?"
-"Kohara Koharu (talking)","それはもう、勉学しているのが私ですから 飛び級も何も思いのままで。","It's already me who is studying, so I can skip a grade or whatever I want.","Ya soy yo quien estudia, así que puedo saltarme las clases o lo que quiera."
-"Yamamoto Akuji (thinking)","……ちゃんと勉強して取ったのか、 それとも教授を調教して、 資格を奪い取ったのか……","Did you study hard or did you train your professor to take your credentials away from you? ……","…… ¿Has estudiado mucho o has entrenado a tu profesor para que te quite el título? ……"
-"Kohara Koharu (talking)","ちゃんと、勉強してまいりましたわよ。 教授達を調教して奪った資格では ありませんわ、若旦那。","I've studied hard. I didn't train those professors to take away your credentials, young master.","Lo he estudiado bien. No he formado a los profesores para que te quiten estas calificaciones, joven maestro."
-"Yamamoto Akuji (talking)","顔に出てたか。","Was it on your face?","¿Estaba en tu cara?"
-"Kohara Koharu (talking)","はい、くっきりと。
+Yamamoto Akuji (talking),……それってそう簡単に 取れるものだったっけ？,…… Was that so easy to take?,…… ¿Era tan fácil de tomar?
+Kohara Koharu (talking),それはもう、勉学しているのが私ですから 飛び級も何も思いのままで。,"It's already me who is studying, so I can skip a grade or whatever I want.","Ya soy yo quien estudia, así que puedo saltarme las clases o lo que quiera."
+Yamamoto Akuji (thinking),……ちゃんと勉強して取ったのか、 それとも教授を調教して、 資格を奪い取ったのか……,Did you study hard or did you train your professor to take your credentials away from you? ……,…… ¿Has estudiado mucho o has entrenado a tu profesor para que te quite el título? ……
+Kohara Koharu (talking),ちゃんと、勉強してまいりましたわよ。 教授達を調教して奪った資格では ありませんわ、若旦那。,"I've studied hard. I didn't train those professors to take away your credentials, young master.","Lo he estudiado bien. No he formado a los profesores para que te quiten estas calificaciones, joven maestro."
+Yamamoto Akuji (talking),顔に出てたか。,Was it on your face?,¿Estaba en tu cara?
+Kohara Koharu (talking),"はい、くっきりと。
 それでですね。
 娼館という非常に美味しい仕事に見向きも しない若旦那の為に、新しいビジネスを 提案に参りました。","Yes, clearly.
 And so, you see.
 I am here to propose a new business for the young master who is not interested in the very tasty business of brothels.","Sí, claramente.
 Así que, ya ves.
 Estoy aquí para proponer un nuevo negocio para el joven maestro, que no está interesado en el muy sabroso negocio de los burdeles."
-"Yamamoto Akuji (talking)","別の風俗か？ だったらいらねーよ。","Another sex industry? I don't want to be a part of it.","¿Otra industria del sexo? No quiero serlo."
-"Kohara Koharu (talking)","違いますわ。 ハンバーガーショップです。","No, sir. It's a hamburger store.","No, no lo es. Es una hamburguesería."
-"Yamamoto Akuji (talking)","ハンバーガー…… まるっこいパンに、ハンバーグ はさんだ、アレか。","Hamburger…… is a hamburger on a round bun.","Hamburger…… Una hamburguesa en un pan redondo."
-"Kohara Koharu (talking)","はい、そうです。 それですわ。
+Yamamoto Akuji (talking),別の風俗か？ だったらいらねーよ。,Another sex industry? I don't want to be a part of it.,¿Otra industria del sexo? No quiero serlo.
+Kohara Koharu (talking),違いますわ。 ハンバーガーショップです。,"No, sir. It's a hamburger store.","No, no lo es. Es una hamburguesería."
+Yamamoto Akuji (talking),ハンバーガー…… まるっこいパンに、ハンバーグ はさんだ、アレか。,Hamburger…… is a hamburger on a round bun.,Hamburger…… Una hamburguesa en un pan redondo.
+Kohara Koharu (talking),"はい、そうです。 それですわ。
 ウィミィに統治されている為、抵抗感は あっても、向こうの文化がニホンに 浸透するのは時間の問題です。
 その時、誰もが手軽に食べる事の 出来るファーストフード。
 その先駆けとなるのが、ハンバーガーだと 確信いたしましたの。
@@ -508,8 +508,8 @@ Así que nuestro primer objetivo es ……
 Un soldado masculino solitario que sabe a qué sabe una hamburguesa y que no está falto de dinero.
 Así que, joven maestro, voy a hacer un plan de gestión detallado, así que por favor hágamelo saber cuando decida construir el primer restaurante.
 Que tengas un buen día."
-"narrator","小春はいそいそと事務所を後にした。","Koharu left the office hurriedly.","Koharu salió de la oficina apresuradamente."
-"Yamamoto Akuji (talking)","………………
+narrator,小春はいそいそと事務所を後にした。,Koharu left the office hurriedly.,Koharu salió de la oficina apresuradamente.
+Yamamoto Akuji (talking),"………………
  ……て……おい……
 俺は、ハンバーガーショップを開店すると 返事してねーぞー、コラー！
  ………………
@@ -524,7 +524,7 @@ I'll give it a try and see if I get suckered. If it doesn't work………… Wel
  ………………
 Estoy bastante seguro de que estaba en problemas porque no tenía un programa de compra rentable……
 Lo probaré a ver si me engaño. Si no funciona………… Bueno, haremos que funcione……"
-"Kohara Koharu (talking)","ふ……
+Kohara Koharu (talking),"ふ……
 ふふっ…ふふふふっ… これから稼ぎますわよ。 ええ、それはもう。
 よい事？ 笑顔と愛敬。 それで客の心をガッチリ掴むのですよ。
 笑顔で、接客。 薄利多売、勝てば官軍。 よろしいですかしら？","Fu……
@@ -534,52 +534,52 @@ Smile and serve. If you win, you win. Am I right?","Huh ……
 Hmmm… hmmm… Voy a ganar mi dinero ahora. Sí, eso es.
  ¿Es bueno? Sonrisas y afecto. Así es como se gana el corazón de sus clientes.
 Sonríe y sirve. Bajos márgenes, alta calidad, todos ganan. ¿Es eso cierto?"
-"GAL Burger (talking)","はーい、店長。","Yes, manager.","Sí, gerente."
-"Kohara Koharu (talking)","よろしいですわ、いいお返事。
+GAL Burger (talking),はーい、店長。,"Yes, manager.","Sí, gerente."
+Kohara Koharu (talking),"よろしいですわ、いいお返事。
 それでは、始めますわよ。 既に、お客様が並んでいらっしゃい ますわ。","That's fine, a good reply.
 Now let's get started. There are already customers lined up.","Eso está bien, una buena respuesta.
 Ahora comencemos. Ya hay clientes alineados."
-"GAL Burger (talking)","はーい☆","Yes☆","Sí☆"
-"uimiiheishi (talking)","腐れジャップの猿マネの ハンバーガーショップか。 まさかミミズ肉とかじゃねーだろーなー。","A hamburger store that imitates the rotten Jap monkey. I hope it's not worm meat or something.","Una hamburguesería de imitación de mono japonés podrido. Espero que no sea carne de gusano o algo así."
-"GAL Burger (talking)","いらっしゃませー☆ ＧＡＬバーガーへ、よーこそー☆","Welcome to GAL Burger!☆","¡Bienvenido a GAL Burger!☆"
-"uimiiheishi (talking)","え……","Eh ……","Eh ……"
-"GAL Burger (talking)","ご注文をどうぞー☆","Please place your order.☆","Haz tu pedido.☆"
-"uimiiheishi (talking)","ハ……ハンバーガー……","Ha…… hamburger……","Ha…… hamburguesa……"
-"GAL Burger (talking)","はい、ありがとうございます。 サイドメニューなどはよろしい ですかー？","Yes, thank you. Would you like a side menu, etc.?","Sí, gracias. ¿Quiere pedir un menú de acompañamiento?"
-"uimiiheishi (talking)","あ、あの……ポテトのＬ……","Oh, that…… potato l……","Oh, que…… patata l……"
-"GAL Burger (talking)","はい、ありがとうございまーす。 Ｌポテト入りまーす。 他にはございませんかー？","Yes, thank you very much. I'll have a large potato. Is there anything else?","Sí, muchas gracias. Tomaré una patata grande. ¿Hay algo más?"
-"uimiiheishi (talking)","あの……ナゲットの９個入りと…… へ…へへへ。","That…… 9-pack of nuggets and…… hehe…hehe.","Que…… paquete de 9 nuggets y…… jeje… jeje."
-"narrator","ＧＡＬバーガーはそれなりに繁盛しそうだ。","GAL Burger is going to thrive in its own way.","GAL Burger es probable que prospere por derecho propio."
-" (talking)","若旦那。","Young Master.","Joven maestro."
-"Yamamoto Akuji (talking)","おう、小春さん。 どうした？","Oh, Koharu. What's up?","Oh, Koharu. ¿Qué pasa?"
-"Kohara Koharu (talking)","ＧＡＬバーガーの事ですけど… もっと可愛い女の子を店員として こちらに頂けませんですかしら？
+GAL Burger (talking),はーい☆,Yes☆,Sí☆
+uimiiheishi (talking),腐れジャップの猿マネの ハンバーガーショップか。 まさかミミズ肉とかじゃねーだろーなー。,A hamburger store that imitates the rotten Jap monkey. I hope it's not worm meat or something.,Una hamburguesería de imitación de mono japonés podrido. Espero que no sea carne de gusano o algo así.
+GAL Burger (talking),いらっしゃませー☆ ＧＡＬバーガーへ、よーこそー☆,Welcome to GAL Burger!☆,¡Bienvenido a GAL Burger!☆
+uimiiheishi (talking),え……,Eh ……,Eh ……
+GAL Burger (talking),ご注文をどうぞー☆,Please place your order.☆,Haz tu pedido.☆
+uimiiheishi (talking),ハ……ハンバーガー……,Ha…… hamburger……,Ha…… hamburguesa……
+GAL Burger (talking),はい、ありがとうございます。 サイドメニューなどはよろしい ですかー？,"Yes, thank you. Would you like a side menu, etc.?","Sí, gracias. ¿Quiere pedir un menú de acompañamiento?"
+uimiiheishi (talking),あ、あの……ポテトのＬ……,"Oh, that…… potato l……","Oh, que…… patata l……"
+GAL Burger (talking),はい、ありがとうございまーす。 Ｌポテト入りまーす。 他にはございませんかー？,"Yes, thank you very much. I'll have a large potato. Is there anything else?","Sí, muchas gracias. Tomaré una patata grande. ¿Hay algo más?"
+uimiiheishi (talking),あの……ナゲットの９個入りと…… へ…へへへ。,That…… 9-pack of nuggets and…… hehe…hehe.,Que…… paquete de 9 nuggets y…… jeje… jeje.
+narrator,ＧＡＬバーガーはそれなりに繁盛しそうだ。,GAL Burger is going to thrive in its own way.,GAL Burger es probable que prospere por derecho propio.
+ (talking),若旦那。,Young Master.,Joven maestro.
+Yamamoto Akuji (talking),おう、小春さん。 どうした？,"Oh, Koharu. What's up?","Oh, Koharu. ¿Qué pasa?"
+Kohara Koharu (talking),"ＧＡＬバーガーの事ですけど… もっと可愛い女の子を店員として こちらに頂けませんですかしら？
 出所はどこでもよろしいですの。 若旦那の捕虜や、部下でも… 売り上げが上がると思われますの。","I'm talking about GAL Burger… can we get a prettier girl to work here as a waitress?
 Anywhere is fine with me. Even if they are the young master's prisoners or his subordinates, it would increase our sales.","En cuanto a GAL Burger… ¿podríamos conseguir una chica más guapa para trabajar aquí como camarera?
 No nos importa de dónde vengan. Incluso los prisioneros de guerra del joven maestro o sus subordinados aumentarían nuestras ventas."
-"Yamamoto Akuji (talking)","わかった。 また選んでおくよ。","Okay, I'll choose again. I'll choose again.","Vale, voy a ir a por ello. Volveré a elegir."
-"Kohara Koharu (talking)","お願いしますね。","Please do.","Por favor."
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Yamamoto Akuji (talking)","ＧＡＬバーガーに店員が欲しいと 言っていただろ。 こいつでどうだ？","You said you wanted a clerk for GAL Burger. How about this guy?","Dijiste que querías un tendero para GAL Burger. ¿Qué te parece este tipo?"
-"Kohara Koharu (talking)","まあ、嬉しい。 この子目当てのお客様が増えると 思いますわ。
+Yamamoto Akuji (talking),わかった。 また選んでおくよ。,"Okay, I'll choose again. I'll choose again.","Vale, voy a ir a por ello. Volveré a elegir."
+Kohara Koharu (talking),お願いしますね。,Please do.,Por favor.
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Yamamoto Akuji (talking),ＧＡＬバーガーに店員が欲しいと 言っていただろ。 こいつでどうだ？,You said you wanted a clerk for GAL Burger. How about this guy?,Dijiste que querías un tendero para GAL Burger. ¿Qué te parece este tipo?
+Kohara Koharu (talking),"まあ、嬉しい。 この子目当てのお客様が増えると 思いますわ。
 ありがとうございます、若旦那。
 さあ、いらっしゃい。 これからこのマニュアルに従って、 接客をして頂きますわよ。","Well, I'm glad. I'm sure you'll get more customers for her.
 Thank you, young master.
 Come, come. From now on, you will serve our customers according to this manual.","Bueno, estoy feliz. Estoy seguro de que conseguirás más clientes para ella.
 Gracias, joven maestro.
 Ven, ven. A partir de ahora, servirás a nuestros huéspedes de acuerdo con este manual."
-"narrator","は 小春に連れていかれた。
+narrator,"は 小春に連れていかれた。
 ＧＡＬバーガーの売り上げが 少し上がりそうだ。","was taken to Koharu.
 GAL Burger's sales are about to go up a bit.","fue llevado a Koharu.
 Las ventas de GAL Burger van a subir un poco."
-"Kohara Koharu (talking)","ふう……","Fu ……","Fu ……"
-"Yamamoto Akuji (talking)","どーしたんだい、あんたが憂鬱な顔して、 ため息つくなんて。
+Kohara Koharu (talking),ふう……,Fu ……,Fu ……
+Yamamoto Akuji (talking),"どーしたんだい、あんたが憂鬱な顔して、 ため息つくなんて。
 ＧＡＬバーガーだって、 調子よさそーじゃねーか。","What's the matter with you, sighing with a gloomy look on your face?
 Even GAL Burger seems to be in a good mood.","¿Qué te pasa, que suspiras con una mirada sombría?
 Incluso GAL Burger parece estar de buen humor."
-"Kohara Koharu (talking)","これ、見て下さいな。","Here, take a look at this.","Toma, echa un vistazo a esto."
-"narrator","小春はチラシを一枚、悪司に手渡した。","Koharu handed one flyer to Akuji.","Koharu entregó un folleto a Akuji."
-"Yamamoto Akuji (talking)","なんだこりゃ…… ピーチバーガー？？？","What the heck is this…… Peach Burger?","¿Qué es esto:…… Peach Burger?"
-"Kohara Koharu (talking)","こちらのノウハウを研究し、あきらかに コピーしたＰＭのハンバーガーショップ ですわ。
+Kohara Koharu (talking),これ、見て下さいな。,"Here, take a look at this.","Toma, echa un vistazo a esto."
+narrator,小春はチラシを一枚、悪司に手渡した。,Koharu handed one flyer to Akuji.,Koharu entregó un folleto a Akuji.
+Yamamoto Akuji (talking),なんだこりゃ…… ピーチバーガー？？？,What the heck is this…… Peach Burger?,¿Qué es esto:…… Peach Burger?
+Kohara Koharu (talking),"こちらのノウハウを研究し、あきらかに コピーしたＰＭのハンバーガーショップ ですわ。
 その上、こちらより低価格で、 ニホン人向け。
 Ｗアメリカの企業と提携し、 着々と店舗を増やしておりますの。
 うちの客も、そちらに取られていまして…","It is a PM hamburger store that has studied and obviously copied our know-how.
@@ -589,168 +589,168 @@ They have taken all our customers…","Es una hamburguesería de la PM que ha es
 Además, los precios son más bajos que aquí, y están dirigidos a los japoneses.
 Tenemos un acuerdo con una empresa americana y estamos aumentando el número de tiendas.
 También nos quitan los clientes…"
-"Yamamoto Akuji (talking)","そりゃ、一大事じゃねーか。","That's a big deal, isn't it?","Es una gran cosa, ¿no?"
-"Kohara Koharu (talking)","そうですわね。","Yes, it is.","Sí."
-"Yamamoto Akuji (talking)","なんとかしろよ。","Do something about it.","Haz algo al respecto."
-"Kohara Koharu (talking)","もちろんですわ。","Of course.","Por supuesto."
-"narrator","しかし……
+Yamamoto Akuji (talking),そりゃ、一大事じゃねーか。,"That's a big deal, isn't it?","Es una gran cosa, ¿no?"
+Kohara Koharu (talking),そうですわね。,"Yes, it is.",Sí.
+Yamamoto Akuji (talking),なんとかしろよ。,Do something about it.,Haz algo al respecto.
+Kohara Koharu (talking),もちろんですわ。,Of course.,Por supuesto.
+narrator,"しかし……
 小春の頑張りも限界があり、 ＧＡＬバーガーの売り上げは激減した。","However, ……
 Koharu's efforts had their limits, and GAL Burger sales plummeted.","Sin embargo, ……
 Los esfuerzos de Koharu tuvieron su límite y las ventas de GAL Burger cayeron en picado."
-"Kohara Koharu (talking)","ごきげんよう、若旦那。","Good day, young master.","Buenos días, joven maestro."
-"Yamamoto Akuji (talking)","おう。
+Kohara Koharu (talking),ごきげんよう、若旦那。,"Good day, young master.","Buenos días, joven maestro."
+Yamamoto Akuji (talking),"おう。
 どしたい。 今日はえらく顔に凄味があるぜ。","Oh.
 What's going on? Your face is looking very handsome today.","Oh.
  ¿Cómo va todo? Hoy tienes una mirada de infierno en tu cara."
-"Kohara Koharu (talking)","ええ。 私、復讐に燃えておりますの。","Yes. I am bent on revenge.","Sí, así es. Estoy en una misión de venganza."
-"Yamamoto Akuji (talking)","復讐？","Revenge?","¿Venganza?"
-"Kohara Koharu (talking)","ＧＡＬバーガーですが、キャンペーンを 実施して、離れていった客足を戻して みせますわ。
+Kohara Koharu (talking),ええ。 私、復讐に燃えておりますの。,Yes. I am bent on revenge.,"Sí, así es. Estoy en una misión de venganza."
+Yamamoto Akuji (talking),復讐？,Revenge?,¿Venganza?
+Kohara Koharu (talking),"ＧＡＬバーガーですが、キャンペーンを 実施して、離れていった客足を戻して みせますわ。
 ライバルでした、ピーチバーガーも スポンサーという後ろ盾をなくしました ので……潰すなら…今…かなと。","GAL Burger is going to start a campaign to bring back the customers who have left.
 Our rival, Peach Burger, has also lost its sponsor, Tate, so I think it's time to destroy……… now.","GAL Burger, vamos a hacer una campaña para que vuelvan los clientes que se han ido.
 Nuestro rival, Peach Burger, ha perdido a su patrocinador, Tate, así que creo que es el momento de destruir……… ahora."
-"Yamamoto Akuji (talking)","こえ~。","Koei~.","Koei~."
-"Kohara Koharu (talking)","ふふ……向こうのおかげで、 色々と苦労させられましたもの……
+Yamamoto Akuji (talking),こえ~。,Koei~.,Koei~.
+Kohara Koharu (talking),"ふふ……向こうのおかげで、 色々と苦労させられましたもの……
 しかも、喧嘩を売ってきたのも、向こう… それなりの代償は覚悟して 頂かないと……そう思いますでしょう？","I have had to do a lot of hard work thanks to the other side……
 And they were the ones who started the fight… You have to be prepared to pay a certain price for that…… don't you think?","He tenido que trabajar mucho gracias al otro lado……
 Y fueron ellos los que empezaron la pelea… Hay que estar preparado para pagar un cierto precio por ello…… ¿no crees?"
-"Yamamoto Akuji (talking)","で、どーいう手で、トドメをさすんだ？","So, what kind of hand are you going to use to finish him off?","Entonces, ¿qué tipo de mano vas a usar para acabar con ellos?"
-"Kohara Koharu (talking)","こちらは、ハンバーガーを期間限定で ひとつ１００円で販売します。","For a limited time only, this shop will sell one hamburger for 100 yen.","Sólo por tiempo limitado, cada hamburguesa se venderá por 100 yenes."
-"Yamamoto Akuji (talking)","大丈夫か、そんな事して。","Are you okay, doing that?","¿Estás bien, haciendo eso?"
-"Kohara Koharu (talking)","策なしで、このような無謀な事を 申しませんわ。 ふふ……ふふふ……","I would not offer such recklessness without a plan. I will not say this without a plan…… ……","No te ofrecería tal imprudencia sin un plan. Hmmm……… Hmmm… ……"
-"Yamamoto Akuji (talking)","まー、見せてもらうとするか。","Well, let's see.","Bueno, echemos un vistazo."
-"Kohara Koharu (talking)","ええ……楽しみにしていらして下さいな。","Yes, please come and enjoy …….","Sí. Por favor, venga y disfrute de ……."
-"narrator","小春のその言葉通り、ＧＡＬバーガーの キャンペーンは成功し、売り上げが 急拡大した。","True to Koharu's word, the GAL Burger campaign was a success, and sales soared.","Fiel a la palabra de Koharu, la campaña GAL Burger fue un éxito y las ventas se dispararon."
-"__system__??","{D01 < 300:","",""
-"Kohara Koharu (talking)","まだ無駄が多いですわね。 コストダウンの為には、もっと合理的に 的確に作業工程をつめませんと…
+Yamamoto Akuji (talking),で、どーいう手で、トドメをさすんだ？,"So, what kind of hand are you going to use to finish him off?","Entonces, ¿qué tipo de mano vas a usar para acabar con ellos?"
+Kohara Koharu (talking),こちらは、ハンバーガーを期間限定で ひとつ１００円で販売します。,"For a limited time only, this shop will sell one hamburger for 100 yen.","Sólo por tiempo limitado, cada hamburguesa se venderá por 100 yenes."
+Yamamoto Akuji (talking),大丈夫か、そんな事して。,"Are you okay, doing that?","¿Estás bien, haciendo eso?"
+Kohara Koharu (talking),策なしで、このような無謀な事を 申しませんわ。 ふふ……ふふふ……,I would not offer such recklessness without a plan. I will not say this without a plan…… ……,No te ofrecería tal imprudencia sin un plan. Hmmm……… Hmmm… ……
+Yamamoto Akuji (talking),まー、見せてもらうとするか。,"Well, let's see.","Bueno, echemos un vistazo."
+Kohara Koharu (talking),ええ……楽しみにしていらして下さいな。,"Yes, please come and enjoy …….","Sí. Por favor, venga y disfrute de ……."
+narrator,小春のその言葉通り、ＧＡＬバーガーの キャンペーンは成功し、売り上げが 急拡大した。,"True to Koharu's word, the GAL Burger campaign was a success, and sales soared.","Fiel a la palabra de Koharu, la campaña GAL Burger fue un éxito y las ventas se dispararon."
+__system__??,{D01 < 300:,,
+Kohara Koharu (talking),"まだ無駄が多いですわね。 コストダウンの為には、もっと合理的に 的確に作業工程をつめませんと…
 目標は、ＧＡＬバーガーチェーンで、 月間３０００万円ですわ。
 いきますわよ。","There is still a lot of waste. In order to reduce costs, we need to be more rational and precise in our work processes…
 Our goal is 30 million yen per month for the GAL Burger chain.
 Let's go for it.","Todavía hay muchos residuos. Para reducir los costes, tenemos que ser más racionales y precisos en nuestros procesos de trabajo…
 Nuestro objetivo es de 30 millones de yenes al mes para la cadena GAL Burger.
 Vamos a por ello."
-"GAL Burger (talking)","はい、小春さん。","Yes, Koharu.","Sí, Koharu."
-"__system__??","} else {","",""
-"GAL Burger (talking)","おはようございます。 小春さん。","Good morning. Koharu.","Buenos días. Koharu."
-"Kohara Koharu (talking)","おはよう。 売り上げは順調ですことね。","Good morning. Sales are going well, I hope.","Buenos días. Las ventas deben ir bien."
-"GAL Burger (talking)","はい、どこのお店もすっごく人気です。 ウハウハって感じです~☆","Yes, all the stores are very popular. It's like we're having a good time!☆","Sí, todas las tiendas son muy populares. Es como si nos estuviéramos divirtiendo.☆"
-"Kohara Koharu (talking)","それはよろしいですこと。 この調子ですわよ。","That's good. Keep it up.","Eso es bueno, eso es bueno. Sigue así."
-"GAL Burger (talking)","はーい☆","Yes☆","Sí☆"
-"narrator","ＧＡＬバーガーチェーンは、小春が 目標としていた月間３０００万以上の売り上げを あげて、成長を続けていた。","The GAL Burger chain continued to grow with sales of more than 30 million per month, which was Koharu's goal.","La cadena GAL Burger siguió creciendo, con unas ventas de más de 30 millones al mes, que era el objetivo de Koharu."
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Kohara Koharu (talking)","あら…いらっしゃい、若旦那。 視察ですかしら？","Well…come in, young master. Are you here for a visit?","Oh… pase, joven maestro. ¿Está aquí en una visita de inspección?"
-"Yamamoto Akuji (talking)","まー、そんな感じ。","Well, something like that.","Bueno, eso es todo."
-"Kohara Koharu (talking)","お店は順調でしてよ。 若旦那、今出来たてのハンバーガー、 お食べになられますかしら？","The store is doing well. Young master, would you like to try a freshly made hamburger now?","La tienda va bien. Jovencito, ¿quieres una hamburguesa recién hecha ahora?"
-"Yamamoto Akuji (talking)","お、いただきます。
+GAL Burger (talking),はい、小春さん。,"Yes, Koharu.","Sí, Koharu."
+__system__??,} else {,,
+GAL Burger (talking),おはようございます。 小春さん。,Good morning. Koharu.,Buenos días. Koharu.
+Kohara Koharu (talking),おはよう。 売り上げは順調ですことね。,"Good morning. Sales are going well, I hope.",Buenos días. Las ventas deben ir bien.
+GAL Burger (talking),はい、どこのお店もすっごく人気です。 ウハウハって感じです~☆,"Yes, all the stores are very popular. It's like we're having a good time!☆","Sí, todas las tiendas son muy populares. Es como si nos estuviéramos divirtiendo.☆"
+Kohara Koharu (talking),それはよろしいですこと。 この調子ですわよ。,That's good. Keep it up.,"Eso es bueno, eso es bueno. Sigue así."
+GAL Burger (talking),はーい☆,Yes☆,Sí☆
+narrator,ＧＡＬバーガーチェーンは、小春が 目標としていた月間３０００万以上の売り上げを あげて、成長を続けていた。,"The GAL Burger chain continued to grow with sales of more than 30 million per month, which was Koharu's goal.","La cadena GAL Burger siguió creciendo, con unas ventas de más de 30 millones al mes, que era el objetivo de Koharu."
+__system__??,},,
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Kohara Koharu (talking),あら…いらっしゃい、若旦那。 視察ですかしら？,"Well…come in, young master. Are you here for a visit?","Oh… pase, joven maestro. ¿Está aquí en una visita de inspección?"
+Yamamoto Akuji (talking),まー、そんな感じ。,"Well, something like that.","Bueno, eso es todo."
+Kohara Koharu (talking),お店は順調でしてよ。 若旦那、今出来たてのハンバーガー、 お食べになられますかしら？,"The store is doing well. Young master, would you like to try a freshly made hamburger now?","La tienda va bien. Jovencito, ¿quieres una hamburguesa recién hecha ahora?"
+Yamamoto Akuji (talking),"お、いただきます。
 もぐ…もぐもぐ…
 なんか、軽いくいもんだな。","Oh, Bon appétit.
 Munch… munch…
 It's kind of light food.","Oh, tomaré un poco.
 Munch… munch…
 Es un tipo de comida ligera."
-"Kohara Koharu (talking)","ふふ…それがよろしいんですのよ。 大衆受けして。","Hmmm…that's the beauty of it. Popular.","Hmmm… así es como debería ser. Recepción popular."
-"Tamanegi (talking)","ふう………","Fu ………","Fu ………"
-"narrator","タマネギは額にうっすらと 浮かんだ汗を拭った。
+Kohara Koharu (talking),ふふ…それがよろしいんですのよ。 大衆受けして。,Hmmm…that's the beauty of it. Popular.,Hmmm… así es como debería ser. Recepción popular.
+Tamanegi (talking),ふう………,Fu ………,Fu ………
+narrator,"タマネギは額にうっすらと 浮かんだ汗を拭った。
 タマネギは、洗面所で調教道具の手入れを していた。
 バイブ、ラバースーツ、アナル拡張棒、 ロープ、洗濯ばさみ。 そしてパラボナアンテナ。","Tamanegi wiped the sweat from her forehead.
 Tamanegi was cleaning her training tools in the bathroom.
 Vibrators, rubber suits, anal extension rods, ropes, clothespins. And a parabolic antenna.","Tamanegi se secó el sudor de la frente.
 Tamanegi estaba limpiando su equipo de entrenamiento en el baño.
 Vibradores, trajes de goma, barras de extensión anal, cuerdas, pinzas de ropa. Y una antena parabólica."
-"Tamanegi (thinking)","プロの調教師として、わたくし達の大事な パートナーですからね……
+Tamanegi (thinking),"プロの調教師として、わたくし達の大事な パートナーですからね……
 商品の躰を清潔に保つ為にも、 殺菌消毒していつも綺麗にして おかなくては……","As professional trainers, they are our important partners……
 In order to keep the body of the product clean, it must be Satsu disinfected and kept clean: ……","Como formadores profesionales, son nuestros socios más importantes……
 Para mantener el cuerpo del producto limpio, debe ser Satsu desinfectado y siempre limpio ……"
-"Kohara Koharu (talking)","……くす…ふふ……","…… Kusu…hmmm ……","…… Kusu… hmmm ……"
-"narrator","小春は一人、考え事をしては クスクス笑っている。","Koharu is alone, thinking and giggling.","Koharu está solo, pensando y riéndose."
-"Seinendan Jyoshi (talking)","どうしたんですか？ 何かいい事でもあったんですか？","What's wrong? Did something good happen?","¿Qué pasa? ¿Ha pasado algo bueno?"
-"Kohara Koharu (talking)","……………","……………","……………"
-"Seinendan Jyoshi (talking)","………あっ……あの？","……… was…… that?","……… Oh,…… ¿eso?"
-"Kohara Koharu (talking)","……知りたい…？","…… want to know…?","…… quiere saber…"
-"Seinendan Jyoshi (talking)","……いっ……いえ、やっぱいいです！ ごめんなさ~い！！","……I'm ……No, I knew it! Sorry!","…… Soy…… ¡No, lo sabía! ¡¡¡Lo siento!!!"
-"narrator","団員は、恐怖のあまり半泣きになって 走り去った。","The group members ran away, half-crying in terror.","El grupo salió corriendo, medio llorando de terror."
-"Kohara Koharu (talking)","あ……ん……
+Kohara Koharu (talking),……くす…ふふ……,…… Kusu…hmmm ……,…… Kusu… hmmm ……
+narrator,小春は一人、考え事をしては クスクス笑っている。,"Koharu is alone, thinking and giggling.","Koharu está solo, pensando y riéndose."
+Seinendan Jyoshi (talking),どうしたんですか？ 何かいい事でもあったんですか？,What's wrong? Did something good happen?,¿Qué pasa? ¿Ha pasado algo bueno?
+Kohara Koharu (talking),……………,……………,……………
+Seinendan Jyoshi (talking),………あっ……あの？,……… was…… that?,"……… Oh,…… ¿eso?"
+Kohara Koharu (talking),……知りたい…？,…… want to know…?,…… quiere saber…
+Seinendan Jyoshi (talking),……いっ……いえ、やっぱいいです！ ごめんなさ~い！！,"……I'm ……No, I knew it! Sorry!","…… Soy…… ¡No, lo sabía! ¡¡¡Lo siento!!!"
+narrator,団員は、恐怖のあまり半泣きになって 走り去った。,"The group members ran away, half-crying in terror.","El grupo salió corriendo, medio llorando de terror."
+Kohara Koharu (talking),"あ……ん……
 つまらないですこと… せっかく今、思いついた責めを 実践してさしあげようと思ったのに…","Oh, ……
 I was just about to put into practice the blame I just came up with…","Oh, ……
 Estaba a punto de poner en práctica la culpa que se me acaba de ocurrir…"
-"narrator","千手は、机の上に顎をついて、 手紙を読んでいる。","Senju is reading the letter with his chin on the desk.","Senju está leyendo la carta con la barbilla sobre el escritorio."
-"Ishihara Senju (talking)","千手君へ。 大好きです。今度、公園へ散歩に 行きませんか？　３組　みちこ
+narrator,千手は、机の上に顎をついて、 手紙を読んでいる。,Senju is reading the letter with his chin on the desk.,Senju está leyendo la carta con la barbilla sobre el escritorio.
+Ishihara Senju (talking),"千手君へ。 大好きです。今度、公園へ散歩に 行きませんか？　３組　みちこ
  ………ん~………","Senju to you. I love you. Would you like to go for a walk in the park next time?　Class 3 Michiko
  ………n~………","Senju Querido. Te quiero. ¿Te gustaría ir a dar un paseo por el parque la próxima vez?　Clase 3, Michiko
  ………n~………"
-"narrator","千手はその手紙をごみ箱に捨てた。","Senju threw the letter in the trash.","Senju tiró la carta a la papelera."
-"Ishihara Senju (talking)","気持ち悪いんだよ…… 勝手に人の机の中にこんなもの 入れてさ……
+narrator,千手はその手紙をごみ箱に捨てた。,Senju threw the letter in the trash.,Senju tiró la carta a la papelera.
+Ishihara Senju (talking),"気持ち悪いんだよ…… 勝手に人の机の中にこんなもの 入れてさ……
 それに……小便臭いガキはパス。 熟れかけからがいいんだよねー……","It's disgusting…… that you put this stuff in people's desks without permission……
 And…… I'll pass on the piss stinkin' kids. I like them when they're just starting to ripen……","Es asqueroso…… Ponen estas cosas en los escritorios de la gente sin permiso……
 Y…… paso de los niños apestados por la orina. Me gusta cuando están empezando a madurar……"
-" (talking)","おや……若。","Oh…… young.","Oy…… joven."
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Tamanegi (talking)","ご見学ですか？","Are you here for a tour?","¿Estás de visita?"
-"Yamamoto Akuji (talking)","んーまあ、そんなとこだ。","Hmmm, well, that's about it.","Hmmm, bueno, eso es todo."
-"__system__??","{D19 > 5:","",""
-"Tamanegi (talking)","若、なんでしたら、遊んでいかれますか？","Young man, if you would like, would you like to play with us?","Joven, si quieres, ¿te gustaría ir a jugar?"
-"Yamamoto Akuji (talking)","いや、無駄ダマは撃たない主義でよ。","No, I don't shoot for nothing.","No, estoy en el principio de no disparar a los tontos inútiles."
-"Tamanegi (talking)","ふふ…そうですね。 若の一物は、商売道具ですものね…
+ (talking),おや……若。,Oh…… young.,Oy…… joven.
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Tamanegi (talking),ご見学ですか？,Are you here for a tour?,¿Estás de visita?
+Yamamoto Akuji (talking),んーまあ、そんなとこだ。,"Hmmm, well, that's about it.","Hmmm, bueno, eso es todo."
+__system__??,{D19 > 5:,,
+Tamanegi (talking),若、なんでしたら、遊んでいかれますか？,"Young man, if you would like, would you like to play with us?","Joven, si quieres, ¿te gustaría ir a jugar?"
+Yamamoto Akuji (talking),いや、無駄ダマは撃たない主義でよ。,"No, I don't shoot for nothing.","No, estoy en el principio de no disparar a los tontos inútiles."
+Tamanegi (talking),"ふふ…そうですね。 若の一物は、商売道具ですものね…
 気がお変わりになった時は仰って 下さい……","Hmmm…yes. I guess a young man's thing is the tool of his trade…
 If you change your mind, just let me know: ……","Hmm… sí. La única cosa del joven es la herramienta del oficio…
 Si cambias de opinión, házmelo saber……"
-"__system__??","}","",""
-"__system__??","{S娼婦状態 = 1:","",""
-"__system__??","}","",""
-"__system__??","{Sキャラ > 500:","",""
-"__system__??","}","",""
-"Tamanegi (talking)","あ、少々お待ち頂けますか…","Uh, could you wait a moment, please…","Uh, podría esperar un momento…"
-"narrator","タマネギは店の奥に入ると、 女を一人連れてきた。","Tamanegi went into the back of the store and brought a woman with him.","Tamanegi entró en la parte trasera de la tienda y trajo a una mujer con ella."
-"Tamanegi (talking)","若、ひとつ教育してやって 頂けませんか…？","Young man, could you please educate him…?","Joven, ¿podría educarlo en una cosa…?"
-"narrator","悪司は、","Akuji is a","Akuji es un"
-"narrator","を連れて部屋に入った。","He entered the room with","con él en la habitación."
-"narrator","悪司は調教の館へやってきた。","Akuji came to the training hall.","Akuji llegó a la sala de entrenamiento."
-"Tamanegi (talking)","おや…いらっしゃいませ、若。","Oh…welcome, young man.","Oh… bienvenido, joven."
-"Yamamoto Akuji (talking)","たまには、調教の見学をしようかと 思ってな。","I thought I'd take a look at the training once in a while.","Pensé en dar una vuelta por el centro de formación de vez en cuando."
-"__system__??","{S娼婦状態 = 11:","",""
-"__system__??","}","",""
-"__system__??","{D11 = 0:","",""
-"Tamanegi (talking)","生憎ですが… 現在、調教中の娘がおりません…","Unfortunately… we do not have a daughter in training at this time…","Desafortunadamente… no tenemos una hija en formación en este momento…"
-"Yamamoto Akuji (talking)","そっか、じゃあだめだな。","I see, then no.","Ya veo, entonces no."
-"Tamanegi (talking)","はい、申し訳ございません…","Yes, sorry…","Sí, lo siento…"
-"narrator","悪司はそこを後にした。","Akuji left there.","Akuji se fue de allí."
-"__system__??","}","",""
-"__system__??","{Sキャラ > 500:","",""
-"__system__??","}","",""
-"Ishihara Senju (talking)","なになにー？ 悪司、ボク達が調教するの、 見てみたいのー？
+__system__??,},,
+__system__??,{S娼婦状態 = 1:,,
+__system__??,},,
+__system__??,{Sキャラ > 500:,,
+__system__??,},,
+Tamanegi (talking),あ、少々お待ち頂けますか…,"Uh, could you wait a moment, please…","Uh, podría esperar un momento…"
+narrator,タマネギは店の奥に入ると、 女を一人連れてきた。,Tamanegi went into the back of the store and brought a woman with him.,Tamanegi entró en la parte trasera de la tienda y trajo a una mujer con ella.
+Tamanegi (talking),若、ひとつ教育してやって 頂けませんか…？,"Young man, could you please educate him…?","Joven, ¿podría educarlo en una cosa…?"
+narrator,悪司は、,Akuji is a,Akuji es un
+narrator,を連れて部屋に入った。,He entered the room with,con él en la habitación.
+narrator,悪司は調教の館へやってきた。,Akuji came to the training hall.,Akuji llegó a la sala de entrenamiento.
+Tamanegi (talking),おや…いらっしゃいませ、若。,"Oh…welcome, young man.","Oh… bienvenido, joven."
+Yamamoto Akuji (talking),たまには、調教の見学をしようかと 思ってな。,I thought I'd take a look at the training once in a while.,Pensé en dar una vuelta por el centro de formación de vez en cuando.
+__system__??,{S娼婦状態 = 11:,,
+__system__??,},,
+__system__??,{D11 = 0:,,
+Tamanegi (talking),生憎ですが… 現在、調教中の娘がおりません…,Unfortunately… we do not have a daughter in training at this time…,Desafortunadamente… no tenemos una hija en formación en este momento…
+Yamamoto Akuji (talking),そっか、じゃあだめだな。,"I see, then no.","Ya veo, entonces no."
+Tamanegi (talking),はい、申し訳ございません…,"Yes, sorry…","Sí, lo siento…"
+narrator,悪司はそこを後にした。,Akuji left there.,Akuji se fue de allí.
+__system__??,},,
+__system__??,{Sキャラ > 500:,,
+__system__??,},,
+Ishihara Senju (talking),"なになにー？ 悪司、ボク達が調教するの、 見てみたいのー？
 じゃあ、じっくり楽しんでもらおっかな。 フフフ……","What is it? Akuji, you want to watch us train you?
 Well then, let's let them enjoy it……","¿Qué es? Akuji, ¿quieres ver cómo te entrenamos?
 Bueno, entonces, vamos a pasar un buen rato……"
-"narrator","タマネギ達が悪司が見ている前で","Tamanegi and his friends are watching in front of Akuji.","Tamanegi y otros frente a Akuji mirando."
-"narrator","を調教した。","trained.","capacitado."
-"narrator","　☆☆　","　☆☆　","　☆☆　"
-"narrator","　☆☆ 　　タマネギ達の調教を受けた。","　☆☆ 　　Tamanegi and others trained.","　☆☆ 　　Tamanegi y otros entrenados."
-"Tamanegi (talking)","これは、若……","This is a young ……","Este es un joven ……"
-"Yamamoto Akuji (talking)","悪いな、タマネギ。 俺、ここを潰すから。","Sorry, Tamanegi. I'm going to crush this place.","Lo siento, Tamanegi. Voy a cerrar este lugar."
-"Tamanegi (talking)","なんと……","What a ……","Qué ……"
-"Yamamoto Akuji (talking)","俺の嫁さんがよ、こーいうのん ダメなんだわ。
+narrator,タマネギ達が悪司が見ている前で,Tamanegi and his friends are watching in front of Akuji.,Tamanegi y otros frente a Akuji mirando.
+narrator,を調教した。,trained.,capacitado.
+narrator,　☆☆　,　☆☆　,　☆☆　
+narrator,　☆☆ 　　タマネギ達の調教を受けた。,　☆☆ 　　Tamanegi and others trained.,　☆☆ 　　Tamanegi y otros entrenados.
+Tamanegi (talking),これは、若……,This is a young ……,Este es un joven ……
+Yamamoto Akuji (talking),悪いな、タマネギ。 俺、ここを潰すから。,"Sorry, Tamanegi. I'm going to crush this place.","Lo siento, Tamanegi. Voy a cerrar este lugar."
+Tamanegi (talking),なんと……,What a ……,Qué ……
+Yamamoto Akuji (talking),"俺の嫁さんがよ、こーいうのん ダメなんだわ。
 だから、俺、足洗う事にしたんでな… すまねぇけど、次の職場、探してくれや。","My wife is not good at this kind of thing.
 So I've decided to get out of the business… I'm sorry, but you'll have to find me another job.","Mi esposa, no es buena en este tipo de cosas.
 Así que he decidido dejar el negocio… Lo siento, pero tendrás que encontrarme otro trabajo."
-"Tamanegi (talking)","では、売春婦達は……","Now, the prostitutes can go to ……","Entonces las prostitutas se pueden encontrar en ……"
-"Yamamoto Akuji (talking)","全員、解放。自由にしてやる。","All of you are free. You are free to go.","Todos ustedes, liberados. Voy a liberarte."
-"Tamanegi (talking)","……………は……あ……","…………… is…… is ……","…………… es…… a ……"
-"narrator","悪司は部下に命じて、その日のうちに 調教の館、売春宿を閉鎖した。
+Tamanegi (talking),では、売春婦達は……,"Now, the prostitutes can go to ……",Entonces las prostitutas se pueden encontrar en ……
+Yamamoto Akuji (talking),全員、解放。自由にしてやる。,All of you are free. You are free to go.,"Todos ustedes, liberados. Voy a liberarte."
+Tamanegi (talking),……………は……あ……,…………… is…… is ……,…………… es…… a ……
+narrator,"悪司は部下に命じて、その日のうちに 調教の館、売春宿を閉鎖した。
 そして娼婦として使われていた女の子達は、 みんな解放された。","Akuji ordered his men to close the training house and brothel that day.
 And all the girls who had been used as prostitutes were released.","Akuji ordenó a sus hombres que cerraran la casa de entrenamiento y el burdel ese día.
 Y todas las chicas que habían sido utilizadas como prostitutas fueron liberadas."
-"narrator","からっぽになった調教の館に、 悪司が一人立っている。","In the empty training hall, Akuji stands alone.","En una sala de entrenamiento vacía, Akuji está sola."
-"Yamamoto Akuji (talking)","いい収益源だったけど、 民華さんの方が大事だからなー… しかたねぇよな、うん……","It was a good source of revenue, but Minka is more important… but Tane is right, yeah ……","Era una buena fuente de ingresos, pero Minka es más importante… Pero Tane tiene razón, sí ……"
-"Yamamoto Akuji (talking)","あなたは完璧な穴奴隷ですから、 調教の必要はもうありませんね…","You are a perfect hole slave, so you no longer need to be trained…","Eres un perfecto esclavo del agujero, así que ya no necesitas ser entrenado…"
-"Tamanegi (talking)","失礼します、若。","Excuse me, young man.","Disculpe, joven."
-"Yamamoto Akuji (talking)","おう、どうした？","Oh, what's up?","¿Qué pasa?"
-"Tamanegi (talking)","催促して申し訳ないのですが―― わたくし共が活かされる為の調教の館は いつ頃お作りになられるご予定で？","I'm sorry to keep urging you to do this, but when do you plan to build a training hall for us to live in?","Siento seguir insistiendo en ello, pero ¿cuándo piensan construir la casa de formación para que vivamos en ella?"
-"Yamamoto Akuji (talking)","んー、まあ、そのうちだ。","Hmmm, well, we'll see.","Hmm, bueno, ya veremos."
-"Tamanegi (talking)","出来れば、お早く願えませんか？ 建物を建てる為に費用は必要ですが、 それ以上の見返りが若にございます。
+narrator,からっぽになった調教の館に、 悪司が一人立っている。,"In the empty training hall, Akuji stands alone.","En una sala de entrenamiento vacía, Akuji está sola."
+Yamamoto Akuji (talking),いい収益源だったけど、 民華さんの方が大事だからなー… しかたねぇよな、うん……,"It was a good source of revenue, but Minka is more important… but Tane is right, yeah ……","Era una buena fuente de ingresos, pero Minka es más importante… Pero Tane tiene razón, sí ……"
+Yamamoto Akuji (talking),あなたは完璧な穴奴隷ですから、 調教の必要はもうありませんね…,"You are a perfect hole slave, so you no longer need to be trained…","Eres un perfecto esclavo del agujero, así que ya no necesitas ser entrenado…"
+Tamanegi (talking),失礼します、若。,"Excuse me, young man.","Disculpe, joven."
+Yamamoto Akuji (talking),おう、どうした？,"Oh, what's up?",¿Qué pasa?
+Tamanegi (talking),催促して申し訳ないのですが―― わたくし共が活かされる為の調教の館は いつ頃お作りになられるご予定で？,"I'm sorry to keep urging you to do this, but when do you plan to build a training hall for us to live in?","Siento seguir insistiendo en ello, pero ¿cuándo piensan construir la casa de formación para que vivamos en ella?"
+Yamamoto Akuji (talking),んー、まあ、そのうちだ。,"Hmmm, well, we'll see.","Hmm, bueno, ya veremos."
+Tamanegi (talking),"出来れば、お早く願えませんか？ 建物を建てる為に費用は必要ですが、 それ以上の見返りが若にございます。
 その事、ゆめゆめ お忘れにならないよう…","If possible, could you please do so as soon as possible? It costs a lot of money to build a building, but there is more to it than just the cost.
 Please do not ever forget that…","¿Puede hacerlo rápidamente, si es posible? Cuesta mucho construir un edificio, pero se obtiene mucho más a cambio.
 No olvidemos nunca que…"
-"Yamamoto Akuji (talking)","おーう。","Oooh.","Oooh."
-"narrator","小春は自分の育てた店の前に立っている。","Koharu is standing in front of the store he grew up in.","Koharu se encuentra frente a la tienda en la que creció."
-"Kohara Koharu (talking)","目標売り上げもずっと継続した ままでいる… ここはもう安泰ですわね…","We've been on target for sales for a long time… we're in safe hands here…","Los objetivos de ventas se han mantenido… estamos en buenas manos…"
-"narrator","小春は満足そうだった。","Koharu seemed satisfied.","Koharu parecía satisfecho."
+Yamamoto Akuji (talking),おーう。,Oooh.,Oooh.
+narrator,小春は自分の育てた店の前に立っている。,Koharu is standing in front of the store he grew up in.,Koharu se encuentra frente a la tienda en la que creció.
+Kohara Koharu (talking),目標売り上げもずっと継続した ままでいる… ここはもう安泰ですわね…,We've been on target for sales for a long time… we're in safe hands here…,Los objetivos de ventas se han mantenido… estamos en buenas manos…
+narrator,小春は満足そうだった。,Koharu seemed satisfied.,Koharu parecía satisfecho.

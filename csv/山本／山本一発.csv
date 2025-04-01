@@ -1,6 +1,6 @@
-"character","jap text","Eng","Esp"
-"narrator","その老人は、山上から悪司の動向を 窺っていた。","The old man was watching Akuji's movements from the mountain.","El anciano observaba los movimientos de Akuji desde la cima de la montaña."
-"Yamamoto Ippatsu (thinking)","ふん。 あいつはまだ、組を取り戻して いないのか、グズな奴じゃ。
+character,jap text,Eng,Esp
+narrator,その老人は、山上から悪司の動向を 窺っていた。,The old man was watching Akuji's movements from the mountain.,El anciano observaba los movimientos de Akuji desde la cima de la montaña.
+Yamamoto Ippatsu (thinking),"ふん。 あいつはまだ、組を取り戻して いないのか、グズな奴じゃ。
 まあよい。 思い上がっていたあいつには、 いい薬だ。
 少しは苦労して、人間の器を 大きくすればいい。 このワシの様にの。
 まったく、ウィミィもウィミィで、 何が女性上位だ。
@@ -19,10 +19,10 @@ Debería luchar un poco y hacer crecer una vasija humana. Como este águila.
 Basta con decir quién es más alto y quién más bajo, sólo cuando estás en una pelea o cuando estás jugando un juego. ¿Qué importa si eres hombre o mujer?
 Bueno, vamos a empezar.
 Masako-san del burdel secreto debe estar ahora mismo tumbada en los cojines empapada, echándome de menos."
-"Yamamoto Ippatsu (talking)","ハイヨー！！ シルバー！！","Hi-yo! Silver!","¡Hola! ¡¡Plata!!"
-"narrator","老人は、そう叫ぶと愛機の エンジンを吹かした。","The old man exclaimed and blew the engine of his beloved plane.","El anciano gritó e hizo estallar el motor de su querido avión."
-"narrator","その老人は、山上から悪司の動向を 窺っていた。","The old man was watching Akuji's movements from the mountain.","El anciano observaba los movimientos de Akuji desde la cima de la montaña."
-"Yamamoto Ippatsu (thinking)","はてさて、あの悪司が、宛われた女と 仲良くするのかどうか…
+Yamamoto Ippatsu (talking),ハイヨー！！ シルバー！！,Hi-yo! Silver!,¡Hola! ¡¡Plata!!
+narrator,老人は、そう叫ぶと愛機の エンジンを吹かした。,The old man exclaimed and blew the engine of his beloved plane.,El anciano gritó e hizo estallar el motor de su querido avión.
+narrator,その老人は、山上から悪司の動向を 窺っていた。,The old man was watching Akuji's movements from the mountain.,El anciano observaba los movimientos de Akuji desde la cima de la montaña.
+Yamamoto Ippatsu (thinking),"はてさて、あの悪司が、宛われた女と 仲良くするのかどうか…
 しかし、殺はお前には過ぎた女。 あれの価値が、お前にわかって おるのかの？
  ………まあよい。 悪司が手折る事のない花になるのなら、 当初の予定通り、ワシが手折るまで。
 どちらかというと、ワシにはその方が 都合がよいぞ。
@@ -33,8 +33,8 @@ So… what do you say? Akuji.","Ahora, a ver si ese Akuji se lleva bien con la m
 Pero Satsu es demasiado para ti. ¿Sabes lo que vale?……… Bueno, bien. Si Akuji se convierte en una flor que nunca romperás, la romperé como estaba previsto.
 En todo caso, es más conveniente para mí.
 Ahora… ¿qué hacemos? Akuji."
-"narrator","その老人は、山上から悪司の動向を 窺っていた。","The old man was watching Akuji's movements from the mountain.","El anciano observaba los movimientos de Akuji desde la cima de la montaña."
-"Yamamoto Ippatsu (thinking)","やれやれ。取り戻すのに、 思ったより時間がかかったの。
+narrator,その老人は、山上から悪司の動向を 窺っていた。,The old man was watching Akuji's movements from the mountain.,El anciano observaba los movimientos de Akuji desde la cima de la montaña.
+Yamamoto Ippatsu (thinking),"やれやれ。取り戻すのに、 思ったより時間がかかったの。
 もっとデキる男だと思っていたが…… ワシの教育不足じゃったかの？
 アレの上達が早かったのは、 夕子に任せた閨（ねや）の技術ばかり じゃったからのぅ。
  ――まあ良い。 アレも、戦地から帰ってきたばかりで、 ボケているのやもしれん。
@@ -47,21 +47,21 @@ Pensaba que era un hombre más capaz, pero…… no le he educado lo suficiente,
 Mejoró tan rápidamente gracias a todas las habilidades de alcoba que le confió a Yuuko.
  -Bueno, eso está bien. Acaba de regresar de la guerra y puede estar un poco apagada.
 Como mi sucesor, déjame ver hasta dónde puedes llegar, Akuji."
-"__system__??","{☆一発の女 = 2:","",""
-"Aoba Youko (talking)","………………","………………","………………"
-"Yamamoto Ippatsu (talking)","後悔しておるのかの？","Do you regret it?","¿Se arrepiente?"
-"Aoba Youko (talking)","…………いいえ……","………… No ……","………… No……"
-"Yamamoto Ippatsu (talking)","では行くぞ。","Then let's go.","Entonces vamos."
-"Aoba Youko (talking)","はい。","Yes.","Sí."
-"__system__??","}","",""
-"__system__??","{☆一発の女 = 1:","",""
-"Ichihashi Ran (talking)","どうしたんです？ ご隠居。","What's wrong? Gentleman.","¿Qué está pasando? Caballero."
-"Yamamoto Ippatsu (talking)","うむ、なんでもない。 そろそろ行くかの。","Mm, it's nothing. I'd better get going.","Mm, no es nada. Será mejor que me vaya."
-"Ichihashi Ran (talking)","はい。","Yes.","Sí."
-"__system__??","}","",""
-"Yamamoto Ippatsu (talking)","ハイヨー！！　シルバー！！","Hi-yo!　Silver!","¡Hola!　¡¡Plata!!"
-"narrator","その老人は、山上から悪司の動向を 窺っていた。","The old man was watching Akuji's movements from the mountain.","El anciano observaba los movimientos de Akuji desde la cima de la montaña."
-"Yamamoto Ippatsu (thinking)","次のガチンコ相手は、新興宗教か。
+__system__??,{☆一発の女 = 2:,,
+Aoba Youko (talking),………………,………………,………………
+Yamamoto Ippatsu (talking),後悔しておるのかの？,Do you regret it?,¿Se arrepiente?
+Aoba Youko (talking),…………いいえ……,………… No ……,………… No……
+Yamamoto Ippatsu (talking),では行くぞ。,Then let's go.,Entonces vamos.
+Aoba Youko (talking),はい。,Yes.,Sí.
+__system__??,},,
+__system__??,{☆一発の女 = 1:,,
+Ichihashi Ran (talking),どうしたんです？ ご隠居。,What's wrong? Gentleman.,¿Qué está pasando? Caballero.
+Yamamoto Ippatsu (talking),うむ、なんでもない。 そろそろ行くかの。,"Mm, it's nothing. I'd better get going.","Mm, no es nada. Será mejor que me vaya."
+Ichihashi Ran (talking),はい。,Yes.,Sí.
+__system__??,},,
+Yamamoto Ippatsu (talking),ハイヨー！！　シルバー！！,Hi-yo!　Silver!,¡Hola!　¡¡Plata!!
+narrator,その老人は、山上から悪司の動向を 窺っていた。,The old man was watching Akuji's movements from the mountain.,El anciano observaba los movimientos de Akuji desde la cima de la montaña.
+Yamamoto Ippatsu (thinking),"次のガチンコ相手は、新興宗教か。
 確かあの教祖の躰は……
  ……くく…… 面白くなってきたの。
 さて、どうする、悪司？ お前は、あの教祖相手にどう出る？
@@ -82,26 +82,26 @@ Ahí es donde se medirán tus habilidades. Estoy deseando ver cómo reacciona.
 Yo (borrar, demasiado obsceno), pero ……
 No, y lo que es más importante, ¿cómo reaccionarías ante esos espeluznantes seguidores?
 Podrían ser más problemáticos de lo que crees, Akuji ……"
-"__system__??","{☆一発の女 = 2:","",""
-"Aoba Youko (talking)","那古教ですか…","Is Nakokyou…","¿Nakokyou?"
-"Yamamoto Ippatsu (talking)","お前さんも苦労したのか？","Did you have a hard time too?","¿Tú también lo has pasado mal?"
-"Aoba Youko (talking)","苦労というか…… あんな風に狂信的になれる訳は わかりませんでした。","I didn't understand the struggle or…… how he could be that fanatical.","No entendía la lucha ni…… cómo podía ser tan fanático."
-"Yamamoto Ippatsu (talking)","それはお前さんが幸せだっただけじゃ。","That's just because you were happy.","Eso es que eres feliz."
-"Aoba Youko (talking)","では、あの人達は、不幸なんですか？","So, are those people unhappy?","Entonces, ¿esas personas son infelices?"
-"Yamamoto Ippatsu (talking)","そうとは言えん。 ただ、耽溺していれば幸せでは あるかもしれんな。","Not exactly. But I think we might be happy if we indulge.","No exactamente. Pero podría ser feliz si me diera el gusto."
-"Aoba Youko (talking)","……難しいですね…","……It's hard to…","…… Es difícil…"
-"Yamamoto Ippatsu (talking)","そうじゃな。","That's right.","Sí."
-"__system__??","}","",""
-"__system__??","{☆一発の女 = 1:","",""
-"Ichihashi Ran (talking)","若旦那、次はあの宗教団体相手に 喧嘩ですか。","Young master, are you going to fight with that religious group next?","Joven Maestro, ¿va a luchar contra esa organización religiosa a continuación?"
-"Yamamoto Ippatsu (talking)","そのようじゃな。","It seems so.","Eso parece."
-"Ichihashi Ran (talking)","あいつらは、厄介ですよ。 ボーフラみたく、うようよ 出てきますから。","They are a nuisance. They come out in droves, just like bofra.","Son una molestia. Salen en tropel, al igual que Bohra."
-"Yamamoto Ippatsu (talking)","それがさばけんようであったら、 そこで終わりというだけじゃ。","If it is not, that is the end of the story.","Si no lo es, es el fin de la historia."
-"Ichihashi Ran (talking)","………お優しいんですね。","You are so kind to ……….","……… Es usted muy amable."
-"Yamamoto Ippatsu (talking)","ふふん。","Hmmm.","Hmmm."
-"__system__??","}","",""
-"narrator","その老人は、山上から悪司の動向を 窺っていた。","The old man was watching Akuji's movements from the mountain.","El anciano observaba los movimientos de Akuji desde la cima de la montaña."
-"Yamamoto Ippatsu (thinking)","まったく……トンでもない奴じゃな。 なんとも、情けない。 菓子ごときで喧嘩とは。
+__system__??,{☆一発の女 = 2:,,
+Aoba Youko (talking),那古教ですか…,Is Nakokyou…,¿Nakokyou?
+Yamamoto Ippatsu (talking),お前さんも苦労したのか？,Did you have a hard time too?,¿Tú también lo has pasado mal?
+Aoba Youko (talking),苦労というか…… あんな風に狂信的になれる訳は わかりませんでした。,I didn't understand the struggle or…… how he could be that fanatical.,No entendía la lucha ni…… cómo podía ser tan fanático.
+Yamamoto Ippatsu (talking),それはお前さんが幸せだっただけじゃ。,That's just because you were happy.,Eso es que eres feliz.
+Aoba Youko (talking),では、あの人達は、不幸なんですか？,"So, are those people unhappy?","Entonces, ¿esas personas son infelices?"
+Yamamoto Ippatsu (talking),そうとは言えん。 ただ、耽溺していれば幸せでは あるかもしれんな。,Not exactly. But I think we might be happy if we indulge.,No exactamente. Pero podría ser feliz si me diera el gusto.
+Aoba Youko (talking),……難しいですね…,……It's hard to…,…… Es difícil…
+Yamamoto Ippatsu (talking),そうじゃな。,That's right.,Sí.
+__system__??,},,
+__system__??,{☆一発の女 = 1:,,
+Ichihashi Ran (talking),若旦那、次はあの宗教団体相手に 喧嘩ですか。,"Young master, are you going to fight with that religious group next?","Joven Maestro, ¿va a luchar contra esa organización religiosa a continuación?"
+Yamamoto Ippatsu (talking),そのようじゃな。,It seems so.,Eso parece.
+Ichihashi Ran (talking),あいつらは、厄介ですよ。 ボーフラみたく、うようよ 出てきますから。,"They are a nuisance. They come out in droves, just like bofra.","Son una molestia. Salen en tropel, al igual que Bohra."
+Yamamoto Ippatsu (talking),それがさばけんようであったら、 そこで終わりというだけじゃ。,"If it is not, that is the end of the story.","Si no lo es, es el fin de la historia."
+Ichihashi Ran (talking),………お優しいんですね。,You are so kind to ……….,……… Es usted muy amable.
+Yamamoto Ippatsu (talking),ふふん。,Hmmm.,Hmmm.
+__system__??,},,
+narrator,その老人は、山上から悪司の動向を 窺っていた。,The old man was watching Akuji's movements from the mountain.,El anciano observaba los movimientos de Akuji desde la cima de la montaña.
+Yamamoto Ippatsu (thinking),"まったく……トンでもない奴じゃな。 なんとも、情けない。 菓子ごときで喧嘩とは。
 あのリンダ、頭脳明晰ではあるが、 中身はまだ子供。
 子供が年に一回の楽しみを奪われたと あっては、タダではすまんぞ。
 それに、支倉一族。 ハイネの周りをどう崩していけるのか。 観戦させてもらうとするかの。","He's a total…… ton of a jerk. What a shameful thing to do. Fighting over a piece of candy.
@@ -111,12 +111,12 @@ And the Hasekura clan. I wonder how they can break down around Haine. I'll be wa
 Esa Linda, puede ser inteligente, pero por dentro sigue siendo una niña.
 Si se priva a un niño de un pasatiempo que se realiza una vez al año, no puede salirse con la suya.
 Y el clan Hasekura. ¿Cómo se pueden romper alrededor de Haine? Observemos y veamos."
-"Mutsu (talking)","あんたー、こんなとこでいつまでも ぼっとしてないで、遊びに行こうよー。 陸奥、ぽんかんあめ食べたーい。","You, don't stay idle here forever, let's go have fun! Mutsu, I want some ponkan candy.","Tú, no te quedes aquí sin hacer nada, vamos a jugar. Mutsu, quiero un poco de caramelo ponkan."
-"Yamamoto Ippatsu (talking)","うむ、それでは行くとするかの。","Well, let's get going then.","Mm, vamos a ir entonces."
-"Mutsu (talking)","わーい、ぽんかんあめー。","Yay, ponkan candy.","Yay, ponkan candy."
-"Yamamoto Ippatsu (talking)","ハイヨー、シルバー！！","Hi-yo, Silver!","¡Hola, Silver!"
-"narrator","その老人は、山上から悪司の動向を 窺っていた。","The old man was watching Akuji's movements from the mountain.","El anciano observaba los movimientos de Akuji desde la cima de la montaña."
-"Yamamoto Ippatsu (thinking)","……なんと、情にほだされおったか…… しかし悪司よ、金ヅルを捨てるという事は 命を捨てると同等。
+Mutsu (talking),あんたー、こんなとこでいつまでも ぼっとしてないで、遊びに行こうよー。 陸奥、ぽんかんあめ食べたーい。,"You, don't stay idle here forever, let's go have fun! Mutsu, I want some ponkan candy.","Tú, no te quedes aquí sin hacer nada, vamos a jugar. Mutsu, quiero un poco de caramelo ponkan."
+Yamamoto Ippatsu (talking),うむ、それでは行くとするかの。,"Well, let's get going then.","Mm, vamos a ir entonces."
+Mutsu (talking),わーい、ぽんかんあめー。,"Yay, ponkan candy.","Yay, ponkan candy."
+Yamamoto Ippatsu (talking),ハイヨー、シルバー！！,"Hi-yo, Silver!","¡Hola, Silver!"
+narrator,その老人は、山上から悪司の動向を 窺っていた。,The old man was watching Akuji's movements from the mountain.,El anciano observaba los movimientos de Akuji desde la cima de la montaña.
+Yamamoto Ippatsu (thinking),"……なんと、情にほだされおったか…… しかし悪司よ、金ヅルを捨てるという事は 命を捨てると同等。
 今まで通り、巧く事が 進むと思ってはいかんぞ。
 それでも、 お前の恋を通す事が出来るかの？
 民華という娘、怨まずに… 思っているより大変な事かもしれぬぞ。","How you have been moved by the love of your heart…… But Akuji, throwing away your golden crane is the same as throwing away your life.
@@ -126,8 +126,8 @@ Don't hold a grudge against that girl Minka… it may be harder than you think."
 No piense que las cosas van a ir tan bien como antes.
 Pero, ¿podrás seguir con tu amor?
 No le guardes rencor a la chica Minka, puede ser más difícil de lo que crees."
-"narrator","その老人は、山上から悪司の動向を 窺っていた。","The old man was watching Akuji's movements from the mountain.","El anciano observaba los movimientos de Akuji desde la cima de la montaña."
-"Yamamoto Ippatsu (thinking)","とうとう、生涯の女を手に入れたか。 これで少しは一人前に近づいたかの。
+narrator,その老人は、山上から悪司の動向を 窺っていた。,The old man was watching Akuji's movements from the mountain.,El anciano observaba los movimientos de Akuji desde la cima de la montaña.
+Yamamoto Ippatsu (thinking),"とうとう、生涯の女を手に入れたか。 これで少しは一人前に近づいたかの。
 だが悪司。 そこで満足するでないぞ。
 添い遂げてこそ、初めて自分の中で 最後に残る物が何かわかる時。
 それまで……謳歌するとええ。 今が一番、楽しい時期じゃ。","You finally have the woman of your life. Now you're a little closer to becoming a man.
@@ -137,18 +137,18 @@ Until then, enjoy ……. Now is the most enjoyable time.","Por fin tienes a la 
 Pero Akuji. No te conformes con eso.
 Sólo cuando estéis juntos sabréis lo que os queda al final.
 Hasta entonces, disfruta de ……. Este es el momento más agradable de tu vida."
-"Belladonna (talking)","嬉しそうですね。","You seem happy.","Pareces feliz."
-"Yamamoto Ippatsu (talking)","そう見えるか。","Does it look that way?","¿Se ve así?"
-"Belladonna (talking)","はい。","Yes.","Sí."
-"Yamamoto Ippatsu (talking)","青春時代の甘いものを思い出すと、 人はそれだけで幸せになれるのかも しれんな。","Perhaps it is just the reminder of the sweet things of one's youth that makes one happy.","Quizá recordar las cosas dulces de la juventud sea suficiente para ser feliz."
-"narrator","その老人は、山上から悪司の動向を 窺っていた。","The old man was watching Akuji's movements from the mountain.","El anciano observaba los movimientos de Akuji desde la cima de la montaña."
-"Yamamoto Ippatsu (thinking)","クククッ……あのシーネルとかいう女、 楽しい事をするではないか。
+Belladonna (talking),嬉しそうですね。,You seem happy.,Pareces feliz.
+Yamamoto Ippatsu (talking),そう見えるか。,Does it look that way?,¿Se ve así?
+Belladonna (talking),はい。,Yes.,Sí.
+Yamamoto Ippatsu (talking),青春時代の甘いものを思い出すと、 人はそれだけで幸せになれるのかも しれんな。,Perhaps it is just the reminder of the sweet things of one's youth that makes one happy.,Quizá recordar las cosas dulces de la juventud sea suficiente para ser feliz.
+narrator,その老人は、山上から悪司の動向を 窺っていた。,The old man was watching Akuji's movements from the mountain.,El anciano observaba los movimientos de Akuji desde la cima de la montaña.
+Yamamoto Ippatsu (thinking),"クククッ……あのシーネルとかいう女、 楽しい事をするではないか。
 悪司はどこまで耐えるかの？ その事で周囲をどれだけ抑える事が 出来るかの？
 ククッ…生きているもんじゃ。 楽しい見世物じゃ。","How much more can Akuji endure? How much can he hold back the people around him with that?
 Kkk…it's a living thing. It's a fun spectacle.","¿Cuánto más puede aguantar Akuji? ¿Cuánto puede retener a los que le rodean con eso?
 Kkk… es un ser vivo. Es un espectáculo divertido."
-"narrator","その老人は、山上から悪司の動向を 窺っていた。","The old man was watching Akuji's movements from the mountain.","El anciano observaba los movimientos de Akuji desde la cima de la montaña."
-"Yamamoto Ippatsu (thinking)","面白い男になったな、悪司。
+narrator,その老人は、山上から悪司の動向を 窺っていた。,The old man was watching Akuji's movements from the mountain.,El anciano observaba los movimientos de Akuji desde la cima de la montaña.
+Yamamoto Ippatsu (thinking),"面白い男になったな、悪司。
 血縁でなければ、巨大な力を手に 入れたお前と、戦ってみたいところ じゃが……
  ……………
  ――――――うむ。
@@ -173,117 +173,117 @@ Pero sólo si se ponen en contacto conmigo.
  ¿Qué vas a hacer, tú…… vas a estar atento? Con pensamientos insatisfechos en tu mente.
 Eso no es muy Haku. No olvides que tienes un padre aquí…
 Es en momentos como estos que debes recurrir a mí…"
-"narrator","その老人は、山上から悪司の動向を 窺っていた。","The old man was watching Akuji's movements from the mountain.","El anciano observaba los movimientos de Akuji desde la cima de la montaña."
-"Yamamoto Ippatsu (thinking)","トロい。 トロ過ぎる。
+narrator,その老人は、山上から悪司の動向を 窺っていた。,The old man was watching Akuji's movements from the mountain.,El anciano observaba los movimientos de Akuji desde la cima de la montaña.
+Yamamoto Ippatsu (thinking),"トロい。 トロ過ぎる。
 どんな策があって、そのような事を しているか知らんが、このままでは…","Too slow. Too slow.
 I don't know what kind of plan they have to do that, but if they don't…","Demasiado lento. Demasiado lento.
 No sé qué tipo de medidas tienen para hacerlo, pero si no lo hacen…"
-"narrator","　　［くきききー　くきききー］","［Kuki kuki kuki.]","[Kuki kiki kiki]."
-"Yamamoto Ippatsu (talking)","むっ！？","Mwah!","¡Mwah!"
-"narrator","　　［くきききー　くきききー］","［Kuki kuki kuki.]","[Kuki kiki kiki]."
-"Yamamoto Ippatsu (talking)","…………遅かったか……
+narrator,　　［くきききー　くきききー］,［Kuki kuki kuki.],[Kuki kiki kiki].
+Yamamoto Ippatsu (talking),むっ！？,Mwah!,¡Mwah!
+narrator,　　［くきききー　くきききー］,［Kuki kuki kuki.],[Kuki kiki kiki].
+Yamamoto Ippatsu (talking),"…………遅かったか……
 奴らがきたか…… どうする、悪司……","………… Too late, ……
 They're here…… what to do,Akuji ……","………… ¿Demasiado tarde? ……
 Están aquí…… Qué hacer, Akuji ……"
-"narrator","その老人は、山上から悪司の動向を 窺っていた。","The old man was watching Akuji's movements from the mountain.","El anciano observaba los movimientos de Akuji desde la cima de la montaña."
-"Yamamoto Ippatsu (thinking)","邪魔モノは潰す。 そう教えてやったというのに、 何を躊躇しておる、あの馬鹿孫は…","I taught him that. That's what I taught him, but what's he waiting for, that stupid grandson…","Si algo se interpone en el camino, aplástalo. Eso es lo que le enseñé, pero lo que te retiene, estúpido nieto…"
-"narrator","　　［くきききー　くきききー］","［Kuki kuki kuki.]","[Kuki kiki kiki]."
-"Yamamoto Ippatsu (talking)","………………","………………","………………"
-"narrator","　　［くきききー　くきききー］
+narrator,その老人は、山上から悪司の動向を 窺っていた。,The old man was watching Akuji's movements from the mountain.,El anciano observaba los movimientos de Akuji desde la cima de la montaña.
+Yamamoto Ippatsu (thinking),邪魔モノは潰す。 そう教えてやったというのに、 何を躊躇しておる、あの馬鹿孫は…,"I taught him that. That's what I taught him, but what's he waiting for, that stupid grandson…","Si algo se interpone en el camino, aplástalo. Eso es lo que le enseñé, pero lo que te retiene, estúpido nieto…"
+narrator,　　［くきききー　くきききー］,［Kuki kuki kuki.],[Kuki kiki kiki].
+Yamamoto Ippatsu (talking),………………,………………,………………
+narrator,"　　［くきききー　くきききー］
 一発の横を多数の遅刻ペンギンが 走り抜けていった。","［Kuki kuki kuki.]
 Many late penguins ran past Ippatsu.","［Kuki kuki kuki.]
 Numerosos pingüinos tardíos pasaron por delante de Ippatsu."
-"Yamamoto Ippatsu (talking)","遅い奴には、罰が必要だ。 苦労するがよい。","The slow ones need to be punished. Struggle with it.","Hay que castigar a los lentos. Lucha duro, pero hazlo."
-"chikokupengin (talking)","くきききー　くきききー。","Kuki kiki - kuki kiki.","Kuki kiki - kuki kiki."
-"chikokupengin (talking)","くきききー　くきききー。","Kuki kiki - kuki kiki.","Kuki kiki - kuki kiki."
-"narrator","遅刻ペンギン達は、去って行った。
+Yamamoto Ippatsu (talking),遅い奴には、罰が必要だ。 苦労するがよい。,The slow ones need to be punished. Struggle with it.,"Hay que castigar a los lentos. Lucha duro, pero hazlo."
+chikokupengin (talking),くきききー　くきききー。,Kuki kiki - kuki kiki.,Kuki kiki - kuki kiki.
+chikokupengin (talking),くきききー　くきききー。,Kuki kiki - kuki kiki.,Kuki kiki - kuki kiki.
+narrator,"遅刻ペンギン達は、去って行った。
  　　［くきききー　くきききー］ （遅れたら、また来るぞーー）","The late penguins left.
  　　［Kuki kiki kuki kiki] (If it gets late, I will come back!)","Los pingüinos tardíos se han ido.
  　　［Kuki kiki kuki kiki] (Si se hace tarde, ¡volveré!)"
-"narrator","悪司の支配下となっているそこに ただ一人、殺が立っている。
+narrator,"悪司の支配下となっているそこに ただ一人、殺が立っている。
  　　［ヴォン　ヴォォォォ………］","Only one person, Satsu, stands there, under the control of Akuji.
  　　[Von Wohohoh ………]","Sólo un Satsu está allí, bajo el control de Akuji.
  　　[Von Wohl, ………]"
-"Takega Satsu (talking)","……………","……………","……………"
-"narrator","遠くから爆音をあげ、一発のバイクが 殺の前に止まった。
+Takega Satsu (talking),……………,……………,……………
+narrator,"遠くから爆音をあげ、一発のバイクが 殺の前に止まった。
 バイクが止まった時に生まれた風が、 殺の髪を撫でる。","With a distant roar, Ippatsu's motorcycle comes to a stop in front of Satsu.
 The wind created when the bike stopped caressed Satsu's hair.","Con una explosión lejana, la moto de Ippatsu se detuvo frente a Satsu.
 El viento creado cuando la moto se detuvo acarició el pelo de Satsu."
-"Yamamoto Ippatsu (talking)","何があった。 お前がワシを呼び出すなど。","What happened? You called me.","Lo que pasó. Me llamaste."
-"Takega Satsu (talking)","ここでないどこかに行きたい。","I want to go somewhere that is not here.","Quiero ir a un lugar que no esté aquí."
-"Yamamoto Ippatsu (talking)","む――","un--","un--"
-"Takega Satsu (talking)","お願いだ、親父殿。 私をどこかに連れて行って……","Please, Mister Dad. Take me somewhere ……","Por favor, señor papá. Llévame a otro sitio……"
-"Yamamoto Ippatsu (talking)","オオサカがいやなのか。","You don't like OSAKA?","No te gusta OSAKA."
-"Takega Satsu (talking)","違う……","Different ……","Diferente: ……"
-"Yamamoto Ippatsu (talking)","惚れたか。","You're in love.","Estás enamorado de ella."
-"Takega Satsu (talking)","……………","……………","……………"
-"Yamamoto Ippatsu (talking)","アレはそれ程、お前を魅了したのか。","Did that thing fascinate you Ryou so much?","¿Te fascinó tanto esa cosa?"
-"Takega Satsu (talking)","……私は……あれの叔母だ。 それ以上でも、それ以下でもない。 あれにとって……","……I am the aunt of…… that. Nothing more, nothing less. I am to it what ……","…… Soy la tía de…… que. Nada más y nada menos. A esa cosa, soy ……"
-"Yamamoto Ippatsu (talking)","それがわかっているから、つらいのか。 それ程、惚れてしまったのか。","Is it hard because you know that? Have you fallen in love with it that much?","¿Es difícil porque lo sabes? ¿Te has enamorado tanto de ella?"
-"Takega Satsu (talking)","………………","………………","………………"
-"Yamamoto Ippatsu (talking)","アレもいい男になったからな。","That thing has become a good man, too.","Esa cosa también se ha convertido en un buen hombre."
-"Takega Satsu (talking)","あれは…… 私ではなく、別の女を見ている。","That's…… looking at another woman, not me.","Eso es…… no yo, estoy mirando a otra mujer."
-"Yamamoto Ippatsu (talking)","うむ。","Mm.","Mm."
-"Takega Satsu (talking)","あれが生涯をかける女は、 あれのそばで生きている。
+Yamamoto Ippatsu (talking),何があった。 お前がワシを呼び出すなど。,What happened? You called me.,Lo que pasó. Me llamaste.
+Takega Satsu (talking),ここでないどこかに行きたい。,I want to go somewhere that is not here.,Quiero ir a un lugar que no esté aquí.
+Yamamoto Ippatsu (talking),む――,un--,un--
+Takega Satsu (talking),お願いだ、親父殿。 私をどこかに連れて行って……,"Please, Mister Dad. Take me somewhere ……","Por favor, señor papá. Llévame a otro sitio……"
+Yamamoto Ippatsu (talking),オオサカがいやなのか。,You don't like OSAKA?,No te gusta OSAKA.
+Takega Satsu (talking),違う……,Different ……,Diferente: ……
+Yamamoto Ippatsu (talking),惚れたか。,You're in love.,Estás enamorado de ella.
+Takega Satsu (talking),……………,……………,……………
+Yamamoto Ippatsu (talking),アレはそれ程、お前を魅了したのか。,Did that thing fascinate you Ryou so much?,¿Te fascinó tanto esa cosa?
+Takega Satsu (talking),……私は……あれの叔母だ。 それ以上でも、それ以下でもない。 あれにとって……,"……I am the aunt of…… that. Nothing more, nothing less. I am to it what ……","…… Soy la tía de…… que. Nada más y nada menos. A esa cosa, soy ……"
+Yamamoto Ippatsu (talking),それがわかっているから、つらいのか。 それ程、惚れてしまったのか。,Is it hard because you know that? Have you fallen in love with it that much?,¿Es difícil porque lo sabes? ¿Te has enamorado tanto de ella?
+Takega Satsu (talking),………………,………………,………………
+Yamamoto Ippatsu (talking),アレもいい男になったからな。,"That thing has become a good man, too.",Esa cosa también se ha convertido en un buen hombre.
+Takega Satsu (talking),あれは…… 私ではなく、別の女を見ている。,"That's…… looking at another woman, not me.","Eso es…… no yo, estoy mirando a otra mujer."
+Yamamoto Ippatsu (talking),うむ。,Mm.,Mm.
+Takega Satsu (talking),"あれが生涯をかける女は、 あれのそばで生きている。
 二人が揃っているところを、 いやでも見てしまう……
  ……思った以上に…つらい……","The woman he spends his life with lives by his side.
 I can't help but see the two of them together ……
  ……It's harder than I thought it would be… ……","La mujer con la que pasa su vida vive a su lado.
 Los ves juntos, aunque no quieras………… Es aún más… doloroso de lo que pensaba……"
-"narrator","殺はそう言って、うつむいた。","Satsu said so and slumped down.","Satsu luego se desplomó."
-"Yamamoto Ippatsu (talking)","ならば、アレの人生ごと、奪ってしまえ。","Then take that thing's whole life.","Entonces quítale toda la vida a esa cosa."
-"Takega Satsu (talking)","っ…………","You can find out more at …………","…………"
-"narrator","殺の顔があがる。","Satsu's face rises.","La cara de Satsu se levanta."
-"Yamamoto Ippatsu (talking)","鳴かぬなら、殺してしまえばいい。","If it doesn't squeak, let it Satsu.","Si no chillan, puedes Satsulos."
-"Takega Satsu (talking)","……っ…………
+narrator,殺はそう言って、うつむいた。,Satsu said so and slumped down.,Satsu luego se desplomó.
+Yamamoto Ippatsu (talking),ならば、アレの人生ごと、奪ってしまえ。,Then take that thing's whole life.,Entonces quítale toda la vida a esa cosa.
+Takega Satsu (talking),っ…………,You can find out more at …………,…………
+narrator,殺の顔があがる。,Satsu's face rises.,La cara de Satsu se levanta.
+Yamamoto Ippatsu (talking),鳴かぬなら、殺してしまえばいい。,"If it doesn't squeak, let it Satsu.","Si no chillan, puedes Satsulos."
+Takega Satsu (talking),"……っ…………
 私……の…この手で…？","I…… and …………
 I……… with my… hands?","I…… y …………
 Yo……… con mis… ¿manos?"
-"Yamamoto Ippatsu (talking)","そうじゃ。 お前のその手での。","That's right. With your hands.","Sí. Con las manos."
-"Takega Satsu (talking)","……………","……………","……………"
-"Yamamoto Ippatsu (talking)","愛の形はそれぞれじゃぞ、殺。
+Yamamoto Ippatsu (talking),そうじゃ。 お前のその手での。,That's right. With your hands.,Sí. Con las manos.
+Takega Satsu (talking),……………,……………,……………
+Yamamoto Ippatsu (talking),"愛の形はそれぞれじゃぞ、殺。
 お前はワシの娘じゃ。 ワシも協力してやる。
 さあ、どうするのぅ？","Love comes in different forms, Satsu.
 You are my daughter. I'll help you.
 So, what are you going to do?","El amor tiene diferentes formas, Satsu.
 Tú eres mi hija. Te ayudaré.
 Entonces, ¿qué vas a hacer?"
-"Takega Satsu (talking)","……………","……………","……………"
-"narrator","悪司が人探し顔で、事務所に入ってきた。","Akuji entered the office with a searching look on his face.","Akuji entró en el despacho con una mirada escrutadora."
-"Yamamoto Akuji (talking)","おう、さっちゃんこっちにきてねーか？","Oh, Satchan, are you here?","Oh, Satchan, ¿estás aquí?"
-"Seinendan Jyoshi (talking)","えー？ いらっしゃいませんよ？ お部屋の方でないですか？","What? He's not here. Are you not in your room?","¿Qué? No está aquí, ¿verdad? ¿No estás en tu habitación?"
-"Yamamoto Akuji (talking)","それがいねーんだよ…… どこ行ったのかなー…","That ain't there…… I wonder where they went…","Eso no está ahí…… Me pregunto a dónde fueron…"
-"narrator","太平洋洋上に、巨大な人工物が動いていた。
+Takega Satsu (talking),……………,……………,……………
+narrator,悪司が人探し顔で、事務所に入ってきた。,Akuji entered the office with a searching look on his face.,Akuji entró en el despacho con una mirada escrutadora.
+Yamamoto Akuji (talking),おう、さっちゃんこっちにきてねーか？,"Oh, Satchan, are you here?","Oh, Satchan, ¿estás aquí?"
+Seinendan Jyoshi (talking),えー？ いらっしゃいませんよ？ お部屋の方でないですか？,What? He's not here. Are you not in your room?,"¿Qué? No está aquí, ¿verdad? ¿No estás en tu habitación?"
+Yamamoto Akuji (talking),それがいねーんだよ…… どこ行ったのかなー…,That ain't there…… I wonder where they went…,Eso no está ahí…… Me pregunto a dónde fueron…
+narrator,"太平洋洋上に、巨大な人工物が動いていた。
 空母――いや、こんな巨大な空母はない… ゆうに３０万トンはあると思われる巨体。","A huge man-made object was moving in the Pacific Ocean.
 An aircraft carrier - no, not this huge carrier… a behemoth that is thought to weigh 300,000 tons.","Un enorme objeto artificial se movía en el Océano Pacífico.
 Un portaaviones… no, no este enorme portaaviones… un behemoth que se cree que pesa 300.000 toneladas."
-"Belladonna (talking)","ホワイトベア。","White Bear.","Oso blanco."
-"Yamamoto Ippatsu (talking)","どうした、ベラドンナ。","What's up, Belladonna.","Qué pasa, Belladonna."
-"Belladonna (talking)","言われた通り、ギガフロートの進路を ニホンに設定しました。","As you said, I set the course of Giga Float to Nihong.","Como nos dijeron, pusimos el rumbo del Giga float hacia Nihong."
-"Yamamoto Ippatsu (talking)","うむ。","Mm.","Mm."
-"narrator","ギガフロートは、その巨体、そして自力で 動く事が出来ない為、八隻のタグボートで 引くしか移動手段がなかった。
+Belladonna (talking),ホワイトベア。,White Bear.,Oso blanco.
+Yamamoto Ippatsu (talking),どうした、ベラドンナ。,"What's up, Belladonna.","Qué pasa, Belladonna."
+Belladonna (talking),言われた通り、ギガフロートの進路を ニホンに設定しました。,"As you said, I set the course of Giga Float to Nihong.","Como nos dijeron, pusimos el rumbo del Giga float hacia Nihong."
+Yamamoto Ippatsu (talking),うむ。,Mm.,Mm.
+narrator,"ギガフロートは、その巨体、そして自力で 動く事が出来ない為、八隻のタグボートで 引くしか移動手段がなかった。
 その為、速度は非常に遅かった。","Because of its huge size and inability to move under its own power, GIGAFLOAT could only be pulled by eight tugboats.
 Therefore, its speed was very slow.","Debido a su enorme tamaño y a su incapacidad para moverse por sus propios medios, el Giga-Float sólo podía ser arrastrado por ocho remolcadores.
 Por lo tanto, su velocidad era muy lenta."
-"Belladonna (talking)","ニホン…あなたの国ですね。","Nihon…your country.","Nihon… tu país."
-"Yamamoto Ippatsu (talking)","うむ。","Mm.","Mm."
-"Belladonna (talking)","何が目的で、私達をそこに連れて行こうと しているのです？","What are you trying to get us there for?","¿Cuál es el objetivo de intentar llevarnos hasta allí?"
-"Yamamoto Ippatsu (talking)","ん？","Hmm?","¿Eh?"
-"Belladonna (talking)","目的もなく、あなたがこれを動かすとは 思えない。","I can't imagine you would move this without a purpose.","No puedo ver que se ejecute esto sin un propósito."
-"Yamamoto Ippatsu (talking)","聡いの。
+Belladonna (talking),ニホン…あなたの国ですね。,Nihon…your country.,Nihon… tu país.
+Yamamoto Ippatsu (talking),うむ。,Mm.,Mm.
+Belladonna (talking),何が目的で、私達をそこに連れて行こうと しているのです？,What are you trying to get us there for?,¿Cuál es el objetivo de intentar llevarnos hasta allí?
+Yamamoto Ippatsu (talking),ん？,Hmm?,¿Eh?
+Belladonna (talking),目的もなく、あなたがこれを動かすとは 思えない。,I can't imagine you would move this without a purpose.,No puedo ver que se ejecute esto sin un propósito.
+Yamamoto Ippatsu (talking),"聡いの。
 目的はあると言えばある。 ないと言えばない。","Intelligent.
 Say it has a purpose. If you say you don't, you don't.","Inteligente.
 Digamos que tiene un propósito, lo tiene. Si dices que no, no lo haces."
-"Belladonna (talking)","時が熟していないのですね。","The time is not ripe.","No ha llegado el momento."
-"Yamamoto Ippatsu (talking)","そうじゃ。
+Belladonna (talking),時が熟していないのですね。,The time is not ripe.,No ha llegado el momento.
+Yamamoto Ippatsu (talking),"そうじゃ。
  ……奴が…ワシの見込み通りの男になるか そうでないか……
- ……くっくくくっ… 楽しみじゃわい。","Yes.…… he'll either be… what I think he'll be or he won't………… Kukkukkukkukkukk… I'm looking forward to it.","Sí.…… si él… resulta ser el hombre que esperaba que fuera o no……"
-"narrator","ギガフロートはニホンめざし、 ゆっくりと太平洋上を進んでいる。","The Giga-Float is moving slowly over the Pacific Ocean, aiming for Japan.","El Giga-Float se desplaza lentamente por el Océano Pacífico, apuntando a Japón."
-"Belladonna (talking)","ホワイトベア。 あなたに無線です。","White Bear. Radio to you.","Oso blanco. La radio para ti."
-"Yamamoto Ippatsu (talking)","誰からじゃ？","From whom?","¿De quién?"
-"Belladonna (talking)","ウィミィ極東地区総司令官からです。","Wime from the Commander-in-Chief of the Far East Region.","Del Comandante en Jefe de la Región del Lejano Oriente."
-"Yamamoto Ippatsu (talking)","おう、オードリーからか。","Oh, from Audrey.","Oh, de Audrey."
-"Yamamoto Ippatsu (talking)","おう、どうした、オードリー。 ワシの事が恋しくなったか。
+ ……くっくくくっ… 楽しみじゃわい。",Yes.…… he'll either be… what I think he'll be or he won't………… Kukkukkukkukkukk… I'm looking forward to it.,Sí.…… si él… resulta ser el hombre que esperaba que fuera o no……
+narrator,ギガフロートはニホンめざし、 ゆっくりと太平洋上を進んでいる。,"The Giga-Float is moving slowly over the Pacific Ocean, aiming for Japan.","El Giga-Float se desplaza lentamente por el Océano Pacífico, apuntando a Japón."
+Belladonna (talking),ホワイトベア。 あなたに無線です。,White Bear. Radio to you.,Oso blanco. La radio para ti.
+Yamamoto Ippatsu (talking),誰からじゃ？,From whom?,¿De quién?
+Belladonna (talking),ウィミィ極東地区総司令官からです。,Wime from the Commander-in-Chief of the Far East Region.,Del Comandante en Jefe de la Región del Lejano Oriente.
+Yamamoto Ippatsu (talking),おう、オードリーからか。,"Oh, from Audrey.","Oh, de Audrey."
+Yamamoto Ippatsu (talking),"おう、どうした、オードリー。 ワシの事が恋しくなったか。
  ……うむ…そうか… じゃが、今はまだそちらに行く気に ならん。
 おとなしく、ワシの言う事を聞き、 仕事に精をだしておれ。
 うむ、そうじゃな。 ワシの前でだけ、可愛い小娘に 戻ればいい。
@@ -294,49 +294,49 @@ Good-bye, Audrey. Wait for me.","¿Qué pasa, Audrey? ¿Me has echado de menos?�
 Así que tendrás que hacer lo que te diga y seguir con tu trabajo.
 Sí, así es. Sólo delante de mí, puedes volver a ser una niña bonita.
 Adiós, Audrey. Espérame."
-"narrator","そう言って、一発は無線を切った。","With that, Ippatsu turned off the radio.","Dicho esto, Ippatsu apagó la radio."
-"Belladonna (talking)","会いたいのなら、向こうからくるのが 常識だと思うんですが。","I think it's common sense that if they want to see you, they should come to you.","Creo que es de sentido común que si quieren verte, deben acudir a ti."
-"Yamamoto Ippatsu (talking)","そうもいかんじゃろ。 大きな地位を抱えているとの。","Not so fast. You have a big position.","No tan bien, supongo. Tienes una gran posición."
-"Belladonna (talking)","私達の大地を奪った上で成り立っている 地位ですけどね。","It is a position built on the taking of our land, though.","Sin embargo, es una posición construida sobre la toma de nuestra tierra."
-"Yamamoto Ippatsu (talking)","そうじゃな。","That's right.","Sí."
-"Belladonna (talking)","……………","……………","……………"
-"narrator","一発は甲板に立ち、ニホンの方を見つめている。","Ippatsu is standing on the deck, staring at Nihon.","Ippatsu está de pie en la cubierta, mirando hacia NIHON."
-" (talking)","あーーーんた。","Aaaaannnddd.","Aaanta."
-"narrator","と、乗っていた雲からひらりと重さのない者の ように舞い、一発の首に足を絡ませたのは、 陸奥だった。
+narrator,そう言って、一発は無線を切った。,"With that, Ippatsu turned off the radio.","Dicho esto, Ippatsu apagó la radio."
+Belladonna (talking),会いたいのなら、向こうからくるのが 常識だと思うんですが。,"I think it's common sense that if they want to see you, they should come to you.","Creo que es de sentido común que si quieren verte, deben acudir a ti."
+Yamamoto Ippatsu (talking),そうもいかんじゃろ。 大きな地位を抱えているとの。,Not so fast. You have a big position.,"No tan bien, supongo. Tienes una gran posición."
+Belladonna (talking),私達の大地を奪った上で成り立っている 地位ですけどね。,"It is a position built on the taking of our land, though.","Sin embargo, es una posición construida sobre la toma de nuestra tierra."
+Yamamoto Ippatsu (talking),そうじゃな。,That's right.,Sí.
+Belladonna (talking),……………,……………,……………
+narrator,一発は甲板に立ち、ニホンの方を見つめている。,"Ippatsu is standing on the deck, staring at Nihon.","Ippatsu está de pie en la cubierta, mirando hacia NIHON."
+ (talking),あーーーんた。,Aaaaannnddd.,Aaanta.
+narrator,"と、乗っていた雲からひらりと重さのない者の ように舞い、一発の首に足を絡ませたのは、 陸奥だった。
 陸奥はそのまま一発の肩に乗り、 彼と同じ方を見た。","And it was Mai who fluttered out of the cloud he was riding on like a weightless person, and wrapped his legs around Ippatsu's neck.
 Mutsu remained on Ippatsu's shoulder and looked in the same direction as him.","Y fue Mai quien salió revoloteando de la nube sobre la que cabalgaba como una persona ingrávida, y enredó sus piernas alrededor del cuello de Ippatsu.
 Mutsu se quedó en el hombro de Ippatsu y miró en la misma dirección que él."
-"Mutsu (talking)","また、ニホンの方、見てるー。","Also, Nihonjin, I'm looking at you.","También, Nihon no kan, te estoy mirando -."
-"Yamamoto Ippatsu (talking)","うむ。","Mm.","Mm."
-"Mutsu (talking)","そんなに、楽しみにしている果実が あるんだー。","I'm really looking forward to seeing the fruits of my labor.","Hay frutas para esperar tanto."
-"Yamamoto Ippatsu (talking)","うむ。","Mm.","Mm."
-"Mutsu (talking)","ねえねえ、あんたの孫ってさ、 そんなに強いの？","Hey, hey, is your grandson really that strong?","Oye, oye, ¿tu nieto es realmente tan fuerte?"
-"Yamamoto Ippatsu (talking)","さあな。","I don't know.","No lo sé."
-"Mutsu (talking)","ふーん。 じゃあ、あんたもその拳で 確かめた訳じゃないんだー。","Hmm. So you didn't check with your fist either.","Hmm. Así que tampoco lo comprobaste con los puños."
-"Yamamoto Ippatsu (talking)","ワシとあいつがやり合うなんぞ、 まだ早すぎる。","It's still too early for me and him to have a fight.","Es demasiado pronto para que él y yo nos peleemos."
-"Mutsu (talking)","ふーん。 だったら、陸奥もまだ興味ないかなー。","Hmmm. Then I guess Mutsu is still not interested.","Hmmm. Si ese es el caso, me pregunto si Mutsu sigue sin estar interesado."
-"narrator","陸奥は一発の肩から離れ、 ふわりと地面に降りた。","Mutsu left Ippatsu's shoulder and landed softly on the ground.","Mutsu dejó el hombro de Ippatsu y aterrizó suavemente en el suelo."
-"Mutsu (talking)","陸奥も楽しみだな。 あんたがそんなにワクワクしている、 孫と戦うの。","I'm looking forward to Mutsu too. You're so excited to fight your grandson.","Yo también estoy deseando que llegue Mutsu. Estás muy emocionado por luchar contra tu nieto."
-"Yamamoto Ippatsu (talking)","そうか。","Okay.","Sí."
-"Mutsu (talking)","うんっ！
+Mutsu (talking),また、ニホンの方、見てるー。,"Also, Nihonjin, I'm looking at you.","También, Nihon no kan, te estoy mirando -."
+Yamamoto Ippatsu (talking),うむ。,Mm.,Mm.
+Mutsu (talking),そんなに、楽しみにしている果実が あるんだー。,I'm really looking forward to seeing the fruits of my labor.,Hay frutas para esperar tanto.
+Yamamoto Ippatsu (talking),うむ。,Mm.,Mm.
+Mutsu (talking),ねえねえ、あんたの孫ってさ、 そんなに強いの？,"Hey, hey, is your grandson really that strong?","Oye, oye, ¿tu nieto es realmente tan fuerte?"
+Yamamoto Ippatsu (talking),さあな。,I don't know.,No lo sé.
+Mutsu (talking),ふーん。 じゃあ、あんたもその拳で 確かめた訳じゃないんだー。,Hmm. So you didn't check with your fist either.,Hmm. Así que tampoco lo comprobaste con los puños.
+Yamamoto Ippatsu (talking),ワシとあいつがやり合うなんぞ、 まだ早すぎる。,It's still too early for me and him to have a fight.,Es demasiado pronto para que él y yo nos peleemos.
+Mutsu (talking),ふーん。 だったら、陸奥もまだ興味ないかなー。,Hmmm. Then I guess Mutsu is still not interested.,"Hmmm. Si ese es el caso, me pregunto si Mutsu sigue sin estar interesado."
+narrator,陸奥は一発の肩から離れ、 ふわりと地面に降りた。,Mutsu left Ippatsu's shoulder and landed softly on the ground.,Mutsu dejó el hombro de Ippatsu y aterrizó suavemente en el suelo.
+Mutsu (talking),陸奥も楽しみだな。 あんたがそんなにワクワクしている、 孫と戦うの。,I'm looking forward to Mutsu too. You're so excited to fight your grandson.,Yo también estoy deseando que llegue Mutsu. Estás muy emocionado por luchar contra tu nieto.
+Yamamoto Ippatsu (talking),そうか。,Okay.,Sí.
+Mutsu (talking),"うんっ！
 だってだって、あたし達一族の 誰にも負けなかったあんただよ。
 そのあんたが戦うのを楽しみに 待ってる男だなんて…すっごく強そう。","Yes!
 Because you've never been beaten by anyone in our clan.
 That you're the guy I'm looking forward to fighting…you look so strong.","¡Sí!
 Porque nunca has sido derrotado por nadie de nuestro clan.
 Que eres el tipo con el que estoy deseando luchar… pareces muy fuerte."
-"Yamamoto Ippatsu (talking)","ふ……","Not ……","No ……"
-"Mutsu (talking)","あー、早くニホンに着かないかなー。","Oh, I can't wait to get to Nihon!","No puedo esperar a llegar a Nihon."
-"Yamamoto Ippatsu (talking)","まだだな。 もう少しだ。","Not yet. Almost there.","Todavía no. Ya casi está."
-"narrator","そこに、巨大なギガフロートが ゆっくりと入ってきた。","Then a huge gigafloat slowly entered.","Allí, un enorme gigaflote entró lentamente."
-"Yamamoto Ippatsu (talking)","よぉし、着いたぞ。","Okay, here we are.","Muy bien, ya estamos aquí."
-"Takega Satsu (talking)","親父殿…これをどうするつもりか？","Mister Dad…what are you going to do with this?","Señor papá… ¿qué vas a hacer con esto?"
-"Yamamoto Ippatsu (talking)","ベラドンナ。","Belladonna."," Belladonna."
-"Belladonna (talking)","ここに。","WHEREAS.","DÓNDE."
-"Yamamoto Ippatsu (talking)","ウィミィ極東地区総司令官に連絡を取れ。","Wime Contact the Far East Regional Commander.","Contacta con el Comandante Regional del Lejano Oriente."
-"Belladonna (talking)","はい。","Yes.","Sí."
-"narrator","ベラドンナは頷くと、無線を操作してから、 一発にマイクを手渡した。","Belladonna nodded and made Misao over the radio, then handed the microphone to Ippatsu.","Belladonna asintió e hizo Misao por la radio antes de entregar el micrófono a Ippatsu."
-"Yamamoto Ippatsu (talking)","ワシじゃ。 いい子にしておったか？
+Yamamoto Ippatsu (talking),ふ……,Not ……,No ……
+Mutsu (talking),あー、早くニホンに着かないかなー。,"Oh, I can't wait to get to Nihon!",No puedo esperar a llegar a Nihon.
+Yamamoto Ippatsu (talking),まだだな。 もう少しだ。,Not yet. Almost there.,Todavía no. Ya casi está.
+narrator,そこに、巨大なギガフロートが ゆっくりと入ってきた。,Then a huge gigafloat slowly entered.,"Allí, un enorme gigaflote entró lentamente."
+Yamamoto Ippatsu (talking),よぉし、着いたぞ。,"Okay, here we are.","Muy bien, ya estamos aquí."
+Takega Satsu (talking),親父殿…これをどうするつもりか？,Mister Dad…what are you going to do with this?,Señor papá… ¿qué vas a hacer con esto?
+Yamamoto Ippatsu (talking),ベラドンナ。,Belladonna., Belladonna.
+Belladonna (talking),ここに。,WHEREAS.,DÓNDE.
+Yamamoto Ippatsu (talking),ウィミィ極東地区総司令官に連絡を取れ。,Wime Contact the Far East Regional Commander.,Contacta con el Comandante Regional del Lejano Oriente.
+Belladonna (talking),はい。,Yes.,Sí.
+narrator,ベラドンナは頷くと、無線を操作してから、 一発にマイクを手渡した。,"Belladonna nodded and made Misao over the radio, then handed the microphone to Ippatsu.",Belladonna asintió e hizo Misao por la radio antes de entregar el micrófono a Ippatsu.
+Yamamoto Ippatsu (talking),"ワシじゃ。 いい子にしておったか？
 おお、そうじゃ。 今はニホンにおる。 ナンコウじゃ。
 わかったわかった。 野暮用を済ませたら、 そっちに行ってやる。
 だから、今からワシの言う事を きちんと守れ。
@@ -355,15 +355,15 @@ Entonces, sigue adelante y sigue lo que digo.
 Hace un poco de ruido sobre Osaka. Pedí un poco de limpieza.
 No dejes que nadie se interponga en el camino. ¿Lo entiendes?
 ……Está bien, es una buena chica. Limpia tu cuerpo y espera. Eso es todo."
-"narrator","一発は無線を切った。","Ippatsu turned off the radio.","Ippatsu apagó la radio."
-"Takega Satsu (talking)","ウィミィ極東地区総司令官も、 親父殿のお手つきか。","Wime, the Commander-in-Chief of the Far East Region, is also a handmaiden of your father's.","El Comandante en Jefe de la Región del Lejano Oriente también tiene una mano de su padre."
-"Yamamoto Ippatsu (talking)","うむ。","Mm.","Mm."
-"Takega Satsu (talking)","では、エデンの馬鹿女に、 悪司が苦戦している時、助けてやって くれれば…","Now, if you could just help the stupid woman in Eden out when Akuji is struggling…","Ahora, si pudieras echarle una mano a la perra tonta de Eden cuando Akuji se esfuerza…"
-"Yamamoto Ippatsu (talking)","そんなつまらん真似が出来るか。 男なら、己の進む道の石ころぐらい、 自分で始末出来んとの。","Can you imitate such a boring thing? If he were a man, he would be able to get rid of the stones he was on his own.","¿Puedes imitar una cosa tan aburrida? Si él fuera un hombre, podría deshacerse de las piedras que estaba sola."
-"Takega Satsu (talking)","……………","……………","……………"
-"Yamamoto Ippatsu (talking)","よし。","All right.","DE ACUERDO."
-"narrator","一発はそこに集まっている者の方を向いた。 そこにはベラドンナ、陸奥の一族の者が 揃っていた。","Ippatsu turned toward those gathered there. There were all the members of Belladonna and Mutsu's clan.","Ippatsu se volvió hacia los allí reunidos. Allí estaban todos los miembros de los clanes Belladonna y Mutsu."
-"Yamamoto Ippatsu (talking)","待たせたな。 今から存分に、このオオサカで 暴れてこい。
+narrator,一発は無線を切った。,Ippatsu turned off the radio.,Ippatsu apagó la radio.
+Takega Satsu (talking),ウィミィ極東地区総司令官も、 親父殿のお手つきか。,"Wime, the Commander-in-Chief of the Far East Region, is also a handmaiden of your father's.",El Comandante en Jefe de la Región del Lejano Oriente también tiene una mano de su padre.
+Yamamoto Ippatsu (talking),うむ。,Mm.,Mm.
+Takega Satsu (talking),では、エデンの馬鹿女に、 悪司が苦戦している時、助けてやって くれれば…,"Now, if you could just help the stupid woman in Eden out when Akuji is struggling…","Ahora, si pudieras echarle una mano a la perra tonta de Eden cuando Akuji se esfuerza…"
+Yamamoto Ippatsu (talking),そんなつまらん真似が出来るか。 男なら、己の進む道の石ころぐらい、 自分で始末出来んとの。,"Can you imitate such a boring thing? If he were a man, he would be able to get rid of the stones he was on his own.","¿Puedes imitar una cosa tan aburrida? Si él fuera un hombre, podría deshacerse de las piedras que estaba sola."
+Takega Satsu (talking),……………,……………,……………
+Yamamoto Ippatsu (talking),よし。,All right.,DE ACUERDO.
+narrator,一発はそこに集まっている者の方を向いた。 そこにはベラドンナ、陸奥の一族の者が 揃っていた。,Ippatsu turned toward those gathered there. There were all the members of Belladonna and Mutsu's clan.,Ippatsu se volvió hacia los allí reunidos. Allí estaban todos los miembros de los clanes Belladonna y Mutsu.
+Yamamoto Ippatsu (talking),"待たせたな。 今から存分に、このオオサカで 暴れてこい。
 相手は中々の強豪揃いやもしれん。 気と手は抜くな。
 そーら、楽しんでこい！！ 遠慮はいらん！！
 ふはははははははは！！！","Sorry to keep you waiting. Now, go and run wild here in Osaka.
@@ -373,75 +373,75 @@ Ha-ha-ha-ha-ha!","Te he hecho esperar. Ahora, vete y corre a lo loco aquí en Os
 Tus oponentes pueden ser un grupo duro. Tengan cuidado y estén atentos.
 Adelante, diviértete. No sea tímido.
  ¡Ja, ja, ja, ja, ja!"
-"Takega Satsu (talking)","親父殿…？","Father…?","¿El señor papá…?"
-"Yamamoto Akuji (talking)","はぁ？","Huh?","¿Eh?"
-"Seinendan Jyoshi (talking)","ほ、本当なんです。 でっかい、山のような船だかなんだか わからないものから……
+Takega Satsu (talking),親父殿…？,Father…?,¿El señor papá…?
+Yamamoto Akuji (talking),はぁ？,Huh?,¿Eh?
+Seinendan Jyoshi (talking),"ほ、本当なんです。 でっかい、山のような船だかなんだか わからないものから……
 ぬいぐるみの怪獣みたいなのとか、 肌の黒い、でもウィミィ人とは違う人達が いっぱい出てきて…","It's true. From a big, mountainous ship or something I don't know, to a ……
 There were lots of stuffed animal monsters and dark-skinned people who weren't Wime people…","Es cierto. De una nave grande y montañosa o algo así no sé, a ……
 Había muchos monstruos de peluche y gente de piel oscura que no eran realmente gente Wime…"
-"Yamamoto Akuji (talking)","で、この街で暴れてるっていうのか？","And you say they are running amok in this city?","¿Y dices que se están desmadrando en esta ciudad?"
-"Seinendan Jyoshi (talking)","嘘じゃないです。 本当の事なんですよぅ！","It's not a lie. It's the truth!","No es una mentira. ¡Es la verdad!"
-"Yamamoto Akuji (talking)","ん~~…… でも、市議会から連絡もねーし…
+Yamamoto Akuji (talking),で、この街で暴れてるっていうのか？,And you say they are running amok in this city?,¿Y dices que se están desmadrando en esta ciudad?
+Seinendan Jyoshi (talking),嘘じゃないです。 本当の事なんですよぅ！,It's not a lie. It's the truth!,No es una mentira. ¡Es la verdad!
+Yamamoto Akuji (talking),"ん~~…… でも、市議会から連絡もねーし…
 おう、夕子さんに電話をつなげ。","Hmmm~…… but I ain't heard from the city council…
 Oh, get Yuuko on the phone.","Hmm~…… Pero no he tenido noticias del ayuntamiento…
 Oh, llama a Yuuko por teléfono."
-"Seinendan Jyoshi (talking)","は、はい。","Ha, yes.","Ja, sí."
-"narrator","「あーくん！！」","A-kun!","¡A-kun!”"
-"Yamamoto Akuji (talking)","夕子さん、実は……","Yuuko, actually ……","Yuuko, en realidad ……"
-"narrator","「な、なんだかよくわんないんだけど、 　街中で、なんだかわかんない人達が 　暴れてるの~~」","I don't know what's going on, but there are people running amok all over town.","No sé qué está pasando, pero hay gente desbocada en la ciudad."
-"Yamamoto Akuji (talking)","っ………","You can find out more at ………","………"
-"narrator","「どうしよう、あーくん…」","What should I do, ah-kun…?”","'Qué voy a hacer, ah-kun…'"
-"Yamamoto Akuji (talking)","ウィミィは……エデンは、 なんつってきた？","What did Wime say to…… Eden?","Wime es…… Eden, ¿qué has estado diciendo?"
-"narrator","「シーネルさんでも、 　どうする事も出来ないって…」","”Even Mr. Seanel said there was nothing he could do…”","Incluso Seanel dijo que no podía hacer nada…"
-"Yamamoto Akuji (talking)","キョウは！？ 中央はなんて！？","Kyou is! What is the center!","¿Qué es el Kyoo? ¡Qué centro!"
-"narrator","「中央も同じ~… 　色んなとこに電話ぐるぐる回されて、 　どっこも知らないって……」
+Seinendan Jyoshi (talking),は、はい。,"Ha, yes.","Ja, sí."
+narrator,「あーくん！！」,A-kun!,¡A-kun!”
+Yamamoto Akuji (talking),夕子さん、実は……,"Yuuko, actually ……","Yuuko, en realidad ……"
+narrator,「な、なんだかよくわんないんだけど、 　街中で、なんだかわかんない人達が 　暴れてるの~~」,"I don't know what's going on, but there are people running amok all over town.","No sé qué está pasando, pero hay gente desbocada en la ciudad."
+Yamamoto Akuji (talking),っ………,You can find out more at ………,………
+narrator,「どうしよう、あーくん…」,"What should I do, ah-kun…?”","'Qué voy a hacer, ah-kun…'"
+Yamamoto Akuji (talking),ウィミィは……エデンは、 なんつってきた？,What did Wime say to…… Eden?,"Wime es…… Eden, ¿qué has estado diciendo?"
+narrator,「シーネルさんでも、 　どうする事も出来ないって…」,”Even Mr. Seanel said there was nothing he could do…”,Incluso Seanel dijo que no podía hacer nada…
+Yamamoto Akuji (talking),キョウは！？ 中央はなんて！？,Kyou is! What is the center!,¿Qué es el Kyoo? ¡Qué centro!
+narrator,"「中央も同じ~… 　色んなとこに電話ぐるぐる回されて、 　どっこも知らないって……」
  「それどころか、脅えてごめんなさいって 　言う人もいて…」","”The same thing in the center… I've had people calling all over the place and saying they don't know where I am …….”
  “On the contrary, some even said they were sorry for scaring me…”","'La central es la misma… He tenido llamadas dando vueltas a todo tipo de lugares, y no sé dónde ……'.
 Por el contrario, algunos dicen que lamentan estar tan asustados…”"
-"Yamamoto Akuji (talking)","……………
+Yamamoto Akuji (talking),"……………
 なんじゃ、そりゃ…… 俺達ゃ、孤立無援って事に なっちまったのか？","……………
 What the heck is that?…… We're all alone and helpless now?","……………
  ¿Qué demonios es eso?…… Ahora estamos solos y desamparados, ¿no?"
-"narrator","「そうみたい……」","”Looks like so……”","'Parece que sí……'"
-"Yamamoto Akuji (talking)","一体、誰が、何の為に…","Who in the world would want to do this for…","¿Quién querría hacer esto, y para qué…?"
-"narrator","「キョウが駄目だから、 　懲罰警察も招集出来ないの… 　治安課ぐらいしか…」","With Kyou out of the picture, we can't even call in the punishment police… only the security division…”","Con Kyaw fuera del camino, ni siquiera podemos llamar a la policía de castigo… sólo a la policía de seguridad…”"
-"Yamamoto Akuji (talking)","治安課は、夕子さんを守る為に置いとけ。 後は……
+narrator,「そうみたい……」,”Looks like so……”,'Parece que sí……'
+Yamamoto Akuji (talking),一体、誰が、何の為に…,Who in the world would want to do this for…,"¿Quién querría hacer esto, y para qué…?"
+narrator,「キョウが駄目だから、 　懲罰警察も招集出来ないの… 　治安課ぐらいしか…」,"With Kyou out of the picture, we can't even call in the punishment police… only the security division…”","Con Kyaw fuera del camino, ni siquiera podemos llamar a la policía de castigo… sólo a la policía de seguridad…”"
+Yamamoto Akuji (talking),"治安課は、夕子さんを守る為に置いとけ。 後は……
 俺がなんとかする。","Leave the Security Section to protect Yuuko. The rest can be found at ……
 I'll take care of it.","Deja la sección de seguridad para proteger a Yuuko. El resto se puede encontrar en ……
 Me encargaré de ello."
-"narrator","「あーくん…」","”Ah-kun…”","”Ah-kun…"
-"Yamamoto Akuji (talking)","取り敢えず、俺の方からシーネルに 電話をかけてみる。
+narrator,「あーくん…」,”Ah-kun…”,”Ah-kun…
+Yamamoto Akuji (talking),"取り敢えず、俺の方からシーネルに 電話をかけてみる。
 夕子さん、ヤバイと思ったら、 自分の命優先して、すぐ逃げるんだぞ、 いいな？","I'll make a call to Seanel.
 Mr. Yuuko, if you think you're in trouble, put your life first and get out of there, okay?","Haré una llamada a Seanel.
 Yuuko, si crees que estás en problemas, pon tu vida por delante y sal de ahí, ¿vale?"
-"narrator","「う、うん…あーくんも気をつけて……」
+narrator,"「う、うん…あーくんも気をつけて……」
 悪司は電話を切るとすぐにシーネルにつなげた。","Umm, yeah… be careful too Akuji ……”
 Akuji hung up the phone and immediately connected to Seanel.","'Umm, sí… ten cuidado Akuji……'
 Akuji colgó el teléfono y conectó inmediatamente con Seanel."
-"narrator","「悪司！」","Akuji!”","”¡Akuji!”"
-"Yamamoto Akuji (talking)","どーいう事だ！？ こんな事態に、ウィミィが 動かねーなんて。","What the hell is going on? I can't believe Wime is stuck in a situation like this.","¿Qué demonios está pasando? No puedo creer que Wime esté atrapado en una situación como esta."
-"narrator","「動かないんじゃなくて、動けないの」","It's not that I can't move, it's that I'm stuck.”","'No es que no pueda moverme, simplemente no puedo'."
-"Yamamoto Akuji (talking)","はぁ？","Huh?","¿Eh?"
-"narrator","「……上は、街で発生している事は 　無視していろって…」
+narrator,「悪司！」,Akuji!”,”¡Akuji!”
+Yamamoto Akuji (talking),どーいう事だ！？ こんな事態に、ウィミィが 動かねーなんて。,What the hell is going on? I can't believe Wime is stuck in a situation like this.,¿Qué demonios está pasando? No puedo creer que Wime esté atrapado en una situación como esta.
+narrator,「動かないんじゃなくて、動けないの」,"It's not that I can't move, it's that I'm stuck.”","'No es que no pueda moverme, simplemente no puedo'."
+Yamamoto Akuji (talking),はぁ？,Huh?,¿Eh?
+narrator,"「……上は、街で発生している事は 　無視していろって…」
  「……ただひとつ、わかっている事は…」
  「この状態には、私の力が及ばないような 　もっと上の方からの圧力がかかっていると 　いう事よ……」","”…… says to ignore what's happening in the city…”
  “…… the only thing I do know is…”
  “The only thing I do know is that there are pressures from higher up that are beyond my control……","”…… dice que hay que ignorar lo que pasa en la ciudad…”…… lo único que sé es que…
  “Lo único que sé es que hay una presión sobre este estado de cosas desde más arriba sobre la que no tengo control……"
-"narrator","悪司は受話器を置いた。","Akuji put down the receiver.","Akuji colgó el auricular."
-"Seinendan Jyoshi (talking)","悪司さん……","Mr. Akuji ……","Akuji……"
-"Chinpira (talking)","ど、どうしやす？","What do you want?","¿Qué quieres?"
-"Yamamoto Akuji (talking)","どーしたもこーしたもねぇ。 とにかく、迎撃だ。
+narrator,悪司は受話器を置いた。,Akuji put down the receiver.,Akuji colgó el auricular.
+Seinendan Jyoshi (talking),悪司さん……,Mr. Akuji ……,Akuji……
+Chinpira (talking),ど、どうしやす？,What do you want?,¿Qué quieres?
+Yamamoto Akuji (talking),"どーしたもこーしたもねぇ。 とにかく、迎撃だ。
 そんな訳わかんねー奴に、俺のシマで デカいツラさせたままでいられるか。","There is nothing to be done. Anyway, let's intercept.
 I can't keep letting that incomprehensible guy keep his big ass on my turf.","No hay nada que hacer, nada que hacer. De todos modos, tenemos que interceptar.
 No voy a dejar que ese incomprensible bastardo mantenga su gran culo en mi territorio."
-"narrator","その上で、楽しそうに街の様子を見る一発がいる。","On top of that, there is Ippatsu happily watching the city.","Además, está Ippatsu, que mira con alegría la ciudad."
-"Yamamoto Ippatsu (talking)","どうやら、先行部隊は 侵入に成功したようじゃの。","It seems that the advance troops have succeeded in infiltrating.","Parece que la avanzadilla se ha infiltrado con éxito."
-"Yamamoto Ippatsu (talking)","なんじゃ、どうした。 むっつりとして。","What's the matter? You're sullen.","¿Qué pasa? Con hosquedad."
-"Takega Satsu (talking)","どうして？","Why?","¿Por qué?"
-"Yamamoto Ippatsu (talking)","ん？","Hmm?","¿Eh?"
-"Takega Satsu (talking)","どうして、このよう事を？ 私と悪司が対決するならば、悪司一人を ここに連れてくればよいものを…","Why are you doing this? If Akuji and I are going to confront each other, why not just bring Akuji alone here…","¿Por qué haces esto? Si yo y Akuji nos enfrentáramos, por qué no traer a Akuji sola aquí…"
-"Yamamoto Ippatsu (talking)","アレは、ワシの孫じゃ。 ワシと同等、それ以上の度量があるのか、 試さねばいかん。
+narrator,その上で、楽しそうに街の様子を見る一発がいる。,"On top of that, there is Ippatsu happily watching the city.","Además, está Ippatsu, que mira con alegría la ciudad."
+Yamamoto Ippatsu (talking),どうやら、先行部隊は 侵入に成功したようじゃの。,It seems that the advance troops have succeeded in infiltrating.,Parece que la avanzadilla se ha infiltrado con éxito.
+Yamamoto Ippatsu (talking),なんじゃ、どうした。 むっつりとして。,What's the matter? You're sullen.,¿Qué pasa? Con hosquedad.
+Takega Satsu (talking),どうして？,Why?,¿Por qué?
+Yamamoto Ippatsu (talking),ん？,Hmm?,¿Eh?
+Takega Satsu (talking),どうして、このよう事を？ 私と悪司が対決するならば、悪司一人を ここに連れてくればよいものを…,"Why are you doing this? If Akuji and I are going to confront each other, why not just bring Akuji alone here…","¿Por qué haces esto? Si yo y Akuji nos enfrentáramos, por qué no traer a Akuji sola aquí…"
+Yamamoto Ippatsu (talking),"アレは、ワシの孫じゃ。 ワシと同等、それ以上の度量があるのか、 試さねばいかん。
 この程度の事が片付けられぬ男など、 ワシの血縁でも何でもない。
 そして、お前が必要とする価値もない。
 ワシの起こすこの騒ぎを 抑えこめぬようなら……
@@ -457,37 +457,37 @@ Y no vale la pena su necesidad.
 Si no puedes controlar esta conmoción que estoy causando, ……
 Destruiré tu organización y haré añicos tu confianza, que ha demostrado ser indemostrable, hasta el tamaño de una partícula.
 Y puedes olvidarte de esa cosa."
-"Takega Satsu (talking)","………………
+Takega Satsu (talking),"………………
 私の為に親父殿がそこまで動く事が 正直意外だったのだが……
 自分が楽しみたいが為に、 私を煽ったな…","………………
 I was honestly surprised that your father would go to such lengths for me……
 You're just trying to get my attention so you can have your own fun…","………………
 Sinceramente, me sorprende que tu padre haya llegado tan lejos por mí……
 Sólo intentas que te siga la corriente para poder divertirte…"
-"Yamamoto Ippatsu (talking)","今頃気づいたのか。 修行が足らんぞ。","You realize it now? You don't have enough training.","Te acabas de dar cuenta ahora? No tienes suficiente formación."
-"Takega Satsu (talking)","……………","……………","……………"
-"Yamamoto Ippatsu (talking)","どのみち、賽は投げられた。 さーて、どう出るかの？ くっくっく……","In any case, the die is cast. Now, how will it play out? Kukkukkukku……","En cualquier caso, la suerte está echada. Ahora, ¿cómo se desarrollará? Kukukukku……"
-"Takega Satsu (talking)","…………は？","What about …………?","¿Qué hay de …………?"
-"Yamamoto Ippatsu (talking)","ん？","Hmm?","¿Eh?"
-"Takega Satsu (talking)","悪司が親父殿に勝った時は…？ その時はどうする？","When Akuji wins against Dad-dono…? What will you do then?","¿Qué pasa cuando Akuji gana contra papá-dono…? ¿Qué vas a hacer entonces?"
-"Yamamoto Ippatsu (talking)","さあ…どうするかの…… くくくくくっ……","Now... what to do about it:… kukku kukku kukku …","Ahora… qué hacer al respecto:…… kukku kukku kukku ……"
-"Takega Satsu (talking)","………………","………………","………………"
-" (talking)","あーーーんた♪","Aaaaantaaa","Aaaaanta…"
-"Yamamoto Ippatsu (talking)","どうした？","What's up?","¿Qué pasa?"
-"Mutsu (talking)","陸奥、ワクワクしてるんだ。 ほら。","Mutsu, I'm excited. See?","Mutsu, estoy emocionado. Voilà."
-"narrator","と言って、陸奥は一発の手を取り、 自分の胸に押しつける。","Then Mutsu takes Ippatsu's hand and presses it against his chest.","Entonces Mutsu toma la mano de Ippatsu y la aprieta contra su propio pecho."
-"Yamamoto Ippatsu (talking)","本気で興味を持つ程の男と 判断したのか。","You decided he was man enough to take a serious interest.","Has decidido que es lo suficientemente hombre como para tener un interés serio."
-"Mutsu (talking)","うん。 あんたの孫、この目で見てみたい。 陸奥、行っていいかな？","Yes, I want to see your grandchildren. I want to see your grandson with my own eyes. Mutsu, can I go?","Sí. Tus nietos, quiero verlos con mis propios ojos. Mutsu, ¿puedo ir?"
-"Yamamoto Ippatsu (talking)","好きにするがええ。 お前はお前じゃ。 ワシの所有物ではないからの。","Do what you want. You are you. You are not my property.","Haz lo que quieras. Tú eres tú. No soy tu dueño."
-"Mutsu (talking)","あんたって、そーいうとこ、 ある意味女泣かせだよね。","In a way, you make women cry, don't you?","Eres un mujeriego en cierto modo, ¿no?"
-"Yamamoto Ippatsu (talking)","ふっ……","Phew……","Uf……"
-"Mutsu (talking)","んじゃあ、陸奥行ってくるね。","Well, I'm off to Mutsu.","Bueno, me voy a Mutsu."
-"Yamamoto Ippatsu (talking)","おう、行ってくるといい。","Oh, you can go.","Oh, puedes irte."
-"Mutsu (talking)","はーーーーい。","HEEEEEEE.","HEEEEEE."
-"narrator","陸奥は笑って雲に乗り、 ギガフロートから離れて行った。","Mutsu laughed and rode the clouds away from the gigafloat.","Mutsu se rió y se alejó de las nubes del gigafloat."
-"Yamamoto Ippatsu (talking)","さーて……ワシの手駒の鬼の中で おそらく一番強い陸奥に対して、 どう出る、悪司……","So how will you fare against Mutsu, probably the strongest of the ogres in…… my pawns, Akuji ……","Entonces, ¿cómo te irá contra Mutsu, probablemente el más fuerte de los ogros de Akuji…… peones de águila?"
-"narrator","殺はギガフロートの甲板に立ち、 奉仕青年団の事務所がある方を見つめていた。","Satsu stood on the deck of the Giga Float, staring toward where the Service Youth League office was located.","Satsu estaba de pie en la cubierta del Giga Float, mirando hacia donde se encontraba la oficina del Cuerpo de Jóvenes del Servicio."
-"Takega Satsu (thinking)","この私が、奸計にはまるなぞ… 親父殿には、まだまだ及ばぬと いう事か…それとも……
+Yamamoto Ippatsu (talking),今頃気づいたのか。 修行が足らんぞ。,You realize it now? You don't have enough training.,Te acabas de dar cuenta ahora? No tienes suficiente formación.
+Takega Satsu (talking),……………,……………,……………
+Yamamoto Ippatsu (talking),どのみち、賽は投げられた。 さーて、どう出るかの？ くっくっく……,"In any case, the die is cast. Now, how will it play out? Kukkukkukku……","En cualquier caso, la suerte está echada. Ahora, ¿cómo se desarrollará? Kukukukku……"
+Takega Satsu (talking),…………は？,What about …………?,¿Qué hay de …………?
+Yamamoto Ippatsu (talking),ん？,Hmm?,¿Eh?
+Takega Satsu (talking),悪司が親父殿に勝った時は…？ その時はどうする？,When Akuji wins against Dad-dono…? What will you do then?,¿Qué pasa cuando Akuji gana contra papá-dono…? ¿Qué vas a hacer entonces?
+Yamamoto Ippatsu (talking),さあ…どうするかの…… くくくくくっ……,Now... what to do about it:… kukku kukku kukku …,Ahora… qué hacer al respecto:…… kukku kukku kukku ……
+Takega Satsu (talking),………………,………………,………………
+ (talking),あーーーんた♪,Aaaaantaaa,Aaaaanta…
+Yamamoto Ippatsu (talking),どうした？,What's up?,¿Qué pasa?
+Mutsu (talking),陸奥、ワクワクしてるんだ。 ほら。,"Mutsu, I'm excited. See?","Mutsu, estoy emocionado. Voilà."
+narrator,と言って、陸奥は一発の手を取り、 自分の胸に押しつける。,Then Mutsu takes Ippatsu's hand and presses it against his chest.,Entonces Mutsu toma la mano de Ippatsu y la aprieta contra su propio pecho.
+Yamamoto Ippatsu (talking),本気で興味を持つ程の男と 判断したのか。,You decided he was man enough to take a serious interest.,Has decidido que es lo suficientemente hombre como para tener un interés serio.
+Mutsu (talking),うん。 あんたの孫、この目で見てみたい。 陸奥、行っていいかな？,"Yes, I want to see your grandchildren. I want to see your grandson with my own eyes. Mutsu, can I go?","Sí. Tus nietos, quiero verlos con mis propios ojos. Mutsu, ¿puedo ir?"
+Yamamoto Ippatsu (talking),好きにするがええ。 お前はお前じゃ。 ワシの所有物ではないからの。,Do what you want. You are you. You are not my property.,Haz lo que quieras. Tú eres tú. No soy tu dueño.
+Mutsu (talking),あんたって、そーいうとこ、 ある意味女泣かせだよね。,"In a way, you make women cry, don't you?","Eres un mujeriego en cierto modo, ¿no?"
+Yamamoto Ippatsu (talking),ふっ……,Phew……,Uf……
+Mutsu (talking),んじゃあ、陸奥行ってくるね。,"Well, I'm off to Mutsu.","Bueno, me voy a Mutsu."
+Yamamoto Ippatsu (talking),おう、行ってくるといい。,"Oh, you can go.","Oh, puedes irte."
+Mutsu (talking),はーーーーい。,HEEEEEEE.,HEEEEEE.
+narrator,陸奥は笑って雲に乗り、 ギガフロートから離れて行った。,Mutsu laughed and rode the clouds away from the gigafloat.,Mutsu se rió y se alejó de las nubes del gigafloat.
+Yamamoto Ippatsu (talking),さーて……ワシの手駒の鬼の中で おそらく一番強い陸奥に対して、 どう出る、悪司……,"So how will you fare against Mutsu, probably the strongest of the ogres in…… my pawns, Akuji ……","Entonces, ¿cómo te irá contra Mutsu, probablemente el más fuerte de los ogros de Akuji…… peones de águila?"
+narrator,殺はギガフロートの甲板に立ち、 奉仕青年団の事務所がある方を見つめていた。,"Satsu stood on the deck of the Giga Float, staring toward where the Service Youth League office was located.","Satsu estaba de pie en la cubierta del Giga Float, mirando hacia donde se encontraba la oficina del Cuerpo de Jóvenes del Servicio."
+Takega Satsu (thinking),"この私が、奸計にはまるなぞ… 親父殿には、まだまだ及ばぬと いう事か…それとも……
  ……私の修行が足りないせいか…
  ………………
  …………悪司……
@@ -500,176 +500,176 @@ Can you surpass your father…?…… And I…… wonder how I can ……","Yo s
  ………………
  …………Akuji……
  ¿Puedes superar a tu padre…?…… Y yo…… me pregunto cómo puedo ……"
-" (talking)","ホワイトベア。","White Bear.","Oso blanco."
-"narrator","そこにはいつでも戦闘が出来る 状態のベラドンナがいた。","There was Belladonna ready for battle.","Había una Belladonna allí, lista para la batalla en cualquier momento."
-"Yamamoto Ippatsu (talking)","お前も行くのか。","You're going too.","Tú también vas a ir."
-"Belladonna (talking)","はい。","Yes.","Sí."
-"Yamamoto Ippatsu (talking)","お前の中の戦いの血を、 アレが騒がしたか。","That thing has got your fightin' blood rancid.","Esa cosa ha despertado la sangre de la batalla en ti."
-"Belladonna (talking)","そのようです。","It appears so.","Parece que sí."
-"Yamamoto Ippatsu (talking)","行ってこい。","Go to.","Ir a."
-"Belladonna (talking)","はい。 ありがとう、ホワイトベア。","Yes, I am. Thank you, White Bear.","Sí. Gracias, Oso Blanco."
-"Yamamoto Ippatsu (talking)","ワシに無理に操だてする必要はないぞ。","You don't have to force me to be Misao.","No tienes que obligarme a Misao a ti."
-"Belladonna (talking)","……アレは、あなた以上に 魅力的なのですか？","Is…… thing more attractive than you are?","¿Es…… algo más atractivo que tú?"
-"Yamamoto Ippatsu (talking)","さあな。 ワシはアレと閨を共にした事は ないからのぅ。","I don't know. I've never shared a bedchamber with him.","No lo sé. Nunca he estado en un dormitorio con ella."
-"Belladonna (talking)","………ふふ……
+ (talking),ホワイトベア。,White Bear.,Oso blanco.
+narrator,そこにはいつでも戦闘が出来る 状態のベラドンナがいた。,There was Belladonna ready for battle.,"Había una Belladonna allí, lista para la batalla en cualquier momento."
+Yamamoto Ippatsu (talking),お前も行くのか。,You're going too.,Tú también vas a ir.
+Belladonna (talking),はい。,Yes.,Sí.
+Yamamoto Ippatsu (talking),お前の中の戦いの血を、 アレが騒がしたか。,That thing has got your fightin' blood rancid.,Esa cosa ha despertado la sangre de la batalla en ti.
+Belladonna (talking),そのようです。,It appears so.,Parece que sí.
+Yamamoto Ippatsu (talking),行ってこい。,Go to.,Ir a.
+Belladonna (talking),はい。 ありがとう、ホワイトベア。,"Yes, I am. Thank you, White Bear.","Sí. Gracias, Oso Blanco."
+Yamamoto Ippatsu (talking),ワシに無理に操だてする必要はないぞ。,You don't have to force me to be Misao.,No tienes que obligarme a Misao a ti.
+Belladonna (talking),……アレは、あなた以上に 魅力的なのですか？,Is…… thing more attractive than you are?,¿Es…… algo más atractivo que tú?
+Yamamoto Ippatsu (talking),さあな。 ワシはアレと閨を共にした事は ないからのぅ。,I don't know. I've never shared a bedchamber with him.,No lo sé. Nunca he estado en un dormitorio con ella.
+Belladonna (talking),"………ふふ……
 それでは。","……… fufu ……
 See you then.","……… fufu ……
 Nos vemos entonces."
-"Yamamoto Ippatsu (talking)","うむ。","Mm.","Mm."
-"__system__??","{☆一発の女 = 1:","",""
-" (talking)","ご隠居。","Retirement.","Jubilación."
-"Ichihashi Ran (talking)","あたしもちょっと遊んできて よろしいですかね？","May I go and have a little fun, too?","¿Puedo ir a divertirme también?"
-"Yamamoto Ippatsu (talking)","娑婆が恋しくなったか。","Do you miss this world?","¿Echa de menos este mundo?"
-"Ichihashi Ran (talking)","そーいう訳じゃないですけどね。 あたしみたいなのでも、ちっとは 役にたつ場所があるかなって。","Not that I'm saying that. I just thought there might be a place where someone like me could be of some use.","Pero no es así. Pensé que podría haber un lugar en el que alguien como yo pudiera ser útil."
-"Yamamoto Ippatsu (talking)","必ず帰ってこい。","Be sure to come back.","Asegúrese de volver."
-"Ichihashi Ran (talking)","はい、ご隠居。","Yes, sir.","Sí, señor."
-"__system__??","}","",""
-"__system__??","{☆一発の女 = 2:","",""
-"Ichihashi Ran (talking)","一発さん。","Ippatsu.","Ippatsu."
-"Aoba Youko (talking)","あの…私も戦闘に参加していいですか？","Um…can I join the battle?","Um… ¿puedo unirme a la batalla?"
-"Yamamoto Ippatsu (talking)","昔の仲間に仇なす事が出来るのかの？","Can we avenge our old comrades?","¿Podrán vengar a sus antiguos camaradas?"
-"Aoba Youko (talking)","今…私は一発さんのものです。 こんな私でも…少しはお役に たちたいのですけど…","Now…I belong to Ippatsu. I wish I could be of some help, but…","Ahora… pertenezco a Ippatsu. A pesar de que estoy así… me gustaría ser de alguna ayuda…"
-"Yamamoto Ippatsu (talking)","アレの元におった時のお前は知らんが、 今はもう、立派にお前はワシの役に たつ程、腕をあげておる。
+Yamamoto Ippatsu (talking),うむ。,Mm.,Mm.
+__system__??,{☆一発の女 = 1:,,
+ (talking),ご隠居。,Retirement.,Jubilación.
+Ichihashi Ran (talking),あたしもちょっと遊んできて よろしいですかね？,"May I go and have a little fun, too?",¿Puedo ir a divertirme también?
+Yamamoto Ippatsu (talking),娑婆が恋しくなったか。,Do you miss this world?,¿Echa de menos este mundo?
+Ichihashi Ran (talking),そーいう訳じゃないですけどね。 あたしみたいなのでも、ちっとは 役にたつ場所があるかなって。,Not that I'm saying that. I just thought there might be a place where someone like me could be of some use.,Pero no es así. Pensé que podría haber un lugar en el que alguien como yo pudiera ser útil.
+Yamamoto Ippatsu (talking),必ず帰ってこい。,Be sure to come back.,Asegúrese de volver.
+Ichihashi Ran (talking),はい、ご隠居。,"Yes, sir.","Sí, señor."
+__system__??,},,
+__system__??,{☆一発の女 = 2:,,
+Ichihashi Ran (talking),一発さん。,Ippatsu.,Ippatsu.
+Aoba Youko (talking),あの…私も戦闘に参加していいですか？,Um…can I join the battle?,Um… ¿puedo unirme a la batalla?
+Yamamoto Ippatsu (talking),昔の仲間に仇なす事が出来るのかの？,Can we avenge our old comrades?,¿Podrán vengar a sus antiguos camaradas?
+Aoba Youko (talking),今…私は一発さんのものです。 こんな私でも…少しはお役に たちたいのですけど…,"Now…I belong to Ippatsu. I wish I could be of some help, but…",Ahora… pertenezco a Ippatsu. A pesar de que estoy así… me gustaría ser de alguna ayuda…
+Yamamoto Ippatsu (talking),"アレの元におった時のお前は知らんが、 今はもう、立派にお前はワシの役に たつ程、腕をあげておる。
 腕試しのつもりで行ってくるといい。","I don't know who you were when you were with him, but you've already become a great asset to me.
 You should go there as a test of your skill.","No sé quién eras cuando estabas con él, pero ahora te has convertido en un gran activo para mí.
 Deberías ir a probar tus habilidades."
-"Aoba Youko (talking)","ありがとうございます。 私、頑張ってきます。","Thank you very much. I will do my best.","Muchas gracias. Iré y haré lo que pueda."
-"__system__??","}","",""
-"narrator","一発は愛丸太バイクのシルバーでギガフロートの 甲板を自由自在に走り回って遊んでいる。
+Aoba Youko (talking),ありがとうございます。 私、頑張ってきます。,Thank you very much. I will do my best.,Muchas gracias. Iré y haré lo que pueda.
+__system__??,},,
+narrator,"一発は愛丸太バイクのシルバーでギガフロートの 甲板を自由自在に走り回って遊んでいる。
  　　［キィィィィィィ］
 バイクが小気味よい音をたて、止まった。","Ippatsu is playing around freely on the deck of Gigafloat with his love log bike, Silver.
  　　[kiiiiiiii] The bike stopped.
 The bike made a small, loud noise and came to a halt.","Ippatsu está jugando libremente en la cubierta del Giga Float en su moto de troncos del amor, Silver.
  　　[kiiiiiii].
 La moto hizo un pequeño y fuerte ruido y se detuvo."
-"Yamamoto Ippatsu (talking)","さあ、早くこい、唯一ワシを越える 可能性を持つ男よ…
+Yamamoto Ippatsu (talking),"さあ、早くこい、唯一ワシを越える 可能性を持つ男よ…
 このワシを本気で楽しませて くれるかどうか……早くこい…","Come on, come on, the only man with the potential to surpass me…
 Come on, come on, the only man with the potential to surpass me…","Vamos, vamos, el único hombre con el potencial de superarme…
 Venga rápidamente a…… y vea si puede entretener seriamente a este águila…"
-"__system__??","{RND = 1:","",""
-"__system__??","{RND = 1:","",""
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"__system__??","}","",""
-"joseishikan (talking)","随分と派手に動いていますね。","It's a very fancy move.","Es un movimiento muy elegante."
-"Yamamoto Ippatsu (talking)","この程度、もみ消しぐらい出来るじゃろ？","You can at least cover this up, right?","Al menos puedes tapar esto, ¿no?"
-"joseishikan (talking)","ですが…… あまり派手にされると、限界が…","But…… If you make it too fancy, the sky's the limit…","Pero…… Si te pones muy elegante, el cielo es el límite…"
-"Yamamoto Ippatsu (talking)","ワシが目障りなら潰せばよかろう。","If I'm an eyesore, let's just crush me.","Si las águilas son una monstruosidad, que las aplasten."
-"joseishikan (talking)","そんな意味で言ったのではありません！ わ、私は、ただ…","I didn't mean it that way! I just…","¡No quise decir eso! Yo sólo…"
-"Yamamoto Ippatsu (talking)","なんじゃ。 ワシの事を心配しておるのか。","What is it? Are you worried about me?","¿Qué es? ¿Estás preocupado por mí?"
-"joseishikan (talking)","………はい……","……… yes ……","……… sí ……"
-"Yamamoto Ippatsu (talking)","そんな心配は無用じゃ。 お前はワシの前では、ただの女で いればよい。","Don't worry about that. You are only a woman in front of me.","No te preocupes por eso. Sólo eres una mujer frente a mí."
-"joseishikan (talking)","一発様…","Dear Ippatsu…","Querido Ippatsu…"
-"Yamamoto Ippatsu (talking)","さて…中に入るかの。 冷えた躰を暖めてやろう。","Well…let's go inside. Let's warm up your cold body.","Bueno… vamos a entrar. Vamos a calentar tu cuerpo frío."
-"joseishikan (talking)","…………はい……","………… yes ……","………… sí ……"
-"__system__??","}","",""
-"__system__??","{RND = 2:","",""
-"Yamamoto Ippatsu (talking)","殺よ。 アレはここにくると思うか？","It's Satsu. Do you think that thing will come here?","Satsu. ¿Crees que esa cosa vendrá aquí?"
-"Takega Satsu (talking)","……悪司次第だろう。","It would be up to ……Akuji.","Dependería de ……Akuji."
-"Yamamoto Ippatsu (talking)","ほほう。","Hohoho.","Hoho."
-"Takega Satsu (talking)","なんだ？","What is it?","¿Qué es?"
-"Yamamoto Ippatsu (talking)","もっと、恋にトチ狂った判断の答えが かえってくるかと思ったが、冷静じゃの。","I thought I would get a more love-crazed answer, but he was calm.","Pensé que recibiría una respuesta más enamoradiza y sentenciosa, pero eres genial como un pepino."
-"Takega Satsu (talking)","……コケにされるのは好きではない。 例え、実の親父でもな。","I don't like being…… mocked. Even if it's my own father.","…… No me gusta que se burlen de mí. Aunque sea mi propio padre."
-"Yamamoto Ippatsu (talking)","くくくっ…いい心構えじゃ。 さすが、ワシの娘。","Kuhkuh…good mindset. That's my girl.","Kukku… buena mentalidad. Esa es mi chica."
-"Takega Satsu (talking)","……………","……………","……………"
-"Yamamoto Ippatsu (talking)","初恋は御しがたい。 お前にとっても、これは壁という訳か。","First love is hard to control. So this is a wall for you, too.","El primer amor es difícil de controlar. Así que esto es un muro para ti también."
-"Takega Satsu (talking)","………………","………………","………………"
-"Yamamoto Ippatsu (talking)","懐かしい感覚じゃのう…… ……くくくっ…","It's a nostalgic feeling………… Kukkukkukk…","Es un sentimiento de nostalgia………… Kukku…"
-"__system__??","}","",""
-"__system__??","{RND = 3:","",""
-"Yamamoto Ippatsu (talking)","どうじゃ。 この機械の大地の上での生活は もう大分慣れたか？","What do you think? Have you gotten used to life on this mechanical earth by now?","¿Cómo te va? ¿Ya te has acostumbrado a la vida en esta tierra mecánica?"
-"amerikan (talking)","はい、ホワイトベア。
+__system__??,{RND = 1:,,
+__system__??,{RND = 1:,,
+__system__??,},,
+__system__??,{RND = 2:,,
+__system__??,},,
+__system__??,{RND = 3:,,
+__system__??,},,
+joseishikan (talking),随分と派手に動いていますね。,It's a very fancy move.,Es un movimiento muy elegante.
+Yamamoto Ippatsu (talking),この程度、もみ消しぐらい出来るじゃろ？,"You can at least cover this up, right?","Al menos puedes tapar esto, ¿no?"
+joseishikan (talking),ですが…… あまり派手にされると、限界が…,"But…… If you make it too fancy, the sky's the limit…","Pero…… Si te pones muy elegante, el cielo es el límite…"
+Yamamoto Ippatsu (talking),ワシが目障りなら潰せばよかろう。,"If I'm an eyesore, let's just crush me.","Si las águilas son una monstruosidad, que las aplasten."
+joseishikan (talking),そんな意味で言ったのではありません！ わ、私は、ただ…,I didn't mean it that way! I just…,¡No quise decir eso! Yo sólo…
+Yamamoto Ippatsu (talking),なんじゃ。 ワシの事を心配しておるのか。,What is it? Are you worried about me?,¿Qué es? ¿Estás preocupado por mí?
+joseishikan (talking),………はい……,……… yes ……,……… sí ……
+Yamamoto Ippatsu (talking),そんな心配は無用じゃ。 お前はワシの前では、ただの女で いればよい。,Don't worry about that. You are only a woman in front of me.,No te preocupes por eso. Sólo eres una mujer frente a mí.
+joseishikan (talking),一発様…,Dear Ippatsu…,Querido Ippatsu…
+Yamamoto Ippatsu (talking),さて…中に入るかの。 冷えた躰を暖めてやろう。,Well…let's go inside. Let's warm up your cold body.,Bueno… vamos a entrar. Vamos a calentar tu cuerpo frío.
+joseishikan (talking),…………はい……,………… yes ……,………… sí ……
+__system__??,},,
+__system__??,{RND = 2:,,
+Yamamoto Ippatsu (talking),殺よ。 アレはここにくると思うか？,It's Satsu. Do you think that thing will come here?,Satsu. ¿Crees que esa cosa vendrá aquí?
+Takega Satsu (talking),……悪司次第だろう。,It would be up to ……Akuji.,Dependería de ……Akuji.
+Yamamoto Ippatsu (talking),ほほう。,Hohoho.,Hoho.
+Takega Satsu (talking),なんだ？,What is it?,¿Qué es?
+Yamamoto Ippatsu (talking),もっと、恋にトチ狂った判断の答えが かえってくるかと思ったが、冷静じゃの。,"I thought I would get a more love-crazed answer, but he was calm.","Pensé que recibiría una respuesta más enamoradiza y sentenciosa, pero eres genial como un pepino."
+Takega Satsu (talking),……コケにされるのは好きではない。 例え、実の親父でもな。,I don't like being…… mocked. Even if it's my own father.,…… No me gusta que se burlen de mí. Aunque sea mi propio padre.
+Yamamoto Ippatsu (talking),くくくっ…いい心構えじゃ。 さすが、ワシの娘。,Kuhkuh…good mindset. That's my girl.,Kukku… buena mentalidad. Esa es mi chica.
+Takega Satsu (talking),……………,……………,……………
+Yamamoto Ippatsu (talking),初恋は御しがたい。 お前にとっても、これは壁という訳か。,"First love is hard to control. So this is a wall for you, too.",El primer amor es difícil de controlar. Así que esto es un muro para ti también.
+Takega Satsu (talking),………………,………………,………………
+Yamamoto Ippatsu (talking),懐かしい感覚じゃのう…… ……くくくっ…,It's a nostalgic feeling………… Kukkukkukk…,Es un sentimiento de nostalgia………… Kukku…
+__system__??,},,
+__system__??,{RND = 3:,,
+Yamamoto Ippatsu (talking),どうじゃ。 この機械の大地の上での生活は もう大分慣れたか？,What do you think? Have you gotten used to life on this mechanical earth by now?,¿Cómo te va? ¿Ya te has acostumbrado a la vida en esta tierra mecánica?
+amerikan (talking),"はい、ホワイトベア。
 あなたにここを大地と思うようにと 言われた時は、途方に暮れましたが… 今は、ここが私達の故郷です。","Yes, White Bear.
 I was at a loss when you told me to think of this place as earth… but now it is our home.","Sí, Oso Blanco.
 Cuando nos dijiste que pensáramos en este lugar como la tierra, estábamos perdidos… pero ahora es nuestro hogar."
-"Yamamoto Ippatsu (talking)","そうか。","Okay.","Sí."
-"amerikan (talking)","大地と共に旅をする… 素晴らしい事だと思います。","Traveling with the earth… I think it's a wonderful thing.","Viajar con la tierra… es algo maravilloso."
-"Yamamoto Ippatsu (talking)","うむ。","Mm.","Mm."
-"amerikan (talking)","その大地を与えてくれたホワイトベア。 私達は、あなたの為に戦う。 いくらでも、命じてくれ。","The White Bear who gave us that land. We fight for you. You can command us as much as you want.","El oso blanco que nos dio esa tierra. Luchamos por ti. Todo lo que quieras, mándanos."
-"Yamamoto Ippatsu (talking)","うむ。","Mm.","Mm."
-"__system__??","}","",""
-"__system__??","{RND = 4:","",""
-"senki (talking)","おにおにおに。","Oni oni oni oni.","Oni oni oni oni."
-"Yamamoto Ippatsu (talking)","おう、なんだ。 かかってくるというのか。 よぅし、相手になってやる、こい！","Oh, what? You're going to get a call? All right, I'll play with you. Come on!","Oh, qué demonios. ¿Quieres ponerte en contacto conmigo? Muy bien, te llevaré, ¡vamos!"
-"senki (talking)","おにおにおに。","Oni oni oni oni.","Oni oni oni oni."
-"Yamamoto Ippatsu (talking)","おーーし、ふんっっ！！！","Oooooh, hmph!","¡Oooooh, puf!"
-"narrator","　　［どっぽーん］
+Yamamoto Ippatsu (talking),そうか。,Okay.,Sí.
+amerikan (talking),大地と共に旅をする… 素晴らしい事だと思います。,Traveling with the earth… I think it's a wonderful thing.,Viajar con la tierra… es algo maravilloso.
+Yamamoto Ippatsu (talking),うむ。,Mm.,Mm.
+amerikan (talking),その大地を与えてくれたホワイトベア。 私達は、あなたの為に戦う。 いくらでも、命じてくれ。,The White Bear who gave us that land. We fight for you. You can command us as much as you want.,"El oso blanco que nos dio esa tierra. Luchamos por ti. Todo lo que quieras, mándanos."
+Yamamoto Ippatsu (talking),うむ。,Mm.,Mm.
+__system__??,},,
+__system__??,{RND = 4:,,
+senki (talking),おにおにおに。,Oni oni oni oni.,Oni oni oni oni.
+Yamamoto Ippatsu (talking),おう、なんだ。 かかってくるというのか。 よぅし、相手になってやる、こい！,"Oh, what? You're going to get a call? All right, I'll play with you. Come on!","Oh, qué demonios. ¿Quieres ponerte en contacto conmigo? Muy bien, te llevaré, ¡vamos!"
+senki (talking),おにおにおに。,Oni oni oni oni.,Oni oni oni oni.
+Yamamoto Ippatsu (talking),おーーし、ふんっっ！！！,"Oooooh, hmph!","¡Oooooh, puf!"
+narrator,"　　［どっぽーん］
 一発は相撲をとりにきた鬼を うっちゃりで海に投げこんだ。","[thump]
 Ippatsu threw the ogre who came to wrestle into the sea with a Uchiha.","[ruido sordo]
 Ippatsu arrojó al mar a un ogro que había venido a luchar con un Uchiha."
-"senki (talking)","おにおにおに。","Oni oni oni oni.","Oni oni oni oni."
-"narrator","鬼は嬉しそうにそのまま海で泳いでいる。","The demon is happily swimming in the sea as it is.","El ogro está nadando felizmente en el mar tal y como está."
-"Yamamoto Ippatsu (talking)","わははははは。 愉快、愉快。","Wa-ha-ha-ha. Hilarious, hilarious.","Wa-ha-ha-ha. Divertidísimo, divertidísimo."
-"__system__??","}","",""
-"senki (talking)","おにおにおに…","Oni oni oni oni oni…","Oni oni oni oni oni…"
-"Yamamoto Ippatsu (talking)","……うむ…","…… Mm…","…… Mm…"
-"senki (talking)","………おにおにおに……","……… Oni Oni Oni Oni Oni ……","……… Oni Oni Oni Oni ……"
-"Yamamoto Ippatsu (talking)","そうか、陸奥が行方不明になったか…","Well, Mutsu is missing…","Bueno, Mutsu ha desaparecido…"
-"senki (talking)","おにおにおに……","Oni Oni Oni Oni ……","Oni Oni Oni Oni ……"
-"Yamamoto Ippatsu (talking)","心配するな。 死体がないという事は、 生きている可能性もある。","Don't worry. If there are no bodies, there's a good chance they're still alive.","No te preocupes. Si no hay cuerpos, hay una posibilidad de que aún estén vivos."
-"senki (talking)","………おにおにおに~……","……… Oni Oni Oni - ……","……… Oni Oni Oni - ……"
-"Yamamoto Ippatsu (talking)","あやつの事じゃ。 アレの側についたとしても、 元気にやるだろう。","That's him. Even if he ends up on that thing's side, he's going to be fine.","Es él. Incluso si termina en el lado de esa cosa, va a estar bien."
-"senki (talking)","……おにおにおに。","…… Oni oni oni oni.","Disponible en:…… Oni oni oni oni."
-"Yamamoto Ippatsu (talking)","うむ、そうじゃの。","Yes, that's right.","Mm, sí."
-"amerikan (talking)","ホワイトベア、ベラドンナの行方が…","The whereabouts of White Bear, Belladonna…","Oso Blanco, Belladonna paradero…"
-"Yamamoto Ippatsu (talking)","死体はないのだろう？","There are no bodies, are there?","No hay cuerpos, ¿verdad?"
-"amerikan (talking)","はい。","Yes.","Sí."
-"Yamamoto Ippatsu (talking)","では、生きているという事だ。","Then you are alive.","Entonces estás vivo."
-"amerikan (talking)","し、しかし、向こうに捕まったのでは…","But, but, they must have caught us over there…","Shhh, pero nos habrán pillado por ahí…"
-"Yamamoto Ippatsu (talking)","アレは無闇に女を殺す奴ではない。 利用することはあってもな。
+senki (talking),おにおにおに。,Oni oni oni oni.,Oni oni oni oni.
+narrator,鬼は嬉しそうにそのまま海で泳いでいる。,The demon is happily swimming in the sea as it is.,El ogro está nadando felizmente en el mar tal y como está.
+Yamamoto Ippatsu (talking),わははははは。 愉快、愉快。,"Wa-ha-ha-ha. Hilarious, hilarious.","Wa-ha-ha-ha. Divertidísimo, divertidísimo."
+__system__??,},,
+senki (talking),おにおにおに…,Oni oni oni oni oni…,Oni oni oni oni oni…
+Yamamoto Ippatsu (talking),……うむ…,…… Mm…,…… Mm…
+senki (talking),………おにおにおに……,……… Oni Oni Oni Oni Oni ……,……… Oni Oni Oni Oni ……
+Yamamoto Ippatsu (talking),そうか、陸奥が行方不明になったか…,"Well, Mutsu is missing…","Bueno, Mutsu ha desaparecido…"
+senki (talking),おにおにおに……,Oni Oni Oni Oni ……,Oni Oni Oni Oni ……
+Yamamoto Ippatsu (talking),心配するな。 死体がないという事は、 生きている可能性もある。,"Don't worry. If there are no bodies, there's a good chance they're still alive.","No te preocupes. Si no hay cuerpos, hay una posibilidad de que aún estén vivos."
+senki (talking),………おにおにおに~……,……… Oni Oni Oni - ……,……… Oni Oni Oni - ……
+Yamamoto Ippatsu (talking),あやつの事じゃ。 アレの側についたとしても、 元気にやるだろう。,"That's him. Even if he ends up on that thing's side, he's going to be fine.","Es él. Incluso si termina en el lado de esa cosa, va a estar bien."
+senki (talking),……おにおにおに。,…… Oni oni oni oni.,Disponible en:…… Oni oni oni oni.
+Yamamoto Ippatsu (talking),うむ、そうじゃの。,"Yes, that's right.","Mm, sí."
+amerikan (talking),ホワイトベア、ベラドンナの行方が…,"The whereabouts of White Bear, Belladonna…","Oso Blanco, Belladonna paradero…"
+Yamamoto Ippatsu (talking),死体はないのだろう？,"There are no bodies, are there?","No hay cuerpos, ¿verdad?"
+amerikan (talking),はい。,Yes.,Sí.
+Yamamoto Ippatsu (talking),では、生きているという事だ。,Then you are alive.,Entonces estás vivo.
+amerikan (talking),し、しかし、向こうに捕まったのでは…,"But, but, they must have caught us over there…","Shhh, pero nos habrán pillado por ahí…"
+Yamamoto Ippatsu (talking),"アレは無闇に女を殺す奴ではない。 利用することはあってもな。
 生きている事だけは確実じゃ。","He's not a guy who Satsu women without a second thought. He may use them.
 The only thing you can be sure of is that he's alive.","Ese no es un tipo que Satsu a las mujeres sin pensarlo dos veces. Puede usarlos, pero…
 Lo único de lo que puedes estar seguro es de que está vivo."
-"amerikan (talking)","ホワイトベア……","White Bear……","Blanco Oso……"
-"Yamamoto Ippatsu (talking)","中々やりおるの、悪司…… くくくくっ……","You're doing a good job, Akuji…… kukukukukk……","Lo estás haciendo muy bien, Akuji…… kukukukukk……"
-"amerikan (talking)","ホワイトベア。 先行している部隊が、 敵本拠地に侵攻しました。","White Bear. The advance force has invaded the enemy stronghold.","Oso blanco. Las tropas que nos preceden han invadido el bastión enemigo."
-"Yamamoto Ippatsu (talking)","そうか。 殺、聞いたか。","I see. Satsu, you heard me.","Sí. Satsu, ¿has oído eso?"
-"Takega Satsu (talking)","…………","…………","…………"
-"Yamamoto Ippatsu (talking)","お前が惚れる必要のない男じゃぞ。 弱すぎる。","He's a man you don't need to fall in love with. He's too weak.","Es un hombre del que no necesitas enamorarte. Es demasiado débil."
-"Takega Satsu (talking)","……………","……………","……………"
-"Yamamoto Ippatsu (talking)","これで愛想がついただろう？ お前はもう苦しむ必要はないぞ。","Now you've had your love affair, right? You don't have to suffer anymore.","Ahora has tenido tu aventura amorosa, ¿no? No tienes que sufrir más, amigo mío."
-"Takega Satsu (talking)","…………………","…………………","…………………"
-"Yamamoto Ippatsu (talking)","ふむ、やっときおったか。
+amerikan (talking),ホワイトベア……,White Bear……,Blanco Oso……
+Yamamoto Ippatsu (talking),中々やりおるの、悪司…… くくくくっ……,"You're doing a good job, Akuji…… kukukukukk……","Lo estás haciendo muy bien, Akuji…… kukukukukk……"
+amerikan (talking),ホワイトベア。 先行している部隊が、 敵本拠地に侵攻しました。,White Bear. The advance force has invaded the enemy stronghold.,Oso blanco. Las tropas que nos preceden han invadido el bastión enemigo.
+Yamamoto Ippatsu (talking),そうか。 殺、聞いたか。,"I see. Satsu, you heard me.","Sí. Satsu, ¿has oído eso?"
+Takega Satsu (talking),…………,…………,…………
+Yamamoto Ippatsu (talking),お前が惚れる必要のない男じゃぞ。 弱すぎる。,He's a man you don't need to fall in love with. He's too weak.,Es un hombre del que no necesitas enamorarte. Es demasiado débil.
+Takega Satsu (talking),……………,……………,……………
+Yamamoto Ippatsu (talking),これで愛想がついただろう？ お前はもう苦しむ必要はないぞ。,"Now you've had your love affair, right? You don't have to suffer anymore.","Ahora has tenido tu aventura amorosa, ¿no? No tienes que sufrir más, amigo mío."
+Takega Satsu (talking),…………………,…………………,…………………
+Yamamoto Ippatsu (talking),"ふむ、やっときおったか。
 あの戦鬼や、アメリカンを駆逐して くるなど、中々、いい塩梅に 育っておるではないか。","Well, you've finally arrived.
 You are growing up in good shape, destroying those war demons and Americans.","Hmm, por fin has llegado.
 Estás creciendo en buena forma, destruyendo a esos demonios de la guerra y a los americanos, ¿no es así?"
-"Yamamoto Ippatsu (talking)","嬉しいか？","Are you happy?","¿Eres feliz?"
-"Takega Satsu (talking)","………………","………………","………………"
-"Yamamoto Ippatsu (talking)","さぁて、そろそろ、ワシの出番じゃの。 お前はくるなよ。 これは、ワシの楽しみじゃ。","Well, it's time for me to go. Don't you come. This is my pleasure.","Bueno, es hora de que entre. No vienes. Esta es mi diversión."
-"Takega Satsu (talking)","………………","………………","………………"
-"Yamamoto Ippatsu (talking)","さぁて……どこまで楽しませて くれるかの？ このワシの孫は……","Let's see how far…… can take me? This eagle grandson of mine is ……","Veamos hasta dónde puede llevarnos ……. Este águila nieto mío es ……"
-"Yamamoto Akuji (talking)","あのどデカイ奴の黒幕がわかったって？","You think you know who's behind that big guy?","¿Crees que sabes quién está detrás de ese tipo grande?"
-"__system__??","{RND \ 0:","",""
-"Shimamoto Jun (talking)","はい。 あの移動要塞…ギガフロートを 指揮しているのは、ご隠居です。","Yes, sir. The man in command of that mobile fortress, Giga-Float, is your husband.","Sí, señor. Esa fortaleza móvil… el Gigafloat, está al mando del seigneur."
-"Yamamoto Akuji (talking)","じっ……
+Yamamoto Ippatsu (talking),嬉しいか？,Are you happy?,¿Eres feliz?
+Takega Satsu (talking),………………,………………,………………
+Yamamoto Ippatsu (talking),さぁて、そろそろ、ワシの出番じゃの。 お前はくるなよ。 これは、ワシの楽しみじゃ。,"Well, it's time for me to go. Don't you come. This is my pleasure.","Bueno, es hora de que entre. No vienes. Esta es mi diversión."
+Takega Satsu (talking),………………,………………,………………
+Yamamoto Ippatsu (talking),さぁて……どこまで楽しませて くれるかの？ このワシの孫は……,Let's see how far…… can take me? This eagle grandson of mine is ……,Veamos hasta dónde puede llevarnos ……. Este águila nieto mío es ……
+Yamamoto Akuji (talking),あのどデカイ奴の黒幕がわかったって？,You think you know who's behind that big guy?,¿Crees que sabes quién está detrás de ese tipo grande?
+__system__??,{RND \ 0:,,
+Shimamoto Jun (talking),はい。 あの移動要塞…ギガフロートを 指揮しているのは、ご隠居です。,"Yes, sir. The man in command of that mobile fortress, Giga-Float, is your husband.","Sí, señor. Esa fortaleza móvil… el Gigafloat, está al mando del seigneur."
+Yamamoto Akuji (talking),"じっ……
 じーーーさんっっっ！！！？？？","Jeez ……
 Jeez!!!?","Cielos……
  ¿¡Caramba!?"
-"Shimamoto Jun (talking)","はい。","Yes.","Sí."
-"Yamamoto Akuji (talking)","……………
+Shimamoto Jun (talking),はい。,Yes.,Sí.
+Yamamoto Akuji (talking),"……………
 辻褄があったな。","……………
 That made sense.","……………
 Tenía sentido."
-"Shimamoto Jun (talking)","はい。 何故このような事をなさったかは 不明ですが――
+Shimamoto Jun (talking),"はい。 何故このような事をなさったかは 不明ですが――
 おそらく若と同じ方法で、我々より さらなるウィミィの上層部を 押さえてらっしゃるのでしょう。","Yes. We don't know why he's doing this.
 Perhaps you are using the same methods as the young man to control the upper echelons of Wime even more than we do.","Sí. No sabemos por qué hace esto.
 Tal vez está utilizando los mismos métodos que el joven para controlar las altas esferas de Wime aún más que nosotros."
-"Yamamoto Akuji (talking)","ああ、そーだろ。 市議会どころか、エデンにだって、 圧力をくわえる事が出来る。
+Yamamoto Akuji (talking),"ああ、そーだろ。 市議会どころか、エデンにだって、 圧力をくわえる事が出来る。
 だけど、それでもなんでこんな事を したかまではわかんねーな。","Yeah, you're right. They can put pressure on Eden, not to mention the City Council.
 But I still don't know why they did it.","Sí, tienes razón. Puedes presionar a Eden, no sólo al ayuntamiento.
 Pero aún no sé por qué lo hicieron."
-"Shimamoto Jun (talking)","はい…","Yes…","Sí…"
-"__system__??","}","",""
-"__system__??","{RND = 0:","",""
-"Elite Yakuza (talking)","はい。 あの移動要塞…ギガフロートを 指揮しているのは、ご隠居です。","Yes, sir. The man in command of that mobile fortress, Giga-Float, is your husband.","Sí, señor. Esa fortaleza móvil… el Gigafloat, está al mando del seigneur."
-"Yamamoto Akuji (talking)","じっ……
+Shimamoto Jun (talking),はい…,Yes…,Sí…
+__system__??,},,
+__system__??,{RND = 0:,,
+Elite Yakuza (talking),はい。 あの移動要塞…ギガフロートを 指揮しているのは、ご隠居です。,"Yes, sir. The man in command of that mobile fortress, Giga-Float, is your husband.","Sí, señor. Esa fortaleza móvil… el Gigafloat, está al mando del seigneur."
+Yamamoto Akuji (talking),"じっ……
 じーーーさんっっっ！！！？？？","Jeez ……
 Jeez!!!?","Cielos……
  ¿¡Caramba!?"
-"Elite Yakuza (talking)","はい。","Yes.","Sí."
-"Yamamoto Akuji (talking)","……………
+Elite Yakuza (talking),はい。,Yes.,Sí.
+Yamamoto Akuji (talking),"……………
 辻褄があったな。
 多分、俺と同じ方法で、もっと大物の ウィミィ幹部をたらしこみやがったんだ。
 だったら、市議会もエデンも 思いのままだわなー…","……………
@@ -679,222 +679,222 @@ Then the city council and Eden would have their way…","……………
 Tiene que sumar.
 Tal vez engancharon a los grandes ejecutivos de Wime de la misma manera que yo.
 Entonces el ayuntamiento y Eden se habrían salido con la suya…"
-"Elite Yakuza (talking)","でもどうして、ご隠居は、 このような事を……","But why is it that the govt. is doing this ……","Pero, ¿por qué es que el laird está haciendo esto ……"
-"Yamamoto Akuji (talking)","それは俺にもわかんねーなー…","I don't get that one either…","Yo tampoco entiendo eso…"
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","よーし、ナンコウは奪回した。 次は、あの馬鹿デカイのを攻めるぞ。
+Elite Yakuza (talking),でもどうして、ご隠居は、 このような事を……,But why is it that the govt. is doing this ……,"Pero, ¿por qué es que el laird está haciendo esto ……"
+Yamamoto Akuji (talking),それは俺にもわかんねーなー…,I don't get that one either…,Yo tampoco entiendo eso…
+__system__??,},,
+Yamamoto Akuji (talking),"よーし、ナンコウは奪回した。 次は、あの馬鹿デカイのを攻めるぞ。
 すぐ進軍出来るように、船をかき集めろ！ あん中に入るぞ！！
 この俺が、じーさんを止める！ ……へへへ……あのじーさんと マジ喧嘩か……腕が鳴るぜ……","Okay, we've taken back Nanko. Next, let's attack that stupid big one.
 Gather the ships so we can march right in! I'm going inside!
 I'll stop Ji-san!","Muy bien, hemos recapturado a Nanko. A continuación, atacaremos a ese estúpido grande.
  ¡Reúne los barcos para que podamos marchar de inmediato! ¡Voy a entrar!
  ¡Detendré a Ji-san!"
-"Yamamoto Akuji (talking)","よーし、攻められるとこは、 あらかた攻めた。 後はブリッジだな。
+Yamamoto Akuji (talking),"よーし、攻められるとこは、 あらかた攻めた。 後はブリッジだな。
 今までじーさんがいなかったって事は、 じーさんはそこに…","All right, we've hit all the areas we can hit. Now all we need is a bridge.
 If Grandpa wasn't there before, then he's not…","Bien, hemos atacado todas las áreas que podemos. Todo lo que queda es el puente.
 Si el abuelo no estaba antes, entonces no está…"
-" (talking)","よくぞここまできた、我が孫よ！！","You have come so far, my grandson!","¡Has llegado muy lejos, mi nieto!"
-"Yamamoto Akuji (talking)","んっ……","Hmmm… ……","Hmmm……"
-"Yamamoto Ippatsu (talking)","ワシはここじゃ！！","I'm here!","¡Ya estoy aquí!"
-"Takega Satsu (talking)","…………","…………","…………"
-"narrator","そこには一発と殺がいた。","There were Ippatsu and Satsu there.","Allí había Ippatsu y Satsu."
-"Yamamoto Akuji (talking)","さっちゃん！ じーさんといたのか！！ 心配してたんだぞー！","Sacchan! You were with grandpa! We were so worried about you!","¡Sachan! ¡Estabas con el abuelo! ¡Estábamos preocupados por ti!"
-"Takega Satsu (talking)","……………","……………","……………"
-"narrator","殺は黙って一発の影に隠れる。","Satsu silently hides behind Ippatsu.","Satsu se esconde silenciosamente detrás de Ippatsu."
-"Yamamoto Akuji (talking)","さっちゃん…？","Sacchan…?","¿Sacchan…?"
-"Yamamoto Ippatsu (talking)","よく、ここまでくる事が出来たの！ まずは誉めてやろう！","I'm amazed you made it this far! Let me give you credit first!","¿Cómo has conseguido llegar hasta aquí? Primero, elogiémoste a ti."
-"Yamamoto Akuji (talking)","そうだ…じーさん、なんでこんな事 したんだよ。","Yes…Jee-san, why did you do this?","Sí… viejo, ¿por qué hiciste esto?"
-"Yamamoto Ippatsu (talking)","余興よ。","It's a sideshow.","Extravagancia."
-"Yamamoto Akuji (talking)","よきょー？？？","Yokyo?","¿Yokyo?"
-"Yamamoto Ippatsu (talking)","そうじゃ、余興じゃ。 このワシとお前の対決の為のな！","Yes, a sideshow. For this showdown between you and me!","Sí, un espectáculo secundario. ¡Para este enfrentamiento entre tú y yo!"
-"Yamamoto Akuji (talking)","対決……","Confrontation: ……","Confrontación: ……"
-"Yamamoto Ippatsu (talking)","そうじゃ。","Yes.","Sí."
-"Yamamoto Akuji (talking)","じーさん……
+ (talking),よくぞここまできた、我が孫よ！！,"You have come so far, my grandson!","¡Has llegado muy lejos, mi nieto!"
+Yamamoto Akuji (talking),んっ……,Hmmm… ……,Hmmm……
+Yamamoto Ippatsu (talking),ワシはここじゃ！！,I'm here!,¡Ya estoy aquí!
+Takega Satsu (talking),…………,…………,…………
+narrator,そこには一発と殺がいた。,There were Ippatsu and Satsu there.,Allí había Ippatsu y Satsu.
+Yamamoto Akuji (talking),さっちゃん！ じーさんといたのか！！ 心配してたんだぞー！,Sacchan! You were with grandpa! We were so worried about you!,¡Sachan! ¡Estabas con el abuelo! ¡Estábamos preocupados por ti!
+Takega Satsu (talking),……………,……………,……………
+narrator,殺は黙って一発の影に隠れる。,Satsu silently hides behind Ippatsu.,Satsu se esconde silenciosamente detrás de Ippatsu.
+Yamamoto Akuji (talking),さっちゃん…？,Sacchan…?,¿Sacchan…?
+Yamamoto Ippatsu (talking),よく、ここまでくる事が出来たの！ まずは誉めてやろう！,I'm amazed you made it this far! Let me give you credit first!,"¿Cómo has conseguido llegar hasta aquí? Primero, elogiémoste a ti."
+Yamamoto Akuji (talking),そうだ…じーさん、なんでこんな事 したんだよ。,"Yes…Jee-san, why did you do this?","Sí… viejo, ¿por qué hiciste esto?"
+Yamamoto Ippatsu (talking),余興よ。,It's a sideshow.,Extravagancia.
+Yamamoto Akuji (talking),よきょー？？？,Yokyo?,¿Yokyo?
+Yamamoto Ippatsu (talking),そうじゃ、余興じゃ。 このワシとお前の対決の為のな！,"Yes, a sideshow. For this showdown between you and me!","Sí, un espectáculo secundario. ¡Para este enfrentamiento entre tú y yo!"
+Yamamoto Akuji (talking),対決……,Confrontation: ……,Confrontación: ……
+Yamamoto Ippatsu (talking),そうじゃ。,Yes.,Sí.
+Yamamoto Akuji (talking),"じーさん……
 まさか、俺と喧嘩する為に、こんな…","Ji-san: ……
 No way, just to get into a fight with me, this…","Ji-san: ……
 De ninguna manera, sólo para entrar en una pelea conmigo, así…"
-"Yamamoto Ippatsu (talking)","そうじゃ。
+Yamamoto Ippatsu (talking),"そうじゃ。
 戦鬼とアメリカン程度をどうする事も 出来んとなると、このワシと戦う価値も なしと思ったのでな。
 きゃつらには、 前座を勤めて貰ったまでよ。","Yes.
 If I can't do anything about the demons and the Americans, I thought it wasn't worth fighting me.
 So I asked you to be my starter.","Sí.
 Si no puedo hacer nada contra los demonios y los americanos, no creo que merezca la pena luchar contra mí.
 Así que te pedí que fueras mi titular."
-"Yamamoto Akuji (talking)","んな……あほな…","Don't…… fool…","No…… tonto…"
-"Yamamoto Ippatsu (talking)","男には、阿呆になる事も必要じゃ。 己の強さに正直になる為にの。","A man needs to be a fool. To be honest with his own strength.","Un hombre necesita ser un tonto. Para ser honesto con su propia fuerza."
-"Yamamoto Akuji (talking)","あ、呆れた……なんちゅう……","Oh, I'm stunned…… what a ……","Oh, estoy aturdido…… Qué ……"
-"__system__??","{★愛 = 1:","",""
-"Haku Minka (talking)","山本さん……","Yamamoto ……","Yamamoto ……"
-"Yamamoto Akuji (talking)","どした？ 民華さん。","What's up? Minka.","¿Qué pasa? Minka."
-"Haku Minka (talking)","あたし…それだけじゃ ないような気がする…","I have a feeling there's more to it than that.","Yo sólo… siento que hay más que eso…"
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"Haku Minka (talking)","大舅さんのそばに、 さっちゃんいたっしょ？","You saw Sachiko by his side in Alexandria, didn't you?","Has visto a Sachiko por Alejandría, ¿no?"
-"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
-"Haku Minka (talking)","……ひょっとして… 関りあるんじゃないかなー…","…… by any chance… I wonder if there's a connection…","…… por casualidad… Me pregunto si hay una conexión…"
-"Yamamoto Akuji (talking)","……………","……………","……………"
-"Haku Minka (talking)","どう思う？","What do you think?","¿Qué te parece?"
-"Yamamoto Akuji (talking)","まあ……どっちにしろ… あのじーさんとのガチンコは 止めらんねーけどな。","Well,…… either way… it ain't gonna stop me from slugging it out with that old man.","Bueno,…… de cualquier manera… no va a impedir que me pelee con ese viejo."
-"__system__??","}","",""
-"__system__??","{★愛 = 2:","",""
-"Kaga Motoko (talking)","……変ね。","…… That's weird.","…… Weird."
-"Yamamoto Akuji (talking)","ん？　どーしたトコ。","Hmm?　What's wrong with Toco?","¿Hmm?　¿Qué le pasa a Toko?"
-"Kaga Motoko (talking)","一発様の事は私も知っているわ。 昔、よく遊んでもらっていたし。
+Yamamoto Akuji (talking),んな……あほな…,Don't…… fool…,No…… tonto…
+Yamamoto Ippatsu (talking),男には、阿呆になる事も必要じゃ。 己の強さに正直になる為にの。,A man needs to be a fool. To be honest with his own strength.,Un hombre necesita ser un tonto. Para ser honesto con su propia fuerza.
+Yamamoto Akuji (talking),あ、呆れた……なんちゅう……,"Oh, I'm stunned…… what a ……","Oh, estoy aturdido…… Qué ……"
+__system__??,{★愛 = 1:,,
+Haku Minka (talking),山本さん……,Yamamoto ……,Yamamoto ……
+Yamamoto Akuji (talking),どした？ 民華さん。,What's up? Minka.,¿Qué pasa? Minka.
+Haku Minka (talking),あたし…それだけじゃ ないような気がする…,I have a feeling there's more to it than that.,Yo sólo… siento que hay más que eso…
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+Haku Minka (talking),大舅さんのそばに、 さっちゃんいたっしょ？,"You saw Sachiko by his side in Alexandria, didn't you?","Has visto a Sachiko por Alejandría, ¿no?"
+Yamamoto Akuji (talking),ああ。,Oh.,Oh.
+Haku Minka (talking),……ひょっとして… 関りあるんじゃないかなー…,…… by any chance… I wonder if there's a connection…,…… por casualidad… Me pregunto si hay una conexión…
+Yamamoto Akuji (talking),……………,……………,……………
+Haku Minka (talking),どう思う？,What do you think?,¿Qué te parece?
+Yamamoto Akuji (talking),まあ……どっちにしろ… あのじーさんとのガチンコは 止めらんねーけどな。,"Well,…… either way… it ain't gonna stop me from slugging it out with that old man.","Bueno,…… de cualquier manera… no va a impedir que me pelee con ese viejo."
+__system__??,},,
+__system__??,{★愛 = 2:,,
+Kaga Motoko (talking),……変ね。,…… That's weird.,…… Weird.
+Yamamoto Akuji (talking),ん？　どーしたトコ。,Hmm?　What's wrong with Toco?,¿Hmm?　¿Qué le pasa a Toko?
+Kaga Motoko (talking),"一発様の事は私も知っているわ。 昔、よく遊んでもらっていたし。
 自分の求めるもののためなら それ以外の事は全て切り捨てる。 それが一発様……
 戦後すぐ、わかめ組を捨てて 放浪の旅に出た時のように。","I know you too, Mr. Ippatsu. He used to play with me.
 He would cut out everything else for what he wants. That's how Ippatsu-sama is ……
 Just like when you abandoned the Wakame-gumi and went on a wandering journey right after the war.","Yo también le conozco, señor Ippatsu. Solía jugar mucho conmigo en el pasado.
 Para lo que yo quiero, dejaré de lado todo lo demás. Así es como Ippatsu-sama ……
 Como cuando abandonaste el clan Wakame justo después de la guerra y te fuiste de viaje errante."
-"Yamamoto Akuji (talking)","何が言いたいんだ？ ちとわかんねーが……","What's your point? I'm not sure……","¿Qué quieres decir? No estoy seguro……"
-"Kaga Motoko (talking)","悪司と戦いたい、楽しみたい。 それが一発様の目的なら…… 一発様が殺叔母さんを 連れている理由がない。","I want to fight Akuji and have fun. If that is Ippatsu-sama's purpose, there is no reason for…… Ippatsu-sama to have Satsu-aunt with him.","Quiero luchar contra Akuji y divertirme. Si eso es lo que quiere Ippatsu-sama, no hay razón para que…… Ippatsu-sama tenga a la tía Satsu con él."
-"Yamamoto Akuji (talking)","……………","……………","……………"
-"Kaga Motoko (talking)","……どう思う？","What do you think of ……?","…… ¿Qué te parece?"
-"Yamamoto Akuji (talking)","……まー、今はとりあえず 煩わしい事は後回しだ。
+Yamamoto Akuji (talking),何が言いたいんだ？ ちとわかんねーが……,What's your point? I'm not sure……,¿Qué quieres decir? No estoy seguro……
+Kaga Motoko (talking),悪司と戦いたい、楽しみたい。 それが一発様の目的なら…… 一発様が殺叔母さんを 連れている理由がない。,"I want to fight Akuji and have fun. If that is Ippatsu-sama's purpose, there is no reason for…… Ippatsu-sama to have Satsu-aunt with him.","Quiero luchar contra Akuji y divertirme. Si eso es lo que quiere Ippatsu-sama, no hay razón para que…… Ippatsu-sama tenga a la tía Satsu con él."
+Yamamoto Akuji (talking),……………,……………,……………
+Kaga Motoko (talking),……どう思う？,What do you think of ……?,…… ¿Qué te parece?
+Yamamoto Akuji (talking),"……まー、今はとりあえず 煩わしい事は後回しだ。
 何にしたって あのじーさんとのガチンコはもう 止めらんねーしな。","……Well, for now, I'm putting all the troublesome stuff behind me.
 I can't stop playing with that old man any more.","…… Bueno, por ahora, voy a dejar atrás todas esas molestias.
 Haga lo que haga, no puedo dejar de pelearme con ese viejo."
-"__system__??","}","",""
-"__system__??","{★愛 = 3:","",""
-"Nogi Kikuko (talking)","あの……旦那様。","That…… sir.","Que…… señor."
-"Yamamoto Akuji (talking)","おう、どーした？　きっこ。","Oh, what's up?　Kikko.","¿Qué pasa?　Kikko."
-"Nogi Kikuko (talking)","何故、叔母様は大舅様のお側に？ 今もまるで旦那様を避けるように……
+__system__??,},,
+__system__??,{★愛 = 3:,,
+Nogi Kikuko (talking),あの……旦那様。,That…… sir.,Que…… señor.
+Yamamoto Akuji (talking),おう、どーした？　きっこ。,"Oh, what's up?　Kikko.",¿Qué pasa?　Kikko.
+Nogi Kikuko (talking),"何故、叔母様は大舅様のお側に？ 今もまるで旦那様を避けるように……
 あんなに……あんなに、 旦那様と仲良くしてらしたのに……","Why is your aunt staying in Alexandria? She still avoids him as if she is ……
 She was so…… friendly with the Master……","¿Por qué se queda tu tía en Alejandría? Ella sigue evitándolo como si fuera ……
 Ella era tan…… amigable con él……"
-"Yamamoto Akuji (talking)","……………","……………","……………"
-"Nogi Kikuko (talking)","旦那様、 何かお心当たりが？","Sir, do you have any idea what's going on?","Señor, ¿tiene alguna idea de lo que está pasando?"
-"Yamamoto Akuji (talking)","まあ……どっちにしろ… あのじーさんとのガチンコは 止めらんねーけどな。","Well,…… either way… it ain't gonna stop me from slugging it out with that old man.","Bueno,…… de cualquier manera… no va a impedir que me pelee con ese viejo."
-"__system__??","}","",""
-"__system__??","{★愛 = 6:","",""
-"Henri Pe (talking)","………悪司……","………Akuji……","………Akuji……"
-"Yamamoto Akuji (talking)","どーした、アンリ。 危ねーから下がってろ。","What's up, Henri. Stay back, it's not safe.","Qué pasa, Henri. Quédate atrás, no es seguro."
-"Henri Pe (talking)","………………さっちゃん……","………………Satchan……","……………… Satchan ……"
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"Henri Pe (talking)","……さっちゃんが…… 何か関係してるのかな…？","I wonder if…… Sacchan has anything to do with ………?","…… ¿Sacchan tiene algo que ver con ………?"
-"Yamamoto Akuji (talking)","…………
+Yamamoto Akuji (talking),……………,……………,……………
+Nogi Kikuko (talking),旦那様、 何かお心当たりが？,"Sir, do you have any idea what's going on?","Señor, ¿tiene alguna idea de lo que está pasando?"
+Yamamoto Akuji (talking),まあ……どっちにしろ… あのじーさんとのガチンコは 止めらんねーけどな。,"Well,…… either way… it ain't gonna stop me from slugging it out with that old man.","Bueno,…… de cualquier manera… no va a impedir que me pelee con ese viejo."
+__system__??,},,
+__system__??,{★愛 = 6:,,
+Henri Pe (talking),………悪司……,………Akuji……,………Akuji……
+Yamamoto Akuji (talking),どーした、アンリ。 危ねーから下がってろ。,"What's up, Henri. Stay back, it's not safe.","Qué pasa, Henri. Quédate atrás, no es seguro."
+Henri Pe (talking),………………さっちゃん……,………………Satchan……,……………… Satchan ……
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+Henri Pe (talking),……さっちゃんが…… 何か関係してるのかな…？,I wonder if…… Sacchan has anything to do with ………?,…… ¿Sacchan tiene algo que ver con ………?
+Yamamoto Akuji (talking),"…………
 まあ……どっちにしろ… あのじーさんとのガチンコは 止めらんねーけどな。","…………
 Well,…… either way… won't stop me from slugging it out with that old man.","…………
 Bueno…… de cualquier manera… no va a impedir que me pelee con ese viejo."
-"__system__??","}","",""
-"Yamamoto Ippatsu (talking)","その通りじゃ、悪司！！！ 戦争さえも、このワシを殺す事は 出来なんだ！
+__system__??,},,
+Yamamoto Ippatsu (talking),"その通りじゃ、悪司！！！ 戦争さえも、このワシを殺す事は 出来なんだ！
 悪司！！ お前がワシを越えるか！！ ワシが最強のままでいるか！！
 さあ、行くぞ！！ このワシをどこまで楽しませてくれるか！ この躰で試してやるわ！！","You're right, Akuji! Even war can't Matsu me!
 Akuji! Either you surpass me! Or I will remain the strongest!
 Let's go! Let's see how far you can take me! I'll test you with my own body!","¡Eso es, Akuji! ¡Incluso la guerra no puede Satsu aquí!
  ¡Akuji! ¡O me superas! ¡O seguiré siendo el más fuerte!
  ¡Vamos! ¡Vamos! ¡Veamos hasta dónde puedes llevarme! ¡Te pondré a prueba con mi propio cuerpo!"
-"Yamamoto Akuji (talking)","おう！！ じーさん相手にマヂバトル、 ジョートーだぜ！！
+Yamamoto Akuji (talking),"おう！！ じーさん相手にマヂバトル、 ジョートーだぜ！！
 親父より、大杉より…絶対越えなきゃ いけねぇ奴は、あんただと決めていた からな！
 行くぜ！！！","Hey! You're a real battle against an old man, Joto!
 I've decided that the one person I have to beat more than my dad, more than Oosugi, is you!
 Let's go!","¡Oye! ¡Eres una verdadera batalla contra un anciano, Joto!
  ¡He decidido que la única persona a la que tengo que vencer más que a mi padre, más que a Oosugi, eres tú!
  ¡Vamos!"
-"Yamamoto Ippatsu (talking)","おおう、こい！！！","Oh, come on!","¡Oh, vamos!"
-"__system__??","{RETURN = 0:","",""
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","うっ……くぅ！！","Ugh…… koo!!!!","Ugh…… ¡Ku!"
-"__system__??","{★愛 = 1:","",""
-"Haku Minka (talking)","山本さん！！ しっかりして！！","Yamamoto! Stay with me!","¡¡¡Yamamoto!!! ¡Quédate conmigo!"
-"Yamamoto Akuji (talking)","どっ……どけ、民華さん…俺はまだ…","Dotto…… out of the way, Minka…I'm still…","Dotto…… fuera del camino, Minka… Todavía estoy…"
-"Haku Minka (talking)","あっ…！？","Ah…!","¡Ah…!"
-"Yamamoto Akuji (talking)","………っ！？","………!","¡………!"
-"narrator","喜久子を肩に抱きあげた一発がそこにいた。","Ippatsu was there, holding Kikuko up on his shoulders.","Ippatsu estaba allí, sosteniendo a Kikuko sobre sus hombros."
-"Yamamoto Akuji (talking)","…っ…じー……さん……？","…jeez……… Mr……?","…jeez……… Mr ……?"
-"Haku Minka (talking)","離して、離してよ！ 大舅さん！","Get off me! Get off me! Alexandria!","¡Suéltame, suéltame! ¡Alejandría!"
-"Yamamoto Ippatsu (talking)","ふがいない… ふがいないの…悪司……
+Yamamoto Ippatsu (talking),おおう、こい！！！,"Oh, come on!","¡Oh, vamos!"
+__system__??,{RETURN = 0:,,
+__system__??,},,
+Yamamoto Akuji (talking),うっ……くぅ！！,Ugh…… koo!!!!,Ugh…… ¡Ku!
+__system__??,{★愛 = 1:,,
+Haku Minka (talking),山本さん！！ しっかりして！！,Yamamoto! Stay with me!,¡¡¡Yamamoto!!! ¡Quédate conmigo!
+Yamamoto Akuji (talking),どっ……どけ、民華さん…俺はまだ…,"Dotto…… out of the way, Minka…I'm still…","Dotto…… fuera del camino, Minka… Todavía estoy…"
+Haku Minka (talking),あっ…！？,Ah…!,¡Ah…!
+Yamamoto Akuji (talking),………っ！？,………!,¡………!
+narrator,喜久子を肩に抱きあげた一発がそこにいた。,"Ippatsu was there, holding Kikuko up on his shoulders.","Ippatsu estaba allí, sosteniendo a Kikuko sobre sus hombros."
+Yamamoto Akuji (talking),…っ…じー……さん……？,…jeez……… Mr……?,…jeez……… Mr ……?
+Haku Minka (talking),離して、離してよ！ 大舅さん！,Get off me! Get off me! Alexandria!,"¡Suéltame, suéltame! ¡Alejandría!"
+Yamamoto Ippatsu (talking),"ふがいない… ふがいないの…悪司……
 このような半端な男が嫁を持つなど笑止。 このワシが預かっておく。","I'm not worthy… I'm not worthy… Akuji ……
 It is laughable that such a half-witted man should have a wife. I will take care of it.","No soy digno… No soy digno… Akuji ……
 Es risible que un hombre tan poco inteligente tenga una esposa. Me encargaré de ello."
-"Yamamoto Akuji (talking)","えっ……？","What, ……?","¿Qué, ……?"
-"Haku Minka (talking)","かっ…勝手な事言わないで！ あたし絶対、山本さんのそばから 離れない！！
+Yamamoto Akuji (talking),えっ……？,"What, ……?","¿Qué, ……?"
+Haku Minka (talking),"かっ…勝手な事言わないで！ あたし絶対、山本さんのそばから 離れない！！
 離して、はなっ――！！","Don't say that! I'll never leave your side!
 Let go of me, Hana--!","¡No digas nada! Nunca me iré del lado de Yamamoto.
  ¡Suéltame, Hana…!"
-"narrator","一発は軽く民華の首筋を押さえ、 民華を気絶させた。","Ippatsu lightly pressed Minka's neck, knocking Minka unconscious.","Ippatsu presionó ligeramente el cuello de Minka, dejando inconsciente a Minka."
-"Yamamoto Akuji (talking)","民華！！","Minka!","¡¡¡Minka!!!"
-"Yamamoto Ippatsu (talking)","悪司。 三年じゃ。 三年経ったら、またきてやろう。
+narrator,一発は軽く民華の首筋を押さえ、 民華を気絶させた。,"Ippatsu lightly pressed Minka's neck, knocking Minka unconscious.","Ippatsu presionó ligeramente el cuello de Minka, dejando inconsciente a Minka."
+Yamamoto Akuji (talking),民華！！,Minka!,¡¡¡Minka!!!
+Yamamoto Ippatsu (talking),"悪司。 三年じゃ。 三年経ったら、またきてやろう。
 その時、ワシに勝つ事が出来たら、 お前の嫁を返してやる。
 それまでせいぜい、修行を続けておれ。","Akuji. Three years. After three years, I'll come back.
 If you can beat me then, I'll give you back your wife.
 Until then, continue your training at best.","Akuji. Tres años. Después de tres años, volveré.
 Si puedes vencerme entonces, te devolveré a tu mujer.
 Hasta entonces, continúe con su entrenamiento en el mejor de los casos."
-"__system__??","}","",""
-"__system__??","{★愛 = 2:","",""
-"Kaga Motoko (talking)","悪司……！！ しっかりして！！","Akuji ……!!! Stay strong!!!!!!!!!!!!!!!!!!!!!!!!","¡¡¡Akuji ……!!! ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡Mantente fuerte!!!!!!!!!!!!!!!!!!!!!!!!"
-"Yamamoto Akuji (talking)","どっ……どけ、トコ……！ 俺はまだ…","Do…… move, toco ……! I'm still…","¡Haz…… mover, Toco ……! Todavía estoy…"
-"Kaga Motoko (talking)","あっ…！？","Ah…!","¡Ah…!"
-"Yamamoto Akuji (talking)","………っ！？","………!","¡………!"
-"narrator","元子を肩に抱きあげた一発がそこにいた。","There was Ippatsu there, holding Motoko on his shoulder.","Ippatsu estaba allí, sosteniendo a Motoko sobre sus hombros."
-"Yamamoto Akuji (talking)","…っ…じー……さん……？","…jeez……… Mr……?","…jeez……… Mr ……?"
-"Kaga Motoko (talking)","いっ……一発様、何を……","Dear ……Ippatsu, what ……","Estimado ……Ippatsu, qué ……"
-"Yamamoto Ippatsu (talking)","ふがいない… ふがいないの…悪司……
+__system__??,},,
+__system__??,{★愛 = 2:,,
+Kaga Motoko (talking),悪司……！！ しっかりして！！,Akuji ……!!! Stay strong!!!!!!!!!!!!!!!!!!!!!!!!,¡¡¡Akuji ……!!! ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡Mantente fuerte!!!!!!!!!!!!!!!!!!!!!!!!
+Yamamoto Akuji (talking),どっ……どけ、トコ……！ 俺はまだ…,"Do…… move, toco ……! I'm still…","¡Haz…… mover, Toco ……! Todavía estoy…"
+Kaga Motoko (talking),あっ…！？,Ah…!,¡Ah…!
+Yamamoto Akuji (talking),………っ！？,………!,¡………!
+narrator,元子を肩に抱きあげた一発がそこにいた。,"There was Ippatsu there, holding Motoko on his shoulder.","Ippatsu estaba allí, sosteniendo a Motoko sobre sus hombros."
+Yamamoto Akuji (talking),…っ…じー……さん……？,…jeez……… Mr……?,…jeez……… Mr ……?
+Kaga Motoko (talking),いっ……一発様、何を……,"Dear ……Ippatsu, what ……","Estimado ……Ippatsu, qué ……"
+Yamamoto Ippatsu (talking),"ふがいない… ふがいないの…悪司……
 このような半端な男が嫁を持つなど笑止。 このワシが預かっておく。","I'm not worthy… I'm not worthy… Akuji ……
 It is laughable that such a half-witted man should have a wife. I will take care of it.","No soy digno… No soy digno… Akuji ……
 Es risible que un hombre tan poco inteligente tenga una esposa. Me encargaré de ello."
-"Yamamoto Akuji (talking)","……なっ…………","………………","………………"
-"Kaga Motoko (talking)","………………","………………","………………"
-"Yamamoto Ippatsu (talking)","ずいぶんとおとなしいのう、元子。 諦めたか、それとも悪司を見限ったか？","You've been very quiet, Motoko. Have you given up, or have you given up on Akuji?","Has estado muy callado, Motoko. ¿Te has dado por vencido, o has renunciado a Akuji?"
-"Kaga Motoko (talking)","……お爺様に抵抗しても、無駄。 それは知っているし……
+Yamamoto Akuji (talking),……なっ…………,………………,………………
+Kaga Motoko (talking),………………,………………,………………
+Yamamoto Ippatsu (talking),ずいぶんとおとなしいのう、元子。 諦めたか、それとも悪司を見限ったか？,"You've been very quiet, Motoko. Have you given up, or have you given up on Akuji?","Has estado muy callado, Motoko. ¿Te has dado por vencido, o has renunciado a Akuji?"
+Kaga Motoko (talking),"……お爺様に抵抗しても、無駄。 それは知っているし……
 悪司なら、必ず助けに来てくれる。 前に私を助けてくれたように。","There is no use in resisting…… grandfather. I know that and ……
 Akuji will surely come to your rescue. Just like he saved me before.","…… resistirse a tu abuelo es inútil. Lo sé y ……
 Akuji seguramente vendrá a tu rescate. Al igual que me salvó antes."
-"Yamamoto Ippatsu (talking)","ほう……麗しい夫婦愛よの。 じゃがその気丈さ、いつまで保つかの？","You are a beautiful couple, aren't you? But how long can they keep up their stoutness?","Ley…… Es un hermoso amor entre marido y mujer. Pero, ¿cuánto tiempo podrán mantener su robustez?"
-"narrator","一発は軽く元子の首筋を押さえ、 元子を気絶させた。","Ippatsu lightly pressed Motoko's neck, knocking Motoko unconscious.","Ippatsu presionó ligeramente el cuello de Motoko, dejando inconsciente a Motoko."
-"Yamamoto Akuji (talking)","トコおっ！！","Toco oh!","¡Toco oh!"
-"Yamamoto Ippatsu (talking)","悪司。 三年じゃ。 三年経ったら、またきてやろう。
+Yamamoto Ippatsu (talking),ほう……麗しい夫婦愛よの。 じゃがその気丈さ、いつまで保つかの？,"You are a beautiful couple, aren't you? But how long can they keep up their stoutness?","Ley…… Es un hermoso amor entre marido y mujer. Pero, ¿cuánto tiempo podrán mantener su robustez?"
+narrator,一発は軽く元子の首筋を押さえ、 元子を気絶させた。,"Ippatsu lightly pressed Motoko's neck, knocking Motoko unconscious.","Ippatsu presionó ligeramente el cuello de Motoko, dejando inconsciente a Motoko."
+Yamamoto Akuji (talking),トコおっ！！,Toco oh!,¡Toco oh!
+Yamamoto Ippatsu (talking),"悪司。 三年じゃ。 三年経ったら、またきてやろう。
 その時、ワシに勝つ事が出来たら、 お前の嫁を返してやる。
 それまでせいぜい、修行を続けておれ。","Akuji. Three years. After three years, I'll come back.
 If you can beat me then, I'll give you back your wife.
 Until then, continue your training at best.","Akuji. Tres años. Después de tres años, volveré.
 Si puedes vencerme entonces, te devolveré a tu mujer.
 Hasta entonces, continúe con su entrenamiento en el mejor de los casos."
-"__system__??","}","",""
-"__system__??","{★愛 = 3:","",""
-"Nogi Kikuko (talking)","だっ……旦那様っ！！ お気を確かに！！","I'm not a…… sir! Be careful!","だっ…… ¡Señor! ¡Estás en problemas!"
-"Yamamoto Akuji (talking)","どっ……どけ、きっこ…… 俺はまだ…","Dotto…… out of the way, kikko…… I'm still…","Dotto…… fuera del camino, Kikko…… todavía estoy…"
-"Nogi Kikuko (talking)","あっ…！？","Ah…!","¡Ah…!"
-"Yamamoto Akuji (talking)","………っ！？","………!","¡………!"
-"narrator","民華を肩に抱きあげた一発がそこにいた。","There was Ippatsu there, holding Minka up on his shoulder.","Ippatsu estaba allí, sosteniendo a Minka sobre sus hombros."
-"Yamamoto Akuji (talking)","…っ…じー……さん……？","…jeez……… Mr……?","…jeez……… Mr ……?"
-"Nogi Kikuko (talking)","おっ……大舅様……？！ はっ、放して下さい、何を──","Oh,…… Alexandria? Let go of me, what are you…","Oh,…… Alexandria……? Suéltame, que estás…"
-"Yamamoto Ippatsu (talking)","ふがいない… ふがいないの…悪司……
+__system__??,},,
+__system__??,{★愛 = 3:,,
+Nogi Kikuko (talking),だっ……旦那様っ！！ お気を確かに！！,I'm not a…… sir! Be careful!,だっ…… ¡Señor! ¡Estás en problemas!
+Yamamoto Akuji (talking),どっ……どけ、きっこ…… 俺はまだ…,"Dotto…… out of the way, kikko…… I'm still…","Dotto…… fuera del camino, Kikko…… todavía estoy…"
+Nogi Kikuko (talking),あっ…！？,Ah…!,¡Ah…!
+Yamamoto Akuji (talking),………っ！？,………!,¡………!
+narrator,民華を肩に抱きあげた一発がそこにいた。,"There was Ippatsu there, holding Minka up on his shoulder.","Ippatsu estaba allí, sosteniendo a Minka sobre sus hombros."
+Yamamoto Akuji (talking),…っ…じー……さん……？,…jeez……… Mr……?,…jeez……… Mr ……?
+Nogi Kikuko (talking),おっ……大舅様……？！ はっ、放して下さい、何を──,"Oh,…… Alexandria? Let go of me, what are you…","Oh,…… Alexandria……? Suéltame, que estás…"
+Yamamoto Ippatsu (talking),"ふがいない… ふがいないの…悪司……
 このような半端な男が嫁を持つなど笑止。 このワシが預かっておく。","I'm not worthy… I'm not worthy… Akuji ……
 It is laughable that such a half-witted man should have a wife. I will take care of it.","No soy digno… No soy digno… Akuji ……
 Es risible que un hombre tan poco inteligente tenga una esposa. Me encargaré de ello."
-"Yamamoto Akuji (talking)","えっ……？","What, ……?","¿Qué, ……?"
-"Nogi Kikuko (talking)","あっ、預かるって…… どういう事です、大舅様！！","Oh, what do you mean you'll take care of it?…… What do you mean you'll take care of it, Alexandria!","¡Oh, qué quieres decir con que te ocuparás de ello, ……, Alexandria!"
-"Yamamoto Ippatsu (talking)","どういう事も何も、 今言った通りじゃが？","What does that mean? What did I just say?","¿Qué quieres decir, qué acabo de decir?"
-"Nogi Kikuko (talking)","私は、私はっ……旦那様のもので、 大舅様のものではありませんっ！ 預かるだの何だのとそんな勝手に──！","I belong to the…… Master, not to Alexandria! You can't just take me and leave me…!","¡Pertenezco al maestro ……, no a Alejandría! ¡No puedes tomarme y dejarme…!"
-"narrator","一発は軽く喜久子の首筋を押さえ、 喜久子を気絶させた。","Ippatsu lightly pressed Kikuko's neck, knocking her out.","Ippatsu presionó ligeramente el cuello de Kikuko, dejándola inconsciente."
-"Yamamoto Ippatsu (talking)","煩い女よの。","She's a nagging bitch.","Es una mujer molesta."
-"Yamamoto Akuji (talking)","きっこ！！","Kikko!","¡Kikko!"
-"Yamamoto Ippatsu (talking)","悪司。 三年じゃ。 三年経ったら、またきてやろう。
+Yamamoto Akuji (talking),えっ……？,"What, ……?","¿Qué, ……?"
+Nogi Kikuko (talking),あっ、預かるって…… どういう事です、大舅様！！,"Oh, what do you mean you'll take care of it?…… What do you mean you'll take care of it, Alexandria!","¡Oh, qué quieres decir con que te ocuparás de ello, ……, Alexandria!"
+Yamamoto Ippatsu (talking),どういう事も何も、 今言った通りじゃが？,What does that mean? What did I just say?,"¿Qué quieres decir, qué acabo de decir?"
+Nogi Kikuko (talking),私は、私はっ……旦那様のもので、 大舅様のものではありませんっ！ 預かるだの何だのとそんな勝手に──！,"I belong to the…… Master, not to Alexandria! You can't just take me and leave me…!","¡Pertenezco al maestro ……, no a Alejandría! ¡No puedes tomarme y dejarme…!"
+narrator,一発は軽く喜久子の首筋を押さえ、 喜久子を気絶させた。,"Ippatsu lightly pressed Kikuko's neck, knocking her out.","Ippatsu presionó ligeramente el cuello de Kikuko, dejándola inconsciente."
+Yamamoto Ippatsu (talking),煩い女よの。,She's a nagging bitch.,Es una mujer molesta.
+Yamamoto Akuji (talking),きっこ！！,Kikko!,¡Kikko!
+Yamamoto Ippatsu (talking),"悪司。 三年じゃ。 三年経ったら、またきてやろう。
 その時、ワシに勝つ事が出来たら、 お前の嫁を返してやる。
 それまでせいぜい、修行を続けておれ。","Akuji. Three years. After three years, I'll come back.
 If you can beat me then, I'll give you back your wife.
 Until then, continue your training at best.","Akuji. Tres años. Después de tres años, volveré.
 Si puedes vencerme entonces, te devolveré a tu mujer.
 Hasta entonces, continúe con su entrenamiento en el mejor de los casos."
-"__system__??","}","",""
-"__system__??","{★愛 = 6:","",""
-"Henri Pe (talking)","悪司…！ 今、手当してあげる……
+__system__??,},,
+__system__??,{★愛 = 6:,,
+Henri Pe (talking),"悪司…！ 今、手当してあげる……
 えっと…これが、解毒剤で…… ……これっ…あっ…どうして、傷薬が 出てこないのっ……
 っ……！？","Akuji…! I'll take care of you now……
 Well… this is the antidote…… …… and this… oh… why isn't there any medicine for my wounds? ……
 I'll give you the antidote ……!","¡Akuji…! Me ocuparé de ti ahora……
 Bueno… este es el antídoto…… …… y esto… oh… ¿por qué no hay ninguna medicina para mis heridas? ……
 Te daré el antídoto… ¡……!"
-"Yamamoto Akuji (talking)","………っ！？","………!","¡………!"
-"narrator","アンリを肩に抱きあげた一発がそこにいた。","There was Ippatsu there, holding Henri up on his shoulder.","Ippatsu estaba allí, sosteniendo a Henri sobre sus hombros."
-"Yamamoto Akuji (talking)","…っ…じー……さん……？","…jeez……… Mr……?","…jeez……… Mr ……?"
-"Henri Pe (talking)","エっ……エルベ……
+Yamamoto Akuji (talking),………っ！？,………!,¡………!
+narrator,アンリを肩に抱きあげた一発がそこにいた。,"There was Ippatsu there, holding Henri up on his shoulder.","Ippatsu estaba allí, sosteniendo a Henri sobre sus hombros."
+Yamamoto Akuji (talking),…っ…じー……さん……？,…jeez……… Mr……?,…jeez……… Mr ……?
+Henri Pe (talking),"エっ……エルベ……
 っ……！！！","E……Elbe……
 I'm not sure I'm going to be able to do it……!!!!","E……Elbe……
  ¡¡¡¡Eww……!!!!"
-"narrator","一発は軽くアンリの首筋を押さえ、 アンリを気絶させた。","Ippatsu lightly pressed Henri's neck, knocking Henri unconscious.","Ippatsu presionó ligeramente el cuello de Henri, dejando inconsciente a Henri."
-"Yamamoto Ippatsu (talking)","あの馬鹿強い悪魔を呼ばれたら、 いくらワシでもイチコロじゃからの。
+narrator,一発は軽くアンリの首筋を押さえ、 アンリを気絶させた。,"Ippatsu lightly pressed Henri's neck, knocking Henri unconscious.","Ippatsu presionó ligeramente el cuello de Henri, dejando inconsciente a Henri."
+Yamamoto Ippatsu (talking),"あの馬鹿強い悪魔を呼ばれたら、 いくらワシでもイチコロじゃからの。
  ……………
 ふがいない… ふがいないの…悪司……
 このような半端な男が嫁を持つなど笑止。 このワシが預かっておく。","I'm sure I'd be a sucker for a strong demon.
@@ -904,52 +904,52 @@ I am not a man who would take a wife like this. I will take care of it.","Si inv
  ……………
 No soy lo suficientemente bueno… No soy lo suficientemente bueno… Akuji ……
 Es un chiste que un hombre tan poco inteligente tenga una esposa. Yo me encargaré de él."
-"Yamamoto Akuji (talking)","えっ……？","What, ……?","¿Qué, ……?"
-"Yamamoto Ippatsu (talking)","悪司。 三年じゃ。 三年経ったら、またきてやろう。
+Yamamoto Akuji (talking),えっ……？,"What, ……?","¿Qué, ……?"
+Yamamoto Ippatsu (talking),"悪司。 三年じゃ。 三年経ったら、またきてやろう。
 その時、ワシに勝つ事が出来たら、 お前の嫁を返してやる。
 それまでせいぜい、修行を続けておれ。","Akuji. Three years. After three years, I'll come back.
 If you can beat me then, I'll give you back your wife.
 Until then, continue your training at best.","Akuji. Tres años. Después de tres años, volveré.
 Si puedes vencerme entonces, te devolveré a tu mujer.
 Hasta entonces, continúe con su entrenamiento en el mejor de los casos."
-"__system__??","}","",""
-"narrator","一発はそう言って、そこから立ち去った。
+__system__??,},,
+narrator,"一発はそう言って、そこから立ち去った。
 気絶している悪司の妻を肩に担いだまま……","Ippatsu said and walked away from there.
 With an unconscious Akuji's wife on his shoulder ……","Ippatsu dijo esto y se alejó de allí.
 Con la mujer de Akuji inconsciente sobre su hombro: ……"
-"Yamamoto Akuji (talking)","まっ…待ってくれ… 待ってくれ、じーさん……
+Yamamoto Akuji (talking),"まっ…待ってくれ… 待ってくれ、じーさん……
 じーさん！！","Wait… wait… wait, Ji-san… ……
 Jeez!","Espera… espera… espera, Ji-san……
  ¡Ji-san!"
-"Takega Satsu (talking)","…………","…………","…………"
-"Yamamoto Ippatsu (talking)","とりあえずは終わった。 あやつはお前が気にかける 必要のない男じゃ、殺。","It's over for now. He's a man you needn't bother with, Satsu.","Se acabó por ahora. Es un hombre con el que no hay que molestarse, Satsu."
-"Takega Satsu (talking)","……………","……………","……………"
-"narrator","殺は一発の横を通りすぎ、 悪司の方へと歩いていく。","Satsu walks past Ippatsu towards Akuji.","Satsu pasa por delante de Ippatsu hacia Akuji."
-"Yamamoto Ippatsu (talking)","殺。 まだあの男を気にかけ続けるというのなら 勘当だ。","Satsu. If you still continue to care about that man, you are disinherited.","Satsu. Si todavía sigues preocupándote por ese hombre, estás repudiado."
-"Takega Satsu (talking)","――勝手に。","-- on its own accord.","-Se explica por sí mismo."
-"Yamamoto Ippatsu (talking)","そうか。 では、ここから、ワシとお前は親子でも なんでもない。
+Takega Satsu (talking),…………,…………,…………
+Yamamoto Ippatsu (talking),とりあえずは終わった。 あやつはお前が気にかける 必要のない男じゃ、殺。,"It's over for now. He's a man you needn't bother with, Satsu.","Se acabó por ahora. Es un hombre con el que no hay que molestarse, Satsu."
+Takega Satsu (talking),……………,……………,……………
+narrator,殺は一発の横を通りすぎ、 悪司の方へと歩いていく。,Satsu walks past Ippatsu towards Akuji.,Satsu pasa por delante de Ippatsu hacia Akuji.
+Yamamoto Ippatsu (talking),殺。 まだあの男を気にかけ続けるというのなら 勘当だ。,"Satsu. If you still continue to care about that man, you are disinherited.","Satsu. Si todavía sigues preocupándote por ese hombre, estás repudiado."
+Takega Satsu (talking),――勝手に。,-- on its own accord.,-Se explica por sí mismo.
+Yamamoto Ippatsu (talking),"そうか。 では、ここから、ワシとお前は親子でも なんでもない。
 勝手にするといい。","I see. Then, from now on, you and I are neither parent nor child.
 Suit yourself.","Ya veo. Entonces, a partir de ahora, tú y yo somos padre e hijo, nada más.
 Puedes hacer lo que quieras."
-"narrator","一発はそのまま、ギガフロートの中に 入って行った。","Ippatsu went straight into the Giga-Float.","Ippatsu fue directamente al gigaflote."
-"Yamamoto Akuji (talking)","くっ…くそっ…くそぉぉっ……！！","Damn…damn…damn ……!","¡Joder… joder… joder… ……!"
-"Takega Satsu (talking)","…………","…………","…………"
-"Yamamoto Akuji (talking)","………………","………………","………………"
-"Takega Satsu (talking)","………っ……","……… and ……","……… y ……"
-"Yamamoto Akuji (talking)","……何……見てんだよ……","What are you looking at …………","¿Qué estás mirando…… ……"
-"Takega Satsu (talking)","えっ…","Eh…","Eh…"
-"Yamamoto Akuji (talking)","同情なんていらねぇ……","I don't want your sympathy: ……","No quiero tu simpatía……"
-"Takega Satsu (talking)","悪司……私は……","Akuji…… I am ……","Akuji…… Soy ……"
-"Yamamoto Akuji (talking)","……………","……………","……………"
-"narrator","悪司はふらふらしながら立ち上がる。","Akuji gets up unsteadily.","Akuji se levanta con dificultad."
-"Takega Satsu (talking)","あぶな…","Watch out…","El peligroso…"
-"narrator","　　［ぱんっっっ］
+narrator,一発はそのまま、ギガフロートの中に 入って行った。,Ippatsu went straight into the Giga-Float.,Ippatsu fue directamente al gigaflote.
+Yamamoto Akuji (talking),くっ…くそっ…くそぉぉっ……！！,Damn…damn…damn ……!,¡Joder… joder… joder… ……!
+Takega Satsu (talking),…………,…………,…………
+Yamamoto Akuji (talking),………………,………………,………………
+Takega Satsu (talking),………っ……,……… and ……,……… y ……
+Yamamoto Akuji (talking),……何……見てんだよ……,What are you looking at …………,¿Qué estás mirando…… ……
+Takega Satsu (talking),えっ…,Eh…,Eh…
+Yamamoto Akuji (talking),同情なんていらねぇ……,I don't want your sympathy: ……,No quiero tu simpatía……
+Takega Satsu (talking),悪司……私は……,Akuji…… I am ……,Akuji…… Soy ……
+Yamamoto Akuji (talking),……………,……………,……………
+narrator,悪司はふらふらしながら立ち上がる。,Akuji gets up unsteadily.,Akuji se levanta con dificultad.
+Takega Satsu (talking),あぶな…,Watch out…,El peligroso…
+narrator,"　　［ぱんっっっ］
 悪司は差し伸べられた殺の手を、音をたて払った。","［PUN!]
 Akuji soundly brushes away Satsu's hand that was extended to him.","[PANT].
 Akuji apartó con fuerza la mano extendida de Satsu."
-"Yamamoto Akuji (talking)","さわんねぇでくれ…… 俺をこれ以上、惨めにしねぇでくれ……","Don't touch me…… Don't make me any more miserable ……","No me toques…… No me hagas más miserable ……"
-"Takega Satsu (talking)","悪司……","Akuji……","Akuji……"
-"Yamamoto Akuji (talking)","ちくしょう……
+Yamamoto Akuji (talking),さわんねぇでくれ…… 俺をこれ以上、惨めにしねぇでくれ……,Don't touch me…… Don't make me any more miserable ……,No me toques…… No me hagas más miserable ……
+Takega Satsu (talking),悪司……,Akuji……,Akuji……
+Yamamoto Akuji (talking),"ちくしょう……
  ……強く…なってみせるさ…… ああ……強くな……
  ……絶対…… 次は絶対負けねぇ……
 っくしょう……","Damn it………… I'll be strong… I'll be strong……… Oh,…… I'll be strong… …
@@ -957,13 +957,13 @@ I'll…… never…… lose next time ……
 I'll never beat you next time……","Maldita sea………… Seré fuerte… Seré fuerte……… Oh,…… Seré fuerte… …
 Yo…… nunca…… perder la próxima vez ……
 Vete a la mierda……"
-"Takega Satsu (talking)","……………
+Takega Satsu (talking),"……………
 悪司……","……………
 Akuji……","……………
 Akuji……"
-"narrator","殺はただ一人、そこに残された。","Satsu was the only one left there.","Satsu era el único que quedaba allí."
-"Yamamoto Akuji (talking)","はあ……はあ……","haha…… haha ……","Haa…… haa……"
-"Yamamoto Ippatsu (talking)","…………………
+narrator,殺はただ一人、そこに残された。,Satsu was the only one left there.,Satsu era el único que quedaba allí.
+Yamamoto Akuji (talking),はあ……はあ……,haha…… haha ……,Haa…… haa……
+Yamamoto Ippatsu (talking),"…………………
  …………くっ……
 くくくっ……
 ははははははは！！ ふははははははははははは！！！
@@ -977,192 +977,192 @@ Kukukukuku……
 Jajajajajaja, el que no se atreva a hacer nada es el que no se atreva a hacer nada.
 Sí, así es como se siente la derrota. Ahora lo recuerdo, Akuji. Gracias a ti.
 Bueno, recuerdo la primera vez que conocí a May."
-"narrator","地面に大の字に倒れていた一発が、 ゆっくりと躰を起こし、立ち上がる。","Ippatsu, who had been lying sprawled on the ground, slowly rises and stands up.","Ippatsu, que había estado tumbado en el suelo, levanta lentamente su cuerpo y se pone en pie."
-"Yamamoto Ippatsu (talking)","強くなったな、我が孫よ。","You have grown strong, my grandson.","Te has hecho fuerte, mi nieto."
-"Yamamoto Akuji (talking)","じーさん…","Jeez…","Cielos…"
-"Yamamoto Ippatsu (talking)","まだまだ、ワシも強くなれると いう事じゃな。
+narrator,地面に大の字に倒れていた一発が、 ゆっくりと躰を起こし、立ち上がる。,"Ippatsu, who had been lying sprawled on the ground, slowly rises and stands up.","Ippatsu, que había estado tumbado en el suelo, levanta lentamente su cuerpo y se pone en pie."
+Yamamoto Ippatsu (talking),強くなったな、我が孫よ。,"You have grown strong, my grandson.","Te has hecho fuerte, mi nieto."
+Yamamoto Akuji (talking),じーさん…,Jeez…,Cielos…
+Yamamoto Ippatsu (talking),"まだまだ、ワシも強くなれると いう事じゃな。
 よいか。 次はそう簡単には勝たせんぞ。 せいぜい、腕を磨いておく事じゃ。","It means that I can still be strong.
 I'm not going to let you win so easily next time. Next time, I won't let you win so easily. At best, you should hone your skills.","Eso significa que aún puedo ser fuerte.
 Muy bien. La próxima vez, no te dejaré ganar tan fácilmente. En el mejor de los casos, tendrás que perfeccionar tus habilidades."
-"Yamamoto Akuji (talking)","っていうか、じーさん、 まだ強くなるつもりかよ！","I mean, old man, you're still trying to get stronger!","Quiero decir, viejo, ¡todavía estás fuerte!"
-"Yamamoto Ippatsu (talking)","当たり前じゃ。 男は生涯現役でなくては、価値などない。
+Yamamoto Akuji (talking),っていうか、じーさん、 まだ強くなるつもりかよ！,"I mean, old man, you're still trying to get stronger!","Quiero decir, viejo, ¡todavía estás fuerte!"
+Yamamoto Ippatsu (talking),"当たり前じゃ。 男は生涯現役でなくては、価値などない。
 それでは、達者での。 妻を大事にするんじゃぞ、悪司。","Of course. A man has to be active all his life to be of any value.
 Well then, be a man. Take care of your wife, Akuji.","No es de extrañar. Un hombre tiene que estar activo toda su vida para tener algún valor.
 Entonces, sé un maestro. Cuida bien de tu mujer,  Akuji."
-"Yamamoto Akuji (talking)","………おう……
+Yamamoto Akuji (talking),"………おう……
  ………またな、じーさん。","……… oh …………… See you later, old man.","……… oh …………… Hasta luego, viejo."
-"Yamamoto Ippatsu (talking)","うむ。","Mm.","Mm."
-"Takega Satsu (talking)","……………","……………","……………"
-"Yamamoto Akuji (talking)","さっちゃん……","Sacchan ……","Sacchan ……"
-"Takega Satsu (talking)","お前の事が好きだった。","I liked you.","Me gustabas."
-"Yamamoto Akuji (talking)","俺もさっちゃんの事が好きだぜ。","I like you too, Sacchan.","Tú también me gustas, Sacchan."
-"Takega Satsu (talking)","多分、私が言っているのは、 そういう意味ではない。","Maybe that's not what I mean.","Tal vez no sea eso lo que quiero decir."
-"Yamamoto Akuji (talking)","……………","……………","……………"
-"Takega Satsu (talking)","私は叔母だ。 このような感情を持っても、 どうしようもない。
+Yamamoto Ippatsu (talking),うむ。,Mm.,Mm.
+Takega Satsu (talking),……………,……………,……………
+Yamamoto Akuji (talking),さっちゃん……,Sacchan ……,Sacchan ……
+Takega Satsu (talking),お前の事が好きだった。,I liked you.,Me gustabas.
+Yamamoto Akuji (talking),俺もさっちゃんの事が好きだぜ。,"I like you too, Sacchan.","Tú también me gustas, Sacchan."
+Takega Satsu (talking),多分、私が言っているのは、 そういう意味ではない。,Maybe that's not what I mean.,Tal vez no sea eso lo que quiero decir.
+Yamamoto Akuji (talking),……………,……………,……………
+Takega Satsu (talking),"私は叔母だ。 このような感情を持っても、 どうしようもない。
 だから、親父殿の元に行った。","I am an aunt. I can't help it if I have these feelings.
 That's why I went to my father.","Soy una tía. No puedo evitar estos sentimientos que tengo.
 Por eso acudí a mi padre."
-"Yamamoto Akuji (talking)","……さっちゃん…","……Satchan…","…… Satchan…"
-"Takega Satsu (talking)","息災で。","Breathe well.","Respira bien."
-"Yamamoto Akuji (talking)","さっちゃんも行っちまうのかい？","Is Sacchan going away, too?","¿Sacchan también se va a ir?"
-"Takega Satsu (talking)","……………
+Yamamoto Akuji (talking),……さっちゃん…,……Satchan…,…… Satchan…
+Takega Satsu (talking),息災で。,Breathe well.,Respira bien.
+Yamamoto Akuji (talking),さっちゃんも行っちまうのかい？,"Is Sacchan going away, too?",¿Sacchan también se va a ir?
+Takega Satsu (talking),"……………
 生きていれば会えるではないか。","……………
 If you are alive, we will see you.","……………
 Si estás vivo, te veremos."
-"Yamamoto Akuji (talking)","そーだな。","I guess so.","Sí."
-"Takega Satsu (talking)","……………","……………","……………"
-"Yamamoto Akuji (talking)","さ……","Sah ……","Sah ……"
-"narrator","殺は悪司に飛びつくと、その頬に口づけた。","Satsu jumped on Akuji and kissed him on the cheek.","Satsu saltó sobre Akuji y le besó en la mejilla."
-"narrator","そして、背を向け、ゆっくりと一発が 歩いて行った方へと去っていった。","Then he turned away and slowly left in the direction Ippatsu had walked.","A continuación, se dio la vuelta y se marchó lentamente en la dirección que había tomado Ippatsu."
-"__system__??","{★愛 = 1:","",""
-"Haku Minka (talking)","……………","……………","……………"
-"Yamamoto Akuji (talking)","………知ってたのかい？","Did you know about ………?","……… ¿Lo sabía?"
-"Haku Minka (talking)","えっ？","What?","¿Qué?"
-"Yamamoto Akuji (talking)","さっちゃんの気持ちだよ。","It's how Sacchan feels.","Los sentimientos de Sacchan."
-"Haku Minka (talking)","…………多分…そーかなって思っただけ…","………… maybe… just wondering…","………… Sólo pensé que tal vez… tal vez…"
-"Yamamoto Akuji (talking)","……………","……………","……………"
-"Haku Minka (talking)","危なかったな~…","That was close…","Eso estuvo cerca…"
-"Yamamoto Akuji (talking)","何が？","What?","¿Qué?"
-"Haku Minka (talking)","さっちゃが本気になってたら、 絶対負けてた、あたし。","If Sacha had been serious, I would have lost for sure.","Si Sacha hubiera ido en serio, habría perdido seguro."
-"Yamamoto Akuji (talking)","……………","……………","……………"
-"Haku Minka (talking)","そこで無口になんないでよ…","Don't be so quiet there…","No te quedes tan callado…"
-"Yamamoto Akuji (talking)","………へへっ……","……… hehe ……","……… jeje ……"
-"narrator","悪司は笑うと、民華の頭を撫でた。","Akuji laughed and patted Minka on the head.","Akuji se rió y le dio una palmadita a Minka en la cabeza."
-"__system__??","}","",""
-"__system__??","{★愛 = 2:","",""
-"Kaga Motoko (talking)","………悪司……","………Akuji……","………Akuji……"
-"Yamamoto Akuji (talking)","寂しいモンだな。","It's a lonely monstrosity.","Una monstruosidad solitaria."
-"Kaga Motoko (talking)","…………","…………","…………"
-"Yamamoto Akuji (talking)","……なんかこう、 あんま充実感がねえんだ。
+Yamamoto Akuji (talking),そーだな。,I guess so.,Sí.
+Takega Satsu (talking),……………,……………,……………
+Yamamoto Akuji (talking),さ……,Sah ……,Sah ……
+narrator,殺は悪司に飛びつくと、その頬に口づけた。,Satsu jumped on Akuji and kissed him on the cheek.,Satsu saltó sobre Akuji y le besó en la mejilla.
+narrator,そして、背を向け、ゆっくりと一発が 歩いて行った方へと去っていった。,Then he turned away and slowly left in the direction Ippatsu had walked.,"A continuación, se dio la vuelta y se marchó lentamente en la dirección que había tomado Ippatsu."
+__system__??,{★愛 = 1:,,
+Haku Minka (talking),……………,……………,……………
+Yamamoto Akuji (talking),………知ってたのかい？,Did you know about ………?,……… ¿Lo sabía?
+Haku Minka (talking),えっ？,What?,¿Qué?
+Yamamoto Akuji (talking),さっちゃんの気持ちだよ。,It's how Sacchan feels.,Los sentimientos de Sacchan.
+Haku Minka (talking),…………多分…そーかなって思っただけ…,………… maybe… just wondering…,………… Sólo pensé que tal vez… tal vez…
+Yamamoto Akuji (talking),……………,……………,……………
+Haku Minka (talking),危なかったな~…,That was close…,Eso estuvo cerca…
+Yamamoto Akuji (talking),何が？,What?,¿Qué?
+Haku Minka (talking),さっちゃが本気になってたら、 絶対負けてた、あたし。,"If Sacha had been serious, I would have lost for sure.","Si Sacha hubiera ido en serio, habría perdido seguro."
+Yamamoto Akuji (talking),……………,……………,……………
+Haku Minka (talking),そこで無口になんないでよ…,Don't be so quiet there…,No te quedes tan callado…
+Yamamoto Akuji (talking),………へへっ……,……… hehe ……,……… jeje ……
+narrator,悪司は笑うと、民華の頭を撫でた。,Akuji laughed and patted Minka on the head.,Akuji se rió y le dio una palmadita a Minka en la cabeza.
+__system__??,},,
+__system__??,{★愛 = 2:,,
+Kaga Motoko (talking),………悪司……,………Akuji……,………Akuji……
+Yamamoto Akuji (talking),寂しいモンだな。,It's a lonely monstrosity.,Una monstruosidad solitaria.
+Kaga Motoko (talking),…………,…………,…………
+Yamamoto Akuji (talking),"……なんかこう、 あんま充実感がねえんだ。
 家族だったさっちゃんまで、 行っちまったしな。
 勝ったのは勝ったが、 そんな気がしねーな……","…… doesn't really give me a sense of fulfillment.
 I'm not sure what to expect from the newest addition to my family.
 We won, but I don't feel that way……","…… no me da una sensación de plenitud.
 Incluso mi familiar, Sacchan, se ha ido.
 Hemos ganado, pero no lo siento así……"
-"Kaga Motoko (talking)","悪司………","Akuji………","Akuji………"
-"Yamamoto Akuji (talking)","じーさんは、 もっと強くなるっつったが……
+Kaga Motoko (talking),悪司………,Akuji………,Akuji………
+Yamamoto Akuji (talking),"じーさんは、 もっと強くなるっつったが……
 俺も、もうちょい強くなりてーな。 喧嘩だけじゃなく、いろんな意味でよ。","My grandfather said he would get stronger……
 I want to be a little stronger too. Not just in fights, but in many ways.","Mi abuelo dijo que se haría más fuerte……
 Yo también quiero ser un poco más fuerte. No sólo en las peleas, sino en muchos aspectos."
-"Kaga Motoko (talking)","…………","…………","…………"
-"narrator","元子は黙って側に寄り添い、悪司の手を握った。","Motoko silently leaned to the side and shook Akuji's hand.","Motoko se apartó en silencio y cogió la mano de Akuji."
-"Yamamoto Akuji (talking)","……ありがとよ、トコ。","Thanks for ……, Toco.","…… Gracias, Toco."
-"__system__??","}","",""
-"__system__??","{★愛 = 3:","",""
-"Nogi Kikuko (talking)","……叔母様……","…… Aunt ……","…… aunt……"
-"Yamamoto Akuji (talking)","………？ どした、きっこ。","………? What's up, kikko?","………? ¿Qué pasa, Kikko?"
-"Nogi Kikuko (talking)","旦那様……私、あの……
+Kaga Motoko (talking),…………,…………,…………
+narrator,元子は黙って側に寄り添い、悪司の手を握った。,Motoko silently leaned to the side and shook Akuji's hand.,Motoko se apartó en silencio y cogió la mano de Akuji.
+Yamamoto Akuji (talking),……ありがとよ、トコ。,"Thanks for ……, Toco.","…… Gracias, Toco."
+__system__??,},,
+__system__??,{★愛 = 3:,,
+Nogi Kikuko (talking),……叔母様……,…… Aunt ……,…… aunt……
+Yamamoto Akuji (talking),………？ どした、きっこ。,"………? What's up, kikko?","………? ¿Qué pasa, Kikko?"
+Nogi Kikuko (talking),"旦那様……私、あの……
  …………あの……","Sir…… I, that ……………… that……","Señor,…… Yo, que……………… que……"
-"Yamamoto Akuji (talking)","………………
+Yamamoto Akuji (talking),"………………
 さっちゃんにうしろめたいとか 思うんじゃねーぞ、きっこ。","………………
 Don't ever think that I want to be ashamed of you, Kicco.","………………
 No sientas pena por Satcha, Kikko."
-"Nogi Kikuko (talking)","えっ………？","What, ………?","¿Qué, ………?"
-"Yamamoto Akuji (talking)","たとえさっちゃんの方が おめーよりつきあい長くても 俺が選んだのはおめーだ。
+Nogi Kikuko (talking),えっ………？,"What, ………?","¿Qué, ………?"
+Yamamoto Akuji (talking),"たとえさっちゃんの方が おめーよりつきあい長くても 俺が選んだのはおめーだ。
 さっちゃんの目の前で 俺とイチャイチャしてたのも おめーにゃ別に責任はねえ。
 あるとすりゃ、全然気付いてなかった 俺の方だからな。","Even if Sachan has been with you longer than you, I chose you.
 You are not responsible for making out with me in front of Sacchan.
 If anyone is to blame, it's me for not noticing at all.","Aunque Sacchan lleve más tiempo contigo, te he elegido a ti.
 No eres responsable de besarte conmigo delante de Sacchan.
 Si alguien tiene la culpa, soy yo, que no me he dado cuenta en absoluto."
-"Nogi Kikuko (talking)","だ、旦那様、どうして…","Oh, mister, why did you…","No, señor, por qué no…"
-"Yamamoto Akuji (talking)","嫁の考えてる事くれぇ解んねーとな。
+Nogi Kikuko (talking),だ、旦那様、どうして…,"Oh, mister, why did you…","No, señor, por qué no…"
+Yamamoto Akuji (talking),"嫁の考えてる事くれぇ解んねーとな。
  ……いや、何となく、 俺と同じ事考えてんじゃねーかなと テキトーに言ってみただけだ。
 こりゃもう、どうしようもねえ。 ……世の中、ンな事もあるさ。","I need to know what my wife is thinking.
 I'm just saying that she's probably thinking the same thing I am……
 I can't help it…… Sometimes things happen in this world.","Necesito saber qué piensa mi mujer.…… No, sólo digo que probablemente esté pensando lo mismo que yo.
 No puedo evitarlo…… A veces pasan cosas en el mundo."
-"Nogi Kikuko (talking)","旦那様……","Sir ……","Señor: ……"
-"Yamamoto Akuji (talking)","ま、とりあえず帰ろうぜ。 ハデに祝杯上げようや。
+Nogi Kikuko (talking),旦那様……,Sir ……,Señor: ……
+Yamamoto Akuji (talking),"ま、とりあえず帰ろうぜ。 ハデに祝杯上げようや。
 ゴチソーの用意、頼んだぜ、きっこ。","Well, let's go home anyway. Let's have a big toast.
 I've asked you to prepare a Gochisaw, Kikko.","Bueno, vamos a casa. Hagamos una gran celebración.
 Te he pedido que prepares el Gochisou, Kikko."
-"Nogi Kikuko (talking)","……はいっ。","…… Yes.","…… Sí."
-"__system__??","}","",""
-"__system__??","{★愛 = 6:","",""
-"Henri Pe (talking)","……こういう……事だったんだ………","It was…… this kind of…… thing ………","…… Este es el tipo de…… del que hablaba: ………"
-"Yamamoto Akuji (talking)","…………ああ…","………… Oh…","………… Oh…"
-"Henri Pe (talking)","…………………","…………………","…………………"
-"Yamamoto Akuji (talking)","何、複雑な顔してんだよ。","What's with the complicated face?","¿Por qué esa cara tan complicada?"
-"Henri Pe (talking)","………さっちゃんが…… 泣いていたような気がして……","I felt like……… Sacchan was crying ……","Sentí que……… Sacchan estaba llorando ……"
-"Yamamoto Akuji (talking)","………………","………………","………………"
-"Henri Pe (talking)","……………………","……………………","……………………"
-"narrator","アンリはきゅっと悪司に縋りついた。","Henri clutched Akuji tightly.","Henri se agarró a Akuji con fuerza."
-"__system__??","}","",""
-"narrator","悪司が事務所にいると…","With Akuji in the office…","Cuando Akuji está en la oficina…"
-"Yamamoto Ippatsu (talking)","邪魔するぞ。","I'll get out of your way.","Interrumpir."
-"Yamamoto Akuji (talking)","じーさん？","Ji-san?","¿Ji-san?"
-"Yamamoto Ippatsu (talking)","情けない…この程度の兵隊しか おらんのか。","What a pity….they only have soldiers of this caliber.","Vergonzoso… sólo tiene soldados de este calibre."
-"Yamamoto Akuji (talking)","おい、じーさん。 それどーいう意味だよ？","Hey, old man. What do you mean by that?","Oye, viejo. ¿Qué quieres decir con eso?"
-"Yamamoto Ippatsu (talking)","ワシからの情けを受けるとするか？","Shall we accept mercy from me?","¿Aceptaremos la misericordia del águila?"
-"__system__??","{RETURN = 2:","",""
-"Yamamoto Ippatsu (talking)","そうか、自分でなんとかするか。 ではそうするといい。","Oh well, I can handle it myself. Then you may do so.","Bien, tendré que arreglármelas por mi cuenta. Entonces puede hacerlo."
-"narrator","そう言って、一発は立ち去った。","With that, Ippatsu walked away.","Dicho esto, Ippatsu se fue."
-"__system__??","}","",""
-" (talking)","よし。 では、ワシの鍛えた２名を、 お前にくれてやろう。
+Nogi Kikuko (talking),……はいっ。,…… Yes.,…… Sí.
+__system__??,},,
+__system__??,{★愛 = 6:,,
+Henri Pe (talking),……こういう……事だったんだ………,It was…… this kind of…… thing ………,…… Este es el tipo de…… del que hablaba: ………
+Yamamoto Akuji (talking),…………ああ…,………… Oh…,………… Oh…
+Henri Pe (talking),…………………,…………………,…………………
+Yamamoto Akuji (talking),何、複雑な顔してんだよ。,What's with the complicated face?,¿Por qué esa cara tan complicada?
+Henri Pe (talking),………さっちゃんが…… 泣いていたような気がして……,I felt like……… Sacchan was crying ……,Sentí que……… Sacchan estaba llorando ……
+Yamamoto Akuji (talking),………………,………………,………………
+Henri Pe (talking),……………………,……………………,……………………
+narrator,アンリはきゅっと悪司に縋りついた。,Henri clutched Akuji tightly.,Henri se agarró a Akuji con fuerza.
+__system__??,},,
+narrator,悪司が事務所にいると…,With Akuji in the office…,Cuando Akuji está en la oficina…
+Yamamoto Ippatsu (talking),邪魔するぞ。,I'll get out of your way.,Interrumpir.
+Yamamoto Akuji (talking),じーさん？,Ji-san?,¿Ji-san?
+Yamamoto Ippatsu (talking),情けない…この程度の兵隊しか おらんのか。,What a pity….they only have soldiers of this caliber.,Vergonzoso… sólo tiene soldados de este calibre.
+Yamamoto Akuji (talking),おい、じーさん。 それどーいう意味だよ？,"Hey, old man. What do you mean by that?","Oye, viejo. ¿Qué quieres decir con eso?"
+Yamamoto Ippatsu (talking),ワシからの情けを受けるとするか？,Shall we accept mercy from me?,¿Aceptaremos la misericordia del águila?
+__system__??,{RETURN = 2:,,
+Yamamoto Ippatsu (talking),そうか、自分でなんとかするか。 ではそうするといい。,"Oh well, I can handle it myself. Then you may do so.","Bien, tendré que arreglármelas por mi cuenta. Entonces puede hacerlo."
+narrator,そう言って、一発は立ち去った。,"With that, Ippatsu walked away.","Dicho esto, Ippatsu se fue."
+__system__??,},,
+ (talking),"よし。 では、ワシの鍛えた２名を、 お前にくれてやろう。
 送ってやるから、 楽しみに待っていろ。","All right. I'll give you two of my best.
 I'll send them to you, and you can look forward to them.","Muy bien. Entonces te daré dos de mis mejores hombres.
 Te las enviaré y podrás esperarlas."
-"narrator","そう言って一発は出て行った。
+narrator,"そう言って一発は出て行った。
  　　［きゃーーーーー！！！］","Saying that, Ippatsu left.
  　　[Kyaaaah!]","Diciendo eso, Ippatsu se fue.
  　　[¡Kyaaaah!]"
-"Yamamoto Akuji (talking)","なんだ？","What is it?","¿Qué es?"
-"narrator","が、その悲鳴はすぐに 陶酔した甘い声に変化した。","But the scream soon turned into a sweet, intoxicated voice.","Pero el grito pronto se convirtió en una voz eufórica y dulce."
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"narrator","一発の腕の中に、青年団女子がいた。 うっとりとした目で一発を見つめ、 しなだれかかっている。","In Ippatsu's arms was Seinendan Jyoshi. He was looking at Ippatsu with entranced eyes, and was huddled over him.","En los brazos de Ippatsu estaba Seinendan Jyoshi. Miraba a Ippatsu con ojos embelesados, y estaba acurrucado."
-"Yamamoto Ippatsu (talking)","悪司よ。 ワシの兵隊をやる代わりに、 この女、貰っていくぞ。
+Yamamoto Akuji (talking),なんだ？,What is it?,¿Qué es?
+narrator,が、その悲鳴はすぐに 陶酔した甘い声に変化した。,"But the scream soon turned into a sweet, intoxicated voice.",Pero el grito pronto se convirtió en una voz eufórica y dulce.
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,{RND \ 0:,,
+__system__??,},,
+narrator,一発の腕の中に、青年団女子がいた。 うっとりとした目で一発を見つめ、 しなだれかかっている。,"In Ippatsu's arms was Seinendan Jyoshi. He was looking at Ippatsu with entranced eyes, and was huddled over him.","En los brazos de Ippatsu estaba Seinendan Jyoshi. Miraba a Ippatsu con ojos embelesados, y estaba acurrucado."
+Yamamoto Ippatsu (talking),"悪司よ。 ワシの兵隊をやる代わりに、 この女、貰っていくぞ。
 ハイヨー！！ シルバー！！","Akuji. I'll take this girl in exchange for my soldiers.
 Hi-yo! Silver!","Akuji. En lugar de darte mis soldados, me llevo a esta mujer.
  ¡Hola! ¡Plata!"
-"narrator","一発は悪司の返事も聞かず、さっさと バイクに乗り、姿を消した。","Ippatsu quickly got on his motorcycle and disappeared without hearing Akuji's reply.","Ippatsu subió rápidamente a su moto y desapareció sin escuchar la respuesta de Akuji."
-"narrator","一発の腕の中に、","In the arms of Ippatsu.","En los brazos de Ippatsu."
-"narrator","がいた。
+narrator,一発は悪司の返事も聞かず、さっさと バイクに乗り、姿を消した。,Ippatsu quickly got on his motorcycle and disappeared without hearing Akuji's reply.,Ippatsu subió rápidamente a su moto y desapareció sin escuchar la respuesta de Akuji.
+narrator,一発の腕の中に、,In the arms of Ippatsu.,En los brazos de Ippatsu.
+narrator,"がいた。
 うっとりとした目で一発を見つめ、 しなだれかかっている。","There was a Ippatsu.
 He was looking at Ippatsu with entranced eyes and shrugging his shoulders.","El Ippatsu estaba allí.
 Miró a Ippatsu con ojos embelesados y se apartó."
-" (talking)","悪司よ。 ワシの兵隊をやる代わりに、 この女、貰っていくぞ。
+ (talking),"悪司よ。 ワシの兵隊をやる代わりに、 この女、貰っていくぞ。
 ハイヨー！！ シルバー！！","Akuji. I'll take this girl in exchange for my soldiers.
 Hi-yo! Silver!","Akuji. En lugar de darte mis soldados, me llevo a esta mujer.
  ¡Hola! ¡Plata!"
-"narrator","一発は悪司の返事も聞かず、さっさと バイクに乗り、姿を消した。","Ippatsu quickly got on his motorcycle and disappeared without hearing Akuji's reply.","Ippatsu subió rápidamente a su moto y desapareció sin escuchar la respuesta de Akuji."
-"narrator","一発の腕の中に、","In the arms of Ippatsu.","En los brazos de Ippatsu."
-"narrator","がいた。
+narrator,一発は悪司の返事も聞かず、さっさと バイクに乗り、姿を消した。,Ippatsu quickly got on his motorcycle and disappeared without hearing Akuji's reply.,Ippatsu subió rápidamente a su moto y desapareció sin escuchar la respuesta de Akuji.
+narrator,一発の腕の中に、,In the arms of Ippatsu.,En los brazos de Ippatsu.
+narrator,"がいた。
 うっとりとした目で一発を見つめ、 しなだれかかっている。","There was a Ippatsu.
 He was looking at Ippatsu with entranced eyes and shrugging his shoulders.","El Ippatsu estaba allí.
 Miró a Ippatsu con ojos embelesados y se apartó."
-" (talking)","悪司よ。 ワシの兵隊をやる代わりに、 この女、貰っていくぞ。
+ (talking),"悪司よ。 ワシの兵隊をやる代わりに、 この女、貰っていくぞ。
 ハイヨー！！ シルバー！！","Akuji. I'll take this girl in exchange for my soldiers.
 Hi-yo! Silver!","Akuji. En lugar de darte mis soldados, me llevo a esta mujer.
  ¡Hola! ¡Plata!"
-"narrator","一発は悪司の返事も聞かず、さっさと バイクに乗り、姿を消した。","Ippatsu quickly got on his motorcycle and disappeared without hearing Akuji's reply.","Ippatsu subió rápidamente a su moto y desapareció sin escuchar la respuesta de Akuji."
+narrator,一発は悪司の返事も聞かず、さっさと バイクに乗り、姿を消した。,Ippatsu quickly got on his motorcycle and disappeared without hearing Akuji's reply.,Ippatsu subió rápidamente a su moto y desapareció sin escuchar la respuesta de Akuji.

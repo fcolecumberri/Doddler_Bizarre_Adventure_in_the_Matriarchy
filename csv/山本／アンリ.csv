@@ -1,55 +1,55 @@
-"character","jap text","Eng","Esp"
-"__system__??","{麦 = 1:","",""
-"__system__??","{☆アンリ < 30:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 2:","",""
-"__system__??","{☆アンリ = 30:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{麦 = 3:","",""
-"__system__??","}","",""
-"__system__??","{麦 = 5:","",""
-"__system__??","}","",""
-"Henri Pe (talking)","………………","………………","………………"
-"Yamamoto Akuji (talking)","おう、きたか。","Oh, here you are.","Oh, aquí está."
-"Henri Pe (talking)","……呼ばれて…くるなんて… 変な感じ……","……It's so weird to be called… to come… ……","……Es tan raro que me llamen… para venir… ……"
-"Yamamoto Akuji (talking)","そーだな。","I guess so.","Sí."
-"Arbehess (talking)","やれやれ…… 私まであなたの部下にされるとは……
+character,jap text,Eng,Esp
+__system__??,{麦 = 1:,,
+__system__??,{☆アンリ < 30:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 2:,,
+__system__??,{☆アンリ = 30:,,
+__system__??,},,
+__system__??,},,
+__system__??,{麦 = 3:,,
+__system__??,},,
+__system__??,{麦 = 5:,,
+__system__??,},,
+Henri Pe (talking),………………,………………,………………
+Yamamoto Akuji (talking),おう、きたか。,"Oh, here you are.","Oh, aquí está."
+Henri Pe (talking),……呼ばれて…くるなんて… 変な感じ……,……It's so weird to be called… to come… ……,……Es tan raro que me llamen… para venir… ……
+Yamamoto Akuji (talking),そーだな。,I guess so.,Sí.
+Arbehess (talking),"やれやれ…… 私まであなたの部下にされるとは……
 正確には、","Good grief…… I didn't know they were going to make me your man too ……
 To be exact.","Por Dios,…… no sabía que me iban a hacer tu hombre también……
 Precisamente."
-"Arbehess (talking)","様の僕ですけど…","I'm the one who's the “Mere Old Man…”…","Soy el tipo del…"
-"Yamamoto Akuji (talking)","しっかしよお…エルベヘスが仲間に なったのはラッキーだと思うんだが、 腹の子がおっきくなったら、また…","Well… we're lucky to have Arbehess on board, but when the baby grows up, we'll have another…","Bueno… tenemos suerte de tener a Arbehess a bordo, pero cuando el bebé crezca, tendremos otro…"
-"Henri Pe (talking)","……その時は…… 悪司がもっと強くなっているから… 問題ないよ……","…… then…… Akuji will be stronger… no problem ……","…… entonces…… Akuji será más fuerte… No hay problema ……"
-"Yamamoto Akuji (talking)","おいおい…","Oh, come on…","Oye, oye…"
-"Henri Pe (talking)","………信じてる……","I believe in……… ……","……… creer……"
-"Yamamoto Akuji (talking)","………はいはい…… 困った嫁さんだ。","……… yes yes yes…… She's a troubled wife.","……… sí sí…… Es una esposa problemática."
-"narrator","悪司が漫画を読んでいる。","Akuji is reading manga.","Akuji está leyendo un cómic."
-"Henri Pe (talking)","……………呼んだ……？","I called…………… ……?","…………… llamado ……?"
-"Yamamoto Akuji (talking)","おう。
+Arbehess (talking),様の僕ですけど…,I'm the one who's the “Mere Old Man…”…,Soy el tipo del…
+Yamamoto Akuji (talking),しっかしよお…エルベヘスが仲間に なったのはラッキーだと思うんだが、 腹の子がおっきくなったら、また…,"Well… we're lucky to have Arbehess on board, but when the baby grows up, we'll have another…","Bueno… tenemos suerte de tener a Arbehess a bordo, pero cuando el bebé crezca, tendremos otro…"
+Henri Pe (talking),……その時は…… 悪司がもっと強くなっているから… 問題ないよ……,…… then…… Akuji will be stronger… no problem ……,…… entonces…… Akuji será más fuerte… No hay problema ……
+Yamamoto Akuji (talking),おいおい…,"Oh, come on…","Oye, oye…"
+Henri Pe (talking),………信じてる……,I believe in……… ……,……… creer……
+Yamamoto Akuji (talking),………はいはい…… 困った嫁さんだ。,……… yes yes yes…… She's a troubled wife.,……… sí sí…… Es una esposa problemática.
+narrator,悪司が漫画を読んでいる。,Akuji is reading manga.,Akuji está leyendo un cómic.
+Henri Pe (talking),……………呼んだ……？,I called…………… ……?,…………… llamado ……?
+Yamamoto Akuji (talking),"おう。
 アンリよぅ、周囲から浮いてるよーに 見えんだけど、大丈夫か？","Oh.
 Hey Henri, you look like you're standing out from the crowd.","Oh.
 Parece que estás flotando por encima de tu entorno, ¿estás bien?"
-"Henri Pe (talking)","えっ……","Eh ……","Eh ……"
-"Yamamoto Akuji (talking)","ベラベラ喋れとは言わねーけど、 もそっと、こう、繕って貰いてぇん だけど。","I'm not asking you to blabber, but I'd like you to fix things up a little bit.","No te pido que parlotees, pero me gustaría que arreglaras un poco las cosas."
-"Henri Pe (talking)","………それ……は……
+Henri Pe (talking),えっ……,Eh ……,Eh ……
+Yamamoto Akuji (talking),ベラベラ喋れとは言わねーけど、 もそっと、こう、繕って貰いてぇん だけど。,"I'm not asking you to blabber, but I'd like you to fix things up a little bit.","No te pido que parlotees, pero me gustaría que arreglaras un poco las cosas."
+Henri Pe (talking),"………それ……は……
  ……私……悪司がいれば、 それで……いいから…","……… it…… is ………… if I ……Akuji, so…… just…","……… es…… es ………… si yo ……Akuji, así que…… sólo…"
-"Yamamoto Akuji (talking)","………それじゃあ、 俺が困るつったら？","……… So what if I'm in trouble?","……… ¿Y qué pasa si tengo problemas?"
-"Henri Pe (talking)","……………………
- ………頑張る…","…………………………… stubbornly…","…………………………… tercamente…"
-"Yamamoto Akuji (talking)","アンリ、こっちこいや。","Henri, come here.","Henri, ven aquí."
-"Henri Pe (talking)","…………はい…","………… Yes…","………… Sí…"
-"Henri Pe (talking)","あの……何を？","That…… what?","Que…… ¿qué?"
-"Yamamoto Akuji (talking)","自分で脱いでくんねーか。 まず…パンツだけ。","Why don't you take off your own clothes? First of all… just your pants.","¿Por qué no te quitas la ropa? Primero… sólo tus pantalones."
-"Henri Pe (talking)","えっ………そ、それって……","What……… that, that's ……","¿Qué?……… Eso es ……"
-"Yamamoto Akuji (talking)","そーいう事。","That's what I mean.","Eso es."
-"Henri Pe (talking)","でも……まだ、日が出て……","But…… still, the sun is out and ……","Pero…… el sol todavía está fuera y ……"
-"Yamamoto Akuji (talking)","嫌か？","You don't like it?","¿No te gusta?"
-"Henri Pe (talking)","…………ううん……","…………un……","………… unun……"
-"Yamamoto Akuji (talking)","だったら、ほら。","Then, look.","Entonces, mira."
-"Henri Pe (talking)","う、うん……","Umm, yeah ……","Umm, sí: ……"
-"cg narrator","アンリはおすおずとスカートの中に 手を入れた。
+Yamamoto Akuji (talking),………それじゃあ、 俺が困るつったら？,……… So what if I'm in trouble?,……… ¿Y qué pasa si tengo problemas?
+Henri Pe (talking),"……………………
+ ………頑張る…",…………………………… stubbornly…,…………………………… tercamente…
+Yamamoto Akuji (talking),アンリ、こっちこいや。,"Henri, come here.","Henri, ven aquí."
+Henri Pe (talking),…………はい…,………… Yes…,………… Sí…
+Henri Pe (talking),あの……何を？,That…… what?,Que…… ¿qué?
+Yamamoto Akuji (talking),自分で脱いでくんねーか。 まず…パンツだけ。,Why don't you take off your own clothes? First of all… just your pants.,¿Por qué no te quitas la ropa? Primero… sólo tus pantalones.
+Henri Pe (talking),えっ………そ、それって……,"What……… that, that's ……",¿Qué?……… Eso es ……
+Yamamoto Akuji (talking),そーいう事。,That's what I mean.,Eso es.
+Henri Pe (talking),でも……まだ、日が出て……,"But…… still, the sun is out and ……",Pero…… el sol todavía está fuera y ……
+Yamamoto Akuji (talking),嫌か？,You don't like it?,¿No te gusta?
+Henri Pe (talking),…………ううん……,…………un……,………… unun……
+Yamamoto Akuji (talking),だったら、ほら。,"Then, look.","Entonces, mira."
+Henri Pe (talking),う、うん……,"Umm, yeah ……","Umm, sí: ……"
+cg narrator,"アンリはおすおずとスカートの中に 手を入れた。
  「………………」
  「どーした？ 　恥ずかしいか？」
  「……うっ……ん…」
@@ -74,7 +74,7 @@ I want to do it fast.
  ¿Hmm?”
  “……… tease ……”
  'Kkkkkkkkkkkkkk ……'"
-"cg narrator","「………こ……こう…？」
+cg narrator,"「………こ……こう…？」
  「おーいい感じ、いい感じ」
  「………こんな事させて……男の人って…… 　……楽しいの？」
  「おお、たのしーさ。 　それが好きな女だったら、なおさらだ」
@@ -287,81 +287,81 @@ Akuji movió sus caderas más erráticamente y devoró a Henri por dentro.
 Henri se olvidó de respirar y clavó sus uñas en Akuji.
  'Ahh……… nnnn…!
 El cuerpo de Henri temblaba con fuerza una y otra vez. Al mismo tiempo, Akuji también liberó sus sentimientos hacia Henri."
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"Henri Pe (talking)","あかちゃん……びっくりしてるかな…","Akachan…… I hope you are surprised…","Akachan:…… Espero que te sorprendas…"
-"Yamamoto Akuji (talking)","どーだろーなー…","I wonder…","Me pregunto…"
-"Henri Pe (talking)","……元気な子、生まれるよ…","…… healthy child, you will be born…","…… Niño sano, nacerás…"
-"Yamamoto Akuji (talking)","わかんのか？","Don't you get it?","¿No lo entiendes?"
-"Henri Pe (talking)","うん……","Yeah ……","Sí……"
-"Yamamoto Akuji (talking)","そうか。","Okay.","Sí."
-"Henri Pe (talking)","……………うん…","…………… Yeah…","…………… sí…"
-"Yamamoto Akuji (talking)","アンリ、抱いていいか？","Henri, can I hold you?","Henri, ¿puedo abrazarte?"
-"Henri Pe (talking)","そんな…断らなくていいよ… ………私…悪司の妻なんだから…","Oh no… you don't have to say no………… I… am Akuji's wife…","Oh, no… no tienes que decir que no………… Yo… soy la esposa de Akuji…"
-"Yamamoto Akuji (talking)","そーか。 可愛いぜ、アンリ。","Oh, yeah. You're cute, Henri.","Sí. Eres bonita, Henri."
-"Henri Pe (talking)","………あっ…","There was …………","……… fue…"
-"Henri Pe (talking)","二人は愛し合った。","They made love.","Hicieron el amor."
-"Henri Pe (talking)","これ……お金…… いらない……
- ………妻だから…… …………必要ないから……","This…… money…… I don't need it…………… because I'm a wife……………… because I don't need it ……","Este…… dinero…… no lo necesito…………… porque soy una esposa……………… porque no lo necesito ……"
-"Henri Pe (talking)","……悪司がどうしてもと言うなら… 私…悪司の妻だから… 働く……","If ……Akuji insists… I… Akuji's wife… Work……","Si ……Akuji insiste… yo… soy la mujer de Akuji… Trabaja……"
-"Yamamoto Akuji (talking)","ん~~……","Hmmm~~……","Hmmm~……"
-"Henri Pe (talking)","明るくはきはき喋らなくちゃ いけないみたいだけど…… 努力する……頑張る……","It seems I have to speak brightly and briskly…… I'll try…… I'll try ……","Parece que tengo que hablar alto y claro…… Lo intentaré…… Me esforzaré al máximo ……"
-"Yamamoto Akuji (talking)","……………
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+Henri Pe (talking),あかちゃん……びっくりしてるかな…,Akachan…… I hope you are surprised…,Akachan:…… Espero que te sorprendas…
+Yamamoto Akuji (talking),どーだろーなー…,I wonder…,Me pregunto…
+Henri Pe (talking),……元気な子、生まれるよ…,"…… healthy child, you will be born…","…… Niño sano, nacerás…"
+Yamamoto Akuji (talking),わかんのか？,Don't you get it?,¿No lo entiendes?
+Henri Pe (talking),うん……,Yeah ……,Sí……
+Yamamoto Akuji (talking),そうか。,Okay.,Sí.
+Henri Pe (talking),……………うん…,…………… Yeah…,…………… sí…
+Yamamoto Akuji (talking),アンリ、抱いていいか？,"Henri, can I hold you?","Henri, ¿puedo abrazarte?"
+Henri Pe (talking),そんな…断らなくていいよ… ………私…悪司の妻なんだから…,Oh no… you don't have to say no………… I… am Akuji's wife…,"Oh, no… no tienes que decir que no………… Yo… soy la esposa de Akuji…"
+Yamamoto Akuji (talking),そーか。 可愛いぜ、アンリ。,"Oh, yeah. You're cute, Henri.","Sí. Eres bonita, Henri."
+Henri Pe (talking),………あっ…,There was …………,……… fue…
+Henri Pe (talking),二人は愛し合った。,They made love.,Hicieron el amor.
+Henri Pe (talking),"これ……お金…… いらない……
+ ………妻だから…… …………必要ないから……",This…… money…… I don't need it…………… because I'm a wife……………… because I don't need it ……,Este…… dinero…… no lo necesito…………… porque soy una esposa……………… porque no lo necesito ……
+Henri Pe (talking),……悪司がどうしてもと言うなら… 私…悪司の妻だから… 働く……,If ……Akuji insists… I… Akuji's wife… Work……,Si ……Akuji insiste… yo… soy la mujer de Akuji… Trabaja……
+Yamamoto Akuji (talking),ん~~……,Hmmm~~……,Hmmm~……
+Henri Pe (talking),明るくはきはき喋らなくちゃ いけないみたいだけど…… 努力する……頑張る……,It seems I have to speak brightly and briskly…… I'll try…… I'll try ……,Parece que tengo que hablar alto y claro…… Lo intentaré…… Me esforzaré al máximo ……
+Yamamoto Akuji (talking),"……………
 俺の元にいろ。","……………
 Stay with me.","……………
 Quédate conmigo."
-"Henri Pe (talking)","……………はい……","…………… yes ……","…………… sí ……"
-"narrator","そのイタリア料理屋は、閑散としていて、 開店時間だというのに、人っ子一人いなかった。","The Italian restaurant was deserted and not a single person was in sight, even though it was opening time.","El restaurante italiano estaba desierto, y aunque era la hora de apertura, no había ni una sola persona a la vista."
-"Henri Pe (talking)","………………","………………","………………"
-"narrator","がらんとした店の中に一人の少女がいた。 客ではなく、店主だった。
+Henri Pe (talking),……………はい……,…………… yes ……,…………… sí ……
+narrator,そのイタリア料理屋は、閑散としていて、 開店時間だというのに、人っ子一人いなかった。,"The Italian restaurant was deserted and not a single person was in sight, even though it was opening time.","El restaurante italiano estaba desierto, y aunque era la hora de apertura, no había ni una sola persona a la vista."
+Henri Pe (talking),………………,………………,………………
+narrator,"がらんとした店の中に一人の少女がいた。 客ではなく、店主だった。
  　　［がらん　ごろん］
 店の扉のベルが鳴った。 客が入ってきたのだ。","There was a girl in a deserted store. She was not a customer, but the owner.
  　　［The doorbell of the shop rang.]
 The doorbell rang. A customer had entered.","Una chica estaba en una tienda desierta. No era una clienta, sino la dueña de la tienda.
  　　[Garan, retumbando].
 El timbre de la puerta de la tienda sonó. Un cliente había entrado."
-"uimiiheishi (talking)","イタリア料理が食べられるなんて、 うれし……","I'm so happy to be able to eat Italian food: ……","Estoy tan feliz de poder comer comida italiana……"
-"narrator","入ってきたウィミィ兵は、 内装を見てぎょっとしている。","A Wime soldier enters, and is flabbergasted by the interior.","El soldado de Wime que entra se siente turbado por el interior."
-"uimiiheishi (talking)","な、なんだ、この店はー！","What the hell is this place?","¿Qué diablos es esta tienda?"
-"Henri Pe (talking)","………いらっしゃいませ…… 何名様ですか？","……… Welcome to…… How many people are you?","……… Bienvenido…… ¿Cuántas personas son?"
-"uimiiheishi (talking)","あっ…いや…… 間違えた、すまん。","Oh…no……… I made a mistake, sorry.","Oh… no…… Me he equivocado, lo siento."
-"narrator","ウィミィ兵は慌てて店を出て行った。","The Wime soldier left the store in a hurry.","Los soldados de Wime salieron de la tienda a toda prisa."
-"Henri Pe (talking)","……………","……………","……………"
-" (talking)","また逃げていったな……","You ran away again: ……","Te has vuelto a escapar……"
-"narrator","暗い、人気のないところから、声が響く。","Voices echoed from the dark, unpopular place.","Las voces resuenan desde lugares oscuros e impopulares."
-"Henri Pe (talking)","………そうね……","……… I agree ……","……… Derecha: ……"
-"narrator","少女はその声に、普通に答えた。","The girl responded normally to the voice.","La chica respondió normalmente a la voz."
-" (talking)","今月は、食事をしてくれた客は、 二人だったかな？","I think we had two guests who dined with us this month.","Este mes, creo que tuvimos dos invitados que cenaron con nosotros…"
-"Henri Pe (talking)","………いいの… 悪司さえ、きてくれたら… お客なんか、いらない…","……… is fine… as long as Akuji comes… we don't need any customers…","……… está bien… mientras venga Akuji… no necesitamos clientes…"
-" (talking)","戻ってきているらしいぞ。","I hear they're coming back.","He oído que has vuelto."
-"Henri Pe (talking)","っ……","~……","~……"
-" (talking)","嬉しいのか？","Are you happy?","¿Eres feliz?"
-"narrator","少女は無言のまま、こくりと頷いた。","The girl nodded curtly and silently.","La chica asintió secamente y en silencio."
-"narrator","３年前。 悪司は戦地に赴く為、港にいた。","Three years ago. Akuji was in port to go to war.","Hace 3 años. Akuji estaba en el puerto para ir a la guerra."
-"Yamamoto Akuji (talking)","そいじゃ、行ってくるわ。","Okay, I'm off.","Bien, me voy entonces."
-"Henri Pe (talking)","…………うん……","…………Yeah……","…………Yeah……"
-"Yamamoto Akuji (talking)","もし、大杉があんたに余計な事を しでかしたら、手紙をくれ。 脱走しても、戻ってくるからよ。
+uimiiheishi (talking),イタリア料理が食べられるなんて、 うれし……,I'm so happy to be able to eat Italian food: ……,Estoy tan feliz de poder comer comida italiana……
+narrator,入ってきたウィミィ兵は、 内装を見てぎょっとしている。,"A Wime soldier enters, and is flabbergasted by the interior.",El soldado de Wime que entra se siente turbado por el interior.
+uimiiheishi (talking),な、なんだ、この店はー！,What the hell is this place?,¿Qué diablos es esta tienda?
+Henri Pe (talking),………いらっしゃいませ…… 何名様ですか？,……… Welcome to…… How many people are you?,……… Bienvenido…… ¿Cuántas personas son?
+uimiiheishi (talking),あっ…いや…… 間違えた、すまん。,"Oh…no……… I made a mistake, sorry.","Oh… no…… Me he equivocado, lo siento."
+narrator,ウィミィ兵は慌てて店を出て行った。,The Wime soldier left the store in a hurry.,Los soldados de Wime salieron de la tienda a toda prisa.
+Henri Pe (talking),……………,……………,……………
+ (talking),また逃げていったな……,You ran away again: ……,Te has vuelto a escapar……
+narrator,暗い、人気のないところから、声が響く。,"Voices echoed from the dark, unpopular place.",Las voces resuenan desde lugares oscuros e impopulares.
+Henri Pe (talking),………そうね……,……… I agree ……,……… Derecha: ……
+narrator,少女はその声に、普通に答えた。,The girl responded normally to the voice.,La chica respondió normalmente a la voz.
+ (talking),今月は、食事をしてくれた客は、 二人だったかな？,I think we had two guests who dined with us this month.,"Este mes, creo que tuvimos dos invitados que cenaron con nosotros…"
+Henri Pe (talking),………いいの… 悪司さえ、きてくれたら… お客なんか、いらない…,……… is fine… as long as Akuji comes… we don't need any customers…,……… está bien… mientras venga Akuji… no necesitamos clientes…
+ (talking),戻ってきているらしいぞ。,I hear they're coming back.,He oído que has vuelto.
+Henri Pe (talking),っ……,~……,~……
+ (talking),嬉しいのか？,Are you happy?,¿Eres feliz?
+narrator,少女は無言のまま、こくりと頷いた。,The girl nodded curtly and silently.,La chica asintió secamente y en silencio.
+narrator,３年前。 悪司は戦地に赴く為、港にいた。,Three years ago. Akuji was in port to go to war.,Hace 3 años. Akuji estaba en el puerto para ir a la guerra.
+Yamamoto Akuji (talking),そいじゃ、行ってくるわ。,"Okay, I'm off.","Bien, me voy entonces."
+Henri Pe (talking),…………うん……,…………Yeah……,…………Yeah……
+Yamamoto Akuji (talking),"もし、大杉があんたに余計な事を しでかしたら、手紙をくれ。 脱走しても、戻ってくるからよ。
 大杉は、いい奴なんだが、どーしてか、 あんたの事になると、目くじら 立ててよぉ……","If Oosugi tries anything extra on you, write to me. Even if he escapes, he'll come back.
 Oosugi is a nice guy, but for some reason, when it comes to you, he gets all uptight……","Si Oosugi intenta algo extra contigo, escríbeme. Incluso si se escapa, volverá.
 Oosugi es un buen tipo, pero por alguna razón, cuando se trata de ti, se pone tenso……"
-"Henri Pe (talking)","……………","……………","……………"
-"narrator","アンリは悪司の目をじっと見つめてから、 飛び上がるように背伸びをして、キスをした。","Henri stared into Akuji's eyes, then jumped up, stood tall, and kissed him.","Henri miró fijamente a los ojos de Akuji, luego se levantó de un salto, se puso de pie y lo besó."
-"Henri Pe (talking)","無事……戻ってきてね。","Come back safely to …….","Vuelve sano y salvo a ……."
-"Yamamoto Akuji (talking)","おう、当然だ。","Oh, of course.","Oh, por supuesto."
-"Henri Pe (talking)","帰ってきたら、結婚して。","When you come back, get married.","Cuando vuelvas, cásate."
-"Yamamoto Akuji (talking)","もちろん。
+Henri Pe (talking),……………,……………,……………
+narrator,アンリは悪司の目をじっと見つめてから、 飛び上がるように背伸びをして、キスをした。,"Henri stared into Akuji's eyes, then jumped up, stood tall, and kissed him.","Henri miró fijamente a los ojos de Akuji, luego se levantó de un salto, se puso de pie y lo besó."
+Henri Pe (talking),無事……戻ってきてね。,Come back safely to …….,Vuelve sano y salvo a …….
+Yamamoto Akuji (talking),おう、当然だ。,"Oh, of course.","Oh, por supuesto."
+Henri Pe (talking),帰ってきたら、結婚して。,"When you come back, get married.","Cuando vuelvas, cásate."
+Yamamoto Akuji (talking),"もちろん。
 もし、大杉が反対したら、 俺は組抜けして、 あんたと添い遂げるよ。","Of course.
 If Oosugi opposes, I'll leave the group and go with you.","Por supuesto.
 Si Oosugi no está de acuerdo, dejaré el grupo y me iré contigo."
-"Henri Pe (talking)","それは駄目……","That's no good: ……","Eso no es bueno……"
-"Yamamoto Akuji (talking)","なんで？","Why?","¿Por qué?"
-"Henri Pe (talking)","組織も、私も…… あなたのものになっている悪司が、 私は好きだから…","The organization and I are also…… yours, Akuji, but I like…","La organización, y también tengo…… la tuya, Akuji, pero me gusta porque…"
-"Yamamoto Akuji (talking)","そうか、わかった。 あんたがそう言うなら。","Well, okay. If you say so.","Vale, vale. Si tú lo dices."
-"Henri Pe (talking)","これ……","This: ……","Esto: ……"
-"narrator","アンリはエプロンのポケットから、 タバスコ程の大きさの瓶を出した。","Henri pulled a bottle about the size of Tabasco out of her apron pocket.","Henri sacó del bolsillo de su delantal una botella del tamaño de un tabasco."
-"Henri Pe (talking)","魔法のお薬… これを飲むと、幸運が訪れるから…","A magic potion… because if you drink it, it will bring you good luck…","Poción mágica… porque beberla trae buena suerte…"
-"Yamamoto Akuji (talking)","わかった、ありがとう。 しっかり飲んでおくよ。","Okay, thanks. I'll make sure I drink it.","Muy bien, gracias. Me aseguraré de beberlo."
-"Henri Pe (talking)","……………
+Henri Pe (talking),それは駄目……,That's no good: ……,Eso no es bueno……
+Yamamoto Akuji (talking),なんで？,Why?,¿Por qué?
+Henri Pe (talking),組織も、私も…… あなたのものになっている悪司が、 私は好きだから…,"The organization and I are also…… yours, Akuji, but I like…","La organización, y también tengo…… la tuya, Akuji, pero me gusta porque…"
+Yamamoto Akuji (talking),そうか、わかった。 あんたがそう言うなら。,"Well, okay. If you say so.","Vale, vale. Si tú lo dices."
+Henri Pe (talking),これ……,This: ……,Esto: ……
+narrator,アンリはエプロンのポケットから、 タバスコ程の大きさの瓶を出した。,Henri pulled a bottle about the size of Tabasco out of her apron pocket.,Henri sacó del bolsillo de su delantal una botella del tamaño de un tabasco.
+Henri Pe (talking),魔法のお薬… これを飲むと、幸運が訪れるから…,"A magic potion… because if you drink it, it will bring you good luck…",Poción mágica… porque beberla trae buena suerte…
+Yamamoto Akuji (talking),わかった、ありがとう。 しっかり飲んでおくよ。,"Okay, thanks. I'll make sure I drink it.","Muy bien, gracias. Me aseguraré de beberlo."
+Henri Pe (talking),"……………
 あの薬の効果は、完璧……なはず…
 悪司……
 早く会いたい……
@@ -374,8 +374,8 @@ Los efectos de esa droga deberían ser perfectamente ………
 Akuji……
 No puedo esperar a verte ……
 Akuji……"
-"narrator","悪司が物思いに耽っている。","Akuji is pensive.","Akuji está pensativo."
-"Yamamoto Akuji (thinking)","アンリ……か……
+narrator,悪司が物思いに耽っている。,Akuji is pensive.,Akuji está pensativo.
+Yamamoto Akuji (thinking),"アンリ……か……
 初めて会ったのは、俺がガキの頃、 じーさんに連れられて、ヨーロッパに 行った時だ。
 確かあれは… 世界裏組織の会合に 行ったんだったっけかな？
 で、イタリアマフィアの孫娘で、 俺と同じように会場に連れて こられてたのがアンリだ。
@@ -406,354 +406,354 @@ Pensé que era algo bonito, pero no tenía ningún sentimiento por ella más all
 Pero, bueno, no somos extraños, así que fuimos a comer, y después de haber comido todo ……
 Por alguna razón, sentía que nuestros destinos estaban conectados…
 Me encontré enamorada de él. Sin embargo, es un poco raro."
-"__system__??","{RND \ 0:","",""
-"Kanbara Yuuko (talking)","あーくん、股間にテントが出来てるよ~。","Ah-kun, there's a tent forming between your legs!","¡Ah-kun, se está formando una tienda entre tus piernas!"
-"Yamamoto Akuji (talking)","え゛っ！？","What?","¡Arrrrrr!"
-"Kanbara Yuuko (talking)","う・そ~♪","Uh-oh…","Uh-huh~♪"
-"Yamamoto Akuji (talking)","ひでえ嘘つくなぁ…","What a terrible lie…","Eres un terrible mentiroso…"
-"Kanbara Yuuko (talking)","うふふ。 でも私の勘、はずれてなかったみたいね。 その反応。","Hmmm. But I guess my hunch was right. That reaction.","Hmmm. Pero supongo que mi corazonada no estaba equivocada. La reacción."
-"Yamamoto Akuji (talking)","……………","……………","……………"
-"Kanbara Yuuko (talking)","アンリちゃんの事、考えてたんでしょ？","You were thinking about Henri, weren't you?","Estabas pensando en Henri, ¿verdad?"
-"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
-"Kanbara Yuuko (talking)","アンリちゃんの事、 反対してる人、多いもんね~…
+__system__??,{RND \ 0:,,
+Kanbara Yuuko (talking),あーくん、股間にテントが出来てるよ~。,"Ah-kun, there's a tent forming between your legs!","¡Ah-kun, se está formando una tienda entre tus piernas!"
+Yamamoto Akuji (talking),え゛っ！？,What?,¡Arrrrrr!
+Kanbara Yuuko (talking),う・そ~♪,Uh-oh…,Uh-huh~♪
+Yamamoto Akuji (talking),ひでえ嘘つくなぁ…,What a terrible lie…,Eres un terrible mentiroso…
+Kanbara Yuuko (talking),うふふ。 でも私の勘、はずれてなかったみたいね。 その反応。,Hmmm. But I guess my hunch was right. That reaction.,Hmmm. Pero supongo que mi corazonada no estaba equivocada. La reacción.
+Yamamoto Akuji (talking),……………,……………,……………
+Kanbara Yuuko (talking),アンリちゃんの事、考えてたんでしょ？,"You were thinking about Henri, weren't you?","Estabas pensando en Henri, ¿verdad?"
+Yamamoto Akuji (talking),ああ。,Oh.,Oh.
+Kanbara Yuuko (talking),"アンリちゃんの事、 反対してる人、多いもんね~…
 大杉さんなんか、野生の勘全開の 目の仇って感じだし。","Many people are against Henri…
 Oosugi is like an eye for an eye with a wild intuition.","Hay mucha gente que está en contra de Henri…
 Como Oosugi, que es como un ojo por ojo con los instintos salvajes a flor de piel."
-"Yamamoto Akuji (talking)","夕子さんはどうなんだ？","What about Yuuko?","¿Qué pasa con Yuuko?"
-"Kanbara Yuuko (talking)","ん~~~……
+Yamamoto Akuji (talking),夕子さんはどうなんだ？,What about Yuuko?,¿Qué pasa con Yuuko?
+Kanbara Yuuko (talking),"ん~~~……
 な~んとなく…… やばいかな~って…","Hmmm~~~……
 I don't know~~…… I thought it might be bad…","Hmm~~~……
 No sé~~…… Pensé que podría ser malo…"
-"Yamamoto Akuji (talking)","………………","………………","………………"
-"Kanbara Yuuko (talking)","どしたの？","What's wrong?","¿Qué pasa?"
-"Yamamoto Akuji (talking)","こんな時に、夕子さんのな~んとなくが 出たか~と……","At a time like this, I wondered if Yuuko's n~nally came up……","En un momento así, me pregunté si el Yuuko de Yuuko había sido ……"
-"Kanbara Yuuko (talking)","んん~~…だって~…
+Yamamoto Akuji (talking),………………,………………,………………
+Kanbara Yuuko (talking),どしたの？,What's wrong?,¿Qué pasa?
+Yamamoto Akuji (talking),こんな時に、夕子さんのな~んとなくが 出たか~と……,"At a time like this, I wondered if Yuuko's n~nally came up……","En un momento así, me pregunté si el Yuuko de Yuuko había sido ……"
+Kanbara Yuuko (talking),"んん~~…だって~…
 な~んとなく、あの子、 裏がありそうっていうか、 見たままじゃないっていうか~…
 でもさ~…あーくんが好きならいいと 思うけど~？","Mmm~…because~…
 I don't know… she seems like she's got a secret, or she's not what she seems…
 But~…if you like her, I think it's fine~?","Hmmm~… porque…
 No sé, es como si tuviera un secreto, o no es lo que parece~
 Pero~… si te gusta, creo que está bien~?"
-"Yamamoto Akuji (talking)","そうか。","Okay.","Sí."
-"Kanbara Yuuko (talking)","でも~…あの子、あーくんの好みなの？ ホントに……","But~…is that girl your favorite? Really ……","Pero~… ¿es esa chica tu favorita? Realmente ……"
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"Kanbara Yuuko (talking)","こ~いう事聞くの、 ヤボだと思うんだけど~…
+Yamamoto Akuji (talking),そうか。,Okay.,Sí.
+Kanbara Yuuko (talking),でも~…あの子、あーくんの好みなの？ ホントに……,But~…is that girl your favorite? Really ……,Pero~… ¿es esa chica tu favorita? Realmente ……
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+Kanbara Yuuko (talking),"こ~いう事聞くの、 ヤボだと思うんだけど~…
 あーくん、アンリちゃんを 好きになったきっかけは何？","I think this is a stupid question to ask, but…
 Ah-kun, what made you fall in love with Henri?","Creo que es una pregunta estúpida, pero…
 Ah-kun, ¿qué te hizo enamorarte de Henri?"
-"Yamamoto Akuji (talking)","何って……","What's that? ……","¿Qué es eso? ……"
-"Kanbara Yuuko (talking)","何？","What?","¿Qué?"
-"Yamamoto Akuji (talking)","………………
- ………何？","……………………… HO?","……………………… HO?"
-"Kanbara Yuuko (talking)","だから、あーくんの事だから~…","So, it's an a-kun thing~…","Así que, es una cosa de ah-kun…"
-"Yamamoto Akuji (talking)","……わかんねぇよ、 好きなものはしょうがないだろ。","…… I don't know, I can't help what I like.","…… No sé, no puedo evitar lo que me gusta."
-"Kanbara Yuuko (talking)","ま~、そ~だけど~… で…いつ会いに行くの？","Well~ yes~…but…so…when are you going to see him?","Bueno~ sí~ pero… entonces… ¿cuándo vas a verlo?"
-"Yamamoto Akuji (talking)","早く会いに行きたいんだけど、 何かと忙しくてな。","I can't wait to see you, but I've been busy with other things.","Me gustaría ir a verte pronto, pero las cosas han estado muy ocupadas."
-"Kanbara Yuuko (talking)","待ってると思うわよ~。","I think they're waiting for you!","¡Creo que te están esperando!"
-"Yamamoto Akuji (talking)","なんとか今月中には、 時間を作るよ。","I'll make time for it this month somehow.","Me las arreglaré para sacar tiempo para ello este mes."
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","………今は時間がねーけど、 出来たらソッコー、アンリに会いに 行こう。
+Yamamoto Akuji (talking),何って……,What's that? ……,¿Qué es eso? ……
+Kanbara Yuuko (talking),何？,What?,¿Qué?
+Yamamoto Akuji (talking),"………………
+ ………何？",……………………… HO?,……………………… HO?
+Kanbara Yuuko (talking),だから、あーくんの事だから~…,"So, it's an a-kun thing~…","Así que, es una cosa de ah-kun…"
+Yamamoto Akuji (talking),……わかんねぇよ、 好きなものはしょうがないだろ。,"…… I don't know, I can't help what I like.","…… No sé, no puedo evitar lo que me gusta."
+Kanbara Yuuko (talking),ま~、そ~だけど~… で…いつ会いに行くの？,Well~ yes~…but…so…when are you going to see him?,Bueno~ sí~ pero… entonces… ¿cuándo vas a verlo?
+Yamamoto Akuji (talking),早く会いに行きたいんだけど、 何かと忙しくてな。,"I can't wait to see you, but I've been busy with other things.","Me gustaría ir a verte pronto, pero las cosas han estado muy ocupadas."
+Kanbara Yuuko (talking),待ってると思うわよ~。,I think they're waiting for you!,¡Creo que te están esperando!
+Yamamoto Akuji (talking),なんとか今月中には、 時間を作るよ。,I'll make time for it this month somehow.,Me las arreglaré para sacar tiempo para ello este mes.
+__system__??,},,
+Yamamoto Akuji (talking),"………今は時間がねーけど、 出来たらソッコー、アンリに会いに 行こう。
 今月中には、 なんとか時間作れっかなー…","………I don't have time right now, but as soon as I do, I'll go see Henri.
 I hope I can make time this month…","……… Ahora no tengo tiempo, pero en cuanto lo tenga, iré a ver a Henri.
 Intentaré hacer algo de tiempo este mes…"
-"Henri Pe (talking)","あっ…","Oh…","Ah…"
-"Yamamoto Akuji (talking)","ただいま、アンリ。","I'm home, Henri.","Estoy en casa, Henri."
-"narrator","悪司はアンリに駆け寄ると、 抱きしめてキスをした。","Akuji ran up to Henri and hugged and kissed her.","Akuji corrió hacia Henri y la abrazó y besó."
-"Henri Pe (talking)","…………会いたかった…","I missed you at ……………","………… Te he echado de menos…"
-"Yamamoto Akuji (talking)","俺もだよ。","Me too.","Yo también."
-"Henri Pe (talking)","よかった……薬……ちゃんと 利いていたんだ……","Thank goodness…… drugs…… were working properly ……","Gracias a Dios…… medicamentos…… estaban funcionando correctamente……"
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"Henri Pe (talking)","……あの渡した魔法の薬…","…… that magic potion I gave you…","…… Esa poción mágica que te di…"
-"Yamamoto Akuji (talking)","あの幸運の薬だな。 ちゃんと定期的に飲んでいたぜ。
+Henri Pe (talking),あっ…,Oh…,Ah…
+Yamamoto Akuji (talking),ただいま、アンリ。,"I'm home, Henri.","Estoy en casa, Henri."
+narrator,悪司はアンリに駆け寄ると、 抱きしめてキスをした。,Akuji ran up to Henri and hugged and kissed her.,Akuji corrió hacia Henri y la abrazó y besó.
+Henri Pe (talking),…………会いたかった…,I missed you at ……………,………… Te he echado de menos…
+Yamamoto Akuji (talking),俺もだよ。,Me too.,Yo también.
+Henri Pe (talking),よかった……薬……ちゃんと 利いていたんだ……,Thank goodness…… drugs…… were working properly ……,Gracias a Dios…… medicamentos…… estaban funcionando correctamente……
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+Henri Pe (talking),……あの渡した魔法の薬…,…… that magic potion I gave you…,…… Esa poción mágica que te di…
+Yamamoto Akuji (talking),"あの幸運の薬だな。 ちゃんと定期的に飲んでいたぜ。
 あれを飲むとアンリの事を思い出して、 切ない夜を過ごしたモンさ。","That lucky pill. I used to take it regularly.
 It made me think of Henri, and I spent many a sad night.","Esa píldora de la suerte. Solía tomarla regularmente.
 Solía tener noches tristes cuando lo tomaba y pensaba en Henri."
-"Henri Pe (talking)","……………","……………","……………"
-"Yamamoto Akuji (talking)","しっかし、この店、あいかわらず 客がいねぇなぁ。","However, there are still no customers at this restaurant.","Pero esta tienda sigue sin tener clientes."
-"Henri Pe (talking)","……悪司さえ、きてくれたら それでいいの……
+Henri Pe (talking),……………,……………,……………
+Yamamoto Akuji (talking),しっかし、この店、あいかわらず 客がいねぇなぁ。,"However, there are still no customers at this restaurant.",Pero esta tienda sigue sin tener clientes.
+Henri Pe (talking),"……悪司さえ、きてくれたら それでいいの……
  ……おなか……すいた？","If only ……Akuji would come, that's all that matters……
 Are you hungry……?","Si sólo viniera ……Akuji, sería suficiente……
  ¿Tienes hambre……?"
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Henri Pe (talking)","じゃあ……作るから…… 待っていて……","Then I'll make ……, just wait for me ……","Entonces voy a hacer…… Voy a hacer…… Espérame ……"
-"Yamamoto Akuji (talking)","おう、頼むわ。","Oh, please.","Oh, por favor."
-"Henri Pe (talking)","はい、お待たせ…… ………きのこスパゲッティ……","Here you go:…… ……… mushroom spaghetti ……","Aquí tienes:…… ……… espaguetis con setas ……"
-"Yamamoto Akuji (talking)","………アンリ……","………Henri……","………Henri……"
-"Henri Pe (talking)","はい？","Yes?","¿Sí?"
-"Yamamoto Akuji (talking)","トカゲの尻尾が見えるけど…","I can see the lizard's tail, but…","Puedo ver la cola del lagarto, pero…"
-"Henri Pe (talking)","………食べて……くれないの？","Can't you just eat……… and give me ……?","¿Por qué no comes……… y me das ……?"
-"Yamamoto Akuji (talking)","……………いただきます……
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Henri Pe (talking),じゃあ……作るから…… 待っていて……,"Then I'll make ……, just wait for me ……",Entonces voy a hacer…… Voy a hacer…… Espérame ……
+Yamamoto Akuji (talking),おう、頼むわ。,"Oh, please.","Oh, por favor."
+Henri Pe (talking),はい、お待たせ…… ………きのこスパゲッティ……,Here you go:…… ……… mushroom spaghetti ……,Aquí tienes:…… ……… espaguetis con setas ……
+Yamamoto Akuji (talking),………アンリ……,………Henri……,………Henri……
+Henri Pe (talking),はい？,Yes?,¿Sí?
+Yamamoto Akuji (talking),トカゲの尻尾が見えるけど…,"I can see the lizard's tail, but…","Puedo ver la cola del lagarto, pero…"
+Henri Pe (talking),………食べて……くれないの？,Can't you just eat……… and give me ……?,¿Por qué no comes……… y me das ……?
+Yamamoto Akuji (talking),"……………いただきます……
  ……………
 ぐはっ、まずっ！","……………It will be taken ……
  ……………
 Gghh, not good!","…………… Lo tomaremos……
  ……………
  ¡Ggh, no es bueno!"
-"narrator","アンリは真っ赤になった。","Henri turned bright red.","Henri se puso muy rojo."
-"Henri Pe (talking)","高貴な食べ物の味のわからない人には、 あげません……","I don't give it to people who don't know what noble food tastes like……","No se lo doy a la gente que no sabe a qué sabe la comida noble……"
-"Yamamoto Akuji (talking)","まっ……待ってくれ… 食う…大丈夫……いける… まだ生きてる……","Wait……… I'll eat… I'll be fine……… I'm still alive ……","Espera……… espera… voy a comer… vale…… puedo… todavía estoy vivo ……"
-"Henri Pe (talking)","………聞いたの…","I heard about …………","……… He oído…"
-"Yamamoto Akuji (talking)","何を？","What?","¿Qué?"
-"Henri Pe (talking)","わかめ組……もう、悪司のものじゃ ないって…","Wakamegumi…… says it's not Akuji's anymore…","El grupo Wakame…… dice que ya no pertenece a Akuji…"
-"Yamamoto Akuji (talking)","…………あ~~……","………… ah~~……","………… ah~~……"
-"Henri Pe (talking)","……………","……………","……………"
-"Yamamoto Akuji (talking)","わかってるよ…取り返す。 この俺の手でな。","I know… we'll get it back. With my own hands.","Lo sé… lo recuperaremos. Con mis propias manos."
-"narrator","と言って、悪司は手を伸ばし、 アンリの手を掴んだ。
+narrator,アンリは真っ赤になった。,Henri turned bright red.,Henri se puso muy rojo.
+Henri Pe (talking),高貴な食べ物の味のわからない人には、 あげません……,I don't give it to people who don't know what noble food tastes like……,No se lo doy a la gente que no sabe a qué sabe la comida noble……
+Yamamoto Akuji (talking),まっ……待ってくれ… 食う…大丈夫……いける… まだ生きてる……,Wait……… I'll eat… I'll be fine……… I'm still alive ……,Espera……… espera… voy a comer… vale…… puedo… todavía estoy vivo ……
+Henri Pe (talking),………聞いたの…,I heard about …………,……… He oído…
+Yamamoto Akuji (talking),何を？,What?,¿Qué?
+Henri Pe (talking),わかめ組……もう、悪司のものじゃ ないって…,Wakamegumi…… says it's not Akuji's anymore…,El grupo Wakame…… dice que ya no pertenece a Akuji…
+Yamamoto Akuji (talking),…………あ~~……,………… ah~~……,………… ah~~……
+Henri Pe (talking),……………,……………,……………
+Yamamoto Akuji (talking),わかってるよ…取り返す。 この俺の手でな。,I know… we'll get it back. With my own hands.,Lo sé… lo recuperaremos. Con mis propias manos.
+narrator,"と言って、悪司は手を伸ばし、 アンリの手を掴んだ。
  　　［ぺち］","With that, Akuji reached out and grabbed Henri's hand.
  　　[petch].","Con eso, Akuji extendió la mano y agarró la de Henri.
  　　[petch]."
-"Yamamoto Akuji (talking)","てっ。 痛いなー、何すんだよ。","Tee-hee. That hurts… What are you doing?","Tek. Eso duele, ¿qué estás haciendo?"
-"Henri Pe (talking)","…………駄目…組織を奪い返すのが先…","…………Dame…we have to take back the organization…","………… Damme… recuperando la organización primero…"
-"Yamamoto Akuji (talking)","……ああ、たまんねぇ、アンリ、好きだ。 何故かわかんねぇが、とことん好きだ。","…… Oh my god, I love Henri, I love it. I don't know why, but I like it a lot.","…… Oh, tío, me encanta, Henri, me encanta. No sé por qué, pero me gustas mucho."
-"Henri Pe (talking)","…………………","…………………","…………………"
-"narrator","アンリは一人、客のいない店内で、 料理の準備をしていた。
+Yamamoto Akuji (talking),てっ。 痛いなー、何すんだよ。,Tee-hee. That hurts… What are you doing?,"Tek. Eso duele, ¿qué estás haciendo?"
+Henri Pe (talking),…………駄目…組織を奪い返すのが先…,…………Dame…we have to take back the organization…,………… Damme… recuperando la organización primero…
+Yamamoto Akuji (talking),……ああ、たまんねぇ、アンリ、好きだ。 何故かわかんねぇが、とことん好きだ。,"…… Oh my god, I love Henri, I love it. I don't know why, but I like it a lot.","…… Oh, tío, me encanta, Henri, me encanta. No sé por qué, pero me gustas mucho."
+Henri Pe (talking),…………………,…………………,…………………
+narrator,"アンリは一人、客のいない店内で、 料理の準備をしていた。
  　　［がらん　ごろん］
 扉が開いた。","Henri was alone in the restaurant with no customers, preparing food.
  　　［”Guran! Guran!]
 The door opened.","Henri estaba solo en el restaurante sin clientes, preparando la comida.
  　　[clang, clang, clang]
 La puerta se abrió."
-"Henri Pe (talking)","……いらっしゃい…","Welcome to ………","Bienvenido a ………"
-"Takega Satsu (talking)","お前がアンリか。","Are you Henri?","¿Eres Henri?"
-"Henri Pe (talking)","…………はい？","………… yes?","………… ¿Sí?"
-"Takega Satsu (talking)","私は、岳画殺。 悪司の叔母だ。","I am Takega Satsu. I'm the aunt of Akuji.","Soy Takega Satsu. Soy la tía de Akuji."
-"Henri Pe (talking)","おば……さん…","Aunt ………","Tía ………"
-"Takega Satsu (talking)","――なるほど。
+Henri Pe (talking),……いらっしゃい…,Welcome to ………,Bienvenido a ………
+Takega Satsu (talking),お前がアンリか。,Are you Henri?,¿Eres Henri?
+Henri Pe (talking),…………はい？,………… yes?,………… ¿Sí?
+Takega Satsu (talking),私は、岳画殺。 悪司の叔母だ。,I am Takega Satsu. I'm the aunt of Akuji.,Soy Takega Satsu. Soy la tía de Akuji.
+Henri Pe (talking),おば……さん…,Aunt ………,Tía ………
+Takega Satsu (talking),"――なるほど。
 貴様……悪しき力で、 悪司をたぶらかしているな。","--I see.
 You…… have been playing tricks on Akuji with your evil powers.","--Ya veo.
 Tú…… has estado jugando con Akuji con tus poderes malignos."
-"Henri Pe (talking)","えっ……","Eh ……","Eh ……"
-"Takega Satsu (talking)","隠しても、私にはわかる。","Even if you hide it, I can tell.","Aunque lo ocultes, me doy cuenta."
-"Henri Pe (talking)","あなた……","You ……","Usted: ……"
-"Takega Satsu (talking)","あれは、私の大切な甥なのだがな…","That's my dear nephew, though…","Ese es mi querido sobrino, aunque…"
-"Henri Pe (talking)","っ………","~………","~………"
-"Takega Satsu (talking)","召喚するのか？ お前が従わせている悪魔を。","You summon them? The demons you have made follow you.","¿Los convocas? Los demonios que has hecho te siguen."
-"Henri Pe (talking)","っ…そ…んな…事まで…","Oh… that's… that's… that's… that's…","Yo… eso… eso es… eso es… eso es… eso es…"
-"narrator","殺はニヤリと笑った。","Satsu grinned.","Satsu sonrió."
-"Takega Satsu (talking)","実力は認めてやろう。","I'll give you credit for your ability.","Le reconozco su competencia."
-"Henri Pe (talking)","えっ……","Eh ……","Eh ……"
-"Takega Satsu (talking)","山本の家の嫁に入るのだったら、 それぐらいの芸当が出来る方が 楽しいからな。","If you're going to marry into Yamamoto's family, it's more fun to be able to do tricks like that.","Si vas a casarte con la familia de Yamamoto, es más divertido poder hacer trucos así."
-"Henri Pe (talking)","驚か…ないの？","You're not surprised… are you?","¿Sorprendido… no?"
-"Takega Satsu (talking)","驚いて欲しかったのか？","You wanted me to be surprised?","¿Querías que se sorprendieran?"
-"Henri Pe (talking)","わっ…私…","Wow…I…","Wow… yo…"
-"Takega Satsu (talking)","しかし、その力を使って悪司を たぶらかしている事まで、 見過ごす訳にはいかん。
+Henri Pe (talking),えっ……,Eh ……,Eh ……
+Takega Satsu (talking),隠しても、私にはわかる。,"Even if you hide it, I can tell.","Aunque lo ocultes, me doy cuenta."
+Henri Pe (talking),あなた……,You ……,Usted: ……
+Takega Satsu (talking),あれは、私の大切な甥なのだがな…,"That's my dear nephew, though…","Ese es mi querido sobrino, aunque…"
+Henri Pe (talking),っ………,~………,~………
+Takega Satsu (talking),召喚するのか？ お前が従わせている悪魔を。,You summon them? The demons you have made follow you.,¿Los convocas? Los demonios que has hecho te siguen.
+Henri Pe (talking),っ…そ…んな…事まで…,Oh… that's… that's… that's… that's…,Yo… eso… eso es… eso es… eso es… eso es…
+narrator,殺はニヤリと笑った。,Satsu grinned.,Satsu sonrió.
+Takega Satsu (talking),実力は認めてやろう。,I'll give you credit for your ability.,Le reconozco su competencia.
+Henri Pe (talking),えっ……,Eh ……,Eh ……
+Takega Satsu (talking),山本の家の嫁に入るのだったら、 それぐらいの芸当が出来る方が 楽しいからな。,"If you're going to marry into Yamamoto's family, it's more fun to be able to do tricks like that.","Si vas a casarte con la familia de Yamamoto, es más divertido poder hacer trucos así."
+Henri Pe (talking),驚か…ないの？,You're not surprised… are you?,¿Sorprendido… no?
+Takega Satsu (talking),驚いて欲しかったのか？,You wanted me to be surprised?,¿Querías que se sorprendieran?
+Henri Pe (talking),わっ…私…,Wow…I…,Wow… yo…
+Takega Satsu (talking),"しかし、その力を使って悪司を たぶらかしている事まで、 見過ごす訳にはいかん。
 恋愛はそのような方法で するものではないだろう？","But we can't overlook the fact that he is using his power to flirt with Akuji.
 Love is not meant to be done that way, is it?","Pero no podemos pasar por alto el hecho de que está usando su poder para seducir a Akuji.
 El amor no se hace así, ¿verdad?"
-"Henri Pe (talking)","………………","………………","………………"
-"Takega Satsu (talking)","少し、猶予をやろう。","Let's give them a little grace.","Démosles un poco de gracia."
-"Henri Pe (talking)","猶予…？","Unauthorized…?","¿Judas?"
-"Takega Satsu (talking)","そうだ。 怪しい呪術などに頼らず、 自分の手で、悪司の心を掴め。
+Henri Pe (talking),………………,………………,………………
+Takega Satsu (talking),少し、猶予をやろう。,Let's give them a little grace.,Démosles un poco de gracia.
+Henri Pe (talking),猶予…？,Unauthorized…?,¿Judas?
+Takega Satsu (talking),"そうだ。 怪しい呪術などに頼らず、 自分の手で、悪司の心を掴め。
 そうすれば、お前の事を認めてやろう。","That's right. Don't rely on any weird magic spells, but win Akuji's heart with your own hands.
 If you do so, I will recognize you.","Así es. No confíes en ninguna brujería dudosa, sino gana el corazón de Akuji con tus propias manos.
 Si lo haces, te reconoceré."
-"Henri Pe (talking)","……………","……………","……………"
-"Takega Satsu (talking)","いいな、忠告はした。 これが破られた時は……
+Henri Pe (talking),……………,……………,……………
+Takega Satsu (talking),"いいな、忠告はした。 これが破られた時は……
 私が動く。","Fine, I gave you my advice. When this is broken ……
 I will move.","Bien, te he dado mi consejo. Cuando esto se rompe, ……
 Me muevo."
-"narrator","殺は自分が言いたい事を言うと、 店から出て行った。","Satsu said what he wanted to say and walked out of the store.","Satsu dijo lo que quería decir y salió de la tienda."
-"Henri Pe (talking)","…………","…………","…………"
-" (talking)","随分とおもしろい娘だな。","She's a very interesting girl.","Es una chica muy interesante."
-"Henri Pe (talking)","エルベヘス…","Arbehess…","Arbehess…"
-"Arbehess (talking)","完敗だったな、アンリ。","That was a complete defeat, Henri.","Eso fue una completa derrota, Henri."
-"Henri Pe (talking)","わ、私は……","Wow, I'm ……","Wow, soy ……"
-"Arbehess (talking)","あの娘は、その気になれば、 世界を手中におさめる器を持っている。","She has the capacity to take over the world if she wanted to.","Tiene la capacidad de dominar el mundo si quisiera."
-"Henri Pe (talking)","だから……なんだっていうの？
+narrator,殺は自分が言いたい事を言うと、 店から出て行った。,Satsu said what he wanted to say and walked out of the store.,Satsu dijo lo que quería decir y salió de la tienda.
+Henri Pe (talking),…………,…………,…………
+ (talking),随分とおもしろい娘だな。,She's a very interesting girl.,Es una chica muy interesante.
+Henri Pe (talking),エルベヘス…,Arbehess…,Arbehess…
+Arbehess (talking),完敗だったな、アンリ。,"That was a complete defeat, Henri.","Eso fue una completa derrota, Henri."
+Henri Pe (talking),わ、私は……,"Wow, I'm ……","Wow, soy ……"
+Arbehess (talking),あの娘は、その気になれば、 世界を手中におさめる器を持っている。,She has the capacity to take over the world if she wanted to.,Tiene la capacidad de dominar el mundo si quisiera.
+Henri Pe (talking),"だから……なんだっていうの？
 あなたは、私の僕でしょう…？ 黙って、私の言う事をきいて くれていればいいの……","So…… what the hell?
 You are my servant…? All you have to do is shut up and do what I say……","Así que…… ¿qué carajo?
  ¿Eres mi sirviente…? Lo único que tienes que hacer es callarte y hacer lo que yo diga……"
-"Arbehess (talking)","わかっている。 私はお前に囚われた僕だ。 お前の望むまま、私は動く。
+Arbehess (talking),"わかっている。 私はお前に囚われた僕だ。 お前の望むまま、私は動く。
 それが、さっきの娘の忠告に お前が背く事になってもな。","I know. I am your prisoner. I will do as you wish.
 Even if it means disobeying your daughter's advice earlier.","Lo sé. Soy tu siervo cautivo. Me muevo como tú quieres.
 Incluso si eso significa desobedecer el consejo de su hija antes."
-"Henri Pe (talking)","………………","………………","………………"
-"__system__??","{RND \ 0:","",""
-"Yamamoto Akuji (talking)","よーし、今日もいい男だ。","Alright, I'm a good man today.","Muy bien, hoy soy un buen hombre."
-"narrator","と、悪司は鏡の前で気合を入れた。","And Akuji got fired up in front of the mirror.","Y Akuji se encendió frente al espejo."
-"Aoba Youko (talking)","悪司さん、回覧板が……
+Henri Pe (talking),………………,………………,………………
+__system__??,{RND \ 0:,,
+Yamamoto Akuji (talking),よーし、今日もいい男だ。,"Alright, I'm a good man today.","Muy bien, hoy soy un buen hombre."
+narrator,と、悪司は鏡の前で気合を入れた。,And Akuji got fired up in front of the mirror.,Y Akuji se encendió frente al espejo.
+Aoba Youko (talking),"悪司さん、回覧板が……
 あら…どこかにおでかけですか？","Akuji, the circular is at ……
 Oh…are you out somewhere?","Akuji, la circular está en ……
 Oh… ¿vas a algún sitio?"
-"Yamamoto Akuji (talking)","おう、女んとこ行ってくる。","Oh, I'm off to the girl's place.","Oh, me voy a lo de la mujer."
-"Aoba Youko (talking)","おん……な？","Is it an on ……?","¿En ……?"
-"Yamamoto Akuji (talking)","そーだよ。","That's right.","Sí."
-"Aoba Youko (talking)","……つきあっている人……いたんですか…","Did you have…… someone you were dating ………","¿Tenías a alguien con quien salías? ………"
-"Yamamoto Akuji (talking)","変か？","Weird?","¿Raro?"
-"Aoba Youko (talking)","い、いえ……ちょっと、 びっくりしました…","No, no, ……, I'm a little surprised…","No, no, no, ……, estoy un poco sorprendido…"
-"Aoba Youko (thinking)","だって……つきあっている人が いるっていうのに、別の女の子達に、 あんな事やこんな事をするだなんて……","Because…… you're in a relationship and you're doing this and that to another girl?","Porque…… estás en una relación y le haces esto y lo otro a otra chica?"
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","おう。 あいかーらず、閑古鳥が鳴いてるな。","Oh. It's still deserted.","Oh. Todavía está desierta."
-"Henri Pe (talking)","悪司…きてくれた……","Akuji…he came ……","Akuji… vino……"
-"Yamamoto Akuji (talking)","好きな女のとこにくるのは、 当たり前だろ？","It's only natural that you come to the girl you like, isn't it?","Es natural que vengas con la chica que te gusta, ¿no?"
-"Henri Pe (talking)","……好き…？","Like ………?","…… ¿Como…?"
-"Yamamoto Akuji (talking)","ああ、大好きだ。","Oh, I love it.","Me encanta."
-"narrator","と言って、悪司はアンリの細い腰に手を回すと、 くちづけた。","Akuji put his hands around Henri's slim waist and kissed her.","Entonces Akuji puso sus manos alrededor de la esbelta cintura de Henri y la besó."
-"Henri Pe (talking)","ん……","N……","N……"
-"narrator","そのまま、悪司の手が、アンリの胸に伸びる。","As it is, Akuji's hand reaches out to Henri's chest.","Tal cual, la mano de Akuji alcanza el pecho de Henri."
-"Henri Pe (talking)","っ……！！","~……!!","¡¡~……!!"
-"narrator","アンリはびくっと身を竦め、 悪司から躰を離した。","Henri cowered and pulled his body away from Akuji.","Henri se acobardó y apartó su cuerpo de Akuji."
-"Yamamoto Akuji (talking)","アンリ…？","Henri…?","Henri…"
-"Henri Pe (talking)","あっ……
+Yamamoto Akuji (talking),おう、女んとこ行ってくる。,"Oh, I'm off to the girl's place.","Oh, me voy a lo de la mujer."
+Aoba Youko (talking),おん……な？,Is it an on ……?,¿En ……?
+Yamamoto Akuji (talking),そーだよ。,That's right.,Sí.
+Aoba Youko (talking),……つきあっている人……いたんですか…,Did you have…… someone you were dating ………,¿Tenías a alguien con quien salías? ………
+Yamamoto Akuji (talking),変か？,Weird?,¿Raro?
+Aoba Youko (talking),い、いえ……ちょっと、 びっくりしました…,"No, no, ……, I'm a little surprised…","No, no, no, ……, estoy un poco sorprendido…"
+Aoba Youko (thinking),だって……つきあっている人が いるっていうのに、別の女の子達に、 あんな事やこんな事をするだなんて……,Because…… you're in a relationship and you're doing this and that to another girl?,Porque…… estás en una relación y le haces esto y lo otro a otra chica?
+__system__??,},,
+Yamamoto Akuji (talking),おう。 あいかーらず、閑古鳥が鳴いてるな。,Oh. It's still deserted.,Oh. Todavía está desierta.
+Henri Pe (talking),悪司…きてくれた……,Akuji…he came ……,Akuji… vino……
+Yamamoto Akuji (talking),好きな女のとこにくるのは、 当たり前だろ？,"It's only natural that you come to the girl you like, isn't it?","Es natural que vengas con la chica que te gusta, ¿no?"
+Henri Pe (talking),……好き…？,Like ………?,…… ¿Como…?
+Yamamoto Akuji (talking),ああ、大好きだ。,"Oh, I love it.",Me encanta.
+narrator,と言って、悪司はアンリの細い腰に手を回すと、 くちづけた。,Akuji put his hands around Henri's slim waist and kissed her.,Entonces Akuji puso sus manos alrededor de la esbelta cintura de Henri y la besó.
+Henri Pe (talking),ん……,N……,N……
+narrator,そのまま、悪司の手が、アンリの胸に伸びる。,"As it is, Akuji's hand reaches out to Henri's chest.","Tal cual, la mano de Akuji alcanza el pecho de Henri."
+Henri Pe (talking),っ……！！,~……!!,¡¡~……!!
+narrator,アンリはびくっと身を竦め、 悪司から躰を離した。,Henri cowered and pulled his body away from Akuji.,Henri se acobardó y apartó su cuerpo de Akuji.
+Yamamoto Akuji (talking),アンリ…？,Henri…?,Henri…
+Henri Pe (talking),"あっ……
 あのっ……この…薬……","Oh ……
 Um,…… this… medicine……","Oh ……
 Um,…… esto… medicina……"
-"Yamamoto Akuji (talking)","ああ…… これ、出兵前にもくれた奴か。","Oh…… This is the guy who gave me this before I left for war.","Oh,…… Este es el tipo que me dio esto antes de irme a la guerra."
-"Henri Pe (talking)","……飲んで… もっと、悪司に幸せになって 貰いたいから…","…… drink… more, because I want Akuji to be happy…","Bebe……… más, porque quiero que Akuji sea feliz…"
-"Yamamoto Akuji (talking)","そーか、あんがとさん。","Well, thank you.","Bien, gracias."
-"narrator","悪司は疑いもせず、瓶の中身を飲み干した。","Akuji gulped down the contents of the bottle without question.","Akuji engulló el contenido de la botella sin rechistar."
-"Henri Pe (talking)","ご飯……作るから… 食べて…少し、おしゃべり…したい…","I'll make you dinner……… and we can eat… and chat… a little…","Te haré la cena……… y podremos comer… y charlar… un poco…"
-"Yamamoto Akuji (talking)","ああ、わかった。","Yeah, I got it.","Sí, de acuerdo."
-"narrator","しばらくしてから悪司が立ち去った店の中で、 アンリは一人、ぽつんと椅子に座っていた。","In the store where Akuji left after a while, Henri was sitting alone in a chair.","En la tienda donde Akuji se fue después de un rato, Henri se sentó solo en una silla."
-" (talking)","抱かれなかったのか。","You were not embraced.","No te han retenido."
-"Henri Pe (talking)","…………","…………","…………"
-"Arbehess (talking)","私が言った事を、 忘れていなかったのだな。","You didn't forget what I said.","No has olvidado lo que dije."
-"Henri Pe (talking)","……処女でないと…… あなたを支配出来ない……","If you're not a…… virgin, I can't control you ……","Si no eres virgen ……, no puedo controlarte ……"
-"Arbehess (talking)","そうだ。
+Yamamoto Akuji (talking),ああ…… これ、出兵前にもくれた奴か。,Oh…… This is the guy who gave me this before I left for war.,"Oh,…… Este es el tipo que me dio esto antes de irme a la guerra."
+Henri Pe (talking),……飲んで… もっと、悪司に幸せになって 貰いたいから…,"…… drink… more, because I want Akuji to be happy…","Bebe……… más, porque quiero que Akuji sea feliz…"
+Yamamoto Akuji (talking),そーか、あんがとさん。,"Well, thank you.","Bien, gracias."
+narrator,悪司は疑いもせず、瓶の中身を飲み干した。,Akuji gulped down the contents of the bottle without question.,Akuji engulló el contenido de la botella sin rechistar.
+Henri Pe (talking),ご飯……作るから… 食べて…少し、おしゃべり…したい…,I'll make you dinner……… and we can eat… and chat… a little…,Te haré la cena……… y podremos comer… y charlar… un poco…
+Yamamoto Akuji (talking),ああ、わかった。,"Yeah, I got it.","Sí, de acuerdo."
+narrator,しばらくしてから悪司が立ち去った店の中で、 アンリは一人、ぽつんと椅子に座っていた。,"In the store where Akuji left after a while, Henri was sitting alone in a chair.","En la tienda donde Akuji se fue después de un rato, Henri se sentó solo en una silla."
+ (talking),抱かれなかったのか。,You were not embraced.,No te han retenido.
+Henri Pe (talking),…………,…………,…………
+Arbehess (talking),私が言った事を、 忘れていなかったのだな。,You didn't forget what I said.,No has olvidado lo que dije.
+Henri Pe (talking),……処女でないと…… あなたを支配出来ない……,"If you're not a…… virgin, I can't control you ……","Si no eres virgen ……, no puedo controlarte ……"
+Arbehess (talking),"そうだ。
 普通、お前の持っているその力は、 子供の時をピークに下がってくるものだ。
 しかし、お前はそういう体質なのか、 力を保っていられるのは、躰が純潔で ある事が条件のようだからな。","That's right.
 Normally, the power you possess peaks when you are a child, and then declines.
 However, it seems that you have such a constitution that you can keep your power only on condition that your body is Jun clean.","Sí.
 Normalmente, el poder que se tiene alcanza su punto máximo cuando se es niño y luego disminuye.
 Pero tienes este tipo de constitución, porque parece que puedes mantener tu poder sólo si tu cuerpo está Jun limpio."
-"Henri Pe (talking)","……………","……………","……………"
-"Arbehess (talking)","その力がある限り、私はお前の僕だ。","As long as I have that power, I am your servant.","Mientras tenga ese poder, soy tu siervo."
-"Henri Pe (talking)","……わかってる……","…… I know ……","…… Lo sé……"
-"Arbehess (talking)","私としては、どちらでもよいが。 僕であろうが、解放され、そして――","As for me, I don't care either way. Whether it's me, I'll be released and--","En cuanto a mí, me da igual. Si soy yo, estoy liberado y…"
-"Henri Pe (talking)","…それ以上……言わないで……","…don't…… say more ……","…no digas más…… ……"
-"Arbehess (talking)","――……了解。","--……Ryou solution.","--……Ryou solución."
-"__system__??","{RND \ 0:","",""
-"narrator","悪司が身仕度を済ませ、 事務所を出ようとすると……","When Akuji finished getting ready and was about to leave the office, ……","Cuando Akuji terminó de arreglarse y se disponía a salir de la oficina, ……"
-"Kinugasa Tomoko (talking)","…………","…………","…………"
-"Yamamoto Akuji (talking)","どいてくんねーか？","Will you move out of the way?","¿Te apartarás del camino?"
-"Kinugasa Tomoko (talking)","……ムッソリーニ……","……Mussolini……","…… Mussolini……"
-"Yamamoto Akuji (talking)","んぁ？","Hmm?","¿Hmm?"
-"Kinugasa Tomoko (talking)","あのお店に……行くのでしょう？","You will be going to that store ……, right?","Vas a ir a esa tienda ……, ¿verdad?"
-"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
-"Kinugasa Tomoko (talking)","だめ…… 行っては駄目です、あそこは…… 駄目です。","No…… you can't go there, that place is…… no good.","No…… no puedes ir allí, eso es…… no es una buena idea."
-"Yamamoto Akuji (talking)","なんで。","Why?","Por qué."
-"Kinugasa Tomoko (talking)","あそこには、悪魔が…… わ、私、私、見て……","There's a demon over there…… wow, me, me, look ……","Hay un demonio allí…… Wow, yo, yo, mira ……"
-"Yamamoto Akuji (talking)","……………
+Henri Pe (talking),……………,……………,……………
+Arbehess (talking),その力がある限り、私はお前の僕だ。,"As long as I have that power, I am your servant.","Mientras tenga ese poder, soy tu siervo."
+Henri Pe (talking),……わかってる……,…… I know ……,…… Lo sé……
+Arbehess (talking),私としては、どちらでもよいが。 僕であろうが、解放され、そして――,"As for me, I don't care either way. Whether it's me, I'll be released and--","En cuanto a mí, me da igual. Si soy yo, estoy liberado y…"
+Henri Pe (talking),…それ以上……言わないで……,…don't…… say more ……,…no digas más…… ……
+Arbehess (talking),――……了解。,--……Ryou solution.,--……Ryou solución.
+__system__??,{RND \ 0:,,
+narrator,悪司が身仕度を済ませ、 事務所を出ようとすると……,"When Akuji finished getting ready and was about to leave the office, ……","Cuando Akuji terminó de arreglarse y se disponía a salir de la oficina, ……"
+Kinugasa Tomoko (talking),…………,…………,…………
+Yamamoto Akuji (talking),どいてくんねーか？,Will you move out of the way?,¿Te apartarás del camino?
+Kinugasa Tomoko (talking),……ムッソリーニ……,……Mussolini……,…… Mussolini……
+Yamamoto Akuji (talking),んぁ？,Hmm?,¿Hmm?
+Kinugasa Tomoko (talking),あのお店に……行くのでしょう？,"You will be going to that store ……, right?","Vas a ir a esa tienda ……, ¿verdad?"
+Yamamoto Akuji (talking),ああ。,Oh.,Oh.
+Kinugasa Tomoko (talking),だめ…… 行っては駄目です、あそこは…… 駄目です。,"No…… you can't go there, that place is…… no good.","No…… no puedes ir allí, eso es…… no es una buena idea."
+Yamamoto Akuji (talking),なんで。,Why?,Por qué.
+Kinugasa Tomoko (talking),あそこには、悪魔が…… わ、私、私、見て……,"There's a demon over there…… wow, me, me, look ……","Hay un demonio allí…… Wow, yo, yo, mira ……"
+Yamamoto Akuji (talking),"……………
 ちょわっ。","……………
 Chooch.","Disponible en: ……………
 Choo."
-"narrator","　　［びしっっっ］
+narrator,"　　［びしっっっ］
 悪司は智子の額に遠慮なしの デコピンを食らわせた。","[sharply]
 Akuji gave Tomoko an unreserved decapitation on the forehead.","[¡Bish!]
 Akuji le dio a Tomoko una decapitación sin reservas en la frente."
-"Kinugasa Tomoko (talking)","きゃうっ！ い、痛い……あ……
+Kinugasa Tomoko (talking),"きゃうっ！ い、痛い……あ……
 あっ…悪司さんっ…！！","Kyah! Ow, that hurts……A……
 Oh…Akuji-san…!","¡Kyaaaah! Ow, eso duele……A……
 Ah… Akuji-san…!"
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","おーう、アンリ。 今日は薔薇を持ってきたぜ。","Oh, Henri. I brought you a rose today, man.","Oh, Henri. Hoy te he traído una rosa, tío."
-"Henri Pe (talking)","…………ありがとう……
- ……座ってて… 料理…持ってくる……","…………Thank you………… Sit back… cook… and I'll bring it ……","………… Gracias………… Siéntese… cocine… y se lo traeré……"
-"narrator","しばらくして、アンリの料理が机の上に並んだ。","A short time later, Henri's food was on the table.","Poco después, la comida de Henri estaba en la mesa."
-"Yamamoto Akuji (talking)","…………","…………","…………"
-"Henri Pe (talking)","……美味しい…？","…… delicious…?","…… ¿Delicioso…?"
-"Yamamoto Akuji (talking)","アンリには悪いんだけどよぉ、俺、 カップスパゲッティの方が好きかも…","Sorry to Henri, but I think I prefer spaghetti in a cup…","Odio tener que decírselo a Henri, pero creo que prefiero los espaguetis en taza…"
-"Henri Pe (talking)","高貴な味がわからないのね… 頑張って、私がその舌を治してあげる…","You have no taste for the noble… Good luck, I'll fix that tongue of yours…","No tienes gusto por los sabores nobles… Buena suerte, yo arreglaré esa lengua tuya…"
-"Yamamoto Akuji (talking)","で……また、客がいないのか。 友達の一人でも呼んだらどーだい？
+__system__??,},,
+Yamamoto Akuji (talking),おーう、アンリ。 今日は薔薇を持ってきたぜ。,"Oh, Henri. I brought you a rose today, man.","Oh, Henri. Hoy te he traído una rosa, tío."
+Henri Pe (talking),"…………ありがとう……
+ ……座ってて… 料理…持ってくる……",…………Thank you………… Sit back… cook… and I'll bring it ……,………… Gracias………… Siéntese… cocine… y se lo traeré……
+narrator,しばらくして、アンリの料理が机の上に並んだ。,"A short time later, Henri's food was on the table.","Poco después, la comida de Henri estaba en la mesa."
+Yamamoto Akuji (talking),…………,…………,…………
+Henri Pe (talking),……美味しい…？,…… delicious…?,…… ¿Delicioso…?
+Yamamoto Akuji (talking),アンリには悪いんだけどよぉ、俺、 カップスパゲッティの方が好きかも…,"Sorry to Henri, but I think I prefer spaghetti in a cup…","Odio tener que decírselo a Henri, pero creo que prefiero los espaguetis en taza…"
+Henri Pe (talking),高貴な味がわからないのね… 頑張って、私がその舌を治してあげる…,"You have no taste for the noble… Good luck, I'll fix that tongue of yours…","No tienes gusto por los sabores nobles… Buena suerte, yo arreglaré esa lengua tuya…"
+Yamamoto Akuji (talking),"で……また、客がいないのか。 友達の一人でも呼んだらどーだい？
 っ……ていうか…… お前さんが、俺以外と話してるの、 見た事ねーな。","So…… don't you have any guests again? Why don't you invite one of your friends?
 I've never seen you talking to anyone but me.","Así que…… ¿no tienes ningún cliente de nuevo? ¿Por qué no invitas a uno de tus amigos?
 Me refiero a…… No te he visto hablar con nadie más que conmigo."
-"Henri Pe (talking)","………悪司だけがいればいいの…","All you need is ………Akuji…","Todo lo que necesitas es ………Akuji…"
-"narrator","と言って、アンリは悪司を抱きしめた。","Then Henri hugged Akuji.","Y Henri abrazó a Akuji."
-"Yamamoto Akuji (talking)","そーかい。 まあ俺も、客がいない方がゆっくり 出来ていいけどな。","I see. Well, I'd rather relax if there are no customers.","Ya veo. Bueno, yo también preferiría que no hubiera clientes."
-"narrator","悪司が立ち去った店の中で、 アンリはエルベヘスと二人でいた。
+Henri Pe (talking),………悪司だけがいればいいの…,All you need is ………Akuji…,Todo lo que necesitas es ………Akuji…
+narrator,と言って、アンリは悪司を抱きしめた。,Then Henri hugged Akuji.,Y Henri abrazó a Akuji.
+Yamamoto Akuji (talking),そーかい。 まあ俺も、客がいない方がゆっくり 出来ていいけどな。,"I see. Well, I'd rather relax if there are no customers.","Ya veo. Bueno, yo también preferiría que no hubiera clientes."
+narrator,"悪司が立ち去った店の中で、 アンリはエルベヘスと二人でいた。
 アンリは大鍋の前に立ち、エルベヘスは アンリの手伝いをしていた。","In the store where Akuji had left, Henri was alone with Arbehess.
 Henri was standing in front of a cauldron, and Arbehess was helping Henri.","En la tienda donde Akuji había salido, Henri estaba solo con Arbehess.
 Henri estaba de pie frente a un caldero, mientras Arbehess ayudaba a Henri."
-"Henri Pe (talking)","トカゲのしっぽ……いもりの心臓… 仕上げは、蛇の牙……","The lizard's tail…… the heart of a potato… The finishing touch is the fangs of a snake……","La cola del lagarto…… el corazón de una patata… El toque final: los colmillos de una serpiente……"
-"narrator","　　［じゅわわっっ］","[click]","[Chisporroteo]"
-"Arbehess (talking)","出来たか。","You've done it.","¿Lo has hecho?"
-"Henri Pe (talking)","ええ……","Ee: ……","Ee: ……"
-"narrator","大鍋の中の液体を、アンリは悪司に いつも渡している瓶の中につめた。","The liquid in the cauldron was put into a bottle that Henri always gives to Akuji.","El líquido del caldero se puso en una botella que Henri siempre le da a Akuji."
-"Arbehess (talking)","そのような薬を使ってまで、 かりそめの愛が欲しいのか。","Do you really want to use such a drug to get some kind of love?","¿Quieres usar una droga así para conseguir un poco de amor?"
-"Henri Pe (talking)","……………","……………","……………"
-"Arbehess (talking)","お前は美しい、アンリ。 お前なら、そのようなものがなくとも…","You are beautiful, Henri. You could be without all that…","Eres hermosa, Henri. Podrías prescindir de la…"
-"Henri Pe (talking)","っ……うっ…
+Henri Pe (talking),トカゲのしっぽ……いもりの心臓… 仕上げは、蛇の牙……,The lizard's tail…… the heart of a potato… The finishing touch is the fangs of a snake……,La cola del lagarto…… el corazón de una patata… El toque final: los colmillos de una serpiente……
+narrator,　　［じゅわわっっ］,[click],[Chisporroteo]
+Arbehess (talking),出来たか。,You've done it.,¿Lo has hecho?
+Henri Pe (talking),ええ……,Ee: ……,Ee: ……
+narrator,大鍋の中の液体を、アンリは悪司に いつも渡している瓶の中につめた。,The liquid in the cauldron was put into a bottle that Henri always gives to Akuji.,El líquido del caldero se puso en una botella que Henri siempre le da a Akuji.
+Arbehess (talking),そのような薬を使ってまで、 かりそめの愛が欲しいのか。,Do you really want to use such a drug to get some kind of love?,¿Quieres usar una droga así para conseguir un poco de amor?
+Henri Pe (talking),……………,……………,……………
+Arbehess (talking),お前は美しい、アンリ。 お前なら、そのようなものがなくとも…,"You are beautiful, Henri. You could be without all that…","Eres hermosa, Henri. Podrías prescindir de la…"
+Henri Pe (talking),"っ……うっ…
 ううっ……","I'm not sure if it's ………
 Ugh……","Ugh………
 Ugh……"
-"Arbehess (talking)","アンリ？","Henri?","¿ Henri?"
-"Henri Pe (talking)","そっ…それが出来たら… それが出来たら…… ……私……私……っ……","So… if you can do that… if you can do that…… …… me…… me…… me ……","Así que… si pudiera hacer eso… si pudiera hacer eso…… …… me…… me…… ……"
-"__system__??","{RND \ 0:","",""
-" (talking)","どちらに行かれるのですか？","Where are you going?","¿Por dónde vas?"
-"Yamamoto Akuji (talking)","あ~……ちょっとな。","Ahhhh,…… a little bit.","Oh, un poco de ……."
-"Oosugi Tsuyoshi (talking)","あの女のところですか。","Is it at that woman's place?","¿Está en la casa de esa mujer?"
-"Yamamoto Akuji (talking)","わかってんだったら、 野暮な事すんなよ。","If you know what you're doing, don't do anything stupid.","Si sabes lo que haces, no hagas ninguna tontería."
-"Oosugi Tsuyoshi (talking)","若、あの女は危険です！","Young man, that woman is dangerous!","¡Joven, esa mujer es peligrosa!"
-"Yamamoto Akuji (talking)","あーそーだねー。","Oh, yeah.","Ah, sí."
-"Oosugi Tsuyoshi (talking)","若！","Young!","¡Joven!"
-"Yamamoto Akuji (talking)","みやげにバナナでも買ってくっからよ。 じゃあな。","I'll buy you a banana as a souvenir. See you later.","Te compraré un plátano como recuerdo. Hasta luego."
-"Oosugi Tsuyoshi (talking)","若！！","Young!","¡Joven!"
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","元気か？ アンリ。","How are you? Henri.","¿Cómo estás? Henri."
-"Henri Pe (talking)","………いらっしゃい…悪司…","Welcome to …………Akuji…","Bienvenido a …………Akuji…"
-"Yamamoto Akuji (talking)","今日は、ヒヤシンスの鉢植えを 持ってきたぜ。","I brought you a potted hyacinth today.","Hoy te he traído un jacinto en maceta."
-"Henri Pe (talking)","………ありがとう…
+Arbehess (talking),アンリ？,Henri?,¿ Henri?
+Henri Pe (talking),そっ…それが出来たら… それが出来たら…… ……私……私……っ……,So… if you can do that… if you can do that…… …… me…… me…… me ……,Así que… si pudiera hacer eso… si pudiera hacer eso…… …… me…… me…… ……
+__system__??,{RND \ 0:,,
+ (talking),どちらに行かれるのですか？,Where are you going?,¿Por dónde vas?
+Yamamoto Akuji (talking),あ~……ちょっとな。,"Ahhhh,…… a little bit.","Oh, un poco de ……."
+Oosugi Tsuyoshi (talking),あの女のところですか。,Is it at that woman's place?,¿Está en la casa de esa mujer?
+Yamamoto Akuji (talking),わかってんだったら、 野暮な事すんなよ。,"If you know what you're doing, don't do anything stupid.","Si sabes lo que haces, no hagas ninguna tontería."
+Oosugi Tsuyoshi (talking),若、あの女は危険です！,"Young man, that woman is dangerous!","¡Joven, esa mujer es peligrosa!"
+Yamamoto Akuji (talking),あーそーだねー。,"Oh, yeah.","Ah, sí."
+Oosugi Tsuyoshi (talking),若！,Young!,¡Joven!
+Yamamoto Akuji (talking),みやげにバナナでも買ってくっからよ。 じゃあな。,I'll buy you a banana as a souvenir. See you later.,Te compraré un plátano como recuerdo. Hasta luego.
+Oosugi Tsuyoshi (talking),若！！,Young!,¡Joven!
+__system__??,},,
+Yamamoto Akuji (talking),元気か？ アンリ。,How are you? Henri.,¿Cómo estás? Henri.
+Henri Pe (talking),………いらっしゃい…悪司…,Welcome to …………Akuji…,Bienvenido a …………Akuji…
+Yamamoto Akuji (talking),今日は、ヒヤシンスの鉢植えを 持ってきたぜ。,I brought you a potted hyacinth today.,Hoy te he traído un jacinto en maceta.
+Henri Pe (talking),"………ありがとう…
 ご飯……作るね……","Thanks …………
 I'll make you some rice…… ……","Gracias …………
 Te haré una comida ……"
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"narrator","悪司が店から立ち去った後。 アンリはエルベヘスといた。","After Akuji left the store. Henri was with Arbehess.","Después de que Akuji saliera de la tienda. Henri estaba con Arbehess."
-"Henri Pe (talking)","エルベヘス、命令…… 悪司と敵対する組織を攻撃して……","Arbehess, instruction…… Akuji and attacking hostile organizations ……","Arbehess, instrucción…… Akuji y ataque a organizaciones hostiles ……"
-"Arbehess (talking)","了解… 一人ずつ始末していこう。","Understood… Let's get rid of it one by one.","Entendido… vamos a deshacernos de él uno por uno."
-"Yamamoto Akuji (talking)","ふん　ふふん……","Hmmm… Hmmm… ……","Mm-hmm……"
-"narrator","悪司が身仕度している鏡に、 殺の姿が映った。","In the mirror where Akuji was getting ready, he saw Satsu's reflection.","En el espejo donde Akuji se preparaba, se reflejaba la imagen de Satsu."
-"Yamamoto Akuji (talking)","どしたい、さっちゃん。 なんか、怖い顔してっぞ。","What's the matter, Sachan? You look kind of scary.","¿Qué pasa, Sachan? Tienes un aspecto que da miedo."
-"Takega Satsu (talking)","この顔は生まれつきだ。 アンリのところに行くのか。","I was born with this face. Are you going to Henri?","Nací con esta cara. ¿Vas a Henri?"
-"Yamamoto Akuji (talking)","おいおい…まさかさっちゃんまで、 アンリの事……
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+narrator,悪司が店から立ち去った後。 アンリはエルベヘスといた。,After Akuji left the store. Henri was with Arbehess.,Después de que Akuji saliera de la tienda. Henri estaba con Arbehess.
+Henri Pe (talking),エルベヘス、命令…… 悪司と敵対する組織を攻撃して……,"Arbehess, instruction…… Akuji and attacking hostile organizations ……","Arbehess, instrucción…… Akuji y ataque a organizaciones hostiles ……"
+Arbehess (talking),了解… 一人ずつ始末していこう。,Understood… Let's get rid of it one by one.,Entendido… vamos a deshacernos de él uno por uno.
+Yamamoto Akuji (talking),ふん　ふふん……,Hmmm… Hmmm… ……,Mm-hmm……
+narrator,悪司が身仕度している鏡に、 殺の姿が映った。,"In the mirror where Akuji was getting ready, he saw Satsu's reflection.","En el espejo donde Akuji se preparaba, se reflejaba la imagen de Satsu."
+Yamamoto Akuji (talking),どしたい、さっちゃん。 なんか、怖い顔してっぞ。,"What's the matter, Sachan? You look kind of scary.","¿Qué pasa, Sachan? Tienes un aspecto que da miedo."
+Takega Satsu (talking),この顔は生まれつきだ。 アンリのところに行くのか。,I was born with this face. Are you going to Henri?,Nací con esta cara. ¿Vas a Henri?
+Yamamoto Akuji (talking),"おいおい…まさかさっちゃんまで、 アンリの事……
 アンリはいい子だぜ。 どーしてみんな、あいつを 目の仇にすっかなー。","Hey, hey…don't tell me that even Sacchan is…… about Henri!
 Henri is a good girl. I wonder why everyone is making fun of her.","Oye, vamos… no crees que incluso Sacchan es una cosa Henri ……
 Henri es una buena chica. ¿Por qué la gente sigue señalándola con el dedo?"
-"Takega Satsu (talking)","どの辺りがよい子だ？","Which part is the good part?","¿Cuál es un buen chico?"
-"Yamamoto Akuji (talking)","えーとだなぁ……
+Takega Satsu (talking),どの辺りがよい子だ？,Which part is the good part?,¿Cuál es un buen chico?
+Yamamoto Akuji (talking),"えーとだなぁ……
  …………
 あれ…？ 飯はまずいし、暗いし、友達いねーし、 やらせてくんねーし……","Let's see… ……
  …………
 Oh…? The food is bad, it's dark, I don't have any friends, and they won't let me do anything ……","Veamos……
  …………
  ¿Oh…? La comida es mala, está oscuro, no tengo amigos, no me dejan hacerlo ……"
-"Takega Satsu (talking)","最悪ではないか。","Isn't it the worst?","En el peor de los casos."
-"Yamamoto Akuji (talking)","でもいい子だ。 俺が好きなんだから、 いいんだってばよ。","But she's a good girl. She likes me, so it's okay.","Pero es una buena chica. Le gusto, así que está bien."
-"Takega Satsu (talking)","……………
+Takega Satsu (talking),最悪ではないか。,Isn't it the worst?,En el peor de los casos.
+Yamamoto Akuji (talking),でもいい子だ。 俺が好きなんだから、 いいんだってばよ。,"But she's a good girl. She likes me, so it's okay.","Pero es una buena chica. Le gusto, así que está bien."
+Takega Satsu (talking),"……………
 まあいい。 もしもだ、悪司。
 アンリがお前を欺いていたとしても、 好きだと言えるか？","……………
 Well, okay. What if Akuji.
 If Henri was deceiving you, would you still say you like him?","……………
 Bueno, está bien. Qué pasa si, Akuji.
 Si Henri te estuviera engañando, ¿seguirías diciendo que te gusta?"
-"Yamamoto Akuji (talking)","なんだよ、それ… あんま、気分のいい話じゃねぇなー。 なんて事言うんだよ、さっちゃん。
+Yamamoto Akuji (talking),"なんだよ、それ… あんま、気分のいい話じゃねぇなー。 なんて事言うんだよ、さっちゃん。
 んじゃあ、俺、行ってくるからよ。 晩ご飯、俺の好物作っといてくれや。","What's that… It's not a very pleasant story. What a thing to say, Sacchan.
 I'm going to go now. Make me my favorite dinner.","No es una historia muy agradable. Qué cosas dices, Sacchan.
 Bueno, voy a salir. Hazme mi plato favorito para la cena."
-"narrator","悪司はそう言うと事務所を出た。","Akuji then left the office.","Akuji luego salió de la oficina."
-"Takega Satsu (thinking)","……さて……どうするかな……","……Now…… what to do ……","……Ahora…… ¿qué hacer al respecto? ……"
-"Yamamoto Akuji (talking)","おう。","Oh.","Oh."
-"Henri Pe (talking)","悪司……","Akuji……","Akuji……"
-"Yamamoto Akuji (talking)","今日はよ、これをあんたに渡しにきた。","I came here today to give you this.","Hoy he venido a darte esto."
-"Henri Pe (talking)","え…？","Eh…?","¿Eh?"
-"narrator","悪司はアンリの手を取ると、ポケットから 指輪を出し、アンリの左手薬指につけた。","Akuji took Henri's hand, pulled a ring out of his pocket, and put it on Henri's left ring finger.","Akuji tomó la mano de Henri, sacó un anillo de su bolsillo y lo puso en el dedo anular izquierdo de Henri."
-"Henri Pe (talking)","これ……","This: ……","Esto: ……"
-"Yamamoto Akuji (talking)","サイズ、ぴったりだな。","Size, it's perfect.","Talla, ajuste perfecto."
-"Henri Pe (talking)","…………","…………","…………"
-"Yamamoto Akuji (talking)","気にいらねぇか？","Don't you like it?","¿No te gusta?"
-"Henri Pe (talking)","……反対…… ……嬉しい……ありがとう、悪司……","…… against…… …… glad you're here…… thanks, Akuji ……","…… contra…… …… contento…… gracias, Akuji ……"
-"narrator","はにかむように笑うアンリを、 悪司は抱きしめた。
+narrator,悪司はそう言うと事務所を出た。,Akuji then left the office.,Akuji luego salió de la oficina.
+Takega Satsu (thinking),……さて……どうするかな……,……Now…… what to do ……,……Ahora…… ¿qué hacer al respecto? ……
+Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Henri Pe (talking),悪司……,Akuji……,Akuji……
+Yamamoto Akuji (talking),今日はよ、これをあんたに渡しにきた。,I came here today to give you this.,Hoy he venido a darte esto.
+Henri Pe (talking),え…？,Eh…?,¿Eh?
+narrator,悪司はアンリの手を取ると、ポケットから 指輪を出し、アンリの左手薬指につけた。,"Akuji took Henri's hand, pulled a ring out of his pocket, and put it on Henri's left ring finger.","Akuji tomó la mano de Henri, sacó un anillo de su bolsillo y lo puso en el dedo anular izquierdo de Henri."
+Henri Pe (talking),これ……,This: ……,Esto: ……
+Yamamoto Akuji (talking),サイズ、ぴったりだな。,"Size, it's perfect.","Talla, ajuste perfecto."
+Henri Pe (talking),…………,…………,…………
+Yamamoto Akuji (talking),気にいらねぇか？,Don't you like it?,¿No te gusta?
+Henri Pe (talking),……反対…… ……嬉しい……ありがとう、悪司……,"…… against…… …… glad you're here…… thanks, Akuji ……","…… contra…… …… contento…… gracias, Akuji ……"
+narrator,"はにかむように笑うアンリを、 悪司は抱きしめた。
 唇にくちづけ、そのまま、首筋を這う。","Akuji hugged Henri, who was smiling wryly.
 Akuji kissed her lips and crawled along her neck.","Akuji abrazó a Henri, que sonrió con ironía.
 Le besó los labios y se arrastró por su cuello."
-"Henri Pe (talking)","っ……！！ ……だっ…だめっ…駄目っ！","……!……… no… no!","¡Es ……! Es……… no… ¡no!"
-"Yamamoto Akuji (talking)","アンリ……","Henri……","Henri……"
-"Henri Pe (talking)","駄目なの……私…私……","I can't…… me… me ……","No puedo…… yo… yo ……"
-"Yamamoto Akuji (talking)","結婚してくれ。","Marriage.","El matrimonio."
-"Henri Pe (talking)","えっ…！？","What…!","¡Eh…!"
-"Yamamoto Akuji (talking)","その指輪は、そのつもりだ。","That ring is meant to.","Ese anillo está destinado a."
-"Henri Pe (talking)","っ……","~……","~……"
-"Yamamoto Akuji (talking)","結婚式の日取りは俺の方で決めてから、 連絡する。
+Henri Pe (talking),っ……！！ ……だっ…だめっ…駄目っ！,……!……… no… no!,¡Es ……! Es……… no… ¡no!
+Yamamoto Akuji (talking),アンリ……,Henri……,Henri……
+Henri Pe (talking),駄目なの……私…私……,I can't…… me… me ……,No puedo…… yo… yo ……
+Yamamoto Akuji (talking),結婚してくれ。,Marriage.,El matrimonio.
+Henri Pe (talking),えっ…！？,What…!,¡Eh…!
+Yamamoto Akuji (talking),その指輪は、そのつもりだ。,That ring is meant to.,Ese anillo está destinado a.
+Henri Pe (talking),っ……,~……,~……
+Yamamoto Akuji (talking),"結婚式の日取りは俺の方で決めてから、 連絡する。
  …………
 その時、どうしてもいやだったら、 その指輪を返してくれ。
  ………じゃあな。","I'll call you after I set the wedding date on my end.
@@ -761,9 +761,9 @@ Le besó los labios y se arrastró por su cuello."
 If you don't like it then, give me back the ring.……… See you then.","Fijaré una fecha para la boda por mi parte y me pondré en contacto contigo.
  …………
 Si no te gusta entonces, devuélveme el anillo.……… Hasta luego."
-"Henri Pe (talking)","あっ……","Oh, ……","Ah: ……"
-"narrator","悪司はそう言うと、店を出た。","Akuji said and left the store.","Akuji dijo esto y salió de la tienda."
-"Henri Pe (talking)","……っ……
+Henri Pe (talking),あっ……,"Oh, ……",Ah: ……
+narrator,悪司はそう言うと、店を出た。,Akuji said and left the store.,Akuji dijo esto y salió de la tienda.
+Henri Pe (talking),"……っ……
  ………さわられると… 幸せだよ……
  ……全部、悪司にあげたいと…思ってる… …………でも……
 でも…そうしたら、私…私……
@@ -778,31 +778,31 @@ Cuando……… me tocan… soy feliz……
 Quiero dárselo todo a Akuji… aunque…… Quiero dárselo todo a Akuji…………… ……
 Pero… entonces yo… yo ………… qué debo hacer…
 Estoy en problemas……… Estoy en problemas…… qué debo hacer ……"
-"Henri Pe (talking)","……ご苦労……様……","Thank you…… for your hard work…… Mr……","Gracias…… por su duro trabajo…… Estimado ……"
-"narrator","アンリの元に、小包がひとつ、届けられた。 表に、送り主の名前はない。","A parcel was delivered to Henri. There is no name of the sender on the front.","Un paquete fue entregado a Henri. En el anverso no figura el nombre del remitente."
-"Henri Pe (talking)","悪司…からかしら……？","From Akuji… or is it ……?","De Akuji… ¿o es ……?"
-"narrator","アンリはそっと、包みを開けた。","Henri gently opened the package.","Henri abrió suavemente el paquete."
-"narrator","　　［ドォォォォォン……］","[doh-doh-doh ……]","[doh-doh-doh ……]"
-"narrator","殺は空気を震わせる轟音を、ムッソリーニから 少し離れた場所で聞いていた。","Satsu heard the roar that shook the air a short distance away from Mussolini.","Satsu oyó el estruendo que sacudió el aire, a poca distancia de Mussolini."
-"Takega Satsu (talking)","私は忠告したのだがな……","I did advise against it, though: ……","Sin embargo, le aconsejé que no lo hiciera……"
-"Yamamoto Akuji (talking)","ムッソリーニが……アンリが 店ごと爆破されただと…？
+Henri Pe (talking),……ご苦労……様……,Thank you…… for your hard work…… Mr……,Gracias…… por su duro trabajo…… Estimado ……
+narrator,アンリの元に、小包がひとつ、届けられた。 表に、送り主の名前はない。,A parcel was delivered to Henri. There is no name of the sender on the front.,Un paquete fue entregado a Henri. En el anverso no figura el nombre del remitente.
+Henri Pe (talking),悪司…からかしら……？,From Akuji… or is it ……?,De Akuji… ¿o es ……?
+narrator,アンリはそっと、包みを開けた。,Henri gently opened the package.,Henri abrió suavemente el paquete.
+narrator,　　［ドォォォォォン……］,[doh-doh-doh ……],[doh-doh-doh ……]
+narrator,殺は空気を震わせる轟音を、ムッソリーニから 少し離れた場所で聞いていた。,Satsu heard the roar that shook the air a short distance away from Mussolini.,"Satsu oyó el estruendo que sacudió el aire, a poca distancia de Mussolini."
+Takega Satsu (talking),私は忠告したのだがな……,"I did advise against it, though: ……","Sin embargo, le aconsejé que no lo hiciera……"
+Yamamoto Akuji (talking),"ムッソリーニが……アンリが 店ごと爆破されただと…？
 で、アンリは？","Mussolini said ……Henri blew up his whole store…?
 And Henri?","Mussolini dice que ……Henri voló toda su tienda…
  ¿Y Henri?"
-"Chinpira (talking)","へ、へい……その…原形を留めてたのは、 帽子だけだそうで……","Heh, heh…… that… the only thing that was left intact was the hat……","Heh, heh…… que… lo único que quedó intacto fue el sombrero……"
-"Yamamoto Akuji (talking)","そっか…… じゃあ、苦しまずに いっちまったんだなー。","I see…… Then he went without suffering.","Ya veo…… Entonces se fue sin sufrir."
-"Takega Satsu (talking)","どうした。","What's up.","Qué pasa."
-"Yamamoto Akuji (talking)","え？","Huh?","¿Eh?"
-"Takega Satsu (talking)","お前だったら、最愛の者が殺されたと いうのなら、速攻で手下に犯人を 探し出させるのではないかと思ったが？","If it were you, I would have thought that if your beloved was Satsued, you would have your men find the culprits as soon as possible, wouldn't you?","Si hubieras sido tú, habría pensado que harías que tus hombres encontraran a los culpables lo antes posible, si tu amada hubiera sido Satsuada, ¿no es así?"
-"Yamamoto Akuji (talking)","え…あ…そだなー… ん~……別にいいか。","Eh… ah… you're right… hmmm~…… not really.","Eh… ah… bueno… hmm~…… No me importa."
-"Takega Satsu (talking)","悲しくないのか？","Aren't you sad?","¿No estás triste?"
-"Yamamoto Akuji (talking)","んん~~……ショックは ショックだけどよぉ…","Hmmm~~…… shock is a shock, but hey…","Hmmm~~…… shock es un shock, pero hey…"
-"Takega Satsu (talking)","では、お前にとって、別段重大な 出来事ではなかったという事だ。","Then it was not a serious event for you.","Entonces no fue un incidente especialmente grave para ti."
-"Yamamoto Akuji (talking)","そう……かな~……","I guess so…… ~ ……","Así que…… o así - ……"
-"Takega Satsu (talking)","気に止めるな。 お前はすべき事が他に山程 あるのだから。","Don't worry about it. You have a lot of other things to do.","No te preocupes. Tienes muchas otras cosas que hacer."
-"Yamamoto Akuji (talking)","ん……そーだなー…","Hmmm……… yeah…","Hmm……… supongo…"
-"narrator","アンリは一人、店の中で悩んでいた。","Henri was alone in the store, worried.","Henri estaba solo y angustiado en la tienda."
-"Henri Pe (thinking)","……悪司の事は好き……
+Chinpira (talking),へ、へい……その…原形を留めてたのは、 帽子だけだそうで……,"Heh, heh…… that… the only thing that was left intact was the hat……","Heh, heh…… que… lo único que quedó intacto fue el sombrero……"
+Yamamoto Akuji (talking),そっか…… じゃあ、苦しまずに いっちまったんだなー。,I see…… Then he went without suffering.,Ya veo…… Entonces se fue sin sufrir.
+Takega Satsu (talking),どうした。,What's up.,Qué pasa.
+Yamamoto Akuji (talking),え？,Huh?,¿Eh?
+Takega Satsu (talking),お前だったら、最愛の者が殺されたと いうのなら、速攻で手下に犯人を 探し出させるのではないかと思ったが？,"If it were you, I would have thought that if your beloved was Satsued, you would have your men find the culprits as soon as possible, wouldn't you?","Si hubieras sido tú, habría pensado que harías que tus hombres encontraran a los culpables lo antes posible, si tu amada hubiera sido Satsuada, ¿no es así?"
+Yamamoto Akuji (talking),え…あ…そだなー… ん~……別にいいか。,Eh… ah… you're right… hmmm~…… not really.,Eh… ah… bueno… hmm~…… No me importa.
+Takega Satsu (talking),悲しくないのか？,Aren't you sad?,¿No estás triste?
+Yamamoto Akuji (talking),んん~~……ショックは ショックだけどよぉ…,"Hmmm~~…… shock is a shock, but hey…","Hmmm~~…… shock es un shock, pero hey…"
+Takega Satsu (talking),では、お前にとって、別段重大な 出来事ではなかったという事だ。,Then it was not a serious event for you.,Entonces no fue un incidente especialmente grave para ti.
+Yamamoto Akuji (talking),そう……かな~……,I guess so…… ~ ……,Así que…… o así - ……
+Takega Satsu (talking),気に止めるな。 お前はすべき事が他に山程 あるのだから。,Don't worry about it. You have a lot of other things to do.,No te preocupes. Tienes muchas otras cosas que hacer.
+Yamamoto Akuji (talking),ん……そーだなー…,Hmmm……… yeah…,Hmm……… supongo…
+narrator,アンリは一人、店の中で悩んでいた。,"Henri was alone in the store, worried.",Henri estaba solo y angustiado en la tienda.
+Henri Pe (thinking),"……悪司の事は好き……
 でも……私…私…悪司にすべてを 任せてしまったら…
  ………エルベヘスの事もそうだけど… 魔力をなくしてしまったら…… 悪司にかけた術もとけてしまう…
  ……術がとけた時…… 悪司が、私の事をなんて思うか……
@@ -834,38 +834,38 @@ Me gustas, pero…… Me gustas, no puedo hacer nada al respecto………… me�
  ……Sí… eso es… eso es… sólo huye……
 Te quiero… pero si no hay nada que pueda hacer…
 Si simplemente dejo a Akuji en mi jutsu y huyo, entonces Akuji ni siquiera me odiará…"
-"narrator","アンリは、がたっと立ち上がった。","Henri rattled up.","Henri se puso a temblar."
-"Henri Pe (talking)","急いでここから……","Hurry up and start here: ……","Date prisa en llegar: ……"
-"narrator","　　［がらん　ごろん］","[Goran, Goron]","[Goran, Goran]."
-"Henri Pe (talking)","っ………っ！！","~………~!!","¡¡~………~!!"
-"Yamamoto Akuji (talking)","迎えにきたぜ。","I'm here to pick you up, man.","Estoy aquí para recogerte, tío."
-"Henri Pe (talking)","っ……あっ……","……","……"
-"Yamamoto Akuji (talking)","結婚式な、明日に決めた。","The wedding, we've decided on tomorrow.","La boda, hemos decidido que sea mañana."
-"Henri Pe (talking)","っ………","You can find out more at ………","………"
-"Yamamoto Akuji (talking)","さあ……どうする？ 指輪……返すか？ それとも……","Now…… what do we do? Return the ring ……? Or do you ……","Ahora…… ¿qué hacemos? ¿Devolver el anillo ……? ¿O es que ……"
-"Henri Pe (talking)","……っ……かえっ…せない…","……,…… Kaede… can't… let…","……,…… Kaede… no puede… dejar…"
-"Yamamoto Akuji (talking)","…………","…………","…………"
-"Henri Pe (talking)","返せない……返せないっ… 返せないっ……！","I can't return…… I can't return… I can't return ……!","No puedo volver…… No puedo volver… ¡No puedo volver ……!"
-"Yamamoto Akuji (talking)","アンリ……","Henri……","Henri……"
-"narrator","悪司はアンリを抱きしめる。","Akuji hugs Henri.","Akuji abraza a Henri."
-"Henri Pe (talking)","うっ……ううっ…","Ugh…… ugh…","Ugh…… ugh…"
-"narrator","悪司は、アンリにくちづけた。","Akuji kissed Henri.","Akuji besó a Henri."
-"Henri Pe (talking)","んっ……うっ…んんっ……","Mmmm…mmmm…mmmm…mmmm………","Mmmm…mmmm…mmmm…mmmm………"
-"narrator","アンリは差し入れられた悪司の舌を 拒む事なく、口腔を愛撫させる。","Henri does not refuse Akuji's tongue, but lets it caress her oral cavity.","Henri no rechaza la lengua introducida de Akuji y permite que acaricie su cavidad bucal."
-"Yamamoto Akuji (talking)","…………抱いていいか…？","………… Can I hold you…?","………… ¿Puedo abrazarte…?"
-"narrator","悪司はこの世のものとは思えない 優しい声色で、アンリにそう囁いた。","Akuji whispered this to Henri with a gentle tone of voice that seemed out of this world.","Akuji le susurró esto a Henri con un tono de voz suave que no era de este mundo."
-"Henri Pe (talking)","…っ…………","……………","……………"
-"Yamamoto Akuji (talking)","約束通り、組織は取り返した… もう…我慢も限界なんだけどな……","As promised, we got our organization back… and I'm already… running out of patience……","Como prometimos, hemos recuperado la organización… Se me está acabando la paciencia……"
-"Henri Pe (talking)","…………うっ……","………… ugh ……","………… ugh ……"
-"narrator","アンリがさらに泣く。 しかし、今度は悪司の腕から 逃れる事はなかった。
+narrator,アンリは、がたっと立ち上がった。,Henri rattled up.,Henri se puso a temblar.
+Henri Pe (talking),急いでここから……,Hurry up and start here: ……,Date prisa en llegar: ……
+narrator,　　［がらん　ごろん］,"[Goran, Goron]","[Goran, Goran]."
+Henri Pe (talking),っ………っ！！,~………~!!,¡¡~………~!!
+Yamamoto Akuji (talking),迎えにきたぜ。,"I'm here to pick you up, man.","Estoy aquí para recogerte, tío."
+Henri Pe (talking),っ……あっ……,……,……
+Yamamoto Akuji (talking),結婚式な、明日に決めた。,"The wedding, we've decided on tomorrow.","La boda, hemos decidido que sea mañana."
+Henri Pe (talking),っ………,You can find out more at ………,………
+Yamamoto Akuji (talking),さあ……どうする？ 指輪……返すか？ それとも……,Now…… what do we do? Return the ring ……? Or do you ……,Ahora…… ¿qué hacemos? ¿Devolver el anillo ……? ¿O es que ……
+Henri Pe (talking),……っ……かえっ…せない…,"……,…… Kaede… can't… let…","……,…… Kaede… no puede… dejar…"
+Yamamoto Akuji (talking),…………,…………,…………
+Henri Pe (talking),返せない……返せないっ… 返せないっ……！,I can't return…… I can't return… I can't return ……!,No puedo volver…… No puedo volver… ¡No puedo volver ……!
+Yamamoto Akuji (talking),アンリ……,Henri……,Henri……
+narrator,悪司はアンリを抱きしめる。,Akuji hugs Henri.,Akuji abraza a Henri.
+Henri Pe (talking),うっ……ううっ…,Ugh…… ugh…,Ugh…… ugh…
+narrator,悪司は、アンリにくちづけた。,Akuji kissed Henri.,Akuji besó a Henri.
+Henri Pe (talking),んっ……うっ…んんっ……,Mmmm…mmmm…mmmm…mmmm………,Mmmm…mmmm…mmmm…mmmm………
+narrator,アンリは差し入れられた悪司の舌を 拒む事なく、口腔を愛撫させる。,"Henri does not refuse Akuji's tongue, but lets it caress her oral cavity.",Henri no rechaza la lengua introducida de Akuji y permite que acaricie su cavidad bucal.
+Yamamoto Akuji (talking),…………抱いていいか…？,………… Can I hold you…?,………… ¿Puedo abrazarte…?
+narrator,悪司はこの世のものとは思えない 優しい声色で、アンリにそう囁いた。,Akuji whispered this to Henri with a gentle tone of voice that seemed out of this world.,Akuji le susurró esto a Henri con un tono de voz suave que no era de este mundo.
+Henri Pe (talking),…っ…………,……………,……………
+Yamamoto Akuji (talking),約束通り、組織は取り返した… もう…我慢も限界なんだけどな……,"As promised, we got our organization back… and I'm already… running out of patience……","Como prometimos, hemos recuperado la organización… Se me está acabando la paciencia……"
+Henri Pe (talking),…………うっ……,………… ugh ……,………… ugh ……
+narrator,"アンリがさらに泣く。 しかし、今度は悪司の腕から 逃れる事はなかった。
 悪司はアンリをそのまま横たえた。","Henri cried more. But this time, she did not escape from Akuji's arms.
 Akuji laid Henri down as it was.","Henri lloró más. Pero esta vez no escapó de los brazos de Akuji.
 Akuji puso a Henri tal cual."
-"Henri Pe (thinking)","もう…いい… 我慢しない…… 死んだっていいっ……
+Henri Pe (thinking),"もう…いい… 我慢しない…… 死んだっていいっ……
 私だって…私だって…… 悪司とこうなりたかったん だからっ……！！","Enough… enough… I won't put up with it…… I don't care if he dies……
 I wanted… to be like this with…… Akuji, too ……!","Suficiente… suficiente… No lo voy a soportar…… No me importa si muero……
 Yo también… incluso quería estar así con…… Akuji, ¡así que ……!"
-"cg narrator","「ああっ…！！」
+cg narrator,"「ああっ…！！」
 悪司の舌が、指が、アンリの躰の上を這う度に、 アンリは甘い声をあげる。
 「悪司っ…悪司ぃ……」
 すすり泣くように甘い声で、 アンリは悪司の名前を呼び続けている。
@@ -995,7 +995,7 @@ El crujido se extiende lentamente a través de Henri.
 Henri agarró con fuerza el brazo de Akuji.
 「Aa~……a、a、aaa~…！！」
 El sonido de la franja de carne resonó a través de Henri."
-"cg narrator","「っ……！！」
+cg narrator,"「っ……！！」
 その時。
 アンリの躰が大きく震えた。
  「あっ……！！」
@@ -1011,9 +1011,9 @@ El cuerpo de Henri temblaba fuertemente.
  “¡Ah……!
  …?!”
 El cuerpo de Henri emite una luz deslumbrante."
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"cg narrator","『とうとう……一線を越えてしまったのだな』
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+cg narrator,"『とうとう……一線を越えてしまったのだな』
 エルベヘスの声が、暗闇の中で響く。
  『愚かな娘、アンリよ。 　この悪魔エルベヘスを８年に渡り、 　僕とした償いをしてもらう』
  『今後８年間、我が僕として、その躰で贖って貰う』
@@ -1026,7 +1026,7 @@ La voz de Arbehess resuena en la oscuridad.
  『Oh, chica tonta, Henri. 　Pagarás por haber hecho de este demonio Arbehess mi sirviente durante los próximos ocho años.』
  『Durante los próximos ocho años, redimirás mi cuerpo como si fuera mío.』
  『Bajo esta…… tierra fría…』"
-"Yamamoto Akuji (talking)","っ……んっ……
+Yamamoto Akuji (talking),"っ……んっ……
  ……………
 どこだ……ここ……
 あ~…そーいやあ、アンリと……
@@ -1045,45 +1045,45 @@ Ahhh… bueno… Henri y ……
  ………
  ¿hay que tener en cuenta que la mayoría de las personas no tienen acceso a los servicios de salud?
  ¿ Henri? ¡Arnri!"
-"narrator","悪司は建物中を探したが、 アンリの姿はどこにもなかった。","Akuji searched the entire building, but Henri was nowhere to be found.","Akuji buscó en todo el edificio, pero Henri no aparecía por ningún lado."
-"Yamamoto Akuji (talking)","っかしーなー…どこに行ったんだ？","That's funny… where did he go?","Es curioso… ¿a dónde fue?"
-"narrator","　　［がらん　ごろん］","[Goran, Goron]","[Goran, Goran]."
-"Takega Satsu (talking)","悪司。","Akuji.","Akuji."
-"Yamamoto Akuji (talking)","おう、さっちゃん。","Oh, Sacchan.","Oh, Sacchan."
-"Takega Satsu (talking)","時間までには現れるだろうと 思っていたのだが…","I had hoped he would show up by the time…","Esperaba que aparecieran para cuando…"
-"Yamamoto Akuji (talking)","えっ……
+narrator,悪司は建物中を探したが、 アンリの姿はどこにもなかった。,"Akuji searched the entire building, but Henri was nowhere to be found.","Akuji buscó en todo el edificio, pero Henri no aparecía por ningún lado."
+Yamamoto Akuji (talking),っかしーなー…どこに行ったんだ？,That's funny… where did he go?,Es curioso… ¿a dónde fue?
+narrator,　　［がらん　ごろん］,"[Goran, Goron]","[Goran, Goran]."
+Takega Satsu (talking),悪司。,Akuji.,Akuji.
+Yamamoto Akuji (talking),おう、さっちゃん。,"Oh, Sacchan.","Oh, Sacchan."
+Takega Satsu (talking),時間までには現れるだろうと 思っていたのだが…,I had hoped he would show up by the time…,Esperaba que aparecieran para cuando…
+Yamamoto Akuji (talking),"えっ……
 っ……嘘だろ……もうこんな時間かよ…","What? ……
 I can't believe it's already this late…","¿Qué? ……
  ¿Qué demonios está haciendo aquí ya ………?"
-"Takega Satsu (talking)","で、アンリはどこに？","And where is Henri?","¿Y dónde está Henri?"
-"Yamamoto Akuji (talking)","いねぇんだ。","There ain't no one here.","No estoy aquí."
-"Takega Satsu (talking)","なんだと？","What the hell?","¿Qué?"
-"Yamamoto Akuji (talking)","ま…いーか…… 戻ろうぜ。","Well…okay, let's go back to …….","Bueno… vale, volvamos a ……."
-"Takega Satsu (talking)","お前一人で式をあげるのか？","You're going to have the ceremony all by yourself?","¿Vas a celebrar la ceremonia tú solo?"
-"Yamamoto Akuji (talking)","いんや、取りやめだ。 花嫁がいねーんじゃ、どーしよーもねぇ。","Nope, it's cancelled. Without a bride, there's nothing we can do.","No, se ha cancelado. Sin una novia, no hay nada que podamos hacer."
-"Takega Satsu (talking)","悪司……？","Akuji ……?","¿Recibirás un mensaje?"
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"Takega Satsu (talking)","やっと手に入れる事の出来た女が いなくなったというのに、 案外あっさりしていないか？","It's a little easier than it seems, isn't it, to finally lose the woman you've been able to get your hands on?","Es un poco más fácil de lo que parece, ¿no es así, cuando la mujer que finalmente tienes se ha ido?"
-"Yamamoto Akuji (talking)","ん~……
+Takega Satsu (talking),で、アンリはどこに？,And where is Henri?,¿Y dónde está Henri?
+Yamamoto Akuji (talking),いねぇんだ。,There ain't no one here.,No estoy aquí.
+Takega Satsu (talking),なんだと？,What the hell?,¿Qué?
+Yamamoto Akuji (talking),ま…いーか…… 戻ろうぜ。,"Well…okay, let's go back to …….","Bueno… vale, volvamos a ……."
+Takega Satsu (talking),お前一人で式をあげるのか？,You're going to have the ceremony all by yourself?,¿Vas a celebrar la ceremonia tú solo?
+Yamamoto Akuji (talking),いんや、取りやめだ。 花嫁がいねーんじゃ、どーしよーもねぇ。,"Nope, it's cancelled. Without a bride, there's nothing we can do.","No, se ha cancelado. Sin una novia, no hay nada que podamos hacer."
+Takega Satsu (talking),悪司……？,Akuji ……?,¿Recibirás un mensaje?
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+Takega Satsu (talking),やっと手に入れる事の出来た女が いなくなったというのに、 案外あっさりしていないか？,"It's a little easier than it seems, isn't it, to finally lose the woman you've been able to get your hands on?","Es un poco más fácil de lo que parece, ¿no es así, cuando la mujer que finalmente tienes se ha ido?"
+Yamamoto Akuji (talking),"ん~……
  ……もーいいや。 なんかこう…… ぽろっと抜けたっていうか…","Hmmm… ……
 I don't care about…… either. It's like something…… fell out or something…","Hmmm… ……
 Tampoco me importa ……. Es como si algo de…… se hubiera caído o algo así…"
-"Takega Satsu (talking)","……っ…まさか、あの娘……","……… no way, that girl ……","……… ni hablar, esa chica ……"
-"Yamamoto Akuji (talking)","さっちゃん？","Sachan?","¿Sachan?"
-"Takega Satsu (talking)","………いや、いい… では、帰るとするか。","……… No, thanks… I think I'll go home then.","……… No, bien… Entonces vamos a casa."
-"Yamamoto Akuji (talking)","そーだな。 式も取りやめだって、 言わなくちゃいけねーし。","Yeah, that's right. I'll have to cancel the ceremony.","Así es. Tengo que decirles que cancelamos la ceremonia."
-"Takega Satsu (talking)","……………","……………","……………"
-"Seinendan Jyoshi (talking)","悪司さんに調査を頼まれていた、 ムッソリーニの店主、 アンリさんですが……
+Takega Satsu (talking),……っ…まさか、あの娘……,"……… no way, that girl ……","……… ni hablar, esa chica ……"
+Yamamoto Akuji (talking),さっちゃん？,Sachan?,¿Sachan?
+Takega Satsu (talking),………いや、いい… では、帰るとするか。,"……… No, thanks… I think I'll go home then.","……… No, bien… Entonces vamos a casa."
+Yamamoto Akuji (talking),そーだな。 式も取りやめだって、 言わなくちゃいけねーし。,"Yeah, that's right. I'll have to cancel the ceremony.",Así es. Tengo que decirles que cancelamos la ceremonia.
+Takega Satsu (talking),……………,……………,……………
+Seinendan Jyoshi (talking),"悪司さんに調査を頼まれていた、 ムッソリーニの店主、 アンリさんですが……
 色々、手をつくして探しているんですが、 行方は、ようとしてしれません。
 ムッソリーニもあれ以来、 店に人がいるという感じでも ないです。","Mr. Henri, the owner of Mussolini's, whom Mr. Akuji had asked me to look into……
 I'm trying to find him, but I can't seem to locate him.
 I have not seen anyone in Mussolini's since then.","El dueño de Mussolini's, Henri, a quien Akuji nos había pedido que investigáramos, está ahora en ……
 Estamos haciendo todo lo posible para encontrarlo, pero parece que no podemos localizarlo.
 No creo que haya habido nadie en Mussolini desde entonces."
-"Yamamoto Akuji (talking)","あの日からだよな……","Since that day, right? ……","Desde ese día, ¿verdad? ……"
-"Seinendan Jyoshi (talking)","はい。","Yes.","Sí."
-"Yamamoto Akuji (talking)","……どこ行ったんだか……","I don't know where…… went……","No sé a dónde fue: ……"
-"narrator","誰もいない店内。
+Yamamoto Akuji (talking),あの日からだよな……,"Since that day, right? ……","Desde ese día, ¿verdad? ……"
+Seinendan Jyoshi (talking),はい。,Yes.,Sí.
+Yamamoto Akuji (talking),……どこ行ったんだか……,I don't know where…… went……,No sé a dónde fue: ……
+narrator,"誰もいない店内。
 そこから…地の底から……
 泣き声が……
 すすり泣く声が聞こえる……","Inside an empty store.
@@ -1093,7 +1093,7 @@ I hear a sobbing voice: ……","Dentro de una tienda vacía.
 Desde allí… desde las profundidades de la tierra……
 Oigo llorar: ……
 Se oyen sollozos: ……"
-"cg narrator","「うああああっ……！！」
+cg narrator,"「うああああっ……！！」
 何本もの触手が、アンリの中を行き来する。
  「うあっ…あ、く、あ、うう！」
  「苦しいか？ 　アンリ……」
@@ -1187,18 +1187,18 @@ Henri abre los ojos y se ve obligado a asimilar el placer.
  'Por todo el trabajo que he hecho por ti, tu cuerpo, voy a disfrutarlo al máximo……
  “……Kukuku~tsu… …kuku~tsu……”.
 La Arbehess no era un demonio leal a Henri, sino simplemente un demonio que revelaba su verdadera naturaleza."
-"__system__??","{CG_MODE = 1:","",""
-"__system__??","}","",""
-"narrator","　　［がらん　ごろん］","[Goran, Goron]","[Goran, Goran]."
-"narrator","悪司は店内に足を踏みいれた。","Akuji stepped into the store.","Akuji entró en la tienda."
-"Yamamoto Akuji (talking)","けほっ…埃っぽいな…","Kehoho… dusty…","Kehoho… polvoriento…"
-"narrator","店内は、人が手入れしている気配は まったくなかった。","There was no sign of human care in the store at all.","No había ni rastro de gente atendiendo la tienda."
-"Yamamoto Akuji (talking)","………俺の幻だったのかねー…
+__system__??,{CG_MODE = 1:,,
+__system__??,},,
+narrator,　　［がらん　ごろん］,"[Goran, Goron]","[Goran, Goran]."
+narrator,悪司は店内に足を踏みいれた。,Akuji stepped into the store.,Akuji entró en la tienda.
+Yamamoto Akuji (talking),けほっ…埃っぽいな…,Kehoho… dusty…,Kehoho… polvoriento…
+narrator,店内は、人が手入れしている気配は まったくなかった。,There was no sign of human care in the store at all.,No había ni rastro de gente atendiendo la tienda.
+Yamamoto Akuji (talking),"………俺の幻だったのかねー…
 しっかし、ブッキミーな内装だ。 趣味が悪いっつーか……","……… I guess it was my illusion…
 Shucks, it's a buckeye interior. Bad taste… ……","……… No sé si era mi ilusión…
 Caramba, es un interior de buckeye. Es de mal gusto……"
-"narrator","　　［………て……］","[………Te……]","[………Te……]"
-"Yamamoto Akuji (talking)","っ！？
+narrator,　　［………て……］,[………Te……],[………Te……]
+Yamamoto Akuji (talking),"っ！？
  …………………
 今…人の声がしたよーな……
 誰かいるのか？","What?
@@ -1208,39 +1208,39 @@ Who's there?","¿Qué?
  …………………
 Acabo de… escuchar la voz de alguien… ……
  ¿Quién está ahí?"
-"narrator","しかし、悪司の声に答える者はいなかった。","However, no one answered Akuji's voice.","Sin embargo, nadie respondió a la voz de Akuji."
-"Yamamoto Akuji (talking)","……………","……………","……………"
-"narrator","悪司は少ししてから、店を出た。","Akuji left the restaurant a little later.","Akuji salió de la tienda un poco más tarde."
-"Yamamoto Akuji (talking)","なんで、またきちまったのかな~…
+narrator,しかし、悪司の声に答える者はいなかった。,"However, no one answered Akuji's voice.","Sin embargo, nadie respondió a la voz de Akuji."
+Yamamoto Akuji (talking),……………,……………,……………
+narrator,悪司は少ししてから、店を出た。,Akuji left the restaurant a little later.,Akuji salió de la tienda un poco más tarde.
+Yamamoto Akuji (talking),"なんで、またきちまったのかな~…
 きたって事は、気になってるのかも しれねぇけど、人に探させても 手がかりナシじゃあ、どうにも……","I wonder why I'm here again…
 I'm not sure why it came back… I guess it's because it's on my mind, but I can't help it if I let people look for it without any clues……","Me pregunto por qué estoy aquí de nuevo…
 Si ha vuelto, quizá sea porque le molesta, pero aunque deje que la gente lo busque, no hay forma de encontrarlo sin ninguna pista……"
-"narrator","　　［………て……］","[………Te……]","[………Te……]"
-"Yamamoto Akuji (talking)","んっ！？","Hm!","¡Hm!"
-"narrator","　　［た…すけて……悪司……］","[Ta…sukete……Akuji ……]","[Ta…sukete……Akuji ……]"
-"Yamamoto Akuji (talking)","アンリ！？","Henri!","¡Henri!"
-"narrator","声は地下からしていた。","The voices were coming from underground.","Las voces venían del subsuelo."
-"Yamamoto Akuji (talking)","なんだ、どーいうこった？","What the hell?","¿Qué demonios es eso?"
-"narrator","悪司が床を探っていると、 地下へと続く蓋が見つかった。","As Akuji explored the floor, he found a lid leading to the basement.","Cuando Akuji exploró el suelo, encontró una tapa que conducía al sótano."
-"Yamamoto Akuji (talking)","なんだ、こりゃ……","What the heck is this? ……","¿Qué demonios es esto? ……"
-"narrator","悪司はその中に入った。
+narrator,　　［………て……］,[………Te……],[………Te……]
+Yamamoto Akuji (talking),んっ！？,Hm!,¡Hm!
+narrator,　　［た…すけて……悪司……］,[Ta…sukete……Akuji ……],[Ta…sukete……Akuji ……]
+Yamamoto Akuji (talking),アンリ！？,Henri!,¡Henri!
+narrator,声は地下からしていた。,The voices were coming from underground.,Las voces venían del subsuelo.
+Yamamoto Akuji (talking),なんだ、どーいうこった？,What the hell?,¿Qué demonios es eso?
+narrator,悪司が床を探っていると、 地下へと続く蓋が見つかった。,"As Akuji explored the floor, he found a lid leading to the basement.","Cuando Akuji exploró el suelo, encontró una tapa que conducía al sótano."
+Yamamoto Akuji (talking),なんだ、こりゃ……,What the heck is this? ……,¿Qué demonios es esto? ……
+narrator,"悪司はその中に入った。
 そこは真っ暗だったが、閉塞感はない。","Akuji entered it.
 It was pitch-dark in there, but there was no sense of entrapment.","Akuji entró en él.
 Estaba muy oscuro, pero no había ninguna sensación de encierro."
-"Yamamoto Akuji (talking)","…………迷宮か…… こんなところに……","………… labyrinth or…… such a place ……","………… laberinto o…… tal lugar ……"
-"__system__??","{R支配[23] \ 1:","",""
-"Yamamoto Akuji (talking)","……ちっ…支配地じゃねぇから、 部隊を動かせねぇ。 今は調べる事が出来ねぇな。","…… Damn… we can't move our troops because we're not in control of the area. I can't check it out now.","…… Maldición… no podemos mover nuestras tropas porque no tenemos el control de la zona. No puedo comprobarlo ahora."
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","………まさか、この奥に…… …どっちにしろ、調べてみた方がいいな…","……… No way, it's in the back here…… … either way, I better check it out…","……… No puede ser, está aquí atrás:…… … De cualquier manera, mejor lo compruebo…"
-"__system__??","{■ = 0:","",""
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","ここが、終点か……","This is the end of the line……","Este es el final del camino……"
-"narrator","　　［っ……あっ……］","[ts……ahht……]","[ts……ahht……]"
-"Yamamoto Akuji (talking)","今の声は……","The voice now is ……","La voz ahora es ……"
-"narrator","　　［うっ……うっ……あっ……あっ……］","[ugh…… ugh…… oh…… oh ……]","[ugh…… ugh…… oh…… oh ……]"
-"Yamamoto Akuji (talking)","間違いない、アンリの声だ！","Definitely the voice of Henri!","¡Es definitivamente la voz de Henri!"
-"narrator","悪司は声のする方へと走った。","Akuji ran toward the voice.","Akuji corrió hacia la voz."
-"cg narrator","「ア……」
+Yamamoto Akuji (talking),…………迷宮か…… こんなところに……,………… labyrinth or…… such a place ……,………… laberinto o…… tal lugar ……
+__system__??,{R支配[23] \ 1:,,
+Yamamoto Akuji (talking),……ちっ…支配地じゃねぇから、 部隊を動かせねぇ。 今は調べる事が出来ねぇな。,…… Damn… we can't move our troops because we're not in control of the area. I can't check it out now.,…… Maldición… no podemos mover nuestras tropas porque no tenemos el control de la zona. No puedo comprobarlo ahora.
+__system__??,},,
+Yamamoto Akuji (talking),………まさか、この奥に…… …どっちにしろ、調べてみた方がいいな…,"……… No way, it's in the back here…… … either way, I better check it out…","……… No puede ser, está aquí atrás:…… … De cualquier manera, mejor lo compruebo…"
+__system__??,{■ = 0:,,
+__system__??,},,
+Yamamoto Akuji (talking),ここが、終点か……,This is the end of the line……,Este es el final del camino……
+narrator,　　［っ……あっ……］,[ts……ahht……],[ts……ahht……]
+Yamamoto Akuji (talking),今の声は……,The voice now is ……,La voz ahora es ……
+narrator,　　［うっ……うっ……あっ……あっ……］,[ugh…… ugh…… oh…… oh ……],[ugh…… ugh…… oh…… oh ……]
+Yamamoto Akuji (talking),間違いない、アンリの声だ！,Definitely the voice of Henri!,¡Es definitivamente la voz de Henri!
+narrator,悪司は声のする方へと走った。,Akuji ran toward the voice.,Akuji corrió hacia la voz.
+cg narrator,"「ア……」
  「アンリ！！」
  「あふっ……あ……あー…… 　……えあっ……は……」
  「アンリ、俺の声が聞こえないのか、アンリ！」
@@ -1340,11 +1340,11 @@ En ese sentido, eres su víctima.
  '…… No, eso no importa. 　Porque sería inútil que te resistieras a mí.
 Pero te felicito por haber llegado hasta aquí.
 Te daré una recompensa. 　Tómalo y vuelve a la tierra”."
-"__system__??","{RETURN = 1:","",""
-"__system__??","}","",""
-"__system__??","{★愛 \ 0:","",""
-"__system__??","}","",""
-"cg narrator","「ほう……助けたいのか、この女を。 　お前を騙し、欺いていた女だぞ」
+__system__??,{RETURN = 1:,,
+__system__??,},,
+__system__??,{★愛 \ 0:,,
+__system__??,},,
+cg narrator,"「ほう……助けたいのか、この女を。 　お前を騙し、欺いていた女だぞ」
  「その女の為に、命を賭けるという事か？」
  「そーだなー……考えてみれば、ケッコー酷い事 　されちまってたよなあ…」
  「でもよ……なーんか、憎めねーんだよ。 　どーしてかわかんねーけど」
@@ -1371,64 +1371,64 @@ Bueno, entonces, puedes morir.
  ¿Hmm?
 No ……, no ……, no …….
  ¿ Henri ……?”"
-"Henri Pe (talking)","だっ……だめっ……！！","No ……, no ……!","¡No, no ……!"
-"Yamamoto Akuji (talking)","アンリ……","Henri……","Henri……"
-"Henri Pe (talking)","この人には……手を出さないで…… 今までと同じように……
+Henri Pe (talking),だっ……だめっ……！！,"No ……, no ……!","¡No, no ……!"
+Yamamoto Akuji (talking),アンリ……,Henri……,Henri……
+Henri Pe (talking),"この人には……手を出さないで…… 今までと同じように……
 私を…私を贄にしておけば いいじゃない……","Don't touch this man…… like you've been ……
 Just leave me… just leave me as a sacrifice……","No toques a este hombre…… como siempre has hecho……
 Sólo déjame… sólo déjame como un sacrificio……"
-"Arbehess (talking)","まだ正気を保っていたのか。 もうとっくに、壊れていたかと思ったが…","You're still in your right mind. I thought you had long since broken down…","Todavía estás en tu sano juicio. Creía que hacía tiempo que te habías descompuesto…"
-"Henri Pe (talking)","お願い…エルベヘス… この人を……
+Arbehess (talking),まだ正気を保っていたのか。 もうとっくに、壊れていたかと思ったが…,You're still in your right mind. I thought you had long since broken down…,Todavía estás en tu sano juicio. Creía que hacía tiempo que te habías descompuesto…
+Henri Pe (talking),"お願い…エルベヘス… この人を……
 私の大好きな人を、どうかこのまま、 無事に戻して……","Please…Arbehess… please bring this man back to ……
 Please keep this person I love and bring him back safe and sound: ……","Por favor… Arbehess… deja a este hombre ……
 Por favor, mantén a esta persona que amo y tráela de vuelta sana y salva: ……"
-"Arbehess (talking)","駄目だ。","No.","No."
-"Henri Pe (talking)","エルベヘスっ…！","Arbehess…!","¡Arbehess…!"
-"Arbehess (talking)","悪魔にたてついたのだ。 その無謀な行為は、命で贖って貰う。","He was beholden to the devil. You will pay for that reckless act with your life.","Has sido maltratado por el diablo. Pagarás esa imprudencia con tu vida."
-"Henri Pe (talking)","エルベヘスっ……やめて…… 命令よ、やめて！","Arbehess , stop ……, stop ……, that's an order, stop it!","Arbehess ts…… Detente…… ¡Es una orden, detente!"
-"Arbehess (talking)","了解。
+Arbehess (talking),駄目だ。,No.,No.
+Henri Pe (talking),エルベヘスっ…！,Arbehess…!,¡Arbehess…!
+Arbehess (talking),悪魔にたてついたのだ。 その無謀な行為は、命で贖って貰う。,He was beholden to the devil. You will pay for that reckless act with your life.,Has sido maltratado por el diablo. Pagarás esa imprudencia con tu vida.
+Henri Pe (talking),エルベヘスっ……やめて…… 命令よ、やめて！,"Arbehess , stop ……, stop ……, that's an order, stop it!","Arbehess ts…… Detente…… ¡Es una orden, detente!"
+Arbehess (talking),"了解。
  ……などと言う必要はなかろう。 もう、お前は私の主でもなんでもない。 お前の主は、私なのだから。","Ryou solution.
 You don't need to say…… and so on. You are no longer my Lord. Your Lord is me.","Solución Ryou.
 No hace falta que digas…… y demás. Ya no eres mi Señor ni mi Dueño. Yo soy tu Señor, porque soy tu Señor."
-"Henri Pe (talking)","だっ…め……
+Henri Pe (talking),"だっ…め……
 駄目！！ 絶対、駄目ーー！！","No… ……
 No! Absolutely, no!","De…me……
  ¡¡No!! ¡Absolutamente, no!"
-"narrator","　　［わっ………ん……］
+narrator,"　　［わっ………ん……］
 エルベヘスは、アンリの躰から発せられた 呪縛を感じた。","[……… and ……]
 Arbehess felt the spell emanating from Henri's body.","[Wacco……… y ……]
 Arbehess sintió el hechizo que emanaba del cuerpo de Henri."
-"Arbehess (talking)","っ……！！ こっ…これは……","This is ……!!!! This is ……","¡¡¡¡Esto es ……!!!! Esto… es ……"
-"Henri Pe (talking)","…………？","…………？","…………？"
-"Arbehess (talking)","アンリ……貴様…… 新たな魂を宿していたのか！！","Henri…… you…… have taken on a new soul!","¡Henri…… tú…… has tomado una nueva alma!"
-"Henri Pe (talking)","えっ……？","What, ……?","¿Qué, ……?"
-"Arbehess (talking)","くっ……誤算だった… まさか、お前との契約が、その 腹の子に引き継がれていたのか…？","Damn… I miscalculated… Don't tell me that your contract with him has been passed on to his baby…?","Maldito…… error de cálculo… ¿No me digas que tu contrato se ha pasado a ese bebé…?"
-"Henri Pe (talking)","私の……おなかの子……？ 私……
+Arbehess (talking),っ……！！ こっ…これは……,This is ……!!!! This is ……,¡¡¡¡Esto es ……!!!! Esto… es ……
+Henri Pe (talking),…………？,…………？,…………？
+Arbehess (talking),アンリ……貴様…… 新たな魂を宿していたのか！！,Henri…… you…… have taken on a new soul!,¡Henri…… tú…… has tomado una nueva alma!
+Henri Pe (talking),えっ……？,"What, ……?","¿Qué, ……?"
+Arbehess (talking),くっ……誤算だった… まさか、お前との契約が、その 腹の子に引き継がれていたのか…？,Damn… I miscalculated… Don't tell me that your contract with him has been passed on to his baby…?,Maldito…… error de cálculo… ¿No me digas que tu contrato se ha pasado a ese bebé…?
+Henri Pe (talking),"私の……おなかの子……？ 私……
 私…と……悪司の……","My…… tummy ……? I ……
 I… and…… of…… Akuji……","Mi…… barriga ……? I ……
 Yo… y mi…… Akuji……"
-"Arbehess (talking)","くっ……","Kuku……","Kuku……"
-"narrator","エルベヘスがひるんでいる。","Arbehess is flinching.","Arbehess se tambalea."
-"Henri Pe (talking)","悪司……
+Arbehess (talking),くっ……,Kuku……,Kuku……
+narrator,エルベヘスがひるんでいる。,Arbehess is flinching.,Arbehess se tambalea.
+Henri Pe (talking),"悪司……
 悪司…… この子の名前……何にしよう……？","Akuji……
 Akuji…… What should we name this child ……?","Akuji……
 Akuji…… ¿Cómo deberíamos llamar a este niño ……?"
-"__system__??","{RETURN = 1:","",""
-"__system__??","}","",""
-"__system__??","{RETURN = 2:","",""
-"__system__??","{RND \ 65535:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"Henri Pe (talking)","の代理として、母で ある私が命じる。悪魔エルベヘス。","I, the mother, command on behalf of the The Devil Arbehess.","Yo, la madre, ordeno en nombre del El Diablo Arbehess."
-"Henri Pe (talking)","の僕となれ！","Be me!","¡Sé yo del!"
-"Yamamoto Akuji (talking)","あ……ててて……","Ah…… tee tee ……","Ah…… tee……"
-"Henri Pe (talking)","悪司……大丈夫？","Akuji…… great husband?","¿Gran marido?"
-"Yamamoto Akuji (talking)","お前こそ…","You're the one…","Tú eres el único…"
-"Henri Pe (talking)","…………","…………","…………"
-"Yamamoto Akuji (talking)","……ぷっ……","……pff……","……pu……"
-"Henri Pe (talking)","………ふふふ……","……… fufu ……","……… ff……"
-"Yamamoto Akuji (talking)","やっと、笑ったな……","Finally, you laughed……","Por fin te ríes……"
-"Henri Pe (talking)","……っ……
+__system__??,{RETURN = 1:,,
+__system__??,},,
+__system__??,{RETURN = 2:,,
+__system__??,{RND \ 65535:,,
+__system__??,},,
+__system__??,},,
+Henri Pe (talking),の代理として、母で ある私が命じる。悪魔エルベヘス。,"I, the mother, command on behalf of the The Devil Arbehess.","Yo, la madre, ordeno en nombre del El Diablo Arbehess."
+Henri Pe (talking),の僕となれ！,Be me!,¡Sé yo del!
+Yamamoto Akuji (talking),あ……ててて……,Ah…… tee tee ……,Ah…… tee……
+Henri Pe (talking),悪司……大丈夫？,Akuji…… great husband?,¿Gran marido?
+Yamamoto Akuji (talking),お前こそ…,You're the one…,Tú eres el único…
+Henri Pe (talking),…………,…………,…………
+Yamamoto Akuji (talking),……ぷっ……,……pff……,……pu……
+Henri Pe (talking),………ふふふ……,……… fufu ……,……… ff……
+Yamamoto Akuji (talking),やっと、笑ったな……,"Finally, you laughed……",Por fin te ríes……
+Henri Pe (talking),"……っ……
  ……ごめん……なさい…
 私……魔女なの…… 私、どうしても、悪司と… 恋人になりたかったの…
 だから、薬を使って… それで悪司の意志を操作した……
@@ -1440,19 +1440,19 @@ So I drugged… and made Akuji's will Misao……
 Estoy…… lo siento…… ser …
 Soy una bruja de………… Realmente quería convertirme en la amante de Akuji…
 Así que usé una droga… e hice la voluntad de Akuji Misao…………… Lo siento mucho…"
-"Yamamoto Akuji (talking)","別に気にしちゃいねーよ。","I don't really care.","Realmente no me importa."
-"Henri Pe (talking)","………え？","……… What?","……… ¿Qué?"
-"Yamamoto Akuji (talking)","もーいいって。 気にすんな。
+Yamamoto Akuji (talking),別に気にしちゃいねーよ。,I don't really care.,Realmente no me importa.
+Henri Pe (talking),………え？,……… What?,……… ¿Qué?
+Yamamoto Akuji (talking),"もーいいって。 気にすんな。
 惚れた弱みだ。","It's okay. Don't worry about it.
 It's a weakness of love.","No pasa nada. No te preocupes.
 Es una debilidad del amor."
-"Henri Pe (talking)","っ………えっ……
+Henri Pe (talking),"っ………えっ……
 で、でも、その感情は、私の薬の…","~……… eh……
 So, but the feeling is that my meds…","No soy……… eh ……
 Entonces, pero la sensación es que mis medicamentos…"
-"Yamamoto Akuji (talking)","実を言うとよ。 俺も、嘘ついてたんだ。","To tell you the truth. I lied, too.","A decir verdad. Yo también estaba mintiendo."
-"Henri Pe (talking)","えっ…！？","What…!","¡Eh…!"
-"Yamamoto Akuji (talking)","戦地で薬、きちんと飲んでたって 言ってたじゃねぇか。
+Yamamoto Akuji (talking),実を言うとよ。 俺も、嘘ついてたんだ。,"To tell you the truth. I lied, too.",A decir verdad. Yo también estaba mintiendo.
+Henri Pe (talking),えっ…！？,What…!,¡Eh…!
+Yamamoto Akuji (talking),"戦地で薬、きちんと飲んでたって 言ってたじゃねぇか。
 あれ、嘘。
 あれな、最初の上陸作戦の時に 海に投げ出されちまって、ぜーんぶ 落としちまったんだ。
 でも俺はお前さんを好きでいた。 きっと、お前が魔法をかけようと かけまいと…
@@ -1465,17 +1465,17 @@ Eso fue una mentira.
 Verás, me tiraron por la borda durante el primer desembarco y lo perdí todo.
 Pero yo te quería. Estoy seguro de que, ya sea que lances un hechizo o no…
 Estoy seguro de que no importaba."
-"Henri Pe (talking)","悪司……","Akuji……","Akuji……"
-"Yamamoto Akuji (talking)","さーて、帰るか。 身奇麗にしたら、すぐ、結婚式だ。","Well, let's go home. As soon as I'm cleaned up, I'm going to a wedding.","Bueno, vamos a casa. En cuanto me limpie, me voy a una boda."
-"Henri Pe (talking)","……………うん！","…………… Yeah!","…………… ¡Sí!"
-"cg narrator","「それでは、褒美をやろう」","Then I will reward you.”","Entonces te recompensaré”."
-"__system__??","{I装備[37] \ 99:","",""
-"__system__??","}","",""
-"cg narrator","「それでは、ここから立ち去るといい……」","Then you can walk away from here: ……”","Entonces puedes irte de aquí……"
-"narrator","悪司は、ムッソリーニの外にいた。","Akuji was outside Mussolini.","Akuji estaba fuera de Mussolini."
-"Yamamoto Akuji (talking)","あ……","A……","A……"
-"narrator","悪司が出るのを待っていたかのように、 ムッソリーニは灰になって消えてしまった。","As if waiting for Akuji to come out, Mussolini vanished into ashes.","Como si esperara a que Akuji se fuera, Mussolini se desvaneció en cenizas."
-"cg narrator","「この女を助けたいというのか…」
+Henri Pe (talking),悪司……,Akuji……,Akuji……
+Yamamoto Akuji (talking),さーて、帰るか。 身奇麗にしたら、すぐ、結婚式だ。,"Well, let's go home. As soon as I'm cleaned up, I'm going to a wedding.","Bueno, vamos a casa. En cuanto me limpie, me voy a una boda."
+Henri Pe (talking),……………うん！,…………… Yeah!,…………… ¡Sí!
+cg narrator,「それでは、褒美をやろう」,Then I will reward you.”,Entonces te recompensaré”.
+__system__??,{I装備[37] \ 99:,,
+__system__??,},,
+cg narrator,「それでは、ここから立ち去るといい……」,Then you can walk away from here: ……”,Entonces puedes irte de aquí……
+narrator,悪司は、ムッソリーニの外にいた。,Akuji was outside Mussolini.,Akuji estaba fuera de Mussolini.
+Yamamoto Akuji (talking),あ……,A……,A……
+narrator,悪司が出るのを待っていたかのように、 ムッソリーニは灰になって消えてしまった。,"As if waiting for Akuji to come out, Mussolini vanished into ashes.","Como si esperara a que Akuji se fuera, Mussolini se desvaneció en cenizas."
+cg narrator,"「この女を助けたいというのか…」
  「では、聞こう。 　お前は、この女を愛しているという事か？ 　命を賭けてでも助けたいのか？」
  「…………いや…… 　俺にはもう、心に決めた人が……」
  「では、ここから立ち去るといい」","You want to help this woman…”
@@ -1485,122 +1485,122 @@ Then I suggest you walk away.","'Quieres ayudar a esta mujer…'
  'Bueno, déjame preguntarte esto. 　¿Amas a esta mujer? 　¿Quieres salvarla aunque te cueste la vida?”
  '………… No…… Ya tengo mi corazón puesto en alguien ……
 Entonces puedes irte de aquí."
-"narrator","悪司は、ムッソリーニの外にいた。","Akuji was outside Mussolini.","Akuji estaba fuera de Mussolini."
-"Yamamoto Akuji (talking)","あ……","A……","A……"
-"narrator","悪司が出るのを待っていたかのように、 ムッソリーニは灰になって消えてしまった。","As if waiting for Akuji to come out, Mussolini vanished into ashes.","Como si esperara a que Akuji se fuera, Mussolini se desvaneció en cenizas."
-"Yamamoto Akuji (talking)","つー訳で、俺の嫁さんのアンリだ。","So, this is my wife, Henri.","Esta es mi esposa, Henri."
-"Henri Pe (talking)","……っ………","…… and ………","…… y ………"
-"narrator","アンリは口ごもったまま、ぺこりと頭を下げた。","Henri remained tight-lipped and bowed her head flatly.","Henri permaneció con los labios apretados e inclinó la cabeza rotundamente."
-"Takega Satsu (talking)","……………","……………","……………"
-"Henri Pe (talking)","あ……","A……","A……"
-"Takega Satsu (talking)","どうやら、正攻法で落としたようだな。","Looks like you dropped the ball on the right foot.","Aparentemente, han dejado caer la pelota con el pie derecho."
-"Henri Pe (talking)","…………","…………","…………"
-"Takega Satsu (talking)","だったら、何も文句はない。","Then I have nothing to complain about.","Entonces no tengo nada de qué quejarme."
-"__system__??","{RND \ 0:","",""
-"Kanbara Yuuko (talking)","うふふ……あーくんの奥さん… あ~よかった…… これでひと安心…","Ufufu…… ah-kun's wife… ah~good… now that's a relief…","Ufufu…… la esposa de ah-kun… Oh, gracias a Dios…… esto es un alivio…"
-"__system__??","}","",""
-"__system__??","{RND \ 0:","",""
-"Oosugi Tsuyoshi (talking)","いたしかたないですな… 若の決めた事ですし……","I can't help it… it's the young man's decision……","No se puede evitar… fue la decisión del joven……"
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","あーそれと。
+narrator,悪司は、ムッソリーニの外にいた。,Akuji was outside Mussolini.,Akuji estaba fuera de Mussolini.
+Yamamoto Akuji (talking),あ……,A……,A……
+narrator,悪司が出るのを待っていたかのように、 ムッソリーニは灰になって消えてしまった。,"As if waiting for Akuji to come out, Mussolini vanished into ashes.","Como si esperara a que Akuji se fuera, Mussolini se desvaneció en cenizas."
+Yamamoto Akuji (talking),つー訳で、俺の嫁さんのアンリだ。,"So, this is my wife, Henri.","Esta es mi esposa, Henri."
+Henri Pe (talking),……っ………,…… and ………,…… y ………
+narrator,アンリは口ごもったまま、ぺこりと頭を下げた。,Henri remained tight-lipped and bowed her head flatly.,Henri permaneció con los labios apretados e inclinó la cabeza rotundamente.
+Takega Satsu (talking),……………,……………,……………
+Henri Pe (talking),あ……,A……,A……
+Takega Satsu (talking),どうやら、正攻法で落としたようだな。,Looks like you dropped the ball on the right foot.,"Aparentemente, han dejado caer la pelota con el pie derecho."
+Henri Pe (talking),…………,…………,…………
+Takega Satsu (talking),だったら、何も文句はない。,Then I have nothing to complain about.,Entonces no tengo nada de qué quejarme.
+__system__??,{RND \ 0:,,
+Kanbara Yuuko (talking),うふふ……あーくんの奥さん… あ~よかった…… これでひと安心…,Ufufu…… ah-kun's wife… ah~good… now that's a relief…,"Ufufu…… la esposa de ah-kun… Oh, gracias a Dios…… esto es un alivio…"
+__system__??,},,
+__system__??,{RND \ 0:,,
+Oosugi Tsuyoshi (talking),いたしかたないですな… 若の決めた事ですし……,I can't help it… it's the young man's decision……,No se puede evitar… fue la decisión del joven……
+__system__??,},,
+Yamamoto Akuji (talking),"あーそれと。
 こん中には、俺のガキがいるから。","Oh, and.
 I've got my kid in there.","Ah, y.
 Tengo a mi hijo ahí."
-"narrator","と、悪司はアンリの腹を指さした。","And Akuji pointed to Henri's belly.","Y Akuji señaló el vientre de Henri."
-"Takega Satsu (talking)","仕事の早い奴だ。","He's a fast worker.","Es un trabajador rápido."
-"__system__??","{RND \ 0:","",""
-"Kanbara Yuuko (talking)","きゃーーー！！","Kyaaa!","¡Kyaaa!"
-"__system__??","}","",""
-"__system__??","{RND \ 0:","",""
-"Oosugi Tsuyoshi (talking)","な、なんと…… もう、反対のしようがない……","Oh, my God,…… I can't disagree with you anymore: ……","Dios mío,…… no puedo estar más en desacuerdo contigo: ……"
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","つー訳で、これから三人、 よろしく頼むぜ。
+narrator,と、悪司はアンリの腹を指さした。,And Akuji pointed to Henri's belly.,Y Akuji señaló el vientre de Henri.
+Takega Satsu (talking),仕事の早い奴だ。,He's a fast worker.,Es un trabajador rápido.
+__system__??,{RND \ 0:,,
+Kanbara Yuuko (talking),きゃーーー！！,Kyaaa!,¡Kyaaa!
+__system__??,},,
+__system__??,{RND \ 0:,,
+Oosugi Tsuyoshi (talking),な、なんと…… もう、反対のしようがない……,"Oh, my God,…… I can't disagree with you anymore: ……","Dios mío,…… no puedo estar más en desacuerdo contigo: ……"
+__system__??,},,
+Yamamoto Akuji (talking),"つー訳で、これから三人、 よろしく頼むぜ。
 ほら、お前さんもなんか言え。","So, the three of you, from now on, I'm counting on you.
 Come on, say something.","Así que, a partir de ahora, los tres, cuento con vosotros.
 Vamos, di algo, tú también."
-"Henri Pe (talking)","はっ……はい…… ……おっ……お願い……します……","Ha…… yes………… oops…… please…… do……","Ha…… sí………… oops…… por favor…… hacer……"
-"Seinendan Jyoshi (talking)","悪司さん、これどうしましょう？","Akuji, what should I do with this?","Akuji, ¿qué debo hacer con esto?"
-"Yamamoto Akuji (talking)","おー、テキトーに任せるわ。","Oh, I'll leave it to the Texans.","Oh, se lo dejaré a los tejanos."
-"Seinendan Jyoshi (talking)","わかりました。 いつもの通りですね。","Understood. As usual.","Entendido. Como siempre."
-"Yamamoto Akuji (talking)","そーそー。","That's right.","Así que…"
-"narrator","彼女と入れ代わるように、 アンリが入ってきた。","She was replaced by Henri.","Fue sustituida por Henri."
-"Yamamoto Akuji (talking)","おう、どうした。","Oh, what's up.","Oh, qué pasa."
-"Henri Pe (talking)","私、悪司の部下になる…","I, Akuji, will be your man…","Yo, Akuji, seré tu hombre…"
-"Yamamoto Akuji (talking)","は？","Huh?","¿Ja?"
-"Henri Pe (talking)","決めたの…部下になるの… エルベヘスを使えば…私だって、戦える…","I've decided… to be your man… with Arbehess… even I can fight…","He decidido… convertirme en un subordinado… con Arbehess… incluso puedo luchar…"
-"Yamamoto Akuji (talking)","だけど、お前……","But you ……","Pero tú ……"
-"Henri Pe (talking)","…………決めたから……","………… because I decided to ……","………… porque he decidido ……"
-"Yamamoto Akuji (talking)","……………嘘……","…………… boo ……","…………… boo ……"
-"narrator","悪司はアンリの店で、食事をしていた。","Akuji was dining at Henri's restaurant.","Akuji estaba comiendo en el restaurante de Henri."
-"Yamamoto Akuji (talking)","うっ……うぐぐ……","Ugh…… ugg……","Ugh…… Ugh……"
-"Henri Pe (talking)","……美味しい…よね？","…… delicious…right?","…… Delicioso… ¿verdad?"
-"Yamamoto Akuji (talking)","そっ……それは……その……
+Henri Pe (talking),はっ……はい…… ……おっ……お願い……します……,Ha…… yes………… oops…… please…… do……,Ha…… sí………… oops…… por favor…… hacer……
+Seinendan Jyoshi (talking),悪司さん、これどうしましょう？,"Akuji, what should I do with this?","Akuji, ¿qué debo hacer con esto?"
+Yamamoto Akuji (talking),おー、テキトーに任せるわ。,"Oh, I'll leave it to the Texans.","Oh, se lo dejaré a los tejanos."
+Seinendan Jyoshi (talking),わかりました。 いつもの通りですね。,Understood. As usual.,Entendido. Como siempre.
+Yamamoto Akuji (talking),そーそー。,That's right.,Así que…
+narrator,彼女と入れ代わるように、 アンリが入ってきた。,She was replaced by Henri.,Fue sustituida por Henri.
+Yamamoto Akuji (talking),おう、どうした。,"Oh, what's up.","Oh, qué pasa."
+Henri Pe (talking),私、悪司の部下になる…,"I, Akuji, will be your man…","Yo, Akuji, seré tu hombre…"
+Yamamoto Akuji (talking),は？,Huh?,¿Ja?
+Henri Pe (talking),決めたの…部下になるの… エルベヘスを使えば…私だって、戦える…,I've decided… to be your man… with Arbehess… even I can fight…,He decidido… convertirme en un subordinado… con Arbehess… incluso puedo luchar…
+Yamamoto Akuji (talking),だけど、お前……,But you ……,Pero tú ……
+Henri Pe (talking),…………決めたから……,………… because I decided to ……,………… porque he decidido ……
+Yamamoto Akuji (talking),……………嘘……,…………… boo ……,…………… boo ……
+narrator,悪司はアンリの店で、食事をしていた。,Akuji was dining at Henri's restaurant.,Akuji estaba comiendo en el restaurante de Henri.
+Yamamoto Akuji (talking),うっ……うぐぐ……,Ugh…… ugg……,Ugh…… Ugh……
+Henri Pe (talking),……美味しい…よね？,…… delicious…right?,…… Delicioso… ¿verdad?
+Yamamoto Akuji (talking),"そっ……それは……その……
  ……………それより……
 結婚してくれよ。","That's…… that's…… that's ………………… than that……
 Marry me.","Que…… es…… que………………… que eso……
 Cásate conmigo."
-"Henri Pe (talking)","…………………","…………………","…………………"
-"Yamamoto Akuji (talking)","してくれ。","Do it.","Hazlo."
-"Henri Pe (talking)","……あ……お湯…沸いた……","……Ah…… hot water…boiled……","……Ah…… agua caliente… hervida……"
-"Yamamoto Akuji (talking)","…………く~…","…………Ku~…","………… ku~…"
-"Henri Pe (talking)","……………","……………","……………"
-"Henri Pe (talking)","これは奥様。 いらっしゃいませ…","This is Mrs. Welcome…","Esta es la señora… Bienvenido…"
-"Henri Pe (talking)","………これ……","……… this ……","……… este ……"
-"narrator","アンリは、タマネギにバイブを渡した。","Henri handed the vibrator to Tamanegi.","Henri le regaló a Tamanegi un vibrador."
-"Henri Pe (talking)","これは…？","Is this…?","¿Esto es…?"
-"Henri Pe (talking)","………作ったの… ……よかったら…使って…
+Henri Pe (talking),…………………,…………………,…………………
+Yamamoto Akuji (talking),してくれ。,Do it.,Hazlo.
+Henri Pe (talking),……あ……お湯…沸いた……,……Ah…… hot water…boiled……,……Ah…… agua caliente… hervida……
+Yamamoto Akuji (talking),…………く~…,…………Ku~…,………… ku~…
+Henri Pe (talking),……………,……………,……………
+Henri Pe (talking),これは奥様。 いらっしゃいませ…,This is Mrs. Welcome…,Esta es la señora… Bienvenido…
+Henri Pe (talking),………これ……,……… this ……,……… este ……
+narrator,アンリは、タマネギにバイブを渡した。,Henri handed the vibrator to Tamanegi.,Henri le regaló a Tamanegi un vibrador.
+Henri Pe (talking),これは…？,Is this…?,¿Esto es…?
+Henri Pe (talking),"………作ったの… ……よかったら…使って…
 調教効果抜群の、魔界バイブ…… 大事に使ってね……
  ……じゃあ……","I made………… …… if you like… use it…
 A great training effect, magical vibrator…… Take good care of it……
  ……Then ……","Hice………… …… si quieres… úsalo…
 Un gran efecto de entrenamiento, un vibrador mágico…… Cuídalo bien……
  ……Entonces ……"
-"Henri Pe (talking)","よい奥様をお持ちになりましたね。 若。","You have a good wife, Tane. Young.","Tienes una buena esposa Tane. Joven."
-"Henri Pe (talking)","……………こんにちわ…","……………Hello…","…………… Hola…"
-"Henri Pe (talking)","いらっしゃいませ、奥様。 この間はありがとうございました。 おかげで助かりました。","Welcome, ma'am. Thank you for the other day. It was a big help.","Bienvenida, señora. Gracias por el otro día. Gracias a ti, pudimos salvar el día."
-"Henri Pe (talking)","……………だったら… ……………これも…","If…………… was……………… this too…","Si…………… fuera……………… esto también…"
-"narrator","アンリはおずおずと、しかし誉められた為、 嬉しそうに薬の入った瓶をタマネギに渡した。","Henri reluctantly but happily handed the bottle of medicine to Tamanegi because of the praise.","Henri de mala gana pero felizmente entregó el frasco de medicina a Tamanegi por los elogios."
-"Henri Pe (talking)","これは？","What's this?","¿Qué es esto?"
-"Henri Pe (talking)","新しいの作ってきたの… いくいく薬……とっても淫乱になるの……","I've made a new one… I've made a new one… I've made a new one… I've made a new one… I'm going to be a very slutty ……","He hecho uno nuevo… He hecho uno nuevo… He hecho uno nuevo… He hecho uno nuevo… Voy a ser muy lascivo ……"
-"Henri Pe (talking)","ほう……それは、素晴らしい。","Law…… that's great.","Ley…… Eso es genial."
-"Henri Pe (talking)","でもね……一日に一回まで…… それ以上使うと死ぬから……","But you know what,…… you can only use it once a day…… because if you use it more than that, you'll die……","Pero sólo puedes usarlo…… una vez al día…… porque si lo usas más, morirás ……"
-"Henri Pe (talking)","わかりました。 薬は使用法を守って、使う主義ですので、 ご安心を…","I understand. I'm a firm believer in using medicines only as prescribed, so you can rest assured…","Lo entiendo. Soy un firme partidario de utilizar los medicamentos de acuerdo con su uso previsto, así que puede estar seguro de que…"
-"Henri Pe (talking)","………うん……じゃあ……
+Henri Pe (talking),よい奥様をお持ちになりましたね。 若。,"You have a good wife, Tane. Young.",Tienes una buena esposa Tane. Joven.
+Henri Pe (talking),……………こんにちわ…,……………Hello…,…………… Hola…
+Henri Pe (talking),いらっしゃいませ、奥様。 この間はありがとうございました。 おかげで助かりました。,"Welcome, ma'am. Thank you for the other day. It was a big help.","Bienvenida, señora. Gracias por el otro día. Gracias a ti, pudimos salvar el día."
+Henri Pe (talking),……………だったら… ……………これも…,If…………… was……………… this too…,Si…………… fuera……………… esto también…
+narrator,アンリはおずおずと、しかし誉められた為、 嬉しそうに薬の入った瓶をタマネギに渡した。,Henri reluctantly but happily handed the bottle of medicine to Tamanegi because of the praise.,Henri de mala gana pero felizmente entregó el frasco de medicina a Tamanegi por los elogios.
+Henri Pe (talking),これは？,What's this?,¿Qué es esto?
+Henri Pe (talking),新しいの作ってきたの… いくいく薬……とっても淫乱になるの……,I've made a new one… I've made a new one… I've made a new one… I've made a new one… I'm going to be a very slutty ……,He hecho uno nuevo… He hecho uno nuevo… He hecho uno nuevo… He hecho uno nuevo… Voy a ser muy lascivo ……
+Henri Pe (talking),ほう……それは、素晴らしい。,Law…… that's great.,Ley…… Eso es genial.
+Henri Pe (talking),でもね……一日に一回まで…… それ以上使うと死ぬから……,"But you know what,…… you can only use it once a day…… because if you use it more than that, you'll die……","Pero sólo puedes usarlo…… una vez al día…… porque si lo usas más, morirás ……"
+Henri Pe (talking),わかりました。 薬は使用法を守って、使う主義ですので、 ご安心を…,"I understand. I'm a firm believer in using medicines only as prescribed, so you can rest assured…","Lo entiendo. Soy un firme partidario de utilizar los medicamentos de acuerdo con su uso previsto, así que puede estar seguro de que…"
+Henri Pe (talking),"………うん……じゃあ……
 後でね……悪司……","……… yeah…… see you later……
 See you later……Akuji ……","……… si…… entonces……
 Hasta luego……Akuji ……"
-"Henri Pe (talking)","この薬…奥様に試されますか？","This medicine…would you like to try it on your wife?","Esta medicina… ¿le gustaría probarla con su esposa?"
-"Yamamoto Akuji (talking)","んなもん使わなくても…","You don't have to use that…","No tienes que usar eso…"
-"Henri Pe (talking)","そうでしたね…これは、失礼を。","Yes, you did Tane…excuse me for this.","Sí, lo hiciste, Tane… esto es, perdón."
-"__system__??","{■ = 0:","",""
-"__system__??","}","",""
-"__system__??","{■ \ 0:","",""
-"__system__??","{Bキャラ > 500:","",""
-"__system__??","}","",""
-"narrator","が、アンリの前に現れた。","appeared before Henri.","se presentó ante Henri."
-"narrator","は、もうこれ以上 奉仕青年団にいる事が出来ないと アンリに言った。","told Henri that he could not be in the Service Youth Group any longer.","le dijo a Henri que no podía seguir en el Cuerpo de Jóvenes de Servicio."
-" (talking)","………………
+Henri Pe (talking),この薬…奥様に試されますか？,This medicine…would you like to try it on your wife?,Esta medicina… ¿le gustaría probarla con su esposa?
+Yamamoto Akuji (talking),んなもん使わなくても…,You don't have to use that…,No tienes que usar eso…
+Henri Pe (talking),そうでしたね…これは、失礼を。,"Yes, you did Tane…excuse me for this.","Sí, lo hiciste, Tane… esto es, perdón."
+__system__??,{■ = 0:,,
+__system__??,},,
+__system__??,{■ \ 0:,,
+__system__??,{Bキャラ > 500:,,
+__system__??,},,
+narrator,が、アンリの前に現れた。,appeared before Henri.,se presentó ante Henri.
+narrator,は、もうこれ以上 奉仕青年団にいる事が出来ないと アンリに言った。,told Henri that he could not be in the Service Youth Group any longer.,le dijo a Henri que no podía seguir en el Cuerpo de Jóvenes de Servicio.
+ (talking),"………………
 エルベヘス。","………………
 Arbehess.","………………
 Arbehess."
-"Arbehess (talking)","はい、アンリ。","Yes, Henri.","Sí, Henri."
-"Henri Pe (talking)","の名前において命令。 悪司の事を信用するように魔法をかけて。","Command in the name of Akuji. Enchant me to trust Akuji.","Comando en nombre de Akuji. Encántame para confiar en Akuji."
-"Arbehess (talking)","はい、アンリ。
+Arbehess (talking),はい、アンリ。,"Yes, Henri.","Sí, Henri."
+Henri Pe (talking),の名前において命令。 悪司の事を信用するように魔法をかけて。,Command in the name of Akuji. Enchant me to trust Akuji.,Comando en nombre de Akuji. Encántame para confiar en Akuji.
+Arbehess (talking),"はい、アンリ。
 ダーダーダーダーダルダル……","Yes, Henri.
 Dah dah dah dah dah daldal……","Sí, Henri.
 Dah dah dah dah dah daldal……"
-"__system__??","{Bキャラ > 500:","",""
-"__system__??","} else {","",""
-"__system__??","}","",""
-"Henri Pe (talking)","悪司を裏切るなんて、許さない… 絶対に……","I will not allow you to betray Akuji… never……","No permitiré que traiciones a Akuji… nunca……"
-"__system__??","} else {","",""
-"Henri Pe (talking)","………………","………………","………………"
-"narrator","アンリはじっと、仕事をしている悪司を 見つめている。","Henri stares at Akuji, who is working.","Henri se queda mirando a Akuji, que está trabajando."
-"Yamamoto Akuji (talking)","お、どうした？ アンリ。","Oh, what's up? Henri.","¿Qué pasa? Henri."
-"Henri Pe (talking)","……………","……………","……………"
-"narrator","アンリは無言で悪司のそばに寄ると、 ぴたっと腕にくっついた。","Henri silently moved closer to Akuji and snuggled into his arms.","Henri se acercó en silencio a Akuji y se acurrucó en sus brazos."
-"Henri Pe (talking)","……………好き……","……………Like you……","……………Te quiero……"
-"narrator","そして、とことこと姿を消した。","Then he disappeared with a thump.","Luego desapareció con un golpe."
-"Yamamoto Akuji (talking)","……何、可愛い事してんだか…","…… What a cute thing to do…","…… Qué cosa más bonita…"
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","……………いくわよ… ……エルベヘス……… 悪司の敵は……私の…敵…","Let's go……………… ……Arbehess……… Akuji's enemies are…… my… enemies…","…………… Vamos… ……Arbehess………  Los enemigos de Akuji son…… mis… enemigos…"
+__system__??,{Bキャラ > 500:,,
+__system__??,} else {,,
+__system__??,},,
+Henri Pe (talking),悪司を裏切るなんて、許さない… 絶対に……,I will not allow you to betray Akuji… never……,No permitiré que traiciones a Akuji… nunca……
+__system__??,} else {,,
+Henri Pe (talking),………………,………………,………………
+narrator,アンリはじっと、仕事をしている悪司を 見つめている。,"Henri stares at Akuji, who is working.","Henri se queda mirando a Akuji, que está trabajando."
+Yamamoto Akuji (talking),お、どうした？ アンリ。,"Oh, what's up? Henri.",¿Qué pasa? Henri.
+Henri Pe (talking),……………,……………,……………
+narrator,アンリは無言で悪司のそばに寄ると、 ぴたっと腕にくっついた。,Henri silently moved closer to Akuji and snuggled into his arms.,Henri se acercó en silencio a Akuji y se acurrucó en sus brazos.
+Henri Pe (talking),……………好き……,……………Like you……,……………Te quiero……
+narrator,そして、とことこと姿を消した。,Then he disappeared with a thump.,Luego desapareció con un golpe.
+Yamamoto Akuji (talking),……何、可愛い事してんだか…,…… What a cute thing to do…,…… Qué cosa más bonita…
+__system__??,},,
+Yamamoto Akuji (talking),……………いくわよ… ……エルベヘス……… 悪司の敵は……私の…敵…,Let's go……………… ……Arbehess……… Akuji's enemies are…… my… enemies…,…………… Vamos… ……Arbehess………  Los enemigos de Akuji son…… mis… enemigos…

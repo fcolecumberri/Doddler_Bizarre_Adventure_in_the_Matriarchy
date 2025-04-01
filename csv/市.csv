@@ -1,65 +1,65 @@
-"character","jap text","Eng","Esp"
-"narrator","オオサカ市の中心から少し離れた所に、 行政の中枢機関である市議会がある。
+character,jap text,Eng,Esp
+narrator,"オオサカ市の中心から少し離れた所に、 行政の中枢機関である市議会がある。
 選挙による選ばれた市長を中心に １０名の議員と約７０名の公務員で 構成されている。","A short distance from the center of Osaka is the city council, the central administrative body of the city.
 The city council consists of an elected mayor, 10 council members, and about 70 civil servants.","A poca distancia del centro de Osaka se encuentra el ayuntamiento, que es el órgano central de gobierno.
 Está formado por un alcalde elegido, 10 concejales y unos 70 funcionarios."
-"shigikaishokuin (talking)","あ、おかえりなさい。 お務めごくろうさまです。 今日は、どうして出動したんですか？","Ah, welcome back. Thank you very much for your duty. Why did you go out today?","Ah, bienvenido de nuevo. Muchas gracias por su deber. ¿Por qué te has presentado hoy?"
-"chiankashokuin (talking)","ああ、ピーチマウンテンの要請で 重犯罪者を受け取りに行ってきたんだ。","Yeah, I went to pick up a felon at Peach Mountain's request.","Sí, fui a recibir a un delincuente a petición de Peach Mountain."
-"shigikaishokuin (talking)","またＰＭですか。
+shigikaishokuin (talking),あ、おかえりなさい。 お務めごくろうさまです。 今日は、どうして出動したんですか？,"Ah, welcome back. Thank you very much for your duty. Why did you go out today?","Ah, bienvenido de nuevo. Muchas gracias por su deber. ¿Por qué te has presentado hoy?"
+chiankashokuin (talking),ああ、ピーチマウンテンの要請で 重犯罪者を受け取りに行ってきたんだ。,"Yeah, I went to pick up a felon at Peach Mountain's request.","Sí, fui a recibir a un delincuente a petición de Peach Mountain."
+shigikaishokuin (talking),"またＰＭですか。
 そういえば最近、わかめ組からは そういった話をまったく聞かなく なりましたね。","Is it PM again?
 Come to think of it, I haven't heard anything like that from the Wakame group latelyTane.","¿Es otra vez la PM?
 Ahora que lo pienso, no hemos oído nada parecido del grupo Wakame recientemente Tane."
-"chiankashokuin (talking)","そうだな。 わかめ組の穴を補う為に作られた 奉仕青年団は、素人の集団だし……","Yes, it is. The Service Youth Group, created to fill the holes in the Wakame group, is a bunch of amateurs……","Sí. El Grupo de Jóvenes de Servicio se creó para llenar los huecos del grupo Wakame. Es un grupo de aficionados……"
-"narrator","　　［きぃーーーーーーー！！］","［Kiiiiiiiii!]","［Kiiiiiiiii!]"
-"chiankashokuin (talking)","なんだ、このガラスをひっかくような声を 出しているのは？","What's with the glass-scratching voice?","¿Qué es eso de la voz que rasca el cristal?"
-"narrator","二人が見た方で、別の職員が、 おばさんにつめよられていた。","They saw another staff member being chased by an aunt.","Se vio a dos personas, y otro miembro del personal fue manoseado por una tía."
-"ten'in (talking)","ちょっと、私のパンティが最近盗まれて 困っているのよ！！ さっさとなんとかしてよ！！","Hey, my panties have been stolen recently and I'm in trouble! Do something about it!","¡Oye, me han robado las bragas recientemente y estoy en problemas! ¡Haz algo al respecto ahora!"
-"shigikaishokuin (talking)","すみません、そういう件は、 地域管理組合の方へ……
+chiankashokuin (talking),そうだな。 わかめ組の穴を補う為に作られた 奉仕青年団は、素人の集団だし……,"Yes, it is. The Service Youth Group, created to fill the holes in the Wakame group, is a bunch of amateurs……",Sí. El Grupo de Jóvenes de Servicio se creó para llenar los huecos del grupo Wakame. Es un grupo de aficionados……
+narrator,　　［きぃーーーーーーー！！］,［Kiiiiiiiii!],［Kiiiiiiiii!]
+chiankashokuin (talking),なんだ、このガラスをひっかくような声を 出しているのは？,What's with the glass-scratching voice?,¿Qué es eso de la voz que rasca el cristal?
+narrator,二人が見た方で、別の職員が、 おばさんにつめよられていた。,They saw another staff member being chased by an aunt.,"Se vio a dos personas, y otro miembro del personal fue manoseado por una tía."
+ten'in (talking),ちょっと、私のパンティが最近盗まれて 困っているのよ！！ さっさとなんとかしてよ！！,"Hey, my panties have been stolen recently and I'm in trouble! Do something about it!","¡Oye, me han robado las bragas recientemente y estoy en problemas! ¡Haz algo al respecto ahora!"
+shigikaishokuin (talking),"すみません、そういう件は、 地域管理組合の方へ……
 えーと、あなたのお住まいの地域でしたら わかめ組が担当と……","I'm sorry, but you'll have to contact your local management association for that……
 Well, if it's in your area, the Wakame group is in charge and ……","Lo siento, pero vamos a tener que remitirle a la asociación de gestión local ……
 Bueno, si es en tu zona, la asociación Wakame se encarga y ……"
-"ten'in (talking)","だから、そのわかめ組がろくに 治安維持をしてくれないから 文句を言っているんだよ！","That's why I'm complaining that this wakame group isn't doing a good job of maintaining public safety!","Así que me quejo porque ese grupo de wakame no está haciendo un buen trabajo para mantener el orden público."
-"shigikaishokuin (talking)","はぁ……","Huh……","Huh……"
-"ten'in (talking)","地域管理組合を監督するのが市議会の 大事な仕事じゃないのかい、まったく！","Isn't it the city council's important job to oversee the local management association?","¿No es la importante labor del ayuntamiento supervisar a las asociaciones de gestión local?"
-"shigikaishokuin (talking)","は、はぁ……","Ha, ha ……","Ja, ja: ……"
-"chiankashokuin (talking)","言っているそばから、わかめ組に対しての クレームか。","Is this a complaint against the Wakame group?","Al mismo tiempo que lo dices, haces una denuncia contra el grupo Wakame."
-"shigikaishokuin (talking)","ＰＭと違って、わかめ組は今、 本当にひーひー状態なんですよ。","Unlike the PM, the Wakame group is in a really bad shape right now.","A diferencia de los PM, el grupo Wakame está ahora en un estado de salud realmente malo."
-"chiankashokuin (talking)","その分、ああやってこの市議会に クレームが入ると……","That's why when a complaint is made to this city council like that, ……","Por eso, cuando se hace una denuncia a este ayuntamiento así: ……"
-"shigikaishokuin (talking)","ほんと、しわ寄せって感じです。 困ったモンですよ、まったく…","It's really like a wrinkle. It's a real problem.","Es realmente como una arruga. Es un verdadero problema, realmente…"
-"narrator","朝、１１時……今日も沢山の市民が市議会を 訪れていた。","In the morning, at 11:00 a.m……, many citizens were visiting the City Council today.","Por la mañana, a las 11:00…… muchos ciudadanos visitaron hoy el Ayuntamiento."
-"shigikaishokuin (talking)","離婚の手続きですね。 えーと、はい、わかりました。","Divorce proceedings. Um, yes, I understand.","Procedimientos de divorcio. Um, sí, de acuerdo."
-"wakaishufu (talking)","よかった……これであの駄目亭主を 捨てる事が出来るわ。","Thank goodness…… now I can dump that no good husband of mine.","Gracias a Dios, ……, ahora puedo deshacerme de ese marido inútil."
-"shigikaishokuin (talking)","新しく実施された女性優遇政策により、 財産は貴女が９割で、旦那さんは １割の分配となります。
+ten'in (talking),だから、そのわかめ組がろくに 治安維持をしてくれないから 文句を言っているんだよ！,That's why I'm complaining that this wakame group isn't doing a good job of maintaining public safety!,Así que me quejo porque ese grupo de wakame no está haciendo un buen trabajo para mantener el orden público.
+shigikaishokuin (talking),はぁ……,Huh……,Huh……
+ten'in (talking),地域管理組合を監督するのが市議会の 大事な仕事じゃないのかい、まったく！,Isn't it the city council's important job to oversee the local management association?,¿No es la importante labor del ayuntamiento supervisar a las asociaciones de gestión local?
+shigikaishokuin (talking),は、はぁ……,"Ha, ha ……","Ja, ja: ……"
+chiankashokuin (talking),言っているそばから、わかめ組に対しての クレームか。,Is this a complaint against the Wakame group?,"Al mismo tiempo que lo dices, haces una denuncia contra el grupo Wakame."
+shigikaishokuin (talking),ＰＭと違って、わかめ組は今、 本当にひーひー状態なんですよ。,"Unlike the PM, the Wakame group is in a really bad shape right now.","A diferencia de los PM, el grupo Wakame está ahora en un estado de salud realmente malo."
+chiankashokuin (talking),その分、ああやってこの市議会に クレームが入ると……,"That's why when a complaint is made to this city council like that, ……","Por eso, cuando se hace una denuncia a este ayuntamiento así: ……"
+shigikaishokuin (talking),ほんと、しわ寄せって感じです。 困ったモンですよ、まったく…,It's really like a wrinkle. It's a real problem.,"Es realmente como una arruga. Es un verdadero problema, realmente…"
+narrator,朝、１１時……今日も沢山の市民が市議会を 訪れていた。,"In the morning, at 11:00 a.m……, many citizens were visiting the City Council today.","Por la mañana, a las 11:00…… muchos ciudadanos visitaron hoy el Ayuntamiento."
+shigikaishokuin (talking),離婚の手続きですね。 えーと、はい、わかりました。,"Divorce proceedings. Um, yes, I understand.","Procedimientos de divorcio. Um, sí, de acuerdo."
+wakaishufu (talking),よかった……これであの駄目亭主を 捨てる事が出来るわ。,Thank goodness…… now I can dump that no good husband of mine.,"Gracias a Dios, ……, ahora puedo deshacerme de ese marido inútil."
+shigikaishokuin (talking),"新しく実施された女性優遇政策により、 財産は貴女が９割で、旦那さんは １割の分配となります。
 詳しい事は、向こうの窓口の担当が 説明いたしますので、この番号札を持って 向こうにお願いします。","Due to the newly implemented women's preferential treatment policy, you will receive 90% of the property and your husband will receive 10%.
 The person in charge at the other end will explain the details, so please take this number card with you.","Según la nueva política de preferencia de las mujeres, tú recibirás el 90% de la propiedad y tu marido el 10%.
 La persona encargada al otro lado le explicará los detalles, así que lleve consigo esta tarjeta numérica."
-"wakaishufu (talking)","ホント、ありがたいわ。 ウィミィ様々だわ。","I really appreciate it. Wime is so diverse.","De verdad, gracias. Wime es un montón de cosas."
-"shigikaishokuin (thinking)","………俺達、男にはたまんねぇけどな… 差別だよ……ああ……","……… We, men, can't get enough of it, though… It's racist…… Oh, ……","……… Nosotros, los hombres, no nos cansamos, sin embargo… Es racista…… Oh, ……"
-"narrator","昼、１２時頃。 沢山の那古教信者が市議会にやってきていた。","Noon, around 12:00. Many Nakokyou followers came to the city council meeting.","Al mediodía, alrededor de las 12.00 horas. Muchos seguidores de Nakokyou habían acudido al Ayuntamiento."
-"nakokyou  otoko (talking)","我らの那古神様に、地域管理組合の 免許を交付しなさい。
+wakaishufu (talking),ホント、ありがたいわ。 ウィミィ様々だわ。,I really appreciate it. Wime is so diverse.,"De verdad, gracias. Wime es un montón de cosas."
+shigikaishokuin (thinking),………俺達、男にはたまんねぇけどな… 差別だよ……ああ……,"……… We, men, can't get enough of it, though… It's racist…… Oh, ……","……… Nosotros, los hombres, no nos cansamos, sin embargo… Es racista…… Oh, ……"
+narrator,昼、１２時頃。 沢山の那古教信者が市議会にやってきていた。,"Noon, around 12:00. Many Nakokyou followers came to the city council meeting.","Al mediodía, alrededor de las 12.00 horas. Muchos seguidores de Nakokyou habían acudido al Ayuntamiento."
+nakokyou  otoko (talking),"我らの那古神様に、地域管理組合の 免許を交付しなさい。
 そして、ナンバとウメダを 支配させるのです。","Grant our Nakojin a local management association license.
 And let him rule Namba and Umeda.","Conceder a nuestro Dios Nako una licencia para una asociación de gestión local.
 Y que gobierne Namba y Umeda."
-"shigikaishokuin (talking)","いえ、ナンバとウメダは、 わかめ組の管理地域でして……","No, Namba and Umeda are managed by Wakame group……","No, Namba y Umeda están gestionados por el Grupo Wakame……"
-"nakokyou  otoko (talking)","さっさとしなさい。 でないと、天罰が落ちますよ。
+shigikaishokuin (talking),いえ、ナンバとウメダは、 わかめ組の管理地域でして……,"No, Namba and Umeda are managed by Wakame group……","No, Namba y Umeda están gestionados por el Grupo Wakame……"
+nakokyou  otoko (talking),"さっさとしなさい。 でないと、天罰が落ちますよ。
 あなただけでなく、 あなたの家族にまで及びますよ。","Get on with it. If you don't, damnation will befall you.
 Not only you, but also your family will be punished.","Sigue con ello. De lo contrario, caerá la condena.
 No sólo en usted, sino también en su familia."
-"shigikaishokuin (talking)","いえ、だから……","No, so ……","No, así que ……"
-"nakokyou  otoko (talking)","わかめ組の連中でしたら、 ナンバ、ウメダを管理してはいません。","If you are a member of the Wakame group, you do not manage Namba and Umeda.","Si es miembro del grupo Wakame, no gestiona Namba ni Umeda."
-"shigikaishokuin (talking)","そうだとしても……","Even so, ……","Aun así: ……"
-"nakokyou  otoko (talking)","ですから、交付なさい。","Therefore, deliver.","Por lo tanto, entregar."
-"shigikaishokuin (talking)","ですから、地域管理組合の免許が……","So, the license of the regional management association is ……","Por lo tanto, la licencia de la asociación de gestión regional es ……"
-"shigikaishokuin (thinking)","あ~もう、こいつら、いつもいつも、 同じ事ばっか言いやがって…
+shigikaishokuin (talking),いえ、だから……,"No, so ……","No, así que ……"
+nakokyou  otoko (talking),わかめ組の連中でしたら、 ナンバ、ウメダを管理してはいません。,"If you are a member of the Wakame group, you do not manage Namba and Umeda.","Si es miembro del grupo Wakame, no gestiona Namba ni Umeda."
+shigikaishokuin (talking),そうだとしても……,"Even so, ……",Aun así: ……
+nakokyou  otoko (talking),ですから、交付なさい。,"Therefore, deliver.","Por lo tanto, entregar."
+shigikaishokuin (talking),ですから、地域管理組合の免許が……,"So, the license of the regional management association is ……","Por lo tanto, la licencia de la asociación de gestión regional es ……"
+shigikaishokuin (thinking),"あ~もう、こいつら、いつもいつも、 同じ事ばっか言いやがって…
 天罰って言葉も、何回聞かされたか… 落ちた事ないっつーの。 勘弁してくれよ、まったく~……
 ああ~~…腹減った~……","Oh, my God, they keep saying the same thing over and over again…
 How many times have I heard the word “damnation”… I've never fallen. Give me a break, for God's sake~……
 Oh~…I'm hungry~……","Dios mío, siguen diciendo lo mismo una y otra vez…
 Cuántas veces he escuchado la palabra “condenación”… Nunca he caído. Dame un respiro, por el amor de Dios~ ……
 Ohhhhh… Me muero de hambre~……"
-"Yamamoto Akuji (talking)","……………","……………","……………"
-"narrator","悪司は、椅子をギコギコと鳴らしながら 考え事をしている。","Akuji is thinking while jiggling his chair.","Akuji está pensando, moviendo su silla."
-"Yamamoto Akuji (thinking)","さーて、問題は、中途半端に善人な 市長のいる市議会だ。
+Yamamoto Akuji (talking),……………,……………,……………
+narrator,悪司は、椅子をギコギコと鳴らしながら 考え事をしている。,Akuji is thinking while jiggling his chair.,"Akuji está pensando, moviendo su silla."
+Yamamoto Akuji (thinking),"さーて、問題は、中途半端に善人な 市長のいる市議会だ。
 確か、あの市長さんの残り任期は ２年………
 うーん…… そんなにのんびりしたくねーなー…
 いっそ、消すか？
@@ -89,89 +89,89 @@ Entonces…… tienes que asegurarte de que el alcalde es alguien que te convien
 Eso significa…… que el actual ayuntamiento debe desaparecer.
 Hmmm… ……
  …………"
-"__system__??","{RND \ 0:","",""
-"Yamamoto Akuji (talking)","島本。","Shimamoto.","Shimamoto."
-"Shimamoto Jun (talking)","はい。","Yes.","Sí."
-"Yamamoto Akuji (talking)","今の市議会をぶっつぶす方法って、 なんか知ってるか？","You know what would destroy the current city council?","¿Sabes lo que destruiría al actual Ayuntamiento?"
-"Shimamoto Jun (talking)","どのような方法で？","In what way?","¿En qué sentido?"
-"Yamamoto Akuji (talking)","俺のいう事をきく都合のいい奴が 市長になって欲しいんだ。","I want a convenient man who listens to me to be mayor.","Quiero que sea alcalde un hombre conveniente que me escuche."
-"Shimamoto Jun (talking)","ありますよ。","Yes, there is.","Sí, lo hay."
-"Yamamoto Akuji (talking)","教えてくれや。","Tell me about it.","Dígame."
-"Shimamoto Jun (talking)","ニホン憲法１３条　第一項。
+__system__??,{RND \ 0:,,
+Yamamoto Akuji (talking),島本。,Shimamoto.,Shimamoto.
+Shimamoto Jun (talking),はい。,Yes.,Sí.
+Yamamoto Akuji (talking),今の市議会をぶっつぶす方法って、 なんか知ってるか？,You know what would destroy the current city council?,¿Sabes lo que destruiría al actual Ayuntamiento?
+Shimamoto Jun (talking),どのような方法で？,In what way?,¿En qué sentido?
+Yamamoto Akuji (talking),俺のいう事をきく都合のいい奴が 市長になって欲しいんだ。,I want a convenient man who listens to me to be mayor.,Quiero que sea alcalde un hombre conveniente que me escuche.
+Shimamoto Jun (talking),ありますよ。,"Yes, there is.","Sí, lo hay."
+Yamamoto Akuji (talking),教えてくれや。,Tell me about it.,Dígame.
+Shimamoto Jun (talking),"ニホン憲法１３条　第一項。
 現市議会がなんらかの理由により崩壊 した場合、選挙を行い、新市長を市民 から市民の手で選挙により選出する。
 この場合、現職役員の市議会維持不可を 職務放棄とみなし、任期途中であろうと その権利を剥奪する。","Article XIII, Section 1 of the NIHON Constitution.
 In the event of the collapse of the current city council for any reason, elections shall be held and a new mayor shall be elected by the citizens of the city by popular vote.
 In this case, the inability of the incumbent officers to maintain the City Council shall be considered a waiver of their duties and they shall be stripped of their rights, even if they are still in the middle of their term of office.","Artículo 13, párrafo 1 de la Constitución de NIHON.
 Si el actual ayuntamiento se desmorona por cualquier motivo, se celebrarán elecciones y los ciudadanos elegirán un nuevo alcalde por votación popular.
 En este caso, la incapacidad de los funcionarios titulares para mantener el ayuntamiento se considerará una renuncia a sus deberes y se les privará de sus derechos, aunque todavía estén en la mitad de su mandato."
-"Yamamoto Akuji (talking)","かみくだいて言うとー……","In a nutshell: ……","En pocas palabras: ……"
-"Shimamoto Jun (talking)","どういう理由であっても、市議会が なくなれば、役員から一掃出来ると いう事です。","For whatever reason, the elimination of the city council means that the board can be cleaned out.","Por la razón que sea, significa que una vez que el consejo de la ciudad se ha ido, pueden ser limpiados de la junta."
-"Yamamoto Akuji (talking)","どんな理由でもねー……","For whatever reason - ……","Por la razón que sea - ……"
-"Shimamoto Jun (talking)","はい。","Yes.","Sí."
-"Yamamoto Akuji (talking)","……………","……………","……………"
-"Shimamoto Jun (talking)","攻めますか？","Do you want to attack?","¿Quieres atacar?"
-"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
-"Shimamoto Jun (talking)","国相手の喧嘩ですと、懲罰警察が 出てくるかと。","If it is a fight with the state, I think the punitive police will come out.","Si se trata de una lucha contra el Estado, la policía te va a castigar."
-"Yamamoto Akuji (talking)","そいつらがくる前に、 事を片付けちまえばいいだけさ。","We just have to get this over with before they get here.","Sólo tenemos que hacer las cosas antes de que lleguen."
-"Shimamoto Jun (talking)","それでは、２週間ですね。","So, that's two weeks.","Entonces son dos semanas."
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"Shimamoto Jun (talking)","現市長の行動から推察して、 それが限界かと。","I would guess, based on the current mayor's actions, that's as far as it goes.","Del comportamiento del actual alcalde deduzco que ese es el límite."
-"Yamamoto Akuji (talking)","ふーん、２週間かー…","Hmmm, 2 weeks…","Hmm, dos semanas…"
-"__system__??","}","",""
-"__system__??","{RND = 0:","",""
-"Yamamoto Akuji (talking)","さっちゃん。","Sachan.","Sachan."
-"Takega Satsu (talking)","なんだ？","What is it?","¿Qué es?"
-"Yamamoto Akuji (talking)","今の市議会をぶっつぶす方法って、 なんか知ってるか？","You know what would destroy the current city council?","¿Sabes lo que destruiría al actual Ayuntamiento?"
-"Takega Satsu (talking)","殺せばいいではないか。 現職市長を。","Why don't we just Satsu? The incumbent mayor.","¿Por qué no Satsu? El alcalde en funciones."
-"Yamamoto Akuji (talking)","もっと、こっちに都合がきいて、 合法的な方がいいんだ。","I'd prefer something more convenient and legal.","Es más conveniente para nosotros, es más legal."
-"Takega Satsu (talking)","――ある。","There is a -- there is.","-- Lo hay."
-"Yamamoto Akuji (talking)","教えてくれや。","Tell me about it.","Dígame."
-"Takega Satsu (talking)","……………","……………","……………"
-"narrator","殺は、法律辞書を手にとると、パラパラと ページをめくり、ある項目を指差した。","Satsu picked up a legal dictionary, flipped through the pages, and pointed to an entry.","Satsu cogió un diccionario jurídico, hojeó las páginas y señaló una entrada."
-"Yamamoto Akuji (talking)","んんー？","Hmm?","¿Hmm?"
-"Takega Satsu (talking)","ニホン憲法１３条　第一項。
+Yamamoto Akuji (talking),かみくだいて言うとー……,In a nutshell: ……,En pocas palabras: ……
+Shimamoto Jun (talking),どういう理由であっても、市議会が なくなれば、役員から一掃出来ると いう事です。,"For whatever reason, the elimination of the city council means that the board can be cleaned out.","Por la razón que sea, significa que una vez que el consejo de la ciudad se ha ido, pueden ser limpiados de la junta."
+Yamamoto Akuji (talking),どんな理由でもねー……,For whatever reason - ……,Por la razón que sea - ……
+Shimamoto Jun (talking),はい。,Yes.,Sí.
+Yamamoto Akuji (talking),……………,……………,……………
+Shimamoto Jun (talking),攻めますか？,Do you want to attack?,¿Quieres atacar?
+Yamamoto Akuji (talking),ああ。,Oh.,Oh.
+Shimamoto Jun (talking),国相手の喧嘩ですと、懲罰警察が 出てくるかと。,"If it is a fight with the state, I think the punitive police will come out.","Si se trata de una lucha contra el Estado, la policía te va a castigar."
+Yamamoto Akuji (talking),そいつらがくる前に、 事を片付けちまえばいいだけさ。,We just have to get this over with before they get here.,Sólo tenemos que hacer las cosas antes de que lleguen.
+Shimamoto Jun (talking),それでは、２週間ですね。,"So, that's two weeks.",Entonces son dos semanas.
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+Shimamoto Jun (talking),現市長の行動から推察して、 それが限界かと。,"I would guess, based on the current mayor's actions, that's as far as it goes.",Del comportamiento del actual alcalde deduzco que ese es el límite.
+Yamamoto Akuji (talking),ふーん、２週間かー…,"Hmmm, 2 weeks…","Hmm, dos semanas…"
+__system__??,},,
+__system__??,{RND = 0:,,
+Yamamoto Akuji (talking),さっちゃん。,Sachan.,Sachan.
+Takega Satsu (talking),なんだ？,What is it?,¿Qué es?
+Yamamoto Akuji (talking),今の市議会をぶっつぶす方法って、 なんか知ってるか？,You know what would destroy the current city council?,¿Sabes lo que destruiría al actual Ayuntamiento?
+Takega Satsu (talking),殺せばいいではないか。 現職市長を。,Why don't we just Satsu? The incumbent mayor.,¿Por qué no Satsu? El alcalde en funciones.
+Yamamoto Akuji (talking),もっと、こっちに都合がきいて、 合法的な方がいいんだ。,I'd prefer something more convenient and legal.,"Es más conveniente para nosotros, es más legal."
+Takega Satsu (talking),――ある。,There is a -- there is.,-- Lo hay.
+Yamamoto Akuji (talking),教えてくれや。,Tell me about it.,Dígame.
+Takega Satsu (talking),……………,……………,……………
+narrator,殺は、法律辞書を手にとると、パラパラと ページをめくり、ある項目を指差した。,"Satsu picked up a legal dictionary, flipped through the pages, and pointed to an entry.","Satsu cogió un diccionario jurídico, hojeó las páginas y señaló una entrada."
+Yamamoto Akuji (talking),んんー？,Hmm?,¿Hmm?
+Takega Satsu (talking),"ニホン憲法１３条　第一項。
 現市議会がなんらかの理由により崩壊 した場合、選挙を行い、新市長を市民 から市民の手で選挙により選出する。
 この場合、現職役員の市議会維持不可を 職務放棄とみなし、任期途中であろうと その権利を剥奪する。","Article XIII, Section 1 of the NIHON Constitution.
 In the event of the collapse of the current city council for any reason, elections shall be held and a new mayor shall be elected by the citizens of the city by popular vote.
 In this case, the inability of the incumbent officers to maintain the City Council shall be considered a waiver of their duties and they shall be stripped of their rights, even if they are still in the middle of their term of office.","Artículo 13, párrafo 1 de la Constitución de NIHON.
 Si el actual ayuntamiento se desmorona por cualquier motivo, se celebrarán elecciones y los ciudadanos elegirán un nuevo alcalde por votación popular.
 En este caso, la incapacidad de los funcionarios titulares para mantener el ayuntamiento se considerará una renuncia a sus deberes y se les privará de sus derechos, aunque todavía estén en la mitad de su mandato."
-"Yamamoto Akuji (talking)","かみくだいて言うとー……","In a nutshell: ……","En pocas palabras: ……"
-"Takega Satsu (talking)","どういう理由でも、市議会がなくなれば 役立たずは市長をするなという事になり 選挙で別の者を市長にするという事か。","So, for whatever reason, if the city council is eliminated, the useless man will not be mayor, and they will elect someone else to be mayor.","Por la razón que sea, si el ayuntamiento desaparece, eso significa que un inútil no debe ser alcalde, y elegirán a otro para serlo."
-"Yamamoto Akuji (talking)","どんな理由でもねー……","For whatever reason - ……","Por la razón que sea - ……"
-"Takega Satsu (talking)","そうだ。","Yes, it is.","Sí."
-"Yamamoto Akuji (talking)","……………","……………","……………"
-"Takega Satsu (talking)","攻めるのか？","Are you going to attack?","¿Vas a pasar a la ofensiva?"
-"Yamamoto Akuji (talking)","ああ。","Oh.","Oh."
-"Takega Satsu (talking)","国相手とは、デカイ喧嘩だな。","It's a big fight against the country.","Es una gran lucha contra el Estado."
-"Yamamoto Akuji (talking)","それぐらいの喧嘩出来ねーんだったら キ×タマぶらさげてらんねーよ。","If you can't pick a fight like that, you can't hang your balls on the street.","Si no se puede elegir una pelea así, no se puede colgar las bolas de ki x en el suelo."
-"Takega Satsu (talking)","国相手の喧嘩では、懲罰警察が出てくる やもしれんぞ。","In a fight with the state, there might be a punitive police force.","En una pelea con el Estado, podría haber policía punitiva."
-"Yamamoto Akuji (talking)","そいつらがくる前に、 事を片付けちまえばいいだけさ。","We just have to get this over with before they get here.","Sólo tenemos que hacer las cosas antes de que lleguen."
-"Takega Satsu (talking)","２週間。","2 weeks.","2 semanas."
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"Takega Satsu (talking)","現市長の行動から推察して、 それが限界だろう。","That's about as far as we can go based on the current mayor's actions.","Ese sería el límite, deducido de las acciones del actual alcalde."
-"Yamamoto Akuji (talking)","ふーん、２週間かー…","Hmmm, 2 weeks…","Hmm, dos semanas…"
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","ふー……","Woo ……","Woo ……"
-"narrator","悪司はゆっくり、紫煙を吐き出した。
+Yamamoto Akuji (talking),かみくだいて言うとー……,In a nutshell: ……,En pocas palabras: ……
+Takega Satsu (talking),どういう理由でも、市議会がなくなれば 役立たずは市長をするなという事になり 選挙で別の者を市長にするという事か。,"So, for whatever reason, if the city council is eliminated, the useless man will not be mayor, and they will elect someone else to be mayor.","Por la razón que sea, si el ayuntamiento desaparece, eso significa que un inútil no debe ser alcalde, y elegirán a otro para serlo."
+Yamamoto Akuji (talking),どんな理由でもねー……,For whatever reason - ……,Por la razón que sea - ……
+Takega Satsu (talking),そうだ。,"Yes, it is.",Sí.
+Yamamoto Akuji (talking),……………,……………,……………
+Takega Satsu (talking),攻めるのか？,Are you going to attack?,¿Vas a pasar a la ofensiva?
+Yamamoto Akuji (talking),ああ。,Oh.,Oh.
+Takega Satsu (talking),国相手とは、デカイ喧嘩だな。,It's a big fight against the country.,Es una gran lucha contra el Estado.
+Yamamoto Akuji (talking),それぐらいの喧嘩出来ねーんだったら キ×タマぶらさげてらんねーよ。,"If you can't pick a fight like that, you can't hang your balls on the street.","Si no se puede elegir una pelea así, no se puede colgar las bolas de ki x en el suelo."
+Takega Satsu (talking),国相手の喧嘩では、懲罰警察が出てくる やもしれんぞ。,"In a fight with the state, there might be a punitive police force.","En una pelea con el Estado, podría haber policía punitiva."
+Yamamoto Akuji (talking),そいつらがくる前に、 事を片付けちまえばいいだけさ。,We just have to get this over with before they get here.,Sólo tenemos que hacer las cosas antes de que lleguen.
+Takega Satsu (talking),２週間。,2 weeks.,2 semanas.
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+Takega Satsu (talking),現市長の行動から推察して、 それが限界だろう。,That's about as far as we can go based on the current mayor's actions.,"Ese sería el límite, deducido de las acciones del actual alcalde."
+Yamamoto Akuji (talking),ふーん、２週間かー…,"Hmmm, 2 weeks…","Hmm, dos semanas…"
+__system__??,},,
+Yamamoto Akuji (talking),ふー……,Woo ……,Woo ……
+narrator,"悪司はゆっくり、紫煙を吐き出した。
 その悪司の後ろには部下達が揃っている。 皆、すぐにでも戦えるようになっていた。","Akuji slowly exhaled purple smoke.
 Behind Akuji were all his subordinates. They were all ready to fight at a moment's notice.","Akuji exhaló lentamente humo púrpura.
 Detrás de ese Akuji estaban todos sus subordinados. Todos estaban preparados para luchar en un momento dado."
-"Yamamoto Akuji (talking)","さーて、迅速丁寧にいくとしますか。","Well, let's be quick and polite.","Bueno, seamos rápidos y educados."
-"Takega Satsu (talking)","そうだな。 で、目的は市長でよいのか？","Yes. So, are you sure the objective is the mayor?","Sí. Entonces, ¿estás seguro de que quieres ser alcalde a propósito?"
-"Yamamoto Akuji (talking)","そーだな…それが最終目標だが…… その前に突破しなくちゃいけねーモンが ある。","Well… that's the ultimate goal…… But first, there's something we need to break through.","Bueno… ese es el objetivo final…… Pero primero tenemos que abrirnos paso."
-"Takega Satsu (talking)","？","？","？"
-"Yamamoto Akuji (talking)","治安課だ。","Security Division.","Sección de Seguridad."
-"Nakayama Akari (talking)","…………え？？？","………… What?","………… ¿Qué?"
-"shigikaishokuin (talking)","本当です！ 奉仕青年団と思われる集団が この市議会を攻撃してきています！","It's true! A group of supposed service youth groups are attacking this city council!","Es cierto. ¡Un grupo de supuestos grupos juveniles de servicio están atacando a este ayuntamiento!"
-"Nakayama Akari (talking)","……………
+Yamamoto Akuji (talking),さーて、迅速丁寧にいくとしますか。,"Well, let's be quick and polite.","Bueno, seamos rápidos y educados."
+Takega Satsu (talking),そうだな。 で、目的は市長でよいのか？,"Yes. So, are you sure the objective is the mayor?","Sí. Entonces, ¿estás seguro de que quieres ser alcalde a propósito?"
+Yamamoto Akuji (talking),そーだな…それが最終目標だが…… その前に突破しなくちゃいけねーモンが ある。,"Well… that's the ultimate goal…… But first, there's something we need to break through.",Bueno… ese es el objetivo final…… Pero primero tenemos que abrirnos paso.
+Takega Satsu (talking),？,？,？
+Yamamoto Akuji (talking),治安課だ。,Security Division.,Sección de Seguridad.
+Nakayama Akari (talking),…………え？？？,………… What?,………… ¿Qué?
+shigikaishokuin (talking),本当です！ 奉仕青年団と思われる集団が この市議会を攻撃してきています！,It's true! A group of supposed service youth groups are attacking this city council!,Es cierto. ¡Un grupo de supuestos grupos juveniles de servicio están atacando a este ayuntamiento!
+Nakayama Akari (talking),"……………
 ああ！ ほうけてる場合じゃないじゃない！
 も、森さんは！？ 治安課は……","……………
 Oh, no! This is no time to be carefree!
 What about Mori? The Security Division is ……","……………
  ¡¡¡Aaah!!! No es momento de ser perezoso.
  ¿Qué hay de Mori? La División de Seguridad es ……"
-"shigikaishokuin (talking)","森課長は、最前線で戦闘指揮を しております。 その森課長からの伝言です。
+shigikaishokuin (talking),"森課長は、最前線で戦闘指揮を しております。 その森課長からの伝言です。
 すぐに中央に連絡して懲罰警察の派遣を 依頼して下さい。
 以上！！
 さあ、市長、お願いします！","Chief Mori is a front-line combat commander. This is a message from Chief Mori.
@@ -181,44 +181,44 @@ Come on, Mayor, please!","El jefe Mori es un comandante de primera línea de com
 Póngase en contacto con la Central inmediatamente y pida el envío de la policía disciplinaria.
  ¡Eso es todo!
  ¡Vamos, Alcalde, por favor!"
-"narrator","職員は明里に電話を寄せた。","Staff called Akari.","El funcionario llamado Akari."
-"Nakayama Akari (talking)","………………","………………","………………"
-"shigikaishokuin (talking)","市長？","Mayor?","¿Alcalde?"
-"Nakayama Akari (talking)","懲罰警察…呼ばなきゃ駄目なぐらいに なっているのかしら…","I wonder if it's gotten to the point where we have to call in the Punitive Police…","Me pregunto si se ha llegado al punto de tener que llamar a la policía disciplinaria…"
-"shigikaishokuin (talking)","は？","Huh?","¿Ja?"
-"Nakayama Akari (talking)","だって…懲罰警察の人達って、 乱暴なんですもの… 殺人だって厭わないし…","Because… the punitive police are violent… even Satsu people are willing to…","Porque… la policía punitiva es violenta… incluso los Satsu están dispuestos a…"
-"shigikaishokuin (talking)","そんな事言っている場合ではないですよ！ これは、反乱なんですよ！？","This is not the time to say that! This is a revolt!","No es el momento de hablar de eso. ¡Esto es una revuelta!"
-"Nakayama Akari (talking)","……そうだわ！ 奉仕青年団の代表と話し合えないかしら？","…… Yes! Maybe we could talk to the head of the service youth group?","…… ¡Sí! ¿Podríamos hablar de ello con los representantes de la Organización Juvenil del Servicio?"
-"shigikaishokuin (talking)","はぁ？","Huh?","¿Eh?"
-"Nakayama Akari (talking)","確か、山本悪司君だったわよね？ 彼に連絡を先に取って…","I believe it was you, Yamamoto Akuji? I'll get in touch with him first…","Creo que fuiste tú, Yamamoto Akuji? Contacta con él primero…"
-"shigikaishokuin (talking)","そんな…","Oh no…","Tal…"
-"Nakayama Akari (talking)","そうだわ、それがいいわ。 だって、向こうだって無益な殺生は したくないはずですもの。","Yes, that's a good idea. Because I'm sure they don't want to have a futile Satsu life over there either.","Sí, eso sería bueno. Porque estoy seguro de que tampoco quieren tener una vida fútil Satsu allá."
-"shigikaishokuin (talking)","そんな余裕ないと思いますよ、 市長~…","I don't think we can afford it, Mr. Mayor~…","No creo que nos lo podamos permitir, alcalde…"
-"Nakayama Akari (talking)","ああ~ん……困ったわ… 困ったわ……
+narrator,職員は明里に電話を寄せた。,Staff called Akari.,El funcionario llamado Akari.
+Nakayama Akari (talking),………………,………………,………………
+shigikaishokuin (talking),市長？,Mayor?,¿Alcalde?
+Nakayama Akari (talking),懲罰警察…呼ばなきゃ駄目なぐらいに なっているのかしら…,I wonder if it's gotten to the point where we have to call in the Punitive Police…,Me pregunto si se ha llegado al punto de tener que llamar a la policía disciplinaria…
+shigikaishokuin (talking),は？,Huh?,¿Ja?
+Nakayama Akari (talking),だって…懲罰警察の人達って、 乱暴なんですもの… 殺人だって厭わないし…,Because… the punitive police are violent… even Satsu people are willing to…,Porque… la policía punitiva es violenta… incluso los Satsu están dispuestos a…
+shigikaishokuin (talking),そんな事言っている場合ではないですよ！ これは、反乱なんですよ！？,This is not the time to say that! This is a revolt!,No es el momento de hablar de eso. ¡Esto es una revuelta!
+Nakayama Akari (talking),……そうだわ！ 奉仕青年団の代表と話し合えないかしら？,…… Yes! Maybe we could talk to the head of the service youth group?,…… ¡Sí! ¿Podríamos hablar de ello con los representantes de la Organización Juvenil del Servicio?
+shigikaishokuin (talking),はぁ？,Huh?,¿Eh?
+Nakayama Akari (talking),確か、山本悪司君だったわよね？ 彼に連絡を先に取って…,"I believe it was you, Yamamoto Akuji? I'll get in touch with him first…","Creo que fuiste tú, Yamamoto Akuji? Contacta con él primero…"
+shigikaishokuin (talking),そんな…,Oh no…,Tal…
+Nakayama Akari (talking),そうだわ、それがいいわ。 だって、向こうだって無益な殺生は したくないはずですもの。,"Yes, that's a good idea. Because I'm sure they don't want to have a futile Satsu life over there either.","Sí, eso sería bueno. Porque estoy seguro de que tampoco quieren tener una vida fútil Satsu allá."
+shigikaishokuin (talking),そんな余裕ないと思いますよ、 市長~…,"I don't think we can afford it, Mr. Mayor~…","No creo que nos lo podamos permitir, alcalde…"
+Nakayama Akari (talking),"ああ~ん……困ったわ… 困ったわ……
 森さん、頑張って… あなたがいなくなってしまったら、 ここは、あっという間に占拠されちゃう…","Ohhhh…… I'm in trouble… I'm in trouble ……
 Mori, hang in there… this place will be taken over in no time once you're gone…","Ohhhh…… Estoy en problemas… Estoy en problemas ……
 Buena suerte, Mori… este lugar será tomado en poco tiempo cuando te vayas…"
-"narrator","既に、迎撃準備を整えた薫とその部下は、 市議会の玄関前で待機していた。","Already ready to intercept, Kaoru and his men were waiting at the entrance of the city council.","Ya listos para interceptar, Kaoru y sus hombres esperaban en la entrada del Ayuntamiento."
-"Mori Kaoru (thinking)","市長に、懲罰警察の依頼を要請したが、 あのお人好しは恐らく、そのような連絡を すぐにつける勇気はないだろう…
+narrator,既に、迎撃準備を整えた薫とその部下は、 市議会の玄関前で待機していた。,"Already ready to intercept, Kaoru and his men were waiting at the entrance of the city council.","Ya listos para interceptar, Kaoru y sus hombres esperaban en la entrada del Ayuntamiento."
+Mori Kaoru (thinking),"市長に、懲罰警察の依頼を要請したが、 あのお人好しは恐らく、そのような連絡を すぐにつける勇気はないだろう…
 だとしたら… その時がくるまで、ここをなんとか 私の部隊で死守するしかない。
  ……どこまで、耐える事が出来るのか…","I've asked the mayor for a punitive police action, but I doubt the softy will dare to make such a call anytime soon.
 If that's the case… I have no choice but to defend this place with my troops until that time comes.
 I wonder how much more…… I can endure…","He pedido al alcalde una acción policial punitiva, pero ese blandengue probablemente no tendrá el valor de hacer esa llamada tan pronto…
 Si ese es el caso… hasta que llegue ese momento, tendré que defender este lugar de alguna manera con mis tropas.…… Me pregunto cuánto tiempo más podremos aguantar…"
-"chiankashokuin (talking)","きました！ 奉仕青年団です！！","Here we are! It's the Service Youth Group!","¡Ya estamos aquí! ¡Es el Grupo Juvenil de Servicio!"
-"Mori Kaoru (talking)","全員、戦闘体勢！！ 遠慮なく、闘うとしよう。","Everyone, battle stance! Let's fight, without reservation.","¡Todo el mundo, posición de batalla! Sin reservas, luchemos."
-"chiankashokuin (talking)","はい、課長！！","Yes, Chief!","¡Sí, jefe!"
-"narrator","薫は自分の銃を手に取った。","Kaoru picked up his gun.","Kaoru recogió su arma."
-"Mori Kaoru (talking)","構え！！","Get ready!","¡Prepárate!"
-"narrator","薫の声に合わせ、治安課職員が動く。","The Security Division staff moves in response to Kaoru's voice.","Los funcionarios de la División de Seguridad se mueven en respuesta a la voz de Kaoru."
-"Mori Kaoru (talking)","行くぞっ！！","Let's go!","¡Vamos!"
-"Nakayama Akari (talking)","………………
- ……ふう…","…………………… Search…","…………………… Buscar…"
-"narrator","明里は手にしていた受話器を元に戻した。
+chiankashokuin (talking),きました！ 奉仕青年団です！！,Here we are! It's the Service Youth Group!,¡Ya estamos aquí! ¡Es el Grupo Juvenil de Servicio!
+Mori Kaoru (talking),全員、戦闘体勢！！ 遠慮なく、闘うとしよう。,"Everyone, battle stance! Let's fight, without reservation.","¡Todo el mundo, posición de batalla! Sin reservas, luchemos."
+chiankashokuin (talking),はい、課長！！,"Yes, Chief!","¡Sí, jefe!"
+narrator,薫は自分の銃を手に取った。,Kaoru picked up his gun.,Kaoru recogió su arma.
+Mori Kaoru (talking),構え！！,Get ready!,¡Prepárate!
+narrator,薫の声に合わせ、治安課職員が動く。,The Security Division staff moves in response to Kaoru's voice.,Los funcionarios de la División de Seguridad se mueven en respuesta a la voz de Kaoru.
+Mori Kaoru (talking),行くぞっ！！,Let's go!,¡Vamos!
+Nakayama Akari (talking),"………………
+ ……ふう…",…………………… Search…,…………………… Buscar…
+narrator,"明里は手にしていた受話器を元に戻した。
 取っては置き、取っては置き。 こんな往復行動を、朝から何度しているか、 わからない。","Akari put the receiver back in his hand.
 She picked it up, put it down, picked it up, put it down. I don't know how many times I've done this back and forth since this morning.","Akari volvió a poner el auricular en su mano.
 Lo levantó, lo dejó, lo levantó, lo dejó. No sé cuántas veces he hecho esto de ida y vuelta desde esta mañana."
-"Nakayama Akari (thinking)","ん~……甘いと言われても、駄目だわ、 やっぱり… 懲罰警察には抵抗があるわ……
+Nakayama Akari (thinking),"ん~……甘いと言われても、駄目だわ、 やっぱり… 懲罰警察には抵抗があるわ……
 あの人達、草むしりするみたいに、 人を殺すんだもん… そんなの見たくないわよ…
  ……悪司君… 考え改めてくんないかしら…
 市長の私に叱られたって事で、済む間に 攻撃やめて欲しいなーもー…","Hmmm……… call me naive, but no, I still… I'm not comfortable with the punishment police……
@@ -228,100 +228,100 @@ I wish you'd stop attacking me while you can get away with being scolded by me, 
 Ellos Satsu a la gente como si fueran cortadores de hierba… No quiero ver eso…
  ……Akuji, espero que cambies de opinión…
 Me gustaría que dejaras de atacarme mientras puedas salirte con la tuya, el alcalde…"
-"Nakayama Taeko (talking)","お母さん…わたし達、どうなるの？ 怖い…こんな事って……","Mom…what will happen to us? I'm scared…this can't happen……","Madre… ¿qué nos pasará? Tengo miedo… de que esto esté pasando……"
-"Nakayama Akari (talking)","多恵子ちゃん……もう大丈夫よ…","Taeko chan…… you're safe now…","Taekochan…… Está bien ahora…"
-"Nakayama Taeko (talking)","え……？","What, ……?","¿Qué? ……?"
-"Nakayama Akari (talking)","懲罰警察の人達に連絡したの… もうすぐ、こちらにつくと思うわ。","I've contacted the Disciplinary Police people… they should be here any minute now.","He contactado con la gente de la Policía Disciplinaria… Creo que llegarán pronto."
-"Nakayama Taeko (talking)","お母さん、それって…","Mom, is that…","Madre, es que…"
-"Nakayama Akari (talking)","…これ以上… 奉仕青年団の好きにさせて おけないの…
+Nakayama Taeko (talking),お母さん…わたし達、どうなるの？ 怖い…こんな事って……,Mom…what will happen to us? I'm scared…this can't happen……,Madre… ¿qué nos pasará? Tengo miedo… de que esto esté pasando……
+Nakayama Akari (talking),多恵子ちゃん……もう大丈夫よ…,Taeko chan…… you're safe now…,Taekochan…… Está bien ahora…
+Nakayama Taeko (talking),え……？,"What, ……?",¿Qué? ……?
+Nakayama Akari (talking),懲罰警察の人達に連絡したの… もうすぐ、こちらにつくと思うわ。,I've contacted the Disciplinary Police people… they should be here any minute now.,He contactado con la gente de la Policía Disciplinaria… Creo que llegarán pronto.
+Nakayama Taeko (talking),お母さん、それって…,"Mom, is that…","Madre, es que…"
+Nakayama Akari (talking),"…これ以上… 奉仕青年団の好きにさせて おけないの…
  ……お母さんも、こういうやり方、 好きでないけど…","I can't let the service youth group do what they want any longer……… mom doesn't like this kind of thing either, but…","No puedo dejar que la Organización Juvenil de Servicios haga lo que quiera……… A tu madre tampoco le gustan este tipo de cosas, pero…"
-"Nakayama Taeko (talking)","……お母さん…
+Nakayama Taeko (talking),"……お母さん…
 大丈夫…この事で、お母さんが悪人って 他人から言われるような事になっても、 わたし、お母さんの事、大好きだよ…","……Mom…
 Don't worry… even if this makes other people think you're a bad person, I love you, Mom…","…… Mamá…
 No te preocupes… aunque esto haga que los demás piensen que eres una mala persona, te quiero, mamá…"
-"Nakayama Akari (talking)","多恵子ちゃん……","Taekochan ……","Taekochan ……"
-"Yamamoto Akuji (talking)","よーし、邪魔者は片付いた。 後は市長だ。 行くぞ！","All right, the obstacles have been cleared. All that's left is the mayor. Let's go!","Muy bien, los obstáculos han sido despejados. Sólo queda el alcalde. ¡Vamos!"
-"narrator","悪司達は、市議会ビルの中に入った。","Akuji and his team entered the city council building.","Akuji y sus compañeros entraron en el edificio del Ayuntamiento."
-"shigikaishokuin (talking)","な、なんなんですか、あなた達は！","What, what are you guys!","¿Qué, qué son ustedes?"
-"Yamamoto Akuji (talking)","市長に用だ。 通してもらうぞ。","I'm here to see the mayor. Let him through.","Estoy aquí por el alcalde. Te dejaré pasar."
-"shigikaishokuin (talking)","そ、そんな、困ります！ 帰って……","Oh, no, no, I can't help you! Go home: ……","¡Oh, no, no, no puedo ayudar! Volver a casa: ……"
-"Yamamoto Akuji (talking)","悪いな。","Sorry.","Mal."
-"narrator","　　［どかっっっっ］","[clattering]","[bang]"
-"shigikaishokuin (talking)","うっ…！！","Ugh…!","¡Uf…!"
-"narrator","悪司は職員の後頭部を殴り、気絶させた。","Akuji struck the staff member in the back of the head, knocking him unconscious.","Akuji dio un puñetazo en la nuca a un miembro del personal, dejándolo inconsciente."
-"Yamamoto Akuji (talking)","さーて、こっちか。","Well, this way.","Bueno, por aquí."
-"narrator","悪司達は市長室に入った。","Akuji and his team entered the mayor's office.","Akuji y su equipo entraron en el despacho del alcalde."
-"Nakayama Akari (talking)","あなたは、悪司君！？","You are Akuji you!","¡Eres Akuji tú!"
-"Yamamoto Akuji (talking)","どーも。","Hi, how are you?","Doh."
-"Nakayama Akari (talking)","ひょっとして、占拠されてしまったと いう事？","Are you saying that it has been occupied, by any chance?","¿Significa esto que han sido ocupados, por casualidad?"
-"Yamamoto Akuji (talking)","そーいう事で。","That's what I'm talking about.","Así que."
-"Nakayama Akari (talking)","困ったわ… あの…森さん、見なかった？ こんな時はどうすれば…","I'm in trouble… Um… Mori, have you seen me? What should I do in a case like this…","Estoy en problemas… Um… Mori, ¿me has visto? ¿Qué hago en una situación como ésta…"
-"Yamamoto Akuji (talking)","市長さん。","Mr. Mayor.","Sr. Alcalde."
-"Nakayama Akari (talking)","は、はい？","Huh, yes?","Ja, ¿sí?"
-"Yamamoto Akuji (talking)","悪いけど、少しの間、 行方不明になっててくれ。","I'm sorry, but you're going to have to go missing for a while.","Lo siento, pero vas a tener que desaparecer por un tiempo."
-"Nakayama Akari (talking)","え？","Huh?","¿Eh?"
-"Yamamoto Akuji (talking)","連れて行け。","Take them.","Llévatelos."
-"Nakayama Akari (talking)","えーーー？？？？","Ehhhhh ？？？？","Ehhhh ？？？？"
-"Elite Yakuza (talking)","それでは、地下室に…","Now, to the basement…","Ahora, a la bodega…"
-"Yamamoto Akuji (talking)","おう、頼んだぜ。","Oh, I'm counting on you.","Oh, te estoy preguntando."
-" (talking)","困ったわ~~~。 どうしましょ~~。","I'm in trouble~~. What shall I do~~?","Estoy en problemas~~. ¿Qué debo hacer?"
-"narrator","明里は悪司の部下によって、移送された。","Akari was transferred by Akuji's men.","Akari fue trasladado por los hombres de Akuji."
-"Yamamoto Akuji (talking)","さーて、これで邪魔な市長は いなくなったっと…","Well, now that the mayor is out of the way…","Bueno, ahora que hemos sacado al alcalde del camino…"
-"Takega Satsu (talking)","後は、新しい市長を用意する事と… そして、自首する者を選択だな。","Now all that's left is to get a new mayor… and choose one who will turn himself in.","Ahora sólo queda conseguir un nuevo alcalde… y elegir a los que se entregarán."
-"Yamamoto Akuji (talking)","そーだな。","I guess so.","Sí."
-"narrator","どの部下を人身御供にしますか？","Which of your men would you like to humanize?","¿A cuál de tus hombres te gustaría sacrificar?"
-"__system__??","{RND < 4:","",""
-"__system__??","}","",""
-"__system__??","{(B地域 = 8) * (D09 \ 6):","",""
-"__system__??","{D09 = 1:","",""
-"__system__??","}","",""
-"__system__??","{D09 = 2:","",""
-"__system__??","}","",""
-"__system__??","{D09 = 3:","",""
-"__system__??","}","",""
-"__system__??","{D09 = 4:","",""
-"__system__??","}","",""
-"__system__??","{D09 = 5:","",""
-"__system__??","}","",""
-"__system__??","{D09 = 6:","",""
-"__system__??","}","",""
-"narrator","（","（","（"
-"narrator","）","）","）"
-"__system__??","}","",""
-"__system__??","{D09 = 1:","",""
-"__system__??","}","",""
-"__system__??","{D09 = 2:","",""
-"__system__??","}","",""
-"__system__??","{D09 = 3:","",""
-"__system__??","}","",""
-"__system__??","{D09 = 4:","",""
-"__system__??","}","",""
-"__system__??","{D09 = 5:","",""
-"__system__??","}","",""
-"__system__??","{D09 = 6:","",""
-"__system__??","}","",""
-"__system__??","{D09 = 7:","",""
-"__system__??","}","",""
-"__system__??","{D09 = 8:","",""
-"__system__??","}","",""
-"__system__??","{D09 = 9:","",""
-"__system__??","}","",""
-"__system__??","{D09 = 10:","",""
-"__system__??","}","",""
-"__system__??","{Bキャラ = 1:","",""
-"Takega Satsu (talking)","馬鹿者。 お前が自首してどうする。","Idiot. What's wrong with you turning yourself in?","Idiota. ¿Qué hay de malo en que te entregues?"
-"__system__??","}","",""
-"__system__??","{Bキャラ = 37:","",""
-"Takega Satsu (talking)","ほほう。","Hohoho.","Hoho."
-"Yamamoto Akuji (talking)","ジョーダンだってばさー。","It's Jordan, you know.","Es Jordan, ya sabes."
-"__system__??","}","",""
-"__system__??","{Bキャラ = 36:","",""
-"Takega Satsu (talking)","あーくん……","Ah-kun ……","Ah-kun: ……"
-"Yamamoto Akuji (talking)","嘘です。","It's a lie.","Mentiras."
-"__system__??","}","",""
-"__system__??","{Bキャラ > 500:","",""
-"__system__??","}","",""
-"Yamamoto Akuji (talking)","んじゃまー、悪いけど、自首してくんな。 筋書きはこうだ。
+Nakayama Akari (talking),多恵子ちゃん……,Taekochan ……,Taekochan ……
+Yamamoto Akuji (talking),よーし、邪魔者は片付いた。 後は市長だ。 行くぞ！,"All right, the obstacles have been cleared. All that's left is the mayor. Let's go!","Muy bien, los obstáculos han sido despejados. Sólo queda el alcalde. ¡Vamos!"
+narrator,悪司達は、市議会ビルの中に入った。,Akuji and his team entered the city council building.,Akuji y sus compañeros entraron en el edificio del Ayuntamiento.
+shigikaishokuin (talking),な、なんなんですか、あなた達は！,"What, what are you guys!","¿Qué, qué son ustedes?"
+Yamamoto Akuji (talking),市長に用だ。 通してもらうぞ。,I'm here to see the mayor. Let him through.,Estoy aquí por el alcalde. Te dejaré pasar.
+shigikaishokuin (talking),そ、そんな、困ります！ 帰って……,"Oh, no, no, I can't help you! Go home: ……","¡Oh, no, no, no puedo ayudar! Volver a casa: ……"
+Yamamoto Akuji (talking),悪いな。,Sorry.,Mal.
+narrator,　　［どかっっっっ］,[clattering],[bang]
+shigikaishokuin (talking),うっ…！！,Ugh…!,¡Uf…!
+narrator,悪司は職員の後頭部を殴り、気絶させた。,"Akuji struck the staff member in the back of the head, knocking him unconscious.","Akuji dio un puñetazo en la nuca a un miembro del personal, dejándolo inconsciente."
+Yamamoto Akuji (talking),さーて、こっちか。,"Well, this way.","Bueno, por aquí."
+narrator,悪司達は市長室に入った。,Akuji and his team entered the mayor's office.,Akuji y su equipo entraron en el despacho del alcalde.
+Nakayama Akari (talking),あなたは、悪司君！？,You are Akuji you!,¡Eres Akuji tú!
+Yamamoto Akuji (talking),どーも。,"Hi, how are you?",Doh.
+Nakayama Akari (talking),ひょっとして、占拠されてしまったと いう事？,"Are you saying that it has been occupied, by any chance?","¿Significa esto que han sido ocupados, por casualidad?"
+Yamamoto Akuji (talking),そーいう事で。,That's what I'm talking about.,Así que.
+Nakayama Akari (talking),困ったわ… あの…森さん、見なかった？ こんな時はどうすれば…,"I'm in trouble… Um… Mori, have you seen me? What should I do in a case like this…","Estoy en problemas… Um… Mori, ¿me has visto? ¿Qué hago en una situación como ésta…"
+Yamamoto Akuji (talking),市長さん。,Mr. Mayor.,Sr. Alcalde.
+Nakayama Akari (talking),は、はい？,"Huh, yes?","Ja, ¿sí?"
+Yamamoto Akuji (talking),悪いけど、少しの間、 行方不明になっててくれ。,"I'm sorry, but you're going to have to go missing for a while.","Lo siento, pero vas a tener que desaparecer por un tiempo."
+Nakayama Akari (talking),え？,Huh?,¿Eh?
+Yamamoto Akuji (talking),連れて行け。,Take them.,Llévatelos.
+Nakayama Akari (talking),えーーー？？？？,Ehhhhh ？？？？,Ehhhh ？？？？
+Elite Yakuza (talking),それでは、地下室に…,"Now, to the basement…","Ahora, a la bodega…"
+Yamamoto Akuji (talking),おう、頼んだぜ。,"Oh, I'm counting on you.","Oh, te estoy preguntando."
+ (talking),困ったわ~~~。 どうしましょ~~。,I'm in trouble~~. What shall I do~~?,Estoy en problemas~~. ¿Qué debo hacer?
+narrator,明里は悪司の部下によって、移送された。,Akari was transferred by Akuji's men.,Akari fue trasladado por los hombres de Akuji.
+Yamamoto Akuji (talking),さーて、これで邪魔な市長は いなくなったっと…,"Well, now that the mayor is out of the way…","Bueno, ahora que hemos sacado al alcalde del camino…"
+Takega Satsu (talking),後は、新しい市長を用意する事と… そして、自首する者を選択だな。,Now all that's left is to get a new mayor… and choose one who will turn himself in.,Ahora sólo queda conseguir un nuevo alcalde… y elegir a los que se entregarán.
+Yamamoto Akuji (talking),そーだな。,I guess so.,Sí.
+narrator,どの部下を人身御供にしますか？,Which of your men would you like to humanize?,¿A cuál de tus hombres te gustaría sacrificar?
+__system__??,{RND < 4:,,
+__system__??,},,
+__system__??,{(B地域 = 8) * (D09 \ 6):,,
+__system__??,{D09 = 1:,,
+__system__??,},,
+__system__??,{D09 = 2:,,
+__system__??,},,
+__system__??,{D09 = 3:,,
+__system__??,},,
+__system__??,{D09 = 4:,,
+__system__??,},,
+__system__??,{D09 = 5:,,
+__system__??,},,
+__system__??,{D09 = 6:,,
+__system__??,},,
+narrator,（,（,（
+narrator,）,）,）
+__system__??,},,
+__system__??,{D09 = 1:,,
+__system__??,},,
+__system__??,{D09 = 2:,,
+__system__??,},,
+__system__??,{D09 = 3:,,
+__system__??,},,
+__system__??,{D09 = 4:,,
+__system__??,},,
+__system__??,{D09 = 5:,,
+__system__??,},,
+__system__??,{D09 = 6:,,
+__system__??,},,
+__system__??,{D09 = 7:,,
+__system__??,},,
+__system__??,{D09 = 8:,,
+__system__??,},,
+__system__??,{D09 = 9:,,
+__system__??,},,
+__system__??,{D09 = 10:,,
+__system__??,},,
+__system__??,{Bキャラ = 1:,,
+Takega Satsu (talking),馬鹿者。 お前が自首してどうする。,Idiot. What's wrong with you turning yourself in?,Idiota. ¿Qué hay de malo en que te entregues?
+__system__??,},,
+__system__??,{Bキャラ = 37:,,
+Takega Satsu (talking),ほほう。,Hohoho.,Hoho.
+Yamamoto Akuji (talking),ジョーダンだってばさー。,"It's Jordan, you know.","Es Jordan, ya sabes."
+__system__??,},,
+__system__??,{Bキャラ = 36:,,
+Takega Satsu (talking),あーくん……,Ah-kun ……,Ah-kun: ……
+Yamamoto Akuji (talking),嘘です。,It's a lie.,Mentiras.
+__system__??,},,
+__system__??,{Bキャラ > 500:,,
+__system__??,},,
+Yamamoto Akuji (talking),"んじゃまー、悪いけど、自首してくんな。 筋書きはこうだ。
 お前が俺を裏切って独立部隊で 市議会を攻めた。
 俺達は、後から追ってお前を捕まえて 治安課に引き渡す。 わかったな。
 帰ってきたらよ、いい思いさせてやっから それまで辛抱してくんな。","Well, I'm sorry, but you're going to have to turn yourself in. Here's how it's going to go down.
@@ -331,47 +331,47 @@ When I get back, I'll give you a good time, so just bear with me until then.","B
 Me traicionaste y atacaste al ayuntamiento con una unidad independiente.
 Te seguiremos, te atraparemos y te entregaremos a los servicios de seguridad. ¿Entiendes?
 Cuando vuelva, te haré pasar un buen rato, así que ten paciencia hasta entonces."
-"narrator","こうして悪司は、市議会を制圧した。","Thus Akuji overpowered the city council.","Así, Akuji tomó el control del ayuntamiento."
-"Yamamoto Akuji (talking)","ん~~~………
+narrator,こうして悪司は、市議会を制圧した。,Thus Akuji overpowered the city council.,"Así, Akuji tomó el control del ayuntamiento."
+Yamamoto Akuji (talking),"ん~~~………
 よし、お前だ。 犯人顔のお前が行け。","Hmmm~~~………
 Okay, you. You, the killer face, go.","Mmm~~~………
 Bien, tú. Tú, la cara asesina, vete."
-"Chinpira (talking)","えっ！？ 俺っすか？","What? Is it me?","¿Qué? ¿Soy yo?"
-"Yamamoto Akuji (talking)","んじゃまー、悪いけど、自首してくんな。 筋書きはこうだ。
+Chinpira (talking),えっ！？ 俺っすか？,What? Is it me?,¿Qué? ¿Soy yo?
+Yamamoto Akuji (talking),"んじゃまー、悪いけど、自首してくんな。 筋書きはこうだ。
 お前が俺を裏切って独立部隊で 市議会を攻めた。
 俺達は、後から追ってお前を捕まえて 治安課に引き渡す。 わかったな。","Well, I'm sorry, but you're going to have to turn yourself in. Here's how it's going to go down.
 You betray me and attack the city council with an independent unit.
 We'll come after you, grab you, and hand you over to the security division. Understood?","Bueno, lo siento, pero vas a tener que entregarte. Esta es la trama.
 Me traicionaste y atacaste al ayuntamiento con una unidad independiente.
 Te seguiremos, te atraparemos y te entregaremos a los servicios de seguridad. ¿Entendido?"
-"Chinpira (talking)","しかたないっすねー…","I can't help it…","No puedo evitarlo…"
-"Yamamoto Akuji (talking)","わりぃな。 帰ってきたらよ、いい思いさせてやっから それまで辛抱してくんな。","Sorry about that. I'll give you a good time when I get back, so please be patient until then.","Lo siento. Cuando vuelva, te haré pasar un buen rato, así que ten paciencia hasta entonces."
-"Chinpira (talking)","ういーす。","Uuisu.","Uuis."
-"narrator","こうして悪司は、市議会を制圧した。","Thus Akuji overpowered the city council.","Así, Akuji tomó el control del ayuntamiento."
-"Nakayama Taeko (talking)","はー、おなかいっぱーい。 さすが、ＰＭ。 すごいごちそうだったねー。","Ha, I'm so hungry. As expected of PM. It was a great feast Tane .","Ja, estoy lleno. Como se esperaba de la PM. Fue una gran fiesta Tane ."
-"narrator","多恵子は、ソファの上に躰を投げ出した。","Taeko threw her body on the sofa.","Taeko arrojó su cuerpo sobre el sofá."
-"Nakayama Akari (talking)","これ、お行儀の悪い。","This, misbehaving.","Esto, mal hecho."
-"Nakayama Taeko (talking)","あ、行儀悪いって言えばさ、一人で中央の ケーキの生クリーム、指で舐め続けている 男の人がいたよ。","Speaking of bad manners, there was a man who kept licking the whipped cream off the center of the cake with his fingers.","Ah, hablando de mal comportamiento, había un tipo que no paraba de lamer la crema del pastel central con los dedos."
-"Nakayama Akari (talking)","あら、そんな人が。","Oh, my, someone like that.","Oh, mi, tal persona."
-"Nakayama Taeko (talking)","うわ、すっごい事してるなーと思ったん だけど、幸せそーだったから、 ほっといたんだ……
+Chinpira (talking),しかたないっすねー…,I can't help it…,No puedo evitarlo…
+Yamamoto Akuji (talking),わりぃな。 帰ってきたらよ、いい思いさせてやっから それまで辛抱してくんな。,"Sorry about that. I'll give you a good time when I get back, so please be patient until then.","Lo siento. Cuando vuelva, te haré pasar un buen rato, así que ten paciencia hasta entonces."
+Chinpira (talking),ういーす。,Uuisu.,Uuis.
+narrator,こうして悪司は、市議会を制圧した。,Thus Akuji overpowered the city council.,"Así, Akuji tomó el control del ayuntamiento."
+Nakayama Taeko (talking),はー、おなかいっぱーい。 さすが、ＰＭ。 すごいごちそうだったねー。,"Ha, I'm so hungry. As expected of PM. It was a great feast Tane .","Ja, estoy lleno. Como se esperaba de la PM. Fue una gran fiesta Tane ."
+narrator,多恵子は、ソファの上に躰を投げ出した。,Taeko threw her body on the sofa.,Taeko arrojó su cuerpo sobre el sofá.
+Nakayama Akari (talking),これ、お行儀の悪い。,"This, misbehaving.","Esto, mal hecho."
+Nakayama Taeko (talking),あ、行儀悪いって言えばさ、一人で中央の ケーキの生クリーム、指で舐め続けている 男の人がいたよ。,"Speaking of bad manners, there was a man who kept licking the whipped cream off the center of the cake with his fingers.","Ah, hablando de mal comportamiento, había un tipo que no paraba de lamer la crema del pastel central con los dedos."
+Nakayama Akari (talking),あら、そんな人が。,"Oh, my, someone like that.","Oh, mi, tal persona."
+Nakayama Taeko (talking),"うわ、すっごい事してるなーと思ったん だけど、幸せそーだったから、 ほっといたんだ……
 しばらくしたら、その辺りで騒ぎが 起こってたんだけど…","I thought, “Wow, he's doing a great job,” but he seemed happy, so I left him alone……
 After a while, there was a commotion going on around there…","Pensé: “Vaya, está haciendo un gran trabajo”, pero parecía feliz, así que lo dejé en paz……
 Al cabo de un rato, se armó un revuelo por allí, y…"
-"Nakayama Akari (talking)","え、そうなの！？","Oh, really!","¡Oh, sí!"
-"Nakayama Taeko (talking)","……知らないの？","Don't you know ……?","¿No conoces ……?"
-"Nakayama Akari (talking)","ええ…… 私、その頃、何してたのかしら… 多恵子ちゃん、知ってる？","Yeah…… I wonder what I was doing back then… Taeko, do you know?","Sí…… Me pregunto qué hacía entonces… Taeko, ¿lo sabes?"
-"Nakayama Taeko (talking)","わたしが知ってる訳ないでしょ……","How would I know? ……","¿Cómo voy a saberlo? ……"
-"Nakayama Akari (talking)","え……？","What, ……?","¿Qué? ……?"
-"shigikaishokuin (talking)","も、もう一度、報告します……
+Nakayama Akari (talking),え、そうなの！？,"Oh, really!","¡Oh, sí!"
+Nakayama Taeko (talking),……知らないの？,Don't you know ……?,¿No conoces ……?
+Nakayama Akari (talking),ええ…… 私、その頃、何してたのかしら… 多恵子ちゃん、知ってる？,"Yeah…… I wonder what I was doing back then… Taeko, do you know?","Sí…… Me pregunto qué hacía entonces… Taeko, ¿lo sabes?"
+Nakayama Taeko (talking),わたしが知ってる訳ないでしょ……,How would I know? ……,¿Cómo voy a saberlo? ……
+Nakayama Akari (talking),え……？,"What, ……?",¿Qué? ……?
+shigikaishokuin (talking),"も、もう一度、報告します……
 奉仕青年団がＰＭに戦闘を仕掛けました…
 そして、ＰＭからの報告なんですが、 戦闘に巻き込まれて市民が２名が 重傷との事です……","Also, once again, I report ……
 The youth service members have engaged the PM in combat…
 And I have a report from the PM that two civilians were seriously wounded in the fighting: ……","también, una vez más, informa ……
 La Organización de la Juventud del Servicio se ha comprometido con la PM en el combate…
 Y la PM informa que dos civiles fueron gravemente heridos en los combates……"
-"Nakayama Akari (talking)","………………","………………","………………"
-"shigikaishokuin (talking)","…市長……","…Mayor: ……","…Alcalde: ……"
-"Nakayama Akari (talking)","悪司君…… そこまで頭の悪い子だと 思わなかったわ……
+Nakayama Akari (talking),………………,………………,………………
+shigikaishokuin (talking),…市長……,…Mayor: ……,…Alcalde: ……
+Nakayama Akari (talking),"悪司君…… そこまで頭の悪い子だと 思わなかったわ……
  ……こんな事…… 私に命令させないでよ……
  ………でも……約束した事だし… 被害が出てる……
  ……悪司君も… 覚悟の上という事と 判断するしかないわね…","Akuji you…… I didn't think you were that dumb……
@@ -379,92 +379,92 @@ Don't make me order you to…… do this…………… but…… I made a promi
  ……Akuji You too… we'll just have to take that as a sign that you're prepared to…","Akuji tú…… no pensé que fueras tan estúpido……
 No me hagas ordenar que…… haga esto…………… pero…… hice una promesa… y el daño está hecho……
  ……AkujiTú también… tendremos que tomarlo como una señal de que estás preparado para…"
-"shigikaishokuin (talking)","あ、あの、市長……","Oh, um, Mayor ……","Oh, um, alcalde ……"
-"Nakayama Akari (talking)","ああ、ごめんなさい……
+shigikaishokuin (talking),あ、あの、市長……,"Oh, um, Mayor ……","Oh, um, alcalde ……"
+Nakayama Akari (talking),"ああ、ごめんなさい……
  ………
 森さんを……呼んで。","Oh, sorry……
  ………
 Call Mori at …….","Oh, lo siento……
  ………
 Llama a Mori a ……."
-"shigikaishokuin (talking)","は、はい……","is, yes ……","Ja, sí ……"
-"Mori Kaoru (talking)","私の方にも報告が入りました。 山本悪司率いる奉仕青年団の件ですね。","I have received a report on my end. It's about the service youth group led by Yamamoto Akuji.","He recibido un informe por mi parte. Te refieres al grupo juvenil de servicio dirigido por Yamamoto Akuji."
-"Nakayama Akari (talking)","………その通りよ……","……… that's right……","……… Exactamente……"
-"Nakayama Akari (talking)","……森さん… 懲罰警察の出動を依頼します。","……Mori… I request that the disciplinary police be dispatched.","……Mori… Solicito el envío de la policía disciplinaria."
-"Mori Kaoru (talking)","――わかりました。","--I understand - I understand.","- Lo entiendo."
-"Nakayama Akari (talking)","……出来れば…こんな事になる前に、 なんとかしたかったのに…","I wish I could have……… done something about it before this happened…","…… Ojalá hubiera podido… hacer algo al respecto antes de que sucediera…"
-"Mori Kaoru (talking)","市長は努力なさいました。 それをどう受け止めるかは、 本人の責任です。","The mayor has made an effort. It is up to the individual to decide how he or she accepts it.","El alcalde ha hecho un esfuerzo. Es usted quien decide cómo quiere aceptarlo."
-"Nakayama Akari (talking)","………ありがとう……","……… Thank you ……","……… Gracias ……"
-"Mori Kaoru (talking)","いえ。
+shigikaishokuin (talking),は、はい……,"is, yes ……","Ja, sí ……"
+Mori Kaoru (talking),私の方にも報告が入りました。 山本悪司率いる奉仕青年団の件ですね。,I have received a report on my end. It's about the service youth group led by Yamamoto Akuji.,He recibido un informe por mi parte. Te refieres al grupo juvenil de servicio dirigido por Yamamoto Akuji.
+Nakayama Akari (talking),………その通りよ……,……… that's right……,……… Exactamente……
+Nakayama Akari (talking),……森さん… 懲罰警察の出動を依頼します。,……Mori… I request that the disciplinary police be dispatched.,……Mori… Solicito el envío de la policía disciplinaria.
+Mori Kaoru (talking),――わかりました。,--I understand - I understand.,- Lo entiendo.
+Nakayama Akari (talking),……出来れば…こんな事になる前に、 なんとかしたかったのに…,I wish I could have……… done something about it before this happened…,…… Ojalá hubiera podido… hacer algo al respecto antes de que sucediera…
+Mori Kaoru (talking),市長は努力なさいました。 それをどう受け止めるかは、 本人の責任です。,The mayor has made an effort. It is up to the individual to decide how he or she accepts it.,El alcalde ha hecho un esfuerzo. Es usted quien decide cómo quiere aceptarlo.
+Nakayama Akari (talking),………ありがとう……,……… Thank you ……,……… Gracias ……
+Mori Kaoru (talking),"いえ。
 このような事になるのは、 本人もわかっていたはずでしょう。
 それが傲りなのか、本当にその実力が あったのか、本人が試される時です。 市長が気に病む事ではないです。","No, I don't think he knew this was going to happen.
 He must have known this would happen.
 It is time for him to be tested to see if it was arrogance or if he really had the ability to do so. It is not something for the mayor to worry about.","No, no.
 Debía saber que esto pasaría.
 Es hora de que se le ponga a prueba para ver si se trata de arrogancia o si realmente tiene capacidad para hacerlo. No es algo de lo que deba preocuparse el alcalde."
-"Nakayama Akari (talking)","……そうなんだけどね… でも……つらいわ……","……I know… but…… it's hard ……","…… Lo sé… pero…… es difícil ……"
-"Nakayama Akari (talking)","何、これ。","What, this.","Qué, esto."
-"shigikaishokuin (talking)","書類……ですが……","Documents…… but ……","Documentos…… pero ……"
-"Nakayama Akari (talking)","それはわかってるわ。 この量は、一体何事なの！！？？","I know that. What the hell is going on with this amount!","Lo sé. ¿Qué demonios pasa con esta cantidad?"
-"shigikaishokuin (talking)","奉仕青年団とＰＭの抗争についての 被害届けです……","Here's a damage report on the war between the service youth group and PM: ……","Informe de daños en la guerra entre la Organización de Jóvenes de Servicio y la PM……"
-"Nakayama Akari (talking)","……………うそ~……","…………… lie~……","…………… lie~……"
-"shigikaishokuin (talking)","いえ、本当です……","No, it's true: ……","No, es cierto: ……"
-"Nakayama Akari (talking)","あ~~ったまいた~~い…… も~~……こんなに人を困らせて 嬉しい訳~~？
+Nakayama Akari (talking),……そうなんだけどね… でも……つらいわ……,……I know… but…… it's hard ……,…… Lo sé… pero…… es difícil ……
+Nakayama Akari (talking),何、これ。,"What, this.","Qué, esto."
+shigikaishokuin (talking),書類……ですが……,Documents…… but ……,Documentos…… pero ……
+Nakayama Akari (talking),それはわかってるわ。 この量は、一体何事なの！！？？,I know that. What the hell is going on with this amount!,Lo sé. ¿Qué demonios pasa con esta cantidad?
+shigikaishokuin (talking),奉仕青年団とＰＭの抗争についての 被害届けです……,Here's a damage report on the war between the service youth group and PM: ……,Informe de daños en la guerra entre la Organización de Jóvenes de Servicio y la PM……
+Nakayama Akari (talking),……………うそ~……,…………… lie~……,…………… lie~……
+shigikaishokuin (talking),いえ、本当です……,"No, it's true: ……","No, es cierto: ……"
+Nakayama Akari (talking),"あ~~ったまいた~~い…… も~~……こんなに人を困らせて 嬉しい訳~~？
 ど~して、喧嘩なんかするかな~……","Ah~~tamai~ai~…… Moo~~…… why do you get so much pleasure out of annoying people~?
 Why do we have to fight? ……","Ah~tamaitai~ai~…… también~…… ¿por qué estás tan feliz de molestar a la gente tanto~?
  ¿Por qué tenemos que luchar? ……"
-"Nakayama Taeko (talking)","おかーさーん。 頼まれてた頭痛薬持ってきたわよー。","Hey, Okasan. I brought the headache medicine you asked for.","Okasan. Traje la medicina para el dolor de cabeza que pediste."
-"Nakayama Akari (talking)","あ~…ありがと。 多恵子ちゃん。","Ahhh…thanks. Taeko.","Ahhh… gracias. Taeko."
-"Nakayama Taeko (talking)","それにしても大変な事になってるね。 管理組合同士が争ってるから、みんな 安心して過ごせないし。","But still, it's a very serious situation, isn't it? The management association is fighting with each other, so people can't spend their time in peace.","Pero aun así, es una situación difícil. Las asociaciones de gestión se pelean entre sí, por lo que la gente no se siente segura."
-"Nakayama Akari (talking)","わかってるわよ~…… それをなんとかしようと してんじゃないの~。","I know~…… I'm not trying to do anything about that~.","Lo sé -…… ¡No intento hacer nada al respecto!"
-"Nakayama Taeko (talking)","お母さん……大変だね……","I'm sorry your mom is having a hard time…… ……","Las madres…… lo tienen difícil ……"
-"Nakayama Akari (talking)","そーーよー……","Soooo… ……","Soyo: ……"
-"Nakayama Taeko (talking)","でも、わたしも市長の娘だからってさー… クラスの子達が、なんとかしろって、 わたしに言ってくるんだよー…
+Nakayama Taeko (talking),おかーさーん。 頼まれてた頭痛薬持ってきたわよー。,"Hey, Okasan. I brought the headache medicine you asked for.",Okasan. Traje la medicina para el dolor de cabeza que pediste.
+Nakayama Akari (talking),あ~…ありがと。 多恵子ちゃん。,Ahhh…thanks. Taeko.,Ahhh… gracias. Taeko.
+Nakayama Taeko (talking),それにしても大変な事になってるね。 管理組合同士が争ってるから、みんな 安心して過ごせないし。,"But still, it's a very serious situation, isn't it? The management association is fighting with each other, so people can't spend their time in peace.","Pero aun así, es una situación difícil. Las asociaciones de gestión se pelean entre sí, por lo que la gente no se siente segura."
+Nakayama Akari (talking),わかってるわよ~…… それをなんとかしようと してんじゃないの~。,I know~…… I'm not trying to do anything about that~.,Lo sé -…… ¡No intento hacer nada al respecto!
+Nakayama Taeko (talking),お母さん……大変だね……,I'm sorry your mom is having a hard time…… ……,Las madres…… lo tienen difícil ……
+Nakayama Akari (talking),そーーよー……,Soooo… ……,Soyo: ……
+Nakayama Taeko (talking),"でも、わたしも市長の娘だからってさー… クラスの子達が、なんとかしろって、 わたしに言ってくるんだよー…
 わたしが何とか出来るんだったら、 さっさとしてるってゆーのっっ。","But just because I'm the mayor's daughter too… the kids in my class keep telling me to do something about it…
 If I could do something about it, I would have done it right away!","Pero sólo porque soy la hija del alcalde también… los niños de mi clase me dicen que haga algo al respecto…
 Si pudiera hacer algo al respecto, lo habría hecho de inmediato."
-"Nakayama Akari (talking)","ごめんね、多恵子ちゃん…… 迷惑かけて……","Sorry, Taeko-chan…… for the inconvenience ……","Lo siento, Taeko-chan…… por las molestias ……"
-"Nakayama Taeko (talking)","あ、わたしこそごめんなさい。 つい……","Oh, I'm sorry too. I just wanted to ……","Yo también lo siento. Lo siento……"
-"Nakayama Akari (talking)","いいのよ。 子供がそんな風に気を使わなくても。
+Nakayama Akari (talking),ごめんね、多恵子ちゃん…… 迷惑かけて……,"Sorry, Taeko-chan…… for the inconvenience ……","Lo siento, Taeko-chan…… por las molestias ……"
+Nakayama Taeko (talking),あ、わたしこそごめんなさい。 つい……,"Oh, I'm sorry too. I just wanted to ……",Yo también lo siento. Lo siento……
+Nakayama Akari (talking),"いいのよ。 子供がそんな風に気を使わなくても。
 でもねー……お父さんもこの事に 口出しするなって言うし……","It's okay. Kids don't need to be bothered like that.
 But hey,…… dad says not to meddle in this thing too……","No pasa nada. Los niños no necesitan ser molestados así.
 Pero bueno,…… papá dice que no se meta en esto, también……"
-"Nakayama Taeko (talking)","どうしてかしら…？","I wonder why…?","¿Por qué crees que…?"
-"Nakayama Akari (talking)","それはお母さんも よくわからないのだけど……
+Nakayama Taeko (talking),どうしてかしら…？,I wonder why…?,¿Por qué crees que…?
+Nakayama Akari (talking),"それはお母さんも よくわからないのだけど……
 でも、そーいう事言ってられる状態では なくなりつつあるわねー…","I don't know about that, but my mom doesn't either……
 But we're getting to the point where we can't even say that anymore…","No lo sé, ni siquiera mi madre lo entiende……
 Pero está llegando al punto en que ya no se puede decir eso…"
-"Nakayama Taeko (talking)","うん……そうだねー……","Yeah…… I know - ……","Sí…… Supongo que sí……"
-"narrator","　　［とんとん］","[clanks]","[Knock-knock]"
-"Nakayama Akari (talking)","はーい？","Yes?","¿Sí?"
-"karasuba  tsuki (talking)","失礼しまーす。","Excuse me.","Discúlpeme."
-"Nakayama Akari (talking)","あら、どうしたの？ 鴉葉君。","Oh, what's wrong? Karasuba.","Oh, Dios, ¿qué pasa? Karasuba tú."
-"karasuba  tsuki (talking)","さっき報告が入りました。 わかめ組と奉仕青年団の抗争に 決着がつきました。","A report came in just now. The dispute between the Wakame group and the Youth in Service group has been settled.","Acaba de llegar un informe. La disputa entre el clan Wakame y la Liga Juvenil de Servicio se ha resuelto."
-"Nakayama Akari (talking)","えっ……","Eh ……","Eh ……"
-"karasuba  tsuki (talking)","わかめ組が負けてしまいました。","The Wakame group lost.","El grupo Wakame salió perdiendo."
-"Nakayama Akari (talking)","……そう……","…… so ……","…… así que ……"
-"Nakayama Akari (thinking)","どちらが勝っても、複雑…… だって…どっちにしろ、色んな人が 傷ついてしまって…","Because whichever side wins, it's going to be complicated…… because… either way, a lot of people are going to get hurt…","Porque gane quien gane, es complicado…… porque… de cualquier manera, mucha gente va a salir herida…"
-"Mori Kaoru (talking)","それでは、無益な抗争に終止符が 打たれたという事ですね。","So, then, the futile struggle has come to an end.","Así pues, la inútil disputa ha llegado a su fin."
-"karasuba  tsuki (talking)","はい。 なんとか~。","Yes, I'm sure I'll be able to find a way to get it. Somehow~.","Sí. De alguna manera~."
-"Nakayama Akari (talking)","それは…喜ぶべきとこよね、うん。 前向きに考えなくちゃね、うんうん。
+Nakayama Taeko (talking),うん……そうだねー……,Yeah…… I know - ……,Sí…… Supongo que sí……
+narrator,　　［とんとん］,[clanks],[Knock-knock]
+Nakayama Akari (talking),はーい？,Yes?,¿Sí?
+karasuba  tsuki (talking),失礼しまーす。,Excuse me.,Discúlpeme.
+Nakayama Akari (talking),あら、どうしたの？ 鴉葉君。,"Oh, what's wrong? Karasuba.","Oh, Dios, ¿qué pasa? Karasuba tú."
+karasuba  tsuki (talking),さっき報告が入りました。 わかめ組と奉仕青年団の抗争に 決着がつきました。,A report came in just now. The dispute between the Wakame group and the Youth in Service group has been settled.,Acaba de llegar un informe. La disputa entre el clan Wakame y la Liga Juvenil de Servicio se ha resuelto.
+Nakayama Akari (talking),えっ……,Eh ……,Eh ……
+karasuba  tsuki (talking),わかめ組が負けてしまいました。,The Wakame group lost.,El grupo Wakame salió perdiendo.
+Nakayama Akari (talking),……そう……,…… so ……,…… así que ……
+Nakayama Akari (thinking),どちらが勝っても、複雑…… だって…どっちにしろ、色んな人が 傷ついてしまって…,"Because whichever side wins, it's going to be complicated…… because… either way, a lot of people are going to get hurt…","Porque gane quien gane, es complicado…… porque… de cualquier manera, mucha gente va a salir herida…"
+Mori Kaoru (talking),それでは、無益な抗争に終止符が 打たれたという事ですね。,"So, then, the futile struggle has come to an end.","Así pues, la inútil disputa ha llegado a su fin."
+karasuba  tsuki (talking),はい。 なんとか~。,"Yes, I'm sure I'll be able to find a way to get it. Somehow~.",Sí. De alguna manera~.
+Nakayama Akari (talking),"それは…喜ぶべきとこよね、うん。 前向きに考えなくちゃね、うんうん。
 少なくとも、市民は安全に 暮らせる事になるんだもんね。","That's…something to be happy about, yes. We have to be positive about it, yes.
 At least the citizens will be safe.","Es… es algo para estar feliz, sí. Tenemos que pensar en positivo, sí.
 Al menos los ciudadanos estarán a salvo."
-"Mori Kaoru (talking)","彼らがこのまま、 下手な野望を抱かなければですが。","That is, if they don't continue to pursue their ambitions poorly.","Eso, si no siguen albergando ambiciones poco convincentes."
-"Nakayama Akari (talking)","森さ~~ん……","Mori sa~~~ ……","Mori sa~~~ ……"
-"Mori Kaoru (talking)","その辺りは、問題が発生してからに しましょう。","Let's wait until a problem arises.","Esperemos a que el tema haya surgido para discutirlo."
-"Nakayama Akari (talking)","そそ、そうね…… じゃあ、私、これから どうすればいいのかしら？","Well, yes…… So, what am I going to do now?","Sí, sí…… ¿Y qué voy a hacer ahora?"
-"Mori Kaoru (talking)","ご説明します。 では――","Explanation. Now then--.","Explicación. Ahora bien…"
-"Mori Kaoru (talking)","ＰＭと奉仕青年団が各地から猛者を 呼んでいます。 その為、抗争はどんどん激化しています。","The PMs and the youth service corps are calling in fierce fighters from all over the country. Therefore, the war is getting more and more intense.","Los PM y los grupos juveniles de servicio están llamando a luchadores feroces de todas partes. Por lo tanto, el conflicto es cada vez más intenso."
-"Nakayama Akari (talking)","ん~…困ったわね~…","Hmmm… we're in trouble…","Hmmm… estamos en problemas…"
-"Mori Kaoru (talking)","はい。","Yes.","Sí."
-"Nakayama Akari (talking)","どうしたらいいのかしら……
+Mori Kaoru (talking),彼らがこのまま、 下手な野望を抱かなければですが。,"That is, if they don't continue to pursue their ambitions poorly.","Eso, si no siguen albergando ambiciones poco convincentes."
+Nakayama Akari (talking),森さ~~ん……,Mori sa~~~ ……,Mori sa~~~ ……
+Mori Kaoru (talking),その辺りは、問題が発生してからに しましょう。,Let's wait until a problem arises.,Esperemos a que el tema haya surgido para discutirlo.
+Nakayama Akari (talking),そそ、そうね…… じゃあ、私、これから どうすればいいのかしら？,"Well, yes…… So, what am I going to do now?","Sí, sí…… ¿Y qué voy a hacer ahora?"
+Mori Kaoru (talking),ご説明します。 では――,Explanation. Now then--.,Explicación. Ahora bien…
+Mori Kaoru (talking),ＰＭと奉仕青年団が各地から猛者を 呼んでいます。 その為、抗争はどんどん激化しています。,"The PMs and the youth service corps are calling in fierce fighters from all over the country. Therefore, the war is getting more and more intense.","Los PM y los grupos juveniles de servicio están llamando a luchadores feroces de todas partes. Por lo tanto, el conflicto es cada vez más intenso."
+Nakayama Akari (talking),ん~…困ったわね~…,Hmmm… we're in trouble…,Hmmm… estamos en problemas…
+Mori Kaoru (talking),はい。,Yes.,Sí.
+Nakayama Akari (talking),"どうしたらいいのかしら……
 あ、そうだわ！ パパにお電話して聞いてみるわ。","I don't know what to do: ……
 Oh, yes! I'll call my dad and ask him.","No sé qué hacer……
  ¡Oh, sí! Llamaré a tu padre y le preguntaré."
-"Mori Kaoru (talking)","………………","………………","………………"
-"narrator","薫の冷たい視線を微塵に感じる事なく、 明里は受話器を取り、慣れた番号を回した。","Without feeling Kaoru's cold stare in the slightest, Akari picked up the receiver and dialed a familiar number.","Sin percibir la fría mirada de Kaoru, Akari descolgó el auricular y giró un número conocido."
-"Nakayama Akari (talking)","あ、もしもし、パパ？ 私。 あの…困った事があって…そう…うん…
+Mori Kaoru (talking),………………,………………,………………
+narrator,薫の冷たい視線を微塵に感じる事なく、 明里は受話器を取り、慣れた番号を回した。,"Without feeling Kaoru's cold stare in the slightest, Akari picked up the receiver and dialed a familiar number.","Sin percibir la fría mirada de Kaoru, Akari descolgó el auricular y giró un número conocido."
+Nakayama Akari (talking),"あ、もしもし、パパ？ 私。 あの…困った事があって…そう…うん…
 えっ…でも……
  ……………
  …わかったわ… パパがそう言うなら… はい…はい…じゃあ…","Oh, hello, Dad? Me. Um… we're having some trouble… so… yeah…
@@ -474,12 +474,12 @@ Eh… but ……
 Eh… pero ……
  ……………
  …vale… si tú lo dices, papá… sí… sí… entonces…"
-"narrator","明里は嘆息混じりに、受話器を置いた。","Akari put down the receiver with a sigh.","Akari colgó el auricular con un suspiro."
-"Nakayama Akari (talking)","ほっとけですって……","I said leave it alone……","He dicho que lo dejen en paz……"
-"Mori Kaoru (thinking)","やっぱり…","I knew it…","Lo sabía…"
-"Nakayama Akari (talking)","でも…市長として、 それはどうかと思うわ… 困っている人はいっぱいいるし…","But… as mayor, I'm not so sure about that… there are so many people in need…","Pero… como alcalde, no creo que sea una buena idea… hay mucha gente necesitada…"
-"Mori Kaoru (talking)","そうですね。","Yes, it is.","Sí."
-"Nakayama Akari (talking)","でも、パパが……
+narrator,明里は嘆息混じりに、受話器を置いた。,Akari put down the receiver with a sigh.,Akari colgó el auricular con un suspiro.
+Nakayama Akari (talking),ほっとけですって……,I said leave it alone……,He dicho que lo dejen en paz……
+Mori Kaoru (thinking),やっぱり…,I knew it…,Lo sabía…
+Nakayama Akari (talking),でも…市長として、 それはどうかと思うわ… 困っている人はいっぱいいるし…,"But… as mayor, I'm not so sure about that… there are so many people in need…","Pero… como alcalde, no creo que sea una buena idea… hay mucha gente necesitada…"
+Mori Kaoru (talking),そうですね。,"Yes, it is.",Sí.
+Nakayama Akari (talking),"でも、パパが……
  …………ん~~……
 よし、こうするわ。
 今回は、様子を見ます。 でも、抗争がこれ以上悪化するようなら、 手を打ちます。","But my dad is ……………… hmm~~……
@@ -487,93 +487,93 @@ Okay, here's what I'll do.
 This time, we'll wait and see. But if the feud gets any worse, we'll take action.","Pero mi padre es ……………… hmm~~……
 Bien, esto es lo que voy a hacer.
 Esta vez, esperaremos y veremos. Pero si la disputa empeora, tomaremos medidas."
-"Mori Kaoru (talking)","市長がそう判断なさるのなら。","If the mayor so decides.","Si el alcalde lo decide."
-"Nakayama Akari (talking)","………得策だと思う？","Do you think……… is a good idea?","……… ¿Crees que es una buena idea?"
-"Mori Kaoru (talking)","それは市長が判断なさる事です。","That is for the mayor to decide.","Eso lo tiene que decidir el alcalde."
-"Nakayama Akari (talking)","……森さんのいぢわる~…","……Mori's teasing~…","……Mori's teasing~…"
-"chiankashokuin (talking)","失礼します、課長。","Excuse me, Chief.","Disculpe, jefe."
-"chiankashokuin (talking)","わかめ組と奉仕青年団が抗争を 始めました。","I'm sure you've heard the explanation from Akuji. Now, start off.","Estoy seguro de que has escuchado la explicación de Akuji. Ahora, comienza."
-"Mori Kaoru (talking)","そう、とうとう始めてしまったの。","Yes, I finally started.","Sí, finalmente comencé."
-"chiankashokuin (talking)","いかがしますか？","How would you like to do it?","¿Cómo te gustaría hacerlo?"
-"Mori Kaoru (talking)","無視なさい。 すぐ終わるだろう。
+Mori Kaoru (talking),市長がそう判断なさるのなら。,If the mayor so decides.,Si el alcalde lo decide.
+Nakayama Akari (talking),………得策だと思う？,Do you think……… is a good idea?,……… ¿Crees que es una buena idea?
+Mori Kaoru (talking),それは市長が判断なさる事です。,That is for the mayor to decide.,Eso lo tiene que decidir el alcalde.
+Nakayama Akari (talking),……森さんのいぢわる~…,……Mori's teasing~…,……Mori's teasing~…
+chiankashokuin (talking),失礼します、課長。,"Excuse me, Chief.","Disculpe, jefe."
+chiankashokuin (talking),わかめ組と奉仕青年団が抗争を 始めました。,"I'm sure you've heard the explanation from Akuji. Now, start off.","Estoy seguro de que has escuchado la explicación de Akuji. Ahora, comienza."
+Mori Kaoru (talking),そう、とうとう始めてしまったの。,"Yes, I finally started.","Sí, finalmente comencé."
+chiankashokuin (talking),いかがしますか？,How would you like to do it?,¿Cómo te gustaría hacerlo?
+Mori Kaoru (talking),"無視なさい。 すぐ終わるだろう。
 市民からの苦情が多くなれば、 何か考えればいい。","Ignore them. It will all be over soon.
 If we get more complaints from the public, we'll think of something.","Ignóralo. Se acabará pronto.
 Si recibimos más quejas del público, pensaremos en algo."
-"chiankashokuin (talking)","わかりました。","I understand.","Entendido."
-"Nakayama Akari (talking)","ふん　ふふふ~~ん♪","Hmmm…hmmm…hmmm…hmmm…hmmm…","Hmmm… hmmm… hmmm…"
-"narrator","明里が一人、ご機嫌に刺繍をしている。","One Akari is embroidering in a good mood.","Una Akari está bordando de buen humor."
-"Mori Kaoru (talking)","何をなさっているんです？","What are you doing?","¿Qué estás haciendo?"
-"Nakayama Akari (talking)","あ、森さん。 はい、これあげる。","Oh, Mori. Yes, I'll give you this.","Ah, Mori. Sí, te daré esto."
-"narrator","と、明里が差し出したのは、白い布に綺麗な 花模様が刺繍されている、小さなテーブルクロス だった。","Akari offered a small tablecloth with a beautiful floral pattern embroidered on a Haku cloth.","El Akari presentó un pequeño mantel con un hermoso dibujo floral bordado en la tela del Haku."
-"Nakayama Akari (talking)","私が刺繍したの。 あまり上手でないけど、 よかったら使って。","I embroidered it. It's not very good, but you can use it if you like.","Lo he bordado. No es muy bueno, pero puedes usarlo si quieres."
-"Mori Kaoru (talking)","綺麗ですね。 ありがとうございます。
+chiankashokuin (talking),わかりました。,I understand.,Entendido.
+Nakayama Akari (talking),ふん　ふふふ~~ん♪,Hmmm…hmmm…hmmm…hmmm…hmmm…,Hmmm… hmmm… hmmm…
+narrator,明里が一人、ご機嫌に刺繍をしている。,One Akari is embroidering in a good mood.,Una Akari está bordando de buen humor.
+Mori Kaoru (talking),何をなさっているんです？,What are you doing?,¿Qué estás haciendo?
+Nakayama Akari (talking),あ、森さん。 はい、これあげる。,"Oh, Mori. Yes, I'll give you this.","Ah, Mori. Sí, te daré esto."
+narrator,と、明里が差し出したのは、白い布に綺麗な 花模様が刺繍されている、小さなテーブルクロス だった。,Akari offered a small tablecloth with a beautiful floral pattern embroidered on a Haku cloth.,El Akari presentó un pequeño mantel con un hermoso dibujo floral bordado en la tela del Haku.
+Nakayama Akari (talking),私が刺繍したの。 あまり上手でないけど、 よかったら使って。,"I embroidered it. It's not very good, but you can use it if you like.","Lo he bordado. No es muy bueno, pero puedes usarlo si quieres."
+Mori Kaoru (talking),"綺麗ですね。 ありがとうございます。
 それではその刺繍をしている手を止めて 貰って、これからウィミィの懇親会へ……
 どうしたんです？","It's beautiful. Thank you very much.
 Now, I'm going to ask you to stop that embroidery and we're going to go to the Wime reception now: ……
 What's going on?","Es precioso. Muchas gracias.
 Ahora, voy a pedirte que dejes ese bordado y vamos a ir a la recepción de Wime ahora: ……
  ¿Qué está pasando?"
-"Nakayama Akari (talking)","行きたくな~い…","I don't want to go…","No quiero ir…"
-"Mori Kaoru (talking)","やっぱり、現実逃避で 刺繍してらしたんですか。","So you were embroidering to escape from reality.","¿Así que, después de todo, estabas bordando para escapar de la realidad?"
-"Nakayama Akari (talking)","ん~~~……","Hmmm~~~……","Mmm~~~……"
-"Mori Kaoru (talking)","さあ、行きますよ。","Here we go.","Aquí está."
-"Nakayama Akari (talking)","は~い……あ~あ…","Hai~yes…… ahhhh…","Sí…… Ahhh…"
-"Nakayama Akari (talking)","森さん、森さん。 私、いい事思いついたんだけど、 聞いてくれる？","Mori, Mori. I've got an idea. Will you listen to me?","Mori, Mori. Tengo una idea. ¿Me escuchas?"
-"Mori Kaoru (talking)","どのような事ですか？","What is it about?","¿Qué significa?"
-"Nakayama Akari (talking)","オオサカ市を活性化させる いい案なの。
+Nakayama Akari (talking),行きたくな~い…,I don't want to go…,No quiero ir…
+Mori Kaoru (talking),やっぱり、現実逃避で 刺繍してらしたんですか。,So you were embroidering to escape from reality.,"¿Así que, después de todo, estabas bordando para escapar de la realidad?"
+Nakayama Akari (talking),ん~~~……,Hmmm~~~……,Mmm~~~……
+Mori Kaoru (talking),さあ、行きますよ。,Here we go.,Aquí está.
+Nakayama Akari (talking),は~い……あ~あ…,Hai~yes…… ahhhh…,Sí…… Ahhh…
+Nakayama Akari (talking),森さん、森さん。 私、いい事思いついたんだけど、 聞いてくれる？,"Mori, Mori. I've got an idea. Will you listen to me?","Mori, Mori. Tengo una idea. ¿Me escuchas?"
+Mori Kaoru (talking),どのような事ですか？,What is it about?,¿Qué significa?
+Nakayama Akari (talking),"オオサカ市を活性化させる いい案なの。
 次のオリンピックの開催地に 立候補しようと思うの。
 オリンピックが出来たら世界中から 観光客がくるし、放送権料も たくさん入って幸せよ。","It's a great idea to revitalize the city of Osaka.
 I am thinking of running for the host city of the next Olympics.
 If we have the Olympics, we will have tourists from all over the world, and we will get a lot of money for broadcasting rights.","Es una buena idea para revitalizar la ciudad de Osakha.
 Estoy pensando en presentarme a los próximos Juegos Olímpicos.
 Si celebramos los Juegos Olímpicos, tendremos turistas de todo el mundo y obtendremos mucho dinero por los derechos de transmisión."
-"Mori Kaoru (talking)","無理でしょう。 競技の為の土地が確保出来なさ 過ぎますし。","It will be impossible. There is too little land available for competitions.","Será imposible. Hay muy poco terreno disponible para las competiciones."
-"Nakayama Akari (talking)","え~…そんなのやってみないと わからないじゃない…","Well… you won't know until you try it…","Bueno… no lo sabrás hasta que lo pruebes…"
-"Mori Kaoru (talking)","無理です。","Impossible.","Imposible."
-"Nakayama Akari (talking)","……………う~…","…………… U~…","…………… u~…"
-"Nakayama Akari (talking)","もーりーさーん。","Molly-san.","Molly-san."
-"Mori Kaoru (talking)","はい。","Yes.","Sí."
-"Nakayama Akari (talking)","あれから、奉仕青年団と、ＰＭって 喧嘩してないかしら？","I wonder if PM has had any fights with the service youth group since then?","Me pregunto si el grupo de jóvenes del servicio y el PM han tenido alguna pelea desde entonces."
-"Mori Kaoru (talking)","そうですね。 表面上はおとなしくしていますね。","Yes, I do. On the surface, you are quiet.","Sí. Estás tranquilo en la superficie."
-"Nakayama Akari (talking)","そう…それは何より。 んーでも、強く命令しなくちゃ きかないなんて~…","Well…that's great. But I can't believe I have to give you a strong order…","Bueno… eso es genial. Pero no puedo creer que tenga que darte una orden fuerte…"
-"Mori Kaoru (talking)","ペットの躾のように根気よくという訳には いきませんですね。","It is not possible to be as patient as in the case of pet discipline.","No es posible ser tan paciente como en el caso de la disciplina de las mascotas."
-"chiankashokuin (talking)","課長、これです。","Chief, here it is.","Jefe, esto es todo."
-"Mori Kaoru (talking)","――間違いないわね。 麻薬だわ。 それもかなり質の高い。
+Mori Kaoru (talking),無理でしょう。 競技の為の土地が確保出来なさ 過ぎますし。,It will be impossible. There is too little land available for competitions.,Será imposible. Hay muy poco terreno disponible para las competiciones.
+Nakayama Akari (talking),え~…そんなのやってみないと わからないじゃない…,Well… you won't know until you try it…,Bueno… no lo sabrás hasta que lo pruebes…
+Mori Kaoru (talking),無理です。,Impossible.,Imposible.
+Nakayama Akari (talking),……………う~…,…………… U~…,…………… u~…
+Nakayama Akari (talking),もーりーさーん。,Molly-san.,Molly-san.
+Mori Kaoru (talking),はい。,Yes.,Sí.
+Nakayama Akari (talking),あれから、奉仕青年団と、ＰＭって 喧嘩してないかしら？,I wonder if PM has had any fights with the service youth group since then?,Me pregunto si el grupo de jóvenes del servicio y el PM han tenido alguna pelea desde entonces.
+Mori Kaoru (talking),そうですね。 表面上はおとなしくしていますね。,"Yes, I do. On the surface, you are quiet.",Sí. Estás tranquilo en la superficie.
+Nakayama Akari (talking),そう…それは何より。 んーでも、強く命令しなくちゃ きかないなんて~…,Well…that's great. But I can't believe I have to give you a strong order…,Bueno… eso es genial. Pero no puedo creer que tenga que darte una orden fuerte…
+Mori Kaoru (talking),ペットの躾のように根気よくという訳には いきませんですね。,It is not possible to be as patient as in the case of pet discipline.,No es posible ser tan paciente como en el caso de la disciplina de las mascotas.
+chiankashokuin (talking),課長、これです。,"Chief, here it is.","Jefe, esto es todo."
+Mori Kaoru (talking),"――間違いないわね。 麻薬だわ。 それもかなり質の高い。
 で、これの出所はもうわかっているの？","--I'm sure of it. It's a drug. And of a very high quality.
 So, do we know where this came from yet?","-Estoy seguro de ello. Es una droga. También es de muy alta calidad.
  ¿Y ya sabes de dónde viene esto?"
-"chiankashokuin (talking)","はい。 どうやら、わかめ組から……","Yes, I am looking for a new company. Apparently, from the Wakame group: ……","Sí. Al parecer, del grupo Wakame: ……"
-"Mori Kaoru (talking)","あそこは、代々、こういうものに 手出ししないと決めている 組織だったのに…
+chiankashokuin (talking),はい。 どうやら、わかめ組から……,"Yes, I am looking for a new company. Apparently, from the Wakame group: ……","Sí. Al parecer, del grupo Wakame: ……"
+Mori Kaoru (talking),"あそこは、代々、こういうものに 手出ししないと決めている 組織だったのに…
 宗旨がえしたのかしらね。","They've been determined to stay out of this kind of thing for generations.
 I wonder if they changed their mind.","Era una organización que se había empeñado en mantenerse al margen de estas cosas durante generaciones…
 Me pregunto si habrán cambiado de opinión."
-"chiankashokuin (talking)","どうしますか？","What do you want to do?","¿Qué quieres hacer?"
-"Mori Kaoru (talking)","引き続き、調べて。 そして、決定的な証拠を掴むように。","Keep looking into it. And be sure to get conclusive evidence.","Sigue investigando. Y asegúrate de obtener pruebas concluyentes."
-"chiankashokuin (talking)","はい。","Yes.","Sí."
-"Yamazawa Asami (talking)","本当に……本当に申し訳ありません。 私の力が至らなかったばかりに……","I am really…… really sorry. I am so sorry that I was not able to ……","Estoy realmente…… realmente lo siento. No estaba a la altura……"
-"Mori Kaoru (talking)","謝る事はありませんよ、山沢さん。 市橋蘭が本当に行方不明だとしても、 監督官であるあなたに非はないのです。","No need to apologize, Yamazawa. Even if Ichihashi Ran is really missing, it is not your fault as a supervisor.","No tienes nada que disculpar, Yamazawa. Incluso si Ichihashi está realmente desaparecido, no es tu culpa como supervisor."
-"Nakayama Akari (talking)","そうよそうよ、 山沢さんの責任じゃないのよ~？","Let's not be like that, it's not Yamazawa's responsibility~?","Estemos tan seguros, no es culpa de Yamazawa, ¿sabes~?"
-"Yamazawa Asami (talking)","そう言って下さるのは嬉しいのですが……","I'm glad you said that……","Me alegro de que lo digas……"
-"Nakayama Akari (talking)","駄目よ、山沢さん。 何もかも背負い込んじゃ。","Don't do it, Mr. Yamazawa. Don't take on everything.","No lo hagas, Yamazawa. No te hagas cargo de todo."
-"Yamazawa Asami (talking)","………………","………………","………………"
-"Mori Kaoru (talking)","とにかく、犯罪者である長谷川均が わかめ組を乗っ取っているという噂は 看過できませんね。
+chiankashokuin (talking),どうしますか？,What do you want to do?,¿Qué quieres hacer?
+Mori Kaoru (talking),引き続き、調べて。 そして、決定的な証拠を掴むように。,Keep looking into it. And be sure to get conclusive evidence.,Sigue investigando. Y asegúrate de obtener pruebas concluyentes.
+chiankashokuin (talking),はい。,Yes.,Sí.
+Yamazawa Asami (talking),本当に……本当に申し訳ありません。 私の力が至らなかったばかりに……,I am really…… really sorry. I am so sorry that I was not able to ……,Estoy realmente…… realmente lo siento. No estaba a la altura……
+Mori Kaoru (talking),謝る事はありませんよ、山沢さん。 市橋蘭が本当に行方不明だとしても、 監督官であるあなたに非はないのです。,"No need to apologize, Yamazawa. Even if Ichihashi Ran is really missing, it is not your fault as a supervisor.","No tienes nada que disculpar, Yamazawa. Incluso si Ichihashi está realmente desaparecido, no es tu culpa como supervisor."
+Nakayama Akari (talking),そうよそうよ、 山沢さんの責任じゃないのよ~？,"Let's not be like that, it's not Yamazawa's responsibility~?","Estemos tan seguros, no es culpa de Yamazawa, ¿sabes~?"
+Yamazawa Asami (talking),そう言って下さるのは嬉しいのですが……,I'm glad you said that……,Me alegro de que lo digas……
+Nakayama Akari (talking),駄目よ、山沢さん。 何もかも背負い込んじゃ。,"Don't do it, Mr. Yamazawa. Don't take on everything.","No lo hagas, Yamazawa. No te hagas cargo de todo."
+Yamazawa Asami (talking),………………,………………,………………
+Mori Kaoru (talking),"とにかく、犯罪者である長谷川均が わかめ組を乗っ取っているという噂は 看過できませんね。
 山沢さん、早急に調査をお願いします。 市議会としても何らかの手を打つ必要が あるかもしれませんので。","Anyway, we cannot overlook the rumor that the criminal Hitoshi Hasegawa is taking over Wakamegumi.
 Mr. Yamazawa, please investigate this matter as soon as possible. The city council may need to do something about it.","De todos modos, no se puede descartar el rumor de que el criminal Hitoshi Hasegawa se está haciendo cargo del clan Wakame.
 Yamazawa, por favor, investigue esto lo antes posible. Es posible que el ayuntamiento tenga que hacer algo al respecto."
-"Yamazawa Asami (talking)","解っています、森課長。 ただちにセンリへ向かい、 事実を確認してきます。
+Yamazawa Asami (talking),"解っています、森課長。 ただちにセンリへ向かい、 事実を確認してきます。
 場合によっては、市治安課の出動を 要請するかもしれませんが……","I understand, Chief Mori. I will go to Senri immediately to confirm the facts.
 In some cases, I may request the dispatch of the city's public safety department……","Lo entiendo, jefe Mori. Iré a Senri inmediatamente y confirmaré los hechos.
 En algunos casos, puedo solicitar el envío del Departamento de Seguridad Municipal……"
-"Mori Kaoru (talking)","ええ、手配だけはしておきましょう。","Yes, let's just make arrangements.","Sí, sólo hay que hacer arreglos."
-"Yamazawa Asami (talking)","お願いします。 それでは…………","Please do. See you at …………","Por favor. Nos vemos en …………"
-"Nakayama Akari (talking)","あっ……待って山沢さん、 あまり思い詰めちゃ駄目よ？ 無理しないでね？","Oh,…… wait Yamazawa, don't be too hard on yourself. Don't be too hard on yourself, okay?","Oh,…… espera Yamazawa, no seas tan duro contigo mismo. No seas demasiado duro contigo mismo, ¿vale?"
-"Yamazawa Asami (talking)","お気遣いありがとうございます、市長。 ……失礼します。","Thank you for your concern, Mayor. Please excuse me at …….","Gracias por su preocupación, Alcalde. Por favor, disculpe ……."
-"Nakayama Akari (talking)","ああ…… 大丈夫かしら、山沢さん……","Oh…… I hope it's ok,…… Mr. Yamazawa ……","Oh…… Espero que estés bien, Yamazawa ……"
-"Mori Kaoru (talking)","大丈夫ですよ、市長。 彼女は有能ですし、あなたも あの真剣な目をご覧になられたはずです。","Don't worry, Mr. Mayor. She's capable, and you've seen the seriousness in her eyes.","Está bien, alcalde. Es capaz, y viste esa mirada seria en sus ojos."
-"Nakayama Akari (talking)","だから心配なのよ~…… 山沢さん、自分を追いつめていっちゃう タイプに見えるもの…………","That's why I'm worried about you…… Yamazawa, you seem to be the type of person who drives herself crazy …………","Por eso me preocupas -…… Yamazawa, pareces el tipo de persona que se pondría al día…………"
-"Mori Kaoru (talking)","市長は山沢さんを見習って、 彼女の十分の一でも真面目になって 少しは自分を追いつめて下さい。","The mayor should take a cue from Yamazawa and be one-tenth as serious as she is and catch up with herself a little.","La alcaldesa debería seguir el ejemplo de Yamazawa, ser la décima parte de seria que ella y ponerse un poco al día."
-"Nakayama Akari (talking)","あの……森さん、 私、いつも真面目なつもりですけど……","Um, ……Mori, I'm always trying to be serious, but ……","Um, ……Mori, siempre intento ser serio, pero ……"
-"Mori Kaoru (talking)","どこがでしょうか。 説明して頂けますか。","Where is it? Can you please explain?","¿Dónde está? ¿Podría explicármelo?"
-"Nakayama Akari (talking)","どこがって、だからいつも……","Where, so always ……","Dónde, así que siempre ……"
-"Mori Kaoru (talking)","本気で仰っているのですか？","Are you serious?","¿Hablas en serio?"
-"Nakayama Akari (talking)","……………そんなに睨まないでよ~……","…………… Don't stare so much~……","…………… No mires tanto - ……"
+Mori Kaoru (talking),ええ、手配だけはしておきましょう。,"Yes, let's just make arrangements.","Sí, sólo hay que hacer arreglos."
+Yamazawa Asami (talking),お願いします。 それでは…………,Please do. See you at …………,Por favor. Nos vemos en …………
+Nakayama Akari (talking),あっ……待って山沢さん、 あまり思い詰めちゃ駄目よ？ 無理しないでね？,"Oh,…… wait Yamazawa, don't be too hard on yourself. Don't be too hard on yourself, okay?","Oh,…… espera Yamazawa, no seas tan duro contigo mismo. No seas demasiado duro contigo mismo, ¿vale?"
+Yamazawa Asami (talking),お気遣いありがとうございます、市長。 ……失礼します。,"Thank you for your concern, Mayor. Please excuse me at …….","Gracias por su preocupación, Alcalde. Por favor, disculpe ……."
+Nakayama Akari (talking),ああ…… 大丈夫かしら、山沢さん……,"Oh…… I hope it's ok,…… Mr. Yamazawa ……","Oh…… Espero que estés bien, Yamazawa ……"
+Mori Kaoru (talking),大丈夫ですよ、市長。 彼女は有能ですし、あなたも あの真剣な目をご覧になられたはずです。,"Don't worry, Mr. Mayor. She's capable, and you've seen the seriousness in her eyes.","Está bien, alcalde. Es capaz, y viste esa mirada seria en sus ojos."
+Nakayama Akari (talking),だから心配なのよ~…… 山沢さん、自分を追いつめていっちゃう タイプに見えるもの…………,"That's why I'm worried about you…… Yamazawa, you seem to be the type of person who drives herself crazy …………","Por eso me preocupas -…… Yamazawa, pareces el tipo de persona que se pondría al día…………"
+Mori Kaoru (talking),市長は山沢さんを見習って、 彼女の十分の一でも真面目になって 少しは自分を追いつめて下さい。,The mayor should take a cue from Yamazawa and be one-tenth as serious as she is and catch up with herself a little.,"La alcaldesa debería seguir el ejemplo de Yamazawa, ser la décima parte de seria que ella y ponerse un poco al día."
+Nakayama Akari (talking),あの……森さん、 私、いつも真面目なつもりですけど……,"Um, ……Mori, I'm always trying to be serious, but ……","Um, ……Mori, siempre intento ser serio, pero ……"
+Mori Kaoru (talking),どこがでしょうか。 説明して頂けますか。,Where is it? Can you please explain?,¿Dónde está? ¿Podría explicármelo?
+Nakayama Akari (talking),どこがって、だからいつも……,"Where, so always ……","Dónde, así que siempre ……"
+Mori Kaoru (talking),本気で仰っているのですか？,Are you serious?,¿Hablas en serio?
+Nakayama Akari (talking),……………そんなに睨まないでよ~……,…………… Don't stare so much~……,…………… No mires tanto - ……

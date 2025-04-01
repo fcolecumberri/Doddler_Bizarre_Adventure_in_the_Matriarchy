@@ -1,147 +1,147 @@
-"character","jap text","Eng","Esp"
-"__system__??","{●ＥＸ \ 0:","",""
-"__system__??","}","",""
-"__system__??","{戦闘Ｏ = 1:","",""
-"__system__??","}","",""
-"__system__??","{R支配[1] \ 1:","",""
-"__system__??","}","",""
-"__system__??","{RND = 0:","",""
-"__system__??","}","",""
-"__system__??","{(RND = 0) * (★★民華 = 3):","",""
-"__system__??","}","",""
-"__system__??","{(RND = 0) * (★愛 = 2):","",""
-"__system__??","}","",""
-"__system__??","{(RND = 0) * (★愛 = 3):","",""
-"__system__??","}","",""
-"__system__??","{(RND = 0) * (☆イハビーラ > 10):","",""
-"__system__??","{★愛 = 4:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{(RND = 0) * (☆殺 \ 0) * (☆ギガフロート = 0) * (★★殺 \ 99):","",""
-"__system__??","{★愛 = 5:","",""
-"__system__??","}","",""
-"__system__??","}","",""
-"__system__??","{(RND = 0) * (☆傀儡議会 = 0) * (☆夕子 \ 0):","",""
-"__system__??","}","",""
-"__system__??","{(RND = 0) * (☆アンリ > 20):","",""
-"__system__??","}","",""
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","{RND \ 0:","",""
-"__system__??","}","",""
-"__system__??","{(★★那古 = 3) * (☆由女／死亡 = 0) * (D11 = 0):","",""
-"__system__??","}","",""
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆"
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　悪司は大切な力を失った。","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Akuji lost his precious power.","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Akuji perdió un poder importante."
-" (talking)","御免！！","Sorry!","Lo siento."
-"Yamamoto Akuji (talking)","どしたい？ じーさん…
+character,jap text,Eng,Esp
+__system__??,{●ＥＸ \ 0:,,
+__system__??,},,
+__system__??,{戦闘Ｏ = 1:,,
+__system__??,},,
+__system__??,{R支配[1] \ 1:,,
+__system__??,},,
+__system__??,{RND = 0:,,
+__system__??,},,
+__system__??,{(RND = 0) * (★★民華 = 3):,,
+__system__??,},,
+__system__??,{(RND = 0) * (★愛 = 2):,,
+__system__??,},,
+__system__??,{(RND = 0) * (★愛 = 3):,,
+__system__??,},,
+__system__??,{(RND = 0) * (☆イハビーラ > 10):,,
+__system__??,{★愛 = 4:,,
+__system__??,},,
+__system__??,},,
+__system__??,{(RND = 0) * (☆殺 \ 0) * (☆ギガフロート = 0) * (★★殺 \ 99):,,
+__system__??,{★愛 = 5:,,
+__system__??,},,
+__system__??,},,
+__system__??,{(RND = 0) * (☆傀儡議会 = 0) * (☆夕子 \ 0):,,
+__system__??,},,
+__system__??,{(RND = 0) * (☆アンリ > 20):,,
+__system__??,},,
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,{RND \ 0:,,
+__system__??,},,
+__system__??,{(★★那古 = 3) * (☆由女／死亡 = 0) * (D11 = 0):,,
+__system__??,},,
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　悪司は大切な力を失った。,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Akuji lost his precious power.,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Akuji perdió un poder importante.
+ (talking),御免！！,Sorry!,Lo siento.
+Yamamoto Akuji (talking),"どしたい？ じーさん…
  …………？
 何を、そんなに怒って……","What do you want? Grandpa…
  …………?
 What, so angry ……","¿Qué quieres hacer? El abuelo…
  …………?
 Qué, tan enfadado ……"
-"Yamamoto Ippatsu (talking)","この、愚図がぁぁ！！！","You stupid, stupid, stupid!","¡Estúpido, estúpido, estúpido!"
-"Yamamoto Akuji (talking)","ひえっ……","Heehee ……","Heehee: ……"
-"Yamamoto Ippatsu (talking)","何をグズグズしておるか！！ あのように弱体化した組織ひとつに てこずっていて、どうする！？","What are you waiting for? What are you going to do with such a weakened organization?","¿A qué esperas? ¿Qué vas a hacer si te quedas con una organización así de debilitada?"
-"Yamamoto Akuji (talking)","あー…それは……","Uh… that's ……","Uh… eso es ……"
-"Yamamoto Ippatsu (talking)","問答無用じゃ！！ この馬鹿孫がぁぁぁ！！！","No questions asked! You stupid grandson!","Sin preguntas. ¡Estúpido nieto!"
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆"
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　遅すぎて一発に怒られた","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Too late, Ippatsu got mad at me.","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Demasiado tarde, Ippatsu se enfadó conmigo."
-"narrator","青年団女子が、青い顔をして ふらふらと事務所に入ってきた。","Seinendan Jyoshi wandered into the office with a blue face.","Seinendan Jyoshi entró en la oficina con un aspecto azul."
-"Seinendan Jyoshi (talking)","悪司さ~ん…","Akuji…","Akuji…"
-"Yamamoto Akuji (talking)","ん？","Hmm?","¿Eh?"
-"Seinendan Jyoshi (talking)","なくなっちゃいましたー…","It's gone…","Se ha ido…"
-"Yamamoto Akuji (talking)","何が？","What?","¿Qué?"
-"Seinendan Jyoshi (talking)","奉仕青年団の、活動資金……","Service Youth Group, funds for activities ……","Servicio de grupos de jóvenes, financiación de sus actividades: ……"
-"Yamamoto Akuji (talking)","……………
+Yamamoto Ippatsu (talking),この、愚図がぁぁ！！！,"You stupid, stupid, stupid!","¡Estúpido, estúpido, estúpido!"
+Yamamoto Akuji (talking),ひえっ……,Heehee ……,Heehee: ……
+Yamamoto Ippatsu (talking),何をグズグズしておるか！！ あのように弱体化した組織ひとつに てこずっていて、どうする！？,What are you waiting for? What are you going to do with such a weakened organization?,¿A qué esperas? ¿Qué vas a hacer si te quedas con una organización así de debilitada?
+Yamamoto Akuji (talking),あー…それは……,Uh… that's ……,Uh… eso es ……
+Yamamoto Ippatsu (talking),問答無用じゃ！！ この馬鹿孫がぁぁぁ！！！,No questions asked! You stupid grandson!,Sin preguntas. ¡Estúpido nieto!
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　遅すぎて一発に怒られた,"☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Too late, Ippatsu got mad at me.","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Demasiado tarde, Ippatsu se enfadó conmigo."
+narrator,青年団女子が、青い顔をして ふらふらと事務所に入ってきた。,Seinendan Jyoshi wandered into the office with a blue face.,Seinendan Jyoshi entró en la oficina con un aspecto azul.
+Seinendan Jyoshi (talking),悪司さ~ん…,Akuji…,Akuji…
+Yamamoto Akuji (talking),ん？,Hmm?,¿Eh?
+Seinendan Jyoshi (talking),なくなっちゃいましたー…,It's gone…,Se ha ido…
+Yamamoto Akuji (talking),何が？,What?,¿Qué?
+Seinendan Jyoshi (talking),奉仕青年団の、活動資金……,"Service Youth Group, funds for activities ……","Servicio de grupos de jóvenes, financiación de sus actividades: ……"
+Yamamoto Akuji (talking),"……………
 えっ！？","……………
 What!!!","……………
  ¡Eh!"
-"Seinendan Jyoshi (talking)","……ないです…… ………しくしくしく……
+Seinendan Jyoshi (talking),"……ないです…… ………しくしくしく……
 私達もう、いい事も悪い事も 出来ません…しくしく…","……We can't…… ………skuskusku……
 We can no longer do the good or the bad… skuskusku……","……No podemos…… skusku……
 Ya no podemos hacer lo bueno o lo malo……"
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆"
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　　　破産","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Bankruptcy","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Quiebra"
-"Kanbara Yuuko (talking)","ん~~………","Hmmm~~………","Hmmm~~………"
-"Yamamoto Akuji (talking)","どうしたんだい、夕子さん。 朝からなんか変な声出してっけど…","What's the matter, Yuuko? You've been making strange noises since this morning…","¿Qué pasa, Yuuko? Has estado haciendo ruidos extraños toda la mañana…"
-"Kanbara Yuuko (talking)","なんだか、胸が苦しくて… ……な~んとなく、嫌な感じが……","I feel like I'm having a hard time… …I don't know, I have a bad feeling about it…","Siento que lo estoy pasando mal… No sé, tengo un mal presentimiento…"
-"Yamamoto Akuji (talking)","おい、夕子さん……自分の躰に そのな~んとなくを使っちまうと…","Hey, Yuuko, ……, if you use that “anything” for your body…","Oye, Yuuko, ……, si usas esa 'nada' para tu cuerpo…"
-"Kanbara Yuuko (talking)","………………
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　　　破産,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Bankruptcy,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Quiebra
+Kanbara Yuuko (talking),ん~~………,Hmmm~~………,Hmmm~~………
+Yamamoto Akuji (talking),どうしたんだい、夕子さん。 朝からなんか変な声出してっけど…,"What's the matter, Yuuko? You've been making strange noises since this morning…","¿Qué pasa, Yuuko? Has estado haciendo ruidos extraños toda la mañana…"
+Kanbara Yuuko (talking),なんだか、胸が苦しくて… ……な~んとなく、嫌な感じが……,"I feel like I'm having a hard time… …I don't know, I have a bad feeling about it…","Siento que lo estoy pasando mal… No sé, tengo un mal presentimiento…"
+Yamamoto Akuji (talking),おい、夕子さん……自分の躰に そのな~んとなくを使っちまうと…,"Hey, Yuuko, ……, if you use that “anything” for your body…","Oye, Yuuko, ……, si usas esa 'nada' para tu cuerpo…"
+Kanbara Yuuko (talking),"………………
  ………ん~~……","………………
  ………ん~~……","………………
  ………ん~~……"
-"narrator","　　［ぱたり］
+narrator,"　　［ぱたり］
 夕子は床に倒れ、動かなくなった。","［PATTER.]
 Yuuko collapsed on the floor and stopped moving.","[JADEO]
 Yuuko se derrumbó en el suelo y dejó de moverse."
-"Yamamoto Akuji (talking)","えっ……
+Yamamoto Akuji (talking),"えっ……
 お、おい、夕子さん？ 夕子さん！！","What? ……
 Oh, hey, Yuuko-san? Mr. Yuuko!","¿Qué? ……
 Oh, hey, Yuuko? ¡Señor Yuuko!"
-"Takega Satsu (talking)","悪司、どういうつもりで市議会を 放置しているのか、聞きにきたのだが。 さっさと攻めん……と……
+Takega Satsu (talking),"悪司、どういうつもりで市議会を 放置しているのか、聞きにきたのだが。 さっさと攻めん……と……
  ………どうした？ 夕子さんがどうして倒れて…","Akuji, I'm here to ask you what kind of intentions you have in leaving the city council in the lurch. Get off your ass and attack…… and ……
 What's wrong with ………? How did Yuuko fall…","Akuji, vengo a preguntarte qué intención tienes al dejar al ayuntamiento en la estacada. Ataque rápido…… y ……
  ¿Qué pasa con ………? ¿Cómo cayó Yuuko…"
-"Yamamoto Akuji (talking)","………脈がない…","……… No pulse…","……… No hay pulso…"
-"Takega Satsu (talking)","なんだと！？","What the hell?","¿Qué demonios?"
-"norakoogii (talking)","わおーーー……ん…","Wow… ………","Wow… ………"
-"manbou (talking)","まーんぼーーーう……","Mambooooooo ……","Mambooooooo ……"
-"saru (talking)","きーーー………","Keeeeeee ………","Keeeeeee ………"
-"narrator","みんな悲しんでいる… な~んとなく、悲しい…… な~んとなく、つらい………","Everyone is sad… What a sad…… What a painful ………","Todo el mundo está triste… Qué triste…… Qué doloroso ………"
-"neko (talking)","にゃーにゃー……","Meow Meow ……","Nyanya: ……"
-"shounen (talking)","どうしたんだい？ 泣くなよ…","What's wrong? Don't cry…","¿Qué pasa? No llores…"
-"neko (talking)","にゃー…","Meow…","Miau…"
-"shounen (talking)","えっ？","What?","¿Qué?"
-"narrator","猫を抱き上げた少年が空を見上げた。 ミサイルが落ちてきた。","A boy holding up a cat looked up at the sky. Missiles were falling.","Un niño sostiene un gato y mira al cielo. Los misiles estaban cayendo."
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆"
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　な~んとなく世界崩壊","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ The world collapses without a trace.","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆Nada más que el colapso del mundo"
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆"
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　幽霊に呪い殺された……","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Cursed to death by a ghost……","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Maldito hasta la muerte por fantasmas……"
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆"
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　悪司は殺された","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Akuji was Killed","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Akuji fue Asesinado"
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆"
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　嫁を奪われた","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Stolen Wife","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Esposa robada."
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆"
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　懲罰警察に負けた","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Lost to the Punishment Police","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Perdido ante la policía disciplinaria."
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆"
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　原子炉が爆発した","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Nuclear reactor exploded","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ El reactor ha explotado."
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆"
-"narrator","　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　新型爆弾が投下された","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ New bomb Dan dropped","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Nueva bomba Dan lanzada."
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆"
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　ウィミィ軍に殲滅させられた","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　Wime forces annihilated us.","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　Erradicados por las fuerzas de Wime."
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆"
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　那古神様にすべてを捧げた","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　I gave everything I had to the god Nako","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　Se lo di todo al Dios Nako."
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆"
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　キャットの毒で……","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ kyatto by poison ……","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ kyatto por veneno: ……"
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆"
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　大切な人、民華を失った","GAME OVER ☆☆☆☆ Lost an important person, Minka.","GAME OVER ☆☆☆☆ Ha perdido una persona importante, Minka."
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　"
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　大切な人、元子を失った","GAME OVER ☆☆☆☆ Lost someone important, Motoko.","GAME OVER ☆☆☆☆ Hemos perdido a alguien importante, Motoko."
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　"
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　大切な人、喜久子を失った","GAME OVER ☆☆☆☆ Lost a precious person, Kikuko.","GAME OVER ☆☆☆☆ He perdido a mi preciosa Kikuko ."
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　"
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　大切な人、プリシラを失った","GAME OVER ☆☆☆☆ Lost a precious person, Priscilla.","GAME OVER ☆☆☆☆ Hemos perdido a alguien importante, Priscilla."
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　"
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　大切な人、殺を失った","GAME OVER ☆☆☆☆ Lost an important person, Satsu.","GAME OVER ☆☆☆☆ Ha perdido una persona importante, Satsu."
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　"
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　大切な人、アンリを失った","GAME OVER ☆☆☆☆ Lost a precious person, Henri.","GAME OVER ☆☆☆☆ Hemos perdido a alguien importante, Henri."
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　"
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　岳画殺を失った","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Takega Satsu lost","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Takega Satsu perdió"
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　"
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　プリシラを失った","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Lost Priscilla.","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Perdido Priscilla."
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　"
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　本拠地を失った","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Lost the main base","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Perdida de la base de operaciones"
-"__system__??","{RND = 0:","",""
-"__system__??","}","",""
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　"
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　山本悪司……死亡","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Yamamoto Akuji…… death","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Yamamoto Akuji…… muerte"
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　"
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　奉仕青年団　解散","GAME OVER ☆☆☆☆ Service Youth Group Dissolution","GAME OVER ☆☆☆☆☆ Se disuelve la organización juvenil del servicio"
-"__system__??","{RND = 0:","",""
-"__system__??","}","",""
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆"
-"narrator","　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　民華と二人で生きる","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Live with Minka.","☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ En directo con Minka."
+Yamamoto Akuji (talking),………脈がない…,……… No pulse…,……… No hay pulso…
+Takega Satsu (talking),なんだと！？,What the hell?,¿Qué demonios?
+norakoogii (talking),わおーーー……ん…,Wow… ………,Wow… ………
+manbou (talking),まーんぼーーーう……,Mambooooooo ……,Mambooooooo ……
+saru (talking),きーーー………,Keeeeeee ………,Keeeeeee ………
+narrator,みんな悲しんでいる… な~んとなく、悲しい…… な~んとなく、つらい………,Everyone is sad… What a sad…… What a painful ………,Todo el mundo está triste… Qué triste…… Qué doloroso ………
+neko (talking),にゃーにゃー……,Meow Meow ……,Nyanya: ……
+shounen (talking),どうしたんだい？ 泣くなよ…,What's wrong? Don't cry…,¿Qué pasa? No llores…
+neko (talking),にゃー…,Meow…,Miau…
+shounen (talking),えっ？,What?,¿Qué?
+narrator,猫を抱き上げた少年が空を見上げた。 ミサイルが落ちてきた。,A boy holding up a cat looked up at the sky. Missiles were falling.,Un niño sostiene un gato y mira al cielo. Los misiles estaban cayendo.
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　な~んとなく世界崩壊,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ The world collapses without a trace.,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆Nada más que el colapso del mundo
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　幽霊に呪い殺された……,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Cursed to death by a ghost……,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Maldito hasta la muerte por fantasmas……
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　悪司は殺された,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Akuji was Killed,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Akuji fue Asesinado
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　嫁を奪われた,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Stolen Wife,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Esposa robada.
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　懲罰警察に負けた,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Lost to the Punishment Police,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Perdido ante la policía disciplinaria.
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　原子炉が爆発した,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Nuclear reactor exploded,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ El reactor ha explotado.
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆
+narrator,　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　新型爆弾が投下された,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ New bomb Dan dropped,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Nueva bomba Dan lanzada.
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　ウィミィ軍に殲滅させられた,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　Wime forces annihilated us.,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　Erradicados por las fuerzas de Wime.
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　那古神様にすべてを捧げた,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　I gave everything I had to the god Nako,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　Se lo di todo al Dios Nako.
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　キャットの毒で……,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ kyatto by poison ……,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ kyatto por veneno: ……
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　大切な人、民華を失った,"GAME OVER ☆☆☆☆ Lost an important person, Minka.","GAME OVER ☆☆☆☆ Ha perdido una persona importante, Minka."
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　大切な人、元子を失った,"GAME OVER ☆☆☆☆ Lost someone important, Motoko.","GAME OVER ☆☆☆☆ Hemos perdido a alguien importante, Motoko."
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　大切な人、喜久子を失った,"GAME OVER ☆☆☆☆ Lost a precious person, Kikuko.",GAME OVER ☆☆☆☆ He perdido a mi preciosa Kikuko .
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　大切な人、プリシラを失った,"GAME OVER ☆☆☆☆ Lost a precious person, Priscilla.","GAME OVER ☆☆☆☆ Hemos perdido a alguien importante, Priscilla."
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　大切な人、殺を失った,"GAME OVER ☆☆☆☆ Lost an important person, Satsu.","GAME OVER ☆☆☆☆ Ha perdido una persona importante, Satsu."
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　大切な人、アンリを失った,"GAME OVER ☆☆☆☆ Lost a precious person, Henri.","GAME OVER ☆☆☆☆ Hemos perdido a alguien importante, Henri."
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　岳画殺を失った,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Takega Satsu lost,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Takega Satsu perdió
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　プリシラを失った,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Lost Priscilla.,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Perdido Priscilla.
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　本拠地を失った,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Lost the main base,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Perdida de la base de operaciones
+__system__??,{RND = 0:,,
+__system__??,},,
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　山本悪司……死亡,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Yamamoto Akuji…… death,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Yamamoto Akuji…… muerte
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆　　 　　奉仕青年団　解散,GAME OVER ☆☆☆☆ Service Youth Group Dissolution,GAME OVER ☆☆☆☆☆ Se disuelve la organización juvenil del servicio
+__system__??,{RND = 0:,,
+__system__??,},,
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆
+narrator,　　☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ 　　民華と二人で生きる,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ Live with Minka.,☆☆ＧＡＭＥ　ＯＶＥＲ☆☆ En directo con Minka.
