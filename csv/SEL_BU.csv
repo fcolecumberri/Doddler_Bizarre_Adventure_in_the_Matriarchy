@@ -221,7 +221,7 @@ __system__??,{COM_FLG = 1:,,
 __system__??,{Bキャラ = 1:,,
 __system__??,},,
 ??,削除する,Delete.,Borrar.
-??,削除しない,Not delete.,No borrar.
+??,削除しない,Do not delete.,No borrar.
 __system__??,{D03 & 1024 = 0:,,
 __system__??,},,
 __system__??,{R制御[35] & 1:,,
