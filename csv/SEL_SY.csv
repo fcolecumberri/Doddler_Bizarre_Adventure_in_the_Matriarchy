@@ -221,7 +221,7 @@ __system__??,},,
 __system__??,{COM_FLG = 2:,,
 __system__??,{(S調教レベル[1 + D01] \ 0) * (☆貴神 > 2):,,
 ??,払い下げる,Pay off,Pagar
-??,払い下げない,Not pay off,No pagar
+??,払い下げない,Do not pay off,No pagar
 __system__??,{S娼婦状態 = 11:,,
 __system__??,},,
 __system__??,{S娼婦状態 = 1:,,
