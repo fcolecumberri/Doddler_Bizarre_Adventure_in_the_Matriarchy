@@ -747,7 +747,7 @@ __system__??,{CFG_FLG & 8:,,
 __system__??,} else {,,
 ??,OFF,OFF,OFF
 __system__??,},,
-??,？デバッグモード:,Debug mode:,Modo de depuración :
+??,？デバッグモード:,Debug Mode:,Modo de depuración :
 __system__??,{DB:,,
 ??,ON,ON,ON
 __system__??,} else {,,
@@ -764,7 +764,7 @@ __system__??,},,
 __system__??,} else {,,
 ??,---,---,---
 __system__??,},,
-??,効果音　　　　　:,Effective sound :,Sonido efectivo :
+??,効果音　　　　　:,Sound Effects :,Sonido efectivo :
 __system__??,{PCM_DEV & 1:,,
 __system__??,{CFG_FLG & 2:,,
 ??,ON,ON,ON
@@ -774,19 +774,19 @@ __system__??,},,
 __system__??,} else {,,
 ??,---,---,---
 __system__??,},,
-??,会話の画面効果　:,Conversation screen effects :,Efectos de pantalla de la conversación :
+??,会話の画面効果　:,Conversation Screen Effects :,Efectos de pantalla de la conversación :
 __system__??,{CFG_FLG & 32:,,
 ??,ON,ON,ON
 __system__??,} else {,,
 ??,OFF,OFF,OFF
 __system__??,},,
-??,週毎のセーブ画面:,Weekly save screen:,Pantalla de ahorro semanal :
+??,週毎のセーブ画面:,Weekly Save Screen:,Pantalla de ahorro semanal :
 __system__??,{CFG_FLG & 64:,,
 ??,ON,ON,ON
 __system__??,} else {,,
 ??,OFF,OFF,OFF
 __system__??,},,
-??,　 初期画面に戻る 　,Return to initial screen,Volver a la pantalla inicial
+??,　 初期画面に戻る 　,Return to Title Screen,Volver a la pantalla inicial
 ??,－－－－戻る－－－－,－－－－RETURN－－－－,－－－－VOLVER－－－－
 __system__??,{BGM_DEV & 3:,,
 __system__??,{CFG_FLG & 1:,,
@@ -798,7 +798,7 @@ __system__??,{PCM_DEV & 1:,,
 __system__??,{CFG_FLG & 2:,,
 __system__??,},,
 __system__??,},,
-narrator,初期画面に戻ります。 本当によろしいですか？,You'll be returned to the initial screen. Are you sure you want to do this?,Vuelve a la pantalla inicial. ¿Estás seguro de que quieres hacer esto?
+narrator,初期画面に戻ります。 本当によろしいですか？,You'll be returned to the title screen. Are you sure you want to do this?,Vuelve a la pantalla inicial. ¿Estás seguro de que quieres hacer esto?
 narrator,はい,Yes,Sí
 narrator,いいえ,No,No
 __system__??,{D08 = 2:,,
