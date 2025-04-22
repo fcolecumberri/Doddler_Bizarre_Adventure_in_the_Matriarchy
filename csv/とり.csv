@@ -1,16 +1,16 @@
 character,jap text,Eng,Esp
-menu_label__(L_0011c),悪司系列,Akuji affiliate,Akuji afiliado
-menu_label__(L_002a8),青年団系列,youth group affiliation,grupo juvenil afiliado
-menu_label__(L_001d0),わかめ系列,Wakame family,Familia Wakame
-menu_label__(L_00220),桃山系列,Momoyama affiliate,Afiliado de Gomoyama
-menu_label__(L_00306),市議会系列,city council affiliate,ayuntamiento afiliado
-menu_label__(L_0059e),ウィミィ系列,Wime affiliate,Afiliado a Wime
-menu_label__(L_003ee),地域系列,geographic race,raza geográfica
-menu_label__(L_00614),四人衆系列,The Four Families,cuarteto
+menu_label__(L_0011c),悪司系列,Akuji Affiliate,Akuji Afiliado
+menu_label__(L_002a8),青年団系列,Youth Service Group Affiliate,Grupo Juvenil Afiliado
+menu_label__(L_001d0),わかめ系列,Wakame Family,Familia Wakame
+menu_label__(L_00220),桃山系列,Momoyama Affiliate,Afiliado de Gomoyama
+menu_label__(L_00306),市議会系列,City Council Affiliate,Ayuntamiento Afiliado
+menu_label__(L_0059e),ウィミィ系列,Wime Affiliate,Afiliado a Wime
+menu_label__(L_003ee),地域系列,Geographic Race,Raza Geográfica
+menu_label__(L_00614),四人衆系列,The Four Families,Cuarteto
 menu_label__(L_006aa),那古（高山）系列,Nako (Takayama) Affiliate,Nako (Takayama) Afiliación.
-menu_label__(L_0037c),その他系列,Other Series,Otras series
-menu_label__(L_006e4),エンディング系列,ending sequence,secuencia final
-menu_label__(L_0f5b7),さばらぐわし,saber-toothed blenny (Aspidontus taeniatus),Diente de sable (Aspidontus taeniatus)
+menu_label__(L_0037c),その他系列,Others,Otras
+menu_label__(L_006e4),エンディング系列,Ending Sequence,Secuencia Final
+menu_label__(L_0f5b7),さばらぐわし,Saber-Toothed Blenny,Diente de sable
 menu_label__(L_008d8),タマネギ,Tamanegi,Tamanegi.
 menu_label__(L_00c0e),大杉,Oosugi,Oosugi.
 menu_label__(L_00dcc),さっちゃん,Sachan,Sachan
@@ -18,20 +18,20 @@ menu_label__(L_013c2),一発,Ippatsu,Ippatsu.
 menu_label__(L_02e0e),島本純,Shimamoto Jun,Shimamoto Jun
 menu_label__(L_052bf),民華,Minka,Minka.
 menu_label__(L_0583b),神原夕子,Kanbara Yuuko,Kanbara Yuuko
-menu_label__(L_07ead),ギャルバーガー,gal burger,hamburguesa gal
-menu_label__(L_09670),悪司,Akuji .,Akuji.
+menu_label__(L_07ead),ギャルバーガー,Gal Burger,Gal Burger
+menu_label__(L_09670),悪司,Akuji,Akuji
 menu_label__(L_0daea),アンリ,Henri,Henri.
 menu_label__(L_0e24c),陸奥,Mutsu,Mutsu.
-menu_label__(L_0e4f6),ベラドンナ,Belladonna ., Belladonna.
-menu_label__(L_018c1),森田愛,Morita Love,Morita Amor
+menu_label__(L_0e4f6),ベラドンナ,Belladonna, Belladonna.
+menu_label__(L_018c1),森田愛,Morita Ai,Morita Ai
 menu_label__(L_04513),辻家晴子,Tsujiya Haruko,Tsujiya Haruko
 menu_label__(L_0aefd),ビノノン,Binonon, Binonon.
-menu_label__(L_0d26d),わかめ組,group of young Japanese amberjack (Seriola quinqueradiata),grupo de jóvenes serviolas (Seriola quinqueradiata)
+menu_label__(L_0d26d),わかめ組,Group of Japanese Amberjack,Grupo de Serviolas
 menu_label__(L_03c6b),桃山,Momoyama,Momoyama.
 menu_label__(L_0717f),支倉アエン,Hasekura Aen,Hasekura Aen
 menu_label__(L_07fbb),今川クルス,Imagawa Kurusu,Imagawa Kurusu
 menu_label__(L_08179),佐々木鹿の子,Sasaki Kanoko,Sasaki Kanoko
-menu_label__(L_084e6),盾,Tate.,Tate.
+menu_label__(L_084e6),盾,Tate,Tate
 menu_label__(L_08660),支倉キリカ,Hasekura Kirika,Hasekura Kirika
 menu_label__(L_08a36),春風,Harukaze,Harukaze.
 menu_label__(L_08d63),支倉ハイネ,Hasekura Haine,Hasekura Haine
@@ -39,19 +39,19 @@ menu_label__(L_01d1e),加古未来,Kako Mirai,Kako Mirai
 menu_label__(L_01f6e),衣笠智子,Kinugasa Tomoko,Kinugasa Tomoko
 menu_label__(L_048bd),青葉曜子,Aoba Youko,Aoba Youko
 menu_label__(L_0b5b4),日陰密子,Hikage Mitsuko,Hikage Mitsuko
-menu_label__(L_0746d),青年団,young persons' association,asociación de jóvenes
-menu_label__(L_03516),鴉葉月,Karasuba Tsuki,Karasuba  mes
+menu_label__(L_0746d),青年団,Youth Service Group,Asociación de Jóvenes
+menu_label__(L_03516),鴉葉月,Karasuba Tsuki,Karasuba Tsuki
 menu_label__(L_03175),中山明里,Nakayama Akari,Nakayama Akari
 menu_label__(L_05c0f),森薫,Mori Kaoru,Mori Kaoru
 menu_label__(L_0601e),中山多恵子,Nakayama Taeko,Nakayama Taeko
-menu_label__(L_062b1),市議会,city council,ayuntamiento de la ciudad
-menu_label__(L_06daa),選挙,election,elección
+menu_label__(L_062b1),市議会,City Council,Ayuntamiento de la Ciudad
+menu_label__(L_06daa),選挙,Election,Elección
 menu_label__(L_0e7b9),五十鈴伊万里,Isuzu Imari,Isuzu Imari
-menu_label__(L_0074c),えふ実件,epidemiological case,epidemia
-menu_label__(L_0080d),捕虜実験,prisoner-of-war experiment,experimento con prisioneros de guerra
-menu_label__(L_00849),看板実験,Signboard experiment,Experimento con carteles
-menu_label__(L_00878),背景実験,background research,experimento de fondo
-menu_label__(L_008d4),ぷっぷろぷろ,grumbling,frívolamente
+menu_label__(L_0074c),えふ実件,Epidemiological Case,Epidemia
+menu_label__(L_0080d),捕虜実験,Prisoner-of-War Experiment,Experimento con Prisioneros de Guerra
+menu_label__(L_00849),看板実験,Signboard Experiment,Experimento con Carteles
+menu_label__(L_00878),背景実験,Background Research,Experimento de Fondo
+menu_label__(L_008d4),ぷっぷろぷろ,Rumbling,Frívolamente
 menu_label__(L_0f56d),おじゃる,(usu. after the particle 'de') forms a polite copula,(normalmente después de la partícula “de”) forma una cópula de cortesía
 menu_label__(L_09cc1),地域,area,zona
 menu_label__(L_02230),多田山一途,Tadayama Ichizu,Tadayama Ichizu
@@ -80,14 +80,14 @@ menu_label__(L_0ca46),湯室世津子,Yumuro Setsuko,Yumuro Setsuko
 menu_label__(L_0caf8),筒井朝顔,Tsutsui Asagao ,Tsutsui Asagao.
 menu_label__(L_0ce9b),野山めぐる,Noyama Meguru,Noyama Meguru
 menu_label__(L_0d2fd),セヤダタラ,Seyadatara,Seyadatara.
-menu_label__(L_0d8e7),ＷＷ弾,White wolf Dan,White wolf Dan
-menu_label__(L_06616),ウィミィ,Wime.,Wime.
+menu_label__(L_0d8e7),ＷＷ弾,White Wolf Dan,White Wolf Dan
+menu_label__(L_06616),ウィミィ,Wime,Wime.
 menu_label__(L_0b223),ジョンソン,Johnson,Johnson.
 menu_label__(L_0b281),バーバラ,Barbara, Barbara.
 menu_label__(L_0b2fb),シャロン,Sharon,Sharon.
 menu_label__(L_0c534),ウィミィ／決戦,Wime/Decisive battle,Wime/Batalla decisiva
 menu_label__(L_0e920),サンディ,Sandy,Sandy.
-menu_label__(L_09036),郷田真,Gouda true,Gouda Verdadero
+menu_label__(L_09036),郷田真,Gouda Shin,Gouda Shin
 menu_label__(L_09159),天戸香太郎,Amato Koutarou,Amato Koutarou
 menu_label__(L_092b2),柳秋光,Yanagi Akimitsu,Yanagi Akimitsu
 menu_label__(L_093b2),イルラカムイ,Ilulakamui,Ilulakamui.
@@ -98,58 +98,58 @@ menu_label__(L_0eace),星川翼,Hoshikawa Tsubasa,Hoshikawa Tsubasa
 menu_label__(L_0ebf5),鴉丸羅喉,Karasuma Ragou,Karasuma Ragou
 menu_label__(L_0b728),高山はみ,Takayama Hami,Takayama Hami
 menu_label__(L_0bb25),高山リクペチ,Takayama Rikupechi,Takayama Rikupechi
-menu_label__(L_0d821),シーネルエンド,Seanel end,Seanel fin
-menu_label__(L_0d87f),民華エンド,Minka end,Minka Fin
+menu_label__(L_0d821),シーネルエンド,Seanel End,Seanel Fin
+menu_label__(L_0d87f),民華エンド,Minka End,Minka Fin
 menu_label__(L_0eac2),アンリエンド,Henri End,Henri Fin
-menu_label__(L_0ea77),ＥＬＰだだ流し実験,ELP Dumping Experiment,Experimento de vertido de ELP
+menu_label__(L_0ea77),ＥＬＰだだ流し実験,ELP Dumping Experiment,Experimento de Vertido de ELP
 narrator,止まれ。,Stop.,Para.
 narrator,止まれ。,Stop.,Para.
 menu_label__(L_00b04),タマネギイベントＡ,Tamanegi Event A,Evento Tamanegi A
 menu_label__(L_00b10),タマネギイベントＢ,Tamanegi Event B,Evento Tamanegi B
-menu_label__(L_00b1c),タマネギ調教部屋,Tamanegi training room,Sala de formación Tamanegi
+menu_label__(L_00b1c),タマネギ調教部屋,Tamanegi Training Room,Sala de Formación Tamanegi
 menu_label__(L_00b28),調教＿引取,Training Pickup,Entrenamiento Recogida.
-menu_label__(L_00b42),石原／主婦をさらう,Ishihara/Housewives are kidnapped,Ishihara/Las amas de casa son secuestradas
-menu_label__(L_00b4e),小原／女子学生をさらう,Kohara/snatch up female students,Kohara/escoltas expuestas.
-menu_label__(L_00b5a),タマネギ／娼婦と一緒,Tamanegi/With whores,Tamanegi/Con prostitutas.
-menu_label__(L_00b66),小春／娼婦と一緒,Koharu/With whores,Koharu/Con prostitutas
-menu_label__(L_00b72),千手／娼婦と一緒,Senju/With whores,Senju/Con prostitutas.
-menu_label__(L_00b7e),調教の館／誰もいない,Training hall/No one,Sala de entrenamiento/no hay nadie en la casa.
-menu_label__(L_00b8a),タマネギ／道具洗い,Tamanegi/Tool washing,Tamanegi/Lavado de herramientas.
+menu_label__(L_00b42),石原／主婦をさらう,Ishihara/Housewives are kidnapped,Ishihara/Las Amas de Casa son Secuestradas
+menu_label__(L_00b4e),小原／女子学生をさらう,Kohara/Snatching up female students,Kohara/escoltas expuestas.
+menu_label__(L_00b5a),タマネギ／娼婦と一緒,Tamanegi/With Prostitutes,Tamanegi/Con prostitutas.
+menu_label__(L_00b66),小春／娼婦と一緒,Koharu/With Prostitutes,Koharu/Con prostitutas
+menu_label__(L_00b72),千手／娼婦と一緒,Senju/With Prostitutes,Senju/Con prostitutas.
+menu_label__(L_00b7e),調教の館／誰もいない,Training Hall/No one,Sala de entrenamiento/no hay nadie en la casa.
+menu_label__(L_00b8a),タマネギ／道具洗い,Tamanegi/Tool Washing,Tamanegi/Lavado de herramientas.
 menu_label__(L_00b96),小春／考え事,Koharu/Thinking,Koharu/Pensado en.
-menu_label__(L_00ba2),千手／ラブレター,Senju/Love Letter,Senju/Carta de amor.
+menu_label__(L_00ba2),千手／ラブレター,Senju/Love Letter,Senju/Carta de Amor.
 menu_label__(L_00bae),タマネギ／選挙協力,Tamanegi/Electoral Assistance,Tamanegi/Cooperación electoral
-menu_label__(L_00a3c),次,next,siguiente
-menu_label__(L_00bba),タマネギ／売春宿汎用,Tamanegi/Brothel General Purpose,Tamanegi/Burdel propósito general.
-menu_label__(L_00bc6),タマネギ／調教の館汎用,Tamanegi/Training House General Purpose,Tamanegi/Casa de formación propósito general.
+menu_label__(L_00a3c),次,Next,Siguiente
+menu_label__(L_00bba),タマネギ／売春宿汎用,Tamanegi/Brothel General Purpose,Tamanegi/Burdel Propósito General.
+menu_label__(L_00bc6),タマネギ／調教の館汎用,Tamanegi/Training House General Purpose,Tamanegi/Casa de Formación Propósito General.
 menu_label__(L_00bd2),タマネギ／クビ,Tamanegi/Fired,Tamanegi/Disparado.
-menu_label__(L_00bde),汎用／売春宿にて,General Purpose/At a brothel,Propósito general/En los burdeles
+menu_label__(L_00bde),汎用／売春宿にて,General Purpose/At a Brothel,Propósito General/En los Burdeles
 menu_label__(L_00bea),小春／ギャルバーガー目標,Koharu/Galburger Goal,Koharu/Galburger Objetivo.
 menu_label__(L_00bf6),小春／ＥＰＬ,Koharu/EPL,Koharu/EPL
 menu_label__(L_00c02),小春／ＧＡＬバーガー汎用,Koharu/GAL Burger General Purpose,Koharu/GAL Burger Propósito general
 menu_label__(L_00d02),部下イベント１,Subordinate Event 1,Evento subordinado 1
 menu_label__(L_00d18),部下イベント２,Subordinate Event 2,Evento subordinado 2.
 menu_label__(L_00d2e),部下イベント３,Subordinate Event 3,Evento subordinado 3.
-menu_label__(L_00d4e),部下イベント,subordinate event,evento subordinado
+menu_label__(L_00d4e),部下イベント,Subordinate Event,evento subordinado
 menu_label__(L_00d64),部下プレゼント,Subordinates Present,Subordinados presentes.
 menu_label__(L_00d75),大杉／特訓,Oosugi/Training,Oosugi/Entrenamiento especial
-menu_label__(L_00d81),大杉剛／登場０,Oosugi Tsuyoshi／appeared0,Oosugi Tsuyoshi/apareció0
-menu_label__(L_00d92),大杉剛／登場１,Oosugi Tsuyoshi/appeared1,Oosugi Tsuyoshi/apareció1
-menu_label__(L_00da3),大杉剛／登場２,Oosugi Tsuyoshi/appeared2,Oosugi Tsuyoshi/apareció2
+menu_label__(L_00d81),大杉剛／登場０,Oosugi Tsuyoshi／Appearance0,Oosugi Tsuyoshi/apareció0
+menu_label__(L_00d92),大杉剛／登場１,Oosugi Tsuyoshi/Appearance1,Oosugi Tsuyoshi/apareció1
+menu_label__(L_00da3),大杉剛／登場２,Oosugi Tsuyoshi/Appearance2,Oosugi Tsuyoshi/apareció2
 menu_label__(L_00db4),大杉／つちのこ１,Oosugi/Tsuchinoko1,Oosugi/Tsuchinoko1
 menu_label__(L_00dc0),大杉／つちのこ４,Oosugi/Tsuchinoko4,Oosugi/Tsuchinoko4
 menu_label__(L_01124),岳画殺が来る,Takega Satsu is coming,Takega Satsu viene
 menu_label__(L_01130),殺／死亡,Satsu/Deceased,Satsu/fallecido
 menu_label__(L_0113c),部下イベント１,Subordinate Event 1,Evento subordinado 1
 menu_label__(L_01152),部下イベント２,Subordinate Event 2,Evento subordinado 2.
-menu_label__(L_0116d),部下イベント,subordinate event,evento subordinado
-menu_label__(L_01183),部下エッチ,subordinate sex,sexo subordinado
-menu_label__(L_01194),部下エッチ２,Subordinate sex 2,Sexo subordinado 2
+menu_label__(L_0116d),部下イベント,Subordinate Event,evento subordinado
+menu_label__(L_01183),部下エッチ,Subordinate Sex,sexo subordinado
+menu_label__(L_01194),部下エッチ２,Subordinate Sex 2,Sexo subordinado 2
 menu_label__(L_011aa),部下プレゼント,Subordinates Present,Subordinados presentes.
 menu_label__(L_011c0),部下調教の館行き,Go to the house of training of subordinates,Ir a la Casa de la Formación Subalterna
 menu_label__(L_011d1),部下ＧＡＬバー行き,Go to subordinate GAL bar,Ir a la barra de GAL subordinada
 menu_label__(L_011e2),殺ドキ１,Satsu Doki 1,Satsu doki 1
 menu_label__(L_011ee),殺ドキ２,Satsu Doki 2,Satsu doki 2
-menu_label__(L_011fa),殺一緒,Satsu together,Satsu juntos
+menu_label__(L_011fa),殺一緒,Satsu Together,Satsu juntos
 menu_label__(L_01206),部下イベント／アイテム,Subordinate Events/Items,Eventos/artículos subordinados
 menu_label__(L_00efc),次のページは嫁,Next page is the wife,La siguiente página es la esposa.
 menu_label__(L_0122e),部下イベントＡ１,Subordinate Event A1,Evento subordinado A1
