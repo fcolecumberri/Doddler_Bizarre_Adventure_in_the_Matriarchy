@@ -100,7 +100,7 @@ Thanks SeizedVirus53 and Michi for all the help translating the images.
 
 Garland, Thanks for editing the images, they look awesome.
 
-[CalebmanX](https://www.youtube.com/@CalebmanX) thanks for the cheering, that kind of small things truly motivates me.
+[VivversX](https://www.youtube.com/@VivversX) thanks for the cheering, that kind of small things truly motivates me.
 
 ## CopyRight
 
