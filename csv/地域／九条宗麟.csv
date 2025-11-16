@@ -16,15 +16,15 @@ __system__??,},,
 __system__??,{麦 = 16:,,
 __system__??,},,
 Kujou Sourin (talking),お呼びですか？ 悪司さん。,You wanted to see me? Akuji.,¿Querías verme? Akuji.
-Yamamoto Akuji (talking),おう、こっちこいや。,"Oh, come here, come here.","Oh, ven aquí, ven aquí."
-Kujou Sourin (talking),はい、失礼します。,"Yes, excuse me.","Sí, discúlpeme."
+Yamamoto Akuji (talking),おう、こっちこいや。,"Yes, come here, come here.","Oh, ven aquí, ven aquí."
+Kujou Sourin (talking),はい、失礼します。,"Excuse me.","Sí, discúlpeme."
 Yamamoto Akuji (talking),"お前さんさー、どうしてそんなに 金が欲しい訳？
 なんかこー、高貴な匂いがするのに、 金、金ってガメツイ事言うからよ。 アンバランスだなーと。","Why do you want money so badly?
-You smell so noble, but you talk so much about money, money, money. It's unbalanced.","¿Por qué quieres tanto el dinero?
+You seem so noble, but you talk so much about money. It's unbalanced.","¿Por qué quieres tanto el dinero?
 Hueles tan noble, pero hablas tanto de dinero. Está desequilibrado."
 Kujou Sourin (talking),僕の為に使うお金ではありません。 僕がお世話になっています、 お寺の為です。,"It is not for me. It is for the temple, to which I am indebted.","El dinero no es para mí. Es por el templo, por el que estoy en deuda."
 Yamamoto Akuji (talking),寺？,Temple?,¿Templo?
-Kujou Sourin (talking),はい。 僕は九条橋の袂に捨てられていた 子供なんです。,"Yes, I am. I am Kujou, a child who was abandoned by the side of the bridge.","Sí, soy Kujou, un niño abandonado al lado de un puente. Soy Kujou, un niño abandonado al lado del puente."
+Kujou Sourin (talking),はい。 僕は九条橋の袂に捨てられていた 子供なんです。,"Yes, I am. I was a child who was abandoned by the side of the bridge.","Sí, soy Kujou, un niño abandonado al lado de un puente. Soy Kujou, un niño abandonado al lado del puente."
 Yamamoto Akuji (talking),だから、九条……,"So, Kujou ……","Así que, Kujou ……"
 Kujou Sourin (talking),"はい。 宗麟は、そこにいるお爺殿達…… お坊様方につけて頂いた名前です。
 そのお寺は、戦前から重要文化財指定を 国から受けていたので、しっかり 維持しなくてはいけません。
@@ -44,30 +44,29 @@ Kujou Sourin (talking),"はい。
 経理をなさっていた方が残して下さって いた手紙に、月々３００万円は必要と 書かれていました。","Yes.
 In a letter left by an accountant, he wrote that he needed 3 million yen per month.","Sí.
 En una carta dejada por uno de los contables, escribió que necesitaba 3 millones de yenes al mes."
-Yamamoto Akuji (talking),それで、３００万円……,"So, $3 million ……","Así que, 3 millones de ……"
+Yamamoto Akuji (talking),それで、３００万円……,"So, 3 million yen……","Así que, 3 millones de ……"
 Kujou Sourin (talking),"はい。 意地でも、僕が稼がなくてはいけない 最低金額です。
 そうしなければ、お爺殿達は 自分達が死んでも寺を守ろうとするので。
 しかし、僕は寺からあまり外に出た事が なかったので……
 お金の価値がいまひとつ、 わかりません。","Yes. It is the minimum amount of money I have to earn, no matter what.
 If I don't, my grandfathers will try to protect the temple even if they die.
-But I have never been out of the temple much, so I don't understand the value of ……
-I don't really understand the value of money.","Sí. Es la cantidad mínima de dinero que tengo que ganar, pase lo que pase.
+But I have never been out of the temple much, so I don't understand the value of money.","Sí. Es la cantidad mínima de dinero que tengo que ganar, pase lo que pase.
 De lo contrario, los abuelos tratarán de proteger el templo incluso si mueren.
 Pero nunca he salido mucho del templo, así que no entiendo el valor del dinero……
 No entiendo muy bien el valor del dinero."
 Yamamoto Akuji (talking),そーだなーー。 娼館が何するとこだって、 わかんなかったみたいだし。,That's true. She didn't understand what a whorehouse was supposed to do.,Es cierto. No entendía lo que debía hacer un prostíbulo.
-Kujou Sourin (talking),そんな中で、悪司さんにお会いする事が 出来て、非常にありがたく思っています。,I am very grateful to have met Mr. Akuji.,Estoy muy agradecido por haber conocido a Akuji en este contexto.
+Kujou Sourin (talking),そんな中で、悪司さんにお会いする事が 出来て、非常にありがたく思っています。,I am very grateful to have met Akuji-san.,Estoy muy agradecido por haber conocido a Akuji en este contexto.
 narrator,宗麟はそう言うと、悪司に手を合わせた。,Sourin said so and put his hand together with Akuji.,Sourin dijo esto y puso su mano en la de Akuji.
 Yamamoto Akuji (talking),おいおい、何やってんだよ。,"Oh, come on, what are you doing?","Oh, vamos, ¿qué estás haciendo?"
 Kujou Sourin (talking),お呼びになりましたか？,Did you call for me?,¿Me has llamado?
-Yamamoto Akuji (talking),おう。,Oh.,Oh.
+Yamamoto Akuji (talking),おう。,Yeah.,Oh.
 Yamamoto Akuji (talking),これ、ちょっとだけど、寺の維持費の 足しにしてやってくんな。,Please give a little of this to the temple for its upkeep.,Coge un poco de esto y dáselo al templo para ayudar al mantenimiento.
 narrator,悪司はまとまった金の入った封筒を、 宗麟に手渡した。,Akuji handed an envelope containing a large sum of money to Sourin.,Akuji entregó un sobre con una gran suma de dinero a Sourin.
-Kujou Sourin (talking),ありがとうございます。 お爺殿達も喜ぶ事でしょう。 では、お礼に読教を……,"Thank you very much. Your grandfathers will be pleased. Now, thank you for your reading: ……","Muchas gracias. Tus abuelos estarán encantados. Ahora, gracias por leer la enseñanza: ……"
+Kujou Sourin (talking),ありがとうございます。 お爺殿達も喜ぶ事でしょう。 では、お礼に読教を……,"Thank you very much. The grandfathers will be pleased. Now, thank you for your help: ……","Muchas gracias. Tus abuelos estarán encantados. Ahora, gracias por leer la enseñanza: ……"
 Yamamoto Akuji (talking),あー、そんな抹香臭いのはいらねぇ。 そん代わり、俺の為に働いてくれ。,"Oh, I don't want that kind of matchstick smell. Instead, work for me.","No quiero ese tipo de olor a fósforo. En cambio, trabaja para mí."
 Kujou Sourin (talking),はい、わかりました。,"Yes, I understand.","Sí, lo entiendo."
 narrator,宗麟が悪司の前に連れてこられた。,Sourin was brought before Akuji.,Sourin fue llevado ante Akuji.
-Kujou Sourin (talking),お願いです、ここから出して下さい。 僕にはじっとしている時間はないのです。 お願いします。,"Please, let me out of here. I don't have time to sit still. Please let me out of here.","Por favor, sácame de aquí. No tengo tiempo para quedarme quieto. Por favor."
+Kujou Sourin (talking),お願いです、ここから出して下さい。 僕にはじっとしている時間はないのです。 お願いします。,"Please, let me out of here. I don't have time to sit still.","Por favor, sácame de aquí. No tengo tiempo para quedarme quieto. Por favor."
 Yamamoto Akuji (talking),ん~……,Hmmm… ……,Hmmm… ……
 Kujou Sourin (talking),悪司さん……お願いです。,"Akuji,…… please.","Akuji,…… por favor."
 Kujou Sourin (talking),こうしている間に、お爺殿達は自分の命を 削って寺を守っています。 お願いですから、僕を解放して下さい。,"While I am doing this, my grandfathers are protecting the temple by sacrificing their own lives. I beg you, please let me go.","Mientras yo hago esto, mis abuelos protegen el templo con sus propias vidas. Te lo ruego, por favor, déjame ir."
