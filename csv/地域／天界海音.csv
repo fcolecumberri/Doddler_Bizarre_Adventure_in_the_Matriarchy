@@ -53,7 +53,7 @@ Tenkai Umine (talking),さっそく抱いてくれんの？ サービスいい�
 Yamamoto Akuji (talking),んーどーすっかなー。,I don't know what to do.,Hmmm… ¿qué debo hacer?
 Tenkai Umine (talking),まあ、すぐとは言わないけどさ。 んでも約束は約束だよ。 守んなかったら。,"Well, I'm not saying soon. But a promise is a promise. If you don't keep it.","Bueno, no digo que sea pronto. Pero una promesa es una promesa. Si no te lo quedas."
 Yamamoto Akuji (talking),ズキューン。,KaBoom.,KaBoom.
-Tenkai Umine (talking),＜たんたまご＞ ズキューン！,"<Tantamago> KaBoom!","<Tantamago> ¡KaBoom!"
+Tenkai Umine (talking),＜たんたまご＞ ズキューン！,<Tantamago> KaBoom!,<Tantamago> ¡KaBoom!
 narrator,はい、次、了君の番だよ。,"Yes, next, Ryou your turn.","Sí, a continuación, Tú tu turno."
 Matsumoto Ryou (talking),うわ…難しいな、これ……,Wow…that's a tough one……,Vaya… eso es difícil……
 Tenkai Umine (talking),"ほら、がんばがんば。
@@ -85,7 +85,7 @@ Tenkai Umine (talking),やだもん。,I don't want to.,No quiero hacerlo.
 Yamamoto Akuji (talking),かわいーねー。,You're cute.,Eres linda.
 Tenkai Umine (talking),ありがと。 了君もそう言ってくれるんだ☆,Thanks. Ryou-kun you says that too☆.,Gracias. Ryou-kun tú también dices eso☆.
 Yamamoto Akuji (talking),ノロケやがって。,You're joking.,Estás bromeando.
-Tenkai Umine (talking),へへへへへー。,Hehehehehee.,"Hehehehehee."
+Tenkai Umine (talking),へへへへへー。,Hehehehehee.,Hehehehehee.
 Yamamoto Akuji (talking),でよ、海音。,"So, Umine.","Y así, Umine."
 Tenkai Umine (talking),何？,What?,¿Qué?
 Yamamoto Akuji (talking),するか？,Do you want to?,¿Quieres hacerlo?
@@ -175,7 +175,7 @@ Ryou-kun!?
 ¿¡Ryou-kun!?
 <Tantamago> ¡Kiyaha!"
 Matsumoto Ryou (talking),よかった…生きてたんだね……,Thank God… you're alive……,Gracias a Dios… estás vivo……
-Tenkai Umine (talking),了君こそ！ で、でもどうしてここに？,"Ryou-kun! But why are you here?","¡Ryou-kun! ¿Pero por qué estás aquí?"
+Tenkai Umine (talking),了君こそ！ で、でもどうしてここに？,Ryou-kun! But why are you here?,¡Ryou-kun! ¿Pero por qué estás aquí?
 Matsumoto Ryou (talking),それが……,That's ……,Se puede encontrar en ……
 Yamamoto Akuji (talking),そーら、プレゼントだ。,"Here, it's a gift.","Ten, es un regalo."
 narrator,と言って、悪司は了の背中を押した。 自然と、了は海音の前に立つ事になる。,"With that, Akuji pushed Ryou back. Naturally, Ryou ended up standing in front of Umine.","Con eso, Akuji empujó a Ryou hacia atrás. Naturalmente, Ryou terminó parado frente a Umine."
@@ -578,7 +578,7 @@ Muy bien, lucharé por ti. Pero si rompes tu promesa, KaBoom, Te mueres.
 ＜Tantamago＞ ¡KaBoom!"
 Yamamoto Akuji (talking),ＯＫＯＫ。 そいじゃ、契約成立だ。,"OK, OK. Then we have a contract.","Vale, vale, entonces tenemos un trato."
 narrator,"オオサカ湾に浮かぶこの島は、戦時中は 海軍の基地として有名だったが…… 現在は海賊の島として有名であった。
-しかも、その海賊というのが。","This island in Osaca Bay was famous as a naval base during the war, but…… is now famous as an island of pirates.
+しかも、その海賊というのが。","This island in Osaka Bay was famous as a naval base during the war, but…… is now famous as an island of pirates.
 And the pirates are.","Esta isla en la bahía de Osaka fue famosa como base naval durante la guerra…… pero ahora es famosa como isla de piratas.
 Además, los piratas son."
 Tenkai Umine (talking),アーユーレディ！？,"Aaahhhhhh, you lady!","¡Arre, señora!"
@@ -592,7 +592,7 @@ onnanokokaizoku (talking),イエー！！,Yeah!!,¡¡Yeah!!
 narrator,これが、パナジの海賊。 皆、少女だった。,These are the pirates of Panaji. They were all girls.,Estos son los piratas de Panaji. Todas eran chicas.
 onnanokokaizoku (talking),サー海音！ 全船出撃準備完了です！,Captain Umine! All ships are ready to launch.,"¡Capitán Umine! ¡Todas las naves listas para despegar, señor Ryou!"
 Tenkai Umine (talking),ＯＫ！ んじゃ、１号艦から出撃！！,"OK, let's launch from the first ship!","Bien, entonces, ¡lanzad la primera nave!"
-onnanokokaizoku (talking),イエスサー！,Yes captain!,"¡Sí capitan!"
+onnanokokaizoku (talking),イエスサー！,Yes captain!,¡Sí capitan!
 Tenkai Umine (talking),"おもしろくなってきたね、たんたまご。
  ＜たんたまご＞ イエー！","It's getting interesting Tane, Tantamago.
  <Tantamago> Yay!","Se está poniendo interesante Tane, Tantamago.
@@ -611,13 +611,13 @@ Tenkai Umine (talking),"あん、駄目駄目。 了君は、このパナジの�
 Idols shouldn't do hard work. Besides, if something happens to the idol, we'll be in trouble. So, stay still.","Oh, no, no, no. Ryou, eres un ídolo aquí en Panaji.
 Los ídolos no deben hacer el trabajo duro. Además, si le pasa algo al ídolo, sería un desastre. Así que, quédate quieto."
 Matsumoto Ryou (talking),………………,………………,………………
-onnanokokaizoku (talking),サー海音！ 密輸船、はっけ~ん！,"Captain Umine! A smuggler ship was discooovered!","¡Capitán Umine! ¡Se ha descubierto un barco de contrabandistaaas!"
+onnanokokaizoku (talking),サー海音！ 密輸船、はっけ~ん！,Captain Umine! A smuggler ship was discooovered!,¡Capitán Umine! ¡Se ha descubierto un barco de contrabandistaaas!
 Tenkai Umine (talking),ＯＫＯＫ！ さっそくかっぱぎに行くよ、みんなー！,"OK, OK, I'm coming right out of the gate, guys!","OK, OK, ¡Voy a salir con todo desde el principio, chicos!"
-onnanokokaizoku (talking),イエスサー！,Yes captain!,"¡Sí capitán!"
+onnanokokaizoku (talking),イエスサー！,Yes captain!,¡Sí capitán!
 Tenkai Umine (talking),＜たんたまご＞ イエー！,<Tantamago> Yay!,<Tantamago> ¡Yay!
 narrator,海音が率いる海賊は、あっという間に 密輸船を占拠した。,"The pirates, led by Umine, quickly took over the smuggling vessel.","Los piratas, dirigidos por Umine, se apoderaron rápidamente del barco de contrabando."
 Tenkai Umine (talking),エモノは？,What's the booty?,¿Qué conseguimos?
-onnanokokaizoku (talking),はい。 お米と舶来品でしたー。,"Yeah. It's rice and imported goods.",Sí. arroz y productos importados.
+onnanokokaizoku (talking),はい。 お米と舶来品でしたー。,Yeah. It's rice and imported goods.,Sí. arroz y productos importados.
 Tenkai Umine (talking),"さすがＰＭの密輸船。 ハイカラなモンまでガッチョリー☆
 じゃあ、お米と舶来品、通行税って事で、 何割かいただきまーす。 ＯＫ？
  ＜たんたまご＞ ＯＫ　ＯＫ！","As one would expect from a PM smuggling ship. They even have a lot of expensive stuff☆.
@@ -649,7 +649,7 @@ __system__??,},,
 Tenkai Umine (talking),最近めっきり落ち目の組の船かー。 エモノはショボイかもしんないけど、 かっぱぐのが、あたし達！,"I guess this is a ship from a group that's been on the wane lately. The stuff may be crappy, but we're the ones who make the boat!","Los barcos de un grupo que últimamente está en declive. Puede que el material sea cutre, ¡pero somos nosotros los que lo navegamos!"
 onnanokokaizoku (talking),イエー！,Yeah!,¡Sí!
 Tenkai Umine (talking),よし、行くよ！,"Okay, here we go!","Muy bien, ¡vamos!"
-onnanokokaizoku (talking),イエスサー！,Yes captain!,"¡Sí capitán!"
+onnanokokaizoku (talking),イエスサー！,Yes captain!,¡Sí capitán!
 Tenkai Umine (talking),＜たんたまご＞ イエー！,<Tantamago> Yay!,<Tantamago> ¡Yay!
 narrator,海音が率いる海賊は、あっという間に 密輸船を占拠した。,"The pirates, led by Umine, quickly took over the smuggling vessel.","Los piratas, dirigidos por Umine, se apoderaron rápidamente del barco de contrabando."
 Tenkai Umine (talking),なんて意気地のない。 戦わないで無条件降伏なんて。,How willful. Unconditional surrender without a fight.,Qué voluntarioso. Cómo la rendición incondicional sin lucha.
@@ -660,7 +660,7 @@ __system__??,},,
 Tenkai Umine (talking),あんたみたいな大人の命なんか いらないわ。 積み荷も２５％頂くだけでいいわ。,I don't want the life of an adult like you. We'll take 25% of the load.,No quiero la vida de los adultos como tú. Sólo tomaremos el 25% de la carga.
 onnanokokaizoku (talking),サー海音！ 積み荷はお米とタバコとお味噌、 砂糖、衣類でーす！,"Captain Umine! I've got rice, cigarettes, miso, sugar and clothes!","¡Capitán Umine! ¡Tenemos arroz, cigarrillos, miso, azúcar y ropa!"
 Tenkai Umine (talking),タバコはいらないわ。 後は適当にチョイスして。 ２５％だよ。,I don't want a cigarette. The rest is just your choice. 25%.,No quiero un cigarrillo. El resto del tiempo lo puedes elegir como mejor te parezca. 25%.
-onnanokokaizoku (talking),イエスサー！,Yes captain!,"¡Sí capitán!"
+onnanokokaizoku (talking),イエスサー！,Yes captain!,¡Sí capitán!
 Chinpira (thinking),さっきから見てたら……こいつら、 ガキばっかかよ。 ひょっとして、ビビリ損だったか？,"I was just looking at…… and saw that these guys are all kids. Did you lose your chatter, by any chance?",He estado mirando en…… y estos chicos son todos niños. ¿Por casualidad perdiste la charla?
 narrator,男はドスを抜くと、海音にかかっていった。,The man pulled out his doss and took on Umine.,El hombre sacó su dos y se puso en Umine.
 Chinpira (talking),この乳くせーガキ共がーー！！ 大人の力、思い知れ！,"You naughty, naughty children! You know what adults are capable of!",¡Malditos bastardos! ¡Ya sabes de lo que son capaces los adultos!
@@ -688,8 +688,8 @@ Usted y este cargamento serán confiscados. Quiero que tú y este jefe os castig
 <Tantamago> ¡¡Castiguen! !"
 onnanokokaizoku (talking),サー海音！ ウィミィの駆逐艦です！！,Captain Umine! It's a Wime ship!,¡Capitán Umine! ¡Es un navio destructor de Wime!
 Tenkai Umine (talking),ちっ……逃げよう。 あれは今のあたしらじゃ どーする事も出来ないからね。,"Damn it, ……, let's run away. There's nothing we can do about it now.","Maldita sea, ……, huyamos. No hay nada que podamos hacer ahora."
-onnanokokaizoku (talking),イエスサー！,Yes captain!,"¡Sí capitán!"
-Tenkai Umine (talking),はーやれやれ……,"Hurray……","Viva……"
+onnanokokaizoku (talking),イエスサー！,Yes captain!,¡Sí capitán!
+Tenkai Umine (talking),はーやれやれ……,Hurray……,Viva……
 Matsumoto Ryou (talking),おかえり、海音さん。,"Welcome back, Umine-san.","Bienvenida, Umine-san."
 Tenkai Umine (talking),＜たんたまご＞ タダイマー！,<Tantamago> Welcome back!,<Tantamago> ¡Bienvenida!
 Matsumoto Ryou (talking),たんたまごも、おかえり。,"Welcome back, Tantamago, too.",Tantamago también es bienvenido.
@@ -707,7 +707,7 @@ Matsumoto Ryou (talking),"……ううん……
 I'm also… Umine-san, sorry I couldn't sleep with you……","……Uun……
 Yo también… Umine-san, es una pena que no pude dormir con tigo……"
 Tenkai Umine (talking),みんなにそんな事言ってんじゃないの？ 案外、了君ってお調子者なんだね。,"Aren't you telling everyone that? Surprisingly, Ryou-kun, you are a very happy person.","¿No le estás diciendo eso a todo el mundo? Sorprendentemente, Ryou-kun, eres una persona muy feliz."
-Matsumoto Ryou (talking),……僕は…海音さんの…,"……I… Umine-san…","……Yo… Umine-san…"
+Matsumoto Ryou (talking),……僕は…海音さんの…,……I… Umine-san…,……Yo… Umine-san…
 onnanokokaizoku (talking),あのー……サー海音…… 中田です…その……,Um…… Captain Umine…… I'm Nakata… that……,Um…… Capitán Umine…… Soy Nakata… esa……
 Tenkai Umine (talking),ああ、いいよ、持っていきなよ。,"Yeah, fine, take it.","Sí, bien, tómalo."
 narrator,海音はそう言って、了の腕を掴むと 中田の方へ差し出した。,Umine then grabbed Ryou's arm and held it out toward Nakata.,Umine entonces agarró el brazo de Ryou y lo extendió hacia Nakata.
@@ -860,7 +860,7 @@ I don't know what will happen.
 Come on, guys, let's go.","Eso no es un problema. Si quieres hacer que te escuche por la fuerza de las armas, puedes seguir adelante y atacarme.
 No sé qué pasará.
 Venga, chicos, vamos."
-onnanokokaizoku (talking),イエスサー！,Yes captain!,"¡Sí capitán!"
+onnanokokaizoku (talking),イエスサー！,Yes captain!,¡Sí capitán!
 narrator,娘達はさっさと悪司の前から立ち去った。,The girls quickly walked away from Akuji.,Las chicas salieron rápidamente de Akuji.
 Chinpira (talking),ど、どうしやす？,What do you want?,¿Qué quieres?
 Yamamoto Akuji (talking),"しゃーねぇなぁ……
@@ -928,7 +928,7 @@ Tenkai Umine (talking),"……はあ……はあ……
 <Tantamago> shi~kari　shi~kari！"
 Matsumoto Ryou (talking),海音さん！？,Umine-san!?,¿¡Umine-san!?
 Tenkai Umine (talking),はーい…,Yes…,Si…
-Matsumoto Ryou (talking),………苦戦してるんですか…,"………Are you having a hard time?…","¿………Estás pasando por un momento difícil…?"
+Matsumoto Ryou (talking),………苦戦してるんですか…,………Are you having a hard time?…,¿………Estás pasando por un momento difícil…?
 Tenkai Umine (talking),"……まーねー……
 まいったなぁ……大人の軍人にも 負けなかったあたしらが、地域管理組合 程度におされちゃっててさー……","……Well……
 What a shame…… we, who were not defeated by adult soldiers, have been reduced to the level of the local management association……","……Bien……
@@ -979,7 +979,7 @@ Tenkai Umine (talking),"う……
 Matsumoto Ryou (talking),逃げるなら、一緒に逃げよう。,"If you want to run away, let's run away together.","Si huyes, lo haremos juntos."
 Tenkai Umine (talking),……だったら… 勝たなくちゃ……,If it's……… I have to win ……,Si……… tenemos que ganar……
 Matsumoto Ryou (talking),……うん……,……うん ……,……うん ……
-Tenkai Umine (talking),了君……ここで待ってて… あたしら…絶対、勝ってくるから……,"Ryou-kun…… wait here… we… will definitely win……","Ryou-kun…… espera aquí… nosotros… definitivamente ganaremos……"
+Tenkai Umine (talking),了君……ここで待ってて… あたしら…絶対、勝ってくるから……,Ryou-kun…… wait here… we… will definitely win……,Ryou-kun…… espera aquí… nosotros… definitivamente ganaremos……
 Matsumoto Ryou (talking),うん……,Yeah ……,Sí……
 Tenkai Umine (talking),また…一緒に海賊やろう…,Let's play pirates again… together…,Vamos a… jugar a los piratas juntos… otra vez…
 Matsumoto Ryou (talking),うん……,Yeah ……,Sí……

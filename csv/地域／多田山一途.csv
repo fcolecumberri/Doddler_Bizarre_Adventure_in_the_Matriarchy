@@ -67,7 +67,7 @@ Yamamoto Akuji (talking),ほどほどにな。,In moderation.,Con moderación.
 Tadayama Ichizu (talking),うーす。 呼びましたかー？,"Yo, did you call for me?",Woos. ¿Me has llamado?
 Yamamoto Akuji (talking),噂になってるぞ、一途。,"There's a rumor going around, Ichizu.","Hay un rumor por ahí, Ichizu."
 Tadayama Ichizu (talking),え、そうすか？,"Oh, really?","¿Ah, sí?"
-Yamamoto Akuji (talking),誰かれかまわず、女に声をかけて、 ふられてるらしいな。,"I heard that you were dumped by every woman you approached, no matter who they were.","Escuché que todas las mujeres a las que te acercaste te dejaron."
+Yamamoto Akuji (talking),誰かれかまわず、女に声をかけて、 ふられてるらしいな。,"I heard that you were dumped by every woman you approached, no matter who they were.",Escuché que todas las mujeres a las que te acercaste te dejaron.
 Tadayama Ichizu (talking),"い、いや、誰かれかまわずって訳じゃ ないっすけど…
  ………はぁぁ~~~…
 でも、ここにきて新記録達成したり してるので、結構、ふられ続けてん ですねー…","No, no, it's not that I don't care who you are, but………… is ah~~~…
@@ -144,7 +144,7 @@ Yamamoto Akuji (talking),俺は、山本悪司。 あんたは？,I'm Yamamoto A
 Tadayama Ichizu (talking),あ、はい。 多田山一途です。,"Ah, yes. I am Tadayama Ichizu.","Ah, sí. Tadayama Ichizu."
 Yamamoto Akuji (talking),なんか、格闘技してた？,"What, did you do martial arts?","¿Qué, hiciste artes marciales?"
 Tadayama Ichizu (talking),あ、いやいやいや。 学生時代、剣道を…,"Oh, no, no, no. When I was a student, I did kendo…","Oh, no, no, no. Cuando era estudiante, hacía kendo…"
-Yamamoto Akuji (talking),はい、決まり。 あんた、俺の兵隊。,"Then it's settled. You're my soldier.","Entonces, está decidido. Tú, mi soldado."
+Yamamoto Akuji (talking),はい、決まり。 あんた、俺の兵隊。,Then it's settled. You're my soldier.,"Entonces, está decidido. Tú, mi soldado."
 Tadayama Ichizu (talking),へ？？,He？？,¿¿He？？
 narrator,一人の男がスーパーのビニール袋を手に、 とぼとぼ歩いていた。,A man was walking slowly with a plastic bag from the supermarket in his hand.,Un hombre se tambaleaba con una bolsa de plástico del supermercado en la mano.
 Tadayama Ichizu (talking),"はあ…………
@@ -157,7 +157,7 @@ Tadayama Ichizu (talking),今日は珍しくいい天気っすね~。,It is unus
 Aoba Youko (talking),ええ、そうですね。,"Yes, it is.","Sí, lo es."
 narrator,そう言って青葉が、頬を撫でるそよ風に 目を細める。,"Saying this, Aoba squints her eyes at the gentle breeze that caresses her cheeks.","Al decir esto, Aoba entrecierra los ojos ante la suave brisa que acaricia sus mejillas."
 Tadayama Ichizu (talking),どっきーーん。,Dokkyun.,Dokkyun.
-Aoba Youko (talking),え……？,"Hm……?",¿Qué……?
+Aoba Youko (talking),え……？,Hm……?,¿Qué……?
 Tadayama Ichizu (talking),結婚して下さい！！,Please marry me!!,"¡¡Por favor, cásate conmigo!!"
 Aoba Youko (talking),ええっ！！？？,Ee~！！？？,¿¿¡¡Ee~！！？？
 Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,Youuu are the one！！！！,Tuuú eres la persona destinada para mí！！！！
@@ -175,7 +175,7 @@ For the Volunteer Youth Group~nyari! Let me taste them~nyari!!
 Hamuhamu. Yummy~nyari!!","Oh, de verdad~nyari. ¡Dame~nyari!
 ¡Por el Cuerpo de Servicio Juvenil~nyari! ¡¡Déjame probarlo~nyari!!
 Hamuhamu. ¡¡Qué rico~nyari!!"
-narrator,そう言って未来は、嬉しそうに笑った。,"Mirai smiled happily.","Mirai sonrió con alegría."
+narrator,そう言って未来は、嬉しそうに笑った。,Mirai smiled happily.,Mirai sonrió con alegría.
 Tadayama Ichizu (talking),どっきーーん。,Dokkyun.,Dokkyun.
 Kako Mirai (talking),んん？ 欲しいにゃりか？,Hmm? You want some~nyari?,¿Eh? ¿quieres~nyari?
 Tadayama Ichizu (talking),結婚して下さい！！,Please marry me!!,"¡¡Por favor, cásate conmigo!!"
@@ -183,13 +183,13 @@ Kako Mirai (talking),は~~~~~~~~？？？？？？？,Huh~~~~~~~~？？？？？
 Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,Youuu are the one！！！！,Tuuú eres la persona destinada para mí！！！！
 Kako Mirai (talking),一途……,Ichizu……,Ichizu……
 Tadayama Ichizu (talking),はい！！！！,Yes ?,Sí ！！！！
-Kako Mirai (talking),未来ちゃん、貧乏人嫌いにゃり。,"I hate poor people~nyari.","Yo odio a la gente pobre~nyari."
+Kako Mirai (talking),未来ちゃん、貧乏人嫌いにゃり。,I hate poor people~nyari.,Yo odio a la gente pobre~nyari.
 Tadayama Ichizu (talking),がーーーーん！！！！！！,Nooooooooo！！！！！！,¡¡¡¡¡¡Nooooooooo！！！！！！
 narrator,こうして、一途はふられた……,"Thus, Ichizu was rejected……","Así, Ichizu fue rechazado……"
 narrator,多田山一途と智子は、 連れ立って見回りをしている。,Tadayama Ichizu and Tomoko are making rounds together.,Tadayama Ichizu y Tomoko están haciendo la ronda juntos.
 Tadayama Ichizu (talking),平気っすか、衣笠さん。 足、痛くないっすか？,"Are you okay, Mr. Kinugasa? Does your leg hurt?","¿Estás bien, Kinugasa? ¿Te duele la pierna?"
 Kinugasa Tomoko (talking),あ、大丈夫です… すみません、お気遣いさせてしまって…,"Ah, it's okay… I'm sorry, I didn't mean to bother you…","Ah, está bien… Lo siento, no quería molestarte…"
-narrator,そう言って智子は、儚げに微笑んだ。,"Tomoko smiled fleetingly.","Tomoko sonrió fugazmente."
+narrator,そう言って智子は、儚げに微笑んだ。,Tomoko smiled fleetingly.,Tomoko sonrió fugazmente.
 Tadayama Ichizu (talking),どっきーーん。,Dokkyun.,Dokkyun.
 Kinugasa Tomoko (talking),………？？,………？？,………？？
 Tadayama Ichizu (talking),結婚して下さい！！,Please marry me!!,"¡¡Por favor, cásate conmigo!!"
@@ -307,9 +307,9 @@ Tadayama Ichizu (talking),山沢さん、あっちの路地、見といた方が
 Yamazawa Asami (talking),そうですね、行きましょう。,"Yes, let's go.","Sí, vamos."
 narrator,そう言って麻美はきりりとした顔を 一途に向けた。,"Saying this, Asami turned his sharp face to Ichizu.","Diciendo esto, Asami volvió su rostro afilado hacia Ichizu."
 Tadayama Ichizu (talking),どっきーーん。,Dokkyun.,Dokkyun.
-Yamazawa Asami (talking),えっ……？,"E~……？","¿E~……？"
+Yamazawa Asami (talking),えっ……？,E~……？,¿E~……？
 Tadayama Ichizu (talking),結婚して下さい！！,Please marry me!!,"¡¡Por favor, cásate conmigo!!"
-Yamazawa Asami (talking),え、え……,"Eh、eh……","Eh、eh……"
+Yamazawa Asami (talking),え、え……,Eh、eh……,Eh、eh……
 Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,Youuu are the one！！！！,Tuuú eres la persona destinada para mí！！！！
 Yamazawa Asami (talking),多田山さん。,Tadayama.,Tadayama.
 Tadayama Ichizu (talking),はい！！！！,Yes！！！！,Sí！！！！
@@ -321,7 +321,7 @@ Tadayama Ichizu (talking),由女さん、大丈夫っすか？ あまり丈夫�
 Yume (talking),今日は調子がいいから、大丈夫。 ありがとう、多田山さん。,"I'm feeling okay today, so I'm fine. Thanks, Tadayama.","Hoy me siento bien, estoy bien. Gracias, Tadayama."
 narrator,そう言って由女はにっこり微笑んだ。,"Saying so, Yume smiled.","Al decir esto, Yume sonrió."
 Tadayama Ichizu (talking),どっきーーん。,Dokkyun.,Dokkyun.
-Yume (talking),えっ……？,"E~……？","¿E~……？"
+Yume (talking),えっ……？,E~……？,¿E~……？
 Tadayama Ichizu (talking),結婚して下さい！！,Please marry me!!,"¡¡Por favor, cásate conmigo!!"
 Yume (talking),ええっ！？,Ee~！？,¿¡Ee~！？
 Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,Youuu are the one！！！！,Tuuú eres la persona destinada para mí！！！！
@@ -587,7 +587,7 @@ Tadayama Ichizu (talking),かなみさんって忍者なんっすよね。 自�
 Kentou Kanami (talking),えー、全然、凄くないよー。 私、みそっかすだしー。,"Well, I'm not great at all. I'm just a little girl.",No es nada bueno. Sólo soy una niña.
 narrator,と、かなみは照れて笑った。,And Kanami smiled shyly.,Y Kanami se rió tímidamente.
 Tadayama Ichizu (talking),どっきーーん。,Dokkyun.,Dokkyun.
-Kentou Kanami (talking),えっ……？,"E~……？","¿E~……？"
+Kentou Kanami (talking),えっ……？,E~……？,¿E~……？
 Tadayama Ichizu (talking),結婚して下さい！！,Please marry me!!,"¡¡Por favor, cásate conmigo!!"
 Kentou Kanami (talking),えっっっっっ！！！！？？？？,Eek! ！！！！？？？？,Eek. ！！！！？？？？
 Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,Youuu are the one！！！！,Tuuú eres la persona destinada para mí！！！！

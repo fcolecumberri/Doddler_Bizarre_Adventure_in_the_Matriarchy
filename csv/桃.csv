@@ -252,7 +252,7 @@ Who's there? Come over here and get out of the way of that rampaging Junky Satsu
  ¿Quién está ahí? Ven y quítate de en medio a Junky Satsu que está haciendo de las suyas por allí."
 Henry Ru (talking),スンッパラシイねー。 このコロッセオー。 グレートウタマ~ロ。,It's so cool. This Colosseum. Great Utamaro.,Es muy refrescante. Este Coliseo. Gran Utamaro.
 Hasekura Haine (talking),恐縮です。,I am afraid.,"Tengo miedo, tengo miedo."
-Seanel Br (talking),少し黙っていなさい、ルービン。 お前のニホン語は、ウィミィの恥だ。,"Shut up for a minute, Rubin. Your Nihongo is a disgrace to Wime.","Mantén la boca cerrada por un momento, Rubin. Tu nihongo es una vergüenza para Wime."
+Seanel Br (talking),少し黙っていなさい、ルービン。 お前のニホン語は、ウィミィの恥だ。,"Shut up for a minute, Rubin. Your japanese is a disgrace to Wime.","Mantén la boca cerrada por un momento, Rubin. Tu japones es una vergüenza para Wime."
 Seanel Br (talking),Ｍｒ支倉、今日の対戦者は どうなっている？,"Mr Hasekura, how are today's opponents coming along?","Señor Hasekura, ¿qué pasa con su oponente hoy?"
 Hasekura Haine (talking),はい。 本日のカードには、柳秋光が 参加しております。,Yes. Today's card has Yanagi Akimitsu participating.,Sí. La tarjeta de hoy está protagonizada por Yanagi Akimitsu.
 Seanel Br (talking),ああ、剣術の。 彼の戦いぶりは素晴らしい。 男にしておくにはもったいないな。,"Oh, of swordsmanship. He's a great fighter. It's a shame to leave him as a man.","Oh, de espadas. Es un gran luchador. Es una pena dejarlo como un hombre."
@@ -501,7 +501,7 @@ Hasekura Haine (talking),"リンダ様、我がＰＭと、悪司殿… わか�
 それは、このオオサカに住む、 力なき民衆の為。
 何卒、お怒りをお納め下さい。","Dear Linda, my PM and Mr. Akuji… The Wakame clan is the two major power in this Osakan.
 We have had a peace agreement with them since the time before the previous generation and the time before that.
-It is for the sake of the people without power who live here in Osaca.
+It is for the sake of the people without power who live here in Osaka.
 We ask that you please accept our wrath.","Lady Linda, mi PM y Lady Akuji… El clan Wakame son las dos fuerzas más poderosas de la región de Osakan.
 Desde la época que se remonta incluso a la generación anterior y a la anterior, se ha concluido un acuerdo de paz.
 Es por el bien del pueblo impotente de los Osakas.
@@ -560,7 +560,7 @@ Shimamoto Jun (talking),"もう一度言います。
 正確には、奉仕青年団の保護地区の 住民だけがハニー土木から解雇通告を 受けました。
 ご存じの通り、ハニー土木は オオサカ市最大の企業。
 関連も含めますと、こちら側の市民の 多くが関係しています。 大混乱が起きています。","I will say it again.
-On the west side of Osaca--
+On the west side of Osaka--
 To be exact, only the residents of the protected area of the Service Youth Corps have received termination notices from Hanny Civil Engineering.
 As you know, Hanny Civil Engineering is the largest company in the city of Osaka.
 Many of the citizens on this side of the city are involved, including those who are related to the company. All hell is breaking loose.","Lo diré de nuevo.
@@ -609,9 +609,9 @@ Takega Satsu (talking),"もう一度言うぞ。
 正確には、奉仕青年団の保護地区の 住民だけがハニー土木から解雇通告を 受けた。
 ハニー土木はオオサカ市最大の企業だ。
 関連も含めると、こっち側の市民の 多くが関係してるせいで、 大混乱発生中だ。","I'll say it again.
-On the west side of Osaca--
+On the west side of Osaka--
 To be exact, only the residents of the protected area of the Service Youth Corps have been notified of their termination by Hanny Civil Engineering.
-Hanny is the largest company in the city of Osaca.
+Hanny is the largest company in the city of Osaka.
 Including the related ones, there's a lot of turmoil going on because so many of the citizens on this side of the city are involved.","Lo diré de nuevo.
 En el lado occidental de Osaka…
 Para ser precisos, sólo los residentes de las zonas protegidas del Cuerpo de Jóvenes de Servicio recibieron avisos de rescisión por parte de Hanny Ingeniería Civil.
@@ -1471,7 +1471,7 @@ narrator,悪司がたこ焼きをたべていると…,Akuji eating takoyaki…,
 __system__??,{RND \ 0:,,
 Shimamoto Jun (talking),若。 桃山が動き出しました。,Young. Momoyama is on the move.,Joven. Momoyama está en movimiento.
 Yamamoto Akuji (talking),おう、どーだ？ 何を始めた？,"Oh, what is it? What did you start?","Oh, ¿qué es? ¿Qué empezaste?"
-Shimamoto Jun (talking),ニホン全国に散らばる生え抜きの猛者を 傭兵として雇うようです。,It seems that they are hiring the best and the brightest from all over Japan as mercenaries.,Parece que están contratando a los mercenarios más cualificados y experimentados repartidos por todo el país de NIHON como mercenarios.
+Shimamoto Jun (talking),ニホン全国に散らばる生え抜きの猛者を 傭兵として雇うようです。,It seems that they are hiring the best and the brightest from all over Japan as mercenaries.,Parece que están contratando a los mercenarios más cualificados y experimentados repartidos por todo el país de Japón como mercenarios.
 Yamamoto Akuji (talking),ううーん…我のとこを守る為に 傭兵まで雇う気になったのか…,Hmmm… you're even willing to hire mercenaries to protect my place…,Hmmm… incluso estás dispuesto a contratar mercenarios para proteger mi casa…
 Shimamoto Jun (talking),"これは少し、こちらに厄介な事に なりそうですね。
 出来ればこちらも桃山に負けないような 傭兵を雇った方がいいかと。","This is going to be a bit of a problem for us.
@@ -1481,7 +1481,7 @@ __system__??,},,
 __system__??,{RND = 0:,,
 Takega Satsu (talking),悪司。 桃山が動いたぞ。,Akuji. Momoyama is on the move.,Akuji. Momoyama está en movimiento.
 Yamamoto Akuji (talking),どーしたんだい？,What's going on?,¿Qué está pasando?
-Takega Satsu (talking),ニホン全国に散らばる生え抜きの猛者を 傭兵として雇うよう、動いている。,He is working to hire the best of the best from all over Japan as mercenaries.,Están trabajando para contratar a lo mejor de lo mejor de lo mejor de todo NIHON como mercenarios.
+Takega Satsu (talking),ニホン全国に散らばる生え抜きの猛者を 傭兵として雇うよう、動いている。,He is working to hire the best of the best from all over Japan as mercenaries.,Están trabajando para contratar a lo mejor de lo mejor de lo mejor de todo Japón como mercenarios.
 Yamamoto Akuji (talking),ううーん…我のとこを守る為に 傭兵まで雇う気になったのか…,Hmmm… you're even willing to hire mercenaries to protect my place…,Hmmm… incluso estás dispuesto a contratar mercenarios para proteger mi casa…
 Takega Satsu (talking),"厄介だな……親父殿ぐらい強い奴を 今現在雇われてしまったら、展開は 逆転するやもしれん。
 こちらも雇ってはどうだ？","It's tricky…… If they hired someone as strong as your father right now, the situation could be reversed.
@@ -1792,7 +1792,7 @@ Ni siquiera pueden rebelarse contra eso. No parece que haya necesidad de cazarlo
 Yamamoto Akuji (talking),"そっか…… あっけねーモンだな。 ま、気にする事もねーか。
 これで、ＰＭの領地も俺のモン。 オオサカは、ほぼ俺のモンに なったって事か。","I see…… That's not so bad. I guess I don't have to worry about it.
 Now PM's territory is mine. I guess that means Osaka is almost mine now.","Ya veo…… No es un gran problema. Bueno, supongo que no tengo que preocuparme por ello.
-Ahora el territorio de la PM es mío. Así que, Osaca es casi mía ahora."
+Ahora el territorio de la PM es mío. Así que, Osaka es casi mía ahora."
 Takega Satsu (talking),そうだな。,Yes.,Sí.
 Momoyama Linda (talking),………………,………………,………………
 Peach Maid (talking),申し訳ありません、リンダ様…,"Sorry, Dear Linda…","Lo siento, querida Linda…"

@@ -1232,8 +1232,8 @@ Ootani Yoshitsugu (talking),乃木大将が貴様らのようなごろつきと 
 Yamamoto Akuji (talking),乃木…………？,Nogi …………?,¿Golpe de Estado?
 Ootani Yoshitsugu (talking),乃木重彦殿だ。 名前くらいは知っていよう。,Nogi Shigehiko. I should at least know your name.,Nogi Shigehiko. Al menos deberías saber mi nombre.
 Yamamoto Akuji (talking),"……ああ、旧ニホン軍のお偉いさんか。
-そーか、思い出したぜ。 乃木将軍ってこのアシヤに 住んでんだったな。","…… Ah, the old Nihongun military brass.
-Oh, I remember now. General Nogi lives here in Asiya.","…… Ah, los viejos jefes militares de Nihongun.
+そーか、思い出したぜ。 乃木将軍ってこのアシヤに 住んでんだったな。","…… Ah, the old japanese military brass.
+Oh, I remember now. General Nogi lives here in Asiya.","…… Ah, los viejos jefes militares de Japón.
 Oh, sí, lo recuerdo. El general Nogi vive aquí en Asiya."
 Ootani Yoshitsugu (talking),その通りだ。 ここは乃木将軍のお膝元、 好きにはさせんぞ。,"That's right. This is General Nogi's lap, and he won't have it his way.","Así es. Este es el regazo del General Nogi, y no lo tendrá a su manera."
 Yamamoto Akuji (talking),"なーるへそ、その将軍が、 このアシヤの元締めって訳だ。
@@ -1319,11 +1319,11 @@ Yamamoto Akuji (talking),乃木……大将？,Nogi…… The Grand Admiral?,¿G
 Ootani Yoshitsugu (talking),貴方がニホン人であるのなら、 乃木大将の心情は察して頂けると思う。,"If you are a Japanese, I am sure you can understand the feelings of General Nogi.","Si eres japonés, puedes entender los sentimientos del general Nogi."
 Yamamoto Akuji (talking),"…………あ、思い出したぜ。
 乃木って、もしかして 乃木重彦か？ 旧ニホン軍の総大将だった。","………… Oh, I just remembered.
-Is Nogi maybe Nogi Shigehiko? He was a general of the old Nihongun army.","………… Oh, ahora lo recuerdo.
+Is Nogi maybe Nogi Shigehiko? He was a general of the old japanese army.","………… Oh, ahora lo recuerdo.
  ¿Podría Nogi ser Nogi Shigehiko? Era un general del antiguo ejército japonés."
 Ootani Yoshitsugu (talking),その通りだ。,That's right.,Exactamente.
 Yamamoto Akuji (talking),"乃木大将がオオサカに住んでるって 聞いたことあるぜ…… そっか、アシヤに住んでたのか。
-戦後処理の戦犯追及とかで 戦前の偉いさんは処刑されたとばかり 思ってたんだがな。","Nogi I've heard that the general lives in Osaca…… I see, he lived in Asiya.
+戦後処理の戦犯追及とかで 戦前の偉いさんは処刑されたとばかり 思ってたんだがな。","Nogi I've heard that the general lives in Osaka…… I see, he lived in Asiya.
 I always thought the pre-war greats were executed for pursuing war criminals or something in the post-war process.","Nogi He oído que el general Nogi vive en Osaka…… Ya veo, vivía en Asiya.
 Pensaba que todos los grandes de antes de la guerra habían sido ejecutados debido al proceso de posguerra de perseguir a los criminales de guerra y todo eso."
 Ootani Yoshitsugu (talking),………………,………………,………………
@@ -1493,8 +1493,8 @@ Nogi Shigehiko (talking),"そうだな……
 今、オオサカは混乱の極みにある。 君は、それを肌で感じているはずだ。
 これが鎮まり、君らがオオサカの大半を 治安維持するようになれば……
 その時は、私の方から 是非にとアシヤの管理をお願いに行こう。 約束してもいい。","Yes……
-Right now, Osaca is at the height of turmoil. You know it firsthand.
-When this dies down and you and your people are in control of most of Osaca, you will be able to ……
+Right now, Osaka is at the height of turmoil. You know it firsthand.
+When this dies down and you and your people are in control of most of Osaka, you will be able to ……
 I will then, by all means, come to you and ask you to take control of Asiya. You have my word.","Sí……
 OSAKA se encuentra en estos momentos en el punto álgido de la agitación. Lo sabes de primera mano.
 Cuando esto se calme y usted y su gente se encarguen de mantener la seguridad en la mayor parte de Ossaka, ……
@@ -1933,7 +1933,7 @@ Nogi Shigehiko (talking),何を慌てておるのだ、お前は……,"What's t
 Yamamoto Akuji (talking),………… なんともはや、やれやれ。,"………… Oh dear, oh dear, oh dear.","………… Qué lío, oh querido."
 narrator,悪司はまた乃木大将の元を訪れて、 喜久子を交えて四方山話に花を咲かせていた。,Akuji also visited General Nogi and had a four-way conversation with Kikuko.,Akuji también visitó al general Nogi y mantuvo una conversación a cuatro bandas con Kikuko.
 __system__??,{RND = 1:,,
-Yamamoto Akuji (talking),……とまあ、そういう訳でな。 俺がオオサカに戻った時には いろんな組織が乱立してたって訳だ。,"…… and well, that's why. By the time I got back to Osaca, there were all kinds of organizations in disarray.","…… y, bueno, por eso. Cuando volví a Osaca, había todo tipo de organizaciones en desorden."
+Yamamoto Akuji (talking),……とまあ、そういう訳でな。 俺がオオサカに戻った時には いろんな組織が乱立してたって訳だ。,"…… and well, that's why. By the time I got back to Osaka, there were all kinds of organizations in disarray.","…… y, bueno, por eso. Cuando volví a Osaka, había todo tipo de organizaciones en desorden."
 Nogi Shigehiko (talking),なるほど、わかめ組とＰＭに加えて 宗教団体に独立地域の者たちか……,"Okay, so in addition to the Wakame group and PM, you've got a religious group and an independent community: ……","Ya veo, así que además del grupo Wakame y los PM, tienes los grupos religiosos y las regiones independientes……"
 Nogi Kikuko (talking),それは……さぞ山本様も 大変でしょうね……,That must be very difficult for Yamamoto-sama ……,"Debe ser muy difícil para…… usted también, Yamamoto-sama……"
 Yamamoto Akuji (talking),いんや、そうでもねぇよ。 今のところはなんとかなってるしな。,"No, not really. I'm getting by for now.","No, en realidad no. Por ahora me las arreglo."
@@ -1987,7 +1987,7 @@ Yamamoto Akuji (thinking),"…………ん？
 おいおい、 性懲りもなく忍び込んできてんのかよ…","…………?
 Hey, hey, hey, hey… You're sneaking in without learning your lesson…","………… ¿Hmm?
 Oh, vamos, te has colado sin aprender la lección…"
-narrator,呟いた悪司が足を止めると、通路の影から 旧ニホン軍の青年将校・若林が現れた。,"As Akuji stopped in his tracks, Wakabayashi, a young officer in the old Nihongun army, appeared from the shadows of the passageway.","Cuando Akuji se detuvo a murmurar, Wakabayashi, un joven oficial del antiguo ejército de Nippong, apareció desde las sombras del pasillo."
+narrator,呟いた悪司が足を止めると、通路の影から 旧ニホン軍の青年将校・若林が現れた。,"As Akuji stopped in his tracks, Wakabayashi, a young officer in the old japanese army, appeared from the shadows of the passageway.","Cuando Akuji se detuvo a murmurar, Wakabayashi, un joven oficial del antiguo ejército de Nippong, apareció desde las sombras del pasillo."
 seinenshoukou (talking),……乃木閣下かと思ったが、 ごろつきだったのか。,"……Nogi I thought it was His Excellency, but it was a low-life.","……Nogi Creí que era Su Excelencia, pero era un delincuente."
 Yamamoto Akuji (talking),…………,…………,…………
 seinenshoukou (talking),貴様の事は調べさせて貰ったよ、 奉仕青年団の山本悪司。,"I've been looking into you, Yamamoto Akuji of the Service Youth League.","Me han pedido que te busque, Yamamoto Akuji de la Liga Juvenil de Servicio."
@@ -2210,7 +2210,7 @@ Entonces dejaré que el escuadrón del cuerpo se encargue de ello y tú podrás 
 uimiiheishi (talking),了解。 我が分隊は通常任務に戻ります。,Ryou solution. Our squad will return to normal duty.,Solución Ryou. Nuestro escuadrón volverá a la normalidad.
 uimiionnaheishi (talking),…………もういいわよ、山本悪司。 お入りなさい。,"…………Enough is enough,Yamamoto Akuji. Come on in.","…………Ya basta, Yamamoto Akuji. Entra."
 Yamamoto Akuji (talking),……どーしたんだよ、侵入者か？,"What's up with ……, intruder?","…… ¿Qué pasa, intrusos?"
-uimiionnaheishi (talking),その通りよ。時代錯誤の旧ニホン兵が、 昔の軍服姿で邸内に入り込んで……,That's right. An anachronistic former Nihongo soldier walks into the mansion in his old military uniform and ……,Así es. Un anacrónico ex soldado nihongo entra en una mansión con su antiguo uniforme militar y ……
+uimiionnaheishi (talking),その通りよ。時代錯誤の旧ニホン兵が、 昔の軍服姿で邸内に入り込んで……,That's right. An anachronistic former japanese soldier walks into the mansion in his old military uniform and……,Así es. Un anacrónico ex soldado japones entra en una mansión con su antiguo uniforme militar y……
 Yamamoto Akuji (talking),乃木将軍を担ぎ上げて クーデター起こそうかって連中か？,Are they trying to start a coup by carrying General Nogi?,Nogi ¿Son ellos los que quieren cargar con el General Nogi e iniciar un golpe de estado?
 uimiionnaheishi (talking),……良く知ってるわね。 あなた、まさか……,You know…… very well. You don't think you ……,Conoces bien ……. No crees que ……
 Yamamoto Akuji (talking),別に荷担しちゃいねぇよ。 ちょっと考えりゃ思いつくこったろ？,"I'm not in on it. It's just something you can think of, you know?","No voy a tomar parte en ello. Es algo que se te ocurre, ¿sabes?"
@@ -2454,10 +2454,10 @@ Nogi Shigehiko (talking),"………………
 ニホンが……ウィミィに負けたのは、 仕方がない。
 私のような国を動かす立場の老人が 無能だった……それが全て悪いのだ……
 だが、ウィミィ人の中に あのような者たちが居ると思うと、 白旗を振ったことを後悔したくなるな……","………………
-It's no wonder that NIHON lost to ……Wime.
+It's no wonder that Japan lost to ……Wime.
 Old men like me who were in a position to run the country were incompetent…… and that's all to blame ……
 But to think there are people like that among the Wime people makes me want to regret waving the Haku flag……","………………
-No es de extrañar que NIHON perdiera ante ……Wime.
+No es de extrañar que Japón perdiera ante ……Wime.
 Los ancianos como yo, que estaban en posición de dirigir el país, eran incompetentes…… y eso es todo lo que hay que culpar……
 Pero pensar que hay gente así entre los Wime hace que me arrepienta de haber ondeado la bandera de Haku……"
 Yamamoto Akuji (talking),"………… 乃木さんがそこまで言うたぁな。
@@ -2592,7 +2592,7 @@ If you were a real expert, you could change Dan's path while protecting Nogi and
 Si fueras un verdadero experto, podrías cambiar las formas de Dan mientras proteges a Nogi y a ti mismo."
 uimiionnaheishi (talking),そんな無茶な……,Such a reckless ……,Una imprudente ……
 Yamamoto Akuji (talking),俺のじーさんなら多分できるぜ。 気合いで銃弾をはじく人だからな。,My old man could probably do it. He's the kind of guy who can repel a gun Dan with his spirit.,Mi viejo probablemente podría hacerlo. Es un hombre que puede reventar un arma Dan con su espíritu.
-uimiionnaheishi (talking),……ニホンの悪しき風習ね。 精神論だけじゃ銃弾に勝てないわよ？,"……It's a bad Japanese custom. You can't beat a gun Dan with mentality alone, okay?","……Las malas costumbres de Nihon. No puedes vencer a un arma Dan sólo con la mentalidad, ¿sabes?"
+uimiionnaheishi (talking),……ニホンの悪しき風習ね。 精神論だけじゃ銃弾に勝てないわよ？,"……It's a bad Japanese custom. You can't beat a gun Dan with mentality alone, okay?","……Las malas costumbres de Japón. No puedes vencer a un arma Dan sólo con la mentalidad, ¿sabes?"
 Yamamoto Akuji (talking),精神論なんざ俺も虫酸が走らぁ。 こいつは事実だっつーのに。 マジでマジで。,"I'm sick and tired of the mentality. This is a fact. Seriously, seriously.","Estoy harto del mentalismo. Esto es un hecho. En serio, en serio."
 uimiionnaheishi (talking),"…………まあ、別にいいけれど……
 とにかく、あなたのお陰で 銃声を聞きつけた私の部下が間に合った。 本当に有り難う、礼を言うわ。","………… Well, not really, but ……
@@ -3471,10 +3471,10 @@ Pero yo era un hombre corriente……"
 ああ、これで心残りはない、 孫さえ幸せになってくれれば……と、 そう思っている自分に気付いたのだよ。
 この乃木重彦、今まで国のためにと 骨身を削ってきたが…………
 今やもう、国のことでは何一つ 思い煩うておらんのだ……
- ……ふ、はは。 我ながら、呆れるやら笑えるやら……","I watched Kikuko and the young man leave Osaca together……
+ ……ふ、はは。 我ながら、呆れるやら笑えるやら……","I watched Kikuko and the young man leave Osaka together……
 I found myself thinking, “Oh, now I have no regrets, as long as my grandchildren are happy …….
 This Nogi Shigehiko, who has worked so hard for his country until now,…………
-Now, he is no longer bothered about anything for the country………… I am both amazed and amused……","Vi a Kikuko y al joven marcharse juntos, dejando Osaca……
+Now, he is no longer bothered about anything for the country………… I am both amazed and amused……","Vi a Kikuko y al joven marcharse juntos, dejando Osaka……
 Oh, ahora no me arrepiento, mientras mis nietos sean felices,…… pensé para mí.
 Este Nogi Shigehiko, que tanto ha trabajado por su país hasta ahora,…………
 Ahora ya no me preocupa mi país………… Ja, ja. Me horroriza y me divierte a la vez……"
@@ -3531,10 +3531,10 @@ Nogi Kikuko (talking),……？　お爺様……,……?　(see ……),……?
 しかも、二人は力を合わせて、 オオサカの……このニホンのために 働いているのだ。
 その二人が、私のところを こうして訪れてくれる…………
 思い残すことなど、何もない…… こんなに嬉しいことはないよ……","For a while I wondered what would happen, but as far as I can see, Yamamotokun seems to be taking good care of Kikuko, and ……
-Moreover, both of them are working together for the sake of…… this NIHON in Osaka.
+Moreover, both of them are working together for the sake of…… this Japan's Osaka.
 They are visiting me like this …………
 I have nothing to regret…… I have never been so happy……","Por un momento me pregunté qué pasaría, pero por lo que veo, Yamamoto parece estar cuidando bien de Kikuko, y ……
-Además, ambos trabajan juntos por el bien de…… este NIHON en Osaka.
+Además, ambos trabajan juntos por el bien de…… este es Osaka, Japón.
 Me visitan así …………
 No tengo nada que lamentar…… Nunca he sido tan feliz……"
 Nogi Kikuko (talking),……………… ……お爺様っ………,…………………… Grandpa! ………,…………………… ¡Abuelo! ………
@@ -3585,12 +3585,12 @@ Nogi Kikuko (talking),"はーい、ご苦労様です。
  ………えっ…………
  ………………あ………… ああっ…………","Hi, thanks for your help.……………… well…… today the mailboxes are overflowing with letters ……
 Well,…… this one is from City Council member Karasuba, and this one is from a citizen who sent…… thirty-two letters, on a water utility bill, and… ………
- ……?　A letter from Eden…… but the text is in Nihongo …………
+ ……?　A letter from Eden…… but the text is in japanese …………
  …………
  ………Eh…………
  ………………Ah………… ah…………","Sí, gracias por su duro trabajo.……………… Bueno,…… Los buzones están desbordados de cartas hoy ……
 Bueno,…… esta es del Sr. Karasuba del ayuntamiento, y son 32 cartas de ciudadanos,…… en sus facturas de servicios de agua, y… ………
- ……?　Una carta de Eden…… pero el texto está en nihongo …………
+ ……?　Una carta de Eden…… pero el texto está en japones …………
  ………………… eh…………… ……………… ah………… ah…………"
 Yamamoto Akuji (talking),…………？ どしたきっこ、ぼーっと突っ立って。,"…………? What's the matter, you standing there in a daze?","…………? ¿Qué pasa, estás ahí aturdido?"
 Nogi Kikuko (talking),"だ、旦那様っ………… マリーさんから、手紙が……
@@ -3683,7 +3683,7 @@ Yamamoto Akuji (talking),げっ……そりゃやべー。 そういう事は早
 Yamamoto Akuji (talking),おいきっこ、急ぐぞっ。,"Hey, Kikko, let's hurry up.","Oye, Kikko, démonos prisa."
 Nogi Kikuko (talking),あ……は、はいっ。,"Oh ……, yes.","Ah ……, sí."
 Yamamoto Akuji (talking),んじゃなー、マリーちゃん。 向こう帰っても達者でなーーーー！,"Bye, Marie. Be good when you get back over there!","Hasta luego, Marie. ¡Pórtate bien cuando vuelvas por allí!"
-uimiionnaheishi (talking),……………… ニホン人……か。,……………… Nihongjin ……?,……………… Gente de Nihong…… o.
+uimiionnaheishi (talking),……………… ニホン人……か。,………………japanese……?,………………japones……?
 Yamamoto Akuji (talking),……乃木さん、来たぜ！ ほら、窓開けてくれよ、早く！,"……Nogi, here I come! Come on, open the window, come on!","……Nogi, ¡están aquí! ¡Vamos, abre la ventana, vamos!"
 Nogi Shigehiko (talking),"…………おお、山本君…… それに喜久子も……
 そうか……車に乗ってから、 随分待たされると思ったら…","………… Oh, Yamamoto you…… and Kikuko too… …
@@ -4146,8 +4146,8 @@ Nosotros, más de 3.000 camaradas patrióticos, esperamos su orden."
 Nogi Shigehiko (talking),クーデターを起こそうと言うのか……,You say you want to stage a coup: ……,Dices que quieres dar un golpe de estado: ……
 seinenshoukou (talking),"閣下、どうかご決断を！
 おごるウィミィ人の駐留する基地を 襲撃・殲滅、ニホンを奪回して 再び国の名誉を取り戻すのです！","Sir, please make a decision!
-We will raid and exterminate the bases manned by the Wime people, retake Nihongo, and restore our country's honor once again!","¡Señor, por favor, tome una decisión!
- ¡Asaltaremos y destruiremos las bases tripuladas por los Wime, retomaremos Nihongo y restauraremos el honor de nuestro país una vez más!"
+We will raid and exterminate the bases manned by the Wime people, retake Japan, and restore our country's honor once again!","¡Señor, por favor, tome una decisión!
+ ¡Asaltaremos y destruiremos las bases tripuladas por los Wime, retomaremos Japón y restauraremos el honor de nuestro país una vez más!"
 Nogi Shigehiko (talking),"何を馬鹿なことを…… また無為に血を流そうと言うのか？
 帰ってくれたまえ。 君と話すことは何もない。","What a stupid thing to do…… You want to spill blood for nothing again?
 Go away. I have nothing to say to you.","Qué estupidez…… ¿Quieres volver a derramar sangre por nada?
@@ -4169,7 +4169,7 @@ seinenshoukou (talking),"閣下の牙を封じ込めるためです。
 奴らは、勝つためならば 手段を選びません。 ……お忘れですか！？","It is to contain His Excellency's fangs.
 Recall, Your Excellency. The large bomb Dan dropped on the Osakas and the oceanic naval battles that amounted to the atrocity Satsu ……
 They will stop at nothing to win…… You forgot it!","Es para contener los colmillos de su Excelencia.
-Recuerde, Su Excelencia. Las grandes bombas Dan lanzadas sobre Osaca y las batallas marítimas que supusieron la atrocidad Satsu……
+Recuerde, Su Excelencia. Las grandes bombas Dan lanzadas sobre Osaka y las batallas marítimas que supusieron la atrocidad Satsu……
 No se detendrán ante nada para ganar…… ¡Lo has olvidado!"
 Nogi Shigehiko (talking),………………,………………,………………
 seinenshoukou (talking),"閣下！　これ以上奴らに おもねることなどありません！
@@ -4222,10 +4222,10 @@ uimiionnaheishi (talking),"少し、お話が。
  ……最近、集まって、 何か、動きを見せている……と。
 ところどころで、 ジェネラル・ノギの名前も挙がっていて。","A few words.
 There has been a strange…… and disturbing movement recently.
-We, Wime, have been marking the remnants of the old Nihongun army. That's why ………… and have been getting together lately and making some…… moves.
+We, Wime, have been marking the remnants of the old japanese army. That's why ………… and have been getting together lately and making some…… moves.
 In places, General Nogi's name is mentioned.","Unas cuantas historias.
 Ha habido algunos movimientos extraños…… inquietantes, recientemente.
-Nosotros, Wime, hemos estado marcando los restos del antiguo ejército de Nihongun. Por eso ………… y…… se han reunido últimamente y han hecho algunos, algunos movimientos.
+Nosotros, Wime, hemos estado marcando los restos del antiguo ejército de Japón. Por eso ………… y…… se han reunido últimamente y han hecho algunos, algunos movimientos.
 En algunos lugares se menciona el nombre del General Nogi."
 Nogi Shigehiko (talking),………………,………………,………………
 uimiionnaheishi (talking),"私は、ジェネラル・ノギを…… 尊敬しています。
@@ -4265,7 +4265,7 @@ Retaliation calls for nothing but retaliation ……
 It will only restart a war in which the people of both sides Satsu each other…………
 That's why I chose to…… wait for death in silence…","Estaba fuera de mí por Kikuko, que ha desaparecido……
  ¿Qué pasa después de este golpe? Incluso si lo consigues, ¿qué te espera entonces?
-Sí,…… recuperar NIHON no significa que el país de origen de Wime vaya a desaparecer……
+Sí,…… recuperar Japón no significa que el país de origen de Wime vaya a desaparecer……
 Las represalias no llaman a otra cosa que a represalias: ……
 Sólo reanudará una guerra en la que las personas de ambos bandos se Satsu mutuamente…………!
 Por eso elegí…… esperar la muerte en silencio…"
@@ -4366,7 +4366,7 @@ seinenshoukou (talking),"何だと……？ コクラでも失敗！？
 しっかりしろ、オオサカのエデンは 我々が征圧したのだぞ！ 死するまで白黒がついた訳では……
  ……どうした？ 何があった？
 コクラ、応答せよ！ どうしたのだ、応答せよ！","What the hell ……? Even Cochrane failed!
-Pull yourself together, we conquered the Eden of Osaca! Not until death Haku black on ………… What happened? What's going on?
+Pull yourself together, we conquered the Eden of Osaka! Not until death Haku black on ………… What happened? What's going on?
 Kukla, come in! What's going on? Come in!","¿Qué demonios ……? ¡Incluso Cochrane falló!
  ¡Agárrate, el Edén de Osaka fue conquistado por nosotros! No era Haku negro hasta la muerte ………… ¿Qué ha pasado? ¿Qué ha pasado?
  ¡Kokura, entra! ¿Qué está pasando?"
@@ -4386,10 +4386,10 @@ Nogi Shigehiko (talking),"全て私の責任だ、一時の感情で 多くの�
  ……もう、私一人の命で 片付く話ではあるまい。
 唯一勝利を収めたこのオオサカに、 ウィミィがどう報復を下すのか……
 もう、想像もつかんよ……","It's all my fault, I sent so many young people to their deaths because of my temporary feelings………… is no longer a story that can be put to rest by my life alone.
-How will Wime retaliate against this only victorious Osaca……
+How will Wime retaliate against this only victorious Osaka……
 I can't even imagine anymore……","Todo es culpa mía, envié a tantos jóvenes a la muerte por mis sentimientos temporales……
 Ya no se trata sólo de mi vida……
- ¿Cómo se vengará Wime de esta única Osaca victoriosa? ……
+ ¿Cómo se vengará Wime de esta única Osaka victoriosa? ……
 Ya no puedo ni imaginarlo……"
 Yamamoto Akuji (talking),ふーい、今日の見回りもやっと終了っと。 メシだメシーーー。,"Whew, today's rounds are finally over Ryou. I'm going to have a meal.","Whew, las rondas de hoy finalmente han terminado Ryou. Voy a comer."
 Takega Satsu (talking),悪司……やっと帰ってきたか。 待っていたぞ。,Akuji…… you're finally back. We've been waiting for you.,Akuji…… por fin has vuelto. Te hemos estado esperando.

@@ -99,7 +99,7 @@ __system__??,{RND \ 0:,,
 Yamamoto Akuji (talking),何、緊張してんだ？,"What, are you nervous?","¿Qué, estás nervioso?"
 Kinugasa Tomoko (talking),え、だっ…だって… あの貴神さんのお宅でしょう？,"Well, it's… because… that Kishin's house, isn't it?","Bueno, porque… porque… es la casa de ese Kishin, ¿no?"
 Yamamoto Akuji (talking),知ってるのか。,You know.,Lo sabes.
-Kinugasa Tomoko (talking),はい、もちろんです！ 貴神さんと言えば、オオサカでは 名士中の名士ですよ！,"Yes, of course! Mr. Kishin is one of the most famous people in Osaca!","Sí, por supuesto. ¡El Sr. Kishin es una de las personas más famosas de Osaca!"
+Kinugasa Tomoko (talking),はい、もちろんです！ 貴神さんと言えば、オオサカでは 名士中の名士ですよ！,"Yes, of course! Mr. Kishin is one of the most famous people in Osaka!","Sí, por supuesto. ¡El Sr. Kishin es una de las personas más famosas de Osaka!"
 Yamamoto Akuji (talking),"名士…ねぇ…
 まーいいや。 あんまり夢持たない方がいいぜ、 衣笠。","Famous people… hey…
 Oh well. You shouldn't dream too much, Kinugasa.","Gente famosa… hey…
@@ -286,11 +286,11 @@ cg narrator,"「Ｏｈー、いい声でーす。 　ほんと、いい声でー
  「どちらにしろ…ありがたい事で……」","Oh, you've got a great voice. 　Really good voice.
  “Oh…… my son, who was useless for 10 years against waifs, is in good health…… with his voice now.”
  “I'm so happy for you. 　Now your youth will come back, won't it?
- “Yes, I really…… should have prayed to the Lord Kan'non in Nihon, shouldn't I?”
+ “Yes, I really…… should have prayed to the Lord Kan'non in Japan, shouldn't I?”
 Either way… thank you ……","Tienes una bonita voz. 　Una voz realmente buena”.
  'Oh…… mi hijo, que fue inútil durante diez años contra los vagabundos, ahora tiene una buena salud…… con su voz.'
 Me alegro por ti. 　Ahora tu juventud está volviendo, ¿no es así?”
- 'Sí, realmente…… debería haber rezado al Señor Kannon en Nihong…'
+ 'Sí, realmente…… debería haber rezado al Señor Kannon en Japón…'
  'De cualquier manera… afortunadamente ……"
 cg narrator,悪司はその醜態の横をすたすたと通りすぎる。,Akuji slips past the abomination.,Akuji se desliza por la abominación.
 __system__??,{CG_MODE = 1:,,

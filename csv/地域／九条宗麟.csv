@@ -17,14 +17,14 @@ __system__??,{麦 = 16:,,
 __system__??,},,
 Kujou Sourin (talking),お呼びですか？ 悪司さん。,You wanted to see me? Akuji.,¿Querías verme? Akuji.
 Yamamoto Akuji (talking),おう、こっちこいや。,"Yes, come here, come here.","Si, ven aquí, ven aquí."
-Kujou Sourin (talking),はい、失礼します。,"Excuse me.","Sí, permiso."
+Kujou Sourin (talking),はい、失礼します。,Excuse me.,"Sí, permiso."
 Yamamoto Akuji (talking),"お前さんさー、どうしてそんなに 金が欲しい訳？
 なんかこー、高貴な匂いがするのに、 金、金ってガメツイ事言うからよ。 アンバランスだなーと。","Why do you want money so badly?
 You seem so noble, but you talk so much about money. It's unbalanced.","¿Por qué quieres tanto el dinero?
 Pareces tan noble, pero hablas tanto de dinero. Está desequilibrado."
 Kujou Sourin (talking),僕の為に使うお金ではありません。 僕がお世話になっています、 お寺の為です。,"It is not for me. It is for the temple, to which I am indebted.","El dinero no es para mí. Es por el templo, por el que estoy en deuda."
 Yamamoto Akuji (talking),寺？,Temple?,¿Templo?
-Kujou Sourin (talking),はい。 僕は九条橋の袂に捨てられていた 子供なんです。,"Yes. I was a child who was abandoned by the side of the Kujo bridge.","Sí. Yo era un niño abandonado al pie del puente Kujo."
+Kujou Sourin (talking),はい。 僕は九条橋の袂に捨てられていた 子供なんです。,Yes. I was a child who was abandoned by the side of the Kujo bridge.,Sí. Yo era un niño abandonado al pie del puente Kujo.
 Yamamoto Akuji (talking),だから、九条……,"So that's why, Kujou……","Ah, por eso Kujou……"
 Kujou Sourin (talking),"はい。 宗麟は、そこにいるお爺殿達…… お坊様方につけて頂いた名前です。
 そのお寺は、戦前から重要文化財指定を 国から受けていたので、しっかり 維持しなくてはいけません。
@@ -63,7 +63,7 @@ Kujou Sourin (talking),お呼びになりましたか？,Did you call for me?,¿
 Yamamoto Akuji (talking),おう。,Yeah.,Si.
 Yamamoto Akuji (talking),これ、ちょっとだけど、寺の維持費の 足しにしてやってくんな。,Please give a little of this to the temple for its upkeep.,Coge un poco de esto y dáselo al templo para ayudar al mantenimiento.
 narrator,悪司はまとまった金の入った封筒を、 宗麟に手渡した。,Akuji handed an envelope containing a large sum of money to Sourin.,Akuji entregó un sobre con una gran suma de dinero a Sourin.
-Kujou Sourin (talking),ありがとうございます。 お爺殿達も喜ぶ事でしょう。 では、お礼に読教を……,"Thank you very much. The grandfathers will be pleased. So, I'll read the sutra to show my gratitude.……","Muchas gracias. Los abuelos estarán encantados. Así que leeré el sutra para mostrar mi gratitud……"
+Kujou Sourin (talking),ありがとうございます。 お爺殿達も喜ぶ事でしょう。 では、お礼に読教を……,"Thank you very much. The grandfathers will be pleased. So, I'll read the sutra to show my gratitude.……",Muchas gracias. Los abuelos estarán encantados. Así que leeré el sutra para mostrar mi gratitud……
 Yamamoto Akuji (talking),あー、そんな抹香臭いのはいらねぇ。 そん代わり、俺の為に働いてくれ。,"Oh, I don't want that kind of matchstick smell. Instead, work for me.","No quiero ese tipo de olor a fósforo. En cambio, trabaja para mí."
 Kujou Sourin (talking),はい、わかりました。,"Yes, I understand.","Sí, lo entiendo."
 narrator,宗麟が悪司の前に連れてこられた。,Sourin was brought before Akuji.,Sourin fue llevado ante Akuji.
@@ -118,7 +118,7 @@ Kujou Sourin (talking),では、どのような仕事だと お金がたくさ�
 ten'in (talking),躰売るか、用心棒にでもなるんだね！！,Sell your body or become a bouncer!,¡Tendrás que vender tu cuerpo o convertirte en un gorila!
 Kujou Sourin (talking),躰を……売る……？？ 用心棒…は、少しはわかるのですが……,Selling…… the body ……? Bouncers…I know a little bit about ……,¿Vendiendo cuerpos a…… ……? Los gorilas… Sé un poco sobre ……
 ten'in (talking),なんだい、あんた…… 外国で暮らしていたのかい？,"What is it, you…… lived in a foreign country?","¿Qué pasa, que…… ha vivido en un país extranjero?"
-Kujou Sourin (talking),いえ、ニホンですが……,"No, it's nihon, but ……","No, es nihon, pero ……"
+Kujou Sourin (talking),いえ、ニホンですが……,"No, it's Japan, but ……","No, es Japón, pero ……"
 ten'in (talking),もう、どっちでもいいよ。 さっさとどっか行ってくんな。,I don't care which one you are. Just get the hell out of here.,Ya no me importa cuál seas. Sólo lárgate de aquí.
 Kujou Sourin (talking),わかりました。 色々と教えて貰えて嬉しかったです。 ありがとうございました。,I understand. I was happy to learn a lot from you. Thank you very much.,Lo entiendo. Me ha encantado aprender mucho de ti. Muchas gracias.
 narrator,青年は丁寧に頭を下げると、 そこから立ち去った。,The young man bowed politely and walked away.,El joven se inclinó cortésmente y se alejó.
