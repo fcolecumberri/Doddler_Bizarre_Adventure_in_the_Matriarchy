@@ -12,6 +12,8 @@ There has been a lot of MTL errors already fixed and I know there are still a lo
 
 ## How to play
 
+https://github.com/user-attachments/assets/fbb05d1b-4140-47f9-b4e7-d3e56dfcadf7
+
 Since the text generated here is made with UTF-8, to play this game, you need kichikou's implementation of system3 virtual machine: [xsystem35-sdl2](https://github.com/kichikuou/xsystem35-sdl2)(Tested) or [system35-sdl2](https://github.com/kichikuou/system3-sdl2)(Not tested).
 
 In order to play the game you should acquire a legal copy of the game,
