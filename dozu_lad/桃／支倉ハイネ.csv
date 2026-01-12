@@ -1,0 +1,312 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆ハイネ = 20:,{☆ハイネ = 20:
+__system__??,},}
+__system__??,{☆ハイネ > 24:,{☆ハイネ > 24:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{D11 = 2:,{D11 = 2:
+__system__??,},}
+__system__??,},}
+Hasekura Haine (talking),失礼します。,Please excuse me.
+Momoyama Linda (talking),なんでちゅか？,What is it?
+Yamamoto Akuji (talking),おう。,Yo.
+Momoyama Linda (talking),やっと、ハイネを戦わせる事に したでちゅか？,Have you finally decided to let Haine fight?
+Yamamoto Akuji (talking),いやいや、そーじゃねえ。,"Nah, I ain`t doing that."
+Momoyama Linda (talking),"早くしてもらえないでちゅか？ わたし、こんなちっちゃいとこに住むの 初めてで、落ち着かないのでちゅけど。
+後、水がおいちくないでちゅ。","Could you hurry it up? I`ve never lived in such a tiny place before, so I can`t relax.
+ Also, the water`s not tasty."
+Yamamoto Akuji (talking),ヒラカタ住民に、それを言われたく ね~けどな~…,I don`t wanna hear that from someone who lives in Hirakata...
+Hasekura Haine (talking),お呼びでしょうか？,Did you call for me?
+Yamamoto Akuji (talking),おう。,I did.
+Momoyama Linda (talking),"悪司、お布団なんでちゅが、 水鳥の羽毛１００％のものと取り替えて くだちゃいません？
+綿は重いわ、固いわで、寝にくいでちゅ。","Akuji, could you change my futon for one made of 100% waterfowl feathers?
+ Cotton`s too hard, I can`t sleep."
+Yamamoto Akuji (talking),綿のおも~い上布団と、せんべい布団で 寝るのが、健康に一番いいんだよ。,"Sleeping in a hard, worn futon`s the best ya can do for your health."
+Momoyama Linda (talking),"庶民の詭弁でちゅわ。
+でも、もう少しの我慢でちゅわね。 ハイネが後、","That`s a plebeian`s sophistry.
+ But I`ll bear with it a bit longer. Haine just has to fight"
+Momoyama Linda (talking),回 戦えばいい事でちゅから。,"more times, after all."
+Hasekura Haine (talking),そうですね、リンダ様。,"That`s right, Linda-sama."
+Yamamoto Akuji (talking),おう。,Yo.
+Hasekura Haine (talking),失礼します。,Please excuse me.
+Momoyama Linda (talking),フン。,Hmph.
+Hasekura Haine (talking),悪司様。,Akuji-sama.
+Yamamoto Akuji (talking),なんだい？,What is it?
+Hasekura Haine (talking),"この前の戦闘で、約束していた回数を 果たしました。
+ですので、近いうちにわたくしは リンダ様を連れ、お暇を頂きます。","With this last battle, I have fought the amount of times I`d promised.
+ As such, I shall soon take my leave with Linda-sama."
+Yamamoto Akuji (talking),"そーか、そーいやそうだったな。
+なあ、ハイネ。 気は変わんねーか？ このまま、うちで働いてくれよ。","Really? I guess that`s right.
+ Hey, Haine, you sure you haven`t changed your mind? C`mon, keep working for me."
+Hasekura Haine (talking),"わたくしは、リンダ様のものです。 今回の戦闘参加も、リンダ様を守る為。
+こちらの組織がリンダ様をボスとして 仰ぐのでしたら、わたくしはここで 働かせて頂きますが。","I belong to Linda-sama. The battle I fought was also to protect her.
+ If you were to recognize Linda-sama as this group`s leader, however, I shall keep working here."
+Yamamoto Akuji (talking),それは無理な相談だなー…,That ain`t happenin`...
+Momoyama Linda (talking),先に無理を言ってるのは、 そっちでちゅわ。,You`re the one who was unreasonable first.
+Yamamoto Akuji (talking),つまんねーもんだけど、 これ、受け取ってくんねーか？,"It ain`t much, but will you take this?"
+narrator,悪司はハイネにお金の入った封筒を渡した。,Akuji gave Haine an envelope full of cash.
+Hasekura Haine (talking),お心遣いだけ頂いておきます。,The sentiment is enough for me.
+Yamamoto Akuji (talking),金には興味ねーのか？,You not interested in money?
+Hasekura Haine (talking),いえ……その程度の金額なら、 頂いても意味がないので…… 別の事にお使い下さい。,It`s just that this little money won`t make a difference to me. Please use it for something else.
+Yamamoto Akuji (talking),あ~~ま~ね~… あんたら、金持ちだからね~…,"Ooooh, riiiight, you guys are loaded...."
+Yamamoto Akuji (talking),おう、きたか。,"Yo, there you are."
+Momoyama Linda (talking),あたち達の処刑方法でも 決まったでちゅか？,Have you decided how you`re going to execute us?
+Hasekura Haine (talking),…………………,...
+Yamamoto Akuji (talking),そー達観した顔すんなよ。 釈放してやるよ。,Don`t give me such a sad look. I`m releasing you guys.
+Hasekura Haine (talking),―――？,...?
+Momoyama Linda (talking),どーいう事でちゅか？,What do you mean?
+Yamamoto Akuji (talking),いや、タダでとは言わね。 条件がある。,"Oh, I ain`t doin` it for free. I have a condition."
+Momoyama Linda (talking),あんたと結婚なんて 死んでもいやでちゅよ！,"I am NOT getting married to you, even if you kill me!"
+Yamamoto Akuji (talking),"バーカ。 俺をあのヌケサク市長と 一緒にすんな。
+ＰＭを解散しろ。","Moron. Don`t lump me with that dumbass mayor.
+ Dissolve the PM."
+Momoyama Linda (talking),なっ……！！,WHA-?!
+Yamamoto Akuji (talking),条件はそれだけだ。 どーだ？,That`s my condition. Well?
+Momoyama Linda (talking),"そ、その条件は、あたちが一番 嫌な条件ではないでちゅか！！
+そんな条件飲むぐらいなら……","Th-That`s the one condition I absolutely cannot accept!
+ If that`s what it`ll take..."
+Hasekura Haine (talking),承知いたしました。,Understood.
+Momoyama Linda (talking),ハイネ！？,Haine?!
+Yamamoto Akuji (talking),よし、決まった。 これで俺が、オオサカの支配者だ。,"Good, it`s settled then. With this, I`m the don of Osaka."
+Hasekura Haine (talking),よしなに。,As you think best.
+Momoyama Linda (talking),ハイネ！！,HAINE!!
+Hasekura Haine (talking),それでは参りましょう、リンダ様。,"Now, let us go, Linda-sama."
+narrator,ハイネはリンダを胸の中に担いだ。,Haine carried Linda near his chest.
+Momoyama Linda (talking),ハイネっ……,Haine...!
+Hasekura Haine (talking),奴は、解散しろとだけ言いました。,He only said to dissolve the PM.
+narrator,ハイネはリンダにだけ聞こえる 小さな声で言う。,Haine whispered in a voice so quiet that only Linda could hear it.
+Momoyama Linda (talking),え……？,Huh...?
+Hasekura Haine (talking),新しく組織を作っては駄目だとは 言いませんでした。,He did not say we cannot build the group anew.
+Momoyama Linda (talking),あ……,Oh...
+Hasekura Haine (talking),"その条件をつけ加えられる前に、 交渉を成立させました。 今はこれで堪えて下さい。
+リンダ様が生きていれば、 ＰＭは不滅ですから…","I accepted his terms before he could rectify that. Please bear with it for now.
+ As long as you`re alive, Linda-sama, the PM shall not die..."
+Momoyama Linda (talking),……わかりまちたわ……,...I get it...
+Chinpira (talking),待て、コラ！！ そっちは出口だろ！！ どこ行く気だ！？,Hollup! That`s the exit! Where the fuck are ya going?!
+narrator,"奉仕青年団から出て行こうとする ハイネの道を阻む、チンピラ。
+ハイネは黙って、その男を見る。","A thug blocked Haine`s path as he tried to leave the YCSG.
+ Haine silently looked at him."
+Chinpira (talking),っ………えっ…,...! Wha-?!
+narrator,その眼光の鋭さに、チンピラはその場で へなへなと腰を抜かした。,The thug`s knees gave out from the sharpness of Haine`s stare.
+narrator,ハイネはそのままリンダを連れ、 さっさと地下室から出て行ってしまった。,Haine promptly left the prison with Linda in tow.
+Chinpira (talking),あ、悪司さん！ あいつら、出てって、出てって……,A-Akuji-san! Th-Those guys went and left...
+Yamamoto Akuji (talking),"………まーしかたねーなー…… ハイネ相手だったら、三下だと そーなるわ。
+もうほっとけほっとけ。 追いかけても、あいつに ボコられるだけだ。
+１０中８、９、タマ取られるぜ。","...Well, can`t be helped. That`s how it always turns out when a small fry takes on Haine.
+ Leave `em alone. You`ll just get your ass kicked if you chased after them.
+ You`d be lucky to keep your balls."
+Chinpira (talking),は、はあ……,O-Okay...
+Yamamoto Akuji (talking),おう、きたか。,There you are.
+Momoyama Linda (talking),なんでちゅか？ 出してくれるんでちゅか？,What is it? Are you letting us out?
+Yamamoto Akuji (talking),お前さんはちょっと黙ってな。 俺は、ハイネに用があるんだ。,You shut for for a sec. I gotta talk with Haine.
+Hasekura Haine (talking),わたくしに、何か？,What do you need?
+Yamamoto Akuji (talking),単刀直入に言うぞ。 ハイネ、俺の部下になって、 俺の為に戦え。,"I`ll cut to the chase. Haine, become my subordinate and fight for me."
+Hasekura Haine (talking),……………,...
+Momoyama Linda (talking),ハイネは、あたちのものでちゅ！ 何言うでちゅか！！,Haine is mine! What`re you saying?!
+Yamamoto Akuji (talking),"――と、過去のボスが仰って いらっしゃるが、知ったこっちゃねぇ。
+俺は、お前さんの意思が知りたい。 どうだ、ハイネ？","...And so your old boss says, but I don`t fucking care.
+ I wanna know YOUR thoughts. How `bout it, Haine?"
+Hasekura Haine (talking),"わたくしは、リンダ様の仰る通り、 リンダ様のものでございます。
+リンダ様の為に生き、 リンダ様の為に死ぬ。 それが支倉の家の者の宿命。","As Linda-sama has said, I belong to her.
+ I live for Linda-sama, and I shall die for her. Such is a Hasekura`s fate."
+Yamamoto Akuji (talking),そーか。 じゃあ、こうしよう。 リンダをどうするか……,I see. Then how about this? What should I do with Linda...
+Momoyama Linda (talking),何……？,What...?
+Hasekura Haine (talking),それは…どういう事ですかな？,What did you mean by that?
+Yamamoto Akuji (talking),"うちだって、裕福って訳じゃねーし、 捕虜部屋だって限りがある。
+いらなくなった捕虜は…… どうすっかねー？","We ain`t that rich, and we can only keep so many prisoners.
+ Now, guess what happens to the prisoners we get rid of."
+Hasekura Haine (talking),"なるほど……そういう事ですか……
+ ……わかりました。 あなた様の為に戦いましょう。","I see, so that`s how it is...
+ ...Understood. I shall fight for you."
+Momoyama Linda (talking),"ハイネ！？ あたちはどうなってもいいでちゅわよ！！
+敗北した時点で、あたちはＰＭの ボスとして、失格なんでちゅから。","Haine?! You don`t have to care about me!
+ After all, I failed as the PM`s boss when we lost the war."
+Hasekura Haine (talking),"そういう訳にはまいりません。 リンダ様がいらっしゃれば、 後世に血を残す事が出来ます。
+その為ならばこのハイネ。 鬼にも蛇にもなりましょう。","That is not so. As long as you are alive, Linda-sama, you can keep your bloodline going.
+ I exist to keep you alive, and I shall sacrifice anything to do so."
+Yamamoto Akuji (talking),大した忠義心だ。 じゃあ、俺の部下……,That`s some loyalty. Then you`ll work for-
+Hasekura Haine (talking),但し、条件がございます。,"However, I have conditions."
+Yamamoto Akuji (talking),ん？,Huh?
+Hasekura Haine (talking),"わたくしは、あなたの為に 戦いましょう。
+ですが、３回までです。 その後わたくしは、隠居いたします。 二度と戦う事はありません。
+そしてもうひとつ。 リンダ様の無事を保証して頂きとう ございます。
+その３回の戦いで、わたくしが滅びても、 リンダ様を絶対傷つける事はないと。
+そのふたつが条件です。
+これに承諾して頂けない場合、わたくしは リンダ様を息絶えさせ、一人でも多くを 道連れに、この場で修羅となりましょう。","I shall fight for you.
+ But only 3 times. Afterwards, I shall retire and never fight again.
+ I have one other condition. You must guarantee Linda-sama`s safety.
+ Even should I fall in battle, you must not allow her to get hurt.
+ Those are my terms.
+ Should you refuse, I shall put my master to eternal rest and take out as many of you as possible with me."
+Momoyama Linda (talking),"そうでちゅわね。 あたちもハイネの腕にかかるのでちたら、 死んでもよいでちゅわ。
+無様に生き残るのでちたら、 華々しく散る方を選択するでちゅ。","That`s right. I don`t mind dying if it`s by Haine`s hands.
+ Rather than living in disgrace, I`d rather die a glorious death."
+Yamamoto Akuji (talking),あーもう、わかったわかった。 その条件、飲んでやるよ。,"Fucking hell, okay, okay. I accept your terms."
+Hasekura Haine (talking),"ありがとうございます。
+その恩に報いまして、わたくし達がここに お世話になっている間の賃金の支払いは、 ゼロで結構でございます。","Thank you.
+ As a show of gratitude, we shall not require any remuneration for as long as we`re in your care."
+Yamamoto Akuji (talking),へ？ いーのかい？,Hoh? You cool with that?
+Hasekura Haine (talking),"組織の経済に携わっていた者の 端くれとして、察するに…
+こちらがわたくし達に支払う予定の金額は リンダ様の資産の一月分の利子にも なりませんでしょうから。","As someone who was involved with our group`s economy, I can guess.
+ The amount you`d pay us would not even compare to the monthly interest on Linda-sama`s assets."
+Yamamoto Akuji (talking),……そーなのか……,"...Really, now..."
+Hasekura Haine (talking),はい。,Indeed.
+Yamamoto Akuji (thinking),金持ち、金持ちだと思ってたが、 そこまでだったとはなー……,"I knew they were rich, but not THAT rich..."
+narrator,悪司はＰＭ本拠地、リンダの屋敷の前まで きていた。,Akuji arrived at the PM`s stronghold-- Linda`s mansion.
+Yamamoto Akuji (talking),"いいか。 ＰＭ本部を落とさねぇ限り、 この戦いは終わんねぇ。
+残りは、ハイネ一人だ。 一気に行くぜ。","Listen up. As long as the PM`s HQ`s still standing, this battle won`t end.
+ Only Haine is left. Let`s go at once."
+narrator,悪司の言葉に部下達は頷いた。,Akuji`s men nodded at his words.
+Momoyama Linda (talking),どうやら、きたみたいでちゅわね。,Seems like they`re finally here.
+Hasekura Haine (talking),はい。,Indeed they are.
+Momoyama Linda (talking),ここは絶対、落とされてはダメでちゅわ。,We must NOT let this place fall.
+Hasekura Haine (talking),"はい、リンダ様。
+リンダ様、戦闘中、多少不自由を おかけいたしますが、辛抱下さいませ。","Very well, Linda-sama.
+ You might be a little inconvenienced during battle, but please be patient."
+Momoyama Linda (talking),構わないでちゅわ。 それは、ハイネがあたちを 守る為でちゅもの。,I don`t mind. I know you`re doing it to protect me.
+Hasekura Haine (talking),ありがとうございます。,Thank you.
+Momoyama Linda (talking),ハイネ、手加減する事ありまちぇんわ。 本気でいってくだちゃい。,"Don`t hold back, Haine. Give them al lyou got."
+Hasekura Haine (talking),はっ。,"Yes, ma`am!"
+Momoyama Linda (talking),外が騒がしいでちゅわね。,"It`s noisy outside, huh."
+Hasekura Haine (talking),またきたようですね。,It would seem they`re back.
+Momoyama Linda (talking),ハイネ。,Haine.
+Hasekura Haine (talking),はっ。,Yes.
+narrator,ハイネはリンダをその背におぶった。,Haine placed Linda on his back.
+Hasekura Haine (talking),それでは、少々ご辛抱を。,I beg your patience.
+Momoyama Linda (talking),ガンガンやっちゃって。,Give them hell.
+Hasekura Haine (talking),はっ。,"Yes, ma`am!"
+narrator,ハイネは背中からリンダを降ろした。,Haine let Linda off his back.
+Momoyama Linda (talking),いつもながら、素晴らしい 戦いぶりでちたわ、ハイネ。,"That was a brilliant fight like always, Haine."
+Hasekura Haine (talking),あがとうございます。,Thank you.
+Momoyama Linda (talking),でも、奴ら、バカだから負けても 懲りないと思うでちゅわ。,But those morons won`t learn from their defeat.
+Hasekura Haine (talking),その時はまた、 わたくしが追い払います。,"When that happens, I shall drive them away once again."
+Momoyama Linda (talking),そうね、お願いね、ハイネ。,"Please do, Haine."
+Hasekura Haine (talking),はっ。,Very well.
+Seinendan Jyoshi (talking),あ、悪司さん！ リンダさんとハイネさんが…,A-Akuji-san! Linda-san and Haine-san are...
+Yamamoto Akuji (talking),ん~？,Hm?
+Hasekura Haine (talking),失礼します。,Please excuse me.
+Yamamoto Akuji (talking),どうしたんだ？,What is it?
+Momoyama Linda (talking),出て行くでちゅわ。,We`re going.
+Hasekura Haine (talking),この前の戦闘で、わたくしは悪司様との 約束を果たしました。 ですので、お暇させて頂きます。,"I have fulfilled my promise with you after that last battle. As such, I shall be retiring."
+Yamamoto Akuji (talking),ああ…そーか、そーだったな……,"Oh, right, riiiight..."
+Momoyama Linda (talking),ごきげんよう、悪司。 しばらくあなたの顔は見たくない でちゅわ。,"Fare thee well, Akuji. I don`t wanna see your face for a while."
+Yamamoto Akuji (talking),そーか、わかった。 家が決まったら連絡くれなくても、 こっちで調べて飴玉持ってってやるよ。,"Okay, I got it. Once you find a home, I`ll go give ya some candy even if you don`t want it."
+Momoyama Linda (talking),こなくていいでちゅ！！,You don`t have to come!!
+Hasekura Haine (talking),短い間ですが、お世話になりました。,Thank you for everything.
+Yamamoto Akuji (talking),こっちこそ助かったぜ。,I`m the one who`s grateful.
+Hasekura Haine (talking),それでは。,Then we shall take our leave.
+Yamamoto Akuji (talking),おう。,`Kay.
+narrator,ハイネはリンダを抱くと踵を返し、 そのまま振り向かなかった。,"Carrying Linda, Haine turned on his heels and left."
+Seinendan Jyoshi (talking),ずっといてくれれば よかったんですけどねー…,Sure woulda been nice if he stayed...
+Yamamoto Akuji (talking),まーしゃーねぇわ。 そーいう約束だったし。,"Well, no helping it. It`s what we promised."
+Momoyama Linda (talking),……………,...
+Yamamoto Akuji (talking),まさか俺も、あのおっさんが 戦いに負けるとは思ってなかったん だがな…,"I never thought that old man could ever lose in a fight, even if it was against me..."
+Momoyama Linda (talking),"しかたありまちぇんわ。 事実は事実でちゅ。
+ハイネは負けた。
+そして、死んでちまった。
+ ……それだけでちゅ。","There is nothing to be done. We must accept the truth.
+ Haine lost,
+ and now he`s dead.
+ ...That`s all there is to it."
+Yamamoto Akuji (talking),約束だったからな。 お前さんの安全は俺が保証するよ。,"I promised him, so I`ll guarantee your safety."
+Momoyama Linda (talking),"………………
+だったら……家に帰りたいでちゅ。","...
+ Then... I wanna go back home."
+Yamamoto Akuji (talking),リンダ？,Linda?
+Momoyama Linda (talking),"あそこには、敷地内に支倉の家の 墓もあるでちゅ。
+そこにハイネを連れて行って やりたいでちゅ。","The Hasekura Family grave is in the mansion`s grounds.
+ I want to take Haine there."
+Yamamoto Akuji (talking),しかしなー…,But...
+Takega Satsu (talking),では私が、リンダの身元保証人となろう。,Then I`ll be her personal guarantor.
+Yamamoto Akuji (talking),さっちゃん！？,Sacchan?!
+Takega Satsu (talking),どうだ、リンダ。 この私では不満だろうが、承諾すれば お前は家に戻る事が出来る。,"How about it, Linda? If you have no issues with me, I can take you back to your home."
+Momoyama Linda (talking),でも、どうちて、あたちの為に…,But why do this for me...?
+Takega Satsu (talking),"近しい者を亡くした事のある者同士、 お前の境遇に同情し、動く事はおかしく ないからだ。
+ハイネがいなくなった今、こんな私で よければ、お前の身内になっても いいだろうか？","As one who`s also lost someone close to them, I sympathize with you. Of course I`d help.
+ Now that Haine`s gone, if you`re fine with me, would you allow me to become your friend?"
+Momoyama Linda (talking),"………………
+ありがとう…殺……","...
+ Thanks, Satsu..."
+Takega Satsu (talking),そういう事だ。 よいな、悪司？,"That`s how it is. You okay with this, Akuji?"
+Yamamoto Akuji (talking),"あいよ。 だけどよ、リンダ。
+これでさっちゃんの顔を潰すような事 したら、俺は容赦しねーぜ。","Yeah. But listen here, Linda.
+ If you ever do make Sacchan lose face, I won`t show you any mercy."
+Momoyama Linda (talking),"……あたち一人ではどうする事も 出来まちぇんわ…
+ …おとなしく、花嫁修業でも いたちまちゅ…","...There`s nothing I could even do on my own...
+ ...I`ll be a good girl and train for housemaking..."
+Yamamoto Akuji (talking),まー、それもひとつの道だな。,"Well, that`s one path for you."
+Momoyama Linda (talking),でちゅから悪司。 もうあなたと接する事もないでちゅわ。 ごきげんよう。,"So, Akuji, I won`t be around you anymore. Fare thee well."
+Yamamoto Akuji (talking),おう、お前さんも達者でな。,"Yeah, take care."
+narrator,こうして、リンダは一人、奉仕青年団を後にした。,"With that, Linda left the YCSG."
+Hasekura Haine (talking),そうか……,I see...
+Peach boy (talking),はい……申し訳ありませんでした。,Yes... I`m terribly sorry.
+Hasekura Haine (talking),"いや…わたくしの忠告をきかなかった、 あの子が悪いのだ。 お前はそのように悔やまなくてよい。
+それより、疲れただろう。 もう下がってよい。","No... it`s her fault for not heeding my warning. You don`t have to apologize.
+ Now, I`m sure you`re tired. You`re dismissed."
+Peach boy (talking),はい……ありがとうございます。,"Very well, thank you."
+narrator,部下がハイネのところに届けたのは、 アエンが奉仕青年団に捕獲されてしまったという 情報だった。,Haine`s subordinate had come to report that Aen had been captured by the YCSG.
+Hasekura Haine (thinking),"………生きていれば…… また会える事もあるだろう… それが敵同士になる事になっても…
+ ……出来れば父らしい事のひとつでも してやりたかったな…… このような事になるのなら…","...If she`s alive, then we`re sure to meet again... Even if it`s as enemies.
+ I would`ve liked to have been a better father. Maybe this wouldn`t have happened then..."
+Hasekura Haine (talking),そうか……,I see...
+Peach boy (talking),ひっく…ひっく… ……申し訳ありません…… …もっ………申し訳ありません……,Hic... sob... ...I`m sorry... I`m... so sorry...!
+Hasekura Haine (talking),"いや…わたくしの忠告をきかなかった、 あの子が悪いのだ。 お前はそのように悔やまなくてよい。
+それより、疲れただろう。 もう下がってよい。","No... it is her fault for not heeding my warning. Don`t blame yourself like that.
+ More importantly, you must be tired. You may leave for now."
+Peach boy (talking),はい……すみません……,Okay... thank you...
+narrator,部下がハイネのところに届けたのは、 奉仕青年団との戦闘で、アエンが死に、 盾が殉職したという情報だった。,"Haine`s subordinate had told him that Aen had died in a battle with the YCSG, along with Shield."
+Hasekura Haine (talking),"…………………
+ …………っ！！","...
+ ...!!!"
+narrator,"　　［どんっっっ］
+ハイネは拳を思い切り壁に叩きつけた。","　　*BAM!!!*
+ Haine punched the wall with all his strength."
+Hasekura Haine (talking),馬鹿者………馬鹿者が………！！ 父を置いて先に逝くなど……,Fool... You fool...! Dying before your father is just...!
+narrator,ハイネは黙ったまま、 窓の向こうを見つめていた。,Haine silently gazed out the window.
+Hasekura Haine (thinking),"…………キリカ……すまぬ…… お前が生きているのをわかっていながら、 どうにも出来ぬ父を許せとは言わぬ。
+怨んで、気が晴れるのならそれで……
+お前はわたくしとアエンの事を考え、 我が儘ひとつ言わず、わたくしに仕えて くれたというのに……
+ ……………すまない……","I`m sorry, Kirika...  I know you`re still alive, but please forgive your useless father.
+ If hating me makes you feel better...
+ You were always considerate of me and Aen, supporting us without a single complaint, and yet...
+ ...I`m sorry..."
+narrator,ハイネは黙ったまま、 窓の向こうを見つめていた。,Haine silently gazed out the window.
+Hasekura Haine (thinking),"このような状態で、簡単な葬儀も出来ぬ… キリカ、許せ…
+お前はわたくしとアエンの事を考え、 我が儘ひとつ言わず、わたくしに仕えて くれたというのに……
+すまない……","Forgive me, Kirika... In this state, I can`t even give you a proper burial.
+ You were always considerate of me and Aen, supporting us without a single complaint, and yet...
+ I`m sorry..."
+Hasekura Haine (talking),どうやら、悪司殿が、 このオオサカを制したようです。,It would seem that Akuji-dono has taken control of Osaka.
+Momoyama Linda (talking),市議会に続き、エデンも…,He took over Eden after the CC...
+Hasekura Haine (talking),はい。,Indeed.
+Momoyama Linda (talking),ハイネ。,Haine.
+Hasekura Haine (talking),"わかっております。 準備は地下で着々と進めております。
+今しばらくの辛抱でございます。 リンダ様。
+桃山家…ＰＭの復活に、このハイネ、 死力を尽します。","I know. Our preparations are steadily progressing underground.
+ Please be patient for a little while longer, Linda-sama.
+ I, Haine, shall use all I have to rebuild the PM."
+Momoyama Linda (talking),あたちもでちゅわ。 ハイネ、あたち達の代で終わるなどと いう事は絶対になしにしまちょう。,"Same here. We will NOT let it all end with our generation, Haine."
+Hasekura Haine (talking),はい、リンダ様。,"Yes, Linda-sama."
+Hasekura Haine (talking),"手加減なしで行きます。 お覚悟を。
+リンダ様。 しっかりこのハイネを 掴んでいて下さい。","I will not be holding back. Prepare yourself.
+ Linda-sama, please hold tight onto me."
+Momoyama Linda (talking),お父様……,Father...
+Hasekura Haine (talking),…………,...
+Momoyama Linda (talking),…………,...
+Hasekura Haine (talking),気に病む事はない。 お前の成長、この父に見せてみるといい。,This is nothing to fret over. Show your father how you`ve grown.
+Momoyama Linda (talking),失礼します、ハイネ様。,"Please excuse me, Haine-sama."
+Hasekura Haine (talking),キリカがどれだけお前を鍛えたのか、 見せて貰うぞ。,I shall ascertain how well Kirika has trained you.
+Momoyama Linda (talking),はい。,Very well.
+Momoyama Linda (talking),あ、ハイネ様。 こんにちわ~。 行きますよ~。,"Ah, Haine-sama. Hellooooo! Here I cooooome!"
+Momoyama Linda (talking),………………,...
+Hasekura Haine (talking),くるといい。 遠慮はいらん。,Come. There is no need for restraint.
+Momoyama Linda (talking),ごめんなさい、ハイネ様… あの…失礼します…,"Sorry, Haine-sama... Um, please excuse me..."
+Momoyama Linda (talking),少々、不自由をかけてしまいますが、 ご勘弁下さい、リンダ様。 では、参る。,"This shall inconvenience you a little, but forgive me, Linda-sama. Now then, here I come."

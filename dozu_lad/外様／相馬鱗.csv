@@ -1,0 +1,512 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆相馬鱗 = 2:,{☆相馬鱗 = 2:
+__system__??,},}
+__system__??,{B忠誠タイプ = 3:,{B忠誠タイプ = 3:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 2:,{麦 = 2:
+__system__??,{B忠誠タイプ = 4:,{B忠誠タイプ = 4:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 4:,{麦 = 4:
+__system__??,},}
+__system__??,{麦 = 5:,{麦 = 5:
+__system__??,},}
+Yamamoto Akuji (talking),あ~…たこ焼きうめぇ…,"Ahh, takoyaki`s so good..."
+Yamamoto Akuji (talking),おう、たこ焼き食うか？,"Hey, wanna get some takoyaki?"
+Souma Rin (talking),いいわ。,Fine.
+Yamamoto Akuji (talking),こっちの街、ミエに比べたら うるさいんじゃねーか？ 慣れたか？,"This city`s way noisier than Mie, ain`t it? You get used to it yet?"
+Souma Rin (talking),"夜はまだ慣れないかな。
+うちの村は、夜道を歩く足音も響いてさ、 誰だかわかるぐらい。
+だから誰が誰んとこ夜這行ってたか、 わかるんだよ。","Not to the nights, no.
+ In my village, nights are so quiet you can hear footsteps.
+ Which is how we can tell who`s sneaking into whose place at night."
+Yamamoto Akuji (talking),そんなあけすけな環境、涙が出るな。,Sounds horrible.
+Yamamoto Akuji (talking),おう。,Yo.
+Souma Rin (talking),これってさ…,"Hey, is this..."
+Yamamoto Akuji (talking),ん？,Hm?
+Souma Rin (talking),夜這いってんじゃなくって、 昼這いっていうのかな？,"...Something like a night visit, except during the day?"
+Yamamoto Akuji (talking),デートでもいーじゃねぇか。,Why not call it a date?
+Souma Rin (talking),そんなハイカラな言葉知らないよ。,I don`t know such Western words.
+Yamamoto Akuji (talking),でよ………,So hey...
+Souma Rin (talking),ん？,Hm?
+Yamamoto Akuji (talking),俺も、あんたを頂いちまっていいかな？,Can I have you too?
+Souma Rin (talking),したいって事？,You mean you wan to do it?
+Yamamoto Akuji (talking),まあ。,Pretty much.
+Souma Rin (talking),いいわよ。 ここで？,Sure. Here?
+Yamamoto Akuji (talking),いや、一応、奥に行こうか。,"Nah, let`s go to the back."
+Souma Rin (talking),そうだね。,Alright.
+Souma Rin (talking),鱗は、頭が真っ白になるまで、 悪司に抱かれた。,Akuji fucked Rin until her head went blank.
+Souma Rin (talking),…………ふう……,...Phew...
+Yamamoto Akuji (talking),疲れたか？,You tired?
+Souma Rin (talking),ん~…気持ちいい疲れ…… あんたみたいな男、知らないよ…,"Mhm, but it`s a good tired... I`ve never met another man like you."
+Yamamoto Akuji (talking),そいつはどーも。,Thanks.
+Souma Rin (talking),……時々…お願いしていいかな？,Can I ask you to do me sometimes?
+Yamamoto Akuji (talking),ああ。,Sure.
+Yamamoto Akuji (talking),鱗、奥にきてくれるかい？,"Rin, come with me for a bit."
+Souma Rin (talking),するの？,Arewe doing it?
+Yamamoto Akuji (talking),ああ。,Yeah.
+Souma Rin (talking),うん、いいよ。 こちらからお願いしたい ぐらいだから。,Okay. I was going to ask you anyway.
+Souma Rin (talking),鱗は、気絶するまで悪司に抱かれた。,Akuji fucked Rin until she passed out.
+Yamamoto Akuji (talking),鱗、これ、海をきれーにする 金の足しにしてくんな。,"Rin, have some money to help ya get your sea clean."
+Souma Rin (talking),ありがと、嬉しいよ。,Thank you.
+narrator,鱗は悪司からお金を受け取った。,Rin took Akuji`s money.
+Souma Rin (talking),"ふーん、身売りか。 考えもしなかったよ。
+もうかるかい？","Hmm, prostitution, huh? I never gave it a thought.
+ Will I earn money?"
+Yamamoto Akuji (talking),お前さん次第だ。,Depends on you.
+Souma Rin (talking),"わかったよ、行くよ。
+だけど、もうからなかったらさっさと 出て行くからね。","Fine, I`ll do it.
+ But I`ll quit right away if I don`t get enough money."
+Souma Rin (talking),ＧＡＬバーガー…,GAL Burger...
+Yamamoto Akuji (talking),知ってるのか？,You know about it?
+Souma Rin (talking),知ってるよ。 あの、可愛いフリフリの服の店でしょ？ あれ、あんたの店だったの。,"I do. It`s that place with the cute, frilly dresses, right? That was your shop?"
+Yamamoto Akuji (talking),でよ、あそこで働いて欲しいんだけど。,Yeah. I want you to work there.
+Souma Rin (talking),あ、あの服……あの、ひらひらを…,I-I... Those frilly clothes...
+Yamamoto Akuji (talking),ん？,Hm?
+Souma Rin (talking),断るよ… あの服は……可愛すぎて、 あたしは着る事が出来ない……,"I refuse... Those clothes are too cute, I can`t wear them..."
+narrator,鱗は顔を真っ赤にして、唇を噛んだ。,"With her face reddened, Rin bit her lip."
+Yamamoto Akuji (talking),んな、照れなくても… 似合うと思うけどなー。,Don`t be so embarrassed. I think it`d suit you.
+Souma Rin (talking),そういう問題じゃないんだよ…… ああ……恥ずかしい……,"That`s not the issue. Aww, so embarrassing..."
+ (talking),ここにいたんだ、鱗。,"There you are, Rin."
+Souma Rin (talking),呼んだのはお前の方でしょ、千手。 で、用は何？,"You called for me, Senju. Well, what is it?"
+Ishihara Senju (talking),鱗ってさ、きた時からいきなり仕事が 出来るぐらい、達者だったじゃない。,"You were good enough to start working from the get-go, huh."
+Souma Rin (talking),そうね。,I guess.
+Ishihara Senju (talking),でさ、それ以上のオンナになって 欲しくてさ。 さ、行くよ。,"So, I want you to become an even better woman. Now, let`s go."
+Souma Rin (talking),どこに？,Where?
+Ishihara Senju (talking),くればわかるよ、おいで。,You`ll know when we get there.
+narrator,千手は鱗の手を引き、薄暗い部屋へと向かった。,"Taking Rin`s hand, Senju headed to a dark room."
+cg narrator,"「千手、これっ…これは、どういう事なのよ！？」
+「さっき言ったでしょ？ 　鱗には、今以上になって貰うって。 　今からそれを始めるだけだよ」
+「だ、だけど、これは、こんな…」
+「ヘンタイっぽくって、異常だっていうの？」
+「え、ええ……」
+「ボクが鱗に欲しいものは、 　そのモラルを取っ払う事なんだよ」
+「えっ……」
+「夜這いだなんて風習がある村で暮らしているのに、 　古風なとこあるもんね、鱗」
+「な、何が…」
+「じゃあ、始めるよ」","「千手、これっ…これは、どういう事なのよ！？」
+ 「さっき言ったでしょ？ 　鱗には、今以上になって貰うって。 　今からそれを始めるだけだよ」
+ 「だ、だけど、これは、こんな…」
+ 「ヘンタイっぽくって、異常だっていうの？」
+ 「え、ええ……」
+ 「ボクが鱗に欲しいものは、 　そのモラルを取っ払う事なんだよ」
+ 「えっ……」
+ 「夜這いだなんて風習がある村で暮らしているのに、 　古風なとこあるもんね、鱗」
+ 「な、何が…」
+ 「じゃあ、始めるよ」"
+cg narrator,"そう言って、千手は手にしている 蝋燭に火をつけた。
+ 「なっ……何を、そ、それっ……」
+ 「こーいうのでさ、人を嬲るのが好きな人が 　いるんだよ」
+千手は言葉に合わせるように、手にしている 蝋燭の火を、ゆらゆらと揺らした。
+ 「いっ……いやよ、そんなもの…… 　そんなもの、どうやって使うの？」
+ 「こーするんだよ」
+そして、手にしている蝋燭を、 鱗の躰に近づけた。
+蝋燭の芯の根元には、もう液体状になった蝋が、 溢れそうになっていた。
+千手の手首が、ゆっくり下を向く。
+ 「あっ……」","そう言って、千手は手にしている 蝋燭に火をつけた。
+ 「なっ……何を、そ、それっ……」
+ 「こーいうのでさ、人を嬲るのが好きな人が 　いるんだよ」
+ 千手は言葉に合わせるように、手にしている 蝋燭の火を、ゆらゆらと揺らした。
+ 「いっ……いやよ、そんなもの…… 　そんなもの、どうやって使うの？」
+ 「こーするんだよ」
+ そして、手にしている蝋燭を、 鱗の躰に近づけた。
+ 蝋燭の芯の根元には、もう液体状になった蝋が、 溢れそうになっていた。
+ 千手の手首が、ゆっくり下を向く。
+ 「あっ……」"
+cg narrator,"「あ~~~~！！」
+熱さに鱗が声をあげ、躰を揺らす。 その度に鱗の躰にまとわりついている戒めが、 きしきしと音をたて、さらに鱗を絞めあげていく。
+「いたっ……あっ…うっあっ………！！」
+「そーそー、いい感じの痛がりっぷりだよ。 　その調子」
+千手が嬉しそうに言った。
+「ひっ…酷いっ…こんなっ……あっ……！」
+「酷いなんて口では言っといてさ…… 　下の口は嬉しそーに、ひくついてるよ」
+「えっ……」
+「この最終段階にくるまでに、そうなる要素は 　鱗の躰にブチこんでおいたから… 　まー、当然なんだけどね…くすくすっ…」
+「せっ…千手…あんたっ…あっ…ああっ！！」
+鱗の花弁から、細い糸のような滴が 垂れ下がり出した。
+「ほーら、躰がいたぶられる事に 　反応し始めたよ」
+「いやっ……みっ……見ないでっ！」
+「どうして？ 　見られる事も嬉しいはずでしょ？ 　そーいう躰にもしてあげてんだからさ」
+「うっ……」
+鱗の躰がピクリと痙攣した。
+千手の言う通り、口では酷いと自分で言って おきながら、躰の奥からは、熱いものが こみあげてくる。
+「後さー、こーして、セリフで詰ってあげると、 　躰が反応するようにもしといてあげたん 　だけどさ、どーう？」
+「どっ…どうっ……って……」
+「縛られて蝋燭垂らされて、 　それ見られているってだけで、 　濡れてくるんでしょ？」
+「うっ……！」
+鱗の躰が再び反応した。 さっきから千手の言う通りの事すべてに 躰が反応している。
+「はっ……ぁっ……」
+心ならず、鱗の唇から熱い吐息が漏れてしまった。
+「ふふ、素直になってきたね。 　いい感じだよ、鱗」
+「あっ…あたしっ…こんなっ… 　う…っあ！」
+千手の手から、新たな熱い蝋が垂らされる。
+「いやっ……あっ……あっ……！」
+「そーそー、その調子。 　じゃあ、フィニッシュにしようかな」
+という千手の台詞に、 鱗が最後の理性を振り絞り叫んだ。
+「こっ……これ以上、何をするっていうのっ…？ 　こんな…こんな、酷い事ばかりっ……」
+「じゃあ何をされるか、躰で味わってよ」
+「えっ…」","「あ～～～～！！」
+ 熱さに鱗が声をあげ、躰を揺らす。 その度に鱗の躰にまとわりついている戒めが、 きしきしと音をたて、さらに鱗を絞めあげていく。
+ 「いたっ……あっ…うっあっ………！！」
+ 「そーそー、いい感じの痛がりっぷりだよ。 　その調子」
+ 千手が嬉しそうに言った。
+ 「ひっ…酷いっ…こんなっ……あっ……！」
+ 「酷いなんて口では言っといてさ…… 　下の口は嬉しそーに、ひくついてるよ」
+ 「えっ……」
+ 「この最終段階にくるまでに、そうなる要素は 　鱗の躰にブチこんでおいたから… 　まー、当然なんだけどね…くすくすっ…」
+ 「せっ…千手…あんたっ…あっ…ああっ！！」
+ 鱗の花弁から、細い糸のような滴が 垂れ下がり出した。
+ 「ほーら、躰がいたぶられる事に 　反応し始めたよ」
+ 「いやっ……みっ……見ないでっ！」
+ 「どうして？ 　見られる事も嬉しいはずでしょ？ 　そーいう躰にもしてあげてんだからさ」
+ 「うっ……」
+ 鱗の躰がピクリと痙攣した。
+ 千手の言う通り、口では酷いと自分で言って おきながら、躰の奥からは、熱いものが こみあげてくる。
+ 「後さー、こーして、セリフで詰ってあげると、 　躰が反応するようにもしといてあげたん 　だけどさ、どーう？」
+ 「どっ…どうっ……って……」
+ 「縛られて蝋燭垂らされて、 　それ見られているってだけで、 　濡れてくるんでしょ？」
+ 「うっ……！」
+ 鱗の躰が再び反応した。 さっきから千手の言う通りの事すべてに 躰が反応している。
+ 「はっ……ぁっ……」
+ 心ならず、鱗の唇から熱い吐息が漏れてしまった。
+ 「ふふ、素直になってきたね。 　いい感じだよ、鱗」
+ 「あっ…あたしっ…こんなっ… 　う…っあ！」
+ 千手の手から、新たな熱い蝋が垂らされる。
+ 「いやっ……あっ……あっ……！」
+ 「そーそー、その調子。 　じゃあ、フィニッシュにしようかな」
+ という千手の台詞に、 鱗が最後の理性を振り絞り叫んだ。
+ 「こっ……これ以上、何をするっていうのっ…？ 　こんな…こんな、酷い事ばかりっ……」
+ 「じゃあ何をされるか、躰で味わってよ」
+ 「えっ…」"
+cg narrator,"千手は火のついたままの蝋燭を、 鱗の花弁に宛った。
+「ああああっ！！」
+今までのものとは比べ物にならない熱さに 鱗が悲鳴をあげた。
+「熱い？　痛い？ 　ただ、悲鳴をあげてるだけじゃ、 　どっちかわかんないね」
+千手は火のついたままの蝋燭をそのまま、 花弁の中に押し入れた。
+「あ、ああ、あーーーーーー！！！！」
+蝋燭は火がついたまま、鱗の中に入ってくる。
+湿り気と空気がなくなった為、 鱗の中で蝋燭の火が消えた。
+「うああっ……あ、あーーーっ……！！」
+猛烈な痛みと、その前のハードな前戯に、 鱗は声を荒げ、躰を大きく震わせる。
+千手はそんな鱗の状態にかまわず、 中に沈めた蝋燭で、鱗の中を容赦なくかき回す。
+「あ、うあ、あっ……っ……あっ！！」
+鱗は異常な状態にガクガクと大きく躰を震わせる。
+「っ……ひぅっ……くっ…あっ……」
+「イッちゃいなよ、異常な状態でさ。 　鱗に必要なのは、今はそれなんだから」
+千手はさらに蝋燭を使って鱗の中をかき回す。
+「んあ、あ、あっ……っ……あ！！」
+鱗は千手の言葉通り、その異常の状態の中で、 達し、大きな声をあげ、何度も何度も躰を震わせた。","千手は火のついたままの蝋燭を、 鱗の花弁に宛った。
+ 「ああああっ！！」
+ 今までのものとは比べ物にならない熱さに 鱗が悲鳴をあげた。
+ 「熱い？　痛い？ 　ただ、悲鳴をあげてるだけじゃ、 　どっちかわかんないね」
+ 千手は火のついたままの蝋燭をそのまま、 花弁の中に押し入れた。
+ 「あ、ああ、あーーーーーー！！！！」
+ 蝋燭は火がついたまま、鱗の中に入ってくる。
+ 湿り気と空気がなくなった為、 鱗の中で蝋燭の火が消えた。
+ 「うああっ……あ、あーーーっ……！！」
+ 猛烈な痛みと、その前のハードな前戯に、 鱗は声を荒げ、躰を大きく震わせる。
+ 千手はそんな鱗の状態にかまわず、 中に沈めた蝋燭で、鱗の中を容赦なくかき回す。
+ 「あ、うあ、あっ……っ……あっ！！」
+ 鱗は異常な状態にガクガクと大きく躰を震わせる。
+ 「っ……ひぅっ……くっ…あっ……」
+ 「イッちゃいなよ、異常な状態でさ。 　鱗に必要なのは、今はそれなんだから」
+ 千手はさらに蝋燭を使って鱗の中をかき回す。
+ 「んあ、あ、あっ……っ……あ！！」
+ 鱗は千手の言葉通り、その異常の状態の中で、 達し、大きな声をあげ、何度も何度も躰を震わせた。"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Chinpira (talking),"これはこれは、遠い所からの お客様で。
+え、相馬鱗ですか？
+はい、いますよ。 おりますよ、空いていますよ、 ラッキーですなー。
+はいはい、それでは、鱗ちゃんご指名で、 野外プレイー。
+はりきってお仕事してね。 ハッスル、ハッスル~！","My my, have we got a client from a distant palce here.
+ Oh, Souma Rin?
+ Yeah, she`s here. She`s available, too. Lucky for you!
+ Oookay, you want Rin-san, and you wanna do it outdoors.
+ Time to get to work! Let`s hustle!"
+cg narrator,「い、いやだ、やめて… 　うあっ…あっ…！！」,"「N-No, stop it... 　Waaaah! aaahn!」"
+cg narrator,"「へ……へへへ…… 　久しぶりだなあ、鱗……」
+鱗を買った男は、鱗と同じ村の男だった。
+「村にいた時、お前、俺が夜這いに行ったら、 　絶対、嫌だっつって、殴り倒してくれたよな…」
+男はいやらしく、ねちねちとした声で、 鱗の耳元で囁いた。
+「それが、どーだい？ 　その嫌がってた男相手に、 　ここをこんなに濡らしてよぉ」
+男は鱗の内腿に挟んでいる勃起したそれで、 軽く鱗の花弁を擦った。
+「あっ…！！」
+鱗が腰を震わせた。
+「へへ…なんだ、そのいやらしー声はよぉ？ 　俺のこれで感じてるってのかい？」
+男は薄汚れた笑い声を小さくたてると、 さっきと同じように、鱗の花弁を固くなった 粘膜で愛撫する。
+「あっ……ふあっ…！」
+「へへ……どしたい？ 　あんた、強いんだろ？ 　だったら、俺の手ぐらい、ふりほどけるだろ？」
+男はそう言って、 さらに鱗の細い手首を握りしめた。
+「いっ…痛っ……」
+鱗はそれに抵抗する事なく、じっとしている。
+「どうしたよ？ 　なんで抵抗しないんだよ？」
+男は意地悪く言う。 ここにくるまでに鱗に躰を愛撫るだけ愛撫して、 立っているのがやっとな状態であると知っていて。
+「気のつえーあんたもそそられたけど、 　そーいう女がこんなにふにゃふにゃになってんのは 　また別の意味でたのしーんだな」
+「くっ……」
+「悔しいかい？ 　え？ 　悔しいかい？」
+男は強く自分の怒張したものを 鱗の花弁に素早く擦りつけた。
+「あっ、ああっ！　あっ！」
+鱗は腰を振り、顎を空に泳がせる。
+「は…はは、最高だよ！ 　あんたをこんな風に弄ぶ事が出来るなんてよ！」
+「あっ……ああっ……」
+鱗の躰がふるふると震えている。
+「え、どうしたい？ 　どうして欲しいか、言ってみなよ」
+「っ……」
+鱗はぬらりと濡れ光った目で、男の顔を見る。
+「そんな顔したって駄目だ。 　自分の口で、自分の声で、 　どうして欲しいか言ってみな！」
+「………く……だ……さい……」
+「何をだよ？」
+「それ……を……」
+「それって、なんだよ？ 　わかんねぇだろ？ 　自分だけわかってんじゃねぇよ」
+「……を……」
+「はぁ？」
+「その……熱く…たぎっているあなたの 　チ×チンを、あたしの…あたしの中に下さい…」
+「へー……これかい？」
+男はまた、鱗の花弁を愛撫する。
+「ああっ…！」
+鱗の花弁から漏れた雫が珠になり、 地面に落ちた。
+「これが欲しいのかい？」
+「はっ…はい……」
+「へへ……」
+「っ…………」
+期待に染まっている鱗の目を見つめ、 男はこの上ない支配感に包まれた。
+しかし。
+「絶対、入れてやんねぇ」
+「えっ……」
+「お前はそこで、俺がイくのを見てな」
+「あ…そんな……」
+「そーら！」
+男は鱗の花弁だけを使って自分のものを擦り、 刺激し、達成に向かい始めた。
+「あ、あ、あ！」
+鱗は言葉を途切れ途切れにさせ、 自分の陰毛から時々頭を出すそれを見つめている。
+「いやっ…あっ…こんな…こんなっ……」
+「俺はサイッコーに気持ちいいぜ。 　そら、そらぁ！！」
+男はさら腰を振る。
+「あっ…ああ、あ、ああ！」
+タマネギ達にそう躾られた為か、それとも 天性の感覚か。 鱗はそれに合わせ、腰を振る。
+「いやぁっ……あっ…このままっ… 　お願いっ…お願いっ……」
+鱗の哀願は、男の射精を速めるスパイスに しかならなかった。
+「くっ…んぉっぉ…！」
+男は鱗の声を聞きながら、 獣のような低い快楽の声をあげている。
+「いやっ…あっ…入れてっ…お願いっ……」
+「くっ…ははっ…はははっ…！！」
+男の腰の動きが、鱗の声に合わせ、早くなる。
+「くっ…！」
+男の腰の動きが不規則に、そして早くなった。
+「あっ…駄目っ…あっ…」
+「くっ…ぉぉっ…！！」","「へ……へへへ…… 　久しぶりだなあ、鱗……」
+ 鱗を買った男は、鱗と同じ村の男だった。
+ 「村にいた時、お前、俺が夜這いに行ったら、 　絶対、嫌だっつって、殴り倒してくれたよな…」
+ 男はいやらしく、ねちねちとした声で、 鱗の耳元で囁いた。
+ 「それが、どーだい？ 　その嫌がってた男相手に、 　ここをこんなに濡らしてよぉ」
+ 男は鱗の内腿に挟んでいる勃起したそれで、 軽く鱗の花弁を擦った。
+ 「あっ…！！」
+ 鱗が腰を震わせた。
+ 「へへ…なんだ、そのいやらしー声はよぉ？ 　俺のこれで感じてるってのかい？」
+ 男は薄汚れた笑い声を小さくたてると、 さっきと同じように、鱗の花弁を固くなった 粘膜で愛撫する。
+ 「あっ……ふあっ…！」
+ 「へへ……どしたい？ 　あんた、強いんだろ？ 　だったら、俺の手ぐらい、ふりほどけるだろ？」
+ 男はそう言って、 さらに鱗の細い手首を握りしめた。
+ 「いっ…痛っ……」
+ 鱗はそれに抵抗する事なく、じっとしている。
+ 「どうしたよ？ 　なんで抵抗しないんだよ？」
+ 男は意地悪く言う。 ここにくるまでに鱗に躰を愛撫るだけ愛撫して、 立っているのがやっとな状態であると知っていて。
+ 「気のつえーあんたもそそられたけど、 　そーいう女がこんなにふにゃふにゃになってんのは 　また別の意味でたのしーんだな」
+ 「くっ……」
+ 「悔しいかい？ 　え？ 　悔しいかい？」
+ 男は強く自分の怒張したものを 鱗の花弁に素早く擦りつけた。
+ 「あっ、ああっ！　あっ！」
+ 鱗は腰を振り、顎を空に泳がせる。
+ 「は…はは、最高だよ！ 　あんたをこんな風に弄ぶ事が出来るなんてよ！」
+ 「あっ……ああっ……」
+ 鱗の躰がふるふると震えている。
+ 「え、どうしたい？ 　どうして欲しいか、言ってみなよ」
+ 「っ……」
+ 鱗はぬらりと濡れ光った目で、男の顔を見る。
+ 「そんな顔したって駄目だ。 　自分の口で、自分の声で、 　どうして欲しいか言ってみな！」
+ 「………く……だ……さい……」
+ 「何をだよ？」
+ 「それ……を……」
+ 「それって、なんだよ？ 　わかんねぇだろ？ 　自分だけわかってんじゃねぇよ」
+ 「……を……」
+ 「はぁ？」
+ 「その……熱く…たぎっているあなたの 　チ×チンを、あたしの…あたしの中に下さい…」
+ 「へー……これかい？」
+ 男はまた、鱗の花弁を愛撫する。
+ 「ああっ…！」
+ 鱗の花弁から漏れた雫が珠になり、 地面に落ちた。
+ 「これが欲しいのかい？」
+ 「はっ…はい……」
+ 「へへ……」
+ 「っ…………」
+ 期待に染まっている鱗の目を見つめ、 男はこの上ない支配感に包まれた。
+ しかし。
+ 「絶対、入れてやんねぇ」
+ 「えっ……」
+ 「お前はそこで、俺がイくのを見てな」
+ 「あ…そんな……」
+ 「そーら！」
+ 男は鱗の花弁だけを使って自分のものを擦り、 刺激し、達成に向かい始めた。
+ 「あ、あ、あ！」
+ 鱗は言葉を途切れ途切れにさせ、 自分の陰毛から時々頭を出すそれを見つめている。
+ 「いやっ…あっ…こんな…こんなっ……」
+ 「俺はサイッコーに気持ちいいぜ。 　そら、そらぁ！！」
+ 男はさら腰を振る。
+ 「あっ…ああ、あ、ああ！」
+ タマネギ達にそう躾られた為か、それとも 天性の感覚か。 鱗はそれに合わせ、腰を振る。
+ 「いやぁっ……あっ…このままっ… 　お願いっ…お願いっ……」
+ 鱗の哀願は、男の射精を速めるスパイスに しかならなかった。
+ 「くっ…んぉっぉ…！」
+ 男は鱗の声を聞きながら、 獣のような低い快楽の声をあげている。
+ 「いやっ…あっ…入れてっ…お願いっ……」
+ 「くっ…ははっ…はははっ…！！」
+ 男の腰の動きが、鱗の声に合わせ、早くなる。
+ 「くっ…！」
+ 男の腰の動きが不規則に、そして早くなった。
+ 「あっ…駄目っ…あっ…」
+ 「くっ…ぉぉっ…！！」"
+cg narrator,"「あっ……！！」
+鱗の見ている位置からは、それはまるで 自分が射精した白濁の体液のようだった。
+ 「あっ…いやぁっ……！」
+ 「くっ……はははっ…！！」
+男は排出の快楽に震え、 鱗の悲しそうな声を聞きながら、 大きな声で笑った。","「あっ……！！」
+ 鱗の見ている位置からは、それはまるで 自分が射精した白濁の体液のようだった。
+ 「あっ…いやぁっ……！」
+ 「くっ……はははっ…！！」
+ 男は排出の快楽に震え、 鱗の悲しそうな声を聞きながら、 大きな声で笑った。"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+narrator,悪司達は、その村の漁場である海にきていた。,Akuji arrived at the village`s fishing spot.
+Yamamoto Akuji (talking),ここの海も汚れてんなー。,"The sea`s polluted here, too."
+Takega Satsu (talking),オオサカから海続きだからな。 あそこがあれだけ汚れているのなら、 いたしかたあるまい。,"Not surprising, considering how dirty the Osaka sea is. It flows all the way here."
+Yamamoto Akuji (talking),で、この辺りで強いって 評判の女ってのは…,"So, there`s supposed ta be some famously strong woman here..."
+Takega Satsu (talking),ひょっとして、あれか？,Could that be her?
+Yamamoto Akuji (talking),ん？,Hm?
+narrator,殺の指さした方の海からくじらが跳ねた。,Satsu pointed at a whale jumping out of the sea.
+Yamamoto Akuji (talking),はぁ？？？？,HUH????
+narrator,"そのくじらの頭に、女の影がひとつ乗っている。
+女の手が動き、くじらの頭に銛（モリ）が深々と 突き刺さった。
+くじらは一度海に沈むとさらに身を翻し、 腹を見せたかと思うと動かなくなった。
+そのくじらめがけ、いくつかの船が動き出した。 船はくじらと女を連れ、岸に戻ってきた。","A woman was riding on the whale`s head.
+ Her hand moved, further digging a harpoon into the whale`s head.
+ The whale sunk into the sea and rolled over, exposing its belly before stopping.
+ Several ships headed for the whale, bringing both it and the woman to shore."
+Takega Satsu (talking),行ってみるか。,Let`s try asking her.
+Yamamoto Akuji (talking),そーだなー。,Yeah.
+narrator,悪司は今獲れた大物を囲む人々の中に 入って行った。,"Akuji went into the crowd surrounding their fresh, enormous catch."
+Yamamoto Akuji (talking),えー、ここに、相馬鱗って ねーちゃんはいるかい？,"Uuh, is there a lady by the name of Souma Rin here?"
+Souma Rin (talking),あたしに何か用？,What do you want with me?
+narrator,そう言って人垣の向こうから姿を現したのは、 くじらの頭の上にあった影本人だった。,The person who appeared out of the crowd was the woman who`d hunted the whale.
+Yamamoto Akuji (talking),あんたかい？ この辺りで強い強いっていう女は。,That you? The super strong woman who lives `round here.
+Souma Rin (talking),そう言われるけど、 どうかはわからないわ。,"So they say, but I don`t know if that`s true."
+Yamamoto Akuji (talking),"俺は山本悪司。 オオサカからきた。
+あんたに頼みがあってきた。","I`m Yamamoto Akuji. I came here from Osaka.
+ I`m here to ask you for a favor."
+Souma Rin (talking),………？,...?
+Yamamoto Akuji (talking),"俺は今、ある組とドンパチの最中でよ。 で、助っ人として、俺んとこにきて 欲しいんだ。
+もちろん、報酬ははずむ。 仕事具合によってだけどな。 どうだい？","I`m fighting a certain group right now, so I want you to come to my place to help me with that.
+ I`ll pay well, of course, though only if you put in the work How `bout it?"
+Souma Rin (talking),本当に報酬をはずんでくれるの？,Will you really pay me well?
+Yamamoto Akuji (talking),あんた次第だ。 噂通りだったら、金ははずむよ。,"Depends on you. If you`re as strong as they say, then yes."
+Souma Rin (talking),"……わかった。 行くわ。
+この汚れてしまった海を綺麗にする 資金繰りに村中で困っていたところ だったから。
+間がよい話なので、海の神様が向けて 下さった運かもしれない。","...Alright, I`ll go.
+ Our village is having trouble securing the finances to clean up our sea, after all.
+ Your timing`s so good that this might be a blessing from the Sea Gods."
+Yamamoto Akuji (talking),それじゃあ、今からでも…,Then let`s get going-
+Souma Rin (talking),すまないけど、こちらで片付けたい事が あるので、それを済ませてからで いいかしら？,"Sorry, but I have some things to take care of here. Mind if I go after I`m done with those?"
+Yamamoto Akuji (talking),わかった、待ってるよ。 住所はここだ。,"Alright, I`ll wait. Here`s the address."
+narrator,悪司は奉仕青年団の住所の書かれたメモを、 鱗に渡した。,Akuji gave Rin a note with the YCSG`s address on it.
+Souma Rin (talking),わかったわ。,Got it.
+Yamamoto Akuji (talking),じゃあな、待ってるぜ。,"I`ll be waiting, then."
+Seinendan Jyoshi (talking),悪司さーん。,Akuji-saaan.
+Yamamoto Akuji (talking),うーい。,Yeah?
+Seinendan Jyoshi (talking),お客様です、女の人です。 ミエの方からおいでだそーです。 悪司さん、マメですね。,"You have a guest. It`s a woman, says she`s here from Mie. You sure work hard, Akuji-san."
+Yamamoto Akuji (talking),何が？,What do you mean?
+Seinendan Jyoshi (talking),そんなとこの女の人まで ナンパしているだなんて…,So you even hit on women from such places...
+Yamamoto Akuji (talking),ちげーよ、ばーか。 通してやってくんな。,"Wrong, dumbass. Anyway, let her in."
+Seinendan Jyoshi (talking),はーい。,Okaaaay.
+Souma Rin (talking),こんにちは。,Hello.
+Yamamoto Akuji (talking),おう、きてくれたか。 用事は片付いたか？,"Yo, there you are. Everything settled back home?"
+Souma Rin (talking),ええ。 なんとか。,"Yes, I managed."
+Yamamoto Akuji (talking),例のアレかい？ 海の汚染がどーのこーの。,Was it about that? The whole dirty sea thing.
+Souma Rin (talking),それもあるけど、仕事の事と、 きょうだいを宥めていたの。 しばらく離れてしまうから。,"Yes, but I also had to take care of work and soothe my brothers, since I`ll be away for a while."
+Yamamoto Akuji (talking),そんなに仲がいいのか。,So you had a family?
+Souma Rin (talking),それもあるけど……ああそうか。 こっちは都会だから、うちにある風習は ないのかしら。,"Yes. However... right, since this is a city, I wonder if one of our customs exists here."
+Yamamoto Akuji (talking),ん？,Huh?
+Souma Rin (talking),夜這い。,Night visits.
+Yamamoto Akuji (talking),よ……ばい？？,Night... visits???
+Souma Rin (talking),ええ、そう。 夜這いの風習があるから、父だけ同じ、 母だけ同じという子供が多いのよ。,"Indeed. Thanks to that custom, we have many kids who have only the same father, or the same mother."
+Yamamoto Akuji (talking),あんたも、じゃあ……,So you also...
+Souma Rin (talking),"そうね。 きょうだいの他に、離れたくないって ぐずる男がいたから…
+何発か殴ったら、おとなしくなったから よかったけど。","Yes. Besides my brothers, there was also a man complaining that he didn`t want us to separate.
+ Fortunately, he calmed down after I hit him some."
+Yamamoto Akuji (thinking),"なるほどねー…夜這いか… そんな風習の中で育ったってんだったら、 そっちの方の経験も豊富だろう。
+ ……だとしたら、躰は快楽に対して 出来あがってるって事だから……
+どんなに給料を高く設定されても、 こましてしまったら、その金額を 支払わなくてもいいって事になるな…","Night visits, huh... With a custom like that, she must also be pretty experienced.
+ ...Which means, her body is already familiar to pleasure.
+ Even if she asks for a king`s ransom, I can just fuck her and not have to pay..."
+Souma Rin (talking),で、あたしはどうしたらいいの？,"So, what should I do?"
+Yamamoto Akuji (talking),"ああ、こっちから指示を出すまで 自由にしててくれ。
+おう、これから仲間になる この鱗ねーちゃん、 部屋に案内したってくれや。","You`re free to do whatever until I give you orders.
+ Hey, Rin-san here`s joining us, so show her the room she`ll be using."
+Souma Rin (talking),あの、すみません、ハイネさん。 これ……,"Um, excuse me, Haine-san. Here..."
+Hasekura Haine (talking),どうしました？,What is the matter?
+Souma Rin (talking),田舎に送金したいんだけど、 どうすればいいか、わかんなくって。,"I want to send money to the countryside, but I don`t know how."
+Hasekura Haine (talking),これで全額ですか？,Is this everything you have?
+Souma Rin (talking),うん。 これ全部送りたいんだ。,Yeah. I want to send all of it.
+Hasekura Haine (talking),"わかりました。
+あなた用の口座を郵便局で作成しまして、 そこに振り込み、向こうで引き落とし が出来るようにしましょう。","Very well.
+ We shall set up an account for you at the post office so you can deposit and send money from there."
+Souma Rin (talking),な、なんだい？ それ…,Wh-What is an account...?
+Hasekura Haine (talking),そうしておくと、その日のうちに 向こうで、あなたの送ったお金を 使用出来るというシステムです。,It`s a system that allows the people to whom you send money to use it on the same day.
+Souma Rin (talking),へー……,Wow...
+Hasekura Haine (talking),向こうで使用する人がわからない場合に 備え、こちらの部下を向こうにやります。,"Should they not know how to use it, I`ll send a subordinate over to help."
+Souma Rin (talking),ありがと、ハイネさん。,"Thanks, Haine-san."
+Hasekura Haine (talking),いえ。,This much is nothing.
+Hasekura Haine (thinking),"この娘、こちらから支給したすべての金を 田舎に送金するのか…
+若い娘が都会にきたのならば、 誘惑が色々とあるのだろうに…
+それ程、故郷の海が大事――か。","This girl is sending all of the money we`re paying her?
+ The city should have many temptations for a country girl, and yet...
+ That sea must mean a lot to her."
+narrator,鱗は故郷からの便りに目を通していた。,Rin was reading a letter from her village.
+Souma Rin (thinking),"あたしの送ったお金で、ミエ市議会が 動いてくれるんだ…よかった…
+そーいや、リンダさん、圧力が どーのこーのって言ってたけど… それも関係あるのかな…
+ま、どっちでもいいや。 海が綺麗になるんだったら。
+ ……待ってなよ、きょうだい達。 ねーちゃん、頑張って戦って、 お金一杯稼ぐからね…","The money I sent got Mie`s CC to work on the sea... I`m so glad.
+ Speaking of, Linda-san did say she put pressure on them... I wonder if that also helped.
+ Well, either way`s fine, as long as the sea gets cleaned.
+ ...Wait for me, my brothers. Your big sis is fighting hard to earn a lot of money..."
+Momoyama Linda (talking),失望したでちゅわ。,So you`ve failed.
+Souma Rin (talking),………そうだね。,...Yeah.
+Momoyama Linda (talking),解雇ちまちゅ。 帰って下ちゃい。,You`re fired. Please leave.
+Souma Rin (talking),"……それじゃあ……海……
+ ……………
+ ……そう…だね… 働かざる者、食うべからず… だよね。","But then... the sea...
+ ...
+ ...Right... Those who don`t work, don`t eat... It`s like that."
+Momoyama Linda (talking),でちゅわ。,Yep.
+Souma Rin (talking),今までありがとう。 じゃあ。,Thanks for everything. See you.
+narrator,鱗はぺこりと頭を下げると、 ＰＭから立ち去った。,"With a bow of her head, Rin left the PM."
+Momoyama Linda (talking),さーてと…やらせて貰うよ。,Now then... time to fight.
+narrator,鱗は、子供達と一緒に海を見つめていた。 水平線の向こうに、小さく舟影が見える。,Rin was watching the sea with the children. A small ship was visible on the horizon.
+shounen (talking),ねーちゃん、あれがウィミィからの船？,"Nee-chan, is that shipe from Wime?"
+Souma Rin (talking),ああ、そうだよ。 あれに、海を綺麗にする装置と、 それを動かす学者さんが乗ってんだ。,It is. There are equipment and scientsist on it that`ll clean up the sea.
+shounen (talking),ねーちゃんが稼いだお金で 雇ったんだよね？,Did you hire them with the money you got?
+Souma Rin (talking),そーだよ。,That`s right.
+shoujo (talking),ねえねえ、海、すぐに綺麗になるの？,"Hey, will the sea get clean soon?"
+Souma Rin (talking),"わかんないんだって。 だけどね、お前達がおっきくなる頃には、 綺麗になる確率は高いって。
+だからさ…綺麗になった海を また汚すような大人になんないで おくれよ。","I told you, I don`t know. I`d say it`ll likely be clean by the time you`re adults, though.
+ So please... grow up to become fine adults, ones that won`t get the sea polluted again."
+shoujo (talking),うん！,Okay!
+Souma Rin (talking),いい子だ。,Good kid.
+Souma Rin (thinking),"悪司さん、ありがとね…
+大阪からこっち帰る時に、いくらか お金上乗せしてくれたから、なんとか なったよ…
+綺麗になったら連絡するから、 遊びにきとくれよ…","Thanks, Akuji-san...
+ We managed to get by thanks to the extra money you gave me when I left Osaka...
+ I`ll contact you when the sea gets cleaned up, so come on over to play."

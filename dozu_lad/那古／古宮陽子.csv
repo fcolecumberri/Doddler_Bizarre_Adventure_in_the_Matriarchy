@@ -1,0 +1,1765 @@
+character,Jap,Eng
+__system__??,{(☆陽子捕虜 > 5) * (☆陽子捕虜 < 10):,{(☆陽子捕虜 > 5) * (☆陽子捕虜 < 10):
+__system__??,},}
+__system__??,{(☆陽子捕虜 > 10) * (☆陽子捕虜 < 15):,{(☆陽子捕虜 > 10) * (☆陽子捕虜 < 15):
+__system__??,},}
+__system__??,{☆陽子捕虜 > 15:,{☆陽子捕虜 > 15:
+__system__??,},}
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆由女／イハビーラ = 1:,{☆由女／イハビーラ = 1:
+__system__??,},}
+__system__??,{☆古宮 = 0:,{☆古宮 = 0:
+__system__??,},}
+__system__??,{☆古宮 = 3:,{☆古宮 = 3:
+__system__??,},}
+__system__??,{☆古宮 > 1:,{☆古宮 > 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 2:,{麦 = 2:
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 4:,{麦 = 4:
+__system__??,},}
+__system__??,{麦 = 5:,{麦 = 5:
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,{☆由女／死亡 = 1:,{☆由女／死亡 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 12:,{麦 = 12:
+__system__??,{H愛欲 = 1:,{H愛欲 = 1:
+__system__??,},}
+__system__??,{(H物欲 \ 0) * (H愛欲 \ 0) * (RND \ 0):,{(H物欲 \ 0) * (H愛欲 \ 0) * (RND \ 0):
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,{H物欲 = 1:,{H物欲 = 1:
+__system__??,},}
+__system__??,{(H物欲 \ 0) * (H愛欲 \ 0) * (RND \ 0):,{(H物欲 \ 0) * (H愛欲 \ 0) * (RND \ 0):
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+__system__??,{麦 = 17:,{麦 = 17:
+__system__??,{H拷問抵抗 < H拷問:,{H拷問抵抗 < H拷問:
+__system__??,{☆那古Ａ = 3:,{☆那古Ａ = 3:
+__system__??,},}
+__system__??,},}
+__system__??,{H拷問 = 1:,{H拷問 = 1:
+__system__??,{☆那古Ａ \ 3:,{☆那古Ａ \ 3:
+__system__??,},}
+__system__??,{☆那古Ａ = 3:,{☆那古Ａ = 3:
+__system__??,},}
+__system__??,},}
+__system__??,{☆那古Ａ \ 3:,{☆那古Ａ \ 3:
+__system__??,},}
+__system__??,{☆那古Ａ = 3:,{☆那古Ａ = 3:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 18:,{麦 = 18:
+__system__??,},}
+__system__??,{麦 = 19:,{麦 = 19:
+__system__??,},}
+__system__??,{☆由女／イハビーラ = 1:,{☆由女／イハビーラ = 1:
+?? (thinking),"んー…… ＧＡＬバーガーに送り込みたい とこなんだが……
+由女が見つかるまでは、 客商売に不可欠な作り笑いとか できそうにねーよな、こいつ……
+今だって、なあ。 背中に背負ったオーラが 暗いったらねえし……
+ ……やめとくか。 今のまま働かせとく方が多分トクだな。","Hmm... I wanna send her to GAL Burger, but...
+ I doubt she`ll be any good at customer service until we find Yume.
+ Hell, look at her now. She`s giving off a real gloomy aura.
+ Yeah, let`s not. Probably better to have her work as she is now."
+__system__??,},}
+Komiya Youko (talking),私を呼んでいると訊いたけど……,I heard you called for me.
+Yamamoto Akuji (talking),おう、実はな…………,"Yeah, you see..."
+Komiya Youko (talking),………………,...
+Yamamoto Akuji (talking),……やっぱ元気ねえな。,"...Still feeling down, huh?"
+Komiya Youko (talking),"………っ………
+ごめんなさい、顔に出ないよう 気を付けてはいるんだけど……","...!
+ Sorry, I try to not look like I am, but..."
+Yamamoto Akuji (talking),"まあ、ムリすんな。
+ヒマな奴にちょいと頼んで 由女を時々捜させてっからよ。 いずれ手がかりも見つかるさ。","Don`t force yourself.
+ I ask anyone who`s free to look for Yume sometimes. We`ll find a lead eventually."
+Komiya Youko (talking),……本当にありがとう、恩に着るわ。,I`m truly grateful. I owe you one.
+Yamamoto Akuji (talking),礼はいらねえよ。 部下を一人引き留めるための 小さな手間に過ぎねーからな。,No need for that. It`s a small price to pay to keep one of my subordinates.
+Yamamoto Akuji (talking),"さ~て……たしか今、 あいつは事務所に来てたはずだが……
+ ……こっちか？ おお、居た居た………………","Now then... I think she should be in the office right about now.
+ ...Over here? Ah, there she is."
+narrator,"──陽子は、事務所の隅に居た。
+毛糸と編み棒を持って、慣れた手つきで マフラーらしきものを編み上げている──","Youko was in a corner of the office.
+ Yarn and needle in hand, she was skillfully knitting what seemed to be a muffler."
+Yamamoto Akuji (talking),…………珍しいもん見たな。,Now that`s a rare sight.
+Komiya Youko (talking),……？ 私に何か用でも？,...? You need something from me?
+Yamamoto Akuji (talking),"……ああ、用があるんだけどよ……
+ …………何やってんだ、おめー。","Yeah, I do, but...
+ ...What are you doing?"
+Komiya Youko (talking),何って……見れば解ると思うけど。,You should be able to tell.
+Yamamoto Akuji (talking),"いや、そりゃ解るけどよ。
+ ……古宮ってよ、 そんな真似、できたんだな。","Well yeah, I get that.
+ I didn`t know you did stuff like this, Komiya."
+Komiya Youko (talking),"これでも女ですからね、 その位の趣味は持ってるわ。
+……と言っても、編み方の手順もコツも ほとんど忘れていたんだけど。
+那古教が発足してから 仕事に忙殺されていたから、 編み棒なんて一度も持たなかったし…
+でも、今は結構時間に余裕があるから、 何となく始めてみたのよ。","I`m still a woman, so I do have some womanly hobbies and tastes.
+ ...Or so I say, but I`ve mostly forgotten how to sew.
+ I was always swamped with work after we founded the Cult, so I didn`t have a chance to practice.
+ But now I have a lot of free time, so I started doing it again."
+Yamamoto Akuji (talking),………………,...
+Komiya Youko (talking),……ねえ、意外なのは解ったから、 そろそろその顔、やめてくれない？,"...Hey, I know it`s unexpected, but could you stop making that face?"
+Yamamoto Akuji (talking),……ん、顔？ なんか変な顔してたか？,...Huh? Was I making a weird face?
+Komiya Youko (talking),ええ、物珍しそうな顔をね。,"Yeah, a real curious one."
+Yamamoto Akuji (talking),"……あ、いや、わりィ。 もし顔に出てたんなら、 これは編み物の件とは別だ。
+おめーの女らしい言葉遣い、 初めて聞いたような気がしてな。","...Oh, sorry. But that`s not related to the whole knittign thing.
+ Feels like it`s the first time I`ve heard you talk like a girl."
+Komiya Youko (talking),………………,...
+Yamamoto Akuji (talking),前から思ってたんだが…… おめー、キリッとしたのと今みたいのと どっちが地なんだ？,"I`ve always had this on my mind. Between your old, tense self and your current one, which is the real you?"
+Komiya Youko (talking),"……訊かれても困る。 これまで気にしたこともないしな。
+第一、どっちが地だろうと 貴様には関係ないだろう。","...That`s a difficult question. I`ve never paid attention to it.
+ In the first place, it has nothing to do with you."
+Yamamoto Akuji (talking),ま、そうなんだけどよ。,"Well, I guess that`s true."
+Yamamoto Akuji (talking),"さて、そろそろ 古宮のねーちゃんが来る筈だが。
+ ……お、来た来た。","That Komiya chick should be here soon.
+ ...Ah, there she is."
+__system__??,{RND = 1:,{RND = 1:
+Komiya Youko (talking),呼ばれた通りに来たが、 何か用なのか？,I came like you asked. What do you need?
+Yamamoto Akuji (talking),……今日はツンツンだな。,"You`re prickly today, huh."
+Komiya Youko (talking),何のことだ？,What do you mean?
+Yamamoto Akuji (talking),いや、なんでもねぇ。,"Nah, nothin`."
+__system__??,},}
+__system__??,{RND = 2:,{RND = 2:
+Komiya Youko (talking),"それは来るわよ、 雇い主に呼ばれたらね。
+ ……で、何か用なの？","Of course I`d come when my employer calls me.
+ So, what do you need?"
+Yamamoto Akuji (talking),……今日は丸いな。 何かいいことでもあったか？,...You`re soft today. Did something good happen?
+Komiya Youko (talking),丸い……って何のこと？,Soft? What do you mean?
+Yamamoto Akuji (talking),あ、いや、別にいいんだが。,"Nah, nothin`."
+__system__??,},}
+Yamamoto Akuji (talking),えーとっと、 たしか古宮のねーちゃんは、ここに……,"Lesse, I think that Komiya chick was here..."
+Komiya Youko (talking),……居るわよ。何か用？,...I am. What do you need?
+Yamamoto Akuji (talking),おお、そんなトコにいたのか。 実はな…………,"Oh, so there you are. Ya see-"
+narrator,悪司は、ソファに座った古宮陽子の側に 歩み寄ろうとしたが──,"Akuji approached Youko, who was sitting on the sofa--"
+Yamamoto Akuji (talking),……………………なあ、古宮。 なんで由女がお前の膝枕で寝てんだ？,"...Hey Komiya, why is Yume sleeping on your lap?"
+Komiya Youko (talking),"ああ、気分が悪いと言うから、 楽になるまでな。
+ ……このままでは話し辛いか？","She`s not feeling well, so I`m letting her sleep until she`s better.
+ Is it hard to talk like this?"
+Yamamoto Akuji (talking),さすがに、ちょっとな。,"A bit, yeah."
+Komiya Youko (talking),"…………そうか。
+ごめん、由女。ちょっと……","...I see.
+ Sorry, Yume."
+Yume (talking),"……ん、むにゃ……
+あれ……悪司さ……ん……？","...Mmmn, yawn...
+ Oh... Akuji-san...?"
+Yamamoto Akuji (talking),おう、おはようさん。,Good day.
+Komiya Youko (talking),ごめん由女、ちょっと用があって…… 向こうの部屋で寝ていてくれる？,"Sorry Yume, I have business with him. Could you sleep in your room?"
+Yume (talking),…………あー…… うん、解った………………,Oh... Okay...
+Yamamoto Akuji (talking),"………………
+悪かったな、仲の良さそうなとこを 邪魔しちまってよ。","...
+ Sorry I interrupted your good time."
+Komiya Youko (talking),……ああ、確かにな。,"Yeah, you sure did."
+Yamamoto Akuji (talking),そんな怒る事かよ、古宮… 目つき怖ぇぞ。,"Is that something to get angry about, Komiya? That`s a scary look."
+Komiya Youko (talking),解っている、仕事だからな。 半分は冗談だ。,"I know, it`s part of the job. I was half kidding."
+Yamamoto Akuji (talking),…………んじゃ残り半分は何だよ。,...Then what about the other half?
+Yamamoto Akuji (talking),"さーて、そろそろ 古宮のねーちゃんが来る筈だが。
+ ……お、来たな。","That Komiya chick should be here soon.
+ ...Ah, there she is."
+Komiya Youko (talking),………山本、悪司っ………,...Yamamoto Akuji...!
+Yamamoto Akuji (talking),何だよ、怖ぇ顔して。 なんかあったのか？,You look scary as fuck. Did something happen?
+Komiya Youko (talking),貴様、由女に……何をした。 答えろっ……,You... what did you do to Yume?! Answer me!
+Yamamoto Akuji (talking),別に何にもしてねぇぞ？,I didn`t do anything.
+Komiya Youko (talking),"とぼけるな……！
+私が貴様の部下になったのも、 由女の無事を保証すると言ったからだ！ なのに……なのにっ！","Don`t play dumb!
+ I became your subordinate because you said you`d guarantee her safety! And yet...!"
+Yamamoto Akuji (talking),だーかーらーよー。 何を怒ってんのか知らねぇが、 マジで俺は何もしてないってばさ。,"Look here, I dunno what you`re mad about, but I really didn`t do anything."
+Komiya Youko (talking),由女を慰み者にした件まで 知らんと言うのか、貴様っ……！,So you claim to not know anything about Yume having become a plaything?!
+Yamamoto Akuji (talking),"慰み者ってよ、 要するにセックスか？
+なら、した。当然。","Plaything? You mean having had sex?
+ Then yeah, I did her. No shit."
+Komiya Youko (talking),………………っ！,...!
+Yamamoto Akuji (talking),殺気立つなよ、古宮。 あれは必要だからしてる事で、 俺に悪意はこれっぽっちもねぇぞ。,"Enough with the bloodlust, Komiya. I do that out of necessity, and without any ill will."
+Komiya Youko (talking),貴様という男は……！,Men like you are...!
+narrator,激昂した陽子は、悪司の胸ぐらに掴みかかった。,The furious Youko grabbed Akuji by the collar.
+Yamamoto Akuji (talking),……おい、こりゃ何の真似だよ、古宮。,"The fuck are you doing, Komiya?"
+Komiya Youko (talking),黙れ！　それだけのことをしてのけて、 よくもいけしゃあしゃあとっ！！,Shut up! How dare you be so brazen about what you`ve done?!
+Yamamoto Akuji (talking),"あんなぁ、はっきり言っとくが、 俺が抱いてんのは由女だけじゃねぇぞ？
+ここに出入りしてる女のうち、 俺との関係を報酬として望んでるヤツは みんなヤってらー。","Let me be clear, Yume`s not the only one I fuck, okay?
+ I fuck every woman who comes here and that wants a relationship with me as their payment."
+Komiya Youko (talking),由女が貴様との関係を 望んでいるものかっ！,As if Yume`d ever want a relationship with you!
+Yamamoto Akuji (talking),望んでっから、 俺みたいなヤツの言うことを ハイハイって聞いてんだろ？,"She does, which is why she obeys a guy like me."
+Komiya Youko (talking),…………っ、く……！,Kh...!
+Yamamoto Akuji (talking),"……おっと、愛や恋と セックスを一緒にすんなよ？
+堅っ苦しく考えんなよ、古宮。 人間、欲を満足させてくれるヤツには 従うもんだろ。
+同じ女の知り合いがよ、 どの男とセックスしてようが自由だろ。 おめーが気にする筋合いか？
+ ……ま、由女はちと普通と違うけどな。","...Hey, don`t lump sex together with love and stuff.
+ Don`t be so narrow-minded, Komiya. People tend to follow anyone who can satisfy their desires.
+ Your lady friend is free to have sex with whatever man she wants. Do ya even have the right to be mad?
+ ...Well, Yume`s a tad different."
+Komiya Youko (talking),由女は特別なんだっ！ 貴様の基準で簡単に片付けるな！,Yume is special! Don`t measure her by your standards!
+Yamamoto Akuji (talking),"なんだそりゃ。 てめーの信じる教祖様だからか？
+ははん、それとも レズの相手でらぶらぶな恋人だとか──","Why? Because she`s the guru you believe in?
+ Ohoh, or maybe you`re a dyke who`s all over her-"
+narrator,　　［──ぱあんっ！］,　　*SLAP!*
+Komiya Youko (talking),……黙れ、貴様っ……,Shut the fuck up!
+Yamamoto Akuji (talking),"ほー……いきなり人の頬叩くかよ。
+なるほどね、そういう訳か。 こっちは冗談のつもりだったんだがな。","Slapped my face, eh?
+ I see, so that`s how it is. And I was only joking, too."
+narrator,"──そう言い終わらぬ内に、 悪司の目つきががらりと変わる。
+手加減など一切なく、陽子の腕を掴んで捻り上げ、 躰の自由を完全に封じ込めた。","The look in Akuji`s eyes changed before he`d finished speaking.
+ Without holding anything back, he grabbed Youko`s arm and twisted it, immobilizing her."
+Komiya Youko (talking),……ぐ……う、うああっ……！,Khh...! Aaaahhh!
+Yamamoto Akuji (talking),"だいたいなぁ、 由女の気持ちがわかんねぇから こんな真似するんだよ、おめーは。
+ ……一回、徹底的にイッてみろ。 手加減無し、小細工無しで 俺の本気をくれてやる。
+そーすりゃ、俺の言うことが解らあ。","To begin with, you do this shit because you don`t understand Yume`s feelings.
+ ...I`ll fuck you thoroughly once. I`ll show you what I`m made of, without tricks or any other bullshit.
+ Then you`ll understand."
+narrator,そして悪司は、抵抗し続ける陽子を 力尽くで抑え込み、自室へと連れ込んだ──,Akuji then pinned down the struggling Youko and forcefully brought her to his room.
+narrator,陽子の躰は、悪司に逆らえなかった。,Youko`s body couldn`t defy Akuji.
+narrator,"そして──数時間後。
+茫然自失の陽子は、悪司の放った精と 自らの淫水でぐずぐずになった秘裂もそのままに、 ベッドの上で荒い息を繰り返していた。
+そこに、既に着替えを済ませた悪司が 陽子の着物とタオルを掴んで放り投げる。","Then, a few hours later--
+ Youko laid on top of the bed, in a stupor and with her breath ragged. Her pussy was soaked with her love juices and Akuji`s semen.
+ Having already dressed himself, Akuji tossed a towel and a kimono on top of Youko."
+Yamamoto Akuji (talking),いつまでもヘバってないで、 ぼちぼち着替えたらどーだ。,"Don`t just lay there, go on and get changed."
+Komiya Youko (talking),………ぅ、ぁ………,...uuu... ah...
+Yamamoto Akuji (talking),"…………声も出ねーか。
+だがまあ、これで解ったろ。 最後はてめーだって、 俺に脚絡ませてきただろ？
+ただ、由女はちいっとだけ おめーより意志が弱いかもしれん。 だから拒めないのかもな。
+ ……おっと、 だからって、由女を責めんなよ。
+何度も言うが、こいつは仕事だ。 働いた部下に給料やるのと同じだ。 それ以上でもそれ以下でもねぇ。
+惚れた腫れたなんざ俺は要らん。 由女と好き合ってんなら勝手にしろ。
+俺の下できっちり働いてる限りは、 生活はきっちり保証してやる。
+ ……で、俺の下に居る以上は 俺のやり方に口出すんじゃねぇ。
+解ったな。","...Can`t speak, huh?
+ But now you get it. You wrapped your legs around me at the end, you know?
+ But Yume might be a little more weak-willed than you, which I guess is why she never refuses.
+ ...Oh, and don`t blame Yume.
+ I`ll say again, this is my job. I`m just paying my subordinates, nothing more, nothing less.
+ I don`t want anyone in love with me, so go date Yume if ya want.
+ As long as you do your job, I`ll make sure you live well.
+ ...And as long as you work for me, you don`t get to complain about
+ my methods. Ya got that?"
+narrator,"──そして、悪司は部屋を出た。
+一人きりになった部屋の中、陽子はのろのろと 躰を動かし、少しずつ着物をまとっていく。","Then, Akuji left the room.
+ Now alone in the room, Youko sluggishly put her kimono back on."
+Komiya Youko (talking),"………………
+ ……う、っ…… うう…………
+ …………ううっ…………","...
+ ...Uuu... Wah...
+ Waaaah...!"
+narrator,惨めで無力な自分に、陽子は涙する。 ──血の滲むほど、唇を噛み締めて。,"Youko cried at her helplessness, and bit her lips hard enough for them to bleed--"
+ (talking),俺の部屋に行くぞ。,We`re going to my room.
+ (talking),……何をする気だ。,...What are you planning?
+ (talking),働きに対する報酬をくれてやろう。,I`ll reward you for your work.
+ (talking),報酬ならここで渡してくれ。 わざわざ貴様の部屋へ行く必要が どこにある。,"Pay me here, then. What need is there to take me all the way to your room?"
+ (talking),気持ちいい思いをしたくないのか？,Don`t ya wanna feel good?
+ (talking),…………貴様、 言っていて恥ずかしくないのか？,...Aren`t you embarrassed to say this crap?
+ (talking),………………,...
+ (talking),まさかとは思うが、貴様、 捕虜だけでは飽きたらずに 団員の女たちにまで……,"Don`t tell me that you put your hands on your group`s women too, not just the prisoners..."
+ (talking),…………んなわきゃねぇだろ。 冗談だ、冗談。,...`Course not. I was kidding.
+ (talking),……全く、下品な冗談だ。,What a tasteless joke.
+__system__??,{☆由女／イハビーラ = 0:,{☆由女／イハビーラ = 0:
+ (thinking),"…………ま、そっか。 こいつは別に抱く必要ねぇもんな。
+由女が奉仕青年団に居る限り、 裏切るってこともないだろうし…
+ま、その代わり由女とはヤりまくって しっかり繋ぎ止めておかなきゃ なんないけどな。","...Well, there`s no real need to fuck this woman.
+ As long as Yume`s here, she won`t betray us.
+ Though I gotta fuck Yume a lot to secure her loyalty instead."
+__system__??,},}
+ (talking),ほれ、特別ボーナス。,"Here, have a bonus."
+narrator,言って、悪司は札束の入った封筒を 陽子の前に置いた。,Akuji placed an envelope full of money in front of Youko.
+ (talking),……これほどの金額を貰うような仕事、 私はした憶えはないが？,I don`t remember having done any work that merits this much.
+ (talking),まあ、ボーナスだと思え。 今後もバリバリ働いてくれや。,Think of it as a freebie. Keep working hard.
+ (talking),……そうか、なら頂いておく。,"I see, then I`ll take it."
+ (talking),……………… そんだけか？,... That`s it?
+ (talking),私に何を期待してるんだ？,What do you want from me?
+ (talking),いや、素っ気ないなーと思ってよ。,Just thought that was rather curt.
+ (talking),貴様に媚びなど売るつもりはない。,I`ve no intention of flattering you.
+ (talking),あっそ。,`Kay.
+__system__??,{☆由女／イハビーラ = 1:,{☆由女／イハビーラ = 1:
+ (thinking),"んー…… 調教の館に送り込みたい とこなんだが……
+ストレートに行けっつっても、 こいつの性格だと多分暴れるよなー……
+由女さえ居ればなー、 うまく利用して丸め込む手が いくつか思いつくんだが……
+ …………やめとくか。 何かと鬱陶しいし、 このまんま働かせとこう。","Hm... I wanna send her to Tamanegi, but...
+ Even if I tell her to, knowing her, she`ll put up a fight.
+ As long as Yume`s around, I can think of many ways to put her to good use.
+ ...Guess I won`t. It`ll be annoying if I did, so I`ll have her keep working."
+__system__??,},}
+ (talking),ちーとついてきてくれや。,Come with me for a bit.
+ (talking),……どこへ行く気だ？,Where are we going?
+ (talking),着いてから説明する。,I`ll explain once we`re there.
+ (talking),………………,...
+Yamamoto Akuji (talking),さ、ここだ。入ってこい。,さ、ここだ。入ってこい。
+Komiya Youko (talking),"…………何の施設だ、ここは……
+私に……何をさせるつもりだ？","...What is this place?
+ What are you gonna do to me?"
+Yamamoto Akuji (talking),大したことじゃねぇさ。 ……おーい、タマネギ。,"Nothing special. ...Hey, Tamanegi!"
+Tamanegi (talking),おや、これは若。,"My, hello, Young Master."
+Komiya Youko (talking),……何だ、この男……,Who is he?
+Yamamoto Akuji (talking),実はな…… ……ひそひそぼそぼそ…… という女なんだが、頼めるか？,You see... ...whisper whisper... ...can I leave her to you?
+Tamanegi (talking),"それはいい……
+たとえ聖女と呼ばれようと、 これだけ美しい女性なら 下々の憧れは強かったことでしょう。
+そういう人々には、 例えよく似ている別人だと言っても 高く売れる筈です。","That`s good...
+ Saint or not, a woman this beautiful must have captivated many common men.
+ Such men will pay anything to have her, even if we claim she`s a mere lookalike."
+Komiya Youko (talking),"………………
+まさか、娼館なのか？　ここは……","...
+ No way, is this a brothel?"
+Yamamoto Akuji (talking),"おー、よく解ったな。ご名答だ。
+今日から奉仕青年団の構成員じゃなく、 娼婦になって躰で稼いでくれ。 よろしくな。","Good job, you got it.
+ I want you to work as a prostitute from now on. I`ll be expecting a lot."
+Komiya Youko (talking),ばっ……馬鹿な！ 正気なのか山本悪司！,"Q-Quit messing around! Have you gone mad, Yamamoto Akuji?!"
+Yamamoto Akuji (talking),正気だぜ、当然。 由女の身が惜しけりゃ頑張って働け。,Of course I`m not mad. And you`ll do it if ya value Yume.
+Komiya Youko (talking),由女を盾に脅す気か、貴様っ……,You`re threatening me with Yume?!
+Yamamoto Akuji (talking),"あー、そりゃ違うぜ。 そういう意味で言ったんじゃねぇ。
+組織の中で、由女一人を特別扱いして 無事を保証すんのは難しいんだよ。 手間もそうだが金がかかる。
+特に、護衛や警備につけてる連中の 人件費がかさむ訳だ。","Nah, you got it wrong. I didn`t mean it like that.
+ It`s hard to give Yume alone all that special treatment to keep her safe. Takes time and money.
+ In particular, the labor costs for her guards piles up fast."
+Komiya Youko (talking),……言うことは、解るが……,"I get what you mean, but..."
+Yamamoto Akuji (talking),お、解ってくれるか。,"Oh, you do?"
+Yamamoto Akuji (thinking),……半分以上は適当な嘘だけどな。,"...I`m mostly lying, though."
+Yamamoto Akuji (talking),つーわけで、苦渋の末の判断なんだよ。 なんとか自力で稼いでくれ。,"Anyway, this was a difficult decision. Go earn me some money yourself."
+Komiya Youko (talking),………………,...
+Yamamoto Akuji (talking),"心配すんな、 由女とはプライベートで会えや。
+この娼館は、タマネギの指示で 娼婦のプライバシーはバッチリ守ってる。
+つまり、だ。 お前が黙ってりゃ済むことだ。","Don`t worry, we`ll let ya meet Yume in private.
+ Tamanegi keeps the prostitutes` privacy safe in this brothel.
+ In other words, as long as you keep quiet, everything`ll be fine."
+Komiya Youko (talking),"確かに私は、 由女の無事を保証するなら 何でもするとは言ったが……
+ ………………
+貴様の言葉、偽りではないな？","I did say I`d do anything to keep Yume safe, but...
+ ...
+ You`re not lying, are you?"
+Yamamoto Akuji (talking),プライバシーか？,About your privacy?
+Komiya Youko (talking),違う、由女に関する保証だ。,"No, about keeping Yume safe."
+Yamamoto Akuji (talking),おう、当然。,Of course not.
+Komiya Youko (talking),…………解った、 貴様の言う通りにしよう……,"...Alright, I`ll do as you say."
+narrator,──こうして、古宮陽子は娼婦になった。,"Thus, Youko became a prostitute."
+Yamamoto Akuji (talking),……いよお、 大人しくしてっか？　聖女様。,"...Hey there. You calm down yet, Saint?"
+Komiya Youko (talking),……！　貴様っ……,...! You bastard-!
+Yamamoto Akuji (talking),おっと、暴れるだけ無駄だぞ。 おめーが痛い目見るだけだ、やめとけ。,"Whoa there, let`s stay calm. You`ll just end up hurt."
+Komiya Youko (talking),くっ……,Damn...!
+Yamamoto Akuji (talking),"ふーん、なるほどな。 おめーがあの宗教の聖女様なんだな。
+何かこう、聖女ってよりは 女武道とか言う方がしっくりくんなあ。","Hmm, I see. So you`re one of that Cult`s Saints.
+ You look more like a warrior than a saint to me."
+Komiya Youko (talking),"……貴様こそ、 奉仕青年団の頭目ではないのか？
+まさに典型的な悪人面だな。 見ていて吐き気がする……！","...And you, aren`t you the YCSG`s leader?
+ You look like a thug. Looking at you makes me sick!"
+Yamamoto Akuji (talking),だろーな、実は俺も毎朝、 顔洗う度にゲーゲー吐いてんだよ。,"Same here, I feel sick every morning when I wash my face."
+Komiya Youko (talking),………………,...
+Yamamoto Akuji (talking),しっかし、 割と整った綺麗な顔してるくせによ、 そーいう言葉遣い似合わねぇぞ。,"Still, that nasty language of yours really doesn`t match your pretty face."
+Komiya Youko (talking),貴様に選ぶ言葉などあるかっ ……クソ外道！,"I have no other words for you, fucking scumbag!"
+Yamamoto Akuji (talking),……おー、こわ。,"Whoo, scary."
+__system__??,{☆那古Ａ = 3:,{☆那古Ａ = 3:
+Yamamoto Akuji (talking),まあ、てめーんとこの教団が潰れて 苛立つ気持ちも分かるけどな。,"Well, I get that you`d be pissed at me for destroying your Cult."
+Komiya Youko (talking),…………何……？,...What?
+Yamamoto Akuji (talking),"ん、あそっか、まだ言ってなかったな。
+要するに俺が勝ったんだよ。 もうてめーんとこの組織力は ゼロに等しいぜ。","Oh, right, I haven`t told you yet.
+ Basically, I won. Your Cult is as good as gone."
+Komiya Youko (talking),……っ、く…………,...Kh...!
+Yamamoto Akuji (talking),"ところが、問題は教祖様でな。
+一度は捕まえたんだが、 この捕虜部屋へ送る最中に 誰かの手引きで逃げられてよ。
+八方手を尽くして探したんだが、 どうにもこうにも見つからねえ。
+かくまった場所の心当たり、あんだろ？ スパッと言ってくれると ヒジョーに大助かりなんだが。","The problem is your guru.
+ We captured her, but someone helped her escape as she was being brought here.
+ We searched everywhere for her, but still couldn`t find her.
+ You know where she is, right? It`d be a reeeeal big help if you spilled the beans."
+Komiya Youko (talking),……くくくっ……馬鹿か貴様は。 たとえ知っていても言うと思うのか？,"Hahaha! Are you stupid? Even if I knew, do you think I`d tell you?"
+Yamamoto Akuji (talking),いや、全然。,"No, not at all."
+Komiya Youko (talking),なら、聞くな。,Then don`t ask.
+Yamamoto Akuji (talking),そーもいかねぇんだよ、 いろいろ事情があってよ。,Can`t do that either. I have my own circumstances.
+Komiya Youko (talking),貴様の事情など知ったことではない！,Like I care!
+Yamamoto Akuji (talking),……おーこわ、おーーーこわ。,"Ooh, scary."
+__system__??,},}
+__system__??,{(☆那古Ａ < 3) * (☆陽子捕虜 < 5) + (☆那古Ａ = 4):,{(☆那古Ａ < 3) * (☆陽子捕虜 < 5) + (☆那古Ａ = 4):
+__system__??,},}
+__system__??,{(☆那古Ａ < 3) * (☆陽子捕虜 > 4):,{(☆那古Ａ < 3) * (☆陽子捕虜 > 4):
+__system__??,},}
+__system__??,{(☆那古Ａ > 2) * (☆那古Ａ = 3) * (☆陽子捕虜 \ 10):,{(☆那古Ａ > 2) * (☆那古Ａ = 3) * (☆陽子捕虜 \ 10):
+__system__??,},}
+__system__??,{(☆那古Ａ > 2) * (☆那古Ａ = 3) * (☆陽子捕虜 = 10):,{(☆那古Ａ > 2) * (☆那古Ａ = 3) * (☆陽子捕虜 = 10):
+__system__??,},}
+__system__??,{(☆那古Ａ = 5) * (☆イハビーラ命令 = 10) * (☆陽子捕虜 \ 15):,{(☆那古Ａ = 5) * (☆イハビーラ命令 = 10) * (☆陽子捕虜 \ 15):
+__system__??,},}
+__system__??,{☆陽子捕虜 = 15:,{☆陽子捕虜 = 15:
+__system__??,},}
+narrator,陽子汎用すっぽぬけ。 これ出たら上田まで報告頼みます。,陽子汎用すっぽぬけ。 これ出たら上田まで報告頼みます。
+Yamamoto Akuji (talking),よお、凛々しいねーちゃん。 元気か？,"Hey there, Ms. gallant Saint. You doing well?"
+Komiya Youko (talking),……何の用だ。,...What do you want?
+Yamamoto Akuji (talking),ずいぶんな態度だなー。 ま、話しでもしようや。,"You got quite the attitude, huh. How about a chat?"
+Komiya Youko (talking),貴様と話すことなど何もない。,I`ve got nothing to say to you.
+Yamamoto Akuji (talking),おめーになくても俺にはあんだよ。,"Well, I do."
+Yamamoto Akuji (talking),よお、聖女のねーちゃん。 ちょいと話しようぜ。,"Hey there, Ms. Saint. We gotta talk."
+Komiya Youko (talking),貴様と話すことなど何もない。 ……何度も言わせるなっ！,I`ve got nothing to tell you. How many times must I say it?!
+Yamamoto Akuji (thinking),"……ちっ、こうも頑なだと どうしようもねえな……
+何とか教祖を押さえるまでは 会話すら成立しそうにないぜ……","Tch, nothing I can do if she`s this stubborn.
+ I won`t even be able to talk until we find that guru."
+Yamamoto Akuji (talking),よお、那古教の凛々しいねーちゃん。,"`Sup, Ms. gallant Nako Saint."
+Komiya Youko (talking),………………,...
+Yamamoto Akuji (talking),"シカトすんなよ。 今日はどーしても話さなきゃ なんない事があんだから。
+実はな、俺の奉仕青年団が ようやくてめーんとこの組織を 潰してな。","Don`t ignore me. I got something I need to discuss with you no matter what.
+ Y`see, my YCSG has finally crushed your cult."
+Komiya Youko (talking),……っ、な…………？,What...?!
+Yamamoto Akuji (talking),"ところが、問題は教祖様でなー。
+一度は捕まえたんだが、 この捕虜部屋へ送る最中に 誰かの手引きで逃げられてよ。
+八方手を尽くして探したんだが、 どうにもこうにも見つからねえ。
+匿った場所の心当たり、あんだろ？ 素直にゲロしてくれると ヒジョーに大助かりなんだが。","And the issue`s your guru.
+ We captured her at first, but while we were taking her here, someone helped her escape.
+ We searched all over, but couldn`t find her.
+ You have an idea of where she is, right? It`d be reeeal helpful if you told me."
+Komiya Youko (talking),……馬鹿か貴様は。 たとえ知っていても言うと思うか？,"...Are you a moron? Even if I knew, you think I`d tell you?"
+Yamamoto Akuji (talking),いや、ぜーんぜん。,"No, not at all."
+Komiya Youko (talking),なら、無駄なことを言うな。,Then don`t ask useless questions.
+Yamamoto Akuji (talking),"人生の真理は 無駄の中にこそあるんだぞ？
+ …………と、事務所に張ってある 人生訓カレンダーに書いてあった。","The meaning to life lies in the useless, you know?
+ ...At least, that`s what was written on my calendar."
+Komiya Youko (talking),………………,...
+Yamamoto Akuji (thinking),……つっても喋らんわな。 カレンダーの嘘つきめ。,...That didn`t work. Damn that useless calendar.
+Yamamoto Akuji (talking),なあ、凛々しいねーちゃん。 教祖の居場所、吐いてくんねーか？,"Hey, Ms. Saint. Won`t you tell me where your guru is?"
+Komiya Youko (talking),………………,...
+Yamamoto Akuji (talking),やれやれ、しゃあねーな……,"Damn, no changing you, huh."
+Yamamoto Akuji (talking),よお、凛々しいねーちゃん。 今日はいい話があるぜ。,"`Sup, Ms. gallant Saint. I have good news for you."
+Komiya Youko (talking),………………,...
+Yamamoto Akuji (talking),実はな、ついにおめーんとこの 教祖を捕まえたんだよ。,"Ya see, we just captured that guru of yours."
+Komiya Youko (talking),……嘘が下手だな、貴様。,...You suck at lying.
+Yamamoto Akuji (talking),"嘘だと思うか？
+今、教祖もこの地下室に放り込んでる。 声くらいなら聞かせてやるぜ？","Ya think that`s a lie?
+ I placed her in this prison too. I can let you hear her voice."
+Komiya Youko (talking),"………………
+ほ、本当なのか…………","...
+ I-Is that true...?"
+Yamamoto Akuji (talking),残念ながらマジのマジでーす。,"Sadly, it is absolutely true."
+Komiya Youko (talking),………………,...
+Yamamoto Akuji (talking),"これでまあ、 おめーを生かしておく必要も なくなった訳だが……
+ま、そりゃ教祖も一緒か。","This means that I no longer have a reason to keep you alive.
+ Well, same goes for the guru."
+Komiya Youko (talking),"な……何よ、 由女に何をする気！？
+お願い、あの子には手を出さないで、 私はどうなっても構わないからっ……","Wha- What`re gonna do to Yume?!
+ Please, don`t hurt her! I don`t care what happens to me, just...!"
+Yamamoto Akuji (talking),"ほ。 そんな女らしい口がきけるんだな。 声音まで別人みたいだぜ。
+そんな態度でお願いするほど、 教祖抑えりゃ余裕ナシって訳だ。 ケッコーケッコー。","Oh? So you CAN talk like a girl. Even your voice sounded different.
+ If you got like this, that means you can`t stand the guru being imprisoned. That`s good to know."
+Komiya Youko (talking),……っ……,...!
+Yamamoto Akuji (talking),よお、凛々しいねーちゃん。,"`Sup, Ms. gallant Saint."
+Komiya Youko (talking),……教えろ………… 由女は……由女は無事なのか？,...Tell me... Is... is Yume safe?
+Yamamoto Akuji (talking),さあな。 おめーの態度次第なんじゃねえか？,Dunno. Depends on your attitude.
+Komiya Youko (talking),………………くっ……,Khh...!
+Hikage Mitsuko (talking),……あの…… 悪司さん…………,...Um... Akuji-san...
+Yamamoto Akuji (talking),？　どうかしたかい、日陰さん。,"? What is it, Hikage-san?"
+Hikage Mitsuko (talking),"実は……次の捕虜さん…… 古宮陽子さん……ですけど…………
+昨晩……舌を噛み切って ……死んでしまって…………","About the next prisoner... Komiya Youko-san...
+ Last night... she bit her tongue off and killed herself..."
+Yamamoto Akuji (talking),……なぬーーーー？,...Whaaaat?!
+Hikage Mitsuko (talking),"那古教の……教祖さんのこと、 どこかで、聞いたらしくて……
+他の、捕虜さんとか…… チンピラさんとか……の、雑談を…… …………多分……
+それで…… ごめん、とか……許して、とか…… 昨日、ずっと……泣いてて……
+で……夜、静かに……なって、 泣き疲れて……寝たの……かと …………そう思ったら……","Seems like... she heard about the Nako`s guru somehow...
+ Probably from the guards... or the other prisoners... gossiping...
+ Then... she kept apologizing... She cried all day yesterday...
+ And when I thought... she`d gotten tired of crying and gone to sleep..."
+Yamamoto Akuji (talking),……おっ死んでたってか。,...You found out she was dead.
+Hikage Mitsuko (talking),…………あの…… 古宮さんの……亡骸…………,Um... About her corpse...
+Yamamoto Akuji (talking),別に見たくねーよ。 いつもの部下に連絡して 処理させといてくれ。,I don`t wanna see it. Call the usual guys and have them take care of it.
+Hikage Mitsuko (talking),……はい…………,Okay...
+Yamamoto Akuji (talking),"………… 教祖が死んだら生きていられません、 ってか。
+ケッ、宗教ってのはこれだからよ……","... Couldn`t live in a world without your guru, huh?
+ Tch, this is why I hate cultists..."
+Yamamoto Akuji (talking),しゃあねーな、 気の強い女は面倒だから嫌いなんだが…,Screw it. This is why I hate strong-willed women...
+narrator,言いながら、悪司は陽子の手を取って 軽く後ろ手に捻り上げ、躰の自由を奪う。,"Akuji took Youko`s hands and twisted them to her back, robbing her of their movement."
+ (talking),……っつ…………！ な、何をする気だっ……,Ngh! Wh-What are you doing?!
+Yamamoto Akuji (talking),ま、黙って歩け。,Shut up and walk.
+Yamamoto Akuji (talking),それ、入れ。,Go in.
+Komiya Youko (talking),な、何だ、ここは……,Wh-What is this place?
+Yamamoto Akuji (talking),天国に通じる部屋さ。,A room connecting to Heaven.
+narrator,言って、悪司は背後から陽子に抱きつき、 いきなり愛撫をし始めた。,Akuji embraced Youko from behind and suddenly began caressing her.
+Komiya Youko (talking),"……っ！？　きっ、貴様何を……
+何……何を…… っ、く、っひぁ……っ！？","...! What are you-?!
+ What... is this- ngh, kh... hyahn?!"
+Yamamoto Akuji (talking),お。感度はいい方だと見たぞ。,"Hoh, you`re a sensitive one."
+Komiya Youko (talking),き、さ……貴様っ……！ その汚らわしい手を放せっ……！,Y-You bastard! Take your dirty hands off of me!
+Yamamoto Akuji (talking),ま、そう毛嫌いすんなよ。 その汚い手でいい思いさせてやっから。,Don`t be so prejudiced. They will make you feel good.
+narrator,悪司は、本格的に陽子の躰をまさぐり始めた──,Akuji began teasing Youko`s body in earnest.
+narrator,陽子は、悪司にこまされた。,Youko was fucked by Akuji.
+narrator,"──どれほど時間が経っただろう。
+悪司は、様々な体位と性技を駆使して 陽子を犯し続けていた。
+ベッドの上は汗と淫水で濡れつくし、 陽子はもう、五度──いや、もっとだろうか、 悦楽の頂点を強いられ続けていた。
+だが、悪司自身はまだ一度も精を吐いていない。","--Some hours later.
+ Akuji kept raping Youko, employing all sorts of positions and techniques.
+ The bed was soaked in sweat and lewd juices, and Youko had been forcibly brought to climax at least five times.
+ However, Akuji had yet to ejaculate even once."
+Yamamoto Akuji (talking),……ぷー、どーだよねーちゃん。 女に生まれた悦びを満喫してるか？,Phew. How was it? Had your fill of a woman`s pleasure?
+Komiya Youko (talking),……ぜ、は……う、っ、は……,...Wheeze...haah... ngh...
+Yamamoto Akuji (talking),声もなし、か？ どれ、額の汗でも拭いてやろうか。,"Can`t even talk? Here, I`ll wipe the sweat off your face."
+Komiya Youko (talking),………………く、そっ…… この……けだもの…………っ……,Damn... it! You... fucking beast...!
+Yamamoto Akuji (talking),"手足動かないくせに口は動くのな。 まだ屈服してません、ってか。
+ ……よっしゃ、もいっちょ行くか？","Still talking? Ya haven`t given in yet?
+ Then how about another round?"
+Komiya Youko (talking),………………っあ…………！！,...Ah...!
+Yamamoto Akuji (talking),"おうおう、綺麗なアソコが充血しきって ぐちゃぐちゃのズルズルだな。 擦り切れてんじゃないだろな？
+ま、それならそれでやりようはあらぁ。 そーら、指だけでも……","Hohoh, your pretty pussy`s all red and soaked. It`s not getting worn out, is it?
+ In that case, we can do this. I`ll only use my fingers..."
+Komiya Youko (talking),………ぅ………,...ugh...
+Yamamoto Akuji (talking),お……ツルッと入ったぜ。 締めてくる元気もナシか？,"Ooh, it slid right in. Don`t even feel like tightening up?"
+Komiya Youko (talking),"………… もう…………
+もう、やめて…… ……許して…………","... Enough...
+ I`ve had enough... Let me go..."
+Yamamoto Akuji (talking),んだよ、演技か？ 女らしい声でお願いされても……,"What, is this an act? Even if you ask me all girly-like..."
+Komiya Youko (talking),"………………う、っう…………
+ ……う、うっ………… ううっ……っく、う…………！","...Ugh...
+ ...Auuu, hic... waaah... kh...!"
+Yamamoto Akuji (talking),"……今度は泣き落としか？
+似合わねぇぞ、そんなの。 いかにも女の子でござい、って 泣き方はよ。","...Cryin` your way outta this?
+ That`s a very girly way to cry, doesn`t suit you at all."
+Komiya Youko (talking),ああっ……あああっ……！ うああああっ…………！！,"Waaaah, aaaaah! Waaaaaaaaah!"
+Yamamoto Akuji (talking),"…………
+こりゃ、どう見ても本気泣きだな……
+つーか、まさか……そっちが地か？
+やべ、だとすりゃ責め方間違えたぜ… ちいっと優しくやるべきだったか？","...
+ Yeah, she`s crying for real...
+ Wait... Did she break?
+ Shit, I messed up my approach. Shoulda been more gentle..."
+narrator,悪司の呟きなど、陽子に聞こえてはいない。 もうひたすら涙を流し続けている。,"Youko did not hear Akuji`s mumbling, and kept crying for a while longer."
+Yamamoto Akuji (talking),"………………
+今日はこのくらいにしとこう。","...
+ Let`s stop here for today."
+Yamamoto Akuji (talking),さて、ついてこいや。,Come with me.
+Komiya Youko (talking),……何をする気だ。,...What are you gonna do?
+Yamamoto Akuji (talking),決まってんだろ？,Isn`t it obvious?
+Komiya Youko (talking),………………,...
+Yamamoto Akuji (talking),そんな顔すんなよ。 優しくしてやっから。,Don`t look at me like that. I`ll be gentle.
+narrator,そして、陽子は悪司の部屋に連れ込まれて 結局はなすがままに犯されてしまう──,"Thus, Akuji brought Youko to his room and violated her at his whim--"
+narrator,陽子は、悪司にこまされた。,Youko was fucked by Akuji.
+Yamamoto Akuji (talking),……よお、起きてるか？ 気絶してんのか？,"...Hey, you awake? Didja pass out?"
+narrator,悪司は、 ベッドの上でぐったりとなった陽子に話しかける。,"Akuji spoke to Youko, who was sprawled out on the bed."
+Komiya Youko (talking),………………,...
+Yamamoto Akuji (talking),かなり優しくしてやったんだ。 割と素直に感じられたハズだぜ？,"I was pretty gentle. It musta been good for you, no?"
+Komiya Youko (talking),"何が…… 優しく、だ……
+こんなことで…… 私の心まで好きにできると思うな……","What... about that... was gentle...?
+ Don`t think you can... win my heart with this..."
+Yamamoto Akuji (talking),やれやれ、元気なもんだ。,"Man, you`ve got spunk."
+Yamamoto Akuji (talking),ほれ。,Here.
+narrator,悪司は陽子の目の前に札束を置いた。,Akuji placed a wad of cash in front of Youko.
+Komiya Youko (talking),……何のつもりだ。,...What`s the meaning of this?
+Yamamoto Akuji (talking),プレゼントだよ。 今俺の部下になると もれなくついてくるぜ。,A gift. There`ll be plenty more of these if you work for me.
+Komiya Youko (talking),私を金で買うつもりか？ 馬鹿にするなっ！,You think you can sway me with money?! Don`t mock me!
+narrator,"陽子は札束を掴むと、悪司に思い切り投げつける。
+澄まし顔の悪司と、殺気に満ちた陽子の間を、 宙に散った札束がひらひらと舞い落ちていった。","Youko grabbed the cash and threw it at Akuji.
+ The bills fluttered in the space between the calm Akuji and the seething Youko."
+Yamamoto Akuji (talking),……また来るわ。,...I`ll be back.
+__system__??,{RND = 1:,{RND = 1:
+Yamamoto Akuji (talking),ほれ、おめーはこういうの嫌いか？,"Here, do ya not like this stuff?"
+narrator,悪司は陽子の前に、 高価なアクセサリーを差し出した。,Akuji presented some expensive accessories to Youko.
+Komiya Youko (talking),……一つ訊いておく。 貴様は毎度毎度、何を思って こんな品を持ってくる？,...Let me ask you something. What`s your intention behind bringing these to me every time?
+Yamamoto Akuji (talking),ま、素直に答えるなら買収だ。,"Buying you out, to be honest."
+Komiya Youko (talking),"……素直すぎて声も出ないな。
+ならこちらもはっきり言おう。 その気はない。全くない。だから帰れ。","...I`m actually stunned.
+ Then I`ll also be clear. I won`t budge, ever. Go away."
+Yamamoto Akuji (talking),あらま。,Damn.
+__system__??,},}
+__system__??,{RND = 2:,{RND = 2:
+Yamamoto Akuji (talking),なぁ、俺の兵隊になる気はないか？,"Hey, feel like becoming my soldier?"
+Komiya Youko (talking),……前にも言ったぞ。お断りだ。,My answer`s still the same - no.
+Yamamoto Akuji (talking),それなりに使える腕してるしよ、お前。 いい給料出すぜ？,"You`re pretty strong, you know? I`d pay you well."
+Komiya Youko (talking),金には執着がない。,I don`t care about money.
+Yamamoto Akuji (talking),いいセックスもしてやるぜ？,I`ll fuck you good.
+Komiya Youko (talking),……っ、下品なっ……！,...! You shameless bastard!
+Yamamoto Akuji (talking),うーむ、 どうしても部下になる気ねぇのか？,"Hrrm, you SURE ya don`t wanna work for me!"
+Komiya Youko (talking),くどい！,Quit it already!
+Yamamoto Akuji (talking),……怒んなよ。,...Don`t get mad.
+__system__??,},}
+Yamamoto Akuji (talking),なあ、もういいだろ？ 俺の兵隊になってくれや。,"Hey, enough`s enough. Become my soldier already."
+Komiya Youko (talking),"……何度同じ事を言わせれば気が済む。
+貴様の下で働くくらいなら死を選ぶ。 早く処分なりすればどうだ。","How many times do I gotta say it?
+ I`d rather die than work for you. Go on, dispose of me already."
+Yamamoto Akuji (talking),"やれやれ……
+てめーんとこの教祖はもう 俺の部下になるって承諾したんだぜ？ いつまでも意地張ってんじゃねえよ。","Fuck`s sake...
+ Did you know that your guru agreed to work for me? You can stop trying to act tough."
+Komiya Youko (talking),由女が貴様の部下だと……？ 何を言っている、そんなでたらめ……,Yume`s working for you...? What kinda bullshit are you-
+Yamamoto Akuji (talking),"でたらめなもんかよ。
+ホレ、これ。 あいつが先週提出した仕事の報告書。 筆跡で大体解るよな？
+ついでに写真もつけよーか？ 言っとくが合成じゃねえぞ。","It ain`t no bullshit.
+ Look, this is a report she submitted last week. You know her handwriting, yeah?
+ How about I throw in a photo, too? And it`s not doctored, either."
+Komiya Youko (talking),"…………な……
+き、貴様っ…… 由女に何をしたっ…………！","...Wha...!
+ Y-You bastard... What did you do to Yume?!"
+Yamamoto Akuji (talking),何って言われてもな。 別にひでぇことはしてないぜ。,Nothing. I didn`t do anything bad to her.
+Yamamoto Akuji (thinking),──ま、世間様の基準じゃ どうだか知らんけど。,"Nothing bad by my standards, at least."
+Komiya Youko (talking),由女が無事だと言うなら……会わせろ！ できないことではないだろう！,"If she`s safe, then let me see her! You`ll let me, right?!"
+Yamamoto Akuji (talking),やだね。 捕虜の要求なんかいちいち 聞いてらんねーしな。,No way. I`m not gonna listen to every request from a prisoner.
+Komiya Youko (talking),…………,...
+Yamamoto Akuji (talking),"あいつに会いたきゃ、部下になれ。
+お前の腕はそれなりに使える。 悪いようにはしねぇよ。","Wanna see her? Then join me.
+ You`ll be real useful to me, and I`ll do good by you."
+Komiya Youko (talking),"………………
+一つ、訊いてもいいか。","...
+ I have one question."
+Yamamoto Akuji (talking),質問にもよるけどな、言ってみな。,And you might get an answer.
+Komiya Youko (talking),由女の無事を……保証できるか？,Can you guarantee Yume`s safety?
+Yamamoto Akuji (talking),無事っつってもいろいろあるぞ。 命のことか？,That`s kinda vague. You talking about her life?
+Komiya Youko (talking),もっと広い意味でだ。 普通に捉えろ。,I mean in a broad sense of the word. Take it at face value.
+Yamamoto Akuji (talking),"何かよくわかんねぇが、 俺は一応、仲間には優しいつもりだ。
+ ……んー、たぶんな。","I don`t really get it, but I`m good to my subordinates.
+ ...Well, maybe."
+Komiya Youko (talking),"………………
+なら……取引だ。","...
+ Then let`s work out a deal."
+Yamamoto Akuji (talking),あ？　取引？,Huh? A deal?
+Komiya Youko (talking),"由女の無事を保証してくれるなら… 貴様の部下になろう。
+他には何も求めん。 殺し合いでも汚い仕事でもする。
+ただ、由女の事だけ……保証してくれ。","If you can guarantee her safety, I`ll work for you.
+ I don`t want anything else. I`ll do any dirty work you want.
+ Just please... protect Yume."
+Yamamoto Akuji (talking),よし、解った。じゃ契約成立な。,"Got it. We have a deal, then."
+Komiya Youko (talking),………………,...
+Yamamoto Akuji (talking),ほれ、これ自分で填めてくれや。,"Here, put these on yourself."
+narrator,言って、悪司は手錠を差し出した。,Akuji presented a pair of handcuffs.
+Komiya Youko (talking),……何だ、何をする気だ？,...What? What`re you scheming?
+Yamamoto Akuji (talking),いや、今から地下室を出てもらうんでな、 自由なまんまだと困るんだよ。,"I`m taking you outta here, but I can`t have you be all free."
+Komiya Youko (talking),………………,...
+Yamamoto Akuji (talking),渋るようなら無理矢理填めるぞ？,I`ll force them on you if you don`t.
+Komiya Youko (talking),……それには及ばん。,...No need for that.
+narrator,陽子は言って、自らの手に手錠をかけた。,"With that, Youko cuffed herself."
+Komiya Youko (talking),それで…… 私に、何をさせるつもりだ？,So... What are you doing to me?
+Yamamoto Akuji (talking),大したことじゃないさ。 ……おーいタマネギ、来てくれ。,"It`s nothing big. ...Come here, Tamanegi."
+Tamanegi (talking),はい。,Very well.
+Komiya Youko (talking),……何だ、この男……,Who`s this guy?
+Yamamoto Akuji (talking),実はな…… ……ひそひそぼそぼそ…… という女なんだが、頼めるか？,You see... ...whisper whisper... ...can I leave her to you?
+Tamanegi (talking),"それはいい……
+たとえ聖女と呼ばれようと、 これだけ美しい女性なら 下々の憧れは強かったことでしょう。
+そういう人々には、 例えよく似ている別人だと言っても 高く売れる筈です。","That`s good...
+ Saint or not, a woman this beautiful must have captivated many common men.
+ Such men will pay anything to have her, even if we claim she`s a mere lookalike."
+Komiya Youko (talking),"………………
+ ……くくっ、はははっ……！
+なるほど、 私を娼婦にしようと言うのか？ 那古教の元信徒に売ろうと言うのか！？","...
+ Hahah... hahahaha!
+ I see, so you want to make me become a whore? To sell my body to former Nako Cultists?!"
+Yamamoto Akuji (talking),何もんなこたぁ言ってねぇぞ。,I never said that.
+Komiya Youko (talking),白々しいっ……！ そこの男は調教師か何かだろうが、 違うか！,You disingenuous-! Is that man not a sex slave trainer?!
+Yamamoto Akuji (talking),"あれま、よく解ったな。 まともな育ちかたしてねぇんだな、 おめー。
+そんなら、隠してもしゃあないな。 目一杯稼げよ。","Wow, so you could tell. You didn`t have a decent upbringing, did ya?
+ No use hiding it, then. Go earn me some big bucks."
+Komiya Youko (talking),………………馬鹿にするなよ、貴様。,"...Don`t mess with me, asshole."
+narrator,──止める間もなかった。 陽子は躊躇いもせずに舌を噛み切る。,There was no time to stop her. Youko bit off her tongue with no hesitation.
+Yamamoto Akuji (talking),"……うお！？ おいこら冗談じゃねぇぞ馬鹿がっ！
+ ………………ち、この…… 顔が青くなってきやがった……！
+タマネギ、医者呼べ！　急げ！","What?! This ain`t funny, you stupid bitch!
+ ...Tch, this moron... Her face`s going pale!
+ Tamanegi! Hurry and call a doctor!"
+Tamanegi (talking),…………,...
+Yamamoto Akuji (talking),タマネギっ！,Tamanegi!
+Tamanegi (talking),"若……もう間に合いません。
+良い娼婦になれたでしょうに… 残念です。","...She won`t make it anymore.
+ She would`ve been a good prostitute, too. What a shame."
+Yamamoto Akuji (talking),………… ちっ、クソ女がっ……,"... Tch, you fucking bitch!"
+narrator,"──悪司は、抱え上げていた陽子の躰を 無造作に床へ落とした。
+陽子の躰はもう、ぴくりとも動かなかった。","Having had picked up Youko`s body, Akuji now carelessly threw her to the floor.
+ Youko`s body no longer moved or reacted."
+Yamamoto Akuji (talking),おめーがダンマリ決め込む気なら 拷問にかけてでも 居場所を吐いてもらうぜ？,Tell me where your guru is. Or do you want to get tortured?
+Tamanegi (talking),……………………,...
+Yamamoto Akuji (talking),……ちっ。 おい、拷問係のとこに連れてけ。,"...Tch. Hey, take her to the torture room."
+Hikage Mitsuko (talking),……………はい………,...Okay...
+narrator,に対する 拷問が行われた。,was tortured.
+ (talking),さっさと吐けよー、教祖の居場所。 また拷問カマしちまうぞ？,"Tell me where your guru is, or I`ll torture you again."
+ (talking),…………好きにするといい。,...Do your worst.
+ (talking),やれやれ。 おい、拷問係のとこに連れてけ。,"Fuck`s sake. Hey, take her to the torture room."
+Hikage Mitsuko (talking),……………はい………,...Okay...
+narrator,に対する 拷問が行われた。,was tortured.
+ (talking),さーて、 今日も元気に拷問といくか？,"Now then, how about some nice torture today?"
+ (talking),…………無駄な事を。,...This is futile.
+ (talking),無駄でも何でも、 教祖の居場所を吐かせない限り こっちは枕高くして眠れねぇんだよ。,"Futile or not, I can`t rest easy until you tell me where your guru is."
+ (talking),好きにしろ。結果は同じだ。,Do what you want.
+ (talking),強がってられんのも 今のうちだと思うけどな。,I think it`s time I went rough on you.
+ (talking),…………ふん……,...Hmph...
+narrator,そして、悪司は陽子を牢に戻した。,Akuji had Youko return to her cell.
+ (talking),…………日陰さん。,...Hikage-san.
+Hikage Mitsuko (talking),……はい…………何か……,...Yes? What is it?
+ (talking),あの女、拷問にかけるぜ。 拷問担当のヤツに連絡取ってくれ。,"Call the torturer, we`re sending him this broad."
+Hikage Mitsuko (talking),…………それは…… 構いません……けど…………,...I don`t mind... but...
+ (talking),何だよ、煮え切らねー顔してんな。,Why do you look so indecisive?
+Hikage Mitsuko (talking),"あの、前の時に…… 拷問を……している人から ……聞いたんですけど……
+あの人……普通の方法では、 口を割りそうにない……とか……","Last time... I heard this from the torturer...
+ That woman... Normal means won`t make her talk..."
+ (talking),通常の手段って、 拷問に通常もへったくれもあんのか？,Normal means? Does that even apply to torture?
+Hikage Mitsuko (talking),"確か……聞いた話だと………… 身体や、心に……苦痛を、与えるか…… ……あと、薬物使用か…………
+おおまかに……その、二つが、 普通の手段……だそうです…………
+ ……でも、苦痛を与えるのは………… どうやっても、効果がなくて………
+でも、薬を使うと…… 効いてくるより……先に、 すぐ……舌を、噛み切るらしくて……
+実際に……あの人、 何度か、死にかけてて……","From what I heard... they either hurt her body and heart... or use drugs...
+ Generally speaking... those two are the normal means...
+ But inflicting pain... had absolutely no effect...
+ And if they use drugs... she`s likely to bite her tongue off before they work...
+ That woman has actually... nearly died several times..."
+ (talking),……えらい根性の据わった話だな。,...She`s got some will to live.
+Hikage Mitsuko (talking),"あの……根性じゃなくて…… 生きるつもり、ないみたいです……
+私、そんな気がします……","Not at all... She doesn`t seem to want to live...
+ That`s how I felt from her..."
+ (talking),死にたくねぇと思わない限り、 自白は望めやしねぇ……か。,"So as long as she doesn`t fear death, we won`t get shit?"
+Hikage Mitsuko (talking),"よっぽど……教祖さん、とか…… 教団が……大事、って、 そういう事…………みたいです……
+すごい……ですね、人間って…… そこまで、信じ込めるんですね…","It`d seem that their guru... and the cult... are very important to her...
+ Humans are amazing... This is the power of faith..."
+ (talking),そりゃつまり、いくら拷問しても 無駄でお手上げって事か？,So the torture`s useless and we should give up?
+Hikage Mitsuko (talking),"いえ、そうじゃなくて…………
+ ……あの、ウィミィから……渡ってきた、 絶対に確実な方法が……あるとか……","No, that`s not it...
+ ...Um, we got a method from Wime that`s sure to work..."
+ (talking),……ほー、どんなんだ、そりゃ。,Oh? And what`s that?
+Hikage Mitsuko (talking),その……頭蓋骨を……開いて…… 脳に、電極を刺して……,"We open up her cranium, and stick electrodes into her brain..."
+ (talking),……日陰さん、もういい。 何となく解った。,"...Enough, Hikage-san. I get it."
+Hikage Mitsuko (talking),その……とにかく………… あの人を、殺していいなら…… ……大丈夫だそうです…………,"So, anyway... if you don`t mind killing her, that should work..."
+ (talking),……なるほどな。 しゃあねーや、やっちまうか。,"...I see. No other way, we`re doing it."
+Hikage Mitsuko (talking),……いいんですか…………？,...Is that fine...?
+ (talking),"それっきゃ手がねぇんだろ？ このままやってて死んじまうなら 情報だけでも引きずり出すさ。
+ ……あ、日陰さん。 今回、拷問経過の報告は要らねぇから 拷問手にそう伝えといてくれ。
+結果が出たらそれだけ教えろ、ってな。","It`s that or nothing, right? If she`s gonna die either way, might as well get the info.
+ ...One more thing. Tell the torturer I don`t want a report on his procedure this time.
+ I only want to hear the results."
+Hikage Mitsuko (talking),…………はい……,...Okay...
+Hikage Mitsuko (talking),……悪司さん……,...Akuji-san...
+Yamamoto Akuji (talking),おう、どうだった？,How was it?
+Hikage Mitsuko (talking),情報……取れたそうです………… これ……拷問係の人がくれた書類……,It seems we got the info... The torturer gave me the report...
+Yamamoto Akuji (talking),"報告書か。んーとっと……
+ ……シキナの元那古教本部ぅ？ 何だよ、あそこに隠し部屋でも 作ってたってのか？
+チッ、とっくにどっか別のところに 逃げたと思ってたが、こりゃ盲点だぜ…","The report, eh? Lessee...
+ ...The Nako HQ in Shikina? What, did that place have a hidden room?
+ Tch, thought they`d escaped to someplace else."
+Hikage Mitsuko (talking),…………それで、あの…… 古宮陽子さん…………,"...Also, um... About Komiya Youko-san..."
+Yamamoto Akuji (talking),…………やっぱ死んだ？,"...She`s dead, after all?"
+Hikage Mitsuko (talking),………………,...
+Yamamoto Akuji (talking),"だろうな…… んでも、実際よく頑張ったわな、あの女。
+まあ、後は頼むわ。 闇から闇へって事でヨロシク。","`Course she is... But man, that chick did her best.
+ Well, I leave the rest to you. Dispose of the body."
+Hikage Mitsuko (talking),……………………はい……,...Okay...
+??,"ナコ教本部・・、青年団がどんどん攻め込んできた。 少しピンチな状態。陽子と部下の話。 部下の情報から・・悪司がウィミィとつるんで由女をさらって ウィミィに渡そうとしていると聞く。 私たちの由女を渡してなるものか、怒る陽子。 全てのナコ教使徒に連絡、山本悪司を誅殺せよ。 どうしたの・・陽子って由女が来る、大丈夫ですよ。
+ ＊＊＊上田注 　　　これ、ボツイベントなんでしょうか？","ナコ教本部・・、青年団がどんどん攻め込んできた。 少しピンチな状態。陽子と部下の話。 部下の情報から・・悪司がウィミィとつるんで由女をさらって ウィミィに渡そうとしていると聞く。 私たちの由女を渡してなるものか、怒る陽子。 全てのナコ教使徒に連絡、山本悪司を誅殺せよ。 どうしたの・・陽子って由女が来る、大丈夫ですよ。
+ ＊＊＊上田注 　　　これ、ボツイベントなんでしょうか？"
+narrator,"寧々が倒れ、行方不明になった事は その日のうちに全ての那古教信者に知れ渡った。
+そして、聖女の間でも──","News of Nene`s defeat and subsequent disappearance spread throughout the Cult.
+ This also reached the Saint`s Room--"
+Komiya Youko (talking),戯れ言も大概にしろっ！ 聖女寧々が……ふざけるなっ！！,Cut the jokes! Saint Nene has... don`t mess with me!!
+nakokyou  otoko (talking),まことに……まことに、 申し訳ございませんっ……！,"I truly, truly apologize...!"
+Komiya Youko (talking),"これが申し訳ないで済むことかっ！ 貴様らは何をしていたのだ！
+聖女が危ないとなれば命を賭して守り、 代わりに死んで見せて当然……
+ …………っ……","An apology won`t cut it! What the hell were you doing?!
+ If a Saint`s in danger, you should die in her place...
+ ...!"
+nakokyou  otoko (talking),陽子様…,Youko-sama...
+Komiya Youko (talking),"すまない。 失言だ、許せ……
+代わりに死ね、などと…… 頼む、忘れてくれ……","Sorry. I shouldn`t have said that. Forgive me...
+ Dying in her place... Please, forget I said that..."
+nakokyou  otoko (talking),"いえ、心中お察しします…
+我ら信徒も、そうできなかったことが 悔やまれてなりません……！","No, you were completely right.
+ We can do nothing but regret not having done that...!"
+Komiya Youko (talking),……とにかく、報告ご苦労だった。 下がって良い。,"...At any rate, thanks for the report. You may stand down."
+__system__??,{RND \ 0:,{RND \ 0:
+Komiya Youko (talking),前線を離れられない聖女遙にも、 よろしく伝えてくれ。,"Tell that to Saint Haruka on the frontlines, too."
+__system__??,},}
+Komiya Youko (talking),……しばらく、一人にしてくれるか。,...Leave me alone for a bit.
+nakokyou  otoko (talking),はっ……,Yes.
+Komiya Youko (talking),"……………… 嘘よね、寧々……
+私たち、戦後のあんな滅茶苦茶な時さえ 乗り越えてきたのに……
+あなたが居たから、私、 今、こうして生きてるのに……
+ねえ、寧々…… あなたが作ったのよ、この教団… あなたがいたから、今まで……
+聖女だって言ったって… 私だけじゃ、何も……何も……
+ …………
+友達……だったのに……
+いなくなるなんて… 想像もしてなかったのに……
+どうして……っ…
+ …………
+これから、どうすれば…
+どうすればいいのよ…… 私一人じゃ、何も……
+ …………寧々……","...This is a joke, right, Nene...?
+ We managed to overcome that mess after the war, and yet...
+ I`m only alive right now because you were there...
+ Nene... You`re the one who built this Cult... Because you were here, until now...
+ You called me a Saint... I can`t do anything alone...
+ ...
+ You were... my friend...
+ I never even imagined... I`d lose you...
+ Why...?!
+ ...
+ What should I do now...?
+ What should I do? I can`t do anything by myself...
+ ...Nene..."
+narrator,"──そして、暫し後。
+陽子は寧々の件を伝えるため、 由女の私室を訪れていたのだが──
+扉を開けることができず、 そこでしばし立ち尽くしていた。","--Some time later.
+ Youko had gone to Yume`s room to tell her about Nene. However--
+ Unable to even open the door, she stood there for a while."
+Komiya Youko (talking),"………………
+いつまでもここに居たって… 伝えない訳にはいかないんだし…","...
+ How long am I gonna stand here? I have to tell her..."
+narrator,──意を決して、陽子は部屋の扉を開けた。,"Steeling her resolve, Youko opened the door."
+Yume (talking),あれ……陽子さん？ どうしたの、こんな時間に…,Oh... Youko-san? What are you doing here at this hour?
+Komiya Youko (talking),………… あのね、由女……,"... You see, Yume..."
+Yume (talking),……？,...?
+Komiya Youko (talking),……その、寧々が……,...Nene has...
+Yume (talking),寧々さん？ 寧々さんがどうかしたの？,Nene-san? What about her?
+Komiya Youko (talking),………………,...
+Yume (talking),………… まさか、寧々さんに何か……,...Did something happen to her...?
+Komiya Youko (talking),"………… 抗争中の、奉仕青年団に……
+こっちは、逃げるのに精一杯で、 倒れた寧々の躰が持ち去られて…
+死んでいれば……闇から闇へ、 生きていたとしても………","...During battle, the YCSG...
+ While we ran for our lives, they carried her body away...
+ Even if she`s alive, only hell awaits her..."
+Yume (talking),う……嘘… 冗談だよね？　陽子さ……,"N-No way... You`re kidding, right? Youko-sa-"
+Komiya Youko (talking),………………,...
+Yume (talking),そ……そんなっ… そんな、そんなっ……！,"No...! No, no way...!"
+Komiya Youko (talking),大丈夫。 ……大丈夫よ、由女。,"It`s alright. ...It`s alright, Yume."
+Yume (talking),大丈夫って…… そんな、大丈夫な訳っ……！,How could this ever be alright?!
+Komiya Youko (talking),"……大丈夫よ。
+寧々が作ってくれた那古教は、 まだ充分、組織として働いてるし…","...It`s alright.
+ This Nako Cult she`s built is still functioning..."
+__system__??,{RND \ 0:,{RND \ 0:
+Komiya Youko (talking),そう……遙だって、 遙だってまだ居るんだし……,And Haruka is still with us...
+__system__??,},}
+Komiya Youko (talking),"たとえ、私一人になっても… 守ってみせる……
+由女は、絶対…… 守ってみせるから……","Even if I`m the only one left... I`ll protect you...
+ I`ll protect you no matter what, Yume..."
+narrator,"呆然と立ち尽くす由女に歩み寄り、 陽子はその小さな躰を抱きしめる。
+その時、由女は初めて気付いた。","Youko walked up to the stunned Yume and embraced her petite body.
+ That`s when Yume finally noticed it."
+Yume (talking),陽子……さん…………？,Youko-san...?
+narrator,──陽子の躰が、小刻みに震えていた。,Youko`s body was trembling.
+Yume (thinking),"陽子さん…… 寧々さんが居なくなって…
+ずっと、一緒だったのに…… 友達だったのに……
+辛いはずなのに……","Youko-san... Now that Nene-san`s not here...
+ They were always together, and were best friends...
+ It must be tough on her..."
+narrator,"由女は、陽子を強く抱き返す。
+ ──躊躇いながら、口を開く。","Yume gave Youko a strong hug in response.
+ While hesitant, she began to speak."
+Yume (talking),"陽子さん…
+私じゃ… 寧々さんの代わりなんて、無理だけど…
+これから、頑張るから…
+陽子さんの負担にならないように、 もっと、頑張るから…… だから……
+ ………………
+お願い……だから、陽子さん…… もう、泣かないで……
+陽子……さ……
+ ………………
+ごめん…… 私、何もできなくて……何も……
+何も……
+ごめん、陽子さん…………","Youko-san...
+ I know I can`t replace Nene-san, but...
+ I`ll do my best, so...
+ I`ll work hard to not burden you, so...
+ ...
+ Please, Youko-san... Don`t cry anymore...
+ Youko-san...
+ ...
+ I`m sorry... I can`t do anything... Not a single thing...
+ Nothing...
+ I`m sorry, Youko-san..."
+narrator,"──もう、二人は向き合うしかなかった。
+互いに向き合い、寄り添い、 支え合っていくしかなかった──","The two did nothing but face each other.
+ They could do nothing but nestle together and support each other--"
+narrator,"──夜も更けた頃。
+教団本部内、古宮陽子の私室前に 由女の姿があった。
+陽子は──部屋の主は、まだ帰っていない。
+だから由女は、部屋の外で陽子を待ち続けた。","At the dead of the night--
+ In the Cult`s HQ, Yume stood in front of Youko`s private room.
+ Youko had yet to come back.
+ As such, Yume waited outside the room."
+Yume (talking),……遅いな… 陽子さん…………………… まさか、何かあって……,"Youko-san, you`re late...
+ ... Don`t tell me something happened..."
+Komiya Youko (talking),…………っ、由女？ 何してるの、こんな所で…,...Yume? What are you doing here?
+Yume (talking),"あ、陽子さん……
+ ……良かった、 帰ってこないかと思った……","Oh, Youko-san...
+ ...I`m so glad, I thought you weren`t coming back..."
+Komiya Youko (talking),……もう、 それはこっちの台詞よ…,"Geez, I should be the one saying that."
+Yume (talking),……えっ？,Huh...?
+Komiya Youko (talking),"仕事済ませて由女の部屋へ行ったら、 明かりは落ちてるし、あなたは居ないし…
+今まで私、 本部の中を探し回ってたのよ？","I went to your room after work, but you weren`t there.
+ I`ve been searching for you all over, you know?"
+Yume (talking),探し回ってたって… 私に何か用事でもあったの？,You were searching for me? Did you need for for something?
+Komiya Youko (talking),"それは……
+ ……いえ、私の前に由女よ。 あなたこそ私の部屋の前で何してたの？","That`s...
+ …...No, you first. What are you doing in front of my room?"
+Yume (talking),……えっ、私？ あ、私は……だから…………… 別に、用事はないんだけど…,"What, me? I, um... so...
+ ...I don`t have any particular reason..."
+Komiya Youko (talking),何よ、歯切れ悪いのね。 隠し事？,You`re being pretty evasive. Are you hiding something?
+Yume (talking),"………………
+せめて、夜くらい……
+昼間は、仕事だし… 今は特に、大変なときだし…
+でも、せめて夜は…… 陽子さんも、本部に帰ってくるし…
+ ……その…
+一緒に、居られたらって… 居てあげられたら、って……","...
+ At least at night...
+ You have work during the day, and things are bad these days...
+ But at least at night... when you return to the HQ...
+ ...Um...
+ I want to be with you..."
+Komiya Youko (talking),由女……,Yume...
+Yume (talking),…………ごめん、陽子さん…,"I`m sorry, Youko-san..."
+Komiya Youko (talking),……何よ、別にそんな、 謝るようなことじゃないでしょうに…,"Please, that`s nothing to apologize for."
+Yume (talking),そう……だけど…,"Okay, but..."
+Komiya Youko (talking),"……もう。
+それなら、私の方だって 由女に謝らなきゃいけないのよ？","Geez...
+ In that case, I should be the one apologizing to you."
+Yume (talking),……えっ？,Huh?
+Komiya Youko (talking),"私が、あなたを探していた理由…
+あなたが私を待っていたのと 同じだから。","The reason why I was searching
+ for you... is the same as what made you wait for me here."
+Yume (talking),…………陽子さん……,...Youko-san...
+Komiya Youko (talking),さ、入って。 それとも、由女の部屋に行く？,"Now, come on in. Or would you prefer your room?"
+Yume (talking),あ……ううん、ここで…… ……ここがいい。,"Oh, no, here is fine... ...Your room is fine."
+Komiya Youko (talking),そう。じゃあ……,I see. Then...
+narrator,"──そうして、二人の時間が過ぎる。
+今日は何があった、明日はきっとこうだ、 そういえば昔──等々、 とりとめのない話が続いていた。
+それで、楽しかった。 陽子にしても由女にしても、それで充分だった。
+けれど、お互いに一番話したい事、 話さなければいけない事は、避け続けて──","Then, the two spent time together.
+ They rambled on and on about what had happened that day, what would happen the next day, and about the past.
+ It was enjoyable. That was enough for both Yume and Youko.
+ But both of them kept dodging the one topic they wanted to, and ought to, talk about the most--"
+Komiya Youko (talking),……あ… もう、こんな時間になってるのね。,Oh... It`s already this late.
+Yume (talking),えっ？ あ、うん……そうだね。,"Huh? Oh, yeah... you`re right."
+Komiya Youko (talking),……そろそろ、寝なくちゃね。 部屋まで送ろうか？,You should go to sleep soon. Want me to walk you to your room?
+Yume (talking),"あ、うん……
+ ……ねえ、陽子さん。 お願いがあるんだけど……","Okay...
+ ...Say, Youko-san. I have a favor to ask."
+Komiya Youko (talking),お願い？　何？,A favor? What is it?
+Yume (talking),…………泊まっちゃ、だめかな。 陽子さんの部屋に……,...Could I stay at your room tonight?
+Komiya Youko (talking),……泊まって、って……,Stay at my room...?
+Yume (talking),………………,...
+Komiya Youko (talking),"……別に、いいわよ。 女同士なんだし、ね。
+那古教が形になる前以来ね。 昔はよく、私の家や寧々の家で…","Sure, I don`t mind. We`re both women, after all.
+ You used to sleep in my or Nene`s houses a lot back before the Cult..."
+Yume (talking),"……女同士、か。 そうだよね……
+陽子さんにとっては… そうなんだよね……","...Both women, huh. That`s right...
+ So that`s how you see me, Youko-san..."
+Komiya Youko (talking),何……どういう、事？,What do you mean?
+Yume (talking),"…………お願い、陽子さん。 怒らないで聞いてね…
+私、寧々さんが居なくなってから、 いろいろ……考えたんだ。
+今まで、寧々さんがいなくなるなんて 夢にも思わなくて……
+でも、違うんだよね。 誰だって、いなくなる時は…… いなくなるんだよね。
+私だって…… 陽子さんだって……","...Youko-san, please hear me out without getting mad...
+ Now that Nene-san`s gone, I`ve been thinking about many things.
+ I`d never even thought that Nene-san would ever be gone...
+ But I was wrong. No matter who they may be, everyone goes away some day.
+ The same goes for me... and you as well, Youko-san."
+Komiya Youko (talking),……私は、居なくなったりしないわ。,...I`m not going anywhere.
+Yume (talking),"…………無理だよ。 どんなに言ってみても…
+戦時中、昨日笑ってた人が 今日はもう冷たくなってるって… たくさん、たくさん見てきたし……
+だから、 生きてる間は頑張らなきゃって、 今までも、私……
+自分なりに、頑張ってきたつもりで…
+今だって、寧々さんが居なくなった分、 もっと頑張らなきゃって思うし……","That`s impossible. No matter how much you say that...
+ I`ve seen so, so many people lose their smile overnight during the course of the war...
+ That`s why we have to do our best while we`re still alive. Even I...
+ ...tried to do so in my own way.
+ Even now, I feel like I should try harder now that we lost Nene-san."
+Komiya Youko (talking),………………,...
+Yume (talking),"でも……でもね、でも……
+仮に、陽子さんが 私の側から居なくなったら……
+ ……想像、できないんだ。 何も……
+寧々さんみたいに…… 陽子さんがある日突然帰ってこなくて…
+そんなの、考えるだけで…… 辛くて、泣きそうになって……","But... but...
+ If you were to leave my side, Youko-san...
+ ...I can`t even imagine it. Not a single thing...
+ If you, like Nene-san, were to never return one day...
+ Just thinking about it... is enough to make me cry..."
+Komiya Youko (talking),由女……,Yume...
+Yume (talking),"私、女だから…… 女のつもりだから、こんな筈ないって ずっと思ってて……
+陽子さんは、私の家族みたいなもので、 だから……そういう想いなんだって、 ずっと思ってて……
+でも、同じようにそう思ってた 寧々さんが居なくなって……
+絶対、違うって……気付いて……","I`m a woman, so... I`m supposed to be a woman, so I always thought this couldn`t be...
+ You`re like family to me, so I`ve always thought that was the case...
+ But I thought the same about Nene-san, and now that she`s gone...
+ I realized that I was wrong..."
+Komiya Youko (talking),………………,...
+Yume (talking),"……お願い、気持ち悪いと思う。 こんな話聞くの嫌だと思う。
+でも、今だけ…… もう少しだけ聞いてて……
+私、こんな……化物だから、 女じゃないから、だから……
+だから、こんな想い…… 陽子さんに……
+ ………………
+ごめん、陽子さん…… …………好きなの……
+どうしようもないんだ…… 側にいて欲しいの……
+ごめん…… ごめん、陽子さん……
+ ……ごめん……","...Please, I know this is disgusting. I know you don`t want to hear this.
+ But just for now... listen to me for a little longer...
+ I`m... a monster, not a woman, so...
+ These feelings I have for you, I...
+ ...
+ I`m sorry, Youko-san... ...I love you...
+ I can`t help myself... I want you at my side...
+ I`m sorry... I`m so sorry, Youko-san...
+ ...sorry..."
+Komiya Youko (talking),由女……,Yume...
+Yume (talking),………………,...
+Komiya Youko (talking),……寝衣、部屋に戻って取ってくる？ それとも、私のを……貸しましょうか。,"...Are you going to go get your pajamas, or should I lend you mine?"
+Yume (talking),え……っ？,Huh...?
+Komiya Youko (talking),"正直……私もね、 今は何時死ぬか解らないし…
+ ……もう、素直になるわ。 後悔なんて、したくないから。","To be honest, I also don`t know when I could die...
+ ...So I`m going to be honest. I don`t wanna have any regrets."
+Yume (talking),陽子……さん…,Youko-san...
+Komiya Youko (talking),"ありがとう、由女。 私なんかを、そんなに……
+ ……嬉しかった。","Thank you, Yume, for feeling that way about me.
+ ...It made me happy."
+narrator,"陽子が、由女の側に歩み寄る。 一歩ずつ、近付いていく。
+そして、どちらからともなく伸ばされた腕が絡み、 二人の距離が無になった。
+ ──躰だけでなく、心の距離も。
+寄り添った二人は、やがて、 無になった距離をさらに縮めていき──
+一つになろうと、互いを求め合った。","Youko walked to Yume`s side, one step at a time.
+ Then, they wrapped their arms around each other and completely closed their distance.
+ --Between their bodies, and between their hearts.
+ Before long, the duo, embracing each other, sought to close the distance even more--
+ --By wanting to become one."
+cg narrator,"──陽子の手が、舌が、由女の躰を這う。
+緊張する由女の躰を解きほぐすように、 反応を見ながら、あくまで優しく行為を進めていく。
+ ──由女の手が、舌が、陽子の躰を這う。
+どうすれば良いのか解らず、戸惑いながら、 それでも懸命に行為を続けていく。
+ 「……っ、ああ……ッ、んっ…… 　陽子さ……ん、っう……あ、や…………」
+ 「由女……うん、そこっ、ア……っ…… 　い……い、すごく……気持ち、いっ…………」
+二人の声が重なり、確実に高まっていく。
+性の技巧など二の次だった。 そんなものは二人に関係なかった。
+禁忌と思い、ずっと抑え続けてきた気持ちが、 堰を切ったように溢れ出し、 触れている場所から相手に流れ込んでいく。
+唇でも、指先でも──灼けるほどに熱かった。 抱き合うだけで気持ちよかったし、感じ合えた。
+ただ、陽子は一つだけ迷っていたのだが──
+ 「……ん、むく……っ、ちゅ……っ……」
+由女の秘裂を指でくじりつつ、 屹立したものを唇で愛撫していた陽子が、 ふいに行為を止めた。
+ 「……っ、あっ…… 　え、あ……？　陽子さ……」
+ 「ねえ、由女…… 　恥ずかしいと思うけど、一つだけ答えて…… 　……どっちが……いい？」
+ 「え……どっち、って……」
+ 「その……私と、こっちの、硬い方で……するのと、 　指とか、挿れて……してあげるのと……」
+由女の顔が、火でもついたように赤くなる。
+ 「え、えっと……私、その………………」
+しばらくの間、沈黙があった。 由女にとっては、即答できる事ではないから。
+ ──けれど、目を閉じ、顔を伏せて、 由女はようやく口を開く。
+ 「陽子、さんと……したい…………」
+陽子は微笑んで、解った、という答えの代わりに 由女の頬に軽く口付けた。
+そして、仰向けに寝かせた由女の腰をまたいで 屹立するものを手で導きながら──
+ ──陽子はゆっくりと、腰を沈めていった。","Youko`s hands and tongue ran across Yume`s body.
+ As if to put Yume`s nervous body at ease, Youko did so slowly, observing her reactions.
+ Yume`s hands and tongue ran across Youko`s body.
+ Hesitant and unsure of what to do, Yume nevertheless put her all into it.
+ 「...! aaaahn! mmmn! 　Youko-san...! hngh! mmmn... ahn...」
+ 「Yume... Yeah, there...! mmn! 　G-Good... that feels really good...!」
+ Their voices gradually became louder.
+ Their technique was an afterthought. It did not matter to them.
+ The emotions they`d been surpressing, thinking they were taboo, flowed out like a broken dam, conveyed to each other through their touches.
+ Their lips and fingers were hot enough to cause burns. Merely holding each other felt good.
+ However, Youko was unsure of one thing--
+ 「...mmmn, smmch... chlp...!」
+ While Youko caressed Yume`s erect member with her lips and fingered Yume`s pussy, she suddenly stopped.
+ 「...! ahn! 　Huh...? Youko-san?」
+ 「Hey, Yume... 　I know this might be embarrassing, but tell 　me... which do you prefer?」
+ 「Huh...? Which?」
+ 「Um... would you rather I focus on your 　hard thing, or put my fingers inside you...?」
+ Yume`s face reddened crimson.
+ 「U-Um, I, uh...」
+ Yume reamined silent for some time, for she couldn`t come up with an answer.
+ However, Yume eventually closed her eyes, cast her face downward, and answered--
+ 「I want to do it with you...」
+ Youko smiled, and replied with a gentle peck on Yume`s cheek.
+ Then, she got on top of Yume and, while guiding the erect member with her hand--
+ --Youko slowly sunk her hips."
+cg narrator,"「あ……っア…………あああっ…………！」
+由女のものが自分の中を進んでくる感覚に震え、 堪えきれずに陽子が声を上げた。
+そして、由女も。
+「あ、や……っ…………！」
+悦楽に息を呑み、呻いて、躰を強張らせる。
+いや、由女に限って言うなら、 その反応には一種の怯えが見てとれた。
+（陽子さんが……陽子さんが、私……私を…… 　や、やだ……呑み込んで……いく、っ…………）
+それは、 由女がかつて経験したことのない感覚だった。
+自分を包み込んでくる陽子の躰に隙間はなく、 それなのに狭くない。 ぴたりと合わさって優しく絡みついてくる。
+「や、な……何、なに……っ！？」
+陽子の躰がこうだとは知らなかった。 陽子にこんな面があるとは思わなかった。
+自分の知らない陽子が、 自分の弱い部分を呑み込んでいく──
+だから、身震いする。 声が上がる。
+「う、うあ……っ、ひっ…………！」
+──由女のものが、その付け根まで完全に 陽子の中に収まった。
+陽子の中に、溶けていくようだった。
+少なくとも由女は、痛いほどに張り詰めていた 自分の先端が消え失せたように感じていた。
+──なのに。
+自分のものの感覚が消えているのに、 暖かさと気持ちよさだけが 繋がっている場所から止めどなく流れ込む。
+「や、な……何、な…… 　ああ、あ……ああああっ…………！」
+由女は、自分でも解った。 女の部分までもが、悦楽に反応し始めた。
+まるで別の生き物のように、 淫らな蜜を吐き出し、ひくひくと蠢いている。
+──狂いそうなほど、悦楽が増していく。 熱い塊になって、背筋を這い上がってくる。
+「や、やっ……や……ふあ……あ……！ 　陽子、陽子さ…………！」
+由女は心細くなって、陽子を求めて名を呼ぶ。 自分に覆い被さる躰にしがみつく。
+「ゆ、め……由女…… 　お願い、一つ……お願いがあるの……」
+しがみついた由女の耳元で、陽子がぽつりと呟いた。
+その声は弱々しく、 荒い息づかいの中に埋もれそうなほど微かだった。
+「……よ、うこ……さん……？」
+「ご、めん……私、力……入らなくて……」
+由女は、陽子に言われて初めて気付いた。
+自分の腰をまたぐ陽子の両の腿が、 躰を支えきれずに震えていることに──
+「ごめん……恥ずかしい、けど、私…… 　力、入らなくて……」
+「あ……」
+由女は、自分を犯す未知の感覚に怯えて、 それで陽子にすがりついたのに──
+陽子の躰は、自分以上に震えていた。 陽子の声は、自分以上に細かった。
+それで、思い至った。
+自分にもある、女の部分。 柔らかくて、敏感で、弱い場所。
+そこに今──自分の、硬くなったものがある。
+陽子の敏感な場所が、 自分のあんなものに貫かれている──
+（私だけじゃ、ないの………？）
+──自分だけが、 怯えている訳にはいかなかった。
+「全部、してあげたかったんだけど…… 　お願い、由女……動いて……… 　私も、動くから……」
+「で、でも……でも、私……」
+「お願い、もっと由女を感じていたいから…… 　もっと由女に感じて欲しいから……」
+言って、陽子が静かに動き始める。
+「……あ……っ……」
+甘い痺れが、 由女の躰に波を打ちながら広がっていく。
+じっとしては、いられなかった。
+「ふぁ……あ……！　ああっ…………！」
+由女が動き始めて、
+それと同時に陽子の声が上がる。
+「由女……あ、いっ……っは……」
+切なそうな声。 けれど、自分を求めてくれている声。
+それに応えたくて、由女は精一杯動く。
+「あ……や、陽子、さ……あああッ……！ 　っ、う……うあっ……あァ、っん…………！」
+全身に広がっていく悦楽に、 由女の口からも止めどなく喘ぎが漏れる。
+　　［……ちゅ、くちゅ、くちゃ……］
+腰をつかう度、淫水が立てる重い水音が耳に届く。 ──淫猥なその響きが、耳を犯す。
+怖かった。 自分がどうにかなりそうで怖かった。
+けれど、由女はもう怯えてはいなかった。
+今、自分と肌を重ねているのは、 ずっと好きだったひとだから。
+だから、怯えてはいられない。
+どうにかなりそうなら、なればいい。 ──乱れてしまえばいい。
+好きな人とこうしていて、 どうにかならない方がおかしいのだから──
+「う、あ……ああっ、やは……ああっ……！ 　やあ、あ…………っあ……アっ……！」
+「ひあ……っああああっ……！ 　ああ……っ、うぅ……っく……い……！！」
+二人の声が、だんだん高くなっていく。
+個々の動きは決して激しくはなかったが、
+相手を思い合って続ける行為は、 確実に互いを頂点へと導いていった。
+「よ、うこ、さん……も、う、だめ…… 　ち、ちから……はいらな────っ…… 　……い、く……も、私……っ……！！」
+「……い……いの……ゆ、め、わたし……も、 　…………っ、あ……ああっ……あ……！ 　お、ねが……いっ、しょに……っ────！」
+「…………っ、あ……………………！」
+「…………ふ、ぁ……………………！」
+──二人が、同時に達する。
+　　［……びゅく、びゅ──っ、どく……］
+陽子の中に、由女が精を放つ。 躰を強張らせ、背を反り、やがて──脱力する。
+そして陽子も、胎の奥を叩く迸りに 背筋を震わせて──静かに、身体を横たえる。","「Ahn... aaaaaaaahn!」
+ Shaking from the sensation of Yume`s thing going inside her, Youko moaned.
+ And so did Yume.
+ 「Ahn! yaaaahn!」
+ They swallowed their breath, moaned, and tensed up.
+ And at least as far as Yume was concerned, there was a modicum of fear mixed in as well.
+ （Y-Youko-san took in my... 　my thing... no way... mmmn!）
+ That was something Yume had never experienced before.
+ Youko enveloped her thing perfectly, but also without tightening too much. It was a perfect fit.
+ 「No... wh-what...?!」
+ She didn`t know Youko`s body was like this. She never thought Youko could be like this.
+ That unknown Youko was now taking in her weak spot--
+ Which made her body tremble, and her voice turn into moans.
+ 「Hnngh, aaaahn... mmmmn!」
+ Youko took in Yume`s thing all the way to the base.
+ Yume felt like she was melting inside Youko.
+ At the very least, she felt like her painfully hard thing was about to disappear.
+ And yet--
+ Even though she was losing all feeling in her thing, she could still feel the warmth and the pleasure flowing into her from it.
+ 「No, wh-what is...? 　aaahn! ahn, aaaaaaaaaahn!」
+ Even Yume herself could understand. Her female parts, too, began to react.
+ As if it was a different being, it began twitching and secreting lewd juices.
+ Her pleasure rose to a maddening degree, becoming a hot feeling that ran through her spine.
+ 「No, nooo! fwaaaahn! 　Y-Youko-san...!」
+ Yume felt helpless and cried out to Youko. She clung to the body on top of her.
+ 「Yume... Yume... 　I have... a favor to ask...」
+ Youko whispered in Yume`s ear.
+ Her voice was weak, and so faint that it was nearly drowned out by her rough breath.
+ 「Youko... san...?」
+ 「S-Sorry, I can`t... use any strength...」
+ When she was told that, Yume finally realized--
+ That Youko`s thighs on top of her were trembling, unable to support her.
+ 「Sorry... It`s embarrassing, but I... 　I don`t have any strength...」
+ 「Ah...」
+ Fearing the unknown sensation assaulting her, Yume had clung to Youko, and yet--
+ Youko was shaking more than her. Youko`s voice was more feeble than hers.
+ That`s when she realized it.
+ The female parts that she also had. That soft, sensitive, weak place.
+ Right now, her hard thing was inside it.
+ Her own thing was piercing Youko`s sensitive place.
+ （It`s not just me...?）
+ There was no way she was the only one scared.
+ 「I wanted to do everything, but... 　Please move, Yume... 　I`ll do it as well...」
+ 「B-But... but I...」
+ 「I want to feel more of you, Yume... 　I want you to feel more of me...」
+ With that, Youko began moving in silence.
+ 「Ahn...!」
+ The sweet numbness spread waves of pleasure throughout Yume.
+ She could not remain still.
+ 「Fwaaaahn! aaaahn...!」
+ Yume began moving.
+ At the same time, Youko`s voice grew louder.
+ 「Yume... ahn! mmmm!」
+ Her voice seemed pained, yet she still sought Yume.
+ In response, Yume moved as best as she could.
+ 「Ahn! Y-Youko-san... aaaahn! 　mmn, aaaaahn! aaaahn...!」
+ The pleasure spreading throughout her body made Yume unable to stop moaning.
+ 　　［*Slllsh* *slllsh* *schk*］
+ A lewd, wet noise was heard with every thrust. It assaulted their ears.
+ It was scary. Yume did not know what was becoming of her.
+ And yet Yume wasn`t scared.
+ Because she was joining with the person she loved.
+ As such, there was no place for fear.
+ Everything else was inconsequential. Let them fall into depravity.
+ It would be stranger if nothing happened when doing such a thing with one`s beloved.
+ 「hngh, ahn, aaaahn! aaaaaaahn! 　No! ahn! aaaaaaaaaahn!」
+ 「Hyaaaaahn! 　aaahn! hnnngh! kh...!」
+ Their voices grew louder.
+ Neither of their movements were rough,
+ yet the act of mutual love still inched them closer to climax.
+ 「Y-Youko... san... I can`t... I`m... 　I`m going weak... aaaahn! 　I`m... going to cum...!」
+ 「It`s... fine, Yume... I`m also... 　aaaahn! ahn, ahn, aaaahn! 　Please... let`s cum together...!」
+ 「...AAAAAHN...!」
+ 「...FWAAAAAAAAHN!」
+ The two climaxed at the same time.
+ 　　［*splrt* *splrt*］
+ Yume shot her seed inside Youko. Her body tensed up, arched, then finally fell limp.
+ Youko, too, silently laid down after shaking from the sensation hitting against her womb."
+cg narrator,二人は、そのままで──寄り添ったままで、 安らぐ温みの中で眠りに落ちていった。,"The two of them drifted into a peaceful, warm slumber while embracing each other."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+narrator,そして──翌朝。,The next morning.
+Komiya Youko (talking),じゃあ……行ってくるわ。,I`ll be going now.
+Yume (talking),……うん。,...Okay.
+Komiya Youko (talking),"………… 必ず、帰ってくるから。
+明日も、明後日も……ずっと。
+もう、由女を一人にはしないから。","... I`m definitely coming back.
+ Today and forever in the future.
+ I`ll never let you be alone again."
+Yume (talking),うん。 ……信じてる。,Okay. ...I believe in you.
+Komiya Youko (talking),…………行ってきます。,...I`m going.
+Yume (talking),………… 信じてるから……,"... I believe in you, so..."
+Yume (talking),"ええと…… あとはむこうの通りを一軒一軒回れば 巡回は終了、と。
+陽子さん、それでいいんだよね？","Let`s see... I just have to to go house to house in that street and I`ll be done with my patrol.
+ That`s right, isn`t it, Youko-san?"
+Komiya Youko (talking),……………………あ…… ごめん由女、聞いてなかった……,"...Oh... Sorry, I wasn`t listening..."
+Yume (talking),もう……仕事中なのに。 ぼんやりしてたら悪司さんに怒られるよ？,"Geez, we`re in the middle of work. Akuji-san`ll get mad if you space out."
+Komiya Youko (talking),"…………山本悪司、か。
+ねえ、由女…… あの男、どういうつもりなのかしらね。","...Yamamoto Akuji, huh.
+ Say, Yume... I wonder what he`s planning."
+Yume (talking),？　どういうつもり……って？,? What do you mean?
+Komiya Youko (talking),"仮にも、元は敵だった者を… しかも由女と私を、こうして 一緒に働かせる神経が解らないのよ。
+私たち、 那古教のトップと幹部だったのよ？
+もし私が悪司なら、 こんなこと絶対にしないわ。","I don`t get how he can have the nerve to let his former enemies, particularly you and me, work together.
+ We were the top echelon of the Nako Cult, you know?
+ If I were Akuji, I`d never let this happen."
+Yume (talking),…………えーと…… ごめん、何言ってるかよく解んない…,"Um... Sorry, I don`t really get what you`re saying."
+Komiya Youko (talking),"たとえばね、私なり由女なりが 元信者たちに声をかければ それなりの組織はすぐ作れるわ。
+しかも今だって、 私たちは見張りもなしで……
+これじゃあ、私たちに 手を組んで裏切れって 言ってるようなものじゃない。
+何か、裏でもありそうで… 気味悪くない？","For example, if one of us were to start talking to former believers, we could form another Cult quickly.
+ Especially now, since we don`t have anyone keeping tabs on us...
+ Isn`t he basically asking for us to join forces and betray him?
+ It`s like he`s planning something. Doesn`t that feel weird?"
+Yume (talking),どうかなあ…… 別に裏なんてないと思うけど……,I wonder... I don`t think that`s the case.
+Komiya Youko (talking),どうして？,How come?
+Yume (talking),"どうして、って……
+ ……なんとなく。","Even if you ask me...
+ ...It`s the feeling I get."
+Komiya Youko (talking),何よそれ…… あの男を信用してるみたいな言い方ね。,What the hell...? You talk as if you trust that man.
+Yume (talking),"べっ、別にそんな、 信用なんて……してないよ。
+でも今、プライベートとかで 陽子さんと会ったりするのは 完全に許してもらってるし……
+そういう意味では、 信用って言うか……感謝くらいは しててもいいんじゃないかな……
+陽子さんも言ったけど、 私たち、悪司さんの敵だったんだし…","I-I don`t really... trust him.
+ But he`s completely fine with us meeting in private now, so...
+ In that sense, rather than trust him... I feel like I should be thankful.
+ You said it yourself. We were his enemies, and yet..."
+Komiya Youko (talking),"…………
+度量が広いのか、何も考えてないのか… どっちなのかしらね。","...
+ Is he scheming something, or just generous...?"
+Yume (talking),……ねえ、陽子さん。 今、待遇とか……不満あるの？,"...Say, are you unsatisfied with how you`re being treated?"
+Komiya Youko (talking),えっ？ いいえ、別にないけれど。,"Huh? No, not really."
+Yume (talking),なら、いいじゃない。 変に疑うと、きりがないし……,"Then it`s fine, isn`t it? We can`t keep doubting everything."
+Komiya Youko (talking),………………そう、ね。 それは、由女の言う通りね。,...You`re right. It`s as you say.
+Yume (talking),"あと……話、変わるんだけど。
+陽子さんのとこに、今夜… 遊びにいっても、いい？","Also, to change the subject.
+ Can I... go play at your room tonight?"
+Komiya Youko (talking),……訊く必要あるの？ いつでも勝手に遊びに来ていいのよ。,...Do you even need to ask? You can come whenever you want.
+__system__??,{☆那古Ｂ \ 2:,{☆那古Ｂ \ 2:
+Komiya Youko (talking),由女が来てくれるの、 私だって嬉しいんだから……,"I`m always happy to have you, Yume."
+Yume (talking),……うんっ。,...Okay!
+__system__??,},}
+__system__??,{☆那古Ｂ = 2:,{☆那古Ｂ = 2:
+Yume (talking),それとも、いっそ……一緒に住む？ 昔みたいに。,"Or maybe... we should live together, just like in the past?"
+Yume (talking),えっ……？ いいの？　ほんとに？,Huh?! Is that okay? Really?
+Komiya Youko (talking),いいも何も、由女が嫌じゃなければね。 今は、その方が自然かもしれないし…,"Of course, as long as you want to. It might even feel nicer that way."
+Yume (talking),"あ…………
+う……うん、そうだね………","Ah...
+ Y-Yeah, you`re right."
+Komiya Youko (talking),…………何よ由女、 別に、照れることじゃ……,"...Come on, Yume, that`s nothing to be embarrassed about."
+Yume (talking),てっ、照れてないってばっ。,I-I`m not embarrassed!
+__system__??,},}
+narrator,地域の巡回中、古宮陽子と由女が 冷えたラムネを片手に小休止をとっていた。,"During their patrol, Youko and Yume took a short break and drank some cool ramune."
+Yume (talking),"……街の復興って、 思ったより進んでるんだね。
+私……那古教に居た時は、 本部からほとんど動かなかったから 解らなかったけど……","The town`s recovering faster than I`d expected.
+ When I was in the Nako Cult, I barely ever left the HQ, so I wasn`t able to tell..."
+Komiya Youko (talking),"ああ……そうね、 一時期に比べたら、随分と。
+でも、どうして突然そんな事を？","Yeah, you`re right. It`s a lot better than before.
+ But why bring that up now?"
+Yume (talking),"最近、仕事の巡回で 陽子さんとよく街を歩くでしょ？
+それで、那古教の発足前を 思い出してたんだ。
+ほら、あの頃はこんな風に ラムネなんて売ってなかったし…","I`ve been walking around town with you a lot for work recently, right?
+ That made me remember the times before we started the Cult.
+ I mean, we couldn`t even buy ramune like this back then..."
+Komiya Youko (talking),"ああ…… ラムネどころじゃなかったものね。 食べ物だって全然なかったし。
+まあ、寧々が闇市でうまく手にいれて くれてたから、飢えずには済んだけど…","Yeah... and not just ramune. We could barely afford food, too.
+ Though we never went hungry since Nene knew the black market."
+__system__??,{(☆那古Ｂ \ 2) * (☆那古Ｂ \ 12):,{(☆那古Ｂ \ 2) * (☆那古Ｂ \ 12):
+Yume (talking),そうだね……寧々さんや遙さんも 無事ならよかったのに……,You`re right... I hope Nene-san and Haruka-san are okay as well...
+__system__??,},}
+__system__??,{☆那古Ｂ = 2:,{☆那古Ｂ = 2:
+Yume (talking),そうだね……寧々さんや遙さんも 無事ならよかったのに……,You`re right... I hope Nene-san and Haruka-san are okay as well...
+__system__??,},}
+__system__??,{☆那古Ｂ = 12:,{☆那古Ｂ = 12:
+Yume (talking),………あ、うん…… 寧々さん、ね……,"...Oh, right... Nene-san..."
+Komiya Youko (talking),……？　由女？,...? Yume?
+Yume (talking),"あ……何でもないよ。 忘れたいことまで、思い出して…
+ ……お願い、気にしないで。","Oh, it`s nothing. I remembered something I didn`t want to...
+ ...Please don`t worry about it."
+Komiya Youko (talking),ええ、別に気にはしないけど… 私の知らない事で、寧々と何かあったの？,I wasn`t really worried... Did something happen with you and Nene?
+Yume (talking),……………… 何も、ないよ……,... No...
+Komiya Youko (talking),……そう。,...I see.
+Yume (talking),………………,...
+__system__??,},}
+Komiya Youko (talking),"でも、寧々が居ないのも仕方ないのよね。 遙だってそうだけど……
+山本悪司もきっと同じだろうけど、 抗争中は相手への殺意が確かにあったし…
+それを考えたら、 由女と私が無事だっただけで、 奇跡みたいなものですからね。","But we can`t do anything about Nene being gone. Same goes for Haruka...
+ I`m sure Akuji wanted us dead as much as we did for him during the war.
+ So with that in mind, even just the two of us making out of that alive is a miracle."
+Yume (talking),そう……だね。,Yeah... you`re right.
+Komiya Youko (talking),"私だって、由女が無事だって 聞かされてなかったら、きっと……
+その、あの男と……そう、取引。 取引さえしてなければ、 多分、こんなところには……","If I hadn`t been told that you were safe, I...
+ I wouldn`t have made a deal with him, and thus I wouldn`t be here now, most likely..."
+Yume (talking),"えっ……？ 陽子さん、取引って……
+ ……ま、さか……まさか、 まさか陽子さんも、悪司さんと……","Huh?! A deal...?
+ N-No way... Youko-san, don`t tell me you also did it with him...?"
+Komiya Youko (talking),えっ……？,What?!
+Yume (talking),"そんな、そんなっ……！ 私だけだと、思ってたのに……
+そんな、陽子さんまで……！","This can`t be...! I thought I was the only one...
+ He did that to you too...!"
+Komiya Youko (talking),……………… 由女、まさかあの男と……,"... Yume, did you do it with him...?"
+Yume (talking),"………………
+私、最初は…… 最初は、無理矢理……
+でも、みんなの消息、 どうしても知りたくて……
+ごめん……陽子さん、ごめん…… 騙すつもりはなかったけど、でも……
+言え……なくて……","...
+ At first... it was by force...
+ But I wanted to know what`d happened to everyone...
+ I`m sorry... I`m so sorry... I didn`t want to deceive you...
+ But I just... couldn`t say it..."
+Komiya Youko (talking),"………………
+何が……何が無事を保証する、だ…… あの外道っ……！","...
+ That bastard! What part of this is supposed to keep Yume safe?!"
+Chinpira (talking),あの……若、いいですかい？,Um... do you have a moment?
+Yamamoto Akuji (talking),どーした、なんかあったのか？,"What, did something happen?"
+Chinpira (talking),古宮陽子さんと由女さんですがね、 今日、まだ来てないんすよ、朝から。,It`s about Komiya-san and Yume-san. They haven`t been seen since morning.
+Yamamoto Akuji (talking),"……あのな。 んなもんわざわざ俺に言う事か。
+どうせ寝坊でもしてんだろ。 それともズル休みとかよ。","...Look, is this something ya need to come tell me?
+ I bet they just overslept, or are playing hooky."
+Chinpira (talking),"いや、それが今日だけじゃなくて、 昨日もなんスよ。
+それでさっき、二人が今住んでる 詰所の自室まで行ってみたんスけど……","Thing is, I meant since last morning...
+ I even went and checked their rooms just now, but..."
+Yamamoto Akuji (talking),居ねぇのか？,They ain`t there either?
+Chinpira (talking),へい。 部屋の荷物もスッカラカンで。,"Nope. They also packed their bags, `cause their rooms were empty."
+Yamamoto Akuji (talking),"………………
+やべえ。","...
+ Fuck."
+Chinpira (talking),はい？,What?
+Yamamoto Akuji (talking),"おい、今すぐ子分どもをかき集めろ。 街中探し回って二人を見つけてこい。
+引っ越し屋で手がかりがなければ 元那古教のシマだったあたりを 虱潰しに当たれ。
+あの二人が頼るとなりゃあ、 昔の組織しか無いはずだ。","Hey, gather your men ASAP and go search for those two in the town.
+ If you can removalists, search in the former Nako turf with a fine-tooth comb.
+ Their old group are the only ones they can still rely on."
+Chinpira (talking),まさか、あの二人っ…… 断りもなくこの組抜けたんですかい！？,No way... did those two leave the group without any notice?!
+Yamamoto Akuji (talking),"抜けさせる訳にいくか、バカ。 だから捕まえろって言うんだよ。
+ほれ急げ、手遅れになる前によ。","We ain`t gonna let them, moron, which is why you`ll search for them.
+ Hurry up, before it`s too late."
+Chinpira (talking),へっ、へいっ！,G-Got it!
+Yamamoto Akuji (talking),"ちっ、二人一緒にしたまま 放っておきすぎたって事か……
+捕まりゃいいんだが、 んー、捕まえたとして……
+ ……どうオトシマエつけてやろうかね。","Tch, guess I shouldn`t have left them together unchecked for so long.
+ It`ll be fine if we catch them. And assuming we do...
+ ...How should I settle this?"
+narrator,──由女と陽子は、 那古教の元出家信者の家に身を隠していた。,Yume and Youko were hiding at a former ordained believer`s house.
+Komiya Youko (talking),……どうだ、街の状況は。,...How`s the town looking?
+nakokyou  onna (talking),"…………陽子様、もう大丈夫です。 追っ手がかかる心配はないでしょう。
+奉仕青年団の動きが鈍かったお陰で、 昔、寧々様の下で働いていた者たちと 連絡が取れましたから……
+完璧に安全な逃走路が用意できました。 ご安心下さい。","It`s alright now, Youko-sama. You need not worry about pursuers.
+ For the YCSG`s movements have gotten slower, thanks to the contacts I`d built while working for Nene-sama.
+ We`ve secured a perfect escape route, so be at ease."
+Komiya Youko (talking),"寧々の……
+ …………本当にすまない。 世話になった。","Nene...
+ ...I`m truly thankful for all you`ve done for us."
+nakokyou  onna (talking),"何を仰います。 我々信徒は、聖女様や那古神様に 返しきれない恩を受けた身です。
+むしろ、声をかけて頂けること…… お待ちしておりました。","Please, we faithful are eternally indebted to The Nako Goddess and you, Lady Saint.
+ In fact, we have been waiting for you to contact us."
+Komiya Youko (talking),…………ありがとう、本当に……,"Thank you, truly..."
+nakokyou  onna (talking),では、私はこれで…… お二人のご無事、お祈りしております。,This is all I can do for you. I shall pray for your safety.
+Komiya Youko (talking),……………… 由女、出てきていいわよ。,"... You can come out, Yume."
+Yume (talking),"……うん。 よっこいしょ……っと。
+結局、元那古教の人たちに すっかり助けられちゃったね……","...Okay. There we go...
+ In the end, the former faithful really helped us out, huh...?"
+Komiya Youko (talking),……？,...?
+Yume (talking),だってみんな、 今はそれぞれの生活があって、 毎日大変だと思うし……,"I mean, I`m sure everyone is busy thrying to live their own lives..."
+Komiya Youko (talking),"くすっ……優しいんだから。
+由女がみんなにかけた情けが、 形になって返ってきただけよ。 今は、素直に感謝しましょう。","Hahaha, it`s because you`re kind.
+ They simply gave back all the mercy you had shown them. We ought to be grateful."
+Yume (talking),"……うん。
+ねえ、陽子さん…… 何もかも棄てて逃げて、 私たち、幸せになれるのかな……","...Okay.
+ Say, Youko-san... Can we become happy by discarding everything and running away...?"
+Komiya Youko (talking),……さあ、 やってみなくちゃ判らないわ。,"...I don`t know, but we can only find out if we try."
+Yume (talking),やってみなくちゃ、って……,Only if we try...?
+Komiya Youko (talking),"大丈夫よ、きっと。
+少なくとも私は、 由女さえ側に居てくれたら、 少しくらい辛くても平気だけど。","I`m sure we`ll be alright.
+ At the very least, as long as you`re with me, I`ll be fine even if things get a bit harsh."
+Yume (talking),"あ……そ、そんなの、私だって……
+ ………………
+そうだよね…… 精一杯生きなきゃ駄目だよね。 遙さんや、寧々さんの分まで……","Ah... Th-The same goes for me...
+ ...
+ You`re right... we have to live our lives to the fullest. For Nene-san and Haruka-san, too."
+Komiya Youko (talking),……ええ。,...Yeah.
+narrator,──そして二人は、オオサカから姿を消した。,"Thus, the two of them disappeared from Osaka."
+narrator,由女はそのころ、中部山地の 小さな村に身を隠していた。,"At that time, Yume was hiding in a small village in the Chuubu region."
+Yume (talking),えーっと………… 一つ繰り上がって、そこから引いて……,"Let`s see... This goes up by one, then I subtract one here..."
+Komiya Youko (talking),"……ただいま、由女。 川下の人に野菜分けて貰っ……
+ …………？ 何してるの、算盤なんか弾いて。","...I`m back, Yume. The people downstream gave us some vege-
+ ...? What are you using that abacus for?"
+Yume (talking),あ、おかえりなさいっ。 逃げてくる時に信者さんから貰った お金の余りを計算してたんだ。,"Ah, welcome back! I`m calculating how much of the money the former faithful gave us we have left."
+Komiya Youko (talking),……何のために？ まだかなり余裕あるんじゃないの？,But why? Don`t we still have quite a bit left?
+Yume (talking),うん、これ元手にして、 小さな民宿とか作れないかなって。,"Yeah, so I was wondering if we could use it to build a guest house."
+Komiya Youko (talking),民宿？,A guest house?
+Yume (talking),"この村、登山の人とか時々来るでしょ？ それで思いついて。
+どうせもう、オオサカに住んでた時の 私たちを知ってる人なんて居ないし。
+少しでも人のためになるような事、 なにかできたらいいなーって。","Mountain climbers come to this village sometimes, right?
+ I doubt any of them know us from when we lived in Osaka, either.
+ So I`d like to do something, anything, to help other people."
+Komiya Youko (talking),………………,...
+Yume (talking),"あ……考えてただけだから、 別にその、ホントにしたい訳じゃ……
+ ………………やっぱり、反対……？","Oh, but it`s just a thought, we don`t HAVE to do it...
+ ...Are you against it...?"
+Komiya Youko (talking),くすっ、別にいいわよ。 いい加減、こそこそ生活するのにも 飽きてきたしね。,"Hahah, I`m fine with it. I`ve gotten tired of living in secrecy anyway."
+Yume (talking),……さっすが陽子さん、話解る~！ じゃあね、これ見てこれこれ、 こっちが小屋の改造プランで……,"I knew you`d understand! Then take a look, this is the plan for remodeling the shed..."
+Komiya Youko (talking),"………… すっかりやる気なんじゃない……
+まあ、時間はあるものね。 ふたりで色々、考えていきましょうか。 これからの生き方とか……ね。","... You`re raring to go, huh?
+ Well, we have time. Let`s think of how we`re gonna live from now on."
+Yume (talking),……でね、こっち調理場に取ったら 自家製のお味噌とか作れないかな~とか 思っちゃったりして、それでね……,"...So here I thought of setting up a kitchen, and we could have our own homemade miso, and then..."
+Komiya Youko (talking),ふふ……はいはい、 ほんとにもう…………,Fufufu... There`s really no changing you.
+narrator,──由女と陽子は、 那古教の元出家信者の家に身を隠していた。,Yume and Youko were hiding at a former ordained believer`s house.
+nakokyou  onna (talking),さ、聖女様、これを…… 元信者に声をかけて集めたものです。,"Here, Lady Saint... This is what I got from our former members."
+Komiya Youko (talking),重いな…… この封筒の中身、幾らあるんだ？,It`s heavy... How much is in this envelope?
+nakokyou  onna (talking),"数えてはいませんが、 おそらく数百万は……
+僻地で身を隠すにしろ、 ウィミィの信者を頼るにしろ、 これだけあれば充分かと……","I haven`t counted, but probably a few hundred thousand yen.
+ This much should be enough to let you hide out in a remote place and rely on the Wimenese faithful."
+Komiya Youko (talking),……すまない、世話になった。,Thanks for all the help.
+nakokyou  onna (talking),"何を仰います。 我々信徒は、聖女様や那古神様に 返しきれない恩を受けた身です。
+むしろ、声をかけて頂けること…… お待ちしておりました。","Please, we faithful are eternally indebted to The Nako Goddess and you, Lady Saint.
+ In fact, we have been waiting for you to contact us."
+Komiya Youko (talking),…………ありがとう、本当に……,"Thank you, truly..."
+nakokyou  onna (talking),では、私はこれで…… お二人のご無事、お祈りしております。,This is all I can do for you. I shall pray for your safety.
+Komiya Youko (talking),……………… 由女、出てきていいわよ。,"... You can come out, Yume."
+Yume (talking),"ねえ、陽子さん…… こんな事頼んで、本当によかったの…？
+確かにもう、私も陽子さんも、 悪司さ……悪司のところには 居たくないけど……
+元信者のみんなだって、 今はそれぞれ生活もあるのに……","Youko-san, is it really alright for us to rely on them so much?
+ Sure, neither of us want to stay at Akuji-sa... Akuji`s place, but...
+ The former believers all have their own lives to worry about."
+Komiya Youko (talking),"…由女がみんなにかけた情けが、 形になって返ってきただけよ。
+今は、素直に感謝しましょう。","They simply gave back all the mercy you had shown them.
+ We ought to be grateful."
+Yume (talking),…………うん。,...Okay.
+Komiya Youko (talking),さ、行くわよ。 今夜中にミヤコへ抜けないと……,"Now, let`s go. We have to reach the capitol tonight."
+narrator,"そして二人は、 夜の闇に紛れて隠れ家の外へ出た。
+昼間ですら滅多に人の通らぬ小道を、 息を殺して進み続ける。
+ ──だが。","With that, the two of them left the house under the shroud of the night.
+ They quietly went down a path that`s usually deserted even during the day.
+ --However."
+Komiya Youko (talking),…………？　誰かいる……,...? Someone`s here...
+Yamamoto Akuji (talking),おう、居るとも。,"Hah, there you are."
+Komiya Youko (talking),なっ……山本悪司！,Wha- Yamamoto Akuji?!
+Yamamoto Akuji (talking),悪いが通せんぼさせて貰うぜ。 逃がす訳にゃいかないんでな。,"Sorry, but you ain`t going anywhere. I`m not letting you escape."
+Yume (talking),ど、どうしてここにっ……,H-How did you-
+Yamamoto Akuji (talking),裏切りモン相手に 説明する必要はねーな。,I ain`t saying jack shit to a traitor.
+Yume (talking),"……悪司さん、お願いです。 もう私たちをそっとしておいて……！
+私たち、悪司さんに迷惑かけません。 もうオオサカにも帰ってきませんから…
+私たち、何も喋りませんっ…… 約束しますからっ……！","...Please, Akuji-san, just let us be!
+ We won`t cause you any trouble. We won`t even return to Osaka.
+ We won`t say anything, I promise!"
+Yamamoto Akuji (talking),わりぃが信用できねえ。 他の連中にも示しがつかんし。,"Sorry, but I can`t trust you, and it`d set a bad pracedent."
+Komiya Youko (talking),……くそっ…………！,Fuck...!
+Yamamoto Akuji (talking),"はー、槍を構えるってか。
+やめとけ、古宮。 俺が一人で来てると思うか？
+今からどこに逃げるか知らんが、 そこいらじゅうの手下全部、 斃して、逃げて……
+ ……んで、このシキナから出られたら 許してやらんこともないけどよ。
+まあ、それ以前に 俺はおめーに絶対負けねぇけど。","Hah, you`re resisting?
+ Give it up, Komiya. You think I came here alone?
+ I MIGHT let you go if you can kill or get past all my men around here...
+ ...and leave Shikina, but I doubt you can.
+ Well, you`d have to beat me first, and that`s already not happening."
+Komiya Youko (talking),"…………っ……
+ ……お願い、 私はどうなってもいいから……
+お願い、由女だけは……お願い……","...!
+ ...I beg of you, I don`t care what happens to me...
+ ...But please, spare Yume..."
+Yamamoto Akuji (talking),"…………
+おめー、よっぽど教祖……というか、 由女が大事なんだなー。
+だが駄目だ。","...
+ You really tresure your guru-  Yume, don`t ya?
+ But that`s a negative."
+Komiya Youko (talking),………………,...
+Yamamoto Akuji (talking),諦めろ。,Give it up.
+narrator,──言うと、悪司の背後から数人の部下が現れ、 失意に項垂れる二人を捕え、手足を縛り始めた。,"With that, several of Akuji`s men appeared behind him and captured the crestfallen fugitives."
+Yamamoto Akuji (thinking),"さて……捕まえたはいいが、 どうしたもんかね、この二人……
+また部下にする訳にゃいかんし、 だからって殺すのもなぁ。
+…………おお、すげえ。 ちょっとだけ同情してんな、俺。
+うーん、困った。 困ったぞー。","Okay, I captured them, so now what should I do...
+ Can`t make `em my subordinates again, so guess I`ll kill them.
+ ...Damn, show a little compassion, me.
+ Hmmm, this is a real pickle."
+narrator,──数日後、青年団本部。,"A few days later, at the YCSG HQ."
+Henry Ru (talking),アロハ・フジヤーマ。 アクジはいらっしゃいマスかー？,Aloha Fujiyama! Is Akuji here?
+Yamamoto Akuji (talking),何だよ、ヘンリーじゃねぇか。 どうかしたか？,If it isn`t Henry. What brings ya here?
+Henry Ru (talking),"はいハーイ、今日はデすネ、 アナタにお礼言いにきまシタ。
+先日買っタ二人の牝奴隷、最高ネ！ レズでフタナーリ、もうベリグー！
+アレでたった二億エン、やっすイねー。 早速、クニに連れて帰りマース。","Yes yes, I`m here to offer you my gratitude today.
+ The slaves you sold me are great! A lesbian and a dickgirl, very good!
+ 200M yen was a cheap price to pay! I`ll take them back to country ASAP."
+Yamamoto Akuji (talking),そうか、そりゃよかった。 こっちこそおめーに買ってもらえて 大助かりだぜ。,"Glad to hear it. I`m real thankful you took them off my hands, too."
+Henry Ru (talking),とにカクー、今日はお礼だけネー。 ワタシ今日は忙シーので、これデ。,"Anyway, that`s all I had to say. I`m a busy man, so I must go."
+Yamamoto Akuji (talking),"おっと、ちょい待ちヘンリー。
+あの二人を買ってった時の約束、 ちゃんと守ってくれてるか？","Oh, wait a sec, Henry.
+ You gonna keep your promise from when you bought them?"
+Henry Ru (talking),"どっちモ傷つけナイって事ですネー？ 守ってマース、守ってマース。
+実はワターシ、手も出してないネ。 あの二人は、見物するノが 一番楽しいデーす。
+ランチやディナーにスマートフードや 媚薬混ぜたりすルのデーす。 当然あの二人勝手に盛り上がりマーす。
+そこを、部屋中に監視キャメラつけて、 二人がチョメチョメしてるの見ながら ミーは別の大和撫子とヤるのデーす。
+これもう興奮度１２０％デーす！ 愚息のパワーが段違いネ！","That I wouldn`t hurt them, yes? I will, do not worry.
+ I actually haven`t touched them. Those two are best suited to be a showpiece.
+ I`ll slip aphrodisiacs into their food. Naturally, they`ll get fired up on their own.
+ Then I`ll watch them get it on through security cameras while I do it with another Japanese beauty.
+ This`ll take my excitement to new levels! My “son” will power up!"
+Yamamoto Akuji (talking),…………そうか、良かったな。,...That so? Cool.
+Henry Ru (talking),ほんトに、アクジには感謝してマス。 アリガトー、アリガトーねー！,"I really must thank you, Akuji. Thank you very much!"
+Yamamoto Akuji (talking),"あいつらにとっちゃあ、 あの変態野郎に監視されてるだけで 不幸かもしれんが……
+ま、これが同情の精一杯か。 二人で居られるだけまだマシだろ。","To those two, even just being watched by that degenerate might be an unfortunate thing, but...
+ Well, this is all of my compassion. At least they get to be together."
+Kohara Koharu (talking),ふふっ…… ごきげんよう、古宮さん。,"Fufu! Good evening, Komiya-san."
+Komiya Youko (talking),………………何の用だ。,...What do you want?
+Kohara Koharu (talking),"あら、言うまでもなく 解ってらっしゃるでしょう？
+もっとも、まだ時間があるから…… これでもどうかしら、と思って。","My, you don`t need me to say it, do you?
+ Although, we still have some time, so I thought this`d be nice."
+narrator,──そう言う小春の手には、 二本のコーヒー缶が握られていた。,Koharu was holding two cans of coffee.
+Komiya Youko (talking),……頂こう。 厚意を無下に断る訳にもいかないしな。,...I`ll take one. I`ve no reason to refuse your offer.
+Kohara Koharu (talking),"………………
+ふふっ、 ああ、飲んじゃった。","...
+ Fufu! Oh dear, you drank it."
+Komiya Youko (talking),何だ、その言い方は…… まさかコーヒーに何か……,What do you mean by that? Don`t tell me you put some-
+Kohara Koharu (talking),"いいえ、何も？
+ただ、コーヒーって気持ちが高揚する 成分……カフェインが入ってるでしょ？
+これは、私の経験則だけど… エッチな事の前にコーヒーって 結構イイのよ……","But I didn`t say anything?
+ It`s just that coffee has caffeine, which raises your feelings, you know.
+ This is just my rule of thumb, but having coffee before sex is pretty good..."
+Komiya Youko (talking),………………,...
+Kohara Koharu (talking),"特にね……淫乱なコだったら、 もう全然違ってくるの。
+古宮さんは、どうかしらね？","Especially if it`s a lewd girl, it becomes completely different.
+ What do you think, Komiya-san?"
+Komiya Youko (talking),……馬鹿馬鹿しい。 たかが缶コーヒー程度で……,...Such nonsense. As if one can coffee could ever...
+narrator,陽子は小春への反抗心もあって、 缶コーヒーの中身を一気に喉へと流し込む。,"Though Youko defied Koharu, she still emptied the can in one go."
+Komiya Youko (talking),……こんな物で、人が変わるものか。,...change who I am.
+Kohara Koharu (talking),"……ふ、ふふふ………… どうかしらね。
+じゃあ早速、試しに行きましょうか？","Fufufufu... I wonder about that.
+ Then how about we give it a try?"
+Komiya Youko (talking),"始めるのか、また……
+正直、私はそれなりに 働いているつもりだ。 もう調教は必要ないと思うが…","Are we starting this again?
+ To be honest, I intend to work quite a bit. I don`t think I need to be trained much more."
+Kohara Koharu (talking),"まだまだ、これから。
+それに、これも仕事ですもの。 仕方ありませんでしょ？","We`re only getting started.
+ Besides, this is part of your work. You have no other choice."
+Komiya Youko (talking),"別に拒むつもりはない。 私はもう諦め…………
+ ………………っ、う……","I don`t mean to reject it. I`ve already given up-
+ ...! ugh..."
+Kohara Koharu (talking),あら、どうしたの？,"Oh my, what happened?"
+Komiya Youko (talking),"いや、今、胸の奥が……
+ ……何でもない。","No, my chest just...
+ ...It`s nothing."
+Kohara Koharu (talking),"…そう。 ふふふっ……
+私の“コーヒー”の効き目…… 楽しみにしているわ……","...I see. Fufufu...
+ I`m looking forward to the effects of my “coffee”..."
+cg narrator,"「私ね……ずっと古宮さんを見てきたけれど、 　今までずっと、何か物足りなかったの」
+ ──微笑みながら、小春が言う。
+ 「古宮さんって、ここで働く覚悟もあるし 　私たち調教師の言うこともよく聞くわ」
+ 「普段は男の人みたいな言葉遣いだけど、 　お仕事のときはきちんと女の子になる…… 　……そう、娼婦としてとっても優等生」
+ 「でも、どこか違うの。 　きっと娼婦を演じてるのね」
+ 「でも、演じてちゃ駄目。 　心の底から、淫らな娼婦にならなくちゃ…」
+ 「だから、気付いて欲しかったの。 　あなたの中に、とても淫らな牝が居るって…」
+ 「……ふふっ、私には解ってたわ。 　本当のあなたはとっても女の子らしくて……」
+ 「……そして、とっても淫ら……」
+ 「いつもいつも、それを押し殺して……」
+ 「ね、隠すことなんてないのよ。 　楽しんでお仕事できれば、一番良いのだから。 　ふふっ、ふふふっ……」
+ ──だが、その小春の言葉は、 もはや陽子に届いてはいなかった。","「I`ve been watching you for a while now, 　but I always felt something was missing.」
+ Koharu spoke with a smile.
+ 「You`re determined to work here, 　and you do what we trainers tell you to.」
+ 「You normally talk like a man, but you 　become a proper woman when working... 　...You make for an excellent prostitute.」
+ 「But there`s something wrong still. 　You`re only playing the role of a prostitute.」
+ 「We can`t have that. You have to become a 　depraved prostitute, body and soul...」
+ 「That`s why I wanted you to notice it. 　That a very lewd woman resides within you...」
+ 「Fufu, I could tell that the real you 　is someone very girly...」
+ 「...And very lewd...」
+ 「You`ve always kept it under wraps...」
+ 「Now, don`t hide it. Having fun with 　your job is the best thing there is. 　Fufu, fufufufu...!」
+ However, Youko was no longer paying attention to Koharu`s words."
+cg narrator,"「ああアっ────ッやはあっ！！ 　また、また…入ってくるう……っ……！」
+犯され始めて、どれほどの時間が経ったろう。 ──今、陽子の秘裂を貫く男は何人目なのだろう。
+陽子は、小春がどこからか雇ってきた 複数の男たちに、代わる代わる犯され続けていた。
+「や、も……こわ、れ……壊れるうっ…………！ 　熱い、あつ……いっ、やあああっ！ 　突、い……突いてるぅっ！　ま、待っ…！」
+陽子が哀願したところで、男たちは聞き入れない。 情欲に憑かれた目で腰をつかい続ける。
+「────やあああンっ！ 　ああっ、ア……っんうううっ……ひああッ！！」
+「くすっ……無駄よ、古宮さん。 　みんなにはあなたと同じ“コーヒー”を 　飲んでもらっているのだから……」
+恍惚とした顔で小春が呟く。 彼女は少し離れた場所で椅子に座り、 輪姦の様子を見物し続けていた。
+実は、その小春の手にもコーヒーの缶があって、 僅かではあるがすでに口もつけている。
+「……本当に、よく効くコーヒーですこと……。 　躰が……胸の奥が、灼けてくる……」
+小春は、自分がコーヒーに混ぜた催淫薬の効果を 自分の躰で確かめていた。
+──いや、違う。
+小春はただ、犯され続ける陽子の姿を見て、 自分自身も悦楽を感じたかっただけだ。
+そのために、催淫薬を口にして 自分の躰も昴らせたのである。
+「くすくす……そう、そうなの古宮さん…… 　こんなに躰が熱いのね…… 　これよりもっと、もっと熱いのよね……」
+焦点の定まりきらぬ目を陽子に向けて、 座ったままの小春が脚を組み替える。
+──微妙に、内腿を擦り合わせながら。
+「う……うくっ……！」
+急に、陽子を犯す男が低く呻いた。
+秘裂の順番を待ちきれず、陽子に口での奉仕を 強いていた男が射精したようだ。
+「……う、かは……げほっ、げほっ……！ 　あ、うああ……ああっ……」
+陽子がむせ返る。 吐き出した男のものの先端から、顔へ、髪へと 迸る白濁が散っていく。
+　　［びゅ、びゅく……ごぷっ……］
+催淫薬の作用なのだろうか、その男にしても 今日何度目かの射精である筈なのに、 その量は多く、そして濃かった。
+男たちの射精は、これが初めてではない。
+もはや陽子の躰はあちこち白濁にまみれ、 汗や淫水と混じり合い、ぽた、ぽたと滴り落ちる。
+「……あっ……ああっ…… 　また、出てくる……汚れて……く……ぅ……」
+陽子が、震えながら呟いた。 もう、体力も気力も限界に近いのだろう
+だが、決して──やめろ、嫌、とは言わなかった。
+「あ……そう、そうよ、古宮さん…… 　それでいいの……」
+小春は、陽子の小さな変化に気付いていた。 ──思わず、椅子から立ち上がる。
+「躰が熱いでしょう？　もっと欲しいでしょう？ 　……あなたの気持ちはよく解るわ、 　もう虚飾なんか捨て去りなさい。……ね？」
+話しかけてくる小春に気付いたのだろうか。 陽子が、男たちに犯されながらも小春の方を向く。
+「……え、っア……！　んっ、う……」
+「もう、いいの。もういいのよ。 　あなたを狂わせたのは私。 　淫らになる薬を飲ませたのは私……」
+小春が、哀れみの目を陽子に向ける。
+「恨むなら、私を恨んで。構わないから。 　私のせいなの、今のあなたは………」
+乱れているのは、自分のせいではない。 ──自分のせいではない。
+小春のその言葉が、陽子の理性を消し去った。
+「……うはあアっ！！　やあっ、ア……あ───！ 　ひうぅっ……ひあっ、やはあっ！　ああ……！」
+陽子が小春から目を逸らす。 同時に、一際高い喘ぎ声が上がった。
+「ああンっ、ふあ……ああああ……ああッ！！ 　んア、ッあ、はっ……ア……っ……ふぁ…… 　……ッ、ひゃあああああああアっ────！！」
+陽子が、なりふり構わず悦楽の声を上げ始める。
+小春のせいだと彼女を恨みながら、 小春の与えた薬が与えてくる悦楽に身を委ねる。
+──いや。 所詮、薬は薬だ。きっかけにすぎない。
+本人の躰に、悦楽を感じられる素地があるからこそ 薬は効きもする。小春はその事を知っている。
+「思った通り…… 　こんなにも乱れられるんじゃない、あなた……」
+小春が、また、妖しく笑う。
+「やあっ、ア……うはあアっ！！ 　ひうぅっ……ひううぅっ……！　あっ……！」
+「そうよ、解き放って…… 　綺麗よ……淫らよ、古宮さん…… 　もっと、もっと……もっとっ……！！」
+椅子から立ち上がったまま、 小春は我を忘れて乱れる陽子の姿を見続ける。
+陽子が感じているはずの悦楽を想像するだけで、 小春も同じように悦楽を感じていた。
+──その小春の、目の前で。
+「────────ぁ…………っあアーっ！！」
+陽子は、何度目かの絶頂に達した証を 躊躇うことなく声にした。","「Aaaahn! YAAAAAAHN! 　It`s going in again...!」
+ How long has it been since it`d started? How many men have had their way with her?
+ Youko was being violated in turns by several men under Koharu`s employ.
+ 「No, wait... I-I`m gonna break...! 　So hot, ahn! ahn! aaaaahn! 　I-I`m being pierced...! Wait...!」
+ Youko pleaded, but the men did not stop. They kept thrusting, eyes filled with lust.
+ 「YAAAAAAAAHN! 　Aaaahn! ahn! aaahn!」
+ 「Teehee... it`s futile, Komiya-san. 　After all, I made everyone here 　drink the same “coffee” as you...」
+ Koharu muttered with an esctatic look. She sat in a chair some distance away, observing the ongoing gangrape.
+ She also had a coffee can in her hand, and had already taken a small sip.
+ 「...This truly is effective. 　My body and my chest are burning up...」
+ Koharu verified the efficacy of the coffee`s aphrodisiac with her own body.
+ No, that`s not quite right.
+ Koharu simply watched Youko be violated, and did not taste any such pleasure herself.
+ For that end, she took a sip of the coffee to excite her own body.
+ 「Teehee... I see, Komiya-san. 　So this is how hot you feel... 　No, you must feel even hotter.」
+ She directed her unsteady gaze towards Youko and crossed her legs...
+ ...while faintly rubbing her thighs together.
+ 「Hnnnngh...!」
+ Suddenly, one of the men groaned.
+ Unable to wait for his turn, the man who`d forced himself into Youko`s mouth had climaxed.
+ 「Cough! Cough! khah! 　Ahn! nhaaaaahn! aaaahn!」
+ Youko choked. Forced out, the man`s penis shot his liquid all over her face and hair.
+ 　　［*splrrrt* *splrrt*］
+ Perhaps it was a side effect of the aphrodisiac, but despite having already cum several times, the man`s semen was still thick and plentiful.
+ That had`nt been the group`s first ejaculation.
+ Youko`s body had already been dyed white, dripping with sweat and lewd juices.
+ 「Ahn... aaahn...! 　It`s coming out again... so dirty...!」
+ Youko muttered as she trembled. Her mind and body were already at their limit.
+ However, she never said she disliked it.
+ 「Ah... Good, that`s good, Komiya-san. 　Just like that...」
+ Koharu noticed a small change in Youko. She instinctively stood up from her chair.
+ 「Your body`s hot, right? You want more, right? 　...I understand how you feel, so how about 　we let go of all pretense? Well?」
+ Youko must have listened, for she nodded towards Koharu while being violated.
+ 「Ahn! mmmn... hnnngh!」
+ 「That`s enough. It`s alright now. 　I`m the one who drove you crazy. 　I`m the one who gave you that drug...」
+ Koharu looked at Youko with pity in her eyes.
+ 「If you must hate someone, hate me. I don`t 　mind, for it`s my fault you`re now...」
+ It`s not your fault you`re being obscene. --It`s not your fault.
+ Koharu`s words destroyed Youko`s reason.
+ 「AAAAAHN! yaaaahn, aahn! 　Hnnnngh! hyaaaaahn! mmmmmmmn!」
+ Youko looked away from Koharu. At the same time, her moans grew louder.
+ 「AAAAHN! FWAAAAAHN, AHN, AHN! 　nhaaaahn! ahn! mmmmn, ahn! 　HYAAAAAAAAAHN!!!」
+ Youko began moaning without restraint.
+ While hating Koharu for what she`d done, she gave her body to the pleasure.
+ ...No. The drug was merely an excuse.
+ The drug worked because her body had the aptitude for feeling pleasure. Koharu knew this.
+ 「As I`d thought... 　You really are this perverted.」
+ Koharu laughed ominously.
+ 「Yaaaahn! haaaaaaan! 　hnnnnngh! hyaaaaaaahn!」
+ 「Good, set yourself free... 　My beautiful, perverted Komiya-san... 　More, more... more!!」
+ Still standing up, Koharu lost herself in watching Youko.
+ Simply imagining the pleasure Youko`d been feeling gave Koharu pleasure as well.
+ And right in front of Koharu--
+ 「Ah... AAAAAAAAAAAAHN!!!」
+ Youko let out a voice that made it clear she`d climaxed yet again."
+cg narrator,"陽子の絶叫と同時に、男たちがまた精を吐いた。
+陽子の胎に、背に、腹に、そして顔に。 散った雫が、また陽子の躰を伝って床に落ちる。
+ ──陽子はもう、絶頂の衝撃に耐えられなかった。 意識が遠のき、がくがくと震えて──気絶する。
+そして──小春も。
+糸を引く淫水が、小春の足下に ぽつ、ぽつと落ちて──
+もはや小春は立っていられず、 自らがこぼした淫水の雫の上に座り込んだ。","At the same time, the men ejaculated...
+ ...on her thighs, belly, back, and face. It slid down her body and dripped onto the floor.
+ Youko could no longer withstand it. She trembled, then passed out.
+ And so did Koharu.
+ The thick love juices dripped down to the floor, next to Koharu`s feet.
+ Unable to keep standing, Koharu sat down in a puddle of her own honey."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Yamamoto Akuji (talking),…………ありゃ……？ っかしーな……,...Oh...? That`s weird...
+Kanbara Yuuko (talking),どうしたの？　あーくん。 朝からあちこちウロウロして~……,"What`s wrong, A-kun? You`ve been wandering around all morniiiing."
+Yamamoto Akuji (talking),いや、古宮陽子が出てねえんだよ。 詰所の自室にもいねえし。 サボったか？,"I can`t find Komiya anywhere, not even in her room. Is she playing hooky?"
+Kanbara Yuuko (talking),あ~……古宮さんなら……,"Oh, if it`s Komiya-san..."
+narrator,夕子は、悪司に一通の書簡を手渡した。,Yuuko gave Akuji a letter.
+Yamamoto Akuji (talking),？　なんだこれ。,? What`s this?
+Kanbara Yuuko (talking),その古宮さんが朝一番に来て、 あーくんにこれを渡してって。,She came here first thing in the morning and told me to give you this.
+Yamamoto Akuji (talking),？,?
+narrator,悪司は、夕子の目の前で手紙を広げてみた。,Akuji opened the letter in front of Yuuko.
+Yamamoto Akuji (talking),"うわ……すげー達筆。 筆でスラスラ書いてあるぜ。 古宮って字上手いのなー。
+ ……ただまあ、 達筆すぎてさっぱり読めんけど。","Damn, this is some good handwriting. Cursive, too. Not bad, Komiya.
+ ...But it`s so good that I can`t read it at all."
+Kanbara Yuuko (talking),…………,...
+Yamamoto Akuji (talking),夕子さん、コレ読めるか？,"Can you read it, Youko-san?"
+Kanbara Yuuko (talking),ん~……内容だけは、なんとな~く……,"Hmm, I can make out the contents..."
+Yamamoto Akuji (talking),何て書いてあるんだ？,What`s written in there?
+Kanbara Yuuko (talking),……………… 今は無理だけど、いつか必ず 約束を破った事を後悔させてやるって。,"”...I may not be able to do so now, but one day I WILL make you regret breaking your promise.”"
+Yamamoto Akuji (talking),へっ？,Huh?
+Kanbara Yuuko (talking),"ええと、要するに……
+ ……古宮さん、奉仕青年団を 辞めちゃったみたい。 あーくんをすっごく恨んで。
+心当たり、ないの？","Um, so basically...
+ ...It seems that Komiya-san has quit the YCSG. She really hates you, A-kun.
+ Any idea why?"
+Yamamoto Akuji (talking),…………………………いや、ある。,"......Kinda, yeah."
+Kanbara Yuuko (talking),……あらま~……,Oh my...
+Yamamoto Akuji (talking),まあ、予想はしてたけどな…… しゃあねえか。,"I`d speculated this might happen, but oh well."
+Kanbara Yuuko (talking),教団の勢力が減じれば、 それだけ由女が危険に晒される。 ……ここは死守してみせる！,"If the Cult weakens, Yume`ll be in danger. I`ll defend this place until I die!"
+__system__??,{☆由女／イハビーラ = 1:,{☆由女／イハビーラ = 1:
+Yamamoto Akuji (talking),山本悪司への恩もある…… 今はただ戦うしかないっ……,I`m indebted to Akuji... I`ve no choice but to fight!
+__system__??,},}
+__system__??,{☆由女／イハビーラ = 0:,{☆由女／イハビーラ = 0:
+Yamamoto Akuji (talking),必死で戦い、点数を稼ぎ、生きて帰る。 全て由女のためだと思えば……！！,I`ll fight and come back alive. If it`s all for Yume...!
+__system__??,},}
+Yamamoto Akuji (talking),由女……！ 私が判らないの？！　陽子よ！ お願いだから目を覚まして！！,"Yume...! Don`t you know who I am?! It`s me, Youko! Please, come to your senses!"
+Kanbara Yuuko (talking),……？ この女の人、どこかで……,...? Where have I seen this woman before...?
+Yamamoto Akuji (talking),由女っ……！,Yume...!
+Kanbara Yuuko (talking),"……ゆめ…………由女…… 聞き覚えが……あれ、気のせいかな……
+ ……………気のせいだよね。 見覚えないもん、こんな女の人……","Yume... That sounds familiar... Huh? Is it my imagination?
+ ...It is. I don`t remember this woman..."
+Yamamoto Akuji (talking),由女……お願い、思い出して！ 考えることをやめないで！！,Yume... please remember me! Don`t stop thinking!
+Kanbara Yuuko (talking),……ああもう、イライラする…… うるさいなあ、この人っ………！,"...Geez, I`m getting angry now. Shut up already!"

@@ -1,0 +1,1612 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆山沢 = 50:,{☆山沢 = 50:
+__system__??,},}
+__system__??,{(☆山沢 = 54) * (RND \ 0):,{(☆山沢 = 54) * (RND \ 0):
+__system__??,},}
+__system__??,{☆山沢 = 56:,{☆山沢 = 56:
+__system__??,},}
+__system__??,{☆山沢 > 60:,{☆山沢 > 60:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 2:,{麦 = 2:
+__system__??,{☆山沢 > 60:,{☆山沢 > 60:
+__system__??,},}
+__system__??,{☆山沢 = 51:,{☆山沢 = 51:
+__system__??,},}
+__system__??,{(B忠誠タイプ = 3) * (B忠誠心 > 70):,{(B忠誠タイプ = 3) * (B忠誠心 > 70):
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 4:,{麦 = 4:
+__system__??,},}
+__system__??,{麦 = 5:,{麦 = 5:
+__system__??,{☆山沢 > 60:,{☆山沢 > 60:
+__system__??,},}
+__system__??,},}
+Yamazawa Asami (talking),山本さん、何か。,"What do you need, Yamamoto-san?"
+Yamamoto Akuji (talking),よう、来たか。 体調はどーだ？,"Ah, there you are. How`re you holding up?"
+Yamazawa Asami (talking),"……嘘をついても仕方ないので、 はっきり言います。
+良くは……ありません。","...There`s no point in lying, so I`ll be frank.
+ I am not... feeling well."
+Yamamoto Akuji (talking),そーなのか？ おめー、バリバリ働いてくれるから ちーとは良くなってんのかと思ったが…,"That so? You`ve been working your ass off, so I thought you`d gotten better."
+Yamazawa Asami (talking),"昼間は躰が少し震える程度ですけど、 夜は、どうしても…………
+ ……闇が駄目なんです。 幻覚、幻聴、圧迫感や頭痛で なかなか眠れなくて。
+電気さえつけていれば、 浅い眠りには就けるんですけど……
+それで、いずれ疲れがたまってくれば、 昼間でも以前みたいに……","All I get during the day is some trembling, but at night...
+ ...The dark is awful. The hallucinations and headaches make it hard for me to sleep.
+ I can at least get some light sleep when the lights are on...
+ But when my fatigue builds up, I might relapse during the day."
+Yamamoto Akuji (talking),そりゃ大変だなー、おい……,That sounds terrible.
+Yamazawa Asami (talking),"仕事の時は、気が張りますから。 それに、深い睡眠はちゃんと…………
+ ……あっ、いえ。 何でも……ありません。","I tough it out during work. And I am getting enough sleep-
+ ...Oh, no. Nevermind..."
+Yamamoto Akuji (talking),"……？
+ …………あー、そっか。 目一杯イッたあとの夜って ぐっすり眠れるもんな。","...?
+ ...Ah, I get it. On nights you cum your brains out, you can catch some good sleep."
+Yamazawa Asami (talking),っ…………,Kh!
+Yamamoto Akuji (talking),うんうん、そりゃアレだな、 おめーの躰のためにも いっぱいセックスしなきゃなー。,"Yep, there`s that too, we gotta have lots of sex for the sake of your body."
+Yamazawa Asami (talking),………………,...
+Yamamoto Akuji (thinking),"顔を赤くして否定ナシか……
+抱かれたいっつってんのと同じだなー。 可愛いもんだ。","Blushing, but not denying it?
+ It`s like she`s saying she wants me to do her. Cute."
+Yamazawa Asami (talking),山本さん。,Yamamoto-san.
+Yamamoto Akuji (talking),"よう、来たか。
+ ……ちと、来るの遅かったな。","Ah, there you are.
+ ...You`re a bit late."
+Yamazawa Asami (talking),すみません、道場で稽古をしていたので 汗を流すのと着替えとに時間がかかって…,"sorry, I was training, so it took me some time to clean up and get changed."
+Yamamoto Akuji (talking),相変わらず熱心だなー。,As zealous as ever.
+Yamazawa Asami (talking),別に……当然のことですから。,Not really... it`s only natural.
+Yamazawa Asami (talking),それでは……剛さん。 私、山本さんに呼ばれているので。,Yamamoto-san is calling for me... Tsuyoshi-san.
+Oosugi Tsuyoshi (talking),おお、そうでしたな。 では麻美さん、また後で。,"Ah, is that so? Then we`ll talk later, Asami-san."
+Yamazawa Asami (talking),はい。,Yeah.
+Oosugi Tsuyoshi (talking),"……おっと、私は書類整理で しばらく事務所におります。 時間が合えば一声かけて下さい。
+どうも細かいことは苦手なので、 結構時間がかかるはずですからな。","I have to return to the office and get some papers in order. Let me know if our schedules match.
+ I`m bad with detailed work, so I expect it to take a while."
+Yamazawa Asami (talking),私、書類の処理とか結構得意だから、 剛さんを手伝えたらいいんですけど…,"I`m good with paperwork, so I`d be fine with helping you..."
+Oosugi Tsuyoshi (talking),ははは、何の何の。 自分のことは自分でやって当然。 麻美さんの手を煩わせはしませんよ。,"Ahaha, don`t mind me. I have to do my own job, so I won`t take you up on that."
+Yamazawa Asami (talking),くすっ。 ……頑張って下さいね。,Teehee. ...Then please do your best.
+Oosugi Tsuyoshi (talking),何の、頑張るほどでもありません。 では、ここで。,"Haha, it`s nothing big. Well then, I`ll see you later."
+Yamazawa Asami (talking),………………,...
+Yamamoto Akuji (talking),……………………,...
+Yamazawa Asami (talking),………………きゃあっ！ や、山本さんいつからそこにっ…,...KYAAAAH! S-Since when have you-
+Yamamoto Akuji (talking),"……………………み~た~ぞ~。 ラヴラヴでいい感じぢゃねーか。
+剛さん♪　麻美さん♪　ときたもんだ。 かー、ケツ痒いねー、痒い痒い。","...I saw thaaaaat! Aren`t you just a pair of lovebirds.
+ Tsuyoshi-san! Asami-san! Oh man, I wanna barf."
+Yamazawa Asami (talking),…………そ、それは、 最近、同じ地域に配属されていて、 話す機会が多くて、自然と……,"W-Well, we`ve been working together a lot lately, so we`ve been  talking a lot and-"
+Yamamoto Akuji (talking),な、おめーらもうヤったのか？,"So, have you two fucked yet?"
+Yamazawa Asami (talking),……………… 怒りますよっ……！,... I`m gonna get mad...!
+Yamamoto Akuji (talking),その顔からすりゃ、多分まだだなー。,"Not yet, looks like."
+Yamazawa Asami (talking),……当然です、私たちの間で、 そんなこと、ある訳が……,"Of course not, there`s nothing like that between us..."
+Yamamoto Akuji (talking),けーっ、ぺぺぺぺぺぺぺっ。 私たちと来たもんだ。ひゃー熱い熱い。,Bleeeeech! “Between us”? You`re killing me here.
+Yamazawa Asami (talking),…………とにかく、やめて下さいっ！ 私はともかく、つよ……大杉さんに 失礼ですからっ……,"...Anyway, stop that! I don`t mind it, but you`re being rude to Tsu- Oosugi-san!"
+Yamamoto Akuji (talking),"……嬢ちゃんよ、 大杉の事が好きならそれでいーぞ。 つーか俺、付き合うなら賛成するし。
+俺も大杉と付き合い長いからよ、 似合いのいい女はいねーのかって ずっと気にはしてたんだよ。
+ま、おめーならお似合いだ、バッチリ。","...Missy, it`s fine for you to like Oosugi. Hell, I even give you two my blessing.
+ I`ve known him for a long time, and it always bothered me how  no woman suited him.
+ But you? Perfect match."
+Yamazawa Asami (talking),だ、だから、もう…………っ！ 大杉さんに失礼だって…………！！,L-Like I said...! You`re being rude to Oosugi-san!
+Yamamoto Akuji (talking),"……そーか？ なら直接訊いてみよーか。
+おーーーーい、おーーーすぎーーーっ。 ちょっとこっちこーーーーーい。","...Am I? Then lemme ask him straight-up.
+ Heeeey, Oosugiiiii! Come here for a seeeeec!"
+Yamazawa Asami (talking),や……山本さんっ！　やめ…………,"Y-Yamamoto-san, stop that!"
+Oosugi Tsuyoshi (talking),……若、 この大杉をお呼びになりましたか？,"Have you called for me, Young Master?"
+Yamamoto Akuji (talking),"おお、呼んだ呼んだ。
+なあ大杉、お前は俺に 忠誠を誓ってくれてるんだよな？","Yeah, I did.
+ Hey Oosugi, you`ve sworn loyalty to me, right?"
+Oosugi Tsuyoshi (talking),もちろんでございます。 若のためならこの大杉、 命すらも惜しくはありません。,"Of course. I`d gladly lay down my life for you, Young Master."
+Yamamoto Akuji (talking),そりゃつまり、アレだ、 俺には嘘つかねーって事でもあるよな？,"So you can`t even lie to me, right?"
+Oosugi Tsuyoshi (talking),もちろんでございます。 若に隠し立てするような真似は 忠義の心に反します。,Indeed. I would absolutely never lie or hide anything from you.
+Yamamoto Akuji (talking),よし、なら訊くぞ。 ぜってー嘘つかずに正直に答えろよ。,Good. Then give me an honest answer here.
+Oosugi Tsuyoshi (talking),はっ。 若が、我が忠義の証を望むなら。,"Very well, if you desire proof of my loyalty."
+Yamazawa Asami (talking),やっ、山本さん……！ お願いです、お願いですからっ、 やめて下さいっ……！,"Y-Yamamoto-san! I`m begging you, please stop this...!"
+Yamamoto Akuji (talking),…………お前、 ここに居る山沢麻美のことが好きか？,...Do you like this here Yamazawa Asami?
+Yamazawa Asami (talking),………………ああっ…………！,...Aaaaahhhh...!
+Oosugi Tsuyoshi (talking),"……………………………………
+すみません若、この大杉、 恥ずかしながらお言葉を解せませんで。 今一度……","...
+ My apologies, Young Master, but I did not understand you. Could you repeat-"
+Yamamoto Akuji (talking),だーかーらー。 この嬢ちゃんにホレてんのかと 訊いてんだよ。,"Look, I`m asking you if you love this girl over here."
+Oosugi Tsuyoshi (talking),"………………………………な。
+ななななななななななななななななななな ななななななななななななななななななな なんということをーーーーーーーー！！
+そ、そのような質問、 私は良くとも麻美さ……山沢さんに 失礼ではありませぬか、若っ！！！！","...Wha-
+ Wh-wh-wh-wh-wh-wh-wh-wh-wh-wh- wh-wh-wh-wh-wh-wh-wh-wh-wh-wh- what was thaaaaaaaaat?!
+ While I myself do not mind, that`s disrespectful to Asa- Yamazawa-san, Young Master!"
+Yamamoto Akuji (talking),だーーーーーーるせーーーーーー！ てめーは黙って俺の質問に答えろ！ それとも答えられねーってのか！,FOR FUCK`S SAKE! Just answer the fucking question! Or are you not going to?!
+Oosugi Tsuyoshi (talking),…………う……うぐぐぐっ……………,...Ughhhh...!
+Yamazawa Asami (talking),"お……大杉さん、 私に気遣わないで下さい……
+はっきり言って下さっても、私、 傷付いたりしませんから…… 解ってますから……","P-Please don`t mind me, Oosugi-san...
+ I won`t be hurt even if you answer bluntly... I understand..."
+Oosugi Tsuyoshi (talking),"……………………………
+ ……この大杉、 自らの男を賭けて真剣に答えましょう。
+好きです。 愛しております、惚れております。 今や麻美さんを想わぬ日はありません。","...
+ I, Oosugi, will answer seriously as a man.
+ I love her. I adore her. Not a day goes by without me thinking about her."
+Yamazawa Asami (talking),……………………………えっ……？,...Huh...?!
+Oosugi Tsuyoshi (talking),"ですが、解っております。 この大杉、麻美さんと想い合うには 幾分歳を取りすぎております……
+もっと若い頃に出会っていれば、 この歳の差さえなければと、 何度悔いたことか…………
+ ……ですから、麻美さん。 今の私の言葉は戯言と聞き流し、 どうか、どうかなかったことに……","But I understand. Our ages are too far apart for her to reciprocate...
+ Had I met her when I was younger, I would not have had a single regret... So please, Asami-san.
+ Pretend what I just said was a joke, and forget it ever happened..."
+Yamamoto Akuji (talking),……大杉、ごくろーだった。 お前の気持ちはよく解った。 つーわけでちと下がってろ。,"...Good job, Oosugi. I get how you feel now. So stand down for a bit."
+Oosugi Tsuyoshi (talking),…………はっ………………,...Very well.
+Yamamoto Akuji (talking),"いやいやいや、男を賭けてときたか。 こりゃーよっぽど惚れてんなぁ。
+いやー、痒くてたまらんわ。 ぼーりぼりぼり。","Wheeeew, as a man, huh? He`s head over heels for you.
+ My stomach is KILLING me, I tell ya."
+Yamazawa Asami (talking),"そ、そんな……そんな………………
+ああっ、こんな事って…………！ 嘘、嘘です、私みたいな女を……","Th-Th-This...
+ This can`t be...! No way, he loves a woman like me...?"
+Yamamoto Akuji (talking),"……さて、麻美の嬢ちゃん。 嬉しそーな顔してる場合じゃねーぞ。
+俺としちゃー、大杉の気持ちは 受け止めてやってほしーんだが、 こればっかりはおめー次第だ。","...Now then, missy. This ain`t the time to gush out.
+ Personally, I want you to accept his feelings, but this is all up to you now."
+Yamazawa Asami (talking),………………,...
+Yamamoto Akuji (talking),どーする？　さ、どーする？,What`re ya gonna do now?
+Yamazawa Asami (talking),……………… 大杉さんには、私よりもっといい人が……,I`m sure there`s someone better than me for him...
+Yamamoto Akuji (talking),"卑下しすぎー。
+つーか大杉のあの様子だと、 おめー以外の女なんか要らん！　とか ぜってー言うと思うが。","Quit underselling yourself.
+ Hell, did you not see him just now? I bet he thinks you`re the woman of his life."
+Yamazawa Asami (talking),それに、私の躰は…… 麻薬に犯されて…………,But my body... has been tainted by drugs...
+Yamamoto Akuji (talking),"もうとっくに治ってんだろー？
+お前の躰はたぶん俺が一番知ってんぞ？ ヤってる最中ですら中毒症状のかけらも 残ってねーじゃねーか。","Didn`t you already get better?
+ I know your body best. You`re not showing withdrawal symptoms anymore, even when we fuck."
+Yamazawa Asami (talking),……………… 一番の問題は、それです……,... That`s the biggest problem...
+Yamamoto Akuji (talking),へ？,Huh?
+Yamazawa Asami (talking),"私は、快楽に負けるような弱い女です……
+中毒症状は消えているのに、 惰性で山本さんに抱かれている……
+所詮、その程度の女なんです……","I`m a weak woman who loses to pleasure...
+ My withdrawal`s gone away, but I still sleep with you...
+ That`s the kind of woman I am..."
+Yamamoto Akuji (talking),やれやれ。 んじゃー、ちと試してみるか？,Oh please. Then how about we test it?
+Yamazawa Asami (talking),試す、って……何をですか。,What do you mean...?
+Yamamoto Akuji (talking),"こりゃあ世辞でも何でもねーが、 おめーほど意志の強い女は そうそう居ねーと思うぜ。
+そこでだ。
+今から一時間、俺とヤってる間じゅう イかずにず~っと堪えてみな。","This ain`t even flattery, I doubt there are any women as strong-willed as you are.
+ So taking that into account...
+ Let`s have you try to not cum for one hour while we fuck."
+Yamazawa Asami (talking),い……一時間もっ…………！？,O-One hour...?!
+Yamamoto Akuji (talking),"そーすりゃ快楽に勝ったことになんだろ？ 大杉と付き合い始めても、 少々の誘惑なんぞにゃ負けねーと思うぜ。
+……おっと、一応言っとくが、 俺はセックスで負けんの大嫌いだから 滅茶苦茶マジでやるからな。","You`d have beaten pleasure then, no? And you wouldn`t lose to temptation if you dated Oosugi.
+ ...Oh, and just so you know, I hate losing at sex, so  I`ll be going at full power."
+Yamazawa Asami (talking),無理です、無理です……そんな！ 私、普段は十分も…………,"No way, no way! I can`t even last ten minutes..."
+Yamamoto Akuji (talking),"……………… ま、そっか。確かにそーだわな。
+なんつーか、 おめーはそれまでの女なんだなー。 そっかそっか。","... Well, true. That does happen.
+ So that`s all you amount to, huh? I see, I see."
+Yamazawa Asami (talking),………………,...
+Yamamoto Akuji (talking),んじゃお前、 今度から大杉の半径一km以内に 近付くの、絶対禁止な。,Then from now on you`re forbidden from being within 1 kilometer from Oosugi.
+Yamazawa Asami (talking),えっ………,Huh?!
+Yamamoto Akuji (talking),会話はおろか顔合わせるのも絶対禁止。 この場で今生の別れにしろ。 ホレ、とっとと帰れ。,"You can`t even meet him, let alone talk to him, ever again. Now go on, leave."
+Yamazawa Asami (talking),そ、そんな、どうして山本さんに そんな事を決める権利が……！,"N-No, you can`t decide that on your own!"
+Yamamoto Akuji (talking),"あんなあ、嬢ちゃん。 あのカタブツが血ィ吐く思いで 自分の気持ちを言葉にしたんだぞー？
+なのにおめーは、 手前勝手な都合と思い込みだけで、 マジな男の気持ちを蹴り飛ばす訳だ。
+そのくれーの罰、とーぜんだ、とーぜん。","Look, missy, that stubborn old fool laid his feelings bare here, yeah?
+ And yet you`re tossing them aside because of some bullshit assumptions you have.
+ No shit I`m gonna punish you."
+Yamazawa Asami (talking),わ、私は……私はそんなっ……,I... I`m not...!
+Yamamoto Akuji (talking),"つーか、挑戦する前に尻尾撒いて逃げる なっさけねー女に、大事な部下の側を チョロチョロされたかねーな。
+こんだけ想い合ってて今まで通りじゃ 大杉がムゴいわ、大杉が。","Hell, I don`t want some wimpy bitch hanging around one of my trusted subordinates.
+ It`d be cruel for Oosugi if things stayed the same after all that."
+Yamazawa Asami (talking),………………,...
+Yamamoto Akuji (talking),"安心しろ、オオサカ中の女調べて もっと大杉に相応しいヤツを 俺が責任持ってあてがってやらー。
+だから帰れ。ほれ帰れ。さっさと帰れ。 この根性なし。","Don`t worry, I`ll take responsibility and find a better woman for Oosugi.
+ So go on, leave. You fucking wimp."
+Yamazawa Asami (talking),"………………
+ …………ります……","...
+ ...do it..."
+Yamamoto Akuji (talking),は？,Huh?
+Yamazawa Asami (talking),"やります……
+剛さんに二度と逢えなくなる位なら、 いっそ死んだ方がましです……
+一時間ぐらい耐えてみせる…… 耐えて、自信つけて、全部話して、 それでも……
+それでも、 私が必要だって言って下さるなら……！","I`ll do it...
+ I`d rather die than never be able to meet Tsuyoshi-san again.
+ I`ll endure for one hour... I`ll endure it, build up my courage, and tell him everything...
+ And if he still accepts me then...!"
+Yamamoto Akuji (thinking),…………くくくくく。 いやー、面白くなって来たぜ。,"(...Keheheh, things have gotten interesting.)"
+narrator,そして、悪司の部屋へと入った二人は 目覚まし時計を一時間後にセットして、 恋の成就を賭けた勝負を始めたのだった──,"As the two entered the room, Akuji set an alarm clock to ring one hour later. The battle of Asami`s love had begun-"
+cg narrator,"「うあ……あああっ、ひあァ……ああッ……！」
+肉の悦楽が秘部から沸き上がって躰を走り、 麻美の口が堪えきれない喘ぎ声を吐き続ける。
+「あ……っう、いやああっ…………！ 　擦ら……ないで…………ッ…………！ 　い、や……嫌あっ、嫌ああああああああっ！！」
+指と口でさんざん昴らされ、濡れそぼった秘部に 熱く硬い男のものを突き入れられてから、 一体、どれほどの時間が経ったのだろう──
+もはや麻美は、時間の感覚を喪失させていた。
+いや、ほんの少し首を持ち上げて振り向けば、 事が始まる前にセットした目覚まし時計を 確認することはできた。だが──
+「う、あ……ああああ、あああああああッ……！」
+下手に動けば、気が逸れる。 その途端に、絶頂へ達してしまいかねない。
+その恐怖で、麻美は何もできなかった。 そこまで追いつめられていた。
+（こんな……こんなの、 　初めから無理だったのに……！ 　堪えきれない、堪えられる訳がないっ……！）
+もう、麻美の躰に力は入っていなかった。 ──悦楽の痺れだけが、麻美の四肢を満たす。
+前から、後ろから、悪司の思うままに 体位を変えさせられ、 無防備に胎を突き上げられ続けている。
+（楽に…………もう、楽になりたい…… 　嫌、もう嫌……我慢したくない…………！）
+喘ぎ続け、開いたままの口から、涎がこぼれる。 それは顎を伝ってシーツに落ち、染みを作る。
+──いや、もうシーツは 乾いている所を探す方が難しいほど濡れていた。
+麻美がこぼした、 ねとつく淫水、汗、涎──悦楽の証。 それらは全てシーツが吸い取って染みになる。
+それが、麻美の肌の熱でわずかに乾く。 乾いた部分からいやらしい性臭が立ち上る。
+そして、その性臭が鼻腔に流れ込み、 麻美の脳までをも淫らに犯す。
+加えて、耳からも──
+　　［ちゃぐっ、ちゅく、ぐぷっ……！］
+悪司が腰を揺する度、淫らな重い水音が立つ。
+それは、ひどくだらしない音に聞こえた。
+硬く張り詰めた悪司のものが、 悦楽に緩みきった麻美の躰を好き勝手に掻き回す。
+懸命に堪えようとする麻美の意志とは裏腹に、 躰はもうとっくの昔に悪司の行為を 受け入れてしまっているのである。
+　　［ぐしゅ、ぐじゅっ……！　じゅぶっ］
+延々と聞こえ続ける粘質の音は、 楽になりたい、弾けてしまいたいと囁き続ける。
+「いやあっ…………あああああああっ……！ 　はあ…………ッああああっ…………！！」
+もはや、麻美の敵は悪司だけではなかった。 彼女の躰までもが彼女の意志を裏切って、 悪司に荷担し絶頂を迎えようとしている。
+──だが。
+「ま、け…………負けない……っ…………！ 　負けない……ん、だから……ああっ……！」
+躰が浸りきっている悦楽を、 脳裏で囁く心の声を拒絶して、 麻美の口は抗う言葉を吐き続けた。
+「こ……んな、に…………されてもッ…… 　今だけ……なのにっ…………！ 　この時だけなのにっ………………！！」
+この時だけ。 気持ちいいのは、この時だけ。
+好きな人がいる、その人と歩いていける未来がある、 それに比べれば今の悦楽などまやかしでしかない。
+だから、麻美は堪え続ける。 堪え続ける辛さに涙を流して、必死に。
+「無駄なこと……してんじゃ、ねえぇっ……！ 　さっさと……イけっ、イッちまえっ…………！」
+麻美の言葉を否定して、悪司が更に腰を使う。
+「無理、してんじゃ……ねーっ……！ 　素直になれっ……イきたいんだろうがっ！」
+──何故か、その声に焦りがあった。
+いや、悪司は焦って当然だった。
+（クソがっ……あと五分しかねぇのに…………！）
+時計を振り返った悪司が、心の中で毒づく。
+いかに麻美の躰が類い希な名器であろうとも、 すでに何度か肌を重ねた今では 一時間くらい射精を我慢することは容易かった。
+だから悪司は、自分の掌で二人の想いを弄んで 遊んでみようと、最初から“勝って当然の勝負”を もちかけていたつもりだったのだ。
+（イッても不思議じゃねー感じ方を 　開始十分からしてやがったのによっ…… 　何でこんなに保つんだよ、こぉのクソッタレ！）
+すでに手は尽くしていた。 やれることは全てやっていた。
+だが、もう勝ったと思ったその先に、 いつまで経っても到達しないのである。
+（ちっ、こんなことなら時計に細工しときゃ 　良かったぜ……って…………………………）
+また、悪司が時計の方を振り向いた。 ──その顔が、驚きに歪む。
+「……のわにいいいいいっ！？ 　あと一分だとおおおおおおおっ！！？」
+思わず叫ぶ。 叫んで慌てて口を噤んだが、もう遅かった。
+「えっ、あ…………あと一分…………！？」
+その台詞で、絶望的だと思い込んで なお耐え続けていた麻美の意志が 希望という力を得る。
+「こ、この……っう…………！」
+歯をくいしばって、躰に鞭打って、 頭を持ち上げて背後の時計を見る。
+間違いない。行為を初めてもうすぐ一時間だ。 ──正確には、あと四十五秒。
+（そのくらいなら……そのくらいならっ、 　絶対に耐えてみせるっ…………！）
+この時、麻美の気概が躰の悦楽を初めて上回った。 痺れていた躰に、一瞬、力が戻る。
+──悪司を呑み込む秘裂が、 異物を拒んで強く収縮する。
+反対に、悪司は残り時間僅かと気付いて驚き、 性の行為から一瞬気を逸らしていて──
+「………………っおっ！？ 　う、うわおいちょっと待てっ…………！」
+麻美の不意打ちに、悪司は対応できなかった。 腰の奥に蓄積され続け、意図的に消していた悦楽が 悪司の中で一気に弾けてしまう。
+「や、やべ……この、止まりやがれっ…………」
+しかし、一度射精の予兆を感じておいて それを消し去ることは、男には不可能である。 悪司といえど例外ではない。
+麻美の中に埋められた己のものが、痙攣を始めた。 躰の奥から白濁が昇ってくるのが解る。
+「…………っ、くそーーーっ！」
+悪司は慌てて麻美の中から自分のものを引き抜く。 だが、時はすでに遅い。","Aaaaahn! aahn, hyaaaaahn!
+ Pleasure coursed throughout Asami`s body, causing her to moan continuously.
+ Ahn... yaaaaahn! Don`t, rub me there...! N-No... nooooooo!
+ Akuji had loosened her up plenty, and now thrust his rod inside Asami`s soaking wet slit. She had no idea how much time had passed.
+ Asami had completely lost track of time.
+ Were she to turn her head back a bit, she`d be able to see the alarm clock and check how much time remained. However-
+ Ahn... aaaaaaaaaaaaahn...!
+ One wrong move, and her reason would evaporate.
+ She could not allow herself to climax. That fear drove Asami into a corner, paralyzing her.
+ (Th-This was impossible from the start! There`s no way I can endure this...!) 
+ Asami could no longer put strength into her body.  Her limbs went numb.
+ Akuji changed positions as he willed, and kept ravishing Asami`s defenseless pussy.
+ (I... I want this to be over...  No... I don`t want to endure it anymore...!)
+ Saliva flowed out of her mouth, trickling down her chin and staining the bedsheets.
+ By that point, it was harder to find a spot  that hadn`t gotten stained.
+ It was all from Asami`s fluids - her sweat, spit, and love juices. All of them proof of how much pleasure she felt.
+ They dried up somewhat thanks to Asami`s body heat, creating a dirty smell.
+ Said smell invaded Asami`s nostrils and assaulted her brain.
+ Even her ears-
+ *Sllllsh, scchk, sclllllp!*
+ Every one of Akuji`s thrusts produced a lewd, wet noise.
+ It was unbearably lewd to her.
+ Akuji`s rock-hard manhood stirred up Asami`s flushed body however it wanted.
+ In contrast to her enduring will, Asami`s body had long given itself into the pleasure Akuji offered.
+ *Sllllsh, scchk, sclllllp!*
+ The sticky sound gave away her wish to climax - to be put at ease.
+ Noooo...! aaaaaaaaahn! haaah, aaaaahn!
+ Akuji was no longer Asami`s sole enemy. Her own body betrayed her will, and conspired with Akuji to make her climax.
+ However-
+ I-I... won`t lose...! I`m not... going to lose! aaaahn!
+ Asami spoke words of defiance, denying the pleasure and defeatist thoughts that had begun to enter her mind.
+ E-Even if... you do this... Even if... it`s just for this moment...!
+ Only for this moment. It felt good only for this moment.
+ She had a future with a man she loved. She wouldn`t be deceived by momentary pleasure.
+ That`s why she kept resisting. Desperately, to the point of crying.
+ You`re wasting... your time! Hurry up... and cum!
+ Rejecting Asami`s words, Akuji took it up a notch.
+ Don`t... push yourself! Be honest... you wanna cum, right?!
+ For whatever reason, he seemed flustered.
+ No, it was natural for him to be so.
+ (Fuck... only 5 minutes left...!)
+ Akuji cursed in his mind as he checked the clock.
+ Though Asami`s body was exceptional, since they had slept together many times beforehand, enduring his urge to cum for an hour was easy.
+ Which is why Akuji had proposed a challenge he was sure to win from the start, to toy with her feelings.
+ (I got her into an almost-cumming mood right in the first 10 minutes! So why the fuck is she still resisting?!)
+ He was out of options. He had done everything he could.
+ And yet he could not claim his perceived free win.
+ (Tch, I would`ve tampered with the clock if I knew this was gonna happen...)
+ Akuji once again looked at the clock. His face distorted in surprise.
+ ...WHAAAAAAT?! Just one minute left?!
+ He involuntarily shouted. Akuji hurriedly closed his mouth, but it was too late.
+ Huh?! J-Just one minute...?
+ With that, Asami, who`d been enduring at the edge of despair, had now found a ray of hope.
+ Y-Yoooou...!
+ Asami clenched her teeth and looked back to check the clock.
+ It was true. It had been almost one hour since they`d started. Only 45 seconds remained.
+ (If it`s that much... then I can definitely endure it...!)
+ At that moment, Asami`s will surpassed her pleasure. Strength returned to her numb body.
+ Her pussy contracted, rejecting Akuji`s manhood inside it.
+ On the other hand, surprised by the remaining time, Akuji got distracted for a moment-
+ ...Uooooh?! H-Hey, hang on a sec...!
+ Akuji couldn`t react to Asami`s surprise attack. The pleasure he`d been supressing assaulted his body all at once.
+ O-Oh shit... I can`t stop it...!
+ However, it was impossible for a men to not ejaculate once the reflex had started. Not even Akuji was exempt from this.
+ His member began to throb inside Asami, and his cloudy liquid came forth.
+ ...Dammit...!
+ kuji hurriedly pulled out of Asami, but it was already too late."
+cg narrator,"　　［びゅく、びゅっ、ぶびゅっ……］
+抜き取ったその瞬間に、 悪司のものの先端から白濁が迸った。
+そして、射精が終わったとほぼ同時に、 セットしておいた時計がけたたましく鳴り始める。
+「…………勝っ…………た………………」
+呟いて、麻美はベッドの上に四肢を投げ出す。
+息が、荒い。躰も言うことを聞かない。
+──けれど、意識ははっきりしていた。 絶頂には至っていない。
+「…………剛、さんっ……」
+今までの耐える辛さではなく、 胸を圧す喜びに涙しながら、 麻美はぽつりと愛しい人の名を呟いた。","*Splllrt, spllrt, splllllrt!*
+ The second he pulled out, Akuji`s seed gushed out.
+ And almost as soon as his ejaculation stopped, the alarm clock rang.
+ ...I... won...
+ Mumbling, Asami stretched her limbs on the bed
+ Her breath was rough, and her body would not respond.
+ But her mind was clear. She did not climax.
+ ...Tsuyoshi-san...!
+ Crying tears of overwhelming joy, Asami whispered her beloved`s name."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+narrator,──最初に、悪司が事務所へ戻ってきた。,Akuji returned to the office first.
+Yamamoto Akuji (talking),"………………
+ ………………ず~ん………………
+ ………………ずず~ん………………
+ああ、負けちまったよ…… 負けちまったよ、この俺が……………
+ …………ショックでけー…………","...
+ ...Maaaaan...
+ ...Maaaaaaaaaaaaan...
+ Dammit, I lost... I, of all people, lost...
+ ...What a shocker..."
+Yamazawa Asami (talking),……山本さん。,...Yamamoto-san.
+Yamamoto Akuji (talking),あんだよ。 ほれ、さっさと大杉んとこ行け。 もう俺に用なんざねーだろが。,"What? Go on, go meet Oosugi. You have nothing else to talk to me about."
+Yamazawa Asami (talking),"私、まだはっきり聞いてませんから。
+ ……勝ったんですよね、私。","I want to hear it clearly.
+ ...I won, right?"
+Yamamoto Akuji (talking),"…………あーあー、勝った勝った。 勝ったとも勝ちましたとも。 俺は負けたんだよコンチクショウ。
+ったく……大した女だよ、おめー。","...Yeah yeah, you did. You won, you did. And I lost, for fuck`s sake.
+ Damn... you`re one hell of a woman."
+Yamazawa Asami (talking),まぐれです。 自分でも、耐えられたのが 不思議ですから……,It was a fluke. Even I can`t believe I managed to endure it...
+Yamamoto Akuji (talking),しっかし、おめー大丈夫なのか？,But is this okay?
+Yamazawa Asami (talking),大丈夫って、何がでしょう？,What do you mean?
+Yamamoto Akuji (talking),"俺があんだけやってダメだったんだ、 大杉なんかず~っとヘタだぞ多分。 ぜってー気持ちよくねーぞ。
+おめー、そんなんで付き合ってて 満足できんのか？","If you didn`t cum after all I did, then I doubt Oosugi then I doubt Oosugi
+ will manage it. Think you can be satisfied with that?"
+Yamazawa Asami (talking),"不要な心配です。 好きな人なら何より心が許せますし、 心が許せたらすぐに…………
+ ……その、すぐに…………","Your concern is unecessary. If there`s an emotional connection, then I`ll...
+ ...right away..."
+Yamamoto Akuji (talking),イケるってか？,You`ll cum right away?
+Yamazawa Asami (talking),こ、言葉選んでたのに……！ はっきり言わないで下さい！,P-Please have some tact! Don`t say it so bluntly!
+Yamamoto Akuji (talking),へいへいへいへいへいへいへいへい。 まー仲良くやってくれ。,"Yeah yeah yeah. Anyway, be nice to him."
+Yamazawa Asami (talking),……この時間なら多分、 剛さん、配属地区に戻ってますよね？,"...At this hour, he`s probably back at his station, right?"
+Yamamoto Akuji (talking),ん？　あー、多分な。,"Hm? Yeah, probably."
+Yamazawa Asami (talking),"……私の気持ちを、伝えてきます。 まだ、何も言ってませんから。
+山本さん、今日の仕事は早退させて……","I`ll tell him how I feel. I haven`t at all yet.
+ Yamamoto-san, please let me leave ear-"
+Yamamoto Akuji (talking),……おうおう、早退でも有給でもやるから さっさと大杉んとこ行ってこい。,"I`ll give you paid leave, even, just go meet him."
+Yamazawa Asami (talking),"はいっ。
+ ……有り難うございました、山本さん。","Yes!
+ ...Thank you very much, Yamamoto-san."
+Yamamoto Akuji (talking),くっそー、ムカつく…… 大杉の気が変わって フラれたりしてくんないかねー……,"Dammit, this pisses me off... Maybe Oosugi`ll have a change of heart and dump her..."
+narrator,"だが、八つ当たりじみた悪司の望みが 叶うはずはない。
+大杉は、麻美の口から事の顛末を聞いた上で 全てを受け入れて──
+二人はめでたく、想い合う仲になったのだった。","But the wish born out of Akuji`s tantrum would not come to be.
+ Oosugi listened to Asami disclose the whole truth to him, accepting her...
+ ...and the two became a happy couple."
+Yamamoto Akuji (talking),なーなー、嬢ちゃん。,"Hey, missy."
+Yamazawa Asami (talking),……はい、何でしょうか？,...Yes? What do you need?
+Yamamoto Akuji (talking),大杉とはうまく行ってんのか？,Are things going well with Oosugi?
+Yamazawa Asami (talking),はい、幸いに。,"Yes, fortunately."
+Yamamoto Akuji (talking),だろーな。 幸せそーな顔してるもんなー。,Figured. You look happy.
+Yamazawa Asami (talking),そ、そう……ですか？,D-Do I...?
+Yamamoto Akuji (talking),そーかそーか、うまく行ってんのか。 それはそれは毎日ズコバコと ヤりまくってんだろーなー。,"Nice, so it`s going well. That must mean you`re going at it like rabbits every day."
+Yamazawa Asami (talking),………………,...
+Yamamoto Akuji (talking),で、どうよ。ホントに毎日ヤってんのか？,Well? Am I right?
+Yamazawa Asami (talking),……怒りますよ、本気で。,...I`m going to get angry.
+Yamamoto Akuji (talking),……ありゃ？ さっきはこのへんに山沢の嬢ちゃんが 居たと思ったんだが……,...Huh? Coulda sworn Yamazawa was around here just now...
+Oosugi Tsuyoshi (talking),若、どうか致しましたか。,"What`s the matter, Young Master?"
+Yamamoto Akuji (talking),おう、大杉。居たのか。 山沢の嬢ちゃん知らねーか？,"Oh, it`s you, Oosugi. You know where Yamazawa is?"
+Oosugi Tsuyoshi (talking),ああ、麻美でしたら今、 小用で席を立っただけですから すぐに戻ってくるかと。,"Yes, she had a small matter to attend to at the moment and will be back soon."
+Yamamoto Akuji (thinking),………………うわ。 麻美、だと。呼び捨てだよオイ。 しかもさらっと言いやがった。,"(...Whew. Asami, huh? He`s calling her by her first name, no big deal?)"
+Oosugi Tsuyoshi (talking),……む、話した側から。 若、麻美が戻ってきたようです。,"...Speak of the devil. She`s back, Young Master."
+Yamazawa Asami (talking),……今戻りました。 山本さん、私に何か？,"I`m back. What do you need, Yamamoto-san?"
+Yamamoto Akuji (talking),おう。 おめーに用があってな。,Yo. I got something to talk to you about.
+Yamamoto Akuji (talking),嬢ちゃん、 俺の部屋に行くか。,"Alright lady, we`re going to my room."
+Yamazawa Asami (talking),"えっ……？
+あ、け……結構です。 調子は良くないと言っても、 もう禁断症状はそれほど…………
+ …………っ、あっ……！","Huh...?
+ Oh, n-no, I`m fine. I may not be at my best, but I don`t have any withdrawal-
+ ...Ah...!"
+narrator,悪司は麻美の手を取って自分の方に引き寄せると、 強く抱きしめて唇を奪った。,"Akuji pulled Asami towards him. Then, he embraced and kissed her."
+Yamazawa Asami (talking),"ん……う、うううっ…………！
+ …………ん、う……っ、む…………
+ ………………","Mmmm, mmmmmnnnnh!
+ ...Mmn, mnh... mmmmn...
+ ..."
+Yamamoto Akuji (talking),無理すんな、素直になれ。 黙ってついてこい。,"Don`t push yourself, just be honest. Be quiet and follow me."
+Yamazawa Asami (talking),………………,...
+narrator,麻美は悪司に肩を抱かれて、 導かれるままに部屋へと入っていった──,"With Akuji`s arm aound her shoulders, Asami was brought into his room--"
+cg narrator,"──結局、事が始まってしまえば 完全に悪司のペースだった。
+「ふあ、ああっ…………！　あああっ……！」
+突き上げてくる感触に、そこから生まれる快楽に、 麻美はだんだん、我を忘れていく。
+「……いい声だ。もっと感じていいんだぞ。 　その方が、俺も嬉しいんだからよ」
+そう言う悪司の手が、麻美の躰を這い回る。
+──気持ちいい。
+「ひうっ……ううンっ！ 　や、あ……やああっ……！」
+喘ぎ声をどんなに抑え込もうとしても、 麻美の意志を裏切って口からこぼれ続ける。
+いや、裏切っている訳ではなかった。
+（す…………ごい、もっと………………）
+麻美の無意識が、行為を求める。 もっと高まりたいと、悪司の躰に四肢を絡ませる。
+（や、だ……すご、いっ………… 　すごい…………いやらしいっ…………！）
+やがて、白く染まった麻美の意識は、 無意識との境目を薄れさせていく。
+──感じていることが、 そのまま言葉になっていく。
+「あ、やあぁ……！　す、ごい……ッ………… 　い、や……いやらしくてっ……こんな………！」
+「……そーか、いやらしいか。 　でも、いやらしくして欲しかったんだろ？」
+「ふあ、ああああっ…………あああっ……！」
+麻美は、否定しない。
+無意識と意識が入り乱れた今の麻美が、 悪司との行為を拒むはずがなかった。
+「もっともっと、いやらしい思いさせてやるよ。 　そら、いいぞ……何度でもイッちまえっ！」
+「ふあっ！　あ……はあああああっ………！！」","In the end, once they started, Akuji completely dictated the pace.
+ Fwaaahn, aaaahn! aaaahn!
+ The pleasure born from each thrust made Asami gradually forget herself.
+ Nice moans. Go on, feel even better. That pleases me more, too.
+ Akuji ran his hands over Asami`s body.
+ --It felt good.
+ Hyaaau, mmmmmnh! Y-Yaaaaaaaahn!
+ No matter how hard she tried to suppress it, Asami kept moaning agaisnt her will.
+ Or rather, it was not against her will.
+ (Incredible... More...)
+ Asami`s subconscious craved the act. Seeking more pleasure, she wrapped her limbs around Akuji.
+ (N-No way... Amazing... This is so... obscene...!)
+ Before long, the line separating her consciousness from her subconscious blurred.
+ The pleasure she was feeling was put into words.
+ Ahn, yaaaahn! A-Amazing...! Th-This is... so dirty...!
+ ...Dirty, huh? I see. But you wanted it to be dirty, right?
+ Fwah, aaaaahn! aaaaaaaaahn!
+ Asami did not deny it.
+ With her mind as muddled as it was, there was no way for her to reject what Akuji did to her.
+ I`ll do something even dirtier to you. Good... cum as much as you want!
+ Fwaaaahn! ah... aaaaaaaaaahn!"
+Yamamoto Akuji (talking),どうだ、着替えは終わったか？,You finish changing yet?
+Yamazawa Asami (talking),……はい。,...I have.
+Yamamoto Akuji (talking),気持ちよかったか？,Did it feel good?
+Yamazawa Asami (talking),………………,...
+Yamamoto Akuji (talking),そーか、んじゃ今日は ぐっすり眠れそーだな。,"I see, then looks like you`ll get some good sleep tonight."
+Yamazawa Asami (talking),…………私は…… 弱い女なんでしょうか。,...Am I... a weak woman?
+Yamamoto Akuji (talking),ん？,Hm?
+Yamazawa Asami (talking),"拒んでも良かったのに…… 拒めなくて……
+正直に言うと…… 途中からは、自分で求めました。
+まるで、薬漬けに されていた頃みたいに……
+快楽に負けて、 もっと欲しくて……
+ ……そんな自分が、すごく嫌で……","I should`ve rejected you, but I couldn`t.
+ To be honest, halfway through...  I started to want it as well.
+ It was just like when I was injected with drugs...
+ I lost to the pleasure, and sought more...
+ I hate myself when I`m like that..."
+Yamamoto Akuji (talking),あのなぁおめー、腹減った時に メシ食いてぇって思ったことないのか？,"Look, do you think anything of eating when you`re hungry?"
+Yamazawa Asami (talking),えっ……？,Huh?
+Yamamoto Akuji (talking),"気にするこたぁねーんだぞ。 抱かれたいっつーのは 女だったら当然だ。
+男だって女抱きてーって思うもんだ。 俺だって例外じゃねー。
+クスリなんかと一緒にすんなよ。 人間だったらすんげぇあたりまえだぞ。 なんでこれを嫌に思うんだ？","It`s nothing to worry about. It`s natural for a woman to wanna have sex.
+ And men want to sleep with women. I`m no exception.
+ Don`t compare it to drugs. It`s in human nature. Why do you hate that so much?"
+Yamazawa Asami (talking),…………それは……,That`s...
+Yamamoto Akuji (talking),悩むんじゃねーよ。 世辞抜きで良かったぜ、 おめーとのセックスはよ。,Don`t worry about it. Having straightforward sex with you felt good.
+Yamazawa Asami (talking),………………,...
+Yamamoto Akuji (talking),さ、仕事に戻ろーぜ。,"Now, let`s get back to work."
+Yamazawa Asami (talking),はい……,Yes...
+Yamamoto Akuji (thinking),さーて、ぼちぼち嬢ちゃんを誘って セックスしといてやんねーと…………,"(Alright, gotta invite her for sex soon...)"
+Yamazawa Asami (talking),あの……山本さん。 少し、いいでしょうか……,"Um, Yamamoto-san...  may I have a minute?"
+Yamamoto Akuji (talking),…………ん、おお。何だ？,"...Oh, sure. What is it?"
+Yamazawa Asami (talking),"あの……私、 最近また、禁断症状が……
+ですから、あの……","Well... Lately, my withdrawal`s kicked in again...
+ So, um..."
+Yamamoto Akuji (talking),抱いて欲しいってか？,Want me to fuck you?
+Yamazawa Asami (talking),………………,...
+Yamamoto Akuji (talking),"ちょーど良かった、俺も今、 ヤらねーかって言おうと思ったところ だったんだよ。
+さ、部屋に行こうぜ。","That works out nicely. I was just thinking of asking if ya wanted to do it.
+ Now, let`s go to my room."
+Yamazawa Asami (talking),……はい。,...Okay.
+cg narrator,"──部屋に響く、粘性の水音。 そして、鼻にかかった麻美の声。
+ 「ふあっ……ああっ、あああっ…………！」
+気持ちよかった。 ──純粋に、気持ちよかった。
+ぐずぐずに溶けた自分の躰を、 鋼のように硬い悪司のものが行き来する。
+考えてみれば、それだけのことだ。 自分の中に他者を導き入れる、 おぞましい行為のはずだ。
+けれど、麻美はそれを心の底から欲し── 今、悦びに打ち震えて涙すら滲ませている。
+ 「す、ごい…………凄いッ……あああっ！ 　やあ、やはああアっ……！　ふあやあッ……！」
+ 「……いい声だ。大分、慣れてきたみてーだな。 　もっと素直になれよ、 　そうすりゃもっと気持ちよくなる」
+ 「ああっ、あああっ……やはああああっ！」
+ 「なあ、嬢ちゃん。もっと欲しいか？ 　もっと欲しけりゃそう言いな。 　言ってくれりゃ、もっと激しく突いてやるぜ」
+ 「…………っと…………もっと下さいっ……！ 　もう、少し……もう少しで、私っ……！！」
+ 「……イケそーなんだな？ 　オーライ、今、望み通りにしてやる……！」
+ 「あ…………ああああっ………………！ 　や、は…………ぁ────────────！」
+目の前が──白くなる。 躰の感覚が失せていく。
+絶頂。","A sticky, wet sound echoed throughout the room, together with Asami`s moans.
+ Fwaaahn! aaaahn, aaaaaaaahn!
+ It felt good, plain and simple. Akuji`s rock-hard dick went in and
+ out of her wet, relaxed body. If she were to think about it,
+ then leading a man`s genitals inside her should`ve been a repulsive act. However, Asami desired it
+ with all of her heart - she shook and even cried from the pleasure.
+ Amaziiiing! aaaahn! N-Noooooooo! haaaaahn!
+ ...Nice moans. Looks like you`ve gotten used to it. Be more honest with yourself, it`ll make you feel even better.
+ Aaaahn! aaahn, yaaaaaaaahn!
+ Hey, do ya want more? If so, then say it. I`ll fuck you harder if you do.
+ ...Give me more...! I... I`m almost there...!
+ You about to cum? Alright, I`ll give you what you want!
+ Aaaaahn! No, ahn, AAAAAAAAAAAAAAAAAHN!
+ Her vision went blank. Her body lost all sensation.
+ Climax."
+cg narrator,"「……ぷぅ。 　よ、嬢ちゃん、気持ちよくイケたか？」
+麻美は、悪司の問いの答えを声にはしなかったが、 眉根を寄せたまま絶頂の余韻に躰を震わせて、 小さく、こくりと頷いた。
+ 「……可愛いもんだ。 　どうだ、もう一回するか？」
+やはり、麻美は声にはしなかった。 けれどまた、静かに頷く。
+ 「よしよし……せっかくだしな、 　二度か三度はイかなきゃな」
+悪司は、麻美の上に再度覆い被さる。
+ ──その、悪司の逞しい躰に、 麻美は自ら手足を絡めていった。","...Phew. How was it, missy? You cum good?
+ Asami did not voice an answer, but as her whole body trembled from the afterglow, she faintly nodded.
+ Aren`t you cute. How `bout it, wanna go another round?
+ Again, Asami did not voice an answer, yet silently nodded once more.
+ Good... While we`re at it, might as well make you cum two more times.
+ Akuji got on top of Asami once again.
+ Asami wrapped her arms and legs around Akuji`s manly body."
+narrator,──事が終わって。,--After they finished.
+Yamazawa Asami (talking),"………………
+あの……山本さん、 有り難うございました……","...
+ Um... thank you, Yamamoto-san..."
+Yamamoto Akuji (talking),"礼なんか要らねーぞ。 俺も気持ちよかったぜ。 サンキューな。
+あ、俺ちと昼寝したくなったからよ、 わりーけどここでお別れでいいか？","No need to thank me. I felt pretty good too. So thanks.
+ I kinda wanna take a nap, so wouldja mind if we stopped here?"
+Yamazawa Asami (talking),"……はい。
+それじゃあ、失礼します。","...Not at all.
+ Now then, please excuse me."
+Yamazawa Asami (thinking),"………………
+もう、禁断症状なんてここ最近 ほとんど出てないのに……
+私は、弱い女…… 快楽に負けて、抜け出られなくて……
+ ………………","(...
+ I`ve barely had any withdrawal episodes lately...
+ I`m a weak woman... I`ve lost to the pleasure...
+ ...)"
+Yamazawa Asami (talking),…………はあっ……,...Haah.
+ (talking),んじゃ嬢ちゃん、俺の部屋に行くか？,Wanna go to my room?
+Yamazawa Asami (talking),お断りします。 もう必要ありませんから。,I must refuse. There`s no need to anymore.
+ (talking),………………,...
+Yamazawa Asami (talking),………………,...
+ (talking),ま、そりゃそっか。,"Well, guess that`s true."
+ (talking),なー、嬢ちゃん。 いっちょ別の仕事やってみねーか？,"Hey, missy. Wanna try your hand at a different sorta job?"
+Yamazawa Asami (talking),別の仕事……ですか？,A different job?
+ (talking),嫌か？,Don`t wanna?
+Yamazawa Asami (talking),いえ、どんな仕事であろうと 全力で取り組むのが私の信条です。,"No, I`m confident I can do any job at the best of my ability."
+ (talking),おお、そう言ってくれると思ってたぜ。,Knew you`d say that.
+Yamazawa Asami (talking),……あの、ところで、 どんなお仕事でしょうか？,"...By the way, what sort of job is it?"
+ (talking),んーとな、売春。,"Well, prostitution."
+Yamazawa Asami (talking),………………,...
+ (talking),………………,...
+Yamazawa Asami (talking),本気で仰っているのなら、 刺し違える覚悟で抵抗させて頂きますが。,"If you`re serious, I`m prepared to revolt against you."
+ (talking),言ってること違うじゃねーか。,That ain`t what you said.
+Yamazawa Asami (talking),場合によります。,There are exceptions.
+ (talking),つーかおい、目がマジだぞ。 殺気立つなって。,"Shit, you look dead serious. And ready to kill me."
+Yamazawa Asami (talking),当然の反応だと思いますけど。,I think it`s a valid response.
+ (talking),………………,...
+Yamazawa Asami (talking),………………,...
+ (talking),………………………心配すんな、冗談だ。,"...Don`t worry, I was joking."
+Suteki Ishi (talking),"…お~、おぉんや？ 前に作ったヒロポン800ml、 おらぁ何処にやっちゅうがかね…
+こっちのビーカー……は催淫剤、 こっちのフラスコ……は覚醒剤、 こっちの試験管は……何やったきね？","...Oh? Where did I leave that 800 ml of meth I`d made...?
+ Was it this beaker? Nope, aphrodisiacs. This flask? Nah, stimulants. And what the shit`s in this tube?"
+narrator,言いながら、素敵医師は試験管の中身を 一息に飲み干した。,Doctor wonderful drank down the test tube`s contents in one gulp.
+Suteki Ishi (talking),"お…おおおおおおっ……
+えっ、えっええっ、えっ…… ……えっくすたしぃ~~~~~~！！
+ ………………
+ ……………ぷぇえ、いかんがいかんが。 絶頂誘発剤やったが… 五発くらいイッてしもうたがよ…
+なんか、股がズルズルしちゅうが… スペルマまみれんなっちゅうがよ…
+ ……まあええが。","Oh...
+ ooooooooh...! E-E-E-E-ECSTASYYYYYYYY!!
+ ...
+ Ptoo, that was dangerous. That was a climax inducer... I came like 5 times.
+ My crotch feels kinda itchy... it`s drenched with sperm.
+ ...Eh, whatever."
+narrator,その時、素敵医師の居た部屋の扉が 突然バンと音を立てて勢い良く開いた。,"At that moment, the door to Doctor Wonderful`s room suddenly and loudly flew open."
+Suteki Ishi (talking),……お？　誰か来たがか？,...Huh? Is someone here?
+Yamazawa Asami (talking),こっ… これは一体、どういう事…,Wha... What in the world is this...?
+Suteki Ishi (talking),おやあ…えらいべっぴんさんながよ。 ……その制服、市議会の職員ながか？ うちの組になんか用ながか？,"Ooh, what a hottie. ...That uniform, you with the City Council? You got business with us?"
+Yamazawa Asami (talking),あなた…長谷川均っ……！ ここで何をしているんですっ！,You...! Kin Hasegawa! What are you doing here?!
+Suteki Ishi (talking),おほ！？ おらぁの本名知っちゅうがか？ こらぁめんどしいことんなったがよ…,Oh?! Ya know my real name? This shit might be troublesome...
+Yamazawa Asami (talking),…………市橋さんはどこです。 話があります、教えなさい。,...Where`s Ichihashi-san? I need to talk to her.
+Suteki Ishi (talking),…市橋？　組長やった女ながか？ 何ぞ用があるがか？,Ichihashi? Ya mean the Boss lady? What do you need from her?
+Yamazawa Asami (talking),"今街に溢れ返っている 薬物中毒患者について話があります。
+街の秩序は現在最悪の状態です。 …長谷川均、あなたの放逐を含めて 早急に取り決めないと……","I need to talk to her about the drug addicts showing up all over the city.
+ The public order`s in shambles. ...We also need to agree on having you banished ASAP."
+Suteki Ishi (talking),"あー、そらぁ遅かったがよ。
+今、この組はおらぁのモンやき。 おらぁが組長やきね。","...Oh, you`re too late for that.
+ See, the Family`s mine now. I`m the Chairman."
+Yamazawa Asami (talking),戯れ言をっ……,Quit joking around-
+Suteki Ishi (talking),"ほんとながよ。 組の中で下克上したきね。
+今頃は昔の組長さん、 地下室でデカオのオモチャに されとるはずながよ？","I`m serious. I overthrew her `n all.
+ The former Boss` probably in the underground room getting railed by Dekao right now."
+Yamazawa Asami (talking),"………………
+市議会に届け出もなく、 組長を交代するなどと… 許されると思っているのですか？","...
+ Replacing the chairman without reporting to the Council... think we`ll let you get away with that?"
+Suteki Ishi (talking),別に許してほしいちゅうて これっぽっちも思っとらんがよ？,I don`t really give a shit if ya won`t let me get away.
+Yamazawa Asami (talking),ならば地域管理組合の免許を 監督役権限で一時剥奪します。 あなたは事情聴取のため私と同行して…,"Then as the admin for this RMG, I`m revoking its license. Now, you`ll come with me for questioning-"
+Suteki Ishi (talking),あーあー、やかましいねえちゃんなが。 おまぁの言うことなぞ聞く耳もたんが。 ほれ、帰れ、帰らんか。ほれ。,"Man, what an annoying girl. I`m not listening to ya. Now go on, git."
+Yamazawa Asami (talking),その態度っ…… 公務執行妨害ならびに 地域治安維持義務の放棄と見ます…！,You...! I`ll take this as obstruction of official duties and abandonment of RMG obligations!
+Suteki Ishi (talking),…はぁん、それがどうしたっちゅうが？ 市議会の部隊でも送り込むがか？ 面白いがよ、やっちゃるがよ？,"...So? What about it? Ya gonna send some troops from the Council? Sounds fun, bring it on."
+Yamazawa Asami (talking),"………………
+ ……思い上がるな、犯罪者っ！ 私一人で充分だ！","...
+ Don`t get conceited, you criminal! I can take you myself!"
+Suteki Ishi (talking),"おーこわ。 おーーーこわ。
+おーい、組長がピンチながよ。 わかめ組の組衆、助けてくれんがか~？","Oooooh, scaryyyyyy. Hey guuuuys,
+ your boss` in trouble. Come help meeee."
+narrator,"素敵医師がそう言うと、 薬でもはや理性も何もかも破壊された連中が どこからともなくふらふらと五人ほど現れた。
+──だが、麻美は怯む様子もない。","With Doctor Wonderful`s call, five men who had lost everything - including their minds - to drugs appeared out of nowhere.
+ And yet, Asami showed no hint of fear."
+Yamazawa Asami (talking),"そちらから罪を重ねていくのか。 ……好都合だ。
+骨の四、五本叩き折ってでも 貴様は牢獄に叩き込む！ ……覚悟しろ、長谷川均！！","So you`re adding to your crimes? ...How convenient.
+ I`m throwing into jail, even if my bones get broken! Prepare yourself, Hasegawa!"
+narrator,"──まさに、圧倒的だった。
+麻美がつかう格闘術は脚による打撃を主とした もので、その熟練度たるやあらゆる意味で 達人級のものだったのだ。
+それに比べて、麻薬に冒された者たちは 動きも鈍く単純で、麻美の躰に触れることすら できずにばたばたと倒れていく。","-It was truly overwhelming.
+ Asami`s CQC technique primarily consisted of attacks with the legs, and she was a master in every sense of the word.
+ In comparison, the drug addicts were slow in both movement and though, and were defeated without having so much as touched Asami."
+Suteki Ishi (talking),"………………
+め、めちゃくちゃ強いが… このねーちゃん…
+ど、どぉしたらええがやろ… 勝てんがよ、こんな女…","...
+ Th-This chick`s really fuckin` strong...
+ Wh-What should I do...  She`s gonna beat me..."
+Yamazawa Asami (talking),"……最後の一人も斃したぞ。 あとは貴様だけだ。
+覚悟しろ、長谷川。","...That`s the last one down. You`re the only one left.
+ Prepare yourself, Hasegawa."
+Suteki Ishi (talking),でっ、デカオー！　デカオーっ！！ 先生ピンチながよ、 遊んでないでこっち来るがよー！！,D-Dekao! Dekaooooo! Doctor`s in trouble! Quit playing and come save me!
+Yamazawa Asami (talking),助けなど呼ばせはしないっ！,I won`t let you call for help!
+narrator,"素早く間合いを詰めた麻美は、 素敵医師の躰へ横薙ぎに蹴りを放った。
+ 　　［どっ、ぐぎっ…………！］
+その蹴りは、素敵医師の腕に命中し、 骨が砕ける鈍い音を立てた──","Asami quickly closed the distance between them and delivered a horizontal kick to Doctor`s body.
+ 　　*Bam!* *Crrrack!*
+ The kick landed square on his arm, and the sharp sound of a bone breaking was heard."
+Suteki Ishi (talking),"…………あ、が…………あががっ……
+あんぎゃーー！！ ぎゃふぎょふげぎゃひー！！ 痛いがよー痛いがよー！！！！","...Ah... gah... aaaargh...
+ Aaaaaargh!! Gyaaaah, haaaaargh!! It hurts, it huuuuuurts!!"
+narrator,叩き折られた腕を抱えて、 素敵医師は文字通りのたうち回る。,"olding his broken arm, Doctor Wonderful quite literally writhed in pain."
+Yamazawa Asami (talking),その程度で済んだのを幸いと思え。 長谷川均…地域管理組合法違反で 逮捕するっ！,You should be glad it wasn`t worse. Kin Hasegawa... you`re under arrest for breaking RMG laws!
+Suteki Ishi (talking),い、痛い痛い痛い痛い痛いがよー！！ お、おらぁの腕が、腕がーー！！ ひ、ひぃ、ひいいいいいいっ！！,"Ow ow ow ow ow ooooooow! M-My arm, my aaaaaaarm! Eeeeeeeeeeek!!"
+Yamazawa Asami (talking),……無様な… さあ立てっ！！,...How unsightly... Stand up!!
+narrator,"そう言って、山沢が素敵医師の着た 白衣の襟首を掴む。
+ ──その時だった。","Asami grabbed Doctor Wonderful`s lab coat by its collar.
+ Then, it happened--。"
+Suteki Ishi (talking),…………甘いがよ。,...How naive.
+narrator,素敵医師は突然立ち上がって、 麻美の腕に注射器を一本突き立てた。,Doctor Wonderful quickly stood up and stuck a syringe on Asami`s arm.
+Yamazawa Asami (talking),"っ…！ 貴様、何を…………
+ ………………っ、く…… 何を……","...! You bastard, what are you-
+ ...Kh! What, did you..."
+narrator,"──麻美の視界が、暗転する。
+意識はあるのだが、一瞬のうちに 肉体からあらゆる感覚が喪失していき、 指一本動かせられなくなった。","Asami`s vision blacked out.
+ Her consciousness remained, but her body lost ts senses one by one and she became became unable to move a single finger."
+Suteki Ishi (talking),"……おらぁ痛覚なんぞとうの昔に イッてしもうちょるがよ。 殺すつもりで来んといかんちや。
+ん？　ほれ。 聞こえちょるがか？","...I lost my ability to feel pain ages ago. If you come at me, you gotta go for the kill.
+ Hm? Hey. Can`t you hear me?"
+narrator,山沢は必死で立ち上がろうとするが、 躰がぴくぴくと痙攣するだけで それ以上躰は反応しなかった。,"Asami desperately tried to stand up, but her body would not move at all aside from its occasional spams."
+Suteki Ishi (talking),"……なんか、淫靡な感じやね… イッたあとのおなごしみたいながよ。 ピクッ、ピクッて…ゾクゾクするが。
+ ……くけ、くけけけ…… ええがよ、これはええがよ… そそられる光景ながよ……
+ …だいたいのー、おなごしが こんな暴力振るうたらいかんがよ。 おなごしちゅうのは、こう……
+ ……きへ、きへへ……
+自分から股開いて濡れ濡れで、 めんたまトロ~ンでないといかんがよ。
+まあ、じきにそうなれるが。 おらぁが付きっきりで バカスカ薬射っちゃるき……
+うへ…えへけけへ…… ぞ、ぞくぞくしてきたがよ…… きへへへへへへ……","...This feels kinda obscene. You sorta look like a girl who just got done cumming.
+ ...Keheh, keheheh... Good, very good... What a fascinating view...
+ In the first place, girls shouldn`t be so violent. They should be more like this...
+ Kiheh, kiheheh...
+ They should open their legs on their own, sopping wet and teary-eyed...
+ Meh, you`ll be like that soon.  I`ll be with ya the whole time and pump you fulla medicine...
+ Heheh, eheheheh... I-I`m getting excited... kiheheheheh..."
+narrator,"素敵医師はそう言うと、 麻美の後頭部を思い切り蹴り飛ばす。
+ ──麻美の意識は、そこで途絶えた。","Doctor Wonderful then kicked the back of Asami`s head with all he had.
+ That`s when Asami`s consciousness faded."
+Suteki Ishi (talking),……呼ばれて出て来たがよ。 おらぁが今の組長やが、 おまぁは誰ながか？,"...I`m here, since ya called for me. I`m the Chairman now, but who are you?"
+shigikaishokuin (talking),…私の姿をご覧になれば、 用件はすぐ察して頂けるかと思いますが。,...I believe you can deduct why I`m here from my attire.
+Suteki Ishi (talking),解らんがよ。 さ~っぱり解らんき。,"No, I can`t. Don`t got the faintest clue."
+shigikaishokuin (talking),とぼけないで下さいっ！ 山沢麻美さんを探しに来たんです、 あなたなら知っているはずだ！,Please don`t feign ignorance! I`m searching for Asami Yamazawa-san! You should know where she is!
+Suteki Ishi (talking),"やまざわぁ？ …ああ、市議会のねーちゃんながね。
+ん？　そぉ言うたらおまぁも 市議会の制服着ちゅうがね？","Yamazawa? ...Oh, that chick from the City Council.
+ Hm? Now that you mention it, that`s the Council`s uniform, yeah?"
+shigikaishokuin (talking),"白々しいっ……！ 麻美さんは貴様の件でこの組を訪れて それから行方不明になっているんです！
+あなたが知らない筈はありません！ 麻美さんはどこです、教えなさいっ！","How disingenuous! She came here because of you and has since disappeared!
+ There`s no way you don`t know where she is! Tell me!"
+Suteki Ishi (talking),えらい熱心な若衆なが… さてはおまぁ、その麻美ちゅう おなごしにホレちゅうがか？,"Passionate young fella, huh. You in love with this Asami chick or somethin`?"
+shigikaishokuin (talking),"な……何？
+麻美さんは私の上司です、 だから探しに来たんです。 そんな不純な……","Wh-What?
+ Asami-san`s my superior, which is why I came to search for her. I have no ulterior motive-"
+Suteki Ishi (talking),"ムキになるところがあやしいき。 まぁ、ムリもないきね、 あのおなごし、べっぴんさんやきね？
+大丈夫、大丈夫ながよ。 すぐ会わせちゃるき。 ほれ、ついて来とおせ。","Nah, you got too worked up about it. Well, can`t blame ya, she`s a real hottie.
+ Don`t worry, don`t worry, I`ll let you meet her. Here, come with me."
+shigikaishokuin (talking),……く……,...Kh...
+cg narrator,"その市議会職員の青年は、素敵医師が導くままに わかめ組事務所の奥へと向かう。
+ 「それにしても、その麻美ちゅうおなごし。 　けっこう人望ありゆうみたいながね？」
+素敵医師が話しかける。
+ 「……それが何です」
+ 「そがい素っ気のうせんでもええがよ。 　実はなぁ、おまぁの他にも三人くらい、 　麻美はおらんがかちゅうてここに来たがよ」
+ 「な……？ 　そんな話、聞いたことも……」
+言いかけた青年を、素敵医師は手で制す。
+ 「……ほれ、麻美ちゅうおなごしは 　この中におるがよ」
+素敵医師が指した先は、ごく普通の障子戸だった。 鍵も何もついていない、普通の部屋である。
+ 「………………」
+何かの罠かと思い青年は一瞬躊躇したが、 彼は思いきってその障子戸を開け放った。
+すると──","The young City Council employee followed Doctor Wonderful to the depths of the Wakame office.
+ But anyway, that Asami chick seems to be pretty popular, huh?
+ Doctor Wonderful started talking.
+ ...What about it?
+ Don`t be so curt, man. Turth be told, you`re the fourth guy to come here asking about Asami.
+ Huh...? I didn`t hear anything about-
+ Just as the man began talking, Doctor Wonderful stopped him.
+ ...Here, that Asami`s chick in there.
+ Doctor Wonderful pointed towards a normal room, closed by a paper door without a key.
+ ...
+ Thinking it was a trap, the man hesitated for a moment, but then boldly opened the door.
+ Inside was-"
+cg narrator,"「なっ……なんだ、これ……」
+衝撃のあまり、青年の思考は止まる。 ──躰が硬直する。
+部屋の奥手で壁にもたれて蠢く影。 暗い室内に充満した牝のにおい。 そして、息遣い。淫らに繰り返される喘ぎ。
+それらが全て、目の前にいる女の痴態── 山沢麻美の恥ずべき行為の証なのだと、 青年は自分の中で納得することができなかった。
+「う……あ、く…… 　ふふっ……う、あぁ……やあぁ……」
+麻美の口が、半開きのままで微かにふるえている。 ふるえる度に恍惚とした声が漏れてくる。
+彼女の目は、虚ろだった。 悦楽に潤み、濁りきっていた。 どこも見ておらず、視線はただ宙を漂っていた。
+麻美は、自分の部下が今ここに居て、 自分の姿を目の当たりにしているなどと、 まるで気付いていないように見えた。
+──いや、気付いていたとしても、 それは今の彼女には取るに足らない事なのだろう。
+「う、あ……ああっ……やぁ……」
+くちゃ、にちゃ──
+麻美の秘部から、音がする。 粘質性の、重い水音。
+下着すら着けていない露出した下半身で、 彼女自身の手がしきりに蠢いていた。
+自らの胎へ、ディルドーを突き立てて。 ──そこから湧き起こる肉の悦楽を、ただ貪る。
+「くけ……へけけっ…… 　ええ感じになっちゅうがやろ？ 　……お、そろそろイクみたいやが……」
+青年の傍らで素敵医師が囁く。 だが、その声はおそらく青年に届いていない。
+「ああっ……や、いや…… 　あ、いいっ、い……ひあっ……！」
+麻美の声が、感極まって上擦り始めた。 秘裂をくじるディルドーの抽挿が わずかに速くなる。
+「いっ、いく……も……らめっ………… 　あ……や…… 　………………やあ、あ…………」
+顎が震え、白目を剥き──
+麻美の躰が、動かなくなる。
+そして、脱力。
+絶頂後の放心に、麻美の顔が惚けていく。 この部屋に沈黙が訪れる。
+その沈黙が、 呆然とする青年に意識を取り戻させた。
+「……あ、あなたはっ……… 　麻美さんに……何をしたんですかっ……！」
+麻美の躰から目を逸らし、静かに言う。 握りしめた拳が怒りに震えていた。
+「見たら解るがよ、お堅いべっぴんさんに 　女の悦びを教えてやったが。 　ケツも股ぐらもえぇ感じになっちゅうがよ」
+素敵医師は、事も無げに応える。
+「お陰であのおなごし、今ぁもうアソコへ向いて 　ぎっちり何か突っ込んじょらんと 　気ィ狂うて暴れるようになったがよ」
+「嘘八百をっ……」
+「ほんまやっちや。……ほぉれ、見とおせ」
+素敵医師が、麻美の方を指し示す。 すると──
+「…………あ……うぁ…… 　や、ああ……ああああああっ……」
+絶頂の後で半ば気を失いかけているというのに、 麻美は自分の秘裂に突き立てたままのディルドーを またも前後左右に揺らし始めた。
+彼女の指先が、そして局部が、 光を受けて妖しくぬめ光る。
+「くけ、けけけけ…… 　な、おらぁが言うた通りながやろ？ 　おなごしはこがいな風が一番ええき。けけ……」
+青年は応えなかった。 だから、素敵医師は調子に乗る。
+「……おお、そうじゃ。 　あんたも一発やっちゃらんがか？ 　あの女、今なら喜んで足絡めてくるがよ？」
+その言葉が、青年の心にある何かを弾けさせた。
+「……こ、こいつ……！ 　麻美さんをそれ以上侮辱するなあっ！！」
+青年は叫び、素敵医師へ猛然と掴みかかった。 素敵医師は逃げもせず、 白衣の胸ぐらを黙って掴ませる。
+「いかんちや……素直になればええがよ。 　おまぁもあのおなごしとＨしたいんやないがか？ 　腰つこうて、ほれ、こうやって。ほれ」
+へらへらと笑いながら素敵医師は腰を振る。 青年はもう怒りに任せ、素敵医師の顔へと 振り上げた拳を叩きつけようとする。
+──が。
+「……っ！　う…………？」
+素敵医師の手が、青年の首筋に伸びていた。 ──小さな注射器がそこに突き立てられている。
+「隙だらけやが、おまぁ。 　……素直になればええがよ。 　ちぃと手伝うちゃるきね」
+その言葉が終わるより早く、 青年の脳を“酔い”が襲った。
+目が回り、吐き気がする。 酒に酔ったような不快感に、青年は膝を折る。
+「う……うあぁ……っ…………！ 　い、今、何を……何をしたっ……」
+「別になぁ~んもしちょらんきよ。 　……おほ、ズボンの上からでもよう解るき。 　元気になっちゅうがね、おまぁのムスコ」
+へらへらと笑いながら、素敵医師は 青年の躰をどんと突き飛ばした。
+「っぐ……！」
+青年の躰が簡単に揺らぎ、後ろ向きに倒れる。
+──その時、彼と麻美の目が合った。 少し手を伸ばせば、その肌に触れられる距離。
+「あ……麻美さ……」
+思わず、名を呼ぶ。 ──その瞬間。
+どくんっ。 どくんっ、どくんっ、どくんっ──
+口を開きかけたその瞬間、青年の心臓が 狂ったように動き始めた。 頭に血が押し寄せ、思考が麻痺していく。
+尊敬、敬愛。そして、おそらくは恋慕。 青年の中にあった、麻美への感情。
+それらが、がたがたと音を立てて崩れていく。
+──理性が、消える。
+「っ……！ 　……が……っうあ……！！」
+手を伸ばせば触れられる距離だった。 麻美は脚をだらしなく投げ出していた。 どこまでも無防備だった。
+そして──
+「……あぁ、あは…… 　くす……ふふっ……」
+麻美が、笑った。 壊れた彼女が、青年を見て笑った。
+そして、彼女のその手が、 のろりと持ち上がる。 ──青年へと伸ばされる。
+誘っていた。
+「うっ……うあああっ…… 　ああっ、ああああああああああっ！！」
+──堕ちる。 青年の心が、その叫び声と共に堕ちていく。
+ただ、悦楽を貪る肉の塊と化した 麻美と同じ次元まで──","Wha-?! What... is this...?
+ The shock was such that the man`s thoughts stopped, his body frozen in place.
+ A shadow wriggled against the back wall. The dark room was filled with the stench of a woman, as well as repeated, lustful moans.
+ The man couldn`t believe that all of it came from the shameless acts of woman in front of him - Asami Yamazawa.
+ Ugh... ahn, kh... fwah..! mnh, aaaaahn...
+ Half-opened, Asami`s mouth faintly trembled, letting out ecstatic moans.
+ Her eyes were vacant, yet also moist and cloudy from the pleasure. They drifted, looking at nothing in particular.
+ Asami seemed unaware that her subordinate was now in the room, looking at her. -Or rather, even if she did notice him,
+ that was completely trivial to her right now.
+ Ahn... aaahn! yaaah...
+ *Schlck* *Schlck*
+ A wet, syrupy sound came out of Asami`s genitals.
+ Her lower body was completely exposed, and Asami`s hands incessantly wriggled around it.
+ She inserted a dildo into her own crotch, indulging herself in the pleasure it caused.
+ Kiheh, keheheh! She`s looking good, right? ...Oh, looks like she`s gonna cum soon.
+ Doctor Wonderful murmured next to the man. However, his voice likely didn`t reach him.
+ Aaaahn! yah, aahhhh... ahn, I`m, I`m... hyaaaah!
+ Filled with emotion, Asami`s voice became shrill. he dildo in her pussy started to move slightly faster.
+ I-I`m cumming... no more...! ahn, no... no... ahn...
+ Her jaw trembled, and her eyes shot wide open-
+ Her body stopped moving.
+ And then, it lost its strength.
+ In a daze after her climax, Asami wore a blank expression. Silence settled into the room.
+ That silence snapped the dumbfounded man back to his sense.
+ Wh-What did...you do... to Asami-san?!
+ He spoke quietly, averting his eyes from Asami`s body. His clenched fists shivered with anger.
+ Can`t you tell? I taught that clever hottie about a woman`s pleasures. Her ass and her pussy have gotten real nice.
+ Doctor Wonderful nonchalantly responded.
+ As a result, if that chick doesn`t have something in her pussy at all times now, she`ll go crazy and start going wild.
+ You`re lying...!
+ Am not. ...There, take a look.
+ Doctor Wonderful pointed at Asami. When he did- ...Ahn...
+ ahhh.... no, ah... aaaaahn...!
+ Though she was still half-counscious after her climax, Asami resumed moving the dildo that had remained stuck in her pussy.
+ Both her fingers and her genitals glistened alluringly under the light.
+ Keheh, keheheheh... See? Just like I said, innit? Aren`t chicks great? Keheheh...
+ The man didn`t respond. As such, Doctor Wonderful got carried away.
+ ...Oh, right. How about you go at it with her for a round? She`ll gladly open her legs for you right now.
+ Those words made something inside the man snap.
+ Y-You bastard...! Don`t you dare disgrace Asami-san any further!!
+ The man yelled and furiously reached for Dr. Wonderful, who made no effort to dodge and let the man grab him by his lab coat`s collar.
+ That`s no good, just be honest with yerself. You wanna fuck her too, right? You wanna rail her like this, or this, yeah?
+ Doctor Wonderful swung his hips, laughing. Consumed by rage, the man raised his fist and aimed it at Doctor Wonderful`s face.
+ ...However.
+ ...! Ugh...?
+ Doctor Wonderful`s hand reached out to the man`s neck, sticking a small syringe into it.
+ You`re wide open, kid. ...You should be more honest with yourself.  I`ll even give ya a little push.
+ Before Doctor Wonderful had finished speaking, a “drunkeness” assaulted the man`s brain.
+ e felt dizzy and nauseous. The “drunken-like” discomfort made him fall to his knees.
+ Ugh... uwaaaah...! Wh-What did you, do...?!
+ Nooothing, really. ...Ohoh, I see yer pitchin` a tent. Your dick got hard, didn`t it?
+ Doctor Wonderful vigorously thrust the man`s body away, laughing all the while.
+ Ngh...!
+ The man easily fell on his back.
+ When that happened, his eyes met with Asami`s. He was close enough to touch her.
+ Ah... Asami-san...
+ He uncounsciously called her name. At that moment-
+ *Throb!* *Throb!* *Throb!*
+ As soon as he opened his mouth, the man`s heart began beating violently. Blood surged into his head, dulling his thoughts.
+ Respect, affection, and possibly love. Those were the man`s feelings towards Asami.
+ They all came crumbling down.
+ -His reason vanished.
+ ...! gah... uwah...!!
+ He was close enough to touch her. Asami sluttily opened her legs - she was completely defenseless.
+ And then-
+ ...Ahn, ahah... heehee... heeheehee...!
+ Asami laughed. The broken girl looked at the man and laughed.
+ at the man and laughed. Then, she slowly raised her hand - and stretched it towards the man.
+ She was inviting him.
+ Ngh...! Uwaaaah! Aaah, aaaaaaaaaaaaah!!
+ With that scream, the man`s mind broke down.
+ He became like Asami: a clump of flesh that sought nothing but pleasure."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+cg narrator,"「くけ……けへへへっ…… 　素直になったらええがやき……」
+「さぁて、今度の若衆…… 　ヤり尽くして壊れた後、 　どこに捨てちゃりゃええがかねえ……」
+「け、けけ…… 　けへへへへ……」","Keheh, keheheheh! Told you to be honest with yourself...
+ Now then, where should I throw this kid once he`s done fucking himself to death...?
+ Keheh... Kyahahahahah..."
+Yamazawa Asami (talking),"………………
+はぁ……","...
+ Sigh..."
+karasuba  tsuki (talking),あーさみちゃん。,Asami-chan.
+Yamazawa Asami (talking),え……あ、鴉葉さん……？,"Huh? Oh, Karasuba-san?"
+karasuba  tsuki (talking),どしたの？ 朝からずっとＳＩＧＨしてさ。,What`s wrong? What`re you sighing for?
+Yamazawa Asami (talking),さい……？,Huh...?
+karasuba  tsuki (talking),"溜息いっぱいついてるねーってコト。
+同じ管理組合監督官で席向かいだしさー、 やっぱ気になるじゃんか。","You heard me.
+ We`re fellow RMG supervisors, so of course I`d be worried."
+Yamazawa Asami (talking),ああ…… 別に、何でもないんですけど……,"Oh... It`s nothing, though."
+karasuba  tsuki (talking),ふーん。,Hmmmm.
+Nakayama Akari (talking),えーと……あ、居た居た。 山沢さん？,"Uuuh... oh, there you are. Yamazawa-san?"
+Yamazawa Asami (talking),市長……？ あ、はい、私に何か……,Mayor? Is there something you-
+Nakayama Akari (talking),"今ね、報告書貰って目を通したの。
+あなたの担当だったわかめ組、 分裂・解散したんですって？","I just got a report, you see.
+ The RMG you supervised, the Wakame Family, got dissolved?"
+Yamazawa Asami (talking),……はい。,...Indeed.
+Nakayama Akari (talking),"本当なら、私がどうこうって 言うことじゃないんだけど……
+あなた、落ち込んでないかな~って 心配になって、ちょっとだけ 寄ってみたの。","If it`s true, then while this is none of my business...
+ I was worried you were feeling down, so I came to check on you."
+Yamazawa Asami (talking),……………………,...
+Nakayama Akari (talking),あらあら……案の定だったのね。,"Oh my, I was right..."
+Yamazawa Asami (talking),すみません、市長…… 私の力が至らないばかりに……,"My apologies, Mayor. I was lacking..."
+Nakayama Akari (talking),"気にすることはないわよ~。
+報告書見る限りいろいろあったようだし、 あれじゃあ監督官一人の裁量じゃ 手に負えないもの。
+ ……もしも、わかめ組の担当が そこの鴉葉君なら、もーっと酷いことに なってたかもしれないし。","Don`t worry about it~.
+ The report said a lot happened, a single supervisor could never have handled that by themselves.
+ ...If Karasuba-kun here were in charge of them, things could`ve been so much worse."
+karasuba  tsuki (talking),うわー激烈ショックー。 ひどいや市長~。,"Geez, what a shocker. That`s so mean, Mayor."
+Nakayama Akari (talking),"ふふ、冗談よ~。
+それじゃ私、 予算会議の前だから、これでね。
+ ……山沢さん、 しばらく時間ができるでしょうし、 ゆっくり休養してちょうだいね？","Heehee, it was a joke.
+ Anyway, I have a budget meeting to attend, so I`ll be going.
+ ...Yamazawa-san, why not take some time to rest now that you aren`t as busy?"
+Yamazawa Asami (talking),……ありがとうございます、市長……,"...Thank you, Mayor..."
+karasuba  tsuki (talking),なーるほどね。 麻美ちゃんが落ち込んでたのは そーいうコトだったのかー。,I get it now. That was what had you feeling down.
+Yamazawa Asami (talking),ええ…… 恥ずかしい話ですけど……,"Yes, though it embarrasses me to admit..."
+karasuba  tsuki (talking),"気にしない気にしなーい。 これで長期休暇が取れると思えば ぜんぜんハッピーじゃん。
+そだ、ミヤコの方にでも遊びにいこーか？ 僕マイカー出すし、週末とかどう？ ねっ？","Don`t worry. Just think of it as an extended vacation, think positive.
+ Right, how about we go have fun in the capital this weekend? I`ll drive us there."
+Yamazawa Asami (talking),"………………
+いいですね、鴉葉さんは…… 悩み事なさそうで…………","...
+ How nice it must be to have no worries, Karasuba-san..."
+karasuba  tsuki (talking),…………どーいう意味さ、それー。,...What did you mean by that?
+Mori Kaoru (talking),市長、報告です。 行方不明だったわかめ組の監督官・ 山沢麻美の身柄を確保しました。,"I have a report. We`ve detained the former Wakame Family`s missing  supervisor, Asami Yamazawa."
+Nakayama Akari (talking),ええっ？　森さん、それ本当なの！？,"What?! Is that true, Mori-san?!"
+Mori Kaoru (talking),勤務中にわざわざ 嘘を吐きには来ませんよ。,Would I ever lie to you while on duty?
+Nakayama Akari (talking),"そ、そうよね…
+でも良かった、 山沢さん無事だったのね~……","I-I guess you`re right...
+ But gosh, I`m glad that Yamazawa-san is okay..."
+Mori Kaoru (talking),"……残念ながら無事とは言えません。
+彼女に何があったのかは不明ですが、 現在、重度の麻薬中毒になっており 病院の専門医に預けました。
+医師の話によると、 再び元の躰に戻れる確率は 五分と五分だとか。","...Sadly, “okay” isn`t the word I`d use.
+ We don`t know what happened to her, but she been hospitalized due to severe drug addiction.
+ The specialist doctors tell me the chances of her making a full recovery are 50-50."
+Nakayama Akari (talking),えええっ！？　た、大変じゃないの！ 森さん、今すぐ私、お見舞いに……,What?! That`s horrible! I-I`ll go visit her right away-
+Mori Kaoru (talking),"市議会の一職員のことで 市長が直々に動く必要はありませんよ。 電報と花で充分です。
+ ……いえ、 誰から何が送られてきたのかなど、 今の彼女には判別不可能だと思いますが。","You needn`t go out of your way for a single employee. Some flowers and a letter will suffice.
+ ...No, she might not even be able to discern who sent her what in her current state."
+Nakayama Akari (talking),そっ、そんなにひどいの……？ まあ、どうしましょう…………,"I-Is it that bad? Gosh, what should we do...?"
+Mori Kaoru (talking),どうもしなくて結構ですよ。 市長は市長の職務を全うして下さい。,"You don`t have to do anything. Focus on your duties, Mayor."
+Nakayama Akari (talking),"私にとっては、 同じ職場の顔見知りなのに~……
+冷たい人ね、森さん……","But she`s a subordinate I`m acquainted with...
+ You`re so cold, Mori-san."
+Mori Kaoru (talking),私は常識的なことを述べたまでです。,I`m merely stating the facts.
+Mori Kaoru (talking),市長、ここでしたか。 実は良くないお知らせが……,"So you were here, Mayor. I have some bad news to..."
+Nakayama Akari (talking),……急いでる？,...Is this an emergency?
+Mori Kaoru (talking),いいえ、さほどは。,"No, not particularly."
+Nakayama Akari (talking),なら、後回し。,Then leave it for later.
+Mori Kaoru (talking),……は？,...Huh?
+Nakayama Akari (talking),"良くないお知らせなんて言われて、 好んで聞きたがる人、いないでしょ？
+覚悟ができてからまとめて見るから、 後回しにしておいてくれない？","Who`d ever want to hear bad news after being told that?
+ I`ll go over it once I`m ready, so can`t you postpone until then?"
+Mori Kaoru (talking),"…………まあ、別に構いませんが。
+ですが、良いのですか？ 以前市長が気にかけておいででした、 元監督官・山沢麻美の件なのですが……","...Well, I don`t mind.
+ But is that fine? t`s about Asami Yamazawa, our former supervisor you were worried about."
+Nakayama Akari (talking),どうしてそれを先に言ってくれないの、 早く、早く聞かせてちょうだい。,"Why didn`t you say that sooner? C`mon, hurry and tell me, please."
+Mori Kaoru (talking),"…………………… では、報告します。
+恐らく昨晩のことかと思われますが、 彼女が病院から姿を消したそうです。
+朝、看護婦が検診に来た時には 既に病室はもぬけのカラだったとか。","... Then here`s the report.
+ She`s diappeared from the hospital. It probably happened last night.
+ When the nurse went to check on her this morning, her room was empty."
+Nakayama Akari (talking),えっ……どうして？ 山沢さん、酷い麻薬中毒だって……,"Huh?! Why? She had such a  terrible drug addiction, too..."
+Mori Kaoru (talking),"幸いにも意識を取り戻し、 拘束着も不要になったので 一般病棟の個室に移していたそうです。
+ところが彼女、一般患者から 素敵医師が再び現れたという話を 耳にしたようで……","Luckily, she`d regained consciousness and deemed stable enough for a transfer to the general ward.
+ However, she heard from the other patients that Doctor Wonderful had reappeared..."
+Nakayama Akari (talking),"何てこと……
+山沢さんは責任感強いから、 自分のせいだ、何とかしなきゃって 飛び出しちゃったのね……","I can`t beieve it...
+ She`s got a strong sense of responsibility, so she fled to set things right, I bet..."
+Mori Kaoru (talking),……ああ、そういう見方もありますね。,"...Yes, that`s one way of looking at it."
+Nakayama Akari (talking),えっ？　どういうこと？,Huh? What do you mean?
+Mori Kaoru (talking),"病院の担当医からも報告を受けまして、 彼女はまだ、一日に何回も 禁断症状に苦しんでいたそうです。
+ですから、私はてっきり、 麻薬欲しさに素敵医師の元へ 向かったのだと。","Her doctor has reported that she suffers withdrawal symptoms several times a day.
+ Which is why I`m certain that she`s looking for Doctor Wonderful to get more drugs."
+Nakayama Akari (talking),山沢さんはそんな人じゃないわ。 ああ、どうしましょう、早く……,"Yamazawa-san is not like that. Oh geez, what should I do...?"
+Mori Kaoru (talking),……既に手は打ってあります。 私の部下数人に指示しました。,"...I`ve already taken some measures, and instructed some of my men."
+Nakayama Akari (talking),本当に？　さすが森さん！ 応援が来てくれたら山沢さんも助か……,Really? That`s my Mori-san! I`m sure she`ll be fine if she gets help-
+Mori Kaoru (talking),"残念ですが、病院で監視下にあった 重度の麻薬中毒患者が脱走したのですよ？
+私の部下は、 彼女の逮捕に向かわせました。","Sorry, but this is a hospital escapee suffering from severe withdrawal, you know?
+ My men are looking for her in order to arrest her."
+Nakayama Akari (talking),そ、そんな、そんなこと絶対……,"N-No way, that`s definitely not..."
+Mori Kaoru (talking),あるわけがない、とは言えませんよね。,"You`re not telling me I`m wrong, are you?"
+Nakayama Akari (talking),………………,...
+Mori Kaoru (talking),私たち治安課は、 治安維持が使命ですから。,We from the Public Peace Office are sworn to maintain order.
+narrator,その日、市議会の庁舎内にある長い廊下を 森薫が歩いていると──,"That day, Kaoru was walking down a long corridor in the Council building when-"
+Mori Kaoru (talking),……？　誰かが走ってくる……,Someone`s running this way...?
+Yamazawa Asami (talking),……あっ、森課長！ やっと会えました、良かった……！,"Chief Kaoru! I`ve finally met you, thank goodness!"
+Mori Kaoru (talking),"あなた……山沢麻美？
+やっと戻って来たのね、 早く病院に戻って……","Are you... Yamazawa Asami?
+ So you`ve finally returned. Hurry and return to the hosp-"
+Yamazawa Asami (talking),"ご心配なく、体調は元通りです。 前と同じように働けます。
+それより、素敵医師の…… 長谷川均の居場所をつきとめたんです！","Worry not, I`m back to full health. I`ll work as always.
+ More importantly, I found Doc- no, Hasegawa Kin`s location!"
+Mori Kaoru (talking),………………,...
+Yamazawa Asami (talking),"彼はまた、麻薬中毒にした市民を煽動して 暴動を起こすつもりなんです。
+一刻を争います、通常の手続きを 踏んでいる暇はありません。 治安課の職員を出動させて下さい！","He`s planning to use addicted citizens to cause chaos again.
+ We`ve not a second to waste on bureaucracy. Please, mobilize the Public Order forces at once!"
+Mori Kaoru (talking),信用できないわ。,I can`t trust you.
+Yamazawa Asami (talking),えっ……ど、どうしてですか！？,H-Huh?! Why not?!
+Mori Kaoru (talking),"あなたは、 つい最近まで中毒患者だったのよ。 しかも病院を脱走して……
+素敵医師に適量の麻薬を与えられ、 彼の言いなりになっている可能性も 充分にあるわ。","You were an addict until not long ago. Not to mention that you escaped from the hospital.
+ There`s a good chance that man gave you a proper dose of drugs and put you under his control."
+Yamazawa Asami (talking),そっ、そんな！　私は……,N-No way! I`m...
+Mori Kaoru (talking),"それが素敵医師の手口です。 知らないとは言わせない。
+あなたの言うとおりに動けば、 私の部下が罠にかかるかもしれない。","It`s his MO. Don`t pretend ou don`t know about it.
+ I may be leading my men into a trap if I do as you say."
+Yamazawa Asami (talking),そんなっ……！ どうすれば信じて頂けるんですか！？,No...! What can I do for you to trust me?!
+Mori Kaoru (talking),"病院に戻りなさい。 全てはそれからです。
+時間をかけて診察して、 禁断症状も何もかも無くなったと 医師が判断して復職できたら…………","Return to the hospital. We`ll start from there.
+ Once you`ve been examined and the doctors deem you free from addiction and fit to return..."
+Yamazawa Asami (talking),"そんな悠長なことを している暇はありません！
+こうしている間にも、 市民は長谷川のばらまいた麻薬に 苦しめられているんですよ！？","We don`t have the time for that!
+ Even as we talk, the citizens are suffering because of Hasegawa`s drugs, you know?!"
+Mori Kaoru (talking),……焦らせて誘導させるつもり？ その手には乗らないわ。,...Think you can incite me? That trick won`t work.
+Yamazawa Asami (talking),誰も誘導なんてしていません！,I`m not inciting anyone!
+Mori Kaoru (talking),"大体、組織犯罪やテロリストでもない 一犯罪者の逮捕で治安課が動いたという 前例はないわ。
+それは地域管理組合の仕事よ。","Besides, the P.O. forces won`t mobilize to arrest one criminal who`s not even a terrorist.
+ That`s a job for the RMGs."
+Yamazawa Asami (talking),唯一全幅の信頼をおけたわかめ組は 既に解散した後なんです！ 頼る先はもう治安課の部隊しか……！,"The Wakame Family were the only ones I could trust, and they`re gone! Now only the P.O.`s left-"
+Mori Kaoru (talking),"所詮あなたの理屈ね。
+ ……誰か！ 聞こえていたら、表で警備に 当たっている職員を呼んできて！","That`s only your logic.
+ ...Someone! If you can hear me, call the guards here!"
+Yamazawa Asami (talking),………………っ！！ このわからずやっ！,...! You blockhead!
+Mori Kaoru (talking),逃げる……？ 逃がしはしないっ。,"...Running away, huh? I won`t let you."
+narrator,"薫はホルスターから護身銃を引き抜き、 走り去る麻美の背に照準を合わせる。
+ ──が、引き金を引くより早く、 麻美は廊下の窓から外へと飛び出した。","Kaoru drew her pistol and aimed at Asami`s back.
+ But before she could pull the trigger, Asami escaped out of the corridor`s window."
+Mori Kaoru (talking),……くっ。,...Kh!
+chiankashokuin (talking),……課長、 私どもをお呼びになったそうで。 何事ですか？,"...You`ve called for us, Chief? What is the matter?"
+Mori Kaoru (talking),遅かったわね、もう窓から逃げた後よ。,She escaped out the window.
+chiankashokuin (talking),窓って課長、ここは地上三階で……,What? This is the third floor...
+Mori Kaoru (talking),"とにかく、今すぐ追って。 市議会の元監督官、山沢麻美。 病院から脱走した麻薬中毒患者よ。
+市長に言って職員免許を剥奪させるから 何としてでも捕まえなさい。
+ ……麻薬中毒患者を庁舎に入れたなんて、 いい恥さらしですからね。 罪状は捕まえた後で考えればいいわ。","No matter. You`re to chase former supervisor and hospital escapee, Yamazawa Asami.
+ I`ll have the Mayor revoke her license, so use any means necessary.
+ An addict broke into the CC. What a disgrace. I`ll think about her charges later..."
+chiankashokuin (talking),は、はいっ。,U-Understood!
+Mori Kaoru (talking),……………… 堕落した女が、汚らわしいっ……,"... That filthy, corrupted wench!"
+Yamamoto Akuji (talking),"やれやれ、この辺もなんとか クソッタレなジャンキー共が うろつかなくなったか。
+ったく、クスリだきゃあなぁ、 利益より被害の方がでけぇから 手ェ出さないに限る……
+ ……ん？","Man, did we manage to get those fucking junkies from  wandering around here too?
+ Fuck`s sake, this is why we don`t touch drugs. The profit`s not worth the damage.
+ ...Hm?"
+Yamazawa Asami (talking),………………,...
+Yamamoto Akuji (thinking),"何だあいつ、 じーっとこっち見てるが……
+ ……結構、いい女だな。","(What`s with her? She`s staring at me...
+ ...She`s a pretty good woman.)"
+Yamazawa Asami (talking),あの……奉仕青年団の、 山本悪司さんでしょうか？,"Um, are you Akuji Yamamoto of the YCSG?"
+Yamamoto Akuji (talking),おう、そうだが。何か用か？,Yep. Need something from me?
+Yamazawa Asami (talking),"失礼とは思いましたが、 街の人の言葉を頼りに 待ち伏せのような真似をしていました。
+ ……一言、お礼を言いたくて。","I knew it was rude, but I heeded the citizens` words and lied in wait. ...To put it briefly,
+ I wanted to thank you."
+Yamamoto Akuji (talking),へっ？,Huh?
+Yamazawa Asami (talking),"本当に、有り難うございました。 長谷川を……素敵医師を斃してくれて。
+ ……本当に、有り難う。","For defeating Hasegawa - Doctor Wonderful, you have my thanks.
+ ...Thank you, truly."
+Yamamoto Akuji (talking),"別に礼言われるこっちゃねぇがな。 俺の街で好き勝手されちゃ たまんねぇからよ。
+ ……あ、おめーの着てる服、 市議会の制服っぽいな。 あのミイラ男を追ってたのか？","You don`t really have to thank me. I wasn`t gonna let that fucker have his way with my town.
+ ..Hey, that kinda looks like the City Council`s uniform. Were you after that mummy?"
+Yamazawa Asami (talking),…………ええ。,...Yes.
+Yamamoto Akuji (talking),なら、待ち伏せなんぞせんでも 鴉葉にでも言って事務所に来いよ。 茶菓子くれぇなら出すのに。,"Then forget lying in wait, you coulda just told Karasuba and come to my office."
+Yamazawa Asami (talking),"………………
+正面玄関は、叩けないんです。 私、追われる身ですから……","...
+ I can`t. I`m being chased myself..."
+Yamamoto Akuji (talking),は？,Huh?
+Yamazawa Asami (talking),……失礼します。,...Please excuse me.
+__system__??,{★結婚 = 1:,{★結婚 = 1:
+Yamamoto Akuji (talking),……………… 何じゃ、ありゃ……,... The hell was that...?
+narrator,そして麻美は、オオサカから姿を消した。,"Thus, Asami forever left Osaka."
+__system__??,},}
+ (talking),お、おい待てよ。,"H-Hey, wait up."
+narrator,思わず悪司は、麻美の手を捕まえる。,Akuji involuntarily grabbed Asami`s hand.
+ (talking),"…………？
+おめー、どっか体調悪いのか？ 手が震えてるぞ。","...?
+ You feeling alright? Your hand`s shaking."
+ (talking),…………っ。,...!
+ (talking),"あ。そういや治安課の方から、 元市議会の奴が麻薬中毒になって ミイラとツルんでるとか聞いたな。
+たしか、逮捕状が出てたぞ。 名前は山沢……えーと、麻美？　だっけ。
+まさか、おめーなのか？","Ah, I did hear from Public Order that some ex-CC woman`d gotten addicted and was working for the mummy.
+ Even had an arrest warrant.  I think the name was... Asami Yamazawa?
+ That you?"
+ (talking),……濡れ衣です。,...They`re false accusations.
+ (talking),だろうな、顔見れば解る。,"I know, I can tell from looking at you."
+ (talking),信じてくれるんですか……？,Do you believe me...?
+ (talking),"逆だな、おめーがあのミイラ男の 女だとか言われても信じられねぇ。
+本来なら、おめーを捕まえて 治安課に引き渡すのがスジだが……
+何なら、事情くらい聞くぞ。 そこの屋台でたこ焼きでも食うか？","The opposite. Even if you told me you were his woman, I`d never believe it.
+ Normally, I`d capture and turn you in to Public Order, but...
+ I`ll hear you out. How about we grab some takoyaki?"
+ (talking),………………,...
+Yamamoto Akuji (talking),"…………なーるほどな。 おめーも踏んだり蹴ったりだな。
+まあ、事の発端が……何だ、 俺がわかめ組を攻めたせいだってのは ちと逆恨みっぽい気もするが……","...I see. Bad shit kept happening to you, huh.
+ And what started it was me attacking the Wakame Family? Shit, kinda feels like I`M the bad guy..."
+Yamazawa Asami (talking),………………,...
+Yamamoto Akuji (talking),あ、わりぃ。 多少は責任感じてるぜ、多少はな。,My bad. I do feel a little responsible. A little.
+Yamazawa Asami (talking),いえ……いいんです。 地域管理組合のしがらみは、 理解しているつもりですから……,No... it`s fine. I think I understand the ties between RMGs...
+Yamamoto Akuji (talking),で、どーすんのよ、これから。 逃げる先のアテとかあんのか？,"So, what`re ya gonna do? Gonna keep running away forever?"
+Yamazawa Asami (talking),………いえ………,...No...
+Yamamoto Akuji (talking),"必死で働いたのに今や犯罪者、 逃げるアテもカネもねぇ、 残ったのはヤク中の躰だけたぁな。
+はー…… よくもそんだけムチャやったもんだ。","You got nowhere to go, no money, and you have both an addiction and false charges. Mna, you were way too reckless.
+ I... didn`t mean to be."
+Yamazawa Asami (talking),"無茶なつもりは……なかったんです。
+薬も抜けたと思っていましたし、 事実、躰は動いてくれていたから……
+でも、長谷川が斃れて、 緊張の糸が切れたら…………","I thought I`d gotten
+ over my addiction since I could move again, but...
+ Now that Hasegawa`s gone, and my tension`s gone..."
+Yamamoto Akuji (talking),中毒症状がドカッと来た訳か。,Your withdrawal hit you like a truck.
+Yamazawa Asami (talking),"………………
+ ……う、っく……うぐ……","...
+ ...Ugh, kh... nngh..."
+Yamamoto Akuji (talking),どうした？ ……まさか中毒症状ってヤツか？,What`s wrong? ...Is withdrawal kicking in?
+Yamazawa Asami (talking),"ここ数日、ずっと……軽かったから、 安心してたんですけど……
+だ、大丈夫です、大したことは……","It`s been fairly mild the last few days, so I`ve been feeling relieved...
+ I-I`m okay, this is nothing-"
+Yamamoto Akuji (talking),ぜんっぜん大丈夫そうな顔 してねぇぞ、おめー……,It doesn`t look like it`s nothing. There`s no helping you...
+Yamazawa Asami (talking),……話、聞いて下さって、有り難う。 私はこれで……,Thanks... for hearing me out. I`ll take my leave...
+Yamamoto Akuji (talking),おいおい、待てや嬢ちゃん。 何だよ、逃げるみてぇによ。,"Hey, wait up. Why do you look like you`re running away?"
+Yamazawa Asami (talking),……あなたに、 迷惑はかけられないから……,...Because I don`t want to cause you trouble...
+Yamamoto Akuji (talking),"こんだけ話聞いちまったら はいそうですかさよーならって訳にも いかねぇよ。
+どうせ行くとこなんざねぇんだろ？ 俺んとこ来て休んでけ。 その程度迷惑でも何でもねぇから。","As if I could turn a blind eye to this after hearing all that. Since ya got nowhere to go,
+ why not rest up at my place? You wouldn`t be causing me any trouble."
+Yamazawa Asami (talking),で、でも…………,B-But...
+Yamamoto Akuji (talking),気にすんな、道に迷ったガキを 保護するようなもんだ。 これだって地域管理組合の仕事よ。,"Don`t worry, it`s like I`m taking in a lost kid. This is also part of a RMG`s job."
+Yamazawa Asami (talking),………… すみません……,... Thank you...
+narrator,そして、悪司は自室まで 麻美を連れてきたのだが──,"And so, Akuji took Asami to his room, but--"
+Yamamoto Akuji (talking),こ、こらっ……暴れんな、おいっ！ 別に敵なんぞ居やしねぇってばよ！,"H-Hey, calm down! There ain`t any enemies here!"
+Yamazawa Asami (talking),うっ、うああああああああ…………っ！ し、死ぬ……殺す、敵っ……敵いいっ！ は、はせ……長谷川あああっ！,"U-Uaaaaaah! I-I`m gonna die... I`ll kill you... M-My enemy, HASEGAWAAAAAAAAA!!!"
+Yamamoto Akuji (talking),だーかーらー！ ミイラ男は俺がしばき倒したんだよ！,Like! I! Said! I already beat that guy!
+Yamazawa Asami (talking),う、嘘っ、見えないんですかあっ？！ そこに、そこに居るっ……居る……！！,B-Bullshit! Can`t you see him?! H-He`s right... there!
+Yamamoto Akuji (talking),ちっ……幻覚でも見てんのか？ おい、居ねぇんだ、居ねぇよ、誰も……,"Tch, she hallucinating? Look, nobody`s here, hear me?"
+Yamazawa Asami (talking),殺す、殺すっ…… 長谷川、はせがわあああっ！ 殺される前にっ────────,"I`ll kill you, I`ll kill you, Hasegawaaaa! Before you kill MEEEEEEE!!!"
+Yamamoto Akuji (talking),あーーーーーーーーーーうぜーー！ しゃきっとしやがれこのヤク中がっ！,"AAAAH, SHUT UP! Get it together, you fucking addict!"
+narrator,　　［ぱあんっ……！］,*Slap!*
+Yamazawa Asami (talking),………………あ、っう……,"...ah, ugh..."
+Yamamoto Akuji (talking),ほっぺたしばいてようやくかよ… 嬢ちゃん、俺が解るか？,"That slap finally wake you up? Do you understand me, lady?"
+Yamazawa Asami (talking),"あ、ああ…………ああ…………
+う、うううっ…………！","Ah, aaaah... aaah...
+ U-Uuuuuuugh...!"
+Yamamoto Akuji (talking),とりあえずベッドで横んなれ。 水か何か持ってきて……,Go lie down on the bed for now. I`ll get you some water and-
+Yamazawa Asami (talking),…………こ、殺して…… お願い、もう嫌、嫌あっ……！,"...K-Kill me...Please, I-I can`t take this anymore...!"
+Yamamoto Akuji (talking),ちっ、正気になった次は泣き言かよ……,"Tch, bitching`s the first thing you do after you calm down?"
+Yamazawa Asami (talking),"痛い……痛いっ、躰が……！ もう、もう嫌……こんなのっ……！！
+く、すり……薬、くだ、さ…… ……く、っく……………………………… あ、あああッ…………！！
+殺して、殺してっ…… もう嫌、耐えられないっ……！ わ、た……私っ……！！","It hurts... my body hurts! I-I can`t take this anymore...!
+ G-Give me, drugs... D-Drugs...
+ ... Ah, aaaaaaaah...!
+ Kill me, kill me! I can`t endure it any longer! I... I...!"
+Yamamoto Akuji (talking),……そんなに楽になりてぇのか？,...Do you wanna die that badly?
+Yamazawa Asami (talking),う……うあ、ああっ…… うあああああああっ…………！,W-Waaaaaaah! Waaaaaaaaaaaaaaaah!!!
+Yamamoto Akuji (talking),"んー……………………
+そうだなー…… 殺せ、まで言うんなら、 いっちょヤってみっか？","Hmmmm...
+ Right... If you`re going as far as to say that, how about we do it once?"
+narrator,悪司はいきなり麻美の躰の上へ覆い被さった。,Akuji suddenly got on top of Asami.
+Yamazawa Asami (talking),えっ、あ…………っあ……！？,Huh?! Ah... ahn?!
+Yamamoto Akuji (talking),"麻薬っつーのは大体、 気持ちよくなりたくて打つモンだしな。
+ ……だったら、それ以上の快楽を クスリ無しで感じさせてやる。 そうすりゃ楽になんだろ、多分。
+効くかどうかは保証しねぇがな……","In general, drugs are something you take to feel good.
+ So I`ll make you feel so good, you`ll forget the drugs. That should put you at ease, maybe.
+ No guarantee it`ll work, though..."
+Yamazawa Asami (talking),う、あ……あああああっ…………！！,W-Waaaaaaaah...!
+cg narrator,"抵抗しようとする麻美の躰をねじ伏せて、 悪司はほぼ彼女を裸にしてしまった。
+ ──と。
+ 「ん？　何だこりゃ……？」
+愛撫すらまだだと言うのに、麻美の秘裂は すでに濡れそぼってひくひくと蠢いている。
+麻美の薬物中毒は、麻薬と同時に投与された 強力な媚薬も原因の一つだった。
+それが、彼女の悦楽を感じる神経に 異常を引き起こしていたのである。
+ （手間は省けるが…… 　問題はどこまでやりゃあ満足するか、だな）
+考えようによっては、悪司の駆使する性技も 相手を酔わせて虜にすると言う点では 麻薬に似た面がある。
+ （上等だ、注射一本で済むクスリなんぞに 　この俺が負けてたまっかよ）
+ ──麻美の躰を通して、素敵医師の麻薬が勝つか、 それとも悪司の性技が勝つか。その勝負である。
+ 「……堕としてやらあ、絶対にな」
+にやりと笑って、悪司は服を脱ぎ捨てる。
+そして、硬くなった自分のものを 麻美の秘裂にあてがった──","Akuji held down Asami`s body and got her almost completely naked.
+ Then--
+ Hm? What`s this...?
+ Without any foreplay, Asami`s pussy was already soaked and twitching. That`s because she
+ wasn`t only addicted to drugs, but also to the powerful aphrodisiacs she`d been given with them.
+ As a result, there were abnormalities in her sense of pleasure.
+ Saves me some time, but...the question is, how far do I gotta go til she`s satisfied?)
+ Akuji`s technique enraptured his partners and made them his captives. In a way, they could be likened to a drug.
+ (Fine, then. I ain`t losing to some goddamn drug.)
+ Asami`s body would be host to a battle between Doctor Wonderful`s drugs and the pleasure from Akuji`s technique.
+ ...I`ll make you fall, just watch.
+ With a smirk, Akuji took his clothes off.
+ Then, he placed his erect manhood on Asami`s pussy--"
+cg narrator,"「ひっ……ひあっ、ふあやああああああっ！！」
+悪司が自分の中に入ってくると、 麻美は驚くほど大きな声を上げた。
+媚薬と麻薬でさんざん悦楽を与えられていたから、 麻美の躰は悦楽の味を憶えてしまっていた。
+本人の意思とは無関係に、躰が反応してしまう。
+秘裂から伝わる悦楽が背筋を上って脳を犯す。
+「いっ、嫌……嫌ああああああああっ……！！ 　お、ねが……やめて下さいっ、抜いてっ……！」
+素敵医師に捕まっていた時は、自分の躰を 貫かれると同時に必ず麻薬の恍惚があった。
+今の麻美にとって、自分の躰が生む悦楽は あくまで前座にすぎない。 期待するのは、この後に麻薬が与えてくれる恍惚。
+それが、怖い。 あの悪魔的な恍惚を求める自分が、怖い。
+「やっ、やめて……お願いですからっ……！ 　いや、いやあああああああああああっ……！」
+「そう嫌がんなよ、麻薬よりゃマシだろ？」
+言いながら、悪司は緩急をつけた抽挿を始める。
+「あッ、やはあっ！　あ、ひっ……ううっ……！ 　う…………うううっ。いやああっ……！！」
+がくがくと手足が震える。背筋が跳ねる。
+それは悦楽故の反応ではなかった。 性の悦楽が誘発させた、明らかな禁断症状だった。
+「う、うあ……ぐ、うぐっ…………！」
+麻薬を求める脳が、いつまで経っても 満たされないことで不満を訴え始める。 ──強烈な頭痛が襲い始める。
+「あ、うあああ……うわあああっ…………！」
+麻美は、ひたすら苦痛に耐えるしかない。
+だが、それに比べて、 悪司の方は珍しく恍惚とした顔を見せていた。
+（しっかし……すげぇ締め付けだな、おい…… 　こんなに絡んでくる女、滅多にいねぇぞ……）
+思わず呟いて、 悪司はゆっくりと、確かめるように、 麻美の奥深くに自分のものを突き入れた。
+すると、先端から幹の方まで、 麻美の秘裂に埋まっている部分全体が 真綿で包まれているような優しさを与えてくる。
+（普通の女なら、どっかに隙っつーか 　触れてねぇみてぇな空白があるんだが……）
+それが、まるでない。 麻美の中が全て、悪司に触れてくるのだ。
+ところが、これを引き抜こうと腰を引けば、 収縮した秘裂が悪司のもの全体に── 先端にある段差の裏側にまで強く絡みついてくる。
+しかも、そこには過ぎるほどの潤みがあるから、 痛みも、軋みも、違和感もまるでない。
+「……う、おっ…………」
+腰を引いた悪司の口から思わず喘ぎが漏れた。
+──麻美の躰は、 それほどの悦楽を与えてくるのである。
+（締めてきて狭い、っつったら処女みてぇだが、 　これに比べりゃ処女なんぞ硬いだけだぜ……）
+例えるなら、複数の口が同時に吸い付いてきて、 もごもごと唇を動かしながら 舌で愛おしく舐め続けているような感じだった。
+もちろん、口技と違って本当の口ではないから、 激しい抽挿だって充分に受け止める。
+そして、激しくすればするほど、 麻美の躰は濃厚に絡みついてくる──
+「う、っく…………すげぇな、こりゃ……」
+今は、悪司だから保っているようなものだった。 並みの男なら、麻美の中で少し動いただけで 果ててしまっても不思議はない。
+（千載一遇の名器って訳かよ。 　おもしれぇ拾いモンだが、 　こりゃ真っ向勝負だとちとキツいか……）
+僅かに眉根を寄せつつ、 悪司は麻美の腿を抱えて微妙に体位を変える。
+それは、自分のものと擦れ合う麻美の秘裂を 少しでも緩ませて楽にするための行為だったが──
+「……？　この嬢ちゃんの足……」
+腿の掴む悪司の手は、柔らかで優しげな肌の内側に 確かな強さとしなやかさを感じていた。
+（足、えらくしっかり鍛えてんな。 　なーるへそ、絡んでくんのはこのせいか……）
+悪司の頭の中で、 楽しみに加えて計算も働き始める。
+（この女、クスリさえ抜けちまえば 　かなり使えるんじゃねぇか……？ 　ばっちりコマしてメロメロにしちまえば……）
+悪司は再度、麻美の足を掴んで体勢を変える。 今度は、自分のものと秘裂の摩擦が増すように。
+「……真っ向勝負だ、いくぜ」
+奥歯を噛み締め、悪司は抽挿の速度を増していく。
+「うあ……うあああああああああっ……！ 　い、いやあっ……やめ、やめてっ…………！」
+麻美がまた、苦痛の声を上げる。
+「も、もう嫌……いやあっ……！ 　こ、われ……痛い、頭……あああああっ！」
+だが、麻美が苦しんでいたのは ほんの僅かな間だけだった。
+「……は、う……あ……？　ひあっ……！？ 　あ、うンっ…………んく…………っ……」
+最奥を突き、子宮口で縁を描いて胎を揺さぶる。 腰を引くときは角度を変え、陰核の裏側にある 鋭敏な部分をカリの部分で擦る。
+その、微妙で複雑な動きを、 悪司はあたりまえのように繰り返す。 しかも、この上ないほど早く。
+　　[くちゃ、にちゃ、ぐっ、ちゃくっ……]
+悪司の先走りと麻美の淫水が混じり合って、 ひっきりなしに淫らな音を立て続けた。
+「あ……はっ、あ…………あああっ…………」
+麻薬の恍惚を求めていた麻美の脳から、 徐々に痛みが消えていく。 ──躰からの悦楽に満足して。
+「あ、やだ……いや、凄いっ……！ 　ふあアっ…………は、やっ……ああっ……」
+青ざめていた麻美の顔が、 見る見る朱に染まっていく。
+麻美の躰が名器なら、悪司と性技も同じだ。 本気になれば即、女を昇天させるだけの悦楽が 何度も何度も麻美の躰と脳髄を痺れされる。
+「ああ、凄っ…………凄い、や……はあっ……！ 　き、もちい……っ、は、あっ……あハあっ！！」
+もう、彼女の目は痛みに歪んでいない。 ──ただ、悦楽に潤んでいる。
+「ああっ、や……凄っ、凄いいいッ…… 　や、だめっ……私、わた……あああっ……！ 　い、く……イクっ、も…………やはあっ……！」
+「いいぜ……イッちまえ。 　こっちは、まだ……保つからよ。 　二回か、三回くらいはイカせてやるっ……！」
+「ああ、ああやあっ………………… 　ああああああ────────ッ…………！！」","H-Hyaaaahn! Fwaaaaaaaahhh!!
+ When she felt Akuji slip inside her, Asami let out a surprisingly loud scream.
+ Thanks to the drugs and aphrodisiacs, her body was well-acquainted with pleasure.
+ Asami`s body reacted on its own.
+ The pleasure assaulted her brain.
+ N-NOOOOOOOOOO!! P-Please, stop, take it out...!
+ When she was captured by Dr. Wonderful, penetration would always be accompanied by drug-induced ecstasy.
+ To Asami right now, the pleasure she felt was no more than an appetizer. The real ecstasy was yet to come.
+ She feared that. She feared herself, who sought that fiendish pleasure.
+ S-Stop... I`m begging you! No, noooooooooo!
+ Don`t be like that. This is better than drugs, no?
+ Akuji started to move, alternating his speed.
+ Ahn! Noooo! ahn, hyahn! nnngh! ugh, nnnngh...! Noooo!
+ Her limbs trembled. Her spine arched.
+ It was not due to the pleasure, but to the withdrawal symptoms induced by the pleasure.
+ Ugh, waaah... gh, nnnngh...!
+ Her brain craved drugs, and their absence caused it caused it to grow restless - a terrible headache started to take hold.
+ Ah, waaaaaaah...!
+ Asami did what she could to endure the headache.
+ However, compared to her, Akuji had a rare, enraptured look on his face.
+ (Man, she`s squeezing me like crazy... Not many chicks out there suck you in like this.)
+ Akuji murmured, then slowly thrust deep inside Asami, as if trying to confirm something.
+ He felt the entirety of his dick  being gently enveloped by her pussy, as if being wrapped in silk.
+ (With the average woman, the squeezing`s never perfect, there`s always a spot missing...)
+ And that was not the case. The entirety of Asami`s pussy was touching Akuji.
+ Additionally, whenever he pulled back, her contracting pussy would squeeze every last corner of his dick. Furthermore,
+ thanks to her almost excessive lubrication, there was no pain or chafing.
+ Ngh, uoooh...!
+ Akuji involuntarily let out a moan
+ as he pulled back. That`s how good Asami`s body felt.
+ (She`s as tight as a virgin, but without any of the hardness...)
+ It felt as if several mouths were sucking and nibbling all over his dick, gently licking it all the while. Of course, it wasn`t a real mouth,
+ meaning it could withstand intense pistoning.
+ And the more intense it got, the more fiercely Asami`s body wrapped around him--
+ Nngh...! This is something else...
+ Akuji managed to persevere, but a few thrusts inside Asami would be enough to finish off the average man.
+ (This is the sort of pussy you only see once in a lifetime. It`s a lucky find, but taking it head-on is a bit rough...)
+ Furrowing his brow, Akuji grabbed Asami`s thighs and changed his position slightly.
+ He did this to loosen up her pussy and make it a little easier on himself, but--
+ ...? Her legs...
+ Below the soft, tender skin of her thighs, he could feel their strength and suppleness.
+ (Her legs are really well-trained. Now I get how she`s squeezing me so much...)
+ The wheels started to turn in Akuji`s head - he had something new to look forward to.
+ (This chick might be pretty useful if I get the drugs outta her... All I gotta do is fuck her so good she falls for me...)
+ Akuji changed his position and grip once again, this time aiming to make her tighter.
+ ...Time to face it head-on.
+ Gritting his teeth, Akuji sped up his thrusts.
+ W-Waaaaaaaaaahn! N-Nooooo! Stop, stoooooop!!
+ Asami once again screamed in agony.
+ N-No mooooore! I`m, gonna break... my head... hurts... aaaahn!
+ However, Asami`s agony lasted for but a moment.
+ ...Haah, nh... huh...? Hyaaaahn?! ahn, mmnnnn, ngh...!
+ Akuji thrust deep, hitting the entrance to Asami`s womb. When he pulled back, he changed his angle, rubbing her G-spot with the tip of his dick.
+ Akuji repeated those intricate movements as if they were second nature to him, and with impressive speed.
+ *sllllsh! shhhchk! slllsh!*
+ His precum mixed in with Asami`s love juice, producing a lewd, incessant wet sound.
+ Ahn... haaah! ahn, aaaaaaahn!
+ The pain slowly left Asami`s brain, which had been craving for drugs. It was now being filled with pleasure felt by her body.
+ Ahn, nooo... nooo, amazing...! fwaaah! hah, yaaaaaaahn!
+ Her previously pale face was now visibly flushing up. If her pussy was exceptional,
+ then so was Akuji and his technique. A pleasure that`d drive any woman to climax instantly tickled her brain over and over.
+ Aaaahn, amazing...! Amazing... haaaahn! I-It feels good...! ahn, haaaaahn!
+ There was no longer any pain in her eyes -  only pleasure.
+ Aaaahn! A-Amaziiiiing! N-No good, I... I`m... aaaaaaahn! I`m cumming, I`m cummiiiiing!
+ Go on, cum... I can still... keep going.  I`m gonna make you cum at least three times...!
+ Aaaaahn, AAAAAAAAAAAAAAAAAAAAAHN!!!"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Yamamoto Akuji (talking),"ふー、いいセックスだったぜ。 楽しかったな~。
+よ、嬢ちゃん。 どうだ、起きられるか？","Phew, that was some good sex. Pretty fun.
+ Hey lady, how do you feel? Think you can get up?"
+Yamazawa Asami (talking),……………… まだ……力、入りませんから……,... I still... can`t summon any strength...
+Yamamoto Akuji (talking),そかそか、 んじゃもうちょい寝とけや。,"I see, then go and sleep a bit more."
+Yamazawa Asami (talking),"………………
+酷いです、あなたは…… こんな、強姦みたいに……","...
+ You`re terrible...  You basically raped me..."
+Yamamoto Akuji (talking),"なんだよ、人聞きわりぃな。
+あんだけ禁断症状出てたのに、 今は全然平気だろ？ ちったぁ感謝してくれよ。","C`mon, don`t be so ungrateful.
+ You were going through that awful withdrawal, but you`re fine now, right? At least thank me a little."
+Yamazawa Asami (talking),"……………… 結局、快楽を押しつけられて……
+麻薬か、そうでないかの違いだけ……
+私にとっては、 あなたも、長谷川均と同じです……","... In the end, you forced pleasure unto me...
+ It`s practically no different from drugs...
+ To me, you`re the same as Hasegawa..."
+Yamamoto Akuji (talking),"セックスには禁断症状なんかねぇぞ？ 躰に悪いことはなーんもねぇし。
+気持ちよくなりてえってのは 人間の本能なんだからよ、 忌むことなんかなんにもねぇだろ？","Sex won`t cause withdrawal or do anything bad to the body, though.
+ Wanting to feel good is part of human instinct, so there`s nothing to hate about it."
+Yamazawa Asami (talking),………………,...
+Yamamoto Akuji (talking),"なあ、嬢ちゃん。 しばらく奉仕青年団で働けや。
+あんたの罪状は、俺から鴉葉を通じて 執行猶予でもつけてもらうさ。 奉仕青年団で監視するとか言ってな。
+いざとなったら、 袖の下でも何でも使うしよ。
+どーせ、前科持ちになったら 市議会には復職できねぇだろうし、な？","Say, lady, how about you work for the YCSG?
+ I can say we`re keeping you under watch  and get Karasuba to suspend your arrest warrant. Worst case scenario,
+ we can bribe them off. now that you`ve got history,
+ ya can`t go back to the Council, right?"
+Yamazawa Asami (talking),………………,...
+Yamamoto Akuji (talking),それによ、また禁断症状が出たら、 今みてぇに抱いて忘れさせてやっから。,"Also, if your withdrawal kicks in again,  I`ll fuck you like I just did."
+Yamazawa Asami (talking),"……快楽なんて、要らない……
+私は、そんなものになんて負けない…… 一人でうち勝ってみせる……","...I don`t need the pleasure...
+ I won`t lose to that... I`ll overcome it on my own."
+Yamamoto Akuji (talking),つっぱってみたって、 どうせ行くとこねぇんだろうが。,"Act tough all you want, but you got nowhere else to go."
+Yamazawa Asami (talking),……それは…………,That`s...
+Yamamoto Akuji (talking),言うとおりにしとけって、 悪いようにはしねぇからよ。な？,Just do as I say. I won`t make it worse. Well?
+Yamazawa Asami (talking),………………,...
+narrator,──しばらく沈黙が続いた後、麻美は、 何かを諦めたような暗い顔のままで静かに頷いた。,"After a moment of silence, Asami quietly nodded with a gloomy, defeated look on her face."
+narrator,その日、大杉剛と山沢麻美が 地域の巡回に出ていた時のこと──,"One day, when Tsuyoshi Oosugi and Asami Yamazawa were out partolling..."
+Oosugi Tsuyoshi (talking),そういえば山沢さん、 一つお訊きしてもよろしいですか？,"By the way, Yamazawa-san, may I ask you something?"
+Yamazawa Asami (talking),あ、はい……何でしょうか。,"Yes, what is it?"
+Oosugi Tsuyoshi (talking),"あなたは市議会の治安課に追われてまで、 民人のためにと素敵医師を追い続けて おられたとか……
+このお話、本当ですかな？","I heard you chased Dr. Wonderful until the P.O. Bureau went after you, for the sake of the citizens.
+ Is this true?"
+Yamazawa Asami (talking),はい、一応…… それが何か？,"Yes, more or less... What about it?"
+Oosugi Tsuyoshi (talking),"この大杉、恥ずかしながら 若からこの話を伺った時は にわかに信じられませんでしたが……
+いやあ、感服いたしました。 今時、そのような方は 男にも居りはしませんぞ。","Though it shames me to admit, I couldn`t believe it when the Young Master told me.
+ I was impressed. These days, it`s hard to find even a man who`d do that."
+Yamazawa Asami (talking),"そんな…… 褒められる事ではありません。
+あの時は、監督官として当然だと 思っていましたし……
+今にして思えば、 長谷川が……素敵医師に対する 私怨だけだったように思えます……","Oh no, it`s nothing to be praised over.
+ I`d thought it was the natural thing for me to do, as a supervisor.
+ Thinking back on it now, I believe it was simply out of my own grudge against Hasegawa..."
+Oosugi Tsuyoshi (talking),いやいや、ご謙遜を。,Don`t be so modest.
+Yamazawa Asami (talking),"……………… それに……
+それだけ頑張ったところで、 市議会の人は、結局……
+結局、誰一人……","... Besides...
+ I worked so hard, but in the end, the people from the Council...
+ Not a single one of them..."
+Oosugi Tsuyoshi (talking),山沢さん。,Yamazawa-san.
+Yamazawa Asami (talking),…………あ、はい……？,"...Ah, yes?"
+Oosugi Tsuyoshi (talking),そこの角を曲がれば 巡回は終わりでしたかな？,"We`ll be done with our patrol after we round that corner, yes?"
+Yamazawa Asami (talking),"そう……ですね。
+ …………あっ。","I... think so.
+ ...Ah!"
+Oosugi Tsuyoshi (talking),む、どうかなさいましたか？,Hm? What happened?
+Yamazawa Asami (talking),その先の、建物の陰に……,"Over there, in the building`s shadows..."
+Yopparai (talking),なっ、何だよ…… きゅ、急に言われても……,Wh-What...? Even if you spring that on me now...
+joshigakusei (talking),あれだけの事しておいて、 知りませんでしたって言う気？ あんなに人の躰触っておいてさ。,Playing dumb after all you did? You touched me all over.
+Yopparai (talking),"そ、そんな……そんなこと、 私はした憶えがないんだけど……
+の、飲んでて、酔ってつぶれて、 あとはもう何も……","I-I don`t remember that at all... I r-remember getting plastered,
+ everything after`s a blank..."
+joshigakusei (talking),"私はその時に押し倒されたの。 ……何度言わせたら気が済むのよ。
+こう言うの、犯罪って言うんだよ。 慰謝料払ってよ、ほらっ！","That`s when you pushed me down. How many times do I have to say it?
+ That`s called a crime. Now pay up some reparation money!"
+Yopparai (talking),あ、あううううっ…………,A-Awwwww...
+Oosugi Tsuyoshi (talking),くおらああああああああああああっ！！ いい若い者が昼間から何をやっている！,HEEEEEY!!! What`s a young lady like you doing in broad daylight?!
+joshigakusei (talking),……？　何よオジサン……,"...? What`s with you, old man?"
+Oosugi Tsuyoshi (talking),地域管理組合の者だ！ 今の行為、強請りと見たぞ。 事務所まで来てもらおう！,I`m from a RMG! It seemed to me that you were extorting him. I`m taking you to our office!
+joshigakusei (talking),何言ってんのよ、バッカじゃない？ 私はこの酔っぱらいに押し倒されて……,What? Are you dumb? This drunk here pushed me down...
+Oosugi Tsuyoshi (talking),"その割には、 着衣が乱れておらんではないか！
+こっちは民間で起きる事件の 専門家なのだぞ、小娘ごときが侮るな！","And yet your clothes seem awfully tidy!
+ I`m an expert on private cases, so don`t look down on me, little girl!"
+joshigakusei (talking),……ぅ……,...Ugh...
+Oosugi Tsuyoshi (talking),とにかく事情は事務所で聞く！ そこの酔っぱらいもだ！,"I`ll hear your story at the office! Yours too, drunk!"
+Yopparai (talking),あ、あううう……,A-Awwww...
+joshigakusei (talking),わっ、私は嫌よ、冗談じゃないわっ！,I-I refuse! This isn`t funny!
+Oosugi Tsuyoshi (talking),"女学生とは言え、私はこの目で 強請りの現場をしかと見た！ これは見逃せん！！
+さあ、来い！　娘！","Schoolgirl or not, I saw an extortion happening! I won`t overlook it!
+ Now come with me, girl!"
+joshigakusei (talking),………………どうしても？,...Do I have to?
+Oosugi Tsuyoshi (talking),どうしてもだ！,Yes!
+joshigakusei (talking),……………………これでも？,...Even if I do this?
+narrator,上目遣いに大杉を見ながら、 その女学生はスカートの裾を持って 下着の際まで脚を露出させる──,"While looking upwards at Oosugi,  the girl grabbed the hem of her skirt and lifted it, exposing her legs up until her panties."
+joshigakusei (talking),"お願い……見逃してくれるなら いろいろいいことしてあげるからさ……
+ねえおじさま……私みたいな若い子と エッチしてみたくない？","Please...I`ll do aaaanything if you let me go...
+ C`mon, daddy... Don`t you wanna have sex with a young lady like me?"
+Oosugi Tsuyoshi (talking),………………,...
+joshigakusei (talking),"この辺、友達多いんだ。 声かけたら数人集まるしさ……
+ね、私たちといろいろ楽しめるなら、 そっちの方がずっと…………","I have lots of friends around here. A bunch will come if I call them...
+ Don`t you think having fun with us would be much better-"
+Oosugi Tsuyoshi (talking),ばかもおおおおおおおおおおおんっ！！,YOU FOOOOOOOOOOOL!!!
+narrator,　　［ごすっ！］,*Whack!*
+joshigakusei (talking),いっ……いったーい！ 人の頭殴ったわね！？ この暴力…………………………,Owwww! Did you just hit me in the head?! You brutish-
+narrator,　　［ごすっ！　ごすっ！　ごすっ！］,*Whack! Whack! Whack!*
+joshigakusei (talking),…………………………きゅう……,...Kyuu...
+Oosugi Tsuyoshi (talking),"地域管理組合法二十八条三の一！ 組合員の買収は年齢に関わらず重罪！
+ ……それ以前に、 人として情けないぞ、馬鹿者が！","RMG Law, Article 28! Bribing RMG officers is a crime, regardless of age!
+ ...Even if it weren`t for that, you should be ashamed of yourself!"
+Yamazawa Asami (talking),おっ、大杉さん…… 何もそこまで……,"O-Oosugi-san, why go that far...?"
+Oosugi Tsuyoshi (talking),おお、山沢さん。 申し訳ありませんが、 そちらの酔っぱらいを確保して下さい。,"Ah, Yamazawa-san. Forgive me, but please apprehend that drunk there."
+Yamazawa Asami (talking),え……あ、はい…………,"Oh, um, okay."
+Oosugi Tsuyoshi (talking),まったく、人を誘惑して 自分だけ助かろうとは……,"Honestly, seducing someone to help only oneself..."
+Yamazawa Asami (talking),……でも、奉仕青年団だって 賄賂や買収は日常茶飯事じゃないですか。,...But isn`t bribery and such an everyday thing for the YCSG?
+Oosugi Tsuyoshi (talking),"山沢さん、それは違いますぞ。 同じにされては困ります。
+筋なき悪党から堅気衆の生活を守るため あえて悪の手を用いて筋を通し……
+ ……その結果得た金銭を、 治安維持活動を通して皆に還元する。
+これが、我々管理組合の仕事です。
+この腐り果てた娘のように、 一時の罪から逃れるためだけに 嘘や罪を重ねたりはしません。","Yamazawa-san, that`s different. Please don`t compare them.
+ To protect the innocent from villains, we must sometimes employ evil methods.
+ And the money we get as a result is used to help us maintain order,
+ giving them a return.
+ That`s our RMG`s job. We won`t resort to commiting more crimes to save our skins like this rotten girl."
+Yamazawa Asami (talking),詭弁に……聞こえます。,..That sounds like sophistry to me.
+Oosugi Tsuyoshi (talking),"そう受け取られても、 仕方ありませんが……
+ですがこの場合、私が誘惑に負けて 女学生を見逃したとあれば 酔っぱらいに示しがつきません。
+管理組合は、堅気衆に対して どこまでも平等でなくては ならないのです。
+そう、たとえば、うちの若も。","There`s little I can do if you see it that way...
+ But had I lost to temptation and let her go, I`d have set a bad example for the drunk.
+ We RMGs must treat all civillians equally and fairly. This also includes
+ the Young Master."
+Yamazawa Asami (talking),えっ？,Huh?
+Oosugi Tsuyoshi (talking),麻美さんは、若が甘い蜜欲しさのみで 違法行為をしているとお思いですか？,o you think he commits crimes simply because he desires to?
+Yamazawa Asami (talking),"あ…………いえ……
+言われてみれば、 必ず、何か目的があるような……","Oh, no... If I were to
+ say it, it`s because he always has some sort of goal."
+Oosugi Tsuyoshi (talking),"そうでしょう、 利権を得るためのみならば やり様は他にたくさんあります。
+人は、筋を通してこそ人。 ……そうは思いませんか？","Exactly. If he only cared about his own benefit, there`d be many other ways to go about it.
+ Being logical is what makes us human. Do you not agree?"
+Yamazawa Asami (talking),…………はい。,...I do.
+Oosugi Tsuyoshi (talking),"さすが山沢さん。 自らを省みず筋を通したあなたなら 解って頂けると思っておりました。
+ ……さ、行きましょう。 事務所に戻らねば。","I expected no less of you. I knew someone logical like you`d understand it instinctively.
+ ...Now, let us go. We must return to the office."
+narrator,気絶した女学生を肩に担いで、大杉は歩き始めた。,Oosugi carried the unconscious girl on his shoulder and left.
+Yamazawa Asami (thinking),"市議会には、 こんな真っ直ぐな人はいなかった……
+大杉、剛さん……か。","There wasn`t anyone this straightforward in the Council.
+ Tsuyoshi Oosugi, was it...?"
+Oosugi Tsuyoshi (talking),"さて、あとは三つ葉と……
+ ……む？","Now then, all that`s left is-
+ Hrm?"
+Yamazawa Asami (talking),あっ、大杉さん。,"Ah, Oosugi-san."
+Oosugi Tsuyoshi (talking),おお、山沢さん。 見回りの最中ですかな？,Yamazawa-san. Are you on patrol?
+Yamazawa Asami (talking),"はい、当番なので。
+大杉さんは……お買い物ですか？ お持ちなのは買い物籠ですよね。","Yes, since I`m in charge.
+ And you`re... shopping? That`s a shopping basket, right?"
+Oosugi Tsuyoshi (talking),"ははは、 男としてはお恥ずかしいところを 見られてしまいましたな。
+少々時間が空いていたので、 夕食の買い出しをと思いましてな。","Hahaha, this is a rather unmanly sight, isn`t it?
+ I had some free time, so I thought I`d buy food for dinner."
+Yamazawa Asami (talking),"………………
+それは、やはり…… 奥様に頼まれて、ですか？","...
+ As I thought... did your wife ask you to?"
+Oosugi Tsuyoshi (talking),ははははは…… いや、これまた恥ずかしい話ですが、 私は独り身なのですよ。,"Hahah... This is also embarrassing to admit, but I`m single."
+Yamazawa Asami (talking),あっ、そうなんですか。 すみません、てっきり……,"Oh, I`m sorry. I just assumed..."
+Oosugi Tsuyoshi (talking),"いえいえ、私の歳では普通、 妻がいて当然ですからな。
+自分が堅物だとは自覚している つもりですが、どうにもそのせいか 女性と縁がありませんでなあ。","No, it`s normal for someone my age to be married.
+ I`m aware I`m very straight-laced, which is perhaps why I cannot find a partner."
+Yamazawa Asami (talking),……理想が、お高いとか？,...Are your standards too high?
+Oosugi Tsuyoshi (talking),"ううむ……どうでしょう。 そんなつもりはないのですがね。
+幸いなことにこの大杉、 色事にはあまり執着がありませんし、 家事全般も苦にならないので……
+何というか、特定の女性がいないことで 困ったことはありませんな。
+ ……ははははは、 こう言うとどうにも自分が変人のようで 我が事ながら苦笑してしまいますなあ。","Hmm, I wonder... I certainly never meant to.
+ Fortunately, I don`t care much about relationships, nor do I mind taking care of house chores.
+ So I`m not bothered not having a wife.
+ ...Hahaha, even I feel weird for saying this. Sure is hard not to laugh."
+Yamazawa Asami (talking),"………………
+なんだか、不思議ですね。","...
+ It`s kind of a mystery."
+Oosugi Tsuyoshi (talking),不思議、とは？,What do you mean?
+Yamazawa Asami (talking),……えっ？ あ、その…………,"...Huh?! Oh, um..."
+Oosugi Tsuyoshi (talking),……？,...?
+Yamazawa Asami (talking),"…………いえ、その、 大杉さんはとても素敵な方だと思うので、 お独りなのが不思議ですね、と……
+大杉さんはそうでも、 女性の方が放っておかないような気が しますから……","...Um, I think you`re a wonderful person, so you being single is a mystery to me..
+ Even if you`re like that, I feel like women don`t leave you alone..."
+Oosugi Tsuyoshi (talking),は…… は、ははははははは……,Ha... H-Hahahahah...
+Yamazawa Asami (talking),……すみません、変なことを。,"...Sorry, I`m being weird."
+Oosugi Tsuyoshi (talking),いやいや、山沢さんのような美しい人に そう言って貰えて、実に嬉しいですぞ。,"No, I was really glad to hear that from a beauty like you."
+Yamazawa Asami (talking),そんな、ご冗談を……,"Please, stop joking..."
+Oosugi Tsuyoshi (talking),"いや、冗談などではありませんぞ。 私は世辞や冗談が苦手ですしな。
+何せ山沢さんは、器量だけでなく 心の方もしっかりしておられる。
+生涯の伴侶を得られるのであれば、 山沢さんのような方を、と 思うことも……","I`m not. Jokes and flattery are not my forte.
+ You`re beautiful on the outside and on the inside.
+ Were I to have a partner, I think I`d want someone like you, Yamazawa-san."
+Yamazawa Asami (talking),…………えっ……？,...Huh...?
+Oosugi Tsuyoshi (talking),"………………あ。 ご、ごほん……
+失敬、何やら調子に乗って お喋りし過ぎたようで……","...Oh. S-Sorry...
+ My apologies, I got carried away and said too much."
+Yamazawa Asami (talking),い、いえ、そんな……,"N-No, that`s..."
+Oosugi Tsuyoshi (talking),……では、これで。 お仕事の邪魔をして申し訳ない。 私もすぐ事務所に戻りますので。,"...Well then, I`m sorry for interrupting your work. I`ll head back to the office."
+Yamazawa Asami (talking),あっ…………大杉さん。,Ah...! Oosugi-san.
+Oosugi Tsuyoshi (talking),……何か？　山沢さん。,Yes?
+Yamazawa Asami (talking),"事務所の方に戻るなら…… 行く方向、同じなんです。
+よろしければ、一緒に……","I`m heading in the same direction, so if you`d like...
+ We could go together..."
+Oosugi Tsuyoshi (talking),そ……そう、ですか。 では、一緒に…………,"R-Right. Then, let`s go..."
+Yamazawa Asami (talking),……はい。,...Okay.
+Yamazawa Asami (thinking),"………………
+私、きっとこの人のこと……
+でも、そんな資格はない。 私じゃ釣り合わない……
+どうして、もっと早く……
+快楽に流されてしまった今じゃなく、 汚される前に逢えなかったんだろう……
+今の……私じゃ………………","...
+ I`m certain that what I feel..
+ But I`m not worthy. I`m not a good match for him...
+ Why couldn`t we have met sooner...?
+ Why couldn`t we have met before I was defiled...?
+ As I am now... I can`t..."
+Oosugi Tsuyoshi (talking),……山沢さん、どうかしましたか？ 辛そうな顔で考え事のようですが……,...Is something the matter? You seem troubled.
+Yamazawa Asami (talking),………………いえ、 何でもありません……,"...No, it`s nothing."
+shigikaishokuin (talking),……山沢さん、回覧です。 チェックお願いします。,"...Yamazawa-san, here`s the circular notice. Please check it."
+Yamazawa Asami (talking),はい、すみません。 レポートが終わったらすぐ見ますから、 そこへ置いて下さい。,"Thank you. I`ll take a look once I`m done with this report, so just leave it there."
+shigikaishokuin (talking),はい。,Okay.
+Yamazawa Asami (talking),"………………ふう。 レポートは終わり、あとは回覧ね。
+ ……あっ。 この中の書類、私の担当じゃない。 鴉葉さんの……
+ ……鴉葉さん？ 鴉葉さんはどこへ……
+ …………………………っ……！？","Phew... The report`s done. Let`s check that notice.
+ ...Oh. This document`s not for me, but for Karasuba-san...
+ ...Karasuba-san? Where did he...?
+ ...?!"
+chiankashokuin (talking),……そういう訳なの、鴉葉くん。 お願いできる？,"...And that`s how it is, Karasuba-kun. Can I count on you?"
+karasuba  tsuki (talking),"オッケー、まっかせといてよ。 バッチリ揉み消しとくから。
+どうせこんなの、書類上の話だよね？ 僕、管理してるコと仲いいからさ、 すぐやってくれるさ。","Okaaay, leave it to me. I`ll cover it up real good.
+ This is just on paper anyway, no? I know the manager well, so I`ll get it done right away."
+chiankashokuin (talking),そうなの……？ 管理の責任者ってお堅いので有名で……,Really...? That manager is infamously uptight...
+karasuba  tsuki (talking),"だーいじょうぶだって、 あれでみっちゃん、結構優しいんだよ。
+ ……ところでさ、 今週末の夜、僕ヒマなんだけど……","It`s fiiine. She might not look it, but Micchan`s really kind.
+ ...By the way, I happen to be free this weekend..."
+chiankashokuin (talking),くす、解ってるわ。 時間空けておく。,"Heehee, alright. I`ll keep my schedule open."
+karasuba  tsuki (talking),ホントに？ いやー言ってみるもんだなー。 へへっ、ラッキー。,"For real? Man, I`m glad I went and said it. Heheh, lucky me~."
+chiankashokuin (talking),……どうせ、最初から狙ってたんでしょ？,"...That was your goal from the beginning, right?"
+karasuba  tsuki (talking),ご想像にお任せしまーす。 じゃ、週末にね。,"I`ll leave it to your imagination. Well then, see you this weekend."
+chiankashokuin (talking),ええ、週末に。 楽しみにしてるわ……,"Yes, I`ll see you then. I`m looking forward to it."
+karasuba  tsuki (talking),"……へへ、ちょろいちょろい。 これで月曜の朝までＯＫかな。
+さーて、さっさと署に行って みっちゃんと今夜の約束でも……","...Heheh, so easy. I should be OK until Monday morning with this.
+ Now, let`s hop to the station and see if Micchan`s meeting me tonight..."
+Yamazawa Asami (talking),かっ…………鴉葉さんっ…………,K-Karasuba-san...!
+karasuba  tsuki (talking),"……げ。
+ ………………やっほー、麻美ちゃん。 どうかした？　怖い顔しちゃってさ。","...Geh.
+ ...Hiya, Asami-chan. You look scary, what`s wrong?"
+Yamazawa Asami (talking),鴉葉さん、あなたまさか また以前みたいに自分の人脈を使って 軽犯罪のもみ消しとかしているんじゃ……,Don`t tell me you`ve used your connections to cover up petty crimes yet again...
+karasuba  tsuki (talking),……軽犯罪？ 違う違う、ぜーんぜん違うよ~。,"...Petty crimes? Oh no, no, you`ve got it all wrong."
+Yamazawa Asami (talking),嘘です、話は聞き取れなかったけれど、 今の雰囲気は間違いなく……！,"Don`t lie. I didn`t catch the whole story, but you definitely-!"
+karasuba  tsuki (talking),いや、ホントに違うって。,"No, you really did get it wrong."
+karasuba  tsuki (thinking),だって、 揉み消すのは軽犯罪じゃないもんなー。 反則金の横領っていう大犯罪だし。,"After all, I`m not covering up some petty crime, but full-on money embezzlement."
+Yamazawa Asami (talking),鴉葉さん、私たち監督官は……いえ、 市議会の職員は、公僕として、 市民の方に対して責任を負っていて……,"We supervisors- no, City Council members, are public servants. We bear a responsibility to-"
+karasuba  tsuki (talking),"わーかってるってば。 全部言わなくてもいいって。
+ほら、怒ると可愛い顔が台無しだよっ。","I know, I know, you don`t have to tell me. C`mon, your face
+ will get wrinkled if you stay mad."
+narrator,鴉葉はスッと麻美に近寄って、 その頬に軽くキスをする。,Karasuba quickly approached Asami and placed a small kiss on her cheek.
+Yamazawa Asami (talking),………………っ…………！！,...!!
+karasuba  tsuki (talking),はは、こんくらいで固まっちゃって。 麻美ちゃんはウブだねー。,"Hahah, that`s enough to bother you? You`re so innocent, Asami-chan."
+Yamazawa Asami (talking),なっ、何を……何をするんですかっ……！,Wha... What are you doing?!
+karasuba  tsuki (talking),"ん、怒ってるよりうろたえてる顔の方が ずーっと可愛いよ。
+麻美ちゃん、今度デートしようね~。 そんじゃ。","Yep, you look much cuter when you`re flustered.
+ Let`s go on a date someday, Asami-chan~. Well, see ya."
+Yamazawa Asami (talking),あっ………… かっ、鴉葉さんっ……！！……………… おかしいわ、こんなのっ………,"Ah! K-Karasuba-san...!
+ ... This is wrong..."
+ (talking),たとえ自ら望んだ戦いじゃなくても… 相手と対峙した以上、迷いは捨てる！,"Even if you were forced to be here, I won`t hesitate if you resist!"
+Yamazawa Asami (talking),………………！ あなた、山沢麻美……,...! You`re Yamazawa Asami...
+ (talking),森課長……,Chief Kaoru...
+Yamazawa Asami (talking),"麻薬に溺れ、裏切り、 挙げ句の果ては市議会に……
+ ……最悪の女ね。 恥を知りなさい。","You became an addict, betrayed the CC, and now this...
+ ...You worthless woman. Have some shame."
+ (talking),"……何も知らないくせに…… 何もしなかったくせに……
+好き勝手な事ばかり言わないで……！","...You know nothing... You never knew anything...
+ So don`t say whatever you please!"

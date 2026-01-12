@@ -1,0 +1,223 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆コンディ = 3:,{☆コンディ = 3:
+__system__??,},}
+__system__??,{☆コンディ = 4:,{☆コンディ = 4:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+narrator,悪司が一人、事務所で新聞を読んでいる。,Akuji was reading the newspaper in the office.
+Yamamoto Akuji (talking),ウィミィ潜水艦が船をねぇ… 絶対、謝罪ナシだろうな… 敗戦国がナマぬかすなとかって…,A Wimenese sub sunk a ship? Bet they`re gonna tell Japan to suck it up...
+Condi Go (talking),ブエノスディアス、セニョール。,"Buenos dias, senor."
+Yamamoto Akuji (talking),おう、なんだ、コンディ。 今のは宇宙語か？,"Yo, what is it, Condi? Was that some alien language?"
+Condi Go (talking),違ウ、スペイン語……,"No, it was Spanish."
+Yamamoto Akuji (talking),そーか、あんた、スペイン人だったな。 ああ、今はＷスペインか。,"Right, you were from Spain. Or Wimenese Spain now."
+Condi Go (talking),……………,...
+Yamamoto Akuji (talking),そのせいであんた、 こんな東の国まで出稼ぎにきたのか？,Is that why you came all the way to Japan to make money?
+Condi Go (talking),"ウィミィ、キタセイ、スペイン 男ノ働ク場所、ナクナタ…
+マダ、ニホン、ダイジョブダッタ… 今ハ、ダイジョブ、違ウ……
+カルロス、一人。 母、イナイ。 早ク、国、帰リタイ。","Men lost their jobs, after Wime came...
+ Japan was still fine. But now, not fine.
+ Carlos, alone. No mother. I want to go back soon."
+Yamamoto Akuji (talking),そりゃ災難だったな。 うちでのファイトマネー稼いで、 早く国に戻りたいな。,That really sucks. So you wanna get money fighting so you can return soon?
+narrator,コンディは黙って頷いた。,Condi silently nodded.
+narrator,　　［ははは……］,　　［Hahaha...］
+Yamamoto Akuji (talking),ん？,Hm?
+narrator,コンディに肩車をさせてはしゃいでいる千手。 コンディも嬉しそうに笑っていた。,"Senju was happily riding on Condi`s shoulder, who also smiled in glee."
+Ishihara Senju (talking),ほら、頑張れ、コンディ。 早く走ってよ。,"Come on, Condi, hurry and run."
+Condi Go (talking),部屋ノ中、危険。 ダメ。,Dangerous inside room. I won`t.
+Ishihara Senju (talking),じゃあ、外に……,Then let`s go outside.
+Yamamoto Akuji (talking),な~に、普通のガキみたく遊んでやがる。,So you can be a normal kid.
+Ishihara Senju (talking),ああ、悪司。 タマにはこんなボクの姿もいいでしょ？,"Oh, Akuji. It`s good for me to be like this sometimes, no?"
+Yamamoto Akuji (talking),違和感バリバリ。,Feels weird as fuck.
+Ishihara Senju (talking),"酷いなぁ、ふふふ。
+コンディ、また後で遊ぼう。 悪司、お前に用事があるみたい。","How mean, hahahah.
+ Let`s play later, Condi. Akuji wants to talk to you."
+Condi Go (talking),ワカッタ。,Okay.
+narrator,コンディは肩から千手を下ろす。 千手は二人に手を振り、部屋から去った。,"Condi placed Senju down, who waved at the two before leaving the room."
+Yamamoto Akuji (talking),自分の息子に似てるのかい？,He resemble your son?
+Condi Go (talking),"コンディ、国カラ離レル時、 カルロス、アレグライ。
+今、モット大キク、ナテル… デモ、コンディ、ソノ姿、知ラナイ。
+デモ、コンディ、千手見ル、幸セ。","Carlos was like that when I left.
+ Now, he got bigger, but I don`t know how he looks.
+ But I feel happy seeing Senju."
+Condi Go (talking),呼ンダカ？ セニョール……,"You called, senor?"
+Yamamoto Akuji (talking),おう。 おや、今日は千手と一緒じゃねーのか。,"Yep. Huh, you not with Senju today?"
+Condi Go (talking),千手、学校……,"Senju, at school..."
+Yamamoto Akuji (talking),おお、そーか。 今日はサボってねーのか。,"Oh, I get it. So he`s not skipping today."
+Yamamoto Akuji (talking),これ、仕送りの足しにでもしてくんな。,"Here, for your son."
+narrator,そう言って、まとまった金額の入った封筒を コンディに渡した。,"With that, Akuji gave Condi an envelope with money in it."
+Condi Go (talking),アリガト。 助カル。,Thank you. Big help.
+Condi Go (talking),………………,...
+Yamamoto Akuji (talking),おう、ボクサー。,"`Sup, boxer man."
+Condi Go (talking),ジム、ドウナッタ？,What happened to gym?
+Yamamoto Akuji (talking),改造してるよ。,I`m renovating it.
+Condi Go (talking),アレ、オ前ノモノデモ、 コンディノモノデモナイ。 勝手ニサワル、イケナイ。,"It not yours, nor mine. You shouldn`t mess with it because you want."
+Yamamoto Akuji (talking),もう俺が占領したから、俺のモンだ。,"It`s in my turf, it`s mine."
+Condi Go (talking),違ウ。,No.
+Yamamoto Akuji (talking),あー、うるせぇ。,"Oh, shut up."
+Yamamoto Akuji (talking),おう、ボクサー。,"`Sup, boxer man."
+Condi Go (talking),コンディ、イツマデココニイル…？,How long I stay here?
+Yamamoto Akuji (talking),さぁなー……,I dunno.
+Yamamoto Akuji (talking),これやるからよ。 俺の部下になんねぇ？,"I`ll give ya this, so won`t you work for me?"
+narrator,と言って、悪司はコンディの前に札束を出した。,Akuji placed some cash in front of Condi.
+Condi Go (talking),オ金、欲シイガ、イラナイ。 コンディ、自由トジム。 ソレ、返シテクレ。,"I want money, but no need. I want my freedom, and gym. Give those back."
+Yamamoto Akuji (talking),それはダメだ。,No can do.
+Condi Go (talking),"……………
+コンディ、オ前トハ、仲良ク出来ナイ。","...
+ We can`t be friends."
+narrator,"　　［ドンドン　ドンドンドン！］
+悪司の部下が、ボクシングジム、男パンチの 玄関を、ノックというにはあまりにも強すぎる 力で叩いていた。","　　［*Bam! Bam bam! Bam!*］
+ Akuji`s subordinate knocked on the door to the gym, Manly Punch, with quite some force."
+Chinpira (talking),悪司さん、返事ありやせんぜ！,"No dice, Akuji-san!"
+Yamamoto Akuji (talking),無人って事か？,So it`s deserted?
+Chinpira (talking),いえ、ここは外人が一人で住んでるって 近所の話でさ。,"Nah, word is that some foreigner`s living here."
+Yamamoto Akuji (talking),外人ねぇ……,"A foreigner, huh..."
+narrator,その時。 男パンチの玄関が開いた。,"At that moment, the door to Manly Punch opened."
+Condi Go (talking),……………,...
+Yamamoto Akuji (talking),あんた、ここの人？,You live here?
+narrator,男は黙って頷いた。,The man silently nodded.
+Yamamoto Akuji (talking),俺は、最近この辺りを占拠しだしてる 山本悪司ってんだ。 あんたは？,"I`m Yamamoto Akuji, the guy who`s occupied this area recently. You are?"
+Condi Go (talking),……コンディ……,Condi...
+Yamamoto Akuji (talking),よし、コンディ。 ここで、首を縦に振ってくれ。 ここを俺のシマにしていいか？,"Alright, Condi. Can I make this my turf? Agree with me here."
+Condi Go (talking),"ＮＯ。 ダメ。 ココ、段一トレーナーノジム。
+コンディノ、自由、出来ナイ。","No. You can`t. This is Trainer Dan`ichi`s gym.
+ I can`t give it away."
+Yamamoto Akuji (talking),そー言わずにさ。 なんとかしてくんねぇ？,Don`t be like that. Can`t ya just accept it?
+Condi Go (talking),ＮＯ。,NO.
+Yamamoto Akuji (talking),だったら、武力行使すっけどさ。,"Guess I`ll use force, then."
+Condi Go (talking),勝手ニシロ。 コンディ、戦ウ。 コンディ、ボクサー。,Do what you want. I will fight. I am boxer.
+Yamamoto Akuji (talking),"ふーん………
+だったら仕方ねぇな。 絶対、言う事きいてもらいたいんでね。","Hmm...
+ No other way then, I need you to obey me."
+__system__??,{RETURN = 0:,{RETURN = 0:
+narrator,悪司はコンディを倒し、 男パンチの中に入っていた。,"Having beaten Condi, Akuji went inside Manly Punch."
+Yamamoto Akuji (talking),きったねー、ジムだな。 これを金が稼げるように改造出来るか？,What a dirty gym. Can ya renovate it to make me money?
+Chinpira (talking),まあ、努力はしますけど…,"Well, I`ll try..."
+Yamamoto Akuji (talking),なんとか頼むぜ。,Counting on you.
+Chinpira (talking),はいっす、悪司さん。,"Got it, Akuji-san."
+__system__??,},}
+Condi Go (talking),帰レ。 ココ、段一トレーナーノモノ。 誰ニモ渡サナイ。,帰レ。 This is Trainer Dan`Ichi`s. I won`t give it to anyone.
+narrator,薄暗いビルの中のボクシングジム。 そこに一人の男がいた。,"Inside a dim building, there was a boxing gym. A single man was there."
+narrator,"コンディ・ゴ。 スペインからきたボクサー。
+彼は愛する息子の為、ニホンまで 出稼ぎにきた。 そして彼は一人、ここで待っていた。
+戦争に行ってしまったままのトレーナー、 矢沢段一。 コンディはずっと彼の帰りを待っていた。
+ 「俺の帰りを待ってろ。 　そしたらお前をチャンピオンにしてやる」
+その言葉を頼りに、信じて。 コンディは待ち続けている。","Condi Go, a boxer from Spain.
+ He came all the way to Japan to earn a living for the sake of his beloved son. Thus, he waited here alone.
+ He waited for his trainer, Yazawa Dan`ichi, to return from the war.
+ “Wait for me. If you do, I`ll make you a champion.”
+ He fervently believed in his trainer`s words. And as such, he waited."
+Condi Go (talking),………………,...
+Condi Go (thinking),カルロス…もう少しだ… もう少し、待っててくれ…… パパはすぐにお前の為に…,"(Just a bit more, Carlos... Just wait a bit more. Papa will soon..."
+narrator,"コンディは一人、黙々とランニングを 続けている。
+それも、「待っていろ」と言った トレーナーの言いつけだった。","Condi was quietly jogging by himself.
+ It was yet another instruction from his trainer."
+Condi Go (talking),ハッ…ハッ……,Haah... haah...!
+narrator,正しく息を吸い、吐く。 そして走り続ける。,"He kept on jogging, controlling his breathing perfectly."
+Condi Go (talking),ハッ…ハッ……,Haah... haah...!
+narrator,コンディは、行方不明になったトレーナーの 言葉に従順に従っていた。,Condi obediently followed his disappeared trainer`s instructions.
+Condi Go (talking),ハッ……ハッ……,Haah... haah...
+narrator,今日もコンディは、ジョギングをしていた。 雨の日も風の日も。 いつもと同じように。,"Condi was once again jogging today. Rain or shine, he would always jog."
+Condi Go (talking),……ッ……ハッ……,...! Haah...
+Condi Go (talking),"っ……！！
+カッ……カルロス！？","...!
+ C-Carlos?!"
+Ishihara Senju (talking),わっ！？,Wah?!
+Condi Go (talking),カルロス！ お前、ここまできたのか？ パパに会いに！！,"You came all the way here, Carlos?! To meet with Papa?!"
+narrator,コンディはスペイン語で千手にまくしたてた。,Condi spoke to Senju in Spanish.
+Ishihara Senju (talking),何、包茎マフラーのおじさん。 ショタ？,"What`s with you, old man? You a pedo?"
+Condi Go (talking),"……カルロ……
+ ………違う…か… 当然だな…… …当然……だ……","Carlos-
+ ...No... I`m wrong... Yeah..."
+Condi Go (talking),悪カタ…… ビクリ…サセタ……,of course I am... I`m sorry...startled you...
+Ishihara Senju (talking),"ううん、別に。 時々、おじさんみたいな人がいるからね。 慣れてるよ。
+ところでおじさん、ボクサー？ その手に巻いてるの、 バンデージでしょ？","No, it`s okay. I get people like you from time to time, I`m used to it.
+ By the way, are you a boxer? You`ve got bandages on your hands."
+Condi Go (talking),…………,...
+narrator,コンディは無言で頷いた。,Condi silently nodded.
+Ishihara Senju (talking),ふーん、そーなんだ。 あ、この男パンチってジムの人？,"Hmm, I see. Oh, do you train at the Manly Punch Gym?"
+narrator,コンディはまた、黙って頷く。,Condi nodded once again.
+Ishihara Senju (talking),ボク、この隣りに新設された家の関係者。 これから、よろしくね。,I`m with the establishment built next door recently. I`ll be seeing you.
+narrator,そう言って新設された家――娼館に入ろうと した千手を、コンディは置いてきぼりを くらわされた小犬のような目で見つめていた。,"As Senju went inside the newly-built brothel, Condi looked at him with the eyes of an abandoned puppy."
+Ishihara Senju (talking),……………,...
+Ishihara Senju (thinking),使えるかな……,(Maybe we can use him...)
+Yamamoto Akuji (talking),何、戸口でぼさっとしてるんだ、千手。,"Hey, why`re you holding up the door?"
+narrator,娼館の中から視察を終えた悪司が出てきた。,Akuji came out from the brothel after his inspection.
+Ishihara Senju (talking),悪司、新しい兵隊、欲しくない？,"Akuji, do you want a new fighter?"
+Yamamoto Akuji (talking),ん~、お前さんが戦うのか？,"What, you`re gonna fight?"
+Ishihara Senju (talking),"いたいけな子供に、 そんな過酷な肉体労働させないでよ。
+あそこにいる、ボクサー。 なんだったら、ボクの手管で 悪司の部下にしてみせるけど、どう？","You`d make an innocent child do that? That boxer over there.
+ I could use my tricks to get him to work for you. How about it?"
+narrator,と、千手が指さした場所には、縋るような目を したコンディが立っていた。,"Senju pointed at Condi, who looked forlorn."
+Yamamoto Akuji (talking),ふーん……ボクサーか… 確かに、戦えそうだな…,"A boxer, eh...? He does look like a fighter..."
+__system__??,{RETURN = 1:,{RETURN = 1:
+Yamamoto Akuji (talking),そーだな。 一人ぐらい、 ボクサーがいてもいいかもな。,"Right, I guess it could be good to have a boxer in our group."
+Ishihara Senju (talking),わかった。 ちょっと待ってて。,Got it. Wait here for a sec.
+narrator,そう言って、千手は走ってコンディの元に やってきた。,Senju ran towards Condi.
+Ishihara Senju (talking),おじさん、名前は？,"What`s your name, mister?"
+Condi Go (talking),コンディ・ゴ。,Condi Go.
+Ishihara Senju (talking),どうしてニホンにきたの？,Why did you come to Japan?
+Condi Go (talking),戦ウ……ファイトマネー、入ル… 息子…待ッテル……,To fight... get fight money... My son waiting...
+Ishihara Senju (talking),でもここって、おじさん一人で 住んでるんじゃなかったっけ？ そう聞いたけど？,But aren`t you living here by yourself? At least that`s what I`ve heard.
+Condi Go (talking),一人…トレーナー…待ッテル… 戦争……帰ッテコナイ……,Waiting my trainer... Won`t come back from war...
+Ishihara Senju (talking),"ふーん。 躾のいい犬みたいに、 主人の帰りを待ってたって訳か。
+でもそれじゃーさー、お金、 まったく稼げてないんじゃないの？","Hmm, so you`re like an obedient hound, waiting for its master.
+ But then you`re not earning any money, right?"
+narrator,コンディは黙って頷いた。,Condi nodded.
+Ishihara Senju (talking),早く、息子のとこ、 帰りたいんじゃないの？,"You wanna meet your son again soon, right?"
+Condi Go (talking),……アア……,...Yes...
+Ishihara Senju (talking),"だったらさ、ボク、いい働き口、 知ってるんだ。
+そこだったら、ボクと一緒にいる事も 出来るよ。","Then I have a great job for you.
+ You could even spend time with me there."
+Condi Go (talking),ホ、本当カ！？,R-Really?!
+Ishihara Senju (talking),あそこにいるおにーさんの部下になるって 言えば、お金もボクも手に入るよ。,"If you tell that guy you`ll work for him, you`ll get me and the money."
+Condi Go (talking),……オ……オオ……,...Ooh...
+Ishihara Senju (talking),さ、おいで、コンディ。 一緒にいたいんでしょう？,"Come on, Condi. You want to be with me, right?"
+narrator,コンディは千手が差し出した手に手を重ねた。,"Senju stretched out his hand, and Condi held it."
+Ishihara Senju (talking),いっちょあがり。,Aaaand done.
+Yamamoto Akuji (talking),男も女もイケる、 スイッチヒッターだったのか。,"Good with women and men, huh? So you`re a switch hitter."
+Ishihara Senju (talking),"さーどーだかね。
+さあ、コンディ、この人に お願いしますって言うんだよ。","Who knows.
+ Now, Condi, ask this man nicely."
+Condi Go (talking),オ願イ……シマス……,...Please...
+narrator,コンディは千手に言われた通りの言葉を反芻し、 悪司に頭を下げた。,Condi parroted the words Senju had told him and bowed to Akuji.
+Yamamoto Akuji (talking),あんた、見た通りのボクサーで いいのかな？,"You`re a boxer, right?"
+Condi Go (talking),……コンディ、ボクサー… 戦ウ……,Condi... boxer... I`ll fight...
+Yamamoto Akuji (talking),そーかい。 それじゃあこれからよろしく頼むぜ。,Good. I`ll be counting on you.
+Condi Go (talking),ハイ……,Yes...
+Ishihara Senju (talking),悪司、コンディ、 息子の為に出稼ぎってんだって。 だからお給料、きちんとあげてね。,"Akuji, Condi`s earning money for his son, so pay him a fair wage, okay?"
+Yamamoto Akuji (talking),おお、わかった。,"Yeah, gotcha."
+Ishihara Senju (talking),これでひとつ貸しだね。,You owe me one.
+Yamamoto Akuji (talking),……ヤな奴に借り作っちまったな~。,Sure don`t wanna owe YOU a debt...
+Ishihara Senju (talking),ふふふ。,Hehehe...
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+ (talking),いや、いらねぇ。 ほれ、中に入るんなら、さっさと入りな。,"Nah, don`t need him. Hurry up and get inside."
+Condi Go (talking),はいはい。 おかーさんみたいな事言うね、悪司。,"Okay. You`re talking like my mom, Akuji."
+narrator,悪司はコンディを部下にしなかった。,Akuji refused to hire Condi.
+__system__??,},}
+narrator,コンディと千手が港にいた。 コンディはしっかりと千手の手を掴んでいる。,"At the port, Condi firmly held Senju`s hands."
+Ishihara Senju (talking),船がきたよ、コンディ。,"Your boat`s here, Condi."
+Condi Go (talking),………………アア……,...Yeah.
+Ishihara Senju (talking),あれに乗って、 コンディは国に帰るんだね。,You can go back to your country if you take it.
+Condi Go (talking),"………コンディ…千手ノオカゲ… オ金、タクサン、手ニ入ッタ……
+グラシアス……ホントニ、グラシアス。","Thanks to Senju, I got lots of money...
+ Gracias... Truly, gracias..."
+Ishihara Senju (talking),何言ってんの。 それはコンディの正当な報酬なんだから、 胸張って受け取りゃいいんじゃないか。,"Please, that was your own hard-earned money. Take it with pride."
+Condi Go (talking),デモ、千手、イナカッタラ… コンディ、マダ国、帰レナカッタ…,"But if Senju not there, I still not able to go back."
+Ishihara Senju (talking),泣いちゃ駄目だよ。 コンディ、大人なんだから。,"You`re an adult, so don`t cry."
+Condi Go (talking),千手…アナタニモ、神ノ祝福ガ アリマスヨウニ…,"Senju, may God give you His blessings..."
+Ishihara Senju (talking),もうあるよ。 たぁくさんね……ふふ…… ふふふ……,"I already have them. Lots of them, even. Fufufufu..."
+Condi Go (talking),コンディ、行ク。 カルロスノ為……,Here I go. For Carlos...

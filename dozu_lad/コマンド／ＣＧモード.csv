@@ -1,0 +1,1193 @@
+character,jap text,Eng
+narrator,　ＣＧモードのテストです。,　ＣＧモードのテストです。
+__system__??,{U08 \ U13:,{U08 \ U13:
+__system__??,{U08 \ 0:,{U08 \ 0:
+__system__??,},}
+__system__??,},}
+__system__??,{(U08 \ 0) * (U06 \ 0):,{(U08 \ 0) * (U06 \ 0):
+__system__??,},}
+__system__??,{U07 \ 0:,{U07 \ 0:
+__system__??,},}
+__system__??,{U08 = 0:,{U08 = 0:
+__system__??,},}
+__system__??,{U08 = 0:,{U08 = 0:
+__system__??,},}
+__system__??,{U08 = 100:,{U08 = 100:
+__system__??,},}
+__system__??,{U08 = 1:,{U08 = 1:
+__system__??,},}
+__system__??,{U08 = 2:,{U08 = 2:
+__system__??,},}
+__system__??,{U08 = 3:,{U08 = 3:
+__system__??,},}
+__system__??,{U08 = 4:,{U08 = 4:
+__system__??,},}
+__system__??,{U08 = 5:,{U08 = 5:
+__system__??,},}
+__system__??,{U08 = 6:,{U08 = 6:
+__system__??,},}
+__system__??,{U08 = 7:,{U08 = 7:
+__system__??,},}
+__system__??,{U08 = 8:,{U08 = 8:
+__system__??,},}
+__system__??,{U08 = 9:,{U08 = 9:
+__system__??,},}
+__system__??,{U08 = 10:,{U08 = 10:
+__system__??,},}
+__system__??,{U08 = 11:,{U08 = 11:
+__system__??,},}
+__system__??,{U08 = 12:,{U08 = 12:
+__system__??,},}
+__system__??,{U09 > U10:,{U09 > U10:
+__system__??,},}
+__system__??,{L1 = 175:,{L1 = 175:
+__system__??,},}
+__system__??,{L1 = 167:,{L1 = 167:
+__system__??,},}
+__system__??,{L1 = 168:,{L1 = 168:
+__system__??,},}
+__system__??,{L1 = 166:,{L1 = 166:
+__system__??,},}
+__system__??,{L1 = 165:,{L1 = 165:
+__system__??,},}
+__system__??,{L1 = 153:,{L1 = 153:
+__system__??,},}
+__system__??,{L1 = 106:,{L1 = 106:
+__system__??,},}
+__system__??,{L1 = 128:,{L1 = 128:
+__system__??,},}
+__system__??,{L1 = 129:,{L1 = 129:
+__system__??,},}
+__system__??,{L1 = 172:,{L1 = 172:
+__system__??,},}
+__system__??,{L1 = 169:,{L1 = 169:
+__system__??,},}
+__system__??,{L1 = 170:,{L1 = 170:
+__system__??,},}
+__system__??,{L1 = 171:,{L1 = 171:
+__system__??,},}
+__system__??,{L1 = 173:,{L1 = 173:
+__system__??,},}
+__system__??,{L1 = 174:,{L1 = 174:
+__system__??,},}
+__system__??,{L1 = 112:,{L1 = 112:
+__system__??,},}
+__system__??,{L1 = 126:,{L1 = 126:
+__system__??,},}
+__system__??,{L1 = 72:,{L1 = 72:
+__system__??,},}
+__system__??,{L1 = 73:,{L1 = 73:
+__system__??,},}
+__system__??,{L1 = 1:,{L1 = 1:
+__system__??,},}
+__system__??,{L1 = 5:,{L1 = 5:
+__system__??,},}
+__system__??,{L1 = 30:,{L1 = 30:
+__system__??,},}
+__system__??,{L1 = 2:,{L1 = 2:
+__system__??,},}
+__system__??,{L1 = 4:,{L1 = 4:
+__system__??,},}
+__system__??,{L1 = 62:,{L1 = 62:
+__system__??,},}
+__system__??,{L1 = 3:,{L1 = 3:
+__system__??,},}
+__system__??,{L1 = 6:,{L1 = 6:
+__system__??,},}
+__system__??,{L1 = 57:,{L1 = 57:
+__system__??,},}
+__system__??,{L1 = 11:,{L1 = 11:
+__system__??,},}
+__system__??,{L1 = 70:,{L1 = 70:
+__system__??,},}
+__system__??,{L1 = 31:,{L1 = 31:
+__system__??,},}
+__system__??,{L1 = 127:,{L1 = 127:
+__system__??,},}
+__system__??,{L1 = 13:,{L1 = 13:
+__system__??,},}
+__system__??,{L1 = 27:,{L1 = 27:
+__system__??,},}
+__system__??,{L1 = 61:,{L1 = 61:
+__system__??,},}
+__system__??,{L1 = 14:,{L1 = 14:
+__system__??,},}
+__system__??,{L1 = 28:,{L1 = 28:
+__system__??,},}
+__system__??,{L1 = 7:,{L1 = 7:
+__system__??,},}
+__system__??,{L1 = 8:,{L1 = 8:
+__system__??,},}
+__system__??,{L1 = 15:,{L1 = 15:
+__system__??,},}
+__system__??,{L1 = 16:,{L1 = 16:
+__system__??,},}
+__system__??,{L1 = 17:,{L1 = 17:
+__system__??,},}
+__system__??,{L1 = 18:,{L1 = 18:
+__system__??,},}
+__system__??,{L1 = 19:,{L1 = 19:
+__system__??,},}
+__system__??,{L1 = 65:,{L1 = 65:
+__system__??,},}
+__system__??,{L1 = 66:,{L1 = 66:
+__system__??,},}
+__system__??,{L1 = 21:,{L1 = 21:
+__system__??,},}
+__system__??,{L1 = 56:,{L1 = 56:
+__system__??,},}
+__system__??,{L1 = 20:,{L1 = 20:
+__system__??,},}
+__system__??,{L1 = 68:,{L1 = 68:
+__system__??,},}
+__system__??,{L1 = 69:,{L1 = 69:
+__system__??,},}
+__system__??,{L1 = 41:,{L1 = 41:
+__system__??,},}
+__system__??,{L1 = 22:,{L1 = 22:
+__system__??,},}
+__system__??,{L1 = 25:,{L1 = 25:
+__system__??,},}
+__system__??,{L1 = 26:,{L1 = 26:
+__system__??,},}
+__system__??,{L1 = 67:,{L1 = 67:
+__system__??,},}
+__system__??,{L1 = 40:,{L1 = 40:
+__system__??,},}
+__system__??,{L1 = 29:,{L1 = 29:
+__system__??,},}
+__system__??,{L1 = 84:,{L1 = 84:
+__system__??,},}
+__system__??,{L1 = 43:,{L1 = 43:
+__system__??,},}
+__system__??,{L1 = 33:,{L1 = 33:
+__system__??,},}
+__system__??,{L1 = 90:,{L1 = 90:
+__system__??,},}
+__system__??,{L1 = 52:,{L1 = 52:
+__system__??,},}
+__system__??,{L1 = 53:,{L1 = 53:
+__system__??,},}
+__system__??,{L1 = 47:,{L1 = 47:
+__system__??,},}
+__system__??,{L1 = 48:,{L1 = 48:
+__system__??,},}
+__system__??,{L1 = 54:,{L1 = 54:
+__system__??,},}
+__system__??,{L1 = 55:,{L1 = 55:
+__system__??,},}
+__system__??,{L1 = 77:,{L1 = 77:
+__system__??,},}
+__system__??,{L1 = 78:,{L1 = 78:
+__system__??,},}
+__system__??,{L1 = 42:,{L1 = 42:
+__system__??,},}
+__system__??,{L1 = 63:,{L1 = 63:
+__system__??,},}
+__system__??,{L1 = 64:,{L1 = 64:
+__system__??,},}
+__system__??,{L1 = 91:,{L1 = 91:
+__system__??,},}
+__system__??,{L1 = 38:,{L1 = 38:
+__system__??,},}
+__system__??,{L1 = 39:,{L1 = 39:
+__system__??,},}
+__system__??,{L1 = 154:,{L1 = 154:
+__system__??,},}
+__system__??,{L1 = 74:,{L1 = 74:
+__system__??,},}
+__system__??,{L1 = 23:,{L1 = 23:
+__system__??,},}
+__system__??,{L1 = 125:,{L1 = 125:
+__system__??,},}
+__system__??,{L1 = 75:,{L1 = 75:
+__system__??,},}
+__system__??,{L1 = 76:,{L1 = 76:
+__system__??,},}
+__system__??,{L1 = 24:,{L1 = 24:
+__system__??,},}
+__system__??,{L1 = 79:,{L1 = 79:
+__system__??,},}
+__system__??,{L1 = 80:,{L1 = 80:
+__system__??,},}
+__system__??,{L1 = 81:,{L1 = 81:
+__system__??,},}
+__system__??,{L1 = 123:,{L1 = 123:
+__system__??,},}
+__system__??,{L1 = 82:,{L1 = 82:
+__system__??,},}
+__system__??,{L1 = 83:,{L1 = 83:
+__system__??,},}
+__system__??,{L1 = 99:,{L1 = 99:
+__system__??,},}
+__system__??,{L1 = 100:,{L1 = 100:
+__system__??,},}
+__system__??,{L1 = 101:,{L1 = 101:
+__system__??,},}
+__system__??,{L1 = 93:,{L1 = 93:
+__system__??,},}
+__system__??,{L1 = 94:,{L1 = 94:
+__system__??,},}
+__system__??,{L1 = 95:,{L1 = 95:
+__system__??,},}
+__system__??,{L1 = 124:,{L1 = 124:
+__system__??,},}
+__system__??,{L1 = 12:,{L1 = 12:
+__system__??,},}
+__system__??,{L1 = 32:,{L1 = 32:
+__system__??,},}
+__system__??,{L1 = 71:,{L1 = 71:
+__system__??,},}
+__system__??,{L1 = 92:,{L1 = 92:
+__system__??,},}
+__system__??,{L1 = 44:,{L1 = 44:
+__system__??,},}
+__system__??,{L1 = 34:,{L1 = 34:
+__system__??,},}
+__system__??,{L1 = 85:,{L1 = 85:
+__system__??,},}
+__system__??,{L1 = 45:,{L1 = 45:
+__system__??,},}
+__system__??,{L1 = 35:,{L1 = 35:
+__system__??,},}
+__system__??,{L1 = 86:,{L1 = 86:
+__system__??,},}
+__system__??,{L1 = 36:,{L1 = 36:
+__system__??,},}
+__system__??,{L1 = 46:,{L1 = 46:
+__system__??,},}
+__system__??,{L1 = 50:,{L1 = 50:
+__system__??,},}
+__system__??,{L1 = 51:,{L1 = 51:
+__system__??,},}
+__system__??,{L1 = 58:,{L1 = 58:
+__system__??,},}
+__system__??,{L1 = 155:,{L1 = 155:
+__system__??,},}
+__system__??,{L1 = 113:,{L1 = 113:
+__system__??,},}
+__system__??,{L1 = 114:,{L1 = 114:
+__system__??,},}
+__system__??,{L1 = 87:,{L1 = 87:
+__system__??,},}
+__system__??,{L1 = 88:,{L1 = 88:
+__system__??,},}
+__system__??,{L1 = 89:,{L1 = 89:
+__system__??,},}
+__system__??,{L1 = 9:,{L1 = 9:
+__system__??,},}
+__system__??,{L1 = 10:,{L1 = 10:
+__system__??,},}
+__system__??,{L1 = 96:,{L1 = 96:
+__system__??,},}
+__system__??,{L1 = 97:,{L1 = 97:
+__system__??,},}
+__system__??,{L1 = 98:,{L1 = 98:
+__system__??,},}
+__system__??,{L1 = 120:,{L1 = 120:
+__system__??,},}
+__system__??,{L1 = 121:,{L1 = 121:
+__system__??,},}
+__system__??,{L1 = 122:,{L1 = 122:
+__system__??,},}
+__system__??,{L1 = 107:,{L1 = 107:
+__system__??,},}
+__system__??,{L1 = 108:,{L1 = 108:
+__system__??,},}
+__system__??,{L1 = 111:,{L1 = 111:
+__system__??,},}
+__system__??,{L1 = 131:,{L1 = 131:
+__system__??,},}
+__system__??,{L1 = 132:,{L1 = 132:
+__system__??,},}
+__system__??,{L1 = 133:,{L1 = 133:
+__system__??,},}
+__system__??,{L1 = 118:,{L1 = 118:
+__system__??,},}
+__system__??,{L1 = 119:,{L1 = 119:
+__system__??,},}
+__system__??,{L1 = 142:,{L1 = 142:
+__system__??,},}
+__system__??,{L1 = 135:,{L1 = 135:
+__system__??,},}
+__system__??,{L1 = 136:,{L1 = 136:
+__system__??,},}
+__system__??,{L1 = 141:,{L1 = 141:
+__system__??,},}
+__system__??,{L1 = 137:,{L1 = 137:
+__system__??,},}
+__system__??,{L1 = 138:,{L1 = 138:
+__system__??,},}
+__system__??,{L1 = 139:,{L1 = 139:
+__system__??,},}
+__system__??,{L1 = 140:,{L1 = 140:
+__system__??,},}
+__system__??,{L1 = 130:,{L1 = 130:
+__system__??,},}
+__system__??,{L1 = 115:,{L1 = 115:
+__system__??,},}
+__system__??,{L1 = 116:,{L1 = 116:
+__system__??,},}
+__system__??,{L1 = 59:,{L1 = 59:
+__system__??,},}
+__system__??,{L1 = 60:,{L1 = 60:
+__system__??,},}
+__system__??,{L1 = 117:,{L1 = 117:
+__system__??,},}
+__system__??,{L1 = 134:,{L1 = 134:
+__system__??,},}
+__system__??,{L1 = 143:,{L1 = 143:
+__system__??,},}
+__system__??,{L1 = 144:,{L1 = 144:
+__system__??,},}
+__system__??,{L1 = 145:,{L1 = 145:
+__system__??,},}
+__system__??,{L1 = 146:,{L1 = 146:
+__system__??,},}
+__system__??,{L1 = 148:,{L1 = 148:
+__system__??,},}
+__system__??,{L1 = 149:,{L1 = 149:
+__system__??,},}
+__system__??,{L1 = 102:,{L1 = 102:
+__system__??,},}
+__system__??,{L1 = 103:,{L1 = 103:
+__system__??,},}
+__system__??,{L1 = 152:,{L1 = 152:
+__system__??,},}
+__system__??,{L1 = 104:,{L1 = 104:
+__system__??,},}
+__system__??,{L1 = 105:,{L1 = 105:
+__system__??,},}
+__system__??,{L1 = 147:,{L1 = 147:
+__system__??,},}
+__system__??,{L1 = 156:,{L1 = 156:
+__system__??,},}
+__system__??,{L1 = 162:,{L1 = 162:
+__system__??,},}
+__system__??,{L1 = 163:,{L1 = 163:
+__system__??,},}
+__system__??,{L1 = 176:,{L1 = 176:
+__system__??,},}
+__system__??,{L1 = 777:,{L1 = 777:
+__system__??,},}
+__system__??,{L1 = 888:,{L1 = 888:
+__system__??,},}
+__system__??,{L1 = 999:,{L1 = 999:
+__system__??,},}
+__system__??,{L1 = 1000:,{L1 = 1000:
+__system__??,},}
+narrator,　すっぽぬけています。,　すっぽぬけています。
+__system__??,{SVG[31] = 1:,{SVG[31] = 1:
+__system__??,},}
+__system__??,{SVG[31] = 0:,{SVG[31] = 0:
+narrator,Ｎｏ．１　まだ見ていません。,Ｎｏ．１　まだ見ていません。
+__system__??,},}
+__system__??,{SVG[32] = 1:,{SVG[32] = 1:
+__system__??,},}
+__system__??,{SVG[32] = 0:,{SVG[32] = 0:
+narrator,Ｎｏ．２　まだ見ていません。,Ｎｏ．２　まだ見ていません。
+__system__??,},}
+__system__??,{SVG[33] = 1:,{SVG[33] = 1:
+__system__??,},}
+__system__??,{SVG[33] = 0:,{SVG[33] = 0:
+narrator,Ｎｏ．３　まだ見ていません。,Ｎｏ．３　まだ見ていません。
+__system__??,},}
+__system__??,{SVG[34] = 1:,{SVG[34] = 1:
+__system__??,},}
+__system__??,{SVG[34] = 0:,{SVG[34] = 0:
+narrator,Ｎｏ．４　まだ見ていません。,Ｎｏ．４　まだ見ていません。
+__system__??,},}
+__system__??,{SVG[35] = 1:,{SVG[35] = 1:
+__system__??,},}
+__system__??,{SVG[35] = 0:,{SVG[35] = 0:
+narrator,Ｎｏ．５　まだ見ていません。,Ｎｏ．５　まだ見ていません。
+__system__??,},}
+__system__??,{SVG[36] = 1:,{SVG[36] = 1:
+__system__??,},}
+__system__??,{SVG[36] = 0:,{SVG[36] = 0:
+narrator,Ｎｏ．６　まだ見ていません。,Ｎｏ．６　まだ見ていません。
+__system__??,},}
+__system__??,{SVG[37] = 1:,{SVG[37] = 1:
+__system__??,},}
+__system__??,{SVG[37] = 0:,{SVG[37] = 0:
+narrator,Ｎｏ．７　まだ見ていません。,Ｎｏ．７　まだ見ていません。
+__system__??,},}
+__system__??,{SVG[38] = 1:,{SVG[38] = 1:
+__system__??,},}
+__system__??,{SVG[38] = 0:,{SVG[38] = 0:
+narrator,Ｎｏ．８　まだ見ていません。,Ｎｏ．８　まだ見ていません。
+__system__??,},}
+__system__??,{SVG[39] = 1:,{SVG[39] = 1:
+__system__??,},}
+__system__??,{SVG[39] = 0:,{SVG[39] = 0:
+narrator,Ｎｏ．９　まだ見ていません。,Ｎｏ．９　まだ見ていません。
+__system__??,},}
+__system__??,{SVG[40] = 1:,{SVG[40] = 1:
+__system__??,},}
+__system__??,{SVG[40] = 0:,{SVG[40] = 0:
+narrator,Ｎｏ．10　まだ見ていません。,Ｎｏ．10　まだ見ていません。
+__system__??,},}
+__system__??,{U08 \ U13:,{U08 \ U13:
+__system__??,},}
+__system__??,{(U08 \ 0) * (U06 \ 0):,{(U08 \ 0) * (U06 \ 0):
+__system__??,},}
+__system__??,{U07 \ 0:,{U07 \ 0:
+__system__??,},}
+__system__??,{U08 = 100:,{U08 = 100:
+__system__??,},}
+__system__??,{U08 = 99:,{U08 = 99:
+__system__??,},}
+__system__??,{U08 = U20:,{U08 = U20:
+__system__??,},}
+__system__??,{U20 \ 0:,{U20 \ 0:
+__system__??,},}
+__system__??,{U20 = 0:,{U20 = 0:
+__system__??,},}
+narrator,楽しい組織運営,楽しい組織運営
+narrator,敵は、しばく,敵は、しばく
+narrator,来たら、しばく,来たら、しばく
+narrator,地球は穴だらけ,地球は穴だらけ
+narrator,タマネギの部屋,タマネギの部屋
+narrator,美しい土地,美しい土地
+narrator,がんばれ悪司,がんばれ悪司
+narrator,しすてむぱにっく,しすてむぱにっく
+narrator,こます＆こます,こます＆こます
+narrator,らぶらぶ太陽,らぶらぶ太陽
+narrator,明日のメシがない,明日のメシがない
+narrator,大悪司,大悪司
+narrator,わかめ養殖場,わかめ養殖場
+narrator,那古神様,那古神様
+narrator,桃とがきんちょ,桃とがきんちょ
+narrator,女性立国,女性立国
+narrator,たんばーもんずりー,たんばーもんずりー
+narrator,緊張感無し,緊張感無し
+narrator,ハイヨー、シルバー！！,ハイヨー、シルバー！！
+narrator,大悪司改　エデン,大悪司改　エデン
+narrator,演奏停止,演奏停止
+narrator,音楽モード終了,音楽モード終了
+__system__??,{(TMP_DAT1[U13] = 0) * (U13 < 21):,{(TMP_DAT1[U13] = 0) * (U13 < 21):
+__system__??,},}
+__system__??,{U13 - 90 = L2:,{U13 - 90 = L2:
+__system__??,},}
+__system__??,{U08 \ U13:,{U08 \ U13:
+__system__??,{U08 \ 0:,{U08 \ 0:
+__system__??,},}
+__system__??,},}
+__system__??,{(U08 \ 0) * (U06 \ 0):,{(U08 \ 0) * (U06 \ 0):
+__system__??,},}
+__system__??,{U07 \ 0:,{U07 \ 0:
+__system__??,},}
+__system__??,{U08 = 101:,{U08 = 101:
+__system__??,},}
+__system__??,{U08 > 90:,{U08 > 90:
+__system__??,{U08 = L2:,{U08 = L2:
+__system__??,},}
+__system__??,},}
+__system__??,{U08 = U20:,{U08 = U20:
+__system__??,},}
+__system__??,{U20 \ 0:,{U20 \ 0:
+__system__??,},}
+narrator,ＳＰモード終了,ＳＰモード終了
+__system__??,{RND = L2:,{RND = L2:
+narrator,[,[
+__system__??,},}
+__system__??,{RND \ L2:,{RND \ L2:
+__system__??,},}
+__system__??,{RND = 1:,{RND = 1:
+narrator,01,01
+__system__??,},}
+__system__??,{RND = 2:,{RND = 2:
+narrator,02,02
+__system__??,},}
+__system__??,{RND = 3:,{RND = 3:
+narrator,03,03
+__system__??,},}
+__system__??,{RND = 4:,{RND = 4:
+narrator,04,04
+__system__??,},}
+__system__??,{RND = 5:,{RND = 5:
+narrator,05,05
+__system__??,},}
+__system__??,{RND = 6:,{RND = 6:
+narrator,06,06
+__system__??,},}
+__system__??,{RND = 7:,{RND = 7:
+narrator,07,07
+__system__??,},}
+__system__??,{RND = 8:,{RND = 8:
+narrator,08,08
+__system__??,},}
+__system__??,{RND = 9:,{RND = 9:
+narrator,09,09
+__system__??,},}
+__system__??,{RND = 10:,{RND = 10:
+narrator,10,10
+__system__??,},}
+__system__??,{RND = L2:,{RND = L2:
+narrator,],]
+__system__??,},}
+__system__??,{RND \ L2:,{RND \ L2:
+__system__??,},}
+__system__??,{RND = L2:,{RND = L2:
+__system__??,},}
+__system__??,{RND = 0:,{RND = 0:
+__system__??,},}
+__system__??,{RND = 0:,{RND = 0:
+__system__??,},}
+__system__??,{U14 = 62626:,{U14 = 62626:
+__system__??,},}
+__system__??,{RND = 16:,{RND = 16:
+__system__??,},}
+__system__??,{RND = 32:,{RND = 32:
+__system__??,},}
+__system__??,{U05 = 0:,{U05 = 0:
+__system__??,},}
+__system__??,{((U14 = U01) + (U14 > U01)) * (U14 < U01 + U03) * ((U15 = U02) + (U15 > U02)) * (U15 < U02 + U04):,{((U14 = U01) + (U14 > U01)) * (U14 < U01 + U03) * ((U15 = U02) + (U15 > U02)) * (U15 < U02 + U04):
+__system__??,},}
+__system__??,{U08 = 0:,{U08 = 0:
+__system__??,},}
+__system__??,{U08 = 0:,{U08 = 0:
+__system__??,},}
+__system__??,{L1 = 1:,{L1 = 1:
+__system__??,},}
+__system__??,{L1 = 2:,{L1 = 2:
+__system__??,},}
+__system__??,{L1 = 201:,{L1 = 201:
+narrator,山本 悪司,山本 悪司
+__system__??,},}
+__system__??,{L1 = 202:,{L1 = 202:
+narrator,白 民華,白 民華
+__system__??,},}
+__system__??,{L1 = 203:,{L1 = 203:
+narrator,モモメイド,モモメイド
+__system__??,},}
+__system__??,{L1 = 204:,{L1 = 204:
+narrator,青葉 曜子,青葉 曜子
+__system__??,},}
+__system__??,{L1 = 205:,{L1 = 205:
+narrator,加古 未来,加古 未来
+__system__??,},}
+__system__??,{L1 = 206:,{L1 = 206:
+narrator,衣笠 智子,衣笠 智子
+__system__??,},}
+__system__??,{L1 = 207:,{L1 = 207:
+narrator,青年団女子,青年団女子
+__system__??,},}
+__system__??,{L1 = 208:,{L1 = 208:
+narrator,市橋 蘭,市橋 蘭
+__system__??,},}
+__system__??,{L1 = 209:,{L1 = 209:
+narrator,加賀 元子,加賀 元子
+__system__??,},}
+__system__??,{L1 = 210:,{L1 = 210:
+narrator,森田 愛,森田 愛
+__system__??,},}
+__system__??,{L1 = 211:,{L1 = 211:
+narrator,辻家 晴子,辻家 晴子
+__system__??,},}
+__system__??,{L1 = 212:,{L1 = 212:
+narrator,神尾 徳典,神尾 徳典
+__system__??,},}
+__system__??,{L1 = 213:,{L1 = 213:
+narrator,エリートヤクザ,エリートヤクザ
+__system__??,},}
+__system__??,{L1 = 214:,{L1 = 214:
+narrator,ちんぴら,ちんぴら
+__system__??,},}
+__system__??,{L1 = 215:,{L1 = 215:
+narrator,よっぱらい,よっぱらい
+__system__??,},}
+__system__??,{L1 = 216:,{L1 = 216:
+narrator,一般市民 男,一般市民 男
+__system__??,},}
+__system__??,{L1 = 217:,{L1 = 217:
+narrator,ピーチボーイ,ピーチボーイ
+__system__??,},}
+__system__??,{L1 = 218:,{L1 = 218:
+narrator,中山 明里,中山 明里
+__system__??,},}
+__system__??,{L1 = 219:,{L1 = 219:
+narrator,中山 多恵子,中山 多恵子
+__system__??,},}
+__system__??,{L1 = 220:,{L1 = 220:
+narrator,池田 加奈,池田 加奈
+__system__??,},}
+__system__??,{L1 = 221:,{L1 = 221:
+narrator,大槻 姫子,大槻 姫子
+__system__??,},}
+__system__??,{L1 = 222:,{L1 = 222:
+narrator,小松 舞,小松 舞
+__system__??,},}
+__system__??,{L1 = 223:,{L1 = 223:
+narrator,岳画 殺,岳画 殺
+__system__??,},}
+__system__??,{L1 = 224:,{L1 = 224:
+narrator,山本 一発,山本 一発
+__system__??,},}
+__system__??,{L1 = 225:,{L1 = 225:
+narrator,加賀 太郎,加賀 太郎
+__system__??,},}
+__system__??,{L1 = 226:,{L1 = 226:
+narrator,デカオ,デカオ
+__system__??,},}
+__system__??,{L1 = 227:,{L1 = 227:
+narrator,素敵医師,素敵医師
+__system__??,},}
+__system__??,{L1 = 228:,{L1 = 228:
+narrator,タマネギ,タマネギ
+__system__??,},}
+__system__??,{L1 = 229:,{L1 = 229:
+narrator,石原 千手,石原 千手
+__system__??,},}
+__system__??,{L1 = 230:,{L1 = 230:
+narrator,小原 小春,小原 小春
+__system__??,},}
+__system__??,{L1 = 231:,{L1 = 231:
+narrator,裕木 野枝実,裕木 野枝実
+__system__??,},}
+__system__??,{L1 = 232:,{L1 = 232:
+narrator,森 薫,森 薫
+__system__??,},}
+__system__??,{L1 = 233:,{L1 = 233:
+narrator,大杉 剛,大杉 剛
+__system__??,},}
+__system__??,{L1 = 234:,{L1 = 234:
+narrator,島本 純,島本 純
+__system__??,},}
+__system__??,{L1 = 235:,{L1 = 235:
+narrator,山沢 麻美,山沢 麻美
+__system__??,},}
+__system__??,{L1 = 236:,{L1 = 236:
+narrator,那古教徒 男,那古教徒 男
+__system__??,},}
+__system__??,{L1 = 237:,{L1 = 237:
+narrator,那古教徒 女,那古教徒 女
+__system__??,},}
+__system__??,{L1 = 238:,{L1 = 238:
+narrator,由女,由女
+__system__??,},}
+__system__??,{L1 = 239:,{L1 = 239:
+narrator,古宮 陽子,古宮 陽子
+__system__??,},}
+__system__??,{L1 = 240:,{L1 = 240:
+narrator,月瀬 寧々,月瀬 寧々
+__system__??,},}
+__system__??,{L1 = 241:,{L1 = 241:
+narrator,土岐 遙,土岐 遙
+__system__??,},}
+__system__??,{L1 = 242:,{L1 = 242:
+narrator,木村 弾白,木村 弾白
+__system__??,},}
+__system__??,{L1 = 243:,{L1 = 243:
+narrator,大谷 善継,大谷 善継
+__system__??,},}
+__system__??,{L1 = 244:,{L1 = 244:
+narrator,金田 酒太郎,金田 酒太郎
+__system__??,},}
+__system__??,{L1 = 245:,{L1 = 245:
+narrator,野比 ひかり,野比 ひかり
+__system__??,},}
+__system__??,{L1 = 246:,{L1 = 246:
+narrator,ジャンキー,ジャンキー
+__system__??,},}
+__system__??,{L1 = 247:,{L1 = 247:
+narrator,長崎 旗男,長崎 旗男
+__system__??,},}
+__system__??,{L1 = 248:,{L1 = 248:
+narrator,鴉葉 月,鴉葉 月
+__system__??,},}
+__system__??,{L1 = 249:,{L1 = 249:
+narrator,多田山 一途,多田山 一途
+__system__??,},}
+__system__??,{L1 = 250:,{L1 = 250:
+narrator,鬼門 始,鬼門 始
+__system__??,},}
+__system__??,{L1 = 251:,{L1 = 251:
+narrator,イレズミヤクザ,イレズミヤクザ
+__system__??,},}
+__system__??,{L1 = 252:,{L1 = 252:
+narrator,ドスヤクザ,ドスヤクザ
+__system__??,},}
+__system__??,{L1 = 253:,{L1 = 253:
+narrator,情婦,情婦
+__system__??,},}
+__system__??,{L1 = 254:,{L1 = 254:
+narrator,竹井 杏,竹井 杏
+__system__??,},}
+__system__??,{L1 = 255:,{L1 = 255:
+narrator,竹井 つかさ,竹井 つかさ
+__system__??,},}
+__system__??,{L1 = 256:,{L1 = 256:
+narrator,怪盗マトリョーシカ,怪盗マトリョーシカ
+__system__??,},}
+__system__??,{L1 = 257:,{L1 = 257:
+narrator,貴神 雷贈,貴神 雷贈
+__system__??,},}
+__system__??,{L1 = 258:,{L1 = 258:
+narrator,西郷 松男,西郷 松男
+__system__??,},}
+__system__??,{L1 = 259:,{L1 = 259:
+narrator,神原 夕子,神原 夕子
+__system__??,},}
+__system__??,{L1 = 260:,{L1 = 260:
+narrator,桃山 リンダ,桃山 リンダ
+__system__??,},}
+__system__??,{L1 = 261:,{L1 = 261:
+narrator,支倉 ハイネ,支倉 ハイネ
+__system__??,},}
+__system__??,{L1 = 262:,{L1 = 262:
+narrator,支倉 アエン,支倉 アエン
+__system__??,},}
+__system__??,{L1 = 263:,{L1 = 263:
+narrator,支倉 キリカ,支倉 キリカ
+__system__??,},}
+__system__??,{L1 = 264:,{L1 = 264:
+narrator,イハビーラ・メッコー,イハビーラ・メッコー
+__system__??,},}
+__system__??,{L1 = 265:,{L1 = 265:
+narrator,キャット・メッコー,キャット・メッコー
+__system__??,},}
+__system__??,{L1 = 266:,{L1 = 266:
+narrator,シーネル・ブラウン,シーネル・ブラウン
+__system__??,},}
+__system__??,{L1 = 267:,{L1 = 267:
+narrator,プリシラ・ヴァドル,プリシラ・ヴァドル
+__system__??,},}
+__system__??,{L1 = 268:,{L1 = 268:
+narrator,ヘンリー・ルービン,ヘンリー・ルービン
+__system__??,},}
+__system__??,{L1 = 269:,{L1 = 269:
+narrator,武田 のぞみ,武田 のぞみ
+__system__??,},}
+__system__??,{L1 = 270:,{L1 = 270:
+narrator,丹沢 志津,丹沢 志津
+__system__??,},}
+__system__??,{L1 = 271:,{L1 = 271:
+narrator,山林 吹雪,山林 吹雪
+__system__??,},}
+__system__??,{L1 = 272:,{L1 = 272:
+narrator,盾,盾
+__system__??,},}
+__system__??,{L1 = 273:,{L1 = 273:
+narrator,春風,春風
+__system__??,},}
+__system__??,{L1 = 274:,{L1 = 274:
+narrator,今川 クルス,今川 クルス
+__system__??,},}
+__system__??,{L1 = 275:,{L1 = 275:
+narrator,佐々木 鹿の子,佐々木 鹿の子
+__system__??,},}
+__system__??,{L1 = 276:,{L1 = 276:
+narrator,瑞海 和樹,瑞海 和樹
+__system__??,},}
+__system__??,{L1 = 277:,{L1 = 277:
+narrator,ハニー土木社員,ハニー土木社員
+__system__??,},}
+__system__??,{L1 = 278:,{L1 = 278:
+narrator,ウィミィ兵士 男子１,ウィミィ兵士 男子１
+__system__??,},}
+__system__??,{L1 = 279:,{L1 = 279:
+narrator,ウィミィ兵士 女子,ウィミィ兵士 女子
+__system__??,},}
+__system__??,{L1 = 280:,{L1 = 280:
+narrator,市議会職員,市議会職員
+__system__??,},}
+__system__??,{L1 = 281:,{L1 = 281:
+narrator,女子学生,女子学生
+__system__??,},}
+__system__??,{L1 = 282:,{L1 = 282:
+narrator,真田 電波,真田 電波
+__system__??,},}
+__system__??,{L1 = 283:,{L1 = 283:
+narrator,天界 海音,天界 海音
+__system__??,},}
+__system__??,{L1 = 284:,{L1 = 284:
+narrator,松本 了,松本 了
+__system__??,},}
+__system__??,{L1 = 285:,{L1 = 285:
+narrator,女の子海賊,女の子海賊
+__system__??,},}
+__system__??,{L1 = 286:,{L1 = 286:
+narrator,少女,少女
+__system__??,},}
+__system__??,{L1 = 287:,{L1 = 287:
+narrator,若い主婦,若い主婦
+__system__??,},}
+__system__??,{L1 = 288:,{L1 = 288:
+narrator,パンダ,パンダ
+__system__??,},}
+__system__??,{L1 = 289:,{L1 = 289:
+narrator,女性士官,女性士官
+__system__??,},}
+__system__??,{L1 = 290:,{L1 = 290:
+narrator,店員,店員
+__system__??,},}
+__system__??,{L1 = 291:,{L1 = 291:
+narrator,治安課職員,治安課職員
+__system__??,},}
+__system__??,{L1 = 292:,{L1 = 292:
+narrator,看護婦,看護婦
+__system__??,},}
+__system__??,{L1 = 293:,{L1 = 293:
+narrator,高山 はみ,高山 はみ
+__system__??,},}
+__system__??,{L1 = 294:,{L1 = 294:
+narrator,星屑 夜空,星屑 夜空
+__system__??,},}
+__system__??,{L1 = 295:,{L1 = 295:
+narrator,佐藤 たね,佐藤 たね
+__system__??,},}
+__system__??,{L1 = 296:,{L1 = 296:
+narrator,佐藤 たね（復活）,佐藤 たね（復活）
+__system__??,},}
+__system__??,{L1 = 297:,{L1 = 297:
+narrator,ビノノン王,ビノノン王
+__system__??,},}
+__system__??,{L1 = 298:,{L1 = 298:
+narrator,五十鈴 伊万里,五十鈴 伊万里
+__system__??,},}
+__system__??,{L1 = 299:,{L1 = 299:
+narrator,河原 伊織,河原 伊織
+__system__??,},}
+__system__??,{L1 = 300:,{L1 = 300:
+narrator,九条宗麟,九条宗麟
+__system__??,},}
+__system__??,{L1 = 301:,{L1 = 301:
+narrator,警備員,警備員
+__system__??,},}
+__system__??,{L1 = 302:,{L1 = 302:
+narrator,ＷＷ弾,ＷＷ弾
+__system__??,},}
+__system__??,{L1 = 303:,{L1 = 303:
+narrator,猿田 犬男,猿田 犬男
+__system__??,},}
+__system__??,{L1 = 304:,{L1 = 304:
+narrator,ビッグアーサ,ビッグアーサ
+__system__??,},}
+__system__??,{L1 = 305:,{L1 = 305:
+narrator,カリコリルリ,カリコリルリ
+__system__??,},}
+__system__??,{L1 = 306:,{L1 = 306:
+narrator,池田 苺,池田 苺
+__system__??,},}
+__system__??,{L1 = 307:,{L1 = 307:
+narrator,岳画 殺（眼鏡）,岳画 殺（眼鏡）
+__system__??,},}
+__system__??,{L1 = 308:,{L1 = 308:
+narrator,モノクロ 悪司（軍人）,モノクロ 悪司（軍人）
+__system__??,},}
+__system__??,{L1 = 309:,{L1 = 309:
+narrator,柳 秋光,柳 秋光
+__system__??,},}
+__system__??,{L1 = 310:,{L1 = 310:
+narrator,郷田 真,郷田 真
+__system__??,},}
+__system__??,{L1 = 311:,{L1 = 311:
+narrator,天戸 香太郎,天戸 香太郎
+__system__??,},}
+__system__??,{L1 = 312:,{L1 = 312:
+narrator,イルラカムイ,イルラカムイ
+__system__??,},}
+__system__??,{L1 = 313:,{L1 = 313:
+narrator,ウパス,ウパス
+__system__??,},}
+__system__??,{L1 = 314:,{L1 = 314:
+narrator,選挙管理委員,選挙管理委員
+__system__??,},}
+__system__??,{L1 = 315:,{L1 = 315:
+narrator,青姫,青姫
+__system__??,},}
+__system__??,{L1 = 316:,{L1 = 316:
+narrator,ブルータイプ,ブルータイプ
+__system__??,},}
+__system__??,{L1 = 317:,{L1 = 317:
+narrator,警備員（眼鏡）,警備員（眼鏡）
+__system__??,},}
+__system__??,{L1 = 318:,{L1 = 318:
+narrator,由女の僕,由女の僕
+__system__??,},}
+__system__??,{L1 = 319:,{L1 = 319:
+narrator,ＧＡＬバーガー,ＧＡＬバーガー
+__system__??,},}
+__system__??,{L1 = 320:,{L1 = 320:
+narrator,高山 リクペチ,高山 リクペチ
+__system__??,},}
+__system__??,{L1 = 321:,{L1 = 321:
+narrator,湯室 世津子,湯室 世津子
+__system__??,},}
+__system__??,{L1 = 322:,{L1 = 322:
+narrator,羽黒（昼）,羽黒（昼）
+__system__??,},}
+__system__??,{L1 = 323:,{L1 = 323:
+narrator,羽黒（夜）,羽黒（夜）
+__system__??,},}
+__system__??,{L1 = 324:,{L1 = 324:
+narrator,乃木 喜久子,乃木 喜久子
+__system__??,},}
+__system__??,{L1 = 325:,{L1 = 325:
+narrator,乃木 重彦,乃木 重彦
+__system__??,},}
+__system__??,{L1 = 326:,{L1 = 326:
+narrator,青年将校,青年将校
+__system__??,},}
+__system__??,{L1 = 327:,{L1 = 327:
+narrator,ジョンソン・ベネデク,ジョンソン・ベネデク
+__system__??,},}
+__system__??,{L1 = 328:,{L1 = 328:
+narrator,バーバラ・マリーゴールド,バーバラ・マリーゴールド
+__system__??,},}
+__system__??,{L1 = 329:,{L1 = 329:
+narrator,シャロン・ルース,シャロン・ルース
+__system__??,},}
+__system__??,{L1 = 330:,{L1 = 330:
+narrator,友引 操,友引 操
+__system__??,},}
+__system__??,{L1 = 331:,{L1 = 331:
+narrator,浪 梅清,浪 梅清
+__system__??,},}
+__system__??,{L1 = 332:,{L1 = 332:
+narrator,見当 かなみ,見当 かなみ
+__system__??,},}
+__system__??,{L1 = 333:,{L1 = 333:
+narrator,ウィミィ兵士 男子２,ウィミィ兵士 男子２
+__system__??,},}
+__system__??,{L1 = 334:,{L1 = 334:
+narrator,筒井 朝顔,筒井 朝顔
+__system__??,},}
+__system__??,{L1 = 335:,{L1 = 335:
+narrator,眼鏡っ娘,眼鏡っ娘
+__system__??,},}
+__system__??,{L1 = 336:,{L1 = 336:
+narrator,高山ヤクザ,高山ヤクザ
+__system__??,},}
+__system__??,{L1 = 337:,{L1 = 337:
+narrator,炎 どん子,炎 どん子
+__system__??,},}
+__system__??,{L1 = 338:,{L1 = 338:
+narrator,不動 明,不動 明
+__system__??,},}
+__system__??,{L1 = 339:,{L1 = 339:
+narrator,野山 めぐる,野山 めぐる
+__system__??,},}
+__system__??,{L1 = 340:,{L1 = 340:
+narrator,日陰 密子,日陰 密子
+__system__??,},}
+__system__??,{L1 = 341:,{L1 = 341:
+narrator,ニンジン,ニンジン
+__system__??,},}
+__system__??,{L1 = 342:,{L1 = 342:
+narrator,大王様,大王様
+__system__??,},}
+__system__??,{L1 = 343:,{L1 = 343:
+narrator,コンディ・ゴ,コンディ・ゴ
+__system__??,},}
+__system__??,{L1 = 344:,{L1 = 344:
+narrator,パンイチ,パンイチ
+__system__??,},}
+__system__??,{L1 = 345:,{L1 = 345:
+narrator,ハニー,ハニー
+__system__??,},}
+__system__??,{L1 = 346:,{L1 = 346:
+narrator,野良コーギー,野良コーギー
+__system__??,},}
+__system__??,{L1 = 347:,{L1 = 347:
+narrator,猿,猿
+__system__??,},}
+__system__??,{L1 = 348:,{L1 = 348:
+narrator,セヤダタラ,セヤダタラ
+__system__??,},}
+__system__??,{L1 = 349:,{L1 = 349:
+narrator,ジュディ・カワード,ジュディ・カワード
+__system__??,},}
+__system__??,{L1 = 350:,{L1 = 350:
+narrator,白 民華（愛）,白 民華（愛）
+__system__??,},}
+__system__??,{L1 = 351:,{L1 = 351:
+narrator,加賀 元子（愛）,加賀 元子（愛）
+__system__??,},}
+__system__??,{L1 = 352:,{L1 = 352:
+narrator,乃木 喜久子（愛）,乃木 喜久子（愛）
+__system__??,},}
+__system__??,{L1 = 353:,{L1 = 353:
+narrator,プリシラ・ヴァドル（愛）,プリシラ・ヴァドル（愛）
+__system__??,},}
+__system__??,{L1 = 354:,{L1 = 354:
+narrator,岳画殺（愛）,岳画殺（愛）
+__system__??,},}
+__system__??,{L1 = 355:,{L1 = 355:
+narrator,陸奥,陸奥
+__system__??,},}
+__system__??,{L1 = 356:,{L1 = 356:
+narrator,戦鬼,戦鬼
+__system__??,},}
+__system__??,{L1 = 357:,{L1 = 357:
+narrator,ベラドンナ,ベラドンナ
+__system__??,},}
+__system__??,{L1 = 358:,{L1 = 358:
+narrator,アメリカン,アメリカン
+__system__??,},}
+__system__??,{L1 = 359:,{L1 = 359:
+narrator,月江 るうな,月江 るうな
+__system__??,},}
+__system__??,{L1 = 360:,{L1 = 360:
+narrator,早乙女 美鈴,早乙女 美鈴
+__system__??,},}
+__system__??,{L1 = 361:,{L1 = 361:
+narrator,相馬 鱗,相馬 鱗
+__system__??,},}
+__system__??,{L1 = 362:,{L1 = 362:
+narrator,老人,老人
+__system__??,},}
+__system__??,{L1 = 363:,{L1 = 363:
+narrator,少年,少年
+__system__??,},}
+__system__??,{L1 = 364:,{L1 = 364:
+narrator,子猫,子猫
+__system__??,},}
+__system__??,{L1 = 365:,{L1 = 365:
+narrator,Ｂ４号,Ｂ４号
+__system__??,},}
+__system__??,{L1 = 366:,{L1 = 366:
+narrator,Ｂ５号,Ｂ５号
+__system__??,},}
+__system__??,{L1 = 367:,{L1 = 367:
+narrator,サンディ・サンディ,サンディ・サンディ
+__system__??,},}
+__system__??,{L1 = 368:,{L1 = 368:
+narrator,シャア,シャア
+__system__??,},}
+__system__??,{L1 = 369:,{L1 = 369:
+narrator,アンリ・ペロリ,アンリ・ペロリ
+__system__??,},}
+__system__??,{L1 = 370:,{L1 = 370:
+narrator,アンリ（愛）,アンリ（愛）
+__system__??,},}
+__system__??,{L1 = 371:,{L1 = 371:
+narrator,エルベヘス,エルベヘス
+__system__??,},}
+__system__??,{L1 = 372:,{L1 = 372:
+narrator,宇宙の帝王,宇宙の帝王
+__system__??,},}
+__system__??,{L1 = 373:,{L1 = 373:
+narrator,遅刻ペンギン,遅刻ペンギン
+__system__??,},}
+__system__??,{L1 = 374:,{L1 = 374:
+narrator,まんぼう,まんぼう
+__system__??,},}
+__system__??,{L1 = 375:,{L1 = 375:
+narrator,火星ロボ,火星ロボ
+__system__??,},}
+__system__??,{L1 = 376:,{L1 = 376:
+narrator,星川 翼,星川 翼
+__system__??,},}
+__system__??,{L1 = 377:,{L1 = 377:
+narrator,鴉丸 羅喉,鴉丸 羅喉
+__system__??,},}
+__system__??,{L1 = 378:,{L1 = 378:
+narrator,高山 ゴルゴ,高山 ゴルゴ
+__system__??,},}
+__system__??,{L1 = 379:,{L1 = 379:
+narrator,高山 黒子,高山 黒子
+__system__??,},}
+__system__??,{L1 = 380:,{L1 = 380:
+narrator,金田 酒太郎（女）,金田 酒太郎（女）
+__system__??,},}
+__system__??,{L1 = 381:,{L1 = 381:
+narrator,ブリキの兵隊,ブリキの兵隊
+__system__??,},}
+__system__??,{L1 = 382:,{L1 = 382:
+narrator,トン☆ヌラ,トン☆ヌラ
+__system__??,},}
+__system__??,{L1 = 383:,{L1 = 383:
+narrator,モノクロ アンリ子供時代,モノクロ アンリ子供時代
+__system__??,},}
+__system__??,{L1 = 384:,{L1 = 384:
+narrator,モノクロ 民華子供時代,モノクロ 民華子供時代
+__system__??,},}
+__system__??,{L1 = 385:,{L1 = 385:
+narrator,モノクロ 民華１７才,モノクロ 民華１７才
+__system__??,},}
+__system__??,{L1 = 386:,{L1 = 386:
+narrator,大まおー,大まおー
+__system__??,},}
+__system__??,{L1 = 387:,{L1 = 387:
+narrator,　,　
+__system__??,},}
+__system__??,{L1 = 388:,{L1 = 388:
+narrator,　,　
+__system__??,},}
+__system__??,{L1 = 389:,{L1 = 389:
+narrator,　,　
+__system__??,},}
+__system__??,{L1 = 390:,{L1 = 390:
+narrator,　,　
+__system__??,},}
+__system__??,{L1 = 391:,{L1 = 391:
+narrator,　,　
+__system__??,},}
+__system__??,{L1 = 392:,{L1 = 392:
+narrator,　,　
+__system__??,},}
+__system__??,{L1 = 393:,{L1 = 393:
+narrator,　,　
+__system__??,},}
+__system__??,{L1 = 394:,{L1 = 394:
+narrator,　,　
+__system__??,},}
+__system__??,{L1 = 395:,{L1 = 395:
+narrator,　,　
+__system__??,},}
+__system__??,{L1 = 396:,{L1 = 396:
+narrator,　,　
+__system__??,},}
+__system__??,{L1 = 397:,{L1 = 397:
+narrator,　,　
+__system__??,},}
+__system__??,{L1 = 398:,{L1 = 398:
+narrator,　,　
+__system__??,},}
+__system__??,{L1 = 399:,{L1 = 399:
+narrator,　,　
+__system__??,},}
+__system__??,{L1 = 400:,{L1 = 400:
+narrator,モノクロ 悪司（過去）,モノクロ 悪司（過去）
+__system__??,},}
+__system__??,{L1 = 401:,{L1 = 401:
+narrator,モノクロ 民華,モノクロ 民華
+__system__??,},}
+__system__??,{L1 = 402:,{L1 = 402:
+narrator,モノクロ 剛（過去）,モノクロ 剛（過去）
+__system__??,},}
+__system__??,{L1 = 403:,{L1 = 403:
+narrator,モノクロ アンリ,モノクロ アンリ
+__system__??,},}
+__system__??,{L1 = 404:,{L1 = 404:
+narrator,モノクロ プリシラ（過去）,モノクロ プリシラ（過去）
+__system__??,},}
+__system__??,{L1 = 405:,{L1 = 405:
+narrator,カラー アンリ子供時代,カラー アンリ子供時代
+__system__??,},}
+__system__??,{L1 = 406:,{L1 = 406:
+narrator,カラー 民華子供時代,カラー 民華子供時代
+__system__??,},}
+__system__??,{L1 = 407:,{L1 = 407:
+narrator,カラー 民華１７才,カラー 民華１７才
+__system__??,},}
+__system__??,{L1 = 408:,{L1 = 408:
+narrator,カラー 悪司（軍人）,カラー 悪司（軍人）
+__system__??,},}
+__system__??,{L1 = 409:,{L1 = 409:
+narrator,　,　
+__system__??,},}
+__system__??,{L1 = 410:,{L1 = 410:
+narrator,カラー 悪司１９才,カラー 悪司１９才
+__system__??,},}
+__system__??,{L1 = 411:,{L1 = 411:
+narrator,　,　
+__system__??,},}
+__system__??,{L1 = 412:,{L1 = 412:
+narrator,　,　
+__system__??,},}
+__system__??,{L1 = 413:,{L1 = 413:
+narrator,　,　
+__system__??,},}

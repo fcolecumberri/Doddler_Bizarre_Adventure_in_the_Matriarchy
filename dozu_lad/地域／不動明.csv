@@ -1,0 +1,1187 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆明 < 11:,{☆明 < 11:
+__system__??,},}
+__system__??,{☆明 = 11:,{☆明 = 11:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 2:,{麦 = 2:
+__system__??,{B忠誠心 > 70:,{B忠誠心 > 70:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 4:,{麦 = 4:
+__system__??,},}
+__system__??,{麦 = 5:,{麦 = 5:
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,},}
+__system__??,{麦 = 12:,{麦 = 12:
+__system__??,{H愛欲抵抗 <= H愛欲:,{H愛欲抵抗 <= H愛欲:
+__system__??,},}
+__system__??,{H愛欲 = 1:,{H愛欲 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+__system__??,{麦 = 17:,{麦 = 17:
+__system__??,{H拷問抵抗 < H拷問:,{H拷問抵抗 < H拷問:
+__system__??,},}
+__system__??,{H拷問 = 1:,{H拷問 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 18:,{麦 = 18:
+__system__??,},}
+__system__??,{麦 = 19:,{麦 = 19:
+__system__??,},}
+Yamamoto Akuji (talking),……お、来た来た。 メイ、元気でやってっか？,"...Hey, there you are. You doin` alright, Mei?"
+Fudou Mei (talking),"お陰様でな。
+で、オレに用だって聞いたんだけどよ。 何なんだ？","Yeah, thanks to you.
+ So, I heard you had business with me. What is it?"
+Yamamoto Akuji (talking),用ってほどでもねぇけどな。 どうよ、真面目に仕事やってっか？,"It`s nothing that big. So, you working hard?"
+Fudou Mei (talking),心配しなくったって、 喧嘩だったら慣れてるよ。,"You don`t hafta worry, I`m used to fighting."
+Yamamoto Akuji (talking),うちの仕事は喧嘩だけじゃねえぞ？ 説明しただろ。,Our work isn`t just fighting. Didn`t I explain it to ya?
+Fudou Mei (talking),"ああ……計算が苦手だから 集金はちょっと勘弁なんだけどさ。
+ただ、治安維持とかいうのは 大体解ってきたよ。","Yeah. I suck at math, so I`m not doing much collectin`.
+ But I more or less got the gist of keeping peace."
+Yamamoto Akuji (talking),ほー。,Ohoh.
+Fudou Mei (talking),"要するに、ガキやオッサンが喧嘩してたら 両方叩きのめして、よっぱらいはシバいて 家に連れてきゃいいんだろ？
+喧嘩と大差ないしさ、簡単なもんさ。","Basically, I gotta beat down anyone who starts fighting, and drag any sorry drunk back to their home, yeah?
+ Not that different from fightin`."
+Yamamoto Akuji (talking),……………………,...
+Fudou Mei (talking),……何だよ、その顔。 オレ何か間違ってたか？,...What`s with that face? Did I get get something wrong?
+Yamamoto Akuji (talking),………………いや、 おおむね間違ってないからいいけどな。,"...Nah, you got it mostly correct."
+Yamamoto Akuji (talking),よう。相変わらず元気そうだな、メイ。,"Yo, looking lively as always, Mei."
+Fudou Mei (talking),まあな。 で……またオレに用があるんだって？,"I guess. So, you got business with me again?"
+Yamamoto Akuji (talking),おう、その事なんだけどよ。 まあそこの椅子にでも座れや。,"Yeah, about that. Take a seat, will ya?"
+Fudou Mei (talking),ん……,Sure...
+Yamamoto Akuji (talking),"で、用件なんだがよ……
+ ……おっと、話の前だってのに 机の上に灰皿がねぇな。 ちょっと取ってくるわ。","About that business...
+ ...Oh, before that, the ashtray ain`t here. Wait here a sec, I`ll go get it."
+Fudou Mei (talking),別にオレ、灰皿なんか要らないぜ。,I don`t really need one.
+Yamamoto Akuji (talking),遠慮すんなよ、俺も付き合いで吸うし。,"C`mon, I`ll smoke with you."
+Fudou Mei (talking),ああ、あんたが使うなら勝手にしなよ。,"Well, if you`ll use it, then fine."
+Yamamoto Akuji (talking),勝手にっておめー、マジで吸わねぇ気か？,"What, you really not gonna smoke?"
+Fudou Mei (talking),ああ……言ってなかったんだっけ。 オレ、煙草に火つける事は 滅多にないからさ。,"Oh, I never told you? I almost never light up my cig."
+Yamamoto Akuji (talking),………………はぁ？ んじゃ何でいっつも口にくわえてんだ？,...Huuuh? Then why do you always have one in your mouth?
+Fudou Mei (talking),"何となく。 口元に何かあった方が落ち着くんだよ。
+一応ライターも持ってるからさ、 吸おうと思えばいつでも吸えるけど……
+まあ、三日に一本とか、 一週間に一本くらいかな。","Just because. It makes me relax have something in my mouth.
+ I do carry a lighter, so I can smoke if I ever feel like it.
+ I only smoke once or twice a week, though."
+Yamamoto Akuji (talking),なんじゃそりゃ。 中途半端な煙草吸いだなー……,"What the hell, so you`re some half-assed smoker..."
+Fudou Mei (talking),っせえなぁ…… あんたに迷惑かけてないだろ、 ほっといてくれ。,"Shuddup... It ain`t a bother to ya, so give it a rest."
+Yamamoto Akuji (talking),よう、来たかメイ。 まあそこに座れ。,"Oh, there you are. Take a seat over there."
+Fudou Mei (talking),"……………… あのさ、一つ訊いていいかな。
+オレ、あんたの役に立ってんだよな。","... Hey, can I ask ya somethin`?
+ I`m being helpful, right?"
+Yamamoto Akuji (talking),んー？　そりゃ立ってるぜ。 役立たず飼っとくほど 俺は暇人じゃないからなー。,"Hm? Yeah, you are. I ain`t generous enough to employ useless bums."
+Fudou Mei (talking),………………そうか。 なら、いいよ。,"...That so? Cool, then."
+Yamamoto Akuji (talking),……？,...?
+Yamamoto Akuji (talking),メイ、俺の部屋に行こうぜ。 そろそろヤりたくなってんだろ？,"We`re going to my room, Mei. You wanna do it soon, right?"
+Fudou Mei (talking),なっ……何言ってんだあんた……,Wha- What the hell?!
+Yamamoto Akuji (talking),何って、セックスしようぜって 言ってんだが。嫌か？,I`m inviting you for sex. Don`t wanna?
+Fudou Mei (talking),"っ……！　そんな事は解ってんだよっ！
+もうちょい言い方ってのがあんだろ！ こう、オブラートで包むような…… ……な、何て言うかさっ…………","...! Yeah, I know that!
+ It`s the way you say it! Like, try to be more roundabout... ...Wait, what am I saying?!"
+Yamamoto Akuji (talking),鬱陶しい言い回しは嫌いなんだよ。 とにかく、ＯＫなのか？　ＮＯなのか？,"I hate beating around the bush. Look, ya wanna do it or not?"
+Fudou Mei (talking),るっせぇな……！ ＯＫだなんて口に出して言えるかよっ！,Shuddup! Ya think I can just say “yes” out loud?!
+Yamamoto Akuji (talking),じゃ、口に出さなきゃＯＫなんだな？,Then what if ya don`t hafta say it?
+Fudou Mei (talking),………………………………………………,.........
+Yamamoto Akuji (talking),おめーってそういうトコは 変に素直だよなー。,You`re weirdly honest when it comes to this.
+Fudou Mei (talking),"……一応、言っとくがな…………
+お、オレは別に、あんたに惚れてる訳でも 何でもねえんだからなっ…………","...I-I`ll just say this...
+ I-I ain`t like I`m in love with you or anything, ya hear me?!"
+Yamamoto Akuji (talking),わざわざ言うことかよー。 んなもんとっくの昔にわあってるよ。,"You don`t have to say it, I already knew that ages ago."
+Fudou Mei (talking),"……………………
+知ったかぶりすんなよっ……","...
+ Don`t act like you know me!"
+Fudou Mei (talking),明は、悪司に抱かれた。,Mei was fucked by Akuji.
+ (talking),メイ。,Mei.
+narrator,悪司は明の名を呼んで、 自分の部屋がある方向を顎で指した。,"Calling Mei`s name, Akuji pointed towards his room with his chin."
+ (talking),先に行っとけや、俺もすぐ行く。,"Go on ahead, I`ll be right behind."
+ (talking),"………………
+あんたって、いつもそうなのか？ 自分本位で、身勝手で…………","...
+ Are you always like that? All self-centered and shit..."
+ (talking),どっちかって言うと、 おめーの心を読んでるつもりだがな。,"If I had to pick, it`s whatever is on your mind right now."
+ (talking),"………………
+卑怯なんだよ、あんたはっ……","...
+ You`re so unfair!"
+narrator,言いながらも、明は言われた通りに 悪司の部屋へと歩き始めた──,"Though she complained, Mei still obediently walked towards Akuji`s room..."
+cg narrator,"「っ、はあッ……！　あああああっ……！ 　うあァ……！！　ああっ、っく……ああっ！！」
+声を押し殺す事も、乱れる自分を繕うこともない。 ──明は、悦楽を感じている自分をさらけ出す。
+ 「ふ、あ……ああっ……！　はっ、はっ………… 　…………っ！！　ひうっ──あああッ……！！」
+髪を振り乱して、 自分の恥丘に取り付く悪司の顔を見る。
+ 　　［ちゅくちゅっ……ぴちゃ、くちゃ……］
+自分の秘裂で悪司の舌がどう動いているのか、 目では見えなくても、淫水と唾液が立てる音で おおよそ察しはついた。
+自分の中に、舌が潜り込んでくる。 潜り込んでは、すぐに出ていく──
+ （あ……遊んでんのかよっ…………！）
+十二分に感じさせながら、 しかし焦らせ続ける悪司に、明は苛立つ。
+もっと強く、もっと奥まで。 そう思うのに、悪司の舌は逃げていく。
+ 「う、ああっ…………！　も、もっ…………」
+もっと、と喉の奥まで出かかって、 明は慌ててその言葉を呑み込む。
+ （そ、んな…… 　そんな台詞、吐けるかよっ……！！）
+けれど、そう考えただけで屈辱だったし、 明にとっては信じられない事だった。
+ （どう……どうしちまったんだよっ………… 　どうなっちまったんだよ、オレはっ……！）
+情けなくて、惨めで、明の目に涙が浮かぶ。 眼前の景色が霞んでくる。
+身体中から這い上がってきて脳を焦がす悦楽に、 もう、何もかも解らなくなってくる──
+ 「お、おかしく……っあ！　うあああっ……！ 　おかしくなっちまうっ……！」
+明の理性は必死で抵抗しようとする。 不安を口にして、自分を保とうとする。
+ ──が。
+ 「……いいんだぜ、おかしくなっちまえ。 　我慢すんなよ…………」
+悪司が、ぼそりと呟いた。
+その呟きが、明の理性を瓦解させる。
+ 「うあああっ……！　ああっ、うあああっ……！ 　ひうっ、っ…………ああっ！　ッあ──！！」
+許してもらえた、許されていいのか、 とにかくもう我慢しなくていい──
+ 「ひう……っあ！　あああっ！　っハああっ！ 　ああっ、うああああっ！　ひうううっ！！」
+もう我慢しなくていい、我慢なんていらない、 こんなに気持ちいいのに──
+ 「ああっ、ッアあああああああああああああっ！！ 　はあッ、はあ……っ、う、ッあああっ！ 　ああっ、ああああっ……………………ッ！！！」
+なら、どうして今まで我慢していたのだろう。 理性を保とうとしていたのだろう──
+ 「もう……もうダメだっ、オレ………… 　うああっ、ひあああああっ……！！ 　あ────────ッ、うあああああっ！！」
+ ──怖かったから。
+いつもと違う、 いやらしい自分を見られたくないから。
+でも、許してくれたのだから、もう──
+ 「……いい乱れっぷりだな。 　そろそろ本チャン行くか？」
+秘裂の中にたくわえられた淫水を、 指と舌でくちゃくちゃと掻き回しながら 悪司はそう訊いた。
+秘裂を掻き回す──指。
+悦楽に浸りきった躰は、一切の緩衝を排して 秘裂の感触を明の脳へと直接運んでくる。
+ ──明の脳が、掻き回される。
+理性と情欲が頭の中で渦を巻き、混ざり合い、 明は明でなくなっていく──
+ 「…………………… 　早く、来て……………………」
+こぼれ出た、その言葉。
+明にとって、求めたのは躰だけではなく──
+ 「……よーし、可愛らしいおねだりだ。 　行くぜ、メイ…………」
+ 「…………っ、う………………ッ！！ 　ふああああっ！！　うあやはあああああっ！！ 　あ──────────────っ…………！」","「Haaaahn! aaaaaaahn! 　nhaaahn! khh, aaaaaaaaahn!」
+ Unable to even hold back her voice, Mei surrendered herself to the pleasure.
+ 「Fwaaaaaahn! haaah, aaahn! 　...! HYAAAAAAHN!」
+ Her hair disheveled, Mei looked at Akuji`s face, which was buried in her crotch.
+ 　　*Shhhhrrrrllllp* *Shllllck* *Shhhrrrllp*
+ Even without looking at him, she could tell how Akuji was moving his tongue over her pussy from the sound alone.
+ His tongue went inside her, then quickly backed out--
+ （I-Is he fooling around...?!）
+ Growing impatient over the twelve minutes of Akuji`s foreplay, Mei became irritated.
+ Harder. Deeper. That is what she wished for, but Akuji`s tongue would not comply.
+ 「Hngh, aaaaaahn! M-Mo...!」
+ More, she was about to say before she hurriedly swallowed that word.
+ （N-No way I can... 　say that shit...!）
+ But even thinking about it was humiliating, and to Mei, completely unbelievable.
+ （Wh-What`s happened...? 　What the hell`s happaned to me?!）
+ Tears welled up in Mei`s eyes. Her vision grew blurry.
+ She could no longer understand the pleasure coursing through her body and assaulting her brain.
+ 「I-I`m... haaaaaahn! 　I`m getting all weird...!」
+ Mei`s reason desperately struggled, giving voice to her unease so that she may remain sane.
+ However--
+ 「...That`s fine, go and become weird. 　Don`t hold yourself back...」
+ Akuji softly whispered.
+ That whisper shattered Mei`s reason.
+ 「AAAAAAAAHN! aaahn, aaaaaaahn! 　Hyuuuuuh! ahn, ahn... aaaaaahn!」
+ “Did I get permission? Should I? Either way, I don`t have to hold it back...”
+ 「HYAAAAAHN! AAAAAAAHN! 　haaaahn! waaaah, hyuuuuuh!」
+ “I don`t have to hold myself back, and it feels so good...”
+ 「AAAAAAAAAAAAAAAAAAAAAHN!!! 　Haaah! haaah! aaaaaahn! 　AAAAAAAAHN!!!」
+ “So why WAS I holding myself back?” --That`s what Mei kept asking herself.
+ 「I-I can`t...! 　aaaahn! hyaaaaaaaaahn! 　ah... AAAAAAAAAAAAAHN!!!!」
+ --She was afraid.
+ She didn`t want to see her dirty self, which was so different from her usual self.
+ But since she was “given permission”--
+ 「...Those are some nice reactions. 　Should we start the real deal?」
+ Akuji asked as he stirred up the lewd juices in Mei`s pussy with his tongue and fingers.
+ His fingers dug through her pussy.
+ Mei`s brain took the full brunt of the pleasure invading her body.
+ Her own brain was being stirred up.
+ Her reason and lust mixed together in her brain, and Mei slowly lost her sense of self...
+ 「... 　Hurry... do it...」
+ Her words spilled out.
+ It wasn`t only Mei`s body that wanted it--
+ 「Nice, that`s a cute way to ask. 　Here we go, Mei...」
+ 「...! HNNNNGH...! 　HYAAAAAAAAAAAAAAHN!!! 　AAAAAAAAAAAAAAAAAAAAAAAAHN!!!」"
+cg narrator,"苛立ち、嫉妬し、だが憧れ、 自分もこんな風に強くありたいと夢想する。
+それらが縒り合わさって──淡い恋慕になる。
+それが、明にとっての悪司の存在。
+けれど、明がそんな自分の本心に気付く事は、 まず有り得ないだろう。
+明が、悪司を求めている自分を自覚できるのは、 悦楽に呑まれて、自我を失ったこの時だけだから。","She was annoyed by and jealous of Akuji, but Mei also adored him, wishing to be as strong.
+ Those feelings entwined, becoming a faint love.
+ That`s what Akuji was to Mei.
+ But Mei herself would never be able to notice that.
+ For she only realized how much she sought Akuji whenever she lost herself in pleasure."
+ (talking),ほれ、小遣いだ。 好きに使えや。,"Here, some pocket money. Do as you like with it."
+narrator,悪司は、札束の入った封筒を明に手渡した。,Akuji gave Mei an envelope full of cash.
+ (talking),お、おい…… いいのかよ、こんなに。,H-Hey... You fine with this?
+ (talking),ダメならハナっから渡さねぇよ。,Wouldn`t have given it otherwise.
+ (talking),……………… あ、ありがとう……な。,... Th-Thanks.
+ (talking),おお、おめーでも 人にお礼が言えたんだな。,"Hohoh, so even you know how to thank someone."
+ (talking),………………,...
+ (talking),……一言多かったか、わりぃ。,"...My bad, I said too much."
+ (talking),……まあとりあえず、茶でも飲め。 今日の話は長くなるからよ。,"...Well, have some tea for now. We have a long talk ahead of us."
+ (talking),ああ、じゃ遠慮なく。,"Sure, then."
+ (talking),"………………
+んー…… じろじろじろじろ……","...
+ Hmm... Staaaaaare..."
+ (talking),……何じろじろ見てんだよ。 人が茶飲んでるのがそんなに面白いのか？,What`re you starin` at? Ya like watchin` people drink tea?
+ (talking),"うーむ、上玉なのは上玉なんだよなー。 問題なのは性格なんだが……
+ちいっと難しいかもしれねぇが、 ま、タマネギなら何とかしてくれっかな。","Hmm, you ARE a hottie, but that attitude`s an issue...
+ Well, I`m sure Tamanegi can work around that anyway."
+ (talking),……何の事だよ。,...What are you talking about?
+ (talking),いや、おめーを 娼婦にしようかと思ってな。,"Y`see, I was thinking `bout turning you into a prostitute."
+ (talking),なっ………！？,Wha-?!
+ (talking),娼婦だって立派な俺の部下だしな、 そっちで役に立って欲しいと 思うんだがよ。,"Hey, it`s an important job for us, and I want you to do it."
+ (talking),……あんた、本気で言ってんのか。,...Are you serious?
+ (talking),俺ぁ冗談は得意な方だけどな、 この話はマジだぜ。,"I like a good joke, but yeah, this time I`m serious."
+ (talking),"………………
+所詮、極道は極道って事かよ。 この人間のクズがっ……","...
+ So a yakuza`s still a yakuza in the end... You piece of shit!"
+ (talking),"おう、褒めてくれてあんがとさん。
+しかしまあ、口悪いよな、おめー。 そんなんじゃいい娼婦になれんぞー？","Thanks for the compliment.
+ But damn, you swear a lot. Not good for your new job."
+ (talking),誰がなるかよっ、ふざけんなっ！,"I ain`t doing it, fucker!!"
+ (talking),ま、ヤだって言っても 無理矢理にでも仕立て上げるけどな。 うちの調教師どもは優秀だし。,"Well, like it or not, we`ll make you do it. Our trainers are real good."
+ (talking),"……その調教師どもの所に行くまで、 ここで暴れて暴れて暴れまくってやるよ。
+あんたが、オレを物扱いした事を 後悔するくらいにはな……！","...Imma wreck shit up all the way until their place.
+ Enough to make you regret treatin` me like a thing!"
+ (talking),"やれやれ、そうくると思ったぜ。
+やっぱ茶に一服盛っといて正解だったな。 ぼちぼち効いてくるとは思うが……","Oh well, I knew this`d happen.
+ I knew spiking your tea was a good idea. Should be about to work, too."
+ (talking),"なっ！？ 何だって……っ…………
+ …………ぅ、く……………………………… ち……ちく、しょ………………
+ ………………","What?! What did you-?!
+ ...Kh...!
+ ... F-Fuck...
+ ..."
+narrator,"明が、静かに倒れる。
+いつも明が連れている仔猫は、 飼い主に何が起きたのか解らず、 呼びかけるように耳元で鳴き続けたが──
+ ──明が、閉じた目を開けることはなかった。","Mei collapsed in silence.
+ Unable to understand what`d happened to their owner, Mei`s cats mewled next to her ears, as if calling her. However...
+ ...Mei would not wake up."
+ (talking),悪いな、メイ。 ま、これも仕事なんでな。,"Sorry, Mei. Well, it`s all part of the job."
+ (thinking),……いや、やめとこう。 こいつに客商売できるわきゃねえ。,"...Nah, let`s not. Selling her to customers is a bad idea."
+Yamamoto Akuji (talking),おう、来たな。 正体不明のツッパリ娘。,"So you`re here, delinquent missy I`ve never seen before."
+Fudou Mei (talking),………………,...
+Yamamoto Akuji (talking),"ちょいとよ、おめーの戸籍とか 住所録とか調べてみたんだがな。
+えーと、名前は不動明（ふどう　めい） で間違いねえよな？","I did look into you some. Your name, address and such.
+ So you`re Fudou Mei, yeah?"
+Fudou Mei (talking),＜仔猫＞ 　……ふうううううっ……！,Hssss! Hsssssss!
+Yamamoto Akuji (talking),……何を毛ぇ逆立ててんだクソ猫。 お呼びじゃねぇんだ、黙ってな。,"...Who`re you hissing at, you shitty cat? Shut your trap."
+narrator,"若干の殺気を込めて、悪司は仔猫を睨み付けた。
+仔猫はそれだけで怯えて、背を丸める。","Akuji glared at the cat with some malice.
+ That was enough to make the cat cower."
+Yamamoto Akuji (talking),"やれやれ、根性のねぇ猫だ。
+おめーもどうせ飼うなら もっとマシなのにしろよ、なあ。","Talk about a pussycat.
+ And you, you should raise it better if you`re gonna keep it."
+Fudou Mei (talking),………………,...
+Yamamoto Akuji (talking),"しっかしおめーよ、 人が話しかけてんだから 少しはこっちの方を向いたらどうだ？
+いくらツッパってるって言っても、 そのくれぇの愛想は欲しいぜ。","Hey, I`m talking to you here. Look at me, would ya?
+ I may look tough, but I`m a sensitive guy, you know."
+Fudou Mei (talking),………………,...
+Yamamoto Akuji (talking),"……やれやれ。
+せっかく目鼻整ってんのによ、 そんなにツーンとしてたら勿体ねぇぞ？ ちょっとくらい笑ってみせろや。","...Fuck`s sake.
+ You`re wasting your good looks if you stay clammed up like that. Go on, try cracking a smile."
+narrator,"そう言うと、明の口元に笑みが浮かんだ。
+ ──悪司を馬鹿にしきった、嘲りの笑み。","The edges of Mei`s lips curled up into a smile.
+ ...She was clearly scoffing at Akuji."
+Yamamoto Akuji (talking),"………………は。そう来たか。
+まあいい、こっちの声は聞こえてる訳だ。 次はせめて何か喋れや、な？","...Hoh, so that`s how it is.
+ Whatever, it means you`re listening. Now, try talking."
+narrator,明は、口にくわえていた煙草をプッと吐き捨てた。,Mei spat out the cigarette in her mouth.
+Yamamoto Akuji (talking),…………お。 そうそう、いいぜいいぜ。 煙草くわえてちゃ喋れな────,"...Ohh. Good, very good. Can`t talk properly if you`re smoking-"
+narrator,　　［……びちゃっ］,*Splt*
+Yamamoto Akuji (talking),"……………………
+ ……なるほどな、煙草を吐き捨てたのは 俺の顔に唾吐きかけるためってか？","...
+ ...So you did that to get some spit on my face, eh?"
+Fudou Mei (talking),………………へっ。,...Heh!
+narrator,"明が、初めて悪司の目を見た。 目を見て、へらりと笑う。
+ ──その転瞬、明の頬へ向かって いきなり悪司の拳が飛んだ。","Mei finally looked Akuji in the eyes, then laughed.
+ At that instant, Akuji`s fist flew towards Mei`s cheek."
+Fudou Mei (talking),…………！,...!
+narrator,　　［ごっ……！！］,*Bam!*
+narrator,　　［……ずだんっ！！］,*Thwp!*
+Yamamoto Akuji (talking),……あんまり調子に乗んなよ、 ツッパリねーちゃん。 殺すぞ。,"Don`t get too carried away, missy. I`ll fucking kill you"
+narrator,悪司は言いながら、 床に倒れた明の胸ぐらを掴んで無理矢理立たせる。,Akuji grabbed Mei by her collar as he said that and forced her to stand back up.
+Yamamoto Akuji (talking),……おお、わりぃわりぃ。 綺麗な顔がちと歪んだな。,"...Oops, my bad. Your pretty little face`s swollen now."
+Fudou Mei (talking),こ、の……このくされ極道っ…… よくもオレの顔を……！,Y-You fucking bastard! How dare you hurt m-
+Yamamoto Akuji (talking),"おー、やっとまともに喋ったな。 手間のかかるヤツだぜ。
+しっかし、一発シバかねぇと コミュニケーションもできねえのかよ。 脳味噌動物並みだろ、おめー。","Nice, you`re finally talking. You`re a real handful.
+ Still, you won`t talk until I hit you? Your brain`s wired like an animal`s."
+Fudou Mei (talking),この極道がっ、ブッ殺してやる……！,"I`ll fucking kill you, you scumbag!"
+Yamamoto Akuji (talking),威勢だけは十人前か。 やれるもんならやってみろよ、そら。,"You got spunk, at least. Go on, try if you`re so confident."
+narrator,"悪司は、明の胸ぐらを掴む腕に 少しだけ捻りを入れた。
+ ──たったそれだけなのに、 明はもう、ろくに身動きできなかった。","Akuji twisted the arm he was using to grab Mei a little.
+ That was enough to keep Mei from moving as she wanted."
+Fudou Mei (talking),な……？　ち、畜生っ…… てめぇ、オレに何しやがった……！？,Wha-? F-Fuck...! Wh-What did you do to me?!
+Yamamoto Akuji (talking),さあな。,Who knows.
+Fudou Mei (talking),く……クソがっ…………！ 放せっ、放せこの野郎ッ……,"Shit...! Let me go, you asshole!"
+Yamamoto Akuji (talking),"実力差を思い知らせても まだかみつこうってのか……
+動物並みっつったの、訂正しとくか。 動物以下だわ、おめーは。","Still talking back even after I showed you how much stronger I am?
+ I said you`re like an animal, but I was wrong. You`re dumber than one."
+Fudou Mei (talking),……っ、こ、このっ……… 余裕かましたツラしやがって……！ ムカつくんだよ、そのにやけ面っ……,"Y-You...! That face of yours pisses me off, all confident-like...!"
+Yamamoto Akuji (talking),"ん？　……ああ、わりぃな。 ちょいと楽しくなっちまってよ。
+俺はよ、 おめーみたいに元気なヤツは 嫌いじゃないんでね。","Hm? ...Oh, my bad. I was starting to have some fun.
+ I don`t hate  lively people like you, ya know."
+Fudou Mei (talking),ざけんなっ……！,Don`t fuck with me!
+Yamamoto Akuji (talking),………………へっ。,...Heh.
+Yamamoto Akuji (talking),よお、メイ。 今日も元気そうだな。,"Yo, Mei. Looking lively as ever."
+Fudou Mei (talking),……名前で呼ぶなよ、気色悪い。 オレはあんたの妹やガキじゃないんだ。,"Don`t call me by my name. I ain`t your friend, or a kid."
+Yamamoto Akuji (talking),俺にとっちゃガキンチョだぜ。 イキがったフリしてるだけのメスガキだ。,Ya look like a brat to me. A slutty brat that`s trying to look cool.
+Fudou Mei (talking),……ぬかしてな。 人間の道踏み外してる極道よりゃ なんぼかマシさ。,...Shut the fuck up. I`m way above some piece of shit yakuza like you.
+Yamamoto Akuji (talking),カタギから弾かれただけの不良が ハンパな自己弁護すんなよ。 すんげぇカッコわるいぞー。,"You`re some punk rejected by society, quit with the excuses. It`s fucking lame."
+Fudou Mei (talking),…………… 好き放題ぬかしやがって……,...You just keep running your mouth...
+Yamamoto Akuji (talking),…………ふふん。,Heheh.
+Yamamoto Akuji (talking),"よお、ちと訊きたいんだがな。
+何でおめー、桃山の連中と組んで 俺の組織に喧嘩売ってきたんだ？","Hey, lemme ask you something.
+ Why`d you join up with the PM and pick a fight with my group?"
+Fudou Mei (talking),……勝手に組ませんなよ。 何でオレがあんなマフィアと……,...Don`t lump me in with them. Why would I ever join that mafia?
+Yamamoto Akuji (talking),んだっておめー、 桃山の連中と一緒に喧嘩売ってきたのは 事実じゃねぇか。,But isn`t it true that you picked a fight with my group together with them?
+Fudou Mei (talking),"別にオレは、あんたらと一緒に 桃山へ喧嘩売っても良かったんだぜ。
+理由なんかないさ、単に気分だよ。 面白そうな喧嘩だったから 首つっこんでみた、それだけさ。","I wouldn`t have cared about joinin` you to fight them, either.
+ I don`t have a reason, I just wanted to. I jumped in cuz I thought it`d be fun, is all."
+Yamamoto Akuji (talking),一匹狼、ってヤツか？,You a lone wolf or somethin`?
+Fudou Mei (talking),カッコ悪い例え使うよな、あんたも。 一人の方が何かと動きやすいだけさ。,"You`re pretty lame yourself, huh? I just find being alone to be easier."
+Yamamoto Akuji (talking),ふーん。,Hmmmm.
+Fudou Mei (talking),……何が言いたいんだよ。,...What is it?
+Yamamoto Akuji (talking),"いや、一匹狼を気取ってるヤツってのは、 大抵は信じてた誰かに裏切られたのが きっかけだったりするんだが……
+おめーもそのクチかな、とか思ってよ。","Nah, kids who pretend to be lone wolves usually are like that cuz they got betrayed by someone...
+ And I thought you were that way."
+Fudou Mei (talking),………………,...
+Yamamoto Akuji (talking),お、顔色変わったな。 当たりか？,"Oh, your face`s changed. Was I right on the money?"
+Fudou Mei (talking),……別に。,...Not really.
+Yamamoto Akuji (talking),何が不満でツッパってんだ、おめー。 話せるもんなら話してみな、ほれほれ。,"What`s eating you, kid? Go on, you can tell me."
+Fudou Mei (talking),……何を野次馬根性出してんだよ。 オレの身の上話聞いてどうするってんだ？,...What`re you so curious for? Why do you wanna hear my life story?
+Yamamoto Akuji (talking),そりゃおめー、将来のボスとしては 部下の事情くらい知っとくべきだろ？,"Well, as your future boss, I should be aware of your circumstances."
+Fudou Mei (talking),…………はぁ？,...Haaah?
+Yamamoto Akuji (talking),"そこそこ戦えるみてぇだからな、おめー。 うちにスカウトしようと思ってよ。
+俺の部下になれよ、メイ。 悪いようにはしねぇさ。","You seem good in a fight, so I figured I`d scout you.
+ Work for me, Mei. I`ll do good by you."
+Fudou Mei (talking),嫌だね。,No way.
+Yamamoto Akuji (talking),……即答すんなよ。 少しくらい考えてもいいんだぜ？,"...Don`t be so quick to answer. Give it some thought, why don`tcha."
+Fudou Mei (talking),"考えるほどの事かよ……
+はっきり言っとくけどな、オレは、 誰かとツルむのも、人の道踏み外してる 極道の手助けすんのも……
+ましてや、あんたみたいな クソバカ猿野郎にコキ使われるのも ごめんだね。","Don`t need to...
+ Lemme make this clear, I ain`t about to hang with and help out some scumbag yakuza...
+ ...Much less be pushed around by some fucking retarded gorilla like you."
+Yamamoto Akuji (talking),……ま、そう来ると思ったがな。,"...Yeah, knew this`d happen."
+Yamamoto Akuji (talking),……先に言っとくけどな、 俺はおめーみたいなヤツは 嫌いじゃねぇんだよ。,"...Like I`ve said before, I don`t hate lively people like you."
+Fudou Mei (talking),……はぁ？ 何言ってんだ、あんた。,...Huh? The fuck are you talking about?
+Yamamoto Akuji (talking),"人間、ちょいツッパってるくれぇが 丁度いいんだよ。
+昔の俺だっておめーと同じような モンだったしなー。 喧嘩上等、誰にも負けねぇ、ってよ。","I think it`s good when people act tough a little.
+ I used to be a lot like you. Taking on every fight, never backing down, all that."
+Fudou Mei (talking),クソ極道のあんたと一緒にされちゃ いい迷惑だ。,I don`t wanna be compared to some fucking lowlife like you.
+Yamamoto Akuji (talking),ただまあ、もうちょいアレだ、 女らしいところも見てみてぇがな。,"Thing is, I wanna see a bit more of your feminine side."
+Fudou Mei (talking),はっ、笑わせんな。 オレに何期待してんだよ、クソ極道。,"Hah, good joke. What do you even expect out of me, scumbag?"
+Yamamoto Akuji (talking),"出るとこ出て、 ひっこむとこひっこんでんだろ？ ……ま、見りゃ解るけどよ。
+おめーの場合、自分の女の部分に 気付いてねぇだけだと思うぞ？","If it`s there, it`ll show up eventually. ...Well, you`ll understand when it happens.
+ I think you`re just not aware of your feminine traits."
+Fudou Mei (talking),"……何が言いたいんだよ。 オレに気色悪い女言葉でも 使えってのか？
+だとしたら、大きなお世話だ。 あんたに言われる筋合いがあるのか？","...What`s your point? You want me to start talking all girly-like? I`m gonna puke.
+ Blow it out your ass. Why should I even listen to you?"
+Yamamoto Akuji (talking),"俺は別に女言葉が女らしいなんて さらさら思っちゃいねーよ。
+ ……ま、いいから ちょっとついて来いや。","I don`t really care about you acting girly, no.
+ ...Whatever, just come with me for a bit."
+Fudou Mei (talking),お……おい、 どこに行こうってんだ？,"H-Hey, where are you taking me?"
+Yamamoto Akuji (talking),さてな、どこだかなー。,I sure wonder.
+Fudou Mei (talking),……………… 何か考えてやがるな……,... You`re thinking of something...
+Yamamoto Akuji (talking),"そりゃ考えてるぜ。 あったりまえの事言うなよ。
+いいからほれ、さっさと来いや。 それとも怖じ気づいて動けねぇってか？","Well duh, I`m always thinking.
+ Whatever, hurry up. Or are you too scared to move?"
+Fudou Mei (talking),……ちっ、バカにしやがって……,"...Tch, don`t mess with me."
+narrator,明は呟いて、悪司の方に一歩踏み出した。,"Mei mumbled, then stepped towards Akuji."
+Yamamoto Akuji (thinking),へっ、ちょっと挑発したら すぐに乗ってきやがった。 若いねー。,"Heh, all it took was a little challenge to make her obey. So naive."
+cg narrator,"「……で、その若さが命取りになる、と」
+悪司は呟いて、明の秘裂にスッと舌を滑らせた。
+「ひっ、っうッ────！！ 　うああっ、ふあやあっ………………！！」
+明の躰がびくっ、びくっと面白いように跳ね、 ベッドがぎしぎしと激しく鳴る。
+「う、あ……！　うああっ、っひ…………！！」
+ほんの一度、ほんの一瞬舐めただけだというのに、 明の喘ぎ声はひどく長く後を引いた。
+「いい感じ方してんじゃねぇか…… 　それほどセックス慣れしてねぇと見たぜ」
+顔や足、そして腹部──悪司の目に映る明の肌が、 余韻でいつまでも痙攣している。
+「ま、こりゃちょっと……暴れすぎって気もするが」
+悪司は力尽くで明の躰を抑え込み、 巧みに口技と愛撫を続けていく。
+行為が始まる前、すでに悪司は明の腕を縛り付け、 今のように無理な姿勢を強いていた。
+これで、完全に自由を奪っていたはずなのに、 明の躰が元々敏感なせいなのか、 ただ愛撫するだけでひどく手こずっている。
+「ったく、これじゃいつになったら 　おめーの中に突っ込めるんだか解んねぇな……」
+文句のように言うが、悪司は内心、 明の敏感な躰を弄ぶこの時を楽しんでいた。
+（めんどくせえのはめんどくせえが、 　こーいうヤツほど、 　こましてオトすのが面白いんだよな……）
+舌先で濡れそぼった秘裂を舐め、くじり、 花芯の包皮を剥いて敏感な部分を責め立てる。
+「──うはあッ…………！ 　ひうっ、っ…………！　うハああああっ！！ 　はっ、っうううッ！！　っく……ああああっ！」
+「へっ、おめーもいい声出せるんじゃねぇか。 　女っぽくてイロっぽくていい感じだぜ？」
+「……っ、ふ、ざっ………… 　…………ふざ…………けん、なよっ……！」
+「へっ、半分裏返った声で吐いた不良言葉なんざ 　さっぱり凄みがねぇな、えっちくさいだけだぜ」
+悪司は鼻で笑って、さらに舌を伸ばす。 伸ばした舌を明の膣口に差し入れて掻き回す。
+　　［くちゃくっ、ちゅくっ、ぬっ……］
+「ひやあああっ！！　はっ、うああああっ……！ 　あああっ、ああああっ…………うアああっ！ 　ひうううっ……うハあっ…………あッ！」
+明の声が、より高くなる。
+ないまぜになった嫌悪と悦楽が四肢を満たし、 狂ったようにがくがくと震え続ける。
+「へっ、ぼちぼちイッちまいそうだな。 　遠慮すんなよ、イクだけイッちまえ」
+「や、やめ……やめろっ、畜生────っひ！？ 　うあああっ、うああああああっ……………！！」
+明の視界が、暗転する。
+その闇はすぐに白く染まり、 弾ける寸前まで膨れ上がった風船のように 明の脳裏を圧し始める。
+「…………も、う…………！ 　………………っ、あ！！　っ──────」
+そういう、絶頂への前兆に抗う事ができず、 明が絶望しながら身を任せようとした時だった。
+　　［…………にゃああ…………］
+──不意に、悪司と明のすぐそばで猫が鳴いた。
+「ん……？ 　飼い主の異常に気付いたか？」
+悪司が、 ベッドの傍らに置いたみかん箱に目を落とす。
+箱の中に居るのは、明の仔猫だ。
+そこでは、明の仔猫が 箱の外に出ようと懸命に動き回っていたが──
+「今更目ぇ覚ましても遅いっつーに。 　与えてやったマタタビ食って寝てろよ……」
+箱の中の猫は、立ち上がろうとしては座り、 外へ出ようとジャンプしては転ぶ事を 繰り返している。
+結局は、マタタビに酔った脚が言う事をきかず、 仔猫は箱の側面にカリカリと爪を立てるのが 精一杯だった。
+「主人思いの猫だが、ムダな努力だな~。 　心配すんな、今おめーが来たって 　何の役にも立たねぇぞ~」
+──いや、全く役に立たない訳ではなかった。
+「…………っ、この……！！」
+悦楽に負けそうになっていた明の目に、 わずかながら意志の光が戻ってくる。
+「は、なせ…………放せ、畜生がっ……！ 　てめぇ、絶対……ブッ殺してやるっ……！！」
+「……ん？　何だよ、元気振り絞って。 　猫の声聞いてちょいと醒めたか？ 　それとも猫にてめーの痴態見せたくねえか？」
+「るっせえっ……この、ドスケベ野郎っ……！」
+「無駄なことすんなよ、せっかくイきかけたのに。 　変に我慢すると後が辛くなるぜ……？」
+そして悪司は、再度、 明の秘裂に舌先を潜り込ませる。
+　　［くちゃっ、ちゃくっ、にゅちっ……］
+「──────っ！！ 　う、あ……ああっ、ひああああああああっ！ 　うああっ……………………！！」
+　　［じゅ、じゅるっ……ずっ……］
+「や、やめ…………っ、うあああっ…………！ 　やめろ、やめろおおっ…………！！」
+明は必死で抵抗したが、所詮声だけだ。 悪司は聞こえない振りを貫いて、口技に没頭する。
+──いや、悪司が何かを囁いた。 明の秘裂に唇を押しつけたままで──
+「……ヘタに我慢すると、イク時の衝撃が 　倍になるんだがな、知ってるか？ 　まあ、今から教えてやるけどな…………」
+そして、悪司がにやりと笑う。 今の勝利を──明の悦楽を支配した確信で。
+「う、あああっ………………！！ 　ひあああっ、うハああああっ…………！！ 　──────っ………………あ…………！！」","...And that naivety can be fatal.
+ Mumbling that, Akuji traced his tongue over Mei`s pussy.
+ H-Hyaauhhhh! Waaaah! fwaaaaahn!
+ Mei`s body bucked comically, making the bed squeak repeatedly.
+ Nh, ahn!　 waaaaahn! hyaaah!
+ Even the smallest lick was enough to draw a loud moan out of Mei.
+ You`re real sensitive. You must not be used to sex at all.
+ Her face, her legs, her stomach- every part of Mei`s body trembled.
+ Still... I guess I did go a little far.
+ Akuji forcefully pinned Mei down and skillfully used his mouth and hands to please her.
+ Before he began, he`d tied Mei`s arms up and forced her into this awkward position.
+ With that, she could barely move, and perhaps owing to her body`s sensitivity, even a simple caress was too much for her.
+ Fuck, if you`re like this, then I won`t know when I`ll be able to put it in...
+ So he complained, but deep inside, Akuji was enjoying teasing Mei.
+ (It might be a pain in the ass in some ways, but dicking someone like her into submission is pretty fun...)
+ Akuji licked Mei`s wet pussy, then began teasing her sensitive clitoris.
+ Haaaaauuuuh!  Hyaaah! ahn! hwaaaaaaah! h-haaaaaahn! kh, aaaaahn!
+ Nice moans. Sexy AND womanly.
+ D-Don`t... fuck... with me...!
+ Hah! Trying to threathen me in that wimpy voice is more sexy than intimidating.
+ Akuji scoffed, then resumed his licking.  His tongue went inside Mei`s pussy.
+ *Schlp, schlp, schlp*
+ Hyaaaaaahn! H-Hauuuuugh! aaaaaaahn! aaaahn! waaaaaaahn! Hyaaaaah!
+ Mei`s voice became even more shrill.
+ Her whole body felt a mix of disgust and pleasure,  and repeatedly trembled.
+ Heh, looks like you want to cum.  Go on, cum as hard as you want.
+ S-Stop... stop, you fucker! Hyah?! waaaaahn, aaaaaaaaahn!
+ Mei`s vision blacked out.
+ Her mind became white, and the feeling in her chest swole up to its bursting point.
+ ...I... can`t...! AAAAAHN...!
+ Unable to resist her impending climax, Mei was filled with despair. That`s when-
+ *Meoooooow*
+ Suddenly, a cat meowed next to Akuji and Mei.
+ Hm...? Did it fee its owner acting up?
+ Akuji looked at the box he`d placed next to the bed.
+ Mei`s kitten was in there.
+ The kitten was frantically moving around, trying to get out of the box.
+ You woke up too late. Just eat the silver vine I gave you and go back to sleep.
+ The kitten repeatedly tried to jump out of the box, only to fall back inside. As it was too intoxicated with silver vine,
+ all the kitten could so was scratch the inside of the box with all it had.
+ It`s cute that you care for your owner, but you`re wasting your energy. Don`t worry, you butting in won`t do a damn thing.
+ Akuji was not entirely correct.
+ ...! You...!
+ Before she lost to the pleasure, Mei`s eyes faintly lit up with willpower again.
+ Let... me go... let me go, dammit...! I`m gonna.. fucking kill you...!
+ ...Huh? What, you regain your spirit after hearing your cat? Or do you not want it to see you like this?
+ 「Shut up... you fucking pervert...!
+ Don`t push yourself, you were about to cum, too. You`re gonna regret it if you hold it in.
+ Akuji once again pushed his tongue inside Mei`s pussy.
+ *Schlp, schlp, schlp*
+ ...! hyaaaaaaaaahn! waaaaaaaaahn!
+ *Slrp, slrrrrrp*
+ S-Stop...! aaaaahn! Stop, STOOOOOOP!
+ Mei desperately tried to resist, but it was for naught. Akuji ignored her and focused on his tongue.
+ ...No, Akuji did not fully ignore her. With his lips on her pussy-
+ ...Did you know that holding it in only makes it more intense when you cum? If you don`t, I`ll show you right now...
+ Akuji smirked. He was certain that he`d controlled Mei`s pleasure - that he`d won.
+ A-Aaaaaaahn! hyaaaaaaahn! waaaaaaaahn! ...AAAAAAAAHN...!"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+cg narrator,"結局、明は悪司の唇と舌だけで 絶頂に押し上げられた。
+全身が脱力し、意識が白く霞んで──
+──そこから更に、追い打ちをかけるように 悪司は明の躰に覆い被さっていく。
+もはや、明の口から出てくるのは、 哀れなほどか細い喘ぎ声だけだった。","In the end, Akuji`s tongue and lips were enough to make Mei climax.
+ Her body lost its strength, and her mind went blank.
+ ...Then, as if to finish her off, Akuji laid on top of Mei.
+ From then on, her voice was nothing but the sweetest of moans."
+Yamamoto Akuji (talking),"ひいふう……えーと、抜かずの五発か。 ま、こんなもんだろ、最初だし。
+ ……ほれ、おめーの猫、返してやるよ。 何なら着替えも手伝ってやろうか？","Phew... That`s 5 rounds without pulling out. Well, it is your first time.
+ ...Here`s your cat back.  Want me to help you get dressed, too?"
+Fudou Mei (talking),う…………あ、っく…………,"Ugh... ahh, ack..."
+Yamamoto Akuji (talking),"声も出ねぇか。
+な、俺の言った通りだったろ。 自分の中の女らしい部分、解ったか？","Can`t even talk, huh.
+ Well, it`s like I said. Get a glimpse of your femininity yet?"
+Fudou Mei (talking),………………この…… この、ドスケベ……野郎っ…………,You... fucking... pervert...!
+Yamamoto Akuji (talking),俺だけドスケベみたいな言い方すんなよ。 おめーも同じじゃねぇか。 気持ちよさそーな顔してたぜ？,"Hey, I`m not the only pervert here. You`re one too. You seemed to be relly into it."
+Fudou Mei (talking),…………一緒に……すんなよっ……！,...Don`t... lump me with you...!
+narrator,"明はベットから立ち上がろうとした。 悪司に掴みかかるつもりなのだろう。
+ ──が、足が立たない。 立ち上がろうとした勢いのまま転んでしまった。","Mei tried to get out of bed, likely trying to grab Akuji.
+ However, she couldn`t stand, and simply fell back on the bed."
+Fudou Mei (talking),…………っ、うく…………！,...Kh...!
+Yamamoto Akuji (talking),ムリすんなよー。 疲れと、強烈にイッた後の怠さのせいで しばらくは躰が言う事聞かねぇって。,"Don`t push yourself. You came real hard, so you won`t be able to move for a while."
+narrator,悪司は明に近付いていって、 その躰をひょいと腕に抱え上げた。,Akuji approached Mei and picked her up in his arms.
+Fudou Mei (talking),な……！　何……すんだよっ…………,Wha-?! What... are you doing...?!
+Yamamoto Akuji (talking),地下室まで連れて帰ってやるよ。,I`m taking you back to your cell.
+Fudou Mei (talking),や、やめろっ…… こんな……クソ恥ずかしい格好っ……,S-Stop...! I can`t go back looking like this!
+Yamamoto Akuji (talking),何だよ、お姫様だっこがそんなに嫌いか？,"What, you not into a princess carry?"
+Fudou Mei (talking),き、嫌いとか……好きとか…… そういうんじゃねえだろっ……！,Whether I like it or not... isn`t the issue here!
+Yamamoto Akuji (talking),いいから黙ってろ。 捕虜の分際でごちゃごちゃ言うなって。,"Whatever, just shut up. You talk too much for a prisoner."
+Fudou Mei (talking),"………………っ…… この……畜生がっ………………
+いつか、絶対…… この借りは返してやるっ……！","...! Fuck... you...!
+ One day, I`ll definitely get back at you for this...!"
+Yamamoto Akuji (talking),諦めろって、ムリだから。,"Give up, you can`t."
+Yamamoto Akuji (talking),さて、今回もいっちょ 女に生まれた幸せを教えてやっかね。,"Now, how about I make you feel a woman`s pleasure again?"
+Fudou Mei (talking),こっ、このスケベ野郎っ、 性懲りもなく……！！,Y-You fucking pervert! Don`t you ever change?!
+Yamamoto Akuji (talking),好きなように言えや。 ほれ、行くぞ。,Yap all you want. We`re going.
+narrator,悪司はするりと明の背後に回り込んで腕を取り、 痛みを感じない程度に捻り上げた。,"Akuji slipped around behind Mei and seized her arms, twisting them almost enough to hurt."
+Fudou Mei (talking),なっ………… てっ、てめえっ！　放しやがれっ！,"Wha- L-Lemme go, you bastard!"
+Yamamoto Akuji (talking),放すわきゃねーだろ。 それ、キリキリ歩け。,As if. Move your ass already.
+Fudou Mei (talking),ちっ……畜生っ…………！ てめぇ、絶対ブッ殺してやる……！,F-Fuck! I am so gonna kill you...!
+Yamamoto Akuji (talking),やってみな、できるもんならな。,I`d like to see you try.
+Yamamoto Akuji (talking),明は、悪司にこまされた。,Mei was fucked by Akuji.
+Fudou Mei (talking),"…………………… …………う、んっ…………
+ ………………！？","... ...hnnngh...!
+ ...?!"
+Yamamoto Akuji (talking),……よお、お目覚めか？,"...Yo, you awake?"
+Fudou Mei (talking),こっ、この野郎っ…… 何してんだっ…………！,Y-You motherfucker...! What did you do?!
+Yamamoto Akuji (talking),"見て解れよ。 眠っちまったおめーに 腕枕で添い寝しててやったんだ。
+ ……？ 妙に顔赤いな、照れてんのか？","Can to you after we did it, with my arm as your pillow.
+ ...? Your face`s kinda red. What, you embarrassed?"
+Fudou Mei (talking),誰が照れてるもんかよっ！,I ain`t embarrassed!
+Yamamoto Akuji (talking),今日は案外ノリ良かったな、おめー。 気持ちよかったろ？,You were pretty into it today. Didja feel good?
+Fudou Mei (talking),俺をそこらのズベ公と一緒にすんなっ！,Don`t take me for some slut!
+Yamamoto Akuji (talking),おー、元気でよろしい。 そんだけ元気なら歩いて帰れるな。 ……ほれ、立て。,"Glad to see you`re lively. If you have that much energy, then walk back to your cell. Go on."
+narrator,悪司はベッドから下りて、先に歩き始めた。,Akuji got off the bed and began walking away.
+Fudou Mei (talking),まっ、待てよ……,W-Wait up...
+Yamamoto Akuji (talking),ん？　手貸して欲しいのか？,Hm? Need a hand?
+Fudou Mei (talking),……っ、誰がそんな事頼むかっ！,...! No I don`t!
+narrator,明も立ち上がって、悪司の後をついていく。,Mei stood up and clung to Akuji`s back.
+Yamamoto Akuji (talking),おうおう、元気でよろしい。 さ、行くぜ。,"Hohoh, glad you`re so lively. We`re going, then."
+Fudou Mei (thinking),"……っ、畜生っ………… 膝がガクガクいってやがる…………
+今、後ろからかかっていっても これじゃ勝ち目が……
+ ……この野郎、化け物かよ。 平然としやがって…………
+ ………………
+ ……こいつ………… でけぇ背中してやがる…………
+俺なんか、こいつに比べたら…………………… 畜生っ……","...! Dammit! My knees won`t stop shaking...
+ Even if I were to attack him from behind now, I`d still lose...
+ ...Is this fucker a monster? He`s all calm...
+ ...
+ ...This guy`s back is pretty big...
+ Compared to him, I...
+ ... Dammit!"
+ (talking),さーてと……………,Noooow then...
+narrator,悪司は、明に向かって一歩踏み出す。 ──近付いていく。,"Akuji took a step towards Mei, approaching her."
+Fudou Mei (talking),な、何だよてめえっ…… 近付いてくんなよっ………！,"Wh-What is it, asshole?! Stay away from me!"
+ (talking),………………,...
+Fudou Mei (talking),く、来るなよっ……,D-Don`t come here!
+narrator,"明は数歩後ずさったが、 すぐに壁際へ追いつめられてしまう。
+悪司の顔が、すぐ間近に迫ってくる──","Mei took a step back, but she`d already been cornered against the wall.
+ Akuji`s face drew ever closer--"
+ (talking),……もうツッパんのも終わりにしろや。 俺の部下になれ。,...Quit being a delinquent. Work for me.
+Fudou Mei (talking),"だっ、だから何度も言わせんなよ…… オレはあんたの部下になんか……
+ …………！？","Wh-What do I keep telling you?! I`ll never-
+ ...?!"
+narrator,"明のくわえていた煙草が、ぽとりと床に落ちる。
+悪司が、明の唇を奪っていた。
+ ──明は、拒まなかった。","The cigarette in Mei`s mouth fell to the ground.
+ Akuji then stole her lips.
+ --Mei did not refuse him."
+ (talking),……………………ぷは。,...Phah!
+Fudou Mei (talking),……っ…………,...!
+ (talking),それでいいんだ。 ほれ、部下になりますって言えよ。,"It should be fine with that. Go on, say you`ll work for me."
+Fudou Mei (talking),"………………
+ ……洗面所、どこだよ。 口、ゆすがせろ……","...
+ ...Where`s the washroom? I gotta rinse my mouth..."
+ (talking),は？,Huh?
+Fudou Mei (talking),いいからゆすがせろっ……！,Let me use the washroom!
+ (talking),まあ、すぐそこんとこに 蛇口だけならあるが……,"Well, there`s a faucet right over there, at least."
+narrator,明は、悪司が言う間に歩き出して、 蛇口を捻って水を出し始めた。,Mei walked towards the faucet Akuji had pointed out and turned it on.
+Fudou Mei (talking),……がらがらがら…………ぺっ。 がらがらがら…………,...Gargle gargle... ptoo! Gargle gargle gargle...
+ (talking),別に汚いことした訳じゃねぇだろ。 んな真似すんなよなー。,"I didn`t do anythin` dirty, don`t be like that."
+Fudou Mei (talking),………………,...
+ (thinking),そろそろオトせたかと思ったが…… 勘違いだったか？,Thought I had her by now... Did I get the wrong impression?
+ (talking),何にせよ、えらく嫌われたらしいな。 今日はここまでにしとくか……,"Well, looks like ya hated it. Guess I`ll leave it at that."
+Fudou Mei (talking),あ……………… お、おい、待てよっ。,"Ah... H-Hey, hold up!"
+ (talking),……んあ？　まだ何かあんのか？,...What? What is it now?
+Fudou Mei (talking),えっ……あ、い、いや…………,"Oh! U-Uh, well..."
+Fudou Mei (thinking),な、何を呼び止めてんだよオレ。 こんなサル野郎に用なんか……,Wh-Why did I call out to him? I don`t want anythin` to do with...
+ (talking),何だよ、歯切れ悪ィなー。 言いたいことあんなら早く言えよ。,Quit bein` so evasive and spit it out already.
+Fudou Mei (talking),"…………るっせえなっ……
+ ……その、 あんたの部下になってやろうかって、 ちょっと……思っただけさ。","...Shuddup...
+ ...Uh, it`s just that... I thought I`d work for you a little, that`s all..."
+Fudou Mei (thinking),…………！？ な、何を言ってんだよオレはっ…… トチ狂ったのか……！？,...?! Wh-What the hell am I saying?! Have I lost my marbles?!
+ (talking),ほー、その言葉に二言はないな？,"Hoh, you not going back on that?"
+Fudou Mei (talking),あ……ああ。ないぜ、多分…………,Y-Yeah. I won`t... probably.
+ (talking),マジで言ってんだな？,"You`re serious, right?"
+Fudou Mei (talking),……っ、くどいんだよクソ野郎っ。,Quit bein` so fucking insistent!
+ (talking),"そうか、よし、契約成立な。
+奥の階段から上へ行ってろ。 俺も後で行くからよ、 その時にうちの仕事を説明する。","Good, then we have a deal.
+ Take the stairs in the back. I`ll be right behind you, and I`ll explain your job then."
+Fudou Mei (talking),あ……ああ、解った…………,"Y-Yeah, got it..."
+Fudou Mei (thinking),"オレ、何で……あんなヤツの言う事を 聞く気になったんだよ……
+一体、どうしちまったんだ、オレ……","Why... Why did I feel like doing what that guy wanted?
+ Just what`s going on with me...?"
+ (talking),んー…… じろじろじろじろ……,Hmm... Staaaaaare...
+Fudou Mei (talking),……何じろじろ見てんだよ、あんた。,...What`re you starin` at?
+ (talking),"上玉なのは上玉なんだよなー。 問題なのは性格なんだが……
+ちいっと難しいかもしれねぇが、 ま、タマネギなら何とかしてくれっかな。","She`s a looker, but that personality`s a problem...
+ Well, even if it`s tough, I`m sure Tamanegi can manage."
+Fudou Mei (talking),……何の事だよ。,...What is this about?
+ (talking),いや、うちの組織、売春宿経営しててよ。 おめーを娼婦にしようかと思ってな。,"Y`see, we manage a prositution ring. Thought I`d turn you into one."
+Fudou Mei (talking),……………… つくづく腐ってんな、この極道が……,"...You`re rotten to the core, you piece of shit yakuza..."
+ (talking),褒めてくれてありがとさん。,Thanks for the compliment.
+Fudou Mei (talking),最低野郎が…… 博打もクスリも裏で捌き放題か。,You scumbag... bet you also deal in gambling and drugs.
+ (talking),"心配すんな、クスリは利益と被害の バランス悪くてやってねえよ。
+バクチは……そういややってねぇな、 今度やるかな。","Don`t worry, I don`t touch dope. The risk`s not worth it.
+ As for gambling... maybe I`ll start branching out to it."
+Fudou Mei (talking),この、人間のクズがっ……,You piece of human trash!
+ (talking),しっかし口悪いよな、おめー。 そんなんじゃいい娼婦になれんぞー？,"But man, what a foul mouth ya have. A prostitute can`t have that."
+Fudou Mei (talking),誰がなるかよっ……,And I`m not gonna-
+ (talking),ま、無理矢理にでも仕立て上げるけどな。 うちの調教師どもは優秀だし。 ノープロブレムだ、全て任せろ。,"Well, we`ll force you into becoming one whether you like it or not. Our trainers are the real deal."
+Fudou Mei (talking),ざけんなっ…… あんたの言う通りになってたまるかっ！,Don`t fuck with me! I`m not gonna do whatever you say!
+narrator,"叫んで、明は悪司に殴りかかろうとした。
+ ──が、それよりも一瞬早く、 悪司の拳が明のみぞおちに叩き込まれた。","With a shout, Mei tried to hit Akuji.
+ However, Akuji was faster, and hit Mei square in her solar plexus."
+Fudou Mei (talking),う、あ………… …………かはっ………………,Ack... ...khah...!
+ (talking),"やれやれ。 最後まで手間のかかるヤツだったな。
+ ……ま、楽しかったけど。","Fuck`s sake, giving me trouble `til the end, huh?
+ ...Still, it was fun."
+ (thinking),……いや、やめとこう。 こいつに客商売できるわきゃねえな。,"...Nah, let`s not. No way I can sell her to our customers."
+ (talking),……おめー、何か隠してんな？,...You hidin` something?
+ (talking),……？ 何言ってんだ、あんた。,...? What`re you talking about?
+ (talking),"ここの牢番が出してる報告書、 さっき見たんだよ。
+ほんの少しでいいから出してくれ、 必ず帰ってくるから、とか何とか 言ってるそうじゃねえか。
+しかもほとんど泣き落としに 近かったんだって？","I just read the jailer`s report.
+ Looks like you were begging her to let you out, even if just for a little while.
+ And you apparently were on the verge of tears, to boot?"
+ (talking),…………チッ…… 喋りやがったのかよ、あのアマ……,Tch...! So that bitch squealed...
+ (talking),"おめーにとっちゃ腹が立つ話でも 俺にとっちゃあ さすが密子さんラヴラヴって感じだ。
+よお、看守の情に訴えるたぁ、 不良娘らしくねえよなあ。ん~？ 何の用なんだ、言ってみろホレ。","She might have pissed ya off, but personally, I`m reeeeal thankful to Mitsuko-san.
+ Pleading to your jailer, you ain`t much of a delinquent, are ya? So what is it? Go on, tell me."
+ (talking),知るか。,None of your business.
+ (talking),そんなに急いで行きたい所…… 男か？,If you`re in that much of a hurry... is it a man?
+ (talking),………………,...
+ (talking),大金の受け渡し？ それとも秘密兵器……,Handing over a lotta cash? Or maybe a secret weapon...
+ (talking),…………バカじゃないのか、あんた。 何が秘密兵器だよ。,...You retarded? You think I`d have a secret weapon?。
+ (talking),お、そこで反応しやがったか。 臭いな、プンプン臭うぜ。,"Hoh, so that got a reaction out of you. How very suspicious."
+ (talking),………………阿呆か。 それで探偵でも気取ってるつもりかよ。,...Moron. You gonna start actin` like a detective over that?
+ (talking),"まあ、シラ切るならそれでもいいぜ。 拷問して聞くまでだからよ。
+じゃあな。 次会うときは五体満足だといいな。","Go on, keep being tight-lipped. I`ll just torture it outta you.
+ See ya. Hope you`re still in good shape by the next time."
+ (talking),…………チッ……,Tch...!
+ (talking),……そういや、 こないだの拷問はどうだった？,"Well, what`d you think of your torture the other day?"
+ (talking),………………,...
+ (talking),そろそろ話せや。 キツかったんじゃねえのか？,"Horrible, wasn`t it? Spill it already."
+ (talking),…………………… 一つ訊かせろ。,... Lemme ask you something.
+ (talking),おう、何だ。言ってみな。,"Sure, what is it?"
+ (talking),"例えば……今、目の前に 死にそうな誰かが居たとして……
+そいつを助けても、 自分の益にゃあならない。
+あんた、その誰かを助けるか？","Suppose that there was someone in front of you who`s about to die.
+ You would gain absolutely nothing from saving them.
+ Would you save them?"
+ (talking),自信持って答えてやろう。 ぜーーーーーったい助けねえな。 たとえどんな場合でもだ。,"That`s an easy question. I`d never, ever save them, no matter the circumstances."
+ (talking),………………だろうと思ったぜ……,"...Yeah, I thought so..."
+ (talking),何の話だか知らねえが、 隠してる事をさっさとゲロっちまえ。 ほれ、ほれほれほれ。,"Dunno what that was about, but you oughta tell me what you`re hiding soon. Come on, do it."
+ (talking),だから、あんたが期待してるような事は 何も知らねえよ、オレは。,"Like I said, I don`t know anything you`d wanna know."
+ (talking),………………,...
+ (talking),………………,...
+ (talking),はーい、拷問係さん、 メイちゃんの三番室にごあんなーい。,"`Kaaaaay, someone take Mei-chan here to the torture room."
+ (talking),………………この外道がっ……,You piece of shit...!
+ (talking),さーて、 また拷問タイムに行ってみっか？,"Now then, should we have another torture session?"
+ (talking),…………っ……！,...!
+ (talking),お、顔色変わったな。 結構効いてんじゃねえのか？,"Ohoh, you went pale. Looks like it`s been working."
+ (talking),"……効いてる訳ねえだろうがっ……！ 甘く見てんじゃねえ、このクソッタレ！
+オレはてめえなんかにゃ屈しねえぞ、 てめえみたいなクソ男の言うなりに なってたまるかってんだっ！
+死ね、このバカがっ！ そのツラ潰されたくなかったら 今すぐ帰れ、出ていけボケがっ！！","Ain`t no way it`s working! Don`t take me lightly, fuckwit!
+ I`m not gonna submit to you, and I`d never become a yes-woman for a piece of shit like you!
+ Drop dead, moron! Get the fuck outta here if you don`t want your face bashed in!"
+ (talking),"…………
+ハナクソほじほじ……","...
+ *Picking his nose*"
+ (talking),…………の野郎ッ……！,Motherfucker!
+ (talking),……いやー、怯えた子犬ほど やかましく吠えるってのは 本当だったんだなー。,"...Wow, so it WAS true that you bark as much as a frightened little puppy."
+ (talking),…………っ……,...!
+ (talking),"もうボチボチだな。
+おーい、カムヒアー拷問係ぃ~。","Let`s get this over with.
+ Heeey, c`mere, Mr. torturer!"
+ (talking),こっ、このクソ野郎……！ 絶対ぶっ殺してやる！ 貴様だけは絶対殺してやるっ……！,"Y-You rotten bastard! I`M GONNA FUCKING KILL YOU, IF IT`S THE LAST THING I DO!"
+ (talking),ああ、好きにしな。 今日おめーが生きて帰ってこられたらな。,"Sure, go ahead. If you come back alive from this, that is."
+cg narrator,"──ひどい有様だった。
+まず最初、明は十人──いや、二十人か。 圧倒的多数の男たちに代わる代わる犯され、 身体中に白濁した精を浴びせかけられた。
+この時すでに、明は抵抗する気を失い、 泣きじゃくるばかりだったのだが──
+「もうちょい遊ぼうぜ」
+誰かが言ったその一言で、 男たちの中から真性のサディスト数人が歩み出た。
+性的な悦楽は、もう充分味わった後だった。 男たちに残っていたのは、嗜虐心のみ──
+──その結果が、これである。
+「………………………………ぅ……………………」
+小さな声で明が呻いたが、 もう、周囲の拷問手はおろか明自身にすら その声は届いていない。
+明の痛覚は、もう、とうに限界を超えていた。
+「へ……へへへへへ………… 　すっかり静かになっちまったなあ……」
+拷問手の一人が言いながら、 明の陰核に釣り針状の小さな鈎を刺す。
+　　［……びくっ、びく……］
+明の躰は痛覚を受けて反応したが、 その口から苦痛を訴える声は出てこなかった。
+「…………精神が逃避しちまってんな。 　つまんねえ、これじゃ魚捌いてんのと一緒だな」
+「つまらないだってえ……？ 　おいおい、こっからが本当に 　美味しいところだぞ」
+また別の男の声がした。 彼は陰核に刺した小さな鈎に紐をくくりつけると 明を足蹴にしながらそれを引っ張り続けた。
+　　［……びくっ、びく、びくんっ……］
+小さな鈎に貫かれた陰核が引っ張られる度、 明の躰は痙攣を繰り返す。
+「……見ろよ、こんだけ動いてるって事は 　まだ先があるって事だ」
+「先……？」
+「今は、痛覚や嫌悪から目を背けて、 　心が逃避してる段階なんだよ……」
+言いながら、その拷問手はズボンを脱ぐ。 ──男根が、歪んだ悦楽で硬く反り返っていた。
+「見てな、この先に必ず来るぜ…… 　痛覚や嫌悪を受け入れちまって、 　何もかも気持ちよくて笑い始める時がな……」
+拷問手は、明の秘裂に自分のものを突き立てた。
+「………………っ……………………」
+明の眉が、微かに動いた。 だが、まだそれだけだ。
+やがて、拷問手が腰を振り始める。
+ぎしぎしと、明の躰を固定しているワイヤーや 鎖の類が、嫌な音を立て始める。
+その、一回の軋みごとに、 明の躰を駆け抜けている筈の耐え難い激痛──
+　　［ご、ぶ……ぐぶっ…………］
+明の躰の奥に残っていた陵辱の証、 誰のものとも知らぬ精液が掻き出されて、 胎外へぼとぼととこぼれ落ちていく。
+痛覚と、不快感。 ──それが、明の中の何かを震わせ始める。
+「………………ぁ、ぅ…………っぁ…………」
+明が、声を発し始めた。 今度は拷問手の耳にも届く。
+拷問手が、ぬたりと笑う。
+「さあ…………もういいんだぜ、来いよ…… 　意識の糸なんか切っちまえ………… 　狂気の中に落っこっちまえよっ…………！」
+──やがて、感極まった拷問手が射精を迎える。
+その瞬間、明の心は墜ちた。 もう、人とは呼べない領域に。","--It was a gruesome scene.
+ It started off with Mei being raped in turns by about twenty men, her body getting dyed white with semen in the process.
+ At that point, Mei had already lost all will to resist and did nothing but cry, and yet--
+ 「Let`s have some more fun.」
+ With those words, some of the most genuinely sadistic men walked forward from their midst.
+ This was after they`d had their fill of sexual pleasure. Now they looked to sate their sadism.
+ --And this was the result.
+ 「............uu......」
+ Mei groaned quietly, but even she could not hear her voice, let alone her torturers.
+ Mei`s sense of pain had long passed its limit.
+ 「Heheheheh... 　She`s gotten completely quiet now.」
+ One of the torturers spoke as he stabbed a fish hook into Mei`s clitoris.
+ 　　*Throb* *Throb*
+ While Mei`s body reacted to the pain, she did not let out a single sound.
+ 「...Her mind`s totally gone. This sucks, 　might as well play with fish at this point.」
+ 「You think this sucks? 　Come on now, this is where 　the best part begins.」
+ Yet another man spoke. He tied a string to the hook in Mei`s clit and pulled on it as he kicked her.
+ 　　*Throb...* *Throb...*
+ Every time her clit got pulled, Mei`s body repeatedly spasmed.
+ 「Look, if she`s moving this much, 　it means we`re not there yet.」
+ 「What do you mean...?」
+ 「Right now, she`s at the stage where she`s 　avoiding the pain by losing her mind...」
+ The torturer then took off his pants. His member was hard from the twisted pleasure.
+ 「Watch, we`re about to get there... 　The time where she`ll accept the pain 　and feel good from just about anything...」
+ He put his member on Mei`s pussy.
+ 「...!」
+ Mei`s eyebrows lightly twitched. But that was all.
+ Before long, the torturer began thrusting.
+ The wires and chains fixing Mei`s body in place began producing an unpleasant noise.
+ With each squeak of the chains, an unbearable pain ran through Mei`s body.
+ 　　*Glp* *Gllllp*
+ The semen that remained deep inside Mei, which served as proof of her rape, was now being forced out, dripping out into her thighs.
+ Pain, disgust... and a third something began to mix together inside Mei.
+ 「...ah... uh... ah...」
+ Mei finally let out a voice. This time, her torturer heard it.
+ --Making him smirk.
+ 「Now, that`s enough... c`mere... 　Let go of your consciousness... 　Fall into the madness!」
+ Soon enough, the overjoyed torturer ejaculated.
+ At that instant, Mei`s mind shattered, to the point she was no longer human."
+cg narrator,"「………………あ、あは…………」
+ 「あはは、あは…………あははははは…………」
+ 「あははははははははははははははは…… 　あは、あははは、あはははは………………」
+ 「あはははははははははははははははははははは 　ははははははははははははははははははははは 　はははははははははははははははははは……」","「...Ah, hah...」
+ 「Ahahah, hahah...」
+ 「Ahahahahahahah... 　Ahah, hah, hahahahah...」
+ 「Ahahahahahahahahahahahahahaha 　hahahahahahahahahahahahahaha 　hahahahahahahahahahahahahah...」"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Yamamoto Akuji (talking),……猫ぉ？,...Her cat?
+Elite Yakuza (talking),"はい。
+どうやら彼女、捨て猫を何匹か拾って 誰にも知らせず、一人で餌を 与えていたようでして。
+いつも肩に乗せていた猫は、 そのうちの一匹に過ぎないらしく……","Yes.
+ It seems she`d picked up several cats and was feeding them in secret.
+ The cat that was always on her shoulder was one of them..."
+Yamamoto Akuji (talking),それが隠してた秘密だってのか？ まあ、いろいろ辻褄は合うが……,"And that was her secret? I mean, it does make sense, but..."
+Elite Yakuza (talking),"完膚無きまで人格を破壊して、 その上で吐かせた情報です。 間違いないでしょう。
+ちなみに、猫を隠している場所は ハクアの林だそうです。","This is the info she gave us after we thoroughly destroyed her mind. There`s no mistake.
+ Incidentally, the cats are being hidden in Hakua`s woods."
+Yamamoto Akuji (talking),……くだんねえ情報だなオイ。 まあ、気が向いたら行ってみるわ。,"...What worthless info. Eh, I`ll go take a look if I feel like it."
+Elite Yakuza (talking),それで、若。不動明の今後は……,"So, about what happens to Fudou-"
+Yamamoto Akuji (talking),養護施設にでも入れといてやれ。,Send her to a children`s home.
+Elite Yakuza (talking),はっ。,Very well.
+Ishihara Senju (talking),やっほー、メイ。,"Hiya, Mei."
+Fudou Mei (talking),"…………っ、調教師のガキ……
+＜猫＞ 　み……みゃあああっ……","...! The trainer brat...
+ ＜Cat＞ 　Meooooow!"
+narrator,明の飼い猫は、千手の姿を見ると 怯えた声で鳴いて小さな躰を震わせ始めた。,"When it saw Senju, Mei`s pet cat started to tremble and mewl in a scared tone."
+Ishihara Senju (talking),"あれ、嫌われちゃってるなー、ボク。
+でも、怯えてる猫も可愛いよねー。 メイも早くこうなればいいのに……","Aw, it doesn`t like me.
+ But cats are cute when scared. I hope you become like that, Mei."
+Fudou Mei (talking),……このガキ、性懲りもなく オレをいたぶりに来たのかよっ……,"Did you come here to torment me again, you brat?!"
+Ishihara Senju (talking),いたぶってるだけじゃないって。 それはメイ自身が一番解ってるだろ？,I`m not just tormenting you. Don`t you know that better than anyone?
+Fudou Mei (talking),………………っ……！！,...!!
+Ishihara Senju (talking),今までだって、いーっぱい遊んでさ、 メイは自分から脚広げてさ………………,"We`ve had lots of fun up until now, and you spread your legs yourself..."
+Fudou Mei (talking),………………それ以上言うなっ！ 言ったらブッ殺してやるっ！！,...Don`t say another word! I`ll fucking kill you!
+Ishihara Senju (talking),へへ、やれるもんならやってみなよ。 殺されるのはメイの方だと思うけどね？,"Heheh, I`d like to see you try. You`d be the one who gets killed."
+Fudou Mei (talking),思い上がるな、この…………,"Don`t get cocky, you-"
+narrator,"明は千手の胸ぐらを掴んで自分の方に引き寄せ、 その頬に拳を叩き込もうとした。
+だが、振り上げた拳は、 いつまで経っても千手に向かってこない。","Mei grabbed Senju by the collar, pulled him towards herself, and raised her fist.
+ However, no matter how much time passed, her first would not strike Senju`s face."
+Ishihara Senju (talking),……メイ、どうしたのさ？ 躰が震えてるよー？,"...What`s wrong, Mei? You`re shaking."
+Fudou Mei (talking),…………っ、う…………,...U-Ugh...!
+Ishihara Senju (talking),"そうだねー、そりゃそうだよねー。 そんな事したら後で十倍返しされるって 何度も思い知らされたもんねー。
+ほら、手放して。 ……放せって言ってんだろバカ。","Makes sense. You`ll get whatever you did to me 10 times worse later. It`s happened enough times by now.
+ Come on, let me go. ...I`m telling you to let go, moron."
+Fudou Mei (talking),………………,...
+Ishihara Senju (talking),"そうそう、それでいいんだよ。 メイは賢いからボク好きさ。
+さ、まずは下ごしらえだ。 今日もメイの好きな事、 いっぱいしてあげるよっ……！","There, that`s more like it. I love how smart you are, Mei.
+ Let`s start with the groundwork. I`m gonna do aaaaall the things you love today, Mei!"
+narrator,千手はポケットから小さなスプレー缶を 取り出すと、いきなり猫と明の顔に吹き付けた。,Senju took out a small spray can from his pocket and sprayed its contents at Mei and her cat.
+Fudou Mei (talking),"…………！？ げ、げほげほっ……
+て、てめえ……今、何を…………","?! Cough! cough!
+ B-Bastard, what did you-"
+Ishihara Senju (talking),くすくす…… さあ、何かなー？,Tee hee hee... I dunno!
+narrator,千手が言った瞬間だった。 ──明の肩から、猫が突然滑り落ち始めた。,"The moment Senju spoke, Mei`s cat suddenly fell off from her shoulder."
+Fudou Mei (talking),…………っ！　お、おいっ……,...! H-Hey!
+Ishihara Senju (talking),"あはは、ナイスキャッチ。 よく猫が床に落ちる前に止められたね。
+でも、次はメイの番かなー。 怪我しないように倒れられる？","Ahahah, nice catch! Good job not letting him fall to the floor.
+ But you`re next. Think you can fall without getting hurt?"
+Fudou Mei (talking),"………っ………？ あ、っ……………………
+ ………………こ、の……………… …………………………ガキっ……","...? Ah...!
+ ......You...... .........brat...!"
+Ishihara Senju (talking),"…………おっとっと。 顔から倒れちゃダメだって、 娼婦の価値が下がっちゃう。
+ま、タマネギさえブツブツ言わなきゃ メイの顔がどうなろうと ボクはどーでもいいんだけどさ。
+ …………あれ？　メイ、気絶した？ 睡眠薬の量、多すぎたかな？
+まあいいや……それはそれで いろいろ遊びがいもあるしね。 へへ……","...Whoa there. You can`t fall on your face, that`ll make your value go down.
+ Well, if it weren`t for Tamanegi`s complaining, I wouldn`t care about what happens to your face.
+ ...Oh? Did you pass out, Mei? Were the sleeping pills too strong?
+ Well, whatever... It`s still fun to play with her like this. Heheheh..."
+cg narrator,"（………………ぅ…………？）
+ ──眠っていた明の耳に、何かが聞こえてきた。 誰かの声だった。
+ 「……っかしーな。 　生きてるならそろそろ目覚めるはずだけど」
+それが調教師・千手の声だと解るまで、 随分と時間がかかった。
+気怠い。──眠い。 その眠気が明の頭を鈍らせる。
+ （もう……どうでも、いい………… 　このままずっと、寝ていたい…………）
+そう、目を閉じたまま、 心地よい眠りに全てを委ねて──
+ ──いや、違う。
+今、明の意識を浸食し続けているのは、 眠気ではなくて、もっと別の──
+ 「あ。 　メイ、起きてんだろ？　起きてるよね？ 　気持ちいいからって浸るなよ、ほら起きて」
+千手の小さな手が、明の頬を叩く。 ──目を、開ける。","（...uh......?）
+ Though asleep, Mei could hear something. It was someone`s voice.
+ 「...This is weird. She should`ve woken 　up by now if she`s still alive.」
+ It took her a long while to realize that it was Senju`s voice.
+ She felt listless. Sleepy. The drowsiness dulled her head.
+ （I don`t... care anymore... 　I wanna keep sleeping...）
+ “Yes, I`ll my eyes closed and let this nice sleepyness take over me.”
+ --She was wrong.
+ The feeling eroding her consciousness wasn`t sleepiness, but something else--
+ 「Oh. Mei, you`re awake, aren`t you? 　Don`t get immersed in it just because 　it feels good. C`mon, wake up.」
+ Senju slapped Mei`s cheek. She opened her eyes."
+cg narrator,"「…………う…………」
+焦点の定まりきらない明の目が、 変わり果てた自分の姿を映し出す。
+「ほら、メイ……見えるかい？ 　自分が今、どんな風になってるのか……」
+千手に言われるまでもなく、見えていた。 恥ずかしい、自分の姿が。
+　　［ヴウン……ヴウン……ヴウン……］
+秘裂に突き入れられたバイブが、 低く唸りを上げて明の胎を掻き回している。
+　　［ビイイイイン…………］
+乳首に張り付けられたローターも、 小刻みに震え続けていて、明を刺激する。
+けれど、 すぐ目の前の鏡に映る自分が、ひどく遠い。 バイブやローターの感覚も遠い。
+──現実感が、ない。
+今見えているのは、自分に似た別の誰か。 もしくは過去か、それとも未来の自分。 とにかく、今の自分ではない。
+──だが。
+それならば、今の自分はどこに居るのだろう。
+「はは……メイは本当に可愛いよ。 　いつもはあんなに怖い顔してボクを睨むのに、 　今はほら、借りてきた猫みたい」
+千手が明の髪を、頬を撫でている。 その様子が鏡に映って、メイにも見える。
+だが、千手のその手の感触すらも、遠い。
+「そう、メイが猫を飼ってるように、 　今はボクがメイを飼ってるんだ…… 　だから、ほら。ボクからメイへのプレゼント」
+千手はメイの首に指先を伸ばす。 そこにあるのは、大きな鈴のついた革の首輪だ。
+「ちょっとね、細工してみたんだよ、これ。 　ホラ、見てなよ……」
+　　［ちりん……］
+千手が、指先で鈴を弾いた。 すると──
+　　［ヴ…………ヴヴヴヴヴヴッ……！］
+明の乳首付近に張り付けられたローターと、 秘裂に押し込まれたバイブが、 揺れた鈴に連動して一際強く唸りを上げ始めた。
+それは本来なら、痛みを感じても おかしくないほどの強い刺激だったのだが──
+「………………う、ぁ………………」
+明の口から漏れたのは、わずかな呻きだけ。
+──その時、明にも解った。 自分の感覚がひどく遠い理由。
+おそらく、気絶している間にも 自分の躰を苛み続けていた性的な刺激に、 明の神経が麻痺してしまっている。
+頭を、躰を満たして、悦楽が感覚を飽和させる。
+何も、考えたくない。 何も感じたくない。
+麻薬の悦楽にふける中毒患者のように、 明は、今感じている痺れに自分の全てを委ねる。
+「…………あ。 　メイ、ちょっと見てみなよ、ベッドの上……」
+ふいに千手が言う。 明は目の前の鏡を見る事で、 自分の背後にあるベッドの上を見た。
+そこには、仔猫が寝そべっていた。 明がいつも連れている仔猫。
+つい今まで、千手が吹き付けたスプレーの影響で ぐったりとして眠り続けていたが──
+「今、猫が目開けて、こっち見てたんだ。 　すぐ目逸らしたけど」
+「………………」
+「クスクス……飼い主のこんな格好見て、 　失望してなきゃいいけどね、あの猫……」
+人間の明が意識を失うほどの薬物を浴びたのに、 仔猫が今、目覚めるはずはなかった。 千手が明をからかっただけだろう。
+だが、千手の小さな遊びは、無駄に終わる。
+「………………」
+明はもう、仔猫を気にしようとしなかった。
+今、躰を押し包む痺れの中では、 もう、何をするにも億劫だったから──
+「……ちぇ、面白くないな…… 　そんなにどっぷり浸ってんの？ 　このエロ女」
+「………………」
+「ねえ、メイ。ちょっとだけイかせてやろうか？」
+「……………………」
+「……むか。 　ボクが話しかけてるのに無視するなってば。 　何とか言えよ、ほらっ」
+千手は明の頭を抱えて、まるでボールか何かを 扱うように前後左右へ思い切り揺さぶった。
+「…………ぅ、あ…………っく…………」
+目眩、吐き気、頭痛。 明が眉をしかめて、小さく唸る。
+「……やっと反応した。 　メイってさー、電池切れかけてんじゃない？」
+「……………………」
+「ほら、聞いてる？ 　イかせてあげようかって言ってんだよ」
+明が、頷いた。 ──いや、脱力した首が傾いただけだろうか。
+ともかく千手の目には、 その頷きが「ＹＥＳ」だと映った。
+「いい子だねー、メイは。 　じゃ、軽くイかせてあげるよ。 　もう、感覚擦り切れてるかもしれないけど……」
+明の耳元で囁いて、千手は何度も指先で鈴を弾く。
+　　［ちりん、ちりん……ちりん……］
+「…………う、あ…………ああっ…………！」
+　　［ヴヴヴッ、ビイイイインッ……！］
+「…………っ、く……っう、あ…………！」
+躰を苛む玩具の痺れに、明が小さく首を振る。 その度に鈴は鳴り、いつまでも玩具を動かし続けた。
+そして。
+明は、静かに──果てる。
+「……………………っ、ぁ────────」","「...ugh...」
+ Mei`s completely changed appearance was reflected on her unfocused eyes.
+ 「There... Can you see, Mei? 　How you look like right now?」
+ She could see her embarrassing situation even without him saying it.
+ 　　*Whrrrrr* *Whrrrr*
+ The vibrator placed inside Mei`s pussy stirred her up with a low-pitched noise.
+ 　　*Vrrrrrrrrrrr*
+ The rotors stuck to her nipples vibrated wuickly, stimulating Mei.
+ However, Mei`s self, reflected in the mirror in front of her, seemed to be distant. So did the sensations from the toys.
+ She had no sense of reality.
+ She saw someone similar, but ultimately different, or perhaps a vision of her. future self. Either way, it felt different.
+ However--
+ If that was the case, where was her current self?
+ 「Hahah, you really are cute, Mei. You`re 　always staring at me with a scary face, 　but now, you`re like a kitten I picked up.」
+ Senju caressed MKei`s hair and cheeks. Mei could see that in the mirror.
+ But even that sensation felt distant.
+ 「Yes, and since I picked you up, 　that means I own you now, Mei... 　So here, a present from me.」
+ Senju touched Mei`s neck, where there was a leather collar with a large bell attached.
+ 「I put some work into this, you know. 　Here, take a look...」
+ 　　*Ding*
+ Senju rang the bell with his finger. When he did that--
+ 　　*WHRRRRRRRRRRR!*
+ The vibrator and rotors that had been placed on Mei started to whirr with more intensity, having been connected to the bell.
+ Normally, the stimulus would be strong enough to cause pain. However--
+ 「......ahn......」
+ Only faint moans escaped from Mei`s mouth.
+ --That`s when she realized why her own sensations felt so distant.
+ Most likely, the stimuli she`d been receiving even while passed out had caused her senses to go numb.
+ Her mind and body were saturated with pleasure.
+ She did not want to think. She did not want to feel.
+ Mei simply let the pleasure take her, like an addict who`d gotten their fix.
+ 「...Ah. 　Mei, take a look at the bed...」
+ Senju spoke out of the blue. Mei looked at the bed behind her through the mirror in front.
+ Her kitten was there, splayed out.
+ Thanks to Senju`s spray, it had been sleeping until now, but--
+ 「The cat just woke up and looked this way. 　It looked away right afterwards, though.」
+ 「...」
+ 「Heehee, I hope that cat didn`t feel 　disappointed to see its owner like this.」
+ The cat had received a big enough dosage to knock out a person, so it was not waking up any time soon. Senju was teasing Mei.
+ However, his teasing proved pointless.
+ 「...」
+ Mei was no longer worried about her cat.
+ Amidst the numbness taking hold of her body, doing anything was bothersome to her.
+ 「...Tch, how boring. 　Are you that into it, 　you slut?」
+ 「...」
+ 「Hey, Mei, how about you cum?」
+ 「......」
+ 「...Oh, I`m mad now. 　You`re ignoring me while I`m talking 　to you? Come on, say something!」
+ Senju took hold of Mei`s head and shook it all over like a ball.
+ 「...ngh... ah... kh...」
+ Dizziness. Nausea. Headache. Mei furrowed her brow and groaned quietly.
+ 「...So you`ve finally reacted. 　You run out of batteries, Mei?」
+ 「...」
+ 「Hey, are you listening? 　I`m saying you can cum now.」
+ Mei nodded. Or more precisely, her head tilted as her neck lost its strength.
+ Either way, to Senju, that was a nod of consent.
+ 「Good girl. 　Then I`ll make you cum a little. 　Your senses may already be worn out, though.」
+ Senju whispered, then rang the bell several times.
+ 　　*Ding* *ding* *ding*
+ 「...nh, ahn... aaahn...!」
+ 　　*WHHHHHHHHRRRRRRRRRR!!!*
+ 「...! khhh... hngh, aaahn...!」
+ The pleasure made Mei shake her neck, causing the bell to keep ringing.
+ And then--
+ Mei quietly climaxed.
+ 「......ahn......」"
+cg narrator,"明は絶頂を迎えて脱力し、力無く項垂れる。 ──千手の腕に、首を預ける。
+明はもう、何もしようとしなかった。
+犯されようと、責め立てられようと、 明はただ、か細い声でただ鳴くだけだ。
+明は、無力な仔猫に成り果てていた。","Having lost all strength after climaxing, Mei hung her head, which rested on Senju`s chest.
+ Mei no longer did anything.
+ No matter how badly she was violated, Mei did nothing but mewl in a weak voice.
+ She had become a powerless kitten."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Yamamoto Akuji (talking),"……さーて、 今日の外回りは終わりっと。
+あとは、部下に任せてるシマの状態か。 電話かけて確認してみっかな……","...Now then, today`s patrol is all done.
+ All that`s left is to hear from my men. Guess I`ll call them..."
+narrator,　　「……にゃー。にゃあああ……」,　　「...Meow. Meooooow...」
+Yamamoto Akuji (talking),……ん？,Hm?
+narrator,　　「……にゃあ……」,　　「...Meow...」
+Yamamoto Akuji (talking),猫の声みてーだが…… どこで鳴いてんだ？,That sounded like a cat... Where`s it coming from?
+Fudou Mei (talking),"…………まったく、 どこで喧嘩してきたんだよ、お前。 爪でやられた傷だろ？　これ……
+ ＜仔猫＞ 　にゃあ……
+にゃあにゃあ言うな。 ちゃんと染みない薬を 選んでやってんだから……","...Dammit, did you go and pick a fight somewhere? You`re scratched all over...
+ ＜Cat＞ 　Meow...
+ Don`t meow back at me. I got you some medicine that won`t leave a stain, so..."
+Yamamoto Akuji (talking),……何だよ、鳴いてんのは メイの猫だったのか。 何やってんだ？,"...What, so it was your cat that was meowing, Mei? What are you doing?"
+Fudou Mei (talking),ああ、あんたか。 見て解らないのか？,"Oh, it`s you. Can`t you tell?"
+Yamamoto Akuji (talking),猫の改造手術。,You`re remodeling the cat.
+Fudou Mei (talking),怪我の手当に決まってんだろ…… あ、救急箱借りてるぜ。,"I`m obviously treating its wounds. Oh, lend me the first-aid kit."
+Yamamoto Akuji (talking),おう、好きに使えや。,"Sure, go ahead."
+Fudou Mei (talking),"………………よし、出来た。 もう無茶するなよ。
+ ＜仔猫＞ 　にゃー。","...Alright, all done. Don`t do anything reckless, okay?
+ ＜Cat＞ 　Meooow."
+Yamamoto Akuji (talking),しっかしメイもよ、 結構変わったヤツだよなー,"But I gotta say, you`re a weird one, Mei."
+Fudou Mei (talking),何がだよ。,What is it?
+Yamamoto Akuji (talking),"そんな汚ねぇネコに 優しくしてやる神経がわかんねーんだよ。 目ヤニはバリバリだし毛の色も小汚ぇし。
+どうせ飼うんなら、もっとまともなのが 他にいくらでもいんだろ。 たとえ捨て猫でもよ。","I don`t get why you`re being nice to such a dirty cat. Its eyes and fur are all scummy.
+ If you`re gonna keep one, might as well pick a nicer one, even if it`s another stray."
+Fudou Mei (talking),見栄えでネコを判断すんなよ。 案外器の小さい男だな、あんた。,Don`t judge cats by their looks. You`re surprisingly shallow.
+Yamamoto Akuji (talking),"猫一匹の事で ひでぇ言われようだなー……
+ ……ああ、そういやその猫、 名前は何て言うんだ？","Hey, don`t say that about me just because of some cat.
+ ...Oh yeah, does this cat have a name?"
+Fudou Mei (talking),名前なんてつけてないよ。,I haven`t named it.
+Yamamoto Akuji (talking),そんだけ懐いてんのにか？ つけてやれよ、名前くらい。,Even though ya like it so much? At least give it a name.
+Fudou Mei (talking),猫が生きていくのに関係あるのか？ こいつに人間のルールを 押しつける気はないよ。,What difference does it make in its life? I don`t feel like forcing human rules onto it.
+Yamamoto Akuji (talking),……はあ、さいですか。,...Uh-huh.
+Fudou Mei (talking),"＜仔猫＞ 　……にゃー、ごろごろごろ……
+あ、こら……今は話の最中なんだぞ。 ははっ、じゃれてくるなってば……
+ ＜仔猫＞ 　………………にゃあ…………
+傷、痛むのか？ 無理もないけど……
+ ……今はちっこいから、喧嘩に負けても しょうがないけどよ。
+お前も生き物なら、いずれ一人で 生きていかなきゃなんないんだぜ。
+早く大きくなって、早く強くなれよ。 ……オレが面倒見ていられるうちにな。
+ ＜仔猫＞ 　にゃー…………
+本当に解ってんのかね、こいつ。 まあ、解ってないんだろうけどさ……","＜Cat＞ 　Meow... Purrrrr...
+ Hey, I`m talking right now. Hahah, quit playin` around!
+ ＜Cat＞ 　...Meow...
+ Do your wounds hurt? Well, it`s no surprise...
+ ...You`re still small, so you`re obviously not gonna win in a fight.
+ If you`re a living being, then you gotta be able to stand on your own.
+ Hurry and grow big and strong... ...While I`m around to see it.
+ ＜Cat＞ 　Meow...
+ I wonder if you actually get it. Well, `course you don`t..."
+Yamamoto Akuji (talking),……あー、なるほどな。 何か今ピンと来たぜ、 おめーがその猫飼ってる理由。,"...Oh, I get it. It just dawned on me why you`re keeping that cat."
+Fudou Mei (talking),？,?
+Yamamoto Akuji (talking),"おめー、そのネコが自分みたいだとか 思ってんじゃねーのか？
+だからほっとけなくて、 何かと世話焼いたりしてんだろ。","You think that cat`s just like you, right?
+ That`s why you can`t leave it alone and take care of it."
+Fudou Mei (talking),………………,...
+Yamamoto Akuji (talking),図星か。,"Bullseye, huh?"
+Fudou Mei (talking),……アホくせえな、 そんな事思ってる訳ないだろ？ こっちは人間、こいつは猫なんだぜ。,"...Dumbass, there`s no way I think like that. I`m a human, and this little guy`s a cat."
+Yamamoto Akuji (talking),"なあ、前にも同じ様な事 聞いたかもしれねーが……
+おめーって、ここに来るまで どういう生活してたんだ？
+親とかいねぇのか？ 兄弟は？　ダチは？　オトコは？","Hey, I might`ve asked this before, but...
+ What kinda life had you been living before coming here?
+ You got any parents? Siblings? Friends? Lovers?"
+Fudou Mei (talking),……前にも同じ事を言わなかったっけ。 身の上話なんざする気はないね。,...Din`t I tell you before? I don`t wanna talk about myself.
+Yamamoto Akuji (talking),"そう言わずに話してみろよ、 おめーがグレた原因とか興味あんだよ。
+生まれた時からそんなだった程、 おめーも荒んでた訳じゃねえんだろ？","Come on, tell me, I wanna know why you became a delinquent.
+ You`re not gonna tell me you were born this way, are you?"
+Fudou Mei (talking),"だから訊くなっつってんだろ。 何度も言わせんなよ。
+オレはもう、昔の事は腹に呑んだまま 墓場まで持っていくって決めてるんだ。","And I`m tellin` ya to drop it. Don`t make me keep sayin` it.
+ I`ve decided to take my past with me to the grave."
+Yamamoto Akuji (talking),あっそ。,That so.
+Fudou Mei (talking),……そうさ、墓場まで持っていくんだ。,"...Yeah, to the grave."
+Yamamoto Akuji (talking),ま、俺としちゃあ、 その猫見てりゃ大体想像つくけどなー。,"Well, personally, I can take a good guess by looking at that cat."
+Fudou Mei (talking),"………………
+そろそろ、仕事に戻る。","...
+ I`m goin` back to work."
+Yamamoto Akuji (talking),おう。,Alright.
+Fudou Mei (talking),………………,...
+narrator,無言で事務所から出ていく明の顔を、 肩に乗った仔猫が、じっと見つめていた──,The cat resting on Mei`s shoulder stared at her face as she silently left the office--
+ (talking),"ははっ……極道どもが集まって 何してんのかと思ったら、 面白そうな事やってるじゃないか……
+ ……決めたぜ。 オレも参加させてもらう。 丁度退屈してたんだ……！","Haha! I was wonderin` what a buncha yakuza were doing together, but this seems like some fun...
+ ...I`ve decided. I`ll fight, too. Great way to kill my boredom!"
+Yamamoto Akuji (talking),んーと、不動明が拷問でゲロった 猫の隠し場所っつーのは この辺のハズなんだけどなー。,"Lessee, the place with the hidden cats we got from Mei after we tortured her should be `round here."
+Takega Satsu (talking),うむ。,Mhm.
+Yamamoto Akuji (talking),………何でさっちゃんが一緒なんだよ。,"...Why are you with me, Sacchan?"
+Takega Satsu (talking),猫がたくさん居ると言うのでな。,I heard there were lots of cats.
+Yamamoto Akuji (talking),猫好きなのか？　さっちゃん。,"Do ya like cats, Sacchan?"
+Takega Satsu (talking),"嫌いではないな。
+あと、例の不動明とかいう娘の経歴。 施設に入れるとき必要だったので、 私が部下に指示して少し調べたのだが。","I don`t dislike them.
+ Also, about Mei`s background. I had your men look into her so we could send her to a children`s home."
+Yamamoto Akuji (talking),？,?
+Takega Satsu (talking),"妾腹で、家に寄りつかぬ父親。 ……彼女も私と同じなのだ。
+ただ違うのは、彼女の父親が 私の親父殿のような豪傑ではなく、 情けない裏切り者だったという事だ。
+彼女がいわゆる不良になった原因は、 ここにあると見てよかろうな。","She`s an illegitimate child of a father who`s never home... like me.
+ The only difference is that while my father is extraordinary, hers is merely a pathetic traitor.
+ And here lies the reason why she became a delinquent."
+Yamamoto Akuji (talking),なんだ、そりゃ。,What is it?
+Takega Satsu (talking),"戦前の株価暴落のおり、 金に困った彼女の父親は 幼かった彼女を軍に売ったらしい。
+意味は解るな？","Thanks to stock prices crashing during the war, her indebted father sold her to the army while young.
+ Do you get what I mean?"
+Yamamoto Akuji (talking),……慰安か。,"...A comfort woman, huh?"
+Takega Satsu (talking),"そういう事だ。
+何せ戦争状態だったのだ、 私も巡り合わせが悪ければ 同じ運命になっていたやもしれん。
+そう思うと、あの不動明が どうも他人と思えなくなってしまった。
+同情という柄でもないのだがな。","Exactly.
+ It was a time of war, after all. I could`ve very well met the same fate had I been unluckier.
+ When I think about that, I can`t help but care about her a little.
+ I wouldn`t call it sympathy, however."
+Yamamoto Akuji (talking),…………ふ~ん……,...Hmm...
+Takega Satsu (talking),まあ、猫を捜すとなれば 人手も要るだろう？,"Well, you also need more people to search for the cats, right?"
+Yamamoto Akuji (talking),別に猫なんざどーでもいいんだがなー。,I don`t really care about cats.
+Takega Satsu (talking),そう言うな、経緯や結果はどうあれ 拷問までして聞き出した情報だ。,"Don`t be like that, it`s still info you got from torturing her."
+Yamamoto Akuji (talking),まあ、そりゃそうなんだが。,"Well, that`s true."
+narrator,　　［にゃ~……にゃああ……］,　　［Meoooow...］
+Yamamoto Akuji (talking),？　微かに猫の鳴き声がしたな。,? I think I heard a cat.
+Takega Satsu (talking),うむ、この茂みの中だ……,"Yes, it`s coming from that bush."
+narrator,"そうして、殺が茂みをかき分ける。
+そこには、確かに猫がいた。 廃材やブロックで囲った獣除けの小さな空間に、 仔猫ばかりが二十匹ほど。
+だが、明が餌をやらなくなって 随分経ったせいで、どの猫も相当衰弱していた。
+ ──いや、衰弱しているどころか、 とうに死んでいるものも少なくはなさそうだった。","With that, Satsu opened up the bush.
+ Sure enough, there were cats there. About 20 of them, surrounded by a fence made of waste wood and blocks.
+ But since it`d been a while since Mei had fed them, all of them were quite weakened.
+ In fact, many of them were already dead."
+Yamamoto Akuji (talking),"…………何だかなぁ……
+見ない方が良かったな、こりゃ。 帰ろう。","...Maaan...
+ I didn`t have to see this. Let`s go back."
+Takega Satsu (talking),拾って帰らぬのか？,You`re not taking them with you?
+Yamamoto Akuji (talking),"んなことする気はねえよ。 第一、ほとんど死んでるじゃねえか。
+んな捨て猫にいちいち情けをかけてたら キリがねえよ、帰ろうぜ。","Don`t wanna. Besides, most of them are dead.
+ I can`t go around feeling sorry for every cat I see. We`re going."
+Takega Satsu (talking),やれやれ…… 身内には割と優しいくせに、 こういう所はドライなのだな。,"Goodness... He`s nice to his family and friends, but so unfeeling about things like this."
+narrator,　　［にゃー……にゃあ…………］,　　［Meow...］
+Takega Satsu (talking),"案ずるな、私が連れ帰ってやる。 動ける者はこちらに来い。
+ ………………む？","Don`t worry, I`ll take you with me. Those who can move, come to me.
+ ...Hrm?"
+narrator,　　［にゃー……にゃあ…………］,　　［Meow... Meow...］
+Takega Satsu (talking),"…………ほう……
+これは驚いた……もしやこの中には 当たりが居るかもしれんな。","...Ohoh...
+ What a surprise. Perhaps we have a real keeper in this midst."
+narrator,明は、路地裏でフェンスを背にして 加えた煙草にそっと火をつけた。,Mei leaned against a fence as she lit up her cigarette.
+Fudou Mei (talking),"…………………… 不味い……な……
+ ＜仔猫＞ 　にゃー……
+ああ、悪いな。 少し煙たかったか。
+ ………………
+未だに奉仕青年団の仕事を オレに回してきやがるなんてよ……
+こんなオレでも、 悪司はまだ必要だってのか……？
+ ＜仔猫＞ 　……にゃー……
+ ……心配すんなよ。 大丈夫だって。
+あいつのとこに転がり込んでから 全然退屈しないからさ。
+よほど気が変わらない限りは 奉仕青年団で遊ばせてもらうさ……","... Tastes like crap...
+ ＜Cat＞ 　Meow...
+ Oh, my bad. Too smoky for you, huh?
+ ...
+ Can`t believe the YCSG are still employing me...
+ Does Akuji even need someone like me still...?
+ ＜Cat＞ 　Meow...
+ ...Don`t worry, it`s all good.
+ I haven`t been bored since I joined him.
+ Gonna take a lot to get me to stop riding with the YCSG."
+ (talking),出てくんなよ…… うざってえッ！！,Fuck off... you`re a pain in the ass!!

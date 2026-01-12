@@ -1,0 +1,1405 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆吹雪 = 10:,{☆吹雪 = 10:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 2:,{麦 = 2:
+__system__??,{B忠誠タイプ = 3:,{B忠誠タイプ = 3:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 4:,{麦 = 4:
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,},}
+__system__??,{麦 = 12:,{麦 = 12:
+__system__??,{H愛欲抵抗 <= H愛欲:,{H愛欲抵抗 <= H愛欲:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,{H物欲抵抗 <= H物欲:,{H物欲抵抗 <= H物欲:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+__system__??,{麦 = 18:,{麦 = 18:
+__system__??,},}
+__system__??,{麦 = 5:,{麦 = 5:
+__system__??,},}
+__system__??,{麦 = 19:,{麦 = 19:
+__system__??,},}
+narrator,山林吹雪　こましでるかい？ 　　デバッグ（,山林吹雪　こましでるかい？ 　　デバッグ（
+narrator,）,）
+Yamamoto Akuji (talking),"………………
+ ……ったく、やっと来やがったか。","...
+ ...Sheesh, you`re finally here."
+Sanrin Fubuki (talking),………………ぜーはー、ぜぇ……,...Wheeze... wheeze...
+Yamamoto Akuji (talking),おいコラ、おせーぞ吹雪。 呼び出しかけてから どんだけ経ったと思ってんだ？,"You`re late, Fubuki. How long do you think it`s been since I called for you?"
+Sanrin Fubuki (talking),"すみません、ちょ……ちょっと、 ちょっとだけ……遅れました……
+ …………っく、う…… ぜぇ、ぜぇっ……","Sorry, I... I was just... a bit late...
+ ...Kh, ugh... wheeze..."
+Yamamoto Akuji (talking),……？ 何でそんな息切らしてんだ、おめー。,...? Why`re you so winded?
+Sanrin Fubuki (talking),せ、折角ですから……そ、その、 少し……と、遠回りして、 ランニングして……こようかと…………,I-I thought it was a good opportunity... so I took the long way here for a run...
+Yamamoto Akuji (talking),……んっだよ、情けねーのな。 ランニング程度でゼハゼハ言うな。,Pathetic. Don`t tell me running makes you this tired.
+Sanrin Fubuki (talking),"……りょ、両手に……その、 五キロのパワーリストつけて……
+あ、足は……十キロの、鉄ゲタで……
+そ、それで…… ぜ……全力疾走、したのが…… ま、間違いでした…………
+ …………おえっ……","I-I had... 5kg wristbands on both my arms...
+ And 10kg iron sandals...
+ Sprinting at full speed... with all that on... was a bad idea...
+ ...Ulp..."
+Yamamoto Akuji (talking),……………… アホか、おめー。,... Are you stupid?
+Sanrin Fubuki (talking),"そ、そんな事……言われても、 私、ランニングの時は……いつも、 こんな、感じ……ですから……
+ ……げほっ、げほげほっ………… うー、喉の奥で血の味がするぅ……","E-Even if you say that... I always get like this... when I go running...
+ Cough! Cough! Urgh, I can taste blood in my throat..."
+Yamamoto Akuji (talking),"………………
+おめーさあ、こんだけ鍛錬してて 何であんなに弱いんだ？","...
+ How are you so weak when you train this much?"
+Sanrin Fubuki (talking),そ、そんなの…… 私なんか、まだまだですから……,h-That`s because I still have a long way to go...
+Yamamoto Akuji (talking),……謎すぎる…………,...It really is a mystery...
+Yamamoto Akuji (talking),……おう、来たな。 時間ピッタリだ。,"...Ah, there you are. Right on time."
+Sanrin Fubuki (talking),………ぜーはー、ぜぇ…… す、すっ飛ばして来ましたから……,...Wheeze... I-I sprinted all the way here...
+Yamamoto Akuji (talking),汗だくだもんな、見りゃ解るよ。,I can tell from your sweat.
+Yamamoto Akuji (talking),ほれ吹雪、俺の部屋へ行くぞ。,"Come to my room, Fubuki."
+Sanrin Fubuki (talking),"えっ、あ…………
+ …………もぉ…… もっとロマンチックに 言ってくれてもいいのに……","Huh?! Ah...
+ ...Geez... You should be more romantic about it."
+Yamamoto Akuji (talking),ロマンチックに言わなきゃダメか？,Do I HAVE to?
+Sanrin Fubuki (talking),ううん、そんな事ない…… ……抱いて下さい…………,I won`t force you. ...Please do me...
+Yamamoto Akuji (talking),"よしよし。
+柔軟体操の代わりになるくらい、 すんげー体位でヤってやるからな。","Good girl.
+ I`ll make you feel like a gymnast on an apparatus."
+Sanrin Fubuki (talking),……やだもう、悪司さんのエッチ……,"Geez, you perv..."
+Sanrin Fubuki (talking),山林吹雪は、悪司に抱かれた。,Akuji fucked Sanrin Fubuki.
+Yamamoto Akuji (talking),しっかし、修行ばっかやってて面白いか？ 人生、他にも楽しみあんだろ。,Is training that much even fun? Life has more to offer.
+Sanrin Fubuki (talking),？　例えば何が？,? Such as?
+Yamamoto Akuji (talking),セックス。,Sex.
+Sanrin Fubuki (talking),うわっ最低。,"Wow, you`re the worst."
+Yamamoto Akuji (talking),それを最低という根性が解らん。 何なら天国見せてやろうか？,Lemme change your mind by taking you to heaven.
+Sanrin Fubuki (talking),"遠慮しますっ。
+人として、安易に快楽を得ようだなんて そもそも間違ってるんです！
+エッチしてる小一時間の時間があれば、 腕立てや腹筋が何回できますか？ マラソン何キロ走れますか？","I`ll pass!
+ As a person, it`s wrong to have pleasure so irresponsibly!
+ How many push-ups could you do instead of having sex? How many kms could you run?"
+Yamamoto Akuji (talking),……セックスの快楽を、 ランナーズ・ハイで 代用しようってのか……,...You`re telling me to replace sex with runners` high?
+Sanrin Fubuki (talking),私はもっともっと 強くならなきゃいけないんだから！ 色事に溺れている暇はないんです！,"I have to get way, way stronger! I don`t have time for carnal pleasures!"
+Yamamoto Akuji (talking),…………ま、頑張れや。,"...Well, do your best."
+Yamamoto Akuji (talking),ほれ、ボーナスだ。 好きに使え。,"Here, a bonus. Use it however you like."
+Sanrin Fubuki (talking),"わっ………… こ、こんなにいっぱい……
+こ、これ、 本当に好きに使っていいんですか？","Wah...! Th-There`s so much...
+ C-Can I really do whatever I want with this?"
+Yamamoto Akuji (talking),おめーにやった金だ、とーぜん。,"It`s your money now, so yeah."
+__system__??,{RND = 1:,{RND = 1:
+Sanrin Fubuki (talking),よ……良かった！ 腹筋マシーンとベンチプレスと 新しいサンドバッグが欲しかったの~！,A-Alright! I`ve been wanting a new sandbag and squat rack!
+__system__??,},}
+__system__??,{RND = 2:,{RND = 2:
+Sanrin Fubuki (talking),あ……ありがとうございます！ これでランニングシューズとグローブと 空手家養成ギブスが買える~！,Th-Thank you! Now I can buy new running shoes and karate gloves!
+__system__??,},}
+__system__??,{RND = 3:,{RND = 3:
+Sanrin Fubuki (talking),ふ……ふふふふ………… 二泊三日のロッコウ修行登山ツアーに これで参加できるわ！！,"Heh, heheheh... Now I can go on a 3-day training trip in the Rokkou mountains!"
+__system__??,},}
+Yamamoto Akuji (talking),……………… 全部、躰鍛える事に使う気か……,"...You don`t mean to spend it  all on training, do you?"
+Sanrin Fubuki (talking),そうですけど、それが何か？,"I do, what about it?"
+__system__??,{☆吹雪 < 12:,{☆吹雪 < 12:
+Yamamoto Akuji (talking),無駄遣いだ…… 無駄遣い以外の何でもねぇ……,"That`s a waste... A total, absolute waste."
+__system__??,},}
+__system__??,{☆吹雪 > 11:,{☆吹雪 > 11:
+Yamamoto Akuji (talking),まあ、成果出てるみたいだしな。 頑張れや。,"Eh, guess it`s getting results. Keep at it."
+__system__??,},}
+Yamamoto Akuji (talking),よう、激弱ねーちゃん。 地下に閉じこめられた気分はどう……,"`Sup, wimpy missy. How`s it feel being impris-"
+Sanrin Fubuki (talking),死ねーーー悪漢めーーーーーー！！,"DIE, RUFFIAN!"
+narrator,連れて来られると同時に、 吹雪は悪司に向かって飛びかかった！,"When she was brought in, Fubuki jumped at Akuji!"
+Sanrin Fubuki (talking),"くらえーーーーー！！ じゃぶ、じゃぶ、りばーぶろー！ かかとおとしーーーーーーー！！
+ずつき、ずつき、ずつきーーーーー！ うちまたすかし、かいなひねり、 ろっこうざんおろしーーーーーー！！","Taaake this! Jab! Jab! Crane kick! Heel drop!
+ Heabutt, headbutt, headbutt! Uchi-mata sukashi, kaina-hineri, Rokkouzan-oroshi!"
+Yamamoto Akuji (talking),やかましい。,Shut up.
+narrator,　　［ぺちっ］,*Whack!*
+Sanrin Fubuki (talking),はうあっ…………しおしおしお……,Hauugh! ...owowow...
+Yamamoto Akuji (talking),"頭を一発しばいただけで よくもそんなに効くなぁ……
+この弱さ、マジで天然記念物級だな。 ……ほれ、しっかりしろ、立て。","Can`t believe a little punch was that effective...
+ You could be history`s weakest person. ...Come on, stand up."
+Sanrin Fubuki (talking),"うっ…………うううっ…… うううううううっ…………
+ ……うえええええええん………… うえええええええええええん………","Ugh! ...Awwwwww...waaaaaah...
+ ...Waaaaaaah! waaaaaaaaaaaaah!"
+Yamamoto Akuji (talking),……武道家みたいなカッコしたまま 泣くんじゃねぇ。ハズいから。,Don`t cry when you`re in a kimono. It`s embarrassing.
+Sanrin Fubuki (talking),"ひ……ひっく、ひっく………… もう帰して……帰してよぉ…………！
+私は道場に戻って、 お父様の跡を継ぐんだからぁ……！","Sob... sob... let me go home... let me goooo!
+ I need to go back to the dojo and continue my father`s legacy!"
+Yamamoto Akuji (talking),はーやれやれ。,Maaaan...
+Yamamoto Akuji (thinking),"しかしこいつ、どうしたもんかね……
+普通はこういう武道家みたいなヤツは 戦力になって重宝するんだが……
+ ……………………ならんな、戦力には。
+まあ、元気だけは人一倍ありそうだが ……うーん、どうしてくれよう。","Still, what`s up with her?
+ Martial artists like her are usually valuable fighters...
+ ...But she`s useless.
+ Well, at least she`s lively... Hmm, what to do?"
+Yamamoto Akuji (talking),よう、激弱ねーちゃん。 今日は飛びかかってこねぇのか？,"`Sup, wimpy missy. You not gonna jump at me?"
+Sanrin Fubuki (talking),"悔しいけど……今の私じゃ あなたに勝てないから……
+でも……でもきっと、 あなたを斃してみせるんだから！","It`s shameful, but I can`t beat you as I am...
+ B-But I`ll defintely beat you one day!"
+Yamamoto Akuji (talking),叶わぬ夢だと思うぞー。,That`s a pipe dream.
+Yamamoto Akuji (talking),あんまり益はないかもしれねぇが…… ま、ヤることヤっとくか。,"This might be fruitless, but... Guess I`ll do you."
+Sanrin Fubuki (talking),？？？ な、なに言ってるのよ……,??? Wh-What are you-
+Yamamoto Akuji (talking),まあ気にするな。,Don`t worry about it.
+Sanrin Fubuki (talking),ち、ちっ……近寄らないでよ…… ちょ、ちょっとちょっと……,"W-Wait, stay away... S-S-Stop right there!"
+Yamamoto Akuji (talking),まあいいから。まあまあ。,"It`s fine, come on."
+Sanrin Fubuki (talking),や…………やだちょ……やあああっ？！ 何してるのよおおおおおっ！！,N-No... yaaaaahn?! What are you doing?!
+Yamamoto Akuji (talking),まーまー、まーまーまー。 いいからいいからじっとしとけ。,Coooome oooon. Just stay still.
+Sanrin Fubuki (talking),"あ………………ああっ………… ………………ぁ…………
+ …………あン…………☆","Ah... aaahhh...! ...ah...
+ ...ahn...☆"
+Sanrin Fubuki (talking),山林吹雪は、こまされた。,Sanrin Fubuki was fucked.
+Yamamoto Akuji (talking),なあ、おめーなんか 欲しいもんとかあんのか？,"Hey, is there anything ya want?"
+Sanrin Fubuki (talking),？？？,???
+Yamamoto Akuji (talking),"服でも宝石でも金塊でもいいぜ、 そいつを都合してやるから、 俺の部下に…………
+ ……いや、待て。
+こいつ相手に、何百万、いや何十万、 いやいや数万円かかっただけでも 俺的には赤字だよなー……","Clothes, money, you name it and I`ll hook you up, so work for me-
+ ...No, wait.
+ Even if I were to pay this chick peanuts, I`d still be getting ripped off..."
+Sanrin Fubuki (talking),ど……どういう意味よ。,Wh-What do you mean?
+Yamamoto Akuji (talking),人間の価値は相対的なんだ。 俺個人の判断だから気にするな。,Everyone has a different worth. Just my opinion.
+Sanrin Fubuki (talking),………………………… 何だか、バカにされてる気がする……,...I feel like you`re making fun of me...
+Yamamoto Akuji (talking),なあ、おめーは結局、 強くなりたいってのが目的な訳だよな？,"Hey, your goal is basically to become stronger, right?"
+Sanrin Fubuki (talking),そうだけど……それが何よ。,Yes... What about it?
+Yamamoto Akuji (talking),だったらおめー、 俺の部下になってここで働け。,Then come work under me.
+Sanrin Fubuki (talking),どっ、どうしてそうなるのよおっ！ 誰があなたみたいな悪漢の下で……,Wh-Why should I?! Who`d ever work for a villain like you?
+Yamamoto Akuji (talking),"強くなるには、 実戦重ねるのが一番はえぇからな。
+今みたいな情勢不安のオオサカで 管理組合に入れば、闘う相手に 不自由しねぇぜ。どうよ？","`Cause battle experience`s the best way to become strong.
+ If you join a RMG in these troubled times, you`ll have no shortage of opponents. Well?"
+Sanrin Fubuki (talking),"な、なるほど……一理あるかも。
+う~ん…………うう~ん…… うううううううう~~~~ん…………
+ ……解ったわ、部下になる。 ここで強くなって、道場主として ふさわしい実力を身につけるんだから！","I-I see... you do have a point.
+ Hmmm... hmmmmmmmmmmmmmmmmm...
+ ...Okay, I`ll do it. I`ll become strong enough to be worthy of taking over the dojo!"
+Yamamoto Akuji (talking),よしよし、いいガッツだ。 頑張れよー。,"Nice, I like your enthusiasm. Do your best."
+Sanrin Fubuki (talking),ええ、バリバリ闘うんだから！,"Yeah, I`ll fight to my last!"
+Yamamoto Akuji (thinking),"……なーんつっても、 戦力としては全然アテにしてねぇけどな。
+当面は事務処理でもやらせよう。 給料分だけ働かせりゃＯＫだしな。
+で、それすら使えなかったら……
+ ……まあ、 途中で捨てりゃいいわな。","So she says, but doesn`t seem like she`ll be any useful in a fight.
+ I`ll have her push paper for now. All`s good as long as she`s worth her pay.
+ And if she can`t even do that...
+ ..Well, I`ll just  discard her then."
+Yamamoto Akuji (talking),…………吹雪、こっち来い。,"...Fubuki, come with me."
+Sanrin Fubuki (talking),えっ、な……何で…………,Huh? Wh-Why...?
+Yamamoto Akuji (talking),来たくないのか？,You not coming?
+Sanrin Fubuki (talking),"…………
+意地悪……","...
+ Meanie..."
+narrator,吹雪が歩み寄ってくると、 悪司は彼女の躰をぎゅっと抱きしめた。,"Once Fubuki had approached, Akuji tightly embraced her body."
+Sanrin Fubuki (talking),あ…………,Ah...
+Yamamoto Akuji (talking),"……吹雪、俺の女になれ。 いいな？
+そして、俺のために働いてくれ。","...Fubuki, become my woman. Okay?
+ And work for me, too."
+Sanrin Fubuki (talking),"…………はい…… 悪司さんが望むなら……
+ああ、私……女に生まれた悦びを 今この時感じています……","...Okay... If that`s what you want...
+ Aah, I`m so happy to have been born a woman..."
+Yamamoto Akuji (talking),うんうん、そーかそーか。,Very good.
+Sanrin Fubuki (talking),"武道家である前に、 私も一人の女だったんです……
+ああ、もう離れられない…… 悪司さん…………","I`m a woman first, and a martial artist second...
+ I can`t leave you anymore, Akuji-san..."
+Yamamoto Akuji (talking),よしよし、んじゃ事務所に行くぞ。 まずは給与明細の整理を手伝ってくれ。,Then let`s go to the office. Help me with the paychecks.
+Sanrin Fubuki (talking),"………………はい？
+あ、あの、抱いてくれないんですか？ 私もう準備ＯＫなんですけど……","...Excuse me?
+ U-Um, aren`t you gonna sleep with me? I`m all ready..."
+Yamamoto Akuji (talking),ちゃんと働いてくれたらな。 ご褒美で抱いてやる。,"If you work hard, I`ll fuck you as a reward."
+Sanrin Fubuki (talking),………………うう、ちょっと不満……,"...Ugh, this kinda sucks..."
+narrator,"オオサカ最強と唱われた熱拳流格闘術、 その総本山がここ、熱拳道場である。
+最盛期には四つの支部を持ち、三百名を下らない 大勢の門下生たちが日々汗を流していた。
+支部はもう残っていないのだが、 幸いにもこの本部だけは戦火を免れていて、 今も武を志す者たちに対し門戸が開かれている。
+ ──だが。","This is the Burning Fist Dojo, the HQ of the Burning First School of unarmed combat,
+ revered as the strongest in Osaka. During its peak, it had four branches
+ and no fewer than 300 disciples. this HQ was spared from the fires of war and remains open to those who aspire to train.
+ --However."
+seinen (talking),それじゃ……お世話になりました。 お嬢さんもお元気で。,Thanks for everything until now. Take care.
+Sanrin Fubuki (talking),"ちょ、ちょっと……！ ちょっと待ってってば！
+お願い、考え直して！ あなたが最後の門下生なのよ！？ 今辞められたら…………","W-Wait! Hold on a second!
+ Please, think this over! You`re our last disciple! If you quit now..."
+seinen (talking),"……これでも僕は、 我慢し続けてきたんですよ。
+あなたのお父さんが…… 山林風雪（さんりん・ふうせつ）先生が 戦地で玉砕して………………
+そして、師範や師範代も 同じように帰らぬ人に……
+事実上、熱拳道場は 戦時中に終わっていたんです。
+先生や師範への恩義だけで 今まで居残っていましたけど、もう…","...I`ve been putting up with it, you know. Your father... Fuusetsu Sanrin-sensei
+ faced an honorable death on the battlefield... And so did the instructor
+ and his assistant... The Burning Fist Dojo was effectively
+ finished during the war. I`ve remained out of respect for Sensei
+ and the instructors, but I can`t..."
+Sanrin Fubuki (talking),"そんな哀しいこと言わないでよぉ！
+お願い、私もっと頑張るから、 昔みたいにお弟子さんが来てくれるように 一生懸命修行して強くなるからっ……
+お願いだから……行かないで…………","Don`t say something so miserable!
+ Please, I`ll train harder and become strong enough to attract as many pupils as we used to, so...
+ Please... don`t leave..."
+seinen (talking),"………………
+あぁもう泣くなってこの、 ここまで来たらウゼーだけだってば。 いっそはっきり言ってやろっか？","...
+ Look, crying at this point just makes you annoying. How about I give it to you straight?"
+Sanrin Fubuki (talking),………………ほ、ほへ……？,...H-Huh...?
+seinen (talking),"あんたなー、弱すぎんだよ。 ほんとに風雪先生の娘さんなのか？ ぜんっぜん信じられねぇよ。
+悪いこと言わねぇからさあ、 武道なんかやめちまいなって。 才能ゼロなんだからさー。","You`re too weak. Are you really Fuusetsu-sensei`s daughter? I can`t believe it.
+ You should quit martial arts, for your own good. You got no talent."
+Sanrin Fubuki (talking),……あ…………あう……,...Ah... auuu...
+seinen (talking),"要するにな、 俺みたく一度でもマジメに 武道を志した身だとな……
+あんたみたいなヤツの下で 稽古しなきゃなんないこと自体が すんげー恥なわけ。解る？","In short, anyone who`s taken martial arts seriously even once in their lives...
+ ...would be ashamed of having to train under someone like you. Understand now?"
+Sanrin Fubuki (talking),………………が~~~~ん………………,...No waaaaaaay...
+seinen (talking),"“お願い響君っ！ 　お父様の道場を潰したくないのぉ！”
+ ……だけでやっていけるほど、 世の中甘くねぇんだからさっ。ね？
+な、いい男みっけて家庭にでも入れって。 ウィミィ的に自立した女目指すにしても 他にいくらでも職業あるしさ。","”Please, Hibiki-kun! I don`t want to destroy my father`s dojo!”
+ ...Think the world`s a nice enough place to get by with that? Find yourself
+ a good man and start a family. Or be like those Wime women and become an independent woman."
+Sanrin Fubuki (talking),ああああ…………だあああああ……,Aaaah... aaaah...
+seinen (talking),んじゃっ、そういう事で。 元気でやんなよ~、吹雪ちゃ~ん。,"So, that`s that. Take care, Fubuki-chan~."
+Sanrin Fubuki (talking),"………………
+ど、どうしよう…… ほんとに私だけになっちゃった……
+ぐすっ……ううっ、ひっく………… どうしよう、どーしたらいいんだろう……
+ ………………
+ …………ま……負けないもん、 私はお父様の娘なんだもん、 へこたれたりしないんだからっ。
+たとえ独りきりになったって、 熱拳道場は続けていくんだからっ！
+ ………………
+ ……うえええええええん………… 続けていくんだからぁ…………","...
+ Wh-What should I do...? Now I really am the only one left...
+ Sniff... hic... waaah... What should I doooooo?
+ ...
+ ..I-I won`t lose... I`m Fuusetsu`s daughter! I won`t lose heart!
+ I`ll keep the Burning Fist Dojo alive, even if by myself!
+ ...
+ ...Waaaaaaah...! I`ll keep it aliiiiive...!"
+narrator,"彼女──山林吹雪は、 その場にへたり込んで大声で泣き始めた。
+そして、泣きながら思う。 私の人生にドン底の時期があるというのなら、 今がその時に違いない、と。
+同時に彼女は、なけなしのガッツを振り絞る。 ドン底にまで落ちたのなら、 あとは上がっていく一方なんだから、と。
+だが、彼女の人生のドン底には、 まだまだ、まだまだ、 深く暗い先があったのだった──","The girl - Fubuki Sanrin - sunk to the floor and bawled her eyes out.
+ As she cried, she thought that, if there was ever a moment in life where she`d hit rock bottom, this was it. At the same time, she strenghtened what little spirit
+ she had left - if she`s at rock bottom, then she can only go up. However, the actual lowest
+ point of her life was a much lower, darker place, one that had yet to come--"
+Sanrin Fubuki (talking),"……よおし、ランニングを兼ねた 新聞配達と牛乳配達のアルバイト、 とりあえず終わり！
+さあ、稽古よ稽古、修行よ、特訓よ！ たとえ独りでも、一日たりとも サボったりしないんだから！
+たあ！　正拳突き！　せあ！　裏拳！ ハイキック、ローキックーーーー！！","...Alright, I finished my paper run and my milk run, and did some nice cardio to boot!
+ Now, it`s time to train, train, train! Even if I`m by myself, I won`t slack for a single day!
+ Tah! Jab! Hyah! Backfist! High kick! Low kick!"
+tattooed yakuza (talking),…………御免。,...Excuse me.
+Sanrin Fubuki (talking),えっ……あ、はーい。 どちらさまで…………,"Huh?! ...Oh, hello. Who might you be-"
+tattooed yakuza (talking),……何と、若い娘が一人きりか。 今日はこの道場、稽古を休んでいるのか？,"...Huh, a young lady by herself? Is this dojo not holding lessons today?"
+Sanrin Fubuki (talking),むっ、失礼な！　休んでませんっ！,"Hrm, how rude! We ARE holding lessons!"
+tattooed yakuza (talking),"休んでいないのなら好都合。
+我の名は山田太郎と申す。 年齢三十二歳、好きな食べ物はババロア。 趣味は道場破りだ。","That`s good to hear.
+ I`m Futorou Yamaden, 32 years old. My favorite food is bavarois, nd my hobby is crushing dojos."
+Sanrin Fubuki (talking),…………趣味悪いんですね、おじさん。,"...You`ve got a nasty hobby, old man."
+tattooed yakuza (talking),"おじさんって言うな！
+とにかく、遠方で山林風雪どのの 高名を耳にし、是非一度手合わせをと 七泊八日の旅を経て参った次第。
+という訳で。 道場主の山林風雪どのはいずこに？","Don`t call me old!
+ Anyway, after hearing about Fuusetsu-dono, I have embarked on a long journey here to fight him.
+ So with that said: where is Fuusetsu-dono, this dojo`s master?"
+Sanrin Fubuki (talking),……あ、お父様なら、 出征先で頭の上に爆雷おっこちてきて 死んじゃったんですけど……,"...Oh, Dad? While he was at his front, a depth charge fell on his head and killed him..."
+tattooed yakuza (talking),なんとーーーーーーーーーーーー！？,Whaaaaaaaat?!
+Sanrin Fubuki (talking),でも立派な最期だったんですよっ、 現地の子供を守ろうとして 盾になったんですからっ！,But it was a noble death! He used his body to shield the children present at the scene!
+tattooed yakuza (talking),"む、むう……そうか。 それはお悔やみ申し上げる……
+では、この道場で最も強い者を 呼んで頂きたい。","Hrm... I see. That is most regrettable...
+ Then please call the strongest person in this dojo."
+Sanrin Fubuki (talking),…………どうして？,...Why?
+tattooed yakuza (talking),どうしてってあんた、 さっき趣味は道場破りって言ったの 聞いとらんかったのか？,"What do you mean, why? Didn`t I tell you my hobby is crushing dojos?"
+Sanrin Fubuki (talking),"………………
+どっ、どどどどど道場破りーーーー！？ うっそーーーーーーーー！！","...
+ C-C-C-C-Crushing dojos?! No waaaaaaaay!"
+tattooed yakuza (talking),"嘘って言われても…… 名高い熱拳道場なら道場破りくらい しょっちゅう来るだろうに…………
+まあ、いいから、ほれ。 早く道場で一番強い奴連れてこい。","Come one, now... The famous Burning Fist Dojo must get challengers like this all the time.
+ Well, whatever. Hurry and bring out your strongest fighter."
+Sanrin Fubuki (talking),………………私よ。,...It`s me.
+tattooed yakuza (talking),何？,What?
+Sanrin Fubuki (talking),だって、 道場で一番強い人って言われても、 私だけなんだもん。,"I mean, you called for our strongest fighter, right? I`m the only one here."
+tattooed yakuza (talking),む……小娘と思っていたが、 何という自信よ……！,"Hrngh... I thought you were just a kid, but what self-confidence...!"
+Sanrin Fubuki (talking),自信……？,Self-confidence...?
+tattooed yakuza (talking),他の門下生をさしおいて、 “最強と言えば私しかいない”と こうも胸を張って言い切るとは！,To think you`d disregard the other disciples and proudly claim to be the absolute strongest here!
+Sanrin Fubuki (talking),あ、あの……あのね、そうじゃなくて、 私しかいないって言うのは、 単に事実を述べたまでで…………,"U-Um... you`ve got it wrong, when I said I`m the only one here, I was stating a fact..."
+tattooed yakuza (talking),事実を述べたまでだと……！？ そこまで己が腕に 覚えがあると言うのか、娘よ！,"Stating a fact...?! Am I to understand you believe that in your heart of hearts, kid?!"
+Sanrin Fubuki (talking),"いや、だから、そのぉ……
+ ……ええいもう、面倒臭いなぁ。 あなたと勝負すればいいのよね？","No, what I`m trying to say is-
+ ...Oh screw it, this is a pain. I just have to fight you, right?"
+tattooed yakuza (talking),"その通りよ、娘！
+ ……ときに、 勝負前の作法として聞いておく。 お主の名は何と申す？","Exactly, kid!
+ ...By the way, before we begin,、 etiquette demands that I ask: what is your name?"
+Sanrin Fubuki (talking),えっ？　山林吹雪だけど……,Huh? I`m Fubuki Sanrin...
+tattooed yakuza (talking),"なるほど、そうか……！ 風雪どのの娘子という訳か！
+面白い、ならば風雪どのの血脈たる証、 とくと見せてもらおうではないか！
+いざ、勝負！","Ah, now I understand! So you`re Fuusetsu Sanrin`s daughter!
+ Interesting! Now, won`t you show me the proof that you`re his flesh and blood?!
+ Let`s fight!"
+Sanrin Fubuki (talking),応っ！！,Right!
+tattooed yakuza (talking),まずは小手調べ！ 空手チョーーーーーーーーーップ！,Let`s start with a little test! Karate chooooop!
+narrator,　　［びしいいいいいっ！！］,*WHACK!*
+Sanrin Fubuki (talking),…………………………きゅう……ばたん。,...kyuu...gweh.
+tattooed yakuza (talking),"………………
+勝った……のか？
+ちょ、ちょっと待てーーーい！ 勝負開始から三秒も経って おらんではないかーーーーーーー！！
+こ、これで最強か…… こんな奴と闘いたくて、 七泊八日の旅をしてきた訳では……
+……あほらしい、田舎へ帰ろう…………","...
+ Did I... win?
+ H-Hold on! It hasn`t even been three seconds since we started the fight!
+ SH-SHE`S the strongest...? I traveled for a whole week to fight her...? ...This is stupid, I`m
+ going back to the sticks..."
+narrator,"──数時間後。
+気絶し、ぴくりとも動かなかった吹雪が、 ようやく両の目を開けた。","--A few hours later.
+ The passed-out Fubuki finally opened her eyes."
+Sanrin Fubuki (talking),"あ……あいたたたたた………………
+あっ、あれっ？ 道場破りは！？
+ ………………
+そ、そうか…… 私、負けちゃったんだ……
+ああっ、お父様ごめんなさい…… 私、道場の看板に泥を塗っちゃった……！
+くそー！　くそーーーーー！！ くそおおおおおおおおおおーーーー！！
+ ………………
+ ……うえええええええん………… 負けちゃったよおおお………… うえええええええええええん………","O-Owwwww...
+ O-Oh?! What happened to the challenger?!
+ ...
+ I-I see... I lost...
+ Aah, I`m sorry, Father! I threw our dojo`s name in the mud!
+ Shit! Shit! Shiiiiiiiiiiiiiiiiiit!
+ ...
+ Waaaaaaaah... I looooost! Waaaaaaaaaaaaaah..."
+narrator,──その日も道場では、 山林吹雪が無駄な稽古を繰り返していた。,It was another day in which Fubuki futilely trained in the dojo.
+Sanrin Fubuki (talking),"せいっ、せいっ、せいいいいいっ！ 破！　破っ！　はああっ！
+ ………………ぜえ、ぜえっ…… つ、疲れた、ちょっと休憩……","Sei! Sei! SEEEEEI! Hah! HAAAAAAAH!
+ ...Wheeze... I`m beat... Time for a break."
+Yume's Manservant (talking),……おや？　お嬢さん。,"...Oh, young lady?"
+Sanrin Fubuki (talking),………………？,...?
+Yume's Manservant (talking),まだ稽古を続けていらしたのですか？ あれほど無駄だと申しましたのに……,You`re still training? I`ve told you it`s pointless...
+Sanrin Fubuki (talking),…………きっ……きっさまーーーーーー！ 熱拳七人衆！　この裏切り者ーーーーっ！,...Y-YOOOOU! One of the Seven Fists! You damn traitor!
+Yume's Manservant (talking),裏切り者とは言いがかりですよ。 我ら七人はきちんと断ってから辞めて、 こうして各人けじめをつけて顔を……,We`re no traitors. We Seven Fists all quit properly and started anew-
+Sanrin Fubuki (talking),うるさーーーーーいっ！！,SHUT UUUUUP!
+Yume's Manservant (talking),あと、私はもう 熱拳七人衆ではありません。 那古神様の僕その四です。,"Also, I`m no longer one of the Seven Fists. I`m the Goddess` Servant no.4."
+Sanrin Fubuki (talking),"うるさいうるさいうるさいうるさい、 うーーるーーさーーーーーーーいっ！！
+あなたたちねえ、そこまで強くなったのは 誰のお陰だと思ってるのよっ！ お父様のお陰でしょうに！
+その上、戦地で生き残って 何とか帰ってきてくれた たった七人だけの高弟だったのにいっ！
+あなたたちが中心になってくれたら 道場の再興なんてすぐだったのにいっ！
+これが……これがっ、 裏切り者でなくって何なのよおっ！","Shut up shut up shut up SHUT UUUUUUUUUP!!!
+ Who do you THINK made all of you so strong?! It was Father!
+ And you were the only seven top disciples who survived the war, too!
+ We could`ve easily revived the dojo with you all here!
+ If you`re not traitors, then what are you?!"
+Yume's Manservant (talking),そんなこと言われたって……ねえ。 那古神様が大事なんですから 仕方ないじゃないですか。,Even if you say that... The Nako Goddess is too great to not serve.
+Sanrin Fubuki (talking),"あーもう！　那古教、那古教、 由女だの聖女だのって、何よっ！
+いらいらするー！　ムカつくー！！ あんなイカサマ宗教なんかーーー！！","Geez! Cult this, Yume that, Saint those, enough of it!
+ I`m pissed! You fell for that scam of a cult!"
+Yume's Manservant (talking),……那古神様のお教えを馬鹿にしたり、 軽々しくご尊名を口にしないで下さい。 いくらお嬢さんでも怒りますよ？,Do not say Her name in vain or belittle Her teachings. I`ll get mad even at you.
+Sanrin Fubuki (talking),"何が怒りますよ、よっ！ それこそこっちの台詞よ！！
+だいたい、裏切り者が今更、 この熱拳道場に何の用なのよっ！","YOU`LL get mad?! I should be the one saying that!
+ And what does a traitor even want with the dojo?!"
+Yume's Manservant (talking),"ああ、ロッカーの上の方に、 ポンカンアメが隠したままだったのを 思い出しまして。
+那古神様は時々お菓子を口になさるので 差し上げたらお喜びになるかなあ、と。","Right, I remembered someone kept some orange candy in the locker next to mine.
+ The Goddess would surely to partake in those."
+Sanrin Fubuki (talking),"そっ……その程度のことで、 よくもノコノコと！
+その態度、ぜーーーったい許せないっ！ 今は亡きお父様に代わって 私が教育し直してやるーーーーーっ！！","H-How dare you come back here for that reason!
+ I won`t forgive that attitude! I`ll re-educate you in the name of my late Father!!"
+narrator,吹雪は、由女の僕その四に飛びかかった。,Fubuki jumped at the Nako Servant.
+Sanrin Fubuki (talking),"…………むんずと胸ぐらを掴んで！
+くらえっ、背負い投げ！","Got your collar!
+ Take this! Seoi nage!"
+Yume's Manservant (talking),…………………………,...
+Sanrin Fubuki (talking),"あ……あれ？ こ、この……びくとも……
+なんの、諦めないんだから！ せおいなげ、せおいなげっ、 せおいなげーーーーーーーーっ！！","O-Oh...? Y-You`re not budging...
+ But I won`t give up! Seoi nage, seoi nage, seoi nageeeeeeeee!!!"
+Yume's Manservant (talking),…………………………,...
+Sanrin Fubuki (talking),"ぜえっ、ぜえっ……この、 攻め方を変える必要がありそうね！
+たあっ！ おおそとがり、からてちょっぷ！ きっく、きっく、きっくーーーーー！！","Wheeze... looks like I gotta change my approach!
+ Taaah! O soto gari! Karate chop! Kick! Kick! KIIIICK!"
+Yume's Manservant (talking),"…………………………
+ ……吹雪お嬢さん。 あなたのお父上の風雪師匠は そりゃもう本当に、鬼のように強かった。
+でも、あんた弱すぎ。","...
+ ...Young lady. Your father, Master Fuusetsu, was truly, monstrously strong.
+ But you`re too weak."
+narrator,由女の僕その四は、 飛んでいる蚊でもしばき落とすように 吹雪の頭をペチッと叩いた。,Servant no.4 slapped Fubuki`s head as if he were swatting down a mosquito.
+Sanrin Fubuki (talking),…………………………きゅう……ばたん。,...Kyuu... gueh.
+Yume's Manservant (talking),はぁ…… ダメすぎて何も言えん…………,Maaan... You`re so hopeless.
+narrator,──数時間後。 気絶し、ぴくりとも動かなかった吹雪が、 ようやく両の目を開けた。,A few hours later. The passed-out Fubuki finally opened her eyes.
+Sanrin Fubuki (talking),"あ……あいたたたたた………………
+ ………………
+ま、また……また負けちゃった…………
+うえ…………うええええええええん。 うえええええええええええええん……
+口惜しい……口惜しいよぉ………… もっと、もっと強かったら…………
+ ……ひっく、ひっく………… どうして、どうしてよぉ………… 私、お父様の娘なのにいぃ………………
+うええええええええん…… うえええええええええええええん……","O-Owwwww...
+ ...
+ I-I... I lost again...
+ Wah... waaaaaaah! Waaaaaaaaaaaah!
+ This is so frustrating... If only I were stronger...
+ Hic... sob... Why...? Even though I`m Father`s daughter...!
+ Waaaaaaah... Waaaaaaaaaaaaah...!"
+narrator,山林吹雪はその日、額に薄汗をにじませて、 一人懸命に広い道場へ雑巾をかけていた。,Sanrin Fubuki was diligently cleaning the spacious dojo by herself.
+Sanrin Fubuki (talking),"…………ふう、ふう…… や、やっと半分……
+私一人しかいないし、 モップにしたら楽だと思うけど……
+ ……お父様、吹雪はきちんと お父様の言いつけを守っています。 モップなんか絶対使いません。
+掃除も、稽古の内なんだから。 正しい心と真の強さは 綺麗な道場でないと育まれないんだから…
+ふう、ふう…………ふう…… よいしょ、よいしょ………………","Haah... haah... F-Finally halfway done...
+ I`m by myself, so using a mop would be way easier...
+ ...But Fubuki will uphold Father`s teachings. I will never use a mop.
+ This is training, too. True strength will never flourish in a dirty dojo.
+ Haah, haah... phew. Gotta do this again..."
+ (talking),……へっへっへ。 美味そうなケツがゆらゆら揺れてらぁ……,"...Heheheh. Yeah baby, shake that ass some more."
+Sanrin Fubuki (talking),………ひえっ！？　きゃあっ……！,...Hyah?! Kyaaah!
+narrator,"突然どこからか声をかけられて、 驚いた吹雪はすってんころりと転んでしまった。
+慌てて周囲を見渡すと、いつからそこに居たのか 掃除したばかりの道場の隅に チンピラが土足で上がり込んでいた。","The sudden voice surprised Fubuki, making her fall over.
+ As she frantically looked around, she saw a thug standing in the dojo, wearing shoes on a spot she`s already cleaned."
+Chinpira (talking),おいおいねぇちゃん、どんくさいね。 綺麗なケツに傷がつくぞ？,What a clumsy missy. You`ll get that cute ass hurt.
+Sanrin Fubuki (talking),こっ、こらああああああああっ！ 神聖な道場に土足で入っちゃダメーっ！ うんこ座りもやめなさーーーーい！！,H-HEEEEY! Don`t come into a sacred dojo with shoes on! And stop squatting!
+Chinpira (talking),おっと、そりゃ失礼。 注意書きも何もなかったんでね。,"Oops, my bad. There weren`t any signs."
+Sanrin Fubuki (talking),そんなの常識でしょーーーーーが！ 学校で武道の授業やったときに 習うでしょーーー！！,This is common sense! Everyone learns this in P.E. class!
+Chinpira (talking),へへ、俺よぉ、 学校行ってなかったからよ。,"Heh, I never went to school though."
+Sanrin Fubuki (talking),あーーもう！　ああ言えばこう言う！ 早く出ていってよ、ジャマなんだから！,"Geez, whatever! Get out already, you`re a hindrance!"
+Chinpira (talking),…………なあ、ねぇちゃん。 あんたの噂を聞いて来たんだけどよ、 いっちょ俺と勝負しようぜ。,"...Hey, missy. I`ve heard about ya, so how about we have a little duel?"
+Sanrin Fubuki (talking),勝負って……な、何よ突然！,A duel? Th-That`s so sudden!
+Chinpira (talking),へへへ…… ねぇちゃんが勝ったら 素直に出ていくからさ。,"Heheheh... If ya win, I`ll leave, no fuss."
+Sanrin Fubuki (talking),勝手なこと言ってないで！ あーもう、早く出ていって！,Don`t decide on your own! Leave already!
+Chinpira (talking),"何だよ、道場主のくせに 勝負するのが怖いのか？
+こりゃおかしーや、 道場主ってのは臆病者でも務まんのか？","What, is a dojo owner scared of a fight?
+ Didn`t know cowards could own dojos."
+Sanrin Fubuki (talking),"…………かちんっ。
+上等じゃない、素人のくせに！ あんたなんかに負けるもんですか！","...Snap!
+ Very well, you amateur! I`d never lose to you!！"
+Chinpira (talking),おうおう、そう来なくっちゃな。,That`s more like it.
+Sanrin Fubuki (thinking),そうよ、今までは私より 強い人ばっかりだっただけ。 こんなチンピラなんかにっ……,"Yeah, I`ve only been fighting guys stronger than me. This thug is nothing!"
+narrator,"──そのチンピラに、 吹雪は一方的に殴られ続けてしまった。
+どう拳を突き出しても、どう蹴りを繰り出しても、 吹雪の攻撃は全て空を切った。
+そして、吹雪はがくりと膝を折る──","The fight was a one-sided beatdown in the thug`s favor.
+ No matter how Fubuki attacked, all of her strikes missed.
+ Finally, she was brought to her knees."
+Sanrin Fubuki (talking),な…………何で……？ どうして、私………………,Why...? Why did I...?
+Chinpira (talking),"どうしても何も、 弱いからに決まってんだろ？
+ねぇちゃん、同じ躰を使うんだったら 武道なんかとっとと辞めて、 娼婦になった方がいいぜ？
+おっと……娼婦になるんだったら 顔は殴んねぇ方がよかったか。 悪いな、痣だらけにしちまってよ。","Because you`re weak, duh.
+ Maybe ya should become a whore intead of a martial artist. You`d still be usin` yer body.
+ Oh, maybe I shouldn`t have slugged you in the face, then. Sorry for the bruises."
+Sanrin Fubuki (talking),ぶっ……侮辱したなああっ…………！,H-How humiliating...!
+Chinpira (talking),"どうせ立ち上がる気力もないんだろ？ イキがってんじゃねぇよ。
+さーて、じゃ一つあんたのために、 娼婦としての適性があるかどうか 俺が調べてやるよ。
+へへっ、楽しもうぜ、ねぇちゃん……","Can ya even stand up? Don`t be such a hothead.
+ Now, just for you, I`ll check if ya got what it takes to be a whore.
+ Heheh, let`s have some fun..."
+Sanrin Fubuki (talking),"い、嫌っ……近寄らないでよ、 ちょっと、嫌だってばっ…………
+ ……いやああああああああああっ！！！","N-No! Stay away! I don`t want this!
+ NOOOOOOO!!!"
+cg narrator,"「へへっ……おらねぇちゃん、入ったぜ。 　どうよ、俺のナニはパンチよか効くだろ？」
+「い……いやあっ、やだあああっ……！ 　やめ……やめてよおっ……！　やああっ……！」
+「そう嫌がらずにノってくれよ……な？ 　俺のツバだけじゃいずれ乾いてくるしよ……」
+必死で暴れようとする吹雪の躰を押さえ込んで、 チンピラは問答無用の抽挿を始める。
+「……っ、あ！　ひぐっ……！　うああっ！ 　ああっ、うあああっ！　ひうっ…………！！」
+ずっ、ずっ、と勢いをつけて強く突かれる度に、 吹雪の口から悲鳴に近い声が上がる。
+「……ありゃ？　ちょいと血が滲んでるな…… 　よお、ねぇちゃん。初めてだったのか？」
+「うっ……うううっ、ひぐううっ……！ 　は、初めてで……悪かったわねっ…………！」
+「いやー、悪かねえよ、悪くなんかねえさ。 　へへっ、そうかい、俺があんたの最初の男かあ」
+「うぅ……呪ってやるうっ、祟ってやるうっ……！ 　お、女の祟りは三代先まで続くんだからっ……」
+「は。ちゃんちゃらおかしいぜ。 　仮にも武道家が、敵討ちとか言う前に 　呪いや祟りにすがっちまうのか？」
+「……うぐ………………」
+吹雪は心底、自分の弱さを実感してしまった。
+「へへっ、可愛いもんだ。 　何もできねえ無力な女の典型だよな。 　へ、へへ、へへへへっ……」
+「う……うるさいっ……うるさいいいっ……！ 　……ひぐっ、ううっ…………！！」
+──吹雪は強がろうとしたが、 言葉の最後が涙にむせいで濁ってしまう。
+「へへっ……いいねいいね、その悔しそうな顔。 　いかにも俺が勝ったって気になるぜ」
+チンピラは吹雪の腰に手をかけた。 そして強引に、自分が動きやすい姿勢を 吹雪に強いる。
+「あっ……ひっ！　っう…………」
+「……まあ、そんなに絶望的な顔すんなよ。 　無力で可愛い女にゃ優しくしたくなるもんだ」
+「…………なによお……何なのよおっ……！ 　馬鹿にしないでよおっ……！」
+「馬鹿になんかしちゃいねえって。 　そら、精一杯優しくしてやるからさ……」
+言って、チンピラは小さく軽く腰を揺する。
+「…………っ、う………………っく…………」
+「へへっ……どうだいねぇちゃん。 　痛くねえだろ、辛くねえだろ？」
+「……き、気持ち悪いっ…………！ 　気色悪いのっ…………！ 　……私の中で……動くなあああっ…………！」
+「へへっ、その気持ち悪さが、 　いずれ気持ちよくなってくんだよ…………」
+チンピラは、黙って腰を揺すり続ける。
+吹雪の躰を、重なり合う襞の奥までを、 突き入れた自分のもので隅々まで確認するように。
+「…………っう、うあ…………ああっ………… 　ん…………っく、う…………っ、う……」
+吹雪は目を閉じ、奥歯を噛み締める。 そして、自分を犯すチンピラの感触に 必死で耐えようとする。
+（こ……こんなの、永遠に続く訳……ないっ…… 　我慢しなきゃ、終わるまで…………）
+そう思って、必死で自分を励ます。
+けれど、その励ましが“どうせ自分は このチンピラに勝てっこない”という諦めから 来ていると思うと、情けなくて涙が出る。
+（こ、の………この屈辱、忘れないんだから…… 　絶対、絶対忘れないんだからっ……）
+そして吹雪は、屈辱をバネにして強くなって、 必ずこの仇を取るのだと心に誓った。
+──誓ったのだが。
+「…………っ、あ…………っひ…………う…… 　うう、っう…………あ…………」
+あくまで優しく、 吹雪の中をほぐすように動き続けるチンピラに 成熟した吹雪の躰が反応を始めていた。
+敏感ないりぐちが擦られて、 本能を揺り起こす子宮口を繰り返し刺激されて。
+──屈辱を感じる自我や、強くなろうという決意が 悦楽の白い霞の中に消えていく。
+「ひ、あ…………ああっ、ふあっ………… 　うあ……あああッ…………ああっ…………」
+奥歯を噛み締め、引き結んでいた唇は いつしか解けて、甘い喘ぎ声を漏らし始める。
+「はあ、はあっ…………あ、う………… 　……っ、あ…………ああっ、っア…………」
+心臓が煩いほどに脈打ち、息が上がってくる。
+呼吸するために口が閉じられず、 開いたままの口から一筋の涎が伝い落ちる。
+そして、じっとりと肌が汗ばんでくる──
+「……へっ、その気になってきたな。 　俺のにもヌメヌメしたのが絡んできたぜ……」
+チンピラは、 ほんの少しだけ抽挿のペースを上げる。
+「……ひっ、っううッ…………！ 　ああっ、ああああっ…………ひアあっ……！」
+その、わずかな刺激の変化に、 吹雪の躰は敏感に反応する。
+強さには全く繋がっていないが、修行を通して ずっと健康を維持してきた吹雪の躰は、 女として正常に、そして充分に成熟していた。
+──たとえ初めてでも、牡が与えてくる悦楽に 牝として反応してしまう──
+内腿を伝うほどに溢れてきた淫水に、 もう、吹雪の破瓜の血は流れてしまっていた。
+「へへっ……もう充分だろ。 　……さあて、じゃあ本気で行くかあ……！！」
+チンピラが大きく腰を引く。 ──そして、吹雪の尻に自分の腰を叩きつける。
+「──────っひあアアアっ！！ 　うあああっ、あああっ……あハアあっ……！！」","「Heheh, I put it in, missy. Well? 　Dicks feel better than punches, right?」
+ 「N-Noooo! NOOOO! 　S-Stop! Stoooooop!!!」
+ 「Don`t be like that. My spit 　can`t keep ya wet forever.」
+ The thug held down the resisting Fubuki and began pistoning.
+ 「Argh! hngh! waaaah! 　Aaah! hnnngh! Noooo!」
+ Fubuki screamed with each of his powerful thrusts.
+ 「...Huh? There`s some blood... 　Hey, this your first time, missy?」
+ 「U-Uuuugh! hnnngh! 　S-Sorry for being a virgin...!」
+ 「Nah, that ain`t a bad thing at all. 　Heheh, so I`m your first, eh?」
+ 「Ugh... I`m gonna curse you! 　A-And a woman`s curse is eternal!」
+ 「Hah, that`s so funny. What kinda 　martial artist tries to curse 　someone before beating them?」
+ 「...Ugh...」
+ Fubuki realized how weak she was.
+ 「Heheh, you`re cute. A perfect 　example of a weak and powerless chick. 　Heheh, heheheh!」
+ 「Sh-Shut uuuuup...! 　hnnnnngh!」
+ Fubuki tried to act tough, but her words became lost in her tears.
+ 「Heheh, I like that frustrated face. 　Really makes me feel like I`ve won.」
+ The thug put his hands on Fubuki`s hips, then forced her into a position that facilitated his thrusts.
+ 「Ahh! eek! hngh...!」
+ 「...Hey, don`t look so hopeless. 　Cute, weak women make me wanna be gentle.」
+ 「Wh-What the hell?! 　Don`t make fun of me!」
+ 「I`m not. Look, I`m doin` 　my best to be gentle here...」
+ With that, the thug moved slowly.
+ 「...! nh... kh...」
+ 「Heheh, how `bout it, missy? 　It doesn`t hurt now, right?」
+ 「I-It feels disgusting...! 　It`s making me sick! 　Don`t move inside meeee...!」
+ 「Heh, that`s gonna turn into 　pleasure eventually...」
+ The thug kept moving in silence.
+ Slowly, as if trying to feel every last fold of Fubuki`s walls.
+ 「Ugh...! aahn... 　hnngh... khhh...」
+ Fubuki closed her eyes and clenched her teeth, desperately trying to fight back against the sensation of being raped.
+ （Th-This won`t last forever... 　I gotta endure it until the end...）
+ Fubuki frantically encouraged herself.
+ But when she realized it was based on her being unable to beat the thug, she felt so pathetic she cried.
+ （I-I won`t forget this humiliaton... 　I`ll never, ever forget it...!）
+ Fubuki swore to use the humiliation as fuel to become stronger and take revenge.
+ She swore, and yet--
+ 「...! ahn... hiuuuh... 　hnnngh... ahn...」
+ Due to the thug`s gentle thrusts loosening it up, Fubuki`s body started to become flushed and sensitive.
+ Her entrance was rubbed and her womb was stimulated, awakening her instincts.
+ Her sense of humiliation and drive to become stronger were getting lost in the pleasure.
+ 「Hyaahn... aaahn, fwaaahn! 　Waaah... aaahn, aaaaahn!」
+ Her mouth slackened, and from it moans began pouring out.
+ 「Haaahn! haahn, auuuh... 　aahn... aaaahn!」
+ Her heart thumped. Her breath grew ragged.
+ A strand of saliva ran down her now wide open mouth.
+ Her skin became sticky with sweat.
+ 「...Heh, ya got turned on? 　You`re getting wet, too...」
+ The thug sped up his thrust ever-so-slightly.
+ 「Hyuuuuuh! 　Aahn! aaaahn! hyaaaaahn!」
+ That slight change made Fubuki`s body become more sensitive.
+ While it was not strong, Fubuki`s body was healthy thanks to her training, and had perfectly matured as a woman.
+ Even if it was her first time, she still reacted to the pleasure given by a man--
+ Fubuki`s hymen blood was now washed away by the juices flowing down he thighs.
+ 「Heheh, that should be enough. 　...Time to get serious!」
+ The thug thrust hard, pounding his own hips into Fubuki`s.
+ 「HYAAAAAHN! 　Waaah! aaaaahn! aaaaahhhhn!!!」"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Chinpira (talking),"……ひー、ふー…… 三発か四発はヤったか。 ふー、久しぶりに満足したぜ……
+おう、喜べやねぇちゃん。 娼婦になるんならそこそこ稼げるぜ。 初めてにしちゃ感度バツグンだよ。
+へ、へへ…… へへへへへへへ……
+ ……じゃあな。","...Did we go three or four rounds? I forgot. Been a while since the last time.
+ Chin up, missy. You`d earn some good money as a whore. Ya felt good for a virgin.
+ Heheh... Heheheheheh...
+ See ya."
+Sanrin Fubuki (talking),"な、何て…………何て事……
+素人に……素人なんかに こんな辱めを受けるなんて…………
+お父様にあわせる顔がないよ…… …………私、駄目だ…………
+…………うっ、うううっ……
+うええええええええん…… うえええええええええええええん……","I... I can`t believe it...
+ An amateur humiliated me like that...
+ I could never face Father again... I`m hopeless...
+ ...Uuuugh...
+ Waaaaah... Waaaaaaaaaah..."
+narrator,道場主の山林吹雪は正座をして目を閉じ、 瞑想にふけっていた。,"Sanrin Fubuki was meditating in the dojo, her eyes closed."
+Sanrin Fubuki (thinking),"………………
+道場破りに負けて……
+元門下生にも負けて……
+挙げ句の果てにちんぴらにも負けた……
+こんなので、 道場主なんか務まる訳がない……
+ ………………","...
+ I lost to a dojo hunter...
+ Then to a former disciple...
+ I even lost to some thug...
+ There`s no way I can be the dojo`s master like this.
+ ..."
+Sanrin Fubuki (talking),……特訓よ！　特訓あるのみ！ 強くなるしかないんだから！,...Time to train! I just have to get stronger!
+narrator,吹雪は立ち上がって、人を模した練習台を用意し、 それに向かって攻撃の構えを取った。,"Fubuki stood up, set up a practice dummy, and took up an attack stance."
+Sanrin Fubuki (talking),"まずは基本よ、基本から叩き直す！
+正拳突き三千本、始め！ せえのっ…………………………
+……？　誰、あの子たち……","First, the fundamentals!
+ I`ll start with 3000 jabs! One, two-
+ ...? Who are those girls?"
+shoujo (talking),うわー、すごいよお姉ちゃん！ まるで体育館みたい。ひろーい！,"Wow, amazing! It`s like a big gymnasium!"
+joshigakusei (talking),でしょう？ しかもここ、ずっと無人なの。 遊び場には丁度いいと思って。,"I know, right? And nobody`s ever around, so it`s a perfect hangout spot."
+shoujo (talking),こんな立派な建物なのに、 誰も使ってないのかなあ？,Nobody`s using such a splendid building?
+joshigakusei (talking),うん、誰も居ないのは 何度も確認したんだもん、 好きに使っていいよ。,"Yeah, I`ve made sure nobody comes here several times. We can use it as we like."
+shoujo (talking),よおーし！　それじゃお姉ちゃん、 バスケする？　それともテニス…………,"Alright! Then sis, do you wanna play BBall, or-"
+Sanrin Fubuki (talking),こっ……こらこらこらこらーーー！！,H-HEEEEEEEY!!!
+joshigakusei (talking),"……？　あなた誰？
+ああ、私たちと一緒で、 この廃墟でスポーツしに来たんだ。","...? Who`re you?
+ Oh, and we`re here to play sports in this abandoned place."
+Sanrin Fubuki (talking),"違う違う、ちっがーーーーーーう！！
+ここは由緒正しい拳法道場なの！ 遊び半分のスポーツなんかに 使っちゃダメ！
+ ……って言うか、 土足で神聖な道場に上がるなーーーー！！","You`re wrooooong!
+ This is the Burning Fist dojo! You can`t use it to do sports just for fun!
+ ...And don`t come into it with shoes on!!"
+shoujo (talking),……何、このヒステリババァ。 あたしのお姉ちゃんが先に見つけたのよ、 偉そうなこと言わないでよ~だ。,"Who`s this hysterical hag? My sister found this place first, so get off your high horse."
+Sanrin Fubuki (talking),だれがババァなのよーーーーーーー！！ うら若い乙女をつかまえてーーーー！！,Who`re you calling a hag?! I`m a young maiden!
+joshigakusei (talking),"あの、あなたが誰だか知りませんけど、 言いがかりつけるのやめてくれませんか？
+この道場の先生、 戦争中に死んじゃったって聞いたし、 お弟子さんもいないじゃないですか。
+ここ、もう立派な廃墟なんですから、 誰がどう使おうと…………","Look, I dunno who you are, But can you stop lying?
+ I`ve heard that the dojo master died in the war and all the disciples left.
+ This place is abandoned, so anyone can-"
+Sanrin Fubuki (talking),何が廃墟よーーーーーーーーー！！！,It is NOT abandoned!!!
+shoujo (talking),お、お姉ちゃん…… このババァ、頭おかしいんだよ、 きっと……,"S-Sister, this hag is not right in the head, for sure..."
+joshigakusei (talking),そうだね……なるべく離れて、 とにかく無視して遊ぼっか。,"Right, let`s just ignore her and go play."
+narrator,言いながら、女学生二人はバスケットボールを ドリブルさせながら、吹雪に背中を向けた。,"The schoolgirls turned away from Fubuki, then started to play basketball."
+Sanrin Fubuki (talking),こらああああああああああああっ！ 道場の床にそんなボールを ドムドム叩きつけるなーーーー！！,HEEEEEEY! Don`t bounce that ball on the dojo floor!
+narrator,吹雪は女学生に飛びかかって、 その手からバスケットボールを叩き落とす。,Fubuki leapt at the schoolgirls and slapped the ball out of their hands.
+joshigakusei (talking),あっ、痛い……！ この人、手叩いた……！,Ouch! She slapped my hand!
+shoujo (talking),お姉ちゃんに何するのよ！ 馬鹿阿呆変態、野蛮人！　ババァ！,What`re you doing to her?! You stupid barbaric hag!
+Sanrin Fubuki (talking),"ええーいもう黙って聞いていれば！ 好き勝手なこと言ってーーーーーー！！
+こうなったら道場主として 礼儀知らずな人は腕ずくでも 叩き出すんだから！
+ちょっと痛いわよ、覚悟なさいっ！！","I`ve had enough! I won`t let you keep yapping!!
+ As the dojo master, I WILL force you disrespectful brats out if I have to!
+ Get ready, this`ll hurt!"
+shoujo (talking),えっ…………あ、きゃあああああ！！,Huh?! K-Kyaaaaah!
+narrator,　　［べき！　ばき！　どか！　どげし！］,　　*Whack!* *Bam!* *Thud!* *Pow!*
+Sanrin Fubuki (talking),……………………きゅう…………こてん。,...Kyuuh... gueh.
+shoujo (talking),………………あ、あれ？,...O-Oh?
+joshigakusei (talking),だ、大丈夫？　怪我しなかった！？,A-Are you okay? Are you hurt?
+shoujo (talking),"う、うん……怪我する暇もなかった…… 腕振り回したら勝手に倒れて……
+お姉ちゃん、私、そんなに強かったっけ？ 学校の授業でやった武道の成績、 クラスの中間くらいなんだけど……","Y-Yeah, she fell over on her own after I flailed my arms...
+ Am I that strong, Sis? I don`t do that well at P.E., though..."
+joshigakusei (talking),……多分、この人が弱すぎるのね。 きっと、学生時代の武道の成績は ずっと“不可”だったのよ。,...She was probably too weak. I`m sure she used to fail P.E. a lot.
+shoujo (talking),あー、なるほど。,"Oh, I see."
+joshigakusei (talking),そのくせして、道場主とか嘘ついて…… 本当に気が触れてるのかしら、この人。,Yet she said she`s the master? Maybe she IS crazy.
+shoujo (talking),ねえ、おねえちゃん……帰ろうよ。 こんな人がいる所、なんか嫌だもん……,"Hey, Sis, let`s leave. I don`t wanna be near her."
+joshigakusei (talking),そうね、この廃墟はもったいないけど……,"Yeah, but what a waste..."
+shoujo (talking),…………このバーカ、ババァ。 そのまま死んぢゃえ！,"...You dumb old hag, you should just die!"
+narrator,"──道場の床に、倒れ伏して。
+吹雪は別に怪我などしていなかったが、 情けなくて哀しくて、起きあがれずにいた。","Fubuki lied on the floor.
+ She was unhurt, but she felt too pathetic to get up."
+Sanrin Fubuki (talking),"うっ…………ううううっ…………！ しくしくしく……うええええん……！！
+あんな、 あんな弱そうな子にまで負けた……
+うええええええええん……！ うええええええええええええん……！！","W-Waaaaah! Sniff... hic... waaaaah!
+ I-I even lost to those weak little girls...
+ Waaaaah... Waaaaaaaaaaaah!!!"
+Seinendan Jyoshi (talking),悪司さん、こちらです。,"This way, Akuji-san."
+Yamamoto Akuji (talking),おう。,Got it.
+Seinendan Jyoshi (talking),……立派な道場ですね。 流石は有名な熱拳道場です。,...What a splendid dojo. That`s the Burning Fist Dojo for you.
+Yamamoto Akuji (talking),ん？　おめーココの事知ってんのか？,Hm? You know this place?
+Seinendan Jyoshi (talking),"オオサカに住んでる人なら 誰だって噂くらいは聞いてますよ。
+オオサカ最強の熱拳道場…… 私には縁のない場所だと 思ってましたけど。
+ここの門下生さんが 仲間になって下さったら、 きっと私たち大助かりですね。","Anyone who lives in Osaka has at least heard rumors about it.
+ The unmatched Burning Fist Dojo... I always thought it had nothing to do with me, though.
+ If you can get the disciples here to join us, they`ll surely be a huge help."
+Yamamoto Akuji (talking),"そうだなー、強い奴なら いくらでも欲しいからな。
+ ……でもよ、有名な道場の割に なんか妙に寂れてねぇか？ 気配っつーか何つーか。","True, I`ll take as many tough people as I can get.
+ ...That said, for a supposedly famous dojo, doesn`t this place feel too desolate?"
+Seinendan Jyoshi (talking),えっ……そうでしょうか？ 床とかよく掃除されてて綺麗ですけど。,"Huh... really? The floor`s obviously being cleaned, though."
+Yamamoto Akuji (talking),ま、とにかく交渉してくるぜ。 おめーはここで待ってろ。,"Anyway, I`ll take a walk around. You wait here."
+Seinendan Jyoshi (talking),はい。,Okay.
+Yamamoto Akuji (talking),たのもーーーーーー。 誰かいるかーーーーーーー？,"Heeeeeeey, is anyone theeeeeeere?"
+Sanrin Fubuki (talking),…………はーーーーーーい。 どちらさまーーーー？,...Yeeeeees. Who is iiiiiiiit?
+Yamamoto Akuji (talking),"おう、 なかなか可愛らしいねーちゃんだな。
+な、ねーちゃん。 ここの責任者に会いたいんだがよ、 取り次いでくんねぇか？","Ohoh, that`s a pretty cute chick right there.
+ Hey lady, I wanna meet the one in charge here. Can you let them know?"
+Sanrin Fubuki (talking),責任者、私ですけど。,That would be me.
+Yamamoto Akuji (talking),"………………
+嘘つけ、天下の熱拳道場の責任者が おめーみてぇに弱っちそうな奴で たまるかっての。","...
+ Bullshit, no way some weak-looking girl would be in charge of the famous Burning Fist Dojo."
+Sanrin Fubuki (talking),弱っちそうで悪かったですね！,Well sorry for looking weak!
+Yamamoto Akuji (talking),"……まぁいいや、 嘘でねぇなら好都合だ。
+俺は地域管理組合の 奉仕青年団で働いている者なんだが。","...Whatever, that works out fine.
+ I work for the YCSG. We`re a RMG."
+Sanrin Fubuki (talking),……はあ。,...Okay.
+Yamamoto Akuji (talking),"で、まあその、 この周辺はうちのシマになったんだ。
+ねーちゃん、地域の巡回警護とか いざって時の相談先とか 欲しくねぇか？","So, well, this area`s become our turf.
+ Wouldn`t you like to have someone protecting the region, or who could help you in a pinch?"
+Sanrin Fubuki (talking),あ……す、すごく欲しいです！ 最近うちの道場、 子供にまで荒らされて……,"Oh, I-I`d love that! Lately even kids have been vandalizing the dojo..."
+Yamamoto Akuji (talking),んじゃ、うちの管理下に入れ。 寄付金とか上納金とか警護費とかも バリバリ出してもらおうか。,Then come under our control. I`ll have you work hard to pay the protection fees and donations.
+Sanrin Fubuki (talking),へっ？,Huh?!
+Yamamoto Akuji (talking),"つーか、この道場だけ非支配下って そんな面倒臭ぇことしてらんねぇんだよ。
+ここに住む限り、うちの管理下には 強制的に入ってもらうぜ。 異論はねぇな？　さあカネを出せ。","Hell, this dojo being the only place we don`t control`d be a pain.
+ Long as you live here, you`ll come under our control regardless. Any objections? No? Then gimme the money."
+Sanrin Fubuki (talking),いっ、嫌です！ 今はうち、お金ないんだから！,N-No way! I don`t have any money right now!
+Yamamoto Akuji (talking),"あァ？　ナメたマネぬかしてっと ケツの穴から手ぇ突っ込んで 奥歯ガタガタ言わせるぞ、コラ。
+ここは天下の熱拳道場なんだろうが。 門下生からの会費とかで 儲かりまくってんじゃねぇのか、え？","Huh? Don`t give me that bullshit, or I`ll stick my hand so far up your ass you`ll become a hand puppet.
+ Ain`t this dojo famous? ou should be raking in the dough from your disciples."
+Sanrin Fubuki (talking),……い、今は門下生いないから……,...We don`t have any disciples right now...
+Yamamoto Akuji (talking),はいはい。 ドヘタな嘘かましてんじゃねぇや。,I said quit with the obvious bullshit.
+Sanrin Fubuki (talking),"嘘じゃありませんっ！
+も、門下生は……もうすぐ…… もうすぐしたらいっぱい増えますけど…… 今はほんとに居ないんです！","I`m not lying!
+ I-I`m sure we`ll get a bunch of disciples soon... But right now, we really do have nobody!"
+Yamamoto Akuji (talking),"カネ入るアテがあんなら 今出した方がいいぞ、ねーちゃん。
+どうしても出さねぇっつーなら 腕ずくででも出させることになるぜ？","If you have any source of money, then you better cough it up now.
+ I don`t mind beating it out of you if I have to, you know?"
+Sanrin Fubuki (talking),"………………
+あの、これ、 もしかして脅迫？　恐喝？","...
+ Um, is that a threat? Are you extorting me?"
+Yamamoto Akuji (talking),"カネ出しゃあキッチリ仕事するんだ、 そんなカネだけが目当てのモロ犯罪と 一緒にすんじゃねぇ。
+まあ、脅してるっつーのは否定せんけど。","I`ll really do my job if you pay. Don`t mistake me for some petty thug. Won`t deny I`m threathening you,
+ though."
+Sanrin Fubuki (talking),"この熱拳道場を見くびらないで！ どんなに落ちぶれたって、 脅しなんかに屈するもんですか！
+出てけ、悪漢！ きーーーーーーーーーーっく！！","Don`t look down on this dojo! No matter how low it may fall, it`ll never yield to threats!
+ Get out, ruffian! KIIIIIIIIICK!!"
+Yamamoto Akuji (talking),ひょいっとな。,Hup.
+Sanrin Fubuki (talking),……がーーーーーーーーーーーーん。 せっかく不意打ちしたのに躱された！,Nooooooooo! You dodged my surprise attack!
+Yamamoto Akuji (talking),"……今のどこが不意打ちだったんだ？
+まあいいや、攻撃されたんだから 正当防衛成立な。 それ、こっちも軽く反撃きっーく。","...What part of that was a surprise?
+ But fine, you attacked me, so this is self-defense. Here, light counter kiiick."
+narrator,　　［どげし！　ばきぼきごき……］,*BAM! CRUNCH!*
+Sanrin Fubuki (talking),あ、あぅ……げはっ…………きゅう。,A-Auuu... geh... kyuu.
+Yamamoto Akuji (talking),"………………何じゃこりゃ。 看板より貧弱な奴だな。
+ま、とりあえず捕虜にしとこう。
+んで、金目のものとか 他の弟子の名簿とかは……
+ ………………
+マジかおい……何にもねぇぞ。 せっかく支配下に置いたのに 見返りナシかぁ？
+やれやれ、来なきゃ良かったぜ…… 帰ろ。","...What the hell? A baby`s tougher than her.
+ Whatever, I`ll keep her prisoner for now.
+ Now let`s see if there are any valuables, or a list of disciples...
+ ...
+ There really is nothing... I go out of my way to suppress this place and get nothing for it?
+ Fuck`s sake, I shouldn`t have come. I`m leaving."
+narrator,こうして、熱拳道場はついに無人となり、 ついに本当の廃墟と化したのである──,"Thus, the Burning Fist Dojo finally became nothing but a deserted ruin--"
+Sanrin Fubuki (talking),"………………
+あれ……？ ここ、どこ……？
+私、いつこんなところに来たんだっけ。 側に誰もいないし……
+ ……あ、嘘。女の子がいる。 ねぇ、ちょっといい？","...
+ Huh...? Where am I...?
+ When did I get here? And I`m all alone, too...
+ ..Oh, wait, there`s a girl here. Hey, do you have a sec?"
+shoujo (talking),………………,...
+Sanrin Fubuki (talking),あのね、 お姉ちゃん道に迷ったみたいなの。 ここはどこなのかな？,"You see, I think I got lost. Where are we?"
+shoujo (talking),………………,...
+Sanrin Fubuki (talking),……ねえ、ねえってば。 聞こえてる？,"Hey, I`m talking to you. Can you hear me?"
+shoujo (talking),………………,...
+Sanrin Fubuki (talking),"……うーん、遊びに集中してるのかな。
+そうやって縦に河原の石積み上げるの、 そんなに面白いの？","Hmm, maybe she`s focused on playing.
+ Is stacking stones by the riverside really that fun?"
+shoujo (talking),………………,...
+Sanrin Fubuki (talking),…………シカトしないでよぉ。,...Don`t ignore me.
+narrator,　　　「……吹雪………………吹雪よ……」,”Fubuki... Fubuki...”
+Sanrin Fubuki (talking),……？　えっ？,...? Huh?
+narrator,　　「……吹雪よ、聞こえるか……吹雪……」,”Can you hear me... Fubuki...?”
+Sanrin Fubuki (talking),"誰か呼んでる……？ 声に聞き覚えがあるけど、誰……
+ …………あ、ま、まま……まさか……！","Someone`s calling my name? That voice sounds familiar, but who-
+ Ah, n-no way, it can`t be...!"
+narrator,"吹雪は慌てて周囲を見渡した。
+すると、彼女の側を流れる川の向こう岸に 誰かの人影を見つけることができた。","Fubuki frantically looked around.
+ She saw a figure on the other bank of the river that was next to her."
+Sanrin Fubuki (talking),"……あ、ああっ……！ お父様？　お父様よね！？
+ああっ、嘘みたい！ お父様が生きてたなんて！
+お父様ーーーー！！　吹雪ですーーー！ 吹雪はここにいますーーーーー！！
+ ……ああもう、近くに橋とかないの？ 向こうに行きたいのにーーーー！！
+お父様、こっちに来られないんですか？ どこかに橋とかないんですか！？
+ ……………………あー、もう！ 私、金槌じゃないんだからいっそ…… そうよ、泳ぐのも修行のうちよ！","Aaah...! Father! Is that you, Father?!
+ I can`t believe it! So you were alive!
+ Fatheeeeer! It`s me, Fubukiiii! I`m heeeeere!
+ ...Geez, is there a bridge somewhere? I wanna go to him!
+ Won`t you come here, father? Is there no bridge?!
+ ...Ah geez! I know how to swim, so... yeah, swimming`s part of training!"
+narrator,そう決めて、吹雪は川の中に歩を進める。,"With that, Fubuki headed towards the river."
+Sanrin Fubuki (talking),"……………… えっ……？
+お父様……？ 川に入るなってことですか……？
+ ……何で？　どうして！？ どうして会っちゃだめなんですか！？ 吹雪はお父様に会いたい……
+あ……あああっ……！ 待って、いかないで！ お父様…………！
+おとうさまああああああああああっ！！","... ...Huh?!
+ Father...? You`re telling me not to enter the river?
+ ...Why? Why?! Why can I not see you?! I want to see you again, Father...
+ Ah... aaaaaah! Wait! Don`t go! Fatheeeeer! Fatheeeeer!
+ FATHEEEEEEEEEEER!"
+Sanrin Fubuki (talking),"……おとうさまああああああああっ！！
+ ………………あ、あれ？ ここは…………","FATHEEEEEEEEEEER!
+ ...Wait, what? This is..."
+kangofu (talking),ああ、良かった…… 吹雪さん、気が付きましたか？,"Oh, I`m glad... Are you feeling well, Fubuki-san?"
+Sanrin Fubuki (talking),あれ、看護婦さん？ あの、私……,"Huh, a nurse? Uh, I..."
+kangofu (talking),"あなた、ひどい怪我をして 意識不明のままここに運び込まれて……
+ここ数日、一度も目を 覚まさなかったんですよ。","You were severely wounded brought in while unconscious.
+ You`ve been asleep for several days."
+Sanrin Fubuki (talking),そ……そうなんですか？,Is... that true?
+kangofu (talking),"ええ、一時は生死の境をさまよって。
+あ、体温計りますね。 はい、体温計を脇に……","Yes, we nearly lost you for a moment.
+ Ah, I`ll check your temperature. Here, lift your arm up..."
+Sanrin Fubuki (talking),"…………
+ああ……私、また負けちゃったんだ…… ……ううっ、うううっ…………","...
+ Aah... I lost again... Waaah, aaaaah...!"
+kangofu (talking),ど、どうしたんですか？ お躰、泣くほど痛いんですか？,Wh-What`s wrong? Does it hurt bad enough for you to cry?
+Sanrin Fubuki (talking),"…………あ、い、いえ…… 躰は全然……
+ …………？ っていうか、なんかすごい調子いい…… 私じゃないみたい…………","Oh, no... My body`s fine.
+ ...? Actually, I feel more than fine... Like I`m not myself..."
+kangofu (talking),……は？,...Huh?
+Sanrin Fubuki (talking),"そうだ、あの時、お父様が最後に 何か……すごく大切なことを 言ってくれて……
+ああっ、何だったかな…… 思い出せない……
+ああっもう、私の馬鹿っ！","Right, back then, Father told me something really important at the end...
+ Aah, what was it...? I can`t remember...
+ Geez, I`m such an idiot!"
+narrator,"吹雪が苛立ち紛れに、 手渡された体温計を持つ手に力を込めると──
+ 　　［……びしっ……！］","In a fit of frustation, Fubuki clenched her hand which held the thermometer...
+ *Crack!*"
+Sanrin Fubuki (talking),……うわっ、わ、割れちゃった……,Whoa! I-It broke...
+kangofu (talking),きゃっ、だ、大丈夫ですか？,Kyah! A-Are you okay?
+Sanrin Fubuki (talking),え、あ、はい……全然。,"Huh? Oh, yeah... I`m fine."
+kangofu (talking),"良かった、手の傷に水銀でもついたら 大変でしたよ…… すぐに代わりを持ってきますね。
+でも、おかしいわねぇ…… 強化ガラスだからそう簡単に 割れないと思うんだけど…………","I`m glad. It`d be bad if the mercury got into a wound in your hand... I`ll bring another.
+ Still, that`s odd... It was made of reinforced glass, so it shouldn`t have broken so easily."
+Sanrin Fubuki (talking),"………………
+私、今まで片手じゃ お箸すら折ったことないのに……
+お父様……","...
+ I was never even able to break chopsticks with one hand until now...
+ Father..."
+narrator,──死の淵を彷徨った吹雪は、父の教えを 無意識下に擦り込んでパワーアップしたようだ。,"It`d seem that, on the verge of death, Fubuki remembered her Father`s teachings and powered up."
+Sanrin Fubuki (talking),"………………
+あれ……？ また、あの河原に来ちゃった……
+ということは、私…… また、誰かにひどくやっつけられて……
+ ………………
+せ、せっかく……せっかく、 お父様のおかげで強くなれたのにぃ……
+うええええええええん…… うえええええええええええん……","...
+ Huh...? I`m at that river again...
+ Which means I got seriously injured again...
+ ...
+ I-I`d finally gotten stronger thanks to Father, too...
+ Waaaaaaaaah! Waaaaaaaaaaaaaaaaah!"
+narrator,　 「……吹雪よ、泣くな………吹雪よ……」,”...Fubuki... Don`t cry...”
+Sanrin Fubuki (talking),"………………えっ？ あっ、お、お父様！？　お父様、どこ？
+ああっ、また川の向こうに……！ お父様、お父様ああああっ！","...Huh?! F-Father?! Where are you?!
+ Ah, on the other side of the river! Fatheeeeer!"
+narrator,　　　　　　 「……………………」,”...”
+Sanrin Fubuki (talking),"…………？　え、あの……何です……？
+ …………ど、どうして泣くのかって そんなこと言われても……
+だって、負けるの悔しいもん！ 私、お父様の娘なのにっ…………
+ ……へっ？　大事？ 強くなるのに必要なの？　負けず嫌いが？
+な、何だかよく解らないけど……
+ ……えっ？　えええっ！？ また嘘ばっかり…… 私、素質なんてないから弱くて……
+ …………お、お父様？ それ、どういう意味ですか？
+躰の素質は目覚めたから、 次は心の問題だって……
+そ、そんなこと言われても、私……","...? Um... What...?
+ Even if you ask me why I`m crying... Well, it`s cuz I hate losing!
+ Even though I`m your daughter...! ...Huh? You`re saying
+ that`s necessary to get stronger? I-I don`t really get it, but...
+ Wh-Whaaaat?!
+ You`re lying again... I`m weak because I have no talent... ...F-Father?
+ What did you mean by that? My body`s awakened to its talent,
+ so I just need to believe? Even if you say that,
+  I`m..."
+narrator,　　　　　　 「……………………」,”...”
+Sanrin Fubuki (talking),"……ま、待って下さい！　お父様！！ 行かないで、行っちゃ嫌です！ 吹雪の側に居て下さい！
+お父様、お父様っ！ おとうさまああああああああああっ！！","P-Please wait, Father! Don`t go! I don`t want you to go! Please stay with Fubuki!
+ Father! ...FATHEEEEEEER!"
+Sanrin Fubuki (talking),"……おとうさまああああああああっ！！
+ ………………あ、あれ？ ここは…………","...FATHEEEEEEER!
+ ...Uh, wha...? This is..."
+kangofu (talking),ああ、良かった…… 吹雪さん、気が付きましたか？,"Oh, I`m glad... Are you alright, Fubuki-san?"
+Sanrin Fubuki (talking),あ……そ、そうか、また病院に……,"Oh, right... The hospital again..."
+kangofu (talking),前の時もそうですけど…… 吹雪さん、お躰を大事にしないと……,"I told you before, but you have to take care of yourself..."
+Sanrin Fubuki (talking),"あ、は……はい、すみません……
+ ………………
+どういう意味なんだろう…… お父様が私の中に居るって……","Ah, yes... I`m sorry.
+ ...
+ What did Father mean, he exists inside of me...?"
+kangofu (talking),は？　何か？,Come again?
+Sanrin Fubuki (talking),あ……ううん、何でもないんです……,"Oh, no, it`s nothing."
+kangofu (talking),それじゃあ、点滴替えますね。 しばらく横になっていて下さい。,"ow then, I`ll change your IV. Please lie down."
+Sanrin Fubuki (talking),あ、はい……,"Oh, okay."
+narrator,呟きながら、吹雪は再度ベッドに横たわる。,Fubuki lied down on the bed again.
+Sanrin Fubuki (thinking),"お父様は…… 私が優しすぎるって言った……
+自分の素質を知っているから、 無意識に力を抑えてるんだって……","(Father said I was too kind... I know my talent,
+ so I subconsciously hold myself back...)"
+narrator,"──ふと、手の先に、ベッドを構成する 太い鉄パイプの一部が触れた。
+吹雪は、それをぎゅっと握りしめる。","Just then, her hand touched a thick iron bar that`d been bolted onto the side of the bed.
+ Fubuki squeezed it."
+Sanrin Fubuki (thinking),"それが本当なら……うん、試してみよう。
+この鉄パイプは……敵だから……！ 心を鬼にして……壊すっ……………！！","(If that`s true... then let`s try it.
+ This bar is my enemy! Harden your heart... and break it!)"
+narrator,　　［み、みしっ……びきびきっ……！！］,*Cllllnk!*
+kangofu (talking),"えっ……これ、何の音かしら…………
+ …………きゃああっ！","Wh-What was that noise?
+ ...Kyaaaaah!"
+Sanrin Fubuki (talking),…………っ、えっ？　あ、あれ……,...! Eh?! O-Oh...
+kangofu (talking),べっ、ベッドの鉄パイプが、 割れて……歪んで…………！,Th-The bed`s iron bar is all broken...!
+Sanrin Fubuki (talking),……ほ…………ほんとだ…… 壊すつもりなかったのに…………,...I-It`s true... I didn`t even mean to destroy it...
+kangofu (talking),ごっ、ごめんなさい吹雪さん、 このベッド、金属疲労か何かで…… すぐ取り替えるよう手配しますから！,"I-I`m sorry, but there`s something wrong with this bed... I`ll ask for a new one right away!"
+Sanrin Fubuki (talking),あ、いやあの、看護婦さん、これは……,"Oh, no, this was-"
+kangofu (talking),やだもう、ベッドが傾いじゃって…… ごめんなさい吹雪さん、本当に……,"Geez, the bed`s all slanted... I`m really sorry, Fubuki-san."
+Sanrin Fubuki (talking),"……………… 看護婦さんに悪いことしちゃったな……
+でも……そうか、うん。 あれでいいんだ、ああすれば……
+あれが、私のほんとの力なんだ……
+ ………………
+お父様の強い力が、私の中にも……
+そうか、そうなんだ……
+そういうことですよね、お父様……","... I did something bad to that nurse...
+ Still... yeah. If I do that, I should be able to...
+ So that was my true power...
+ ...
+ Father`s fierce power lies within me as well...
+ So that`s what it was...This is what
+ you meant, right, Father?"
+narrator,──死の淵を彷徨った吹雪は、潜在能力を 引き出す術に気付いて、さらにパワーアップした。,"Having discovered how to awaken her latent power after almost dying, Fubuki powered up again."
+Sanrin Fubuki (talking),"………………
+あれ……？ まただ、またあの河原に……
+ ………………という事は。
+あーーーーーもーーーーーー！ また私やっつけられたのぉ！？ 修行が足りないなぁ、もうっ！
+あそこであの攻撃を ちゃんと見切って躱していたら……！","...
+ Oh...? I`m at that river again...
+ Which means...
+ Aaaah geeeez! I got beaten AGAIN?! I`ve clearly not been training enough!
+ If only I`d managed to evade that attack...!"
+narrator,　 「……吹雪よ…………………吹雪よ……」,”...Fubuki... Fubuki...”
+Sanrin Fubuki (talking),………………あっ。 お父様？　お父様ですよね！？,"...Ah! Father? That`s you, isn`t it?!"
+narrator,　　　　　　 「……………………」,”...”
+Sanrin Fubuki (talking),"すみません、お父様…… たくさん教えて頂いたのに、 吹雪が未熟だったばっかりに……
+でも、 どうすればいいのかは解っています！ 次はきっと、もっと強くなって…………","I`m sorry, Father... You`ve taught me so much, yet Fubuki was still too green...
+ But I understand what I should do! I`ll be stronger next time for sure..."
+narrator,　　　　　　 「……………………」,”...”
+Sanrin Fubuki (talking),"…………えっ？ これが、最後……なんですか？
+私が強くなったから、 心残りがなくなった……？
+成仏しなきゃいけないから、 熱拳流の奥義を託す、って…………
+ ……あ、はい、解りました！ 目に焼き付けて覚えればいいんですね？
+心配しないで、任せて下さい！ ここで生き写しに繰り返してみせます、 お父様に心配なんかかけません！
+吹雪はきっと、もっともっと強くなって お父様の名に恥じない格闘家になります！
+ ………………
+泣いて……泣いてなんかいません！ ちょっとだけ、 目にゴミが入っただけです！
+お父様に会えなくなっても、 吹雪は寂しくなんかありません！
+だから……だから…………
+ ………………
+心配なんか、しないで下さい…………
+吹雪は、お父様の娘に生まれたこと、 本当に誇りに思っています……
+きっと……後を継いでみせます…………
+お父様、どうか……安らかに…………
+ …………おとう……さま…………","...Eh? This is... the last time?
+ I`ve become strong, so you`ve no more regrets?
+ You have to pass on, so you`ll teach me our school`s
+ secret technique? ...Yes, I understand! I just have to
+ burn it into my eyes, yeah? Don`t worry, leave it to me! I`ll learn it perfectly so
+ you have no more worries! Fubuki will become a martial artist worthy of your name!
+ ...
+ I... I`m not crying! I got some dirt in my eyes,、 that`s all!
+ Fubuki won`t feel lonely even without you around!
+ So... So...
+ ...
+ Please don`t worry about me...
+ Fubuki`s really proud to be your daughter...
+ I WILL succeed you...
+ Rest in peace, Father...
+ ...Father..."
+Sanrin Fubuki (talking),"……お父様っ…………！
+あ、ここ……また病院…………","...Father...!
+ Ah, this is the hospital again..."
+kangofu (talking),"ふ、吹雪さん……大丈夫ですか？ 躰、どこも悪くありませんか？
+ずっとうなされて…… 手足が時折ばたばた動いて、 しまいには泣き始めて……
+こんな状態の患者さん、 見たことなかったから……","A-Are you okay, Fubuki-san? Are you feeling alright?
+ You were moaning and tossing around in your sleep... and then you started crying...
+ I`ve never seen a patient react like that..."
+Sanrin Fubuki (talking),"……ごめんなさい、看護婦さん。 もう大丈夫です。
+もう二度と、 こんなことはありませんから……
+そう、二度と……ありませんから。","...I`m sorry, nurse. I`m fine now.
+ This won`t happen ever again...
+ Ever... again..."
+kangofu (talking),あ、は……はい。,Oh... okay.
+Sanrin Fubuki (talking),それじゃあ私、奉仕青年団に戻ります。 いろいろと有り難うございました。,I`ll return to the YCSG now. Thank you for everything.
+kangofu (talking),……えっ？　あ、だめですよ吹雪さん！ まだ立ち上がっちゃ…………！,"Huh?! Y-You can`t, Fubuki-san! It`s too soon for you-"
+Sanrin Fubuki (talking),大丈夫ですよ、もう治りましたから。,"It`s fine, I`ve already healed."
+kangofu (talking),そ、それは主治医が判断するんです！ あなたは重傷の患者さんで………………,That`s for the doctor to decide! You were heavily injured-
+Sanrin Fubuki (talking),"………………
+じゃあ、どこも躰が悪くないっていう 証拠をお見せしますね。","...
+ Then I`ll prove to you that I`m hale and hearty."
+kangofu (talking),………………へっ？,Huh?
+Sanrin Fubuki (talking),熱拳流格闘術奥義！ 超激烈豪華絢爛壮絶猛火爆撃拳っ！！,Burning Fist Secret Technique! Ultra Dazzling Fierce Infernal Fist!
+kangofu (talking),"……な、何が……起きたの…………？
+ …………あーーーーーーーーー！？ とっ、扉がコナゴナになってるーー！！","...Wh-What... happened...?
+ ...AAAAH?! Th-The door`s blown to smithereens!"
+Sanrin Fubuki (talking),…………ふう。 もう、入院なんて不要ですよね？,...Phew. Do I still need to stay here?
+kangofu (talking),……あ、あああ……あうあうあうあ……,"...A-Aaaah, au au au au ah..."
+Sanrin Fubuki (talking),"修理費は奉仕青年団に回して下さいね。 私のポケットマネーで払いますから。
+じゃあ、看護婦さん。お元気で。","Send the bill to the YCSG. I`ll pay for it myself.
+ Now then, take care, nurse."
+kangofu (talking),お……お元気で………………,T-Take care...
+Sanrin Fubuki (talking),"………………
+見ていて下さい、お父様。 私、頑張りますっ！","...
+ Watch me, Father. I`ll do my best!"
+narrator,──死の淵を彷徨った吹雪は、 父の霊から熱拳流格闘術の奥義を託され、 最後のパワーアップを遂げたのだった。,"Having escaped death once again, Fubuki received her last power-up after her father`s spirit entrusted her with his secret move."
+Tamanegi (talking),さて、山林吹雪さん。,"Now then, Sanrin Fubuki-san."
+Sanrin Fubuki (talking),…………何よハゲ。,"...What is it, baldy?"
+Tamanegi (talking),……………… レディが何という口の利き方を……,...A lady shouldn`t be so disrespectful.
+Sanrin Fubuki (talking),"なんであなたみたいな変態調教師に 女の子らしい口を利かなきゃ いけないのよっ！
+あーーーもう、早く帰してーーーー！ 道場に戻って稽古しないと 躰が鈍っちゃうのにーーーー！！！！","Why do I gotta be respectful with some perverted trainer like you?!
+ And let me out already! My body will become dull if I don`t train!"
+Tamanegi (talking),"やれやれ……あなたの場合、 何よりその性格を何とかしなくては いけませんね……
+さあ、こちらへ来なさい。","Good grief... It would seem your attitude is what needs to be worked on the most.
+ Now, come with me."
+Sanrin Fubuki (talking),え、な……何よ、何する気っ？！,Huh? What are you gonna do?!
+Tamanegi (talking),言って解らない人には 折檻するまでです。,You`ll be disciplined until you understand what it is.
+Sanrin Fubuki (talking),あ……きゃっ…………！,Ah... kyah!
+cg narrator,"「あ……うぁ、っく…………」
+吹雪が苦痛に身を捩る。
+額から伝い落ちた汗が目に入ったが、 それを拭うことすらできずにいた。
+躰を麻縄で縛られ、冷たい石の床に座り続ける。 ──タマネギはこれを“折檻”だと言ったが、 それが始まってからすでに一時間が経っていた。
+「どうです、 　自分の置かれた境遇が身に染みましたか？」
+吹雪の傍らに立ったタマネギが言う。 ──肩口の縄を持って、左右に揺さぶりながら。
+「ひぅ……ぐ……！　い、痛いっ……！」
+たまらず吹雪が声を上げる。
+吹雪を縛る縄は彼女の躰のあちこちを鬱血させ、 もはや痛みを通り越して痺れに変わっていた。
+それより、吹雪にとって最も辛いのは、 股間に回された縄だった。
+躰を揺すられる度──自分が身を捩る度、 縄は吹雪の秘裂に食い込み、柔肉を苛み続ける。
+「こんな……こんな事して、何になるのよ……！ 　こんな事されたって、私の意志は、絶対…… 　絶対に変わらないんだからっ……」
+「こんな事をされても変わらない……ですか」
+タマネギが苦笑する。
+「吹雪さん、 　あなたは大変な勘違いをしているようですね」
+言いながら、身動きできない吹雪の躰を揺さぶる。 ──縄が、彼女の躰へ更に食い込む。
+「ひうっ……！　っ、うああっ……」
+「この責めは、あなたの態度が変わるまで、 　何度でも、いつまででも、延々と続くのです。 　それに……」
+それに、の後に続く言葉をタマネギは呑み込んだ。 そして、心の中で言う。
+（……わたくしの見たところ、あなたは本質的に 　マゾの素養を持っているはずですからね……）
+──果たして、 そのタマネギの眼力に狂いはなかった。
+「う……あ、っく…………ああっ……」
+よく見れば、吹雪の肌一面に朱が差し、 じっとりと汗が浮いてきている。
+──いや、肌だけではない。
+吹雪自身ですら気付いていなかったが、 この時、縄によって苛まれ続けている吹雪の秘裂は 淫らな雫で湿りつつあった。
+（クク……見えていますよ、吹雪さん。 　乱れたサラシの下にある乳房の頂点が、 　ツンと立ってきているのがね……）
+タマネギは吹雪の躰の変化に気付いていた。 ──静かに、ほくそ笑む。
+（躰の変化を指摘して、言葉責めにするのも手ですが 　……いや、それはまだ時期尚早でしょうかね）
+タマネギは吹雪の反応を見ながら、目の前の女を 性奴隷に仕立て上げるための最短距離を シミュレートし続ける。
+（今はまだ、躰に刺激を加えられれば反応する、 　人の躰の機械的な部分が発露しただけかも 　しれません……）
+そう、問題なのは吹雪の心の方だった。
+（あらゆる責めと悦楽を受け入れる心…… 　まず作るべきはそちらの方ですからね）
+だから、タマネギは無言で待ち続けた。 吹雪が、自分の方から折れてくるその時を。
+──そして。
+「はあっ、は…………あ、うっ………… 　う、く……あ、っう……うぅ…………」
+いよいよ、吹雪の我慢も限界に達しつつあった。
+（も、もう嫌…… 　こんなの、ずっと続けられたら…………）
+吹雪は、どうすれば自分が楽になるのかを 考え始めていた。
+仮に躰が壊れてしまっても、自分の意志を貫く ──そういう考えは出てこない。
+あとは、楽になりたいと思う心が、 耐え抜こうとする心を浸食していく──
+「あ、く……っん…………」
+吹雪が、何度も、何度も、躰を捩る。
+「ん…………っむ、う………………」
+苦痛とも悦楽とも知れない、 鼻にかかった声を口から漏らしながら、 上目遣いにタマネギの顔を見る。
+そう、上目遣いの目。 人に媚びる目。
+「おね、がい……お願いです…… 　もう……ゆる、して……許して下さい……」
+──屈服。
+その瞬間、自分の夢もプライドも捨て、 目の前の調教師に屈した吹雪の背筋には、 甘く恍惚としたものが確かに広がっていた。
+だが、それが被虐の悦楽だと吹雪は知らない。
+そしてまた、タマネギもそう諭しはしない。
+「そう……素直になれば良いのです。 　ご苦労でしたね、吹雪さん……」
+言って、タマネギは涙ぐむ吹雪を抱き寄せ、 その頭を優しく撫でてやる。
+（言うとおりにすれば、優しくしてくれる…… 　夢や希望を奪い去った後で、この娘には 　その信頼関係を植え付けてやれば良い……）
+そうすれば、あとは簡単に悦楽に堕していく。 タマネギはそう確信していた。
+現に今、吹雪の顔に──喜悦の色が浮かんでいる。
+（やっと、やっと許してくれた…… 　素直になれば許してくれるんだ…… 　言うとおりにすれば楽になれるんだ……）
+それが堕落への第一歩だと言うことを、 吹雪はまだ、気付かずにいた──","「Ah... hngh... kh!」
+ Fubuki writhed in pain.
+ Sweat dripped down her forehead into her eyes, but she couldn`t wipe it off.
+ Bound by rope, she was made to sit on the cold stone floor. Tamanegi`d called it “punishment”, but it`d been one hour.
+ 「How is it? Do you understand the 　position you`re in now?」
+ Tamanegi spoke next to her, holding the rope on his shoulder and shaking it.
+ 「Ugh...! I-It hurts!」
+ Unable to endure, Fubuki groaned.
+ The rope binding Fubuki congested her blood, turning a lot of the pain into numbness.
+ But what made Fubuki suffer the most was the rope on her crotch.
+ Every time she moved, the rope dug deeper into her petals` soft flesh.
+ 「What... are you trying to do?! 　My resolve... will never waver even 　if you do this...!」
+ 「Really, now?」
+ Tamanegi gave her a wry smile.
+ 「This is a grave misunterstanding, 　Fubuki-san.」
+ He shook Fubuki`s body as he spoke, further digging the rope into her.
+ 「Hyaaaah! waaaaah!」
+ 「This torture will continue until you 　change your attitude, no matter how 　long that takes. Besides...」
+ Tamanegi cut off his words, continuing only in his mind.
+ （...I can tell that you have what it 　takes to be a masochist.）
+ Sure enough, Tamanegi`s prediction was accurate.
+ 「Hngh... ahn, kh... aaahn...」
+ Upon closer inspection, Fubuki`s body was growing slightly sweaty and flushed.
+ --And not just her skin.
+ While not even Fubuki herself had noticed, at that time, her petals were getting moister with every shake of the rope.
+ （Kuku... I can see them, Fubuki-san. 　Beneath your loosened sarashi, 　your nipples are getting hard.）
+ Tamanegi noticed the changes in her body and grinned.
+ （Pointing it out with verbal abuse is 　an option... but it`d be premature.）
+ As he watches Fubuki squirm, Tamanegi thought of the quickest method of turning her into a sex slave.
+ （It`s possible we have only just 　awakened her response to stimuli 　applied to her body...）
+ Indeed, Fubuki`s mind was the issue.
+ （I should start by making her mind 　able to turn pain into pleasure.）
+ Thus, Tamanegi waited in silence for Fubuki to fold on her own.
+ And then--
+ 「Haaahn! ahn, ugh... 　khh! ahn! hnnngh...」
+ Fubuki`s endurance was nearing its limit.
+ （N-No more... 　If this just keeps going on...）
+ She began to think about how to ease her suffering.
+ Sticking to her will even if her body breaks was not among those thoughts.
+ Her wish to end the suffering were prevailing over those to endure it.
+ 「Ahn, khh...」
+ Fubuki squirmed over and over.
+ 「Mn... hnnngh...」
+ With nasal moans born from pain and pleasure, Fubuki looked up at Tamanegi`s face.
+ --She looked upwards, as on does when pleading.
+ 「Please... I beg of you... 　L-Let me go...」
+ --She surrendered.
+ At that moment, a jolt of ecstasy ran down Fubuki`s spine, her pride and dreams thrown away.
+ However, she did not know it was masochism.
+ Tamanegi once again did not admonish her.
+ 「Good... you ought to be honest. 　Good work, Fubuki-san.」
+ Tamanegi pulled the crying Fubuki towards him and gently patted her head.
+ （Once I`ve stripped her of her hopes 　and dreams, I can instil the idea that 　I`ll be gentle if she`s obedient...）
+ With that, she`d easily fall to pleasure. Tamanegi was certain of it.
+ There was a trace of joy on Fubuki`s face.
+ （He finally, finally let me go... 　He`ll let me go if I`m honest... 　Being honest will end the suffering...）
+ Fubuki had yet to realize that she`d taken the first step towards her fall..."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Yamamoto Akuji (talking),"ふらっと寄ってみたが…… なるほど、ここが熱拳道場か。
+オオサカ最強だっつって 噂だけは昔から聞いてたんだよな。
+門下生の一人や二人、何とか 部下にスカウトしてぇところだが ……ま、当たって砕けろだな。
+おーい、たのもー。 誰か居ないかー？
+ ……………………
+ ……おーい。
+ ……………………
+何だよ、誰もいねぇのか？
+いや、こんなでけぇ道場なら、 下っ端の門下生がソッコーで 飛んできそうなモンだが。
+ …………………まさか、今日は休みとか。
+ちっ、だとしたら 無駄な時間を過ごしちまったぜ……
+面白くねーな、帰ろう。","Came here on a whim, but... The Burning Fist dojo, huh?
+ I`ve always heard they`re the strongest in Osaka.
+ I`d love to have a few disciples on my side... ...Well, I`ll try.
+ Heeeey! Anyone heeeere?
+ ...
+ ...Heeeeey!
+ ...
+ What, nobody`s here?
+ Maybe some junior disciple is hiding in this bigass dojo somewhere to ambush me.
+ ...Maybe it`s their day off?
+ Tch, guess I wasted my fuckin` time...
+ This sucks, I`m going back."
+narrator,──そうして悪司が去った、わずか数分後。,A few minutes after Akuji`d left--
+ (talking),"……………………………… …………えっちら……おっちら……
+えっちら、おっちら……おっとっと……","... ...Heave-ho...
+ Heave-ho..."
+Sanrin Fubuki (talking),"……んいよっこい、しょっ、と。 ふー、やっと到着…………うぅ。
+ふう、空手家養成ギプスをつけて 山の滝壺まで水汲みに行くのは 楽じゃないなあ…………
+ ……なんて弱音吐いちゃダメよ私！ 今から聖なる山のお水で雑巾がけして 稽古するんだから！
+さあ、道場主として 門下生に手本を示すのよ、私！ ふぁいと、おーーーーっ！","...Phew, I`m finally back. Ugh...
+ It`s not easy to go fetch water in the waterfall basin with karate training gear on..
+ ...Quit your whining, me! Clean the floors and get to training already!
+ As the dojo master, you`ve gotta set an example! Fight on!"
+narrator,その娘は、足腰をガタガタフラフラさせながら 広い道場へ懸命に雑巾をかけ始めたのだった。,The girl began earnestly cleaning the dojo`s floor.
+Sanrin Fubuki (talking),"……腕立て二百回、終わり。 次、腹筋運動、始めっ。
+おいっちに、おいっちに……
+………………
+こんな事、やるだけ無駄かなあ…… もう、私なんて………………
+……ううん、ここで頑張って働いて、 いっぱいお金ためて、 いつかきっと道場を再建するんだから……
+それに……ね、 お仕事楽だし、結構気持ちい…………
+…………ぶるぶるぶる。 と、トレーニング中は 雑念抱いちゃダメっ！","That`s 200 push-ups done. Next are sit-ups.
+ One... two...
+ ...
+ I wonder if this is pointless. After all, I`m already...
+ ...No, if I do my best at work here, I can get enough money to rebuild the dojo...
+ Besides... the job`s easy, and it feels pretty good...
+ ...Brrr. I-I gotta focus during training, dammit!"
+Chinpira (talking),"吹雪ちゃーん、お客さんだよ。 出てくれ………………
+ ………うわ、吹雪ちゃん汗だくじゃない。 どうしたのさ、それ…………","You`re up, Fubuki-chan. Come on out-
+ ...Oh man, you`re all sweaty. How`d that happen?"
+Sanrin Fubuki (talking),"あ、ご、ごめんなさい…… ちょっとトレーニングしてて……
+ …………今日、ヒマだと思ったから…… すみません……","Oh, s-sorry. I was training a little...
+ I thought I had the day off, so... I`m sorry."
+Chinpira (talking),困るなー、仕事時間中に そんな勝手されちゃあ……,"C`mon, ya can`t do that while you`re on the clock."
+Sanrin Fubuki (talking),とにかく、すぐにシャワー浴びてきます。 お客さんに少し待っててもらって……,I`ll take a shower right away. Ask the customer to wait a-
+Chinpira (talking),ああ、いいって。 もうそのまま出ちゃいな。,"Nah, it`s fine. Go at `im like that."
+Sanrin Fubuki (talking),……へっ？ だって今の私、シャレになんないくらい 汗くさいですよ？,...Huh? But I positively reek of sweat!
+Chinpira (talking),"あー、今日の客、うちの会員でさ。 そういうの好きな人なんだよ。
+指名の理由からして、化粧ッ気のない 健康な躰の持ち主を……だからね。 ぜーんぜんＯＫ、ノープロブレム。","The guy`s one of our members. He`s into that stuff.
+ He asked for you cuz he wants a chick with a healthy body and no make-up, so it`s all good."
+Sanrin Fubuki (talking),………………？？？,...???
+cg narrator,"「や、やだっ……！　ちょ、やめて…………！ 　やめてよおっ…………！！」
+客の一人に羽交い締めにされた吹雪は、 手足をじたばたさせて抵抗してみたのだが──
+「……そうそう、そうやって嫌がっててくれ。 　少し抵抗してくれた方が、体温が上がって 　いい匂いがするからさ……」
+客たちはそう言って、むしろ喜びさえする。
+「ふ、二人同時にされるなんて 　私、聞いてないのにいっ…………！」
+「何だよ、この売春宿って、 　強姦のイメージプレイもＯＫだって聞いたのに 　こんなのは初めてだってのか？」
+「だっ……だって、こんな事望む人、 　今までいなかったから……」
+「へっ、悪かったな、変な客でよ。 　何にせよこっちはもう金払ってんだ、 　諦めてもらうしかないけどな……」
+そして、客の一人が吹雪の下半身に取り付いて、 下腹の翳りに鼻を押しつける。
+そして客は──鼻から思い切り息を吸い込む。
+「へへっ……いい匂いがするぜ。 　たまんねえな、甘酸っぱい女の匂い………」
+「やっ……嫌だもうっ…………！ 　こんなの嫌あっ……！！」
+吹雪は男たちを振り解いて、 この責めから一旦逃げようとした。
+だが、背後から吹雪の自由を奪う客は 驚くほどの膂力の持ち主で、 少し暴れた程度ならびくともしなかった。
+「へへっ……元気なオモチャだな。 　そう嫌がんなって、 　始まったばっかりなんだからよ」
+そう言って、 客は吹雪を更に強く締め付ける。
+──吹雪の躰が、軋む。
+「い、痛っ………………！」
+「へ、へへ…… 　とてもイメージプレイだと思えないな。 　本当に強姦してるみたいだ……」
+嬉しそうに言って、 二人の客がにやにやと笑う。
+（ほ、本当に強姦してるんだってばっ…… 　こっちが娼婦だからって 　何でも許されると思わないでよっ……！）
+吹雪は、そう言ってやろうかと本気で思った。
+だが、喉まで出かかったその言葉を、 吹雪はぐっと呑み込んだ。
+（お……お客さんなんだから、こんな奴でも…… 　機嫌損ねちゃいけない…………）
+そして、客の行為を黙って受け入れる。
+（ど、どうせ……することさえしてくれたら…… 　こっちも、多少は……き、気持ちよくなって…… 　……うん、我慢、我慢………………）
+そう、自分に言い聞かせて。
+──だが、いつまで経っても 吹雪は気持ちよくなれなかった。
+背後の客は、吹雪の躰をまさぐりながら 頭に顔を押しつけ、髪の匂いを嗅いでいる。
+そして、下半身に取り付いた客は、 じっとりと汗ばんだ内腿に舌を這わせながら、 くんくんとしきりに汗の匂いを嗅いでいる。
+この客たちにとって、愛撫はおまけのような物で、 主な目的は吹雪の匂いを嗅ぐ事らしかった。
+（なっ、何よこの人たちっ…… 　もしかして変態さん………………！？）
+そう思うと、吹雪の背筋が少し寒くなった。
+「はあ…………ああっ…… 　いいねえ…………堪らないよ…………」
+急に、下半身へ取り付いている客が、 恍惚とした声で呟いた。
+何をうっとりしているのか理解できないから、 吹雪はもう、ぞっとして震えるしかなかった。
+（ああああ……だああああ………… 　やだもう、普通に可愛がってよぉ…………）
+不気味だったり、困り果てたりで、 吹雪は泣きたくなってきた。
+（………………ひっ……！？）
+そんな時、背中から尻の辺りに 何か硬い物が押しつけられて、 吹雪はびくりと躰を震わせた。
+背中側にいる客の、勃起した男根だった。
+（わ、私の匂いだけで、 　そんなに興奮できるのぉ！？ 　う、うっそお……………………………）
+──だが、そう思う一方で。
+（……そんなに、興奮できるものなのかな……）
+心の片隅で、その気持ちを知りたいとも思う。
+（汗くさいだけじゃないのかな…… 　自分だから、そう思うだけかな…………）
+そう考えた時、ふと気がついた。
+（私、も……あまり、きつくなかったら………… 　男の人の、匂いって……嫌いじゃ、ないけど）
+その延長線上に、この客たちの行為があるのなら、 まったく想像できないものではない、と思う。
+（…………ちょっと、変だけど…… 　変態さんって訳でもないか…………）
+すうっと、客への嫌悪感が無くなっていった。
+（…………でも、どうせだったら…… 　普通に可愛がって欲しいなあ…………）
+そして、吹雪は意識する。 ──背中に押しつけられた、硬いものを。
+（…………せっかく…… 　そんなになってるのに………………）
+「…………匂いが変わった……」
+吹雪の下半身に取り付いていた客が、 急にそう呟いた。
+「へ、へへ…………スケベな女だな、 　さっきまで嫌がってたくせに、 　もう濡れてきてんのか……」
+「え…………ええっ！？ 　わ、私、そんなっ……………………」
+吹雪自信は、全く解らなかった。 だが、客が吹雪の秘裂に指をしのばせると──
+　　［ちゅく、ぬ…………］
+──客の指先は、乾いた状態で擦れたりせず、 かすかな潤みでぬるりと滑った。
+「あんた……いいよ、すごくいい………… 　ここの滴の匂いまで心地いいよ…… 　よほど生命力に溢れた躰してるんだな…………」
+「あ、あああ…………あ、あの、 　わ、私、あああああああの………………」
+「…………さて、今度は、 　こっちも堪能させてもらうか…………」
+その客は秘裂を指先で押し広げて、 吹雪の躰のいりぐちへ鼻の頭を押しつけてきた。
+「………………ひぅ……！！」
+吹雪の敏感な部分を、客の鼻が這い回る。
+胎へと繋がる道に、襞に、 客の荒い呼吸が吹き込まれる──
+「やっ…………やだあああっ！ 　やめ、やめてよそんな…………やあああっ！」
+「………………」
+「お願い……だから………… 　普通にしてよお………………」
+「こんな…………生殺しみたいなの…… 　拷問よりひどいよお…………」
+「ひ、うっ……………… 　ううっ、うあああっ………………」","「N-Nooo! W-Wait, stop! 　Stoooooop!!」
+ Held in a full nelson by the customer, Fubuki tried to flail her limbs, but--
+ 「...Good, I want you to not like it. 　Resisting a little makes you warmer, 　which makes you smell nice...」
+ The customer seemed happy as he spoke.
+ 「I-I didn`t hear anything about 　taking two of you on at once!」
+ 「What, I thought this joint 　allowed gangbangs. This your 　first time?」
+ 「I-I mean, no customer`s ever 　asked for this before...」
+ 「Heh, sorry for being a weirdo. 　But I already paid, so ya should 　just give up and accept it.」
+ One of the customers then held Fubuki`s hips and buried his face in her crotch.
+ He then took a very deep breath.
+ 「Heheh, you smell nice. I can`t get enough 　of a woman`s bittersweet smell.」
+ 「No! Stop that! 　I don`t like this!」
+ Fubuki tried to shake herself free from the men and escape from what they did.
+ However, due to the sheer strength of the man holding her down, Fubuki could barely make him budge.
+ 「Heheh, what a lively little toy. 　Maybe you don`t like it, but we`ve 　only gotten started.」
+ With that, the man held Fubuki still with even more force.
+ Fubuki`s body creaked.
+ 「O-Owwww!」
+ 「Heheheh... 　It really does look like we`re 　gangraping her.」
+ Having said that, both customers grinned.
+ （Th-That`s because you ARE! 　Just because I`m a prostitute, it doesn`t 　mean you can do anything you want to me!）
+ Fubuki really wanted to say that.
+ However, she swallowed those words as they got caught in her throat.
+ （Th-They`re customers, so... Even if I 　don`t like it, I can`t displease them...）
+ Thus, she quietly accepted what they did to her.
+ （B-Besides, if they do what they want, 　I should feel a little good, too... 　...Yeah, gotta put up with it...）
+ She persuaded herself in that manner.
+ However, no matter how much time passed, Fubuki did not feel good at all.
+ The man behind Fubuki sniffed her hair as he teased her body.
+ Meanwhile, the other man ran his tongue across Fubuki`s sweaty thighs and had his fill of her scent.
+ To them, physical contact was a mere bonus. Their main target was Fubuki`s scent.
+ （Wh-What`s with these guy! 　Are they total perverts?!）
+ A chill ran down Fubuki`s spine.
+ 「Sniiiiifffff... haaaah... 　Nice... I can`t get enough of this.」
+ The man on her crotch suddenly whispered in an ecstatic voice.
+ As she couldn`t understand what pleased him so, Fubuki felt nothing but disgust.
+ （Aaaaah! Graaaaaah! 　Enough! Just sleep with me normally...!）
+ Fubuki felt so disgusted and troubled that she wanted to cry.
+ （...Eek?!）
+ At that moment, something hard poked at her butt from behind, making her shake in surprise.
+ It was the erect member of the man behind her.
+ （H-He can get that excited just from 　my smell?! 　N-No way...）
+ But at the same time, she thought--
+ （...Is it really that hot...?）
+ Part of her wanted to understand the feeling.
+ （Maybe I don`t just smell sweaty, 　and only I haven`t noticed it...）
+ At that moment, she suddenly realized--
+ （If... it`s not too strong... then I 　don`t dislike how men smell, either...）
+ Following that reasoning, what the customers were doing wasn`t that unusual, she thought.
+ （...It`s kinda weird, but... 　They`re not complete degenerates...）
+ Slowly, she started to dislike them less.
+ （But if I had to choose... 　I`d still prefer doing it normally...）
+ It was then that she gre conscious of the hard thing poking against her butt.
+ （...Since he`s already gotten 　like that...）
+ 「...Her smell changed.」
+ The man on Fubuki`s crotch suddenly spoke out.
+ 「Heheheh, what a perverted broad. 　She was complaining just a second ago, 　but now she`s wet.」
+ 「H-Huh?! 　I-I`m not...!」
+ Fubuki herself had no idea. However, the man went to touch her petals--
+ 　　*Shlck*
+ His finger was now faintly coated in her juices.
+ 「You`re really, really nice, girl... 　Even your honey smells good. 　You must have a very healthy body.」
+ 「A-Aaaahn... U-Um... 　I-I, um......」
+ 「Now then, time to enjoy this 　part here as well...」
+ The man spread Fubuki`s petals open with his fingers and pushed his nose inside.
+ 「Eek...!」
+ His nose ran across her sensitive place.
+ He frantically sniffed every part of it he could.
+ 「N-Nooooooo! 　S-Stop that...! Noooo!」
+ 「...」
+ 「I`m begging you... 　Do it normally...」
+ 「Dragging things out like this... 　is worse than torture...」
+ 「Eek! hngh! 　W-Waaaah...!」"
+cg narrator,"──吹雪は、最後にとうとう泣き始めた。
+けれど、客たちは一向に構わず、 自分たちの好む事しか吹雪に求めない。
+吹雪の秘裂がひくひくと蠢き、 こぼれおちた潤みが脚を伝って床に落ちても。
+躰を昴らせた吹雪が、 自分から客に秘裂を擦り付けていっても。
+吹雪の、女としての欲求は 叶えられなかった。","Fubuki finally started to cry.
+ However, the customers did not care, and kept doing what they wanted to her.
+ Even as her petals squirmed and her juices dripped down onto the floor.
+ Even as Fubuki herself rubbed her petals against the customers.
+ Fubuki`s womanly urges were not fulfilled."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Sanrin Fubuki (talking),"………………
+ひぐっ…………ううっ…… うええええん…………","...
+ Hic... uuuu... Waaaaah..."
+Chinpira (talking),"やあ、吹雪ちゃん、おつかれー。
+ ……って、どうしたの？ さっきの客にひどいことされたとか……","Hey, good work, Fubuki-chan.
+ -Wait, what happened? Were those guys mean to you?"
+Sanrin Fubuki (talking),"………………
+抱いて。","...
+ Do me."
+Chinpira (talking),へっ？,Huh?!
+Sanrin Fubuki (talking),お願いだから抱いてーーーーーーーー！！,"Please, just do me!"
+narrator,殺気立った吹雪が、 店番のチンピラに猛然と襲いかかった！,The frenzied Fubuki jumped the thug working as a clerk!
+Chinpira (talking),ふっ、吹雪ちゃ………… うわああああああああっ！！,F-Fubuki-chan- WAAAAAAAAH!
+narrator,　　［どたばたどたばた……］,　　*Thump thump thump...*
+ (talking),"………………
+ ……ああン………………☆","...
+ ...aaaahn...☆"
+narrator,──吹雪の、女としての欲求は 叶えられたようだ。,It would seem that Fubuki`s womanly urges were fulfilled.
+ (talking),命を削り合う実戦を経験してこそ 本当の武道家たりうるのよ！ さあ、かかってらっしゃいっ！！,"Only through battle experience can one become a true martial artist! Now, bring it on!"
+ (talking),な……何で吹雪お嬢様が実戦に…… あんな弱い人が……,Wh-Why`s young lady Fubuki in a fight? She`s so weak...
+ (talking),この裏切り者ーーーーーっ！！ ここで会ったが百年目！ 裏切りの代償、その血で償えーー！！,"It`s the end of the line, traitor! Time to pay for your treatchery with your blood!"
+ (talking),……参ったな、一応師匠の娘だし、 怪我させたくないんだけど…………,"...Man, I don`t wanna hurt the Master`s daughter..."
+narrator,吹雪は、道場の中央に座して 一人座禅を組んでいた。,Fubuki was meditating in the dojo by herself.
+Sanrin Fubuki (thinking),"……悪司さんから貰ったお給料で 道場も綺麗になった…………
+私も、以前よりは 少しだけ強くなれたと思う……
+ …………でも…… まだまだ、私の武には先がある……
+もう少し、悪司さんのところで 修行を続けて……
+ ………………
+お父様……もう少しです。 もう少しだけ待っていて下さい……
+吹雪は近い内に、必ず、 この道場を再建してみせます……！","(The dojo`s clean now thanks to the Money Akuji-san gave me...
+ I think I`ve gotten a bit stronger than before, too...
+ ...But my path as a martial artist`s not over yet.
+ I`ll train at Akuji-san`s place some more...
+ ...
+ Please wait just a little more, Father...
+ Fubuki will revive this dojo soon enough...!)"
+narrator,"吹雪はすっくと立ち上がって、 日課である熱拳流拳術の“型”を遣い始めた。
+──見とれるほど流麗に、そして力強く。","Fubuki quickly stood up and began training the Burning Fist Dojo`s forms.
+ Beautifully and powerfully, at that."

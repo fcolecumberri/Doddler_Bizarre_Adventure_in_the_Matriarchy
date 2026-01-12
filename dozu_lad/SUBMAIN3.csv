@@ -1,0 +1,27 @@
+character,jap text,Eng
+__system__??,{G制御 & 4:,{G制御 & 4:
+__system__??,},}
+__system__??,{G制御 & 8:,{G制御 & 8:
+__system__??,},}
+__system__??,{DB = 1:,{DB = 1:
+narrator,［［　,［［　
+narrator,の戦略アルゴリズム開始　］］,の戦略アルゴリズム開始　］］
+__system__??,},}
+__system__??,{R制御[D01] & 3 = 1:,{R制御[D01] & 3 = 1:
+__system__??,{(地域番号 \ 21) + (☆乃木 > 49):,{(地域番号 \ 21) + (☆乃木 > 49):
+__system__??,{(RND \ 0) * ((D02 \ 0) + (R支配 = 1)):,{(RND \ 0) * ((D02 \ 0) + (R支配 = 1)):
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{DB = 1:,{DB = 1:
+narrator,［［　,［［　
+narrator,の戦略アルゴリズム終了　］］,の戦略アルゴリズム終了　］］
+__system__??,},}
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{D03 > 4:,{D03 > 4:
+__system__??,{DB = 1:,{DB = 1:
+narrator,［［　,［［　
+narrator,の（攻撃）実行　］］ 総気力＝,の（攻撃）実行　］］ 総気力＝
+__system__??,},}
+__system__??,},}

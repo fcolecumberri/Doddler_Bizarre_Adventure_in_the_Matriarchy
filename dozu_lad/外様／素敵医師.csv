@@ -1,0 +1,595 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆麻薬戦争 < 10:,{☆麻薬戦争 < 10:
+__system__??,},}
+__system__??,{☆麻薬戦争 = 11:,{☆麻薬戦争 = 11:
+__system__??,},}
+__system__??,{☆麻薬戦争 = 10:,{☆麻薬戦争 = 10:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+Suteki Ishi (talking),きへ……けへへ。 ぼ、ぼぼぼ、ボス、呼んだがか？,"Kiheh... keheheh. Y-Y-Ya called, boss?"
+Yamamoto Akuji (talking),おう、確かに呼んだが……………… しっかし、相変わらずくせーなお前。,"Yeah, I did...
+ ... But man, you fucking smell."
+Suteki Ishi (talking),そ、そそ、そんな事ないがよ。 先週、香水も使ったきね。,Th-That ain`t true. I put on some perfume last week.
+Yamamoto Akuji (talking),先週って、おめー……,Last week...?
+Suteki Ishi (talking),"ほれ、くんくん、くんくんくん……
+ ……はあ、うっとりするがよ…… ええ匂いながよ、へけけけけけ……","Here, Imma take a whiff...
+ ...Phew, that`s lovely. I smell great, keheheheh..."
+Yamamoto Akuji (talking),………………,...
+Suteki Ishi (talking),で、ボス、おらぁに何の用なが？ 街に麻薬でもばらまくがか？,"So, whaddya need, boss? Want me to deal some drugs?"
+Yamamoto Akuji (talking),せんでいい。,Don`t.
+Suteki Ishi (talking),ほ、ほしたら、んー………………,"W-Well, if ya ever want-"
+Yamamoto Akuji (talking),もういい、帰れ。臭いから。,Enough. Leave. You reek.
+Suteki Ishi (talking),ひひ……そう言わんともっと話すがよ。 ひけ、へけ、けけけけけけけけけ……,"Heehee, another time, then. Hikeh, keheheheh..."
+Suteki Ishi (talking),きけへへへへへへへ。 ぼ、ぼぼぼ、ボス、いい話があるがよ。,"Kikeheheh. B-Boss, I have something nice to tell ya."
+Yamamoto Akuji (talking),……おめーがまともな話をするとも 思えねーがな、言ってみな。,"...Can`t be anything good coming from you, but go on."
+Suteki Ishi (talking),こ、こないだおクスリ作ってたがよ。 そしたら……けけけけけけけ。,I-I cooked up some drugs recently. And then... keheheh.
+narrator,素敵医師は笑いながら、悪司に薬瓶を手渡した。,Dr. Wonderful handed over a vial to Akuji.
+Yamamoto Akuji (talking),俺は麻薬なんぞいらん。,I don`t want drugs.
+Suteki Ishi (talking),"ま、麻薬と違うがよ。 素敵医師印のパワーアップ薬なが。
+こ、ここ、これさえ飲めば気力は倍、 体力三倍、攻撃力五倍の効果があるがよ。
+ ……へけけ、計算上は。","Well, it ain`t. It`s my special power-up medicine.
+ I-If ya drink it, yer stamina, strength and health will improve.
+ ...Keheheh, all calculated."
+Yamamoto Akuji (talking),うさんくせー。,Fishy as hell.
+Suteki Ishi (talking),そそ、そう言わずに試してみるがよ。 プレゼントやきね、タダやきね。,"D-Don`t say that, try it. It`s my gift, all for free."
+Yamamoto Akuji (talking),まあ、一応貰っとくけどよ。,"Eh, I`ll at least keep it."
+Yamamoto Akuji (thinking),"でも、言うとおりならすげーな。 自分が使うにゃちとアレだが……
+いずれ、誰か適当な奴に飲ませてみるか。","It`d be amazing if it`s true I don`t wanna use it, though.
+ I`ll have someone else take it."
+__system__??,{I装備[12] = 99:,{I装備[12] = 99:
+Suteki Ishi (talking),…………あ、あああ……ぼ、ボス、 もう一つ用があるき、忘れよったがよ。,"...O-Oh, b-boss, I forgot I had somethin` else for ya."
+Yamamoto Akuji (talking),ん？,Hm?
+Suteki Ishi (talking),"き、きへへへ…… こ、ここ、これもあげるきね。
+ “素質のオカリナ”ちゅうがよ。 なかなか便利ながよ？　きへへ……","K-Kiheheh... I-I`ll give this to ya too.
+ A Talent Ocarina. It`s pretty handy, kiheheh."
+Yamamoto Akuji (talking),へー、まともなモンも持ってんだな。 遠慮なく貰っとくぜ。,"Huh, so you got something normal. I`ll take it."
+Suteki Ishi (talking),き、きへへ…… ぼ、ボス、そのオカリナ、 ここで吹いてくれんがか？,"K-Kiheheh. B-Boss, won`t ya give that ocarina a blow?"
+Yamamoto Akuji (talking),は？,Huh?
+Suteki Ishi (talking),く、くくく、口つけて、 ぶひーって吹い……いや、 吸って、けへへ……,"K-Kukuku, you put yer mouth on it and blow... wait, you suck on it, kiheheh..."
+Yamamoto Akuji (talking),………さては何か仕込んでんな、てめー。 クスリとかクスリとかクスリとか。,"...You laced this shit with drugs, didn`t you?"
+Suteki Ishi (talking),…………べ、べべ、 別に何もしちょらんがよ？,...I-I-I didn`t do nothin`.
+Yamamoto Akuji (thinking),…………念入りに洗って日向で干して 消毒してから使うことにしよう……,I`ll wash and disinfect it just in case...
+__system__??,},}
+Yamamoto Akuji (talking),おい、ドグサレ医者。,"Hey, rotten doc."
+Suteki Ishi (talking),へ……けへへ？ ひへ……は、ぼ、ぼぼ、ボスやないがか。,K-Kiheheh? I-If it ain`t the boss.
+Yamamoto Akuji (talking),おう、ちとおめーに用があるんだがな。,I got some business with ya.
+Suteki Ishi (talking),"へけ……へけけけけ。 けけけけけ……
+よ、用ながか、おらぁに用ながか。 けらけらけらけら…………","Hikeh... keheheh. Kekekekekeh...
+ Y-Ya have business with me? Kehahahahah..."
+Yamamoto Akuji (talking),…………意味もなく笑うなボケ。,"...Quit laughing, dipshit."
+Yamamoto Akuji (talking),ほれ、特別ボーナス。,"Here, a bonus."
+Suteki Ishi (talking),"ひ、ひへ……？ こんなにくれるがか？
+けけけ……嬉しいがよ、 これだけあったら秘密の芥子畑が 倍の広さになるが……","H-Hiheh...? Yer givin` me this much?
+ Kekeh, thanks. I can expand my secret poppy garden with this..."
+Yamamoto Akuji (talking),芥子畑ぇ？ どこにあんだよそんなもん。,Poppy garden? Where do you have that?
+Suteki Ishi (talking),ナイショながよ、 プライベートの趣味やきね。 ひけけけけ……,"I said it`s secret. It`s my private hobby, hikekekeh..."
+Yamamoto Akuji (talking),趣味で芥子を育てんなよ、芥子を……,Who grows poppy as a hobby?
+Suteki Ishi (talking),た、大麻やキノコの方がええがか？,How `bout weed or shrooms then?
+Yamamoto Akuji (talking),やめい。,Don`t.
+Yamamoto Akuji (talking),"さーて、あのヤク中クサレ医者、 房の中で腐ってなきゃいいが。
+ ……おーい医者、生きてるか？ 入るぞー。","Let`s see if that dirty fake doctor hasn`t rotted away yet.
+ ...Hey doc, you alive? I`m coming in."
+Suteki Ishi (talking),き、きへへへ……きへへへ………… へけけけけけけけけけけけけけけ……,"K-Kiheheh, kiheheh... Keheheheheheh..."
+Yamamoto Akuji (talking),……何笑ってんだ、てめー。,...What`re you laughing at?
+Suteki Ishi (talking),"き、ききき、きき……禁断症状やき……
+こ、こここここここ、ここ来て…… い、いいいいい一回も おクスリ打ってないき……","W-W-W-Withdrawal...
+ I-I-I-I haven`t t-taken a s-s-s-single hit since g-g-g-getting stuck here..."
+Yamamoto Akuji (talking),あっそ。,Oh.
+Suteki Ishi (talking),へ、へゃはへへへ……いへへへ………… ひえひえひえひえひえひえっ……,H-Hehyahahah... Heeheeheehee...
+Yamamoto Akuji (talking),……何かムカつく。,This kinda pisses me off.
+Suteki Ishi (talking),"ひ、ひへ………………ひへ……
+か、あひゃら……あひゃらほひぇ……
+く、くく、くく、おく、くく………くく、 くっ、クスリ、くれ、くれくれく、く……","H-Hiheh... heheheh...
+ Kah, hahaheeeheeeeee...
+ K-Kukukukukuku... N-Need d-d-d-drugs..."
+Yamamoto Akuji (talking),やらん。,I`m not givin` ya any.
+Suteki Ishi (talking),ひひゃへーーーーーーーーーー！！！！,HIHYAHEEEEEEH!!!
+Yamamoto Akuji (talking),……さっさと始末しよーかな、こいつ。 くせぇし。,"...Maybe I should just get rid of you. You stink, too."
+Suteki Ishi (talking),くっ、くく、臭いが言うなーーーー！！,D-Don`t say I stink!
+Yamamoto Akuji (talking),黙れ中毒。,"Shut up, dopeface."
+Yamamoto Akuji (talking),おい、クサレ医者。まだ生きてるか？,"Still alive, rotten doc?"
+Suteki Ishi (talking),"ひ、ひえ……ひへへへへ。 ひええええええっへっへへへへへへ……
+ひえーっ、ひ、ひひ、ヒエエーーーーッ！ ヒャアァーーーーッハハハハハハ！！ ヒーッ、ヒーッ、ヒーッ、ヒーーーー！！","H-Hiheheheh... Hieeeeeeeeeheheheheh...
+ HIEEEH! HEEHEEHIIIIIII! HYAAAAAAHAHAHAHAH! HEEEE! HEEEE! HEEEE!"
+Yamamoto Akuji (talking),………………,...
+Suteki Ishi (talking),"ひやーっはっはっはっはっはっはっは！ ひーこひーこひーひひーひーヒー！！
+……ひえっへっへっへっへヘハーーー！ うひゃへひゃひゃははははははは！
+げらげらげらげらげらげらげらげらげら げらげらげらげらげらげらげらげらげら げらげらげらげらげらげらげらげらげら…","HYAHAHAHAHAHA! HEEKAKAKAKAHAHAHA!
+ HYEHEHEHEHAHAHAHA! UHYAHAHAHAHAHA!
+ GYAHAHAHAHAHAHAHA HAHAHAHAHAHAHAHA HAHAHAHAHAHAHAHA..."
+Yamamoto Akuji (talking),本気でやばい奴だな、こいつ……,This guy`s a fucking nutjob.
+Yamamoto Akuji (talking),"まあ、こんなヤク中野郎でも そこそこ使えりゃ文句ないんだが…
+なあ、俺の部下にならねーか？","Well, I don`t mind putting even him to good use...
+ Hey, ya wanna work for me?"
+Suteki Ishi (talking),"きけへへへへへへへへ……
+ひへ、ひへへへへ…… ほへはへほへひへふへ…………
+ ………………はへぇ…………","Kiheheheh...
+ Hiheh, hiheheheh... Hoheheheheh...
+ ...Haeeeh..."
+Yamamoto Akuji (talking),まるで聞いちゃいねーよこの馬鹿……,This retard ain`t listening...
+Yamamoto Akuji (talking),"どーせ頭イッちまってっから 言ってる意味わかんねぇかもしれねーが。
+ ……おめー、俺の部下になるか？","You might be too far gone to understand, but...
+ Ya wanna work for me?"
+Suteki Ishi (talking),きけへへへへへへへへ…… もちろんなるがよ、きへへ……,"Kiheheheh... Of course, keheehee."
+Yamamoto Akuji (talking),げ。マジかおめー。,"Geh, seriously?"
+Suteki Ishi (talking),"うわーいうわーいうわーい。 けへへへへ、きへへへへへへ。
+部下ーぶかーブカーぶかぶかー。 ひえっへっへっへっへ…………","Yaaaaay, hooraaaaay. Keheheheheh.
+ Work work workworkwork, hyeheheheh..."
+Yamamoto Akuji (talking),……………… やっぱ今のなし、冗談。,"... I was joking, forget it."
+Suteki Ishi (talking),ボスーボスボスー。ひへへへ…… おらぁ、おまぁのために働きまくるがよ。 ケケケケケケ……,"Boss, bossssss, hyahaheh... I`ll work for ya, kekekekeheheheh..."
+Yamamoto Akuji (talking),……だ、抱きつくな、 く、くく……臭ぇ、死ぬ………………,D-Don`t cling to me! Ulp... You smell so fucking bad...
+Suteki Ishi (talking),"ぶかー部下ー……ぶかブカブカブカー！ ケーッケッケッケッケッケッケッケ！！
+ひょーあへーひんべがばくくぶろいえく きらかりゃじゃかさへぁだおいきゅかく もけーーーーーーーーーーーーーッ！！","Work, work... workworkwork! KEHEHEHEHEHEHEHEH!
+ Kyahenuganodefufu kirakarukurujanka mokeeeeeeeeeeeeh!"
+Yamamoto Akuji (talking),あーーーーるせーーーーくせーーーー！！ 解った、部下にするから離れろボケェ！！,"SHUT THE FUCK UP! I`ll take you in, so get away from me!"
+narrator,こうして、素敵医師が仲間になってしまった……,"Thus, Dr. Wonderful joined Akuji..."
+Suteki Ishi (talking),"けへ……けへへへへへへへへへへへ。 ひへ、はへ、ひゃへへへへへへ。
+こりゃええが、こりゃええがよ。 権力万々歳ながね…… こんだけあったら何でもできゆうがよ。","Keheh... keheheheheheh. Heeheh, hehehahaheh.
+ Niiiice, this is great. Being in charge is awesome. I can do anything with this."
+narrator,"──呟く素敵医師の眼前には、 大量の札束が山と積み上げられていた。
+現在の支配地域を少しばかり脅して納めさせた 民間からの寄付金である。","His eye shining, Doctor Wonderful stared at a large money pile in front of him.
+ They were donations given by citizens living in the Family`s turf after he`d threatened them."
+Suteki Ishi (talking),"さすがオオサカ、 天下の台所ゆうだけはあるがよ。 みんな金いっぱい持っちゅう……
+んー、んーんーんー…… この金使うて何すりゃええがやろ……
+とりあえず、んー…… クスリ作ってー、クスリ作ってー、 んー、その後は何に使うたらええがやろ…
+おおー、そうなが、そうなが。 クスリ作るがよ、クスリ。
+で、余った金でクスリ作るが。
+名案ながよ、名案ながよ。 きへ、きへへへへへへ…………
+……デカオ。デーカーオーーーーーーっ。 近所におるがやろ、こっち来るがーーー。","That`s Osaka for you, I get why it`s called the Nonpareil Kitchen now. Everyone`s loaded.
+ Hm-hmm-hmm, what should I spend all this money on...
+ For now, I`ll make some medicine, then make some medicine... After that, I dunno...
+ Right, I`ll make some medicine! And if there`s money left-
+ I`ll make some medicine.
+ Now that`s a good plan. Kiheh, kiheheheh...
+ ...Dekao. De-ka-ooooo!. You`re around, right? C`mere!"
+Dekao (talking),……あ。 せンせえ、お、おれ、呼ンだ？,"...Ah. Y-You called, Doctor?"
+Suteki Ishi (talking),おお、呼んだがよ。 元組長のあの女連れて来とおせ。,"Yep, I did. Bring me the former boss lady."
+Dekao (talking),……なンで？,...Why?
+Suteki Ishi (talking),"今な、先生いーっぱいお金持っちょるき、 高い材料いっぱい買うてクスリ作るがよ。
+ ……で、実はもうここに テスト用のアンプルも作っちゅうがよ。
+量産する前に、元組長でテストするが。 ほんで、元組長連れてきて欲しいがよ。","Doc`s loaded now, so I bought some good stuff to make medicine.
+ ...And I already made an ampoule for testing.
+ Gonna test it on her before mass-producing it. Bring `er in."
+Dekao (talking),いや。,No.
+Suteki Ishi (talking),デカオ……先生の言うこと聞けんがか？,Dekao... Ya won`t listen to me?
+Dekao (talking),あ、あれ、お、おれのおンな。 大事、だいじー。,"Sh-She`s, my woman... She`s, precious."
+Suteki Ishi (talking),"何ね……そがい気に入っちゅうがか。 んー、しょんないがね……
+ ……お。 これ、そこ行くチンピラ。 こっち来るがよ。","Huh... Took a liking to her, eh? Welp, no helping it...
+ ...Oh. Hey, you punk over there. C`mere."
+Chinpira (talking),へっ？　あっしのことですかい？,Huh? Ya mean me?
+Suteki Ishi (talking),組長命令ながよ。 十秒だけ目閉じて黙るが。,Boss` orders. Close your eyes and be still for 10 seconds.
+Chinpira (talking),へ、へえ、別に構いやせんが ……これでいいんですかい？,"U-Uh, sure, I don`t mind. ...Like this?"
+narrator,　　［……ぷすっ］,　　*Prck!*
+Chinpira (talking),いっ……痛えっ！ く、首筋に何か刺さったあっ！,O-Ouch! S-Something stabbed my neck!
+Suteki Ishi (talking),痛いだけながか？ 迫り来るエクスタシーとかないがか？,Does it only hurt? Don`t feel any ecstasy coming?
+Chinpira (talking),え、えくすた……何ですかい？,E-Ecstawhat now?
+Suteki Ishi (talking),ん~、配合に失敗しちゅうがか……？,"Hmm, did I mess up the mix...?"
+Chinpira (talking),"………………
+う、あ…………ああっ、 あ、熱、熱いいいいいいいい……
+……ひげああああああああああああっ！ はが、ひげあはがけんすんだびうあどいべ さはいあふぁじゃがはがへぎくぎがげ……
+あぎゃああああああああああああああああ あああああああああああああああああああ ああああああああああああああ！！！！
+……………………………………はぅ………","...
+ W-Wah... Ahhh! H-H-Hoooooooot...!
+ GYAAAAAAAAAAH! GYAHBEHIKIKIKEHEHAHBEHYA HOHEEHOKEBABABAHYAH...
+ AGYAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAH!!!
+ ...hau..."
+Suteki Ishi (talking),"おー、えらい効いたが。 気持ちよさそうな顔しちゅうがよ。
+んー、倒れたまんま死んじょるんが ちょっと失敗しちゅうがかね。 残念、残念……きへへへへへへへへへ。
+ ……デカオ。 このゴミ、庭の向こうに ポイッとほかしてくれるがか？","Whew, nice effects. He looks mighty pleased.
+ Hmm, he dropped dead, so I did mess up a bit. Oh well, what a shame... Kiheheheh.
+ ...Dekao. Could ya throw the trash here out in the garden?"
+Dekao (talking),あイ、せンせえ。,"Yes, Doctor."
+narrator,デカオは組員の死体を片手で握ると 言われたとおりに窓から外へと放り投げた。,"Dekao grabbed the corpse with one hand and threw it out the window, just as he was told."
+Suteki Ishi (talking),ん。証拠隠滅なが。くけけけけけ……,"There, evidence`s gone. Keheheh..."
+__system__??,{RND \ 0:,{RND \ 0:
+Kaga Tarou (talking),……ようやく見つけたわえ。 ここにおったか、素敵医師とやら。,"...I`ve finally found you. So you were here, Dr. Wonderful."
+Suteki Ishi (talking),んー？　何でおらぁの組に ぬらりひょんが居るがか？,Hah? Since when did we have Nurarihyon in my Family?
+Kaga Tarou (talking),誰がぬらりひょんじゃ、 このミイラ男めが……,"Who`re you calling Nurarihyon, you damned mummy?"
+Suteki Ishi (talking),あー……あーあーあー。 確か加賀太郎とか言いよったきね。 何か用ながか？,"Ah... ah! Right, ya said ya were Kaga Tarou or somethin`. Ya got business with me?"
+Kaga Tarou (talking),"用も何も、今し方お主が指示した 奉仕青年団の攻撃命令じゃが、 あれは一体どういうつもりじゃ？
+いくら何でもあれは無理がありすぎじゃ。 仮にもわかめ組の組長を名乗るなら、 部下の被害を考えて指示し直せい。","What are you thinking with those orders to attck the YCSG just now?
+ That`s impossible. If you call yourself our chairman, think about our casualties."
+Suteki Ishi (talking),……生意気なぬらりひょんながね。 攻める言うたら攻めるが。,"...What a cheeky Nurarihyon. I ordered an attack, so do it."
+Kaga Tarou (talking),あれでは敗北必至ぞ！？ みすみす部下を殺す気か！,It`ll be a hopeless battle! Do you want to kill your men?!
+Suteki Ishi (talking),"死んだらまた部下増やせばええがよ、 人間なんてそこいらにいっぱい居るきね。
+それとも、このぬらりひょんは おらぁの言うこと聞けんがか？","If they die, I`ll hire more. Lotsa people `round.
+ Or are ya really not gunna listen ta me, Nurarihyon?"
+Kaga Tarou (talking),………………,...
+Suteki Ishi (talking),"きへ、きへへへへ、きへへへへへへ。 ええが、それでええがよ。
+デカオ、行くがよ。 先生、街に出るきね、ついて来とおせ。","Kiheh, kiheheheh. That`s more like it.
+ Dekao, I`m going out, so come with me."
+Dekao (talking),あー、あイ、せンせえ。,"O-Okay, Doctor."
+Kaga Tarou (talking),"………………駄目じゃ…… 儂一人ではあのデカブツと刺し違えるので 精一杯よ……
+今、ここで儂が倒れる訳にはいかん、 もうこの組には儂しか…… 儂の部下だけでも、せめて守って……
+ ………………
+儂が愚かだったのじゃ……！ 女狐めを自滅させるために あの男を放置しておいたがために！
+すまん、百発……元子…… 儂は、儂は……取り返しのつかぬことを してしもうた……
+結局、何もかも終わりじゃ…… わかめ組はこれで終わりじゃ……
+今にして思えば、穏便になどと思わず 外から戦をしかけた悪司が 最も正しかったのじゃ…………
+ ……そうじゃ。 もう、あやつだけじゃ……
+悪司よ、この老骨を笑うてくれて構わぬ、 頼む、あのミイラを止めてくれ……！","...It`s hopeless... It`d take all I have to even scratch that monster...
+ I can`t die now, I`m all the Family has left anymore. I must at least protect my men...
+ ...
+ I was a fool...! I let that man do as he pleased so he`d bring down the bitch!
+ Hyappatsu, Motoko, I`m sorry... I have made a fatal, irreversible mistake...
+ Everything is going to end... The Wakame Family`s done for.
+ In hindsight, that brutish Akuji, who started this fight, was the most correct...
+ ...Right. There`s still him...
+ Laugh at me if you want, Akuji, but please, take that mummy down!"
+__system__??,},}
+narrator,"──うっすらと霧に覆われた深夜の街に、 突然、狂気じみた甲高い笑い声が響きわたった。
+人々は、とうに眠りに就いていた。 笑い声は誰の耳にも届いていない。
+人を滅ぼす悪夢をばらまく男の再来に、 誰一人、気付かずにいた──","Under the misty night sky, a mad, shrill laughter suddenly echoed throughout the town.
+ The populace had long since fallen asleep. The laughter was heard by nobody.
+ Thus, nobody noticed the return of the man who spread nightmares and ruin."
+Suteki Ishi (talking),"きへ……きへへへへへへへへ…… はひゃへ……はひゃはへへへへへへへ。
+へ、へへ……きへ、きへへ…… つ、つまらん……つまらんがよ…… ちーとも面白ぉないがよ……
+よ、よよ、夜ゆうたら、 気持ちよーくなりたい連中が 苦しみながらゾロゾロ歩きゆう……
+ ……そうやないと、面白ぉないき。 きへ、きへへへへへへへへへ…………
+あ、あた、新しいモノ、 いーっぱい、いーっぱい手に入ったきね。 さあ、ばらまくきね……けへへへ。
+井戸水、水道、貯水槽、朝の牛乳、 おクスリいーっぱい入れるがやき……
+しゅ、出血、 だ、だだだ、大サービスやき……
+みーんなで、みーーーんなで、 きもちよーくなるがよ、きへへへへ……
+きへ、きへへへ、きへへへへへへへ……
+ ……ひひゃーーーーーーははは……！","Kiheh... kiheheheheh... Hahyahyahyaheheh!
+ Heheh, heh... B-Boring, so boring... This ain`t fun at all...
+ I-It`s the night! There should be people walkin` around in agony, wanting to feel good...
+ ...Otherwise, it ain`t fun at all! Kiheh, kiheheheheh...
+ I-I gots a buuuuuncha new stuff. Time so spread it around... Kiheheh!
+ Waterways, water tanks, morning milk, I`ll stuff `em all with medicine.
+ I-I`ll give you all some nice hemorrhaging, on the house...
+ Let`s eeeeeeveryone feel good together, kiheheheh...
+ Kiheh, kiheheheheh...
+ HYAHAHAHAHAHAH!"
+narrator,素敵医師は、現れた時と同じように 夜霧の中へ溶けるように消えていった──,"Much like how he`d appeared, Doctor Wonderful disappeared into the night mist."
+Suteki Ishi (talking),"あが…………あががが…… くひ、くひいぃ……
+全く、昼間は苦手ながよ…… 光がぎーっちり躰に当たって……
+ ……ひやくてひやくてたまらんき……
+け、けひ、けひひ…… おまぁらも今日はひやいがやろ？","Agah... agagagagah... Kuheeheehee...
+ I really don`t like daytime... The light keeps hittin` my body...
+ It`s too cold, can`t stand it...
+ Keheh, heeheehee... Don`t you fellas think it`s cold, too?"
+narrator,素敵医師が振り返ると、彼の後ろには 十人にも及ぶ虚ろな目のジャンキーが続いていた。,"Dr. Wonderful turned around to ask the ten or so junkies following him, all with vacant eyes."
+Junky (talking),"せ……先生、お、俺は…… 俺は、身体中痒ぃよ…………
+向こうの奴は、こ、焦げるって、 こっちの奴は、は、吐き気がするって…","D-Doc... M-My whole body`s itchy...
+ This guy here`s burning up, and that one w-wants to puke..."
+Suteki Ishi (talking),……おまぁら、おかしいがよ。 昼間の光はひやいもんながよ？,You guys`re weird. You don`t think the sunlight`s cold?
+Junky (talking),せ、せせ、先生…… 昔は、暖かかったんじゃねぇかな……,D-Doc... M-Maybe it used to be warm...?
+Suteki Ishi (talking),"細かいことは気にしたらいかんがよ。 とにかく、今日は寒いが。
+で、暴れ回って躰をあっためるが。 そうしたら楽になるがやき。
+で、みーんなに持たせたおクスリ、 男も女もジジババもガキにも ぎっちり注射するがよ。
+殴り飛ばして黙らせてからでも ぜーんぜんオッケーやきね。
+で、ノルマ達成できたら、 先生があとですっごい気持ちいいおクスリ いっぱい分けちゃるきね、解ったがか？","Ya shouldn`t sweat the details. Anyway, today`s COLD.
+ Go wild and get yerselves warmed up. That should ease yer pain.
+ Also, make sure to inject every last person around with that drug I gave y`all.
+ Don`t care if ya have to beat `em into it.
+ And if ya meet your quota, Doc here`ll give ya tons of super good drugs. Got that?"
+Junky (talking),あ、ああ……ああああああああああああ。,Ah... AAAAAAAAAAAAHHHHH!
+Suteki Ishi (talking),"……おほ、 とりあえずそこの大きい建物襲うがよ。 何十人って人居るきね、きっと。
+ほれ、はよ行かんがか？ おクスリやらんがよ？","Oho. Okay, start by attackin` that big building. Should be some dozens of people in it.
+ Go on, git. Don`t ya want yer drugs?"
+Junky (talking),"あああああああああああああああああああ あああああああああああああああああああ あああああああああああああああ…………
+うあーーーーーーーーーーー！！","AAAAAAAAAAAAAAAAAA AAAAAAAAAAAAAAAAAA AAAAAAAAAAAHHHH...
+ UAAAAAAAAAAH!!"
+narrator,"ジャンキーたちは麻薬欲しさに、 目の前にあった建物を集団で襲い始めた。
+窓ガラスが割れ、何かがたたき壊され、 それから一拍遅れて、人々の絶叫と悦楽の溜息が ない交ぜになって聞こえてくる──","Driven by their desire for drugs, the junkies attacked the bulding as a group.
+ They broke the windows, crushed the doors and, shortly afterwards, people`s screams mixed with sighs of pleasure were heard--"
+Suteki Ishi (talking),"きへへ……上出来、上出来。
+さて、ほしたらおらぁは 次の街に行くがかね……
+きへ、きへへへへへへへ………………","Kiheheh... attaboys.
+ Now then, time to hit the next town when they`re done...
+ Kiheh, kiheheheheh..."
+Suteki Ishi (talking),"ひへ、ひへへへ…… 今日はこの街で暴れるがよ。
+ほれ……ほれほれ、 ヤク漬け十人衆、用意はいいがか？","Heeheh, heeheheheh... We`ll go wild here today.
+ Lessee lessee lessee... Do I got 10 druggies ready ta go?"
+Junky (talking),は、ははは……はい、先生…… な、なな、ななな……何でもするからよ、 く、くく、クスリくれよ、は、早く……,"Y-Y-Yes, Doctor... W-W-We`ll do anything, s-s-so give us some drugs, h-hurry..."
+Suteki Ishi (talking),"それはおまぁらの働き次第ながよ。 ほーれ、行くがよ…………
+ ……ん？　誰なが？　あれ。 道塞ぎゆうねーちゃんがおるがよ……","That depends on how y`all do. Go on, git...
+ ...Hm? Whozzat? Some chick`s blocking the way..."
+Yamazawa Asami (talking),……行かせはしないっ！ 貴様はここで終わりだ、長谷川均っ！！,"I won`t let you pass! This is the end for you, Hasegawa Kin!"
+Suteki Ishi (talking),"あーあー…………あぁ？ 何が用ながか？　べっぴんねーちゃん。
+あー、その前に 何でおらぁの本名知っちゅうがか？","Ahhhh... ah? Ya got business with me, hottie?
+ Or wait, who`re you? Where`d you learn my real name?"
+Yamazawa Asami (talking),"誰が二度も三度も 貴様に名乗るものかっ…！
+大人しく自首しろ、 でなければ力ずくで叩き伏せてでも 逮捕するっ！","As if I`d give you my name again!
+ Surrender peacefully, or I`ll arrest you by force!"
+Suteki Ishi (talking),"あー、市議会の女ながか…… めんどくさいことちや……
+ほれ、ヤク中ども、 あの女やっつけたらクスリやるがよ。","Oh, a Council broad... What a pain...
+ Hey punks, do that woman in and I`ll give ya some drugs."
+Junky (talking),うっ、うおおおおおおおっ……！ しっ、死ねやーーー女ああああっ！！,"UOOOOOOOOH! DIE, BIIIIIIIIIITCH!"
+narrator,"気怠げな素敵医師の言葉一つで、 ジャンキーたちは一斉に麻美へと飛びかかった。
+ ──が、麻美は右足をついと上げると、 舞いのように優美な動きで蹴撃を繰り出し、 ジャンキーたちを叩き伏せていく。
+しかもその間、 軸足だった左足は僅かも動いていない。","The junkies all leapt at Asami, following Doctor Wonderful`s listless command.
+ However, Asami lifted her right leg up and kicked them all down with graceful movements.
+ Not only that, but her pivot left leg barely moved at all."
+Suteki Ishi (talking),"な、何なが、このねーちゃん…… めちゃくちゃ強いが……
+ ……？ なんか昔、おらぁ同じ様なこと 言うた気がするがよ……？
+あ、あーあーあーあーあー。
+思い出したがよ、たしかおまぁの名前 山沢とかいうたがかね……","Wh-What the hell? This broad`s crazy strong...
+ ...? Didn`t I say somethin` similar not too long ago...?
+ Ah, aaaaah ah aaaaaaaah.
+ I remember now, you`re that Yamazawa chick, right?"
+Yamazawa Asami (talking),……こんな中毒患者を何人けしかけても 私は退けられないぞ、長谷川っ！,"I won`t back down, no matter how many addicts you throw at me!"
+Suteki Ishi (talking),偉そうなこと言いゆうが、 おまぁもちょっと前まで 中毒患者やなかったがか？,"Big talk, but weren`t ya an addict too, until a little while ago?"
+Yamazawa Asami (talking),っ…… 言うな、長谷川っ……！,"...! Silence, Hasegawa!"
+Suteki Ishi (talking),"あれだけバカスカ麻薬や媚薬を 注射したがやき、 そう簡単には抜けてない筈ながよ……
+おまぁ、実は今、 禁断症状とか出ちゅうがやないか？","I stuck ya with a ton of drugs and aphrodisiacs, shouldn`t be that easy ta get clean...
+ Bet yer going through withdrawal right now."
+Yamazawa Asami (talking),誰がっ……,As if-
+Suteki Ishi (talking),"けへ……きへ、きへへへへへ…… 図星なが、図星ながよ。
+ほぉ~れ、こっち来とおせ。 前よりもっとええおクスリあるがよ、 気持ちよぉくなれるがよ？
+ほれ、ほれ、ほぉおれ。 山沢のねーちゃん、来とおせ。","Keheh... kiheheheh... Hit the bullseye.
+ C`meeeere, I got something eeeeven better than before. It`ll send you ta heaven.
+ C`mere, missy Yamazawa, it`s got yer name on it."
+Yamazawa Asami (talking),馬鹿にするなっ…………！,Don`t mess with me!
+Suteki Ishi (talking),"ひー……怖い怖い、目が怖い。 おらぁを蹴り飛ばす気ながか？
+けど、そう簡単にはいかんきね。 きへ、きへへへへへ………………","Eek, scary, you look scary. Gonna kick me into the dirt?
+ Won`t be that easy, though... Kiheheh..."
+Yamazawa Asami (talking),"変ね……さっきまで確かに、 この辺で長谷川の姿が……
+ ………………！？","Weird, I could`ve sworn I saw Hasegawa around here...
+ ...?!"
+Junky (talking),"あ、あああ、あ、あんた、 俺をこ、ここ、殺さば殺し殺せ殺され…
+こ、こここ、ここ……殺してクレる？","Y-Y-Y-You there, didja c-c-come t-t-t-ta
+ kill me?"
+Yamazawa Asami (talking),……………… 可哀相に、もう自分が誰かも……,"... You poor, lost soul..."
+Junky (talking),"あ、あひゃへ……へへへへ……
+し、死にたくないよおおおおおおお…
+死にたくないから殺すううううううっ！","Ahyahyahyahya...
+ I-I don`t wanna die...
+ SO IMMA KILL YOOOOOU!!!"
+narrator,"ジャンキーが嬌声を上げて、麻美に飛びかかる。
+ ──だが、麻美はひらりと身を躱すと、 ジャンキーの脳天に強烈な踵落としを炸裂させた。
+ジャンキーは、声もなく倒れ伏す。","The junkie lept at Asami with a scream.
+ However, Asami swiftly dodged him and unleashed a mighty kick on his head.
+ The junkie fell silently."
+Yamazawa Asami (talking),……ごめんなさい。 私がもっと早く 長谷川を逮捕していれば……,...Forgive me. If only I`d arrested Hasegawa sooner...
+Suteki Ishi (talking),へ、けへへ…… お、おらぁがどうかしたがか？,"Heh, keheheh... Ya were gonna do WHAT ta me?"
+Yamazawa Asami (talking),…………っ！　長谷川均っ！,...! Hasegawa Kin!
+Suteki Ishi (talking),"へけけ……ね、ねね、ねーちゃん、 ひ、人の名前、言うたらいかんがよ……
+今はおらぁ、長谷川と違うがよ。 素敵医師やきね……ひけ、けけ。","Keheheh... missy, it ain`t good to say my name aloud.
+ I ain`t Hasegawa anymore. I`m Dr. Wonderful, kiheheh."
+Yamazawa Asami (talking),今日こそ、絶対に逃がさないっ！,You won`t escape this time!
+Suteki Ishi (talking),"まっこと元気なねーちゃんながね……
+でも、どんなに頑張ってみても おらぁ無駄やと思うがよ？","What a spunky broad.
+ But I don`t think ya can pull it off even if ya try."
+narrator,"──素敵医師と麻美が対峙している間に、 一人、また一人と 周囲からジャンキーが集まってくる。
+彼、そして彼女らジャンキーは、 皆一様に麻美へ虚ろな目を向けていた。","As Dr. Wonderful and Asami faced each other, several junkies started to surround them.
+ Every single one of them stared at Asami with vacant eyes."
+Yamazawa Asami (talking),こ、この数…… どれだけの人を麻薬中毒に……,S-So many... How many addicts have you-
+Suteki Ishi (talking),"へけ……どんだけやったきね？
+死によった子供まで一緒にしたら 百人近う居るがよ、多分……","Created, ya ask?
+ If I count the kids, then prolly `round a hundred..."
+Yamazawa Asami (talking),"………………
+絶対に…… 絶対に負けはしないっ…… 許さないっ……
+私も含めて、ここに居る者全員の人生を 弄んでぼろぼろにした罪、 必ずその身で償わせるぞ、長谷川っ！！","...
+ I will definitely... DEFINITELY not lose! I won`t forgive you!
+ Hasegawa, I`ll make you pay for destroying all of their lives, and mine, with your own!"
+Suteki Ishi (talking),無理やと思うがよ……？ へけけけ、へけけけけけ………………,"Ya can`t pull it off. Keheh, keheheheh..."
+Yamazawa Asami (talking),もう逃がさない……！ ここまでだ、長谷川っ！！,"You won`t escape! This is the end, Hasegawa!"
+narrator,──操られたジャンキーを何人となく蹴り倒し、 ついに麻美は素敵医師を袋小路に追い込んだ。,"Having defeated the junkies, Asami finally managed to drive Dr. Wonderful into a corner."
+Suteki Ishi (talking),きへへ……参ったがよ、 元気な上にしつこいねーちゃんやき……,"Kiheheh, oh man... Yer spunky AND stubborn."
+Yamazawa Asami (talking),"貴様を逮捕するためなら、 私は何度でも食い下がって…………
+ ……く、うっ……","I`ll chase you to hell itself to arrest you-
+ ...Khh...!"
+Suteki Ishi (talking),きへ、きへへへへ…… 苦しいがやろ、しんどいがやろ？,"K-Kiheheh... It hurts, don`t it?"
+Yamazawa Asami (talking),何を……この程度の疲れでっ！,As if... I`m barely tired!
+Suteki Ishi (talking),"嘘ついても解っちょるきね。 立っちゅうのも辛い筈なが。
+最近までおクスリ漬けで、 本当は骨も筋肉も ガタガタのスカスカの筈やき……
+それでこんだけ闘うたら…… ひへ、ひへへへ……
+躰じゅうがスカスカの部分を埋めたくて、 おクスリ欲しくてたまらん筈やき……","I can tell even if ya lie. Ya can barely stand up, right?
+ Ya were addicted `til recently, so yer bones and muscles should be a right mess...
+ And if ya fight this much... Hiheh, hiheheheh!
+ You should be itchin` to pump yerself fulla drugs..."
+Yamazawa Asami (talking),誰……がっ……！,I`m... not...!
+Suteki Ishi (talking),大体、ここに逃げてきたのが 罠ゆうて気付いちょらんがやろ、おまぁ…,"`Sides, haven`t ya noticed this is a trap yet?"
+Yamazawa Asami (talking),わっ、罠だと……,A-A trap...?
+Suteki Ishi (talking),きへへへ……ほおりゃ。,Kiheheh... observe.
+narrator,"どこに隠し持っていたのか、素敵医師は 何本かのアンプルを取り出すと地面に叩きつけた。
+その途端、何かの化学反応が起きて 周囲に白煙が立ちこめ始める──","Dr. Wonderful pulled out several ampoules and smashed them on the ground.
+ It caused some sort of chemical reaction which began producing a white smokescreen."
+Yamazawa Asami (talking),くっ……！？,Kh?!
+Suteki Ishi (talking),きへへ……袋小路なら四方壁やき。 風で煙が飛んでいかんがよ。,Shoulda picked an open place so the smoke`d be blown away.
+Yamazawa Asami (talking),この程度、目眩ましにもなるものかっ！,This is barely a distraction!
+narrator,"麻美は白煙を突っ切って、 素敵医師に肉薄しようとする。
+ ──だが。","Asami cut through the smoke and closed in on Dr. Wonderful.
+ --However."
+Yamazawa Asami (talking),……っ、う……あ、あっ…………？,...! ah... ah...?
+narrator,"──脳裏に、躰に、突然甘い痺れが広がった。 躰から力が抜けて麻美は思わず倒れ込む。
+その際、胸いっぱいに白煙を吸い込んだ。
+目眩、幻覚。 手足が言うことを聞かず震え始める。
+その途端、悦楽が走り抜け── 軽い絶頂が麻美の躰を襲う。","A sweet numbness began running through her body, robbing it of its strength.
+ At that moment, she breathed in a lot of smoke.
+ Dizziness. Hallucinations. Her limbs did nothing other than shiver.
+ Then, pleasure ran through Asami, making her have a light climax."
+Yamazawa Asami (talking),や……な、ふあっ……ひっ……！？,Wha... fwahn... ahn?!
+Suteki Ishi (talking),"きへへ……思った通りやき。
+健常いうがやったらきつい煙草くらい、 ジャンキーやったら屁のつっぱりにも ならん弱ぁい揮発性の麻薬やが…………
+今のおまぁやったら、イッてしもうても 不思議やないくらい効くがやろ？","Kiheheh... as I`d thought.
+ This here`s a weak, volatile drug that does nothin` to junkies or truly healthy folks...
+ But to you right now, it must make ya cum easily, no?"
+Yamazawa Asami (talking),な、舐めるなっ、この位でっ……！,D-Don`t look down on me...!
+narrator,"麻美は懸命に立ち上がって素敵医師に蹴りを放つ。
+ ──だが、無駄だった。 力が入らず、素敵医師の躰が少し揺らいだだけだ。","Asami tried to stand up and kick Dr. Wodnerful.
+ However, it was futile. She had so little strength that she barely shook his body."
+Yamazawa Asami (talking),そ、そんな…………,Th-This can`t be...
+Suteki Ishi (talking),"きへへへ……きへへへへ。 おほー、痛ててててて、おー、痛いがよ。
+ ……この恨み、三百倍にして返すきね。","Kiheheheh... Ooooh, that smarts.
+ ...You`ll pay for that."
+narrator,素敵医師は片腕一本で麻美の躰をねじ伏せて、 背に、腕に、何本かの注射器を突き立てた──,Dr. Wonderful held down Asami with one arm and injected her with countless syringes--
+cg narrator,"「きへ、きへへ…… 　やっぱねーちゃんにはそれが似合うがよ……」
+何処とも知れぬ部屋の片隅で、 麻美を見下ろした素敵医師が呟く。
+「あ…………っあ、う、っふ……」
+惚けた顔、悦楽にひたる喘ぎ声。 ──麻美の応えは、それだけだった。
+いや、もうこれは麻美ではない。
+薬漬けになり魂を抜かれた、 哀れな女の躰があるだけだ──
+「ねーちゃん、どんな感じながか？ 　気持ちええがか？」
+「ふふ……ふふふ。 　ふふふふふふふふふふふふふふふふ……」
+「ほー、そんなに気持ちええがか」
+言いながら素敵医師は麻美の頭を撫で、 首筋に注射器を突き立ててやる。
+「……ひアっ……はああああアッ…………！！」
+「おうおう、ビクビク震えよる。 　気持ちええがやろ？　イッてしもたがやろ？ 　おまぁが死ぬまでずっと可愛がっちゃるき……」","「Kiheheh... 　Yeah, this is how ya oughta be, missy.」
+ Standing in the corner of an unknown room, Dr. Wonderful spoke as he look down at Asami.
+ 「Ah... ahn, hnng, fwah...」
+ Asami`s only response was to moan in an ecstatic voice, with a blank expression.
+ --No, that was no longer Asami.
+ It was the soulless husk of a poor, drug-addled woman...
+ 「How`s it feel, missy? 　Good, innit?」
+ 「Fufu... fufufu... 　fufufufufufufufufu...」
+ 「That good, eh?」
+ Dr. Wonderful patted Asami`s head as he spoke, then injected another needle into her.
+ 「Hyah! hyaaaaaaaahn!」
+ 「Ohoh, you`re shaking. 　Feels good, right? Yer cumming, right? 　I`ll keep ya company `til ya die...」"
+cg narrator,"快楽に壊れた麻美は、 意識の破片すら薬物に溶かされ──
+素敵医師の腕の中で、静かに存在を消していった。","Asami`s last shred of consciousness was consumed by the drugs and the pleasure,
+ and she passed away in Dr. Wonderful`s arms."
+Yamamoto Akuji (talking),よー、素敵医師。 おめー、割とマトモに 働いてるそーじゃねーか。,"Hey, Dr. Wonderful. Looks like ya can work properly after all."
+Yamamoto Akuji (talking),け、けひひひひひ…… そ、それはもちろんながよ、きへ……,K-Keheeheehee... O-Of course I can.
+Yamamoto Akuji (talking),今後の参考に訊いとくけどよ、 おめー、なんか欲しいもんあるか？,Askin` for future reference. Is there anything you want?
+Suteki Ishi (talking),けへへ……へ？ ほ、欲し……欲しいもの……,Keheh... heh? S-Something I want...?
+Yamamoto Akuji (talking),おう、麻薬以外で。 ボーナスで出してやってもいいぞ。,"Yeah, aside from drugs. I can give ya more money."
+Suteki Ishi (talking),クスリがええがよ。,Drugs are fine.
+Yamamoto Akuji (talking),だから麻薬以外で……,I said aside from drugs-
+Suteki Ishi (talking),おクスリ欲しいが。,I want drugs.
+Yamamoto Akuji (talking),"………………
+まーその、俺がたまに吸うモクなら 今ここに持ってるけどよ。","...
+ Well, if the cigs I smoke are fine, I have some with me."
+Suteki Ishi (talking),も、ももももも、もく？,C-C-C-Cigs?
+Yamamoto Akuji (talking),煙草だ煙草。 見方によっちゃあ、 これも麻薬の一種だしな……,Cigarettes. Some people do consider them to be a kinda drug...
+narrator,"悪司は、百円ライターと一緒に 素敵医師の目の前に煙草一箱を差し出した。
+ ──と、素敵医師は 悪司の手から煙草をしゃくり取った。","Akuji gave Dr. Wonderful a cheap lighter and a carton of cigarettes.
+ Dr. Wonderful responded by quickly taking them from Akuji`s hands."
+Suteki Ishi (talking),し、刺激ーー刺激ーーー刺激ーーー！！ ローダウンエクスタシィーーー！！！！,I-I got me a hiiiigh! IT`S ECSTASY TIME!!!
+narrator,素敵医師は叫びながら 二十本近い煙草を全て取り出し、 まとめて口にくわえて火をつける。,"As he screamed, Dr. Wonderful placed around twenty cigarettes in his mouth and lit them all up."
+Suteki Ishi (talking),"すぱーすぱーすぱーすぱーすぱーすぱー、 すぱーすぱーすぱーすぱーすぱーすぱー、 すぱーすぱーすぱーすぱーすぱーすぱー…
+あ、あへ……あへ、うえ、うえええ…… き、来たキタきたきっ……
+ ………あぅ~、うえぇ……ひううぅ……
+すぱーすぱーすぱーすぱーすぱーすぱー、 すぱーすぱーすぱーすぱーすぱーすぱー、 すぱーすぱーすぱーすぱーすぱーすぱー…
+ ………ほわあぁ…………うっとり……","Puff puff puff puff puff puff puff puff puff puff puff puff puff puff puff puff puff puff...
+ A-Aheheh... weheheh... I-It`s hittiiiin`!
+ ...Ahhh, weheheh...
+ Puff puff puff puff puff puff puff puff puff puff puff puff puff puff puff puff puff puff...
+ ...Hwaaah... ecstasy..."
+Yamamoto Akuji (talking),"………………
+俺、煙草やめよっかな。","...
+ Maybe I should quit smoking."
+narrator,素敵医師は細い路地に一人佇み、 曇った夜空を見上げている。,"Dr. Wonderful was standing still in an alleyway, gazing at the night sky."
+Suteki Ishi (talking),"……ひ、ひへへ………… どんよりしちゅういい夜なが……
+へ、ひへ…………
+ ……………………ほへ……？","...H-Hiheheh... Night`s nice and cloudy...
+ H-Hiheh...
+ ...Hoheh?"
+narrator,背後に人の気配を感じて、 素敵医師はのろのろとそちらを振り返った。,He felt a presence behind him and sluggishly turned around.
+narrator,そこに居たのは、 素敵医師が昼間に呼び出していた,"There stood the person he`d called for earlier in the day,"
+narrator,だった。,.
+Suteki Ishi (talking),"ひ、ひへ……ひひゃへへへ………… よう来てくれたがよ……
+ああ、別に大した用はないがよ。 おまぁには日頃お世話になっちゅうきね、 お礼に……………………
+ …………麻薬をプレゼントするがよ。","H-Hyaheheh... Thanks fer comin`...
+ Oh, it ain`t anything big. Just wanted ta give ya my thanks for being good ta me.
+ ...In the form of drugs."
+narrator,素敵医師はアンプルと注射器を取り出し、 突然、,Dr. Wonderful took out an ampoule and a syringe and suddenly jumped at
+narrator,に飛びかかった──,-
+Suteki Ishi (talking),"ひ、ひへ……ひへへへへへへ…………
+ ……ひへ、","H-Hyaheheheh...
+ ...Hiheh,"
+Suteki Ishi (talking),"………… き、気分はどうなが……？
+ひへへへへ……そうながか、そうながか。 最高の気分ながか…………
+ひへ、ひへへへへ…… ひゃはへへへへへゃはははは……！！","... H-How`s it feel?
+ Hiheheh... ain`t that right? Best feeling there is...
+ Hiheheheh... HYAHAHAHEHEHEH!"
+narrator,"は、素敵医師の手にかかって ジャンキーになってしまった。
+もう、","fell into Dr. Wonderful`s hands and became a junkie.
+ There`s no hope of"
+narrator,が回復することは ないだろう──,recovering anymore...
+narrator,──この地区の奉仕青年団員詰所前に、 数人のジャンキーがふらふらと現れた。,Several junkies appeared in front of the YCSG`s district office.
+Junky (talking),"ち……畜生………… ヤクを……ヤクよこせえっ……………
+ここにヤクがあるって聞いたぜ…… 地域管理組合ならヤク持ってんだろぉ？
+ヤク、ヤクううっ………… 畜生、畜生、ちくしょおおおっ……！
+ヤクよこせええええええええええっ！！","F-Fuck... G-Gimme drugs...!
+ I heard there were drugs here... Don`t RMGs have drugs?!
+ Drugs, druuuugs... Fuck, fuck, FUUUUUUUUCK!
+ GIMME DRUUUUUUUUUGS!"
+narrator,数名のジャンキーたちは叫び声を上げながら、 詰所に襲いかかっていった。,"Screaming, the junkies attacked the office."
+Suteki Ishi (talking),ひ、ひへへへ…… 見えてきよったがよ、 あれが奉仕青年団の詰所やき……,"Heeheheh... I spy, with my little eye, a YCSG office..."
+Junky (talking),せっ……せンせえ……先生っ…… 本当に、本当にあそこに ヤクとカネがあんのか…………？,D-Doctoooor...! D-Does that place really have money and drugs?
+Suteki Ishi (talking),"本当にあるがよ、先生は嘘吐かんきね。
+仮におクスリが無かったがでも、 おまぁらがカネ持っちゅうがやったら 先生がおクスリ作っちゃるきね。
+さ、お友達と一緒に暴れて来るがよ。","Yep. Doc ain`t a liar.
+ Even if there ain`t no drugs, if ya get me the money, I can make the drugs myself.
+ Now, go wild with yer pals."
+Junky (talking),"う、うお……………… ……うおおおおおおおおっ……！！
+クスリよこせええええええええっ！ カネよこせえええええええええっ！！","Whoa... UOOOOOOOOOOOH!
+ DRUUUUUUUUUUUUGS! MONEEEEEEEEEEY!"
+narrator,数名のジャンキーたちは叫び声を上げながら、 詰所に襲いかかっていった。,"Screaming, the junkies attacked the office."
+Suteki Ishi (talking),"そうそう、それでええがよ…… 暴れて奪って血みどろになるがよ……
+き、きへ…………きへへへへ…… 楽しいがよ…………
+ ……ひゃえーっへっへっへっへ……！！","Yes, that`s the ticket... Break, steal, kill `em all...
+ Kiheh, kiheheheh... This is so fun...
+ HYAAAAAHEHEHEHEH!"
+Suteki Ishi (talking),へ……ほひへへへ………… ひゃへ…………へへへ……,Heh... hyaheheh... keheheheh...
+Lover (talking),あ、あの…… 呼ばれた通りに参りましたが、 一体、私に何の用でしょう……,"U-Um... I`m here like you asked, but what do you need from-"
+Suteki Ishi (talking),"ほへ、ひへ…… まあ、用ってもんでもないがよ。
+今日はどんより曇っていい日和で、 風も湿気が多くてじとじとして ようけ気持ちええがよ。
+ほやけん、誰か綺麗所でも呼んで、 お喋りしつつ、楽しい午後のひとときを 過ごしたかったが。","Hoheh... Eh, nothin`, really.
+ Today`s cloudy, hot, and damp, so I`m all clammy. Feels good.
+ So I wanted to call someone over for a pleasant chat in a nice-lookin` place."
+Lover (talking),……………………は、はあ……,......O-Okaaay...
+Suteki Ishi (talking),きへ、へへ………… まあ隣りに座るがよ。,"Kiheheh... Come on, sit next to me."
+Lover (talking),とっ、隣りに…………,N-Next to you...?
+Suteki Ishi (talking),まあそう嫌がらんでもええがよ。 きへへへへへへ……,Don`t look so put off. Kiheheheh...
+Lover (thinking),だ、誰だって嫌がるわよっ…… キモくてクサいあんたの隣りなんか……,"Wh-Who`d want to sit next to you, you disgutsting little-"
+Suteki Ishi (talking),"きへ、きへへ…………ひゃへへ…… ほれ、隣りに………………
+ ……………とな、り……………に………","Kiheheh, hyaheheh. Cooooome on...
+ ...Next... ta... me..."
+Lover (talking),？　あの……？,? Uh...?
+Suteki Ishi (talking),"くっ…………クスリが切れ………… 切れったるれったらりれってらるねら…
+…………ふわぎゃーーーーーーーー！！
+あひーあひーひああああああああ！ あきゃきゃきゃきゃきゃかはひゃー！ ぷばーぷばーほべぱひゃふはひゃぺー！
+ひひゃらほへきゃぴぷへうぇひゃえー！ おへ、うへ、うへ…ひへはほへはぺー！ ぷらんばっぱぴしゃきぴゅきぴゃーー！","M-My high`s about to fade... fadefadefade...
+ ...FGYAAAAAAAHHHH!!!
+ AHYAAAAAAHAHYAHYA! AKYAKYAKYAKYAKYAKYA! PFFFFFHAAAHAHAPFEHEHEH!
+ HYAHOHOHEHEHEHOH! OHEH, OHEHEHEHOHOHOH! PRRRRRRTPFFFFFFFPFFFF!"
+Lover (talking),……ひっ……ひいいっ！ な、何……何なのよ、ちょ……,...E-Eeeeek! Wh-What are you-?!
+Suteki Ishi (talking),あひーあひーひああああああああ！ あきゃきゃきゃきゃきゃかはひゃー！ ぷばーぷばーほべぱひゃふはひゃぺー！,AHYAAAHYAHYAHYAHYA! AKYAKYAKYAKYAKYA! PFFFFFHAAAHAHAPFEHEHEH!
+Lover (talking),ひ、ひいっ……！ きゃーーーーーーーーーーっ！,Eeeeek! KYAAAAAAAH!
+narrator,"情婦が恐怖にかられて逃げ出した。
+それとほぼ同時に、 素敵医師が懐から麻薬入り注射器を取り出し、 自分の躰へ突き立てた。","The woman ran away, frightened.
+ At almost the same time, Dr. Wonderful took out a syringe full of drugs and injected it into himself."
+Suteki Ishi (talking),"……………………ほへ………… ひ、ひへ……落ち着いたが…………
+しかし失礼な女やき…… 何も逃げる事はないがよ。………… ひ、ひへ。決めたがよ。
+あの女にもいずれ、 おクスリの素晴らしさを教えてやるが。 きへ、ひへひゃへへ……！","...Hoheh... A-All good now...
+ But what a rude broad. That was nothin` to run away from.
+ ... H-Hiheh, I`ve decided.
+ I`ll teach her about the wonderful world of drugs. Kiheh, hyaheheheh!"
+Suteki Ishi (talking),"ひ、ひへ……ひへへ……
+く、組長ゆうのはええもんながよ。 誰も彼も頭下げゆう……
+い、いいい、いっぱい威張れるし、 もう言うことないき……きへへへ。 おらぁ最高ながよ。","H-Hiheheh...
+ B-being the Chairman`s great. Everyone obeys me.
+ No more of bein now I boss people around. I`m the top dog."
+Chinpira (talking),し……失礼しやす、組長…… 言われたとおり、ドドリアジュースを 作ってきやした…………,"E-Excuse me, boss. I made the durian juice you asked for..."
+Suteki Ishi (talking),……んあ？ 知らんがよ、そんなん。,...Hah? First I hear of it.
+Chinpira (talking),し、知らんって組長、 さっきドドリアジュースが飲みたいから ドドリア探してこいって……,"B-But boss, you just said you wanted to drink durian juice, so I went to look for it..."
+Suteki Ishi (talking),"ああー、しつこいヤツは嫌いながよ。 知らんて言うたらおらぁ知らんが。
+ ……ぽいっとな。","I hate stubborn guys. I told ya I don`t want it.
+ ...Out you go."
+narrator,素敵医師はジュースをぽいっと庭に捨てた。,Dr. Wonderful threw the juice onto the garden.
+Chinpira (talking),………………あああああああ！ モノ不足のこのご時世、必死になって 探してきたドドリアのジュースがー！,...Aaaah! The durian juice I worked so hard on since it`s so difficult to find!
+Suteki Ishi (talking),"おまぁ、組長の嗜好が解ってないがよ。 おらぁジュースよりクスリやき。
+ほれ、ジンタンでもヒヤキオーガンでも 何でもええき、クスリ買うて来とおせ。 ほれ、ほれほれほれ。
+給料はようけ出しちょるきね、 給料分だけはぎっちり働いてもらうが。 それともクスリ漬けになりたいがか、ん？","You don`t know my tastes. I like drugs more than juice.
+ I don`t care if it`s fuckin` aspirin, go buy me some drugs. Go on.
+ I`m paying you, so make yerself useful. Or do you wanna become my guinea pig?"
+Chinpira (talking),ちっ……ちっくしょ………… い、行きますよ、行きゃいいんでしょ、 ……この…………,"F-Fuck... I-I`m going, okay? ...Damn you..."
+Suteki Ishi (talking),…………きへ、ひゃへへへ………… 組長サイコーながよ。ひゃへへへ……！,"...Kiheheh, being the  chairman`s the best!"

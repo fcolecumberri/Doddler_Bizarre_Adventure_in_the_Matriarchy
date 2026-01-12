@@ -1,0 +1,561 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆青葉イベント = 2:,{☆青葉イベント = 2:
+__system__??,},}
+__system__??,{☆青葉イベント > 2:,{☆青葉イベント > 2:
+__system__??,},}
+__system__??,{☆青葉 = 0:,{☆青葉 = 0:
+__system__??,},}
+__system__??,{☆青葉 = 1:,{☆青葉 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 2:,{麦 = 2:
+__system__??,{☆青葉イベント > 2:,{☆青葉イベント > 2:
+__system__??,},}
+__system__??,{B忠誠心 > 70:,{B忠誠心 > 70:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,{☆青葉イベント > 2:,{☆青葉イベント > 2:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 4:,{麦 = 4:
+__system__??,},}
+__system__??,{麦 = 5:,{麦 = 5:
+__system__??,},}
+Yamamoto Akuji (talking),"おお、青葉――
+ ……誰だ、それ。","Yo, Aoba-
+ ...Who`s that?"
+narrator,悪司に指を指された男は、ぺこりと会釈した。,The man Akuji pointed to gave a light bow.
+Aoba Youko (talking),"私の夫の青葉一郎です。 生きて…再会出来たんです。
+紹介しておいた方がいいと思って 同行させました。","My husband, Aoba Ichirou. He lived... and we reunited.
+ I brought him with me since I figured I should introduce him."
+Elite Yakuza (talking),青葉一郎です。 はじめまして。,I`m Aoba Ichirou. Nice to meet you.
+Yamamoto Akuji (talking),ああ。,"Yeah, same."
+Aoba Youko (talking),あの、一郎さん……,"Um, Ichirou-san..."
+Elite Yakuza (talking),"ああ、仕事の話をするのか。 わかった、挨拶も一応済ませたし、 先に帰っておくよ。
+それでは悪司さん、これからよろしく お願いします。","Ah, you have to talk about work, right? Okay, then I`ll head back first.
+ Well then, Akuji-san, I`ll be in your care."
+Yamamoto Akuji (talking),ああ、こちらこそ。,Same here.
+Elite Yakuza (talking),失礼します。,Excuse me.
+narrator,会釈すると、一郎は出て行った。 完全に一郎の姿が消えてから、 青葉が切り出した。,"Ichiro left with a light bow. As soon as he could no longer be seen, Aoba began to speak."
+Aoba Youko (talking),悪司さん…その… あなたと私に……肉体関係があった事… あの人には…,"Akuji-san, um... About our relationship, could you..."
+Yamamoto Akuji (talking),わかってる。 秘密だろ。,I know. I`ll keep it a secret.
+Aoba Youko (talking),はい。,Okay.
+Yamamoto Akuji (talking),俺より、旦那の味の方があったって訳だ。,So you prefer your man over me.
+Aoba Youko (talking),そ、そんな言い方… やめて下さい……,P-Please stop saying it like that...
+Yamamoto Akuji (talking),その件は了解だ。 でだな、夫婦で俺の元で働いてくれよ。,Enough about that. You two will keep working for me.
+Aoba Youko (talking),え？,Huh?
+Yamamoto Akuji (talking),あんたの旦那も、戦えるんだろ？ だったら、俺の部下にくわえる。 文句はないな？,"Your husband can fight too, right? Then he`ll work for me. Any complaints?"
+Aoba Youko (talking),そ、それは… お給金も頂けますし……,W-Well... As long as he gets paid...
+Yamamoto Akuji (talking),だったら商談成立だ。 夫婦で俺の為に働いてもらうぜ。,Then that`s settled. You both work for me now.
+__system__??,{★結婚 = 1:,{★結婚 = 1:
+Aoba Youko (talking),はい…ありがとうございます… 一郎さんも、喜ぶと思います。,"Okay, thank you. I think Ichirou-san will be happy, too."
+__system__??,},}
+__system__??,{★結婚 \ 1:,{★結婚 \ 1:
+Aoba Youko (talking),あ、あの…… その…一郎さんが帰ってきたので… 私……,"U-Um... Ichirou-san is back now, so I`ll..."
+Yamamoto Akuji (talking),俺にはもう抱かれないってか？,You won`t sleep with me anymore?
+Aoba Youko (talking),はい。,Correct.
+Yamamoto Akuji (talking),そーいう返事はきっぱりしてくれるのな。 なーんか傷ついちまうな。,"Straight reply, eh? That kinda hurts."
+Aoba Youko (talking),だって…… 私は一郎さんの妻ですから…,"I mean, I`m Ichirou-san`s wife..."
+Yamamoto Akuji (talking),ＯＫＯＫ。 残念だけど、もうあんたを抱く事はなし。 約束するよ。,"Okay, okay. It`s a shame, but I won`t fuck you anymore. I promise."
+Aoba Youko (talking),ありがとう、悪司さん。,"Thanks, Akuji-san."
+Yamamoto Akuji (talking),そっちからお願いしてくれたら、 いつでもしてやるぜ。,"But if you ask me to, I`ll do you any time."
+Aoba Youko (talking),そ、それはもうないです。,Th-That won`t happen.
+Yamamoto Akuji (talking),つれねー人妻だ。,What a cold wifey.
+Aoba Youko (talking),くす……,Teehee...
+__system__??,},}
+narrator,悪司が青葉を待っていると。,Akuji was waiting for Aoba when...
+ (talking),…から……,...I said...
+Aoba Youko (talking),ほら、おべんとついてる。 あんなに慌てて食べるから…,"Look, your boxed lunch. You ate too quickly..."
+Elite Yakuza (talking),そりゃ、慌てるだろう。 大将に呼ばれたんだから。,"Well, yes. The boss called for me."
+Aoba Youko (talking),だけど……,But-
+Yamamoto Akuji (talking),おいおい、仕事で呼んだんだぜ。 公私の区別つけてくんねーと困るなー。,"Hey, I called you here for work. Keep your private affairs at home."
+Elite Yakuza (talking),申し訳ありません。 それでは、自分はこれで。,Sorry. Then I`ll take my leave.
+Aoba Youko (talking),あ、ごめんね、一郎さん。,"Oh, sorry, Ichirou-san."
+Yamamoto Akuji (talking),おあついこって。,Ain`t you a pair of lovebirds.
+Aoba Youko (talking),か、からかわないで下さい！,P-Please don`t tease me.
+Yamamoto Akuji (talking),そろそろ、一本主義に飽きた頃じゃ ねーか？,Ain`t you tired of being with just one man?
+Aoba Youko (talking),一本…？,What...?
+Yamamoto Akuji (talking),一郎のナニだけじゃ、飽きてきたんじゃ ねーかって聞いたんだよ。,I`m asking if you`re not tired of taking just Ichirou`s dick.
+Aoba Youko (talking),そ、そんな、不謹慎な……,Th-That`s so indecent...
+Yamamoto Akuji (talking),なんなら俺が刺激になってやろうか？,Want me to spice things up?
+Aoba Youko (talking),結構ですっ！,No thanks!
+Yamamoto Akuji (talking),多分、俺のがあんたを 気持ちよくさせてやれるぜ。,Mine can probably make you feel real good.
+Aoba Youko (talking),そういう問題じゃないです！,That`s not the issue here!
+narrator,悪司はいくらか、青葉に包んでやった。,Akuji gave Aoba some money.
+ (talking),ありがとうございます。 いつか一郎さんと住むマンションの 購入資金にします。,Thank you. I`ll use it to help buy a house when Ichirou-san is back.
+narrator,青葉は少しはにかんでそれを受け取った。,Aoba accepted it with a faint smile.
+ (talking),まあ、好きなよーに。,"Well, your choice."
+Yamamoto Akuji (talking),おう。,Yo.
+Aoba Youko (talking),意見していいですか？,Can I give you my opinion?
+Yamamoto Akuji (talking),なんだい？,On what?
+Aoba Youko (talking),あなたのやり方は酷すぎます。,The way you do things is just cruel.
+Yamamoto Akuji (talking),ほほぅ。,Hoh.
+Aoba Youko (talking),地域管理組合というものは、もっと ボランティアとして地域の人の安全を守る べきです。,Our RMG should be more like volunteers who protect Midorigaoka`s people.
+Yamamoto Akuji (talking),"おいおい、おこちゃまな事 言ってんじゃねぇよ。
+ボランティアだろうが、ヤクザだろうが、 まず金がなくっちゃ行動出来ないだろ？","Hey, quit saying that childish bullshit.
+ Don`t matter if you`re a volunteer or yakuza, money`s everything."
+Aoba Youko (talking),でも……,But...
+Yamamoto Akuji (talking),"実際、恵まれない奴らに手を差し伸べても 自分が文無しじゃあ、お互いのたれ死に だろうが。
+人の事の前に、自分の事だ。 基本だろ？","If you extend a helping hand while broke yourself it`ll just be blind leading the blind.
+ Your own issues come before others`. Simple, ain`t it?"
+Aoba Youko (talking),ですが……,But...
+Yamamoto Akuji (talking),はいはい、これはいつまでたっても 平行線だ。 俺は、別件でお前を呼んだんだからよ。,"Fuck it, we`re never gonna see eye to eye on this. Plus, I called you up for another reason."
+Aoba Youko (talking),悪司さん、お話が…,"Can we talk, Akuji-san?"
+Yamamoto Akuji (talking),んー？,Hm?
+Aoba Youko (talking),……私以外の女子にも… 手を出しているんですね…,"...You`re putting your hands on other girls, aren`t you?"
+Yamamoto Akuji (talking),なんだ、妬いてんのか？,"What, you jealous?"
+Aoba Youko (talking),"違います！！
+わ、私はここのリーダー……でした… ですから、私が何をされても しかたないとは思っています…
+だけど… 他の女子には、それは関係ありません。
+だから、私以外の女子に、 みだりに手を出さないで下さい…
+だって……愛している訳でなく、 抱いているのでしょう？ アンモラルです……","No!!
+ I-I am... or WAS the leader here, so I don`t care what you do to me...
+ But the other girls have nothing to do with it.
+ So please, don`t put your hands on anyone but me...
+ I mean, you`re doing it without any love, right? That`s so amoral..."
+Yamamoto Akuji (talking),仕事だからなー。,It`s my job.
+Aoba Youko (talking),し、仕事っ…！？,Y-Your job?!
+Yamamoto Akuji (talking),"そーだ。 俺は愛を持って抱く女は 今生でただ一人と決めてるんでな。
+それ以外は、俺の為に働いてくれる 女への報酬だったり、色々だ。","Yeah. I`ve decided to only sleep out of love with only one woman for the rest of my life.
+ Any other time, it`s just a reward for women working for me and such."
+Aoba Youko (talking),なっ…ななっ…,Wh-Wh-Wha...
+Yamamoto Akuji (talking),ななな？,Wha What?
+Aoba Youko (talking),ま、間違っています！ そんな考え……おかしいです！,Y-You`re wrong! The way you think just isn`t right!
+Yamamoto Akuji (talking),どこが？,How so?
+Aoba Youko (talking),ど、どこがって……,"Wh-What do you mean, how...?"
+Yamamoto Akuji (talking),"俺が間違ってんだったら、女達は自然と 離れていくだろうさ。
+だけど現実はどうだ？ 俺を間違ってると言うあんたも、 俺から離れないじゃねーか。","If I were wrong, the girls would leave on their own.
+ But that`s not the case, is it. You can`t leave me either, despite what you said."
+Aoba Youko (talking),そ、それは……,I-It`s not...
+Yamamoto Akuji (talking),そーいう訳だ。,That`s how it is.
+Aoba Youko (talking),くっ……,Kh...!
+Aoba Youko (talking),呼びました？,Did you call for me?
+Yamamoto Akuji (talking),おう。,I did.
+Yamamoto Akuji (talking),おい、青葉、いつもそんな目で、 男を見るのかい？,"Hey, Aoba, do you always look at men like that?"
+Aoba Youko (talking),え……？,Huh...?
+Yamamoto Akuji (talking),潤んでるぜ。 熱でもあるのか？,Your eyes are moist. Ya got a fever?
+Aoba Youko (talking),い、いえ…私は……,"N-No, I`m..."
+Yamamoto Akuji (talking),……………,...
+Aoba Youko (talking),あっ…！,Ah!
+narrator,悪司が軽く力を入れて青葉を引き寄せると、 なんなく青葉は悪司の胸の中におさまった。,"Akuji lightly pulled Aoba towards him, and she easily pressed against his chest."
+Yamamoto Akuji (talking),いけねーなー。 人妻がそんな目で男を見ちゃ。,Bad girl. A married woman can`t be looking at men like that.
+Aoba Youko (talking),わ、私は……,I-I`m...
+Yamamoto Akuji (talking),それとも… 俺だから、そんな目で見てるのか？,Unless... You only give ME that look?
+Aoba Youko (talking),えっ……！,What?!
+Yamamoto Akuji (talking),可愛いな、青葉…,"How cute, Aoba..."
+Aoba Youko (talking),い、いや… そんな事、耳元で言わないで……,N-No... Don`t whisper that in my ear...
+Yamamoto Akuji (talking),気にしなくていいんだぜ… お前は俺にメロメロってるクセに、 まだまだ、お固い方だ。,Ya don`t hafta worry so much. You`re still putting up a fight despite being all over me.
+Aoba Youko (talking),いっ…いやっ……,N-No...!
+Yamamoto Akuji (talking),こいよ… 天国に連れてってやるぜ…,Follow me... I`ll take you to Heaven.
+Aoba Youko (talking),あ……っ…ああっ……,Ah... Ah...!
+narrator,青葉は寄せられる悪司の唇を 止められなかった。,Aoba could not stop Akuji`s approaching lips.
+cg narrator,"「はっ……あっ……ああっ……~~！！」
+青葉自身、これで何度達したか、覚えていない。 突き出した舌で自身の指を愛撫し、躰を何度も何度も 震わせる。
+ 「あくっ…はっ…ああ！」
+達して、達して、達して―― 痛くなる程敏感になっている青葉の花芯は、 まだ悪司の舌によってなぞられている。
+ 「いっ…いやっ…もういや…… 　やめて……悪司さっ………あ……っ…！！」
+悪司は尖ったそこに軽く歯をたてた。
+ 「何が嫌なんだい？ 　ここばかりさわられて、飽きてきたか？ 　それとも……」
+悪司は怒張したそれを、青葉の掌におさめる。 それは熱く、青葉の掌で脈打っていた。 その感覚に青葉は軽い目眩を覚える。
+ 「これが欲しくなったか？」
+ 「うっ…あうっ……」
+左右にかすかに振られた青葉の首。
+ 「わかんねーぜ。 　ちゃんと言葉にしてみな、青葉。 　どうして欲しい？」
+ 「うっ……ううっ…」
+青葉は、さっきよりも大きく、首を左右に振った。 その度、シャラシャラと金鎖が鳴る。
+その金鎖のひっかかっているロケットの中には 夫の写真がおさまっていた。
+ 「言葉も喋れなくなる程、ラリってきたのか。 　人妻は感じやすくていけねーな」
+ 「っ…！」
+青葉の中にある夫への罪悪感を、 悪司が言葉で煽った。
+今の青葉にとって、それさえも劣情を煽る 材料になっているが……
+ 「うっ…ああっ…」
+青葉が自分の中から垂れた感情の蜜に、 足をピクリと震わせる。
+ 「入れてやるよ…… 　待ってたんだろ？」
+ 「いっ…いやっ…うあっ…」
+ 「あっ…………っ…~~っ……！！」
+ゆっくり、まるで肉塊を切る包丁のように、 悪司のそれが青葉の中に入りこんできた。
+ 「あっ……あああっ…！！」
+その衝撃に、青葉の顎が宙で泳ぐ。
+ 「びっしょりなのに、痛いぐらい、 　お前の肉が俺に絡んでくるぜ、青葉」
+悪司は青葉の足を掴むと、さらに奥に入り込んだ。
+ 「あっ…！！」
+ゆっくりと動き出した腰に合わせ、 青葉の腰が自分の意志とは関係なく動く。
+ （私……私…どんどん、この人に 　侵食されていってるの…？）
+一瞬冷めた部分で青葉はそう思うが、次の瞬間には それはどうでもいい感情になっていた。
+ 「ああっ…！！」
+軽いストロークを打ち出した悪司の腰の 動きに、青葉は染まっていく。
+ 「ああっ…あ、あ、あ！」
+夫のものとは違うその感触が、今では青葉に馴染み、 青葉の躰の芯がそれを待ち焦がれている。
+ 「はっ…ああっ…！」
+早く、遅く、浅く、深く。 悪司は青葉の中をからっぽにするように、 動き、侵食していく。
+ 「っ…うあっ…はっ…ああっ！」
+シャラリと、青葉の耳元で金鎖が鳴り続けている。
+ 「あっ…あなたっ……あっ…！」
+その音に一郎を思い出すが、次の瞬間、 悪司の深いストロークにかき消される。
+ 「はっ……あ！」
+深くねじ込まれた悪司のそれが、 不規則に動く腰に合わせ、青葉の中を侵していく。
+ 「うっ……っ！」
+悪司のその動きに、青葉の中で白く小さなものが ぷちぷちと弾けて、消えて、生まれてはまた消える。
+ 「あっ…はあっ…！」
+その瞬間、青葉はその小さな光を求め、 我を忘れた。
+ 「ああっ…あっ、あ、あ！」
+激しく揺れ動く悪司の腰に合わせ、 青葉のそれも揺れる。
+ 「あ、あ、あ、あ！」
+艶に染まった目は、もう何も見ていない。 深くかき乱される快楽に溺れている。
+ 「あっ……~~~つ………！！！」
+青葉はきつく悪司の腰に腰をすりつけ、 何度も何度も、大きく腰を、足を、腕を震わせた。","「Hahn! ahn! aaaahn!」
+ Aoba had lost count of how many times she`d climaxed. Caressing her fingers with her tongue, her hips trembled over and over.
+ 「Auuugh! hahn! aaaaahn!」
+ She came, and came, and came- yet Akuji`s tongue still ran across her painfully-sensitive clitoris.
+ 「N-No...! Enough! 　Akuji-san, stooooop!」
+ Akuji lightly bit her hardened clit.
+ 「What`s the matter? 　You had enough of being teased here? 　Or maybe...」
+ Akuji placed his hardened member on Aoba`s hand. Burning hot and throbbing, its sensation made Aoba dizzy.
+ 「You want this now?」
+ 「Ngh... auuu...」
+ Aoba faintly shook her head.
+ 「I don`t get it. 　Tell me, Aoba. 　What do you want?」
+ 「Uuuugh...」
+ Aoba shook her head more. The movement shook her locket.
+ Inside the locket was a photo of her husband.
+ 「So high on pleasure ya can`t talk, huh? 　A married woman shoudn`t be so sensitive.」
+ 「...!」
+ Akuji`s words stirred up Aoba`s sense of guilt towards her husband.
+ However, for Aoba, those words now incited her lust as well...
+ 「Ngh! aaaahn!」
+ The mix of emotions inside Aoba caused her legs to twitch.
+ 「I`ll put it in. It`s what you`ve 　been waiting for, yeah?」
+ 「N-No! yaaahn!」
+ 「Aaaahn!」
+ Akuji`s member slowly slid inside Aoba, like a knife cutting through butter.
+ 「Aaaaaaaahn!」
+ The shock made Aoba`s motuh swing open.
+ 「You`re soaked, yet still clamping 　down hard enough to hurt, Aoba.」
+ Akuji grabbed her legs and thrust.
+ 「Ahn!」
+ In sync with Akuji`s movements, Aoba`s hips started moving on their own.
+ （Am... Am I going to keep being 　defiled by this man...?）
+ So Aoba thought in a moment of clarity, but by the next moment, she`d accepted it.
+ 「Aaahn!」
+ Akuji`s light thrusts made Aoba become enraptured.
+ 「Aaahn! ahn! ahn!」
+ Aoba`s body craved for the thing inside her, so different from her husband`s.
+ 「Hahn! aaaahn!」
+ Quickly. Slowly. Deeply. Shallowly. Akuji moved as if to hollow Aoba out, tainting her.
+ 「Waaahn! hahn! aaahn!」
+ Aoba`s locket kept shaking by her ear.
+ 「Ahn! Dear... aahn!」
+ It made her remember Ichirou, but it was quickly undone by Akuji`s deep thrust.
+ 「Hahn!」
+ Akuji`s member buried itself inside Aoba at irregular intervals.
+ 「Hngh...!」
+ Akuji`s movements made Aoba start to see lights flickering.
+ 「Ahn! haaaahn!」
+ At that moment, Aoba sought the light, forgetting herself.
+ 「Aaahn! ahn, aaaahn!」
+ Aoba`s hips moved in unison with Akuji`s violent thrusts.
+ 「Ahn, ahn, ahn, ahn!」
+ Her moist eyes no longer saw anything. She was drowning in pleasure.
+ 「AAAAAAAAAHN!」
+ Aoba`s hips tightly clung to Akuji`s, and her whole body trembled over and over."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Aoba Youko (talking),……………,...
+Aoba Youko (thinking),"……また…こんな… 夢中になって…… 何もかも忘れて……
+ ………怖い……
+私、この人にこんな躰にされてしまって… 怖い……","...I got absorbed in it again... I forgot about everything...
+ I`m scared...
+ I`m scared that he`s making my body like this..."
+Yamamoto Akuji (talking),よかったぜ。,That was nice.
+Aoba Youko (talking),えっ……？,Huh...?
+Yamamoto Akuji (talking),あんた、俺にちゃんと合わせて くれるから、楽でいいよ。,It was nice and easy since you kept up with me.
+Aoba Youko (talking),っ……,...!
+Yamamoto Akuji (talking),何、恥ずかしがってんだよ。 誉めてんだぜ。 旦那がうらやましいや。,What`re ya embarrassed for? It`s a compliment. Your husband`d be jealous.
+Aoba Youko (talking),……うっ……,...Uuu...
+Yamamoto Akuji (talking),思い出しちまったか…… 早く帰ってくるといいな。,"You remembered him, huh? Hope he returns soon."
+Aoba Youko (talking),ち…が…そうじゃない… 私…私……,No... That`s not it... I`m...
+Yamamoto Akuji (talking),旦那が帰ってきたら、あんたも 俺の呪縛から、解放されるってのにな。,"You`ll be free from my spell once he comes back, too."
+Aoba Youko (talking),え……,Huh...?
+Yamamoto Akuji (talking),あんたがそれを望むなら……だがな。,That is... if you want that.
+Aoba Youko (talking),それは……,That`s...
+Yamamoto Akuji (talking),……ふふっ…ん…,...Hohoooh...
+Yamamoto Akuji (talking),青葉。,Aoba.
+Aoba Youko (talking),なっ…なんですか！？,Wh-What is it?!
+Yamamoto Akuji (talking),こいよ。 抱いてやるよ。,Come. I`ll fuck you.
+Aoba Youko (talking),そ、そんな… 前にも言いました… 私は、夫がある身で……,"N-No way... I`ve already told you, I have a husband..."
+Yamamoto Akuji (talking),"死んでるかもしれない奴にたてる 操なんざ、今は捨てていいんだよ。
+もし帰ってきたら、その時には 俺も何もしねー。 くだんねーメンドーはいらねーからな。","You don`t have to stay faithful to a guy who might be dead.
+ And if he ever comes back, I won`t do anything. Don`t wanna deal with any bullshit."
+narrator,青葉の手を掴んでいる悪司の指が、 青葉の指に絡まる。,Akuji held Aoba`s hand and interlocked his fingers with hers.
+Aoba Youko (talking),あっ……,Ah...!
+narrator,それだけで、青葉は躰を僅かに竦ませた。,That was enough for her body to tense up.
+Yamamoto Akuji (talking),そのつまんねー寂しさ、 俺が忘れさせてやるよ。 さあ、今は俺に溺れな。,"I`ll make you forget your stupid loneliness. Now, lose yourself in me."
+Aoba Youko (talking),悪司さっ…やっ…やめっ…あっ…！,Akuji-san-! S-Stop! Ah!
+Aoba Youko (talking),悪司は、青葉曜子をこました。,Akuji fucked Aoba Youko.
+Yamamoto Akuji (talking),生活のたしにでもしてくんな。,"Here, some pocket money."
+Aoba Youko (talking),これ…お金ですか？,You`re giving me money?
+Yamamoto Akuji (talking),おう。,Yeah.
+Aoba Youko (talking),……………,...
+Yamamoto Akuji (talking),どーすんだい？,What will you do?
+Aoba Youko (talking),結構です。,"Thanks, but no thanks."
+Yamamoto Akuji (talking),あっそ。,Really now.
+Ishihara Senju (talking),あーおば。,Aobaaaa.
+Aoba Youko (talking),千手君… …な、何？,"...What is it, S-Senju-kun?"
+Ishihara Senju (talking),ついてきて欲しいとこがあるんだ。 今すぐ。,There`s a place I want you to come with me. Right now.
+Aoba Youko (talking),でも、外は雨で…,But it`s raining...
+Ishihara Senju (talking),だからいいんだよ。 いつ人がくるかわかんないって いうのがいいんだ。,So what? I like how I can`t be sure when someone`s gonna come.
+Aoba Youko (talking),どういう事？,What do you mean?
+Ishihara Senju (talking),いいから、早くきてよ。 ほら！,"Never mind, just hurry up. Come on!"
+Aoba Youko (talking),あっ…！！,Ah!
+narrator,千手は強引に青葉を外に連れ出した。,Senju forcefully brought Aoba outside.
+Aoba Youko (talking),森になんか連れてきて、どういう…,Why are we in the forest...?
+Ishihara Senju (talking),脱いでよ、青葉。,"Strip, Aoba."
+Aoba Youko (talking),えっ…！？,Huh?!
+Ishihara Senju (talking),早く。 ここで調教するんだ、青葉を。,Hurry. I`m going to train you here.
+Aoba Youko (talking),"なっ…
+いっ…いやよ！！ どうして、こんな…","Wha-
+ N-No way! Why do I-"
+Ishihara Senju (talking),うるさいなー。 ボクがしたいんだから、早くしてよー。 グズグズしないでさー。,"Shuddup. I wanna do it, so quit complaining and strip."
+Aoba Youko (talking),っ……！,...!
+Ishihara Senju (talking),逃げるな！！,Don`t run!
+narrator,"　　［ばちんっっ］
+千手は逃げた青葉めがけ、 ビー玉鉄砲を撃った。","　　［*Bang!*］
+ Senju aimed his BB gun at the fleeing Aoba and fired."
+Aoba Youko (talking),あうっ！？,Augh?!
+narrator,それが、青葉の後ろ首筋に命中し、 青葉は意識を失った。,"It was a perfect shot to the nape of Aoba`s neck, causing her to faint."
+Ishihara Senju (talking),もう…世話がやけるんだから。,"Geez, how troublesome."
+narrator,千手は青葉に手を伸ばした。,Senju reached out to Aoba.
+cg narrator,"雨の音がしている。
+ 『………て……』
+ 『………きて……』
+ 『起きて、青葉……』
+子供の声が、青葉を呼ぶ。
+ 「っ……ん…？」","The rain poured on.
+ 『...up...』
+ 『...ke up...』
+ 『Wake up, Aoba...』
+ A child`s voice called Aoba.
+ 「...Hmn...?」"
+cg narrator,"「…………？」
+青葉はゆっくり、意識を取り戻す。
+ 『見てごらんよ、青葉。 　自分の姿……クスクス』
+子供の声は千手だった。 青葉の視界に入る場所に姿が見えない。 どこかで彼女の様子を伺っているようだ。
+ 「……わ……たし……？」
+ 「………？！」
+ 『いい恰好だね、青葉……』
+ 「いっ……いやっ……」
+青葉は身じろいだが、千手の縛めはゆるまる どころか、逆にきつくなっていく。
+ 「いやっ…誰……か…」
+ 『そんな恰好で、人を呼ぶの？』
+ 「っ……うっ…！」
+ 『そんな恰好で縛られて、股間から、そんなもの 　ぶらさげてさ…ただの変態じゃん』
+ 「ちっ…ちがっ…」
+ 『でも青葉、股間のそれ、結構簡単に入ったよ。 　ちょっと、ボクがさわっただけでさ、青葉 　ぬれぬれになっちゃったんだよ、気絶してたのに』
+ 「うっ……うそっ…いやっ…」
+ 『嘘じゃないよ。 　ボクの指に、青葉の匂いが残ってるよ… 　ちゃんとお風呂、入ってるの？』
+千手の侮蔑に、青葉はさらに頬を火照らせる。
+ 『ここってね…とーきどき、思い出したように人が 　通るんだよ』
+ 『雨の日なんかは、傘がいらないぐらい、 　木がしげっていたりするからね』
+ 『今の青葉のかっこ、誰が見るか、わかんないよ…』
+ 「うっ…ううっ……」
+ 『それなのに、青葉、また濡れてるでしょ？ 　股間のそれ、雨のせいじゃないでしょ？』
+ 「ちがっ…ちが…」
+ 『どうしてだよ、ぬるぬるじゃないか。 　雨に溶けないよ、そんなに濃かったらさ』
+ 「うっ……」
+ 『あ、人が……』
+ 「えっ…！？」
+ 『嘘だよーアハハハハ』
+ 「くっ…うう……」
+ 『ボク知ってるよ…こういう時、どうすればいいか』
+ 『何もかも、解放しちゃうんだよ、青葉』
+ 「か…いほう…？」
+ 『そうだよ。 　解放しちゃえばいいんだよ。 　そうすれば、恥ずかしくなんかないよ』
+ 「うっ……」
+ 『ほら、足をもじもじさせてごらんよ。 　中、こすれていい気持ちでしょ？』
+ 「うっ…あうっ…」
+ 『もうイキたいんでしょ？ 　人がきたって聞いて、青葉少し、イッたでしょ？』
+ 「うっ…うあっ……」
+ 『そうそう、もっと動かして… 　イッちゃえ、人がいつくるかわかんないここでさ』
+ 「うっ…あっ……」
+ 『乳首、すっごくたっちゃってるよ、青葉。 　恥ずかしいなー』
+ 「うっ…うあっ…あっ……ああっ……」
+ 『青葉、今は理性なんかいらないんだから… 　ほら、イッちゃいなよ。 　もったいないじゃないか』
+ 「あっ…んんっ…あっ…あっ…あっ」
+ 「っ……~~~~~っ……あっ…… 　あーーっ……！！」
+ 『クスっ……クスクスクスっ……』
+青葉の内腿に、雨とも蜜とも違う体液が伝った。","「...?」
+ Aoba`s counsciousness slowly returned.
+ 『Take a look, Aoba. 　At yourself, I mean... heheheh.』
+ The voice was Senju`s. He talked to her from someplace she couldn`t see.
+ 「...Me...?」
+ 「?!」
+ 『Looks nice, don`t you think?』
+ 「N-Nooo!」
+ Aoba tried to move, but Senju had tied her up tight.
+ 「No... someone...!」
+ 『You gonna call someone like that?』
+ 「Ugh...!」
+ 『Tied up with that thing dangling from 　your crotch... you`re just a freak.』
+ 「I-I`m not!」
+ 『But that thing slid inside real easily. 　I just touched you a little and you got 　soaked, even though you were out cold.』
+ 「N-No way, that`s a lie!」
+ 『It isn`t. 　Your smell`s still on my fingers. 　Have you been taking baths?』
+ Senju`s scorn made Aoba blush more.
+ 『From what I recall, people come to 　this place sometimes.』
+ 『Since the trees are so thick they 　can protect you from rain, you see.』
+ 『I dunno, someone might see you now...』
+ 「Uuuu...」
+ 『And yet you got wet again, right? 　That`s not rainwater on your crotch.』
+ 「Y-You`re wrong!」
+ 『But you`re so wet. It`s so thick 　that the rain can`t wash it away.』
+ 「Auu...」
+ 『Oh, there`s someone here.』
+ 「Huh?!」
+ 『Just kidding. Ahahahaha!』
+ 「Khh!」
+ 『I know what you should do here.』
+ 『Let everything go, Aoba.』
+ 「Let go...?」
+ 『Yep. 　Liberate yourself. 　That way, you won`t feel any shame.』
+ 「Ugh...」
+ 『Look, your legs are squirming. 　Rubbing it feels good, right?』
+ 「Ngh, ahn...」
+ 『You wanna cum, right? You came a bit 　when I said someone was here, no?』
+ 「W-Waaah...」
+ 『Good, keep moving. Cum in this place 　where someone could come any second.』
+ 「Nhhh, aahn!」
+ 『Your nipples are super hard, Aoba. 　How embarrassing.』
+ 「Ngh, waaah, aaahn, ahn!」
+ 『You don`t need your reason right now. 　So go on, cum. 　It`d be a waste not to.』
+ 「Ahn... mmmn! ahn, ahn! aaahn!」
+ 「Aaahn... 　AAAAAAAAAAHN!」
+ 『Heheh... heheheheh!』
+ Liquids dripped down Aoba`s thighs."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Ishihara Senju (talking),"えっ……
+いっ……一郎……さん…？","What...?!
+ I-Ichirou-san?!"
+ (talking),……………,...
+Ishihara Senju (talking),一郎さん、そうでしょう？,"You`re Ichirou-san, right?"
+ (talking),…………,...
+Ishihara Senju (talking),どうして、返事してくれないの！？ 私の顔を忘れたの？ 曜子よ！！,"Why won`t you answer me?! Did you forget who I am?! It`s me, Youko!"
+ (talking),………誰の事だ…？,...Who are you?
+Ishihara Senju (talking),一郎さん！？,Ichirou-san?!
+ (talking),――人違いだ……,You have the wrong person...
+Ishihara Senju (talking),ううん、そんな事はないわ！ 私が一郎さんを見間違えるはずないもの！,No I don`t! I`d never mistake you for someone else!
+ (talking),……違う…… 俺はそんな名前でも、 君の知っている男でもない……,"You`re wrong... That`s not my name, and I`m not the man you think I am..."
+Ishihara Senju (talking),どうして…どうして、そんな事言うの？ 一郎さん……！,Why...? Why are you saying that?! Ichirou-san!
+Ishihara Senju (talking),一郎さん…,Ichirou-san...
+ (talking),……………,...
+Ishihara Senju (talking),お願い、返事をして……,"Please, answer me..."
+ (talking),……………,...
+Ishihara Senju (talking),どうして、戦わなくちゃいけないのよ…,Why do we have to fight...?
+ (talking),……………,...
+narrator,曜子は一人、コウシエンを訪れていた。 戦闘中に見た、夫、一郎を探す為に。,"Youko went to Koushien by herself to search for her husband, whom she`d seen in battle."
+Aoba Youko (thinking),"ここにいなかったら、ＰＭの支配地の もっと奥を探さなくちゃいけない…
+この辺りで見つかってくれたら よいのだけど…","I`ll have to go deeper into PM territory if he`s not here...
+ I hope I find him here, though..."
+ (talking),……曜子……,...Youko...
+Aoba Youko (talking),えっ……,Eh?!
+Aoba Youko (talking),一郎さん…！！,Ichirou-san!
+Elite Yakuza (talking),お前、ここがどこかわかっているのか！？,Do you even know where you are?!
+Aoba Youko (talking),ＰＭの支配地……,"PM territory, yes..."
+Elite Yakuza (talking),だったら…,Then...
+Aoba Youko (talking),……うっ……,...Kh...
+Elite Yakuza (talking),曜子…？,Youko...?
+Aoba Youko (talking),……夢…じゃないわよね…？,"This... isn`t a dream, right...?"
+Elite Yakuza (talking),…………,...
+Aoba Youko (talking),やっぱり、一郎さん……,"It really is you, Ichirou-san..."
+Peach Maid (talking),あ……！！,Ah...!
+Aoba Youko (talking),えっ…！？,Wha-?!
+Peach Maid (talking),奉仕青年団！！ こんなところまで！！,You`re from the YCSG! You`ve come this far?!
+Aoba Youko (talking),っ…あっ…しまった……,O-Oh crap...!
+narrator,おたついている曜子の手を、一郎が掴む。,Ichirou grabbed Youko`s hand.
+Aoba Youko (talking),えっ……,Huh?!
+Elite Yakuza (talking),走れ！,Run!
+Peach Maid (talking),こら、その女をどこに連れて行く！ 待て、裏切り者！！,"Where are you taking her?! Halt, you traitor!"
+narrator,二人は声を振り払い、走り去った。,The two of them dashed out of the place.
+Aoba Youko (talking),はあ…はあっ…！,Haah... haaah...!
+Elite Yakuza (talking),ここまでくれば、もう追われる事も ないだろう…,We shouldn`t have anyone after us anymore...
+Aoba Youko (talking),………くす……,...Teehee...
+Elite Yakuza (talking),なんだ？,What is it?
+Aoba Youko (talking),今のであなた…ＰＭを裏切っちゃったね…,You just betrayed the PM...
+Elite Yakuza (talking),……………,...
+Aoba Youko (talking),もう…私の前から消えないで… 戦争は終わったんですもの… もう…いなくならないで……,"Please... don`t go away anymore. The war`s over now... so please, stay with me..."
+Elite Yakuza (talking),俺が…何をしていたのか、 聞かないのか？,Did you... not hear about what I`ve done?
+Aoba Youko (talking),"今はそんな事より… あなたが帰ってきてくれた事の方が 大事だもの…
+これから…いくらでも話が出来る でしょう？ 私達は、夫婦なんだから…","I don`t care about that... What I do care is that you`ve come back.
+ We can talk that out as much as we have to now. We are married, after all."
+Elite Yakuza (talking),"……………
+ああ…ああ、そうだな……","...
+ Yeah... you`re right."
+Aoba Youko (talking),……おかえりなさい…,...Welcome back...
+Elite Yakuza (talking),ああ…ただいま……,Yeah... It`s good to be back.
+narrator,まだ街灯など整っていない街を、 青葉は一人、歩いている。,Aoba was walking by herself in a run-down part of town.
+Aoba Youko (talking),………………,...
+narrator,その足取りはおぼつかなかった。,Her gait was as unsteady as it could be.
+Aoba Youko (thinking),"私……何してたんだろう… 目の前に、一郎さんがいたのに… ……死なせてしまった……
+私は……今まで、一郎さんに会う為に… その為だけに生きてきたというのに…
+どうして……
+どうして、こんな……","What have I been doing...? Ichirou-san was right in front of me... ...and I let him die...
+ My only reason to live... was to meet Ichirou-san again...
+ Why...
+ Why did this happen...?"
+Aoba Youko (talking),"……ふっ……
+ふふふっ… くっ…はっ…ははっ……
+馬鹿……
+馬鹿な……曜子……","...Hah...
+ Hahahahaha! Hahaha, hah, hahaha!
+ Stupid...
+ You`re so stupid, Youko..."
+narrator,その日以来、青葉曜子の姿を見た者は いなかった。,Nobody saw Aoba Youko ever again after that day.
+Aoba Youko (talking),……はあ……はあ……,Haah... haah...
+narrator,青葉は息をきらし、電柱にもたれた。,"Aoba leaned against a power pole, winded."
+Aoba Youko (thinking),も、もういや… あんなところにいたくない……,N-No more... I don`t wanna go back...
+narrator,青葉は、タマネギの調教の館から 脱走したのだった。,Aoba had escaped from Tamanegi`s sexual training facility.
+Aoba Youko (thinking),"あんなところにずっといたら、 駄目になってしまう…
+私はそんな事の為に生きてるんじゃない… 生きて…一郎さんに会って… そして……","It`d be over for me if I stayed there any more...
+ That`s not what I`m living for. I`m living to reunite with Ichirou-san, and then..."
+narrator,　　［ビリリッ……］,　　［*Bzzzt!*］
+Aoba Youko (talking),"はぅっ……！？
+っ……うっ……あっ……","Haauuugh?!
+ ...ah... kh..."
+narrator,突然の電気ショックに、 青葉はその場で気絶した。,The sudden electric shock made Aoba pass out on the spot.
+Ishihara Senju (talking),本気で逃げられると思ったのかな~。,Didja think you could run?
+narrator,青葉の後ろに、音もなく千手が立っていた。 手にはスタンガンがある。,"Senju stood behind Aoba, with a taser in hand."
+Ishihara Senju (talking),"もっと、お仕置きが必要なんだね。 大丈夫、すぐに逃げたくないって 思わせてあげるから。
+もっと色々して欲しいっていうぐらい…… ムチャクチャにしてあげるよ、青葉。
+くすっ……くすくすくすっ……","You need to be punished. Don`t worry, I`ll make you not wanna escape anymore.
+ I`m gonna mess you up so bad, you`ll be wanting more.
+ Heheh, heheheheh!"
+narrator,悪司が新聞を読んでいる。,Akuji was reading the newspaper.
+Yamamoto Akuji (talking),んん~……政治家の足の引っ張りあいって どーしてこう、グローバルでないっ ちゅかー、なんちゅーか…,Hrmm... Why do politicians love fucking over each other...?
+Aoba Youko (talking),何してるんですか？,What are you doing?
+Yamamoto Akuji (talking),新聞読んで、賢くなろうと。,"Reading the news, getting smarter."
+Aoba Youko (talking),そんな場合じゃないでしょう？,This isn`t the time for that.
+Yamamoto Akuji (talking),ん？,Hm?
+Aoba Youko (talking),"わかめ組が、喧嘩をしかけて きているんですよ。
+早く、市議会に苦情申し立てを……","The Wakame Family are fighting against us now.
+ We must hurry to the CC and-"
+Yamamoto Akuji (talking),ムダムダムダァァ。,Waaaaste of tiiiiime.
+Aoba Youko (talking),そんなっ……,That can`t-
+Yamamoto Akuji (talking),お前さんさー、俺達の仕事がなんなのか まだわかってねーんだな。,Looks like you still don`t get what our job really is.
+Aoba Youko (talking),うっ……,Ugh...!
+Yamamoto Akuji (talking),さぁて、じゃあ行くか。,"Now then, guess it`s time to go."
+Aoba Youko (talking),え、あ、あの…市議会にですか？,"Huh? U-Um, you mean, to the CC?"
+Yamamoto Akuji (talking),何言ってんだ。 喧嘩だよけーんーか。 ほれ、キリキリ動け。,"Fuck no, I meant fighting them. Come on, move your ass."
+Aoba Youko (talking),………………,...
+Aoba Youko (talking),お待たせ、一郎さん。,"Sorry for the wait, Ichirou-san."
+Elite Yakuza (talking),福引券はあったかい？,Did you get a lottery ticket?
+Aoba Youko (talking),"ええ。 ちゃぶ台の上に。
+当たったら、カネシタの温泉旅行ね。 頑張って当てましょう。","Yep. It`s on the tea table.
+ Let`s go to Kaneshita if we win. I hope we get a prize."
+Elite Yakuza (talking),お前の方がクジ運がいいから。 お前が引きなさい。,"You`re the lucky one here, so you should choose the numbers."
+Aoba Youko (talking),ん~…二枚あるから、 一枚ずつにしましょう。,"Hmm, we have two tickets, so we should do one each, I think."
+Elite Yakuza (talking),……………,...
+Aoba Youko (talking),どうしたの？,What`s the matter?
+Elite Yakuza (talking),いや…幸せだなと思って…,I just thought that this is bliss...
+Aoba Youko (talking),そうね…幸せね…,"Yeah, you`re right..."

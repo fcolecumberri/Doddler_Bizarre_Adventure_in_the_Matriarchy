@@ -1,0 +1,357 @@
+character,jap text,Eng
+menu_label__(L_01c7b),ＧＭ：始から,ＧＭ：始から
+menu_label__(L_01c7e),ＧＭ：那古壊滅から,ＧＭ：那古壊滅から
+menu_label__(L_02473),ＧＸ：エンディングテスト,ＧＸ：エンディングテスト
+menu_label__(L_0270d),ＧＸ：ウィミィ強襲,ＧＸ：ウィミィ強襲
+menu_label__(L_02a97),フラグ処理　終了フラグＯＮ,フラグ処理　終了フラグＯＮ
+menu_label__(L_02adb),フラグ処理　キャラフラグＯＮ,フラグ処理　キャラフラグＯＮ
+menu_label__(L_02b06),ＨｏｗＴｏＰｌａｙ,ＨｏｗＴｏＰｌａｙ
+menu_label__(L_000fe),テスト関係,テスト関係
+menu_label__(L_02b14),とり小屋,とり小屋
+menu_label__(L_02b18),兄メイト京橋店,兄メイト京橋店
+menu_label__(L_02b1c),ハニー（名前生成テスト）,ハニー（名前生成テスト）
+??,Ｓｈａｄｅてすとー,Ｓｈａｄｅてすとー
+menu_label__(L_03372),ＯＰ実験場,ＯＰ実験場
+menu_label__(L_03376),必殺技,必殺技
+menu_label__(L_03382),スタッフロール,スタッフロール
+menu_label__(L_0338e),ＣＧモード,ＣＧモード
+__system__??,{SVG[20] = 0:,{SVG[20] = 0:
+__system__??,},}
+Yamamoto Ippatsu (talking),"もう一度、挑戦するのか。 よかろう。 頑張るがよい。
+ところで… 今度は少し変化をつけて 挑戦してみる気はないか？","もう一度、挑戦するのか。 よかろう。 頑張るがよい。
+ところで… 今度は少し変化をつけて 挑戦してみる気はないか？"
+__system__??,{SVG[26] = 1:,{SVG[26] = 1:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+__system__??,},}
+__system__??,{RETURN = 3:,{RETURN = 3:
+__system__??,},}
+Yamamoto Ippatsu (talking),知り合いを登場させてみるか？,知り合いを登場させてみるか？
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+Yamamoto Ippatsu (talking),女の子海賊隊、やんちゃで困った 可愛い奴らだ。 対決してみるか？,女の子海賊隊、やんちゃで困った 可愛い奴らだ。 対決してみるか？
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{SVG[25] = 1:,{SVG[25] = 1:
+Yamamoto Ippatsu (talking),神社に住まう者、どちらがよいか。,神社に住まう者、どちらがよいか。
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+__system__??,},}
+__system__??,},}
+Yamamoto Ippatsu (talking),全国から集まる強者達、何名出て欲しい？ 但しお前の元には２名までしか来ないぞ。,全国から集まる強者達、何名出て欲しい？ 但しお前の元には２名までしか来ないぞ。
+__system__??,{SVG[20] > 1:,{SVG[20] > 1:
+__system__??,},}
+__system__??,{SVG[20] > 2:,{SVG[20] > 2:
+__system__??,},}
+__system__??,{SVG[20] > 2:,{SVG[20] > 2:
+__system__??,} else if {SVG[20] > 1:,} else if {SVG[20] > 1:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+__system__??,},}
+__system__??,{RETURN = 3:,{RETURN = 3:
+__system__??,},}
+__system__??,{RETURN = 4:,{RETURN = 4:
+__system__??,},}
+__system__??,{SVG[23] = 1:,{SVG[23] = 1:
+Yamamoto Ippatsu (talking),殺の願いを聞いてやる気はあるか？,殺の願いを聞いてやる気はあるか？
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{SVG[24] = 1:,{SVG[24] = 1:
+Yamamoto Ippatsu (talking),想いの人は、民華それともアンリか？,想いの人は、民華それともアンリか？
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+__system__??,},}
+__system__??,},}
+__system__??,{SVG[21] = 1:,{SVG[21] = 1:
+Yamamoto Ippatsu (talking),マッド科学者イハビーラと 決着をつける気はあるか？,マッド科学者イハビーラと 決着をつける気はあるか？
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{SVG[22] = 1:,{SVG[22] = 1:
+Yamamoto Ippatsu (talking),高山組と戦うつもりはあるか？,高山組と戦うつもりはあるか？
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,},}
+__system__??,},}
+Yamamoto Ippatsu (talking),面白い。 ただし、バランス無茶苦茶だぞ。 いろいろ保障外だからな。,面白い。 ただし、バランス無茶苦茶だぞ。 いろいろ保障外だからな。
+narrator,"注意： 　これは、遊びモードです。 　ストーリーはありません。
+注意： 　クリアしてもエロ絵の一枚 　も無いのでご了承下さい。
+注意： 　そもそもクリア無いです。 　敵がいなくなったら終わり
+注意： 　主人公死んだりしたら、自分 　で決めて終了して下さい。
+注意： 　変な所やバグは、仕様です。 　（すみません・・とほほ）
+注意： 　登場キャラは、全て成人で 　血縁関係はありません。
+で、どの組織でプレイする。","注意： 　これは、遊びモードです。 　ストーリーはありません。
+注意： 　クリアしてもエロ絵の一枚 　も無いのでご了承下さい。
+注意： 　そもそもクリア無いです。 　敵がいなくなったら終わり
+注意： 　主人公死んだりしたら、自分 　で決めて終了して下さい。
+注意： 　変な所やバグは、仕様です。 　（すみません・・とほほ）
+注意： 　登場キャラは、全て成人で 　血縁関係はありません。
+で、どの組織でプレイする。"
+menu_label__(L_00b58),悪司ファミリー,悪司ファミリー
+menu_label__(L_00b80),ヤクザズ,ヤクザズ
+menu_label__(L_00bac),桃山組,桃山組
+menu_label__(L_00bd2),那古教,那古教
+menu_label__(L_00bf8),大王様,大王様
+__system__??,{●ＥＸ = 2:,{●ＥＸ = 2:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{●ＥＸ = 3:,{●ＥＸ = 3:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{●ＥＸ = 4:,{●ＥＸ = 4:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{●ＥＸ = 5:,{●ＥＸ = 5:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{●ＥＸ = 6:,{●ＥＸ = 6:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{●ＥＸ = 2:,{●ＥＸ = 2:
+__system__??,},}
+__system__??,{●ＥＸ = 3:,{●ＥＸ = 3:
+__system__??,},}
+__system__??,{●ＥＸ = 4:,{●ＥＸ = 4:
+__system__??,},}
+__system__??,{●ＥＸ = 5:,{●ＥＸ = 5:
+__system__??,},}
+__system__??,{●ＥＸ = 6:,{●ＥＸ = 6:
+__system__??,},}
+Yamamoto Ippatsu (talking),"よかろう、貴様が強くなって ワシの前に現れるのを 楽しみにしておこう。
+ハイヨー、シルバー！！","よかろう、貴様が強くなって ワシの前に現れるのを 楽しみにしておこう。
+ハイヨー、シルバー！！"
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,{RND \ 65535:,{RND \ 65535:
+__system__??,},}
+__system__??,},}
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,{RND \ 65535:,{RND \ 65535:
+__system__??,},}
+__system__??,},}
+narrator,　友人（男）の名前,　友人（男）の名前
+__system__??,{☆貴方 = 0:,{☆貴方 = 0:
+narrator,　　入力データ無し,　　入力データ無し
+__system__??,},}
+narrator,　,　
+narrator,　職業　,　職業　
+narrator,　友人（女）の名前,　友人（女）の名前
+__system__??,{☆彼女 = 0:,{☆彼女 = 0:
+narrator,　　入力データ無し,　　入力データ無し
+__system__??,},}
+narrator,　,　
+narrator,　職業　,　職業　
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+__system__??,},}
+__system__??,{RETURN = 3:,{RETURN = 3:
+__system__??,},}
+__system__??,{RETURN = 4:,{RETURN = 4:
+__system__??,},}
+__system__??,{RETURN = 5:,{RETURN = 5:
+__system__??,},}
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+__system__??,},}
+__system__??,{RETURN = 3:,{RETURN = 3:
+__system__??,},}
+__system__??,{RETURN = 4:,{RETURN = 4:
+__system__??,},}
+__system__??,{RETURN = 5:,{RETURN = 5:
+__system__??,},}
+__system__??,{RETURN = 6:,{RETURN = 6:
+__system__??,},}
+__system__??,{L1 = 503:,{L1 = 503:
+narrator,エリートヤクザ,エリートヤクザ
+__system__??,},}
+__system__??,{L1 = 524:,{L1 = 524:
+narrator,青年,青年
+__system__??,},}
+__system__??,{L1 = 505:,{L1 = 505:
+narrator,高山ヤクザ,高山ヤクザ
+__system__??,},}
+__system__??,{L1 = 553:,{L1 = 553:
+narrator,老人,老人
+__system__??,},}
+__system__??,{L1 = 502:,{L1 = 502:
+narrator,ちんぴら,ちんぴら
+__system__??,},}
+__system__??,{L1 = 506:,{L1 = 506:
+narrator,情婦,情婦
+__system__??,},}
+__system__??,{L1 = 516:,{L1 = 516:
+narrator,女子学生ロリ,女子学生ロリ
+__system__??,},}
+__system__??,{L1 = 517:,{L1 = 517:
+narrator,女子学生,女子学生
+__system__??,},}
+__system__??,{L1 = 508:,{L1 = 508:
+narrator,警備員,警備員
+__system__??,},}
+__system__??,{L1 = 534:,{L1 = 534:
+narrator,看護婦,看護婦
+__system__??,},}
+__system__??,{L1 = 550:,{L1 = 550:
+narrator,眼鏡っ娘,眼鏡っ娘
+__system__??,},}
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+__system__??,},}
+__system__??,{RETURN = 3:,{RETURN = 3:
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+__system__??,},}
+narrator,　ヒロインを選んでください。,　ヒロインを選んでください。
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+__system__??,},}
+__system__??,{RETURN = 3:,{RETURN = 3:
+__system__??,},}
+__system__??,{RETURN = 4:,{RETURN = 4:
+__system__??,},}
+__system__??,{RETURN = 5:,{RETURN = 5:
+__system__??,},}
+__system__??,{RETURN = 6:,{RETURN = 6:
+__system__??,},}
+__system__??,{RETURN = 7:,{RETURN = 7:
+__system__??,},}
+narrator,その他の選択・・,その他の選択・・
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+__system__??,},}
+__system__??,{RETURN = 3:,{RETURN = 3:
+__system__??,},}
+__system__??,{RETURN = 4:,{RETURN = 4:
+__system__??,},}
+__system__??,{★愛 = 5:,{★愛 = 5:
+__system__??,},}
+__system__??,{●ウィミィ = 1:,{●ウィミィ = 1:
+__system__??,},}
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+__system__??,},}
+__system__??,{RETURN = 3:,{RETURN = 3:
+__system__??,},}
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+__system__??,},}
+__system__??,{RETURN = 3:,{RETURN = 3:
+__system__??,},}
+__system__??,{RETURN = 4:,{RETURN = 4:
+__system__??,},}
+menu_label__(L_02b39),男,男
+menu_label__(L_02c0d),女,女
+menu_label__(L_02cc3),動物,動物
+narrator,　,　
+narrator,　,　
+narrator,　,　
+narrator,　,　
+narrator,　,　
+narrator,　,　
+narrator,　,　
+narrator,　,　
+narrator,　,　
+narrator,　,　
+narrator,　,　
+narrator,　,　
+narrator,　,　
+narrator,　,　
+narrator,　,　
+narrator,　,　
+narrator,　,　
+narrator,　,　
+??,　　乱数テストをします。,　　乱数テストをします。
+__system__??,{(RND > 0) * (RND < 11):,{(RND > 0) * (RND < 11):
+__system__??,},}
+__system__??,{(RND > 10) * (RND < 21):,{(RND > 10) * (RND < 21):
+__system__??,},}
+__system__??,{(RND > 20) * (RND < 31):,{(RND > 20) * (RND < 31):
+__system__??,},}
+__system__??,{(RND > 30) * (RND < 41):,{(RND > 30) * (RND < 41):
+__system__??,},}
+__system__??,{(RND > 40) * (RND < 51):,{(RND > 40) * (RND < 51):
+__system__??,},}
+__system__??,{(RND > 50) * (RND < 61):,{(RND > 50) * (RND < 61):
+__system__??,},}
+__system__??,{(RND > 60) * (RND < 71):,{(RND > 60) * (RND < 71):
+__system__??,},}
+__system__??,{(RND > 70) * (RND < 81):,{(RND > 70) * (RND < 81):
+__system__??,},}
+__system__??,{(RND > 80) * (RND < 91):,{(RND > 80) * (RND < 91):
+__system__??,},}
+__system__??,{(RND > 90) * (RND < 101):,{(RND > 90) * (RND < 101):
+__system__??,},}
+??,０１－１０　　,０１－１０　　
+??,　,　
+??,１１－２０　　,１１－２０　　
+??,　,　
+??,２１－３０　　,２１－３０　　
+??,　,　
+??,３１－４０　　,３１－４０　　
+??,　,　
+??,４１－５０　　,４１－５０　　
+??,　,　
+??,５１－６０　　,５１－６０　　
+??,　,　
+??,６１－７０　　,６１－７０　　
+??,　,　
+??,７１－８０　　,７１－８０　　
+??,　,　
+??,８１－９０　　,８１－９０　　
+??,　,　
+??,９１－９９　　,９１－９９　　
+??,　,　
+__system__??,{(RND > 0) * (RND < 11):,{(RND > 0) * (RND < 11):
+__system__??,},}
+__system__??,{(RND > 10) * (RND < 21):,{(RND > 10) * (RND < 21):
+__system__??,},}
+__system__??,{(RND > 20) * (RND < 31):,{(RND > 20) * (RND < 31):
+__system__??,},}
+__system__??,{(RND > 30) * (RND < 41):,{(RND > 30) * (RND < 41):
+__system__??,},}
+__system__??,{(RND > 40) * (RND < 51):,{(RND > 40) * (RND < 51):
+__system__??,},}
+__system__??,{(RND > 50) * (RND < 61):,{(RND > 50) * (RND < 61):
+__system__??,},}
+__system__??,{(RND > 60) * (RND < 71):,{(RND > 60) * (RND < 71):
+__system__??,},}
+__system__??,{(RND > 70) * (RND < 81):,{(RND > 70) * (RND < 81):
+__system__??,},}
+__system__??,{(RND > 80) * (RND < 91):,{(RND > 80) * (RND < 91):
+__system__??,},}
+__system__??,{(RND > 90) * (RND < 101):,{(RND > 90) * (RND < 101):
+__system__??,},}
+??,０１－１０　　,０１－１０　　
+??,　,　
+??,１１－２０　　,１１－２０　　
+??,　,　
+??,２１－３０　　,２１－３０　　
+??,　,　
+??,３１－４０　　,３１－４０　　
+??,　,　
+??,４１－５０　　,４１－５０　　
+??,　,　
+??,５１－６０　　,５１－６０　　
+??,　,　
+??,６１－７０　　,６１－７０　　
+??,　,　
+??,７１－８０　　,７１－８０　　
+??,　,　
+??,８１－９０　　,８１－９０　　
+??,　,　
+??,９１－９９　　,９１－９９　　
+??,　,　

@@ -1,0 +1,725 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆島本 = 1:,{☆島本 = 1:
+__system__??,},}
+__system__??,{☆島本 = 2:,{☆島本 = 2:
+__system__??,},}
+__system__??,{☆島本 = 3:,{☆島本 = 3:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+Shimamoto Jun (talking),お呼びですか？ 若。,"You called for me, Young Master?"
+Yamamoto Akuji (talking),聞きそびれた事があったの 思い出してさ。,I remembered something I`d forgotten to ask you.
+Shimamoto Jun (talking),どんな事でしょう？,What is it?
+Yamamoto Akuji (talking),お前さんがわかめ組を 抜けてきた理由だよ。,Why did you leave the Wakame Family?
+Shimamoto Jun (talking),と、申されますと？,What do you mean?
+Yamamoto Akuji (talking),"今の俺は、わかめ組にいた時より、 羽振りが悪い。
+戦争に出ていて、ウィミィの統治下に あるニホンの状態もよくわかって いない。
+わざわざ安定を捨てて、 不安定の側につくには、 理由があるだろ？","Right now, I`m way less powerful than when I was in the Family.
+ I don`t really know what Japan is like under Wime`s rule after coming back, either.
+ You gotta have a reason for leaving a nice, stable job at the Family to work for me."
+Shimamoto Jun (talking),理由というものは、後からついてくる ものかもしれませんよ。,Maybe that reason will come later.
+Yamamoto Akuji (talking),そーかもな。,Maybe.
+Shimamoto Jun (talking),ですから、理由をお聞きになるのは、 無駄な事かと。,"As such, asking me for a reason is pointless."
+Yamamoto Akuji (talking),"そこが、人間のややこしい感情って やつでね。 しかも俺は頑固ときている。
+理由は知っておきたいんだ。
+なんせ、お前は金、地位、名誉、女。 どれにも興味がないときている。","Thing is, that`s not how shit works in life, and I happen to be stubborn.
+ I want to know your reason.
+ I know you don`t care about money, women, or status."
+Shimamoto Jun (talking),若ですよ。,It`s you.
+Yamamoto Akuji (talking),え？,Huh?
+Shimamoto Jun (talking),私が興味あるのは、若です。 理由はそれです。 それでは駄目ですか？,"You`re what I care about, Young Master, and the reason I left. Is that not okay with you?"
+Yamamoto Akuji (talking),それってーのは……,Does that mean...
+Shimamoto Jun (talking),ご心配なく。 恋愛対象としてではないですから。,Don`t worry. I don`t have any romantic feelings for you.
+Yamamoto Akuji (talking),"そうかい。 しかし、お前さんの、 かいかぶりじゃねーか？
+俺は、お前さんの目に、 そんな風に映っているのかい？","Good to hear. Still, you sure you aren`t overestimating me?
+ Is that what I look like to you?"
+Shimamoto Jun (talking),はい。,Yes.
+Yamamoto Akuji (talking),くすぐったい事を言ってくれるね。,"That`s some embarrassing shit, man."
+Shimamoto Jun (talking),恐れ入ります。,Sorry to trouble you.
+Yamamoto Akuji (thinking),"……とか言いながら、やーっぱ １００％信用するってーのもなー…
+スパイだったりしたら、 目もあてられねーなー。
+んだけど、こいつの情報処理能力は 高い。
+ ……俺が目当てっていうのもどこまで 本気か知らねーけど… まあ、使えるとこは使わねーと。","...So I say, but I don`t know if I can completely trust him.
+ I wouldn`t be able to tell if he were a spy or something.
+ However, he can gather info like no one else.
+ Dunno how much he really meant that last bit... But I`ll use the pieces I`m given."
+Shimamoto Jun (talking),お呼びですか、若？,"You called, Young Master?"
+Yamamoto Akuji (talking),一つ仕事をして欲しい。 わかめ組にいた頃からしていた お前の得意技だ。,I want you to use your signature trick from your days in the Wakame Family.
+Shimamoto Jun (talking),部下の減給処理ですね。,You mean the pay cut.
+Yamamoto Akuji (talking),"そうだ。 給料ってのは、なかなか減らす訳には いかねぇからな。
+そこで、重箱の隅をつつくように、人の ミスを指摘して、給料の減額を納得させる お前の手腕を発揮して貰いたいんだがよ。","Yep. It`s not easy to reduce someone`s salary, after all. So show me your stuff.
+ You convince people to accept a pay cut by pointing out their fuck-ups, right?"
+Shimamoto Jun (talking),"わかりました。 やらせて頂きます。
+ただし、対象者の人選は私にさせて 頂いて貰ってもよろしいですか？
+すぐに誰でもという訳には まいりませんので。","Understood. I shall do it.
+ However, may I choose the target?
+ Because I won`t be able to do it to anyone at any time."
+Yamamoto Akuji (talking),"ああ、任せる。
+組織は金がかかるんで、減らせるとこは 減らしておきたいからな。","Sure, I`ll leave it to you.
+ We need money to run this Group, so I wanna save as much as I can."
+Shimamoto Jun (talking),はい、わかっております。,Very well.
+Shimamoto Jun (talking),これを私に？,You`re giving this to me?
+Seinendan Jyoshi (talking),"は、はい！ よろしかったら、食べて下さい… その…あまり上手に出来なかったけど…
+あ、あの…失礼します……","Y-Yes! Please eat it if you`d like... It`s not very good, though...
+ U-Um, please excuse me..."
+Shimamoto Jun (talking),……………,...
+Yamamoto Akuji (talking),見~た~ぞ~。,IIII saaaw thaaaat.
+Shimamoto Jun (talking),若。,Young Master.
+Yamamoto Akuji (talking),モテモテじゃねーか、島本。 ところで、何もらったんだ？,"Aren`t you popular, Shimamoto. So, what did you get?"
+Shimamoto Jun (talking),クッキーだそうです。 若、クッキーはお好きですか？,"Cookies, it seems. Do you like cookies?"
+Yamamoto Akuji (talking),何言ってんだ。 それ、お前さんにって…,What? Those are meant for you-
+Shimamoto Jun (talking),若がお食べにならないなら――,If you won`t have them-
+narrator,"　　［ぼそっっ］
+島本は、クッキーの入った袋を ゴミ箱の中に入れた。","　　*Thud*
+ Shimamoto dropped the bag of cookies in the garbage can."
+Yamamoto Akuji (talking),おいおい、もったいねー。,"Hey, you`re wastin` food."
+Shimamoto Jun (talking),私は、どちらにも興味ありませんから。,I care not for cookies or her.
+Yamamoto Akuji (talking),冷たい奴だなー。,You`re one cold bastard.
+Shimamoto Jun (talking),どうしました、若。,"What is the matter, Young Master?"
+Yamamoto Akuji (talking),いや、元気かなーと。,Just wondering if you were doing OK.
+Shimamoto Jun (talking),見ての通りです。,It is as you can see.
+Yamamoto Akuji (talking),そいつはよかった。,Glad to hear it.
+Yamamoto Akuji (thinking),……取り敢えずは、裏切りそーな 雰囲気はナシか…,"...Doesn`t look like he`ll betray me, for now..."
+Yamamoto Akuji (talking),こんなモンでよかったら、 受け取ってくんねーか？,Would ya like some of this?
+Shimamoto Jun (talking),――お金ですか。,Money?
+Yamamoto Akuji (talking),ああ。,Yep.
+Shimamoto Jun (talking),"結構です。 私は、お金の為にここにいるのでは ありませんので。
+このお金は、運用資金に回して下さい。","No, thanks. I am not here for the money.
+ Please use it to run the RMG."
+Yamamoto Akuji (talking),そっか。 じゃー、そーさせてもらうわ。,"Really. I`ll do that, then."
+narrator,そこから、奉仕青年団の事務所を 見ている男がいる。,A man was observing the YCSG`s office.
+Shimamoto Jun (talking),………………,...
+ (talking),あの……,Um...
+Shimamoto Jun (talking),っ！？,?!
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{RND = 0:,{RND = 0:
+__system__??,},}
+Seinendan Jyoshi (talking),奉仕青年団事務所に何か御用の方 ですか？,Do you have any business with the YCSG?
+Shimamoto Jun (talking),…………,...
+Seinendan Jyoshi (talking),あ……,Ah...
+Seinendan Jyoshi (talking),何かしら、変な人…,What a weird guy...
+ (talking),さっそくだが、一人減額して 欲しいんだけどよ。,"Let`s get to the point, I want you to give someone a pay cut."
+__system__??,{Bキャラ = 28:,{Bキャラ = 28:
+__system__??,},}
+__system__??,{Bキャラ = 1:,{Bキャラ = 1:
+__system__??,},}
+__system__??,{B給与 = 0:,{B給与 = 0:
+__system__??,},}
+__system__??,{LOOP > 30:,{LOOP > 30:
+Seinendan Jyoshi (talking),現在は、対象者がおりません。,There are presently no valid targets.
+__system__??,},}
+Seinendan Jyoshi (talking),はい、わかりました。,Understood.
+ (talking),さん。 あなたの組織に対する貢献度ですが……,about your services to our group...
+__system__??,{I装備[46] \ 99:,{I装備[46] \ 99:
+narrator,島本は、,島本は、
+narrator,の重大なミスなどを指摘し、給与の減額を納得させた。（秘密日記にそれは載っていた。）,の重大なミスなどを指摘し、給与の減額を納得させた。（秘密日記にそれは載っていた。）
+__system__??,},}
+narrator,島本は、,Shimamoto pointed out
+narrator,の些細なミスなどを 指摘し、給与の減額を納得させた。,"`s every single mistake, convincing them to accept a pay cut."
+narrator,そこから、奉仕青年団の事務所を 見ている男がいる。,A man was observing the YCSG`s office.
+Shimamoto Jun (talking),………………,...
+narrator,　　［ばくっっっ］,　　*Chomp!*
+Shimamoto Jun (talking),えっ……,Wha-
+narrator,男のスラックスの裾に、 野良犬が噛みついていた。,A stray dog was biting the man`s trousers.
+Shimamoto Jun (talking),………………！！！！！,...!
+narrator,"男は、そのまま硬直してしまった。
+その様子を面白がった野良犬が、 吠える為に、スラックスから口を放した。","The man stiffened up.
+ Enticed by the man`s action, the dog barked, letting go of his trousers."
+Shimamoto Jun (talking),……………！！！,...!
+narrator,"その隙に、男はそこから走り去った。 どうやら、犬が大の苦手らしい。
+この後二度と、その男をオオサカで 見る事は無かった。","The man took that opportunity to run away. It would seem he`s bad with dogs.
+ That man was never seen in Osaka again."
+narrator,島本が通帳を持って現れた。,Shimamoto showed up with a bankbook.
+Shimamoto Jun (talking),若。 組の財政がかなり厳しい状況です。 何か対策は準備されていますか。,"Young Master, our finances are in dire straits. Do you have any solutions?"
+Yamamoto Akuji (talking),それを考えるのは、お前の仕事だろ？,Ain`t that your job?
+__system__??,{☆島本／金 = 0:,{☆島本／金 = 0:
+Shimamoto Jun (talking),"そうですね…
+ではニシンを買って得た利益をここで 還元させて頂きます。","That`s true.
+ Then I shall use the profit I got from selling herrings."
+Yamamoto Akuji (talking),ニシン？？,Herrings??
+Shimamoto Jun (talking),魚です。 高騰するのがわかっていましたので、 買いつけておきました。,"The fish. I knew their price would rise sharply, so I bought many in advance."
+__system__??,},}
+__system__??,{☆島本／金 = 1:,{☆島本／金 = 1:
+__system__??,},}
+Shimamoto Jun (talking),そうですね。 では、先月買っておいた豆を売却する事に します。,That`s true. Then I shall sell off the soybeans I bought last month.
+Shimamoto Jun (talking),後１ヶ月も寝かしておけば、 もっと値があがるのですが、 いたしかたありません。,"The price would`ve raised even more by next month, but there`s no choice."
+__system__??,{RND \ 0:,{RND \ 0:
+Kinugasa Tomoko (talking),……ふう…助かった…,Phew... I`m saved.
+Yamamoto Akuji (talking),なんだ。 野良犬にでもおっかけられてたのか？,What`s the matter? Some stray dog chase you or something?
+Kinugasa Tomoko (talking),あ…違います。 なんだか不審な人がいて。,"Oh, no... There`s this suspicious man, you see."
+Yamamoto Akuji (talking),不審？,Suspicious?
+Kinugasa Tomoko (talking),はい… もし、麻薬中毒患者だったりしたら、 怖いから…,Yes. I`m afraid that he might be a drug addict or something.
+__system__??,},}
+__system__??,{RND = 0:,{RND = 0:
+Yamamoto Akuji (talking),変な奴？,There`s a weirdo?
+Seinendan Jyoshi (talking),はい…なんだか、この中の様子を 確かめているみたいなんですが…,Yeah. It`s as if he`s trying to scope us out...
+__system__??,},}
+Yamamoto Akuji (talking),なんだ、そりゃ。 俺が追っ払ってやるよ。,What the fuck? Where is he? I`ll chase him away.
+narrator,悪司はそう言うと、事務所の外に出た。,Akuji said that and went outside the office.
+Yamamoto Akuji (thinking),どこ行きやがった…,Where did he go...?
+narrator,悪司がゆっくり辺りを見回すと、 建物の影から人が現れた。,"As Akuji looked around the area, a man walked out from between some buldings."
+Shimamoto Jun (talking),若。,Young Master.
+Yamamoto Akuji (talking),島本！？,Shimamoto?!
+Shimamoto Jun (talking),本当に、こちらに いらっしゃったのですね。,So you really were here.
+Yamamoto Akuji (talking),おう、そうだ。 今はちと、変質者を追っててな。,"Yep, that`s right. I`m chasing away some degenerate right now."
+Shimamoto Jun (talking),変質者？,Degenerate?
+Yamamoto Akuji (talking),ああ、そうだ。 なんか、この事務所の周りをウロウロ してる不審な奴が…,Yeah. You seen anyone suspicious wandering around this place?
+Shimamoto Jun (talking),ひょっとして私の事ですか、それ。,"Could that be me, perhaps?"
+Yamamoto Akuji (talking),へ？,Huh?
+Shimamoto Jun (talking),本当に若がいらっしゃるかどうか 確認しようと少しウロついていたので。,I did wander around this place to check if you really were here.
+Yamamoto Akuji (talking),"そーいう事だったのかい。
+ああ、そうだ。 わかめ組があんな事になったから、 俺は今、ここを根城にしている。","So that`s what it was, huh.
+ But yeah, I`ve set up fort here thanks to what happened to the Wakame Family."
+Shimamoto Jun (talking),そうでしたか。 だったら、話は早い。,That so? Then this makes things simple.
+Yamamoto Akuji (talking),へ？,Hm?
+Shimamoto Jun (talking),私は若の力になる為に、 わかめ組を抜けてきました。,"I left the Family so I could help you, Young Master."
+Yamamoto Akuji (talking),"そうかい。 お前さんがこっちについてくれると、 ありがたい。
+なんせ、お前さんの情報収拾能力は スンゲーからな。","That so. I`d be damn glad to have you on my side.
+ Your ability to gather info`s second to none, after all."
+Shimamoto Jun (talking),それ程でも。,It`s not that amazing.
+Yamamoto Akuji (talking),まあいい、とにかく入れ。 みんなに紹介する。,"Whatever, come join me. I`ll introduce you to everyone."
+Shimamoto Jun (talking),はい。,Got it.
+Shimamoto Jun (thinking),"戦地から生還したからといって、 そうそう簡単に人間が変わるものでは ないようだ。
+戦争が終わってもしばらく帰って こなかったのは、おそらく捕虜に なっていたから。
+それでも、出兵前と性格が 変わっていない。 単細胞というか、何と言うか――
+さて…無粋な戦争で中断していた、 俺の実験を再開させてもらおう。
+この男が権力者になるのかどうか。 見届けさせてもらうぞ、山本悪司。","Looks like some people never change, even after surviving a war.
+ The reason why he didn`t return after the war had ended was likely because he was a POW.
+ And yet none of that changed him at all. Dunno if I should call him simple-minded or what.
+ Now, time to resume my experiment that the war interrupted.
+ Let`s see whether you can rise to the very top, Yamamoto Akuji."
+Yamamoto Akuji (thinking),"俺は、実戦向きでは無いのに…… 適材適所という事もわかってないのか 若は……
+俺の見込み違いだったのか…？","I`m not good at fighting... Ever heard of right person for the right job, Young Master?
+ Was I wrong about you...?"
+Yamamoto Akuji (thinking),やばいな……こんな状況になるはずでは なかったのだが… すべて計算通りはいかないか……,This is bad... This isn`t how things should`ve panned out... Guess I can`t account for everything...
+Yamamoto Akuji (thinking),わかめ組がそろそろ来ます。 １ヶ月以内……早ければ来週でしょう。 準備を怠りなく。,The Wakame will attack soon. Likely within a month... maybe even next week. Be ready.
+__system__??,{☆わかめ < 3:,{☆わかめ < 3:
+__system__??,{D11 \ 0:,{D11 \ 0:
+Yamamoto Akuji (thinking),"現在、わかめ組と交戦状態に 入っています。
+ミドリガオカに侵入してきた 加賀元子の部隊には、なにやら不穏な 動きがあるらしいと情報が入りました。","We are currently at war with the Wakame Family.
+ Kaga Motoko`s squad invading Midorigaoka seems to be taking disquieting actions."
+__system__??,},}
+__system__??,},}
+Yamamoto Akuji (thinking),現在、わかめ組と交戦状態に 入っています。,We are currently at war with the Wakame Family.
+Yamamoto Akuji (thinking),ミドリガオカに侵入してきたわかめ組 ですが、どうやら自滅したもようです。 加賀元子が行方不明になっています。,The Wakame Family squad that invaded Midorigaoka has destroyed itself. Kaga Motoko has gone missing.
+Yamamoto Akuji (talking),トコが…… あいつが仕事を投げ出していなくなる訳 ないし、何があったんだ。,Toko... She ain`t the kind to give up or abandon her duty. Something musta happened.
+Shimamoto Jun (talking),ひょっとしたら、身内の裏切りかも しれませんね。,Perhaps one of her men betrayed her.
+Shimamoto Jun (talking),わかめ組が用心棒を呼んだもようです。 素敵医師とデカオという者で今の所、 素性は不明です。,The Wakame Family`s hired the bodyguards Dr. Wonderful and Dekao. Their backgrounds are unknown.
+Shimamoto Jun (talking),わかめ組の管理地域で麻薬が 流通し始めているようです。,Drugs have begun to circulate from the Wakame Family`s turf.
+Shimamoto Jun (talking),現在、,"Currently, the"
+__system__??,{☆高山 = 0:,{☆高山 = 0:
+Shimamoto Jun (talking),那古教,Nako Cult
+__system__??,} else {,} else {
+Shimamoto Jun (talking),高山組,Takayama Family
+__system__??,},}
+Shimamoto Jun (talking),と交戦状態に 入っています。,are at war with us.
+Shimamoto Jun (talking),現在、桃山組と交戦状態に 入っています。,We are currently at war with the PM.
+Shimamoto Jun (talking),市議会に出向いて組合担当の監督官と 話をすべきだと思います。,You should head over to the CC and meet our RMG`s supervisor.
+Shimamoto Jun (talking),そろそろ市議会に赴いて、賄賂を 渡しておいた方が無難です。,You should head over to the CC and hand over your bribes soon.
+Shimamoto Jun (talking),せっかくタマネギ先生がいらっしゃるの ですから、調教の館を建設されては いががでしょうか？,"Since we hired Tamanegi-sensei, how about we build a Sex Training Facility?"
+Shimamoto Jun (talking),タマネギ先生から依頼が来ています。 調教の館を早く再建してほしいと。,Tamanegi-sensei has a request. He`d like a Sex Training Facility.
+Shimamoto Jun (talking),ヘグリの貴神様からご招待を 受けております。,We have received an invitation from Kishin-sama in Heguri.
+Shimamoto Jun (talking),ヘグリの貴神様からの依頼があります。 上級娼婦を譲って欲しいとの事です。,We`ve a request from Kishin-sama. He wants an Advanced Prostitute.
+Shimamoto Jun (talking),ヘグリの貴神様からの依頼があります。 ＳＳＳ学園の女学生を欲しいとの 事です。,We`ve a request from Kishin-sama. He wants a female student from SSS Academy.
+Shimamoto Jun (talking),ヘグリの貴神様からの依頼があります。 穴奴隷を譲ってほしいとの事です。,We`ve a request from Kishin-sama. He wants a Cum Dump.
+Shimamoto Jun (talking),ヘグリの貴神様からの依頼があります。 自前のメイドを輪姦して欲しい そうです。,We`ve a request from Kishin-sama. He wants his live-in maid to be gangraped.
+Shimamoto Jun (talking),ヘグリの貴神様からの依頼があります。 ウィミィ女性士官を欲しいとの事です。,We`ve a request from Kishin-sama. He wants a Wimenese Officer.
+Shimamoto Jun (talking),ヘグリの貴神様からの依頼があります。 駆け落ちしたメイドを捜して欲しいとの 事です。,We`ve a request from Kishin-sama. He wants us to search for his runaway maid.
+Shimamoto Jun (talking),"ヘグリ地区で泥棒騒動が 起こっています。
+貴神様の屋敷へ来て欲しいと 連絡がありました。","Thefts have been happening in Heguri.
+ Kishin-sama has asked us to come to his mansion."
+Shimamoto Jun (talking),ヘグリ地区で怪盗マトリョーシカという 泥棒が暴れ回っています。,Phantom Thief Matryoshka is running wild in Heguri.
+Shimamoto Jun (talking),捕虜となった者が怪盗マトリョーシカの 事を知っているかもしれません。,Our prisoners may know about Phantom Thief Matryoshka.
+Shimamoto Jun (talking),怪盗マトリョーシカの隠れ家が 判明しています。 ハクアの森です。,Phantom Thief Matryoshka`s hideout has been found. It`s in Hakua`s forest.
+Shimamoto Jun (talking),加賀元子がわかめ組屋敷の近くの 町工場跡に監禁されているという 情報があります。,Kaga Motoko is being confined in an industrial district near the Wakame Estate.
+Shimamoto Jun (talking),氏が若に対して 不信感を募らせているもようです。,seems to be starting to distrust you.
+Shimamoto Jun (talking),"組織の主要メンバーが３０名を越えま した。若ひとりでは全ての者の忠誠心 を維持するのが難しいかと思います。
+今後の事も考えて保養所を建てて 定期的に気分転換をさせた方がよいと 思われます。","We now have over 30 subordinates. Keeping them loyal by yourself may prove difficult.
+ You may want to consider building a recreation facility to help with that."
+Shimamoto Jun (talking),実に奇怪な事が起こりました。 金田酒太郎が女になりました。,Something bizarre has happened. Kaneda Sakatarou became a woman.
+Yamamoto Akuji (talking),はぁ？？？,WHAT?!?!?!
+Shimamoto Jun (talking),よろしければ、 後でご自分でお確かめ下さい。,"If you`d like, you may see for yourself later."
+Shimamoto Jun (talking),昨晩の事ですが、オオサカコフンの 入り口が開いているのが発見されました。 今なら中に入る事が出来ます。,We found entrances into the Kofun mounds last night. We can go inside them now.
+Shimamoto Jun (talking),市議会より、食い逃げ犯の池田加奈を 逮捕するように指示が出ております。,"The CC has ordered us to arrest Ikeda Kana, the dine-and-dasher."
+Shimamoto Jun (talking),那古教の教祖と古宮陽子ですが、 引き離しておいた方がよいかと。,You may want to keep Komiya Youko and the Guru apart.
+Yamamoto Akuji (talking),どーしてだ？,Why?
+Shimamoto Jun (talking),犬が飼い主の手を噛む、 という事になりかねません。 お心当たりはありませんか？,The dog may just bite its owner`s hand. Do you get the idea?
+Yamamoto Akuji (talking),んー……あるにはあるけどよ。,"Hmm, I guess."
+Shimamoto Jun (talking),そうですか。 では、後は若にお任せします。,Really. Then I`ll leave the rest up to you.
+Shimamoto Jun (talking),組を脱走した、由女と古宮陽子の行方で すが、どうやらシキナにいるようです。 元信者がかくまっています。,"The fugitives, Yume and Youko, seem to be in Shikina, sheltered by former cultists."
+Shimamoto Jun (talking),私が調べた所の現在の選挙情勢です。,Here`s the current election status.
+__system__??,{☆選挙 = 4:,{☆選挙 = 4:
+Shimamoto Jun (talking),前市長の娘、中山多恵子が立候補して きました。,"Nakayama Taeko, the former mayor`s daughter, is now a candidate."
+__system__??,},}
+__system__??,{☆選挙 = 4:,{☆選挙 = 4:
+Shimamoto Jun (talking),選挙運動は、後３週間あります。,The elections will be held in 3 weeks.
+__system__??,},}
+__system__??,{☆選挙 = 5:,{☆選挙 = 5:
+Shimamoto Jun (talking),選挙運動期間は、後２週間のみです。,Only 2 more weeks until the elections.
+__system__??,},}
+__system__??,{☆選挙 = 6:,{☆選挙 = 6:
+Shimamoto Jun (talking),いよいよ、週末は選挙です。,The elections are finally next week.
+__system__??,},}
+__system__??,{■ \ 0:,{■ \ 0:
+Shimamoto Jun (talking),選挙ポスターは、,The election posters for
+Shimamoto Jun (talking),地域に配置して おります。 知名度を徐々に上げているもようです。,have been all put up now. Popularity should keep increasing.
+__system__??,},}
+__system__??,{☆立候補 = 1:,{☆立候補 = 1:
+Shimamoto Jun (talking),夕子様,Yuuko-sama
+__system__??,},}
+__system__??,{☆立候補 = 2:,{☆立候補 = 2:
+Shimamoto Jun (talking),殺様,Satsu-sama
+__system__??,},}
+Shimamoto Jun (talking),の支持率　,の支持率　
+Shimamoto Jun (talking),％,％
+__system__??,{☆選挙 = 3:,{☆選挙 = 3:
+Shimamoto Jun (talking),選挙運動は始まったばかりです。 これからの運動が勝敗を決めます。,You`ve only just gotten started. Your actions`ll determine the outcome.
+__system__??,},}
+__system__??,{☆選挙 = 4:,{☆選挙 = 4:
+Shimamoto Jun (talking),完全に中山多恵子に押されています。 なんらかの対策が必要です。,Nakayama Taeko`s pushing us back. We need to take countermeasures.
+__system__??,},}
+__system__??,{☆選挙 = 5:,{☆選挙 = 5:
+Shimamoto Jun (talking),厳しい状況です。,It`s looking dire.
+__system__??,},}
+__system__??,{☆選挙 = 6:,{☆選挙 = 6:
+__system__??,{☆人気／夕子 < ☆人気／多恵子:,{☆人気／夕子 < ☆人気／多恵子:
+Shimamoto Jun (talking),現状では、勝てる見込みは少ないです。,Our chances at victory are slim.
+__system__??,},}
+__system__??,{☆人気／夕子 > ☆人気／多恵子:,{☆人気／夕子 > ☆人気／多恵子:
+Shimamoto Jun (talking),このままいけば、勝てます。 最後の選挙運動をして下さい。,We`ll win at this rate. Please finish your preparations.
+__system__??,},}
+__system__??,},}
+Shimamoto Jun (talking),北条政子の支持率　,北条政子の支持率　
+Shimamoto Jun (talking),％,％
+__system__??,{☆選挙 = 3:,{☆選挙 = 3:
+Shimamoto Jun (talking),ガチガチの議員あがりです。 問題視する必要はありません。,Typical government stiff. No need to perceive as a threat.
+__system__??,},}
+__system__??,{☆選挙 = 4:,{☆選挙 = 4:
+Shimamoto Jun (talking),地道な活動はしているようですが、 まったく駄目です。,"She`s trying to run an honest campaign, but it seems hopeless."
+__system__??,},}
+__system__??,{☆選挙 = 5:,{☆選挙 = 5:
+Shimamoto Jun (talking),本人は、まだやる気のようですが、 後援会はすでに解散状態です。,"She`s still determinded, but her committee has already given up."
+__system__??,},}
+__system__??,{☆選挙 = 6:,{☆選挙 = 6:
+Shimamoto Jun (talking),この人については、語る事はありません。,Nothing to talk about here.
+__system__??,},}
+Shimamoto Jun (talking),瑞海和樹の支持率　,瑞海和樹の支持率　
+Shimamoto Jun (talking),％,％
+__system__??,{☆選挙 = 3:,{☆選挙 = 3:
+Shimamoto Jun (talking),ＰＭの後押しで票を集めています。 要注意です。,She`s winning votes with help from the PM. Watch out for her.
+__system__??,},}
+__system__??,{☆選挙 = 4:,{☆選挙 = 4:
+Shimamoto Jun (talking),ハニー土木の力を使い支持率を 伸ばしています。,She`s using Hanny Engineering`s influence to increase her approval.
+__system__??,},}
+__system__??,{☆選挙 = 5:,{☆選挙 = 5:
+Shimamoto Jun (talking),ＰＭの支援が無くなり、急速に支持率 を失っています。,Her approval`s cratered after the PM ceased backing her.
+__system__??,},}
+__system__??,{☆人気／多恵子 \ 0:,{☆人気／多恵子 \ 0:
+Shimamoto Jun (talking),中山多恵子の支持率　,中山多恵子の支持率　
+Shimamoto Jun (talking),％,％
+__system__??,{☆選挙 = 4:,{☆選挙 = 4:
+Shimamoto Jun (talking),ものすごい人気です。 一般市民の大半の心を掴んでいます。,"She`s incredibly popular, and won most citizens` hearts over."
+__system__??,},}
+__system__??,{☆選挙 = 5:,{☆選挙 = 5:
+Shimamoto Jun (talking),新たにＰＭも支援に加わり万全の体制と なっています。,"With the PM`s backing, her system`s been perfected."
+__system__??,},}
+__system__??,{☆選挙 = 6:,{☆選挙 = 6:
+__system__??,{☆スキャンダル = 3:,{☆スキャンダル = 3:
+Shimamoto Jun (talking),例のスキャンダルで人気が落ちていますが それでも最大のライバルです。,"Even after the scandal, she`s still our biggest rival."
+__system__??,},}
+__system__??,{☆スキャンダル \ 3:,{☆スキャンダル \ 3:
+Shimamoto Jun (talking),圧倒的人気です。 新市長は彼女に決まりそうです。,She`s incredibly popular. She`ll likely be the next mayor.
+__system__??,},}
+__system__??,},}
+__system__??,},}
+Shimamoto Jun (talking),選挙の動向に関する報告は、以上です。,That`s all for the elections.
+Shimamoto Jun (talking),"にて、 ジョンソンと名乗る巨漢の ウィミィ人がうろうろしています。
+他で仕入れた情報によると、 極度の異常性愛者との事です。","reported that the massive man from Wimmi, known as Johnson, is wandering around.
+ From what I`ve heard, he`s a complete degenerate."
+Shimamoto Jun (talking),にて、 非常にやっかいな事が起こっています。 ウィミィの女性運動家が現れたそうです。,region is in danger. An activist woman from Wime has apparently shown up.
+Shimamoto Jun (talking),にて、 ウィミィ軍人の中でも殺人狂で有名な シャロン少尉が目撃されています。,"region has had sightings of the Wimenese Army`s infamous, bloodthirsty Sublieutenant Sharon."
+Shimamoto Jun (talking),ハニー土木の大量解雇により 職を失った者が市街にあふれかえって います。,The mass layoffs from Hanny Engineering have flooded the city with the unemployed.
+Shimamoto Jun (talking),イルラカムイの探している 婚約者ですが、どうやら １６色画廊で捕らわれているようです。,"About the fiancee Ilulakamui is searching for, it`d seem she`s been captured at the 16-Color Art Gallery."
+Shimamoto Jun (talking),池田加奈が売春宿から消えました。 姉、苺が関係しているかもしれません。,Ikeda Kana has disappeared from the brothel. Her sister may be involved.
+Shimamoto Jun (talking),売春宿の告発本が発売されました。,There is now a book denouncing our brothels.
+Shimamoto Jun (talking),"池田苺というフリーの記者が 組織の周囲を嗅ぎ回っているようです。
+調べてみたところ、池田苺自身は 三流記者に過ぎませんが……
+この記者、以前に若が捕獲して タマネギ先生へお預けになった、 食い逃げ犯・池田加奈の実姉です。
+その線から、思いもよらない損害を 被るかもしれません。
+なるべく早く、池田苺の口を塞ぐなど 手を打つべきかと思われます。","A reporter called Ikeda Ichigo has been snooping around.
+ I`ve looked into her, but she`s just a third-rate reporter.
+ She is also Ikeda Kana`s sister, whom you`ve captured and made into a prostitute.
+ Thus, she might be able to cause more damage than you`d think.
+ You should try to silence her as soon as you can."
+__system__??,{★愛 = 5:,{★愛 = 5:
+Shimamoto Jun (talking),そういえば… ご結婚、おめでとうこざいます。,"By the way, congratulations on your marriage."
+Yamamoto Akuji (talking),あ~…,Oh...
+Shimamoto Jun (talking),どうなさったのです？ めでたい事ではないのですか？,What`s the matter? Isn`t it something to celebrate?
+Yamamoto Akuji (talking),無理矢理決められたからな~…,Cuz I was forced to decide.
+Shimamoto Jun (talking),一応、色々と調べておきました。 婚姻届は正式な物で提出されています。,I did look into it. The marriage`s been made official.
+Yamamoto Akuji (talking),ん~…,Hrmmm...
+Shimamoto Jun (talking),"４月３日生まれ、１８才です。 これも間違いありません。
+なんの心配もありませんよ。","Born on April 3rd, 18yo. There is no mistaking this.
+ There are no worries."
+Yamamoto Akuji (talking),ん~~~~…,Hrrrmmmmm...
+__system__??,},}
+Shimamoto Jun (talking),"岳画殺について調べました。 間違いなく若の叔母になります。
+３親等以内の血縁なので 気をつけて下さい。","I`ve investigated Satsu. She`s undoubtedly your aunt.
+ She`s a 2nd-degree relative, so keep that in mind."
+Yamamoto Akuji (talking),何が？,What? Why?
+Shimamoto Jun (talking),それから、１３才です。 これも間違いありません。 未成年なので気をつけてください。,"She`s also definitely 13. This means she`s underage, so keep that in mind."
+Yamamoto Akuji (talking),だから、何が？,"Like I said, why?"
+Shimamoto Jun (talking),色々です。,Several reasons.
+Shimamoto Jun (talking),"神原夕子。 若の初めての女性であり、 若のテクニックのすべてを知る女性です。
+戦地におもむき若のテクニックも少し 落ちている様子。
+夕子さんを使い、再び技術を取り戻しては いかがですか？","Kanbara Yuuko. She was your first woman, and knows all of your techniques in bed.
+ Your technique seems to have gotten a bit worse after the war.
+ May I suggest using Yuuko-san to regain your old abilities?"
+Yamamoto Akuji (talking),そうだな… そしたら、徐々に部下の扱いも ラクになるかもしんねーしな。,Right... I should have an easier time dealing with my subordinates if I do that.
+Shimamoto Jun (talking),はい、効率があがると思います。,"Yes, I think you`ll be more efficient."
+Shimamoto Jun (talking),シキナの周辺に那古教という 新興宗教があります。,There`s a new religion called the Nako Cult around Shikina.
+Yamamoto Akuji (talking),ふん、宗教ね……,"Hmph, a religion, huh..."
+Shimamoto Jun (talking),最近、各地で、つちのこを目撃した という噂が飛び交っています。,We`re getting rumors of Tsuchinoko sightings everywhere.
+Shimamoto Jun (talking),つちのこを見たという噂が増えて いますが、総合するとロッコウ辺りに いるらしいです。,"We`re getting more rumors of Tsuchinoko sightings, particularly around Rokkou."
+Shimamoto Jun (talking),キャット・メッコーが天才病院に 入院中です。 病名等はまだわからないとの事です。,Cat Mecco has been hospitalized at Genius Hospital. Her disease is yet unknown.
+Shimamoto Jun (talking),お時間があるようでしたら、 ヘグリの竹井屋敷をご訪問されては どうですか？,"If you have the time, how about paying the Takei Estate in Heguri a visit?"
+Shimamoto Jun (talking),捕虜として捕らえている長崎旗男ですが 根気よく懐柔していけば、部下に出来る 可能性があると思われます。,"About our prisoner, Nagasaki Hatao. If you keep pressing him to join us, I believe he may very well do so."
+Shimamoto Jun (talking),長崎旗男の様子がおかしいです。 注意した方がよろしいかと。,Something`s wrong with Nagasaki Hatao. Be careful.
+Shimamoto Jun (talking),これは、ただの噂話ですが… オオアナで放射能を浴びると、まれに 能力が上がったりする事があるとか…,"Rumor has it that rarely, when you take in some radiation in the Great Hole, you become stronger."
+Shimamoto Jun (talking),売春宿の件ですが、数が多すぎます。 娼婦の数に上限がありますから無駄です。,"We have too many brothels, and we can only have so many prostitutes."
+Shimamoto Jun (talking),売春宿の件ですが、 新しく建造しては、いかがでしょうか？ すでにどの店も定員一杯です。,Perhaps we should build a new brothel? All of our current ones are full.
+Shimamoto Jun (talking),市議会を攻めるなら早い内がいいです。 ただし２週間でケリをつけて下さい。,"You should attack the CC soon, but you must win within 2 weeks."
+Shimamoto Jun (talking),これは、余計な事かもしれませんが… 想い人を手に入れる為には、マメに会い に行った方がいいですよ。,"I might not need to say this, but if you want to get your beloved, you should keep meeting them."
+Shimamoto Jun (talking),これは、余計な事でしょうが… アンリさんは…,"I might be saying too much, but Anri-san-"
+Yamamoto Akuji (talking),お前には関係の無い事だろ。,It`s none of your business.
+Shimamoto Jun (thinking),……女を操るのが仕事なのに、 操られるとは…期待はずれか…,"...Your job is to manipulate women, yet you let yourself be manipulated..."
+Shimamoto Jun (talking),"ＰＭとのコロシアム決戦の勝利、 おめでとうございます。
+ですが、プライドの高い彼らが、 これで黙っているとは到底 思えません。","Congratulations on your victory against the PM.
+ However, I highly doubt a group as prideful as theirs will take this lying down."
+Yamamoto Akuji (talking),わかってる。 これからが本番だな。,I know. From now on it`ll be the real deal.
+Shimamoto Jun (talking),おそらく。,Most likely.
+Shimamoto Jun (talking),シンコウベにて戦時中ウィミィが落とした 不発弾が発見されました。 早急に処理が必要です。,We found an unexploded bomb from Wime in New Koube. It needs to be disposed of at once.
+Shimamoto Jun (talking),若、さしでまがしい事かもしれませんが 寧々に裏工作をさせております。,"Apologies, but I`ve been working behind the scenes with Nene."
+__system__??,{★桃山組 = 2:,{★桃山組 = 2:
+Tsukigase Nene (talking),桃山組に偽情報を流し混乱させました。 今週は、連続行動は出来ないと思われ ます。,We`ve been feeding the PM false info. They shouldn`t be able to mobilize more than ocne this week.
+__system__??,},}
+__system__??,{☆ギガフロート > 2:,{☆ギガフロート > 2:
+Tsukigase Nene (talking),謎の軍団に対して、手をうちました。 今週は、連続行動は出来ないはずです。,We`ve sabotaged that weird militia. They won`t attack more than once.
+__system__??,},}
+__system__??,{★ウィミィ = 2:,{★ウィミィ = 2:
+Tsukigase Nene (talking),ウィミィ軍に対しての 裏工作が成功しました。 今週は、派手な作戦が出来ないはずです。,Our scheme against the Wimenese forces was a success. They won`t be able to do anything big this week.
+__system__??,},}
+Shimamoto Jun (talking),アシヤには、乃木大将の屋敷があります。 争う前に一度、話をされてみてはいかがで しょうか。,General Nogi`s estate`s in Ashiya. Maybe you should talk to him before atatcking.
+Shimamoto Jun (talking),どうしました？ うかない顔をしてらっしゃいますが。,What`s wrong? You look depressed.
+narrator,悪司は、乃木屋敷で会った 青年将校の話をした。,Akuji told Shimamoto about the young officer he saw in the Nogi Estate.
+Shimamoto Jun (talking),"なるほど、ありがちな話ですね。
+巻き込まれると、厄介な事に なりそうです。
+乃木将軍との接触は、 少し考えた方がよいですね。","I see. Pretty common story.
+ It`ll be dangerous if you get wrapped up in it.
+ You may want to think twice about contacting the General."
+Shimamoto Jun (talking),現在、遅刻ペンギンが発生しています。 奴らを止めるには、私達の支配地域を 増やすしかありません。,We have Late Penguins on the loose. The only way to stop them is to expand our territory.
+Shimamoto Jun (talking),"いよいよ選挙が開始となります。
+我々の管理地において手の届く範囲では、 票の獲得をしておりますが……
+選挙票の大半である浮動票は、 地道に確保する必要があります。
+街頭演説を行う事で、人気を高める事が 出来ます。
+また、地域において裏金をばらまく事に より、票を集める事も可能です。
+もちろん違法ですが、鴉葉氏に話を つけてありますので、選挙法違反で捕まる 可能性はありません。
+ですので、どんどん行うべきです。
+また、選挙ポスターを大量にたてる事で 市民に名前を覚えさせる事も重要です。
+あまり考えてない市民は、ポスターで 見慣れた名前に、より親近感を感じる との事ですから。
+他の作戦行動を後回しにしても、 この１ヶ月は、選挙活動に 専念すべきです。","The elections will begin soon.
+ We`re getting as many votes as we can in our regions, but...
+ With swing votes being the majority, we`ll need to work hard secure them.
+ You can raise your popularity with soapbox speeches.
+ Alternatively, you can \”invest\” some money in a region.
+ While illegal, I`ve talked to Karasuba-san about this, so we won`t risk being arrested.
+ So do as much as you can.
+ Also, putting up election posters is a good idea.
+ Making the candidate`s name familiar to the indecisive will make them feel a sense of proximity to her.
+ You should focus on the elections for this next month, even if you must delay your other plans."
+Shimamoto Jun (talking),エデン司令部のシーネル司令官は、 完全に若の支配下ですが、用心をして 訪問しておいた方がよいと思われます。,"Commander Seanel is completely under your control, but you should be cautious when visiting her."
+Shimamoto Jun (talking),ナンコウ沖に現れた物体ですが、 ウィミィ軍が極秘開発していた ギガフロートという洋上基地らしいです。,The thing spotted near Nankou is a top-secret offshore base developed by Wime called the Gigafloat.
+Yamamoto Akuji (talking),なんで、そんな物がここに来たんだ。,Why is that thing here?
+Shimamoto Jun (talking),わかりません。 ですが、私達の敵である事には違いない ようです。,I have no idea. But it definitely seems to be our opponent.
+Shimamoto Jun (talking),謎の軍団として乗り込んできた者達ですが 北米大陸の戦闘民族アメリカンです。,"The soldiers on Gigafloat are Americans, the warrior race of North America."
+Yamamoto Akuji (talking),なんで、そんな遠くから……,Why`d they come all this way...?
+Shimamoto Jun (talking),理由は不明ですが、アメリカンは元いた 土地をウィミィ人に奪われ民族危機に 陥っていると聞いています。,"I don`t know, but they`ve been in an ethnic crisis ever since they lost their homelands to Wime."
+Shimamoto Jun (talking),"謎の軍団から乗り込んできた強力な蛮族 ですが、南のアドリリ島に生息する戦鬼 という一族です。
+１年ほど前にウィミィ軍により種族撲滅 されたという事だったのですが…… ここに現れるとは……","The savages on Gigafloat are the Senki, a clan living in Adoriri Island to the south.
+ They were genocided by the Wimenese Army about a year ago... To think they`d show up here..."
+Shimamoto Jun (talking),行方不明の岳画殺ですが…… いまだ消息が不明です。,We have yet to hear any news about the missing Takega Satsu...
+Shimamoto Jun (talking),若、ウィミィに対してですが……,"Young Master, about Wime..."
+Yamamoto Akuji (talking),ああ、準備はしておいてくれ。,"Yeah, get everything ready."
+Shimamoto Jun (talking),わかりました。 いつでもいけるようにしておきます。,Very well. I`ll make it so we`re ready to go anytime.
+Shimamoto Jun (talking),我らが管理地域にて女子学生達が 独立を目指して決起しました。 早いうちに潰しておくべきと思います。,The school girls have started a movement for independence in our regions. You should crush them ASAP.
+Shimamoto Jun (talking),我らが管理地域にて主婦達が 独立を目指して決起しました。 早いうちに潰しておくべきと思います。,The housewives have started a movement for independence in our regions. You should crush them ASAP.
+Shimamoto Jun (talking),我らが管理地域で酔っぱらいが集団で 暴れています。 さっさと始末した方がよいかと。,A mob of drunks are rampaging in our territories. You should get rid of them soon.
+__system__??,{D19 = 701:,{D19 = 701:
+narrator,現状報告の為、島本純が現れた。,Shimamoto Jun showed up for a status report.
+__system__??,},}
+__system__??,{D19 = 702:,{D19 = 702:
+narrator,現状報告の為、部下が現れた。,A subordinate showed up for a status report.
+__system__??,},}
+__system__??,{D19 = 701:,{D19 = 701:
+narrator,以上、情報の報告を終わります。,That`s all I had to report.
+__system__??,},}
+__system__??,{D19 = 702:,{D19 = 702:
+narrator,ほ、報告する事は… んと… ないです……た、多分…,Th-That`s all I had to report... ...I think...
+__system__??,},}
+__system__??,{D19 = 701:,{D19 = 701:
+narrator,今朝方、,"This morning,"
+narrator,が 行方不明になりました。 組織を裏切ったと思われます。,has gone missing. I believe they`ve betrayed us.
+__system__??,},}
+__system__??,{D19 = 702:,{D19 = 702:
+narrator,今朝方、,"This morning,"
+narrator,が 行方不明になりました。 組織を裏切ったと思われます。,has gone missing. I believe they`ve betrayed us.
+__system__??,},}
+__system__??,{D19 = 701:,{D19 = 701:
+__system__??,{B地域 \ 0:,{B地域 \ 0:
+narrator,今朝方、,"This morning, while at"
+narrator,に配備されて,"for work,"
+__system__??,},}
+__system__??,{B地域 = 0:,{B地域 = 0:
+narrator,今朝方、休憩中で休んで,"This morning, while resting,"
+__system__??,},}
+narrator,いた,that
+narrator,さんが老衰にて お亡くなりになりました。,passed away due to old age.
+__system__??,},}
+__system__??,{D19 = 702:,{D19 = 702:
+narrator,今朝方、,"This morning,"
+narrator,じいさんが… ひっく、ひっく…,", the old man... hic... sob..."
+Yamamoto Akuji (talking),泣いてちゃわからん。 どうしたんだ。,I won`t understand if ya keep crying. What happened?
+Seinendan Jyoshi (talking),死んじゃいました… えーん、いい人だったのに…,"He died... He was such a nice person, too..."
+__system__??,},}
+__system__??,{D19 = 701:,{D19 = 701:
+Seinendan Jyoshi (talking),"地域ですが 酔っぱらいが暴れた事により治安が 悪化しております。
+なお、原因となった酔っぱらいですが、 数日前に路上で凍死体として発見されて おります。","region has drunks causing trouble, which is worsening the public order.
+ Also, the drunk who started it all was found frozen to death on the streets a few days ago."
+__system__??,},}
+__system__??,{D19 = 702:,{D19 = 702:
+Seinendan Jyoshi (talking),"地域ですが 酔っぱらいが暴れた事により治安が 悪化しております。
+なお、原因となった酔っぱらいですが、 数日前に路上で凍死体として発見されて おります。","region has drunks causing trouble, which is worsening the public order.
+ Also, the drunk who started it all was found frozen to death on the streets a few days ago."
+__system__??,},}
+__system__??,{D19 = 701:,{D19 = 701:
+Seinendan Jyoshi (talking),地域ですが,region has suffered from
+__system__??,{☆生物／事件 = 1:,{☆生物／事件 = 1:
+Seinendan Jyoshi (talking),ネズミの大襲撃により,a huge rat attack
+__system__??,},}
+__system__??,{☆生物／事件 = 2:,{☆生物／事件 = 2:
+Seinendan Jyoshi (talking),野良犬の大暴走により,a rampage of stray dogs
+__system__??,},}
+__system__??,{☆生物／事件 = 3:,{☆生物／事件 = 3:
+Seinendan Jyoshi (talking),猿のお祭り（住民大迷惑）により,a parade of monkeys
+__system__??,},}
+__system__??,{☆生物／事件 = 4:,{☆生物／事件 = 4:
+Seinendan Jyoshi (talking),ダチョウの来襲により,an ostrich attack
+__system__??,},}
+Seinendan Jyoshi (talking),"治安が著しく悪化しております。
+なお、現在はその存在が確認されておらず どこかに逃げ去ったものと思われます。","which sent the region into chaos.
+ Furthermore, we`re unable to confirm their location. They must have escaped."
+__system__??,},}
+__system__??,{D19 = 702:,{D19 = 702:
+Seinendan Jyoshi (talking),地域ですが,region has suffered from
+__system__??,{☆生物／事件 = 1:,{☆生物／事件 = 1:
+Seinendan Jyoshi (talking),ネズミの大襲撃により,a huge rat attack
+__system__??,},}
+__system__??,{☆生物／事件 = 2:,{☆生物／事件 = 2:
+Seinendan Jyoshi (talking),野良犬の大暴走により,a rampage of stray dogs
+__system__??,},}
+__system__??,{☆生物／事件 = 3:,{☆生物／事件 = 3:
+Seinendan Jyoshi (talking),猿のお祭りにより,a parade of monkeys
+__system__??,},}
+__system__??,{☆生物／事件 = 4:,{☆生物／事件 = 4:
+Seinendan Jyoshi (talking),ダチョウの来襲により,an ostrich attack
+__system__??,},}
+Seinendan Jyoshi (talking),"治安が著しく悪化しております。
+なお、現在はその存在が確認されておらず どこかに逃げ去ったものと思われます。","which has worsened the public order.
+ Furthermore, we`re unable to confirm their location. They must have escaped."
+__system__??,},}
+Seinendan Jyoshi (talking),地域において 暴動が起こっています。,has seen a riot break out.
+__system__??,{P3フラグ = 1:,{P3フラグ = 1:
+Seinendan Jyoshi (talking),売春宿,Brothel
+__system__??,},}
+__system__??,{P3フラグ = 2:,{P3フラグ = 2:
+Seinendan Jyoshi (talking),たこ焼き屋,Takoyaki Stand
+__system__??,},}
+__system__??,{P3フラグ = 3:,{P3フラグ = 3:
+Seinendan Jyoshi (talking),無人金貸し機,ATM
+__system__??,},}
+__system__??,{P3フラグ = 4:,{P3フラグ = 4:
+Seinendan Jyoshi (talking),怪しい電波塔,Weird Radio Tower
+__system__??,},}
+__system__??,{P3フラグ = 5:,{P3フラグ = 5:
+Seinendan Jyoshi (talking),前線基地,Forward Base
+__system__??,},}
+__system__??,{P3フラグ = 6:,{P3フラグ = 6:
+Seinendan Jyoshi (talking),選挙ポスター,Election Poster
+__system__??,},}
+__system__??,{P3フラグ = 7:,{P3フラグ = 7:
+Seinendan Jyoshi (talking),防犯かかし,Order Statue
+__system__??,},}
+__system__??,{P3フラグ = 8:,{P3フラグ = 8:
+Seinendan Jyoshi (talking),調教の館,Sex Training Facility
+__system__??,},}
+__system__??,{P3フラグ = 9:,{P3フラグ = 9:
+Seinendan Jyoshi (talking),ＧＡＬバーガー,GAL Burger
+__system__??,},}
+__system__??,{P3フラグ = 10:,{P3フラグ = 10:
+Seinendan Jyoshi (talking),原子炉,Nuclear Reactor
+__system__??,},}
+__system__??,{P3フラグ = 11:,{P3フラグ = 11:
+Seinendan Jyoshi (talking),保養所,Resort
+__system__??,},}
+Seinendan Jyoshi (talking),が、破壊されました。,was destroyed.
+__system__??,{P3フラグ = 10:,{P3フラグ = 10:
+Yamamoto Akuji (talking),原子炉だって……平気なのか？,The reactor? Will we be fine?
+Seinendan Jyoshi (talking),"駄目ですね、おしまいです。
+残念です。","No. It`s over.
+ Too bad."
+__system__??,},}
+__system__??,{D19 = 701:,{D19 = 701:
+Seinendan Jyoshi (talking),地域において,region`s public order
+__system__??,{R治安レベル = 1:,{R治安レベル = 1:
+Seinendan Jyoshi (talking),治安が少し悪くなりつつあります。,is getting a bit worse.
+__system__??,},}
+__system__??,{R治安レベル = 2:,{R治安レベル = 2:
+Seinendan Jyoshi (talking),治安が悪化し始めております。,is starting to get worse.
+__system__??,},}
+__system__??,{R治安レベル = 3:,{R治安レベル = 3:
+Seinendan Jyoshi (talking),著しく治安が悪化しています。,has gotten much worse.
+__system__??,},}
+__system__??,},}
+__system__??,{D19 = 702:,{D19 = 702:
+Seinendan Jyoshi (talking),地域において,region`s public order
+__system__??,{R治安レベル = 1:,{R治安レベル = 1:
+Seinendan Jyoshi (talking),治安が少し悪くなりつつあります。,is getting a bit worse.
+__system__??,},}
+__system__??,{R治安レベル = 2:,{R治安レベル = 2:
+Seinendan Jyoshi (talking),治安が悪化し始めております。,is starting to get worse.
+__system__??,},}
+__system__??,{R治安レベル = 3:,{R治安レベル = 3:
+Seinendan Jyoshi (talking),著しく治安が悪化しています。,has gotten much worse.
+__system__??,},}
+__system__??,},}
+__system__??,{D19 = 701:,{D19 = 701:
+Seinendan Jyoshi (talking),地域において 酔っぱらいが発生しています。 地域住民より退治依頼が来ています。,region is suffering from an outbreak of drunks. The citizens want us to get rid of them.
+__system__??,},}
+__system__??,{D19 = 702:,{D19 = 702:
+Seinendan Jyoshi (talking),酔っぱらいが発生しています。 地域住民より退治依頼が来ています。,an outbreak of drunks. The citizens want us to get rid of them.
+__system__??,},}
+__system__??,{D19 = 701:,{D19 = 701:
+Seinendan Jyoshi (talking),地域において ネズミの集団が発生しました。 大混乱が起こっています。,region is suffering from a rat outbreak. All hell`s broken loose.
+__system__??,},}
+__system__??,{D19 = 702:,{D19 = 702:
+Seinendan Jyoshi (talking),どこかでネズミの集団が 発生したそうです。,region is suffering from a rat outbreak.
+__system__??,},}
+__system__??,{D19 = 701:,{D19 = 701:
+Seinendan Jyoshi (talking),地域において 野良犬が暴れ回っています。 住民より苦情が来ています。,region is filled with stray dogs going on a rampage. The citizens are complaining.
+__system__??,},}
+__system__??,{D19 = 702:,{D19 = 702:
+Seinendan Jyoshi (talking),どこかで野良犬が発生したそうです。,region has a rampage of stray dogs.
+__system__??,},}
+__system__??,{D19 = 701:,{D19 = 701:
+Seinendan Jyoshi (talking),地域において 猿が集団発生しています。 住民にかなりの被害が出ています。,region is filled with a horde of monkeys. There`s been a lot of damage.
+__system__??,},}
+__system__??,{D19 = 702:,{D19 = 702:
+Seinendan Jyoshi (talking),どこかで猿が発生したそうです。,region is full of monkeys.
+__system__??,},}
+__system__??,{D19 = 701:,{D19 = 701:
+Seinendan Jyoshi (talking),"地域において ダチョウが発生しています。
+ダチョウを倒す者は、強くなると言われて おります。
+この幸運を得る為にも、すぐさま 退治すべきと思います。","region has an ostrich in it.
+ It`s said defeating it will make you stronger.
+ We should take advantage of this opportunity and slay it soon."
+__system__??,},}
+__system__??,{D19 = 702:,{D19 = 702:
+Seinendan Jyoshi (talking),どこかでダチョウが発生したそうです。,region has an ostrich in it.
+__system__??,},}
+__system__??,{D19 = 701:,{D19 = 701:
+Seinendan Jyoshi (talking),"地域において ウィミィ兵士が市民に暴行を くわえています。
+なんらかの仲裁が必要です。","region has Wimenese soldiers attacking its civilians.
+ We must intervene ASAP."
+__system__??,},}
+__system__??,{D19 = 702:,{D19 = 702:
+Seinendan Jyoshi (talking),ウィミィ兵士が乱暴をふるっております。,has Wimenese soldiers causing trouble.
+__system__??,},}
+__system__??,{D19 = 701:,{D19 = 701:
+Seinendan Jyoshi (talking),"地域において ウィミィ女性士官がもめ事を起こして おります。
+なんらかの仲裁が必要です。","region has Wimenese officers causing trouble.
+ We must intervene ASAP."
+__system__??,},}
+__system__??,{D19 = 702:,{D19 = 702:
+Seinendan Jyoshi (talking),ウィミィ女性士官がもめ事を 起こしています。,has Wimenese officers causing trouble.
+__system__??,},}
+__system__??,{D19 = 701:,{D19 = 701:
+Seinendan Jyoshi (talking),地域において 不審なウィミィ兵士が目撃されています。 彼らの目的は、婦女子と思われます。,region has had sightings of suspicious Wimenese soldiers. They`re supposedly targetting women.
+__system__??,},}
+__system__??,{D19 = 702:,{D19 = 702:
+Seinendan Jyoshi (talking),性的犯罪者っぽいウィミィ人が 目撃されています。,has had sightings of some rapey Wimense men.
+__system__??,},}
+__system__??,{D19 = 701:,{D19 = 701:
+Seinendan Jyoshi (talking),監督官の鴉葉から手紙を預かって おります。,I have a letter from supervisor Karasuba.
+__system__??,},}
+__system__??,{D19 = 702:,{D19 = 702:
+Seinendan Jyoshi (talking),監督官の鴉葉様からお手紙を預かって います。,I have a letter from supervisor Karasuba.
+__system__??,},}
+Yamamoto Akuji (talking),鴉葉から……一体、なんだ？,From Karasuba? What`s it about?
+narrator,"　　背景　悪司さん江。 　　お元気ですか？ 　　僕もお元気でーす。
+ 　　最近、奉仕青年団が起こす喧嘩が 　　多いです。
+ 　　怪我人とか、公共施設の破壊とか、 　　問題が起こっています。
+ 　　だもんで、職員の口止めに 　　５００万ほど必要です。 　　１ヶ月以内に持ってきて下さい。
+ 　　お金が無くて、口止め出来なくなっても 　　僕は知りませんよ。 　　ではでは~。","　　Dear Akuji-san, 　　How are you doing? 　　I`m doing greeeat.
+ 　　The YCSG has been starting a lot 　　of fights lately.
+ 　　There have been multiple counts of 　　injuries and public damage.
+ 　　As such, I`ll need about 5000k 　　to keep everyone quiet. Please send 　　it my way within a month.
+ 　　If I don`t get the money, I won`t be 　　able to keep anyone quiet, and whatever 　　happens after`s on you. Laters~!"
+narrator,"　　でんじゃー悪司さん江。
+ 　　死者が多すぎですよ~、 　　ぴんちですよ~。
+ 　　担当の職員に適当な理由をつけて 　　書類を作ってもらってますが、 　　そろそろ限界です。
+ 　　職員の口止めに５００万ほど必要です。 　　１ヶ月以内に持ってきて下さい。
+ 　　お金が無くて口止め出来なくなっても 　　僕は知りませんよ。","　　To my dangerous Akuji-san,
+ 　　There are too many corpseeees, 　　we`re in troubleeee.
+ 　　I`m trying to give the people in 　　charge appropriate excuses and paperwork, 　　but I`m almost at my limit.
+ 　　I`ll need 5000K to keep everyone quiet. 　　Please send it my way within a month.
+ 　　Don`t blame me if I can`t keep 　　everyone quiet without any money."
+narrator,"　　でぃあ　あっくじさーん江。
+ 　　新しい組織になって順調だと思いますが、 　　市議会の内部では不満に思う人も 　　多いんですよ。
+ 　　中には、奉仕青年団なんか免許を 　　認めずに潰してしまえーとか。
+ 　　まぁ、そういう人達も金と僕の人望で 　　押さえますんで、口止め料として 　　１０００万ほど持ってきて下さい。
+ 　　あっ、１ヶ月以内で頼みますね。","　　Dear Akuji-san,
+ 　　The proceedings for your new group`s 　　registration are going smoothly, but there 　　are many in the CC who are unhappy about it.
+ 　　Some even refuse to accept the YCSG 　　and want to crush you.
+ 　　That said, I can use money and my rep 　　to get them to pipe down. I`ll need 　　you to bring me about 10000K to do that.
+ 　　Oh, and within a month, please."
+narrator,"　　ろべりー　悪司さん江。
+ 　　預かっていた口止め料ですが、 　　そろそろ足りなくなって 　　きました。またお願いします。
+ 　　出来たら、もう少し人目のないとこで 　　喧嘩したり、器物破損したりとか 　　して欲しいです。
+ 　　後、人殺しを減らしてくれたら 　　助かるんですが無理ですよねー、うん。
+ 　　という訳で、お金で口止めしておきます。 　　１０００万、１ヶ月以内にお願いします。","　　To the lovely Akuji-san,
+ 　　I`m about to run out of 　　hush-up money. 　　Please send some more.
+ 　　If possible, keep your fights 　　and destruction to where there`s 　　fewer people around.
+ 　　Also, it`d be a great help if you could 　　kill less people, but I guess you can`t.
+ 　　Anyway, I`ll need hush-up money. 　　I`ll need 10000k, within a month."
+Seinendan Jyoshi (talking),監督官の鴉葉氏には今週中にでも会いに 行くべきかと思います。口止め料を早く 渡しておいた方がよいです。,"You should go see supervisor Karasuba this week. The sooner you give him the money, the better."
+narrator,"　　ぼくのヒーロー悪司さん江。
+ 　　ヒノデで、戦時中に動物園からパンダを 　　盗み出して、森に立てこもっている 　　真田電波という女の子がいます。
+ 　　なんとか捕まえちゃって下さい。 　　殺すのは可哀想かなー（と個人的に）。
+ 　　という訳で、なんとかして下さいねー。 　　突き上げくらっちゃってライトに 　　困っちゃってまーす。","　　To my hero, Akuji-san,
+ 　　There`s a woman called Sanada Denpa 　　holed up in Hinode`s forest who stole all 　　the pandas from the zoo during the war.
+ 　　Please do something to capture her. 　　I`d personally feel bad about killing her.
+ 　　Anyway, please do something about her. 　　Again, try to keep it 　　light, okay?"
+narrator,"　　悪司さん江。
+ 　　ヒノデの森で、友引操とその仲間達が 　　行方不明になっています。 　　みんな看護婦ですよー、ウハウハでしょ？
+ 　　なんとか探し出して保護して下さい。","　　Dear Akuji-san,
+ 　　Tomobiki Misao and her friends have 　　gone missing in Hinode`s forest. 　　They`re all nurses, isn`t that nice?
+ 　　Please rescue them."
+__system__??,{D19 = 701:,{D19 = 701:
+Seinendan Jyoshi (talking),ヘグリの貴神氏より依頼が来ております。 泥棒の被害が出ているので至急来てほしい との事です。,"We have a request from Kishin-sama. The thief`s activities are causing lots of damage, so we must see him ASAP."
+__system__??,},}
+__system__??,{D19 = 702:,{D19 = 702:
+Seinendan Jyoshi (talking),ヘグリの貴神氏より依頼が来ております。 泥棒の被害が出ているので至急来てほしい との事です。,"We have a request from Kishin-sama. The thief`s activities are causing lots of damage, so we must see him ASAP."
+__system__??,},}

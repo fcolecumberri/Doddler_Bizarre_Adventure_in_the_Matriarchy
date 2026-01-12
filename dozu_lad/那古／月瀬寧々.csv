@@ -1,0 +1,1728 @@
+character,Jap,Eng
+__system__??,{(☆寧々捕虜 > 5) * (☆寧々捕虜 < 10):,{(☆寧々捕虜 > 5) * (☆寧々捕虜 < 10):
+__system__??,},}
+__system__??,{(☆寧々捕虜 > 10) * (☆寧々捕虜 < 15):,{(☆寧々捕虜 > 10) * (☆寧々捕虜 < 15):
+__system__??,},}
+__system__??,{☆寧々捕虜 > 15:,{☆寧々捕虜 > 15:
+__system__??,},}
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆寧々 = 0:,{☆寧々 = 0:
+__system__??,},}
+__system__??,{(☆寧々 = 11) * (RND \ 0):,{(☆寧々 = 11) * (RND \ 0):
+__system__??,},}
+__system__??,{(☆那古Ｂ = 12) * (☆寧々×由女 = 0) * (RND \ 0):,{(☆那古Ｂ = 12) * (☆寧々×由女 = 0) * (RND \ 0):
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 2:,{麦 = 2:
+__system__??,{(☆寧々 > 11) * (RND \ 0):,{(☆寧々 > 11) * (RND \ 0):
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 4:,{麦 = 4:
+__system__??,{(☆寧々 > 11) * (RND \ 0):,{(☆寧々 > 11) * (RND \ 0):
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,},}
+__system__??,{麦 = 12:,{麦 = 12:
+__system__??,{H愛欲 = 1:,{H愛欲 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,{(H物欲抵抗 <= H物欲) * (☆那古Ａ > 4):,{(H物欲抵抗 <= H物欲) * (☆那古Ａ > 4):
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+__system__??,{麦 = 17:,{麦 = 17:
+__system__??,{H拷問抵抗 < H拷問:,{H拷問抵抗 < H拷問:
+__system__??,{☆那古Ａ = 3:,{☆那古Ａ = 3:
+__system__??,},}
+__system__??,},}
+__system__??,{H拷問 = 1:,{H拷問 = 1:
+__system__??,{☆那古Ａ \ 3:,{☆那古Ａ \ 3:
+__system__??,},}
+__system__??,{☆那古Ａ = 3:,{☆那古Ａ = 3:
+__system__??,},}
+__system__??,},}
+__system__??,{☆那古Ａ \ 3:,{☆那古Ａ \ 3:
+__system__??,},}
+__system__??,{☆那古Ａ = 3:,{☆那古Ａ = 3:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 18:,{麦 = 18:
+__system__??,},}
+__system__??,{麦 = 5:,{麦 = 5:
+__system__??,{(☆寧々 > 11) * (RND \ 0):,{(☆寧々 > 11) * (RND \ 0):
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 19:,{麦 = 19:
+__system__??,},}
+?? (talking),えーっとな、月瀬。 おめー、別の仕事に就く気ねえか？,"Tsukigase, ya feel like taking on another sort of job?"
+?? (talking),さあ、職種にもよるけれど。 ……突然何の事かしら？,Depends on the job. But what`s this all of a sudden?
+?? (talking),おめーなら想像つくだろ？ うちが手がけてるドル箱商売で 儲けちゃくれねえかと思ってな。,I`m sure you can guess. Thought I could have you working as one of my prostitutes.
+?? (talking),"………………
+冗談だと思っておくわ。","...
+ I`ll assume that`s a joke."
+?? (talking),あ、やっぱし。,Figured as much.
+?? (thinking),まあ、島本との絡みもあるしな。 部下としても無益じゃねえし、 このまんま働いて貰っとくか……,"Well, she`s also with Shimamoto. She`s a pretty good subordinate, so I guess she can stay as-is."
+Tsukigase Nene (talking),悪司さん、呼ばれた通りに来たけれど ……何の話なのかしら？,"Akuji-san, I`m here like you asked. What do you need?"
+Yamamoto Akuji (talking),おう。 まぁ、ちとそこ座れや。,Hey there. Take a seat.
+Tsukigase Nene (talking),その前に、一つ訊かせて。 話は長くなるのかしら？,Let me ask something first. Will this take a while?
+Yamamoto Akuji (talking),さあな、成り行き次第だ。 場合によっちゃ長くなる。,"It depends, but it could."
+Tsukigase Nene (talking),あら、そう… その割にお茶もないのね？,I see... And is there any tea?
+Yamamoto Akuji (talking),んだよ、淹れてくれんのか？ じゃ俺ほうじ茶な、一方堂の。 湯飲みも急須もソコにあっから。,"What, you gonna make some? I`ll have some green tea, then. Teapot`s over there."
+Tsukigase Nene (talking),……私が淹れるなんて 言ったつもりはないのだけれど？,...Did I ever say I was going to make it?
+Yamamoto Akuji (talking),そうかもしれねぇな。 ま、とにかくよろしく。,"Guess not. Either way, I`ll leave it to you."
+Tsukigase Nene (talking),"……くすっ。 まあ良いわ、少し待っていて。
+ええと… ああ、ポットはこっちなのね…","...Teehee. Fine, wait for a bit.
+ Let`s see... ah, here`s the teapot..."
+Yamamoto Akuji (talking),"………………
+あのさー、月瀬。","...
+ Hey, Tsukigase?"
+Tsukigase Nene (talking),……なあに？,...Yeees?
+Yamamoto Akuji (talking),お前ってさ、人当たり良さそうで 言うことも聞いてくれっけど、 微妙にこう、壁あるよな。,"You seem friendly and obedient enough, but somehow you feel distant, too."
+Tsukigase Nene (talking),"……そうかしら？ そんなつもりはないのだけれど。
+はい、お茶。","Is that so? I didn`t mean to be.
+ Here`s your tea."
+Yamamoto Akuji (talking),おう、センキュー。,"Hey, thanks."
+Tsukigase Nene (talking),……あら、このほうじ茶美味しい……,"...My, this green tea`s delicious."
+Yamamoto Akuji (talking),"ミヤコの老舗の茶だからな。 さっちゃんが見つけてきたんだよ。
+ ……で、話は戻るけどよ、 お前絶対、昔なんかあったクチだろ。","It`s from an old store in the capital. Sacchan found it.
+ ...Getting back on track, something must`ve happened in your past."
+Tsukigase Nene (talking),何かって？,Like what?
+Yamamoto Akuji (talking),"親に捨てられたとか、 惚れてた男にこっぴどく裏切られたとか。
+なんかこう、一発で人生観変わるような すっげぇ事がよ。","Like being abandoned by your parents, or getting betrayed by a lover.
+ Something big enough to change your whole view on life."
+Tsukigase Nene (talking),いえ、別に？ 退屈なほど平穏な人生を 送ってきたけれど。,"Not really? I`ve lived a calm, if rather boring, life."
+Yamamoto Akuji (talking),………… やっぱ壁あんなぁ、お前。,"...Nah, you`re hiding something."
+Tsukigase Nene (talking),……くすっ。,Teehee.
+Yamamoto Akuji (talking),さーてと。 ぼちぼち月瀬が来る筈だが……,"Now then, Tsukigase should be here soon..."
+Tsukigase Nene (talking),……ごめんなさい、悪司さん。 遅くなってしまって。,"...Sorry I`m late, Akuji-san."
+Yamamoto Akuji (talking),"おー、来た来た。 心配すんな、別に待っちゃいねぇよ。
+で、今日呼んだ用事ってのは……","Ah, there you are. Don`t worry, I didn`t wait long.
+ So, about why I called you..."
+Tsukigase Nene (talking),待って。 その前に私から話があるのだけれど。,Wait. I have something I`d like to say first.
+Yamamoto Akuji (talking),……ん？,Hm?
+Tsukigase Nene (talking),"私的なことだから、言わなくても 構わないのかもしれないけれど…
+隠しておくつもりもないし、 こういう事は、組織の長に 伝えておくべきだと思うから。","It`s a personal subject, so I might not need to tell you...
+ But I don`t intend on hiding it, and I believe this is something I need to report on."
+Yamamoto Akuji (talking),なんのこっちゃ。 うちの公費を使い込みでもしたか？,What is it? You embezzled some of our money?
+Tsukigase Nene (talking),"まさか……
+……私、少し以前から 純さんと交際し始めたの。","I`d never...
+ ...Not too long ago, I`ve started dating Jun-san."
+Yamamoto Akuji (talking),"純さん？　誰だソレ……
+ …………って、まさか島本か！？ あの島本純かあぁぁぁぁぁっ！！？","Jun-san? Who even...
+ ...Wait, you mean Shimamoto?! THAT SHIMAMOTO?!"
+Tsukigase Nene (talking),ええ、そうなのだけれど… なあに？　その驚き方…,"That`s the one, yes... But why are you so surprised?"
+Yamamoto Akuji (talking),"い、いや悪ぃ、悪意はねぇんだ。 単純にビックラこいただけだ。
+島本のヤツぁ女なんぞ興味ねぇって 感じだったしよ……
+ついでに言うなら月瀬も、 特定の男をくわえ込んで満足するたぁ、 とても…………","M-My bad, didn`t mean anything by it. It was just a shocker.
+ Coulda sworn Shimamoto had no interest in women...
+ Hell, I never thought you were the type to be satisfied with one man, either..."
+Tsukigase Nene (talking),………………,...
+Yamamoto Akuji (talking),…………悪い、口が滑った。 とにかく意外だったもんでな。,"...Sorry, slip of the tongue. Anyway, that`s a surprise."
+Tsukigase Nene (talking),"くすっ……気にしないで。 自分でも意外に思っているのだから。
+それで、この奉仕青年団では 構成員同士の恋愛事が御法度だとか そういう決まりはあるのかしら？","Teehee, it`s fine. Even I think this is surprising.
+ So, is romance between members prohibited in the YCSG?"
+Yamamoto Akuji (talking),別に構いやしないさ、好きにしろ。 キッチリ仕事してくれりゃ文句はねぇ。,"Nah, as long as you keep working well, you can do whatever."
+Tsukigase Nene (talking),"そう……良かった。
+とりあえず、私からはそれだけ。","I see... I`m glad.
+ Well, that`s all from me."
+Yamamoto Akuji (talking),しっかし、そうか…… 島本と月瀬がねぇ……,"But man... You and Shimamoto, huh..."
+Yamamoto Akuji (thinking),"しかし、場合によっちゃあ 島本と月瀬がまとめて寝返ったり 敵になったりしかねない訳か……
+ ……想像するだけで恐ろしいな。 気ィつけよう……","(This means there`s a chance both her and Shimamoto could betray me together...
+ ...The thought`s terrifying. Better keep an eye out...)"
+Tsukigase Nene (talking),……悪司さん？ 何を考え込んでいるのかしら？,...Akuji-san? Is there something on your mind?
+Yamamoto Akuji (talking),いや。 言われてみりゃ、お前ら何となく 似てるもんなー、とか思ってな。,Nah. Just thinking that you two really do suit each other.
+Tsukigase Nene (talking),えっ…… そうかしら？,Oh...?! Really?
+Yamamoto Akuji (talking),ま、何となくな。,"Yeah, sorta."
+Tsukigase Nene (talking),悪司さん、 私を呼んでいたと聞いたのだけれど？,"Did you call for me, Akuji-san?"
+__system__??,{(☆寧々×由女 = 1) * (RND \ 0):,{(☆寧々×由女 = 1) * (RND \ 0):
+Yamamoto Akuji (talking),おう、来たか月瀬。 由女と仲良くやってっか？,"Oh, there you are. You get along well with Yume?"
+Tsukigase Nene (talking),あら……いきなりそれ？ 悪司さん、無粋ではなくって？,My... asking that so abruptly. Don`t you think that`s tactless?
+Yamamoto Akuji (talking),……悪ィ。 悪意はなかったんだがな……,...My bad. Didn`t mean anything bad by it.
+Tsukigase Nene (talking),くすくす…… お陰様で仲良くさせて貰っているわ。 いろいろと、ね。,"Teehee... We got along well, thanks to you. In many ways."
+Yamamoto Akuji (talking),……そりゃ良かったな…,...Good to hear it.
+__system__??,},}
+__system__??,{(☆寧々×由女 = 1) * (RND = 0) + (☆由女／イハビーラ = 1):,{(☆寧々×由女 = 1) * (RND = 0) + (☆由女／イハビーラ = 1):
+Yamamoto Akuji (talking),"おう、来たか月瀬。
+ ……なんかおめー、顔色が冴えねぇな。 当然っちゃ当然だが……","Oh, there you are.
+ ...You kinda look like hell. Guess it`s to be expected..."
+Tsukigase Nene (talking),…普段通りのつもりよ、私は。,...I`m the same as usual.
+Yamamoto Akuji (talking),いや、ならいいんだがな。,"Okay, that`s good, then."
+Tsukigase Nene (talking),"…………これでも、それなりに 割り切っているつもりなのだけれど…
+由女がいなくなるなんて、 思っていなかったものね…","...I`m trying to overcome this, but...
+ I never thought I`d lose Yume..."
+Yamamoto Akuji (talking),………………,...
+__system__??,},}
+__system__??,{(☆寧々 > 11) * (RND \ 0):,{(☆寧々 > 11) * (RND \ 0):
+Yamamoto Akuji (talking),おう、来たか月瀬。 島本と仲良くやってっか？,"Oh, there you are. You getting along with Shimamoto?"
+Tsukigase Nene (talking),くす……ええ、お陰様でね。,"Teehee. Yes, thanks to you."
+Yamamoto Akuji (talking),そらぁ何より。,That`s good.
+__system__??,},}
+__system__??,{(☆寧々 > 11) * (RND = 0):,{(☆寧々 > 11) * (RND = 0):
+Yamamoto Akuji (talking),"おう、来たか月瀬。
+ ……なんかおめー、顔色冴えねぇな。 当然っちゃ当然だが……","Oh, there you are.
+ ...You kinda look like hell. Guess it`s to be expected..."
+Tsukigase Nene (talking),"そう……かしら。
+普段通りのつもりなのだけれど……ね。","Really...?
+ I`m trying to be as usual, but..."
+Yamamoto Akuji (talking),"惚れた男が居なくなったんだ、 割り切れるもんじゃねぇだろ。
+あんまり、無理すんな。","Losing the man you love ain`t something you can easily overcome.
+ Don`t push yourself."
+Tsukigase Nene (talking),…………有り難う。,...Thank you.
+__system__??,},}
+__system__??,{(☆寧々 < 12) * (RND = 0):,{(☆寧々 < 12) * (RND = 0):
+Yamamoto Akuji (talking),おう、来たか月瀬。 相変わらず迫力あんなあ。,"Oh, there you are. Intense as usual, aren`t you."
+Tsukigase Nene (talking),……何が？,...What about me is intense?
+Yamamoto Akuji (thinking),胸が。,Your tits.
+Tsukigase Nene (talking),…………何か、言ったかしら？,Did you say something?
+Yamamoto Akuji (talking),うんにゃ別に。,Nothin`.
+__system__??,},}
+Yamamoto Akuji (talking),…………っかしいな、 さっき確かに居たんだけどなー。,"...That`s weird, I coulda sworn she was here just a moment ago."
+Takega Satsu (talking),どうした、悪司。 誰か探しているのか？,"What`s wrong, Akuji? Are you looking for someone?"
+Yamamoto Akuji (talking),"ああ、さっちゃん。 月瀬見なかったか、月瀬寧々。
+さっきまでこの事務所に居たんだが、 持ち場に戻ったのかねぇ……","Yeah, Sacchan. Have you seen Tsukigase Nene?
+ She was here in the office just now, but maybe she returned to her post."
+Takega Satsu (talking),"月瀬……ああ、 元那古教の女性だな。
+少し前まで、向こうの宿直室で 同じ元那古教の娘と 何やら話していたようだが…","Tsukigase? ...Ah, the woman from the defunct Nako Cult.
+ She seemed to be talking to that other Nako Cult girl in the night duty room a short while ago."
+Yamamoto Akuji (talking),"そうか、そりゃ多分由女だな。 なんか積もる話でもしてんのかね。
+ま、ちと見にいってくらぁ。","Probably catching up with Yume, then.
+ Well, I`ll go take a look."
+Takega Satsu (talking),……行かない方がいいやもしれんぞ。,...It might be best not to.
+Yamamoto Akuji (talking),なんで？,Why not?
+Takega Satsu (talking),女の勘だ。,Call it my woman`s intuition.
+Yamamoto Akuji (talking),……ワケわかんねぇよ。 とりあえず用事が先だ。,I don`t get that shit. Business comes first.
+narrator,そして、悪司は宿直室の前に立ち、 おもむろに扉を開け放った──,"With that, Akuji went to the night duty room and calmly opened its door--"
+Yamamoto Akuji (talking),おーい月瀬、居るかー？ ちと用事が………………,"Heeey, you here, Tsukigase? I got some business-"
+Yume (talking),…………っ！？ あっ、悪司さ…………！,...?! A-Akuji-san-!
+Yamamoto Akuji (talking),………………よお、由女。,"...`Sup, Yume."
+Yume (talking),あっ、あの……これは…… だから、私…………,"U-Um, this is... So, I..."
+Tsukigase Nene (talking),あら……悪司さん。 ノックも無しで……,"Oh my, Akuji-san. Coming in without knocking..."
+Yamamoto Akuji (talking),………………すまん。 まさか女同士で抱き合ってキスして おさわり真っ最中とは思わなくてな。,...My bad. Didn`t think you`d be in the middle of making out with her.
+Yume (talking),"…………っ……う…………
+わ、私…… 仕事に、戻ります……","...Uuu...
+ I-I`m... I`m going back to work..."
+Tsukigase Nene (talking),…………由女。 また、今夜にね。,"...Let`s continue this tonight, Yume."
+Yume (talking),"あ…………
+ …………うん、寧々さん…………","Ah...
+ ...Okay, Nene-san..."
+narrator,──そして、由女は部屋から出ていった。,Yume then left the room.
+Yamamoto Akuji (talking),……………………うーむ。 ディープでヘビーな世界を垣間見たぜ。,...Hrrm. I caught a glimpse of some real heavy shit.
+Tsukigase Nene (talking),あら。どういう意味かしら？,"My, what did you mean by that?"
+Yamamoto Akuji (talking),月瀬、おめー…… そういう趣味だったのか？,"You were into that kinda shit, Tsukigase?"
+Tsukigase Nene (talking),くすっ……何のことかしら？,"Teehee, whatever do you mean?"
+Yamamoto Akuji (talking),"オトボケかよ。 つまりだな…………
+ ……あ、いやちょい待て、 由女はそりゃ女だが女でなくて……
+ …………むむむ。 ワケ解んなくなってきたな……","Playing dumb, are you? Basically-
+ ...Oh, wait, I forgot Yume`s a woman, but also isn`t one...
+ ...Hrrrm, I don`t get this shit at all."
+Tsukigase Nene (talking),くす……,Hahah...
+Yamamoto Akuji (talking),……いや、まあ今はいい。 おめーに用事があったんだ、俺は。,"Well, whatever. I have some business with you."
+Yamamoto Akuji (talking),さーて、ベッドルームに行くか。,"Alright, let`s go to my room."
+Tsukigase Nene (talking),ベッドルーム……？,Your room...?
+Yamamoto Akuji (talking),おう、よくやってくれるんでご褒美だ。 嫌か？,"Yeah, your reward for working so hard. Don`t wanna?"
+Tsukigase Nene (talking),"……くすっ、いいわよ。
+その代わり、しっかり可愛がってね。 私も、それだけのお返しは させて貰うから…","...Teehee, fine.
+ In exchange, make sure to give me a real good time. I`ll do the same for you, too."
+Yamamoto Akuji (talking),おうおう、望むところだ。,"Yeah, I`d be happy to."
+Yamamoto Akuji (talking),寧々と悪司は、激しく抱き合った。,Akuji and Nene fucked like crazy.
+ (talking),さーて、ベッドルームに行くか。,"Now, let`s go to my room."
+ (talking),ベッドルーム……？ 私を抱くつもり？,Your room...? You intend to sleep with me?
+ (talking),おう、嫌か？,"Yeah, don`t wanna?"
+ (talking),……ええ。 ごめんなさい、遠慮させて頂くわ。,"No, I don`t. Sorry, but I must decline."
+ (talking),？　なんでまた。,? Why again?
+ (talking),"操を立てるって言葉……知ってる？
+私、こう見えても、 その辺りは堅いつもりなの。","Ever heard about fidelity?
+ Despite how I may seem, I intend to be firm on this."
+ (talking),ふーん。 ま、ヤならいいけど。,"Hmmm. Well, it`s fine if you don`t wanna."
+ (talking),ほい、特別ボーナス。,"Here, a bonus."
+narrator,悪司は、棚から取り出した札束入りの封筒を 寧々の方に差し出した。,Akuji gave Nene an envelope full of cash.
+ (talking),有り難う、遠慮なく頂いておくわ。,"Thank you, I`ll take it."
+ (talking),別に遠慮してもいいぞ？,"Show SOME restraint, would ya?"
+ (talking),……くすっ。 なら、遠慮しつつ頂くわ。,Teehee! Then I`ll reluctantly accept it.
+ (talking),あれま。,Wow.
+ (talking),ちょっと来いや。,Come with me for a bit.
+ (talking),あら…… どこへ連れていって貰えるのかしら？,Oh... Wherever are you taking us?
+ (talking),さーて、どこだかな。,"Dunno, maybe you`ll see."
+Yamamoto Akuji (talking),着いたぜ。,We`re here.
+Tsukigase Nene (talking),……………… まさか、ここ……娼館？,"... No way, is this... a brothel?"
+Yamamoto Akuji (talking),ほー、よく解ったな。,"Hohoh, so you can tell."
+Tsukigase Nene (talking),"こういう場所には、 独特の雰囲気があるから。
+ ……そして私は、 ここで無理矢理働かされる訳ね？","Places like these have a certain air about them.
+ ...So you`re going to force me to work here now?"
+Yamamoto Akuji (talking),"その通りだ。
+もうちょい正しく言えば、調教師に それなりの調教をしてもらった後で、 だがな。","That`s right.
+ Though to be precise, you`ll be working after you`ve been trained some."
+Tsukigase Nene (talking),"………………
+仕方ないわね…… これも運命、か。","...
+ Looks like I have no choice... So this is fate, huh."
+Yamamoto Akuji (talking),聞き分けいいな、月瀬。助かるぜ。,"Glad you`re so reasonable, Tsukigase."
+Tsukigase Nene (talking),"……昔、少し調べたのよ。 奉仕青年団の財源はどこか、とかね。
+私なら稼げるはずだと判断した、 という事でしょう？","I`ve investigated the YCSG`s sources of income in the past.
+ You must`ve concluded that I`d make you a lot of money, then."
+Yamamoto Akuji (talking),まーな。,More or less.
+Tsukigase Nene (thinking),"………………
+また、昔のような生活に逆戻り、か。
+ ……いえ、何もかも諦められるだけ 昔より余程良いかしらね。","...
+ I`m relapsing into my old life, huh.
+ ...No, this is better than when I was ready to give up on everything."
+Yamamoto Akuji (talking),何か言ったか？,You say something?
+Tsukigase Nene (talking),いえ、別に。,"No, it`s nothing."
+Yamamoto Akuji (talking),そんじゃま、ちと待ってろ。 タマネギを……っとと、 ここの責任者を呼んでくるからよ。,Then wait here a sec. Tamanegi! ...I`m calling over the guy in charge of this place.
+Tsukigase Nene (talking),……それには及ばないわ。 自分で行くから。,...You don`t have to. I`ll go by myself.
+Yamamoto Akuji (talking),そうか。 多分むこうの部屋に居ると思うぜ。,"I see. Well, I think he`s in that room over there."
+Tsukigase Nene (talking),"そう。
+ ……じゃあ、さよなら。","I see.
+ ...Then farewell."
+Yamamoto Akuji (talking),よう、那古教のねーちゃん。,"`Sup, Nako Cult chick."
+Tsukigase Nene (talking),あら……あなた、 奉仕青年団のリーダーの……,My... so you`re the YCSG`s leader.
+Yamamoto Akuji (talking),ほー、よく知ってんな。 表向きにはそうじゃないんだが。,"Hah, you know your stuff. That`s not what I am in public."
+Tsukigase Nene (talking),抗争相手の事ですもの。 少しは調べて当然ではなくて？,"Isn`t normal to investigate your enemy, even if a little?"
+Yamamoto Akuji (talking),"そりゃそうだがな。
+ところでおめー、那古教で 聖女とか呼ばれてるトップの一人だよな？","You`ve got a point.
+ By the way, you were one of the heads of the Cult, right? A Saint, they call you?"
+Tsukigase Nene (talking),ええ、そうよ。,"Yes, that`s right."
+Yamamoto Akuji (talking),"宗教組織のトップっていうから 野暮ったくて抹香臭い女を 想像してたんだが……
+ボン・キュッ・ボンって感じの 激マブ姉ちゃんだとは思わなかったぜ。","When I heard you were a big shot in the Cult, I`d imagined you as
+ some boorish, overly pious girl, not a super hot chick."
+Tsukigase Nene (talking),"くすっ…… 有り難う、褒めてくれて。
+あなたもなかなかハンサムね。 捕虜に過ぎない私に言われても 嬉しくないとは思うけれど。","Heehee, thanks for the compliment.
+ You`re rather handsome yourself. Not that you`d be glad to hear it from a mere prisoner."
+Yamamoto Akuji (talking),……………… おめー、図太い女だな。,"... You`re one bold chick, huh?"
+Tsukigase Nene (talking),それも褒め言葉だと思っておくわ。,"I`ll take that as a compliment, too."
+Yamamoto Akuji (talking),褒めてない褒めてない。 危機感ねぇのか、おめー。,It wasn`t one. D`you not have any sense of danger?
+Tsukigase Nene (talking),あら……これでも必死に 躰の震えを堪えているのだけれど。,"Oh, but I am desperately trying to keep my body from shaking right now."
+Yamamoto Akuji (talking),"ほー、傍目にゃそう見えねぇがな。
+ほんとに震えてるのかどうか、 裸にひんむいて躰の奥までいじり回して 奥の奥まで調べてやろうか？","Oh yeah? I can`t see it, though.
+ How about I strip you naked and check every part of your body to make sure you`re shaking?"
+narrator,悪司は言って、 口元にいやらしい笑みを浮かべてみせる。,Akuji flashed Nene a lascivious grin.
+Tsukigase Nene (talking),…くす。,...Teehee.
+Yamamoto Akuji (talking),何が可笑しい？,What`s so funny?
+Tsukigase Nene (talking),あまり演技上手じゃないのね、あなた。 女に飢えた風には見えないのだけれど？,You`re not a good actor. You don`t seem to be thirsty for women.
+Yamamoto Akuji (talking),…………お見通し、ってか？ でもな、ヤるっつったらヤるぞ、俺は。,"...So you say through me? But if I say I`ll do it, I will."
+Tsukigase Nene (talking),"別に構わないわよ、捕まった時から 覚悟はしているから。
+強引なのも、ちょっとくらい痛いのも 嫌いじゃないのよ、私。
+ ……いえ、むしろ好きかしら？","I don`t really mind. I`ve been prepared for it since I was taken prisoner.
+ I don`t mind if it`s forced, or if hurts a little, either.
+ ...Rather, I think I might like it."
+Yamamoto Akuji (talking),………………,...
+Tsukigase Nene (talking),"でも、どうせなら最初くらいは 優しくしてね。 私、男の人は久しぶりだから…
+ ……でも、言わなくても大丈夫ね。 あなた、女の扱いは慣れていそうだもの。","But if you do it, please be gentle at the start, at least. It`s been a while since I had a man.
+ ...Though it seems I don`t have to tell you. You seem to know how to handle women."
+Yamamoto Akuji (talking),見透かしたような物言いしてんじゃねえ。 何でんなこと解んだよ、ハッタリか？,Quit talking like you can read my mind. How can you be sure? Or are you bluffing?
+Tsukigase Nene (talking),……ふふ。 あなた、腰つきがセクシーなの。とても。,...Fufu. You`ve got a really sexy posture.
+Yamamoto Akuji (talking),………………,...
+Tsukigase Nene (talking),冗談よ。,I`m kidding.
+Yamamoto Akuji (talking),あのなあ、おめー。 もうちょっと捕虜らしくしろよ…,"Listen here, woman. Act more like a prisoner, would you."
+Tsukigase Nene (talking),諦めて開き直っているだけよ。 どうせ、逃げられないのだから。,"I`ll give up and listen, then. I can`t escape, anyway."
+__system__??,{☆那古Ａ = 3:,{☆那古Ａ = 3:
+Yamamoto Akuji (talking),"……もういい。 お喋りはこんくれぇにしとこうや。 本題に入るぜ。
+おめーんとこの教団、潰したぞ。 当然、教祖も捕まえた。
+もう組織力はゼロに等しい。 俺の勝ちだ。","...Enough. Chit-chat`s over, so I`m gonna talk about the main subject.
+ I`ve crushed your Cult, and captured your guru.
+ Your group is literally no more. I won."
+Tsukigase Nene (talking),あら……そう。 意外と早かったのね……,My... is that so? That was surprisingly fast...
+Yamamoto Akuji (talking),"ところが、この捕虜部屋へ送る最中 誰かの手引きで教祖に逃げられてよ。
+八方手を尽くして探したんだが、 どうにもこうにも見つからねえ。
+ …どこにやったのか、吐いてもらうぜ。","However, someone helped the guru escape on the way to this prison.
+ We searched everywhere, but couldn`t find her.
+ You`re gonna tell me where she is."
+Tsukigase Nene (talking),教祖？　由女のことね。 さあ、私は知らないわ。,"Guru? You must mean Yume. Well, I have no idea."
+Yamamoto Akuji (talking),しらばっくれんなよ。 おめーなら、教祖をかくまった場所の 見当くらいつくはずだ。,Don`t play dumb with me. You must have some ideas as to where she could be hiding.
+Tsukigase Nene (talking),"本当に知らないのよ。
+あなたが攻めてきてから大忙しで、 私、万が一の対応は全て部下に 任せたのだから。","I honestly don`t know.
+ I`ve been so busy since you attacked that I`ve left most things up to my subordinates."
+Yamamoto Akuji (talking),"大事な教祖をかくまう手筈が、 一から十まで部下任せだってのか？
+寝言は寝て言えよ、ねーちゃん。","And you left your men in charge of securing a hiding spot for her?
+ Cut the bullshit."
+Tsukigase Nene (talking),"あの時は、あなたが送ってくる部隊を 迎撃するのが最優先だったのよ。
+教団は上を下への大騒ぎ。 もしもの時の備えまで 全て把握していられなかったわ。
+あなたも組織を動かす身なら、 そのくらいお解りでなくって？","At that time, engaging the troops you`d sent took priority.
+ The whole Cult was in chaos. I couldn`t account and prepare for every single thing.
+ You`re a leader yourself, so you must understand how that is like."
+Yamamoto Akuji (talking),む… まあ、ありえない事じゃねぇが…,"Hrm... Well, it`s not impossible..."
+Tsukigase Nene (talking),………… くすっ…………,... Teehee...
+__system__??,},}
+__system__??,{(☆那古Ａ < 3) * (☆寧々捕虜 < 5) + (☆那古Ａ = 4):,{(☆那古Ａ < 3) * (☆寧々捕虜 < 5) + (☆那古Ａ = 4):
+__system__??,},}
+__system__??,{(☆那古Ａ < 3) * (☆寧々捕虜 > 4):,{(☆那古Ａ < 3) * (☆寧々捕虜 > 4):
+__system__??,},}
+__system__??,{(☆那古Ａ > 2) * (☆那古Ａ = 3) * (☆寧々捕虜 \ 10):,{(☆那古Ａ > 2) * (☆那古Ａ = 3) * (☆寧々捕虜 \ 10):
+__system__??,},}
+__system__??,{(☆那古Ａ > 2) * (☆那古Ａ = 3) * (☆寧々捕虜 = 10):,{(☆那古Ａ > 2) * (☆那古Ａ = 3) * (☆寧々捕虜 = 10):
+__system__??,},}
+__system__??,{(☆那古Ａ = 5) * (☆寧々捕虜 \ 15):,{(☆那古Ａ = 5) * (☆寧々捕虜 \ 15):
+__system__??,},}
+__system__??,{☆寧々捕虜 = 15:,{☆寧々捕虜 = 15:
+__system__??,},}
+narrator,寧々汎用すっぽぬけ。 これ出たら上田まで報告頼みます。,寧々汎用すっぽぬけ。 これ出たら上田まで報告頼みます。
+Yamamoto Akuji (talking),よお、激マブねーちゃん。 元気か？,"`Sup, hot stuff. You doing well?"
+Tsukigase Nene (talking),"ええ、お陰様で。 三食に加えてお昼寝付きですからね。
+ただ、少し居心地悪いのよ。 ベッドを新調する予定はないのかしら？","Yes, thanks to you. I get three meals a day and plenty of sleep.
+ Not very cozy, though. Are there any plans to buy new beds?"
+Yamamoto Akuji (talking),相変わらず図太いなー。,Still the same bold chick as always.
+Tsukigase Nene (talking),くすっ、ありがとう。,"Teehee, thanks."
+Yamamoto Akuji (talking),だから褒めてねぇんだよ。,Wasn`t a compliment.
+Yamamoto Akuji (talking),よお、地下室暮らしは慣れたか？ 激マブねーちゃんよ。,"Yo, gotten used to prison life yet, hot stuff?"
+Tsukigase Nene (talking),慣れるものではないわ。 狭いし暗いし、気が狂いそう……,"That`s impossible. It`s dark, cramped, and driving me crazy..."
+Yamamoto Akuji (talking),お、マジか？　だったら……,"Oh, for real? Then-"
+Tsukigase Nene (talking),……ふふ、嘘よ。 もう慣れてしまったわ。,"...Fufu, I`m kidding. I`ve already gotten used to it."
+Yamamoto Akuji (talking),………………,...
+Yamamoto Akuji (thinking),"……ったく、暖簾に腕押しってヤツか。 こいつの余裕は一体どっから来てんだ？
+んー……俺が教祖を手に入れりゃあ、 ちっとはグラついてくれっかね…… うーむ。","Tch, so this is a waste of effort? How is she so confident?
+ Hm... She might waver if I can get my hands on that guru. Yep."
+Yamamoto Akuji (talking),よお、激マブねーちゃん。 相変わらず元気そうだな。,"`Sup, hot stuff. You look as lively as usual."
+Tsukigase Nene (talking),お陰様で。 地下室暮らしが性に合ってるのかしらね？,Thanks to you. Maybe the life of a prisoner suits me?
+Yamamoto Akuji (talking),"………………
+ちっ、これで教祖も捕まえておけば おめーの涼しい顔も 少しは歪んだんだろうがな。","...
+ Tch, bet you wouldn`t look so calm if we`d captured your guru."
+Tsukigase Nene (talking),……どういう意味？,...What do you mean?
+Yamamoto Akuji (talking),おめーんとこの教団、潰したんだよ。 もう組織力はゼロに等しい。 俺の勝ちだ。,I crushed your cult. They got zero strength as a group left. I won.
+Tsukigase Nene (talking),あら……そう。 意外と早かったのね……,"Oh, really...? That was surprisingly fast."
+Yamamoto Akuji (talking),"ところが、この捕虜部屋へ送る最中 誰かの手引きで教祖に逃げられてよ。
+八方手を尽くして探したんだが、 どうにもこうにも見つからねえ。
+ …どこにやったのか、吐いてもらうぜ。","And while we were taking her here, someone helped your guru escape.
+ We searched all over, but couldn`t find her.
+ ...You`re gonna tell me where she is."
+Tsukigase Nene (talking),教祖？　由女のことね。 さあ、私は知らないわ。,Guru? You mean Yume? I wouldn`t know.
+Yamamoto Akuji (talking),しらばっくれんなよ。 おめーなら隠し場所の見当くらい つくはずだ。,Don`t play dumb. Ya should at least be able to guess where she could be hiding.
+Tsukigase Nene (talking),"本当に知らないのよ。
+あなたが攻めてきてから大忙しで、 私、万が一の対応は全て部下に 任せていたのだから。","I really don`t know.
+ I`ve been so busy since your first attack that I`ve left all contigency plans to my subordinates."
+Yamamoto Akuji (talking),"大事な教祖をかくまう手筈が、 一から十まで部下任せだってのか？
+寝言は寝て言えよ、ねーちゃん。","You`re tellin` me ya let your men plan out how to hide your precious guru?
+ Cut the bullshit, woman."
+Tsukigase Nene (talking),"あの時は、あなたが送ってくる部隊を 迎撃するのが最優先だったのよ。
+教団は上を下への大騒ぎ。 もしもの時の備えまで 全て把握していられなかったわ。
+あなたも組織を動かす身なら、 そのくらいお解りでなくって？","At the time, intercepting your squad was the top priority.
+ The whole Cult was in an uproar. I couldn`t keep track of all the contingency plans.
+ You lead a group yourself. Surely you can understand?"
+Yamamoto Akuji (talking),む… まあ、ありえない事じゃねぇが…,"Hrm... Well, it ain`t impossible..."
+Tsukigase Nene (talking),………… くすっ…………,... Teehee.
+Yamamoto Akuji (talking),よお、激マブねーちゃん。 知ってんだろ、教祖の隠し場所。 喋ってくれや。,"`Sup, hot stuff. I know you know where your guru is, and you`re gonna tell me."
+Tsukigase Nene (talking),あなた、思い込みの激しい人ね…… 本当に知らないのよ。,"You love your assumptions, huh? I really do not know."
+Yamamoto Akuji (thinking),…………そんな訳はねーな。 トボけやがってこのアマ……,(As if. This bitch is playing dumb.)
+Yamamoto Akuji (talking),よお、激マブねーちゃん。 今日はおめーに言っとく事があんだよ。,"`Sup, hot stuff. I got something to tell you today."
+Tsukigase Nene (talking),あら、何かしら？,"My, what is it?"
+Yamamoto Akuji (talking),"おめーんとこの教祖、捕まえたぞ。 俺の完全勝利だな。
+知らんぷりが無駄に終わって 残念だったな。","We got your guru. My victory`s complete.
+ Too bad feigning ignorance got you nowhere."
+Tsukigase Nene (talking),…………本当に？ どうやって見つけたのかしら。,...Truly? How did you find herm I wonder?
+Yamamoto Akuji (talking),さあなー、ふふん。,"Dunno, heheh."
+Tsukigase Nene (talking),"………………そう。
+由女は、本当にいい子だから… できれば大事にしてやって。
+何らかの処分がされた後なら、 言うだけ無駄なのでしょうけれど……","...I see.
+ Yume`s a really good girl, so... if possible, treat her well.
+ Though I guess that`s pointless to say if you`ve already done something..."
+Yamamoto Akuji (talking),おいおい、言うことはそんだけか？ 本気でドライな奴だな、おめー。,"Is that all you have to say? You`re one cold chick, huh."
+Tsukigase Nene (talking),……？ 私に何を期待してるのかしら。,...? What did you expect from me?
+Yamamoto Akuji (talking),いや、もっと悔しがるとか、 もっと取り乱すとかよ。,"Well, I thought you`d be more upset or something."
+Tsukigase Nene (talking),何もできない捕虜の身で 取り乱しても始まらないもの。 これ以上何が言えるのかしら？,"I`m a prisoner, I can`t do anything. Being upset is pointless. What else is there to say?"
+Yamamoto Akuji (talking),……なるへそ。,...I see.
+Yamamoto Akuji (talking),よお、激マブねーちゃん。,"`Sup, hot stuff."
+Tsukigase Nene (talking),"………………
+ ……もう、こんな事を続けても 意味はないのよね……","...
+ ...Is there even a point in keeping this up?"
+Yamamoto Akuji (talking),ん？,Huh?
+Tsukigase Nene (talking),独り言よ、気にしないで。,"Nothing, just talking to myself."
+Yamamoto Akuji (talking),よし、ちょっと付いてこいや。,"Alright, come with me for a bit."
+Tsukigase Nene (talking),……どこに行くのかしら？,...Where to?
+Yamamoto Akuji (talking),俺の部屋。,My room.
+Tsukigase Nene (talking),……………… 訊くまでもないと思うけれど、 何をする気かしら？,"... It might be pointless to ask, but what are we going to do there?"
+Yamamoto Akuji (talking),俺とセックス。,Sex.
+Tsukigase Nene (talking),ああ、やっぱり……,"Ahh, I knew it..."
+Yamamoto Akuji (talking),……なんで笑うんだよ。 嬉しいのか？　スキモノか？,...Why are you smiling? You a nympho or something?
+Tsukigase Nene (talking),いいえ、あまりに予想通りだったから ……可笑しかっただけ。,"No, it`s just funny how predictable you are."
+Yamamoto Akuji (talking),あっそ。,Really now.
+Tsukigase Nene (talking),……私、 あなたを馬鹿にしているのだけれど？,"...I`m making fun of you, you know."
+Yamamoto Akuji (talking),ダァホ。言わなくても解ってら。,"I know, dumbass."
+Yamamoto Akuji (talking),しかし、抵抗も何もせずに 黙ってついてくるかよ、おめー。,"Still, you came here without resisting or anythin`."
+Tsukigase Nene (talking),そう？ 諦めているだけなのだけれど。,"Is that so? I`ve simply given up, that`s all."
+Yamamoto Akuji (talking),ま、何にせよ抵抗ナシってのは 楽でいいけどな。,"Either way, it`s better that you`re not resisting."
+narrator,──などと悪司が言う側から、 寧々は着ている衣を脱ぎ始めた。,"While Akuji spoke, Nene began undressing next to him."
+Yamamoto Akuji (talking),……おいおいおい。 そこまでサービスしてくれんのか？,"...Hey hey hey, you`re going that far for me?"
+Tsukigase Nene (talking),"サービスも何も……
+脱がない時は、どうせ無理にでも 脱がせるのでしょう？","I wouldn`t say it`s for you...
+ If I don`t take them off, you`ll undress me anyway, right?"
+Yamamoto Akuji (talking),そりゃまあ、そうだが。,"Well, yeah."
+Tsukigase Nene (talking),"でも、勘違いしないで。 覚悟しているだけで…… 恥ずかしくない訳ではないのよ。
+だから、その……できれば、 余所を向いていて欲しいのだけれど…","Don`t misunderstand. I may be prepared, but that doesn`t mean I`m not embarrassed.
+ So, um... if possible, I`d like you to look away while I do it..."
+Yamamoto Akuji (talking),恥ずかしいってタマか、おめーが。,I`m surprised you even know what that means.
+Tsukigase Nene (talking),……これでも私、一応、女なのよ？,"...I`m still a woman, you know?"
+Yamamoto Akuji (talking),そういう事にしといてやらあ。,"Forget it, I`m watching."
+Tsukigase Nene (talking),"……もう。
+まあ、別に構わないけれど……","...Geez.
+ Well, I don`t really mind..."
+narrator,"そして、寧々は静かに着物を脱ぎ続ける。
+その仕草に、えも言われぬ色香が漂う。
+恥じらう乙女でも男を誘う娼婦でもなく、 例えるなら、主にかしずく貴婦人のような──
+だが、いかに仕草が優美に見えても、 少しずつ露わになっていく寧々の躰の量感は、 否が応にも見ている者の劣情を刺激した。
+着物を着ていても隠しきれない豊かな躰の線が、 少しずつ、少しずつ、露わになっていく──","Thus, Nene silently undressed herself.
+ The process was indescribably sensual.
+ She wasn`t like a shy maiden or a seductive temptress, and more like a lady serving her master.
+ But graceful as it was, the sight of Nene`s voluptous body being slowly exposed was enough to stoke the flames of lust in any man.
+ Her generous curves, which even her kimono couldn`t hide, slowly revealed themselves--"
+Yamamoto Akuji (talking),…………んごきゅ。,...Gulp.
+Yamamoto Akuji (thinking),はっ、何を生唾呑んでんだ俺は。,Why the fuck am I acting nervous?
+Tsukigase Nene (talking),"……いいわよ。 さ、お好きになさいな。
+もっとも、本当に好き勝手されるのは 癪だから……
+それなりに、私もあなたを 好きにさせて貰うけれど。","...Very well. Now, do as you like.
+ Though truth be told, I`d hate it if you were to do that.
+ So I`m going to do as I like to you too, in whatever way I can."
+Yamamoto Akuji (talking),あ？　どういう意味だ？,Huh? What do you mean?
+Tsukigase Nene (talking),……くすっ。 言葉の通りよ。解らない？,...Teehee. I meant exactly that. Don`t you understand?
+Yamamoto Akuji (talking),ちっ。 その余裕、保つと思うなよ。,"Tch, don`t think you`ll be acting so tough for much longer."
+narrator,悪司は、自分の持つテクニックを総動員して この女を屈服させてやると心に決めた。,Akuji was determined to use all of his skills to make the woman before him submit to him.
+narrator,二人は、激しい主導権争いをした。,The two engaged in an intense battle for dominance.
+narrator,"──事が終わって。
+悪司も寧々も全身汗みずくで、 ぐったりとなって荒い息を繰り返していた。","--By the time they finished.
+ Both Akuji and Nene were covered in sweat and breathed heavily."
+Yamamoto Akuji (talking),ぜ……ぜーはー、ぜーはー…… ぬぐ……,Wheeze... wheeze... hnngh...
+Yamamoto Akuji (thinking),"な、なんとか勝ったが…… このアマ、躰もテクもシャレにならん…
+一体、どんな人生送ってきてんだ、 こいつ……","(I-I managed to come out on top... This chick`s body and technique are unreal...
+ What the hell kinda life did she have...?)"
+Tsukigase Nene (talking),"は……うぁ、う……はっ、は── んぅ……
+す、ごい……凄かった…… こんな……のは、私、初めて……","Haah... haah... aah... mnh...
+ Th-That was amazing... I-It was a first for me..."
+Yamamoto Akuji (talking),そ……そら、良かった……な。,G-Glad to hear it...
+Tsukigase Nene (talking),"……ごめん、なさい…… 私、もう……駄目……
+ …………休ませて…………","S-Sorry... I can`t, take it anymore...
+ Let me rest..."
+narrator,寧々は言って、震える手で 掛け布団を自分の方へ手繰り寄せる。,"With a trembling hand, Nene brought a cushion closer to herself."
+Yamamoto Akuji (talking),あ……おいこら！,Ah- hey!
+ (talking),"………………
+ ……すー……すー……","...
+ zzz... zzz..."
+Yamamoto Akuji (talking),"ね、寝始めやがった…
+ったく、 何とまあ図太い捕虜だ……","Sh-She went and slept...
+ Damn, what a bold prisoner she is..."
+Yamamoto Akuji (talking),よし、ちょっと付いてこいや。,"Alright, come with me."
+ (talking),あ……するのね？,Oh... we`re doing it?
+Yamamoto Akuji (talking),……嬉しそうに言うなぁ。 実はまたバカにしてるとか、か？,"...Don`t pretend you`re happy. You`re actually making fun of me, aren`t you?"
+ (talking),"くすっ…… 今度は素直に取って貰って良いわ。
+あなた、すごく上手だったから… 楽しみなのよ。","Teehee... You can take it at face value this time.
+ You were quite good, so... I`m looking forward to it."
+Yamamoto Akuji (talking),………………,...
+Yamamoto Akuji (thinking),こりゃ、セックスじゃオチそーにねえな。 なんか今、ピンと来たぜ。,"(This chick ain`t submitting through sex, I can tell now.)"
+ (talking),……？　どうかしたの？,...? What`s the matter?
+Yamamoto Akuji (talking),やっぱやめだ。,"On second thought, I`ll pass."
+ (talking),あら、どうして？,Oh? Why?
+Yamamoto Akuji (talking),俺は益のないセックスは やらねー主義なんだ。,I have a policy to not fuck unless I benefit from it.
+ (talking),何の事かは解らないけれど… 残念ね。,I don`t really understand... but that`s a shame.
+Yamamoto Akuji (talking),残念だって顔してねーぞ。,Your face says otherwise.
+ (talking),……くすっ。,Teehee.
+narrator,悪司は、寧々の目の前に札束をどんと置いた。,Akuji placed a wad of cash in front of Nene.
+ (talking),あら……なあに？　これ。,Oh...? What`s this?
+Yamamoto Akuji (talking),プレゼントだ。 今のところは使いようがねえけどな。,A gift. Too bad you can`t  use it right now.
+ (talking),"………………
+とりあえず、有り難うと言っておくわ。 拒絶する理由もないし。
+で、何が目的なのかしら？","...
+ Thanks, I guess. I`ve no reason to refuse it.
+ So, what`s your endgame?"
+Yamamoto Akuji (talking),ズバリ言うぜ、ねーちゃん。 俺の部下になる気はないか？,I`ll cut to the chase: wanna work for me?
+ (talking),……あなたの？,...Work FOR you?
+Yamamoto Akuji (talking),ああ。 おめーは何かと使える気がするんでな。,Yeah. I think you`d come in real handy.
+ (talking),お断りさせて頂くわ。,I must refuse.
+Yamamoto Akuji (talking),なんとも見事な即答だなー。 理由は？,One hell of a fast reply. Why are you refusing?
+ (talking),"言っても仕方ないのだけれど……
+私、いろいろと手を尽くしていたのよ。 教団を大きくするためにね。
+それを潰したのが、あなた。
+ ……ね。 私があなたを恨んでも当然ではなくて？","This may go without saying, but...
+ I did everything I could to expand the Cult.
+ And you went and messed it all up.
+ ...So, isn`t it natural for me to resent you?"
+Yamamoto Akuji (talking),……仰るとおりで。,...I guess you`re right.
+Yamamoto Akuji (talking),ねーちゃん、 そろそろ気変わりしたか？,"Isn`t it about time you changed your mind, lady?"
+ (talking),……何のこと？,About what?
+Yamamoto Akuji (talking),"俺の部下にならねぇか、って話だ。
+今までおめーに渡した札束だって、 使いたいとは思わねえのか？","About working for me.
+ Don`t you wanna put all the money I gave you to use?"
+ (talking),"………………
+そうね…… あなたの下で働くのも、面白いかしらね。","...
+ True... working for you could be fun."
+Yamamoto Akuji (talking),お。 それ、本気で言ってんのか？,"Ooh, you meant that?"
+ (talking),"その代わり……
+隙あらば、何人かの仲間を引き連れて 裏切るかもしれないわよ。
+それだけは覚悟しておいてね。","But on the other hand...
+ I might take some men and betray you if I see a chance.
+ Be prepared for that."
+Yamamoto Akuji (talking),なんだそりゃ。,What the hell?
+ (talking),あら、ここで忠誠を誓いますなんて 嘘八百を言うよりは、 よほど現実的な答えだと思うけれど。,"It`s a much more realistic answer than swearing my loyalty to you, I reckon."
+Yamamoto Akuji (talking),なるほど。,Guess so.
+ (talking),じゃあ、ここから出してくれるかしら？ さすがにもう、この地下は見飽きたわ…,"So, could I get out of here? I`ve had enough of this cell..."
+Yamamoto Akuji (talking),いいぜ。 ただ、しばらくは監視つけるぞ。,"Fine, but you`ll be under watch for a while."
+ (talking),当然ね。構わないわよ。,Obviously. I don`t mind.
+Yamamoto Akuji (talking),……しかし、あっさりしてんな。 おめー、昔の仲間とか気になんねぇのか？,"...Still, that was easy. Aren`t you worried about your old comrades?"
+ (talking),"あら、人を冷血みたいに言わないでよ。 ずっと気になっているわ。
+けれどあなた、 私が訊いたからって教えてくれるの？","Oh please, I`m not cold-hearted. I`ve been worried for a while.
+ But if I were to ask about them, would you tell me?"
+Yamamoto Akuji (talking),……いや、言う気はないな。 どうせいずれは解ることだしよ。,"...Nah, don`t think I would. You`d find out eventually, anyway."
+ (talking),でしょう？ だから訊かないのよ。,Right? So I won`t ask.
+Yamamoto Akuji (talking),"しかしおめー、割り切り早いよな。 感心するぜ、実際。
+言っとくが、 俺が割り切りの事で感心すんのは、 そらもう余程のことだぜ。","Still, you`re pretty damn pragmatic. I admire that, actually.
+ And for me to be impressed by that is saying something."
+ (talking),……でしょうね、 あなた決断早そうだもの。,I bet. You seem like you`re quick to make decisions.
+Yamamoto Akuji (talking),"過ぎたことは過ぎたこと、 人は人、自分は自分、か。
+嫌いじゃねえがな、そういうの。","What`s done`s done, and each person`s different, huh.
+ I don`t dislike that sort of stuff."
+ (talking),"………………
+ ……私は、そうでもないわ。
+そうして割り切れる自分が、 すごく嫌なときもある……","...
+ ...I`m not like that.
+ There I times where I loathe myself for being so pragmatic..."
+Yamamoto Akuji (talking),ん？　どういうこった？,Hm? What do you mean?
+ (talking),……別に。何でもないわ。,"...Nothing, forget it."
+Yamamoto Akuji (talking),よし、おめーの躰を 金稼ぎの道具にさせてもらうか。,"Alright, I`m gonna have you earn me money with your body."
+ (talking),………………,...
+Yamamoto Akuji (talking),もしかして、 言ってる意味解んねーか？,"Do you not get what I mean, by any chance?"
+ (talking),いいえ……解るわ。 娼婦になれと言うのでしょう？,"No, I do. You`re making me a prostitute, aren`tyou?"
+Yamamoto Akuji (talking),"おう、その通りだ。
+もうちょい正しく言えば、調教師に それなりの調教をしてもらった後で ウリに入ってもらうんだがな。","Exactly.
+ To be precise, we`re having you work as one after you`ve been trained some."
+ (talking),"………………
+仕方ないわね…… これも運命、か。","...
+ I have no choice... So this is fate, huh."
+Yamamoto Akuji (talking),聞き分けいいな、おめー。助かるぜ。,Glad you`re so reasonable.
+ (talking),"それはそうよ…… 今の私は、殺されても文句の言えない 立場ですもの。
+一応、有り難うと言っておくわ。 …死ぬよりはマシですからね。","Obviously. I`m in a position where I can`t even complain if you have me killed.
+ I`m thankful, for now, since this is better than dying..."
+ (thinking),"………………
+また、昔のような生活に逆戻り、か。
+ ……いえ、何もかも諦められるだけ 昔より余程良いかしらね。","...
+ I`m relapsing into my old life, huh.
+ ...No, this is better than when I was ready to give up on everything."
+Yamamoto Akuji (talking),何か言ったか？,You say somethin`?
+ (talking),いえ、別に。,"No, it`s nothing."
+Yamamoto Akuji (talking),そんじゃま、ちと待ってろ。 タマネギを……っとと、 ここの責任者を呼んでくるからよ。,Then wait here a sec. Tamanegi! ...I`m calling over the guy in charge of this place.
+ (talking),それには及ばないわ。 自分の足で行く。,...You don`t have to. I`ll go by myself.
+Yamamoto Akuji (talking),そうか。 多分むこうの部屋に居ると思うぜ。,"I see. Well, I think he`s in that room over there."
+ (talking),"そう。
+ ……じゃあ、さよなら。","I see.
+ ...Then farewell."
+narrator,──そうして、月瀬寧々は娼婦になった。,"Thus, Nene became a prostitute."
+Yamamoto Akuji (talking),そんじゃま早速、 教祖の居場所を吐いてもらうために いっちょ拷問タイムと行くか？,"Feel like telling me where your guru is, or do we gonna need some more torture time?"
+ (talking),だから…… 私は知らないと言ったでしょう？,"Look, I already told you I don`t know anything."
+Yamamoto Akuji (talking),シラ切ってもムダムダァ。 おい、拷問係のとこに連れてけ。,"Playing dumb`s futile. Hey, take her to the torture room."
+Hikage Mitsuko (talking),……………はい………,...Okay...
+narrator,に対する 拷問が行われた。,was tortured.
+ (talking),ぼちぼち吐く気になったか？ 教祖の居場所をよ？,Feel like telling me where your guru is yet?
+ (talking),無駄よ、そんな事言っても。 知らないものは喋れないもの……,This is futile. I can`t tell you what I don`t know.
+ (talking),……ったく、頑固だなー。 おい、拷問係のとこに連れてけ。,"...Man, you`re stubborn. Hey, take her to the torture room."
+Hikage Mitsuko (talking),……………はい………,...Okay...
+narrator,に対する 拷問が行われた。,was tortured.
+ (talking),そういやねーちゃん。 えらく頑張ってるそうだな。,"By the way, seems like you`ve been really hanging in there."
+ (talking),……何が？,...What do you mean?
+ (talking),何度も拷問にかけられてんのに、 口割ってねえだろ。,You won`t spill the beans no matter how much we torture you.
+ (talking),ああ、その事ね……,"Oh, that."
+ (talking),"自白剤なんかもいくらか打ったのに さっぱり効いてねぇんだってな。
+拷問を担当した奴が言ってたぜ。 おめー、タダモンじゃねぇってな。","Even all the truth serums we gave ya did jack shit.
+ Our torturer said you`re a real piece of work."
+ (talking),体質的に、 薬とか効きづらいのよ、昔から。,Medicine never did have much of an effect on me.
+ (talking),お得意のオトボケか？,Playing dumb like always?
+ (talking),こんな事で嘘をついてみても 始まらないわよ。,There`s no point in me lying about this.
+ (talking),"俺が聞いた話じゃあ、 薬が効かないように訓練する手も あるんだそうだな？
+ま、どんな種類の人間に そんな訓練が必要なのかは 見当もつかねぇが。","From what I`ve heard, there`s some training you can do to make drugs ineffective.
+ Then again, I got no idea what kind of person`d ever need that sort of training."
+ (talking),……あなた、スパイ映画や漫画の 見すぎなのではなくて？,...Are you sure you`re not watching too many spy movies?
+ (talking),"いや、別におめーの経歴なんざ こっちはどうでもいいんだけどな。
+ただな、このままじゃ おめーの命の灯を揉み消すレベルまで 行っちまいかねないんでな。
+その前に、もう一回だけ訊いておくぜ。
+ ……教祖は、どこに居る？","Nah, I don`t really care about your past.
+ Thing is, at this rate we`re gonna have to make your torture almost lethal.
+ So before that, I`ll ask you one more time.
+ ...Where the fuck is your guru?"
+ (talking),何度も言わせないで… 知らないのよ、私は。,I`ll say it yet again. I don`t know.
+ (talking),やれやれ……,Fuck`s sake...
+narrator,──悪司は部下に指示し、寧々を独房に戻させた。,"Akuji commanded, and Nene was returned to her cell."
+ (talking),………………日陰さん。,...Hikage-san.
+Hikage Mitsuko (talking),…………あ、はい……,"...Oh, yes...?"
+ (talking),あのねーちゃんの拷問担当、 呼んできてくれ。 上で待ってるハズだから。,Call the guy in charge of her torture. He should be waiting upstairs.
+Hikage Mitsuko (talking),はい…,Okay...
+Elite Yakuza (talking),どうでした？　若。,"What is it, Young Master?"
+ (talking),ダメだ、ハナからそうだと思ってたが 話してごらんで話すような奴じゃねぇ。,"Knew it`d be like this from the start, but talking ain`t working."
+Elite Yakuza (talking),では……,Which means...
+ (talking),"しゃあねぇよ、もうおめーに任せる。
+教祖みっけてふんじばらねぇと、 こっちはいつまで経っても 枕高くして眠れないからな。
+ ……しっかし、 惜しいよなぁ、いい女なのによ…","No other choice. I leave it to you.
+ I won`t be able to rest easy until we catch that guru.
+ ...But man, what a waste of a good woman."
+Elite Yakuza (talking),全くです。,I agree.
+cg narrator,"「いっ……嫌、よしなさい、そんなっ…… 　止めて、止めなさいっ……お願いだから……！」
+注射器を手にして近付いてくる拷問手を前に、 寧々は恐怖に顔を歪ませる。
+ ──もう、何度も拷問を繰り返してきたが、 寧々がこんな反応を見せるのは初めてだった。
+ 「この中身が何なのか解るのか？ 　やはり普通の世界に生きていないな、お前」
+眉一つ動かさず、拷問手が静かに言う。
+拷問手は、寧々を恫喝するために 注射器の中身を目の前で調合して見せたのだ。
+彼の背後にあるのは、アルコールランプと 数本の試験管、そしてアンプル──
+当然ながら、 見ただけでそれが何か解るようなものではない。
+ 「一応、説明しておくが…… 　高純度の幻覚剤と、軍から横流しされた 　自白剤を混合したものだ」
+拷問手は言って、寧々の片腕を掴む。
+ ──その腕には、 幾本もの注射を打たれた痕が青く残っていた。
+ 「自白剤も麻薬も……はては媚薬も、 　すでに貴様には打ってあるのだがな。 　それが効いていてくれれば良かったのに……」
+ 「きっ……効かなかったからと言って、 　そんな高濃度で人に打とうなんてっ……！ 　あなた、致死量がどれほどか解っているの！？」
+ 「解っているさ、こいつを打てば 　お前が口を割る前に死んでしまうかも 　しれない事くらいはな」
+ 「…………っ……！」
+ 「だが、我々にとっては 　お前がいつまでも口を噤むつもりなら、 　死んでしまったとしても事は同じなのでな」
+そして、拷問手は腕に注射針を近付けていく──
+ 「やっ、やめ……やめなさいっ……！」
+ 「やめても構わんよ、お前ほどの女を殺すのは 　さすがに忍びないのでな。 　そら、知っていることを全て話せ」
+ 「………………」
+ 「……だろうな、そういう女だと言う事は 　今まで充分思い知ったからな……」
+そして、拷問手はついに、 注射器を寧々に突き刺してしまう──
+ 「………………う、っが………… 　…………うぁ、あぐ……………………！」
+ 「……流石に効きが早いな。 　私もこれほどの量は未経験なのだが……」
+ ──拷問手は呟くが、 もう寧々にはその声が聞こえなくなりつつあった。
+頭が朦朧とし、手足の感覚が失せ、 まるで宙を浮いているような恍惚が襲う──
+ 「……さ、話せ。 　お前の大事な教祖は、どこに匿っている？」
+寧々は、堪え続けた。 薬物がもたらす恍惚を制し、自意識を保とうと 必死で堪え続けた。
+ （……陽子や……由女を、裏切るくらいなら…… 　いっそ、死んだ方が…………）
+ ──そう思っただけで幻覚を見る。 目の前に陽子と寧々が立つ。
+ “……寧々さん、私、 　いつまで隠れておけばいいの……？”
+幻覚の由女が言う。不安そうに。
+ “……ねえ寧々、由女を匿った場所だけど、 　あそこ、本当に見つからないのかしら……”
+幻覚の陽子が言う。悩みながら。
+寧々は思わず、幻覚に答えたくなる。
+いつもの通りに微笑みながら、 あそこなら心配することはないと言いたくなる。
+ ──いや、答えようと考えるだけで危険だ。 考えただけで口は声を発している場合がある。
+ “お願い、私の躰…… 　話すくらいなら、先に果てて……お願い……”
+寧々は祈り続けた。
+ “由女を……売るくらいなら、 　陽子を裏切るくらいなら……いっそ…………”
+ “………………いっそ………………”
+ “……………………”","N-No, stay away! Stop, please, stop...!
+ With a syringe on his hand, the torturer approached Nene, who looked at him with a terrified expression.
+ She`d already undergone several torture sessions, but this was her first time reacting like this.
+ You know what`s in this? I knew you weren`t a normal person.
+ The torturer spoke coldly, without batting an eye.
+ In order to intimidate Nene, he`d mixed the syringe`s components in front of her.
+ Behind him was a spirit lamp, several test tubes, and ampoules--
+ Naturally, one couldn`t understand what they were simply from looking at them.
+ I`ll explain, just in case... This is a mix of high-purity hallucinogens and army-issue truth serums we got from the black market.
+ The torturer grabbed one of Nene`s arms.
+ Her arm had several bruises from previous injections.
+ We`ve already pumped you with drugs, truth serum, and even aphrodisiacs, though. If only those`d worked...
+ J-Just because they didn`t work, you`re gonna inject me with that concentrated stuff?! Don`t you know what the lethal dosage for that is?!
+ I do. I know you might die before you spill your secrets, even.
+ ...!
+ However, to us, if you`re gonna keep your mouth shut no matter what, then you may as well be dead.
+ He then drew the needle closer to Nene`s arm--
+ S-Stop... Stop!
+ I don`t mind stopping, in fact, I`d hate to have to kill a woman of your caliber. All you gotta do is talk.
+ ...
+ ...I figured as much. I`ve realized that this is the sort of woman you are.
+ With that, the torturer injected the syringe into Nene--
+ ...ngh, ghah... aaargh, ghh...!
+ ...Fast-acting, as I`d thought. Even I have never used this much, though.
+ The torturer mumbled, but Nene could no longer hear what he said.
+ Her mind became hazy; she lost all sensation in her limbs; a rapture akin to floating in space assaulted her.
+ Now talk. Where did you hide your guru?
+ Nene kept enduring. She desperately fought back against the ecstasy cause by the drugs to keep her sense of self.
+ (I`d... rather die... than betray Youko... and Yume...)
+ ...So she thought, but the hallucinations started. In front of her were Youko and Yume.
+ “Nene-san, how much longer do I have to stay hidden?”
+ The illusory Yume spoke, nervously.
+ “Hey Nene, do you really think they won`t find where we hid Yume...?”
+ The illusory Youko spoke, worriedly.
+ Nene inadvertently answered the hallucinations.
+ She wanted to tell them Yume would be okay there, smiling just like always.
+ ...No, even thinking about answering was dangerous. She could end up voicing her thoughts.
+ “Please, body... Let me die before I talk... please...”
+ Nene kept praying internally.
+ “I`d rather die than sell out Yume or betray Youko...”
+ “...I`d rather...”
+ “...”"
+cg narrator,だが、全ては無駄な抵抗だった。,"However, it was a pointless struggle."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Elite Yakuza (talking),……若。,...Young Master.
+Yamamoto Akuji (talking),おう、どうだった？,How did it go?
+Elite Yakuza (talking),ようやく情報が取れました。 どうぞ、取り急ぎまとめた書類です。,We finally got the info. I`ve written them down here.
+Yamamoto Akuji (talking),"おう、センキュ。んーとっと……
+ ……シキナの元那古教本部ぅ？ 何だよ、あそこに隠し部屋でも 作ってたってのか？
+チッ、とっくにどっか別のところに 逃げたと思ってたが、こりゃ盲点だぜ…
+ま、とにかくこっちの勝ちだ。 あの激マブねーちゃんが落ち着いたら、 目の前で勝利宣言でもして…………","Thanks. Hmm, lessee...
+ ...The Nako HQ in Shikina? What, did that place have a hidden room?
+ Tch, thought they`d escaped to someplace else. This was a blind spot.
+ Anyway, we win. Once that lady calms down, I`m gonna go rub it in her face-"
+Elite Yakuza (talking),……それは無理です。,...I`m afraid that`s impossible.
+Yamamoto Akuji (talking),………… やっぱ、死んだか？,"... What, she dead after all?"
+Elite Yakuza (talking),はい。,Yes.
+Yamamoto Akuji (talking),まあ、しゃあねえわな。 んでも、実際よく頑張ったわ、あの女。,"Well, that`s that. Still, that chick really did her best, huh."
+Elite Yakuza (talking),遺体はどう致しましょうか。,What should we do with the body?
+Yamamoto Akuji (talking),いつも通り闇から闇へって事で頼むわ。 墓石くらいは建ててもいいぜ。,"Same as usual. If you wanna give her a grave, that`s fine too."
+Elite Yakuza (talking),はっ。,"Yes, sir!"
+narrator,"──陽子が倒れ、行方不明になった事は その日のうちに全ての那古教信者に知れ渡った。
+そして──","The Nako faithful learned of Youko`s defeat and disappearance the very day it happened.
+ Then--"
+Tsukigase Nene (talking),……そうですか。 報告、ご苦労様でした。,...I see. Thanks for the report.
+nakokyou  otoko (talking),まことに……まことに、 申し訳ございませんっ……！,"I`m really, truly sorry...!"
+Tsukigase Nene (talking),"気に病むことはありません。 あなたがたは全力を尽くしたはず。
+ ……さ、顔を上げて。 任にお戻りなさい、気を強く持って。","Don`t fret. I know you must`ve done everything you could.
+ Now, raise your head. Stay strong, and return to your duties."
+__system__??,{RND \ 0:,{RND \ 0:
+Tsukigase Nene (talking),前線を離れられない聖女遙にも、 よろしく伝えて下さい。,Report this to Saint Haruka on the frontlines as well.
+__system__??,},}
+nakokyou  otoko (talking),は…………！,Haahh...!
+Tsukigase Nene (talking),"陽子……生きていてくれると 良いのだけれど……
+ ……いえ、生きていたとすれば 敵にどういう扱いを受けるか……
+苦しまずに居てくれたことを、 ただ願うばかり、か…………
+とにかく今は、陽子の代わりに、 私が由女を支えて……
+ ……………………私、が……？
+ …………そうね…… 私だけなのよ…………","Youko... I hope you`re still alive, at least...
+ But if she is, the enemy could be doing anything to her...
+ All I can do is hope you didn`t suffer...
+ Anyway, right now, I have to support Yume in Youko`s place.
+ ...I have to...?
+ ...Right... Only I can..."
+Yume (talking),………………,...
+Tsukigase Nene (talking),"……今話したのが、 その時の状況の全てよ。
+生死は確認されていないから、 陽子はあくまで行方不明なのだけれど…
+死んでいれば……闇から闇へ、 生きていてもどういう扱いを受けるか…","...What I told you is all we know of the current situation.
+ We don`t know if Youko`s alive, only that she`s disappeared...
+ And if she`s alive, we don`t know how she`s being treated..."
+Yume (talking),……言わなくていい。 想像くらい……つくよ。,You don`t have to say it. I... can imagine.
+Tsukigase Nene (talking),……ごめんなさい、由女……,"I`m sorry, Yume..."
+Yume (talking),寧々さんが、謝ったって……,"You don`t have to, Nene-san..."
+Tsukigase Nene (talking),………………,...
+Yume (talking),ねえ、寧々さん… 何かの冗談なのかな、これ……,"Say, Nene-san... Is this some kinda joke...?"
+Tsukigase Nene (talking),いいえ。 残念ながら、真実よ。,"No. Sadly, it"
+Yume (talking),…………,...
+Tsukigase Nene (talking),……冷静なのね、由女。 泣いたりするかと思っていたけれど…,"...You`re calm, Yume. I thought you`d cry."
+Yume (talking),冷静じゃ、ないよ。,I`m not calm.
+Tsukigase Nene (talking),…………ごめんなさい。 言葉が過ぎたわね……,"...Sorry, I said too much."
+Yume (talking),別に…… それを言うなら、寧々さんだって…,It`s fine... You`d say that.
+Tsukigase Nene (talking),"…………正直、実感がないのよ、私は。
+陽子がいなくなるなんて 想像もしていなかったもの。","To be honest, it hasn`t sunk in.
+ I never even imagined we`d lose Youko."
+Yume (talking),"私も……似たようなもの。
+ちょっとは、覚悟してたし…… なんとなく、嫌な予感もあって……
+だから、ああ、やっぱり……って、 そんな……感じ。","Same here...
+ I was kind of ready... I had this bad feeling...
+ So it kinda feels that yeah, it`s as I`d thought..."
+Tsukigase Nene (talking),そう……,Really...
+Yume (talking),"私と、陽子さんと……寧々さん。 ずっと、一緒だったのに……
+本当に、陽子さんだけ…… 帰ってこないのかな。","Youm, me, and Youko-san... We were always together...
+ Is Youko-san really... the only one not coming back?"
+Tsukigase Nene (talking),ええ。,Yes.
+Yume (talking),"……そう、なんだ。
+実感、ないよね。本当に……","...I see.
+ It really won`t sink in..."
+Tsukigase Nene (talking),…………,...
+Yume (talking),"ねえ、寧々さん。 一つだけ教えて。
+私、誰を恨んだらいいのかな。","Tell me something, Nene-san.
+ Who should I resent?"
+Tsukigase Nene (talking),由女……？,Yume...?
+Yume (talking),"陽子さん、一人で戦ってた訳ないよね。 周囲に、うちの信徒さんたちが たくさん居たんだよね。
+きっと……きっと、みんな、 がんばってくれたんだよね。
+だから、恨んじゃいけないよね。
+ ……恨んじゃ、いけないのに……","She didn`t fight by herself, right? She had many of our faithful with her, right?
+ I`m sure everyone there did their best.
+ So I can`t resent them.
+ ...I can`t, and yet..."
+Tsukigase Nene (talking),…………,...
+Yume (talking),"でもやっぱり、陽子さんが戦ってた人が ……奉仕青年団の人が、悪いよね。
+陽子さんを、直接傷つけた人……
+でも、山本とか言う人もいるよね。 奉仕青年団で一番偉い人が 一番悪いんだよね、きっと……","But it`s really the fault of the YCSG, her enemies.
+ The people who hurt her directly...
+ And there`s that Yamamoto man. I`m sure the leader of the YCSG is to blame the most."
+Tsukigase Nene (talking),由女……,Yume...
+Yume (talking),"…………
+どうしよう、寧々さん…… どうしよう……
+みんな憎いよ……みんな、みんな……！
+みんな何してたの……！ 本当に仕方なかったの？ 陽子さん助けられなかったの！？
+寧々さんだって無事じゃない、 なんでっ……","...
+ What should I do, nene-san...?
+ I hate everyone... everyone...!
+ What were they all doing?! Was it really hopeless? Could they not save her?!
+ You`re safe too, so why didn`t you-?!"
+Tsukigase Nene (talking),…………,...
+Yume (talking),"……っ………… …………ご、ごめん……
+解ってる……解ってるんだ。 誰も、悪くないんだよね。
+ううん、みんな悪いんだよね、 私だって、何もせずに……
+みんな悪いし、みんな悪くないし…
+ ……あ、はは……あははは…… 変だね、私、何言ってるのかな……","...! S-Sorry...
+ I... I understand. Nobody`s at fault.
+ ...No, everyone is. Even I, who did nothing to...
+ Everyone`s at fault, and isn`t.
+ ...Ahah, ahahah... What am I even saying...?"
+Tsukigase Nene (talking),"……由女、無理しないで。
+恨んでいいわ、泣いてもいい。 八つ当たりしても構わないから。
+そのつもりで、 私はここに来ているのだから。","Don`t push yourself, Yume.
+ You can cry. You can resent. You can even take it out on me.
+ I came here for that reason."
+Yume (talking),"……………… できないよ……
+寧々さんだって、 陽子さん、ずっと昔から……友達で…","... I can`t...
+ You`ve always been our friend..."
+Tsukigase Nene (talking),いいから。,It`s fine.
+Yume (talking),"………………
+う、あ………………
+ ………………ああっ──────！！","...
+ Waaah...
+ WAAAAAAAAH!"
+narrator,"由女が、寧々にすがりつく。 涙──嗚咽というより、絶叫。
+だが寧々は、 由女を抱きしめて妖しく笑う。
+寧々が、由女に対して抱いていた想い。 陽子を気遣って押し殺し続けていた欲求。
+その、同情とも愛しさとも違う暗い何かが、 寧々の中で確実に膨れ上がっていた。","Yume clung to Nene, crying and wailing.
+ Nene, in turn, embraced Yume and smiled bewitchingly.
+ The memory of sleeping with Yume. The desire she`d been suppressing for Youko`s sake.
+ A dark feeling, wholly different from sympathy and love, swelled up inside Nene."
+narrator,"──夜も更けた頃。
+教団本部内、月瀬寧々の私室前に 由女の姿があった。","--Late into the night.
+ Inside the Nako Cult HQ, Yume stood in front of Nene`s room."
+Yume (talking),"………………
+ …………寧々……さん。 まだ……起きてる……？","...
+ ...Nene-san... Are you still awake...?"
+Tsukigase Nene (talking),あら……由女。 …………どうしたの？,"My, Yume. ...What`s up?"
+Yume (talking),"…………お願い。 今夜も、一緒に……寝させて。
+一人になると、怖いから… 誰もいなくなる夢ばかり見るから…
+お願い、寧々さん……","Please... let me sleep with you tonight as well...
+ I`m scared of sleeping alone. I keep seeing dreams in which everyone is gone.
+ Please, Nene-san..."
+Tsukigase Nene (talking),"……私は、構わないわよ。
+でもね、由女…… 一つだけ訊かせて。
+あなた、昨夜のようなことを望んで、 私のところに来ているの？
+正直、私はもう、 あなたに嫌われたかもしれないと 諦めていたから……","I don`t mind.
+ However... Let me ask you one thing.
+ Did you come to me wishing for a repeat of last night?
+ Frankly, I had given up, thinking that you probably disliked me..."
+Yume (talking),"………………
+独りは、嫌だから…
+寂しいの、耐えられなくて……
+ ……だから、だから私……
+ …………寧々さんが、 必要だって、言ってくれるなら…
+ ……私……","...
+ I don`t wanna be alone...
+ I can`t stand solitude...
+ So I... I...
+ If you tell me you need me...
+ I..."
+Tsukigase Nene (talking),"……そう。
+いいわ、由女。 全部言わなくても。
+ ……もう、あなたを 独りにはしないから。","...I see.
+ Fine, Yume. You don`t have to say everything.
+ Because I won`t let you be alone anymore."
+Yume (talking),………………,...
+Tsukigase Nene (talking),"由女が望んでくれるなら… いくらでも、応えてあげる。
+あなたを支えてあげられるのは、 もう、私だけなのだから……","If it`s what you want, I`ll support you however I can.
+ After all, I`m the only one who can do so anymore..."
+narrator,"寧々は、由女の肩を抱くようにして、 彼女を部屋へと招き入れる。
+そして、小さな躰を抱きしめ 由女の唇に自分の唇を重ねていった。","Nene wrapped her arms around Yume`s shoulders and beckoned her inside the room.
+ Then, she embraced Yume`s small body and brought her lips to hers."
+cg narrator,"──由女は、陽子がいなくなったその日から、 寧々の私室で寝泊まりし始めていた。
+「…今、一人でいるのは辛いでしょう？ 　だから由女、私の部屋へいらっしゃいな…」
+そう言った寧々の厚意に、由女はすがった。
+由女にしてみれば、ただ、 大切な人が自分の側に帰ってこない寂しさを、 誰かに慰めて欲しかっただけだ。
+──初め、二人は一つのベッドの中で 抱き合って眠りについた。
+それはただ、安らぎを求めて── 他の誰かの温もりを求めての事である。
+少なくとも、由女にとってはそうだった。
+だが、抱擁はやがてキスの真似事に変わり、 ついに昨夜は躰を重ねるに至った。
+由女は、決してこれを求めた訳ではない。 だが、寧々を拒むこともしなかった。
+──そして、今夜。
+由女は、自ら望んで 寧々の私室を訪れたのである──","Ever since they lost Youko, Yume has been sleeping in Nene`s room.
+ 「You hate being by yourself now, right? 　Then come to my room, Yume...」
+ Yume had taken up Nene`s kind offer.
+ All Yume wanted was for someone to comfort her after she had lost someone dear to her.
+ At first, the two simply went to sleep while hugging each other on the bed.
+ She merely sought the peace of mind brought about by someone else`s warmth.
+ At least that`s how it was for Yume.
+ However, the hugs eventually turned into kisses, and finally into sex on the previous night.
+ Yume had never sought this. However, she did not reject Nene.
+ And then, the current night--
+ Yume had come to Nene`s room by her own will--"
+cg narrator,"──それは、性の快楽がもたらす拷問だった。
+「う……あ、アッ……！ 　やっ、やああっ…………あ……！！」
+男性器を模した玩具に秘部を貫かれていた由女が、 一際高い声で喘ぎ始めた。
+「やあっ、だめもう……ッ、寧々さ……！ 　ああ……アあっ！　ひああああ────ッ！」
+いくら言っても、由女には何もできなかった。 寧々の行為をただ受け続けるしかなかった。
+“全部、私に任せて、由女…… 　何もかも忘れられるほど、激しくしてあげる…”
+最初に寧々はそう言って由女の手首を縛り、 抵抗を封じていたのである。
+逃げ場は、なかった。
+「ひい……ッ、ひう……！　アッ……！ 　か、は……あっ、ああ…………うア……！」
+男のものと、女の秘裂を持つ由女。 それは互いに繋がり、悦楽によって反応しあう。
+玩具によって秘部を貫かれれば、 由女のものはそこから沸き上がる悦楽で硬くなる。
+──内に抱える精を吐き出そうと、震える。
+そして、女の部分を責め続ければ、高まった悦楽は 身体中に広がっていき──
+──指一本触れなくても、 やがて男の部分が耐えられなくなる。
+「あ……やあ……ああ！　…………っ────」
+　　［びゅく、びゅ、びゅっ……］
+張り裂けそうなほど大きく膨らみ、 由女の内に籠もる熱で赤く乾いたものの先端から、 とうとう大量の白濁液が迸り始めた。
+ひくひくと、しきりに痙攣を繰り返し、 悦楽の証を吐き出し続ける。
+いや、白濁だけではない。
+由女の秘裂から染み出す粘ついた淫水も、 量を増していくばかりだった。
+「あら、由女……もう達したの？」
+寧々がさも可笑しそうに笑う。 由女を悦楽で弄び、悦ぶ、嗜虐の顔。
+「まだよ、由女…… 　もっと、もっと感じ合いましょう……」
+言って、寧々は自分の腰を揺すり始めた。
+──と、由女の秘裂を貫く玩具が ぐちゃにちゃと淫水の粘ついた音を立てて動く。
+由女の胎を犯す玩具の基部は、 寧々の履く革製のショーツに固定されていた。
+まるで、二人の両性具有者が 互いを犯し合うような、その光景。
+禁忌を犯し、ヒトの得られる悦楽の枠を 越えようとする、堕天使の交わり。
+「やっ、やだ……寧々さ……だめ、だめえっ！ 　うっ、動かさ……ないでっ！　……っう……！」
+寧々が腰を揺すると、 また由女のものが射精し始める。
+──躰の内側から、 精を無理矢理押し出されているように見えた。
+「駄目なんて言っても、 　由女、あなたまだ…喋るだけの余裕があるわ」
+寧々が、笑う。楽しそうに。
+「あなたも女なら、これで満足できる筈ない… 　身動きできないほどの悦楽を教えてあげる……」
+言って、寧々はさらに腰をつかう。 由女の秘裂を犯し続け、射精を強い続ける。
+「……っハ……いああああああっ……ああっ！ 　ああ、ああ……あア──────っ……！」
+「くすっ……ほら、見て、 　あなたの出したもので辺り一面どろどろ……」
+「やあ、やはあッ……あああっ……！」
+「ねえ由女……知ってる？ 　男の人の射精は、女の絶頂と比べれば 　八割程度の悦楽で起きるんだって話……」
+言いながら、寧々は突然抽挿を弱める。 ──由女の反応を待つ。
+「え……？　あ、何…………」
+「今ですらこうなら…… 　女の絶頂に達したとき、あなたの硬くなったこれ 　……どうなってしまうのかしらね？」
+「…………っ……！」
+由女の顔が、青ざめる。 それを見て、寧々が楽しそうに笑い始めた。
+「くすくす…… 　大丈夫よ、大丈夫……… 　性の悦楽で死ぬ人なんて居ないわよ……」
+──そして、寧々はまた激しく腰を使う。
+「…………ひああああああああっ！ 　やあ、ま……待っ……も……わた…… 　……ッ、ああああああアっ────！！」
+「気持ちいい……？　由女……」
+「やあっ、やああっ……！ 　怖い、寧々さ……怖いよおっ…… 　壊れる、わた…………こわれ…………」
+「怖がらないで、投げ出して…… 　何もかも、全部捨てて……今の悦びに……」
+「あ、ひ────っ、あ…………！」
+「大丈夫、誰でも最初は怖いものよ…… 　ただ、あなたには男と女の悦楽があるから… 　普通より、感じて……だから怖いだけ……」
+「いっ、や……いや……………… 　…………っく、も……い…………っ……」
+「いいから……達しなさい、由女…… 　大丈夫、大丈夫だから…っ………！」
+「…………………っア…………！！」
+由女の躰の感覚が、喪失する。
+悦楽に塗りつぶされて、意識が消え失せる。
+「…………………………ぁ……………………」
+──意識が遠のいていく。 空白が、由女の心と体に広がっていく。
+自分を満たす、性の悦び。
+満たされれば、何も考えなくていい。
+その後にくる、虚無、空白。
+何もなくなれば、何も考えられない。
+由女が、寧々の部屋に来た理由。 ──寧々が教えてくれた、悦楽。
+今の辛さから逃げられる時間だけを、 由女は無意識に求めていたから──
+壊れるほどの絶頂でも、拒絶はしなかった。","--It was torture born out of carnal pleasure.
+ 「Nnh, ahn... aaahn! 　N-Noooo! aaaaahn!」
+ With a penis-shaped toy penetrating her special place, Yume moaned in a remarkably loud voice.
+ 「No! That`s too much, Nene-san...! 　ahn... aaahn! AAAAAHN!」
+ Yume couldn`t do anything except take whatever Nene dished out on her.
+ “Leave everything to me, Yume... 　I`ll be so rough you`ll forget everything.”
+ That`s what Nene`d said at the start as she tied Yume`s wrists, keeping her from resisting.
+ She had no way to escape.
+ 「Eeeeh! hyaaaahn! aahn! 　khah...! ahn, aaahn!」
+ Yume had both male and female parts. Connected together, they reacted to the pleasure.
+ The pleasure from the toy made her male appendage grow harder.
+ It trembled, ready to release its seed.
+ And with teasing done to her pussy, the pleasure spread throughout Yume`s body.
+ --Her male appendage was unable to endure, despite not having even been touched.
+ 「AAAAAHN! YAAAAAHN...!」
+ 　　［*Splllrt* *Splrt* *Splrrrrrt*］
+ Large quantities of semen spewed out the tip of Yume`s red-hot appendage, which had grown to its utmost limit.
+ She trembled and trembled, showcasing her pleasure.
+ --No, it was not semen.
+ The sticky love juices also kept pouring out of Yume`s pussy.
+ 「My, Yume... you already came?」
+ Nene smiled, amused. She had the face of a sadist, enjoying torturing Yume with pleasure.
+ 「Not yet, Yume... 　Let`s feel each other more...」
+ With that, Nene began thrusting.
+ That made the toy in Yume`s pussy move, producing a dirty wet sound.
+ The base of said toy was attached to a leather belt Nene had been wearing.
+ It looked as if two hermaphrodites were ravaging each other.
+ --As if they were two fallen angels, breaking a taboo by seeking carnal pleasure.
+ 「N-No, Nene-san...! You, you can`t! 　S-Stop moving...! hnnngh!」
+ When Nene moved, Yume`s appendage started to ejaculate again.
+ Her seed was practically being forced out of her.
+ 「Even if you say that, Yume, you are still 　able to talk right now...」
+ Nene smiled, clearly having fun.
+ 「If you`re also a woman, then this shouldn`t 　be enough. I`ll paralyze you with ecstasy...」
+ Nene said, then thrust harder. Yume`s ejaculation continued as she was violated.
+ 「Haaahn...! NOOOOOO! aaahn! 　Ahn, aaahn, aahn, aaaaaahn!」
+ 「Teehee... Look, you got the bed 　all sticky.」
+ 「N-Noooo! aaahn...!」
+ 「Did you know, Yume? 　A man`s ejaculation happens with just 　80% of the pleasure of a woman`s orgasm.」
+ Nene slowed down as she spoke. --She waited for Yume`s response.
+ 「Huh...? What...?」
+ 「If you`re like this now... 　What`s gonna happen to this hard thing 　when you reach a woman`s climax?」
+ 「...!」
+ Yume went pale. The sight made Nene laugh in delight.
+ 「Hahahah... 　It`s okay... Nobody`s died from 　pleasure before...」
+ Nene then resumed thrusting fiercely.
+ 「HYAAAAAHN! 　N-No... wait- I`m...! 　...AAAAAAAAHN!!!」
+ 「Does it feel good, Yume?」
+ 「Yaaaahn! yaaaaaaahn! 　Scared... I`m scared, Nene-san! 　I`m... gonna break...」
+ 「Don`t be afraid, let yourself go. 　Let it all sink into this pleasure...」
+ 「Ahhhn! hnnnngh, aaaahn...!」
+ 「It`s okay, everyone`s scared at first... 　But since you feel good as a man and a woman, 　it`s scarier since you feel it more...」
+ 「N-No... nooo... 　khhh... I`m...!」
+ 「It`s okay. Cum, Yume. 　I`m telling you, it`s okay...!」
+ 「...AAAHN...!」
+ Yume lost all sensation in her body.
+ Washed away by the pleasure, she fainted.
+ 「......ah......」
+ Her consciousness drifted away. Her mind and body went blank.
+ The carnal pleasure filled her.
+ By doing so, she didn`t have to think.
+ What followed was nothingness.
+ Thus, there was nothing to think about.
+ This was why Yume had gone to Nene`s room. For the pleasure she`d been taught.
+ Yume unconsciously yearned for some time away from her current, harsh reality.
+ She did not even refuse that brutal pleasure."
+cg narrator,"「……あら………」
+由女から玩具を抜き取りながら、 寧々はふと、気付く。
+由女の、もの。
+まだ精を残しているのか、 先端から僅かに白濁が溢れていた。
+それは、悦楽に浸って目を閉じた主とは関係なく、 狂ったように大きな痙攣を繰り返している。
+「凄い…… 　まるで、別の生き物みたい……」
+寧々は、びくんびくんと動き続けるそれに そっと唇を寄せていく。
+「…………んう、っ…………」
+張り詰めた先端に唇が触れた瞬間、 由女の背筋がぴくっと跳ねた。
+「……そう、ね。 　ずっと、触れずにいたのだから…… 　満たされていないのね、こちらは……」
+寧々は言って、 玩具のついた革のショーツを脱ぎ捨てる。
+──嗜虐の悦楽に浸っていた寧々の秘裂は、 既に充分すぎるほどの潤みを内に抱えていた。
+「後戯と言うのも何だけれど…… 　もう少し楽しませてくれるのかしら？　由女…」
+寧々は、縄を解いて由女を寝かせると、 そそり立つものを跨いで腰を下ろしていく。
+熱く湿った寧々の秘裂が、 由女のものを優しく包み、呑み込んでいく。
+熱く張り詰め、乾いていたものに 寧々の潤みが染み込んで、柔らかく癒していく──
+「…………っ、あ…………」
+女の躰の優しさに包まれる── その安堵に、由女が重い瞼を開いた。
+それは、同じ悦楽のようでありながら、 硬いものに犯される感覚とはまるで違っていた。
+「ねえ、由女……動いて。 　動けるなら、お願い…………」
+「あ……寧々さ…………」
+女として、誰かを受け止めるのは もう無理だった。できそうになかった。
+けれど、男として寧々に応える事は、 まだ、できそうな気がした。
+「………………」
+由女は、無言で頷いた。 言われるままに腰を揺すり始める。
+再度悦楽を貪って、 自分の空虚を満たすために──","「...Oh my...」
+ Nene suddenly noticed something while removing the toy from Yume`s pussy--
+ Yume`s appendage.
+ Semen still leaked from its tip a little, as if it had more seed to spill yet.
+ It twitched wildly, completely independent from its unconscious owner.
+ 「Amazing... It`s as if it`s 　a different living being...」
+ Nene brought her lips close to the still-twitching appendage.
+ 「...mmmchlp...」
+ The moment she touched the swollen tip, Yume`s spine arched hard.
+ 「...Right. 　It hasn`t been touched at all... 　This thing`s not satisfied yet.」
+ Having said that, Nene took off the strap-on she had on.
+ Nene`s pussy was already plenty wet, stimulated by the sadistic pleasure from before.
+ 「This is pretty much afterplay, but... 　Could you entertain me a little more, Yume?」
+ Putting Yume down after untying her, Nene mountedthe appendage and lowered her hips.
+ Nene`s warm, wet pussy gently enveloped the appendage, swallowing it whole.
+ The hot, swollen appendage was softly healed by Nenes`s moisture--
+ 「...! Ahn...」
+ The relief of being gently enveloped by a woman made Yume open her heavy eyelids.
+ Though it was still pleasure, what she felt in her hard appendage was like a different sensation.
+ 「Move, Yume... 　Please do it, if you can...」
+ 「Ahn... Nene-san...」
+ As a woman, she could not take any more. She felt it was impossible.
+ However, she still felt capable of fulfilling the role of a man and pleasuring Nene.
+ 「...」
+ Yume nodded silently. She began thrusting as requested.
+ All in order to receive more pleasure, and thus drown herself in nothingness--"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+narrator,──奉仕青年団・団員詰所。 その中を、月瀬寧々がうろうろと歩き回っていた。,Nene was wandering around one of the YCSG`s offices.
+Tsukigase Nene (talking),"ここかしら？　……違う。 こちら……は、鍵が合わないし……
+おかしいわ… 私の部屋はどこだったかしら……
+人が入れ替わる度に配置換えなんて、 非効率この上ないわね… こういった無駄は改善すべきよ……
+ …………？
+ ……何かしら、この部屋……","Here? ...No. What about here? ...No, the key won`t fit.
+ That`s weird... Where was my room again...?
+ Getting replaced and reassigned all the time is extremely inefficient... They should improve this.
+ ...?
+ ...What is this room?"
+narrator,"寧々は、たまたま鍵の開いていた 小さな部屋へ入っていった。
+どうやら、誰かの私室であるらしい。 物凄い量の本が山と積まれている。
+ ──いや、寧々の興味を引いたのは、 置かれている本の数ではなく、内容だった。","Nene went inside a small room which happened to be unlocked.
+ It seemed to be someone`s room. It contained a veritable mountain of books.
+ But what caught Nene`s attention wasn`t the quantity of books, but their content."
+Tsukigase Nene (talking),…………これ…………,...This is...
+Shimamoto Jun (talking),…何をしているんです？ そこは私の部屋ですが。,...What are you doing here? This is my room.
+Tsukigase Nene (talking),えっ……あ、ごめんなさい。 鍵が開いていたものだから……,"Oh... my apologies. It was unlocked, so..."
+Shimamoto Jun (talking),コーヒーを淹れるのに 席を立っていただけですからね。,"I had left to brew some coffee, that`s all."
+Tsukigase Nene (talking),"………………
+あなた…面白い本をお読みになるのね？","...
+ You read some interesting books."
+Shimamoto Jun (talking),何のことです？,What do you mean?
+Tsukigase Nene (talking),"たとえば……その机の上にある本。
+ ［情報戦における集団心の推移］とか、 ［プロパガンダ伝播の条件］とか…
+普通、娯楽で読むようなものでは ないと思って。","Like those books on your table.
+ ［”Information Warfare”, ［”How to Spread Propaganda”...
+ I don`t think those are books one normally reads for fun."
+Shimamoto Jun (talking),………… 仕事ですからね。,... It`s my job.
+narrator,島本はにべもなく言って、 書類の山を傍らに置いたタイプライタの前に座る。,Shimamoto answered curtly before sitting in front of a typewriter next to the books.
+Shimamoto Jun (talking),済みませんが、整理すべき事が 山とありましてね。 申し訳ありませんが……,"My apologies, but I`ve many things to take care of. I must ask you to-"
+Tsukigase Nene (talking),あ……ごめんなさい、 お邪魔をしてしまって。,"Oh, I`m sorry. I didn`t mean to hinder you."
+narrator,──そして、寧々は部屋を出た。,"With that, Nene left the room."
+Tsukigase Nene (talking),"………… 何かしら…
+寂しそうな目をしてる人……","... What was that...?
+ He looked so lonely..."
+narrator,──その日、団員詰所の廊下で。,"One day, in one of the office`s corridors--"
+Tsukigase Nene (talking),……あら……,Oh...
+Shimamoto Jun (talking),………………,...
+narrator,島本は寧々に一瞥をくれただけで、 黙って通り過ぎようとしたのだが──,"Shimamoto gave Nene a glance and was going to quietly continue on his way, when--"
+Tsukigase Nene (talking),…………あなたが、 奉仕青年団のブレインだったのね。,"...You`re the YCSG`s brains, right?"
+Shimamoto Jun (talking),…何のことです？,...What do you mean?
+Tsukigase Nene (talking),"ここ数日、 それとなく見ていたのだけれど ……すぐに解ったわ。
+あなた、色々な人とお友達みたいね。
+見抜かれないよう振る舞っていたけれど、 独自の情報ルート……なのかしら？","I`ve been casually watching you for a few days, but I understood right away. You`re friends with
+ all sorts of people, for starters.
+ You don`t let people see through you, and have an unique info route. Right?"
+Shimamoto Jun (talking),…………,...
+Tsukigase Nene (talking),……くす、図星？,"Teehee, did I hit the bull`s-eye?"
+Shimamoto Jun (talking),"……誤解のないように言っておくが、 俺はブレインじゃない。
+俺は情報を整理して、 若──悪司に伝えているだけだ。 考えるのも判断するのもあいつの仕事だ。","Let me make it clear: I am not the brains.
+ I only sort the information and give it to Akuji. He does the thinking and makes the decisions."
+Tsukigase Nene (talking),"………… 私の見た限りで恐縮なのだけれど…
+あなたは、それで満足できる人には 見えないのだけれど？","...My apologies, but from what I`ve seen...
+ You don`t seem like the sort to be satisfied with that."
+Shimamoto Jun (talking),そうでもないさ。 悪司は見ていて面白いからな。,That`s not the case. Observing Akuji is interesting.
+Tsukigase Nene (talking),ふうん……,Hmmmm...
+Shimamoto Jun (talking),……お前が那古教でやってたような 真似はしてないさ、月瀬寧々。,"I do not behave like you did in the Nako Cult, Nene tsukigase."
+Tsukigase Nene (talking),えっ……？,Huh...?!
+Shimamoto Jun (talking),少し、調べてみた。 実質的にあの教団を動かしていたのは お前だったようだな。,I`ve looked into you a bit. You were the one actually pulling the strings in the Cult.
+Tsukigase Nene (talking),…………何のことかしら？,...What are you talking about?
+Shimamoto Jun (talking),証拠を消してきた自信が言わせるのか？ まあ、とぼけてもらっても構わんが。,"Confident you`ve erased the evidence, eh? Well, I don`t care if you play dumb."
+Tsukigase Nene (talking),…流石ですこと。,...As expected from you.
+Shimamoto Jun (talking),ほう……認めるのか？,"Hoh, so you admit it?"
+Tsukigase Nene (talking),もう存在しない組織の事だもの、 隠し続ける気はないわ。,"The Cult is no more, so there`s no point in keeping it a secret."
+Shimamoto Jun (talking),"なるほど、潔いな。
+俺が言うのも何だが、お前、 いい動きをしていたようだな。 もっとも、最後の詰めが甘かったが…","How very gracious of you.
+ It may not be my place to say, but you made some good moves. However, your final decisions were naive."
+Tsukigase Nene (talking),……言ってくれるわね。 でも、何故？,...You`re telling me. But why?
+Shimamoto Jun (talking),……何故、だと？　何がだ？,Why what?
+Tsukigase Nene (talking),"あなたの口振りだと、 那古教における私の位置を つい最近調べたように聞こえるわ。
+所詮は解散して久しい組織。 いまさら調べる必要があったのかしら？","From what you`ve said, you`ve only recently looked into my position in the Cult.
+ Why investigate a now-defunct organization?"
+Shimamoto Jun (talking),…さあな、趣味のようなものさ。 気が向いただけだ。,"...It`s my hobby, of sorts. I just felt like it."
+Tsukigase Nene (talking),……ふうん、そう…,"...Hmm, I see..."
+narrator,──その夜も、島本は遅くまで 種々の雑多な仕事に追われていた。,Shimamoto was spending yet another night taking care of all sorts of work.
+Shimamoto Jun (talking),……………… やれやれ、進まんな……,"...Good grief, no progress at all..."
+narrator,　　［……こん、こん］,*Knock knock*
+Shimamoto Jun (talking),ノックの音……？ 誰だ、こんな夜中に。,"Knocking? Who could it be, this late?"
+Tsukigase Nene (talking),今晩は。,Good evening.
+Shimamoto Jun (talking),月瀬寧々？　…何の用だ。,Nene Tsukigase? ...What is it?
+Tsukigase Nene (talking),最近、夜遅くまで あなたの部屋の明かりが絶えないから。,Your room`s stayed lit up late into the night a lot recently.
+narrator,言って、寧々は手にしていた盆── 軽い食事と眠気覚ましのコーヒーを差し出す。,Nene then handed over the tray she was carrying. It had a light meal and some coffee.
+Tsukigase Nene (talking),どうぞ、良かったら。,"Have some, if you`d like."
+Shimamoto Jun (talking),………………,...
+Tsukigase Nene (talking),くすっ…そんなに考えなくても、 他意はないし毒も入っていないわ。,"Teehee, don`t worry so much. It`s not poisoned or anything."
+Shimamoto Jun (talking),"…いや、 そういうつもりではないんだがな。
+とりあえず、礼を言う。頂こうか。","...No, I didn`t mean to.
+ Anyway, thanks. I`ll have some."
+Tsukigase Nene (talking),ところで……ずっとお仕事？,By the way... you`ve been working all night?
+Shimamoto Jun (talking),ああ、そうだ。,Yes.
+Tsukigase Nene (talking),良かったら、手伝いましょうか？,Would you like me to help?
+Shimamoto Jun (talking),お前がか？,You?
+Tsukigase Nene (talking),もしかして、私に知られてはいけない 類の情報を処理しているのかしら？,Are you perhaps handling information you can`t let me know?
+Shimamoto Jun (talking),いや、 悪司に伝えるべき情報とそうでないものを 選別してまとめているだけなんだが。,"No, I`m only sorting it into info Akuji needs to know, and info he doesn`t."
+Tsukigase Nene (talking),"……なら、ファイリングやリスト化の ルーチンワークが主になるのね。
+人手、欲しいのではなくて？","So basically, it`s routine filing and compiling?
+ Wouldn`t you want help with that?"
+Shimamoto Jun (talking),"………………
+警戒しても仕方ないな。 なら、頼む。","...
+ No point in being cautious here. I`ll take the help."
+narrator,──そうして、数時間後。,A few hours later...
+Shimamoto Jun (talking),…………よし、問題なし。 これで終わりだ。,"...Alright, all good. We`re done now."
+Tsukigase Nene (talking),そう、良かった。 思ったより時間かかったわね。,I`m glad to hear it. That took longer than expected.
+Shimamoto Jun (talking),"そうでもない。 二人がかりでも朝までかかると 思っていたからな。
+有り難う、助かった。 何か礼をしなきゃいかんな。","Not at all. I thought it`d take until morning, even with the two of us.
+ Thanks, you were a big help. I must repay you somehow."
+Tsukigase Nene (talking),礼？,Repay me?
+Shimamoto Jun (talking),これだけ手伝ってもらって、 タダ働きという訳にもいかんだろう。,There`s no way you`d help me this much for nothing.
+Tsukigase Nene (talking),そうね…… なら、話でも。,True... Then let`s talk.
+Shimamoto Jun (talking),話？　何のだ？,Talk? About what?
+Tsukigase Nene (talking),何でもいいわ、少し話してみて。,Anything`s fine. Give it a shot.
+Shimamoto Jun (talking),"………………
+そうだな…… 裏世界で、昔、実際にあった話だ。
+ある暗黒街のボスが、 孤児院を買い取っていたんだ。
+暗黒街と慈善事業の孤児院… 似つかわしくない取り合わせだが、 そのボスには目的があってな。
+つまりそのボスは、 自分の腹心を得るため 孤児院に目をつけていた訳だ。
+純粋培養した部下なら、 自分を裏切ることもないだろう…と。","...
+ Let`s see... this is something that happened a long time ago.
+ An underworld boss purchased an orphanage.
+ It was an unfitting combination, but the boss had an objective.
+ Basically, that boss took over the orphanage so he could obtain a confidant.
+ He thought a controlled environment would produce someone perfectly loyal."
+Tsukigase Nene (talking),"ふうん…… 面白そうな話ね。
+で、うまくいったの？ その……ボスの計画。","Hm... sounds interesting.
+ So, did that boss` plan work?"
+Shimamoto Jun (talking),"ああ、ボスの目論見は正しかった。 一人の腹心を得られたんだ。
+その腹心は、ボスに受けた恩もあって 懸命に働いていたようだ。
+少年の頃は、 大学にまで行かせてもらい…
+大人になってからは 組織の幹部に取り立ててもらい、 金も女も思うままだった。
+その腹心は、ボスに対して 親以上の恩義を感じていただろうな。","Yes, his project was a success. He got one confidant.
+ He worked his hardest for the boss, to whom he was grateful.
+ He was even allowed to go to college in his youth...
+ As an adult, he became an exec  at the boss` organization, and swam in money and women.
+ To the confidant, the boss was closer to even a parent."
+Tsukigase Nene (talking),………………,...
+Shimamoto Jun (talking),"……だが、それがボスにとって 命取りになった。
+細かい仕事を腹心に任せすぎ、 いつからか理想ばかりを 語るようになって……
+そのボスは、 組織のボスたる資格をなくした。
+少なくとも、 その腹心はそう判断を下したようだ。
+理想ばかりを語る人間に、 欲望を持つ人間がついていける筈は ないからな。
+そして、腹心も…… ボスの信頼に応えようとするあまり、 頑張りすぎたのかもしれない。
+頑張れば頑張るほど、 ボスが駄目になっていくことに 気付かなかった。","...However, that proved fatal to the boss.
+ Having given the confident too many delicate jobs, he eventually started talking about ideals...
+ He was no longer qualified to be the organization`s boss.
+ At least, that`s what the confidant decided.
+ After all, a man filled with desires cannot keep up with a man who`s all about ideals.
+ Thus... the confidant, trying to live up to the boss` trust, perhaps worked too hard.
+ He didn`t realize that the harder he worked, the more hopeless the boss became."
+Tsukigase Nene (talking),ふうん……,Hmmm...
+Shimamoto Jun (talking),"……この話から学ぶことは多い。 いろいろな教訓が内に秘められている。
+例えば、誰かに依存したら 人はそこで終わる、という事。
+一見、信じられそうな人間ほど 逆に信じてはいけない。
+ ……自分と相手を 破滅させたくなければな。","There are a lot of good lessons hidden in this story. 
+ For example, what happens when you depend on someone.
+ Or how the more trustworthy a person seems, the less you should trust them.
+ ...If you don`t want both of you to be destroyed."
+Tsukigase Nene (talking),………………,...
+Shimamoto Jun (talking),すまんな、つまらん話だったか。,"Sorry, that was a dull story."
+Tsukigase Nene (talking),"いいえ、それなりに面白かったわ。 けれど……
+よくある話ね。","No, it was quite interesting. That said...
+ It`s a common story."
+Shimamoto Jun (talking),そうかな。,I wonder.
+Tsukigase Nene (talking),……ええ、よくある話だわ。,Yes... it`s very common.
+narrator,──その夜。 寧々はまた、島本の仕事を手伝っていた。,"That night, Nene was once again helping Shimamoto with his work."
+Tsukigase Nene (talking),"こちらが、数字の推移をまとめた分。 他の組織と比較したのがこちら。
+あと、便利だと思ったから グラフにした物も作ってみたわ。
+手書きで見づらいと思うけれど……","Here`s the summary of the figures, and the comparison with other RMGs.
+ I also made some graphs by hand. Thought they`d be useful.
+ But they may be hard to interpret..."
+Shimamoto Jun (talking),………………,...
+Tsukigase Nene (talking),……何か、問題でも？,...Is there a problem?
+Shimamoto Jun (talking),"いや、感心していただけだ。 よくもこれほど、とな。
+少し休憩するか。 今日はその位余裕があるしな。","No, I was simply impressed you went this far.
+ Let`s take a break. We can afford to today."
+Tsukigase Nene (talking),そうね。,Alright.
+Shimamoto Jun (talking),………………,...
+Tsukigase Nene (talking),………………,...
+Shimamoto Jun (talking),お互い、黙ったままというのも… 気持ちが悪いな。,It`s uncomfortable when we`re both silent.
+Tsukigase Nene (talking),"くす…
+ねえ、前にあなたの話を聞いた時、 私、よくある話…と言ったわよね？","Teehee...
+ Hey, remember when I said your story the other day was common?"
+Shimamoto Jun (talking),ああ、憶えているが…,"Yes, I do."
+Tsukigase Nene (talking),私の知っている話でも、しましょうか。,How about I tell you a story?
+Shimamoto Jun (talking),……聞こうか。,...Let`s hear it.
+Tsukigase Nene (talking),"私の女友達が、 昔、一人の男に入れあげてね…
+その男は、普通の男ではなかったの。 あなたと同じような仕事なのだけれど、 もっと下衆で……
+何千万という人を騙して、弄んで… それを糧に生きているような男だった。","Long ago, one of my friends、 was crazy about this guy.
+ He wasn`t an ordinary man. His job was much like yours, except way scummier...
+ He deceived and toyed with millions of people. He lived for it."
+Shimamoto Jun (talking),何千万か… 何とも壮大な話だな。,Millions? That`s quite the scale this story has.
+Tsukigase Nene (talking),"ふふ、そうね。
+ ……でも、その男は臆病だったわ。 哀れなくらいにね。
+そして男は、私の友達にすがったのよ。
+情けない男だったのよ。 彼女を逃げ道にして罪悪から目を背け、 それに没頭する……その程度の男。
+でも、彼女には優しかったみたい。
+いつも幸せそうに笑っていたわ、 あの人が私を必要としてくれるのが 嬉しいの……って。","Indeed.
+ ...Anyway, that man was a coward. Pathetically so.
+ Eventually, he clung to my friend.
+ Using her as a way out, ignoring his guilt and devoting himself to her... He was pitiful.
+ But it`d seem he was kind to her.
+ She always laughed that she was happy to be indispensable to him."
+Shimamoto Jun (talking),……ほう……,...Hoh.
+Tsukigase Nene (talking),"彼女は、男の力になりたかったらしいわ。 …やがて、男と同じに人を騙し始めたの。
+彼の感じている辛さを肩代わりしようと 彼の仕事を手伝い始めたのね。
+彼と同じ苦しみを背負えることに、 喜びを感じていた……
+でも、彼女は頑張りすぎたのよ。 やがて男以上に働くようになって……
+臆病な男は、彼女を疑い始めたの。 いつか自分をも欺くのではないか、と。
+そして……男は、彼女を罠にかけた。 謀殺しようとしたのよ。
+彼女も悲惨よね、 好いた男が自分を葬ろうとするなんて 夢にも思わなかったでしょうし。","Seemed like she wanted to help him. Before long, she started deceiving
+ others as well. She began helping with his work, to relieve some of
+ his burden. She was happy to go through the same hardships as him.
+ But she worked too hard. She eventually worked harder than the man...
+ The coward began suspecting she`d deceive him eventually, too.
+ Thus... he set a trap for her. He tried to murder her.
+ Isn`t it tragic? She must`ve never thought the man she loved would try to bury her."
+Shimamoto Jun (talking),………………,...
+Tsukigase Nene (talking),"ところがね、その彼女… 男が張り巡らせた罠に気付いたのよ。
+そして、男が首謀者と知らずに 罠を逆手に取って彼を謀殺して……
+後には、何も残らなかった。
+ねえ、彼女にとって 何が悪かったのだと思う？","Even so, she noticed the trap he`d laid out.
+ Not knowing he was behind it, she reversed the trap and killed him...
+ And in the end, there was nothing left.
+ Say, what do you think went wrong for her?"
+Shimamoto Jun (talking),………… 男を、信じすぎたんじゃないのか。,... She trusted the man too much?
+Tsukigase Nene (talking),"さすが、ご名答。
+くだらない男だと言うことを 冷静に見つめていられれば、 身の振り方は他にもあったわ。
+彼女は、彼の存在に依存しすぎたのね。
+私を信じてくれている筈だ…なんて、 他人に期待しても、ね。","Correct, as expected.
+ Had she realized he was a deadbeat, she would`ve had many other ways to deal with it.
+ She was too reliant on his presence.
+ You can`t expect others to trust you, even if you do."
+Shimamoto Jun (talking),"確かにな……解らない話じゃない。
+俺の話は、信頼に依存して… お前の話は、愛情に依存して…
+確かに、その意味では 似たような話だな。","True... I understand it.
+ In my story, they were reliant on trust. In yours, in love.
+ In that sense, they`re very similar stories."
+Tsukigase Nene (talking),ええ、よくある話でしょう？,Yep. Isn`t it a common story?
+Shimamoto Jun (talking),……………… まあ、お互い色々あったという事か。,"... Well, seems we both have had quite the past."
+Tsukigase Nene (talking),あら、お互いって…何の事かしら？,"My, “we both”? Whatever could it mean?"
+Shimamoto Jun (talking),……む……,Hrm...
+Tsukigase Nene (talking),くすっ……,Teehee...
+narrator,──その夜も、団員詰所の一室で 島本の仕事を手伝う寧々の姿があった。,It was yet another night in which Nene helped Shimamoto with his work.
+Shimamoto Jun (talking),……どうだ？　進み具合は。,...How`s your progress?
+Tsukigase Nene (talking),"ええ、これを上げてしまえば……
+ ……はい、終わり。 これで全部なのかしら？","Once I`m done with this...
+ ...There, all done. Was that everything?"
+Shimamoto Jun (talking),"ああ、終わりだ。
+当分はこれほど仕事が詰まることもない。 本当に助かった、礼を言う。","Yes, it was.
+ I shouldn`t have this much work again for a while. Thank you."
+Tsukigase Nene (talking),どういたしまして。 楽しかったわよ、色々とね。,"You`re welcome. It was fun, in many ways."
+Shimamoto Jun (talking),楽しかった……だと？,Fun...?
+Tsukigase Nene (talking),"ええ、楽しかったわよ？
+やっぱりこの手の仕事が 私には向いているのかしらね。
+狭い部屋から 世間の全てを見ているような…
+ ……くす。 変な女ね、我ながら…","Yes, you heard me.
+ As I thought, this is my kind of work.
+ Observing the world from the confines of a room...
+ ...Teehee. I`m an odd one, if I may say so myself."
+Shimamoto Jun (talking),俺も同じ様なものだ。 あながち変とも言えんだろう。,I`m much the same. I wouldn`t call you odd.
+Tsukigase Nene (talking),あら、 お互い変なだけかもしれないわよ？,Or maybe we`re both weird?
+Shimamoto Jun (talking),……確かにな、そうかもしれん。,...That may be true.
+Tsukigase Nene (talking),ふふっ……,Teehee.
+Shimamoto Jun (talking),とにかく、今夜はゆっくり休んでくれ。 毎度あてにして悪かったな。,"Anyway, rest well tonight. Sorry for relying on you so much."
+Tsukigase Nene (talking),"………………
+そうね、悪いわね。","...
+ True, you better be."
+Shimamoto Jun (talking),……？,...?
+Tsukigase Nene (talking),どうしてこんなに手伝っているのか、 少しは察して欲しいのだけれど……？,I`d like you to guess why I`ve been helping you so much.
+Shimamoto Jun (talking),"………………
+俺は、女を愛す気などない。
+そんな気持ちはどこかに忘れてきたし、 その資格もない。","...
+ I can`t love a woman.
+ I`ve forgotten what the feeling is like, and I`m unworthy."
+Tsukigase Nene (talking),……あら。 誰が愛して欲しいなんて言った？,"...My, who said I wanted you to love me?"
+Shimamoto Jun (talking),………………,...
+Tsukigase Nene (talking),"いいのよ、側に居られれば。 居心地がいいの、あなたの側は…
+それとも、あなたにとって 私の側は居心地が悪いのかしら？","I don`t mind just staying by your side. It`s soothing.
+ Or is staying by my side unpleasant to you?"
+Shimamoto Jun (talking),……いや。,...It is not.
+Tsukigase Nene (talking),くすっ……,Teehee.
+Shimamoto Jun (talking),…実際、物好きな女だよ、お前は。,...You truly are an odd woman.
+Tsukigase Nene (talking),お互い様よ…,Right back at you...
+narrator,──二人は、そっと唇を重ねていった。,Their lips softly joined together.
+narrator,同一地域に配属された由女と寧々は、 二人で街の見回りに出ていた──,"Deployed together in the same region, Nene and Yume were patrolling the town."
+__system__??,{☆那古Ｂ = 12:,{☆那古Ｂ = 12:
+Tsukigase Nene (talking),"正直言って、 もう、由女には会えないものと 思っていたのだけれど……
+まさかこうして、あなたと連れ立って 街を歩けるとは思わなかったわ。","To be frank, I thought I was never going to see you again...
+ I never expected I`d be able to walk around with you like this."
+Yume (talking),………………,...
+Tsukigase Nene (talking),由女？　……話、聞いている？,Yume? Are you listening?
+Yume (talking),えっ……？ あ、う、うん……,"Huh?! Oh, um, y-yes..."
+Tsukigase Nene (talking),……そんなに固くならないで。,...Don`t be so stiff.
+Yume (talking),別に、固くなってなんか……,I`m not...
+Tsukigase Nene (talking),私と関係した過去を消し去りたい？,Do you want to erase your past with me?
+Yume (talking),…えっ……？,Eh...?
+Tsukigase Nene (talking),"陽子を、那古教をなくして、 自暴自棄になって私と何度も関係して…
+結局、自分は生き永らえている。
+そんな自分が、気になるの？
+それとも、あんな事を強いた私が 今は憎くなった……？","You`ve lost Youko and the Cult, and thus involved yourself with me...
+ I will live out a long life.
+ Does that interest you in me?
+ Or do you hate me now after how forceful I was...?"
+Yume (talking),そんな……ことは……,That`s not...
+Tsukigase Nene (talking),"……私は陽子ではないから、 私なりの接し方や愛し方しか できないけれど。
+由女が信じてくれるなら、 応えてあげたいと思うし……
+何より、あなたにそんな態度を 取られるのは……正直、辛いわ。","...I`m not Youko, so I can only love and treat you in my own way.
+ I do want to support you if you believe in me...
+ Above all else, seeing you be like that is honestly painful."
+Yume (talking),………………,...
+Tsukigase Nene (talking),ねえ、由女…… 今夜、私のところへいらっしゃいな。,Yume... Come to my room tonight.
+Yume (talking),えっ……？,Huh?!
+narrator,寧々はやおら由女の手を掴み、 その躰を自分の元へと引き寄せる。,Nene abruptly seized Yume`s hands and brought the girl closer to herself.
+Tsukigase Nene (talking),……大丈夫。 人通りもないし、誰も見ていないから…,...It`s okay. Nobody`s out here to see us...
+narrator,"──抱きしめて囁き、由女に口付ける。
+由女は驚いて、一瞬だけ抵抗しようとしたが、 徐々に躰の力が抜け──
+最後は、口付けを受け入れた。","Nene whispered to Yume, then kissed her.
+ Surprised, Yume resisted for a moment, but soon began relaxing little by little--
+ Finally, she accepted the kisses."
+Tsukigase Nene (talking),いらっしゃいな、由女……。,"Come, Yume..."
+Yume (talking),……………… うん……,... Okay...
+Tsukigase Nene (talking),"あなたは変わらなきゃいけないわ。 一人でも生きていけるように……
+それまでは、私が支えてあげる。
+くす…… 心も、躰もね……","You have to change, even just so you can live on your own...
+ I`ll support you until then.
+ With both mind and body, teehee..."
+__system__??,},}
+Tsukigase Nene (talking),"正直言って、 もう、由女には会えないかもと 思っていたのだけれど……
+まさかこうして、あなたと連れ立って 街を歩けるとは思わなかったわ。","To be frank, I thought I was never going to see you again...
+ I never expected I`d be able to walk around with you like this."
+Yume (talking),"うん… 私も思わなかった……
+本当に良かった、 寧々さんが無事で……","Yeah, me either...
+ I`m so glad that you were safe..."
+Tsukigase Nene (talking),"くすっ… 我ながらよくぞと思うわ。
+死んでいたとしても、 不思議はなかったのだしね。","Hahah, I must say I amazed myself by pulling that off.
+ It wouldn`t have been a surprise if I`d died, after all."
+Yume (talking),うん…,Yeah...
+Tsukigase Nene (talking),陽子は……残念だったわね。 ……遙も。,It`s a shame about Youko... ...And Haruka-san.
+Yume (talking),………………,...
+Tsukigase Nene (talking),状況を聞く限り、 仕方ない、という割り切り方を するしかないのだけれど……,"From what I`ve heard, we have no choice but to accept that it was inevitable..."
+Yume (talking),寧々さんは、全部聞いているの？ 悪司さんか、それとも 奉仕青年団の人から……,Did you hear about everything that happened? Be it from Akuji-san or someone in the YCSG...
+Tsukigase Nene (talking),……？ ええ、あとは自分で少し調べて…,"...? Yes, then I investigated it myself a little."
+Yume (talking),……お願い。 話さないで……聞きたくない。,"...Please, don`t tell me about it. I don`t want to hear it..."
+Tsukigase Nene (talking),由女……？,Yume...?
+Yume (talking),"私は、元気な人についてしか 捕まったその後を聞いていないから。
+ ……耐えられないから。 全部、聞いたら……
+そうなるって、 自分で解ってるから……","I`ve only heard about what happened to the people who are well.
+ ...If I were to hear everything, I wouldn`t be able to take it...
+ I know it`d turn out like that..."
+Tsukigase Nene (talking),……強くなったのね、由女。,"...You`ve become stronger, Yume."
+Yume (talking),"……強くなんか、ないよ。 目を背けてるだけだから。
+逃げてる…だけなんだから……","I`m not strong. I`m merely averting my eyes from the truth.
+ I`m just... running away..."
+Tsukigase Nene (talking),"辛さを抱えて……それでも 日々を生きるのは、簡単じゃないわ。
+あなたがどれだけ陽子を想っていたか、 それを考えたら……","It`s not easy to keep on living while shouldering such a burden.
+ If I think about how much you loved Youko..."
+Yume (talking),"…………お願い、寧々さん。
+ ……もう……止して…………","...Please, Nene-san.
+ No more..."
+Tsukigase Nene (talking),"…………ごめんなさい、 この話はここまでにしましょう。
+だから、泣かないで。","...Sorry. Let`s stop talking about this.
+ So please, don`t cry."
+__system__??,{☆寧々 > 10:,{☆寧々 > 10:
+Yume (talking),………………,...
+Tsukigase Nene (talking),ねえ、由女… 今夜、うちにいらっしゃいな。,"Hey, Yume... Come to my room tonight."
+Yume (talking),……っ、え……？,...Huh...?
+Tsukigase Nene (talking),"食事でもしながら話しましょう。 ……いろいろとね。
+今夜だけじゃないわ。 私はどこにもいかないから、 耐えられなくなったらいらっしゃい。
+ ……一人よりは、ずっといいから。","Let`s talk over some dinner. ...About all sorts of things.
+ And not just tonight. I`m not going anywhere, so come see me when you can`t endure it.
+ ...It`s better than being alone."
+Yume (talking),うん……,Okay...
+Tsukigase Nene (talking),あっ……でも今、私の家は 私一人で住んでないのだけれど…,Ah! ...But I`m not the only one living in my house right now.
+Yume (talking),……？　何、それ？,...? What?
+Tsukigase Nene (talking),"……まあ、今夜紹介してあげる。 仕事が詰まっていなければ 帰ってくると思うから。
+根はいい人だから、あなたの事を 可愛がってくれると思うのだけれど…","Well, I`ll introduce you tonight. He should be home if he`s not swamped with work.
+ He`s a good person at heart, so I think he`ll dote on you..."
+Yume (talking),……？？？,...???
+Tsukigase Nene (talking),そんな怪訝な顔しなくても…大丈夫よ。,You don`t need to act so perplexed.
+__system__??,},}
+Yume (talking),"………………
+ねえ……寧々さん。 寧々さんはいなくなったりしないよね？","...
+ Say, Nene-san... You`re not going anywhere, right?"
+Tsukigase Nene (talking),えっ……？,Eh?!
+Yume (talking),寧々さんは、ずっと… ずっと……ここに居るよね？,"You`ll always... always be around, right...?"
+Tsukigase Nene (talking),"………………
+くす…… ええ、居るわよ、ずっとね。
+あなたが望んでくれるのなら、 いつまででも側にいてあげる……","...
+ Teehee... Yes, I`ll always be here.
+ If you wish, then I`ll be at your side forever."
+narrator,"言って、寧々が由女の肩を抱くと、 由女は寧々を頼るように躰を預けてきた。
+ ──寧々が、妖しく笑う。","Nene then hugged Yume, who in turn entrusted her body to Nene.
+ --Nene smiled bewitchingly."
+Tsukigase Nene (talking),ねえ由女…… 今夜、私の家にいらっしゃいな。,"Yume, come to my house tonight."
+Yume (talking),えっ……？,Huh...?
+Tsukigase Nene (talking),話したいことも色々あるし…… 食事でもしながら、ね？,"I have lots to talk about with you, so let`s do it over a meal, OK?"
+Yume (talking),う、うん……行くよ、絶対行くから！,O-Okay! I`ll definitely be there!
+Tsukigase Nene (talking),くす……,Teehee...
+Tsukigase Nene (thinking),"……陽子、安心してね。 あなたの分まで由女を支えてあげるから…
+もっとも、私は私なりの愛し方しか できないけれど……
+ ……恨まないでね…","...Be at ease, Youko. I`ll support Yume in your place.
+ However, I can only do so in my own way...
+ ...Don`t hate me for this..."
+Tamanegi (talking),……千手君。,...Senju-kun.
+Ishihara Senju (talking),ん？ タマネギ、何か用？,"Hm? What do you need, Tamanegi?"
+Tamanegi (talking),以前君にお願いした、 月瀬寧々の調教ですが……,"About Tsukigase Nene`s training, which I`d left up to you..."
+Ishihara Senju (talking),あー、あれ？ 大丈夫、手は抜いてないよ。 今からやろうと思ってたんだ。,"Oh, that? Don`t worry, I In fact, I was about to start."
+Tamanegi (talking),いえ、 別に催促ではなく……,"No, I`m not really pressing you..."
+Ishihara Senju (talking),もうちょい待ってよ、 あのおねーちゃん いまいちノリが悪くてさー。,"Wait a little longer, I can`t really get into the groove with her."
+Tamanegi (talking),"千手君… 最初に彼女を預けた時も 説明したとは思いますが……
+彼女は性技において 既に抜きん出たものを持っています。 それほど丹念な調教は……","Senju-kun... I believe I`ve already told you this when I left her with you.
+ Her sexual technique is already outstanding. You don`t have to-"
+Ishihara Senju (talking),"……必要ないってんだろ？ わかってるってば。
+ “問題なのは、男に対して 　常に精神的優位に立とうとする 　無意識の言動なのです……”
+なーんつってさ、 何回聞かされたかわかんないよ。 わかってる、わかってるよ。","...Train her so meticulously, right? I know.
+ “The issue is that she`s always 　trying to unconsciously take the 　upper hand over men...
+ I`ve lost count of how many times you told me that. I know already."
+Tamanegi (talking),"なら良いのですが……
+とにかく、ほんの少しで良いのです。 ほんの少しだけ、彼女には 男性への服従心を養ってくれれば。","Then that`s good.
+ Anyway, even if it`s just a little bit, try to make her more submissive to men."
+Ishihara Senju (talking),"だからさー、 そのちょっとが難しいんだってば。
+だいじょぶ、だいじょぶだって。 ボクもプロなんだからさ、 仕事の期日は守るって。
+タマネギもさー、 あんまり心配するとハゲるよ？ ……もうツルッパゲだけど。","Look, even that little is pretty difficult.
+ But don`t worry, I`m also a pro, I`ll meet my job`s deadlines.
+ So don`t stress, Tamanegi, or you`ll go bald. ...Well, balder. Somehow."
+Tamanegi (talking),……………… とにかく、頼みますよ。,"... Anyway, I`m counting on you."
+Ishihara Senju (talking),"………… もう行ったかな？
+ホントはもうとっくに、 あのナマイキ寧々の調教 終わってるんだけどねー。
+ ……面白いんだもん、 あんな女がボクに怯えてんの。へへ。
+ま、時間いっぱいまで たあっぷり遊ばせてもらうさっ。","... Is he gone?
+ I`ve actually long since finished traning that cheeky Nene bitch.
+ ...It`s so funny to see her be afraid of me, heheheh.
+ Well, I`m gonna have a ton of fun with her `til time`s up."
+narrator,千手は楽しそうに笑いながら、 寧々を閉じこめてある地下の一室へと向かった。,"Senju gleefully smiled, then headed towards the cell in which Nene was being confined."
+cg narrator,"「……やあ、寧々。調子はどう？」
+千手はにこやかに話しかけたが、 今の寧々に答えられる筈はなかった。
+──もはや、それは調教と呼べるものではなかった。
+身じろぎはおろか、 まともな言葉一つ吐くことを許されない──拷問。
+「うあ……か、かは……あ、うあ……」
+拘束具を震わせながら寧々が何か話そうとする。
+「が、げほ……う、っぐ……」
+しかし声にはならず、 球状の拘束具が噛まされた口からは 唾液の雫が垂れるのみだ。
+「へへー、辛そうだね、寧々。 　でもまだやめないよ。気持ちよくなるまではね」
+出来る訳がないことを千手が強いる。 寧々も「無理だ」と言わんばかりに弱々しく首を振る。
+「大丈夫だよ……寧々は真性のインランだから、 　痛いのも苦しいのもぜーんぶ気持ちよくなるって」
+言いつつ、千手の指が寧々の肌を這う。
+──縛られて鬱血し、 色が変わり始めた部分ばかりを執拗に触る。
+「ひぐ……っ、ううう……！！」
+「あれ？　まだ痛いの？」
+千手が聞くと、寧々はこくりと頷いた。
+寧々は、目隠しの下で泣いているのだろうか、 拘束具から漏れる息が哀しげに震えている。
+「しょーがないなあ。 　じゃあ、気持ちよくなるおまじないしてあげる」
+言って、千手はポケットから 軟膏薬の小さなチューブを取り出した。
+そのチューブを捻って指先に取ると、 揮発性の奇妙なにおいが微かに漂い始める。
+「クスクスクスクス…… 　さーて、隅の隅まで塗りたくってあげるからね」
+千手は、軟膏──媚薬の乗った指を 寧々の秘裂に押しつける。
+「…………っく…………！」
+縛られて広げられたの脚では、 千手の手を拒むどころか 秘裂を隠すこともできない。
+押し広げられた寧々の秘裂を、肉の襞を、 子供の小さな指が這い回り、犯す──
+「わー……すごいねー、寧々。 　ばっくり開いてひくひく動いてるよ？」
+秘裂を覗き込んでわざとらしく千手が言う。 寧々はただ耐えるしかない──
+「あ……わわっ、指入れたら絡みついてきた。 　……ねー、寧々。 　寧々はココで何人の男くわえこんだの？」
+屈辱の言葉を浴びせながら、 千手はなおも指を動かし続けている。
+「寧々は美人だもん、男がほっとかないでしょ。 　一人ってことはないなあ。 　五人？　十人？　それとも、もっと？」
+そして、膣内に指を入れたまま、 媚薬でねとつく陰核のあたりを親指の腹で撫で回す。
+「あう……うああ……！　あか、かっ……が……！」
+寧々が苦痛とも悦楽ともつかない声を上げる。
+──千手の指遣いは、断じて性技などではない。 こうすれば女の躰が最も反応する、いじれば面白い、 それ以外には何も考えていない。
+だが、そう解っていても、 寧々の躰は少しずつ反応し始める。
+　　［ちゅ……くちゅ、ず、ぐぷ……］
+突き入れ、捻り、揺さぶり、掻き回す── 千手の指の動きに合わせて、 寧々の秘裂が重い水音を立て始めていた。
+「……クスクスクス。 　寧々の中が熱くなってきたよ。 　ちょっとずつ濡れてきてるし……」
+「あ……あく、くは……う、かッ……」
+「すごいね……ボクの指なんかで気持ちいいの？ 　吸い付いてきてるよ。 　クスクス、クスクスクス……」
+「ううっ…………うううっ…………！」
+「あ、乳首も立ってる。 　ねーねー、触って欲しいの？　そうだよね？」
+「んぐ……！　ううっ、うう…………！」
+「一生懸命首振ったって、格好だけでしょ？ 　縛られて、ボクみたいな子供にいじり回されて、 　それで感じちゃってるんでしょ？」
+「ああ……うああああ……あああ…………」
+「アハハ……口がモゴモゴ動いてるねー。 　涎がぼたぼた落ちて止まらなくなってる。 　ねーねー、そんなに気持ちいい？」
+「…………うう、うううッ…………」
+「……インラン」
+ぽつりと呟いたのと同時に、千手は いつの間にか手にしていた極太のディルドーを 淫水でぬめりつくした秘裂に突き立てる──
+　　［……ずっ……］
+「…………ッう────！！ 　っう、んぐ──────ッ！　う………！！」
+ディルドーを突き立てた瞬間、寧々の躰が暴れた。 背を逸らしガクガクと首が揺れ、躰が震える。
+「そーそー……インランはインランらしく、 　躰の痛さなんか気にせずに、 　そうやって突っ込まれてヨガってりゃいいんだよ」
+「うう……うあう……うか、あか……ああ……！」
+「ほらほら、イキたいんでしょ？　イクんでしょ？ 　ズボズボのめっちゃくちゃにしてあげるからさー、 　ほら……遠慮すんなよ」
+「うあ────！　はあっ、あ……っ────！」","「...Hey, Nene. How are you doing?」
+ Senju spoke cheerfully, but there was no way Nene could answer him at the moment.
+ That could no longer be called training.
+ It was torture so severe Nene could barely speak, let alone move.
+ 「Ah... khah, ah... hah...」
+ Nene tried to speak as she shook her bindings.
+ 「Gah... cough! cough!」
+ However, all that came through the ball gag in her mouth were grunts and drops of spit.
+ 「Heheh, that looks painful. But I`m not 　stopping until you feel good from it.」
+ Senju forced her to do something she couldn`t. Unable to say anything, Nene shook her head.
+ 「It`s okay, you`re perverted by nature, 　so all this pain will soon feel good.」
+ Senju ran his finger across Nene`s skin.
+ He only touched the parts of her body that were congested with blood from her bindings.
+ 「Hngh! hnnnnngh!」
+ 「Oh? Does it still hurt?」
+ Nene nodded at Senju`s question.
+ Crying behind her blindfold, Nene`s voice was shaky and miserable.
+ 「Can`t be helped, I`ll give you a good 　luck charm to make it feel better.」
+ With that, Senju took out a small ointment tube out of his pocket.
+ He squeezed some of it onto his fingertip, making its unusual, faint smell spread.
+ 「Heeheehee... 　Now then, I`ll spread this all over you.」
+ Senju pushed the finger with the ointment, and aphrodisiac, against Nene`s pussy.
+ 「Khh...!」
+ With her legs being tied open, Nene couldn`t hide her pussy, let alone stop Senju.
+ His small, child-like finger crept inside Nene`s spread pussy.
+ 「Wow, amazing, Nene. 　You`re gaping open and twitching.」
+ Senju deliberately spoke after looking. Nene could do nothing but endure it.
+ 「Wow, it`s wrapping around my finger. 　...Say, Nene, how many men have 　you had?」
+ Senju kept moving his finger as he verbally humiliated Nene.
+ 「You`re beautiful, so men must not  　leave you alone. Well then, how many? 　Five? Ten? Maybe more?」
+ With his finger still inside, Senju kneaded her clitoris with his thumb, slick with the drug.
+ 「Aaaaahn! haaahn, khaaah...! gahhh!」
+ Nene`s voice was not one of pain or pleasure.
+ Senju employed no technique with his movements, and only thought about teasing the spots that`d provoke the most amusing reactions.
+ But even though she knew that, Nene felt her body slowly start to respond.
+ 　　［*Chrllp* *Slllsh*］
+ As Senju thrust, stirred and kneaded, a dirty wet noise came out of Nene`s pussy with every movement.
+ 「...Heeheehee, 　it`s gotten hot inside you. 　And wetter, too...」
+ 「Ah... khah, ahn... hnnngh!」
+ 「Amazing... you`re feeling good from 　my finger? It`s sucking me in. 　Heeheehee...」
+ 「Uuu... hnnngh!」
+ 「Oh, your nipples are hard as well. 　You want me to touch them, don`t you?」
+ 「Hnnngh! mmmmmnh, mmmmph!」
+ 「You`re shaking your head, but you don`t 　mean that. You`re feeling good from being 　tied up and teased by a kid, aren`t you?」
+ 「Aaaahn... waaaaahn! aaaahn...!」
+ 「Ahaha, you`re getting slack-jawed. 　Look at all that spit dripping down. 　Does it feel that good, Nene?」
+ 「...Hnnnngh...!」
+ 「...Slut.」
+ As he mumbled, Senju took a large dildo and shoved it inside Nene`s sopping wet pussy--
+ 　　［*Sllsh...*］
+ 「...HNNGH! 　mmmgh, hnnngh! khah!」
+ The second the dildo was shoved inside her, Nene`s body trembled and her back arched.
+ 「Good... sluts like you should just 　ignore the pain and enjoy getting 　something shoved inside you.」
+ 「Uuu... hnngh... aahn, khahh... aaaahn!」
+ 「Come one, you wanna cum, right? 　I`m gonna mess you up real good, 　so... don`t hold yourself back.」
+ 「Aaaaahn! HAAAAAAAAAAHN!!!」"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+cg narrator,"──さんざん責めぬいたあと、 千手は寧々を拘束するロープを解いて 躰を解放してやった。
+だが、寧々はさすがに身動きできないらしい。
+弄ばれてグズグズに濡れ尽くした秘裂もそのままで、 寧々は地下室の石床に倒れ伏している。
+ 「おっと…… 　目隠しと口のヤツ、取ってあげなくちゃね」
+言って、千手が寧々の顔を歪め、 隠していたものを全て取り去った。
+ ──苦痛に歪んで見えたのは、わずかな間だけだった。
+千手の顔を見上げる寧々の目は、 今なお、歪んだ被虐の悦びに潤んでいた──
+ 「……寧々、どう？　気持ちよかった？」
+嘲って言う千手に、寧々は微笑みで答える。
+ 「……は、い…………千手様………… 　可愛がって、頂いて……寧々は、幸せです……」
+ ──それは、寧々の演技なのかもしれなかった。
+だが、寧々はこれ以後も、 千手が誘えば虐げられることを拒まなかったし、 娼館の客にも従順であり続けた。","After having thoroughly teased Nene, Senju untied the rope binding her and freed her body.
+ However, Nene seemed to be unable to move.
+ Nene remained crumpled on the cold stone floor, her pussy still wet and loose.
+ 「Whoops, forgot to take out 　the gag and the blindfold.」
+ Senju then tilted Nene and removed those objects from her.
+ --She only looked pained for a brief moment.
+ Nene`s face was tinged with masochistic pleasure as she looked up at Senju.
+ 「Well, Nene? Did that feel good?」
+ Nene answered Senju with a smile.
+ 「...Yes... Senju-sama... Nene is so happy 　 that you... gave her your love...」
+ It`s possible that Nene was faking it.
+ However, from then on, Nene`d never refuse when Senju went to abuse her, and she remained submissive to her customers..."
+ (talking),こういう事、 あまり得意ではないのだけれど。 ……必要なら躊躇いはしない。,This isn`t really my specialty... but I won`t hesitate if it must be done.
+ (talking),戦えと言われたら戦うしかないのが 今の私の立場だけれど…… 気が重いわ…………,"I have no choice but to fight when I`m told to now, but... This sure is depressing..."
+ (talking),………………由女……,...Yume...
+ (talking),……？ この女の人、どこかで……,...? Have I seen her before...?
+ (talking),……！　あなた、私が判るの？！ お願い、こんな事はもうやめて頂戴！,"...! Do you recognize me?! Please, stop doing this!"
+ (talking),……………ううん、気のせいかな。 うん、やっぱり初対面だよね……,"...No, I`m imagining it. Yeah, I`ve never seen her before."
+ (talking),由女っ……！,Yume...!
+ (talking),……馴れ馴れしい人だなあ、 敵同士なのに……,"...You sure are too friendly, despite being my enemy..."
+Shimamoto Jun (talking),……悪司のオオサカ全域制覇を祝って。,...Here`s to Akuji controlling Osaka.
+Tsukigase Nene (talking),……あなたの見立てが 正しかった事を祝って。,...Here`s to your judgement having been correct.
+narrator,二人は言って、 酒の注がれた猪口を同時にあおった。,The two drank their sake cups at the same time.
+Tsukigase Nene (talking),……どう？ 今の気分は。,So? How does it feel?
+Shimamoto Jun (talking),愉快だな、いい気分だ。,"It`s pleasant, I`m in a good mood."
+Tsukigase Nene (talking),あら……珍しいのね。 あなたがそんな風に言うなんて。,My... how rare to hear you say that.
+Shimamoto Jun (talking),こんな時くらい素直になるさ。,I`ll be honest at times like these.
+Tsukigase Nene (talking),そうね、こんな時でなければ 私と数日ゆっくり過ごそうなんて 言い出さないわよね？,"Right, you wouldn`t have suggested to spend some days with me otherwise, no?"
+Shimamoto Jun (talking),いや、前から二人で どこかに行こうとは思っていたんだが。,"No, I`ve been thinking about this for a while now."
+Tsukigase Nene (talking),"くす…… そういう事にしておくわ。
+それで、これからどうするの？ 一応は一区切りついた事になるけれど。","Teehee... I`ll leave it at that.
+ So, what will you do now? After from this break, I mean."
+Shimamoto Jun (talking),"今までと変わらんさ。 悪司を助けながら、奴のする事を 見物させてもらう。
+今回で不確定要素が消えた。 あいつはいずれ、 ニホンを影で牛耳る事になる。
+本人が望む望まないに関わらず、 気が付けばそうなっているだろうな。","The same as always. I`ll help Akuji, and watch him achieve new heights.
+ This incident has eliminated all variables. He will control all of Japan one day.
+ Whether he wants to or not, it`ll happen."
+Tsukigase Nene (talking),ふうん……,Hmmm...
+Shimamoto Jun (talking),で、お前はどうするんだ？,"So, what about you?"
+Tsukigase Nene (talking),"私も今までと変わらないわよ。
+居心地がいい人の側に居て、 その人の側で、色々と面白い事に 手を出させてもらって。
+ ……そのままお婆さんになるのも 悪くないかしらね。","The same as always.
+ I`ll stay with the person I like, and help them with whatever I find interesting.
+ ...Growing old doing that doesn`t sound half-bad."
+Shimamoto Jun (talking),それは心強いな。,That`s reassuring.
+Tsukigase Nene (talking),くす…… もう一杯飲む？,Teehee... Care for another drink?
+Shimamoto Jun (talking),ああ、頼む。,"Yes, please."

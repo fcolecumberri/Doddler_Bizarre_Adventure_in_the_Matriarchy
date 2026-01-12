@@ -1,0 +1,761 @@
+character,Jap,Eng
+Yamamoto Akuji (talking),さぁて、ついた。,"Alright, this is the place."
+__system__??,{RND \ 0:,{RND \ 0:
+Aoba Youko (talking),何度かきた事があるんですか？,Have you been here before?
+Yamamoto Akuji (talking),ん？,Hm?
+Aoba Youko (talking),そういう口ぶりでしたから。,It`s the impression I got.
+Yamamoto Akuji (talking),ああ、親父の付き添いとか。 地域管理組合と市議会は、切っても 切れない関係だからな。,"Yeah, as part of my dad`s entourage. The RMG and the CC have an unbreakable bond, after all."
+Aoba Youko (talking),ああ…,I see...
+Yamamoto Akuji (talking),なんだ、冷めた納得のしかただな。,Pretty lukewarm reaction.
+Aoba Youko (talking),私の感情を説明しても、多分、 悪司さんにはわからないと思うので。,You wouldn`t understand my feelings even if I were to explain them.
+Yamamoto Akuji (talking),どーだかなー。,I wonder about that.
+Aoba Youko (talking),とにかく、今、あなたは 私の付き添いです。 勝手に行動しないで下さい。,"Anyway, right now, you`re my escort. Please don`t act on your own."
+Yamamoto Akuji (talking),はいはーい。,Yeah yeah.
+Yamamoto Akuji (thinking),嘘だけど。,As if.
+narrator,悪司達は中に入り、窓口へと向かった。,The duo went inside and towards the counter.
+Aoba Youko (talking),"ミドリガオカを任されている 奉仕青年団の者ですが、今後のご指導を 伺いたくまいりました。
+担当の監督官の鴉葉さんは おられますか？","I`m from the YCSG in charge of Midorigaoka. I`m here to ask for some counsel.
+ Is Inspector Karasuba present?"
+narrator,青葉がそう言うと、職員は鴉葉を 呼びに行った。,The receptionist left to call Karasuba.
+karasuba  tsuki (talking),あーごめんごめん。 おっまたせー。,"Oh my, sorry to keep you waitiiing."
+Yamamoto Akuji (talking),軽ぅーーー！,Damn is this guy informal!
+Yamamoto Akuji (thinking),"しかも若いな。 戦争後で、市議会も人手不足って事 なのか？
+ …それとも、こっちが軽く 見られてるっていう事かもなー…
+ ……ま、古狸相手にするよりか、 話が早いかもしんねーな…","And young, too. Was the CC also short on hands after the war?
+ Could also be that we`re being taken lightly...
+ Well, should be easier to deal with than some old badger, at least."
+karasuba  tsuki (talking),あれ？ こっちのＧＵＹは？ 新顔？,Ohoh? Who`s this dude? A newcomer?
+Aoba Youko (talking),あ…こちらは…,"Oh, this is..."
+Yamamoto Akuji (talking),青葉が表番だとすると、 俺は奉仕青年団の裏番だ。,I`m the one running the YCSG from the shadows. Aoba`s my figurehead.
+karasuba  tsuki (talking),"……………
+ぷっ……
+ぷーーっ！！ イッカスー！ 裏の番長さんかー！
+じゃあ、今は、青葉さんってより、 あんたが、ミドリガオカの奉仕青年団を 動かしてるって訳？","...
+ Pfft.
+ Pfahahahah! That`s a good one! So you`re Mr. Secret Leader!
+ Then does than mean you`re the one calling the shots in the YCSG, rather than Aoba?"
+Yamamoto Akuji (talking),ああ。,Yeah.
+karasuba  tsuki (talking),んでー。 青葉さんと、そーいうアレ？,"Sooooo, are you and Aoba-san, y`know...?"
+Yamamoto Akuji (talking),何が？,What?
+karasuba  tsuki (talking),とっぼけちゃってー。 ヤルなー。 青葉さん、既婚者なのに。,"Aww, playing dumb, are we? Way to go, tiger. Aoba-san`s already married, too."
+Yamamoto Akuji (talking),さーどーだかな。,I ain`t saying shit.
+Aoba Youko (talking),わ、私は！,I-I`m not-!
+Yamamoto Akuji (talking),青葉。,Aoba.
+Aoba Youko (talking),な、何…？,Wh-What...?
+Yamamoto Akuji (talking),少し黙ってろ。 いいな。,"Shut up for a sec, alright?"
+Aoba Youko (talking),……山本さん？,...Yamamoto-san?
+__system__??,},}
+__system__??,{RND = 0:,{RND = 0:
+Seinendan Jyoshi (talking),何度かきた事があるんですか？,Have you been here before?
+Yamamoto Akuji (talking),ん？,Hm?
+Seinendan Jyoshi (talking),そんな感じが…,It`s the impression I got
+Yamamoto Akuji (talking),ああ、親父の付き添いとか。 地域管理組合と市議会は、切っても 切れない関係だからな。,"Yeah, as part of my dad`s entourage. The RMG and the CC have an unbreakable bond, after all."
+Seinendan Jyoshi (talking),"そうだったんですか。
+じゃあ、入りますけど、 いいですか？","Is that so?
+ Anyway, we`re going in, okay?"
+Yamamoto Akuji (talking),おう。,Yeah.
+narrator,悪司達は中に入り、窓口へと向かった。,The duo went inside and towards the counter.
+Seinendan Jyoshi (talking),"ミドリガオカを任されている 奉仕青年団の者ですが、今後のご指導を 伺いたくまいりました。
+担当の監督官の鴉葉様はおられますか？","I`m from the YCSG in charge of Midorigaoka. I`m here to ask for some counsel.
+ Is Inspector Karasuba present?"
+narrator,職員は鴉葉を呼びに行った。,The receptionist left to call Karasuba.
+karasuba  tsuki (talking),あーごめんごめん。 おっまたせー。,"Oh my, sorry to keep you waitiiing."
+Yamamoto Akuji (talking),軽ぅーーー！,Damn is this guy informal!
+Yamamoto Akuji (thinking),"しかも、若いな。 戦争後で、市議会も人手不足って 事なのか？
+ …それとも、こっちが軽く 見られてるっていう事かもなー…
+ ……古狸相手にするよりか、 話が早いかもしんねーな…","And young, too. Was the CC also short on hands after the war?
+ Could also be that we`re being taken lightly...
+ Well, should be easier to deal with than some old badger, at least."
+karasuba  tsuki (talking),あれ？ こっちのＧＵＹは？ 新顔？,Ohoh? Who`s this dude? A newcomer?
+Seinendan Jyoshi (talking),あ…こちらは…,"Oh, this is..."
+Yamamoto Akuji (talking),俺は、山本悪司。 奉仕青年団の裏番だ。,"I`m Yamamoto Akuji, the one running the YCSG from the shadows."
+karasuba  tsuki (talking),"……………
+ぷっ……
+ぷーーっ！！ イッカスー！ 裏の番長さんかー！
+じゃあ、今は、青葉さんってより、 あんたが、ミドリガオカの奉仕青年団を 動かしてるって訳？","...
+ Pfft.
+ Pfahahahah! That`s a good one! So you`re Mr. Secret Leader!
+ Then does than mean you`re the one calling the shots in the YCSG, rather than Aoba?"
+Yamamoto Akuji (talking),ああ。,Yeah.
+__system__??,},}
+karasuba  tsuki (talking),"やまもと…
+ひょっとして、あんた、わかめ組に いなかった？ どこかで見たと思ったら。","Yamamoto...
+ Were you part of the Wakame Family, by any chance? I feel like I`ve seen you before."
+Yamamoto Akuji (talking),"ああ、そうだ。 俺は、わかめ組の跡取りだ。
+何回かここにきていた事があるから、 その時にでも顔を見てるんだろ。","Yeah, that`s right. I`m the Wakame Family`s heir.
+ I`ve come here a few times before, so that`s probably it."
+karasuba  tsuki (talking),わかめ組の跡取りが、どうして 慈善事業の奉仕青年団の代表さんと つるんでるの？,And why is the Wakame Family`s heir the leader of a philanthropic organization like the YCSG?
+Yamamoto Akuji (talking),"俺が、お国の為に戦っている間に、 馬鹿に好き勝手されちまってな。
+馬鹿から組を奪い返す為には、 色々とな。","Because some idiots fucked the Family up while I was out in the war.
+ Now I`m trying to take the Family back from those idiots."
+karasuba  tsuki (talking),あー、なるほどー。 それで、奉仕青年団にー。,"Aah, I see... So for that purpose, you took over the YCSG."
+Yamamoto Akuji (talking),"そういう事だ。
+俺が青葉と一緒にここへきたのは、 あんただったら色々と話が早いと 思ってな。","That`s the gist of it.
+ We came here because I thought you`d catch onto things quickly."
+karasuba  tsuki (talking),どーいう事？,What do you mean?
+Yamamoto Akuji (talking),私腹を肥やしてるのは、どうしてだ？,How`d you like embezzling?
+karasuba  tsuki (talking),んー？,Hmmm?
+Yamamoto Akuji (talking),とぼけるなよ。 地域管理組合の跡取りなんだぜ、俺は。,Don`t play dumb. I`m a RMG`s heir.
+karasuba  tsuki (talking),早かったなー。 もーちょっと、お小遣いに困らない 生活が出来ると思ったのにー。,"Man, that was quick. And I thought I could live the easy life for a little longer..."
+Yamamoto Akuji (talking),全部返せとは言わねーよ。,You don`t hafta give it all back.
+karasuba  tsuki (talking),へ？,Eh?
+Yamamoto Akuji (talking),その代わり、見て見ぬフリが 出来るとこはしといてくれって事だ。 ５分と５分でいこうや。,"Instead, I`ll have you turn a blind eye to our shit whenever you can. Also, let`s make it 50-50."
+karasuba  tsuki (talking),……へえ… さすが、跡取り。 お金の使い方、知ってるって事かー。,"Heh, that`s the heir for you. You know exactly how to deal with money."
+Yamamoto Akuji (talking),青葉よりはな。,"Better than Aoba, anyway."
+karasuba  tsuki (talking),"青葉さんもねー。
+いい人だとは思うけど、もうちょっと、 世間知った方がいいかなーとか 思ったり。","Yeah, about Aoba...
+ She`s a good person, but I think she`d do well to know how the real world works."
+Yamamoto Akuji (talking),それを利用してた奴のセリフじゃあ ねぇな。,That`s rich coming from someone who exploited her.
+karasuba  tsuki (talking),"そりゃそーだ。
+僕、あんたの事、好きだなー。 仲良くやってきたいな。","I guess that`s true.
+ I kinda like you, to be honest. I`d love it if we could get along."
+Yamamoto Akuji (talking),じゃあ、さっそく、好きってのを態度で 示してもらうとすっかな。,Then let`s have you show me that you mean it right away.
+karasuba  tsuki (talking),へ？ いや、肉体的には、ちょっと…,"Oh? I`m sorry, but I don`t swing that way..."
+Yamamoto Akuji (talking),"そりゃこっちだってごめんだ。
+補助金だよ。 さっきも言ったろ？","Neither do I.
+ I`m talking about our subsidy. You said it yourself, right?"
+karasuba  tsuki (talking),あー… そっかー…,"Aaaah, now I get it..."
+Yamamoto Akuji (talking),補助金の全額、本当はいくらだい？,"How much is it, actually?"
+karasuba  tsuki (talking),２００万ですよ。,2000k yen.
+Yamamoto Akuji (talking),おいおい。 おめーは、好きな相手に嘘つくのかい？,Come the fuck on. You`d lie to me after what you just said?
+karasuba  tsuki (talking),"んんーー… ホント、まいったなー。
+正直に言うよ。 ４５０万。 これは、嘘ついてない。","Hmmmm, I really can`t beat you, can I.
+ I`ll tell you the truth, then. It`s 4500k yen. Cross my heart."
+Yamamoto Akuji (talking),じゃあ４００、奉仕青年団に回せ。,Then you`ll give 4000k to the YCSG.
+karasuba  tsuki (talking),えっ？ 全額、いらないの？,Huh? You don`t want the full amount?
+Yamamoto Akuji (talking),"欲しいが、それだとあんたは、 俺の事、好きでい続ける事は 出来ねーだろ？
+もちつもたれつ。 美しい利害関係じゃねーか。","I do, but we wouldn`t remain friends for long that way, right?
+ I`m talking give-and-take. It`s to both of our interests, ain`t it?"
+karasuba  tsuki (talking),それでも、手取りは減っちゃうん だよねー。,"But still, my net income`s gonna be lower."
+Yamamoto Akuji (talking),今はそれで我慢しときな。 いずれでっかい小遣いが入る様に してやるよ。,Put up with it for now. I`ll be able to give you a much better cut eventually.
+karasuba  tsuki (talking),え、ほんと！？,"Wait, for real?!"
+Yamamoto Akuji (talking),ああ。,Yeah.
+karasuba  tsuki (talking),んじゃー、その辺りで手をうつかな。 僕も、後ろ暗い事してる訳だし。,"We have a deal, then. Besides, I`m doing some shady stuff myself."
+Yamamoto Akuji (talking),それじゃあ、納得ってことだな？,"We good, then?"
+karasuba  tsuki (talking),"はいはい。 これからもよろしく、悪司さん。
+あーそーそー。
+さっきの見て見ぬフリだけど、 僕程度だと限界があるから、 うまくやってね。
+お金で口封じするにも、人間多いと 資金かさむし、お金じゃ動かない つまんない人とかもいるんだ。
+でっかいケンカ始まって、人死にとかが たくさん出ると、僕もどこまで押さえこむ 事が出来るかどーか…","You betcha. I`m looking forward to working with you, Akuji-san.
+ Ooooh, I almost forgot.
+ There`s only so much I alone can turn a blind eye to, so take care, alright?
+ Keeping many people quiet takes a lot of money, and some types won`t even take money to begin with.
+ If you start a big fight with lots of casualties, I don`t know whether I`ll be able to keep a lid on it..."
+Yamamoto Akuji (talking),"ああ、わかった。 そん時ゃそん時って事だ。
+あんたが動きやすいように 金を用意してやるよ。","Yeah, I got it. We`ll cross that bridge when we get to it.
+ I`ll give you the money you need to work your magic."
+karasuba  tsuki (talking),"あ、それ助かるなー。 じゃあその時は、ラブレター出すんで、 ちゃんと読んで下さいね。
+それじゃ、よろしくー。 バイバーイ。","Many thanks. I`ll send you a love letter when you do, so make sure to read it, okay?
+ Well then, I`ll be in your care. Bye-bye."
+narrator,鴉葉は明るく手を振って、 職場に戻っていった。,Karasuba gleefully waved and returned to his office.
+__system__??,{RND \ 0:,{RND \ 0:
+Aoba Youko (talking),４５０って…４５０って…！！,4500k... 4500k...!
+Yamamoto Akuji (talking),ああ。 そんなモンだろうと思ってたけど、 ドンピシャだったな。,"Yep. I thought that`d be the case, but man, I was dead on."
+Aoba Youko (talking),なっ…なんて人！ こんな事、許されると…,I-I can`t believe that man...! I`ll never forgive-
+Yamamoto Akuji (talking),………………,...
+narrator,　　［ぴしっっ］,　　*Flick*
+Aoba Youko (talking),きゃん！？,Kyah?!
+narrator,悪司は青葉の額を指で弾いた。,Akuji flicked Aoba`s forehead.
+Aoba Youko (talking),何するんですか！！,What are you doing?!
+Yamamoto Akuji (talking),さっきもあいつと俺が言ってたろ。 世間ってのをしらねー奴が 悪いんだよ。,Both of us talked about it just now. It`s your own fault for being naive.
+Aoba Youko (talking),なんですって！？,What did you say?!
+Yamamoto Akuji (talking),これが現実だ。 おめー、もーちょっとスレた方が いいぜ。,"Face reality, woman. You gotta be smarter about this kind of shit."
+Aoba Youko (talking),ほ、ほっといて下さい！,L-Leave me alone!
+__system__??,},}
+narrator,　☆☆　　補助金　４００万　　☆☆ 　　市議会からの補助金が大幅に増えた。,　☆☆　　SUBSIDY　4000K　　☆☆ 　　The CC`s subsidy drastically improved
+narrator,"悪司は一人、市議会の様子を 偵察にやってきた。
+市議会の中は、悪司との戦争が始まった為、 職員達が右往左往して、慌ただしい雰囲気に 包まれている。","Akuji went to scope out the City Council`s situation.
+ Thanks to the battle against his group, the CC was embroiled in a hectic atmosphere, its officers coming and going all the time."
+shigikaishokuin (talking),最悪だ！ どうしてこんな事に！,This is terrible! Why`d this happen?!
+shigikaishokuin (talking),は、早くなんとかしないと、 またくるぞ！,"We have to do something soon, or they`ll be back!"
+shigikaishokuin (talking),怖い… やっと、ウィミィとの戦争が終わって、 ほっとしていられると思ったのに…,I`m scared... And here I thought we`d have peace after the war with Wime ended...
+shigikaishokuin (talking),どーして、市長は、俺達がこんな目に あっているってのに、懲罰警察を 呼んでくれないんだよ！,Why won`t the Mayor call in the punitive police even when we`re in this situation?!
+karasuba  tsuki (talking),おいおい、ヒス起こしてる暇あったら、 こっちの資材、運ん…で…あ… あーーーーーーーーーーーーー！！！！,"Hey, if you have the time to whine, then take these papers and... Ah, AAAAAH!!!"
+shigikaishokuin (talking),鴉葉君？,Karasuba-kun?
+karasuba  tsuki (talking),ーーーあーーきのゆーうーーひーーにー てーーるーーやーーまーーーーーーーー もみじまんじゅー！,"...Aaaaaah, I think I forgot to lock the door back home! Woopsies!"
+shigikaishokuin (talking),君こそ、ふざけている間があるん だったら、外の肉体労働組、 手伝ってこい！,"If YOU have the time to joke around, then go help with the physical labor outside!"
+karasuba  tsuki (talking),は、は~~~い！,O-Okaaaay!
+narrator,鴉葉は慌てて、玄関に向かい、そして、 柱の影にいる悪司の腕を掴むと、 人のいない物陰に突っ込んだ。,"Karasuba hurriedly headed for the door. Then, he grabbed Akuji, who`d been hiding behind a pillar, by the collar and brought him to a quiet place."
+Yamamoto Akuji (talking),おいおい、こんなとこに連れ込んで、 どーする気だ？,"Hey, what are you doing?"
+karasuba  tsuki (talking),"どっ…
+どーしたもこーしたも！ あんた今、ここにきていいはず ないでしょ！","Wha-
+ What are YOU doing?! You know you can`t be here right now!"
+Yamamoto Akuji (talking),状況視察だよ。 敵を知る為のな。,I`m here to scope you all out. Gotta know the enemy.
+karasuba  tsuki (talking),"も~~…何、ノンキな事 言ってるんですか。
+み~んな、殺気立ってんですよ。 あんたのとこのせいです。","Maaaan... You`re too carefree.
+ Everyone`s on edge, and all because of you."
+Yamamoto Akuji (talking),そーみたいだな。,Looks like it.
+karasuba  tsuki (talking),だったら…,If you know that-
+Yamamoto Akuji (talking),"わかった、そろそろ帰るよ。 ああ、そうだ。
+俺達がきたら、絶対安全なとこに うまく逃げろよ。 怪我すんな。","Alright, I`ll leave soon. Oh, right.
+ If we attack, make sure to hide someplace safe. Don`t get hurt, now."
+karasuba  tsuki (talking),はいはい、だいじょーぶです。 金と女絡みは、引き際が大事 ですからね。,"Yeah, I`ll be fine. When it comes to money and women, knowing when to quit is crucial."
+Yamamoto Akuji (talking),じゃーなー。,See ya.
+karasuba  tsuki (talking),お気をつけてー。,Take care.
+Yamamoto Akuji (talking),ん……？ なんで誰もいないんだ？,Hm...? Why`s nobody around?
+karasuba  tsuki (talking),あっれー？ どうしたんですか、悪司さん。,"Oooh? What`s the matter, Akuji-san?"
+Yamamoto Akuji (talking),おう、お前こそ。,Right back at ya.
+karasuba  tsuki (talking),僕は、忘れ物取りに。,I forgot something here.
+Yamamoto Akuji (talking),なんで誰もいねーんだ？,Why`s the place empty?
+karasuba  tsuki (talking),市長不在で、封鎖中なんですよ。,"Mayor`s gone, so we`re closed."
+Yamamoto Akuji (talking),あ、そっか。,"Oh, I see."
+karasuba  tsuki (talking),"僕達、公務員は、市長が決定されるまで 自宅待機なんですよ。
+それでもお給料がちゃんと支給される あたり、ビバ公務員って感じですよね。
+でもそれも、新しい市長が 決定するまで…
+そうなったら、また忙しい日々の 再開ですよ。","We`re all on standby at home until a new mayor`s chosen.
+ We still get paid, though. Gotta love public service.
+ But that, too, only lasts until the mayor`s chosen.
+ When that happens, it`s back to our busy everyday."
+Yamamoto Akuji (talking),忙しい方が、楽しいじゃねーか。,Ain`t that more fun?
+karasuba  tsuki (talking),だけど、凄いですねー。 ほんとに市議会潰すなんて 思ってなかった。,"But man, you`re amazing. Didn`t think you could actually crush the CC."
+Yamamoto Akuji (talking),不要な嘘はつかないよーにしてる もんでね。,I never lie unless I have to.
+karasuba  tsuki (talking),僕、女だったら、間違いなく、 悪司さんにムチャ惚れしてるよ。,I`d be all over you if I were a woman.
+Yamamoto Akuji (talking),"そりゃ残念だ。 女だったら、その愛、 受け止めてやったのに。
+それじゃーな。","Shame. If you really were a woman, I`d have accepted that.
+ See ya, then."
+karasuba  tsuki (talking),はい、また。,Later.
+Yamamoto Akuji (talking),へっ……,Huh?
+shigikaishokuin (talking),申し訳ありません。 鴉葉は、来客があって、外に……,"I`m sorry, Karasuba has a visitor, so he`s outside-"
+Yamamoto Akuji (talking),わかった。 手数かけたな。,Got it. Sorry to bother you.
+shigikaishokuin (talking),いえ、そんな。 またよろしくお願いします。,"No, not at all. Glad to be of service."
+Yamamoto Akuji (thinking),"せっかく、賄賂持ってきたってのに、 留守だったとはなー……
+ここまできたんだし、 ちとぷらぷらしてから帰るとすっか…","Came here just to give him a bribe, and he`s away...
+ Might as well take a walk before I head back."
+narrator,そう思い、悪司は市議会の近所にある公園を 散歩する事にした。,Akuji decided to take a walk on a park close to the City Council.
+Yamamoto Akuji (talking),"……………
+ ……何やってんだ、お前さんは。","...
+ What the fuck are you doing?"
+cg narrator,"「あっ…あああっ…んっ……！！」
+ 「あ……」
+鴉葉は交尾を目撃された猫のように、悪司を見る。
+ 「人が用事あって、きてやったら、コレか」
+ 「ごめんねー。 　今、取り込ちゅーー」
+と、鴉葉は行為を見られている事など お構いなしに、腰を振る。
+ 「あ、いや、そんなっ…ひっ…人が見てっ… 　あ、ああ、あっ！！」
+女は悪司が見ている事を知り、 鴉葉の腰の動きを止めようとする。
+ 「だーいじょうぶだって。 　この人、そんな事気にするよーな人じゃいから」
+と、言いながら、鴉葉は女の尖った乳首を きゅっと指で潰した。
+ 「あ、あ、あんっ！」
+女の腰が、それだけでビクリと震える。
+ 「アケミちゃん、こーなったらもう、 　イクっきゃないでしょ？」
+ 「あっ…ああっ……」
+ 「このまま途中でやめちゃったら、 　躰がほてって、どうしようもなくなっちゃうよ？」
+と、言いながら、アケミの耳を噛む鴉葉。
+ 「あっ…あんっ！！」
+ 「つー訳で、ちょっと待ってて頂けますかー？ 　悪司さん」
+ 「あーかまわねぇぜ。 　たっぷりと目で犯すのに参加してやるよ」
+と言いながら、悪司は煙草に火をつけた。
+ 「いっ…いやっ… 　こんなトコ見ないでっ…見ないでぇっ…！！」
+アケミは羞恥に首を左右に振る。
+ 「何言ってんだ。 　俺が見てるってわかっただけで、ヌルヌルが 　２割増しになってるぜ、アケミちゃん」
+と、悪司が言う。
+ 「うっ…あっ…ああぅんっ…！」
+その声に、アケミが反応し、高い声をあげた。
+ 「という訳でー、頑張ってイカせちゃうからね。 　見られてると、また違うよー」
+ 「いっ……いや、そんな事言わないでっ… 　あっ…嘘っ…あんっ！」
+鴉葉のワードマジックにはまったように、 悪司の視線を浴び、アケミの声が艶を増す。
+ 「あ、いや、こんなっ… 　あ、あ、あっ！」
+ 「さーてと、じゃあ、ばーっといっちゃうよ。 　アケミちゃん、ここいじられながらイクの 　好きだったよねー」
+鴉葉の指が、アケミのクリトリスにふれる。
+ 「ひっ……！！」
+アケミが高い、息を飲む声をあげる。
+ 「あっ……だ、だめっ…だめぇっ…！！」
+下から上へ、自分の一物を刺激するように、 鴉葉の指が動く。
+ 「あ、あ、あうぅ~っ…！！」
+アケミは下唇を噛み、鴉葉の愛撫を、 一物の摩擦を受け入れる。
+ 「もっ…だめっ…あっああっ……！ 　鴉葉さぁっ…！」
+ 「わかってるよ。 　遠慮しないで」
+鴉葉の甘い声に、アケミの躰が震えた。
+ 「……ぅっ……ぁっ…あっ……ぁ~~っ…！！」
+アケミは限界まで躰をくの字に折り、 足指先まで力を入れ、躰を大きく震わせ 低い声をあげた。","「Ahn! Aaaaahn, mmmmn...!」
+ 「Oh...」
+ Karasuba awkwardly looked at Akuji.
+ 「So this is the business you had, eh?」
+ 「Sorry, 　I`m busy here...」
+ Karasuba swung his hips, completely uncaring of being seen.
+ 「Ahn! No, you can`t, mmmn! 　We`re being seen, ahn, ahn, aaaahn!!」
+ Aware that Akuji was watching them, the woman tried to stop Karasuba`s hips.
+ 「It`s fiiine, this guy isn`t 　the sort to care about this.」
+ Karasuba then pinched the woman`s erect nipples.
+ 「Ahn, aaahn!」
+ That was enough to make her hips shudder.
+ 「Akemi-chan, 　you`re almost cumming, right?」
+ 「Ahn! Ahn...!」
+ 「If I stop now, your body will 　feel terrible, you know?」
+ Karasuba bit Akemi`s ear.
+ 「Aaaahn!」
+ 「So, would you mind waiting a bit, 　Akuji-san?」
+ 「Nah, I don`t. I`ll have some 　good fun watching her.」
+ Akuji lit a cigarette.
+ 「No... No! Don`t look at me... 　don`t look...!」
+ Akemi shook her head in shame.
+ 「Please. You got twice as wet 　just from knowing I`m watching 　you, Akemi-chan.」
+ Akuji affirmed.
+ 「Ugh... ahn! Aaaauhn!」
+ Akemi let out a shrill moan.
+ 「I`ll do my best to make you cum, now. 　Being watched makes it feel so different.」
+ 「N-No! Don`t say that...! 　Ahn... no way... ahn!!」
+ As if turned on by Karasuba`s words and Akuji`s gaze, Akemi`s voice grew sweeter.
+ 「Ahn, no, not like this...! 　Ah, ahn, ahn!」
+ 「Alright, time to cum. 　Akemi-chan, you like cumming 　while I tease you here, right?」
+ Karasuba touched Akemi`s clitoris.
+ 「Eep...!」
+ Akemi gasped loudly.
+ 「Ahn! N-No, you can`t...!」
+ Karasuba moved his fingers up and down, as if he were pleasing himself.
+ 「Ah, ah, aaaaaauhn...!!」
+ Akemi bit her lip and let Karasuba caress her clitoris.
+ 「I-I can`t, aaaaahn! 　Karasuba-saaaaaan...!」
+ 「I know. 　No need to hold back.」
+ Karasuba`s sweet words made Akemi shudder.
+ 「...Mnh... ah... aaaaahn!!」
+ Akemi`s back arched violently and her toes curled, then her whole body spasmed as she let out a shrill voice."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+karasuba  tsuki (talking),ごめんなさーい。 お待たせしちゃってー。,Sorry to keep you waiting.
+Yamamoto Akuji (talking),で、こーいうトコでするのが趣味なのか？ しかも、仕事中。,"So you`re into fucking in public? And during work, too."
+karasuba  tsuki (talking),"んー……非常事態だったんで。 あの子、僕の行き着けの飲み屋で 働いている子でー。
+たまってるツケの請求に きてたんですよー。
+で、ごまかしてる間に、な~んかそーいう 気分になっちゃってー。","It was an emergency situation. She works at one of my favorite bars, you see...
+ She came to ask me to pay my tab.
+ And as tried to get out of that, I got in the mood."
+Yamamoto Akuji (talking),で、仕事フケて、ここでナニしてたと。,So you cut work to do her.
+karasuba  tsuki (talking),へっへっへっ。,Heh heh heh.
+Yamamoto Akuji (talking),ニヤけてんじゃねーよ。 この税金ドロボーが。,"Don`t laugh it off, you tax thief."
+karasuba  tsuki (talking),で、その税金ドロボーに、 なんか用なんですか？,And what do you need from this tax thief?
+Yamamoto Akuji (talking),ああ。 賄賂の金の補充にきたんだけどな。,I came to renew your bribe.
+karasuba  tsuki (talking),ん~~……,Hmmm~...
+narrator,鴉葉はメモをぺらぺら捲って、 思案顔をしてから言った。,"Karasuba skillfully flipped through his notepad, then replied."
+karasuba  tsuki (talking),今んとこ、大丈夫ですよ。 お金、足りてます。,You`re fine for now. Your credit`s still good.
+Yamamoto Akuji (talking),そーかい。,That so?
+karasuba  tsuki (talking),あ、でも僕にお小遣いくれるんだったら、 いくらでもＯＫ！,"Oh, but if you`re giving me some change, I`ll accept!"
+Yamamoto Akuji (talking),誰がやるか。,As if.
+karasuba  tsuki (talking),ちえっ。,Tch.
+Yamamoto Akuji (talking),用事が空振りで済んだって事は、 俺はただのお邪魔虫だったって訳か。,So I guess all I ended up doing was being a meddler.
+karasuba  tsuki (talking),"いんえいえ。
+あのままだったら、何回僕突っ込まされて いたかわかんなかったから、大助かり でしたよ。","No, not at all.
+ You being there settled things in a jiffy. You were a lifesaver, really."
+narrator,アケミは悪司の前で盛大にイカされた 恥ずかしさから、コトが終わると、 逃げてしまったのだった。,"Ashamed from cumming so hard in front of Akuji, Akemi had run away as soon as Karasuba was done."
+Yamamoto Akuji (talking),おめーさんも、 あんまツケ溜めるんじゃねぇぞ。,"You should pay your tab sometimes, you know."
+karasuba  tsuki (talking),そーですね。 次の給料日には、 ちゃんと払う事にします。,"True, I guess. I`ll do that on my next payday."
+Yamamoto Akuji (talking),それじゃーな。,"Well, see ya."
+karasuba  tsuki (talking),はーい、お気をつけて。,Take care.
+karasuba  tsuki (talking),どーもー。,Hiya.
+Yamamoto Akuji (talking),おう。,`Sup.
+karasuba  tsuki (talking),うまくいったですかねー？,Did it go well?
+Yamamoto Akuji (talking),そーだなー… 中山多恵子もこれでおだぶつだ。,Seems like it. Nakayama Taeko`s finished.
+karasuba  tsuki (talking),う~~……ん……,Hmmmm...
+Yamamoto Akuji (talking),どうした？,What`s wrong?
+karasuba  tsuki (talking),ちょっと、かわいそーな事 したかなーって。,I kinda feel bad for what I`ve done.
+Yamamoto Akuji (talking),おめーさんのせいで、 おだぶつだからなー。,"It WAS your fault, after all."
+karasuba  tsuki (talking),しろって言ったの、悪司さんじゃないか。,Only because you ordered me to.
+__system__??,{★結婚 = 6:,{★結婚 = 6:
+Henri Pe (talking),………………,...
+karasuba  tsuki (talking),あ、奥さん、こんちわ。,"Oh, hello there, wifey."
+Henri Pe (talking),………ハーブティ……飲みますか？,...Would you like some... herbal tea?
+karasuba  tsuki (talking),あ、すみません、いただきまーす。,"Oh, sure. I`ll have some."
+__system__??,},}
+narrator,廊下で鴉葉が、職員と話をしている。,Karasuba was talking to a staff member.
+karasuba  tsuki (talking),んん~~……,Hmm~
+shigikaishokuin (talking),という訳で、奉仕青年団の面々の 各種違反は、どうしたもんかと…,"So, about the YCSG`s various violations..."
+karasuba  tsuki (talking),わかってるんだけど~… そこはこう、ね？,"I know, buuuut... why don`t you leave them be, hm?"
+shigikaishokuin (talking),ですが…,That`s...
+karasuba  tsuki (talking),っていう訳でさ… これ、取っといてよ。,"And by the way... Here, take this."
+narrator,と、鴉葉は職員にそっとお金を握らせた。,Karasuba stealthily gave the man some money.
+shigikaishokuin (talking),ん~…… まいったなー、鴉葉さんには…,"Hmmm, you got me, Karasuba-san."
+karasuba  tsuki (talking),そーそー、それでいーのよ。 僕にまいっといてよ。,"Yep, that`s right, just let it happen."
+shigikaishokuin (talking),わかりしました… ボクもモメ事は嫌いなんで… 見なかった事にします。,"Understood. I hate the paperwork anyway, so I`ll pretend I saw nothing."
+karasuba  tsuki (talking),ありがとー、恩にきるよー。,"Thanks, I owe you one."
+karasuba  tsuki (thinking),悪司さーん、僕、頑張ってるよーん。 だからもっとオイシー目にあわせてねー。,"I`m working hard, Akuji-san. So let me get a better cut."
+narrator,鴉葉は頑張っていた。,Karasuba was hard at work.
+karasuba  tsuki (thinking),やーれやれ。 今日も一日ごくろーさん、僕。 晩ご飯何にしよっかなー。,"Phew. I worked hard today as well. Now, what should I have for dinner?"
+shigikaishokuin (talking),ちょっと待って下さい、鴉葉さん。,"Please wait, Karasuba-san."
+karasuba  tsuki (talking),え~、何？ 今日のお仕事時間終わったじゃ~ん。 公務員に残業はナシでしょ~？,"What`s up? Working hours are over for today. Civil servants earn no overtime, you know?"
+shigikaishokuin (talking),そんな場合じゃないです。 奉仕青年団の事です。,"Nevermind that, it`s about the YCSG."
+karasuba  tsuki (talking),え？,Huh?
+shigikaishokuin (talking),あなたの管理地域でしょう？ なんですか、この書類！,"They`re from your region, no? What`s with these papers?!"
+narrator,職員が鴉葉に突き出したのは、 奉仕青年団についての偽造書類だった。,The man showed Karasuba some forged documents concerning the YCSG.
+shigikaishokuin (talking),まったくデタラメだらけです。 市長に報告して、すぐに取り潰して 貰います。,They`re filled with nonsense. I`ll report this to the Mayor and have them voided at once.
+karasuba  tsuki (talking),書類が嘘っぱちなんて、そんなの、 日常茶飯事じゃないの。,"Papers being full of BS is an everyday thing, no?"
+shigikaishokuin (talking),鴉葉さん？,Karasuba-san?
+karasuba  tsuki (talking),そんな事よりさ。 高級バーに呑みに行かない？,"More importantly, how about we hit a fancy bar?"
+shigikaishokuin (talking),は？？,Huh??
+karasuba  tsuki (talking),コネがあるんだ。 高官っきゃいけないとこなんだけど、 特別に僕、入る事が出来るんだ。,"It`s an exclusive place, but thanks to some friends, I`m specially allowed to go in."
+shigikaishokuin (talking),そ、それは……,Th-That`s...
+karasuba  tsuki (talking),そーいう事だよ。 あ、お金の方がいい？,"It`s true. Oh, is your wallet doing okay?"
+shigikaishokuin (talking),そ、そんな、あからさまな…,Th-This is such a blatant-
+karasuba  tsuki (talking),"僕達、公務員ってさ、薄給じゃない。 だからさ、こーいう特権はおおいに 利用した方が人生の勝ち組だと思うけど？
+っていうか、何するにしても、 楽しい方がいいじゃん。","We are well-paid, so I think taking advantage of many such privileges makes you a winner.
+ Whatever it is you do, it`s better for it to be fun."
+shigikaishokuin (talking),そ、それは、その…あの…,"That`s, um..."
+karasuba  tsuki (talking),君だけがしてる事じゃないって。 みんなやってるよ。,"It`s not just you and me, either. Everyone does it."
+shigikaishokuin (talking),それは……,That`s...
+karasuba  tsuki (talking),"さ、どっちにする？
+ここで君が奉仕青年団を槍玉にあげて、 免許剥奪しても、次にくる管理団体が クリーンだとは限らないよ？
+もっと酷いのがくる可能性だって、 かんなり高い確率で発生するよ？","So, what will it be?
+ Even if you revoke the YCSG`s license, what makes you think the next RMG will be better?
+ They might - no, most likely will be even worse, y`know?"
+shigikaishokuin (talking),う……,Ugh...
+karasuba  tsuki (talking),だったら、今あるところをよりよく する為に指導する方が、 僕達の為にもなるんじゃない？,"In which case, isn`t it to our benefit to lead the groups we have now to better themselves?"
+shigikaishokuin (talking),う……,Ugh...
+karasuba  tsuki (talking),はい、決まり。 さ、呑みに行こうか？,"Okay, that`s that. Now, how about that bar?"
+narrator,鴉葉はにっこり笑った。,Karasuba gave him a wide smile.
+karasuba  tsuki (talking),こんっちゃーん。,Hellooooo.
+Yamamoto Akuji (talking),おう。,Yo.
+karasuba  tsuki (talking),これ、おみやげのお寿司でーす。 さっちゃんとお二人で食べて下さいなー。,Here`s some sushi as a gift. Please eat it with Sacchan.
+Yamamoto Akuji (talking),さっちゃんにまで手を出そうってか？,"You looking to put hands on her, too?"
+__system__??,{★愛 = 5:,{★愛 = 5:
+karasuba  tsuki (talking),"何言ってんですか。 さっちゃんは、悪司さんの お嫁さんでしょ。
+僕、身の程をわきまえるって言葉 知ってますから。","I would never. Sacchan`s your wife, no?
+ I`m very well aware of my place in life."
+__system__??,},}
+__system__??,{★愛 \ 5:,{★愛 \ 5:
+karasuba  tsuki (talking),大丈夫ですって。 僕、身の程をわきまえるって言葉 知ってますから。,"Don`t worry, I`m very well aware of my place in life."
+__system__??,},}
+Yamamoto Akuji (talking),で、なんだ。 また賄賂資金か？,Then what is it? Want some more bribes?
+karasuba  tsuki (talking),"ぶっぶ~~~~~。
+それはもう必要ないんですよ~。","Bzzzzt.
+ I don`t need those anymore, either."
+Yamamoto Akuji (talking),へ？,Huh?
+karasuba  tsuki (talking),"神原さんが市長になってから、 市議会組織も一新されました。
+そのおかげで、僕も出世する事が 出来ました~いやっほー。
+悪司さんが後押ししてくれたんでしょ？ だからこのお寿司、そのお礼。 ありがと、悪司さん。","The CC`s been renovated now that Kanbara-san`s the mayor.
+ Thanks to that, I`ve gotten a promotion, woohoooo!
+ You`ve been supporting me, right? Well, I`m giving you some sushi as thanks for everything. I mean it."
+Yamamoto Akuji (talking),そー思うんだったら、 俺に便宜はかってくれよ。,"If that`s how it is, then do me a solid."
+karasuba  tsuki (talking),"わかってますって、心配ご無用。 もう賄賂なしでも、僕の地位で 人を黙らせる事が出来ちゃうから。
+やっぱし、人間、地位とお金ですね~。 名誉って邪魔かな？","Don`t worry, I got you. My station`s enough to hush people up now. No need for bribes.
+ Money and status really are everything. Honor`s just a nuisance, huh?"
+Yamamoto Akuji (talking),人それぞれだろ。,Depends on the person.
+karasuba  tsuki (talking),"ですよね。 悪司さんの影番っぷり見てると納得。
+あ、ごめん、僕これからデートだから もう帰るね。
+それじゃまた~。","True. You`re a prime example, Mr. Secret Leader.
+ Whoops, I got a date soon, so I`ll be leaving now.
+ See ya~!"
+Yamamoto Akuji (talking),おう。,"Yeah, see ya."
+narrator,館内に終業を知らせるチャイムが鳴った。,It was the end of the workday.
+Kanbara Yuuko (talking),あ~っ……んっんん~~… つっかれた~~… 今日も働いたわ~……,Yaaawn... mmmnnnh... I`m beeeeat. I worked a lot today agaaain.
+karasuba  tsuki (talking),疲れため息も色っぽいですね。 はい、お茶です。,"You`re sexy when you`re tired, too. Here`s some tea."
+Kanbara Yuuko (talking),"あら~、ありがと~。
+あら、おいし。","Oh my, thank yooou.
+ Ooh, delicious."
+karasuba  tsuki (talking),そうっすか。,Really?
+Kanbara Yuuko (talking),うふふ~。 幸せね~~。,Ufufu~ This is bliiiiss...
+narrator,と、夕子が笑った。,Yuuko laughed.
+karasuba  tsuki (talking),……………,...
+Kanbara Yuuko (talking),なぁに？,Yeees?
+karasuba  tsuki (talking),い、いえ、何も。,"N-No, nothing."
+karasuba  tsuki (thinking),"色っぺーよなー。 デートとか誘って、もっと笑った顔 見てたいよなー。
+でも…どうしてかなー… 悪司さんのお手つきってのも あるのかもしれないけど……
+ …………それ以上に…
+この人に手を出すと、なんかこう、 ヤバイっていう気がすんだよなー、 なんでだろー。","She`s so sexy. I wanna take her on a date and see more of her smile.
+ But what should I do...? She might still be Akuji-san`s mistress...
+ ...More than that...
+ I dunno why, but I get the feeling that making a move on her`s a BAD idea."
+Kanbara Yuuko (talking),つっくんは、危機管理能力の高さで、 世渡ってるから~。,"I can get by thanks to your great crisis management, Tsukkun."
+karasuba  tsuki (talking),え？,Huh?
+Kanbara Yuuko (talking),ううん。 なんでもないな~い♪ うふふ~。,"No, it`s nothing♪ Ufufufu~!"
+karasuba  tsuki (thinking),取り敢えず…このぐらいの距離でも この人といると楽しいから、まっいっか。 気にしないでおこっと。,"Well, this relationship`s fun enough as it is, so I`ll leave it be."
+ (talking),月。,Tsuki.
+karasuba  tsuki (talking),あ、おかえり。 パトロールお疲れ様。,"Ah, welcome back. Good work on your patrol."
+chiankashokuin (talking),……あのさ……,...Say...
+karasuba  tsuki (talking),ん？,Yes?
+chiankashokuin (talking),あたし、お母さんからせっつかれてるの。 お見合いしろとかさ…,My mom`s pestering me to find a husband...
+karasuba  tsuki (talking),あ、そーなんだ。,"Oh, really?"
+chiankashokuin (talking),あたし達の事、いつまで隠してたら いいの？,How long should we keep our relationship a secret?
+karasuba  tsuki (talking),"ごめんね、今、僕、もっと自分の仕事に 打ち込みたいんだ。
+もっと安定した場所に落ち着く事が 出来たら、君との事、きちんとしたいと 思ってるんだ。","Sorry, I want to focus more on my work for now.
+ Once I`m in a more stable place in life, I`ll become serioues about you."
+chiankashokuin (talking),月……,Tsuki...
+karasuba  tsuki (talking),じゃあ、これから我が儘女高官さんとの 接待なんだ。,Then I have to go entertain this selfish officer lady.
+chiankashokuin (talking),そう…頑張って…,I see... do your best.
+karasuba  tsuki (talking),うん、ありがと。 じゃあねー。,Thanks. See ya.
+karasuba  tsuki (thinking),セーフ、セーフ。 僕、結婚には興味ないんだよねー。 家庭持つってタイプでもないし。,"Saaafe. I so don`t wanna get married, and I`m not the sort to start a family."
+uimiionnaheishi (talking),ツキ！,Tsuki!
+karasuba  tsuki (talking),おっまたせー。 ごめんね。 レディを待たせちゃって。,Sorry for the wait. It hurts me to keep a a lady waiting.
+uimiionnaheishi (talking),"いいんだよ。 仕事、忙しいんだろ？
+ウィミィも上の女は 人使いが荒くていやんなっちゃう。","It`s fine. You were busy with work, right?
+ I hate how even Wime works women to the bone."
+karasuba  tsuki (talking),その疲れ、僕が今から癒してあげるよ。,I`ll make you relax.
+uimiionnaheishi (talking),ありがとう。 そう言ってくれると思って、 もうホテルの部屋、取ってあるよ。,"Thanks. I knew you`d say that, so I went and booked a hotel room."
+karasuba  tsuki (talking),よし、行こう行こう。,"Nice, let`s go!"
+uimiionnaheishi (talking),あん、もう… ウタマロなんだから。,"Oh, geez... You`re such a stud."
+Nakayama Akari (talking),~~~~~~~~~~~~~~~~~。,~~~~~~!
+narrator,"明里はうんざりした顔で机の上の書類の山を 見つめていた。
+職員や関係部門からのもので、 すべて奉仕青年団に対する苦情だった。","Akari looked at the pile of documents on her table, visibly fed up.
+ They were all complaints from her staff about the YCSG."
+Nakayama Akari (talking),どうしたらいいのかしら…？,What should I do...?
+shigikaishokuin (talking),奉仕青年団は、鴉葉君の管轄ですね。,They`re managed by Karasuba-kun.
+Nakayama Akari (talking),呼んでちょーだい。,Please call him in.
+shigikaishokuin (talking),はい、わかりました。,Very well.
+karasuba  tsuki (talking),はーい、呼びましたかー？,You called?
+Nakayama Akari (talking),この書類見て。,Look at all these papers.
+karasuba  tsuki (talking),うわ、なんですか、これ？,"Wow, what`s up with that?"
+karasuba  tsuki (thinking),わかってるけど。,Though I know the answer.
+Nakayama Akari (talking),君の管理する奉仕青年団に対しての 苦情の書類です。,They`re complaints about the YCSG you manage.
+karasuba  tsuki (talking),あ~~~……,Ooooh...
+karasuba  tsuki (thinking),絶対、そうだと思ったけど。,"Yeah, knew it."
+Nakayama Akari (talking),"こんな事では、奉仕青年団の免許を 取り上げなくては駄目になります。
+一通り目を通してみたけど、違法行為 ばかりじゃないですか。 監督官としてどう思っているのですか？","We`ll have to revoke their license at this rate.
+ The papers say the YCSG keep breaking the law. Well? What do you think?"
+karasuba  tsuki (talking),駄目な事だと思います。,I think that`s unacceptable.
+Nakayama Akari (talking),わかってるわね？,"You understand, yes?"
+karasuba  tsuki (talking),はい、申し訳有りません。 これからもっと、監督します。,"Yes, please forgive me. I`ll be harsher on them."
+Nakayama Akari (talking),"私も極端な事はしたくないので、 今回はペルティを与えます。
+とりあえず、奉仕青年団に対する 補助金は半分カット。","I don`t like extreme measures, so we`ll just penalize them.
+ For now, cut their subsidy in half."
+karasuba  tsuki (talking),はい。,Okay.
+karasuba  tsuki (thinking),あーあ……,Oh boy...
+Nakayama Akari (talking),そう、奉仕青年団代表に伝えておいて ちょうだいね。,"Yes, please inform their representative about this."
+karasuba  tsuki (talking),はい、わかりました。,Understood.
+karasuba  tsuki (thinking),悪司さ~ん……ちゃんと賄賂を 送ってくれないから、こんな事に なるんだよ~…もー…,Akuji-saaan... this is what happens when you don`t pay your bribes!
+narrator,　☆☆　　補助金　,　☆☆　　補助金　
+narrator,０万　　☆☆ 　　市議会からの補助金が減額された。,０万　　☆☆ 　　The CC`s subsidy was reduced.
+Yamamoto Akuji (thinking),"さーて、鴉葉に賄賂の支度金を……
+ …………
+しまったぞー… 金がねーじゃねーか…
+まいったな、出直しか…","Time to give Karasuba the money...
+ ...
+ Oh fuck... we got no money.
+ Dammit, back to square one..."
+narrator,悪司は賄賂を支払う為に、 市議会へとやってきた。,Akuji went to the CC in order to give Karasuba his bribe.
+__system__??,{RND \ 0:,{RND \ 0:
+Aoba Youko (talking),やはり駄目です、悪司さん。 賄賂なんて……,"Akuji-san, we shouldn`t be bribing people..."
+Yamamoto Akuji (talking),……………,...
+narrator,"　　［ぐしゃ　ぐしゃっっ］
+悪司は青葉の髪をぐしゃぐしゃにした。","　　*Ruffle* *Ruffle*
+ Akuji messed up Youko`s hair."
+Aoba Youko (talking),きゃーー！？,Kyaaah?!
+Yamamoto Akuji (talking),黙ってなって。,Shut up.
+Aoba Youko (talking),…………,...
+__system__??,},}
+karasuba  tsuki (talking),どーもー。,Hiya.
+Yamamoto Akuji (talking),おう。 持ってきたぜ。,Yo. I brought what you wanted.
+karasuba  tsuki (talking),わかりました。 ここじゃーアレなんで、奥へどーぞ。,"Okay. But hand it over when we`re inside, alright?"
+Yamamoto Akuji (talking),ああ。,Sure.
+karasuba  tsuki (talking),それじゃーさっそく。 各種担当者に渡す口止め料ですがー…,Then let`s get to it. About the money we`ll need...
+Yamamoto Akuji (talking),ああ、用意している。,"Yeah, I got it all ready."
+karasuba  tsuki (talking),"それじゃあ、お預かりしておきますね。
+あーそれとー。
+悪司さん。 こーいうものが必要な言動は、 出来るだけ避けた方がいいですよ。
+僕も、西に東に、悪司さんの キレーなお尻の始末に、精一杯で…","Perfect, I`ll take it then.
+ Oh, one more thing.
+ You should try not doing stuff that`ll require hush-up money as much as possible.
+ I`m doing my darndest to keep your nose clean..."
+Yamamoto Akuji (talking),幸せそうじゃねーか。,You seem happy about it.
+karasuba  tsuki (talking),はははははは。,Hahahahahah.
+Yamamoto Akuji (talking),まったく、大した役人だぜ。,"Man, you`re one helluva guy."
+karasuba  tsuki (talking),いやー、それほどでも。,"No, I`m not that special."
+narrator,悪司は賄賂を支払う為に、 市議会へとやってきた。,Akuji went to the City Council to drop off his bribes.
+karasuba  tsuki (talking),~~~~………,Hmmmm~
+Yamamoto Akuji (talking),なんだ？ ショボイ顔して。,Looking pretty gloomy there. What`s wrong?
+karasuba  tsuki (talking),きつい~~。,So tight~.
+Yamamoto Akuji (talking),何が？ ベルトがか？,What is? Your belt?
+karasuba  tsuki (talking),"違います！ 悪司さん、今回は無理です。
+金だろーが、僕だろーが、 どーにもなりまっせ~ん。
+ちょうど中央からやってきた代議士先生が 知ってしまって、もうカンカンになって 怒っているんですよ。
+なまいきで~す。 潰しますよ~って……","Nope! Akuji-san, I can`t do it this time.
+ Neither I nor the money can help you out here.
+ A Congress member came by and caught wind of everything. Now she`s pissed.
+ \”I`ll crush that cheeky bastard!\”, she said."
+Yamamoto Akuji (talking),なんだ、女か。,"Oh, they`re a woman?"
+karasuba  tsuki (talking),頭にタマネギつけたババアです。,She`s an ugly hag.
+Yamamoto Akuji (talking),………まあ……電気消しゃ、 なんとかなるけどな。 俺がいくか？,"...Well, we should be fine if we remove her from the equation. Want me to do it?"
+karasuba  tsuki (talking),それも駄目です。 だって、青葉さんが話し合いに参加する ならいいって言ってるから……,"Don`t. After all, she said she`d talk this out if Aoba-san joined in."
+Yamamoto Akuji (talking),なんだ？ ウーマンリブって奴か？,"What, she a feminist or something?"
+karasuba  tsuki (talking),ババーレズです。,That hag`s a dyke.
+Yamamoto Akuji (talking),あ~…… めんどくせ、殺すか？,Oh... What a pain. Should we kill her?
+karasuba  tsuki (talking),"どーしてそう、極論にいくかな~。
+向こうが青葉さんって名指ししてん だったら、彼女に特別接待させりゃ いいじゃないですか。","Why must you be so extreme?
+ If she nominated Aoba-san, then all we have to do is give her some special treatment."
+Yamamoto Akuji (talking),そうだな、そーするか。 青葉、行け。,"I guess that`s true. You`re up, Aoba."
+Aoba Youko (talking),そ、そんなっ……,Th-That`s-!
+Yamamoto Akuji (talking),取って食われるような事は ねーだろ。 相手は年寄りだし。,She ain`t gonna eat you up or anything. She`s an old bag.
+Aoba Youko (talking),……でも……,But...
+Yamamoto Akuji (talking),行け。,Go.
+Aoba Youko (talking),……わかったわ… やればいいんでしょう…… ………もう………,"...Okay... I just have to go, right? ...Geez."
+cg narrator,"「先生、本日はお疲れ様でした。 　さあどうぞ、お呑み下さい。 　さあ、曜子さん、お酌して差し上げて」
+ 「っ………っ~っ……」
+曜子は、徳利を手に固まり、震えている。
+ 「曜子さん」
+ 「っ……はっ……」
+ 「あら、曜子さん、どうしたのかしら？ 　お酌して頂けないの？」
+ 「っ…はっ……はい…い、いいえ… 　す、すみません…どうぞ…」
+ 「あら、可愛らしい手。 　嬉しいわぁ、こんな手でお酌されて」
+ 「はっ…はい……」
+ 「あなた、人妻なんですって？」
+ 「はっ…はい……」
+ 「まー、とてもそうには見えないわぁ。 　夜の生活が、あなたをそうさせているのかしら？ 　まーー」
+ 「っ……」
+代議士の言葉に、青葉はかっと頬を朱に染める。
+ 「ところで、先生。 　さっきの件なんですが……」
+ 「ああ、見てみぬフリをしろって 　言われていたのでしたっけ？」
+そう言いながら、代議士は青葉の手に、 しわくちゃの手を重ねた。
+ （ひっ……！）
+青葉は、怪物にふれられたかのように、息を飲む。
+ 「そーねー、どうしましょうかしらねー。 　知ってしまったものを、知らんぷりはねー」
+と、言葉を続け、青葉の手をすりすりと 掌で愛撫する。
+ （な、何っ……この人……）
+青葉は恐怖に固まって動けない。
+ 「青葉さんからもお願いして下さいよ。 　君は、あの奉仕青年団の団長でしょ？」
+ 「わっ……私は……」
+ 「あらまあ、そうだったの！」
+代議士はぐっと青葉の手を掴む。
+ 「は、はい……」
+ 「彼女はまったく、右も左もわからない状態で、 　あの団をあそこまで大きくしたんですよ」
+ 「まー、すごいじゃない！ 　立派だわー」
+ 「っ…そ、そんな…私……」
+ 「青葉さん、その団を潰したくはないですよね？」
+鴉葉の言葉に、青葉が当惑する。
+ 「そ、それは……」
+ 「あら、それは大変ね。 　自分の団を守らなくてはいけないって事よね」
+ 「っ……それ……は……」
+ 「自分の団の為ですから…… 　しかたないですよね？」
+ 「鴉葉さん……？」
+鴉葉は、机の上にホテルのキーを置いた。
+ 「この上の最上階に、お部屋を取っておきました」
+ 「あらまあ、気のきくボーヤだこと。 　あなた、見込みあるわ~」
+ 「ありがとうございます」
+ 「鴉葉さん、これって……」
+ 「青葉さん、君も大人なんだから、 　わかってるよね？」
+ 「っ…………」
+ 「それでは、青葉さん。 　どういたしましょうかしら？」
+ 「えっ……」
+ 「わたくし、このまま帰って処分を決定して 　もいいんですのよ？」
+ 「そんな……」
+ 「でもねえ、青葉さんの行動ひとつで、 　わたくし、見て見ぬフリも出来ますのよ？」
+ 「…………………」
+ 「さあ、青葉さん……」
+鴉葉は青葉の手から、徳利を取った。
+ 「私…」
+ 「早く決めて頂けないかしら？ 　わたくし、これでも忙しい身なんですよ」
+ 「………………」
+青葉は震える手を、代議士の方に差し出した。","「Thank you for your hard work, Ma`am. 　Please, have a drink. Go on, Aoba-san, 　pour the lady some alcohol.」
+ 「Ngh...!」
+ Youko trembled as she grasped the sake bottle.
+ 「Aoba-san.」
+ 「...! O-Okay!」
+ 「My, what`s wrong, Aoba-san? 　You won`t pour me a drink?」
+ 「O-Oh, I will, m-my apologies... 　Here...」
+ 「What cute hands you have. I`m so 　happy to have them pour me a drink.」
+ 「Y-Yes...」
+ 「So, you`re married?」
+ 「Y-Yes...」
+ 「My, you don`t look like it at all. 　Is it thanks to your sex life, 　I wonder? Hohoh.」
+ 「Kh!」
+ The congresswoman`s words made Aoba blush.
+ 「By the way, Ma`am. 　About what we discussed earlier...」
+ 「You asked me to pretend I hadn`t 　seen anything, correct?」
+ The congress woman spoke as she laid her wrinkled hand on top of Aoba`s.
+ (Eek!)
+ She gasped like she`d been touched by a monster.
+ 「Hmm, whatever should I do? 　To pretend to be ignorant, or not...」
+ She caressed Aoba`s hands as she talked
+ （Wh-What`s with this woman...?）
+ Aoba was petrified with fear.
+ 「This is a request from Aoba-san as well. 　She`s the YCSG`s leader, you see.」
+ 「I-I`m...」
+ 「Oh my, I didn`t know that!」
+ The congresswoman firmly held Aoba`s hands.
+ 「Y-Yes...」
+ 「She barely knows left from right, yet 　she`s managed to grow the Group that large.」
+ 「Wow, that`s amazing! 　What a fine girl you are!」
+ 「Th-That`s not... I`m...」
+ 「You don`t want the Group to be dissolved, right?」
+ Karasuba`s words perplexed Aoba.
+ 「Th-That`s...」
+ 「My, having to protect your 　Group sounds tough.」
+ 「Y-You`re... That`s...」
+ 「It`s for the sake of your Group, so... 　There`s no helping it, right?」
+ 「Karasuba-san...?」
+ He placed a key to a hotel room on the table.
+ 「I reserved a room on the top floor here.」
+ 「My, what a thoughtful young man. 　You show promise~.」
+ 「Thank you very much.」
+ 「Karasuba-san, is this-」
+ 「You`re an adult too, Aoba-san. 　I`m sure you understand.」
+ 「...!」
+ 「Now then, Aoba-san. 　What should I do?」
+ 「Huh?!」
+ 「Should I go home now and settle on 　dissolving your Group?」
+ 「That`s...」
+ 「But you need only do one thing, 　and I`ll gladly look the other way.」
+ 「...」
+ 「Go on, Aoba-san...」
+ Karasuba took the sake bottle from Aoba.
+ 「I...」
+ 「Could you make your decision soon? 　I`m quite the busy person, you see.」
+ 「...」
+ Aoba extended her hand to the congresswoman."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Aoba Youko (talking),……………,...
+Yamamoto Akuji (talking),おう、おはよーさん。 聞いたぜ、うまくやってくれた そーじゃねーか。,"Hey, mornin`. Heard it all went pretty well with you."
+Aoba Youko (talking),…………悪司さん……,...Akuji-san...
+Yamamoto Akuji (talking),ん~？,Yeah?
+Aoba Youko (talking),こういう事は、もう二度と 引き受けませんからね！！,"I am never, EVER doing this again!!"
+Yamamoto Akuji (talking),孕まされるような事、されなかったろ。 女相手なんだからよ。 いーじゃねーか。,"Not like you got pregnant or anything. She was a woman, after all. Ain`t it fine?"
+Aoba Youko (talking),よくないです！！ まだエロジジイの方がマシだったわ！！,No it`s not!! A perverted old man would`ve been preferable!
+Yamamoto Akuji (talking),どんな事されたんだ？,What did she have you do?
+Aoba Youko (talking),"うっ……
+っ………っ……
+うわーーっ……！！","Urgh...!
+ ...!
+ Waaaaaaaaaah!!"
+Yamamoto Akuji (talking),……泣く程の事か……,"...That bad, huh?"
+narrator,　このラベルは無くなりました。,　This label is gone.
+ (talking),"さて……
+悪司さーん、今回は少し骨が 折れますよ。
+ちょっと計算してみたんですけどね… 色々、溜まってて……
+はい。 各方面の先生方に送る額は、計算したら （☆賄賂）０万です。","Now then...
+ Akuji-saaan, I really gave it my all this time.
+ I calculated it, and since a lot was piled up...
+ Here. The amount we have to send to everyone adds up to （☆賄賂）00K."
+Yamamoto Akuji (talking),ほら。 工面してきた。,"Here, it`s all sorted."
+ (talking),"はい、お疲れさまでした。
+後ですねー… 言いにくいんですが……
+さすがに、これだけ事件が起こると 市議会の人間の見解だと、「犠牲者」が 必要かなーと。","Good work.
+ Also, I hate to say this, but...
+ With this many incidents, we`re gonna need someone to play the scapegoat."
+Yamamoto Akuji (talking),ムショ行きか。 しかたねーな……,So it`s jail time for them? So be it...
+narrator,（部下を選ぶコマンド・・）,（部下を選ぶコマンド・・）
+karasuba  tsuki (talking),ＸＸＸＸＸさんですね、分かりました。 近日中に事件の責任者って事で 出頭させといて下さいね。,ＸＸＸＸＸ -san? Okay. Please make them turn themselves in soon.
+Yamamoto Akuji (talking),わかった。,Got it.
+__system__??,{RND \ 0:,{RND \ 0:
+Aoba Youko (talking),悪司さん、今のは、あんまりかと…,"Akuji-san, that`s a bit..."
+Yamamoto Akuji (talking),じゃあ、お前が代わってやるか？,"You volunteering, then?"
+Aoba Youko (talking),うっ……,Ugh...
+Yamamoto Akuji (talking),いい子だな、青葉。 だからだまっとけ。,"Good girl, Aoba. Keep your mouth shut."
+Aoba Youko (talking),……………,...
+__system__??,},}
+Aoba Youko (talking),"それでですねー… もーー困りますよ、悪司さーーん。
+お金で事件をもみ消すといっても 限度があるんですよ。
+今のままだと、市議会なんてちっちゃい とこだけじゃなくって、中央のお役所の 面々から文句つけられちゃいますよー。","So you see... we`re in trouble, Akuji-san.
+ There`s only so much we can cover up with money.
+ At this rate, forget the CC, even the capitol will start receiving complaints."
+Yamamoto Akuji (talking),悪い悪い。,My bad.
+Aoba Youko (talking),はぁー… ちっとも反省してる顔じゃない。,Sigh... You don`t look remorseful at all.
+Yamamoto Akuji (talking),なんとかしてくれよ。,Do something about it.
+Aoba Youko (talking),"わかってます…わかってますけどねー…
+でも今回は高くつきますよ。 各方面の先生方には （☆賄賂）０万円支払ってもらいます。","I know, but still...
+ This time will cost you. I`ll have to pay everyone （☆賄賂）00K yen."
+Yamamoto Akuji (talking),わかった。,Fine.
+Aoba Youko (talking),それから、ある程度、地位のある人を 出して下さい。 全てその人の責任にしますので。,"Also, turn in someone big from your group. They`ll be the scapegoat."
+Yamamoto Akuji (talking),さて、誰にまずいメシを食って もらうかな…,Who should I send to the slammer...?
+narrator,（部下を選ぶコマンド）,（部下を選ぶコマンド）
+__system__??,{Bキャラ > 499:,{Bキャラ > 499:
+karasuba  tsuki (talking),"ＸＸＸＸさんですか。 駄目です、こんな小物じゃ。 向こうは納得してくれませんよ。
+もっと偉い人を選んで下さいよ。","ＸＸＸＸ -san? That nobody won`t do, it`s gotta be convincing.
+ Please choose a big shot."
+__system__??,},}
+karasuba  tsuki (talking),ＸＸＸＸさんですか、 わかりました。 それでは近日中に出頭させて下さい。,ＸＸＸＸ -san? Okay. Have them turn themselves in soon.
+Yamamoto Akuji (talking),わかった。 後はよろしく頼む。,Alright. I`ll leave the rest to you.
+karasuba  tsuki (talking),ほんと、こんな大規模な処理は 困りますよ。 次から気をつけて下さいよ。,"Man, fixing this big of a problem is a nightmare. Be more careful next time."
+Yamamoto Akuji (talking),ああ。,Aye.
+Yamamoto Akuji (thinking),"さーて、じゃあドンパチを……
+と、待てよ。 その前にハルセの市議会に行って、 監督官に会ってねーじゃねぇか。
+裏から手ぇ回してない状態でドンパチ 始めたら、あっという間に、懲罰警察の エジキじゃねぇか。
+うーん…メンドクセェけど、 ハルセに行ってからだなぁ。","Now, time to kick some-
+ -Wait. I haven`t gone to the CC in Haruse and met our supervisor yet.
+ The Punitive Police`ll kill us if we start shit without someone to cover up our mess.
+ Hrm... It sucks, but I gotta head to Haruse first."

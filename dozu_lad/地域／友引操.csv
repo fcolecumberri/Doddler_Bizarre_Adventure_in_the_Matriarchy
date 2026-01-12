@@ -1,0 +1,1202 @@
+character,Jap,Eng
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,},}
+__system__??,{麦 = 12:,{麦 = 12:
+__system__??,{H愛欲 = 1:,{H愛欲 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+__system__??,{麦 = 17:,{麦 = 17:
+__system__??,{H拷問抵抗 < H拷問:,{H拷問抵抗 < H拷問:
+__system__??,},}
+__system__??,{H拷問 = 1:,{H拷問 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 18:,{麦 = 18:
+__system__??,},}
+__system__??,{麦 = 19:,{麦 = 19:
+__system__??,},}
+Yamamoto Akuji (talking),よう、看護婦さん。,Hellooooo nurse.
+Tomobiki Misao (talking),………………,...
+Yamamoto Akuji (talking),あんたが友引操で間違いないよな？ 失踪してた看護婦のリーダーで。,"You`re Tomobiki Misao, right? The leader of the missing nurses?"
+Tomobiki Misao (talking),……そうです。,...That`s right.
+Yamamoto Akuji (talking),お、あっさり認めたな。,"Oh, so you admit it."
+Tomobiki Misao (talking),"私以外のみんなは、 ただ手伝ってもらっていただけで 全然関係ないんです……
+お願いです、みんなを解放して下さい。 シャアの事を知っているのは私だけで……","All of the other nurses were just helping me out, they don`t have anything to do with it...
+ Please, let them go. I`m the only one who knows about Char."
+Yamamoto Akuji (talking),シャア？　シャアって何だ？,Char? Who`s that?
+Tomobiki Misao (talking),えっ…… ご存じないんですか……？,Huh?! You don`t know...?
+Yamamoto Akuji (talking),さっぱり。,Not at all.
+Tomobiki Misao (talking),………………,...
+Yamamoto Akuji (talking),よう、あんたが森に隠れてたのと、 そのシャアとか言うヤツ、 何か関係あんのか？,"Hey, does that Char you`re talking about have anything to do with why you were hiding in the forest?"
+Tomobiki Misao (talking),…………いえ、別に……,"...No, not really..."
+Yamamoto Akuji (talking),"いまさらそりゃねぇだろ。 喋ってくれや、操ちゃん。
+あの森には凶暴なパンダも出てたんだぞ。 女ばっかであんなとこに居るには 相当の覚悟が要ったはずだぜ。
+ ……やっぱ、噂通りに 埋蔵金でも見つけたのか？","Yeah, right. Spill it, Misao-chan.
+ There are some ferocious pandas in that forest. No way a buncha women would go there without a good reason.
+ ...Are the rumors that you`ve found some buried treasure true after all?"
+Tomobiki Misao (talking),私は、お金なんかのために あんな所へ隠れたりはしません。,I`d never hide in such a place over money.
+Yamamoto Akuji (talking),じゃあ、そのシャアってのが原因だな。,Then it must be because of Char.
+Tomobiki Misao (talking),………………,...
+Yamamoto Akuji (talking),あんた嘘吐くのヘタだなー。 バッチリ顔に出てるぞ。,You suck at lying. Your face tells me everything.
+Tomobiki Misao (talking),何と言われようと…… 話せないものは、話せません。,No matter what you say... I won`t talk about what I can`t.
+Yamamoto Akuji (talking),なるほど。 知りませんじゃなくて話せませんか。 ある意味自白と一緒だなー。,"I see. So it`s not that you don`t know, you can`t talk about it. That`s practically a confession."
+Tomobiki Misao (talking),………………,...
+Yamamoto Akuji (talking),さて、どうしたもんかね……,"Now then, what should I do...?"
+Yamamoto Akuji (talking),操ちゃん、そろそろ話してくんねぇか。 おめー何をそんなに隠してんだ？,"Misao-chan, how `bout you spill it already? What`re you trying to hide?"
+Tomobiki Misao (talking),"………………
+お願いです、もう帰して下さい……
+水を、水をやらないと…… このままじゃ大変なことに……","...
+ Please, let me go back...
+ If I don`t give it water, it`ll be terrible..."
+Yamamoto Akuji (talking),水ぅ？　花壇でもあんのか？,"Water? What, you keepin` flowers?"
+Tomobiki Misao (talking),………………,...
+Yamamoto Akuji (thinking),隠してるのって……花なのか？ うーむ………………,She`s hiding... flowers? Hrmm...
+Yamamoto Akuji (talking),"しかしおめー、いつ見ても 思い詰めたような顔してるよな。
+心と躰をちょいと楽にしてやろうか。","I gotta say, you seem worried about something every time I see you.
+ Shall I put your mind and body at ease?"
+Tomobiki Misao (talking),えっ……？,Huh...?
+Yamamoto Akuji (talking),いいから、ついて来な。,Just come with me.
+Yamamoto Akuji (talking),ほれ、入れ。,"C`mon, get in."
+Tomobiki Misao (talking),入りますけど…… ここで一体、何を…………,"Sure, but... What in the world are we-"
+Yamamoto Akuji (talking),……さあな。,...Who knows.
+narrator,──悪司は訝しむ操をいきなり抱き寄せて、 上着の前身頃に手をかけた。,Akuji suddenly approached the suspicious Misao and touched the front of her blouse.
+Tomobiki Misao (talking),あ……っ！　何をするんですかっ……！！,Ah! What are you doing?!
+Yamamoto Akuji (talking),何って、もう解んだろ？ 俺の趣味じゃねぇんだが、 いっそ服でも引き裂こうか？,"I`m sure you can tell. It ain`t my style, but do ya want me to tear your clothes off?"
+Tomobiki Misao (talking),"う…………！　っ…………
+ ………………","Ugh...!
+ ..."
+Yamamoto Akuji (talking),……ん…………？ もう抵抗すんのやめちまうのか？,...Hm? Giving up already?
+Tomobiki Misao (talking),………………,...
+Yamamoto Akuji (talking),好きにしちまうぞ。 ……いいのか？,I`m gonna do whatever I want. ...You fine with that?
+Tomobiki Misao (talking),"お願いが……あります…………
+私の躰なんて、 好きにして下さって結構ですから……
+だから、逃がして下さい……","I have... one request...
+ You can have your way with my body, so...
+ Please, let me go..."
+Yamamoto Akuji (talking),"ふーん。 そこまで言うかい。
+まあ、考えてやるよ。 考えてやるだけな。","Hmph. So you`re going that far?
+ Well, I`ll think about it. But no promises."
+Tomobiki Misao (talking),あっ………………！！,Ah...!
+Tomobiki Misao (talking),友引操は、初めてだった。,It was Tomobiki Misao`s first time.
+ (talking),操ちゃん、俺の部屋に行こうぜ。,"Let`s go to my room, Misao-chan."
+ (talking),……………… また、私の躰を弄ぶんですか……,... So you`ll toy with my body again?
+ (talking),そーだけど、何か不満か？ この前は悦んでたくせに。,"That`s right, any problem with that? You were into it last time, too."
+ (talking),そっ…………それは……,Th-That`s...
+ (talking),ほれほれ、早く来いって。,"C`mon, let`s go already."
+narrator,悪司は操の手を取って、 自分の部屋へ向かって歩き出した。,Akuji took Misao`s hand and began walking towards his room.
+narrator,友引操は、悪司にこまされた。,Akuji fucked Misao.
+Yamamoto Akuji (talking),"別に俺は、看護婦さんに フェチズム持ってる訳じゃねぇが……
+何かこう、操ちゃんとヤってると 看護婦フェチの気持ちって 解る気がすんなあ。","I don`t really have a nurse fetish, but...
+ Whenever I do it with you, Misao-chan, I feel like I get why it`s a thing."
+Tomobiki Misao (talking),…………う、っ……,...Uuu...
+Yamamoto Akuji (talking),セックスって性格出るもんだしな。 俺に合わせて腰浮かせてくれたりとか、 操ちゃんったら甲斐甲斐しいからなー。,Your personality comes out during sex. You matched your movements with mine `cause you`re that diligent.
+Tomobiki Misao (talking),私、そんなことしてませんっ……,I did not do that!
+Yamamoto Akuji (talking),"んじゃ無意識か？　だったら尚スゲーぜ。 相手のために自然と動いてるなんてよ。
+うーん、俺も操ちゃんに いろいろ世話してもらいてぇかもなぁ。","So it wasn That`s even more amazing, then.
+ I think I want you to keep takin` care of me, Misao-chan."
+Tomobiki Misao (talking),"………………
+酷いです……そんな言い方っ…………","...
+ The way you say it is so awful..."
+Yamamoto Akuji (talking),あ、わりぃ。別に悪意はねぇんだが。 ……泣くなよー。,Sorry. Didn`t mean anything bad by it. ...Don`t cry.
+Yamamoto Akuji (thinking),よし、ここは一つ優しくなだめてみるか。,"Okay, let`s try being nice to her."
+Yamamoto Akuji (talking),なあ、操ちゃん。 何だかんだでずっと困ってたんだろ？ その隠し事のせいでよ。,"Hey, Misao-chan. That thing you`ve been hiding is troubling you, right?"
+Tomobiki Misao (talking),………それは………,...That`s...
+Yamamoto Akuji (thinking),……おっ、反応しやがった。 解りやすいヤツぅー。,"Ohoh, she reacted to that. She`s so easy to read."
+Yamamoto Akuji (talking),"何だったら話してみろよ。 重要な事は話さなくてもいいし、 相談でもするつもりで。
+俺に出来そうな事だったら、 何かしてやれるかもしれねぇぞ？","Then why not talk to me about it? You can leave out the important details, just get if off your chest.
+ If it`s something I can do, then I might be able to help, y`know?"
+Tomobiki Misao (talking),"………………
+ …………あ、あの、実は……","...
+ U-Um, the truth is..."
+Yamamoto Akuji (talking),じーーーーーーー。,Staaaaaare.
+Tomobiki Misao (talking),………………,...
+Yamamoto Akuji (talking),じーーーーーーー。,Staaaaaare.
+Tomobiki Misao (talking),"………………
+ ……あの。 どうして私の目を じっと見てるんですか……？","...
+ ...Hey. Why are you staring into my eyes...?"
+Yamamoto Akuji (talking),いやあ、やっぱ誠意は 目で示すもんかなぁと。,"Well, I thought I`d express how sincere I`m being."
+Tomobiki Misao (talking),……………… やっぱり、話す訳にはいきません……,"...As I thought, I can`t tell you about it."
+Yamamoto Akuji (talking),なぬー！？,What?!
+Yamamoto Akuji (thinking),くそう、視線に込めた誠意が 足りなかったのか……,"Shit, did I not show her enough sincerity?"
+Tomobiki Misao (thinking),こんな目つきの悪い人、 絶対信じられない…………,I can`t trust someone with such a nasty look in his eyes...
+Yamamoto Akuji (talking),"よし、お前はウリに出そう。
+何せ看護婦だし、 潜在需要も高かろうしなあ。 売れまくること間違いナシ。","Alright, I`m putting you to work.
+ You`re a nurse after all, a lotta people are into that. I`m sure you`ll earn a lot."
+Tomobiki Misao (talking),は……？,Huh...?
+Yamamoto Akuji (talking),鈍いやっちゃなあ、ピンと来いよ。 無理矢理躰を売らせようっつってんだ。,"Get a clue already, slowpoke. I`m turning you into a prostitute."
+Tomobiki Misao (talking),どっ……どうして私がそんな事を……,Wh-Why would you do that?
+Yamamoto Akuji (talking),"嫌がるのは勝手だが、 こっちは無理矢理にでもやらせるぜ。
+そう、戸籍も全部書き換えて 逃げられなくしちまってな。
+ま、俺に捕まったのが運の尽きだと 諦めるんだなー。","You`re free to not like it, but I`ll force you if I have to.
+ I even changed your family register so ya can`t escape.
+ Well, your luck ran out the moment I captured you."
+Tomobiki Misao (talking),"………………
+今、戸籍も書き換えるって…… そう言いましたか？","...
+ Did you just say you changed my family register?"
+Yamamoto Akuji (talking),おう、すっかり別人にしちまって うちの組織が操ちゃんの身柄を 完全に押さえちまうぜ。,"Yeah, you`re now a totally different person. My group has total control over you now."
+Tomobiki Misao (talking),……………… 追跡者を振りきれるかも……,... I might be able to lose my pursuers...
+Yamamoto Akuji (talking),はっ？,Huh?
+Tomobiki Misao (talking),"……言う通りにします。 あなたの言う通りにしますから、 一つだけ約束して下さい。
+月に……月に一度でいいです。 自由にできる日を下さい……","...I`ll go along with it. I`ll do whatever you say, so promise me this one thing.
+ Once a month... just once, let me have a day where I`m free."
+Yamamoto Akuji (talking),いや、心配せんでも 娼婦は週休二日だが…… もち生理休みもアリで。,"Uh, you don`t have to worry, you get two days off a week, plus whenever you`re in your period."
+Tomobiki Misao (talking),そんなにお休みあるんですか？,That also gives me holidays?
+Yamamoto Akuji (talking),"んだっておめー、無理矢理躰売らせて 待遇まで悪かったら誰だって逃げるだろ。
+稼いでる分はキッチリ還元してやるよ、 娼婦以外の仕事すんのがヤになるくらい。","Well yeah, you`ll scare customers away if we force you to do it then.
+ Work well and I`ll pay you well. You won`t ever want another job."
+Tomobiki Misao (talking),ああ、良かった…… これで安心して水やりに行ける……,"Oh, I`m so glad... Now I can go give it water in peace..."
+Yamamoto Akuji (talking),"………………
+なー、操ちゃん。 看護婦ってそんなに待遇悪いのか？","...
+ Hey, Misao-chan. Does being a nurse suck that much?"
+Tomobiki Misao (talking),えっ？,Eh?!
+Yamamoto Akuji (talking),"いや、看護婦が仕事キツいって話は よく聞くしなあ。
+まさか花に水をやりたいがために 病院から失踪したんかなぁと……","I mean, I always hear that being a nurse is pretty tough.
+ Made me think you left the hospital just to water the flowers."
+Tomobiki Misao (talking),……あの、何を…………,"...Um, what are you-"
+Yamamoto Akuji (talking),そっかぁ、 大変なんだな、看護婦って…… いやまあ、忘れてくれ。,"I see, so being a nurse really is that tough. Anyway, forget I said anything."
+Tomobiki Misao (talking),………………？？？,...???
+Yamamoto Akuji (talking),"よし、操ちゃんはＧＡＬバーガーの 店員になってもらおう。
+何せ看護婦だし、 サービス業のコツは解ってるだろ。","Alright, Misao-chan, I`m putting you to work at GAL Burger.
+ You`re a nurse, after all, so you know how to deal with other people."
+Tomobiki Misao (talking),あ、あの……一体何の話ですか？,"U-Um, what are you talking about?"
+Yamamoto Akuji (talking),まあ要するに、 ハンバーガー屋の店員として 強制労働して頂きましょう、ってこった。,"Basically, I`m forcing you to work at my burger joint."
+Tomobiki Misao (talking),こっ、困ります……！ 私、色々な人に 追われているんですから……！,I-I can`t do that! There are all sorts of people after me!
+Yamamoto Akuji (talking),へ？　そうなのか？ どこの誰に。,Huh? Really? What kinda people?
+Tomobiki Misao (talking),"えっ……？ あ、あの…………
+ ……そ、そう、借金取りとか、 その、ストーカーとか…………","Huh?! U-Um...
+ ...D-Debt collectors, for one, and also stalkers..."
+Yamamoto Akuji (talking),あー、なるほどな。 操ちゃん美人だし看護婦だし、 妙な元患者とか居たのか？,"Ah, I get it. You`re a hot nurse, so I guess you had some weird patients?"
+Tomobiki Misao (talking),そ……そんな感じです。 ですから、あの……,S-Something like that. Which is why...
+Yamamoto Akuji (talking),"なぁに、心配すんな。 必要だって言うんなら、 こっちもイロイロ対策してやるよ。
+そう、戸籍も全部書き換えて 安心して働けるようにな。
+ ……そうする一番の目的は、 店員の女を逃がさないためだけど。","Ah, don`t worry `bout it. If you think it`s necessary, I`ll take some countermeasures.
+ I`ll change your family register so you can work with no problems.
+ ...Though my main reason is to keep the girls from running away."
+Tomobiki Misao (talking),………………,...
+Yamamoto Akuji (talking),ま、俺に捕まったのが運の尽きだと そう思って諦めるんだなー。,"Well, your luck ran out the moment I captured you."
+Tomobiki Misao (talking),……………… 願ったり叶ったり、かも……,... This might be all I ever wanted...
+Yamamoto Akuji (talking),はっ？,Huh?
+Tomobiki Misao (talking),"……言う通りにします。 あなたの言う通りにしますから、 一つだけ約束して下さい。
+月に……月に一度でいいです。 自由にできる日を下さい……","I`ll do it. I`ll do as you say, so promise me this one thing.
+ Once a month... just once, let me have a day where I`m free."
+Yamamoto Akuji (talking),いや、心配せんでも バーガー屋の店員は週休二日だが……,"Uh, don`t worry, everyone gets two days off every week."
+Tomobiki Misao (talking),そんなにお休みあるんですか？,We get that much time off?
+Yamamoto Akuji (talking),"何でもウィミィの労働基準法で そう決まってるらしくてよ。
+バーガー屋の経営を任せてる女が、 ウィミィのやり方に えらくこだわってるもんでな……
+ま、こっちも可愛い女つかまえて 無理矢理働かせてんだから、 労働条件はいいに越したこたぁねぇし。
+あんまキツイと、 みんなヤになって逃げちまうだろ？","We have to follow Wime`s Labor Act after all.
+ The woman in charge of the burger joint is a real stickler for Wime`s laws, too...
+ Well, since I`m forcing the girls I`ve captured to work, I might as well give them good working conditions.
+ They`ll all run away if I treat them too badly."
+Tomobiki Misao (talking),ああ、良かった…… これで安心して水やりに行ける……,"Oh, I`m so glad... Now I can give it water in peace..."
+Yamamoto Akuji (talking),"………………？
+なー、操ちゃん。 看護婦ってそんなに待遇悪いのか？","...?
+ Hey, Misao-chan. Does being a nurse suck that much?"
+Tomobiki Misao (talking),えっ？,Eh?!
+Yamamoto Akuji (talking),"いや、看護婦が仕事キツいって話は よく聞くしなあ。
+まさか花に水をやりたいがために 病院から失踪したんかなぁと……","I mean, I always hear that being a nurse is pretty tough.
+ Made me think you left the hospital just to water the flowers."
+Tomobiki Misao (talking),……あの、何を…………,"...Um, what are you-"
+Yamamoto Akuji (talking),そっかぁ、 大変なんだな、看護婦って…… いやまあ、忘れてくれ。,"I see, so being a nurse really is that tough. Anyway, forget I said anything."
+Tomobiki Misao (talking),………………？？？,...???
+Yamamoto Akuji (talking),おめーさあ、絶対何か隠してんだろ。,You`re definitely hiding something.
+Tomobiki Misao (talking),……別に…………,...Not really.
+Yamamoto Akuji (talking),んじゃ、森に隠れてた理由を 教えてもらおうか。,Then why were you hiding in the forest?
+Tomobiki Misao (talking),………………,...
+Yamamoto Akuji (talking),やっぱ金か？　宝か？,"I knew it, money? Treasure?"
+Tomobiki Misao (talking),そんなもの、何もありません……,There`s nothing like that.
+Yamamoto Akuji (talking),嘘だな。 何かがあって隠してる、 そーいう顔してるぜ。,"Bullshit. I can tell from looking at you, you`re hiding something."
+Tomobiki Misao (talking),………………,...
+Yamamoto Akuji (talking),"どうにも知りたくなってきたな……
+拷問してでも吐かせたい、 なーんつったらどうする？","And I really wanna find out.
+ I`ll torture it out of you if I have to. Do you want that?"
+Tomobiki Misao (talking),………………,...
+Yamamoto Akuji (talking),"しゃあねぇな。
+ ……日陰さん、 拷問担当の連中に連絡つけてくれ。","Oh well.
+ Hikage-san, bring the torturers here."
+Hikage Mitsuko (talking),…………はい…… それじゃ……すぐに…………,Okay... Right away...
+Tomobiki Misao (talking),……？　まさか本当に……,"...? No way, you`re really-"
+Yamamoto Akuji (talking),おう、やっちまうぞ、拷問。 話すなら今の内だぜ？,"Yep, it`s torture time. Wanna avoid it? Last chance to talk."
+Tomobiki Misao (talking),………………,...
+Yamamoto Akuji (talking),"あっそ。
+んじゃな、操ちゃん。 恨むなら頑固な自分を恨めよ。 無事だったらまた会おうぜ。","Suit yourself.
+ See ya, Misao-chan. Blame your stubborness for this. We`ll meet again if you survive."
+Tomobiki Misao (talking),"……たとえ、何があっても…… 話す訳には……………
+ ………………","...No matter what happens, I can`t...
+ ..."
+ (talking),さーて、操ちゃん。 そろそろ知ってる事を吐く気になったか？,"Now then, Misao-chan, ain`t it about time you told me what you know?"
+ (talking),……………… 絶対、話すわけにはいきません……,... I absolutely can`t talk about it.
+ (talking),躰がブッ壊れたり、 可愛い顔が歪んだりする前に 喋った方がいいと思うがなー。,I think you should tell me what you know before that pretty face of yours gets damaged.
+ (talking),………………,...
+ (talking),しゃあねえな。 んじゃ、またな。,Fine. I`ll see you another time.
+ (talking),"……あっ……………
+ ………………","...Ah...!
+ ..."
+ (talking),"しっかし、まだ喋る気ねぇのか？ いい加減保たないとこまで来てんだろー？
+さっさとゲロして楽になっちまえよ。 な？","You still don`t feel like talking? I doubt your body can take much more.
+ Make it easy on yourself. Spill it. Come on."
+ (talking),………………,...
+ (talking),……やれやれ。 密子さーん、拷問係に連絡を……,"...Fuck`s sake. Mitsuko-san, call the tortu-"
+ (talking),あっ、ひっ…………！ や、やめて下さ…………,"E-Eeeeek! P-Please, stop...!"
+ (talking),お、言う気になったか？,"Oh, feelin` talkative now?"
+ (talking),……あ、う……ううっ…………,...Ah... uuuu...
+ (talking),……そっか、残念だ。,...I see. Too bad.
+ (talking),……ああっ……………！,Ah...!
+cg narrator,"「いっ……いやあああっ！！ 　もう止めて下さいっ！　止めて…………！！」
+躰を縛られて自由でなくなった四肢をばたつかせ、 操は必死で叫び続けた。──が。
+「だから何度も言わせないでくれ。 　止めて欲しいなら喋りゃいいんだよ」
+拷問手は冷たく言い放ち、オイルで湿らせた バイブレーターとアナルパールを それぞれ秘裂と菊座へ押し込んでいった。
+「いやっ……ひあああああああああ……ッ！！ 　あ、っく…………うあ、あッ…………！」
+「ちっ……この程度で悲鳴上げるんなら、 　さっさとギブアップしちまえよな……」
+拷問手は、操の尻の肉を腹立たしげに叩いて 不満をそのまま口にする。
+──そう、拷問手は不満だった。
+本来なら、操の柔肌に血が滲むほど責め立て、 場合によっては死の間際まで追い込みたいのだ。
+拷問手はそれほどのサディストであり、 だからこそ悪司の部下として雇われてもいる。
+拷問手にとって、この程度で悲鳴を上げる操は “生け贄”として物足りない存在だった。
+「こんなもん、拷問としちゃ初歩の初歩だってのに 　……イライラしてくるよな、全く……」
+言いつつ、 拷問手は懐からカッターナイフを取り出す。 そして、操の躰に近付けていく。
+「本当だったら、こいつを使って 　あんたの肌を切り刻んでやりたいのに……」
+拷問手は、一度それを実行していた。 徹底的に操を傷つけ、追い込んで──気絶させて。
+だがそれ以後、操の心に恐怖心が刻み込まれ、 ほんのわずかな責めですら耐えられなくなった。
+気絶させてしまえば意味がないし、 発狂するまで追い込む訳にもいかないから──
+「この程度の事しかできないなんてな……」
+拷問手は操の服やストッキングに刃を当て、 切れ目を入れては引き裂く事を繰り返す。
+その時、操の温かな肌に冷たい刃が触れた。
+「あ……ひっ……！　う、っう……」
+刃の冷たさを感じる度に、 操の背が、恐怖でビクッと小さく震える。
+「チッ……この根性なしが……」
+拷問手にとっては、肌を切り刻めないが故の 代償行為に過ぎないのに、それでも操は怯える。
+操の気が弱いといえば、それまでだ。 ──だが、これが普通かもしれない。
+むしろ、それだけの恐怖を感じていながら、 今まで口を割らずに我慢してきただけでも 驚くべき事だろう。
+「う…………ううっ、ああっ…………！」
+操の手が、足が、がくがくと震えている。
+秘裂に突き入れられたバイブが、 躰の痙攣に会わせて小刻みに揺れる。 揺れながら躰の外へと押し出されていく。
+すると、菊座に入っていたアナルパールも、 つぷ、つぷ……と小さな音を立てながら、 一つずつ外に押し出されていった。
+──その操の反応に、拷問手がふと気付いた。
+「…………？　これは……」
+操の恥部を凝視しながら少し考えて、 拷問手はバイブとアナルパールを 彼女の躰の奥へと再び押し込んでいく。
+　　［ず、ずぶ……ずるっ……］
+塗りたくったオイルと異物、そして操の躰が 微かな異音を立てる。
+「ひ、あっ…………うあっ…………！」
+操は息を呑み、躰を強張らせる。
+この時も躰の震えは続いていたが、 それは、傍目に解るほど大きなものではなかった。
+バイブも、アナルパールも── 今は埋め込まれたまま、外へと出てくる事はない。
+それを確認した拷問手は、 カッターナイフを握り直した。
+「………………」
+冷たい刃を、操の柔肌にそっと押しつける。
+すると、操の躰が急にがたがたと震え始めた。
+「ああっ……！　あ、ひっ…………！」
+そして──秘裂と、菊座から。
+少しずつ、埋め込まれていた異物が 押し出されていく──
+「はは……根性なしは根性なしで、 　それなりに遊ぶ方法はあるって事か……」
+拷問手はにやりと笑って、 再度異物を操の中に押し込めていく。
+「い、嫌っ…………あああっ…………！！」
+「くくっ……これでお前の肌を傷つけたら、 　恐怖でズボッとオモチャが出てくるのか……？ 　それとも、気絶しちまう方が先かな？」
+「やっ、やめて……止めて下さいっ……！」
+「止める訳がないだろう。 　これからしばらくは、 　こうやって遊ばせてくれないとな……」
+「……しばらく、って…………」
+「隠してる事、喋る気はないんだろう？ 　ならせめて、その気になるまで遊ばせてくれよ」
+拷問手は言って、 カッターの刃をキチキチと音を立て伸ばしていく。
+──その音だけで、 もう操の我慢の限界は超えていた。
+「ひ、いっ……………………っ………………」","「いっ……いやあああっ！！ 　もう止めて下さいっ！　止めて…………！！」
+ 躰を縛られて自由でなくなった四肢をばたつかせ、 操は必死で叫び続けた。──が。
+ 「だから何度も言わせないでくれ。 　止めて欲しいなら喋りゃいいんだよ」
+ 拷問手は冷たく言い放ち、オイルで湿らせた バイブレーターとアナルパールを それぞれ秘裂と菊座へ押し込んでいった。
+ 「いやっ……ひあああああああああ……ッ！！ 　あ、っく…………うあ、あッ…………！」
+ 「ちっ……この程度で悲鳴上げるんなら、 　さっさとギブアップしちまえよな……」
+ 拷問手は、操の尻の肉を腹立たしげに叩いて 不満をそのまま口にする。
+ ──そう、拷問手は不満だった。
+ 本来なら、操の柔肌に血が滲むほど責め立て、 場合によっては死の間際まで追い込みたいのだ。
+ 拷問手はそれほどのサディストであり、 だからこそ悪司の部下として雇われてもいる。
+ 拷問手にとって、この程度で悲鳴を上げる操は “生け贄”として物足りない存在だった。
+ 「こんなもん、拷問としちゃ初歩の初歩だってのに 　……イライラしてくるよな、全く……」
+ 言いつつ、 拷問手は懐からカッターナイフを取り出す。 そして、操の躰に近付けていく。
+ 「本当だったら、こいつを使って 　あんたの肌を切り刻んでやりたいのに……」
+ 拷問手は、一度それを実行していた。 徹底的に操を傷つけ、追い込んで──気絶させて。
+ だがそれ以後、操の心に恐怖心が刻み込まれ、 ほんのわずかな責めですら耐えられなくなった。
+ 気絶させてしまえば意味がないし、 発狂するまで追い込む訳にもいかないから──
+ 「この程度の事しかできないなんてな……」
+ 拷問手は操の服やストッキングに刃を当て、 切れ目を入れては引き裂く事を繰り返す。
+ その時、操の温かな肌に冷たい刃が触れた。
+ 「あ……ひっ……！　う、っう……」
+ 刃の冷たさを感じる度に、 操の背が、恐怖でビクッと小さく震える。
+ 「チッ……この根性なしが……」
+ 拷問手にとっては、肌を切り刻めないが故の 代償行為に過ぎないのに、それでも操は怯える。
+ 操の気が弱いといえば、それまでだ。 ──だが、これが普通かもしれない。
+ むしろ、それだけの恐怖を感じていながら、 今まで口を割らずに我慢してきただけでも 驚くべき事だろう。
+ 「う…………ううっ、ああっ…………！」
+ 操の手が、足が、がくがくと震えている。
+ 秘裂に突き入れられたバイブが、 躰の痙攣に会わせて小刻みに揺れる。 揺れながら躰の外へと押し出されていく。
+ すると、菊座に入っていたアナルパールも、 つぷ、つぷ……と小さな音を立てながら、 一つずつ外に押し出されていった。
+ ──その操の反応に、拷問手がふと気付いた。
+ 「…………？　これは……」
+ 操の恥部を凝視しながら少し考えて、 拷問手はバイブとアナルパールを 彼女の躰の奥へと再び押し込んでいく。
+ 　　［ず、ずぶ……ずるっ……］
+ 塗りたくったオイルと異物、そして操の躰が 微かな異音を立てる。
+ 「ひ、あっ…………うあっ…………！」
+ 操は息を呑み、躰を強張らせる。
+ この時も躰の震えは続いていたが、 それは、傍目に解るほど大きなものではなかった。
+ バイブも、アナルパールも── 今は埋め込まれたまま、外へと出てくる事はない。
+ それを確認した拷問手は、 カッターナイフを握り直した。
+ 「………………」
+ 冷たい刃を、操の柔肌にそっと押しつける。
+ すると、操の躰が急にがたがたと震え始めた。
+ 「ああっ……！　あ、ひっ…………！」
+ そして──秘裂と、菊座から。
+ 少しずつ、埋め込まれていた異物が 押し出されていく──
+ 「はは……根性なしは根性なしで、 　それなりに遊ぶ方法はあるって事か……」
+ 拷問手はにやりと笑って、 再度異物を操の中に押し込めていく。
+ 「い、嫌っ…………あああっ…………！！」
+ 「くくっ……これでお前の肌を傷つけたら、 　恐怖でズボッとオモチャが出てくるのか……？ 　それとも、気絶しちまう方が先かな？」
+ 「やっ、やめて……止めて下さいっ……！」
+ 「止める訳がないだろう。 　これからしばらくは、 　こうやって遊ばせてくれないとな……」
+ 「……しばらく、って…………」
+ 「隠してる事、喋る気はないんだろう？ 　ならせめて、その気になるまで遊ばせてくれよ」
+ 拷問手は言って、 カッターの刃をキチキチと音を立て伸ばしていく。
+ ──その音だけで、 もう操の我慢の限界は超えていた。
+ 「ひ、いっ……………………っ………………」"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+cg narrator,"──操の意識が、遠のく。
+四肢は力を失って投げ出され、 震えるどころかぴくりとも動かなくなった。
+ 「チッ、もう終わりかよ…… 　無理矢理起こして続けてもいいが、 　そこまでやれば発狂しかねんな……」
+拷問手はもう、操に飽きてしまっていた。
+ 「こんな面白くない奴に付き合っていられるか…… 　次はいっそ、事故に見せかけて殺してやる……」
+拷問手は操の躰を蹴って、地下室から出ていく。
+ ──拷問手は、本気だった。 次があれば、操を殺していただろう。
+だが、その“次の拷問”は、もうなかった。","──操の意識が、遠のく。
+ 四肢は力を失って投げ出され、 震えるどころかぴくりとも動かなくなった。
+ 「チッ、もう終わりかよ…… 　無理矢理起こして続けてもいいが、 　そこまでやれば発狂しかねんな……」
+ 拷問手はもう、操に飽きてしまっていた。
+ 「こんな面白くない奴に付き合っていられるか…… 　次はいっそ、事故に見せかけて殺してやる……」
+ 拷問手は操の躰を蹴って、地下室から出ていく。
+ ──拷問手は、本気だった。 次があれば、操を殺していただろう。
+ だが、その“次の拷問”は、もうなかった。"
+Yamamoto Akuji (talking),……日陰さん、 操ちゃんが全部話す気になったんだって？,"...Hikage-san, does Misao-chan feel like telling us what she knows?"
+Hikage Mitsuko (talking),"……はい…… 今、目を覚まして…
+連れてきましょう…か……？","Yes... She just came to again...
+ Shall I bring her in...?"
+Yamamoto Akuji (talking),おう、頼むぜ。,Please do.
+Hikage Mitsuko (talking),じゃあ、ちょっとだけ…… 待っていて下さい……,Then give me a second... I`ll bring her in...
+Tomobiki Misao (talking),話します……話しますから………… お願い、もう……許して下さい……！,"I`ll talk... I`ll talk, so please... let me go already!"
+Yamamoto Akuji (talking),……怯えきってんなー。 最初から素直に言えばいいのによ。,...Look how scared you are. Shoulda just talked from the start.
+Tomobiki Misao (talking),言います……言います、全部言います…… でも、絶対に近付かないで…… 危険なんです、危険………………,"I`ll tell you everything... But you absolutely must not approach it, it`s dangerous..."
+Yamamoto Akuji (talking),解った、解ったから。だから何だ。,"Okay, okay, just tell me what it is."
+Tomobiki Misao (talking),………………あ、あの……,...U-Um...
+Yamamoto Akuji (talking),落ち着け、深呼吸しろ。 解りやすく最初から話せ。,"Calm down. Take a deep breath. Tell me everything, loud and clear."
+Tomobiki Misao (talking),"……はい。
+あの、池田さんって方がいて…… 私の担当した患者さんで……
+その人、旧ニホン軍の将校で……","...Okay.
+ There was this person, Ikeda-san, who was a patient under my care...
+ He was a former army officer..."
+Yamamoto Akuji (talking),"ああ、市議会から回ってきた資料で見た。 操ちゃんに何か吹き込んだ張本人だろ？
+たしか……そうそう、 全身がぶよぶよになる奇病で死んだとか。","Yeah, I know him from what the CC sent me. So he put ideas into your head?
+ I think he died from some strange disease that made his body all wobbly."
+Tomobiki Misao (talking),……………… その奇病の原因が……シャアなんです。,...Char caused that disease.
+Yamamoto Akuji (talking),病気の原因？ 何だ、シャアって花じゃなかったのかよ。,What? So that Char wasn`t some flower?
+Tomobiki Misao (talking),"いえ、違います。 ……赤い彗星です。
+赤い彗星のことを、 軍の暗号でシャアと呼ぶらしくて……","It is not. ...It`s a red comet.
+ Said comet was called Char in the army`s code, it seems."
+Yamamoto Akuji (talking),何のこっちゃ。,The fuck?
+Tomobiki Misao (talking),"……戦時中、その赤い彗星が イタミ山に落下したんです。
+その調査をするように 軍から命じられて、池田さんは イタミ山に向かったんですけど……","...During the war, that comet fell on Mount Itami.
+ The army ordered Ikeda-san to go to Mount Itami for the investigation, but..."
+Yamamoto Akuji (talking),へ？ ニホン軍に天文学者なんか居たのか？,Huh? Did Japan`s army have astronomers in it?
+Tomobiki Misao (talking),いえ、池田さんは軍の科学士官で、 専門は細菌学だったんです。 生物兵器の開発に携わっていたそうで……,"No, Ikeda-san was a science officer, specializing in bacteriology. They wanted to use it for a biological weapon."
+Yamamoto Akuji (talking),ワケわからんなー…… 何で隕石調査に細菌学が要るんだ？,I don`t get this. Why send a bacteriologist to analyze a comet?
+Tomobiki Misao (talking),…………その赤い彗星は、 とんでもない病原菌の塊だったんです。,...That comet was an incredible cluster of pathogens.
+Yamamoto Akuji (talking),あー、はいはいはい。 そいつを手に入れて生物兵器として 使おうとしたワケかい。,"Oh, I get it now. They wanted to get that so they could develop a new biological weapon."
+Tomobiki Misao (talking),"そうです。でも……
+池田さんは、その病原菌……シャアは 人の手に余る危険なものだからと、 死を覚悟で彗星の欠片を隠したんです。
+イタミ山の奥深く、赤の穴に……","That`s right. However...
+ Ikeda-san knew Char was too dangerous for humans, so he hid the meteorite, prepared to die.
+ In a red hole, deep into Mt. Itami..."
+Yamamoto Akuji (talking),なるほどねー、 それでその池田とか言うヤツは 病気になって死んじまったと。,"I see, and then that Ikeda guy got sick from it and died, yeah?"
+Tomobiki Misao (talking),"あ……いえ、池田さんの死因は 病原菌の発病による物ではないんです。
+シャアの発症を押さえるために、 池田さんご自身が使った 危険な薬物の副作用で……","Oh, no, his cause of death wasn`t the diseased caused by the pathogens.
+ It was the side effects of the dangerous medicine he took to contain the spread of Char`s disease."
+Yamamoto Akuji (talking),"まあ、どっちでも一緒だろ。 シャアのせいって事には変わりがねえ。
+でもよ、相手は病原菌なんだろ？ イタミの山ん中に隠したっつっても んなもんでヤバい菌を防ぎ切れんのか？","Either way, he died because of Char.
+ Still, these are bacteria, right? Even if it`s inside Mount Itami, that won`t stop them from spreading."
+Tomobiki Misao (talking),"大丈夫です。 池田さんは、命と引き替えに 対策を発見していたんです。
+シャアは、一度水に触れると 約一月は活動を停止するそうで……
+けれど、水でシャアが死滅する訳では ないから、川や井戸に放り込む訳に いかなくて……","It`s alright. Ikeda-san traded his life to discover a countermeasure.
+ Char ceases all activity for a month when it comes into contact with water.
+ However, water doesn`t kill it, so it can`t just be tossed into a river or a well, either..."
+Yamamoto Akuji (talking),あー、その彗星のかけらが水に混じって 広がられちゃ困るもんな。,"Yeah, it`d be bad if that thing spread while mixed into the water."
+Tomobiki Misao (talking),"そうです……だから私が、 池田さんから引き継いで……
+ ……監視を兼ねて、定期的に 適量の水をかけに行っていたんです。
+でも、私はそのせいで 変な人たちにつけねらわれる ようになって……
+シャアの在処を知っているのは、 もう、私だけですから……","That`s right, which is why I took over for Ikeda-san...
+ In addition to monitoring it, I went there to apply enough water.
+ But as I result, some weird people began to come after me...
+ I`m the only one left who knows where Char is, after all."
+Yamamoto Akuji (talking),"……なーるほど。 それで親友の助けを借りて 山に逃げてキャンプしてたって訳か。
+しかしあんたも律儀だよなあ。 死んじまった患者の言ったことを そこまで苦労して守るたぁな……
+それとも、その池田とか言うヤツに 情でも移って…………","...I get the picture. So you asked your friends to help you flee and camp in the mountain.
+ How upright of you, going through so much to keep up what your late patient had been doing...
+ Or maybe you also had a thing for him..."
+Tomobiki Misao (talking),………………,...
+Yamamoto Akuji (talking),……ま、別にどっちでもいいんだが。,"...Well, that doesn`t matter."
+Tomobiki Misao (talking),"…………あの……
+お願いです、シャアは本当に危なくて ……だから、その…………","Um...
+ Please, Char really is dangerous, so..."
+Yamamoto Akuji (talking),"ああ、手を出さないようにしとくよ。
+これでも俺は地域管理組合の人間だ、 てめーのシマに被害の出そうな事は 避けてぇんだからよ。","Yeah, I`ll leave it be.
+ I`m from a RMG, after all. I don`t wanna do anything that`d put my turf in danger."
+Tomobiki Misao (talking),……本当に、お願いします…………,I really am begging you here...
+Yamamoto Akuji (talking),んじゃま、房に帰って寝てな。 後の事は俺に任しときな。,"Okay, now go back to your cell and get some sleep. Leave the rest to me."
+Tomobiki Misao (talking),はい……,Okay...
+Hikage Mitsuko (talking),……悪司さん………… これから、あの人……,Akuji-san... What should we do with her...?
+Yamamoto Akuji (talking),"おう、もう死んだ事にしちまって、 追っ手がかかんないように エゾとかどっか遠いとこにやっちまえ。
+全部引き受けたから安心しろって テキトーに言いくるめてよ。
+操ちゃんは看護婦なんだし、 働き口はどこにでもある。 その方が幸せになれるだろ。","Pretend that she`s dead and send her far away so her pursuers can`t do anything anymore.
+ Tell her to relax and that we`ve got it covered or something.
+ She`s a nurse, so I`m sure she can find a job anywhere. She`ll be happier that way."
+Hikage Mitsuko (talking),……はい…… 担当の、人に……そう伝えておきます……,Okay... I`ll go relay that...
+Yamamoto Akuji (thinking),"しっかし、シャアねえ……
+ ……ウィミィとかに売りさばけねぇかな。 そりゃもうスゲー高値で。
+もし俺が扱えそうなら “いざって時の切り札”に 頂いちまいてぇところだが……
+ま、確認してみる価値はありそうだ。","But still... Char, huh?
+ ...I wonder if I can sell that to Wime. At a premium, of course.
+ If we can handle it, then I`d love to have it as a trump card when shit`s going down, but...
+ Well, it should pay to check on it."
+kangofu (talking),"ええと、病院食の配給は終わったから 次は…………
+ ……そう、分娩室の手伝いに行って、 麻酔課の先生と手術の打ち合わせをして、 第二病棟の巡回と、それからそれから……
+ ……ああもう、 忙しいったらありゃしない！","Let`s see, I`ve finished handing out the meals, so next up is...
+ ...Right, I have to help out the maternity room, meet with the surgeons, patrol the second wing, and then...
+ ...Ahh geez, I`m so busy!"
+Yopparai (talking),へ、へへへ…… 相変わらず忙しそうだねぇ、 看護婦さぁん。,"H-Heheheh... You seem to be as busy as always, ms. nurse."
+kangofu (talking),あらもう比良野さん、 また来ちゃったんですか！？,"Geez, Hirano-san, you came here again?!"
+Yopparai (talking),へへ、俺にも点滴してくれよぉ。 大吟醸の酒入りでさぁ……,"Heheh, I need you to give me my IV drip. One with good booze mixed in."
+kangofu (talking),ええいもうっ、 アル中は病院に来るなーーーっ！！,"I`ve already told you, alcoholics can`t come to the hospital!!"
+kangofu (talking),ちょっと典子、そんな事言っちゃ駄目よ。 アル中だって立派な病気なのよ？,"Hey Noriko, you can`t say that. Alcoholism is a disease too, you know."
+kangofu (talking),あ……す、すみません先輩、 忙しくてカリカリしてて、つい……,"Oh... S-Sorry, senpai, I`m so busy and stressed out that I just..."
+kangofu (talking),"気持ちは解るけれどね…… これだけ毎日忙しいと気も立つわ。
+ああ…… せめて友引さんが居てくれたら……","I get how you feel. I`m also on edge with how busy we`ve been.
+ Yeah... If only Tomobiki-san were here..."
+kangofu (talking),あ、その人…… 他の先輩からもよくお名前聞きますけど、 誰なんですか？,"Oh, that person... I hear my other senpai talk about her often. Who is she?"
+kangofu (talking),"友引操さんは、二ヶ月前まで 看護婦長だった人よ。 あなたが入る前までの。
+いえ、友引さんが居なくなったから、 求人を出してあなたを雇ったのだけれど。","Tomobiki Misao-san was a nurse here until two months ago. So, before you joined.
+ Well, you joined after we started hiring BECAUSE she left."
+kangofu (talking),へえ……,Huh...
+kangofu (talking),"そう、若いのに仕事のできる人でね。 医師からも患者からも信頼が厚くて……
+友引さんが居ないだけでも痛手なのに、 彼女と親しかった看護婦四人も 一緒に居なくなってしまったから……","She was young, but capable. She had the doctors` and the patients` trust.
+ Not having her already hurts, but then four of the nurses closest to her also left..."
+kangofu (talking),うわあ、それはひどい…… 無断欠勤とか無断退職ですか？,"Wow, that`s awful. Are they just absent, or did they resign without notice?"
+kangofu (talking),"まさか、友引さんも他の人も 責任感の強い人ばかりだったのよ、 そんな事は絶対にないわ。
+何でも、ヒノデの森の近くで 最後に目撃されていたらしいけど……","Tomobiki-san and the others were all very responsible, so they`d never do that.
+ Apparently, they were last seen near the forest in Hinode..."
+kangofu (talking),ヒノデの森って、最近はパンダ騒動で 有名なところですよね。,"That`s where all the panda attacks have been happening, isn`t it?"
+kangofu (talking),"ええ……
+市議会にも捜索願いを出したのだけれど、 今は地域管理組合がガタガタでしょう？ 対応してくれるかどうか……
+本当に、凶悪なパンダに 襲われていない事を祈るばかりよ……","Yeah.
+ We submitted a search request to the CC, but the RMGs have been shaky. I`m not sure they`ll deal with it.
+ All we can do is pray they haven`t been attacked by feral pandas..."
+kangofu (talking),無事だといいですね、 その、友引さん…………,I hope that Tomobiki-san is safe...
+kangofu (talking),とにかく、今は頑張って。 看護婦の追加雇用も考えているし、 もう少しで楽になるから……,"Anyway, we have to work hard. We`re still hiring nurses, so things should calm down soon."
+kangofu (talking),はい先輩、頑張りますっ。,"Okay senpai, I`ll do my best!"
+Yopparai (talking),……おーい看護婦さぁん。 無視すんなよぉ、酒くれよぉ。 アルコールなら何でもいいからよぉ。,"...Heeey, ms. nurse. Don`t ignore me, I need booze. Pure alcohol will do, too."
+kangofu (talking),……るっさいわね！ アル中は水でも飲んどけ！！,"...Shut up! Go drink water, you drunk!"
+kangofu (talking),"体温、脈拍、血圧、全て正常……… 後遺症も見られない、と。
+はい、半年間の入院、お疲れさまでした。 予定通り今日で退院です。","Temperature, pulse, blood pressure... All normal. No after-effects, either.
+ You`ve been here for half a year, but as scheduled, you may leave today."
+ten'in (talking),いやあ、世話になっちまったねえ。 看護婦さん、本当にありがとう。,"Gee, I really gave you some trouble. Thank you, ms. nurse."
+kangofu (talking),気になさらないで下さい、 私たちはこれが仕事なんですから。,"Please don`t worry, this is our job, after all."
+ten'in (talking),あ、そうそう……私ね、 友引さんにもお礼をしたいんだよ。 入院初期にお世話になってねえ……,"Oh, right... I wanna give Tomobiki-san my thanks, too. She was taking care of me at first."
+kangofu (talking),友引って、婦長の友引ですか？,You mean head nurse Tomobiki?
+ten'in (talking),そうそう、婦長さんの。 最近姿見ないけど……,"Yeah, the head nurse. I haven`t seen her lately."
+kangofu (talking),ああ……ごめんなさい、おばさん。 友引は二ヶ月ほど前から 行方不明なんです。,"Oh... sorry, granny. Tomobiki-san disappeared about two months ago."
+ten'in (talking),行方不明って…… 友引さんに何かあったのかい？,Disappeared...? Did something happen to her?
+kangofu (talking),"いえ、何があったのかは誰も……
+最後に、ヒノデの森で目撃された そうなんですが……","No, nobody knows.
+ She was last seen near Hinode`s forest."
+ten'in (talking),"二ヶ月前…… ヒノデ……
+ああ……そういえば。","Two months ago... Hinode...
+ Oh, speaking of which."
+kangofu (talking),何かご存じなんですか？,Do you know something?
+ten'in (talking),"いや、ご存じってほどでもないけどね。 友引さんが変な事を呟いてて。
+ええと、そう、確か…………
+ “シャアが来る……！！”
+ …………とか何とか。","I wouldn`t say I know, per se. But she muttered something weird.
+ What was it again...?
+ Char is coming...!
+ ...Or something like that."
+kangofu (talking),シャア……ですか？,Char?
+ten'in (talking),そう、シャア。,"That`s right, Char."
+kangofu (talking),…………何の事でしょうか？,...What is that about?
+ten'in (talking),何の事だろうねえ……,"I wonder about that, myself..."
+narrator,"病院。 それは、命を賭けた戦場。
+今日もまた、運び込まれた誰かの命が、 ここで最期を迎える──","The hospital. A battlefield with lives on the line.
+ This was yet another day in which someone would breathe their last here--"
+kangofu (talking),"……大学上がりの素人先生が 動脈切っちゃったって？ んなもん絆創膏貼っときなさいっ！
+は？ 栄養点滴に生理食塩水を混ぜすぎた？ 砂糖混ぜときゃバランス取れるわよ！
+っとにもう、十人二十人が死ぬ位で いちいちバタバタしてたら身が保たな……","...A novice doctor fresh out of college cut an artery, you say? Then slap a band-aid on it!
+ What? You put too much saline solution into the IV drip? Then balance it out with sugar!
+ Geez, your body won`t last if you get worked up after every death or twenty."
+narrator,　　［じりりりりりーん……］,　　*ring ring ring*
+kangofu (talking),"ああもう、 この忙しい時に電話なんて……
+ ……はいもしもし、 皆様の健康をお守りする正義の医学、 いつもニコニコ明朗会計の天才病院です。","Great, now I get a phone call when I`m at my busiest...
+ Yes, hello, the is Genius Hospital, where we take care of your health with a bright smile on our faces."
+narrator,『……看護婦の友引は居るか』,『Is nurse Tomobiki there?』
+kangofu (talking),友引？　友引操ですか？ あいにく二ヶ月前から……,"Tomobiki Misao? Sadly, two months ago she-"
+narrator,『……隠すとためにならんぞ……』,『You better not be hiding her...』
+kangofu (talking),"……人の話は最後まで聞きなさい。 友引は二ヶ月前から行方不明なんです。
+って言うか、あんた誰？ まさか友引のカレシ？ それともストーカー？","...Wait for me to finish. She disappeared two months ago.
+ Actually, who is this? Are you her boyfriend or something? Or are you a stalker?"
+narrator,"『失敬な、私はＣＩＡ……』
+ 『……違う、新聞の勧誘員だ』","『How rude. I`m CIA-』
+ 『...I mean, a newspaper salesman.』"
+kangofu (talking),はぁ？,Excuse me?
+narrator,"『いいから教えろ…… 　友引操はどこに居るんだ』
+ 『あの隕石……いや、 　隕石の落下場所をつきとめないと……』","『Whatever, just tell me. 　Where is Tomobiki Misao?』
+ 『I have to find out where that 　meteorite landed...』"
+kangofu (talking),はああああ？　あんた一体何言って……,Huuuh? What are you talking-
+narrator,"　　［……ばきゅーん！！］
+ 『……はうあっ！　うぎゃーーーー！！！！！』
+ 　　［がちゃん、ツーツーツー……］","　　*BANG!*
+ 『HAAAAARGHHH!!!』
+ 　　*Clack!* *Beep, beep, beep...*"
+kangofu (talking),"……あら、切れちゃった。
+何だか、 断末魔の悲鳴っぽかったけど……
+ ……嫌なもの聞かせないでよ、もう。 今日は朝から子供の悲鳴とか ダース単位で聞きっぱなしなんだから……
+さあ、忙しい忙しい。 次は捻挫患者の足首切断だわ……","...Oh, he hung up.
+ That sounded like a pretty agonizing scream...
+ Don`t make me listen to that crap. I`ve already been hearing children crying all day today...
+ I`m so busy. Next I have to amputate the ankle of that sprained patient."
+narrator,"──病院。 それは、命を賭けた戦場。
+戦場では、たとえ戦友の頭が自分のすぐ隣で 吹き飛ぼうとも、いちいち気にしては いられないのである──","The hospital. A battlefield with lives on the line.
+ In it, you must not dwell on anything for long, even if your comrade gets their brains blown out right next to you..."
+narrator,天才病院の多忙な日々は、今日も続いていた──,It was yet another busy day at Genius Hospital.
+kangofu (talking),"う、うう……過労で死にそう……
+ ……し、死んでたまるもんですか。 来週には看護婦も増えるし、 きっと楽になって普通の病院に戻るわ……
+そうよ、男性患者や新米の医師たちを 勤務時間中につまみ食いできる日まで 絶対死なないんだから……","Ugh, I`m gonna die from overwork.
+ ...I mustn`t. We`ll get more nurses next week, so I`m sure things will go back to normal then.
+ Yeah, I refuse to die until I can flirt with the male patients and rookie doctors while on the clock."
+wakaishufu (talking),あ、あの……看護婦さん、 産婦人科はどちらでしょうか……,"U-Um, ms. nurse, where`s the gynaecology department...?"
+kangofu (talking),あら、初診の方？ どうかしましたか？,"My, is this your first visit? What can I help you with?"
+wakaishufu (talking),あの……私、 妊娠したみたいで……,Um... I seem to have gotten pregnant...
+kangofu (talking),あら！ まあまあ、おめでとうございます。,"Oh my, congratulations!"
+wakaishufu (talking),"おめでたくないんです…… 堕ろしたいんです……
+だって、父親は夫じゃなくて…… ウィミィの………………
+ ……うっ、うううっ…………！","Please don`t. I`d like an abortion...
+ The father isn`t my husband. It`s a one of Wime`s...
+ ...U-Uuuugh...!"
+kangofu (talking),あらまあ…… 最近本当に多いわねえ、 ウィミィ兵に強姦された人……,Oh dear... Lately there`s been a lot of women coming here after being assaulted by Wimenese soldiers.
+kangofu (talking),……あ、居た居た。 先輩、私、すごいもの見つけちゃったの！,"...Ah, there you are. Senpai, I found something amazing!"
+kangofu (talking),何よ、勤務時間中よ？ 後にしなさい、後に。,What is it? We`re on the clock. Save it for later.
+kangofu (talking),えー、興味あると思ったんだけどな。 ほら、失踪した友引操婦長の日記……,"Oh, but I think you`ll be interested. Look, it`s head nurse Tomobiki`s diary."
+kangofu (talking),………………見せなさい。,...Show it to me.
+kangofu (talking),あはっ、さすが先輩！ ……でね、ここのページ見て。,"Hah! That`s my senpai! ...So, check out this page."
+kangofu (talking),何これ……友引さんが担当していた 池田さんの看護メモ？,...These are her nursing notes for one of her patients? Ikeda-san?
+kangofu (talking),"うん、池田さんって 全身がぶよぶよになる謎の奇病で 隔離病棟に居たでしょ？
+でね、友引さんって、 池田さんが病死しちゃった時に すごいこと聞いたらしいの。","Yep, he was that guy who was in the isolation ward because of some weird weird disease that made him wobbly.
+ And you see, Tomobiki-san apparently heard something incredible when he died from that disease."
+kangofu (talking),ええと……？ ヒノデの森に隕石が落ちてきて、 池田さんはそれを見て……,"Let`s see... A meteorite fell in Hinode`s forest, and Ikeda-san found it..."
+kangofu (talking),そう、友引婦長は池田さんに 隕石の事を聞いて、 探しに行ったみたいなの。,"Yeah, looks like she went to search for that meteorite after having heard of it from Ikeda-san."
+kangofu (talking),で……あら、そこで日記が 終わっちゃってるのね。,"And then... oh, the diary ends there."
+kangofu (talking),もしかしたら、この隕石って すごいお宝だったんじゃない？,Could it be that the meteorite is some kind of amazing treasure?
+kangofu (talking),"確かに……日記の文面を見る限り、 すごい必死で探してるみたいね……
+なあんだ、友引さんって すごく真面目で責任感がある人だって 思ってたのに、宝に目が眩んだんだ。","Yeah, from what I can tell, she was frantically searching for it...
+ Huh, I always thought Tomobiki-san was super serious and responsible, but even she was blinded by treasure."
+kangofu (talking),そうそう、ショックでしょ？ 私結構憧れてたのになー。,"Yeah, isn`t it shocking? I admired her so much, too."
+wakaishufu (talking),あ……あの、私…… 婦人科に行きたいんですけど……,"U-Um, I want to go to the gynaecology department..."
+kangofu (talking),……あっ、ごめんなさい。 今、五時間くらい順番待ちなんですけど 構いませんか？,"...Oh! Sorry. Right now, the queue is about 5 hours long, is that alright with you?"
+wakaishufu (talking),そ、そんなに……？,Th-That long...?
+kangofu (talking),すぐ家に帰りたいって仰るなら、 今ここで私が五発ほど ボディブロー撃ちますけど。,"If you tell me you want to go home soon, I`ll tackle you five times right here and now."
+wakaishufu (talking),……………………,...
+kangofu (talking),冗談ですってば。,"It`s only a joke, geez."
+narrator,悪司は、行方不明の友引操を探すため、 数名の部下を連れて森林公園にやってきていた。,"In order to search for the missing Misao, Akuji brought several of his men to the forest park."
+Yamamoto Akuji (talking),しかし、パンダ騒動といい 看護婦の失踪といい、 この森林公園もよく事件起きるよなー。,"Man, between the panda attacks and the missing nurses, a lotta shit happens at this park, huh?"
+Elite Yakuza (talking),全くです。,You said it.
+Yamamoto Akuji (talking),何か祟られてんのかね。 事件を引き寄せるようなモンに。,Maybe it`s cursed or something.
+Elite Yakuza (talking),祟りだとすると、我々も時折、 抗争や拷問で死んだ者を埋めに来るので 他人の事は言えませんが……,"If so, then it might be related to all the people we bury here after our battles or torture..."
+Yamamoto Akuji (talking),…………今度、お祓いでもしとくか。,...Let`s exorcise this place later.
+Elite Yakuza (talking),それが賢明かもしれませんね。,That might be wise.
+Yamamoto Akuji (talking),ま、今はとりあえず……友引操だっけ、 それと四人の看護婦を探そうぜ。,"Well, for now, let`s just find that Misao and the other 4 nurses."
+Elite Yakuza (talking),パンダに襲われて死んでいたら、 どう致しましょうか？,What should we do if they`ve been killed by pandas?
+Yamamoto Akuji (talking),そんときゃ遺骨か服だけでも 持って帰ろうぜ。 遺族から謝礼をふんだくれるかもしれん。,Take their remains and anything else back with you. Maybe we can get some thank-you money from their families.
+Elite Yakuza (talking),なるほど……さすがは若。,"Brilliant, Young Master."
+Yamamoto Akuji (talking),さ、とにかく散開だ散開。 全員、草の根分けても 看護婦たちの手がかりを探し出せよー。,"Anyway, get to searching. Look under every nook and cranny for anything that`ll lead us to them."
+Yamamoto Akuji (talking),……うーん、何だかんだで 一日中探し回っちまったが……,"Hrm, we ended up searching for the whole day, and yet..."
+Elite Yakuza (talking),"駄目です、若…… 森が広すぎて…………
+とにかく、人の通れる林道の付近は 全て探したはずなのですが……","It`s no good, Young Master. The forest`s too vast...
+ At any rate, we searched everywhere that`s close to the roads, I think."
+Yamamoto Akuji (talking),無駄足だったな。 ……帰ろう。,What a waste of time. ...Let`s go home.
+narrator,悪司は、行方不明の友引操を探すため、 数名の部下を連れて森林公園にやってきていた。,"In order to search for the missing Misao, Akuji brought several of his men to the forest park."
+Yamamoto Akuji (talking),さて、んじゃあ……友引操と、 他四人の看護婦を探しにかかるぞ。 全員準備はいいかー？,"Alright, we`re gonna search for Misao and the other nurses. You all ready?"
+Elite Yakuza (talking),はっ。 全員、身支度を終えております。,Yessir! We`re all done with our preparations.
+Yamamoto Akuji (talking),隕石だか埋蔵金だかを探しに来て 遭難しちまったって言うから、 とっくに死んでるかもしれねぇが……,"They might`ve had an accident and died while looking for that meteorite or whatever it was, though..."
+Elite Yakuza (talking),という事は……若、 林道を外れて森の奥へ行った可能性が 高いという事ですね。,"Which means... there`s a good chance they strayed from the roads and went deep into the forest, right?"
+Yamamoto Akuji (talking),"いやー、そりゃどうかな。
+今のは同僚の看護婦連中の噂話だし、 しかも市議会づてで聞いた事なんでな。","Nah, I`m not so sure.
+ That`s just a rumor from her fellow nurses and one of the CC`s theories."
+Elite Yakuza (talking),どこまで正しいのかは疑問だと……？,I wonder how correct they are...
+Yamamoto Akuji (talking),"だがまあ、このクソ広い森林公園を 闇雲に探すよりはマシだな。
+よーし、まずは森の奥まで行くぞ。 全員ちゃんとついてこいよー。","Then again, it beats searching this fuckhuge forest at random.
+ Okay, let`s start by heading deep into the forest. Follow me, guys."
+Yamamoto Akuji (talking),"結構歩いてきたな。 日も随分傾いちまったようだが……
+よう、今どの辺に居るか判るか？","We`ve sure walked a long way. The sun`s coming down, too...
+ Hey, can you tell where we are?"
+Elite Yakuza (talking),森林公園でもかなり奥手になります。 地図をご覧になりますか？,We`re fairly deep into the park. Would you like to check the map?
+Yamamoto Akuji (talking),"おう。
+ ……ん？　ここってたしか、 キャンプ場の近くじゃねぇか？","yeah.
+ ...Hm? Ain`t this place near the camping grounds?"
+Elite Yakuza (talking),キャンプ場ですか？ こんな山の奥に……？,Camping grounds? This deep into the mountain?
+Yamamoto Akuji (talking),ガキの頃、 一発じーさんの山籠もりにつきあって 何度か来た記憶があんだよ。,"When I was a kid, I tagged along with old man Ippatsu to his mountain retreat a buncha times."
+Elite Yakuza (talking),しかし、地図には何も……,But there`s nothing on the map...
+Yamamoto Akuji (talking),"相当昔のキャンプ場らしくてな、 地図からも削除されてるみてえだぜ。
+シーズン真っ盛りの夏場でも 俺とじーさん以外誰もいなかったしな。","It`s a pretty old camping spot, so it probably got removed from it.
+ Even during the peak summer season, Gramps and I were the only people there."
+Elite Yakuza (talking),ははあ……場所的にやはり 便が悪すぎたという事でしょうか？,I see... perhaps the location was too incovenient?
+Yamamoto Akuji (talking),"でも、結構いいとこだったんだぜ。 薪もいっぱいあったし、川の水も綺麗で、 テント張りにいい平地もあって……
+ ………………
+ ……看護婦が使ってると思うか？ そのキャンプ場。","It was a pretty nice spot, though. Lotsa firewood, clean river nearby, and easy to set up a tent on.
+ ...
+ ...Think the nurses are using that camping spot?"
+Elite Yakuza (talking),調べてみる価値はあるかと。,It`s worth a try.
+Yamamoto Akuji (talking),よーし、んじゃ行ってみっか。,"Okay, then let`s check it out."
+narrator,そうして、キャンプ場へ続く獣道を 歩き始めると──,"Then, as they made their way through the path leading to the camping spot--"
+kangofu (talking),あっ…………！,Ah...\!
+Yamamoto Akuji (talking),"……おっ、勘が当たってたか？ 看護婦一人はっけーん。
+おーい、無事かー？ 地域管理組合のモンだが、 助けに来たぞー。","Ooh, looks like we guessed right. Here`s one of the nurses.
+ Hey, you alright? I`m from a RMG, and I`m here to save you."
+kangofu (talking),いっ、いけないっ……！,Y-You can`t!
+Yamamoto Akuji (talking),……何で逃げんだよ、こらっ！,Why the fuck are you running away?!
+narrator,"悪司は咄嗟に石を拾い上げて看護婦に投げつけた。
+ 　　［すかーーーーーん！］","Akuji quickly picked up a stone and threw it at the nurse.
+ 　　*Whack!*"
+kangofu (talking),いっ……いったーいっ……！ くううううううっ………………,O-Owwwwwww! Ughhhhh...!
+narrator,石は看護婦の後頭部に直撃し、 あまりの痛さに彼女は頭を抱えてうずくまった。,"It hit her on the back of the head, making her stop and crouch from the pain."
+Yamamoto Akuji (talking),"……悪い。 血は出てないから安心しろ。
+ま、そりゃともかく、 おめー何で逃げたんだよ。 こっちは助けに来たんだぜ？","...Sorry. Don`t worry, it ain`t bleeding.
+ Leaving that aside, why`d you run away? I said I`m here to save you."
+kangofu (talking),…………………………,...
+Yamamoto Akuji (talking),他に看護婦はいないのか？ 友引操を含めてあと四人は居るはずだろ。,"Are there any other nurses with ya? Should be three more, plus Misao."
+kangofu (talking),…………………………,...
+Yamamoto Akuji (talking),"……いらいらいら。
+おうこらねーちゃん！！ 俺ぁだんまりが嫌いなんだよボケっ！！ 裸にひんむいて拷問しちまうぞオラ！！","...I`m getting pissed off.
+ Listen here lady, I fucking hate it when people give me the silent treatment! Want me to beat it outta you?!"
+kangofu (talking),"ひっ、ひいいいっ……！ い、言います、言います……
+と、友引さんも、私の仲間も、 みんな、この奥にあるキャンプ場に……","E-Eeeek! I-I`ll tell you!
+ T-Tomobiki-san and the others are in the camping spot deeper in..."
+Yamamoto Akuji (talking),はー、やっぱりな。,"Hah, I knew it."
+kangofu (talking),お、お願いです、見逃して下さい！ 世界のためなんです！！,"P-Please, leave them be! It`s for the sake of the planet!"
+Yamamoto Akuji (talking),……？　何言ってんだこいつ……,...? The hell are you saying?
+Elite Yakuza (talking),若、まずは一人発見できたことですし、 ここは一旦退きませんか。,"Young Master, we found one of them, so how about we retreat for today?"
+Yamamoto Akuji (talking),"そうだな、森の中で日が暮れたら 俺たちが遭難しちまうからな。
+よーし、一旦戻って態勢整えるぞ。 その看護婦は絶対逃がすなよー。","Right, going through the forest at night would be too dangerous.
+ Okay, we`re going back to prepare. We are NOT letting them get away."
+narrator,"悪司は数名の部下を引き連れて、 再び森林公園を訪れていた。
+その目的は言うまでもなく、 山奥にあるキャンプ場の捜索と、 友引操ほか看護婦たち全員の身柄確保である。","With several of his men in tow, Akuji once again headed to the forest park.
+ Needless to say, his objective was to search the old camping grounds for Tomobiki Misao and the nurses, and capture them."
+Yamamoto Akuji (talking),"よっしゃ、あとはこの坂道を上がれば 山奥のキャンプ場に着くはずだが……
+おう、今何時だ？","Okay, we should be at the camping spot after this incline...
+ Hey, what time is it?"
+Elite Yakuza (talking),はっ、午前十一時です。 予定通り昼前に到着しました。,"It`s 11 AM, sir. We`ve arrived before noon, just as planned."
+Yamamoto Akuji (talking),よーし、これで看護婦どもを捕まえても 日が沈む前に街へ帰れるな。,"Nice, this means we can return with the nurses before the sun sets."
+Elite Yakuza (talking),夜明けとともに 出発したのが幸いでした。,It was a good decision to set out at sunrise.
+Yamamoto Akuji (talking),山や森はどんなに小さくても 甘く見たらダメだからなー。 遭難したら本気で死んじまうし……,You can never take forests or mountains too lightly. It`s a surefire way to get yourself killed.
+Elite Yakuza (talking),……若、何か苦い思い出でも？,...Are you speaking from experience?
+Yamamoto Akuji (talking),"おう、出征中に部隊とはぐれてよ、 ジャングルん中でヒデー目に…………
+ ……………………？
+おい、坂の上から漂うこの匂い……","Yeah, during the war I got separated from my squad in the jungle and-
+ ...?
+ Hey, that smell coming from the hill..."
+Elite Yakuza (talking),カレーの匂い……でしょうか？,Is that... curry?
+Yamamoto Akuji (talking),やっぱキャンプっつったらカレーだな。 腹減ったなあ…………,"Yeah, you gotta have curry when camping. Damn, now I`m hungry..."
+Elite Yakuza (talking),若、そういう事では……,"Young Master, that means..."
+Yamamoto Akuji (talking),"わあってるよ。 誰か居るのは間違いなさそうだな。
+おいてめーら、散開しろ。 キャンプ場の四方を取り囲め。","I know. There`s definitely someone there.
+ Alright guys, spread out. Cover all the entrances to the camping spot."
+Elite Yakuza (talking),はっ。,Yessir!
+kangofu (talking),……操、カレー出来たよ。 さ、食べよう？,"...The curry`s ready, Misao. Want some?"
+Tomobiki Misao (talking),………………,...
+kangofu (talking),操？　……ちょっと、聞いてる？,Misao? ...Are you listening?
+Tomobiki Misao (talking),あ……うん、聞いてる……,"Oh... Yes, I`m listening."
+kangofu (talking),何よ、またシャアの事でも考えてたの？,Thinking about Char again?
+Tomobiki Misao (talking),"ううん……そうじゃない。 絹代の事……
+街へ買い出しに行ったまま、 もう何日も経って…… 何かあったんじゃないかって……","No, that`s not it. It`s about Kinuyo.
+ It`s been several days since she left to go shopping back in town. Maybe something happened to her..."
+kangofu (talking),大丈夫よ、 ＣＩＡもＫＧＢも七三一部隊も、 絹代や私たちはノーマークだから。,"Don`t worry, whether it`s the CIA, KGB, or Unit 731, we`re all off their radar."
+Tomobiki Misao (talking),そうだと……いいんだけど…………,I hope that`s the case...
+kangofu (talking),"もし仮に捕まったとしても、 シャアの事は絶対喋ったりしない。
+ ……私たち、そう約束したでしょ？","Even if she did get captured, she`ll never tell them about Char.
+ ...We promised as much, right?"
+Tomobiki Misao (talking),……………… ごめんなさい、みんなを巻き込んで……,"... Sorry, I got all of you involved..."
+kangofu (talking),それは言わないの。 みんな、操のためにって覚悟して 集まったんだから。,"Don`t say that. We all made up our minds and tagged along to help you, Misao."
+Tomobiki Misao (talking),…………ごめんね…… 本当にありがとう……,...Sorry. Thank you so much...
+Yamamoto Akuji (talking),……ほー、面白そうな話だな。 俺にも詳しく聞かせてくれねぇか？,"...Hoh, interesting story ya got there. Can you tell me as well?"
+kangofu (talking),…………！？　だ、誰っ！？,...?! Wh-Who are you?!
+Yamamoto Akuji (talking),地域管理組合のモンだ。 友引操ほか看護婦全員揃ってんな？ 助けに来たぞー。,"I`m from an RMG. You`re Tomobiki Misao and the missing nurses, right? We`re here to save you."
+kangofu (talking),助けに来たなんて…… 白々しい嘘を！,Save us? What a blatant lie!
+Yamamoto Akuji (talking),いや、別に嘘じゃねぇんだが。,"No, I`m being serious here."
+Tomobiki Misao (talking),"地域管理組合…… まさか、ニホン政府が市議会から…… いえ、もしかしてウィミィが……！！
+みっ、みんな逃げて！ 一人でもいい、逃げ延びてっ！！","A RMG? No way, did the government ask the CC to...? Or wait, was it Wime?!
+ E-Everyone, run away! At least one of us can make it!"
+Yamamoto Akuji (talking),"あ、おいおい……こら、逃げんなっ！！
+ちっ…… こいつら何か隠してやがんな……
+おおいてめーら、一人残らず捕まえろ！ 絶対逃がすんじゃねぇぞ！！","Ah, hey! Don`t run away!
+ Tch! They`re hidin` something...
+ Everyone, capture `em all! Do NOT let them get away!"
+narrator,──そして、数十分後。,Several minutes later...
+Elite Yakuza (talking),……若、友引操と看護婦、 計四人全員を捕まえました。,"...Young Master, we`ve captured Tomobiki Misao and the three nurses."
+Yamamoto Akuji (talking),おー、そっか。ごちそうさま。 ……あ、いや、ごくろうさん。,"That so? Good eatin`. ...Uh, I mean, good work."
+Elite Yakuza (talking),……………… 若、カレーを食べていたのですね……,... So you were eating curry...
+Yamamoto Akuji (talking),すまん、腹減ってたんでついな。 女の子の四皿分だったんで少なくて、 全部食っちまった。,"Sorry, I was starvin`. Their servings were quite small, so I ate all of it."
+Elite Yakuza (talking),………………,...
+Yamamoto Akuji (talking),……街に戻ったらなんかオゴるよ。 そう睨むなって。,"...I`ll treat you all to something when we get back, quit glarin` at me."
+Elite Yakuza (talking),"いえ、別にいいのですが…… とにかく、友引操や看護婦たちは どうなさいますか？
+普通に考えれば、街まで連れ帰ってすぐ 捜索願を出している市議会へ 引き渡すべきなのでしょうが……","No, I don`t really mind. Anyway, what should we do with Misao and the others?
+ Thinking about it normally, we should take them to the CC as soon as we get back, but..."
+Yamamoto Akuji (talking),いや、うちの捕虜にしよう。 何を隠してんのか気になるしな。,"Nah, lock `em up in our place. I`m curious about what they`re hiding."
+Elite Yakuza (talking),はっ。,Yessir!
+Tamanegi (talking),……そういう訳で、 この仕事の概要は以上の通りです。,"...With all that said, this job`s summary is as I`ve described."
+Tomobiki Misao (talking),……はい。,...Okay.
+Tamanegi (talking),"技術的な事はともかく、 基本は客のことを思いやり、気遣う、 そこが何よりも大切なのです。
+それがなくては、 あなたがどんな性技を身につけようと 無駄なのです。……解りますね？","Practical matters aside, the most important thing is to be kind and caring to your customers.
+ If you aren`t, then whatever skills you may actually have will be for naught. Understood?"
+Tomobiki Misao (talking),"はい。
+ ……娼婦って、 案外、難しい仕事なんですね。","Yes.
+ ...Being a prostitute is a surprisingly difficult job."
+Tamanegi (talking),"ええ、看護婦と違って 決して陽の光が当たる仕事では ありませんが……
+本当の娼婦というのは、 プロフェッショナルとして自信を持つべき 尊い存在です。
+女であれば誰でも簡単にできる、 そんな世間一般の誤認は捨てて下さい。","Indeed. Unlike nursing, it is definitely a job that ought not to be publicly known, but...
+ A real prostitute is a precious being who should have confidence in their profession.
+ Let go of the common notion that any woman could easily do it."
+Tomobiki Misao (talking),……はい。,...Okay.
+Tamanegi (talking),"良い返事です。 あなたは私にとって 優秀な教え子になりそうだ。
+さすが元看護婦、と言うべきですか。 誰かに尽くすという感覚の本質を すでに知っている……","Good answer. I have the feeling you`ll become one of my best students.
+ As expected of a former nurse, I should say. You already know how to dedicate yourself to someone."
+Tomobiki Misao (talking),"……自分では、よく解りません。
+それに私は、元看護婦ではなく 今も、看護婦でいるつもりです。
+私の天職だと……そう思っていますから。","...I don`t quite get it myself.
+ Also, I`m nor a former nurse. I intend to keep being one.
+ It`s my calling."
+Tamanegi (talking),娼婦になる気はない……？,Do you not want to be a prostitute?
+Tomobiki Misao (talking),"いえ……
+追われる身の私を守ってもらって、 しかも報酬を頂いている以上は きちんと働くつもり……です。","That`s not it.
+ As long as I`m being protected from my pursuers and being paid for it, I intend to do my job here properly."
+Tamanegi (talking),"なるほど、良い覚悟です。
+ですが、惜しむらくは…… あなたが娼婦という仕事を 楽しんでいないという事ですね。","I see, what lovely resolve.
+ However, it is unfortunate that you won`t be enjoying your work as a prostitute."
+Tomobiki Misao (talking),楽しむ……？,Enjoy...?
+Tamanegi (talking),"今は聞き流して下さって結構です。 心の隅に留めて置いて下されば。
+では、今日の実技に移りましょうか。","Please just ignore that for now. Keep it in the back of your mind.
+ Now, let us begin today`s training."
+Tomobiki Misao (talking),あ……はい…………,Oh... sure.
+cg narrator,"「あ、はっ…………う、っア………… 　はっ…………はっ…………は、っあ…………」
+煉瓦造りの、暗く、狭く、冷たい空間に、 操の吐く熱い吐息が広がっていく。
+その吐息に混じって、 微かに聞こえる淫らな水音──
+　　［ちゅ、っく……くちゅ、ちゅ……］
+タマネギの雇った中年男の男根を 秘裂にくわえ込んで、 操は懸命に腰を振り続けていた。
+中年男は、全く動こうとしない。 操だけがひたすら動き続けていた。
+いきり立つ男のものをねとつく熱い淫水で溶かし、 悦楽の迸りを導くため、柔らかな媚肉を蠢かせる。
+だが、男根は悦楽の痙攣すらまだ一度も起きず、 操の与えてくれる悦楽を平然と受け止め続けた。
+「ああ……いいぜ、看護婦さん。 　凄く気持ちいいよ……」
+小鼻をひくひくと動かしながら、 中年男はうっとりとした目で操に語りかける。
+「できれば、もう少し激しくてもいいが…… 　いけるかい……？」
+「……っ……あ、はい………… 　あ…………も、もう……少し……」
+操は応えて、その通りに動き始めたのだが──
+「あ、っう……っは、あ……ああっ……！ 　あ………………っ、はっ、はっ……っあ……」
+敏感な部分を行き来する男の熱が、 操の四肢に広がって甘い痺れに変わっていく。
+その痺れを圧して、無理に躰を動かして 男の望む強い悦楽を生むのは、 操にとって苦痛に近かった。
+「あ……っう、あ……！ 　はっ、はっ、はっ………………っう……」
+「……看護婦さん、大丈夫かい？ 　汗びっしょりだ…………」
+中年男が操を気遣って、 汗の玉が浮かぶ額や頬をそっと撫でる。
+「だ……大丈夫です………… 　しん…………心配、しないで…………」
+操は笑顔で言ったつもりだったが、 その顔は苦しさに引きつっていて、 とても中年男を安心させられるものではなかった。
+「俺から動こうか……？ 　あんた、少し休んだ方がいい……」
+「いっ……いえ、気にしないで下さい………… 　これが、し……仕事ですから……」
+操は言って、言う事を聞かない躰に無理強いして 再び腰を動かしていく。
+──これが店での本番だと思って、客に尽くせ。 それが、今回タマネギが操に出した課題だった。
+操はもう、知識の面でも技術の面でも タマネギによって娼婦として充分訓練されている。
+あとは、今日のテストに合格すれば 店で客が取れる立派な娼婦になれるのである。
+（お客……に、尽くす…………尽くさなきゃ…… 　調教師が、見てるはずなんだから…………）
+操は、部屋のどこかに設置されている 監視カメラの目を意識して、ひたすら動き続ける。
+そう、中年男が動かないのも、 「楽にして下さい、私が全てやりますから」と 操が先に言ったせいなのだ。
+「はっ、は…………っう…………ンっ……！ 　く、あ…………ああっ、あ…………」
+操は、懸命に動き続ける。 それが、今の自分の仕事だから。
+──だが、客は達してくれない。 一向にその気配を見せてくれない。
+気持ちいいと思ってくれているはずなのに、 自分にできることは全てやっているはずなのに。
+（い、いつになったら……終わるの…………）
+絶望的な思いで、ひたすら動き続ける。 自分の胎にくわえ込んだ男のものを締め付ける。
+「……いいよ、看護婦さん。 　そんなに辛い思いしてまで尽くす事はない」
+急に、中年男が言ってきた。 ──驚いて、操は目を丸くする。
+「こっちに体重預けて、少し楽にしてな。 　しばらく自分で動くから」
+「で、でも私……あなたに尽くさなきゃ……」
+「何もかもしてくれるってのが、 　尽くすことだとは限らないんじゃないのか？」
+「…………えっ……」
+「看護婦さんだって楽しんでくれなきゃ…… 　客のこっちも楽しくないさ……」
+男は言って、操の胸を優しく撫でる。 ──撫でながら、操の胎を突き上げ始める。
+　　［ずっ、ずっ、ずっ……ずずっ……！］
+「あ……ひっ！　ああっ、やはあっ────！！」
+突然始まった男の突き上げに、操は嬌声を上げる。
+自分で動いていた時より何倍も激しい動きが、 操の秘裂で悦楽に変わって、背筋を駆け上がる。
+「や……やああああっ！！　ああっ、あはああっ！ 　や、やめ……やめて下さ……ンああっ！」
+「やめてくれって……痛かったりするのかい？ 　それとも、激しく突きすぎたかな……？」
+「そ、うじゃ……そうじゃなくて……！」
+「なら、任せてくれよ、看護婦さん…… 　男ってのは元々、こういう時に 　動きたい動物なんだから……」
+男は言って、更に強く操を突き上げていく。
+「ああっ、やっ……やはああああああああアっ！！ 　いっ、や……ああっ、あハあああっ……！ 　いっ、く……っうううッ！　あアんっ……！！」
+自分で動くという苦しさから解放された操に、 自分では生み出せなかった激しい悦楽が襲う。
+それは、充分に熱の籠もっていた操の躰を満たし、 弾け飛ぶような絶頂へと確実に繋がっていく。
+「やあっ、ああっ……いっ……ふやあああっ！！ 　ひアっ、ああっ、やはアんっ！！　あハああっ！ 　も、だっ……もうダメっ……やめ─────！」
+「いいよ、看護婦さん……イッちまって…… 　こっちも、そろそろ……イきそうだ…………！」
+「ああっ…………っあああっ………………！！！ 　やは────────っ、あ──────！！」","「あ、はっ…………う、っア………… 　はっ…………はっ…………は、っあ…………」
+ 煉瓦造りの、暗く、狭く、冷たい空間に、 操の吐く熱い吐息が広がっていく。
+ その吐息に混じって、 微かに聞こえる淫らな水音──
+ 　　［ちゅ、っく……くちゅ、ちゅ……］
+ タマネギの雇った中年男の男根を 秘裂にくわえ込んで、 操は懸命に腰を振り続けていた。
+ 中年男は、全く動こうとしない。 操だけがひたすら動き続けていた。
+ いきり立つ男のものをねとつく熱い淫水で溶かし、 悦楽の迸りを導くため、柔らかな媚肉を蠢かせる。
+ だが、男根は悦楽の痙攣すらまだ一度も起きず、 操の与えてくれる悦楽を平然と受け止め続けた。
+ 「ああ……いいぜ、看護婦さん。 　凄く気持ちいいよ……」
+ 小鼻をひくひくと動かしながら、 中年男はうっとりとした目で操に語りかける。
+ 「できれば、もう少し激しくてもいいが…… 　いけるかい……？」
+ 「……っ……あ、はい………… 　あ…………も、もう……少し……」
+ 操は応えて、その通りに動き始めたのだが──
+ 「あ、っう……っは、あ……ああっ……！ 　あ………………っ、はっ、はっ……っあ……」
+ 敏感な部分を行き来する男の熱が、 操の四肢に広がって甘い痺れに変わっていく。
+ その痺れを圧して、無理に躰を動かして 男の望む強い悦楽を生むのは、 操にとって苦痛に近かった。
+ 「あ……っう、あ……！ 　はっ、はっ、はっ………………っう……」
+ 「……看護婦さん、大丈夫かい？ 　汗びっしょりだ…………」
+ 中年男が操を気遣って、 汗の玉が浮かぶ額や頬をそっと撫でる。
+ 「だ……大丈夫です………… 　しん…………心配、しないで…………」
+ 操は笑顔で言ったつもりだったが、 その顔は苦しさに引きつっていて、 とても中年男を安心させられるものではなかった。
+ 「俺から動こうか……？ 　あんた、少し休んだ方がいい……」
+ 「いっ……いえ、気にしないで下さい………… 　これが、し……仕事ですから……」
+ 操は言って、言う事を聞かない躰に無理強いして 再び腰を動かしていく。
+ ──これが店での本番だと思って、客に尽くせ。 それが、今回タマネギが操に出した課題だった。
+ 操はもう、知識の面でも技術の面でも タマネギによって娼婦として充分訓練されている。
+ あとは、今日のテストに合格すれば 店で客が取れる立派な娼婦になれるのである。
+ （お客……に、尽くす…………尽くさなきゃ…… 　調教師が、見てるはずなんだから…………）
+ 操は、部屋のどこかに設置されている 監視カメラの目を意識して、ひたすら動き続ける。
+ そう、中年男が動かないのも、 「楽にして下さい、私が全てやりますから」と 操が先に言ったせいなのだ。
+ 「はっ、は…………っう…………ンっ……！ 　く、あ…………ああっ、あ…………」
+ 操は、懸命に動き続ける。 それが、今の自分の仕事だから。
+ ──だが、客は達してくれない。 一向にその気配を見せてくれない。
+ 気持ちいいと思ってくれているはずなのに、 自分にできることは全てやっているはずなのに。
+ （い、いつになったら……終わるの…………）
+ 絶望的な思いで、ひたすら動き続ける。 自分の胎にくわえ込んだ男のものを締め付ける。
+ 「……いいよ、看護婦さん。 　そんなに辛い思いしてまで尽くす事はない」
+ 急に、中年男が言ってきた。 ──驚いて、操は目を丸くする。
+ 「こっちに体重預けて、少し楽にしてな。 　しばらく自分で動くから」
+ 「で、でも私……あなたに尽くさなきゃ……」
+ 「何もかもしてくれるってのが、 　尽くすことだとは限らないんじゃないのか？」
+ 「…………えっ……」
+ 「看護婦さんだって楽しんでくれなきゃ…… 　客のこっちも楽しくないさ……」
+ 男は言って、操の胸を優しく撫でる。 ──撫でながら、操の胎を突き上げ始める。
+ 　　［ずっ、ずっ、ずっ……ずずっ……！］
+ 「あ……ひっ！　ああっ、やはあっ────！！」
+ 突然始まった男の突き上げに、操は嬌声を上げる。
+ 自分で動いていた時より何倍も激しい動きが、 操の秘裂で悦楽に変わって、背筋を駆け上がる。
+ 「や……やああああっ！！　ああっ、あはああっ！ 　や、やめ……やめて下さ……ンああっ！」
+ 「やめてくれって……痛かったりするのかい？ 　それとも、激しく突きすぎたかな……？」
+ 「そ、うじゃ……そうじゃなくて……！」
+ 「なら、任せてくれよ、看護婦さん…… 　男ってのは元々、こういう時に 　動きたい動物なんだから……」
+ 男は言って、更に強く操を突き上げていく。
+ 「ああっ、やっ……やはああああああああアっ！！ 　いっ、や……ああっ、あハあああっ……！ 　いっ、く……っうううッ！　あアんっ……！！」
+ 自分で動くという苦しさから解放された操に、 自分では生み出せなかった激しい悦楽が襲う。
+ それは、充分に熱の籠もっていた操の躰を満たし、 弾け飛ぶような絶頂へと確実に繋がっていく。
+ 「やあっ、ああっ……いっ……ふやあああっ！！ 　ひアっ、ああっ、やはアんっ！！　あハああっ！ 　も、だっ……もうダメっ……やめ─────！」
+ 「いいよ、看護婦さん……イッちまって…… 　こっちも、そろそろ……イきそうだ…………！」
+ 「ああっ…………っあああっ………………！！！ 　やは────────っ、あ──────！！」"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+narrator,──調教が終わって、 操は躰を清め、着替えを始めていた。,"Once the training was over, Misao cleansed herself and began changing clothes."
+Tomobiki Misao (talking),………………,...
+Tamanegi (talking),……おっと、失礼。 まだ着替えの最中でしたか。,"...Whoops, my apologies. You were still changing?"
+Tomobiki Misao (talking),"調教師さん……
+別に……気にしないで下さい。 さっきだって、見ていたんでしょう……？","Mr. trainer...
+ Don`t worry about it too much. You saw it all earlier, no?"
+Tamanegi (talking),まあ、そうですが。 ……仕事は仕事、 こういう時はこういう時です。,"Well, that is true. ...But work is work, and this is a separate matter entirely."
+Tomobiki Misao (talking),私……不合格、ですよね。 尽くせませんでしたから……,"I`m... not qualified, am I? I couldn`t serve them..."
+Tamanegi (talking),いえ、合格ですよ。 よく頑張りました、もう立派な娼婦です。,"No, you pass. You`ve done great, and have become a great prostitute."
+Tomobiki Misao (talking),えっ？　どうして…………,Huh?! But how...?
+Tamanegi (talking),"客の楽しみは、 あなたの悦楽の中にもあるのです。
+尽くすといっても、 一方的である必要はない。 あれでいいんです。","A customer`s pleasure lies within your own delight.
+ Serving and service need not be entirely one-sided. That much was fine."
+Tomobiki Misao (talking),…………,...
+Tamanegi (talking),"では、今日はこれで終わりましょう。
+ふふ、店に出る時が楽しみですね。 あなたに溺れていく客の姿が 目に見えるようですよ……","We`re done for today.
+ Fufu, I look forward to putting you to work. I can already envision all the men getting lost in you..."
+Tomobiki Misao (talking),"……………… 私に、溺れる…………
+ ……………………","... Getting lost in me...?
+ ..."
+Chinpira (talking),操ちゃん、指名入ったよ。 出られるかな？,"Misao-chan, you have a request. Can ya do it?"
+Tomobiki Misao (talking),"はい、大丈夫です。
+ ……今度の人も、 看護婦の格好でいいんでしょうか？","Yes, I`m ready.
+ ...Does he also want me to wear a nurse outfit?"
+Chinpira (talking),ああ、そうみたいだね。,"Yeah, looks like it."
+Tomobiki Misao (talking),結構、人気ありますね……看護婦。,"Nurses are rather popular, huh?"
+Chinpira (talking),白衣の天使って言うと、 やっぱ男の憧れだからねえ。 ま、しょうがないんじゃない？,"Men sure love their angels in white. Eh, what can you do?"
+Tomobiki Misao (talking),私、本職の看護婦だったから 少し複雑な気分ですけど……,It feels kinda weird for me since it`s my actual job...
+Chinpira (talking),"ま、気にしない気にしない。
+それじゃ客連れてくるから、 後はよろしくね~。","Eh, don`t worry about it.
+ I`m bringing the customer in, then. I leave the rest to you."
+Tomobiki Misao (talking),……はい。,...Okay.
+cg narrator,"──操が、客の男根に触れ始めて数分後。 最初の放出は、思ったより早く訪れた。
+　　［びゅっ……どくっ！　びくっ……］
+長大なそれが狂ったように痙攣し、 操の顔に、肩に、手に、迸った白濁をまき散らす。
+「あっ…………」
+驚いた操が思わず声を上げたが、 それとほぼ同時に、客も声を上げていた。
+「あっ……ご、ごめん…… 　急に出てきちゃって、我慢する間もなくて……」
+慌てた客が思わず言うが、顔と躰を汚された操は 嫌な顔ひとつせず、優しい声音で客に話しかける。
+「気にしないで下さい……私は大丈夫ですから。 　失礼かもしれませんけど、その…… 　……溜まって……ましたか？」
+「えっ？　あ……うん、ちょっと………… 　いや、かなりかな……」
+「一週間……くらい？」
+「いや、二週間かな…… 　人づてにこの売春宿の事を聞いて金貯め始めて、 　どうせなら禁欲もしとこうかと思って……」
+客が言って、照れ笑いをする。 よほど楽しみにしてきたらしい。
+「なら……自然な事ですよ。 　少しくらい早くて、当然です」
+「そうかな……そんなものなのかな」
+「そんなものですよ。 　……あの、二度目は大丈夫な方ですか？」
+「えっ？　……二度目って、いいの？ 　確か、さっき待合室で男の人に 　料金は一回分だからって言われた気が……」
+「場合にも、よります。 　まだ、少ししか時間経ってませんし。 　それともお止めになります……？」
+「あ、いや。……是非二度目を」
+「くすっ……では、じっとしていて下さい。 　今、綺麗にしますから……」
+操は言って、放出の余韻に震えながら 少しずつ萎え始めた客の男根に唇を近付けていく。
+　　［ぴちゃ、ちゅ……くぷ……］
+一度目の放出で敏感になった男根を、 操の舌が、唇が、そして指が、 白濁と絡んで音を立てつつ這い回る。
+「何か……君ってさ、単に看護婦の格好だけじゃ 　なくて、本当に看護婦さんみたいだね……」
+「えっ……？」
+「さっき、話しててさ…… 　君の口調とか、まるで問診されてるみたいで」
+「あ……すみません」
+「謝る事ないさ、何だかホッとしてさ。 　全部任せて大丈夫、みたいな……」
+「……病気した時、お医者様の顔を見ると 　もう大丈夫だって安心なさる方、 　結構いますけど……」
+「そうそう、そんな感じ……っ、う……」
+話している間も、操の手は男根を慈しむように 動いて、客は思わず恍惚とした吐息を漏らす。
+「……男に、とっては、急にヤりたくなるのって 　ある種、病気みたいなもんだしな……」
+「そう……なんですか？」
+「そうだよ……躰が、熱くなってさ。 　自分じゃ、どうしようもないし…… 　はは、熱病に似てるって言えるのかな……」
+「……解るような気がします」
+「看護婦さんのイメージプレイって、 　こういうお店じゃ結構人気あるんでしょ？」
+「あ、はい……そうですね。 　私を指名して下さる方、多いです」
+「それ、解る気がするな…… 　この熱病、治療して欲しいって 　みんな思うんだよ、多分……」
+「私が、治療……」
+「ああ、特に君は……何だか、 　本当に、全部任せたくなるって言うか……」
+「…………私、本職の看護婦だったんです。 　そのせいなんでしょうか……？」
+「えっ？　そうなんだ…… 　道理で雰囲気とか、口調とか……」
+「あまり、意識はしていないんですけど。 　……隠せないものなんですね」
+「……ね、君。 　看護婦さんって呼んでいいかな？」
+「………………いいですよ」
+「じゃあ、看護婦さん…… 　俺の熱病、しっかり治してくれるかな……？」
+客がそう言った時には、 萎えかけていたはずの男根はもう、熱く硬くなって ひく、ひくと脈打ち始めていた。
+「……もちろんです。 　当分再発しないように、しっかり治しますね……」
+操は、白濁のしたたる男根へ本格的な口技を始める。
+　　［ぴちゃ、ちゅ……ず、じゅるっ……］
+「あ…………う、ああ…………っ…………」
+目を閉じ、躰の力を抜いて──全てを操に預けて。 客が、恍惚とした声を上げる。
+そして、男根が前より更に大きく、硬くなる。
+最初の勃起が余剰な精を吐き出すためのものなら、 今度の勃起は、純粋に悦楽を求めたもの。
+──熱く、強く。 もっと気持ちよくして欲しいと、反り返る。
+（……凄い…………）
+操は、その男根を口に含みながら、 どこか気圧されている自分に気付いていた。
+鼻腔から流れ込む男の精臭に、 だんだん、頭がぼうっとしてくる。
+（…………っ…… 　しっかり、舌を……口を、使わないと……）
+微かに眉根を寄せて、 操は奉仕者としての自分を意識し続けようとする。
+──が。","──操が、客の男根に触れ始めて数分後。 最初の放出は、思ったより早く訪れた。
+ 　　［びゅっ……どくっ！　びくっ……］
+ 長大なそれが狂ったように痙攣し、 操の顔に、肩に、手に、迸った白濁をまき散らす。
+ 「あっ…………」
+ 驚いた操が思わず声を上げたが、 それとほぼ同時に、客も声を上げていた。
+ 「あっ……ご、ごめん…… 　急に出てきちゃって、我慢する間もなくて……」
+ 慌てた客が思わず言うが、顔と躰を汚された操は 嫌な顔ひとつせず、優しい声音で客に話しかける。
+ 「気にしないで下さい……私は大丈夫ですから。 　失礼かもしれませんけど、その…… 　……溜まって……ましたか？」
+ 「えっ？　あ……うん、ちょっと………… 　いや、かなりかな……」
+ 「一週間……くらい？」
+ 「いや、二週間かな…… 　人づてにこの売春宿の事を聞いて金貯め始めて、 　どうせなら禁欲もしとこうかと思って……」
+ 客が言って、照れ笑いをする。 よほど楽しみにしてきたらしい。
+ 「なら……自然な事ですよ。 　少しくらい早くて、当然です」
+ 「そうかな……そんなものなのかな」
+ 「そんなものですよ。 　……あの、二度目は大丈夫な方ですか？」
+ 「えっ？　……二度目って、いいの？ 　確か、さっき待合室で男の人に 　料金は一回分だからって言われた気が……」
+ 「場合にも、よります。 　まだ、少ししか時間経ってませんし。 　それともお止めになります……？」
+ 「あ、いや。……是非二度目を」
+ 「くすっ……では、じっとしていて下さい。 　今、綺麗にしますから……」
+ 操は言って、放出の余韻に震えながら 少しずつ萎え始めた客の男根に唇を近付けていく。
+ 　　［ぴちゃ、ちゅ……くぷ……］
+ 一度目の放出で敏感になった男根を、 操の舌が、唇が、そして指が、 白濁と絡んで音を立てつつ這い回る。
+ 「何か……君ってさ、単に看護婦の格好だけじゃ 　なくて、本当に看護婦さんみたいだね……」
+ 「えっ……？」
+ 「さっき、話しててさ…… 　君の口調とか、まるで問診されてるみたいで」
+ 「あ……すみません」
+ 「謝る事ないさ、何だかホッとしてさ。 　全部任せて大丈夫、みたいな……」
+ 「……病気した時、お医者様の顔を見ると 　もう大丈夫だって安心なさる方、 　結構いますけど……」
+ 「そうそう、そんな感じ……っ、う……」
+ 話している間も、操の手は男根を慈しむように 動いて、客は思わず恍惚とした吐息を漏らす。
+ 「……男に、とっては、急にヤりたくなるのって 　ある種、病気みたいなもんだしな……」
+ 「そう……なんですか？」
+ 「そうだよ……躰が、熱くなってさ。 　自分じゃ、どうしようもないし…… 　はは、熱病に似てるって言えるのかな……」
+ 「……解るような気がします」
+ 「看護婦さんのイメージプレイって、 　こういうお店じゃ結構人気あるんでしょ？」
+ 「あ、はい……そうですね。 　私を指名して下さる方、多いです」
+ 「それ、解る気がするな…… 　この熱病、治療して欲しいって 　みんな思うんだよ、多分……」
+ 「私が、治療……」
+ 「ああ、特に君は……何だか、 　本当に、全部任せたくなるって言うか……」
+ 「…………私、本職の看護婦だったんです。 　そのせいなんでしょうか……？」
+ 「えっ？　そうなんだ…… 　道理で雰囲気とか、口調とか……」
+ 「あまり、意識はしていないんですけど。 　……隠せないものなんですね」
+ 「……ね、君。 　看護婦さんって呼んでいいかな？」
+ 「………………いいですよ」
+ 「じゃあ、看護婦さん…… 　俺の熱病、しっかり治してくれるかな……？」
+ 客がそう言った時には、 萎えかけていたはずの男根はもう、熱く硬くなって ひく、ひくと脈打ち始めていた。
+ 「……もちろんです。 　当分再発しないように、しっかり治しますね……」
+ 操は、白濁のしたたる男根へ本格的な口技を始める。
+ 　　［ぴちゃ、ちゅ……ず、じゅるっ……］
+ 「あ…………う、ああ…………っ…………」
+ 目を閉じ、躰の力を抜いて──全てを操に預けて。 客が、恍惚とした声を上げる。
+ そして、男根が前より更に大きく、硬くなる。
+ 最初の勃起が余剰な精を吐き出すためのものなら、 今度の勃起は、純粋に悦楽を求めたもの。
+ ──熱く、強く。 もっと気持ちよくして欲しいと、反り返る。
+ （……凄い…………）
+ 操は、その男根を口に含みながら、 どこか気圧されている自分に気付いていた。
+ 鼻腔から流れ込む男の精臭に、 だんだん、頭がぼうっとしてくる。
+ （…………っ…… 　しっかり、舌を……口を、使わないと……）
+ 微かに眉根を寄せて、 操は奉仕者としての自分を意識し続けようとする。
+ ──が。"
+cg narrator,"「…………あ、あれ…………？」
+口技が、急に中断された。 訝しんだ客が、のそりと上体を起こして操を見る。
+ 「看護婦さん……？　どうかした？」
+ 「………………すみません。 　私、看護婦失格です…………」
+ 「……は…………？」
+そう言った操の口元から、一筋、 舐め取ったはずの客の白濁が伝い落ちる。
+ 「あなたの……熱病が、移って…………」
+言いながら、操が客の腰を跨ぐ。
+ ──大きく開いた、操の足。 露わになる、秘裂。
+ぱっくりと口を開け、朱色に充血したそこは、 淫らな潤みに濡れ光っていた。
+ 「……すみません………… 　私の、熱病も……治して下さい……」
+そして操は、静かに腰を落として、 いきり立つ男根を自分の中に呑み込んでいった。","「…………あ、あれ…………？」
+ 口技が、急に中断された。 訝しんだ客が、のそりと上体を起こして操を見る。
+ 「看護婦さん……？　どうかした？」
+ 「………………すみません。 　私、看護婦失格です…………」
+ 「……は…………？」
+ そう言った操の口元から、一筋、 舐め取ったはずの客の白濁が伝い落ちる。
+ 「あなたの……熱病が、移って…………」
+ 言いながら、操が客の腰を跨ぐ。
+ ──大きく開いた、操の足。 露わになる、秘裂。
+ ぱっくりと口を開け、朱色に充血したそこは、 淫らな潤みに濡れ光っていた。
+ 「……すみません………… 　私の、熱病も……治して下さい……」
+ そして操は、静かに腰を落として、 いきり立つ男根を自分の中に呑み込んでいった。"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+narrator,──この高度と位置を維持しつつ、 宇宙病原菌シャアがふわふわと漂っていた。,"Maintaining the same altitute and position, the space pathogen Char drifted lightly."
+Shaa (talking),しゃー！　しゃー！　しゃー！！ しゃー！　しゃー！　しゃー！！,Char! Char! CHAR!! Char! Char! CHAR!!
+narrator,"突然、シャアを白い靄が包み込んだ。 気流に乗って移動してきた雲である。
+そして、シャアは雲を──周囲の水分を嫌って 上下左右に細かく動き始める。
+だが、空を覆う雲は予想以上に大きく、 シャアは疲弊し、逃げ場を失い、 高度を維持できなくなって──","Suddenly, Char was enveloped in a white haze. It was a cloud, carried by the air current.
+ Then, Char began to faintly move in all directions, avoiding the moisture in the cloud.
+ However, the cloud was far bigger than it predicted, causing Char to grow tired, lose its exit, and become unable to maintain altitude--"
+Shaa (talking),しゃ……しゃあああああッ……………… しゃああああああああああああああっ！！,Char... Chaaaaar... CHAAAAAAAAAAAAAAAAR!!!
+seinen (talking),…………ん？ なんだ、あれ。,...Huh? What`s that?
+shoujo (talking),ん？　どうしたの、お兄ちゃん。,"Hm? What is it, onii-chan?"
+seinen (talking),"いや、空から一直線に、 何か赤いものが落っこちてきてるんだ。
+何か、飛行機にしちゃ速いな。 軽く三倍くらい速いような……","Uh, there`s some red thing falling straight down in the sky.
+ It`s too fast to be a plane, way too fast..."
+shoujo (talking),お……お兄ちゃん、 それってまさか、テレビでやってた 宇宙病原菌の………………,"O-Onii-chan, could it be that space pathogen we saw on TV..?"
+seinen (talking),しゃ……シャアだっ！ 隕石のシャアが落ちてくるぞ！ 逃げろー！　シャアが来るぞーーー！！,I-It`s Char!! The meteorite Char is falling! RUN AWAY! CHAR`S COMING!!
+shoujo (talking),きゃーーーーーーーーーーーー！！ 助けてーーーーーー！,Kyaaaaaaaah! Heeeeeeeelp!
+narrator,"　　［ひゅうぅ…………ん……］
+ 　　［……ずどおおおおおおおんっ！！］
+シャアが落下した場所には小さなクレーターが 生まれて、砂煙がもうもうと立ちこめている。
+そして、その砂煙の中から、 なおも生きている赤い影が勢いよく飛び出した！","　　*Wheeeeeeee...*
+ 　　*BOOOOOOOOM!!!*
+ A small crater formed where Char had landed, along with a cloud of dust.
+ And from the cloud of dust, a red shadow jumped out with force, still alive!"
+Shaa (talking),……しゃあ！　しゃあ！　しゃあッ！！ しゃー！　しゃー！　しゃあああッ！！,...Char! Char! CHAR!! Char! Char! CHAAAAR!!
+__system__??,{■ \ 0:,{■ \ 0:
+__system__??,{Bキャラ = 1:,{Bキャラ = 1:
+__system__??,},}
+__system__??,{Bキャラ = 7:,{Bキャラ = 7:
+__system__??,},}
+__system__??,{Bキャラ = 37:,{Bキャラ = 37:
+__system__??,},}
+__system__??,{Bキャラ = 8:,{Bキャラ = 8:
+__system__??,},}
+__system__??,{Bキャラ = 87:,{Bキャラ = 87:
+__system__??,},}
+__system__??,{Bキャラ = 96:,{Bキャラ = 96:
+__system__??,},}
+__system__??,{Bキャラ = 13:,{Bキャラ = 13:
+__system__??,},}
+__system__??,{Bキャラ = 36:,{Bキャラ = 36:
+__system__??,},}
+__system__??,},}
+__system__??,{■ = 0:,{■ = 0:
+Shaa (talking),"………………
+しゃあ………………？","...
+ Char...?"
+narrator,"シャアは誰かにぶつかって、病原菌を ばらまこうとしたが、周囲には誰もいなかった。
+しばらく待ってみたが、奉仕青年団の連中も 自分を斃しに現れなかった。","Char tried to bump into someone to spread its pathogens, but nobody was around.
+ It waited for a while, but not even the YCSG showed up to kill it."
+Shaa (talking),しゃーーーー…………………………,Chaaaaaar...
+narrator,"シャアは、次第に弱っていき──やがて消滅した。
+宇宙病原菌シャア、実はウサギさん以上の 寂しがりやさんだった。","Char gradually weakened, and soon vanished.
+ It turns out that the space pathogen Char got lonely even more easily than a rabbit."
+__system__??,},}
+__system__??,{Bキャラ > 500:,{Bキャラ > 500:
+__system__??,},}
+narrator,そこに,And there
+narrator,が現れた！ 奉仕青年団の構成員としてシャアを退治する為に！,showed up! They`d come to destroy Char!
+ (talking),ぴろりろぴきーーーーーーん！ しゃあ、しゃああっ、しゃあああッ！！,"Piroriropikiiiiiin! Char, Char, CHAAAAAAR!!"
+narrator,あっ、シャアがイナズマのように動いた！,Ah! Char moved like a bolt of lightning!
+narrator,に襲いかかってその顔を舐めたぞ！,was pounced and had their face licked!
+ (talking),"っ、あ………………？！
+ …………た、助け………… 苦し…………………………
+あああ…………うああああっ……
+ぐははははーーげははーーー ぐげげーーーーー！！
+ ………………","Ah?!
+ ...H-Help... It hurts...
+ Aaaah... Waaaaaah...
+ GAHAHAHAHAHA!! GUGEGEGEGEGEH!!
+ ..."
+ (talking),……しゃあ、しゃあ、しゃあッ！！,...Char! Char! CHAR!
+Shaa (talking),"…………しゃ……
+しゃあああああああああああっ？！","...Cha...
+ CHAAAAAAAAAAAR?!"
+narrator,は、 シャアに感染してしまった！,got infected by Char!
+ (talking),しゃしゃしゃしゃしゃ~♪,Chachachar!♪
+narrator,仲間を増やしたシャアは、 機嫌良く空へと戻っていった…………,"Having found another comrade, Char returned to the sky in a good mood..."
+Tomobiki Misao (talking),あの…… それでは私、出かけてきます。,Um... I`m going out.
+Chinpira (talking),ああ、仕事は遅番だから 夜七時までには戻っておいでよ。,"Sure. You`ve got a late shift, so come back by seven."
+Tomobiki Misao (talking),はい。,I will.
+Chinpira (talking),……しっかし、操ちゃんも 毎週毎週どこに行ってんだろうな。,"...Still, where does Misao-chan go to every single week?"
+narrator,"──操は、イタミ山を登っていた。
+彼女は毎週毎週、水筒一本だけを手にして 欠かすことなくここへ来ているのである。","Misao was climbing Mount Itami.
+ She`d go there every week without fail, bringing nothing but a canteen with water."
+Tomobiki Misao (talking),"……ふう………… あともう少し……
+シャアに…… 水をやらないと…………","...Phew... Almost there...
+ I gotta give Char its water..."
+narrator,"呟いて、操はまた歩き出す。
+決して、我が身の境遇は 良いものだと言えなかったが──
+操は、池田との約束を守る事ができれば それで充分だった。","Muttering to herself, Misao kept walking.
+ It was definitely not something pleasant for her, but...
+ As long as Misao was able to keep her promise to Ikeda-san, then that was enough."
+narrator,──操は、今日もイタミ山を登っていた。 シャアに水をやるために。,Misao was once again climbing Mount Itami to give Char its water.
+Tomobiki Misao (talking),"……ふう…………ふうっ……
+ ………………？ えっ、池田さん……？","Haah... haaah...
+ ...? Huh?! Ikeda-san...?"
+narrator,"操は、山を被う薄霧の中に よく知っている男の顔を見て足を止めた。
+だが、その姿はすぐに消えた。","In the mist shrouding the mountain, Misao saw a man she knew very well and stopped.
+ Hoever, he soon disappeared."
+Tomobiki Misao (talking),"霊山だから……？ それとも幻………………
+今、確かに声が……
+ ……大丈夫です、池田さん。 私は寂しくなんかありません。
+あなたとの約束を 守り続けられれば、それで……
+あなたとずっと、一緒に居られると 信じてますから…………
+ …………
+世界が幸せでありますように……","Is this a sacred mountain...? Or was that just an illusion?
+ I`m sure I heard his voice...
+ ...Don`t worry, Ikeda-san. This isn`t rough on me at all.
+ Because I believe that if I can keep my promise to you...
+ ...We`ll be able to be together forever.
+ ...
+ May the world be filled with happiness."

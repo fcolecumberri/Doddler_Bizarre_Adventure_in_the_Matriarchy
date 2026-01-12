@@ -1,0 +1,314 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆大谷 = 0:,{☆大谷 = 0:
+__system__??,},}
+__system__??,{(☆大谷 = 1) * (★愛 = 3):,{(☆大谷 = 1) * (★愛 = 3):
+__system__??,},}
+__system__??,{☆大谷 > 49:,{☆大谷 > 49:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,{B忠誠タイプ = 1:,{B忠誠タイプ = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,{H物欲抵抗 <= H物欲:,{H物欲抵抗 <= H物欲:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+Ootani Yoshitsugu (talking),"…………？
+ ……呼ばれてきたと言うのに、 あの男は居ないのか。","...?
+ I was called here, yet he`s not around."
+Nogi Kikuko (talking),…………あっ。 大谷様じゃないですか？ ご無沙汰しております。,...Ah! Aren`t you Ootani-san? It`s been a while.
+Ootani Yoshitsugu (talking),"おお……喜久子お嬢様。
+こちらこそ、同じ組織に居るというのに、 すれ違いばかりで恐縮です。","Ooh... Kikuko Ojou-sama.
+ My apologies. We serve the same group, yet barely meet."
+Nogi Kikuko (talking),いえ、大谷さんがお忙しい身だという事、 私は悪司の妻として 重々承知しておりますから。,"Don`t worry, as Akuji`s wife, I`m keenly aware of how busy you are, Ootani-san."
+Ootani Yoshitsugu (talking),"ああ……そうでした。 ご結婚なさったとかで。
+どうですか、生活が変わって。 何かと大変かとは思いますが……","Ah, that`s right. You did get married.
+ How have you been holding up? I imagine it`s been rough..."
+Nogi Kikuko (talking),いえ、全く。 お陰様で幸せな日々を過ごしております。,"No, not at all. Thanks to you all, I live a happy life."
+Ootani Yoshitsugu (talking),良かった、それは何より。,I`m glad to hear it.
+Yamamoto Akuji (talking),…………何だよ。 えらい堅苦しい会話だと思ったら きっこと大谷だったのか。,"Oh. Thought I`d heard people being all stiff, and it turned out to be Kikko and Ootani."
+Nogi Kikuko (talking),まあ、旦那様。お聞きでしたか？,"My, Dear. Were you listening?"
+Ootani Yoshitsugu (talking),……今すぐ来いと人を呼びつけて、 席を外しているとは、随分だな。,"I was told to come right away, yet you weren`t around. Hmph."
+Yamamoto Akuji (talking),こらえてくれ、ションベンだ。,"Sorry, had to take a piss."
+Ootani Yoshitsugu (talking),"………………
+いや、乃木大将もお嬢様も、 お前のそういう所に 惹かれたのだとは思うが。","...
+ Well, I guess that part of you`s what charmed both the General and Ojou-sama."
+Yamamoto Akuji (talking),んあ？,Huh?
+Ootani Yoshitsugu (talking),……まあいい、早く用件を言え。,No matter. What do you need?
+Yamamoto Akuji (talking),……お、来たな大谷。 こっちだ、こっちー。,"Ah, there you are, Ootani. C`mere."
+Ootani Yoshitsugu (talking),何の用だか知らないが、手短に頼む。,Please make it quick.
+Yamamoto Akuji (talking),"何だよ、いきなり手短にって。
+まあゆっくり茶でも飲めよ。 それとも今急いでんのか？","What`s up with that?
+ Let`s take our time over some tea. Or are you in a hurry?"
+Ootani Yoshitsugu (talking),"……別に、急いではいない。
+だが、私がここに居ると迷惑になる。 お前のために言っているのだ。","I`m not in a hurry or anything.
+ However, it`ll be troubling if I stay. It`s for your own good."
+Yamamoto Akuji (talking),何だよ、迷惑って……,"What do you mean, troubling?"
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{RND = 0:,{RND = 0:
+__system__??,},}
+Kako Mirai (talking),……おかしいにゃりね~…… 事務所に入ったと思ったにゃりが……,"...Weeeird, coulda sworn he went into the office..."
+Yamamoto Akuji (talking),……？　何やってんだ、未来。,"...? What`re you doing, Mirai?"
+Kako Mirai (talking),"にーちゃん、さっきこっちに 怪しい覆面男が来なかったにゃりか？
+未来ちゃんから目を逸らして、 逃げるようにこっち来たにゃり。 あいつ絶対変にゃり。","Mister, did some shady masked guy come in here just now?
+ He looked away from Mirai-chan and ran towards here. That guy`s definitely shady."
+Yamamoto Akuji (talking),変かどーかは知らねぇが、 覆面男ならここに居るぞ。,"Dunno about shady, but here`s a masked guy."
+Ootani Yoshitsugu (talking),……………………,...
+Kako Mirai (talking),げ。 こいつにゃりよ、こいつ！,Geh. That`s the guy!
+Yamamoto Akuji (talking),げ、って何だおめー。 失礼なやっちゃな。,"Don`t \”geh\” him, you rude little shit."
+Kako Mirai (talking),"だってその覆面、ヤバいオーラが 漂いまくってるにゃりよ！？
+覆面の目の穴から見えてる皮膚も すんごい色が変にゃり。 絶対病気持ちにゃりよー……","But that guy`s oozing this real dangerous aura!
+ His skin color below the mask is also super weird. He must have some weird disease..."
+Yamamoto Akuji (talking),滅茶苦茶ぬかすな。,Quit running your mouth.
+Ootani Yoshitsugu (talking),……仕方あるまい、 私を初めて見たのなら、 その娘のような反応が普通だろう。,...It can`t be helped. Anyone who sees me for the first time has a similar reaction.
+Yamamoto Akuji (talking),あー、気にすんなよ。 こいつ基本的にバカだから。,Don`t let it bother ya. This girl`s stupid by default.
+Kako Mirai (talking),ば、バカって何にゃりかー！！,Wh-Who are you calling stupid?!
+Yamamoto Akuji (talking),"つーか、大谷ってさ、 別に病気って訳じゃねぇだろ？
+たしか乃木さんは、 火傷がどうとか言ってたが……","Besides, you`re not diseased at all, are you?
+ From what Nogi-san said, you got some nasty burns..."
+Kako Mirai (talking),火傷なんて嘘にゃり！ この人病院みたいな臭いするにゃり！ 絶対何かのヤバい病気にゃりよ！！,Burns? No way! This guy smells like a morgue! He definitely has some crazy disease!
+Ootani Yoshitsugu (talking),"……別に、私は病気などではない。 今言われた通り、戦時中の空襲で 大火傷を負っただけだ。
+そのせいで、顔の形が変わってしまった。 この覆面はそのせいだ。
+あと、時々は膿も出るのでな。 消毒液や皮膚薬もよく使うが。","...I am not diseased. Like he said, I was horribly burned during an air raid in the war.
+ As a result, my facial shape changed. It`s why I wear this mask.
+ Also, I often use medicine for the pus that sometimes comes out."
+Kako Mirai (talking),なら証明して欲しいにゃり！ その覆面取るにゃりよ！！,Then prove it! Gimme that mask!
+Ootani Yoshitsugu (talking),…………………… 仕方ない。,"... There`s no other way, then."
+narrator,大谷は、被っている覆面を 顎から口元の辺りまでそっと持ち上げた。,"Yoshitsugu raised his mask, exposing up to around his lips."
+Kako Mirai (talking),…………………………ひぅ。,...Eek.
+Yamamoto Akuji (talking),ありゃー、こりゃひでえ。 ほっぺたが原形留めてねーな、 歯が見えてるぜ……,"Damn, that`s horrible. Your cheeks are so fucked that I can see your teeth..."
+Kako Mirai (talking),…………み、未来ちゃん退場にゃり。 気分悪くなってきたにゃり……,M-Mirai-chan`s leaving. She`s not feeling well...
+Yamamoto Akuji (talking),"あ……おいこら未来。
+ったく、勝手なやっちゃなー。 ……気にすんなよ、大谷。","Ah, hey, Mirai!
+ Tch, what a self-centered brat. Don`t let her get to ya."
+Seinendan Jyoshi (talking),……あ、あれ…… 事務所に入ったと思ったのに……,...O-Oh? I thought he`d gone inside the office...
+Yamamoto Akuji (talking),……？　おう、どーかしたか？,? What
+Seinendan Jyoshi (talking),……あの、悪司さん。 覆面をした怪しい人を見ませんでしたか？,"Akuji-san, have you seen a suspicious masked guy around?"
+Yamamoto Akuji (talking),怪しいかどーかは知らねぇが、 覆面男ならここに居るぞ。,"Dunno about suspicious, but there`s a masked guy here."
+Ootani Yoshitsugu (talking),……………………,...
+Seinendan Jyoshi (talking),ひっ……,Eek...!
+Yamamoto Akuji (talking),ひっ、って何だおめー。 失礼だぞー？,"Hey, don`t yelp at him. You`re being rude."
+Seinendan Jyoshi (talking),す、すみません…… でも、あの……,"S-Sorry. But, um..."
+Ootani Yoshitsugu (talking),"……仕方あるまい、 私を初めて見たのなら、 その娘のような反応が普通だろう。
+マスクの隙間から私の爛れた皮膚を見て、 顔をしかめぬ者はまず居ないからな。","It`s to be expected. Most people react the same when they first see me.
+ Anyone`d flinch upon seeing my inflamed skin through my mask."
+Yamamoto Akuji (talking),"爛れた皮膚？
+あ……そうだ、たしか乃木さん、 火傷がどうとか言ってたな。 おめーの覆面って……","Inflamed skin?
+ Oh, right, Nogi-san did say you were a burn victim. So your mask is for..."
+Ootani Yoshitsugu (talking),"その通りだ。 大火傷で生死の境を彷徨った。
+お陰で、顔の形が すっかり変わってしまってな。 覆面はそのためにつけている。","Indeed. I nearly lost my life to these burns.
+ As a result, my face was completely deformed. It`s why I wear the mask."
+Yamamoto Akuji (talking),？,?
+Ootani Yoshitsugu (talking),……仕方ないか。 見てもらうしかあるまい。,"...No other choice, I`ll show you."
+narrator,大谷は、被っている覆面を 顎から口元の辺りまでそっと持ち上げた。,"Ootani raised his mask, exposing up to around his lips."
+Seinendan Jyoshi (talking),…………………………ひぅ。,...Eep.
+Ootani Yoshitsugu (talking),傷から時折、膿が出るのだ。 少し臭うかもしれん。 ……今は幾分ましだと思うが。,"Sometimes pus comes out, so it might smell a bit. Thought it`s gotten better."
+Yamamoto Akuji (talking),ありゃー、こりゃひでえ。 ほっぺたが原形留めてねーな、 歯が見えてるぜ……,"Damn, that`s horrible. Your cheeks are so fucked that I can see your teeth..."
+Seinendan Jyoshi (talking),…………す、すみません。 私、ちょっと……,"...I-I`m sorry, I have to go..."
+Yamamoto Akuji (talking),"あ……おいこら。
+ったく、失礼なやっちゃなー。 ……気にすんなよ、大谷。","Hey, hold up!
+ Damn, what a bitch. ...Don`t let her get to ya."
+Ootani Yoshitsugu (talking),"…………いつもの事だ、慣れている。
+お前とて、私と長話など したくはあるまい。 さ、早く用件を言え。","...I`m used to it by now.
+ You don`t want to talk with me for long. Now, hurry with your business."
+Yamamoto Akuji (talking),"ああ、あんたもしかして、 そんなこと気にしてたのか？
+心配すんな、俺はんなこと 気にしねえ方だからよ。","Are you actually worried about that stuff?
+ Well don`t, I`m not someone who`d care about it."
+Ootani Yoshitsugu (talking),気休めはいい。,You don`t have to comfort me.
+__system__??,{☆ギガフロート \ 0:,{☆ギガフロート \ 0:
+__system__??,},}
+Takega Satsu (talking),……悪司、今学校から戻ったぞ。 そちらは客人か？,"Akuji, I`m back from school. Is he a guest?"
+Yamamoto Akuji (talking),ああ、いや、部下の大谷だよ。 ほれ、乃木さんのとこの。,"Yo. He`s my subordinate, Ootani. He`s from Nogi-san`s place."
+Ootani Yoshitsugu (talking),………………,...
+Takega Satsu (talking),ああ、存じ上げている。 あまり姿を見たことはないが……,"Ah, I`ve heard of him, but I haven`t seen him much."
+Ootani Yoshitsugu (talking),私は、人を避けてしまう性でな。 ……話すのは初めてだと思う。,I try to avoid people. This is the first time we`ve met.
+Takega Satsu (talking),では大谷どの、一応は初めましてと 言わせてもらおう。,"Then let me introduce myself at least, Ootani-dono."
+__system__??,{★愛 \ 5:,{★愛 \ 5:
+Takega Satsu (talking),悪司の叔母、岳画殺だ。,"I`m Takega Satsu, Akuji`s aunt."
+__system__??,},}
+__system__??,{★愛 = 5:,{★愛 = 5:
+Takega Satsu (talking),悪司の妻、殺だ。以後よろしく。,"I`m Satsu, Akuji`s wife."
+__system__??,},}
+narrator,殺は、大谷へごく自然に右手を差し出した。,Satsu held out her right hand to Ootani.
+Ootani Yoshitsugu (talking),……握手をするのか、この私と。,...You mean to shake hands?
+Takega Satsu (talking),そのつもりだが。 何か問題でも？,Indeed. Is there a problem?
+Ootani Yoshitsugu (talking),私が怖くはないのか。,Am I not scary to you?
+Takega Satsu (talking),それはもしや、 そなたの覆面の下の事か？,Are you talking about what`s behind your mask?
+Ootani Yoshitsugu (talking),……見ていたのか。,...So you were watching.
+Takega Satsu (talking),玄関先から、遠目にはな。,"From the front door, but yes."
+Ootani Yoshitsugu (talking),………………,...
+Takega Satsu (talking),別に握手を無理強いする気はない。 嫌なら手を収めるが……,I won`t force you to do it. I`ll cease if you don`t-
+Ootani Yoshitsugu (talking),……いや。 こちらこそ、よろしく頼む。,"...No, it`s fine. I`m pleased to meet you."
+Takega Satsu (talking),"うむ。
+ ……では私は、 茶でも淹れてこよう。","Umu.
+ ...Then I`ll go prepare some tea."
+Yamamoto Akuji (talking),ああ、よろしく頼むぜ、さっちゃん。,"Please do, Sacchan."
+Takega Satsu (talking),では大谷どの、失礼する。,"Please excuse me, Ootani-dono."
+Ootani Yoshitsugu (talking),……肝の据わった娘だ。,...What a composed girl.
+Yamamoto Akuji (talking),"うちの家系だからかねー、 変なヤツに耐性があんのかもな。
+だからおめーも、あんま気にしないで ここじゃ自然にしてるこった。
+うちにゃ変なヤツも結構いるしよ、 おめー自身も、人間的に破綻してるとか そういう訳じゃねえだろ？
+そのうち、みんな慣れてくるさ。","Runs in our family. We might have a tolerance for weirdos.
+ So you shouldn`t worry too much and just stick around.
+ We got plenty of weirdos ourselves, and it`s not like you`re inhuman or something.
+ They`ll get used to you."
+Ootani Yoshitsugu (talking),"………………
+乃木大将がお前を認めた理由、 解ったような気がする。","...
+ I think I understand why the General approved of you."
+Yamamoto Akuji (talking),ん？,Hm?
+Ootani Yoshitsugu (talking),……いや、何でもない。,...It`s nothing.
+Yamamoto Akuji (talking),……よう、大谷。 調子はどうだ？,"`Sup, Ootani. You doing alright?"
+Ootani Yoshitsugu (talking),悪くはない。 それで、今日呼ばれた用は何だ。,"I am. So, what did you call me for today?"
+Yamamoto Akuji (talking),よう、大谷。 ちゃんと仕事してっか？,"Yo, Ootani. You working hard?"
+Ootani Yoshitsugu (talking),"勿論だ。
+しかし、側で見れば見るほど お前と乃木大将には 通じるものを感じるな。","Of course.
+ But the more I observe, the more I feel you and the General are similar."
+Yamamoto Akuji (talking),ん？　どーいうこった？,Huh? What do ya mean?
+Ootani Yoshitsugu (talking),……いや。 我々が戦わずに済んだ方法が あったような気がするのだ。,...Nothing. I feel that we could`ve settled things without fighting.
+Yamamoto Akuji (talking),んー、たとえそうだとしても 過去を振り返ったってしゃあねーぜ？ 前向いていこうや。,"Even if there was, ain`t no use dwelling in the past. Ya gotta move on."
+Ootani Yoshitsugu (talking),………………,...
+Yamamoto Akuji (talking),えーっとな、あんたに 臨時ボーナスを出そうかと 思ってよ。,"Lessee, I thought I`d give ya a little bonus."
+Ootani Yoshitsugu (talking),充分な給与は頂いている。 賞与など受け取れぬ。,My salary`s enough. I won`t take a bonus.
+Yamamoto Akuji (talking),いや、ボーナスは一応、 その給与の一部なんだけどよ。,"Hey, a bonus is part of your salary, too."
+Ootani Yoshitsugu (talking),"私は、乃木大将の命で この組織に入っているのだ。
+私が立ち働くのは お前との雇用契約でなく、 乃木大将との約束に依るのだ。
+故に、余計な気は使わなくていい。 その金は別の事のためにとっておけ。","I`m here on General Nogi`s orders.
+ I work not because of a contract, but to fulfill my promise to him.
+ So you don`t have to care. Use the money someplace else."
+Yamamoto Akuji (talking),そう言ってくれんなら、 イロイロと有り難いんだけどよー……,"Well, that certainly makes a lotta things easier."
+Ootani Yoshitsugu (talking),案ずるな、金や待遇の事で 私は決して裏切ったりはしない。,"Fret not, I won`t betray you over money or treatment."
+Yamamoto Akuji (talking),………………ふーむ。 その言葉、今は一応信じておくぜ。,"...Alright, I`ll believe in you, for now."
+Yamamoto Akuji (talking),ほれ、特別ボーナス。,"Here, a bonus."
+narrator,悪司は、札束の入った封筒を 大谷にいくつか手渡した。,Akuji gave Ootani an envelope filled with money.
+Ootani Yoshitsugu (talking),"……随分多いようだが。
+これは、私の働きに対する 正当な報酬だと思っていいのか。","...That seems like a lot.
+ May I consider a fair reward for the work I`ve put in?"
+Yamamoto Akuji (talking),ああ、構わないぜ。,"Sure, I don`t mind."
+Ootani Yoshitsugu (talking),……では、遠慮なく頂いておく。,"...I`ll take it, then."
+Yamamoto Akuji (talking),覆面の下の火傷とか膿とか、 気になるようなら病院行けよ。 そのカネでがっちり治せや。,"If those burns bother ya, go to a hospital. The money should help a lot."
+Ootani Yoshitsugu (talking),"……………… 余計なお世話だ、と言いたいところだが。
+その気遣いも、有り難く頂いておく。","...I want to say that it`s none of your business.
+ But thanks for the sentiment."
+Yamamoto Akuji (talking),おう。,おう。
+Yamamoto Akuji (talking),……ふふん、乃木大将の手下だった 覆面野郎の登場だな。,"Hahah, if it ain`t the General`s masked henchman."
+Ootani Yoshitsugu (talking),………………早く殺せ。 どうせそのつもりなのだろう。,...Kill me already. I know it`s what you`re here for.
+Yamamoto Akuji (talking),"いんや、そうとも限らねえさ。
+ところでよ、ずっと気になってたんだが おめーのその覆面って一体何なんだ？","No, maybe I`m not.
+ By the way, I gotta ask. What`s up with the mask?"
+Ootani Yoshitsugu (talking),………………,...
+Yamamoto Akuji (talking),この地下室、結構ムレねぇか？ 取っちまえよ、いっそ。,Ain`t it stuffy down here? Take it off for a bit.
+Ootani Yoshitsugu (talking),やめておけ、見ない方がいい。,You don`t want to see it.
+Yamamoto Akuji (talking),は？,What?
+Ootani Yoshitsugu (talking),"戦時中、私は空襲に遭ってな。 大火傷をした。
+ ……この覆面の下の顔は、 今では化け物同然だ。
+私の素顔を見てなお、 人間扱いしてくれたのは 乃木大将だけだ。","I was severely burnt during an air raid in the war.
+ ...It`s turned my face into something monstrous.
+ The General`s the only one who`s treated me normally even after seeing my face."
+Yamamoto Akuji (talking),"そーなのか？ 俺はそういうの、あんまし 気にしねえ方だが……
+どっちかって言うと、 あんた自身が嫌なんじゃねえのか？ 素顔晒すのがよ。","That so? I don`t really care about that sorta stuff.
+ Ain`t it more that YOU don`t like showing people your face?"
+Ootani Yoshitsugu (talking),………………,...
+Yamamoto Akuji (talking),"うちはな、捕虜にしたヤツは一応 身元を調べたりしてるんだけどよ。
+大谷善継…… 戦前は銀幕の二枚目活劇スター。 すんげえ有名人じゃねえか。
+容貌も声も変わっちゃってっから さっぱり気が付かなかったが、 俺、あんたのファンだったんだぜ。","I always look into the people we capture.
+ Ootani Yoshitsugu. You were a big, handsome movie star before the war.
+ I didn`t notice since your face and voice changed, but I used to be your fan."
+Ootani Yoshitsugu (talking),………………,...
+Yamamoto Akuji (talking),やっぱ、元役者としては 自分の醜い顔に我慢ならないのかい？,"As a former actor, ya can`t stand your deformed face, right?"
+Ootani Yoshitsugu (talking),貴様の知ったことか。,None of your business.
+Yamamoto Akuji (talking),……怒んなよ。 こっちは別に悪気はねえんだぜ？,Don`t get mad. I didn`t mean anything bad by it.
+Ootani Yoshitsugu (talking),………………,...
+Yamamoto Akuji (talking),ふー。やれやれ。,Haah. Fuck`s sake.
+Yamamoto Akuji (talking),よう、覆面にーちゃん。,"Yo, masked man."
+Ootani Yoshitsugu (talking),……………… いつまで私をここに置いておくのだ。,...How long are you going to keep me here?
+Yamamoto Akuji (talking),さー、いつまでかな。,Dunno.
+Ootani Yoshitsugu (talking),"ここは湿気が多い。 膿が止まらなくて困る。
+火傷の痕が膿むのだ。 免疫力が落ちているせいかも知れんがな。
+ここでは躰を清められんから、 どうしようもない。 お前の方まで臭うだろう。","It`s damp in here. The pus keeps coming out.
+ Burns fester easily, thanks to a weaker immune system.
+ And I can`t wash myself here, so I`m stumped. Even you can smell it."
+Yamamoto Akuji (talking),……ま、ちょっとだけどな。,"...A bit, yeah."
+Yamamoto Akuji (talking),なあ、あんた。 俺の部下になる気はねえか？,hey. Won`t you work for me?
+Ootani Yoshitsugu (talking),……戯言を。,...Quit joking.
+Yamamoto Akuji (talking),"俺はマジで言ってんだぜ？
+あんたはそれなりに使える男だ。 良かったら俺の下についてくれよ。
+それとも……なんつーか、 乃木大将を裏切りたくないかい？","I`m serious.
+ You`re a useful guy. I`d like to have ya.
+ Or what, ya can`t betray the General?"
+Ootani Yoshitsugu (talking),"その気持ちは確かにある。
+だが乃木大将は、いついかなる時も 自分の生き方は自分で決めろと 仰っていた。
+私がアシヤに居たのも、 自分でそうしようと決めたからだ。 それ以外に理由はない。","I certainly think that.
+ But he`s also said that I`m free to choose how I live at any time.
+ I was at Ashiya because I`d wanted to. I have no other reasons."
+Yamamoto Akuji (talking),おお、そんじゃ……,"Oh, then-"
+Ootani Yoshitsugu (talking),勘違いするな。 貴様の部下になどなる気はない。,Don`t misunderstand. I don`t want to work for you.
+Yamamoto Akuji (talking),……あれま、やっぱし。,"...Damn, no luck, huh?"
+Ootani Yoshitsugu (talking),"……しかし、私を部下にしたいなどと。
+酔狂な男だな、貴様は。","...Still, wanting me as an ally?
+ What a capricious man."
+Yamamoto Akuji (talking),酔狂なつもりはねえけどな。 これでもきっちり算段してるんだぜ。,I ain`t capricious. This was all calculated.
+Ootani Yoshitsugu (talking),……同じ事だ。,...Sure it was.
+Yamamoto Akuji (talking),なあ、ぼちぼち心変わりしたかい？ 部下になってくんねぇか？,You have a change of heart yet? Work for me.
+Ootani Yoshitsugu (talking),"………………
+正直に言うと、心変わりは起きつつある。","...
+ I do feel one, yes."
+Yamamoto Akuji (talking),ん？,Huh?
+Ootani Yoshitsugu (talking),"貴様の事は、戦後のどさくさに紛れて 権力を拡大しようとする馬鹿だとしか 思っていなかった。
+だから私は、捕まってしまえば すぐに殺されると思っていたのだが。
+ ……貴様の腹の中は、 単純に欲望だけでもなさそうだ。","I`d thought you were a fool wanting to become powerful in the war`s chaotic aftermath.
+ Which is why I thought I`d be killed if I was captured.
+ ...It doesn`t seem like you`re moved by desire alone."
+Yamamoto Akuji (talking),欲望っつーよりかは、 愛を目一杯つめこんで動いてるつもりだ。 ま、自称だけどよ。,"Rather than desire, it`s a love that moves me. Though that`s only what I say."
+Ootani Yoshitsugu (talking),"自称だけにしておくべきだな。
+愛などと、その顔にこれほど 似合わぬ台詞はないぞ。","Let`s leave that aside.
+ There`s no word that suits you less than “love”."
+Yamamoto Akuji (talking),はっきり言うねー。,You don`t mince words.
+Ootani Yoshitsugu (talking),"………………
+部下になってやってもいい。","...
+ I`ll work for you."
+Yamamoto Akuji (talking),お、マジか！？,"Ohh, really?!"
+Ootani Yoshitsugu (talking),ただし、条件がある。,But I have a condition.
+narrator,"大谷は覆面に手をかけ、悪司に素顔を見せた。
+焼け爛れ、溶け落ちた顔の皮膚。 鼻骨や歯が剥き出しになった、その顔を──","Ootani took off his mask.
+ Look, at this burnt, melted, deformed face-"
+Yamamoto Akuji (talking),……うわ、すげーなおい。 自分で化け物面って言うだけあらぁ……,...Damn. No wonder you called it monstrous...
+Ootani Yoshitsugu (talking),"……ふ。 そういう言葉を吐くと思っていた。
+この素顔を見た後で、私と握手できれば 貴様の部下になってやろう。
+だが無理に決まっている、そんな事は……","...Hah. I knew you`d say that.
+ I`ll work for you if you can shake my hand after that.
+ But I know you can`t-"
+Yamamoto Akuji (talking),"……へっ？ 何だよ、そんな簡単な事でいいのか？
+握手するする、シェイクハンドＯＫＯＫ。 じゃこれで契約成立な。","...Huh? That`s all? Really?
+ One handshake, coming up. We have a deal, then."
+narrator,悪司は言い、大谷の両手を取って固く握りしめた。,Akuji shook both of Ootani`s hands.
+Ootani Yoshitsugu (talking),"……………………
+貴様……私が気持ち悪くないのか。","...
+ Aren`t you disgusted?"
+Yamamoto Akuji (talking),"ただの火傷だろ？ そこまで気にすんなよ。
+第一、俺は戦場に居たからな。 もっとひでぇ死体とかも見てきたしよ。
+ ……おっと、 死体と一緒にしちゃ、あんたに悪いな。 すまねえ。","They`re just burns, right? Nothin` to fuss over.
+ And I`ve seen even worse shit in the war, too.
+ ...Oops, I don`t mean to say you look like shit. My bad."
+Ootani Yoshitsugu (talking),………………いや、気にしていない。,"...No, it`s fine."
+Yamamoto Akuji (talking),"普段は覆面被ってくれてんだしさ、 もうそれで充分。ぜーんぜんＯＫだぜ。
+そうやって、必要以上に周囲を 怖がらせないようにしてんだろ？ ハナっから解ってるさ。","You`re usually wearing a mask, and that`s enough.
+ And you try not to get people around you scared, right? I can tell."
+Ootani Yoshitsugu (talking),………………,...
+Yamamoto Akuji (talking),"いやー、俺の周囲ってよ、 見た目はまともでも中身がヘンなのとか 結構多くてなー。
+あんたは逆に、 中身がすんげーまともそうで 何かとホッとするよ。","Hell, there are a ton of weirdos who otherwise look normal in my group.
+ You`re the opposite, and it`s actually relieving that you`re a normal guy."
+Ootani Yoshitsugu (talking),……………… 自分では、何とも言えないが……,... I`m at a loss for words.
+Yamamoto Akuji (talking),さて、一応再確認するぜ。 あんたは俺の部下になってくれたって そう思っていいのかい？,"Now just to make sure, I can consider you my subordinate now, yes?"
+Ootani Yoshitsugu (talking),……ああ、お前を信用することにしよう。,"...Yes, I`ll have your back."
+Yamamoto Akuji (talking),……そこを退け。 さもなくば後悔することになるぞ。,...Move. You`ll regret it if you don`t.

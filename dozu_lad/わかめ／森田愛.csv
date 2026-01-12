@@ -1,0 +1,933 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆森田２ = 0:,{☆森田２ = 0:
+__system__??,},}
+__system__??,{☆天才病院 = 1:,{☆天才病院 = 1:
+__system__??,},}
+__system__??,{☆森田 = 4:,{☆森田 = 4:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 2:,{麦 = 2:
+__system__??,{(B忠誠タイプ = 3) * (B忠誠心 > 70):,{(B忠誠タイプ = 3) * (B忠誠心 > 70):
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 4:,{麦 = 4:
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,},}
+__system__??,{麦 = 12:,{麦 = 12:
+__system__??,{H愛欲 = 1:,{H愛欲 = 1:
+__system__??,},}
+__system__??,{H愛欲 = 3:,{H愛欲 = 3:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+__system__??,{麦 = 17:,{麦 = 17:
+__system__??,{H拷問抵抗 < H拷問:,{H拷問抵抗 < H拷問:
+__system__??,},}
+__system__??,{H拷問 = 1:,{H拷問 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 18:,{麦 = 18:
+__system__??,},}
+__system__??,{麦 = 5:,{麦 = 5:
+__system__??,},}
+__system__??,{麦 = 19:,{麦 = 19:
+__system__??,},}
+morita  ai (talking),"はぁぁぁ~~ん…… 駄目でござんす、駄目駄目です。
+あたしゃ、自分が情けないでござんすよ。
+義理と任侠の世界で生きようと 決意したのに、あの男の色香に 迷わされるなんざー……","Yaaaawn... It`s no good at all.
+ I`m so pathetic.
+ I`d decided to live as a yakuza, yet that man`s mcharmade me waver..."
+Yamamoto Akuji (talking),どの男？,What man?
+morita  ai (talking),あんた。,You.
+Yamamoto Akuji (talking),いつも直球勝負の女だな、 お前さんは……,"You`re nothing if not straightforward, ain`tcha..."
+narrator,悪司の元に愛がやってきた。,Ai came to Akuji.
+morita  ai (talking),お呼びになりやしたかい？,Did you call for me?
+Yamamoto Akuji (talking),………………,...
+morita  ai (talking),何か？,What is it?
+Yamamoto Akuji (talking),どっか体調が悪いとかねーか？,Ya feeling unwell at all?
+morita  ai (talking),いえ、至極健康でござんすが。,"No, I`m in perfect health."
+Yamamoto Akuji (talking),こう……ハニワが恋しいとか…,You not into haniwas?
+morita  ai (talking),ん？？ なんでござんすか、それは。,Huh?? What is that about?
+Yamamoto Akuji (talking),"……………
+世の中には、知らない方が 幸せって事もあるんだ。","...
+ Guess ignorance really is bliss."
+morita  ai (talking),気になるでござんすよ。,Now I`m curious.
+Yamamoto Akuji (talking),記憶にないんだったら、 それでいーじゃねぇか。,It`s fine if ya don`t remember.
+morita  ai (talking),記憶がない……それはそれで、 ドラマみたいでかっこいいでござんす。,"That sounds kinda cool, like a plot from a TV series."
+morita  ai (talking),今日はなんですかい。 輪姦されるとか、そーいうんじゃ ないでやんすよね？,What do you need today? You gonna have me gangraped or something?
+Yamamoto Akuji (talking),輪姦して欲しいのか？,Do you want to?
+morita  ai (talking),ぶるるるるるるるっっっっっっっっっっ。,Brrrrrr.
+morita  ai (talking),お呼びでござんすかー？,You called for me?
+Yamamoto Akuji (talking),おう……そーいや呼んでたな。 あんまし時間が経ってたんで 忘れてた。,Oh yeah... I did. You took so long that I forgot.
+morita  ai (talking),天才病院に行っていたでござんす。,I was at genius Hospital
+Yamamoto Akuji (talking),びょーいん？ なんだ、脳波の検査か？,"The Hospital? For what, to get your brain checked?"
+morita  ai (talking),風邪をひいたんで、診察とお薬を もらいに行ってたんでござんす。,"I got a cold, so I went there for a check-up."
+Yamamoto Akuji (talking),なんとかは風邪ひかねーってのは ウソだったのか？,"What, you lied about never catching a cold?"
+morita  ai (talking),あたしゃ、なんとかじゃないんで 風邪ひくでござんす。 ふぇっくしゅぃーんっ。,"No, I catch colds like everyone else. A-choo!"
+Yamamoto Akuji (talking),くしゃみとか咳とかする時は 手で口ふさげって、習わなかったのかよ。,Didn`t ya learn to cover your mouth when you sneeze?
+morita  ai (talking),すいやせん、突発事故でさ。,"Sorry, it was an accident."
+Yamamoto Akuji (talking),その治療ってのは、 院長もしたりするのか？,Did the hospital director do anything?
+morita  ai (talking),"へい。 今日は院長先生に 診てもらいやしたよ。
+旦那も、あの院長、怪しいと 思ってるんでござんすか？","Yeah. Today, he was the one who examined me.
+ Do you think he`s suspicious, too?"
+Yamamoto Akuji (talking),俺もって…,Me?
+morita  ai (talking),あたしも、あの院長は嫌いでして。,I hate that guy.
+Yamamoto Akuji (talking),どうしてだ？,Why?
+morita  ai (talking),世間様には評判がよろしくても、 あたしの目にはそうは映らないんで。,"He may have a good rep, but I can see his true colors."
+Yamamoto Akuji (talking),何かそういう素振りでも見たのか？,You seen it for yourself?
+morita  ai (talking),ドラマの定番じゃござんせんか。 美形で評判のいい医者が、裏で 怪しい趣味をもっていたりするのは。,"It`s a TV series staple. Popular, handsome doctors are always evil characters."
+Yamamoto Akuji (talking),…それだけか？,...Is that it?
+morita  ai (talking),そうでござんす。,Yep.
+Yamamoto Akuji (talking),お前やっぱ脳波 調べてもらってこい。,You REALLY should get your head checked.
+morita  ai (talking),どうしてでござんすかーー！！,Why?!
+Yamamoto Akuji (thinking),しかし、愛の言い分はともかく、 誰にも評判がいい人間なんて 存在すんのかねー……,"Leaving what she said aside, is there really anyone with such a perfect rep?"
+Yamamoto Akuji (talking),んじゃあ、お楽しみタイムだ。,"Now, time for some fun."
+morita  ai (talking),なんでござんすか！？ ふたりでテレビの任侠連続ドラマ 「仁義ある海辺」を見るでござんすか！？,Really?! Are we going to watch the yakuza TV series “Honor in the City” together?!
+Yamamoto Akuji (talking),そりゃ、お前さんのお楽しみだろうが。,That`s YOUR idea of fun.
+morita  ai (talking),そうでござんすか？,"Um, yes?"
+Yamamoto Akuji (talking),こっちだ、こっち。 お前さんも夢中になるコレだ。,Come. It`s something that`ll get you hooked too.
+narrator,と、悪司は拳を作って人差し指と 中指の間から、親指の先を出してみせた。,"With that, Akuji made a lewd gesture with his hands."
+morita  ai (talking),最悪に下品な手でござんすね。,What a vulgar gesture.
+Yamamoto Akuji (talking),やらねぇのかい？,Don`t wanna?
+morita  ai (talking),う、あ、う。,"Ugh, ah, auuu."
+Yamamoto Akuji (talking),そんなに俺に溺れるのが怖かったらよ、 イヤんなったら、俺をこれで刺しな。,"If ya really don`t wanna, then stab me with this."
+narrator,と、悪司はまた愛にドスを渡した。,Akuji gave Ai her dagger again.
+morita  ai (talking),んんん~~……,Hmmmm...
+Yamamoto Akuji (talking),そーら、よっこいしょっと。,Up you go.
+morita  ai (talking),ひえええ！！,Hyaaaaah!
+narrator,悪司は愛を小脇に抱えると、 ベッドの上に乗った。,Akuji picked Ai up and got on top of the bed.
+cg narrator,"「あっ…また…こんな……」
+悪司の指からは、充分に湿った 水音が響いている。
+「どうした？ 　イヤじゃねぇのかい？」
+「うっ……あっ…そ、それ……は…」
+「素直に俺に溺れちまいな。 　誰もそれを責めやしねーからよ」
+「でっ……でも……」
+悪司の指が、愛の胸と花弁で蠢く。
+「ああっ……！！」
+「頭で考えてるうちは、どーにもなんねぇぜ」
+「あ、あう、あう……」
+「さぁて、入れてやるよ。 　足、そのまま開いてな」
+「えっ…あっ……うあっ…！」
+「そら、一発で、ぜーんぶ俺の、 　飲みこんじまったぜ、愛」
+「うーっ……あうっ……」
+「今日も目一杯、俺ので楽しみな。 　くらくらにしてやるよ」
+「あ、あう、あう、あっ……あ~~……！！」","「Ahn! This again...!」
+ A rather damp noise came from the place Akuji`s fingers were in.
+ 「What`s wrong? 　Do you like it after all?」
+ 「Ugh... ahn! Th-That`s...」
+ 「Just let yourself get lost in me. 　Nobody`ll blame you for that.」
+ 「B-But...!」
+ Akuji teased Ai`s breasts and petals.
+ 「Aaaahn!」
+ 「Quit following what your head says.」
+ Ahn, auuuu...」
+ 「I`m gonna put it in. 　Spread your legs.」
+ 「Huh?! Ahn! waaaah!」
+ 「Look, you took all of me in 　in one go, Ai.」
+ 「Hnnngh! Auuu!」
+ 「Enjoy yourself with me today. 　I`ll make you light-headed.」
+ 「Ahn, auuu, ahn, aaaaaahn!」"
+Yamamoto Akuji (talking),さて、しばらくぶりだな。 お前さんを可愛がってやるのも。,"Now then, it`s been a while. I`ll give you some loving."
+morita  ai (talking),ホント、ご無沙汰でござんすよ。 蜘蛛の巣がはると思ったでござんす。,It really has been a while. I thought I was growing cobwebs.
+Yamamoto Akuji (talking),また、凄い言い回しを……,Hell of a thing to say...
+morita  ai (talking),ほんとの事でござんす。,It`s the truth.
+Yamamoto Akuji (talking),はいはい、わかったよ。 足腰立たなくなるまで、やってやるよ。,"Yeah yeah, whatever. I`ll fuck you silly."
+morita  ai (talking),おおおお~~う。,Ooooooh.
+morita  ai (talking),愛は、足腰がふにゃふにゃになるまで抱かれた。,Ai was fucked until her hips gave out.
+Yamamoto Akuji (talking),愛、これ、受け取ってくんな。,"Here, Ai, take it."
+morita  ai (talking),お金でござんすか。,Money?
+Yamamoto Akuji (talking),ああ。,Yep.
+morita  ai (talking),まあ…頂いておくでござんす。,"Well, I`ll accept it."
+narrator,男泣きしている愛が、 悪司の前に連れてこられた。,The weeping Ai was brought before Akuji.
+morita  ai (talking),"あたしゃ、なさけないでござんす。 捕虜になった上に、敵の上官の前に 引っ張り出されるなんて…
+名誉ある死を選択させてくだせぇ。 切腹させてくだせぇ。","I`m so pathetic. Not only was I captured, but I was even dragged out to the enemy boss...
+ Please let me die with honor. Please let me commit seppuku."
+Yamamoto Akuji (talking),切腹ってのは、 侍の死に方じゃねーのか？,Seppuku? Ain`t that how samurai die?
+morita  ai (talking),"………おお！！
+で、では……
+…………………
+~~~~~~~？？？？
+この場合、任侠ではどうするんで？","...Ooh!!
+ Th-Then...
+ ...
+ ~~??
+ What happens to yakuza in this situation?"
+Yamamoto Akuji (talking),男の場合は、袋叩きで、 コンクリ流して海に捨てる。,Men have the shit beaten out of them and then get a pair of cement shoes.
+morita  ai (talking),女の場合は？？,What about women??
+Yamamoto Akuji (talking),さんざん輪姦した後、 テキトーに売っぱらう。,Gangraped and then sold off in a brothel.
+morita  ai (talking),そ、それは大ぴーーーんちで ござんすよー！,I-I`m in biiiiiig trouble! ござんすよー！
+narrator,男泣きしている愛が、 悪司の前に連れてこられた。 心成しか、少しゲッソリしている。,The weeping Ai was brought before Akuji. She was somewhat emaciated.
+morita  ai (talking),うっ…うう……,Auu... uuu...
+Yamamoto Akuji (talking),どうした？ もうへばってきたのか？,What`s wrong? Had enough already?
+morita  ai (talking),"うっ…うううーー…
+……どっ……
+ドラマが……
+あたしが毎週楽しみにしているテレビ ドラマが…
+今週放映分、見れなかったで ござんす……しくしく…","Auu...
+ auuuu...
+ My-
+ My drama... My beloved weekly TV drama... I couldn`t
+ watch this week`s broadcast... Sob..."
+Yamamoto Akuji (talking),………あ~~……,...Ahh.
+morita  ai (talking),うう…愛と任侠のドラマ…… あたしの生活の一部でござんすのに~……,Auu... My drama of love and honor... It was part of me...
+Yamamoto Akuji (talking),愛。 おめー、男とヤッた事はあるのか？,Ai. You ever do it with a man?
+morita  ai (talking),あるでござんすよ。,I have.
+Yamamoto Akuji (talking),……………,...
+morita  ai (talking),それがどうかしたでござんすか？,What about it?
+Yamamoto Akuji (talking),いや……意外な答えが返ってきたから…,"Uh, I wasn`t expecting that..."
+morita  ai (talking),"同級生の任侠志望の男の子と したんでござんすが…
+早い、テクなし、自分勝手だったんで、 あたしゃ３５歳以下とはしない事に してるでござんす。","I did it with a classmate who also aspired to be a yakuza...
+ He was so quick, bad, and selfish that I decided to only do it again with men over 35."
+Yamamoto Akuji (talking),なんで、３５？,Why 35?
+morita  ai (talking),男はそれぐらいからでござんす。 味が出てくるのは。,That`s when a man`s flavor starts to come out.
+Yamamoto Akuji (talking),じゃあ、俺は駄目ってか？,"So I`m no good, then?"
+morita  ai (talking),そうでござんすね。,Yep.
+Yamamoto Akuji (talking),そうか…だったら賭けをしねぇか？,I see. Then how about a bet?
+morita  ai (talking),賭け！ いいでござんすね。 任侠の世界でござんす。,A bet?! Sounds great! That`s what yakuza are all about!
+Yamamoto Akuji (talking),俺があんたを、手と口だけで ５分でメロメロにしてやるよ。,I`ll make you fall in love with me with just my hands.
+morita  ai (talking),ははははは。 大きく出たでござんすね。 で、賭けるものはなんでござんすか？,"Hahahahah, you talk big. So, what are we betting?"
+Yamamoto Akuji (talking),俺の命だ。,My life.
+morita  ai (talking),へはっ！？,Hwah?!
+Yamamoto Akuji (talking),５分後、俺にさわられてるのがまだ 気持ち悪かったら、これで俺を刺すと いいぜ。,"If you still dislike being touched by me after 5 minutes, you may stab me with this."
+narrator,そう言って、悪司は抜き身のドスを 愛に渡した。,Akuji handed an unsheathed dagger over to Ai.
+morita  ai (talking),５分ですかい。,"5 minutes, huh?"
+Yamamoto Akuji (talking),ああ、そうだ。,That`s right.
+morita  ai (talking),いいでござんす。 ノッてやるでござんす。,Very well. You`re on.
+cg narrator,"「え？」
+「あ、あれれ？？」
+「あれれでござんすー！」
+「っ………」
+「……っ…あっ……」
+「あ、ああっ……」
+「あっ……！！」","Huh?
+ O-Oooh??
+ Oooooooooh?!
+ ...!
+ Mn...! Ahn...!
+ Ah, ahn...!
+ Ahn...!"
+cg narrator,"「あっ………ああああっ……」
+「どうしたい？ 　さっきまでの威勢は？」
+悪司の愛撫が始まって、 まだ１分も経っていなかった。
+しかし愛は既にもう、 へろへろになってしまっていた。
+「な、なんなんざんすか、 　この手と指と舌は~~…？」
+愛は、自然に痙攣する腰の震えを止めもせず、 悪司に悪態をつく。
+「長年鍛えたタマモンだ。 　おかげでこんな事も出来るぜ」
+悪司は親指と中指で、 ぱっくりと愛の花弁を開いてみせた。
+「あ、そ、そこを、そんな広げたらっ… 　あっ……ああ？　あ？　ああ~~っ……！」
+真ん中に残した人差し指が、 ぷっくりと膨らんでいる肉蕾を愛撫する。
+それは早く小刻みだったかと思うと、ゆっくり、 固めのバターを練るように蠢き、次の瞬間には軽く 弾く為に動いていた。
+「あ、あうっ、あっ…あ！」
+その度に、愛は声をあげ、腰を震わせる。
+次から次の攻撃に愛のそこはしとどに濡れ、 蜜をうみ、愛撫する悪司の掌に汁を落としていく。
+「なっ…なんなんざんすか…… 　こ、こんなの、知らないでござんすよ~…」
+「年とってよーがとってまいが、こーいうテクは 　ちゃんと正しく経験学習しているかどーか 　だからな」
+そう言って、愛の耳朶に歯を軽くたてる悪司。
+「ひっ……！！」
+その感触に、愛が高い声をあげた。
+腰が震える為、悪司の躰から自然と逃げてしまう 愛の躰を、右手は乳房、左手は花芯を責め、 固定する。
+「さーて、まだまだ楽しんで貰えるぜ。 　未知の世界へご招待だ」
+さっきまで支えるだけで動く事のなかった 悪司の右手がゆっくり動き始めた。
+「あっ……あああああ？？」
+乳房の下を上へと持ち上げるように こねる悪司。
+「な、なんざんす、なっ…あっ……」
+ゆっくりと愛の乳房を楽しむように掌が 動いていたかと思うと、指が尖った乳首を きゅっと優しくつまみあげる。
+「ひっ…あ！」
+愛が甘く高い声をあげる。
+悪司はそのまま、指と指の間で、どんどん固く、 存在をはっきりとさせる愛の乳首を弄ぶ。
+「……あっ…ああっ…？ 　あっ……」
+「その同級生のボーヤは、 　ここをこんな風に遊んでくれなかったのかい？」
+「あっ…あうあう……」
+愛はそう言って、首を上下にかくかくと 動かすのが精一杯だった。
+愛の左の乳房はサラシの下で、潰れているが、 その乳首ははっきりと固くなっていた。 悪司の愛撫を待ち望んでいるかのように。
+「さーて、そろそろ５分経つぜ……？」
+悪司はそう言って、愛の耳に舌を差し入れる。
+「はううっ…！」
+愛撫に脳が霞んでいる愛は、 素っ頓狂な声をあげる事しか出来ない。
+「どうだい？ 　俺の、手と口は？」
+悪司の右手が、愛の乳房を乱暴に包みこみ、 指が不規則にその肉の感触を弄ぶ為、 蠢き出した。
+「はっ…ああっ……」
+愛のドスを持つ手がピクリと動く。
+「気持ち悪いか？」
+右手が動きつつ、左手も動く。
+「うあっ…あっ……ん！」
+悪司の人差し指、中指、薬指が、それぞれ別々の 生き物のように、愛の花芯を、花弁を、 花弁の奥で、蠢いている。
+「あ、ああ、あっ…！！」
+その指の蠢きすべてに反応するかのように、 愛は腰を震わせ、声をあげ、汁を垂らす。
+「さ、どしたい？ 　気持ち悪すぎて声も出ないってか？」
+「……うっ……あうっ…」
+首が左右に振られる。
+「だったら、自分の言葉で言ってみな。 　どうして欲しい？」
+「っ…もっ……もっと……」
+「もっとなんだ？」
+「もっとして欲しいでござんす~……」
+「じゃあ、右手のモノはどうすんだい？」
+「あっ……」
+愛はそこで初めて、まだ自分が その物騒なものを持っている事に気がついた。
+「俺を刺せば、解放されるぜ？」
+「っ……う……」
+愛の手が動いた。
+　　［とすっ……］
+ドスは、愛の手から落ち、 ベッドの上に刺さった。
+「いい子だ。 　これは、ご褒美だ」
+愛の花弁に、屹立した一物の先が宛われる。
+「あっ……」
+愛はそれを熱に冒された目で見つめている。
+「あっ……！」
+わずかな痛みに愛が声の質を変える。
+「あっ……！！」
+その声を聞き逃さず、悪司が痛みから 気がそれるようにと、胸を愛撫する。
+「あっ…あああっ…！」
+自分の中心を割って入る感触に、 愛は我を忘れた。","Ahn! ...aaaaahn...!
+ What`s the matter? Where`s your spirit from earlier?」
+ It hasn`t even been a minute since Akuji started caressing Ai.
+ And yet, Ai was already going limp from pleasure.
+ Wh-What the hell is up with your hands?? And your tongue??
+ Unable to stop her hips from spasming, Ai cursed at Akuji.
+ It`s a gift I honed over many years. Thanks to that, I can even do this.
+ Akuji spread Ai`s petals apart with his thumb and middle finger.
+ Ahn, d-don`t, spread that place...!  A-Ah?! Ah? Aaaaahn...!
+ Akuji used his finger to carress Ai`s nub. He started off with quick, short caresses,
+ then switched to a slow, powerful kneading, then once again switched. to light flicking.
+ Ahn! Ah, auuu...!
+ Every time he did that, Ai moaned.
+ The successive attacks got Ai soaking wet, her honey falling onto Akuji`s hand.
+ Wh-Wh-What the hell... I never knew about thiiiis...
+ his level of technique comes from proper experience and learning. It`s got nothing to do with age.
+ Akuji then lightly bit Ai`s earlobe.
+ Eek!
+ The sensation made Ai shriek.
+ As her hips bucked, Ai`s body tried to distance itself from Akuji`s. However, he kept her in place by holding onto her breasts and pussy.
+ C`mon, the fun`s only begun. Let me take you to heaven.
+ Akuji started slowly moving his right hand, which he had only been using to support Ai.
+ Ahn! ...Aaaaaah??
+ Akuji kneaded her breast, lifting it upwards.
+ Wh-What the hell, ah... Ahn!
+ While his palm slowly rubbed Ai`s breast, his fingers gently pinched her erect nipple.
+ Hyahn!
+ Ai moaned sweetly.
+ Akuji continued teasing her nipple, with hardened even more between his fingers.
+ Ahn! ...aaaah...? Ahn...!
+ Did that classmate of yours not play with you here like this?
+ Ahn! ...Auuuu...
+ It took Ai all of her strength to nod. Ai`s left breast remained squished under her-
+ -sarashi, but her nipple was visibly erect, as if eagerly waiting to be caressed by Akuji.
+ Looks like time`s almost up.
+ Akuji inserted his tongue into Ai`s ear.
+ Hauuu!
+ With the caresses practically melting her brain, Ai could only let out feverish yelps.
+ So, how`d you like my hands and tongue?
+ Akuji`s right hand violently squeezed Ai`s breast, his fingers digging into the soft flesh and wriggling around it.
+ Hahn! Aaaahn...!
+ Holding the dagger, Ai`s hand twitched.
+ Do you hate it?
+ Both his hands kept moving.
+ Waah! Ahn...! Mn...!
+ Akuji used three of his fingers to simultaneously tease her petals, her nub, and her pussy. Each finger moved as if it had a mind of its own.
+ Ah, ahhh, aaaahn...!!
+ Ai moaned as her hips bucked and her pussy became flooded with juice.
+ Well, what`s wrong? Does it feel so bad you can`t even talk?
+ Ugh... au...
+ Ai shook her head.
+ Then let me hear it. What is it that you want?
+ ...M-More...
+ More what?
+ Do it mooore...
+ So, what are you gonna do with that thing?
+ Ah...!
+ Ai finally noticed that she was still holding the dagger.
+ You`ll be free if you stab me.
+ ...! Ugh...
+ Ai`s hand moved.
+ 　　*Stab!*
+ The dagger fell from Ai`s hand, piercing the bed.
+ Good girl. Here`s your reward.
+ Akuji`s manhood towered in front of Ai`s petals.
+ Ahn!
+ Ai looked at it with eyes filled with passion.
+ Ahn...!
+ A hint of pain could now be heard in her voice.
+ Ahn...!!!
+ Noticing the change in Ai`s voice, Akuji caressed her breast, distracting her from the pain.
+ Ahn! Aaaaaahn...!
+ Ai lost herself in the sensation forcing its way inside her."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Yamamoto Akuji (talking),そろそろ、俺の躰が 馴染んできたんじゃねぇか？,Ain`t it about time ya got used to my body?
+morita  ai (talking),わかんないでござんすよ。,I don`t know.
+Yamamoto Akuji (talking),じゃあ、認識させてやるよ。,Then I`ll make you aware.
+morita  ai (talking),何するんでござんすか？！,What`re you gonna do?!
+Yamamoto Akuji (talking),ナニだ。 わかってんだろ。 ほれほれ。,"Oh please, you know what. Come on."
+morita  ai (talking),ああう~~~！！,Auuuugh!!
+morita  ai (talking),森田愛は、とってもいい気持ちにされた…,Morita Ai was made to feel good...
+Yamamoto Akuji (talking),これで、俺の兵隊になってくんねーか？,How about you work for me?
+narrator,と言って、悪司は愛の前にお金を出した。,Akuji placed some cash in front of Ai.
+morita  ai (talking),結構でござんす。 愛は、渡世の女でござんす。,No thanks. Ai is a yakuza.
+Yamamoto Akuji (talking),ふーん…,Hrm...
+Yamamoto Akuji (talking),お前、女としてはどーかと思うが、 腕はたつ。 俺の配下で戦わねーか？,"I don`t care if you fail as a woman, you`re strong. Won`t you fight for me?"
+morita  ai (talking),"いやでごさんす。
+捕虜になってもこの森田愛、 義理と任侠の世界に生きる女で ござんす。
+わかめ組で盃頂いたってーのに、 そんな義理をかいた事は出来やせん。","No.
+ Even as a prisoner, I, Morita Ai, follow the honorable way of the yakuza.
+ My duty to the Wakame Family shall not waver."
+Yamamoto Akuji (talking),元々、俺はわかめ組の跡取り だったんだ。 義理はかきゃしねーって。,I`m the Family`s original heir. That duty bullshit is invalid with me.
+morita  ai (talking),駄目でござんす。 悪司の旦那は、元跡取りでござんす。 今は違うでござんす。,I can`t. You`re the former heir. Now you`re nothing to the Family.
+Yamamoto Akuji (talking),強情だなー。,How stubborn.
+morita  ai (talking),義理と任侠でござんす。,That`s honor for you.
+Yamamoto Akuji (talking),よし。,Alright.
+morita  ai (talking),なんでござんすか？,What is?
+Yamamoto Akuji (talking),もう、俺の部下になれって言わね。,I won`t ask you to work for me.
+morita  ai (talking),ほうほう。,Huh.
+Yamamoto Akuji (talking),愛人になれ。,Become my lover.
+morita  ai (talking),なんですとーーー？？？？？？？？,Whaaaaaaaat?!
+Yamamoto Akuji (talking),イヤか……？,Don`t wanna?
+narrator,と言いながら、悪司は愛の耳に ふっと息を吹きかけた。,Akuji then suddenly blew his breath into Ai`s ear.
+morita  ai (talking),あへはははは、ひ、卑怯でござんすよー。,Aheheh! Th-That`s playing dirty.
+Yamamoto Akuji (talking),よし、決まり。 お前さん、今日から俺の戦う愛人な。,"Alright, starting today, you`re my combat-capable lover."
+morita  ai (talking),それって、実質、部下って事で やんすかー！,"So in other words, I`m your subordinate after all?!"
+Yamamoto Akuji (talking),違う違う。 部下には、あんな事やこんな事は しねーからな。,Nah. I`d never do this or that with a subordinate
+morita  ai (talking),おぉう。,Ooh.
+Yamamoto Akuji (talking),俺に呼ばれるのを楽しみにしてな。,Look forward to my calls.
+morita  ai (talking),お……おうおう……,O-Okay...
+Chinpira (talking),あ、いたいた。 森田さーーん。,"Ah, there she is. Morita-saaaan!"
+morita  ai (talking),どうしたでござんすか。 出入りでござんすか？ 悪司がきたでござんすか？,What is it? Did we get a delivery? Did Akuji come?
+Chinpira (talking),"違いますよ。 時間になってもこないんで、 呼びにきたんですよ。
+もうすぐ始まっちまいますよ。 森田さんの大好きなドラマ…","No, you didn`t show up on time, so I came to call you.
+ Your favorite TV show`s gonna start soon."
+morita  ai (talking),迂闊でござんしたーー！！ ありがとうでござんす、 知らせてくれて！,How careless of me!! Thank you for letting me know!
+narrator,愛は走って事務所へと戻った。,Ai ran back to the office.
+morita  ai (talking),"今日は少し空が綺麗でござんすねー。
+組織抗争の真っ只中に身を置いている せいか、いつもよりずっと綺麗に 見えるでござんす。
+この世の儚さでござんすねー… 任侠の世界でござんす。
+これで桜でも咲いて散っていれば、 もっと雰囲気が高まるんでござんすが、 惜しいでござんすねー…","What clear skies today!
+ Maybe it`s because I`m in a war, but they look more beautiful than usual.
+ The world is so fleeting... That`s the world of yakuza.
+ What a shame, if only there were cherry blossoms scattered around to make it even better..."
+ (talking),愛…！,Ai!
+morita  ai (talking),へ？,Huh?
+nakokyou  onna (talking),こんなところにいたのね…,So this is where you were...
+morita  ai (talking),おっかさん？,Mother?
+nakokyou  onna (talking),"わかめ組が抗争を始めたって聞いて、 慌ててあんたを呼びにきたんだよ。
+さあ、母さんと一緒にくるんだよ。 あんたも今日から那古教信者になって、 争いのない世界に行くんだよ。","I heard the Wakame went to war, so I hurried to call you.
+ Now, come with Mother. You`re to join the Nako Cult and get out of that violent world."
+morita  ai (talking),"いやでござんす。 あたしゃ義理と任侠の世界に 骨を埋めるんでござんす。
+なんだかよくわかんねー恐ろしい宗教に ハマっている暇はないでござんす。","No. I shall live and die in the honorable world of the yakuza.
+ I`ve no time to be in some shady, terrifying cult."
+nakokyou  onna (talking),"愛！！ そんな罰当たりな事言うもんじゃ ないよ！
+神様がバチを当ててしまうよ！","AI!! Don`t say something so blasphemous!
+ God will punish you!"
+morita  ai (talking),信じなかったらバチを当てる神様 なんかより、義理と任侠の世界の方が いいでござんす。,I`ll take yakuza over some god who punishes you if you don`t believe in them.
+nakokyou  onna (talking),何を言ってるの、愛！ そんな事を言っていたら幸せに なんかなれないのよ！,"What are you saying, Ai?! You`ll never be happy if you keep saying that!"
+morita  ai (talking),"あたしゃ、おっかさんの方が 不幸だと思うでござんす。
+いっちゃってるでござんすよ、 おっかさん。
+という訳で、話しても無駄なら、 あたしゃ逃げるでござんす。
+おっかさん相手にだんぴら 振り回せやせん。 義理をかく事になるでござんす。
+それでは、これにて！","I think YOU`RE the unhappy one here, Mother.
+ Keep what I told you in mind.
+ Now, if talking is pointless, I`m going to escape.
+ I can`t possibly use force against you. It`d be against the code of honor and duty.
+ See you!"
+nakokyou  onna (talking),愛！！ お待ち！！ 愛！！,AI!!! WAIT!!! AIIII!!!
+Tamanegi (talking),ああ、やっときましたね。,"Ah, you`re finally here."
+morita  ai (talking),この時間は、連続ドラマの時間なので、 呼び出しても無駄でござんすよ。,"My dramas are on at this hour, so calling me is pointless."
+Tamanegi (talking),………………,...
+morita  ai (talking),なんでござんすか？,What is it?
+Tamanegi (talking),あなたは、いつもそのような 喋り方なのですか？,How long are you going to keep talking like that?
+morita  ai (talking),そうでござんす。 任侠なら、当たり前でござんす。,This is how a yakuza talks.
+Tamanegi (talking),そこから矯正しなくては 駄目ですね…,Seems like that`s the first thing we`ll have to correct.
+morita  ai (talking),矯正？,Correct?
+Tamanegi (talking),まあいいでしょう。 さあ、こっちにいらっしゃい。,"But fine. Now, come this way."
+morita  ai (talking),は、はあ…,O-Okay...
+cg narrator,"「何するでござんすかー！？」
+「かまいません、そのまま続けて」
+愛の懇願の声は、機械のように冷たいタマネギの 命令に打ち消されてしまう。
+「ひ、ひええ！！」
+四肢を鎖で縛められ、釣り下げられたまま、 愛は躰をくの字に折り曲げられた。
+「い、いやでござんす！！ 　こんなかっこ…ひっ！？」
+タマネギの部下である男の屹立したものが、 愛の尻に乗せられる。
+「な、なんでござんすか、 　このぬたっとしたものはー！？」
+と、素っ頓狂な声を出す愛。
+「ほう……綺麗な色ですね」
+タマネギはじっと、愛の花弁の奥を見つめ、 冷静に言う。
+「そ、それがどうかしたでござんすかー！？」
+「少しほぐさなくては駄目ですね。 　この娘、自分でさわった事もなさそうです」
+タマネギは、ただ観察するだけで愛の性癖を分析し、 男達に指示を与えていく。
+「そ、そんなとこ、広げないで欲しいでござんす！」
+愛はそこを見られているという事への羞恥で 顔を真っ赤にさせるが、口調はいつものままだ。
+タマネギがそれに対して、軽くため息をつく。
+「やれやれ。 　それでは始めましょうか」
+「自分が女であるという事を、 　わかって頂く為の調教を――」
+タマネギがそう言うと、愛の尻に屹立していたものを 乗せていた男が、ゆっくりと腰を前後左右に 蠢かせ始めた。
+「ひぃぃ！？」
+「声がよくない」
+タマネギのさらなる命令に、 別の男が愛の胸に指を滑らせる。
+「ひゃああ！？」
+男の人差し指が、重力に負けて下を向いている 愛の乳房の脇から頂上へ、ゆっくりと滑っていく。
+「くっ…くすぐったいでござんす…あっ……」
+ゆっくりと円を描くように滑っていく指が、 愛の乳首を捕らえた。
+「んっ…な、何をするでっ…」
+男の指の腹が、ゆっくりゆっくり、 愛の固い乳首を転がし、ほぐしていく。
+かするように愛撫していたかと思うと、 その指がゆっくり沈む。
+そのまま指が不規則に蠢き、離れた時には、 愛の乳首はつんと尖っていた。 それをまた、男の指が執拗に弾く。
+「ひっ…ひうっ……」
+愛はどうしていいかわからず、四肢をじたばたさせ、 声をあげる。 その度に、鎖がじゃらりと音をたてた。
+「いい声になってきましたよ。 　その調子です」
+愛の尻に一物を宛っていた男の手が、 ゆっくりと動き出した。
+「んんんっ…！？」
+乳房と尻を同時に責められ、愛が声をあげる。 甲高い声で任侠言葉を話していた時とは別人のように 声に甘さが混じっていく。
+「続けて」
+冷たく、タマネギの声が響く。
+男の手はきゅっと愛の尻を掴むと、 自分のものを包み込むようにした。
+そのまま、パンの生地をこねるように、 ゆっくりと手が動き出す。
+その度に、愛の菊座に熱くたぎった一物が ぴたぴたとくっつき、離れ、愛の粘膜を愛撫する。
+「こっ…怖いっ…そんなとこっ……」
+男の手が不規則に動き、自分の一物を愛の尻で 激しく愛撫しだした。
+熱いものが混じった低い声が、愛の耳にも響き出す。
+「聞こえますか、愛。 　男の声が、あなたと同じものに 　なっていくでしょう？」
+タマネギが言う。
+「あなたの躰が、男の声を変えていってるん 　ですよ、愛」
+「そ、そんな…あっ…あん！」
+乳房を愛撫していた指が、 きゅっと乳首を強く摘まんだ。
+「ほら、同じだ。 　どうです？ 　躰の奥から、何かが生まれるのを感じますか？」
+「んっ……んんっ…」
+わからないといった素振りで、 愛は首を左右に振った。
+「それをわかりたくはないですか？ 　ほら…肌が熱くなる。 　じんわりと汗をかいていく。男の肌も」
+タマネギの言う通り、愛の躰はほてり、 うっすらと汗を浮き出し始めた。
+「んっ…んんんっ……」
+愛の瞳に、艶が浮かび始める。
+その時。 まったくふれられていない愛の花弁に、 とろりと蜜が一粒、浮かんだ。
+「ほぅら、気持ちよくなってきた」
+無機質なのに、どこか艶の混じったタマネギの声に、 愛がぴくりと腰を震わせた。
+「そこに、欲しくないですか、愛」
+「ほっ…欲しい…？」
+「そう、欲しいでしょう？ 　熱く渦巻くものに、突き刺さるものが」
+「んっ…わかんなっ…い…」
+「これでもまだ、欲しくないですか？」
+タマネギがそう言うと、乳房を愛撫していた 男の片方の指が、かすれるように愛の花弁にふれた。
+「んんっ！？」
+愛の腰が、ぴくりと揺れる。
+「もう少し、さわってあげて」
+タマネギの命令通り、男の指が動く。
+一粒、愛の奥から浮んでいた蜜が、 男の指の腹につく。
+男はそれをゆっくり沈め、そして、引いた。 蜜が細い一本の糸になり、男の指の腹に 繋がっている。
+男はそれを何度か続けた。 すると糸が何本にもなる。
+「あっ…ああっ…？」
+その糸が生まれる度、愛の声がさらに変化した。
+「さあ…欲しいでしょう…？ 　この奥にあるものが…」
+「………っ……」
+愛の首がゆっくり、肯く。 唇は薄く震え、その隙間からは熱い息が 漏れ出していた。
+「いい子ですね」
+タマネギの言葉に、男の指が愛の襞から離れ、 その代わりに、いきり勃った先端がそこに宛われた。","「What are you doing?!」
+ 「Don`t mind her, keep going.」
+ Ai`s pleading shout was drowned out by Tamanegi`s calculating orders.
+ 「E-Eeeek!」
+ Hanging from her bound limbs, Ai`s body was bent in a curve.
+ 「N-NOOOOO!!! 　This pose is- eek?!」
+ Tamanegi`s subordinate place his erect manhood on Ai`s butt.
+ 「Wh-What is this 　slimy thing?!」
+ Ai asked hysterically.
+ 「My, what a pretty color.」
+ Tamanegi spoke calmly as he fixedly stared at Ai`s petals.
+ 「Wh-What about it?!」
+ 「We`ll have to loosen her up some. 　Seems she`s never touched herself.」
+ Tamanegi figured out Ai`s sexual practices through mere observation, then ordered his men.
+ 「I-I don`t want you spreading that place!」
+ While her face reddened from the shame of being seen, Ai`s accent remained the same.
+ Which, in turn, made Tamanegi sigh.
+ 「Good grief. 　Well then, shall we get started?」
+ 「This training will make you truly 　understand that you are a woman...」
+ With Tamanegi`s words, the man with his manhood on Ai`s butt began to move his hips back and forth, left and right.
+ 「Eek?!」
+ 「It`s not enough.」
+ Another man slid his hands over Ai`s breasts after Tamanegi`s new command.
+ 「Hyaaah?!」
+ His index finger slowly slid from the sides of Ai`s breasts to their tip.
+ 「Th-That tickles... ahn!」
+ His fingers, slowly moving in circles, caught Ai`s nipples.
+ 「Mn! ahn! What are you-」
+ The man used his fingers to slowly knead Ai`s stiff nipples.
+ At first, it was superficial, but the man`s fingers slowly sunk in.
+ His fingers moved irregularly, causing Ai`s nipples to poke out when he let go. He then relentlessly flicked them.
+ 「H-Hyuuuh!」
+ Not knowing what to do, Ai flailed her limbs and let out her voice, causing the chains to rattle.
+ 「She sounds much better now. 　Keep that up.」
+ The man with his manhood on Ai`s butt began moving his hands as well.
+ 「Mmmmn?!」
+ Ai moaned from having her breasts and butt played with, her voice different from the one with which she shouted her honorable bravado.
+ 「Continue.」
+ Tamanegi`s voice rang out, coldly.
+ The man`s hands gripped Ai`s butt and used it to envelop his manhood.
+ Then, he began kneading it slowly.
+ Each stroke made his manhood cling to Ai`s anus, move away, then rub it again.
+ 「I-I`m scared...!」
+ His hands moved irregularly, fiercely stroking his manhood with Ai`s butt.
+ His lustful grunts reached Ai`s ears.
+ 「Can you hear that, Ai? 　His voice is becoming 　similar to yours, is it not?」
+ Tamanegi spoke.
+ 「Your body is able to make a man 　change the tone of his voice, Ai.」
+ 「Th-That`s- aahn!」
+ The hands caressing Ai`s breasts strongly pinched her nipples.
+ 「Can you hear it? They`re the same. 　Well? Can you feel something welling 　up from deep inside your body?」
+ 「Mn! mmmmmn!」
+ Ai shook her head, showing that she didn`t understand.
+ 「Do you not want to understand? 　Look, your skin`s getting hot and 　sweaty... and so is theirs.」
+ Like Tamanegi said, Ai`s body was flushed and slightly damp with sweat.
+ 「Mn! mmmmmn!」
+ Her eyes slowly became tinged with lust.
+ It was then that a drop of honey dripped from her petals, which had remained untouched.
+ 「Look, you`re feeling good.」
+ Tamanegi`s cold, yet slightly passionate words made Ai`s hips tremble.
+ 「Do you not want it there, Ai?」
+ 「W-Want...?」
+ 「Yes, do you not want his hot, 　throbbing thing to pierce you?」
+ 「Mn! I dunno...」
+ 「Do you still not want it?」
+ At Tamanegi`s words, one of the men gently caressed Ai`s petals.
+ 「Mmmnh?!」
+ Ai`s hips bucked.
+ 「Touch her some more.」
+ The man continued as ordered.
+ Ai`s honey dripped onto the man`s hand.
+ He slowly slid his finger inside and pulled it back, causing the honey sticking to it to form a thread.
+ H repeated that motion several times, multiplying the honey threads.
+ 「Ahn! aaaahn?!」
+ With each thread, Ai`s voice changed.
+ 「Now... do you want it? 　Can you feel it inside you?」
+ 「...!」
+ Ai nodded slightly. Her lips trembled, letting loose her hot gasps.
+ 「Good girl.」
+ With Tamanegi`s words, the man placed his manhood on Ai`s petals instead."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+narrator,愛が一人、街をてくてく歩いている。,Ai was walking through town by herself.
+morita  ai (talking),"よかったでござんす。 街は平和に包まれてるでござんす。
+街の平和は、あたしら任侠モンが しっかりしていたら保たれるんで ござんすねー。","I`m glad to see the town`s in peace.
+ If we yakuza work hard, we can maintain the town`s peace."
+narrator,　　［………ほー………］,...Hoo...
+morita  ai (talking),ん？,Hm?
+narrator,　　［……ほー……は……ほーー……］,...Ho... Ha... Ho...
+morita  ai (talking),んんん？？？,Hmmm??
+narrator,"　　［はにほー　はにほー　はにほー］
+愛は辺りを見回したが、奇妙な声は、どうやら 外からではなく、自分の中――頭へ直に流れて きている感じがした。","Haniho! Haniho! Haniho!
+ Ai looked around, but couldn`t find the source of the bizarre voice. Rather, she felt like it was being transmitted straight inside her head."
+morita  ai (talking),な、なんでござんすかー？ これはーー！！？？,Wh-What the hell?! This is-!
+narrator,"愛がうろたえ叫んでいるのを、 周囲の人々は不思議そうに見つめる。
+　　［きみがほしいなー 　　　はにほー　はにほー］","Having lost her composure, Ai shouted, earning her puzzled looks from the people around her.
+ We want you... Haniho! Haniho!"
+morita  ai (talking),あ……,Ah...
+narrator,　　［はにほー　はにほー　おいでよー 　　　きみがほしいー　はにほー］,Haniho! Haniho! Come to us! We want you! Haniho!
+morita  ai (talking),"よっ…
+呼んでる……
+……ハニーが……呼んでる……","They`re...!
+ They`re calling me...
+ The hannies... are calling me..."
+morita  ai (talking),"……………
+……
+…
+………………あ……あれ？ あれれれ？？",".........
+ ......
+ ...
+ ...Oh... huh?? Whaaaat???"
+narrator,うつろな目を正気に戻すと、 愛は慌てて周囲を見回した。,"Once she regained her counsciousness, Ai looked around in a panic."
+morita  ai (talking),こ、ここはどこでござんすか！？ あたしゃ、一体、何を？？,Wh-Where is this place?! What`s happening to me?!
+narrator,　　［はにほー　はにほー］,　　［Haniho! Haniho!］
+morita  ai (talking),……あっ…,Ah...!
+narrator,　　［はにほー　はにほー］,　　［Haniho! Haniho!］
+morita  ai (talking),ま…た……聞こえる……,I`m hearing it again...
+narrator,　　［はにほー　はにほー　おいでよー 　　　きみがほしいー］,　　［Haniho! Haniho! 　　　Come! We want you!］
+morita  ai (talking),……………,...
+narrator,　　［はにほー　はにほー］,　　［Haniho! Haniho!］
+morita  ai (talking),……呼んでる… 行かなくちゃ……,They`re calling for me... I have to go...
+narrator,"森田愛は、何かに導かれるように コフンの中に入っていった。
+森田愛は失踪した。","Morita Ai went into Kofun, as if she was being led by something.
+ Morita Ai has disappeared."
+Takega Satsu (talking),どうやら終点らしいな。,Looks like it`s the terminal.
+Yamamoto Akuji (talking),うわ、はにわくせー。,"Whoa, it reeks of haniwas."
+Takega Satsu (talking),まったくだ。,Agreed.
+narrator,　　［はにほー　はにほー　あいやー］,　　［Haniho! Haniho! Aiyaaa!］
+Yamamoto Akuji (talking),……………,...
+Takega Satsu (talking),…………………,...
+Yamamoto Akuji (talking),あの声してるとこ、行かなきゃ なんねーのか…？,Do we HAVE to go where those voices are coming from?
+Takega Satsu (talking),そのようだ。,We do.
+Yamamoto Akuji (talking),うーん。,Ehhh.
+Takega Satsu (talking),四の五の言う間に、足を動かせ、ほれ。,Qui grumbling and move.
+Yamamoto Akuji (talking),おわ！ ひでーや、さっちゃん。 膝の裏に膝入れんなよ。,"Whoa! Don`t kick me in the back of the knee, Sacchan."
+narrator,悪司達が少し歩くと、ぼんやりと明るい 場所にたどりついた。,"After walking for a bit, Akuji and Satsu reached a faintly birght place."
+cg narrator,"「なっ……！！」
+「馬鹿者、声がでかい」
+奇妙な光景を見て叫びそうになった悪司の口を、 殺が押さえた。
+「らっ…らって、らっちゃん……」
+「いいから黙っていろ。 　様子を見てみん事には、踏み込むタイミングも 　掴めんぞ」
+「そ…そうらな……」
+やっと、掌から口を解放された悪司は、 殺と目線を合わせて、様子を伺う事にした。
+「アイヤー」
+「アイヤー」
+愛の左右で棒を振り回しているハニーは、 まるで踊るようにくるくると回っている。
+天井から釣り下げられている陶器のボトルのような ものから、これもまた得体の知れない緑色の 液体が、ポツリポツリと愛の股間に落ちている。
+そんな状態であるのに、愛はピクリともしない。
+「愛は……クスリでも使われたのか？」
+「そうではないかも」
+「さっちゃん？」
+「あの動き、そして、あの、象牙のハニー。 　まるで儀式に使う円陣のようではないか？」
+「………ん~~…… 　俺、そーいうのには弱くって……」
+「そうか。 　私も図書室の本で見た覚えぐらいしかなくてな…」
+二人はポソポソと話をしながら、 未だ様子を伺う事しか出来ない。
+「アイヤー」
+「アイヤー」
+二匹のハニーがカシンと棒を打ち鳴らすと、 ふわりと仮面のようなものが、愛の上に浮かんだ。
+「な、なんだ、ありゃ……」
+「種も仕掛けもあって欲しい光景だな」
+「アイヤー」
+「アイヤー」
+もう一度、ハニーが棒を打ち鳴らす。 すると徐々に、仮面が愛の顔へと下降していった。
+「な、なんだ、なんだ、なんだぁ？」
+「あの仮面をつける為の儀式でも 　しているという事か？」
+「でも、何の為に？」
+「わからん。 　それに、アレをつけた愛はどうなるのかも」
+「あ……そーいや、そーだなー…」
+「悠長な事を言ってられなくなったみたいだな。 　悪司、戦闘を……」
+「――戦闘だと……？」
+悪司と殺と。 そして、聞いた覚えのない第三者の声が、 そこに響いた。","「What the-?!」
+ 「Quiet, you fool.」
+ Satsu covered Akuji`s mouth before he shouted over the bizarre sight.
+ 「Mmph, mmmmph...」
+ 「Just be quiet. 　We need to watch and wait for 　our chance to step in.」
+ 「Y-You`re right.」
+ After he was released by Satsu, Akuji obeyed and kept watching.
+ 「Aiya!」
+ 「Aiya!」
+ The hanny waving a stick to the left of Ai spun as if he were dancing.
+ The porcelain bottle hanging from the ceiling dripped an unknown green liquid onto Ai`s crotch.
+ Yet she displayed no reaction at all.
+ 「Did they drug her or something?」
+ 「Perhaps not.」
+ 「Sacchan?」
+ 「Those movements, and that ivory hanny. 　Doesn`t it seem like a ritual?」
+ 「Hmmm... 　I`m not good with this stuff.」
+ 「That so. Though I, too, only remember 　seeing it in a book at the library.」
+ The two kept talking, still unable to do anything but watch.
+ 「Aiya!」
+ 「Aiya!」
+ The two hannies shook their sticks, and a sort of mask appeared on top of Ai.
+ 「Wh-What the fuck is that?」
+ 「Something scientifically explainable, I hope.」
+ 「Aiya!」
+ 「Aiya!」
+ The hannies shook their sticks again. The mask slowly descended upon Ai`s face.
+ 「What, what the hell is going on?」
+ 「Is this a ritual to place 　that mask on her?」
+ 「But why do that?」
+ 「No idea. And I also don`t know 　what`ll happen to Ai with that on.」
+ 「Oh, you`re right...」
+ 「Looks like we need to hurry. 　Akuji, get ready for battle-」
+ 「Battle, you say?」
+ A third voice which neither Satsu nor Akuji knew was heard near them."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+ (talking),神聖な儀式を邪魔するは誰ぞ？,Who interrupts the sacred ritual?
+Yamamoto Akuji (talking),えっ！？,Huh?!
+narrator,いつの間に悪司達の後ろに立ったのか。 そこには奇妙な面をつけた愛が立っていた。,"Before they`d noticed it, Ai stood behind the two, wearing a bizarre mask."
+Yamamoto Akuji (talking),たまたま、ここを攻めてたら、 行方不明だったおめーがいたから、 びっくりしたぜ、愛。,"You gave me a shock when you went missing after we attacked this place, Ai."
+binonon'ou (talking),愛――？,Ai?
+Yamamoto Akuji (talking),おめーの名前じゃねーか。 こんなはにわくせーとこにいたせいで、 自分の名前も忘れちまったのか？,"What, ya forget your name after playing with these hannies?"
+binonon'ou (talking),"私の名前は、そのようなものではない。
+私は、ヤマト王ビノノン。 このヤマトを支配する、 最初で最古の王。","That is not my name.
+ I am Binonon, king of Yamato. The first and last king of this land."
+Yamamoto Akuji (talking),………へ？？,...HUH???
+Takega Satsu (talking),なるほど。,I get it.
+Yamamoto Akuji (talking),何がだい？ さっちゃん。,"Get what, Sacchan?"
+Takega Satsu (talking),どうやら、あの娘、 憑依されてしまったようだ。,Seems like that girl has been possessed.
+Yamamoto Akuji (talking),ひょういって…？,Possessed...?
+Takega Satsu (talking),"幽霊などに、躰を乗っ取られて しまう事だ。
+歴史の時間に習わなかったのか？ ビノノンは実在する歴史上の人物だ。
+但し、この娘が嘘をついて いなかったらになるが……","Like when a spirit takes control of one`s body.
+ Did you sleep through history class? King Binonon was real.
+ That is, assuming this girl isn`t lying..."
+Yamamoto Akuji (talking),多分、嘘はついてねー。,I don`t think she is.
+Takega Satsu (talking),何故言い切れる？,How can you tell?
+Yamamoto Akuji (talking),あいつだったら、嘘ついても、 任侠言葉になるだろうから。,"Lie or not, she`d still be talking like a yakuza."
+Takega Satsu (talking),なるほど。,I see.
+__system__??,{☆ＤＡＴＥ % 10 = 0:,{☆ＤＡＴＥ % 10 = 0:
+__system__??,},}
+__system__??,{☆ＤＡＴＥ % 2 = 0:,{☆ＤＡＴＥ % 2 = 0:
+__system__??,},}
+Yamamoto Akuji (talking),んなこたーどうでもいい。 おい、愛、帰るぞ。 ただでさえ、ここは、はにわ臭くて……,"Whatever. We`re leaving, Ai. I`m tired of hannies-"
+binonon'ou (talking),無礼者、王の躰に軽々しく さわるでない！,"Do not touch my royal body, you insolent whelp!"
+narrator,悪司が伸ばした手を、 愛はピシリと撥ねのける。,"Akuji reached for Ai, but she slapped his hand away."
+binonon'ou (talking),さらばだ。,Farewell.
+Yamamoto Akuji (talking),お、おい、愛！！,"H-Hey, Ai!"
+narrator,仮面をつけた愛は、 悪司達の目の前から消えた。,The masked Ai vanished from Akuji and Satsu`s sight.
+Yamamoto Akuji (talking),消え……た……,She`s gone...
+Takega Satsu (talking),"このような事があるのだな。
+どうする？ 追う手だてはないが…","It happens.
+ So what now? I don`t think we can chase her."
+Yamamoto Akuji (talking),仕方ねーべ。 あいつの事だから、またひょっこり 帰ってくるかもしんねーし。,"No other choice. It`s still Ai, so she might suddenly come back still."
+__system__??,{I装備[43] = 99:,{I装備[43] = 99:
+Yamamoto Akuji (talking),……ん？ なんだ、こりゃ……,...Hm? What`s this?
+__system__??,},}
+Yamamoto Akuji (talking),おう、王さん。 そいつから離れろや。,"You, mr. King. Get offa her."
+binonon'ou (talking),断る。 私は復活した事を嬉しく思っている。,I refuse. I am glad to be back.
+Yamamoto Akuji (talking),"はにわくせー奴が今さらのこのこ 現代にやってきたって、 出来る事なんざないんだからよ。
+それによ。 いくら昔は偉かったからって言っても、 今はそんな事だーれも気にしねーって。
+昔はスゴかっても、今じゃタダの人だ。 平民だよ、へーみん。","There`s nothing you can do in the modern day even after you`ve come back, hanny face.
+ Besides, no matter how big ya were in the past, no one gives a fuck now.
+ You`re just another guy now. A commoner."
+binonon'ou (talking),何！？,What?!
+Yamamoto Akuji (talking),"いや、それ以下かも。
+そーだなー… 地上には、珍しいモン好きな科学者が わんさといる。
+その中の一人が珍獣扱いで、 あんたを解剖しちまうかも。","Maybe even worse.
+ Hell, the world is full of scientists who are fascinated by unusual stuff.
+ Maybe one of `em will dissect you like an alien."
+binonon'ou (talking),むぅぅ！！ ヤマトの民は、それ程まで私を 愚弄するに成り下がったのか！？,GRAAAH! Have the people of Yamato stooped so low as to make a mockery out of me?!
+Yamamoto Akuji (talking),"おうよ。 戦争に負けちまったからな。
+金の為ならなんでもする奴ぁー、 昔の何倍もいるぜ。","Yep. Cuz we lost in the war.
+ There are way more greedy scumbags now than before."
+binonon'ou (talking),"………くだらん国に なってしまったのだな…
+……つまらん…","...What a worthless country it`s become...
+ ...Worthless..."
+narrator,失望した声が響くと、 愛の顔から仮面が消えた。,"After letting out a disappointed voice, the mask vanished from Ai`s face."
+Yamamoto Akuji (talking),納得したみてーだな。,Looks like I convinced him.
+morita  ai (talking),は…はれれ？？,O-Oooooh???
+Yamamoto Akuji (talking),おう。,`Sup.
+morita  ai (talking),あれ？ ここどこでござんすか？ あたしゃ、何を…,Huh? Where am I? What was I...
+Yamamoto Akuji (talking),さーて、帰るとすっかー。,"Alright, let`s go back."
+morita  ai (talking),あ、あの旦那……,"U-Um, Boss..."
+Yamamoto Akuji (talking),説明すんの、うぜー。 帰ればいいんだ、帰れば。,I don`t wanna explain. Just come back.
+morita  ai (talking),へ、へい。 なんだかわかんないけど、ここ はにわ臭いんで、あたしも帰ります。,"O-Okay. I don`t really get it, but this place reeks of hannies, so let`s leave."
+Yamamoto Akuji (talking),…………,...
+morita  ai (talking),？？,??
+Yamamoto Akuji (talking),お前の後ろからついてくる それはなんだ？,What are those things following you?
+morita  ai (talking),へ？？,へ？？
+narrator,"　　［はにほー　わしら　愛ちゃんの子分］
+　　［はにほー　はにほー　ついていく］
+と、ハニーが歌いながら、愛の後ろを ぞろぞろとついてきた。","　　［Haniho! We`re Ai-chan`s followers!］
+ 　　［Haniho! We`ll stick to her!］
+ Some hannies were following Ai while singing."
+morita  ai (talking),なんなんでござんすかーー？？,What`s this about??
+Yamamoto Akuji (talking),ビジュアル的におもしれーから、 そのままでいろ。,"They look funny, so they can come."
+morita  ai (talking),なんなんでござんすか、それーー！！,What the hell?!
+binonon'ou (talking),それでは地上に出、そして再び この手にヤマトの大陸を――,I`ll go to the surface and reclaim Yamato-
+Yamamoto Akuji (talking),そいつは無理ってもんだ。,Not happenin`.
+binonon'ou (talking),なんだと！？,What was that?!
+Yamamoto Akuji (talking),あんたが言ってるヤマトってのは、 ニホンの旧名だったよな…,Yamato is Japan`s ancient name.
+binonon'ou (talking),今はニホンというのか。,Got that? It`s Japan now.
+Yamamoto Akuji (talking),"そのニホンはよー、戦争に負けて、 ウィミィって大国に 支配されちまってる。
+古代の王だかなんだか知らねーけど、 あんた一人でウィミィに勝とうと 思うなんざ、自殺行為だぜ。","Japan lost a war, and is now controlled by a superpower called Wime.
+ I don`t care if ya used to be a great king, takin` on Wime is suicide."
+binonon'ou (talking),まさか…ヤマトがそのような…,Impossible... Yamato has...?
+Yamamoto Akuji (talking),一人だと無理でも、つるんじまったら、 なんとかなるかもしれねーぜ。,"It might be impossible by youself, but together..."
+binonon'ou (talking),どういう事だ？,What do you mean?
+Yamamoto Akuji (talking),俺んとこにきな。 そしたら、いつかはヤマトを 復活させる事が出来るかもしんねーぜ。,"Come with me, and ya might be able to restore Yamato somehow."
+binonon'ou (talking),否と言えば？,And if I refuse?
+Yamamoto Akuji (talking),あんたの野望が遠退くだけだ。,Your ambition`ll be over.
+binonon'ou (talking),――よかろう。 私は、お前に従おう。 私の夢の為に。,"Very well. I shall follow you, for the sake of my dream."
+Yamamoto Akuji (talking),決まりだ。 じゃあ、俺の部下って事で。,Then it`s settled. You work for me now.
+binonon'ou (talking),うむ……,Yes...
+Takega Satsu (talking),よいのか。,Is that fine?
+Yamamoto Akuji (talking),何が？,What is?
+Takega Satsu (talking),愛という娘。,"The girl, Ai."
+Yamamoto Akuji (talking),あー、なんとかなるだろ。,This`ll sort itself out.
+Takega Satsu (talking),短絡な。,How rash.
+Yamamoto Akuji (talking),はは、呑気だね~。,"Hahah, don`t worry."
+narrator,ビノノンの後から、ハニー達がついてくる。,Some hannies were following Binonon.
+Yamamoto Akuji (talking),あれもついでに仲間にしちまうか。,"We got those guys, too."
+morita  ai (talking),誰もいないでござんすね…,Nobody`s around...
+narrator,抜き足、差し足、忍び足…… 愛はこっそり歩いている。,Ai was walking as stealthily as she could.
+morita  ai (talking),"ここにいちゃあ、新番組、 「逆境のヤクザ」が見れないで ござんすからね…
+アディオスでござんすよー…","I can`t watch the new show, “Yakuza of Adversity”, if I stay here...
+ Adios!"
+Kohara Koharu (talking),「逆境のヤクザ」は、私も楽しみに しているドラマですの。,I`m also looking forward to Yakuza of Adversity.
+morita  ai (talking),きゃーーーーー！！！！！！,KYAAAAAAAAAH!!!
+Kohara Koharu (talking),いやですわ。 人をおばけみたいに。,"Geez, don`t treat me like a monster."
+morita  ai (talking),おばけより怖い人でござんすよ~~！！,You`re even scarier than one!
+Kohara Koharu (talking),ところで、どこに行こうと していたのかしら？,"By the way, where were you going?"
+morita  ai (talking),く、くぅ！！,A-Ack!
+narrator,愛はダンピラを抜いた。,Ai took out her dagger.
+morita  ai (talking),あたしゃ、自由を求めさすらう 任侠でござんす！,"I`m a free, wandering yakuza!"
+Kohara Koharu (talking),ああ、それで私を斬って、 ここから逃げようという事ですの？,"Oh, so you`ll cut me down and escape?"
+morita  ai (talking),そうでござんす！ 喧嘩御免でござんす！,That`s right! Don`t try to resist!
+Kohara Koharu (talking),あ、高倉ゴン。,"On, it`s Takakura Ken."
+morita  ai (talking),え！？ あの任侠映画のスターでござんすか！？,What?! That yakuza movie star actor?!
+Kohara Koharu (talking),なんてね……,Gotcha~...
+morita  ai (talking),えっ……,Wha-
+narrator,愛が横を向いた瞬間に、小春は愛の首筋に 無造作に麻酔を注射した。,"The second Ai turned around, Koharu injected a tranquilizer into Ai`s neck."
+morita  ai (talking),ひ、卑怯でござんす……！！,Y-You coward...!
+Kohara Koharu (talking),だって…… 私、あなたよりひ弱ですもの… 頭脳耽美派と言って欲しいですわ。,"So you say, but I`m weaker than you. Think of it as me being intelligent."
+morita  ai (talking),く…… ぐぅぅ……,Kh... Gahhh...
+narrator,愛は床に倒れ、眠ってしまった。,"Ai fell to the floor, asleep."
+Kohara Koharu (talking),もう……しかたのない子…… おしおきが楽しみだこと…… うふ……うふふ……,"Geez, what a hopeless girl. I`m looking forward to punishing you, heeheehee..."
+narrator,"小春は陶然と、愛の頬を指でなぞった。
+愛の脱走は失敗に終わった。","Koharu lovingly ran her hand across
+ Ai`s face. Ai had failed to escape."
+morita  ai (talking),はぁぁ~~~ん………,Siiiiigh...
+narrator,愛は大きなため息をついた。,Ai let out a big sigh.
+morita  ai (talking),"駄目でござんす……奉仕青年団には なんかロマンが足りないでござんす……
+こう……仁義とか、仁侠とか、切腹とか、 極道の妻達とか……
+…………
+はぁぁぁぁ~~~ん……","It`s no good, the YCSG doesn`t have the romanticism...
+ No chivalry, no duty, no seppukus, nothing yakuza...
+ ...
+ Siiiiiiigh..."
+uimiiheishi (talking),オウ、エクセレン~ト。,"Oh, excellent!"
+morita  ai (talking),ん？,Hm?
+uimiiheishi (talking),おう、いかすニホンガール。 セックスしようぜ。,"Yo, stylish Japanese girl. Let`s have sex."
+morita  ai (talking),真っ昼間から何言ってるでやんすか、 この白ブタが。 不埒なんで、切り捨て御免！！,"You lecherous white pig, I shall cut your insolence right out of you!"
+narrator,"　　［ざくぅぅぅぅ］
+愛はいとも簡単にウィミィ兵士を切り捨てた。","　　*Slaaaash!*
+ Ai easily cut down the Wimenese soldier."
+uimiiheishi (talking),あんぎゃー！！ ひ、酷いね、ウィミィの奴隷国の 女のクセに……,"GYAAAAAHHH!!! H-How horrible, you little slave country bitch!"
+morita  ai (talking),ごめんなすって！,Forgive me!
+narrator,　　［ざくぅぅぅぅぅぅぅぅぅぅ］,　　*Slaaaash!*
+uimiiheishi (talking),ぎえーーーーーーーーー！,GYEEEEEEEEHHH!!!
+narrator,ウィミィ兵士は返事の出来ない ただの屍になってしまった。,The Wimenese soldier was now nothing but a corpse.
+morita  ai (talking),"ふ……またつまらんモンを 斬ってしまったでござんすよ。
+どーするでござんすかねー。 一応、ウィミィ人みたいで ござんすしねー。
+……ま、しかたないでござんす。 ぽーーい。ぱっぱっ。","Hmph, another unworthy victim for my blade.
+ What should I do here? Maybe I should disguise myself as a Wimenese...
+ ...Oh well, no choice. In here you go."
+narrator,愛は死体をごみ箱に捨てた。,Ai placed the corpse in a trash can.
+morita  ai (talking),後は野となれ、山となれ… それが任侠でござんす……,"Whatever happens, happens. That`s the yakuza way..."
+narrator,幸い、この事件は発覚する事なく 忘れ去られていった。,"Fortunately, this incident was forgotten without any repercussions."
+narrator,愛が剣の訓練をしている。,Ai was practicing with a blade.
+morita  ai (talking),"ん~~………
+たーーーーー！！！！
+一人、二人、三人、四人、五人！！","Hnnnngh...
+ TAAAAAHHH!!!
+ One, two, three, four, five!"
+narrator,と、妄想の中で愛は人を叩き斬った。,Ai cut down people inside her mind.
+morita  ai (talking),ふう……,Phew...
+narrator,剣を鞘に納め、愛は一息ついた。,Ai sighed after sheathing her blade.
+morita  ai (talking),イケてる……イケてるでござんす… ああ……実戦が楽しみでござんす……,"Looking good... oh man, I can`t wait for a real fight."
+narrator,愛は自分に酔った。,Ai was drunk on herself.
+morita  ai (talking),これも仁義の為。 死んでもらいやす！,"This, too, is part of my duty. Die by my blade!"
+morita  ai (talking),うう~…ら、蘭姐さん……,Uuu... R-Ran-saaaan...
+ (talking),何を弱気になってるんだい！ 遠慮せずにかかっておいで！,Don`t get timid on me! Hit me with all you have!
+morita  ai (talking),うう……ごめんなすって！！,Auuuu... I`m so sorry!!!
+morita  ai (talking),太郎さん、あんたに怨みはありやせんが、 今は敵と味方！ お覚悟を！！,"Tarou-san, I don`t hate you, but you`re now my enemy! Prepare yourself!"
+ (talking),しゃらくさいわ、小娘が！ 儂を殺れるものなら殺ってみよ！,Impudent lass! Do you think you can kill me?!
+narrator,愛は一人、訓練をしていた。,Ai was training by herself.
+morita  ai (talking),ふう……,Phew...
+Kaga Tarou (talking),訓練かえ。 精が出るのう。,"Training, eh? You`re working hard."
+morita  ai (talking),あ、これは太郎さん！ おはようございます！,"My, Tarou-san! Good morning!"
+Kaga Tarou (talking),戦いは終わったというのに、 修練を怠らないとはの。立派よな。,It`s commendable to keep training even after the battle`s over.
+morita  ai (talking),人生、一生戦いでござんすからね。,Life`s one long battle after all.
+Kaga Tarou (talking),………………,...
+morita  ai (talking),何か？,Yes?
+Kaga Tarou (talking),いや。 その筋の者の一人として お主を見直しておったのだ。,"Nothing. As someone who thinks the same, I see you in a new light now."
+morita  ai (talking),あ……はあ… ありがとうござんす。 嬉しいでござんすよ。,Ah... hahah... Thank you. It makes me happy to hear it.
+Kaga Tarou (talking),そうか、精進するのじゃぞ。,"Well, keep being diligent."
+narrator,太郎は、愛の頭にぽんと掌を置いた。,Tarou placed his palm on top of Ai`s head.
+morita  ai (talking),…………どきどき……,...Ba-dump ba-dump...
+Kaga Tarou (talking),ん？,Hm?
+morita  ai (talking),な、なんでもないでござんす。,I-It`s nothing.

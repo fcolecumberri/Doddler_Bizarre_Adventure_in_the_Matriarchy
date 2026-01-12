@@ -1,0 +1,141 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,{H物欲抵抗 <= H物欲:,{H物欲抵抗 <= H物欲:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+__system__??,{麦 = 17:,{麦 = 17:
+__system__??,{H拷問抵抗 < H拷問:,{H拷問抵抗 < H拷問:
+__system__??,},}
+__system__??,{H拷問 = 1:,{H拷問 = 1:
+__system__??,},}
+__system__??,},}
+Yamamoto Akuji (talking),よう、アフロ仮面。,"`Sup, Afro Mask."
+Yume's Manservant (talking),だから…… その呼び方、止めてくれないか……,I keep telling you not to call me that...
+Yamamoto Akuji (talking),ほれ、ボーナス。,"Here, a bonus."
+Yume's Manservant (talking),うむ……有り難く頂いておく。,"Thanks, I`ll take it."
+Yamamoto Akuji (talking),"ところで、一つ訊きたいんだが……
+おめーさあ、俺がやってる給料の大半を 孤児院に寄付したり貧民街の炊き出しに 使ったりしてるそうだが、マジなのか？","One thing I wanna ask, though.
+ Heard you use most of your pay to feed the poor and donate to orphanages. Is that true?"
+Yume's Manservant (talking),ああ、本当だが。,"Yes, it is."
+Yamamoto Akuji (talking),何でそんな勿体ない真似すんだよ……,Why waste it like that?
+Yume's Manservant (talking),"我が心は今でも那古神様と共にある。
+人生の全てを費やして、 那古神様の理想実現のため尽力するのが 我が使命なのだ。","My heart is still with the Nako.
+ `Tis my duty to give my all to create the ideal world our Goddess believed in."
+Yamamoto Akuji (talking),…………はあ、さいですか。,...`kay then.
+Yume's Manservant (talking),お前も少しは、世のため人のため 素直に奉仕する心を持てばどうなのだ？,How about you do a little more for this world?
+Yamamoto Akuji (talking),大きなお世話だ。,Mind your own business.
+Yamamoto Akuji (talking),よう、アフロ仮面。,よう、アフロ仮面。
+Yume's Manservant (talking),…………何だ、その呼び方は。,...What`s with that nickname?
+Yamamoto Akuji (talking),"いや、見たまんまを言っただけだが。
+ところでよ、おめーのその仮面、 やっぱあの那古教とか言う 宗教のルールでつけてんのか？","Calling it as I see it.
+ By the way, do you wear that mask `cause of some rule of the Nako Cult?"
+Yume's Manservant (talking),これは那古神様とは関係ない。 理由があって、 我らが自発的に着けているのだ。,"It`s got nothing to do with the Cult. We wear the mask voluntarily, for our reasons."
+Yamamoto Akuji (talking),なら、 アフロ仮面って呼んでも問題ないな。,Then it`s fine if I call you Afro Mask.
+Yume's Manservant (talking),何故そうなるのだ……,How come...?
+Yamamoto Akuji (talking),じゃあ、マッスル仮面。 どっちがいい？,"Muscle Mask, then. Which do you prefer?"
+Yume's Manservant (talking),………………,...
+Yamamoto Akuji (talking),怒んなよ……,Don`t get mad...
+Yamamoto Akuji (talking),よう、アフロ仮面。,"`Sup, Afro Mask."
+Yume's Manservant (talking),だから、その呼び方をやめろ。,Stop calling me that.
+Yamamoto Akuji (talking),いいじゃねーか、親しみやすくてよ。,"C`mon, it brings us closer."
+Yume's Manservant (talking),我らは那古神様以外の主を 仰ごうとは思わん。 貴様に親しまれても困る。,We only see the Nako Goddess as our master. We do not want to be closer to you.
+Yamamoto Akuji (talking),まあ、そう言うなって。,Don`t be like that.
+Yamamoto Akuji (talking),なあ、アフロ仮面。 俺の部下になっちゃくんねえかな？,"Hey Afro Mask, won`t you work for me?"
+Yume's Manservant (talking),お前の部下……だと？ 世迷い言を…………,Wor... for you? Spare me your nonsense...
+Yamamoto Akuji (talking),いや、世迷い言じゃねえって。 おめーはかなりの使い手だ、 マジで部下に欲しいんだよ。,"No nonsense here. You`re pretty good, so I want you to work for me."
+Yume's Manservant (talking),……………………,...
+Yamamoto Akuji (talking),やっぱアレか？ 教祖様に絶対忠誠とかでダメか？,"Can`t because you`re loyal to your guru, huh?"
+Yume's Manservant (talking),それは当然だ。だが……,Obviously. However...
+Yamamoto Akuji (talking),だが？,Yeah?
+Yume's Manservant (talking),"……お前には、感謝している。
+あの抗争の最中、死なずに済んで こうして生き延びさせてもらっている事を 私はお前の温情だと解釈している。","...I`m thankful to you.
+ I`ll take it as a sign of your kindness that you let me live after that battle."
+Yamamoto Akuji (talking),お……そりゃ意外だな。 てっきり俺は 憎まれてるもんだと思ったぜ。,"Hoh, that`s a surprise. I was sure you hated my guts."
+Yume's Manservant (talking),"私は元来、とある有名な道場の門下生だ。 那古神様の僕であると同時に、 一人の武道家でもある。
+その、武道家としての面で言うなら……
+自分を打ち負かした相手を認め、 その後にかけてもらった温情に応えて 部下として戦うことは……
+ ……それほど、抵抗のある話ではない。","I was once a disciple of a famous dojo. I`m the Goddess` servant, and a martial artist.
+ And speaking as a martial artist-
+ Acknowledging the opponent who beat you, and responding to their kindness by working for them...
+ ...Isn`t an unpleasant thought."
+Yamamoto Akuji (talking),そーかそーか、だったら……,"I see, then-"
+Yume's Manservant (talking),"……ただし。
+今の私は単なる武道家ではない。 あくまで那古神様の僕なのだ。
+那古神様の抱く理想に耳を貸そうとせず、 我ら信徒に戦いを挑んだお前は 憎んでも憎み足りぬ悪しき邪教徒よ。
+絶対に、手は貸せぬ。","...However.
+ I am no longer just a martial artist. I`m the Goddess` servant.
+ You reject the Goddess` ideals and battle with our flock. You are detestable and wicked.
+ I`ll never help you."
+Yamamoto Akuji (talking),あれま。,Oh geez.
+Yamamoto Akuji (talking),なーなー、アフロ仮面よお。 俺の部下になってくれってばさ。,"Hey, Afro Mask. Work for me, will you."
+Yume's Manservant (talking),……くどいぞ、お前。 我が意志は何度と無く伝えたはずだ。,...You`re persistent. I have already made myself clear.
+Yamamoto Akuji (talking),"……………………
+しゃあねえな、ハナっから正攻法で 行けると思っちゃいなかったが……","...
+ Meh, I knew being direct wouldn`t work from the start."
+Yume's Manservant (talking),………？ 何をする気だ。,...? What are you plotting?
+Yamamoto Akuji (talking),"ちょっとお前の事を調べたんだが…… お前、熱拳道場の高弟だったらしいな。
+修業時代は酒にも女にも脇目をふらず、 クソマジメ一辺倒だったとか。
+そこにあんな可愛らしい教祖様と 宗教だもんなあ。そりゃもう、 クラっと来ちまってもしゃあねえわな。","I`ve looked into you. You were a top Burning Fist Dojo disciple.
+ You were totally devoted, not even touching booze or women.
+ Then came that cute guru and her Cult. Well, no wonder you got a little light in the head."
+Yume's Manservant (talking),何が言いたいのだ、貴様……,What are you trying to say?
+Yamamoto Akuji (talking),"ニヤリ。
+ ………………お前にこれをやろう。 だから俺の部下になれ。","Heh.
+ ...I`ll give you this, so work for me."
+Yume's Manservant (talking),"？　何だこれは……写真か？
+フッ……私を見くびるのも大概にしろ。 このような写真で我が心が揺ぐなど……","? A photo...?
+ Hah! You underestimate me if you think a mere photo can-"
+Yamamoto Akuji (talking),…………ほんとにか？ 写真をよーく確認しなくていいのか？,"...Really, now? Take a closer look at it."
+Yume's Manservant (talking),"……………………？
+ ……………………なっ………… なあんだとおおおおおおおおっ！！？
+こっ、これはこれは一体全体…… どっ、どどどどどういう事なのだ！","...?
+ ...What... WHAAAAAAAAAAAAAT?!
+ Wh-What in the world is this?! Wh-What`s the meaning of this?!"
+Yamamoto Akuji (talking),いや、うちの情報収集担当が、 盗み撮りしたらしいんだけどな。,"Our information officer took some secret photos, it seems."
+Yume's Manservant (talking),"ああ、あああっ………………！
+お食事をなさる那古神様、 楽しそうに談笑なさる那古神様、 夕焼けに目を細める那古神様！！！","Aaah, aaaaah!
+ The Goddess having a meal! Having a nice, friendly chat! GAZING UPON THE SUNSET!!!"
+Yamamoto Akuji (talking),言っとくが、それ、生写真だぞ。,"They`re all original, by the way."
+Yume's Manservant (talking),うおおおおおおおおおおおおおおおおお おおおおおおおおおおおおおおおおおお おおおおおおおおおおおおおおっ！！,UOOOOOOOOOOOOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOOOH!!!
+Yamamoto Akuji (talking),"他にも、物憂げな顔の教祖様とか 寝間着で白単衣の教祖様とか まだまだいっぱいあるぞー。
+これが欲しけりゃ、部下になれ。","We also got ones of her looking tired, sleeping in a robe, and a bunch of others.
+ Want them? Then work for me."
+Yume's Manservant (talking),ひっ、卑怯なり！！ 卑怯だぞきさまああああああああっ！！,Y-You fiend! YOU COWAAAAAAAAARD!
+Yamamoto Akuji (talking),どーする？ さあどーする？ ネガもろとも破っちゃおうかな~。,Well? What will it be? I might burn them all up~!
+Yume's Manservant (talking),"やっ、やめろ、やめてくれえええっ！！
+解った、部下になる、貴様のために働く！ だからその写真を裂かないでくれええっ！","N-NOOOOO, STOOOOOOP!!!
+ Fine, I`ll work for you, so don`t destroy those photos!"
+Yamamoto Akuji (talking),よーし、交渉成立だな。,"Good, we have a deal, then."
+Yume's Manservant (talking),"…………………………
+たっ、ただしっ………… 条件があるッ！！
+私は那古神様と 観世那古真燈教に対しては 絶対に拳を向けぬからな！
+あと、貴様が那古神様の命を奪った時は、 貴様に対して必ず反旗を翻す！！
+そっ、それだけは最低守れ！ ま、も…………守って下さい！！ だから早くその写真を…………！！！","...
+ H-However... I have one condition!
+ I will NEVER oppose the Goddess, or the Nako Cult, for that matter!
+ And if you kill the Goddess, I WILL rise up against you!
+ P-Promise me that, at least! P-Please! Also, the photos...!"
+Yamamoto Akuji (talking),よし。ほれ。,Sure. Here.
+Yume's Manservant (talking),うおおおおおおおおおおおおおおおおお おおおおおおお那古神様あああああああ あああああああああああああああっ！！,UOOOOOOOOOOOOOOOOOOOOO OOOOOOOOOOOOOOOOOOOOOH GODDEEEEEEEEEEEEESS!!!
+Yamamoto Akuji (thinking),……………………………… こいつ、絶対バカだ………………,... This guy`s a moron.
+__system__??,{RND = 1:,{RND = 1:
+Yume's Manservant (talking),那古神様には指一本触れさせん！ かかってこい、クズども！！！！,"I won`t let you harm the Goddess! Bring it on, scum!"
+__system__??,},}
+__system__??,{RND = 2:,{RND = 2:
+Yume's Manservant (talking),観世那古真燈教は永遠に不滅なりッ！ 正義の拳を受けてみろォォォォっ！！,The Nako Cult is eternal! TASTE THE HAMMER OF JUSTICE!!!
+__system__??,},}
+__system__??,{RND = 3:,{RND = 3:
+Yume's Manservant (talking),愚か者どもが！ 我らが那古神様の掲げる理念、 貴様らごときに邪魔はさせんぞ！！,You fools! We won`t let you interfere with our Goddess`s ideals!
+__system__??,},}

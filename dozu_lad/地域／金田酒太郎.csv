@@ -1,0 +1,225 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆金田 = 20:,{☆金田 = 20:
+__system__??,},}
+__system__??,{☆金田 = 21:,{☆金田 = 21:
+__system__??,},}
+__system__??,{☆金田 > 20:,{☆金田 > 20:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,{☆金田 > 20:,{☆金田 > 20:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 2:,{麦 = 2:
+__system__??,},}
+__system__??,{麦 = 4:,{麦 = 4:
+__system__??,},}
+__system__??,{麦 = 5:,{麦 = 5:
+__system__??,},}
+ (talking),僕を呼んでいると聞いたんだけど？,You called me?
+Yamamoto Akuji (talking),………………,...
+Kaneda Sakatarou (talking),なんだ？,What?
+Yamamoto Akuji (talking),ほんっと、女になってやがる…,You really became a woman...
+Kaneda Sakatarou (talking),だからなんだ？,So?
+Yamamoto Akuji (talking),うーん、可愛いような、 そーでないような… 中身はそのまんまなのかい？,"Man, I don`t know if now you`re cute or not... You still the same inside?"
+Kaneda Sakatarou (talking),そんな質問には答えたくないね。,I don`t wanna answer that.
+narrator,悪司は煙草を喫んで、酒太郎を待っていた。,Akuji smoked while waiting for Sakatarou.
+Kaneda Sakatarou (talking),あまり吸い過ぎると躰によくないぞ。,Smoking is bad for you.
+Yamamoto Akuji (talking),……………,...
+Kaneda Sakatarou (talking),"なんだ、素っ頓狂な顔をして。
+ほら、蜜柑だ。 煙草を吸う奴は、柑橘類をとって おいた方がいい。","What`s the crazy face for?
+ Here, some tangerines. Citrus fruits are good to have if you smoke."
+Yamamoto Akuji (talking),…………くれるの？,...You offering them?
+Kaneda Sakatarou (talking),ああ。,Yes.
+Yamamoto Akuji (talking),…………タダ？,...For free?
+Kaneda Sakatarou (talking),そうだが？,"Yes, so?"
+Yamamoto Akuji (talking),………毒は……,...Are they poisoned?
+Kaneda Sakatarou (talking),そんなものを入れるか。 失礼な奴だ。,"Why would I do that, you rude jerk?"
+Yamamoto Akuji (talking),変われば、変わるモンだなー…,People DO change...
+Kaneda Sakatarou (talking),呼んだか？,You called.
+Yamamoto Akuji (talking),まーな。,Yeah.
+Yamamoto Akuji (talking),ほら、あんたの大好きなお金だ。 受け取ってくんな。,"Here, your favorite - money. Take it."
+Kaneda Sakatarou (talking),ありがとう。 大事に使う。,Thanks. I`ll put it to good use.
+Yamamoto Akuji (thinking),…………礼言ったよ… 信じられね~…,...”Thanks”? I can`t believe it...
+Yamamoto Akuji (talking),………………,...
+Kaneda Sakatarou (talking),なんだ？,What?
+Yamamoto Akuji (talking),……………………,...
+Yamamoto Akuji (thinking),"いくら女になったからとはいえ、 元がアレだ…
+ ……………","He may be a woman now, but he used to be...
+ ..."
+Yamamoto Akuji (talking),はぁ~~~~~……,Siiiiigh...
+Kaneda Sakatarou (talking),人の顔をじろじろ見て、 ため息をつくとは、失礼な奴だ。,"Don`t stare at me then sigh, you rude jerk."
+Kaneda Sakatarou (talking),"断る！ どうして僕が、男に抱かれなくては 駄目なんだ！
+気持ち悪い、吐く！ 死ぬ！！","I refuse! Why do I have to sleep with a man?!
+ That makes me sick! I`d rather die!!"
+Kaneda Sakatarou (talking),断るっ！ あ、あんな服、着るなんて…,I refuse! N-No way I`m wearing that...
+Yamamoto Akuji (talking),おう。,Yo.
+Kaneda Sakatarou (talking),なんですか。 ボクは言われた事はこなしていますよ。,What is it? I`ve been doing what I`ve been told.
+Yamamoto Akuji (talking),まー、これでも受け取ってくれや。,"Here, have this."
+Kaneda Sakatarou (talking),"なんですか、これ。 ああ、お金ですか。
+まあ、くれるというものは 貰っておきますよ。","What`s that? Oh, money.
+ Well, I`ll take it if you`re giving it."
+narrator,酒太郎は礼も言わず、金を受け取った。,Sakatarou took the money with no thanks.
+ (talking),さっさとくるにゃりよーー！！,Come with me already!!!
+ (talking),さわるな！！ 服が汚れるだろう！！,Don`t touch me! You`ll dirty my clothes!!
+ (talking),むきーーー！！ こいつ、なんにゃりかー！！,GRAAAAAHHH!! What`s WITH this guy?!
+Yamamoto Akuji (talking),どーした、未来。 何、騒いでる？,"What happened, Mirai? What`s the fuss about?"
+Kako Mirai (talking),にーちゃーん！！ 泥棒捕まえたにゃり！,Misteeeer! I caught a thief!
+Yamamoto Akuji (talking),泥棒？,A thief?
+Kako Mirai (talking),こいつ、無人っ子ちゃんの前で ウロウロしてたにゃり！！,He was wandering around the money giver!
+Yamamoto Akuji (talking),無人っ子ちゃんって…,Money giver?
+Kako Mirai (talking),借金機械にゃり。,The ATM.
+Yamamoto Akuji (talking),勝手に名前つけるな。 他人にゃわかんねーだろーが。,Don`t give it a weird name. You`ll confuse people.
+Kako Mirai (talking),むがーー！,Gaaaaah!
+Kaneda Sakatarou (talking),さわるなと言ってるだろうが！,I told you not to touch me!
+Yamamoto Akuji (talking),てめーか、泥棒は。,You the thief?
+Kaneda Sakatarou (talking),ふん、失敬な！ このボクは、ここで金を借りてやろうと しただけだ。,"Hmph, rude! I just came here to borrow some money."
+Kako Mirai (talking),むっきーー！！ にゃんかムカツクーー！,Uuuuuugh! This guy kinda pisses me off!
+Yamamoto Akuji (talking),だけど、泥棒と間違われたって事は、 不審な事をしてたって訳じゃないのか？,"But you musta been doing something suspicious, then."
+Kaneda Sakatarou (talking),"その女が勝手に騒いで、勝手にボクを 泥棒と勘違いして、勝手にここへ 連れてきただけだ。
+まったく。 これだから女は困る。
+低能なら低能らしく、おとなしくして いればいいものを。","This girl assumed I was a thief and brought me here on her own.
+ God, this is why I can`t stand women.
+ Retards should just shut up and behave."
+Kako Mirai (talking),"ていのぉぉ~~~~~~~？？？
+てめーー、どこの穴から出てきた にゃりか！！ 木の股にゃりか！？
+女だからって馬鹿にする奴は、 たいてい昔、女に馬鹿にされたから、 鬱憤、はらしてる奴にゃりよ！！
+そんな事する奴は、低能っていうか、 レベル低いにゃり！！
+未来ちゃん、お利口に生まれて よかったにゃりー！！","Who`s the retard?!
+ Which sewer did you crawl out of, you bastard?! Is your brain rotten?!
+ Guys who look down on women are bitter because girls used to make fun of them!
+ Anyone like that isn`t just retarded, they`re scum!
+ Mirai-chan sure is glad she was born intelligent!"
+Kaneda Sakatarou (talking),ふん。 ほざいていろ。,"Hmph, say whatever you want."
+Yamamoto Akuji (talking),未来。 どうしてこいつ、泥棒だと思った？,"Mirai, why did you think this guy was a thief?"
+Kako Mirai (talking),こいつ、無人っ子ちゃんに奇妙なコード いっぱいつけて、ゴソゴソやってた にゃり。,He was attaching a buncha weird cords to the ATM and rummaging around it.
+Yamamoto Akuji (talking),ははーん。 借金機械を騙して、中の金、 ブン取ろうとしたな。,"A-hah, so you wanted to tamper with the ATM and get the money inside?"
+Kaneda Sakatarou (talking),そ、そんな証拠がどこにある！？,Wh-Where`s your evidence?!
+Kako Mirai (talking),"ぶらーん。
+これこれ。 その時のコードにゃり。","Ta-daaaah.
+ Look, here are the cords he was using."
+Yamamoto Akuji (talking),なるほど。 証拠物件押収していたか。,"I see. You seized the evidence, huh."
+Kaneda Sakatarou (talking),それが、ボクのものだっていう 証拠はないだろう。,You can`t prove those are mine.
+Kako Mirai (talking),むっきーーー！！！ ああ言えばこう言うーーー！！,Stop trying to weasel your way out of this!
+Yamamoto Akuji (talking),金が欲しいのか。,You want money?
+Kaneda Sakatarou (talking),あればあっただけ、困る事はないね。,"More money, less problems."
+Yamamoto Akuji (talking),おもしれー。,Interesting.
+Kaneda Sakatarou (talking),なんだと？,What is?
+Yamamoto Akuji (talking),治安課に突き出す代わりに、 俺の部下になれ。,Work for me and I won`t turn you in to the cops.
+Kaneda Sakatarou (talking),このボクに、人の下につけと いうのか！？,You want ME to work for YOU?!
+Yamamoto Akuji (talking),"それがイヤなら、牢獄行きだ。 オメー、初犯じゃねーだろ。 その態度。
+なんなら市議会にチクって、 余罪増やしてやってもいいんだぜ？","It`s that or the slammer. And your attitude tells me it ain`t your first time.
+ Do you want me to snitch on you to the CC?"
+Kaneda Sakatarou (talking),"………………
+くそっ……勝手にしろ…","...
+ Dammit! Fine..."
+Yamamoto Akuji (talking),ほい、決定。 お前は俺の部下だ。 名前は？,"Great, then you work for me now. What`s your name?"
+Kaneda Sakatarou (talking),…金田酒太郎。,...Kaneda Sakatarou.
+Yamamoto Akuji (talking),俺は山本悪司だ。 俺の為にしっかり働きな。,I`m Yamamoto Akuji. Work hard for me.
+Kaneda Sakatarou (talking),ふんっ！！,Hmph!
+Kako Mirai (talking),未来ちゃん、こんな奴が仲間っての、 すんげーいやにゃり！！,Mirai-chan REALLY doesn`t wanna work with this guy!
+__system__??,{(B地域 = 地域番号) * (Bキャラ \ 64):,{(B地域 = 地域番号) * (Bキャラ \ 64):
+__system__??,},}
+__system__??,{(■ \ 0) * (B忠誠タイプ \ 1):,{(■ \ 0) * (B忠誠タイプ \ 1):
+Kaneda Sakatarou (talking),……と、このような事を 言ってやがったんだ。,...They had the nerve to say that.
+narrator,金田は一人、喋っている。,Kaneda was talking by himself.
+narrator,の知人が、,", your friends?"
+narrator,の事を 悪く言っていた事。,", your family? They`re badmouthing you - he says."
+Kaneda Sakatarou (talking),"あの、ボク達のボス顔をしている、 悪司だって、腹の底では――
+だいたい、この組織だって、 元は烏合の衆だし。
+トップになっている奴は、運でトップに なったとしか思えない、無能者の集団 じゃないか。
+そんな風になったのも、 世間が、政治が――","Deep down, even our so- -called boss, Akuji, is...
+ This group was nothing but a disorderly mob at first.
+ The people at the top only made it there out of sheer luck.
+ The reason why? Politics, the public..."
+narrator,金田のそんな話を聞いていて、 半ば呆れていた,"Looking exasperated, and becoming more and more resentful it went on,"
+narrator,も、 次第に鬱憤が溜まってきた。,had to put up with Kaneda`s ranting.
+__system__??,},}
+__system__??,{(■ \ 0) * (B忠誠タイプ = 1):,{(■ \ 0) * (B忠誠タイプ = 1):
+Kaneda Sakatarou (talking),……と、このような事を 言ってやがったんだ。,...They had the nerve to say that.
+narrator,金田は一人、喋っている。,Kaneda was talking by himself.
+narrator,の知人が、,", your friends?"
+narrator,の事を 悪く言っていた事。,", your family? They`re badmouthing you - he says."
+Kaneda Sakatarou (talking),"あの、ボク達のボス顔をしている、 悪司だって、腹の底では――
+だいたい、この組織だって、 元は烏合の衆だし。
+トップになっている奴は、運でトップに なったとしか思えない、無能者の集団 じゃないか。
+そんな風になったのも、 世間が、政治が――","Deep down, even our so- -called boss, Akuji, is...
+ This group was nothing but a disorderly mob at first.
+ The people at the top only made it there out of sheer luck.
+ The reason why? Politics, the public..."
+narrator,金田のそんな話を聞いていて、 半ば呆れていた,"Looking exasperated, and becoming more and more resentful it went on,"
+narrator,だが、 金田のそんな態度をたしなめた。,"listened, but ultimately rebuked his attitude."
+Kaneda Sakatarou (talking),"なんだ、お前…… そうか、お前もそういう奴だったと いう訳か。
+フン。 お前みたいな奴と話しているのは、 時間の無駄だ。","What`s with you...? Oh, I get it, you`re one of THOSE people.
+ Hmph, talking to people like you is a waste of my time."
+narrator,金田は,Kaneda grew to hate
+narrator,を嫌いになった。,deeply.
+__system__??,},}
+narrator,この地域に配備されているのは、金田酒太郎と 数名の名のない下っ端ばかりだった。 金田は機嫌が悪かった。,The only people stationed in this region were Kaneda and some no-name underlings. He was in a foul mood.
+Kaneda Sakatarou (talking),"くそっ……こんな所にボク一人だけに するなんて。
+組織の奴らはボクを仲間はずれにして いるんだ。
+他の場所できっとみんなでボクの悪口を 言っているに違いない。
+なんて酷い奴らだ。 今にみてろ……","Dammit... Leaving me alone in a place like this.
+ The group must want to leave me out.
+ They`re definitely talking shit behind my back.
+ What horrible people. Hmph, just you watch..."
+narrator,一人の男が歩いていた。,A man was walking by himself.
+Kaneda Sakatarou (talking),そこの女。,"You there, girl."
+joshigakusei (talking),は？,Huh?
+Kaneda Sakatarou (talking),今、ボクの事を、ブタだと思っただろ？,"You thought I was a pig, huh?"
+joshigakusei (talking),はぁ？？,What??
+Kaneda Sakatarou (talking),今、この犯罪者、何言ってやがると 思っただろう！？,"You think I`m some creep saying weird stuff, right?!"
+joshigakusei (talking),な、何よ、あんた……,Wh-What`s your problem...?
+Kaneda Sakatarou (talking),そう思ってるだろう！,"You did, didn`t you!"
+joshigakusei (talking),知らないわよ……何……気持ち悪い……,Hell if I know... creep.
+narrator,女の子は気味悪そうに走り去って行った。,"The girl left, visibly displeased."
+Kaneda Sakatarou (talking),ふん、世の中、不愉快な事だらけだ。 ボクの力が発揮出来る場所もないのかよ。,"Hmph, this world sucks. Where can I display my abilities?"
+narrator,酒太郎は悪司に装備するように言われた ガチャガチャを弄んでいた。,Sakatarou was fiddling with the capsule toys Akuji`d told him to equip.
+Kaneda Sakatarou (talking),なんなんだ、これは… こんな、役に立たないものを、 どうして、この僕に…,What the hell are these...? Why do I gotta keep this useless garba-
+narrator,　　［きらーんっ］,　　*Shiiiiiine!*
+Kaneda Sakatarou (talking),"むっ！？
+おっ……？
+おーーーーーーーー！！！！！！","Hrm?!
+ Oh...?
+ OOOOOOOHHHHH!!!"
+ (talking),"……………
+ ……なっ……
+なななっ……","...
+ ...Wha...!
+ Wha-wha-what-!"
+Kaneda Sakatarou (talking),なんだこれはぁぁ！！！ 何が起こったんだーー！！！！,WHAT THE HELL JUST HAPPENED?!!
+narrator,酒太郎は、一人しょんぼりと、 原っぱの土管の上に座っていた。,"Sakatarou was sitting on top of a pipe, depressed."
+Kaneda Sakatarou (talking),………………,...
+narrator,足をぶらぶらさせ、軽く口を尖らせている。,She dangled her legs with a sour look.
+Kaneda Sakatarou (thinking),"なんだか、急に人が優しく、 僕に接してくるようになった… 女になったせいかな…？
+どうしてなんだ…でも…あの中に入るのは なんだか照れ臭いし…
+ ……どうしたらいいんだ…僕は…","Somehow, people are treating me nicely now... Is it because I`m a woman?
+ I dunno why, but going in there feels embarrassing...
+ ...What should I do...?"
+Seinendan Jyoshi (talking),酒太郎さーん。 ここ、どうすればいいか、 教えて下さいー。,Sakatarou-san. Could you please tell me what to do here?
+Kaneda Sakatarou (talking),"なんだ、そんな事もわからないのか。 いいか？ ここは、こう。
+そして、ここをこうすると、 合理的、かつ、シンプルに 計算出来るだろう？","What, you don`t even know that? Listen, you gotta do this, like this.
+ Then do this, and you should be able to solve it easily, don`t you think?"
+Seinendan Jyoshi (talking),あ、そっかー… 酒太郎さん、ありがとう。,"Oh, I see... Thank you."
+Kaneda Sakatarou (talking),う……うん…まあ……,Y-Yeah... sure.
+Seinendan Jyoshi (talking),今度一緒に、お買い物行きませんか？ 酒太郎さんに似合う洋服とかあるとこ 知ってますよ。,"Wanna go shopping later? I know a nice clothes shop, they`ll look good on you."
+Kaneda Sakatarou (talking),……う、うん… また今度な。,"S-Sure... Another time, maybe."
+narrator,なんとなく、人になつく事が出来てきだした 酒太郎だった。,"Somehow, Sakatarou had become able to get close to others."
+Kaneda Sakatarou (talking),"ど、どうして僕がこんな目に あわなくちゃいけないんだ！！
+帰る、僕は帰る！
+止めるな！！ 止めるんじゃない！！ あ、何をする、この低能が！！
+こんな事になったのも、 あの悪司という男のせいだ！！ 死ね、悪司め！！
+ちょっ…ちょっと待て、 このままじゃあ殺されるのは 僕の方じゃないか！！
+や、やめろ、近づくんじゃない！ くるな、これ以上こっちにくるな！！
+痛いのは嫌いなんだ！！ 僕は平和主義なんだ！
+この低能な猿め！！ 近づくなと言っただろうが！！
+おんにゃーーーーーーーー！！！！！","Wh-Why do I gotta go through this shit?!
+ I`m leaving!
+ Don`t stop me!! I won`t stop!! Damn those retards!!
+ This is all that Akuji guy`s fault! Drop dead, Akuji!
+ W-Wait, at this rate, I`M the one who`s gonna drop dead!
+ S-Stop, stay away! Don`t come any closer!
+ I hate pain! I`m a pacifist!
+ You retarded monkeys, I told you to stay away!!
+ ONYAAAAAHHHH!!!"

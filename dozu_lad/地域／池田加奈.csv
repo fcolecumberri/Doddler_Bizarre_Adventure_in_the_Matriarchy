@@ -1,0 +1,884 @@
+character,Jap,Eng
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,},}
+__system__??,{麦 = 12:,{麦 = 12:
+__system__??,{H愛欲 = 1:,{H愛欲 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+__system__??,{麦 = 17:,{麦 = 17:
+__system__??,{H拷問抵抗 < H拷問:,{H拷問抵抗 < H拷問:
+__system__??,},}
+__system__??,{H拷問 = 1:,{H拷問 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 18:,{麦 = 18:
+__system__??,},}
+__system__??,{麦 = 19:,{麦 = 19:
+__system__??,},}
+Yamamoto Akuji (talking),……おい、様子見に来たぞ。 調子はどうだ？,"Hey, how`s it going? I`m here to check on ya."
+Ikeda Kana (talking),…………あー！ いい人だと思ってたのに極悪人だった ひっどーいお兄さん！！！,"...Oh! It`s the guy I thought was nice, but turned out to be a super bad guy!"
+Yamamoto Akuji (talking),誰が極悪人だ、食い逃げ娘。,"Who`re ya calling bad, dine-and-dasher?"
+Ikeda Kana (talking),誰が食い逃げ娘なのよ！,Who`s the dine-and-dasher?!
+Yamamoto Akuji (talking),おめー以外に誰がいんだよ。 地下房に放り込まれて頭冷えたか？,Who else? You calm down after some time in the clink?
+Ikeda Kana (talking),頭冷やす必要がどこにあるのよ！,I don`t need to calm down!
+Yamamoto Akuji (talking),やれやれ、確信犯はこれだからよ。,That`s a convicted criminal for you.
+Ikeda Kana (talking),かっ、加奈は、お兄さんに捕まった時に 食い逃げなんかしてなかったもん！,I-I did NOT dine-and-dash when you captured her!
+Yamamoto Akuji (talking),るせー、そん時がたまたまで、 普段はしてただろうが。,"Shuddup, that just happened to be the one time you didn`t."
+Ikeda Kana (talking),普段って……むー、失敬な！ ごくたまによ！,"The ONE time? Rude, much?! I do it more often than not!"
+Yamamoto Akuji (talking),なら有罪じゃねぇか。,So you ARE guilty.
+Ikeda Kana (talking),法律じゃ、 現行犯でないと捕まらないはずよ！,The law states that one has to be caught in the act!
+Yamamoto Akuji (talking),"ほー、よく知ってんな。 法律知ってて逆手に取って、 犯行を繰り返していたわけだ。
+極悪犯確定、同情の余地ナシだな。 人として恥ずかしくねぇのか、おめー。","Well aren`t you informed. So you used the law to keep repeting your crimes, huh.
+ A criminal like you deserves no sympathy. Aren`t you ashamed?"
+Ikeda Kana (talking),う、うぐううううっ…………,U-Uggghhhh...
+Yamamoto Akuji (talking),ま、安心しな。 おめーの犯行に見合うだけのお裁きを 俺が下してやっからよ。,"Well, relax. I`ll give you a fair veredict that`s proportionate to your crimes."
+Ikeda Kana (talking),弁護士呼んでよ、弁護士ーーーっ！ 法律違反よ、人権侵害よこんなのーー！,Get me a lawyer! This is a violation of human rights!
+Yamamoto Akuji (talking),"さすが漫画家、知識はあんなあ。 弁護士に法律に人権ときたか。
+だが、現実を知らねぇな。 ここじゃ俺が法律だ。 犯罪者には人権なんざねぇんだよ。","That`s a mangaka for ya, you know your stuff. Regarding the law, that is.
+ But you don`t understand reality. I am the law here. Criminals get no rights."
+Ikeda Kana (talking),人でなしーーーーーっ！,You bastard!
+Yamamoto Akuji (talking),どっちが人でなしだ、この極悪人。,"Who`re ya calling a bastard, criminal?"
+Yamamoto Akuji (talking),おーい、食い逃げ娘。 今日も達者かー？,"Hey there, dine-and-dasher, you doing well today?"
+Ikeda Kana (talking),く、食い逃げ娘って…… やめてよ、そういうのっ！,S-Stop calling me a dine-and-dasher!
+Yamamoto Akuji (talking),んじゃサバ缶娘でもいいぞ。 いや、万引きサバ缶娘か。,"Okay, I`ll call you something else. How `bout shoplifter?"
+Ikeda Kana (talking),………………んもーーーー！ 屈辱よ屈辱、ひっどーーーーーいっ！,Geeeez! That`s so mean and humiliating!
+Yamamoto Akuji (talking),キンキンキンキンうるせえな。 甲高い声で喋んじゃねぇや。,Shuddup already. You`re hurting my ears.
+Ikeda Kana (talking),もう、早くおうちに帰してよおっ！ こんな不当拘留、いつまでも続けてたら お兄さんにも良くないんだからねっ！,Lemme go home already! Keeping me unfairly detained for long will be bad for you too!
+Yamamoto Akuji (talking),……は？,...What?
+Ikeda Kana (talking),"加奈にはね、姉さんがいるの！ 苺姉さん！　マスコミの人なの！
+姉さん、腕利きなんだから！ きっと私を見つけ出して 助けてくれるんだから！
+そしたら、お兄さんのやってる悪いこと、 何もかも全部暴露してもらうんだから！","Kana has a big sister in the press, called Ichigo-san!
+ And she`s good, too! She`ll probably find and save me soon!
+ And when she does, she`ll expose all of your dirty deeds!"
+Yamamoto Akuji (talking),"………………プッ。
+なーにが新聞記者だ、バァカ。 もうちょい上手に嘘つけや。","...Pfft.
+ A journalist? Come up with a better lie, moron."
+Ikeda Kana (talking),ホントだもん！,It`s true!
+Yamamoto Akuji (talking),本当だとしても、おめーの姉さんなら 頭の中身も知れてらぁ。 さっぱり怖かねぇな、ははははん。,"Even if it`s true, if she`s your sister, she`s probably dumb. I ain`t scared at all."
+Ikeda Kana (talking),苺姉さんをバカにするなあああああああ！,Don`t make fun of Ichigo-saaan!
+Yamamoto Akuji (talking),おい、食い逃げ娘。 おめー、セックスの経験あんのか？,"Hey, dine-and-dasher. You have any sex experience?"
+Ikeda Kana (talking),な…………何よ極悪人っ！ 人を侮辱した上にセクハラ！？,Wha- you fiend! You`re gonna sexually harass me now?!
+Yamamoto Akuji (talking),まあ、生娘だったとしても 別に不思議じゃねぇけどな。 恋や愛より漫画命ってクチだろうしよ。,"Well, wouldn`t surprise me if you were a virgin, since your life`s all about manga."
+Ikeda Kana (talking),"…………かちーん。
+バカにしないでよ、お兄さん！ 恋愛経験の一つや二つしてなくっちゃ 魂のこもった漫画は描けないんだから！","...*Snap!*
+ Don`t make fun of me! Kana could never draw the manga inside her soul without some experience!"
+Yamamoto Akuji (talking),"あっそ。
+ま、とりあえず男は知ってる訳だ。","Really now.
+ Anyway, you have had a man."
+Ikeda Kana (talking),"う…………そ、そうよ。 若いときのあやまちっていうか、 美術部の先輩が……
+優しい人だったんだから…… 今、何してるか知らないけど……","Ugh... th-that`s right. It was a mistake from her youth, but Kana had her senpai...
+ He was a nice guy... Dunno what he`s doing now though."
+Yamamoto Akuji (talking),ふーん。,Hmmmm.
+Ikeda Kana (talking),………………って、何なのー！？ 恥ずかしいこと言わせないでよ！ それがどうしたって言うの！！,"...Hey, wait! Don`t make me tell you my embarrassing memories! Why do you wanna know, anyway?!"
+Yamamoto Akuji (talking),いや、そうだとすりゃ少しは楽だなぁと。 必要以上に優しくしなくていいし。,That makes things a bit easier. I won`t hafta be that gentle.
+Ikeda Kana (talking),優しくって……？　何の事よ……,Gentle? What do you-
+Yamamoto Akuji (talking),ちとついてこいや。,C`mere for a bit.
+Ikeda Kana (talking),"え？　……なっ、お、お兄さーーーん！？
+もう、何がしたいのよ、全く…… 勝手で強引なお兄さんなんだからっ。","Huh? H-Hey, mister?!
+ Geez, what are you thinking...? You`re so selfish and forceful!"
+narrator,──だが、悪司の部屋に連れ込まれた加奈は 勝手で強引な悪司の行為に陶酔しきって しまうのだった。,"However, having been taken to Akuji`s room, Kana became completely enraptured by that selfish and forceful man."
+narrator,池田加奈は、初めてだった。,It was Ikeda Kana`s first time.
+Yamamoto Akuji (talking),"……さーて、こんだけヤりゃいっか。 ふー、いい汗かいた。
+おいこら、食い逃げねーちゃん。 いつまでも寝てんじゃねぇ、起きろ。","...Well, that should do it. Phew, I worked up a sweat.
+ Hey dine-and-dasher, how long are ya gonna keep sleeping?"
+Ikeda Kana (talking),"……………………
+ ……ああ………初体験……………","...
+ ...Ahh... my first time..."
+Yamamoto Akuji (talking),は？ 嘘つけ、おめー別に初めてじゃ……,"Huh? Don`t lie, that wasn`t your first ti-"
+Ikeda Kana (talking),"…………ちがう……の…… その…………エクスタシー…………
+加奈ね……こんなに、なっちゃったの …………初めて………………☆","...That`s not it... I meant... that ecstasy...
+ You see, Kana has never... felt like that before... ☆"
+Yamamoto Akuji (talking),は。そりゃよかったな。,Oh. Good to hear it.
+Ikeda Kana (talking),"ああ………… 聞くのと……経験するのじゃ………… 全然違うのぉ…………
+こんな世界……あったなんてぇ………… すごぉい………………","Aaahhhh... The real thing is so much different from what they say...
+ So there was a world like this out there... Amazing..."
+Yamamoto Akuji (thinking),何だコイツ…… たった一回ですっかりどっぷりか。,What`s with her? She got addicted after just one round?
+Ikeda Kana (talking),"艶だわ……今なら、艶が出るわ…… いい漫画…………描けそう……
+ああ、ス・テ・キ………………☆","Kana feels like she could draw some great manga right now...
+ Ahh, how wonderful...☆"
+Yamamoto Akuji (talking),……………………,...
+Ikeda Kana (talking),"ねえ…………お兄さん………… ……もう一回、して…………☆
+もう一回、してくれたら…… すごいアイデア、閃きそうなのぉ…… ……ねっ？","Hey, mister... ...Let`s do it again...☆
+ If we do, Kana thinks she`ll get some fantastic ideas... ...So, shall we?"
+Yamamoto Akuji (talking),…………無視無視。,...Forget about it.
+Ikeda Kana (talking),……んもー、勝手なんだからー……,"Geez, you`re so selfish..."
+Yamamoto Akuji (talking),よーし、ちょっとついてこいや。,Come with me for a sec.
+Ikeda Kana (talking),えっ、えええっ！？ あ、ま、またＨなことするのぉ？,"Wh-Whaaaat?! Oh, a-are we gonna do it again?"
+Yamamoto Akuji (talking),何だよ、嫌がんのか？,Yeah. Don`t wanna?
+Ikeda Kana (talking),"…………………………
+えーと、嫌って言うか何て言うか。
+ああああー……囚われの私。 拒んでも拒めない拒みきれなーい……","...
+ It`s not like that...
+ Aww... Kana`s just a prisoner who can`t refuse anyway..."
+Yamamoto Akuji (talking),なんのこっちゃ。 ホレ、行くぞ。,"What`re you talking about? C`mon, we`re going."
+Ikeda Kana (talking),あーーーーん、私ってば、ピンチ……☆,"Aaaahn, Kana`s in trouble!☆"
+Ikeda Kana (talking),池田加奈は、幸せ……,Ikeda Kana felt pure bliss.
+Ikeda Kana (talking),…………ああん……☆ すごぉい、躰があちこち ピクピクしてるぅ……,"...Aaahn...☆ Amazing, Kana`s body is twitching all over..."
+Yamamoto Akuji (talking),ま、イキまくったらそんなもんだ。,I did make you cum a lot.
+Ikeda Kana (talking),"こんなのダメって…… ああ、解ってるのにぃ…………
+無理矢理で騙されて堕ちていく私ぃ…… ステキ、ドラマチックだわぁ……
+この、不思議な気持ちが消えないうちに メモしとかなくっちゃ…………☆","Kana knows she shouldn`t be doing this, and yet...
+ Being deceived and corrupted like this is so wonderfully dramatic...
+ Kana has to take notes while this feeling is still lingering. ☆"
+Yamamoto Akuji (talking),………………,...
+Ikeda Kana (talking),"……ああん、やだぁ…… 指先がピクピク震えてるぅ…… ペン持てないぃ……
+ね……ね、愛しいお兄さんっ……☆ 代わりにメモしてくれない……？","Oh nooo... Kana`s fingers keep shaking... She can`t even hold a pen...
+ H-Hey, lovely mister.☆ Could you do it for me?"
+Yamamoto Akuji (talking),……つきあいきれねぇ。 地下房に帰るぞ、ホレ、立て。,"That`s enough from you. Get up, back to your cell."
+Ikeda Kana (talking),あぁん、バカぁん……,"Awww, you dummyyyy..."
+Yamamoto Akuji (talking),何がバカぁんだ、何が。,Who`re you calling a dummy?
+narrator,"　　［カリカリ、カリカリカリ……］
+調教部屋の一室に、 ここには似つかわしくない音が響いている。
+鉄のペン先が、上質紙の上を走る音。","*Scrtch scrtch scrtch*
+ A rather unfitting noise echoed throughout the sexual training facility.
+ It was the sound of an iron pen running across fine paper."
+Kohara Koharu (talking),"……加奈ちゃん、居るかしら？ そろそろ今日の調教を…………
+ …………あら、まあ。 加奈ちゃんったら、また漫画を……","Are you there, Kana-chan? It`s about time for today`s-
+ ...Oh my. Writing manga again, Kana-chan?"
+Ikeda Kana (talking),"……あ、小春お姉さん。
+別に、このくらいならいいんだよね？ 個室貰ってるんだし……","...Oh, Koharu-onee-san.
+ Kana can do this much, right? She even got her own room..."
+Kohara Koharu (talking),"ああ、心配しなくていいのよ。 咎める気はないのだから。
+仕事に支障の出ない趣味なら、 加奈ちゃんの好きにすればいいわ。","Oh, don`t worry, I don`t mean to reproach you.
+ You can do whatever you want as as it doesn`t affect your work."
+Ikeda Kana (talking),そう、良かった☆ ……それで、もう調教の時間なの？,"Really? Good to hear it. ...So, is it time for training?"
+Kohara Koharu (talking),そうよ。……ふふ、嫌？,"Yep. ...Heehee, do you dislike it?"
+Ikeda Kana (talking),"ううん、嫌じゃないよ。
+小春さん、私の知らないことを イロイロしてくれるから、 何かと漫画のネタになるんだもん。","No, not really.
+ You do a lot of things Kana doesn`t know about, and that might end up being good for the manga."
+Kohara Koharu (talking),あら……嬉しい。 お役に立てて何よりだわ。,"Oh, I`m glad to be of help."
+Ikeda Kana (talking),"でも、時々ちょっと辛いかな……
+気持ちいいのより、 痛い方が強かったりするし。","But it`s kinda rough at times...
+ Like when it hurts more than it feels good."
+Kohara Koharu (talking),"くすくす……すぐ慣れるわ。 何をされても気持ちいいようにね……
+さ、始めましょうか。 今日はこの部屋の中でしましょう。","Teehee... You`ll get used to it soon. I`ll make everything feel good...
+ Now, let us begin. Let`s do it in this room today."
+Ikeda Kana (talking),……この部屋で？ ここにはベッドも道具も何もないよ？,"...In this room? There are no beds or toys here, though."
+Kohara Koharu (talking),"くす…くすくすくす……
+加奈ちゃんにとってはそうでも…… 私にとっては、この部屋って 宝の山に見えるわよ……","Teeheehee...
+ Maybe in your eyes... But to me, this room is a veritable treasure trove..."
+cg narrator,"「……ほら、できあがり。 　可愛いわよ、尻尾が生えたみたいで……」
+小春は加奈の菊座に“羽ぼうき”の柄をねじ込み、 震える尻を撫でながら楽しそうに笑ってみせた。
+「や……やだあっ…… 　そんなの、加奈のお尻に挿さないで…… 　抜いて、小春さん…………抜いて……」
+加奈が言う。 彼女の手は、小春が持ち込んだ枷に縛られていて 自分で異物を抜き取ることはできなかった。
+「あら……さっき、私が舌と指で可愛がって 　あげた時は、あなた、嬉しそうだったじゃない」
+くすくすと、小春は本当に 楽しそうに笑い続けている。
+「変な感じとか言いながら……くすくす、 　お尻の力も抜いちゃって、 　気持ちよさそうな声出して……」
+「そ、それは……そうだけど…………」
+「……ほら。 　加奈ちゃんの大事なところから、 　いやらしいトロトロがにじんでる……」
+小春は、加奈の秘裂を指先で左右に割り開いた。 ──そこは確かに、淫水で濡れている。
+「くす……いい眺め。 　そうだ、テープを貼って、この大事な所を 　広げっぱなしにしてあげるわね……」
+窮屈な姿勢を強いられている加奈には 小春が何をしようと抵抗などできない。
+「ね……加奈ちゃん、このままで我慢して。 　お尻にされるの、気持ちよかったでしょう？ 　これもすぐ、気持ちよくなるから」
+「我慢……できないよお、こんなのぉ…………」
+「どうして？」
+「どうして、って…… 　私の、大事な……漫画の道具……… 　こんな、使い方……嫌なのぉ…………」
+「ああ……そういうこと。 　漫画以外のことに使われるのが嫌なのね？」
+加奈は、目元にうっすら涙を浮かべて頷いた。
+「いいわ、それじゃあ加奈ちゃんの言う通り、 　本来の目的に使わせてあげる……」
+小春は言って、加奈が机の上に置いている 描きかけの原稿を手に取った。
+「ねえ、加奈ちゃんのお尻の羽ぼうきって、 　消しゴムのカスを払うのに使うのよね？」
+「そ、そう……だけど…………」
+「くす……良かった、当たってて」
+言って、小春は描きかけの原稿の中から ペン入れが終わっているものを選んで、 下書きの鉛筆線を消し始めた。
+「あ……私の原稿…………！」
+「大丈夫よ、加奈ちゃん。 　私、漫画のことはちょっとだけ知ってるわ。 　変なことはしないから……」
+──そして、一枚。 小春は、原稿の下書きを綺麗に消し終えた。
+原稿には、細かい消しゴムのカスが いくつもこびりついていた。
+「……たくさんくっつくものなのね。 　これ、普通の消しゴムと違うのかしら？」
+「げ……原稿、傷めないように………… 　柔らかい、消しゴム……使うから……」
+「ああ、だから羽ぼうきが要るのね……」
+小春は呟きながら、 原稿を手にして加奈の背後に回る。
+「……さ、いいわよ、加奈ちゃん」
+「い、いいって……何が…………」
+「原稿、こうして持っていてあげるから。 　……お尻に挿した羽ぼうきで、 　消しゴムのカスを払って」
+「えっ……！？　そ、そんな…………」
+「ほら、加奈ちゃん。早く。 　加奈ちゃんの望み通りにしてあげてるんだから」
+「か、加奈は………… 　そんなつもりで言ったんじゃなくて……」
+「早くしなさいっ！」
+「………………」
+いつまでも口答えを続けて小春を怒らせると、 必ず今以上に酷い目に遭う──
+──加奈はそのことを、これまでの調教で 嫌というほど思い知っていた。
+だから最後は、黙って従うしかなかった。
+「………………ん、くっ…………」
+脚が、尻が──小刻みに震える。
+震えながらも、菊座に挿された羽ぼうきを 加奈は原稿に近付けていった。
+「そう……そうよ加奈ちゃん、それでいいの。 　さ、お尻を左右に振って…………」
+「……んうっ…………」
+言われたとおりに、加奈は尻を左右に振る。
+原稿に触れた羽ぼうきがゆらゆらと動いて、 消しゴムのカスを落としていく。
+「……ん、う…………っく、う…………」
+「……どうしたの？　加奈ちゃん。 　すっごく辛そうな顔してるわよ……？」
+「だ、だって…………お、お尻の中で…… 　羽ぼうきの、柄が……動いて……」
+「……気持ちいいの？」
+「えっ……」
+「私の指でされた時は、気持ちよかったのよね？ 　なら、これだって気持ちいいはずだわ……」
+「そ、そんなこと……言われても…………」
+「さあ、続けて。 　原稿、まだ綺麗になってないわ」
+「……う…………」
+──加奈は、尻を振り続けた。
+右に、左に、羽ぼうきが動いて、 原稿にこびりついていた消しゴムのカスが、 一つ、また一つと落ちていく。
+「……さ、一枚目は綺麗になったわ。 　加奈ちゃん、次は…………」
+二枚目ね、と、小春が言おうとした時だった。
+「…………えっ……？ 　小春……さん、終わり……ですか……？」
+加奈が、急に口を開いた。
+「も、もう少し……続けさせて………… 　お尻、なんだか……むずむずして…… 　熱くて…………何だか、その……」
+それを聞いた小春が、くすっと笑う。 ──狙ったとおりの反応だった。
+「……あら、そう。 　じゃあ、もう少し続けてごらんなさいな」
+そして再び、小春は原稿を突き出す。
+加奈は、その原稿に羽ぼうきを擦り付けていった。
+「は、あッ…………ん、っう………… 　あ、ヤっ……加奈の、お尻が……っ、ア……」
+──加奈の尻の中で、細くて硬い羽ぼうきの柄が ゆらゆら、ゆらゆらと動き続ける。
+「ん…………っ、くんッ…………ん……」
+やがて羽ぼうきは、 横だけでなく縦にも動き始めた。
+加奈の菊座が、 刺激を求めて収縮を繰り返しているのである。
+そして、菊座が動けば当然──
+「まあ、加奈ちゃんったら……いやらしい。 　開きっぱなしの大事なところが、 　ひくひく、ひくひく動いてるわよ……？」
+──小春の言う通りだった。 テープを貼られて、左右に開かれたままの 加奈の秘裂も、ひくひく、ひくひくと蠢いている。
+そして、秘裂が動く度に、 ねとつく潤みがとろとろと溢れ出してくる。
+「…………くすくす…… 　いやらしくて、素敵な眺め……」
+小春は呟くが、もう加奈には聞こえていない。
+「はっ、あ…………あン、っう………… 　やあ、へ……変な感じ、何これっ………… 　止まらない……止まら……ないの…………っ」
+加奈は、頬を朱に染めて── ただ、行為に没頭していた。
+「ふふ……いやらしい子ね、加奈ちゃん。 　優しい刺激なら、お尻でもあそこでも 　気持ちよくなれるのね……」
+小春が、呟く。
+「加奈ちゃん……ね、今度から、思い出して。 　漫画を描く度に…………」
+「羽ぼうきでも、ペン軸でも、鉛筆でも…… 　あなたの、いやらしい穴に入るのよ……」
+「気持ちよくなれる道具は、 　どこにだって、たくさんあるんだから……」","...There, it`s done. How cute, it`s like you`ve grown a tail...
+ Koharu had shoved the handle of a feather duster inside Kana`s anus, and now giggled as she caressed Kana`s butt.
+ N-No... Don`t put that inside Kana`s butt... Take it out, Koharu-san...
+ Kana begged. Her hands were bound by the cuffs Koharu had brought, making her unable to remove the duster inside her anus.
+ My... But weren`t you happy when I showing you some love with my hands earlier?
+ Koharu kept giggling, obviously having fun.
+ You say it feels weird, but... teehee, you`ve loosened your butt and are even moaning quite nicely.
+ That`s... true, but...
+ ...Look. There`s so much of your naughty juice flowing out of your precious little place...
+ Koharu spread Kana`s pussy open. She was indeed correct: Kana was soaked in juices.
+ Teehee, what a view. Right, let me get some tape so we can keep it spread open like this...
+ Forced into an awkard posture, Kana could not resist whatever Koharu wanted to do.
+ Hey, Kana-chan, keep enduring this. Your butt felt good, right? Soon enough, anal will also feel good to you.
+ Kana can`t... endure this...
+ Why not?
+ Why...? Because Kana doesn`t like to have... the stuff she uses to make manga... being used like this...
+ Oh, so that`s how it is. You don`t want them used for anything other than manga?
+ Kana nodded, with tears forming on the corner of her eyes.
+ Very well, then as you wish, I`ll use them for their original purpose...
+ Having said that, Koharu picked up Kana`s unfinished manuscript on top of the table.
+ Say, you use the duster in your butt to wipe away eraser dust, right?
+ Y-Yes, but...
+ Teehee... Good, I was right, then.
+ Then, Koharu chose a panel Kana had finished inking and began erasing the pencil lines on it.
+ Ah... Kana`s manuscript...!
+ Don`t worry, Kana-chan. I do know a bit about manga, so I won`t do anything funny.
+ With that, Koharu had perfectly cleaned the draft from one of the pages.
+ Quite a bit of eraser dust remained stuck on the paper.
+ There`s quite a lot of dust. Is this some sort of special eraser?
+ Kana uses... a super soft eraser... that won`t damage the manuscript...
+ Ah, so that`s why you use a duster.
+ Koharu positioned herself behind Kana.
+ Now, go on, Kana-chan.
+ Wh-What do you mean, go on...?
+ I`ll hold the manuscript this way. ...Now, use the duster in your butt to wipe the dust away.
+ Wha-?! Th-That`s...
+ Come on, Kana-chan, hurry up. I`m merely doing what you wanted.
+ That`s not... what Kana meant...
+ Hurry up and do it!
+ ...
+ If she kept talking back and upsetting Koharu, Kana would have to go through something much worse.
+ This was a lesson she had learned many times during her training.
+ Which is why she had no choice but to obey.
+ ...Hnngh, kh...!
+ Her entire lower body trembled.
+ Even so, Kana made the duster inside her anus approach the manuscript.
+ Good... very good, Kana-chan. Now, move your butt left and right...
+ ...Mnnnh!
+ Kana did as instructed.
+ The duster touched the manuscript and wiped away some of the eraser dust.
+ ...Mnn, gh... khah... ugh...
+ What`s wrong, Kana-chan? You look like you`re suffering.
+ W-Well... the duster`s handle... keeps moving inside Kana`s butt...
+ ...Does it feel good?
+ Huh?
+ It felt good when I did it with my fingers, right? So this should feel good, too.
+ E-Even if you say that...
+ Now, continue. The manuscript`s still dirty.
+ ...Ugh...
+ Kana kept shaking her butt.
+ With every shake of Kana`s butt, the duster wiped away the eraser dust, little by little.
+ That`s one page cleaned. Next up, Kana-chan...
+ Just as Koharu was going to mention a second page-
+ ...Huh...? Koharu-san... is it over...?
+ Kana suddenly spoke.
+ L-Let Kana do it a bit more... Her butt feels kinda itchy and hot... Kana doesn`t know how to say it...
+ Koharu giggled when she heard that - she`d gotten her intended reaction.
+ ...My, is that so? Then I`ll have you keep going for a while longer.
+ Koharu once again held the manuscript in place.
+ Kana resumed wiping it with the feather duster.
+ Hahn, aaahn! mmn, nnh... aaahn, no... Kana`s butt is... ahn...
+ The duster`s thin, yet hard handle kept moving inside Kana`s butt.
+ Mn...! kh, mmmmn...!
+ Before long, the duster moved up and down as well as left and right.
+ Kana`s anus contracted over and over, seeking pleasure.
+ Then, naturally, as her anus contracted-
+ My, how dirty, Kana-chan... Your precious little place keeps spasming while it`s wide open...
+ Koharu was right. Kana`s  pussy, spread open with tape, kept twitching.
+ And every time it did so, her juices overflowed.
+ Teehee... What a wonderfully dirty sight...
+ So whispered Koharu, but Kana could no longer hear her.
+ Ahn! ahn, aaahn... mnnnh... no... this feels, weird... what is this...? It won`t, stop...!
+ Kana cheeks were dyed crimson. She was entirely absorbed in what she did.
+ Teehee, you`re such a naughty girl, Kana-chan. See how some nice stimulation can make either hole feel good?
+ Kana nodded.
+ I want you to remember this, Kana-chan. Whenever you draw your manga...
+ You can put your duster, your pen, and anything else in your dirty holes...
+ You can find many things that can make you feel good, and just about anywhere..."
+cg narrator,"──この日を境に、 加奈が漫画を描くペースは急激に落ちた。
+描こうとしても、描けなくなったのである。
+そして──漫画を描くペースと反比例して、 少しずつ、確実に、加奈は淫らな娼婦へと 堕ちていった。","After what happened on this day, Kana became a lot less efficient at making manga.
+ She couldn`t draw even when she wanted to.
+ On the other hand, and directly proportional to her manga skills, her skills as a prostitute steadily improved..."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Ikeda Kana (talking),……用意できましたー☆ お客さん、加奈を指名してくれて 有り難う………………,"...All set! Thanks for asking for Kana, dear customer..."
+Yamamoto Akuji (talking),おう。,Yo.
+Ikeda Kana (talking),あっ……あれれれれれっ？ 娼婦宿のボスのお兄さんじゃない。 どうしたの？,Ah! ...Whaaaaat?! If it isn`t the brothel`s owner! What`s up?
+Yamamoto Akuji (talking),視察ってヤツだよ。 ヒマだったんで、ついでに客として 入ってみたっつー訳だ。,"Just checking things out. I was bored, so I thought I`d  come in as a customer."
+Ikeda Kana (talking),へー、そうなんだー。 そうやって時々来たりするの？,"Hmm, I see. So you do that sometimes?"
+Yamamoto Akuji (talking),いや、客で入んのは珍しいな。 滅多にねぇよ。,"Nah, I almost never come here as a customer."
+Ikeda Kana (talking),ふうん……それじゃあ 目一杯サービスしなきゃダメだね☆,Hmm... Guess Kana`s gotta do her best to service you.
+Yamamoto Akuji (talking),"おう、頼むぞー。
+ ……ところで、 さっき店番のヤツに聞いたんだがな。
+おめー、漫画漫画って言ってた割には ここでマジメに働いてるそうじゃねぇか。","Yeah, please do.
+ ...By the way, I just heard  this from the clerk.
+ You`re all about manga, yet you`re taking your job seriously."
+Ikeda Kana (talking),うんっ、お仕事楽しいしね！ これでも結構稼いでるんだよ。,"Yep, this job`s fun! It pays really well, too."
+Yamamoto Akuji (talking),漫画家になるって夢、もういいのか？,You given up on being a mangaka?
+Ikeda Kana (talking),別に夢捨てた訳じゃないよ。 でも、今はいいの。,"Not really, but Kana`s fine here for now."
+Yamamoto Akuji (talking),セックスするのと漫画描くの、 どっちが好きだ？,"Sex or manga, which one do you prefer?"
+Ikeda Kana (talking),"セックス。
+ ……ってもー、お兄さんってば！ 加奈に何言わせるのよーーー！","Sex.
+ ...Wait, what are you making Kana say?!"
+Yamamoto Akuji (talking),おうおう、そんだけ娼婦やってくれてりゃ 雇ってる方としても心強いな。,"Hah, as your boss, that`s ressauring to hear."
+narrator,"言いながら、悪司は加奈の躰を抱き寄せる。
+すると、加奈は自分から悪司にキスしていった。","Akuji drew Kana closer to him as he spoke.
+ Kana then gave him a kiss on her own."
+Yamamoto Akuji (talking),……む……ぷは。,Mmch... phah.
+Ikeda Kana (talking),へへ……お兄さんと初めて会ったときも こーしてキスしたんだったよね？,"Heheh, we kissed like this when we first met, didn`t we?"
+Yamamoto Akuji (talking),そうだったか？,Did we?
+Ikeda Kana (talking),"あのね、お兄さん。 加奈ね、今はセックスも漫画も 同じくらい好きなの。
+だから、私、 両方楽しめるエロ漫画が描きたいの……","Mister, right now, Kana  likes sex as much as she likes manga.
+ Which is why I want to draw porn manga..."
+narrator,"話しながら、加奈は悪司の股間に手を伸ばす。
+そして、まだ硬くなっていないものを ズボンの上から優しく愛撫していく──","Kana reached for Akuji`s crotch.
+ She then began to lovingly caress his dick through his pants."
+Ikeda Kana (talking),"だからね…… 今は、そのために勉強中なんだ……
+お願い……お兄さん。 加奈で、いっぱい遊んでね。 そして……
+ ……加奈に、漫画のネタを いーーーっぱいちょうだいね☆","So I`m studying for that right now...
+ Please, mister. Play lots with Kana. And then...
+ ...Give her loooots of ideas for her manga!"
+Yamamoto Akuji (talking),わざわざ言うことか。 どうせセックスするんだ、 タネならいっぱいやるぞ。,"No need to say it. We`re gonna fuck either way, so you`ll get a lot of ideas."
+Ikeda Kana (talking),"やん、お兄さんってばお下品…………
+ …………あ…… んっ、ふあ………………ンっ…………","Wow, you`re so vulgar, mister...
+ ...Ahn... mn! fwah..."
+cg narrator,"──前戯など、ほとんど必要なかった。
+「ん、っ………………っあ、ひあっ…………！ 　やっ、すご……入っ…………っ、はアっ！」
+加奈の躰は男を迎え入れる用意を早々にすませ、 悪司のものをあっさりと呑み込んでいく。
+「す、ご……凄いよぉ、お兄さんの………… 　加奈の……加奈の奥、当たって……」
+「ふーん。おめー、奥が好きか？」
+「う、ん…………好き…… 　加奈、深いの……好き…………」
+「そうか、じゃ、その辺擦ってやらあ」
+「えっ…………あ、ひあああああッ！！」
+悪司は、加奈の最も奥に自分の先端を擦り付け、 突き、揺すり、責め立て続けた。
+　　［ぐぷ、じゅぷ、ずぶ…］
+悪司が腰を揺する度、加奈の秘裂が音を立てる。 淫らな潤みをとめどなくこぼし続ける。
+「や……やだぁ…………凄い音、してるぅ…… 　えっ…………ち、すごい……えっち…………」
+「お前、ホントに奥が好きなんだなー」
+「う、ん………… 　加奈の、なか…………いっぱいで、 　何も、考え……られなくて…………だから……」
+「解るような、解らんような理由だな」
+「す……ごい、すごいよおっ、お兄さんっ…… 　見て、ここ……触って、 　加奈の脚まで……べとべとしてる…………」
+「おう、かなり濡れてんなあ」
+「加奈ね……いつもは、もっと………… 　……こんなに、濡れたこと、ない…………」
+「そーかそーか、感じてるのか？」
+「う、ん…………すっごく…… 　有り難う…………」
+「いいことだ。 　まだまだ、目一杯感じさせてやっからな」
+「……えっ、あ、そんなダメっ、加奈が……」
+加奈が何か言いかけたが、悪司は構わずに 胎の奥をズンと強く突き上げた。
+「……やはあああっ！！ 　やン、や……あァうんッ！！　ふやああっ！」
+悪司の突き上げに、加奈の躰が翻弄される。 白くて細い躰が、がくがくと揺れる。
+「やあ、や……ふあやっ、あああっ……！」
+「いい声だぜ。 　喋り声は甲高いけどよ、おめーの喘ぎ声は 　可愛らしくていい感じだ」
+言いながら、悪司は細かく腰を揺する。 揺すりながら、加奈の躰をくまなく撫で回す。
+悦楽に、加奈の躰が溶けていく──
+「や、だ…………あああッ、っううンッ！ 　ち、から……抜けちゃ……っう！　ああっ！ 　だめ、だめ…………これじゃダメえっ……！！」
+「……んだよ、ノッてきたとこで。 　何がダメなんだ？」
+「か、加奈……加奈がしてあげるのぉっ…………！ 　お兄、さん……お客さん、なのにいっ……」
+「は。なーんだ、んな事かよ。 　気にすんな、俺はこっちの方が性に合ってんだ」
+必死で自分から躰を動かそうとする加奈だったが、 悪司に軽く腰を揺すられると、もう何もできない。
+「ひっ……！　ひゃあああああんっ！ 　や、だ……ダメ、ダメええっ…………！ 　気持ち……よく、しないで……っああっ！！」
+「あーもう、ゴチャゴチャ言わなくていいって。 　雇い主からのごほうびだと思えや」
+「ひアっ……！　あっ、ああっ、あハ……アっ！ 　あああああっ……っく！　んっ！　ああっ！」
+もう、悪司のなすがままだった。 加奈はただ、行為を受け止めるだけになっていく。
+「やあっ……ああっ、き、も……気持ちいッ……！ 　すご……あ、やあっ、頭が……ふやあっ！ 　……あ、加奈の……頭の中っ……！」
+「……頭？　頭がどうかしたか？」
+「お兄さんが……突く度…………っア！ 　し、痺れて……だめ、だめえええっ……！ 　えっち…………えっちなの……ふやあっ……！」
+「えっちな事しか考えられない、ってか？」
+「ふあ…………ああ、ああああっ……！」
+「いいじゃねぇか、仕事忘れて耽っても。 　何回でもイッていいんだぞ、遠慮すんな」
+「う、ん……うんっ、イク…………イかせて……！ 　も、いい…………いい、いっぱいして……！！」
+悪司はもう、言葉では応えなかった。 いきなり激しく腰をつかう。
+「ひ…………ひああああッ！ 　凄い……すごおいっ…………！ 　ああっ、やはあああンっ！　ふやああっ！」
+ぎしぎしと、ベッドが軋む。 その音が、だんだんと激しくなっていく。
+「ああっ、ああっ……やああああっ！！ 　あ、つい……あついいいっ………………！ 　加奈、溶け………溶けちゃ……ふあやああっ！」
+加奈の肌が熱を帯び、汗が乾き始める。 汗だけではなく、秘裂を濡らす淫水も──
+そうした、加奈の匂い──女の匂いが、 部屋の中に、濃密に漂い始める。
+淫らな、匂い。 鼻腔から入り込んで、脳を犯す。
+「やあ、やあああっ……いやらしいよおっ、 　か、な…………加奈、すごいえっちっ……！ 　あああっ、ああっ…………！」
+加奈はもう、何も考えられなかった。
+躰も、頭もぐずぐずになって、 悪司の動きでめちゃくちゃに掻き回されて──
+「と、け……溶けるぅ…………溶けちゃうううっ！ 　お……お兄、さんと……混ざっ…………！！」
+──うわごと。 肌を重ねた部分で、悪司と混ざり合うような錯覚。
+「き、え……消えちゃ……加奈、加奈が……！！ 　ああっ、もうダメ、もうダメ……ダメええっ！ 　イク、イクのっ……イクうっ…………！」
+「ああっ、あああっ、あああああああああっ！！ 　ひやああああああああああっ───────！」","Barely any foreplay was necessary.
+ Mn...! ahn, hyaaahn! W-Wow, amazing...! I-It`s going in...!
+ Kana`s body quickly got ready to welcome a man, and promptly swallowed Akuji`s dick whole.
+ A-Amazing... Your dick`s amazing, mister... I-It`s reaching so deep inside Kana...
+ Hmmm. You like it deep?
+ Y-Yeah... Kana likes it deep...
+ Alright, I`ll grind against it, then.
+ Huh?! ....Ahn, hyaaaaaaaaaahn!
+ Akuji thurst, rubbed and pounded against Kana`s depths.
+ 　　*Chhhrlp, sllllsh, schhhp*
+ A wet noise could be heard whenever Akuji moved. Kana`s juices kept on overflowing.
+ N-No... Th-The nois is so dirty... It`s... way too lewd...
+ You really do like it deep.
+ Yeah... Because... when Kana gets all filled up... she can`t think about anything else...
+ I`m not sure I get it.
+ I-It`s amazing, mister...! Look... touch here. Even Kana`s legs... got all sticky...
+ Yeah, you`re pretty damn wet.
+ Kana is never... like this... never this wet...
+ I see, so you`re feeling it?
+ Y-Yeah, a lot... Thanks...
+ Good. I`m gonna make you feel a lot more yet.
+ ...Eh?! You can`t, Kana will...
+ Not caring about what Kana had to say, Akuji powerfully thrust against her depths.
+ Yaaaaaahn! aaaahn, aaaauuuunh! fwaaaaahn!
+ Kana`s thin body was at Akuji`s mercy after his thrust, shivering all the while.
+ Yaaahn, fwaaaaahn! aaaaahn!
+ Nice moans. Your speaking voice`s pretty shrill, but your moans are nice and cute.
+ Akuji shook Kana`s slender hips and caressed her every nook and cranny as he spoke.
+ Kana could feel her body melt from the pleasure.
+ N-Nooo...! aaaaahn! hnnnngh! K-Kana`s body is going limp... mnh! aaaahn! No! Stop...!
+ Oh come on, I was getting into it. Stop what?
+ K-Kana`s supposed to do it... You`re her customer...!
+ Hah, that`s what you meant? Don`t worry about it, I like it better this way.
+ Kana desperately tried to do the moving, but the smallest thrust from Akuji rendered her unable to do so.
+ Hyaaahn! hyaaaaaaaaaahn! N-No... nooooooo! Don`t make me... feel good...!
+ Enough, quit complaining. Think of it as a reward from your boss.
+ Hyaaahn! ahn, aaaaahn, aheh... aaaaaahn! kh! hnnngh!
+ Kana was completely at Akuji`s mercy. All she could do was accept what he did to her.
+ Yaaahn...! aaaahn, it feels, so good! A-Amazing... yaaaahn! K-Kana`s head... Kana`s head is...!
+ ...Your head is what?
+ Every time you thrust... it goes all numb... s-stoooop! K-Kana can only think about fwaaaahn!
+ You can only think about sex, is that it?
+ Fwaaahn... aaaaaaahn!
+ It`s fine, forget about work and indulge yourself. Go on and cum as much as you want.
+ O-Okay... Kana`s cumming... make her cum! M-Make her... cum lots...!
+ Akuji responded not with words, but with intense thrusting.
+ H-Hyaaaahn! Amazing, amaziiiing...! aaahn, yaaaaaahn! fwaaaaahn!
+ The bed creaked ceaselessly, and the noise only became more intense.
+ Aaahn, aahn, yaaaaaahn! I-It`s so hooooot...! K-Kana`s meltiiiiing! fwaaaahn!
+ Kana`s skin became flushed, and both her sweat and her juices started to become dry.
+ With that, the room became permeated with her womanly smell. 
+ It was a strong, lewd smell that assaulted one`s senses.
+ Yaaaaahn! Th-This is so dirtyyyyy! K-Kana feels so lewd...! aaaaaahn!
+ Kana could no longer harbor coherent thoughts.
+ Her mind and body weakened as she was stirred up by Akuji.
+ K-Kana`s melting... she`s meltiiiiing! She`s mixing with misteeeeeer...!
+ Kana spoke nonsense. She felt as if her body was mixing with Akuji`s at the hips.
+ K-Kana`s... gonna disappear...! aaaahn! no more, no mooooore! Cumming, cumming cumming cumming...!
+ Aaahn! AAAAAAAAAAAHN! HYAAAAAAAAAAAAAAAAAAAAAAHN!"
+cg narrator,"──加奈は、更に堕ちていく。 夢を捨て、顧みず、ただ堕ちていく──
+ぐずぐずに溶けた自分の躰が── 男との交わりが与えてくれる、悦楽の底に。","Kana fell even further. She discarded her dreams without looking back...
+ ...and simply fell into the abyss of pleasure."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Yamamoto Akuji (talking),"ふーん、この辺は爆撃激しかったから 廃墟しかねぇって聞いてたんだが……
+どっこい、逞しいもんじゃねえか。 バラックが大量に建って 元気良く商売してらぁ。
+どれ、俺もいっちょ、 うどん屋でかけでもすすり込んで 街の復興に協力するかぁ。","Hmm, I did hear this area was nothing but ruins, but...
+ These people are pretty sturdy. They`ve set up a bunch of shacks and are happily doing business.
+ Guess I`ll find someplace to eat and help out with revitalizing the town a bit."
+narrator,　「くっ、食い逃げだー！　待てーーー！」,”D-Dine-and-dasher! Stoooop!”
+Yamamoto Akuji (talking),"………食い逃げ？
+ ………………
+ま、いいや。どうせ軽犯罪だし。 今は腹満たすのが先だ。
+ ……ん？","...Dine-and-dash?
+ ...
+ Eh, whatever, it`s a small crime. Eating takes priority right now.
+ ...Hm?"
+Ikeda Kana (talking),………………,...
+Yamamoto Akuji (talking),何だねーちゃん、 いつからそこに居た？,"Hey missy, how long have you been there?"
+Ikeda Kana (talking),ついさっき。 トテチテタ~と走って来たわ。,Since just now. I came running.
+Yamamoto Akuji (talking),んじゃトテチテタ~と走り去ってくれ。 おめーがそこに居ると うどん屋に入れねぇからよ。,Then run out of the way. I can`t get into that udon joint with you there.
+Ikeda Kana (talking),そう言わずに三分、ううん一分でいい。 加奈のために時間割いてくんないかな？,Don`t be like that. Can you spare a minute for ol` Kana?
+Yamamoto Akuji (talking),はぁ？　おめー何言って…… ………………っぶ…………！,Huh? What`re ya talk- bwuh!
+narrator,"その娘は悪司の首根っこへいきなり腕を回すと、 抱きつき、無理矢理キスしてきた。
+そして、背後から誰かが走り寄ってくる──","The girl suddenly wrapped her arms around Akuji`s neck and forcefully kissed him.
+ Then, someone came running behind them-"
+ten'in (talking),"……ちっくしょう、あの食い逃げ女！ どこ行きやがったんだいっ！
+あっちかい？！　そっちかい？！！ えーい、逃げ足の速いーーーーー！","Damn that dine-and-dasher girl! Where did she go?!
+ Over there, maybe?! Dammit, she`s too good at escaping!"
+Yamamoto Akuji (talking),……………………,...
+Ikeda Kana (talking),……ふう、作戦大成功。 なんとか敵の目を欺けたみたい。テヘ☆,"Phew, the plan was a success. I managed to elude my enemy. Teehee."
+Yamamoto Akuji (talking),おい、ねーちゃん、 おめーまさか食い…………,"Hey missy, could you be the dine-"
+Ikeda Kana (talking),"すとおっぷ、それ以上は言わないで！
+加奈みたいなうら若い乙女と タダでキスできたんだし、ねっ？ サラッと見逃してやってよ、サラッと。
+ね、ね、ね、ね、ね、ね？ おねが~~~~~~~~~~~い☆","Stop! Not another word from you!
+ You got to kiss a lovely young maiden like Kana, no? Then just turn a blind eye to it.
+ C`mon, will you? Will you? Pretty pleeeease?"
+Yamamoto Akuji (talking),まあ別に……食い逃げの一つや二つ、 見逃してやるけどよ。,Whatever... I can overlook a dine-and-dash or two.
+Ikeda Kana (talking),"ありがとーーーーーー！ いやぁお兄さん、いい男っぷりねぇ☆
+よし、その男っぷりに 加奈がご褒美をあげましょう。 はい！","Thaaaanks! Geez, mister, you`re such a good guy!
+ Alright, Kana will give you a reward for being a good guy!"
+narrator,"そう言って、娘はポケットに入れていた 大きな缶詰をひとつ、悪司に手渡した。
+サバ缶だった。","Kana produced a large can of food from her pocket and handed it over to Akuji.
+ It was a can of mackerel."
+Yamamoto Akuji (talking),……これも万引きしたのか？,"...Did you steal this, too?"
+Ikeda Kana (talking),失礼ね、多分ちゃんと買ったわよっ！,"How rude, I did buy that! Maybe!"
+Yamamoto Akuji (talking),多分って、なあ、お前…………,"Maybe? Listen here, you..."
+Ikeda Kana (talking),仕方ないじゃない。 今のご時世、画材は激高なんだもん。 ケチれるところはケチらないと。,"I can`t help it. Art supplies cost a fortune these days, so I gotta save money however I can."
+Yamamoto Akuji (talking),は？,Huh?
+Ikeda Kana (talking),"おっと、これ以上はヒ・ミ・ツ☆ 行きずりの人に教えられるプライバシーは 持ち合わせてないの。
+じゃあね、お兄さん。さよならっ。 ……あ、キスすっごく上手だったよーー！","Oops, that`s a secreeeet. Can`t go around telling my personal matters to strangers.
+ See ya, mister. Farewell! ...Oh, and you were great at kissing!"
+Yamamoto Akuji (talking),…………何なんだ、ありゃ。,...The hell was that?
+narrator,"その日、昼下がりの水陸両用は客足も絶えていた。
+店にいるのは店主の民華と、 遅い昼食を摂りに来た悪司のみで、 二人は自然と四方山話に花を咲かせていた。","As the sun went down, Amphibious became empty.
+ The only ones left were Minka and Akuji, who was having a late lunch. They were talking about various things."
+Haku Minka (talking),……ははっ、おっかしいね。 そーいう事ってあるんだねー。,"Hahaha! That`s so funny! So that can happen too, huh?"
+Yamamoto Akuji (talking),おう、笑っちまうだろ？ で、ここからがケッサクでよー……,"I know, right? And here`s the best part-"
+Haku Minka (talking),………あ、山本さん、ちょっと待って。 お客さんが来たみたい。,"...Oh, hang on, Yamamoto-san. A customer`s here."
+Yamamoto Akuji (talking),そんなコトいちいち断んなくていーよ。 客の方に行ってきてくれや。,"You don`t have to tell me, go to them."
+Haku Minka (talking),ありがと、ごめんね。,Thanks.
+Haku Minka (talking),はーい、らっしゃーい。 ご注文、お決まりでしたらどうぞー。,Welcome! May I have your order?
+Ikeda Kana (talking),うん、えーっとね……じゃ、ゾック丼。,"Hmmm, I`ll have a zock bowl."
+Haku Minka (talking),はーい、ゾック丼一丁入りまーす。,"One zock bowl, coming right up."
+Yamamoto Akuji (talking),"……………… 何か、見覚えあんぞ、あの女の客……
+ ……なぁ、民華さん。","... She looks familiar...
+ ...Hey, Minka-san."
+Haku Minka (talking),ん？　どうかした？,Hm? What`s up?
+Yamamoto Akuji (talking),悪ィけど、ちと裏口使わせてくれ。 こっそり外に出とくからよ。,"Sorry, but lemme use the back door. I wanna leave quietly."
+Haku Minka (talking),へっ？　仕事に戻るの？ だったら別に裏口じゃなくても……,Huh? You`re going back to work? But then why use the back-
+Yamamoto Akuji (talking),いや、まだ戻んねーよ。 こいつは予防線ってヤツだ。,"No, I`m not going back yet. Think of this as a defensive line."
+Haku Minka (talking),……？,...?
+Yamamoto Akuji (talking),ま、何もなきゃそれで御の字なんだがな。 とにかく民華さんはフツーにしててくれ。,"It`s best if I`m wrong, though. Anyway, just keep acting normal."
+Haku Minka (talking),…………変なの。,...Weirdo.
+narrator,訝しみながらも、民華は見事な手際で いつも通りの美味しいゾック丼を作り上げた。,"While she was still suspicious, Minka finished making her excellent zock bowl."
+Haku Minka (talking),はーい、お客さん。おまちどうさまっ。,Sorry for the wait!
+Ikeda Kana (talking),"わ……美味しそう！ いっただきまーーーーす！
+ばくばくばくばくばくばくばく……
+はむはむはむはむはむはむはむ……
+ばりぼりばりぼりばりぼりばり……","Wow, that looks delicious! Kana`s digging iiiin!
+ Nom nom nom nom nom...
+ Munch munch munch munch...
+ Crunch crunch crunch..."
+Haku Minka (talking),……くすっ、お客さん。 そんなにがっつかなくってもさ、 ゾック丼は逃げたりしないってば。,"...Heehee, you don`t have to be so quick, dear client. The bowl`s not going anywhere."
+Ikeda Kana (talking),…………………… 丼は逃げなくても、加奈は逃げるもん。,"...The bowl may not, but Kana sure is!"
+Haku Minka (talking),へっ？,Eh?
+Ikeda Kana (talking),ごちそーさまでした。 んじゃさようならー！,Thanks for the meal. See ya!
+Haku Minka (talking),"………………へっ？　あ…………
+……ああああああああああああ！ くっ、食い逃げーーーーーーーっ！！","...Huh? Oh...
+ ...AAAAAAAHHHH!!! D-Dine-and-dasheeeer!!!"
+narrator,民華は慌てて、 食い逃げ女の後を追おうとしたが──,"Minka hurriedly chased after the dine-and-dasher girl, but..."
+narrator,──食い逃げ娘は、店のすぐ前で 頭に巨大なたんこぶを作ってひっくり返っていた。,"...She was already on the floor in front of the shop, with a huge lump on her head."
+Ikeda Kana (talking),……………………むきゅう………………,...Mukyuuh...
+Haku Minka (talking),あ……あれ？　何で…………,O-Oh? Why is...?
+Yamamoto Akuji (talking),ったく、予防線張っといて正解だったな。,"Man, so I was right."
+Haku Minka (talking),山本さん？　あれ、なんで？？？,Yamamoto-san? Why are you here???
+Yamamoto Akuji (talking),ま、細かいことは後で説明するよ。 ……おいこら、起きろ、食い逃げ女。,"I`ll explain later. ...Hey, wake up, dine-and-dasher."
+Ikeda Kana (talking),"う…………ううううう…………？
+ …………ああっ！ こないだ私を見逃してくれたお兄さん！","Ugh... whuh...?
+ ...AAH! You`re the guy who let me go the other day!"
+Yamamoto Akuji (talking),おう、また会うとは思わなかったな。,Didn`t expect to see you again.
+Ikeda Kana (talking),なっ、なんでよー！ こないだは見逃してくれたのにー！,"C-Come on, you let me go the last time, so why?!"
+Yamamoto Akuji (talking),"バカタレ、他じゃ見逃しても 愛する女房の店だきゃあ別だ。
+つーわけで、食うモン食ったんだ。 きっちり払うモン払えや、コラ。","Dumbass, I`m not letting you do this shit to the woman I love.
+ Anyway, you`ve had your meal, so it`s time to pay up."
+Ikeda Kana (talking),そっ…………そんなぁ……,N-No way...
+Yamamoto Akuji (talking),あぁん？！　何がそんなぁだコラ！ 水陸両用の料理はどれもこれも値段以上に 美味いだろうが、代金ケチんじゃねえ！,"Huuuh?! Don`t give me that! Amphibious` cheap for how good its food is, quit being stingy!"
+Ikeda Kana (talking),……だって………… 加奈、最初からお金持ってないもん……,But... Kana doesn`t have any money to begin with...
+Yamamoto Akuji (talking),"………ぶちぶちぶち（血管の切れる音）。
+民華さん、無念は俺が晴らす。 この女、今すぐ処刑してくるわ。","...*Snap!*
+ Minka-san, I`ll make things right. I`m gonna bump her off."
+Haku Minka (talking),"ちょ、ちょっと待ってーーーー！ 山本さん、話が急すぎるってば！
+ …………ね、ほんとにお金ないの？","H-Hold on a sec! That`s too much, Yamamoto-san!
+ ...You really don`t have money?"
+Ikeda Kana (talking),うん、三日前から何も食べてない……,"Yeah, I haven`t eaten in 3 days."
+Yamamoto Akuji (talking),その割に顔色いいじゃねぇか、 このクサレ犯罪者め。,"Looking too good for that, you dirty fucking criminal."
+Haku Minka (talking),"……とにかく、 今回だけはその話、信じてあげる。 期限なしでツケにしとくね。
+そのかわり、同じ事もう一回やったら、 そん時は容赦なくガツンだよ？","...Anyhow, I`ll believe you this one time. I`ll put it in your tab.
+ But if you do it again, there`ll be hell to pay, alright?"
+Ikeda Kana (talking),ゆっ……許してくれるの！？ ありがとーーーーーーーー！！,Y-You`re forgiving me?! Thank you!
+Yamamoto Akuji (talking),うーん、罪を憎んで人を憎まず…… さすが民華さん、俺の妻だ……,"She hates the crime, but not the criminal... Now that`s my wife."
+Haku Minka (talking),なっ……何言ってんの、もう……,Wh-What`re you saying?! Geez...
+Ikeda Kana (talking),……そうだ！　許してくれたお礼に、 私の描いたマンガ見せてあげる！,"Right! As thanks for forgiving me, Kana will show you her manga!"
+narrator,彼女は突然言って、 持っていた原稿専用のケースから 分厚い紙の束を取り出した。,"Kana spoke suddenly, then took a thick bundle of paper out of her briefcase."
+Ikeda Kana (talking),……はい、どーぞ！,Here you go!
+Haku Minka (talking),あ、えっと……は？,Um... okay?
+Ikeda Kana (talking),"加奈はね、漫画家なの。 今は苦労してるの。若いから。 でもいずれ大成するの！
+つまり、この生原稿は いずれ一枚何十万っていう超高値で 取り引きされるようになるの！
+だから、生原稿の見物料だけで ご飯の代金分くらいの価値には なるはずよ！","Kana`s a mangaka, you see. She`s going through some problems right now, but she WILL hit it big!
+ In other words, those sheets will soon be worth tens of thousands of yen each!
+ So showing you my manuscript should be worth enough to cover for my meal!"
+Yamamoto Akuji (talking),ほー、でけぇ事言うじゃねぇか。 どれ、俺にも見せてみろよ。,"Hah, those are some big words. Lemme have a look as well."
+Ikeda Kana (talking),…………あ、それ生原稿だから 手の油つけないように注意してね。,"...Um, this is my manuscript, so careful not to dirty them."
+Yamamoto Akuji (talking),手の油って、 別にそうそうつくもんじゃねぇだろ。,"My hands ain`t dirty, relax."
+Ikeda Kana (talking),"つ・く・の！ ちょっとの汚れが原稿にとっては 命取りなんだから！
+こうやってこうやって、 隅っこを指の腹でそっと支えて持って！","That`s what you think! Even a little smudge is lethal to a manuscript!
+ You gotta hold it gently on the edges like this!"
+Yamamoto Akuji (talking),んだよ、めんどくせえな……,What a pain in the ass...
+Ikeda Kana (talking),あーーーー！ そうやって乱暴にしないで！ 生原稿なのよ、折ったら殺すからね！,AAAAAH! Don`t be so rough with it! Kana will kill you if you rip it!
+Yamamoto Akuji (talking),"へいへい……
+ ………………","Yeah yeah...
+ ..."
+Ikeda Kana (talking),……どう？　面白いでしょ？ 続きが気になるでしょ？,"...So? Fun, isn`t it? You want to read more, right?"
+Yamamoto Akuji (talking),"…………………………
+ ………………なあ、 民華さんはどう思う？","...
+ ...Hey Minka-san, what do you think?"
+Haku Minka (talking),な、なによ山本さん…… こっちに話振らないでよ……,"C-Come on, don`t pass this onto me..."
+Yamamoto Akuji (talking),……そーだよな、やっぱつまんねぇよな。,Figures. This shit sucks.
+Ikeda Kana (talking),…………むっ、むっかーーーーーー！！ 何よその言い方、何よその態度！,...WH-WHAT?! What the hell is wrong with you?!
+Yamamoto Akuji (talking),だっておめー、つまんねぇもんは 他に言い様ねぇだろうが。,"I mean, there` no other way to describe this."
+Ikeda Kana (talking),"さっ、サイテーよ！ あなた達も、加奈のねえさんと一緒で 加奈の才能が理解できない旧人類なのね！
+マンガはフロンティアなの！ 可能性の探求なの！ ぽしびりてぃがえくすぷろーじょんなの！","Y-You suck! You`re just unable to comprehend Kana`s genius, exactly like her sister!
+ Manga`s all about pushing boundaries and exploring endless possibilities!"
+Yamamoto Akuji (talking),訳わかんねぇぞ。,I don`t get it.
+Ikeda Kana (talking),"と・に・か・く！ マンガに偏見持ってる人と 一緒に居たくないっ！
+加奈、もう帰る！ 原稿返して！
+ふーんだっ！","ANYWAY! I don`t wanna be with people who are biased against manga!
+ Kana`s leaving! Give her back her manuscript!
+ Hmph!"
+Yamamoto Akuji (talking),………………なんだありゃ。,...The hell was that?
+Haku Minka (talking),……多分 思い込みの激しい年頃なんだね……,...She`s probably at a difficult age...
+Yamamoto Akuji (talking),まあアレだ、俺たちにガキができたら あんなバカになんねぇように 気をつけようぜ。,"Well, if we ever have a kid, we better make sure they don`t end up like that dumbass."
+Haku Minka (talking),……ば、バカってそんな…… 言い過ぎだよ、山本さん……,D-Don`t call her that! That`s going too far!
+Yamamoto Akuji (talking),じゃ、あんな風に育ててみっか？,So we let the kid become that way?
+Haku Minka (talking),……………………ごめん、勘弁して……,"...Sorry, but give me a break..."
+__system__??,{☆クロモン = 10:,{☆クロモン = 10:
+__system__??,},}
+narrator,"今日も、クロモン市場は大にぎわいだった。
+その市場の一角にある食堂で──","Kuromon was as lively as always.
+ At one of the shopping district restaurant`s--"
+ten'in (talking),……はいよっ、お嬢ちゃん！ スペシャルミソカツカレーソバ大盛り！,"...Here ya go, a large Special Miso Katsu Curry Soba bowl!"
+Ikeda Kana (talking),"わあ、美味しそーっ！ いっただっきまーす！！
+はむはむずるずるはふはふずびずび、 はむはむずるずるはふはふずびずび……","Wow, it looks delicious! Kana`s digging in!
+ Nom nom nom slurp slurp nom nom nom gulp gulp..."
+ten'in (talking),はははは。 いい食いっぷりだね、お嬢ちゃん。,"Hahahah, you eat well, young lady."
+Ikeda Kana (talking),…………ふー、食べた食べた。 ごちそうさまっ！,"...Phew, Kana`s stuffed. Thanks for the meal!"
+ten'in (talking),はいよ、ありがとうね。 しめて五百────────,"You`re very kind. Now, that`ll be-"
+Ikeda Kana (talking),ごちそうさまったらごちそうさま！ じゃあまたねーーーーーっ！！,I`ll be going now! `Til next tiiiime!
+ten'in (talking),"──────五百三十円頂き…… …………頂き……ま…………
+ ………………くっ、食い逃げーー！！ 食い逃げだよーーーーー！！！","-535 yen... ...wha...
+ ...D-DINE-AND-DASHER!!! WE HAVE A DINE-AND-DASHER!"
+narrator,店のおばちゃんは叫びながら、 奉仕青年団印の入ったラッパを懐から取り出して 力一杯吹きまくった。,"As the old lady shouted, she took out a whistle marked with the YCSG`s logo and blew on it with all her breath."
+ten'in (talking),"奉仕青年団ーーーーー！！ はっ、早く来とくれーーー！
+協力金出してる分くらいは ちゃんと働いておくれよーーーーっ！！","YCSG! C-Come over, quick!
+ Come and earn your paaaaaay!"
+narrator,　　［パパラパパパラパパパラパッパパー…］,　　*FWEEEEEEEEEE!*
+Chinpira (talking),"………………？ どこかで俺たちを呼ぶ声がする……
+事件だ、行くぜっ！ とーーーーーーーーーーうっ！","...? Someone`s calling for us...
+ We`ve got a situation here! Let`s go!!!"
+narrator,──だが、奉仕青年団が駆けつけた頃には、 もう食い逃げ犯の姿は影も形もなくなっていた。,"However, by the time the YCSG arrived, the girl was nowhere to be found."
+joshigakusei (talking),ええっと、それじゃあ、 チェリーパイと、えーっと……,"Hmm, well, I`ll have the cherry pie, and..."
+Kawahara Iori (talking),ああ、すまない。 チェリーパイは全部出てしまって 残ってないんだ。,"Oh, sorry. I already sold the last of the cherry pie; we`re all out."
+joshigakusei (talking),えー！　ショック……,What?! I`m shocked...
+Kawahara Iori (talking),三十分前に来てくれていたら、 ちょうど百個焼き上がった所 だったんだが……,"If you were 30 minutes earlier, you`d have been just in time for the 100th cake to be ready..."
+joshigakusei (talking),"うーん、しょうがないよね…… この店流行ってるし……
+じゃあ、余ってるロングケーキ 一個下さい。","Hmm, can`t be helped... This shop`s popular, after all.
+ Then, I`ll have one of your remaining long cakes."
+Kawahara Iori (talking),はいよ、まいどあり。,"Here ya go, thanks."
+joshigakusei (talking),このロングケーキ、 美味しいのは美味しいんだけど…… 今日も胸焼けかなあ…………,"This long cake`s good, sure... but I guess I`ll have heartburn today as well..."
+Kawahara Iori (talking),"……やれやれ、ケースがほとんど カラになってしまったな……
+夕方の書き入れ時に間に合うか？ ……一旦店を閉めて焼き直すか。","...Damn, the display case`s almost all empty.
+ Can I manage until the peak hours? ...Guess I`ll close up for a bit and bake more."
+Tanzawa Shizu (talking),……へへへ、伊織おにーちゃん。 様子見に来たよ。 繁盛してるみたいだね。,"Heheheh, Iori-onii-chan, I`m here to see you. Looks like business is good."
+Kawahara Iori (talking),志津？,Shizu?
+Tanzawa Shizu (talking),伊織おにーちゃんの指が 一本なくなった時は、本当に、 どうなるんだろうって思ったけど……,"I had no idea what was gonna happen to you when you lost one of your fingers, but..."
+Kawahara Iori (talking),"ああ、俺も不思議でたまらん。
+手にうまく力が入らず、 きちんとケーキが作れなくなって 店をたたもうかとも思ったのに……
+お前の薦めでしぶしぶ続けてみたら、 口コミで客が増え続けてこの有様だ。
+品物は悪くなっているはずなのに、 一体どういう事なんだか……","Yeah, I couldn`t help but wonder, too.
+ Thought I wouldn`t be able to use my hand well enough to make cakes anymore, and I`d have to close up...
+ But I kept going after you encouraged me, and word of mouth got me this popular.
+ My cakes should be worse now, so how`d this happen...?"
+Tanzawa Shizu (talking),"……………… あのね、伊織おにーちゃん。
+今まで言えなかったけど…… 伊織おにーちゃん、ケーキ作るときに 力入れすぎてたんだと思うよ。","... You see, Iori-onii-chan...
+ I`ve kept quiet about it until now, but I think you used to put too much force when making cakes."
+Kawahara Iori (talking),……何？,...What?
+Tanzawa Shizu (talking),"伊織おにーちゃん、力がありすぎるから レシピ通りにやっちゃうと、 生地とか撹拌しすぎちゃうんだよ。
+生地を撹拌してる最中に、 撹拌器とボールとの摩擦熱だけで 一度生地が煮えちゃうんだもん。
+でも今は、 小指のおかげで、ちょうど……","You`re too strong, so when you followed the recipe, you`d end up stirring too much.
+ And while you were mixing, the friction between the mixer and the bowl would boil the cream a little.
+ But thanks to your missing finger, your mixing`s perfect now..."
+Kawahara Iori (talking),それはつまり、今、店が繁盛してるのは 俺の指がなくなったお陰って事か？,"So what you`re telling me is, my shop`s popular because I lost my finger?"
+Tanzawa Shizu (talking),…………多分。,...Probably.
+Kawahara Iori (talking),…………………… 素直に喜べんな……,... Don`t look so happy about it...
+Tanzawa Shizu (talking),"で、でもいいじゃない、 悪いことばかりじゃなくて、ねっ？
+売り上げもわたしの店と同じか、 それより上になってきてるし……","B-But isn`t it nice that there`s an upside to it?
+ You`re making as much as me now, or maybe even more..."
+Kawahara Iori (talking),そうだな、今なら 俺たちが付き合おうが結婚しようが、 商店街の誰も文句は言わな…………,"True, now if we were to date or get married, nobody in the district could compla-"
+Tanzawa Shizu (talking),…………えっ……？,...Huh?!
+Kawahara Iori (talking),あ……いやすまん、 今のは言葉のあやで……,"Oh... Uh, sorry, that was a figure of speech."
+Ikeda Kana (talking),……あー、ここだここだ！ 今評判のケーキ屋さん！ ケーキくださーーーーーーーい！,"...Ah, here it is! The cake shop that`s been popping off! Gimme some caaaaake!"
+Kawahara Iori (talking),"…………丁度いいところに。 いらっしゃい。
+志津、話は一旦終わりだ、また後で。","...Great timing. Welcome.
+ We`ll talk later, Shizu."
+Tanzawa Shizu (thinking),…………あっ……！ こ、この女の子……！！,(...Ah! Th-This girl is...!)
+Tanzawa Shizu (talking),い、伊織おにーちゃん、あのね、 今来てるお客さん…………,"I-Iori-onii-chan, about that customer-"
+Kawahara Iori (talking),話は後、お客が先だ。,"Later, Shizu. The customer comes first."
+Ikeda Kana (talking),……あれ？　なんかもうほとんど ケーキ残ってないみたい……,...Oh? Looks like you`re almost out of cakes...
+Kawahara Iori (talking),ああ、すまない。 今一旦店を閉めて焼き直そうかと 思っていたところだったんだ。,"Oh, sorry. I was just about to close up and bake some more."
+Ikeda Kana (talking),じゃあ、今ある分は余り物？,"So, these are leftovers?"
+Kawahara Iori (talking),そういう訳じゃないんだが……,Not really...
+Ikeda Kana (talking),ふーん。まあとにかく、くださいなっ。 えーと、それとこれとあれ。,"Hmmm. Anyway, gimme this one, and that one, and that one."
+Kawahara Iori (talking),まいどあり。 それじゃ先に品物をお渡しして、 しめて八百…………,"Here ya go. Now then, that`ll be eight hundr-"
+Ikeda Kana (talking),…………残り物ばっかりで良かった~☆ じゃあ頂いていきまーーーーーーす！！,"...Thank goodness they were leftovers~! Well, I`m taking them!"
+Kawahara Iori (talking),"…………………しめて八百三十円で……
+どっ…………ドロボーーーーっ！！ ケーキ泥棒ーーーーーーーーーっ！！","...ed and thirty yen...
+ Th-Thieeeeeeeef! Cake thieeeeeeeeeeef!"
+Tanzawa Shizu (talking),"ああ………… だから今言おうと思ったのに……
+あの子、最近有名な食い逃げ女の子だよ。 わたしの店にも二回ぐらい来て……","Geez... This is why I tried to warn you...
+ That girl`s a notorious dine-and-dasher. She`s been to my shop twice-"
+Kawahara Iori (talking),"お、俺の店だけじゃなく 志津の店にまで……？！
+許さん、絶対許さんっ！","N-Not just my shop, but yours, too?!
+ I`m never, EVER forgiving her!"
+Tanzawa Shizu (talking),いっ、伊織おにーちゃんっ！！ 拳握りしめてどこに行くの？！,I-Iori-onii-chan! Where are you going?!
+Kawahara Iori (talking),決まってる、食い逃げ女を捕まえるんだ！,"I`ll go catch her, obviously!"
+Tanzawa Shizu (talking),むっ、無理だよ、 あの子、物凄く逃げ足速いんだから！,"I-It`s impossible, she`s incredibly good at escaping!"
+Kawahara Iori (talking),ならせめて、クロモンに居る奉仕青年団へ 捕まえろって文句だけでも……,Then we should at least complain to the YCSG so they catch her...
+Tanzawa Shizu (talking),"………………
+それより、伊織おにーちゃん…… さっきの話のつづき……","...
+ More importantly, about what we were talking earlier..."
+Kawahara Iori (talking),さっきの……話？,Earlier...?
+Tanzawa Shizu (talking),すごく……大事な話だったような 気がするんだけど。 少なくともわたしにとっては……,"It felt like it was super important. At least, it did for me..."
+Kawahara Iori (talking),いや、あれは言葉のあやで……,"No, like I said, it was a figure of speech."
+Tanzawa Shizu (talking),………………本当に……？,...Really...?
+Kawahara Iori (talking),……………………,...
+Tanzawa Shizu (talking),……………………,...
+narrator,クロモン商店街は、今日も平和だった。 ──食い逃げ娘の出没以外は。,Today was another peaceful day in Kuromon - dine-and-dasher aside.
+ten'in (talking),だっ、誰かその娘捕まえとくれーーーー！ 食い逃げだ、食い逃げだよーーーー！！！,S-Someone arrest that girl! She`s a dine-and-dasher!
+Ikeda Kana (talking),"あーーーーもーーーー、うっさいわね！ あんな値段であんな不味いモノ食わせてる あんたの方が逮捕モンでしょうに！
+あんな不味いきつねうどんと、 あんな不味い親子丼と、 あんな不味いお新香なんかに……
+ ……だーれがお金なんか払うもんですか！
+さて、これで六件連続食い逃げ成功、と。 浮いた食費はこれこれこの額だから……
+ ……やった！　Ｇペン１グロスと スクリーントーンのセットが買える☆
+さあ、今夜から修羅場よ！ 描いて描いて描きまくるんだから~！","Oh, shuddup alreadyyyy! YOU should be arrested for charging so much for that slop!
+ That terrible kitsune udon, that terrible oyakodon, those terrible pickled veggies...
+ ...Who`d ever pay for them?!
+ That`s my 6th successful escape. How much did that save me...?
+ ...Alright! That`s enough for a pen and screentone set!☆
+ Tonight`s gonna be wild! Kana`s gonna draw `til she drops!"
+narrator,──食い逃げ娘は、今日も元気に 食い逃げをしてマンガを描いていた。,──食い逃げ娘は、今日も元気に 食い逃げをしてマンガを描いていた。
+Mori Kaoru (talking),……市長、よろしいですか。,"Do oyu have a moment, Mayor?"
+Nakayama Akari (talking),は~い、今は手空いてるわよ。 どうかしたの？,"Yes, I`m free right now. What`s up?"
+Mori Kaoru (talking),今現在、 街に悪質な食い逃げ犯が現れています。 市長はご存じですか？,We`ve had reports of a serial dine-and-dasher recently. Have you heard about it?
+Nakayama Akari (talking),え……初耳だけど…………,"Huh? No, I haven`t."
+Mori Kaoru (talking),"犯人は池田加奈（いけだ　かな）。 自称漫画家、若い娘です。
+本来、食い逃げは軽犯罪なので、 我々治安課の管轄外なのですが、 あまりに苦情が多いので対応が必要です。","The criminal is Ikeda Kana. A young, self-proclaimed mangaka.
+ This is usually a light crime that falls outside our jurisdiction, but we must act after all the complaints."
+Nakayama Akari (talking),多いって、どれくらい？,How many complaints did you get?
+Mori Kaoru (talking),"数えるのも億劫なほどです。
+被害総額は十二万円を超えていますが、 これはあくまで氷山の一角。
+届けの出ていないものを含めば、 その三倍は下らないかと思われます。","Too many to bother counting.
+ The damages surpass 120k yen, but only counting what was reported.
+ The actual losses may very well be triple that amount."
+Nakayama Akari (talking),そう……今、世の中貧しいものね。 その子も可哀相に……,Poverty sure is widespread these days. I feel bad for that girl...
+Mori Kaoru (talking),"そういう問題ではありません。 今すぐ手を打って逮捕すべきです。
+主な犯行現場は 奉仕青年団の担当区域です。 今すぐ彼らに正式な依頼書を。","That`s not the issue. We must arrest her at once.
+ The crimes are mostly taking place in the YCSG`s territory. Let us send them a formal request."
+Nakayama Akari (talking),"……そうねえ、お店の人のこと考えたら 放っておけないわねえ……
+解りました、今すぐ鴉葉君を呼んで 奉仕青年団と連絡をつけてもらうわ。","Right, we can`t let her go, for the sake of those shopkeepers.
+ Okay, call Karasuba-kun and have him contact the YCSG at once."
+Mori Kaoru (talking),お願いします、市長。,"Thank you, Mayor."
+narrator,そうして、とうとう正式に奉仕青年団へ 池田加奈の逮捕命令が下ってしまった。,"Thus, the YCSG was officially tasked with apprehending Ikeda Kana."
+Yamamoto Akuji (talking),ちわーっす。 ここ、定食屋のマルシンさんかい？ 奉仕青年団のモンだけど。,"`Sup, is this Marushin, the restaurant? I`m from the YCSG."
+ten'in (talking),"……待ってたよ~、 やっと来てくれたのかい！
+しっかり頼むよ、 あの小娘を捕まえてくれないことには あたしら商売になんないんだから。","Finally, I`ve been waiting!
+ I beg of you, catch that damned little girl before she puts us out of business!"
+Yamamoto Akuji (talking),"任せといてくれや、おばちゃん。
+この辺りの店は、うちの連中が 総出で張り込んでるからよ。","Leave it to me, lady.
+ Our whole Family`s on the lookout `round here."
+ten'in (talking),おおっ、頼もしいねえ。 あの娘が見つかれば即逮捕かい？,"Ooh, how reliable. You gonna catch her as soon as you see her?"
+Yamamoto Akuji (talking),"いや、残念ながら 食い逃げは結構軽い犯罪でな。 現行犯じゃねぇとダメなんだわ。
+その分、人数出してっからよ。 何かあったら即逮捕だ。安心してくれ。","Sorry, but dine-and-dashing is a pretty small crime. Gotta catch her red-handed.
+ It`s why we have so many men here. If anything happens, she`s done for."
+ten'in (talking),頼りにしてるよ、ホントにさ。,I`m really counting on you here.
+Yamamoto Akuji (talking),……で、そろそろメシ時だが、 ぼちぼち犯人が現れる頃だよな？,"...It`s almost lunchtime, so she should be here soon, yeah?"
+ten'in (talking),"ああ、多分そろそろ………………
+ ……って、言ってる側から来たよ……！ うちの店に真っ直ぐ来てる！
+ほれ、兄ちゃん！ 隠れて、隠れて！","Yeah, should be...
+ ...Speak of the devil! There, she`s coming for my restaurant!
+ Come here, sonny! You gotta hide!"
+Yamamoto Akuji (talking),へいへい。,Gotcha.
+Ikeda Kana (talking),こ・ん・に・ち・は☆ おばちゃーん、また来たよ！,"Hiya~! I`m here again, auntie!"
+ten'in (talking),……ほんとにあんた、面の皮厚いね。 よくもそう何度も何度も来られるもんだ。,"...You really have no shame, huh? How dare you come here again."
+Ikeda Kana (talking),聞こえなーい、聞こえなーい。 そんな訳でサバ定食よろしくぅ☆,"Can`t hear you~! Anyway, gimme the mackerel set!"
+ten'in (talking),……食い逃げ犯に売るモンはないよ。,I`m not feeding a dine-and-dasher.
+Ikeda Kana (talking),あー、そういう事言うんだ。 いいよ別に、よそに言って食べるから。,"Oh, is that how it is? Fine, I`ll eat someplace else."
+ten'in (talking),"………………と言いたいところだけどね。
+作ってやるよ。ほれ、座りな。","...Is what I wanted to say, but...
+ I`ll do it. Go on, take a seat."
+Ikeda Kana (talking),ホントに？　おばちゃんやっさしーい☆,"Really? You`re so nice, auntie~!"
+ten'in (thinking),何が“優しい”だい、 今まで情かけた分全部裏切ったくせに……,(Nice? You`ve betrayed me every time I was kind to you.)
+ten'in (talking),……ほれ、サバ定食。 さっさと食いな。,...Here`s your mackerel set. Eat up.
+Ikeda Kana (talking),"はーい、いっただっきまーす！
+はむはむはむはむはむはむはむ……
+もぐもぐもぐもぐもぐもぐもぐ……
+じゅるじゅるじゅるじゅるじゅる……
+…………ふー、ごちそーさま。 はい、代金の三百六十円！","Okay, I`m digging in!
+ Munchmunchmunchmunchmunch...
+ Nomnomnomnomnom...
+ Slurpslurpslurpslurp...
+ ...Phew, thanks for the meal. Here`s your 360 yen!"
+ten'in (talking),………………………………へっ？,......Huh?
+Ikeda Kana (talking),"いっつも悪い悪いと思ってるんだよ。 これホント。だからちゃんと払うよ。 今日は懐、あったかいんだ。
+いままで食い逃げした分も、 きちんと記録してるからいずれ返すね。 出世払いって言うのかな？","I always feel bad about what I do, really. So I`m paying. I have the money today.
+ I`ve also kept track of what I owe, and will pay you back someday, when I make it big."
+ten'in (talking),………………,...
+Ikeda Kana (talking),じゃあねおばちゃん、 信じてくれてありがとー！ また来るね！,"See ya, auntie! Thanks for trusting me! I`ll come again!"
+ten'in (talking),………………,...
+Yamamoto Akuji (talking),"………………
+おい、どーいうことだよ、こりゃあ。","...
+ Hey, what`s up with that?"
+ten'in (talking),どっ、どういう事も何も…… あたしが訊きたいくらいだよ。,D-Don`t ask me... I`m as confused as you are.
+Yamamoto Akuji (talking),"ちっ、これじゃ出動した俺ら全員 道化じゃねぇかよ…………
+もう面倒だ、とにかく捕まえる。","Tch, now all of us look like morons...
+ Fuck it, I`ll just arrest her."
+ten'in (talking),あ、ちょ……ちょっと兄ちゃん！,"Ah, w-wait, sonny!"
+Yamamoto Akuji (talking),おいコラ、食い逃げ娘の池田加奈！,"Hey, dine-and-dasher Kana Ikeda!"
+Ikeda Kana (talking),"むっ、何よ人聞きの悪い……
+あ、いつかのお兄さんじゃない。","Ugh, who`re you calling...
+ Oh, you`re that guy I met."
+Yamamoto Akuji (talking),おう、 奉仕青年団の山本悪司ってもんだ。 おめーを逮捕しに来た。,"Yeah, I`m Akuji from  the YCSG. I`m here to arrest you."
+Ikeda Kana (talking),えっ？　地域管理組合の人だったの？,Huh?! You were with an RMG?
+Yamamoto Akuji (talking),その通りだ。 さ、黙ってついてこい、この食い逃げ娘。,"Yep. Now be nice and come with me, dine-and-dasher."
+Ikeda Kana (talking),ええっ？ でも加奈、今は別に食い逃げしてな……,Huh?! But I didn`t dine-and-dash today-
+Yamamoto Akuji (talking),うるせーーーーーーー！！！！,Shut the FUCK up!
+narrator,　　［げしいっ！］,*BAM!*
+Ikeda Kana (talking),あ……あうううううう……………きゅう。,Ah... auuuu... kyuh.
+Yamamoto Akuji (talking),盗人猛々しいとはこの事だな、全く。,"Talk about shameless, damn."
+ten'in (talking),あ、あんたもひどいことするねえ…… 女の子の頭に鉄拳落とすなんて……,"Y-You`re pretty nasty, punching a girl in the head like that..."
+Yamamoto Akuji (talking),"俺らの仕事は治安維持が第一だからな。 そのためには手段なんざ選ばないさ。
+つーか、今こいつ野放しにしたら またいずれおばちゃんの店にも 食い逃げに入るぜ？　絶対。","Preserving order comes first for us. The methods don`t matter.
+ `Sides, if we let her go, she`d come dine-and-dash at your place again, for sure."
+ten'in (talking),そ、そりゃそうだけどさ……,"T-True, but..."
+Yamamoto Akuji (talking),一時の情に流されんなよ。 んじゃ、そーいう事で。,"Don`t let her fool ya. Anyway, case`s settled."
+narrator,悪司は、池田加奈を抱えてその場から立ち去った。,"Akuji left, carrying Kana."
+ten'in (talking),……何だか、 どっちが悪党だかわかんないねえ……,...I can`t really tell who was the bad guy here...

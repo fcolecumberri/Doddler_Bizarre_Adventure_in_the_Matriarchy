@@ -1,0 +1,312 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆パンイチ = 10:,{☆パンイチ = 10:
+__system__??,},}
+__system__??,{(☆パンイチ = 11) * (RND \ 0):,{(☆パンイチ = 11) * (RND \ 0):
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+__system__??,{麦 = 17:,{麦 = 17:
+__system__??,{H拷問抵抗 < H拷問:,{H拷問抵抗 < H拷問:
+__system__??,},}
+__system__??,{H拷問 = 1:,{H拷問 = 1:
+__system__??,},}
+__system__??,},}
+Panichi (talking),オレを呼び出すという事は、 あんただけの為に 踊って欲しいという事かい？,You called for me? Does that mean you want a private dance?
+Yamamoto Akuji (talking),いらねって。 俺は時々、こーして部下の誰とでも 喋りたいだけだからよ。,"No, I don`t. I just feel like talking to my subordinates every now and then."
+Panichi (talking),そうか、残念だな。,"I see, that`s a shame."
+Yamamoto Akuji (talking),で、ここでもおひねり貰ってんのか。,So you`re still stuffed with cash?
+Panichi (talking),オレは朝顔のものでも、オレの舞いは、 客のものだからな。,"I may be Asagao`s, but my dance is for everyone."
+Panichi (talking),"朝顔、オレの可愛いハニー。 そろそろオレは、悪司の元に 行かなくてはいけない。
+そんな悲しい顔をしないでくれ。 暫しの別れだ。","Asagao, my cute little bunny. I must soon go to Akuji, for he has summoned me.
+ Please don`t be sad. This is only a temporary parting."
+Tsutsui Asagao (talking),………いや… 離れたくないの…,...No... I don`t wanna leave your side...
+Panichi (talking),可愛い女だ…オレの朝顔は。,"You`re so cute, my dear Asagao."
+Tsutsui Asagao (talking),パンイチ……,Pan`ichi...
+Yamamoto Akuji (talking),やめんか、バカップル。 朝顔、おめーさっさと部屋戻れ。,"Quit it, lovebirds. Asagao, get outta here."
+Panichi (talking),ヤキモチは、可愛くないぜ。,"Jealousy is ugly, you know."
+Yamamoto Akuji (talking),男に可愛いなんざ言われたくねっての。,I don`t wanna hear that from a guy.
+Yamamoto Akuji (talking),おう。,Yo.
+Panichi (talking),ご指名かい？,You called?
+Yamamoto Akuji (talking),相変わらず、パンツの中は 札まみれか。,I see your undies are as full of cash as ever.
+Panichi (talking),一枚わけてやろうか？,Would you like to take a bill?
+Yamamoto Akuji (talking),いらね。,Hell no.
+Yamamoto Akuji (talking),これは、俺からのおひねりだ。 好きなように使ってくんな。,"Here, a present from me. Use it as you please."
+narrator,悪司はまとまった金を パンイチに渡した。,Akuji gave Pan`ichi a bundle of cash.
+Panichi (talking),すまねぇな。 使わせて貰うとすよ。,Thank you. I shall put it to good use.
+Yamamoto Akuji (talking),きたな。 パンイチ。,"So you`re here, Pan`ichi."
+Panichi (talking),やれやれだぜ。,Good grief.
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+Panichi (talking),で、オレをどうするつもりだい？,"So, what will you do with me?"
+Yamamoto Akuji (talking),……その魅惑の黒パンツの中にある金は どーした？,...What`s with all the cash stuffed inside your undies?
+Panichi (talking),フフン。 客がいれば、その場はステージに 早変わりさ。,"Heheh. As long as there are customers, I can turn any place into a stage."
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{☆パンイチと朝顔 = 1:,{☆パンイチと朝顔 = 1:
+Tsutsui Asagao (talking),……………,...
+Yamamoto Akuji (talking),なんだ、朝顔。 こんなとこまできて。,"Why`re you here, Asagao?"
+Panichi (talking),オレがわざと捕まったのは、 あの女の為だ。,I let myself be captured because of that woman.
+Yamamoto Akuji (talking),へっ！？,Huh?!
+Panichi (talking),あの女とオレは、 同じもので繋がっている。,Me and her? We`re connected by the same thing.
+Yamamoto Akuji (talking),………見せたがりって事か…？,...You`re both exhibitionists...?
+Panichi (talking),"オレは、あの女と共に時間を過ごす為に、 オフクロの墓であり、オレの聖域である 毛ガニ劇場を捨てた。
+悪司。 オレをお前の部下にして、あの女と共に 生きる事を許してくれ。","To spend time with her, I`ve discarded the Crab Theater - both my holy land, and my mother`s grave.
+ Akuji. Please allow me to work for you, and be together with that woman."
+__system__??,},}
+__system__??,{☆パンイチと朝顔 = 0:,{☆パンイチと朝顔 = 0:
+Tsutsui Asagao (talking),……………,...
+Yamamoto Akuji (talking),なんだ、朝顔。 こんなとこまできて。,"Why`re you here, Asagao?"
+Panichi (talking),っ…！！,...!
+Tsutsui Asagao (talking),………やっぱり…私と…,...I knew it... you`re just-
+Panichi (talking),オレと…同じ匂いがする！！,-like me!!
+Yamamoto Akuji (talking),なんなんだ、お前ら。,What`s with you guys?
+Panichi (talking),あの女とオレは、 同じもので繋がっている。,Me and her? We`re connected by the same thing.
+Yamamoto Akuji (talking),………見せたがりって事か…？,...You`re both exhibitionists...?
+Panichi (talking),"オレは、オフクロの墓であり、 オレの聖域である毛ガニ劇場を捨てる。
+悪司。 オレをお前の部下にして、あの女と共に 生きる事を許してくれ。","I shall discard my holy land and my mother`s grave, the Crab Theater.
+ Akuji. Please allow me to work for you, and be together with that woman."
+__system__??,},}
+__system__??,{RETURN = 1:,{RETURN = 1:
+Yamamoto Akuji (talking),そーかそーか。 だったら、脱衣コンビで仲良く 俺の為に働いてくれ。,"I see, I see. Then I hope you two freaks work your asses off for me."
+Panichi (talking),ありがとう、悪司。 いい男だぜ。,"Thank you, Akuji. You`re a good man."
+Yamamoto Akuji (talking),へっ、そーかい。,"Heh, really."
+__system__??,},}
+Yamamoto Akuji (talking),ダメだ。 今はそーいう気分じゃねぇ。,Nah. I don`t feel like it.
+Panichi (talking),……そうか、残念だな。,"...I see, that`s a shame."
+Yamamoto Akuji (talking),朝顔も、そーいう訳だ。 諦めろ。,"You heard me, Asagao. Give it up."
+Tsutsui Asagao (talking),"………………
+ ……いぢわる……","...
+ ...Meanie..."
+Panichi (talking),可愛い奴だな……,What a cutie...
+Yamamoto Akuji (talking),ほら、こんだけやるよ。 だから俺の部下になりな。,"Here, I`ll give you this, so come work for me."
+narrator,と言って、悪司はいくらかの金を、 パンイチに見せた。,Akuji placed a bundle of cash in front of Pan`ichi.
+__system__??,{RND \ 0:,{RND \ 0:
+Panichi (talking),"毛ガニ劇場を見捨てた俺は、 今、欲しいのは金じゃない。
+あの女と共にいる事だ。 そんな無粋なものは さっさとしまってくれ。","I`ve discarded the Crab Theater, so what I want isn`t money.
+ It`s to be with that woman. Please dispose of such an uncouth bribe at once."
+__system__??,},}
+__system__??,{RND = 0:,{RND = 0:
+Panichi (talking),こんなものはいらない。 オレにひつようなのは、ステージと客だ。,I don`t need that. What I need are customers and a stage.
+__system__??,},}
+Yamamoto Akuji (thinking),"戦地に向かう前まで、 ここには世話になったなー。
+ガキん頃は、裏からこっそり入って ステージを見たもんだ。
+今はどーなってるのか…","Used to come here a lot before the war.
+ When I was a kid, I`d sneak in from the back and watch.
+ Wonder what it`s like now..."
+narrator,悪司は劇場の扉に手をかけた。,Akuji placed his hand on the door`s handle.
+ (talking),珍しいな…ニホン人、しかも男の客かい？,How rare... a Japanese man?
+Yamamoto Akuji (talking),ん？,Hm?
+Yamamoto Akuji (talking),"………………
+ …………ぱんいち…","...
+ ...Pan`ichi (undies only)..."
+Panichi (talking),"ほう。 オレの名をよく知っているな。
+そう。オレの名は、パンイチ。 ここの責任者であり… 看板ストリッパーだ。","Hohoh, so you know my name.
+ Yep, I`m Pan`ichi. I`m both the one in charge of this theater... and its star stripper."
+Yamamoto Akuji (talking),"ちょっ……
+ちょっと待て、ここは女のストリッパーが ゴロゴロいたんじゃあ…","H-
+ Hold up, this place was loaded with FEMALE strippers."
+Panichi (talking),"それはもう、過去の話。 知ってるだろうが、 今はウィミィ統治の時代。
+性的娯楽はすべて、 女性を楽しませるものだけしか、 表に出る事は出来なくなったろう？","That`s in the past. I`m sure you`re aware, but we`re under Wime`s policies now.
+ Female-oriented adult entertainment is the only kind that`s legally allowed now."
+Yamamoto Akuji (talking),"……ああ、そっか… そーいやそうだったな…
+お前さんのぱんいち姿に毒気抜かれて、 記憶の向こうにふっとんでたさ。","...Oh, right... That was a thing.
+ Your outfit shocked me so much that I forgot for a sec."
+Panichi (talking),"それは誉め言葉と受け取っておこう。
+もうすぐ、ステージの時間だ。 オレ達の華麗な舞いを、 堪能していくかい？","I`ll take that as a compliment.
+ The show`s about to start. Wanna come watch our beautiful performance, hmm?"
+Yamamoto Akuji (talking),俺達って事は、お前さんみたいなのが 何人もステージに並ぶって事か。,Our? So there`s a bunch more dudes like you in there?
+Panichi (talking),"ああ、そうさ。 オレ達の華麗な技に、女性達の黄色い声は やむ事がなく、ステージを包む。
+夢のひとときを与えてやるぜ。","Yep. Our performance makes every woman in the building positively squeal.
+ We give them a taste of heaven."
+narrator,パンイチはそう言って、手にしている シルクハットの鍔をキュッと鳴らした。,Pan`ichi noisily tipped his silk hat.
+Yamamoto Akuji (talking),"…………
+それは将来の楽しみにとっとくよ。 それじゃあ、頑張ってな。","...
+ I`ll take a raincheck on that. Well, have a good one."
+Panichi (talking),ああ、あんたもな。,"Thanks, you too."
+narrator,悪司は毛ガニ劇場の出入り口を閉めた。,Akuji closed the door to the Crab Theater.
+uimiionnaheishi (talking),早く、早く！ もうすぐパンイチさんのステージ 始まっちゃうわよ！,Hurry! Pan`ichi`s show is gonna start soon!
+uimiionnaheishi (talking),あん、待ってよ！ 今日こそあたしが、パンイチさんのキス権 買い取るんだからっ！,Wait up! Today for sure I`m gonna buy the right to kiss Pan`ichi-san!
+joseishikan (talking),ふん。 ＶＩＰ席のチケットなしでキス権が 貰えると思っているのか。,Hmph. Do they think they can buy it when they don`t even have a VIP seat?
+joseishikan (talking),まったく…下層兵が見苦しい。 あのようにはしゃいでは、ウィミィ女性の 恥ですね。,"Honestly, they`re so pathetic. They`re an embarrassment to Wime, frolicking like that."
+Lover (talking),お前はここで待ってな。,You wait here.
+Chinpira (talking),へい、姐さん！！,Yes ma`am!
+Lover (talking),"…どれだけお金を積んでも、 いい席はウィミィのもの…たまんないよ…
+ああ……パンイチさん… ニクイ人だよ、ほんと…","No matter how much money I have, Wime gets all the best seats...
+ Aah, Pan`ichi-san... You really are a wicked one..."
+wakaishufu (talking),ほら、お母さん、早く！ 始まっちゃうったら。,"C`mon, hurry up, mom! It`s about to start!"
+ten'in (talking),あーでもねー、Ｚ席じゃあねー。 パンイチさんの姿がリカちゃん人形 サイズじゃあねぇー。,"Eh, but we have the Z seats. We`re barely gonna be able to see Pan`ichi-san."
+wakaishufu (talking),"大丈夫よ！ パンイチさん、こっちにもサービスしに きてくれるかもしれないじゃない！
+それに、そんな事がなくても、 パンイチさんのステキさはかわんないわ。 早く、早く。","It`s fine! He might come to us to give us a better view!
+ And even if he doesn`t, that doesn`t change how wonderful he is. So hurry!"
+narrator,どの女達も目をキラキラさせ、大慌てで、 客席に向かって行った。,"All sorts of women were hurrying inside the theater, their eyes all sparkling."
+Yamamoto Akuji (talking),"……………
+えらい時代になったモンだ……","...
+ Crazy times we live in..."
+narrator,悪司はこっそり裏から入っていた。,Akuji snuck in from the back.
+Yamamoto Akuji (thinking),こっちからは、相変わらず簡単に入る事が 出来るな… さーて、制圧するのに使えそうなネタは…,"As always, I can get in easily from here... Now, how can I take over..."
+Yamamoto Akuji (talking),ん…？,Hm?
+narrator,楽屋の廊下には、歴代の女ストリッパーの 黄金時代の写真が並べてあった。,Photos of the golden age of female strippers adorned the dressing room`s hallway.
+Yamamoto Akuji (talking),お、あ、この辺り知ってる顔だな。 いやー、なっつかしいなー。,"Oh, I remember these chicks. Man, this takes me back."
+ (talking),その左のが、オレのオフクロだ。,The one on the left`s my mother.
+Yamamoto Akuji (talking),ん……,Huh...
+Panichi (talking),珍客のお出ましか。,"An unexpected visitor, huh?"
+Yamamoto Akuji (talking),おう、パンイチ。 この人が、お前さんのお袋さんかよ。,"Yo, Pan`ichi. So she`s your mom?"
+Panichi (talking),ああ……,Yes...
+cg narrator,"「オフクロは俺の知る限り、 　最高のストリッパーだ」
+ 「自分がどんなにつらい時でも、 　ステージでは華やかで、艶やかで、 　サービス精神を忘れない」
+ 「つらい事があって、小屋に逃避してくる男達が 　すべて忘れられるように、その瞬間だけでも 　晴れやかな気分でいられるように」
+ 「そう願ってステージに立つ、 　最高のストリッパーだった」
+ 「で、そのお袋さんは今は隠居かい？」
+ 「戦争が終わる頃……結核で死んだよ。 　この劇場を最後まで心配してね。 　なんせ跡継ぎが男のオレだったからな」
+ 「敗戦した為に、男が継ぐ事になろうなんて、 　お釈迦様でもびっくりだけどな」
+ 「ああ、本当にその通りだ。 　オレには、幸運だったがな」
+ 「この小屋はいわばオフクロの墓。 　オレにとっては聖域だ」
+ 「なるほどな…」
+ 「だから…」","「As far as I know, she was 　the greatest stripper ever.」
+ 「Even during her toughest times, 　she was brilliant and gorgeous on stage, 　her customers always on her mind.」
+ 「So that any man trying to forget their 　sorrows by watching a show could feel 　better, even if only for that moment.」
+ 「With that in her heart, she stood on 　stage as the greatest stripper ever.」
+ 「Is your mom retired now?」
+ 「...Tuberculosis claimed her at the end 　of the war. She worried about the theater 　to her last. I, a man, was her successor.」
+ 「I`m sure everyone was shocked when a 　man had to take over cuz of the war.」
+ 「Yes, you`re correct. 　But it was a stroke of luck for me.」
+ 「This theater is also my mother`s grave. 　It`s sacred ground to me.」
+ 「I get you...」
+ 「Which is why...」"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Panichi (talking),"このステージを台無しにする奴は、 このオレが許さねぇ。
+オレはオフクロの遺志を継ぎ、 ここで踊る事を、 ここで人を癒す事を決めた。
+このオレがいる限り、 ここの平穏は守ってみせる。
+俺達に酔うつもりのない野暮な奴は 用なしだ。","I will never forgive anyone who tries to ruin this stage.
+ I`ve decided to be like my mother, and dance to soothe my customers` hearts.
+ I`ll protect this place for as long as I`m around.
+ We`ve no need for boorish thugs with no eye for our art."
+Yamamoto Akuji (talking),……俺が誰だかわかってるのか。,...Do you know who I am?
+Panichi (talking),そうだな… 奉仕青年団の影番さんよ。,Yes... the secret leader of the YCSG.
+Yamamoto Akuji (talking),そこまでわかってんだったら、 隠し事はナシだな。,"If ya know that, then there`s no use hiding anything."
+Panichi (talking),そうだな。,True.
+narrator,パンイチが手にしているシルクハットの 鍔が鈍く光り、きゅっと鳴った。,"Pan`ichi gripped the tip of his top hat, which shone with a dull light."
+Yamamoto Akuji (talking),今日は退散だ。 またくるよ。,I`m falling back today. I`ll be back.
+Panichi (talking),"その時は是非、オレ達のステージを 楽しむ為にきてくれ。
+本来、男客は入れねぇが、 こっそり舞台裏で見せてやるよ。","Then please, do so to enjoy what we offer.
+ Men normally can`t enter, but I can give you a backstage show."
+Yamamoto Akuji (talking),そりゃどーも。,No thanks.
+__system__??,{RND \ 0:,{RND \ 0:
+Kako Mirai (talking),こ、ここは！？,Th-This place?!
+Yamamoto Akuji (talking),どした？,What`s up?
+Kako Mirai (talking),知ってるにゃりよ！ 男ストリップのお店にゃり！,I know this place! It`s a male strip club!
+Yamamoto Akuji (talking),ご名答ー。,Yep.
+Kako Mirai (talking),"ににに、にーちゃん、 見せてくれるにゃりか！？ 連れてってくれるにゃりか！？
+ここの入場券、１ヶ月待ちでも、 Ｚ席しか買えないにゃりよ！！
+それ、持ってるにゃりか！？ 持ってるんだったら、未来ちゃんに よこしやがれにゃりよー！！","M-M-Mister, are you gonna let me see a show?! Are you taking me with you?!
+ You have to wait a month to get even a Z-seat ticket!
+ Do you have that?! If you do, then give it to Mirai-chan!"
+Yamamoto Akuji (talking),ない。,I don`t.
+Kako Mirai (talking),にゃーーーー！！,NYOOOOOOO!!!
+Yamamoto Akuji (talking),お前が嬉しそうにしてるの見たら、 意地悪したくなった。 さー、帰る帰る。,"You looked so happy that I felt like teasing ya. Now, let`s head back."
+Kako Mirai (talking),ぎにゃーーーーーーーーーーー！！！！ このすっとこどっこいーー！！！！ サドーー！！！！　むきーーー！！！！,GYAAAAAAAAAH!!! YOU MOROOOOOOON!!! DAMN SADIST!!! GRAAAAH!!!
+narrator,悪司達は毛ガニ劇場を後にした。,The two left the Crab Theater.
+__system__??,},}
+__system__??,{RND = 0:,{RND = 0:
+Takega Satsu (talking),そういう趣味があったのか。,So you`re into this?
+Yamamoto Akuji (talking),ん？,Huh?
+Takega Satsu (talking),ここは、男の裸を見る場所だろうが。,This is a male strip club.
+Yamamoto Akuji (talking),なんで知ってんだよ。,How`d you know?
+Takega Satsu (talking),有名だぞ。 ここのチケットが闇でいくらで 売られているか、知っているか？,It`s famous. Do you have any idea how much tickets go for in the black market?
+Yamamoto Akuji (talking),ふーん………,Hmm...
+Takega Satsu (talking),なんだ。 男の尻には興味ないのか。,What? Not interested in man ass?
+Yamamoto Akuji (talking),そーだなー……,"No, duh."
+__system__??,{★愛 = 5:,{★愛 = 5:
+Takega Satsu (talking),まあ、妻としてこれ以上性的興味対象を 広げられるのもどうかと思っていたから 丁度良いがな。,"Good, because as your wife, I was worried that your strike zone was going to get too wide."
+__system__??,},}
+__system__??,{★愛 \ 5:,{★愛 \ 5:
+Takega Satsu (talking),まあ、叔母としてこれ以上性的興味対象を 広げられるのもどうかと思っていたから 丁度良いがな。,"Good, because as your aunt, I was worried that your strike zone was going to get too wide."
+__system__??,},}
+Yamamoto Akuji (talking),人を性獣みたいに……,I ain`t a sex fiend...
+narrator,悪司達は毛ガニ劇場を後にした。,The two left the Crab Theater.
+__system__??,},}
+narrator,悪司がその前でぼんやりしていると、 ウィミィ女兵士達が歩いてきた。,"While Akuji was spacing out in front of Crab Theater, Wimenese soldiers walked by."
+uimiionnaheishi (talking),あ~……やっぱり、パンイチさん、 出演していないみたいでね……,Aww... Looks like Pan`ichi-san isn`t performing after all...
+joseishikan (talking),"ジーザス。
+どうして出演しないのかわからないが、 ニホンでの楽しみがひとつ減って しまったな。","Jesus.
+ I don`t know why he isn`t performing, but Japan got a whole lot less fun with that."
+uimiionnaheishi (talking),ただでさえ、本国に比べて娯楽が 少ないっていうのに、迷惑な話 ですよねぇ…,"Hell, there`s barely any entertainment here compared to Wime, so this sucks..."
+joseishikan (talking),しかたない。 コウシエンの方にでも行くとするか。,"Can`t be helped. How about we go to Koushien, then?"
+uimiionnaheishi (talking),はい、わかりました。,Alright.
+narrator,ウィミィ女兵士達は、一通りぶつぶつ言った後、 車に乗り、コウベ方面に向かって行った。,"After complaining, the Wimenese soldiers got into a car and headed towards Koube."
+Yamamoto Akuji (talking),ホントに、看板スターだったんだな…,"He really was the star, huh..."
+narrator,割れんばかりの拍手が、惜しみなくステージに 降り注いでいる。,"The stage was met with a long, thunderous applause."
+joseishikan (talking),ブラボー、パンイチー！！,"BRAVO, PAN`ICHI!"
+uimiionnaheishi (talking),オーマイガーーッ！！,OH MY GOOOOOD!
+wakaishufu (talking),きゃーーーーーー！！！！ パンイチさん、ステキー！！！！,"KYAAAAAH! YOU`RE SO GREAT, PAN`ICHI!!!"
+ten'in (talking),ああもう、あんたの芸で、 あたしゃ１０年、若返ったよーー！！,"Oh man, you`re so good that I feel 10 years younger!"
+narrator,"その絶賛を、パンイチは舞台の袖で 聞いていた。
+パンイチの芸術的に鍛えられあげた筋肉は、 うっすらとした汗で魅力的に輝いていた。","Pan`ichi heard his rave reviews from the wing of the stage.
+ Sweat faintly glistened on Pan`ichi`s beautifully sculpted muscles."
+Panichi (thinking),"この絶賛……ここの事を心配しながら 死んでいったオフクロに聞いて 貰いたかったな…
+いや、つまらない感傷だな。 舞台を見る事を望んでいる者がいる。 それに応える者がいる。
+その関係が続いているだけで充分だ。","I wish my mother, who worried about this place to her death, could hear this...
+ No, enough sentimentality. There are customers waiting. The actors must do their part.
+ That`s all we need."
+Panichi (talking),さあ、カーテンコールだ。,"Now, it`s the curtain call."
+narrator,パンイチはそう逸て、シルクハットの鍔を、 指でキュッと鳴らした。,"With that, Pan`ichi gripped the tip of his top hat."
+Yamamoto Akuji (talking),よし。 ここを制圧するぞ。,Okay. Time to take this joint.
+ (talking),待ちな。,Wait.
+Panichi (talking),聞き捨てならない事を言う奴だな。,I can`t ignore what you`ve said.
+Yamamoto Akuji (talking),"……なんか奇妙なのが出てきたな… ああそうか、ここはウィミィ女の為の 男ストリッパーの店になったんだったな。
+という事は、お前は――","A weirdo`s come out... Oh, right, this was a male strip club for Wimenese chicks.
+ Which means, you`re-"
+Panichi (talking),そう。,Yes.
+narrator,シルクハットの鍔を持つ指が、キュッと鳴った。,The man gripped the tip of his top hat.
+Panichi (talking),この毛ガニ劇場の看板スター。 パンイチ。,"Star of Crab Theater, Pan`ichi."
+Yamamoto Akuji (talking),大層なご登場だな。 それだけ腕っぷしに自信があるってか？,Pretty flashy entrance. You that confident in your skill?
+Panichi (talking),さあな。 それは自分の躰で試してみたらどうだ？,Who knows? Care to let your body find out?
+Yamamoto Akuji (talking),よし。 ここを制圧するぞ。,Okay. Time to take this joint.
+ (talking),待ちな。,Wait.
+Panichi (talking),そいつは聞き捨てならねぇな。 奉仕青年団の旦那。,"I can`t ket that go, o leader of the YCSG."
+Yamamoto Akuji (talking),俺が誰だか知ってたのかい、パンイチ。,Did you know who I am?
+Panichi (talking),あんたもオレと違った意味で 有名人だからな。,"You too are a celebrity, kinda like me."
+Yamamoto Akuji (talking),だったら話は早い。 ここは頂くぜ。,Then that makes this quick. I`m taking this place.
+Panichi (talking),"そいつは無理な相談だ。
+ステージは、俺達の聖域。 どうしてもというのなら、 まずこのオレと戦っていく事だ。","That will not happen.
+ This is my sacred ground. If you still insist, then you will have to fight me, first."
+Yamamoto Akuji (talking),そうこなくっちゃな。,"Guess we gotta, then."
+Panichi (talking),夢をひとときを与えてやるぜ。,I`ll show you a glimpse of Heaven.
+Yamamoto Akuji (talking),よし。 ここを制圧するぞ。,Okay. Time to take this joint.
+ (talking),待ちな。,Wait.
+Panichi (talking),そいつは聞き捨てならねぇな。 奉仕青年団の旦那。,"I can`t let that go, o leader of the YCSG."
+Yamamoto Akuji (talking),よう、パンイチ。 ちゅー訳で、ここも頂くぜ。,"Yo, Pan`ichi. Well, I`m takin` this place."
+Panichi (talking),前に言ったな。 ここは、俺の聖域だと。,"I told you, didn`t I? This is sacred ground to me."
+Yamamoto Akuji (talking),それを承知でやってきたぜ。,I`m well aware.
+Panichi (talking),ふん。,Hmph.
+narrator,パンイチのシルクハットの鍔が、 キュッと鳴った。,Pan`ichi gripped the tip of his top hat.
+Panichi (talking),夢をひとときを与えてやるぜ。,I`ll show you a glimpse of Heaven.
+Yamamoto Akuji (talking),よぅし、行くぞ。 次こそ、オトすぜ。,"Alright, let`s go. I`ll take you down today."
+ (talking),やれやれ、懲りない男だぜ。,"Geez, what an obstinate man."
+Yamamoto Akuji (talking),出たな、パンイチ野郎。,"There you are, Pan`ichi."
+Panichi (talking),フフン。 オレ達のステージにようこそ。,Heheh. Welcome to our stage.
+narrator,　　［キュッ］,　　［*Tip!*］
+Panichi (talking),夢をひとときを与えてやるぜ。,I`ll show you a glimpse of Heaven.
+Tsutsui Asagao (talking),あっ……,Ah...!
+Panichi (talking),っ…！,...!
+Tsutsui Asagao (talking),あっ……あの人……,That... that man...
+Panichi (talking),あの女……,That woman...
+narrator,「オレと同じ匂いがする」 「私と同じ匂いがする……」,「She`s just like me...」 「He`s just like me...」
+Panichi (talking),……………,...
+narrator,パンイチがすっと両手を上にあげた。,Pan`ichi gently raised his hands.
+Panichi (talking),降伏する。,I surrender.
+Tsutsui Asagao (talking),夢をひとときを与えてやるぜ。,I`ll give you a taste of heaven.
+narrator,パンイチのオーラに、相手は戦闘意欲を失った。,The opponent lost their will to fight!

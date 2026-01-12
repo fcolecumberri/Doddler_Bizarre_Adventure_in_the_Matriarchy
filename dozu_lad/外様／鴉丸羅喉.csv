@@ -1,0 +1,130 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆鴉丸羅喉 = 2:,{☆鴉丸羅喉 = 2:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+narrator,悪司は、グリーン豆をぽりぽりと食べている。,Akuji was eating some peas.
+Karasuma Ragou (talking),美味そうに食べているな。,That looks good.
+Yamamoto Akuji (talking),おう、美味いぜ。 食うか？,It is. Want some?
+Karasuma Ragou (talking),遠慮しておこう。 鳩ではないのでな。,I`ll pass. It`s not pigeon.
+Yamamoto Akuji (talking),聞いていいか？,Can I ask ya something?
+Karasuma Ragou (talking),どんな事かな？,About what?
+Yamamoto Akuji (talking),"あんた、国家武道大会に優勝したん だったら、それなりに金も持ってる だろ？
+それなのに、まだ、金が必要なのかい？","You get a lotta cash if ya win the National Martial Arts Tourney, right?
+ Yet you still need money?"
+Karasuma Ragou (talking),…………妹……,...My little sister...
+Yamamoto Akuji (talking),ん？,Hm?
+Karasuma Ragou (talking),"妹と……思い人を連れ、 ヨーロッパに行こうと思ってね。
+国体で優勝して以来、スカウトだの マスコミだのに追いかけまわされて… ウンザリして、あの宿に逃げていたのだ。
+ニホンを離れ、ヨーロッパのどこかに 城でも買い、そこで妹と思い人と三人で しばらくのんびりしたいと思ってね。","I want to take my sister and my beloved to Europe.
+ Ever since I won the Tourney, I`ve been hounded by the media. I got fed up and ran away.
+ I want to get out of Japan and live with those two in an European castle for a while."
+Yamamoto Akuji (talking),別に城なんか買わなくても……,Does it NEED to be a castle...?
+Karasuma Ragou (talking),"そこで妹にドレスを着せてやり、 お姫様気分を味わわせて やりたかったのと…
+そして、天蓋つきの真鍮のベッドに ゆう……
+ ……………
+ふっ……","I wanted my sister to feel like a princess, with nice dresses and everything.
+ Then, in a bed with a brass canopy, I`d-
+ ...
+ Phew...!"
+Yamamoto Akuji (talking),なんだよ、ゆうって。,You`d what?
+Karasuma Ragou (talking),いや……思い人をそのベッドに縛めて、 少々、ハードな遊びを体験したくてね。,I`d tie my beloved to the bed and try some hardcore plays.
+Yamamoto Akuji (talking),……気の毒な思い人だ。,...I feel bad for them.
+Karasuma Ragou (talking),……そうかね？ 彼……いや、あれが、私を誘うのだがね…,"...Really? Well, he- I mean, they suggested it, though..."
+Karasuma Ragou (talking),私に何か？,What do you need?
+Yamamoto Akuji (talking),これ、城を買う資金の足しにでも してくんな。,"Here, some money for that castle you want."
+narrator,悪司はまとまった金を羅喉に渡した。,Akuji gave Ragou some money.
+Karasuma Ragou (talking),ありがとう。 城を買った暁には、君も招待しよう。,Thank you. I shall invite you once I`ve bought it.
+Yamamoto Akuji (talking),いや…遠慮するよ。 なんかイヤな予感がする。,"Nah, I`ll pass. I have a bad feeling about that."
+narrator,悪司達は、キョウの遊郭跡地にきていた。,At the site of a former Kyou brothel-
+Yamamoto Akuji (talking),こーいうとこも、料亭兼旅館に なっちまったんだなー。,"So this place became a restaurant-hotel too, huh?"
+Takega Satsu (talking),ウィミィのくされ政策の為だな。,Thanks to Wime`s rotten laws.
+Yamamoto Akuji (talking),ああ…もったいねーよなー。 ここでの雅ってのは味わえたのに。,Yeah... what a waste. This place had class.
+narrator,悪司達はブツブツ言いながら、宿の中に入り、 目当ての泊まり客の名前をフロントに告げた。,The duo went inside and asked for their target`s name at the desk.
+Takega Satsu (talking),確か、今年の国家武道大会の 優勝者だったか。,I think he won the National Martial Arts Tourney.
+Yamamoto Akuji (talking),ああ、そうだ。 鴉丸羅喉。,"Ah, that`s right. Karasuma Ragou."
+Takega Satsu (talking),縁起の悪そうな名前だな。,Pretty ominous name.
+Yamamoto Akuji (talking),さっちゃん、俺達は人の事言えねーよ。,Don`t say that about people.
+ (talking),ふーん…,Hmm...
+Karasuma Ragou (talking),客だと聞いたが、マスコミや、 国家のスカウトではなさそうだな。,"You don`t look like a reporter, or a scouter."
+Yamamoto Akuji (talking),俺は、山本悪司。 オオサカからきた。 あんたが鴉丸羅喉か？,I`m Yamamoto Akuji. I came here from Osaka. You Karasuma Ragou?
+Karasuma Ragou (talking),ああ…そうだが？,"Yes, what about it?"
+Yamamoto Akuji (talking),俺は今、ある組とドンパチの最中でな。,"I`m fighting a RMG, y`see."
+Karasuma Ragou (talking),"別の意味でのスカウトか……
+武道大会に優勝してしまってから、 なんだか色々とお声がかかってね… 多少、ウンザリしているのだが…","A different kind of scout, eh?
+ I`ve been getting so many calls since winning the Tourney, I`m fed up..."
+Yamamoto Akuji (talking),同じスカウトでも、権力の犬とは ひと味違うぜ。,"I`m scouting you, but I`m different from those chumps."
+Karasuma Ragou (talking),どこがどう？,How so?
+Yamamoto Akuji (talking),ギャラが。,I pay well.
+Karasuma Ragou (talking),ほほう……,Hohoh...
+Yamamoto Akuji (talking),どうだい？ 俺の為に戦ってくんねぇか？,How about it? Won`tcha fight for me?
+Karasuma Ragou (talking),"君の為に……ねぇ…
+ ……ふっ…面白い… 一肌脱ぐとするか。","For you, huh...
+ ...Hah! interesting. Guess I`ll help you."
+Yamamoto Akuji (talking),ありがたい。,Thanks.
+Karasuma Ragou (talking),ただ…少し待ってくれるか？ こちらも準備があるのでね。 いいか？,But can you wait a while? I need to prepare first. Is that fine?
+Yamamoto Akuji (talking),ああ。 じゃあ、ここにきてくんな。,"Sure. Come here, then."
+narrator,悪司は羅喉に奉仕青年団の住所の書かれた メモを渡した。,Akuji gave Ragou a note with the YCSG `s address on it.
+Karasuma Ragou (talking),"ふむ…ミドリガオカか。 わかった。 行くとしよう。
+ところで…その子は、君の妹さんか？","Midorigaoka, is it? Got it, I`ll be there. By the way...
+ ...Is she your sister?"
+__system__??,{★愛 = 5:,{★愛 = 5:
+Takega Satsu (talking),私は、これの妻だ。,I`m his wife.
+Karasuma Ragou (talking),ほう……,Hoh...
+Takega Satsu (talking),特に珍しくもあるまい。,It ain`t that unusual.
+__system__??,},}
+__system__??,{★愛 \ 5:,{★愛 \ 5:
+Takega Satsu (talking),私は、これの叔母だ。,I`m his aunt.
+Karasuma Ragou (talking),ふむ……頑張り屋の父上のようで。,Your dad must be lively.
+Takega Satsu (talking),ああ… 必要以上にな。,"Yes, a lot more so than necessary."
+__system__??,},}
+Karasuma Ragou (talking),ふっ…それでは、近いうちに。,"Hah! Well, see you soon."
+Yamamoto Akuji (talking),ああ、待ってるぜ。,"Yeah, I`ll be waiting."
+Seinendan Jyoshi (talking),あ、悪司さん、悪司さん！ 大変です、大変です！,A-Akuji-san! Akuji-san! This is huge!
+Yamamoto Akuji (talking),な~にが~？,What is it?
+Seinendan Jyoshi (talking),"こ、今年、国家武道大会で優勝した、 鴉丸羅喉さんが、そ、外に~~！！
+テ、テレビで見た時から、 ファンだったんです~！ 悪司さん、知り合いだったんですかー！？","The winner of the NMAT, Karasuma Ragou, is outside!
+ I-I`ve been a fan since the day I saw him on TV! Do you know him, Akuji-san?!"
+Yamamoto Akuji (talking),ああ。 これから、うちで働いてくれるんだ。,Yeah. He`s gonna be working for us now.
+Seinendan Jyoshi (talking),え、嘘、きゃー！！,"NO WAAAYYY, KYAAAAH!!!"
+Yamamoto Akuji (talking),さっさと通してやってくんな。,Let him in already.
+Seinendan Jyoshi (talking),は、はいーっ！,Y-Yessir!
+Karasuma Ragou (talking),中々、賑やかな職場だな。,This place`s pretty lively.
+Yamamoto Akuji (talking),あんたの顔がそーさせてんだよ。,Because of you.
+Karasuma Ragou (talking),ほう…それは悪い気はしないね。,"Hoh, it`s not a bad thing."
+Yamamoto Akuji (talking),で、働いてくれるんだな？,"You`re working here, right?"
+Karasuma Ragou (talking),ああ…よろしく頼む。,"Yes, I`ll be in your care."
+narrator,羅喉は手にした薔薇で、花占いをしている。,Ragou was plucking a rose`s petals off.
+Karasuma Ragou (talking),好き…嫌い…好き……嫌い……,"Loves me, loves me not..."
+Peach Maid (talking),あの…誰か…お好きな方が いらっしゃるのですか？,Um... do you have someone you like?
+Karasuma Ragou (talking),ああ…私にはそのような趣味は なかったが、彼が目覚めさせてくれた。,"Yes. I wasn`t into it before, but he opened my eyes."
+Peach Maid (talking),えっ…？,Huh?!
+Peach Maid (thinking),い、今、彼って言わなかった？？ え、え、え、ひょ、ひょっとしてっ…,D-Did you just say “he”?! D-D-Does this mean...
+Peach Maid (talking),あ、あのっ…その人って、男の…,...You like men?
+Karasuma Ragou (talking),………………,...
+narrator,羅喉はじっとメイドを見つめる。,Ragou stared at the maid.
+Peach Maid (talking),あっ…あのっ……,U-Um...!
+Karasuma Ragou (talking),私は、君のように愛らしい女性も 好きだよ…ふふ…,"I like cute women such as yourself, too... fufu."
+Peach Maid (talking),………どきどき……,...Ba-dump ba-dump...
+narrator,難しい顔をしたリンダの前に、 羅喉が呼ばれた。,"Ragou was called by Linda, who had a nasty look on her face."
+Karasuma Ragou (talking),とんだ失態だ。,What a disgrace.
+Momoyama Linda (talking),本当でちゅわ。 今年の国家武道大会には、大した者は 出てなかったのでちゅかちら？,I agree. Maybe this year`s champion wasn`t so strong after all?
+Karasuma Ragou (talking),それ以上に、奴らが実力が高いと いう事だと思うがね。,I think it`s more that they`re really strong.
+Momoyama Linda (talking),どっちにしろ、負けは負けでちゅ。 あなたはもう、用なしでちゅ。,"Either way, you lost. I have no use for you."
+Karasuma Ragou (talking),わかった。,Understood.
+Hasekura Haine (talking),鴉丸様。 これは今までの報酬でございます。 お受け取り下さい。,Karasuma-sama. This is the salary we owed you. Please take it.
+Karasuma Ragou (talking),ありがとう、支倉さん。 すまぬ。 では。,"Thank you, Hasekura-san. And sorry. See you."
+narrator,こうして、羅喉はＰＭを解雇された。,"Thus, the PM fired Karasuma Ragou."
+Karasuma Ragou (talking),世話になったな。,Thanks for everything.
+Yamamoto Akuji (talking),ホント、いっちまうのかい。,You`re really leaving?
+Karasuma Ragou (talking),ああ。 城を買う資金が出来たからね。 飽きるまで向こうにいるよ。,"Yes. I have enough money to buy the castle, so I`ll be there until I tire of it."
+Yamamoto Akuji (talking),帰ってきて気が向いたら、 またうちで働いてくれや。,Feel free to come back whenever you want work.
+Karasuma Ragou (talking),ふっ…そうだな…その時の気分次第で。,"Yes, when I feel like it."
+Yamamoto Akuji (talking),そーいや、妹と思い人って奴は？,And your sister and lover?
+Karasuma Ragou (talking),先にナンコウで待たせてある。,They`re waiting at Nankou.
+Yamamoto Akuji (talking),そーかい、元気で。,I see. Take care.
+Karasuma Ragou (talking),ありがとう。君も… それでは、さらば。,"Thanks, you too. Now then, farewell."
+Yamamoto Akuji (talking),おう。,Bye.
+Karasuma Ragou (talking),私の技を堪能して貰えるかな？,Want a taste of my skills?

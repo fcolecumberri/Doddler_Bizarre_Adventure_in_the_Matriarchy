@@ -1,0 +1,645 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆イルラカムイ = 2:,{☆イルラカムイ = 2:
+__system__??,},}
+__system__??,{☆イルラカムイ = 6:,{☆イルラカムイ = 6:
+__system__??,},}
+__system__??,{☆イルラカムイ = 7:,{☆イルラカムイ = 7:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+Ilulakamui (talking),呼んだか、悪司。,"You called, Akuji?"
+Yamamoto Akuji (talking),お、ああ。 どーだい？ 本土の生活は？,"Yeah, I did. How`s it feel, living in the mainland?"
+Ilulakamui (talking),緑が少ないな。 機械が多い。,"Not a lot of forest around. Lots of machines, too."
+Yamamoto Akuji (talking),"特にここはゴミゴミしてっからなー。
+あ、そーいや、あんたの事をあんたの村で 聞いてた時に、英雄って呼んでた奴が 多かったけどよ。","Yeah, this area`s particularly messy.
+ Oh, right. When I asked about ya around your village, I heard a lotta folks call you a hero."
+Ilulakamui (talking),英雄はおおげさだ。 ただ、自分に出来る事をしただけだ。,That`s an exaggeration. I simply did what I could.
+Yamamoto Akuji (talking),何したんだい？,And what was it?
+Ilulakamui (talking),"蜂に襲われ、おかしくなった熊が、 村の中に入ってきた。 それを倒した。
+戦争によって生まれた盗賊を退治した。 そのような細かな事を片付けた。","A bear was sent into a frenzy after it was attacked by bees. It invaded the village, but I killed it.
+ I also defeated the bandits spawned by the war. I dealt with such things."
+Yamamoto Akuji (talking),そりゃ、英雄じゃねーか。,"Yeah, that`d make you a hero."
+Ilulakamui (talking),だが、自分の婚約者一人、救えない。,Yet I couldn
+Yamamoto Akuji (talking),そーいや、そんなに強いのに 人さらいに対してはどーしよーも なかったのか？,"You`re that strong, but you couldn`t do anything about the kidnapping?"
+Ilulakamui (talking),"その時、遠くの狩り場まで狩りに 出ていたので、村にいなかった。
+俺が帰ってきたのは、ウパスが 誘拐されて、３日後の事だった。","At the time, I was at a hunting grounds, far away from the village.
+ By the time I came back, it`d been 3 days since Upasu was kidnapped."
+Yamamoto Akuji (talking),そりゃー…どーしよーもねーなー。,Yeah... no helping that.
+Ilulakamui (talking),村に入る為に手引きした者は捕まえた。 そいつが本土の人買いにウパスを さらうようにそそのかしたそうだ。,I captured the man who guided them into the village. He was inticed by slave traders from the mainland.
+Yamamoto Akuji (talking),見つかるといいな。,Hope you find her.
+Ilulakamui (talking),そうじゃない。,Wrong.
+Yamamoto Akuji (talking),ん？,Huh?
+Ilulakamui (talking),見つけるんだ。,I WILL find her.
+Ilulakamui (talking),"悪司、用事なら手短に済ませて 貰ってよいか？
+日があるうちは外でウパスの事を 尋ねたいのだ。","Akuji, could you keep it short?
+ I want to go out and search for Upasu while the sun`s still up."
+Yamamoto Akuji (talking),あー……じゃあ、俺からのプレゼントは いらねーってか？,Oh... then ya don`t want my little present?
+Ilulakamui (talking),プレ……ゼント？,...Present?
+Yamamoto Akuji (talking),おう、この声に聞き覚えがあるんなら、 こっちきな。,Yeah. Come over here if ya recognize this voice.
+narrator,悪司は隣りの部屋に向かってそう言った。,Akuji spoke as he headed towards a room.
+Ilulakamui (talking),…………？,...?
+Ilulakamui (talking),"っ………
+ ……ウ…パス……？","...!
+ ...Upasu...?"
+Upasu (talking),"イルラカムイ……
+本当に、イルラカムイなのねっ……？","Ilulakamui...
+ It really is you, right?!"
+Ilulakamui (talking),ウパスっ……ウパス！！,Upasu... UPASU!!!
+Upasu (talking),ああっ……！！,Aaah...!
+narrator,イルラカムイはウパスの小さな躰を 胸の中に抱き入れた。,Ilulakamui held Upasu`s small body against his chest.
+Ilulakamui (talking),オオオっ…！！ 本当にウパスだ！！ ウパス！！,"Oooohhh! It really is you, Upasu!!!"
+Upasu (talking),ああっ……嘘みたい…… まさか…… 生きて会えるなんてっ…！,Ah... this is like a dream... I never thought I`d see you alive again...!
+Ilulakamui (talking),悪司……,Akuji...
+Yamamoto Akuji (talking),ん？,Hm?
+Ilulakamui (talking),ありがとう、感謝する。,You have my thanks.
+Yamamoto Akuji (talking),まー約束してたかんな。,"Well, I did promise."
+Ilulakamui (talking),この恩義、出来る限り俺は報いる。,I`ll repay you however I can.
+Yamamoto Akuji (talking),そーしてくれや。 俺はこのセンソー、 絶対に勝ちたいんでな。,"Good to hear it, `cause I wanna win this battle no matter what."
+Ilulakamui (talking),わかった。,Understood.
+Ilulakamui (talking),すまん、呼び出されていたが、 外にいた。,"Sorry, I was out when you called for me."
+Yamamoto Akuji (talking),探しにいってたのか。,Searching again?
+Ilulakamui (talking),ああ。,Yes.
+Yamamoto Akuji (talking),その顔だったら、ダメそうだったか。,"No good, from the looks of it."
+Ilulakamui (talking),ああ。 だけど、諦めない。,"Indeed, but I won`t give up."
+narrator,悪司は週刊ホーキセを呼んでいる。,Akuji was reading a magazine.
+Yamamoto Akuji (talking),ＯＬの処女当てねー…… こんなモンも娯楽になんのかねー。,"Guessing which OL is a virgin? This is one pastime, alright."
+Upasu (talking),ほら、お待たせしてしまっているわ、 イルラカムイ。 駄目よ……,"Come on, we`re keeping him waiting, Ilulakamui. That is no good."
+Ilulakamui (talking),駄目だ。 俺のそばから離れないでくれ。,No. I don`t want you to leave my side.
+Yamamoto Akuji (talking),何やってんだ、おめーら。,What`re you guys doing?
+Upasu (talking),すみません、悪司さん… この人、私から離れるのがいやだと…,"Sorry, Akuji-san. He doesn`t want to leave my side."
+Ilulakamui (talking),今でも夢に見るんだ。 お前がいなくなった時の事を。,I still see the time you were gone in my dreams.
+Yamamoto Akuji (talking),あのよー、この敷地にいる限り、 ウパスに手出しする奴はいないって。 そんな心配すんなよ。,"Listen, as long as you`re here, nobody`s gonna touch Upasu. Quit worryin` `bout that."
+Ilulakamui (talking),しかし……,Still...
+Upasu (talking),ホント、おっきな子供なんです。 もっと言ってあげて下さい。,"You really are just a big kid. Keep telling him, Akuji."
+Ilulakamui (talking),ウパスまで……,"Even you, Upasu...?"
+Yamamoto Akuji (talking),奥さん、悪いけど、席はずしててくんな。 さっちゃんと遊んでてくれや。,"Sorry, missy, but please leave. Go play with Sacchan or somethin`."
+Upasu (talking),はい、悪司さん。 それじゃあ、しっかりお仕事してね。 イルラカムイ。,"Okay, Akuji-san. Well then, make sure to work hard, Ilulakamui."
+Ilulakamui (talking),あ、ああ……,Y-Yeah.
+Yamamoto Akuji (talking),お前さんも心配すんのはいいけど、 ほどほどにな。,"It`s okay to worry some, but keep it reasonable."
+Ilulakamui (talking),……う、うむ……,O-Okay...
+Yamamoto Akuji (talking),今俺が出来る精一杯の気持ちだ。 受け取ってくれるかい？,This is all I can do right now. Will ya take it?
+Ilulakamui (talking),イヤイライケレ（ありがとう）。,Iyairaikere (thanks).
+narrator,イルラカムイは悪司が用意した金を、 恭しく受け取った。,Ilulakamui respectfully accepted the money Akuji offered him.
+Yamamoto Akuji (talking),さっび~~~~！！！！,IT`S SO FUCKING COLD!
+Takega Satsu (talking),でっかいどう…ほっかいどう……,Hokkaido... sure is Dekkaido.
+Yamamoto Akuji (talking),………………,......
+Takega Satsu (talking),…………,...
+Yamamoto Akuji (talking),さっちゃんも…… オオサカの子だったんだなぁ… ギャグを言うか……,"You really are an Osakan after all, Sacchan... That was some pun..."
+Takega Satsu (talking),"感心してどうする。
+それより、イルラカムイとかいう男の 住んでいる村はここでいいのか？","Quit it.
+ More importantly, is this the village that Ilulakamui is from?"
+Yamamoto Akuji (talking),ああ。 さっき手下が聞いてきたら、 英雄の家は村の中央の方らしい。,"Yeah. From what my men told me just now, the hero`s house is in the center of the village."
+Takega Satsu (talking),英雄？,Hero?
+Yamamoto Akuji (talking),だそーだ。 そんだけ強いって事なんだろ。,Apparently. Must mean he`s that strong.
+Takega Satsu (talking),だといいがな。,Hopefully.
+Yamamoto Akuji (talking),おー、ここだ、ここだ。 こんちゃー、誰かいるかいー？,"Ah, here we go. Helloooo, anyone hoooome?"
+narrator,悪司がそう叫ぶと、家の中から、 熊のような大男が出てきた。,"After Akuji shouted, a large, bear-like man came out of the house."
+Yamamoto Akuji (thinking),……ここで死んだフリしたくなるのが オオサカ人だけど、今やったら、 みんなにひかれるんだろーなー。,"...The Osakan in me wants to play dead, but everyone`d look if I did that right now."
+Ilulakamui (talking),何か？,What is it?
+Yamamoto Akuji (talking),俺は山本悪司。 あんたが、イルラカムイって人かい？,I`m Yamamoto Akuji. Are you Ilulakamui?
+Ilulakamui (talking),ああ。,Yes.
+Yamamoto Akuji (talking),あんた強いんだってな。,I hear you`re strong.
+Ilulakamui (talking),そんな事はない。,Not really.
+Yamamoto Akuji (talking),謙遜すんなって。 本土にも、あんたの強さは 知れ渡ってきている。,"Don`t be modest, now. Your strength is renowned even in the mainland."
+Ilulakamui (talking),本土…,Mainland...?
+Yamamoto Akuji (talking),ああ。 俺はオオサカからきた。,Yeah. I came here from Osaka.
+Ilulakamui (talking),そんな遠いところから、俺にどんな用事？,What brings you all the way here?
+Yamamoto Akuji (talking),今、俺の組はライバルと戦っている。 それの手助けをして欲しい。 報酬は出す。,"My group`s fighting our rivals right now, and I want help. I`ll pay you well."
+Ilulakamui (talking),人探しを頼めるか？,Can I ask for you to find someone?
+Yamamoto Akuji (talking),あん？,Huh?
+Ilulakamui (talking),"俺の婚約者、ウパスが本土の者に さらわれた。
+今、その事でどうするか、 家族会議をしていたところだ。
+俺達は、本土につてがなかったから。","My fiancee, Upasu, was kidnapped by people from the mainland.
+ We were just having a family meeting to do something about it.
+ We have no connections there."
+Yamamoto Akuji (talking),じゃあ、利害の一致だ。 俺に協力してくれるな？,Looks like our interests meet. Will you help me?
+Ilulakamui (talking),探してくれるのか？,Will you search for her?
+Yamamoto Akuji (talking),"本土つっても広いからな。
+俺の情報網でどんだけ探す事が 出来るかわかんねーけど、 出来る限りの努力はするぜ。","The mainland IS pretty big.
+ I dunno how much my info network can do, but I`ll do whatever I can to help."
+Ilulakamui (talking),わかった。 では、準備が整い次第、そちら行く。,Very well. Then I`ll head there once I`m done preparing.
+Yamamoto Akuji (talking),ＯＫ。 じゃあこれが、住所だ。,OK. Here`s the address.
+narrator,悪司は奉仕青年団の住所が書かれたメモを、 イルラカムイに渡した。,Akuji gave Ilulakamui a note with the YCSG`s address on it.
+Ilulakamui (talking),わかった。,Got it.
+Yamamoto Akuji (talking),それじゃあ、待ってるぜ。 出来るだけ早くきてくれると助かるよ。,"I`ll be waiting, then. It`d be great if you came quick."
+Ilulakamui (talking),ああ。,Alright.
+Seinendan Jyoshi (talking),ああああ、悪司さ~ん、く、熊が… 熊が、熊が、熊が……,"A-A-A-Akuji-san, there`s a b-b-b-b-bear..."
+Yamamoto Akuji (talking),熊~~？,A bear??
+Seinendan Jyoshi (talking),は、はい……,Y-Yeah...
+Yamamoto Akuji (talking),"……………
+ああ、イルラカムイがきたのか。 通してやってくれ。 俺の客だ。","...
+ Oh, Ilulakamui`s here? Let him through, he`s my guest."
+Seinendan Jyoshi (talking),あ、悪司さん、 熊の友達がいるんですか…？,"Y-You`re friends with bears, Akuji-san...?"
+Yamamoto Akuji (talking),ばーか、よく見てみろ。 人間だ。 さっさとしな。,"Take a closer look, dumbass. He`s human. Now let him through."
+Seinendan Jyoshi (talking),は、はい。,O-Okay.
+Ilulakamui (talking),こちらは暑いな。 空も灰色だ。 凶々しい。,"This region is pretty hot. The sky`s ashen gray, too. Very ominous."
+Yamamoto Akuji (talking),"デカイ爆弾落とされたからな。 ホッカイドウより、被害が甚大だったんで そいつもやむなしだ。
+これからしばらくの間、よろしく頼むぜ。","We had a huge bomb dropped on us. The damage here was much greater than in Hokkaido, so yeah.
+ I`ll be counting on you, now."
+Ilulakamui (talking),わかっている。 そちらの方も……,"Alright, and I`ll be counting on you as well."
+Yamamoto Akuji (talking),ああ、ウパスだったっけ。 あんたの婚約者の。,"It`s about Upasu, right? Your fiancee."
+Ilulakamui (talking),そうだ。,Exactly.
+Yamamoto Akuji (talking),探すっつっても、 何もなかったら探すのは無理だぜ。,"I`ll search, but I can`t do it with nothing to go on."
+Ilulakamui (talking),これを……,Here...
+narrator,イルラカムイは懐から ウパスの似顔絵を出した。,Ilulakamui took a portrait of Upasu out of his pocket.
+Ilulakamui (talking),これがウパスだ。,This is Upasu.
+Yamamoto Akuji (talking),おー……別嬪さんだな。,"Ooh, she`s a looker."
+Ilulakamui (talking),頼む。 一刻も早く、探し出してくれ。,"Please, search for her as soon as you can."
+Yamamoto Akuji (talking),んー……焦る気持ちもわかんなくないが、 気長に待ってくれ。,"I get why you`re in such a hurry, but be patient here."
+Ilulakamui (talking),………………,...
+Ilulakamui (talking),悪司！！,AKUJI!!
+Yamamoto Akuji (talking),どうした、イルラカムイ。 血相変えて。,"What`s wrong, Ilulakamui? You seem pissed."
+Ilulakamui (talking),ウパスを返せ！！,Give Upasu back!!
+Yamamoto Akuji (talking),ん~……？,Hmmm?
+Yamamoto Akuji (thinking),なんだ、もうばれたのか。,"What, he found out already?"
+Ilulakamui (talking),"ふざけるな！！ 貴様、俺がウパスを探しているのを 知っていて、どうしてっ……
+どうして、俺のウパスに 性を売らせている！？","Don`t fuck with me! You knew I`d been searching for her, so why...!
+ Why did you make my Upasu prostitute herself?!"
+Yamamoto Akuji (talking),何の事だ？ 俺は知んねーぞ。,What`re you talking about? I haven`t heard anything.
+Ilulakamui (talking),貴様~~~~~！！！！！,You bastard!!!
+Yamamoto Akuji (talking),知らねえったら、知らねえんだよ。 ウパスなら探してる。,"Look, I said I don`t know. I`m still searching for Upasu."
+Yamamoto Akuji (thinking),嘘だけど。,"...Yeah, right."
+Yamamoto Akuji (talking),だからあんたも、俺の頼んだ……,So get back to what I-
+Ilulakamui (talking),断る！！！,I REFUSE!!!
+Yamamoto Akuji (talking),何ぃ？,Come again?
+Ilulakamui (talking),"俺は、お前がウパスを探すのを手伝って くれると言うから、お前の戦士に なった！！
+しかし、ウパスがお前の手の中に いる事を知っている！！
+それなのに、お前はとぼけている！！ それは、俺にとって裏切り！！
+今この瞬間、お前は俺の敵だ！！","I became your soldier because you told me you`d help search for Upasu!
+ But I know you have her with you!
+ And yet you play dumb! You`ve betrayed me!!
+ From now on, you`re my enemy!"
+Yamamoto Akuji (talking),おいおい……,"Come on, now..."
+Ilulakamui (talking),"俺は、全身全霊をかけ、お前と戦う！
+俺は今からお前にとって、我が名と同じ、 イルラカムイ（死人を送る神）と なる！！
+この腕に、我が妻、 ウパスを取り戻すまでっ……！！","I`ll fight you with all I have!
+ With you, I shall live up to my name, Ilulakamui (The God of Death)!!
+ I`ll take back my wife with these very hands!"
+narrator,　　［ガシャーーーンッッッ！！］,　　*CRASH!!!*
+Yamamoto Akuji (talking),おわっ！？,Whoa?!
+narrator,イルラカムイは窓ガラスに体当たりし、 事務所から姿を消した。,Ilulakamui threw himself against the window and escaped from the office.
+Takega Satsu (talking),"何をした、悪司？！ 凄い音がしたぞ。
+なんだいい年をして、こんな狭いところで プロレスごっこでもしたのか。 いかんぞ。","What happened, Akuji?! I heard a hell of a noise.
+ Don`t tell me you`re playing wrestler at your age, still? You should grow up."
+Yamamoto Akuji (talking),"んな事してねっつの。
+イルラカムイが怒って こっから出てったんだ。","I did no such thing.
+ Ilulakamui got pissed and ran away."
+Takega Satsu (talking),あの、素朴な男がか。 何をした。,You mean that artless man? What did you do?
+Yamamoto Akuji (talking),別に。,Nothin`.
+Takega Satsu (talking),……奴の婚約者がらみだろう。,...It`s about his wife isn`t it.
+Yamamoto Akuji (talking),え゛。,Geh.
+Takega Satsu (talking),"図星か。 まったく……男というのは、これだから…
+奴は、必死に婚約者を探していた。 どうなっても知らんぞ。","Bullseye, huh? Honestly... Why are men like this?
+ He was desperately searching for her. You`re on your own here."
+Yamamoto Akuji (talking),うーい。,`kaaay.
+Ilulakamui (talking),悪司！！,Akuji!!
+Yamamoto Akuji (talking),イルラカムイ！ まさか、てめぇっ……,"Ilulakamui! Fucker, you`re actually-"
+Ilulakamui (talking),ウパスを返せ！！ 忘れたとも、知らぬとも言わさぬ！！,Give me Upasu back! Don`t you dare play dumb with me!
+Yamamoto Akuji (talking),知らねーモンは、知らねーって！,"I told you, I dunno a thing!"
+Yamamoto Akuji (thinking),いや、嘘だけど。 もの珍しい女って事で、頑張って 稼いでもらってるけど。,"Yeah, right. No way I`m not putting such an unusual woman to work."
+Ilulakamui (talking),ならば、その躰に聞くだけだ！！ 頭さえ残しておけば、四肢など 落としても聞く事は出来る！,Then I`ll just have to beat it out of you! Let`s see how many limbs you`re willing to lose!
+Ilulakamui (talking),ウパスを返して貰おう、悪司！,"Give me Upasu back, Akuji!"
+Yamamoto Akuji (talking),またきやがったか！ 知らねえっつってんだろ！！,"You`re here again?! I told you, I don`t know!"
+Ilulakamui (talking),嘘をつくな！！ 俺はお前がウパスの事を言うまで、 何度でもお前を襲う！！,Don`t lie to me! I`ll keep attacking you until you tell me about Upasu!
+__system__??,{RND = 0:,{RND = 0:
+Ilulakamui (talking),・・・おのれ・・ 悪司ぃ・・,...Damn you... Akuji......
+narrator,イルラカムイは、絶叫しそのまま 息絶えた。,"With that, Ilulakamui drew his last breath."
+__system__??,},}
+narrator,"朝日の中、白い霧にけぶっていた。
+夜明けの光が、大きな木の根元で 眠っている男の頬を刺す。","The morning brought with it a white fog.
+ The light of sunrise shone on the cheek of a man sleeping at the base of a tree."
+Ilulakamui (talking),っ…………,...!
+narrator,イルラカムイだった。,The man was Ilulakamui.
+Ilulakamui (talking),………ふう……,...Phew...
+narrator,イルラカムイはその巨躯をゆっくり起こす。,His large body slowly stood up.
+Ilulakamui (talking),つっ……,Ouch...
+narrator,悪司との戦いの為、躰は傷だらけだった。 それはすぐに癒える事なく、どんどん イルラカムイの躰の上で増殖している。,"His fight with Akuji left his covered in wounds. Unlikely to heal anytime soon, the wounds spread throughout his body."
+Ilulakamui (talking),"この躰……どうなってもいい… ウパスを…… ウパスを取り戻す事が出来るなら……
+神よ…… 今日も、俺は戦う…… だからウパスが無事でいるように……
+そして、俺に… 一目でいい…… ウパスを……ウパスの姿を……","I don`t care what happens to me. If I... can at least take Upasu back, then...
+ O Gods... Today I shall fight again, so please let Upasu be safe...
+ And also... Even for just a moment... Let me see her..."
+narrator,"　　［ぱきっ……］
+小枝の踏み折られる音がした。","　　*Snap!*
+ It was the sound of a branch snapping."
+Ilulakamui (talking),っ！,!!
+narrator,そちらの方に、イルラカムイは武器を構える。,Ilulakamui readied his weapon.
+narrator,そこに立っていたのは――,Standing in the direction of the sound was--
+Ilulakamui (talking),っ………,...!
+Upasu (talking),……………,...
+Ilulakamui (talking),っ……あっ……,...Ah...!
+Upasu (talking),"……っ………
+ ……ぁ……
+ああっ……！！","...!
+ ...ah...
+ Aaaaahhhh!"
+Ilulakamui (talking),オオオオっ……！！,Ooooohhhh!
+narrator,"二人は互いの姿を認めると、走り寄り、 腕を差し伸べた。
+が、ウパスの足が止まる。","Having recognized each other, the two ran towards and reached for each other.
+ However, Upasu stopped."
+Ilulakamui (talking),……どう……した？,What`s... wrong...?
+Upasu (talking),っ……私……だめ…… あなたに抱かれる事…出来ない…,...I`m... no good... I can no longer be embraced by you...
+Ilulakamui (talking),ウパス……？,Upasu...?
+Upasu (talking),私……人に売られた…… そして……,I... was sold to men... And then...
+Ilulakamui (talking),いやなら言うな。 知っている。,You don`t have to say it. I know.
+Upasu (talking),っ……！！,...!!!
+Ilulakamui (talking),だが、それがどうした。 ウパスはウパスだ。 俺の生涯たった一人の俺の妻だ。,But so what? You`re still yourself. My one and only woman for life.
+Upasu (talking),イルラカムイ……,Ilulakamui...
+Ilulakamui (talking),俺は違うのか？ 俺はお前の生涯一人の夫ではないのか？,Am I wrong? Am I not your one and only husband?
+Upasu (talking),違わないっ……違わないっ……,No... You`re not wrong!
+Ilulakamui (talking),ならば……,Then...
+narrator,イルラカムイはウパスの腕を取り、 自分の胸に抱き入れた。,Ilulakamui took Upasu`s arm and embraced her.
+Ilulakamui (talking),ウパス…… この時をどれだけ願ったか……！！,Upasu... How I`ve wished for this moment...!
+Upasu (talking),"うっ………
+ううっ……あああっ……！！","Uuuu...
+ Waaaah... waaaaaah!"
+Ilulakamui (talking),しかし、よく一人で逃げる事が出来たな…,"Still, I`m amazed you escaped."
+Upasu (talking),解放されたの… 私……もう、用済みだって……,I was set free. They said they were done with me...
+Ilulakamui (talking),"……そうか……
+ウパス、こんなどんよりとした 森ではなく、故郷の森に二人で帰ろう。
+そして… 二人で暮らそう。 いつまでも。","I see...
+ Rather than this gloomy forest, let us return to our home.
+ And then, we`ll live together. Until the very end."
+Upasu (talking),…………うん……,...Yes...
+narrator,二人は手に手を取り、森の霧の中に消えた。,"Holding hands, the two vanished into the mist."
+Ilulakamui (talking),俺の話……聞いてくれるか？,Will you hear me out?
+wakaishufu (talking),えっ…あの……セールスじゃないわよね？,"Uh, are you selling something?"
+Ilulakamui (talking),人探ししている。 この女、見た事ないか？,I`m looking for someone. Have you seen this woman?
+narrator,イルラカムイは懐から ウパスの似顔絵を出した。,Ilulamakui took a portrait of Upasu out of his pocket.
+wakaishufu (talking),"さあ……こんな変わった服を 着ていたら目立つし、忘れないわ……
+という事は、見てないから…… 知らないって事になるんだけど……","Hmm. Nobody`d forget someone wearing such strange clothes.
+ So no, I haven`t seen her. I don`t have a clue..."
+Ilulakamui (talking),そうか…… イヤイライケレ（ありがとう）。,I see. Iyairaikere (thanks).
+Ilulakamui (thinking),"これで一体、何人に聞いたのか… 誰も、ウパスを見た者はいない。
+ ……ウパス… もう少し待ってくれ… もうすぐ、お前を探し出す……","How many people have I asked so far, and always to no avail?
+ Upasu... Wait for me a little longer. I`ll find you soon enough."
+Ilulakamui (talking),本当…なのか？,Is... that true?
+Hasekura Haine (talking),ここに。,Here she is.
+Upasu (talking),……………,...
+Ilulakamui (talking),ウ……ウパスっ…！！,U-Upasu!!
+Upasu (talking),イルラカムイ……,Ilulakamui...
+Ilulakamui (talking),……どうした？,What`s wrong...?
+Upasu (talking),っ……私……だめ…… あなたに抱かれる事…出来ない…,...I`m... no good... I can no longer be embraced by you...
+Ilulakamui (talking),ウパス……？,Upasu...?
+Upasu (talking),"私……人に売られた…… そして……
+ …………っ…ぁ……","I... was sold to men... And then...
+ ...Ah...!"
+Ilulakamui (talking),いやなら言うな。,You don`t have to say it.
+Upasu (talking),っ………,...!
+Ilulakamui (talking),ウパスはウパスだ。 俺の生涯たった一人の俺の妻だ。,You`re still yourself. My one and only woman for life.
+Upasu (talking),イルラカムイ……,Ilulakamui...
+Ilulakamui (talking),俺は違うのか？ 俺はお前の生涯一人の夫ではないのか？,Am I wrong? Am I not your one and only husband?
+Upasu (talking),違わないっ……違わないっ……,No... You`re not wrong!
+Ilulakamui (talking),ならば……,Then...
+narrator,イルラカムイはウパスの腕を取り、 自分の胸に抱き入れた。,Ilulakamui took Upasu`s arm and embraced her.
+Ilulakamui (talking),ウパス…… この時をどれだけ願ったか……！！,Upasu... How I`ve wished for this moment...!
+Upasu (talking),"うっ………
+ううっ……あああっ……！！","Uuuu...
+ Waaaah... waaaaaah!"
+Ilulakamui (talking),ありがとう、感謝する。,Thanks. You have my gratitude.
+Hasekura Haine (talking),ではそれを、仕事で見せて 頂きたいですな。,Then we`d like you to show it through work.
+Ilulakamui (talking),わかった。 今まで以上に戦おう。,Very well. I shall fight even harder.
+Upasu (talking),イルラカムイ…？,Ilulakamui...?
+Ilulakamui (talking),"心配するな。 俺はもう、お前を手に入れた。 俺は無敵だ。
+絶対、離れない。","Don`t worry. Now that I have you again, I am invincible.
+ I`ll never leave you."
+Upasu (talking),………………,...
+__system__??,{☆イルラカムイ = 23:,{☆イルラカムイ = 23:
+narrator,厳しい顔をしたリンダの前に、 イルラカムイは連れ出された。,"Ilulakamui was brought before Linda, who had a sour look on her face."
+Momoyama Linda (talking),思ったより働かなかったでちゅわね。,You were worse than I`d thought.
+Ilulakamui (talking),すまぬ。 自分でもなさけないと思っている。,I`m sorry. Even I think I put on a shameful display.
+Momoyama Linda (talking),それだけではすみませんでちゅわ。 あなたはもうこのＰＭに必要なちでちゅ。,You won`t be getting off the hook. The PM no longer needs you.
+Ilulakamui (talking),なんだと？,What did you say?
+Momoyama Linda (talking),あなたに払う無駄金はありまちぇん。 とっとと田舎に帰ってくだちゃい。,We won`t waste any more money on you. Go back to the sticks.
+Ilulakamui (talking),……しかし…あなた達には、 ウパスを見つけて貰った恩が…,But I haven`t repaid you for finding Upasu yet-
+Momoyama Linda (talking),その恩を上手に返せなかったのは、 あなたでちゅわ。,And that is entirely your fault.
+Ilulakamui (talking),……………,...
+Momoyama Linda (talking),ごきげんよう。,Fare thee well.
+Ilulakamui (talking),………あなたに、 神々の祝福がありますように…,...May the Gods bestow their blessings on you...
+Ilulakamui (talking),……………,...
+Upasu (talking),……悔しいの…？,Are you frustrated...?
+Ilulakamui (talking),ああ。,Yes.
+Upasu (talking),………でもね私は、嬉しいわ。 あなたと村に帰る事が出来るんですもの。,"...I`m glad, though. Now we can return to the village."
+Ilulakamui (talking),ウパス……,Upasu...
+Upasu (talking),ね？ 帰りましょう… 私達の村に…,What do you say? Let`s go back to our village...
+Ilulakamui (talking),…そうだな… 今の俺達に出来るのは、それだけだ…,"...You`re right, that is all we can do right now."
+narrator,こうして、イルラカムイはＰＭを解雇された。,"Thus, Ilulamakui left the PM."
+__system__??,},}
+narrator,厳しい顔をしたリンダの前に、 イルラカムイは連れ出された。,"Ilulakamui was brought before Linda, who had a sour look on her face."
+Momoyama Linda (talking),思ったより働かなかったでちゅわね。,You were worse than I`d thought.
+Ilulakamui (talking),すまぬ。 自分でもなさけないと思っている。,I`m sorry. Even I think I put on a shameful display.
+Momoyama Linda (talking),それだけではすみませんでちゅわ。 あなたはもうこのＰＭに必要なちでちゅ。,You won`t be getting off the hook. The PM no longer needs you.
+Ilulakamui (talking),なんだと？ それでは、ウパスの捜索は……,What did you say? But then what about Upasu-
+Momoyama Linda (talking),当たり前でちゅけど、 もう終わりでちゅわ。,"It might be obvious, but we`re not gonna search for her anymore."
+Ilulakamui (talking),そんな……,That can`t be...
+Momoyama Linda (talking),帰ってくだちゃい。 もういりまちぇん。,Please leave. I no longer need you.
+Ilulakamui (talking),頼む、もう少し。 もう少し頑張らせてくれ。,"I beg you, let me fight for you for just a while longer."
+Momoyama Linda (talking),ハイネ！,Haine!
+narrator,ハイネはリンダに向かって静かに頭を下げると イルラカムイの首の後ろに手刀を叩きつけた。,Haine quietly nodded to Linda and struck the back of Ilulakamui`s neck.
+narrator,イルラカムイは気絶し、 ハイネの腕の中に倒れる。,"Ilulakamui passed out, collapsing on Haine`s chest."
+Momoyama Linda (talking),捨ててきなちゃい。,Throw him away.
+narrator,こうして、イルラカムイはＰＭを解雇された。,"Thus, the PM fired Ilulakamui."
+Tamanegi (talking),ウパスさん。,Upasu-san.
+Upasu (talking),は、はい…,Y-Yes?
+Tamanegi (talking),これから、あなたの調教の最終段階に 入らせて頂きます。,We`ll begin the last steps of your training now.
+Upasu (talking),あ……,Ah...
+Tamanegi (talking),"そのように怖がらなくてもよいですよ。 ただちょっと、今までとは違う世界に 行っていただくだけですから…
+そう…旅行のようなものですよ… ……クククッ……","You don`t need to be so scared. You`re just going to be taken to a new world, that`s all...
+ Yes, it`ll be like a trip... Kukuku...!"
+cg narrator,"「いっ…いやぁっ……やめてっ…… 　いたっ…あっ……」
+ 「あーーーっ………！！！」","「N-Nooo! Stop...! 　Ow!! aaahn!」
+ 「Aaaaaaaaahn!!!」"
+cg narrator,"容赦なくいきり立ったそれが、 ゆっくりウパスの菊座に入りこんでいく。
+「ひっ…！！ 　いやっ…いやぁぁっ…！！」
+ウパスは抵抗するが、その小さな躰では、 屈強な男達にはかなわなかった。
+「いっ…！！」
+その小さな躰を自ら揺さぶり、そして、 自ら痛みを産み出すウパス。
+「気にせず続けて下さい」
+そこにタマネギの無機質な声が響く。
+それに答えるように、ウパスの菊座を 埋め尽つくしている男がゆっくり 腰を動かし始めた。
+「はあっ……あ！！」
+痛みと、膣から繰り出される摩擦とは違う感覚に ウパスが息を飲む。
+「排泄感を伴う行為ですが、そういうのも 　好きというお客様もいます」
+タマネギはカシリと手にしている玉葱を齧り、 言葉を続ける。
+「ですが、そこを埋める事を目的の主体とし、 　排泄物という副産物には興味のないお客様も 　いらっしゃいます」
+「あなたはどちらにも対応出来るように、 　感覚を操る訓練をしなくてはいけません」
+タマネギが目配せすると、ウパスの菊座を 埋めているのとは別の男が、張り型を手に、 ウパスの前にやってきた。
+「ひっ…！！」
+その銀色の鈍い輝きを目にすると、 ウパスはあからさまに脅えの様子をみせた。
+「いくら訓練しても、あなたはこの擬似男根には 　慣れて下さいませんね…」
+タマネギは軽くため息をついた。
+「そのような事では困りますので… 　今日は徹底的に慣れて頂きますよ」
+「肉の熱を持っていようがいまいが、 　これは男根です」
+「男根に向けるのは、脅えではなく 　快楽への期待です」
+「それに伴う演技上の脅えならばいくら 　作って頂いてもかまいません」
+「ですが――」
+「それ以外の脅えは、邪魔です」
+擬似男根を持っている男は、 ウパスの花弁をゆっくり指でめくり、広げた。
+「いやぁぁっ…！！」
+ウパスは宙に浮いている足をばたばたして、 抵抗を見せる。
+「抵抗を許してはいけません。 　ねじ伏せて」
+タマネギがそう言うと、ウパスの菊座を 埋めている男が激しく腰を振り出した。
+「あ、あ、あ！！」
+ウパスはいきなり激しく感覚を刺激され、 舌を出し、戦慄いている。
+「さあ、今です。 　まずはゆっくりとそれで愛撫してあげて」
+タマネギの言葉に、 擬似男根を持った男が頷く。
+「ひあっ……あっ…！」
+かなりの太さを持つそれは、ウパスの花弁を 大きく押し広げ、奥から染み出している蜜を 無理矢理滲み出そうとしている。
+「いっ…あっ…あっ……」
+菊座を刺激され、花弁を、肉蕾を刺激され、 ウパスは躰を震わせる。
+「擬似男根に抵抗があるようですが、 　それは慣れです」
+「大体あなたは、私らが手をかける前から 　結構な太さのあるものを、何度も飲み込んだ形跡が 　あるのですから」
+「うっ…！」
+ウパスは一瞬快楽を忘れ、何かを思い出した。
+「それは、あなたの婚約者ですか？」
+「うっ…ううっ……」
+「もう戻る事は出来ませんよ。 　何か、余程の事がない限り……」
+「うっ…うううっ……」
+ウパスはむせび泣いている。
+「だったら、この世界を甘受する事です。 　この世界も悪くはありません。 　あなた次第で優しい、自分だけの世界がある」
+「………あっ……うぅっ……」
+自分の快楽を絞り出したいのか、ウパスの菊座を 貪っている男の動きが小刻みになってきた。
+「あなたを待っているのは、その世界の入り口です。 　さあ、心を自由にしてご覧なさい」
+「っ……んっ……ああっ…！！」
+菊座を貪られている。 そして花弁は、極太の擬似男根に責められている。
+その先端が、つんつんと花弁の中央に 纏わりついていた。
+「さあ……扉を開いて差し上げますよ。 　これが入った時、あなたはもう、すべてを 　甘受出来る、素晴らしい娼婦になりましょう」
+「うっ…あっ…はっ、あっ…！！」
+擬似男根を持った男は、ウパスの花弁を それで押し広げ、ウパスの奥を狙っていた。
+「くっ……あ！」
+みしみしと肉を割って押し入ってくるその感覚は、 婚約者のものが侵入してくる時の事を、 ウパスに思い出させる。
+「イルラカムイ……あっ…あっああっ……」
+「あっ……」
+「あ~~~~~~~……！！！」","容赦なくいきり立ったそれが、 ゆっくりウパスの菊座に入りこんでいく。
+ 「ひっ…！！ 　いやっ…いやぁぁっ…！！」
+ ウパスは抵抗するが、その小さな躰では、 屈強な男達にはかなわなかった。
+ 「いっ…！！」
+ その小さな躰を自ら揺さぶり、そして、 自ら痛みを産み出すウパス。
+ 「気にせず続けて下さい」
+ そこにタマネギの無機質な声が響く。
+ それに答えるように、ウパスの菊座を 埋め尽つくしている男がゆっくり 腰を動かし始めた。
+ 「はあっ……あ！！」
+ 痛みと、膣から繰り出される摩擦とは違う感覚に ウパスが息を飲む。
+ 「排泄感を伴う行為ですが、そういうのも 　好きというお客様もいます」
+ タマネギはカシリと手にしている玉葱を齧り、 言葉を続ける。
+ 「ですが、そこを埋める事を目的の主体とし、 　排泄物という副産物には興味のないお客様も 　いらっしゃいます」
+ 「あなたはどちらにも対応出来るように、 　感覚を操る訓練をしなくてはいけません」
+ タマネギが目配せすると、ウパスの菊座を 埋めているのとは別の男が、張り型を手に、 ウパスの前にやってきた。
+ 「ひっ…！！」
+ その銀色の鈍い輝きを目にすると、 ウパスはあからさまに脅えの様子をみせた。
+ 「いくら訓練しても、あなたはこの擬似男根には 　慣れて下さいませんね…」
+ タマネギは軽くため息をついた。
+ 「そのような事では困りますので… 　今日は徹底的に慣れて頂きますよ」
+ 「肉の熱を持っていようがいまいが、 　これは男根です」
+ 「男根に向けるのは、脅えではなく 　快楽への期待です」
+ 「それに伴う演技上の脅えならばいくら 　作って頂いてもかまいません」
+ 「ですが――」
+ 「それ以外の脅えは、邪魔です」
+ 擬似男根を持っている男は、 ウパスの花弁をゆっくり指でめくり、広げた。
+ 「いやぁぁっ…！！」
+ ウパスは宙に浮いている足をばたばたして、 抵抗を見せる。
+ 「抵抗を許してはいけません。 　ねじ伏せて」
+ タマネギがそう言うと、ウパスの菊座を 埋めている男が激しく腰を振り出した。
+ 「あ、あ、あ！！」
+ ウパスはいきなり激しく感覚を刺激され、 舌を出し、戦慄いている。
+ 「さあ、今です。 　まずはゆっくりとそれで愛撫してあげて」
+ タマネギの言葉に、 擬似男根を持った男が頷く。
+ 「ひあっ……あっ…！」
+ かなりの太さを持つそれは、ウパスの花弁を 大きく押し広げ、奥から染み出している蜜を 無理矢理滲み出そうとしている。
+ 「いっ…あっ…あっ……」
+ 菊座を刺激され、花弁を、肉蕾を刺激され、 ウパスは躰を震わせる。
+ 「擬似男根に抵抗があるようですが、 　それは慣れです」
+ 「大体あなたは、私らが手をかける前から 　結構な太さのあるものを、何度も飲み込んだ形跡が 　あるのですから」
+ 「うっ…！」
+ ウパスは一瞬快楽を忘れ、何かを思い出した。
+ 「それは、あなたの婚約者ですか？」
+ 「うっ…ううっ……」
+ 「もう戻る事は出来ませんよ。 　何か、余程の事がない限り……」
+ 「うっ…うううっ……」
+ ウパスはむせび泣いている。
+ 「だったら、この世界を甘受する事です。 　この世界も悪くはありません。 　あなた次第で優しい、自分だけの世界がある」
+ 「………あっ……うぅっ……」
+ 自分の快楽を絞り出したいのか、ウパスの菊座を 貪っている男の動きが小刻みになってきた。
+ 「あなたを待っているのは、その世界の入り口です。 　さあ、心を自由にしてご覧なさい」
+ 「っ……んっ……ああっ…！！」
+ 菊座を貪られている。 そして花弁は、極太の擬似男根に責められている。
+ その先端が、つんつんと花弁の中央に 纏わりついていた。
+ 「さあ……扉を開いて差し上げますよ。 　これが入った時、あなたはもう、すべてを 　甘受出来る、素晴らしい娼婦になりましょう」
+ 「うっ…あっ…はっ、あっ…！！」
+ 擬似男根を持った男は、ウパスの花弁を それで押し広げ、ウパスの奥を狙っていた。
+ 「くっ……あ！」
+ みしみしと肉を割って押し入ってくるその感覚は、 婚約者のものが侵入してくる時の事を、 ウパスに思い出させる。
+ 「イルラカムイ……あっ…あっああっ……」
+ 「あっ……」
+ 「あ～～～～～～～……！！！」"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Chinpira (talking),"はい、お待たせしました~。 特製ステージ、準備完了しました~。
+それではウパスさん、ウパスさん。 張り切ってどうぞ~！ ハッスル~！","`kay, sorry for the wait! The special stage`s all ready!
+ Now then, Upasu-san, break a leg! Let`s hustle!"
+cg narrator,"「うあっ…ああっ…んっ……」
+ 「はあ…はぁぁ………」
+ 「んっ…」
+ 「お待たせしました…どうぞ、グラスを…」","「Waaah! aaahn! mn!」
+ 「Haah... haaaaaah...」
+ 「Mn!」
+ 「Sorry for the wait. Here`s your glass.」"
+cg narrator,"ウパスは大きく足を開き、そこに差し込まれ、 固定された瓶の中身をゆっくり、 客の差し出すグラスにシャンパンを注ぐ。
+ 「んっ…んんっ……」
+足の力でその行為をする為、 ウパスは少し震えていた。
+ 「大丈夫かい？ 　震えているようだけど…」
+噂でそのような接待の出来る売春婦がいると 聞いてやってきた客だった。 初めてウパスのその技を見せられていた。
+ 「はい…大丈夫です…慣れてますから…」
+バックに流れている音楽に消え入りそうな、 儚い声で、ウパスはそう答えた。
+ 「そんな小さな躰に、槍のような瓶が 　入っている事自体、不思議だね」
+ 「……そう…しこまれましたから…」
+ 「それだけなのかい？」
+ 「え……？」
+ 「君ような可愛らしい子ならば、 　どんな男も言いなりになっただろう？」
+ 「………一人……だけ… 　……多分、今も私がどこにいるか 　探している人が…」
+ 「その男には、指一本、 　ふれさせなかったのかい？」
+ 「…………………」
+男ははウパスの注いだシャンパンを 一息で喉に流し込んだ。
+ 「いいシャンパンだ…… 　で、どうなんだい？ 　客の私には、聞かせられないかな？」
+ 「……いいえ……」
+男はシャンパングラスを差し出した。 ウパスはまた足に力をこめ、そこに液体を注ぐ。
+ 「私と彼は幼なじみで…… 　もうすぐ結婚するはずでした…… 　でも私は人買いにさらわれて……」
+ 「それから……ここにいます…」
+ 「肝心のところが抜けているね」
+ 「えっ……」
+ 「私は、君がその男とどういった躰の 　つき合いがあったのかを聞いているの 　だけど…」
+ 「……同衾…した事はあります…」
+ 「ほう」
+ 「…………彼は…躰の大きな人でした…」
+ 「では、そちらの方も、大きかったのかね」
+ウパスは肯定に頬を染める。
+ 「では、君のそこは訓練の前に、そのようなものでも 　飲み込む事が出来る状態になっていたのだね」
+ 「っ……」
+ 「どうした？ 　彼の事でも思い出したのかね」
+客は手を伸ばすと、ウパスのそこに ささっている瓶の口を指で弾いた。
+ 「あっ…！」
+突然繰り出された感覚にウパスがほんの少し 高い声をあげる。
+集中して力をいれておかなくてはバランスの 取れない状態であった為、瓶の口から少し シャンパンが落ちた。
+ 「どうしたね？」
+ 「うっ……いえ…な、なんでも…」
+ 「このような状態でも、 　さわると感じる事が出来るのかね」
+客である男は、今度は瓶の口を指でつまむと、 円を描くように動かした。
+ 「あっ……んっ！」
+ 「随分と可愛らしい声だ。 　君の婚約者だった男は、さぞかし君を 　愛玩しただろうね」
+ウパスは震えながら、首を左右に振る。
+ 「いっ……いやっ……」
+ 「婚約者の太いものは、こうやって 　君を悦ばせていたのではないのかね？」
+客はそう言うと、さらに瓶を揺らした。
+ 「あっ……ああ！」
+ウパスが大きく震え、鳴き声をあげる。
+ 「気持ちいいのかね？」
+ 「うっ……んっ……」
+ 「ちゃんと答えて貰えるかな？」
+男は手に力をこめ、ゆっくり、 さらに瓶をウパスの中に埋めた。
+ 「あああっ！！」
+ 「苦しいかい？」
+ 「はっ…はいっ……苦しいっです…」
+ 「だったら答えてくれないか。 　今は快楽に身をゆだねて声をあげたのかね？」
+ 「はっ……はい……そうです…」
+ 「では、瓶の向こうは、どうなっているのかい？」
+ 「……濡れて……います…」
+ 「それは自分でもわかるのかい？」
+ 「はっ……はいっ……」
+ 「もっと、いたぶって欲しいと 　躰が言っているのかい？」
+ 「…………は……い……」
+ 「手を使わず、自分でその瓶を抜く事が出来たら、 　さらに快楽を与えてあげよう」
+ 「えっ……」
+ 「さあ……やってごらん…」
+ウパスは目を閉じると、下腹に力をこめ出した。
+ 「ん……っ……んんっ……」
+ゆっくりと瓶が動き出す。
+ 「んっ…んあっ……あっ……あっ…あっ… 　いやっ…あっ……」
+瓶はゆっくりゆっくり、そこから顔を出す。
+ 「あっ…ああっ…あ、あ、あっ……！！」
+ずるりと瓶が花弁から吐き出された。 そしてそれと同時に、ウパスはそこから 潮を吹き、花の上に珠を零した。","ウパスは大きく足を開き、そこに差し込まれ、 固定された瓶の中身をゆっくり、 客の差し出すグラスにシャンパンを注ぐ。
+ 「んっ…んんっ……」
+ 足の力でその行為をする為、 ウパスは少し震えていた。
+ 「大丈夫かい？ 　震えているようだけど…」
+ 噂でそのような接待の出来る売春婦がいると 聞いてやってきた客だった。 初めてウパスのその技を見せられていた。
+ 「はい…大丈夫です…慣れてますから…」
+ バックに流れている音楽に消え入りそうな、 儚い声で、ウパスはそう答えた。
+ 「そんな小さな躰に、槍のような瓶が 　入っている事自体、不思議だね」
+ 「……そう…しこまれましたから…」
+ 「それだけなのかい？」
+ 「え……？」
+ 「君ような可愛らしい子ならば、 　どんな男も言いなりになっただろう？」
+ 「………一人……だけ… 　……多分、今も私がどこにいるか 　探している人が…」
+ 「その男には、指一本、 　ふれさせなかったのかい？」
+ 「…………………」
+ 男ははウパスの注いだシャンパンを 一息で喉に流し込んだ。
+ 「いいシャンパンだ…… 　で、どうなんだい？ 　客の私には、聞かせられないかな？」
+ 「……いいえ……」
+ 男はシャンパングラスを差し出した。 ウパスはまた足に力をこめ、そこに液体を注ぐ。
+ 「私と彼は幼なじみで…… 　もうすぐ結婚するはずでした…… 　でも私は人買いにさらわれて……」
+ 「それから……ここにいます…」
+ 「肝心のところが抜けているね」
+ 「えっ……」
+ 「私は、君がその男とどういった躰の 　つき合いがあったのかを聞いているの 　だけど…」
+ 「……同衾…した事はあります…」
+ 「ほう」
+ 「…………彼は…躰の大きな人でした…」
+ 「では、そちらの方も、大きかったのかね」
+ ウパスは肯定に頬を染める。
+ 「では、君のそこは訓練の前に、そのようなものでも 　飲み込む事が出来る状態になっていたのだね」
+ 「っ……」
+ 「どうした？ 　彼の事でも思い出したのかね」
+ 客は手を伸ばすと、ウパスのそこに ささっている瓶の口を指で弾いた。
+ 「あっ…！」
+ 突然繰り出された感覚にウパスがほんの少し 高い声をあげる。
+ 集中して力をいれておかなくてはバランスの 取れない状態であった為、瓶の口から少し シャンパンが落ちた。
+ 「どうしたね？」
+ 「うっ……いえ…な、なんでも…」
+ 「このような状態でも、 　さわると感じる事が出来るのかね」
+ 客である男は、今度は瓶の口を指でつまむと、 円を描くように動かした。
+ 「あっ……んっ！」
+ 「随分と可愛らしい声だ。 　君の婚約者だった男は、さぞかし君を 　愛玩しただろうね」
+ ウパスは震えながら、首を左右に振る。
+ 「いっ……いやっ……」
+ 「婚約者の太いものは、こうやって 　君を悦ばせていたのではないのかね？」
+ 客はそう言うと、さらに瓶を揺らした。
+ 「あっ……ああ！」
+ ウパスが大きく震え、鳴き声をあげる。
+ 「気持ちいいのかね？」
+ 「うっ……んっ……」
+ 「ちゃんと答えて貰えるかな？」
+ 男は手に力をこめ、ゆっくり、 さらに瓶をウパスの中に埋めた。
+ 「あああっ！！」
+ 「苦しいかい？」
+ 「はっ…はいっ……苦しいっです…」
+ 「だったら答えてくれないか。 　今は快楽に身をゆだねて声をあげたのかね？」
+ 「はっ……はい……そうです…」
+ 「では、瓶の向こうは、どうなっているのかい？」
+ 「……濡れて……います…」
+ 「それは自分でもわかるのかい？」
+ 「はっ……はいっ……」
+ 「もっと、いたぶって欲しいと 　躰が言っているのかい？」
+ 「…………は……い……」
+ 「手を使わず、自分でその瓶を抜く事が出来たら、 　さらに快楽を与えてあげよう」
+ 「えっ……」
+ 「さあ……やってごらん…」
+ ウパスは目を閉じると、下腹に力をこめ出した。
+ 「ん……っ……んんっ……」
+ ゆっくりと瓶が動き出す。
+ 「んっ…んあっ……あっ……あっ…あっ… 　いやっ…あっ……」
+ 瓶はゆっくりゆっくり、そこから顔を出す。
+ 「あっ…ああっ…あ、あ、あっ……！！」
+ ずるりと瓶が花弁から吐き出された。 そしてそれと同時に、ウパスはそこから 潮を吹き、花の上に珠を零した。"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+__system__??,{☆イルラカムイ = 7:,{☆イルラカムイ = 7:
+Chinpira (talking),よし、行くぞ。,"Alright, here I go."
+__system__??,},}
+Chinpira (talking),あなた達に怨みはないが、 やらせて貰う。,"I bear you no ill will, but I must defeat you."
+Upasu (talking),イルラカムイ…,Ilulakamui?
+Ilulakamui (talking),ここだ、ウパス。,"I`m here, Upasu."
+Upasu (talking),長老様達がお呼びよ。 子供達の教育について、本土に行った事の あるあなたに意見が聞きたいのですって。,The Elders are calling you. They want your opinions for the children`s education since you went to the mainland.
+Ilulakamui (talking),うむ…本土にいたと言っても、 そのような事に関っては いなかったがなぁ…,"Hrm... I may have gone there, but nothing that would be of value to their education happened..."
+Upasu (talking),長老様達は、あなたを頼りにしたいのよ。 さあ、行きましょう。,"The Elders want to rely on you. Now, let`s go."
+Ilulakamui (talking),うむ、そうだな。,"Mhm, very well."

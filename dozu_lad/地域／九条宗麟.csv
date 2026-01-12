@@ -1,0 +1,448 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆宗麟 = 3:,{☆宗麟 = 3:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+Kujou Sourin (talking),お呼びですか？ 悪司さん。,"Did you call for me, Akuji-san?"
+Yamamoto Akuji (talking),おう、こっちこいや。,"Yeah, come over here."
+Kujou Sourin (talking),はい、失礼します。,"Very well, please excuse me."
+Yamamoto Akuji (talking),"お前さんさー、どうしてそんなに 金が欲しい訳？
+なんかこー、高貴な匂いがするのに、 金、金ってガメツイ事言うからよ。 アンバランスだなーと。","Hey, why do you want money that badly?
+ You give off this high-class vibe, yet you keep asking for money. Feels jarring."
+Kujou Sourin (talking),僕の為に使うお金ではありません。 僕がお世話になっています、 お寺の為です。,"I do not want the money for myself, but for the temple that raised me."
+Yamamoto Akuji (talking),寺？,Temple?
+Kujou Sourin (talking),はい。 僕は九条橋の袂に捨てられていた 子供なんです。,Yes. I was abandoned as a child on the vicinity of Kujoubashi.
+Yamamoto Akuji (talking),だから、九条……,So that`s why you`re Kujou.
+Kujou Sourin (talking),"はい。 宗麟は、そこにいるお爺殿達…… お坊様方につけて頂いた名前です。
+そのお寺は、戦前から重要文化財指定を 国から受けていたので、しっかり 維持しなくてはいけません。
+その為には、お金が必要らしいのです。
+戦前までは、その辺りは経理に詳しい方が 専属でやって下さっていたのですが、 戦災によって、お亡くなりになりました。
+また、寺の若い人達は、次々と徴兵され、 未だ戻ってきません。 戸籍のない僕は、徴兵されませんでした。","Indeed. And Sourin was the name my esteemed grandfathers, the monks, gave me.
+ Before the war, the temple was seen as an important cultural site, so it must be looked after.
+ And for that, one needs money.
+ Before, a finance specialist took care of it, but he passed away in the war.
+ Also, the temple`s youth were conscripted and have yet to return. As I had no registry, I was spared."
+Yamamoto Akuji (talking),で、寺の維持費の為に、金がいると。,So it`s to maintain the temple.
+Kujou Sourin (talking),"はい。
+経理をなさっていた方が残して下さって いた手紙に、月々３００万円は必要と 書かれていました。","Indeed.
+ The letter the specialist left said he needed 300k yen every month to do it."
+Yamamoto Akuji (talking),それで、３００万円……,That`s why you asked for that...
+Kujou Sourin (talking),"はい。 意地でも、僕が稼がなくてはいけない 最低金額です。
+そうしなければ、お爺殿達は 自分達が死んでも寺を守ろうとするので。
+しかし、僕は寺からあまり外に出た事が なかったので……
+お金の価値がいまひとつ、 わかりません。","Yes. That`s the minimum amount I must get, no matter what it takes.
+ If I don`t, my grandfathers will protect the temple to their death.
+ However, I never left the temple much...
+ So I never really understood the value of money."
+Yamamoto Akuji (talking),そーだなーー。 娼館が何するとこだって、 わかんなかったみたいだし。,"Right. Seemed like you didn`t even know what a brothel was, either."
+Kujou Sourin (talking),そんな中で、悪司さんにお会いする事が 出来て、非常にありがたく思っています。,Which is why I`m extremely thankful to have met you.
+narrator,宗麟はそう言うと、悪司に手を合わせた。,Sourin then joined hands with Akuji.
+Yamamoto Akuji (talking),おいおい、何やってんだよ。,"Hey, what`re ya doing?"
+Kujou Sourin (talking),お呼びになりましたか？,Did you call for me?
+Yamamoto Akuji (talking),おう。,Yeah.
+Yamamoto Akuji (talking),これ、ちょっとだけど、寺の維持費の 足しにしてやってくんな。,"It ain`t much, but take this to help with the temple."
+narrator,悪司はまとまった金の入った封筒を、 宗麟に手渡した。,Akuji gave Sourin an envelope filled with money.
+Kujou Sourin (talking),ありがとうございます。 お爺殿達も喜ぶ事でしょう。 では、お礼に読教を……,"Thank you. My grandfathers will surely be glad. As thanks, shall I recite a sutra-"
+Yamamoto Akuji (talking),あー、そんな抹香臭いのはいらねぇ。 そん代わり、俺の為に働いてくれ。,"Nah, I don`t need that crap, just keep working hard."
+Kujou Sourin (talking),はい、わかりました。,"Very well, then."
+narrator,宗麟が悪司の前に連れてこられた。,Sourin was brought out to Akuji.
+Kujou Sourin (talking),お願いです、ここから出して下さい。 僕にはじっとしている時間はないのです。 お願いします。,"Please, let me out of here. I`ve no time for dawdling. I beg of you."
+Yamamoto Akuji (talking),ん~……,Hmmm...
+Kujou Sourin (talking),悪司さん……お願いです。,Akuji-san... I beg of you.
+Kujou Sourin (talking),こうしている間に、お爺殿達は自分の命を 削って寺を守っています。 お願いですから、僕を解放して下さい。,"While I`m here, my grandfathers are risking their lives for the temple. Please, let me out of here."
+Yamamoto Akuji (talking),こんだけ積めば、俺の部下になるか？,Will ya work for me with this?
+narrator,悪司はまとまった金を宗麟に見せた。,Akuji showed Sourin a bundle of cash.
+Kujou Sourin (talking),外に出して頂けて、仕事もさせてくれると いう事ですよね？,You would let me out and give me a job?
+Yamamoto Akuji (talking),ああ、そうだ。,Yep.
+Kujou Sourin (talking),ではなります。 お願いします。 今すぐ使って下さい。,"Then I accept. Please, make use of me right away."
+Yamamoto Akuji (talking),よし、決まりだ。,"Nice, it`s settled then."
+Kujou Sourin (talking),………………,...
+narrator,真摯な顔をして、うつむいている宗麟がいた。,Sourin was looking serious and depressed.
+Kujou Sourin (thinking),"今日も、お金を頂く事が 出来なかった……
+このままでは、自分達が食べるものを 削って、お爺殿達は寺を守ろうとする。
+そんな事はさせられない。
+ ……………
+申し訳ありません、悪司さん……","I wasn`t paid today once again...
+ At this rate, my grandfathers will have to fast to protect the temple.
+ I will not let that happen.
+ ...
+ Forgive me, Akuji-san..."
+narrator,その日から、宗麟は姿を消した。,Sourin was never seen again.
+narrator,そこに一人の男が訪れた。,A lone man appeared.
+Kujou Sourin (talking),あの……どなたかいらっしゃいませんか？ ……あのー…,Um... Is anyone home? Hello...?
+narrator,男は一人、神社の中を人影求めて 声をかけ続けた。,"The man kept calling out through the shrine, hoping to find another person."
+Kujou Sourin (talking),駄目だ……ここも、戦争のせいで 無人になってしまっている……,"No good, this place also became deserted thanks to the war..."
+Kujou Sourin (talking),頼りはここだけと、お爺殿達に 言われてきたというのに… どうすればいいのかな……,My grandfathers told me this was the only place I could rely on. What should I do...?
+narrator,男は、愁眉を作り、軽くため息をついた。,"With a saddened expression, the man sighed."
+Kujou Sourin (talking),あの、すみません。,"Um, excuse me."
+ten'in (talking),はいよ、どしたい。 綺麗なおにーちゃん。 大根が安くなってるよ。,"Yeah, what is it, pretty boy? My daikon`s getting spoiled while we`re talkin`."
+Kujou Sourin (talking),"あ、いえ、お買い物にきたのでは ありません。
+こちらに貼ってある求人チラシが 目に入ったものですから、 その事をお聞きしたいと。","Oh, no, I did not come here for shopping.
+ I saw your job offering on a leaflet, so I`m here to talk about that."
+ten'in (talking),ああ、にーちゃんが働いてくれるのかい？ あんただったら、その顔でいくらでも客が 寄ってくるから大歓迎だよ。,"Oh, ya wanna work for me, kid? You`d be one hell of a poster boy, so I`d love to have ya."
+Kujou Sourin (talking),あの…時給４５０円となっているのですが これ、もう少しあげて頂けますか？,"Um, it says it`s 450 yen an hour. Could you raise that a little?"
+ten'in (talking),どのくらいだい？,By how much?
+Kujou Sourin (talking),はい、一万円ぐらいに。 それでしたら、僕、寺に――,"By about ten thousand. With that, I could maintain the temple-"
+ten'in (talking),馬鹿言ってんじゃないよ！！,Quit foolin` round!
+Kujou Sourin (talking),えっ……,Eh?!
+ten'in (talking),そんなに時給くれるんだったら、 あたしだってパートに出るよ！ なんて子だい！,"If this job paid that much, I`D be the one applyin`! What a brat!"
+Kujou Sourin (talking),あ、あの僕、怒鳴られるような事 言いましたか？,"U-Um, have I said something that angered you?"
+ten'in (talking),なんだい、イカれてんのかい！？ ショーバイの邪魔だよ！ あっち行った行った！！,You got a screw loose or somethin`?! Yer hindering my business! Git outta here!
+Kujou Sourin (talking),では、どのような仕事だと お金がたくさん稼げますか？,"Then, what sort of job would pay me lots of money?"
+ten'in (talking),躰売るか、用心棒にでもなるんだね！！,Go be an escort or somethin`!
+Kujou Sourin (talking),躰を……売る……？？ 用心棒…は、少しはわかるのですが……,An escort...? I do think I could guard people...
+ten'in (talking),なんだい、あんた…… 外国で暮らしていたのかい？,What`s with you...? You been livin` in a barn?
+Kujou Sourin (talking),いえ、ニホンですが……,"No, I`ve been living in Japan..."
+ten'in (talking),もう、どっちでもいいよ。 さっさとどっか行ってくんな。,Oh whatever. Get outta here already.
+Kujou Sourin (talking),わかりました。 色々と教えて貰えて嬉しかったです。 ありがとうございました。,Understood. I`m glad to have been taught so much. You have my gratitude.
+narrator,青年は丁寧に頭を下げると、 そこから立ち去った。,"The young man politely bowed, then left."
+Yamamoto Akuji (talking),なんだ…静かだと思ったら、ここ 無人になっちまったのか。,"I thought this place was quiet, but it`s outright deserted."
+narrator,悪司は少し荒れてきている神社を ぐるりと見回した。,"Akuji looked around the shrine, which was in a slightly rough shape."
+Yamamoto Akuji (talking),これも戦争のせいかねー……,"This because of the war, too...?"
+Kujou Sourin (talking),参拝者の方ですか？,Are you a visitor?
+Yamamoto Akuji (talking),いんや。 あんたは？ ここの人かい？,Nah. What about you? You from this shrine?
+Kujou Sourin (talking),"いえ、違います。 僕はここの軒下を少し借りて、 職探しをしています。
+名前は九条宗麟と申します。 キョウの方から参りました。","No, I am not. I`m looking for a job, and have been borrowing this shrine`s roof.
+ I am Kujou Sourin. I`ve come here from Kyou."
+narrator,宗麟はそう言うと、きっちりと礼儀正しく 頭を下げた。,Sourin finished his introduction with a courteous bow.
+Yamamoto Akuji (talking),あ、こりゃどーも。 俺は、山本悪司ってんだ。,Nice to meetcha. I`m Yamamoto Akuji.
+Kujou Sourin (talking),"やまもと…あくじ……
+あなたが、悪司さんでしたか。","Yamamoto... Akuji...
+ So you`re Akuji-san?"
+Yamamoto Akuji (talking),なんだい、その口ぶり… 俺を探してたってか？,What did you mean by that? Were ya looking for me?
+Kujou Sourin (talking),はい。 あなたの元に行けば、 高額な仕事があると聞きまして。,Yes. I`ve heard that I could earn a lot of money by working for you.
+Yamamoto Akuji (talking),あ~……,Ah...
+Kujou Sourin (talking),僕を、あなたのところのショウカンで 働かせて下さい。,Please let me work for you as an escort.
+Yamamoto Akuji (talking),………………,...
+Kujou Sourin (talking),………………,...
+Yamamoto Akuji (talking),…………は？？,...HUH?
+Kujou Sourin (talking),ですから、ショウカンで働かせて下さい。,I`d like to work as an escort.
+Yamamoto Akuji (talking),…………,...
+narrator,"　　［ぺた］
+悪司は宗麟の胸を、両掌でさわった。","　　*Pomf*
+ Akuji touched Sourin`s chest with his palms."
+Yamamoto Akuji (talking),乳はねーなー…,"No boobs, huh..."
+Kujou Sourin (talking),はい。 男ですので。,"Yes. I am a man, after all."
+Yamamoto Akuji (talking),男なのに、娼館で働くって… 正気か？,"You`re a man, but want to be an escort... are you insane?"
+Kujou Sourin (talking),お金になると聞きましたから。 僕、お金が必要なんです。,It`s because I heard it pays a lot. I need the money.
+Yamamoto Akuji (talking),…あ~~…… あんた……わかってて言ってる？,Maaan... Do you understand what you`re saying?
+Kujou Sourin (talking),何がですか？,What do you mean?
+Yamamoto Akuji (talking),いや、だから…娼館ってナニするとこか。,Do ya know what an escort does?
+Kujou Sourin (talking),奉仕するところと聞きました。 それでしたら、僕、得意です。,I`ve heard they service you. I happen to be good at that.
+Yamamoto Akuji (talking),いっっっっ！！？？,WHAT?!
+Kujou Sourin (talking),僕は、ご老人のたくさんいるところに いたので、奉仕活動は得意です。,"I lived with many old folks, so I`m good at servicing others."
+Yamamoto Akuji (talking),あ……そーいう奉仕……,Oh... THAT kind of service...
+Kujou Sourin (talking),他にあるんですか？,Is there any other kind?
+Yamamoto Akuji (talking),……………,...
+Yamamoto Akuji (thinking),"マジか……？ マジなのか！？
+こいつ、娼館ってのがなんなのか、 わかってねーのか！？
+こいつ、どこの人！！？？ 宇宙人か？？？？？","Seriously...? Is this guy for real?!
+ Does this guy really don`t know what an escort is?!
+ What fucking PLANET did this guy come from?!"
+narrator,悪司世界ではトンでもない人間の出現に、 悪司が固まっていると――,While Akuji was flabbergasted by Sourin`s very existence...
+Junky (talking),ぎゃーーーーははははははっっ！！,GYAAAHAHAHAHAH!
+narrator,包丁を振り回したジャンキーが、 悪司達に突進してきた。,A knife-wielding junkie leapt at the two.
+Junky (talking),死ね、死ね死ねーーー！！ やられる前に、やっちゃるーーー！！ ひゃーーーはははははは！！！！,DIE DIE DIIIIIE! I`LL KILL YOU BEFORE YOU KILL ME! HYAHAHAHAHAH!
+Kujou Sourin (talking),危ない！,Watch out!
+narrator,宗麟は悪司とジャンキーの間に割って入った。,Sourin got between Akuji and the junkie.
+Junky (talking),ひゃーーーはははははは！！,HYAHAHAHAH!
+narrator,ジャンキーは宗麟に向かって 包丁を振りかざした。,The junkie swung his knife at Sourin.
+Kujou Sourin (talking),失礼します！,I beg your pardon!
+narrator,宗麟はそう言うと、手にしたトンファーで、 なんなくジャンキーの手から得物を 落とした。,"Using the tonfa in his hand, Sourin easily knocked the knife out of the junkie`s hand."
+Junky (talking),な、何すんだ、こらぁぁぁ！！！,What the fuck are ya doing?!
+Kujou Sourin (talking),はっ！,Hah!
+narrator,"　　［とすっ］
+軽い音をたて、ジャンキーの鳩尾に トンファーの先が入った。","　　*Wham!*
+ With a light sound, the tonfa struck the junkie in his solar plexus."
+Junky (talking),へっ……,Geh-!
+narrator,"ジャンキーは気絶した。
+倒れる躰を、宗麟が片手で支えてから そっと地面に横たわらせた。","The junkie fainted.
+ Sourin held the junkie`s falling body with one hand and gently laid him on the ground."
+Yamamoto Akuji (talking),やるじゃん。,Impressive.
+Kujou Sourin (talking),いえ、そんな事ないですよ。,"No, not at all."
+Yamamoto Akuji (talking),あんた、娼館で働くより、 俺の兵隊ならねぇ？,"Rather than an escort, won`t you work as my soldier?"
+Kujou Sourin (talking),兵隊…ですか？,Your soldier?
+Yamamoto Akuji (talking),あーそーだ。,Yep.
+Kujou Sourin (talking),"はい。
+ ……ですが……","Very well.
+ ...However..."
+Yamamoto Akuji (talking),なんだい？,What is it?
+Kujou Sourin (talking),毎月、３００万円は頂きたいのです。,I`d like to earn 300k a month.
+Yamamoto Akuji (talking),いっ……,Wha-
+Kujou Sourin (talking),"他のところでもそう言うと、 何故か皆さん怒ってしまって、 雇ってくれません。
+その中の一人の方が、悪司さんの事を 教えて下さったんです。
+どうですか、悪司さん？ それでも雇って頂けますか？","For whatever reason, everyone else I told that to got mad and wouldn`t employ me.
+ One of those people told me about you, Akuji-san.
+ How about it? Will you still hire me?"
+Yamamoto Akuji (talking),ん~~~……,Hmmmm...
+__system__??,{RETURN = 1:,{RETURN = 1:
+Yamamoto Akuji (talking),よし。 いいぜ。 雇ってやるよ。,"Alright, fine. I`ll hire you."
+Kujou Sourin (talking),本当ですか！？,Really?!
+narrator,宗麟は無垢の喜びの顔で、悪司に言った。,"Sourin gave Akuji a smile of pure, innocent joy."
+Yamamoto Akuji (talking),ああ。 その代わり、そんだけの金を要求すん だったら、それなりに働いてくれよ。,"Yeah. In exchange, you are gonna make damn sure you`re worth what I pay you."
+Kujou Sourin (talking),"はい、出来る限りの事はすべて やらせて頂きます。
+ありがとうございます、悪司さん。 これからよろしくお願いします。","Yes, please let me do everything I can.
+ Thank you, Akuji-san. I look forward to working with you."
+Yamamoto Akuji (talking),おう、しっかりな。,"Yeah, work hard."
+Kujou Sourin (talking),はい！,Yes!
+narrator,宗麟は花が咲くように微笑んだ。,Sourin flashed another beaming smile.
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+Yamamoto Akuji (talking),わりーけど、その金額はつれーわ。,"Sorry, but you ask for too much."
+Kujou Sourin (talking),という事は…,So does that mean...
+Yamamoto Akuji (talking),他当たってくんな。,Find someone else.
+Kujou Sourin (talking),そうですか…わかりました… 足留めしてしまって、 申し訳ありませんでした。,I see... I understand... I apologize for taking your time.
+Yamamoto Akuji (talking),いんや。,Don`t sweat it.
+Kujou Sourin (talking),それでは、急いで職探しをしなくては いけませんので、これで失礼します。,"Then I must hurry and find a job, so I shall take my leave now."
+narrator,宗麟はさっきとまったく同じように 悪司に向かって頭を下げると、 街へ降りていった。,"Sourin gave Akuji yet another courteous bow, then headed down towards the city."
+__system__??,},}
+__system__??,{RND \ 0:,{RND \ 0:
+Komiya Youko (talking),名前は、九条宗麟。 違いないか？,"Your name is Kujou Sourin, is that correct?"
+Kujou Sourin (talking),はい。,It is.
+Komiya Youko (talking),"貴方は我々にとって異教徒だが、 教団の理念は理解して頂けたと 信じている。
+故に、契約の続く限りは 貴方を同志として待遇しよう。
+もちろん、貴方の望み通りに 教区の巡回警備員としては 破格の月給を用意させて頂いた。
+それに見合うだけの働き、 よろしく頼む。","Your faith differs from ours, yet you understand and accept your ideals.
+ As such, we`ll treat you as a comrade while you work for us.
+ Of course, since you`re in the parish`s patrol, you`ll be paid handsomely, as requested.
+ We`ll be counting on you to earn your pay."
+Kujou Sourin (talking),"はい、もちろんです。
+お爺殿達から、勤労の基本の説明を 寺から出てくる前に聞いてきましたので、 わかっているつもりです。","Yes, of course.
+ My grandfathers explained the basics of labor to me before I left the temple."
+Komiya Youko (talking),"その言葉、 是非とも実践してもらいたいな。
+ ……あなたの腕に、期待している。 頼んだぞ。","Then please live up to those words.
+ ...We`re counting on your skills."
+Kujou Sourin (talking),はい、古宮さん。 雇って頂いて、感謝しています。,"Very well, Komiya-san. Thank you for employing me."
+__system__??,},}
+__system__??,{RND = 0:,{RND = 0:
+nakokyou  otoko (talking),九条宗麟さん、ですね？,"Kujou Sourin, right?"
+Kujou Sourin (talking),はい。,Yes.
+nakokyou  otoko (talking),"用心棒としては、かなりの月給を あなたに出します。
+それに見合う仕事を きちんとして頂けまか？","As a bodyguard, you`ll be paid a generous salary.
+ Can you work hard enough to earn your pay?"
+Kujou Sourin (talking),"はい、もちろんです。
+お爺殿達から、勤労の基本の説明を 寺から出てくる前に聞いてきましたので、 わかっているつもりです。","Yes, of course.
+ My grandfathers explained the basics of labor to me before I left the temple."
+nakokyou  otoko (talking),わかりました。 では、よろしくお願いします。,Very well. Then we`ll be counting on you.
+Kujou Sourin (talking),はい。 雇って頂いて、感謝しています。,Okay. Thank you for employing me.
+__system__??,},}
+Takayama Hami (talking),んーと、んーと… くじょう…なんて読むの？,"Uuuum, Kujou... How do you read this?"
+Kujou Sourin (talking),宗麟です。 はみさん。,"It`s Sourin, Hami-san."
+Takayama Hami (talking),そーちゃんね。 はみの為に働いてくれるの？,"Sou-chan, then. Will you work for Hami?"
+Kujou Sourin (talking),はい。,I will.
+Takayama Hami (talking),いい？ リクペチ。,"Is that fine, Rikupechi?"
+Takayama Rikupechi (talking),はみサマが、よろしいなら。,"If you`re okay with it, yes."
+Takayama Hami (talking),"うん、いーよ。 はみ、かっこいい人好きだし。
+じゃあ、これからお願いね。","Okay then. Hami loves cool people.
+ Then we`ll be counting on you."
+Kujou Sourin (talking),はい、ありがとうございます。,"Yes, thank you."
+Momoyama Linda (talking),あなたが、新しい用心棒でちゅか？,You`re our new bodyguard?
+Kujou Sourin (talking),はい。 九条宗麟と申します。 よろしくお願いします。,Yes. My name is Kujou Sourin. I`ll be in your care.
+Momoyama Linda (talking),聞けば、あなたのお寺は重要文化財で、 そのせいで維持費が必要なんでちゅって？,"Your temple`s a cultural asset, so you need to maintain it?"
+Kujou Sourin (talking),はい。,Yes.
+Momoyama Linda (talking),それではとってもお金が必要でちゅわね。,Then you need lots of money.
+Kujou Sourin (talking),"はい。
+ですが、僕はお金の感覚に疎くて… とりあえずは、最低一月３００万円を 稼がなくてはいけません。","Yes.
+ But don`t quite understand money. Either way, I need at least 3000k a month."
+Momoyama Linda (talking),強ければもっと出して差し上げまちゅわ。 せいぜい頑張る事でちゅわね。,"I`ll pay you even more if you`re strong, so work hard."
+Kujou Sourin (talking),え……もっとって……,Huh? More...?
+Momoyama Linda (talking),"このＰＭにとって、３００、 ４００のお金なんか、はした金でちゅわ。 よその組織と金銭規模が違うでちゅから。
+だから、宗麟。 ガンガン働いて、ボーナスも ブンどっていきなちゃい。","That much money isn`t even a footnote for the PM. We`re not like that other group.
+ So if you work hard, Sourin, we`ll give you lots of bonuses."
+Kujou Sourin (talking),ぼーなす…… 棒茄子……？？,Bonuses... What`s that??
+Momoyama Linda (talking),……ハイネ。 この世間知らずに、 色々教えてあげなちゃい。,"...Haine. Give this bumpkin some lessons, will you?"
+Hasekura Haine (talking),はい、リンダ様。,"Of course, Linda-sama."
+Momoyama Linda (talking),参らせて頂きます。,Here I come.
+Kujou Sourin (talking),今まで、本当にありがとうございました。,Thank you for everything.
+Seinendan Jyoshi (talking),本当に本当に、お寺に戻られて しまうのですか~？,"Are you really, reeeeally going back to your temple?"
+Kujou Sourin (talking),"はい。 悪司さんのご好意のおかげで、 お金もたくさん貯まりました。
+これで、お寺を守る事が出来ます。","Yes. Thanks to Akuji-san`s generosity, I`ve saved up quite a lot of money.
+ With it, I can protect the temple."
+Seinendan Jyoshi (talking),私…宗麟さんのファンなのに…,"I... am your fan, though..."
+Kujou Sourin (talking),え？,Eh?
+Seinendan Jyoshi (talking),な、なんでもありません…,I-It`s nothing...
+Kujou Sourin (talking),それでは、お元気で…,"Well then, take care..."
+narrator,"宗麟は優しく微笑む。
+それを見て、 奉仕青年団女子は夢見心地になった。","Sourin smiled gently.
+ Seeing that made the YCSG girl feel like she was in a dream."
+Kujou Sourin (talking),あ、あの…？,U-Um...?
+Seinendan Jyoshi (talking),"あっ…はい、ごめんなさい…
+あ、あの…お元気で…","Ah! S-Sorry...
+ U-Um, take care..."
+Kujou Sourin (talking),はい、ありがとうございます。,"Yes, thank you."
+Seinendan Jyoshi (thinking),うう…さみしくなっちゃうな~,"Aww, it`s gonna get lonely..."
+Kujou Sourin (talking),っ………,..!
+Yamamoto Akuji (talking),どした？　ムツカシー顔して。 それにお前さんは、呼んでねーけど…,"What`s wrong? You look funny. Plus, I didn`t call for you."
+Kujou Sourin (talking),悪司さん、体調に変化はありませんか？ 左肩だけ重いとか、息苦しいとか ありませんか？,"Akuji-san, do you feel different? Like your shoulders are heavy, or it`s hard to breathe?"
+Yamamoto Akuji (talking),よくわかったな。,Amazed you could tell.
+Kujou Sourin (talking),はっ！！,AH!!!
+Satou Tane (talking),……あっ……,...Ah...!
+Kujou Sourin (talking),"今、あなたの後ろに憑いているものを 呼び出しました。
+このまま、彼女が憑いているのであれば、 あなたはいずれ、命を落としてしまう事に なります。
+僕は、彼女をお祓いする事が出来ます。 してもかまいませんよね？","I just called out what`s posessing you right now.
+ If we let her keep possessing you, you are sure to lose your life eventually.
+ I can exorcise her. May I?"
+Yamamoto Akuji (talking),ん~~……,Hmmm...
+Satou Tane (talking),"う……うう…
+ ＜はな＞ くぅ~ん……","Uuu... uuuuu...
+ ＜Hana＞ kuuun..."
+__system__??,{RETURN = 1:,{RETURN = 1:
+Yamamoto Akuji (talking),きのこちゃん。,Kinoko-chan.
+Satou Tane (talking),あっ…あの…,Ah! Um...
+Yamamoto Akuji (talking),成仏してくれや。,Please go to heaven.
+Satou Tane (talking),"うっ……わかりました……
+ ＜はな＞ くぅ~ん……","Uuu... alright...
+ ＜Hana＞ kuuun..."
+Kujou Sourin (talking),"それではいきます。
+少し苦しいですが…… これを乗り越えられたら、あなたには 極楽が待っています。
+次は、幸せな人生を歩めるよう、 僕も祈りを込め、祓わせてもらいます。","Then I shall begin.
+ It might hurt a bit, but if you can overcome it, you`ll reach paradise.
+ I shall pray that your next life is a happy one."
+Satou Tane (talking),"はい……お願いします……
+ ＜はな＞ くぅ~ん……
+さよなら……はなちゃん……
+ ＜はな＞ くぅ~ん…くぅ~ん…","Okay... Please do it...
+ ＜Hana＞ kuuun...
+ Goodbye, Hana-chan...
+ ＜Hana＞ kuuun, kuuuun..."
+Kujou Sourin (talking),はっ！！,Ha!!!
+cg narrator,"宗麟は数珠と一緒に、縄を出した。 数珠を自分の手に、縄をたねに投げる。
+「ああっ……！？」
+実体のないたねの躰に、 縄がするすると巻かれていく。
+「あっ……ああっ……」
+縄の感触に、たねが声をあげる。
+「オン……ナンマク……」
+宗麟が、読教を始める。
+すると、縄は生き物のようにするするするすると たねの周囲を取り囲み、ぼんやりと光を発し 出した。
+「あくっ…あっ……あんっ……」
+それと同時にたねの声も変化していく。
+「オンマユキラ……」
+どこか艶っぽいたねの声も、宗麟には 届いていないのかという程、彼の声は平坦だった。
+「痛いっ……あっ…… 　怖いよぉっ……」
+たねは身動きのままならない躰を震わせ、 指先をぴくりぴくりとうねらせる。
+「オンキリキリ…オンキリキリ…」
+宗麟の声が、淡々と響く。
+「あっ…ふあっ…んっ、んんっ…！！」
+たねの躰にじんわりと汗が浮かぶ。 生理的なものというより、心理的なものが 実体となっているようだ。
+「あっ…くっ…苦しいっ… 　あんっ……あっ…あああっ…！」
+そう言いながらも、たねは目を閉じ、 宗麟の読教に身を任せる。
+「くあっ…ああっ……！」
+たねの躰がびくりと跳ねた。
+「オンキリキリ…オン……」
+宗麟の読教の声が早くなる。
+「あ、ああ、あっ！！」
+たねの身じろぎも増していく。
+「あっ…怖いっ… 　いやっ……やっぱり…怖い……」
+「怖がらないで…」
+宗麟は読経をやめ、たねに語りかけた。
+「怖いのは今だけです。 　知らない場所に行くのだから」
+「お坊さん……」
+「ですが、さっきも申しました通り、 　この苦痛の先は、あなたにとって 　良い場所に繋がっています」
+「ですから……もう少し、我慢して…」
+宗麟が微笑む。 その微笑は、火がついたように泣く赤ん坊さえ 即座に泣きやみそうな、優しい顔だった。
+「……はい…わかりました…」
+その笑みに、たねの表情が和らぐ。
+「僕も出来る限り、早く済むようにいたします。 　オン！」
+「ああっ！！」
+宗麟の額にひとつ、汗の筋が生まれる。 その時、縄から発する光が増し、たねの躰を きりきりと絞め上げ出した。
+「あっ…ああ、あっ…！！」
+「オンキリキリ、オンキリキリ……」
+「あ、ああ、あっ…いっ…たっ…あ！」
+「オンキリキリ、オンキリキリ……」
+　　［じゃらっっ］
+宗麟が初めて、数珠を両手に持ち、 大きな音を鳴らした。
+「あっ！」
+たねの躰が薄くなる。
+　　［じゃららっ　じゃららっっ］
+「あっ……気持ち…いい……」
+たねの躰がさらに薄くなる。
+「…あそこに行けばいいんですね…… 　お坊さん…ありがとう…… 　…みんな…さよなら……」
+そう言って、たねはにっこり笑った。","Sourin took out prayer beads and some rope, which he hurled over Tane.
+ Ah?!」
+ Even though Tane was incorporeal, the rope coiled around her body.
+ 「Ah... ahh!」
+ The rope`s sensation made Tane scream.
+ 「Omm... Namuda...」
+ Sourin started to recite a chant.
+ With that, the rope began to surround Tane as if it were alive, and emit a faint light.
+ 「Ack! ah... ahn!」
+ With it, Tane`s voice began to change.
+ 「Onmayukira...」
+ Sourin`s voice was monotone, completely unaffected by Tane`s sweet moans.
+ 「It hurts... ahn! 　I`m scared...!」
+ Tane`s immobile body writhed, and her fingertips undulated.
+ 「Onkirikiri... onkirikiri...」
+ Sourin`s voice reverberated dispassionately.
+ 「Ahn! fwahn! mmn!」
+ Tane`s body grew damp with sweat. It seemed to be more of a psychological reaction than a physical one.
+ 「Ahn, khh! I-It hurts... 　Aaahn! ah, aaaahn!」
+ Yet Tane closed her eyes and entrusted her body to Sourin`s chanting.
+ 「Khaah! aahn!」
+ Tane`s body jerked.
+ 「Onkirikiri... omm...」
+ Sourin`s chanting quickened.
+ 「Ahn, ahh, aaahn!」
+ Tane`s squirming also grew worse.
+ 「Ahn! I`m scared... 　Nooo! This is scary!」
+ 「Don`t be afraid.」
+ Sourin ceased his chanting to speak.
+ 「Only this moment is scary, since you`re 　going someplace you don`t know.」
+ 「Mister monk...」
+ 「But as I said earlier, 　a great place lies beyond this 　pain you`re suffering.」
+ 「So endure it for a bit longer...」
+ Sourin smiled, kindly enough to calm down even a crying baby.
+ 「...Okay... I understand...」
+ His smile made tane relax.
+ 「I will also try to be as quick 　as possible with this. Omm!!!」
+ 「AAAAHN!」
+ Sweat slid down Sourin`s cheek. The rope began to tighten around Tane, emitting a stronger light.
+ 「Ahn! aahn! ahn!」
+ 「Onkirikiri, onkirikiri...」
+ 「Ah, ahn! ahn! O-Ooowwww!」
+ 「Onkirikiri, onkirikiri...」
+ 　　［*Chack!*］
+ For the first time, Sourin held the beads in both hands and rang them.
+ 「Ahn!」
+ Tane`s body grew faint.
+ 　　［*Chack! Chack!*］
+ 「Ahn! It... feels good...」
+ Tane`s body grew even fainter.
+ 「I just have to go there, right...? 　Thank you, mister monk... 　Goodbye, everyone...」
+ Tane smiled."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+narrator,その場に残っているのは、 たねの躰に巻きついていた縄だけだった。,Only the rope that bound Tane`s body remained.
+Kujou Sourin (talking),終わりました。,It is done.
+Yamamoto Akuji (talking),うい、ごくろーさん。,Good work.
+Kujou Sourin (talking),……ですが、今の子… なんだか手応えが……,"...But that girl just now, her response was..."
+Yamamoto Akuji (talking),どうかしたかい？,What`s wrong?
+Kujou Sourin (talking),……いえ…あの子、 本当に幽霊だったのかと…,"...No, I was wondering if she really was a spirit..."
+Yamamoto Akuji (talking),なんだと？,What?
+Kujou Sourin (talking),普段と感覚が少し違いました… ……成仏するのではなく… 戻ったのかも……,"It felt different from usual. ...Maybe she didn`t pass on, but returned..."
+Yamamoto Akuji (talking),……なんだか、 言ってる事がよくわかんねぇ。,...I don`t really get what you mean.
+Kujou Sourin (talking),僕も、どう説明していいのか わからないんですよ。,"I do not know how to explain it, either."
+Yamamoto Akuji (talking),でもまー、俺の躰から、 きのこちゃんは離れた訳だ。,"But still, this means she`s no longer attached to me."
+Kujou Sourin (talking),はい。 それは間違いありません。,"Yes. Of that, there is no doubt."
+Yamamoto Akuji (talking),だったらそれでいーや。,Then it`s all good.
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+Yamamoto Akuji (talking),別にこのままでもいいや。,I`m fine staying as is.
+Kujou Sourin (talking),えっ……,Huh?!
+Kujou Sourin (talking),ですが、危険ですよ。,But this is dangerous.
+Yamamoto Akuji (talking),そのうちなんとかなるだろうさ。 無理に成仏したって、救われねー 感じじゃねぇか。,I`ll figure it out in time. Forcing her to pass on feels like we can`t help her.
+Satou Tane (talking),悪司さん……,Akuji-san...
+Kujou Sourin (talking),わかりました。 では、手遅れにならないうちに、 気を変えるか、なんとかして下さいね。,Understood. Then please make a decision and do something about it before it`s too late.
+Yamamoto Akuji (talking),あいよ。,Gotcha.
+__system__??,},}

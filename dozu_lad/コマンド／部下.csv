@@ -1,0 +1,206 @@
+character,jap text,Eng
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,{☆のぞみ = 8:,{☆のぞみ = 8:
+__system__??,},}
+__system__??,{☆のぞみ = 7:,{☆のぞみ = 7:
+__system__??,},}
+__system__??,{☆のぞみ = 6:,{☆のぞみ = 6:
+__system__??,},}
+__system__??,{☆のぞみ = 5:,{☆のぞみ = 5:
+__system__??,},}
+__system__??,{☆のぞみ = 4:,{☆のぞみ = 4:
+__system__??,},}
+__system__??,},}
+__system__??,{(☆たね > 19) * (☆たね \ 99) * (☆たね \ 50):,{(☆たね > 19) * (☆たね \ 99) * (☆たね \ 50):
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{☆たね = 20:,{☆たね = 20:
+__system__??,},}
+__system__??,},}
+__system__??,{(Bキャラ = 7) * (★結婚 = 1):,{(Bキャラ = 7) * (★結婚 = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 8) * (★愛 = 2):,{(Bキャラ = 8) * (★愛 = 2):
+__system__??,},}
+__system__??,{(Bキャラ = 13) * (★愛 = 3):,{(Bキャラ = 13) * (★愛 = 3):
+__system__??,},}
+__system__??,{(Bキャラ = 87) * (★愛 = 4):,{(Bキャラ = 87) * (★愛 = 4):
+__system__??,},}
+__system__??,{(Bキャラ = 37) * (★愛 = 5) * (★★殺 > 1):,{(Bキャラ = 37) * (★愛 = 5) * (★★殺 > 1):
+__system__??,},}
+__system__??,{(Bキャラ = 96) * (★愛 = 6):,{(Bキャラ = 96) * (★愛 = 6):
+__system__??,},}
+__system__??,{Bキャラ = 92:,{Bキャラ = 92:
+__system__??,},}
+__system__??,{Bキャラ > 500:,{Bキャラ > 500:
+__system__??,},}
+__system__??,{RETURN = 9:,{RETURN = 9:
+__system__??,},}
+menu_label__(L_0042d),　　情報　,　　情報　
+__system__??,{B性別 = 1:,{B性別 = 1:
+menu_label__(L_0063b),　　こます,　　こます
+__system__??,},}
+menu_label__(L_006f8),臨時ボーナス,臨時ボーナス
+__system__??,{(B性別 = 1) * (★調教 = 3):,{(B性別 = 1) * (★調教 = 3):
+menu_label__(L_009ca),調教の館へ送る,調教の館へ送る
+__system__??,},}
+__system__??,{(B性別 = 1) * (☆ギャルバーガー > 1):,{(B性別 = 1) * (☆ギャルバーガー > 1):
+menu_label__(L_00a36),ＧＡＬバーへ送る,ＧＡＬバーへ送る
+__system__??,},}
+menu_label__(L_00ac1),　軍事訓練,　軍事訓練
+menu_label__(L_00c88),　政治訓練,　政治訓練
+__system__??,{(Bキャラ = 28) * (☆島本 > 2):,{(Bキャラ = 28) * (☆島本 > 2):
+menu_label__(L_00ab5),　減給査定,　減給査定
+__system__??,},}
+narrator,　総合戦闘力　　　,　総合戦闘力　　　
+narrator,　経験値　　　　　,　経験値　　　　　
+narrator,／,／
+narrator,　スキル　　　　　,　スキル　　　　　
+narrator,　命中力　　　　　,　命中力　　　　　
+narrator,％ 　回避力　　　　　,％ 　回避力　　　　　
+narrator,％ 　攻撃力　　　　　,％ 　攻撃力　　　　　
+narrator,　体力　　　,　体力　　　
+narrator,／,／
+narrator,　気力　　　,　気力　　　
+narrator,／,／
+narrator,　給与　　　　　,　給与　　　　　
+narrator,０万円 　収益力　　　　,０万円 　収益力　　　　
+narrator,０万円 　治安能力　　　　　　,０万円 　治安能力　　　　　　
+__system__??,{B治安 = 0:,{B治安 = 0:
+narrator,無能,無能
+__system__??,},}
+__system__??,{B治安 = 1:,{B治安 = 1:
+narrator,普通,普通
+__system__??,},}
+__system__??,{B治安 = 2:,{B治安 = 2:
+narrator,優秀,優秀
+__system__??,},}
+__system__??,{B治安 = 3:,{B治安 = 3:
+narrator,完璧,完璧
+__system__??,},}
+__system__??,{DB = 1:,{DB = 1:
+narrator,　　　□　デバッグ　□ 　　Ｂ名前,　　　□　デバッグ　□ 　　Ｂ名前
+narrator,　　Ｂカナ,　　Ｂカナ
+__system__??,},}
+__system__??,{(★結婚 = 1) * (Bキャラ \ 7) * (Bキャラ \ 87):,{(★結婚 = 1) * (Bキャラ \ 7) * (Bキャラ \ 87):
+__system__??,},}
+__system__??,{Bキャラ = 86:,{Bキャラ = 86:
+narrator,突然、悪司はおなかが痛くなった。 野生の勘が危険を感じたのだろうか…,突然、悪司はおなかが痛くなった。 野生の勘が危険を感じたのだろうか…
+__system__??,},}
+__system__??,{B忠誠タイプ = 3:,{B忠誠タイプ = 3:
+__system__??,},}
+__system__??,{Bキャラ = 17:,{Bキャラ = 17:
+__system__??,},}
+narrator,に臨時ボーナスを出します。 いかほど出しますか？ 　　　　　（,に臨時ボーナスを出します。 いかほど出しますか？ 　　　　　（
+narrator,０万）,０万）
+__system__??,{B性別 = 2:,{B性別 = 2:
+menu_label__(L_00991),　くいもん,　くいもん
+__system__??,},}
+__system__??,{Bキャラ = 57:,{Bキャラ = 57:
+menu_label__(L_00991),　　酒　,　　酒　
+__system__??,},}
+__system__??,{GOLD \ 0:,{GOLD \ 0:
+menu_label__(L_00877),　　５０万円,　　５０万円
+__system__??,},}
+__system__??,{GOLD > 19:,{GOLD > 19:
+menu_label__(L_008cd),　２００万円,　２００万円
+__system__??,},}
+__system__??,{GOLD > 49:,{GOLD > 49:
+menu_label__(L_00924),　５００万円,　５００万円
+__system__??,},}
+__system__??,{(RND \ 0) * (Bキャラ = 62):,{(RND \ 0) * (Bキャラ = 62):
+menu_label__(L_0097b),松本了,松本了
+__system__??,},}
+menu_label__(L_00872),出さない,出さない
+__system__??,{RETURN = 0:,{RETURN = 0:
+__system__??,{B忠誠タイプ = 3:,{B忠誠タイプ = 3:
+__system__??,},}
+__system__??,},}
+__system__??,{RETURN = 0:,{RETURN = 0:
+__system__??,{B忠誠タイプ = 3:,{B忠誠タイプ = 3:
+__system__??,},}
+__system__??,},}
+__system__??,{RETURN = 0:,{RETURN = 0:
+__system__??,{B忠誠タイプ = 3:,{B忠誠タイプ = 3:
+__system__??,},}
+__system__??,},}
+__system__??,{RETURN = 0:,{RETURN = 0:
+__system__??,},}
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{Bキャラ > 500:,{Bキャラ > 500:
+__system__??,},}
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{Bキャラ < 500:,{Bキャラ < 500:
+__system__??,},}
+__system__??,{Bキャラ = 86:,{Bキャラ = 86:
+__system__??,},}
+__system__??,{●ＥＸ \ 0:,{●ＥＸ \ 0:
+narrator,　,　
+narrator,は、特訓した。,は、特訓した。
+__system__??,{■ > 100:,{■ > 100:
+__system__??,},}
+__system__??,{Bスキル = 0:,{Bスキル = 0:
+__system__??,},}
+__system__??,{RND = 1:,{RND = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{Bキャラ = 29:,{Bキャラ = 29:
+__system__??,},}
+__system__??,{Bキャラ = 65:,{Bキャラ = 65:
+__system__??,},}
+narrator,　,　
+narrator,は、悪司と特訓した。,は、悪司と特訓した。
+__system__??,{■ > 100:,{■ > 100:
+__system__??,},}
+__system__??,{Bスキル = 0:,{Bスキル = 0:
+__system__??,},}
+__system__??,{RND = 1:,{RND = 1:
+__system__??,},}
+__system__??,{●ＥＸ \ 0:,{●ＥＸ \ 0:
+narrator,　,　
+narrator,は、協力金の 　取り立て方法を学んだ。,は、協力金の 　取り立て方法を学んだ。
+__system__??,{B性別 = 2:,{B性別 = 2:
+__system__??,},}
+__system__??,},}
+narrator,　,　
+narrator,は、協力金の 　取り立て方法を学んだ。,は、協力金の 　取り立て方法を学んだ。
+__system__??,{B性別 = 2:,{B性別 = 2:
+__system__??,},}
+narrator,（忠誠：,（忠誠：
+narrator,）,）
+__system__??,{●ＥＸ = 0:,{●ＥＸ = 0:
+__system__??,{(B忠誠タイプ = 3) * (Bキャラ \ 65):,{(B忠誠タイプ = 3) * (Bキャラ \ 65):
+narrator,　　　　　（悪司の女）,　　　　　（悪司の女）
+__system__??,},}
+__system__??,{(Bキャラ = 37) * (★愛 = 5):,{(Bキャラ = 37) * (★愛 = 5):
+narrator,　　　　　（お嫁さん）,　　　　　（お嫁さん）
+__system__??,},}
+__system__??,{(Bキャラ = 7) * (★愛 = 1):,{(Bキャラ = 7) * (★愛 = 1):
+narrator,　　　　　（お嫁さん）,　　　　　（お嫁さん）
+__system__??,},}
+__system__??,{(Bキャラ = 8) * (★愛 = 2):,{(Bキャラ = 8) * (★愛 = 2):
+narrator,　　　　　（お嫁さん）,　　　　　（お嫁さん）
+__system__??,},}
+__system__??,{(Bキャラ = 13) * (★愛 = 3):,{(Bキャラ = 13) * (★愛 = 3):
+narrator,　　　　　（お嫁さん）,　　　　　（お嫁さん）
+__system__??,},}
+__system__??,{(Bキャラ = 87) * (★愛 = 4):,{(Bキャラ = 87) * (★愛 = 4):
+narrator,　　　　　（恋人）,　　　　　（恋人）
+__system__??,},}
+__system__??,{(Bキャラ = 96) * (★愛 = 6):,{(Bキャラ = 96) * (★愛 = 6):
+narrator,　　　　　（お嫁さん）,　　　　　（お嫁さん）
+__system__??,},}
+__system__??,{Bキャラ = 29:,{Bキャラ = 29:
+narrator,　　　　　（悪司の格闘師匠）,　　　　　（悪司の格闘師匠）
+__system__??,},}
+__system__??,{Bキャラ = 36:,{Bキャラ = 36:
+narrator,　　　　　（夜の先生）,　　　　　（夜の先生）
+__system__??,},}
+__system__??,{Bキャラ = 36:,{Bキャラ = 36:
+narrator,　　　悪司のテクニック（,　　　悪司のテクニック（
+narrator,）,）
+__system__??,},}
+__system__??,},}
+narrator,　　どうしますか？,　　どうしますか？
+narrator,　悪司のテクニック　　,　悪司のテクニック　　

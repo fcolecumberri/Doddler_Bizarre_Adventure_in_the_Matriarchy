@@ -1,0 +1,534 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆加賀太郎 = 0:,{☆加賀太郎 = 0:
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 2:,{麦 = 2:
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 4:,{麦 = 4:
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,{☆加賀元子監禁 \ 0:,{☆加賀元子監禁 \ 0:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,},}
+__system__??,{麦 = 12:,{麦 = 12:
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,{H物欲抵抗 <= H物欲:,{H物欲抵抗 <= H物欲:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+__system__??,{麦 = 17:,{麦 = 17:
+__system__??,{H拷問抵抗 < H拷問:,{H拷問抵抗 < H拷問:
+__system__??,},}
+__system__??,{H拷問 = 1:,{H拷問 = 1:
+__system__??,},}
+__system__??,},}
+Yamamoto Akuji (talking),"んーと、 加賀のおっちゃんはどこに居たっけ。 連絡つけて……
+……ん？","So, where`s old man Kaga again? I`ll call him here-
+ ...Hm?"
+Kaga Tarou (talking),大杉よ、お主は間違っておる！ お主のせいで悪司は ああなってしもうたのじゃぞ！？,"You`re wrong, Oosugi! It`s because of you that Akuji became like that!"
+Oosugi Tsuyoshi (talking),申し訳ありませんが、加賀様…… 仰ることの意味がよく解りません。,"My apologies, Kaga-sama... But I do not get what you mean."
+Kaga Tarou (talking),"いいか、組織を治めてゆくためには 部下や住民への優しさと気遣いが 必要なのじゃ。
+悪司にそれが欠けておるのは、 教育係であったお主の失敗じゃろうが！","Listen, to manage a Group, one needs to be kind to its citizens and subordinates.
+ And since you raised him, it`s your failure that he lacks it!"
+Oosugi Tsuyoshi (talking),"恐れながら加賀様、それは違います。
+優しさなどは二の次三の次、 リーダーに必要なのは強固たる意志、 決断力、そして強さです。
+人は、強い者にこそ付いてゆくのです。","With all due respect, you`re wrong.
+ What a leader requires is a firm resolve, decisiveness, and strength. Kindness is secondary to those.
+ People tend to follow the strong."
+Kaga Tarou (talking),大杉よ、それは違う、違うのじゃ！,"That`s wrong, Oosugi!"
+Oosugi Tsuyoshi (talking),"若は何より、先々代である一発様の血を 色濃く受け継いでおります。 もっともっと、強いお方になるでしょう。
+この大杉、私が若にお教えした事、 何一つ間違ってはおらぬと 自負しております。","The Young Master takes a lot after Ippatsu-sama. He shall become even stronger.
+ I, Oosugi, am confident that I have taught the Young Master nothing wrong."
+Kaga Tarou (talking),たわけが……悪司は百発の息子ぞ？！ その血目覚めさせずして何が教育か！,How could you not have taught him to be more like his father?!
+Oosugi Tsuyoshi (talking),では加賀様は、 リーダーに強さなど必要ないと 仰るのですか？,"Then are you saying that a leader doesn`t need to be strong, Kaga-sama?"
+Kaga Tarou (talking),"そうは言うておらぬ、 百発も本当に強い男じゃったからの……
+じゃが、それは強引さや非情とは違う！ 全く質の違う強さなのじゃ！ 打ち壊すのではなく包み込む強さじゃ！","I never said that, after all, Hyappatsu was also a strong man...
+ But it wasn`t a cruel, forceful strength like yours! It was one that protected, and not destroyed!"
+Oosugi Tsuyoshi (talking),恐れながら、加賀様……,With all due respect...
+Kaga Tarou (talking),"ええい、もうよいわえ！ お主は黙って下がればよい！
+この事、儂が直々に悪司へ教える！ 悪司ならば解るはずじゃ、 百発の息子ならきっと………………","Oh, forget it! Be quiet!
+ I`ll tell this to Akuji myself! If he`s Hyappatsu`s son, then I`m sure he`ll understand..."
+Yamamoto Akuji (talking),……っせーな、ったく。 血管キレるぞ、加賀のおっちゃん。,"...Pipe down already. You`ll pop a blood vessel, old man Kaga."
+Oosugi Tsuyoshi (talking),おお、若。いらっしゃいましたか……,"Oh, so you were here, Young Master."
+Kaga Tarou (talking),悪司よ、聞いておったのか。 ならば話は早いわえ。つまりの……,"You were listening, Akuji? Then that makes things quick. Basically-"
+Yamamoto Akuji (talking),あーーーーーーもーーーーーーうるせ。 俺は俺だ、そう簡単に変わってたまるか。,"Oh, shut uuuuuuup. I`m not gonna change that easily."
+Oosugi Tsuyoshi (talking),さすがは若、人の言葉に踊るべからず。 立派でございますぞ。,"As expected of you, Young Master, you don`t mince words. Splendid."
+Yamamoto Akuji (talking),大杉もいーから、仕事に戻れ。 俺はおっちゃんに用があっからよ。,"You too, Oosugi, go back to work. I`ve some business with him."
+Oosugi Tsuyoshi (talking),はっ。,Very well.
+Kaga Tarou (talking),悪司よ、いいから儂の話を聞くのじゃ！ よいか、組織を治めるためにはな……,"Akuji, just listen to me! To lead a group, you must-"
+Yamamoto Akuji (talking),解った解った、加賀のおっちゃんは その辺よーく解ってんだよな。 そういうのはもう任せるから。,"Yeah yeah, I get it, I`m well aware. I already have it taken care of."
+Kaga Tarou (talking),任せる……じゃと？,You have it... taken care of?
+Yamamoto Akuji (talking),"今はもう俺の部下なんだからよ、 部下として俺の足りないところを 補ってくれ。
+そーすりゃ俺はこのままでいいし、 おっちゃんはイロイロ腕が振るえる。 いいことずくしだろ？","You already work for me, so as one of my men, please cover for me wherever I`m lacking.
+ That way, I can stay as I am, and you can do what you do best. Great, isn`t it?"
+Kaga Tarou (talking),"な、なんと……何と言うことを……
+悪司よ、 それでは駄目なのじゃ、それでは……","H-How could you say this...?
+ Akuji, that is no good, you have to-"
+Yamamoto Akuji (talking),あーもう解ったから、 その話はまた今度な。,"Look, I get it already, so leave it for another time."
+Kaga Tarou (talking),……悪司よ、今時間は空いておるか？,"...Do you have some time, Akuji?"
+Yamamoto Akuji (talking),おお、ちょーど良かったぜ。 俺もちいっとおっちゃんに用があってよ。,"Yo, yeah, good timing. I had stuff to talk to you about."
+Kaga Tarou (talking),そうか……解ってくれたのか？ さすが百発の息子よ！,Really... so you understand?! That`s why you`re Hyappatsu`s kid!
+Yamamoto Akuji (talking),…………は？,...Huh?
+Kaga Tarou (talking),"よしよし、 リーダーたる者の優しさについて 儂がみっちり教えてやるからの。
+よいか、まず第一に人を思いやり……","Excellent, I shall teach you in detail about the kindness a leader needs.
+ First, you must be thoughtful..."
+Yamamoto Akuji (talking),……………………………… まあ、その話はまた今度な。,"... Eh, leave that for another time."
+narrator,　悪司とエッチです。,　悪司とエッチです。
+Yamamoto Akuji (talking),ほいおっちゃん、特別ボーナス。 自由に使ってくれ。,"Here old man, have a bonus. Use it however you want."
+Kaga Tarou (talking),……………………,...
+Yamamoto Akuji (talking),何だよ、あんま嬉しそうじゃねーな。 カネじゃない方が良かったかい？,Ya don`t seem too happy. Don`t like money?
+Kaga Tarou (talking),"いや…… これは儂の働きに対する報酬として 有り難く頂くがな……
+こういうやり方だけではいかんのじゃ。 悪司よ、金だけではいかんのじゃ……","No... I`ll gladly take it as a reward for my work, but...
+ Akuji, money can`t be the only way through which you do things."
+Yamamoto Akuji (talking),"………………
+まあ確かに、おっちゃんの言うことも 一理あるんだけどなー。","...
+ Well, you certainly do have a point."
+Kaga Tarou (talking),む……？,Hm?
+Yamamoto Akuji (talking),"そーだな、今度今度って言ってちゃ ダメなのかもしれねぇな。
+なあおっちゃん、あんたの言う リーダーに必要な優しさってヤツ、 一つ教えてくんねーかな？","Right, guess I can`t keep putting it off forever.
+ Alright old man, tell me a bit about that kindness you keep saying every leader needs."
+Kaga Tarou (talking),"………………な…………
+あ、悪司よ………… その言葉、まことの気持ちで 言うておるのか……？","...Wha...
+ A-Akuji... Do you truly mean those words...?"
+Yamamoto Akuji (talking),"俺は自分の利になんない事は 絶対やんねえ主義だからな。 知ってんだろ？
+今のまんまじゃ行き詰まるかなーとか 考えたり考えなかったりしてさ。
+まあ、おっちゃんに教わったからって すぐ実行に移せるとは限らねぇが……
+後々、無駄になるこたぁねえだろ。","My principle is to never do something that won`t benefit me. Don`t you know this?
+ And I thought I might hit a dead end if I stayed as I am now.
+ Well, I might not do everything you tell me immediately, but...
+ It should still be worthwhile."
+Kaga Tarou (talking),"お…………おおおおっ…… おおおおおおおおっ…………！
+よう言うた、よう言うたぞ悪司よ……！ さすがは百発の息子よ！ 正当なる組の跡取りよ…………！","O-Ooooh... Oooooohhh!
+ Well, said, Akuji! That`s Hyappatsu`s son for you! The Family`s true heir!"
+Yamamoto Akuji (talking),…………泣くほどの事かよ、おっちゃん。,...Ain`t nothing to cry about.
+Kaga Tarou (talking),"よしよし、よしよし…… では早速、百発の心をお主に伝えようぞ！
+そう、あれは忘れもせぬ。 正和五年の夏の日じゃ。 悪司、お主が生まれる前の事よ……
+入道雲を見ながらかき氷を食うておった 儂に、百発が突然、先代・一発の教えは 間違いではないのかと言い始めての……
+そう、よく憶えておるとも。 儂は驚きのあまり 鉄の匙を取り落としてしもうたのじゃ……","Good, very good... Now, allow me to teach you Hyappatsu`s kindness!
+ I`d never forget it. It was the fifth year of the Showa era, from before you were born...
+ As I gazed at the clouds, Hyappatsu suddenly started talking about how Ippatsu`s teachings might be wrong...
+ Yes, I remember it vividly. The surprise was such that I dropped my shaved ice..."
+narrator,加賀太郎の話は、その後、 たっぷり二時間は続くことになる──,Kaga Tarou kept on talking for two solid hours.
+Yamamoto Akuji (thinking),"…………く、クソ長ぇ……
+おっちゃん、何でこんなアホ臭い話を こんな長い間続けていられるんだ？ 喋ってて自分で眠くなんねーのか？
+………………
+まあいいや、このおっちゃん カネだけじゃ言うこと聞かねえもんな。 仕方ねーか……
+騙しちまって悪いな、おっちゃん。 ま、今だけ夢に浸っててくれや。","...Holy fuck, this is endless.
+ Old man, why are spending this long on this stupid story? Don`t you get tired of talking?
+ ...
+ Eh, whatever, money alone won`t get him to listen to me. No other choice...
+ Sorry for deceiving you. But I`ll let you live your dream for now."
+Kaga Tarou (talking),…………こりゃ、悪司よ。 ちゃんと話を聞いておるのか？,"...Akuji, are you paying attention to what I say?"
+Yamamoto Akuji (talking),ああ、ちゃんと聞いてるよ。 さっきの話、ちょっとホロッと来たぜ。,"Yep, sure am. Real touching story."
+Kaga Tarou (talking),うむうむそうじゃろそうじゃろ。 百発が身を挺して部下を庇った時は、 儂も思わず熱いモノがこみあげて……,"Yes, indeed it is. Even I was moved to tears when Hyappatsu protected his subordinate..."
+Yamamoto Akuji (thinking),……………… アホ臭ぁ………………,... This is so stupid...
+Yamamoto Akuji (talking),よお、加賀のおっちゃん。 久しぶりだな。,"Hey there, old man. Been a while."
+Kaga Tarou (talking),………………うむ。,...Indeed.
+Yamamoto Akuji (talking),………………,...
+Kaga Tarou (talking),………………,...
+Yamamoto Akuji (thinking),"ちっ…… どーもこのおっちゃんは苦手だぜ……
+どーにもガキの頃から 小煩いジジィだっつー印象しか ねぇんだよな、俺。","Tch... I still don`t like dealing with this geezer.
+ Always thought he was a nagging old fart, ever since I was a kid."
+Kaga Tarou (talking),……しかし、これが運命だとすれば 皮肉なものよの。,"...I must say, if this is fate, then it is quite ironic."
+Yamamoto Akuji (talking),へっ？,Huh?
+Kaga Tarou (talking),よもや、このような形で お主と話すことになるとは 夢にも思わなんだわ。,I never imagined I`d be talking to you in such a situation.
+Yamamoto Akuji (talking),そーだな。,Guess that`s true.
+Kaga Tarou (talking),………………,...
+Yamamoto Akuji (talking),………………,...
+Kaga Tarou (talking),………………………………,......
+Yamamoto Akuji (talking),………………………………,......
+Yamamoto Akuji (thinking),うーん、話しづらいっつーか、 居心地悪いっつーか……,"Man, it`s hard to talk with him. This is uncomfortable."
+Kaga Tarou (talking),……悪司よ。,...Akuji.
+Yamamoto Akuji (talking),…………ん？,Yeah?
+Kaga Tarou (talking),お主、いつまでこのようなことを 続けるつもりなのじゃ。,How long do you plan on keeping this up?
+Yamamoto Akuji (talking),このようなこと？　いつまで？ ……何の事言ってんだ、おっちゃん。,"Keeping what up? What`re ya talking about, old man?"
+Kaga Tarou (talking),"金と欲で人を煽り、 力で相手をねじ伏せる…… お主の成すことすべてよ。
+そのようなこと、 虚しいだけだとは思わぬのか？","Instigating people with money or desires, making your enemies submit by force... all of that.
+ Don`t you think all of it is in vain?"
+Yamamoto Akuji (talking),"虚しいも何も、 わかめ組とこの街（シマ）は もともと山本家のモンだろーが。
+ま、よーするに俺のモンだわな。
+俺は、自分のモン取り返すだけだ。 それに何か文句でも言うつもりかい？","I dunno if it`s in vain, but the Family and this city originally belonged to the Yamamoto.
+ Which means, they belong to me.
+ I`m only taking back what`s mine. Got a problem with that?"
+Kaga Tarou (talking),街は、堅気衆のものよ。 儂ら任侠のものではない。,"The city belongs to the civvies, not to us yakuza."
+Yamamoto Akuji (talking),別に所有権がどーのこーの 言ってる訳じゃねぇよ。 おっちゃんなら解んだろ？,"I`m not talking about ownership or anything. You get it, don`t you, old man?"
+Kaga Tarou (talking),……なら、取り返した後、 どうする気なのじゃ。,...Then what will you do after you take them back?
+Yamamoto Akuji (talking),"そりゃ、じーさんや親父みてぇに 街守って生きてくんだよ。
+別に俺は、それ以上望んでる訳じゃねえ。 山本の跡取りとして筋通してるだけだ。","Then I`ll protect them, just like Dad and Gramps did.
+ I don`t have bigger ambitions. Just my job as the family`s heir."
+Kaga Tarou (talking),"このようなやり方でか。
+今のお主を百発が知ったら さぞ嘆くであろうのう……","With those methods you use?
+ If Hyappatsu could see you now, he`d surely lament..."
+Yamamoto Akuji (talking),"じーさんなら喜んでくれる筈だぜ。
+俺は親父の息子より先に、 じーさんの孫であるつもりだからよ。","Gramps`d prolly love it, though.
+ More than Dad`s son, I`ll be Gramps` grandkid."
+Kaga Tarou (talking),………………,...
+Yamamoto Akuji (talking),……おっちゃんなー、 何が言いたいんだ？,"Got something you wanna say, old man?"
+Kaga Tarou (talking),もう、良いわえ… 何を言うても無駄よ。,"No, forget it... It`d be a waste of time."
+Yamamoto Akuji (talking),ういっす、加賀のおっちゃん。,"`Sup, old man Kaga."
+Kaga Tarou (talking),……………… この老いぼれに何の用じゃ。,...What do you require of this senile old man?
+Yamamoto Akuji (talking),"おっちゃんってさー、 昔から滅茶苦茶強かったよな。
+うちの連中も、 おっちゃんが出てきた時は 随分苦戦したけどよ。
+さすがに今はトシのせいか、 昔ほどキレがねえみてぇだが、 それでも充分つええよ。","Hey old man, you`ve always been crazy strong, huh.
+ My men had quite a rough time when you showed up to fight them.
+ Maybe you`re not as strong now thanks to your age, but you`re still pretty tough."
+Kaga Tarou (talking),……お主、何が言いたいのじゃ。,...What are you getting at?
+Yamamoto Akuji (talking),おっちゃん、 俺の下に付く気はないか？,"Won`t you join me, old man?"
+Kaga Tarou (talking),………………,...
+Yamamoto Akuji (talking),"おっちゃんってよ、昔っから 差し出がましいお蘭を嫌ってたよな。
+そのせいで、 お蘭が好き勝手やり始めて 随分と冷飯食わされたんだろ？
+ま、詳しくは知らないんだがな。 ほとんど俺の推測だけどよ。","You`ve always hated that intrusive bitch Ran, right?
+ Because of that, you`ve been getting some crappy treatment ever since she took charge, no?
+ Not that I know the details. I`m mostly guessing here."
+Kaga Tarou (talking),……まあ、おおむね当たっておるがな。,"...Well, you`re mostly correct."
+Yamamoto Akuji (talking),"親父がおっ死んじまった今、 順当に行きゃあ俺が組の跡取りだ。
+なら、親父の右腕だったおっちゃんが 俺のところでその腕振るってくれても おかしくはねーよな。
+蘭の下よか、待遇はいいはずだぜ？","Now that Dad`s dead, I`m the rightful heir to the Family.
+ So it only makes sense for you, his right-hand man, to work for me as well.
+ You`ll be way treated better."
+Kaga Tarou (talking),"このたわけが……
+百発は死んでおらぬ、行方不明じゃ。 はき違えるでない。","You fool...
+ Hyappatsu`s missing, not dead. Do not confuse the two."
+Yamamoto Akuji (talking),"おっちゃんの気持ちは解るけどよ。 でもなあ……
+俺ぁ、戦場で地獄見てきたクチだが、 うらなりびょうたんみてーな親父じゃ まず秒殺されちまう世界だったぜ。
+わりーけど、 そりゃちと望み薄だと思うがな。","I get how you feel, old man, but...
+ I`ve seen some shit in the war. Weak guys like Dad are the first to die.
+ Sorry, but I don`t fancy his chances."
+Kaga Tarou (talking),……百発の息子だと言うのに、 情のかけらもない男よの、お主……,"You`re his son, yet you`re completely unfeeling..."
+Yamamoto Akuji (talking),だからよー、おっちゃん。 その“親父の息子”っつー言い方、 やめてくんねぇか？,"Like I keep telling you, old man, can ya quit treating me like Dad`s kid?"
+Kaga Tarou (talking),"とにかく、儂は百発の幹部であって、 今もそのつもりでおるのじゃ。
+それが故に…… 百発の流儀に反するおぬしのやり方に 荷担する気はない。","I`m Hyappatsu`s lieutenant, and I`m staying that way.
+ Which is why I refuse to support you and your way of doing things."
+Yamamoto Akuji (talking),どーしてもか？,No matter what?
+Kaga Tarou (talking),"どうしても、じゃ。
+だいたいのう、本来なら儂の腕と刀は お主が面倒を引き起こさねば、 封じたまま死ぬるつもりだったのじゃぞ？
+これだけ言えば、 お主でも解ったであろうが。 さあ、去ぬるがよいわ。","No matter what.
+ Besides, had you not stirred up trouble, I would`ve taken my battle talents to my grave.
+ Even you should have understood what I meant. Now, leave."
+Yamamoto Akuji (talking),おっちゃんなあ、そんな調子じゃ この地下牢で余生過ごすことになるぜ？,"You`ll die in this place if you keep that up, you know?"
+Kaga Tarou (talking),覚悟の上よ。,So be it.
+Yamamoto Akuji (talking),やれやれ。,Fuck`s sake.
+Yamamoto Akuji (talking),"頼むわ、おっちゃん。 俺の部下になってくれや。
+おっちゃんみたいに腕の立つ奴が 今のご時世じゃ必要なんだよ。 だから、頼む。","I`m begging ya, old man. Work for me.
+ In this day and age, competent people like you are essential. So please, join me."
+Kaga Tarou (talking),"………………
+今は、このような所におる故、 時間だけには余裕がある。
+そこで、儂もいろいろと 考えたのじゃがな。","...
+ Thanks to my confinement, I had time to spare.
+ I used it to think about all sorts of things."
+Yamamoto Akuji (talking),ん？　何を？,Hm? Like what?
+Kaga Tarou (talking),"百発がのう…… お主のことをこう言うておった。
+悪司はああ見えて、心根は優しい。 今でこそ手の付けられぬ暴れ者に なってしもうたが……
+いつかきっと、 父である自分の言うことを 解ってくれる時が来る、との。","Like Hyappatsu... He used to say this about you-
+ “Despite what it looks like, Akuji is kind at heart. Even if he`s become an uncontrollable brute...
+ ...I`m sure he will understand his father`s words, someday.”"
+Yamamoto Akuji (talking),はー、なんのこっちゃ。,Huh? What`s that about?
+Kaga Tarou (talking),……ハナクソほじって聞くでない。 全く、お主は子供か……,...Don`t listen while picking your nose. You`re not a kid.
+Yamamoto Akuji (talking),ああ、わりーわりー。 ……で？,"Eh, my bad, my bad. …...So?"
+Kaga Tarou (talking),"百発の意志に添うならば、 息子のお主にあ奴の心を しかと伝るべきかもしれぬ。
+儂ならば、それができるはずじゃ。 いや、できるのは儂だけかもしれぬ。","If I`m to follow his will, then perhaps I should convey what he had on mind to you, his son.
+ I should be able to do so. No, maybe only I can."
+Yamamoto Akuji (talking),おっちゃん、話なげぇよ。 ……要するに部下になるってことか？,"You sure talk a lot, old man. ...So, you`ll work for me?"
+Kaga Tarou (talking),"部下と言うより、目付役じゃ。 それでならお主の下についてもよい。
+……おそらくはそれが、 百発の望むところであろうからの。","Rather, I`ll be your inspector. I`d work for you then.
+ That may very well be what Hyappatsu would have wanted."
+Yamamoto Akuji (talking),"ま、何でもいいや。 とにかく部下として働いてくれりゃあ。
+んじゃ、おっちゃん。 よろしく頼むわ。","Well, whatever. Either way, you work for me now.
+ Alright then, old man, good to have ya."
+Kaga Tarou (talking),"………………ただし。
+百発が戦地から戻って、 お主の為すこと許すまじと言えば……
+儂は、百発の側に付くぞ。","...However.
+ Should Hyappatsu return, and deem your actions unforgivable...
+ I shall join him instead."
+Yamamoto Akuji (talking),おーけーおーけー、りょーかい。 それでいーぜ。,"Right, right, got it. Fine by me."
+Yamamoto Akuji (thinking),親父が帰ってくる訳ないもんな。 そうなりゃずっと俺の部下だ。 いやぁ助かるねー。,"No way Dad`s coming back. He`ll keep working for me. Man, what a lucky break."
+Kaga Tarou (talking),……悪司よ、何を考えておる？,"What`s on your mind, Akuji?"
+Yamamoto Akuji (talking),いんや別にー。,Nothin`.
+Yamamoto Akuji (talking),よし、おっちゃん。 悪ィがいっちょ拷問にかけさせて貰うぜ。,"Okay, old man, I`m afraid I`ll hafta torture you."
+Kaga Tarou (talking),拷問じゃと……？ 何を吐かせようと言うのじゃ。,Torture? What is this about?
+Yamamoto Akuji (talking),"………………
+いろいろだ。","...
+ You`ll know."
+Kaga Tarou (talking),何じゃそれは、いい加減な……,You`d best stop with this...
+Yamamoto Akuji (talking),"おっちゃん、元はわかめ組の幹部だしな、 今でもいろいろ内部情報知ってんだろ？
+そいつが欲しい訳だ、解るかい？","You used to be an exec, you must all sorts of Wakame secrets.
+ That`s what I want, get it?"
+Yamamoto Akuji (thinking),"……っつーかな、 こんな小うるさいおっちゃんが部下だと 何かとめんどくせーしなー。
+役に立ちそうな情報吐かせて ポイッと捨てるに限るぜ。","Besides, it`d probably be a pain in the ass if this nosy old man were to work for me.
+ Tell me something useful and I`ll let you go. Simple."
+Kaga Tarou (talking),"………………… なるほど、内部情報、か。
+そうか、お主は幼い頃より あれと仲が良かったが、もしや……","... Secrets, eh?
+ Right, you two have been close since you were kids..."
+Yamamoto Akuji (talking),ん？,Huh?
+Kaga Tarou (talking),"お主との抗争中、 急に姿を消した幼馴染が気がかりで、 面と向かってそう言えずに誤魔化すか？
+悪司よ……お主も案外若いのう。","Are you worried about your missing missing childhood friend, but can`t admit it in front of me?
+ You`re surprisingly green."
+Yamamoto Akuji (talking),……へ？,...What?
+Kaga Tarou (talking),"しかしお主、あやつではない別の娘に 惚れておったのではなかったか？
+いや、それはそれとして、 あやつを妾にでもするつもりなのか？
+たしかにあやつは、 器量だけは良かったからの。","But haven`t you fallen for a different girl?
+ Or maybe you don`t care, and want her as a concubine?
+ It`s true that her looks were all she had going for her."
+Yamamoto Akuji (talking),おいおい、何言ってんだおっちゃん。,"Hey, what`re ya saying, old man?"
+Kaga Tarou (talking),"儂は知らぬぞ、娘の消息なんぞはな。
+大方、あやつもお主と同じ心持ちで 幼馴染のお主と戦いたくなくて 逃げ出したんじゃろうが……
+その事で拷問にかけるなら、 無駄も無駄、大無駄じゃ。","I don`t know where my daughter is.
+ Perhaps she ran away, not wanting to fight against her childhood friend...
+ It`s a waste of time to torture me over that."
+Yamamoto Akuji (talking),"………幼馴染、娘………
+おっちゃん、 そりゃもしかしてトコの事か？","...Childhood friend, daughter...
+ Old man, are you talking about Toko?"
+Kaga Tarou (talking),"そうか、今でもあやつをトコなどと 昔のあだ名で呼んでおるのか。
+残念じゃったのう、悪司。 それほど元子を気にかけておったのにな。","I see, so you`re still calling her by that old nickname.
+ It`s too bad, Akuji. So you still care for her that much."
+Yamamoto Akuji (talking),"………………
+あー、そーいえば うちとやりあってる最中に トコが急にいなくなったっけな。
+何考えてんだあのバカ、とか、 勝ち目あると思ってんのかボケ、とか、 ちーっとだけ思ってたんだが。
+俺ぁてっきり、抗争のどさくさに 死んじまったのかと思い込んでたぜ。","...
+ Ah, right, Toko suddenly went missing while we were fighting.
+ I did kinda wonder what she was thinking. Did that idiot think she still had any chance?
+ I was sure she`d just died in the chaos of the fight."
+Kaga Tarou (talking),悪司よ…… お主、演技が下手じゃのう……,"Akuji, you`re a terrible actor..."
+Yamamoto Akuji (talking),"なーんだそっかー、 トコの奴は行方不明なのか。 そりゃいーや。
+トコって結構頭はいい方だったし、 部下にできりゃ助かるかもなー。
+そっかそっかー、なるほどなー。","I see, I see, so Toko has gone missing, huh? That`s good.
+ She was real smart, so it`d be great to have her on my side.
+ I see, I get it."
+Kaga Tarou (talking),……………… まさかお主、本気で……,"... Don`t tell me, you really-"
+Yamamoto Akuji (talking),"よし、拷問の目的はそれで行こう。 大決定~。どんどんぱふぱふ~。
+さて、今すぐ拷問手と連絡つけっからよ、 死なない内にイロイロ話してくれや。
+んじゃな、おっちゃん。 また生きて会えるといーな。","Okay, I know what I wanna know. It`s torture time.
+ I`ll go make the call, so don`t drop dead yet.
+ See ya, old man. Hope to see each other again."
+Kaga Tarou (talking),"こっ……こりゃ、悪司！ だから儂は娘のことなど知らぬと……
+………………
+し、しもうたわい、大ピンチじゃ……","H-Hey, Akuji! I said I don`t know where she...
+ ...
+ C-Crap, this is bad..."
+ (talking),さーておっちゃん、 ぼちぼち喋る気になったか？,"Now then, old man, ya feel like talking yet?"
+ (talking),じゃから儂は、 元子の居場所など知らぬと言うに……,"I`ve already told you, I don`t know where Motoko is."
+ (talking),知ってる奴ほどそー言うもんだぜ。,That`s what they always say.
+ (talking),う、うぬっ……,U-Ugh...
+ (thinking),ま、知らなかったとしても 痛くも痒くもねーけどな。,"Well, it`s no skin off my nose even if ya don`t know."
+ (thinking),くっ、悪司めが…… その余裕の態度、何か掴んでおるのか？ 本心が読めぬ……,"Kh, damn you, Akuji. Has he figured something out? I can`t get a read on him..."
+ (talking),んじゃまあ、喋る気もなさそーだし もうちょい痛い目に遭って頂くとすっか。,"Well, if ya ain`t talking, you`ll have to get hurt again."
+ (talking),まっ、待て悪司っ！,"W-Wait, Akuji!"
+ (talking),じゃーなおっちゃん、達者でな。,See ya. Stay strong.
+ (talking),ぐ……ぐぬぬぬっ…………！,Grrrr...!
+Elite Yakuza (talking),……若、 加賀太郎がついに口を割りました。,"...Young Master, Tarou Kaga has finally spilled the beans."
+Yamamoto Akuji (talking),"ごくろーさん。 知らねー知らねーとか言いながら やっぱ何か知ってたんだな。
+で、アレか？ 親子喧嘩でもしてムカついたから 殺して捨てたとか、そーいう話なのか？","Good work. I knew he was bluffing about not knowing anything.
+ Well? Did he get so pissed off after a fight with Toko that he killed her, after all?"
+Elite Yakuza (talking),…………若、ご存じだったので？,...Did you already know?
+Yamamoto Akuji (talking),"娘の消息を多少なりとも知ってるくせに 拷問するまで喋らねーってなったら そんな理由しか思いつかねーよ。
+こっちは別に、トコを探して殺すとか 言ってる訳じゃねーんだからな。","Can`t think of another reason why he wouldn`t talk about it unless he was tortured.
+ Not like I told him I was gonna kill her, either"
+Elite Yakuza (talking),……若の洞察力には敬服いたします。,I must admire your perception.
+Yamamoto Akuji (talking),そっかー…… トコはおっちゃんに殺されたのか。 昔は仲のいい父娘だったのになー……,"I see... so Toko was offed by the old man, huh? They used to get along, too..."
+Elite Yakuza (talking),"いえ、どうやら加賀家のご息女は まだご存命のようで。
+何でも、わかめ組本部のあるセンリ郊外に 町工場の密集する区間があって、 そこの廃工場に…………","No, it would seem that the Kaga girl is still alive.
+ In Senri`s suburbs, there`s an industrial district. In an abandoned factory, she`s..."
+Yamamoto Akuji (talking),……拉致監禁で拷問とか強姦とか？,"...Being confined, raped and tortured?"
+Elite Yakuza (talking),"今頃はぼろぼろだろう、 としか聞いていませんが、おそらく。
+うわごとのように、 父に逆らった報いだ、馬鹿な娘に 育ててしまったと繰り返していました。","Probably, though I`ve only heard that she`s breaking.
+ She deliriously talks about how it`s her punishment for having betrayed her father."
+Yamamoto Akuji (talking),ふーん。何があったんだろーな。 聞いてみてー気もするが……,Hmm. Something musta happened. I think I`ll go ask him-
+Elite Yakuza (talking),……それはもう、無理かと。 今回はかなり激しく責め立てましたから。,...I`m afraid that`s impossible. We went hard on him this time.
+Yamamoto Akuji (talking),虫の息か。,He about to die?
+Elite Yakuza (talking),はい。処分は如何致しましょう？,yes. How shall we dispose of him?
+Yamamoto Akuji (talking),"んー、 それなりに世話になったおっちゃんだし 病院に入れてやってもいーが……
+まあ、いーや。お前に任せる。","Hmm, that old man did take care of me before, so I wouldn`t mind sending him to a hospital...
+ Eh, I`ll leave it to you."
+Elite Yakuza (talking),解りました。では早速……,"Understood, then I`ll..."
+Yamamoto Akuji (talking),"……あ、そーだ。 トコの奴も助けてやらにゃーな。 ちいっとばかしめんどくせーけど。
+数人に声かけて廃工場探して、んで……
+……って、もう仕事終わりだっけ。
+ま、明日以降にすっか。憶えてたらな。","...Oh, right. I gotta help Toko, too, even it`s kind of a pain in the ass.
+ I`ll ask some guys to go search-
+ ...Wait, work`s over already.
+ Tomorrow, then. If I remember."
+narrator,"郊外にある、小さな庵。 ──加賀太郎の私邸である。
+夜、ふらりと庭に出た太郎は、 庭の一隅で鳴っている鹿威しに耳を傾けつつ 曇った夜空を静かに見上げていた。","A small retreat in the suburbs- -a private building of Tarou Kaga`s.
+ Going out to the garden at night, Tarou silently gazed at the cloudy sky."
+Kaga Tarou (talking),"満月のはずじゃが…… 今日も、月は出ておらぬのか。
+垂れ込めた雲越しに、うすぼんやりと 蒼い光が見えはするが……
+……満月、か。
+もう長らく見ておらぬが………………… まるで、儂の心のようじゃのう…
+ニホンが負け、盟友の百発は戻らず、 ウィミィが街を好き勝手に弄り回し、 組は女狐めに乗っ取られ……
+その上、戦地から戻った悪司が わかめ組と骨肉の争いを 繰り広げている有様よ。","It should be a full moon, but it hasn`t come out tonight either.
+ I can see a faint blue light through the clouds...
+ ...The full moon, huh.
+ I haven`t seen it in a while...
+ ... Not unlike my own heart.
+ Japan lost, my friend Hyappatsu is gone, Wime does as it pleases, the bitch took over the Family...
+ On top of that, Akuji started a war against the Wakame after he returned..."
+__system__??,{(RND = 0) * (☆加賀元子監禁 = 1):,{(RND = 0) * (☆加賀元子監禁 = 1):
+Kaga Tarou (talking),挙げ句の果てには、 致し方なかったとは言えども 実の娘をあのような目に遭わせて…,"On top of that, I was forced to so something horrible to my daughter..."
+__system__??,},}
+__system__??,{(RND = 0) * (☆加賀元子監禁 \ 1):,{(RND = 0) * (☆加賀元子監禁 \ 1):
+Kaga Tarou (talking),挙げ句の果てには、その抗争で 実の娘が行方不明と来ておる…,"On top of that, my own daughter has gone missing..."
+__system__??,},}
+Kaga Tarou (talking),……虚しいことよの。,...It all feels so empty.
+Lover (talking),……太郎様。,...Tarou-sama.
+Kaga Tarou (talking),ん……おお、お主か。 どうした？,"Hm? Oh, it`s you. What is the matter?"
+Lover (talking),そろそろ、中へお戻り下さい。 お躰が冷えますから……,Please go back inside soon. You`ll get cold out here...
+Kaga Tarou (talking),そうじゃな、戻ろうかの。 閨（ねや）は温めておるのか？,Very well then. Have you warmed my room?
+Lover (talking),はい、勿論……,"Yes, of course."
+Kaga Tarou (talking),そうか。 ……なら、共に参ろうか。,I see. Then let`s go in together.
+Lover (talking),はい。,Yes.
+Kaga Tarou (thinking),………………,...
+__system__??,{☆わかめ < 15:,{☆わかめ < 15:
+Kaga Tarou (thinking),"この事態、何とか…… 何とかせねばならぬ。
+もはや、それができるのは 儂しかおらぬのじゃ、儂しか……","This situation... I have to do something about it.
+ I may the only one still able to."
+__system__??,},}
+__system__??,{☆わかめ > 14:,{☆わかめ > 14:
+Kaga Tarou (thinking),儂に出来ることは、 もう、何もないかもしれんな……,I may not be able to do anything anymore...
+__system__??,},}
+Elite Yakuza (talking),………………,...
+narrator,"エリートヤクザの見つめる先には、 ロシアから来たらしい大型船が停泊していた。
+大型船は幾ばくかの荷物と人を港に下ろして、 やがて、接岸している場所のハッチを閉じ始める。","The elite yakuza watched a large ship from Russia anchoring at the docks.
+ The ship unloaded its cargo and passengers, and before long it closed its docking hatch."
+Elite Yakuza (talking),やはり……居ないか。,"As I thought, he`s not here."
+Kaga Tarou (talking),……マサよ、 毎度毎度すまんの。,"...Thank you as always, Masa."
+Elite Yakuza (talking),？　ああ、おやっさん…… 今日はいらっしゃったのですね。,"? Oh, old man... So you were here today."
+Kaga Tarou (talking),お蘭のお陰で最近は暇でな、 ここに来る時間もできたわえ。,"Ran`s kept me unoccupied, so I had the time to come."
+Elite Yakuza (talking),………………,...
+Kaga Tarou (talking),で、どうじゃ。 今度の船にも乗っておらんかったか。,So? Was he not on this ship either?
+Elite Yakuza (talking),……残念ながら。 百発様らしき人影は、どこにも……,"...Sadly, no. I didn`t see Hyappatsu-sama..."
+Kaga Tarou (talking),"……そうかえ。
+あやつが……百発が帰ってくるとなれば、 出征先であった北からの船以外に ないからの。
+すまぬがマサよ、これからも、 北から来る船は調べ続けてくれ。","...I see.
+ If he ever comes back, it`ll be in a ship from the north, where he went for the war.
+ Sorry, Masa, but please continue checking those ships."
+Elite Yakuza (talking),はっ……,"Yes, sir."
+Kaga Tarou (talking),"組長のあやつが戦地から戻った時、 出迎えが誰もなしでは……
+……あやつから留守を預かった この儂の面目は丸つぶれじゃからな。","We can`t let the Chairman return with nobody to welcome him.
+ ...And after what happened, I`m too disgraced to meet him."
+Elite Yakuza (talking),"………………
+おやっさん…… 組長は、百発様はもう……","...
+ Old man... Hyappatsu-sama is no longer-"
+Kaga Tarou (talking),言うなマサよ。 それ以上は言うでない。,"Don`t say it, Masa. Not a single word more."
+Elite Yakuza (talking),……はっ。,...Very well.
+Kaga Tarou (thinking),"…………百発よ、 儂は、信じておるぞ。
+お主が帰ってくる、その日をな……","...I believe in you, Hyappatsu.
+ I know you`ll come back..."
+Kaga Tarou (talking),こっ…… これは一体どういう事なのじゃ！！,Wha- What the hell is this?!
+Suteki Ishi (talking),"………………んあ~ん？ 何なが、このハゲチョビン。
+……あ、ああ、あああ。 組員の名簿で見たがよ。 ちょっと前の組の幹部ながね？","Nhaaaaah? Who`s this bald fossil?
+ ...Oooh, ooooh, I saw yer name on the Family`s register. Ya used ta be an exec?"
+Kaga Tarou (talking),貴様じゃな…… お蘭がシコクから呼んだとかいう 得体の知れぬ用心棒は！,It`s you... That mysterious bodyguard Ran called from Shikoku!
+Suteki Ishi (talking),ひ、ひへ……へへへ。 今はもう傭兵と違うがよ。 おらぁ組長やき。,H-Hiheheh. Ain`t a bodyguard anymore. I`m the Chairman now.
+Kaga Tarou (talking),"阿呆な事をぬかすでない！ 誰が貴様なんぞを組長と認めるものか！
+貴様のせいで、組の内部はおろか わかめ組のシマの堅気衆までもが 混乱しておるのじゃぞ！","Quit your nonsense! Who`d ever accept you as Chairman?!
+ Because of you, the Family and the people in our turf are in total chaos!"
+Suteki Ishi (talking),そがいなこと言うたち、 前の組長さんに任されてしもうたがよ。 しょんないが？,"Whine all ya like, but the previous Chairwoman out me here. Ya got not choice."
+Kaga Tarou (talking),いかにあの女狐と言えど、 組を滅ぼしかねない真似はせぬ！ 貴様なんぞに…………,Even that bitch would never do anything that could destroy The Family! But you...!
+Suteki Ishi (talking),……ほしたら、これは何ながか？,...Then what is this?
+narrator,素敵医師は、一枚の書状を加賀太郎に見せた。,Dr. Wonderful showed Tarou a letter.
+Kaga Tarou (talking),なっ…… こ、これは……委任状じゃと……？,Wha- An authorization letter?!
+Suteki Ishi (talking),前の組長さんから貰うたが。 ニセモンと違うがよ？,"The Chairwoman gave it ta me. Don`t look like a fake, right?"
+Kaga Tarou (talking),"確かに、震えてはいるものの これは間違いなくお蘭の筆跡じゃが……
+……じゃが、ありえぬ！ このような事は断じてありえぬ！
+貴様、お蘭に何をしおったのじゃ！","This is certainly Ran`s handwriting, but...
+ ...But that can`t be! This can`t possibly be real!
+ What did you do to Ran?!"
+Suteki Ishi (talking),なーんもしちょらんがよ？,Nothin`?
+Kaga Tarou (talking),ならばお蘭に会わせいっ！！ 直に話がある！！,Then let me meet her! I have to speak with her!
+Suteki Ishi (talking),"それはできんがよ。 前の組長にはおらぁが休暇やって、 今はシコクへ旅行中なが。
+前の組長さん、おまぁら部下が無能で えらい疲れちょったきね。 ひ、ひへ、ひへへへへへへ……","No can do. I told her to take a vacation, so she`s in Shikoku right now.
+ You guys sucked so much that she was real exhausted. H-Hiheh, heeheheh..."
+Kaga Tarou (talking),"勝手なことをぬかしおってっ……！
+第一、今の世では男はリーダーになれぬ！ お主に組長たる資格はないはずじゃ！","You damned...!
+ Men can`t even be leaders these days! You`re not qualified!"
+Suteki Ishi (talking),あらーん、私、女よーん☆ うふーん♪,"Ooooh, but I`m a woman!☆ Hyuu-hyuuu!♪"
+Kaga Tarou (talking),……馬鹿にしおって…………！,Quit messing around!
+narrator,"加賀太郎は、腰に差した愛刀に手をかける。
+──が、抜刀は思いとどまって、 素敵医師に背を向けた。","Tarou reached for the katana in his belt.
+ ...However, when he thought of drawing it, he turned his back on Dr. Wonderful."
+Suteki Ishi (talking),……ん？　どこへ行くがか？,...Hm? Where`ya going?
+Kaga Tarou (talking),貴様に報告するいわれはないわえ！,I`m not obliged to tell you!
+Kaga Tarou (talking),"…………見ておれ、妖怪めが……
+市議会に筋を通し、部下を集めて 堂々と組を取り返してくれる……！
+この加賀太郎の目が黒いうちは、 貴様などの好きにはさせぬ！","Just watch, you fiend...
+ I`ll report you to the CC, gather men, and take back the Family!
+ I, Tarou Kaga, won`t let you do as you please while I live!"
+Suteki Ishi (talking),"……きへへ。 ああいうボケ老人はさっさと 手足をもぎ取るに限るがよ。
+おーい、誰ぞおるがかー？","...Kiheheh. All I gotta do is take that old geezer out of the equation. Easy peasy.
+ Heeeey, anyone there?!"
+Elite Yakuza (talking),…………は。,...Here.
+Suteki Ishi (talking),"さっき、ここに来よったハゲの部下、 適当な事言っておクスリ漬けに して来とおせ。
+無理そうながやったら、 毒でも何でもええがやき、 始末するがよ。","That geezer that was just here? See if ya can get him to... overmedicate.
+ If ya can`t do that, then poison him or somethin`, just deal `ith him."
+Elite Yakuza (talking),…………は……,...Fine...
+Suteki Ishi (talking),"あー、あと何人か人質にしてきて、 あのハゲを渋々仲間にするのも手ながね。
+押さえるのは、女子供にするがよ。 ああいう古いのは弱い奴をタテにした方が 絶対に効果あるがやき。","Oh, we can also use hostages to force him to side with me.
+ Choose women and children. Old farts like him have a thing for protectin` the weak."
+Elite Yakuza (talking),………………,...
+Suteki Ishi (talking),んー、うまいことやれよったら、 おらぁが直々に調合したスペシャルな おクスリをプレゼントするが。,"Do yer job well, and I`ll give ya some special drugs I cooked up myself."
+Elite Yakuza (talking),…………っ………… ほ、本当ですか…………,...! R-Really...?
+Suteki Ishi (talking),組長は嘘つかんがよ？,The Chairman don`t lie.
+Elite Yakuza (talking),や……やりますっ………… やらせて頂きますっ……！！！,I-I`ll do it! Please let me do it!!!
+Suteki Ishi (talking),きへへへ……いいお返事なが。 頑張ってくるがよ。,"Kiheheh, good answer. Break a leg."
+Suteki Ishi (talking),きへ……きへへへへ………… オオサカ中をおクスリ天国にするがよ…… ひゃへへへ…………！,"Kiheh, kiheheh... I`ll turn Osaka into a junkie`s paradise... HYAHAHA!"
+narrator,"加賀太郎はこの日、イコマの雑居ビルの一室に 小さな事務所を開設した。
+事務所の看板には“男性復権運動推進会”とある。","In a mixed building in Ikoma, Tarou Kaga opened a small office.
+ Its sign said “Committee for Male Restoration”."
+Kaga Tarou (talking),"……これでよい。
+今の世の中、女性上位主義に虐げられ 窮屈な思いをしておる男が多いはず。
+その男どもを救いつつ、 いずれは社会に対して圧力をかけられる 大きな力を蓄えるのじゃ……
+ウィミィも、国になる前は こうした運動を積み重ねたと聞く。 ならば儂にもできぬことではあるまい。
+………………
+しかし、こんな運動を展開できるのも 街が静かになったればこそよ……
+……全ては悪司のお陰、 という言い方もできようかの。
+百発よ、我らと流儀は違えど お前の息子はなかなかやりおるぞ。
+認めるべきかもしれぬの。 あやつの才覚というものを……","...Perfect.
+ Many men are being oppressed by female supremacy out there.
+ I`ll build up influence over society while I help those men out...
+ I`ve heard Wime did this a lot before becoming a country. Then I should also be able to.
+ ...
+ I can only start this movement because peace was restored...
+ ...I guess I could say it`s all thanks to Akuji.
+ His ways may be different, but your son is capable, Hyappatsu.
+ Perhaps I should recognize his talents..."
+Kaga Tarou (talking),お蘭！　お蘭っ！ ここにおるんじゃろうが、 話がある！,Ran! RAN! Are you here?! We need to talk!
+Ichihashi Ran (talking),…………何だい、うるさいね。 大声出さなくても聞こえてるよ。,...What is it? You`re noisy. I can hear you just fine.
+Kaga Tarou (talking),お蘭……今ならまだ間に合う。 悪司と和解せよ、そうすべきじゃ！,"Ran, we still have time. You should reconcile with Akuji!"
+Ichihashi Ran (talking),"………………
+とうとうボケたのかい？　あんた…… それとも頭でもぶつけたかい？","...
+ Have you finally gone senile? Or did you hit your head?"
+Kaga Tarou (talking),"儂はいたって正気じゃ！
+お蘭よ、お主、このまま抗争を続けて 本当に勝てると思うておるのか？","I`m perfectly sane!
+ Ran, do you really think you can win if you let this war continue?"
+Ichihashi Ran (talking),………………,...
+Kaga Tarou (talking),"じりじりと組員が減り、 金がなくなり、ショバが減り……
+このままではやがて、 わかめ組は奉仕青年団と事を構える 力すら失ってしまうぞ！
+……言うまでもなく、 儂とて悪司の前に膝を屈するは屈辱ぞ。
+じゃがの、勝ち目のない戦さを続けて 組が無くなってはどうしようもなかろう。 後退するも勇気の一つぞ、お蘭！","We`re slowly losing our men, money, and businesses...
+ At this rate, the Wakame Family will soon lose all power to even stand up against the YCSG!
+ ...Needless to say, to me, it`d be a disgrace to submit to Akuji.
+ But we can`t lose everything by keep fighting this hopeless war. Retreating isn`t cowardly, Ran!"
+Ichihashi Ran (talking),嫌だね。,No way.
+Kaga Tarou (talking),"すでに嫌だどうだと 言うておる時ではない！
+一旦退き、戦さの場を交渉の場に変え、 わかめ組を存続させてから 再度組を再建すべきじゃ！
+お蘭よ、お主とて、 まさかこの組を潰してまで争う気は……","This isn`t the time to be like that!
+ You should retreat for now, negotiate, and rebuild the Family to keep it alive!
+ Don`t tell me you intend to fight until the bitter end..."
+Ichihashi Ran (talking),"……………………
+あんたの意見は一応聞いておくよ。 ありがとさん。さ、帰っておくれ。","...
+ I`ll keep that in mind. Thanks, now leave."
+Kaga Tarou (talking),ま、待てお蘭っ！ 話はまだ終わって……,"W-Wait, Ran! I`m not done talking-"
+Ichihashi Ran (talking),……これから仕事があるんだよ。 さ、邪魔だよ、帰っておくれ！,"I have work to do. You`re in the way, so leave already!"
+Kaga Tarou (talking),おっ……お蘭！　扉を開けるのじゃ！ お蘭、話を聞け！　お蘭っ！！,Ran! Open the door! Listen to me! RAN!
+Kaga Tarou (talking),これも渡世のしがらみよの…… お主に恨みはないが……許せ！！,"This, too, is part of my duty... I`ve no ill will, but... forgive me!"

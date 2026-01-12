@@ -1,0 +1,380 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,},}
+__system__??,{麦 = 2:,{麦 = 2:
+__system__??,{B忠誠タイプ = 3:,{B忠誠タイプ = 3:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,{B忠誠タイプ = 3:,{B忠誠タイプ = 3:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 4:,{麦 = 4:
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,},}
+__system__??,{麦 = 12:,{麦 = 12:
+__system__??,{H愛欲 = 3:,{H愛欲 = 3:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,{H物欲 = 4:,{H物欲 = 4:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+__system__??,{麦 = 17:,{麦 = 17:
+__system__??,{H拷問抵抗 < H拷問:,{H拷問抵抗 < H拷問:
+__system__??,},}
+__system__??,{H拷問 = 1:,{H拷問 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 18:,{麦 = 18:
+__system__??,},}
+__system__??,{麦 = 5:,{麦 = 5:
+__system__??,},}
+__system__??,{麦 = 19:,{麦 = 19:
+__system__??,},}
+?? (talking),まー、これで曲げたヘソ、 まっすぐにしてやってくれや。,"Here, take this so we can set things straight."
+narrator,と、悪司は晴子に少しまとまった金を渡した。,Akuji gave Haruko some money.
+?? (talking),それとこれとは別よ。 でも、くれるものは頂いておくわ。,This is a different matter. But I`ll take it.
+?? (talking),あんたには、 金よりこっちの方がいいかもな。,I think you might like this more than money.
+narrator,と言って、悪司は晴子のスカートの中に 手を入れた。,"With that, Akuji shoved a hand inside Haruko`s skirt."
+?? (talking),俗物ね……,You dirty bastard...
+?? (talking),お互いさまだよ。,That makes two of us.
+?? (talking),あっ……,Ahn...!
+Tsujiya Haruko (talking),何か用？,You need something?
+Yamamoto Akuji (talking),おう、きたか。,"Ah, there you are."
+Tsujiya Haruko (talking),待っていたわ、悪司！,"I`ve been waiting, Akuji!"
+Yamamoto Akuji (talking),おわ！ いてて、そんな勢いつけて 飛びつくんじゃねーよ。,"Whoa! Ouch, don`t just jump on me like that."
+Tsujiya Haruko (talking),だって…したかったんだもん。 そのつもりで呼んでくれたんだと 思ってたけど？,But... I wanna do it. I came here thinking you called me for that.
+Yamamoto Akuji (talking),まあ、そのつもりだったさ。,"Well, I did."
+Tsujiya Haruko (talking),ふふ……だったらもう、 言葉はいらないでしょう？,"Heheh... then we don`t need to say anything else, right?"
+Yamamoto Akuji (talking),ああ……そうだな。,"Yeah, that`s right."
+Yamamoto Akuji (talking),辻家晴子は、悪司を強く求めた。,Haruko Tsujiya strongly desired Akuji.
+Yamamoto Akuji (talking),そしたら、ちょっと抱いてやるよ。 あんたも楽しんで……,"Now then, I`ll give ya some loving. Let`s have fun-"
+narrator,悪司が晴子を引き寄せようとすると、 その悪司に、晴子は銃口を向けた。,"Akuji tried to bring Haruko closer, but she pointed her gun at him."
+Yamamoto Akuji (talking),躰が夜泣きしてつらくねーのか？,Don`t ya get lonely?
+Tsujiya Haruko (talking),それでも、お前に抱かれるつもりはない。,I still don`t want you doing it.
+Yamamoto Akuji (talking),やれやれ。,Damn.
+narrator,　決闘です。,　duel.
+Yamamoto Akuji (talking),おう、久しいな、晴子。,"Yo, been a while, Haruko."
+Tsujiya Haruko (talking),…………………,...
+Yamamoto Akuji (talking),こえー顔すんなよ。 どうした？ 捕虜の生活が嫌だったか？,That`s a scary look. What`s wrong? Don`t like being a prisoner?
+Tsujiya Haruko (talking),……さっさと殺したらどう？,...Can you kill me already?
+Yamamoto Akuji (talking),必要もないのに殺せねーだろ。 一度は肌も合わせた仲だしな。,"Don`t have a reason to. We “got along” in the past, too."
+Tsujiya Haruko (talking),"…………！！
+……あの時の事は…… 忘れたくても、忘れられない…！！","...!
+ ...I could never forget that, even if I wanted to!"
+cg narrator,"「ん~………ありゃー、３年くらい前だったっけ？」
+「違うっ！！ 　４年前よ！」
+「そーかそーか。 　確か、あんたらの結婚祝いに行った時だ」
+「……とんでもない結婚祝いだったわね… 　あれがそうなのだとしたら……」
+「あんたも、まんざらじゃあなかったろ？」
+「何をっ……！」
+「俺もまー、主婦……しかも新婚さんを食えたんで、 　おいしい思いをさせてもらってよ」
+「ええ、あなたはそれでよかったでしょうね。 　私にとっては、忌まわしい思い出よ！ 　あれで、私の人生が狂ったのだから……」
+「いやー、まさかあんたがその気になるだなんて、 　思ってもなくってよ」
+「っ……やっぱり…… 　冗談半分で、私を抱いたのね！」
+「ああ、そーだ。 　俺も若かったからさ。 　大した、いたずらんぼうだったさ」
+「ど、どこ見て言ってるのよ！ 　この変態！」
+「あんたのあの時の声…… 　忘れらんねーなー」
+「なっ……」
+「最初は抵抗してたってのに、あっちゅー間に、 　俺の手管にハマってさ」
+「っ……」
+「そーいや、あん時…… 　あんたの旦那が帰ってきたんだったっけ」
+「…………そうよ……」
+「で、あん時、ミョーな事言ってなかったか？」
+「ええ、こう言ったのよ」
+「俺に抱かれた時は、そんな声出さなかった。 　そんな顔もしてなかった。 　俺がヘタクソだからだな」
+「あー、そーだ、そーだ。 　でもそれって事実だろ？」
+「事実だったわよ。 　でもそれは今だから言えるわ」
+「で……別れる別れないって話が始まったんで、 　俺は……」
+「さっさとその場から姿を消していたわ」
+「あ~……そーだ、そーだ。 　そーいう事してたわ」","Hmm... That was about 3 years ago, yeah?
+ Wrong!! It was 4 years ago!
+ 「Right. I think it was when I gave you your wedding gift.
+ ...That was a terrible wedding gift. If only I knew what it was...
+ You didn`t seem to dislike it.
+ What are you-?!
+ As for me... Getting to fuck a housewife, and a newlywed at that, was a damn good experience.
+ Yes, I`m sure it was great for you. But for me, it`s a disgusting memory! My life got all messed up after that...
+ Man, I never thought you`d get this bothered about it.
+ I knew it...! You weren`t even serious when you did me!
+ Yes, that`s right. I was young, you see. I liked playing pranks a bit too much.
+ Wh-Where are you looking, you pervert?!
+ I can`t forget your moans from that time.
+ Wha-
+ You resisted at first, but you got hooked on my technique in the blink of an eye.
+ ...!
+ Oh yeah, at that time... Your husband`d come home, right?
+ ...Yes...
+ Didn`t he say something weird at the time?
+ Yes, this is what he said:
+ You didn`t moan like that or make such a face when we slept together. I must suck at it.
+ Aah, that`s right. But wasn`t that the truth?
+ It was. But only now can I say that.
+ So... You guys started wondering if you should get divorced, while I...
+ ...While you simply left.
+ Ooh, you`re right.  That`s what I did."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Yamamoto Akuji (talking),そーいえば、旦那は元気か？,"By the way, how`s your husband?"
+Tsujiya Haruko (talking),元気みたいね。 私も久々に顔見たけど。,"He seems to be doing well. Haven`t seen him a while, though."
+Yamamoto Akuji (talking),別居してんのか。,You`re not living together?
+Tsujiya Haruko (talking),"ええ。 あんたが帰ってくるってんで、 旦那は私の部下に配置されたけど…
+口をきかれても、ことごとく無視して いたから、どうやって生活しているか なんて、まったく知らないわ。","We aren`t. However, when you came back, he was made my subordinate...
+ I completely ignore him even when he tries talking to me, so I have no idea what his life is like now."
+Yamamoto Akuji (talking),……離婚したのか？,...Did you get divorced?
+Tsujiya Haruko (talking),"めんどくさいから、ほったらかしよ。 あんな事で自信をなくす男と一緒に いても、私の損になるだけなのに…
+……あの時は、捨てられたくなかった けど…
+でもあの後、目を合わせることどころか、 私と指がふれる事さえも、あの人は 拒んだ。
+そんな男をいつまでも愛せる程、 私はお人好しではなかったという事よ。
+そして……そんなガラスみたいな生活を 破壊されて、何も思わない程、 お人好しでもない。
+諸悪の根源はあなたよ、悪司。 絶対……許さない……","Doing that`s a pain, so no.  But living with a man who`s lost his self-confidence won`t do my any good.
+ ...I didn`t want to lose him back then, but...
+ Afterwards, he wouldn`t even touch me, let alone look me in the eyes.
+ I`m not a nice enough person to keep loving such a man forever.
+ Nor am I nice enough to feel bothered for destroying such a fragile household.
+ You`re the root of all evil, Akuji...  I`ll never forgive you."
+Yamamoto Akuji (talking),"お前の旦那が、俺よりお前を悦ばせる事が 出来てたら、安定した生活だったって事 じゃねーのか？
+だったら、悪いのは、俺じゃなく――","Wouldn`t your life have been normal if your husband could please you better than I did?
+ Then I`m not the one at fault-"
+Tsujiya Haruko (talking),うるさい！,Shut up!
+Yamamoto Akuji (talking),ふふ……ん…,Hahah... Hm...
+Tsujiya Haruko (talking),何よ…？,What is it...?
+Yamamoto Akuji (talking),"今の話でわかった事がもうひとつ。
+あんた、俺に抱かれて、 自分が淫乱だったって事がわかって、 余計にハラたってんじゃねーのか？","I figured another thing out from our talk.
+ You got overly pissed because you realized you were a slut when I fucked you, right?"
+Tsujiya Haruko (talking),なっ……！！！,What the-?!
+Yamamoto Akuji (talking),あんた、プライド高そうだからなー。 そりゃつらいわなー。,"You seem to have too much pride for that. Man, that must suck."
+Tsujiya Haruko (talking),だっ……黙って聞いていれば…！！,W-Will you shut up and listen-?!
+Yamamoto Akuji (talking),くくくっ… つらいねー。,Heheheh... Poor thing.
+Yamamoto Akuji (talking),よう、少しは落ち着いて 話が出来るようになったかい？,"Okay, you calmed down some? Do you feel like talking now?"
+Tsujiya Haruko (talking),……………,...
+Yamamoto Akuji (talking),こえーなー。 美人に睨まれるのは。,"Ooh, scary. Not everyday a hottie glares at me."
+Yamamoto Akuji (talking),服を脱げや、晴子。,Strip.
+Tsujiya Haruko (talking),え……？,Huh...?
+Yamamoto Akuji (talking),その様子だったら、俺としてから 一度も男としてねーんだろ？,"From the looks of it, you haven`t slept with anyone since we fucked."
+Tsujiya Haruko (talking),お、大きなお世話っ… な、何すんのよ！ 離してよ！,"Th-That`s none of your business! H-Hey, what are you doing?! Let me go!"
+Yamamoto Akuji (talking),その責任とって、 たっぷり可愛がってやるぜ。,I`ll take responsibility for that and make some good love to you.
+Tsujiya Haruko (talking),あ、悪司、やめっ…あっ…あ！,"S-Stop it, Akuji! Aaaah...!"
+Tsujiya Haruko (talking),辻家晴子、抵抗むなしく悪司にこまされた。,"Despite her resistence, Haruko was fucked by Akuji."
+Yamamoto Akuji (talking),ほれ。,Here.
+Tsujiya Haruko (talking),何、このお金？,What`s the money for?
+Yamamoto Akuji (talking),あんたが俺の部下になったら、 これっくらい出すってんだよ。,It`s what you`ll get if you work for me.
+Tsujiya Haruko (talking),……………,...
+Yamamoto Akuji (talking),……まー、じっくり考えてくんな。,"Well, take your time."
+Yamamoto Akuji (talking),"そろそろ、首を縦にふって欲しい とこなんだけどな。
+晴子、俺の部下になれ。","I think it`s about time you said yes.
+ Work for me, Haruko."
+Tsujiya Haruko (talking),"………………
+わかったわ。
+もういい加減、捕虜の生活にも ウンザリしていたし。 優遇してもらえるのかしら？","...
+ Fine.
+ I`ve had enough of being a prisoner. Will I get。 preferential treatment?"
+Yamamoto Akuji (talking),あんたの働き次第だな。,Depends on your work.
+Tsujiya Haruko (talking),"………ふん……
+あんたとは、お金だけの繋がりよ。
+これ以上、私の人生に踏み込むような 真似したら、タダじゃおかない、 今度こそ。","Hmmm...
+ This is just business, okay?
+ Mess with my life again, and I`ll make you pay, this time for sure."
+Yamamoto Akuji (talking),わかった。 怖い、怖い。,"Ooh, scary. Yeah yeah, I got it."
+Tsujiya Haruko (talking),ふんっ。,Hmph!
+Yamamoto Akuji (talking),どうだい？ そろそろ、俺の部下になってくれる 決心はついたか――,How about it? Feel like becoming my subordina-
+narrator,晴子は返事の代わりに、悪司にくちづけた。,"Instead of a reply, Haruko gave Akuji a kiss."
+Yamamoto Akuji (talking),……おいおい…,...Hey now.
+Tsujiya Haruko (talking),いいわ……私をあなたの好きにして…,Fine... Do what you want to me...
+Yamamoto Akuji (talking),へ……え。 旦那はどうするよ？,Huh... uh? What about your husband?
+Tsujiya Haruko (talking),"一時同じ屋根の下で暮らしていただけで、 今は戸籍上だけの問題よ。
+その気になれば、 あなたが始末してくれればいい。 あなたはそういう男でしょ？","All we did was share a house for a while. Now, he just shares my name.
+ If you feel like it, you can get rid of him. You`re that kind of man, aren`t you?"
+Yamamoto Akuji (talking),理解してもらえて嬉しいねぇ。,I`m glad you understand.
+Tsujiya Haruko (talking),やっと……楽になれた気がするわ… 今になって思うと、つまらない 意地だったのね。,"I finally feel at ease... Thinking back on it, I was being foolishly prideful."
+Yamamoto Akuji (talking),女はちょっと意固地な方が可愛いぜ。,Stubborness makes you cuter.
+Tsujiya Haruko (talking),………ふふ……,...Heehee...
+cg narrator,"「あんっ…早くちょうだぁい… 　焦らさないで… 　もう入るから……」
+「あっ…あああっ……」
+「あっーーーっ……！！」","Ahn...! Hurry and give it to me... Ah, don`t rush me... It`s going in now...
+ Ahn! Aaaaahn...!
+ 「AAAAAAAAAAHN!!"
+cg narrator,"「あっ、いいっ、いい、あーーっ…！！」
+待ち焦がれていた太い男根が、晴子の茂みの奥に 吸い込まれていく。
+その感触に、晴子は甘ったるく甲高い声をあげた。
+「ほう、匂いのままの女でしたか、晴子」
+タマネギが、嬉しそうに笑う。
+「あ、ああんっ！！」
+晴子は自分から尻を広げ、男のそれが激しく深く 入り込むのを楽しんでいる。
+「もっと…ねぇ… 　もっとちょうだい… 　こっちもぉぉっ……」
+晴子の声に、タマネギが肯く。
+「あっ…あはぁぁっ…」
+タマネギの部下の男が、全裸になり、 屹立したそれを、晴子の顔に近づけた。
+「んっ……んぐっ……」
+晴子は自分から大きく口を開き、舌を出し、 吸うように、屹立した男根を頬張る。
+「んぐっ…んっ……んっ…あふっ…」
+後ろから男に揺さぶられ、腰を振る。 その振動を利用して、晴子は自分が口に 咥えているそれを愛撫する。
+舌先がその筋を這い、舌全体が亀頭を這い、 指は竿をしごく。 晴子はその行為に夢中になっていた。
+「は……ん……」
+晴子は竿から離れると、今度は首を伸ばし、 竿に頬ずりしながら、袋を舐める為、 舌を差し出した。
+「はあっ…んっ……ふっ……」
+舌で玉を転がし、 振動を利用して愛撫する。
+「前にばかり集中していないで」
+タマネギがそう言うと、晴子を貫いている男が、 彼女の尖った花芯に指を伸ばした。
+「んふっ！！」
+晴子の喉がのけぞる。
+「ほら、締めて。 　軽く、強く。 　もっと気持ちよくなりたいでしょう？」
+「あっ……んんっ…んっ…」
+晴子はタマネギの言葉に従い、男の太いものを 締めつけようと、菊座に力を込める。
+それに合わせて、男も腰を振る。 晴子の尖ったクリトリスを指で愛撫し続けながら。
+「その調子。 　それで、舌を使ってごらん。 　もっと気持ちよくなるよ」
+「あっ……ふ…」
+晴子の指が、先程まで頬張っていた竿に伸び、 再び、舌が伸ばされる。
+「あ……んむっ…」
+大きく開かれた口は、深くそれを飲み込むと 素早く動き出した。
+「少し早い。 　劣情の勢いに負けては駄目です、楽しんで。 　口もすぼめて」
+晴子は、タマネギの言う通り、口をすぼめ、 後ろの速度とは違う、ゆっくりとした速度で、 竿の上に唇を滑らせる。
+「んむっ…ふっ……んっ……」
+「そう…上手ですよ。 　旦那のも、そんな風にしごいていましたか？ 　いい具合ですよ」
+「んはっ、あっ…んっ…ふっ…」
+上の口からも下の口からも湿った音を 激しくさせる晴子。
+やがて、男達の動く速度も早くなってくる。 晴子に口で愛撫されている男は、 自分から腰を振り出した。
+「んぅっ…ぁっ…」
+ゆっくりと動いていた晴子も、相手の変化に気付き、 後ろの男が動く速度と同じように、男根に むしゃぶりつく。
+「そう…いい感じですよ… 　そのまま続けて…そう…そう……」
+タマネギが、三人を誘導する。
+三人の腰の動きが。 晴子の声が、高くなってきた。
+「そう、思うまま動きなさい。 　そうすれば、もっと素晴らしい場所に 　行く事が出来ますよ、晴子」
+「んっ……はっ…あ、あ、あ、っ…！」
+晴子は竿を口から離すと指で素早くしごき、 舌を突き出し、亀頭のスリットを舐める。
+男は晴子の頭を押さえ、腰をびくびくと跳ねさせる。 後ろから貫いている男は、腰の動きを速め、腰を 叩きつける音を高くあげだした。
+「あふっ……んっ…あっ……あ~~~~っ…！！！」
+晴子の声が、一際高くあがった時。
+その顔は白濁に塗れ、尻も白濁に塗れた。
+「……あ……ふ……」
+晴子は躰を小刻みに震わせながら、頬から唇に 流れてきた精液を、ぺろりと舌で嘗めた。","「Ahn! Yes! Yeeees! So good, aaaahn...!
+ The impatient man`s thick cock plunged deep inside Haruko`s bush.
+ The sensation made Haruko moan in a shrill voice.
+ Hoh, so you were a woman after all, Haruko.
+ Tamanegi chuckled.
+ Aaaaaahn!
+ Haruko spread her ass open and relished taking the man`s cock deep inside her.
+ Mooooore... Give me moooore... Here as well...
+ Tamanegi nodded.
+ Ahn! ahaaaahn!
+ Tamanegi`s subordinate stripped and placed his erect cock close to Haruko`s face.
+ Mnh! mmnngh!
+ Haruko opened her mouth wide, letting her tongue out,  then filled it with the man`s cock.
+ Mnngh! mmph... mnh... ahmpf...!
+ The man behind Haruko kept shaking her with his thrusts; Haruko used these movements to caress the cock inside her mouth.
+ Her tongue ran across his frenulum, then enveloped his glans. Her hand stroked his shaft. Haruko became completely immersed in her service.
+ Mmph...
+ Haruko let go of his cock. This time, she she drew her head close and began licking the man`s balls, all while rubbing her cheek against his shaft.
+ Haahn...! Mn, mmmmph!
+ She rolled his balls around with her tongue, caressing them as she was shaken.
+ Don`t only focus on the man in front of you.
+ The man penetrating Haruko put his fingers on top of her erect clit.
+ Hmmmmnph!
+ Haruko`s neck arched backwards.
+ Come on, tighten up. Lightly, then strongly. You want to feel even better, no?
+ Ahn! mmmnh, mmmmmmn...!
+ Obeying Tamanegi, Haruko clenched her anus in order to better squeeze the man`s cock.
+ In response, the man thrust harder, his fingers still playing with Haruko`s clitoris.
+ Keep that up. Now, try using your tongue. You`ll feel even better.
+ Ahn! ...mmnh...
+ Haruko once again gripped the man`s cock and stretched out her tongue.
+ Ahn... mmmnph!
+ She opened her mouth wide open, swallowed the cock, then quickly rocked her head.
+ Slow down a little. Don`t give in to your lust, savor it. Now, purse your lips.
+ Haruko did as Tamanegi ordered, slowly running her lips across the man`s shaft, a sharp contrast to her pussy, who kept being violently penetrated.
+ Mnph! mmmnhph, mmmmn!
+ There you go... very good. Is that how you did it with your husband? It`s looking good.
+ Mnhaaah! ahn! mmmn! mmmph...!
+ The wet sound coming out of Haruko`s mouth and pussy intensified.
+ Before long, the men`s movementes hastened. The man being sucked off began moving his hips as well.
+ Mmmmnh, aaahn...!
+ Having noticed her partner`s change, Haruko matched her blowjob`s speed to match that of the man thrusting into her pussy.
+ There... looking good. Keep it up. ...Yes, just like that.
+ Tamanegi guided the three.
+ The men`s hips became faster, and Haruko`s voice, louder.
+ Yes, move as you will. Do that, and you`ll be able to reach even greater heights, Haruko.
+ Mnnn! Haah, ahn aaaahn, aaahn...!
+ Haruko spat out the man`s cock, stroked it with her fingers, then licked his urethra.
+ The man held Haruko`s head in place as his hips spasmed. The man behind her sped up, and the sound of their hips slapping became louder.
+ Aaaahmmmph...! mmnh, ahn, aaaaaaaaaaaahn!!
+ As soon as Haruko moaned particularly loudly-
+ -Both her face and her ass were dyed white.
+ ...Ahn... mmph...
+ As her body shivered, Haruko licked up the semen running across her face."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Chinpira (talking),晴子さん、弾の補充です。,"Haruko-san, your new bullets."
+Tsujiya Haruko (talking),ありがとう。,Thanks.
+Chinpira (talking),あの、実弾なんすけど… 在庫がそうないんで、 あまり無駄撃ちは…その…,"Um, they`re real bullets, so... We don`t have them in stock, so uh, don`t waste them..."
+Tsujiya Haruko (talking),……………,...
+narrator,晴子は黙って男を睨んだ。,Haruko glared at the man.
+Chinpira (talking),あ、そ、そっすね、実弾撃たなきゃ やってらんないっすよね！ は、ははは、ははははは………,"R-Right, you need real ammo to kill people! H-Hahah, hah!"
+narrator,男は慌ててそこから走り去った。,The man hurriedly left.
+Tsujiya Haruko (thinking),悪司……必ず殺す…！,Akuji... I WILL kill you!
+Chinpira (talking),あの…晴子さん。 お客様ご指名なんっすけど。,"Um, Haruko-san... We have a request for you."
+Tsujiya Haruko (talking),どうしたの？,What`s the matter?
+Chinpira (talking),それが、その…三人いっぺんに 晴子さん一人で相手して貰いたいって…,"Well, uh, you`d be tag-teamed by three guys at once."
+Tsujiya Haruko (talking),ああ…それぐらいだったら、 かまわないわ。,"Oh, that`s all? I don`t mind."
+Chinpira (talking),そ、そっすか？ 凄いっすねー、尊敬しやす。,"R-Really? Daaamn, you got my respect."
+Tsujiya Haruko (talking),大した事じゃないわ。 あまり待たせるとなんだから、 案内してあげて。,"It`s no big deal. I don`t want to keep them waiting, so take them here."
+Chinpira (talking),は、はい！ お客様、お部屋ご案内~！ ハッスル、ハッスル~！,"G-Got it! This way, dear customers! Let`s hustle, hustle!"
+narrator,"この地を支配しているのは、 わかめ組の辻家晴子だった。
+晴子は、地下にある射撃場で、 射撃訓練に集中していた。
+人型の的が遠くにある。 その影に、悪司の姿を重ね、撃つ。
+素早く放たれた何発もの弾は、 人型の胴体を貫通していった。","Haruko Tsujiya from the Wakame Family ruled over this region.
+ Haruko was practicing in a underground shooting stand.
+ She was firing at a picture of Akuji, plastered onto a target, from afar.
+ Countless shots pierced the target`s torso in quick succession."
+Tsujiya Haruko (thinking),お前の躰にも、もうすぐこれだけの鉛弾を ブチ込んであげるわ、悪司……,"I`ll fill you with lead soon, Akuji..."
+ (talking),凄い音だな……,That`s some crazy noise...
+Tsujiya Haruko (talking),……………,...
+narrator,晴子は、夫―丸男―を感情のない目で一瞥 すると、すぐに予備の弾倉へと顔を向けた。,"Haruko gave her husband, Maruo, an emotionless glance before looking at her spare mag."
+Elite Yakuza (talking),……やっぱり…まだ怒ってるのか？,"...As I thought, are you still mad?"
+Tsujiya Haruko (talking),……………,...
+Elite Yakuza (talking),"もう昔の事じゃないか… それより晴子、そろそろ家に 戻ってこないか？
+お前もあれから独り寝で……","It`s all in the past... More importantly, won`t you come back home, Haruko.
+ You`ve been sleeping alone since then-"
+narrator,晴子は、弾をつめ直したばかりの銃口を 夫に向ける。,Haruko pointed her freshly-reloaded gun at her husband.
+Elite Yakuza (talking),ひっ…！！,Eek...!
+Tsujiya Haruko (talking),――わかってないのね。 あなたもあの悪司と同類なの。 あの時……私の前から去っていってから。,You don`t understand. You and Akuji are the same... ever since you left me that time.
+Elite Yakuza (talking),は、晴子……,H-Haruko...
+Tsujiya Haruko (talking),でも、あなたは撃つ価値もないわ。,But there`s no point shooting you.
+Tsujiya Haruko (thinking),"……悪司… 私の標的はあなただけ……
+私の生活も…身も心も、 砕いていった、あの男…","(Akuji... You`re my only target.
+ You, who destroyed my life... as well as my body and soul...)"
+Chinpira (talking),辻家さん、組長からお手紙きてやすぜ。,You`ve a letter from the Chairwoman.
+Tsujiya Haruko (talking),ありがとう。,Thanks.
+narrator,しかし晴子は受け取った手紙を封も開けず、 机の上においた。,"However, Haruko placed the letter on her table without opening it."
+Chinpira (talking),あれ？ 中身の確認しなくていいんですかい？,Huh? You not gonna read it?
+Tsujiya Haruko (talking),……………,...
+Chinpira (talking),す、すみません。,S-Sorry.
+narrator,下っ端は晴子の眼力におたつき、 慌ててその場から離れた。,"Intimidated by Haruko`s gaze, the underling quickly left."
+Tsujiya Haruko (thinking),"ここに何が書かれていても、 私にとっては同じ事……
+私は悪司を殺す。 ただ、それだけ。
+この手紙に、生け捕りにするようにと 書かれていた時は、命令違反で 私は処罰を受けるだろう……
+それでもかまわない。 私は……
+何もかもを無茶苦茶にしたあいつを 殺す事が出来るのなら…
+………悪司……
+償ってもらうわ… あなたの命で……","Regardless of what it says, it won`t change what I`ll do.
+ I will kill Akuji. That is all.
+ I`ll be punished for disobedience if this is an order to capture him alive...
+ But I don`t care. I...
+ If I can kill him, who fucked my whole life up...
+ Akuji...
+ I`ll have you atone... with your life."
+Tsujiya Haruko (talking),さぁて…いくわよ。,Now then... here I go.
+Chinpira (talking),ひえ~、凄いっすね、晴子さん。,"Whew, amazing, Haruko-san."
+Tsujiya Haruko (talking),何が？,What is?
+Chinpira (talking),晴子さん、通算５００人越えました。 お客さん取った数。,You`ve gotten over 500 customers.
+Tsujiya Haruko (talking),ふーん…もうそんなに取ったんだ。,"Hmm, already?"
+Chinpira (talking),へい。,Yep.
+Tsujiya Haruko (talking),………ふふ…… じゃあ次は１０００人だわね。 目指すとこは。,Fufu... Then I guess I`ll aim for 1000 next.
+Chinpira (talking),凄いっす！ 頑張って下さい！,"Daaaaayum! You go, Haruko-san!"

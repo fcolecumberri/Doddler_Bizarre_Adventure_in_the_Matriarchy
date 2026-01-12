@@ -1,0 +1,812 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆どん子 = 10:,{☆どん子 = 10:
+__system__??,},}
+__system__??,{☆どん子 = 11:,{☆どん子 = 11:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 2:,{麦 = 2:
+__system__??,{B忠誠タイプ = 3:,{B忠誠タイプ = 3:
+__system__??,{B忠誠心 > 70:,{B忠誠心 > 70:
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 4:,{麦 = 4:
+__system__??,},}
+__system__??,{麦 = 5:,{麦 = 5:
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,},}
+__system__??,{麦 = 12:,{麦 = 12:
+__system__??,{H愛欲抵抗 <= H愛欲:,{H愛欲抵抗 <= H愛欲:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,{H物欲抵抗 <= H物欲:,{H物欲抵抗 <= H物欲:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+__system__??,{麦 = 17:,{麦 = 17:
+__system__??,{H拷問抵抗 < H拷問:,{H拷問抵抗 < H拷問:
+__system__??,},}
+__system__??,{H拷問 = 1:,{H拷問 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 18:,{麦 = 18:
+__system__??,},}
+__system__??,{麦 = 19:,{麦 = 19:
+__system__??,},}
+Honoo Donko (talking),"……どんどんどん、どんどんどん、 どんどんど~ん♪
+悪司しゃん、おいっす！ 呼ばれてやって参りました、 炎どん子で~~~~すっ！","Dondondon, dondoooon, dondon, dondooooon!
+ Whassup, Akuji-syan! Honou Donko`s here to answer your call!"
+Yamamoto Akuji (talking),……………………,...
+Honoo Donko (talking),……どんどんどん、どんどんどん、 どんどんど~ん♪,"...Dondondon, dondoooon, dondon, dondooooon!"
+Yamamoto Akuji (talking),……そりゃ一体何の歌だ。,...What the hell is that song?
+Honoo Donko (talking),どん子のテーマソングでーす。,It`s Donko`s theme song.
+Yamamoto Akuji (talking),あっそ。,That so.
+Honoo Donko (talking),……どんどんどん、どんどんどん、 どんどんど~ん♪ いつも歌ってま~~~~~~すっ。,"Dondondon, dondoooon, dondon, dondooooon! Donko`s always singing iiiii!"
+Yamamoto Akuji (talking),いつもって、まさか仕事中もか？,"Wait, even during work?"
+Honoo Donko (talking),うーん…………だいたいは。,Yep... mostly.
+Yamamoto Akuji (talking),真面目に仕事してんだろうなぁ、 おめー…………,Are you really taking your job seriously...?
+Honoo Donko (talking),もちろんですよーっ。 お仕事してます、それはもうしっかりと！,"Of course! Donko`s doing her job, and very well!"
+Yamamoto Akuji (talking),……限りなく疑わしい……,...I highly doubt that...
+Yamamoto Akuji (talking),さて、どん子のヤツが ぼちぼち来る頃だが……,It`s about time Donko got here...
+ (talking),……どんどんどん、どんどんどん、 どんどんど~ん…………♪,"...Don-don-don, don-dooon, don-don, don-dooooooon..."
+Yamamoto Akuji (talking),……来たみてぇだな。 解りやすいヤツめ……,...Looks like she`s here. She`s so simple...
+narrator,悪司は、事務所の窓から首を出して 表の通りを確かめてみた。,Akuji looked out the office window to confirm she was there.
+Honoo Donko (talking),どんどんどん、どんどんどん、 どんどんど~ん♪,"Don-don-don, don-dooon, don-don, don-dooooooon"
+shoujo (talking),どんどんどん、どんどんどん、 どんどんど~ん♪,"Don-don-don, don-dooon, don-don, don-dooooooon"
+Honoo Donko (talking),……ききききーっ。 ぶれーきぶれーき、とうちゃく~！,...Scrrrch! Hit the brakes...
+shoujo (talking),とうちゃく~！ 奉仕青年団事務所まえ~っ！,and we`ve arrived! We`ve arrived at the Akuji Fmaily`s office!
+Honoo Donko (talking),じゃあケイちゃん、 どん子、今からお仕事だから、 ここでバイバイね。,"Donko has to work now. Kei-chan, so it`s bye-bye for now."
+shoujo (talking),うん、どん子ちゃんお仕事頑張ってね！,"Yep, do your best at work!"
+Honoo Donko (talking),"は~い！
+さっきまで一緒だった ユウちゃんやリョウくんやエミちゃんに よろしく言っといてね~！","Okaaaay!
+ Tell Yuu-chan, Ryou-kun and Emi-chan Donko said hi!"
+shoujo (talking),は~~~~~いっ！,Okaaaay!
+Honoo Donko (talking),気をつけて帰るんだよ~ん。,Be careful on your way back!
+Honoo Donko (talking),"どんどんどん、どんどんどん、 どんどんど~ん♪
+そんな訳で、悪司しゃん、おいっす！","Don-don-don, don-dooon, don-don, don-dooooooon
+ Whassup, Akuji-syan!"
+Yamamoto Akuji (talking),……………… おい、今のガキは一体何だ？,... Who the hell was that kid?
+Honoo Donko (talking),どん子のファンでーす♪,One of Donko`s fans!
+Yamamoto Akuji (talking),何だ、ファンって……,A fan...?
+Honoo Donko (talking),何って言われても、 ファンはファンですよん。 説明できませーーーーーーん。,"A fan is a fan, what else could they be? What`s there to even explaaaain?"
+Yamamoto Akuji (talking),まあ別にどうでもいいんだが……,"Well, I don`t really care..."
+Yamamoto Akuji (thinking),……頭の中がガキだから ガキと話が合うって事か………,(Guess she talks to kids `cause she`s mentally a kid...)
+Honoo Donko (talking),"……どんどんどん、どんどんどん、 どんどんど~ん♪
+呼ばれて出てきてじゃんじゃかじゃ~ん♪ 悪司しゃん、どん子でーす。","Don-don-don, don-dooon, don-don, don-dooooooon ♪
+ You called, so Donko`s here ♪ Hiya, Akuji-syan!"
+Yamamoto Akuji (talking),……その歌、何とかならんのか。,...Can ya quit with that song?
+Honoo Donko (talking),なんとかしなきゃダメですか？,Does Donko have to?
+Yamamoto Akuji (talking),……………………まあいいけどな……,"......Nah, it`s fine..."
+Yamamoto Akuji (thinking),"……っつっても、 別にこいつ、こまして部下にした訳じゃ ねえしな……
+別にヤりてえとも思わんし、 やめとくことにしよう……","...Then again, it ain`t like I fucked her to make her work for me...
+ I don`t really wanna do her, so I`m not gonna."
+Yamamoto Akuji (talking),よっしゃ、いっちょヤるか。 どん子、俺の部屋に行くぞ。,"Alright, let`s do it. We`re going to my room, Donko."
+Honoo Donko (talking),ほやん……？,Hoyan...?
+Yamamoto Akuji (talking),…………ピンと来いよ。 セックスするぞっつってんだ。,...Just come with me. We`re gonna have sex.
+Honoo Donko (talking),ふにゃわ~~~~！ 悪司しゃん、すきーーーーーー！！,"Fnyaaaaah! Donko wuvs you, Akuji-syaaaan!"
+Yamamoto Akuji (talking),そーかそーか。 ま、今だけは好きなだけくっついとけ。 許す。,"Really now. Well, I`ll let you cling to me as much as you want, just for now."
+Honoo Donko (talking),わーいわーいわーいっ！ ……ほにゃん、とろりん…………,Yay! Yaaaaaaay! ...Honyan...
+Yamamoto Akuji (talking),…………解りやすいヤツめ。,...You`re so predictable.
+Yamamoto Akuji (talking),どん子は、悪司に抱かれた。,Akuji fucked Donko.
+ (talking),よっしゃ、いっちょヤるか。 どん子、俺の部屋に行くぞ。,"Alright, time to fuck. We`re going to my room."
+ (talking),"……うにゃ…………
+ ……………………","...Unya...
+ ..."
+ (talking),…………ん？ どうかしたのか？,...Hm? What`s wrong?
+ (talking),"悪司しゃん…………
+ ……………………すき…………","Akuji-syan...
+ ...Donko wuvs you..."
+ (talking),そうかそうか。 俺も好きだぞー。,"Really. Well, me too."
+ (talking),嘘ばっかり…… 悪司しゃんは今だけでしょ~？,"You liar... It`s only for now, riiiight?"
+ (talking),その通りだ。,Exactly.
+ (talking),えへへ、でもどん子それでもいいの~♪ 悪司しゃん、すき~~~~~！！！,"Eheheh, but Donko doesn`t mind! She wuvs you, Akuji-syan!"
+ (talking),わーった、わーったから。 人の顔に肉球を押しつけんなっての。,"Yeah yeah, I got it, take your paws off my face."
+cg narrator,"「ふやあ……ふやああっ…………！ 　ひゃんっ…………ああ、っ……んぅ…… 　っ…………あふ…………気持ちいいっ…………」
+躰の奥底から溢れ出してくる悦楽を、 どん子は隠すことなく口にする。
+「悪司……しゃん、いいよぉ……いいのっ…… 　もっと、強くてもいいから……っア……！！ 　や、う……んっ……ふやあんっ……！」
+悪司の手が股間に伸びてくれば、 どん子は何も言わなくても脚を広げる。
+悪司の手が胸に延びれば、どん子は 心持ち背筋を伸ばして指先に乳首を押しつける。
+そして、悦楽の痺れや震えが四肢を疾っても、 どん子はそれを堪え、受け入れ、 決して悪司の動きを邪魔しようとはしなかった。
+「結構慣れてきたみてぇだな、どん子。 　そんなに気持ちいいか？」
+「あぅ……ん、気持ち……いいよぉ…………っ！ 　悪司しゃんの、手……熱くて、おっきくて……」
+「そーかそーか。 　……ま、ホントは訊くまでもねぇんだがな」
+呟いて、悪司はどん子の秘裂を弄ぶ指を わざと擦り合わせた。
+　　［くちゅ、くちゃ、ちゅ……］
+「……へっ。 　ようどん子、この音聞こえてるか？」
+「あ……悪司しゃんの…………意地悪ぅ……」
+「…………ぼちぼち、欲しくなってきたか？」
+「……うん………… 　悪司しゃん……来て…………」
+「よしよし、んじゃもう着ぐるみ脱いじまえ。 　手と足さえ抜けたら、バック以外の体位でも 　イロイロ可愛がってやれっからよ」
+悪司はそう言ったが、どん子は静かに首を振る。
+「いい……どん子、このままでいいよぉ…… 　悪司しゃん、早く……」
+「そう言わずによ、今言ったとおりにしてみな。 　そりゃもう新しい世界が拓けるぜ？」
+だが、やはりどん子は首を振る。
+「違うの……そうじゃないのぉ………… 　どん子、もう待てないの……」
+「待てないも何も、たかが手と足抜く程度だろ」
+「それも惜しいんだもん…… 　ずっと前から悪司しゃん欲しかったんだもん…… 　早くして、早く…………」
+「……しゃあねえな。 　すっかりインランになっちまいやがって……」
+言いながら悪司はズボンのジッパーを下ろし、 硬くなったものを取り出すと同時に どん子の中へ入っていく。
+「ひ、あ…………ああああっ…………！！ 　ひう、ン…………うやあああっ……！」
+「やれやれ……恥ずかしげもなく 　ヤらしい声上げてんなあ、おめー……」
+「そ、んな……事、言ったって………… 　全部、悪司しゃんのせい……なのにいっ……」
+悪司は、どん子がそう言う間も動き続けた。 ──硬いものが、熱く湿った柔らかな 肉の空洞を満たし、擦り立てる。
+「ふ、や…………やはあああっ…………！ 　い、う…………はっ、はっ……ッあ……！！」
+懸命に息を継ぎながら、 どん子は襲ってくる悦楽に耐える。 まだ、悪司に言いたいことがあったから。
+「ど、どん子が……悪い子に、な……ちゃったの、 　全部……ぜんぶぅ、悪司しゃんが………… 　悪司しゃんの……せい、なのにいっ…………」
+「おいおい、全部俺のせいってのはねぇだろ…… 　そりゃちょっと納得いかねぇな……」
+「だ、だって……だってえっ…………！ 　どん子は、どん子は何もしてないもんっ……」
+「あんなあ、今お前の中に入ってる俺のモン、 　なんで硬くなったと思ってんだ？」
+「…………え、ぁ…………っひあッ……！」
+「そうそう、それそれ。 　そういう風に裏返ったやーらしい声出すから 　俺のも元気にさせられちまうんだぞ？」
+「そ、そんなの……なくったって………… 　悪司しゃんは……いつだって……」
+「いつだって勃ってるって言うのか？ 　無茶苦茶言うなよ、俺はヨガの達人じゃねぇぞ」
+「だっ、だって……だってえっ…………！」
+「……いいから、もう喋んのヤメろ。 　あと一時間は喘ぎ声以外禁止な」
+言って、悪司は本格的に腰をつかい始める。 どん子のお喋りを力尽くで終わらせるために。
+「ふ、や…………やはあああンっ…………！ 　ひあっ、あ……うあやああああっ……！！ 　いやああっ、あああっ！！　ふやあああンっ！」
+「ひあ…………や、は────────ぁ……」
+「………………ぁ、っ…………………………」","Funya... funyaaaaahn! hyan! aaanh, mmmn! auuu... so good...!
+ Donko did not even try to hide the pleasure she was feeling
+ Akuji-syan... that`s so, sooo good...! You can be rougher... ahn...! yahn, ngh... mnnn... fwaaaaahn!
+ When Akuji reached for Donko`s crotch, she opened her legs on her own.
+ When he reached for her breasts, she angled her back to push her nipples onto his hands.
+ Donko fully accepted the pleasure that assaulted her body and behaved in a way that would not hinder Akuji`s movements.
+ Looks like you`ve gotten used to it, Donko. Does it feel that good?
+ Auuuu... Yeah, it feels... good...! Akuji-syan`s hands are so big and hot...!
+ Really now. ...Well, not like I actually had to ask.
+ As he mumbled, Akuji deliberately rubbed the fingers he had in Donko`s pussy together.
+ *Schp, schhhhk, schhhp*
+ Hah! Can you hear that, Donko?
+ Ahn... Akuji-syan, you meanie...
+ ...You want to do it, right?
+ ...Yeah... Please do it, Akuji-syan...
+ Good, then take off your costume. Even just the arms and legs are enough, I can do you in all sorts of positions still.
+ So Akuji said, but Donko shook her head.
+ Donko is fine like this... Hurry up, Akuji-syan...
+ Nah, try doing as I told you. You might get shown a whole new world.
+ Yet Donko still shook her head.
+ That`s not it... Donko can`t wait anymore...
+ Hey now, you just gotta take it off your arms and legs.
+ Even that takes too long... Donko`s been wanting you for a long while... Hurry, please, hurryyyy...
+ ...Alright then. Be as lewd as you want...
+ Akuji undid his pants, took out his hardened member, and quickly pushed it inside Donko.
+ Hyauh... aaaaahn! Hyuuuu, nyaaaaaahn!
+ Good grief, you`re moaning like bitch in heat without a shame in the world.
+ Even if... you say that... this is all your fault, Akuji-syan...
+ Akuji moved as Donko spoke. His dick filled and rubbed against her soft, wet, warm entrance.
+ Hah, yahn, yaaaaahn...! ngh... hah! haaaahn!
+ With ragged breath, Donko did her best to endure the pleasure assaulting her.
+ She still had something to tell Akuji. Donko became... a bad girl... all because of you, Akuji-syan...!
+ Hey now, it wasn`t all MY fault. I`m not buying it.
+ B-Buuuut...! Donko did not do anything!
+ Can you feel my dick inside you? Why do you think it got so hard?
+ ...Huh? ah... hyaaahn!
+ Yeah, that`s right. Your lewd, squeaky moans are  what got my dick so fired up.
+ E-Even without that... Akuji-syan, you`re always...!
+ You gonna say I`m always hard? Come on now, I`m not some sex machine.
+ But... but...!
+ ...Enough, stop talking. You`re only allowed  to moan for the next hour.
+ With that, Akuji began to move his hips in earnest  to render Donko unable to speak.
+ Fyaaaaahn! yaaaaahn! Hyaaaaah! aaaahn! Nooooo! aaaaaaaahn!
+ Hyah... yahn, haaaaaaahn...!
+ ...ahn...!"
+Honoo Donko (talking),"……ふにゃあ…………
+悪司しゃん………… すき…………","...Funya...
+ Akuji-syan... Donko wuvs you..."
+Yamamoto Akuji (talking),そーか。 だがヤり終わった今の俺にとっては、 おめーはもうただの部下だな。,"Really. But now that we`re done fucking, you`re just a subordinate to me."
+Honoo Donko (talking),"うやあ…… 悪司しゃん、ほんとに悪い子……
+ …………えへへへへ…… でも、もう、どん子も悪い子…… えへへへへへ…………","Uhyah... You really are a meanie...
+ ...Ehehe... But Donko is bad girl now, too... Ehehehehe..."
+Yamamoto Akuji (talking),そりゃまあそうだろ。 もっとして、もっとして、っつって あんだけ言うんだからな。,"Well yeah, you kept asking me to fuck you harder."
+Honoo Donko (talking),うにゃぐ…………………………,Unyah...
+Yamamoto Akuji (talking),照れんなよ。,Don`t blush.
+Yamamoto Akuji (talking),ほれ、ボーナス。,"Here, have a bonus."
+narrator,悪司は、どん子の前に札束をぽんと放り投げた。,Akuji chucked a wad of cash towards Donko.
+Honoo Donko (talking),はややややや？ こんなにもらっちゃっていいんですか？,Hoyayayaya? Can Donko have all this?
+Yamamoto Akuji (talking),働きに対する正当な報酬だ。 遠慮せずに取っとけ。,"It`s a reward for all of your work, you can take it."
+Honoo Donko (talking),"わーいっ♪　悪司しゃん、すきー！
+じゃあこれで五着目の着ぐるみ作って、 一着目と三着目を修理して、二着目を クリーニングに出して、それから……","Yaaay! ♪　Wuv you, Akuji-syan!
+ Now Donko can make her 5th costume, Repair the 1st and 3rd costumes, clean the 2nd, and then..."
+Yamamoto Akuji (talking),おめー、全部着ぐるみに使う気か……,You`re using it all on costumes...?
+Honoo Donko (talking),ほやん？　ダメですか？,Hoyan? Is that bad?
+Yamamoto Akuji (talking),……いや、別にいいけど。,"...Nah, it doesn`t really matter."
+Yamamoto Akuji (thinking),"こんなの娼婦にして売れんのか……？
+まあ、物好きはいるもんだしな。 タマネギに押しつけちまえ。","Will she even get any clients...?
+ Well, the world`s fulla freaks. I`ll force her onto Tamanegi."
+narrator,悪司は手近の電話を引き寄せ、 調教の館へ電話をかけた。,Akuji picked up the nearby phone and gave the Sex Training Facility a call.
+Honoo Donko (talking),……ふにゃん？,...Fnyan?
+Yamamoto Akuji (talking),"……おう、タマネギか。 お前も知ってると思うが、 うちの部下の炎どん子を……
+おう、そうだそうだ。 後でそっち行かせるから頼んだぜ。
+ ……ほい、連絡終了。 受話器がっちゃん、と。","...Tamanegi? You prolly already know of this Donko chick who works for me...
+ Yeah, that`s right. I`ll send her your way, so see it through.
+ ...There, done. Hanging up."
+Honoo Donko (talking),えーと、悪司しゃん……？？？,"Um, Akuji-syan???"
+Yamamoto Akuji (talking),まあ気にすんな。 すぐに解る。,Don`t worry about it. You`ll understand soon enough.
+Yamamoto Akuji (talking),"………………そうか、そうだぜ。 何で今まで気付かなかったんだ？
+こいつをマスコットキャラにしちまえば 大人気確実、子供客倍増間違いナシ。
+ ……イケる、こりゃ絶対イケるぜ。","...That`s right. How could I not have realized this sooner?
+ She`d be hella popular with the kids as a mascot character.
+ ...Yeah, this`ll work for sure."
+Honoo Donko (talking),………………？　ほやん？,...? Hoyan?
+Yamamoto Akuji (talking),なあ、どん子。 うちのハンバーガー屋で働く気はねぇか？,"Hey Donko, ya wanna work in my burger joint?"
+Honoo Donko (talking),……はんばーがーやさん……,Burger... joint?
+Yamamoto Akuji (talking),"今のおめーはどのみち俺の部下だ。 ヤだっつっても働いてもらうが……
+まあ、客商売がマジで苦手なら ちと考えにゃならんけどよ。","You`ll still be working for me regardless of your choice, but...
+ If ya don`t like doing customer service, you can refuse."
+Honoo Donko (talking),あ、はいはいはい！ どん子、お客さん相手のお仕事、大好き！,"Oh, yes yes yes! Donko loves working with customers!"
+Yamamoto Akuji (talking),"よっしゃ。 何となくそうだろうと思ってたぜ。
+んじゃ早速小春さんに連絡すっから、 先に雇用契約書へビシッとサインしとけ。","Nice. I had a feeling things would work out with you.
+ I`ll call Koharu-san, so let`s get your employment contract sorted."
+Honoo Donko (talking),"はーい♪
+ ………………あ。 ど、どん子、この手じゃ鉛筆持てない……","Okaaaay!♪
+ ...Oh. D-Donko can`t hold a pen with these hands..."
+Yamamoto Akuji (talking),契約書を書く時くらい着ぐるみ脱げよ……,"Take it off to sign it, at least..."
+Yamamoto Akuji (talking),……………… 何者なんだ、こいつは……,... Who the hell is this...?
+Honoo Donko (talking),ぽやんぽやんぽん☆ おいっす！　こんにちは~っ。,Poyanpoyanpoyan! Whassup! Hello!
+Yamamoto Akuji (talking),……ずいぶん明るいな。 捕虜の自覚ナシか？,...Well aren`t you cheerful. Don`t you realize you`re a prisoner?
+Honoo Donko (talking),にゅむ？？？,Nyumu??
+Yamamoto Akuji (talking),"……まあいい。
+おめーの名前は……炎どん子、 桃山のテリトリーに住む一般市民か。
+一応、戸籍調べてみたんだが、 間違いないな？","...Whatever.
+ So you`re... Honou Donko, a civvie living in PM territory.
+ I did look into you, but am I right?"
+Honoo Donko (talking),はい、間違いないです！ どん子はどん子ですっ。,Exactly right! Donko`s name is Donko!
+Yamamoto Akuji (talking),………………あっそ。,...Right.
+Honoo Donko (talking),"えへへ、まさかどん子 負けると思わなかったな。 お兄さんたち強いんですね？
+でもでも、あんな場所であんな昼間から 喧嘩してるのは良くないと思うなぁ~……
+ちっちゃい子も見てるのに、 マネしちゃ危ないでしょ？　ね？","Hehehe, Donko never thought she`d lose. You guys are tough, huh?
+ But starting a fight in broad daylight like that isn`t good...
+ It`d be dangerous if kids tried to copy you, no?"
+Yamamoto Akuji (talking),……………………,...
+Honoo Donko (talking),……あれっ？ どうして何も言わないの？　反省中？,...Oh? Why aren`t you talking? Are you reflecting?
+Yamamoto Akuji (talking),誰が反省するかボケ。,"As if, dumbass."
+Honoo Donko (talking),むーっ！　素直じゃない人！ うなにゃにゃぶーーーーーーー！！,Hrrrrm! You`re not honest at all! Meooooow!
+Yamamoto Akuji (talking),"頭痛くなってくんなあ……
+まあいい、一つ訊かせろ。 おめー桃山組の組員か？","I`m getting a headache...
+ Whatever, lemme ask ya something. You with the PM?"
+Honoo Donko (talking),……ほにゃ？ 違いますよ~、全然違います。,"Honyah? No, I`m not."
+Yamamoto Akuji (talking),だろうな。 俺がリンダだったらお前なんか速攻で “ちゅるせ！”って言ってらぁ。,"Thought so. If I were Linda, I`d be telling you to shut up every five seconds."
+Honoo Donko (talking),？？？,???
+Yamamoto Akuji (talking),んじゃ引き続き質問。 何でうちと桃山の喧嘩に参加した？,"Okay, next question. Why did you fight against us?"
+Honoo Donko (talking),"どん子、参加なんかしてないもん。 仲裁しようと思ったら巻き込まれたの。
+喧嘩なんて悪いこと！　やっちゃだめ！ ……お兄さん、解ってくれた？","Donko did not! She wanted to be a mediator.
+ Fights are bad! You should stop! You get it, right, mister?"
+Yamamoto Akuji (talking),"こっちも好き好んで 喧嘩ふっかけてる訳じゃねぇんだがな。
+オトナにゃいろいろ事情があんだよ、 ガキみたいな正義感振りかざすなボケ。","Well, I don`t fight because I like to.
+ Adults have their own circumstances, so stop with the hero act, dumbass."
+Honoo Donko (talking),む~~~……全然反省してないぃ……,"Hrrrm, you`re not repenting at all..."
+Yamamoto Akuji (talking),"……最後の質問だ。 こいつは個人的に訊いてみるだけだが。
+おめーなあ、結局のところ そのカッコは一体何なんだ？","Last question. This one`s for my curiosity.
+ What the FUCK is that costume for?"
+Honoo Donko (talking),何って……どん子の服。 むしろ皮膚？,"These are Donko`s clothes... or rather, her skin?"
+Yamamoto Akuji (talking),だからそうじゃなくてよ…… ソレ着てる理由だ、理由。,"No, that`s not- WHY are you wearing it?"
+Honoo Donko (talking),好きなんですよ、こういうの。 とっても楽しいし！,Because I like it. It`s really fun!
+Yamamoto Akuji (talking),………………あっそ。,......I see.
+Honoo Donko (talking),"えへへ、自分で言うのも何だけど、 どん子、地元じゃ結構人気者なんですよ。
+お兄さんもどん子見てて、 何だかわくわくしてきませんか？","Eheheh, Donko is quite popular in her region, I`ll have you know.
+ Don`t you also feel all warm and fuzzy looking at Donko?"
+Yamamoto Akuji (talking),しねぇよ。,No.
+Honoo Donko (talking),………………心の貧しい人~。,...Oh ye of poor heart.
+Yamamoto Akuji (thinking),……五、六発シバいちまおうかな、 この着ぐるみ女め…………,...I wanna punch this costume chick so bad...
+Yamamoto Akuji (talking),よう、着ぐるみ女。,"`Sup, costume chick."
+Honoo Donko (talking),うにゃー。にゃむにゃー。 ごろごろごろ。 うみゅー。ふにゅー。,Nyaa. Munyaaa. Prrrprrrprrr. Myuuu. Myuu.
+narrator,意味不明の言葉（？）を口にしつつ、 どん子は悪司に抱きついてきた。,Donko clung to Akuji as she made some incomprehensible sounds.
+Yamamoto Akuji (talking),…………………… 何の真似だ。,... The fuck are you doing?
+Honoo Donko (talking),うなー。,Unaaaa.
+Yamamoto Akuji (talking),人間語を喋れ。,Speak Japanese.
+Honoo Donko (talking),じゃあ十秒だけ。 しばらく強化月間にしたんです。,"Only for 10 seconds, then. Donko`s on her strengthening month."
+Yamamoto Akuji (talking),何の強化月間だよ……,The hell is that...?
+Honoo Donko (talking),十秒終わり、人間語も終わり。 ……うなにゃーーーーーーーー。,Time`s up! ...Unanyaaaa.
+Yamamoto Akuji (talking),う、鬱陶しい………… もこもこふわふわ毛皮が……,"This is so irritating... Her soft, fluffy fur is..."
+Honoo Donko (talking),むにゅにゃわ~~~。,Munyamunya...
+Yamamoto Akuji (thinking),"……いや、なんかふわふわしてて 割と気持ちい………………
+ ……いや、よくないよくない。","(Huh, this is so fluffy it actually feels pretty good...
+ ...Wait, stop, stop.)"
+Yamamoto Akuji (talking),……おめー、女だよな、一応。,"...You`re a woman, right?"
+Honoo Donko (talking),うにゃん？ そうですよ、男の子に見えます？,"Nyan? Yes, does Donko look a guy to you?"
+Yamamoto Akuji (talking),見えてたまるか。 おめーみたいなのが男だったら、 俺は同族の恥として速攻で殺してらぁ。,"No, you don`t. If you were one, I`d do humanity a favor and kill you on the spot."
+Honoo Donko (talking),うやー…………物騒、物騒ぅ…… 怖い怖い、怖いぃ…………,"Uhyah, how dangerous... Scaryyyyy..."
+Yamamoto Akuji (talking),"うーん、なんつーか…… 頭の中ガキなんだろうな、こいつ。
+よし、ここはひとつ、 俺がオトナライフの素晴らしさを教えて おめーをオトナにしてやろう。","Hrm... You seem like a little girl in my head.
+ Alright, I`ll give you a taste of the adult life, and make you into an adult."
+Honoo Donko (talking),ほやん？,Hoyan?
+Yamamoto Akuji (talking),ちょっとついてこい。,Come with me.
+Honoo Donko (talking),あ……むにゃん？ 待って待って…………,"Ah... mnyan? Wait, waaait..."
+Yamamoto Akuji (talking),そら、入れ。,"Now, get in."
+Honoo Donko (talking),……ほやん？ ここ、どこ……？,Hoyan? Where are we?
+Yamamoto Akuji (talking),………………,...
+narrator,訳が解らず立ち尽くすどん子の背後に、 悪司はそっと回り込んだ。,"Akuji moved behind Donko, who stood there dumbfounded."
+Yamamoto Akuji (talking),……背中のジッパー発見。 うりゃ。,...There`s your zipper. Time to open up.
+Honoo Donko (talking),……ふにゃあああっ！？ じっ、ジッパー下ろしちゃダメーっ！ 悪い子悪い子悪い子ーーーーっ！！,"Fnyaaaaaaah?!  D-Don`t undo my zipper! You bad, bad boy!"
+Yamamoto Akuji (talking),んだっておめー、 生身見せてくんなきゃ ヤることヤれねぇだろが。,"Look, I can`t do you if I can`t see what you look like inside."
+Honoo Donko (talking),ほ、ほや…………？,N-Nya...?
+Yamamoto Akuji (talking),いいからほれ、出てこい。,"Whatever, get out of that."
+Honoo Donko (talking),"あ、あや、あややや…………
+ ……あ……あぅ…………？
+ああ、あああああああ~……！！！！","A-Ayayaya...
+ ...Ah... auuu...?
+ Aah, aaaaaaah...!"
+cg narrator,"「何だよ、ふざけた着ぐるみ脱がしてみたら 　中身は上玉も上玉、可愛いもんじゃねぇか……」
+呟きつつ、悪司はどん子の下着── 着ぐるみのインナーウェアをずらしていく。
+「や、やだちょ……そんなとこに手入れちゃ…… 　…………っあ！　やはあんっ！ 　わ、悪い子、悪い子っ！　……だめえっ……！」
+「セックスして悪い子って言われんなら、 　オトナはみんな悪い子だな」
+胸のふくらみを揉みしだき、股間の秘裂を撫で、 悪司はどん子の感じる部分を探り当てていく。
+「やっ、やめ……やめてええっ………… 　ふや、あ……ふにゃああああっ…………！」
+どん子は抵抗したかったのだが、 中途半端に脱がされた着ぐるみが自由を奪い、 思うように動けない。
+腰を揺すってみても、背を曲げ伸ばししても、 結局は悪司のなすがままで──
+「や……ああっ…………！？　う、うにゃあっ…… 　はあっ、はあっ……うや……やああんっ……！ 　ひ、うっ…………みゅうぅ…………っ……！」
+どん子の声が上擦って、切なげな吐息が漏れ始める。
+「どうだ、着ぐるみ娘。気持ちいいか？」
+「え…………あ、やあっ………………ふあっ……」
+「ま、訊くまでもねぇけどよ。 　もうココ、洪水になってるしな」
+悪司はどん子の耳元で囁いて、 秘裂で遊ばせている自分の指をわざと絡ませる。
+　　［くちゅ、にちっ……にちゅ……］
+「そら、聞こえてるか？　自分のやらしい音」
+「ふやあ、ふやああああっ……！ 　聞きたく……聞きたくないもんっ……！」
+「悪いことして感じてんなら、お前も悪い子だ」
+「違う……ちがうぅ……っひ！ 　ひゃあああんっ！　あ、みゃあああああっ！」
+だが、いくらどん子が否定してみせても、 肌にはうっすらと汗が浮き、悦楽に痺れた躰は がくがくと頼りなげに震え始めていた。
+（しかしこいつ、ホントにいい躰してんなぁ。 　手も足も腰も細いし、その割に結構胸あるし）
+躰中を撫で回し、背筋に舌を這わせながら、 悪司はふと思う。
+（まあ、着ぐるみの中って 　サウナスーツみてぇなモンだろうからな。 　手も足も細くはなるだろうが……）
+そう思えば思うほど、 どん子がこんな着ぐるみを着ていることが 惜しくなってくる。
+「……徹底的にヤりまくって、 　こんなもん二度と着たくなくしちまおう」
+そして、悪司はズボンのジッパーを下ろす。
+──硬くなった自分のものを、 濡れそぼる秘裂にあてがう。
+「ひにゃ……！？　あ、熱っ………………」
+「俺にはおめーの方が熱く感じるけどな。 　ほれ、入るぞー…………」
+「や……あ、やああああんっ……！ 　どん子そういうのしたことないのにいっ……」
+「処女ってこったろ？　もう解ってるよ。 　愛撫中の腰つき見りゃバレバレだって」
+「だめ、だめええっ、悪い事しちゃやだ……！ 　好きな人じゃないとだめなのにっ……！」
+言いながら、どん子は懸命に腰を揺らせて 悪司の先端から自分の秘裂を逸らそうとする。
+だがそれも、結局は頼りない動きでしかない。 悪司の両腕に腰を捕まえられて、それで終わりだ。
+「そこまで言うなら、俺を好きになりゃいいさ。 　今この時だけでもな」
+「……えっ？　あ…………」
+「素直になれや、感じまくって躰が緩んで、 　おめーのここはずっとヒクヒクしっぱなしだ。 　欲しいって感覚はねぇのか？」
+「あ、う………………うううううっ……」
+「大丈夫だ、俺も心の底から愛してやっから。 　……今だけな」
+そして、悪司は腰を進めていく──
+　　［ず、ずずっ……ぬずっ……！］
+「……っ！　あ……やはあああっ……！！ 　ひやアあああああっ！！　ああっ……！」
+「よーし……根っ子まで入ったぞ。 　おめー、案外奥行きあんなあ」
+「ひう、ううっ……ううううっ…………！！」
+「どうよ、痛いか？　痛くねぇだろ？ 　感じまくって痛さなんかどっかいってるはずだ。 　逆に気持ちよくねぇか？」
+「あ、っ……頭の、中…………いっぱいで…… 　わかん、ない…………わかんないよぉ……！」
+「よーしよし、それでいいんだ。 　そりゃ、動くぞーっと」
+悪司は言って、微妙に角度を変えながら 前後に腰を揺すり始めた
+　　［ずっ、ぬず……ちゅく、じゅぷっ……］
+「ひア……うやあぅ……！ 　うやあ、ふあやああ……うあアんっ……！！ 　あっ、あっ……ア……っう！　ひうぅ……！！」
+「おーおー……いい声、出してんなあ…… 　喘ぎでクチュクチュ音が聞こえねぇぜ……」
+「やだ……やだああっ……！ 　悪い子みたいに言わないでっ……！」
+「だーいじょうぶだ……悪い子なんかじゃねえ。 　おめーはいい子だよ、可愛くていい女だ……！」
+悪司は更に激しく腰を使い始める。
+一度突く度に、どん子の躰が揺れるほど──
+「うああっ！　ひやああああああんっ！！ 　うっ、動いて……やだあああっ！ 　どん子の中で動かないでえっ…………！！」
+「なんでだよ……気持ちいいんだろ…………？」
+「へっ、変なの……変なんだもんっ…………！ 　ああっ、あああっ………！ 　……もう、何が何だか解んないよおっ……！」
+「それでいいんだよ…… 　そら、気前よくイッちまえっ……！！」
+悪司は言って、どん子の秘裂に手を伸ばす。
+胎を突き上げながら、指先で花芯を擦り立てる。
+「ふやああんっ！　やあああんッ！！ 　ひうううううううううっ────────！」","Well now, you`re actually really damn cute when you`re not in that costume.
+ Akuji mumbled as he removed the bottom of Donko`s costume.
+ N-No... you can`t touch that place... ahn! yaaaahn! B-Bad boy! Bad boy! Stooooop...!
+ If you`re calling me bad for having sex, then all adults are bad.
+ Akuji fondled Donko`s breasts as as he caressed her pussy, searching for her weak spots.
+ No, stop... stooooop! fwah, ahn, nyaaaaaaaah!
+ Donko wanted to resist, but her half-removed costume made it hard for her to move as she desired. Even if she shook her hips
+ or bent her back, she was powerless before Akuji.
+ Aaahn?! U-Unyaaah...! haah! haah! yaaahn... yaaaaahn! H-Hiuuuu...!
+ Her voice became shrill, and a hot sigh escaped her lips.
+ How is it, costume girl? Feel good?
+ Huh? aahn, yaaahn... fwaaah!
+ Well, I don`t really gotta ask. You`re drenched down here.
+ Akuji whispered in Donko`s ear as he entangled the fingers he had in her pussy.
+ *Schlk, schlk, chlp*
+ Can you hear it? It`s your own lewd noises.
+ Fwaaah, hyaaaaaaaahn! I... I don`t wanna hear it...!
+ Feeling good from doing something bad? You`re a bad girl too.
+ You`re wrong... this is... hyauh! hyaaaaahn! myaaaaaahn!
+ No matter how much Donko tried to deny it, her body, steeped in pleasure, began to tremble helplessly.
+ (But man, this chick has a nice body. Her limbs are so slender, yet she has nice boobs.)
+ Akuji thought that as he caressed Donko and ran his tongue across her back.
+ (Well, that costume probably works as a sauna suit. No wonder she`s so slender...)
+ The more he thought about it, the more Donko wearing a costume all day seemed like a waste.
+ I`m gonna fuck you so hard, you`ll never want to wear this again.
+ Akuji undid his pants` zipper.
+ He placed his hardened dick on Donko`s wet slit.
+ Hnyaaah?! S-So hot...!
+ You feel hotter to me, though. Here, I`m putting it in...
+ No... ah, yaaaaaaaahn! Donko`s never done this before, too...!
+ You mean you`re a virgin? I could tell from your posture when I was caressing you.
+ Don`t, doooon`t! Donko doesn`t wanna do anything bad! Not with someone she doesn`t love!
+ Donko frantically shook her hips in an attempt to escape from Akuji`s dick.
+ However, it was in vain. Akuji grabbed her hips, putting an end to her struggle.
+ Then you just gotta start loving me, even if only for now.
+ ...Huh?! Ah...
+ Be honest, you`ve been feeling so good that you`re twitching like crazy down here. Can`t you tell that you want to be fucked?
+ Ah, ugh... auuuuu...
+ Don`t worry, I`ll love you from the bottom of my heart. ...Only for now.
+ With that, Akuji thrust his hips forward-
+ *Sllsh, sllllllsh!*
+ ...! ahn, yaaaaaahn! hyaaaaaaahn! aaaaaahn!
+ Alright, it`s all the way in. Your pussy`s surprisingly deep.
+ Hyuuuh, nnnngh... hnnnngh...!
+ What, does it hurt? It doesn`t, right? You were feeling it so much that you should be feeling pleasure, not pain.
+ Ahn! D-Donko`s head is... full of.. Donko... Donko doesn`t knoooow...!
+ There there, that`s fine enough. I`m gonna move, now.
+ Akuji started to move, changing the angle of his hips slightly.
+ Hyahn! uhyaaaaaah!
+ yaaaaahn, fwaaaahn! aaaaahn! ahn! ahn! aaahn! hiuuuuh...!
+ Ooh, nice voice... You`re moaning so much I can`t hear the sound coming from your pussy.
+ No... nooooo...! Don`t talk like Donko is a bad girl...!
+ It`s okay, you`re not a bad girl. You`re a good, cute girl...!
+ Akuji began to thrust his hips more violently.
+ Donko`s body shook with every one of his thrusts.
+ Waaaahn! hyaaaaaaaahn! D-Don`t mooooove! Don`t move inside Donko...!
+ Why not? It feels good, right?
+ It... it feels weird...! aahn, aaaaahn! D-Donko doesn`t understand anything anymore...!
+ That`s fine. Go on, cum as hard as you want!
+ Akuji touched Donko`s pussy with his hand.
+ He kneaded her clit as he thrust into her.
+ Hyaaaahn! yaaaaaaahn! hyuuuuuuuuuh!"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+cg narrator,"──自分の躰に何が起きているのか、 理解が追いつかないまま、どん子は果てる。
+髪を振り乱し、目を見開いて。 着ぐるみの中へ、崩れるように倒れ込む──","Donko passed out, unable to process what had just happened with her body.
+ She flopped inside her costume, with her hair a mess and her eyes wide open."
+Honoo Donko (talking),ふにゃあ……ふやああ………………,Fnyah... fnyaaah...
+Yamamoto Akuji (talking),……おめー、ヤった後すぐに んなもん着るなよ……暑くねぇのか？,...Don`t wear that right after fucking. Isn`t it stuffy?
+Honoo Donko (talking),暑いけど……あんな恥ずかしい事 された後だもん…… 恥ずかしいもん………………,"It is, but... after doing something so embarrassing... I`m too embarrassed..."
+Yamamoto Akuji (talking),"あっそ。
+ ……ところでよ、おめーって ニホン人じゃなかったんだなー。","That so.
+ ...By the way, you didn`t look Japanese to me."
+Honoo Donko (talking),……ふにゃあ…………？,...Funyah...?
+Yamamoto Akuji (talking),"いや、手も足も長いしスタイルいいし、 どうも何か違うと思ってたんだが……
+イっちまう前、その長い前髪の間から おめーの目がちらっと見えたんだよ。","Well, you had a nice, slender body, so it felt different...
+ Then just before you came, I caught a glimpse of your eyes."
+Honoo Donko (talking),ふにぃ……見ちゃったんですかぁ、 どん子の目……,Nya... So you saw Donko`s eyes...
+Yamamoto Akuji (talking),"えらく透き通った青だったな。 ニホンの女じゃ見ねぇ色だ。
+いやー、あんまニホン語上手いから 俺はてっきりニホン人だと……","They were a nice, clear blue color. Japanese don`t have those.
+ Man, your Japanese was so good that I thought you were a native..."
+Honoo Donko (talking),"どん子は……ニホン人ですよー。 生まれも育ちもオオサカでーす。
+ただ、おばあちゃんとおじいちゃんは そうじゃないんだけど。","Donko... is Japanese. Born and raised in Osaka.
+ However. her grandparents weren`t."
+Yamamoto Akuji (talking),はー、なるへそ。,"Ah, now I get it."
+Honoo Donko (talking),子供の頃から友達にいじめられてて、 戦時中は特に、外国の血が入ってるだけで オトナからも白い目で見られて……,"It got Donko bullied as a kid, and adults treated her coldly during the war..."
+Yamamoto Akuji (talking),"まあなあ、戦前から急に ニホンは排他主義になっちまったからな。
+ ……まさかおめー、その前髪って それで伸ばしてんのか？","Makes sense, Japan quickly became an exclusivist country
+ before the war. ...Is that why you grew your bangs?"
+Honoo Donko (talking),"ぴんぽーん、大正解！
+えへへ、昔は前髪だけで、 着ぐるみも着てなかったんですよぅ。 なつかしいなー。","Dingdingding! Correct!
+ Ehehe, Donko used to only have her bangs, with no costume. That takes her back..."
+Yamamoto Akuji (talking),まさかおめー、そんなカッコしてんの 手足全部隠すためだったのか……？,"Wait, so you wear that to hide your limbs, too...?"
+Honoo Donko (talking),"はーい、最初はそうでしたー。
+前髪で目を隠してみても、結局、 一度ついたガイジンってレッテルは なかなか剥がせなくて。
+でも、外国産のネコとかイヌは 近所で結構可愛がられてて。
+じゃあいっそ、人間じゃないところまで どん子もいっちゃえーって思って、 ネコミミつけたり、変な服着てみたり。","Yes it was like that at first.
+ Donko may have hidden her eyes, but the foreigner label wouldn`t go away so easily.
+ But those foreign mascots were quite loved in the neighborhood.
+ So Donko thought, maybe she should stop trying to look human, and started wearing weird clothes."
+Yamamoto Akuji (talking),涙ぐましいねえ…… 人に歴史ありってヤツだな。,Man that`s sad... Guess every person has their baggage.
+Honoo Donko (talking),"でも、戦争始まったら、 防空壕や疎開先で子供がいっぱい どん子の周りに集まってきて。
+オトナの人たちも、 どん子が居ると場が和むからって 可愛がってくれたりしたんですよぉ。
+そのうち着ぐるみ作ったりして、 やってるうちに楽しくなってきて……
+今じゃもう、 すっかりクセになっちゃって。 えへへへへへへへへ。","But once the war started, kids started to gather around Donko in the shelters.
+ The adults started to like her, too, since she brightened the mood around her.
+ Before long she started making costumes, and it got fun...
+ And now, it`s become second nature to Donko. Ehehehehehe."
+Yamamoto Akuji (talking),クセって何だ、クセって。,Second nature?
+Honoo Donko (talking),"でもねー、どん子、子供はいっぱい 可愛がるけど、可愛がられた事は あんまりないんですよぉ。
+だから、悪司しゃん、すきー。
+すごーくエッチで嫌だったけど、 いっぱいなでなでしてくれて 気持ちよかったもーん。えへへ……","However, while Donko loves kids a lot, she`s never been loved by them much. So Donko wuvs you, Akuji-syan.
+ That was really lewd and Donko
+ Donko didn`t like it, but it felt good how much you patted her. Ehehe..."
+Yamamoto Akuji (talking),………………あっそ。,......That so.
+Honoo Donko (talking),悪司しゃーん、 なでなでしてー、なでなでー。,"Akuji-syan, pat Donko, pat heeeer."
+Yamamoto Akuji (talking),また今度な。,Maybe later.
+Yamamoto Akuji (talking),おめー、なんか欲しいもんとかあるか？,Is there anything ya want?
+Honoo Donko (talking),…………ふにゃん？,...Fnyan?
+Yamamoto Akuji (talking),"欲しいもんやるから、 俺の部下になんねぇか？
+おめー、そこそこ戦えたしな。 結構戦力になりそうだからよ。","If I give ya what you want, will ya work for me?
+ You weren`t half bad in that fight. You should be good to have."
+Honoo Donko (talking),えーとえーと、じゃあ毛布！ 白くて大きいの！ 十メートルくらいのロールで！,"Uuum, then Donko wants a blanket! A big, white one! Make it 10 meters long!"
+Yamamoto Akuji (talking),……何に使うんだそんなもん。,...What`re ya gonna use that for?
+Honoo Donko (talking),"えっとね、あとウレタンいっぱい！ あ、発泡スチロールのブロックも！
+それからミシンと裁縫道具、 カッターに彫刻刀！　あとジッパー！ 布用のペンキや接着剤とかも！","Oh, and lotsa urethane foam! And a block of styrene!
+ Donko also wants a sewing machine and a chisel! And zippers! And cloth glue and paint!"
+Yamamoto Akuji (talking),"……まだ着ぐるみ作る気か、おめー……
+まあいい、次までに用意してやろう。","...You`re gonna make more costumes?
+ Meh, I`ll get `em ready by next time."
+Yamamoto Akuji (talking),……ほれ、用意してやったぞ。,"...Here, I got all you wanted."
+narrator,悪司は、どん子の目の前に 毛布とウレタンと（中略）を積み上げた。,Akuji placed all of the things Donko`d requested in front of her.
+Honoo Donko (talking),わぁ…… 本当に貰えるとは思わなかったなー。,Waaah... Donko never expected you to deliver...
+Yamamoto Akuji (talking),で、どうだ。 俺の下で働いてくれんのか？,So? You gonna work for me now?
+Honoo Donko (talking),"もっちろん！ ここまでしてもらったら恩返ししなきゃ！
+どん子は、 悪司しゃんの部下になりまーす！ ふにゃ~~~~~~っ。","Of course! Donko has to repay you for all this stuff!
+ Donko will work for you, Akuji-syan! Fnyaaaaaaah!"
+Yamamoto Akuji (talking),…………くっつくな、暑いから。,"Don`t cling to me, it`s stuffy."
+Yamamoto Akuji (thinking),前んとき、結構反応良かったからな。 もう一発くれぇヤりゃあ…………,It was looking good last time. One more shot should do it...
+Yamamoto Akuji (talking),……ん？,...Hm?
+Honoo Donko (talking),んなー、むにぃ、ふにい~~~。,"Nnnnaaa, munyu, muniiii."
+Yamamoto Akuji (talking),……………………,...
+Honoo Donko (talking),うにゅにゃむにゃ~。,Unyunyunyu...
+Yamamoto Akuji (talking),……こら。 何で俺にくっついてくんだよ、おめー。,"...Hey, why are you clinging to me?"
+Honoo Donko (talking),ふにゅう、すりすりすり……,"Funyuuu, rubrubrubrub..."
+Yamamoto Akuji (talking),真っ赤になったほっぺを擦り付けるな。 着ぐるみの足を絡ませるな。,Don`t rub your cheeks on me. Don`t cross your legs with mine.
+Honoo Donko (talking),だってだって…… ……悪司しゃん、すきー。,"Buuuut... Donko wuvs you, Akuji-shan."
+Yamamoto Akuji (talking),………………,...
+Honoo Donko (talking),あのー、好きな人います？,"Um, is there someone you like?"
+Yamamoto Akuji (talking),お前じゃない事だけは確実だ。,It sure as hell ain`t you.
+Honoo Donko (talking),じゃあ、恋人二号で！,Then Donko`ll be girlfriend no.2!
+Yamamoto Akuji (talking),お前なんぞ恋人百二十八号だ。,I`d knock you down to 128th.
+Honoo Donko (talking),それでもおっけーでーす！,That`s fine by meeee!
+Yamamoto Akuji (talking),そうか。 なら俺のために働くか？,Really. Then will you work for me?
+Honoo Donko (talking),……ふに？,...Funi?
+Yamamoto Akuji (talking),地域管理組合の仕事を手伝え。 そしたら褒美として可愛がってやる。 どうだ？,"Help me with RMG work. If you do, I`ll give you some loving. How about it?"
+Honoo Donko (talking),あ…………はいはいはいはいはーい！ どん子は悪司しゃんのために働きま~す！,Ah... yesyesyesyes! Donko will work for Akuji-shan!
+Yamamoto Akuji (talking),……………… 解ったから、掌の肉球を押しつけるな……,... Then take your paws offa me.
+Yamamoto Akuji (thinking),"こんなの娼婦にして売れんのか……？
+まあ、物好きはいるもんだしな。 タマネギに押しつけちまえ。","Will she even get clients...?
+ Well, the world`s fulla freaks. I`ll force her onto Tamanegi."
+Honoo Donko (talking),……ふにゃん？,...Fnyan?
+Yamamoto Akuji (talking),密子さーん、 タマネギに連絡つけといてくれ。,"Mitsuko-san, go call Tamanegi for me."
+Hikage Mitsuko (talking),…………はい… それでは、すぐに……,Okay... I`ll be right back...
+Honoo Donko (talking),た、たまねぎ……？　ほやん？？？,T-Tamanegi? Hoyan?
+Yamamoto Akuji (talking),まあ気にすんな。 こっちの事よ。,"Don`t worry about it, this is between my group."
+Yamamoto Akuji (talking),"………………そうか、そうだぜ。 何で今まで気付かなかったんだ？
+こいつをマスコットキャラにしちまえば 大人気確実、子供客倍増間違いナシ。
+ ……イケる、こりゃ絶対イケるぜ。","...That`s right. How could I not have realized this sooner?
+ She`d be hella popular with the kids as a mascot character.
+ ...Yeah, this`ll work for sure."
+Honoo Donko (talking),………………？　ほやん？,...? Hoyan?
+Yamamoto Akuji (talking),よう、着ぐるみ女。 ハンバーガー屋で働く気はねぇか？,"Hey costume chick, do ya wanna work at my burger joint?"
+Honoo Donko (talking),……はんばーがーやさん……,Burger... joint?
+Yamamoto Akuji (talking),"今のおめーはどのみち捕虜だ、 生かすも殺すも俺の胸三寸。 ヤだっつっても働いてもらうが……
+まあ、客商売がマジで苦手なら ちと考えにゃならんけどよ。","You`re my prisoner, so I get to decide whether you live or die. I`ll make you work regardless, but...
+ If ya don`t like doing customer service, you can refuse."
+Honoo Donko (talking),あ、はいはいはい！ どん子、お客さん相手のお仕事、大好き！,"Oh, yes yes yes! Donko loves working with customers!"
+Yamamoto Akuji (talking),"よっしゃ。 何となくそうだろうと思ってたぜ。
+ ……密子さーん、 小春さんに連絡つけといてくれ。","Nice. I had a feeling this would work.
+ ...Mitsuko-san, go call Koharu-san."
+Hikage Mitsuko (talking),…………はい… それでは、すぐに……,Okay... I`ll be back right away...
+Yamamoto Akuji (talking),よーし、小春さんが来るまでに この契約書へビシッとサインしとけよー。,"Alright, let`s have you sign your contract while we wait for her."
+Honoo Donko (talking),"はーい♪
+ ………………あ。 ど、どん子、この手じゃ鉛筆持てない……","Okaaaay! ♪
+ ...Oh. D-Donko can`t hold a pen with these hands..."
+Yamamoto Akuji (talking),契約書を書く時くらい着ぐるみ脱げよ……,"Take it off to sign it, at least..."
+Yamamoto Akuji (talking),"ふ~、昼飯も食ったし、 ちょいと昼寝でもしとくか……
+ ……ん？
+誰だ、裏の戸を 開けっ放しにしてるヤツは……","Phew, guess I`ll take a post-lunch nap...
+ ...Hm?
+ Who the hell left the backdoor wide open?"
+narrator,そうして、悪司が事務所の裏手に出ると──,When Akuji went to the back of the office-
+Honoo Donko (talking),"…………すやすやぴー…… ……すやすやぴー…………
+ ……むにゃむにゃ…………","...Zzzz... Zzzzzz...
+ ...Mlem mlem..."
+Yamamoto Akuji (talking),むにゃむにゃじゃねぇだろ、こら。,"Hey, wake up."
+Honoo Donko (talking),うにゃ…………？ あー…………悪司しゃ~ん……,"Unya...? Ah, Akuji-syaaaan..."
+Yamamoto Akuji (talking),何をシエスタぶっこいてんだよ。 仕事はどうしたんだ。,What`re taking a siesta for? You slacking off?
+Honoo Donko (talking),今はね~……休み時間中でぃす…………,Donko`s on break right now...
+Yamamoto Akuji (talking),"……そうか。 ならまあいいんだけどな。
+つーかよ、お前暑くねぇのか？ いくら太陽出てないからって、 そのカッコで寝てたらムレねぇか？","...Really. Guess it`s okay then.
+ Hey, isn`t it stuffy in that costume? Cloudy or not, must be bad to sleep in it."
+Honoo Donko (talking),"ぽかぽかしてて…… 気持ちいいですよぉ…………
+ …………ぐ~………………","It`s really nice and warm...
+ ...Yaaawn..."
+Yamamoto Akuji (talking),…………まあ、ほっとくか……,...Guess I`ll leave her be.
+narrator,──しばらくして。,Some time later.
+Yamamoto Akuji (talking),"ちっ……寝ながら推理小説なんか 読むもんじゃねえな、 すっかり目ぇ醒めちまった……
+まあいい、 事務所の椅子で茶でも啜りながら 真犯人が解るとこまで……
+ ……ん？
+どん子のヤツ、また裏の戸を 開けっ放しにしてやがんのか……？","Tch, reading that mystery novel before napping was a bad idea. I`m wide awake now.
+ Whatever, I`ll just drink some tea and read until the culprit  gets revealed...
+ ...Hm?
+ Did Donko not close the backdoor yet...?"
+narrator,そうして、悪司が事務所の裏手に出ると──,When Akuji went to the back of the office-
+Honoo Donko (talking),…………すやすやぴー…… ……すやすやぴー…………,...Zzzz... Zzzzzz...
+shoujo (talking),……むにゃむにゃ…………,...Mlem mlem...
+Yamamoto Akuji (talking),"……どこのガキだ、こいつは。 どん子のファンってヤツか？
+えらい幸せそうにどん子の毛皮を 握りしめてやがるが……","...Who the hell`s this kid? Donko`s fan?
+ She`s clinging to her fur like it`s the best thing ever..."
+Honoo Donko (talking),あ~……悪司しゃん、しーっ…… この子、起きちゃう……,"Ah... Akuji-syan, shh! You`ll wake her up..."
+Yamamoto Akuji (talking),おめーなあ…… 事務所にパンピーのガキ入れんなよ……,"Look here, you... Don`t bring some kid to the office."
+Honoo Donko (talking),ごめんして…… どん子が責任持つから……,Sorry... Donko will take responsibility for her...
+Yamamoto Akuji (talking),………まあいいけどな、 ガキの一匹や二匹くらい。,"...Eh, whatever, I can overlook a kid or two."
+narrator,──数十分後。,Dozens of minutes later.
+Yamamoto Akuji (talking),"ちっ……根性入れて読むほど オモロイ小説じゃなかったな。 損した気分だぜ……
+ ………………
+ ……どん子はまだ寝てんのかね。","Tch, that novel wasn`t worth it. This really sucks...
+ ...
+ ...Donko`s still sleeping, huh."
+narrator,そうして、悪司が事務所の裏手に出ると──,When Akuji went to the back of the office-
+shoujo (talking),……むにゃむにゃ…………,...Mlem mlem...
+norakoogii (talking),わぅ…………ぐぅ…………,Woof... zzz...
+Yamamoto Akuji (talking),……なんだこりゃ。,...What the hell.
+Honoo Donko (talking),ああ、悪司しゃん…… みんな寝てるから、静かに、静かにー。,"Ah, Akuji-syan... Please be quiet,"
+Yamamoto Akuji (talking),静かにって、お前…… 何でガキが十人以上に増えてんだよ。 犬や猫まで混じってるし……,"they`re sleeping. Why are there dozens of kids here now? There are even cats and dogs, too."
+Honoo Donko (talking),"ふみー、どん子が寝てる間に 裏の柵越えて入ってきたみたいで……
+みーんな、どん子にもたれてるから 重くて寝られなくなっちゃった…… えへへへへ…………","Hmm, seems they climbed the fence while Donko was sleeping...
+ But with everyone`s weight on her, Donko couldn`t sleep at all... Eheheh..."
+Yamamoto Akuji (talking),えへへじゃねぇだろ、おい…… しんどいんじゃねぇのか？,Don`t eheheh me. Isn`t it rough on you?
+Honoo Donko (talking),ウレタンとか発泡スチロールが 重さをほとんど支えてくれてるから 大丈夫ですよ~。,"The polyurethane and styrofoam support most of the weight, so Donko`s fine!"
+Yamamoto Akuji (talking),"それにしたってなあ……
+何なら、こいつら追い返すの 手伝ってやろうか？","Even so..
+ Anyway, want me to help you chase them away?"
+Honoo Donko (talking),あー、だめだめ…… せっかくみんな寝てるのにぃ……,"Oh, you can`t... They`re all asleep, too..."
+shoujo (talking),………………ぐす………… ママ……ママぁ…………,...Sniff... Mommy...
+Honoo Donko (talking),あ……大丈夫、大丈夫。 ねんね、ねんねして…………,"Oh... There, there... Sleep well..."
+shoujo (talking),…………ぐす……ん………… ママ、帰ってきて…………ママ……,"...Sniff... mmn... Come back, Mommy..."
+Honoo Donko (talking),"大丈夫、きっと帰ってくるからねー…… ママ、きっと帰ってくるよー……
+それまでどん子が側に居るからね…… 寂しくないよー、怖くないよー……","Don`t worry, Mommy will surely come back...
+ Donko will be with you until then, so don`t be afraid..."
+Yamamoto Akuji (talking),……何だそいつ、戦災孤児か？,...Is she a war orphan?
+Honoo Donko (talking),うにゃ……？ 聞いた事ないけど……多分。,Unya...? I don`t know... but probably.
+Yamamoto Akuji (talking),"………………えらいまた、 着ぐるみに顔埋めてんなあ…… 泣きべそかきながら……
+ ………………
+おめーみたいなヤツでも、 誰かの役には立ってたんだなー……","...She looks like she`s about to cry with her face buried in your costume...
+ ...
+ Even someone like you can be useful to someone, huh."
+Honoo Donko (talking),ほやん……？,Hoyan...?
+Yamamoto Akuji (talking),"まあ頑張れ、俺には何も出来ねぇけど。 せめてそっとしといてやろう。
+んじゃな。","Well, keep at it. I can`t do anything but leave you be.
+ See ya."
+Honoo Donko (talking),はーい、どうもで~す。,"Okaaay, thank yoooou."
+Honoo Donko (talking),"ずんどんばんばん♪　ほえほえ~♪ ずんどんばんばん♪　ほえほえ~♪ しゅみむにゃ~~~~……
+ ……おいっす、タマネギしゃん！ 今日もよくハゲてるですね！","Bum-bum-bang-bang!♪　Fweefwee!♪ Bum-bum-bang-bang!♪　Fweefwee!♪ Shumyaaaah~!
+ Whassup, Tamanegi-syan! You`re as bald as always today!"
+Tamanegi (talking),おやおや……どん子さん。 今日もご機嫌ですね？,"My my, Donko-san. You seem to be in a good mood today?"
+Honoo Donko (talking),"カラ元気で~~~~~す！
+ …………実はどん子、 最近の調教で結構へろへろ…… むにゅう……","Donko`s super livelyyyyyy!
+ ...Actually, Donko has been feeling exhausted from the training lately... munyuuuh."
+Tamanegi (talking),安心なさい。 今日の調教で合格点がつけば、 数日間のお休みを差し上げましょう。,"Don`t worry. If you get a passing grade in today`s session, I`ll let you rest for a few days."
+Honoo Donko (talking),……ほへん？,...Hoeh?
+Tamanegi (talking),"あなたは、ここへ来た当初こそ 躰を開くことを悪だと思い込んで 拒絶していましたが……
+今では、見知らぬ男性に 持ち前の明るさで甘えることも できるようになりました。
+娼婦として、あと一息です。 もう少しであなたはプロになれます。","When you first got here, you hated opening up your body and tried to reject it, but...
+ Now, you can use your natural cheerfulness to please even men you do not know.
+ You`re close to becoming a professional prostitute."
+Honoo Donko (talking),うにゃん~…… 哀しいような、嬉しいような……,Unyan... Donko doesn`t know whether to be happy or sad...
+Tamanegi (talking),お喜びなさい。素直に。,Rejoice. Truly.
+Honoo Donko (talking),……はーい。 その方がココロ楽ちんだし♪,"..Okaaaay. That`s easier on Donko`s mental, anyway. ♪"
+Tamanegi (talking),"そうそう、その気持ちを忘れずに。
+あなたの心は柔軟で、とても強い。 良い娼婦になれますよ……
+……では、今日の調教を始めましょうか。","Good, don`t forget that.
+ Your heart is soft, yet strong. You`ll become a fine prostitute.
+ Now, let us begin today`s training."
+Honoo Donko (talking),おいっす！,Alrighty!
+cg narrator,"「ふ、や…………！　ふにゃあああああっ！！ 　さ、裂けちゃうよぉ……！ 　どん子裂けちゃうぅ………………！！！」
+タマネギの雇った調教補助の男が入り込むと、 どん子はたまらず悲鳴を上げる。
+「こ、こわれ……壊れちゃうよおおっ……！ 　どん子、どん子…………壊れちゃうっ……！」
+その声は、聞く物に寒気すら感じさせた。
+「おいおい……大丈夫かよ、 　まだ入っただけなんだぜ？」
+男は不安げに言い、背後を振り返る。 そこには、この調教を見守るタマネギが居た。
+「……安心なさい、大丈夫。 　その猫は、そのための躾を施してきたのです」
+タマネギは、この調教が始まってから、 どん子を名前でなく“猫”と呼び続けていた。
+今回の調教方針は、タマネギが用意した衣装 ──猫の耳、手、そして尾を模した飾りにも、 如実に現れている。
+つまり、どん子を人間扱いしないと言うこと。
+「そ、そりゃ……泣き叫ぼうがどうしようが、 　一切気にするなって聞いちゃいるが……」
+──男が不安になるのも、無理はなかった。
+男の肉茎は、どん子の手首ほどの太さがあった。
+どん子は、これまでの調教によって、 充分に悦楽を感じ、濡れ尽くす躰を得ていたが、 男の肉茎の太さを考えれば、そんな事は関係ない。
+「……とにかく、あなたは何も気に病まず、 　その猫を思う存分犯せばいいのです」
+「そりゃ、こちとら愚息のデカさのせいで 　まともに女と遊べず往生してたからなあ、 　好き勝手やりてぇのはやまやまなんだが……」
+「なら、そうなさい。 　こちらは、その逸物の大きさを見込んで 　あなたを雇っているのですから」
+「……しかしよ…………」
+呟いて、男はどん子の顔を見る。
+「ひ、ぐ…………ああっ、うあああっ………… 　い、た……痛いよお……ううっ…………」
+どん子は額に脂汗を浮かべて、 あまりの辛さに涙していた。
+いくら男が女に飢えていたからと言っても、 今のどん子の顔に罪悪感を覚えない筈がない。
+──が。
+「クソッタレ……仔猫ちゃんよ、悪く思うなよ。 　こっちも金貰ってる以上、 　ヤんない訳にゃいかねえからさ…………」
+そして、男は腰を使い始める。 ──しかも、かなり激しく。
+「ひ……ひぐあ………………！！！ 　やあっ、やはあああっ！　ふやあああんっ！」
+どん子の悲鳴が、更に大きくなる。 涙がとめどなく溢れ続ける。
+　　［ぎ、ぎしっ……ぎぢっ…………］
+秘裂が軋み、骨盤が歪む。 その際に発する嫌な音が躰を伝い、 どん子の耳奥に響いてくる。
+もちろん、それはある種の錯覚なのだろうが、 どん子がそれほどの苦痛を感じているのは 事実だった。
+「あ、や……もう、もうやめ…………」
+「──やめませんよ」
+思わずどん子が口にしかけた言葉の先を読んで、 タマネギが釘を刺す。
+「調教に入る前、あなたに説明したはずです。 　あなたは娼館の可愛いペットになって頂く…… 　そう、誰からも愛される素敵なペットにね」
+そう言うタマネギの顔に、表情はない。 声にも、一切の抑揚がない。
+「人に懐かず、背を向けるようなペットに 　存在価値などありません…… 　黙ってこの苦痛を受け入れなさい」
+──すでにタマネギは、 どん子を人間扱いしていなかった。 そう思える台詞だった。
+「ひう…………ぅ…………うああ………… 　うああ、や…………うやあ…………！」
+どん子は絶望しながらも、 男の行為をひたすら受け止め続ける。
+「あ、う…………あうううっ…………！！」
+苦痛だった。 本当に、ただそれだけだった。
+だが、辛いが故に──
+どん子は、自分を苛む男に媚びを売り始める。
+「う、や……やあ………… 　お……おにいしゃんっ…………」
+「……おう………… 　やっぱ、辛いよな……大丈夫か？」
+「だ、大丈夫じゃ……ないけど………… 　も、もう少し、やさしくして…………」
+どん子の潤んだ目が、男を見上げる。
+「……どん子、我慢するから………… 　…………や、やさしく……して…………」
+──その声が、目が、男の憐憫を誘う。
+「……ああ、優しくするとも…… 　なるべく早く終わらせるからな…………」
+「…………うや…………ありがとお…… 　おにいしゃん……やさしい…………すき……」
+そして男は、我慢することを一切やめて、 純粋に射精するためだけに腰をつかい始める。
+「ふ、ふや……ふやああああっ…………！ 　やあ、ふやああ……ふやあああああっ……！！」","「Fnyaaaaah! fnyaaaaaaaahn! 　D-Donko`s being 　torn apaaaaart...!」
+ When Tamanegi`s hired assitant slid inside Donko, she could not help but scream.
+ 「Donko... Donko`s gonna 　break...!」
+ Her voice could give anyone chills.
+ 「Hey now, is she alright? 　I only put it in.」
+ The man spoke anxiously as he looked behind. Tamanegi was there, watching over the training.
+ 「...Do not worry, she`s fine. We have 　disciplined this kitten to be like that.」
+ Ever since the training had started, Tamanegi referred to Donko as “kitten”.
+ The principle behind this particular session was to use the costume Tamanegi had prepared-- cat ears, paws, and even a tail.
+ So Donko wouldn`t be treated as a human.
+ 「I-I mean... ya did tell me not to care 　if she cried and screamed, but...」
+ The man was understandably nervous.
+ His member was as big as Donko`s wrist.
+ Thanks to her training so far, Donko felt pleasure and was sufficiently wet, but that was irrelevant when considering the man`s size.
+ 「...Either way, you are to not pay her any 　mind and violate her to your heart`s content.」
+ 「Well, it always drove me mad how I couldn`t 　fuck women because of how big I am, so I DO 　wanna do whatever I want to her...」
+ 「Then do that. 　I have employed precisely because 　of your size.」
+ 「...But still...」
+ He murmured as he looked at Donko`s face.
+ 「Hnnngh... aahn, aaauuuuuh! 　I-It huuuurts...!」
+ Donko`s forehead was slick with cold sweat, and the excessive pain made her cry.
+ However thirsty for women he may have been, the man could not help but feel guilty.
+ --However.
+ 「Fuck it... Sorry, little kitty, 　but since I`m gettin` paid, 　I have to do this...」
+ With that, the man began to thrust. And quite fiercely, at that.
+ 「Hnnnghaaaaahn! 　Nooo, NOOOOOOOO! yaaaaahn!」
+ Donko`s screams grew louder. Her tears flowed endlessly.
+ 　　*gshhh* *schk*
+ Her pussy squeaked, and her pelvis contorted. That unpleasant sound ran through her body and reached Donko`s ears.
+ Of course, that was merely a sort of hallucination, but Donko`s pain was very much real.
+ 「Ahn, no... please-」
+ 「He won`t stop.」
+ Tamanegi warned Donko, having predicted what Donko was about to say
+ 「I believe I explained it all before we began. 　You`ll become the brothel`s cute pet... 　A wonderful pet that`s loved by everyone.」
+ Tamanegi was expressionless. His voice, completely monotonous.
+ 「A pet that does not long for people and 　ignores them is worthless. 　Be quiet and accept this pain.」
+ Tamanegi no longer treated Donko like a human being, if one were to infer from what he said.
+ 「Hyuuuh... ngh... aaaaahn... 　aaahn, yaaaaaaaahn!」
+ Donko despaired, but still single-mindedly accepted what the man did to her.
+ 「Ahn... auuuuuuuuuh!!」
+ It hurt. It really, truly, only hurt.
+ However, due to the pain--
+ Donko began to entice the man tormenting her.
+ 「Hngh, yaaahn... 　O-Onii-syan...」
+ 「Hey... it hurts, doesn`t it? 　...Are you alright?」
+ 「N-No, but... 　B-Be a little more gentle...」
+ Donko looked at the man with moist eyes.
+ 「Donko will endure it, so... 　B-Be gentle...」
+ Her voice and eyes earned her the man`s pity.
+ 「...Yeah, I`ll be gentle... But I`ll try 　to get this over with as fast as possible.」
+ 「Uyahn... thanks... you`re so kind, 　onii-syan... Donko wuvs you...」
+ With that, the man stopped holding back and began thrusting with the intent to cum.
+ 「FUYAAAAAAAAAHN! 　Yaaahn, aahn, YAAAAAAAAAAHN!!!」"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+cg narrator,"「…………上出来です…… 　あなたは本能的に、人へ媚びることを 　知っているのですね……そう、演技でなく……」
+タマネギがほくそ笑む。 ──知りたかったのは、その一点のみだったから。
+ 「仔猫を抱くように……ですか。 　実に面白い素材でしたよ。 　ふふ、売りに出す日が楽しみだ……」","「Good work... You instinctively know 　how to entice people. 　Yes, it is not even an act.」
+ Tamanegi smirked. That one thing was all he had wanted to know.
+ 「Being able to lay with a kitten... 　That was truly interesting. Fufu, I can`t 　wait for when she starts working...」"
+??,　調教シーン,　調教シーン
+Honoo Donko (talking),"けんかしちゃだめーーーー！ ちっちゃい子が見て マネするでしょお？！
+まったくもーーーーーっ！ 悪いオトナはどん子がおしおきーーっ！ ふやー！　がうー！！　うがにゃー！！","Don`t fight! You`ll make little kids imitate you!
+ Geeeez! Donko will punish all bad adults! Hyah! Rawr! Uaaaaaah!"
+Tamanegi (talking),えーと……とにかく けんかしちゃだめーーーっ！ どん子がおしおきーーーーーっ！！,"Uuum... anyway, fighting is baaaaad! Donko`s gonna punish you!"
+Honoo Donko (talking),ふやんふやんぽん☆ ぽやんぽやんふやん☆,Fuyanfuyanpon! Poyanpoyanfuyan!
+shoujo (talking),……あっ、どん子ちゃーん！,"...Ah, Donko-chan!"
+Honoo Donko (talking),おいっす、るみしゃん！ どうかした~？,"`Sup, Rumi-chan! Did something happen?"
+shounen (talking),向こうでドロケーやんだけどさ、 人数足んないんだよ。 どん子ねーちゃんヒマじゃない？,"We`re playing hide-and-seek, but don`t have enough people. Are you free, Donko-nee-chan?"
+Honoo Donko (talking),"ほややや、まさみくんも一緒か~。
+ほい！　どん子ねえちゃんが 君たちのドロケーを 楽しく愉快にしてあげやう♪","Oh my, Masami-kun`s with you!
+ Here! Donko-chan will make your hide-and-seek game a lot more fun!"
+shoujo (talking),わーいっ！ 早く行こう行こう~！,"Yaaay! Let`s go, let`s go!"
+narrator,今日もどん子は子供たちと戯れて、 街の人々を和ませていた。,"Donko played with the kids today as well, brightening up the town."

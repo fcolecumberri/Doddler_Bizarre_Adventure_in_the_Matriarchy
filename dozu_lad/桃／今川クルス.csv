@@ -1,0 +1,200 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{RND = 1:,{RND = 1:
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{RND = 0:,{RND = 0:
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+__system__??,{麦 = 17:,{麦 = 17:
+__system__??,{H拷問抵抗 < H拷問:,{H拷問抵抗 < H拷問:
+__system__??,},}
+__system__??,{H拷問 = 1:,{H拷問 = 1:
+__system__??,},}
+__system__??,},}
+Imagawa Kurusu (talking),お呼びになりましたか？,Did you call for me?
+Yamamoto Akuji (talking),"おー、呼んだ呼んだ。
+しかしなんだな。 ご主人様がきちんとしてると犬も きちんと挨拶するモンだな。","Sure did.
+ But I`m impressed. Guess that when the master is proper, their lapdog is proper as well."
+Imagawa Kurusu (talking),そう躾られてきましたから。,It`s how I was trained to be.
+narrator,悪司は爪の手入れをしている。,Akuji was clipping his nails.
+Imagawa Kurusu (talking),お呼びになりましたか？,Did you call for me?
+Yamamoto Akuji (talking),"あーまーな。
+ ……………","Guess I did.
+ ..."
+Imagawa Kurusu (talking),何か？,Yes?
+Yamamoto Akuji (talking),俺、こーいう勘、当たるんだけどよぉ。 お前さん、キリカに惚れてんのかい？,"This is a feeling I`m getting. You into Kirika, kid?"
+Imagawa Kurusu (talking),慕っていますけど。,I idolize her.
+Yamamoto Akuji (talking),…………,...
+Imagawa Kurusu (talking),何か？,Yes?
+Yamamoto Akuji (talking),くえねーボーヤだ。 本心は見せないってか。,"Crafty little... So you won`t say how you really feel, eh?"
+Imagawa Kurusu (talking),よく言われます。,I get that a lot.
+Yamamoto Akuji (talking),遅かったな。,He sure is late.
+Imagawa Kurusu (talking),"すみません。 少し、街の方に出ていたものですから…
+ ………あの…","My apologies, I was out of town for a bit...
+ ...Um..."
+Yamamoto Akuji (talking),ん？,Hm?
+Imagawa Kurusu (talking),……いえ…なんでもありません。,"...No, it`s nothing."
+Yamamoto Akuji (talking),"あんたらにこんなモン、 必要ねーかもしんねーけど…
+まあ、気持ちだ。 受け取っとくれ。","Ya might not need it, but...
+ Accept the thought, will ya? Here."
+Imagawa Kurusu (talking),お金ですか。 ありがとうございます。 気持ちと共に受け取らせて頂きます。,"You`re giving me money? Thank you, I shall accept it along with your thoughts."
+Yamamoto Akuji (talking),何に使うんだい？,What will you spend it on?
+Imagawa Kurusu (talking),何かの時の為に貯金させてもらいます。,I`ll save it for an emergency.
+Yamamoto Akuji (talking),年相応の買い物は、今のうちに 楽しんどかなきゃいけねーぞ。,"You should enjoy life while you still can, kid."
+Yamamoto Akuji (talking),おう、あんたがＰＭの若き戦士か。,You the PM`s young fighter?
+Imagawa Kurusu (talking),こんばんはと言っても支障のない 時間ですよね。,I believe “good evening” would be the most appropriate greeting.
+Yamamoto Akuji (talking),ああ。 太陽の光のないとこにいても、時間を把握 してるのは、さすがってとこか？,Huh. So you can tell what time it is even though this place gets no sunlight?
+Imagawa Kurusu (talking),そんな事ありません。,Not at all.
+Imagawa Kurusu (talking),どうも。,Hello.
+Yamamoto Akuji (talking),おう。,Yo。
+Yamamoto Akuji (talking),おう。,Yo.
+Imagawa Kurusu (talking),こんばんは。 今日はどうしましたか？,Good evening. What brings you here today?
+Yamamoto Akuji (talking),おう、入ってこいや。,"Okay, come on in."
+Imagawa Kurusu (talking),？,?
+Imagawa Kurusu (talking),え………,What...?
+Hasekura Kirika (talking),ごきげんよう、クルス。,"Good evening, Kurusu."
+Imagawa Kurusu (talking),キリカ様！？ どうして、悪司さんの方に……,Kirika-sama?! Why are you with Akuji-
+Hasekura Kirika (talking),わたくし、この方の部下になりましたの。,I am now working for him.
+Imagawa Kurusu (talking),えっ……,What?!
+Hasekura Kirika (talking),"わたくしが、ＰＭの――
+支倉の家にいる事によって、アエン姉様が 継承者としての自覚を持って下さらないの でしたら……
+どこにいても同じだと思いまして。","Because I was at the PM-
+ -No, at the Hasekura household, Aen-onee-sama would not behave as a successor should...
+ Anywhere else would be the same."
+Imagawa Kurusu (talking),だからといって、抗争中の組に……,"But still, to join the enemy-"
+Hasekura Kirika (talking),"わたくしはね、クルス。 強い方が好き。 悪司さんは、わかりやすい程、お強いわ。
+それが、わたくしがここにいる理由。 そして彼が、わたくしに戦いの場を 与えてくれると約束したから。
+わたくしは継承者ではないけど、戦う者。 戦う者は、戦いの場でしか生きる事が 出来ないから。
+だから、わたくしが生きていられる 場所にいるだけですわ。","You see, Kurusu, I like strong people. And Akuji-san is very obviously strong.
+ That is why I am here. Furthermore, he promised to let me fight.
+ I may not be a successor, but I am a warrior, and warriors cannot live without a battlefield.
+ As such, I am merely staying at a place in which I can be alive."
+Imagawa Kurusu (talking),…………,...
+Hasekura Kirika (talking),びっくりしていますわね。,I must have given you a shock.
+Imagawa Kurusu (talking),は、はい…… そこまで思い切った事をなさるとは 思ってもみませんでしたから。,Y-Yes... I never expected you to make such a drastic decision.
+Hasekura Kirika (talking),クルス、あなたはどう？ 戦いの場で生きていたくはない？,"How about you, Kurusu? Do you not wish for a battlefield?"
+Imagawa Kurusu (talking),それは……嫌いではないです。 自分が成長しているのがわかる方が、 自分もしっかりしていられますし…,I`m... not against it. I know it`s a place in which I can grow and become strong...
+Hasekura Kirika (talking),でしたら、こちらにいらっしゃい。 裏切り者になってしまうけど、 その勇気があるのでしたら。,"Then come join me here. You`ll become a traitor, but you have the courage for it."
+Imagawa Kurusu (talking),僕はキリカ様の門下生です。 師匠のキリカ様に、死ぬまでついていく 覚悟はとうについています。,"I am your disciple, Kirika-sama. I am determined to follow you until the last day of my life."
+Hasekura Kirika (talking),クルス……,Kurusu...
+Imagawa Kurusu (talking),悪司さん。,Akuji-san.
+Yamamoto Akuji (talking),おう。,Yeah?
+Imagawa Kurusu (talking),"師匠が上司とするなら、僕にとって、 あなたも上司です。
+僕をあなたの配下に置いて 頂けますでしょうか？","If you`re my master`s boss, then that also makes you my boss.
+ Could you let me work for you?"
+Yamamoto Akuji (talking),いいぜ。 しっかり働いてくれよ。,Sure. Work hard.
+Imagawa Kurusu (talking),はい。 ありがとうございます。,I will. Thank you very much.
+Yamamoto Akuji (talking),なー、やっぱここから出たい？,"Hey, you wanna get outta here?"
+Imagawa Kurusu (talking),それはもう出して頂けるのでしたら。,"If I`m allowed to, yes."
+Yamamoto Akuji (talking),条件があんだけど。,"I have a condition, though."
+Imagawa Kurusu (talking),はい、なんでしょう？,"Very well, what is it?"
+Yamamoto Akuji (talking),俺の部下になって、戦ってくんねぇ？,Could you work and fight for me?
+Imagawa Kurusu (talking),"……………
+困りましたね。","...
+ I can`t do that."
+Yamamoto Akuji (talking),駄目か。,"No good, huh?"
+Imagawa Kurusu (talking),はい。,Indeed.
+Yamamoto Akuji (thinking),……う~ん…… こーいうタイプは、弱み見つけて 攻撃した方が懐柔しやすそーだなー…,Hmmm... He`s the type that`ll fold real quick if I find his weak point...
+Imagawa Kurusu (talking),こんにちわ。 お邪魔します。,Hello. Please excuse me.
+Mizuumi Kazuki (talking),あ、いらっしゃーい。 どしたんですか、今日は？,"Oh, welcooome. What brings you here today?"
+Imagawa Kurusu (talking),視察みたいなもので。,An inspection of sorts.
+Mizuumi Kazuki (talking),あ、ご苦労様です。 クルスさんもお若いのに大変ですねー。,"Ah, good work. And you`re so young, too."
+Imagawa Kurusu (talking),戦争で男の数が減ってしまった 現状では、しかたないですよ。,"There are way less men after the war, so this is inevitable."
+Mizuumi Kazuki (talking),んでも、あたしはそのおかげで、 眼鏡っ娘の社員をたっぷし雇えて ラッキー☆なんですけどねー。,"But thanks to that, I was able to employ tons of glasses girls, so it`s a win in my book!"
+Imagawa Kurusu (talking),これで、ウィミィの無茶がなければ、 社長は天国のような状態ですよね。,"It`s perfect to you aside from Wime`s demands, right?"
+Mizuumi Kazuki (talking),"あーアレねー…
+せめて、シーネルが眼鏡っ娘だったり したら、あたしだって、ＳＭ気分で 仕事出来るのにねー。","Oh, that...
+ If only Seanel wore glasses, I could get into an S&M mood and be motivated to work."
+Imagawa Kurusu (talking),あ、そうだ。 この前雑誌で、可愛い眼鏡っ娘の写真が 掲載されていたので、持ってきましたよ。,"Oh, right. I saw a cute glasses girl in a magazine the other day, so I brought it with me."
+Mizuumi Kazuki (talking),"きゃん☆ブラボー！ ありがと、クルスさん。
+あーあ、クルスさんが眼鏡っ娘だったら、 あたし、もっと幸せなんだけどなー☆","Kyaaah, bravo!☆ Thanks, Kurusu-san.
+ Aww, if only you were a glasses girl yourself!☆"
+Imagawa Kurusu (talking),ははははは。,Hahahah.
+haniidobokushain (talking),社長、ＰＭの今川様が、 至急お会いしたいとの事ですが、 よろしいでしょうか？,"Boss, Kurusu-sama wants to have an emergency meeting with you, is that fine?"
+Mizuumi Kazuki (talking),超ＯＫよー、どうぞー。,"Totally cool, let him in."
+Imagawa Kurusu (talking),すみません、お邪魔します。,Pardon my intrusion.
+Mizuumi Kazuki (talking),どうしましたー？,Is something the matter?
+Imagawa Kurusu (talking),はい。 無理を承知のお願いを。,Yes. I have an unreasonable request.
+Mizuumi Kazuki (talking),え……,Eh...?
+Imagawa Kurusu (talking),お仕事を依頼します。,We`d like to hire your services.
+Mizuumi Kazuki (talking),"え、仕事って……
+む、無茶よ、今だって、エデンの……","Our services...?
+ N-No, we`re busy with Eden..."
+Imagawa Kurusu (talking),それを承知でと言いました。,"Hence, unreasonable."
+narrator,"クルスはにっこりと笑ったまま、 表情を崩さない。
+それは、今から依頼する事が絶対だと 物語っている。","Kurusu smiled, keeping his cool expression.
+ It told Kazuki that it was actually an order, and not a request."
+Imagawa Kurusu (talking),これには、ＰＭの存亡がかかっています。,The PM`s existence hinges on this.
+Mizuumi Kazuki (talking),"それでは、作業の説明入りまーす。
+えーと、ＰＭ本部のあるヒラカタに コウシエンから行けないように しまーす。","I`ll explain the work, now.
+ We`re going to make it so that nobody can go to Hirakata, where the PM HQ is, from Koushien."
+haniidobokushain (talking),しゃ、社長！ それでは何キロにもなりますよ！,B-Boss! That blockade would extend for kilometers!
+Mizuumi Kazuki (talking),しなさーい。,Do iiiit.
+haniidobokushain (talking),で、でもどうやって………,B-But how...
+Mizuumi Kazuki (talking),"鉄製の支柱をばすばす建てて、 コンクリで根元をごりごり固めまーす。
+で、もー、何使っちゃってもいいから、 がーーーん、ごーーん、げーーんと 壁作っちゃいまーーーす。","With steel beams and concrete, like always.
+ Thaaaat saaaaid, you can use aaaaaanything, so get that wall up."
+haniidobokushain (talking),で、ですがそこには鉄道が 走ってますよ！ それに、道路も……,B-But what about the railway?! Or even the streets-
+Mizuumi Kazuki (talking),ふさいじゃって、ＯＫー。,Just block them.
+haniidobokushain (talking),そ、そんな……,Th-That`s...
+Mizuumi Kazuki (talking),一切の責任は、ＰＭが負うって 言ってるから、いーの。 あたしは依頼されただけだしー。,The PM said they`ll bear all responsibility. We were simply contracted to do this.
+haniidobokushain (thinking),……ヤケクソになってらっしゃる……,...They`re desperate...
+Mizuumi Kazuki (talking),"あ~~~も~~~~！！！ あたしだって、帰ってビール飲んで、 プハーって言いたかったわよー！
+さっさとやるわよーコンチクショー！","Geeeeeez! I would`ve loved to send you guys home and have you take it easy, too!
+ So just do your job, dammit!"
+Mizuumi Kazuki (talking),いやーーーーーーー！！！！！,I REFUSE!!!
+Imagawa Kurusu (talking),まだ何も言ってませんけど。,I haven`t said anything yet.
+Mizuumi Kazuki (talking),"わかってるわよ！ あの壁の続きを 依頼にきたんでしょ？
+あれ、作ってるっていうより、 塞いでる工事だから、つまんない！","I know what it is! You`re gonna ask me to keep building that wall, right?
+ That is so boring! We`re not building, we`re blocking!"
+Imagawa Kurusu (talking),"つまるつまらないではなく、 仕事でしょう？ 社長。
+次の依頼は、 プノンペン、コウシエンからクサカタに 入れないようにして頂きます。
+工事方法は、さっき社長が 仰った通りの方法でお願いします。","Boring or not, it`s still your job, isn`t it, Ms. President?
+ This time, we`re requesting you block Kusakata from Koushien and Phnom Penh.
+ As you`ve just said, build us new walls, please."
+Mizuumi Kazuki (talking),支払いは、前金でなくっちゃ、いやっ。,Only if we get paid in advance.
+Imagawa Kurusu (talking),"わかりました。 ＰＭ本部に請求書を回して下さい。
+すぐ、代金が振り込まれるように 手配しておきます。 こちらも無理をお願いしていますからね。","Very well, I shall send a requisition to our HQ.
+ I`ll have the cash ready right away. Ours is an unreasonable request, after all."
+Mizuumi Kazuki (talking),絶対いやーーーーーーー！！！！！,ABSOLUTELY NOT!!!!
+Imagawa Kurusu (talking),だから、まだ何も言ってませんけど。,"Again, I haven`t said anything."
+Mizuumi Kazuki (talking),次はどこよー！ どこでコンクリかき混ぜればいいのよー！,Well?! Where is it?! Where do I have to fill up with concrete?!
+Imagawa Kurusu (talking),"察しのいい人は、話が早くて助かります。
+今度は、アマノサトを中心に 工事をお願いします。
+これで最後です。 ですから、お願いします。","I`m glad you`re so sharp.
+ This time, we`d like you to focus on Amanosato.
+ This is our last request, so please."
+Mizuumi Kazuki (talking),絶対、最後？,You SURE it`s the last one?
+Imagawa Kurusu (talking),はい。,Yes.
+Mizuumi Kazuki (talking),支払いは前金？,And you`re paying in advance?
+Imagawa Kurusu (talking),はい。,Yes.
+Mizuumi Kazuki (talking),材料が不足で、割高になるわよ？,It`s gonna be more expensive.
+Imagawa Kurusu (talking),多少ならば平気です。 大事の前に、資金を惜しむ組織では ありません、ＰＭは。,That shouldn`t be a problem. The PM spares no expenses to deal with its issues.
+Mizuumi Kazuki (talking),う~~……,Ugh...
+Mizuumi Kazuki (talking),あ~~~……,Ahh...
+Imagawa Kurusu (talking),お疲れ様でした。 さすが社長。 見事な采配で。,"Thanks for your work. Your directions were as great as I`d anticipated, President."
+Mizuumi Kazuki (talking),お世辞なんていいわよー。,Spare me the flattery.
+Imagawa Kurusu (talking),いえ、本当の事を言っただけですよ。,I`m being sincere.
+Mizuumi Kazuki (talking),みーんな、徹夜作業だったから、 へとへとよ。,"Everyone stayed up all night for this, we`re exhausted."
+Imagawa Kurusu (talking),はい。 本当にありがとうございました。,"I see. Thank you very much, truly."
+Mizuumi Kazuki (talking),本当にありがたいと思ってるんだったら、 可愛い眼鏡っ娘よこしなさい。,"If you really think so, then bring me a cute glasses girl."
+Imagawa Kurusu (talking),ははははは。,Hahahaha.
+Mizuumi Kazuki (talking),あたしは、本気で言ってるのよー！,I`m being serious!
+narrator,ハニー土木の工事により、ヒラカタに 入るには南のシラハマを通って上がる道 しかなくなってしまった。,"Thanks to Hanny Engineering, Shirahama became the only access point to Hirakata."
+Imagawa Kurusu (talking),さあ、いきますよ。,"Now, here I come."

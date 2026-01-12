@@ -1,0 +1,716 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆多田山 = 20:,{☆多田山 = 20:
+__system__??,},}
+__system__??,{☆多田山 = 21:,{☆多田山 = 21:
+__system__??,},}
+__system__??,{☆多田山 = 1:,{☆多田山 = 1:
+__system__??,},}
+__system__??,{(☆多田山 = 2) * (☆失恋 > 0):,{(☆多田山 = 2) * (☆失恋 > 0):
+__system__??,},}
+__system__??,{(☆多田山 = 3) * (☆失恋 > 4):,{(☆多田山 = 3) * (☆失恋 > 4):
+__system__??,},}
+__system__??,{(☆多田山 = 4) * (☆失恋 > 9):,{(☆多田山 = 4) * (☆失恋 > 9):
+__system__??,},}
+__system__??,{(☆多田山 = 5) * (☆失恋 > 14):,{(☆多田山 = 5) * (☆失恋 > 14):
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,{☆多田山 > 19:,{☆多田山 > 19:
+__system__??,},}
+__system__??,},}
+Tadayama Ichizu (talking),ちーぃす。 呼びましたかー？,`Sup. You called?
+Yamamoto Akuji (talking),おう。 聞いたぞ。,Yeah. I heard all about it.
+Tadayama Ichizu (talking),は？ なんすか？,Huh? About what?
+Yamamoto Akuji (talking),女が出来たそーじゃねぇか。,Looks like you`ve found a woman.
+Tadayama Ichizu (talking),ういっす！！ そーっすよ、いやいやいや~~！,Hell yes! You got that right! Wooooo!!
+Yamamoto Akuji (talking),声デカイっての…,Keep it down.
+Tadayama Ichizu (talking),"和子さんっていうんっすよ。 おにぎりを作るのが、スンゲー じょうずなんっすよー！
+ただ、少し病弱なんで、 気をつけてあげないと いけないんっすけどね。
+そこがまたこう…く~~~！！","She`s called Kazuko-san. She`s real damn good at making onigiri!
+ Thing is, she`s kinda sickly, so I gotta be careful with her.
+ But that makes her even cuter!!"
+Yamamoto Akuji (talking),ま、大事にすんだな。,"Treat her well, then."
+Tadayama Ichizu (talking),ウイッス！,You got it!
+Tadayama Ichizu (talking),ちーぃす。,`Sup.
+Yamamoto Akuji (talking),きたな、色ボケ。,"There you are, horndog."
+Tadayama Ichizu (talking),なーーーーんすか、それ！,"Heeeey, what gives?!"
+Yamamoto Akuji (talking),ほら、これで愛しの彼女に なんか買ってやんな。,"Here, get your beloved girlfriend something nice."
+Tadayama Ichizu (talking),ういっす！ ありがとうございます！,Cool! Thank you!
+Tadayama Ichizu (talking),ちーぃす。,`Sup.
+Yamamoto Akuji (talking),おう。,Hey.
+Tadayama Ichizu (talking),ちーす。,`Sup.
+Yamamoto Akuji (talking),おう、一途。 どうだ？ ここの生活はもう慣れたか？,"Hey, Ichizu. So, you gotten used to your life here yet?"
+Tadayama Ichizu (talking),"ああ、はいはい。 いやー、最初はどうしようかと 思いましたが。
+今では、悪司さんに大感謝っすよー！","Yep, I have. I was at a real loss at first, though.
+ But now, I`m super thankful to you!"
+Yamamoto Akuji (talking),どうしてだ？,Why`s that?
+Tadayama Ichizu (talking),ここには、女の子がたくさんいるじゃ ないですか。,There are a bunch of cute girls here.
+Yamamoto Akuji (talking),お前さん…ナンパ師だったのか？,You a pick-up artist or something?
+Tadayama Ichizu (talking),いやいやいやいや。 自分は、運命の女性を 探してるんっすよ。,"No no no, not at all. I`m searching for my soulmate."
+Yamamoto Akuji (talking),そーいや、ふられ癖のありそーな 顔してるからなー。,"Yeah, you do look like someone who gets dumped a lot."
+Tadayama Ichizu (talking),"なーーーんすか、それ。 ひどいっすー。
+あ、でも、ひょっとして… ここって、組内恋愛禁止って事は…","Heeeey, what gives? That`s mean.
+ Wait, are relationships within the group prohibited?"
+Yamamoto Akuji (talking),それはないさ。 ちゃんと仕事してくれればな。,"Nah, as long as you do your job."
+Tadayama Ichizu (talking),はいはいはいはい。 恋も仕事も頑張るっすよー。 はははははは。,"Yeah yeah yeah. I`ll do my best at love and at work, hahahaha."
+Tadayama Ichizu (talking),はぁぁぁ~~~~~~……,Siiiiigh...
+Yamamoto Akuji (talking),失敬な奴だな。 人の顔を見て、いきなりため息ついて。,"Don`t sigh when you see someone, you dickhead."
+Tadayama Ichizu (talking),あ、いやいや、すんません… 実はですねー…… さっきふられてしまって…,"Oh, I`m sorry... You see, I got rejected just now..."
+Yamamoto Akuji (talking),ほう。,Uh-huh.
+Tadayama Ichizu (talking),いやいやいやいやいや。 こんな事でへこたれません、ええ。 やりますよ、やるっすよ。,"No no no, I won`t let this get me down, nuh-uh. I`m gonna do it!"
+Yamamoto Akuji (talking),ほどほどにな。,Keep it in moderation.
+Tadayama Ichizu (talking),うーす。 呼びましたかー？,`Sup. You called?
+Yamamoto Akuji (talking),噂になってるぞ、一途。,"There are rumors abot you, Ichizu."
+Tadayama Ichizu (talking),え、そうすか？,"Huh, really?"
+Yamamoto Akuji (talking),誰かれかまわず、女に声をかけて、 ふられてるらしいな。,You keep hitting on every woman you see and get rejected every time.
+Tadayama Ichizu (talking),"い、いや、誰かれかまわずって訳じゃ ないっすけど…
+ ………はぁぁ~~~…
+でも、ここにきて新記録達成したり してるので、結構、ふられ続けてん ですねー…","N-No, I don`t do it with EVERY woman...
+ ...Siiiigh...
+ But I`ve hit a new record ever since I got here. I can`t stop getting rejected..."
+Yamamoto Akuji (talking),節操なく、声をかけるからだ。 ちゃんと絞れよ、ターゲットは。,Cuz you approach `em indiscriminately. You should narrow down your targets.
+Tadayama Ichizu (talking),そのつもりなんっすけどねー…,I`m trying to...
+Yamamoto Akuji (talking),後、本気で声かけてるか？,"Also, do you do it with feeling?"
+Tadayama Ichizu (talking),"もちろんっすよ。 バリバリ本気っす！
+でも、ふられるんっすよ~… どうしてでしょう……","Of course I do. I always put all of my feelings into it!
+ And yet I always get rejected... Why is it...?"
+Yamamoto Akuji (talking),ふられ癖どころか、ふられる神様が 後ろについてんじゃねーか？,Ya sure you don`t have something cursing you?
+Tadayama Ichizu (talking),え、どこすか！？ ここっすか？,Huh? I do?! Where is it?!
+Yamamoto Akuji (talking),ジョーダンだよ、ジョーダン。,I was joking.
+Tadayama Ichizu (talking),あ、はい、いやいやいや…,"Oh, right..."
+Tadayama Ichizu (talking),ちーす。,`Sup.
+Yamamoto Akuji (talking),おう、ふられ王。 女達が、お前さんの事で、 俺にブツクサ言いにきてるぞ。,"Yo, king of rejects. The women here keep bitching and moaning about you to me."
+Tadayama Ichizu (talking),"ふ、ふられ王~~…… ひどいっす、悪司さ~ん……
+あ…でも、女の子達が、 悪司さんになんて？？","K-King of rejects...? That`s harsh, Akuji-san.
+ Oh, but what did the women tell you about me??"
+Yamamoto Akuji (talking),苦情だ。 組は、ひっかけ橋じゃないんだから、 お前さんを何とかしろだとさ。,"They were complaints, asking me to do something about you. The group`s not a hook-up spot."
+Tadayama Ichizu (talking),ひっかけ橋？？,Hook-up spot??
+Yamamoto Akuji (talking),なんだ、知らねーのか。 ナンパ目的の男がワンサカ たむろってるとこだよ。,"What, you don`t know? It`s a place where pick-up artists hang around, looking for girls."
+Tadayama Ichizu (talking),"す、すんません… そんな事で、悪司さんに手間取らせて…
+ …でも、でもですよ？ 自分もなんとかしたいんっすよーー。
+ホント、ふられっぱなしの ふられ王っすよー。
+あっ……自分の言葉で自分が 傷ついたっす…いって~~~…… いやいやいやいや……","S-Sorry for giving you trouble over it...
+ But you know what? I also wanna do something about myself.
+ I really am the king of rejects.
+ Oh man, I hurt myself with that one... No good, no good."
+Yamamoto Akuji (talking),いそがしい奴だなー。,"You`re a busy one, huh?"
+Tadayama Ichizu (talking),ああ……燃えるような恋がしたいっす…,"Ahh, I want a passionate relationship..."
+Tadayama Ichizu (talking),ういいーす………,`Suuup...
+Yamamoto Akuji (talking),………………,...
+Tadayama Ichizu (talking),う……ううう……,Uuuugh...
+Yamamoto Akuji (talking),またふられたのか……,Rejected again?
+Tadayama Ichizu (talking),うーーーーーー！！！！,Augh!!!
+Yamamoto Akuji (talking),さすがに哀れだなー…,This is getting painful...
+Tadayama Ichizu (talking),うう……同情するなら、愛を下さい…,"I don`t want sympathy, I want love..."
+Yamamoto Akuji (talking),ほら、これやるから、元気だせや。,"I`ll give ya this, so cheer up."
+narrator,悪司は、一途にお金を渡した。,Akuji gave Ichizu some money.
+Tadayama Ichizu (talking),"え、いいっすか？ どうもすんません。
+これで、自分の運命の人に 何か買ってあげられるっすよ、 嬉しいっす~。
+そしたら…… ふられないかな……
+いやいやいや。 なんでもないっすよ、ええ。 なんでもないっす。","Huh? Is this fine? Wow, thanks.
+ I`ll use this to buy my soulmate something nice. I`m real glad!
+ And maybe then... I won`t get rejected...
+ No no no. Forget I said anything, yeah. I said nothing."
+narrator,悪司が街を歩いていると、言い争って いるような声が聞こえた。,"As Akuji walked around town, he heard what sounded like people having an argument."
+Yamamoto Akuji (thinking),モメ事だったら、うざってーな… さっさと済ませてくっか。,I don`t want any fights here. Guess I`ll go put a stop to it.
+narrator,悪司はそちらに向かった。,Akuji headed towards the voices.
+Tadayama Ichizu (talking),そ、そんな~~~！！ 絶対、ダメっすか~~？ ダメっすか~~？？,C-Come ooooon! Do I really not have a shot?!
+narrator,男は、情けない大声をあげている。,The man shouted pathetically.
+joshigakusei (talking),ダメなの！ あたしもう、好きな人がいるんだから！,You don`t! I already have someone I like!
+Tadayama Ichizu (talking),え~~~~！！ マジっすか~~~~！！,Whaaaaat?! For reeeeal?!
+joshigakusei (talking),だからもう、あたしの事、好きだって 言わないで…さよなら！,"Yeah, so stop saying you like me. Farewell!"
+Tadayama Ichizu (talking),あ、あ~~~~~~！！！！！,"Ah, aaaaaaaahhhh!!!"
+narrator,男の恋は、終わりを告げた。,And so the man`s love came to an end.
+Tadayama Ichizu (talking),うっそ~~~。 え゛ーーー……,No waaaaay... Seriously...?
+Yamamoto Akuji (talking),にーさん、いいガタイしてるねー。,"You look tough, pal."
+Tadayama Ichizu (talking),え、いや、あのっ… え~~~！！ 今の、見られてました~~！！？？,"Huh?! Wait, uh... WHAAAAAT?! Did you see all that?!"
+Yamamoto Akuji (talking),そんなデケー声で言わなくても、 聞こえるっつーの。,"You don`t have to shout, ya know."
+Tadayama Ichizu (talking),あ、いえ、すんません… 地声がデカイもんで…,"Oh, um, sorry. My natural voice`s pretty loud."
+Yamamoto Akuji (talking),あんた、ケンカ得意？,You good at fighting?
+Tadayama Ichizu (talking),あ、いえ、どーでしょーかねー？ 普通じゃないっすかねー？,"Huh? Uh, I wonder? Maybe better than average?"
+Yamamoto Akuji (talking),俺は、山本悪司。 あんたは？,I`m Yamamoto Akuji. You are?
+Tadayama Ichizu (talking),あ、はい。 多田山一途です。,"Oh, I`m Tadayama Ichizu."
+Yamamoto Akuji (talking),なんか、格闘技してた？,You practice any martial arts?
+Tadayama Ichizu (talking),あ、いやいやいや。 学生時代、剣道を…,"Oh, no no no. I did kendo back in school-"
+Yamamoto Akuji (talking),はい、決まり。 あんた、俺の兵隊。,"Okay, that does it. You`re my soldier now."
+Tadayama Ichizu (talking),へ？？,Huh??
+narrator,一人の男がスーパーのビニール袋を手に、 とぼとぼ歩いていた。,"Holding supermarket plastic bags, a lone man was tottering along."
+Tadayama Ichizu (talking),"はあ…………
+身を焦がすような恋がしたい~…","Sigh...
+ I wanna fall in some fiery love..."
+neko (talking),にゃー。,Meow.
+narrator,多田山一途と青葉は、 連れ立って見回りをしている。,Tadayama Ichizu and Aoba were patrolling together..
+Tadayama Ichizu (talking),今日は珍しくいい天気っすね~。,The weather`s unusually nice today.
+Aoba Youko (talking),ええ、そうですね。,"Yeah, it is."
+narrator,そう言って青葉が、頬を撫でるそよ風に 目を細める。,"After she spoke, Aoba closed her eyes from the gentle breeze brushing against her cheek."
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Aoba Youko (talking),え……？,Huh...?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Aoba Youko (talking),ええっ！！？？,WHAAAAAT?!
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Aoba Youko (talking),あっ…あの…,U-Um...
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Aoba Youko (talking),私……既婚者です……,I`m already married...
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と未来は、 連れ立って見回りをしている。,Tadayama Ichizu and Mirai were patrolling together..
+Tadayama Ichizu (talking),あ、加古さん。 甘栗売ってるっすよ。,"Look, Kako-san. They`re selling broiled sweet chestnuts."
+Kako Mirai (talking),"あ、ホントにゃり。 食べるにゃりー！
+奉仕青年団にゃりー！ 味見させるにゃりー！！
+はむはむ。 美味いにゃりーー！","Oh, you`re right. I`m gonna have some!
+ I`m from the YCSG! Lemme sample them!
+ Nom nom nom. Deliiiish!"
+narrator,そう言って未来は、嬉しそうに笑った。,Mirai smiled in glee.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Kako Mirai (talking),んん？ 欲しいにゃりか？,Hmm? Want some?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Kako Mirai (talking),は~~~~~~~~？？？？？？？,Huuuuuuuuh???
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Kako Mirai (talking),一途……,Ichizu...
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Kako Mirai (talking),未来ちゃん、貧乏人嫌いにゃり。,Mirai-chan doesn`t like poor people.
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と智子は、 連れ立って見回りをしている。,Tadayama Ichizu and Tomoko were patrolling together..
+Tadayama Ichizu (talking),平気っすか、衣笠さん。 足、痛くないっすか？,"Are you alright, Kinugasa-san? Do your feet not hurt?"
+Kinugasa Tomoko (talking),あ、大丈夫です… すみません、お気遣いさせてしまって…,"Oh, no, I`m fine. Sorry to make you worry..."
+narrator,そう言って智子は、儚げに微笑んだ。,Tomoko gave him a faint smile.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnnngh!
+Kinugasa Tomoko (talking),………？？,...??
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Kinugasa Tomoko (talking),えーーっっ！！？？？,Whaaaaat?!
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Kinugasa Tomoko (talking),多田山さん……,Tadayama-san...
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Kinugasa Tomoko (talking),私……今は、そんな気はないです… ごめんなさい……,"Right now, I`m not interested in such things... I`m sorry..."
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と殺は、 連れ立って見回りをしている。,Tadayama Ichizu and Satsu were patrolling together..
+Tadayama Ichizu (talking),大丈夫っすか？ もう少し、ゆっくり歩きましょうか？,Are you alright? Should I walk a bit slower?
+Takega Satsu (talking),そう子供扱いせんでいい。 困った男だ。,You don`t have to treat me like a kid. What a troublesome man.
+narrator,そう言って殺は、ふっとニヒルに笑った。,Satsu suddenly flashed a nihilistic smile.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnnngh!
+Takega Satsu (talking),ん？,Hm?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!!
+Takega Satsu (talking),……………,...
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Takega Satsu (talking),一途。,Ichizu.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+__system__??,{★愛 = 5:,{★愛 = 5:
+Takega Satsu (talking),私は結婚している。,I`m married.
+__system__??,} else {,} else {
+Takega Satsu (talking),それは淫行だ。,That`s obscene.
+__system__??,},}
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と夕子は、 連れ立って見回りをしている。,Tadayama Ichizu and Yuuko were patrolling together..
+Tadayama Ichizu (talking),あ、気をつけて下さい。 そこ、道、悪くなってるっす。,"Oh, careful. The path there`s gotten rough."
+Kanbara Yuuko (talking),あー、ほんと~。 ありがとう、いっちゃん。,"Ah, it really haaaaas. Thanks, Icchan."
+narrator,そう言って夕子は、微笑んだ。,Yuuko smiled.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Kanbara Yuuko (talking),いっちゃん？？,Icchan?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Kanbara Yuuko (talking),あら、まあ…,Oh dear...
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!
+Kanbara Yuuko (talking),いっちゃん…,Icchan...
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Kanbara Yuuko (talking),あーくんと、喧嘩して勝てるなら…,Only if you can beat A-kun...
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と愛は、 連れ立って見回りをしている。,Tadayama Ichizu and Ai were patrolling together..
+Tadayama Ichizu (talking),森田さん、そのダンピラ、 自分が持ちましょうか？,"Morita-san, shall I carry that sword for you?"
+morita  ai (talking),ダンピラは任侠の命！ あたしゃ自分で持つでござんす！,The sword is a yakuza`s life! I`ll carry it myself!
+narrator,そう言って愛は、元気に微笑んだ。,"Ai smiled, full of energy."
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh\!
+morita  ai (talking),んんん？？,Hmm??
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+morita  ai (talking),なんですとーーー！！？？,What did you just say?!
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+morita  ai (talking),多田山の。,Tadayama-dono.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+morita  ai (talking),３５歳以下は、男でないでござんす。,Anyone under 35 is not a man to me.
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と晴子は、 連れ立って見回りをしている。,Tadayama Ichizu and Haruko were patrolling together..
+Tadayama Ichizu (talking),辻家さん、次はどっちに行きましょう？,"Where should we go next, Tsujiya-san?"
+Tsujiya Haruko (talking),そう……ね… 右の辻にしましょう。,Let`s see... We`ll go right at the crossing.
+narrator,そう言って晴子は、ふっと髪をかきあげた。,Haruko smoothed back a lock of her hair.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Tsujiya Haruko (talking),………？,...?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Tsujiya Haruko (talking),………………？,.........?
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Tsujiya Haruko (talking),多田山君。,Tadayama-kun.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Tsujiya Haruko (talking),そんな事言ってて、楽しい？,Do you have fun saying that?
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と蘭は、 連れ立って見回りをしている。,Tadayama Ichizu and Ran were patrolling together..
+Tadayama Ichizu (talking),蘭さん、おなかすいてませんか？ うどんとか、どうです？,"Ran-san, are you hungry? How about some udon?"
+Ichihashi Ran (talking),そうだねえ…… なら、あっちの店にでも入ろうかね？,Sounds good. Then how about we go to that place?
+narrator,そう言って蘭は、少し嬉しそうに店を 指差した。,"Ran pointed at a restaurant, looking a little happy."
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Ichihashi Ran (talking),ん？,Hm?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Ichihashi Ran (talking),はい？,Excuse me?
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Ichihashi Ran (talking),一途。,Ichizu.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Ichihashi Ran (talking),あんた、呆れるほど単細胞だね…,You really are a simpleton...
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と元子は、 連れ立って見回りをしている。,Tadayama Ichizu and Motoko were patrolling together..
+Tadayama Ichizu (talking),元子さん、寒くないですか？ 大丈夫っすか？,"Motoko-san, aren`t you cold? Everything okay?"
+Kaga Motoko (talking),気にしないで、大丈夫。,"Don`t worry, I`m fine."
+narrator,そう言って元子は、彫像のように整った 横顔を一途に見せた。,"Motoko then looked forward, showing Ichizu her sculpture-like profile."
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Kaga Motoko (talking),……………？,...?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Kaga Motoko (talking),……………,...
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Kaga Motoko (talking),多田山。,Tadayama.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Kaga Motoko (talking),馬鹿。,Moron.
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と薫は、 連れ立って見回りをしている。,Tadayama Ichizu and Kaoru were patrolling together..
+Tadayama Ichizu (talking),薫さん、疲れてないっすか？ 大丈夫っすか？,"Kaoru-san, are you not tired? Everything okay?"
+Mori Kaoru (talking),ああ。 それより、しっかり見廻れ。,I`m fine. Focus on the patrol.
+narrator,そう言って薫は、多田山の肩をぽんと叩いた。,Kaoru gave Ichizu`s shoulder a light tap.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Mori Kaoru (talking),ん？,Hm?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Mori Kaoru (talking),……………………は？,......Huh?
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Mori Kaoru (talking),多田山一途。,Tadayama Ichizu.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Mori Kaoru (talking),病気か？,Are you mentally unwell?
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と麻美は、 連れ立って見回りをしている。,Tadayama Ichizu and Asami were patrolling together..
+Tadayama Ichizu (talking),山沢さん、あっちの路地、見といた方が いいっすかね。,"Yamazawa-san, we ought to check out that road."
+Yamazawa Asami (talking),そうですね、行きましょう。,You`re right. Let`s go.
+narrator,そう言って麻美はきりりとした顔を 一途に向けた。,"With that, Asami faced Ichizu with a sharp expression."
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Yamazawa Asami (talking),えっ……？,Huh...?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Yamazawa Asami (talking),え、え……,Wh-What...?
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Yamazawa Asami (talking),多田山さん。,Tadayama-san.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Yamazawa Asami (talking),……お断りします。,...I must refuse.
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と由女は、 連れ立って見回りをしている。,Tadayama Ichizu and Yume were patrolling together..
+Tadayama Ichizu (talking),由女さん、大丈夫っすか？ あまり丈夫でないと聞きましたけど…,"Yume-san, are you alright? I`ve heard you`re rather sickly..."
+Yume (talking),今日は調子がいいから、大丈夫。 ありがとう、多田山さん。,"I`m doing fine today, don`t worry. Thanks, Tadayama-san."
+narrator,そう言って由女はにっこり微笑んだ。,Yume flashed him a smile.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnnnnnnnnnnnnnnnngh!
+Yume (talking),えっ……？,Huh...?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Yume (talking),ええっ！？,EEEH?!
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Yume (talking),多田山さん……,Tadayama-san...
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Yume (talking),私、普通じゃなくて、無理だから……,"I`m not normal, so I can`t..."
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と陽子は、 連れ立って見回りをしている。,Tadayama Ichizu and Youko were patrolling together..
+Tadayama Ichizu (talking),陽子さん、そろそろ休憩しませんか？ もう大分、歩いてるっすよ~。,"Youko-san, shall we take a break? We`ve been walking for a while."
+Komiya Youko (talking),この程度で情けないことを… もう少し頑張れ。,"This was nothing, don`t be a wimp. Hang in there a little longer."
+narrator,そう言って陽子は一途をたしなめた。,Youko admonished Ichizu.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Komiya Youko (talking),なっ……,Wha-
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Komiya Youko (talking),…………,...
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Komiya Youko (talking),………多田山一途。,...Tadayama Ichizu.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Komiya Youko (talking),頭を冷やせ。,Go cool off your head.
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と寧々は、 連れ立って見回りをしている。,Tadayama Ichizu and Nene were patrolling together.
+Tadayama Ichizu (talking),寧々さん、おまんじゅう買ってきて いいっすか？,"Nene-san, can I go buy some manjuu?"
+Tsukigase Nene (talking),あら、あの店で？ それなら、私も一つ頂くわ。 どれがいいかしら……,"Oh, at that shop? Then I`ll have one as well. Which should I get...?"
+narrator,そう言って寧々は楽しそうに饅頭を 見つめている。,Nene then had fun browsing through the manjuu.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Tsukigase Nene (talking),……？,...?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Tsukigase Nene (talking),あら。,Oh my.
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Tsukigase Nene (talking),くすっ……多田山君？,Teehee... Tadayama-kun?
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Tsukigase Nene (talking),私、お饅頭の方が良いわ。,I prefer the manjuu.
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と遙は、 連れ立って見回りをしている。,Tadayama Ichizu and Haruka were patrolling together.
+Tadayama Ichizu (talking),遙さん、次どこ行きますか？ あっちっすかねー。,"Haruka-san, where should we go next? Over there, maybe?"
+Toki Haruka (talking),はっ、はい、そうですね… それじゃ……あの、あっちに……,"Y-Yeah, we should. Then l-let`s go there..."
+narrator,そう言って遙はわたわたと歩きだした。,"Haruka started walking, visibly flustered."
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Toki Haruka (talking),は、はい？,Y-Yes?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Toki Haruka (talking),え……えええーーーっ！！？？,Wh-Whaaaaaaat?!
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Toki Haruka (talking),あの、その……多田山さん…,"Um, Tadayama-san..."
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Toki Haruka (talking),あ、あの……その、あの…… ごっ、ごめんなさい……,"U-Um, I... I-I`m sorry..."
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途とアエンは、 連れ立って見回りをしている。,Tadayama Ichizu and Aen were patrolling together.
+Tadayama Ichizu (talking),アエンさん、焼き鳥っすよ。 つまんでいきませんか？,"Aen-san, there`s yakitori here. Wanna grab some?"
+Hasekura Aen (talking),そーね。 ビールもあるかしら。 この辺りじゃ無理かなー。,"Sounds good. I wonder if there`s also beer here. Maybe not, around these parts..."
+narrator,そう言ってアエンは軽く口を曲げ、 ためいきをついた。,Aen`s lips curled slightly as she let out a sigh.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Hasekura Aen (talking),ん？,Hm?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Hasekura Aen (talking),…………………,...
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Hasekura Aen (talking),一途。,Ichizu.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Hasekura Aen (talking),死んでみる？,Wanna die?
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途とキリカは、 連れ立って見回りをしている。,Tadayama Ichizu and Kirika were patrolling together.
+Tadayama Ichizu (talking),キリカさん、乾し杏子あるっすよ。 躰にいいっす。 買ってきませんか？,"Kirika-san, they have dried apricot here. I hear it`s good for you. Wanna buy some?"
+Hasekura Kirika (talking),そうですわね。 いただきましょうかしら。,That sounds good. Perhaps I`ll have some.
+narrator,そう言ってキリカは、 髪を小さな風にそよがせた。,Kirika`s hair fluttered in the wind as she spoke.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Hasekura Kirika (talking),………？,...?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Hasekura Kirika (talking),あら……,Oh my...
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Hasekura Kirika (talking),一途さん。,Ichizu-san.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Hasekura Kirika (talking),何人にそう仰ったんです？,How many women have you told that?
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途とキャットは、 連れ立って見回りをしている。,Tadayama Ichizu and Cat were patrolling together.
+Tadayama Ichizu (talking),あ、キャットさん。 ちんどん屋ですよ！ ほらほら！,"Look, Cat-san, it`s a marching band! Look at them go!"
+kyatto Me (talking),わぁ、すごいすごい！ すごいですねーっ！ 初めて見ました、あたし！,"Wooow, amazing! They`re awesome! It`s my first time seeing one!"
+narrator,そう言ってキャットは無邪気に笑った。,Cat laughed innocently.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+kyatto Me (talking),ん？,Hm?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+kyatto Me (talking),け……ケッコン…………？,Marry...?
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+kyatto Me (talking),あのー、一途さん。,"Um, Ichizu-san."
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+kyatto Me (talking),やめといた方がいいですよ？,I think you should stop.
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と春風は、 連れ立って見回りをしている。,Tadayama Ichizu and Harukaze were patrolling together.
+Tadayama Ichizu (talking),春風さん、少し休むっすか？ 冷やしあめでもどうっす？,"Wanna take a break, Harukaze-san? How about some chilled syrup?"
+Harukaze (talking),一途のおごり？ だったら飲むよ。,Harukaze`ll have some if it`s your treat.
+narrator,そう言って春風は意地悪く笑った。,Harukaze laughed mischievously.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Harukaze (talking),？？,??
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Harukaze (talking),はぁ~~~~~~？？？？,Huuuuuuuuh??
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Harukaze (talking),あのさー、一途。,"Look here, Ichizu."
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Harukaze (talking),人生のターニングポイント、 何回、曲がりそこねたの？,How many times have you failed to turn your life around?
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と鹿の子は、 連れ立って見回りをしている。,Tadayama Ichizu and Kanoko were patrolling together.
+Tadayama Ichizu (talking),鹿の子さん、次はどこ行きましょうか？,"Where to next, Kanoko-san?"
+Sasaki Kanoko (talking),ん~~……あっちはどうですか~？ いい匂いがするし~……,"Hmmm, how about over theeere? I smell something gooood..."
+narrator,そう言って鹿の子はほわわんと 表情を和らげた。,Kanoko`s expression softened as she spoke.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Sasaki Kanoko (talking),はい~？,Yeeees?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Sasaki Kanoko (talking),きゃ~~~。,Kyaaaaaah.
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Sasaki Kanoko (talking),一途さ~ん。,Ichizu-saaaan.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Sasaki Kanoko (talking),いやです~。,Noooo.
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と海音は、 連れ立って見回りをしている。,Tadayama Ichizu and Umine were patrolling together.
+Tadayama Ichizu (talking),海音さん、そろそろあがりますか？,"Umine-san, should we call it a day?"
+Tenkai Umine (talking),そだね。 あ、帰りながら、アイス食べよっかー？,"Yep. Oh, how about some ice cream on the way back?"
+narrator,そう言って海音は笑った。,Umine smiled.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Tenkai Umine (talking),何？,What?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Tenkai Umine (talking),へ？,Huh?
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Tenkai Umine (talking),一途。,Ichizu.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Tenkai Umine (talking),馬鹿っぽいよ、それ。,That`s so stupid.
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と朝顔は、 連れ立って見回りをしている。,Tadayama Ichizu and Asagao were patrolling together.
+Tadayama Ichizu (talking),朝顔さん、疲れてないっすか？ 平気っすか？,"Asagao-san, are you not tired? Everything okay?"
+Tsutsui Asagao (talking),………………,...
+narrator,朝顔は頬を薄く染め、首を左右に可憐に振った。,"Her cheeks dyed red, Asagao nodded elegantly."
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Tsutsui Asagao (talking),………？,...?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Tsutsui Asagao (talking),っ………,...!
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Tsutsui Asagao (talking),…………あの……,...Um...
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Tsutsui Asagao (talking),…………………ぃゃ………,...No...
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途とリクペチは、 連れ立って見回りをしている。,Tadayama Ichizu and Rikupechi were patrolling together.
+Tadayama Ichizu (talking),あっ…あの…… えと……ニホン語…わかりますか？,"U-Um... you, speak Japanese? Understand?"
+Takayama Rikupechi (talking),ああ、心配するな。 会話は普通に出来るぞ。,"Yes, worry not. I can converse with no issues."
+narrator,リクペチはそっけなく言った。,Rikupechi spoke bluntly.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Takayama Rikupechi (talking),？,?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Takayama Rikupechi (talking),………………,...
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Takayama Rikupechi (talking),一途。,Ichizu.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Takayama Rikupechi (talking),短絡者。,Quit jumping the gun.
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途とめぐるは、 連れ立って見回りをしている。,Tadayama Ichizu and Meguru were patrolling together.
+Tadayama Ichizu (talking),いやあ、普通に歩けるっていいですねぇ。 空襲受けた時はどうなるかと 思いましたよ~。,Sure is nice to go for a walk. I thought I`d never be able to again back during the bombings.
+Noyama Meguru (talking),んだ。 平和はいいだ。,Ya said it. Good ta be peaceful again.
+narrator,そう言ってめぐるはにぱーっと笑って、 嬉しそうに歩いている。,"Meguru laughed heartily and kept walking, clearly in a good mood."
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Noyama Meguru (talking),ん？,Hm?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Noyama Meguru (talking),へはぁ！？,Hwah?!
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Noyama Meguru (talking),一途さんよぅ…,Ichizu-san...
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Noyama Meguru (talking),おら、あんたに そんな気はまったくねぇだ。,Ah don`t feel that way about ya at all.
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と民華は、 連れ立って見回りをしている。,Tadayama Ichizu and Minka were patrolling together.
+Tadayama Ichizu (talking),今日は、街も平和みたいっすね。,The town sure is peaceful today.
+Haku Minka (talking),そだね。 それが一番だと思わない？,Yep. Don`t you think that`s great?
+narrator,そう言って、民華は一途の顔を 覗きこむように話した。,Minka spoke to Ichizu as she looked him right in the eyes.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Haku Minka (talking),へ？,Eh?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Haku Minka (talking),ええええええええええ！！！！！,Whaaaaaaat?!
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Haku Minka (talking),多田山さん……,Tadayama-san...
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Haku Minka (talking),あたし、山本さんと結婚してんだけど…,I married Yamamoto-san...
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途とアンリは、 連れ立って見回りをしている。,Tadayama Ichizu and Anri were patrolling together.
+Tadayama Ichizu (talking),アンリさん、おなかすきませんか？ なんか食うっすか？,"Are you hungry, Anri-san? Wanna grab some lunch?"
+Henri Pe (talking),……………平気……,...I`m fine...
+narrator,アンリは一途と目を合わさず、 小さな声でそう言った。,"Without looking at Ichizu, Anri replied in a quiet voice."
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Henri Pe (talking),……………？,...?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Henri Pe (talking),…………………,...
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Henri Pe (talking),……………一途……,...Ichizu...
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Henri Pe (talking),私……悪司以外の男性に興味ないから…,Akuji`s the only man I care about...
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と鱗は、 連れ立って見回りをしている。,Tadayama Ichizu and Rin were patrolling together.
+Tadayama Ichizu (talking),あ、猫っすよ、鱗さん。 自分は、犬と猫だったら、猫がいいっす。,"Look, Rin-san, a cat. I`m a cat person, myself. You?"
+Souma Rin (talking),そーかなー。 私は、犬の方がいいけどなー。,"If I had to pick, I`d say I prefer dogs."
+narrator,そう言って、鱗が笑った。,Rin smiled.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Souma Rin (talking),ん？,Hm?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Souma Rin (talking),ほほぅ…,Hohoh...
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Souma Rin (talking),一途。,Ichizu.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Souma Rin (talking),それは、オオサカギャグというやつか？,Is that an Osakan joke?
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途とセヤダタラは、 連れ立って見回りをしている。,Tadayama Ichizu and Seyadatara were patrolling together.
+Tadayama Ichizu (talking),きょうは少しいつもより、 雲が厚いっすね。,"Today`s cloudier than usual, huh?"
+Seyadatara (talking),……………そう…ですか？,...Is it?
+narrator,と言って、セヤダタラは小首を傾げ、 空を見つめた。,Seyadatara tilted her neck a little and gazed at the sky.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Seyadatara (talking),…………？,...?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Seyadatara (talking),結婚……,Marry...
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Seyadatara (talking),一途。,Ichizu.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Seyadatara (talking),それは美味しいですか？ かじっていいですか？,Is that tasty? Can I have some?
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と陸奥は、 連れ立って見回りをしている。,Tadayama Ichizu and Mutsu were patrolling together.
+Tadayama Ichizu (talking),陸奥さん、凄いっすね~。 飛べるんっすね~。 うらやましいっす~。,"You`re amazing, Mutsu-san. You can fly, I`m so jealous!"
+Mutsu (talking),えっへへー。 いいっしょー。,Eheheheh. You got that right!
+narrator,そう言って陸奥は嬉しそうに笑った。,Mutsu happily laughed.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Mutsu (talking),んぽ？,Hweh?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Mutsu (talking),えーーーーーー。,Whaaaat?
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Mutsu (talking),一途。,Ichizu.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Mutsu (talking),悪司より強い？,You stronger than Akuji?
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途とベラドンナは、 連れ立って見回りをしている。,Ichizu and Belladonna were patrolling together.
+Tadayama Ichizu (talking),ベラドンナさん。 荷物、持ちましょうか？ 俺、男だから平気っすよ。,"Belladonna-san, shall I carry your stuff? I`m a man, so it`s no biggie for me."
+Belladonna (talking),いや、結構。 いざという時に自分の身を 守れない方が不安だ。,"No, that`s alright. Not having a way to defend myself if necessary would make me anxious."
+narrator,ベラドンナは冷静にそう言った。,Belladonna spoke in a cold manner.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Belladonna (talking),？,?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Belladonna (talking),………………,...
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Belladonna (talking),一途。,Ichizu.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Belladonna (talking),ふざけるな。,Quit joking around.
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途とかなみは、 連れ立って見回りをしている。,Tadayama Ichizu and Kanami were patrolling together.
+Tadayama Ichizu (talking),かなみさんって忍者なんっすよね。 自分、そういう人と会うのは初めてっす。 凄いっすねー。,"So you`re a ninja, Kanami-san? It`s my first time meeting one, that`s awesome."
+Kentou Kanami (talking),えー、全然、凄くないよー。 私、みそっかすだしー。,"Oh, I`m not awesome at all. I`m useless, really."
+narrator,と、かなみは照れて笑った。,Kanami flashed an embarrassed smile.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Kentou Kanami (talking),えっ……？,Eh...?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Kentou Kanami (talking),えっっっっっ！！！！？？？？,What?!
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Kentou Kanami (talking),あの……,Um...
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Kentou Kanami (talking),私…気持ちは嬉しいけど…… やっぱいらない……,"I appreciate your feelings, but I don`t want them..."
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と吹雪は、 連れ立って見回りをしている。,Tadayama Ichizu and Fubuki were patrolling together.
+Tadayama Ichizu (talking),吹雪さん、その鉄ゲタとパワーリスト、 重いとか思わないんすか？,"Fubuki-san, aren`t those iron sandals and power wrists heavy?"
+Sanrin Fubuki (talking),もちろん重いけど、 そうでなきゃ修行にならないもの…… …………ふう……,"Sure they are, but I need them for my training. ...Phew."
+narrator,そう言って吹雪は、額の汗を手の甲で拭った。,Fubuki wiped the sweat off her forehead.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Sanrin Fubuki (talking),？,?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Sanrin Fubuki (talking),……はい？,...Excuse me?
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Sanrin Fubuki (talking),多田山さん。,Tadayama-san.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Sanrin Fubuki (talking),修行の邪魔。,You`re hindering my training.
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途とカリコリルリは、 連れ立って見回りをしている。,Tadayama Ichizu and Calikoriruli were patrolling together.
+Tadayama Ichizu (talking),カリコリルリさんって、 変わった名前っすよね~。,"You sure have an unusual name, Calikoriruli-san."
+Carikoriluri (talking),……そうですか？ こっちの世界じゃそうなのかなー……,...Do I? I guess that`s how it sounds in this world...
+narrator,そう言ってカリコリルリは小首を傾げた。,Calikoriruli tilted her head.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Carikoriluri (talking),……どうかしました？,...What`s the matter?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Carikoriluri (talking),……はっ？　ええええええっ？！,...Huh?! Whaaaaat?!
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Carikoriluri (talking),………………あのー。,Um...
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Carikoriluri (talking),魔王と戦ってくれます？,Will you fight the Demon King?
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途とどん子は、 連れ立って見回りをしている。,Tadayama Ichizu and Donko were patrolling together.
+Tadayama Ichizu (talking),どん子さん、それ、 可愛らしいぬいぐるみっすね~。,"That`s a cute costume you got, Donko-san."
+Honoo Donko (talking),おいっす多田山しゃん！ ありがとさんなのです♪,"Yeah, Tadayama-syan! Thank you kindly!♪"
+narrator,そう言ってどん子は多田山に抱きついた。,Donko gave Ichizu a hug.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Honoo Donko (talking),ほや？,Hoya?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Honoo Donko (talking),……ほやややや？,...Hoyayaya?
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Honoo Donko (talking),多田山しゃん。,Tadayama-syan.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Honoo Donko (talking),や。,No.
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と喜久子は、 連れ立って見回りをしている。,Tadayama Ichizu and Kikuko were patrolling together.
+Tadayama Ichizu (talking),喜久子さん、和服がよく似合うっすね~。,"You look great in a kimono, Kikuko-san."
+Nogi Kikuko (talking),そ……そうでしょうか？ どうもありがとうございます。,D-Do I? Thank you very much.
+narrator,そう言って喜久子は微笑を浮かべた。,Kikuko smiled.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Nogi Kikuko (talking),？　多田山さん……？,? Tadayama-san...?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Nogi Kikuko (talking),………………はい？,...I beg your pardon?
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Nogi Kikuko (talking),多田山さん。,Tadayama-san.
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Nogi Kikuko (talking),私が不倫をするとお思いですか？,Do you think I`d commit adultery?
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途と明は、 連れ立って見回りをしている。,Tadayama Ichizu and Mei were patrolling together.
+Tadayama Ichizu (talking),メイさん、何でそんなに ツッパってるんすか？,"Mei-san, why do you act so tough?"
+Fudou Mei (talking),………………てめえの知った事か。,...Non of your damn business.
+narrator,そう言って明は一途を睨んだ。,Mei glared at Ichizu.
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Fudou Mei (talking),……ん……？,...Huh?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Fudou Mei (talking),………………,...
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Fudou Mei (talking),お前なあ…………,"Look here, you..."
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Fudou Mei (talking),殺されたいのか。,Want me to fucking kill you?
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+narrator,多田山一途とプリシラは、 連れ立って見回りをしている。,Tadayama Ichizu and Priscilla were patrolling together.
+Tadayama Ichizu (talking),プリシラさん、ウィミィの人なんすね。 こんな近くでガイジンさん見たの 初めてっすよ~。,"So you`re from Wime, Priscilla-san? It`s my first time seeing a foreigner from up close."
+__system__??,{★愛 = 4:,{★愛 = 4:
+__system__??,},}
+__system__??,{★愛 \ 4:,{★愛 \ 4:
+__system__??,},}
+Priscilla Va (talking),…………変な人…… どうして私をじろじろ見るのかしら……,...What a weird man. Why is he staring at me?
+narrator,プリシラは困って、小さく肩をすくめた。,"Troubled, Priscilla shrugged."
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Priscilla Va (talking),……っ、な、何……？,...! Wh-What?
+Tadayama Ichizu (talking),結婚して下さい！！,MARRY ME!!
+Priscilla Va (talking),……えっ？　あ、あの……,...Huh?! U-Um...
+Tadayama Ichizu (talking),あなたこそ、運命の人だーー！！！！,You must be my soulmate!!!
+Priscilla Va (talking),あの……多田山さん？,"Hey, Tadayama-san?"
+Tadayama Ichizu (talking),はい！！！！,Yes?!
+Priscilla Va (talking),ウィミィ語でお願いできませんか？,Could you say it in Wimenese?
+Tadayama Ichizu (talking),がーーーーん！！！！！！,NOOOOOO!!!
+narrator,こうして、一途はふられた……,"Thus, Ichizu got rejected..."
+Tadayama Ichizu (talking),どっきーーん。,Hnnnngh!
+Tadayama Ichizu (talking),"はあ……
+恋がしたい……","Siiiigh...
+ I wanna fall in love..."
+neko (talking),にゃ~。,Meoooow.
+narrator,多田山一途、ふられ回数　,"Tadayama Ichizu, times rejected　"
+narrator,オオサカのデートスポットで、一途は一人、 行き交うアベックをぼんやり見つめていた。,"In one of Osaka`s date spots, Ichizu vacantly gazed at the couples passing by."
+Tadayama Ichizu (thinking),く~…うらやましいっす… どーして僕は、こんなにダメ なんっすかね~…,"Khh, I`m so jealous... Why can I never get a lucky break?"
+ (talking),あれ… 多田山さん？,Oh... Tadayama-san?
+Tadayama Ichizu (talking),えっ！？,Huh?!
+Seinendan Jyoshi (talking),こんにちわ…,Hello...
+Tadayama Ichizu (talking),あ、どもっす。,"Oh, hi."
+Seinendan Jyoshi (talking),一人…ですか？,Are you... by yourself?
+Tadayama Ichizu (talking),"ういっす。
+こんな自分に、こんなとこへ一緒に きてくれる人なんかいないっすよ。 ハハハ…","Yep.
+ There`s nobody who`d come to this place with someone like me, hahahah..."
+Seinendan Jyoshi (talking),だったら……私が隣りにいていい ですか？,In that case... Can I sit next to you?
+Tadayama Ichizu (talking),へっ……あ、どうぞ。,"Eh?! Oh, uh, sure."
+Seinendan Jyoshi (talking),すみません。,Excuse me.
+narrator,女の子は一途の隣りに座った。,The girl sat next to Ichizu.
+Seinendan Jyoshi (talking),…………よかった……,...I`m glad...
+Tadayama Ichizu (talking),へ？,Huh?
+Seinendan Jyoshi (talking),"私、一途さんがここに行くのが 見えたから…
+ひょっとしてと思って… ついてきてしまったんです…
+ ……だって…
+だって…デートだったりしたら… 私、失恋してしまう事になってしまう から…","I saw you go to this place, so...
+ I thought maybe you`d... and eneded up following you.
+ ...After all...
+ Had you been coming here for a date... I`d have ended up heartbroken..."
+Tadayama Ichizu (talking),"へっ…
+そっ…それって……","Wha-
+ D-Does that mean...?"
+Seinendan Jyoshi (talking),………やだ… は、恥ずかしい……,...Oh no... H-How embarrassing...
+Tadayama Ichizu (talking),えーーーーーーーーー！！！！！！ マジっすかーーーーーー！！！？？？？,WHAAAAAAAAT?! FOR REAL?!!
+Tadayama Ichizu (talking),和子さーーーん！,Kazuko-saaaan!
+Seinendan Jyoshi (talking),あっ…こっちです。 一途さん…,"Ah! Over here, Ichizu-san."
+Tadayama Ichizu (talking),待たせましたっすか？,Did I keep you waiting?
+Seinendan Jyoshi (talking),"ううん、ちっとも…
+あ、お弁当作ってきました。 食べますか？","No, not at all.
+ Ah, I made us lunch. Will you have some?"
+Tadayama Ichizu (talking),ういっす！！ いただきます！！,Hell yeah! Thanks for the meal!
+narrator,一途は、周囲１０メートルの人々が 驚くような大声で返事をする。,Ichizu responded so loudly that everyone around him was surprised.
+Tadayama Ichizu (talking),く~~~~~~！！ 美味い、美味いっすーーー！！！！,Khhhh! This is delicious!!
+Seinendan Jyoshi (talking),うふふ…,Fufufu...

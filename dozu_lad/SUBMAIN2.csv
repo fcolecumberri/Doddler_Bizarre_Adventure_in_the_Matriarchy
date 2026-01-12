@@ -1,0 +1,196 @@
+character,jap text,Eng
+__system__??,{G制御 & 4:,{G制御 & 4:
+__system__??,},}
+__system__??,{G制御 & 8:,{G制御 & 8:
+__system__??,},}
+__system__??,{DB = 1:,{DB = 1:
+narrator,［［　,［［　
+narrator,の配置アルゴリズム開始　］］,の配置アルゴリズム開始　］］
+__system__??,},}
+__system__??,{DB = 1:,{DB = 1:
+__system__??,},}
+__system__??,{R制御[D01] & 1:,{R制御[D01] & 1:
+__system__??,{R支配[D01] = 組織番号:,{R支配[D01] = 組織番号:
+__system__??,{RND = 0:,{RND = 0:
+__system__??,},}
+__system__??,{RND = 1:,{RND = 1:
+__system__??,},}
+__system__??,{RND = 2:,{RND = 2:
+__system__??,},}
+__system__??,{RND = 3:,{RND = 3:
+__system__??,},}
+__system__??,{RND = 4:,{RND = 4:
+__system__??,},}
+__system__??,{RND = 5:,{RND = 5:
+__system__??,},}
+__system__??,{RND < D02:,{RND < D02:
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{DB = 1:,{DB = 1:
+narrator,［［　,［［　
+narrator,の戦略アルゴリズム開始　］］,の戦略アルゴリズム開始　］］
+__system__??,},}
+__system__??,{D02 = 0:,{D02 = 0:
+__system__??,{(R制御[D03] & 1) * (TMP_DAT2[D03] = 0):,{(R制御[D03] & 1) * (TMP_DAT2[D03] = 0):
+__system__??,{R支配 = 組織番号:,{R支配 = 組織番号:
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,{D02 \ 0:,{D02 \ 0:
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{(D02 = 0) * (★★わかめ \ 1):,{(D02 = 0) * (★★わかめ \ 1):
+__system__??,{(R制御[D03] & 1) * (TMP_DAT2[D03] = 0):,{(R制御[D03] & 1) * (TMP_DAT2[D03] = 0):
+__system__??,{R支配 = 1:,{R支配 = 1:
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,{D02 \ 0:,{D02 \ 0:
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{D02 = 0:,{D02 = 0:
+__system__??,{(R制御[D03] & 1) * (TMP_DAT2[D03] = 0):,{(R制御[D03] & 1) * (TMP_DAT2[D03] = 0):
+__system__??,{R支配 = 1:,{R支配 = 1:
+__system__??,{D05 = 1:,{D05 = 1:
+__system__??,},}
+__system__??,{D05 = 2:,{D05 = 2:
+__system__??,},}
+__system__??,{D05 = 3:,{D05 = 3:
+__system__??,},}
+__system__??,{D05 = 4:,{D05 = 4:
+__system__??,},}
+__system__??,{D05 = 5:,{D05 = 5:
+__system__??,},}
+__system__??,{D05 = 6:,{D05 = 6:
+__system__??,},}
+__system__??,{DB = 1:,{DB = 1:
+__system__??,},}
+__system__??,{R支配[D04] = 組織番号:,{R支配[D04] = 組織番号:
+__system__??,{G制御[D07] & 1:,{G制御[D07] & 1:
+__system__??,},}
+__system__??,{D06 = 0:,{D06 = 0:
+__system__??,{D02 \ 0:,{D02 \ 0:
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{D02 = 0:,{D02 = 0:
+__system__??,{RND = 0:,{RND = 0:
+__system__??,{(R制御[D03] & 1) * (TMP_DAT2[D03] = 0):,{(R制御[D03] & 1) * (TMP_DAT2[D03] = 0):
+__system__??,{(組織番号 = 2) * (地域番号 = 3) + (組織番号 = 3) * (地域番号 = 25) + (組織番号 = 4) * (地域番号 = 13) + (組織番号 = 5) * (地域番号 = 35) + (組織番号 = 6) * (地域番号 = 34):,{(組織番号 = 2) * (地域番号 = 3) + (組織番号 = 3) * (地域番号 = 25) + (組織番号 = 4) * (地域番号 = 13) + (組織番号 = 5) * (地域番号 = 35) + (組織番号 = 6) * (地域番号 = 34):
+__system__??,{R支配 = 1:,{R支配 = 1:
+__system__??,{G制御[D07] & 1:,{G制御[D07] & 1:
+__system__??,},}
+__system__??,{D06 = 0:,{D06 = 0:
+__system__??,{D02 \ 0:,{D02 \ 0:
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{DB = 1:,{DB = 1:
+narrator,［［　,［［　
+narrator,の戦略アルゴリズム終了　］］,の戦略アルゴリズム終了　］］
+__system__??,},}
+__system__??,{D02 = 0:,{D02 = 0:
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{D04 > 9:,{D04 > 9:
+__system__??,{DB = 1:,{DB = 1:
+narrator,［［　,［［　
+narrator,の,の
+narrator,回目（１－１）実行　］］ 総気力＝,回目（１－１）実行　］］ 総気力＝
+__system__??,},}
+__system__??,{DB = 1:,{DB = 1:
+__system__??,},}
+__system__??,} else if {DB = 1:,} else if {DB = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{D02 = 0:,{D02 = 0:
+__system__??,{(RND < 6) * (D04 \ 0):,{(RND < 6) * (D04 \ 0):
+__system__??,{DB = 1:,{DB = 1:
+narrator,［［　,［［　
+narrator,の,の
+narrator,回目（１－２）実行　］］,回目（１－２）実行　］］
+__system__??,},}
+__system__??,{DB = 1:,{DB = 1:
+__system__??,},}
+__system__??,} else if {DB = 1:,} else if {DB = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{D02 = 0:,{D02 = 0:
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{D04 < 10:,{D04 < 10:
+__system__??,{DB = 1:,{DB = 1:
+narrator,［［　,［［　
+narrator,の,の
+narrator,回目（２－１）実行　］］ 総気力＝,回目（２－１）実行　］］ 総気力＝
+__system__??,},}
+__system__??,{DB = 1:,{DB = 1:
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{D02 = 0:,{D02 = 0:
+__system__??,{(RND < 6) * (D04 \ 0):,{(RND < 6) * (D04 \ 0):
+__system__??,{DB = 1:,{DB = 1:
+narrator,［［　,［［　
+narrator,の,の
+narrator,回目（２－２）実行　］］,回目（２－２）実行　］］
+__system__??,},}
+__system__??,{DB = 1:,{DB = 1:
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{D02 = 0:,{D02 = 0:
+__system__??,{DB = 1:,{DB = 1:
+narrator,［［　,［［　
+narrator,の,の
+narrator,回目（２－３）実行　］］,回目（２－３）実行　］］
+__system__??,},}
+__system__??,{DB = 1:,{DB = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{D02 = 0:,{D02 = 0:
+__system__??,{R制御[D07] & 1:,{R制御[D07] & 1:
+__system__??,{(RND > 2) * (D08 = 0):,{(RND > 2) * (D08 = 0):
+__system__??,},}
+__system__??,},}
+__system__??,{DB = 1:,{DB = 1:
+__system__??,},}
+__system__??,{D06 > 5:,{D06 > 5:
+__system__??,},}
+__system__??,{DB = 1:,{DB = 1:
+__system__??,},}
+__system__??,{RND + D06 > 4:,{RND + D06 > 4:
+__system__??,{DB = 1:,{DB = 1:
+narrator,［［　,［［　
+narrator,の,の
+narrator,回目（３－１）実行　］］,回目（３－１）実行　］］
+__system__??,},}
+__system__??,{D06 < 5:,{D06 < 5:
+__system__??,},}
+__system__??,{DB = 1:,{DB = 1:
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{D02 = 0:,{D02 = 0:
+__system__??,{DB = 1:,{DB = 1:
+__system__??,},}
+__system__??,{D06 > 4:,{D06 > 4:
+__system__??,{DB = 1:,{DB = 1:
+narrator,［［　,［［　
+narrator,の,の
+narrator,回目（３－２）実行　］］,回目（３－２）実行　］］
+__system__??,},}
+__system__??,{DB = 1:,{DB = 1:
+__system__??,},}
+__system__??,},}
+__system__??,},}

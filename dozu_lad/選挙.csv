@@ -1,0 +1,830 @@
+character,Jap,Eng
+narrator,"キョウの政府中枢組織より、１２名の男達が 電車に乗って現れた。
+華やかな街の雰囲気とはそぐわない 一団だった。","12 men from the Central Government in Kyou were riding the train.
+ They felt completely out-of-place amidst the city`s bright atmosphere."
+senkyokanriiin (talking),さて、着いたぞ。,We`re here.
+senkyokanriiin (talking),ここがオオサカか…,So this is Osaka...
+senkyokanriiin (talking),君は、初めてか。,This your first time here?
+senkyokanriiin (talking),はい。,Yep.
+narrator,彼らは、選挙管理委員会。 公正に選挙が行われるように国から派遣された 者達である。,They were Election Officers. They were dispatched by the government to make sure the elections would be held fairly.
+senkyokanriiin (talking),情報では、地域管理組合が市議会を 攻撃し、市長を抹殺したとか…,"From what I`ve heard, a RMG attacked the Council and disposed of the mayor..."
+senkyokanriiin (talking),"事実だとしても、 それは我らには関係ない。
+我らは、新しい市長を公正に 選挙にて選ぶのみ。","Whether that`s true or not doesn`t matter to us.
+ What does is making sure the new mayor is elected fairly."
+senkyokanriiin (talking),民主主義の根幹ですな。,That`s democracy for you.
+senkyokanriiin (talking),"皆で選ぶ、多数決は絶対。 少数意見は無視。 それが選挙だ。
+では、さっそく選挙の準備に 取りかかろう。
+この地区の主立った地域管理組合を 集めて協力させるのだ。","The people vote, and the majority`s decision is absolute. The minority is ignored. That`s an election.
+ Now then, let`s get the preparations started.
+ Let`s have the RMG in charge of this region help."
+senkyokanriiin (talking),はい。,Alright.
+Seinendan Jyoshi (talking),悪司さーーん。,Akuji-saaaan.
+Yamamoto Akuji (talking),俺は小坊主さんかと思うような 呼ばれ方だな。 おう、どうした？,"I heard you already, no need to do that. So, what`s up?"
+Seinendan Jyoshi (talking),"大至急、市議会の方へ顔を出して 欲しいそうです。
+選挙管理委員会が、 キョウからきたらしいですよ。","They want you to head over to the City Council ASAP.
+ It seems the Election Officers are here from Kyou."
+Yamamoto Akuji (talking),とうとう、戦闘開始って訳か。 わかった、すぐ出る。,"So our next battle`s about to start. Got it, I`ll go now."
+narrator,封鎖されている為、人のいなくなって しまった市議会に、久々に人が集っていた。,Many people were gathered at the City Council for the first time since it was put on lockdown.
+Yamamoto Akuji (talking),んー。,Hmm.
+Momoyama Linda (talking),むっ。,Hrm!
+Yamamoto Akuji (talking),オース。,`Sup.
+Momoyama Linda (talking),ふんでちゅ。,Hmph.
+Yamamoto Akuji (thinking),かわいくねーなー…,(Not cute at all...)
+senkyokanriiin (talking),全員集まったようなので、 さっそく報告する。,"Seems like everyone`s here, so I`ll report right away."
+narrator,選挙管理委員が、その人だかりの 中央に立ち、パラリと書類を捲った。,The Election Officer stood in the center of the crowd and leafed through some papers.
+senkyokanriiin (talking),"オオサカ市の市議会壊滅につき、 新しい市長を決める選挙を行う事を、 ここに宣言する。
+当然、市長候補は女性だけだ。 女性ならば、誰でも立候補出来る。
+今週中に立候補者は、この臨時市議会に 立候補届けを提出する事。
+この間のみ、市の行政も、我々 選挙管理委員会が行う。 地域管理組合は、それに協力する事。
+では、選挙投票は１ヶ月後。 以上――。
+各地区、候補者に、その旨を 正確に伝達する事。
+それでは、解散。","Following the destruction of Osaka`s Council, I hereby announce elections for a new mayor.
+ Naturally, only women may run, and all women are eligible.
+ The candidacy form must be submitted to this interim Council within this week.
+ During this period only, we Election Officers shall administrate the city, with help from the RMGs.
+ Voting will be held a month from now. That`s all.
+ Each district and candidate must be accurately informed.
+ Dismissed."
+Yamamoto Akuji (talking),おい、今の覚えられたか？,"Hey, you got all that?"
+Seinendan Jyoshi (talking),大丈夫です。 今、詳しい書類を配布して もらいました。,Yeah. I got some papers explaining everything in detail just now.
+Momoyama Linda (talking),"今のうちに、せいぜい、王様気分を 満喫しておくことでちゅわ。
+新しい市長が決定したら、 お前の地区管理免許は剥奪 してもらうでちゅ。","Have fun feeling like some king while you still can.
+ As soon as a new mayor gets elected, I`ll have them revoke your RMG license."
+Yamamoto Akuji (talking),はいはい、そーだなー。 飴玉いるか？,"Yeah yeah, whatever. Here, want some candy?"
+Momoyama Linda (talking),いらないでちゅわ！！！,I DON`T!
+Yamamoto Akuji (talking),なんだい、人がせっかく、 可愛がってやろーと思ったのに。,"What, I even tried、 to be nice, too."
+Yamamoto Akuji (thinking),"さーて、いよいよ選挙かー。
+どうすんべー…俺の思い通りに 市議会を動かしてくれる人間が いいんだよな…それでいて、女でー…","(Now, it`s finally time for elections.
+ Hmm... I need someone who`ll move the Council how I want it to, and it has to be a woman.)"
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+__system__??,},}
+Kanbara Yuuko (talking),あーくん、お疲れ様ー。 お茶とーたこやきー。,"Good work, A-kun. Have some tea and takoyaki."
+Yamamoto Akuji (talking),………………,...
+Kanbara Yuuko (talking),なぁに？　青のりついてる？ さっき、つまみ食い しちゃったから~…,Yeees? Do I have something on my face? I did just have a snaaaack...
+Yamamoto Akuji (talking),決定。,I`ve decided.
+Kanbara Yuuko (talking),何　何？？,"Wha, whaaat?"
+Yamamoto Akuji (talking),夕子さん、俺の為に市長になってくれ。,"Yuuko-san, please become the mayor."
+Kanbara Yuuko (talking),へ？？？,Huh???
+Yamamoto Akuji (talking),市長は女で、それでいて、 俺の言う事をきく奴でないと 駄目なんだ。,I need a woman who can make the Council do what I want it to.
+Kanbara Yuuko (talking),"あーくんの言う事はきくけど、私、 市長なんて大役、無理よー… 普通の女なのに~…
+それに、政治って……どうするの？？","I understand what you`re saying, but I`m not fit to be mayor... I`m just a normal giiirl...
+ Also, I don`t know anything about politics!"
+Yamamoto Akuji (talking),その優しそうな雰囲気で、 民衆をメロメロにしてくれりゃー いいんだ。,"As long as you can win the public over with that kind attitude of yours, you`ll be fine."
+Kanbara Yuuko (talking),でも~…,Buuuut...
+Yamamoto Akuji (talking),"大丈夫だって。
+政治や経済、そんな事が本当に 分かる奴は、選挙に勝てないように なっているから。","It`ll be fine.
+ People who actually know about politics or the economy don`t win elections."
+Kanbara Yuuko (talking),それって、間違ってる…,That`s not right...
+Yamamoto Akuji (talking),民衆が求めてるのは、 第一にカリスマって事なんだよ。,Charisma is what makes people vote for someone.
+narrator,夕子に立候補してもらう事にした。,You`ve decided Yuuko will be a candidate.
+Takega Satsu (talking),悪司、茶を入れたぞ。 飲むか？,"Akuji, I`ve made some tea. Want some?"
+Yamamoto Akuji (talking),……………,...
+Takega Satsu (talking),なんだ？,What is it?
+Yamamoto Akuji (talking),決定。,I`ve decided.
+Takega Satsu (talking),キンドン大賞か？,To have some tea?
+Yamamoto Akuji (talking),違う、違う。 さっちゃん、市長になりな。,"Nah. Sacchan, become the mayor."
+Takega Satsu (talking),気でも狂ったか。,Have you gone mad?
+Yamamoto Akuji (talking),本気だよ。 さっちゃん、迫力あるから、 イケるんじゃねーか？,"I`m serious. You`ve got an intensity to you, Sacchan. Don`cha think it could work?"
+Takega Satsu (talking),しかし、政治などに興味は……,But I don`t care about politics-
+Yamamoto Akuji (talking),ＯＫ、決定ー！ 頼むぜ、さっちゃん。,"OK, it`s settled! Counting on you, Sacchan."
+Takega Satsu (talking),……どうなっても、知らんぞ…,...Don`t blame me if it goes wrong.
+__system__??,{RETURN = 1:,{RETURN = 1:
+narrator,殺に立候補してもらう事にした。,You`ve decided Satsu will be a candidate.
+__system__??,},}
+Momoyama Linda (talking),――という訳で、頼んだでちゅわよ、 和樹ちゃん。,"So, I`ll be counting on you, Kazuki-chan."
+Mizuumi Kazuki (talking),"は~~い☆ おっまかせー。
+あたし、頑張って市長に なりますね~。","`Kaaaay! Leave it to meeee.
+ I`ll do my best to become the mayor."
+Momoyama Linda (talking),"ＰＭが全面的にバックアップに 入るでちゅわ。
+だから、あなたの方も…","The PM will back you with everything we`ve got.
+ So you`d better-"
+Mizuumi Kazuki (talking),"ふふふふふふ。 いよいよあたしの野望を達成させる チャンスが巡ってきたのよ。
+市長になった暁には、オオサカ中の 女の子、すべて眼鏡装着義務！！
+右見ても左見ても、寝ても醒めても、 あたしの周りは、眼鏡っ娘~~♪
+ビバ権力☆ ビバ眼鏡っ娘~~~！！！ きゃ~~~~~~~！！！！！！","Heeheehee. I finally have a chance to realize my ambition.
+ Once I`m mayor, I`ll make all women in Osaka have to wear glasses!
+ I`ll be surrounded with glasses girls, day and night!
+ Viva political authority!  Viva glasses girls! Kyaaaaaaah!"
+Momoyama Linda (talking),人の話は最後まで聞くでちゅ！！,Listen to me until the end!
+Mizuumi Kazuki (talking),"はうーん！！
+え、え、なんですかぁ？","Hauuuugh!
+ Wh-What is it?"
+Momoyama Linda (talking),"………もういいでちゅ…
+とにかく、あなたも頑張って くだちゃい。","...Nevermind...
+ Anyway, I hope you put in the effort."
+Mizuumi Kazuki (talking),イエーーーーース！ バッチリですよーーー！,YEEEES! I`ll give it all I got!
+Momoyama Linda (thinking),"市議会を潰し、自分が権力を握るつもり だったんだろうでちゅけど…
+自分で自分の首を絞める結果に してやるでちゅわ、悪司。
+我がＰＭの支配力、そしてハニー土木の 営業力で、圧倒的な票数を集めて我々は 勝利するでちゅ。","(His plan was to crush the Council and seize power, but...
+ I`ll make it backfire on you yet, Akuji.
+ With the PM`s influence and Hanny Engineering`s marketing, we`ll secure a landslide victory.)"
+Isuzu Imari (talking),いよいよ来週ね。,"It`s finally next week, huh."
+Nakayama Taeko (talking),うん。,Yup.
+Isuzu Imari (talking),立候補の準備って、 結構色々大変だったね…,Preparing for candidacy sure was rough...
+Nakayama Taeko (talking),ごめんね。 伊万里ちゃん…関係ないのに、 巻き込んじゃって…,Sorry about that. I got you involved even though you have nothing to do with this...
+Isuzu Imari (talking),あ、ちがうの、そんなつもりじゃ… ただ、私達だけじゃなくって、助けて くれる人がいてよかったねって…,"Oh, no , I wasn`t complaining. I was just glad we had more people to help."
+Nakayama Taeko (talking),そうだね…立候補したいって言った時 先生達が助けてくれなかったら、 わたし、何も出来なかったかも…,"Yeah, if our teachers didn`t help when I said I wanted run for mayor, I don`t think I could`ve done anything."
+Isuzu Imari (talking),"うん……
+ …………
+急にいなくなったおばさんの 代わりの…なんだね… なんだか実感が…","Yeah...
+ ...
+ You`d be replacing your mom, who`s now gone... Feels hard to believe..."
+Nakayama Taeko (talking),"お母さんは、いなくなったんじゃない！ あの時、市議会を攻撃しにきたのは 奉仕青年団よ。わたしは見たもん。
+お母さんは奴らにさらわれたの！","She`s not gone! The YCSG were the ones who attacked the Council, I saw it!
+ She got captured by them!"
+Isuzu Imari (talking),"私は、多恵子ちゃんの事、信じる… でも、残念だけど、あの人達が やったっていう証拠がなくて…
+一般に出まわっている話じゃ、 悪党集団がやってきて、それを 退治したのが奉仕青年団だって…
+ ……そうなっちゃってるね…","I believe in you. But unfortunately, we have no proof of what they`ve done...
+ What the people were told was that the YCSG was there to subdue a criminal group...
+ Again, that`s only a cover-up..."
+Nakayama Taeko (talking),わたし…絶対、許さない…！ わたしが市長になって、奴らの事、 暴いてやるっ……,I`ll never forgive them! I`m gonna expose them all once I`m the mayor...!
+Isuzu Imari (talking),多恵子ちゃん……,Taeko-chan...
+Nakayama Taeko (talking),うっ……,Kh...!
+Isuzu Imari (talking),泣いちゃだめよ… 勝ってから、泣こうよ…,Don`t cry... Leave that for after you win.
+Nakayama Taeko (talking),うん……うん……,Yeah... I`ll do that...
+Isuzu Imari (talking),応援するよ。,I`ll be cheering for you.
+Nakayama Taeko (talking),うん……,Okay...
+ (talking),聞いたぞ、多恵子。 お前、市長に立候補するんだそうだな。,"I`ve heard it all, Taeko. So you`re running for mayor."
+Nakayama Taeko (talking),お…とうさん…,D-Dad...
+ (talking),"明里がいなくなってしまって どうしようかと思っていたが…
+お前が市長になれば、わしの権力は まだ維持出来る。
+そうすれば、裏金、利権、 すべて生かしておける事になる。 だから、多恵子…","I was wondering what I`d do when Akari disappeared...
+ If you become mayor, I can maintain my influence. 
+ In which case, I can keep my slush money and interests. So please, Taeko..."
+Nakayama Taeko (talking),黙って聞いていれば……！ お父さん、お母さんの事、 心配じゃないの！？,Shut up and listen to yourself! Aren`t you worried about mom?!
+ (talking),それは……,That`s...
+Nakayama Taeko (talking),"わたしが市長になるのは、 お父さんの為じゃない！ お母さんの為よ！！
+丁度いいわ… わたしが市長になったら、そーいう 悪い大人の風習も断ってやるっ…","I`m not becoming mayor for YOU, dad! I`m doing it for mom!
+ This is actually perfect. If I become mayor, I`ll make you stop all that bad stuff you do!"
+ (talking),多恵子……,Taeko...
+Nakayama Taeko (talking),……お父さんなんか… 大っ嫌い…！！,"I... I hate you, dad!"
+__system__??,{☆立候補 = 2:,{☆立候補 = 2:
+__system__??,},}
+__system__??,{☆立候補 = 1:,{☆立候補 = 1:
+__system__??,},}
+Seinendan Jyoshi (talking),このポスターは、あっちの地区で、 こっちは…,"This poster goes to this region, and that one..."
+Yamamoto Akuji (talking),おう、調子はどうだい？,"Hey, how`s it looking?"
+Seinendan Jyoshi (talking),おかえりなさい、悪司さん。 順調だと思います。,"Welcome back, Akuji-san. I think we`re doing fine."
+Yamamoto Akuji (talking),そーかい。 そりゃ、結構。,"Really. That`s good, then."
+__system__??,{RND \ 0:,{RND \ 0:
+Shimamoto Jun (talking),おかえりなさい。 若。,"Welcome back, Young Master."
+Yamamoto Akuji (talking),おう。 順調そーじゃねぇか。,`Sup. Seems things are going fine.
+Shimamoto Jun (talking),"そうですね。 選挙とは、住民の基盤に沿った地道な 活動が、身を結ぶもの。
+その基本さえ把握しておけば、 後は経済状態、天候――
+それらに柔軟に対処していけばよい、 ボードゲームみたいなものですから。","Indeed. Elections unite the people in accordance to their principles.
+ If you have a grasp on those, all that`s left are the economy and your momentum.
+ You only need to be flexible with those, and it`ll be like playing a game."
+Yamamoto Akuji (talking),そんな事言えるのは、 おめーさんぐらいなモンさ。,You`re the only guy who`d ever say that.
+Shimamoto Jun (talking),"そろそろ、住民をヒートアップさせる 為に、少し積極的な運動を行い、 スパイスにした方がいいかと。
+ ――それと、もうひとつ。 裏の選挙活動も、緻密に。","Things will heat up soon, so I suggest being as openly proactive as possible.
+ ...Or you could opt for some careful, under-the-table moves."
+Yamamoto Akuji (talking),そっちは、俺の管轄かな。,The latter`s my jurisdiction.
+Shimamoto Jun (talking),"そうですね。
+どちらも費用がかさみますが、 しない訳にはいきませんし。","Indeed it is.
+ Either will require money, but they`re indispensable."
+__system__??,},}
+__system__??,{☆立候補 = 1:,{☆立候補 = 1:
+Kanbara Yuuko (talking),うっ…あううう~~~~……,Ugh... auuuugh...
+Yamamoto Akuji (talking),夕子さん！？,Yuuko-san?!
+Kanbara Yuuko (talking),"つっ…
+つ~か~れ~た~~……ん……","I`m...
+ I`m sooo tiiiired..."
+Yamamoto Akuji (talking),ほれほれ。 潰れるな、こっちの椅子のあるとこで。,"There there. Here, take a seat."
+Kanbara Yuuko (talking),"あ~…ありがと、あーくん……
+はぁ~~… 握手って、た~いへん…
+こんなに手が痛くなるもんだなんて、 思ってもいなかった~…","Oh, thank you, A-kun...
+ Phew... Shaking hands is so tough...
+ I never thought it`d make my hands hurt this much..."
+Yamamoto Akuji (talking),"どれどれ。 あーあ、綺麗な手が、腫れちまって…
+すまんな、夕子さん。 俺の為に。","Lemme take a look. Oh man, your beautiful hands are swollen...
+ Sorry for making you do this for me, Yuuko-san."
+Kanbara Yuuko (talking),"あーくんの為に傷つく事なんて 慣れっ子だから、謝らなくていいのよ。
+でもね、甘えたいから~… 肩揉んで~。","I`m used to getting hurt for your sake, you don`t have to apologize.
+ But I want you to pamper meee... So rub my shouldeeers."
+Yamamoto Akuji (talking),はいはい。,Got it.
+__system__??,},}
+__system__??,{☆立候補 = 2:,{☆立候補 = 2:
+Yamamoto Akuji (talking),そーいえば、さっちゃんは？,"By the way, where`s Sacchan?"
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+Seinendan Jyoshi (talking),あの…縁側の方です。,Um... she`s outside.
+Yamamoto Akuji (talking),何やってんだ？,What`s she doing?
+Seinendan Jyoshi (talking),宿題しています…,Her homework...
+Yamamoto Akuji (talking),連れてこい。,Bring her here.
+Seinendan Jyoshi (talking),は、はい…,O-Okay...
+narrator,しばらくして…,After a while--
+Takega Satsu (talking),なんだ、人が宿題をしていると いうのに。,What is it? I was in the middle of doing homework.
+Yamamoto Akuji (talking),さっちゃん。 あんたは、市長立候補者だ。,"Sacchan, you`re a candidate for mayor."
+Takega Satsu (talking),それが？,And?
+Yamamoto Akuji (talking),今は、選挙運動中で、自分の事を 民衆にアピールする期間だ。,Now is the time to campaign and promote yourself to the people.
+Takega Satsu (talking),断る。,I refuse.
+Yamamoto Akuji (talking),そーいうう訳には……,We can`t have tha-
+Takega Satsu (talking),最初に言っただろう。 どうなっても、私の責任ではないと。,"I told you from the start, whatever happens is not on me."
+Yamamoto Akuji (talking),いや、だから……,"No, look-"
+Takega Satsu (talking),それでは、戻らせてもらうぞ。 今日の宿題は今日のうちに終わらせる 主義でな。,Then I`m going back. It`s my principle to get my homework done as soon as possible.
+Yamamoto Akuji (talking),"さっちゃ~~~~~~~~ん！！
+あ~~まったく！ じーさんとソックシだ、 ああいうとこよぅ！","SACCHAAAAAAAN!
+ Argh, dammit! That part of her is JUST like Gramps!"
+__system__??,},}
+haniidobokushain (talking),社長。 依頼された書類ですが、 がり版が出来あがりました。,"Boss, it`s about those papers you`ve requested. We`ve finished the mimeograph."
+Mizuumi Kazuki (talking),はーい、確認しまーす。,"Okaaay, I`ll check it out."
+narrator,和樹は手渡されたインクの匂いのする 藁半紙に目を通す。,"Kazuki looked at the sheet of straw paper she was given, which smelled of ink."
+Mizuumi Kazuki (talking),はい、超ＯＫ。 で、これの原版は、処分してくれてる？,"Okay, perfect. But did you get rid of the original version?"
+haniidobokushain (talking),はい。 シュレッダーにかけました。,"Yes, I put it through the shredder."
+Mizuumi Kazuki (talking),超ＯＫ、超ＯＫ~。 それじゃあ、給料明細に 同封しておいて。,Perfect~! Then put one of these in every pay slip.
+haniidobokushain (talking),わかりました。,Very well.
+narrator,"それは、和樹が書いたものだった。
+市長候補である和樹に有権者の家族を含め 全員投票すれば、ボーナス１０％アップと 書かれている。","It was something Kazuki had written.
+ If the employee and their whole family voted for Kazuki, they`d get a 10% bonus to their salary."
+Mizuumi Kazuki (talking),"あ、そーそー。 取引先にも連絡入れて下さいね~。
+投票してくれれば、お友達って訳なんで 取り引き続けさせてもらうけどー…
+そーじゃない場合はー 絶交だもーんって事で。","Oh, right. Please contact our clients as well.
+ If they vote for me, we`ll keep our deals going since we`ll be friends.
+ And if they don`t, we`ll no longer deal with them."
+haniidobokushain (talking),わかりました。 今のを原文とさせて頂き、ビジネス文と して起こし、発送いたします。,Very well. I`ll rewrite what you said in a formal manner and send it to them.
+Mizuumi Kazuki (talking),お願いね~~。,Please dooo.
+narrator,こうして、和樹は地域最大の企業という利点を 最大限に使い、瑞海和樹は支持層を固めて いった。,"Thus, Kazuki made the most of her business` influence, solidifying her support base."
+narrator,"選挙戦が始まって１週間が過ぎた時、 悪司陣営、和樹陣営をおびやかす存在が 突然立候補してきた。
+前市長の娘、中山多恵子だった。","One week after the election period had begun, a new candidate suddenly appeared, threathening both Akuji`s and Kazuki`s parties.
+ It was the mayor`s daughter, Nakayama Taeko."
+Nakayama Taeko (talking),"よろしくお願いします！ 母の跡を…
+ ――行方不明になった母の跡を継ぐ為、 立候補した、中山多恵子です！ 清き一票を、わたしに下さい！
+お願いします！","Please listen! I, Nakayama Taeko...
+ ...am running for mayor to succeed my missing mother! Please give me your vote!
+ Thank you!"
+narrator,"多恵子は集まった民衆に向かって、 健気に言った。
+そして、次々と握手していく。","Taeko spoke with courage, addressing the crowd that had gathered.
+ Then, she shook hands with every one of them."
+narrator,"多恵子は、自分でも言った通り、 「行方不明になった母の跡を継ぐ」 という事をウリにしている。
+戦争後、植民地になってしまい、 日々を薄暗い中で過ごしている住人に、 この美談はいい刺激になった。
+多恵子に、次々と握手を求める人々が増える。
+最初は老人が多かったが、最近では、 戦争未亡人にまで、その人気の層が 広がっていた。","Like she had just said, Taeko promoted herself by saying she would succeed her missing mother.
+ Her touching story resonated with the citizens, who`d been living dark days ever since Japan became Wime`s colony.
+ More and more people sought to shake hands with her.
+ At first, most of said people were the elderly, but recently, her popularity began spreading amongst war widows."
+Nakayama Taeko (talking),お願いしまーす！！,Thank you!
+narrator,多恵子は笑顔を絶やさず、 その民衆の思いに応えるよう、 きゅっと握手を交わし続けていた。,"With an unwavering smile, Taeko squeezed every hand she shook, as if responding to the citizens` support."
+Nakayama Taeko (talking),は~~~…,Phew...
+narrator,選挙事務所に入ると、多恵子はため息をつき、 椅子に座った。,"Back at her election office, Taeko sighed and sat on a chair."
+Isuzu Imari (talking),はい、お疲れさま。 お砂糖入りの麦茶よ。,Good work today. Have some tea with sugar in it.
+Nakayama Taeko (talking),あ…ありがと、伊万里ちゃん。 うれしー、幸せー。 甘いものが、躰にしみる~。,"Oh, thanks, Imari-chan. This is so gooood... I can feel the sugar in my veins..."
+Isuzu Imari (talking),あんまり、無理しちゃ駄目よ。 躰を壊してしまっては、 元も子もないんだから…,Don`t push yourself. There`s no point in any of this if you end up collapsing.
+Nakayama Taeko (talking),"うん、大丈夫。 だんだん、慣れてきてるから。
+わたし、絶対に負けないの。 倒れるのは、市長になってからでも いいんだし。
+まず、市長にならなくちゃ。 後はそれから…","Yeah, I`ll be fine. I`m getting used to it.
+ I will not lose. I`ll save collapsing for after I become the mayor.
+ But first, I gotta make it happen..."
+Isuzu Imari (talking),多恵子ちゃん……,Taeko-chan...
+narrator,多恵子が路上で応援運動をしている。,Taeko was campaigning on the streets.
+Nakayama Taeko (talking),お願いします！ お願いします！ 清き一票を、わたしに下さい！,Please! Please! I`m counting on your vote!
+ten'in (talking),頑張んなー！ 応援してるよー！,Do your best! I`m cheering for you!
+Nakayama Taeko (talking),ありがとうございます！ 頑張ります！！,Thank you so much! I`ll work hard!!
+narrator,多恵子が路上で選挙活動をしている。,Taeko was campaigning on the streets.
+Nakayama Taeko (talking),あの…お、お願いします！ わたしに清き一票を… お願い…します！,Um... p-please! I`m counting on your vote... Please!
+narrator,多恵子の真摯な声とは裏腹に、 道行く人の反応は、冷ややかだった。,"In contrast to Taeko`s earnest cries, the passerbys barely reacted to her."
+ten'in (talking),何が清き一票だい。,My vote? Fat chance.
+wakaishufu (talking),ええ、本当に…,"Yeah, same here."
+ten'in (talking),よくも恥ずかしくなくやってるわね。 変態淫乱娘なのにさ。,Doesn`t that perverted little slut have any shame?
+wakaishufu (talking),聞いた話なんだけど… 選挙事務所のすべての男の人と関係を 持っているらしいわよ……,"This is a rumor I heard, but apparently she`s sleeping with all the men in her office..."
+ten'in (talking),やだやだ。 これだから、最近の若い娘は……,"How awful. Girls these days, I swear..."
+Nakayama Taeko (talking),………っ……うっ……,...! Auuu...
+narrator,多恵子は零れそうになった涙を堪えていると…,Just as Taeko held back her tears--
+joshigakusei (talking),多恵子ちゃん、頑張って！ あたしは応援してるわよ！,"Hang in there, Taeko-chan! I`m on your side!"
+Nakayama Taeko (talking),あっ……ありがとう… ありがとう……,Ah! ...Thank you... Thank you...!
+Isuzu Imari (talking),よかったね、多恵子ちゃん…,"I`m happy for you, Taeko-chan."
+Nakayama Taeko (talking),伊万里ちゃん……,Imari-chan...
+Isuzu Imari (talking),さ、がんばろ…,Let`s do our best.
+Nakayama Taeko (talking),うん……ありがと……,Yeah... thanks.
+__system__??,{☆立候補 = 2:,{☆立候補 = 2:
+__system__??,},}
+__system__??,{☆立候補 = 1:,{☆立候補 = 1:
+__system__??,},}
+Yamamoto Akuji (talking),いよーぅす。,Yo.
+Seinendan Jyoshi (talking),あ、こんにちわ、悪司さん。,"Ah, hello, Akuji-san."
+Yamamoto Akuji (talking),まったく…まいったな…,"Damn, I`m fucked..."
+Seinendan Jyoshi (talking),どうしました？,What happened?
+Yamamoto Akuji (talking),これこれ。,This did.
+narrator,と言って、悪司はＢ５程の紙を見せた。,Akuji showed the girl a sheet of paper.
+Seinendan Jyoshi (talking),これ…… トトカルチョ表？？,This is... a list of of gambling odds??
+Yamamoto Akuji (talking),"おーそうだ。 競馬みたく、誰が市長になるかで賭場が 開いてて、そこからもらってきた。
+ダントツは、中山多恵子。","Yep. A gambling hall opened with bets on who`d become the mayor. I got this from there.
+ And Nakayama Taeko`s the clear favorite."
+Seinendan Jyoshi (talking),あ~…やっぱり…,"Ahh, I knew it..."
+Yamamoto Akuji (talking),やっぱり？,What do you mean?
+Seinendan Jyoshi (talking),"はい…最近、運動していても、 手応えがあまりないんです。
+この中山さんの選挙カーに すれ違うと、特に。
+向こうは、前市長の娘さんで、 母の跡を継ぐって事で、すごく今、 人気が高いんですよ。
+でも、わかりやすいですよね。 そういうのって…
+そこがまた、 受け入れられやすいのでは…","We haven`t been getting much of a reaction in our campaign lately.
+ Especially when compared to Nakayama-san`s.
+ She`s super popular right now, thanks to being the former mayor`s daughter and waiting to succeed her.
+ Still, it`s really to understand why...
+ It`s really easy to get behind her story."
+Yamamoto Akuji (talking),いやな誤算だ。,This is terrible miscalculation.
+Seinendan Jyoshi (talking),どうします？ このまま、同じ事を続けますか？,What will you do? Should we continue as we have?
+Yamamoto Akuji (talking),うーーん…,Hmmm...
+Yamamoto Akuji (thinking),"いっそ、母親と同じく、隠蔽するか？
+いや…… 今、隠蔽すると、色々とマズイな。 選挙管理委員会が見張ってる…
+うちは、今のまま続けるのが良策だ。 これをヘタにいじくっちまった方が、 バランスが悪くなるのは目に見えている。
+だとしたら……
+向こうに落ちてもらえばいいか。
+どーすればいいかな…
+んーー……
+んんんーーー……
+ ………………","(Should I also kidnap her?
+ Nah... that`d be real bad. The Election Officers are keeping watch.
+ Best to stay as we have. I can tell that otherwise, if we fuck up, we`ll be in deep shit.
+ In which case...
+ We just have to make our opponent fuck up.
+ How should I do this...?
+ Hmmm...
+ Hmmmmm...
+ ..."
+__system__??,{☆明里 \ 0:,{☆明里 \ 0:
+Haku Minka (talking),山本さん…,Yamamoto-san...
+Yamamoto Akuji (talking),ん？,Hm?
+Haku Minka (talking),多恵子ちゃん、出馬したんだよね。,"Taeko-chan became a candidate, no?"
+Yamamoto Akuji (talking),ああ。,She did.
+Haku Minka (talking),明里さんが心配しててさ。 そーいうの、あの子には無茶だって。,Akari-san`s worried. She thinks it`s too much for that girl.
+Yamamoto Akuji (talking),そっかー…おフクロさんが言うんだから、 ホント、無茶なんだろうなぁ…,"Right... if her mom says so, then it must be."
+__system__??,},}
+Yamamoto Akuji (talking),"そーいえば、あの小娘、鴉葉の事が 好きだとかなんだか噂を聞いた事が あるな。
+奴をけしかけてみるか。 鴉葉が危険な目にあっても、 俺は痛くもかゆくもないし。
+鴉葉に会うには……ん~… 家は知らねぇし……
+ ……市議会にいるかな？ 奴は、一応職員な訳だし。
+んでいなかったら、そこにいる奴 テキトーに掴まえて、奴の居場所を 聞けばいっか。
+行くんだったら、さっさと 行っといた方がいいかもな。 タイムリミットがある勝負だし。","Now that I think about it, I`ve heard rumors about that girl liking Karasuba.
+ I`ll have him go after her. It`s no skin off my back if he gets in trouble.
+ Where do I meet him? I dunno his address...
+ ...Maybe he`s at the Council? He IS an officer.
+ And if he isn`t, I can ask someone else there about his address.
+ If I`m going, I should go soon. Time`s not on our side here.)"
+Haku Minka (talking),悪司さん？,Akuji-san?
+Yamamoto Akuji (talking),ん、ああ。 俺達は、俺達のやり方で、 このまま続行だ。,"Ah, right. We`ll continue as we have. No changes."
+Haku Minka (talking),はい、わかりました。,"Okay, got it."
+Momoyama Linda (talking),………………,...
+Mizuumi Kazuki (talking),と、いう訳でー。 しおしおのパ~~なんです~~…,That is why... I`m soooo dejected!
+narrator,和樹はどうしても多恵子の人気に勝てず、 とほほ状態に陥っていた。,"Unable to defeat Taeko in popularity, Kazuki had fallen into a rather sad state."
+Momoyama Linda (talking),ハニー土木の力がこの程度 だったなんて。,So this is all Hanny Engineering`s influence can do?
+Mizuumi Kazuki (talking),"太刀打ち難しいですよ~。 向こうは、人情に訴えてますからね~。
+ああーーーん、 あたし眼鏡っ娘王国がー！","It`s hard to compete with her! She hits people in the feels!
+ Augh, my glasses girls kingdom is vanishing before my eyes!"
+Momoyama Linda (talking),"それはどうでもいいでちゅ。 問題はこの事実でちゅわ。
+ハイネ。","I don`t care about that. What matters is reality.
+ Haine"
+Hasekura Haine (talking),はい。,Yes?
+Momoyama Linda (talking),このまま負け馬にお金を使っても 無駄でちゅわね。,I`m not pouring any more money into a losing race.
+Hasekura Haine (talking),はい。,Very well.
+Momoyama Linda (talking),では、ＰＭは、和樹ちゃん擁立を 諦めまちゅ。,"So, the PM will stop backing Kazuki-chan."
+Mizuumi Kazuki (talking),ガーーーソ！！！ それはないでござるですわ~！,No waaaaay! You can`t do this to meeee!
+Momoyama Linda (talking),しかたないでちょう。 わたちはこのまま、負けたくないん でちゅから。,I have no choice. We don`t wanna be on the losing side here.
+Mizuumi Kazuki (talking),じゃーどーすんですか？ 選挙……,So what will you do about the elections?
+Momoyama Linda (talking),入ってもらって、ハイネ。,"Let her in, Haine."
+narrator,リンダがそう言うと、 ハイネは続きの間の扉を開けた。,"At Linda`s command, Haine opened the door to the adjacent room."
+Nakayama Taeko (talking),失礼します。,Please excuse me.
+Isuzu Imari (talking),お、お邪魔します……,P-Pardon my intrusion...
+Mizuumi Kazuki (talking),ぴっきーーーーん！！！,Pkyaaaaaah!
+Isuzu Imari (talking),……えっ……,Wha...?!
+Mizuumi Kazuki (talking),"ナイス、眼鏡っ娘ーーー！！ ブラボーーー！！
+あなた、ハニー土木に就職しない？ 今なら、社長秘書に――","NICE GLASSES GIRL! LOVELY!
+ Want a job at Hanny Engineering? I could make you my secr-"
+Momoyama Linda (talking),"黙っていてくだちゃい、和樹ちゃん。 話がややこしくなるでちゅわ。
+ＰＭは、こちらの中山多恵子さんを 支援する事にちまちた。","Please keep quiet, Kazuki-chan. This talk`s about to get serious.
+ The PM will now support Nakayama Taeko-san."
+Mizuumi Kazuki (talking),えー？？？,Huh??
+Momoyama Linda (talking),もう、本人とはそれで話が ついてまちゅ。,I`ve already discussed this with her.
+Isuzu Imari (talking),た、多恵子ちゃん…これって、 裏取引っていうんじゃ…,"T-Taeko-chan, is this some sort of backroom deal...?"
+Nakayama Taeko (talking),そうかもね。,Maybe.
+Isuzu Imari (talking),そ、そんな怖い事……,Th-That`s so scary...
+Nakayama Taeko (talking),"わたしは、どうしても 市長になりたいの。
+ ………軽蔑してもいいよ。 今ここで、縁切ってもいいよ。
+伊万里ちゃんまで危険な事、巻き込むの わたしだって、いやだから…","I want to become mayor no matter what.
+ ...I don`t mind if you hate me, or cut ties with me for this.
+ I don`t want to get you involved in something dangerous."
+Isuzu Imari (talking),……………,...
+narrator,伊万里は答える代わりに、僅かに震える 多恵子の手をきゅっと握った。,"Instead of replying, Imari squeezed Taeko`s trembling hands."
+Nakayama Taeko (talking),……………,...
+narrator,多恵子もそれに応え、伊万里の手を握る。 二人共、慣れぬ事に指先を冷たくしていた。,Taeko squeezed Imari`s hands back. Both  girls` fingertips were cold from the anxiety.
+Momoyama Linda (talking),"多恵子ちゃん、最後にもう一度、 確認させて頂くでちゅわ。
+あなたが市長になった時、 我がＰＭとの協調を約束して もらえるでちゅわよね？","Taeko-chan, let me confirm one last thing.
+ Do you promise to cooperate with the PM should you win the elections?"
+Nakayama Taeko (talking),――はい。,I do.
+Nakayama Taeko (thinking),"もう…後戻り出来ない…
+ …………お母さん… 弱くなるわたしの心……守って… お願い……","(There`s no turning back...
+ Mom... I`ve become  rotten... please watch over me...)"
+Nakayama Taeko (talking),"……わたし達の共通の敵は、 山本悪司です。
+わたしは、あいつをどうにでも出来るの だったら、なんだってするわ。","Our common enemy is the YCSG.
+ I`ll do anything to give him his just desserts."
+Momoyama Linda (talking),"すてきでちゅわ。 あたち、そーいう子、好きでちゅ。
+では、約束ちまちたよ。 我がＰＭは、全力をもって、 あなたが市長になる為に支援ちます。
+あなたは、それに応える働きを 期待してまちゅよ。","Wonderful. I like girls such as you.
+ It`s a promise, then. We, the PM, shall support your candidacy with all we have.
+ We expect you to live up to our efforts."
+Nakayama Taeko (talking),はい。,Very well.
+Nakayama Taeko (thinking),………お母さん……！！,(Mom...!)
+Mizuumi Kazuki (talking),リンダさーん…あの子…… あたしにくれませんかぁ？,Linda-san... Won`t you give me that girl?
+Momoyama Linda (talking),つるしまちゅわよ、和樹ちゃん。,"I`ll hang you, Kazuki-chan."
+narrator,こうしてＰＭが中山多恵子の 応援につく事となった。,"Thus, the PM started backing Nakayama Taeko."
+Momoyama Linda (talking),ハイネ、選挙の様子はどうでちゅか？,"Haine, how are the elections?"
+Hasekura Haine (talking),はい、現在のところ… 我が陣営の中山多恵子嬢が圧倒的な 支持率を誇っています。,"At the moment, our candidate, Lady Taeko, has an overwhelming advantage in ratings."
+Momoyama Linda (talking),今のまま進行すれば、 楽勝という訳でちゅわね。,"So we`ll win handily at this rate, right?"
+Hasekura Haine (talking),はい。,Indeed.
+Momoyama Linda (talking),このまま投票日を迎えたいでちゅわね。,Wish we could skip to the voting day.
+Hasekura Haine (talking),"リンダ様。
+和樹様は、立候補を取り消して いないようです。","Linda-sama.
+ It seems that Kazuki-sama has not canceled her candidacy."
+Momoyama Linda (talking),和樹ちゃんが？,Kazuki-chan?
+Hasekura Haine (talking),はい。,Yes.
+Momoyama Linda (talking),何を考えてるのでちゅかちら。 お馬鹿でちゅわ。 今からじゃ勝てないでちゅのに。,"What is she thinking? She can`t even win anymore, she`s so dumb."
+Hasekura Haine (talking),お茶のおかわりをお淹れしましょうか。,Would you like more tea?
+Momoyama Linda (talking),ありがとう、ハイネ。,"Yes. Thanks, Haine."
+Momoyama Linda (talking),……………,...
+narrator,"普段から釣り上がっているリンダの眉が、 １枚の写真を前に、今日は一段と 釣り上がっていた。
+それは、今、街中にばらまかれている、 多恵子のスキャンダル写真だった。","While Linda has always looked angry, the photo she was looking at made her look even angrier than normal.
+ It was one of Taeko`s candid photos that had been scattered across the city."
+Momoyama Linda (talking),なんでちゅか、このはれんち写真は。,What`s with this perverted photo?
+Hasekura Haine (talking),合成ではありません。,It is not a fake.
+Momoyama Linda (talking),"…………………
+なんて事でちゅかちら。 もっとも大事な時期に、こんな事を…
+もっとかちこい女だと思ってたん でちゅけど、この程度だったん でちゅわね。","...
+ I can`t believe this happened at such a crucial moment...
+ I thought she was more clever than this, but seems I overestimated her."
+Hasekura Haine (talking),この写真は広く配布されておりまして、 現在、多恵子嬢の人気は、坂を転がり 落ちている状態で。,"This photo`s been spreading all over Osaka, and as result, Lady Taeko`s popularity has gone downhill."
+Momoyama Linda (talking),"当たり前でちゅわね。 健気な市長の娘としてうっていたん でちゅから。
+だけど、これを逆手に取ることは 出来まちぇんか？
+誰かにハメられたとか、 そういった具合で…","Obviously so. She became popular thanks to her honesty and bravery.
+ However, can we not salvage this?
+ We could say she was set up, or that it`s fake..."
+Hasekura Haine (talking),本人が、この事について、 肯定しているそうです。,Lady Taeko herself has admitted to their veracity.
+Momoyama Linda (talking),"本物の馬鹿でちゅわね。 ついていい嘘と悪い嘘の区別も つかないなんて。
+困りまちたわね。","What a moron. She can`t even tell when she should be lying.
+ This sucks."
+Hasekura Haine (talking),はい。 このような状態でも、多恵子嬢には 勝って頂かなくてはいけませんから…,"Indeed. Lady Taeko must win, even in these conditions..."
+Momoyama Linda (talking),あたちの部下でちたら、 即効つるちてまちゅわ。,"If she were my subordinate, I`d hang her on the spot."
+Hasekura Haine (talking),本日は、選挙です。,The elections are today.
+Momoyama Linda (talking),そうでちゅわね。,Yeah.
+Hasekura Haine (talking),…………,...
+Momoyama Linda (talking),どこへ行ってちまったんでちゅかちら。 あの小娘は。,Now where could that girl have gone?
+Hasekura Haine (talking),どこに消えてしまったかは知りませんが、 今から姿を現しても勝ち目はありません。,"Even if we found her now, she has no chance to win."
+Momoyama Linda (talking),ハイネ。,Haine.
+Hasekura Haine (talking),はい。,Yes?
+Momoyama Linda (talking),各々の投票会場を今から爆破するでちゅ。,Go blow up all the voting sites.
+Hasekura Haine (talking),それは無理です。,That is impossible.
+Momoyama Linda (talking),じゃあ――,Then--
+Hasekura Haine (talking),オオサカには、現在選挙管理委員が 参っております。,The Election Officers are currently in Osaka.
+Momoyama Linda (talking),あんな三角イカ頭巾、 怖くないでちゅわ！,I`m not afraid of those squid-headed bozos!
+Hasekura Haine (talking),彼らは全員、国民武道大会優勝者です。,They`re all NMAT champions.
+Momoyama Linda (talking),えっ……,Huh...?
+Hasekura Haine (talking),下手に手出しをいたしますと、 こちらの身が危険です。,"If we attack them without thinking, we`ll be the ones in danger."
+Momoyama Linda (talking),"それは知りまちぇんでちたわ。 そういえば、ハイネもそれの 優勝者でしょう？
+ ……という事は、ハイネも、 あの三角イカ頭巾に……","I didn`t know that. Actually, weren`t you also one of its champions, Haine?
+ ...Which means, you were also one of those squid-"
+Hasekura Haine (talking),私には、桃山家をお守りするという 役目がございましたので、 辞退いたしました。,"As I had a duty to protect the Momoyama Family, I declined that position."
+Momoyama Linda (talking),そうだったんでちゅか。,So that`s how it is.
+narrator,多恵子は一人、自分の選挙事務所にいた。,Taeko was by herself in her election office.
+Nakayama Taeko (thinking),次はこっちを回って、それで……,"I`ll go here next, and then..."
+ (talking),ちわーーす。,Hiyaaaaa.
+Nakayama Taeko (talking),あ……はい？,Oh... hello?
+Haku Minka (talking),あ、中山多恵子ちゃんだよね？,"Ah, you`re Nakayama Taeko-chan?"
+Nakayama Taeko (talking),あ、はい、そうですが……？,"Um, yes, what about it...?"
+Haku Minka (talking),んーとね、ちょっときて欲しいんだけど。,"Well, I`ve something to tell you."
+Nakayama Taeko (talking),………？,...?
+Haku Minka (talking),んーー……なんて説明したら いいのかなー… 困っちゃったなー……,"Hmmm, how should I explain this...? This is difficult..."
+Nakayama Taeko (talking),あ、あの……？,U-Um...?
+Haku Minka (talking),"えーい、率直に言うわ。
+あのね、あんたのお母さんの事。","Fine, I`ll be straight with it.
+ It`s about your mom."
+Nakayama Taeko (talking),え……！！,Huh?!
+Haku Minka (talking),しー！　しーー！！　しーーー！！！,Shh! Shhhhhh!!
+narrator,民華は多恵子の口を手で塞いだ。,Minka covered Taeko`s mouth with her hand.
+Haku Minka (talking),"あたしもあんましいい事してるって気は しないんだけど……
+あんたの選挙演説聞いちゃったら、 山本さんの提案のるっきゃ なかったんだよー。","I don`t feel like I`m doing something good, either, but...
+ After I heard your campaign speech, I had no choice but to go with Yamamoto-san`s proposition."
+Nakayama Taeko (talking),山本さんっ……て……,Yamamoto-san? You mean-
+Haku Minka (talking),あんたが目の仇にしてるっていう 人の事だよ。,"Yes, I`m talking about that guy your really hate."
+Nakayama Taeko (talking),奉仕青年団のっ…！！,The man from the YCSG...!
+Haku Minka (talking),"うん、あの人の事。 だけど、あんたを騙そうっていう気は あたしにはないよ。
+お母さん、今、うちにいるんだ。 会いたくない？","Yeah, that guy. But I have no intention of tricking you.
+ Your mom`s at my house now. Don`t you wanna meet her?"
+Nakayama Taeko (talking),え……？,What...?
+Haku Minka (talking),あたしが今言った事は、ホント。 だからこれは、山本さんにとっちゃ、 すんげー不利な事言ったの。,"I`m telling the truth, which is something super inconvenient to Yamamoto-san."
+Nakayama Taeko (talking),……………,...
+Haku Minka (talking),信じるか信じないかは、 あんた次第だけど……どうする？,It`s up to you whether or not to believe in me... Well?
+Nakayama Taeko (talking),………………,...
+Nakayama Taeko (talking),……こ……こ？,...Here?
+Haku Minka (talking),そう、あたしんち。 今は、あんたのお母さんが住んでる。,"Yep, that`s my place, and where your mom`s living at the moment."
+Nakayama Taeko (talking),……嘘じゃ…ないよね？,"It`s not a lie, right...?"
+Haku Minka (talking),嘘、苦手だもん。,I`m bad at lying.
+Nakayama Taeko (talking),……………,...
+Haku Minka (talking),一緒に入ろう。 そしたら仮に、山本さんが何かしようと してても、何も出来ないっしょ？,"Let`s go in together. That way, Yamamoto-san won`t be able to do anything even if he wanted to."
+Nakayama Taeko (talking),う、うん……,O-Okay...
+narrator,多恵子は恐々、民華と一緒に店内に入った。,Taeko nervously entered the shop with Minka.
+Nakayama Akari (talking),ま……まあ！！,O-Oh my!
+Nakayama Taeko (talking),"っ……おっ……
+お母さんっ……！！","...Ah...!
+ Mom...!"
+Nakayama Akari (talking),まあまあ…多恵子ちゃん……,"Oh my, Taeko-chan..."
+Nakayama Taeko (talking),お母さん……本当に、お母さんなの！？,Mom... is that really you?!
+Nakayama Akari (talking),多恵子ちゃんこそ……,I could say the same to you...
+Nakayama Taeko (talking),うっ……,Wah...!
+Nakayama Akari (talking),寂しかったでしょう？,"You were lonely, weren`t you?"
+Nakayama Taeko (talking),うわぁぁぁっ………！！！,WAAAAAAAAH!!!
+narrator,多恵子は泣きながら、明里に抱きついた。,Taeko clung to Akari as she cried.
+Haku Minka (talking),多恵子ちゃん、これ食べてごらん。,"Try having this, Taeko-chan."
+narrator,民華が差し出したのは、野菜炒めだった。 火加減に失敗したらしく、少し水分が多い。,Minka gave her some stir-fried vegetables. They seemed to be a little mushy.
+Nakayama Taeko (talking),これ……,Is this...
+Haku Minka (talking),あんたのお母さんが作ったんだよ。,Your mom made them.
+Nakayama Taeko (talking),え……でも、お母さん、料理は…,What? but mom can`t cook...
+Nakayama Akari (talking),ここにきてから習ってるのよ。 少しは上達したのよ。,"I`ve been learning since coming here, and I`ve gotten a bit bitter."
+Nakayama Taeko (talking),"……いただきます……
+ ……ぱく……
+ ……しょっぱい……","...I`m digging in...
+ ...Nom...
+ ...Salty..."
+Nakayama Akari (talking),あ、あら、そうだった？ やだ、塩加減、間違えちゃったかしら…,"O-Oh, really? Shoot, did I mess up my seasoning...?"
+Nakayama Taeko (talking),"でも……
+でも、美味しい…… 美味しいよ……お母さん……","But...
+ It`s tasty... It really is, Mom..."
+Nakayama Akari (talking),"まあ、この子ったら……
+ ……そういえば、多恵子ちゃん、あなた、 市長に立候補しているって、本当？","Oh, you...
+ ...By the way, is it true that you`re running for mayor?"
+Nakayama Taeko (talking),うん……,Yeah...
+Nakayama Akari (talking),降りる気ない？,Don`t you wanna step down?
+Nakayama Taeko (talking),え……,Huh...?
+Nakayama Akari (talking),"だって……私を見つける為に 市長になるって聞いたから…
+あなた、私に似てるから、 政治の汚い世界でのやりとり、 向いてないわ。","I mean, I heard you were running for mayor in order to find me...
+ You take after me, so you`re not made for the dirty world of politics."
+Nakayama Taeko (talking),それは……,That`s...
+Nakayama Akari (talking),そーいうのは、慣れている人達に 任せればいいのよ。,You ought to leave that stuff to people who know all about it.
+Nakayama Taeko (talking),……………,...
+Haku Minka (talking),"ねえ……あんたがよかったら… なんだけど……
+あんたもお母さんと一緒で、 行方不明にならない？","Hey, if this is alright with you...
+ How about you go missing along with your mom?"
+Nakayama Taeko (talking),えっ！？,Huh?!
+Haku Minka (talking),で、ここで、市長の娘に似た子って事で 働くのってどうかな？,What about working here as a girl who looks like the mayor`s daughter?
+Nakayama Taeko (talking),いい……の？,Is that fine...?
+Haku Minka (talking),"ここ、今、明里さん一人で暮らしてんだ。 だから気兼ねしなくていいよ。
+ただ、お嬢様には狭いし、汚い家だから…","Akari-san`s living here by herself, so you don`t need to feel reserved.
+ But it might be too small and dirty-"
+Nakayama Taeko (talking),大丈夫！ だって…お母さんと二人でしょう？,"That`s alright! After all... I`d get to be with Mom, right?"
+Haku Minka (talking),うん。,Yep.
+Nakayama Taeko (talking),だったら、わたし、ここにいる！,Then I`ll stay here!
+Nakayama Akari (talking),多恵子ちゃん……,Taeko-chan...
+Nakayama Taeko (talking),立候補も取り消す！ ううん、いなくなるんだったら、 自動的に立候補は取り下げられるよね？,"I`ll quit running for mayor! Or rather, I`ll be disqualified anyway if I go missing, right?"
+Nakayama Akari (talking),そうなるわね……,That`s right...
+Nakayama Taeko (talking),わたし、ここにいる。 いさせて下さい。 お願いします！！,"I`ll stay here. Let me stay here, please!"
+Haku Minka (talking),うん、いーよ。 あたし、民華っていうの。 よろしくー。,That`s all fine by me. My name`s Minka. Nice meeting you.
+Nakayama Taeko (talking),はい、民華さん。,"Same here, Minka-san."
+Nakayama Akari (talking),でも……パパを一人にしておく事に…,But we`ll be leaving Daddy alone...
+Nakayama Taeko (talking),パパなんかどうでもいいわ！ 二人で暮らしましょ、お母さん！,"I don`t care about Daddy! Let`s live together, Mom!"
+Nakayama Akari (talking),多恵子ちゃん…,Taeko-chan...
+Nakayama Taeko (talking),お母さんっ…！！,Mom...!
+Yamamoto Akuji (talking),ナイス・ファインプレー。,Nice. Well played.
+Haku Minka (talking),んー…,Hmm...
+Yamamoto Akuji (talking),後悔してるかい？,Are you regretting it?
+Haku Minka (talking),"ううん。 そんな事するんだったら、 あたしから説得に行くなんて言わないよ。
+あの二人が離れ離れになっているの、 気の毒だって思ってたしさ。
+市長さんにお店任せてんだからさー。 そこに一人増えたって。","Nope. If I was gonna be like that, I would`ve never tried to persuade you.
+ I felt sorry for how they were forced apart.
+ I left the Mayor in charge of the store, and now she has help."
+Yamamoto Akuji (talking),……あんがとな…,...Thanks...
+Haku Minka (talking),いーえ、どーいたしまして。,"Nah, don`t mention it."
+Yamamoto Akuji (talking),惚れ直したぜ。,I`m falling for you again.
+Haku Minka (talking),な、何言ってんの、もう……,"G-Geez, what`re you saying...?"
+Momoyama Linda (talking),"なっ……
+なんでちゅって~~~？？？？ 中山多恵子が行方不明ーー！！？？","Wha-
+ WHAT DID YOU SAY?! Nakayama Taeko has disappeared?!"
+Hasekura Haine (talking),はい。,Yes.
+Momoyama Linda (talking),そ、そんな馬鹿な…… じゃあ、選挙は……,"Th-That can`t be... Then, the elections will-"
+Hasekura Haine (talking),こちらの陣営の立候補者はゼロと なりましたので、奉仕青年団側の 立候補者が当選いたしますと…,"Our party now has no candidate, so if the YCSG`S cadidate were to win..."
+Momoyama Linda (talking),……あ、悪司のせいでちゅわね……,"A-Akuji is behind this, isn`t he?"
+Hasekura Haine (talking),恐らく。,Most likely.
+Momoyama Linda (talking),むっ……むっきーーーーー！！！！ 誰か悪司を吊るしてしまう でちゅよーーー！！！！,G-GRAAAAAAAHHHH!!! Someone go hang Akuji!!!
+narrator,そして、選挙当日が来た。,It was finally election day.
+narrator,"悪司は投票所にやってきた。
+人の列に紛れ進んでいくと、 投票用紙を手渡された。","Akuji went to a polling station.
+ After standing in line, he was given his ballot paper."
+Yamamoto Akuji (thinking),さーて、誰に入れるか……,"(Now, who to vote for...)"
+narrator,どの人が市長になれば良いと思いますか？ よく考えて投票して下さい。,Who will you vote for? Please think your vote through.
+__system__??,{☆立候補 = 1:,{☆立候補 = 1:
+menu_label__(L_048a1),神原夕子,”Yuuko”
+__system__??,},}
+__system__??,{☆立候補 = 2:,{☆立候補 = 2:
+menu_label__(L_048a1),岳画殺,”Satsu”
+__system__??,},}
+menu_label__(L_0493a),北条政子,北条政子
+__system__??,{☆明里 < 3:,{☆明里 < 3:
+menu_label__(L_0493a),中山多恵子,”Taeko”
+__system__??,},}
+menu_label__(L_0493a),瑞海和樹,”Kazuki”
+Yamamoto Akuji (thinking),とーぜん、味方に入れなきゃな。 俺の為だからよ。,"(Obviously, I`ll vote for my candidate.)"
+narrator,悪司は,Akuji selected
+__system__??,{☆立候補 = 1:,{☆立候補 = 1:
+narrator,夕子,Yuuko`s
+__system__??,},}
+__system__??,{☆立候補 = 2:,{☆立候補 = 2:
+narrator,殺,Satsu`s
+__system__??,},}
+narrator,の名を書き、投票した。,name and cast his vote.
+Yamamoto Akuji (thinking),さーて、結果は見てのお楽しみ…か。,(Now to wait for the results.)
+Yamamoto Akuji (thinking),誰も入れてやってねーんだったら 可哀想だからな…ここはひとつ、 余裕のあるとこを見せるか。,Even I`d feel bad if nobody voted for her... Guess I`ll show how confident I am.
+narrator,悪司は、自分の陣営以外の候補者の 名前を書き、投票した。,Akuji wrote down the name of a rival candidate and cast his vote.
+Yamamoto Akuji (thinking),さーて、後は寝て待つか。,Now to wait for the results.
+narrator,そして、その日の夕方。 投票結果を聞く為、関係者が市議会へと 集まっている。,Evening of that same day. All participants had gathered at the City Council for the election result announcement.
+Momoyama Linda (thinking),やっと、悪司の吠え面を見る事が 出来まちゅわ。 さっさと発表して欲しいでちゅ。,(I`ll finally be able to see Akuji`s face when he loses. Hurry up and announce the results.)
+__system__??,{☆人気／多恵子 \ 0:,{☆人気／多恵子 \ 0:
+Nakayama Taeko (thinking),受かっていますように… 受かっていますように……,(Please let me win... Please let me win...)
+__system__??,},}
+Mizuumi Kazuki (thinking),ああ~ん、さよなら… あたしの眼鏡っ娘王国……,"(Ahh... Farewell, my kingdom of glasses girls...)"
+__system__??,{☆立候補 = 1:,{☆立候補 = 1:
+Kanbara Yuuko (talking),ごめんね、あーくん…,"I`m sorry, A-kun..."
+Yamamoto Akuji (talking),結果発表の前から弱気になって どーすんだよ、夕子さん。 大丈夫だって。,Don`t act like you`ve lost before the results are out. It`ll be fine.
+Kanbara Yuuko (talking),ああーん… こんなに緊張した事ないわ~…,Aaah... I`ve never been this anxious befoooore...
+__system__??,},}
+__system__??,{☆立候補 = 2:,{☆立候補 = 2:
+Takega Satsu (talking),悪司。,Akuji
+Yamamoto Akuji (talking),なんだ？,Yeah?
+Takega Satsu (talking),これで私が当選していたら、 オオサカ住民は皆マゾヒストと いう事になるのか？,"If I win, does that mean the people of Osaka are all masochists?"
+Yamamoto Akuji (talking),………あんまし考えたくねーなー…,...I don`t wanna think about it.
+__system__??,},}
+narrator,"人々のざわめきが消えていく。
+人々の輪の中央に、選挙管理委員達が 入ってきたからだ。
+その手には結果書類があった。","The noise quieted down.
+ The Election Officers now stood in the middle of the crowd.
+ They were holding the election results."
+senkyokanriiin (talking),投票の結果、次期市長が決定した。,The next mayor has been elected.
+__system__??,{(☆立候補 = 1) * (☆人気／多恵子 < ☆人気／夕子):,{(☆立候補 = 1) * (☆人気／多恵子 < ☆人気／夕子):
+__system__??,},}
+senkyokanriiin (talking),厳選な投票の結果、オオサカ市の 新市長は、中山多恵子に決定。,"After a close race, Osaka`s new mayor shall be Nakayama Taeko."
+Yamamoto Akuji (talking),なっ……！！,Wha-!
+Nakayama Taeko (talking),え………,Eh...
+Isuzu Imari (talking),きゃーーー！ やった、やったわ！ おめでとう、多恵子ちゃん！,"Kyaaaah! Hooray, you did it! Congrats, Taeko-chan!"
+Nakayama Taeko (talking),い、伊万里ちゃん… わたし……,I-Imari-chan... I...
+Isuzu Imari (talking),決定よ、市長は、多恵子ちゃんよ！,"You`re the Mayor, Taeko-chan!"
+Nakayama Taeko (talking),夢…じゃないわよね？,"I`m not dreaming, am I...?"
+Isuzu Imari (talking),違うよ、夢じゃないわよ！,This isn`t a dream!
+Nakayama Taeko (talking),うっ……,Uuu...!
+Isuzu Imari (talking),きゃーー！！,Kyaaaaah!
+Yamamoto Akuji (talking),んな…バカな……,Wha... That can`t be...
+narrator,"数日後――
+市長の椅子には、多恵子が座っていた。 その横に伊万里が立っている。","A few days later--
+ Taeko sat on the mayor`s chair. Imari stood beside her."
+Isuzu Imari (talking),あ、あの、多恵子ちゃん…,"U-Um, Taeko-chan..."
+Nakayama Taeko (talking),何？,Yes?
+Isuzu Imari (talking),わ、私が、副市長だなんて… そんな……いいの？,I-Ist it fine for me to be the vice-mayor...?
+Nakayama Taeko (talking),"うん、伊万里ちゃんがいいの。 伊万里ちゃんだったら信用出来るし…
+それに、わたしが駄目になったら 叱ってくれるもの。","Yep, it is. I know I can trust you, Imari-chan.
+ And I know you`ll set me straight if I mess up."
+Isuzu Imari (talking),…………多恵子ちゃん…,...Taeko-chan...
+Momoyama Linda (talking),おめでとうでちゅわ、新市長。,"Congratulations, Mayor."
+Nakayama Taeko (talking),ありがとうございます。,Thank you very much.
+Momoyama Linda (talking),さっそくでちゅが。 こちらの準備は整いまちたでちゅわ。,Let`s cut to the chase. My group is all ready.
+Nakayama Taeko (talking),こちらももう、書類は完成しています。 これが…市長としての、わたしの 最初の仕事…,And the documents are in order. This shall be my first job as the new mayor...
+Isuzu Imari (talking),た、多恵子ちゃん、何を……,"T-Taeko-chan, what do you-"
+Nakayama Taeko (talking),山本悪司の… 奉仕青年団の、解散命令よ。,"These are orders to dissolve the YCSG, Yamamoto-san`s group."
+Isuzu Imari (talking),えっ……,Eh?!
+Nakayama Taeko (talking),これに抵抗すれば、全面攻撃。 場合によっては懲罰警察を派遣するの。,"If they resist, I`ll even get the Punitive Police involved if I must."
+Isuzu Imari (talking),……………,...
+Momoyama Linda (talking),"市長選挙といっても、 実質は戦争でちゅ。
+負ければ賊軍として扱われても しかたないでちゅわ。","These elections were effectively a war between our groups.
+ It`s only natural the loser would then be treated as a rebel group."
+Nakayama Taeko (talking),治安課で押さえこめなかった その時は――,If the Public Order Bureau is unable to suppress them...
+Momoyama Linda (talking),わかってまちゅ。 我がＰＭの全軍が、悪司に向かって 攻撃しまちゅ。,I`m aware. All of the PM`s forces will attack Akuji.
+Nakayama Taeko (talking),"悪司…… わたしのお母さんをさらった、酷い人…
+お母さんの…わたしの苦しみ…… 今、倍にして返してやるっ…！","Akuji... That monster who abducted my mom...
+ I`m gonna pay him back for our suffering tenfold!"
+narrator,こうして、悪司率いる奉仕青年団は 壊滅された。,"Thus, the YCSG Akuji led was destroyed."
+ (talking),厳選な投票の結果、オオサカ市の 新市長は、神原夕子に決定。,Osaka`s new mayor shall be Kanbara Yuuko.
+Yamamoto Akuji (talking),よし、やったぞ、夕子さん！！,"Alright! You did it, Yuuko-san!"
+Kanbara Yuuko (talking),え… あ…… きゃ~~~~！！,What... Ah... Kyaaaaaaaah!
+__system__??,{☆人気／多恵子 \ 0:,{☆人気／多恵子 \ 0:
+Nakayama Taeko (talking),うっ……！！,Kh...!
+Isuzu Imari (talking),あ…多恵子ちゃん！！,Ah... Taeko-chan!
+narrator,泣きながらその場を後にした多恵子を、 伊万里は追いかける。,"Taeko left crying, with Imari running after her."
+__system__??,},}
+senkyokanriiin (talking),"それでは、これが証明書だ。 そして市長印鑑に――
+市長の役目、市長の仕事、市長の心得の ３冊のマニュアル。 よく読んでおくように。
+そして一週間以内に市議会を発足させ、 市の運営を始めるように。","Now then, here`s your certificate, as well as the mayor`s stamp.
+ Here are manuals on the mayor`s role, duty, and guidelines. Please read them thoroughly.
+ You have one week for your inauguration, and to begin your work.。"
+Kanbara Yuuko (talking),は、はい、わかりました。,"Y-Yes, I understand."
+senkyokanriiin (talking),選挙は終わった。 我々の役目はこれまでだ。 では失礼。,"The election is over. Our job here is finished. Now then, if you`ll excuse us."
+narrator,そう言うと、選挙管理委員会の連中は、 そこから立ち去った。,"Having finished saying their piece,  the Election Officers all left."
+Kanbara Yuuko (talking),はあ~~……,Haaaah...
+Yamamoto Akuji (talking),今までご苦労さんだったな、夕子さん。,"Thanks for all your work, Yuuko-san."
+Kanbara Yuuko (talking),あーくん… 私…不安だわ……,A-kun... I`m so anxious...
+Yamamoto Akuji (talking),夕子さんは誰からも好かれるから、 あんたの為に働いてくれる奴は いっぱい出てくるよ。,"You`re more favored than anyone else, so many people will be willing to work for you."
+Kanbara Yuuko (talking),そーかしら……,I wonder about that...
+shigikaishokuin (talking),あの…神原市長、よろしいですか？,"Um, Mayor Kanbara, do you have a moment?"
+Kanbara Yuuko (talking),あ、はい、私の事ね。,"Ah, yes."
+shigikaishokuin (talking),"あの…これから大変だとは思いますが、 よろしくお願いします…
+あ、あの、ボク、選挙で神原市長に 投票させてもらいました。 一緒に仕事出来るの、嬉しいです。","Um... While I`m sure it`ll be tough, I`ll be in your care...
+ U-Um, I voted for you in the elections. I`m really happy to be able to work with you."
+Kanbara Yuuko (talking),あら~…… そんな事言われると、照れちゃうわ…,My... That makes me feel kinda embarrassed...
+shigikaishokuin (talking),それでは、さっそく、市長室の方へ お願いします。,"Now then, allow me to guide you to your office."
+Kanbara Yuuko (talking),はい、わかりました…… あ、あーくん。,"Okay, please do. Oh, A-kun."
+Yamamoto Akuji (talking),ん？,Hm?
+Kanbara Yuuko (talking),私がいないからって、寂しくて 夜泣きしちゃだめよ。,"Please don`t cry just because I`m not with you anymore, okay?"
+Yamamoto Akuji (talking),しねーって、そんなモン。,As if I`d do that.
+Kanbara Yuuko (talking),遊びにきてくれる…？,Will you come play...?
+Yamamoto Akuji (talking),ああ、もちろん。 だから安心して行ってきな。,"Of course. So go on, and don`t worry."
+Kanbara Yuuko (talking),うん… じゃあね。,Okay... See ya.
+Yamamoto Akuji (talking),おう。,Yeah.
+narrator,こうして夕子は市長となり、奉仕青年団の 戦闘員からはずれる事になった。,"Thus, Yuuko became the mayor and left the YCSG."
+__system__??,{☆立候補 = 1:,{☆立候補 = 1:
+Kanbara Yuuko (talking),という感じで~………,"So, like thaaaat..."
+narrator,夕子が街頭演説をしている。 のんびりとした口調の為か、聞いている人は、 皆、ほのぼの顔になっている。,"Yuuko was giving a soapbox speech. Perhaps owing to her relaxed atitude, her audience watched her warmly."
+Kanbara Yuuko (talking),"難しい事は、私もよくわからないん ですけど~…
+でも、一番必要なのは、屋根の下で 暖かいご飯を食べる事だと思うのでー…
+そーいう家庭が増えたらいいなーと 思いますー。","I don`t understand the complicated stuff myseeelf...
+ But having food and a home is what`s most important...
+ I`d like for more families to live like that."
+narrator,"夕子はそう言うと、ぺこりと頭を下げた。
+聞いていた人は、ほのぼのと拍手した。","After finishing her speech, Yuuko bowed.
+ The audience gave her a round of applause."
+__system__??,},}
+__system__??,{☆立候補 = 2:,{☆立候補 = 2:
+Takega Satsu (talking),"哀れな敗戦国の人間よ。
+その耳垢の詰まった耳の穴をそのままに しておくのも、掃除するのも、本人の 自由だ。
+この国が瀕している危機を、誠の意味で 理解しうる者が、不幸であり、また、 次を担う者だろう。
+その中の一人である事の不幸を憂う事 なく、歩む者が多くなれば、この国も 変わるだろう。
+未来は自分達の手にかかっている事を 理解出来ぬ者は――
+その場でうずくまり、嵐の過ぎるのを 待ったまま、屍になるといいだろう。
+ ――以上。","Heed me, you poor, defeated people.
+ It`s up to each individual to either clean up their mess or leave it as it is.
+ Those who truly understand the crisis we are facing are unfortunate, yet saddled with carrying it on.
+ As one of its people, if you worry not about misfortune and walk together, this country can change.
+ If you cannot understand that the future is in your own hands--
+ Then you shall perish, as if waiting for a storm to pass while in it.
+ That is all."
+narrator,人を馬鹿にしているのか励ましているのか わからない殺の演説に、聴衆は首をひねる ばかりだった。,"Unsure whether Satsu`s speech was ridiculing or encouraging them, the audience could do nothing except tilt their heads quizzically."
+__system__??,},}
+Elite Yakuza (talking),そういう事で、今度の選挙では 何卒よろしくお願いします。,"So, we`ll be counting on you for the upcoming elections."
+seinen (talking),わかりました。 こちらも家族で、奉仕青年団の バックアップをします。,Got it. Me and my family will all suport the YCSG.
+Elite Yakuza (talking),では、,Then
+__system__??,{☆立候補 = 1:,{☆立候補 = 1:
+Elite Yakuza (talking),神原夕子,Kanbara Yuuko
+__system__??,},}
+__system__??,{☆立候補 = 2:,{☆立候補 = 2:
+Elite Yakuza (talking),岳画殺,Takega Satsu
+__system__??,},}
+Elite Yakuza (talking),に一票、お願いします。,will have your votes.
+seinen (talking),はい、わかりました。,"Yeah, I will."
+Elite Yakuza (talking),これを――少しですが、お食事代にでも して下さい。,"Here, get your wife a little present."
+seinen (talking),あ、これはすみません。 ありがたく頂戴します。,"Ooh, thanks. I`ll take it."
+narrator,"悪司の部下が手渡した封筒の中には、 ５００万円、入ってた。
+こうして悪司陣営は裏金をバラまきながら 票の獲得運動にはげんでいた。","Akuji`s subordinate handed over an envelope with 5000k yen in it.
+ With this, Akuji`s party successfully bought some votes."
+narrator,シーネルの元に選挙管理委員会が来た。,An Election Officer was meeting with Seanel.
+senkyokanriiin (talking),"それではこれより、ニホン国法に 基づいた選挙を行います。
+その為、多少、ご不便されるかも しれませんが、了承頂けますか？","From today on, in accordance to Japanese Law, we`ll be holding elections.
+ As such, while it may be an inconvenience, may I have your approval?"
+Seanel Br (talking),"わかった。 つつがなく、終了させてくれ。
+それと。 わかっているとは思うが、立候補者として 受け付け出来るのは、女性だけだ。
+間違っても、男の立候補者など 受理する事のないように。","Very well. Get it over  with without incident.
+ Also, while I`m sure you`re aware, only women are eligible to run for mayor.
+ Make sure not a single man is running for the position."
+senkyokanriiin (talking),それはもちろん。 それでは、失礼。,Of course. Then if you`ll excuse me.
+Judy Ca (talking),"なんなんでしょう、あいつら…
+ここに入っても、話をしていても、 あのかぶりものを取らずにいるなんて、 なんて無礼な。","What`s up with them?
+ They didn`t take off those masks even when they started talking with you. Pretty rude."
+Seanel Br (talking),蛮族の風習は、文明人には 理解出来ないからな。,Civilized people have no hope of understanding barbaric customs.
+Judy Ca (talking),それはそうと、あの馬鹿市長、 いなくなってしまったんですね。,"Either way, that dumbass mayor`s gone, huh."
+Seanel Br (talking),次に市長になる者は、もっとウィミィの 方針を把握した者がなってくれれば よいのだけれどね。,"I hope whoever gets elected has a better grasp of Wime`s policies, at least."
+Judy Ca (talking),そうですよね。 今までさんざん、イライラさせものね。,"True that, she`s done nothing but piss us off."
+Seanel Br (talking),所詮、猿のボスは猿。 期待するだけ無駄かもしれないけどね。,Takes a monkey to lead monkeys. Maybe we shouldn`t even get our hopes up.
+narrator,通路の一角で、ウィミィ兵士達が だべっている。,Some Wimenese soldiers were talking in a corner of the hallway.
+narrator,ウィミィ兵士達は、街ではがしてきた 選挙ポスターを眺めていた。,They were looking at some election posters they`d ripped out while in the city.
+uimiiheishi (talking),俺はこの女かな。,I pick this chick.
+narrator,と和樹のポスターを持った男。,...Said the man with Kazuki`s poster.
+uimiiheishi (talking),俺は、断然これだぜ。,I`m all for this one.
+__system__??,{☆立候補 = 1:,{☆立候補 = 1:
+narrator,と夕子のポスターを見ている。,...Said the man with Yuuko`s poster.
+uimiiheishi (talking),いろっぺーよなぁ。 一発、あやかりたいぜ。,She`s real sexy. Wish I could fuck her once.
+__system__??,},}
+__system__??,{☆立候補 = 2:,{☆立候補 = 2:
+uimiiheishi (talking),と殺のポスターを見ている。,...Said the man with Satsu`s poster.
+uimiiheishi (talking),この目がたまらん。 かー、いぢめられてーっ！,"Just look at those eyes! Hooo, I want her to bully me!"
+__system__??,},}
+uimiiheishi (talking),"俺は、中山多恵子だな。 泣かせるじゃねぇか、行方不明の 母の代わりに選挙に出るなんて。
+ああいい子だよ。 抱きしめてぇ！","It`s Taeko for me. It`s touching how she`s trying to follow in her missing mother`s footsteps.
+ Ahh, she`s such a good girl! I wanna hug her so bad!"
+uimiiheishi (talking),そういや、北条政子を支援する奴は いないのか？,"Hey, did anyone pick to support Hojo Seiko?"
+uimiiheishi (talking),年増はいらん。,I don`t care about hags.
+uimiiheishi (talking),ばばあは無視。,Too old.
+joseishikan (talking),貴様ら！ そこで何をしている！！ 任務はどうした！！,Hey you! What are you doing over there! Get back to your posts!
+uimiiheishi (talking),やべ！,Oh shit!
+uimiiheishi (talking),逃げろ！,Run away!
+narrator,ウィミィ男性が二人、話をしている。,Two male Wimenese soldiers were chatting.
+uimiiheishi (talking),今日は、なにやら街が騒がしいなぁと 思ったら選挙らしいぞ。,"I thought the city was busy today, and it turns out there are elections."
+uimiiheishi (talking),はんっ、俺達には関係ない。,"Hah, not that it matters to us."
+uimiiheishi (talking),でもな、俺は見たんだよ。 なんと男が投票場に行って、 投票してんだぜ。,"That said, I saw a man go to a polling station and cast a vote."
+uimiiheishi (talking),マジかよ！,Seriously?!
+uimiiheishi (talking),そうさ、男なのにあいつらまだ 選挙権があるんだぜ。,"Yeah, apparently the men here still have voting rights."
+uimiiheishi (talking),いいよなぁ…… 俺達は無いのに………,That`s nice... Wish we had that too...
+uimiiheishi (talking),"まぁ、今回ぐらいが最後だろ。 この国もいずれ男の権利なんて どんどん剥奪されていくのさ。
+ …俺達と一緒になるのさ。","Well, this is probably the last time. With time, men will lose more and more rights in this country.
+ ...They`ll be just like us."
+uimiiheishi (talking),気の毒になあ……,How sad...

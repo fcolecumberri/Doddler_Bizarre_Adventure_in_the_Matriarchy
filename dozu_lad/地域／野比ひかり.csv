@@ -1,0 +1,253 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆野比 = 0:,{☆野比 = 0:
+__system__??,},}
+__system__??,{(☆野比 = 1) * (★愛 = 3):,{(☆野比 = 1) * (★愛 = 3):
+__system__??,},}
+__system__??,{☆野比 > 49:,{☆野比 > 49:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,{B忠誠タイプ = 1:,{B忠誠タイプ = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,{H物欲抵抗 <= H物欲:,{H物欲抵抗 <= H物欲:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+Nobi Hikari (talking),呼んでいると聞いたが …………何か用か？,I heard you call for me... What do you need?
+Yamamoto Akuji (talking),よお、元関取。 実はなー……,"Hey there, ex-sekitori. You see-"
+Nogi Kikuko (talking),…………あら？ そこに居るのは野比さんですか？ お久しぶりです。,...Oh? Is that Nobi-san over there? It has been a while.
+Nobi Hikari (talking),……こ、これはお嬢様。 ご機嫌麗しゅう……,"O-Oh, if it isn`t Ojou-sama. You seem to be doing well..."
+Nogi Kikuko (talking),ああ、もうお止しになって下さい。 私はもう山本家の嫁で、 乃木の女ではないのですから……,"Oh, please cease calling me that. I am no longer a Nogi, but a Yamamoto."
+Nobi Hikari (talking),……お嬢様、真に遅くなり恐縮ですが、 この度はご結婚おめでとうございます。 どうぞ、末永くお幸せに。,"...Ojou-sama, I`m terribly sorry for being late, but congratulations on your marriage. May you be forever happy."
+Nogi Kikuko (talking),まあ…… ご丁寧に有り難うございます、野比さん。,"My... Thank you very much, Nobi-san."
+Yamamoto Akuji (talking),…………俺に祝辞は？,...Where`s my wedding gift?
+Nobi Hikari (talking),お嬢様を悲しませてみろ、 この野比がただでは済まさんぞ。,"Don`t ever make her sad, or I`ll make you pay."
+Yamamoto Akuji (talking),あ、やっぱそーなるのな。,Knew that`d happen.
+Nogi Kikuko (talking),野比さん……私の夫にそんな事を 仰らないで下さい。私は充分すぎるほど 大事にして頂いています。,"Please don`t say that to my husband, Nobi-san. He cares for me very much."
+Nobi Hikari (talking),や……これは失礼致しました、つい……,"Oh... My apologies, I just..."
+Yamamoto Akuji (talking),まーまー、喜久子。 今のは男にとっちゃ激励みたいなモンだ。 気にすんなってば。,"It`s okay, Kikuko. That`s kinda how men encourage each other, so don`t worry about it."
+__system__??,{I装備[9] = 99:,{I装備[9] = 99:
+Nobi Hikari (talking),"おお……そうだ。 祝辞に激励と言えば……
+ ……これは祝儀代わりだ。 受け取ってもらえないか。","Yes... That`s right. Speaking of which...
+ ...Have this as my wedding gift. Would you accept it?"
+Yamamoto Akuji (talking),や、別にそんな 気ィ使わなくていいんだが ……まあ遠慮なく。,"You don`t really gotta go that far... but I`ll take it, sure."
+__system__??,},}
+Nobi Hikari (talking),呼んでいると聞いたが …………何か用か？,I heard you call for me... What do you need?
+Yamamoto Akuji (talking),よお、来たか鉄大和。,"Yo, so you came, Tetsuyamato."
+Nobi Hikari (talking),……………………,...
+Yamamoto Akuji (talking),"いやー、ようやく思い出したぜ。 大関・鉄大和、本名が野比ひかり。
+戦前の角界で大活躍しててさ、 横綱昇進は時間の問題だとかって 騒がれてたんだっけ。
+でも結局、戦争の起きた頃と重なって ウヤムヤのまんまあんたの名前を 聞かなくなっちまったが……","I finally remembered. Hikari Nobi, A.K.A. ozeki Tetsuyamato.
+ You were a big deal before the war. They said it was only a matter of time before you
+ became a yokozuna. But then the war happened, and your name started falling into obscurity..."
+Nobi Hikari (talking),……………………,...
+Yamamoto Akuji (talking),"すまねえな、俺ぁ今まで ちょんまげがないせいでピンとこなくて。
+あんまり相撲は興味ねぇんだけどよ、 あんたみたいな有名人が まさか俺の組織に来るたぁ…………","Sorry I didn`t notice sooner. Hard to tell without the topknot.
+ Don`t care much about sumo, but still feels awesome to have someone famous like you here."
+Nobi Hikari (talking),……………………,...
+Yamamoto Akuji (talking),……？　何で睨むんだよ。,What`re you glaring at me for?
+Nobi Hikari (talking),"俺はもう、鉄大和ではない。 角界とも関係がない。 その名で呼ばないでくれ。
+現役時代のような稽古もしていないから 躰も随分と鈍っている……
+同じ目で見られては、困る。","I`m no longer Tetsuyamato, nor am I part of the sumo world. Do not call me by that name.
+ I`ve also grown weaker, as I I no longer train like I used to.
+ So don`t compare me to how I was."
+Yamamoto Akuji (talking),"なーるへそ。 解った、憶えとくぜ。
+で、野比さんよ。 あんた角界に復帰する気ねぇのか？ まだ若いんだろー？","I see. Alright then, I`ll keep that in mind.
+ So, you have any plans to go back to sumo, Nobi-san? You`re still young."
+Nobi Hikari (talking),……………………,...
+Yamamoto Akuji (talking),…………解ったよ、 その話はするなってんだろ？ 俺が悪かったよ……,"...Alright, I get it, you don`t wanna talk about any of that, right? My bad."
+Nobi Hikari (talking),……………… 一応、説明しておく。,"...In case you`re wondering, I`ll explain."
+Yamamoto Akuji (talking),ほへ？,Heh?
+Nobi Hikari (talking),"俺は、土俵で人を殺したのだ。
+開戦が間近に迫っていたあの頃、 世の中が混乱してしまう前に 俺は早く横綱になりたかった……
+そして、あの日だ。 禁じ手まがいの反則を犯してまで 相手の大関を追いつめて……
+ ……死に体だった相手の顔に、 思わず、渾身の張り手を繰り出した。
+相手はそれきり、 二度と起きてこなかった……","I`ve killed someone in the ring.
+ The war was fast approaching, and I wanted to become a yokozuna before all hell broke loose.
+ Then it happened. I used a forbidden move to corner the opposing ozeki. Then, without thinking...
+ ...I slapped my opponent, who was already falling,
+ in the face with all I had. With that, he never woke up again..."
+Yamamoto Akuji (talking),そいつは初耳だぜ。 よくニュースになんなかったな？,First I`ve heard of it. Did that not make the news?
+Nobi Hikari (talking),"翌日の新聞の一面には、大使館撤退、 開戦不可避の文字が踊っていた。 二面も、三面もな。
+あとはもう、知っての通り 世の中は戦争へむけてまっしぐらだ。","Every newspaper the day after was too busy reporting on how war was imminent.
+ And then, as you know, the whole world was plunged into war."
+Yamamoto Akuji (talking),はー、なるほど。,I see.
+Nobi Hikari (talking),"己が行為を恥じ、悔やみ、 酒に溺れていたところに、 俺は乃木大将と出会った。
+そして、目が覚めたのだ。","While I was drowning myself in sake out of shame and regret for my actions, I met General Nogi.
+ My eyes were then opened."
+Yamamoto Akuji (talking),乃木さんのこったから、 気にすんな、明日があるぞ、 とか言ってくれたのか？,"Did he tell you to not worry so much, that you still had a future, stuff like that?"
+Nobi Hikari (talking),いや、酔った俺を徹底的に 叩きのめして、顔を踏みつけてきた。 踵でもう歯が折れるほどグリグリと。,"No. He beat my drunken self up and stepped on my face, hard enough to almost break my teeth."
+Yamamoto Akuji (talking),…………………………,...
+Nobi Hikari (talking),"ああ…… その時の台詞は今でも憶えているぞ。
+ “くたばれこの酔っぱらいめが！ 　世のクズ、死んで詫びろ！！”","I still remember his words from that time.
+ “You worthless drunk! Scum! Apologize in hell!”"
+Yamamoto Akuji (talking),………………そーか…… 結構激しい人だな、乃木さんも……,"...That so...? Nogi-san can be quite extreme, too..."
+Nobi Hikari (talking),"今でこそ乃木大将は穏やかだが、 以前は闘志が服を着て歩いているような 方だったからな。
+だが、心根は優しい人だった。 思いやりのある方だった。
+そう解った時、俺は目が覚めた。 乃木大将の厳しさは罵りではなく、 俺の再起を促すためのものだったのだ。
+そして、俺は思ったのだ。 たとえ微力でも、乃木大将のように 世のため人のために生きねばならんと。
+それが、俺が殺めてしまった者への 弔いにもなるだろうと、そう信じている。","He may be gentle now, but back then he was a walking mass of fighting spirit.
+ However, he was a kind, thoughtful man at heart.
+ That made me realize that his words were not insults, but encouragements for me to start anew. I then thought
+ that, like the General, I should live for the world and its people, even if I couldn`t do much.
+ I believe it`ll also help me atone for the one I killed."
+Yamamoto Akuji (talking),"ま、なんとなく解る話だぜ。
+しかしおめー、俺の組織で喧嘩に出りゃあ 人殺しの星数がガンガン上がっていくかも しれねぇんだぜ？
+そういうのは、イヤじゃねえのか？","Well, I more or less get it.
+ But if you keep fighting for my group, you might end up increasing your body count, you know?
+ You`re not fine with that, are you?"
+Nobi Hikari (talking),"正々堂々の真っ向勝負で 命を奪った場合は別だ。
+俺が悔やんでいるのは 反則で殺した事であり、 人殺しそのものではない。","Taking one`s life in a clean, honest fight is a different matter.
+ What I regret is killing someone by breaking the rules, not the killing itself."
+Yamamoto Akuji (talking),……………………あっそ。,......Oh.
+Nobi Hikari (talking),"お前は知らないのか？ 相撲では毎場所、十人から二十人は 新弟子に人死にが出ているのだぞ。
+いつかＴＶ中継が再開されたら よく目を凝らしてみることだ。 土俵上で渦巻く男共の怨念が見えるぞ。","Didn`t you know? In every sumo school, 10 to 20 new disciples die. Try paying
+ close attention if you ever catch it on TV. You`ll see their grudge whirling around the ring."
+Yamamoto Akuji (talking),見たくねーよ、そんなもん。,I don`t wanna see that shit.
+Nobi Hikari (talking),"正々堂々と戦い、打ち負かした者の魂を 背負って、男は強くなっていくのだ。
+それが勝負の世界というものだ。 そしてニホン男児の心意気よ。","By carrying on the soul of an opponent he felled honorably, a man can grow stronger.
+ That`s the world of battle, as well as the spirit of the Japanese man."
+Yamamoto Akuji (talking),……案外偏ってんなあ、あんた。 仲良くなれそーだぜ。,"...You`re surprisingly twisted, huh? I think we`ll get along fine."
+Nobi Hikari (talking),呼んでいると聞いたが …………何か用か？,I heard you call for me... What do you need?
+Yamamoto Akuji (talking),よお、元関取。 実はなー……,"Hey there, ex-sekitori. You see-"
+Yamamoto Akuji (talking),……………………,...
+Nobi Hikari (talking),……………………,...
+Yamamoto Akuji (talking),……………………,...
+Nobi Hikari (talking),……………………,...
+Yamamoto Akuji (talking),…………………… ……ふあ~っ……,... ...Yaaaawn...
+Nobi Hikari (talking),……………………,...
+Yamamoto Akuji (talking),"………………ん？
+うわっ、びっくりした…… 何だよ、来てんなら一声かけろよ。","...Hm?
+ Whoa! You startled me... Well? Call me when you come."
+Nobi Hikari (talking),……………………,...
+Yamamoto Akuji (talking),やれやれ、無口なやっちゃなー……,"Quiet bastard, ain`tcha."
+Yamamoto Akuji (talking),とりあえず、今回はこんなもんな。,"Anyway, take this."
+narrator,悪司が札束を差し出すと、 野比はそれを黙って受け取った。,"Akuji gave a wad of cash to Nobi, who quietly accepted it."
+Nobi Hikari (talking),……………………,...
+Yamamoto Akuji (talking),……………………,...
+Nobi Hikari (talking),……………………,...
+Yamamoto Akuji (talking),おめーなあ…… こんな時ぐらい何か言えよ。 有り難う、とか。,"Look, man, can`t you say anything at times like these, at least? Thanks, for example."
+Nobi Hikari (talking),………………頂いておく。,...I`ll take it.
+Yamamoto Akuji (talking),……………………そんだけ？,...That`s it?
+Nobi Hikari (talking),……………………,...
+Yamamoto Akuji (talking),そんだけみてえだな……やれやれ。,Looks like it... fuck`s sake.
+Yamamoto Akuji (talking),えーっとな、あんたに 臨時ボーナスを出そうかと思っ……,"Lesse, I`m thinking of giving ya a bonus-"
+Nobi Hikari (talking),いらん。,I don`t need it.
+Yamamoto Akuji (talking),……は？,...What?
+Nobi Hikari (talking),俺は乃木大将の命で この組織に入っているに過ぎない。 お前からは賞与を受け取れん。,I`m only here on General Nogi`s orders. I won`t take prizes from you.
+Yamamoto Akuji (talking),"んな事言ってもよー、 俺としちゃあ働きの分くれぇは キッチリ出させて欲しい訳でな。
+ ……もしかしてよ、 俺と馴れ合いたくないって事か？","Even if ya say that, I still wanna pay you your work`s worth.
+ ...Maybe you don`t intend to get along with me?"
+Nobi Hikari (talking),違う。 主と仰ぐ大将への敬意だ。,That`s not it. This is how I show respect to the General.
+Yamamoto Akuji (talking),うーん、解るよーな、解らんよーな。,"Hrm, I guess I get it?"
+Nobi Hikari (talking),とにかく、俺への報酬は 通常の給与だけで充分だ。 気を使うな。,"Anyway, my regular salary is enough. Do not worry about me."
+Yamamoto Akuji (talking),……へいへい、了解。 ま、その方が俺も助かるんだけどよ。,"Fine, I got it. Well, that`s better for me."
+Yamamoto Akuji (talking),いよー、関取さん。 喧嘩のキズは癒えたか？,"Hey there, sekitori. Your wounds heal yet?"
+Nobi Hikari (talking),……………………,...
+Yamamoto Akuji (talking),いや、どっちかっつーと、 鉄大和って呼んだ方がいいか？,Or maybe I should call you Tetsuyamato?
+Nobi Hikari (talking),……………………,...
+Yamamoto Akuji (talking),"すまねえな、俺ぁ今まで あんたの頭にちょんまげがないせいで ピンとこなくて。
+大関・鉄大和、本名が野比ひかり。 戦前の角界で大活躍してたよな、あんた。
+横綱昇進は時間の問題だとかって 騒がれてたんだっけ。
+でも結局、戦争の起きた頃と重なって ウヤムヤのまんまあんたの名前を 聞かなくなっちまったが……","My bad, I couldn now since ya don`t have a topknot anymore.
+ Ozeki Tetsuyamato, or Hikari Nobi. You were big before the war.
+ Heard it was a matter of time before you became a yokozuna.
+ But in the end, the war made your name fall into irrelevance..."
+Nobi Hikari (talking),……………………,...
+Yamamoto Akuji (talking),"そんな有名人が、 落ちぶれて落ちぶれて落ちぶれまくって、 行き着いたのがこの地下室か。
+どうよ、今の気分は。 そりゃもう惨めだとは思うけどよ。","And now that famous sumo wrestler has fallen low enough to end up in this prison.
+ How`s it feel? Sucks, doesn`t it?"
+Nobi Hikari (talking),"……………………
+この国賊が……","...
+ You traitor..."
+Yamamoto Akuji (talking),へへ……あんた、やっと口利いたな。,"Heheh, you finally talked."
+Nobi Hikari (talking),……………………,...
+Yamamoto Akuji (talking),さーて、どうしたもんかな……,"Now, what should I do...?"
+Yamamoto Akuji (talking),いよー、関取さん。,"Hey there, sekitori."
+Nobi Hikari (talking),……………………,...
+Yamamoto Akuji (talking),相変わらず無口だな。 何か言えよー。,"Quiet as always, eh? Say something."
+Nobi Hikari (talking),……………………,...
+Yamamoto Akuji (thinking),……しっかし、気合い入った目だぜ。 さすが相撲取りってとこか……,...But his eyes mean business. That`s a sumo wrestler for ya.
+Yamamoto Akuji (talking),あんたの素性が解ったからよ、 ちょいと調べさせてもらったんだが……,I looked into you some after I figured out who you are.
+narrator,悪司はポケットから一枚の写真を取り出して、 野比に見せた。,Akuji took out a photo from his pocket and showed it to Nobi.
+Nobi Hikari (talking),………………っ……！？,...?!
+Yamamoto Akuji (talking),おお、いきなり顔色変わったなー。 やっぱ娘は可愛いんだな。,"Ohoh, that made you react. Cute daughter you got here."
+Nobi Hikari (talking),………………,...
+Yamamoto Akuji (talking),"何があったのかまでは知らねぇが、 あんた開戦した頃に離婚してんだな。
+で、嫁さんは戦時中に死んじまって、 娘さんは疎開先の孤児院に居ると。
+この娘さんに、あんた えらい大金を仕送りしてるようだが。","I dunno what happened, but you got divorced as the war started.
+ Your wife died during the war, so your daughter`s in an orphanage.
+ And it looks like you`ve been sending her a lotta money."
+Nobi Hikari (talking),……娘をどうする気だ。,...What will you do to her?
+Yamamoto Akuji (talking),"別にどうもしねーよ。
+ただ、こんな捕虜の身のまんまじゃ あんた仕送りに困るんじゃねえか？","Nothin`.
+ But ya can`t send her money while you`re here, no?"
+Nobi Hikari (talking),………………,...
+Yamamoto Akuji (talking),なあ、あんたの腕を見込んで言うが、 俺の部下にならねえか？ 給料、バリバリ出すからよ。,"You`re tough, so won`t you work for me? I`ll pay you a good salary."
+Nobi Hikari (talking),"………………戯れ言を。
+俺は乃木将軍以外の方から 指示を受ける気はない。","...Quit joking.
+ I won`t take orders from someone who`s not General Nogi."
+Yamamoto Akuji (talking),その意地っ張り、どこまで続くかねー。,We`ll see how long that lasts.
+Nobi Hikari (talking),………………,...
+Yamamoto Akuji (talking),なー、そう意地張んなよ。 お前さんも生きていかなきゃ なんないんだろ？,"Don`t be so stubborn. You have to make a living, don`t you?"
+Nobi Hikari (talking),………………,...
+Yamamoto Akuji (talking),"……ほれ、一応用意してきたぜ。
+えーと、ひいふうみいよう…… 全部でいくらあんのかね、これ……","Here, I brought ya some.
+ Lesse, how many did I bring again...?"
+narrator,悪司は、野比の前に札束の山を積み上げていく。,Akuji piled wads of cash in front of Nobi.
+Nobi Hikari (talking),………っ、く………,Kh...!
+Yamamoto Akuji (talking),"あんたの言い分は解ってんだけどよ。 乃木大将以外に指示されたかねえっての。
+でもよ、そりゃ所詮、 あんた個人の心情の事だろ？
+あんたの躰はあんた一人のもんじゃねえ、 娘さんが居るんだろ？ 娘さんのために決断する気はねえか？","Look, I get you. You only take orders from General Nogi.
+ But that`s only your own sentiment, right?
+ Your live not just for yourself, but also for your daughter, no? Can`t ya make a decision for her?"
+Nobi Hikari (talking),……………… …………卑怯なっ……,... You coward...!
+Yamamoto Akuji (talking),んー、卑怯っつーよりは 現実を見据えた取り引きのつもりだが。,"I`m not a coward, I`m offering you a deal based on facts."
+Nobi Hikari (talking),………………,...
+Yamamoto Akuji (talking),ほれ、俺と握手。,"Come on, shake my hand."
+narrator,悪司は、野比に手を差し出した。,Akuji stretched out his hand.
+Nobi Hikari (talking),"………………
+ ………………解った…… 俺の負けだ……","...
+ ...Fine... I admit defeat..."
+narrator,野比は、悪司の手を力無く握り返した。,Nobi weakly shook Akuji`s hand.
+Yamamoto Akuji (talking),…………………………！,...!
+narrator,大谷善継と野比ひかりが、 乃木大将の墓前に訪れていた。,Ootani Yoshitsugu and Nobi Hikari were visiting General Nogi`s grave.
+Nobi Hikari (talking),…………善継。 こちらの草刈りはもう終わったぞ。,"...Yoshitsugu, I`m done cutting the grass here."
+Ootani Yoshitsugu (talking),……こちらもだ。,...Same here.
+Nobi Hikari (talking),綺麗になった…… 乃木大将もお喜びになるかな。,It`s gotten pretty... I wonder if the General`s happy too.
+Ootani Yoshitsugu (talking),………………,...
+Nobi Hikari (talking),善継？,Yoshitsugu?
+Ootani Yoshitsugu (talking),"野比、私はつくづく思う。 乃木大将は偉大な方だった。
+大将が我らを、山本悪司の元へ 預けたいと言い始めた時は、 正直、大将の正気を疑ったが……
+結果、山本悪司はオオサカを征圧。 その元にオオサカは 秩序を取り戻しつつある。","Nobi, I truly believe the General was a great man
+ To be honest, I questioned his sanity when he entrusted us to Yamamoto Akuji...
+ But he eventually came to control - and restore order to - Osaka as a result."
+Nobi Hikari (talking),はは、汚れた秩序ではあるがな。,"Haha, it`s not the nicest order though."
+Ootani Yoshitsugu (talking),"それでも、終わることなき混沌より よほどましだ。
+このオオサカが、真の復興に向けて 走り始めるためには、 この秩序が必要だったのだ。
+大将はおそらく、 奴が……山本悪司がそこまで 大成することを見抜いておられた。
+…………私が死する前に、 この世でいい仕事をさせて頂いた。","It`s still better than the chaos it used to be in.
+ This order was necessary for Osaka`s restoration to begin in earnest. And the General...
+ he probably foresaw Akuji achieving this. ...I got to do
+ something good before I died."
+Nobi Hikari (talking),…………善継……？,...Yoshitsugu?
+Ootani Yoshitsugu (talking),"……傷が神経を冒し始めた。 背が腐れば、長くはあるまい。
+だが、哀しくも怖くもない。 ……不思議な話なのだがな。","...My wounds are affecting my mind. I won`t have long once it gets to
+ my spine. But I`m neither sad nor afraid. ...How puzzling."
+Nobi Hikari (talking),そうか…………,I see...
+Ootani Yoshitsugu (talking),野比はどうする？,"What about you, Nobi?"
+Nobi Hikari (talking),……土俵に戻る。 来年から大相撲が再開するらしい。 新弟子からやりなおすつもりだ。,...I`ll go back to the ring. Tournaments will resume next year. I want to start over from scratch.
+Ootani Yoshitsugu (talking),……そうか。 ウィミィが許可を出したのか……,"...I see, so Wime has approved them..."
+Nobi Hikari (talking),お互い、これからが大変だな。,We`re both in for a tough time.
+Ootani Yoshitsugu (talking),何、大丈夫だ。 ……大将が見守っていて下さる。,It`ll be alright. ...The General`s watching over us.
+Nobi Hikari (talking),ああ……そうだな。,Yeah... you`re right.

@@ -1,0 +1,80 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆浪梅清 = 0:,{☆浪梅清 = 0:
+__system__??,},}
+__system__??,{☆浪梅清 = 2:,{☆浪梅清 = 2:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+Rou Baisei (talking),お呼びになられましたか、山本殿。,"You called, Yamamoto-dono?"
+Yamamoto Akuji (talking),あんた、ナニモンだ？,Who are you?
+Rou Baisei (talking),私は、漢方医で……,I`m a herbal medicine doct-
+Yamamoto Akuji (talking),"それだけじゃねーだろ。 なんか隠してる。
+あんたの殺気の消し方は訓練されている。","That ain`t what I mean. You`re hiding something.
+ You can conceal your bloodlust."
+Rou Baisei (talking),"ばれてしまいましたか。
+私、今は医者などしておりますが、 百年程遡れば、忍の者を配する大名の家の 生まれの者で。
+戦争前は、その生き残りを使役し、 国内での戦いに従事しておりました。
+その生き残りも、かなみ一人となり、 年からすれば少々早い引退を決意し、 医者となりました。
+引退する前は、居合を。","So I`ve been found out.
+ I may be a doctor now, but I`m from an old daimyo`s clan which controlled ninjas.
+ Before the war, its remnants fought in domestic battles.
+ Now only Kanami`s left, and I`ve decided to retire early to become a doctor.
+ Before retiring, I practiced iai."
+Yamamoto Akuji (talking),なーるほどな。 お大名様だったのか。 道理で浮き世離れしているとも思ったぜ。,"I see, so you were from a daimyo clan. Explains why you`re so out of touch."
+Rou Baisei (talking),これでも、少しはマシに なったのですがね。,I`ve improved a little on that front.
+Yamamoto Akuji (talking),ん……,Hm...
+narrator,"道場には、梅清が一人、黙想していた。
+きんっと空気が張り詰めた瞬間、 梅清の手が素早く動き、刀の柄を握ると、 空気を斬った。","Baisei was meditating in the dojo, alone.
+ The instant the air tensed up, Baisei quickly gripped his sword`s handle and cut the air."
+Yamamoto Akuji (talking),綺麗だな。,Beautiful.
+Rou Baisei (talking),これは、山本殿。,"Ah, Yamamoto-dono."
+Yamamoto Akuji (talking),刀でそんなに綺麗に空気を斬る奴は 初めて見た。,First time I`ve seen someone cut the air so beautifully.
+Rou Baisei (talking),"恐れ入ります。
+あ……私に用事ですかな？","Thank you.
+ Oh, you have business with me?"
+Yamamoto Akuji (talking),あーまあ。,Sorta.
+Rou Baisei (talking),わかりました。 少々身だしなみを整えてから、 事務所に参ります。,Understood. I`ll go to your office once I`ve cleaned up.
+Yamamoto Akuji (talking),おー、そーしてくれや。,I`ll be waiting.
+ (talking),お待たせいたしました。,Sorry for the wait.
+Yamamoto Akuji (talking),おう。,Hey.
+Rou Baisei (talking),失礼します、山本殿。,"Excuse me, Yamamoto-dono."
+Yamamoto Akuji (talking),おう。,Yo.
+Yamamoto Akuji (talking),これ、大した額じゃねーけど、 取っといてくんな。,"It ain`t much, but take it."
+Rou Baisei (talking),これは…臨時給与ですか？,Is this a bonus salary?
+Yamamoto Akuji (talking),ああ。,Yep.
+Rou Baisei (talking),いえ、結構です。 月々に頂くお金で充分です。 お気持ちだけ頂いておきます。,"No, thank you. My usual salary`s enough, but I appreciate the thought."
+Rou Baisei (talking),これでよし… しばらくすれば、腰の方はマシに なってくるでしょう。,All done. Your hips should get better after some time.
+roujin (talking),ありがとうございます… ありがとうございます……,Thank you... Thank you...
+shounen (talking),ありがとう、狼先生！,"Thank you, doctor Rou!"
+Rou Baisei (talking),これからも、お爺ちゃんを大事にな。,Take care of your grandpa.
+shounen (talking),"うん。
+あの……","Okay.
+ Um..."
+Rou Baisei (talking),お金ならいいよ。,Don`t worry about paying.
+shounen (talking),でもいつも、そーやってお金取らないから うち追い出されて、ここにきてんだろ…？,"But you were kicked out since you never accept money, right?"
+Rou Baisei (talking),そうだがね。,That`s right.
+shounen (talking),あの…… これ、受け取ってよ。,"Um... here, take this."
+__system__??,{I装備[48] = 99:,{I装備[48] = 99:
+Rou Baisei (talking),いいのか？ 大事なものではないのか？,Are you sure? Is this not precious?
+shounen (talking),いいんだ。 先生にあげるつもりでとっといたんだ。,It`s fine. I got it to give it to you.
+Rou Baisei (talking),ありがとう。 ありがたく受け取るよ。,"Thank you, I shall gladly accept it."
+__system__??,} else {,} else {
+narrator,と、少年は梅清の手の上に、 年季の入ったベーゴマを置いた。,The boy placed an old spinning top on Baisei`s hand.
+Rou Baisei (talking),君の宝物じゃないか。 受け取れぬよ。,Isn`t this your toy? I can`t take this.
+shounen (talking),いいんだよ。 オレが大人になって、 お金を稼いだ時にさ、交換してよ。,It`s okay. I`ll pay you properly once I`m an adult and earn money.
+Rou Baisei (talking),――わかった。 では預かっておくよ。,"...Got it. I`ll take this, then."
+shounen (talking),うん！,Okay!
+__system__??,},}
+Rou Baisei (talking),参る――,Here I come-
+Rou Baisei (talking),ほら、これでいいぞ。,"Here, this should do it."
+shounen (talking),ありがとう、先生。,"Thank you, doctor."
+Rou Baisei (talking),これにこりたら、 もう木から落ちるんじゃないぞ。,I hope you`ve learned to not get up on trees anymore.
+shounen (talking),うん。,Yeah.
+narrator,少年は嬉しそうに手を振って 去って行った。,"The boy happily waved at Baisei, then left."
+Rou Baisei (thinking),"山本殿のおかげで金子に困る事も なくなった…
+そろそろここで世話にならず、 診察室を兼ねた一軒家の購入を 考えるとするか…","Yamamoto-dono`s solved my money issues...
+ Maybe I should look into buying a house clinic instead of imposing here..."
+roujin (talking),せ、せんせ~…こ、ここ、腰が~…,"D-Doctooor, m-my hips hurt..."
+Rou Baisei (talking),うむ、大丈夫か？,"Hrm, are you alright?"

@@ -1,0 +1,628 @@
+character,Jap,Eng
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,},}
+__system__??,{麦 = 12:,{麦 = 12:
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+__system__??,{麦 = 17:,{麦 = 17:
+__system__??,{H拷問抵抗 < H拷問:,{H拷問抵抗 < H拷問:
+__system__??,},}
+__system__??,{H拷問 = 1:,{H拷問 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 18:,{麦 = 18:
+__system__??,},}
+__system__??,{麦 = 19:,{麦 = 19:
+__system__??,},}
+Yamamoto Akuji (talking),よお、ウィミィかぶれの馬鹿娘。 気分はどうだ？,If it isn`t the dumbass Wime lover. How`ve you been?
+Ootsuki Himeko (talking),でっ…出たわね人さらい！,"Th-There you are, you kidnapper!"
+Yamamoto Akuji (talking),おう、出たぞ。,"Yep, here I am."
+Ootsuki Himeko (talking),……やけにあっさりしてるのね。,...You`re awfully nonchalant.
+Yamamoto Akuji (talking),おめーの言う通りだからな。,It`s because you`re right.
+Ootsuki Himeko (talking),あっ、あなたには 罪悪感ってものがないの！？,H-Have you no sense of guilt?!
+Yamamoto Akuji (talking),たぶんな。,Maybe.
+Ootsuki Himeko (talking),………………,...
+Ootsuki Himeko (talking),に…逃がすのよ、その時、女の子かも！,"I... run, that time, I get free!"
+Yamamoto Akuji (talking),何言ってんだお前。,The hell are you saying?
+Ootsuki Himeko (talking),"たとえ捕まっても、私は志を 決して捨てたりしないんだから！
+これから抵抗する時は全部、 ウィミィ語で叫んでやるっ！","Even if you capture me, I will never give up on my dreams!
+ From now on, I`ll shout everything in Wimenese when resisting!"
+Ootsuki Himeko (talking),逃がすのよ、その時、女の子かも！,"I run that time, I get free!"
+Yamamoto Akuji (talking),………………ああ、 逃げるから私を放しなさい、 って言いたいのか？,"...Ooh, are you trying to say, “I`m gonna escape either way, so let me go”?"
+Ootsuki Himeko (talking),……う、うるさいわね！ ちょっと私より ウィミィ語ができるからって！,"Sh-Shut up! You`re a little better at Wimenese than me, so what?!"
+Yamamoto Akuji (talking),……はっきり言っとくが、 お前、まるきりセンスねーぞ。 志を持つだけ無駄だ。,"...I`ll tell you right now, you`ve got no talent for this. Having the drive means nothing."
+Ootsuki Himeko (talking),うるさーーーーーーーーい！！,SHUT UUUUUUP!!
+Yamamoto Akuji (talking),よお、勘違い娘。 まだ無駄な勉強してんのか？,"Hey there, still studying for nothing?"
+Ootsuki Himeko (talking),はっ…また来たのね人さらい！,"Wha- So you`re here again, you kidnapper!"
+Ootsuki Himeko (talking),逃がせくさい、タワシ、籠から！,"Let I escape, cage from!"
+Yamamoto Akuji (talking),お、ちょっとだけ発音マシになったな。,"Oh hey, you got a little better."
+Ootsuki Himeko (talking),えっ……ほ、本当！？,Huh?! R-Really?!
+Yamamoto Akuji (talking),うそ。,Nah.
+Ootsuki Himeko (talking),"………………
+もういやーっ！　早く帰してー！ ニホンに居るのすら嫌なのにー！！ ウィミィに行きたーーーーい！！！","...
+ I`ve had it! Lemme go already! I already hate staying in Japan!  I wanna go to Wime!!"
+Yamamoto Akuji (talking),やれやれ。,Oh man.
+Yamamoto Akuji (talking),ま、ちょっと来いや。,C`mere for a sec.
+Ootsuki Himeko (talking),えっ？　あ、ちょ… どこに行こうってのよ！？,"Huh?! Wait, where are you taking me?!"
+Ootsuki Himeko (talking),……な、何よここ。,...What is this place?
+Yamamoto Akuji (talking),俺の部屋。,My room.
+Ootsuki Himeko (talking),な、なによ…… 何しようって言うのよっ……,Wh-What... What are you going to do...?!
+Yamamoto Akuji (talking),なに、おめーにウィミィ語を 教えてやろうと思ってな。,"Oh, I thought I`d teach you some Wimenese."
+Ootsuki Himeko (talking),……はい？,...What?
+Yamamoto Akuji (talking),"おめー、捕虜の部屋でも ずっと勉強してんだろ。
+ま、それ見てちょっと、 仏心が出たんだよ。","You spent your whole time studying even as a captive, didn`t you?
+ Well, seeing that made me feel a bit charitable."
+Ootsuki Himeko (talking),いらないわよそんなのっ！ 私のウィミィ語は完璧なのよ！,I don`t need it! My Wimenese is perfect!
+Yamamoto Akuji (talking),"ごちゃごちゃぬかしてねーで、 さっさと来い、そこに座れ、ほれ。
+それとも、本当にいらねーのか？ 俺の指導でも少しは役に立つと 思うけどよ。","Quit blabbering and sit down already. Here.
+ Or do you really not need any help? I think my lesson can be at least a little useful."
+Ootsuki Himeko (talking),"…………
+どうしてもって言うなら… 教えて貰ってやってもいいけど……","...
+ If you insist... then I`ll take you up on that..."
+Yamamoto Akuji (talking),お、やっぱ勉強熱心だな。,"Hah, knew you liked studying."
+Ootsuki Himeko (talking),ふんっ、今頃気付いても遅いのよっ。,"Hmph, too late to be considerate now."
+cg narrator,"初めの数分は、普通の勉強だった。
+姫子が参考書を読み、悪司が発音や文法の正誤を 判断するだけだった。
+だが、どうにも憶えの悪い姫子に、 悪司がある提案をした時から様子が変わっていく。
+ “人間、罰があると思うと真剣になる。 　これからおめーが間違える度、罰を与えていくぞ”
+ ──そうして、しばし時が過ぎた。","It started off as a normal lesson at first.
+ Himeko would read her reference book, and Akuji would correct her grammar and pronounciation.
+ However, that changed after Akuji proposed something, given Himeko`s struggles.
+ People become more serious when a penalty`s on the line. So I`m gonna punish you every time you fuck up.
+ Some time after..."
+cg narrator,「わ、私……は、ペンを……漏っていま……」,I-I... am holding... a tencil...
+cg narrator,"発音を間違ったその瞬間、 悪司の指が汗ばんだ姫子の内腿を滑り降りて、 秘裂の襞をすうっと撫でた。
+ 「あっ……！　っふあッ！」
+ 「また間違ったな、これで何度目だ？ 　……十秒間の罰、覚悟しろよ」
+悪司の指先が秘裂を押し広げ、 襞の奥へと潜り込んでいく。
+ 「やあ……っ、はあ、やはあっ……！」
+姫子の秘裂は、とうの昔に充血して腫れ上がり、 ねとつく潤みをこぼし続けていた。","As soon as Himeko messed her pronounciation up, Akuji slid his fingers down her sweaty thighs and gently caressed her pussy.
+ Ahn...! Fwah!
+ Wrong again. How many times does this make? ...Get ready, it`ll be 10 seconds this time.
+ Akuji`s fingers spread her pussy open and slid inside.
+ Nooo...! haaahn, yaaaaahn!
+ Himeko`s pussy was swollen and dripping with fluids."
+cg narrator,"　　［ちゅく、にちっ…］
+悪司の指が動く度、重い水音が立つ。
+ 「ああ、っく……はっ、は……う……」
+姫子は、下腹で動く悪司の指に 頭の中まで掻き回されているような錯覚に陥る。
+ （どうして……どうして私、こんな…… 　この男にっ……こんなこと、許してっ……）
+姫子はふと正気に返って、自分に問いかけた。
+たしか、最初の罰は、 悪司の膝に座る、ただそれだけだった筈だ。
+それでも、最初は嫌で嫌でたまらなかった。 早くここから退きたいと思っていた。
+けれど、悪司の腕に肩を抱かれて、 さあ、もう一度テキストを読んでみろと 言われてから──
+ （そ、そう……私、あの時っ……）
+あの時姫子は、背中に当たるこの男の胸板を 迂闊にも「温かい」と思ってしまったのだ。
+ 「そんなに強張ってちゃ疲れんだろ？ 　別にいーぞ、俺にもたれてきても」
+そして言われるままに、 姫子は悪司にもたれかかって肩の力を抜いた。
+ ──それからは、もう憶えていない。
+ 「ほら、もう一回だ。 　持っています、のところをやり直せ」
+ 「……えっ？　あ……」
+ 「発音。やり直しだ」
+ 「え……あ、うん……」
+ 「よし、いい子だ。 　なら、ひとまず罰は中止だ」
+姫子の躰から、長くて太い二本の指が抜けていく。
+姫子は思わず“とばぐち”を締め付けたが、 悪司の指は潤みでずるりと滑って、止められない。
+ 「……んだよ、今、急に締めたな。 　指、抜いて欲しくなかったか？」
+ 「……え……な、何言って……！ 　そんな訳、そんな訳……ないわよっ…」
+ 「怒んなよ、解ってる」
+ 「…………」
+ 「どうした、早く読めよ。 　次のテキストだ、ほれ」
+そう、読まなくてはいけない。 今度こそ正解させなければいけない。
+ ──けれど姫子は、どうしても集中できない。
+濡れそぼった姫子の秘裂、 その脇に、今はただ添えられている男の指が。
+その指を待ち望んで、 熱くうねる下腹が、蠢く胎が、疼く躰が。
+気になって、仕方がない──","*Schlp* *Sllsh*
+ Whenever Akuji`s fingers moved, low, wet sounds were made.
+ Aaaahn, nkh... hah, haaah... ngh!
+ Himeko felt as if Akuji`s fingers were. even stirring up the inside of her head.
+ (Why... Why am I... letting this man... do this...?!)
+ Having briefly returned to her senses, Himeko questioned herself.
+ If memory served her correctly, the initial penalty was to simply sit on his lap.
+ And yet, she hated even that at first. She wished to be able to leave.
+ However, Akuji held her in his arms and urged her to read the text once more. Then...
+ (That`s right... At that time, I...)
+ At that time, with his chest at her back, she inadvertently thought that he felt warm.
+ You`ll get tired if you stiffen up like that. I don`t mind if you lean on me.
+ Himeko did as he said and leaned on Akuji, relaxing her shoulders.
+ -She doesn`t remember anything afterwards.
+ C`mon, one more time. Say it, “I am holding a pen”.
+ ...Huh? Ah...
+ Try pronouncing it again.
+ Uh... oh, okay...
+ Good girl. Then I`ll stop the punishment for now.
+ His long, thick fingers got out of Himeko`s pussy.
+ Himeko unconsciously tightened her pussy, yet it was so wet that Akuji`s fingers easily slid out still.
+ ...Hey, you just tightened up. Did you not want me to take them out?
+ ...Huh? Wh-What are you saying?! Th-There`s no way... I would...
+ I get it, don`t get mad.
+ ...
+ What`s wrong? Hurry up and read. Here, this next part.
+ Indeed, she had to read it. She had to get it right this time.
+ But Himeko simply could not focus
+ Next to Himeko`s pussy, Akuji`s manly fingers stood still.
+ Eagerly waiting for those fingers, he pussy grew hotter, her womb squirmed, and her body ached.
+ She couldn`t help but be interested in them."
+cg narrator,"「わ……私は、本を、持っ……」
+ 「…………」
+ 「…………漏っています…………」","I-I... am holding...
+ ...
+ ...a tencil..."
+cg narrator,"「やれやれ……また間違いだな」
+悪司が、溜息混じりに呟く。
+指がまた、ひくつく姫子の襞に、 ずぶりと音を立てて突き立てられる。
+ 「……っあ……ひアあっ……！！」
+嬌声を上げた拍子に、参考書を持つ手に力が入る。
+ページに皺が入り、小さく裂けた。
+ 「あ、あ……ああっ……」
+大事にしていた参考書が、傷付いた。 泣きたくなってくる。
+けれど、悪司の行為に躰は抵抗しようとしない。
+ （もう、どうでもいい…… 　こんな本なんて、どうでも……）
+ ──どうでもいいはずがないのに。
+ 「ったく…… 　何度も何度も同じところで間違えてんなー。 　やる気あんのか？」
+ 「そ、そんなこと……言ったって……っ」
+ 「おめー、もしかして 　わざと間違えてんじゃないだろうな？」
+ 「っ……！」
+ 「ま……こんなになってりゃ、 　ある意味当然かもしれんがなー」
+悪司は言いながら、姫子の乳房をまさぐる。 ツンと硬く尖った乳首を指先で押し潰す。
+電流にも似た悦楽が胸から湧いて背筋を駆け上がり、 頭蓋の裏で何度も小さく弾けていく。
+ 「やあ、や……っはァ……ッ！」
+ 「いい声だ。 　その鼻にかかった声、発音で使えりゃあな」
+その悪司の声を聞いた時、 姫子は何か大きな［もの］が、 自分の秘裂に触れてくるのを感じていた。
+それは、温かい──いや、むしろ熱いもの。 硬く、太く、強い気配を発しているもの。
+その［もの］を、不快には感じなかった。 いや、濡れた襞はむしろそれを欲していた。
+押しつけられたその［もの］の形に合わせて、 ぐずぐずに溶けた秘裂が、ぐしゅ、と形を変える。
+ 「次に間違ったら……これ、入れるからな」
+悪司が耳元で囁く。
+姫子はそれで初めて、自分の秘裂に押し当てられた 硬くて太いものの正体を悟った。
+ 「あ……ひっ……！」
+思わず、怯えた声が出る。
+まるで姫子の股間から男性器が生えているように、 悪司のそれは尻の側から自分の秘裂へと 伸びてきていた。
+巨大な先端が、姫子の花芯を小突くようにして びく、びくと小さく震えている。
+ 「やあ、や……やっ……！」
+力無く、首を振る。
+ ──だが、口で言うほどには怯えていない。
+ （もし、また間違えれば……。 　わざと間違えれば……）
+ （そうすれば、きっと……。 　私……に、これが……）
+ 「……おい、何泣いてんだ、おめー」
+言われて、姫子は初めて 自分が泣いていることに気付く。
+理性と欲望に挟まれた自我が、涙を流していた。
+ 「今まで何度も繰り返したろうが。 　正解すりゃあナニはそのまま引っ込める。 　泣くこたぁねーんだぞ」
+ 「わ、か……解ってるわよっ……」
+解っているのに。
+どうしようもなく、躰が欲しがる。
+ 「……仕方ねーよ。 　俺が、そういう風に仕向けてんだからよ」
+ぼそりと、悪司が呟いた。
+姫子は驚いて、悪司の顔を仰ぎ見たが、 彼の顔に表情らしい表情はなかった。
+ 「さ、読めよ、次だ。今度は間違うなよ」
+まるきり普段の口調だった。 飄々とした余裕の声だった。
+だが、その悪司の指先が姫子の喉元を甘く這う。
+ 「……っう……ッ……！」
+喉元の指先、背中を支える胸板、 そして、秘裂に押し当てられた男根。
+悪司と触れている場所、 その全てから悦楽が這い上がってくる。
+ ──もう、耐えられなかった。","ood grief... wrong again.
+ He once again thrust his fingers
+ inside Himeko`s throbbing pussy, making a moist sound.
+ ...! ahn... hyaaaaahn!
+ Every time she moaned, Himeko clenched the reference book.
+ The pages wrinkled, and some tore slightly.
+ Ahn, aaahn... aaaahn...!
+ She was damaging her precious book. It made Himeko want to cry.
+ However, her body did not resist Akuji.
+ (I don`t care... what happens to this book anymore...)
+ There is no way she didn`t care.
+ Fuck`s sake... You keep messing up on the exact same part. You takin` this seriously?
+ E-Even if you say that...!
+ Hey, you`re not fucking up on purpose, are you?
+ ...!
+ Then again, if you`ve gotten like this, then I guess it`s to be expected.
+ Akuji massaged Himeko`s breasts and pushed down on her erect nipples.
+ A jolt of pleasure ran from her breast up her spine and assaulted Himeko`s brain.
+ Nooo, aaahn...! haaaah...!
+ Nice voice. Try using that nasal voice to pronounce.
+ When she heard Akuji`s words, Himeko felt something big touching her pussy. It was something hot, hard, thick, and powerful.
+ It didn`t make her feel any displeasure - in fact,
+ her wet pussy craved it. Himeko`s pussy changed
+ its shape in response to the thing pushing against it.
+ Get it wrong again, and I`ll put this in.
+ Akuji whispered in her ear.
+ That made Himeko realize for the first time what the thing pushing against her was.
+ Ah... eeep...!
+ She unconsciously yelped.
+ Akuji`s cock was peeking out between her legs, going from her butt to the entrance to her pussy. Its large tip pressed
+ against Himeko`s petals, trembling ever-so-slightly.
+ No, nooo...!
+ Himeko weakly shook her head.
+ However, she was not as frightened as she seemed.
+ (If I mess up again... 　If I get it wrong on purpose again...
+ If I do that... This thing will definitely...)
+ ...Hey, what`re you crying for?
+ That made Himeko finally notice that she was crying. The clash between her reason
+ and her desire was what made her shed tears.
+ You`re already read this a bunch of times before. Get it right, and I`ll put my thing away. Nothing to cry about.
+ I-I get it...!
+ She did, and yet..
+ Her body simply desired it badly.
+ ...Can`t be helped. That`s how I`ve been conditioning you.
+ Akuji whispered.
+ Surprised, Himeko looked up at Akuji`s face, but he showed no particular expression.
+ Now read. Don`t get it wrong.
+ His voice was aloof, and his tone, completely normal. However,
+ his fingertips lovingly crawled across Himeko`s neck.
+ ...Ngh...!
+ The fingers in her neck, the chest support her back,  and the cock pressing against her pussy.
+ Every place Akuji was touching served to fan Himeko`s pleasure.
+ -She couldn`t bear it any more."
+cg narrator,「わ……たしは、せんせ、いに……」,I-I... asked the teacher...
+cg narrator,"姫子の口が動き始める。 喉が声を絞り出していく。
+──間違った言葉を、紡ぐために。","Himeko began speaking. Her throat forced the words out.
+ -The wrong words."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Yamamoto Akuji (talking),よう、何か欲しいモンとかあるか？,"Hey, you want anything?"
+Ootsuki Himeko (talking),……何よ、急にっ！,What`s up with you?!
+Yamamoto Akuji (talking),まあいいから、言ってみな。,"Whatever, tell me."
+Ootsuki Himeko (talking),私は、お金になりたい！,I want to become money!
+Yamamoto Akuji (talking),………………は？,...Huh?
+Ootsuki Himeko (talking),必要、留学。 だから、私はお金になりたい！,"Need, study abroad. So, I want to become money!"
+Yamamoto Akuji (talking),ああ、留学するのに金が欲しいってか。,"Ah, now I get it."
+Ootsuki Himeko (talking),その通りよ！ さすがに簡単な構文だけあって、 あなたでも通じたみたいね！！,Good! I knew even an ape like you could understand such a simple sentence!
+Yamamoto Akuji (thinking),……通じてねえよバカ。,...Moron.
+Yamamoto Akuji (talking),"港、海、潮風… うーん、海はいいぜ…
+ …なんてな、いいわきゃねー。
+クスリ臭ぇんだよ、 なんとかなんねーのかこの毒物汚染。","The port, the sea, the salt wind... Yeah, the sea`s great...
+ ...Not. I hate it here.
+ God, this place smells like drugs. Can`t anything be done about this crap?"
+ (talking),あ、あ…タワシの舐めるは、ヒメコ。 あー、あー、わからんちん？,"Mah, mah naym`s Himeko. Uuuh, uh, you no understand?"
+Yamamoto Akuji (talking),……？ なんだ、あの激烈下手クソな ウィミィ語は。,...? What`s with that aggressively shitty Wimenese?
+Ootsuki Himeko (talking),"な、なまえ……ひ、ヒメコ、姫子。 おおつ……大槻……オオツキ。ＯＫ？ ヒメコ・オオツキ、おっけー？
+あ、えと…タワシ、勉強、うぃみぃ。 ゆ……幽状、友情、結びたい。 アタナと、おっけー？","N-Name... Hi-Himeko, Oo-Oo-Ootsuki. OK? Himeko Ootsuki, okay?
+ Um... I, Wime, study.  I want be rends, uh, friends. With you, okay?"
+uimiiheishi (talking),……なんだこの娘。 頭イカれてんのか？,...Is this girl right in the head?
+uimiiheishi (talking),"いや、違うんだジョニィ。 この娘、ウィミィかぶれのバカ女でな、 外人には誰彼構わず声をかけてるんだ。
+どうやら、 ウィミィ人と会話したいというか、 友達になりたいらしいんだが…","Wrong, Johnny. This dumb chick`s crazy about Wime and goes around talking to
+ every foreigner she sees. Looks like she not only wants to talk to us Wimenese, but also befriend us..."
+uimiiheishi (talking),へえ、本当かい？ よく知ってるな、マイケル。,"Hoh, really? You sure know your stuff, Michael."
+uimiiheishi (talking),……へへっ、実はな、 俺は最近、この小娘のおかげで いい思いをさせてもらっててな……,"Heheh, truth is, the other day I made some good memories thanks to this girl..."
+Ootsuki Himeko (talking),"……？？？
+あのー、タワシ、わからんちん。 話す、ゆっくり、おっけー？","???
+ Uh, I no understand. Talking, slow, okay?"
+uimiiheishi (talking),ＯＫＯＫ、解るよ。 ところで君、僕のこと憶えてるかい？,"Okay, gotcha. By the way, do you remember me?"
+Ootsuki Himeko (talking),……？？？ い、いや、タワシ、わからんちん。,"??? No, I no understand."
+uimiiheishi (talking),へへっ…前と同じだ。 このニホン人、外人の顔が 区別つかないんだよ。,"Heheh, just like last time. This girl can`t tell us foreigners apart."
+uimiiheishi (talking),はは…愉快な娘だ。 …で、どうするんだマイケル。,"Hahah, what a pleasant girl. ...So, what shall we do, Michael?"
+uimiiheishi (talking),"へっ… 決まってるじゃないか、ジョニィ。
+なあ、可愛い仔猫ちゃん。 俺たちとホテルへシケ込んで、 腰が抜けるまでヤりまくろうぜ？","Heheh, isn`t it obvious, Johnny?
+ Hey there, kitty cat, how about we go to a hotel and fuck until your hips give out?"
+Ootsuki Himeko (talking),……は？　ね、猫……へ？,...Huh? C-Cat...? Huh?
+uimiiheishi (talking),通じないのかよ… 仕方ない、レストランだレストラン。 一緒に飯でも食おう、ＯＫ？,"She didn`t understand, huh. Alright, how about a restaurant? Let`s have a meal, okay?"
+Ootsuki Himeko (talking),"れすとらん……いっしょ……
+あ……お、おっけーおっけー！ トモダチトモダチ！ おはなし、おっけー！","Restaurant... Meal...
+ Oh... O-Okay, okay! Friend, friend! We talk, okay!"
+uimiiheishi (talking),ヒュー…簡単に騙されやがった。 こりゃ美味しいなマイケル。,"Phew, she got tricked easily. This is great, Michael."
+uimiiheishi (talking),だろ？ さ、行こうぜ仔猫ちゃ……,"Ain`t that the truth. Now let`s go, kitty ca-"
+Yamamoto Akuji (talking),……コラ、何やってんだクソ外人。,"...The fuck`re you doing, foreigner scum?"
+uimiiheishi (talking),？　なんだこのニホン人は…,?　Who`s this Jap?
+Yamamoto Akuji (talking),てめーら、 ニホン人騙して遊んでんじゃねぇ。 ……殺すぞ、クソッタレ。,"Having fun screwing around with the Japanese? I`ll kill you, motherfuckers."
+uimiiheishi (talking),……！ 貴様、ウィミィ語が解るのか！？,...! You know Wimenese?!
+Yamamoto Akuji (talking),おい嬢ちゃん、とっとと逃げな。 ニホン語は解るんだろ？,"Hey girlie, get outta here already. You speak Japanese, right?"
+Ootsuki Himeko (talking),……？　あなた何のつもり？ 私をナンパでもしようって言うの！？,...?　What are you doing? Are you hitting on me?!
+Yamamoto Akuji (talking),……へ？,...Huh?
+Ootsuki Himeko (talking),"背が高くてかっこいいウィミィの人と 私みたいな美人が一緒にいるのは 許せないって訳ね！？
+あーやだ！ あーーーーやだ！！ 閉鎖思考、旧世代、石頭！
+これからは国際交流の時代よ、 友情は国境を越えるの！ 解る？　ぐろーばる化なのよ！","You can`t stand to see a beauty like me with those cool, tall Wimenese men, right?!
+ Aaaaah, I hate you! You stubborn, narrow-minded traditionalist!
+ This is the age of globalization, in which friendship transcends borders! Understand?!"
+Yamamoto Akuji (talking),………………はあ、さいですか。,"...Uh-huh, got it."
+Ootsuki Himeko (talking),せっかく私たちの間に 友情が芽生えようとしていたのに ……邪魔しないでよねっ！,"I finally got a chance to make some new friends, too... Don`t get in my way!"
+Yamamoto Akuji (talking),……ダメだこりゃ。,...This chick`s hopeless.
+Ootsuki Himeko (talking),さ、いっしょに逝きましょう、 辛哀なるタワシのトモダチ。 おはなし、あんど、れすとらーん。,"N-Now, let`s part, together, recent friends. Talk, and, restaurant."
+uimiiheishi (talking),へへっ、そういうことだ。 じゃあな、ニホンのナイスガイ。 彼女は頂いていくぜ。,"Heheh, that`s how it is. See ya, Japanese nice guy.  We`ll be taking the girl."
+Yamamoto Akuji (talking),"…………
+別に、馬鹿娘が騙されたところで 俺は構やしねーんだが……
+ま、いっか、ほっとこう。","...
+ I don`t really care if some some dumb bitch gets tricked, but...
+ Eh, whatever. I`ll leave it be."
+Yamamoto Akuji (talking),ん？ 向こうから歩いてくるあの小娘…,Hm? That girl walking over there is..
+Ootsuki Himeko (talking),……？　私に何かご用ですか？,...?　Do you need something?
+Yamamoto Akuji (talking),ああ、やっぱりだな。 名前は……大槻姫子だったな、たしか。,"Knew it. our name was... Himeko Ootsuki, right?"
+Ootsuki Himeko (talking),……あ！ この前私をナンパしようとした人！,...Ah! You`re that guy who hit on me the other day!
+Yamamoto Akuji (talking),外人の顔は憶えられねーくせに ニホン人は一発で憶えるんだな。,"Ya sure remembered me quickly, considering you can`t remember foreigners."
+Ootsuki Himeko (talking),？　何言ってるの、あなた。,?　What are you talking about?
+Yamamoto Akuji (talking),お前、こないだ無事だったのか？ 襲われたんじゃねーか？　あの兵士に。,Were you alright the other day? Did those soldiers not jump you?
+Ootsuki Himeko (talking),……ぎくっ。,...Ack!
+Yamamoto Akuji (talking),…人の言うこと素直に聞いて 逃げときゃ良かったのによ。,...You should`ve listened to me and run away.
+Ootsuki Himeko (talking),うっ…うるさいわね！ 寸前でなんとか逃げたわよ！,Sh-Shut up! I managed to escape just before it happened!
+Yamamoto Akuji (talking),ほー、そりゃ何より。,"Well, good to hear it."
+Ootsuki Himeko (talking),たまたま…悪い人だったのよ。 かっこよくて紳士的なウィミィの人は みんなあんなじゃないんだから…,They... merely happened to be bad people. Most Wimenese men are cool and gentlemanly...
+Yamamoto Akuji (talking),"……あのなー。
+ウィミィの男は不当に差別されて 大抵は欲求不満なんだぞ。
+お前みたいに無防備だと、 襲われたって文句いえねーよ。 あんな真似、もうやめとけや。","...Listen here.
+ Wimenese men get shit treatment at home, so most of `em are pent-up.
+ No shit they`ll jump you if you`re that defenseless. You should stop approaching them."
+Ootsuki Himeko (talking),"ふんっ！ カタブツのニホン人男に 何が解るって言うのよ！
+これからはウィミィの時代なの、 私はウィミィの人と友達になって 会話力を磨くんだから！
+そして、世界を股にかける 国際派レディになるんだからっ！！","Hmph! What would some narrow-minded Japanese man know about them?!
+ This is Wime`s era. I`m gonna become friends with the Wimenese and hone my speaking abilities!
+ Then, I`ll become a cosmopolitan lady who travels around the world!"
+Yamamoto Akuji (talking),なんのこっちゃ。,What`s that about?
+Ootsuki Himeko (talking),持ってます、タワシは、本です。 持ってます、タワシは、ペンです。,"Me, holding book.  Me, holding pen."
+Yamamoto Akuji (talking),………………何言ってんだ、おめー。,...What are you even saying?
+Ootsuki Himeko (talking),ウィミィ語よ！ 悔しかったら訳してごらんなさいっ、 時代遅れのニホン人男っ！,"I`m speaking Wimenese! Try learning it some time, you backwards Japanese brute!"
+Yamamoto Akuji (talking),あのなー、お前のウィミィ語は 発音も文法もメチャクチャなんだよ。 そんなんじゃ通じねーぞ。,"Look, your pronounciation and grammar both suck. You won`t get through to them like this."
+Ootsuki Himeko (talking),え……は、はい？,Uh... Y-Yes?
+Yamamoto Akuji (talking),この程度も解んねーのか？ おめー、何勉強してんだよ……,You can`t even understand this? The fuck are you even studying...?
+Ootsuki Himeko (talking),……ちょっと、 早口でペラペラペラペラって、 何を喋ってるのよ。,"...Hold on, you`re talking too quickly. What are you even speaking?"
+Yamamoto Akuji (talking),ウィミィ語。,Wimenese.
+Ootsuki Himeko (talking),嘘おっしゃい！ あなたみたいな学の無さそうな人が…,Don`t lie to me! As if some uneducated brute like you could-
+Yamamoto Akuji (talking),"出兵時と捕虜時代に憶えたんだよ。
+勉強してりゃ偉いってもんじゃねー。 解ったか？　知ったかぶり娘。","I learned it while I was a POW.
+ Get it now, ya know-it-all?  You ain`t hot shit for studying it."
+Ootsuki Himeko (talking),"………………
+ど、どうせ適当に 早口言葉でも喋ってるんでしょ！？ このイカサマ男っ！
+ふんっ！！！","...
+ I-I bet you were just speaking gibberish to fool me, right?! You fraud!
+ Hmph!!"
+Yamamoto Akuji (talking),…やれやれ。,...Fuck`s sake.
+Yamamoto Akuji (talking),"しかし、 港もだんだん復興していくな。 建物が増えてら。
+ ……へー、あっちには 外国語塾なんてのまであんのか……","Man, even the port`s gradually being restored. There are more buildings getting built.
+ ...Huh, so there was even a foreign languages cram school here."
+ (talking),……ありがとサンキューまた来て四角。 先生、ねくすとまでそーろーんぐ。,"Thank you, I come again. So long next time, teacher."
+Yamamoto Akuji (talking),…………どっかで聞いたような 見事すぎる欠陥ウィミィ語だな…,Where did I hear that impressively shitty Wimenese before...?
+Henry Ru (talking),ＯＨ、ひめこサーン。 実にステキなウィミィ語デーす。 あなたスンッばらしーデーす。,"OH, Himeko-san. Your Wimenese is truly impressive. You`re woooonderful."
+Ootsuki Himeko (talking),そ、そうですか？ ありがとうございますヘンリー先生！,"R-Really? Thank you, Henry-sensei!"
+Henry Ru (talking),ＨＡＨＡＨＡＨＡＨＡＨＡ。 ワタシ先生ちがいマース。 ただノあるばいとデーす。,"HAHAHAHAHA. I am no teacher, this is but a part-time job."
+Ootsuki Himeko (talking),いえっ、私にとっては 憧れのウィミィ紳士ですから！,"No, to me, you`re the ideal Wimenese gentleman!"
+Henry Ru (talking),ＯＨ、流石ヒメコ、 グレイトゲイシャガール、デーす。 アリガトー、アリガトー。,"OH, that`s Himeko for you. What a great geisha girl. Thank you, thank you."
+Ootsuki Himeko (talking),"そ、そんな、感謝なんて…
+じゃ、じゃあ先生、また来週に！","O-Oh, you don`t have to thank me...
+ Th-Then, see you next week, sensei!"
+Henry Ru (talking),"…………あのコ、ばかデーす。 見込みないデーす。
+まあ、ワタシはお小遣い稼げれば ソレでいいデーす。 ＨＡＨＡＨＡＨＡＨＡＨＡＨＡ。","...That`s girl`s an idiot. She shows no promise.
+ Well, whatever, as long as she gives me some pocket money. HAHAHAHAHAHA."
+Ootsuki Himeko (talking),ふんふーん、ふんふーん♪ お勉強は楽しいな~♪,Hm-hm-hmmm-hm studying`s so fun~!
+Yamamoto Akuji (talking),………… 相変わらず盛大に騙されてんな、おい。,"... Getting tricked big-time like always, huh?"
+Ootsuki Himeko (talking),あ……こないだの知ったかぶり男！,Oh... you`re that know-it-all!
+Yamamoto Akuji (talking),…どっちがだ、どっちが。,Look who`s talking.
+Ootsuki Himeko (talking),あ…それ以上近寄らないで、 私ニホン人男性なんて 大嫌いなんだからっ！,Ah... don`t come any closer! I hate Japanese men!
+Yamamoto Akuji (talking),はあ、さいですか。,That so?
+Ootsuki Himeko (talking),"ウィミィ万歳、ウィミィ様々！ ニホンなんて負けて当然だったのよー！
+だから、敗者のニホン人男性なんて 私に近寄らないで！　もう二度と！
+ふんっ！！","Long live Wime! Wime`s the best! No wonder Japan lost!
+ So don`t ever get close to me again, loser Japanese man!
+ Hmph!"
+Yamamoto Akuji (thinking),"まあ、あの馬鹿娘がいくら騙されても 自業自得なんだろうが……
+ ……こいつの馬鹿さ加減のせいで ウィミィの連中がつけあがると 世間の迷惑だな、確実に。","(Well, that dumbass deserves it no matter how much she gets tricked, but...
+ Her stupidity`s gonna make the Wime bastards get cockier and a public nuisance, for sure.)"
+Yamamoto Akuji (talking),……おい、ウィミィかぶれの馬鹿女。 ちょっと待て。,"Hey, hold up, you Wime-loving dumbass."
+Ootsuki Himeko (talking),……むっ！　なによイカサマ男！ あんたに馬鹿なんて言われる憶えは──,"Hmph! What is it, you fraud?! I don`t want to be called stupid by you-"
+narrator,　　［ぽかっ］,*Smack*
+Ootsuki Himeko (talking),……はう~ん、むきゅ~………………,"...Hauugh, mmngh..."
+Yamamoto Akuji (talking),"…拳一発で面白いように気絶したな。 頭もカラだが体力もカラか…
+まあ、感謝しろ。 このままウィミィに利用される位なら 俺が利用してやる。
+国産の資源は 国内で有効に使わないとな。","All it took was a little punch to knock her out.
+ weak body, I guess. Well, be thankful. If you`re gonna end up being used by Wime,
+ then I`ll use you instead. A country`s gotta make use of its own resources, after all."
+Ootsuki Himeko (talking),私……は、きっと……でしょう、 なぜなら……だからです……,"I`m... definitely...for sure, because... that`s why..."
+Ishihara Senju (talking),……クス。 勉強熱心だね、姫子。,"...Teehee. You`re so passionate about studying, Himeko."
+Ootsuki Himeko (talking),"……え……
+ ……あっ！？ せっ、千手さんっ…！","...Huh...?
+ ...Ah?! S-Senju-san!"
+Ishihara Senju (talking),あはっ…偉い偉い、 ボクが言った通り、さん付けで 呼べるようになったんだね。,"Ahahah, good girl. You`re calling me “-san” just like I`d told you to."
+Ootsuki Himeko (talking),……うっ…うるさいわねっ、 誰も好きでそんな呼び方……,Sh-Shut up!、 Who`d ever do that because they like it?
+Ishihara Senju (talking),ふーん、生意気なのはそのままか。 またお仕置きされたいのかなー？,"Hmm, still cheeky, huh? Do you wanna get punished again?"
+Ootsuki Himeko (talking),ひ……っ…,Eep...!
+Ishihara Senju (talking),クスクス…何だよ姫子。 お仕置きって言っただけで、 そんなに大袈裟に驚くんだね？,"Teehee... What`s wrong, Himeko? Does that word scare you that badly?"
+Ootsuki Himeko (talking),なっ、何でも… 何でもないわよっ……,N-No!  It`s nothing!
+Ishihara Senju (talking),ふーん…まあいいや。 さ、もう一つの勉強、始めようよ。,"Hmm... fine, then. Now, let`s begin studying something else."
+Ootsuki Himeko (talking),……うっ……,Ugh...
+Ishihara Senju (talking),さ、地下室、行こ？ 昨日よりもっと すごいことしてあげるからさ。,Shall we go to the underground room? What I have for you today is even better than yesterday.
+Ootsuki Himeko (talking),"…………
+もう……嫌っ！ こんなの、こんなの嫌っ！！
+調子に乗ってんじゃないわよっ、 子供のくせにっ！ 何様のつもりなのよおっ！
+私は…私は、国際派レディになるのっ！ こんなところでこんなことしてる暇、 ないんだからあっ！
+こんな…とこ、嫌…… ウィミィに……行くのっ… 行くんだから………………
+行くん……だからっ…………","...
+ No... no more! I hate this!
+ Don`t get carried away! You`re just a kid! Who do you think you are?!
+ I`m gonna become a lady of the world! I don`t have the time to be here doing this sort of thing!
+ I... don`t like it here... I wanna go to Wime...! I`m gonna go there...
+ I`m going, so...!"
+Ishihara Senju (talking),"…………
+ふぁ~……っ。","...
+ Yaaaaawn."
+Ootsuki Himeko (talking),な……何よ、そのあくび……,Wh-What`s with that yawn?
+Ishihara Senju (talking),"……むにゃ。 言いたいことはそんだけ？ もう終わりだよね？
+さ、地下室行くよ。 ……ほら、さっさと来いよ、ほらっ。","Ahem. Is that all you had to say? Are you done now?
+ Now let`s go. ...Come on, hurry up!"
+Ootsuki Himeko (talking),ちょ…ちょっと、 手を引っ張らないでっ！ だから私は嫌なの、もう嫌だって──,"H-Hold on, don`t pull my hand! I told you already, I don`t like this!"
+Ishihara Senju (talking),……本当に嫌なの？,...Do you really?
+Ootsuki Himeko (talking),っ……と、当然じゃない！,...I-Isn`t it obvious?!
+Ishihara Senju (talking),"なら、逃げたら？ 逃げなよ、ほら。
+姫子さ、図体だけはボクより大きいし。 逃げようと思ったら逃げられるでしょ？","Then run away. Go on. Size is the one thing you have on me.
+ You`d make it if you were to run away, don`t you think?"
+Ootsuki Himeko (talking),に、逃げたって… どうせ、いつもみたいにっ…,"R-Run away, you say... It`ll end up like always..."
+Ishihara Senju (talking),"そだねー、スタンガンもあるし 改造したビー玉鉄砲も持ってるよ。 ボクは絶対、姫子を逃がさない。
+でも、本当に逃げたいなら 何もしないよりマシじゃない？","Right, I have my taser and my modified BB gun. I definitely won`t let you escape.
+ But if you really wanna escape, that`s better than doing nothing, no?"
+Ootsuki Himeko (talking),いっ…嫌よっ！ 痛い思いだけして、結局……,N-No! I know I`ll just get hurt in the end...
+Ishihara Senju (talking),"…………国際派レディって、 自分に言い訳するのが上手なんだね？
+そろそろ認めたらどうなのさ？ ボクにいじめられて感じてるんだろ？ だから逃げないんだ。
+ははっ、姫子は淫乱だもんねー。","...Are ladies of the world all good at making excuses?
+ How about you admit it? That you feel good when I mess with you? Which is why you don`t run away.
+ Hahah, you`re so lewd, Himeko."
+Ootsuki Himeko (talking),だっ、誰が……,Wh-Who are you calling-?!
+Ishihara Senju (talking),だーかーらーさー。 そうやってつっかかるんなら、 逃げてみせろって言うんだよ。,"Like. I. Said. If you hate it that much,  then try running away."
+Ootsuki Himeko (talking),"…………
+うっ、ううっ……","...
+ A-Aaawwww...!"
+Ishihara Senju (talking),"あーあ、泣いちゃった……
+泣かないで、大丈夫だよ。 ボクは姫子をいじめるのが好きなんだ。 ひどいケガなんてさせやしないよ。
+ ……クスクス。 軽いケガならいっぱいさせるけどね… 姫子が喜ぶようなやつをさ……","Aw man, I made her cry..
+ Don`t cry, it`s alright. I like messing with you, Himeko。 I`ll never hurt you badly.
+ Teehee, but I will hurt you a bit, and often... In a way that you like..."
+cg narrator,"──ひどい姿だった。
+裸にされて両手と右足を吊り上げられ、 姫子は左足一本でようやく躰の平衡を保っていた。
+その上、菊座にはポンプ付きの細いチューブが 差し込まれ、バケツに満たされたグリセリンを 少しずつ直腸に送り込んでくる。
+グリセリンの流れを少しでも止めるには、 菊座にぐっと力を入れて、 軟質素材のチューブ先端を締め付けるしかないが──
+「……ほんと、いい格好だよ、姫子」
+クスッと笑った千手が、 手にしたリモコンのスイッチに指をかけた。
+「せーの、すいっち・おーん」
+リモコンから延びたコードは、 クリップ状の電極によって姫子の花芯へと繋がる。 当然、スイッチを入れれば電流が流れ──
+「うぁ……ひゃああアっ！ 　ハぁ、っ……っヒ！　いやはァっ！」
+電圧がかかる度、姫子の躰が面白いように跳ねる。
+吊された両手と右足に、ロープが食い込んでくる。
+「……うんうん、動作良好。すいっち・おーふ」
+電極責めから開放されて、姫子が項垂れる。
+「……ぁ………………ぅぁ……」
+思わず、姫子は躰を弛緩させる。
+──と、菊座に繋がれたチューブから、 大量のグリセリンが直腸へと流れ込んでくる。
+「うぁ……うああああああっ……！！」
+姫子は慌てて菊座を締め付け、 流れ込むグリセリンをそこで留めた。
+だが、すでに体内へと入り込んだグリセリンは、 姫子の腹中で暴れ回っている。
+「うぁ……うああ……うぐ、っ、ぁ……」
+「ハハッ……面白いや。 　ねえ姫子、面白いよねー？」
+千手は場違いなほど明るく、楽しそうに言う。
+だがもう、姫子には応える余裕などない。
+「う、あ…………かは……………………ッ……」
+涙が、涎が、止めどなく溢れてくる。
+痛かった。苦しかった。 姫子にあるのはもう、ただそれだけだった。
+「さーて、何回くらいイケるかなー。 　おん・おふ。おん・おふ。 　おん・おふ……と見せかけて続けてみたりして」
+手元のスイッチをいじるたび、姫子の躰は 千手の意のままにびくんびくんと跳ね回る。
+「ふぁ！　……ひゃあああッ！　く……っああ！ 　あっ、っア……きゃんっ！　ひあっ……」
+あまりの苦痛に、頭が朦朧としてくる。
+躰の感覚が、遠くなってくる。
+「…………う、ぁ…………」
+──その、許容量を超えた苦痛が、 姫子の躰を狂わせていく。
+「……あれ？　ねーねー、姫子ぉ。 　なんか、股のワレメが濡れてきてるよ？」
+千手が、姫子の秘裂を凝視して言う。
+確かに、姫子の秘裂は、 内側からねとつく潤みを染み出させていた。
+「やっぱり、感じてるんだね。 　奥のほう、もうドロドロじゃないか。 　……何が国際派レディだよ、淫乱女」
+言いながら、 千手はまたリモコンのスイッチを入れる。
+「……やは…ひゃああっ……んあ、ああっ……！ 　あ、や……ひうぅ……んアッ、あ……！！」
+──姫子の喘ぎ声が、確かに艶めいていた。
+姫子の躰は──いや脳は、 あまりの苦痛に耐えかねて逃避を始めていた。
+痛みも、苦しみも、何もかも。 全て甘い悦楽に変えてしまう禁断の逃避。
+それは、死に瀕した人間が、 安らかな顔で死んでいくのと同じ原理。
+──いわゆる、脳内麻薬の分泌。
+本来なら、命と引き替えに得る究極の快楽。 千手の責めが、それを引き出していた。
+そんな、圧倒的な悦楽に、 姫子が耐えられるはずはない。
+「ああ、やは……ああアァ……っあ……！ 　やは、ああ……ああっ……い、いいっ……」
+「クスクス……そう、姫子、そんなにいいの。 　エッチな穴、ヒクヒクさせてさ……」
+「やあ……ああッ、ああ……っは、ふあやっ……」
+「クスクス…成功したみたいだね。 　これねー、よっぽど淫乱じゃないと 　なかなか成功しないんだよ」
+「ああ……っすご、痛……ぃ、きもちい……っ、 　やあ、やはァ…………ぁアっ……」
+「ねえ姫子、もう認めたら？ 　私は真性のマゾで淫乱です、 　勉強するより苛めてほしいんです、ってさ」
+「み、と……みとめま……す、から………… 　い……いいの、いい……の… 　せん、じゅさ……ん、も、っと……」
+「……いいよ、好きなだけイキなよ。 　真性淫乱の国際派レディさん」","--It was an awful sight.
+ Himeko was stripped naked and made to hang from her limbs, with only her left leg sustaining her balance.
+ Furthermore, a thin tube attached to a pump was inserted into her anus, slowly pouring the glycerin contained in a nearby bucket inside her.
+ The only way to stop the flow of glycerine, even if by a little, was for her to contract her anus and squeeze the flexible tube shut, but--
+ ...You really look good like this, Himeko.
+ Senju would then press a button on his controller, giggling all the while.
+ Time to turn it on.
+ The cord stretching form the controller was an electrode that gripped Himeko`s clit. Naturally, when turned on, electricity flowed through--
+ Ugh... hyaaaaaah! haaah! eeeek! Nooooooo!
+ Himeko`s body contorted comically every time it felt the voltage.
+ The rope bit into her arms and right leg.
+ Mhm, working as intended. Turning it off.
+ Released from the electrical torment, Himeko hung her head.
+ Ah... wah...
+ Himeko unconsciously loosened her body.
+ --Which made the tube in her anus pump a large amount of glycerin inside her.
+ W-Waaaaaaaaaaah!!
+ Himeko hurriedly clenched her anus, forcing the flow of glycerin to stop.
+ However, the glycerin that had already gone into her body began to stir up her insides.
+ Wah... aaauuugh... ngh! ah!
+ Hahah, this is so funny. Don`t you think so, Himeko?
+ Senju spoke in a cheery tone, completely out-of-place.
+ But Himeko no longer had any time to respond.
+ Ugh, ah... khahah...!
+ Her tears and spit flowed endlessly.
+ It hurt. It was agonizing. Those were the only things Himeko could think of.
+ 「Now, how many times can we do it? On, off, on, off, on, off... Yes, like that.
+ Every time Senju pressed the button, Himeko`s body would jump about as he wished.
+ Fwah! hyaaaaaaaaah! kh, aaaahhh! ah! ah! kyaaaaah! hyaaah!
+ The pain made Himeko`s head feel hazy.
+ Her body`s sensations became distant.
+ ...Ugh... ah...
+ The pain had exceeded her tolerance, and drove Himeko`s body mad.
+ ...Oh? Heeey, Himeko? Your slit`s getting wet, did you know?
+ Senju spoke as he gazed at Himeko`s pussy.
+ Certainly, a sticky liquid was flowing out of her pussy.
+ I knew it, you`re feeling good. You`re sopping wet inside. And you`re supposed to be a lady of the world,
+ you slut? Senju turned his controller on again.
+ Yaaaaaah! hyaaah! nhah, aaaahn! ah, ah, hyaaauuuh, nhah!
+ Himeko`s moans were clearly alluring.
+ Unable to withstand the pain, her body - or rather, her brain - tried to escape from it.
+ It turned her pain, suffering, and everything else into sweet pleasure.
+ It was the same principle that worked on those, those on the verge of death, so that they may die peacefully.
+ --Her own brain secreted a drug, so to speak.
+ Originally, it is an extreme pleasure one pays for with their life, but Senju`s teasing managed to draw it out.
+ There was no way Himeko could withstand such overwhelming pleasure.
+ Aaahn, yaaaaaahn... aaaaaaaahn! Nooooo, aaaahn... ahn, ahn! S-So good...!
+ Heheh... So it feels that good, Himeko? Your dirty hole is twitching...
+ Noooo... aaaahn! aaaahn...! haaaah, fwaaaaaaaah!
+ Heheh, looks like it was a success. You see, this hardly ever goes well if the person taking it isn`t lewd.
+ Aaah...! Amazing! It hurts...  it feels good...! yaaaahn, ahaaaahn!
+ Why not admit it already, Himeko? That you`re a born masochist, and a pervert who`d rather be teased than study.
+ I-I... admit it, so... Good, s-so good... Senju-san... mnh, moooore...
+ ...Fine, cum as much as you want. You perverted, masochistic lady of the world."
+cg narrator,"千手はスイッチを入れたあと、 リモコンを床に置いて姫子に背を向けた。
+ 「お腹すいたから、ボク、ラーメン食べてくる。 　それまで一人でイッてなよ」
+そして、千手は地下室を出る。
+ 「ああ……あああッ…… 　やは……ああ……っ、ぁ……………………」
+ 「……………………ぁ、ぁ……………………」
+間もなく、 姫子の意識は連続する絶頂の波に呑まれた。
+唯一の支えだった左足を折り、 床に倒れ込み、躰を弛緩させて──
+腹中に溜まったグリセリンを、 死の淵に立つほどの悦楽を与えてくれた液体を、 床一面にぶちまけて──
+ ──幸せそうな微笑みを浮かべたまま、気絶した。","Senju turned the controller on, then placed it on the floor and turned away.
+ I`m hungry, so I`ll go get some ramen. You stay there and cum `til I`m back.
+ With that, Senju left the underground room.
+ Aaahn... aaaaaaaaaahn! yaaaaaaahn... aaaaaaaaaahn!!
+ ...ah, ahn...
+ Before long, Himeko`s consciousness was assaulted by waves of successive climaxes.
+ She bent her sole supporting leg, collapsed onto the floor, and loosened her body--
+ The glycerin inside her body,  which had given her almost lethal amounts of pleasure, scattered all over the floor--
+ --And Himeko fainted, with a blissful smile on her face."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Chinpira (talking),ひーめこちゃん。 お客さんだよー。,"Himeko-chaaan, you`ve got a customer."
+Ootsuki Himeko (talking),………………パスして。 今ウィミィ語会話のヒアリング中なの。,...I`ll pass. I`m doing my Wimenese lessons right now.
+Chinpira (talking),そんな事言わないでさ~。,Don`t be like that.
+Ootsuki Himeko (talking),パスったらパス！ お給料引いてくれてもいいからっ！,I said I`ll pass! It`s fine if you take it out of my pay!
+Chinpira (talking),…………でも、お客さんって ウィミィの人なんだけど。,...But the customer`s from Wime.
+Ootsuki Himeko (talking),ああんもう、 それをもっと早く言ってよ！ 通して、通して、早く！！,"Geez, why didn`t you say so before?! Let him through, hurry!"
+Chinpira (talking),……はいはい……,...`kay...
+uimiiheishi (talking),ハァイ。 元気にしてたかい？　姫子。,"Hi. You doing well, Himeko?"
+Ootsuki Himeko (talking),"あら？　フレッドじゃない！ 最近ご無沙汰だから本国に 帰っちゃったかと思ってたわ！
+ね、フレッド。 キスして、キスキス……♪","If it isn`t Fred! I haven`t seen you in a while, so I thought you`d gone back to Wime!
+ Hey, Fred... Give me a kiss.♪"
+uimiiheishi (talking),…………ん…………む。 これでいいかい？,Mmmnh... Is this fine?
+Ootsuki Himeko (talking),ありがとー♪ さ、早く服脱いで……,"Thank you! Now, let`s get your clothes off..."
+uimiiheishi (talking),…………しかし姫子、 ウィミィ語上手くなったな。 どこかで専門的に習ってるのかい？,"...I gotta say, your Wimenese`s gotten quite good. Have you been taking lessons?"
+Ootsuki Himeko (talking),ええ、ベッドでね。,"Yeah, in bed."
+uimiiheishi (talking),は？,Huh?
+Ootsuki Himeko (talking),"フレッドも大切な先生の一人よ。
+心と躰を許し合いながら 密度の高いコミュニケーション……
+ふふふふ~。 やっぱり何事も、物を言うのは実践よ！","You`re one of my precious teachers, Fred.
+ We engage in deep communication, with our bodies and minds tangled...
+ Heheheh, as they say, practice makes perfect!"
+uimiiheishi (talking),ＨＡＨＡＨＡ、なるほどな。 じゃあ今日もたっぷり レッスンといこうか……,"Hahahah, I get it. Then how about I give you another thorough lesson today...?"
+Ootsuki Himeko (talking),あン……もう、せっかちなんだから……,"Ahn... geez, you`re so impatient..."
+Ootsuki Himeko (talking),"……あー、ガードナー面白かった。 トウェインもなかなか…………
+やっぱり、向こうの小説は 原版のウィミィ語で読むに限るわ。
+でも、ここまで上達すると 思わなかったな。 この仕事のおかげよね……
+ふふ、今度ウィミィ語検定の 一級受けようっと。
+仕事も勉強もがんばるぞーーーーーっ。 おーーーーーーーーっ。","Gardner was a fun read. Twain was also good...
+ I`ll only read novels in their original language, Wimenese.
+ But I never thought I`d become this fluent. It was all thanks to this job...
+ Heheh, I`ll take the Wimenese proficiency test.
+ I`ll do my best at working and studying! Woooo!"

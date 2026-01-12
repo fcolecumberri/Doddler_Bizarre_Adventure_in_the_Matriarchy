@@ -6,9 +6,16 @@
 
 This is the translation project for the Alicesoft's Daiakuji game.
 
-This translation has been done using multiple machine translation (MTL) systems into Spanish and English. Followed by manually fixing the MTL errors that may appear.
+This repository provides both translation projects, Dozu Lad' translation and ours (me and the wonderfull people in the `thanks` section).
 
-There has been a lot of MTL errors already fixed and I know there are still a lot to fix so I realize if I want this to be finished I need to open the project so people that might want to help, help.
+Dozu Lad' translation is MTL free but still has Japanese text.
+
+In the other hand our translation has been done using multiple machine translation (MTL) systems into Spanish and English. Followed by manually fixing the MTL errors that may appear. There has been a lot of MTL errors already fixed and I know there are still a lot to fix.
+
+Both projects started independently, but now Dozu Lad and I have finally met and decided to join efforts to try to fullfill each others needs.
+We hope that my programming experience will fix some known issues that appeared in Dozu Lad project while Dozu Lad's knowledge of the language provides a great oportunity to get rid of MTL.
+
+As always this being a GitHub project, people are welcome to help (Speciall thanks to [GCNess](https://github.com/GCNess) for helping with the project).
 
 ## How to play
 
@@ -90,6 +97,8 @@ If you wan't to help, start by checking the issues on this project, I'll try to 
 
 First and foremost, thanks [Alicesoft](https://www.alicesoft.com/) and [Hanny King](https://x.com/hanny_king) for creating this awesome master piece.
 
+[Dozu Lad](https://x.com/Bfarchs) For being as crazy as me thinking this was going to be an easier task and also helping me with this collaboration.
+
 I want to thank AruNaru, [your video](https://www.youtube.com/watch?v=RV37EIVDhpc) was the first domino that made this possible.
 
 [Cecelia](https://www.youtube.com/@CeceliaIsAWeeb) for all the support you have given to me. Each time I have needed help with this project, you knew exactly who I needed to talk to, without you this project would be farther away.
@@ -134,4 +143,13 @@ If you want to fix it, create a Pull Request, I will gladly merge it and it will
 
 If you don't want (or know how to) could you please open an Issue? I'll try to attend it as soon as possible.
 
+### What's going to happen now that there are 2 projects seemingly doing the same?
 
+The idea is to merge both projects into a single final version.
+
+The MTL version will keep since is it is the only one with a Spanish version and
+it also provides a version that is fully translated
+(people that have no idea of japanese might prefere an English with errors here and there over English with unreadable pieces here and there).
+
+The idea in that front now is to use Dozu Lad's version to clean up MTL garbage both in English and Spanish which will be easier and faster.
+Hopefully this will converge in a single translation.

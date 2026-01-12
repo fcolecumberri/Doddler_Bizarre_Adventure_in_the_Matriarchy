@@ -1,0 +1,285 @@
+character,jap text,Eng
+__system__??,{KEY \ 0:,{KEY \ 0:
+__system__??,},}
+__system__??,{(U01 < 10) + (U02 < 5):,{(U01 < 10) + (U02 < 5):
+__system__??,{SCG[D06] \ 0:,{SCG[D06] \ 0:
+__system__??,},}
+__system__??,} else {,} else {
+__system__??,{(U02 = 5) * (SVG[26] = 1):,{(U02 = 5) * (SVG[26] = 1):
+__system__??,},}
+__system__??,{(U02 = 6) * (SVG[4] > 9999):,{(U02 = 6) * (SVG[4] > 9999):
+__system__??,},}
+__system__??,{(U02 = 7) * (SVG[2] > 999):,{(U02 = 7) * (SVG[2] > 999):
+__system__??,},}
+__system__??,{(U02 = 8) * (SVG[20] \ 0):,{(U02 = 8) * (SVG[20] \ 0):
+__system__??,},}
+__system__??,{(U02 = 9) * (SVG[28] = 1):,{(U02 = 9) * (SVG[28] = 1):
+__system__??,},}
+__system__??,{(U02 = 10) * (SVG[27] = 1):,{(U02 = 10) * (SVG[27] = 1):
+__system__??,},}
+__system__??,{U02 = 11:,{U02 = 11:
+__system__??,},}
+__system__??,{(U02 = 12) * ((SVG[31] = 1) + (SVG[32] = 1) + (SVG[33] = 1) + (SVG[34] = 1) + (SVG[35] = 1) + (SVG[36] = 1) + (SVG[37] = 1) + (SVG[38] = 1) + (SVG[39] = 1) + (SVG[40] = 1)):,{(U02 = 12) * ((SVG[31] = 1) + (SVG[32] = 1) + (SVG[33] = 1) + (SVG[34] = 1) + (SVG[35] = 1) + (SVG[36] = 1) + (SVG[37] = 1) + (SVG[38] = 1) + (SVG[39] = 1) + (SVG[40] = 1)):
+__system__??,},}
+__system__??,{U02 = 13:,{U02 = 13:
+__system__??,},}
+__system__??,{U02 = 14:,{U02 = 14:
+__system__??,},}
+__system__??,{(U02 = 15) * (SVG[29] = 1):,{(U02 = 15) * (SVG[29] = 1):
+__system__??,},}
+__system__??,},}
+__system__??,{SEPL[D02] = 1:,{SEPL[D02] = 1:
+__system__??,},}
+__system__??,{KEY & 64:,{KEY & 64:
+__system__??,},}
+__system__??,{(11 < yPos) * (yPos < 108):,{(11 < yPos) * (yPos < 108):
+__system__??,{(11 < xPos) * (xPos < 140):,{(11 < xPos) * (xPos < 140):
+__system__??,{63 < xPos:,{63 < xPos:
+__system__??,},}
+__system__??,},}
+__system__??,{(153 < xPos) * (xPos < 282):,{(153 < xPos) * (xPos < 282):
+__system__??,{63 < xPos:,{63 < xPos:
+__system__??,},}
+__system__??,},}
+__system__??,{(295 < xPos) * (xPos < 424):,{(295 < xPos) * (xPos < 424):
+__system__??,{63 < xPos:,{63 < xPos:
+__system__??,},}
+__system__??,},}
+__system__??,{(437 < xPos) * (xPos < 566):,{(437 < xPos) * (xPos < 566):
+__system__??,{63 < xPos:,{63 < xPos:
+__system__??,},}
+__system__??,},}
+__system__??,{D01 \ 1000:,{D01 \ 1000:
+__system__??,{yPos < 60:,{yPos < 60:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{(121 < yPos) * (yPos < 218):,{(121 < yPos) * (yPos < 218):
+__system__??,{(11 < xPos) * (xPos < 140):,{(11 < xPos) * (xPos < 140):
+__system__??,},}
+__system__??,{(153 < xPos) * (xPos < 282):,{(153 < xPos) * (xPos < 282):
+__system__??,},}
+__system__??,{(295 < xPos) * (xPos < 424):,{(295 < xPos) * (xPos < 424):
+__system__??,},}
+__system__??,{(437 < xPos) * (xPos < 566):,{(437 < xPos) * (xPos < 566):
+__system__??,},}
+__system__??,{D01 \ 1000:,{D01 \ 1000:
+__system__??,{yPos < 170:,{yPos < 170:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{(231 < yPos) * (yPos < 328):,{(231 < yPos) * (yPos < 328):
+__system__??,{(11 < xPos) * (xPos < 140):,{(11 < xPos) * (xPos < 140):
+__system__??,},}
+__system__??,{(153 < xPos) * (xPos < 282):,{(153 < xPos) * (xPos < 282):
+__system__??,},}
+__system__??,{(295 < xPos) * (xPos < 424):,{(295 < xPos) * (xPos < 424):
+__system__??,},}
+__system__??,{(437 < xPos) * (xPos < 566):,{(437 < xPos) * (xPos < 566):
+__system__??,},}
+__system__??,{D01 \ 1000:,{D01 \ 1000:
+__system__??,{yPos < 280:,{yPos < 280:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{(341 < yPos) * (yPos < 438):,{(341 < yPos) * (yPos < 438):
+__system__??,{(11 < xPos) * (xPos < 140):,{(11 < xPos) * (xPos < 140):
+__system__??,},}
+__system__??,{(153 < xPos) * (xPos < 282):,{(153 < xPos) * (xPos < 282):
+__system__??,},}
+__system__??,{(295 < xPos) * (xPos < 424):,{(295 < xPos) * (xPos < 424):
+__system__??,},}
+__system__??,{(437 < xPos) * (xPos < 566):,{(437 < xPos) * (xPos < 566):
+__system__??,},}
+__system__??,{D01 \ 1000:,{D01 \ 1000:
+__system__??,{yPos < 390:,{yPos < 390:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{D01 < 1000:,{D01 < 1000:
+__system__??,{xPos - 142 * (D01 % 4) < 64:,{xPos - 142 * (D01 % 4) < 64:
+__system__??,},}
+__system__??,{TMP_DAT1[D01] = 0:,{TMP_DAT1[D01] = 0:
+__system__??,},}
+__system__??,{(D05 = 10) * (D01 > 8):,{(D05 = 10) * (D01 > 8):
+__system__??,},}
+__system__??,},}
+__system__??,{(572 < xPos) * (xPos < 638):,{(572 < xPos) * (xPos < 638):
+__system__??,{(6 < yPos) * (yPos < 44):,{(6 < yPos) * (yPos < 44):
+__system__??,},}
+__system__??,{(46 < yPos) * (yPos < 84):,{(46 < yPos) * (yPos < 84):
+__system__??,},}
+__system__??,{(86 < yPos) * (yPos < 124):,{(86 < yPos) * (yPos < 124):
+__system__??,},}
+__system__??,{(126 < yPos) * (yPos < 164):,{(126 < yPos) * (yPos < 164):
+__system__??,},}
+__system__??,{(166 < yPos) * (yPos < 204):,{(166 < yPos) * (yPos < 204):
+__system__??,},}
+__system__??,{(206 < yPos) * (yPos < 244):,{(206 < yPos) * (yPos < 244):
+__system__??,},}
+__system__??,{(246 < yPos) * (yPos < 284):,{(246 < yPos) * (yPos < 284):
+__system__??,},}
+__system__??,{(286 < yPos) * (yPos < 324):,{(286 < yPos) * (yPos < 324):
+__system__??,},}
+__system__??,{(326 < yPos) * (yPos < 364):,{(326 < yPos) * (yPos < 364):
+__system__??,},}
+__system__??,{(366 < yPos) * (yPos < 404):,{(366 < yPos) * (yPos < 404):
+__system__??,},}
+__system__??,{(406 < yPos) * (yPos < 444):,{(406 < yPos) * (yPos < 444):
+__system__??,},}
+__system__??,},}
+__system__??,{450 < yPos:,{450 < yPos:
+__system__??,{(163 < xPos) * (xPos < 440):,{(163 < xPos) * (xPos < 440):
+__system__??,},}
+__system__??,},}
+__system__??,{whCnt1 \ 1000:,{whCnt1 \ 1000:
+__system__??,{whCnt1 < 1000:,{whCnt1 < 1000:
+__system__??,},}
+__system__??,{whCnt1 > 1000:,{whCnt1 > 1000:
+__system__??,},}
+__system__??,},}
+__system__??,{450 < yPos:,{450 < yPos:
+__system__??,{(163 < xPos) * (xPos < 440):,{(163 < xPos) * (xPos < 440):
+__system__??,},}
+__system__??,},}
+__system__??,{(D01 \ D02) + (D03 \ D04):,{(D01 \ D02) + (D03 \ D04):
+__system__??,{D02 \ 1000:,{D02 \ 1000:
+__system__??,},}
+__system__??,{D01 \ 1000:,{D01 \ 1000:
+__system__??,},}
+__system__??,},}
+__system__??,{U02 = 0:,{U02 = 0:
+__system__??,{(D01 < 1000) * (D01 = D02):,{(D01 < 1000) * (D01 = D02):
+__system__??,},}
+__system__??,{U01 < 1000:,{U01 < 1000:
+__system__??,},}
+__system__??,{(1000 < U01) * (U01 < 2000):,{(1000 < U01) * (U01 < 2000):
+__system__??,},}
+__system__??,{U01 = 4001:,{U01 = 4001:
+__system__??,},}
+__system__??,},}
+__system__??,{U02 = 1:,{U02 = 1:
+__system__??,{U01 < 1000:,{U01 < 1000:
+__system__??,{(D01 \ D02) + (D03 \ 0):,{(D01 \ D02) + (D03 \ 0):
+__system__??,},}
+__system__??,{(D05 < 10) + (U01 < 5):,{(D05 < 10) + (U01 < 5):
+__system__??,{TMP_DAT1[D01] \ 0:,{TMP_DAT1[D01] \ 0:
+__system__??,{D03 = 0:,{D03 = 0:
+__system__??,} else if {D03 = 1:,} else if {D03 = 1:
+__system__??,} else if {D03 = 2:,} else if {D03 = 2:
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{(1000 < U01) * (U01 < 2000):,{(1000 < U01) * (U01 < 2000):
+__system__??,},}
+__system__??,{U01 = 4001:,{U01 = 4001:
+__system__??,},}
+__system__??,},}
+__system__??,{U02 = 2:,{U02 = 2:
+__system__??,{U01 = 4001:,{U01 = 4001:
+__system__??,},}
+__system__??,},}
+__system__??,{KEY = 16:,{KEY = 16:
+__system__??,{D01 = 1000:,{D01 = 1000:
+__system__??,},}
+__system__??,{D01 < 1000:,{D01 < 1000:
+__system__??,{(D05 < 10) + (D01 < 5):,{(D05 < 10) + (D01 < 5):
+__system__??,{D03 = 0:,{D03 = 0:
+__system__??,} else if {TMP_DAT1[D01] \ 0:,} else if {TMP_DAT1[D01] \ 0:
+__system__??,{D03 = 1:,{D03 = 1:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,} else if {TMP_DAT1[D01] \ 0:,} else if {TMP_DAT1[D01] \ 0:
+__system__??,{D01 = 5:,{D01 = 5:
+__system__??,},}
+__system__??,{D01 = 6:,{D01 = 6:
+__system__??,},}
+__system__??,{D01 = 7:,{D01 = 7:
+__system__??,},}
+__system__??,{D01 = 8:,{D01 = 8:
+__system__??,},}
+__system__??,{D01 = 9:,{D01 = 9:
+__system__??,},}
+__system__??,{D01 = 10:,{D01 = 10:
+__system__??,},}
+__system__??,{D01 = 11:,{D01 = 11:
+__system__??,},}
+__system__??,{D01 = 12:,{D01 = 12:
+__system__??,},}
+__system__??,{D01 = 13:,{D01 = 13:
+__system__??,},}
+__system__??,{D01 = 14:,{D01 = 14:
+__system__??,{KEY \ 0:,{KEY \ 0:
+__system__??,},}
+__system__??,},}
+__system__??,{D01 = 15:,{D01 = 15:
+__system__??,},}
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,{(1000 < D01) * (D01 < 2000):,{(1000 < D01) * (D01 < 2000):
+__system__??,},}
+__system__??,{D01 = 4001:,{D01 = 4001:
+__system__??,},}
+__system__??,},}
+__system__??,{KEY = 32:,{KEY = 32:
+__system__??,},}
+__system__??,{KEY = 16:,{KEY = 16:
+__system__??,{D01 = 1000:,{D01 = 1000:
+__system__??,},}
+__system__??,{D01 = 4001:,{D01 = 4001:
+__system__??,},}
+__system__??,},}
+__system__??,{KEY = 32:,{KEY = 32:
+__system__??,},}
+__system__??,{D05 < 11:,{D05 < 11:
+__system__??,},}
+__system__??,{(D05 < 10) + (U01 < 5):,{(D05 < 10) + (U01 < 5):
+__system__??,{SCG[D06] \ 0:,{SCG[D06] \ 0:
+__system__??,},}
+__system__??,} else {,} else {
+__system__??,{(U01 = 5) * (SVG[26] = 1):,{(U01 = 5) * (SVG[26] = 1):
+__system__??,},}
+__system__??,{(U01 = 6) * (SVG[4] > 9999):,{(U01 = 6) * (SVG[4] > 9999):
+__system__??,},}
+__system__??,{(U01 = 7) * (SVG[2] > 999):,{(U01 = 7) * (SVG[2] > 999):
+__system__??,},}
+__system__??,{(U01 = 8) * (SVG[20] \ 0):,{(U01 = 8) * (SVG[20] \ 0):
+__system__??,},}
+__system__??,{(U01 = 9) * (SVG[28] = 1):,{(U01 = 9) * (SVG[28] = 1):
+__system__??,},}
+__system__??,{(U01 = 10) * (SVG[27] = 1):,{(U01 = 10) * (SVG[27] = 1):
+__system__??,},}
+__system__??,{U01 = 11:,{U01 = 11:
+__system__??,},}
+__system__??,{(U01 = 12) * ((SVG[31] = 1) + (SVG[32] = 1) + (SVG[33] = 1) + (SVG[34] = 1) + (SVG[35] = 1) + (SVG[36] = 1) + (SVG[37] = 1) + (SVG[38] = 1) + (SVG[39] = 1) + (SVG[40] = 1)):,{(U01 = 12) * ((SVG[31] = 1) + (SVG[32] = 1) + (SVG[33] = 1) + (SVG[34] = 1) + (SVG[35] = 1) + (SVG[36] = 1) + (SVG[37] = 1) + (SVG[38] = 1) + (SVG[39] = 1) + (SVG[40] = 1)):
+__system__??,},}
+__system__??,{U01 = 13:,{U01 = 13:
+__system__??,},}
+__system__??,{U01 = 14:,{U01 = 14:
+__system__??,},}
+__system__??,{(U01 = 15) * (SVG[29] = 1):,{(U01 = 15) * (SVG[29] = 1):
+__system__??,},}
+__system__??,},}
+__system__??,{RND = 105:,{RND = 105:
+__system__??,},}
+__system__??,{RND = 72:,{RND = 72:
+__system__??,},}
+__system__??,{RND = 28:,{RND = 28:
+__system__??,},}
+__system__??,{U01 < 2003:,{U01 < 2003:
+narrator,インターネットに接続します。 よろしいでしょうか？,インターネットに接続します。 よろしいでしょうか？
+narrator,はい,はい
+narrator,いいえ,いいえ
+__system__??,{U01 = 1:,{U01 = 1:
+__system__??,},}
+__system__??,} else {,} else {
+narrator,アンケート期間は終了しました。 また次の機会にはお願いします。,アンケート期間は終了しました。 また次の機会にはお願いします。
+__system__??,},}

@@ -1,0 +1,245 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆大杉 = 0:,{☆大杉 = 0:
+__system__??,},}
+__system__??,{☆大杉 = 5:,{☆大杉 = 5:
+__system__??,},}
+__system__??,{RND = 1:,{RND = 1:
+__system__??,},}
+__system__??,{RND = 2:,{RND = 2:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+Oosugi Tsuyoshi (talking),しかし、よく無事でご帰国 なさいましたな、若。,"I must say, I`m glad you made it back to Japan safely, Young Master."
+Yamamoto Akuji (talking),おう。 中々、苦労したけどな。,"Yeah, but it was pretty rough."
+Oosugi Tsuyoshi (talking),その苦労が、若のさらなる成長に 役立っているかと思います。,And I believe you`ll become stronger for it.
+Yamamoto Akuji (talking),それはどーかなー。 やっぱ、戦地に比べたら、 こっちは天国だぜ。,"I wonder. Compared to the battlefield, this place`s a fucking paradise."
+Oosugi Tsuyoshi (talking),そうでございますか。,Is that so?
+Yamamoto Akuji (talking),ああ…向こうじゃ生きるか死ぬかの 選択肢っきゃなかったからな。,"Yeah. In war, you don`t get to choose whether you`ll live or die."
+Oosugi Tsuyoshi (talking),本当にお疲れ様でした。,You truly did a great job.
+Oosugi Tsuyoshi (talking),ふっ！ ふっ！！,Hah! Hah!
+narrator,大杉は、絞りこまれた躰から汗を吹き出し、 鍛練にはげんでいる。,Oosugi was working up a sweat in an intense training session.
+Yamamoto Akuji (talking),あいからわず、精が出るな、大杉。,"Working hard a always, Oosugi."
+Oosugi Tsuyoshi (talking),これは若。 どうですか、若もご一緒に。,"Ah, Young Master. Would you like to join me?"
+Yamamoto Akuji (talking),いや、いい。 今日は別の話できた。,"Nah, I`ll pass. I have something else to talk about with you."
+Oosugi Tsuyoshi (talking),お呼びですか、若。,"Did you call for me, Young Master?"
+Yamamoto Akuji (talking),ああ。 特に用はないんだが、 どーしてるかなーと…,"Yeah. I don`t really have anything I need from you, but I was wondering you`re doing."
+Oosugi Tsuyoshi (talking),若。,Young Master.
+Yamamoto Akuji (talking),お、おう。,Y-Yeah?
+Oosugi Tsuyoshi (talking),"自分と話をする暇があるのでしたら、 別の者と会話をお持ち下さい。
+部下の精神的不安を除くのが リーダーとしての責任です。","If you`ve the time to talk, you should do so with someone else.
+ Dealing with your men`s worries is a leader`s responsibility."
+Yamamoto Akuji (talking),だったら…… お前だって、俺の部下じゃないか。,And you`re not my subordinate?
+Oosugi Tsuyoshi (talking),"私の組織に対する忠誠心は １００％完璧です。
+この大杉に、不安など発生する余地は １ミリもありません。","My loyalty for your Group is 100% perfect.
+ There is not a single place for worries in my mind."
+Yamamoto Akuji (talking),いるかいらんか、お前の好きに すればいいが、タマには……,"Dunno if you want it or not, but treat yourself sometimes."
+narrator,と言って、悪司はお金の入った封筒を 大杉の前に出した。,"With that, Akuji gave Oosugi an envelope full of money."
+Oosugi Tsuyoshi (talking),なるほど。 これが若の心遣いと。,I see. So this is your consideration.
+Yamamoto Akuji (talking),そーいう事だ。 受け取ってくんな。,That`s right. You gonna take it?
+Oosugi Tsuyoshi (talking),"よい事です。 男の９箇条、その８．部下を信用するな、 金を信用しろ。
+それに忠実に若が従っているという 表れですな。
+この大杉、その若のお気持ちで、 充分満足いたしました。
+私には、このようなものは不要です。","That`s good. No. 8 of the Way of the Leader: don`t trust people, trust money.
+ This means you`ve taken those lessons to heart.
+ I`m plenty satisfied with your feelings, Young Master.
+ This is unecessary for me."
+Yamamoto Akuji (talking),そーか。,Right.
+Oosugi Tsuyoshi (talking),若、それでは特訓を始めます。,"Let us begin, Young Master."
+Yamamoto Akuji (talking),ああ、頼むぜ。,"Alright, please do."
+Oosugi Tsuyoshi (talking),いざ！,Begin!
+Yamamoto Akuji (talking),おう！,Yeah!
+narrator,悪司は、武道の師である大杉と 徹底的に特訓した。,"Akuji had a thorough training session with Oosugi, his martial arts instructor."
+Oosugi Tsuyoshi (talking),はぁ……見事でございます、若。,"Haah... Splendid, Young Master."
+Yamamoto Akuji (talking),ふう…あいかわらず、きついな。 お前のパンチは……,"Phew... As always, you don`t pull your punches..."
+narrator,　☆☆　山本悪司＆大杉剛　☆☆ 　　　　　経験値　大幅アップ,　☆☆　山本悪司＆大杉剛　☆☆ 　　　　　経験値　大幅アップ
+__system__??,{Bスキル = 0:,{Bスキル = 0:
+__system__??,},}
+__system__??,{Bスキル = 0:,{Bスキル = 0:
+__system__??,},}
+narrator,悪司はたこやきを食べている。,Akuji was eating takoyaki.
+Yamamoto Akuji (talking),ん~…もちっとダシきかせた方が よかったかな…まあ、次の課題って事で…,"Hm, maybe I should`ve added more dashi... Eh, I`ll try that next time."
+Seinendan Jyoshi (talking),あ、あの…,U-Um...
+Yamamoto Akuji (talking),ん？,Hm?
+Seinendan Jyoshi (talking),がっしりして、黒くて、でもつぶらな瞳を したおじさんが、悪司さんにご用だって…,"This strong, tanned old man with gentle eyes wants to see you."
+Yamamoto Akuji (talking),"がっしりして黒くて、つぶらな瞳……
+大杉か！？","Strong, tanned and with gentle eyes...
+ Oosugi?!"
+Oosugi Tsuyoshi (talking),その通りです、若。 よく、生きて戻られました！,"Exactly, Young Master. Glad to see that you survived the war!"
+Yamamoto Akuji (talking),お前こそ！ まあ、お前は空襲ぐらいじゃ死なねーか。,"Same to you! Then again, you wouldn`t die from just an air raid."
+Oosugi Tsuyoshi (talking),さすがに、オオアナのような事態に 巻き込まれたりすれば、 どうなるかはわかりませんが。,"I doubt I`d survive something like the Great Hole bombing, though."
+__system__??,{●ヒロイン = 1:,{●ヒロイン = 1:
+Yamamoto Akuji (talking),で、民華さんはどうだ？ 元気か。,So how`s Minka-san holding up? She good?
+Oosugi Tsuyoshi (talking),"はい。 若に命じられた通り、自分の目に かなった者に、守らせております。
+ただ、その者の報告によれば、あまり 自分の仕事はないと言っておりましたが、 それがどういう事かを聞く前に……","Yes. I protected her, just as you ordered me to.
+ However... She`d told me I wouldn`t have much to do. Before I could ask her what she`d meant..."
+Yamamoto Akuji (talking),どうした？,What happened?
+Oosugi Tsuyoshi (talking),自分が、お蘭によって、 座敷牢に幽閉されていました。,Ran placed me under house arrest.
+Yamamoto Akuji (talking),なんじゃ、そりゃ……,What the hell?
+Oosugi Tsuyoshi (talking),"お蘭は、自分が目の上のたんこぶになると 予想した為、そうしたのだと思います。
+自分もその気持ちが多少わかりました故、 そこでじっとしておりましたが。
+若が帰国なされたと聞きましたので、 脱獄し、ここにはせ参じた訳であります。","I believe she thought I`d be a thorn in her side.
+ I somewhat understood how she felt, so I stayed put.
+ But after hearing of your return, I escaped and made my way here."
+Yamamoto Akuji (thinking),こいつが力一杯で脱獄かましたんだったら 座敷牢、使い物にならなくなっちまった だろうなー…,"(If he escaped by force, then his prison is likely a pile of rubble now...)"
+Yamamoto Akuji (talking),そうか、大変だったな。 俺も、お前さんみたいな凄腕が ついてくれるんだったら、心強いや。,"Sounds like a hard time. Well, it`d be reassuring to have a badass like you on my side."
+Oosugi Tsuyoshi (talking),"恐れ入ります。
+ところで、若。 若の今の口ぶりですと、まだ民華様と お会いになってらっしゃらないのですか？","Thank you.
+ By the way, Young Master. Am I to take it that you haven`t met Minka-sama yet?"
+Yamamoto Akuji (talking),なんだかよー、バタバタしてるのと、 やっぱ、今の俺、立場的にちょっと カッコ悪いからなー…,"Well, I`m kinda busy, and I`d look kinda lame if I met her as I am right now..."
+Oosugi Tsuyoshi (talking),それでも、お会いになった方が よいかと思います。,"Even so, I think you should."
+Yamamoto Akuji (talking),そーだなー… そのうち時間作るとしようか。,I guess...I`ll make the time for it sooner or later.
+__system__??,},}
+__system__??,{●ヒロイン = 2:,{●ヒロイン = 2:
+Oosugi Tsuyoshi (talking),ところで、若。 あの性悪女とは、もうお会いに なったので？,"By the way, Young Master. Have you already met that nasty woman?"
+Yamamoto Akuji (talking),……それって、アンリの事か？,...Ya mean Anri?
+Oosugi Tsuyoshi (talking),はい。,Yes.
+Yamamoto Akuji (talking),まだ会ってねーけどよぉ… どーしてそう、お前はアンリの事を 悪く言うかなー。,"Not yet, but... I wonder why you badmouth Anri so much."
+Oosugi Tsuyoshi (talking),根拠はありませんが、勘です。 あの女は、若に良い結果を もたらしません。,"It`s my gut feeling. That woman will only bring you misfortune, Young Master."
+Yamamoto Akuji (talking),っていうか、お前… アンリと会ってないのか？,Actually... You never met Anri before?
+Oosugi Tsuyoshi (talking),はい。 自分は、お蘭によって、 座敷牢に幽閉されていました。,No.  Ran kept me confined in the estate`s prison.
+Yamamoto Akuji (talking),なんじゃ、そりゃ……,What the hell?
+Oosugi Tsuyoshi (talking),"お蘭は、自分が目の上のたんこぶになると 予想した為、そうしたのだと思います。
+自分もその気持ちが多少わかりました故、 そこでじっとしておりましたが。
+若が帰国なされたと聞きましたので、 脱獄し、ここにはせ参じた訳であります。","I believe she thought I`d be a thorn in her side.
+ I somewhat understood how she felt, so I stayed put.
+ But after hearing of your return, I escaped and made my way here."
+Yamamoto Akuji (thinking),こいつが力一杯で脱獄かましたんだったら 座敷牢、使い物にならなくなっちまった だろうなー…,"If he escaped by force, then his prison is likely a pile of rubble now..."
+Yamamoto Akuji (talking),そうか、大変だったな。 俺も、お前さんみたいな凄腕が ついてくれるんだったら、心強いや。,"Sounds like a hard time. Well, it`d be reassuring to have a badass like you on my side."
+Oosugi Tsuyoshi (talking),恐れ入ります。,Thank you.
+__system__??,},}
+__system__??,{●ヒロイン = 0:,{●ヒロイン = 0:
+Yamamoto Akuji (talking),で、わかめ組でよろしくやってたのかい？,"So, did the Wakame treat you well?"
+Oosugi Tsuyoshi (talking),自分は、お蘭によって、 座敷牢に幽閉されていました。,Ran kept me confined in the estate`s prison.
+Yamamoto Akuji (talking),なんじゃ、そりゃ……,What the hell?
+Oosugi Tsuyoshi (talking),"お蘭は、自分が目の上のたんこぶになると 予想した為、そうしたのだと思います。
+自分もその気持ちが多少わかりました故、 そこでじっとしておりましたが。
+若が帰国なされたと聞きましたので、 脱獄し、ここにはせ参じた訳であります。","I believe she thought I`d be a thorn in her side.
+ I somewhat understood how she felt, so I stayed put.
+ But after hearing of your return, I escaped and made my way here."
+Yamamoto Akuji (thinking),こいつが力一杯で脱獄かましたんだったら 座敷牢、使い物にならなくなっちまった だろうなー…,"If he escaped by force, then his prison is likely a pile of rubble now..."
+Yamamoto Akuji (talking),そうか、大変だったな。 俺も、お前さんみたいな凄腕が ついてくれるんだったら、心強いや。,"Sounds like a hard time. Well, it`d be reassuring to have a badass like you on my side."
+Oosugi Tsuyoshi (talking),恐れ入ります。,Thank you.
+__system__??,},}
+__system__??,{RND \ 0:,{RND \ 0:
+Aoba Youko (talking),………………,...
+Yamamoto Akuji (talking),どうした、青葉？,"What`s up, Aoba?"
+Aoba Youko (talking),どうしたっていうのはこっちです。 な、なんですか、その人……？,That`s MY line. Wh-Who`s this man...?
+Yamamoto Akuji (talking),俺の教育係兼、部下の大杉だ。 これから、俺の為に働いてもらう。,My instructor and subordinate. He`ll be working for me now.
+Aoba Youko (talking),そんな…… 困ります……その……,No way... That would be bad...
+Yamamoto Akuji (talking),ん？,Hm?
+narrator,青葉はそっと、耳打ちした。,Aoba quitely whispered into Akuji`s ear.
+Aoba Youko (talking),こんな怖そうな人…,He looks scary...
+Yamamoto Akuji (talking),"怖いぞー。
+言いつけ守らなかったら、 投げ飛ばされるは、 木にぶらさげられるは。","He is.
+ If he messed an order up, he`d throw himself off a cliff or hang himself."
+Aoba Youko (thinking),そ、それは、悪司さんにだけ怖いのでは…,I-Isn`t that only scary to you...?
+Yamamoto Akuji (talking),"どっちにしろ、お前さん達だけじゃあ、 戦闘の時に心許ないのは確かなんだよ。
+だから、大杉はここに置く。 文句は言わせねぇ。","Either way, having only you girls to help in a fight makes me uneasy.
+ Which is why I`m taking him in, so quit bitching."
+Aoba Youko (talking),………………,...
+Oosugi Tsuyoshi (talking),新参者ですが、よろしくお願いします。,I`ll be in your care.
+Aoba Youko (talking),あ、いえ……そんな……,"Oh, um... That`s..."
+Aoba Youko (thinking),……よく見たら、つぶらな瞳… ひょっとしたら、怖くない……かも…,His eyes are so gentle... Maybe he`s not scary after all?
+__system__??,},}
+__system__??,{RND = 0:,{RND = 0:
+Seinendan Jyoshi (talking),………………,...
+Oosugi Tsuyoshi (talking),どうした？,What`s wrong?
+Seinendan Jyoshi (talking),あ、あの、その人は…？,"U-Um, who is he...?"
+Oosugi Tsuyoshi (talking),俺の教育係件、部下の大杉だ。 これから、俺の為に働いてもらう。,"Oosugi, my instructor and ally. He`ll be working for me now."
+Seinendan Jyoshi (talking),えっ…こんな怖そうな人…,Huh?! That scary guy...?
+Oosugi Tsuyoshi (talking),"怖いぞー。
+言いつけ守らなかったら、 投げ飛ばされるは、 木にぶらさげられるは。","Oh yeah, he`s scary.
+ If he messed an order up, he`d throw himself off a cliff or hang himself."
+Seinendan Jyoshi (talking),うっ…,Ulp...
+Oosugi Tsuyoshi (talking),"どっちにしろ、お前さん達だけじゃあ、 戦闘の時に心許ないのは確かなんだよ。
+だから、大杉はここに置く。 文句は言わせねぇ。","Either way, having only you girls to help in a fight makes me uneasy.
+ Which is why I`m taking him in, so quit bitching."
+Seinendan Jyoshi (talking),………………,...
+Oosugi Tsuyoshi (talking),新参者ですが、よろしくお願いします。,I`ll be in your care.
+Seinendan Jyoshi (talking),あ、いえ……そんな……,"Oh, um... That`s..."
+Seinendan Jyoshi (thinking),……よく見たら、つぶらな瞳… ひょっとしたら、怖くない……かも…,His eyes are so gentle... Maybe he`s actually not scary?
+__system__??,},}
+Yamamoto Akuji (talking),大杉、ここはおじょーさんが多くいる 場所だからな。 紳士でいろよ。,"There`s a bunch of  girls in this place, Oosugi. Be on your best behavior."
+Oosugi Tsuyoshi (talking),はっ！,"Yes, sir!"
+Kanbara Yuuko (talking),あ~ん…目が回る… 目が回る…どうして市長さんって こんなに忙しいの~ん…,Wah... My eyes are spinning. I`m so dizzy... why is being the mayor such a busy job?
+chiankashokuin (talking),これが最後の報告です。 もう少し頑張って下さい。,This is the final report. Hang in there a bit longer.
+Kanbara Yuuko (talking),は~い… で、何かしら？,"Okaaaay... So, what is it?"
+chiankashokuin (talking),つちのこを見たという市民の報告が次々と 市議会に寄せられています。,We`ve been getting reports of citizens seeing a tsuchinoko.
+Kanbara Yuuko (talking),つちのこ？？ あの、伝説の生き物の？,Tsuchinoko?? That legendary creature?
+chiankashokuin (talking),はい。,Yes.
+Kanbara Yuuko (talking),そーいうのって…市議会の管轄なの？ どう対処したらいいのかしら…？,Is that in our jurisdiction...? What do we even do here?
+chiankashokuin (talking),いや、私共もなんとも……,"Uh, we don`t know either..."
+Kanbara Yuuko (talking),"ん~~……
+よしっ！
+後回し~。","Hmmmm...
+ Okay!
+ I`m postponing that."
+chiankashokuin (talking),わかりました。,Understood.
+Kanbara Yuuko (talking),あ~~ん……これで終わりか~… あ~あ…気晴らしにあーくんで 遊びたいなぁ~…,"Ahhh, it`s finally over... I wanna blow off steam by playing with A-kun..."
+narrator,悪司が新聞を読んでいる横で、 殺が宿題をしている。 その横に、大杉が二人を守るように立っていた。,"Akuji was reading the newspaper while Satsu did her homework. Oosugi stood next to them, guarding them."
+Yamamoto Akuji (talking),なーんか、変なモンが はやり出してるなー。,Seems some weird thing`s gotten popular lately.
+Takega Satsu (talking),ん？,Hm?
+Yamamoto Akuji (talking),つちのこだとよ。 見たって奴がいて、そこでつちのこ 探すのがはやってんだとよ。,"The tsuchinoko. Some people claim to have seen it, so searching for it has become popular."
+Takega Satsu (talking),ふむ。,Hmm.
+Yamamoto Akuji (talking),興味あんのかい？,You interested?
+Takega Satsu (talking),いや……そのように騒ぐ程のものとは、 どういったものかなと思っただけだ。,"No, just wondering what kind of person gets excited over that."
+ten'in (talking),ごめんください…あの私、 つちのこを見て…,"Excuse me... Um, I saw a tsuchinoko-"
+Oosugi Tsuyoshi (talking),はい？,Yes?
+ten'in (talking),ひ、あ、つっ、つつつ…… きゃーーーー！！,"H-Hyah, the ts-ts-ts-ts- KYAAAAAAAH!"
+narrator,女は悲鳴をあげると逃げ去った。,The woman fled screaming.
+Yamamoto Akuji (talking),なんだ、今のは？,What was that?
+Takega Satsu (talking),大杉の顔を見て、 驚いていたようだったが。,Looks like she was shocked after looking at Oosugi.
+Oosugi Tsuyoshi (talking),さあ…自分にも……,I don`t know either...
+Yamamoto Akuji (talking),ま、いーか。 ほっとけ。,"Eh, whatever. Forget it."
+Oosugi Tsuyoshi (talking),はい。,Alright.
+Oosugi Tsuyoshi (talking),お呼びですか、若。,"You called, Young Master?"
+Yamamoto Akuji (talking),どんなワザ使ったんだ？,What did you do?
+Oosugi Tsuyoshi (talking),は？,Huh?
+Yamamoto Akuji (talking),お前、赤紙きたのか？,"You were drafted, right?"
+Oosugi Tsuyoshi (talking),兵役の事ですか？,"Into the military, you mean?"
+Yamamoto Akuji (talking),おう。 あん時は、病気でもない限り、俺やお前の 年の男は全員、戦場行きだった。,"Yeah. As long as they weren`t sick, every able-bodied man was sent to the war."
+__system__??,{●ヒロイン = 1:,{●ヒロイン = 1:
+Yamamoto Akuji (talking),"民華さんの事を守れって言ったあん時は 気がつかなくって、今、気がついたん だけどよ。
+守れって言ったはいいが、 大杉が徴兵されたらやばかったじゃ ねぇかってさ。","I didn`t notice it back when I asked you to protect Minka-san, but now I did.
+ Asking you to protect her was one thing, but what if you`d gotten drafted too?"
+__system__??,},}
+Oosugi Tsuyoshi (talking),その事ですか。 自分には、戸籍がありません。,"About that, I do not have a family register."
+Yamamoto Akuji (talking),へ？,Whuh?
+Oosugi Tsuyoshi (talking),"自分は子供の頃、一発様に拾って頂いて 今まで生きてこれたのです。
+ほとんど記憶が無いので、 両親の事とかは知りません。 本来の名前もわかりません。","I was picked up by Ippatsu-sama as a child.
+ I barely remember anything, including my parents, or even my real name."
+Yamamoto Akuji (talking),"そっか、じゃ、大杉剛って、じーさんが つけたのか……
+ ………………
+えらくまともな名前だな。","Then Tsuyoshi Oosugi was a name gramps picked...?
+ ...
+ Surprisingly proper name."
+Oosugi Tsuyoshi (talking),そういえば、そうですね。,"I must agree, yes."
+Yamazawa Asami (talking),"………………
+あっ、剛さん…… どうでしたか？","...
+ Ah, Tsuyoshi-san... How was it?"
+Oosugi Tsuyoshi (talking),……喜べ、麻美！ もう大丈夫だぞ！,"Rejoice, Asami! It`s all fine now!"
+Yamazawa Asami (talking),えっ………… そ、それじゃあ、私たち……,"Eh?! Th-Then, we..."
+Oosugi Tsuyoshi (talking),"ああ、鴉葉さんがうまく手を 回してくれていた！
+私はきちんと戸籍を得ているし、 お前は同姓同名の別人として 処理されている！
+私はれっきとしたニホン人、 お前も濡れ衣の前科は消えた！
+もう何も思い煩う事はない！ 私たちはこれで結婚できるぞ！","Yes, Karasuba-san has pulled some strings!
+ I got my own family register, and your case was treated as someone having the exact same name!
+ This means I`m officially Japanese, and your false charges were cleared!
+ We have nothing to worry about now! We can get married!"
+Yamazawa Asami (talking),ああっ、良かった……！ 剛さん…………！！,"Aah, I`m so glad... Tsuyoshi-san...!"
+narrator,"二人は往来のど真ん中で固く抱き合った。
+ ──五秒後、往来の人々の視線に気付いて すぐに離れたが。","The two of them hugged in the middle of the street.
+ ..Five seconds later, they noticed the stares of the people around them and quickly let go."
+Yamazawa Asami (talking),……でも、少しだけ後ろめたいですね。 不正をして手に入れた潔白だなんて……,"Still, I feel a bit guilty about getting cleared like this..."
+Oosugi Tsuyoshi (talking),"…………物は考えようだぞ、麻美。
+今まで真っ直ぐ生きてきたからこそ、 この日の褒美が得られたのだ。
+人生、最初で最後、最大の褒美だ。 そう思おうじゃないか。","It`s all a matter of perspective.
+ Today`s your reward for living your life so honestly.
+ Why not think of it like that?"
+Yamazawa Asami (talking),…………はい。,...You`re right.
+Oosugi Tsuyoshi (talking),判子は持っているか？,Do you have your seal with you?
+Yamazawa Asami (talking),はい。,Yes.
+Oosugi Tsuyoshi (talking),よし、では早速婚姻届を出しに行こう。,Then let`s go fill out our marriage certificate.
+Yamazawa Asami (talking),はい、剛さん……,"Yes, Tsuyoshi-san..."

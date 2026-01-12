@@ -1,0 +1,163 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆星川翼 = 2:,{☆星川翼 = 2:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+Hoshikawa Tsubasa (talking),こんな風に男に呼び出されるのって、 不思議な気分だね。,Being called by a man like this sure feels weird.
+Yamamoto Akuji (talking),そーいやよぉ。,By the way...
+Hoshikawa Tsubasa (talking),ん？,Yes?
+Yamamoto Akuji (talking),ヌキメってなんだよ？,What`s that thing you got?
+Hoshikawa Tsubasa (talking),"ああ、目貫だよ。 め・ぬ・き。
+目貫っていうのはね、自分で言うのも ヘンだけど、抜群の動体視力でもって、 物体の破砕点を見抜く能力なんだ。","Oh, you mean my Piercing Eye.
+ It might sound weird, but it`s an ability that lets me see an object`s weak spots."
+Yamamoto Akuji (talking),ん…？,Huh...?
+Hoshikawa Tsubasa (talking),"あ、人間の躰にツボってあるだろ？ 物には、そーいうのでここを突くと 壊れるっていう一点があるんだ。
+僕はそれを見抜く能力がある。 それを見込まれて、ある者と戦ってる。
+それと戦う者を、火者というんだ。","Ever heard of pressure points? Objects have a point that destroys them if poked at.
+ I can see those points, and fight with trusted allies.
+ We fight against the Kasha."
+Yamamoto Akuji (talking),"ふーん、火者ねぇ……
+お前さんの婚約者も、 その火者なのかい？","Kasha, huh?
+ Is your fiancee also part of the Kasha?"
+Hoshikawa Tsubasa (talking),"違うよ。 彼女は……
+ ………敵だったけど、今は違う…と いうとこかな。","No. She...
+ ...used to be an enemy, but not anymore."
+Yamamoto Akuji (talking),ふーん… 色々あるねー。,Hmmm... You have a lot going on.
+Hoshikawa Tsubasa (talking),そうだね。,I sure do.
+Hoshikawa Tsubasa (talking),ハーイ。,Hiii.
+Yamamoto Akuji (talking),おう。,Yo.
+Yamamoto Akuji (talking),んじゃあよ、これ、結婚資金の 足しにでもしてくんな。,"Here, have something to help with your wedding."
+narrator,悪司は給料とは別に、 まとまった金を翼に渡した。,Akuji gave Tsubasa some extra money.
+Hoshikawa Tsubasa (talking),サンキュ。 助かるよ。,"Thanks, this is a big help."
+narrator,悪司と殺は、二人で街はずれにある 小さな平屋の前にいた。,Akuji and Satsu stood in front of a bungalow in the town`s outskirts.
+Yamamoto Akuji (talking),ここに、その噂のつえー奴がいるってか。,This where that tough guy is?
+Takega Satsu (talking),らしいな。,Seems like it.
+Yamamoto Akuji (talking),さーて、ベル、ベルと…,Where`s the doorbell...?
+narrator,悪司はベルを捜していて、家の前に 貼り紙を見つけた。,"As he searched for the doorbell, Akuji found a poster on the door."
+Yamamoto Akuji (talking),"んっ……なになに……
+お仕事請け負います。 こちらはめ……め…め…","Hm? Lessee...
+ Accepting jobs. This is the, uhh..."
+Takega Satsu (talking),目貫…めぬきと読むのではないか？,I think it says “Piercing Eye”.
+Yamamoto Akuji (talking),"おおっ。 えー、目貫のホッシーこと、星川翼…
+ ………なんのこっちゃ。","Oh! The Piercing Eye, Hosshi, A.K.A. Hoshikawa Tsubasa...
+ ...The fuck is that?"
+Takega Satsu (talking),本人に聞いてみたらいいだろう。,We just need to ask him.
+Yamamoto Akuji (talking),それもそーだ。 あ、ベルめっけ。,"True enough. Oh, there"
+narrator,"　　［ぴーんぽーん］
+ 「はーい？」
+家の中から声がしたかと思うと、 すぐに扉が開いた。","　　*Ding-dong*
+ 「Yeeees?」
+ A voice came from the house, and soon afterwards the door opened."
+Hoshikawa Tsubasa (talking),どちらさん？,Who are you?
+Yamamoto Akuji (talking),俺は…,I`m-
+Hoshikawa Tsubasa (talking),"待って、ストップ。 僕が当ててみるよ。
+えーと…
+わかったよ、宗教の勧誘だね。 大人と子供のカップルは９８％ そうだから。","Wait, stop. I`ll try to guess.
+ Let`s see...
+ Religious recruiters, right? 98% of all adult-and-kid duos turn out to be that."
+Yamamoto Akuji (talking),残念ながらハズレ。,"Too bad, you`re wrong."
+Hoshikawa Tsubasa (talking),じゃあ…？,Then you`re...?
+Yamamoto Akuji (talking),俺は、山本悪司。 オオサカからきた。,Yamamoto Akuji. I came here from Osaka.
+__system__??,{★愛 = 5:,{★愛 = 5:
+Yamamoto Akuji (talking),こっちは、俺の女房のさっちゃんだ。,"She`s Sacchan, my wife."
+__system__??,},}
+__system__??,{★愛 \ 5:,{★愛 \ 5:
+Yamamoto Akuji (talking),こっちは、俺の叔母さんのさっちゃんだ。,"She`s Sacchan, my aunt."
+__system__??,},}
+Hoshikawa Tsubasa (talking),君、可愛いね。 もう少し大人になったら、 デートしようね。,"You`re pretty cute. Let`s go on a date once you`re a bit older, hm?"
+Takega Satsu (talking),いらん。,No.
+Hoshikawa Tsubasa (talking),あれ…ふられちゃった。,"Oh my, I got rejected."
+__system__??,{★愛 = 5:,{★愛 = 5:
+Yamamoto Akuji (talking),人の女房を、気軽にくどくなっての。,Don`t hit on my wife.
+__system__??,},}
+__system__??,{★愛 \ 5:,{★愛 \ 5:
+Yamamoto Akuji (talking),人の叔母を、気軽にくどくなっての。,Don`t hit on my aunt.
+__system__??,},}
+Yamamoto Akuji (talking),で、噂聞いたんだけどよ。,"Anyway, I`ve heard about ya."
+Hoshikawa Tsubasa (talking),僕についてかい？ どんな事かな？,You have? What exactly have you heard?
+Yamamoto Akuji (talking),次の国家武道大会優勝候補 だそーじゃねぇか。,You`re a favorite to win the National Martial Arts Tourney.
+Hoshikawa Tsubasa (talking),うん、優勝は狙ってる。,"Yeah, I wanna win."
+Yamamoto Akuji (talking),という事は、強いんだろ？,"So you`re strong, right?"
+Hoshikawa Tsubasa (talking),多分ね。,Probably.
+Yamamoto Akuji (talking),"で、その腕を、俺の為に貸して欲しい。
+俺は今、とある組織とドンパチの最中だ。 強い奴がいればいるだけありがたいんだ。","Well, I want you on my side.
+ I`m fighting a certain RMG, and I need more tough guys."
+Hoshikawa Tsubasa (talking),で…僕に、そのうちの一人になれって？,And I`d be one of them?
+Yamamoto Akuji (talking),ああ。,Yep.
+Hoshikawa Tsubasa (talking),だったら…それを仕事として、 僕に請け負わせてくれる？,So... Will you let me take on that job?
+Yamamoto Akuji (talking),仕事？,Job?
+Hoshikawa Tsubasa (talking),そう、仕事。 僕、今、まとまったお金が欲しいんだ。 結婚したくて。,"Yep. I want a good deal of money. I wanna marry, you see."
+Yamamoto Akuji (talking),ほう。,Uh-huh.
+Hoshikawa Tsubasa (talking),だから仕事を探して、貼り紙とかも 貼ってんだけど… これだっていう仕事はこなくって。,So I`ve put up posters accepting jobs... But I haven`t found a good one.
+Yamamoto Akuji (talking),ああ、この…なんだ？ 目貫がどーのこーのって。,"Oh, and what`s that Piercing Eye thing about?"
+Hoshikawa Tsubasa (talking),戦えるってつもりで書いたんだけど、 それを見て反応する奴は、僕にとっては 敵ばかりだったみたいで。,"I meant to say that I can fight, but seems only my enemies understood that."
+Yamamoto Akuji (talking),ふーん…まあ、よくわからんけど、 仕事にあぶれてるって事だな。,"Hm, I don`t really get it, but you need a job, right?"
+Hoshikawa Tsubasa (talking),うん。 選り好みしてしまってるから。,Yep. I happen to be too picky.
+Yamamoto Akuji (talking),俺の依頼は、どうかな？,Does mine fit the bill?
+Hoshikawa Tsubasa (talking),面白そうだね。 すぐには行けないけれど、 お邪魔させて貰うよ。,"It sounds fun. I can`t go right away, but I`ll be there."
+Yamamoto Akuji (talking),わかった。 住所はここだ。,Cool. Here`s the address.
+narrator,悪司は翼に奉仕青年団の住所の書かれた メモを渡した。,Akuji gave Tsubasa a note with the YCSG `s address on it.
+Hoshikawa Tsubasa (talking),ＯＫ。 じゃあ、準備が出来次第、すぐ行くよ。 楽しみに待っててね。,OK. I`ll be there as soon as I`m ready. Look forward to it.
+narrator,悪司は、いつも座っている場所で、 饅頭を食べていた。,Akuji was eating some manju in the spot he always sat at.
+Chinpira (talking),悪司さーん、お客さんっすー。,"Akuji-san, you have a guest."
+Yamamoto Akuji (talking),誰だー？,Who s it?
+Chinpira (talking),ホッシーさんだそうです。,Said his name was Hosshi.
+Yamamoto Akuji (talking),ホッシー…ホッシー…… ああ、翼の事か。 通してやんな。,"Hosshi...? Oh, ya mean Tsubasa. Let`im through."
+Chinpira (talking),へーい。,`Kay.
+Hoshikawa Tsubasa (talking),ハロー。 きたよー。,"Helloooo, I`m heeeere."
+Yamamoto Akuji (talking),おう。,Yo.
+Hoshikawa Tsubasa (talking),オオサカは空が暗いね。 びっくりしたよ。 特殊爆弾の直撃くらっただけあるね。,"Osaka`s sky is so dark, it shocked me. Guess a hit from THAT bomb does that."
+Yamamoto Akuji (talking),きてくれたって事は、これから コキ使っていいってことだな？,I take it I can work you hard now that you`re here?
+Hoshikawa Tsubasa (talking),その分、マネーははずんで欲しいな。,If I get paid for it.
+Yamamoto Akuji (talking),わかった。,You will.
+Hoshikawa Tsubasa (talking),ＯＫ。 商談成立。 これから、よろしく。,OK. We have a deal. I`ll be in your care.
+narrator,翼は電話を借り、婚約者に電話していた。,Tsubasa was phoning his fiancee.
+Hoshikawa Tsubasa (talking),"もしもし…うん、僕。 元気だった？
+ …………そう…… ……うん……うん……
+ ………………
+ごめんね、寂しい思いをさせて。 帰ったら、色んなとこに行こう。
+ ……うん、そうだよ。 準備も大変だよ。 ドレスも選ばなくちゃね。
+ ……え？ 僕がドレスを着るの？ …はは…そりゃいい……
+ …………うん…… ……うん、そうだね……
+ ………うん……好きだよ。 君だけだよ、ミズキ……
+ ………うん…… 愛してるよ。","Hello? yeah, it`s me. You doing okay?
+ ...I see... Yes... yeah...
+ ...
+ Sorry I made you feel lonely. Let`s go on a date later.
+ ...Yeah, I know. The preparations are tough, and you gotta pick a dress.
+ ...Huh? I`M wearing the dress? Hahah, that`d be nice.
+ Mhm... Yeah, you`re right.
+ Yeah... I love you. I love you, Mizuki.
+ Mhm... I love you so much."
+narrator,難しい顔をしたリンダの前に、 翼が呼ばれた。,"Tsubasa was called by Linda, who had a stern look on her face."
+Hoshikawa Tsubasa (talking),こんなはずじゃあなかったんだけどね…,This wasn`t supposed to happen.
+Momoyama Linda (talking),ええ、本当でちゅわ。 こんなにあっさり倒れるとは 思ってなかったでちゅ。,"Yes, I agree. I never thought you`d be beaten so easily."
+Hoshikawa Tsubasa (talking),うん…自分でもびっくりだ。 もっと、修練が必要だね。,"Yeah, I was suprised too. I need to train more, huh?"
+Momoyama Linda (talking),クビでちゅ。,You`re fired.
+Hoshikawa Tsubasa (talking),…………………,...
+Momoyama Linda (talking),帰ってくだちゃい。 今までの日当は支払いまちゅ。,Please leave. We`ll pay what you`re due.
+Hoshikawa Tsubasa (talking),そうだね…… 僕は君の役にたたなかった。 当然の事だ。,Right... I couldn`t be of use to you. Of course I`m fired.
+Momoyama Linda (talking),ハイネ。,Haine.
+Hasekura Haine (talking),はい。 星川様、これを…,"Yes. Here, Hoshikawa-sama."
+Hoshikawa Tsubasa (talking),……サンキュ。 役立たずがこーいうのもなんだけど… 頑張ってね。,...Thanks. Giving so much to someone who couldn`t help... Good luck.
+narrator,こうして、翼はＰＭを解雇された。,"Thus, the PM fired tsubasa."
+narrator,翼が荷作りをしていた。,Tsubasa was packing up.
+Hoshikawa Tsubasa (talking),よっこらせっと… にくしっ！ つっ…埃がたつとこれだから…,"And here we... go! Ah-choo! Geez, this is what happens when dust piles up."
+joshigakusei (talking),星川さん、荷作り手伝いましょうか？,"Want some help, Hoshikawa-san?"
+Hoshikawa Tsubasa (talking),"あ、もう平気だよ。 ありがとう。
+女の子に、力仕事はさせられないよ。 僕は星の王子様だからね。","No, I`m already done. Thank you.
+ The Prince of the Stars can`t let girls exert themselves."
+joshigakusei (talking),"まあ…くす。
+星川さんがいなくなって寂しくなるけど… ご結婚する為ですもの…おめでとうって 言わなくちゃ駄目ですよね。","Geez... heehee.
+ It`ll be lonely without you. But it`s so you can get married, so congrats."
+Hoshikawa Tsubasa (talking),そう言って貰えると嬉しいな。,Thanks.
+joshigakusei (talking),……おめでとうございます。 幸せになって下さいね。,...I sincerely hope you become happy.
+Hoshikawa Tsubasa (talking),うん、サンキュ。,"Haha, thank you."
+joshigakusei (talking),これ…少ないけど、結婚祝いです。 受け取って下さい。,"It`s not much, but here, take this wedding gift."
+Hoshikawa Tsubasa (talking),あ、いいよ。 そんな気遣いは…,"Nah, I`m good, you don`t have to-"
+joshigakusei (talking),受け取って下さい……,Please take it...
+Hoshikawa Tsubasa (talking),……そう？ ありがとう。,...You sure? Thanks.
+joshigakusei (talking),い、いいえ……,Y-You`re welcome...
+Hoshikawa Tsubasa (talking),最高の夜だね。,Have a nice death.

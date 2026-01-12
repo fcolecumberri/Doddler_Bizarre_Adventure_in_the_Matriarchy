@@ -1,0 +1,321 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆リクペチ = 0:,{☆リクペチ = 0:
+__system__??,{I装備[33] = 99:,{I装備[33] = 99:
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 2:,{麦 = 2:
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 4:,{麦 = 4:
+__system__??,},}
+__system__??,{麦 = 5:,{麦 = 5:
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,},}
+__system__??,{麦 = 12:,{麦 = 12:
+__system__??,{H愛欲抵抗 <= H愛欲:,{H愛欲抵抗 <= H愛欲:
+__system__??,},}
+__system__??,{H愛欲 > 2:,{H愛欲 > 2:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+__system__??,{麦 = 17:,{麦 = 17:
+__system__??,{H拷問抵抗 < H拷問:,{H拷問抵抗 < H拷問:
+__system__??,},}
+__system__??,{H拷問 = 1:,{H拷問 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 18:,{麦 = 18:
+__system__??,},}
+__system__??,{麦 = 19:,{麦 = 19:
+__system__??,},}
+Takayama Rikupechi (talking),呼んだか。,You called?
+Yamamoto Akuji (talking),おう、まーな。,"Yeah, I did."
+Takayama Rikupechi (talking),悪司。,Akuji.
+Yamamoto Akuji (talking),おう。,Yo.
+Takayama Rikupechi (talking),ニホンの究極の調味料らしいので 買ったが……カレーには合わなかった。,"I heard this was a good seasoning, but it didn`t go well with curry."
+Yamamoto Akuji (talking),"どれ、見せてみな…
+なんだこりゃ。 くりりぷじゃねぇか。 これは、合わねぇなー。","Lemme see...
+ What the hell, ain`t this? kuriripu? Yeah, this won`t go well."
+Takayama Rikupechi (talking),では、私には不要。 やる。,Then it is useless to me. I`ll give it to you.
+Yamamoto Akuji (talking),"そーかい？ これだけで舐めるとケッコー うめぇって話なんだけどなー。
+食いしん坊は、一人でこれをペロリと 舐めて、たいらげちまうらしいぜ。","You sure? You`re dead wrong if you think this is all there is to it. It`s real damn good.
+ A single lick would send any foodie into a frenzy."
+Takayama Rikupechi (talking),私はいらない。,I don`t need it.
+Yamamoto Akuji (talking),リクペチよぅ。 そろそろ、俺の躰が恋しい時期だろ？ 脱ぎな。,"Hey Rikupechi, ain`t it about time your body started craving mine? Strip."
+Takayama Rikupechi (talking),………,...
+Yamamoto Akuji (talking),服を着たままの方がいいってんなら、 それでもいいぜ。,"I don`t mind doing it with clothes on, if that`s what you want."
+Takayama Rikupechi (talking),あっ……！,Ah...!
+Takayama Rikupechi (talking),リクペチは、悪司に抱かれた。,Akuji fucked Rikupechi.
+Yamamoto Akuji (talking),あんたがこーいうモンに対して どーいう価値を持ってるか わかんねーけどよ…,"I dunno how much you value this, but..."
+Takayama Rikupechi (talking),金か。,You`re giving me money?
+Yamamoto Akuji (talking),ああ。,Yeah.
+Takayama Rikupechi (talking),いらない。,I don`t need it.
+Yamamoto Akuji (talking),あ、そーかい。 そいつは助かるわ。,Really now. Works for me.
+narrator,悪司の前に、リクペチが連れてこられた。,Rikupechi was brought before Akuji.
+Takayama Rikupechi (talking),……………,...
+Yamamoto Akuji (talking),あんたには苦労させられたよ。,You sure gave us some trouble.
+Takayama Rikupechi (talking),……………,...
+Yamamoto Akuji (talking),あんた、ナニ人？,Where are you from?
+Takayama Rikupechi (talking),…………,...
+Yamamoto Akuji (talking),"ジャマイカ、アフガニスタン、 パキスタン……
+いや、違うな、インド人か。","Jamaica? Afghanistan? Pakistan?
+ Wait, no. You`re an Indian."
+Takayama Rikupechi (talking),…………,...
+Yamamoto Akuji (talking),インド人ってさ、みんなカレー好きって ホントなのかい？,Is it true that all Indians like curry?
+Takayama Rikupechi (talking),…………,...
+__system__??,{☆高山 = 99:,{☆高山 = 99:
+__system__??,},}
+Yamamoto Akuji (talking),おう、元気か。 インド人。,"Yo, you doing alright, Indian girl?"
+Takayama Rikupechi (talking),……………,...
+__system__??,{☆高山 = 99:,{☆高山 = 99:
+__system__??,},}
+Yamamoto Akuji (thinking),"ん~…こいつのボスのはみも 逃がしてやった事だし、 こいつも逃がしてやった方がいいかな…？
+高山とはあまりしこりを残して おきたくないしな…
+さて…","Hmm, I already let her boss go, so maybe I should let this chick go as well...?
+ I don`t wanna sour things with the Takayamas too much...
+ Now then--"
+__system__??,{RETURN = 1:,{RETURN = 1:
+Yamamoto Akuji (talking),あんた、ヒロシマ帰りたい？,You wanna go back to Hiroshima?
+Takayama Rikupechi (talking),……………,...
+Yamamoto Akuji (talking),はみは、ヒロシマに帰したんだけど。,Hami already went back.
+Takayama Rikupechi (talking),ならば、戻りたい。 ヒロシマに。,Then yes. I want to go back.
+Yamamoto Akuji (talking),そーかい。 じゃあ、帰りな。,"That so. Go on, then."
+Takayama Rikupechi (talking),いいのか？,Can I?
+Yamamoto Akuji (talking),俺が帰してやるっつってんだから、 いいんだよ。,"I`m letting you go, so yeah."
+Takayama Rikupechi (talking),見返りは要求しないのか？,You don`t want anything in return?
+Yamamoto Akuji (talking),ああ。,Nope.
+Takayama Rikupechi (talking),"………………
+ありがとう。","...
+ Thanks."
+narrator,こうして、リクペチは解放された。,"Thus, Rikupechi was freed."
+__system__??,},}
+Yamamoto Akuji (talking),さーてと。,Now then--
+narrator,悪司はリクペチを抱きあげた。,Akuji held Rikupechi up in his arms.
+Yamamoto Akuji (talking),こーいう状態になったら、女は男に ナニされるかは、万国共通だと 思うんだけどな。,"No matter what country you`re from, when a man and woman get like this, what`s gonna follow should be obvious."
+ (talking),……………,...
+Yamamoto Akuji (talking),まあ、ウタマロっちゅーのも 味わってみたっていいだろ？,"C`mon, let`s give it a try, eh?"
+ (talking),………！！,...!!
+ (talking),悪司のテクニックにリクペチは、声をあげた……,Rikupechi moaned from Akuji`s technique...
+Yamamoto Akuji (talking),ふい~~…,Phew...
+Takayama Rikupechi (talking),……………,...
+Yamamoto Akuji (talking),抵抗すんなって。 そのうち無理になるからさ。,"I told ya not to resist, you`ll just wear yourself out."
+Takayama Rikupechi (talking),…………,...
+Yamamoto Akuji (talking),さーて、じゃあまたキレーな足を 広げて貰おうかな。,"Now then, how about you spread those nice legs of yours again?"
+Takayama Rikupechi (talking),っ……！,...!
+Yamamoto Akuji (talking),そろそろ、躰が馴染んできてるだろ？,"Your body`s getting used to it, no?"
+Takayama Rikupechi (talking),っ……！！,...!
+Takayama Rikupechi (talking),リクペチは、悪司に徹底的にこまされた。,Akuji thoroughly fucked Rikupechi.
+Yamamoto Akuji (talking),ごっそーさん。,Thanks for the meal.
+Takayama Rikupechi (talking),えっ…もう…,Eh?! Already...?
+Yamamoto Akuji (talking),もう――なんだい？,"Already, what?"
+Takayama Rikupechi (talking),っ……,!!!
+Yamamoto Akuji (talking),俺の女になるか？,Wanna become my woman?
+Takayama Rikupechi (talking),……………,...
+Yamamoto Akuji (talking),やれやれ。,Good grief.
+Yamamoto Akuji (talking),何か欲しいモンはないか？,There anything ya want?
+Takayama Rikupechi (talking),…………,...
+Yamamoto Akuji (talking),カレーはどうだ？ さっちゃんのは美味いぞ。,How `bout some curry? Sacchan makes a mean stew.
+Takayama Rikupechi (talking),……………,...
+Yamamoto Akuji (talking),インド風の方がいいのか？,Or do you prefer it Indian-style?
+Takayama Rikupechi (talking),……………,...
+Yamamoto Akuji (talking),さーてと。,Alright then.
+narrator,悪司はリクペチの手を取った。,Akuji took Rikupechi`s hand.
+Yamamoto Akuji (talking),今日も抱いてやるよ。,I`m fucking you again today.
+Takayama Rikupechi (talking),っ……,...!
+narrator,いつもより、リクペチの躰からは 固さが消えていた。,Rikupechi`s body was not as stiff as it usually was.
+narrator,リクペチは、自ら悪司を求めて腰を動かした。,Rikupechi moved her hips on her own accord.
+Yamamoto Akuji (talking),…よっ……と……,...There we go.
+narrator,悪司は抱いている途中で、リクペチの中から 自分の一物を引き抜いた。,Akuji took his member out of Rikupechi in the middle of fucking her.
+Takayama Rikupechi (talking),あっ……,Ah...!
+Yamamoto Akuji (talking),どうした？,What`s the matter?
+Takayama Rikupechi (talking),途中でっ……そんな…,Not in the middle of it...
+Yamamoto Akuji (talking),ちゃんと最後までメンドー見て 欲しいのか？,"You want me to go until the end, is that it?"
+Takayama Rikupechi (talking),…………,...
+narrator,リクペチは小さくコクリと頷いた。,Rikupechi lightly nodded.
+Yamamoto Akuji (talking),俺の部下になるってんなら、 続けてやるよ。,I`ll keep going if you become my subordinate.
+Takayama Rikupechi (talking),…………,...
+Yamamoto Akuji (talking),あ~、寒い寒い。 大事なとこから風邪ひきそーだから、 しまっちゃおーかなーっと。,"Brrr, it`s freezing. I`ll get a cold from my dick being out, better get dressed soon..."
+Takayama Rikupechi (talking),…………ぁ…,...ah...
+Yamamoto Akuji (talking),ん？,Hm?
+Takayama Rikupechi (talking),わかった…なる…なるから……,"Fine... I`ll do it, so..."
+Yamamoto Akuji (talking),"よっしゃ。 じゃあ今日は記念に、 いやっちゅーほどしてやるよ。
+そーいやぁ、お前さんの名前は？","Hell yeah. Then to celebrate, I`ll fuck you `til you get tired of it.
+ Right, what was your name?"
+Takayama Rikupechi (talking),……リクペチ…,...Rikupechi...
+Yamamoto Akuji (talking),よし、リクペチ。 きな。,"Okay, Rikupechi. C`mere."
+Takayama Rikupechi (talking),あっ……！,Ahn...!
+Yamamoto Akuji (thinking),こいつに、ＧＡＬバーガーの店員……,Should I send her to GAL Burger?
+narrator,悪司はじーっとリクペチを見つめる。,Akuji stared at Rikupechi.
+Yamamoto Akuji (thinking),やめておこう。 あの服を着ると違和感がありそーだ。,Let`s not. She would look weird in those clothes.
+Tamanegi (talking),ああ、ここにいたのですね。,"Ah, so this is where you were."
+Takayama Rikupechi (talking),…………,...
+Tamanegi (talking),ここに入れられた事が、 そんなに嫌ですか。,Are you really that unhappy over being sent here?
+Takayama Rikupechi (talking),…………,...
+Tamanegi (talking),ですがもう、あなたは男から得られる 悦びを、その躰で知っている。,But your body already knows the pleasure a man can give.
+Takayama Rikupechi (talking),っ……,...!
+Tamanegi (talking),"それをもっと素直に感じる事が 出来るように、あなたを壊して 差し上げますよ。
+さあ、こちらにいらっしゃい。 拒否する事は出来ませんよ……","I`m going to break you so you`re able to be more honest about feeling that pleasure.
+ Now, come over here. You have no right to refuse..."
+cg narrator,"「くっ……けけっ…」
+ 「ひひっ……ひひひっ…」
+ 「たまんねぇな、おい…」","「Kukuku...!」
+ 「Heeheeheehee!」
+ 「Fuck, I can`t get enough of this!」"
+cg narrator,"そこにいた男達は、 タマネギが集めた浮浪者達だった。
+卑屈に笑う男達の声が響く。
+普段、蔑まれた生活を送るしかない彼らの前に、 リクペチは何をしてもよい奴隷として タマネギが連れてきたのだった。
+ 「奴隷だってよ…… 　俺達よりミジメな奴がいるんだよ、 　この世には…」
+男はそう言って笑いながら、 リクペチの胸を掴んだ。
+ 「あっ…ぅぅっ…」
+男は乱暴にリクペチの胸を揉みしだく。
+ 「ひっ…ひひっ……」
+男は絞るように掴んだリクペチの乳首を ぎゅっと乳房の中に押し込んだ。
+ 「見ろよ、この乳……こんな事される為に、 　こんなにでっかいのかねぇ」
+男は嬉しそうにそのまま乳首を、 乳房を乱暴に愛撫する。
+ 「うっ…ああっ…！！」
+痛みなのか快楽なのかわからない、 リクペチの声。
+それがどちらなのか、リクペチの中に 埋まっている男が彼女の代わりに答えた。
+ 「おい、この奴隷女、そんなにきつく 　乳さわられて、気持ちよがってるぜ」
+男はリクペチの中にら埋めている肉棒を 下から上に突き上げた。
+ 「あうっ…！！」
+リクペチが高い声をあげる。
+ 「今、乳いじられて、ここの絞まりがすんげー 　よくなったからよ」
+ 「けっ…けけっ……最高の奴隷女だよなぁ？ 　え！？」
+男はそう言って、リクペチの口の中に 己の肉棒を突っ込んだ。
+ 「うぶっ……んっ…！！」
+リクペチの顔が、醜く歪む。
+ 「へ…へへ…いい顔だぜ… 　奴隷に相応しい歪みっぷりだせ！」
+男はそう言って、わざとリクペチの顔が歪むように、 口腔の奥へ一物を突き入れた。
+ 「んあっ…かっ……！」
+そのような事をされても、リクペチの躰は反応し、 飲み込んでいる男のものをきつく絞めつけていく。
+ 「んっ……きたっ…くっ…くるっ… 　おっ…あっ！」
+リクペチの中に一物を埋めていた男は、 快楽のまま、リクペチの中に白濁の体液を 噴き出させた。
+ 「うっ……くっ……ぁっ…」
+リクペチの中で徐々に萎えていく男のものと、 花弁の間から、体液がとろとろと漏れていく。 その感触にリクペチが躰を震わせた。
+ 「中出しされて、何感じてんだよ、この奴隷！」
+リクペチの胸をまさぐっていた男は、 きつくリクペチの乳首を摘まみあげた。
+ 「あっ…んっ…あぁっ……ぁ~~…！」
+リクペチは躰を大きくブルブルと震わせて、 気をやった。
+ 「おいおい……今のでイッちまってるよ」
+乳首をきつく愛撫した男は、勝ち誇ったように、 嘲るように言う。
+ 「信じられねー、淫乱だ」
+ 「だから奴隷なんだな」
+男達はそう言って笑った。 笑いながら、リクペチの躰を弄ぶ。
+ 「おい、奴隷なら奴隷らしく、これもっぺん 　おっきくしてくれよ」
+さっきリクペチの中で射精した男が、 まだリクペチの中に入っている柔らかく なりつつある一物をぐにぐにと動かした。
+ 「わっ…私は……」
+ 「まだ欲しいんだろ？ 　物足りないって顔してんぞ？」
+ 「うっ…」
+リクペチの躰が小刻みに震える。
+ 「もっとして欲しいんだったら、 　自分で腰動かせよ」
+ 「ほーら、こっちも頼むぜ。 　俺、入れるより手の方が好きなんだ」
+男はリクペチの手に自分のものを 握らせる。
+ 「じゃあ俺はこっちだ」
+そう言って、別の男が、リクペチの もう片方の手を取る。
+ 「くっ…くくくっ……！」
+もう一人は笑ったままリクペチの口に また一物をぶちこんだ。
+ 「おいおぃ、俺のも舐めさせてやってくれよ」
+ 「おう、俺のもだ。 　一度に口に３本なんて嬉しいだろ？」
+ 「ほら、動けよ！ 　この奴隷！」
+リクペチの中に埋めている男が、 強引に下からリクペチの躰を突き上げた。
+ 「う……く…~……」
+リクペチはうすぼんやりとした目で、 男達に従い出した。
+ 「おっ…そーだそーだ、固くなってきたぜ」
+リクペチの中に埋めている男が満足そうに言う。
+ 「こっちもだ。 　中の方に夢中になり過ぎて、手ぇ忘れるなんざ、 　奴隷失格だぜ」
+ 「そーそー、口も大事だぜー」
+男達は嬉しそうにリクペチに愛撫させながら、 自らも腰を振る。
+ 「おい……一緒に出さねぇか？」
+ 「へへ…へへ…いいね… 　そりゃ嬉しいだろ？ 　奴隷さん」
+男達はそう言うと、さらに刺激を望み、 腰を振る速度を速めた。
+ 「くっ…うっ…お、俺もう駄目だ… 　出っ……出るっ……」
+ 「しゃーねぇなぁ……イくぜ…」
+ 「へへっ…食らいな、ラッシーシャワーだ！」
+リクペチの手、顔、花弁。 すべてが白濁の体液に染まる。
+ 「うっ…あっ…ぁぁっ……！！」
+リクペチはそれを受け、さらに大きく躰を震わせた。","そこにいた男達は、 タマネギが集めた浮浪者達だった。
+ 卑屈に笑う男達の声が響く。
+ 普段、蔑まれた生活を送るしかない彼らの前に、 リクペチは何をしてもよい奴隷として タマネギが連れてきたのだった。
+ 「奴隷だってよ…… 　俺達よりミジメな奴がいるんだよ、 　この世には…」
+ 男はそう言って笑いながら、 リクペチの胸を掴んだ。
+ 「あっ…ぅぅっ…」
+ 男は乱暴にリクペチの胸を揉みしだく。
+ 「ひっ…ひひっ……」
+ 男は絞るように掴んだリクペチの乳首を ぎゅっと乳房の中に押し込んだ。
+ 「見ろよ、この乳……こんな事される為に、 　こんなにでっかいのかねぇ」
+ 男は嬉しそうにそのまま乳首を、 乳房を乱暴に愛撫する。
+ 「うっ…ああっ…！！」
+ 痛みなのか快楽なのかわからない、 リクペチの声。
+ それがどちらなのか、リクペチの中に 埋まっている男が彼女の代わりに答えた。
+ 「おい、この奴隷女、そんなにきつく 　乳さわられて、気持ちよがってるぜ」
+ 男はリクペチの中にら埋めている肉棒を 下から上に突き上げた。
+ 「あうっ…！！」
+ リクペチが高い声をあげる。
+ 「今、乳いじられて、ここの絞まりがすんげー 　よくなったからよ」
+ 「けっ…けけっ……最高の奴隷女だよなぁ？ 　え！？」
+ 男はそう言って、リクペチの口の中に 己の肉棒を突っ込んだ。
+ 「うぶっ……んっ…！！」
+ リクペチの顔が、醜く歪む。
+ 「へ…へへ…いい顔だぜ… 　奴隷に相応しい歪みっぷりだせ！」
+ 男はそう言って、わざとリクペチの顔が歪むように、 口腔の奥へ一物を突き入れた。
+ 「んあっ…かっ……！」
+ そのような事をされても、リクペチの躰は反応し、 飲み込んでいる男のものをきつく絞めつけていく。
+ 「んっ……きたっ…くっ…くるっ… 　おっ…あっ！」
+ リクペチの中に一物を埋めていた男は、 快楽のまま、リクペチの中に白濁の体液を 噴き出させた。
+ 「うっ……くっ……ぁっ…」
+ リクペチの中で徐々に萎えていく男のものと、 花弁の間から、体液がとろとろと漏れていく。 その感触にリクペチが躰を震わせた。
+ 「中出しされて、何感じてんだよ、この奴隷！」
+ リクペチの胸をまさぐっていた男は、 きつくリクペチの乳首を摘まみあげた。
+ 「あっ…んっ…あぁっ……ぁ～～…！」
+ リクペチは躰を大きくブルブルと震わせて、 気をやった。
+ 「おいおい……今のでイッちまってるよ」
+ 乳首をきつく愛撫した男は、勝ち誇ったように、 嘲るように言う。
+ 「信じられねー、淫乱だ」
+ 「だから奴隷なんだな」
+ 男達はそう言って笑った。 笑いながら、リクペチの躰を弄ぶ。
+ 「おい、奴隷なら奴隷らしく、これもっぺん 　おっきくしてくれよ」
+ さっきリクペチの中で射精した男が、 まだリクペチの中に入っている柔らかく なりつつある一物をぐにぐにと動かした。
+ 「わっ…私は……」
+ 「まだ欲しいんだろ？ 　物足りないって顔してんぞ？」
+ 「うっ…」
+ リクペチの躰が小刻みに震える。
+ 「もっとして欲しいんだったら、 　自分で腰動かせよ」
+ 「ほーら、こっちも頼むぜ。 　俺、入れるより手の方が好きなんだ」
+ 男はリクペチの手に自分のものを 握らせる。
+ 「じゃあ俺はこっちだ」
+ そう言って、別の男が、リクペチの もう片方の手を取る。
+ 「くっ…くくくっ……！」
+ もう一人は笑ったままリクペチの口に また一物をぶちこんだ。
+ 「おいおぃ、俺のも舐めさせてやってくれよ」
+ 「おう、俺のもだ。 　一度に口に３本なんて嬉しいだろ？」
+ 「ほら、動けよ！ 　この奴隷！」
+ リクペチの中に埋めている男が、 強引に下からリクペチの躰を突き上げた。
+ 「う……く…～……」
+ リクペチはうすぼんやりとした目で、 男達に従い出した。
+ 「おっ…そーだそーだ、固くなってきたぜ」
+ リクペチの中に埋めている男が満足そうに言う。
+ 「こっちもだ。 　中の方に夢中になり過ぎて、手ぇ忘れるなんざ、 　奴隷失格だぜ」
+ 「そーそー、口も大事だぜー」
+ 男達は嬉しそうにリクペチに愛撫させながら、 自らも腰を振る。
+ 「おい……一緒に出さねぇか？」
+ 「へへ…へへ…いいね… 　そりゃ嬉しいだろ？ 　奴隷さん」
+ 男達はそう言うと、さらに刺激を望み、 腰を振る速度を速めた。
+ 「くっ…うっ…お、俺もう駄目だ… 　出っ……出るっ……」
+ 「しゃーねぇなぁ……イくぜ…」
+ 「へへっ…食らいな、ラッシーシャワーだ！」
+ リクペチの手、顔、花弁。 すべてが白濁の体液に染まる。
+ 「うっ…あっ…ぁぁっ……！！」
+ リクペチはそれを受け、さらに大きく躰を震わせた。"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}

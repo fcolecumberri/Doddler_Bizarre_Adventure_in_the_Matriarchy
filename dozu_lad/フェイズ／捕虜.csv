@@ -1,0 +1,141 @@
+character,jap text,Eng
+__system__??,{G捕虜数 = 0:,{G捕虜数 = 0:
+__system__??,},}
+__system__??,{●ＥＸ \ 0:,{●ＥＸ \ 0:
+__system__??,},}
+__system__??,{(☆日陰 = 5) * (☆日陰カウンター > 120):,{(☆日陰 = 5) * (☆日陰カウンター > 120):
+__system__??,},}
+__system__??,{(☆日陰 = 4) * (☆日陰カウンター > 100):,{(☆日陰 = 4) * (☆日陰カウンター > 100):
+__system__??,},}
+__system__??,{(☆日陰 = 3) * (☆日陰カウンター > 80):,{(☆日陰 = 3) * (☆日陰カウンター > 80):
+__system__??,},}
+__system__??,{(☆日陰 = 2) * (☆日陰カウンター > 60):,{(☆日陰 = 2) * (☆日陰カウンター > 60):
+__system__??,},}
+__system__??,{(☆日陰 = 1) * (☆日陰カウンター > 40):,{(☆日陰 = 1) * (☆日陰カウンター > 40):
+__system__??,},}
+__system__??,{☆日陰 = 0:,{☆日陰 = 0:
+__system__??,},}
+__system__??,{D19 = 0:,{D19 = 0:
+__system__??,},}
+__system__??,{(H捕虜期間 = 0) * (Hキャラ > 500) * (RND = 1) * (H拷問抵抗 = 99) * (H性別 \ 2):,{(H捕虜期間 = 0) * (Hキャラ > 500) * (RND = 1) * (H拷問抵抗 = 99) * (H性別 \ 2):
+__system__??,{(Hキャラ = 530) + (Hキャラ = 522):,{(Hキャラ = 530) + (Hキャラ = 522):
+__system__??,},}
+__system__??,},}
+__system__??,{HＳＰ番号 = 0:,{HＳＰ番号 = 0:
+__system__??,{(☆日陰動物カウンター > 10) * (I装備[27] = 99):,{(☆日陰動物カウンター > 10) * (I装備[27] = 99):
+__system__??,},}
+__system__??,{(☆日陰動物カウンター > 30) * (I装備[28] = 99):,{(☆日陰動物カウンター > 30) * (I装備[28] = 99):
+__system__??,},}
+__system__??,},}
+__system__??,{Hキャラ > 500:,{Hキャラ > 500:
+__system__??,},}
+__system__??,{H捕虜期間 = 1:,{H捕虜期間 = 1:
+__system__??,},}
+__system__??,{H捕虜期間 \ 1:,{H捕虜期間 \ 1:
+__system__??,},}
+__system__??,{RETURN = 9:,{RETURN = 9:
+__system__??,},}
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+__system__??,},}
+__system__??,{RETURN = 3:,{RETURN = 3:
+__system__??,},}
+__system__??,{RETURN = 4:,{RETURN = 4:
+__system__??,},}
+__system__??,{RETURN = 5:,{RETURN = 5:
+__system__??,},}
+__system__??,{RETURN = 10:,{RETURN = 10:
+__system__??,},}
+narrator,　　捕虜　　,　　捕虜　　
+narrator,　　,　　
+narrator,週目,週目
+__system__??,{H物欲 \ 0:,{H物欲 \ 0:
+narrator,懐柔（,懐柔（
+narrator,回）,回）
+__system__??,},}
+__system__??,{H拷問 \ 0:,{H拷問 \ 0:
+narrator,　拷問（,　拷問（
+narrator,回）,回）
+__system__??,},}
+__system__??,{H愛欲 \ 0:,{H愛欲 \ 0:
+narrator,　こまし（,　こまし（
+narrator,回）,回）
+__system__??,},}
+__system__??,{H性別 = 1:,{H性別 = 1:
+menu_label__(L_00773),　こます,　こます
+__system__??,},}
+menu_label__(L_0084b),　懐柔,　懐柔
+__system__??,{(H拷問抵抗 \ 0) * (H拷問抵抗 \ 99):,{(H拷問抵抗 \ 0) * (H拷問抵抗 \ 99):
+menu_label__(L_008be),　拷問,　拷問
+__system__??,},}
+menu_label__(L_009f2),　始末,　始末
+__system__??,{(H性別 = 1) * (★調教 = 3):,{(H性別 = 1) * (★調教 = 3):
+menu_label__(L_008f9),調教の館送り,調教の館送り
+__system__??,},}
+__system__??,{(H性別 = 1) * (☆ギャルバーガー > 1):,{(H性別 = 1) * (☆ギャルバーガー > 1):
+menu_label__(L_0094c),ＧＡＬバ送り,ＧＡＬバ送り
+__system__??,},}
+__system__??,{(H性別 \ 2) * (★★市議会 \ 5) * (★★市議会 \ 6):,{(H性別 \ 2) * (★★市議会 \ 5) * (★★市議会 \ 6):
+menu_label__(L_00a43),　刑務所行き,　刑務所行き
+__system__??,},}
+__system__??,{(H性別 = 2) * (●ＥＸ = 0):,{(H性別 = 2) * (●ＥＸ = 0):
+menu_label__(L_00a94),　動物園行き,　動物園行き
+__system__??,},}
+narrator,　捕虜番号　,　捕虜番号　
+narrator,　キャラ（,　キャラ（
+narrator,） 　ＳＰ　（,） 　ＳＰ　（
+narrator,）,）
+__system__??,{Hキャラ > 500:,{Hキャラ > 500:
+__system__??,},}
+__system__??,{Hキャラ > 500:,{Hキャラ > 500:
+__system__??,},}
+__system__??,{Hキャラ > 500:,{Hキャラ > 500:
+__system__??,},}
+__system__??,{Hキャラ > 500:,{Hキャラ > 500:
+__system__??,},}
+__system__??,{Hキャラ > 500:,{Hキャラ > 500:
+__system__??,},}
+__system__??,{★結婚 = 1:,{★結婚 = 1:
+__system__??,},}
+__system__??,{Hキャラ = 86:,{Hキャラ = 86:
+narrator,突然、悪司はおなかが痛くなった。 野生の勘が危険を感じたのだろうか…,突然、悪司はおなかが痛くなった。 野生の勘が危険を感じたのだろうか…
+__system__??,},}
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+__system__??,},}
+__system__??,{RETURN = 3:,{RETURN = 3:
+__system__??,},}
+__system__??,{RETURN = 4:,{RETURN = 4:
+__system__??,},}
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+__system__??,},}
+__system__??,{RETURN = 3:,{RETURN = 3:
+__system__??,},}
+__system__??,{RETURN = 4:,{RETURN = 4:
+__system__??,},}
+__system__??,{RETURN = 10:,{RETURN = 10:
+__system__??,},}
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{RETURN = 99:,{RETURN = 99:
+__system__??,},}
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{RETURN = 99:,{RETURN = 99:
+__system__??,},}
+__system__??,{Hキャラ < 500:,{Hキャラ < 500:
+__system__??,},}
+__system__??,{Hキャラ = 86:,{Hキャラ = 86:
+__system__??,},}
+__system__??,{RETURN = 101:,{RETURN = 101:
+__system__??,},}
+__system__??,{RETURN = 101:,{RETURN = 101:
+__system__??,},}
+__system__??,{(☆日陰動物カウンター > 10) * (I装備[27] = 99):,{(☆日陰動物カウンター > 10) * (I装備[27] = 99):
+__system__??,},}
+__system__??,{(☆日陰動物カウンター > 30) * (I装備[28] = 99):,{(☆日陰動物カウンター > 30) * (I装備[28] = 99):
+__system__??,},}

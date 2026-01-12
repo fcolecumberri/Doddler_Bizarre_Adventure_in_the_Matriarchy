@@ -1,0 +1,913 @@
+character,jap text,Eng
+narrator,　！！　部下未配置　！！ 　部下が配置されておりません。,　！！　部下未配置　！！ 　部下が配置されておりません。
+narrator,　！！　お金不足　！！ 　お金が足りません。,　！！　お金不足　！！ 　お金が足りません。
+__system__??,{Bキャラ > 500:,{Bキャラ > 500:
+__system__??,},}
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　　　　　　　レベルアップ,　☆☆ 　　　　　　　レベルアップ
+__system__??,{(Bキャラ = 1) * (☆鬼門２ \ 0):,{(Bキャラ = 1) * (☆鬼門２ \ 0):
+__system__??,},}
+__system__??,{(GOLD > 2000) * (B給与 \ 0):,{(GOLD > 2000) * (B給与 \ 0):
+__system__??,},}
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　　地域から集める協力金が増えた。 　（,　☆☆ 　　地域から集める協力金が増えた。 　（
+narrator,０万）→,０万）→
+narrator,（,（
+narrator,０万）,０万）
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　奉仕青年団の管理下に組み入れた。,　☆☆ 　奉仕青年団の管理下に組み入れた。
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　捕虜として捕らえた。,　☆☆ 　捕虜として捕らえた。
+__system__??,{☆Ｐ登録名前 = 1:,{☆Ｐ登録名前 = 1:
+__system__??,},}
+__system__??,{Hキャラ = 13:,{Hキャラ = 13:
+__system__??,},}
+__system__??,{☆Ｐ忠誠 = 1:,{☆Ｐ忠誠 = 1:
+__system__??,},}
+__system__??,{☆Ｐ忠誠 = 2:,{☆Ｐ忠誠 = 2:
+__system__??,},}
+__system__??,{☆Ｐ忠誠 = 3:,{☆Ｐ忠誠 = 3:
+__system__??,},}
+__system__??,{☆Ｐ忠誠 = 4:,{☆Ｐ忠誠 = 4:
+__system__??,},}
+__system__??,{☆Ｐ名前 \ 0:,{☆Ｐ名前 \ 0:
+__system__??,},}
+__system__??,{☆Ｐ給与 = 2:,{☆Ｐ給与 = 2:
+__system__??,},}
+__system__??,{☆Ｐ給与 = 9:,{☆Ｐ給与 = 9:
+__system__??,},}
+__system__??,{☆Ｐ給与 > 10:,{☆Ｐ給与 > 10:
+__system__??,},}
+__system__??,{☆Ｐ収益 \ 0:,{☆Ｐ収益 \ 0:
+__system__??,},}
+__system__??,{☆Ｐ攻撃力:,{☆Ｐ攻撃力:
+__system__??,},}
+__system__??,{☆Ｐスキル \ 0:,{☆Ｐスキル \ 0:
+__system__??,},}
+__system__??,{☆Ｐ能力 \ 0:,{☆Ｐ能力 \ 0:
+__system__??,},}
+__system__??,{☆Ｐ能力 = 0:,{☆Ｐ能力 = 0:
+__system__??,},}
+__system__??,{☆Ｐ登録名前 = 1:,{☆Ｐ登録名前 = 1:
+__system__??,},}
+__system__??,{☆Ｐ登録名前 = 11:,{☆Ｐ登録名前 = 11:
+__system__??,},}
+__system__??,{☆Ｐ登録名前 = 12:,{☆Ｐ登録名前 = 12:
+__system__??,},}
+__system__??,{☆Ｐ登録名前 = 13:,{☆Ｐ登録名前 = 13:
+__system__??,},}
+__system__??,{(Bキャラ > 500) * (B性別 = 2) * (Bキャラ \ 568):,{(Bキャラ > 500) * (B性別 = 2) * (Bキャラ \ 568):
+__system__??,},}
+__system__??,{(Bキャラ = 551) * (☆明 = 9) * (RND = 1):,{(Bキャラ = 551) * (☆明 = 9) * (RND = 1):
+narrator,　その猫は、突然変異のスーパー猫 　だった。（能力アップ）,　その猫は、突然変異のスーパー猫 　だった。（能力アップ）
+__system__??,},}
+__system__??,{Bキャラ = 7:,{Bキャラ = 7:
+__system__??,},}
+__system__??,{Bキャラ = 96:,{Bキャラ = 96:
+__system__??,},}
+__system__??,{Bキャラ = 13:,{Bキャラ = 13:
+__system__??,},}
+__system__??,{(Bキャラ = 37) * (★愛 = 5):,{(Bキャラ = 37) * (★愛 = 5):
+__system__??,},}
+__system__??,{(Bキャラ = 43) * (SEPL[43] = 1):,{(Bキャラ = 43) * (SEPL[43] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 81) * (SEPL[81] = 1):,{(Bキャラ = 81) * (SEPL[81] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 82) * (SEPL[82] = 1):,{(Bキャラ = 82) * (SEPL[82] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 68) * (SEPL[68] = 1):,{(Bキャラ = 68) * (SEPL[68] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 67) * (SEPL[67] = 1):,{(Bキャラ = 67) * (SEPL[67] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 30) * (SEPL[30] = 1):,{(Bキャラ = 30) * (SEPL[30] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 69) * (SEPL[69] = 1):,{(Bキャラ = 69) * (SEPL[69] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 10) * (SEPL[10] = 1):,{(Bキャラ = 10) * (SEPL[10] = 1):
+__system__??,},}
+__system__??,{Bキャラ = 39:,{Bキャラ = 39:
+__system__??,},}
+__system__??,{(Bキャラ = 39) * (SEPL[39] = 1):,{(Bキャラ = 39) * (SEPL[39] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 58) * (SEPL[58] = 1):,{(Bキャラ = 58) * (SEPL[58] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 55) * (SEPL[55] = 1):,{(Bキャラ = 55) * (SEPL[55] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 56) * (SEPL[56] = 1):,{(Bキャラ = 56) * (SEPL[56] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 57) * (SEPL[57] = 1):,{(Bキャラ = 57) * (SEPL[57] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 93) * (SEPL[93] = 1):,{(Bキャラ = 93) * (SEPL[93] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 23) * (SEPL[23] = 1):,{(Bキャラ = 23) * (SEPL[23] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 24) * (SEPL[24] = 1):,{(Bキャラ = 24) * (SEPL[24] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 64) * (SEPL[64] = 1):,{(Bキャラ = 64) * (SEPL[64] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 89) * (SEPL[89] = 1):,{(Bキャラ = 89) * (SEPL[89] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 68) * (SEPL[68] = 1):,{(Bキャラ = 68) * (SEPL[68] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 67) * (SEPL[67] = 1):,{(Bキャラ = 67) * (SEPL[67] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 69) * (SEPL[69] = 1):,{(Bキャラ = 69) * (SEPL[69] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 66) * (SEPL[66] = 1):,{(Bキャラ = 66) * (SEPL[66] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 42) * (SEPL[42] = 1):,{(Bキャラ = 42) * (SEPL[42] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 65) * (SEPL[65] = 1):,{(Bキャラ = 65) * (SEPL[65] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 21) * (SEPL[21] = 1):,{(Bキャラ = 21) * (SEPL[21] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 76) * (SEPL[76] = 1):,{(Bキャラ = 76) * (SEPL[76] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 75) * (SEPL[75] = 1):,{(Bキャラ = 75) * (SEPL[75] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 29) * (SEPL[29] = 1):,{(Bキャラ = 29) * (SEPL[29] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 51) * (SEPL[51] = 1):,{(Bキャラ = 51) * (SEPL[51] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 28) * (SEPL[28] = 1):,{(Bキャラ = 28) * (SEPL[28] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 19) * (SEPL[19] = 1):,{(Bキャラ = 19) * (SEPL[19] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 7) * (SEPL[7] = 1):,{(Bキャラ = 7) * (SEPL[7] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 96) * (SEPL[96] = 1):,{(Bキャラ = 96) * (SEPL[96] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 8) * (SEPL[8] = 1):,{(Bキャラ = 8) * (SEPL[8] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 13) * (SEPL[13] = 1):,{(Bキャラ = 13) * (SEPL[13] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 37) * (SEPL[37] = 1):,{(Bキャラ = 37) * (SEPL[37] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 87) * (SEPL[87] = 1):,{(Bキャラ = 87) * (SEPL[87] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 11) * (SEPL[11] = 1):,{(Bキャラ = 11) * (SEPL[11] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 62) * (SEPL[62] = 1):,{(Bキャラ = 62) * (SEPL[62] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 54) * (SEPL[54] = 1):,{(Bキャラ = 54) * (SEPL[54] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 78) * (SEPL[78] = 1):,{(Bキャラ = 78) * (SEPL[78] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 77) * (SEPL[77] = 1):,{(Bキャラ = 77) * (SEPL[77] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 90) * (SEPL[90] = 1):,{(Bキャラ = 90) * (SEPL[90] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 80) * (SEPL[80] = 1):,{(Bキャラ = 80) * (SEPL[80] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 79) * (SEPL[79] = 1):,{(Bキャラ = 79) * (SEPL[79] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 92) * (SEPL[92] = 1):,{(Bキャラ = 92) * (SEPL[92] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 9) * (SEPL[9] = 1):,{(Bキャラ = 9) * (SEPL[9] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 5) * (SEPL[5] = 1):,{(Bキャラ = 5) * (SEPL[5] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 17) * (SEPL[17] = 1):,{(Bキャラ = 17) * (SEPL[17] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 18) * (SEPL[18] = 1):,{(Bキャラ = 18) * (SEPL[18] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 20) * (SEPL[20] = 1):,{(Bキャラ = 20) * (SEPL[20] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 41) * (SEPL[41] = 1):,{(Bキャラ = 41) * (SEPL[41] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 44) * (SEPL[44] = 1):,{(Bキャラ = 44) * (SEPL[44] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 46) * (SEPL[46] = 1):,{(Bキャラ = 46) * (SEPL[46] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 45) * (SEPL[45] = 1):,{(Bキャラ = 45) * (SEPL[45] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 48) * (SEPL[48] = 1):,{(Bキャラ = 48) * (SEPL[48] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 49) * (SEPL[49] = 1):,{(Bキャラ = 49) * (SEPL[49] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 47) * (SEPL[47] = 1):,{(Bキャラ = 47) * (SEPL[47] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 36) * (SEPL[36] = 1):,{(Bキャラ = 36) * (SEPL[36] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 50) * (SEPL[50] = 1):,{(Bキャラ = 50) * (SEPL[50] = 1):
+__system__??,},}
+__system__??,{(Bキャラ = 15) * (SEPL[15] = 1):,{(Bキャラ = 15) * (SEPL[15] = 1):
+__system__??,},}
+__system__??,{☆Ｋ入団 = 1:,{☆Ｋ入団 = 1:
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　　（　エピローグ確認ボーナス　） 　新たに奉仕青年団に入団した。,　☆☆ 　　（　エピローグ確認ボーナス　） 　新たに奉仕青年団に入団した。
+__system__??,},}
+narrator,　☆☆　部下　,　☆☆　部下　
+narrator,　☆☆ 　新たに奉仕青年団に入団した。,　☆☆ 　新たに奉仕青年団に入団した。
+ (talking),そうだな、名前をつけてやろう。 えーと、そうだな。,そうだな、名前をつけてやろう。 えーと、そうだな。
+__system__??,{RETURN = 1:,{RETURN = 1:
+ (talking),まー、このままでいいや。,まー、このままでいいや。
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+ (talking),決めた。 お前の名前は、,決めた。 お前の名前は、
+ (talking),だ。,だ。
+__system__??,},}
+__system__??,{☆Ｐ名前 \ 0:,{☆Ｐ名前 \ 0:
+__system__??,},}
+__system__??,{☆Ｐ登録名前 = 1:,{☆Ｐ登録名前 = 1:
+__system__??,},}
+__system__??,{☆Ｐ登録名前 = 12:,{☆Ｐ登録名前 = 12:
+__system__??,},}
+__system__??,{Sキャラ = 13:,{Sキャラ = 13:
+__system__??,},}
+__system__??,{(Sキャラ = 82) * (SEPL[82] = 1):,{(Sキャラ = 82) * (SEPL[82] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 40) * (SEPL[40] = 1):,{(Sキャラ = 40) * (SEPL[40] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 70) * (SEPL[70] = 1):,{(Sキャラ = 70) * (SEPL[70] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 8) * (SEPL[8] = 1):,{(Sキャラ = 8) * (SEPL[8] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 13) * (SEPL[13] = 1):,{(Sキャラ = 13) * (SEPL[13] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 11) * (SEPL[11] = 1):,{(Sキャラ = 11) * (SEPL[11] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 62) * (SEPL[62] = 1):,{(Sキャラ = 62) * (SEPL[62] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 54) * (SEPL[54] = 1):,{(Sキャラ = 54) * (SEPL[54] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 78) * (SEPL[78] = 1):,{(Sキャラ = 78) * (SEPL[78] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 77) * (SEPL[77] = 1):,{(Sキャラ = 77) * (SEPL[77] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 80) * (SEPL[80] = 1):,{(Sキャラ = 80) * (SEPL[80] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 79) * (SEPL[79] = 1):,{(Sキャラ = 79) * (SEPL[79] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 9) * (SEPL[9] = 1):,{(Sキャラ = 9) * (SEPL[9] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 5) * (SEPL[5] = 1):,{(Sキャラ = 5) * (SEPL[5] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 17) * (SEPL[17] = 1):,{(Sキャラ = 17) * (SEPL[17] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 18) * (SEPL[18] = 1):,{(Sキャラ = 18) * (SEPL[18] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 19) * (SEPL[19] = 1):,{(Sキャラ = 19) * (SEPL[19] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 20) * (SEPL[20] = 1):,{(Sキャラ = 20) * (SEPL[20] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 44) * (SEPL[44] = 1):,{(Sキャラ = 44) * (SEPL[44] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 45) * (SEPL[45] = 1):,{(Sキャラ = 45) * (SEPL[45] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 49) * (SEPL[49] = 1):,{(Sキャラ = 49) * (SEPL[49] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 47) * (SEPL[47] = 1):,{(Sキャラ = 47) * (SEPL[47] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 2) * (SEPL[2] = 1):,{(Sキャラ = 2) * (SEPL[2] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 3) * (SEPL[3] = 1):,{(Sキャラ = 3) * (SEPL[3] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 4) * (SEPL[4] = 1):,{(Sキャラ = 4) * (SEPL[4] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 38) * (SEPL[38] = 1):,{(Sキャラ = 38) * (SEPL[38] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 71) * (SEPL[71] = 1):,{(Sキャラ = 71) * (SEPL[71] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 72) * (SEPL[72] = 1):,{(Sキャラ = 72) * (SEPL[72] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 73) * (SEPL[73] = 1):,{(Sキャラ = 73) * (SEPL[73] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 31) * (SEPL[31] = 1):,{(Sキャラ = 31) * (SEPL[31] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 53) * (SEPL[53] = 1):,{(Sキャラ = 53) * (SEPL[53] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 33) * (SEPL[33] = 1):,{(Sキャラ = 33) * (SEPL[33] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 74) * (SEPL[74] = 1):,{(Sキャラ = 74) * (SEPL[74] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 6) * (SEPL[6] = 1):,{(Sキャラ = 6) * (SEPL[6] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 16) * (SEPL[16] = 1):,{(Sキャラ = 16) * (SEPL[16] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 59) * (SEPL[59] = 1):,{(Sキャラ = 59) * (SEPL[59] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 60) * (SEPL[60] = 1):,{(Sキャラ = 60) * (SEPL[60] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 61) * (SEPL[61] = 1):,{(Sキャラ = 61) * (SEPL[61] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 50) * (SEPL[50] = 1):,{(Sキャラ = 50) * (SEPL[50] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 14) * (SEPL[14] = 1):,{(Sキャラ = 14) * (SEPL[14] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 15) * (SEPL[15] = 1):,{(Sキャラ = 15) * (SEPL[15] = 1):
+__system__??,},}
+__system__??,{(Sキャラ = 32) * (SEPL[32] = 1):,{(Sキャラ = 32) * (SEPL[32] = 1):
+__system__??,},}
+__system__??,{☆Ｋ娼婦 = 1:,{☆Ｋ娼婦 = 1:
+narrator,　☆☆　娼婦　,　☆☆　娼婦　
+narrator,　☆☆ 　　（　エピローグ確認ボーナス　） 　新たに売春宿に入れた。,　☆☆ 　　（　エピローグ確認ボーナス　） 　新たに売春宿に入れた。
+__system__??,},}
+narrator,　☆☆　娼婦　,　☆☆　娼婦　
+narrator,　☆☆ 　新たに売春宿に入れた。,　☆☆ 　新たに売春宿に入れた。
+narrator,　☆☆　部下　,　☆☆　部下　
+narrator,　☆☆ 　奉仕青年団からいなくなった。,　☆☆ 　奉仕青年団からいなくなった。
+narrator,　☆☆　　,　☆☆　　
+narrator,　☆☆ 　　　　　死亡,　☆☆ 　　　　　死亡
+narrator,　☆☆　　,　☆☆　　
+narrator,　☆☆ 　　重傷をおった。,　☆☆ 　　重傷をおった。
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　特殊な道具を手に入れた。,　☆☆ 　特殊な道具を手に入れた。
+narrator,　　☆☆　,　　☆☆　
+narrator,０万取得　☆☆ 　予算が,０万取得　☆☆ 　予算が
+narrator,０万円になった。,０万円になった。
+narrator,　　☆☆　,　　☆☆　
+narrator,０万失った　☆☆ 　予算が,０万失った　☆☆ 　予算が
+narrator,０万円になった。,０万円になった。
+narrator,　　☆☆　,　　☆☆　
+narrator,０万を支払った　☆☆ 　予算が,０万を支払った　☆☆ 　予算が
+narrator,０万円になった。,０万円になった。
+__system__??,{L1 < 1000:,{L1 < 1000:
+__system__??,},}
+narrator,億,億
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　経験値アップ（,　☆☆ 　経験値アップ（
+narrator,）→,）→
+narrator,（,（
+narrator,）,）
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　スキル（,　☆☆ 　スキル（
+narrator,）を取得,）を取得
+__system__??,{L1 = 1:,{L1 = 1:
+narrator,命中ＵＰ,命中ＵＰ
+__system__??,},}
+__system__??,{L1 = 2:,{L1 = 2:
+narrator,★命中ＵＰ,★命中ＵＰ
+__system__??,},}
+__system__??,{L1 = 3:,{L1 = 3:
+narrator,回避ＵＰ,回避ＵＰ
+__system__??,},}
+__system__??,{L1 = 4:,{L1 = 4:
+narrator,★回避ＵＰ,★回避ＵＰ
+__system__??,},}
+__system__??,{L1 = 5:,{L1 = 5:
+narrator,中打撃,中打撃
+__system__??,},}
+__system__??,{L1 = 6:,{L1 = 6:
+narrator,★大打撃,★大打撃
+__system__??,},}
+__system__??,{L1 = 7:,{L1 = 7:
+narrator,手加減,手加減
+__system__??,},}
+__system__??,{L1 = 8:,{L1 = 8:
+narrator,？？？,？？？
+__system__??,},}
+__system__??,{L1 = 9:,{L1 = 9:
+narrator,白き煙幕,白き煙幕
+__system__??,},}
+__system__??,{L1 = 10:,{L1 = 10:
+narrator,？？？,？？？
+__system__??,},}
+__system__??,{L1 = 11:,{L1 = 11:
+narrator,男殺し,男殺し
+__system__??,},}
+__system__??,{L1 = 12:,{L1 = 12:
+narrator,★男殺し,★男殺し
+__system__??,},}
+__system__??,{L1 = 13:,{L1 = 13:
+narrator,女殺し,女殺し
+__system__??,},}
+__system__??,{L1 = 14:,{L1 = 14:
+narrator,★女殺し,★女殺し
+__system__??,},}
+__system__??,{L1 = 15:,{L1 = 15:
+narrator,動物殺し,動物殺し
+__system__??,},}
+__system__??,{L1 = 16:,{L1 = 16:
+narrator,★動物殺し,★動物殺し
+__system__??,},}
+__system__??,{L1 = 17:,{L1 = 17:
+narrator,外人殺し,外人殺し
+__system__??,},}
+__system__??,{L1 = 18:,{L1 = 18:
+narrator,★外人殺し,★外人殺し
+__system__??,},}
+__system__??,{L1 = 19:,{L1 = 19:
+narrator,組員殺し,組員殺し
+__system__??,},}
+__system__??,{L1 = 20:,{L1 = 20:
+narrator,★組員殺し,★組員殺し
+__system__??,},}
+__system__??,{L1 = 21:,{L1 = 21:
+narrator,支援回復,支援回復
+__system__??,},}
+__system__??,{L1 = 22:,{L1 = 22:
+narrator,★支援回復,★支援回復
+__system__??,},}
+__system__??,{L1 = 23:,{L1 = 23:
+narrator,支援命中,支援命中
+__system__??,},}
+__system__??,{L1 = 24:,{L1 = 24:
+narrator,★支援命中,★支援命中
+__system__??,},}
+__system__??,{L1 = 25:,{L1 = 25:
+narrator,支援回避,支援回避
+__system__??,},}
+__system__??,{L1 = 26:,{L1 = 26:
+narrator,★支援回避,★支援回避
+__system__??,},}
+__system__??,{L1 = 31:,{L1 = 31:
+narrator,大悪司,大悪司
+__system__??,},}
+__system__??,{L1 = 32:,{L1 = 32:
+narrator,？？？,？？？
+__system__??,},}
+__system__??,{L1 = 33:,{L1 = 33:
+narrator,気力奪い,気力奪い
+__system__??,},}
+__system__??,{L1 = 34:,{L1 = 34:
+narrator,★気力破壊,★気力破壊
+__system__??,},}
+__system__??,{L1 = 35:,{L1 = 35:
+narrator,命中７０,命中７０
+__system__??,},}
+__system__??,{L1 = 36:,{L1 = 36:
+narrator,★命中９０,★命中９０
+__system__??,},}
+__system__??,{L1 = 37:,{L1 = 37:
+narrator,回避７０,回避７０
+__system__??,},}
+__system__??,{L1 = 38:,{L1 = 38:
+narrator,★回避９０,★回避９０
+__system__??,},}
+__system__??,{L1 = 39:,{L1 = 39:
+narrator,上級攻撃,上級攻撃
+__system__??,},}
+__system__??,{L1 = 40:,{L1 = 40:
+narrator,★上級攻撃,★上級攻撃
+__system__??,},}
+__system__??,{L1 = 41:,{L1 = 41:
+narrator,特上攻撃,特上攻撃
+__system__??,},}
+__system__??,{L1 = 42:,{L1 = 42:
+narrator,★特上攻撃,★特上攻撃
+__system__??,},}
+__system__??,{L1 = 43:,{L1 = 43:
+narrator,半減攻撃,半減攻撃
+__system__??,},}
+__system__??,{L1 = 44:,{L1 = 44:
+narrator,？？？,？？？
+__system__??,},}
+__system__??,{L1 = 45:,{L1 = 45:
+narrator,先制攻撃,先制攻撃
+__system__??,},}
+__system__??,{L1 = 46:,{L1 = 46:
+narrator,？？？,？？？
+__system__??,},}
+__system__??,{L1 = 47:,{L1 = 47:
+narrator,博打,博打
+__system__??,},}
+__system__??,{L1 = 48:,{L1 = 48:
+narrator,★大博打,★大博打
+__system__??,},}
+__system__??,{L1 = 51:,{L1 = 51:
+narrator,精神集中,精神集中
+__system__??,},}
+__system__??,{L1 = 52:,{L1 = 52:
+narrator,？？？,？？？
+__system__??,},}
+__system__??,{L1 = 53:,{L1 = 53:
+narrator,ボーナス,ボーナス
+__system__??,},}
+__system__??,{L1 = 54:,{L1 = 54:
+narrator,★ボーナス,★ボーナス
+__system__??,},}
+__system__??,{L1 = 55:,{L1 = 55:
+narrator,幸福の雨,幸福の雨
+__system__??,},}
+__system__??,{L1 = 56:,{L1 = 56:
+narrator,★幸福の雨,★幸福の雨
+__system__??,},}
+__system__??,{L1 = 61:,{L1 = 61:
+narrator,土竜,土竜
+__system__??,},}
+__system__??,{L1 = 63:,{L1 = 63:
+narrator,一発,一発
+__system__??,},}
+__system__??,{L1 = 65:,{L1 = 65:
+narrator,死ぬがよい,死ぬがよい
+__system__??,},}
+__system__??,{L1 = 67:,{L1 = 67:
+narrator,不器用ですから,不器用ですから
+__system__??,},}
+__system__??,{L1 = 69:,{L1 = 69:
+narrator,天神祭,天神祭
+__system__??,},}
+__system__??,{L1 = 71:,{L1 = 71:
+narrator,癒しの願い,癒しの願い
+__system__??,},}
+__system__??,{L1 = 73:,{L1 = 73:
+narrator,疾風の剣,疾風の剣
+__system__??,},}
+__system__??,{L1 = 75:,{L1 = 75:
+narrator,ハイクラッシュ,ハイクラッシュ
+__system__??,},}
+__system__??,{L1 = 77:,{L1 = 77:
+narrator,ハンティング,ハンティング
+__system__??,},}
+__system__??,{L1 = 79:,{L1 = 79:
+narrator,死樹氷,死樹氷
+__system__??,},}
+__system__??,{L1 = 81:,{L1 = 81:
+narrator,業炎火,業炎火
+__system__??,},}
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆,　☆☆
+__system__??,{■ = 1:,{■ = 1:
+narrator,　山本一族,　山本一族
+__system__??,},}
+__system__??,{■ = 2:,{■ = 2:
+narrator,　組員,　組員
+__system__??,},}
+__system__??,{■ = 3:,{■ = 3:
+narrator,　男性,　男性
+__system__??,},}
+__system__??,{■ = 4:,{■ = 4:
+narrator,　女性,　女性
+__system__??,},}
+__system__??,{■ = 5:,{■ = 5:
+narrator,　信者,　信者
+__system__??,},}
+__system__??,{■ = 6:,{■ = 6:
+narrator,　動物,　動物
+__system__??,},}
+__system__??,{■ = 7:,{■ = 7:
+narrator,　外人,　外人
+__system__??,},}
+__system__??,{■ = 8:,{■ = 8:
+narrator,　人外,　人外
+__system__??,},}
+__system__??,{■ = 9:,{■ = 9:
+narrator,　？？,　？？
+__system__??,},}
+narrator,に対して属性がついた。,に対して属性がついた。
+__system__??,{■ = 999:,{■ = 999:
+narrator,　☆☆　ＧＡＬバーガー　☆☆ 　　人気ダウン（,　☆☆　ＧＡＬバーガー　☆☆ 　　人気ダウン（
+narrator,）→,）→
+narrator,（,（
+narrator,）,）
+__system__??,},}
+__system__??,{☆ギャルバーガー人気 > 39:,{☆ギャルバーガー人気 > 39:
+narrator,　☆☆　ＧＡＬバーガー　☆☆ 　チェーン店の人気は、最高状態になった。,　☆☆　ＧＡＬバーガー　☆☆ 　チェーン店の人気は、最高状態になった。
+__system__??,},}
+narrator,　☆☆　ＧＡＬバーガー　　☆☆ 　　人気アップ（,　☆☆　ＧＡＬバーガー　　☆☆ 　　人気アップ（
+narrator,）→,）→
+narrator,（,（
+narrator,）,）
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　運アップ（,　☆☆ 　運アップ（
+narrator,）→,）→
+__system__??,{B最大運 > 9:,{B最大運 > 9:
+__system__??,},}
+narrator,（,（
+narrator,）,）
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　気力が完全に回復した。,　☆☆ 　気力が完全に回復した。
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　忠誠心アップ（,　☆☆ 　忠誠心アップ（
+narrator,）→,）→
+__system__??,{B忠誠心 > 99:,{B忠誠心 > 99:
+__system__??,},}
+narrator,（,（
+narrator,）,）
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　忠誠心が減らなくなった。,　☆☆ 　忠誠心が減らなくなった。
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　物欲で動くようになった。,　☆☆ 　物欲で動くようになった。
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　収益力アップ（,　☆☆ 　収益力アップ（
+narrator,０万）→,０万）→
+narrator,（,（
+narrator,０万）,０万）
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　治安力アップ（,　☆☆ 　治安力アップ（
+narrator,）→,）→
+narrator,（,（
+narrator,）,）
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　体力アップ（,　☆☆ 　体力アップ（
+narrator,）→,）→
+narrator,（,（
+narrator,）,）
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　給与ダウン（,　☆☆ 　給与ダウン（
+__system__??,{B給与 = 0:,{B給与 = 0:
+narrator,ただ働き,ただ働き
+__system__??,} else {,} else {
+narrator,０万,０万
+__system__??,},}
+narrator,）→（,）→（
+__system__??,{B給与 = 0:,{B給与 = 0:
+narrator,ただ働き,ただ働き
+__system__??,} else {,} else {
+narrator,０万,０万
+__system__??,},}
+narrator,）,）
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆　給与アップ（,　☆☆　給与アップ（
+__system__??,{B給与 = 0:,{B給与 = 0:
+narrator,ただ働き,ただ働き
+__system__??,} else {,} else {
+narrator,０万,０万
+__system__??,},}
+narrator,）→（,）→（
+__system__??,{B給与 = 0:,{B給与 = 0:
+narrator,ただ働き,ただ働き
+__system__??,} else {,} else {
+narrator,０万,０万
+__system__??,},}
+narrator,）,）
+__system__??,{B治安 = 0:,{B治安 = 0:
+narrator,無能,無能
+__system__??,},}
+__system__??,{B治安 = 1:,{B治安 = 1:
+narrator,普通,普通
+__system__??,},}
+__system__??,{B治安 = 2:,{B治安 = 2:
+narrator,優秀,優秀
+__system__??,},}
+__system__??,{B治安 >= 3:,{B治安 >= 3:
+narrator,完璧,完璧
+__system__??,},}
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　　地域の基本収益が上がりました。 　（,　☆☆ 　　地域の基本収益が上がりました。 　（
+narrator,０万）→（,０万）→（
+narrator,０万）,０万）
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　　地域の基本収益が下がりました。 　（,　☆☆ 　　地域の基本収益が下がりました。 　（
+narrator,０万）→（,０万）→（
+narrator,０万）,０万）
+__system__??,{☆立候補 = 1:,{☆立候補 = 1:
+narrator,　☆☆　夕子の支持率　☆☆,　☆☆　夕子の支持率　☆☆
+__system__??,},}
+__system__??,{☆立候補 = 2:,{☆立候補 = 2:
+narrator,　☆☆　殺ちゃんの支持率　☆☆,　☆☆　殺ちゃんの支持率　☆☆
+__system__??,},}
+narrator,　　,　　
+narrator,％　→→,％　→→
+narrator,％,％
+narrator,　☆☆　山本悪司　☆☆ 　エロテクニックアップ（,　☆☆　山本悪司　☆☆ 　エロテクニックアップ（
+narrator,）→,）→
+narrator,（,（
+narrator,）,）
+narrator,　☆☆　タマネギ調教団　☆☆ 　調教テクニック（,　☆☆　タマネギ調教団　☆☆ 　調教テクニック（
+narrator,）→,）→
+narrator,（,（
+narrator,）,）
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　娼婦としての知名度が上がった。,　☆☆ 　娼婦としての知名度が上がった。
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　基本価格（,　☆☆ 　基本価格（
+narrator,）→,）→
+narrator,（,（
+narrator,）,）
+narrator,　☆☆　,　☆☆　
+narrator,　☆☆ 　忠誠心ダウン（,　☆☆ 　忠誠心ダウン（
+narrator,）→,）→
+narrator,（,（
+narrator,）,）
+narrator,　！！　忠誠心ダウン　！！ 　悪司は、部下達からの信用を少し失った。,　！！　忠誠心ダウン　！！ 　悪司は、部下達からの信用を少し失った。
+__system__??,{Bキャラ > 500:,{Bキャラ > 500:
+__system__??,},}
+__system__??,{■ = 1:,{■ = 1:
+narrator,　☆☆　,　☆☆　
+narrator,（,（
+narrator,）　☆☆,）　☆☆
+narrator,　奉仕青年団の管理下に組み入れた。,　奉仕青年団の管理下に組み入れた。
+__system__??,},}
+__system__??,{■ = 2:,{■ = 2:
+narrator,　☆☆　,　☆☆　
+narrator,（,（
+narrator,）　☆☆,）　☆☆
+narrator,　奉仕青年団の管理下に組み入れた。,　奉仕青年団の管理下に組み入れた。
+__system__??,},}
+__system__??,{RND > 1:,{RND > 1:
+__system__??,},}
+__system__??,{RND > 2:,{RND > 2:
+__system__??,},}
+__system__??,{RND > 3:,{RND > 3:
+__system__??,},}
+__system__??,{RND > 4:,{RND > 4:
+__system__??,},}
+__system__??,{RND > 5:,{RND > 5:
+__system__??,},}
+__system__??,{RND > 6:,{RND > 6:
+__system__??,},}
+__system__??,{RND > 7:,{RND > 7:
+__system__??,},}
+__system__??,{RND > 8:,{RND > 8:
+__system__??,},}
+__system__??,{RND > 9:,{RND > 9:
+__system__??,},}
+narrator,　ＥＲＲＯＲ　　ハニーキング,　ＥＲＲＯＲ　　ハニーキング
+__system__??,{D01 = 1:,{D01 = 1:
+narrator,　ＲＥＴＵＲＮ：,　ＲＥＴＵＲＮ：
+__system__??,},}
+__system__??,{D01 = 2:,{D01 = 2:
+narrator,　戦闘中記録　：,　戦闘中記録　：
+__system__??,},}
+__system__??,{D01 = 3:,{D01 = 3:
+narrator,　名前生成　　：,　名前生成　　：
+__system__??,},}
+__system__??,{D01 = 4:,{D01 = 4:
+narrator,　市議会　ケツ,　市議会　ケツ
+__system__??,},}
+narrator,　　デバッグメッセージ （１）,　　デバッグメッセージ （１）
+narrator,　　（２）,　　（２）
+narrator,（３）,（３）
+narrator,　　（４）,　　（４）
+__system__??,{L1 = 1:,{L1 = 1:
+__system__??,{RND % 2 = 1:,{RND % 2 = 1:
+__system__??,},}
+__system__??,{RND % 2 = 1:,{RND % 2 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{L1 = 2:,{L1 = 2:
+__system__??,{RND % 2 = 1:,{RND % 2 = 1:
+__system__??,},}
+__system__??,{RND % 2 = 1:,{RND % 2 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{L1 = 3:,{L1 = 3:
+__system__??,{RND % 2 = 1:,{RND % 2 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{L1 = 11:,{L1 = 11:
+__system__??,{RND % 2 = 1:,{RND % 2 = 1:
+__system__??,},}
+__system__??,{RND % 2 = 1:,{RND % 2 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{L1 = 12:,{L1 = 12:
+__system__??,{RND % 2 = 1:,{RND % 2 = 1:
+__system__??,},}
+__system__??,{RND % 2 = 1:,{RND % 2 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{L1 = 21:,{L1 = 21:
+__system__??,{RND % 2 = 1:,{RND % 2 = 1:
+__system__??,},}
+__system__??,{RND % 2 = 1:,{RND % 2 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{L1 = 22:,{L1 = 22:
+__system__??,{RND % 2 = 1:,{RND % 2 = 1:
+__system__??,},}
+__system__??,{RND % 2 = 1:,{RND % 2 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{L1 = 31:,{L1 = 31:
+__system__??,{RND % 2:,{RND % 2:
+__system__??,},}
+__system__??,},}
+__system__??,{L1 = 32:,{L1 = 32:
+__system__??,{RND % 2:,{RND % 2:
+__system__??,},}
+__system__??,},}
+__system__??,{(B忠誠タイプ = 3) + (B忠誠タイプ = 4):,{(B忠誠タイプ = 3) + (B忠誠タイプ = 4):
+__system__??,},}
+__system__??,{B地域[LOOP] = 36:,{B地域[LOOP] = 36:
+__system__??,},}
+__system__??,{B地域 = L2:,{B地域 = L2:
+__system__??,},}
+__system__??,{SVG[20] = 0:,{SVG[20] = 0:
+__system__??,},}
+__system__??,{SVG[20] = 0:,{SVG[20] = 0:
+__system__??,},}
+__system__??,{SVG[20] = 0:,{SVG[20] = 0:
+__system__??,},}
+__system__??,{RND = 1:,{RND = 1:
+__system__??,},}
+__system__??,{RND = 2:,{RND = 2:
+__system__??,},}
+__system__??,{RND = 3:,{RND = 3:
+__system__??,},}
+__system__??,{RND = 4:,{RND = 4:
+__system__??,},}
+__system__??,{RND = 1:,{RND = 1:
+__system__??,},}
+__system__??,{RND = 2:,{RND = 2:
+__system__??,},}
+__system__??,{RND = 3:,{RND = 3:
+__system__??,},}
+__system__??,{RND = 4:,{RND = 4:
+__system__??,},}
+__system__??,{RND = 5:,{RND = 5:
+__system__??,},}
+__system__??,{SVG[20] = 0:,{SVG[20] = 0:
+__system__??,},}
+__system__??,{R支配[RND] = 1:,{R支配[RND] = 1:
+__system__??,},}
+__system__??,{B地域 = 地域番号:,{B地域 = 地域番号:
+__system__??,{(■ \ 0) * (B性別 \ 2):,{(■ \ 0) * (B性別 \ 2):
+__system__??,},}
+__system__??,{■ = 0:,{■ = 0:
+__system__??,},}
+__system__??,},}
+__system__??,{(B地域 = 地域番号) * (B性別 \ 2):,{(B地域 = 地域番号) * (B性別 \ 2):
+__system__??,},}
+__system__??,{(B忠誠タイプ = 3) + (B忠誠タイプ = 4):,{(B忠誠タイプ = 3) + (B忠誠タイプ = 4):
+__system__??,{L1 > B忠誠心:,{L1 > B忠誠心:
+__system__??,},}
+__system__??,},}
+__system__??,{(R支配 = 1) * (P3フラグ = 0):,{(R支配 = 1) * (P3フラグ = 0):
+__system__??,},}
+__system__??,{P3フラグ = L1:,{P3フラグ = L1:
+__system__??,},}
+__system__??,{R支配 \ 1:,{R支配 \ 1:
+__system__??,{P1フラグ = 1:,{P1フラグ = 1:
+__system__??,},}
+__system__??,{P2フラグ = 1:,{P2フラグ = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{■ = 0:,{■ = 0:
+__system__??,{★調教 = 3:,{★調教 = 3:
+__system__??,},}
+__system__??,},}
+__system__??,{S娼婦状態 = 1:,{S娼婦状態 = 1:
+__system__??,{■■ = 0:,{■■ = 0:
+__system__??,},}
+__system__??,{■■ \ 0:,{■■ \ 0:
+__system__??,{RND = 1:,{RND = 1:
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{S娼婦状態 = 1:,{S娼婦状態 = 1:
+__system__??,{L2 = 0:,{L2 = 0:
+__system__??,},}
+__system__??,},}
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{B地域[LOOP] = 地域番号:,{B地域[LOOP] = 地域番号:
+__system__??,},}
+__system__??,{R支配 = 組織番号:,{R支配 = 組織番号:
+__system__??,},}
+__system__??,{P3フラグ = 1:,{P3フラグ = 1:
+__system__??,},}
+__system__??,{P3フラグ = 8:,{P3フラグ = 8:
+__system__??,},}
+__system__??,{(R支配 = 1) * (R治安レベル = 3):,{(R支配 = 1) * (R治安レベル = 3):
+__system__??,},}
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{P3フラグ[地域番号] = 7:,{P3フラグ[地域番号] = 7:
+__system__??,},}
+__system__??,{P3フラグ[地域番号] = 4:,{P3フラグ[地域番号] = 4:
+__system__??,},}
+__system__??,{■ > 99:,{■ > 99:
+__system__??,},}
+__system__??,{P1フラグ[地域番号] = 1:,{P1フラグ[地域番号] = 1:
+__system__??,},}
+__system__??,{P2フラグ[地域番号] = 1:,{P2フラグ[地域番号] = 1:
+__system__??,},}
+__system__??,{R治安レベル[地域番号] = 2:,{R治安レベル[地域番号] = 2:
+__system__??,},}
+__system__??,{R治安レベル[地域番号] = 3:,{R治安レベル[地域番号] = 3:
+__system__??,},}
+__system__??,{■ > L1:,{■ > L1:
+__system__??,},}
+ (thinking),貴神に渡す女を選ばないと……,貴神に渡す女を選ばないと……
+__system__??,{☆貴神 = 5:,{☆貴神 = 5:
+ (thinking),条件は、上級娼婦だな……,条件は、上級娼婦だな……
+__system__??,},}
+__system__??,{☆貴神 = 10:,{☆貴神 = 10:
+ (thinking),条件は、穴奴隷だな……,条件は、穴奴隷だな……
+__system__??,},}
+__system__??,{☆貴神 = 18:,{☆貴神 = 18:
+ (thinking),条件は、娼婦だな……,条件は、娼婦だな……
+__system__??,},}
+__system__??,{(S調教レベル > ■) * (D20 < 7):,{(S調教レベル > ■) * (D20 < 7):
+__system__??,{D20 = 1:,{D20 = 1:
+__system__??,},}
+__system__??,{D20 = 2:,{D20 = 2:
+__system__??,},}
+__system__??,{D20 = 3:,{D20 = 3:
+__system__??,},}
+__system__??,{D20 = 4:,{D20 = 4:
+__system__??,},}
+__system__??,{D20 = 5:,{D20 = 5:
+__system__??,},}
+__system__??,{D20 = 6:,{D20 = 6:
+__system__??,},}
+__system__??,{D20 = 7:,{D20 = 7:
+__system__??,},}
+__system__??,},}
+__system__??,{D20 = 0:,{D20 = 0:
+narrator,　対象となる娼婦がいません。,　対象となる娼婦がいません。
+__system__??,},}
+menu_label__(L_06734),誰も選ばない,誰も選ばない

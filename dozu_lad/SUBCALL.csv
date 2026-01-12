@@ -1,0 +1,904 @@
+character,jap text,Eng
+__system__??,{MES_FLG < 9:,{MES_FLG < 9:
+__system__??,},}
+__system__??,{MES_FLG > 7:,{MES_FLG > 7:
+__system__??,},}
+__system__??,{RND & 32:,{RND & 32:
+__system__??,{D01 \ 0:,{D01 \ 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,{RND & 64:,{RND & 64:
+__system__??,},}
+__system__??,{(F10 = 0) * ((xPos < 3) + (yPos < 3) + (VX - 3 < xPos) + (VY - 3 < yPos)):,{(F10 = 0) * ((xPos < 3) + (yPos < 3) + (VX - 3 < xPos) + (VY - 3 < yPos)):
+__system__??,},}
+__system__??,{(F10 = 1) * (2 < xPos) * (2 < yPos) * (xPos < VX - 2) * (yPos < VY - 2):,{(F10 = 1) * (2 < xPos) * (2 < yPos) * (xPos < VX - 2) * (yPos < VY - 2):
+__system__??,},}
+__system__??,{MES_FLG < 9:,{MES_FLG < 9:
+__system__??,},}
+__system__??,{MES_FLG > 7:,{MES_FLG > 7:
+__system__??,},}
+__system__??,{RND & 64:,{RND & 64:
+__system__??,},}
+__system__??,{(F10 = 0) * ((xPos < 3) + (yPos < 3) + (VX - 3 < xPos) + (VY - 3 < yPos)):,{(F10 = 0) * ((xPos < 3) + (yPos < 3) + (VX - 3 < xPos) + (VY - 3 < yPos)):
+__system__??,},}
+__system__??,{(F10 = 1) * (2 < xPos) * (2 < yPos) * (xPos < VX - 2) * (yPos < VY - 2):,{(F10 = 1) * (2 < xPos) * (2 < yPos) * (xPos < VX - 2) * (yPos < VY - 2):
+__system__??,},}
+__system__??,{MES_FLG < 9:,{MES_FLG < 9:
+__system__??,},}
+__system__??,{MES_FLG = 8:,{MES_FLG = 8:
+__system__??,},}
+__system__??,{MES_FLG = 9:,{MES_FLG = 9:
+__system__??,},}
+__system__??,{MES_FLG \ 8:,{MES_FLG \ 8:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{F04 \ 0:,{F04 \ 0:
+__system__??,},}
+__system__??,{F04 \ 0:,{F04 \ 0:
+__system__??,},}
+__system__??,{F03 < 1000:,{F03 < 1000:
+__system__??,},}
+__system__??,{F03 < 100:,{F03 < 100:
+__system__??,},}
+__system__??,{F03 < 10:,{F03 < 10:
+__system__??,},}
+__system__??,{RND & 32:,{RND & 32:
+__system__??,{D01 \ 0:,{D01 \ 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,{RND & 64:,{RND & 64:
+__system__??,},}
+__system__??,{RND & 64:,{RND & 64:
+__system__??,},}
+__system__??,{D01 < D02:,{D01 < D02:
+__system__??,},}
+__system__??,{D01 > D02:,{D01 > D02:
+__system__??,},}
+__system__??,{F09 \ 0:,{F09 \ 0:
+__system__??,},}
+__system__??,{D01 < D02:,{D01 < D02:
+__system__??,},}
+__system__??,{D01 > D02:,{D01 > D02:
+__system__??,},}
+__system__??,{D01 < D02:,{D01 < D02:
+__system__??,},}
+__system__??,{D01 > D02:,{D01 > D02:
+__system__??,},}
+__system__??,{SEL_FLG = 0:,{SEL_FLG = 0:
+__system__??,{SEL_OPN \ 0:,{SEL_OPN \ 0:
+__system__??,{(D01 < 11) + (D01 = 14):,{(D01 < 11) + (D01 = 14):
+__system__??,{D01 = 5:,{D01 = 5:
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{SEL_FLG \ 0:,{SEL_FLG \ 0:
+__system__??,{(SEL_FLG = 1) + (SEL_FLG = 5):,{(SEL_FLG = 1) + (SEL_FLG = 5):
+__system__??,{SEL_FLG = 5:,{SEL_FLG = 5:
+__system__??,},}
+__system__??,},}
+__system__??,{SEL_FLG = 2:,{SEL_FLG = 2:
+__system__??,},}
+__system__??,{SEL_FLG = 11:,{SEL_FLG = 11:
+__system__??,},}
+__system__??,{SEL_FLG = 12:,{SEL_FLG = 12:
+__system__??,},}
+__system__??,{SEL_FLG = 13:,{SEL_FLG = 13:
+__system__??,},}
+__system__??,{SEL_FLG = 14:,{SEL_FLG = 14:
+__system__??,},}
+__system__??,{SEL_FLG = 20:,{SEL_FLG = 20:
+__system__??,},}
+__system__??,},}
+__system__??,{MES_FLG > 7:,{MES_FLG > 7:
+__system__??,},}
+__system__??,{(MES_OPN \ 0) * ((MES_FLG = 0) + (D02 \ MES_FLG)):,{(MES_OPN \ 0) * ((MES_FLG = 0) + (D02 \ MES_FLG)):
+__system__??,{D02 < 8:,{D02 < 8:
+__system__??,},}
+__system__??,},}
+__system__??,{MES_FLG \ 0:,{MES_FLG \ 0:
+__system__??,{(D02 = MES_FLG) * (D01 < 10):,{(D02 = MES_FLG) * (D01 < 10):
+__system__??,},}
+__system__??,{MES_FLG = 1:,{MES_FLG = 1:
+__system__??,{D01 < 10:,{D01 < 10:
+__system__??,},}
+__system__??,} else if {MES_FLG = 2:,} else if {MES_FLG = 2:
+__system__??,{D01 < 10:,{D01 < 10:
+__system__??,},}
+__system__??,} else if {MES_FLG = 3:,} else if {MES_FLG = 3:
+__system__??,{D01 < 10:,{D01 < 10:
+__system__??,},}
+__system__??,} else if {MES_FLG = 4:,} else if {MES_FLG = 4:
+__system__??,{D01 < 10:,{D01 < 10:
+__system__??,},}
+__system__??,} else if {MES_FLG = 5:,} else if {MES_FLG = 5:
+__system__??,{D01 < 10:,{D01 < 10:
+__system__??,},}
+__system__??,} else if {MES_FLG = 6:,} else if {MES_FLG = 6:
+__system__??,{D01 < 10:,{D01 < 10:
+__system__??,},}
+__system__??,} else if {MES_FLG = 7:,} else if {MES_FLG = 7:
+__system__??,{D01 < 10:,{D01 < 10:
+__system__??,},}
+__system__??,} else if {MES_FLG = 8:,} else if {MES_FLG = 8:
+__system__??,{D01 < 10:,{D01 < 10:
+__system__??,},}
+__system__??,} else if {MES_FLG = 9:,} else if {MES_FLG = 9:
+__system__??,{D01 < 10:,{D01 < 10:
+__system__??,},}
+__system__??,},}
+__system__??,{(0 < D01) * (D01 < 8):,{(0 < D01) * (D01 < 8):
+__system__??,{D02 \ 0:,{D02 \ 0:
+__system__??,},}
+__system__??,} else if {(10 < D01) * (D01 < 18):,} else if {(10 < D01) * (D01 < 18):
+__system__??,{D02 \ 0:,{D02 \ 0:
+__system__??,},}
+__system__??,},}
+__system__??,{D02 = 0:,{D02 = 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,{MES_FLG < 7:,{MES_FLG < 7:
+__system__??,} else if {MES_FLG = 7:,} else if {MES_FLG = 7:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{MES_FLG > 7:,{MES_FLG > 7:
+__system__??,},}
+__system__??,{(MES_OPN \ 0) * ((MES_FLG = 0) + (D04 \ MES_FLG)):,{(MES_OPN \ 0) * ((MES_FLG = 0) + (D04 \ MES_FLG)):
+__system__??,{D04 < 8:,{D04 < 8:
+__system__??,{(CFG_FLG & 32) * (D02 \ 0):,{(CFG_FLG & 32) * (D02 \ 0):
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{MES_FLG \ 0:,{MES_FLG \ 0:
+__system__??,{(D04 = MES_FLG) * (D01 < 10):,{(D04 = MES_FLG) * (D01 < 10):
+__system__??,},}
+__system__??,{MES_FLG = 1:,{MES_FLG = 1:
+__system__??,{D01 < 10:,{D01 < 10:
+__system__??,},}
+__system__??,} else if {MES_FLG = 2:,} else if {MES_FLG = 2:
+__system__??,{D01 < 10:,{D01 < 10:
+__system__??,},}
+__system__??,} else if {MES_FLG = 3:,} else if {MES_FLG = 3:
+__system__??,{D01 < 10:,{D01 < 10:
+__system__??,},}
+__system__??,} else if {MES_FLG = 4:,} else if {MES_FLG = 4:
+__system__??,{D01 < 10:,{D01 < 10:
+__system__??,},}
+__system__??,} else if {MES_FLG = 5:,} else if {MES_FLG = 5:
+__system__??,{D01 < 10:,{D01 < 10:
+__system__??,},}
+__system__??,} else if {MES_FLG = 6:,} else if {MES_FLG = 6:
+__system__??,{D01 < 10:,{D01 < 10:
+__system__??,},}
+__system__??,} else if {MES_FLG = 8:,} else if {MES_FLG = 8:
+__system__??,} else if {MES_FLG = 9:,} else if {MES_FLG = 9:
+__system__??,},}
+__system__??,{(0 < D01) * (D01 < 8):,{(0 < D01) * (D01 < 8):
+__system__??,{D04 \ 0:,{D04 \ 0:
+__system__??,{(CFG_FLG & 32) * (D02 \ 0):,{(CFG_FLG & 32) * (D02 \ 0):
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,} else if {(10 < D01) * (D01 < 18):,} else if {(10 < D01) * (D01 < 18):
+__system__??,{D04 \ 0:,{D04 \ 0:
+__system__??,{(CFG_FLG & 32) * (D02 \ 0):,{(CFG_FLG & 32) * (D02 \ 0):
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{D04 = 0:,{D04 = 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,{F01 = 0:,{F01 = 0:
+__system__??,} else if {F01 = 1:,} else if {F01 = 1:
+__system__??,} else if {FONT = 0:,} else if {FONT = 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{F01 \ 0:,{F01 \ 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{(CFG_FLG & 32) * (D02 \ 0):,{(CFG_FLG & 32) * (D02 \ 0):
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{(CFG_FLG & 32) * (D02 \ 0):,{(CFG_FLG & 32) * (D02 \ 0):
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{(CFG_FLG & 32) * (D02 \ 0):,{(CFG_FLG & 32) * (D02 \ 0):
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{(CFG_FLG & 32) * (D02 \ 0):,{(CFG_FLG & 32) * (D02 \ 0):
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{(CFG_FLG & 32) * (D05 \ 0):,{(CFG_FLG & 32) * (D05 \ 0):
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{D05 < 10000:,{D05 < 10000:
+__system__??,},}
+__system__??,{(CFG_FLG & 32) * (D06 \ 0):,{(CFG_FLG & 32) * (D06 \ 0):
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{D01 = 0:,{D01 = 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{D01 = 0:,{D01 = 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{(D02 = 29) + (D02 = 30):,{(D02 = 29) + (D02 = 30):
+__system__??,},}
+__system__??,{(CFG_FLG & 32) * (D02 \ 0):,{(CFG_FLG & 32) * (D02 \ 0):
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{(CFG_FLG & 32) * (D02 \ 0):,{(CFG_FLG & 32) * (D02 \ 0):
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{D01 = 2:,{D01 = 2:
+__system__??,},}
+__system__??,{D01 = 3:,{D01 = 3:
+__system__??,},}
+__system__??,{D01 = 4:,{D01 = 4:
+__system__??,},}
+__system__??,{D01 = 5:,{D01 = 5:
+__system__??,},}
+__system__??,{D01 = 9:,{D01 = 9:
+__system__??,},}
+__system__??,{D01 = 11:,{D01 = 11:
+__system__??,},}
+__system__??,{D01 = 13:,{D01 = 13:
+__system__??,},}
+__system__??,{D01 = 15:,{D01 = 15:
+__system__??,},}
+__system__??,{D01 = 16:,{D01 = 16:
+__system__??,},}
+__system__??,{D01 = 17:,{D01 = 17:
+__system__??,},}
+__system__??,{D01 = 18:,{D01 = 18:
+__system__??,},}
+__system__??,{D01 = 19:,{D01 = 19:
+__system__??,},}
+__system__??,{D01 = 20:,{D01 = 20:
+__system__??,},}
+__system__??,{D01 = 31:,{D01 = 31:
+__system__??,},}
+__system__??,{D01 = 33:,{D01 = 33:
+__system__??,},}
+__system__??,{D01 = 36:,{D01 = 36:
+__system__??,},}
+__system__??,{D01 = 38:,{D01 = 38:
+__system__??,},}
+__system__??,{D01 = 41:,{D01 = 41:
+__system__??,},}
+__system__??,{D01 = 44:,{D01 = 44:
+__system__??,},}
+__system__??,{D01 = 45:,{D01 = 45:
+__system__??,},}
+__system__??,{D01 = 47:,{D01 = 47:
+__system__??,},}
+__system__??,{D01 = 49:,{D01 = 49:
+__system__??,},}
+__system__??,{D01 = 50:,{D01 = 50:
+__system__??,},}
+__system__??,{D01 = 51:,{D01 = 51:
+__system__??,},}
+__system__??,{D01 = 54:,{D01 = 54:
+__system__??,},}
+__system__??,{D01 = 60:,{D01 = 60:
+__system__??,},}
+__system__??,{D01 = 61:,{D01 = 61:
+__system__??,},}
+__system__??,{D01 = 62:,{D01 = 62:
+__system__??,},}
+__system__??,{D01 = 71:,{D01 = 71:
+__system__??,},}
+__system__??,{D01 = 72:,{D01 = 72:
+__system__??,},}
+__system__??,{D01 = 73:,{D01 = 73:
+__system__??,},}
+__system__??,{D01 = 74:,{D01 = 74:
+__system__??,},}
+__system__??,{D01 = 77:,{D01 = 77:
+__system__??,},}
+__system__??,{D01 = 78:,{D01 = 78:
+__system__??,},}
+__system__??,{D01 = 79:,{D01 = 79:
+__system__??,},}
+__system__??,{D01 = 80:,{D01 = 80:
+__system__??,},}
+__system__??,{D01 = 82:,{D01 = 82:
+__system__??,},}
+__system__??,{D01 = 92:,{D01 = 92:
+__system__??,},}
+__system__??,{D01 = 93:,{D01 = 93:
+__system__??,},}
+__system__??,{D01 = 94:,{D01 = 94:
+__system__??,},}
+__system__??,{D01 = 95:,{D01 = 95:
+__system__??,},}
+__system__??,{D01 = 96:,{D01 = 96:
+__system__??,},}
+__system__??,{D01 = 501:,{D01 = 501:
+__system__??,},}
+__system__??,{D01 = 506:,{D01 = 506:
+__system__??,},}
+__system__??,{D01 = 508:,{D01 = 508:
+__system__??,},}
+__system__??,{D01 = 510:,{D01 = 510:
+__system__??,},}
+__system__??,{D01 = 513:,{D01 = 513:
+__system__??,},}
+__system__??,{D01 = 516:,{D01 = 516:
+__system__??,},}
+__system__??,{D01 = 517:,{D01 = 517:
+__system__??,},}
+__system__??,{D01 = 518:,{D01 = 518:
+__system__??,},}
+__system__??,{D01 = 520:,{D01 = 520:
+__system__??,},}
+__system__??,{D01 = 522:,{D01 = 522:
+__system__??,},}
+__system__??,{D01 = 525:,{D01 = 525:
+__system__??,},}
+__system__??,{D01 = 534:,{D01 = 534:
+__system__??,},}
+__system__??,{D01 = 548:,{D01 = 548:
+__system__??,},}
+__system__??,{D01 = 550:,{D01 = 550:
+__system__??,},}
+__system__??,{D05 / 10 = 1:,{D05 / 10 = 1:
+__system__??,},}
+__system__??,{D05 % 10 = 1:,{D05 % 10 = 1:
+__system__??,},}
+__system__??,{D05 % 10 = 0:,{D05 % 10 = 0:
+__system__??,},}
+__system__??,{D05 = 11:,{D05 = 11:
+__system__??,},}
+__system__??,{D05 = 10:,{D05 = 10:
+__system__??,},}
+__system__??,{D05 = 0:,{D05 = 0:
+__system__??,},}
+__system__??,{D05 / 10 = 1:,{D05 / 10 = 1:
+__system__??,},}
+__system__??,{D05 % 10 = 1:,{D05 % 10 = 1:
+__system__??,},}
+__system__??,{D05 % 10 = 0:,{D05 % 10 = 0:
+__system__??,},}
+__system__??,{D05 = 11:,{D05 = 11:
+__system__??,},}
+__system__??,{D05 = 1:,{D05 = 1:
+__system__??,},}
+__system__??,{D05 = 10:,{D05 = 10:
+__system__??,},}
+__system__??,{D05 = 0:,{D05 = 0:
+__system__??,},}
+__system__??,{H性別 \ 2:,{H性別 \ 2:
+__system__??,{H拷問 = 1:,{H拷問 = 1:
+__system__??,{H性別 = 0:,{H性別 = 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,{H拷問 = 2:,{H拷問 = 2:
+__system__??,{RND < 51:,{RND < 51:
+__system__??,{H性別 = 0:,{H性別 = 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,} else if {H性別 = 0:,} else if {H性別 = 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,{H拷問 = 3:,{H拷問 = 3:
+__system__??,{RND < 51:,{RND < 51:
+__system__??,{H性別 = 0:,{H性別 = 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,} else if {H性別 = 0:,} else if {H性別 = 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,{H拷問 = 4:,{H拷問 = 4:
+__system__??,{H性別 = 0:,{H性別 = 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,{H拷問 = 5:,{H拷問 = 5:
+__system__??,{H性別 = 0:,{H性別 = 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{(D01 = 2402) + (D01 = 2406) + (D01 = 2408) + (D01 = 2433):,{(D01 = 2402) + (D01 = 2406) + (D01 = 2408) + (D01 = 2433):
+__system__??,},}
+__system__??,{(2409 < D01) * (D01 < 2418) + (2419 < D01) * (D01 < 2432) + (2435 < D01) * (D01 < 2440):,{(2409 < D01) * (D01 < 2418) + (2419 < D01) * (D01 < 2432) + (2435 < D01) * (D01 < 2440):
+__system__??,{RND > 67:,{RND > 67:
+__system__??,},}
+__system__??,},}
+__system__??,{D02 = 0:,{D02 = 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{H性別 = 0:,{H性別 = 0:
+__system__??,},}
+__system__??,{H性別 = 1:,{H性別 = 1:
+__system__??,{RND / 10 = 1:,{RND / 10 = 1:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,{H性別 = 2:,{H性別 = 2:
+__system__??,},}
+__system__??,{D04 \ 0:,{D04 \ 0:
+__system__??,},}
+__system__??,{(F05 = 1) * (F04 > 9):,{(F05 = 1) * (F04 > 9):
+__system__??,},}
+__system__??,{(F05 = 2) * (F04 > 99):,{(F05 = 2) * (F04 > 99):
+__system__??,},}
+__system__??,{(F05 = 3) * (F04 > 999):,{(F05 = 3) * (F04 > 999):
+__system__??,},}
+__system__??,{(F05 = 4) * (F04 > 9999):,{(F05 = 4) * (F04 > 9999):
+__system__??,},}
+__system__??,{F05 \ D03:,{F05 \ D03:
+__system__??,},}
+__system__??,{(D03 \ 0) + (F05 = 1):,{(D03 \ 0) + (F05 = 1):
+__system__??,},}
+__system__??,{D04 \ 0:,{D04 \ 0:
+__system__??,},}
+__system__??,{F04 > F05:,{F04 > F05:
+__system__??,},}
+__system__??,{GAU_DAT[D01 + 5] = 1:,{GAU_DAT[D01 + 5] = 1:
+__system__??,},}
+__system__??,{GAU_DAT[D01 + 5] = 2:,{GAU_DAT[D01 + 5] = 2:
+__system__??,},}
+__system__??,{GAU_DAT[D01 + 5] = 3:,{GAU_DAT[D01 + 5] = 3:
+__system__??,},}
+__system__??,{GAU_DAT[D01 + 5] = 4:,{GAU_DAT[D01 + 5] = 4:
+__system__??,},}
+__system__??,{GAU_DAT[D01 + 5] = 11:,{GAU_DAT[D01 + 5] = 11:
+__system__??,},}
+__system__??,{GAU_DAT[D01 + 5] = 12:,{GAU_DAT[D01 + 5] = 12:
+__system__??,},}
+__system__??,{GAU_DAT[D01 + 5] = 13:,{GAU_DAT[D01 + 5] = 13:
+__system__??,},}
+__system__??,{GAU_DAT[D01 + 5] = 14:,{GAU_DAT[D01 + 5] = 14:
+__system__??,},}
+__system__??,{F02 = 1:,{F02 = 1:
+__system__??,},}
+__system__??,{F02 = 2:,{F02 = 2:
+__system__??,},}
+__system__??,{SBAR_DAT[7 * F01 + 0] = 1:,{SBAR_DAT[7 * F01 + 0] = 1:
+__system__??,{F02 > 999:,{F02 > 999:
+__system__??,},}
+__system__??,},}
+__system__??,{SBAR_DAT[7 * F01 + 0] = 2:,{SBAR_DAT[7 * F01 + 0] = 2:
+__system__??,{F02 > 999:,{F02 > 999:
+__system__??,},}
+__system__??,},}
+__system__??,{SBAR_DAT[7 * F01 + 0] = 1:,{SBAR_DAT[7 * F01 + 0] = 1:
+__system__??,{(D01 <= F02) * (SBAR_DAT[7 * F01 + 2] <= F03) * (F02 <= D03) * (F03 <= D02):,{(D01 <= F02) * (SBAR_DAT[7 * F01 + 2] <= F03) * (F02 <= D03) * (F03 <= D02):
+__system__??,},}
+__system__??,},}
+__system__??,{SBAR_DAT[7 * F01 + 0] = 2:,{SBAR_DAT[7 * F01 + 0] = 2:
+__system__??,{(SBAR_DAT[7 * F01 + 1] <= F02) * (D01 <= F03) * (F02 <= D02) * (F03 <= D03):,{(SBAR_DAT[7 * F01 + 1] <= F02) * (D01 <= F03) * (F02 <= D02) * (F03 <= D03):
+__system__??,},}
+__system__??,},}
+__system__??,{F01 > 0:,{F01 > 0:
+__system__??,},}
+__system__??,{F02 & 256:,{F02 & 256:
+__system__??,},}
+__system__??,{F02 & 128:,{F02 & 128:
+__system__??,},}
+__system__??,{F02 & 64:,{F02 & 64:
+__system__??,},}
+__system__??,{F02 & 32:,{F02 & 32:
+__system__??,},}
+__system__??,{F02 & 16:,{F02 & 16:
+__system__??,},}
+__system__??,{F02 & 8:,{F02 & 8:
+__system__??,},}
+__system__??,{F02 & 4:,{F02 & 4:
+__system__??,},}
+__system__??,{F02 & 2:,{F02 & 2:
+__system__??,},}
+__system__??,{F02 & 1:,{F02 & 1:
+__system__??,},}
+__system__??,{F02 & 256:,{F02 & 256:
+__system__??,},}
+__system__??,{F02 & 128:,{F02 & 128:
+__system__??,},}
+__system__??,{F02 & 64:,{F02 & 64:
+__system__??,},}
+__system__??,{F02 & 32:,{F02 & 32:
+__system__??,},}
+__system__??,{F02 & 16:,{F02 & 16:
+__system__??,},}
+__system__??,{F02 & 8:,{F02 & 8:
+__system__??,},}
+__system__??,{F02 & 4:,{F02 & 4:
+__system__??,},}
+__system__??,{F02 & 2:,{F02 & 2:
+__system__??,},}
+__system__??,{F02 & 1:,{F02 & 1:
+__system__??,},}
+__system__??,{F02 & 256:,{F02 & 256:
+__system__??,},}
+__system__??,{F02 & 128:,{F02 & 128:
+__system__??,},}
+__system__??,{F02 & 64:,{F02 & 64:
+__system__??,},}
+__system__??,{F02 & 32:,{F02 & 32:
+__system__??,},}
+__system__??,{F02 & 16:,{F02 & 16:
+__system__??,},}
+__system__??,{F02 & 8:,{F02 & 8:
+__system__??,},}
+__system__??,{F02 & 4:,{F02 & 4:
+__system__??,},}
+__system__??,{F02 & 2:,{F02 & 2:
+__system__??,},}
+__system__??,{F02 & 1:,{F02 & 1:
+__system__??,},}
+__system__??,{D01 > D02:,{D01 > D02:
+__system__??,},}
+__system__??,{D04 > D05:,{D04 > D05:
+__system__??,},}
+__system__??,{D01 \ 0:,{D01 \ 0:
+__system__??,{D03 < 101:,{D03 < 101:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,{D04 \ 0:,{D04 \ 0:
+__system__??,{D06 < 101:,{D06 < 101:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,{D01 \ 0:,{D01 \ 0:
+__system__??,{D03 < 101:,{D03 < 101:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,{D04 \ 0:,{D04 \ 0:
+__system__??,{D06 < 101:,{D06 < 101:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,{D01 + D02 > D03:,{D01 + D02 > D03:
+__system__??,},}
+__system__??,{(D11 \ 0) * (D11 \ 部下Ａ):,{(D11 \ 0) * (D11 \ 部下Ａ):
+__system__??,},}
+__system__??,{D01 \ 0:,{D01 \ 0:
+__system__??,{D03 < 101:,{D03 < 101:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,{D04 \ 0:,{D04 \ 0:
+__system__??,{(D11 \ 0) * (D11 \ 部下Ａ):,{(D11 \ 0) * (D11 \ 部下Ａ):
+__system__??,{D12 > B最大体力[D11]:,{D12 > B最大体力[D11]:
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{D01 \ 0:,{D01 \ 0:
+__system__??,{D03 < 101:,{D03 < 101:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,{D04 \ 0:,{D04 \ 0:
+__system__??,{(D11 \ 0) * (D11 \ 部下Ａ):,{(D11 \ 0) * (D11 \ 部下Ａ):
+__system__??,{D12 > B最大体力[D11]:,{D12 > B最大体力[D11]:
+__system__??,},}
+__system__??,},}
+__system__??,},}
+__system__??,{D01 \ 0:,{D01 \ 0:
+__system__??,{D03 < 101:,{D03 < 101:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,{D04 \ 0:,{D04 \ 0:
+__system__??,},}
+__system__??,{D07 \ 0:,{D07 \ 0:
+__system__??,},}
+__system__??,{D01 \ 0:,{D01 \ 0:
+__system__??,{D03 < 101:,{D03 < 101:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,{D04 \ 0:,{D04 \ 0:
+__system__??,},}
+__system__??,{D07 \ 0:,{D07 \ 0:
+__system__??,},}
+__system__??,{D01 = 6:,{D01 = 6:
+__system__??,},}
+__system__??,{D01 = 7:,{D01 = 7:
+__system__??,},}
+__system__??,{D01 = 8:,{D01 = 8:
+__system__??,},}
+__system__??,{D01 = 9:,{D01 = 9:
+__system__??,},}
+__system__??,{D01 = 101:,{D01 = 101:
+__system__??,},}
+__system__??,{D01 = 102:,{D01 = 102:
+__system__??,},}
+__system__??,{D01 = 103:,{D01 = 103:
+__system__??,},}
+__system__??,{D01 = 104:,{D01 = 104:
+__system__??,},}
+__system__??,{D01 = 105:,{D01 = 105:
+__system__??,},}
+__system__??,{D01 \ 102:,{D01 \ 102:
+__system__??,{D02 = 0:,{D02 = 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{D01 = 6:,{D01 = 6:
+__system__??,},}
+__system__??,{D01 = 9:,{D01 = 9:
+__system__??,},}
+__system__??,{D01 = 101:,{D01 = 101:
+__system__??,},}
+__system__??,{D01 = 102:,{D01 = 102:
+__system__??,},}
+__system__??,{D01 = 103:,{D01 = 103:
+__system__??,},}
+__system__??,{D01 = 104:,{D01 = 104:
+__system__??,},}
+__system__??,{D01 \ 102:,{D01 \ 102:
+__system__??,{D02 = 0:,{D02 = 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{F01 * F02 < 65535:,{F01 * F02 < 65535:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{F01 * RND < 65535:,{F01 * RND < 65535:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{D01 \ 0:,{D01 \ 0:
+__system__??,},}
+__system__??,{F04 = 0:,{F04 = 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{組織番号 = 1:,{組織番号 = 1:
+__system__??,},}
+__system__??,{組織番号 = 2:,{組織番号 = 2:
+__system__??,},}
+__system__??,{組織番号 = 3:,{組織番号 = 3:
+__system__??,},}
+__system__??,{組織番号 = 4:,{組織番号 = 4:
+__system__??,},}
+__system__??,{組織番号 = 5:,{組織番号 = 5:
+__system__??,},}
+__system__??,{組織番号 = 6:,{組織番号 = 6:
+__system__??,},}
+__system__??,{組織番号 = 9:,{組織番号 = 9:
+__system__??,},}
+__system__??,{F01 = 1:,{F01 = 1:
+__system__??,},}
+__system__??,{F01 = 2:,{F01 = 2:
+__system__??,},}
+__system__??,{F01 = 3:,{F01 = 3:
+__system__??,},}
+__system__??,{F01 = 4:,{F01 = 4:
+__system__??,},}
+__system__??,{F01 = 5:,{F01 = 5:
+__system__??,},}
+__system__??,{F01 = 6:,{F01 = 6:
+__system__??,},}
+__system__??,{F01 = 9:,{F01 = 9:
+__system__??,},}
+__system__??,{(0 < D01) * (D01 < 4):,{(0 < D01) * (D01 < 4):
+__system__??,},}
+__system__??,{F01 < 600:,{F01 < 600:
+__system__??,},}
+__system__??,{PHASE_NO = 0:,{PHASE_NO = 0:
+__system__??,} else if {PHASE_NO = 1:,} else if {PHASE_NO = 1:
+__system__??,{組織番号 = 1:,{組織番号 = 1:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{DB = 1:,{DB = 1:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{R制御[35] & 1:,{R制御[35] & 1:
+__system__??,},}
+__system__??,{R制御[D02] & 1:,{R制御[D02] & 1:
+__system__??,},}
+__system__??,{R制御[D02] & 1:,{R制御[D02] & 1:
+__system__??,{R支配[D02] = 組織番号:,{R支配[D02] = 組織番号:
+__system__??,},}
+__system__??,},}
+__system__??,{R制御[D02] & 1:,{R制御[D02] & 1:
+__system__??,{R支配[D02] = 組織番号:,{R支配[D02] = 組織番号:
+__system__??,},}
+__system__??,},}
+__system__??,{RND & 32:,{RND & 32:
+__system__??,{D04 \ 0:,{D04 \ 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,{RND & 64:,{RND & 64:
+__system__??,},}
+__system__??,{D02 > 30:,{D02 > 30:
+__system__??,{D04 = 0:,{D04 = 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,},}
+__system__??,} else if {PHASE_NO = 2:,} else if {PHASE_NO = 2:
+__system__??,} else if {PHASE_NO = 3:,} else if {PHASE_NO = 3:
+__system__??,} else if {PHASE_NO = 4:,} else if {PHASE_NO = 4:
+__system__??,} else if {PHASE_NO = 5:,} else if {PHASE_NO = 5:
+__system__??,} else if {PHASE_NO = 6:,} else if {PHASE_NO = 6:
+__system__??,} else if {PHASE_NO = 7:,} else if {PHASE_NO = 7:
+__system__??,} else if {PHASE_NO = 8:,} else if {PHASE_NO = 8:
+__system__??,} else if {PHASE_NO = 9:,} else if {PHASE_NO = 9:
+__system__??,},}
+menu_label__(L_0569f),はい,はい
+menu_label__(L_0569f),いいえ,いいえ
+__system__??,{F01 \ 1:,{F01 \ 1:
+__system__??,},}
+??,●　システム設定　●,●　システム設定　●
+__system__??,{0 = 1:,{0 = 1:
+??,？デバッグメニュー,？デバッグメニュー
+??,？戦闘ずるっこ　:,？戦闘ずるっこ　:
+__system__??,{CFG_FLG & 8:,{CFG_FLG & 8:
+??,ON,ON
+__system__??,} else {,} else {
+??,OFF,OFF
+__system__??,},}
+??,？デバッグモード:,？デバッグモード:
+__system__??,{DB:,{DB:
+??,ON,ON
+__system__??,} else {,} else {
+??,OFF,OFF
+__system__??,},}
+__system__??,},}
+??,ＢＧＭ　　　　　:,ＢＧＭ　　　　　:
+__system__??,{BGM_DEV & 3:,{BGM_DEV & 3:
+__system__??,{CFG_FLG & 1:,{CFG_FLG & 1:
+??,ON,ON
+__system__??,} else {,} else {
+??,OFF,OFF
+__system__??,},}
+__system__??,} else {,} else {
+??,---,---
+__system__??,},}
+??,効果音　　　　　:,効果音　　　　　:
+__system__??,{PCM_DEV & 1:,{PCM_DEV & 1:
+__system__??,{CFG_FLG & 2:,{CFG_FLG & 2:
+??,ON,ON
+__system__??,} else {,} else {
+??,OFF,OFF
+__system__??,},}
+__system__??,} else {,} else {
+??,---,---
+__system__??,},}
+??,会話の画面効果　:,会話の画面効果　:
+__system__??,{CFG_FLG & 32:,{CFG_FLG & 32:
+??,ON,ON
+__system__??,} else {,} else {
+??,OFF,OFF
+__system__??,},}
+??,週毎のセーブ画面:,週毎のセーブ画面:
+__system__??,{CFG_FLG & 64:,{CFG_FLG & 64:
+??,ON,ON
+__system__??,} else {,} else {
+??,OFF,OFF
+__system__??,},}
+??,　 初期画面に戻る 　,　 初期画面に戻る 　
+??,－－－－戻る－－－－,－－－－戻る－－－－
+__system__??,{BGM_DEV & 3:,{BGM_DEV & 3:
+__system__??,{CFG_FLG & 1:,{CFG_FLG & 1:
+__system__??,},}
+__system__??,{CFG_FLG & 1:,{CFG_FLG & 1:
+__system__??,},}
+__system__??,},}
+__system__??,{PCM_DEV & 1:,{PCM_DEV & 1:
+__system__??,{CFG_FLG & 2:,{CFG_FLG & 2:
+__system__??,},}
+__system__??,},}
+narrator,初期画面に戻ります。 本当によろしいですか？,初期画面に戻ります。 本当によろしいですか？
+narrator,はい,はい
+narrator,いいえ,いいえ
+__system__??,{D08 = 2:,{D08 = 2:
+__system__??,},}
+__system__??,{D08 = 3:,{D08 = 3:
+__system__??,{RND \ CHNO:,{RND \ CHNO:
+__system__??,},}
+__system__??,},}
+__system__??,{D08 < 2:,{D08 < 2:
+__system__??,{D08 = 0:,{D08 = 0:
+__system__??,},}
+__system__??,},}
+__system__??,{D08 = 2:,{D08 = 2:
+__system__??,},}
+__system__??,{D08 = 3:,{D08 = 3:
+__system__??,{RND \ TMP_DAT1[5000 + 2]:,{RND \ TMP_DAT1[5000 + 2]:
+__system__??,},}
+__system__??,},}
+__system__??,{(D01 = 0) + (D01 = 1):,{(D01 = 0) + (D01 = 1):
+__system__??,{RND > 200:,{RND > 200:
+__system__??,},}
+__system__??,{INIT_FLG = 0:,{INIT_FLG = 0:
+__system__??,},}
+__system__??,},}
+__system__??,{(D01 = 0) + (D01 = 2):,{(D01 = 0) + (D01 = 2):
+__system__??,},}
+__system__??,{(D01 = 0) + (D01 = 3):,{(D01 = 0) + (D01 = 3):
+__system__??,},}
+__system__??,{(D01 = 0) + (D01 = 4):,{(D01 = 0) + (D01 = 4):
+__system__??,},}
+__system__??,{(DB = 1) + (PNC_FLG = 1):,{(DB = 1) + (PNC_FLG = 1):
+__system__??,{DB = 1:,{DB = 1:
+narrator,\<\< System Panic !! >>,\<\< System Panic !! >>
+__system__??,~R:,~R:
+__system__??,~R:,~R:
+__system__??,{D01 \ 99:,{D01 \ 99:
+narrator,[,[
+narrator,],]
+__system__??,},}
+__system__??,} else {,} else {
+narrator,ちょっぴり痺れてきました…,ちょっぴり痺れてきました…
+__system__??,},}
+__system__??,},}
+__system__??,{F20 \ 0:,{F20 \ 0:
+__system__??,},}
+__system__??,{F20 \ 0:,{F20 \ 0:
+__system__??,},}
+__system__??,{F20 \ 0:,{F20 \ 0:
+__system__??,},}
+__system__??,{RND = 23:,{RND = 23:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{STR_FLG & 1:,{STR_FLG & 1:
+__system__??,},}
+__system__??,{(0 < MES_FLG) * (MES_FLG < 7):,{(0 < MES_FLG) * (MES_FLG < 7):
+__system__??,{MES_CTL & 1:,{MES_CTL & 1:
+__system__??,},}
+__system__??,{MES_CTL & 2:,{MES_CTL & 2:
+__system__??,},}
+__system__??,{MES_CTL & 3:,{MES_CTL & 3:
+__system__??,},}
+__system__??,} else if {MES_FLG = 7:,} else if {MES_FLG = 7:
+__system__??,} else if {(MES_FLG = 8) + (MES_FLG = 9):,} else if {(MES_FLG = 8) + (MES_FLG = 9):
+__system__??,{MES_CTL & 1:,{MES_CTL & 1:
+__system__??,},}
+__system__??,{MES_CTL & 2:,{MES_CTL & 2:
+__system__??,},}
+__system__??,{MES_CTL & 3:,{MES_CTL & 3:
+__system__??,},}
+__system__??,{MES_FLG = 9:,{MES_FLG = 9:
+__system__??,},}
+__system__??,},}
+__system__??,{STR_FLG & 1:,{STR_FLG & 1:
+__system__??,},}
+__system__??,{RND = 0:,{RND = 0:
+__system__??,},}
+__system__??,{ACG_NO \ 0:,{ACG_NO \ 0:
+__system__??,{STR_FLG & 1:,{STR_FLG & 1:
+__system__??,},}
+__system__??,{STR_FLG & 1:,{STR_FLG & 1:
+__system__??,},}
+__system__??,},}
+__system__??,{BCG_NO \ 0:,{BCG_NO \ 0:
+__system__??,{STR_FLG & 1:,{STR_FLG & 1:
+__system__??,},}
+__system__??,{STR_FLG & 1:,{STR_FLG & 1:
+__system__??,},}
+__system__??,},}
+__system__??,{CCG_NO \ 0:,{CCG_NO \ 0:
+__system__??,},}
+__system__??,{DCG_NO = 0:,{DCG_NO = 0:
+__system__??,} else {,} else {
+__system__??,},}
+__system__??,{RND < 201:,{RND < 201:
+__system__??,},}
+__system__??,{D03 = 18:,{D03 = 18:
+__system__??,{TMP_DAT1[D04] = RND:,{TMP_DAT1[D04] = RND:
+__system__??,},}
+__system__??,{D02 = D03:,{D02 = D03:
+__system__??,},}
+__system__??,},}
+__system__??,{D01 = 1:,{D01 = 1:
+__system__??,},}

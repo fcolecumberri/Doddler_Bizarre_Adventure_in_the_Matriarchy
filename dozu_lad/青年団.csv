@@ -1,0 +1,423 @@
+character,Jap,Eng
+narrator,わかめ組壊滅祝賀会が、 奉仕青年団で催されていた。,The YCSG held a party to celebrate the Wakame Family`s defeat.
+Yamamoto Akuji (talking),や~やれやれ。 これで少しはせいせいしたぜ。,"Damn, I feel a bit refreshed after this."
+Takega Satsu (talking),とりあえずは、一段落だな。,That`s the first obstacle down.
+Yamamoto Akuji (talking),おう、さっちゃん。 飲んでるか？,"Hey, Sacchan. Are you drinking?"
+Takega Satsu (talking),煎茶だが。,"Yes, but it`s just green tea."
+Yamamoto Akuji (talking),酒は？,Want some booze?
+__system__??,{★愛 = 5:,{★愛 = 5:
+Takega Satsu (talking),禁酒中だ。,I`m abstaining.
+Yamamoto Akuji (talking),まあ、そう言うなって。,"C`mon, don`t be like that."
+Takega Satsu (talking),呑んでもいいが…知らんぞ。,Don`t blame for what happens then.
+Yamamoto Akuji (talking),……………,...
+Takega Satsu (talking),それでも呑ませてみるか？,Is your offer still up?
+Yamamoto Akuji (talking),いや……いい。,Nah... forget it.
+__system__??,},}
+__system__??,{★愛 \ 5:,{★愛 \ 5:
+Takega Satsu (talking),未成年に酒をすすめるな。,Don`t offer that to a minor.
+Yamamoto Akuji (talking),俺ぁ、幼稚園の頃から、 ガバガバ飲んでたぜ。,I`ve been drinking like a fish since elementary school.
+Takega Satsu (talking),そうか。 だからお馬鹿さんになって しまったんだな。,"I see, so that`s why you turned out to be such a fool."
+Yamamoto Akuji (talking),おいおい。,"Hey, come on now."
+__system__??,},}
+Seinendan Jyoshi (talking),あの…悪司さん。 ピーチマウンテンというところから、 祝電が入ってますよ。,"Um, Akuji-san? You have a congratulatory telegram from Peach Mountain."
+Yamamoto Akuji (talking),おう、ＰＭからか。,"Oh, from the PM, eh?"
+Takega Satsu (talking),ＰＭ…… 川向こうの一番大きな組織だな。,"PM... That`s the largest group on the other side of the river, right?"
+Yamamoto Akuji (talking),"あーそーだ。 大昔、停戦条約結んでからの 馴染みでさ。
+んー…… 一応、当主リンダからってなってるけど、 こりゃーハイネのしわざだな。","Yep. They`ve been pretty close with the Wakame ever since we signed a ceasefire ages ago.
+ Hmm, says here it`s from the current Head, Linda, but this was Haine`s doing."
+Takega Satsu (talking),悪司？,Akuji?
+Yamamoto Akuji (talking),"ああ。 ＰＭの当主ってのが、リンダって娘で、 その執事がハイネってんだ。
+ここはその執事の暗躍で もっているようなとこだ。
+でも、ここのリンダってのも、 ガキのくせしてずる賢くてな。 敵に回すと、ちとやっかいかな。","Right. PM`s current Head is a girl called Linda, and Haine`s her butler.
+ He`s the guy pulling the strings behind the scenes.
+ But Linda`s also pretty clever for a brat. We`d kinda be in trouble if they became our enemies."
+Takega Satsu (talking),ふむ。,I see.
+Yamamoto Akuji (talking),おう、ありがとさんって テキトーに敬語で返信しといてくれや。,"A`ight, send them a proper formal reply with our thanks."
+Seinendan Jyoshi (talking),はい、悪司さん。,"Got it, Akuji-san."
+karasuba  tsuki (talking),で、どーすんの？,"So, what will you do?"
+Yamamoto Akuji (talking),何が？,About what?
+karasuba  tsuki (talking),わかめ組っすよーぅ。 壊滅させちゃったじゃないですか。,"About the Wakame Family. You did crush them, no?"
+Yamamoto Akuji (talking),ああ、それでいいんだ。,"Yeah, and I`ll leave it that way."
+karasuba  tsuki (talking),え？,Huh?
+Yamamoto Akuji (talking),俺が正式に跡を継いでなかったから、 あれは、俺の組織じゃねぇ。 親父達の組織だ。,"I didn`t formally inherit the Family, so it ain`t mine. It`s my Dad`s."
+karasuba  tsuki (talking),そーですけど…… でも、悪司さんが乗っ取った事に なるから…,"I guess... But you did take it over, Akuji-san."
+Yamamoto Akuji (talking),とにかく、わかめ組は終わりだ。,"Either way, this is it for them."
+karasuba  tsuki (talking),じゃあ、登録から抹消してしまいますよ。,I`ll delete them from the registry.
+Yamamoto Akuji (talking),ああ。,"Yeah, do that."
+karasuba  tsuki (talking),"はいはいっと…… じゃあ、わかめ組は壊滅で…
+奉仕青年団が、 後釜って感じでいいんですかー？","Cool. So, if the  Wakame Family`s finished...
+ What about the YCSG? Is it gonna be the Family`s replacement?"
+Yamamoto Akuji (talking),いんや。,Nah.
+karasuba  tsuki (talking),は？？,Huh??
+Yamamoto Akuji (talking),"名前がウザイ。 何が奉仕だ。 性にあわねぇ。
+つー訳で、組織の中身はかわんねーが、 名前は変える。","That name sucks. Civil Service? Fuck that.
+ So yeah, the group`s staying the same, but I`m changing its name."
+__system__??,{RND \ 0:,{RND \ 0:
+Aoba Youko (talking),そんな！ この名前は、私達みんなで考えた……,No way! We all thought it up together...
+Yamamoto Akuji (talking),ウゼェっつったら、ウゼェの。,Shut up.
+__system__??,},}
+karasuba  tsuki (talking),で、どんな名前にすんですか？ ついでなんで、やっちゃいますよ。,"So, what will it be? I can make it happen, by the way."
+narrator,組織の名前を決めて下さい。,Please choose your group`s new name.
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+__system__??,},}
+__system__??,{RETURN = 3:,{RETURN = 3:
+__system__??,},}
+__system__??,{RETURN = 4:,{RETURN = 4:
+__system__??,{■ > 999:,{■ > 999:
+__system__??,},}
+__system__??,{■ = 0:,{■ = 0:
+__system__??,},}
+__system__??,},}
+Yamamoto Akuji (talking),よし、これで決定だ。 イケテると思わねーか？,"Alright, I`m going with this. Cool, ain`t it?"
+karasuba  tsuki (talking),"そーっすね。
+あ、リーダーどうします？ 悪司さんは男だから出来ないし…","I guess.
+ Oh, what about your leader? You`re a man, so you can`t be it."
+Yamamoto Akuji (talking),さっちゃん。,Sacchan.
+Takega Satsu (talking),うむ。,Umu.
+Yamamoto Akuji (talking),お前さんがやれ。,You do it.
+karasuba  tsuki (talking),ええ！？ こんなちっちゃな女の子に！？,Huh?! You`re putting such a young girl in charge?!
+__system__??,{★愛 = 5:,{★愛 = 5:
+Yamamoto Akuji (talking),こん人は、俺の嫁さんだ。,She`s my wife.
+__system__??,} else {,} else {
+Yamamoto Akuji (talking),こん人は、俺の叔母さんだ。,She`s my aunt.
+__system__??,},}
+Yamamoto Akuji (talking),それと、見かけで判断したら、 痛い目みるぜ。,"And if you judge her by her looks, you`ll be in for a world of hurt."
+Takega Satsu (talking),うむ……,Umu...
+__system__??,{RND \ 0:,{RND \ 0:
+Aoba Youko (talking),あ、悪司さん！！ そんな勝手で…… 無茶苦茶です！,Akuji-san! You can`t decide all that on your own! That`s unreasonable!
+Yamamoto Akuji (talking),いいんだよ。 俺が決めたんだ。,"I`ve decided it, so it`s fine."
+Aoba Youko (talking),そんな……,No way...
+__system__??,},}
+Yamamoto Akuji (talking),で、どうだい？ やってくれるかい？,"So, how `bout it? Will you do it?"
+Takega Satsu (talking),面倒くさそうだな。,Sounds like a pain.
+Yamamoto Akuji (talking),お前さんのガッコーに行く邪魔には なんねーようにするよ。,"I`ll make it so you can still go to school, no problem."
+Takega Satsu (talking),では、仮面責任者という事か。,So I`d be your figurehead.
+Yamamoto Akuji (talking),"そーだな。 表番がさっちゃんで、 裏番が俺。
+今は女じゃねーと、リーダーしちゃ いけねぇっておふれがあるだろ？","That`s right. You`re the figurehead, and I pull the strings from the shadows.
+ There`s a law saying all leaders should be women, y`see."
+Takega Satsu (talking),なるほど――,I get it.
+__system__??,{★愛 = 5:,{★愛 = 5:
+Takega Satsu (talking),しかたない。 夫の頼みとあらば、一肌脱ぐとするか。,"No other choice. If my husband needs my help, then help him I shall."
+__system__??,} else {,} else {
+Takega Satsu (talking),しかたない。 甥の頼みとあらば、一肌脱ぐとするか。,"No other choice. If my nephew needs my help, then help him I shall."
+__system__??,},}
+Yamamoto Akuji (talking),おう、あんがとさん。,Thanks.
+karasuba  tsuki (talking),んじゃー、名前は奉仕青年団で、,"So, the name`s YCSG,"
+__system__??,{★愛 = 5:,{★愛 = 5:
+karasuba  tsuki (talking),リーダーは、山本殺……と。,and the leader`s Yamamoto Satsu.
+__system__??,} else {,} else {
+karasuba  tsuki (talking),リーダーは、岳画殺……と。,and the leader`s Takega Satsu
+__system__??,},}
+Yamamoto Akuji (talking),ああ、そーだ。,Yep.
+karasuba  tsuki (talking),じゃあこれで受理します。 頑張って下さいね~。,"Okay, all set. Please do your best~."
+Yamamoto Akuji (talking),おう、任せろ。,"Yeah, I`m on it."
+Takega Satsu (talking),一体、何を頑張るのだか。,Do your best on what?
+Yamamoto Akuji (talking),んー、色々。,Lotsa things.
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,{RND \ 0:,{RND \ 0:
+Aoba Youko (talking),勝手に……色々…… なんて人……,He says whatever he wants... I can`t believe him...
+Kako Mirai (talking),よしよし、メンドーな事しなくて ラッキーにゃりじゃん、青葉ちゃん。,"C`mon, you`re lucky you don`t have to do annoying work anymore, Aoba-chan."
+Aoba Youko (talking),わ、私は……,I-I...
+Kako Mirai (talking),これで、遊べる時間が増えたにゃりよ。 また昔みたいに遊ぶにゃり、青葉ちゃん。,Now you have more free time. Let`s play like we used to.
+Aoba Youko (talking),…………,...
+Kako Mirai (talking),ね？,C`mon.
+Aoba Youko (talking),…………そーね…… そーするしかないのかしら…,...I guess. Not like I have another choice...
+Kako Mirai (talking),そーそー。 気楽がいいにゃりよ。,"That`s right, just take it easy."
+__system__??,},}
+__system__??,},}
+narrator,と名乗る、男が現れた。,appeared.
+tattooed yakuza (talking),腕には自信がある。 私を雇う気はないか。,I`m confident in my skills. Won`t you hire me?
+__system__??,{RETURN = 1:,{RETURN = 1:
+Yamamoto Akuji (talking),いいだろう。 しっかり働いてくれよ。,Alright then. You better work hard.
+__system__??,},}
+Yamamoto Akuji (talking),………悪いな。,...Sorry.
+tattooed yakuza (talking),………………,...
+narrator,部下を一名増やす事が出来ます。,You may hire one subordinate.
+menu_label__(L_011d8),青年団女子,”YCSG Girl”
+menu_label__(L_01281),ちんぴら,”Thug”
+menu_label__(L_0132a),エリートヤクザ,”Elite Yakuza”
+menu_label__(L_013d3),女子学生,”Schoolgirl”
+menu_label__(L_0147c),眼鏡っ娘,”Glasses girl”
+menu_label__(L_011c4),増やさない,”Skip”
+narrator,と名乗る女の子が現れた。,appeared.
+Yamamoto Akuji (talking),いいだろう。 しっかり働いてくれよ。,Alright then. You better work hard.
+narrator,と名乗る、ちんぴらが現れた。,appeared.
+Yamamoto Akuji (talking),いいだろう。 しっかり働いてくれよ。,Alright then. You better work hard.
+narrator,と名乗る、ヤクザが現れた。,appeared.
+Yamamoto Akuji (talking),いいだろう。 しっかり働いてくれよ。,Alright then. You better work hard.
+narrator,と名乗る、女子学生が現れた。,appeared.
+Yamamoto Akuji (talking),いいだろう。 しっかり働いてくれよ。,Alright then. You better work hard.
+narrator,と名乗る、眼鏡っ娘が現れた。,appeared.
+Yamamoto Akuji (talking),いいだろう。 しっかり働いてくれよ。,Alright then. You better work hard.
+__system__??,{Bキャラ > 500:,{Bキャラ > 500:
+__system__??,},}
+narrator,が給与を上げてほしいと 要求してきた。 　現在の給与　,requested to get a raise. 　Current salary　
+narrator,０万　（忠誠心：,０万　（忠誠心：
+narrator,％）,％）
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+__system__??,},}
+Mori Kaoru (talking),何をしている？,What are you doing?
+Yamamoto Akuji (talking),ああ…ちと散歩に。,"Oh, I`m just taking a walk."
+Mori Kaoru (talking),あなたのいるミドリガオカからここは、 少し離れているが？,You sure went far on your little walk.
+Yamamoto Akuji (talking),少し長距離を歩いておきたくてね。 最近運動不足で。,Felt like going on a long one. I needed the exercise.
+Mori Kaoru (talking),そうか。,Really.
+Yamamoto Akuji (thinking),"……やっぱ、ここを襲撃すんのは、 無理っぽいな。
+戦闘に関してはアマちゃん ばかりだっつっても、 市議会イコール国だかんな。
+ヘタにシバきにきて、 懲罰警察呼ばれちまったら 一巻の終わりだ。
+まあ……ボチボチ行くべ。","...Looks like I can`t attack this place after all.
+ Even if all their fighters are women, fighting them still means fighting Japan.
+ If we fuck it up, they`ll call the Punitive Police and wipe us all out.
+ Well, I`ll take my time."
+Yamamoto Akuji (talking),……………うーん……,Hmmm...
+Yamamoto Akuji (thinking),こっちにドンパチかますのは、 まだ色々メンドーだ。 チャンスがきた時にするべ。,Attacking this place seems like a bad idea for now. I should wait for a chance.
+Yamamoto Akuji (talking),…………,...
+Yamamoto Akuji (thinking),"ウィミィ共はどんだけ憎んでも 憎みたりねーが…どーする事も 出来ねーのも事実だ。
+ここには手ぇださねぇ方がいい。","I may fucking hate Wime, but I still can`t really do anything about them.
+ I should leave them alone."
+__system__??,{RND \ 0:,{RND \ 0:
+Shimamoto Jun (talking),本気で仰ってるんですか？,Are you serious?
+Yamamoto Akuji (talking),こんな事ジョーダンで言う程、 俺は今余裕はねーぜ。,I don`t have the luxury to be making jokes here.
+Shimamoto Jun (talking),"しかし、市長よりＰＭとの抗争は 禁止されています。 今戦えば、かならず市長は動きます。
+それよりは市長をどうかするか 考えた方がよいと思いますが。","But the Mayor has forbidden us from fighting the PM. If we do, she`ll make a move.
+ Plus, you should think about what move she`ll make."
+Yamamoto Akuji (talking),いーんだよ。 やるっつーたら、やるんだ。 市議会の命令は無視してＯＫ。,"It`s fine. I said we`re doing it, so we will. It`s OK to ignore her orders."
+Shimamoto Jun (talking),………………,...
+Shimamoto Jun (thinking),こいつ…この程度の男だったというのか？ 俺の見込み違いだったのか…？,Is this all he amounted to? Was I wrong about him?
+__system__??,},}
+__system__??,{RND = 0:,{RND = 0:
+Elite Yakuza (talking),マジっすか！？,For real?!
+Yamamoto Akuji (talking),おー、本気だ、マジだ。 俺は、ＰＭに戦争しかけるぜ。,For real. I`m attacking the PM.
+Elite Yakuza (talking),しかし、市長よりＰＭとの抗争は 禁止されてますよ……,But the Mayor forbid us from fighting them...
+Yamamoto Akuji (talking),それがどーした。 俺はやるったらやるぜ。 市長なんか無視ＯＫ！,"Yeah, and? I`m doing it anyway. It`s OK to ignore her."
+Elite Yakuza (talking),その言葉を待ってました！,I`ve been waiting for this!
+Yamamoto Akuji (talking),ん~？,Hm?
+Elite Yakuza (talking),みんな、ＰＭを潰したくて、 ウズウズしてたんっすよ！,We`ve been itchin` to crush the PM!
+Yamamoto Akuji (talking),そりゃーいい。 ガンガン士気を上げて、 ガンガンＰＭを切り崩そうぜ。,Good to hear it. Let`s get our morale up and demolish the PM.
+Elite Yakuza (talking),はい、悪司さん！,"You got it, Akuji-san!"
+__system__??,},}
+Yamamoto Akuji (thinking),"しっかし、なんだよなー…
+まさか、戦争から帰ってきてすぐ、 自分の実家とドンパチする事に なろうとは、思わなかったな~…
+んでもまあ、戦争のせいで、あれは俺が 継ぐべきモンじゃなくなっちまったって だけだ。
+そう考りゃあ、今の状態も納得いくし…","But man, I gotta say...
+ Never thought I`d be fighting my own Family the moment I got back from the war.
+ That said, the war turned the Family into something I don`t wanna inherit.
+ Gets easier if I think that..."
+__system__??,{RND \ 0:,{RND \ 0:
+Kanbara Yuuko (talking),何考えてるのぉ~？,What`s on your miiind?
+Yamamoto Akuji (talking),夕子さん。,Yuuko-san.
+Kanbara Yuuko (talking),ん~？,Hm?
+Yamamoto Akuji (talking),あんた、組を裏切って俺の方へ くるって事に、抵抗なかったか？,Were you not reluctant to betray them to come to me?
+Kanbara Yuuko (talking),"んん~~……
+情を深くかけてるのは どっちかっていうと、 あーくんだからぁ…
+ごめんね~とは思っても、 後悔はないない~…","Hmmmm...
+ Well, if I had to pick which one I feel more strongly for, it would be you, so...
+ Even if I feel sorry, I don`t regret iiiit."
+Yamamoto Akuji (talking),そっか…,Really...
+Kanbara Yuuko (talking),うん~。,Yeeeep.
+__system__??,},}
+__system__??,{RND = 0:,{RND = 0:
+__system__??,{RND \ 0:,{RND \ 0:
+Takega Satsu (talking),どうした？ 何か気かがりな事でもあるのか？,What`s the matter? Is something on your mind?
+Yamamoto Akuji (talking),ん~……さっちゃんは、わかめ組に 行き来してた事あるのかい？,"Hmm... Sacchan, did you ever visit the Wakame?"
+Takega Satsu (talking),ない。,Never.
+Yamamoto Akuji (talking),そっか…じゃあ、じーさんの家との ドンパチだっつっても、感慨ナシだよな。,"I see, so then you don`t think much of fighting Gramps` Family?"
+Takega Satsu (talking),他人が踏み荒らした雪原には 興味がないのでな。 ゼロからでも自分で作った方がいい。,I`ve no interest in what`s been ravaged by others. I`d rather build it back up from scratch.
+Yamamoto Akuji (talking),ふーん…なるほどね~。,"Hmm, I get it."
+__system__??,},}
+__system__??,},}
+Yamamoto Akuji (talking),よーし、今度はＰＭを潰すぞ。 ここを取っちまったら、完全に、 オオサカは俺のモンだ。,"Alright, time to crush the PM. If we take this place, Osaka`ll be all mine."
+__system__??,{☆治安会社 = 0:,{☆治安会社 = 0:
+Seinendan Jyoshi (talking),悪司さーん、お客様ですー。,"Akuji-san, you have a guest."
+Yamamoto Akuji (talking),おう、とおせー。,"Aight, let them in."
+Seinendan Jyoshi (talking),はーい。,Okay.
+Yamamoto Akuji (talking),なんだ、お前さんら。,Who are you guys?
+keibiin (talking),はい、私共はこういう者です。,"Hello, this is who we are."
+narrator,悪司は名刺を貰った。,Akuji received a business card.
+Yamamoto Akuji (talking),ん、~~…（株）青森治安会社…,Aomori Security Firm?
+keibiin (talking),"はい。
+地域管理組合の方々が苦労している 治安悪化状態の地域を、またたく間に 正常化させる仕事をしております。
+ニホン各地の３７の地域管理組合から お仕事を承っており、信用も抜群です。
+こちらもご苦労されているという 噂を聞きまして。
+どうでしょう？ 私共にお任せ下さいませんか？","Indeed.
+ We swiftly restore the public order of regions a RMG can`t quite keep under control.
+ We`ve been recognized by 37 RMGs all over Japan.
+ And we`ve heard you have been having trouble.
+ How about it? Will you let us take care of it?"
+__system__??,},}
+keibiin (talking),"こんにちは、「青森治安会社」の 者です。
+最近、治安がよくないようですが、 私共が解決いたしましょうか？","Hello, I`m from the Aomori Security Firm.
+ Would you like us to solve your public order issues?"
+narrator,　奉仕青年団が管理する全ての無法地帯を正常 　にするのにかかる費用は 　１０００万円です。,　It will cost 10000K yen to restore 　the public order of all Lawless 　regions controlled by the YCSG.
+__system__??,{RETURN = 2:,{RETURN = 2:
+Yamamoto Akuji (talking),今は間に合ってるから、またきてくんな。,I can handle it this time.
+keibiin (talking),そうですか、わかりました。 ではまたよろしくお願いします。,Very well then. Until next time.
+__system__??,},}
+__system__??,{GOLD < 100:,{GOLD < 100:
+__system__??,},}
+keibiin (talking),わかりました。 お任せ下さい。,Understood. Leave it to us.
+__system__??,{(R支配 = 1) * (R治安レベル > 1):,{(R支配 = 1) * (R治安レベル > 1):
+narrator,　　☆☆　,　　☆☆　
+narrator,　☆☆ 　　治安が回復した。,　☆☆ 　　`s order was restored.
+__system__??,},}
+keibiin (talking),すべて終了いたしました。,We`re all done.
+Yamamoto Akuji (talking),おう、ごくろーさん。,Good work.
+keibiin (talking),それではまた、当社のご指名、 よろしくお願いします。 それでは。,Please give us a call if you need our services again. Until next time.
+__system__??,{(Bキャラ = 3) + (Bキャラ = 66) + (Bキャラ = 79):,{(Bキャラ = 3) + (Bキャラ = 66) + (Bキャラ = 79):
+__system__??,},}
+__system__??,{(Bキャラ = 65) + (Bキャラ = 46) + (Bキャラ = 67):,{(Bキャラ = 65) + (Bキャラ = 46) + (Bキャラ = 67):
+__system__??,},}
+__system__??,{(Bキャラ = 35) + (Bキャラ = 56):,{(Bキャラ = 35) + (Bキャラ = 56):
+__system__??,},}
+__system__??,{(Bキャラ = 2) + (Bキャラ = 49) + (Bキャラ = 30) + (Bキャラ = 76) + (Bキャラ = 68):,{(Bキャラ = 2) + (Bキャラ = 49) + (Bキャラ = 30) + (Bキャラ = 76) + (Bキャラ = 68):
+__system__??,},}
+__system__??,{(Bキャラ = 4) + (Bキャラ = 19):,{(Bキャラ = 4) + (Bキャラ = 19):
+__system__??,},}
+__system__??,{(Bキャラ = 18) + (Bキャラ = 5):,{(Bキャラ = 18) + (Bキャラ = 5):
+__system__??,},}
+__system__??,{(Bキャラ = 23) + (Bキャラ = 48):,{(Bキャラ = 23) + (Bキャラ = 48):
+__system__??,},}
+__system__??,{(Bキャラ = 24) + (Bキャラ = 47):,{(Bキャラ = 24) + (Bキャラ = 47):
+__system__??,},}
+__system__??,{(Bキャラ = 75) + (Bキャラ = 92):,{(Bキャラ = 75) + (Bキャラ = 92):
+__system__??,},}
+__system__??,{(Bキャラ = 55) + (Bキャラ = 93):,{(Bキャラ = 55) + (Bキャラ = 93):
+__system__??,},}
+__system__??,{(Bキャラ = 13) + (Bキャラ = 78):,{(Bキャラ = 13) + (Bキャラ = 78):
+__system__??,},}
+__system__??,{(Bキャラ = 28) + (Bキャラ = 80) + (Bキャラ = 87):,{(Bキャラ = 28) + (Bキャラ = 80) + (Bキャラ = 87):
+__system__??,},}
+__system__??,{(Bキャラ = 7) + (Bキャラ = 82):,{(Bキャラ = 7) + (Bキャラ = 82):
+__system__??,},}
+__system__??,{(Bキャラ = 42) + (Bキャラ = 34) + (Bキャラ = 77):,{(Bキャラ = 42) + (Bキャラ = 34) + (Bキャラ = 77):
+__system__??,},}
+__system__??,{Bキャラ = 50:,{Bキャラ = 50:
+__system__??,},}
+__system__??,{(Bキャラ = 8) + (Bキャラ = 97):,{(Bキャラ = 8) + (Bキャラ = 97):
+__system__??,},}
+__system__??,{(Bキャラ = 21) + (Bキャラ = 94) + (Bキャラ = 95):,{(Bキャラ = 21) + (Bキャラ = 94) + (Bキャラ = 95):
+__system__??,},}
+__system__??,{(Bキャラ = 43) + (Bキャラ = 58) + (Bキャラ = 81):,{(Bキャラ = 43) + (Bキャラ = 58) + (Bキャラ = 81):
+__system__??,},}
+__system__??,{Bキャラ = 90:,{Bキャラ = 90:
+__system__??,},}
+__system__??,{(Bキャラ = 15) + (Bキャラ = 41) + (Bキャラ = 54):,{(Bキャラ = 15) + (Bキャラ = 41) + (Bキャラ = 54):
+__system__??,},}
+__system__??,{(Bキャラ = 39) + (Bキャラ = 57):,{(Bキャラ = 39) + (Bキャラ = 57):
+__system__??,},}
+__system__??,{(Bキャラ = 10) + (Bキャラ = 89):,{(Bキャラ = 10) + (Bキャラ = 89):
+__system__??,},}
+__system__??,{(Bキャラ = 36) + (Bキャラ = 64):,{(Bキャラ = 36) + (Bキャラ = 64):
+__system__??,},}
+__system__??,{(Bキャラ = 9) + (Bキャラ = 69) + (Bキャラ = 96):,{(Bキャラ = 9) + (Bキャラ = 69) + (Bキャラ = 96):
+__system__??,},}
+__system__??,{Bキャラ = 1:,{Bキャラ = 1:
+__system__??,},}
+__system__??,{(Bキャラ = 11) + (Bキャラ = 12):,{(Bキャラ = 11) + (Bキャラ = 12):
+__system__??,},}
+__system__??,{Bキャラ = 17:,{Bキャラ = 17:
+__system__??,},}
+__system__??,{Bキャラ = 20:,{Bキャラ = 20:
+__system__??,},}
+__system__??,{Bキャラ = 29:,{Bキャラ = 29:
+__system__??,},}
+__system__??,{Bキャラ = 37:,{Bキャラ = 37:
+__system__??,},}
+__system__??,{Bキャラ = 44:,{Bキャラ = 44:
+__system__??,},}
+__system__??,{Bキャラ = 45:,{Bキャラ = 45:
+__system__??,},}
+__system__??,{Bキャラ = 51:,{Bキャラ = 51:
+__system__??,},}
+__system__??,{Bキャラ = 62:,{Bキャラ = 62:
+__system__??,},}
+__system__??,{Bキャラ = 534:,{Bキャラ = 534:
+__system__??,{RND = 1:,{RND = 1:
+__system__??,},}
+__system__??,{RND = 2:,{RND = 2:
+__system__??,},}
+__system__??,{RND = 3:,{RND = 3:
+__system__??,},}
+__system__??,},}
+__system__??,{(Bキャラ = 550) + (Bキャラ = 553):,{(Bキャラ = 550) + (Bキャラ = 553):
+__system__??,},}
+__system__??,{(RND = 1) + (RND = 10):,{(RND = 1) + (RND = 10):
+__system__??,},}
+__system__??,{(RND = 2) + (RND = 11):,{(RND = 2) + (RND = 11):
+__system__??,},}
+__system__??,{RND = 3:,{RND = 3:
+__system__??,},}
+__system__??,{(RND = 4) + (RND = 12):,{(RND = 4) + (RND = 12):
+__system__??,},}
+__system__??,{RND = 5:,{RND = 5:
+__system__??,},}
+__system__??,{RND = 6:,{RND = 6:
+__system__??,},}
+__system__??,{RND = 7:,{RND = 7:
+__system__??,},}
+__system__??,{RND = 8:,{RND = 8:
+__system__??,},}
+__system__??,{RND = 9:,{RND = 9:
+__system__??,},}
+__system__??,{RND = 13:,{RND = 13:
+__system__??,},}
+__system__??,{(Bスキル = 1) + (Bスキル = 3) + (Bスキル = 5):,{(Bスキル = 1) + (Bスキル = 3) + (Bスキル = 5):
+__system__??,},}
+__system__??,{(Bスキル = 11) + (Bスキル = 13) + (Bスキル = 15) + (Bスキル = 17) + (Bスキル = 19):,{(Bスキル = 11) + (Bスキル = 13) + (Bスキル = 15) + (Bスキル = 17) + (Bスキル = 19):
+__system__??,},}
+__system__??,{(Bスキル = 21) + (Bスキル = 23) + (Bスキル = 25):,{(Bスキル = 21) + (Bスキル = 23) + (Bスキル = 25):
+__system__??,},}
+__system__??,{(Bスキル = 33) + (Bスキル = 35) + (Bスキル = 37) + (Bスキル = 39):,{(Bスキル = 33) + (Bスキル = 35) + (Bスキル = 37) + (Bスキル = 39):
+__system__??,},}
+__system__??,{(Bスキル = 41) + (Bスキル = 47) + (Bスキル = 53) + (Bスキル = 55):,{(Bスキル = 41) + (Bスキル = 47) + (Bスキル = 53) + (Bスキル = 55):
+__system__??,},}
+roujin (talking),ふぇふぇふぇ。,Heheheh.
+narrator,と、一人の老人が現れた。,An old man showed up.
+roujin (talking),傲慢な若者よ、春の嵐を受けるがええ。,"Insolent youths, taste my rats!"
+narrator,"　　［ぴょーぴょー］
+と、老人は笛を吹いた。
+ 　　［ちゅー　ちゅちゅちゅー］
+遠くから、ネズミの声がしたかと思うと、 次から次へと大量に、街に溢れ出した。","　　［*Fweeeeeee*］
+ The old man played a flute.
+ 　　［Squeak squeak squeak!］
+ A veritable army of rats showed up in the distance and flooded into the city."
+roujin (talking),ふぇふぇふぇふぇ……,Heheheheh...
+roujin (talking),ふぇ、ふぇ、ふぇ…,Heh heh heh!
+narrator,"老人は赤い笛を手に取った。
+ 　　［ぴょーぴょー］
+ 　　［ちゅー　ちゅちゅちゅー］
+遠くから、ネズミの声がしたかと思うと、 次から次へと大量に、街に溢れ出した。","The old man grabbed his flute.
+ 　　［*Fweeeeeee*］
+ 　　［Squeak squeak squeak!］
+ A veritable army of rats showed up in the distance and flooded into the city."
+roujin (talking),ふぇ、ふぇ、ふぇ……,Heh heh heh!
+roujin (talking),ふーふーふー。,Heh heh heh!
+narrator,"老人は青い笛を手に取った。
+ 　　［ぴょーぴょー］
+ 　　［まーんぼーう］
+遠くから、まんぼうの声がしたかと思うと、 次から次へと大量に、街に溢れ出した。","The old man grabbed his flute.
+ 　　［*Fweeeeeee*］
+ 　　［Manbooooou!］
+ A veritable army of sunfish showed up in the distance and flooded into the city."
+roujin (talking),ふーふーふーふー。,Heh heh heh!
+roujin (talking),ぷるっぷー。,Hohohoh!
+narrator,"老人はピンクの笛を手に取った。
+ 　　［ぴょーぴょー］
+ 　　［みなもとー　みなもとー］
+遠くから、うみねこの声がしたかと思うと、 次から次へと大量に、街に溢れ出した。","The old man grabbed his pink flute.
+ 　　［*Fweeeeeee*］
+ 　　［Minamotoooooo!］
+ A veritable army of seagulls showed up in the distance and flooded into the city."
+roujin (talking),ぷるっぷー。 ぷるっぷー。,"Hohohoh, hohohohohoh!"
+roujin (talking),うひゃひゃひゃ。,Hyahyahya!
+narrator,"老人は茶色い笛を手に取った。
+ 　　［ぴょーぴょー］
+ 　　［アイヤー　アイヤー］
+遠くから、ハニーホースの声がしたかと思うと、 次から次へと大量に、街に溢れ出した。","The old man grabbed his yellow flute.
+ 　　［*Fweeeeeee*］
+ 　　［AIYAAAAAAAAA!］
+ An army of hanny horses showed up in the distance and flooded into the city."
+roujin (talking),うひゃひゃひゃ。 うひゃひゃひゃ。,"Hyahyahya, hyahyahyahyahya!"

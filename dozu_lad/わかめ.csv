@@ -1,0 +1,2060 @@
+character,Jap,Eng
+narrator,"──わかめ組、組長執務室。
+ここに、現在のわかめ組を取り仕切る 四人の幹部が集まっていた。","-Chairman`s office, Wakame Family.
+ The four leaders who currently run the Wakame Family had gathered."
+narrator,"まず一人は、辻家晴子。
+彼女は元々、わかめ組の組員ではなかった。 自分の夫がたまたまわかめ組の組員だったのだ。
+だが、女性上位の世である現在、 彼女は射撃の腕と明晰な頭脳を買われ、 一組員の妻から幹部へと異例の出世を遂げた。","Tsujiya Haruko.
+ She wasn`t originally from the Wakame Family. It just so happened that her husband was.
+ However, with women now in power, her marksmanship and intellect earned her an exceptional promotion."
+narrator,"次に、加賀元子。
+彼女の父親が戦前に組の幹部だったために 組織の内情に詳しく、 今では父に代わって幹部の座に就いた。
+余談だが、彼女は親同士の関係上、 悪司とは“おさななじみ”の間柄にある。","Kaga Motoko.
+ As her father had been a Wakame exec before the war, she was intimate with the its workings, and took over his position.
+ As a side note, thanks to their parents` relationship, she and Akuji are childhood friends."
+narrator,そして、残る二人は──,As for the remaining two leaders-
+narrator,仁義に厚いわかめ組の切り込み隊長、 森田愛。,Morita Ai. The Wakame Family`s assault squad`s leader with a strict moral code.
+narrator,そして、組長の市橋蘭である。,Ichihashi Ran. The Family`s current Chairwoman.
+Ichihashi Ran (talking),へぇ…面白いね。 辻家、その話、本当なんだろうね？,"Heh... How amusing. Tsujiya, is what you said true?"
+Tsujiya Haruko (talking),"…間違いありません。 私自身、確認してきましたから。
+奉仕青年団の事務所に居る女の子へ、 我が物顔で指示を飛ばしていて…","...There`s no mistaking it. I`ve confirmed it myself.
+ He was there, commanding the YCSG girls as if he owned the place."
+Ichihashi Ran (talking),フフ…悪司の事さ、 我が物顔どころか本気でその娘たちを “我が物”にしてるだろうねぇ。,"Heheh... Knowing Akuji, he most likely does own that place now."
+Tsujiya Haruko (talking),………………,...
+Ichihashi Ran (talking),"まあ……楽しみが増えたって事だよ。
+組の内部がもう少しまとまれば、 あんな素人集団、即潰してやるさ。
+…悪司ボウヤの鼻っ柱ごとね。","We`re about to have some fun.
+ As soon as we`re done consolidating the Family, we`ll crush those amateurs.
+ ...Along with Akuji`s spirit."
+Tsujiya Haruko (talking),彼を放置しておくのですか？,Are we gonna leave him alone?
+Ichihashi Ran (talking),そう、今はね。 不満かい？　辻家。,"Yes, for now. Is there a problem, Tsujiya?"
+Tsujiya Haruko (talking),あ、いいえ……,"Oh, no, there isn`t..."
+Ichihashi Ran (talking),"何が「いいえ」だい、顔に出てるよ。
+あんたが悪司を憎むその事情、 あたしは知っちゃいるけどね…","I can tell that`s a lie.
+ I know the reason why you despise Akuji, you see..."
+Tsujiya Haruko (talking),………………,...
+Ichihashi Ran (talking),…旦那さんとは、 今も仲直りできてないのかい？,You still haven`t managed to reconcile with your husband?
+Tsujiya Haruko (talking),仲直りも何も…… もうどうにもならないので…,"Forget reconciling, there`s flat-out no saving it anymore..."
+Ichihashi Ran (talking),そうかい… 解ったよ、あたしが悪かった。 この話はこれで終わりにしようかね。,"Is that so... Very well, I apologize. Let`s stop talking about that."
+Tsujiya Haruko (talking),…すみません。,...Thanks.
+Ichihashi Ran (talking),"さて… 話のついでと言っちゃあ何だけど……
+…元子。","Now then, since we`re on this subject...
+ ...Motoko."
+Kaga Motoko (talking),はい。,Yes?
+Ichihashi Ran (talking),どうだい？　組の男どもは。 まだまとまりそうにないのかい？,How are our Family`s men faring? Think they`ll settle down soon?
+Kaga Motoko (talking),一時期に比べると従順です。 ……諦めたのかも。,They`re more obedient than before. ...Maybe they`ve given up.
+Ichihashi Ran (talking),"それで充分だよ。 いずれ男どもも慣れてくるさ。
+女に顎で使われる、って状態にね。","That`s good enough. They`ll get used to being ordered by women.
+ Eventually, anyway."
+Kaga Motoko (talking),そう上手くいくとは 思えませんが。,"I don`t think it`ll go that smoothly, though."
+Ichihashi Ran (talking),"なんだい… えらく悲観的だね。
+まあ確かに、 時代の流れに逆らい続ける男連中は ごろごろ居るけどさ…","What`s the matter? That`s awfully pessimistic of you.
+ Well, it`s true that many men continue to reject this new era of female supremacy..."
+Kaga Motoko (talking),悪司の事ですか？,Are you talking about Akuji?
+Ichihashi Ran (talking),"あれもそうだけど。 ほら、例えばあんたの親父さ……
+……おっと。 もう親子の縁は切ったんだったかね？","Not just him. For example, there`s your father...
+ ...My mistake. You`ve cut ties with each other, right?"
+Kaga Motoko (talking),切れたようになっているだけです。 相容れませんから。,It just seems that way because our views are mutually exclusive.
+morita  ai (talking),くぅ~……！ なげかわしいことでござんすねぇ！,Hnnnngh~! What a sad state of affairs!
+Kaga Motoko (talking),……？,...?
+morita  ai (talking),"たとえ世が移り変われど、 血は水より濃し！ 親子の絆は永遠……違いますかねえ？
+縁を切るとかつなぐとか、 そんなもんじゃないでやしょ？","The world may change, but blood`s thicker than water! Your bonds are eternal!
+ That`s what bonds are all about, right?"
+Kaga Motoko (talking),人の家の事で 知ったかぶりしないで。,Don`t talk about my family`s affairs as if you know them.
+morita  ai (talking),はぁ…哀しいことでやんす…… 世知辛いでやんす…,"Aah, how sad... The world`s a tough place..."
+Kaga Motoko (talking),………… こちらから、黙らせて欲しいの？,... Do you want me to shut you up?
+Ichihashi Ran (talking),…元子、殺気立つんじゃないの。 愛に悪気はないんだから。,"...Motoko, calm down. Ai means no ill will."
+Kaga Motoko (talking),………………,...
+Ichihashi Ran (talking),愛も控えな。 同情も過ぎると嫌味だよ。,"And Ai, control yourself. Excessive sympathy can come across as sarcasm."
+morita  ai (talking),…すいやせん、姐さん。 ですが……,"...I`m sorry, Boss. But-"
+Ichihashi Ran (talking),"元子の親父さ…いや、加賀太郎はね…
+ガチガチの頑固頭で反女性主義者、 要するに不忠者の危険分子なんだよ。
+元子と反りが合わないのも 仕方ないって事さ。","Her father- no, Kaga Tarou...
+ ...Is a hardline anti-feminist. A dangerous, disloyal element.
+ It`s only natural that he and Motoko can`t see eye to eye."
+morita  ai (talking),"ふ、不忠……？ それはいけやせんですよ、姐さん。
+ああ…すいやせん元子姉さん！ あたしゃ事情も知らず偉そうな口を…
+くっ…森田愛、このオトシマエは この指詰めてでも つけさせていただきやすうっ！","D-Disloyal...? We can`t have that, Boss.
+ Ah... Forgive me, Motoko-nee-san! I kept running my mouth!
+ Kh...! Please allow me, Morita Ai, to pay for my blunder with one of my fingers!"
+Ichihashi Ran (talking),"………………やめな。 解ればそれでいいんだよ。
+まあでも、元子の父親だって事で 助かってる面もあるけどね……
+元子。 これからも組内部のシメと、 あんたの親父の監視、頼んだよ。","...Stop that. As long as you understand, it`s alright.
+ That said, there are some upsides to him being Motoko`s father.
+ Motoko, I`ll keep counting on you to pacify the Family and monitor your father."
+Kaga Motoko (talking),はい。,Very well.
+Kaga Motoko (thinking),"………………
+父さんと…
+…悪司……か。","...
+ Father...
+ ...and Akuji, huh..."
+narrator,"蘭が執務室で書類に目を通していると──
+正面にある障子戸、その外側へ、 何者かが歩み寄ってくる気配があった。","Ran was reading some documents in her office.
+ She then felt someone approaching the sliding door in the front."
+Ichihashi Ran (talking),……誰だい？,...Who is it?
+ (talking),お仕事中にすみません。 姐さん、少し構いませんでしょうか？,"I`m sorry to interrupt you. Do you have some time, Boss?"
+Ichihashi Ran (talking),……？ いいよ、入っておいで。,"...? It`s alright, come in."
+Elite Yakuza (talking),…失礼します。 実は只今、市議会から監督官の 山沢様がいらしておりまして……,"Please excuse me. The supervisor from the CC, Yamazawa-sama, is here."
+Ichihashi Ran (talking),監督官…山沢？ 山沢麻美かい？,Supervisor... Yamazawa? You mean Yamazawa Asami?
+Elite Yakuza (talking),はい。 定期巡回だそうですが…… いかが致しましょう？,Yes. She says it`s for a scheduled inspection. What should we do?
+Ichihashi Ran (talking),"やれやれ…あの堅物嬢ちゃんにも 困ったもんだね。
+定期巡回なんて、 形だけでも構わないのにねえ…","Good grief... That stubborn girl sure is a pain in the neck.
+ I don`t care if that scheduled inspection is just a formality."
+Elite Yakuza (talking),ご面倒でしたら、 私どもの方で“茶菓子”を用意して お引き取り願いましょうか？,"Then if she is a bother, should we prepare her some \”teacakes\” and ask her to leave?"
+Ichihashi Ran (talking),"バカなことを言うんじゃないよ。 麻美嬢ちゃんに賄賂なんざ贈ったら よけい話がこじれるだろうに。
+あたしがすぐ行くから、 あんたはもう下がってな。","Don`t be foolish. Giving Asami-chan a bribe would only complicate matters.
+ I`ll go meet her right away, so you may stand down now."
+Elite Yakuza (talking),は……,Right...
+Yamazawa Asami (talking),………………,...
+Ichihashi Ran (talking),…いらっしゃい、麻美嬢ちゃん。 定期巡回、ご苦労様。,"Welcome, Asami-chan. Good work on your scheduled inspection."
+Yamazawa Asami (talking),あ……市橋さん。 お仕事の最中にお呼び立てして 申し訳ありません。,"Ah, Ichihashi-san. Forgive me for calling you here while you`re working."
+Ichihashi Ran (talking),気にしないでおくれ。 あんたに呼ばれて 出てこられないほどの事じゃないさ。,I do not mind. Coming out to meet you is no big deal.
+Yamazawa Asami (talking),ありがとうございます。 ではまず、今回の回覧板と……,"Thank you. Then first up, I have the latest circular notice-"
+Ichihashi Ran (talking),はいはい、確かにね。 あとで目を通しておくよ。,"Yes yes, I understand. I`ll take a look at it later."
+Yamazawa Asami (talking),……それと、市議会からの要望ですが。 市の西にある…,...And a request from the CC. To the west of the city-
+Ichihashi Ran (talking),…解ってるよ、いつもの事だろ？ 西を占拠してる那古教（なこきょう） とか言う新興宗教を潰せってんだろ？,"The usual, I know. Crush the emerging Nako Cult occupying the west, right?"
+Yamazawa Asami (talking),"潰せとは…語弊があります。
+監督官の巡回を受け入れ 市議会の指示を仰ぐように 説得して欲しいというだけです。","Crushing... is not the right word.
+ We only want you to convince them to accept the Council`s orders and inspections."
+Ichihashi Ran (talking),"市議会の本音は解ってるよ。 思い通りにならない宗教組織が 煙たいんだろう？
+いっそ綺麗に潰しちまった方が あんたの上にいるお偉いさん方は 喜んでくれるはずさ。","I know your motive. Having a disobedient religious cult around makes you uneasy, no?
+ Completely crushing them would please your superiors more, I bet."
+Yamazawa Asami (talking),"……市橋さんは、 仰られる事が乱暴過ぎます。
+市議会は、市民が安心して暮らせる 戦前のような秩序を取り戻したい ……そう願っているだけです。","...Ichihashi-san, your choice of words is much too violent.
+ All we want is to ensure the citizens can live in peace and order like before the war."
+Ichihashi Ran (talking),市議会が、じゃないだろ？ あんたが、だ。 違うかい？,"That`s not what the CC wants, that`s what YOU want. Am I wrong?"
+Yamazawa Asami (talking),…………市議会も、そして私もです。,...It`s what we both want.
+Ichihashi Ran (talking),……ふぅ。 解った、そういう事にしとくよ。,"...Haah. Fine, let`s leave it at that."
+Yamazawa Asami (talking),あと、わかめ組の担当域内でも 治安の悪化が著しいのです。 具体的には回覧板の資料に……,"Also, there`s been a marked decline in public order in your regions. The details are in the-"
+Ichihashi Ran (talking),"解ったよ、すぐに手を打っておく。 仕事はきっちりやってみせるさ。
+まあ見てな。オオサカの秩序は あたしらわかめ組が必ず取り戻すよ。","I know, we`ll work on it soon. We`ll get the job done right.
+ Just you watch, the Wakame Family WILL restore order to Osaka."
+Yamazawa Asami (talking),"……頼りにしています。 本当に。
+では、用件は以上ですので、これで。 お忙しいところを失礼しました。","...I hope you can. Truly.
+ Now then, that was all for today. Please excuse me."
+Ichihashi Ran (talking),……あー、ちょっと待ちな。 麻美嬢ちゃん。,"...Oh, hold on, Asami-chan."
+Yamazawa Asami (talking),はい？,Yes?
+Ichihashi Ran (talking),"こないだ、あんたに言った件。 …考えてくれたかい？
+あんた、そこらの男よりも 腕は立つし、マメで、真面目で、 仕事ができて責任感も強い。
+あんたとはまだ短いつきあいだけどね。 あたしが見る限り…
+市議会の狸や狐どもに使われるより、 うちの組に来た方が あんたには幸せだと思うんだけどね？
+給料だって、今の倍は軽く出すよ。 悪い話じゃないだろう？","About my offer from the other day. Have you given it any thought?
+ You`re more talented, earnest, and responsible We haven`t known each other
+ for long, however. From what I can tell...
+ You`d be happier working for us than being used by those foxes in the Council.
+ I can easily pay double your salary. Not a bad deal, right?"
+Yamazawa Asami (talking),"…私を評価して下さって、恐縮です。
+ですが、私は今の仕事を 誇りに思っているものですから…
+……申し訳ありません。","...Thanks for rating me so highly.
+ However, I take pride in my current job.
+ ...My apologies."
+Ichihashi Ran (talking),…そうかい。 解ったよ、悪かったね。 つまらない事を言っちまって。,"...Is that so. Fine, then. Sorry for the dull offer."
+Yamazawa Asami (talking),"いえ…
+…では、失礼します。","No, it`s alright...
+ Now, if you`ll excuse me."
+Ichihashi Ran (talking),……やれやれ。 お堅い嬢ちゃんだよ、全く……,"Good grief. She`s a stubborn one, really..."
+narrator,"大規模な会合などに使われる大広間に、 組内でも古参といえる組員たちが 市橋蘭の指示で十人ほど集められていた。
+──古参、つまり戦前からの組員で、 当然ながら全てが中年以上の男ばかりだ。
+そんな彼らのまとめ役として、 諸事を取り仕切っているのは──","As per Ran`s orders, about ten of the Wakame Family`s long-time members were gathered in its spacious meeting room.
+ As they have been present since before the war, all of them were middle-aged men.
+ Their mediator, and the one in charge of various other affairs..."
+narrator,広間の上座から見て 最前列に座しているこの男、 加賀太郎である。,"...Is the man sitting in the front row as seen from the seat of honor, Kaga Tarou."
+Elite Yakuza (talking),……おやっさん。 姐さんはなぜ突然、 我々をお集めになられたんでしょう？,"...Old man, why did the Chairwoman have us gather here all of a sudden?"
+Kaga Tarou (talking),"知らぬよ、これほどの男どもを 集めるような用件などが そうそうあるものか。
+全く、好き勝手をしおるわ。 あの女狐め……","I don`t know, but very few things require calling this many men.
+ That bitch does whatever she wants..."
+Elite Yakuza (talking),………………,...
+Kaga Tarou (talking),"む……女狐め、来たようじゃな。
+まあ、あやつが何を言い始めるのか 黙して待とうではないか。","Hrm, looks like she`s here.
+ Well, let us hear what she has to say."
+Ichihashi Ran (talking),"古狸ども、全員集まったようだね。 ふふん……時間通りかい。
+まあ、能なし揃いだしね、 時間くらい守ってくれなきゃ たまったもんじゃないけどさ！","Seems that all the old codgers are here. Heheh, just as scheduled.
+ Well, being on time is about the only thing you useless lot have going for you!"
+Kaga Tarou (talking),…お蘭、口が過ぎやせんか！ 戦前戦中、組を背負ってきた男たちに なんという言い草ぞ！,"Stop that, Ran! How can you say that to the men who carried the Family before the war?!"
+narrator,"　　［ぱあんっ！］
+──叫んだ加賀の頬へ向かって、 蘭はいきなり平手を飛ばした。","　　*SMACK!*
+ Ran suddenly slapped Kaga on the cheek."
+Kaga Tarou (talking),っ……,Ngh!
+Ichihashi Ran (talking),"笑わせるんじゃないよ。 先代や、先々代のご隠居に おんぶにだっこだった奴が…！
+そもそもあんた、 今日集められた理由、解ってるのかい！ 解ってるなら言ってみな！！","Don`t make me laugh. You were completely reliant on the former Chairmen!
+ Besides, do you know why you`re all here?! Go on, take a guess!"
+Kaga Tarou (talking),…………,...
+Ichihashi Ran (talking),……ちょっと前の事だよ、 クロモンがあたしらのシマから 外れると言ってきやがった。,"A little while ago, Kuromon declared that they`re leaving our turf."
+Kaga Tarou (talking),な……何じゃと！？,Wh-What?!
+Ichihashi Ran (talking),"あたしらなんざ必要ない、 自分たちで独立してみせるんだと。
+あそこはショバからのアガリがでかいし 街のしくみも複雑だから、 女のあたしじゃ仕切れない…
+そう言って大見得切ったのは どちらさんがただったかねえ？","\”We don`t need you, we`ll go independent,\” they said.
+ \”They rake in the money and have a complex structure. Of course a woman couldn`t handle them.\”
+ Whoever went around saying that, I wonder?"
+Kaga Tarou (talking),何故じゃ…… クロモンのカタギども、独立して これからどうするつもりなのじゃ…,But why...? What is even the Kuromon citizens` plan from now on?
+Ichihashi Ran (talking),"……ミドリガオカのように 自警団を作るんだとさ。 舐められたもんだよ。
+もうあんたたちに任せちゃおけない。 今からあたしが出向いて説得してくる。
+あんたたち、 この件について異論はないね？","They`ll create a vigiliante group like Midorigaoka. They`re looking down on us.
+ I can no longer leave this to you. I`ll go talk to them myself.
+ You don`t have any objections, do you?"
+Kaga Tarou (talking),今は何を言うても負け犬の遠吠えよ。 …好きにせえ。,...Anything I say will sound like an excuse. Do what you will.
+Ichihashi Ran (talking),"ほう…聞き分けがいいね、助かるよ。
+あたしからの用件は、それだけさ。 普段の仕事に戻りな、ご苦労だったね。","My, how obedient. That`s good.
+ That`s all I had to say. Go back to work, and thanks for your time."
+narrator,"言い捨てて、蘭は背中を向けて 広間から歩み去ろうとした。
+──が、障子戸に手をかけたところで その足がはたと止まる。","Having said that, Ran turned around and went to leave the room.
+ However, she stopped just before opening the door."
+Ichihashi Ran (talking),"ああ…一つ言い忘れてたよ。 ……加賀のじいさん。
+クロモンが世迷い言をのたまう 少し前にね…
+あそこが最近、 独立を考えているフシがある…って、 忠告してくれた奴がいるんだよ。
+あんたたちを差し置いてでも、 何か手を打つべきだ、ってね。
+……ふふん、誰だと思う？","Oh, I forgot to mention something, old man Kaga.
+ A little before Kuromon began spouting that nonsense...
+ Someone had warned me that there were signs of them wanting independence, and that we
+ should do something about it, even if it meant disregarding you.
+ Heheh, who do you think it was?"
+Kaga Tarou (talking),……知らぬよ。,...I don`t know.
+Ichihashi Ran (talking),"あんたの娘だよ。 元子さ。
+…あんたももう少し、 娘を見習ったらどうだい？","It was Motoko. Your daughter.
+ How about you learn a thing or two from her?"
+Kaga Tarou (talking),………………,...
+Elite Yakuza (talking),"くっ、あの女狐…！
+情報網も何もかも あの女が全部掌握しているんだぞ。 我らに情勢など流れてくるものか…！
+クロモンの件にしても、 女狐の奸計に決まっているっ…！","Kh, that bitch!
+ She has control of everything, even the intel network! Will nothing go our way?!
+ That thing with Kuromon must be another one of her schemes!"
+narrator,"蘭の気配が去っていった後、 組員たちは一斉に不満をこぼし始めた。
+だが、加賀太郎だけは何も言わず、 ただ俯いて拳を握りしめている。","As soon as Ran left, the men began venting their frustration in unison.
+ However, Tarou alone remained silent. Clenching his fist, he hung his head."
+Kaga Tarou (thinking),"……なあ…百発よ。 戦争はとうに終わったんじゃぞ… なぜお主はまだ帰ってこぬのだ……
+お前の組は女どもの好き勝手にされて 変わり果てていくばかりじゃ…
+百発よ。 お主、本当に…死んでしもうたのか？
+……いや、 あやつは帰ってくる。 帰ってくるとも……
+百発の帰る場所、無くしはせぬ。 儂の目の黒いうちに必ず、 この組、女狐から取り戻してみせる…","Hyappatsu... The war`s already over... Why haven`t you come back?
+ Some women are having their way with the Family and ruining it...
+ Hyappatsu. Are you really, truly dead?
+ ...No. He will be back. And if he`s coming back,
+ he needs a place to return to. As long as I live, I`ll see the Family taken back from that bitch."
+Elite Yakuza (talking),……っさん？ おやっさん、少しよろしいですか？,...Old man? Do you have a minute?
+Kaga Tarou (talking),……む。,Mhm.
+Elite Yakuza (talking),先刻、女狐の話にもあった ミドリガオカの奉仕青年団ですが…,About Midorigaoka`s YCSG that the bitch mentioned just now...
+Kaga Tarou (talking),"おお、最近妙に玄人臭い動きを 始めたとは、儂も聞いておる。
+クロモンの連中、その真似でも 始めるつもりなのかの…","Yeah, I`ve heard about them. They`ve been making some smart moves.
+ Perhaps Kuromon took a page out of their book..."
+Elite Yakuza (talking),実は、これを裏で仕切っている者… 戦地から生きて戻ってきた、 若かもしれないそうで……,"It seems that the one pulling their strings is the Young Master, who survived the war..."
+Kaga Tarou (talking),…何じゃと！？ 悪司の坊やが、か？,"What?! Young Akuji, you say?"
+Elite Yakuza (talking),"なにぶん、確認しておりませんので 真偽は定かではありませんが…
+…これは好機ではありませんか？ 若を立ててあの女狐へ 反乱を起こしましょう！","I couldn`t confirm it myself, so I don`t know if it`s true.
+ But isn`t this a chance? Let`s back the Young Master and have him depose that bitch!"
+Kaga Tarou (talking),お主… 本気で言うておるのか……？,...Are you being serious?
+Elite Yakuza (talking),お願いです、ミドリガオカへ 確認に行かせて下さい。 …行けと言って下さい、おやっさん！,"Please, let me go to Midorigaoka and see if it`s true. Give me the word, old man!"
+Kaga Tarou (talking),………………ならん。,... No.
+Elite Yakuza (talking),おやっさんっ…！,Old man!
+Kaga Tarou (talking),"今や、女狐につく者たちが 圧倒的に多いのだぞ。 この上に組が内部分裂を起こせば…
+…最悪、女狐も儂らも共倒れだ。","The bitch has too many allies. If there`s a further divide in the Family on top of that...
+ It may very well destroy us both."
+Elite Yakuza (talking),"しかしっ、本当に若だと言うのなら、 勝ち目は決して少なくない筈です！
+女狐の私物と化した組など、 潰す気で望めば…","Still, if it really is Akuji, then we have a chance!
+ The Family is now the bitch`s plaything. If he were to crush it-"
+Kaga Tarou (talking),"ならん！ 断じてならんっ！
+貴様ら、忠義の心をどこへ無くした？ 先代の百発や先々代の一発どのへの 恩義を忘れたのか？
+軽々しく組を潰すなどと ぬかすでないわ、たわけっ！","Never! Absolutely never!
+ Have you no loyalty?! Have you forgotten your debt to Hyappatsu and Ippatsu?!
+ Never suggest the Family should be crushed ever again, you fool!"
+Elite Yakuza (talking),………………,...
+Kaga Tarou (talking),"…………が、おのれらの気持ちは この太郎、痛いほどよう解った。 憶えておくぞ。
+だが、今はならん。 今動けば無益に血が流れすぎる。 ……機会を待て。","However, I know your pain all too well. I, Tarou, will remember this.
+ But acting now would only cause unecessary bloodshed. Let us wait for our chance."
+Elite Yakuza (talking),は…………,Yes...
+Chinpira (talking),"……………… よし、誰も居ねえよな……
+クソッタレな女狐が…… えっらそうに人を顎でこき使いやがって。 ふざけんなってんだ……
+こき使うだけ使っといて、 そのくせ、カネ払いも悪いしよ……
+これ以上、あんな女の下で働けるかよ。 辞めてやらあ、ボケっ…………","... Alright, nobody`s around...
+ That fucking bitch, treating us like slaves... Fuck right off.
+ You work us like dogs, and yet pay us like shit...
+ As if I`ll keep working under you. I`m quitting, bitch!"
+narrator,"──若いちんぴらがまた一人、 わかめ組を去っていった。
+かっては、オオサカを二分する力を持って いたわかめ組だが、内部崩壊が進みその力 は確実に低下しつつあった。","Yet another young thug left the Wakame Family.
+ The once mighty Wakame Family that controlled half of Osaka was now steadily losing its power due to internal conflicts."
+Chinpira (talking),姐さんっ……一大事ですっ！ いやせんか、姐さん、姐さんっ！！,"Chairwoman! We`re in trouble! Are ya there, Chairwoman?!"
+Ichihashi Ran (talking),…何だい、騒々しいね！ 今、連続テレビ小説の再放送を 見てるとこなんだよっ、あとにしな！,"What`s that ruckus for?! I`m watching the rerun of my TV dramas, dammit!"
+Chinpira (talking),それどころじゃねぇですぜ！ 悪司の野郎が攻めて来たんですよ！,It ain`t the time for that! Akuji`s attacking us!
+Ichihashi Ran (talking),何だって……本当かい！？ どうしてもっと早く言わないんだい！,What the- really?! Why didn`t you tell me sooner?!
+Chinpira (talking),だから、自前のカブを潰してまで お伝えに上がったんじゃねえですか！,I busted my ass to get here as quickly as I could!
+Ichihashi Ran (talking),"ち… こっちの予想以上に悪司の動きが 早かったってことかい……
+あんた、今すぐ元子をここへ呼びな。 西へ見回りに出てる筈だよ。","Tch... Akuji`s acting way sooner than I`d predicted...
+ Have Motoko come here immediately. She should be patrolling out west."
+Chinpira (talking),…へっ？ あ、あの…あっしがですかい？,...Huh? U-Um... Ya mean me?
+Ichihashi Ran (talking),あんたの顔見て言ったんだから 当たり前だろうにっ！,Who else could I be talking to?!
+Chinpira (talking),い、いやでもあっし、 自前のカブを今潰したばっかしで…,"B-But like I said, I busted my ass to get here..."
+Ichihashi Ran (talking),"馬鹿！　阿呆！　このトンチキ！ 親にもらった二本の足は 大根か牛蒡のできそこないかいっ！？
+走って行くんだよ、今すぐ！ さっさと行かないと蹴り飛ばすよ！","You fool! Stupid good-for-nothing! You have a pair of legs, don`t you?!
+ So get to it, right now! Or I`ll kick you away!"
+Chinpira (talking),へっ…へいっ！ 今すぐにっ！,G-Got it! Right away!
+Ichihashi Ran (talking),……ふ…ふふふっ。 本格的に面白くなってきたよ。 これからは退屈せずに済みそうだね…,Heh... heheheh! Things have gotten real interesting. I won`t be bored for a while...
+Kaga Motoko (talking),姉さん、来ました。 急ぎの用だとか。,"I`m here, Nee-san. You said there`s an urgent matter?"
+Ichihashi Ran (talking),ああ。悪司がとうとう うちのシマに殴り込んできてね。,Yes. Akuji has attacked our turf.
+Kaga Tarou (talking),……な、何じゃと？ それはまことか、お蘭！,"Wh-What did you say?! Is that true, Ran?!"
+Ichihashi Ran (talking),"……………
+元子、なんで親父さんまで 一緒なんだい？","...
+ Motoko, why is your father with you?"
+Kaga Motoko (talking),"見回りの最中にばったり会って、 少しの間、口喧嘩を。
+そこで報告を受けたので。","I met him by chance while patrolling. We were quarreling for a bit.
+ I got your summons then."
+Ichihashi Ran (talking),ああ、そういう事かい…,"Ah, so that`s how it is."
+Kaga Tarou (talking),お蘭、お主の事よ。 悪司と事を構える気じゃな？,"Ran, this is about you. You`re going to fight Akuji, no?"
+Ichihashi Ran (talking),まあ、そのつもりだけどね… それが何だい？,"Yes, that`s the idea. What about it?"
+Kaga Tarou (talking),悪司の組織を潰す任、 儂が引き受けようぞ。,Let me be in charge of crushing his group.
+Ichihashi Ran (talking),………………,...
+Kaga Tarou (talking),"…悪司は危険な男よ。 血の臭いがつきまとう男じゃ。 のさばらせる訳にはいかぬ。
+その意味で、儂とお主の 利害は一致しておる筈じゃ。
+儂に任せい、お蘭。 悪いようにはせぬ。","Akuji`s dangerous. Wherever he goes, blood always follows. We can`t let him do as he pleases.
+ I believe our interests should be aligned on this matter.
+ Leave it to me, Ran. I won`t fail."
+Ichihashi Ran (talking),"………………
+…元子。 いけるね？　頼むよ。","...
+ ...Motoko, you`re good to go, right? I`m counting on you."
+Kaga Motoko (talking),はい。,Yes.
+Kaga Tarou (talking),お蘭っ！,Ran!
+Ichihashi Ran (talking),"悪いけどね、じいさん。 あんたは信用できないんだよ。
+人間的にも、 能力的にもね。","Sorry, gramps. I can`t trust you to do it.
+ I`ve no faith in your ability, nor in your loyalty to me."
+Kaga Tarou (talking),な……,Wha-
+Ichihashi Ran (talking),"だいたい、あんたの部下どもに 悪司とやりあう覚悟はできてるのかい？
+ご隠居が、先代が、そして悪司が… 組に帰ってくれば、全て以前と 同じになるはずだ…
+そう思ってる連中が ほとんどなんじゃないのかい？
+悪司の奴は、 あんたが部下を説得するまで 悠長に待ってくれやしないよ。","Besides, are your men even determined to face Akuji?
+ If Akuji, his father, or Ippatsu were to come back, the Family`d likely \”return to normal\”.
+ Most of them think this way, no?
+ Akuji`s not gonna sit back and wait for you to convince your men to fight."
+Kaga Tarou (talking),ぬ………,Ngh...
+Ichihashi Ran (talking),──元子。 あんたなら、向こうのシマへ 攻めていくまで、どれだけ時間が要る？,...Motoko. How long will it take for you to attack their turf?
+Kaga Motoko (talking),下の者には前々から言ってあります。 今すぐにでも動けますが。,I`ve been instructing my men for a while. We can move whenever.
+Ichihashi Ran (talking),"…解ったかい？　じいさん。 あんたはお呼びじゃないんだよ。
+さあ、さっさと帰んな！ ここからはトップの領分だよ！ あたしら女の仕事なんだ！
+あんたみたいな枯れた爺さんは 家で猫抱いて茶でも啜ってな！","...You get that, gramps? I never asked for you.
+ Now scram! This is a job for the people in charge - us women!
+ A fossil like you can just stay at home drinking tea!"
+Kaga Tarou (talking),く……うう、ぐ……！！,Kh... Argh...!
+Kaga Motoko (talking),"お父様。
+心配しないで。 悪司は私の手で息の根を止めます。","Father.
+ Worry not. Akuji will die by my hand."
+Kaga Tarou (talking),"……ふん。 女に、しかも実の娘に 慰められるとはの……
+この加賀太郎も、 焼きが回ったわ！！","...Hmph. To think I`m being consoled by a woman, and my daughter at that...
+ I must be going senile!"
+Kaga Motoko (talking),そんなつもりは…,That`s not-
+Kaga Tarou (talking),黙れ！ お前の顔などもう見とうないわ！,Silence! I do not want to see your face anymore!
+Kaga Motoko (talking),………………,...
+Ichihashi Ran (talking),"気にする事はないよ、元子。 男なんてのはああいう生き物なんだ。
+やれプライドだ、やれメンツだ…
+自分が劣っていることも解らずに 女を見下して蔑むんだ。
+いちいち気にするだけ、 損なんだから。","Don`t mind him, Motoko. That`s just how men are.
+ It`s all about their dumb pride.
+ They look down on women while unaware of their own shortcomings.
+ So it`s a waste of time to worry about every little thing."
+Kaga Motoko (talking),…はい。,...Alright.
+Ichihashi Ran (talking),"くくっ…後悔するんだね悪司。 時代に乗り遅れたことを、 あの世で悔やむといいさ。
+ふふ…ふふふっ…… はははははっ……！","Heheh! You`ll regret this, Akuji. You can lament your stubborness in hell.
+ Heheheh... Hahahahaha!"
+Kaga Motoko (talking),………………,...
+narrator,"加賀元子、辻家晴子、森田愛、そして市橋蘭。 ここ執務室に、組の幹部全員が集まっていた。
+わかめ組幹部による、定例の報告会である。","Motoko, Haruko, Ai, and Ran. All of the Family`s execs were gathered in the office...
+ ...for a periodic debriefing session."
+morita  ai (talking),えっと、今月起こったショバのモメ事は 全部合わせてもそんなもんでござんす。,"Um, these were all the fights we had in our businesses this month."
+Ichihashi Ran (talking),ああ、解ったよ。 ご苦労だったね。,Got it. Good work.
+morita  ai (talking),へい、ありがとうでやした！ 森田愛、席に着かせていただきやす！,"Thank you very much! Morita Ai, taking her seat!"
+Ichihashi Ran (talking),……別に力まなくったって 席には着けるんだよ、愛……,"You don`t have to make a show of sitting down, Ai..."
+Tsujiya Haruko (talking),姉さん、私たちからの報告は これで全部終わりましたが…,"Chairwoman, that was the last of our reports."
+Ichihashi Ran (talking),"そうかい。 なら、解散……
+……いや、ちょっと待ちな。","I see. Then you`re dismis-
+ ...Actually, wait."
+Tsujiya Haruko (talking),何でしょう？,Yes?
+Ichihashi Ran (talking),前にもちょっと話したろう？ 悪司のことなんだけどね…,"I`ve mentioned it before, right? About Akuji..."
+Tsujiya Haruko (talking),あ…それは…… たしか元子さんが監視も含めて 全て処理していた筈です。,"Oh, that... I think we had Motoko-san handle everything, including monitoring him."
+Ichihashi Ran (talking),そうかい。 …元子、報告しておくれ。,"I see. ...Your report, Motoko."
+Kaga Motoko (talking),"はい。
+目立った動きはありません。 けれど、目立っていないだけ。
+力は蓄えているはずです。 確実に。","Very well.
+ He hasn`t made any noteworthy moves. Keyword being noteworthy.
+ He`s definitely still building up his strength."
+Ichihashi Ran (talking),……ふうん……,Hrmmm...
+Tsujiya Haruko (talking),"姉さん。 僭越ですが……
+彼がこの組で幹部をしていた頃の 働きを考えますと、 放置しておくのは…危険かと思います。","Chairwoman, this may be presumptious of me, but...
+ Thinking back on the times when he was a Family exec... leaving him be would be dangerous."
+Ichihashi Ran (talking),"そうだね… あれがこっちに報復するつもりなのは 明らかなんだしさ……
+先手を打って、潰しておこうかね。","Right. And it`s clear that he wants to retaliate aginst me...
+ Let us crush him first, then."
+Kaga Motoko (talking),"反対はしません。 ただ、理由が必要です。
+市議会から咎められると 厄介ですし。","No objections. However, we`ll need a reason.
+ It`d be bad to have the CC breathing down our necks."
+Ichihashi Ran (talking),"大丈夫だよ。 ミドリガオカはもともとあたしらの シマだったんだよ？
+喧嘩をふっかける理由なんて、 あとからいくらでも捏造できるよ。","Don`t worry. Midorigaoka was originally our turf, right?
+ We can come up with many reasons for fighting later."
+Kaga Motoko (talking),納得です。,Good enough for me.
+Ichihashi Ran (talking),さて…それじゃあ、 具体的にどうするかだけど……,"Now then, how exactly should we go about this?"
+ (talking),…………その任、 儂に請け負わさせてくれんか？,"...About that, could I ask you to let me take care of it?"
+narrator,その声と同時に障子戸が開き、 加賀太郎がスッと入ってくる。,"After the voice was heard, the room`s paper door slid open, and Kaga Tarou entered."
+Kaga Motoko (talking),…お父様。,...Father.
+Ichihashi Ran (talking),立ち聞きとは行儀が悪いね。 愛、その爺さんをつまみ出しな。,"Eavesdropping is so uncouth. Ai, throw this old codger out."
+morita  ai (talking),へいっ！ ご老体、すいやせんが お帰り頂きやす！,"Gotcha! Sorry old-timer, but I must ask ya to leave!"
+Kaga Tarou (talking),"随分な扱いよの。 儂はお前さんらに 協力するつもりで来たのじゃぞ？
+…話くらい聞いたらどうじゃ？","That`s some awful treatment. I have come here to help you, have you not noticed?
+ Won`t you at least hear me out?"
+Ichihashi Ran (talking),何を戯れ言を…,Cease with your jokes-
+Kaga Tarou (talking),"まあ聞け、お蘭。
+悪司の噂を聞いて以後、儂も考えた。 悪司を排除しようとするおぬしの判断、 儂は正しいと思う。
+…悪司は危険な男よ。 血の臭いがつきまとう男じゃ。 のさばらせる訳にはいかぬ。
+その意味で、儂とお主の 利害は一致しておる筈じゃ。","Just listen, Ran.
+ After hearing rumors about Akuji, I`ve been thinking. Your decision to eliminate him is correct.
+ He`s a dangerous man. He absolutely reeks of blood. We can`t let him go unchecked.
+ As such, our interests should be aligned here."
+Ichihashi Ran (talking),"………………
+…元子、悪司を監視していたのなら、 向こうの内情はおよそ掴んでいるね？","...
+ Motoko, if you`ve been monitoring him, then you know Akuji`s situation."
+Kaga Motoko (talking),完全ではありませんが、およそは。,"Roughly, yeah."
+Ichihashi Ran (talking),ならいけるね？　頼んだよ。,Then can you take care of him?
+Kaga Motoko (talking),はい。,I can.
+Kaga Tarou (talking),お蘭っ！,Ran!
+Ichihashi Ran (talking),"悪いけどね、じいさん。 あんたは信用できないんだよ。
+人間的にも、 能力的にもね。","Sorry, old man. I can`t trust you.
+ Not your character, and not your competency."
+Kaga Tarou (talking),な……,Wha-
+Tsujiya Haruko (talking),"加賀様… 口を差し挟んで申し訳ありませんが。
+このように蘭姉さんの部屋へ 許可もなく入り込むこと自体、 礼を失した行為ではありませんか？
+この場はどうぞ、 お引き取り下さい。","Kaga-sama, I`m sorry to interrupt, but...
+ Haven`t you been insolent enough by coming to the Chairwoman`s room uninvited?
+ I must ask you to take your leave."
+Kaga Tarou (talking),過ぎた口を利くでないっ、 辻家の女房めが！ おとなしゅう家で家事でもしとれ！,"Don`t you talk to me like that, Tsujiya! You should go back and be a good housewife!"
+Ichihashi Ran (talking),"…この爺いっ！ 過ぎた口を利いてるのは どっちなんだいっ！！
+辻家はこの組の幹部なんだよっ！ そしてあたし直属の部下さ！ 忘れた訳じゃないだろうね！！
+それ以上舐めた事を言ってみな、 ただじゃすませないよ！！","...You old codger! YOU`RE the one who should watch his mouth here!
+ Tsujiya is one of our execs, and my direct subordinate! Don`t tell me you forgot!
+ Disrespect her any more, and you`ll pay for it!"
+Kaga Tarou (talking),ぬ……ぐ……！！,Ngh...!
+Kaga Motoko (talking),"お父様。
+心配しないで。 悪司は私の手で息の根を止めます。","Father.
+ Do not worry. Akuji will die by my hand."
+Kaga Tarou (talking),"くっ……！ 女に、しかも実の娘に 慰められるとはの……！
+この加賀太郎も、 焼きが回ったわ！","Kh! I can`t believe I`m being consoled by a woman, and my daughter at that!
+ I must be going senile!"
+Kaga Motoko (talking),そんなつもりは…,That is not what I-
+Kaga Tarou (talking),黙れ！ お前の顔などもう見とうないわ！,Silence! I no longer want to see your face!
+Ichihashi Ran (talking),それはこっちの台詞だよ… とっとと出ていきなっ！,That`s my line... Get out of here already!
+Kaga Tarou (talking),く…… この屈辱、忘れぬぞ…！,Kh... I won`t forget this humiliation!
+Kaga Motoko (talking),………………,...
+Ichihashi Ran (talking),"気にする事はないよ、元子。 男なんてのはああいう生き物なんだ。
+やれプライドだ、やれメンツだ… 自分が劣っていることも解らずに 女を見下して蔑むんだよ。
+いちいち気にするだけ、 損なんだから。","Don`t let it bother you, Motoko. Men are like that.
+ Prideful morons who look down on women, unaware that they`re the inferior ones.
+ Caring about what they say is a waste of time."
+Kaga Motoko (talking),………………,...
+Tsujiya Haruko (talking),"元子… 何なら私が代わってもいいのよ？
+悪司とも、やりづらくはない？","Motoko... I can take your place if you`d like.
+ Won`t killing Akuji be tough?"
+Kaga Motoko (talking),気にしないで。 私は大丈夫。,Do not worry. I`m perfectly fine.
+Tsujiya Haruko (talking),…そう。,...Alright then.
+Kaga Motoko (talking),………………,...
+Chinpira (talking),元子隊長、用意は全て終わりやした！ すぐにでも喧嘩へ出られやす！,"Boss, we`re ready! Give the order and we`ll kick some ass!"
+Kaga Motoko (talking),"……そう。
+なら、すぐに蘭姉さんへ連絡して。 今から始めるとだけ言えばいい。","...Very well.
+ Then go and contact Ran-nee-san. Tell her that it`s begun."
+Chinpira (talking),へいっ！,Got it!
+Kaga Motoko (talking),"……とうとう始まるのね。
+悪司……
+戦うからには、絶対に勝つ。 ……絶対に。","...So it`s finally starting.
+ Akuji...
+ If we`re to fight, then I`ll win. ...No matter what."
+Yamamoto Akuji (talking),……のわにいいいいいいっ！？ わかめ組の連中が殴り込んできたぁ！？,Whaaaaaaaat?! The Wakame bastards are invading?!
+Seinendan Jyoshi (talking),は、はい、今、その辻向こうから こっちへ向かっています。 物凄い人数ですっ……,"Y-Yes, they`re coming at us in great numbers from across the street!"
+Yamamoto Akuji (talking),ちっくしょー…… いきなりココへしかけて来んのかよ……,Fuck... Can`t believe they came straight here.
+__system__??,{D11 \ 0:,{D11 \ 0:
+Shimamoto Jun (talking),まずいですね…… もしここを落とされれば、我々は……,"This is bad... If this place falls, we`re-"
+__system__??,{D12 < 3:,{D12 < 3:
+Yamamoto Akuji (talking),……ちっ、んなもん解ってらー。 いちいち言うなよ、島本ぉ。,"Tch, you don`t hafta say it. I get it, Shimamoto."
+Shimamoto Jun (talking),加えて今、詰所に居る部下の数が あまりに少ない。 手を打つにも時間が……,"Not only that, but we have very few fighters on guard right now. We`re short on time, too..."
+Yamamoto Akuji (talking),"……だーかーらー！ 解ってるっつってんだろ！
+なーに、ソッコーで詰所が落ちるほど 向こうも戦力ある訳じゃねぇだろ。 今だけ保てばすぐに援軍を呼び戻すさ。","I fucking told you already, I get it!
+ It ain`t like they have enough men to crush us all at once, either. We just gotta survive this attack."
+Shimamoto Jun (talking),そうだと良いのですが……,I can only hope we do...
+Yamamoto Akuji (talking),…………………………,...
+__system__??,},}
+__system__??,{D12 > 2:,{D12 > 2:
+Yamamoto Akuji (talking),"……なあに、だーいじょうぶだ。
+こっちはおめーの忠告通り、 わかめ組が攻めてきた時のために キッチリ準備してある。","...Nah, it`s all good.
+ I listened to your warning and made sure to prepare for when they attacked."
+Shimamoto Jun (talking),確かに、人数で言うなら 若が状況に応じた指示を出すまでの 時間稼ぎはできる筈ですね。,"True, we should have enough people here to buy enough time for a counter-attack."
+Yamamoto Akuji (talking),みみっちい事言ってんじゃねーや。 時間稼ぎどころか勝負つけてやるさ。 任せろって。,"Buying time? Quit thinking so small. I`ll beat them straight-up, just leave it to me."
+Shimamoto Jun (talking),若のお手並み、拝見させて頂きます。,Then I`ll bear witness to it.
+Yamamoto Akuji (talking),おうよ。,You do that.
+Shimamoto Jun (thinking),……この程度の危機が 乗り切れない器ではないだろう。 見せて貰うぞ、悪司……,"...You should be able to overcome this much of a crisis. Show me what you got, Akuji..."
+__system__??,},}
+__system__??,},}
+Shimamoto Jun (thinking),とにかく、 モタモタしてても始まんねーよ。 喧嘩できるヤツを奥から全員呼んでこい。,"Anyway, we don`t got the time to be talking. Round up everyone able to fight."
+Shimamoto Jun (talking),は、はいっ！,Y-Yes!
+__system__??,{D12 < 3:,{D12 < 3:
+Yamamoto Akuji (talking),"……つったって、 人数足りんのか、おい……
+ちっ、今更んな事心配したって 始まらねーよ。 とにかくやるだけだぜ……！","...So I said, but we got barely anyone...
+ Tch, too late to worry about this shit now. I just gotta do this!"
+__system__??,},}
+__system__??,{D12 > 2:,{D12 > 2:
+Yamamoto Akuji (talking),"……けっ、 どこのボケナスだか知らねーが……
+喧嘩売りに来た事、後悔させてやらー。 見てやがれっ！！","Keh, I dunno which moron did it, but I`m gonna make them regret
+ ever picking a fight with us. You just watch, fucker!"
+__system__??,},}
+narrator,"ここに、わかめ組出張所と記された看板を掲げた プレハブ式の仮設事務所があった。
+これは、加賀元子率いる攻撃隊の前線基地として 用意されたものである。
+──今、その前線基地がにわかに活気づいている。
+男女入り乱れて二十人近いわかめ組組員が、 忙しく立ち働いていた。","There was a prebuilt temp office with a sign that read “Wakame Family branch”.
+ It was built as a forward base for the assault squad led by Kaga Motoko.
+ The base had suddenly become very active.
+ Twenty-or-so Wakame Family members were actively working around the base."
+Chinpira (talking),あにきイっ！　今連絡がありやした！ 人数分の長ドス揃ったそうでやす！,"Bro, we just got a message! They got blades for all of us!"
+tattooed yakuza (talking),よし、ご苦労……,"Nice, good work."
+tattooed yakuza (talking),"…………てめえらあっ！ 手ェ止めてこっち見やがれ！
+これから悪司の事ム所に攻め込む！ 二度目の出入りだ！
+いいか、今度はマジだ！ 向こうもこっちも大マジだ！ 小手調べの前回とは訳が違う！
+直に斬り込む連中は気ィ締めろ！ 支える後援隊もぬかるんじゃねえぞ！
+戦場でおっ死んでたはずの悪司の幽霊、 今こそ墓場に送り返すぜえっ！！","...Stop what you`re doing and pay attention, you bastards!
+ We`re gonna attack Akuji`s office a second time!
+ This time, we`re serious! And they`ll be, too! Nothin` like that skirmish last time!
+ Frontliners, strap up! Those on support duty, stay sharp!
+ Akuji may have survived the war, but he ain`t gonna survive US!"
+narrator,"その号令を受けて、 その場の組員たちが、おうっ、と大声で応えた。
+それを合図に、 景気づけの樽酒がふるまわれ始める。
+──だが、連中の隊長であるはずの 元子の姿は、なぜかここには見あたらなかった。","With that command, the Family members roared in response.
+ Following that, sake began to be poured for everyone to boost morale.
+ However, the supposed commander of this unit, Motoko, was nowhere to be seen."
+narrator,仮設事務所のすぐ側、河原の土手道。 元子は一人、そこに居た。,Motoko was at the causeway right next to the temp office by herself.
+Kaga Motoko (talking),"………………
+悪司……","...
+ Akuji..."
+Lover (talking),……探しましたよ、元子隊長。 ここにいらしたのですか。,"...Been looking for you, Captain. So this is where you were."
+Kaga Motoko (talking),……ええ、何？,"...Yes, what is it?"
+Lover (talking),"準備、終わりました。 あとは隊長の指示を…………
+……隊長？ 手に持っているのは、指輪、ですか？","We`re all ready. All that`s left are your ord-
+ ...Captain? Is that a ring you`re holding?"
+Kaga Motoko (talking),オモチャのね、ガラス玉。,"A toy one with a glass gem, yes."
+Lover (talking),何故、そんなものを？,Why do you have that?
+Kaga Motoko (talking),"………………
+そこで、拾ったの。 子供が落としていったんだと思う。","...
+ I picked it up over there. A kid might have dropped it."
+Lover (talking),その割に…… 大事そうにポケットへしまうのですね。,"You say that, but you`re storing it like it`s important."
+Kaga Motoko (talking),"綺麗だったから。
+………………
+ひとつ、あなたに訊かせて。","Because it was pretty.
+ ...
+ Let me ask you something."
+Lover (talking),何をでしょうか？,Yes?
+Kaga Motoko (talking),あなたに幼馴染は居た？ 男の子の。,Were you childhood friends with a boy?
+Lover (talking),……そう、ですね。 従兄弟に居ましたが、それが何か？,"...I was, yes. My cousin. What about it?"
+Kaga Motoko (talking),好きだった？,Did you like him?
+Lover (talking),いえ、別に……,"No, not really..."
+Kaga Motoko (talking),…そう。,...I see.
+Lover (talking),"…………あ、忘れるところでした。 本部から隊長にお手紙が届いています。
+加賀太郎様からで、 出撃前に読むように、と。","...Oh, I almost forgot. HQ`s sent you a letter.
+ It`s from Tarou-sama, said you ought to read it before attacking."
+Kaga Motoko (talking),"お父様から？
+…読まないから、処分しておいて。","From my Father?
+ ...I`m not reading it."
+Lover (talking),えっ？　しかし隊長……,Huh? But Captain-
+Kaga Motoko (talking),"ここ数日、ずっと同じ手紙が。 内容は解っているから。
+攻め込む時は儂を呼べ、加勢する。 ……それだけ。","He`s been sending me the same letter the past few days.
+ “Call me when you attack, I`ll back you up”, every time."
+Lover (talking),それなら尚のこと、 助力をお願いした方がよろしいのでは？ 戦力は多いに越したことは……,"Isn`t all the more reason to ask for his aid, then? It never hurts to have more men-"
+Kaga Motoko (talking),"…………
+悪司には、私が引導を渡すの。必ず。","...
+ I will kill Akuji. Without fail."
+Lover (talking),"手柄、ですか？ それとも何か恨みでも……
+……あ、いえ、 話せることでないのなら、 別に構いませんが。","For the feat? Or maybe because of some grudge you have...
+ ...Oh, no, if it`s something you`d rather not talk about, then I don`t mind."
+Kaga Motoko (talking),恨みよ。 強いて言うなら。,"It is a grudge, if I had to say it."
+Lover (talking),そうですか…… ならば、負けられませんね。,Really... Then we can`t lose.
+Kaga Motoko (talking),ええ。,Yes.
+Kaga Motoko (thinking),………………,...
+__system__??,{●ヒロイン = 1:,{●ヒロイン = 1:
+Kaga Motoko (thinking),"中華屋の娘なんかに…
+戦時中も、 心配していたのは私だけで…
+どうせ悪司は、私なんて…","I lost to that Chinese girl...
+ Even during the war, I was the only one worried...
+ Akuji never cared..."
+__system__??,},}
+__system__??,{●ヒロイン = 6:,{●ヒロイン = 6:
+Kaga Motoko (thinking),"あんなイタリア女に騙されて… それに気付きもしないで…
+私の存在なんて、 最初からなかったみたいに…
+……いつかは目が覚めるって… ずっと信じてたのに…","He was deceived by that Italian woman and hasn`t even noticed it...
+ It`s like I never existed from the very start...
+ And I`d always believed he`d come to his senses someday..."
+__system__??,},}
+__system__??,{●ヒロイン = 5:,{●ヒロイン = 5:
+Kaga Motoko (thinking),"あんな、押しつけられた許嫁と 簡単に結婚して……
+いくら一発さんの指示だからって…… 見知らぬ他人と……
+何故……？　どうして……","He just up and accepted the marriage that was forced on him...
+ Even if it was Ippatsu-san`s order, marrying a stranger is...
+ Why? I don`t understand..."
+__system__??,},}
+Kaga Motoko (thinking),"………………
+いえ、私が馬鹿なだけ。
+小さい頃の約束なんて、守っても…
+…今は、ただ斃す。 悪司は敵なのだから。","...
+ No, I was simply a fool.
+ Keeping such an old promise...
+ ...Now, I will simply kill him. Akuji is my enemy."
+narrator,"元子はポケットに手を入れて、 その中にあった玩具の指輪を握りしめる。
+そして暫時、何かを躊躇って──
+──結局、指輪をそのまま中に残して 元子はポケットから手を出した。","Motoko placed her hand in her pocket and grasped the toy ring inside.
+ She then seemed to hesitate for a while-
+ -But in the end, she left the ring inside her pocket and took her hand out again."
+Ichihashi Ran (talking),"………………
+く……くくっ、はははははっ。
+あんたねえ、 冗談は顔だけにしておくれよ。","...
+ Keheh...! Hahahahaha!
+ Keep your jokes  to yourself."
+Elite Yakuza (talking),いえ、姐さん…… 残念ながら本当です。,"No... I`m afraid it`s true, Boss."
+Ichihashi Ran (talking),"…………本当な訳があるかいっ！
+あの元子があれだけの組員を 連れて出て、負けちまうなんてっ！！","There`s no way it can be!
+ As if Motoko could lose with that many men with her!"
+Elite Yakuza (talking),"……加賀隊長、抗争中に倒れ行方不明。 確かな情報です。
+疑う余地は、ありません。","We know for sure that she fell in battle and has since disappeared.
+ There is no room for doubt."
+Ichihashi Ran (talking),"………………
+これ以後、奉仕青年団とやりあう時は 元子の弔い合戦になるよ。
+組の連中にそう伝えな。 気を締め直せってね。","...
+ From now on, our war with the YCSG is also to avenge Motoko.
+ Tell that to everyone. Fire yourselves up even further."
+Elite Yakuza (talking),…はいっ。,"Yes, ma`am!"
+Ichihashi Ran (talking),"どんなセコイ手使ったのか 知らないけどね……
+悪司の奴っ……！","...I don`t know what cheap trick you used, but...
+ Damn you, Akuji...!"
+narrator,"プレハブ建てのわかめ組前線基地、仮設出張所。
+ここに詰めている組員たちは、 奉仕青年団へ三度目の決闘を仕掛けるための 準備に追われていた。","Wakame Family forward base, temp branch office.
+ The Family members placed here were preparing for their third assault on the YCSG."
+Kaga Motoko (talking),…どう？　準備の進み具合は。,How`s the prep coming along?
+Chinpira (talking),"あ、加賀隊長っ。
+ええと…へい、順調に行っとりやす！ もうすぐでさあ！","Ah, Captain Kaga!
+ Uuh... Yep, lookin` good! We`re almost ready!"
+Kaga Motoko (talking),"そう、頑張って。
+ところで…… 何か、連絡は？","Good, keep at it.
+ By the way... Were we contacted?"
+Chinpira (talking),へっ？　連絡、でやすか？ 組本部からでやすか？,Huh? Contacted? Ya mean by the HQ?
+Kaga Motoko (talking),"いえ、悪司…… 奉仕青年団から。
+例えば、降伏する、とか。 そういう類の。","No, from Akuji... From the YCSG.
+ For example, that they`re surrendering, or some such."
+Chinpira (talking),"まさかあ、ある訳ございやせんや。 ダニ・ノミ・ゴキブリよりしぶとくて 諦めの悪い男でやすぜ？
+どーせ、てめぇが死ぬまで 徹底抗戦しやがるに決まってやさあ。","Nah, no way. That guy`s like a cockroach, and stubborn as fuck, too.
+ He prolly intends to fight until one of you dies."
+Kaga Motoko (talking),…そうね。,...You`re right.
+Kaga Motoko (thinking),"私が相手だと、 悪司にはとっくに知れているはず…
+なのに、何もなし…
+……別に、それならそれでいい。
+叩き潰して跪かせるだけだから。","Akuji must already know that I`m his opponent here.
+ Yet he won`t do anything...
+ ...Well, that in itself is fine.
+ Because I`ll make him kneel."
+Elite Yakuza (talking),……失礼。 加賀隊長、このような人気のない裏手に おいでとは思いませんでしたよ。,"...Excuse me. Captain Kaga, I didn`t expect you to come to such a quiet back lot."
+Kaga Motoko (talking),"……？
+誰？　私の隊の者じゃない…","...?
+ You`re not one of my men..."
+Elite Yakuza (talking),お解りになりませんか？,Do you not know me?
+Kaga Motoko (talking),"……ああ、 お父様の下にいる……
+何の用？　この忙しい時に。","...Right, you work for my Father.
+ What is it? I`m busy."
+Elite Yakuza (talking),"また随分と素っ気ないお言葉を……
+私、お父上から陣中見舞いとして 樽酒をお届けに参ったのです。 どうぞ、お納めを……","As curt as usual...
+ Your father sent me here with sake to boost morale. Please, give the men some-"
+Kaga Motoko (talking),陣中見舞い？　お父様から？,Boost morale? My Father?
+Kaga Motoko (thinking),私を……応援して下さる？ お父様が……,Father is... aiding me?
+Elite Yakuza (talking),………………,...
+Kaga Motoko (talking),…有り難う、頂きます。 お父様によろしく伝えて。,"...Thank you, I shall accept it. Give my Father my thanks."
+Elite Yakuza (talking),承りました。 あと、これを……,"Understood. Also, here..."
+narrator,その男は、一合升になみなみと注がれた 酒を一杯、元子に手渡した。,The man filled a cup with sake and handed it to Motoko.
+Elite Yakuza (talking),今しがた樽から抜いたものですが、 どうぞ、味をお確かめ下さい。,"This sake was just taken from the barrel. Please, have a taste."
+Kaga Motoko (talking),私、お酒はあまり…,I don`t really like sake.
+Elite Yakuza (talking),"今では貴重な純米酒だから、 届けた際は是非、全員に振る舞う前に 元子に一口飲ませてやってくれ……
+お父上から、そう仰せつかりまして。","This is precious junmai sake, so I was told to make sure you have some before distributing it.
+ Orders from your father."
+Kaga Motoko (talking),……そう。なら頂きます。,I see. Then I`ll have some.
+narrator,受け取って、元子は升に口をつける──,Motoko brought the cup to her lips.
+Kaga Motoko (talking),確かに…美味しい。 けれど、私には半分で精一杯…,It is certainly delicious. But I can only manage half...
+Elite Yakuza (talking),"構いませんよ、半分も飲めば。
+升に塗った薬は、充分効く筈ですから。","That`s perfectly fine.
+ The drug should still work."
+Kaga Motoko (talking),……？　……ぅ…………,...? ...ngh...
+narrator,"突然、元子は強烈な眠気に襲われ、 升酒を取り落とし、その場でがくりと膝をつく。
+何とか立ち上がろうとしたが、無駄だった。 ──じきに、意識が途絶えた。","Suddenly, an intense drowsiness assaulted Motoko, who dropped the cup and fell to her knees.
+ She tried to stand, but to no avail. Her consciousness gradually faded."
+Kaga Motoko (talking),"…………ぅ……
+……ここ、は……
+……くっ。 手も足も、縛られてる……","...nh...
+ ...Where am I...?
+ Kh...! I"
+dosuyakuza (talking),……へへ、へへっ。 よーやっとお嬢様がお目覚めだぜ。,...Heheheh! The princess has finally woken up.
+Kaga Motoko (talking),……！　何者っ……,! Who are you?
+dosuyakuza (talking),何者でもいいじゃねえかよ。 さーて、たっぷり楽しもうや。,"You don`t need to know. Now, let`s have lotsa fun..."
+narrator,刃物をちらつかせながら近付いてきた男は、 やおら元子の胸を鷲掴みにする。,"Brandishing a knife, the man slowly approached Motoko and grabbed her breasts."
+Kaga Motoko (talking),"……！
+手を、離せ……！ 触るな、汚い……！","...!
+ Take your dirty hands... off of me!"
+dosuyakuza (talking),そう言うなよ、これからその汚い手が あんたを汚しまくるんだからよ。,"Don`t be like that, these hands are gonna get you even dirtier."
+Kaga Motoko (talking),"な……！？
+……そ、うか…… 悪司が……
+悪司に雇われて、こんな……！","Wha-?!
+ ...I see... So Akuji...
+ Akuji hired you to do this...!"
+dosuyakuza (talking),はぁ？　何言ってんだ？,Huh? What`re ya talking about?
+Kaga Motoko (talking),とぼけても…… こんな真似、思いつくのは……,Don`t play dumb... He`s the only one who`d-
+ (talking),……残念じゃが、それは違うぞ。,"...Sadly, you`re wrong."
+Kaga Tarou (talking),……儂じゃよ、元子。,"It was me, Motoko."
+Kaga Motoko (talking),お……お父様っ……！,F-Father!
+Kaga Tarou (talking),"しかし…… 親の心子知らずとはよう言うたものよ。
+儂の手紙を無視して 一人で悪司に挑むとはの……","Still... they do say children don`t know how loved they are.
+ For you to ignore my letters and take on Akuji by yourself..."
+Kaga Motoko (talking),お父様、違います。 私は……,"You`re mistaken, Father. I-"
+Kaga Tarou (talking),"やかましいわっ！
+女狐の言うなりになって、 百発や儂が身を粉にして守り続けた組を 我が物顔で牛耳る腐りきったその性根！
+そうまでして男共の上に立ちたいか！ この父を足蹴にしたいのかっ！","Silence!
+ You became that bitch`s lapdog and ruined the Family I and the others worked so hard to protect!
+ Do you wish to stand above men and disrespect me that badly?!"
+Kaga Motoko (talking),"お父様、私は……
+女の……時代になって…… 私しかいなくて……","Father, I...
+ It is now... the age of women... And there was no-"
+Kaga Tarou (talking),"仕方なく、とでも言うつもりか？ 笑わせるでないっ！
+お前なら知っておろうが！ 儂がいかに百発と共に組を守り、 そして組を育ててきたのかを！
+儂の気持ちが汲み取れぬとは 断じて言わせぬぞ！","No other way? Is that what you want to say? What a joke!
+ You should know how hard I and Hyappatsu worked so the Family could prosper!
+ Don`t you dare tell me you don`t understand how I feel!"
+Kaga Motoko (talking),………………,...
+Kaga Tarou (talking),"……こんな旧世代の真似は しとうなかったが、もはや致し方ない。
+女狐から組を取り戻すとなれば、 一番の障害は奴の右腕であるお前よ。
+……だが、いくら儂でも 実の娘を殺すのは忍びない。
+もはや娑婆へは戻れぬよう 奈落の底へ突き落としてくれるわ。","...I didn`t want to resort to this, but there was no choice.
+ You`re the bitch`s right-hand woman, and our biggest obstacle.
+ ...But even I cannot bring myself to kill my own daughter.
+ I`ll throw you into hell so you may no longer return."
+Kaga Motoko (talking),お……父、様……,Fa... ther...
+Kaga Tarou (talking),"………………
+これ以上、素人衆に迷惑をかける 内ゲバの抗争を続ける訳にはいかぬ。
+儂を恨むなら恨め、元子。
+そして、 任侠の娘に生まれた我が身を呪え。
+儂は…… 女狐から組を取り返さねばならんのだ。","...
+ We can`t let this internal strife go on any longer.
+ Resent me if you must, Motoko.
+ And curse yourself for being born the daughter of a yakuza.
+ I must take the Family back from that bitch."
+Kaga Motoko (talking),……お父様！　待っ…………,"Father, wait...!"
+dosuyakuza (talking),……へへっ、話は終わったみてえだな。,"Heheh, looks like you`re done."
+Kaga Motoko (talking),……っ。 寄るなっ……,...! Stay away...!
+dosuyakuza (talking),"寄らない訳にいかねえよ。 寄ってかねぇと、お嬢様の中に ぶち込めねぇからな。
+それにな、後が支えてんだよ。 もうじき、俺の他にも 何人か来るはずだからよ……","As if. I can`t fuck you if I don`t come closer.
+ Oh, and try not to break. All of my buddies will be here soon, you see..."
+Kaga Motoko (talking),な……,Wha-
+dosuyakuza (talking),"俺の他にも、おやっさんの部下数人が 呼ばれて控えてんだよ、解るか？
+要するにな、お嬢様。 あんたは今から輪姦（まわ）されるのさ。","There are more of his men waiting to get here, get it?
+ In other words, princess, you`re about to get gangraped."
+Kaga Motoko (talking),"……………… い……嫌っ…………
+嫌ああああああああああああっ！！","... No...
+ NOOOOOOO!!!"
+narrator,──その頃、仮設出張所に居る部下たちは 必死で元子を探し回っていた。,"Meanwhile, the Family members at the forward base were desperately searching for Motoko."
+Lover (talking),……どう？　加賀隊長は居た？,Well? Did you find her?
+Chinpira (talking),だめです、 手がかり一つありやせん…,"No, we don`t have a single clue..."
+Lover (talking),何て事… 今、悪司に先手を打たれたら……,This is terrible... If Akuji were to attack us now...
+Chinpira (talking),……とにかくあっしは もう一回聞き込みに回ってきやす！,"Anyway, I`ll go ask around one more time!"
+narrator,だが、彼らが街をどんなに探しても、 元子が見つかるはずはなかった──,"However, no matter how much they searched the city, they couldn`t find Motoko..."
+Elite Yakuza (talking),姐さん、大変ですっ……！,"This is bad, Boss!"
+Ichihashi Ran (talking),"どうしたんだい、血相変えてさ。
+ああ……さては、 元子が悪司の首でも携えて 凱旋してきたかい？","What happened? You look terrible.
+ Ah... perhaps you`ve seen Motoko bringing Akuji`s head to me herself?"
+Elite Yakuza (talking),いえ、その逆です！ ミドリガオカに攻め入った部隊が 全滅したとの報せが……！,"No, it`s the opposite! The squad that attacked Midorigaoka has been wiped out!"
+Ichihashi Ran (talking),……………… 冗談はおよしよ、元子がそんな……,"... What a joke, Motoko wouldn`t-"
+ (talking),……冗談ではないぞ、お蘭。,"...It`s not a joke, Ran."
+Kaga Tarou (talking),悪司と元子では格が違う。 この結果は成るべくして成ったことよ。,Akuji was stronger than her. This is the result.
+Ichihashi Ran (talking),加賀の爺い……？,Old man Kaga...?
+Elite Yakuza (talking),"あの、姐さん。実は……
+攻撃隊の全滅を報せて下さったのは、 この、加賀のおやっさんでして……","Um, you see, Boss...
+ Old man Kaga here is the one who gave us that report..."
+Kaga Tarou (talking),"…これでも儂は元子の父親よ、 我が子可愛さと笑ってもよいが、 部下に元子を見守らせておったのだ。
+皮肉な結果になったが、 お陰で一部始終は見届けておる。 間違いないわえ。","...I`m still her father. You may laugh at me being overprotective, but I had my men watch over her.
+ The outcome may have been ironic, but it let us witness it all. There`s no mistake."
+Ichihashi Ran (talking),"な……
+何が我が子可愛さだよっ、 それなら元子に援軍を送るなり したらどうなんだいっ！","What...?
+ Overprotective?! If you really were so, then why didn`t you send her reinforcements?!"
+Kaga Tarou (talking),儂は信用できぬ故動くなと、 そう言うたのはお前さんじゃろうが。,You`re the one who told me to stay put since you don`t trust me.
+Ichihashi Ran (talking),人の言質の揚げ足をっ……,You damned weasel...!
+Kaga Tarou (talking),"……それに、悪司に敗北を喫したその時、 元子は抗争の現場におらんかったのじゃ。
+どうも、部下の報告を訊く限り、 悪司の奸計にでも填ったようでな…
+元子の指示が無くなったところを 敵に攻められて、 ひとたまりもなかったようじゃ。","Also, when she was defeated, Motoko vanished from the battlefield.
+ From what I can tell, she may have fallen into Akuji`s trap...
+ Without Motoko`s orders, an enemy attack routed her men easily."
+Ichihashi Ran (talking),………………,...
+Kaga Tarou (talking),"ともかく、部隊は全滅、 そして元子は行方不明……
+これは、事実じゃ。","Either way, Motoko is missing and her squad was wiped out.
+ These are facts."
+Ichihashi Ran (talking),実の娘が行方不明になった割に、 えらく冷静だねえ、あんた……,You`re pretty calm for someone whose daughter has gone missing...
+Kaga Tarou (talking),"はて……我ながら驚いておるよ。 もう少し取り乱しても良いのに、とな。
+じゃが、お主も知っての通り、 儂と元子は互いにいがみ合うておった。
+その、反目する心が、 親としての情愛をすでに 上回っていたのやもしれん。","Even I am surprised. I thought I`d be more shaken up.
+ But as you know, I had a fight with Motoko.
+ Perhaps that enmity I harbor now surpasses my love for her as her father."
+Ichihashi Ran (talking),………………,...
+Kaga Tarou (talking),"じゃがな、お蘭。 馬鹿娘と思いはすれど、儂は、 この仇はとってやらねばと思うておる。
+兵隊と軍資金を貸すのじゃ。 儂が、悪司の首を取ってこよう。
+儂ならば、元子と同じ轍は踏まぬよ。","But don`t be mistaken. While I may have thought of her as a foolish daughter, I also want to avenge her.
+ Lend me some men and funds. I shall take Akuji`s head.
+ I won`t make the same mistakes."
+Ichihashi Ran (talking),………少し、考えさせておくれ。,...Let me think about it.
+Kaga Tarou (talking),うむ、良い返事を期待しておるぞ。 元子のためにもな。,"Very well. I await a favorable response, for Motoko`s sake."
+Elite Yakuza (talking),姐さん…… 加賀のおやっさんの力を お借りになるおつもりで？,Boss... Are you going to rely on old man Kaga?
+Ichihashi Ran (talking),"馬鹿言ってんじゃないよ。
+元子の敵（かたき）はあたしが取る。 あたしの手駒はまだあるんだからね。
+……仮に手駒が尽きたとしても、 元子の大事に平然としてるクソ爺いに 誰が助けてくれって言うもんかいっ！","Don`t be stupid.
+ I will avenge Motoko. I still have some pawns with me.
+ ...And even if I didn`t, I`d never ask that old fuck for help after he was so calm about this!"
+Elite Yakuza (talking),姐さん…………,Boss...
+Ichihashi Ran (talking),"……あの爺い、どうにも臭いよ。 しばらく見張りをつけといておくれ。
+それと、元子の痕跡を追っておくれ。 あの子が結局どうなったのか、 信用できる報告が欲しい。","...That geezer is fishy. Keep an eye out for him for a while.
+ Also, look into what happened to Motoko. I want to know the truth from someone I can trust."
+Elite Yakuza (talking),はっ、直ちに。,"At once, Ma`am."
+Ichihashi Ran (talking),"……………… 元子が……行方不明……
+無事でいておくれよ、元子……","... Motoko`s missing...
+ Please be safe, Motoko..."
+Kaga Tarou (talking),誰ぞおらぬか。,Is anyone here?
+Chinpira (talking),……これは加賀のおやっさん。 おかえりなさいやし。,..If it ain`t old man Kaga. Welcome back.
+Kaga Tarou (talking),挨拶など良い。 お蘭は今どこにおる？,Spare me the greetings. Where`s Ran?
+Chinpira (talking),"姐さんでしたら… たしか庭先で池の鯉に 餌をやってるんじゃないかと…
+何か、姐さんにご用で？","If yer lookin` for the Chairwoman, I think she`s feeding the carp in the garden`s pond.
+ What, you got business with her?"
+Kaga Tarou (talking),口が達者で態度だけ人一倍の女狐めを 大声で笑いに来たのじゃよ。,I came here to laugh at that haughty bitch.
+Chinpira (talking),お、おやっさ……？,O-Old man...?
+Kaga Tarou (talking),池の方に居るんじゃな… 勝手させて貰うぞ。,"She`s by the pond, eh? I`ll take the liberty, then."
+Chinpira (talking),おやっさん……,Old man...
+Ichihashi Ran (talking),…そうかい。 悪司のやつ、そこまで……,...Is that so? That damned Akuji made it this far...
+narrator,"蘭は呟きながら、 手にした鯉の餌を池に撒いた。
+餌を求めて集まってきた鯉たちが ばしゃばしゃと水面で跳ね回る。","Ran sighed as she dropped fish bait in the pond.
+ Hungry for their food, the carp swam around the pond`s surface."
+Ichihashi Ran (talking),……気に入らないね。,...I don`t like this.
+Lover (talking),は……？,Huh?
+Ichihashi Ran (talking),"戦中、そして戦後の混乱期、 男共の不在を支えて来たのは このあたしだよ。
+組がこれまで以上に発展するよう、 思いつく限りの事はやってきたさ。","While the men were gone during and after the war, I`m the one who kept the Family afloat.
+ I did everything I could think of to develop the Family even further."
+Lover (talking),………………,...
+Ichihashi Ran (talking),"なのに何だい、こりゃ。
+あんな発足間もない素人衆に… どうしてうちが押されてるんだい？
+押されてるってことは、向こうの方が 組織力が上だってことじゃないか。
+気に入らない… 気に入らないね……っ！
+ええっ！？　こりゃどういう事だい！ ……なんとかお言いよ！！","So how is this happening?
+ How could that group of amateurs have pushed us back this far?
+ For that to happen, their strength as a group must be superior.
+ I don`t like this... Not one bit!
+ Argh!! What the hell is up with this?! ...Say something!"
+Kaga Tarou (talking),……儂が答えてやろうか？　お蘭よ。,"...Want me to answer that, Ran?"
+Ichihashi Ran (talking),っ……加賀の爺い、また勝手に！,"Tch, you again, old man Kaga?!"
+Kaga Tarou (talking),素直に認めたらどうぞ。 要するに悪司の方が、 お主より上手（うわて）だと言う事よ。,"How about you accept the facts? Simply put, Akuji is more skilled than you."
+Ichihashi Ran (talking),うるさい爺いだね！　帰んな！！,"Shut up, gramps! Get out!"
+Kaga Tarou (talking),"お蘭よ、今の儂はたしかに ゴミクズ同然の老いぼれよ。
+じゃがな、先々代、先代、 そして悪司のやり方を、 儂はずっと見てきておる。
+儂なら悪司の組織を切り崩し、 奪われたシマも取り戻す自信がある。
+…お蘭、 必要な部下と資金を儂に寄越せ。 悪いようには……","Ran, it`s true that I`m now a decrepit, worthless old man.
+ However, I`ve seen how Akuji and the former Chairmen have operated for a long time.
+ I`m confident I can strike at his group and regain our turf.
+ ...Ran, give me the men and resources I need. I`ll put them to good-"
+Ichihashi Ran (talking),何度も言わせるんじゃないよ！ あんたは必要ない、下がりな！,"How many times must I say it?! You`re not needed, so scram!"
+Kaga Tarou (talking),お蘭っ…,Ran-!
+Lover (talking),"…組長。 私、考えたのですが……
+基本的には組と全く関係のない外部、 たとえば海向こうのシコクから 凄腕を雇う…というのはどうでしょう。","Boss, I have an idea...
+ How about we hire some experts from outside the Family, like those mercs from Shikoku?"
+Ichihashi Ran (talking),"なるほどね…… 身内でうまく対処できないなら 外部に任せてみるのも一興か。
+今、シコクと言ったけれど、 その凄腕とやらに 心当たりがあるのかい？","I see... If our men aren`t enough to beat Akuji, then we must simply find some more.
+ You mentioned Shikoku. Do you already have some of those mercs in mind?"
+Lover (talking),はい。 うってつけかと思われる男の存在を 何度か耳にしたことがあります。,"I do. I`ve heard about this one man several times, and I think he`s perfect for the job."
+Ichihashi Ran (talking),男ねえ… 使い捨てると思えば我慢もできるか…,"A man, huh? Guess I can tolerate it if I see him as a throwaway."
+Kaga Tarou (talking),"ま…待て、お蘭！ それは危険ぞ！
+信頼関係もなく、素性も知れず、 そんな相手を金のみで雇うとなれば ただの博打ではないか！
+正道を行く“その筋の者”なら、 そう簡単に地元を動けはせぬ！ それが一端の男ならなおさらじゃ！
+自分の身に置き換えて考えてみよ！ 金を積まれただけで動く人間など いかに凄腕だとて信頼には足らぬ！","W-Wait, Ran! That`s dangerous!
+ Hiring someone you don`t know and who only answers to money is a gamble at best!
+ A righteous fighter wouldn`t leave his homeland that easily, especially if they`re of some renown!
+ Put yourself in my shoes for a moment! No matter how good he is, you can`t trust him!"
+Ichihashi Ran (talking),黙りな！　あんたの意見なんざぁ 聞いちゃいないんだっ！,Silence! I never asked for your opinion!
+Kaga Tarou (talking),"これだけ言うてもまだ解らぬか！ 考え直せ、お蘭！
+もはや、 聞く耳すら持たぬと言うなら…… 穏便になどとはもう思わぬ！
+この加賀太郎、力尽くででも お主を止めてみせようぞ！！","Do you still not get it?! Please reconsider, Ran!
+ If you still refuse to listen... Then I`ll have to force you to do so!
+ I, Tarou Kaga, shall do everything in my power to stop you!"
+Ichihashi Ran (talking),"…………
+黙れ、と何度言わせる気だい。 このクソ爺い。
+何十人とけしかけて、 無理矢理つまみ出しても あたしゃ全然構わないんだ。
+この組が血の海になるまで、 一人で戦い続ける覚悟があるなら ドスでも何でも抜きなよ。そら。","...
+ When will you shut up, you shitty old man?
+ I don`t care how many men you instigate to force me out. If you`re ready to keep
+ fighting alone until the Family becomes a bloodbath, then pull out your weapon. Go on."
+Kaga Tarou (talking),………………っ、く……,...Kh...!
+Ichihashi Ran (talking),"……お利口だね、それでいいんだよ。
+さて…凄腕の件、万事任せたよ。 今すぐシコクへ飛んでおくれ。","...Obedient, aren`t you? Good.
+ I`ll leave the mercs to you. Fly out to Shikoku ASAP."
+Lover (talking),解りました、急いで。,"Understood, I`ll hurry."
+Ichihashi Ran (thinking),"………………
+人間なんざ皆一緒… 餌に群がる鯉みたいなもんさ。
+餌があると思えばそこに殺到する。 餌を撒く人間の思う通りにね。
+悪司のやり方は解ってるんだ。 女、金、快楽… 餌を撒いて人を動かして…
+…あたしの若い頃は、 ずっとただ餌にされ続けた……
+男なんてどいつもこいつも 同じなんだよ。
+どいつもこいつも…
+違ったのは、一人だけ…
+………………
+けれど、それも嘘だった。 結局あたしを置き去りにして 居なくなっちまった……
+あたしに、 一言も言い残さずに…
+……今のあたしは、餌とは違う。 鯉を集める人間になったんだ。
+群がる男を顎で使って、 思い通りに動かしてみせる…！
+…ご隠居……
+あんたに置き去りにされたって、 あたしは……
+あんた以上に、 強く図太く生きてみせる…！","...
+ Humans are all the same... They`re just like these carp.
+ Give them some bait, and they`ll dance to the feeder`s tune.
+ I know how Akuji operates. Women, money, pleasure... He controls people with such bait.
+ ...When I was young, all I did was be used as bait...
+ Every man out there is the exact same.
+ Every one of them...
+ With only one exception...
+ ...
+ However, that was also a lie. In the end, he left me behind and disappeared...
+ Without leaving me a single word...
+ ...I`m no longer bait. I`m the one who hands it out now.
+ I`ll work those greedy men to the bone, however I see fit!
+ ...Ippatsu...
+ You may have left me behind, but...
+ I`ll show you that I can be stronger and bolder than you!"
+Ichihashi Ran (talking),何だい……？ えらく玄関先が騒がしいようだけど…,What`s going on? It`s awfully noisy near the front gate...
+Chinpira (talking),あっ…姐さん、何か変な奴らが 姐さんを訪ねて来てんですがね…,"Ah, Boss! Some weird guys are saying they`re here to see you."
+Ichihashi Ran (talking),変な客…？,Weird guys...?
+Chinpira (talking),姐さん、直接お会いにならない方が いいですぜ。まず隠れて様子を見て…,"Best not to meet them yet, Boss. Let`s scope them out first..."
+Ichihashi Ran (talking),妙に慎重だね。 まあ、そうしてみてもいいけどね…,"You`re strangely cautious. Well, it doesn`t hurt to try."
+narrator,………………,...
+Ichihashi Ran (talking),……なんだい、ありゃ。,...Who the hell are they?
+Chinpira (talking),やはり、 姐さんのお知り合いって訳じゃ ねえんですよね？,"Knew it, they aren`t your acquaintances, are they, Boss?"
+Ichihashi Ran (talking),"あたしゃミイラ男やダイダラボッチに 知り合いはいないよ。
+げんくそ悪いねえ… 悪司の次は妖怪の登場かい？ 祟られてんのかね、あたしゃ…","Can`t say I know any mummies or giants.
+ This is vexing... First Akuji, now monsters? It`s enough for me to think I`m cursed."
+Chinpira (talking),どうしやす？,What should we do?
+Ichihashi Ran (talking),……まあ、会ってみるさ。 何の用事かは知らないけどね。,"...Meet them, I guess. I`ve no idea what they want, though."
+Suteki Ishi (talking),"へ、へへひひ… へけけけけけ…
+お、おまぁら、礼儀知らんがか？ 礼儀っちゅう言葉、知っちゅうがか？
+げ、げげ玄関で客を待たしたまんま ぎっちり時間経ってしもて、 いけんことやと思わんがか？　あ？
+ほれ…………ほれ、デカオ。 おまぁも何ぞ言うちゃれ、何ぞ。ほれ。","Heh, heheheheehee... Hehekekekekeh...
+ Y-Y`all ever heard of courtesy? That on your dictionary?
+ D-Don`t you think it`s rude to keep a visitor waiting at the gate for so long? Huh?
+ Hey... Hey, Dekao, say something as well. Go on."
+Dekao (talking),…エっ？,...Eh?
+Suteki Ishi (talking),……もぉ、ええわ…,"...Oh, whatever..."
+Ichihashi Ran (talking),…悪かったね、待たせて。,...Sorry to keep you waiting.
+Suteki Ishi (talking),お、おまぁが市橋蘭ながか？ こんぶの組長ながか？,A-Are you Ran Ichihashi? Chairwoman of the Konbu Family?
+Ichihashi Ran (talking),…失礼な奴だね。 わかめ組だよ、ったく……,"...What a rude fellow. We`re the Wakame Family, dammit."
+Suteki Ishi (talking),ひへ、ひへひひひっ… えらいべっぴんさんやね……,"Heeheh, heeheheheh! We got an important hottie over here..."
+narrator,言いながら、包帯の男は 蘭の側まで寄ってきた。,The bandaged man approached Ran.
+Ichihashi Ran (talking),うぐ…く、臭っ…,Ugh... Y-You reek!
+Suteki Ishi (talking),しっ、ししし失礼な女やが！ しょっ、初対面の相手に臭いが言うた！,H-H-H-How rude! W-Who says that to someone they just met?!
+Ichihashi Ran (talking),"あんた…自分で解んないのかい！？ ワキガみたいな薬みたいな、 いろいろ混ざった物凄い臭いが……
+……め、目が痛くなってきた… ちょっと離れておくれ……","Can you not tell?! You smell terrible, like a mix of BO, drugs, and who knows what else...
+ ...M-My eyes are starting to hurt. Please back off a little..."
+Suteki Ishi (talking),"くへ、ひへ… たいがいな挨拶やね…
+おまぁに呼ばれたき、 わざわざシコクから来たゆうに。","Kuheh, heeheh... What an awful greeting...
+ And I came here all the way from Shikoku, too."
+Ichihashi Ran (talking),シコク……？ じゃあ、あんたが…,Shikoku...? Then you`re-
+Suteki Ishi (talking),"おお、素敵医師っちゅうが。 すすす、素敵な名前なやろ？
+あ、あー……ただ、本名ちゃうき。 芸名っちゅうか、通り名やき。 本名は内緒やき。","I-I-I`m Doctor Wonderful. W-W-Wonderful name, innit?
+ Oh, oh, but that`s not my real name, it`s my stage name. My real name`s a secret."
+Ichihashi Ran (talking),…どうでもいいけどね、 あんたの名前なんざ……,"...I don`t care what your name is, either way..."
+Suteki Ishi (talking),で、ここ、こっちがデカオ言うがよ。 …ほ、ほれデカオ、挨拶しいや。,"A-A-And this here`s Dekao. Come on, Dekao, greet the lady."
+Dekao (talking),"…エっ？
+せンせえ、 なンか言うたン？","...Eh?
+ Doctor, you say something?"
+Suteki Ishi (talking),……もうええわ。,"...Oh, whatever."
+Ichihashi Ran (talking),"まったく…なんて困った奴を 連れてきたのかねえ……
+……？　そう言えば、 あたしが使いに出した部下は……","Geez... What a troublesome fellow you`ve brought here...
+ ...? Say, where`s the woman I`d sent to call you?"
+Suteki Ishi (talking),"あああ、ああ…あの女やが？
+デカオがぎっちり気に入ってしもて、 何回かまぐわったが。 ほいたら、壊れてしもうたきね。","O-Oooh, ya mean that woman?
+ Dekao took a real liking to her and fucked her a bunch. She ended up breaking."
+Ichihashi Ran (talking),な……！,Wha-?!
+Suteki Ishi (talking),あのおなごし、おんらぁに 譲ってくれたがやないき？ 前金の代わりや思うたがよ。,Ya didn`t give her to us? I thought she was supposed to be an advance payment.
+Chinpira (talking),…姐さん、こんな胡散臭い奴ら さっさと叩き出しやしょう！,"Boss, let`s kick these shady bastards out right now!"
+Ichihashi Ran (talking),…任せるよ。 ついでに少し痛い目見せてやんな。,...Go ahead. Make sure they suffer while you`re at it.
+Suteki Ishi (talking),ひ…ひへ？ 今あんた、何ちゅうたがか？,"Hee... heh? You, what did you just say?"
+Chinpira (talking),…やかましいわ！　おら出てけボケ！ うちの敷居が汚れるんじゃコラぁ！,Shut up! Get the fuck out! You`re dirtying our place up!
+narrator,"市橋の許可を得たチンピラが、 素敵医師に詰め寄ってその胸を突き飛ばす。
+──と。","Having gotten Ran`s approval, the thug approached Dr. Wonderful and shoved him away.
+ Then-"
+Dekao (talking),おっ…おどりゃー！！！！ せンせえになンすんやぁ！！！！！！,Oh... Doryaaaaah!!! What are you doing to Doctor?!!
+narrator,"　　［ぶぅうんっ！］
+　　［どがっ、ぶじゃあっ！！］","　　*Boooom!*
+ 　　*Splat!* *Splash!*"
+narrator,"──わずか一撃。
+あとに残ったのはチンピラの残骸と、 水風船を踏み潰したように飛び散った 大量の赤い血のみ。","-A single blow.
+ The thug was squashed like a water baloon, andhis blood splattered all over the place."
+Ichihashi Ran (talking),な………………,Wha...
+Suteki Ishi (talking),"ひ…ひへ…… ひへへへへ……
+やや、役に立つがよ？ 悪司ゆうのを殺せばええがやろ？
+なな、仲良ぅしようや。 き、きへ、へへ……","Heeh.. heeheh... Heeheheheh...
+ Useful, ain`t he? We just gotta kill that Akuji guy, right?
+ L-L-Let`s get along, now. Kiheheh, heheheh..."
+Ichihashi Ran (talking),………………,...
+narrator,"蘭は結局、二人に事務所の一室を与えて 正式に雇い入れることにした。
+だがそれは、今のわかめ組に 二人を追い出せる者がいないと 悟ったが故の選択でしかなかった──","In the end, Ran officially employed the two and had a room prepared for them.
+ However, she only made that choice because she realized there was nobody in the Family who could drive them out."
+Ichihashi Ran (talking),…………やっと来たね。 さっさとお入り。,...So you`re finally here. Come in already.
+Suteki Ishi (talking),きへ、へへ… 姐さん、わしに何ぞ用ながか？,"Kiheh, heheheh... Ya got any business with me, Boss?"
+Ichihashi Ran (talking),"用も何も…どういうつもりだい！
+あたしゃこの前、あんたとデカブツに 悪司のシマへ殴り込むよう 指示したはずだよ！？","Oh, yes... What are you doing?!
+ Didn`t I order you and that lughead to raid Akuji`s turf?!"
+Suteki Ishi (talking),ああ……あーあー、ああ…… ……そうやったがか？,"Oooh... Uuuuuh, hmmmm... Ya did?"
+Ichihashi Ran (talking),"あんたの雇い主はあたしなんだよ、 あたしの言うとおりに動きなっ！
+それが嫌だって言うのなら、 さっさとこの組から出ていってくんな！","I hired you, so follow my damn orders!
+ If you don`t like it, then leave the Family at once!"
+Suteki Ishi (talking),きへ、けへへへへ… まぁ、まぁ…落ち着くがよ、姐さん。,"Kiheh, heheheh... Now now, calm down, Boss."
+Ichihashi Ran (talking),……う、っ……！ も、もうちょっと離れて喋っておくれ… あんたの臭い息がかかる……,Ugh...! P-Please back off when you talk to me. Your breath reeks...
+Suteki Ishi (talking),し、失礼なが… こ、こないだは躰が臭いがゆうて、 今度は息が臭いが言いゆう……,"R-Rude... First you say I smell, then you say my breath smells..."
+Ichihashi Ran (talking),どっちも臭いんだよっ…！ なんとかしなっ…！,They both smell! Do something about that!
+Suteki Ishi (talking),"……あー、 あーあー、ああ……
+……あ……ああ？ なんとか……なんとかせいちゅうが ……なんとか？
+何を？　何をなんとかしろ言うが？","Aaaaah.... Aaaah, aaaaaaah...
+ ...Aaah... aahn? Do something... do something about it?
+ About what?"
+Ichihashi Ran (talking),昼間っから寝惚けてんじゃないよっ！ あんたがくさ……,Don`t play dumb with me! I`m talking about your smell-
+Suteki Ishi (talking),…あー、そう、悪司とかいう奴なが。 殺せちゅうがやろ、ちゃんとやるき。,"...Ah, right, that Akuji fellow. I`ll go bury him good."
+Ichihashi Ran (talking),そうじゃないんだよっ！ い、いや、それもあるけどさ……！,"That`s not what I meant! Or, wait, it is, but...!"
+Suteki Ishi (talking),ひ、ひへ、ひひへはへあへ… あ、姐さん、言うことバラバラやき…,"Heeheeh, heehahaheheh... Yer all over the place, Boss."
+Ichihashi Ran (talking),あんたの方が、 よっぽどバラバラだよっ……！,I`d say YOU`RE the one who`s all over the place!
+Suteki Ishi (talking),"……ひ、きへひ、きへひひ……
+ひへ、はへ… …っう、あ、あが…… がっ…うが、があ……っぐ、あ！","Heeheh, kiheheheehee...
+ Heeheh, haheh... ugh, ah, argh... gaaah! Ngh, gaaah...! Gh, ah!"
+Ichihashi Ran (talking),…………？ ちょっと…あんた？,...? Uh... are you alright?
+Suteki Ishi (talking),"あひーあひーひああああああああ！ あきゃきゃきゃきゃきゃかはひゃー！ ぷばーぷばーほべぱひゃふはひゃぺー！
+ひひゃらほへきゃぴぷへうぇひゃえー！ おへ、うへ、うへ…ひへはほへはぺー！ ぷらんばっぱぴしゃきぴゅきぴゃーー！","Aheehahahaheeeehahaaaaaah! Akyahahakekekekyahahah! Pftahahabahahahahaaaaah!
+ Heeheehyahehapiheeehyah! Oheh, uheheh, heehehehahahah! Bwahahapeeheehaahapee!"
+Ichihashi Ran (talking),……なっ……！ どっ、どうしたんだい、あんたっ…,What the-?! Wh-What`s wrong with you?!
+Suteki Ishi (talking),あひーあひーひああああああああ！ あきゃきゃきゃきゃきゃかはひゃー！ ぷばーぷばーほべぱひゃふはひゃぺー！,Aheeheehahahahahahaaaaaaah! Akyakyakyakyaheeheehah! Bwahahaheeheehyahyahyaheh!
+Ichihashi Ran (talking),ちょ、ちょっと… 誰か、誰かっ……！ 誰かいないのかい、誰かっ！！,H-Hold on... Someone! Anyone! Is anyone there?!
+narrator,慌てる蘭の目の前で、狂った素敵医師は 懐から数本の注射器を取り出し、 自分の躰へ無造作に突き立てた。,"In front of the panicked Ran, the frenzied Dr Wonderful took out several syringes and casually injected them into himself."
+Ichihashi Ran (talking),あっあんたっ！　何してんだいっ！？ ちょ……ええっ！？,H-Hey! What are you doing?! Wait- whaaat?!
+Suteki Ishi (talking),"……はぬおっ！！？？ は、はが……き、来た来たきたキタ…… ……くわああああああああああッ！！
+…………ふあぎゃーーーーーー！ ふんがへんがほがほげ、むがきゃー！！","...Haaargh?! H-Hah, gah... Here it iiiiiiiiiiiis...! Khaaaaaaaaaaaaaah!!
+ ...Hagyaaaaaaaaah! Hnghah, poheheh, mngyahhhhh!"
+Ichihashi Ran (talking),"…ひっ、ひっ、 ひいいいいいいっ！！
+だっ、だだっ、だっ…誰かあっ！ みっ、ミイラ男が狂っ、くる…… きゃあああああっ！！","...E- Eeeeeeeeeeeeek!!
+ S-S-S-Someooooone!! Th-The mummy doctor has gone mad! Kyaaaaaaaaaah!"
+Suteki Ishi (talking),"くけーきけーほげはげきしゃー！ ……ふへしゃ……っしゃ……
+……はひ、はへ、あへ…………
+……………………はへ……
+……ほへ。","Kugehehgehehohohekeh! ...Fuhahasha... sha...
+ ...Haheeh, haheh, aheheh...
+ ...Haheh...
+ ...Hoheh."
+Ichihashi Ran (talking),…………っ？,...?!
+Suteki Ishi (talking),…………………………,...
+Ichihashi Ran (talking),ちょ…ちょっと？ ちょっとあんた、どうし……,"H-Hello? Hey, what happened-"
+Suteki Ishi (talking),"は、はへ……はへぇ~…… えくすたしぃ~……
+いやいや、すまんかったちや。 ちょっとした禁断症状やき。","Hah, haheeh... haheeeeh... This is ecstasy...
+ Sorry about that, my withdrawal kicked in for a bit."
+Ichihashi Ran (talking),"ちょっとしたって…
+じゃあ、あんた、 さっき自分に注射したのは…","That was \”a bit\”...?
+ Then what you injected just now was..."
+Suteki Ishi (talking),"…これがか？
+ヒロポン・大麻・モルヒネ・コカイン・ カフェイン・ニコチン・ガラナエキス・ ＤＨＡ・ローヤルゼリーに、それと…
+…あと、なんやったかがね？
+まあ、要するに、 素敵医師の素敵ブレンドやき。 ウルトラグレートアッパー系ながよ。","...Ya mean these? `s a mix of...
+ Meth, THC, morphine, cocaine, caffeine, nicotine, guarana, DHA, royal jelly, and-
+ ...What else was there again?
+ Anyway, it`s Dr. Wonderful`s wonderful blend. Ultra-duper-high quality stuff."
+Ichihashi Ran (talking),………………,...
+Suteki Ishi (talking),気持ちええがよ、姐さんもやらんがか？,"It`s great. Want a hit, Boss?"
+Ichihashi Ran (talking),遠慮しとくよ……,I`ll pass...
+Suteki Ishi (talking),"きへ、ひへはへ、ふへへへへ… 遠慮せんでもええんやがね…
+で…何の話やったきの？","Kiheh, heehahaheh... No need to be so shy...
+ So, what were we talking about?"
+Ichihashi Ran (talking),……もういいよ、下がんな……,"...Forget it, you may go now."
+Suteki Ishi (talking),"……？ ああ、ああ、ああ。 そうやが、悪司の事やったがね？
+大丈夫やき、ちゃんとやるきね。 ……ひひ、ひへひ…………","...? Oh, oooooh, oooooh. It was about Akuji, right?
+ Don`t worry, I`ll bump him off. Heehee, heeheeheh..."
+Ichihashi Ran (talking),"………………
+なんであんなジャンキーが うちに転がり込んじまったのかねえ…","...
+ Why did we have to get stuck with that junkie...?"
+narrator,　　［どたどたどたどた…］,　　*Knock knock knock*
+Ichihashi Ran (talking),……今頃駆けつけても遅いよ。 事は済んだよ、下がりなっ。,"...Too late to come running now. We`re done here, so leave!"
+Yamazawa Asami (talking),……い、市橋さんっ… すみません、無断で上がり込んで…,I-Ichihashi-san! Apologies for coming here without permission...
+Ichihashi Ran (talking),おや…麻美嬢ちゃんじゃないか。 珍しいね、血相変えて。,"Oh, if it isn`t Asami-chan. How rare to see you like this."
+Yamazawa Asami (talking),い、今、玄関先で包帯の男に…！,That bandaged man just now-!
+Ichihashi Ran (talking),ああ…素敵医師かい。 あんたでもやっぱ、初めて見たら 驚くだろうねえ…,"Ah, you mean Dr. Wonderful? Figures you`d be surprised at your first sight of him."
+Yamazawa Asami (talking),まさかあの男、 市橋さんがお雇いになられた訳では ありませんよね！？,"Don`t tell me you`ve hired him, Ichihashi-san?!"
+Ichihashi Ran (talking),いや、そうなんだけどね… ……どうしたんだい？,"Well, I did... What`s the matter?"
+Yamazawa Asami (talking),あの男…間違いありません。 長谷川均です。 ご存じありませんか？,There`s no mistaking that man. He`s Hasegawa Kin. Have you heard of him?
+Ichihashi Ran (talking),……？,...?
+Yamazawa Asami (talking),"当局のブラックリストに載っている 危険極まりない無免許医ですよ！
+元は優秀な薬剤師だったそうですが、 戦時中に空襲で大怪我をして…
+痛み止めにと射った麻薬が元で 薬物中毒になってしまったとか。
+…それで、理性や道徳のタガが 外れてしまったんです。
+いい薬も悪い薬も次から次に… 人を助けるのも壊してしまうのも、 その日の気分次第で…","He`s a very dangerous unlicensed doctor who`s on our black list!
+ He used to be a gifted pharmacist, but was gravely wounded in the war.
+ The painkillers he took turned him into an addict.
+ Ever since then, he`s lost both his sanity and his morals.
+ He`ll use any and all drugs, and both help and destroy people on a whim..."
+Ichihashi Ran (talking),なんだい… あの男、そんな情報が出回ってるほど 有名人だったのかい。,"What, so he`s famous enough for that to be common knowledge?"
+Yamazawa Asami (talking),"あの男一人のために、シコクの セイナン地方は壊滅的な打撃を 被っているんですよ！？
+“遊び”と称してばらまいた毒が、 シマント川を汚染、下流の住民が……","That man has single-handedly brought the Seinan Region in Shikoku to ruin!
+ He contaminated the river as a \”joke\”, and the people there..."
+Ichihashi Ran (talking),ま、さか…死んだってのかい？,D-Don`t tell me... they died?
+Yamazawa Asami (talking),"いえ、奇形化・怪物化を起こして、 とても元が人とは思えないような…
+…とにかく、シマント川は 局所的に見て、オオサカ湾よりも ひどい有様だそうで…","No. They became monstrously, irreversably deformed.
+ Either way, the Shimanto River is said to be in way worse shape than the Osaka Bay."
+Ichihashi Ran (thinking),まさか… あいつの連れの大男、それで…？,It can`t be... Is that what happened to his giant?
+Yamazawa Asami (talking),"半年ほど前のニュースですが、 市議会の人間なら誰でも知っています。
+……特一級の危険人物です。","This was half a year ago, but everyone in the CC knows him.
+ ...He`s exceptionally dangerous."
+Ichihashi Ran (thinking),"……逆に言えば………
+うまく言うことさえ聞かせられれば それだけ使える男だって事…かい。","...In other words...
+ As long as I get him to obey, I`ll have a very useful ally."
+Yamazawa Asami (talking),市橋さん、即刻あの男の身柄を 市議会に引き渡して下さい！,"Ichihashi-san, please hand him over to the CC immediately!"
+Ichihashi Ran (talking),"や…ちょっと待っておくれよ。 まだあいつがその長谷川なにがしって 決まった訳じゃないだろう？
+あいつは自分の名前を 素敵医師としか名乗ってないんだ。","No... Hold on for a minute. We`re still not sure he`s that Hasegawa fellow.
+ He only ever refers to himself as Dr. Wonderful."
+Yamazawa Asami (talking),…正気ですか、市橋さんっ…！,"Are you mad, Ichihashi-san?!"
+Ichihashi Ran (talking),"それに今、うちの組は ミドリガオカの奉仕青年団と 正面切っての抗争中なんだよ。
+負ける訳にはいかないんだ。 あの男は貴重な戦力だしね。","Besides, my Family is currently in open conflict with the YCSG from Midorigaoka.
+ We can`t afford to lose. That man is a valuable ally."
+Yamazawa Asami (talking),"……っ、そうです！ その件も……！
+地域管理組合同士が、 覇権を賭けて抗争を繰り返すなんて 間違っています！　止めて下さい！","...! That`s right! There`s that, too!
+ Fellow RMGs cannot fight each other for hegemony! Please cease it!"
+Ichihashi Ran (talking),"覇権って…麻美嬢ちゃん。
+うちは、不穏なことをやってる奴らを 取り締まってるだけなんだよ？","Hegemony? ...Asami-chan.
+ We`re simply keeping that unruly bunch under control."
+Yamazawa Asami (talking),"とにかく、やめてください！ 地域住民がどれだけ怯えているか ご存じないのですか！？
+私も市議会を通じて、 奉仕青年団に働きかけます！ お願いですから…！","Either way, stop it! Do you have any idea how terrified your citizens are?!
+ I`ll also work on the YCSG through the Council, so please...!"
+Ichihashi Ran (talking),"……ふうん。
+何もかもうちが悪い、か。 そう言いたいのかい？","...Hmph.
+ So we`re the bad guys no matter what, is that it?"
+Yamazawa Asami (talking),そういう訳ではなくて…！,That`s not what I mean!
+Ichihashi Ran (talking),"…嬢ちゃん、今日はとりあえず 帰っておくれよ、ね。
+正直、気分は良くないよ。","Missy, I`ll have you leave for today, alright?
+ I am not feeling well."
+Yamazawa Asami (talking),"市橋さん…
+……解りました。 今日は、帰ります。
+ですが、次に何か大事があれば、 私は懲罰警察の出動を要請します。
+それだけは…憶えていてください。","Ichihashi-san...
+ ...Very well. I`ll leave for today.
+ But if something happens, I`ll have the punitive police mobilized.
+ Please keep that in mind..."
+Ichihashi Ran (talking),それはあたしも避けたいね。 解った、憶えておくよ。,"I`d also hate for that to happen, so fine, I`ll do so."
+Yamazawa Asami (talking),"では……
+…市橋さん、どうか考え直して下さい。 取り返しがつかなくなる前に……","Well then...
+ ...Ichihashi-san, please reconsider before it`s too late."
+Ichihashi Ran (talking),"………………
+残念だけどね、麻美の嬢ちゃん… 考え直すつもりはないよ……
+あたしゃ、 負けられないんだ……","...
+ Too bad, Asami-chan... I have no intention to reconsider.
+ I am not going to lose..."
+Chinpira (talking),姐さん。 …ちょっとよろしいですかい？,"Boss, you got a sec?"
+Ichihashi Ran (talking),…何だい？ えらく深刻そうな顔して。,"What is it? ...Nothing good, from the looks of it."
+Chinpira (talking),今、うちのシマで洒落にならねぇ量の シャブが出回ってるって話… ご存じですよね？,"You`ve heard that there`s been a fuckton of drugs being pushed in our turf, right?"
+Ichihashi Ran (talking),"……！？ 本当かい、初耳だよあたしゃ…
+わかめ組は昔っからクスリにだけは 手を染めてないんだ。知ってるだろ？","?! Is that true? First I`ve heard of it...
+ The Family`s never dealt drugs. You should know this."
+Chinpira (talking),へえ。 清く正しくずる賢く、が、 うちのモットーですから…,"I do. I mean, our Family`s motto is \”Pure, Righteous, and Cunning\”..."
+Ichihashi Ran (talking),それは昔だ、今は違うだろ？ 清く正しく“華麗に”ずる賢くだよ。,"No, now it`s \”Pure, Righteous, and Splendidly Cunning.\”"
+Chinpira (talking),…すいやせん。,...My bad.
+Ichihashi Ran (talking),"とにかく、うちのシマから そんな噂が出てきている事自体 とんでもない大恥だよ……
+人と金を回すから、 即刻出所を突き止めて叩き潰しな。","Anyway, the mere rumor that such a thing`s happening in our turf is, by itself, a disgrace.
+ I`ll give you the funds and men, so go find and put a stop to it."
+Chinpira (talking),"…実は、うちの兄さんたちが、 先に調査へ動いたんですがね。
+その、クスリの流れを辿っていくと、 どうもあの素敵医師らしい謎の男に 行き着くんでさあ…","...Thing is, my seniors already went to investigate.
+ When they followed the drugs` trail, it led back to that weird Doc Wonderful..."
+Ichihashi Ran (talking),…………何だって……！？,...What did you say?!
+Chinpira (talking),確実だとは思うんですが、 証拠が揃いやせんで……,"I think it`s certain, but we don`t got conclusive evidence..."
+Ichihashi Ran (talking),………解った。 ご苦労だったね。,...Understood. Good work.
+Chinpira (talking),へえ…,Thanks...
+Ichihashi Ran (talking),あの……ミイラ男っ！！ こればっかりは勘弁ならないよっ…！,...That damn mummy! I won`t let him get away with this!
+Dekao (talking),……せンせえ、 ねえ、せンせえ？,"...Doctor? Hey, Doctor?"
+Suteki Ishi (talking),んー？ デカオ、なんか言うたがか？,"Hm? You say something, Dekao?"
+Dekao (talking),ヤりたイ。,I wanna fuck.
+Suteki Ishi (talking),………………,...
+Dekao (talking),な、ながイこと、女としちょらンけン、 お、おれ、ヤりたイ。,H-Haven`t had a woman in a while. I-I wanna fuck.
+Suteki Ishi (talking),んー、まあちょっと待っちょれ。 今、先生な、おクスリ作っとるきね。 手が離せんがよ。,"Hrm, wait a bit then. Doc`s making his medicine. I can`t stop halfway."
+Dekao (talking),"……エっ？
+せンせえ、 なンぞ言うたン？","...Eh?
+ What did you say, Doctor?"
+Suteki Ishi (talking),デカオ、おまぁ…都合の悪いことは わざと聞いちょらんがやろ…,"Dekao, ya keep pretending not to hear stuff you don`t like..."
+Dekao (talking),あーあーあーあーあーあー ヤりたイー、ヤりたイー。 だうー。,"Aaaaah-aah-aaaaaaah, I wanna fuuuuuuck. Aaaaaarghhh."
+Suteki Ishi (talking),で…デカオ、暴れたらいかんが！ ゆ、床揺れる、ビーカー割れ…！,"D-Dekao, quit it! Th-The floor`s shaking! My beaker`s gonna break-!"
+Dekao (talking),……じゃ、ヤらせてくれル？,...Then you gonna let me fuck?
+Suteki Ishi (talking),"…………ぷふー。 しょんない子やき…
+ほやね、街にもそろそろ 中毒のおなごしも出来ちょろうきね。 それ騙してさろうて来るがかね…","...Sigh. What a handful you are, boy.
+ Look, soon a bunch of women in town`ll get addicted. If we trick them into coming here-"
+Ichihashi Ran (talking),……このクサレミイラ！ 今、何て言ったんだいっ！？,You rotten mummy! What did you just say?!
+Suteki Ishi (talking),……っあ、ああああ……あれや。 姐さん、いつからそこにおったが？,"...Oh, oooooh, uh, you know. How long`ve ya been here, Boss?"
+Ichihashi Ran (talking),"うちの組はねぇ、 シマの中でシャブだのヤクだの、 扱うことを許しちゃいないんだよっ！
+これ以上、うちのシマを荒らす気なら タダじゃおかないからねっ！","Listen up, our Family forbids drugs from being pushed in our turf!
+ Don`t think you`ll get away with it if you keep this up!"
+Suteki Ishi (talking),"ほ、ほへひ… ひひっ、ひひひひひひっ……
+ひ、ひどい言いがかりながよ。 何ぞ証拠あって言いゆうがか？","Hoh, hoheheh... Heeheeheeheeheehee...!
+ Wh-What a horrible thing to accuse me of. Got any proof?"
+Ichihashi Ran (talking),しらばっくれてんじゃないよ！ 今あんたが作ってるそれが 証拠じゃないかっ！,Don`t play dumb with me! Isn`t that thing you`re making evidence enough?!
+Suteki Ishi (talking),これなが？ これは消臭剤ながよ？,This? This is just a deodorant.
+Ichihashi Ran (talking),は……？ だって白い粉が…,Huh...? But that white powder-
+Suteki Ishi (talking),"おらぁの躰が臭いがゆうて、 ぎっちり嫌味言いよったんは 姐さんやなかったがか？
+ほやき、こがいして微香性の 即効消臭剤を作ったがよ。
+んー、ほれほれ。 ええ匂いするがやろ？","Wasn`t it you who oh-so-rudely told me I was smelly, Boss?
+ I made some fast-acting, faint fragrance deodorant for that.
+ Here, take a whiff. Smells good, right?"
+Ichihashi Ran (talking),"………………
+もう…いい。 もうたくさんだよっ…！","...
+ I`m done. I`ve had enough!"
+Suteki Ishi (talking),へ、へひひ……？,H-Heheehee?
+Ichihashi Ran (talking),"クビだよ、もうあんたたちは シコクに帰んなっ！
+これ以上、あんたたちの 不気味なツラは見たくないんだっ！","You`re fired! Go back to Shikoku, both of you!
+ I don`t want to see your creepy faces around anymore!"
+Dekao (talking),お…おンな…… おンなぁ……,W-Woman... Woman...
+Ichihashi Ran (talking),……っ！？,...?!
+Dekao (talking),うが、が… おンな、おン……,"Ugh, gaaah... Wo... man..."
+Ichihashi Ran (talking),な……んだい、このデカブツっ！ 寄るんじゃないよ、鬱陶し…,"Wh-What`s with the big guy?! Stay away, you irritating-"
+narrator,蘭が一瞬怯んだその時、 デカオの手が蘭の両肩を鷲掴みにした。,"The second Ran faltered, Dekao grabbed both of her shoulders."
+Ichihashi Ran (talking),う……っ！？ い、痛っ……つっ……！！,Gh...?! O-Owww!!
+Dekao (talking),"あ、あば……暴れル……？ 暴れルと、できなイ……
+か、肩潰すンよね… 足折るンよね……骨潰すンよね。","S-Struggling...? I can`t, if you struggle...
+ I-I`ll break your shoulders... Gonna break your legs, okay?"
+Ichihashi Ran (talking),う…うあああっ……！！ ああああああああああああっ！！！,W-Waaaaaaaah...!! AAAAAAAAAAAAAAAAAH!!
+Suteki Ishi (talking),……デカオ。 その女はいかんがよ。,...Dekao. You can`t do that to that woman.
+Dekao (talking),う…あ、せンせ……,"Auu... Oh, Doctor..."
+Suteki Ishi (talking),やめるが。,Stop it.
+Dekao (talking),…………,...
+narrator,デカオが蘭を掴む手を放す。,Dekao let go of Ran.
+Ichihashi Ran (talking),ぅ……あ、ううっ……！,"Ugh... Ah, ngh...!"
+narrator,"自由になった蘭が、 肩を抱えて膝を折る。
+少し乱れた着物の前身頃から覗く肌が、 指の形に鬱血し、酷い痣になっていた。","Once free, Ran clutched her shoulders and bent her knees.
+ Nasty bruises could be seen in the skin exposed by her slightly-disheveled kimono."
+Ichihashi Ran (talking),く……,Kh...
+Suteki Ishi (talking),"まあ、もうちょと待ってくれんがか？ おんらぁ、まだ悪司っちう奴に 何もしとらんき……
+おんらぁも、プロやきね。 一旦請けた仕事はきちんとせんと 寝覚め悪いがよ。","Well, couldja wait a bit longer? We haven`t done anything to that Akuji fella yet...
+ We`re pros, after all. We gotta see our job through, or we won`t sleep well at night."
+Ichihashi Ran (talking),だったら… さっさと悪司を潰してきなっ……！,If that`s the case... then go and destroy Akuji at once!
+Suteki Ishi (talking),"いろいろと用意しちゅう途中ながよ。 まあ、焦らんで。ひひ…
+ほいたら、ちょと出かけてくるが。 下準備をいろいろしてくるきね。
+デカオ、行くがよ。","I`m still preparing, though. Don`t be so impatient, heehee...
+ If we`re done here, I`m leaving for a bit. Gotta do some spadework.
+ Let`s go, Dekao."
+Dekao (talking),あー……あい、せンせえ。,"Ah... `kay, Doctor."
+Ichihashi Ran (talking),"………何で、何でよ… 何でこんな……！
+命令ひとつ聞かせられずにっ……！
+あたし…だけじゃ、もう…… もう……
+………………","...Why, just why... Why is this happening?!
+ They won`t listen to me...!
+ I can`t do anything by myself... I can`t...
+ ..."
+Elite Yakuza (talking),これが実際に売買されているブツで… そして、こちらが証拠写真です。,"Here are the drugs being pushed, plus the photographic evidence."
+Ichihashi Ran (talking),有り難う、ご苦労だったね。 これであの二人を叩き出せるよ。,"Thanks, good work. Now I can kick those two out."
+Elite Yakuza (talking),"………正直、 動くのが遅かったかもしれません。
+ヤクの効果や常用性も 驚愕すべきものがあるんですが…
+あの素敵医師とか言う男、 売買の手口が恐ろしく巧妙なんです。
+うちの組に転がり込んだその日から、 既に水面下で相当量の薬物を 取引していたらしく…
+シマの麻薬汚染は現在、 部分的に取り返しのつかない有様で…","...To be honest, we might`ve been too late to act.
+ The drugs` effects and addictive potential are frightening, but...
+ Dr. Wonderful`s trafficking skills are shockingly clever.
+ Seems like he`d been dealing quite the amount behind our backs since the day he got here.
+ The drug addiction around our turf may now be irreversible..."
+Ichihashi Ran (talking),……………… あたしの、せいか…,... Is this... my fault?
+Elite Yakuza (talking),"いえ、ヤクに関して不勉強だった 私ら組員の責任です。
+被害状況を今まとめさせていますが、 組員の中にも中毒患者が出ていると 覚悟しておくべきかと……","No, it`s our fault for being unfamiliar with drugs.
+ We`re still assessing the damage, but there`s a chance some of our members are also addict-"
+Ichihashi Ran (talking),…もういい。聞きたくないよ。,...Enough. I don`t wanna hear it.
+Elite Yakuza (talking),は…,Very well...
+Ichihashi Ran (talking),"とにかく、あの二人を叩き出す。 話はそれからだ。
+癌細胞さえ摘出できれば、 あとは自然に治癒していく… そう信じようじゃないか。
+とにかく、ご苦労だったね。 ……下がっていいよ。","Anyway, we`re kicking them out. The rest comes later.
+ If we cut off the cancer, the body should eventually heal itself. Let`s hope that`s the case.
+ Again, thanks for your work. You may leave."
+Elite Yakuza (talking),はっ。,"Yes, Ma`am!"
+Ichihashi Ran (talking),"…………そう信じようじゃないか、か。
+詭弁だね… あたしの無能を証明してるだけさ…
+第一、叩き出すったって、 やつらが抵抗してきたら一体誰が……
+ふふっ、こうなっちまったら、 神様にでも泣きつこうかね……
+……神様か。そんなもんがいるんなら、 今こそ助けて欲しいよ……","...Let us hope, huh?
+ What sophistry. This is just proving my incompetence...
+ Hell, if they resist being kicked out, who will...
+ Hahah, if that happens, I guess I`ll have to pray for help...
+ ...Pray, huh. If god exists, then I`d appreciate if he helped..."
+Junky (talking),……おい、そこのアマ。 わかめ組ってぇのはここだな？,"Hey, bitch. Is this where the Wakame are?"
+Ichihashi Ran (talking),"……っ！？
+誰だいアンタ、 どっから入ってきたんだい！","...?!
+ Who the hell are you? Where did you come from?!"
+Junky (talking),るせぇ！　ヤクよこしゃあがれ！ 売人がここにいるって聞いたんだよ！,Shaddup! Gimme some dope! I heard the dealer`s here!
+Ichihashi Ran (talking),寝言は寝て言いな。 居ないよ、そんな奴は。,Quit it with your nonsense. There`s no dealer here.
+Junky (talking),やかましいっ！ 金はたんまり用意してきたんだ、 はやく出しゃあがれ！,"Fuck off! I brought a ton of money, so gimme the fucking drugs!"
+narrator,"男は手にした包丁をちらつかせて 蘭に迫ってくる。
+──と、 蘭はその包丁にうっすらとついた 赤い染みに初めて気が付いた。","The man waved the knife in his hand and closed in on Ran.
+ That`s when Ran first noticed the faint red color on the man`s knife."
+Ichihashi Ran (talking),"……あんた、 その手に持った包丁、血で汚れ…
+……まさか……","Hey, that knife you got`s dirty with blood.
+ Don`t tell me..."
+Junky (talking),"金はあるって言ってんだろが！ 早く出さねぇと…
+………………
+…っ、うあ… ひっ、ひいいっ…… き、来た、きっ……","I told you I got the money! Gimme the goods or-
+ ...
+ ...! Wah... E-Eeeeek! Th-They, they`re here...!"
+Ichihashi Ran (talking),……？ ちょっと、あんた…？,"...? Hey, what`s-"
+Junky (talking),"うああああああああああああああっ、 ああっ、あああああっ…
+み、見ろ、見やがれっ！ お前がさっさとヤクよこさねぇから また奴らが、奴らが俺を……","Waaaaaaaaaaaaaaah! Aaaaah, aaaaaaaaaaah...!
+ L-Look! Because you wouldn`t gimme the drugs, they`re here again, they`re gonna...!"
+Ichihashi Ran (talking),……奴ら？,...\”They\”?
+Junky (talking),"あ、あんたにも見えるだろ！ 虫が、でけぇ虫がっ……
+くっ、来るなっ、来ないでくれえっ！ いっ、痛ぇ、いてえぇっ…！
+もっ、潜り込んでくるッ…！ お、俺の足が、足があぁっ……！ 虫が中に入ってくる、肉を喰って…！","Y-You can see `em, right?! Bugs, so many huge bugs!
+ D-Don`t come any closer! Owww! It huuuuurts!
+ Th-They`re crawling into me! M-My leeeeegs! They`re eating me from the inside!"
+Ichihashi Ran (talking),ちょっと、しっかりおしっ！ そんなものどこにも居な……,Keep it together! There`s nothing of the sort-
+Junky (talking),うっ…うああああっ！ 寄るな、寄るなぁっ！,W-Waaaaaaah! D-Don`t come any closer!
+narrator,助けようとして近寄った蘭に向かい、 男は手にしていた包丁を振るう。,"The man swung the knife at Ran, who`d approached to help him."
+Ichihashi Ran (talking),…なっ、止し……つっ！,Wha-?! Cease...!
+narrator,"がむしゃらに振り回されたその刃先が、 わずかに蘭の頬をかすめた。
+──血の滴が、頬を伝う。","The man kept frantically swinging his knife, barely grazing Ran`s cheek.
+ A drop of blood slid down her cheek."
+Ichihashi Ran (talking),"………………
+…そうかい。 これが神様のお答えって訳だ。
+あたしの不始末は、あたし自身で カタをつけろって事か……","...
+ ...I see. So this is god`s reply.
+ I gotta put an end to what I started myself, huh?"
+Junky (talking),うっ……うわらやはわやがああっ！ あーーーーーーーーーーーーーっ！,W-Waaaahyaaaaawaaaah! AAAAAAAAAAAAH!!
+narrator,"ジャンキーは奇声を発しながら、 項垂れる蘭に飛びかかろうとした。
+──だが、それより早く、蘭の投げた短刀が ジャンキーの額に深々と突き刺さる。","Yelling madly, the junkie was about to attack Ran, who hung her head low.
+ ...But before he could do anything, Ran`s thrown dagger pierced deep into his head."
+Junky (talking),…………………………あ……か、が……,...ah... gah...
+narrator,"ジャンキーは包丁を取り落とし、 そのまま数歩進んで、蘭の肩にぶつかってから 地面に倒れ伏した。
+──即死。","The junkie dropped the knife, took a few more steps, then fell to the ground after bumping into Ran`s shoulder.
+ ...Instant death."
+Ichihashi Ran (talking),"……………………
+もう…………もう、いい………… …………もう………………
+もう、たくさんだよっ……！
+何も彼も、もうどうでもいいっ！ 知ったことかいっ！
+あのミイラ男、あたしの手で ブッ殺してやるっ！","...
+ Enough... I`ve... had enough...
+ I have had enough!
+ I don`t care what happens anymore!
+ I`m going to fucking kill that mummy bastard!"
+ (talking),"……ひへ、けへへ……
+ぶ、ブッ殺すがちゅうて、 えらい物騒なこと言いゆうが…","...Heeheh, keheheh...
+ F-Fucking kill? Yer saying some real scary stuff..."
+Ichihashi Ran (talking),腐れミイラ…！ どこに居るんだいっ！！,You dirty fucking mummy! Where are you?!
+narrator,"蘭が、その声が聞こえてきた方向へ 振り向くと──
+女の組員を抱き寄せた素敵医師が、 デカオと並んでそこに立っていた。","When Ran turned towards the direction the voice had come from-
+ -Dr Wonderful, who was holding a female Family member hostage, was there with Dekao."
+Lover (talking),う、あ…… …………あ……,"Ugh, ah.. Ah..."
+Suteki Ishi (talking),姐さん、何をそんなに 怖い顔しちゅうがか？,"What`s the scary face for, Boss?"
+Ichihashi Ran (talking),腐れミイラっ！ うちの組の人間に何してんだいっ！,You fucking mummy! What are you doing to one of our members?!
+Suteki Ishi (talking),この女がか？　もう組員と違うがよ。 おんらぁのお客さんやき。,Her? She ain`t a Family member anymore. She`s our customer.
+narrator,言いながら素敵医師は、 手に持った注射器をその女に刺す。,Dr Wonderful stabbed the woman with one of his syringes.
+Suteki Ishi (talking),"……ほれ、 気持ちよさそうな顔しちゅうがやろ？
+このおなごし、頭の中ではもう 三百回くらいエクスタシーしちゅうが。
+幸せながよ、姐さんもどうなが？","...Look, ain`t she got the happiest look on her face?
+ This chick`s already climaxed 300 times inside her head.
+ It`s bliss. Want some too?"
+Ichihashi Ran (talking),………………,...
+Suteki Ishi (talking),"こ、怖い顔しちゅう… けけっ、問答無用ちゅうことながか？
+謝るがよ、反省するがよ、許しとおせ。 田舎モンやき調子に乗りすぎたがよ。","S-Scary... Keheh, can`t talk my way outta this, eh?
+ I`m sorry, please forgive me. This bumpkin got carried away."
+Ichihashi Ran (talking),言いたいことはそれだけかい？,Is that all you have to say?
+Suteki Ishi (talking),"………………
+デカオ、姐さんやっつけてええがよ。 やっつけたらおまぁにやるき。","...
+ Beat the Boss lady up, Dekao. I`ll give `er to ya if ya do."
+Dekao (talking),ほンま？　せンせえ、ほンまに？ やるやる、おらぁ、やる。,"Really? You mean it? I`ll do it, ohh, I will."
+Ichihashi Ran (talking),やれるもんならやってみな… 黙ってやられやしないよっ！！,I`d like to see you try! I won`t go down quietly!
+narrator,"──だが、実力差は歴然としていた。
+蘭は破れかぶれで攻め続け、 デカオにかなりの深手を追わせたが、 その意識を断ち切るまでには至らなかった。
+ジャンキーには労せず勝てても、 元より蘭の力はデカオに及ばない。 結果の解っている勝負だったのだ。
+そして、蘭は──デカオの前に頽れていく。","Their difference in strength, however, was clear.
+ Ran attacked with reckless abandon, inflicting serious wounds upon Dekao, but ultimately not enough to incapacitate him.
+ She may have easily killed the junkie, but she couldn`t measure dup to Dekao. The fight had a foregone conclusion.
+ And thus, Ran lied on the ground before Dekao."
+Suteki Ishi (talking),"ひへ……姐さん、負けてしもうたが？ 偉そうなこと言いよったくせに…
+…姐さん？　返事できんがか？ 死んでしもうたがか？
+………………息はしちゅうみたいやね。
+さすが組長なが、受け身取って、 紙一重で生きちゅうがよ。
+……ま、万事塞翁が馬なが。 組長に勝ったがちゅうことは、 おんらぁが組長ちゅうことやきね。
+これからはもう、 好きにやらしてもらうが。","Heeheh, ya lost, Boss? You were talkin` a lotta shit...
+ ...Boss? Can`t hear me, Boss? You dead or somethin`?
+ ...Looks like yer still breathin`.
+ That`s Boss for you, managing to just barely stay alive.
+ Welp, life sure is unpredictable. We beat the Boss, so this means I`m the Boss now.
+ Imma do whatever I want now."
+Dekao (talking),せ…せンせえ、 おらぁ、ちょっといたイ…,"D-Doctor, i-it kinda hurts..."
+Suteki Ishi (talking),おおデカオ、よう頑張ったが。 あとで薬塗っちゃるきね。,"Ooh, good goin`, Dekao. I`ll rub some medicine on ya soon."
+Dekao (talking),"こ、このおンな、 イ、イまヤりたイ…
+し、しかえし……するンよね………… イタかったしかえし……するンよね。","I-I wanna fuck her now...
+ I-I`m gonna pay her back... for hurting me..."
+Suteki Ishi (talking),"無茶言いゆうき、この子は… 怪我治ってからでもええがよ。
+その間にこの姐さんを ぎっちり薬漬けにするき。 その方がおまぁも楽しいがよ？","Reckless, ain`tcha? Do it after you`ve healed.
+ In the meantime, I`ll pump Boss fulla drugs. You`ll like it better that way."
+Dekao (talking),あーあー…… せンせえがそう言うンやったら がまンする。,"O-Okay... If you say so, Doctor, I`ll endure it."
+Suteki Ishi (talking),"……ええ子やき、デカオは。
+………………
+ひへ、ひ……ひへへ。 このべっぴんさんが薬で メチャクチャになるがか……
+想像しただけでイきそうやき… ひへ、ひへへ……","Good boy, Dekao.
+ ...
+ Heeheh, heeheehee... This hottie`s gonna be all fucked up with drugs, eh...?
+ The thought alone`s almost makin` me cum. Heeheheh..."
+cg narrator,"──いっそ、この時死んでいた方が 蘭にとっては幸せだったのかも知れない。
+生き長らえ、組の地下室に閉じこめられた蘭を 待っていたのは、文字通りの地獄だったから──","-Ran would have likely been better off if she had died then.
+ Because having survived, what awaited her in the Family`s prison was, quite literally, hell..."
+cg narrator,"「あ……は、はは……………… 　あははは……ひ、ひっ…………は……」
+それは、蘭の声だった。 楽しそうに笑い続けている。
+「あ…………あァあ……ひアんっ………… 　あふぅ……ン、ひうっ、ん……やは……」
+その笑い声に時折、喘ぎ声が混じる。
+いかにも気持ちよさそうな、恍惚とした喘ぎ──
+「ああ……やハあァ…………くあアっ……」
+蘭の躰はデカオの巨大な手に鷲掴みにされて 自由を奪われ、硬くなった下腹の肉茎を 無理矢理秘裂に突き込まれていた。
+声だけを聞いていれば、蘭は、 デカオに犯されることを 悦んで受け入れているように思えるが──
+「ひけ、けへへ………… 　元組長さん、デカオのナニの具合はどうなが？」
+この声は素敵医師だ。 蘭が弄ばれる様を傍らで見、ほくそ笑んでいる。
+「おほー、すごいがよ…… 　組長さんのお腹がデカオのナニの形に 　盛り上がってしもちょるがよ。きへへ……」
+実は、デカオの肉茎は彼自身の躰と比較すれば ごく小さいものだった。 彼自身の小指か薬指程度の太さ・長さでしかない。
+だが、蘭とデカオの体格差は、 大人と赤子──いや、人と人形ほどもあるのだ。
+蘭にすれば、デカオと交わるという事は、 自分の太股に等しい大きさの丸太を ねじ込まれているのと同じなのである。
+「いや……さすが元組長ながね。 　普通の女やったら股裂けて死んでても 　ちーっともおかしゅうないきね…………」
+──素敵医師の言う通りだった。
+　　［げぼっ、ずりゅ、じゅぶ、ごぼ……］
+デカオが自分勝手に腰を使い、蘭の躰を揺する度、 肉、粘膜、そして骨が擦れ合う酷い音がする。
+どんなに蘭が気持ちよさそうに笑っていても、 デカオが一突きする度に、生死の境を彷徨うほどの 激痛を受けている筈なのだ。
+「まあ、けど……それも当たり前やきね。 　おらぁが作ったクスリさえあれば、 　手足斬り飛ばされても今はエクスタシーなが」
+──そう、蘭が死なずに済んでいるのは、 結局のところ素敵医師のお陰だと言って良かった。
+素敵医師の投与した薬物によって、 蘭は全身の筋肉を弛緩させられ、 悦楽を感じる神経だけが鋭敏にさせられていた。
+痛みも、熱さも、冷たさも。 今の蘭にとっては、全て悦楽でしかない。
+死ぬほどの激痛がそのまま、 死ぬほどのエクスタシーに変わっていく。
+「え、は…………はは……ッ、あ、あアっ……… 　ん、ふあ…………ひァ……ああアぁ……」
+濁った目で、へらへらと笑いながら、 蘭は、いつまでもデカオの行為を受け止め続けた。
+「……デカオは、どうなが？ 　元組長の中は気持ちええがか？　ん？」
+「…………お、っお………………うぉン……」
+「…………これ、デカオ。 　先生が訊いちゅうがよ？　答えとおせ」
+「ンぉ…………う、っン…………あぁ…………」
+「もう、すっかり夢中ながね…… 　やれやれ、しょんない子やき…………」
+素敵医師は困ったように言い、 片手で頭を掻いた。
+「デカオ、まだ終わらんがか？ 　この後、先生は用事が────」
+──素敵医師がそう言いかけた、その時だった。
+「う、ンっ……うおおおおおおおおおおおっ！」
+突然、デカオが吠えた。 ──射精。
+　　［……ぼたっ、ぼたたたっ、ぼとっ……］
+元より、今の蘭には 精を受け止める胎の余裕はない。
+デカオが放った分は全て逆流して、 胎外へとこぼれ落ちていった。
+　　［……ごぶっ、ぶじゅっ、ぐぶ……］
+その精液の量は、普通の男の何倍── いや、何十倍あるのだろうか。
+広いはずの地下室一杯に、青臭い性臭が充満する。
+「やっと満足したみたいやね。 　これで予定が狂わずに済むがよ……」
+素敵医師がほっとして呟き、デカオの側に歩み寄る。
+「デカオ、先生な、今から用事があるがよ。 　わかめ組の連中集めて組長襲名披露するが。 　そやきね、デカオも一緒に…………」
+──だが、その台詞は、 デカオの耳に届いていなかった。
+「あ……ひアっ………ああアァ……っ…………！」
+「お、おぉ……ン、っお……おおおおおお……」
+蘭がまた、笑い、悶え始める。 そして、デカオがまた、唸り始める。
+精を放ったはずのデカオが、抽挿を再開したのだ。
+「………………ぷふー、しょんない子やき…… 　抜かずの二回目を始めてしもうたがよ……」
+肩をすくめて、素敵医師はまた頭を掻く。
+「ふー……三回もしたら満足するがやろか。 　しょんないきね、ちょと待ちよくがか……」
+仕方なく、素敵医師はその場に座り込む。
+──と、デカオの方から流れてきた 大量の精液が素敵医師の尻を濡らしたが、 彼は一向に気にしなかった。","「Ah... hahah, hah... 　ahahahahah... heeheehee...」
+ Ran kept laughing as if she were having fun.
+ 「Ah... aaahn... hyan! 　Ahhh, mn, hyah, yahahah...」
+ Moans were occasionally mixed in with her laughter.
+ They were clearly ecstatic moans, full of pleasure.
+ 「Aaah... yahaaahn... khahah...!」
+ Dekao`s colossal hands grabbed Ran`s body, robbing her of movement, as he forcibly thrust his hardened member into Ran`s pussy.
+ If one were to only listen, they would believe Ran actually enjoyed being violated by Dekao-
+ 「Heekeh, keheheh... Hey former Boss, 　how does Dekao`s mega dick feel?」
+ That was Dr Wonderful. He watched from the side, chuckling to himself as if to toy with Ran.
+ 「Ohoh, holy shit... 　Boss, yer stomach`s swelling with the 　shape of his dick. Kiheheh...」
+ In reality, Dekao`s member was comparatively way smaller than the rest of his body. It was about the size of his little finger.
+ However, the difference in size between Dekao and Ran was akin to that of an adult and a doll`s.
+ To Ran, intercourse with Dekao was similar to having a log the size of her thigh shoved inside her.
+ 「Man, that`s the former Boss for ya. 　The average chick would have been 　torn apart and died by now...」
+ Doctor Wonderful was not exaggerating.
+ 　　*Schlop!* *Slllrsh!* *Schrrrp!* *Schlop!*
+ Dekao moved as he pleased, and every time the sound of flesh rubbing against bone could be heard.
+ No matter how pleasantly she moaned, there was no way Dekao`s thrusts made Ran feel anything other than pain bad enough to almost kill her.
+ 「Well, then again, that`s to be expected. 　Thanks to my medicine, even getting your 　limbs chopped off would make ya feel good.」
+ Indeed, the reason why Ran wouldn`t die was, in fact, Doctor Wonderful.
+ The drugs he`d given Ran made all muscles in her body relax, and heightened her nerves` so that they could only feel pleasure.
+ Pain, warmth, everything - all were turned into pleasure for Ran.
+ Thus, instead of pain, she felt a pleasure strong enough to kill her.
+ 「Eh, hah... hahah...! mn, anh! 　fwah... hyah... aaahahah...」
+ With clouded eyes and a mindless laughter, Ran kept taking in Dekao`s thrusts.
+ 「...How`s it feel, Dekao?  　Does former Boss` pussy feel good? Hm?」
+ 「...O-Oooh... uoooh...」
+ 「...Come on, Dekao. 　Doctor asked you a question. Respond.」
+ 「Nhoh... hoooh... ahhh...」
+ 「Geez, he`s completely absorbed. 　What a hopeless kid...」
+ Scratching his head, Doctor Wonderful spoke as if he were troubled.
+ 「Not done yet, Dekao? 　Doctor`s got some business after this-」
+ Just as he was speaking-
+ 「Hn, ngh... UOOOOOOOOOOOOOOOH!!」
+ Dekao suddenly roared. He was about to ejaculate.
+ 　　*SPLURT!* *GLOOOOOOOP!* *SPLURT!*
+ There was never enough space in Ran`s womb to take in all of Dekao`s semen.
+ All of his semen overflowed out of her pussy and spilled on the floor.
+ 　　*Glop!* *Splurt!* *Glop!*
+ The amount of semen was dozens of times that of a normal man`s.
+ A nasty smell permeated throughout the room.
+ 「Looks like ya finally had your fill. 　Good, this won`t mess with my schedule.」
+ Relieved, Dr Wonderful walked up to Dekao.
+ 「Dekao, Dr`s got some business to attend 　Imma gather everyone and announce the Family`s 　new boss. At that time, I want you to-」
+ However, those words did not reach Dekao`s ears.
+ 「Ah... hyah...! Aaaaaaah...!」
+ 「O-Ooooh... nh, oh... oooooooh...」
+ Ran laughed agonizingly once again, while Dekao howled once again.
+ Even after ejaculating, Dekao kept thrusting.
+ 「...Pfft, heehee, what a hopeless kid... 　Goin` straight for a second round, eh?」
+ Dr Wonderful shrugged and scratched his head.
+ 「Hm, he should be done after a third round. 　No helping it, I`ll wait a bit...」
+ Out of options, Doctor Wonderful sat down.
+ This made the huge amount of semen Dekao let out touch his butt, but Doctor Wonderful did not care at all."
+cg narrator,"この行為は恐らく、何度でも繰り返される。
+デカオが飽きるか、蘭が死ぬまで、延々と──","All of this`d be repeated countless times.
+ Until either Dekao had enough, or Ran died..."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Elite Yakuza (talking),わっ……若！　大変です！,Y-Young Master! It`s terrible!
+Suteki Ishi (talking),……コラ、今俺は鴉葉と話してんだ。 用ならもーちょい後にしろや。,"Hey, I`m talkin` to Karasuba. Leave it for later."
+Elite Yakuza (talking),い、いえ、火急の用なんです！ 実は、素敵医師の死体が どこにも見あたらなくて……！,"N-No, it`s an emergency! We can`t find Doctor Wonderful`s corpse anywhere!"
+Suteki Ishi (talking),…………あぁ？ 素敵医師ってお前、あのミイラ男か？,...Huh? You mean that mummy?
+karasuba  tsuki (talking),ちょ、ちょっとちょっと待ってよ、 それ、わかめ組の受け持ち地域に 麻薬をバラまいた張本人でしょ？,"W-Wait, wait, isn`t that the guy who was pushing drugs around the Wakame Family`s turf?"
+Suteki Ishi (talking),おう、そのとーりだが……,"Yeah, he was."
+karasuba  tsuki (talking),"やっべー……それがマジなら すっごいヤバいですよ！
+だって僕、今回の騒動の責任は その素敵医師に全部ひっかぶせるつもりで 裏工作してたんですからー！","Oh crap... If that`s true, then we`re in trouble!
+ After all, I was planning to pin this whole dispute on that guy!"
+Suteki Ishi (talking),"……ヤベぇな、そりゃ確かに。
+でもよ、確かに息の根は止めた筈だぜ。 何かの間違いじゃねーのか？","...That`s bad, yeah.
+ But he should be dead. You sure you`re not making a mistake?"
+Elite Yakuza (talking),"いえ、断じて間違いなどでは……！
+あの男の死体は、凶悪犯罪の犯人として 市議会に引き渡す予定でしたから、 間違いなく確保しておいたのですが……","No, we are definitely not!
+ We`d planned to hand him over to the CC, so we made sure to secure his body..."
+Suteki Ishi (talking),誰かが持ち出したってのか？,So someone must`ve taken him?
+Elite Yakuza (talking),"は、はい、おそらく……
+ですが、あんな男の死体など、 持ち去ってみても誰にも益はありません。 もしかすると、生きて…………","Y-Yes, it`s likely...
+ However, nobody would have anything to gain from that. Maybe he`s still alive..."
+karasuba  tsuki (talking),げっ……げげげげげーっ！ それめちゃくちゃ困りますよーーーー！ また麻薬ばらまかれたらーーーーー！！,Gaaaaaaah! That would be BAD news! If he goes back to pushing drugs...!
+Suteki Ishi (talking),"……ああ、 そりゃ俺としても面白くねーよ。
+おう、今すぐ下の連中かき集めて あのミイラ男を捜してこいや。","...Yeah, I don`t want any of that, either.
+ Hey, gather some men and go look for the mummy, ASAP."
+Elite Yakuza (talking),はっ！,Yessir!
+Suteki Ishi (talking),"……鴉葉、わりーけどよ、今すぐ 市議会に戻って書類をいじり直してくれ。
+ミイラ男が見つからなかった時のために 保険はかけておきてーからな。","Sorry, Karasuba, but you should go get some papers in order.
+ I wanna have some insurance if we can`t find the mummy."
+karasuba  tsuki (talking),そ、そりゃ今すぐやりますけど…… でも悪司さん、できれば……,"I-I`ll get to that on the double. But Akuji-san, please-"
+Suteki Ishi (talking),わあってる、ミイラ男は何とかして ふん捕まえておくって。,"I know, I`ll catch that bastard somehow."
+karasuba  tsuki (talking),頼みますよ~~~！,I`m counting on you!
+Suteki Ishi (talking),…………チッ、 一息つくにはまだ早かったって事か……,"...Shit, guess it was too early to relax."
+narrator,　　［ヴォン　ヴォヴォヴォヴォンッッ］,　　*Vroom* *Vroom* *Vroooom*
+Suteki Ishi (talking),あの音は……,That noise...
+Takega Satsu (talking),む……,Hrm...
+narrator,二人は揃って外を見た。,The two of them looked outside.
+Yamamoto Ippatsu (talking),我が娘と孫は、息災のようじゃな。,Seems you two are in good health.
+Suteki Ishi (talking),やっぱ、じーさんじゃねぇか。,"Knew it was you, Gramps."
+Takega Satsu (talking),うむ。,Umu.
+Yamamoto Ippatsu (talking),"とりあえずは、 よくやったと誉めてやろう。
+このまま、己の信じる道を歩むがよい。
+だがしかし！！
+その歩みが亀のようにのろいものなら、 価値はない。
+その事、ゆめゆめ忘れるでないぞ。","For now, let me give you my congratulations.
+ Keep following your own path.
+ HOWEVER!
+ Doing so at a snail`s pace is worthless.
+ Make sure to never forget that."
+__system__??,{D11 = 0:,{D11 = 0:
+Yamamoto Ippatsu (talking),ハイヨー、シルバー！！,"HI-YOOOO, SILVEEEEER!"
+narrator,"　　［ヴォヴォヴォヴォォォ！！！］
+一発はそう言うと、愛機にまたがり、 風のように消えた。","　　*Vroom!* *Vroom!* *Vroooom!*
+ Having said his piece, Ippatsu hopped on his bike and drove away like the wind."
+Suteki Ishi (talking),相変わらず、勝手な…,As selfish as always...
+Takega Satsu (talking),お前にそっくりではないか。,Just like you.
+Suteki Ishi (talking),さっちゃんも、人の事言えねーよ。,Like you can talk.
+__system__??,},}
+Aoba Youko (talking),悪司さん、一体どうしたんです？ 何の音ですか？ 凄い、爆音が……,"Akuji-san, what happened? What was that noise? It was so loud-"
+Takega Satsu (talking),うむ。,Hrm.
+Aoba Youko (talking),えっ……？,Eh?!
+narrator,一発は、あっという間に曜子の 腰に手を回すと、唇を奪った。,"In the blink of an eye, Ippatsu scooped Youko up and stole her lips."
+Aoba Youko (talking),え、あ、あっ……,"Huh? Wha, ah..."
+narrator,熱いくちづけに、ぽわわんっとなる曜子。,The hot kiss made her light-headed.
+Takega Satsu (talking),"わかっておる。 寂しいのだな。
+ワシとくるがよい。 連れ合いがいなくても、生きがいを 感じる生き方を、教えてやる。","You`re lonely, aren`t you? I can tell.
+ Come with me. I can teach you how to live a good life even without your husband."
+Aoba Youko (talking),…………はい……,...Okay...
+narrator,曜子はそのまま、一発のまたがるバイクの 後ろに座ってしまった。,Youko sat behind Ippatsu on his bike.
+Takega Satsu (talking),"この娘は手土産として頂いていくぞ。 さらば、我が娘、我が孫よ！ 生きていたら、また会おう！
+ハイヨー、シルバー！！","I`m taking this girl as a souvenir. Goodbye, Satsu, Akuji! Let us meet again if we still live!
+ HI-YOOOO, SILVEEEEER!"
+narrator,"　　［ヴォヴォヴォヴォォォ！！！］
+一発はそう言うと、愛機にまたがり、 風のように消えた。","　　*Vroom!* *Vroom!* *Vroooom!*
+ Having said his piece, Ippatsu hopped on his bike and drove away like the wind."
+Yamamoto Akuji (talking),お、俺の兵隊が……,M-My soldier...
+Takega Satsu (talking),フレンチキスひとつで落として しまったな。,"She fell for him with a single French kiss.
+ Father is still getting better even at his age. Damned sex fiend."
+__system__,{★★殺 = 0:,{??? = 0:
+Takega Satsu (talking),親父殿、あの年でまだ腕を あげようというのか……絶倫め。,???????????? ???????????????
+__system__,},}
+Yamamoto Akuji (talking),俺の…兵隊……,My... soldier...
+Takega Satsu (talking),諦めろ。 相手が悪い。 人間大型ハリケーンだ。,Give it up. You`re outmatched here. He`s a hurricane in human form.
+Yamamoto Akuji (talking),チクショー……,Fuck...
+narrator,こうして曜子は、悪司の部下では なくなってしまった。,"Thus, Youko was no longer one of Akuji`s subordinates."
+__system__??,{D18 = 1:,{D18 = 1:
+narrator,組長の素敵医師が倒れた事により、 わかめ組は、崩壊した。,"With their chairman, Dr Wonderful, defeated, the Wakame collapsed."
+__system__??,},}
+__system__??,{D18 = 2:,{D18 = 2:
+narrator,組長の市橋蘭が倒れた事により、 わかめ組は、崩壊した。,"With their chairman, Ran, defeated, the Wakame collapsed."
+__system__??,},}
+narrator,喧嘩の後始末を始めた部下たちを見ながら、 悪司は缶コーヒーを片手に一息ついていた。,"Coffee can in hand, Akuji observed his men taking care of the fight`s aftermath."
+Yamamoto Akuji (talking),"やーれやれ、 これでわかめ組は完全にツブせたか。
+とりあえずの目標は達成したし、 まずは一段落だなー。","Phew, with this, the Wakame Family should be finished.
+ I reached my initial goal, so I`ll lay low for a while."
+Takega Satsu (talking),……悪司。 一息ついている所を悪いが、 お前に客が来ているぞ。,"...Akuji, sorry to bother you when you`re resting, but you have a guest."
+Yamamoto Akuji (talking),客？　誰だよ。,A guest? Who is it?
+Takega Satsu (talking),市議会の鴉葉だ。,Karasuba from the City Council.
+Yamamoto Akuji (talking),は。戦勝祝いにでも来たってか？,Huh. Here to congratulate me?
+Takega Satsu (talking),それほど長い用件でもないそうだ。 何なら話だけ聞いておいて、 今は帰ってもらうか？,"Doesn`t seem like it. If you want, I could listen to what he has to say and send him home."
+Yamamoto Akuji (talking),いや、構わないから こっちに来てもらってくれや。,"Nah, I don`t mind. Let him in."
+Takega Satsu (talking),解った。,Understood.
+karasuba  tsuki (talking),あっくじさーーーん、聞きましたよー！ いやー、おめでとーおめでとーーーー！,"Akuji-saaaaaan! I heard all about it! Man, congraaaaats!"
+Yamamoto Akuji (talking),……んだよ、まさかとは思ったが ホントに戦勝祝いに来たのかよ。 耳ざといねー。,"...Damn, you actually came to congratulate me. You got some sharp ears."
+karasuba  tsuki (talking),とーぜん。僕と悪司さんは ディアフレンズですよ？ めでたい時は駆けつけますとも。,"Naturally. We`re dear friends, you and I. Of course I`d come running to celebrate with you."
+Yamamoto Akuji (talking),そりゃあんがとさん。,"Gee, thanks."
+karasuba  tsuki (talking),…………で、これからどーするんです？,"...So, what will you do now?"
+Yamamoto Akuji (talking),どーするって、ナニが。,What do you mean?
+karasuba  tsuki (talking),"いや、奉仕青年団の事とか、 わかめ組の事とか。
+一応、どっちかが分裂解消したり 併合したりしても大丈夫なように 書類は揃えてますけどねー。
+まぁ、極端な話、奉仕青年団が これからわかめ組を名乗ったとしても ＯＫなようにしてあるんですよ。","I`m talking about the YCSG, as well as the Wakame Family.
+ Gonna dissolve one of them? Or merge them? Either way, I have the paperwork ready.
+ If you wanna be extreme and have the YCSG take over the Wakame name, I can let you do that, too."
+Yamamoto Akuji (talking),ほー、そりゃまた。,"Hoh, you can do that?"
+karasuba  tsuki (talking),"だってさー、悪司さんって わかめ組の正当な後継ぎでしょ？
+今のわかめ組ツブして看板取り返したら、 やっぱわかめ組のドンになりたいかなって 僕なりに気を利かせたんですよー。","I mean, you ARE the Wakame`s rightful heir, no?
+ Thought you`d like to be their leader again now that you`ve taken it back, soooo..."
+Yamamoto Akuji (talking),"気遣い痛み入るぜ、鴉葉。 ……でもまあ、そりゃまだ先だなー。
+とりあえずココを片付けて、 戦勝祝いのパーティでもやって、 落ち着いてから決めようや。
+それでも間に合う話なんだろ？","That`s nice of you, Karasuba. But that`s for another time.
+ Before that, I wanna sort things out, throw a party to celebrate, and lay low for a while.
+ It can wait, yeah?"
+karasuba  tsuki (talking),はいはい、間に合いますよー。 裏工作してる僕の腕は確かですからねー。,"It can, yeah. I`m an expert at shady business, you know."
+Yamamoto Akuji (talking),"…………………… あー、なるほどな。
+心配すんな、鴉葉。 いろいろ奔走してくれた分だけ、 今度きっちり小遣い出してやっからよ。","... Oh, I get it.
+ Don`t worry, Karasuba. You`ve done good for me, so I`ll make sure to give you your dues."
+karasuba  tsuki (talking),おっ、やりィ。 ……あ、いやいや、お気遣いなくー。,"Ooh, thanks. ...Uh, I mean, don`t worry about me~."
+Yamamoto Akuji (talking),へっ、何がお気遣いなくだ。 わざとらしいんだよ、おめー。,"Heh, don`t play dumb. I know you did that on purpose, man."
+Yamamoto Akuji (talking),"思わず来たが……
+こんなとこウロウロしてて、 お蘭の奴に見つかったらヤベーよな…
+帰るか。
+………………
+いや、手ぶらで帰んのもシャクだな。 いっちょ忍び込んで何か情報でも…","I came here without thinking...
+ I finds me wandering around here.
+ Guess I`ll go back.
+ ...
+ Nah, leaving empty-handed sucks. I`ll try to get some info..."
+narrator,そう思って、 悪司は組の裏手にある垣根に回り込む。,"With that in mind, Akuji went around the Wakame HQ`s back fence."
+Yamamoto Akuji (talking),"この家のことは 隅から隅まで知ってんだからよ。 たしかここに……
+……あったぜ、 ガキの頃に使った抜け穴。 懐かしーな。
+しかし、 この穴こんなに小さかったか？","I know this place like the palm of my hand. Think it was around here...
+ There it is, the secret passage I used when I was a kid. That takes me back.
+ But wait, was it always this small?"
+narrator,"悪司は出兵時に憶えた匍匐前進を駆使して、 垣根の穴から中に入ろうとした。
+──が。","Crawling like he`d learned to in the army, Akuji tried to get inside the hole.
+ However."
+Yamamoto Akuji (talking),"…………ん？ こ、腰が抜けねー…
+後退……も、できねーな。","...Huh? I-I`m stuck.
+ Can`t go back, either..."
+Yamamoto Akuji (talking),………………ぴーんち。,...I`m fucked.
+Ichihashi Ran (talking),……………………………………………………………………………………………… ………………何やってんだい、あんた。,...................... ...................... ...What are you doing?
+Yamamoto Akuji (talking),げっ、お蘭！,"Gah, Ran!"
+Ichihashi Ran (talking),げっ、じゃないんだよこのトンチキ。 んな所で何やってんだい。,"Don`t you “gah” me, dimwit. What are you doing here?"
+Yamamoto Akuji (talking),………………………………偵察。,......Scouting.
+Ichihashi Ran (talking),一人でかい？,By yourself?
+Yamamoto Akuji (talking),おうよ。,Yeah.
+Ichihashi Ran (talking),命知らずかい、それとも馬鹿かい？ ……いや、今見る限りただの馬鹿だね。,"Are you reckless, or stupid? ...No, it`s obviously the latter."
+Yamamoto Akuji (talking),ぬかしやがったなこの年増ーーー！,"Now you`ve said it, you hag!"
+narrator,"悪司は蘭に飛びかかろうとした！
+だが、引っかかった腰が抜けない！","Akuji tried to pounce on Ran!
+ However, his body was still stuck!"
+Yamamoto Akuji (talking),う…この、うがー！,"Ugh, this fucking...!"
+Ichihashi Ran (talking),……ちょっと、誰か居るかい？ 納屋から大槌を持ってきておくれ。,"...Hey, is anyone around? Get me a sledgehammer from the shed."
+Yamamoto Akuji (talking),大槌……でけぇハンマーか！？ このクソ女狐、何しやがる気で…,"A sledgehammer?! You fucking bitch, what are you-"
+Ichihashi Ran (talking),今度こそ殺しといてあげるよ。 楽になんな、若旦那。 いや、バカ旦那。,"This time I`ll kill you for sure. Rest in peace, Young Ma- no, Retard Master."
+Yamamoto Akuji (talking),ちょ、ちょっと待てお蘭…… てめー卑怯だぞーーーーーーー！！,"H-Hold on, Ran... YOU COWAAAAAARD!!!"
+narrator,　　［ずこーーーーーーーーん……］,　　*WHAAAAAM!!!*
+Yamamoto Akuji (talking),ほら、さっちゃん。 これがわかめ組本部へ続く道…… 俺の家へと続く道だぜ。,"Sacchan, this here`s the road leading to the Wakame Family`s HQ - my home."
+Takega Satsu (talking),ふむ。,I see.
+Yamamoto Akuji (talking),"なんつーか、こう…… ガラにもなく、いろんな思いが 胸をよぎっては消えていくぜ。
+出征、帰国、そんで今まで…… すったもんだあったが、 ようやくこの日が来たんだなー。
+早かったような、遅かったような。 ……なあ、さっちゃん？","Man, this ain`t like me at all, but I can feel all sorts of memories coming and going.
+ Being deployed, returning, and everything else... It was a mess, but I`ve finally done it.
+ Felt like forever, but also quick. ...Know what I mean?"
+Takega Satsu (talking),ふむ。,Yes.
+Yamamoto Akuji (talking),……ふむふむって、 素っ気ねえなあ、さっちゃん。,"...You`re so curt, Sacchan."
+Takega Satsu (talking),"そう言われてもな、 お前と違って私はわかめ組に対して 愛着も感慨も持っていないからな。
+だが、生家を追い出されて、 それを自分の手で取り戻した 今のお前の気持ち……
+何となく、解る気はするぞ。","Maybe, but unlike you, I`ve never had any attachment or feelings for the Wakame Family.
+ But your feelings of having taken your home back after being thrown out of it...
+ I think I can understand them."
+Yamamoto Akuji (talking),"いやまあ、そう言ってもらうほど 湿っぽい訳でもねえんだけどさ。
+ま、とにかく、 俺は部下を何人か引き連れて わかめ組本部を制圧してくるよ。","Uh, I wasn`t trying to be all sappy or anything.
+ Anyway, I`m taking some of my men to take control of the Wakame HQ."
+Takega Satsu (talking),"ああ、気を付けてな。
+私は一応、奉仕青年団の事務所に 待機しておく。何かあったら すぐ呼ぶといい。","Okay, be careful.
+ I`ll be on standby at the YCSG office, for now. If anything happens, call me ASAP."
+Yamamoto Akuji (talking),ま、大丈夫だと思うけどな。 ンな事がないよう気をつけるぜ。,"Should be fine, but yeah, I`ll take care."
+narrator,"結局、主要メンバーを失ったわかめ組には、 悪司に刃向かう意志を持つ者など 残っていなかった。
+降伏、そして土地建物の権利書譲渡。 制圧に関する手続きを終えて──
+悪司は晴れて、この屋敷の正式な主として 玄関から屋内へ上がっていった。","With their leaders all gone, there was nobody left in the Wakame Family with the will to oppose Akuji.
+ They surrendered and transferred ownership of their assets, thus finishing the suppression.
+ Now the formal owner of the estate, Akuji passed through the gate and headed indoors."
+Yamamoto Akuji (talking),"んー、やっぱ懐かしいな。 やっとこさ戦地から戻ったぞーって 感じだ。
+さて、本部自体の調査は もう下の連中に任せるとして…… 俺はちょいとくつろがせて貰うかぁ。
+あどっこいしょー……っと。
+………………
+しっかし、取り返したはいいが…… この家、どーしたもんかねー……","Man, this takes me back. Really makes me feel like I`ve finally come back from the war.
+ Alright, I had my men take care of investigating the rest of the HQ, so I`ll take a break.
+ Here we go...
+ ...
+ ...I`m glad I took it back, but what should I do with the house?"
+__system__??,{RND \ 0:,{RND \ 0:
+Kanbara Yuuko (talking),………………やっと見つけた~。 あーくん、ここだったのね~~~♪,"...Finally found yooou. So you were here, A-kuuuun.♪"
+Yamamoto Akuji (talking),…………ん？ ありゃま、夕子さんじゃねーか。,"...Huh? Oh wow, if it ain`t Yuuko-san."
+Kanbara Yuuko (talking),わかめ組奪回おめでとぉ~！,Congrats on recapturing the Family!
+narrator,夕子は満面の笑顔で、悪司の躰に抱きついた。,"With a big smile on her face, Yuuko hugged Akuji."
+Yamamoto Akuji (talking),ゆ……夕子さん、 祝ってくれんのはいーけど、 そんなくっつくなよ、ハズいから……,"Y-Yuuko-san, it`s fine to celebreate, but don`t cling to me like that, it`s embarrassing."
+Kanbara Yuuko (talking),あら、照れちゃって~。 あーくんらしくないのね？,"Aw, you`re being all shy. This isn`t like you."
+Yamamoto Akuji (talking),"そりゃ照れるさ、周りが身内ならともかく 今は部下だらけなんだからよ。
+ま、それはともかく、 わざわざお祝いに来てくれてあんがとよ。 嬉しーぜ。","It`s one thing if we`re among friends, but my men are watching.
+ Anyway, thanks for coming out here just to congratulate me. Makes me real happy."
+Kanbara Yuuko (talking),ふふっ、だってこのわかめ組本部は 私にとっても家だったんだから。 自由に帰れるなら帰って来たいでしょ？,"Heheh, this HQ was like a home to me, too. Wouldn`t I want to come back if I could?"
+Yamamoto Akuji (talking),なーるほどな、解るぜその気持ち。,"I see, I can understand that."
+Kanbara Yuuko (talking),あーくん、本当にお疲れさま。 これで普段の生活も、 戦前のとおりになるわねー。,"You really worked hard, A-kun. Now you can go back to your normal life, from before the war."
+Yamamoto Akuji (talking),？　そりゃどーいう意味だ？,What do you mean?
+Kanbara Yuuko (talking),"だって、この家取り返したなら 今度から奉仕青年団の本部も ここになるんでしょ？
+朝起きて、ご飯食べて、 部下の人と働いて…… そういうの全部、この家で、ね？","Well, now that you`ve taken this place back, it`ll become the YCSG`s new HQ, riiiight?
+ You`ll sleep, eat, and work with your subordinates in this very house, right?"
+Yamamoto Akuji (talking),あー…………夕子さんはやっぱ この家でそーしたいのか。,"Ah... So you want to do all that here, Yuuko-san?"
+Kanbara Yuuko (talking),あら、あーくんはそうじゃないの？,"My, you don`t?"
+Yamamoto Akuji (talking),"ま、俺もつい今、 いろいろ考えてたんだがよ。
+ここは結局、 俺の祖先やじーさんや親父が 作ってきた組織の本部だろ？
+それに比べて、あのミドリガオカは 俺が一からここまでにしたモンだ。
+そー思ったらよ、 奉仕青年団のあのボロ家も 結構愛着湧いてきてなー。","Well, I was thinking `bout a lotta stuff just now.
+ In the end, this is the HQ for the group Dad, Gramps, and my other ancestors built, right?
+ But the YCSG is a place I myself built up from scratch.
+ When I think about that, I start feeling pretty attached to that shitty old office."
+Kanbara Yuuko (talking),あら、そんな風に考えてたんだ~。,"My, so that`s how you feeeel."
+Yamamoto Akuji (talking),"ま、別にそれほど執着してる訳でも ねーから、俺としちゃあ 別にどっちでもいーんだけどな。
+ミドリガオカだろーが、 わかめ組だろーが、 やる事はどーせ一緒なんだしよ。","Well, I`m not THAT attached to it, so either place`s fine by me.
+ Whether it`s in here or in Midorigaoka, what I have to do remains the same."
+Kanbara Yuuko (talking),ふふ、あーくんらしいわね。,"Heheh, that`s just like you."
+Yamamoto Akuji (talking),"どーかな、夕子さん。 ミドリガオカが本部のままじゃ嫌か？
+どっちを本部にするか、 夕子さんが決めちまっても構わないぜ。","How about it, Yuuko-san? You fine with the Midorigaoka HQ?
+ I don`t mind letting you pick which place`ll be our HQ."
+Kanbara Yuuko (talking),そう？　じゃあミドリガオカで。,"Really? Then, Midorigaoka."
+Yamamoto Akuji (talking),…………ありゃ、即答だな。 それでいーのか？,"...Damn, that was fast. You sure?"
+Kanbara Yuuko (talking),"私も別に、今のままで 不自由感じてないから。
+あーくんが今のままでもいいなら 引っ越しとかの面倒が 少ない方がいいでしょ？","I don`t feel any discomfort in staying as we are, either.
+ And if you`re fine with it, then isn`t it better to save ourselves the trouble of moving?"
+Yamamoto Akuji (talking),そっか。んじゃそーいうことで。,I see. Then we`ll go with that.
+Kanbara Yuuko (talking),……でも、このわかめ組本部、 どうするの？,...But what will you do with the Wakame HQ?
+Yamamoto Akuji (talking),"俺の家は俺の家だからな。 修理して掃除したら、 もうこのままにしとくよ。
+夕子さんも、 別荘気分で使ってくれていーぜ。","It`s still my house. I`ll have it fixed, cleaned, and then leave it as it is.
+ You can treat it as another house, too."
+Kanbara Yuuko (talking),昔の組を踏み越えて、我が道を行く…… そんな感じねー。 あーくん、かっこいい~☆,"Overcoming your old group to carve your own path... You`re so cool, A-kuuun!☆"
+Yamamoto Akuji (talking),いくら褒めても何にも出ねーぞー。,Flattery will get you nowhere.
+__system__??,},}
+__system__??,{RND = 0:,{RND = 0:
+Elite Yakuza (talking),……若、こちらでしたか。,"There you are, Young Master."
+Yamamoto Akuji (talking),おう、何か用か？,"Yo, what is it?"
+Elite Yakuza (talking),"いえ、特に用という訳ではありません。
+ただ、奇妙な懐かしさを覚えて 屋敷内を眺め歩いておりました。","Nothing in particular.
+ I simply felt weirdly nostalgic and took a walk inside the manor."
+Yamamoto Akuji (talking),…………あー、もしかして、 おめーはわかめ組で働いてたクチか。,"...Oh, were you working for the Wakame Family?"
+Elite Yakuza (talking),"その通りです。
+ときに若、 わかめ組を取り戻したからには やはり組織の本部も移転なさるので？","Indeed.
+ By the way, now that you`ve taken the HQ back, are you transferring the operations here?"
+Yamamoto Akuji (talking),"…………実はなー、 今ちょうどその事考えてたんだよ。
+多分、おめーたちからすれば 移転すんのがスジだと思うだろうが……","To be honest, I was just thinking about that.
+ You all probably think that transferring makes sense, but..."
+Elite Yakuza (talking),？　移転なさらないのですか？,? You won`t?
+Yamamoto Akuji (talking),"ほれ、ここは結局、 俺の祖先やじーさんや親父が 作ってきた組織の本部だろ？
+それに比べて、あのミドリガオカは 俺が一からここまでにしたモンだ。
+そー思ったらよ、 奉仕青年団のあのボロ家も 結構愛着湧いてきてなー。","In the end, this is the HQ for the group Dad, Gramps, and my other ancestors built, right?
+ But the YCSG is a place I myself built up from scratch.
+ When I think about that, I start feeling pretty attached to that shitty old office."
+Elite Yakuza (talking),なるほど…… 何もかもご自分の手で作りたい、 そんな感じでしょうか？,"I see... You want everything to be from your own work, then?"
+Yamamoto Akuji (talking),"ま、別にそれほど執着してる訳でも ねーから、俺としちゃあ 別にどっちでもいーんだけどな。
+ミドリガオカだろーが、 わかめ組だろーが、 やる事はどーせ一緒なんだしよ。
+でまあ、一緒なんだったら 今のままでもいいだろう、ってな。 不満か？","Well, I`m not THAT attached to it, so either place`s fine by me.
+ Whether it`s in here or in Midorigaoka, what I have to do remains the same.
+ But then again, if either`s fine, then why not stay as we are? You not okay with that?"
+Elite Yakuza (talking),"いえ、私の今の主は若ですから、 若についていきます。
+それに、今仰られた組織への気持ちも 感じ入るものがありましたし……","No, you`re my master now, so I shall follow you.
+ Besides, I do harbor some feelings for your new group..."
+Yamamoto Akuji (talking),"そっか。んじゃ、 そーいうことで含めておいてくれや。
+何せ俺の生家だしよ、建物自体は 元通りにして置いとくつもりだから、 機会がありゃ仕事なんぞで使おうや。","Really. That makes two of us, then.
+ It`s my house, after all, so I`ll fix it up and leave it. Maybe I`ll use it eventually."
+Elite Yakuza (talking),はっ。,Very well.
+Yamamoto Akuji (talking),さーて……こっからが 新しいスタートってヤツだ。 気ィ入れていこーぜ。,"Now then, time for yet another start. Let`s give it our best."
+__system__??,},}
+Elite Yakuza (talking),姐さん、 たった今報告が入ったのですが……,"Boss, we`ve just received a report..."
+Ichihashi Ran (talking),どうしたんだい？ その顔だと、いい報告じゃなさそうだね。,"What is it? ...Nothing good, from the looks of it."
+Elite Yakuza (talking),"は。 実は、あの素敵医師なのですが……
+つい先程行われた喧嘩の最中、 戦闘に敗れて行方不明になりました。","Yes. The truth is, that Doctor Wonderful...
+ In that last battle, he was defeated and has disappeared."
+Ichihashi Ran (talking),何だって……？,What did you say...?
+Elite Yakuza (talking),"正直に言いまして、我々部下は あの男が居なくなって 胸を撫で下ろしています。
+姐さんも、心情的には我々と 同じだと思いますが……","To be honest, we`re all relieved that he`s gone.
+ I believe you share this sentiment with us, Boss..."
+Ichihashi Ran (talking),"………………
+口ほどにもない、使えない男だったね。","...
+ All bark and no bite, huh."
+Elite Yakuza (talking),は……,Indeed...
+Ichihashi Ran (talking),ご苦労だったね、下がっていいよ。 ……今後のことは、後で指示する。,"Good work, you may stand down. ...I`ll give you orders later."
+Elite Yakuza (talking),はっ。,Understood.
+Ichihashi Ran (talking),"………………
+でも、あの素敵医師は うちの組員では追い出せなかった 男なのに……
+それを蹴散らすほど、 悪司の組織は力をつけてきてるのかい……
+まずいね、まずいよ…… 何か手を打たないことには………","...
+ Nobody in our Family was able chase that man away, and yet...
+ Does this mean Akuji`s group has grown that strong?
+ This is bad, really bad... What can I do about this?"
+narrator,──だが、そう思いはしても もはや蘭に打つ手は残されていなかった。,"But no matter how hard she thought, Ran no longer had any options at her disposal."
+Chinpira (talking),……要するに、何があってもわかめ組に 協力金は払えないってのか？,"...So, you won`t pay the Wakame Family no matter what?"
+seinen (talking),………………ああ。,...Yeah.
+Chinpira (talking),どういうこった？ あんたんとこの船団は、長い間 うちと昵懇で……,What the hell? Your fleet and our Family`ve been close for ages...
+seinen (talking),"……昵懇だったから、独立したいんだ。
+最近のわかめ組の不実さは目に余るよ。 協力金はきっちり取るくせに まともな仕事をしてくれないじゃないか。","...That`s why we want independece.
+ We can`t stand the Family`s recent perfidiousness. You take the money, but don`t do your job."
+Chinpira (talking),いや…… 仕事したくない訳じゃないんだが……,Uh... It`s not that we DON`T wanna do our job...
+seinen (talking),…………トップが女たちになって、 わかめ組の中がぐちゃぐちゃだって話、 本当なのかい？,Is it true that the Family`s been a mess ever since the women took over it?
+Chinpira (talking),"………………
+とにかく、俺たち現場の人間に対して 金払いが悪くなっちまってよ。
+理念だか理想だかウィミィだか 知らねえが、あんまりにも急に 方針が変わりすぎっつーか……
+やってらんねーんだよ、実際……","...
+ At the very least, we grunts started getting less money.
+ I dunno if it`s `cause of Wime or whatever, but the way we do shit changed too much.
+ I can`t put up with it, really..."
+seinen (talking),じゃあ何か？ うちの船団があんたらに直接金を払えば 今まで通り仕事してくれるのかい？,Then how about this? Will you do your job like you used to if we pay you directly?
+Chinpira (talking),そりゃ、できると思うが……,"I think we can do it, but..."
+seinen (talking),"なあ、あんたとは長いつきあいだ。 うちの船団と組んで一緒に独立しないか？
+地域管理組合なんかに頼らなくてもいい、 港の平和は俺たちで守っていこうぜ。 なっ？","Come on, we go way back. Won`t you join us in independence?
+ We don`t have to rely on a RMG, we can protect the harbor`s peace on our own. Well?"
+Chinpira (talking),"………………
+よし……","...
+ Alright..."
+narrator,こうしてナンコウはわかめ組の管理下を離れ、 独立していった。,"Just like that, Nankou declared independence from the Wakame Family."
+Chinpira (talking),"ちっ……
+どうせこんな場所、誰も来やしねえし 大した価値もねえってのに……
+真面目に仕事してみたところで、 お蘭のバカ女狐はもう ボーナスなんぞくれやしねえしさ……
+……あーあ、めんどくせーな。 帰って寝ようか……","Tch!
+ Nobody comes to this place, so it ain`t worth much. Still...
+ Even if we work seriously, that Ran bitch won`t give us bonuses anymore...
+ ...Man, what a drag. I`m gonna go home and sleep."
+norakoogii (talking),…………くぅん……,...*Whimper*...
+Chinpira (talking),………………ん？ なんだこの犬、どっから入ってきたんだ？,...Huh? Where did this dog come in from?
+norakoogii (talking),…………く~ん……,...*Whimper*...
+Chinpira (talking),"な……何だよ、何匹居るんだこいつら。 野良コーギーの団体か？
+ああもう、しっ、しっ。出てけ出てけ。 ここは俺たちわかめ組のシマで……","Wh-What the hell, there`s a ton of them. A pack of wild corgis?
+ Shoo! Get out! This is the Wakame Family`s turf-"
+norakoogii (talking),"………………………… うううううううううう…………
+わんわんわんわんわんわんっ！ わんわんわんわんわんわんわんっ！ わんわんわんわんわんわんわんわんっ！","... Grrrr...
+ WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF!"
+Chinpira (talking),な、なんだこいつら……うわっ…………,Wh-What
+norakoogii (talking),"わんわんわんわんわんわんっ！ わんわんわんわんわんわんわんっ！ わんわんわんわんわんわんわんわんっ！
+わんわんわんわんわんわんわんわんっ！ わんわんわんわんわんわんわんっ！ わんわんわんわんわんわんっ！
+わんわんわんわんわんわんっ！ わんわんわんわんわんわんわんっ！ わんわんわんわんわんわんわんわんっ！","WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF!
+ WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF!
+ WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF! WOOF!"
+Chinpira (talking),…………だーもう鬱陶しいっ！ やってられっかーーーーーーーーー！！,"Dammit, you`re so irritating! Ya wanna do this?!"
+norakoogii (talking),"……………………
+わんっ♪","...
+ Woof!♪"
+narrator,こうして、わかめ組の組員たちは撤退し、 コフン地域は独立してしまった……,"Thus, the Wakame Family members retreated, and Kofun became independent."
+ten'in (talking),困ったねぇ。,How troublesome...
+Yumuro Setsuko (talking),はい……,Yes...
+ten'in (talking),ここんところ、わかめ組の人達は見回りに きてくんないねぇ。,The Wakame Family haven`t come watch over us at all lately.
+Yumuro Setsuko (talking),どうかなさったんでしょうか…,I wonder if something happened.
+ten'in (talking),内乱があって、見回りどころじゃないって 話だけどね。,I heard they were too busy with an internal conflict.
+Yumuro Setsuko (talking),まあ……,Oh my...
+ten'in (talking),で、相談なんだけど。,"So, I`ve a proposal."
+Yumuro Setsuko (talking),あ、はい、それが本題でしたね… どうしました？,"Ah, that`s what you wanted to talk about. What is it?"
+ten'in (talking),この地区ごと、独立地域になろうって 話があってね。,People are talking about going independent.
+Yumuro Setsuko (talking),まあ……,Oh my...
+ten'in (talking),後は、あんたんとこがＯＫって言えば、 全員一致なんだわ。,"And if you give it your approval, it`ll be unanimous."
+Yumuro Setsuko (talking),……………,...
+ten'in (talking),"あんたがこーいう争い事苦手だって わかってんだけどさ。 あたしらも死活問題じゃないか。
+だって、ロクに見回りして治安維持 してくんない管理組合に、お金だけ 流れちまってんだよ。","I know you`re bad at dealing with disputes and such, but it`s a matter of life or death for us.
+ I mean, all we`re doing is wasting our money on a RMG that won`t even maintain order."
+Yumuro Setsuko (talking),"………………
+わかりました… 私も賛成します。","...
+ I understand... I agree to it as well."
+ten'in (talking),そーかい、ありがとよ。,Really? Thanks.
+narrator,カネシタ地域は、わかめ組から独立した。,Kaneshita declared independence from the Wakame.
+ten'in (talking),おはよう、志津ちゃん。 今日もいい天気だね。,"Hello, Shizu-chan. Nice day we`re having, no?"
+Tanzawa Shizu (talking),はい、おはようございます。,"Hello, and yes, it`s lovely."
+ten'in (talking),明け方、この辺りで酔っぱらいが一人で 騒いでてうるさかったねー。,You see that drunk causing a ruckus here this morning?
+Tanzawa Shizu (talking),あ、そういえば……,"Oh, about that..."
+Yopparai (talking),そ、そそそれそれは、お、俺の事っかー！,I-Izzat supposed to be m-me?!
+Tanzawa Shizu (talking),きゃあ！？,Kyaa?!
+Yopparai (talking),お、俺は酔っぱらいだーー！！,I-I`m a druuuunk?!
+Tanzawa Shizu (talking),い、いや、やめて……,"N-No, stop..."
+Yopparai (talking),よっよよよっ…酔っ払って何が悪いー！,What`s wrong with being drunk?!
+Tanzawa Shizu (talking),やめてっ…やめて……,Stop... Stop it!
+ten'in (talking),ちょいと、やめなよ！ いやがってるだろ！,"Hey, stop that! Can`t you see you`re scaring her?!"
+Yopparai (talking),"うううっうるせー！！ ババアはひっこんでろー！
+へ、へへ…… ねーちゃん……酒……酒くれ……","Sh-Shuddup! Stay out of this, you hag!
+ Heh, heheh... Hey lady... Gimme some booze..."
+Yopparai (talking),よ……,Please...
+Kawahara Iori (talking),ふんっ！！,Hmph!
+Yopparai (talking),あーーーれーーーーー。,Oooooooooooh?
+narrator,酔っぱらいは星になった。,The drunk was sent towards the stars.
+Kawahara Iori (talking),大丈夫か、志津。,"You okay, Shizu?"
+Tanzawa Shizu (talking),う、うん… ありがとう、伊織おにーちゃん…,"Y-Yeah... Thank you, Iori-onii-chan."
+ten'in (talking),さすが、伊織さんだね。 助かったよ。,That`s our Iori-san for you. Thanks.
+Kawahara Iori (talking),最近、ああいう輩が増えたな。,Been more guys like him lately.
+ten'in (talking),"わかめ組が、何もしてくんないからだよ。 ここのところは、特に酷いね。
+高い協力金を取るだけ取って、 何もしてくれないなんて、酷い話だよ、 まったく。","`Cause the Wakame are slacking. It`s been real bad around here.
+ They take a bunch of protection money from us, but then don`t do anything. This really sucks."
+Kawahara Iori (talking),うむ……,Hrm...
+ten'in (talking),で、とうとう実行するってさ。,"So, I think it`s time to do it."
+Kawahara Iori (talking),何を？,Do what?
+ten'in (talking),独立さ。,Go independent.
+Kawahara Iori (talking),それは性急だと、俺は言っているんだが… それに、何かあったら玄人と 喧嘩って事に…,"I keep telling you, that`s too rash. And if something happens, we`ll have to fight pros..."
+ten'in (talking),"何言ってんだい。
+もし喧嘩になっても、ここには あんたっていう強い味方がいるんだし、 大丈夫だよ。","Oh, come on.
+ Even if we do have to fight, we have someone strong like with us. We`ll be fine."
+Kawahara Iori (talking),しかし……,Still...
+ten'in (talking),もう決定した事だよ。 だけど、仕事が増えちゃうね。 やれやれだよ。,It`s already been settled. We`ll have more work to do though. Geez.
+Kawahara Iori (talking),………………,...
+Tanzawa Shizu (talking),伊織おにーちゃん…,Iori-onii-chan...
+narrator,クロモン地域は、わかめ組から独立した。,Kuromon declared independence from the Wakame.
+narrator,この地域は、非合法な店が建ち並ぶ裏街である。 わかめ組としても重要な資金源である。,"Illegal stores fill the slums that make up Funai, a big source of income for the Wakame."
+narrator,この地域を任されている男は、神尾。,Kamio is the man in charge of this region.
+Kamio Tokunori (talking),それでは、はい、このお金でですね… この前ここであったつまらないいざこざは なかった事にして欲しいのですが…,"Here`s the money, yes. Pretend that issue we had recently never happened, yes."
+chiankashokuin (talking),わかった。 私は何も見ていないし、 何も聞いていない。,"Got it. I saw nothing, and heard nothing."
+Kamio Tokunori (talking),"はい、ありがとうございます。
+ああ、そうそう、これ、お金とは別に ですね、はい、ウィミィの方から頂いた はい、シルクの下着なのですが。
+趣味にあうとよろしいのですが、はい。","Thank you very much, yes.
+ Ah, yes, take this along with the money. I got this silk underwear from Wime.
+ I hope it`s to your liking."
+chiankashokuin (talking),あら…ありがとう、頂くわ。 いつもすまないわね、神尾さん。,"Oh my, I`ll accept that. Thank you again, Kamio-san."
+Kamio Tokunori (talking),はい、いえいえ。 お互い様じゃないですか、はい。,"No no, yes. I should be the one thanking you, yes."
+narrator,気をよくした治安課職員が帰った後、 神尾は自分の事務所から、 フナイを見下ろした。,"After the please public safety officer left, Kamio looked down at Funai from his office."
+Kamio Tokunori (talking),"はい、さーて、あたくしもわかめ組の 幹部ではありますが……
+そろそろ見切りをつける頃かも しれませんね、はい。
+おいしいフナイ地域ごと、 すべてあたくしの物にしますか、はい。","Now then, I`m a Wakame Family Exec, yes...
+ But it may soon be time to wash my hands of it, yes.
+ I`ll make this profitable region completely mine, yes."
+narrator,フナイ地域は、神尾の裏切りにより独立した。,"With Kamio`s betrayal, Funai became independent."
+shoujo (talking),いってきまーす。,I`m headed ooout.
+wakaishufu (talking),駄目よ、外に出ちゃ！,You can`t go outside!
+shoujo (talking),どぉして？ わたし、お外で遊びたい。,Why not? I wanna play outside.
+wakaishufu (talking),管理組合同士の抗争が激化しているから、 外は危険だって、何度も言ったでしょ。,"The RMGs` fight is getting worse, so it`s dangerous outside!"
+shoujo (talking),……けんか？,...Fight?
+wakaishufu (talking),そう、喧嘩。 大きな大人がいい年して、 大きな喧嘩をしているの。,"That`s right, a fight. Some adults who should know better are having a big fight."
+shoujo (talking),いやね……お外行きたいのに…,Aww... I wanna go outside...
+wakaishufu (talking),そういう大人の真似しちゃだめよ。,Don
+shoujo (talking),はぁい。,Okaaaay.
+wakaishufu (talking),ほんと……戦争が終わったって いうのに、今度はニホン人同士 争っているだなんて……最低…,"Honestly... The war`s over, yet now fellow Japanese are fighting... This sucks."
+ten'in (talking),"ちょっと、いい加減にしとくれよ！ イコマやサカイじゃ管理組合同士が 喧嘩をして治安が無茶苦茶なんだよ！！
+ウチの店も、暴徒に壊されちまってさ！ どうしてくれるんだい！！","Hey, give it a rest! Things are a mess in Ikoma and Sakai thanks to the RMGs` fight!
+ My shop was destroyed by rioters! What`re you gonna do about it?!"
+chiankashokuin (talking),"残念ながら、それは私達の仕事ではなく 管理組合の仕事です。
+私達は、もっと重大事件の時のみしか 出動出来ません。","Unfortunately, that is the RMGs` job, not ours.
+ We only mobilize during much bigger, worse events."
+ten'in (talking),その管理組合がドンパチってんだよ！ だったら、あたしらに、 どーしろってのさ！,"And those RMGs are fighting! In which case, what are we supposed to do?!"
+chiankashokuin (talking),申し訳ありません。 私達は、公務員ですので、 上からの命令がない限り、動けません。,"My apologies. We`re civil servants, so we cannot act without our superiors` orders."
+ten'in (talking),"なんだい、なんだい！ 上から上からって！
+そんなに上が好きなら、 上と結婚しろってんだよ！！
+頼りにならないったら ありゃしないよ！！ まったく！！","Oh for the love of-! It`s always your superiors!
+ Why don`t you marry them if you like your superiors so much?!
+ What good are you people even for?! Honestly!"
+Chinpira (talking),"よく、抜け出してこれたな。 街中は危険だって、親が出して くれなかったろ。
+今だって、そこで喧嘩してるし…","Good job slipping outta there. Your parents must`ve not let you go out since it`s dangerous.
+ They`re still fighting nearby..."
+joshigakusei (talking),だって…たけしに会いたかったから…,"I wanted to meet you, Takeshi..."
+Chinpira (talking),"待ってろ。 このドンパチをきっかけに、俺、 どこかの組に入って、手柄たてるから。
+そしたら、結婚しよう。 幸せにする。","You just wait. I`ll use this fight to enter an RMG and distinguish myself.
+ Once I`ve managed that, let`s get married. I`ll make you happy."
+joshigakusei (talking),ほっ……ほんと？ その言葉、信じていいの？,R-Really? Can I believe thsoe words?
+Chinpira (talking),ああ。,Yeah.
+joshigakusei (talking),うっ…嬉しいっ…あたし……,I-I`m so happy...
+narrator,"その時。
+　　［ばきゅーーーん］
+喧嘩をしている場所から、流れ弾が飛んできた。","Then...
+ 　　*PEW!*
+ A stray bullet flew out of the battle ground."
+Chinpira (talking),うげっ……！！！,GEH!!!
+narrator,たけしの心臓に、その弾が当たった。,It pierced Takeshi`s heart.
+joshigakusei (talking),きゃーー、たけし、たけし！！,KYAAAAH! TAKESHIIIIII!
+narrator,わかめ組の戸口を少し離れたところから 見ながら、主婦達が井戸端会議をしていた。,"While watching the Wakame HQ`s door from a short distance away, two housewives gossiped."
+ten'in (talking),組長がまた変わったって、ホントかい？,Did the chairman change again?
+wakaishufu (talking),そうみたいよ… 前の組長の市橋さん、殺されたって…,Sounds like it... Ichihashi-san apparently got killed...
+ten'in (talking),あら、あたしゃ、市橋さんが シコクから来た傭兵に恋して 組を譲ったって、聞いたよ。,Oh? I heard she fell in love with a merc from Shikoku and handed the Family over to him.
+wakaishufu (talking),どっちにしろ… 大変そうね…… 百発さんが戦争で行方不明になってから…,"Either way, it must be rough... After all, Hyappatsu-san went missing in the war."
+ten'in (talking),そうだね…あ、誰か出てくるよ。 それじゃあね。,"True... Oh, someone`s coming. I`ll see you later."
+wakaishufu (talking),ええ、また……,"Yeah, see you."
+__system__??,{☆残党／太郎 = 1:,{☆残党／太郎 = 1:
+narrator,センリに、加賀太郎を始めとして 元わかめ組の組員たちが集まっていた。,"Starting with Kaga Tarou, former Wakame Family members gathered in Senri."
+Kaga Tarou (talking),…………覚悟はできておるか。,...Are you ready?
+Elite Yakuza (talking),はっ、我々はどこまでも おやっさんについていきます。,"Yes! We`ll follow you anywhere, old man!"
+Kaga Tarou (talking),"すまぬの……
+勝ち目が薄いのは百も承知じゃが、 悪司の坊やをこのまま 野放しにはできぬ。
+あやつのやり方を 容認する訳にはいかぬ。
+このオオサカを血で染める前に、 敵の組織が小さい内に、 何としても悪司の首を取る。
+それが出来ぬまでも 我らの意地と志をここに示そうぞ。","Thank you.
+ I`m well aware our chances at victory are slim, but we can`t let young Akuji go unchecked.
+ I cannot approve of his methods.
+ We`ll kill Akuji while his group is still weak. Otherwise, Osaka will become a bloodbath.
+ And even if we can`t, we`ll show him the strength of our will."
+Elite Yakuza (talking),はっ！！,YEAH!!
+Kaga Tarou (thinking),……許せ、百発。 儂の命もここまでぞ……,"...Forgive me, Hyappatsu. This is it for me..."
+__system__??,},}
+__system__??,{☆残党／森田 = 1:,{☆残党／森田 = 1:
+narrator,センリに、森田愛を始めとして 元わかめ組の組員たちが集まっていた。,"Starting with Morita Ai, former Wakame Family members gathered in Senri."
+morita  ai (talking),…………おのおのがた。 お覚悟はよろしいでござんすか？,"...Everyone, are you prepared?"
+Elite Yakuza (talking),はっ！,Yes!
+morita  ai (talking),"ひとたび任侠の道を選んだ以上、 命の花散らす時は 必ず来るものでござんす。
+要は、その死に様に どれだけ誇りを持てるかでござんす。
+……あたしの言ってることは、 何か間違ってやすかい？","When you choose to walk the path of the yakuza, your life is certain to eventually be forfeit.
+ What matters is how honorable your death will be.
+ ...Do you disagree with what I`ve said?"
+Elite Yakuza (talking),いえ、森田隊長の仰るとおりで。,"No, it`s as you say, captain."
+morita  ai (talking),"よござんす。
+……ならばこの時、あたしらは 勝ち目のない喧嘩に仁義を求めて 大輪の赤い華を咲かせるでやんす。
+わかめ組と蘭姉さんの仇を取るため、 山本悪司の奉仕青年団に 勝負を挑むでござんす！！！
+おのおのがた！ さあ、血の契りを！！","Excellent.
+ Then we shall fight with honor in this hopeless battle, and let bloom the flowers of blood.
+ To avenge our Wakame Family and Ichihashi-san, we shall fight Yamamoto Akuji and his YCSG!!!
+ Everyone! Accept your bloody fate!"
+Elite Yakuza (talking),はっ！！,YEAH!
+morita  ai (thinking),…………くう~っ………… 人生最大の晴れ舞台でござんす……！,Kuuuuh...! This is the greatest moment of my life!
+__system__??,},}
+narrator,センリに、元わかめ組の組員たちが集まっていた。,Former Wakame members gathered in Senri.
+Elite Yakuza (talking),………いいか。 これから俺たちは、 勝ち目のない喧嘩に出る。,...Listen up. We`re going to be fighting a hopeless battle here.
+Chinpira (talking),へいっ！,Yeah!
+Elite Yakuza (talking),"経緯はともかくとして、 悪司の奴はわかめ組を潰した。
+わかめ組を再建するんじゃなく、 あいつはわかめ組を潰しやがった。
+それは、わかめ組と山本家に対する 俺たちの信頼を裏切ったのと同じだ。
+……こいつは、任侠として許せん。 絶対に許す訳にはいかん。","Regardless of his circumstances, Akuji destroyed the Family.
+ He didn`t rebuild the Family, he destroyed it.
+ It`s a betrayal of our trust in the Wakame Family and Yamamoto Clan.
+ As a yakuza, I can`t forgive him. Not ever."
+Chinpira (talking),アニキ……,Bro...
+Elite Yakuza (talking),……行くぞ。 目指すは悪司の命、ただ一つ！,...Let`s go. Our objective is to take Akuji`s head!
+Chinpira (talking),応っ！！！,YEAH!
+Chinpira (talking),"ひ、ひひっ…… はははっ……はは……
+…………っと、よろよろ……っ、 あいてっ、く……へへ……","Hih, hihihih... Hahah, hahahah...
+ ...Whoops, dizzy... Ouch... Heh, heheh..."
+Elite Yakuza (talking),……？ おいタツ、お前何をやってる？,"...? What`re ya doing, Tatsu?"
+Chinpira (talking),"あ、アニキ…… いえ、別に何も…………
+……よろよろ……ごちん、あいてて……
+へ、へへ……アニキ、今日はその、 地震が多いッスねえ…… 足元が揺れて揺れて、へへ……","B-Bro... Uh, nothin`...
+ So dizzy... ouch! I fell...
+ Heh, heheh... Lotsa earthquakes today, huh, Bro? Can`t keep myself steady, heheh."
+Elite Yakuza (talking),"何を言ってるんだ、お前。 地震なんか起きちゃいないぞ。
+真っ直ぐしゃきっと歩け、ほら。 昼間から酒でも呑んだのか。","What are you talking about? There are no earthquakes.
+ Go on, walk straight. You wasted in the middle of the day?"
+Chinpira (talking),へ、へへへ…… 何も、何も呑んじゃいませんぜ……？ ひへ、ひへへ…………,"Heheh, heheheh... I didn`t drink nothin`, though. Hiheheheh..."
+Elite Yakuza (talking),"……………………！？ たっ、タツ……お前、目の焦点が……
+まさかタツ、お前まで麻薬を……","...?! T-Tatsu, your eyes... Don`t tell
+ me you also took the drugs?!"
+Chinpira (talking),へ、へへ……ひゃへへ…… アニキぃ、クスリはいいぜ、クスリは…… へ、ひへ……へへへへへへへへ…………,"Hiheheheh... Those drugs are good shit, Bro. Heheh, heheheheheh..."
+Elite Yakuza (talking),"ま、まさかタツまで…… あんなにしっかりした男だったのに！
+タツ、目を覚ませ！ このままじゃお前まで廃人に……","Even Tatsu fell for it... He was such a serious guy!
+ Get it together, Tatsu! You`re gonna become an addict!"
+Chinpira (talking),へ、ひへへへ……ひゃへへへ……！,"Heh, hiheheheheh!"
+narrator,素敵医師がばらまき続ける麻薬によって、 わかめ組は末端まで腐り始めていた──,The drugs Dr. Wonderful kept spreading started to corrupt the Wakame Family...

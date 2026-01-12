@@ -1,0 +1,83 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆かなみ = 0:,{☆かなみ = 0:
+__system__??,},}
+__system__??,{☆かなみ = 2:,{☆かなみ = 2:
+__system__??,},}
+__system__??,{RND = 1:,{RND = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 5:,{麦 = 5:
+__system__??,},}
+ (talking),ふーん、部下になると、こんな風に 呼ばれたりするんだ。,"Huh, so this is how I get summoned when I work here."
+Yamamoto Akuji (talking),おう。 遅かったな。,Yo. You`re late.
+Kentou Kanami (talking),だって、学生だもん。,I had school.
+Yamamoto Akuji (talking),"んだけど、こっちの仕事もおろそかに してもらっちゃ困るからな…そーだなー…
+よし、こうする。
+遅れたら、罰金を取る。","Sure, but ya can`t be negligent with work here.
+ Alright, I`ll do this-
+ Be late, and you get fined."
+Kentou Kanami (talking),何それ。 おうぼー！,What? That`s tyranny!
+Yamamoto Akuji (talking),ん……？,Hm?
+narrator,少し賑やかな声が、 事務所の玄関から聞こえた。,Akuji heard some rather lively voices coming from the office`s entrance.
+joshigakusei (talking),そーなの。 おっかしいでしょー？,That`s right. Isn`t it weird?
+Kentou Kanami (talking),うん、何それー。 信じられないよー。,"Yeah, what`s with that? I can`t believe it."
+Yamamoto Akuji (talking),こりゃ。,Hey.
+Kentou Kanami (talking),きゃっ… なんだ、山本さん。 びっくりさせないでよ。,"Kyah! Oh, it`s you, Yamamoto-san. Don`t scare me like that."
+Yamamoto Akuji (talking),玄関前でたむろってんじゃねーよ。 邪魔だっつーの。,"Don`t yap like that by the door, you`re a bother."
+Kentou Kanami (talking),ちょっとぐらいいいじゃん…,Just a little is fiiine...
+narrator,悪司はかなみを待っていた。,Akuji was waiting for Kanami.
+Kentou Kanami (talking),はあっ…はあっ… ごっ…ごめんなさい… 遅くなっちゃった……,"Haah! Haah! S-Sorry, I`m late..."
+Yamamoto Akuji (talking),ぶぶーーーーーーーーーー。,Bzzzzzzzzzzzt!
+Kentou Kanami (talking),な、何！？,Wh-What?!
+Yamamoto Akuji (talking),遅刻でーーーーーーーーす。,You`re laaaaate.
+Kentou Kanami (talking),だ、だって……,"L-Look, I-"
+Yamamoto Akuji (talking),罰金、１０万円だーーーーーーーーー。,That`ll be 100k yeeeen.
+Kentou Kanami (talking),いやーーーーーーー！！！,NOOOOOOOOOOO!!!
+Kentou Kanami (talking),ただいまー。,I`m back!
+Yamamoto Akuji (talking),おう、おかえり。,Welcome back.
+Kentou Kanami (talking),今日は間に合ったね。,I made it in time today.
+Yamamoto Akuji (talking),………ちっ……,...Tch.
+Yamamoto Akuji (talking),おう、臨時で小遣いやるわ。 色々、物入りだろ？,"Here, some extra money. Got anything you want?"
+Kentou Kanami (talking),"あ、大丈夫。 お給料で充分やってけるから。
+気持ちだけ貰っておくね。 ありがとう、山本さん。","Oh, that`s alright. My salary`s enough.
+ It`s the thought that counts. Thanks, Yamamoto-san."
+Kentou Kanami (talking),ＧＡＬバーガー……,GAL Burger...
+Yamamoto Akuji (talking),ああ。,Yep.
+Kentou Kanami (talking),服は魅かれるんだけど、 仕事が性に合わないんで、 パスさせて。,"The uniform`s cute, but I don`t like that kinda job, so I`ll pass."
+Kentou Kanami (talking),民華ちゃーん。,Minka-chaaan.
+Haku Minka (talking),あ、おかえり、かなみちゃん。,"Welcome back, Kanami-chan."
+Kentou Kanami (talking),どう？ 奥さん仕事は慣れた？,Well? Used to the housewife life?
+Haku Minka (talking),んー…一人分増えただけで、 特に変わった事はないから、順調かな？,"Fine, I guess. It`s not that different from before."
+Kentou Kanami (talking),そっか、よかった。,That`s good to hear.
+Haku Minka (talking),かなみちゃんは？ 山本さん、人使い荒くない？,What about you? Is Akuji treating you well?
+Kentou Kanami (talking),"あー、平気平気。 遅刻にうるさいのだけかな。
+でも、遅刻するのは、私が悪いから。","Oh, I`m fine. He complains when I`m late, though.
+ But that`s my fault."
+Haku Minka (talking),んー、微妙。,"Hm, that`s weird."
+Kentou Kanami (talking),微妙かー。 えへへ。,"Weird, huh? Ehehe."
+Haku Minka (talking),ふふ……,Teehee...
+narrator,かなみと梅清が、道場で向き合って 正座していた。,"Kanami and Baisei were in the dojo, sitting in front of each other."
+Rou Baisei (talking),話はわかった。 今以上に強くなりたいのだな。,I understand. So you want to be even stronger.
+Kentou Kanami (talking),はい、狼先生。,"Yes, Rou-sensei."
+Rou Baisei (talking),それでは、本気でやるとしよう。 もしもの時の覚悟は出来ているか？,Then I`ll take it seriously. I trust you`re ready?
+Kentou Kanami (talking),――はい。,I am.
+Rou Baisei (talking),では――,Then...
+Kentou Kanami (talking),お願いします！！,Please train me!
+Kentou Kanami (talking),はあっ…！！ はぁぁぁっ……！！！,Haah...! Haaaah...!
+Rou Baisei (talking),よくついてこれたな、かなみ。,"Good job, Kanami."
+Kentou Kanami (talking),狼先生……,Rou-sensei...
+Rou Baisei (talking),"これで、お前が望む通りに強くなったかは わからぬが、以前のお前を越える力は つけたはず。
+これからもその精進の心、 忘れては駄目だぞ。","I don`t know if it`s how you wanted, but you should be stronger than before.
+ Never lose that diligent heart of yours."
+Kentou Kanami (talking),はい！ ありがとうございました…！,Yes! Thank you so much!
+Kentou Kanami (talking),るん　るるん。,"Hm-hm, hmm-hm-hmmm!"
+narrator,かなみがご機嫌で歩いている。,Kanami was walking in a good mood.
+Kentou Kanami (talking),"あ~、こんなにお洋服買ったの 初めて~。
+下着も買っちゃった。 だって目が合っちゃったんだもーん。
+かっわいー、カエルさんのショーツー。 うっふふー。","Ahh, it`s my first time buying so many clothes!
+ I even bought underwear just `cause I saw it.
+ These frog panties are so cute. Heeheehee..."
+Kentou Kanami (talking),参ります！,Here I come!

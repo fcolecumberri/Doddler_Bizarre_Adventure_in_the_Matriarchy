@@ -1,0 +1,166 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+__system__??,{麦 = 17:,{麦 = 17:
+__system__??,{H拷問抵抗 < H拷問:,{H拷問抵抗 < H拷問:
+__system__??,},}
+__system__??,{H拷問 = 1:,{H拷問 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 18:,{麦 = 18:
+__system__??,},}
+__system__??,{RND \ 0:,{RND \ 0:
+narrator,悪司は盾を呼んだが、盾は現れなかった。,"Akuji called Shield, but he was a no-show."
+__system__??,},}
+Tate (talking),………………,...
+Yamamoto Akuji (talking),いつの間にきてたんだ。,When did you get here?
+Yamamoto Akuji (talking),これ、すくねえけど取っといてくれや。,"It ain`t much, but take it."
+narrator,と、悪司はお金の入った封筒を 机の上に置いた。,Akuji placed an envelope with cash in it on the table.
+Tate (talking),…………,...
+narrator,が、盾はそれを悪司の方に差し出した。,"However, Shield returned the envelope."
+Yamamoto Akuji (talking),なんだ、いらねぇのか。,"What, don`t need it?"
+Tate (talking),…………,...
+Tate (talking),………………,...
+Yamamoto Akuji (talking),でけーな、あんた。 ２メートルはあるか？,"You`re a big guy. How tall are ya, 2 meters?"
+Tate (talking),…………………,...
+Yamamoto Akuji (talking),なんだ、口がきけねーのか？,You mute or somethin`?
+Tate (talking),………………,...
+Yamamoto Akuji (talking),恥ずかしがり屋さんか。,Or maybe just shy.
+Tate (talking),……………,...
+Yamamoto Akuji (talking),やれやれ。 今日もおだんまりかい。,"Fuck`s sake, still not talkin` today?"
+Tate (talking),……………,...
+Tate (talking),……………,...
+Yamamoto Akuji (talking),おぅす。,`Sup.
+Tate (talking),……………,...
+Yamamoto Akuji (talking),今日は、いつまでそのポーカーフェイスが 続くかな？,How long can you keep that poker face today?
+Tate (talking),っ…！,...!
+Hasekura Aen (talking),何、ユーレイ見たような顔してんのよ。,"What, did you see a ghost?"
+Tate (talking),………っ……,...!
+Hasekura Aen (talking),お互い無事だったって事ね。,So we were both safe.
+Tate (talking),……………,...
+Hasekura Aen (talking),私、今、こいつの部下になってんの。 あんた、どーする？,I\z What about you?
+Tate (talking),……………,...
+Yamamoto Akuji (talking),ん……？,Hm...?
+narrator,盾は黙って、悪司に向かって頭を下げた。,Shield silently bowed to Akuji.
+Yamamoto Akuji (talking),どーいう事だい？,What does this mean?
+Hasekura Aen (talking),部下にして欲しいってさ。,He wants to work for you.
+Yamamoto Akuji (talking),喋れねーのか？,Is he mute?
+Hasekura Aen (talking),喋らないだけ。 ちゃんと声出るけど、私だって ２、３度くらいしか聞いた事がないわ。,"He`s not mute, but even I`ve only heard him speak a couple of times."
+Yamamoto Akuji (talking),ふーん、変わった奴だな。 まーいいや。 頼むぜ……えーと……,"Huh, weird guy. Well, whatever. I`ll be counting on you, uhh..."
+Hasekura Aen (talking),盾よ。,Shield.
+Yamamoto Akuji (talking),本名か？,That his real name?
+Hasekura Aen (talking),こいつの一族は、みーんなそーいう名前。 私達、支倉の家の者を自分の 身を挺して守るから、盾。,Everyone in his family has the same name. They`re the Hasekuras` personal shields.
+Yamamoto Akuji (talking),あだ名みてーなモンか？,So it`s like a nickname?
+Hasekura Aen (talking),そーね。 あだ名が名前。,Pretty much. Their nickname is their name.
+Yamamoto Akuji (talking),ふーん、難儀だな。 まーどーでもいいや。 頼むぜ、盾。,"Hrm, that`s rough. Well, I don`t care. I`m counting on you, Shield."
+Tate (talking),………………,...
+Yamamoto Akuji (talking),これで俺の部下になる気はねーか？,Feel like working for me?
+narrator,悪司はまとまった額のお金を、 盾の前に置いた。,Akuji placed a wad of cash in front of Shield.
+Tate (talking),…………………,...
+narrator,盾はそれを手にする事もなく、 ただ目を閉じた。,Shield ignored the money and simply closed his eyes.
+Tate (talking),………………,...
+narrator,"戦場だった場所で、盾は膝をついている。
+胸の中にはアエンの死体があった。","Shield was kneeling on the battlefield.
+ He hel Aen`s dead body in his arms."
+Tate (talking),………………,...
+narrator,目を閉じたままのアエンの頬にかかる髪を そっとはらう盾。,He delicately brushed away the hair resting on Aen`s cheek.
+Tate (talking),……………っ……,...!
+narrator,盾はそっと、アエンの死体を抱きしめた。 大きな犬が、主人を労るように。,"Shield lightly hugged Aen`s corpse, like a big dog caring for its owner."
+Tate (talking),………………,...
+narrator,盾の指がピンと伸ばされる。,Shield raised one of his fingers.
+Tate (talking),っ……！！,...!!
+narrator,その指は、盾の左胸を貫いた。,That finger pierced his heart.
+narrator,盾はそのまま―― アエンの死体を抱いたまま、息絶えた。,Shield met his end whilst embracing Aen`s dead body.
+Yamamoto Akuji (talking),ん~~……出前、何取るべ~……,"Hmm, what should I order?"
+Takega Satsu (talking),私は、ブタ玉を。,Pork and egg for me.
+Yamamoto Akuji (talking),んじゃ、俺はミックスにするべか。 え~…さっちゃん、電話は…,"I`ll take a mix, then. Ehh, make the call, Sacchan."
+Takega Satsu (talking),お前の方が近いではないか。,You`re closer to the phone.
+Yamamoto Akuji (talking),ちえっ…ま、いーか。 え~~……,Tch. Whatever. Ehhh...
+narrator,"　　［がらっ］
+扉の開く音がした。","　　*Ker-chack!*
+ They heard the door open."
+Yamamoto Akuji (talking),ん？,Hm?
+Tate (talking),………………,...
+Yamamoto Akuji (talking),お前は、ＰＭの…… 何の用だ？ 殴り込みにしちゃー、殺気もねぇし。,You`re the PM`s... What do you want? Doesn`t FEEL like this is a hit.
+Tate (talking),……………,...
+narrator,盾は黙ったまま、悪司に向けて 両手首を揃え出した。,Shield silently presented both of his wrists to Akuji.
+Yamamoto Akuji (talking),なんだ、そりゃ……,The hell are you doing?
+Takega Satsu (talking),捕まえてくれというのではないか？,Maybe asking to be captured?
+Yamamoto Akuji (talking),さっちゃん？,Sacchan?
+Takega Satsu (talking),そうなのか？,Am I right?
+narrator,殺の言葉に盾は黙ったままうつむいた。,Shield cast his eyes downwards.
+Yamamoto Akuji (talking),そーみてーだな…どーも…… でも、なんで？,Looks like it... But why?
+Takega Satsu (talking),理由はわからんが、捕まえて欲しいん だったら、捕まえてやったらどうだ？,"Regardless, isn`t it good to capture him like he asked?"
+Yamamoto Akuji (talking),そーだなー…… まいっか、捕まえてやるか。,"Guess you`re right. Fine, we`ll take him in."
+Tate (talking),……………,...
+narrator,こうして、アエンの部下、盾が捕まった。,"Thus, Shield, Aen`s guard, was captured."
+Tate (talking),………………,...
+narrator,盾は立ち上がると、任されている土地から 立ち去った。,Shield stood up and left the area he`d been entrusted with.
+Hasekura Aen (talking),"あ……ふ……
+退屈ー…… ねー盾……
+ ……………
+ ………そっか… 盾は別のとこいるんだったっけ。
+ちょっと、誰かー。 雑誌買ってきて欲しいんだけどー。 誰かいるー？","Yawn... phew...
+ I`m so booored... Hey, Shield...
+ ...
+ ...Right, Shield`s someplace else.
+ Hey, is anyone around? I want you to go buy me a magazine. Anyone?"
+Tate (talking),………………,...
+Hasekura Aen (talking),"……………
+なんであんたがここにいるの。","...
+ Why are you here?"
+Tate (talking),…………,...
+Hasekura Aen (talking),そんなに私のそばがいいの。,You like being with me?
+Tate (talking),……………,...
+Hasekura Aen (talking),"ま、いーんじゃない？ 私もあんたがいた方が楽だし。
+あ、雑誌買ってきて。 いつもの。","Well, that`s fine. I also prefer having you around.
+ Ah, go buy me a magazine. The usual one."
+Tate (talking),……………,...
+narrator,盾は少し嬉しそうだった。,Shield seemed a little happy.
+Seinendan Jyoshi (talking),よいしょ、よいしょ……,Heave-ho...
+narrator,"奉仕青年団の団員が、 大きなダンボールを抱えている。
+そのダンボールが急に上にあがった。","A YCSG member was carrying a big cardboard box.
+ The box suddenly went up."
+Seinendan Jyoshi (talking),あ、あれ？？,Wh-What??
+Tate (talking),……………,...
+Seinendan Jyoshi (talking),あ、盾さん、すみません。,"Oh, sorry, Shield-san."
+Tate (talking),…………,...
+Seinendan Jyoshi (talking),あ、どこに持っていくか、ですか？ こっちです。,"Oh, where am I taking it? This way?"
+Tate (talking),……………,...
+Seinendan Jyoshi (talking),盾さん、優しいですね。,"You`re kind, Shield-san."
+Tate (talking),…………,...
+Seinendan Jyoshi (talking),でも…喋ってくれないのは、 少し寂しいです…,But it`s kinda lonely how you don`t talk...
+Tate (talking),……………,...
+Seinendan Jyoshi (talking),あ、ここに置いて下さい。 ありがとうございます。,"Ah, place it here. Thanks a lot."
+Tate (talking),……………,...
+narrator,盾は彼女の頭に掌を置いた。,Shield patted the girl`s head.
+Seinendan Jyoshi (talking),え……？,Huh...?
+narrator,そして、その娘にだけ聞こえる声で囁くと、 姿を消した。,"Then, after whispering in a voice that only the girl could hear, Shield left."
+Seinendan Jyoshi (talking),世話になったって…… どういう事……？,Thanks for everything? What does he mean...?
+narrator,その日から、盾は姿を消した。,Shield was never seen again after that.
+Seinendan Jyoshi (talking),あ、盾さん、こんにちわ。,"Oh, hello, Shield-san."
+narrator,盾は無言で軽く会釈した。,Shield silently nodded in response.
+Seinendan Jyoshi (talking),それ…… わ、外国のビールですね。 アエンさんのですか？,"That`s... imported beer, isn`t it? Is it for Aen-san?"
+narrator,盾は軽く頷く。,Shield nodded again.
+Seinendan Jyoshi (talking),盾さん、ホント、アエンさんの事が 好きなんですね。,"You really like her, huh, Shield-san?"
+narrator,盾は幸せそうに、 薄く微笑んだように見えた。,"Shield faintly smiled, looking happy."
+Seinendan Jyoshi (talking),あれれ~？ ど~して、盾さんが~？,Ohhhh? Why am I fighting Shield-saaan?
+Seinendan Jyoshi (talking),そう…そんなに姉様が好きなの… いじらしい盾……,So you like Sister that much... Pitiful Shield.
+Seinendan Jyoshi (talking),一度あなたと本気で戦ってみたかった。 いきますよ、盾さん。,I`ve always wanted to have a real match with you. Here I go.
+Seinendan Jyoshi (talking),盾……！！,Shield...!!

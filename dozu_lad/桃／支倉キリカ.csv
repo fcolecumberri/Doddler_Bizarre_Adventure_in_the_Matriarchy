@@ -1,0 +1,904 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{(☆キリカ < 20) * (☆ＤＡＴＥ > 80) * (☆キリカ／金 \ 0):,{(☆キリカ < 20) * (☆ＤＡＴＥ > 80) * (☆キリカ／金 \ 0):
+__system__??,},}
+__system__??,{☆キリカ = 11:,{☆キリカ = 11:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 2:,{麦 = 2:
+__system__??,{B忠誠タイプ = 1:,{B忠誠タイプ = 1:
+__system__??,},}
+__system__??,{(B忠誠タイプ = 3) * (B忠誠心 > 70):,{(B忠誠タイプ = 3) * (B忠誠心 > 70):
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 4:,{麦 = 4:
+__system__??,},}
+__system__??,{麦 = 5:,{麦 = 5:
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,{☆キリカ < 11:,{☆キリカ < 11:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 12:,{麦 = 12:
+__system__??,{H愛欲 = 1:,{H愛欲 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+__system__??,{麦 = 17:,{麦 = 17:
+__system__??,{H拷問抵抗 < H拷問:,{H拷問抵抗 < H拷問:
+__system__??,},}
+__system__??,{H拷問 = 1:,{H拷問 = 1:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 18:,{麦 = 18:
+__system__??,},}
+__system__??,{麦 = 19:,{麦 = 19:
+__system__??,},}
+Hasekura Kirika (talking),ごきげんよう、悪司さん。,"Good evening, Akuji-san"
+Yamamoto Akuji (talking),おう。 どーだい、ここの生活は？,Yo. How`s your life here been?
+Hasekura Kirika (talking),"はい。 大変楽しく過ごさせて頂いてます。
+番茶が、あのように美味しいものだと 知りませんでしたわ。","I have been enjoying it very much.
+ I never knew coarse tea was so delicious."
+Yamamoto Akuji (talking),………それ、他の庶民の前で言うなよ… 嫌われるから……,...Don`t say that in front of other commoners. They`ll hate you.
+Hasekura Kirika (talking),わかりました。,Understood.
+Yamamoto Akuji (talking),おう。,Yo.
+Hasekura Kirika (talking),ごきげんよう。,Good evening.
+Hasekura Kirika (talking),お呼びになりました？ 悪司さん。,"Have you called for me, Akuji-san?"
+Yamamoto Akuji (talking),おう。,Yep.
+Hasekura Kirika (talking),ちょうどよろしかったですわ。 わたくしも、あなたに御用が ありましたの。,"That`s perfect timing. I, too, have something I wish to discuss with you."
+narrator,と言って、キリカは悪司に封筒を渡した。,"With that, Kirika gave Akuji an envelope."
+Yamamoto Akuji (talking),これ……,This is...
+Hasekura Kirika (talking),あなたに頂いたお金です。 お返しするなら、多少増やしてからの方が よいかと思いまして。,The money you gave me. I thought I`d return it after I managed to add to it.
+Yamamoto Akuji (talking),どうやって増やしたんだい？,How did you do that?
+Hasekura Kirika (talking),株式投資いたしましたの。,By investing in the stock market.
+Yamamoto Akuji (talking),自分で？,Ya did it on your own?
+Hasekura Kirika (talking),ええ。,Yes.
+Yamamoto Akuji (talking),大したもんだ。,Impressive.
+Hasekura Kirika (talking),ありがとうございます。,Thank you very much.
+Yamamoto Akuji (talking),だけどいーのかい？ ケッコーあるぜ。,But you sure about this? This is a lotta dough.
+Hasekura Kirika (talking),かまいませんわ。 わたくし、お金には興味ありませんから。,"I do not mind. I have no interest in money, after all."
+Yamamoto Akuji (talking),じゃあ、頂いとくわ。,"I`ll take it, then."
+Hasekura Kirika (talking),はい。,Please do.
+Yamamoto Akuji (talking),いやだったか？,Did you not like it?
+Hasekura Kirika (talking),"いいえ……
+ ……ただ……","I did...
+ ...It`s just..."
+Yamamoto Akuji (talking),ん？,Hm?
+Hasekura Kirika (talking),困ったものを躰が覚えてしまいましたわ。 …そう……始終戦っていなくては駄目な 時のように…,My body has learned something inconvenient... Like when I get the urge to fight all day...
+Yamamoto Akuji (talking),なるほどね……なんとなく、 感覚はわかるけど…,I see... I kinda get what you mean.
+Hasekura Kirika (talking),常に……とは申しませんわ… ただ…時々、気まぐれでよろしいので、 こうして可愛がって下さいます…？,"It does not need to be all the time... But whenever the fancy strikes you, could you take me...?"
+Yamamoto Akuji (talking),ああ。,Sure.
+Hasekura Kirika (talking),ありがとうございます。,Thank you.
+Yamamoto Akuji (talking),俺の事がむっちゃくちゃ恋しくなるには まだ早いとは思うんだけどよ、 抱いてやるよ、キリカ。,"I don`t think you`re missing my body just yet, but I`m gonna fuck you anyway, Kirika."
+Hasekura Kirika (talking),まあ、奉仕事業に出る 殿方のようですわね。,"My, you make it sound like you are going to serve me."
+Yamamoto Akuji (talking),奉仕されるのは嫌いかい？,Do you not like to be served?
+Hasekura Kirika (talking),いえ…好きな方だと。,No... I do.
+Yamamoto Akuji (talking),それでいい。,Good.
+cg narrator,"「あっ……ああっ……！！」
+ 「随分、男に躰が馴染んできたな、キリカ。 　お前さん、娼婦になっても、最高級で 　やってけるぜ」
+悪司はそう言って、何度かキリカの奥深くまで もぐりこんだ。
+ 「あっ…それっ……誉め言葉… 　ですの……？」
+ 「ああ、価値があるって言ってんだからよ」
+ 「………ふふっ……ふふふっ……」
+ 「どうした？」
+ 「……わたくし…そのように誉められた事… 　ありませんわ…」
+ 「嬉しいかい？」
+ 「ええ…」
+ 「よし、じゃあ、ご褒美だ」
+悪司はそう言うと、 キリカの中を素早く行き来した。
+ 「ああっ…！」
+キリカの腰が、ガラスの白鳥の首のように、しなる。
+ 「あ、あんぅっ……あ！」
+遠慮がちに染み出てくる声は甘く、 キリカが快楽の虜になっている事を示していた。
+ 「あっ…んっ…おかしく…なりそう…」
+キリカは吐息を漏らすように呟いた。
+ 「今はそれでいい。 　その方が俺も嬉しいからな」
+キリカの言葉が真実だと語るように、 キリカから漏れる雫は、悪司の太股にまで 伝っていた。
+ 「あっ…わたくし……もう……」
+ 「遠慮すんな……っ…と！」
+悪司はさらに、腰を押し引きする速度をあげた。
+ 「ああっ…あっ…んぁっ…！！」","「Ahn! aaaaahn!」
+ 「Your body`s gotten real used to 　a man, Kirika. I bet you`d make a 　top-class prostitute.」
+ Akuji spoke as he thrust deep inside Kirika repeatedly.
+ 「Ahn! Is that... 　a compliment...?」
+ 「yeah, I`m sayin` you`re worth it.」
+ 「...Fufu... fufufu...!」
+ 「What`s the matter?」
+ 「...I`ve never... been complimented... 　in such a manner before...」
+ 「Does that make you happy?」
+ 「It does...」
+ 「Nice, then here`s your reward.」
+ With that, Akuji quickly thrust in and out of Kirika.
+ 「Aaaahn!」
+ Kirika`s hips bent like a swan`s neck.
+ 「Ahn, aaaaahn! aaahn!」
+ Her voice was reserved, but sweet, shocasing that she was a prisoner to the pleasure.
+ 「Ahn! mmn! I feel like I`m going crazy...!」
+ Kirika whispered with ragged breathing.
+ 「That`s good right now, 　it pleases me too.」
+ As if to prove Kirika`s statement, her honey dripped all the way down to Akuji`s thighs.
+ 「Ahn! I`m... going to...!」
+ 「Don`t hold yourself back... Hraaah!」
+ Akuji`s hips got even faster.
+ 「Aaaahn! aaahn! MMMMMMMMNNN!!!」"
+Yamamoto Akuji (talking),待たせたな。,You kept me waiting.
+Hasekura Kirika (talking),……何がです？,...What is it?
+Yamamoto Akuji (talking),怖い怖い。 そう、すねるなって。 あんたみたいなタイプは怒ると怖いなぁ。,"Oooh, scary. Don`t sulk, girls like you are scary when they`re mad."
+Hasekura Kirika (talking),でしたら、もう少しこまめに 手間をかけて下さいませんこと？,"In that case, could you keep this short?"
+Yamamoto Akuji (talking),ああ、そうだな、そうしよう。,"Yeah, sure, I will."
+Hasekura Kirika (talking),……ふふ…どこまで信用してよい 言葉なのかしら…,Fufu... I wonder how much I can trust those words.
+Hasekura Kirika (talking),キリカは、悪司に抱かれた。,Akuji slept with Kirika.
+Yamamoto Akuji (talking),ＰＭのオジョーサンにゃあ、 これっぽっちの金かもしんねーが、 まあ、受け取ってくんな。,"This might be chump change to a lady of the PM, but here, take it."
+Hasekura Kirika (talking),"額の問題ではないですわ。 気持ちの問題でしょう？
+ですから、ありがたく頂いておきます。 ありがとうございます。","What matters is not the amount, but the sentiment, no?
+ In which case, I`ll gladly accept. Thank you very much."
+Hasekura Kirika (talking),　☆☆☆　　キリカの財布　　☆☆☆ 　　合計　,　☆☆☆　　Kirika`s Purse　　☆☆☆ 　　Total　
+Hasekura Kirika (talking),０万,00k.
+Hasekura Kirika (talking),"………………
+そのような職業が存在するのは 存じております。
+ただ……そこに行けと仰ったと いう事は、もうわたくしに戦うなと いう事ですね……？
+ ……戦わせて頂けるのなら…… そう思い、あなたの部下になる事を 承諾した、このわたくしに……
+ ……あなたのお考えはよくわかりました。 ごきげんよう、さようなら。","...
+ I am aware that such a business exists.
+ However... if you are telling me to go there, then that means you do not want me to fight anymore, no?
+ ...I accepted to work for you if it meant I got to fight, and yet...
+ ...I now understand what you are like. Take care, and farewell."
+Hasekura Kirika (talking),……………,...
+Yamamoto Akuji (talking),こりゃー、舶来もんの人形みたいな 綺麗なお嬢ちゃんだな。,We got a missy so pretty she could pass for a doll.
+Hasekura Kirika (talking),それは、誉め言葉ですの？,Was that a compliment?
+Yamamoto Akuji (talking),そのつもりだぜ。,"That was my intention, yeah."
+Hasekura Kirika (talking),ありがとうございます。,Thank you.
+Yamamoto Akuji (talking),ＰＭのジョーヒンな環境で育った あんたにゃ、ここの生活は キツいんじゃねーか？,I bet being here sucks for someone who grew up someplace elegant like the PM.
+Hasekura Kirika (talking),"そうですわね……
+ですけど、見るもの、聞くもの、 さわるもの、すべて初めてで、 新鮮ですわ。","That is true...
+ However, every sensation I feel here is completely new and fresh to me."
+Yamamoto Akuji (talking),へ？,Huh?
+Hasekura Kirika (talking),"戦争中も、物資に困った事は ありませんでしたし……
+ここまで貧窮した生活を味わう、 最後のチャンスだと思っております。
+ですから、徹底的に楽しんでおこうかと。
+とりあえず、わたくし、かけたお茶碗で 出がらしのお茶など飲んだの、生まれて 初めてですわ。","I was never left wanting even during the war...
+ This might be my last chance to taste a life of destitution.
+ So I thought I`d make the most of it.
+ For example, this was the  first time drinking watery tea from a cracked cup."
+Yamamoto Akuji (talking),……そうか……,...That so...
+Hasekura Kirika (talking),はい。,Yes.
+Yamamoto Akuji (talking),これだから、ＰＭの連中は……,This is why the PM are nuts...
+Yamamoto Akuji (talking),よう、お人形さん。,"Hey there, dollface."
+Hasekura Kirika (talking),お願いがありますの。,I have a request.
+Yamamoto Akuji (talking),なんだい？ ここの生活がいやになったのかい？,What is it? Tired of living here?
+Hasekura Kirika (talking),"そうではありせん。
+わたくしと、お手合わせして 頂けませんですかしら？","That is not the case.
+ Would you be willing to have a fighting match with me?"
+__system__??,{RETURN = 2:,{RETURN = 2:
+Yamamoto Akuji (talking),そーいうタリー事は 今はしたくないんで。,No. Too much of a pain in the ass for me right now.
+Hasekura Kirika (talking),わかりました。 それでは諦めます。,Very well. Then I shall give up on that.
+__system__??,},}
+Yamamoto Akuji (talking),なんだ、力が有り余ってんのか？,"What, too much energy on ya?"
+Hasekura Kirika (talking),そうですわね。 こんなに長い時間、鍛練を怠った事は ありませんでしたので。,That`s correct. I have never spent this long without a training session before.
+Yamamoto Akuji (talking),よし、こい。,"Alright, come at me."
+Hasekura Kirika (talking),よろしくお願いします。,Let us have a good match.
+__system__??,{D11 = 0:,{D11 = 0:
+__system__??,},}
+__system__??,{D11 \ 0:,{D11 \ 0:
+__system__??,},}
+__system__??,{RETURN = 0:,{RETURN = 0:
+__system__??,},}
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+Yamamoto Akuji (talking),おー、いてて…… お前さん、思ったよりやるなー。,Yeowch... You`re better than I thought.
+Hasekura Kirika (talking),……手加減なさったのですか？,...Did you go easy on me?
+Yamamoto Akuji (talking),さーどーだかな。 勝負は水モンだ。,Who knows? You can never be sure how a match will turn out.
+Hasekura Kirika (talking),……………,...
+Hasekura Kirika (talking),………っ……,...!
+Yamamoto Akuji (talking),大丈夫か？,You alright?
+Hasekura Kirika (talking),はい、このぐらい、いつもの事ですから。 ですが、久々に打ち込まれましたわ。 ありがとうございました。,"Yes, this is normal for me. But it`s been a while since I last trained this hard. Thank you."
+Yamamoto Akuji (talking),で、これは何のテストだ？,"So, what kinda test was this?"
+Hasekura Kirika (talking),………,...
+Yamamoto Akuji (talking),俺を試しただろ？ どうしてだ？,"You were testing me, weren`t ya? What for?"
+Hasekura Kirika (talking),わたくし、戦うのが好きです。,I love fighting.
+Yamamoto Akuji (talking),そーいう感じだな。,"Yeah, I got that feeling."
+Hasekura Kirika (talking),"ですから、どうしても戦う場が 欲しかったのです。
+そして、誰かの下で戦うのであれば、 自分より強い者の下で。 そう思いました。","So I wanted a place to fight, at all costs.
+ And I wanted to fight for someone else, who was stronger than I am."
+Yamamoto Akuji (talking),で、俺はあんたのお眼鏡に かなったって訳か。,So this means I`ve fit your bill.
+Hasekura Kirika (talking),はい。,Indeed.
+Yamamoto Akuji (talking),俺の部下になるって事だよな？,So you`ll work for me?
+Hasekura Kirika (talking),はい。,Yes.
+__system__??,{★桃山組 = 2:,{★桃山組 = 2:
+Yamamoto Akuji (talking),俺は今、ＰＭと交戦中だ。 お前さん、自分の身内と戦う事に なるかもしんねーんだぜ。,I`m fighting against the PM. You might end up fighting your family and friends.
+Hasekura Kirika (talking),"わたくし、支倉の家…… ＰＭを守る為の家に生まれましたが、 跡継ぎではありません。
+ですから、敵になろうが、 味方になろうが、支障はありません。
+むしろ、ＰＭはわたくしを裏切り者として 忌み嫌う事でしょう。","I was born into the Hasekuras, who are sworn to protect the PM, but I am not its heir.
+ Therefore, it does not matter if I am an enemy or an ally.
+ In fact, the PM will likely despise me for betraying them."
+Yamamoto Akuji (talking),それでも戦うってか。,"So you`ll fight, even then?"
+Hasekura Kirika (talking),はい。,Yes.
+__system__??,{RND \ 0:,{RND \ 0:
+Hasekura Kirika (thinking),"こちらに、アエン姉様がいらっしゃると いう情報は入っている。
+わたくしまでＰＭを裏切ったと 思われてもよい…
+跡継ぎであるアエン姉様に、 支倉の家へ帰って貰う好機を作る事が 出来るなら、それでも…","I`ve received a report that  Aen-nee-sama is here.
+ I don`t mind if she believes that even I betrayed the PM...
+ If I can create a good opportunity for her, the heir, to return to the Hasekuras, then..."
+__system__??,},}
+__system__??,},}
+Yamamoto Akuji (talking),よーし、わかった。 今日からあんたは俺の部下だ。,"Alright, sure. You work for me now."
+Hasekura Kirika (talking),はい、ありがとうございます。,"very well, thank you."
+__system__??,{H愛欲 \ 0:,{H愛欲 \ 0:
+__system__??,},}
+Yamamoto Akuji (talking),おう。,Yo.
+Hasekura Kirika (talking),ごきげんよう。,Hello.
+Yamamoto Akuji (talking),ときに、キリカ。,"By the way, Kirika."
+Hasekura Kirika (talking),なんでしょう？,Yes?
+Yamamoto Akuji (talking),好きな男とかっている？,Do you have a guy you like?
+Hasekura Kirika (talking),いいえ。,I do not.
+Yamamoto Akuji (talking),過去には？,What about in the past?
+Hasekura Kirika (talking),いましたけど、特に接点などは ございませんでしたわ。,"I did, but I never had any contact with him."
+Yamamoto Akuji (talking),じゃあ、これが初めてになるってわけか。,So this`ll be your first time.
+Hasekura Kirika (talking),？,?
+Yamamoto Akuji (talking),俺が、あんたの知らない世界に 連れてってやるよ。,I`m gonna take you to a whole new world.
+cg narrator,"「あぁっ……」
+キリカの甘い声が漏れる中、 悪司の指が白いショーツの上を滑る。
+ 「あっ……！」
+甲高い音がしてキリカの絹のショーツの中央が 裂けていく。
+悪司がそこを、カッターで切ったからだ。 その奥から、既にぐっしょりと濡れそぼった 花弁が姿を現した。
+ 「ああっ…！」
+キリカの背中が、大きくのけぞる。
+ 「あっ……！！」","「Aaahn...!」
+ Akuji ran his fingers across Kirika`s panties as she moaned.
+ 「Ahn!」
+ With a sharp sound, her silk panties were torn apart.
+ Akuji had cut them with scissors. With that, Kirika`s drenched petals were now exposed.
+ 「Aaaaahn!」
+ Kirika`s back arched backwards.
+ 「Ahn...!」"
+cg narrator,"悪司の大きく、節くれだったそれが、 ゆっくりゆっくり、キリカの中に入ってきた。
+ 「くっ……ぁぁっ……！！」
+キリカはシーツをぎゅっと掴み、 挿入されたそれの痛みに耐える。
+ 「痛いか？」
+ 「……ぁっ……はっ……い……」
+小刻みに震えるキリカの躰に、 悪司は胸を押しつける。
+ 「そんな、力入れてちゃ、余計に痛いぜ」
+ 「あっ……！」
+悪司は入れたそれを動かさず、 キリカの胸を愛撫する。
+ゆっくり乳房を下から上へとまさぐり、 尖った乳首を指の腹で転がした。
+ 「あっ………ぁんっ……」
+キリカの声に艶が戻り、細く甘ったるい声が 唇の端から漏れ出した。
+ 「痛い時は痛いって素直になった方がいいぜ。 　やりたい盛りのガキじゃねぇから、 　調節がきくからよ」
+ 「そっ…そういう…もの…なんです……か？」
+ 「ああ、そーさ。 　戦闘と同じさ。 　痛みの向こうには、快楽が待ってる」
+ 「……戦い……と……おな……あっ！？」
+キリカの胸をまさぐっていた悪司の指が、 接合部分に伸びていた。
+ 「ここ、気持ちいいか？」
+と言って、悪司がまさぐっているのは、 尖りきっているキリカのクリトリスだった。
+ 「っ！！」
+キリカの腰が、ビクリと跳ねた。 それと同時に、キリカの中が、 悪司の一物を締めつける。
+ 「どうだい？ 　気持ちいいかい？」
+ 「はっ……ぁっ……」
+キリカは恥ずかしそうに首を左右に振った。
+ 「気持ちいいって言っていいんだぜ。 　恥ずかしい事じゃねーさ。 　こーいう時は、特に」
+悪司の指が下から上へと滑った。
+ 「はっ……ぅあっ……！！」
+キリカの躰が大きく震える。
+ 「さあ、言ってみな。 　気持ちいいだろ？」
+ 「………………はっ……はい……」
+息を大きく荒げ、キリカが答える。
+ 「さーて、こっからが本番だぜ、キリカ」
+ 「こっ…これ以上が……あっ… 　……あるの……ですか？」
+ 「まだ、ほんのスタートさ。 　こっからは、戦闘訓練と同じで、 　気を合わせあって、互いを貪っていくんだ」
+ 「っ……わっ…わかりま…せん… 　どうすれば……良いの…ですか？」
+潤んだ瞳で悪司を見つめ、問うキリカ。
+ 「可愛いぜ、そーいう質問。 　俺が今から腰振るからよ、俺の動きに 　逆からわずに合わせてくれたらいい」
+ 「……えっ…どうやっ…て…？」
+ 「こっから実践だ。 　ほーら」
+ 「あっ…！！」
+悪司はキリカの手を掴むと、腰を浮かせた。 そしてゆっくり、自分のものをキリカの花弁から 引き出す。
+ 「あっ……ああ！？」
+キリカの花弁に、悪司の雁が擦れ、ゆっくり蠢く。
+ 「んっ……はっ……ああっ…！！」
+痛みと、痺れるように感覚に、 キリカの意識が奪われていく。
+ 「気持ちいいのか？」
+ 「わっ……わかりま…せん……っ……」
+ 「痛くはないか？」
+ 「…そ……っ……それ程は…」
+ 「よっしゃ」
+悪司は再び、キリカの中に滑りこんだ。
+ 「あっ！」
+そして今度は素早く、キリカの中から引き抜く。
+ 「うあっ……あああ！」
+悪司が素早く、腰をストロークする。
+ 「はあっ…っ！」
+キリカは息をするのを忘れ、悪司のそれに、 身を委ねる。 さっき、悪司に言われた通りの事を実践する為に。
+ 「んっ…あ、はっ…んぅぅっ…！！」
+キリカはぎこちなく、悪司に躰を合わせる。
+尻と腹の肉が爆ぜる音が、 軽やかに部屋に響き出した。
+ 「ＰＭの優等生は、飲み込みが早いな」
+悪司はそう言って、キリカの耳を唇で挟んだ。
+ 「はっ……んっ！」
+そのまま滑らされる舌の感触と、生まれて初めて 味わう膣内の摩擦に、キリカは意識をどんどん 白に染めていく。
+ 「躰をこっちに寄せられるか？」
+ 「あっ……はっ…いっ…あっ…あぅんっ…！」
+キリカは腹に力をこめ、悪司の方へと 背中を預けた。
+ 「あっ！！」
+悪司はそのままキリカの中を行き来する。 キリカの中で、強く擦られる部分が変化して、 キリカの意識がさらに白く染まった。
+ 「あっ…ああっ…！！」
+悪司に腰を支えられ、下から上へ、 激しく突き上げられるキリカ。
+悪司はキリカの顔に唇を寄せた。
+ 「あっ…んっ……んぅっ…」
+唇が接合する事なく、舌と舌が絡めあう。 体液が絡まりあう音が二重になり、 高く響いた。
+ 「ん……ぅぁ！」
+そのまま、悪司はキリカのクリトリスに指をやる。
+ 「最初だったら、こっちの方が絶対、 　感じられるからな…」
+悪司はニヤリと笑って、そこを指の腹で擦った。
+ 「ああ、あ！」
+キリカは腰を弓なりにしならせ、 悪司をぎちぎちと絞めた。
+ 「あっ…あぁっ…？」
+キリカの意識がさらに白くなる。
+ 「あうっ…あっ……んっ……~~っ……！！」
+キリカは悪司の腕を強く掴み、 躰を大きく震わせた。","Akuji`s huge, gnarled member slowly went inside Kirika.
+ 「Khh, haaaahn!」
+ Kirika gripped the sheets, enduring the pain from the insertion.
+ 「Does it hurt?」
+ 「...ahn...! Y-Yes...」
+ Akuji pressed his chest against Kirika`s shivering body.
+ 「It`ll hurt more if you`re this tense.」
+ 「Ahn...!」
+ Without moving his hips, Akuji fondled Kirika`s breasts.
+ He carefully massaged them up and down, kneading her erect nipples with his fingers.
+ 「Ahn! mmmmmn!」
+ A faintly sweet voice escaped from Kirika`s lips.
+ 「You should be honest and just tell me 　when it hurts. I`m not some horny brat, 　I can adjust to you.」
+ 「I-Is that... how it is...?」
+ 「Yeah. 　It`s just like fighting, there`s 　pleasure to be had beyond the pain.」
+ 「...Just like... f-fight- aaaahn?!」
+ Akuji`s hand that was massaging Kirika`s breasts now made its way to her pussy.
+ 「This place feel good?」
+ Akuji was massaging Kirika`s erect clit as he asked.
+ 「...!!!」
+ Kirika`s hips bucked. At the same time, her pussy squeezed Akuji`s manhood.
+ 「How is it? 　Ya feel good?」
+ 「I-I... aaahn!」
+ Kirika shook her head in embarrassment.
+ 「You can say it feels good, 　ain`t nothing to be embarrassed about. 　Especially not now.」
+ Akuji`s hand slid up Kirika`s body.
+ 「Haaahn! aaaaahn!」
+ Her body trembled.
+ 「Now, try saying it. 　Feels good, right?」
+ 「......Y-Yes...!」
+ With ragged breathing, Kirika answered.
+ 「Now then, here comes the real deal, Kirika.」
+ 「Th-There`s even more- aaahn! 　...to this...?」
+ 「We`re only getting started here. 　Just like in a practice match, we`re gonna 　match our feelings and crave each other.」
+ 「...! I-I don`t... understand... 　What should... I do...?」
+ Kirika asked, looking at Akuji with moist eyes.
+ 「That`s a cute question. 　I`m gonna start moving my hips, so you 　just have to try and match me.」
+ 「...Huh? How...?」
+ 「We`re gonna practice that now. 　Here.」
+ 「Ahn!!」
+ Akuji seized Kirika`s hands and moved his hips. Then, he slowly pulled his member out of Kirika`s petals.
+ 「Ahn, aaahn?!」
+ Akuji`s tip slowly rubbed her petals.
+ 「Mmmmmn! haaahn! aaahn!」
+ The pain and a feeling resembling numbness chipped away at Kirika`s consciousness.
+ 「Does it feel good?」
+ 「I-I don`t... know...!」
+ 「Does it hurt?」
+ 「...N-Not too much...」
+ 「Cool.」
+ Akuji once again slid his member inside Kirika.
+ 「AHN!」
+ Then he quickly pulled out of her.
+ 「Haaahn! aaaaaahn!」
+ Akuji nimbly thrust his hips.
+ 「Haaaaahn...!」
+ Unable to even breathe, Kirika entrusted her body to Akuji, in order to put what he`d just said into practice.
+ 「Mmn! aaahn! haaahn, mmmmmmmnh!!」
+ Kirika awkwardly matched Akuji`s movements.
+ The sound of her hips slamming against one another resounded through the room.
+ 「The PM`s elites sure learn fast, huh?」
+ Akuji pinched Kirika`s ear with his lips.
+ 「Haahn! mmmn!」
+ Between Akuji`s tongue slipping inside her ear and her first taste of her petals being rubbed, Kirika`s head went blank more and more
+ 「Can you bring your body closer to me?」
+ 「Ahn! Y-Yes...! aaahn! aaauh...!」
+ Kirika put strength into her stomach and leaned her back onto Akuji.
+ 「Ahn!」
+ Akuji kept thrusting into Kirika. The powerful rubbing made her head go blank even more still.
+ 「Ahn! aaahn!」
+ With her hips on top of his, Akuji intensely thrust into Kirika.
+ He then brought his lips to her face.
+ 「Ahn! mmm! mmmmnh!」
+ Without touching lips, he entwined his tongue with Kirika`s, adding even more to the sound of fluids mixing together.
+ 「Mmm! aaahn...!」
+ Akuji then placed his finger on Kirika`s clit.
+ 「If this is your first time, then you`ll 　definitely feel good from this.」
+ With a grin, Akuji rubbed Kirika`s clit.
+ 「Aaaahn!」
+ Kirika`s body arched, squeezing Akuji hard.
+ 「Ahn! aaaahn...?」
+ Kirika`s mind went blank.
+ 「AAAAAAAHHHHN! MMMMMMNNN...!!!」
+ Kirika powerfully grasped Akuji`s arms as her body trembled wildly."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Yamamoto Akuji (talking),キリカ、ここでやっちまっていいか？,"Kirika, can I do you here?"
+Hasekura Kirika (talking),わたくしを抱きたいと？,You mean you`ll sleep with me?
+Yamamoto Akuji (talking),おう、いやか？,Yeah. Don`t wanna?
+Hasekura Kirika (talking),いやではありませんが、わたくし達の 睦言が、皆に聞かれてしまうのではと。,"I do not mind, but what if others hear our whispered intimacies?"
+Yamamoto Akuji (talking),そーいうのもいいぜ。,That`s fine too.
+Hasekura Kirika (talking),……けだもののようですわね…,...You are like a beast...
+Hasekura Kirika (talking),キリカは、悪司に抱かれた。,Akuji slept with Kirika.
+Yamamoto Akuji (talking),で、なんか欲しいものはあるかい？,There anything you want?
+Hasekura Kirika (talking),それは物品ですか？ それとも、精神的なものでしょうか？,"As in, goods? Or something more abstract?"
+Yamamoto Akuji (talking),どっちでも。,Either.
+Hasekura Kirika (talking),"………………
+では、特にありません。","...
+ Nothing in particular."
+Hasekura Kirika (talking),"………………
+そのような職業が存在するのは 存じております。
+ただ……そこに行けと仰ったと いう事は、もうわたくしに戦うなと いう事ですね……？
+ ……戦わせて頂けるのなら…… そう思い、あなたの部下になる事を 承諾した、このわたくしに……
+ ……あなたのお考えはよくわかりました。 ごきげんよう、さようなら。","...
+ I am aware that you possess such a business.
+ However... if you are telling me to go there, then that means you do not want me to fight anymore, no?
+ ...I accepted to work for you if it meant I got to fight, and yet...
+ ...I now understand what you are like. Take care, and farewell."
+narrator,キリカがマイセンの茶器に、 リンダの為に茶を淹れている。,Kirika was brewing tea for Linda with Meissen-made tea utensils.
+Hasekura Kirika (talking),お待たせしました、リンダ様。 お茶が入りました。,"Apologies for the wait, Linda-sama. I`ve brought your tea."
+Momoyama Linda (talking),ありがとう、キリカ。,"Thanks, Kirika."
+Hasekura Kirika (talking),恐れ入ります。,You honor me.
+Momoyama Linda (talking),ふう……おいちいでちゅわ。 クッキーも、あなたの手作り でちゅかちら？,"Phew... it`s delicious. Did you make these cookies yourself, too?"
+Hasekura Kirika (talking),はい。 ココアのよいものが手に入ったので、 生地に混ぜてみました。,"Yes. I`d obtained high-quality cocoa beans, so I tried adding them to the dough."
+Momoyama Linda (talking),今度また作ってくだちゃいな。,Make me some more another time.
+Hasekura Kirika (talking),かしこまりました。,Understood.
+Momoyama Linda (talking),アエンの事、聞きまちたか？,Have you heard about Aen?
+Hasekura Kirika (talking),どのような事ですか？,What exactly?
+Momoyama Linda (talking),ハイネから言いつけられた場所を守りも せず、悪司の領地に殴り込みをかけては 逃げているそうでちゅ。,"She isn`t following Haine`s orders, and is instead raiding Akuji`s territories."
+Hasekura Kirika (talking),まあ……,My...
+Hasekura Kirika (thinking),アエン姉様らしいといえば、 らしい事なのですけど……,"Then again, that`s very much like Aen-nee-sama..."
+Momoyama Linda (talking),配下の者が、どうすればいいか 困っているらしいでちゅわ。,Seems like her men are at a loss over what to do.
+Hasekura Kirika (talking),それは……そうですね。,That... is to be expected.
+Momoyama Linda (talking),アエンは何が気にいらないのか 知りまちぇんが、落ち着きが ないでちゅわね。,"I don`t know what Aen`s issue is, but she has zero composure."
+Hasekura Kirika (talking),申し訳ありません。,My apologies.
+Momoyama Linda (talking),あなたが謝る事ではないでちゅわ、 キリカ。,"It`s nothing for you to apologize for, Kirika."
+Hasekura Kirika (talking),ですが、双子の姉の失態ですので。,But it is my twin sister`s blunder.
+Momoyama Linda (talking),アエンがあなた程聞き分けのよい子 でちたら、ハイネも跡取りの事で 苦労が少ないでちょうに。,"If only Aen was as well-behaved as you are, Haine wouldn`t have to worry so much about succession."
+Hasekura Kirika (talking),……………,...
+narrator,広大な敷地内の一角に作られた道場で、 キリカは門下生達に稽古をつけていた。,"In the vast manor`s dojo, Kirika was training her disciples."
+Hasekura Kirika (talking),はい、今日はここまでにします。,That will be all for today.
+Peach Maid (talking),礼！,Bow!
+narrator,"「ありがとうございました！」
+規律正しく礼をすると、門下生達は、 道場から出て行った。","「Thank you very much!」
+ The disciples gave their thanks in an orderly manner, then left the dojo."
+Peach Maid (talking),お疲れ様でした、キリカ様。 タオルです、どうぞ。,"Good work, Kirika-sama. Here`s a towel."
+Hasekura Kirika (talking),ありがとう。,Thank you.
+Peach Maid (talking),あの……アエン様は、わたくし達に稽古を つけるのが、おいやと聞いたのですが… それは、本当なのですか？,Um... I heard that Aen-sama didn`t want to train us... Is that true?
+Hasekura Kirika (talking),え……？,Huh...?
+Peach Maid (talking),あ、申し訳ありません！ 差し出がましい事をお聞きして……,"Oh, my apologies! This was impertinent of me..."
+Hasekura Kirika (talking),いいですわ、続けて。,"It`s fine, go on."
+Peach Maid (talking),"は、はい、あの……
+あの……そういう噂が……
+火の性質の門下生もキリカ様が面倒を 見てらっしゃるのは、アエン様が いやがっていらっしゃるからだと……","O-Okay, so...
+ Um, the rumor goes like this...
+ You are also training the fire disciples because Aen-sama doesn`t want to..."
+Hasekura Kirika (talking),無責任な噂です。 そのような事、聞き捨てておきなさい。,What an irresponsible rumor. Please forget you heard that.
+Peach Maid (talking),は、はい…… 申し訳ありません……,O-Okay... My apologies.
+narrator,門下生は、キリカに深々と頭を下げると、 そそくさとその場から立ち去った。,The disciple deeply bowed to Kirika then left in a hurry.
+Hasekura Kirika (thinking),"………………
+こうして……よかれと思ってアエン姉様の 代わりに稽古をつけている事さえ、アエン 姉様にとって、不利な事になるなんて…
+それだけではない…… リンダ様も…アエン姉様が支倉の跡継ぎに なる事に不安がおありみたい…
+救いは父様までが、そうは思っていないと いう事なのだけど……
+それでも、アエン姉様の態度が 問題で…
+ ……どうすればよいのかしら……","...
+ I had the best of intentions when instructing in Aen-nee-sama`s place, but even that ended up doing her harm.
+ And it`s not just this. It seems Linda-sama is also uneasy over nee-sama being the Hasekura`s heir.
+ At the very least, it doesn`t seem like Father thinks the same.
+ Even then, Aen-nee-sama`s attitude is a problem...
+ ...What should I do...?"
+narrator,ハイネの部屋に、キリカが呼ばれた。,Haine called Kirika to his room.
+Hasekura Kirika (talking),どうなさいました、お父様？,"What is the matter, Father?"
+Hasekura Haine (talking),奉仕青年団に動きがあった。,The YCSG`s on the move.
+Hasekura Kirika (talking),例の……悪司とかいう、 リンダ様と抗争をしている……,"Akuji, the one who`s been fighting Linda-sama?"
+Hasekura Haine (talking),そうだ。 奴が、このヒラカタに部下を送り込み、 戦争をしかけてきた。,Yes. He`s sent his men here to Hirakata and launched an attack.
+Hasekura Kirika (talking),……………,...
+Hasekura Haine (talking),キリカ。,Kirika.
+Hasekura Kirika (talking),はい、わかっております。 進入を阻止いたします。,I understand. I shall halt their advance.
+Hasekura Haine (talking),頼んだぞ。,I`m counting on you.
+Hasekura Kirika (talking),はい、お父様。,"Very well, Father."
+narrator,キリカはスカートの裾を広げ、 優雅に頭を下げた。,Kirika held the hem of her skirt and bowed gracefully.
+Chinpira (talking),え、えーと…,U-Um...
+Chinpira (talking),お待たせ、デース。 準備ＯＫデース。,"Sorry for, the wait. We all ready."
+uimiiheishi (talking),おい、本当に嬲って嬲って嬲りつくして くれる女なんだろうな？,"Hey, this chick really will humiliate the shit outta me, right?"
+Chinpira (talking),オケー、イエスイエス。,"Okay, yes, yes."
+uimiiheishi (talking),嘘だったら、お前のそのフニャチン、 マシンガンの的にしてくれるからな。,I`ll use your tiny dick as target practice if she doesn`t.
+Chinpira (talking),オケー、イエスイエス。,"Okay, yes, yes."
+uimiiheishi (talking),……ホント、ウィミィ語、 わかってるのか、お前…,...Do you even understand Wimenese...?
+Chinpira (talking),オケー、イエスイエス。,"Okay, yes, yes."
+uimiiheishi (talking),やれやれ…これじゃ、女の方も不安だぜ…,Now I`m worried about the whore...
+cg narrator,"「あなたが、わたくしにいたぶられたいという、 　ウィミィ人ね」
+ 「Ｏｈ………Ｏｈ~~…」","「So you`re the Wimenese who wanted me 　to humiliate them?」
+ 「Oh... Ooooh...」"
+cg narrator,男はキリカの正しいウィミィ語の発音と、 その姿に感嘆の声をあげた。,The man couldn`t help but express his admiration over Kirika`s fluent Wimenese.
+cg narrator,"「何をしているの？ 　ぼさっと立っていないで、 　さっさと自分で服を脱ぎなさい」
+ 「は、はい、わかりました……」","「What do you think you`re doing? 　Don`t just stand there, 　take your clothes off at once.」
+ 「O-Okay, understood...」"
+cg narrator,ウィミィの男は、女を買った立場だというのに、 横柄なキリカの声に、従順に、全裸となった。,"Although he was the customer, the man meekly stripped, obeying Kirika`s arrogant command."
+cg narrator,「こ、これでいいかい？」,「I-Is this fine?」
+cg narrator,男は股間を手で隠し、へっぴり腰で、 キリカに問うた。,The man asked Kirika while bending his back and hiding his privates with his hand.
+cg narrator,「あなた、ここに入ったというのに、何故、 　わたくしと対等の口をきいてらっしゃるの？ 　ご自分の立場をわかってらして？」,"「You came here, yet you`re speaking to 　me as if you were my equal? 　Do youeven  understand your position here?」"
+cg narrator,"　　［ピシッッッ］
+キリカは手にしていた鞭で、男のそばの床を叩いた。","　　*Whip!!*
+ Kirika hit the floor nearby with her whip."
+cg narrator,"「ひっ…！！ 　す、すみません…あの……」
+ 「キリカですわ」
+ 「は、はい、キリカ様… 　申し訳ありません……」
+ 「四つんばいになりなさい」
+ 「は、はい」","「Eeek...! 　I-I`m sorry, I-」
+ 「Kirika.」
+ 「Y-Yes, Kirika-sama... 　My apologies...」
+ 「Get on all fours.」
+ 「Y-Yes.」"
+cg narrator,男は言われた通り、四つんばいになる。,The man did as instructed.
+cg narrator,"「栄光あるウィミィの軍人が、 　なんてみっともない恰好を…」
+ 「ご、ごめんなさい、ごめんなさい… 　こんな駄目なボクを叱って下さい。 　キリカ様……」
+ 「そのままこちらにいらっしゃい」
+ 「はい……」","「For a soldier of the glorious Wimenese 　Army to be like this...」
+ 「I-I`m sorry, I`m sorry... 　Please reprimand this worthless pig, 　Kirika-sama...」
+ 「Come over here, as you are.」
+ 「Okay...」"
+cg narrator,"男は、興奮に頬を染め、しかし顔は叱られた子供の ような表情で、犬のようにキリカのそばへ行く。
+やがて、キリカの座っている椅子の 足元までやってきた。","The man walked over to Kirika like a dog, his cheeks flushed and his expression, pathetic.
+ Soon enough, he had made his way to the chair Kirika was sitting on."
+cg narrator,"「そこで止まって」
+ 「は、はい…」
+ 「よくここまでこれましたわね。 　ご褒美にご奉仕させてあげましてよ」","「Stay.」
+ 「O-Okay...」
+ 「Good work coming over here. 　I shall give you your reward.」"
+cg narrator,キリカはそう言い、自分の花弁をゆっくり、 見せつけるように、男の前で指で開いてみせた。,"With that, Kirika slowly spread her petals open for the man to see."
+cg narrator,「お、Ｏｈ~~~……」,「Ooooh...」
+cg narrator,キリカのそこは、まるで男を知らぬ者の色をして、 それでいて、ふっくらと熟れた瑞々しい果実の弾力を 持ち、うっすらと濡れ光っていた。,"Kirika`s pussy still looked pristine, with the feeling of a juicy, ripe fruit, and a hint of honey."
+cg narrator,"「ここを舐めるのは、お好き？」
+ 「は、はい…好きです…舐めさせて下さい… 　ああ…こんな風になじられると、ボク、ボク……」","「Do you like licking this place?」
+ 「Y-Yes, I do... Please let me lick it... 　Ohh, if you keep grilling me like this, I`ll-!」"
+cg narrator,"男は四つんばいのまま首と舌を伸ばした。
+ 「ふふっ……」
+キリカの声が、快楽に揺れる。
+ウィミィの男のざらついた舌が、水音をたて、 キリカの花弁を這い出した。","Still on all fours, the man reached his tongue out.
+ 「Fufu...!」
+ Kirika`s voiced wavered with pleasure.
+ The man`s coarse tongue ran across Kirika`s petals, producing a wet sound."
+cg narrator,"「お上手です事。 　こういう事は、慣れているのですかしら？」
+ 「はい…じゅぶ……いつもいつも、 　オクラホマの妻に、なじられて…じゅぶぶ… 　舐めていました…」","「Very good. Could it be that 　you`re used to this?」
+ 「Yes... schlrp... My wife back in Oklahoma 　is always telling me off... schhhp... 　She keeps making me lick her...」"
+cg narrator,男は郷愁に目を細め、陶然としている。,"The man narrowed his eyes, caught in nostalgia."
+cg narrator,"「そう…根っからの、変態ですのね」
+ 「は、はい、そうです、変態です… 　じゅぶ…もっと、もっと、ボクの事を 　いじめて下さい~…」","「I see, so you`re a pervert by nature.」
+ 「Y-Yes, I`m a pervert... 　Schlllrp... Please, k-keep humiliating 　me more and more!」"
+cg narrator,"男は泣き声に近い声をあげ、哀願する。
+キリカは机の上のブランデーグラスを手に取ると、 琥珀色の液体を口腔に滑りこませた。
+そして、目を落とす。 自分の花弁を懸命に、嬉しそうに 舐めているウィミィ人。
+そのウィミィ人の、持ち主以上に嬉しそうに 屹立している、ピンク色の一物。
+キリカは少し、口を開けた。 そこから琥珀色の液体が、 一物に滑り落ちていく。","The man begged almost as if he was crying.
+ Kirika picked up a brandy glass from the table and sipped on the amber liquid inside it. 
+ Then, she looked down at the man happily licking her petals.
+ More precisely, at his towering manhood, which was even more excited than he was.
+ Kirika opened her mouth a little, letting the amber liquid inside fall down onto the man`s dick."
+cg narrator,「Ｏｈｈ！」,「Ohh!」
+cg narrator,液体の感触に、男が声をあげ、 奉仕する事を忘れた。,"The man moaned from the sensation, making him cease his licking."
+cg narrator,「誰が舌を休めて良いと言いました？」,「Who told you to stop?」
+cg narrator,キリカはそう言って、男の背中を鞭で打った。,Kirika whipped the man`s back.
+cg narrator,「Ｏｈ！！」,「Oh!!」
+cg narrator,男はまた、舌を動かすのを忘れる。,He once again forgot to keep licking.
+cg narrator,「あなたは、ワザとそうしているのかしら…」,"「You`re doing this on purpose, aren`t you?」"
+cg narrator,キリカはそう言いながら、手にしている鞭の柄で、 屹立している男のものを擦った。,Kirika rubbed the man`s dick with her whip`s handle as she spoke.
+cg narrator,「Ｏｈ……Ｏｈ~~…」,「Oh... ooohhhh...」
+cg narrator,"うっとりと、男は口をＯの字にして、 涎を垂らす。
+微妙な凹凸のついたそれは、屹立した男のものを 刺激する。","He drooled as he showed Kirika his O-face.
+ The handle`s slight bumpiness stimulated the man`s erect dick."
+cg narrator,"「こんなに、濡らして… 　まるで、女性のよう…」
+ 「キリカ様、Ｎｏ！　そこをそんな、あ、あ、あ、 　Ｏｈ……Ｏｈｈｈ！！！！」","「Look how wet it is... 　It`s as if you were a woman.」
+ 「Kirika-sama, no! Not there- ahn! ahn, aaaahn! 　Oh... oooooohhhhhh!!!」"
+cg narrator,男は鞭の柄で愛撫されてしまっただけで、 達してしまい、キリカの胸に、白濁の体液を 多量にぶち撒けた。,"The man climaxed just from the whip`s handle, shooting a large quantity of his cloudy liquid over Kirika`s chest."
+cg narrator,"「……まあ……」
+ 「お、お許しを！ 　お許しを！！」
+ 「では……この汚らしいもの、ご自分の舌で、 　舐め取って下さるかしら？」
+ 「は、はい…失礼します…」","「...My...」
+ 「F-Forgive me! 　Please forgive me!」
+ 「Then... could you lick this 　dirty thing off of me?」
+ 「Y-Yes... Excuse me...」"
+cg narrator,男はさっき発射したばかりだというのに、 その固さを緩める事のない一物をそのままに、 キリカの胸に顔を近づけ、舌を出した。,"Though he`d just ejaculated, the man`s dick remained hard and he approached Kirika`s breasts and put out his tongue."
+cg narrator,"「ご自分の精液は、美味しいかしら？」
+ 「は、はい、美味しいです… 　ああ、キリカ様…キリカ様の胸が…」
+ 「ふふ……」","「Does your own semen taste good?」
+ 「Y-Yes, it does... 　Ahhh... Kirika-sama”s breasts...!」
+ 「Fufu...」"
+cg narrator,キリカのピンヒールの爪先が、男の一物を、 下から上になぞった。,Kirika ran the tip of her stiletto up across the man`s dick.
+cg narrator,"「Ｏｈ！！」
+ 「まだまだ、これからよ… 　萎える暇など、ありませんわ…… 　ふふ……ふふふ……」","「Oh!!」
+ 「We`re only getting started... 　You won`t have time to go soft. 　Fufu... fufufu...」"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Chinpira (talking),"はいはい、 ご指名ありがとうございまーす！
+キリカちゃん、キリカちゃん。 はりきってお仕事~！ ハッスル、ハッスル~！","Okaaaay, Thanks for your request!
+ Kirika-chan, you`re up! Let`s hustle~!"
+Hasekura Kirika (talking),まあ……,My...
+Imagawa Kurusu (talking),キリカ様……,Kirika-sama...
+Hasekura Kirika (talking),どうして、わたくしがここにいる事が わかりましたの？,How did you know I was here?
+Imagawa Kurusu (talking),人づてに噂を聞いて… でも、まさか…,I heard some rumors around town. But I never thought...
+Hasekura Kirika (talking),わたくしが自分の躰で、 春をひさいでいるとは思わなかった… ですかしら？,You never thought I`d be here working as a prostitute... Is that correct?
+Imagawa Kurusu (talking),っ…………,...!
+Hasekura Kirika (talking),これはこれで、楽しんでいますけどね。,This is fun in its own way.
+Imagawa Kurusu (talking),…………戦え…ないのに、ですか？,...Even though you`re not fighting?
+Hasekura Kirika (talking),……………,...
+Imagawa Kurusu (talking),キリカ様………,Kirika-sama...
+Hasekura Kirika (talking),クルス……,Kurusu...
+Imagawa Kurusu (talking),………はい……,...Yes...
+Hasekura Kirika (talking),こちらにいらっしゃい。 お金を払ったのでしょう？,"Come over here. You`ve paid, right?"
+Imagawa Kurusu (talking),キリカ様…？,Kirika-sama...?
+Hasekura Kirika (talking),お金を払った分、 楽しませてさしあげてよ。,I`ll give you your money`s worth.
+Imagawa Kurusu (talking),そんな……僕は…… 僕は、そんなつもりじゃあ……,No... I can`t... This isn`t what-
+Hasekura Kirika (talking),いらして。,Come.
+narrator,キリカはクルスの手を掴むと強引に引き倒した。,Kirika took Kurusu`s hand and pulled him down.
+Imagawa Kurusu (talking),あっ……！！,Ah...!!!
+cg narrator,"　　［パチン］
+キリカの股間のボタンがはずされる音がする。 その下からは、既に濡れた花弁が。
+クルスの目の前に、それが露になる。
+ 「あっ……キリカ様っ…！」
+ 「ほら……ここをこうすると……」
+ 「あっ…ああっ…！！」
+ 「さあ……入れてさしあげるわ……」
+ 「キリカ様…そんな…あっ…あっ…… 　あっ……！！」","　　*Click*
+ Kirika undid the buttons in her crotch, revealing her already-wet petals.
+ Kurusu saw her honey trickle down.
+ 「Ah! Kirika-sama...!」
+ 「Look... If you do this here...」
+ 「Ah! aahn, ahn!」
+ 「Now, I`ll put it in for you...」
+ 「Kirika-sama, we can`t- ahn! 　Aaaahn...!」"
+cg narrator,"キリカは屹立しているクルスのものを掴むと、 そのままゆっくり、クルスを焦らすように、 腰を下げていく。
+「ああっ……！！」
+「まあ…少女のような声をあげて… 　可愛らしい事…クルス……」
+「そんな……キリカ様っ…… 　あっ…！！」
+半分程クルスのものを飲み込んだところで、 キリカは微妙にクルスの雁の根元を締め上げた。
+「どう……気持ち良い？」
+「……っぁっ……」
+ＹＥＳと言う風に取れる返事をする事に、 クルスは戸惑いを隠せない。
+「素直になってくれませんこと？ 　でないと……娼婦としてのわたくしのプライドが 　傷ついてしまうのですけど？」
+「そんなっ…自分の事を……」
+「さあ……クルス……」
+クルスのものを微妙に締めたまま、 キリカはゆっくり腰を落とした。
+「あっ……あっ、あ！」
+クルスは顔を真っ赤に染め、 キリカのなすがままになる。
+「あら……初めてなのに、これで精を 　放たなかっただなんて… 　素敵ですわ、クルス…」
+「キリカ様……」
+「これでわたくし、何人もの殿方を 　昇天させましたのよ。 　屈強なウィミィの男も」
+キリカはそのままクルスのものを根元まで 飲み込み、ゆっくり腰を振る。
+「あっ…！　キリカ様っ…！」
+クルスの手がおずおずと乳房に伸びる。
+「そう……ふれて頂戴な… 　今のわたくしは、殿方のそういう感情の上で 　存在が成り立っているのだから……」
+「クルス…今のわたくしを否定しないで…」
+キリカはクルスの頬をゆっくり撫でた。 その時の目は、子弟を見る、クルスがよく 知っているキリカの目だった。
+「キリカ様……？」
+「……ふふふっ……」
+その目があっという間に、艶に染まる。
+そうなった途端、 すぐにキリカが腰を揺らし始めた。
+「あっ！？」
+「あなたはじっとしてらして… 　わたくしが、あなたを誘って差し上げるから…」
+キリカはそう言って唇の端を舐めた。 普通の女がすれば下品な行為だったが、 キリカの清楚な顔にそのしぐさは酷く淫猥だった。
+クルスはその光景を見ただけで、 自分の中の高みがさらに高くなった事を感じる。
+「あっ……！」
+そのクルスの微妙な変化を逃す事なく、 キリカがクルスの一物を、粘膜で愛撫する。
+「すぐに出してしまっても、笑いはしませんわよ… 　むしろ、可愛らしいと思ってしまうわ…」
+キリカはゆっくり腰を上げ、一気に降ろした。 ずるり、と、クルスのものが一度、激しく擦られる。
+雁が襞に引っ掛かる感触に、クルスは一度だけ 腰をビクリと跳ねさせた。
+「うっ……ああっ……」
+「……可愛らしいわ…クルス… 　あなた、こういう時は、そのように、 　目を潤ませて、わたくしを見るのね…」
+「キリカ様…もう…もう……」
+「もう……何？」
+「……やめて下さい…… 　これ以上……」
+「平気ですわよ、クルス。 　なんなら、中で出しても、 　よろしいのですけど」
+「そん…な……あっ、あ！」
+キリカはクルスの腹の上に手をつくと、 素早く腰を振り、クルスを愛撫した。
+「んっ…ぁぁっ……」
+クルスは荒い息を吐き、さらに瞳を潤ませる。
+「その為に薬も飲んでいますわ」
+「快楽を追求しただけの、ただの粘膜接触行為に、 　生まれてくる事を望まれる子などいません 　でしょう？」
+キリカはそう言って少し寂しそうに笑った。
+「戦士として生きる事も… 　女として生きる事も取り上げられたわたくしに、 　ぴったりの状態ですわ…ふふ…ふふふっ…」
+「っ………」
+「っ！？」
+クルスはキリカの尻を掴んだ。
+「クルス…？ 　っ……あ！！」
+クルスはがむしゃらに、 下からキリカを突き上げる。
+「クルスっ…あっ…何をっ…！！」
+クルスは答えず、そのまま、腰を振る。 湿った音が響き出し、肉が激しくぶつかる音が 不規則に重なる。
+「くっ…うあっ、あ！」
+急なクルスの行動に、キリカはなす術なく、 躰を揺さぶられている。
+「くっ…ん、ん！！」
+クルスは泣きそうな顔をして、 腰を振り続ける。
+「クルスっ……あ、こんな事をされては… 　わたくしっ…わたくしっ……」
+キリカもまたクルスに腰を合わせ、 繰り出される快楽に目を閉じる。
+「あっ……ああぅっ…！！」
+キリカは高い場所から落ちるような声を クルスの腹の上であげる。
+「駄目っ…このようなっ…あ、あっ！ 　クルスっ……クルスっ…！！」
+キリカはとうとうクルスの胸に躰を預け、 クルスの腰の動きにのみ、集中する。
+「んっ…！！」
+クルスのものを包んでいるキリカの肉が ぎゅっと締まる感触に、クルスか声をあげる。
+「あっ…このままっ…もう少し…クルス… 　……あっ…ああ！！」
+キリカはクルスにしがみつき、さらに 高みへと登る事をねだる。
+「くっ……んん！！」
+クルスはぎゅっとキリカの躰を掴み、 さらに腰を振った。
+「ああっ！！」
+キリカの今まで聞いた事のない、高い声。 その声に、クルスはさらに脳天を痺れさせる。
+「あっ…ああ、クルスっ…あ、あ！！」
+キリカの躰が大きく震えた。 それと同時に、クルスのものを ぎゅっと締め上げた。
+「うっ……ああああ！！」
+クルスもまた、そのままキリカの中で 精を放った。","Kirika grabbed Kurusu`s erect manhood and slowly lowered her hips, as if to tease him.
+ 「Ahhhn...!」
+ 「My, you`re moaning like a girl... 　How cute, Kurusu.」
+ 「No... Kirika-sama...! 　Ahn!」
+ With Kurusu`s member halfway inside her, Kirika lightly squeezed the base of his tip.
+ 「Well? Does it feel good...?」
+ 「......ahn...!」
+ Answering in a way that could be taken as a “yes”, Kurusu
+ 「Why don`t you be honest? 　Because if you don`t... you`ll hurt 　my pride as a prostitute, you know?」
+ 「No! Don`t refer to yourself as-」
+ 「Now, Kurusu...」
+ Still squeezing Kurusu, Kirika slowly lowered her hips.
+ 「Ahn! ahn... ahn!」
+ His face reddened, Kurusu was completely at Kirika`s mercy.
+ 「Oh my... It`s your first time, 　yet you managed to not ejaculate... 　Wonderful, Kurusu.」
+ 「Kirika-sama...」
+ 「I have made countless gentlemen 　climax this way, including some 　very robust Wimenese men.」
+ Kirika swalled Kurusu`s member to its base, then gently swung her hips.
+ 「Ahn! Kirika-sama...!」
+ Kurusu timidly reached for Kirika`s breasts.
+ 「Good... touch them. 　My current existence is wholly dependent 　on such reactions from gentlemen...」
+ 「Kurusu... do not reject my current self.」
+ Kirika gently caressed Kurusu`s cheek. The look on her eyes was one he knew well, for it was how she looked at her disciples.
+ 「Kirika-sama...?」
+ 「...Fufufu...!」
+ Her eyes quickly became tinged with lust.
+ The instant that happened, Kirika began moving her hips.
+ 「Ahn?!」
+ 「You must simply stay still. 　I`ll show you what I mean...」
+ Kirika licked her lips. The average woman would think of this as a vulgar act, but it was downright obscene on Kirika`s prim face.
+ That sight alone was enough for Kurusu`s excitement to reach even greater heights.
+ 「Ahn...!」
+ Not letting that slight change escape, Kirika rubbed Kurusu`s manhood with her pussy.
+ 「I won`t laugh even if you cum quickly. 　In fact, it`ll make you even cuter...」
+ She slowly raised her hips, then quickly dropped them, stimulating Kurusu`s member.
+ The sensation of his tip getting caught in her walls made Kurusu`s hips jump once.
+ 「Hnngh! aaahn...!」
+ 「You`re so cute, Kurusu... 　At times like these, you look at me 　with moist eyes like that...」
+ 「Kirika-sama... I-I can`t...」
+ 「Can`t what?」
+ 「...Please stop... 　Any more and-!」
+ 「It`s alright, Kurusu. 　If you`d like, you may even 　cum inside.」
+ 「I can`t... hnngh! aaahn!」
+ Kirika palced her hands on Kurusu`s stomach and quickly shook her hips while caressing him.
+ 「Haaaahn!」
+ His breathing ragged, Kurusu`s eyes moistened.
+ 「I`m on the pill for this reason.」
+ 「We`re only having intercourse because 　we desire pleasure. No child would want 　to be born this way, don`t you think?」
+ Kirika smiled a tad sadly.
+ 「A perfect condition for someone like me, 　who`s been forbidden to live as either 　a woman or as a warrior... fufu, fufufu...!」
+ 「...!」
+ 「?!」
+ Kurusu grabbed Kirika`s butt.
+ 「Kurusu...? 　...! aaahn!」
+ Kurusu recklessly pounded Kirika.
+ 「Kurusu! aaahn! What are you-?!」
+ Kurusu didn`t answer and kept thrusting. A wet, fleshy sound resounded throughout the room.
+ 「Khh! haaan! aaaaahn!」
+ At a loss from Kurusu`s sudden thrusting, Kirika had her body shaken around.
+ 「Khh, mn! mmmmmm!」
+ Kurusu kept thrusting, his face on the verge of tears.
+ 「Kurusu\1 ahn! If you do this, 　I`ll... I`ll...!」
+ Kirika matched her hips with Kurusu`s. She closed her eyes from the pleasure.
+ 「Ahn! aaaahn!!」
+ Kirika yelled on top of Kurusu as if she were falling from a great height.
+ 「No! This isn`t- ahn! aaahn! 　Kurusu! Kurusuuuu!」
+ Kirika rested her body on Kurusu`s chest and focused solely on his movements.
+ 「Mmmmn!!」
+ Kurusu moaned from Kirika`s pussy squeezing his member.
+ 「Ahn! Just a little more... 　Kurusu...! aaahn, aaaaahn!」
+ Kirika clung to Kurusu, seeking her climax.
+ 「Khh! hnnnngh!」
+ Kurusu squeezed Kirika`s body back and sped up his movements even more.
+ 「Aaaahn!」
+ Kirika`s loudest moan yet caused Kurusu`s mind to start going blank.
+ 「Ahn! aaahn, Kurusuuuu! AAAAHN!!!」
+ Kirika`s body shook wildly. At the same time, her pussy squeezed Kurusu`s member hard.
+ 「Hnngh! aaaaahn!」
+ Kurusu poured his seed inside Kirika."
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+narrator,二人はベッドに横たわっている。 クルスはキリカの手をずっと握ったままだった。,The two of them were lying on the bed. Kurusu held Kirika`s hand the whole time.
+Imagawa Kurusu (talking),…………キリカ様……,...Kirika-sama...
+Hasekura Kirika (talking),……どうしました…？,...What is it...?
+Imagawa Kurusu (talking),"……………
+僕と…逃げましょう。","...
+ ...Run away with me."
+Hasekura Kirika (talking),クルス…？,Kurusu...?
+Imagawa Kurusu (talking),ここは、あなたのいる場所じゃない。,This isn`t where you belong.
+Hasekura Kirika (talking),ですが……,But...
+Imagawa Kurusu (talking),"あなたはここにいても幸せじゃない。
+ ……だからと言って、僕があなたを 絶対、幸せな場所に連れて行けるとも 思っていません。
+ですが……
+ですが、ここにいるあなたの言葉は… 僕にとって、悲しすぎる……","You won`t be happy here.
+ ...That said, I don`t believe I`ll be able to take you to a place you can be happy for sure.
+ However...
+ The words you spoke to me here... They were so sad for me..."
+narrator,クルスはそう言って、 さらにキリカの手を握った。,Kurusu squeezed Kirika`s hand even tighter after he spoke.
+Hasekura Kirika (talking),………………,...
+Imagawa Kurusu (talking),キリカ様……,Kirika-sama...
+Hasekura Kirika (talking),クルス……,Kurusu...
+Imagawa Kurusu (talking),それでは行きましょう。 すぐに電車がきます。,Let us depart. The train will be here soon.
+Hasekura Kirika (talking),クルス…お前はいいのですか？,"Are you fine with this, Kurusu?"
+Imagawa Kurusu (talking),え？,Eh?
+Hasekura Kirika (talking),わたくしと逃避行するという事は、 お前はすべてを捨てる事になるのですよ？,"Running away with me means you`ll lose everything, you know?"
+Imagawa Kurusu (talking),……僕のすべてはキリカ様です。 キリカ様さえいれば…… 僕は何もいりません。,"...You are my everything. As long as I have you, Kirika-sama, I don`t need anything else."
+Hasekura Kirika (talking),クルス……,Kurusu...
+Imagawa Kurusu (talking),さあ…,Come on...
+Hasekura Kirika (talking),ええ……,Yes...
+Yamamoto Akuji (talking),なんだと？,What did you say?
+Chinpira (talking),す、すみません… こっちが気づかないうちに、 支倉キリカに脱走されちまいました…,S-Sorry... Hasekura Kirika has escaped before I could even notice...
+Yamamoto Akuji (talking),"……………
+ ！！
+おう、クルスは！？ クルスはいるか！？","...
+ !!
+ Hey, what about Kurusu?! Is he around?!"
+Seinendan Jyoshi (talking),え？ クルスさん、朝から姿を見掛けませんよ。,Huh? I haven`t seen him all morning.
+Yamamoto Akuji (talking),"っ……ちっ……
+クルスの奴、キリカを連れて、 逃げやがった……","...! Tch!
+ That Kurusu motherfucker, he took Kirika with him and ran..."
+Chinpira (talking),ええ！？,What?!
+Yamamoto Akuji (talking),………しゃーねぇ… あいつらのＩＱフル活用で 逃げられたんじゃあ、痕跡は絶対ゼロだ。,"...No helping it. If they used all of their brains to escape, then there won`t be any evidence left."
+Chinpira (talking),じゃあ……,So then...
+Yamamoto Akuji (talking),ほっとけ。,Forget about them.
+Chinpira (talking),わ、わかりました……,U-Understood...
+narrator,こうして、支倉キリカと今川クルスは 奉仕青年団から脱走した。,"With that, Hasekura Kirika and Imagawa Kurusu both escaped from the YCSG."
+narrator,キリカとクルスが二人で道場で訓練をしていた。,Kirika and Kurusu were training at the dojo.
+Hasekura Kirika (talking),今日はこの辺りにしておきましょうか。,We shall stop here for today.
+Imagawa Kurusu (talking),"はい、ありがとうございます。
+とうとう、奉仕青年団と戦争に なってしまいましたね。","Very well, thank you.
+ Seems we`re finally at war with the YCSG."
+Hasekura Kirika (talking),そのようですわね。,Indeed.
+Imagawa Kurusu (talking),実戦に投入されるのが初めてなので、 色々と緊張します。,"It`s my first time taking part in a war, so I`m rather nervous."
+Hasekura Kirika (talking),まあ…あなたから緊張だなんて言葉を 聞くなんて。,My... I never thought I`d hear you say you`re nervous.
+Imagawa Kurusu (talking),僕だって緊張ぐらいしますよ。 そういえば、キリカ様も実戦は…,"I get nervous too. Speaking of, Kirika-sama, you-"
+Hasekura Kirika (talking),初めてですわね。,It`s my first war as well.
+Imagawa Kurusu (talking),緊張なさらないので？,Are you not nervous?
+Hasekura Kirika (talking),"そうですわね…… 高揚感の方が高いですわ。
+わたくしはこのヒラカタにずっと留まって いなくてはならないので…
+もし仮に彼らがここにくるとしたら、 相当の猛者であるはず。
+そのような方々と手合わせ出来るのは、 幸せな事だと思いますの。","Hmm... I`d say I`m more elated than anything.
+ I have to stay at and protect Hirakata at all times, so...
+ If they ever manage to get this far, then they must be quite strong.
+ It`s a joyful thing, being able to battle such worthy opponents."
+Imagawa Kurusu (talking),なるほど。,I see.
+Hasekura Kirika (talking),ふふ…普通の娘ならば、 震えあがっているのでしょうけどね。,"Fufu, the average girl would be trembling in fear, however."
+Imagawa Kurusu (talking),いつも凛々しいキリカ様が 震えあがっているところを 見たくないですね、個人的に。,"Personally, I`d never want to see your dignified self in such a manner, Kirika-sama."
+Hasekura Kirika (talking),まあ…どういう意味ですの？ それ。,My... whatever did you mean by that? それ。
+Imagawa Kurusu (talking),いえ……あの、馬鹿にしたのではなく… 思ったままを…その……,"No, um... I wasn`t making fun of you. I just, uh..."
+Hasekura Kirika (talking),覚悟なさって下さいますかしら。,I hope you are prepared.
+Hasekura Kirika (talking),"お父様…まさかあなたと実戦で 対峙するとは思ってもいませんでしたわ…
+心踊っているわたくしを、 親不孝と蔑んで下さいまし…","Father... I never thought I`d ever face you in battle...
+ My heart is fluttering. Please resent my lack of filial piety..."
+Hasekura Kirika (talking),ふう……,Phew...
+Imagawa Kurusu (talking),少し休みましょうか？ キリカ様。,"Shall we take a break, Kirika-sama."
+Hasekura Kirika (talking),………また…様と呼ぶ…,...You`re calling me -sama again.
+Imagawa Kurusu (talking),申し訳ありません。 習慣でつい…,My apologies. Force of habit.
+Hasekura Kirika (talking),あなたが、この子の親になるのですから… それでは、子供が戸惑ってしまいます わよ。,You`ll be a father soon. Doing that would only confuse our child.
+Imagawa Kurusu (talking),そうですね、気をつけます。,You`re right. I`ll be careful.
+Hasekura Kirika (talking),……ふふ……,...Fufu...
+narrator,キリカは優しくそっと、自分のおなかを撫でた。,Kirika gently patted her own belly.

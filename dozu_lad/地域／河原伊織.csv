@@ -1,0 +1,402 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+__system__??,{麦 = 11:,{麦 = 11:
+__system__??,},}
+__system__??,{麦 = 12:,{麦 = 12:
+__system__??,},}
+__system__??,{麦 = 13:,{麦 = 13:
+__system__??,},}
+__system__??,{麦 = 15:,{麦 = 15:
+__system__??,},}
+__system__??,{麦 = 16:,{麦 = 16:
+__system__??,},}
+__system__??,{麦 = 17:,{麦 = 17:
+__system__??,{H拷問抵抗 < H拷問:,{H拷問抵抗 < H拷問:
+__system__??,},}
+__system__??,{H拷問 = 1:,{H拷問 = 1:
+__system__??,},}
+__system__??,},}
+Kawahara Iori (talking),何か用か？,You need something?
+Yamamoto Akuji (talking),おう。,Yep.
+Yamamoto Akuji (talking),やるよ。 店の運営資金にでもしな。,"Here, use it to help with your shop or something."
+Kawahara Iori (talking),金か。,Is this money?
+Yamamoto Akuji (talking),ああ。,Yeah.
+Kawahara Iori (talking),いらん。,I don`t need it.
+Yamamoto Akuji (talking),やせ我慢すんなよ。,Don`t be like that.
+Kawahara Iori (talking),本気でいらん。,I`m serious.
+Yamamoto Akuji (talking),あっそ。,Alright then.
+Kawahara Iori (talking),………………,...
+Yamamoto Akuji (talking),見事な仏頂面だな。,That`s a sour look you got there.
+Kawahara Iori (talking),志津は……？ 志津はどうした？　無事だろうな？ 手を出してないだろうな！？,Where`s Shizu...? What happened to her? Is she safe?! Did you hurt her?!
+narrator,悪司は顎をしゃくって、部下に命じた。,Akuji signaled to his subordinate.
+Tanzawa Shizu (talking),伊織おにーちゃん！！,Iori-onii-chan!
+Kawahara Iori (talking),志津！,SHIZU!
+Tanzawa Shizu (talking),よかった…無事だったんだね…,I`m so glad you`re okay...
+Kawahara Iori (talking),"お前こそ……
+何もされてないか？ 怪我は……","That`s my line...
+ Did they do anything to you? Are you hurt-"
+Yamamoto Akuji (talking),おおっと、そこまでだ。,"Whoa there, that`s enough."
+narrator,悪司は二人の間に割って入った。,Akuji got between the two.
+Yamamoto Akuji (talking),この子の無事と貞操は、 お前さん次第だぜ。,What happens to her depends solely on you.
+Kawahara Iori (talking),この外道……,You bastard...
+narrator,河原伊織が連れてこられた。,Kawahara Iori was brought out.
+Kawahara Iori (talking),………志津は無事だろうな？,"...Shizu is safe, right?"
+Yamamoto Akuji (talking),もちろん。 俺は紳士だからな。,"Of course. After all, I`m a gentleman."
+Kawahara Iori (talking),嘘つけ……,You damned liar...
+Yamamoto Akuji (talking),これ、お前さんにやろうと思ってな。,I thought I`d give you this.
+narrator,悪司は伊織にまとまった金の入った 封筒を出した。,Akuji gave Iori an envelope filled with cash.
+Kawahara Iori (talking),こんなものはいらない。 志津だけでも、ずっと自由に してやってくれ。,I don`t need this. All I want is for Shizu to be freed.
+Yamamoto Akuji (talking),うーん……どうするかなぁ…,"Hmm, what should I do..."
+Yamamoto Akuji (talking),お前さん、強いな。 どーだ？ 俺の部下になんねーか？,You`re strong. How about you work for me?
+Kawahara Iori (talking),………条件がひとつある！,...I have one condition!
+Yamamoto Akuji (talking),なんだ？,What is it?
+Kawahara Iori (talking),"志津を未来永劫、自由にしてくれ。 そうしたら、俺の命だってなんだって あんたにくれてやる。
+もちろん、部下にだってなる。","Leave Shizu be, forever. If you do so, I`ll give you my life or anything else you want.
+ And of course, I`ll work for you."
+__system__??,{RETURN = 1:,{RETURN = 1:
+Yamamoto Akuji (talking),あーいいぜ。,Fine.
+Kawahara Iori (talking),本当か！？,Really?!
+Yamamoto Akuji (talking),ああ。 元々、あの小細工だって、お前さんを 部下にしたいが為だったしな。,Yeah. I pulled that little trick to get you to work for me in the first place.
+Tanzawa Shizu (talking),伊織おにーちゃんっ……！,Iori-onii-chan...!
+Kawahara Iori (talking),志津！！,Shizu!
+narrator,部下が掴んでいた志津の腕を離すと、 伊織は志津の腰を抱き、自分の方へ 引き寄せた。,"Akuji`s bodyguard let go of Shizu`s arm, who ran towards Iori and was quickly embraced by him."
+Tanzawa Shizu (talking),伊織おにーちゃん……,Iori-onii-chan...
+Kawahara Iori (talking),もう大丈夫だ…… これから好きなだけだんごも作れるし、 自由に出来るぞ……,It`s alright now... You`ll be free to make all the dango you want now...
+Tanzawa Shizu (talking),おにーちゃんは…？,What about you...?
+Kawahara Iori (talking),俺は……,I`m...
+Yamamoto Akuji (talking),裏切ったら、わかってるな？,"No turning back, capisce?"
+Kawahara Iori (talking),わかっている。 だが……お前が志津に手を出したら……,"Yeah, I know. But if you ever touch Shizu again..."
+Yamamoto Akuji (talking),疑い深いなー。,Don`t be so suspicious.
+Kawahara Iori (talking),当然だ！ ここに連れられてきた時の事を 考えればな！,Of course I am! I haven`t forgotten about the way you put me here!
+Tanzawa Shizu (talking),おにーちゃん……？ わたし……,Onii-chan...? I...
+Kawahara Iori (talking),ああ、心配いらない。 もう家に帰れるぞ。,"Yeah, don`t worry. You`re going back home now."
+Tanzawa Shizu (talking),おにーちゃんは…？,What about you...?
+Kawahara Iori (talking),俺はここに残る。 ここで戦う事になったから。,I`ll stay here. I`m gonna fight for him.
+Tanzawa Shizu (talking),そんな……,No way...
+Kawahara Iori (talking),心配するな。 寂しくなったら、ケーキ屋でなく、 ここにくればいいんだ。,"Don`t worry. If you get lonely, you`ll just have to come here instead of my shop."
+Tanzawa Shizu (talking),…………うん……,...Okay...
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+Tanzawa Shizu (talking),それは無理だ。 アレはもう、俺のモンだからな。,I can`t do that. She`s mine now.
+Kawahara Iori (talking),なっ……なんだと！？,Wha- What did you say?!
+narrator,伊織は飛び掛かろうとしたが、手械を つけられているので自由に動けず、すぐ、 悪司の部下達に取り押さえられた。,"Iori tried to pounce on Akuji, but with handcuffs restraining his movement, Akuji`s men easily held him down."
+Kawahara Iori (talking),この野郎っ……！！,You motherfucker!
+Tanzawa Shizu (talking),ほうりこんどけ。,Throw `im back inside.
+__system__??,},}
+Tanzawa Shizu (talking),"よーし、決めた。
+死刑。","Alright, I`ve decided.
+ You`re dead."
+Kawahara Iori (talking),……………地獄に堕ちるがいい！ この外道！！,"...Go to hell, you bastard!!"
+Tanzawa Shizu (talking),よし、治安課に突き出せ。,Hand him to the P.O. Bureau.
+Kawahara Iori (talking),何……？,What...?
+Tanzawa Shizu (talking),諦めな。 商店街の破壊活動等で実刑で まー、８年てとこだ。,Give it up. You`ll get about 8 years for all the damages you caused to the shopping district.
+Kawahara Iori (talking),この悪党！！ その破壊活動は、お前達がっ……！！,You scumbag! YOU`RE the ones that caused all that damage!
+Tanzawa Shizu (talking),そりゃー、通るか通らないかの言い分だ。 何が正義かは権力を握っている者が 決めるんだ。よーく覚えときな。,"You know what they say, history is written by the winners. You`d best remember that."
+Chinpira (talking),あの……この娘、どーします？,"Um, what do we do with the girl?"
+Tanzawa Shizu (talking),うっ…うえっ…えっ…… おにーちゃん… おにーちゃんっ……！！,Waaah... sob... sniff... Onii-chan... Onii-chan...!
+Yamamoto Akuji (talking),そーだなー……,Let`s see...
+Tanzawa Shizu (talking),この外道！！　馬鹿！！　最低！！ 返せっ……おにーちゃんを返してっ… 返してーーっ！！,You monster! Scumbag! Idiot! Give him back... Give onii-chan back!!
+__system__??,{★調教 = 3:,{★調教 = 3:
+Yamamoto Akuji (talking),タマネギにでも預けとけ。,Take her to Tamanegi.
+Chinpira (talking),わかりっやしたー。,Gotcha.
+Chinpira (thinking),あーあ……こんな可愛いのに、 あのズルムケに奴隷教育されちゃうのか… かわいそーに……,Aw man... this cutie`s gonna become a sex slave? I feel so bad for her...
+__system__??,},}
+Yamamoto Akuji (talking),お前の好きにしな。,Do whatever you want.
+Chinpira (talking),え、いいんっすか！？,Eh?! For real?!
+Yamamoto Akuji (talking),ああ。,Yeah.
+Chinpira (talking),"ありがとうございまーす。
+つー訳で、今日からあんた、俺の女だ。 俺の為にだんご作ってくれや。","Thanks!
+ So, you`re my woman from now on. You`re gonna make me lotsa dango."
+Tanzawa Shizu (talking),いっ…いや…… やだやだ…… おにーちゃん……おにーちゃん……,N-No... I don`t want to... Onii-chan... Onii-chan...!
+Chinpira (talking),俺の事、おにーちゃんって呼んでいいぜ。 さ、一緒に帰ろうな。,"You can call me onii-chan now. Now, let`s go home."
+Tanzawa Shizu (talking),うえっ…えっ…ええっ……,Waaaah... waaaaaah!
+narrator,"ロングケーキと看板の出ている店の前で、 大男がぼんやりと、店先の椅子に座っていた。
+ロングケーキ――ケーキ屋の店主。 河原伊織。
+ケーキ屋の中には客はいない。 バタークリームを使っていても、 美味しいケーキを作っている自信はあった。
+でも売れない。 １日に１、２人、入ればいいとこだった。","A large man was sitting in a chair in front of a cake shop
+ He was the shop`s owner, Kawahara Iori.
+ There were no customers inside. He was confident he could make a delicious cake even with buttercream.
+ However, they were not selling. The shop would get, at best, a couple customers a day."
+ (talking),くださいな……,Please...
+Kawahara Iori (talking),"はい！！
+ …………あ…","Yes!!
+ ...Oh..."
+Tanzawa Shizu (talking),えへ……,Eheh...
+narrator,伊織の胸より下の視点で微笑んでいる 少女がいた。,"A girl, who measured below Iori`s chest in height, was smiling at him."
+Kawahara Iori (talking),志津……,Shizu...
+Tanzawa Shizu (talking),伊織おにーちゃんのケーキ、 とっても美味しいね。 わたし、大好きなの。,Iori-onii-chan`s cakes are so delicious. I love them.
+Kawahara Iori (talking),…慰めなら勘弁してくれないか？,...Spare me your pity.
+Tanzawa Shizu (talking),そんな…慰めなんかじゃないよ… ほんとに……,"I`m not taking pity on you, it`s true..."
+Kawahara Iori (talking),毎日行列が出来ているだんご屋の娘の セリフとは思えないぞ。,Hard to believe that coming from the owner of a popular dango shop.
+Tanzawa Shizu (talking),でも、ほんとに……,But I really do-
+Kawahara Iori (talking),帰ってくれ。 今日はもう店じまいだ。,Please leave. I`m closing for the day.
+Tanzawa Shizu (talking),おにーちゃん…,Onii-chan...
+Kawahara Iori (talking),………………,...
+narrator,伊織は店の中に入ると、 戸口のカーテンを引いた。,Iori went inside his shop and lowered the front door`s curtains.
+Kawahara Iori (thinking),"すまん、志津…… 俺は…負ける訳にはいかないんだ…
+お前の忙しさを軽減する為にも、俺は… ケーキがだんごに負けたら駄目なんだ……","Sorry, Shizu... I can`t lose...
+ My cakes have to be more popular so you can become less busy..."
+narrator,河原伊織、悩む２８歳だった。,"Kawahara Iori, 28 years old and full of troubles."
+narrator,今日は月に一度の商店街会議の日だった。 商店街に軒を連ねる店主達が、 一同に会していた。,It was the day of the monthly shopping district`s meeting. All the shop owners were standing side by side.
+Tanzawa Shizu (talking),あ~…こ、こほん。 それじゃあ、今月の商店街会議を 始めたいと思います。,Um... ahem! Let us begin this month`s shopping district meeting.
+narrator,その進行を務めるのは、商店街の会長、 丹沢志津。,"The one in charge of moving things along was Tanzawa Shizu, the district`s chairman."
+Tanzawa Shizu (talking),えと……地域管理組合の保護下から離れて 独立してわたし達が……,Um... as we have become independent from the RMGs...
+Kawahara Iori (talking),その前に――,Before that--
+narrator,志津の議題提唱に割って入ったのは 伊織だった。,Iori was the one who interrupted Shizu.
+Tanzawa Shizu (talking),ど、どうしたの？ 伊織おにーちゃん……,"Wh-What`s wrong, Iori-onii-chan?"
+Kawahara Iori (talking),"どうして、お前が会長だ。 こんな小娘が議長でこの乱世が 渡っていけるか。
+会長交代を要請する。","Why are you the chairman? Can a little girl like you even handle that these days?
+ I propose we find a new chairman."
+Tanzawa Shizu (talking),え……,Wha...
+ten'in (talking),まぁまぁ、河原さん。 志津ちゃんは、我々、商店街の アイドルだしね。,"Now now, Kawahara-san. Shizu-chan`s the shopping district`s idol."
+ten'in (talking),そうそう。 志津ちゃんがいるから、この商店街は 人気があるんだよ。,That`s right. The district`s popular because Shizu-chan is here.
+Kawahara Iori (talking),しかし、それでは……,But then-
+ten'in (talking),"でもなぁ……あんたの所のケーキ屋より、 志津ちゃんのだんご屋の方が、遥かに 人気があるしな……
+どっちが商売上手だか……","And, well... her dango shop`s way more popular than your cake shop...
+ She`s the better businesswoman."
+ten'in (talking),ぷ……ぷぷふっ…… およしったら……,Pffffthahahaha. You`re killing me!
+Kawahara Iori (talking),くっ……,Khh...!
+Tanzawa Shizu (talking),伊織おにーちゃん……,Iori-onii-chan...
+Kawahara Iori (talking),志津……志津……！,Shizu... Shizu...!
+Tanzawa Shizu (talking),"この声……
+伊織おにーちゃん？","That voice...
+ Iori-onii-chan?"
+narrator,志津が窓を開けると、 そこに伊織が立っていた。,"When Shizu opened the window, Iori was standing on the other side."
+Kawahara Iori (talking),志津…いたか。,"There you are, Shizu..."
+Tanzawa Shizu (talking),どうしたの？,What happened?
+Kawahara Iori (talking),"いいか、よく聞け。 奉仕青年団の奴らが、ついに このクロモンに目をつけやがった。
+奴らは、続々と進入してきている。","Listen closely. Those guys from the YCSG have finally laid their eyes on Kuromon.
+ They`re invading us one after another."
+Tanzawa Shizu (talking),…とうとう……,...It finally happened...
+Kawahara Iori (talking),そうだ、もうすぐ戦争になるだろう。 そうなると商店街会長が真っ先に 狙われる。,"Yeah, and war`s about to break out. The shopping district`s president will be their first target."
+Tanzawa Shizu (talking),………………,...
+Kawahara Iori (talking),限界だ。 志津、今すぐ会長を、お前から俺に譲れ。,"I can`t take this. Make me the president in your place, Shizu."
+Tanzawa Shizu (talking),えっ……ど、どうして…？,Huh?! Wh-Why...?
+Kawahara Iori (talking),売り上げでお前の店に勝って、 堂々と会長職を奪っておきたかったが… 俺にはそれが出来なかった。,I wanted to slowly take the position away from you by beating you in sales... But I couldn`t.
+Tanzawa Shizu (talking),もしかして……伊織おにーちゃんが、 色々四苦八苦していたのは、わたしの……,Then... You were working so hard for my own sake...?
+Kawahara Iori (talking),"な、何を言ってる。
+だんごよりケーキの方が優れている ところを見せてから、堂々と会長に なろうと思っていただけだ。","Wh-What are you saying?
+ I just wanted to show you that cake`s better than dango and become the president that way."
+Tanzawa Shizu (talking),伊織おにーちゃん… やっぱり、昔の優しかった 伊織おにーちゃんのままだね……,"You really are the same, kind Iori-onii-chan from back in the day..."
+Kawahara Iori (talking),う、うるさい。 とにかく、時間がない。 早く、委任状を……,"Sh-Shut up. Anyway, we have no time. Hurry, make me the president..."
+Tanzawa Shizu (talking),それは出来ないよ…,I can`t do that.
+Kawahara Iori (talking),志津？,Shizu?
+Tanzawa Shizu (talking),"どんな理由があっても、 わたしが任されたお仕事だもの……
+わたし、頑張る。","No matter the reason, this job was entrusted to me.
+ I`ll do my best."
+Kawahara Iori (talking),"……っ………
+知らんぞ……どうなっても……","...! Don`t come crying...
+ if anything happens..."
+narrator,夜――。,Night time-
+Tanzawa Shizu (talking),……どこ行くの…？,...Where are you going?
+Kawahara Iori (talking),……志津……,Shizu...
+Tanzawa Shizu (talking),そんな…一人で何もかも決意した顔して… どこ行くの？,"Walking around by yourself, with that determined look... Where are you going?"
+Kawahara Iori (talking),………ついてくるな。,...Don`t follow me.
+Tanzawa Shizu (talking),奉仕青年団に行くのでしょ？,"You`re going to the YCSG, right?"
+Kawahara Iori (talking),…………………,...
+Tanzawa Shizu (talking),和平交渉は、会長のわたしが しなくちゃおかしいよ。,"I`m the one supposed to engage in peace talks, as the president."
+Kawahara Iori (talking),わかってるよ、そんな事は… だからこれは、俺の勝手な行動だ。 お前には関係ない。,I know that... This is just me acting on my own. It`s got nothing to do with you.
+Tanzawa Shizu (talking),そんな訳にはいかないよ……,That`s not true...
+Kawahara Iori (talking),"敵本部に行くんだぞ。 商店街の今後を保障してもらう為に。
+ ……指の一本や二本、覚悟している。","I`m going to the enemy HQ to ensure the shopping district`s future.
+ ...I don`t care if I lose a finger or two."
+Tanzawa Shizu (talking),"それだったら、ケーキ職人の おにーちゃんの指だって、一緒だよ！
+指がなくなったら、ケーキ作れなく なっちゃうじゃない！
+それに……
+それにもう、おにーちゃん… 傷だらけなのに… いっぱいいっぱい戦って……","You can`t do that! You`re a baker! How are you going to bake cakes
+ without your fingers?! Besides...
+ Onii-chan...
+ You`re already so wounded... You`ve been fighting so much..."
+Kawahara Iori (talking),"反対に言ったら、男だと指ぐらいで済む。
+だけど女は違う。
+奴らとっちゃ都合のいい玩具が やってきたって具合になるのは 目に見えている。
+それがどういう事か、わかるだろ？","n the contrary. They`ll settle for just
+ a finger if a man deals with them.
+ But women are another story. For them, it`ll be like getting a convenient new toy. I can tell.
+ You understand what that means, right?"
+Tanzawa Shizu (talking),でも……,But...
+Kawahara Iori (talking),"いい加減、わかってくれ。
+俺はお前をそんな目にあわせるぐらい だったら、俺の指がなくなった方が いいんだ。","Come on,
+ please understand. I`d rather lose my fingers than let you go through that."
+Tanzawa Shizu (talking),……………,...
+Kawahara Iori (talking),し……,Shi-
+narrator,志津は伊織をぎゅっと抱きしめた。,Shizu hugged Iori.
+Kawahara Iori (talking),やめないか、志津……,"Stop that, Shizu..."
+Tanzawa Shizu (talking),"……いや…
+好き…ずっと好きだったの… 伊織おにーちゃん…","No...
+ I love you... I always have... Iori-onii-chan..."
+Kawahara Iori (talking),"おい、やめろ。 俺とお前じゃあ、一回りぐらい、 年が違うんだぞ？
+それにな、俺はケーキ職人だ。 だんご屋の娘に好かれても 嬉しくないんだよ。
+女なら女らしく、ケーキを作れ。","Hey, stop that. Don`t you know that I`m way older than you?
+ Besides, I`m a baker. I`m not happy to be loved by a dango maker. If you`re a woman,
+ act like one and bake cakes."
+Tanzawa Shizu (talking),それじゃあ、男の人がケーキ作るの 変だって、自分で言ってるよ、 おにーちゃん…,"Then you`re the weird one for baking cakes despite being a man, onii-chan..."
+Kawahara Iori (talking),"う、うるさい。 人の揚げ足を取るな。
+とにかく。 待ってろ。","Sh-Shut up. Quit tripping me up.
+ Anyway. Wait here."
+Tanzawa Shizu (talking),………帰ってきたら… 返事聞かせてね。,When you come back... let me hear your answer.
+Kawahara Iori (talking),何の？,What answer?
+Tanzawa Shizu (talking),わたしの事、好きかどうか。,On whether you love me or not.
+Kawahara Iori (talking),そ、それは……,Th-That`s...
+Tanzawa Shizu (talking),おにーちゃん。,Onii-chan.
+Kawahara Iori (talking),なんだ！？,What?!
+Tanzawa Shizu (talking),帰ってきたら、お弁当持って、 デートしようね。,"If you come back, let`s go on a date. I`ll make our bentos."
+Kawahara Iori (talking),ば、馬鹿野郎！,D-Dumbass!
+Tanzawa Shizu (talking),"絶対絶対……帰ってきてよ！ どんな姿になっても……
+待ってる……
+待ってるからっ……！！","Please, please come back! No matter what...!
+ I`ll be waiting...
+ I`ll be waiting, so...!"
+narrator,伊織は志津を置き、奉仕青年団事務所へと 向かった。,Iori left Shizu behind and went to the YCSG`s Offices.
+Yamamoto Akuji (talking),で…… 休戦協定を結びたいという訳だな。,So... You canna call for a cease-fire?
+Kawahara Iori (talking),そうです。 我が商店街は奉仕青年団の保護下に入れて 頂きたいと思っています。お願いします。,Yeah. I want to place our shopping district under the YCSG`s care. I beg of you.
+Yamamoto Akuji (talking),ん~~……,Hmm~...
+__system__??,{RND \ 0:,{RND \ 0:
+Oosugi Tsuyoshi (talking),若、自分は受け入れた方がよいと 思いますが。,"Young Master, I believe  it would be wise to accept."
+__system__??,},}
+__system__??,{RND \ 0:,{RND \ 0:
+Takega Satsu (talking),そう言いながら、こちらの寝首をいつ 掻いてやろうかと思っているやも しれんぞ。,"He may be plotting to stab us in the back eventually, however."
+__system__??,},}
+__system__??,{RND \ 0:,{RND \ 0:
+__system__??,},}
+__system__??,{RETURN = 1:,{RETURN = 1:
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+__system__??,},}
+Yamamoto Akuji (talking),"おし、わかった。
+奉仕青年団が今後、クロモン商店街の 安全を保証する。","Alright, got it.
+ From now on, the YSCG will protect Kuromon`s shopping district."
+Kawahara Iori (talking),ありが――,Thank y-
+Yamamoto Akuji (talking),"但し。
+一本もらうぜ。 ケジメとしてな。","However.
+ To make sure you`re serious, I`ll take one of your fingers."
+narrator,と、悪司は左手の小指だけを立てて、 伊織に示してみせた。,Akuji raised his left hand`s little finger and showed it to Iori.
+Kawahara Iori (talking),………………,...
+narrator,伊織は自分の手をじっと見つめてから言った。,"Iori stared at his own hand, then replied."
+Kawahara Iori (talking),わかりました。 覚悟はしていましたし。,"Very well. I was ready for this, anyway."
+narrator,こうして、クロモン防衛隊は解散となった。,"Thus, Kuromon`s defense force was dissolved."
+ (talking),いまさら駄目だな。,Too late now.
+ (talking),…………………,...
+ (talking),その男、逃がさねーようにな。,Don`t let him escape.
+ (talking),くっ…！！,Kh...!
+Chinpira (talking),"待て！！
+待ちやがれ！！","Wait!
+ Stop right there!"
+narrator,咄嗟の判断で逃げ出した伊織を、 チンピラ二人が追いかけた。,"Two thugs chased after Iori, who`d quickly run away."
+Takega Satsu (talking),捕まるかな。,Will they catch him?
+ (talking),どっちでもいーや。,It`s fine either way.
+Tanzawa Shizu (talking),"あっ……
+伊織おにーちゃん！！","Ah!
+ Iori-onii-chan!"
+Kawahara Iori (talking),はあっ……はあっ…… ……くそっ……,Haah... haah... Shit...!
+Tanzawa Shizu (talking),だ、大丈夫？ 怪我は？,A-Are you okay? Are you hurt?
+Kawahara Iori (talking),"ない……
+ ……すまん… …失敗した……","No...
+ ...Sorry... I failed."
+Tanzawa Shizu (talking),…ううん、いいの…… こうして、おにーちゃん、 無事帰ってきてくれたんだもん……,"No, it`s okay... After all, you came back in one piece, onii-chan."
+Kawahara Iori (talking),…………,...
+Tanzawa Shizu (talking),さ……こっちに… 今、しょうが湯、淹れてあげる… おにーちゃん、好きだったでしょ？,"Now, come with me. I`m making some ginger tea... you like it, don`t you?"
+narrator,戦闘に傷つき、伊織が倒れている。,"Wounded from the battle, Iori had collapsed."
+Tanzawa Shizu (talking),い、伊織おにーちゃん！！,I-Iori-onii-chan!
+Kawahara Iori (talking),くっ……うう……,Kh! Ugh...
+Tanzawa Shizu (talking),しっかりして！,Keep it together!
+Kawahara Iori (talking),……………の………,...weet...
+Tanzawa Shizu (talking),え…？,Huh...?
+Kawahara Iori (talking),何か…甘いもん、くれ……,Give me... something sweet...
+Tanzawa Shizu (talking),えっ……今は…おだんごしかないよ…,"Huh?! Um, I only have dango on me."
+Kawahara Iori (talking),……お前が作ったのか…,...You made those...?
+Tanzawa Shizu (talking),う、うん……,Y-Yes...
+Kawahara Iori (talking),……だんごか…… まずそうだな……,"Dango, huh... They suck..."
+narrator,そう言いながらも、伊織はがふがふと だんごを食べた。,"Even though he said that, Iori kept eating the dango."
+Kawahara Iori (talking),ふう……,Phew...
+narrator,なんと、甘物を食べて、伊織は復活した！,"After eating some sweets, Iori fully recovered!"
+Kawahara Iori (talking),ミスったな。 だが、まだまだだ。,"Man, I screwed up. But I`m not done yet."
+Tanzawa Shizu (talking),だっ……大丈夫なの？ 伊織おにーちゃん……,A-Are you okay? Iori-onii-chan...
+Kawahara Iori (talking),ケーキ屋は、無敵なんだよ。,We cake bakers are invincible.
+Tanzawa Shizu (talking),はい、いらっしゃいませー。,Welcome!
+narrator,"今日も志津が元気にだんごを売っている。 人気は上々で、いつものように行列が 出来ていた。
+それをさばくのに、志津は懸命になっている。
+しかし、その人の数が徐々に減り…… そしてとうとう、誰もいなくなったかと思うと 入れ代わりに、黒ずくめの男達が店を囲んだ。","Shizu was happily selling her dango. As usual, their popularity caused a line to form outside her shop.
+ Shizu devoted herself to it for a while.
+ However, the line slowly became shorter... Then, just as she`d thought nobody remained, several men in suits surrounded her shop."
+narrator,男達は無言で、店の周囲に立つ。,The men silently stood there.
+Tanzawa Shizu (talking),あ、あの……,U-Um...
+narrator,その男達が割れ、道が出来た。 そこから歩いてくるのは――,"The men stepped aside, opening a path. The one who walked through it was--"
+Yamamoto Akuji (talking),だんごひとつくんないか？,Can I have some dango?
+Tanzawa Shizu (talking),あ、はい、どうぞ。,"Oh, yes. Here!"
+Yamamoto Akuji (talking),んー……こりゃうめぇ。 なあ、さっちゃん。,"Hmm... these are good. Right, Sacchan?"
+Takega Satsu (talking),うむ。 甘さも控え目で丁度いい。,Indeed. The sweetness is just right.
+Tanzawa Shizu (talking),あの…あなた達は？,Um... who are you people?
+Yamamoto Akuji (talking),河原伊織を知っているな。,"You know Kawahara Iori, right?"
+Tanzawa Shizu (talking),"っ………
+ …奉仕青年団の人達……？","...!
+ You`re from the YCSG...?"
+Yamamoto Akuji (talking),まーな。,More or less.
+Tanzawa Shizu (talking),お、お願い！ 伊織おにーちゃんっ…… 伊織おにーちゃんに酷い事しないで！,P-Please! Don`t do anything awful to Iori-onii-chan!
+Yamamoto Akuji (talking),なるほど、情報は正確だったみたいだな。 丹沢志津は、伊織の弱点だ。,Looks like the info was right. Tanzawa Shizu is Iori`s weakness.
+Tanzawa Shizu (talking),な……何？ どういう事？,Wh-What...? What do you mean?
+Yamamoto Akuji (talking),捕獲しろ。,Capture her.
+Tanzawa Shizu (talking),えっ…いやっ…きゃあっ……！！,Huh?! Noooo! Kyaaaah!
+narrator,志津は男達に捕まった。,The men captured Shizu.
+Yamamoto Akuji (talking),さーて。 エサは出来たんで、デカブツケーキ屋を 捕まえる作戦を……,"Alright, we have the bait, so now we gotta plan how to lure out that fuckhuge baker-"
+ (talking),志津！！,SHIZU!!
+Yamamoto Akuji (talking),………おーっと……,...Whoa there...
+Kawahara Iori (talking),何をしている！ 志津をどうする気だ！？,What the hell is going on?! What`re you doing to Shizu?!
+Yamamoto Akuji (talking),お前さんのせいで、こーなったんだぜ。,This is all your fault.
+Kawahara Iori (talking),なんだと…？！,What did you say?!
+Yamamoto Akuji (talking),お前さんがしつこくしつこーく、 俺に反抗するから、こーなったんだって 言ってんだよ。,I`m saying this happened because you kept stubbornly fighting back against me.
+Kawahara Iori (talking),じゃあ…どうすれば、 志津を自由にしてくれる！？,Then what should I do for you to let Shizu go?!
+Yamamoto Akuji (talking),お前が抵抗をやめたら、考えてやるよ。,I`ll consider it if you give up.
+Kawahara Iori (talking),"……っ…わかった……
+わかったから……志津を…… 志津を、離してくれ… 自由にしてやってくれ……","...! Got it...
+ I`ll do what you want, so let Shizu go... Let her be free..."
+Yamamoto Akuji (talking),捕まえろ。,Capture him.
+narrator,悪司の部下達が大勢で伊織を押さえこんだ。 こうして、河原伊織は捕まった。,"Akuji`s men held down Iori with great force. Thus, Kawahara Iori was captured."
+Kawahara Iori (talking),約束だ！ 志津を……,You promised! Let Shizu-
+Yamamoto Akuji (talking),あーさっきな、一度車から出してやった。,"Yeah, I let her out of the van."
+Kawahara Iori (talking),え……？,Huh...?
+Yamamoto Akuji (talking),で、それからもう一度捕まえた。 一応、約束したからな。,Then we captured her again. I did do as I`d promised.
+Kawahara Iori (talking),ばっ…馬鹿な事を言うな！ そんな……,D-Don`t you mess with me! That`s-
+Yamamoto Akuji (talking),俺は約束は守った。 だけど、もう一度捕まえるなとは 条件になかったからな。,I held up my end of the bargain. But I never promised I wouldn`t capture her again.
+Kawahara Iori (talking),卑怯者！！,YOU BASTARD!!
+Yamamoto Akuji (talking),おっと、暴れるな。 可愛いだんご屋さんがどーなっても いいのかい？,"Easy there, champ. Don`t you care about what happens to the cute dango girl?"
+Kawahara Iori (talking),くっ………！！！！,Kh...!
+Yamamoto Akuji (talking),さーて、二人を連れてけ。,"Now, take them both away."
+narrator,伊織と志津は、悪司達に連行されてしまった。,Iori and Shizu were captured by Akuji.
+narrator,悪司はロングケーキにやってきた。,Akuji went to a cake store in Kuromon.
+Kawahara Iori (talking),いらっしゃい。 お誕生日用のケーキですか？,Welcome. You here for a birthday cake?
+Yamamoto Akuji (talking),客がまったくいないな。,Not a lot of customers here.
+Kawahara Iori (talking),は……はあ……,H-Haah...
+Yamamoto Akuji (talking),それになんだぁ？ こんな形のケーキ、見た事ないぞ。,Also what`s that? Never seen a cake like it before.
+narrator,見た目はショートケーキなのに、 やたらに長いケーキがそこにあった。,"Said cake looked like a shortcake, but was way too long to be one."
+Kawahara Iori (talking),これが、この店名物のロングケーキです。 長さは１ｍで……,This is my famous long cake. It`s 1 meter long and-
+Yamamoto Akuji (talking),まずそうだなー… これ全部、バタークリームだろ？ 胸焼けで死んじまうぞ。,"Looks bad. This is all buttercream, right? I can hear my arteries screaming."
+Kawahara Iori (talking),余計なお世話だ。,I didn`t ask.
+Yamamoto Akuji (talking),"しっかし、こんな馬鹿デカイもん作るって のは、よっぽどの腕力だな。
+お前さん、俺の元で働かないか？ 兵隊としてだけど。","But ya gotta be pretty strong to make something like this.
+ You wanna work for me? As a soldier, though."
+Kawahara Iori (talking),いらん。 俺は、ケーキを作るのが好きなんだ。,No. Making cakes is what I live for.
+Yamamoto Akuji (talking),"ふーん。
+あ、そーだ。","Hmph.
+ Oh, right."
+Kawahara Iori (talking),なんだい？,What is it?
+Yamamoto Akuji (talking),客がいなくても、協力金は 払って貰うからよ。,"Customers or not, ya better pay your dues."
+Kawahara Iori (talking),わかってる…,I know...
+Yamamoto Akuji (talking),さっさと片付けて、ケーキ作りに 専念したいものだな…,I wanna get this over with quick so I can focus on baking cakes...
+ (talking),くださいな。,Please gimme one.
+Kawahara Iori (talking),はい、いらっ…,"Hey, welco-"
+Tanzawa Shizu (talking),えへへ…,Eheheh...
+Kawahara Iori (talking),…また、お前か。 自分の店はいいのか？,...You again. Aren`t you worried about your store?
+Tanzawa Shizu (talking),うん。 だって、伊織おにーちゃんの作った ケーキ食べたかったんだもん。,"Nope. Besides, I wanted to eat one of your cakes, Iori-onii-chan."
+Kawahara Iori (talking),………そうか…,...Really...
+Tanzawa Shizu (talking),うん。,Yep.
+Kawahara Iori (talking),そんなに食ってると、太るぞ。,You`ll get fat.
+Tanzawa Shizu (talking),太ったら…嫌いになる？,Would you dislike that...?
+Kawahara Iori (talking),…………馬鹿野郎…,...You dumbass...
+Tanzawa Shizu (talking),えへへっ。,Eheheh.
+Tanzawa Shizu (talking),行くぞ。 俺はここを守る理由があるんでな。,Here I go. I`ve got a reason to protect this place.

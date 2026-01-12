@@ -1,0 +1,81 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆ビノノン = 0:,{☆ビノノン = 0:
+__system__??,},}
+__system__??,{☆ビノノン = 1:,{☆ビノノン = 1:
+__system__??,},}
+__system__??,},}
+Yamamoto Akuji (talking),……………,...
+binonon'ou (talking),何か？,What is it?
+Yamamoto Akuji (talking),ござんすって言ってみな。,Try talking like ya always do.
+binonon'ou (talking),何故、そのような意味のない事を、 このヤマトの王たる私がせねばならぬ？,"Why should I, the king of Yamato, do something so meaningless?"
+Yamamoto Akuji (talking),………まだ、離れねーか…,"Still stuck, huh..."
+binonon'ou (talking),何の事だ？,What do you mean?
+Yamamoto Akuji (talking),いや、こっちの話だ……,"Nah, it`s nothing."
+Yamamoto Akuji (thinking),いー加減、この世界に飽きて、愛から 離れてると思ったんだが、 そーはいかねぇみてーだなー。,"I thought he`d get tired of this world and free Ai, but that doesn`t seem likely."
+binonon'ou (talking),で、用向きは？ 特に何もないで呼び出したというならば、 私は見学に戻りたいのだが。,"So what`s your business? If you called me for no reason, then I`ll resume my field trip."
+Yamamoto Akuji (talking),見学？,Field trip?
+binonon'ou (talking),"そうだ。 ヤマトの国がどれだけ変わったか、 この目で色々と見たいのだ。
+由緒正しき農耕民族であったのに、 鉄の固まりや、石と鉄の建物で 溢れかえっておる。
+便利になったのか、それとも、それ故の 束縛を受けているのか、理解出来ぬ。","Indeed. I want to see for myself how much Yamato has changed.
+ It was once a venerable agrarian country, but now it is littered with buildings of steel and stone.
+ I do not understand if that is a convenience, or a constraint."
+Yamamoto Akuji (talking),それが時代の流れってやつさ。,That`s just the change of times.
+binonon'ou (talking),"ふむ、理解しがたいが……
+まあよい。 用がないのなら、私は行くぞ。
+今日はこれから、友達になった者と、 映画とかいうものを見学する事に なっておる。
+どっきんらぶらぶハートの ミロちゃんとかいう題名だ。 何なのか、まったく想像出来ぬ。","I do want to understand, but...
+ Fine. If you haven`t any business with me, I`m leaving.
+ Today, I shall watch one of those “movies” with a friend I have recently made.
+  Antitrust Heart Miro-chan. I cannot imagine what it is."
+Yamamoto Akuji (talking),また、コアな友達だ……,You got another hardcore friend.
+binonon'ou (talking),"うむ、それでは。
+ああ、そうだ。 悪司よ、さっさとヤマトの国を 再建してくれ。
+でなければ、私がここにきた理由が なくなるでな。","Then I`m taking my leave.
+ Ah, that`s right. Akuji, hurry and rebuild this country of Yamato.
+ Otherwise, I`ll lose my reason for having come here."
+narrator,愛の姿をしたビノノンは、一礼すると 悪司の前から立ち去った。,"Having taken Ai`s shape, Binonon gave Akuji a bow, then left."
+Yamamoto Akuji (talking),なんだかな~……,Maaaaan...
+Yamamoto Akuji (talking),ん？,Hm?
+narrator,悪司が事務所に入ると、４、５人が 何かを囲んでじっと見つめている。,"When Akuji got inside the office, 5 people were there, staring at something."
+Yamamoto Akuji (talking),どーしたんだ？,What`s up?
+Seinendan Jyoshi (talking),あ、悪司さん、愛さんが……,"Oh, Akuji-san. Ai-san is..."
+Yamamoto Akuji (talking),なんだ、ビノノンが愛に戻ったのか？,"What, did Binonon come back?"
+Seinendan Jyoshi (talking),"あ、そーか、ビノノンさんでしたね、 今は…
+そ、そのビノノンさんが、 急に呪文を唱え出して…","Right, it called itself Binonon...
+ W-Well, that Binonon just strated chanting a spell..."
+Yamamoto Akuji (talking),ん？,Huh?
+binonon'ou (talking),はにはにはにはにはに……,Hanihanihanihani...
+Yamamoto Akuji (talking),何やってんだい、王さん？,"What`re ya doing, King?"
+binonon'ou (talking),召喚呪文だ……,A summoning spell.
+Yamamoto Akuji (talking),ショーカンってなんだかよくわかんねーん だけど、そろそろ、その躰を愛に返して やってくんねーか？,"I don`t get why or what you`re summoning, but can ya give Ai her body back already?"
+binonon'ou (talking),この躰の持ち主にか。,You mean this body`s owner?
+Yamamoto Akuji (talking),ああ。,Yeah.
+binonon'ou (talking),それは出来ぬ。 すでに私の肉体は朽ち果てている。 我が魂がいるべき場所はここしかない。,I cannot. My body has long since perished. There is no other place my soul can reside in.
+Yamamoto Akuji (talking),だからってな……,"Look, even so..."
+binonon'ou (talking),それにこの娘の魂はもう消えた。,"Also, this girl`s soul is gone."
+Yamamoto Akuji (talking),何だって？,What?
+binonon'ou (talking),"むっ……
+邪魔するな……気が合った……
+はにはにはにはにはにはに… 降臨っっ！！","Hrm!
+ Silence... It complies.
+ Hanihanihanihani... COME FORTH!!"
+Yamamoto Akuji (talking),へっ……,What the fu-
+narrator,"　　［アイヤー！！］
+なんと、何もない空間から ハニーが一匹現れた！","　　［Aiyaaaaaaaaa!!!］
+ A single hanny appeared out of thin air!"
+Yamamoto Akuji (talking),なっ……,Wha-
+binonon'ou (talking),悪司よ、自由に使っていいぞ。 部下に加えておいてくれ。,"Akuji, use him as you like. Make him your subordinate."
+Yamamoto Akuji (talking),………はあ……,Sigh...
+binonon'ou (talking),悪司よ、我がヤマトの国の再建は まだなのか？,"Akuji, have you rebuilt this country of Yamato yet?"
+Yamamoto Akuji (talking),まんだまだ。 しばらくかかるぜ。,Not yet. It`ll take a while.
+binonon'ou (talking),"そうか………
+………はに……","I see...
+ ...Hani..."
+Yamamoto Akuji (talking),ん？,Hm?
+binonon'ou (talking),はにはにはにはに…… 降臨っっっ！！,Hanihanihanihani... COME FORTH!!
+narrator,"　　［アイヤー！！］
+なんと、何もない空間から ハニーが一匹現れた！","　　［Aiyaaaaaaaaa!!!］
+ A single hanny appeared out of thin air!"
+binonon'ou (talking),悪司よ、ハニーを部下に使うがいい。 そして早くヤマトの国を再建 するのだ。,"Akuji, take this hanny as a subordinate, and hasten the restoration of Yamato."
+Yamamoto Akuji (talking),ヤマトの王である私と戦うというのか。 よかろう、かかってくるがよい。,"You`d fight the King of Yamato? Very well, come at me."

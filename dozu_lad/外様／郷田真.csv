@@ -1,0 +1,143 @@
+character,Jap,Eng
+__system__??,{麦 = 1:,{麦 = 1:
+__system__??,{☆郷田 = 2:,{☆郷田 = 2:
+__system__??,},}
+__system__??,},}
+__system__??,{麦 = 3:,{麦 = 3:
+__system__??,},}
+gouda  shin (talking),呼んだか？,You called?
+Yamamoto Akuji (talking),"ああ。 あのよー聞きたかったんだけど。
+あんたどーして、そんな恰好してんだ？","Yeah. I wanted to ask ya something.
+ What`s with that getup?"
+gouda  shin (talking),この姿の事か？,You mean this form?
+Yamamoto Akuji (talking),ああ。 着ぐるみじゃねーんだろ？,"Yeah. It ain`t some character costume, right?"
+gouda  shin (talking),"俺は戦時中、 マッドサイエンティスト団体に 誘拐された。
+そして、このような機械混じりの躰に 改造されたのだ。","I was kidnapped by a group of mad scientists during the war.
+ They modified my body to be full of machines."
+Yamamoto Akuji (talking),かいぞー……,Modified...
+gouda  shin (talking),"そうだ、改造だ。 俺は改造人間なのだ。
+このような躰にした奴らは 実験に継ぐ実験、改造に継ぐ改造。 俺の躰を弄んだ。
+そうして、俺は強くなった事を 実感した、その日。 復讐を始めた。
+奴らは俺以外にも改造人間を作り、 俺に対抗した。
+奴らは子供まで実験材料にしようとした。 卑劣な奴らだった……","That`s right, modified. I`m a cyborg.
+ They kept playing with me, running countless experiments and further modifying me.
+ Then, the day I realized I`d become strong, I sought my revenge.
+ They built other cyborgs to oppose me.
+ Even kids weren`t spared. Despicable bastards..."
+Yamamoto Akuji (talking),で、そいつらは？,"Well, how`d it go?"
+gouda  shin (talking),"すべて倒した。 この俺の手で……
+しかし、その後に残ったものは、 虚しさだけだった。
+このような変わり果てた躰で家に 帰る事も叶わず……
+俺は一人、採掘場で暮らしていたのだ。
+俺はこの躰が朽ち果てるまで、 この戦闘能力が役立つ場所で戦い……
+それによって与えられる賃金を 孤児院に寄付する事に決めたのだ。","I killed them all with these very hands...
+ But afterwards, it all felt empty.
+ I couldn`t return home with this body...
+ I lived in a quarry by myself.
+ I`ll put my combat functions to good use until the end.
+ And I`ve decided to donate my wages to an orphanage."
+Yamamoto Akuji (talking),なるほどねー……,I see...
+gouda  shin (talking),すまん、少し遅れた。,"Sorry, I`m a bit late."
+Yamamoto Akuji (talking),何してたんだい？,What were you doing?
+gouda  shin (talking),"ウィミィ人を見ていたんだ。 首都が近いだけあって、 オオサカはウィミィ人が多いな。
+あれだけのウィミィ人を見るのは 初めてでな。 珍しいもので、つい。","Watching the Wimenese. Osaka`s full of them since it`s close to the capital.
+ I`ve never seen so many of them before. Felt pretty unusual."
+Yamamoto Akuji (talking),俺は、あんたの方が ずっと珍しいと思うが……,I`d say you`re the unusual one here...
+Yamamoto Akuji (talking),こーいうモン、あんた好きじゃねーかも しんねーが、まあ、受け取ってくんなよ。,"Ya might not like this kinda stuff, but here, take it."
+narrator,悪司はお金をいくらか包んだ封筒を 真に渡した。,Akuji gave Shin an envelope filled with cash.
+gouda  shin (talking),金か……すまん、頂いておく。 孤児院に寄付してこよう。,Money? Thanks. I`ll send it to the orphanage.
+Yamamoto Akuji (talking),ホントーに、こんなとこに 人が住んでんのか？,Is there REALLY someone living here?
+Takega Satsu (talking),近辺の住人に確認した。 間違いなく、ここにいるらしい。,Yes. The people living in the area have confirmed it.
+narrator,"そこはなんにもない、殺風景なところだった。 切り出された岩が剥き出しになり、 どこを見ても、土、土、土。
+人が住む為の環境ではない。","It was a barren place, with nothing but quarried rocks and dirt.
+ It wasn`t a place someone would live in."
+Yamamoto Akuji (talking),で……こんなとこのどこに家が あるってんだ……,"So, where would their house even be...?"
+ (talking),俺を探しているというのは、お前達か？,You the ones looking for me?
+Yamamoto Akuji (talking),ん？,Huh?
+narrator,そこには、人型のぬいぐるみのようなものが 立っていた。,What looked like a human-sized costume was standing there.
+Yamamoto Akuji (talking),……っかしいなぁ…… 今、誰かの声が……,"...Weird, I swear I just heard someone..."
+gouda  shin (talking),もう一度聞く。 俺を探しているのは、お前達か？,I`ll ask again. Are you the ones looking for me?
+Yamamoto Akuji (talking),うわ！ ぬいぐるみが喋った！？,Whoa?! The costume talked?!
+gouda  shin (talking),俺はぬいぐるみではない。 人間だ。,"I`m not a costume, I`m a human."
+Yamamoto Akuji (talking),………人間……？？,A human??
+gouda  shin (talking),訳あって、このような姿になって しまったが、心は人間だ。,"Stuff happened and I became like this, but I`m human."
+Yamamoto Akuji (talking),じゃあ、あんたが 郷田真さんか。,"So you`re Gouda Shin-san, right?"
+gouda  shin (talking),ああ、そうだ。,"Yes, that`s right."
+Yamamoto Akuji (talking),よく、俺達があんたを探しているって、 わかったな。,I`m impressed you knew we were looking for you.
+gouda  shin (talking),麓の街の喫茶店で、 俺の事を尋ねていただろう。 あそこのおやっさんは、俺の味方だ。,"You asked about me at the cafe by the foothill, yeah? The owner`s my buddy."
+Yamamoto Akuji (talking),なるほど、そーいう事かい。,So that`s what happened.
+gouda  shin (talking),そして、用件は？ この俺に何の用だ？,"So, what do you need? Go on, I`m listening."
+Yamamoto Akuji (talking),いや、ちょっとゴタゴタがあってね。 強い奴を探しているんだ。,"I`m in some trouble, so I`m looking for strong people."
+gouda  shin (talking),うむ、強い奴か。,"Strong people, huh?"
+Yamamoto Akuji (talking),あんた、強いんだってな。,I heard you`re strong.
+gouda  shin (talking),"それはどうかわからん。 ただ、戦って戦って戦い抜いた男で ある事には変わりない。
+お前は、何の為に俺を戦わせようと している？","I wouldn`t know. But I`m someone who`s fought many battles, to be sure.
+ What fight do you need my help for?"
+Yamamoto Akuji (talking),"はっきり言っちまうと、 組同士の抗争だ。
+向こうが、ニホン中の強い奴を 探してるんで、俺達も探してるんだ。","To be frank, it`s a war between RMGs.
+ They`re searching Japan for strong guys, and so are we."
+gouda  shin (talking),そして、俺のところにやってきたと いう訳だな。,And that`s why you came to this place.
+Yamamoto Akuji (talking),ああ。,Yep.
+gouda  shin (talking),向こうは悪者という訳か？,Are your enemies bad guys?
+Yamamoto Akuji (talking),悪くはないけどね。 ただ、邪魔なんで。,"Not really, but they`re in my way."
+gouda  shin (talking),………………,...
+Yamamoto Akuji (thinking),駄目かなーー… でも駄目でもいいかもな。 なんだか得体しれねーし……,"This may be a bust... But that might be fine, this guy`s too weird."
+gouda  shin (talking),"ははははは、おもしろい奴だ。 自分が不利になるかもしれんというのに、 はっきりと物事を言う。
+いいだろう。 お前の力になってやろう。 お前の名前は？","Hahahah, you`re funny. You`re honest, even if it might be to your disadvantage.
+ Very well. I`ll give you my help. What`s your name?"
+Yamamoto Akuji (talking),山本悪司。,Yamamoto Akuji.
+gouda  shin (talking),"よし、悪司。 準備が出来たら、俺はお前の元に はせ参じよう。
+それまで待っているがいい。","Alright, Akuji. I`ll go to your place once I`ve finished preparing.
+ Wait for me until then."
+Yamamoto Akuji (talking),そいつはありがてーや。 じゃあ、ここが俺達の住処だ。,Thanks. Here`s where our place is.
+narrator,悪司は奉仕青年団の連絡先を 書いたメモを渡した。,Akuji handed over a note with the YCSG `s address.
+gouda  shin (talking),うむ、確かに。 では待っているがいい。,"Got it. Later, then."
+narrator,こうして、郷田真が、悪司の味方になった。,"Thus, Gouda Shin became Akuji`s ally."
+narrator,"悪司が事務所で漫画を読んでいる、 麗らかな午後。
+ 　　［バウン　バウンッッッ］
+それを破る、激しいエンジン音が 事務所の玄関先で響いた。","Akuji was reading some manga in a sunny afternoon.
+ 　　*Whhrr!* *Whhrr!*
+ Loud engine noises coming from the office`s main door broke the peace."
+Yamamoto Akuji (talking),な、なんだぁ？ Ｂ２９か？ それとも、戦車かぁ？,Wh-What the fuck? Is that a B29? Or maybe a tank?
+narrator,悪司は慌てて外に出た。,Akuji hurriedly got out of the office.
+gouda  shin (talking),待たせたな。,Sorry for the wait.
+narrator,なんと、郷田真が、愛４輪バギー 激ＫＡＭＥに乗ってやってきた。,"There was Gouda Shin, riding his beloved 4-wheeled buggy, Fierce KAME."
+Yamamoto Akuji (talking),真か！ きてくれたんだな！,Shin! So you came!
+gouda  shin (talking),"ああ、約束したからな。
+とう！！","Yeah, I promised I would.
+ Tooooh!"
+narrator,真は、激ＫＡＭＥからヒラリと降りた。,Shin got off Fierce KAME.
+gouda  shin (talking),これからは、俺も戦う。 いつでも俺を呼ぶといい。,I`ll fight from now on. Call me any time.
+narrator,"真は物陰からそっと、 孤児院の様子を伺っている。
+そこでは子供達が、突然の玩具などの プレゼントの包みを開け、 おおはしゃぎだった。
+それを匿名で送ったのは真だった。","Shin was silently watching the orphanage from the shadows.
+ The children there frolicking around, holding the presents they`d just suddenly received.
+ Shin had sent them anonymously."
+gouda  shin (thinking),"そのキラキラした瞳と心を忘れる事なく まっすぐ育て……
+己の境遇に負けるんじゃないぞ……","Grow up well, and never lose that radiance...
+ You can overcome this."
+narrator,真はそっと、そこから姿を消した。,Shin quietly left the scene.
+Momoyama Linda (talking),失望したでちゅわ。,I`m disappointed.
+gouda  shin (talking),すまん。 向こうにも強い奴がいたのだな。 俺も驚いた。,Sorry. I was also surprised at how strong they were.
+Momoyama Linda (talking),もういいでちゅ、帰ってくだちゃい。,"Enough, please leave."
+gouda  shin (talking),なんだと？ それでは、孤児院に差し入れが……,What? But then I can`t support the orphanage-
+Momoyama Linda (talking),役たたずはＰＭにいらないでちゅ。 さっさと出て行きなちゃい。,The PM doesn`t need useless bums. Get lost already.
+gouda  shin (talking),"…………………
+そうだな… その通りだ……
+失礼する。","...
+ Yeah... You`re right...
+ Excuse me."
+narrator,真はうなだれ、ＰＭ本部を後にした。,"Shin left the PM, depressed."
+Momoyama Linda (talking),ハイネ、塩を撒くでちゅよ！！,"Spread the salt, Haine!!"
+Hasekura Haine (talking),はい、リンダ様。,"I will, Linda-sama."
+gouda  shin (talking),うむ、よし。,Looking good.
+Yamamoto Akuji (talking),なあ、やっぱ出ていくのか？,So you`re really going?
+gouda  shin (talking),"うむ。 サイタマに建設したかった孤児院の 建設費が貯まったからな。
+名残惜しいが、俺にはする事が出来た。","Yep. I got enough money to build the orphanage I`d wanted on Saitama.
+ Sorry to part, but I made it."
+Yamamoto Akuji (talking),"金が足りなくなったら、 またいつでもきてくれや。
+あんたの事好きだってガキも 多いからよ。","Stop by if you ever need more cash.
+ We got lots of kids here who like you."
+gouda  shin (talking),うむ、ありがとう。 その時はまたよろしく頼む。,"Mhm, thanks. I`ll be counting on you then."
+Yamamoto Akuji (talking),ああ。,Sure.
+gouda  shin (talking),とうっ！！ 行くぞ、激ＫＡＭＥ！！,"Tooooh! Let`s go, Fierce KAME!!"

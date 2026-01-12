@@ -1,0 +1,904 @@
+character,Jap,Eng
+__system__??,{麦 = 10:,{麦 = 10:
+__system__??,},}
+Yamamoto Akuji (talking),さーて。,Now then...
+Takayama Hami (talking),どきどき…,Ba-dump ba-dump...
+Yamamoto Akuji (talking),どーして嬢ちゃんがオオサカに 進出してきたか、教えて貰おうか。,"I`d like to hear why you invaded Osaka, missy."
+Takayama Hami (talking),サンタワーが欲しかったの。,Because Hami wanted the Sun Tower.
+Yamamoto Akuji (talking),素直に喋ってくんねーんだったら、 こっちにも考えがある。,"If ya don`t feel like being honest, I have a few ideas of my own."
+Takayama Hami (talking),サンタワーが欲しかったの。,Because Hami wanted the Sun Tower.
+Yamamoto Akuji (talking),場合によっちゃー、拷問も……,I could even resort to torture-
+Takayama Hami (talking),だから…… サンタワーが欲しかったの。,"Like Hami said, it`s because she wanted the Sun Tower."
+Yamamoto Akuji (talking),嘘つけー。,Bullshit.
+Takayama Hami (talking),"ほんとだもん、はみ、いい子だから、 嘘つかないもん。
+ほんとにサンタワーが 欲しかったんだもん。
+はみがパパに、お誕生日のプレゼントに サンタワーが欲しいって言ったら、 取ってきなさいって言われたんだもん。","It`s true! Hami`s a good girl, so she`d never lie.
+ She really did want the Sun Tower.
+ When Hami told Daddy she wanted it for her birthday present, he told her to go take it."
+Yamamoto Akuji (talking),………マヂ？,...For real?
+Takayama Hami (talking),うん。 だからはみ、頑張ってたの。,Yep. That`s why Hami worked so hard.
+Yamamoto Akuji (talking),~~~~~~~~~~~~。,.........
+__system__??,{RND \ 0:,{RND \ 0:
+Shimamoto Jun (talking),若。,Young Master.
+Yamamoto Akuji (talking),おう。,Yeah?
+Shimamoto Jun (talking),その娘の言っている事は事実です。,What she says is true.
+Yamamoto Akuji (talking),そーなのか？,Really?
+Shimamoto Jun (talking),"はい。 ヒロシマの方に探りを入れました ところ……
+最近、この娘がサンタワーに執心 している事は周知の事実だったようです。","Yes. According to my investigations in Hiroshima...
+ It`s public knowledge that she`s become obsessed with the Sun Tower lately."
+__system__??,},}
+__system__??,{RND = 0:,{RND = 0:
+Elite Yakuza (talking),若。,Young Master.
+Yamamoto Akuji (talking),おう。,Yeah?
+Elite Yakuza (talking),その娘、嘘をついてません。,That girl isn`t lying.
+Yamamoto Akuji (talking),そーなのか？,Really?
+Elite Yakuza (talking),"はい。
+シキナの高山組付近の人の話で、 最近、この娘がサンタワーに執心 している事は周知の事実だったようです。","Yes.
+ According to the Takayama Family members in Shikina, she`s become obsessed with the Sun Tower lately."
+__system__??,},}
+Yamamoto Akuji (talking),ふ~ん…,Hrm...
+Takayama Hami (talking),どきどき。,Ba-dump ba-dump.
+Yamamoto Akuji (talking),で、娘一人をオオサカにやらせたって 訳か…ったく、何考えてやがる。,So he sent his only daughter to Osaka? The fuck was he thinking?
+Takayama Hami (talking),おじさん。,Hey uncle.
+Yamamoto Akuji (talking),おにーちゃん。,Onii-chan.
+Takayama Hami (talking),"おにーちゃん。 はみ、ここから出してくれるの？
+はみ、次は５００人でくるね。 今度は負けないから。 うふふ。","Onii-chan, are you going to let Hami out of here?
+ Next time, Hami will come with 500 men, and then she won`t lose! Eheheheh."
+narrator,はみは事情を把握しているのかどうか、 緊張感はない。,"Hami had no sense of urgency, as if she did not understand her situation at all."
+Yamamoto Akuji (thinking),"素直に帰してもまた攻めてくるだけだし、 かといって本格的に高山と事を交えるのは まずいな……
+さ~て、どうするべ……","She`ll attack again if I let her go, but picking a fight with the Takayama would be bad, too...
+ Now, what should I do...?"
+__system__??,{★調教 = 3:,{★調教 = 3:
+__system__??,},}
+__system__??,{★調教 \ 3:,{★調教 \ 3:
+__system__??,},}
+__system__??,{RETURN = 1:,{RETURN = 1:
+Yamamoto Akuji (talking),よし、解放してやるよ。,"Alright, I`ll let you go."
+Takayama Hami (talking),ほんと？ おうち帰っていいの？,Really? Can Hami go back?
+Yamamoto Akuji (talking),ああ。,Yeah.
+Takayama Hami (talking),じゃあまたくるね。 戦争ごっこの続きしに。 ばいばーい。,Then Hami`ll come again to keep playing pretend war! Bye-bye!
+narrator,はみは嬉しそうに出て行った。,Hami happily left.
+Yamamoto Akuji (talking),"……………
+ ……ま…なんとかなるか……","...
+ ...Well, it`ll work out somehow."
+Takayama Hami (talking),パパ、だたいまー。,"Hami`s back, Daddy!"
+ (talking),おお、はみ　はみ　はみ~~。 おかえり、はみ~~。,"Oooh, Hami, Hami, Hamiii! Welcome back, Hami!"
+Takayama Hami (talking),"パパ、あのね。 一度捕まっちゃったけど、 また行くって約束したの。
+だからね、今度は負けたくないから、 もっと兵隊貸して。","You see, Daddy, Hami was captured once, but she promised to go there again.
+ Hami doesn`t wanna lose this time, so let her have more soldiers."
+ (talking),"だめだ、だめだ。 もうお前を危険な目に合わせる訳には いかないよ。
+パパは、お前のこれからの為に崖から 突き落とす気分で自立を促したが…… パパの方が心配で死ぬかと思ったよ。","No can do. I can`t let you get into danger anymore.
+ Daddy was really harsh and hands-off so you could become independent... But it ended up worrying me sick."
+Takayama Hami (talking),えー、だったらサンタワーが……,"Ehh, but then the Sun Tower-"
+ (talking),パパがここに作ってやる。,Daddy will build one here.
+Takayama Hami (talking),え、ほんと！？,Really?!
+ (talking),ああ。 だからもう、どこにも行かないでおくれ。,Yes. So please don`t go anywhere anymore.
+Takayama Hami (talking),うん！！,Okay!!
+narrator,この後、オオサカに高山組が攻めてくる事は 無かった。,"After that, the Takayama Family would no longer attack Osaka."
+__system__??,},}
+__system__??,{RETURN = 2:,{RETURN = 2:
+Takayama Hami (talking),やっぱ、簡単に返す訳にゃいかねーな。,"Yeah, I can`t just let you go."
+ (talking),え~~~~。,Awwwwww.
+Takayama Hami (talking),おい。,Hey.
+Chinpira (talking),はい。,Yes?
+Takayama Hami (talking),こいつを使って、金を要求する。 向こうがンガーとあせりたくるような 写真を撮れ。,Ask for a ransom. Take some pictures that`ll leave her dad sweating.
+Chinpira (talking),わかりました。,Understood.
+Takayama Hami (talking),え？ なんなの　なんなの？ きゃー！,Eh? What`s going on? Kyaaaaaah!
+cg narrator,"「やだ、やだ、やだ、やだ！ 　さわんないでー！」
+わらわらと群がってくる男達に、 はみがじたじたと抵抗する。
+ 「いい表情の写真を撮ってやってくれよ」
+ 「はい、悪司さん」
+ 　　［ぱしゃっ］
+シャッターの落ちる音とフラッシュ。
+ 「きゃん！？」
+ 「ほら、もっと抵抗してくれなくちゃ」
+と、言いながら、男ははみの服のボタンをはずした。
+ 「やだ、何すんの！ 　えっち！」
+ 「悪司さーん、どうしますか？ 　もっとエグくいきますか？」
+ 「いんや、明らかに傷モノにされたっちゅーより、 　今からでーすの方が向こうさんアセるだろ」
+ 「それもそっすね。 　じゃあ、チラリズムって感じでいきますよ」
+ 「おう、はりきってガンガンな」
+ 「ういっす」
+ 　　［ぱしゃっ］
+ 「きゃん！ 　やだ、こんな写真撮らないで！」
+ 「さてさて、もっと抵抗してくれよ。 　なんなら、俺の事、殴ってもいいぜ」
+と言いながら、男ははみのスカートの中に 手を入れた。
+ 「や、やだやだやだ。 　ばか、ばか、ばかぁ！」
+はみが暴れると、スカートが大きく広がる。
+ 「シャッターチャーーーンス」
+ 　　［ぱしゃっ］
+ 「いやぁぁ！ 　やめてよ、ばかぁ！」
+ 　　［ぱしゃっ］
+ 「うっ…うえっ…や、やだぁっ……」
+ 「あ、泣き顔いただき」
+ 　　［ぱしゃっ］
+ 「やだぁっ……やめて…やめてよぅ…」
+ 　　［ぱしゃっ］
+ 「ひっく……ひっく……」
+ 　　［ぱしゃっ　ぱしゃっ］
+ 「よーし、その辺でいいだろう」","「Noooooooo! 　Don`t touch Hami!」
+ Hami struggled to resist the men swarming around her.
+ 「Get a nice expression on those photos.」
+ 「Okay, Akuji-san.」
+ 　　*Flash!*
+ The camera flashed as it took a picture.
+ 「Kyah?!」
+ 「C`mon, you gotta resist some more.」
+ The man said as he undid Hami`s dress` buttons.
+ 「Nooo! What are you doing?! 　Perv!」
+ 「What should we do, Akuji-san? 　Do we go even harder?」
+ 「Nah, it 　the worst`s yet to come for her.」
+ 「Guess that`s true. Then I`ll 　give `em just some glimpses.」
+ 「Yeah, let `em have it.」
+ 「You got it.」
+ 　　*Flash!*
+ 「Kyah! 　No, don`t take this kinda photo!」
+ 「C`mon, struggle some more. 　I`ll hit you if I have to.」
+ As he spoke, the man slid his hand under Hami`s skirt.
+ 「N-Nooooooo! 　Stupid, stupid, stupiiiid!」
+ Her skirt spread wide as she struggled.
+ 「Photo op!」
+ 　　*Flash!*
+ 「Nooooooo! 　Stop it, you idiot!」
+ 　　*Flash!*
+ 「W-Waaaah... This is awful...」
+ 「Nice crying face.」
+ 　　*Flash!*
+ 「Noooo... Stop iiiit....」
+ 　　*Flash!*
+ 「Hic... sob...」
+ 　　*Flash!* *Flash!*
+ 「Alright, this should be enough.」"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+Yamamoto Akuji (talking),早速現像して、ヒロシマの高山組に 送ってやんな。,"Get those developed and sent to the Takayama in Hiroshima, ASAP."
+Elite Yakuza (talking),文面はどうしましょう？,What about the letter?
+Yamamoto Akuji (talking),"ん~……
+うちは、お宅の娘さんのせいで、 非常に迷惑を被りました。
+だもんでお金ちょーだい。 現金で１億。
+さっさとくれないと、 この娘さんで稼いじゃうからー。
+ってな塩梅で、丁寧語な文面を 作ってくんな。","Hmmm, go with...
+ “Your daughter caused me some real trouble
+ So gimme some money. 100M in cash.
+ If you don`t, she`ll have to earn it on her back.”
+ Something like that, but with proper language."
+Elite Yakuza (talking),わかりました。,Understood.
+Takayama Hami (talking),ひっく…ひっく……,Hic... sob...
+Hikage Mitsuko (talking),この子、どうしますか、悪司さん…,"What do we do about her, Akuji-san?"
+Yamamoto Akuji (talking),丁重にお預かりだ。 あ、ヤローが味見しにきたら 俺が駄目だっつってたって言いな。,"Take good care of her. And if any dickhead comes to get a taste of her, tell `em I said they can`t."
+Hikage Mitsuko (talking),……女はＯＫ？,...Does that include women?
+Yamamoto Akuji (talking),だめ。,Yes.
+Hikage Mitsuko (talking),わかりました……,Alright...
+narrator,　　☆☆　高山　はみ　☆☆ 　特別捕虜室に移された。,　　☆☆　Takayama Hami　☆☆ 　Transferred to a special hostage cell.
+__system__??,},}
+__system__??,{RETURN = 3:,{RETURN = 3:
+Yamamoto Akuji (talking),お前さんのセンソーごっこのせいで、 うちはえらい迷惑を受けた。,This little pretend war of yours caused us a load of trouble.
+Hikage Mitsuko (talking),そなの？,Really?
+Yamamoto Akuji (talking),だもんで、自分の悪さの代償は 自分の躰で払って貰おうか。,"Yeah, and you`re gonna use your body to compensate us."
+Hikage Mitsuko (talking),ん？　んん？？ どーするの？,Huh? Eh??? What are you gonna do?
+Yamamoto Akuji (talking),タマネギ。,Tamanegi.
+Tamanegi (talking),はい。 この娘ですか。 イケますよ。,Here. Is it this girl? We can work with her.
+Hikage Mitsuko (talking),…………つるつる……,......Flaaaaat...
+Tamanegi (talking),ふふ…… 優しく教えて差し上げますよ、お嬢さん…,"Fufu... I shall teach you gently, little lady."
+__system__??,},}
+narrator,人を避けるように、悪司が立っている。,Akuji stood as if avoiding others.
+Yamamoto Akuji (thinking),そろそろ時間…かな。,Should be about time...
+narrator,と、悪司が時計を覗いていると。,Just as Akuji looked at his watch--
+narrator,向こうから、悪司と同じく人を避けるように、 高山ヤクザが現れた。,"From the opposite side, a Takayama yakuza showed up, also seemingly avoiding others."
+takayamayakuza (talking),持ってきた。,I have it with me.
+narrator,そう言って、悪司に大きなアタッシュケースを 見せる。,The yakuza spoke as he showed Akuji a large briefcase.
+Yamamoto Akuji (talking),そこで広げて、中身を確認させてくんな。,"Open it, I wanna check."
+narrator,"悪司の言葉に従い、 アタッシュケースを開ける男。
+中には百万円の札束が山ほど入っていた。","Obeying Akuji, the man opened the briefcase.
+ Several million-yen stacks of bills were inside."
+takayamayakuza (talking),確認してくれ。,Go ahead and count.
+Yamamoto Akuji (talking),ああ……確かに。,Yep... it`s all here.
+takayamayakuza (talking),で、お嬢様はどこに……,Then where is our Young La-
+Takayama Hami (talking),うえ~~~ん！,Waaaaaaah!
+narrator,悪司の後ろの物陰から、 縛られたはみの姿が見える。 その後ろにはチンピラがいた。,"Hami could be seen behind Akuji, completely bound, with a thug next to her."
+takayamayakuza (talking),お嬢様！！,Young Lady!!
+Yamamoto Akuji (talking),おっと、動くな。,"Whoa there, stay put."
+takayamayakuza (talking),金は渡しただろう！ お嬢様を返せ！,I gave you the money! Return her!
+Yamamoto Akuji (talking),やっぱ気が変わった。,I changed my mind.
+takayamayakuza (talking),なにぃ！？,What?!
+Yamamoto Akuji (talking),もう１億、用意してもらおうか。,I want another 100M.
+takayamayakuza (talking),こ、この、き、貴様！,Y-You son of a bitch!
+Yamamoto Akuji (talking),もう１億だ。 そうしたら帰してやるよ。,Another 100M. Got that? I`ll let her go then.
+takayamayakuza (talking),ま、待て！,W-Wait!
+Yamamoto Akuji (talking),またな。,See ya.
+narrator,悪司は奥にいたはみとチンピラと共に 姿を消した。 アタッシュケースを持って。,"Akuji left along with the thug, the bound Hami... and the briefcase."
+takayamayakuza (talking),くっ…くぅぅぅ！！,Kh...!
+narrator,人目につかない場所に、悪司が立っている。,Akuji stood in a secluded place.
+narrator,そこに殺気を隠そうともしないでいる 高山ヤクザが現れた。,"There, a Takayama yakuza showed up, not even bothering to hide his bloodlust."
+Yamamoto Akuji (talking),おう、金は持ってきただろうな？,"Yo, you got the money?"
+narrator,男は黙って悪司の足元に アタッシュケースを投げつけた。,The man tossed a briefcase at Akuji`s feet without saying a word.
+Yamamoto Akuji (talking),どれどれ…… よし、確かに１億だ。,"Lessee... Yep, that`s 100M alright."
+takayamayakuza (talking),今度こそ、約束を守るんだろうな？,You keeping your promise this time?
+Yamamoto Akuji (talking),ああ。 こんだけ頂けたんなら、もう充分だ。,Yeah. Getting this much was enough.
+narrator,悪司が後ろにいる部下に合図すると、 はみが連れてこられた。,"Akuji signaled to his subordinate, who then brought Hami out."
+Takayama Hami (talking),あんっ！,Ahn!
+takayamayakuza (talking),お嬢様！,Young Lady!
+Takayama Hami (talking),う、う~~~~！！,Uuuuu...!
+narrator,チンピラがはみの手を放した途端、 はみは走り出し、高山ヤクザの後ろに隠れた。,"The moment the thug let go of Hami, she ran towards the yakuza and hid behind him."
+Yamamoto Akuji (talking),確かにお返ししたぜ。,There you have her.
+takayamayakuza (talking),うむ。,Good.
+Yamamoto Akuji (talking),"そいつのおやっさんに言っとけ。 これでお前達がオオサカに攻め込んだ件は 帳消しにしてやる。
+今後、互いに一切干渉しない事。 さもねーと……
+可愛い娘のはっずかしー写真が掲載された 雑誌なんかが、全国発売されたら、 傷つくのは誰なのかなーと。
+そーいう感じで、伝言頼むわ。","Tell her old man that with this, I`m gonna forget you guys ever attacked Osaka.
+ We won`t fuck with each other anymore. And if you do...
+ Well, he might find his cute daughter`s naughty pics being published all over the country.
+ Relay that for me, will ya?"
+takayamayakuza (talking),……………,...
+Yamamoto Akuji (talking),そいじゃーな。 もうあんまおいたすんじゃねーぞ、 お嬢ちゃん。,"See ya. Try to stay outta trouble from now on, little missy."
+Takayama Hami (talking),あっかんべーー！,Stupid! Get lost!
+Chinpira (talking),はい、ヒロシマからのお客さん、 お待たせしました~。,"Sorry for the wait! So you`re from Hiroshima, sir?"
+takayamayakuza (talking),ホントに女が抱けるとは 思ってなかったよ。,Yeah. I never thought I could get laid like this.
+Chinpira (talking),"あ~、ウィミィの体制が キツイっすからね~。
+ですからお客さん、ここの事は 絶対内緒っすよ。
+バレたら、 お客さん達も同罪ですからね~。 一緒にくさいメシを食う事になりますよ。","Yeah, Wime`s rules makes it difficult for everyone.
+ So make sure to keep this place a secret, okay?
+ If we get busted, you`ll all be in it as well. We`re all gonna end up in the clink."
+takayamayakuza (talking),ああ、わかってる。 絶対秘密だ。,"Yeah, I know. I won`t tell a soul."
+Chinpira (talking),はい、それではいってみましょうか~。 はみちゃん。 ハッスル、ハッスル~！,"Aight, then let`s get to it, Hami-chan! Let`s hustle!"
+takayamayakuza (talking),は…,Ha-
+takayamayakuza (talking),はみ様！？,Hami-sama?!
+cg narrator,"「はーーい☆」
+「ほ、ほんとに、ほんとにはみ様が、 　お、俺のを、あ、ああ~っ……！！」
+男はあっけない程簡単に、はみの掌だけで イってしまった。
+「ふふっ……気持ちいい？」
+はみが艶っぽい声で男に聞く。
+「は、はい…気持ちよかったです…… 　凄い技術です……」
+「でしょ？ 　はみ、とっても頑張ってるもん」
+「あ、は、はみ様、それ以上絞めるのは、 　おやめ下さい… 　ただでさえ、きついのに…」
+はみの下でもだえている男が、はみに言う。
+「ふふ……じゃあ、こーしてあげようか？」
+無邪気にはみは笑うと、男のものを中で きちきちと器用にうねるように絞めつけた。
+「お、あ、ああ！」
+腰を振ってもいないはみの愛撫に、 男はさらに悶え声をあげる。
+「これ、いいでしょ？ 　タマネギさんに名器って誉められちゃったの。 　はみ、嬉しかったー」
+男の胸を愛撫しながらはみが笑って言う。
+「うっ……いいのだろうか… 　組長の大事な娘さんに、こんな…こんな…」
+「というか、ここにきている事自体、 　秘密にしなくてはいけないから…」
+「だとしたら、ここにはみ様がいたという事も 　言わなくていいという事だな…」
+「………という事は…ここは楽しんだ方が 　賢いという事か？」
+「どしたの？ 　もういいの？」
+罪悪感から生まれた男達の結束は、 共通の快楽に向かった。
+「よく考えたら、組長の娘さんにこんな事 　させてもらえるなんて、普通に考えたら 　ない事だもんな」
+と、言いながら、はみの掌にぎんぎんに 突っ張った一物を置く男。
+「お、おお、そうだ！ 　だから楽しむんだ！」
+と言いながら、はみの頬に手を沿えると、 固くなった切っ先をはみの唇に当てる男。
+「あ、そう考えると、俺、ラッキー！ 　もう入ってるよ！」
+と言いながら、はみの細い腰に手を宛う男。
+「やったー。 　みんな、遊んでくれるんだー」
+「は、はい、もちろんです、はみ様！」
+と言いながら、はみの掌の愛撫を喜ぶ男。
+「そ、そのちっちゃな唇にこんなものを 　入れられる日がくるなんてー！」
+「ふふ……」
+男の歓喜を素直に受け取り、はみは小さな口を 大きく開け、雫が垂れ始めている男のそれを咥えた。
+「は、はみ様、動きますよ、いいですか？ 　いいですね？」
+と言いながら、 小さなはみの躰を乱暴に縦に振る男。
+「あっ…あんっ！」
+男のものを咥えている口の端から、 はみの甘い声が漏れる。
+はみの両手が、自分の掌にある男のものを、 慣れたしぐさで擦りあげていく。
+到達に向かって硬度をあげていくそれの裏筋を 下から上に撫で上げる細い指。
+程よい暖かさを保ちながら、 先端をまさぐる小さな掌。
+薄い舌先が、透明な雫を滴らせた先端を広げ、 奥の方まで嘗めていく。
+男達は声にならない声をあげ、 はみの手管にのめりこんでいく。
+それと同時にはみは自分が咥えこんでいる 男のものも、愛撫する。
+感情の赴くままに動く男の腰に腰を合わせ、 男が甘い声をあげた時に刺激した場所を、 ランダムに刺激し続けていく。
+「おっ…お嬢様がこんな…こんな… 　凄いです…こんな事されたの、は、初めてで…」
+掌で愛撫を受けている男の腰がびくびくと震え出す。
+「くっ…だっ…駄目だっ… 　も、もういいですか？ 　お、お嬢様っ……」
+掌だけでなく、舌で、唇で愛撫を受けている男が、 悲鳴に近い声をあげる。
+「いーよ、んっ…んんっ…」
+男の声に喜んだはみが、唇で男根をすっぽりと 包みこむと、顔を素早く前後に動かした。
+「お、あ、うっ……！」
+「きゃん☆」
+男はあっという間に陥落し、 はみの顔に白濁の体液をぶち撒けた。
+「じゃあ次は、二人一緒に昇天させたげる」
+はみは笑いながらそういうと、 腰を素早く動かし始めた。
+「くっ…おお！？」
+はみの下の男の腰が、びくびくと痙攣したように、 愛撫に反応する。
+「こっちもー」
+と、はみは暴発寸前の男のものを 両手でしごき出した。
+「おあっ！」
+袋と棒を一度に不規則な動きで愛撫された男の腰も ビクリと跳ねる。
+「んっ……くぅぅ！！」 「おぁっ……ぁ！」
+と、男二人の声が同時にあがった。
+はみの掌から白濁の体液が飛び散る。 はみの花弁から、白濁の体液が泡になって 溢れてくる。
+「ふふっ……楽しかったね」
+はみはそう言って無邪気に笑った。","「はーーい☆」
+ 「ほ、ほんとに、ほんとにはみ様が、 　お、俺のを、あ、ああ～っ……！！」
+ 男はあっけない程簡単に、はみの掌だけで イってしまった。
+ 「ふふっ……気持ちいい？」
+ はみが艶っぽい声で男に聞く。
+ 「は、はい…気持ちよかったです…… 　凄い技術です……」
+ 「でしょ？ 　はみ、とっても頑張ってるもん」
+ 「あ、は、はみ様、それ以上絞めるのは、 　おやめ下さい… 　ただでさえ、きついのに…」
+ はみの下でもだえている男が、はみに言う。
+ 「ふふ……じゃあ、こーしてあげようか？」
+ 無邪気にはみは笑うと、男のものを中で きちきちと器用にうねるように絞めつけた。
+ 「お、あ、ああ！」
+ 腰を振ってもいないはみの愛撫に、 男はさらに悶え声をあげる。
+ 「これ、いいでしょ？ 　タマネギさんに名器って誉められちゃったの。 　はみ、嬉しかったー」
+ 男の胸を愛撫しながらはみが笑って言う。
+ 「うっ……いいのだろうか… 　組長の大事な娘さんに、こんな…こんな…」
+ 「というか、ここにきている事自体、 　秘密にしなくてはいけないから…」
+ 「だとしたら、ここにはみ様がいたという事も 　言わなくていいという事だな…」
+ 「………という事は…ここは楽しんだ方が 　賢いという事か？」
+ 「どしたの？ 　もういいの？」
+ 罪悪感から生まれた男達の結束は、 共通の快楽に向かった。
+ 「よく考えたら、組長の娘さんにこんな事 　させてもらえるなんて、普通に考えたら 　ない事だもんな」
+ と、言いながら、はみの掌にぎんぎんに 突っ張った一物を置く男。
+ 「お、おお、そうだ！ 　だから楽しむんだ！」
+ と言いながら、はみの頬に手を沿えると、 固くなった切っ先をはみの唇に当てる男。
+ 「あ、そう考えると、俺、ラッキー！ 　もう入ってるよ！」
+ と言いながら、はみの細い腰に手を宛う男。
+ 「やったー。 　みんな、遊んでくれるんだー」
+ 「は、はい、もちろんです、はみ様！」
+ と言いながら、はみの掌の愛撫を喜ぶ男。
+ 「そ、そのちっちゃな唇にこんなものを 　入れられる日がくるなんてー！」
+ 「ふふ……」
+ 男の歓喜を素直に受け取り、はみは小さな口を 大きく開け、雫が垂れ始めている男のそれを咥えた。
+ 「は、はみ様、動きますよ、いいですか？ 　いいですね？」
+ と言いながら、 小さなはみの躰を乱暴に縦に振る男。
+ 「あっ…あんっ！」
+ 男のものを咥えている口の端から、 はみの甘い声が漏れる。
+ はみの両手が、自分の掌にある男のものを、 慣れたしぐさで擦りあげていく。
+ 到達に向かって硬度をあげていくそれの裏筋を 下から上に撫で上げる細い指。
+ 程よい暖かさを保ちながら、 先端をまさぐる小さな掌。
+ 薄い舌先が、透明な雫を滴らせた先端を広げ、 奥の方まで嘗めていく。
+ 男達は声にならない声をあげ、 はみの手管にのめりこんでいく。
+ それと同時にはみは自分が咥えこんでいる 男のものも、愛撫する。
+ 感情の赴くままに動く男の腰に腰を合わせ、 男が甘い声をあげた時に刺激した場所を、 ランダムに刺激し続けていく。
+ 「おっ…お嬢様がこんな…こんな… 　凄いです…こんな事されたの、は、初めてで…」
+ 掌で愛撫を受けている男の腰がびくびくと震え出す。
+ 「くっ…だっ…駄目だっ… 　も、もういいですか？ 　お、お嬢様っ……」
+ 掌だけでなく、舌で、唇で愛撫を受けている男が、 悲鳴に近い声をあげる。
+ 「いーよ、んっ…んんっ…」
+ 男の声に喜んだはみが、唇で男根をすっぽりと 包みこむと、顔を素早く前後に動かした。
+ 「お、あ、うっ……！」
+ 「きゃん☆」
+ 男はあっという間に陥落し、 はみの顔に白濁の体液をぶち撒けた。
+ 「じゃあ次は、二人一緒に昇天させたげる」
+ はみは笑いながらそういうと、 腰を素早く動かし始めた。
+ 「くっ…おお！？」
+ はみの下の男の腰が、びくびくと痙攣したように、 愛撫に反応する。
+ 「こっちもー」
+ と、はみは暴発寸前の男のものを 両手でしごき出した。
+ 「おあっ！」
+ 袋と棒を一度に不規則な動きで愛撫された男の腰も ビクリと跳ねる。
+ 「んっ……くぅぅ！！」 「おぁっ……ぁ！」
+ と、男二人の声が同時にあがった。
+ はみの掌から白濁の体液が飛び散る。 はみの花弁から、白濁の体液が泡になって 溢れてくる。
+ 「ふふっ……楽しかったね」
+ はみはそう言って無邪気に笑った。"
+__system__??,{CG_MODE = 1:,{CG_MODE = 1:
+__system__??,},}
+narrator,"ここ那古教本部の一角に、 ［聖女の間］と呼ばれている小さな部屋がある。
+そこに、主力メンバーである 由女、古宮陽子、月瀬寧々がいた。","In a corner of the Nako Cult`s HQ was a small room called the Saints` Room.
+ The Cult`s top members - Yume, Komiya Youko, and Tsukigase Nene - were in it."
+Tsukigase Nene (talking),――で、明日、ウメダで開こうと 思っている説法会の事なのだけど……,"So, about the sermon we`re planning to hold in Umeda..."
+narrator,　　［ばきゅーん］,　　*Bang!*
+Komiya Youko (talking),えっ……,What?!
+narrator,コミカルな銃声がひとつしたかと思うと、 寧々がその場に倒れた。,"A comical gunshot was heard, and Nene collapsed on the spot."
+Komiya Youko (talking),寧々！？,Nene?!
+ (talking),やったー！ 当たったよ、リクペチ！,"Yaaay! Hami hit her, Rikupechi!"
+Komiya Youko (talking),なっ…！,Wha-?!
+narrator,"そこにはあきらかに余所者と思われる 二人が立っていた。
+寧々を襲った凶弾は、少女の持つ銃から 発射されたようだ。","Two people, clearly outsiders, were standing there.
+ The bullet that took Nene`s life seemed to have come from the young girl`s gun."
+Takayama Rikupechi (talking),見事です。 はみサマ。,"Splendid, Hami-sama."
+Takayama Hami (talking),うん、はみったら凄いねっ！,"Yep, Hami`s awesome!"
+Komiya Youko (talking),貴様ら、よくも寧々を！！,How dare you do this to Nene!!
+Yume (talking),陽子さん！！,YOUKO-SAN!!
+narrator,怒りに我を忘れた陽子がはみに襲いかかる！,"Blinded by rage, Youko attacked Hami!"
+Komiya Youko (talking),うっ…！？,Ugh?!
+narrator,しかし、その陽子の動きが止まった。,"However, Youko stopped moving."
+Takayama Rikupechi (talking),的は動かない。 そういうもの。,The target won`t move. Go on.
+narrator,"陽子より早く、そしていつ動いたのか。 リクペチは陽子の後ろを取り、 首筋に針を刺した。
+陽子は痛みさえ感じる事のないその一撃で 動けなくなってしまった。","Faster than even Youko, Rikupechi slid behind Youko, stopping her by sticking a needle on the back of her neck.
+ Without even feeling pain, Youko was stopped by that one attack."
+Takayama Rikupechi (talking),はみサマ。 どうぞ。,Hami-sama. Take the shot.
+Takayama Hami (talking),うーん！ えーとぉ……,Okay! Aim down the sights...
+narrator,"　　［ばきゅーん　ばきゅーん］
+なんとその弾は、陽子だけではなく、 由女のとどめもさしてしまった！！
+なんと、那古教は全滅してしまった！","　　*Bang! bang!*
+ Her bullets finished off not only Youko, but Yume as well!
+ Just like that, The Nako Cult was no more!"
+takayamayakuza (talking),はみお嬢様。,Lady Hami.
+Takayama Hami (talking),なーに？,Yeeees?
+takayamayakuza (talking),他の連中も大方片づけました。 この地区は、我らのものです。,We`re about done dealing with the rest. This region is now ours.
+Takayama Hami (talking),うーん。,Okay.
+takayamayakuza (talking),はみお嬢様。 これより我らの指揮をよろしく頼みます。,"Lady Hami, we`ll be counting on you to keep leading us."
+Takayama Hami (talking),はーい、がんばりまーす。,"Okaaay, Hami will do her best!"
+narrator,"ヒロシマよりきた 地域管理組合　高山組。
+那古教をまたたく間に殲滅すると、 その地域を管理下に置いた。","The Takayama Family, a RMG from Hiroshima.
+ They annihilated the Nako Cult in mere moments and seized control of the region."
+Takayama Hami (talking),市長さん、こんにちわー。 高山はみです、よろしくお願いします。,"Hello, Mayor. Takayama Hami, at your service."
+Nakayama Akari (talking),あ、あなたみたいな小さな女の子が、 那古教を殲滅したの？！,A-A little girl like you annihilated the Nako Cult?!
+Takayama Hami (talking),うん。 はみ、がんばったよ。,Yep. Hami worked hard.
+Nakayama Akari (talking),あ…あのね……,U-Um...
+Mori Kaoru (talking),あなたの本籍はヒロシマですよね。,"You`re from Hiroshima, aren`t you?"
+Takayama Hami (talking),うん。,Yep.
+Mori Kaoru (talking),"オオサカにとって、 那古教は困った存在でしたが――
+だからといって、他地域の侵略の 足がかりにされる為に殲滅されたのでは、 迷惑です。
+我々は、あなた達の存在を認める訳には いかないのですが。","The Nako Cult was quite the thorn on Osaka`s side, but...
+ If you destroyed them in order to gain a foothold to invade other regions, then we`ll have a problem.
+ We won`t be able to tolerate your continued presence."
+Takayama Hami (talking),……このおばさん、こわい…,...This auntie is scary...
+Mori Kaoru (talking),―――――,―――――
+Nakayama Akari (talking),も、森さん、落ち着いて。 余計怖くなるわ。,"C-Calm down, Mori-san. You`re scaring her too much."
+takayamayakuza (talking),失礼します。,Excuse me.
+Nakayama Akari (talking),は、はい、何かしら？,Y-Yes?
+takayamayakuza (talking),"我々の行動目的は少しの間だけです。 目的を達成したら帰ります。 それまで時間を下さい。
+ご迷惑はおかけしません。","We`ll only be here for a short while, and we`ll leave once we`ve reached our goal, so please wait.
+ We will not cause you trouble."
+Nakayama Akari (talking),"でも……困るの、それじゃあ。 治安維持の問題もあるし……
+そ、それに、パパに相談しないと……","But you already are... And we need to maintain order...
+ I-I also have to consult with my-"
+takayamayakuza (talking),それでしたら、これを。,"In that case, here."
+narrator,と、高山ヤクザは手紙を明里に手渡した。,The Takayama yakuza handed Akari a letter.
+Nakayama Akari (talking),なぁに？ これは……え…… あら……あら……,What`s this? Let`s see... oh...? My oh my...
+takayamayakuza (talking),元市長の中山氏からは、 すでに了解を頂いています。,The former mayor has already given us his approval.
+Nakayama Akari (talking),ほんとね…… あなた達の行動を認めろって 書かれているわ。,He really did... This letter is him telling me to let you all be.
+Mori Kaoru (thinking),"既に、前市長に 根回し済みだったという事か。
+こいつら何をする為にそこまで……","So they already got the all clear from the previous mayor, huh.
+ What made them go this far...?"
+Nakayama Akari (talking),わかりました。 さっきも言ったけど、治安維持の問題は…,"Very well. Like I said earlier, we need to maintain order..."
+takayamayakuza (talking),はい。 出来る限り、努力します。,"Yes, we`ll do everything we can to help with that."
+Nakayama Akari (talking),お願いね。,Please do.
+takayamayakuza (talking),はい。,Alright.
+Takayama Hami (talking),ははは。 ばきゅーん　ばきゅーん。,"Hahahaha, bang, baaang!"
+__system__??,{★★わかめ = 4:,{★★わかめ = 4:
+Takayama Hami (talking),ここが、わかめ組？,Is this the Wakame Family?
+Takayama Rikupechi (talking),はい、はみサマ。,"Yes, Hami-sama."
+Takayama Hami (talking),じゃあ、挨拶しに………,Then let`s go say hi-
+Takayama Rikupechi (talking),待って！,Wait!
+narrator,リクペチははみの腰に手を回し、 はみを止めた。,Rikupechi held Hami back by her waist.
+Takayama Hami (talking),はひっ？？？,Hyah???
+Junky (talking),ひひひひーーー！！ こ、殺す、コロス、殺すーーー！！,HEEHEEHEE! K-KILL! KIIIIIILL!!!
+Junky (talking),ぎゃっはははははははは！！！！！！ さくっと、さくっとーーー！！！！！,Gyahahahahahaha!!! Imma BUTCHER ya!!!
+Takayama Hami (talking),………………,...
+Takayama Rikupechi (talking),…………,...
+Takayama Hami (talking),ちんどん屋さん？？,Are they street musicians??
+Takayama Rikupechi (talking),違います。 あれは、ジャンキーです。,Wrong. They`re junkies.
+Takayama Hami (talking),麻薬しているの？ 悪い人ね。,Do they use drugs? So they`re bad people?
+Takayama Rikupechi (talking),そうですね、絶対、真似しては いけませんよ、はみサマ。,"That`s right, you must never be like them, Hami-sama."
+Takayama Hami (talking),"はーい。
+だけど、あの人達が邪魔で、 中に入れないね。","Okaaaay.
+ But we can`t get inside with them in our way."
+Takayama Rikupechi (talking),このような者を放置している 地域団体に挨拶は不要。,We need not introduce ourselves to a RMG that lets such men go unchecked.
+Takayama Hami (talking),そなの？,Is that so?
+Takayama Rikupechi (talking),帰ります、はみサマ。,"We`re leaving, Hami-sama."
+Takayama Hami (talking),はーい。,Okaaaay.
+narrator,はみとリクペチは、わかめ組に顔を出す事なく、 そこから立ち去った。,Hami and Rikupechi left without meeting with the Wakame Family.
+__system__??,},}
+Ichihashi Ran (talking),客？,Guests?
+Chinpira (talking),へい。 ヒロシマの高山組とか。,Yep. They say they`re the Takayama Family from Hiroshima.
+Ichihashi Ran (talking),なんだい、向こうからきてくれたのかい。,So they came all the way here?
+Chinpira (talking),お通ししますか？,Do we let them in?
+Ichihashi Ran (talking),玄関先でいいよ。 いくよ。,I`ll go meet them at the gate.
+Chinpira (talking),へ、へい。,A-Alright.
+narrator,蘭が玄関に行くと、そこにはみと リクペチがいた。,"Ran went to the front gate, where Hami and Rikupechi were."
+Takayama Hami (talking),ばきゅーん　ばきゅーん。 射殺しちゃうぞー。,"Bang, baaaaang! Hami`s gonna shoot you dead!"
+narrator,はみがリクペチを相手に、 広い玄関で遊んでいた。,Hami was playing with Rikupechi in the spacious entryway.
+Ichihashi Ran (talking),な、なんだい、この緊張感のない連中は…,Wh-What`s with this carefree bunch?
+Takayama Hami (talking),あ、こんにちわー。,"Ah, hello!"
+Ichihashi Ran (talking),はいよ、こんにちわ。,Hello there.
+Takayama Hami (talking),那古教潰して、 シキナにいる高山はみです。,Takayama Hami! We crushed the Nako Cult and are now in Shikina!
+Ichihashi Ran (talking),その事なんたけど。,"Yeah, about that."
+Takayama Hami (talking),うーん？,Yeeees?
+Ichihashi Ran (talking),あそこはキテレツ宗教団体に ぶんどられちまっていたけど、元々は うちらわかめ組のシマなんだよ。,"Though it was snatched away by that strange cult, that region used to be our turf."
+Takayama Hami (talking),ふーん。,Hmmmm.
+Ichihashi Ran (talking),という訳で、返して貰いたいんだけどね。,"So, we`d like you to return it to us."
+Takayama Hami (talking),まだ駄目。,Not yet.
+Ichihashi Ran (talking),まだ……？,Not yet?
+Takayama Hami (talking),うん、あのね、はみ達、サン――,"Yeah, you see, Hami wants the Sun-"
+narrator,はみの言葉を止める為、 リクペチがはみの口を塞いだ。,Rikupechi placed a hand on Hami`s mouth to keep her from talking.
+Takayama Hami (talking),うー　うー　うー。,"Mmmph, mmph, mmmmm!"
+Ichihashi Ran (talking),なんなんだい、一体……,What the hell...?
+Takayama Rikupechi (talking),ワタシら、侵略には興味ない。,We`ve no interest in invading.
+Ichihashi Ran (talking),じゃあなんで、那古教を……,Then why did you attack-
+Takayama Rikupechi (talking),"目的はある。 だけど、あなたがたには迷惑をかけない。
+ワタシ達は目的のものを手に入れたら、 すぐに立ち去る。
+その後は誰の土地でもない。 好きにしたらよい。","We have an objective. However, we won`t cause you any trouble.
+ We`ll leave as soon as we`ve accomplished our goal.
+ After that, the region won`t be anyone`s, so do as you like."
+Ichihashi Ran (talking),って事は、ドンパチするつもりは ナシって事なんだね。,"So you`re not gonna start any wars, is that it?"
+Takayama Rikupechi (talking),そうだ。,Yes.
+Ichihashi Ran (talking),"その言葉、どれだけ信用出来るか わかんないもんだけど……
+まーいいよ。 信用してやるよ。 無鉄砲な二人に免じてね。
+但し。
+ちょっとでも不穏な動きを見せたら、 一斉攻撃だ。 覚悟しておくんだね。","I`m not sure how much I can trust those words, but...
+ Fine. Out of respect for your recklessness, I`ll believe you.
+ However.
+ Make any suspicious moves, and we`ll launch an all-out attack. I hope you keep that in mind."
+Takayama Rikupechi (talking),わかった。 それでは、ナマステ。,"Understood. So with that clear, namaste."
+Ichihashi Ran (talking),………ナマ？？,...Nama-what???
+cg narrator,"「お誕生日おめでとう、はみ」
+ 「ありがと、パパ。 　あのね、はみ、誕生日プレゼントに、 　サンタワーが欲しいの」
+ 「サンタワー…オオサカのかね」
+ 「うん！ 　かわいくてステキ。 　欲しいの欲しいのー！」
+ 「はみはもうＸＸ才（秘密）だからな。 　欲しいものは自分で手に入れなさい」
+ 「自分で？」
+ 「ああ、そうだ。 　パパの部下５０名を貸してあげよう」
+ 「オオサカは、今は混乱している。 　軽く奪ってきなさい」
+ 「はーい、わかりましたー」
+ 「リクペチ、はみを守ってくれよ」
+ 「はい、旦那サマ」","「Happy birthday, Hami.」
+ 「Thanks, Daddy. 　Um, for her birthday present, 　Hami wants the Sun Tower.」
+ 「Sun Tower... the one in Osaka?」
+ 「Yep! 　It`s so cute and lovely! 　Hami really wants it!」
+ 「Well, you ARE already XX years old. 　You must take what you want yourself.」
+ 「Hami, by herself?」
+ 「That`s right. Daddy will lend 　you fifty of his underlings.」
+ 「Osaka`s in turmoil right now, 　go and take it without worry.」
+ 「Okaaaay, Hami understands.」
+ 「Rikupechi, protect Hami.」
+ 「Yes, Master.」"
+Takayama Rikupechi (talking),サンタワーの事、わかめ組に言っては だめです、はみサマ。,"You must not tell the Wakame about the Sun Tower, Hami-sama."
+Takayama Hami (talking),どーしてよー？,Why?
+Takayama Rikupechi (talking),サンタワーのある場所はわかめ組の 領土です。,Because the Sun Tower is in the Wakame Family`s territory.
+Takayama Hami (talking),うん。,Okay then.
+Takayama Rikupechi (talking),サンタワーが欲しいという事は、 喧嘩するという事です。,Wanting the Sun Tower means getting into a fight with them.
+Takayama Hami (talking),そだね。,True.
+Takayama Rikupechi (talking),油断させて奪う。 その為にも、大きな喧嘩、 避けなくてはだめです。,"Let`s get them to lower their guard, thn take it. As such, we must avoid getting into big fights."
+Takayama Hami (talking),あ~~そっか~。 頭いいね、リクペチ。 大好きー。,"Oooh, Hami gets it. You`re so smart, Rikupechi. Hami loves you."
+Takayama Rikupechi (talking),まずは、油断させました。 これからですよ、はみサマ。,"We made them lower their guard, so the real challenge starts now."
+Takayama Hami (talking),うん、はみ、がんばる。,Okay. Hami will do her best.
+Takayama Hami (talking),いっただっきまーす。,Thanks for the meal!
+Takayama Rikupechi (talking),いただきます。,Thanks for the meal.
+narrator,二人は、ヒロシマ焼きを食べている。,The duo were eating Hiroshima okonomiyaki.
+Takayama Hami (talking),はふはふ、あちあち。 やっぱり、ヒロシマ焼きは最高ね。 リクペチ。,"Phoo, phoo, it`s hot! Hiroshima`s okonomiyaki really is the best, right, Rikupechi?!"
+Takayama Rikupechi (talking),はい。,Yes.
+Takayama Hami (talking),オオサカのお好み焼きは、 生地が多くて固くて下品ね。,Osaka`s okonomiyaki was too doughty and tough. Way too crude!
+Takayama Rikupechi (talking),"はい。
+はみサマ、ソースがついてます。","Indeed.
+ Hami-sama, you have sauce on you."
+Takayama Hami (talking),"ん…ありがと。
+ところでさー、リクペチ。 退屈なの。
+ちょっと遊びたいなー。 はみ、戦争ごっこがしたいの。
+よし、決定ーー。 だーーれーーーかーー。","Mm... Thanks.
+ By the way, Rikupechi, Hami`s bored.
+ Hami wants to play. She wants to play pretend war.
+ Okay, that settles it! Someooooone!"
+takayamayakuza (talking),どうかなさいましたか、お嬢様。,"What is the matter, Hami-sama?"
+Takayama Hami (talking),はみ、戦争ごっこする事にしたの。,Hami`s going to play pretend war.
+takayamayakuza (talking),そろそろ仰る頃だと思いましたので、 既に準備は整えてあります。 いつでもいけますよ。,"I had a feeling you would do that soon, so I have already made the preparations. We can go whenever."
+Takayama Hami (talking),わーーい、やったーー。 それじゃ、れっつごーぅ！,"Yaaaay, well done! Okay then, let`s gooooo!"
+Takayama Hami (talking),奉仕青年団？？,The YCSG??
+takayamayakuza (talking),はい。,Yes.
+Takayama Hami (talking),そこの人達が、はみのとこに戦争ごっこ しかけてきたの？,Those guys came to Hami`s area to play pretend war?
+takayamayakuza (talking),はい。,Yes.
+Takayama Hami (talking),"わーい、わーい。 遊び友達ね。 やったー。
+皆殺しにしちゃうぞー。
+ 　　［ばきゅーん　ばきゅーん］","Yaaaaay, Hami has friends to play with! Awesome!
+ Hami`s gonna kill them all~!
+ 　　*Bang bang bang!*"
+takayamayakuza (talking),うっ……！？,Hngh?!
+narrator,高山ヤクザは、流れ弾で死亡した。,The yakuza died to a stray bullet.
+Takayama Hami (talking),あ、当たっちゃった。,"Oh, Hami shot him."
+Takayama Rikupechi (talking),はみサマ、味方は撃ってはだめ。,"Hami-sama, you can`t shoot your men."
+Takayama Hami (talking),はーい、リクペチ。,"Okaaay, Rikupechi."
+Takayama Hami (talking),"サンタワー　サンタワー。 サンタワーがほーしーい♪
+あ~~ん、いつになったら、 サンタワーがはみのものになるの？","Sun Tower, Sun Toweeer, Hami wants the Sun Toweeer!♪
+ Aaaahhh, how much longer does Hami need to wait before she gets it?"
+Takayama Rikupechi (talking),はみサマ、もう少し辛抱。,"Hami-sama, please wait a bit longer."
+narrator,　　［っ……！！］,　　［...!］
+Takayama Hami (talking),ん？,Hm?
+narrator,　　［っ……た！！　………が！！］,　　［...ll!! ...you!!］
+Takayama Rikupechi (talking),……………,...
+narrator,リクペチが武器を手に静かに立ち上がった。,"Weapon in hand, Rikupechi quietly stood up."
+Takayama Hami (talking),リクペチ？,Rikupechi?
+narrator,そして、扉を開ける。,"Thn, the door opened."
+nakokyou  onna (talking),教祖様の仇！！ 覚悟！！,This is revenge for the guru! Prepare yourself!!
+takayamayakuza (talking),リクペチ！！ 避けろ！！,"Rikupechi, dodge!!"
+Takayama Rikupechi (talking),……………,...
+narrator,リクペチは微動だにしない。,Rikupechi did not move an inch.
+nakokyou  onna (talking),あああああ！！！,AAAAAHHH!!!
+nakokyou  onna (talking),えっ……！？,Eh...?!
+narrator,リクペチが姿を消した。,Rikupechi disappeared.
+Takayama Rikupechi (talking),"遅い。
+ 　　［ざしゅっっ］","Too slow.
+ 　　*Slaaaash!*"
+nakokyou  onna (talking),うっ………ぁ！！,Hngh... ghah!
+narrator,女はリクペチの一撃で絶命した。,The woman was slain by Rikupechi`s attack.
+takayamayakuza (talking),大丈夫か！？,Are you okay?!
+Takayama Rikupechi (talking),敵はこれだけか？,Was this the only enemy?
+takayamayakuza (talking),あ、ああ、そうだ。 これで最後だ。,"Y-Yes, she was the last one."
+Takayama Rikupechi (talking),片付けておいてくれ。,Handle the clean-up.
+takayamayakuza (talking),ああ。,Roger.
+Takayama Hami (talking),今の、なぁに？,What was all that?
+Takayama Rikupechi (talking),なんでもないです。,It was nothing.
+Takayama Hami (talking),ふぅん。,Hmmm.
+Takayama Rikupechi (thinking),那古教の残党がいくらきても、 このワタシがすべて殺す。 はみサマには絶対手出しさせない。,"I`ll kill all Nako Cult remnants that come, no matter how many. I won`t let them touch Hami-sama."
+Takayama Hami (talking),お手紙？,A letter?
+Takayama Rikupechi (talking),はい。 ヒロシマのご家族から。,Yes. It`s from your family in Hiroshima.
+Takayama Hami (talking),んー　んー…,Hmm hmm...
+Takayama Hami (talking),"えーと…
+はみ、はみ、はみ、はみ、 私の可愛いはみ。
+抱きしめたい、抱きしめたいぞ、 いますぐこの手で…… これはパパね。
+がんばれはみ、兄さんも頑張るからな。
+また一緒にお風呂に入って 洗いっこしよう。 兄　しんちゃん
+ ……もう、おにーちゃんたら。
+あ、もう一通。
+はみ、あんた邪魔。 帰ってこなくていいからね。 姉　真紀子
+もう、おねーちゃんったら。","Let`s see...
+ Hami, Hami, Hami, my cute little Hami.
+ I want to hug you so bad, you have no idea... This must be Daddy.
+ Good luck, Hami! I`ll work hard, too.
+ Let`s take a bath together and wash each other again sometime. -Your big bro, Shin-chan.
+ ...Geez, onii-chan.
+ Oh, there`s one more.
+ Hami, you`re a bother. So don`t come back. -Your big sis, Makiko.
+ Oh you, onee-chan."
+narrator,その前にはみ達がいた。,Hami and the others stood before it.
+Takayama Hami (talking),やったー、ついにサンタワーが 手に入ったわ。,"Hooray, Hami finally got the Sun Tower!"
+takayamayakuza (talking),おめでとうございます。 お嬢様。,"Congratulations, Young Lady."
+narrator,そう言って並んでいる高山ヤクザ達が ぱちぱちと手を叩く。,The Takayama yakuza lined up behind Hami were all clapping.
+Takayama Rikupechi (talking),はみサマ。 おめでとうございます。,"Congratulations, Hami-sama."
+Takayama Hami (talking),これ、はみ専用ね？,"This is only Hami`s now, right?"
+Takayama Rikupechi (talking),はい。,Yes.
+Takayama Hami (talking),"じゃあ、名前書いておこうっと。
+えーと、たーかーやーま……","Then Hami`ll put her name on it.
+ Let`s see... T-a-k-a-y-a-m-a..."
+shigikaishokuin (talking),こら、何をしてるんだ！？ それは、公共の――,"Hey, what`re you doing?! That`s a public-"
+narrator,　［ばきゅーん　ばきゅーん］,　*Bang!*
+shigikaishokuin (talking),ぎゃああ！！,Gyaaaaah!!
+narrator,男ははみに撃たれ、死んだ。,Hami shot the man dead.
+Takayama Hami (talking),んん~~……,Hmmm...
+Takayama Rikupechi (talking),どうしました？,What`s the matter?
+Takayama Hami (talking),サンタワーって写真で見るより 可愛くないね。,The Sun Tower`s not as cute as it was in the photo.
+Takayama Rikupechi (talking),そうですか？,Really?
+Takayama Hami (talking),もういいや。帰ろっと。,Hami`s had enough. Let`s go back.
+Takayama Rikupechi (talking),わかりました。 では車をシキナへ――,"Understood. Driver, take us to Shikina-"
+Takayama Hami (talking),違うよ、ヒロシマの実家に帰るの。 オオサカ、もう飽きちゃった。,"No, Hami meant back to Hiroshima. She`s tired of Osaka."
+Takayama Rikupechi (talking),わかりました。 では、オオサカから撤退いたしましょう。,Understood. Then we shall withdraw from Osaka.
+narrator,"翌日。 高山組は現れた時と同じように いつのまにか立ち去った。
+オオサカの地を荒らすだけ荒らして……","The following day. The Takayama Family were gone just as quickly as they`d shown up.
+ They ravaged Osaka as much as they could..."
+narrator,はみはソファの上に転がり、 書き物をしていた。,"Hami was sprawled out on the sofa, writing on a notebook."
+Takayama Hami (talking),きょーうーでー。,"Todaaaay, Hami..."
+Takayama Rikupechi (talking),はみサマ、何をしてるですか？,"Hami-sama, what are you doing?"
+Takayama Hami (talking),日記を書いてるの。 えらい？,Writing a diary. Isn`t Hami great?
+Takayama Rikupechi (talking),はい。,Indeed you are.
+Takayama Hami (talking),えーっと… 戦争開始まで後,"Uuuum, until the battle starts, Hami has to wait"
+Takayama Hami (talking),"週ーっと。
+もうすぐだよ。","more weeks.
+ Almost there!"
+Takayama Rikupechi (talking),はい。,Yes.
+__system__??,{RND = 1:,{RND = 1:
+Takayama Hami (talking),リクペチ、おなかすいた~。,"Rikupechi, Hami`s hungry!"
+Takayama Rikupechi (talking),待って、もうスグ、カレーが出来る。,"Hang on, the curry`s almost done."
+Takayama Hami (talking),わーい、カレー、わーい。,"Yaaaay, curry!"
+__system__??,},}
+__system__??,{RND = 2:,{RND = 2:
+Takayama Hami (talking),リクペチ、喉乾いたの。 なにかちょーだい。,"Rikupechi, Hami`s thirsty. Do you have anything?"
+Takayama Rikupechi (talking),インドジュー…,I have Indian ju-
+Takayama Hami (talking),いらない。,Don
+__system__??,},}
+__system__??,{RND = 3:,{RND = 3:
+Takayama Rikupechi (talking),はみサマ、そろそろおやすみの お時間です。,"Hami-sama, it`s almost your bedtime."
+Takayama Hami (talking),やだやだ、もーちょっとだけ、 トランプする~。,"Noooo, Hami wants to play cards for a bit longer!"
+Takayama Rikupechi (talking),しかたないです。 もう少しだけです。,"Very well then, but only for a bit longer."
+Takayama Hami (talking),わーい。,Yaaaay!
+__system__??,},}
+narrator,はみの前に、二人の高山ヤクザがいる。,Two Takayama yakuza stood before Hami.
+Takayama Hami (talking),なぁに、あなた達。 どしたの？,What`s with you guys? What happened?
+takayamayakuza (talking),"はっ。 組長よりこちらに派遣されました。
+お嬢様、組長よりお手紙を 預かっております。","Young Lady, we were sent here by the chairman.
+ We have also received a letter for you."
+Takayama Hami (talking),"見せて、見せてー。
+えーとー……","Show it to Hami.
+ Uuuum..."
+__system__??,{RND = 1:,{RND = 1:
+Takayama Hami (talking),はみ　はみ　はみ。 頑張ってサンタワーを手に入れておいで。 おにーちゃんは待ってるよ。,"Hami, Hami, Hami. Do your best to get the Sun Tower. Your big bro`s waiting."
+__system__??,},}
+__system__??,{RND = 2:,{RND = 2:
+Takayama Hami (talking),はみ、その二人ははみの好きなように 使いなさい。 愛してるよ、パパより。,"Hami, use those two however you like. I love you. -Daddy"
+__system__??,},}
+__system__??,{RND = 3:,{RND = 3:
+Takayama Hami (talking),"はみ　はみ　はみ。 怪我をしそうになったら すぐに帰ってくるんだよ。
+君の肌に傷がつくなんて耐えられない。 おにーちゃんより。","Hami, Hami, Hami. Come back right away if it looks like you`ll get hurt.
+ I can`t bear the thought of your skin becoming damaged. -Big bro"
+__system__??,},}
+__system__??,{RND = 4:,{RND = 4:
+Takayama Hami (talking),"可愛いはみ、元気かな？ パパは元気だよ。
+そちらに飽きたらいつでも 帰っておいで。","My cute little Hami, are you doing well? Daddy`s doing great.
+ Come back home whenever you get tired of that place."
+__system__??,},}
+Takayama Hami (talking),"ふーん。
+とりあえず、あなた達ははみのものね。","Hmmm.
+ Well, you guys work for Hami now."
+takayamayakuza (talking),はい。,Yes.
+Takayama Hami (talking),じゃあ頑張って、サンタワーを はみのものにするぞー！ おーぅ！,Then do your best and get the Sun Tower for Hami! Yeeeeaaaaah!
+narrator,そこに二人の男が現れた。,Two men showed up.
+narrator,高山組の者だった。,They were from the Takayama Family.
+takayamayakuza (talking),はみお嬢様……,Young Lady Hami...
+takayamayakuza (talking),仇は必ず討たせて頂きます。,We`ll avenge you without fail.
+Takayama Hami (talking),リクペチ…,Rikupechi...
+Takayama Rikupechi (talking),はい？,Yes?
+Takayama Hami (talking),ひょっとして、はみ達、負けてるの？,Could it be that Hami`s losing?
+Takayama Rikupechi (talking),……………,...
+Takayama Hami (talking),………ピンチ？,...Are we in trouble?
+Takayama Rikupechi (talking),………………,...
+Takayama Hami (talking),死んじゃうの…？,Are we gonna die...?
+Takayama Rikupechi (talking),そのような事はありません。 このリクペチが、絶対、はみサマを お守りします。,"That will not happen. I, Rikupechi, will protect you no matter what."
+takayamayakuza (talking),は、はみ様、お嬢様~~！！,Y-Young Lady!!
+Takayama Hami (talking),なぁに？ はみ今、チョコ食べてて忙しいの。,What is it? Hami`s busy eating chocolate right now.
+takayamayakuza (talking),大変です、キっ……キタハマが、 奉仕青年団に乗っ取られてしまいました。,"It`s terrible, th-the YCSG has taken over Kitahama."
+Takayama Hami (talking),"あ~~~………
+大ピンチ？","Aaaaah...
+ Are we in big trouble?"
+takayamayakuza (talking),はい、そうです！,We are!
+Takayama Hami (talking),リクペチ……,Rikupechi...
+Takayama Rikupechi (talking),…………,...
+Takayama Hami (talking),あ、そーだ。 パパにお電話してみるね。 リクペチ、ダイヤル回して。,"Oh, right! Hami will give Daddy a call. Rikupechi, dial his number."
+narrator,リクペチははみの言う通り、 ヒロシマへ電話した。,Rikupechi did as instructed and called their Hiroshima HQ.
+Takayama Hami (talking),あ、もしもし、パパ？ はみですよ。 うん、あのね……,"Ah, hello, Daddy? It`s Hami. Yeah, you see..."
+narrator,はみは大雑把に経過を説明した。,Hami gave him a rough summary of the situation.
+Takayama Hami (talking),うん…うん…… はーい。,Yep... yeah... Okaaay.
+narrator,"　　［ちん］
+はみは受話器を置いた。","　　*Click*
+ Hami hung up the phone."
+Takayama Rikupechi (talking),はみサマ、組長はなんと？,What did the chairman say?
+Takayama Hami (talking),がんばれーだって。 はみならきっと勝てるって。,He told Hami to do her best. Said he`s sure Hami can win.
+Takayama Rikupechi (talking),……………,...
+Takayama Hami (talking),なんだか街が騒がしくない？,Isn`t the town kinda noisy?
+takayamayakuza (talking),はい。 この本部の近くまで、奉仕青年団が 攻め入ってきています。,It is. The YCSG`s invading all the way to this HQ`s vicinity.
+Takayama Hami (talking),ふーん。,Hmmm.
+takayamayakuza (talking),はみ様、もう無理です。 ここはひとまず、お逃げ下さい。,"Hami-sama, we are done for here. For now, you must escape."
+Takayama Hami (talking),いやー。サンタワーが欲しいの、 欲しいの。,Nooo! Hami wants the Sun Tower!
+takayamayakuza (talking),はみ様、そのような事を仰らず…,"Hami-sama, please don`t say that."
+Takayama Hami (talking),いやーいやー。,No! Hami doesn`t wanna!
+takayamayakuza (talking),あっ…兄貴…,A-Aniki...!
+takayamayakuza (talking),ケンジ！！ どうした！？ 戦況は！？,Kenji! What happened?! What`s the situation like?!
+takayamayakuza (talking),す、すみません……,I-I`m sorry...
+takayamayakuza (talking),おい、ケンジぃぃ！,KENJIIII!
+Takayama Hami (talking),どうしたの？ 死んだの？,What`s wrong? Did he die?
+takayamayakuza (talking),はい……ううっ……いい奴でした。,"Yes... Dammit, he was a good man."
+Takayama Hami (talking),もしかして大ピンチ？,Are we in big trouble?
+takayamayakuza (talking),はい……大ピンチも大ピンチです。,"Yes, terribly big trouble."
+Takayama Hami (talking),じゃ逃げようかな…… ヒロシマに帰ろうよ。,Guess we should escape then... Let`s go back to Hiroshima.
+takayamayakuza (talking),………………,...
+Takayama Hami (talking),どうしたの？ ヒロシマに帰りたかったんでしょ？ みんな。,What`s the matter? Didn`t everyone wanna go back to Hiroshima?
+takayamayakuza (talking),もう、無理です…… こうなっては逃げる事も……,It`s no use anymore... We can`t escape now...
+Takayama Hami (talking),えーーー、どうしてえ！,Whaaat?! Why?!
+takayamayakuza (talking),はみ様……,Hami-sama...
+takayamayakuza (thinking),あんただよ、あんたのせいだよー！ あんたがダダこねたからだろー！ 何がサンタワーだー！！,It`s all your fault! This is all because you kept being unreasonable! Fuck the Sun Tower!
+Takayama Hami (talking),リクペチ！！,Rikupechi!!
+Takayama Rikupechi (talking),くっ……うぅっ……,Kh... Ugh...
+narrator,はみの前に、瀕死のリクペチが運ばれてきた。,A half-dead Rikupechi was carried to Hami.
+Takayama Hami (talking),しっかり…しっかりして。 死なないで……,G-Get a hold of yourself. Don`t die...
+Takayama Rikupechi (talking),だっ……大丈夫です… ………っ…あれを……,I-It`s alright... ...Give me that...
+Takayama Hami (talking),あ、いつものね……,"Oh, the usual, right?"
+narrator,と言って、はみは瓶に入った液体を コップに注いだ。,"With that, Hami grabbed a bottle and poured the liquid inside into a cup."
+Takayama Hami (talking),うっ……凄い臭い… くさいよ~……,"Ugh, this smells awful... It reeeeks!"
+narrator,それは、インドの謎のジュース、 インドジューだった。,The liquid was a mysterious Indian juice.
+Takayama Hami (talking),は、はい、リクペチ……,"H-Here you go, Rikupechi."
+Takayama Rikupechi (talking),ありがとうございます……,Thank you...
+narrator,リクペチは目を瞑って、それを飲み干す。,Rikupechi closed her eyes and drank it all.
+Takayama Hami (talking),そんなまずそうなもの、飲んで平気？,How can you drink something that bad?
+Takayama Rikupechi (talking),慣れていますから……,I`m used to it...
+narrator,みるみるリクペチに生気が戻ってくる。,Life slowly returned to Rikupechi.
+Takayama Rikupechi (talking),…ふう……,Phew...
+narrator,リクペチは、謎のインドジューで完全復活した。,Rikupechi completely recovered with the juice.
+Takayama Rikupechi (talking),これでまた、はみサマをお守りする事が 出来ます。,"With this, I can once again protect you, Hami-sama."
+Takayama Hami (talking),うん、そーね、リクペチ。,"Yep, you do that, Rikupechi."
+narrator,元那古教幹部達の住まいの前に、 悪司達はやってきた。,Akuji and the others arrived at the former residence of the Nako Cult execs.
+Yamamoto Akuji (talking),ここか。,This the place?
+Chinpira (talking),へい。,Yep.
+Yamamoto Akuji (talking),やっと追い詰めたって訳か。,We finally have them cornered.
+narrator,悪司は咥えていた煙草を地面に捨てた。,Akuji threw away the cigarette in his mouth.
+Yamamoto Akuji (talking),"よーし、ここに高山組のボスがいる。 ひっつかまえろ。
+散々、俺のシマで好き勝手 してくれた礼をするぜ。","Alright, the Takayama`s boss is in here. Capture `em.
+ I`m gonna make them pay for fucking up my turf like they did."
+Chinpira (talking),へい！,Yeah!
+Takayama Hami (talking),リクペチ、しっかりして… リクペチ……,"Rikupechi, get a hold of yourself! Rikupechi..."
+narrator,はみは、リクペチの復活の素、 インドジューをリクペチに手渡す。,"Hami gave Rikupechi the source of her recovery, the Indian juice."
+Takayama Rikupechi (talking),"うっ…ううっ…んっ……
+うっ…ごほっ…ごほっ……","Ugh... mmmgh...
+ Gulp... gulp..."
+narrator,いつもならそれを飲むだけで復活する リクペチだったが、今までの無理がたたったのか いくら飲んでも回復しなかった。,"Usually, Rikupechi would recover just from drinking it, but as if the damage had finally caught up to her, the juice was not working."
+Takayama Hami (talking),そ、そんな~… 頑張って…頑張って、リクペチ…,"N-No way... Hang in there, Rikupechi..."
+Takayama Rikupechi (talking),はみ…サマ……,Hami-sama...
+Takayama Hami (talking),ど、どうしたら…,Wh-What should Hami do...?
+takayamayakuza (talking),大変です！ お嬢様、逃げて下さい。,"This is terrible! Young Lady, please run away."
+Takayama Hami (talking),で、でも、リクペチが……,B-But Rikupechi is-
+takayamayakuza (talking),リクペチはもう動けません。 は、早く！ 奴らが――,Rikupechi can`t move anymore. H-Hurry! Thjose bastards are-
+narrator,それまで喋っていた男が急に床に倒れた。,The man fel lto the floor mid-sentence.
+Yamamoto Akuji (talking),さーて、これで最後か。,That`s the last of `em.
+narrator,高山ヤクザを昏倒させたのは悪司だった。,Akuji was the one who`d knocked him out.
+Yamamoto Akuji (talking),お前さんが、高山組のボスだな。,So you`re the Takayama`s boss?
+Takayama Hami (talking),"きゃ…
+きゃーーー　きゃーー　きゃー！！","Kyah...
+ KYAAAAAAAAAH!!!"
+Yamamoto Akuji (talking),おおっと！,Whoa there!
+narrator,"　［ばきゅーん　ばきゅーん　ばきゅーん］
+はみは悪司に向かって何発も何発も発射した。
+悪司は壁の影に隠れる。","　*Bang! Bang! Bang!*
+ Hami aimed at Akuji and fired over and over.
+ Akuji hid behind a wall."
+Yamamoto Akuji (talking),なんてじょーちゃんだ、まったく…,"What a crazy brat, damn..."
+narrator,　　［かち］,　　*Chack!*
+Takayama Hami (talking),えっ！？,Huh?!
+narrator,　　［かち　かち　かち］,　　*Chack! Chack! Chack!*
+Takayama Hami (talking),嘘……た、弾が……,No way... Hami`s out...
+Yamamoto Akuji (talking),はい、そこまで~。,"Okay, that`s enough."
+Takayama Hami (talking),え、えっ……,E-Eh?!
+Yamamoto Akuji (talking),連れてけ。,Take `er away.
+Takayama Hami (talking),え~~~~ん……,Noooooo!
+narrator,　☆☆　高山オオサカ支部（シキナ）　☆☆,"　☆☆　Takayama, Osaka Branch (Shikina)　☆☆"
+narrator,　奉仕青年団の管理下に組み入れた。,　The YCSG has seized control.
+takayamayakuza (talking),はみ様、どちらですか？,"Hami-sama, a moment, please."
+Takayama Hami (talking),なにー？,What is it?
+takayamayakuza (talking),わかめ組が壊滅しました。,The Wakame Family`s been destroyed.
+Takayama Hami (talking),え、ほんと？,"Huh, really?"
+takayamayakuza (talking),奉仕青年団という組織が 潰したそうです。,It seems they were crushed by a group called the YCSG.
+Takayama Hami (talking),ふーん、どうしよう… わかめ組を倒してサンタワーを奪う 計画だったのに。,"Hmmm, what now...? The plan was to beat the Wakame Family and get the Sun Tower, too."
+Takayama Rikupechi (talking),問題ありません。 その奉仕青年団を倒せばよいだけです。,Therez beat the YCSG now.
+Takayama Hami (talking),そっか、さすがリクペチ。,"Ooh. You`re smart, Rikupechi."
+Takayama Hami (talking),こんにちわー。,Hello.
+ (talking),はーい？,Yes?
+Takayama Hami (talking),湯室世津子さん？,Yumuro Setsuko-san?
+Yumuro Setsuko (talking),はい、そうですけど…,"Yes, that`s me."
+Takayama Hami (talking),今日からここは、はみのナワバリです。 よろしくお願いしまーす。,This is Hami`s territory from now on. Nice to be working with you!
+Yumuro Setsuko (talking),え……そ、それって……,What? D-Does that mean...
+Takayama Hami (talking),えーと、はみ、 ちいきかんりくみあいだから、 ナワバリ作るの。,"Uuum, Hami`s from a arr emm gee, so she`s expanding her territory."
+Yumuro Setsuko (talking),"地域管理組合っ……
+でも…そんな……困るわ… 急に……","A RMG?!
+ But... that`s a problem. This was too sudden-"
+narrator,はみの後ろから音もなくリクペチが現れ、 世津子の首に刃をつきつけた。,Rikupechi quietly appeared behind Hami and pointed a blade at Setsuko`s neck.
+Takayama Rikupechi (talking),よいな？ 承諾しろ。,You will comply. Are we clear?
+Yumuro Setsuko (talking),っ……はっ…はい…… わ、わかりました……,"...! Y-Yes, I-I understand..."
+Takayama Rikupechi (talking),はみサマ、これでここは はみサマのもの。,"Hami-sama, this place is now yours."
+Takayama Hami (talking),わーい、やったぁ！,Hooraaaaay!
+narrator,こうしてカネシタは、高山組のものとなった。,"Thus, Kaneshita became Takayama territory."
+Takayama Hami (talking),森くさい……,This forest smells...
+Takayama Rikupechi (talking),そうですね。,Indeed.
+Takayama Hami (talking),で、ここ、はみのものにするには どうしたらいいのかな？,"So, what should Hami do to make this place hers?"
+__system__??,{RND \ 0:,{RND \ 0:
+ (talking),ここは、誰のものでもない…,This isn`t anyone`s place...
+Takayama Hami (talking),んん？？,Hmm??
+Nagasaki Hatao (talking),"ここは…人がくる必要のない場所だ…
+ ……立ち去れ…","People don`t need to come here...
+ ...Leave..."
+Takayama Hami (talking),駄目です。 はみは、ちいきかんりくみあいだから ここは、はみのものでーす。,"No can do. Hami`s from a arr emm gee, so this place is Hami`s."
+Nagasaki Hatao (talking),な…,Wha-
+Takayama Hami (talking),えーい！,Eeeei!
+narrator,　　［ばきゅーん　ばきゅーん］,　　*Bang! Bang!*
+Nagasaki Hatao (talking),ぐっ…！？,Gwah?!
+Takayama Hami (talking),わーい当たった、当たったー。,"Yaaay, Hami hit him!"
+Nagasaki Hatao (talking),"こっ……こんな事で… 俺は死ぬのか……
+ …………そうか……
+ …………っ……","Th-This is how I die...?
+ ...I see...
+ ...!"
+narrator,長崎旗男は息絶えた。,Nagasaki Hatao breathed his last.
+__system__??,},}
+__system__??,{RND = 0:,{RND = 0:
+norakoogii (talking),ワン　ワン　ワン！！,Woof woof!
+Takayama Hami (talking),リクペチ、犬よ ちくわみたいな犬がいるわ！,"Look, Rikupechi, there are dogs here! Haha, they look like chikuwa!"
+Takayama Rikupechi (talking),追い払って。,Get rid of them.
+takayamayakuza (talking),おう。,On it.
+narrator,野良コーギー達は、はみの部下達の手によって 退治された。,Hami`s subordinates got rid of the wild corgis.
+__system__??,},}
+Takayama Hami (talking),これで、はみのものかなー？,So this place is Hami`s now?
+Takayama Rikupechi (talking),はい、はみサマ。,"Yes, Hami-sama."
+Takayama Hami (talking),わーい。 早くサンタワーもほしいなー。,"Yaaaay! Hami wants the Sun Tower soon, too!"
+narrator,こうしてハクアは、高山組のものとなった。,"Thus, Hakua became Takayama territory."
+Takayama Hami (talking),ここ、もうはみのものなの？,Is this place Hami`s now?
+Takayama Rikupechi (talking),はい、はみサマ。,"Yes, Hami-sama."
+Takayama Hami (talking),簡単だったねー。,"That was easy, huh?"
+Takayama Rikupechi (talking),"はい。
+はみサマ、コフンとは何かご存じですか？","Yes.
+ Hami-sama, do you know what Kofun is?"
+Takayama Hami (talking),うん。 昔の人のお墓。,Yep. It`s the grave of people from long ago.
+Takayama Rikupechi (talking),正解です。 すばらしいです。,Correct. Wonderfully done.
+narrator,こうしてコフンは、高山組のものとなった。,"Thus, Kofun became Takayama territory."
+Takayama Rikupechi (talking),はみサマ。 悪司が、オオサカを取ったそうです。,"Hami-sama, it seems that Akuji has taken over Osaka."
+Takayama Hami (talking),へー、そーなんだー。 あの人、すっごい人だったんだねー。,"Huh, is that so? So that guy was someone amazing."
+Takayama Rikupechi (talking),そうなのかもしれません。,Perhaps he was.
+Takayama Hami (talking),あ~あ、だったらはみ、あのまま オオサカに残って、悪司をお婿さんに すればよかった~。,"Awww, then Hami should`ve stayed in Osaka and taken Akuji as her husband..."
